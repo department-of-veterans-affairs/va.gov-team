@@ -33,6 +33,11 @@ still needs to be merged
 * 🟡 GOAL: Complete initial code changes for Oracle Health Site Cancellations
 * 🟡 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities - this is a placeholder for VPG/CES work. This is more of an epic than a goal
 
+* [#78080 Research new appointments options and determine implementation strategy](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78080)
+* [#78061 Document local development process](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78061)
+* [#78057 Create Oracle Health appointment slot search feature flag](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78057) 
+* [#76083 Search for open appt slot at OH facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/76083)
+
 ## ✈️ Planned Releases
 None
 
