@@ -20,6 +20,7 @@ Spanning both surveys
     <th scope="col">12/16/23-1/5/24</th>
     <th scope="col">1/6/24-1/31/24</th>
     <th scope="col">2/1/24-2/12/24</th>
+    <th scope="col">2/13/24-3/5/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
