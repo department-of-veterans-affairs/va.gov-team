@@ -113,6 +113,7 @@ Spanning both surveys
     <td>36%</td>
     <td>33%</td>
     <td>50%</td>
+    <td> </td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -121,6 +122,7 @@ Spanning both surveys
     <td>2 users</td>
     <td>8 users</td>
     <td>5 users</td>
+    <td>5 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
@@ -128,6 +130,7 @@ Spanning both surveys
     <td>8 users</td>
     <td>3 users</td>
     <td>2 users</td>
+    <td>3 users</td>
     <td>none</td>
   </tr>
   <tr>
@@ -137,6 +140,7 @@ Spanning both surveys
     <td>4 users</td>
     <td>4 users</td>
     <td>1 user</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
@@ -145,6 +149,7 @@ Spanning both surveys
     <td>1 user</td>
     <td>1 user</td>
     <td>3 users</td>
+    <td>2 users</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
@@ -153,6 +158,7 @@ Spanning both surveys
     <td>4 users</td>
     <td>6 users</td>
     <td>3 users</td>
+    <td>8 users</td>
   </tr>
 </table>
 
