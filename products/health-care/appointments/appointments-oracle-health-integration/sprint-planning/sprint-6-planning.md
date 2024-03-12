@@ -13,11 +13,14 @@ we will need to include this every time as part of A6 reporting
 
 🟠 goal is in PR/QA check ✅ goal is complete
 
-✅ GOAL: Onboard New Team Members ** Ensure that all team members have completed the items listed in the VFS new team member template
-✅ GOAL: Ensure that all developers have VetsAPI integrated locally
-Each team member that will be developing against VetsAPI code should have a working setup on their local machine.
-This will include vets-website and vets-api, as well as the services hosted by the Mobile Application Platform (MAP) - VetsApi Patient Gateway (VPG), mobile-facility-service, and user-service.
-🟠 Complete initial code changes for Oracle Health Site Cancellations Update the vets-api backend with the code changes necessary to route appointment cancellations to Oracle Health sites. Ensure that the updated workflow is protected behind a new feature flag.
+* ✅ GOAL: Onboard New Team Members
+   * Ensure that all team members have completed the items listed in the VFS new team member template
+* ✅ GOAL: Ensure that all developers have VetsAPI integrated locally
+   * Each team member that will be developing against VetsAPI code should have a working setup on their local machine.
+   * This will include vets-website and vets-api, as well as the services hosted by the Mobile Application Platform (MAP) - VetsApi Patient Gateway (VPG), mobile-facility-service, and user-service.
+* 🟠 Complete initial code changes for Oracle Health Site Cancellations
+  * Update the vets-api backend with the code changes necessary to route appointment cancellations to Oracle Health sites.
+  * Ensure that the updated workflow is protected behind a new feature flag.
 still needs to be merged
 
 ## 🏆 Sprint Goals
@@ -32,6 +35,10 @@ still needs to be merged
 
 ## ✈️ Planned Releases
 None
+
+## Sprint Tickets for Sprint 6
+🟡 rolled from previous sprint 🆕 new goal
+
 <details>
 <summary>Tickets from previous sprint</summary>
 
@@ -54,7 +61,5 @@ CES-302 VPG: Create facility configuration endpoint
 CES-110 CES: Return Cerner appointments from Appointment reads
 CES-109 CES: Return Cerner appointments from Appointment searches
 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities this is a placeholder for VPG/CES work. This is more of an epic than a goal
-<details>
+<details> 
 
-## Sprint Tickets for Sprint 6
-🟡 rolled from previous sprint 🆕 new goal
