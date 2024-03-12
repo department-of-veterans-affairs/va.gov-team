@@ -19,10 +19,12 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 _Presentations occur at noon ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
 | Modernized Check-in | Lori Pusey, Ben Brasso | Patient Check-in | MVP 5/2022 | April 4, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | April 4, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | May 2, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | May 2, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | June 6, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | June 6, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4 holiday)|
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4 holiday)|
 
