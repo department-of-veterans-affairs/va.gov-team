@@ -1,19 +1,23 @@
 **Background**
 
-Problem or Opportunity
+**Problem or Opportunity**
 
-Why
+**Why**
 
-Proposed Solution
+**Proposed Solution**
 
-Audience
+**In of Scope**
 
-Success 
+**Out of Scope**
 
-Risks
+**Audience**
 
-Plan
+**Success** 
 
-Guiding Principles
+**Risks**
 
-LH submit migration - submission status review
+**Plan**
+
+**Guiding Principles**
+
+**LH submit migration - submission status review**
