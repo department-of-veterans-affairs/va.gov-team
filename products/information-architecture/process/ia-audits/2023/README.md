@@ -14,14 +14,14 @@ Hub | Pages audited | Pages needing corrections
 --- | --- | ---
 Health care | 67 | 17
 Disability | 62 | 27
-Education | 100 | 54
+Education | 98 | 54
 Careers | 30 | 23
 Pension | 31 | 9
 Housing | 26 | 17
 Life insurance | 34 | 3
 Burials | 33 | 7
 Records |  11 | 3 
-**Total** | **394** | **160**
+**Total** | **392** | **160**
 
 
 ## Top issues found
