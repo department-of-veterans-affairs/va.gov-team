@@ -173,14 +173,20 @@ Educational Materials for Veterans
 Veteran Recruitment Criteria
 At most, 9 Veteran participants will be recruited by Perigean
 
-##### Criteria:
+#### Criteria:
 
 All Veterans must not have a verified Login.gov account
+
 No more then 4 participants can have a Login.gov account (Answered “yes” to Q1)
+
 No one can have a verified Login.gov account (Answered “Yes, and I have a verified Login.gov account” to Q2)
+
 Veteran must be available to come in person to VHRC site
+
 Veteran must be able to bring required documentation
+
 Veteran must be able to bring personal smart device and access email at VHRC site
+
 Participants with caregivers are able to participate but must be able to complete all research activities without caregiver support
 
 #### Screener Questions
