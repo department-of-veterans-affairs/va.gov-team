@@ -86,7 +86,7 @@ This research will help us understand if/how the personalized app home screen de
   * Screenreader users scheduled in a block (with a11y ride along support)
   * Non-screenreader users scheduled in a block
 * As a part of the screening process, we will have Perigean:
-  * Confirm that participants are Android users.
+  * Confirm that participants are iPhone users.
   * Confirm that participants have download Zoom onto their mobile device (and can use it to screen share) before the research session.
   * Confirm that participants are willing and have room on their device to install a pre-release build of the VA mobile app on their mobile devices.
   * Confirm that participants have VA login credentials that they can use to log out of & into the app on their own (a username and password, not biometrics).
@@ -110,8 +110,8 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 
 #### Primary criteria
-* All participants must be Android mobile users.
-* All participants must be willing to do an activity from their Android mobile device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
+* All participants must be iPhone mobile users.
+* All participants must be willing to do an activity from their iPhone mobile device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
 * All participants must be able to independently log into the VA Health and Benefits mobile app using their VA login credentials.
   * Please confirm via phone follow-up that if the user were to get logged out of the app suddenly, they are able to log back in on their own using their credentials. 
 * At least 8 participants should be active monthly users of the VA Health and Benefits mobile app.
@@ -134,7 +134,7 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session from an Android smart phone such as a Samsung Galaxy or Google Pixel? Any kind of Android smart phone will work, as long as it connects to the internet.**  Note: iPhones will not work for the session
+**1. Are you able to join the Zoom session from an iPhone?**  Note: Android mobile phones will not work for the session
 Response options: yes or no  
 *(If yes, proceed to 1a. If no, disqualify the participant)*
 
