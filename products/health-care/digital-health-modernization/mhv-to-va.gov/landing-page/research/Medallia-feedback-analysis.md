@@ -228,7 +228,6 @@ Other:
     <td>2 users</td>
     <td>none</td>
     <td>1 user</td>
-    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
