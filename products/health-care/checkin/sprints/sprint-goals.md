@@ -10,14 +10,13 @@ ________________________________________________________________________________
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites**
+    - **Sub Goal: CIE Discovery**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
-    - **Sub Goals: Submit Q1 Translations to the State Department**
+    - **Sub Goal: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
-- **GOAL: Discovery**    
 - **GOAL: Address Tech Debt**
-    - **Sub Goal: Migrate to GA4**
+    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
     - **Sub Goal: Move to New AWS Instance**
     - **Sub Goal: DevOps Improvements**
 
