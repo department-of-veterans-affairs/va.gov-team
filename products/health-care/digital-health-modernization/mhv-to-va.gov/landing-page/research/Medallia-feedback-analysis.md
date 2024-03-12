@@ -29,7 +29,7 @@ Spanning both surveys
     <td>25</td>
     <td>36</td>
     <td>14</td>
-    <td>33</td>
+    <td>31</td>
   </tr>
   <tr>
     <th scope="row">A11 Intercept Survey</th>
@@ -38,7 +38,7 @@ Spanning both surveys
     <td>14 responses</td>
     <td>21 responses</td>
     <td>12 responses</td>
-    <td>22 responses</td>
+    <td>20 responses</td>
   </tr>
   <tr>
     <th scope="row">VFS Feedback Button Survey</th>
@@ -56,7 +56,7 @@ Spanning both surveys
     <td>23</td>
     <td>31</td>
     <td>14</td>
-    <td>28</td>
+    <td>27</td>
   </tr>
   <tr>
     <th scope="row">Mobile users</th>
@@ -65,7 +65,7 @@ Spanning both surveys
     <td>2</td>
     <td>4</td>
     <td>0</td>
-    <td>5</td>
+    <td>4</td>
   </tr>
   <tr>
     <th scope="row">Tablet users</th>
@@ -104,7 +104,7 @@ Spanning both surveys
     <td>14</td>
     <td>21</td>
     <td>12</td>
-    <td>22</td>
+    <td>20</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
@@ -113,7 +113,7 @@ Spanning both surveys
     <td>36%</td>
     <td>33%</td>
     <td>50%</td>
-    <td>45%</td>
+    <td>50%%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
