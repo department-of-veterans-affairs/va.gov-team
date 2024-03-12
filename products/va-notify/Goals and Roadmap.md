@@ -14,7 +14,7 @@ Restore Service.
 90 days
 
 ### Metrics
-WIP - Coming soon!
+**Work in Progress**
 
 #### DORA
 Notify
@@ -35,8 +35,8 @@ Strike
 
 #### Platform Satisfaction
 
-#### Throughput
-Proof of concept performance comparison of v2 and v3
+#### API Throughput
+Proof of concept performance comparison of v2 and v3 endpoints
 |               | Average Response Time | P95 Response Time | Minimum Response Time | Maximum Response Time |
 |---------------|-----------------------|-------------------|-----------------------|-----------------------|
 | V2 email 3750 | 496ms                 | 813ms             | 496ms                 | 2 seconds             |
