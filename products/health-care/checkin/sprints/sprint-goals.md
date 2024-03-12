@@ -12,7 +12,7 @@ ________________________________________________________________________________
     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
     - **Sub Goal: CIE Discovery**
 - **GOAL: Increase PCI Usage**
-    - **Sub Goal: Unified Check-in: Priority 1 - New Landing Page & Associated Changes**
+    - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
     - **Sub Goal: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -40,7 +40,7 @@ ________________________________________________________________________________
     - **Sub Goal: CIE Discovery**
         - TBD
 - **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: [Unified Check-in: Priority 1 - New Landing Page & Associated Changes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+    - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
