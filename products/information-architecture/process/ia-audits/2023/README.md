@@ -10,7 +10,7 @@ The audit included reviews of of the following aspects for every page included i
 - Left nav link inclusion and order
 
 
-Hub | Pages reviewed | Pages needing corrections 
+Hub | Pages reviewed* | Pages needing corrections 
 --- | --- | ---
 Health care | 67 | 17
 Disability | 62 | 27
@@ -22,6 +22,8 @@ Life insurance | 34 | 3
 Burials | 33 | 7
 Records |  11 | 3 
 **Total** | **392** | **160**
+
+*Some hubs included legacy content pages, some pages may be double counted if tracked in multiple hubs. 
 
 
 ## Top issues found
