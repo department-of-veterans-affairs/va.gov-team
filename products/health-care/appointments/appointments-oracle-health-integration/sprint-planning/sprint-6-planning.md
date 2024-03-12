@@ -13,11 +13,6 @@ we will need to include this every time as part of A6 reporting
 
 🟠 goal is in PR/QA check ✅ goal is complete
 
-* ✅ GOAL: Onboard New Team Members
-   * Ensure that all team members have completed the items listed in the VFS new team member template
-* ✅ GOAL: Ensure that all developers have VetsAPI integrated locally
-   * Each team member that will be developing against VetsAPI code should have a working setup on their local machine.
-   * This will include vets-website and vets-api, as well as the services hosted by the Mobile Application Platform (MAP) - VetsApi Patient Gateway (VPG), mobile-facility-service, and user-service.
 * 🟠 Complete initial code changes for Oracle Health Site Cancellations
   * Update the vets-api backend with the code changes necessary to route appointment cancellations to Oracle Health sites.
   * Ensure that the updated workflow is protected behind a new feature flag.
