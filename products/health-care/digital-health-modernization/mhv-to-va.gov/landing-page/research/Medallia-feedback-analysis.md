@@ -113,7 +113,7 @@ Spanning both surveys
     <td>36%</td>
     <td>33%</td>
     <td>50%</td>
-    <td> </td>
+    <td>45%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
