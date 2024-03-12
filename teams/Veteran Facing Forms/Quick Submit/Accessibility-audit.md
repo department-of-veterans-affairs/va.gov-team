@@ -30,7 +30,7 @@ The findings in this report are focused on three areas:
 
 <img width="500" alt="3-1-ColorContrast" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/117098918/5eb18c91-f727-4b44-b6c9-60afa9e64af6">
 
-**Caption:** Screenshot from chrome browser showing the Axe browser extension highlighting an orange button that does not match [WCAG's color contrast rules}(https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1#contrast-minimum).
+**Caption:** Screenshot from chrome browser showing the Axe browser extension highlighting an orange button that does not meet WCAG Color contrast rules.
 
 Color contrast issues were found on every page of the application that was tested. Color contrast applies to all text through out the page, and the contrast ratio must be higher the smaller the text is.
 
