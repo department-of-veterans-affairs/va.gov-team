@@ -378,6 +378,7 @@ Survey question 3: what task were you trying to do today?
     <td>--</td>
     <td>1 user</td>
     <td>--</td>
+    <td>--</td>
   </tr>
 </table>
 
@@ -418,7 +419,8 @@ Survey question 3: what task were you trying to do today?
 * Saw correct information
 * Feel secure on VA.gov
 * Very few issues using the website
-* Easier thann calling
+* Easier than calling
+* Fast and efficient
 
 ### Quotes from Veterans
 * "The page loading is slow, the system is not intuitive, you've added the need for more "clicks" to navigate." - 1/5/24, Desktop user
