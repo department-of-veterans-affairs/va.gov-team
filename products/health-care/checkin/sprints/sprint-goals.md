@@ -2,6 +2,58 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>FUTURE SPRINT - 4/3/2024 - 4/16/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## 4/3/2024 - 4/16/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+- **GOAL: Support Production**  
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: CIE Discovery**
+- **GOAL: Increase PCI Usage**
+    - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
+    - **Sub Goal: Submit Q1 Translations to the State Department**
+    - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Address Tech Debt**
+    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
+    - **Sub Goal: Move to New AWS Instance**
+    - **Sub Goal: DevOps Improvements**
+
+#### PLANNED RELEASES 
+- NONE
+  
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+    - **Sub Goal: CIE Discovery**
+        - TBD
+- **GOAL: Increase Usage of PCI**    
+    - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - TBD
+    - **Sub Goals: Submit Q1 Translations to the State Department**
+        - TBD
+    - **Sub Goal: Analyze current metrics to see what they tell us**               
+       - 🟥 [Research] Analyze GA Metrics
+       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
+- **GOAL: Address Tech Debt**
+    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
+        - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77711)  
+    - **Sub Goal: Move to New AWS Instance**
+        - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
+    - **Sub Goal: DevOps Improvements**
+        - 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+        
+------- END FUTURE / TENTATIVE ------
+</details>
+
+______________________________________________________________________________________________________________________________________________________
+
+<details>
 <summary>FUTURE SPRINT - 3/20/2024 - 4/2/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
@@ -26,15 +78,15 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟦 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
+    - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+        - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)
         - ❗ 🟩 [[FE] Change content on ID verification page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78019)
         - ❗ 🟩 [[FE] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
         - ❗ 🟩 [[FE] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
-        - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
-        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+        - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)        
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
     - **Sub Goal: CIE Discovery**
