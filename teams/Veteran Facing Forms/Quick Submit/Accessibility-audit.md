@@ -2,7 +2,7 @@
 
 Tuesday, March 12, 2024   
 Auditor: Jeana Clark - jeana.clark@adhocteam.us   
-Team: Veteran Facing FOrms
+Team: Veteran Facing Forms
 
 ## Rationale
 In preparation for a usability study using the Quick Submit tool, the Veteran Facing Forms team did a quick accessibility audit to ensure a successful experience for screen reader users.
