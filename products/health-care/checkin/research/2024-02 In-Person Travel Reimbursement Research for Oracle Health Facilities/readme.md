@@ -18,10 +18,6 @@ Moderator(s): TBD
 ### Previous Research Studies
 
 - [Past appointments travel reimbursement generative usability study findings - November 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2023-11%20Past%20Appointments%20Travel%20Reimbursement%20Generative%20Usability%20Study/research-findings.md)
-  
-## Participants 
-
-TBD 
 
 ## Findings and Recommendations 
 
