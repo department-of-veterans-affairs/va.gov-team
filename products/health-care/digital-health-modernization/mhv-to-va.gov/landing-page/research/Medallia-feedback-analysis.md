@@ -297,6 +297,7 @@ Survey question 3: what task were you trying to do today?
     <th scope="col">12/16/23-1/5/24</th>
     <th scope="col">1/6/24-1/31/24</th>
     <th scope="col">2/1/24-2/12/24</th>
+    <th scope="col">2/13/24-3/5/24</th>
   </tr>
   <tr>
     <th scope="row">Technical problems</th>
@@ -305,11 +306,13 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>1 user</td>
     <td>--</td>
+    <td>3 users </td>
   </tr>
   <tr>
     <th scope="row">Login/access issues</th>
     <td>11 users</td>
     <td>27 users</td>
+    <td>3 users</td>
     <td>3 users</td>
     <td>3 users</td>
     <td>3 users</td>
@@ -321,6 +324,7 @@ Survey question 3: what task were you trying to do today?
     <td>3 users</td>
     <td>4 users</td>
     <td>--</td>
+    <td>--</td>
   </tr>
   <tr>
     <th scope="row">Missing context or explanation</th>
@@ -329,6 +333,7 @@ Survey question 3: what task were you trying to do today?
     <td>--</td>
     <td>1 user</td>
     <td>3 users</td>
+    <td>--</td>
   </tr>
   <tr>
     <th scope="row">Couldn't get help</th>
@@ -337,6 +342,7 @@ Survey question 3: what task were you trying to do today?
     <td>--</td>
     <td>--</td>
     <td>--</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Issues with travel reimbursement</th>
@@ -345,12 +351,14 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>--</td>
     <td>--</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">No updates for claims</th>
     <td>--</td>
     <td>1 user</td>
     <td>1 user</td>
+    <td>--</td>
     <td>--</td>
     <td>--</td>
   </tr>
@@ -360,6 +368,7 @@ Survey question 3: what task were you trying to do today?
     <td>5 users</td>
     <td>--</td>
     <td>1 user</td>
+    <td>--</td>
     <td>--</td>
   </tr>
   <tr>
