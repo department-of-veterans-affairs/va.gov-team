@@ -122,7 +122,7 @@ Spanning both surveys
     <td>2 users</td>
     <td>8 users</td>
     <td>5 users</td>
-    <td>5 users</td>
+    <td>8 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
