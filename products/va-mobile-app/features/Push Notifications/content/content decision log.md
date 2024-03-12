@@ -1,5 +1,5 @@
 # Content decision log - Push notifications
-While the content needs for push notifications project was small, we used this opportunity to review the end-to-end experience for Veterans when (1) initially being asked to turn on notifications and (2) subsequent encounters with push notification capabilities. Below are before and after screenshots of current content we're updating and screenshots of new screens/content we're suggesting.
+While the content needs for push notifications project were small, we used this opportunity to review the end-to-end experience for Veterans when (1) initially being asked to turn on notifications and (2) subsequent encounters with push notification capabilities. Below are before and after screenshots of current content we're updating and screenshots of new screens/content we're suggesting.
 
 | Before            | After (or net new)         | Explanation        | Decision made by | Date                 |
 | :-------------      | :-------------              |:-------------         |:-------------         |:-------------|
