@@ -9,6 +9,11 @@ In current state, the Veteran does not have a consistently reliable acknowledgem
 This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission. Including the check for duplicates will not only assure the Veterans that their claim has been received but also reduce the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
 
 **Proposed Solution**
+Under this initiative, all Veterans filing a 516 claim via va.gov will be able to
+ - Get a message indicating their claim was submitted successfully or failed submission, if applicable
+ - Have a better and consistent user experince on screen after submitting their claim with clear indication on the outcome( or where to check? this may be part of the next feature that evaluates direction to Claim Status tool)
+ - Have a system in place to prevent duplicates when the claim was submitted the first time
+This also includes the migration of /submit endpoint to Lighthouse
 
 **In of Scope**
 - Lighthouse /submit endpoint migration
@@ -17,6 +22,7 @@ This initiative is created to complete the migration and give Veterans more clar
 - Avoid duplicates (rethink when we clear the in-progress form)
   
 **Out of Scope**
+- 
 
 **Success** 
 
