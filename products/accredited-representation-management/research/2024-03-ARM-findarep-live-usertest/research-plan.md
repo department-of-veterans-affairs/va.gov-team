@@ -114,7 +114,10 @@ Remote on Zoom
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest/conversation-guide.md)
 
 - [Link to website](https://www.va.gov/)
-
+- Temporary links until site is 100% on 03/22
+	- Landing page: https://www.va.gov/disability/get-help-filing-claim/ 
+	- Search Tool:  https://staging.va.gov/get-help-from-accredited-representative/find-rep/
+ 
 
 ## Recruitment<a id="recruitment"></a>
 
