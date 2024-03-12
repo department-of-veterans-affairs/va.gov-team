@@ -21,7 +21,7 @@ Anyone on the UX team can validate dev tickets
 
 Once all issues are resolved:
 
-1. Add a comment to product and dev that the review is complete
-2. Move to "In Dev" queue.
-3. Dev will close the ticket when complete. No need to remove from the UX team board.
+1. Add a comment to Product and Dev saying that the review is complete.
+2. Remove the `appointments-fe-ux` label. This will automatically remove from the ux board. 
+
 
