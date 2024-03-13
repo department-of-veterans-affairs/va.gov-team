@@ -88,20 +88,23 @@ The following metrics will be considered before advancing rollout to the next st
 ### Stage B Results
 
 1. Errors in Sentry:
-2. User reports of outdated information:
-3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+2. Are console errors still happening on page click? 
+3. User reports of outdated information:
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage C Results
 
 1. Errors in Sentry:
-2. User reports of outdated information:
-3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+2. Are console errors still happening on page click? 
+3. User reports of outdated information:
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage D Results
 
 1. Errors in Sentry:
-2. User reports of outdated information:
-3. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+2. Are console errors still happening on page click? 
+3. User reports of outdated information:
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ***
 
