@@ -11,8 +11,6 @@ Period - 03/13/2024 - 03/26/2024
         - [ ] If the issue is not a blocker for submission, start launch
       - BRD (seperation locations endpoint)
         -  Canary launch, followed by staggered release
-      - /generatePDF
-        - [ ] Start migration - abstract provider 
    - 526ez sync with paper version 
        - Toxic Exoposure 
            - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)
@@ -21,11 +19,14 @@ Period - 03/13/2024 - 03/26/2024
           - Complete technical discovery to determine next steps for discrepancies for ancillary forms 4142, 4142a 
 
 - **Other**
+   - [ ] Create a Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
    - [ ] Start breaking down prioritized work to layout the road-map for next two quarters
    - [ ] UX and Design - Start work on the next initiative picked up by Team 1
      
 - **Stretch Goals**
    - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+   - /generatePDF
+        - [ ] Start migration - abstract provider
    - Rated Disabilities migration
        -  Sanity check with the new LH version
        -  Restart staggered release
