@@ -99,11 +99,11 @@ N/A (as of this writing)
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------| 
-| Understandable & Actionable SLO are created |  Published in tabular form             |
+| 75% of the endpoints are covered w/ SLO|  Published in tabular form             |
 | A monitoring methodology is created & published |  Should be a checklist that lives in SLO Github folder            |
 | A publishing schedule is created & published |  Schedule should live in SLO Github folder            |
-| SLO are monitored on a quarterly basis | Will be assigned to engineers, who will have use checklist     |
-| How we are meeting the SLO are published on a quarterly basis | Will be assigned to engineers, who will have use schedule     |
+| SLO are monitored on a quarterly basis | Will be assigneed to Delivery Manager  |
+| How we are meeting the SLO are published on a quarterly basis |  Will be assigneed to Delivery Manager    |
 
 
 ## Baseline KPI Values:
