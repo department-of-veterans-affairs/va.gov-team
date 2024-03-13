@@ -9,9 +9,10 @@ How might we ensure a better site-user experience by ensuring alignment to our V
 ## Overview
 For the purpose of this Initiative, Home Page Benefit Promo Blocks (and content in general) in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the promotion or event they were created for is over.
 
-To provide timely information to Veterans and other users of VA.gov, and to ensure Home Page Benefit Promo Blocks are replaced when appropriate and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page Benefit Promo Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive). The emails should be configurable per content type as well.
+To provide timely information to Veterans and other users of VA.gov, and to ensure Home Page Benefit Promo Blocks are replaced when appropriate and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page Benefit Promo Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive). 
 
 #### Examples of Stale Home Page Benefit Promo Blocks
+TBD
 
 ## Desired User Outcomes
 Veterans, their caregivers and other users of VA.gov will see Home Page Benefit Promo blocks with current, timely information.
@@ -20,27 +21,20 @@ Veterans, their caregivers and other users of VA.gov will see Home Page Benefit 
 Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
 
 ## Desired Business Outcomes
-Editors are automatically notified when Home Page Benefit Promo Blocks they’ve published are expiring, and they are prompted to extend, or remove and update, with fresh content.
+Editors are automatically notified when Home Page Benefit Promo Blocks they’ve published are due to expire, and they are prompted to extend, or archive and then publish fresh content.
 
 ## Undesired Business Outcomes
-Editors ignore the notification emails, and their content is not refreshed (and when the future auto-archive initiative is implemented, their content no longer displays).
+Editors ignore the notification emails, and their content is not refreshed (and when the future auto-archive initiative is implemented, their content is auto-archived and no longer displays).
 
 ## Measuring Success
-90% of Home Page Benefit Promo Blocks are updated due to editors receiving notification emails, ensuring the content doesn’t become stale, or in the case where the banner is for an event or is timeboxed, is replaced at the end of the event end date.
+90% of Home Page Benefit Promo Blocks are updated due to editors receiving notification emails, ensuring the content doesn’t become stale, or in the case where the block is for an event or is timeboxed, is replaced at the end of the event end date.
 
 ### Key Performance Indicators (KPIs)
 * KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
-* 
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+  
 
 #### Baseline KPI Values
-Baseline Values consist of a list of current Home Page Benefit Promo Blocks in PROD, and then follow-up for the MVP will be confirming editors received notifications, and manually checking to see if they updated their content.
-
-For this particular feature, there isn’t a way to obtain metrics from GA.
+Baseline Values consist of a list of current Home Page Benefit Promo Blocks in PROD, and then follow-up for the MVP will be confirming editors received notifications, and manually checking to see if they updated their content. Note that for this particular feature, there isn’t a way to obtain metrics from GA.
 
 ### Objectives and Key results (OKRs)
 
@@ -63,8 +57,8 @@ For this particular feature, there isn’t a way to obtain metrics from GA.
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation, instead of 365 days after, **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 30 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 12:01AM (0001) the morning of the 30th day | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content, thus extending the timeframe, **I WILL** receive an email at 12:01AM (0001) the morning of the 30th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
+| Content Editor receives email three (3) days prior to expiration date | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 30 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor receives email the morning of the 30th day | **AS A** content editor who created a Home Page Benefit Promo Block content type, and who has not edited the content, thus extending the timeframe, **I WILL** receive an email the morning of the 30th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
 | Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Home Page Benefit Promo Block content type, **I WILL** edit the Home Page Benefit Promo Block and add a comment that the content is still needed, **SO THAT** the published date range is reset to 30 days from 'today', e.g. the start date is 'today', and end date is 30 days later, inclusive, **AND** I will receive an email alert three (3) days prior to the 'new' 30th day after editing the content, instead of 365 days after. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date (unless the editor again edits and resets the dates).|
 
 --- 
@@ -108,8 +102,6 @@ N/A
 #### Tickets
 - [Super Epic Aging content notifications for banners & blocks #161230](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/161230)
   
-  
-
 ---
 
 #### Communications
@@ -119,13 +111,12 @@ N/A
 - GitHub Label: sitewide-public-websites
 - Slack channel: #Sitewide-Public-Websites
 - People:
-  - OCTO-DE Leads: Dave Conlon & Danielle Theirry
+  - OCTO-DE Leads: Dave Conlon
   - OCTO-DE IA: Mikki Northuis
   - PM: Fran Cross (A6)
   - DM: Jill Adams (A6)
   - Engineering: Daniel Sasser, Chris Kim, Randi Mays, Michael Kinnunen
   - Design: Jordan Wood
-  - Research: Cindy Merrill
 
 
 ##### Stakeholders: 
