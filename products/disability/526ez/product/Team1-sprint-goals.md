@@ -10,7 +10,7 @@ Period - 03/13/2024 - 03/26/2024
         - [ ] Address prefill investigation - check if it blocks claim completion or submission
         - [ ] If the issue is not a blocker for submission, start launch
       - BRD (seperation locations endpoint)
-        -  Canary launch, followe dby staggered release
+        -  Canary launch, followed by staggered release
       - /generatePDF
         - [ ] Start migration - abstract provider 
    - 526ez sync with paper version 
