@@ -411,6 +411,9 @@ Participants expressed that they can receive multiple services in a day, and it 
 ## Additional Insights
 
 -   When given the green light to imagine what would be helpful to them as they reflect on their experiences with VA finances/debt, most participants felt that financial resources and help would benefit them and/or other Veterans. Participants recognized that if not personally beneficial to them, it could benefit their peers.
+  
+  >"[Financial resources] If it will link me to documents it's not helpful but if there’s financial counselors to link up with and solve issues or tailor a budget. I am one that doesn’t want to read it. I want to sit down and talk to someone. It could be picking the best of homeowner insurers, automobiles, it has to be specifically tailored to the veteran. I am thinking of this in the aspect of a junior soldier, that’s the population that is not served well financially  in the service and they take lumps when they get out. This would be helpful for them when they get out.“ -P8
+
   >“No, not really. I am pretty knowledgeable on financial stuff so it wouldn’t help me. It could help others but not me.” -P5
 
     
