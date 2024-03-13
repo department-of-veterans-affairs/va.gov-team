@@ -4,6 +4,10 @@ The VA.gov authenticated experience thus far has been primarily focused on the u
 
 We want to conduct generative research to build a baseline understanding of the transition process from active duty military to Veteran status, so that we can evaluate the impact VA.gov may have on the process of onboarding to VA overall.
 
+**Note:** This research uses the term “onboarding” to describe the broad process service members go through to learn about and begin to engage VA. Although these topics may come up, we aren’t focusing on: 
+- the formal separation process or training service members go through (TAP) or
+- the overall experience and problems related to transitioning from military to civilian life
+
 [Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/README.md).
 
 ### OCTO Priorities 
@@ -36,7 +40,7 @@ Based on what we learned in our [previous research review](https://github.com/de
   - applying for benefits
   - benefits of creating a VA.gov account.
 - People will want a personalized experience when onboarding to VA that reflects their specific situation, but not necessarily expect that to be possible through a government agency like VA.
-- There isn’t a single online tool or experience that will resolve problems people have onboarding to VA.
+- There isn’t a single online tool or experience that will resolve problems people have when they separate from service and transition to VA.
 
 ## Methodology	
 We’re planning to conduct remote, semi-structured interviews over Zoom.
