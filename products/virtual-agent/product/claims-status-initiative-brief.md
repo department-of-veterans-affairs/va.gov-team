@@ -42,15 +42,57 @@ Design and build an updated Disability Claims Status Flow as part of the VA.gov 
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-* **Satisfaction:** Percentage of users that responded "yes" to did that answer your question at the end of the claims status flow
-* **Abandonment Rate:** the percentage of veterans that abandon the claims status flow
-* **Task completion:** Percentage of users that successfully view claims status flow
-* **Usage:** How many users are coming to the chatbot to view the claims status flow
-* **Interaction Rate:** Percentage to interaction triggers claims status flow
-* **Flow Interruptions:** How many times is the intended claims status flow interrupted by a new utterance
-* **Confidence Score:** confidence score of utterance matching
-* **Follow-Up Questions:** volume of follow-up questions asked within the claims status flow, particularly free-text form questions
-* **Traffic Sources:** the percentage of traffic sources directing users to the claims status flow
+<table style="width:100%">
+  <tr>
+    <th>Goal</th>
+    <th>Metric</th>
+    <th>Notes</th>
+    <th>Source</th>
+  </tr>
+  <tr>
+    <td>Content answers the user’s question adequately.</td>
+    <td>Did that answer your question?</td>
+    <td>Yes/No question.</td>
+    <td>Transcript</td>
+  </tr>
+  <tr>
+    <td>Content answers the user’s question adequately.</td>
+    <td>CSAT Survey</td>
+    <td>Likert scale question. Only available if the user answers “Yes” to “Did that answer your question?”</td>
+   <td>Transcript</td>
+  </tr>
+   <tr>
+    <td>Content answers the user’s question adequately.</td>
+    <td>Abandonment Rate</td>
+    <td>User leaves the chat without answering “Did that answer your question?”</td>
+   <td>Transcript</td>
+  </tr>
+   <tr>
+    <td>Track user engagement</td>
+    <td>% of chatbot interactions that go to Claims Status Skill</td>
+    <td>Numerical value</td>
+   <td>Transcript</td>
+  </tr>
+   <tr>
+    <td>Ease of access</td>
+    <td>Claims Status Link accessed</td>
+    <td>Numerical value</td>
+   <td>GA/Domo</td>
+  </tr>
+   <tr>
+    <td>Alternative support accessed</td>
+    <td>Click to Call Link accessed</td>
+    <td>Numerical value</td>
+   <td>GA/Domo</td>
+  </tr>
+  <tr>
+    <td>Alternative support accessed</td>
+    <td>AVA link accessed</td>
+    <td>Numerical value</td>
+   <td>GA/Domo</td>
+  </tr>
+</table>
+
 ---
 
 ## Discovery
