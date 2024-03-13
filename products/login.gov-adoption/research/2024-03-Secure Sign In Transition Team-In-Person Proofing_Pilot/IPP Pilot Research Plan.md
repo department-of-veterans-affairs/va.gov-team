@@ -148,7 +148,12 @@ VA staff
 
 Research will be conducted at the following Virtual Health Resource Center Site:
 
-ADDRESS
+John L. McClellan Memorial Veterans Hospital
+4300 W. 7th Street Little Rock, AR 
+Contact Information
+501-257-5627
+
+*Exact office location TBD* 
 
 The Virtual Health Resource Center was identified as the optimal partner for the in person site given their preparedness to provide in person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role. 
 
