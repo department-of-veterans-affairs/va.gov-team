@@ -90,7 +90,7 @@ ________________________________________________________________________________
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
     - **Sub Goal: CIE Discovery**
-        - TBD
+        - 🟥 [[UX][Research] SPIKE: Determine research to pursue (standalone travel w/ eligibility vs. echeckin w/ eligibility)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
