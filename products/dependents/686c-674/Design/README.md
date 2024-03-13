@@ -28,4 +28,4 @@
 |[Number input](https://design.va.gov/components/form/number-input#hint-text)|V3|674|Platform|Identical to V1, does not exist in USWDS|
 |[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|V3|Radio buttons "Other" answers|Platform|[VADS pattern in Figma](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1)|
 |[Information on file](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file)|V3|Veteran info|Platform|This is a pattern but I don't see the info component referenced elsewhere|
-
+|[Statement of truth](https://design.va.gov/components/form/statement-of-truth#examples---v3)|V3|Review Page|Platform||
