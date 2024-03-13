@@ -30,5 +30,5 @@
 |[File input](https://design.va.gov/components/form/file-input#accepts-only-specific-file-types)|V3|Spouse, Child under 18|Platform| |
 |[Address block](https://design.va.gov/components/address-block#examples)|V3|Spouse, Child under 18|Platform| |
 |[Number input](https://design.va.gov/components/form/number-input#hint-text)|V3|674|Platform|Identical to V1|
-|[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|V3|Radio buttons "Other" answers|Platform|[VADS pattern](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1)https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1, Can't find in Storybook|
+|[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|V3|Radio buttons "Other" answers|Platform|[VADS pattern](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1), Can't find in Storybook|
 
