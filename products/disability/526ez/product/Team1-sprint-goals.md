@@ -26,8 +26,6 @@ Period - 03/13/2024 - 03/26/2024
      
 - **Stretch Goals**
    - [ ] Front-end - Widgets to Web components upgrade - radio buttons
-   - [ ] Architecture Diagram for 526
-   - [ ] Design - Delete button removes upload without user confirmation #59263
    - Rated Disabilities migration
        -  Sanity check with the new LH version
        -  Restart staggered release
