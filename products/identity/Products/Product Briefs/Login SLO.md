@@ -1,10 +1,10 @@
-# va.gov Login SLO
+# VA.gov Login SLO
 
 ## Overview: 
-Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into va.gov with the ultimate goal of continuously improving the login process to va.gov. 
+Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov with the ultimate goal of continuously improving the login process to VA.gov. 
 
 ## Problem Statement: 
-We do not currently have any current SLOs for va.gov logins, and creating them will help us monitor and improve the Veteran login experience.
+We do not currently have any current SLOs for VA.gov logins, and creating them will help us monitor and improve the Veteran login experience.
 
 ## Relevant Documents:
 [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
@@ -29,41 +29,41 @@ N/A (as of this writing)
 
 ## Use Cases:
 
-- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, I should be able to login to VA.gov 99.9999% of the time, as measured continuously by the _SIS Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76838).
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to va.gov, as measured continuously by the _SIS Authorize_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to VA.gov, as measured continuously by the _SIS Authorize_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76848)
-- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SSOe Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, I should be able to login to VA.gov 99.9999% of the time, as measured continuously by the _SSOe Authorize_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76867)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to va.gov, as measured continuously by the _SSOe Authorize_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to VA.gov, as measured continuously by the _SSOe Authorize_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76865)
-- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SIS Callback_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, I should be able to login to VA.gov 99.9999% of the time, as measured continuously by the _SIS Callback_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76868)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to va.gov, as measured continuously by the _SIS Callback_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to VA.gov, as measured continuously by the _SIS Callback_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76870)
-- As a Veteran, I should be able to login to va.gov 99.9999% of the time, as measured continuously by the _SSOe Callback_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, I should be able to login to VA.gov 99.9999% of the time, as measured continuously by the _SSOe Callback_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76872)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to va.gov, as measured continuously by the _SSOe Callback_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to login to VA.gov, as measured continuously by the _SSOe Callback_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76871)
-- As a Veteran, when I login to va.gov I should be able to see my personal information 99.999% of the time, as measured continuously by the _SIS Introspect_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, when I login to VA.gov I should be able to see my personal information 99.999% of the time, as measured continuously by the _SIS Introspect_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76873)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get my personal information when I login to va.gov, as measured continuously by the _SIS Introspect_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get my personal information when I login to VA.gov, as measured continuously by the _SIS Introspect_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76874)
 - As A Veteran, I should not have to re-enter my credentials 99.9999% of the time if I have been active in the previous 30 minutes, as measured continuously by the _SIS Refresh_ dashboard in datadog. If the endpoint goes down, it should be treated as a P2, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76876)
 - As A Veteran, I should not have to re-enter my credentials 99.9999% of the time if I have been active in the previous 30 minutes, as measured continuously by the _SIS Token_ dashboard in datadog. If the endpoint goes down, it should be treated as a P2, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76879)
-- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as, measured continuously by the _SIS Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, I should be able to logout from VA.gov 99.9999% of the time as, measured continuously by the _SIS Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76884)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to logout from va.gov, as measured continuously by the _SIS Logout_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to logout from VA.gov, as measured continuously by the _SIS Logout_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76890)
-- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as, measured continuously by the _SSOe Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***. 
+- As a Veteran, I should be able to logout from VA.gov 99.9999% of the time as, measured continuously by the _SSOe Logout_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***. 
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76885)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to logout from va.gov, as measured continuously by the _SSOe Logout_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to logout from VA.gov, as measured continuously by the _SSOe Logout_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76891)
-- As a Veteran, I should be able to logout from va.gov 99.9999% of the time as, measured continuously by the _SIS Revoke_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
+- As a Veteran, I should be able to logout from VA.gov 99.9999% of the time as, measured continuously by the _SIS Revoke_ dashboard in datadog. If the endpoint goes down, it will be treated as a P1, and fixed ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76886)
-- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to logout from va.gov, as measured continuously by the _SIS Revoke_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
+- As a Veteran, I should have to wait no longer than ***TBD*** to get a result when I try to logout from VA.gov, as measured continuously by the _SIS Revoke_ dashboard in datadog. On a quarterly basis, we will look at the average response time, and if we determine service degradation, we will ***TBD***.
   -  [User Story](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76892)
 
 ## Assumptions:
