@@ -306,7 +306,7 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>1 user</td>
     <td>--</td>
-    <td>3 users </td>
+    <td>5 users </td>
   </tr>
   <tr>
     <th scope="row">Login/access issues</th>
@@ -406,12 +406,19 @@ Survey question 3: what task were you trying to do today?
 * **RESOLVED Sprint 23**: 9 users expressed setting up a new Login.gov account to access their My HealtheVet data on VA.gov only to be met with alert messaging that they "do not have access."
 * **RESOLVED**: 1 user tried to clear the notification "red dot" around their new messages, but was unable to do so despite no new messages in the inbox
 * **RESOLVED**: Account verification issues decreased significantly since the LOA1 alert is available on 1/23/24
+
+*2/13/24-3/5/24*
+- "check any new messages in my inbox.  Your site showed a red dot beside inbox which would normally indicate a pending unread email but it didnt when I checked.  Need to program that red dot to show if I need to go to secure messaging to read a unread email. otherwise the red dot is useless."
+  
 ## Possible future enhancements? 
 * 1 user was looking for a way to upload a form
 * 1 user expected to be able to update/change their address online
 * 1 user expected the ability to add a second address to their profile (need different billing and shipping addresses)
 * 1 user was unable to verify private insurance online
 * 1 user described desire for an information sheet or glossary of terminology around their diagnosis for family members to help them navigate medical appointments
+
+*2/13/24-3/5/24*
+N/A
 
 ## Joys users expressed
 * Learned new things 
@@ -420,7 +427,10 @@ Survey question 3: what task were you trying to do today?
 * Feel secure on VA.gov
 * Very few issues using the website
 * Easier than calling
-* Fast and efficient
+
+*2/13/24-3/5/24*
+* Fast and efficient (unsure if this was the expereince online or in person) 
+* Most the positive feedback was around in-person expereince with care team 
 
 ### Quotes from Veterans
 * "The page loading is slow, the system is not intuitive, you've added the need for more "clicks" to navigate." - 1/5/24, Desktop user
@@ -437,7 +447,11 @@ Survey question 3: what task were you trying to do today?
 * "I've made numerous attempts to locate where to order CPAC supplies and cannot find them anywhere on the website. Calling the phone number is impossible because of the wait times" - 1/16/23, Desktop user
 * "After verifying all my informatiion, and resetting my password, I am stuck in an endless loop to get access" - 2/1/23, Desktop user
 
+*2/13/24-3/5/24*
 
+Login
+
+"Set it all up with ID Passwords still doesn't work the worst system to try to use. should be simple click on message never was able even after setting up and signing in. Helping my Uncle and this is awful" - 
 
 
 
