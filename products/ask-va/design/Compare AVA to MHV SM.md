@@ -58,7 +58,7 @@ Secure Messaging uses styling and an icon (dot) to distinguish read and unread m
 
 #### 5. Newest to oldest order
 
-We should match Secure Messaging's order in threads, which is newest to oldest message. Newest will come first and oldest will be last on the page. This means drafting a reply will sit above the 'Inbox'.
+We should match Secure Messaging's order in threads, which is newest to oldest message. Newest will come first and oldest will be last on the page. This means drafting a reply will sit above the rest of the conversation.
 
 #### 6. Lead with date on messages and make it easier to distinguish sender
 
