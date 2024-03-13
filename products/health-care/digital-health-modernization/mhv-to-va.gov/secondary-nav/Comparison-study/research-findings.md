@@ -14,7 +14,7 @@ Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenburg (sara.sterkenburg@va.
 
 [Recommendations](#recommendations)
 
-
+[Readout](department-of-veterans-affairs/va.gov-team/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-readout/My HealtheVet navigation comparison study.pdf)
 
 ## Important Context
 
