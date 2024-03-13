@@ -42,7 +42,8 @@ Based on what we learned in our [previous research review](https://github.com/de
 We’re planning to conduct remote, semi-structured interviews over Zoom.
 
 ### Research materials
-Conversation guide link to come
+- Conversation guide link to come
+- VA.gov
 
 ## Recruitment	
 ### Recruitment approach
@@ -88,7 +89,7 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 > Response options: yes or no (answer should be yes to qualify for separation status, criteria 2)
 
 3. How would you describe your level of engagement with VA so far? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.
-> Response options: radio buttons
+> Response options: radio buttons (answers
 > - I have not engaged with VA at all.
 > - I have some familiarity with VA benefits and services, but have never applied for any.
 > - I have applied for VA benefits and services, but I don’t receive any yet.
@@ -109,7 +110,7 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 
 ## Timeline
 ### Prepare
-We aren’t planning to review any artifacts during the session, other than possibly VA.gov if the conversation leads that way. Our conversation guide will be complete at the time of submission.
+Our conversation guide and VA.gov will be ready for this study at the time of submission.
 
 #### Kickoff meeting
 We’d like to have a kickoff meeting with Perigean prior to starting recruiting. We’ll be available for the kick off during the following days/times, all in ET:
