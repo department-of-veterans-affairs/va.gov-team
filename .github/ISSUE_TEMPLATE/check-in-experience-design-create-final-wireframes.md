@@ -13,7 +13,7 @@ As a [role], I want to [what] so that I can [do something].
 ## Tasks
 - [ ] Perform "desk research" as needed, to inform the work. E.g., is there DS guidance to review? Are there past research findings to review? 
 - [ ] Create final wireframes with content
-- [ ] Create any needed markup into Sketch Page(s) for heading annotations, aria label values, link paths and/or GA Event values
+- [ ] Create any needed markup into Figma Page or frames for heading annotations, aria label values, link paths and/or GA Event values
 
 ### Who needs to review? Remove rows that aren't needed for this work.   
 - [ ] CAIA (or content and a11y SME)
