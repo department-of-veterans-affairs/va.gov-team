@@ -152,16 +152,16 @@ ADDRESS
 
 The Virtual Health Resource Center was identified as the optimal partner for the in person site given their preparedness to provide in person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role. 
 
-#### Point of contact
+### Point of contact
 
-#### Equipment used for research
+### Equipment used for research
 Space signage
 Semi private space
 Device that enables custom application access
 Device that enables IAM Toolkit access
 Device that enables Veteran to login with private email
 
-#### Research materials
+### Research materials
 Pilot Proposal
 Pre-survey for VA Staff
 Post-survey for VA Staff
@@ -169,11 +169,11 @@ Survey for Veterans; to be completed upon completion of session
 Anti-Fraud Letter for Veterans
 Educational Materials for Veterans
 	
-#### Recruitment	
+### Recruitment	
 Veteran Recruitment Criteria
 At most, 9 Veteran participants will be recruited by Perigean
 
-#### Criteria:
+#### Veteran Criteria:
 
 All Veterans must not have a verified Login.gov account
 
@@ -254,9 +254,12 @@ March 25-March 29, 2024
 Veterans will be scheduled for 2 hour sessions 
 VA staff will be notified of the scheduled sessions ahead of time to ensure their availability
 
-### Availability
-March 25-March 29, 2024
-Operational hours of site
+### Availability for Perigean KO Call
+Thursday, March 14: 8am ET-11:30am ET
+Friday, March 15: 8-10am ET, 12-1pm ET, 2:45-3:45pm ET
+Monday, March 18: 8-11am ET
+Tuesday, March 19: 8-11am ET, 3-4pm ET
+Wednesday, March 20: 2-3:30pm ET
 
 ### Team Roles	
 
