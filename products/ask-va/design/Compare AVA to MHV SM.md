@@ -41,3 +41,31 @@ These are our next steps based on our review:
 #### 1. Add messaging to direct people in an emergency
 
 Secure Messaging and the chatbot both include more messaging about emergencies. We should include messaging up front that directs people in an emergency. We may also want to reinforce this messaging when someone chooses the health care category.
+
+#### 2. Use similar language for similar links, buttons and headings
+
+There are certain buttons and links we can make even more consistent with Secure Messaging, for example, 'Send.' Also, Secure Messaging calls their "dashboard" the 'Inbox' (which research supported) so we should remove this term from the 'Question details' page to avoid confusion.
+
+#### 3. Test card view in Round 1 and consider adding list view later on
+
+Although Secure Messaging uses a list view to support better scanning, we hypothesize that Ask VA users with few questions may prefer card view. We should test card view (without list view) in Round 1 of research before we decide whether to build list view in place of or as well as cards.
+
+#### 4. Styling to help distinguish between read and unread messages
+
+Secure Messaging uses styling and an icon (dot) to distinguish read and unread messages. We should explore including  style differences for read, unread and unread/hover that are consistent with SM. We don't think it's necessary to signal when there's an attachment in Ask VA.
+
+#### 5. Newest to oldest order
+
+We should match Secure Messaging's order in threads, which is newest to oldest message. Newest will come first and oldest will be last on the page. This means drafting a reply will sit above the 'Inbox'.
+
+#### 6. Lead with date on messages and make it easier to distinguish sender
+
+We think it should be easier to distinguish between messages in a thread. We will lead with date and time to match Secure Messaging, and because we think submitters are focused on how quickly something is resolved. Unlike Secure Messaging, we can't add a sender yet, but we could make this clearer by saying, "From VA" and "Your reply."
+
+#### After Phase 1 Launch
+
+We might explore:
+- More advanced filters
+- Ability to draft messages
+- List view (if it's not already added before launch)
+- Adding a sender (which may be a team or department name)
