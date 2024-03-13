@@ -153,9 +153,6 @@ Revised path:  [https://codepen.io/team/Debt-Team/live/RwdOegz](https://codepen.
 
 ## Methodology
 
-Brief description of method chosen
-
-[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)
 
 -   Semi-structured interviews - appropriate for generative research
     
@@ -197,8 +194,7 @@ This is maybe true. There was almost an even split between participants preferri
     
 6.  [When asked for thoughts on "Travel Pay" many commented on difficulties both in person and online.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-6)
     
-7.  [There was almost an even split between participants preferring to see different types of debt combined on one page (combined), and participants preferring that the different types of debt have their own pages (separate).
-    In order to act on this feedback, we should consider all of the pathways users can take to get to the Debt Portal.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-7)
+7.  [There was almost an even split between participants preferring to see different types of debt combined on one page (combined), and participants preferring that the different types of debt have their own pages (separate). In order to act on this feedback, we should consider all of the pathways users can take to get to the Debt Portal.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-7)
 
 8. [Participants highlighted the importance of surfacing important information sooner so they may view, pay, track, and understand the bill, and take follow up action if needed (such as disputing).](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-8)
 
@@ -270,7 +266,7 @@ Many stated that defining difficult financial terms when they are mentioned on t
 
 >“You don’t really look at the VA for financial resources, you’re looking for your benefits and health… It’s not really like they’re there for that.” -P1
 
->“That’s kind of a weird question for me because I don’t think of the VA as a financial place, like I would have a bank. -P6
+>“That’s kind of a weird question for me because I don’t think of the VA as a financial place, like I would have a bank." -P6
 
 #### Finding 5: 
 #### All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.
@@ -360,17 +356,18 @@ Participants that disliked the revised concept mentioned there was too much scro
 
 >“Eliminate the clicks as much as possible. It will make it easier.” –P8
 
- - **In order to act on this feedback, we should consider all of the pathways users can take to get to the Debt Portal.**
+
+**In order to act on this feedback, we should consider all of the pathways users can take to get to the Debt Portal.**
 
 Emails: Tested in this study. Veterans would prefer less clicks. If the email states that it is for a Copay, it should take them to a Copay page. If the email states that it is for an Overpayment, it should take them to an Overpayment page.
 
 MyVA: Links separately to either the Copay Overview or Overpayment Overview.
 
-MyHealtheVet: Copay summary page
+MyHealtheVet: Links to Copay Summary page.
 
 Google: Veterans can find varying VA.gov pages depending on their search term.
 
-VA.gov Homepage: In a past study, the most common way participants found the Debt Portal on the VA.gov homepage was through clicking: Payment History > Debt Portal landing page
+VA.gov Homepage: In a past study, the most common way participants found the Debt Portal on the VA.gov homepage was through clicking the Payment History page. A link on the Payment History page takes users to the Debt Portal landing page.
 
 *Label: PRDT: Debt-portal*
 
@@ -461,7 +458,6 @@ Design Recommendations:
 Tickets that will address issues:
 
   
-
 -   [[CDP] Wrap all cards in a ul and combine card title and amount to make cards for screen reader friendly #77460]([https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/77460](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/77460))
     
 -   [[CDP] Bug - Investigate authenticated redirects#70029](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/70029)
