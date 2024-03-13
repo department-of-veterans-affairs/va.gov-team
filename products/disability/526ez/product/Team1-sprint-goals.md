@@ -22,12 +22,13 @@ Period - 03/13/2024 - 03/26/2024
 
 - **Other**
    - [ ] Start breaking down prioritized work to layout the road-map for next two quarters
+   - [ ] UX and Design - Start work on the next initiative picked up by Team 1
      
 - **Stretch Goals**
    - [ ] Front-end - Widgets to Web components upgrade - radio buttons
    - [ ] Architecture Diagram for 526
    - [ ] Design - Delete button removes upload without user confirmation #59263
-   - Rated Disabilities
+   - Rated Disabilities migration
        -  Sanity check with the new LH version
        -  Restart staggered release
 
