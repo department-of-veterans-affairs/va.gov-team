@@ -1,5 +1,37 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 27
+Period - 03/13/2024 - 03/26/2024
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - PCIU 
+        - [ ] Address prefill investigation - check if it blocks claim completion or submission
+        - [ ] If the issue is not a blocker for submission, start launch
+      - BRD (seperation locations endpoint)
+        -  Canary launch, followe dby staggered release
+      - /generatePDF
+        - [ ] Start migration - abstract provider 
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)
+           - [ ] Tech Discovery - Investigate if TE can be launched with migration to LH /generatePDF without /submit migration
+       - Audit for 526ez for all paper to digital form changes
+          - Complete technical discovery to determine next steps for discrepancies for ancillary forms 4142, 4142a 
+
+- **Other**
+   - [ ] Start breaking down prioritized work to layout the road-map for next two quarters
+     
+- **Stretch Goals**
+   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+   - [ ] Architecture Diagram for 526
+   - [ ] Design - Delete button removes upload without user confirmation #59263
+   - Rated Disabilities
+       -  Sanity check with the new LH version
+       -  Restart staggered release
+
+
 ## Sprint 26
 Period - 02/28/2024 - 03/12/2024
 ### Sprint goals 
