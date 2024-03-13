@@ -26,4 +26,4 @@
 |[Process list](https://design.va.gov/components/process-list#examples---v3)|V3|Intro Page|Platform| |
 |[Accordion](https://design.va.gov/components/accordion#examples---v3)|V3||Platform||
 |[Statement of truth](https://design.va.gov/components/form/statement-of-truth#examples---v3)|V3|Review Page|Platform| |
-https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file
+|[Card](https://design.va.gov/components/card#default---white-with-border)|V3|List&Loop|Platform| |
