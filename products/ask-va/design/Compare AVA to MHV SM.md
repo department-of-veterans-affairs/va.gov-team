@@ -34,6 +34,8 @@ First, we compared key tasks that a user can do in Ask VA vs. Secure Messaging t
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Key-task-comparison.png)
 
+Next, we reviewed and annotated their documentation. You can explore our review in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707502811113/5ed5c3c6cb9f26595cb7d4fb62a8bebc598972f3?wid=0-1710184305056).
+
 ### Next steps
 
 These are our next steps based on our review:
