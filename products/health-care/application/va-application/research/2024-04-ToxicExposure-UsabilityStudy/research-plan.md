@@ -13,20 +13,26 @@
 
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
+2024 Priorities:
+
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-- From starting up to aging, these questions fit into the Veteran journey.
+This research fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) as several stages including:
+- Starting up
+- Taking care of my self
+- Retiring
+- Aging
 
-Are there moments that matter? 
-- The moments that matter are when Veterans are selecting the health care coverage according to their needs - whether that is supplemental coverage as things change in their lives or service connected or non-service connected needs.
+- The **moments that matter** are when Veterans are selecting the health care coverage according to their needs - whether that is supplemental coverage as things change in their lives or service connected or non-service connected needs.
 
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+- **Goal 1: **
 
+- **Goal 2: **
+
+- **Goal 3: **
 
 
 ### Outcome
@@ -56,40 +62,38 @@ Remote, moderated via Zoom.
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/conversation-guide.md)
-- [Will be testing in staging and/or production]
+- [Will be testing in staging and/or production]()
 - [Figma source of truth desigsn](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-7191&mode=design&t=LvwA2lRcEckp8H13-0)
 
-## Recruitment	
 
+## Recruitment	
 
 ### Recruitment approach
 Our intended audience for this research are Veterans and we will be utilizing Perigean to recruit participants.
   
 
 ### Recruitment criteria
-**Veterans: 9 Requested / 6 Completed**
+- **Veterans: 9 Requested / 6 Completed**
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+- Are you currently enrolled in VA health care? [answer should be no to qualify.]
+
+[Screener question]
+- 1 completed session with a screen reader user
 
 
 **Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+- Mixture of other demographics; no more than 2 per category
+  
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
 * Date and time of pilot session: 
 
@@ -116,7 +120,6 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 	
 ## Team Roles	
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Jessica Stump (jessica.stump@adhocteam.us) and Angela Agosto (angela.agosto@adhocteam.us)
 - Research guide writing and task development (usually but not always same as moderator): Moderators	
 - Participant recruiting & screening:Perigean
@@ -124,9 +127,9 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
 - Note-takers:	Perigean, and 10-10 UX Team
-- Observers: Sign up sheet will be posted via Slack
+- Observers:
+	- Sign up sheet will be posted via Slack
 	- Kristen McConnell (kristen.mcconnell@va.gov)
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
 
 ## Approvals
 
