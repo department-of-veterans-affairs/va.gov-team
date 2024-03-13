@@ -10,8 +10,8 @@ The burial allowance online applications is out of date and so it is being updat
 
 **On this page:**
 - [User/page flows](#flows)
-- [Page structure](#map)
-- [URLs and breadcrumbs](#url)
+- Page structure
+- URLs and breadcrumbs
 - [Entry points](#nav)
 - [Redirects](#redirects)
 - [Best Bets](#bestbets)
@@ -22,19 +22,6 @@ The burial allowance online applications is out of date and so it is being updat
 *Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
 [Team's Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1694615398728&sender=u79ee90295fdb006d7f463212)
-
-## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
-
-Only change to page structure will be the URL.
-
-## <a name="url"></a>URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
-
-
-**1) Apply for burial benefits - Existing**
-- URL:
-- Notes: We are proposing updating the form URL (currently https://www.va.gov/burials-and-memorials/application/530/introduction) so that it is up to standard. This won't be happenning during this MVP launch so reach out to CAIA once this is on the roadmap so we can submit a backlog ticket or confirm if there already is one to change the URL and to coordinate a redirect.
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -58,7 +45,7 @@ Since this page wasn't deactivated, no temporary redirects were implemented so w
 ## <a name="bestbets"></a>Best Bets<br>
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
 
-Best bets were created for `https://www.va.gov/burials-memorials/veterans-burial-allowance/` as part of the deactivation plan. Once the MVP is live, we can update the best bet so the following keywords are associated with the online application URL.
+Best bets were created for `https://www.va.gov/burials-memorials/veterans-burial-allowance/` as part of the deactivation plan. Since the form was deactivated, we can update the best bets now so that the online application comes up as the top result rather than the 'how to apply' page.
 
  Keyword           |
 |-------------------|
