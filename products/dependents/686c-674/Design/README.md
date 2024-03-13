@@ -10,8 +10,12 @@
 |--------------|-------|----|-----|-----|
 |[Breadcrumbs](https://design.va.gov/components/breadcrumbs#default)|V3||Platform||
 |[Alert-default](https://design.va.gov/components/alert#informational-alert-aka-default)|V3| |Platform||
+|[Alert-success](https://design.va.gov/components/alert#success-alert)|V3|Progress saved, Confirmation |Platform||
+|[Alert-sign in or tool prompt](https://design.va.gov/components/alert#sign-in-or-tool-prompt)|V3|Intro|Platform|For LOA3 authentication when user has LOA1 access|
 |[Button](https://design.va.gov/components/button/#examples---v3)|V3| |Platform| |
+|[Information on file](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file)|V3|Veteran info|Platform|This is a pattern but I don't see the info component referenced elsewhere|
 |[Checkbox-single](https://design.va.gov/components/form/checkbox#examples---single---v3)|V3| |Platform| |
+|[Additional info](https://design.va.gov/components/additional-info#default)|V3| |Platform| |
 |[Checkbox-tile group](https://design.va.gov/components/form/checkbox#tile-1)|V3|Step 1|Platform|New design from Platform recommendations|
 |[Radio button](https://design.va.gov/components/form/radio-button#default)|V3| |Platform| |
 |[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V3|Review Page|Platform| |
@@ -22,3 +26,4 @@
 |[Process list](https://design.va.gov/components/process-list#examples---v3)|V3|Intro Page|Platform| |
 |[Accordion](https://design.va.gov/components/accordion#examples---v3)|V3||Platform||
 |[Statement of truth](https://design.va.gov/components/form/statement-of-truth#examples---v3)|V3|Review Page|Platform| |
+https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file
