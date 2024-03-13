@@ -1,4 +1,4 @@
-# Login.gov Adoption Team at a glance
+# Secure Sign in Transition Team (formerly Login.gov Adoption Team) at a glance
 
 ### Where to find us 
 
@@ -30,7 +30,7 @@ August 2023-Present
 |Senior Fullstack Software Engineer|Anu Das|anu@themostudio.com|
 |Design Lead|Sophia Philip|sophia@themostudio.com|sophia.philip@va.gov
 |Content Strategist|Carl Dickerson|carl@themostudio.com|
-|UX Designer|Carolyn Williams|carolyn@themostudio.com|
+|UX Designer|Josie Griffith|josie@themostudio.com|
 |Interaction Designer|Sofia Kirkman|sofia@themostudio.com|Sofia.Kirkman@va.gov 
 
 December 2022 - July 2023
