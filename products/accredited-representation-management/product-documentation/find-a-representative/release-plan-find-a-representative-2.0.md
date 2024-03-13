@@ -81,10 +81,9 @@ The following metrics will be considered before advancing rollout to the next st
 
 ### Stage A Results
 
-1. Errors in Sentry:
-2. User reports of outdated information:
-3. Are console errors still happening on page click?  _suspected to be a Staging-specific issue, this will validate suspicions_
-4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
+3. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
+4. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage B
 
 ### Stage B Results
 
