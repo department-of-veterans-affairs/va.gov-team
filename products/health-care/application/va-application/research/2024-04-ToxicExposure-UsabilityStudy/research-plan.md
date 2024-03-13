@@ -14,7 +14,7 @@
 Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) does this research support? Work with your VA lead and product manager as needed.
 
 2024 Priorities:
-
+ 
 
 ### Veteran Journey
 This research fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) as several stages including:
@@ -40,17 +40,27 @@ This research fits into the [Veteran journey](https://github.com/department-of-v
 
 ### Research questions
 **Goal 1: Discover areas where the content may not be clear or need additional explanation.**
+- Are there any questions where the Veteran says additional info would be helpful?
 - Do Veterans mention the dates missing or that they would be helpful?
-- is it preferred to have this question as optional, can skip or to be given an explicit I don't know option
-- 
+- Is it preferred to have this question as optional, can skip or to be given an explicit I don't know option?
+- Is something more than content needed to help Veterans answer these service questions? (A link or a map for example)
+
+
+**Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer.**
+- Do Veterans feel they should be providing this information or is this information they feel the VA should already have?
+- What types of information do Veterans expect the VA to have access to?
+- Do Veterans want the option to upload digital documents or proof of their exposures?
+
+  
+**Goal 3: Discover unknown usability or accessibility issues**
+- Are there any accessibility issues with the question - bulleted list format? Specifically the really long list on the Gulf War locations page.
+- Do on-field error messages often occur - and if so are Veterans struggling with the messaging with getting the error resolved?
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+- We assume... some might have issues recalling the places/dates they served with how the questions are worded. 
+- We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history informtion.
+- We assume... some Veterans might want additional explanation, visuals such as maps or links to help them with quicker recall of these service location questions.
 
 ## Methodology	
 We will be conducting 1 hour remote usability testing where we will ask the participants to complete the 10-10EZ form given the option of doing so authenticated with their own login or unauthenticated. 
@@ -80,7 +90,7 @@ Our intended audience for this research are Veterans and we will be utilizing Pe
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-- Are you currently enrolled in VA health care? [answer should be no to qualify.]
+- Are you currently enrolled in VA health care? [answer should be no to qualify]
 
 [Screener question]
 - 1 completed session with a screen reader user
@@ -91,14 +101,13 @@ What demographics, experience, and scenarios do you need participants to meet to
   
 
 ## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 * Pilot participant email:
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: March TBD - April TBD, 2024
+* Planned dates of research: March 27 - April 3, 2024
 
 ### Length of sessions
 * Session length: 1 hour
