@@ -20,6 +20,8 @@ We also keep additional design documentation [in this Github folder](https://git
 |[Similarities and differences between categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Similarities%20and%20differences%20between%20categories.md)|Describes patterns in the design of the Ask VA form|Oct 26, 2023|
 |[Statuses and triggers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Statuses%20and%20triggers.md)|Describes inquiry statuses and when they are assigned|Nov 6, 2023|
 |[Content for Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Content%20for%20Ask%20VA.md)|Describes for Ask VA in our draft designs and current VA.gov pages|Feb 13, 2024|
+|[Compared to MHV SM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Compare%20to%20MHV%20SM.md)|Takeaways from MHV SM research and designs|Mar 13, 2024|
+
 ### Get in touch
 Reach out on [#ask-va-public](https:/dsva.slack.com/archives/C05A2F6DEAE) about this work.
 
