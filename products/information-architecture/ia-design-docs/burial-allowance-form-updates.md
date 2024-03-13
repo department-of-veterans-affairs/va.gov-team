@@ -67,7 +67,7 @@ Best bets were created for `https://www.va.gov/burials-memorials/veterans-burial
 
 **[Which static page has the widget, ie the main entry point?]**
 
-
+MVP is being launched incrementally. Aliyah is working with the team on the widget.
 
 
 <hr>
