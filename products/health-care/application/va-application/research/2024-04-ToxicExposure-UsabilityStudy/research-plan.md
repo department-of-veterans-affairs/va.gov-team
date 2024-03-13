@@ -129,7 +129,9 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 - Note-takers:	Perigean, and 10-10 UX Team
 - Observers:
 	- Sign up sheet will be posted via Slack
-	- Kristen McConnell (kristen.mcconnell@va.gov)
+	- Katelyn Caillouet (katelyn.caillouet@agile6.com)
+  	- Hieu Vo (hieu.vo@agile6.com)
+  	- Kristen McConnell (kristen.mcconnell@va.gov)
 
 ## Approvals
 
