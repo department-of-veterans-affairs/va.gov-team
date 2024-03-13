@@ -8,16 +8,16 @@
 
 |Component Name|Version|Page|Owner|Notes|
 |--------------|-------|----|-----|-----|
-|[Alert](https://design.va.gov/components/alert#informational-alert-aka-default)|V3| |Platform|Updated from V1 in designs|
-|[Card](https://design.va.gov/storybook/?path=/docs/components-va-card--default)|V3|Service periods and previous names|Platform||
+|[Alert-default](https://design.va.gov/components/alert#informational-alert-aka-default)|V3| |Platform||
 |[Button](https://design.va.gov/components/button/#examples---v3)|V3| |Platform| |
-|[Checkbox](https://design.va.gov/components/form/checkbox#examples---group---v3)|V3| |Platform| |
-|[Radio button](https://design.va.gov/components/form/radio-button#examples---v3)|V3| |Platform| |
+|[Checkbox-single](https://design.va.gov/components/form/checkbox#examples---single---v3)|V3| |Platform| |
+|[Checkbox-tile group](https://design.va.gov/components/form/checkbox#tile-1)|V3|Step 1|Platform|New design from Platform recommendations|
+|[Radio button](https://design.va.gov/components/form/radio-button#default)|V3| |Platform| |
 |[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V3|Review Page|Platform| |
-|[Memorable date](https://design.va.gov/components/form/memorable-date#examples---v3)|V3| |Platform| |For date of birth. Our designs have Month as dropdown|
+|[Memorable date](https://design.va.gov/components/form/memorable-date#month-select)|V3| |Platform| |Month select|
 |[Text input](https://design.va.gov/components/form/text-input#examples---v3)|V3| |Platform| |
 |[Select](https://design.va.gov/components/form/select#examples---v3)|V3| |Platform| |
-|[Progress bar segmented](https://design.va.gov/components/form/progress-bar-segmented#examples---v3)|V3|Review Page|Platform|We are using the default example|
+|[Progress bar segmented](https://design.va.gov/components/form/progress-bar-segmented#default)|V3||Platform|Default|
 |[Process list](https://design.va.gov/components/process-list#examples---v3)|V3|Intro Page|Platform| |
-|[Accordion](https://design.va.gov/components/accordion#examples---v3)|V3|Review Page|Platform| |
+|[Accordion](https://design.va.gov/components/accordion#examples---v3)|V3||Platform||
 |[Statement of truth](https://design.va.gov/components/form/statement-of-truth#examples---v3)|V3|Review Page|Platform| |
