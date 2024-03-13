@@ -415,7 +415,7 @@ Spanning both surveys
   </tr>
   <tr>
     <th scope="row">Fixable problems</th>
-    <td>--</td>
+    <td>check any new messages in my inbox.  Your site showed a red dot beside inbox which would normally indicate a pending unread email but it didnt when I checked.  Need to program that red dot to show if I need to go to secure messaging to read a unread email. otherwise the red dot is useless.</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -433,7 +433,7 @@ Spanning both surveys
   </tr>
   <tr>
       <th scope="row">Joys users expressed</th>
-    <td>--</td>
+    <td>Fast and efficient (unsure if this was the expereince online or in person), Positive feedback was around in-person expereince with care team </td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -441,7 +441,8 @@ Spanning both surveys
     <td> </td>
   </tr>
       <th scope="row">Quotes from Veterans</th>
-    <td>--</td>
+    <td>
+"Set it all up with ID Passwords still doesn't work the worst system to try to use. should be simple click on message never was able even after setting up and signing in. Helping my Uncle and this is awful" - </td>
     <td> </td>
     <td> </td>
     <td> </td>
