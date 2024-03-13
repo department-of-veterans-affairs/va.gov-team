@@ -10,7 +10,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
 
 ## What's In Scope: 
-For this first iteration, the focus will be on:
+For this first iteration, success will be:
 * Authentication Logging & Monitoring
   * Availibility
     * Logging in.
