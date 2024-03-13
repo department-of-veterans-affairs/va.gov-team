@@ -190,7 +190,7 @@ This is maybe true. There was almost an even split between participants preferri
     
 4.  [Most participants thought "Financial Resources" and "Financial Terms" would be helpful.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-4)
     
-5.  [All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-5)
+5.  [All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-5)
     
 6.  [When asked for thoughts on "Travel Pay" many commented on difficulties both in person and online.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-6)
     
