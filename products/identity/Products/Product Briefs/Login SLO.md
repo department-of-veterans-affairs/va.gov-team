@@ -117,7 +117,7 @@ N/A (as of this writing)
 - [ ] Initial publishing of SLOs.
 - [ ] First monitoring date.
 - [ ] First publishing date.
-- [ ] Ongoing quarterly monitoring & publishing.
+- [ ] Ongoing monthly monitoring & publishing.
 
 
 ## Future Scope:
