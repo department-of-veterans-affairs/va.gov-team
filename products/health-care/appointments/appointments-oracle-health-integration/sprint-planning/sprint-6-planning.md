@@ -30,7 +30,7 @@ In sprint 5 we  developed Caddy scripts that enable the ability to debug VetsAPI
    * [#78061 Document local development process](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/78061)
    * 🚧 [#75523 New VFS Team Member Template Jenna Gaze](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/75523)
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
-  * [CES-311 VPG: Enable cancellation of VAOS appointments](https://issues.mobilehealth.va.gov/browse/CES-311)
+  * [CES-311 VPG: Update cancellable value on cerner appointments fetched from VAOS](https://issues.mobilehealth.va.gov/browse/CES-311)
   * [CES-302 VPG: Create facility configuration endpoint](https://issues.mobilehealth.va.gov/browse/CES-302)
   * [CES-315 CES: Support Appointment Search Date Param](https://issues.mobilehealth.va.gov/browse/CES-315)
 * 🟩 GOAL: Add support for routing appointment requests to VetsAPI Patient Gateway
