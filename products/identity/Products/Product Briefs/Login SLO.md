@@ -99,7 +99,7 @@ N/A (as of this writing)
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------| 
-| 18 initial SLO are created |  Published in tabular form             |
+| Understandable & Actionable SLO are created |  Published in tabular form             |
 | A monitoring methodology is created & published |  Should be a checklist that lives in SLO Github folder            |
 | A publishing schedule is created & published |  Schedule should live in SLO Github folder            |
 | SLO are monitored on a quarterly basis | Will be assigned to engineers, who will have use checklist     |
