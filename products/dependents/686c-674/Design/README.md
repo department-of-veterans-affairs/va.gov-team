@@ -8,6 +8,7 @@
 
 |Component Name|Version|Page|Owner|Notes|
 |--------------|-------|----|-----|-----|
+|[Breadcrumbs](https://design.va.gov/components/breadcrumbs#default)|V3||Platform||
 |[Alert-default](https://design.va.gov/components/alert#informational-alert-aka-default)|V3| |Platform||
 |[Button](https://design.va.gov/components/button/#examples---v3)|V3| |Platform| |
 |[Checkbox-single](https://design.va.gov/components/form/checkbox#examples---single---v3)|V3| |Platform| |
