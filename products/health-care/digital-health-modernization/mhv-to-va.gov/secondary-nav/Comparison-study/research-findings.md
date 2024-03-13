@@ -14,8 +14,6 @@ Jonathan Nelson (jonathan.nelson@va.gov), Sara Sterkenburg (sara.sterkenburg@va.
 
 [Recommendations](#recommendations)
 
-[My HealtheVet navigation comparison study.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14593731/My.HealtheVet.navigation.comparison.study.pdf)
-
 
 
 ## Important Context
