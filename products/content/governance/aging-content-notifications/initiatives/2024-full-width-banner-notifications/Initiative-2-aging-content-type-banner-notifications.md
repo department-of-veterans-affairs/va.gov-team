@@ -12,7 +12,7 @@ Currently, there is a Notification system set on a 365 day cadence from the bann
 To provide timely information to Veterans and other users of VA.gov, and ensure banners are replaced and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 7-day timeframe specific to Full-width Banner. 
   - The firest notification will be sent on Day 4 within the 7-day timeframe telling them they need to edit to add a note that it is still needed, or archive the banner by the seventh day
   - The second notification will be sent the morning of the 7th day telling them they need to either edit to add a note that the banner is still needed, or archive
-  - The third notification (not part of MVP, will be implemented after auto-archiving is implemented) will be sent informing them when the banner has een archived.
+  - The third notification (_not part of MVP,_ will be implemented after auto-archiving is implemented) will be sent informing them when the banner has een archived.
 
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Encourage appropriate use of banners for time-sensitive items, in limited quantity. Any new Full-width banner content type would be published for an initial seven (7) day default timeframe that can then be extended by editing to add a note that the banner is still needed, which will reset the seven day window, and start the alerts again.
@@ -40,12 +40,6 @@ Editors ignore the notification emails, and their content is not refreshed (and 
 
 ### Key Performance Indicators (KPIs)
 * KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
-* 
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
 Baseline Values consist of a list of current Full-width banners in PROD, and then follow-up for the MVP will be confirming editors received notifications, and manually checking to see if they updated their content.
@@ -74,9 +68,9 @@ For this particular feature, there isn’t a way to obtain metrics from GA
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor receives notification email on day4 | **AS A** content editor who created a Full-width Banner content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert on Day 4 after publication of the full-width banner **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 7 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 12:01AM (0001) the morning of the 7th day | **AS A** content editor who created a Full-width Banner content type and who has not edited the content thus extending the timeframe, **I WILL** receive an email at 12:01AM (0001) the morning of the 7th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
-| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Full-width Banner content type, **I WILL** edit the Full-width Banner while still within the 7-day window and add a comment that the content is still needed, **SO THAT** the published date range is reset to 7 days from 'today', e.g. the start date is 'today', and end date is 7 days later, inclusive, **AND** I will receive an email alert on day 4 within this new window | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date (unless the editor again edits and resets the dates).|
+| Content Editor receives notification 3 days before expiration on the 7th day | **AS A** content editor who created a Full-width Banner content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert 3 days before the expiration date **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 7 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor receives email the morning of the 7th day | **AS A** content editor who created a Full-width Banner content type and who has not edited the content thus extending the timeframe, **I WILL** receive an email the morning of the 7th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
+| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Full-width Banner content type, **I WILL** edit the Full-width Banner while still within the 7-day window and add a comment that the content is still needed, **SO THAT** the published date range is reset to 7 days from 'today', e.g. the start date is 'today', and end date is 7 days later, inclusive, **AND** I will receive an email alert three days prior to the 'new' expiration date | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date (unless the editor again edits and resets the dates).|
 
 --- 
 
@@ -127,8 +121,9 @@ N/A
 #### Tickets
 - [Super Epic Aging content notifications for banners & blocks #16127](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16127)
   - [EPIC Aging content MVP: Aging Content New Framework for Notifications](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
-    - [Aging Content - Banner Implement (7) day timeframe for Full-width banners - MVP](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
-    - Note that more tickets may be created
+    - [Aging Content] Build Dependent Components for Expired FWB MVP [#16417](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
+    - [Aging Content - Banner] Drupal: Implement Full Width Banner Aging Content Notification Email MVP [#15506](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15506)
+    - 
   
 ---
 
