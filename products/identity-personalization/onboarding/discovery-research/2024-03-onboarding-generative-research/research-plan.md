@@ -30,11 +30,13 @@ This research will help us determine if we need to make changes to existing VA.g
 5. What are the top questions transitioning service members have about VA?
 
 ### Hypothesis
-Based on what we learned in our [previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md), we hypothesize that: 
-- the problems people experience when separating from the military are mostly problems that cannot be solved by VA.gov.
-- the research will uncover a need for improvements to unauthenticated content and IA related to getting started with VA, particularly around the topics of eligibility, applying for benefits, and the benefits of creating a VA.gov account.
-- 
-
+Based on what we learned in our [previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md), we hypothesize that we’ll learn: 
+- VA.gov will be able to improve the process of onboarding to VA primarily through unauthenticated content and IA updates targeted to service members:
+  - eligibility
+  - applying for benefits
+  - benefits of creating a VA.gov account.
+- there isn’t a single online tool or experience that will resolve problems people have onboarding to VA.
+  
 ## Methodology	
 
 ### Location
