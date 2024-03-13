@@ -1,4 +1,4 @@
-# Research Plan for [Health Enrollment Team, 10-10EZ, April 2024] - New Toxic Exposure Usability Study
+# Research Plan for [Health Enrollment Team, 10-10EZ, April 2024] - Toxic Exposure Questions Usability Study
 
 ## Background
 - Questions regarding toxic exposure were added to the online 10-10EZ form following the PACT act. This research will test the implementation of those questions within the online form.
