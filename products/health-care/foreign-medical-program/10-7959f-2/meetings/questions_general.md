@@ -3,7 +3,7 @@
 **General Questions (10-7959f-2)**:
 
 - If the Veteran can’t cash that their reimbursement check in the country where they’re located, are there resources to help them figure out how to cash it?
-  - They reach out and complain - we say sorry (message) - countries like Japan, Australia have done away with this
+  - They reach out and complain - we say sorry (message) - especially in countries like Japan, Australia that have done away with this
   - Have to est acct with domestic institution and have your checks deposited
   - Workaround - less than ideal, not well received
   - We help them connect the dots, but we’re stuck right now unfortunately
