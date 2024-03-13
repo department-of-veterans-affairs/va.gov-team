@@ -2,6 +2,11 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 
 **Agenda/Notes**
 
+03/19/24
+* **DS Link Component in Flagship app (Kelly)**
+   * Have at it!
+* **Updating Epic cards (Kelly)**
+   * How can we build into our process a way for us to keep Epic cards updated consistently?
 
 02/20/24
 * **DS Button Component in Flagship app (Kelly)**
