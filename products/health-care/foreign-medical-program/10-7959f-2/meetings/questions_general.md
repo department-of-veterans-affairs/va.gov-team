@@ -10,8 +10,7 @@
 - For the purposes of this form, is the mailing address or physical address more important?
    - Mailing - checks go there
 - Is the mailing address always for the Veteran, or can it sometimes be for the provider (e.g., if the provider is the one being paid)?
-   - Majority get reimbursed to providers 
-    - (will be irrelevant once we have an EFT solution)
+   - Majority get reimbursed to providers (will be irrelevant once we have an EFT solution)
    - It’s technical and bureaucratic, fragmented, siloed, ‘ugly and brutal’
    - No one central place
 - What are the most common reasons a claim might be rejected?
