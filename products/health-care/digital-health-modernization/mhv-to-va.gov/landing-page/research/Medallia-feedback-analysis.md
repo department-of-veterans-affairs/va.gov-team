@@ -400,6 +400,56 @@ Survey question 3: what task were you trying to do today?
 * **Couldn't get help** from call center or the MHV Helpdesk was unresponsive. 
 * **No updates for claims** or process seemed opaque / users want more transparency around status
 
+## Other insights
+Spanning both surveys
+<table>
+  <caption><b>Noteable takeaways</b></caption>
+  <tr>
+    <td></td>
+    <th scope="col">2/13/24-3/5/24</th>
+    <th scope="col"> </th>
+    <th scope="col"> </th>
+    <th scope="col"> </th>
+    <th scope="col"> </th>
+    <th scope="col"> </th>
+  </tr>
+  <tr>
+    <th scope="row">Fixable problems</th>
+    <td>--</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th scope="row">Possible future enhancements</th>
+    <td>--</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+      <th scope="row">Joys users expressed</th>
+    <td>--</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+      <th scope="row">Quotes from Veterans</th>
+    <td>--</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
 ### Fixable(?) problems
 * 2 users struggled to figure out how to update their personal info ("mail and records" and "phone numbers")
 * 2 users encountered problems and were unable to schedule appts: one was a video consult with provider, and the other was an appointment with audiology.
