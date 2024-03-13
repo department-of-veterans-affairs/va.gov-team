@@ -16,7 +16,11 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
+- From starting up to aging, these questions fit into the Veteran journey.
+
 Are there moments that matter? 
+- The moments that matter are when Veterans are selecting the health care coverage according to their needs - whether that is supplemental coverage as things change in their lives or service connected or non-service connected needs.
+
 
 ## Research Goals	
 What are you trying to learn from this research? 
@@ -43,44 +47,31 @@ What do you intend to learn and measure from this study? Think through these pro
 - Remember to constrain the hypothesis to the goals of your study!
 
 ## Methodology	
-We will be conducting 1 hour remote usability testing where we will ask the participants to complete the 10-10EZ form. 
+We will be conducting 1 hour remote usability testing where we will ask the participants to complete the 10-10EZ form given the option of doing so authenticated with their own login or unauthenticated. 
 
 
 ### Location
-
-Remote via Zoom.
+Remote, moderated via Zoom.
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-
 For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/conversation-guide.md)
 - [Will be testing in staging and/or production]
-
+- [Figma source of truth desigsn](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-7191&mode=design&t=LvwA2lRcEckp8H13-0)
 
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+Our intended audience for this research are Veterans and we will be utilizing Perigean to recruit participants.
+  
 
 ### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+**Veterans: 9 Requested / 6 Completed**
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -88,7 +79,6 @@ What demographics, experience, and scenarios do you need participants to meet to
 Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
 
 **Secondary criteria (nice-to-haves)**
 What criteria would strengthen your results? 
@@ -104,26 +94,39 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research: March - April
+* Planned dates of research: March TBD - April TBD, 2024
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour
 * Maximum Sessions per day: 2
 
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+### Availability
+| **Team Availability** | **Time (ET)** 	|
+| --------------------- | --------------------- |
+| March TBD, 2024  	|  11am - 6pm ET 	|
+| March TBD, 2024  	|  11am - 6pm ET 	|
+| March TBD, 2024  	|  11am - 6pm ET 	|
+| March TBD, 2024  	|  11am - 6pm ET 	|
+| April TBD, 2024  	|  11am - 6pm ET 	|
+| April TBD, 2024  	|  11am - 6pm ET 	|
+| April TBD, 2024  	|  11am - 6pm ET 	|
+
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
 - Moderator: Jessica Stump (jessica.stump@adhocteam.us) and Angela Agosto (angela.agosto@adhocteam.us)
 - Research guide writing and task development (usually but not always same as moderator): Moderators	
-- Participant recruiting & screening:	Perigean
+- Participant recruiting & screening:Perigean
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us) and Angela Agosto (angela.agosto@adhocteam.us)	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+- Note-takers:	Perigean, and 10-10 UX Team
+- Observers: Sign up sheet will be posted via Slack
+	- Kristen McConnell (kristen.mcconnell@va.gov)
+**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
+
+## Approvals
+
