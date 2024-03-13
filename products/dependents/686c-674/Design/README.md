@@ -15,7 +15,7 @@
 |[Checkbox-tile group](https://design.va.gov/components/form/checkbox#tile-1)|V3|Step 1|Platform|New design from Platform recommendations|
 |[Additional info](https://design.va.gov/components/additional-info#default)|V3| |Platform|Identical to V1, does not exist in USWDS |
 |[Radio button](https://design.va.gov/components/form/radio-button#default)|V3| |Platform| |
-|[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V1|Review Page|Platform|Updating to V3 in Figma|
+|[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V3|Review Page|Platform||
 |[Memorable date](https://design.va.gov/components/form/memorable-date#month-select)|V3| |Platform|Month select|
 |[Text input](https://design.va.gov/components/form/text-input#examples---v3)|V3| |Platform| |
 |[Select](https://design.va.gov/components/form/select#examples---v3)|V3| |Platform| |
@@ -26,6 +26,6 @@
 |[File input](https://design.va.gov/components/form/file-input#accepts-only-specific-file-types)|V3|Spouse, Child under 18|Platform| |
 |[Address block](https://design.va.gov/components/address-block#examples)|V3|Spouse, Child under 18|Platform| |
 |[Number input](https://design.va.gov/components/form/number-input#hint-text)|V3|674|Platform|Identical to V1, does not exist in USWDS|
-|[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|Used with V3 radio buttons|Radio buttons "Other" answers|Platform|[VADS pattern in Figma](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1)|
-|[Information on file](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file)||Veteran info|Platform|This is a pattern but I don't see the info component referenced elsewhere|
+|[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|V3|Radio buttons "Other" answers|Platform|[VADS pattern in Figma](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1)|
+|[Information on file](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file)|V3|Veteran info|Platform|This is a pattern but I don't see the info component referenced elsewhere|
 
