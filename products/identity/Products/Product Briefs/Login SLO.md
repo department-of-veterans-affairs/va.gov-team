@@ -13,10 +13,14 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 For this first iteration, the focus will be on:
 * Authentication Logging & Monitoring
   * Availibility
+    * Logging in.
+    * Seeing information.
+    * Logging out.
   * Response Time
+    * How fast should things load?
       * Definition of "service degradation" in each case.
       * Creating a monitoring plan to check on service degradation.   
-* Publishing the SLOs on a Quarterly basis
+* Publishing the SLO on a Monthly basis
   * To a Github page in the [Login SLO folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Login%20SLO).
   * To the #vsp-identity slack channel.
     * Maybe other slack channels?
@@ -68,6 +72,7 @@ Our responses to any Service Degradation.
 * In order to answer the various things to be determined (you know, all of those things with a "***TBD***") in the actual user stories, a series of spikes have created for the engineering team to investigate the questions surrounding service outages, what we consider service degradation.
   *  NOTE: The spikes are all linked to their associated User Stories (and vice versa).
 * That we may have other SLO that we need to create as we do the initial series of spikes, and the engineering team has opinions on what to monitor.
+* There are already responses to availability service disruptions.
 
 
 ## Solution Approach: 
