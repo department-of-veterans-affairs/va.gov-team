@@ -102,8 +102,8 @@ N/A (as of this writing)
 | 75% of the endpoints are covered w/ SLO|  Published in tabular form             |
 | A monitoring methodology is created & published |  Should be a checklist that lives in SLO Github folder            |
 | A publishing schedule is created & published |  Schedule should live in SLO Github folder            |
-| SLO are monitored on a quarterly basis | Will be assigneed to Delivery Manager  |
-| How we are meeting the SLO are published on a quarterly basis |  Will be assigneed to Delivery Manager    |
+| SLO are monitored on a monthly basis | Will be assigneed to Delivery Manager  |
+| How we are meeting the SLO are published on a monthly basis |  Will be assigneed to Delivery Manager    |
 
 
 ## Baseline KPI Values:
