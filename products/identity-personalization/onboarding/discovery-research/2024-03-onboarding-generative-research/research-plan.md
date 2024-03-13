@@ -87,7 +87,7 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 2. Did you separate from from service on or after June 1, 2023?
 > Response options: yes or no (answer should be yes to qualify for separation status, criteria 2)
 
-3. How would you rate your level of engagement with VA? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.
+3. How would you describe your level of engagement with VA so far? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.
 > Response options: radio buttons
 > - I have not engaged with VA at all.
 > - I have some familiarity with VA benefits and services, but have never applied for any.
