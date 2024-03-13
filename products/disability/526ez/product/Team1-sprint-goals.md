@@ -27,9 +27,7 @@ Period - 03/13/2024 - 03/26/2024
    - [ ] Front-end - Widgets to Web components upgrade - radio buttons
    - /generatePDF
         - [ ] Start migration - abstract provider
-   - Rated Disabilities migration
-       -  Sanity check with the new LH version
-       -  Restart staggered release
+   - 526 Architecture Diagram
 
 
 ## Sprint 26
