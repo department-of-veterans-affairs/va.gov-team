@@ -269,7 +269,7 @@ Many stated that defining difficult financial terms when they are mentioned on t
 >“That’s kind of a weird question for me because I don’t think of the VA as a financial place, like I would have a bank." -P6
 
 #### Finding 5: 
-#### All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.
+### All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.
 
 Many participants had used the mobile but noted that the mobile app does not have all of the capabilities that VA.gov has. They stated they would like for the mobile app to support the functionality that the Debt Portal on VA.gov has such as viewing copays and paying them.
 
@@ -297,7 +297,7 @@ Labels: PRDT: Travel-reimbursement
  
 
 #### Finding 7: 
-#### There was almost an even split between participants preferring to see different types of debt combined on one page (combined), and participants preferring that the different types of debt have their own pages (separate).
+### There was almost an even split between participants preferring to see different types of debt combined on one page (combined), and participants preferring that the different types of debt have their own pages (separate).
 
 **Original Concept:**  
 Participants that preferred the original version (overview + split into type of debt) liked it for the following reasons:
@@ -372,7 +372,7 @@ VA.gov Homepage: In a past study, the most common way participants found the Deb
 *Label: PRDT: Debt-portal*
 
 
-### Finding 8: 
+#### Finding 8: 
 ### Participants highlighted the importance of surfacing important information sooner so they may view, pay, track, and understand the bill, and take follow up action if needed (such as disputing).
 
 Some participants mentioned wanting to see more information on what the copay charge was for
