@@ -14,6 +14,8 @@ Some trends came from the matrix. In no specific order:
 - The system needs to be able to return an error message to VA.gov if the process has failed
 - We need a robust retry/alert system that allows for retries of failures and then alerts the dev team on critical failures. **To keep things simple, MVP/Pilot does not need to have a retry system**. The base template is there. Retries 3 times, but is configurable. 
 - We will need a dashboard in Datadog/Dynatrace to monitor the system
+- Early monitoring will be very senstive and tweaked over time
+- Analysis of errors would lead to manual review and processing and maybe hotfixes. 
 
 Note: Some things might already exist, so we only need to integrate them with those systems.
 
