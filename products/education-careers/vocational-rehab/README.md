@@ -2,7 +2,7 @@
 # Product Outline: Veteran Readiness & Employement (Chapter 31), Form 28-1900
 
 ## Overview
-Fromerly called Vocational Rehabilitation and Employment, the online 28-1900 form allows Veterans with a service-connected disability that limits their ability to work or prevents them from working helps them explore employment options and address education or training needs. In some cases, the Veteran's family members may also qualify for certain benefits.
+Formerly called Vocational Rehabilitation and Employment, the online 28-1900 form allows Veterans with a service-connected disability that limits their ability to work or prevents them from working helps them explore employment options and address education or training needs. In some cases, the Veteran's family members may also qualify for certain benefits.
 
 There are several [VR&E support-and-service "tracks"](https://www.va.gov/careers-employment/vocational-rehabilitation/programs/) Veterans utilize.
 
