@@ -19,7 +19,7 @@ Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov
 ### Veteran Journey
 This research fits into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) as several stages including:
 - Starting up
-- Taking care of my self
+- Taking care of myself
 - Retiring
 - Aging
 
