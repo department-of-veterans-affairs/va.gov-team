@@ -28,22 +28,22 @@ This research fits into the [Veteran journey](https://github.com/department-of-v
 
 ## Research Goals	
 
-- **Goal 1: **
+- **Goal 1: Discover areas where the content may not be clear or need additional explanation.**
 
-- **Goal 2: **
+- **Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer.**
 
-- **Goal 3: **
+- **Goal 3: Discover unknown usability or accessibility issues**
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 - This research will help evaluate the content clarity and Veteran impressions around the newly added questions in the military service section for toxic exposure. Thus guiding what might need further clarification or edits and providing data on what is working well.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+**Goal 1: Discover areas where the content may not be clear or need additional explanation.**
+- Do Veterans mention the dates missing or that they would be helpful?
+- is it preferred to have this question as optional, can skip or to be given an explicit I don't know option
+- 
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
@@ -109,13 +109,11 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 ### Availability
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| March TBD, 2024  	|  11am - 6pm ET 	|
-| March TBD, 2024  	|  11am - 6pm ET 	|
-| March TBD, 2024  	|  11am - 6pm ET 	|
-| March TBD, 2024  	|  11am - 6pm ET 	|
-| April TBD, 2024  	|  11am - 6pm ET 	|
-| April TBD, 2024  	|  11am - 6pm ET 	|
-| April TBD, 2024  	|  11am - 6pm ET 	|
+| March 27, 2024  	|  10am - 6pm ET 	|
+| March 28, 2024  	|  12pm - 6pm ET 	|
+| March 29, 2024  	|  12pm - 4pm ET 	|
+| April 2, 2024  	|  11am - 6pm ET 	|
+| April 3, 2024  	|  10am - 6pm ET 	|
 
 
 	
