@@ -13,12 +13,13 @@ We will conduct a tree test research study in order to determine the best locati
 
 Which OCTO priorities does this research support? 
 - Our digital experiences are the best way to access VA health care and benefits.
+- Number of transactions processed using our products have increased by 25%.
 
 
 ## Research Goals	
 1. The main goal of this study is to identify where Veterans expect contact methods for their healthcare team to be located on VAMC pages.
 
-2. A secondary goal of the study is to identitfy where Veterans expect to find help accessing and using VA health chat. 
+2. A secondary goal of the study is to identitfy where Veterans expect to find help accessing and using VA health chat and VA health connect. 
 
 ### Outcome
 The results of the tree test will help inform optimal placement of health chat and health connect links on VAMC pages.
@@ -29,6 +30,7 @@ The results of the tree test will help inform optimal placement of health chat a
 - VA health connect (24/7 phone)?
 
 2a. Where do Veterans expect to find instructions for accessing VA health chat?
+
 2b. Where do Veterans expect to find information about VA health connect?
 
 
@@ -73,16 +75,14 @@ For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/r
 *All cohorts (Veterans; Veteran's spouses and dependents; Caregivers)*
 1. You want to make a healthcare appointment at a VA medical center using online chat.
 *For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-1. You want to call someone to make a healthcare appointment at a VA medical center.
+1. It's after business hours and you want to call to make a medical appointment.
 *For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-1. You'd like to call someone to refill a prescription.
+1. You'd like to refill a prescription over the phone.
 *For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 1. You'd like to use online chat to refill a prescription.
 *For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-1. You'd like to ask a nurse a question about a health concern.
+1. It's after business hours and you'd like to talk to a health care provider about a health concern.
 *For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-1. You'd like to ask someone on your health care team about a health concern. 
-*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities* 
 1. You want to schedule a phone or video call with a doctor.
 *For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
 
@@ -98,7 +98,7 @@ Will recruit 6 cohorts of 9 for a total of 54 recruits.  The goal will be to rea
 
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
-
+Must belong to one of the groups below:
 - Veterans
 - Veterans' spouses and dependents
 - Veterans' caregivers 
@@ -106,7 +106,6 @@ What demographics, experience, and scenarios do you need participants to meet to
 **Secondary criteria (good-to-haves)**
 
 - (use recruitment criteria for underserved demographics)
-- 
 
 ### Proposed cohorts
 - Cohort 1 - Veteran + Female
@@ -124,18 +123,18 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 We will finalize key tasks and test set up on Optimal Workshop by March 26, 2023
 
 ### Research sessions
-- Planned dates of research: ?/?/24 start until whenever we receive roughly 40 completed tests
+- Planned dates of research: 3/27/24 start until whenever we receive roughly 40 completed tests
 - Participants will be able to complete the online activity anytime after receiving the invitation email
 - Reminders will be sent as needed
 - Recruiting may continue throughout testing period to ensure we meet minimum participant numbers
 
 ### Length of sessions
-- This is an unmoderated online test. Participants are expected to spend 15 - 20 minutes to complete.
+- This is an unmoderated online test. Participants are expected to spend 10 - 15 minutes to complete.
 
 ## Team Roles	
-- Research lead: Alexis Logsdon
-- OCTO project lead: Amanda Klausmeier
-- Research support: TBD
+- Research lead: Alexis Logsdon, alexis.logsdon@a1msolutions.com
+- OCTO project lead: Amanda Klausmeier, amanda.klausmeier@va.gov
+
 	
 ## Appendix A:  Tasks
 
@@ -148,11 +147,12 @@ The Department of Veterans Affairs is conducting research to learn how you prefe
 
 Here's what to know about this activity:
 
-We’ll give you a series of tasks and a list of menu options. For each task, we'll ask you to click through the menu options to find the option that you think would have the information you need to complete the task. 
+- We’ll give you a series of tasks and a list of menu options. Then you'll click through the menu options until you find one that you think would help complete the task.
+- This activity is self-guided and usually takes about 10-15 minutes to complete.
+- You can complete the activity at any time and on any device with an internet connection.
+- You're not being tested on your abilities, and there's no wrong answers.
 
-This self-guided activity usually takes about 10 to 15 minutes to complete. You can complete the activity at any time that's convenient for you. You can complete this activity on a smartphone, laptop, or any device with an Internet connection. 
-
-We're not testing your abilities. We're testing changes to our website. If you'd like to take part in this activity, reply to this email. We'll send you a link and a participant code to get started.
+If you'd like to take part in this activity, reply to this email. We'll send you a link and a participant code to get started.
 
 Thank you for your interest in VA research.
 
@@ -163,7 +163,7 @@ Hello,
 
 Thank you for agreeing to take part in this VA online research activity.
 
-This activity usually takes about 10 to 15 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+This activity usually takes about 10-15 minutes to complete. You can start anytime using any device with an internet connection. We'll guide you through each task as you go.
 
 We won't share any information or feedback linked to your name or other personal details.
 
