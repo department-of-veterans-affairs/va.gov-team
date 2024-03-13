@@ -12,7 +12,7 @@ Some trends came from the matrix. In no specific order:
 
 - VA.gov needs to have a proactive `system is partially down` message for the user when the import process detects and throws fatal errors, such as when OH APIs are down
 - The system needs to be able to return an error message to VA.gov if the process has failed
-- We need a robust retry/alert system that allows for retries of failures and then alerts the dev team on critical failures. **To keep things simple, MVP/Pilot does not need to have a retry system**
+- We need a robust retry/alert system that allows for retries of failures and then alerts the dev team on critical failures. **To keep things simple, MVP/Pilot does not need to have a retry system**. The base template is there. Retries 3 times, but is configurable. 
 - We will need a dashboard in Datadog/Dynatrace to monitor the system
 
 Note: Some things might already exist, so we only need to integrate them with those systems.
