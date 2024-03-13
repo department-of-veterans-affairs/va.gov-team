@@ -15,7 +15,7 @@
 |[Checkbox-tile group](https://design.va.gov/components/form/checkbox#tile-1)|V3|Step 1|Platform|New design from Platform recommendations|
 |[Radio button](https://design.va.gov/components/form/radio-button#default)|V3| |Platform| |
 |[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V3|Review Page|Platform| |
-|[Memorable date](https://design.va.gov/components/form/memorable-date#month-select)|V3| |Platform| |Month select|
+|[Memorable date](https://design.va.gov/components/form/memorable-date#month-select)|V3| |Platform|Month select|
 |[Text input](https://design.va.gov/components/form/text-input#examples---v3)|V3| |Platform| |
 |[Select](https://design.va.gov/components/form/select#examples---v3)|V3| |Platform| |
 |[Progress bar segmented](https://design.va.gov/components/form/progress-bar-segmented#default)|V3||Platform|Default|
