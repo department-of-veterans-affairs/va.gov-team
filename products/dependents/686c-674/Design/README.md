@@ -9,26 +9,23 @@
 |Component Name|Version|Page|Owner|Notes|
 |--------------|-------|----|-----|-----|
 |[Breadcrumbs](https://design.va.gov/components/breadcrumbs#default)|V3||Platform||
-|[Alert-default](https://design.va.gov/components/alert#informational-alert-aka-default)|V3| |Platform||
-|[Alert-success](https://design.va.gov/components/alert#success-alert)|V3|Progress saved, Confirmation |Platform||
-|[Alert-sign in or tool prompt](https://design.va.gov/components/alert#sign-in-or-tool-prompt)|V3|Intro|Platform|For LOA3 authentication when user has LOA1 access|
+|[Alert](https://design.va.gov/components/alert)|V3| |Platform|default (info), success, sign in or tool prompt|
 |[Button](https://design.va.gov/components/button/#examples---v3)|V3| |Platform| |
-|[Information on file](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file)|V3|Veteran info|Platform|This is a pattern but I don't see the info component referenced elsewhere|
 |[Checkbox-single](https://design.va.gov/components/form/checkbox#examples---single---v3)|V3| |Platform| |
-|[Additional info](https://design.va.gov/components/additional-info#default)|V3| |Platform| |
 |[Checkbox-tile group](https://design.va.gov/components/form/checkbox#tile-1)|V3|Step 1|Platform|New design from Platform recommendations|
+|[Additional info](https://design.va.gov/components/additional-info#default)|V3| |Platform|Identical to V1, does not exist in USWDS |
 |[Radio button](https://design.va.gov/components/form/radio-button#default)|V3| |Platform| |
-|[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V3|Review Page|Platform| |
+|[Privacy statement](https://design.va.gov/components/form/privacy-agreement#examples---v3)|V1|Review Page|Platform|Updating to V3 in Figma|
 |[Memorable date](https://design.va.gov/components/form/memorable-date#month-select)|V3| |Platform|Month select|
 |[Text input](https://design.va.gov/components/form/text-input#examples---v3)|V3| |Platform| |
 |[Select](https://design.va.gov/components/form/select#examples---v3)|V3| |Platform| |
 |[Progress bar segmented](https://design.va.gov/components/form/progress-bar-segmented#default)|V3||Platform|Default|
 |[Process list](https://design.va.gov/components/process-list#examples---v3)|V3|Intro Page|Platform| |
 |[Accordion](https://design.va.gov/components/accordion#examples---v3)|V3||Platform||
-|[Statement of truth](https://design.va.gov/components/form/statement-of-truth#examples---v3)|V3|Review Page|Platform| |
-|[Card](https://design.va.gov/components/card#default---white-with-border)|V3|List&Loop|Platform| |
+|[Card](https://design.va.gov/components/card#default---white-with-border)|No reference to version|List&Loop|Platform| |
 |[File input](https://design.va.gov/components/form/file-input#accepts-only-specific-file-types)|V3|Spouse, Child under 18|Platform| |
 |[Address block](https://design.va.gov/components/address-block#examples)|V3|Spouse, Child under 18|Platform| |
-|[Number input](https://design.va.gov/components/form/number-input#hint-text)|V3|674|Platform|Identical to V1|
-|[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|V3|Radio buttons "Other" answers|Platform|[VADS pattern](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1), Can't find in Storybook|
+|[Number input](https://design.va.gov/components/form/number-input#hint-text)|V3|674|Platform|Identical to V1, does not exist in USWDS|
+|[Conditionally revealed fields](https://design.va.gov/patterns/ask-users-for/relationship#conditionally-revealed-fields)|Used with V3 radio buttons|Radio buttons "Other" answers|Platform|[VADS pattern in Figma](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988%3A24492&mode=design&t=pfavvPC0uZ0kM5nE-1)|
+|[Information on file](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file)||Veteran info|Platform|This is a pattern but I don't see the info component referenced elsewhere|
 
