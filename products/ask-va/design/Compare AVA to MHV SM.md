@@ -54,7 +54,7 @@ Although Secure Messaging uses a list view to support better scanning, we hypoth
 
 #### 4. Styling to help distinguish between read and unread messages
 
-Secure Messaging uses styling and an icon (dot) to distinguish read and unread messages. We should explore including  style differences for read, unread and unread/hover that are consistent with SM. We don't think it's necessary to signal when there's an attachment in Ask VA.
+Secure Messaging uses styling and an icon (dot) to distinguish read and unread messages. We're not sure how this will work yet, with read receipt functionality etc., but we want to explore including style differences for read, unread and unread/hover that are consistent with SM. We don't think it's necessary to signal when there's an attachment in Ask VA.
 
 #### 5. Newest to oldest order
 
