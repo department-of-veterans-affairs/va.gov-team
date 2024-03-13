@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience, VA 	Onboarding Generative Research, March 2024
+# Research Plan for Authenticated Experience, VA Onboarding Generative Research, March 2024
 ## Background
 The VA.gov authenticated experience thus far has been primarily focused on the user journey for existing Veterans or other VA beneficiaries - i.e. Veterans or beneficiaries who are already active in and relatively familiar with VA.gov by way of claim submission, applying for health care and engaging with other VA-sponsored benefits. 
 
@@ -25,13 +25,13 @@ This research will help us determine if we need to make changes to existing VA.g
 ### Research questions
 1. What role does VA.gov have in onboarding people to VA?
 2. What changes, if any, could we make to improve the experience of onboarding to VA through VA.gov?
-3. What challenges do people have using VA.gov when they're using it for the first time
+3. What challenges do people have using VA.gov when they're using it for the first time?
 4. Where does VA.gov fit within the mental model of people who are onboarding to VA?
 5. What are the top questions transitioning service members have about VA?
 
 ### Hypothesis
 Based on what we learned in our [previous research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md), we hypothesize that we’ll learn: 
-- VA.gov will be able to improve the process of onboarding to VA through content and IA updates targeted to service members:
+- VA.gov will be able to improve the process of onboarding to VA through content and IA updates targeted to service members, especially on the following topics:
   - eligibility
   - applying for benefits
   - benefits of creating a VA.gov account.
