@@ -238,7 +238,7 @@ Complete surveys
 
 ### Timeline
 
-March 25-March 29, 2024
+April 1-April 8, 2024
 
 ### Prepare
 Materials finalized by THIS DATE
@@ -248,7 +248,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: 
 
 ### Research sessions
-March 25-March 29, 2024
+April 1-April 8, 2024
 
 ### Length of sessions
 Veterans will be scheduled for 2 hour sessions 
