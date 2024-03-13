@@ -5,9 +5,9 @@ Ask VA VA.gov
 Last updated by @tygindraux on March 13, 2024
 
 Jump to:
-[What we reviewed](#what-we-reviewed)
-[Key task comparison](#key-task-comparison)
-[Next steps](#next-steps)
+- [What we reviewed](#what-we-reviewed)
+- [Key task comparison](#key-task-comparison)
+- [Next steps](#next-steps)
 
 ## Background
 
