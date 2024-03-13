@@ -621,7 +621,7 @@ Disability and Assistive Technology (AT):
 
   
 
-VA debt in the last 5 years
+**VA debt in the last 5 years**
 
 -   I currently have an unpaid VA medical copay debt: 3
     
@@ -635,7 +635,7 @@ VA debt in the last 5 years
     
 
 
-Amount of VA debt
+**Amount of VA debt**
 
 -   The debt I had or currently have is in the range of $1 - $99: 1
     
@@ -646,7 +646,7 @@ Amount of VA debt
 -   The debt I had or currently have is over $1,000: 1
     
 
-VA debt resolution attitudinal “I have taken steps to resolve this debt”
+**VA debt resolution attitudinal: “I have taken steps to resolve this debt”**
 
 -   1 - I have not been active in resolving this debt at all:
     
@@ -659,7 +659,7 @@ VA debt resolution attitudinal “I have taken steps to resolve this debt”
 -   5 - I have been very active in resolving this debt: 3
     
 
-Experiences of financial hardship
+**Experiences of financial hardship**
 
 -   I am currently experiencing financial hardship: 4
     
