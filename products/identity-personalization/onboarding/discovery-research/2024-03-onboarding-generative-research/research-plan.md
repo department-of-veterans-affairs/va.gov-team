@@ -11,7 +11,7 @@ We want to conduct generative research to build a baseline understanding of the 
 This research supports the 2024 goal “Our digital experiences are the best way to access VA health care and benefits.”
 
 ### Veteran Journey
-This research is most closely related moments that matter within three early phases of the Veteran journey ([journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)). 
+This research is most closely related to moments that matter within three early phases of the Veteran journey ([journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)). 
 - **Serving:** Managing military and family obligations
 - **Getting out:** Understanding the process of separating
 - **Starting up:** Attending to health needs and finding a place to live 
@@ -42,7 +42,7 @@ Based on what we learned in our [previous research review](https://github.com/de
 We’re planning to conduct remote, semi-structured interviews over Zoom.
 
 ### Research materials
-- Conversation guide link to come
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/conversation-guide.md)
 - VA.gov
 
 ## Recruitment	
@@ -93,7 +93,7 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 > - I have not engaged with VA at all.
 > - I have some familiarity with VA benefits and services, but have never applied for any.
 > - I have applied for VA benefits and services, but I don’t receive any yet.
-> - I receive VA benefits and services.
+> - I receive or have received VA benefits and services.
 
 4. How would you rate your familiarity with VA.gov? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.gov.
 > Response options: radio buttons
@@ -110,7 +110,7 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 
 ## Timeline
 ### Prepare
-Our conversation guide and VA.gov will be ready for this study at the time of submission.
+Our [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/conversation-guide.md) and VA.gov will be ready for this study at the time of submission.
 
 #### Kickoff meeting
 We’d like to have a kickoff meeting with Perigean prior to starting recruiting. We’ll be available for the kick off during the following days/times, all in ET:
@@ -132,7 +132,7 @@ We will be available for a pilot session on the following days/times in ET:
 * Please reserve March 29 for reschedules or additional participants if needed for no shows
 
 ### Length of sessions
-* Session length: 60 minutes
+* Session length: 45 minutes
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
 
