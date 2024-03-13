@@ -39,7 +39,7 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 ### Product and Program Management
 
-- Mike King, Amber Parsley - Product Leadership
+- Mike King, Jim Connelly - Product Leadership
 
 ## Communications
 
