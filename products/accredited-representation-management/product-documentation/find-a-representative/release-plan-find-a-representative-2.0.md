@@ -66,10 +66,9 @@ While we cannot think of any events that would be critical enough to merit a rol
 ## Staged Rollout Schedule
 **Go/No Go meeting 3/5/2024 at 12:30p ET**
 1. Stage A: 10% of users on 3/11 (Monday)
-2. Stage B: 25% of users on 3/13 (Wednesday)
-3. Stage C: 50% of users on 3/18 (Monday)
-4. Stage D: 100% of users on 3/20 (Wednesday) - monitor for any issues through 3/25 EOD (Monday)
-   1. On 3/21 (Thursday) CAIA will implement the redirects and search result "best bets", as well as begin updating the entry points
+2. Stage B: 100% of users on 3/13 (Wednesday) + launch best bets for an initial boost to visibility
+3. Stage C: Implement redirects on 3/18 (Monday) for an added boost to visibility
+4. Stage D: Begin entry point work on 3/20 (Wednesday) 
 
 *** 
 
