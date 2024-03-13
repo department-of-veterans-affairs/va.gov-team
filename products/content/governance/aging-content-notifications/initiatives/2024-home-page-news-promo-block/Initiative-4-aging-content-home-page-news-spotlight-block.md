@@ -9,13 +9,12 @@ How might we ensure a better site-user experience by ensuring alignment to our V
 ## Overview
 For the purpose of this Initiative, Home Page News Spotlight Blocks (and content in general) in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after the promotion or event they were created for is over.
 
-To provide timely information to Veterans and other users of VA.gov, and to ensure Home Page News Spotlight Blocks are replaced when appropriate and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page News Spotlight Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive). The emails should be configurable per content type as well.
+To provide timely information to Veterans and other users of VA.gov, and to ensure Home Page News Spotlight Blocks are replaced when appropriate and/or monitored, we need to implement the ability for the notification system to send notification emails based on a 30-day timeframe specific to Home Page News Spotlight Blocks. Notifications will be sent three days before the 30th day (telling them they need to edit and add a note that it is still needed, or archive the banner by the 30th day), then the morning of the 30th day (telling them they need to either edit to add a note that the banner is still needed, or archive).
 
 ### Examples of Stale Home Page News Spotlight Blocks
 - the article this news spotlight navigates to was published in May 2023.
   
 <img width="598" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/147188767/a18f156d-c425-49ba-8aa0-1ef20f91b78f">
-
 
 ## Desired User Outcomes
 Veterans, their caregivers and other users of VA.gov will see Home Page News Spotlight blocks with current, timely information.
@@ -30,16 +29,10 @@ Editors are automatically notified when Home Page News Spotlight Blocks they’v
 Editors ignore the notification emails, and their content is not refreshed (and when the future auto-archive initiative is implemented, their content no longer displays).
 
 ## Measuring Success
-90% of Home Page News Spotlight Blocks are updated due to editors receiving notification emails, ensuring the content doesn’t become stale, or in the case where the banner is for an event or is timeboxed, is replaced at the end of the event end date.
+90% of Home Page News Spotlight Blocks are updated, or archived and fresh content published, due to editors receiving notification emails, ensuring the content doesn’t become stale, or in the case where the banner is for an event or is timeboxed, is replaced at the end of the event end date.
 
 ### Key Performance Indicators (KPIs)
 * KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
-* 
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
 Baseline Values consist of a list of current Home Page News Spotlight Blocks in PROD, and then follow-up for the MVP will be confirming editors received notifications, and manually checking to see if they updated their content.
@@ -58,7 +51,7 @@ For this particular feature, there isn’t a way to obtain metrics from GA.
 - If the editor isn't going to extend it, they will archive it.
 
 ## Solution Approach
-- Based on the framework built in Initiative 1, Home Page News Spotlight blocks are assigned/configured with 30-day notifications.
+- Based on the framework built in Initiative 1, Home Page News Spotlight blocks are assigned/configured by an engineer via code with 30-day notifications. Editors are NOT able to choose a timeframe in the UI.
  
 ### How we are approaching the solution
 
@@ -67,9 +60,9 @@ For this particular feature, there isn’t a way to obtain metrics from GA.
 
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content Editor receives email three (3) days prior to End date | **AS A** content editor who created a Home Page News Spotlight Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation, instead of 365 days after, **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 30 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
-| Content Editor receives email at 12:01AM (0001) the morning of the 30th day | **AS A** content editor who created a Home Page News Spotlight Block content type, and who has not edited the content, thus extending the timeframe, **I WILL** receive an email at 12:01AM (0001) the morning of the 30th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
-| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Home Page News Spotlight Block content type, **I WILL** edit the Home Page News Spotlight Block and add a comment that the content is still needed, **SO THAT** the published date range is reset to 30 days from 'today', e.g. the start date is 'today', and end date is 30 days later, inclusive, **AND** I will receive an email alert three (3) days prior to the 'new' 30th day after editing the content, instead of 365 days after. | Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date (unless the editor again edits and resets the dates).|
+| Content Editor receives email three (3) days prior to expiration date | **AS A** content editor who created a Home Page News Spotlight Block content type, and who has not edited the content thus extending the timeframe, **I WILL** receive an email alert three (3) days prior to the 30th day after content creation **SO THAT** I know I need to either (1) edit the content, adding a note that it's still needed, and thus resetting the 30 day window; or (2) archive my content. | Note that we aren't yet implementing auto-archiving, so there won't be any negative repurcussions until that it implemented/released. |
+| Content Editor receives email the morning of the 30th day | **AS A** content editor who created a Home Page News Spotlight Block content type, and who has not edited the content to extend the timeframe, **I WILL** receive an email the morning of the 30th day, **SO THAT** I know I need to either edit and extend the end date if applicable, or archive the content. | After auto-archiving is implemented, this notification email will alert the user that their content will be archived at 2359 that night. TBD email content.|
+| Content Editor edits the banner with the intent of extending the published date range | **AS A** content editor who created a Home Page News Spotlight Block content type, **I WILL** edit the Home Page News Spotlight Block and add a comment that the content is still needed, **SO THAT** the published date range is reset to 30 days from 'today', e.g. the start date is 'today', and expiration date is 30 days later, inclusive, **AND** I will receive an email alert three (3) days prior to the 'new' 30th day after editing the content.| Note that the alert emails will then be sent on the correct cadence, e.g. three days before the 'new' end date, morning of the 'new' end date (unless the editor again edits and resets the dates).|
 
 --- 
 
@@ -112,8 +105,6 @@ N/A
 #### Tickets
 - [Super Epic Aging content notifications for banners & blocks #161230](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/161230)
   
-  
-
 ---
 
 #### Communications
@@ -123,13 +114,12 @@ N/A
 - GitHub Label: sitewide-public-websites
 - Slack channel: #Sitewide-Public-Websites
 - People:
-  - OCTO-DE Leads: Dave Conlon & Danielle Theirry
+  - OCTO-DE Leads: Dave Conlon
   - OCTO-DE IA: Mikki Northuis
   - PM: Fran Cross (A6)
   - DM: Jill Adams (A6)
-  - Engineering: Daniel Sasser, Chris Kim, Randi Mays, Michael Kinnunen
+  - Engineering: Daniel Sasser, Chris Kim, Randi Mays
   - Design: Jordan Wood
-  - Research: Cindy Merrill
 
 
 ##### Stakeholders: 
