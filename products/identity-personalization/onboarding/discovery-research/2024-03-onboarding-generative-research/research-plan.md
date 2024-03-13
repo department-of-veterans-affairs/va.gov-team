@@ -17,7 +17,7 @@ This research is most closely related moments that matter within three early pha
 - **Starting up:** Attending to health needs and finding a place to live 
 
 ## Research Goals	
-Our primary goal with this research is to identify any problems people experience when separating from the military that a could be improved or resolved by VA.gov. 
+Our primary goal with this research is to identify any problems people experience when separating from the military that could be improved or resolved through VA.gov. 
  
 ### Outcome
 This research will help us determine if we need to make changes to existing VA.gov features, or build new ones, to help people onboard to VA.
