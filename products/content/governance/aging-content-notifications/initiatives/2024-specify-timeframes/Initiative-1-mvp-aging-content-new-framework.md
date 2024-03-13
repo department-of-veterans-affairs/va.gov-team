@@ -132,8 +132,6 @@ Note: Extending the (or building a new) framework to accommodate Content Blocks 
   - [Create Architecture Plan for Aging Content Notification Framework](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16885)
   - [Install ECA Drupal modules](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17115)
   - [Create Views Result Condition Plugin for ECA ](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17116)
-  - [Aging Content] Build Dependent Components for Expired FWB MVP [#16417](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16417)
-  - [Aging Content - Banner] Drupal: Implement Full Width Banner Aging Content Notification Email MVP [#15506](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15506)
  
 
 ---
