@@ -49,32 +49,75 @@ Conversation guide link to come
 We want to use Perigean to recruit **13 participants for a total of 1 completed pilot session and 8 completed formal sessions.**
 
 ### Recruitment criteria
-- At least 6 participants must be active duty service members who will be separating from service by December 31, 2024.
-- At least 6 participants must be Veterans who separated from service on or after June 1, 2023.
-- Participants should represent a mix of branches:
-  - At least 2 Army 
-  - At least 2 Navy or Coast Guard
-  - At least 2 Marine
-  - At least 2 Air Force or Space Force
-- Participants should represent a mix of experience with VA, and with VA.gov. 
-  - at least 3 should have no direct experience with VA or VA.gov
-  - at least 3 should have some experience with VA, but no experience with VA.gov
-  - at least 3 should have some experience with VA.gov
+All participants must be willing to join a Zoom session through their phone (dial-in only is acceptable) or a computer.
+
+#### Separation status
+1. At least 6 participants must be active duty service members who will be separating from service by December 31, 2024.
+2. At least 6 participants must be Veterans who separated from service on or after June 1, 2023.
+
+#### Military branch
+Participants should represent a mix of branches:
+- At least 2 Army 
+- At least 2 Navy
+- At least 2 Marine
+- At least 2 Air Force or Space Force
+- At least 1 Coast Guard
+
+#### Experience with VA
+Participants should represent a mix of experience with VA, and with VA.gov. 
+- At least 3 should have no direct experience with VA or VA.gov
+- At least 3 should have some experience with VA, but no experience with VA.gov
+- At least 3 should have some experience with VA.gov
+
+#### Demographics and inclusion
 - Participants should represent a mix of genders and ethnicities.
-  - At least 5, no more than 8, who identify as other than male
-  - At least 5, no more than 8, who identify as other than Caucasian
+  - At least 5, but no more than 8, who identify as other than male
+  - At least 5, but no more than 8, who identify as other than Caucasian
+- At least 5, but no more than 8, should not have a degree higher than an associates degree or technical certification
+- At least 5 participants should identify as having a cognitive impairment.
+
+### Screener questions
+1. Are you able to join the research session by dialing in through a phone call, or from a smart phone or computer? (Answer should be yes for all participants to qualify)
+
+> Response options: yes or no
+
+2. Are you an active duty service member who will be separating from service by December 31, 2024?
+> Response options: yes or no (answer should be yes to qualify for separation status, criteria 1)
+
+2. Did you separate from from service on or after June 1, 2023?
+> Response options: yes or no (answer should be yes to qualify for separation status, criteria 2)
+
+3. How would you rate your level of engagement with VA? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.
+> Response options: radio buttons
+> - I have not engaged with VA at all.
+> - I have some familiarity with VA benefits and services, but have never applied for any.
+> - I have applied for VA benefits and services, but I don’t receive any yet.
+> - I receive VA benefits and services.
+
+4. How would you rate your familiarity with VA.gov? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.gov.
+> Response options: radio buttons
+> - I have never used VA.gov.
+> - I have used VA.gov a little bit.
+> - I have used VA.gov a lot.
+> - I am an expert on VA.gov.
+
+4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+> Response options: yes or no
+> (Answering yes would qualify the participant to meet criteria for cognitive impairments)
+
 
 ## Timeline
 ### Prepare
-We aren’t planning to review any artifacts during the session, other than perhaps VA.gov if the conversation leads that way. Our conversation guide will be complete at the time of submission.
+We aren’t planning to review any artifacts during the session, other than possibly VA.gov if the conversation leads that way. Our conversation guide will be complete at the time of submission.
 
 #### Kickoff meeting
 We’d like to have a kickoff meeting with Perigean prior to starting recruiting. We’ll be available for the kick off during the following days/times, all in ET:
-- March 19 between 9am-11:30am
+- March 19 between 9am-11:00am
 - March 20 between 10am-12pm, or 12:30pm-3:30pm
 
 ### Pilot session
-We’d like Perigean to recruit **two pilot participants** that meet the criteria outlined above. We’re asking for 2 pilots in case one cancels or can’t show up. If they both do, the second pilot participant will count toward our completed sessions.
+We’d like Perigean to recruit **two pilot participants** that meet the criteria outlined above. We’re asking for 2 pilots in case one cancels or is unable to join. If they both do, the second pilot participant will count toward our completed sessions.
 
 We will be available for a pilot session on the following days/times in ET:
 - March 21 between 10am-5pm
