@@ -14,15 +14,15 @@ Once you've presented your research readout to your team, if you have a deck, in
 
 Jump to:
 
--   [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#hypotheses-and-conclusions)
+-   [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#hypotheses-and-conclusions)
+  
+-   [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#key-findings)
     
--   [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
+-   [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#recommendations)
     
--   [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
+-   [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#further-research-needed)
     
--   [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
-    
--   [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to) 
+-   [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#who-we-talked-to) 
     
 
 ## Research Goals
@@ -184,22 +184,23 @@ This is maybe true. There was almost an even split between participants preferri
 ## Key Findings
 
 
-1.  [Veterans we spoke to echoed a desire for a financial portal that is first and foremost easy to use and simple.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#finding-1)
+1.  [Veterans we spoke to echoed a desire for a financial portal that is first and foremost easy to use and simple.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-1)
     
-2.  Participants all echoed that a one stop shop includes the convenience of doing the most important actions in one place.
-    
-3.  The feedback on personalization was mixed. Overall, there was some interest in having a financial hub that surfaces content most important to the participant.
-    
-4.  Most participants thought "Financial Resources" and "Financial Terms" would be helpful.
-    
-5.  All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.
-    
-6.  When asked for thoughts on "Travel Pay" many commented on difficulties both in person and online.
-    
-7.  There was almost an even split between participants preferring to see different types of debt combined on one page (combined), and participants preferring that the different types of debt have their own pages (separate).
-    In order to act on this feedback, we should consider all of the pathways users can take to get to the Debt Portal.
+2.  [Participants all echoed that a one stop shop includes the convenience of doing the most important actions in one place.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-2)
 
-8. Participants highlighted the importance of surfacing important information sooner so they may view, pay, track, and understand the bill, and take follow up action if needed (such as disputing).
+    
+3.  [The feedback on personalization was mixed. Overall, there was some interest in having a financial hub that surfaces content most important to the participant.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-3)
+    
+4.  [Most participants thought "Financial Resources" and "Financial Terms" would be helpful.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-4)
+    
+5.  [All participants were excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app.]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-5)
+    
+6.  [When asked for thoughts on "Travel Pay" many commented on difficulties both in person and online.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-6)
+    
+7.  [There was almost an even split between participants preferring to see different types of debt combined on one page (combined), and participants preferring that the different types of debt have their own pages (separate).
+    In order to act on this feedback, we should consider all of the pathways users can take to get to the Debt Portal.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-7)
+
+8. [Participants highlighted the importance of surfacing important information sooner so they may view, pay, track, and understand the bill, and take follow up action if needed (such as disputing).](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-findings.md#finding-8)
 
   
 
