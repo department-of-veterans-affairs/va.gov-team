@@ -461,7 +461,7 @@ Design Recommendations:
 Tickets that will address issues:
 
   
--   [[CDP] Wrap all cards in a ul and combine card title and amount to make cards for screen reader friendly #77460]([https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/77460](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/77460))
+-   [[CDP] Wrap all cards in a ul and combine card title and amount to make cards for screen reader friendly #77460](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/77460)
     
 -   [[CDP] Bug - Investigate authenticated redirects#70029](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/70029)
     
