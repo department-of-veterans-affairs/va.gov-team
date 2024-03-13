@@ -71,3 +71,5 @@ We might explore:
 - Ability to draft messages
 - List view (if it's not already added before launch)
 - Adding a sender (which may be a team or department name)
+
+You can explore our key takeaways (including examples) in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707502811113/5ed5c3c6cb9f26595cb7d4fb62a8bebc598972f3?wid=0-1710272528770).
