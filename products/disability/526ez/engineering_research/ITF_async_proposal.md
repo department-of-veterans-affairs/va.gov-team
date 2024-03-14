@@ -1,14 +1,15 @@
 # Architecture Proposal
 
 
-## The big question:
-if a vet logs in, do we need to show them information about an existing ITF.  This will massively impact the solution flow.  If YES, then we need asny READ and WRITE of ITFs.  If NO, then we only need async WRITES, which allows us to maintain a single source of truth.  The following proposals break down the implementation in each case:
+NOTE: 
+During the development of this soultion / document, the question arose as to the following situation; when a vet logs in, do we need to show them information about an existing ITF? We realized that if the answer was **yes**, then we would need a robust ITF *READ* solution in adition to the simplier async ITF *WRITE* implementation.  We descied that yes, we want vet facing, 100% up to date information as to the following
+- does this vet have an existing ITF?
+- If yes, when does it expire?
+- If no, tell them we are creating it.
 
-[We answer this question in this meeting](https://drive.google.com/drive/folders/1A2W1aeS3ppD33kRo_tWAuORpjFdaOdt-)
+[We answered this question in this meeting](https://drive.google.com/drive/folders/1A2W1aeS3ppD33kRo_tWAuORpjFdaOdt-)
 
-### The answer: YES, WE NEED ASYNC READ AND WRITE
-
-at a high level, we have agreed on option #2 from below.  
+Below there are two options.  They were proposed before we answered this requirement question.  Now that we know the answer, consider option #2 to be the most correct solution, as it provides for async READ and WRITE.  Option #1 is just for historical context.
 
 
 ### UX
