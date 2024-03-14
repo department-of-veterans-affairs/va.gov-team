@@ -90,14 +90,24 @@ The following metrics will be considered before advancing rollout to the next st
 1. Errors in Sentry:
 2. Are console errors still happening on page click? 
 3. User reports of outdated information:
-4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+4. Unique Pageviews:
+5. Average Time on Page:
+6. Entrances: 
+7. Bounce Rate:
+8. % Exit: 
+9. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage C Results (3/18- 3/20)
 
 1. Errors in Sentry:
 2. Are console errors still happening on page click? 
 3. User reports of outdated information:
-4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+4. Unique Pageviews:
+5. Average Time on Page:
+6. Entrances: 
+7. Bounce Rate:
+8. % Exit: 
+5. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
 ### Stage D Results
 
