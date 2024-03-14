@@ -17,8 +17,10 @@ Restore Service.
 **Work in Progress**
 
 #### DORA
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/99204969/ab6f5714-9876-46ba-a2e5-ccc95896c5dd)
+
 Notify
-| Quarter | Deployment Frequency | Lead Time for Changes | Change Failure Rate | Time to Restore Service |
+| Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | Medium               | Medium                | High                | High                    |
 | Q2      |                      |                       |                     |                         |
@@ -26,7 +28,7 @@ Notify
 | Q4      |                      |                       |                     |                         |
 
 Strike
-| Quarter | Deployment Frequency | Lead Time for Changes | Change Failure Rate | Time to Restore Service |
+|Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      |                      |                       |                     |                         |
 | Q2      |                      |                       |                     |                         |
