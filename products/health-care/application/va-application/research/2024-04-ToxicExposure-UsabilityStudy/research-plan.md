@@ -48,7 +48,7 @@ This research fits into the [Veteran journey](https://github.com/department-of-v
 - Do Veterans feel they should be providing this information or is this information they feel the VA should already have?
 - What types of information do Veterans expect the VA to have access to?
 - Do Veterans want the option to upload digital documents or proof of their exposures?
-- How difficult or easy will it be for Veterans to recall or look up specific service dates and/or find suporting documentation to upload?
+- How difficult or easy will it be for Veterans to recall or look up specific service dates and/or find supporting documentation to upload?
 
   
 **Goal 3: Discover unknown usability or accessibility issues**
