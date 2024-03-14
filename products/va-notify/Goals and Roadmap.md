@@ -164,13 +164,13 @@ As we have implemented Promote to Production and have made Production a Viewer o
 Currently, in order to gain analytical insight into their notifications, business lines have to log into Datadog, Google Analytics, and/or Domo, which is not an optimal user experience. While users can still utilize those for specific use cases, we want to bring custom reports containing useful analytics front and center within the Self-Service Portal so business lines can view notification performance metrics and use them to optimize notifications over time.  Additionally, we want to add configurable business logic that can proactively alert the corresponding business line and/or VA Notify when notifications are not being triggered (based on historical performance of the notification template). These alerts can be sent to business line technical leads and/or product owners.
 
 #### Compliance: Portal V3 Updates
-##### OCTO OKR: Our platforms measure and improve the satisfaction of their internal users.
+##### OCTO OKR: N/A
 ##### Theme: Performance, Monitoring, Maintainability, and Security
 
 In order to align with the industry standard V3 style changes, our team will be updating all of our buttons, breadcrumbs, modals, pagination, alerts and accordions to the updated styles.
 
 #### Ruby Conversion for Template Edit Page
-##### OCTO OKR: Our platforms hit the “elite” level as defined by DORA.
+##### OCTO OKR: N/A
 ##### Theme: Performance, Monitoring, Maintainability, and Security
 
 In an effort to better align with app architecture and stay up-to-date with current code standards, our team will be moving from TypeScript to Ruby for our Template Edit Pages for both email and SMS. There will not be a change in functionality or front-end appearance.
