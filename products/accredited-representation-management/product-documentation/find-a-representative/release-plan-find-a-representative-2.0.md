@@ -126,28 +126,40 @@ _Links to Google Analytics and DOMO dashboards_
 
 ### 1-Week Results (3/18-3/28)
 
-- Bounce rate for `/find-rep`:
-- Unique page views:
-- Number of searches:
-- Average number of searches per user:
-- % of searches that do not return results:
-- Errors logged in Sentry:
-- Contact Center calls:
-- Feedback survey submmissions:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+1. Errors in Sentry:
+2. Are console errors still happening on page click? 
+3. User reports of outdated information:
+4. Unique Pageviews:
+5. Average Time on Page:
+6. Entrances: 
+7. Bounce Rate:
+8. % Exit:
+9. Number of searches:
+10. Average number of searches per user:
+11. % of searches that do not return results:
+12. Contact Center calls:
+13. Feedback survey submmissions:
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
 ### 1-Month Results (3/18-4/18)
 
-- Bounce rate for `/find-rep`:
-- Unique page views:
-- Number of searches:
-- Average number of searches per user:
-- % of searches that do not return results:
-- Errors logged in Sentry:
-- Contact Center calls:
-- Feedback survey submmissions:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+1. Errors in Sentry:
+2. Are console errors still happening on page click? 
+3. User reports of outdated information:
+4. Unique Pageviews:
+5. Average Time on Page:
+6. Entrances: 
+7. Bounce Rate:
+8. % Exit:
+9. Number of searches:
+10. Average number of searches per user:
+11. % of searches that do not return results:
+12. Contact Center calls:
+13. Feedback survey submmissions:
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
 ## Post-Launch Questions
