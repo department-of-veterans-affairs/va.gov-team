@@ -107,7 +107,8 @@ The name of the facility staff who will be seeing/treating the Veteran.
 
 The type of assessment or treatment the Veteran will receive.
 
-###
+#### Display requirements 
+How this field shows for VA appointments across scheduling touchpoints
 <table>
 <tr>
   <th>VAOS</td>
@@ -127,11 +128,10 @@ The type of assessment or treatment the Veteran will receive.
       <li>Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.</li>
       <li>A VistA appointment with an <code>APPOINTMENT TYPE = Compensation and Pension</code> must display in VAOS with <code>type of care = Compensation and pension exam</code>.</li>     
   </td>
-  <td></td>
-  <td></td>
+  <td> Check-in here </td>
+  <td> Mobile app here </td>
 </tr>
 </table>
-| VAOS | Check-in | Mobile app |
 
 
 ### Veteran Reason For Appointment
