@@ -130,7 +130,8 @@ How this field shows for VA appointments across scheduling touchpoints
       </li>
       <li>Backend sets the <code>serviceType</code> when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).</li>
       <li>Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.</li>
-      <li>A VistA appointment with an <code>APPOINTMENT TYPE = Compensation and Pension</code> must display in VAOS with <code>type of care = Compensation and pension exam</code>.</li>     
+      <li>A VistA appointment with an <code>APPOINTMENT TYPE = Compensation and Pension</code> must display in VAOS with <code>type of care = Compensation and pension exam</code>.</li> 
+      </ul>    
   </td>
   <td> Check-in here </td>
   <td> Mobile app here </td>
