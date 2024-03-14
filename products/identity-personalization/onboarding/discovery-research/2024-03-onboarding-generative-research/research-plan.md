@@ -124,8 +124,13 @@ Our [conversation guide](https://github.com/department-of-veterans-affairs/va.go
 
 #### Kickoff meeting
 We’d like to have a kickoff meeting with Perigean prior to starting recruiting. We’ll be available for the kick off during the following days/times, all in ET:
-- March 19 between 9am-11:00am
-- March 20 between 10am-12pm, or 12:30pm-3:30pm
+
+| Date     | Time (Eastern)               |
+|----------|------------------------------|
+| March 15 | 10am-11:30am, and 2pm-3pm    |
+| March 18 | 9:30am-12pm and 2-4pm        |
+| March 19 | 10am-11am                    |
+| March 20 | 10am-12pm, or 12:30pm-3:30pm |
 
 ### Pilot session
 We’d like Perigean to recruit **two pilot participants** that meet the criteria outlined above. We’re asking for 2 pilots in case one cancels or is unable to join. If they both do, the second pilot participant will count toward our completed sessions.
@@ -142,7 +147,7 @@ We will be available for a pilot session on the following days/times in ET:
 * Please reserve March 29 for reschedules or additional participants if needed for no shows
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 45 minutes or 60 minutes, depending on whether or not participant is willing to create an identity-verified account during the session.
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
 
