@@ -175,7 +175,7 @@ ________________________________________________________________________________
     - 🟥 [[UX] [Design] Create Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
     - 🟦 [[BE] Handle Faraday::TimeoutError Exception TravelClaimSubmissionWorker ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77678)
-    - 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
+    - ✔️ 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
     - **Sub Goal: Migrate to GA4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77709)
     - **Sub Goal: Move to New AWS Instance**
