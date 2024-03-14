@@ -107,13 +107,28 @@ The name of the facility staff who will be seeing/treating the Veteran.
 
 The type of assessment or treatment the Veteran will receive.
 
-**VAOS Display Requirements:**
-- Type of Care for VA appointments must be set to the `serviceType` **except** when:  
-  - `serviceType` is `NULL`, Front End will set type of care to ‘VA appointment’.
-  - OR`serviceCategory` is other than `regular`, Front End will set type of care to ‘VA appointment’. 
-- Backend sets the `serviceType` when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).  
-- Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.
-- A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with `type of care = Compensation and pension exam`.    
+###
+<table>
+<tr>
+  <th>VAOS</td>
+  <th>Check-in</th>
+  <th>Mobile app</th>
+</tr>
+<tr>
+  <td>
+    <ul></ul>Type of Care for VA appointments must be set to the `serviceType` **except** when:  
+      - `serviceType` is `NULL`, Front End will set type of care to ‘VA appointment’.
+      - OR`serviceCategory` is other than `regular`, Front End will set type of care to ‘VA appointment’. 
+    - Backend sets the `serviceType` when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).  
+     - Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.
+   - A VistA appointment with an `APPOINTMENT TYPE = Compensation and Pension` must display in VAOS with `type of care = Compensation and pension exam`.       
+  </td>
+  <td>Bar</td>
+  <td>Baz</td>
+</tr>
+</table>
+| VAOS | Check-in | Mobile app |
+
 
 ### Veteran Reason For Appointment
 
