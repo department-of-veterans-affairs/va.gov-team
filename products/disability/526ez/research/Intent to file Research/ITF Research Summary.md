@@ -10,7 +10,7 @@ nichole.nicholas@coforma.io
 Julie Pedtke 
 julie.pedtke@coforma.io
 
-[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md))
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md)
 
 **Jump to:**
 
@@ -36,6 +36,8 @@ Artifacts in this review include:
 - [526 Shadowing Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
 - [526 Medallia Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/2023-10%20Research%20Findings.md)
 - Technical discovery and ongoing work:
+    * [Slack thread on PACT ITF outage fix](https://dsva.slack.com/archives/CBU0KDSB1/p1691591736796649)
+    * [Post-mortem on PACT ITF outage](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692204843804/b5b36454b254d3f9c8b300bf8bc4541d8d75ad7f?sender=udbd39c1bbebb4ec4d7d08829)
     * [Initial discovery on expiration issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56987)
     * [Expired ITF preventing submission](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/60705)
     * [Technical Spike: Research ability to save 526 form data and create new ITF after expiration](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63533)
@@ -75,21 +77,24 @@ Open Questions
 
 # Findings & Recommendations
 
-## Veterans are unable to start their 526 (or supplemental) disability claim when the intent to file endpoint is unavailable.
+## VMany Veterans are unable to start their 526 (or supplemental) disability claim due to an ITF error.
 
 ### 526 Technical discovery
 
-- Veterans are met with an error message when the system checks the intent to file endpoint and the endpoint is unavailable. The error resolves once the backend system recovers; however, this is not communicated to Veterans, who are directed to call the Contact Center for assistance. 
+- In August 2023, there was a major ITF outage around the PACT Act deadline. Several teams collaborated to create a fix that extended our API timeout for ITF requests. See this [Slack thread on the ITF outage fix](https://dsva.slack.com/archives/CBU0KDSB1/p1691591736796649) for more details.
+  
+- There is an ongoing error that has continued to appear on the frontend when Veterans attempt to start a new claim or continue with a previous claim. Veterans are met with the following error message. We observed that sometimes the error resolves itself after some time has passed. Veterans are directed to call the Contact Center for assistance. 
+
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/Images/Image%202%20ITF.png)
 
 - Currently, this error prevents a Veteran from moving forward with their claim. There is a “back” button on this page, but no “continue” button.
 
-- We have designed an MVP solution for bypassing this error. This solution requires backend work to ensure we can manage claims submitted while the intent to file endpoint is down — [see discovery work ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65857). Engineering capacity is the only thing holding up implementation. 
+- We have designed an MVP solution for bypassing this error. This solution requires backend work to ensure we can manage claims submitted when our API isn’t able to connect with the backend ITF system  — [see discovery work ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65857). Engineering capacity is the only thing holding up implementation. 
 
 Open Questions
 
-> - The root cause of intent to file endpoint failure and the number of Veterans impacted is unknown, but based on the Medallia and shadowing research it appears to happen with some frequency.
+> - We don’t know what triggers this error message or the number of Veterans impacted. It may be related to the same timeout issue that happened last year, or it could be an unrelated issue with our frontend or API. Based on the Medallia and shadowing research it appears that the error is triggered with some frequency. 
    > - How many of these Veterans follow through with submitting their claim at a later time (once the endpoint is available), and are they able to do so before their intent to file expires?
    > - How long after seeing an intent to file error message do Veterans typically wait to come back to their application?
 
@@ -120,11 +125,12 @@ Recommendations
 
 Open Questions
 
-> - During Shadowing Research we noticed the intent to file error in two separate interviews on the same day, hours apart. How long is the intent to file endpoint usually down?
+> - During Shadowing Research we noticed the intent to file error in two separate interviews on the same day, hours apart. Because we don’t know what triggers the error, we’re not sure if these are independent or related.
+
 
 Recommendations
 
-> - Allow participants to continue to file even if the intent to file endpoint system is down. 
+> - Allow participants to continue to file even when we’re not able to connect with the intent to file endpoint. 
 > - Rethink how we introduce the concept of intent to file to clarify how it relates to past claims and conditions. 
 > - Reinforce understanding of intent to file by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
 
@@ -161,9 +167,8 @@ Open Questions
 - The intent to file expires exactly one year after creation—down to the second. This causes confusion when a change in the Veteran’s timezone might result in the expiration falling on a different date entirely. 
    - We partially address this pain point by adjusting the intent to file messaging to include the exact expiration time with timezone ([see discovery ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/63748)). 
    - We did some exploration around other possible solutions, such as rounding the expiration time to the nearest day to ensure every Veteran would have at least a year, regardless of time zone. This turned out to be more complex than expected, so was paused in lieu of other priorities. ([See alternative solutions ticket](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/62296)).
-- When someone who is not a Veteran, such as a family member, completes a claim (such as DIC), VA needs to verify that they are able to represent that Veteran before the ITF date is set. It’s unclear how long this takes, and when exactly the expiration date would be set. This is why the stand-alone form does not provide an exact date and time like the 526.
 - We learned from VBA that Veterans who call in or submit a paper intent to file receive a batch letter in the mail regarding their intent to file.  No other reminders are provided. The “batch letter” informs the Veteran that the VA received the intent to file, and includes the time requirements and forms required to complete the application. Batch letters are automated letters VBA creates and mails without human interaction.
-   - We’re unsure if batch letters include the exact time or just the date.
+    - We’re unsure if batch letters include the exact time or just the date.
 - The Benefit Management Tools team has in their [backlog](https://app.zenhub.com/workspaces/benefits-team-1-6138d7b57a2631001a4b7562/issues/gh/department-of-veterans-affairs/va.gov-team/49151) to add an intent to file "object" into the Claim Status Tool as a placeholder after the Veteran submits an intent to file but before they finish the claim, which doesn’t exist today. This could be another way for Veterans to track their intent to file expiration date.
 
 ### 526 Medallia Research
@@ -231,7 +236,7 @@ Recommendations
 
 # Conclusion
 
-The intent to file error message is a known blocker for Veterans and should be resolved to unblock Veterans from submitting their claims even when the intent to file endpoint is down. 
+The intent to file error message is a known blocker for Veterans and should be resolved to unblock Veterans from submitting their claims.  
 
 Beyond the error message, Veterans do not have a clear understanding of the potential benefits of intent to file and that it is an optional process that could help maximize their benefits. The purpose of intent to file should be explained more clearly (and consistently) across the forms and related web pages. 
 
