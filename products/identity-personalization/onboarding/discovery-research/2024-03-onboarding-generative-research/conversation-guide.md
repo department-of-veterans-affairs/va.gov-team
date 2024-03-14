@@ -43,7 +43,7 @@ Before we start, I have a few things that I want to go over with you:
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Confirm experience level  - 1 minute
+## Confirm level of experience with VA - 1 minute
 
 Great! As a first step, I’d like to briefly confirm the info I got in advance of the session.  It says here that you have [experience with VA]. Is that correct?
 
@@ -65,7 +65,7 @@ Talk to me about what you know about VA services and benefits.
 - Was any of it difficult or confusing? 
 - How did you clarify any confusion?
 - Were there any digital tools you used to help you get familiar with VA? 
-
+- Have you ever engaged with a VSO? If so, what support did they provide? Was it helpful?
 
 ## Understand engagement with VA  - 10 minutes
 
@@ -82,6 +82,7 @@ Talk to me about what you know about VA services and benefits.
 * What has prevented you from engaging with VA?
 * What’s been challenging so far about your engagement with VA?
 * How have you navigated that?
+* Have you ever engaged with a VSO? If so, what support did they provide? Was it helpful?
 
 ## Understand experience with VA.gov - 10 minutes
 
