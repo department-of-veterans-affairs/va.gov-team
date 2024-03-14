@@ -93,6 +93,8 @@ For this final part, I’d like for you to imagine you have recently filed for a
 
 - _Colorblind users_: Did you have any difficulty reading this alert, or seeing it in general?
 
+- How do you think this alert would disappear?
+
 If someone has filed a claim before/has a disability rating, ask if they ever were asked in the past to provide more evidence and inquire about that 
 _(if they have never filed a claim before, move on)_
 
