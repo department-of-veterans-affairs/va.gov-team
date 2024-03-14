@@ -65,7 +65,7 @@ Talk to me about what you know about VA services and benefits.
 - Was any of it difficult or confusing? 
 - How did you clarify any confusion?
 - Were there any digital tools you used to help you get familiar with VA? 
-- Have you ever engaged with a VSO? If so, what support did they provide? Was it helpful?
+- Have you ever engaged with a VSO or representative? If so, what support did they provide?
 
 ## Understand engagement with VA  - 10 minutes
 
@@ -82,7 +82,8 @@ Talk to me about what you know about VA services and benefits.
 * What has prevented you from engaging with VA?
 * What’s been challenging so far about your engagement with VA?
 * How have you navigated that?
-* Have you ever engaged with a VSO? If so, what support did they provide? Was it helpful?
+* Have you ever engaged with a VSO or representative? If so, what support did they provide?
+
 
 ## Understand experience with VA.gov - 10 minutes
 
