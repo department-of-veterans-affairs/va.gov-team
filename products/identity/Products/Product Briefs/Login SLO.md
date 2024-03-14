@@ -9,6 +9,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 ## Relevant Documents:
 * [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
 * [va.gov Status Page](https://vagov.statuspage.io/)
+* [SLO Brainstorm on Figma](https://www.figma.com/file/RFJBhEtGHVnWUOAGn1Gnl8/SLO-Brainstorm?type=whiteboard&node-id=0-1&t=3vuj1urgEUrWjBCo-0)
 
 ## What's In Scope: 
 For this first iteration, success will be:
