@@ -10,7 +10,7 @@ nichole.nicholas@coforma.io
 Julie Pedtke 
 julie.pedtke@coforma.io
 
-[Research readout](link here)
+[Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md))
 
 **Jump to:**
 
