@@ -9,7 +9,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: Support Travel for CERNER Sites**  
     - **Sub Goal: CIE Discovery**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
@@ -28,7 +28,7 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: Support Travel for CERNER Sites**  
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
     - **Sub Goal: CIE Discovery**
         - TBD
@@ -61,7 +61,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: Support Travel for CERNER Sites**  
     - **Sub Goal: CIE Discovery**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
@@ -80,7 +80,7 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal:  Support Travel for CERNER Sites**  
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)
         - ❗ 🟩 [[FE] Change content on ID verification page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78019)
         - ❗ 🟩 [[FE] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
@@ -120,7 +120,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for VistA Sites WITH Check Eligibility API Endpoint**
+    - **Sub Goal:  Support Travel for CERNER Sites**
 - **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
     - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase PCI Usage**
