@@ -99,12 +99,12 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 > - I have applied for VA benefits and services, but I don’t receive any yet.
 > - I receive or have received VA benefits and services.
 
-4. How would you rate your familiarity with VA.gov? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.gov.
+4. How often do you use with VA.gov? **Note:** We ask this question because we want to make sure to talk to people who have a variety of experience with VA.gov.
 > Response options: radio buttons
-> - I have never used VA.gov.
-> - I have used VA.gov a little bit.
-> - I have used VA.gov a lot.
-> - I am an expert on VA.gov.
+> - I’ve never used VA.gov.
+> - I’ve used ~[VA.gov](http://va.gov/)~ a little bit (once every few months).
+> - I’ve used ~[VA.gov](http://va.gov/)~ a lot (at least monthly).
+> - I am an expert on ~[VA.gov](http://va.gov/)~ (use weekly or daily).
 
 4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
