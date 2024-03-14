@@ -132,5 +132,5 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Design
 
-[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+[Profile military information Figma files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=ITOJ8kb0R5q1NIdj-1)
    
