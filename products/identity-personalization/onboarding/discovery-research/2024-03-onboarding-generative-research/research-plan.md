@@ -1,8 +1,8 @@
-# Research Plan for Authenticated Experience, VA Onboarding Generative Research, March 2024
+# Research Plan for Authenticated Experience, TSM Engage with VA Generative Research, March 2024
 ## Background
 The VA.gov authenticated experience thus far has been primarily focused on the user journey for existing Veterans or other VA beneficiaries - i.e. Veterans or beneficiaries who are already active in and relatively familiar with VA.gov by way of claim submission, applying for health care and engaging with other VA-sponsored benefits. 
 
-We want to conduct generative research to build a baseline understanding of the transition process from active duty military to Veteran status, so that we can evaluate the impact VA.gov may have on the process of onboarding to VA overall.
+We want to conduct generative research with to build a baseline understanding of the transition process from active duty military to Veteran status, so that we can evaluate the impact VA.gov may have on the process of onboarding to VA overall.  We’ll focus this research on transitioning service members (TSM) who are soon-to-be-separated, or recently separated from service.
 
 **Note:** This research uses the term “onboarding” to describe the broad process service members go through to learn about and begin to engage VA. Although these topics may come up, we aren’t focusing on: 
 - the formal separation process or training service members go through (TAP) or
@@ -106,7 +106,13 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 > - I’ve used ~[VA.gov](http://va.gov/)~ a lot (at least monthly).
 > - I am an expert on ~[VA.gov](http://va.gov/)~ (use weekly or daily).
 
-4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+5. If you have never logged into VA.gov before, would you be willing to create an identity-verified account during the session and provide your feedback on the website after signing in? Creating an account is a 5-10 minute process that requires a form of government identification. Your response will not disqualify you from the study.
+> Response options: radio buttons
+> - No, I don’t want to create a VA.gov account during my session.
+> - Yes, I’d be willing to create a VA.gov account during my session. 
+>   *Note for perigean:* Please add 15 minutes to the session for participants who answer yes.
+
+6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
 > Response options: yes or no
 > (Answering yes would qualify the participant to meet criteria for cognitive impairments)
