@@ -7,7 +7,8 @@ Determining, establishing and publishing the Service Level Objective (SLO) targe
 We do not currently have any current SLOs for VA.gov logins, and creating them will help us monitor and improve the Veteran login experience.
 
 ## Relevant Documents:
-[Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
+* [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
+* [va.gov Status Page](https://vagov.statuspage.io/)
 
 ## What's In Scope: 
 For this first iteration, success will be:
