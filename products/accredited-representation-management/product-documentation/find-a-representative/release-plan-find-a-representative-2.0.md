@@ -79,20 +79,20 @@ The following metrics will be considered before advancing rollout to the next st
 1. Errors in Sentry
 2. User reports of outdated information
 
-### Stage A Results
+### Stage A Results (3/11-3/13)
 
 1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
 3. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
 4. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage B
 
-### Stage B Results
+### Stage B Results (3/13-3/18)
 
 1. Errors in Sentry:
 2. Are console errors still happening on page click? 
 3. User reports of outdated information:
 4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
 
-### Stage C Results
+### Stage C Results (3/18- 3/20)
 
 1. Errors in Sentry:
 2. Are console errors still happening on page click? 
@@ -114,7 +114,7 @@ The following metrics will be considered before advancing rollout to the next st
 _Links to Google Analytics and DOMO dashboards_
 
 
-### 1-Week Results
+### 1-Week Results (3/18-3/28)
 
 - Bounce rate for `/find-rep`:
 - Unique page views:
@@ -127,7 +127,7 @@ _Links to Google Analytics and DOMO dashboards_
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 
-### 1-Month Results
+### 1-Month Results (3/18-4/18)
 
 - Bounce rate for `/find-rep`:
 - Unique page views:
