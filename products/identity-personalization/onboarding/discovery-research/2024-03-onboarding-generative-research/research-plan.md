@@ -127,7 +127,6 @@ We’d like to have a kickoff meeting with Perigean prior to starting recruiting
 
 | Date     | Time (Eastern)               |
 |----------|------------------------------|
-| March 15 | 10am-11:30am, and 2pm-3pm    |
 | March 18 | 9:30am-12pm and 2-4pm        |
 | March 19 | 10am-11am                    |
 | March 20 | 10am-12pm, or 12:30pm-3:30pm |
