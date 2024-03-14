@@ -23,7 +23,7 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 - Avoid duplicates (rethink when we clear the in-progress form)
   
 **Out of Scope**
-- 
+ 
 
 **Success** 
 - Lighthouse /submit endpoint migration complete
