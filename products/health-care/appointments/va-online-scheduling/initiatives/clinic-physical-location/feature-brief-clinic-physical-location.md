@@ -32,7 +32,7 @@ Before enabling your feature toggle in production, the following tasks need to b
 
 The physical location wil be rolled out in 3 phases.  The first phase will be for 25% of users for a period of two weeks.  If successful, then the percentage of users will be increased to 50% for one week and then enabled for all users.
 
-[ ] Approved by OCTO lead:  
+- [ ] Approved by OCTO lead:  
   >- Name:  
   >- Date:
 
@@ -40,9 +40,9 @@ The physical location wil be rolled out in 3 phases.  The first phase will be fo
 
 Once the feature flag is enabled, DataDog will be monitored for spikes in error rates.  Medallia feedback will also be monitored for comments related to the new feature.  In the event issues are reported through either of these monitoring methods, the feature toggle will be disabled.
 
-[ ] Responsible for monitoring DataDog: Jeff Roof, AJ Magdub  
-[ ] Responsible for monitoring Medallia: Peter Russo, Leah De La Costa
-[ ] Responsible for performing rollback: Jeff Roof
+- [ ] Responsible for monitoring DataDog: Jeff Roof, AJ Magdub  
+- [ ] Responsible for monitoring Medallia: Peter Russo, Leah De La Costa
+- [ ] Responsible for performing rollback: Jeff Roof
 
 ### Rollout Plan Summary
 
