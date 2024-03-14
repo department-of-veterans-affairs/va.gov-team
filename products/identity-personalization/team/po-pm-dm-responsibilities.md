@@ -31,6 +31,9 @@
   - This is a shared responsibility between PO & PM. The PM should serve as a critical set of eyes and ears for the team, and should be able to spot and bring up relevant dependencies, blockers, and issues that would affect our work.
 - Collaborating with other VA.gov teams and PMs 
 - Running and managing sprint ceremonies, or dividing this responsibility with delivery manager
+- Leading other team meetings as needed
+- Liasing with VA stakeholders outside OCTO, as needed
+  - This responsibility is in partnership with the OCTO PO, but the OCTO PO should not have to be a go-between for all interactions between the team and stakeholders outside of OCTO
 - Maintaining team documentation
 
 ## Delivery manager responsibilities
