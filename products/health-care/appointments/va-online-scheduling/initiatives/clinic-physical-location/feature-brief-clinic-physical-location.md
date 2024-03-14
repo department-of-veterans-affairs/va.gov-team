@@ -21,8 +21,8 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, the following tasks need to be completed:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Validate the new feature in Staging.
+- [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [X] Validate the new feature in Staging.
 - [ ] Communicate changes to those who are affected by the feature.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
@@ -40,9 +40,9 @@ The physical location wil be rolled out in 3 phases.  The first phase will be fo
 
 Once the feature flag is enabled, DataDog will be monitored for spikes in error rates.  Medallia feedback will also be monitored for comments related to the new feature.  In the event issues are reported through either of these monitoring methods, the feature toggle will be disabled.
 
-- [ ] Responsible for monitoring DataDog: Jeff Roof, AJ Magdub  
-- [ ] Responsible for monitoring Medallia: Peter Russo, Leah De La Costa
-- [ ] Responsible for performing rollback: Jeff Roof
+- [X] Responsible for monitoring DataDog: Jeff Roof, AJ Magdub  
+- [X] Responsible for monitoring Medallia: Peter Russo, Leah De La Costa
+- [X] Responsible for performing rollback: Jeff Roof
 
 ### Rollout Plan Summary
 
