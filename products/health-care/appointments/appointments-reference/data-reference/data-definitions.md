@@ -117,6 +117,10 @@ How this field shows for VA appointments across scheduling touchpoints
 </tr>
 <tr>
   <td>
+  <p>Notes: To display type of care VSP is using MFS to get clinical-services which includes stop codes. As of now that list of stop codes does not include all of the codes being used for some of the VistA appointments. These need to be manually mapped to care types to display.</p>
+
+  VAOS displays type of care for VA appointments as follows: 
+
     <ul>
       <li>Type of Care for VA appointments must be set to the <code>serviceType</code> <strong>except</strong> when:
         <ul>
