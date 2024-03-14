@@ -120,7 +120,7 @@ The type of assessment or treatment the Veteran will receive.
       <li>Type of Care for VA appointments must be set to the <code>serviceType</code> <strong>except</strong> when:
         <ul>
         <li><code>serviceType</code> is <code>NULL</code>, Front End will set type of care to <code>VA appointment</code>.</li>
-        <li>OR<code>serviceCategory<code> is other than <code>regular</code>, Front End will set type of care to <code>VA appointment</code>.</li>
+        <li>OR<code>serviceCategory</code> is other than <code>regular</code>, Front End will set type of care to <code>VA appointment</code>.</li>
         </ul>
       </li>
       <li>Backend sets the <code>serviceType</code> when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).</li>
