@@ -38,7 +38,7 @@ CH33 EDU benefits likely need to pass information through Lighthouse.
 
 ### Authenticated experience (VA.gov profile)
 
-Leads: Samara Strauss, Travis Cahill
+Leads: Chante Lantos-Swett, Travis Cahill, (Samara Strauss supporting) 
 
 The VA.gov profile team is responsible for the following:
 
