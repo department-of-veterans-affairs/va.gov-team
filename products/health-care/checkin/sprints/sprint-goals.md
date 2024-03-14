@@ -154,8 +154,8 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
         - ❗ 🟩 [[FE] - Set up travel-claim app in pagerDuty ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77393)
         - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
-        - ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide
-        - ❗ 🟥 Gather feedback from CAIA on content
+        - ✔️ ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide
+        - ✔️ ❗ 🟥 Gather feedback from CAIA on content
 - **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
    - **Sub Goal: Change wording on completion page based on if Veteran has arrived at the facility**
         - ❗ 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
@@ -171,7 +171,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
 - **GOAL: Discovery**
-    - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
+    - ✔️ 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
     - 🟥 [[UX] [Design] Create Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
     - 🟦 [[BE] Handle Faraday::TimeoutError Exception TravelClaimSubmissionWorker ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77678)
