@@ -11,7 +11,7 @@
 
 ### OCTO Priorities 
 
-This research supports the 2024 OCTO [OCTO priority](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) of making our digital experiences the best way to access VA health care and benefits. We want to enable Veterans to get the level of health care that they are entitled through VA through simple and clear online methods such as answering toxic exposure questions on the 10-10EZ form.
+This research supports the 2024 OCTO priority of making our digital experiences the best way to access VA health care and benefits. We want to enable Veterans to get the level of health care that they are entitled through VA through simple and clear online methods such as answering toxic exposure questions on the 10-10EZ form.
  
 
 ### Veteran Journey
