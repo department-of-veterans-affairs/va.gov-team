@@ -1,6 +1,6 @@
 # **Research Plan for MHV on VA.gov, Medical Records, March 2024**
 
-**Background**
+## **Background**
 
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We initially built and tested a prototype of the Medical Records in MHV on VA.gov. We conducted a usability study and collected feedback that informed reiterations on the website. In this round of usability testing within a live environment, we will assess (1) whether the updates improve user experiences, and (2) test additional and new functionality, (3) include Veterans who require accessibility provisions and explore further pain points.
 
@@ -23,7 +23,7 @@ This research fits into these points of a Veteran's Journey:
 - Retiring
 - Aging
 
-**Research Goals**
+## **Research Goals**
 
 1. Understand how Veterans perceive their medical records landing page. Understand what Veterans expect to be able to do within the Medical Records portal.
 2. Identify any usability issues Veterans may experience in accessing their vaccines information in the Medical Records portal.
@@ -43,7 +43,19 @@ This research fits into these points of a Veteran's Journey:
 9. Identify any barriers that may prevent Veterans who use Assistive Technologies from completing their Medical Record management goals.
 10. Identify any barriers that may prevent Veterans who have mild to severe Cognitive Disabilities from completing their Medical Records management goals.
 
-**Hypothesis**
+## **Research Questions**
+
+1. Can Veterans find the information they need to manage their health related to:
+ - Care summaries and notes
+ - Allergies
+ - Vaccines
+ - Vitals
+
+2. Can Veterans print/download an list and an individual record?
+
+3. What is Veterans' perception of the new experience in which they can view their records on screen?
+
+## **Hypothesis**
 
 _Hypothesis 1:_ Most Veterans will be able to access and understand the information about their ‘Vaccinations’ records to manage their health.
 
@@ -57,7 +69,7 @@ _Hypothesis 5:_ Most Veterans will find the information presented in their Medic
 
 _Hypothesis 6:_ Most Veterans using Screen-reader will be able to easily access the downloaded PDF file of their medical record information.
 
-**Methodology**
+## **Methodology**
 
 We will conduct moderated usability testing sessions in which we will ask users to navigate the staging website while we observe their behavior, and ask follow-up prompts as needed.
 
@@ -71,7 +83,7 @@ Link to conversation guide
 
 Link to staging website
 
-**Recruitment**
+## **Recruitment**
 
 **Recruitment approach**
 
@@ -79,7 +91,7 @@ We will partner with Perigean to recruit Veterans.
 
 We will schedule 25 Veterans for an expected completion rate of 20 usability tests.
 
-# **Recruitment criteria – AT USERS (Screen Readers, Text Magnifier, & Voice Command)**
+## **Recruitment criteria – AT USERS (Screen Readers, Text Magnifier, & Voice Command)**
 
 **For AT, we will schedule 15 Veterans for an expected completion rate of 8 usability sessions.**
 
@@ -152,7 +164,7 @@ We will schedule 25 Veterans for an expected completion rate of 20 usability tes
 
 **Note: For AT Users, we will send login information and a PDF document (linked here) for them to access prior to the scheduled session.**
 
-# **Recruitment criteria – Sighted Users**
+## **Recruitment criteria – Sighted Users**
 
 **For sighted users, we will schedule 10 Veterans for an expected completion rate of 8 usability sessions.**
 
@@ -230,18 +242,19 @@ Note: For recruitment purposes, users can use either a Desktop or Laptop interch
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Monday | March 18, 2024 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
-| Tuesday | March 19, 2024 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
-| Thursday | March 21, 2024 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
-| Friday | March 22, 2024 | 9:00am – 4:00pm |
-|     |     |     |
+| Monday | March 25, 2024 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
+| Tuesday | March 26, 2024 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
+| Wednesday | March 27, 2024 | 9:00am - 1:00pm, 2:00pm to 7:00pm |
+| Thursday | March 28, 2024 | 9:00am – 1:00pm, 2:00pm to 7:00pm |
+| Friday | March 29, 2024 | 9:00am – 4:00pm |
+
 
 ### Additional Availability for Sighted Users, if needed
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Monday | March 25, 2024 | 9:00am – 1:00pm |
-| Tuesday | March 26, 2024 | 9:00am – 1:00pm |
+| Monday | April 1, 2024 | 9:00am – 1:00pm, 2:00pm - 7:00 pm |
+| Friday | April 12, 2024 | 9:00am – 1:00pm, 2:00pm - 7:00pm |
 
 Note: Please do not schedule more than 4 sessions per day.
 
@@ -265,6 +278,7 @@ Note: Please do not schedule more than 4 sessions per day.
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
 | Tuesday | April 2, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
+| Wednesday | April 3, 2024 | 10:00am - 1:00pm, 3:00pm to 5:00pm |
 | Thursday | April 4, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Friday | April 5, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Monday | April 8, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
@@ -274,8 +288,9 @@ Note: Please do not schedule more than 4 sessions per day.
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
+| Wednesday | April 10, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Thursday | April 11, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
-| Friday | April 12, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
+
 
 Note: Please do not schedule more than 4 sessions per day.
 
