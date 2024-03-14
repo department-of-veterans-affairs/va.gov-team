@@ -135,12 +135,13 @@ We’d like to have a kickoff meeting with Perigean prior to starting recruiting
 ### Pilot session
 We’d like Perigean to recruit **two pilot participants** that meet the criteria outlined above. We’re asking for 2 pilots in case one cancels or is unable to join. If they both do, the second pilot participant will count toward our completed sessions.
 
-We will be available for a pilot session on the following days/times in ET:
-- March 21 between 10am-5pm
-- March 22 between 9am-4pm
-- March 25 between 10am-5pm
-
-**Please only schedule one pilot participant per day**, so we have time to make any adjustments needed prior to the next session.
+We will be available for a pilot session on the following days/times in ET. **Please only schedule one pilot participant per day**, so we have time to make any adjustments needed prior to the next session.
+| Date     | Time (Eastern)               |
+|----------|------------------------------|
+| March 21 | 10am-5pm                     |
+| March 22 | 9am-4pm                      |
+| March 25 | 10am-5pm                     |
+| March 20 | 10am-12pm, or 12:30pm-3:30pm |
 
 ### Research sessions
 * Planned dates of research: March 26-29
