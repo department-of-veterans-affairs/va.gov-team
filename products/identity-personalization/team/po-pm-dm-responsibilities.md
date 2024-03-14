@@ -1,6 +1,6 @@
 # Authenticated experience: Product owner, product manager, and delivery manager responsibilities
 
-**Last updated: March 21, 2023**
+**Last updated: March 14, 2024**
 
 ## Product owner responsibilities
 
