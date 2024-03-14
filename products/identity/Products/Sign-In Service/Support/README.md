@@ -1,5 +1,5 @@
 🕐 **Office hours**: We hold weekly office hours every Thursday. This is a great opportunity to connect with our frontend, backend, product, and authentication logging and monitoring experts. Join us to discuss any questions or topics related to VA.gov User Authentication.
-- [Frontend Engineers 1400 ET](https://www.google.com/url?q=https://oddball-io.zoom.us/j/86550836023&sa=D&source=calendar&ust=1708809724962670&usg=AOvVaw3fEdi80bLgp9KzYZGa2Oyf)
+- [Frontend Engineers 1400 ET](https://www.google.com/url?q=https://us06web.zoom.us/j/81585100320?pwd%3DkhCF3wMY7gdfiIR0hbASFSoUa0XDIY.1&sa=D&source=calendar&ust=1710883622994013&usg=AOvVaw15XhQvOTI-3AUjgN1YYPKE)
 - [Backend Engineers 1415 ET](https://www.google.com/url?q=https://oddball-io.zoom.us/j/81612501910&sa=D&source=calendar&ust=1708874823989747&usg=AOvVaw0FVU8Z6vKFc4SSjR2hZxAN)
 - [Product Managers 1430 ET](https://www.google.com/url?q=https://oddball-io.zoom.us/j/84553054243?pwd%3DhbUuP0uddRgpqfOEDIUtgApnyS8k0f.1&sa=D&source=calendar&ust=1710871860938288&usg=AOvVaw1EQxjl7REiYI2A07kw28Go)
 - [Metric Questions 1445 ET](https://www.google.com/url?q=https://oddball-io.zoom.us/j/81896404067&sa=D&source=calendar&ust=1708809842860118&usg=AOvVaw26mcXxBGXNmT2itGdCeb30)
