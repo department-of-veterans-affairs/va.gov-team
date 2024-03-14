@@ -26,54 +26,53 @@ This research fits into the [Veteran journey](https://github.com/department-of-v
 
 ## Research Goals	
 
-- **Goal 1: Discover areas where the content may not be clear or need additional explanation.**
+- **Goal 1: Discover areas where the content may not be clear or need additional explanation**
 
-- **Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer.**
+- **Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer**
 
 - **Goal 3: Discover unknown usability or accessibility issues**
 
 
 ### Outcome
-- This research will help evaluate the content clarity and Veteran impressions around the newly added questions in the military service section for toxic exposure. Thus guiding what might need further clarification or edits and providing data on what is working well.
+- This research will help evaluate the content clarity and Veteran impressions around the newly added questions in the military service section for toxic exposure. This will guide us in determining what might need further clarification or edits, as well as provide data on what is working well.
 
 ### Research questions
-**Goal 1: Discover areas where the content may not be clear or need additional explanation.**
+**Goal 1: Discover areas where the content may not be clear or need additional explanation**
 - Are there any questions where the Veteran says additional info would be helpful?
 - Do Veterans mention the dates missing or that they would be helpful?
-- Is it preferred to have this question as optional, can skip or to be given an explicit I don't know option?
+- Is it preferred that questions are optional, can be skipped, or to be given an explicit "I don't know" option?
 - Is something more than content needed to help Veterans answer these service questions? (A link or a map for example)
 
 
-**Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer.**
+**Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veteran's behalf to answer**
 - Do Veterans feel they should be providing this information or is this information they feel the VA should already have?
 - What types of information do Veterans expect the VA to have access to?
 - Do Veterans want the option to upload digital documents or proof of their exposures?
+- How difficult or easy will it be for Veterans to recall or look up specific service dates and/or find suporting documentation to upload?
 
   
 **Goal 3: Discover unknown usability or accessibility issues**
-- Are there any accessibility issues with the question - bulleted list format? Specifically the really long list on the Gulf War locations page.
-- Do on-field error messages often occur - and if so are Veterans struggling with the messaging with getting the error resolved?
+- Are there any accessibility issues with the bulleted list format of some questions? We're curious specifically for the extensive list on the Gulf War locations page.
+- Do on-field error messages often occur? If so, are Veterans struggling with the messaging to get errors resolved?
 
 
 ### Hypothesis
 - We assume... some might have issues recalling the places/dates they served with how the questions are worded. 
 - We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history informtion.
-- We assume... some Veterans might want additional explanation, visuals such as maps or links to help them with quicker recall of these service location questions.
+- We assume... some Veterans might want additional explanatory visuals such as maps or links to help them with quicker recall of these service location questions.
 
 ## Methodology	
-We will be conducting 1 hour remote usability testing where we will ask the participants to complete the 10-10EZ form given the option of doing so authenticated with their own login or unauthenticated. 
+We will be conducting 1 hour remote usability testing where we will ask the participants to complete the live 10-10EZ form given the option of doing so authenticated with their own login or unauthenticated. 
 
 
 ### Location
 Remote, moderated via Zoom.
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-For moderated usability tests: 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/conversation-guide.md)
-- [Will be testing in staging and/or production]()
-- [Figma source of truth desigsn](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-7191&mode=design&t=LvwA2lRcEckp8H13-0)
+- We will be testing in prduction.
+- [Figma source of truth designs](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-7191&mode=design&t=LvwA2lRcEckp8H13-0)
 
 
 ## Recruitment	
@@ -90,7 +89,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 - Are you currently enrolled in VA health care? [answer should be no to qualify for all participants]
 
-- Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? [answer needs to be yes for 1 completed session, recruit 2?]
+- Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? [answer needs to be yes for 1 completed session, recruit 2]
 
 - We’d like you to review parts of the VA website that require you to sign in to an identity-verified account. Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified.
 - Response options: yes or no [Answering yes would qualify half the participants/other half can answer no]
@@ -104,8 +103,13 @@ What demographics, experience, and scenarios do you need participants to meet to
 ## Timeline
 
 ### Prepare
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD
+* Date and time of pilot session: TBD
+
+### Kick-off call
+* We would like to schedule a 15-minute kick-off call with Perigean prior to the start of recruiting. 
+* Available dates/times for kick-off call:
+	* TBD
 
 ### Research sessions
 * Planned dates of research: March 27 - April 3, 2024
@@ -129,11 +133,11 @@ What demographics, experience, and scenarios do you need participants to meet to
 	
 ## Team Roles	
 - Moderator: Jessica Stump (jessica.stump@adhocteam.us) and Angela Agosto (angela.agosto@adhocteam.us)
-- Research guide writing and task development (usually but not always same as moderator): Moderators	
-- Participant recruiting & screening:Perigean
+- Research guide writing and task development (usually but not always same as moderator): Jessica Stump and Angela Agosto
+- Participant recruiting & screening: Perigean
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us) and Angela Agosto (angela.agosto@adhocteam.us)	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
+- Participant(s) for pilot test: TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
 - Note-takers:	Perigean, and 10-10 UX Team
 - Observers:
 	- Sign up sheet will be posted via Slack
