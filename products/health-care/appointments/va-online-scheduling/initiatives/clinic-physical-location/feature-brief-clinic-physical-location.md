@@ -11,113 +11,55 @@ When veterans currently view an appointment online they can only see the clinic 
 | ----------- | ----------- |
 | [va_online_scheduling_physical_location](https://api.va.gov/flipper/features/va_online_scheduling_physical_location) | Toggle to display the physical location of an appointment. |
 
-[Display the Clinic Location information to the user on the appointment details page #69444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69444)
+| Github Tasks |
+| ----------- |
+| [Display the Clinic Location information to the user on the appointment details page #69444](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69444) |
 
 ## Step 2: Validation
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
+Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. However, the code will not enabled until the feature toggle is turned on.
 
-Before enabling your feature toggle in production, you'll need to:
+Before enabling your feature toggle in production, the following tasks need to be completed:
 
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Validate the new feature in Staging.
+- [ ] Communicate changes to those who are affected by the feature.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
 
-### Do I need a staged rollout?
+The physical location wil be rolled out in 3 phases.  The first phase will be for 25% of users for a period of two weeks.  If successful, then the percentage of users will be increased to 50% for one week and then enabled for all users.
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
+[ ] Approved by OCTO lead:  
+  >- Name:  
+  >- Date:
 
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
+Once the feature flag is enabled, DataDog will be monitored for spikes in error rates.  Medallia feedback will also be monitored for comments related to the new feature.  In the event issues are reported through either of these monitoring methods, the feature toggle will be disabled.
 
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
+[ ] Responsible for monitoring DataDog: Jeff Roof, AJ Magdub  
+[ ] Responsible for monitoring Medallia: Peter Russo, Leah De La Costa
+[ ] Responsible for performing rollback: Jeff Roof
 
-[FILL_IN]: create your rollback plan
+### Rollout Plan Summary
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+- Desired date range or test duration: *3 weeks total*
+- How you'll recruit the right production test users: *Solicit staff veterans to validate feature during Phase I rollout.*
+- How you'll conduct the testing: *Asyncronously, providing instructions and asking veterans to check their appointments and report any issues they see.*
+- How you'll give the test users access to the product in production: *Enable the feature flag for these named users.*
 
-#### Planning
+### Stage I: 25% of users
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
-
-#### Results
-
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
-
-### Phase II: Staged Rollout (also known as unmoderated production testing)
-
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-#### Rollout Planning
-
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
-
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
-
-### Stage A: Canary
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
+*Test a nominal user population to ensure moderate usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: *2 weeks*
+- Percentage of Users: 25%
+- Approximate Number of Users: 35,000-40,000
 
 #### Results
 
@@ -127,14 +69,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
+### Stage II: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: *1 week*
+- Percentage of Users: 50%
 
 #### Results
 
@@ -144,46 +86,12 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
+### Stage III: 100% of users
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: *1 week*
+- Percentage of Users: 100%
 
 #### Results
 
