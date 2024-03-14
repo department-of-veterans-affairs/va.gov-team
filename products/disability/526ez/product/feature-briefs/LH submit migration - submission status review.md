@@ -19,7 +19,7 @@ Under this initiative, all Veterans filing a 516 claim via va.gov will be able t
  - Receive a confirmation email with details on their claim and how to track its progress (Claim Status Tool)
  - Either upload evidence without silent failures or be notified on-screen and/or by email if they attempted to upload evidence unsuccessfully
 
-See epic [Improve submission user experience #78179]([url](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179)), which captures the above items.
+See epic [Improve submission user experience #78179](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179), which captures the above items.
 
 This initiative also includes completion of migration of /submit endpoint to Lighthouse
 
