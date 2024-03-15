@@ -77,7 +77,7 @@ Open Questions
 
 # Findings & Recommendations
 
-## VMany Veterans are unable to start their 526 (or supplemental) disability claim due to an ITF error.
+## Many Veterans are unable to start their 526 (or supplemental) disability claim due to an ITF error.
 
 ### 526 Technical discovery
 
