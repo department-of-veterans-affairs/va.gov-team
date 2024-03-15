@@ -129,7 +129,7 @@ Please make sure that ALL participants are willing to complete their interview *
     1. Yes _(recruit 12)_
     2. No 
 3. Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
-    1. Yes _(Recruit 10 – proceed to question 6)_
+    1. Yes _(Recruit 10 – proceed to question 4)_
     2. No 
 4. Based on your response to the previous question, how would you rate the severity of your cognitive disability? (Recruit all answers)
     1. Mild - (Symptoms have a limited effect on daily life)
