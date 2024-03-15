@@ -110,9 +110,9 @@ There are different reasons why most Veterans think you need to sign in to use A
 
 Also, Veterans who are familiar with VA.gov feel that the VA encourages them to sign in. And they expect their information to be pre-filled, saving them time and energy.
 
-Some Veterans also assume that they'll only be able to ask general questions – and the VA will ask for less personal information – if they don't sign in.
+A few Veterans made an assumption based on their experiences using other tools or calling VA, that they'll only be able to ask general questions if they don't sign in. They also expect VA to ask for less personal information, in this case.
 
-But Veterans don't have all the information to help them make informed decisions about why to sign in and when it's actually required. For example, if your question is about education benefits or work study.
+Ultimately, Veterans don't have all the information to help them make informed decisions about why to sign in and when it's actually required. For example, if your question is about education benefits or work study.
 
 > "The way I was told and taught by VA is that unless you sign into your account, it's just general. And they don't tell you specifically what's your problem. So usually, I want to sign in directly." P10
 
