@@ -459,7 +459,7 @@ Spanning both surveys
 * **RESOLVED**: Account verification issues decreased significantly since the LOA1 alert is available on 1/23/24
 
 *2/13/24-3/5/24*
-- "check any new messages in my inbox.  Your site showed a red dot beside inbox which would normally indicate a pending unread email but it didnt when I checked.  Need to program that red dot to show if I need to go to secure messaging to read a unread email. otherwise the red dot is useless."
+Feedback from 3/4/2024- "check any new messages in my inbox.  Your site showed a red dot beside inbox which would normally indicate a pending unread email but it didnt when I checked.  Need to program that red dot to show if I need to go to secure messaging to read a unread email. otherwise the red dot is useless."
   
 ## Possible future enhancements? 
 * 1 user was looking for a way to upload a form
