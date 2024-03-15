@@ -64,9 +64,6 @@ Additional generative research will help inform future solutions and enhancement
 - Existing processes are sufficient to bring Veterans needing to verify enrollment to the VYE tool (e.g., email prompts, Google search, onsite search, etc.).
 - Veterans might prefer IVR or text-based verification processes for managing enrollment. 
 
-**There are things we don't know about our Veterans.**
-- We do not have documented research on our users and are anticipating learnings to come from open-ended conversation.  
-
 ## Methodology	
 We will use two unmoderated tools to accomplish our research goals:
 - Chalkmark (unmoderated)
