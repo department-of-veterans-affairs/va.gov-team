@@ -2,14 +2,14 @@
 # Initiative 6: Aging Content Auto-Archive Certain Banners & Blocks
 
 ## Elevator Statement
-Configure Auto-archiving of Full-width Banners, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block based on the notification time frames assigned to a content-type
+Configure Auto-archiving of Full-width Banners aka Full width alerts, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block based on the expiration dates assigned to the particular content-type.
 
 ## Overview
 Content in general, and for the purpose of this Initiative, content types of Full-width Banners, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. 
 
 A new notification [framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md) has been created for the content types mentioned above, wherein specific notification timeframes may be assigned to specific content types.
 
-To provide timely information to Veterans and other users of VA.gov, and ensure stale content archived if no action is taken by the editor/author, we need to configure these content types to auto-archive at the end of the last day of a particular content's assigned timeframe.
+To provide timely information to Veterans and other users of VA.gov, and ensure stale content isn't displayed to Veterans, their caregivers, family or survivors, we want content in a 'published' state that has an expiration date assigned to be auto-archived EOD on the content's expiration date.
 
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Although editors are encouraged to appropriately use Full-width Banners, the Home Page Benefit Promo Block, and the Home Page News Spotlight Block, they don't always update or archive the content as needed, which results in stale content for Veterans, their caregivers and other users of VA.gov. This erodes confidence in the information and value we provide Veterans and others.
@@ -43,12 +43,6 @@ Editors who wish to extend their content forget to update it, and the content is
 
 ### Key Performance Indicators (KPIs)
 * KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
-* 
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
 Baseline Values consist of a list of current Full-width banners, as well as the Home Page Benefit Promo block and Home Page News Spotlight block.
