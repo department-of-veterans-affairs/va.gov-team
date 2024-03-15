@@ -23,18 +23,18 @@ Before enabling your feature toggle in production, the following tasks need to b
 
 - [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [X] Validate the new feature in Staging.
-- [ ] Communicate changes to those who are affected by the feature.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [X] Communicate changes to those who are affected by the feature.
+- [X] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [X] review the plan with your DEPO/OCTO representative.
+  - [X] review the release plan with your team.
 
 ## Step 3: Production rollout
 
 The physical location wil be rolled out in 3 phases.  The first phase will be for 25% of users for a period of two weeks.  If successful, then the percentage of users will be increased to 50% for one week and then enabled for all users.
 
-- [ ] Approved by OCTO lead:  
-  >- Name:  
-  >- Date:
+- [X] Approved by OCTO lead:  
+  >- Name:  Kay Lawyer
+  >- Date:  03/15/2024
 
 ### Define the Rollback process
 
