@@ -57,7 +57,7 @@ Once the feature flag is enabled, DataDog will be monitored for spikes in error 
 
 #### Planning
 
-- Length of time: *2 weeks*
+- Length of time: *3 days*
 - Percentage of Users: 25%
 - Approximate Number of Users: 35,000-40,000
 
@@ -75,7 +75,7 @@ Once the feature flag is enabled, DataDog will be monitored for spikes in error 
 
 #### Planning
 
-- Length of time: *1 week*
+- Length of time: *4 days*
 - Percentage of Users: 50%
 
 #### Results
