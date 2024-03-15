@@ -1,0 +1,26 @@
+In order to ensure that our deployments in identity-dashboard and sign-in-service don't impact other ArgoCD apps, we went through and assessed the current catalog of apps in apps-of-apps as well as looked at previous times when argoCD deployment caused issues cross app.
+
+Firstly, it's a good practice to read Argo's documentation on app deployment and write out some general guidelines that can be gleaned from their own site:
+
+ArgoCD apps typically don't interfere with each other due to their inherent design principles and the way they manage Kubernetes resources. ArgoCD encourages the use of declarative configuration stored in Git repositories, which ensures that each application's desired state is clearly defined and isolated. Apps are synchronized independently, allowing them to coexist without conflicts. Moreover, ArgoCD employs a reconciliation mechanism that constantly monitors and updates resources to match their desired state, preventing accidental interference between applications. ChatGPTFurthermore, ArgoCD employs a robust built-in system that continuously monitors and manages resources, ensuring that applications remain isolated and free from unintended interactions.
+
+Lastly, we wanted to address an issue within our own project where we had an app interfere with our login.gov functionalities.
+
+We had an issue within the preview-environments app that would cause multiple bugs within login.gov. After carefully reading through our discussions on slack, here is the nature of the issue. Most of the info is taken from discussions with other team mates and reading this thread: https://dsva.slack.com/archives/C04CYC4LMU6/p1684785241277489?thread_ts=1684785138.029189&cid=C04CYC4LMU6
+
+One of the issues we had with the deployment was sharing of namespace. Kubernetes doesn't allow for multiple deployments to share namespaces. This error is returned in that situation:
+
+A Kubernetes ServiceAccount can be used by multiple deployments within the same namespace. The way this was remedied was by changing some of the values so that they were unique to each deployment.
+
+Here is a change that had broken the dev login.gov environment: https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests/blob/main/apps/vets-api/prod/values.yaml#L27-L30
+
+Here is how it is in PE values now.
+
+serviceAccount:
+create: true
+annotations: {}
+name: ''
+
+So eventually we had to give the environments unique namespaces, because multiple deployments can use the same service account.
+
+Here's an example of a change that alters the metadata of the configmap resource to be unique to the PE deployment: department-of-veterans-affairs/vsp-infra-application-manifests@6af72cd

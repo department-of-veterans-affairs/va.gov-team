@@ -1,0 +1,8 @@
+From ID.me:
+
+- We shipped a new feature on Tuesday 10/22 to allow users to initiate and complete changes to their previously enrolled 2-factor authentication method in a self-serve basis without having to contact Member Support/Help Desk. This feature has already been used extensively in the few days that it has been available. 
+- If a user has already gone through ID.me Identity Proofing at LOA3 or if the user is a DS-Logon "Level 2" user, then ID.me has PII attributes pertaining to these users. So when these user types initiate a self-serve 2FA change, we collect their PII which is then cross-referenced against their records in our verified database before allowing them to proceed with their self-serve 2FA change. 
+- For  ID.me LOA1 users as well all MHV users (Basic, Advance or Premium), there is no PII attribute that is received. So when these users initiate self-serve 2FA changes, they are asked to supply their PII which is then checked against authoritative credit and fraud sources before proceeding. This is exactly what they used to do manually by interacting with member support and that is now been made self-serve. For these specific users, we discussed an enhancement, which I will prioritize for the Nov-Dec timeframe which will require these users to first verify their email before proceeding with the self-serve 2FA change requests. 
+- Speaking of email verification, two improvements that are on the near-term docket are 
+    - (1) On the VA's side, making changes to invoke all ID.me screens (white-labelled and branded) via a full page redirect vs the current pop-up. 
+    - (2) ID.me to explore technical ways to force focus on previously open tabs to help ensure user is taken to the screen on which they'll need to initiate next step. 

@@ -1,0 +1,1675 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MHV User Signup API",
+    "description": "The primary use case for the My VA Health (MVH) Signup Service will be to act as a pass-through component that enables existing veteran-facing systems (e.g., VA.gov, MyHealtheVet, VAMobile applications) to easily link and redirect veterans receiving care at Cerner-based VAMC sites to the MVH system.",
+    "version": "@swagger.contract.version@"
+  },
+  "externalDocs": {
+    "description": "Find out more about MVH User Signup API here.",
+    "url": "https://veteran.apps.va.gov/signup/"
+  },
+  "servers": [
+    {
+      "description": "SQA - Cerner Namespace",
+      "url": "https://cerner.apps-staging.va.gov/signup/v1"
+    },
+    {
+      "description": "PROD - Veteran. Endpoints exposed to Veteran facing applications.",
+      "url": "https://veteran.apps.va.gov/signup/v1"
+    },
+    {
+      "description": "PROD - Staff. Endpoints exposed only within the VA network.",
+      "url": "https://staff.apps.va.gov/signup/v1"
+    }
+  ],
+  "security": [
+    {
+      "requireVamfJwtKey": []
+    },
+    {
+      "requireVamfApiKey": []
+    }
+  ],
+  "tags": [
+    {
+      "name": "status",
+      "description": "Provides systems both the agreement status and current Millennium Patient aliases for a given ICN. This will enable other veteran-facing systems, such as VA.gov, to quickly determine if a given user has previously completed the MVH signup process."
+    },
+    {
+      "name": "agreement",
+      "description": "Provides clients the ability to retrieve the existing agreements completed by this user as well as the ability to complete the existing ToS review (if required)"
+    },
+    {
+      "name": "diagnostics",
+      "description": "Provides information and insights to the patients existing aliases and eligibility to use MVH. Useful for diagnostic and troubleshooting purposes."
+    },
+    {
+      "name": "consent",
+      "description": "Provides unauthenticated access to non-sensitive veteran agreement data."
+    },
+    {
+      "name": "termsAndConditions",
+      "description": "Related to Terms and Conditions content stored in the system."
+    },
+    {
+      "name": "provisioning",
+      "description": "Provides clients the ability to request that users be provisioned and also to retrieve a user's provisioning status."
+    }
+  ],
+  "paths": {
+    "/status": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "status"
+        ],
+        "summary": "Get the agreement and provisioning status for the current veteran",
+        "description": "Get the current veteran's agreement and MHV provisioning status.",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SignupStatus"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "reviewRequired": false,
+                  "icn": "10101V964144",
+                  "edipi": "1234567890",
+                  "fullName": "John Public",
+                  "latestAgreement": {
+                    "responseDate": "2019-11-30T15:53:12.293Z",
+                    "signatureName": "Example veteran",
+                    "version": "1.0",
+                    "accepted": true
+                  },
+                  "eligibility": {
+                    "eligible": true,
+                    "ehrm": true,
+                    "css": false,
+                    "sites": [
+                      {
+                        "siteId": "668",
+                        "ehr": "Cerner"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving status.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/status/eligibility": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "status"
+        ],
+        "operationId": "getEligibility",
+        "summary": "Get the eligibility for the current veteran",
+        "description": "Get the current veteran's eligibility",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Eligibility"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "eligibility": {
+                    "eligible": true,
+                    "ehrm": true,
+                    "css": false,
+                    "sites": [
+                      {
+                        "siteId": "668",
+                        "siteName": "SPOKANE VAMC",
+                        "ehr": "Cerner"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving eligibility.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/status": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "status"
+        ],
+        "summary": "Get the agreement and provisioning status for a specific veteran",
+        "description": "Get a veteran's current agreement and MHV provisioning status by ICN. Allows external systems to query for patients by ICN/ID.",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SignupStatus"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "application/json": {
+                    "reviewRequired": false,
+                    "icn": "10101V964144",
+                    "edipi": "1234567890",
+                    "fullName": "John Public",
+                    "latestAgreement": {
+                      "responseDate": "2019-11-30T15:53:12.293Z",
+                      "signatureName": "Example User",
+                      "version": "1.0",
+                      "accepted": true
+                    },
+                    "eligibility": {
+                      "eligible": true,
+                      "ehrm": true,
+                      "css": false,
+                      "sites": [
+                        {
+                          "siteId": "668",
+                          "siteName": "SPOKANE VAMC",
+                          "ehr": "Cerner"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving status.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/status/eligibility": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "status"
+        ],
+        "operationId": "getEligibilityByIcn",
+        "summary": "Get the eligibility for a specific veteran",
+        "description": "Get a veteran's eligibility. Allows external systems to query for patients by ICN/ID.",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Eligibility"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "eligibility": {
+                    "eligible": true,
+                    "ehrm": true,
+                    "css": false,
+                    "sites": [
+                      {
+                        "siteId": "668",
+                        "ehr": "Cerner"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {}
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving eligibility.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/status/summary": {
+      "get": {
+        "security": [],
+        "tags": [
+          "status"
+        ],
+        "summary": "Used to determine a patient agreement and Cerner provisioning status",
+        "description": "Allows unauthenticated clients to determine if a patient has a signed agreement and is provisioned in Cerner",
+        "operationId": "getStatusSummary",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryStatus"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "agreementSigned": true,
+                  "optOut": false,
+                  "cernerProvisioned": false
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving status summary.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/agreements": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Retrieve agreement actions performed by the veteran",
+        "description": "Return MVH agreement action completed by the veteran. Up to 10 will be returned if available. All additional history is available for auditing purposes but must be retrieved through an administrative request.",
+        "operationId": "getAgreements",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SignupAgreement"
+                  }
+                }
+              },
+              "application/json": {
+                "example": [
+                  {
+                    "responseDate": "2019-11-30T15:53:12.293Z",
+                    "signatureName": "Example User",
+                    "version": "1.0",
+                    "accepted": true
+                  },
+                  {
+                    "responseDate": "2019-10-01T15:53:12.293Z",
+                    "signatureName": "Example User",
+                    "version": "1.0",
+                    "accepted": false
+                  }
+                ]
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving agreements.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Record an agreement action by the veteran.",
+        "description": "Record agreement as having been completed and (optionally) trigger user MVH provisioning as appropriate.",
+        "operationId": "agreeAndProvisionUser",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "Patient/Veteran VA Integration Control Number (ICN)",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignupAgreement"
+              }
+            }
+          },
+          "required": false
+        },
+        "responses": {
+          "201": {
+            "description": "Operation succeeded",
+            "content": {},
+            "headers": {
+              "Location": {
+                "description": "URI location of created agreement",
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Unexpected error occurred - unable to complete provisioning",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Records agreement as an Opt Out",
+        "description": "Record agreement as an Opt Out and trigger user MVH (de-)provisioning if found in EHRM group.",
+        "operationId": "optOut",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "Patient/Veteran VA Integration Control Number (ICN)",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "202": {
+            "description": "Operation succeeded",
+            "content": {}
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Unexpected error occurred - unable to de-provision user",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/agreements/{agreementKey}": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Retrieve agreement actions performed by the veteran",
+        "description": "Return MVH agreement action completed by the veteran.",
+        "operationId": "getAgreement",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          },
+          {
+            "name": "agreementKey",
+            "in": "path",
+            "description": "key of the agreement",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]+$",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SignupAgreement"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided or unknown agreement",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving the agreement.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/patients/{icn}/provisioning/cerner": {
+      "put": {
+        "security": [
+          {
+            "requireVamfApiKey": []
+          }
+        ],
+        "tags": [
+          "provisioning"
+        ],
+        "summary": "Update the user's Cerner provisioning state",
+        "description": "Update the Cerner provisioning state for the specified user. Users who have already agreed to the current Terms and Conditions and have a Cerner association may be provisioned to Cerner. User's cannot currently be de-provisioned by this endpoint. Returns the user's resulting status summary.",
+        "operationId": "updateCernerProvisioningState",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProvisioningRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "User has agreed to the latest terms and conditions and is provisioned to Cerner",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryStatus"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "agreementSigned": true,
+                  "optOut": false,
+                  "cernerProvisioned": true
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid Request. E.g., Invalid ICN, missing required provisioning request data in request body, or provisionUser set to false",
+            "content": {}
+          },
+          "406": {
+            "description": "User has no Cerner association",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryStatus"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "agreementSigned": true,
+                  "optOut": false,
+                  "cernerProvisioned": false
+                }
+              }
+            }
+          },
+          "412": {
+            "description": "User has not agreed to or has opted out of the latest version of the Terms and Conditions.",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SummaryStatus"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "agreementSigned": false,
+                  "optOut": false,
+                  "cernerProvisioned": false
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "An error processing the provisioning update.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/agreements": {
+      "get": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Retrieve agreement for the current veteran",
+        "description": "Return MVH agreement action completed by the veteran. Up to 10 will be returned if available. All additional history is available for auditing purposes but must be retrieved through an administrative request.",
+        "operationId": "patientGetAgreements",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/SignupAgreement"
+                  }
+                }
+              },
+              "application/json": {
+                "example": [
+                  {
+                    "responseDate": "2019-11-30T15:53:12.293Z",
+                    "signatureName": "Example User",
+                    "version": "1.0",
+                    "accepted": true
+                  },
+                  {
+                    "responseDate": "2019-10-01T15:53:12.293Z",
+                    "signatureName": "Example User",
+                    "version": "1.0",
+                    "accepted": false
+                  }
+                ]
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error while retrieving agreements.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Record an agreement for the current veteran.",
+        "description": "Record agreement as having been completed and (optionally) trigger user MVH provisioning as appropriate.",
+        "operationId": "patientAgreeAndProvisionUser",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SignupAgreement"
+              }
+            }
+          },
+          "required": false
+        },
+        "responses": {
+          "201": {
+            "description": "Operation succeeded",
+            "content": {},
+            "headers": {
+              "Location": {
+                "description": "URI location of created agreement",
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Error occurred - unable to complete provisioning",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "agreement"
+        ],
+        "summary": "Records agreement as an Opt Out for the current veteran",
+        "description": "Record agreement as an Opt Out and trigger user MVH (de-)provisioning if found in EHRM group.",
+        "operationId": "patientOptOut",
+        "responses": {
+          "202": {
+            "description": "Operation succeeded",
+            "content": {}
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Authentication Required",
+            "content": {}
+          },
+          "403": {
+            "description": "User isn't authorized to access this resource",
+            "content": {}
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "Error occurred - unable to complete provisioning",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/terms-and-conditions": {
+      "get": {
+        "security": [],
+        "tags": [
+          "termsAndConditions"
+        ],
+        "summary": "Retrieve latest version of terms and conditions",
+        "description": "Returns latest version of terms and conditions",
+        "operationId": "getTermsAndConditions",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/TermsAndConditions"
+                }
+              },
+              "application/json": {
+                "example": {
+                  "name": "Universal VA Terms and Conditions",
+                  "content": "Terms and conditions...",
+                  "createDate": "2019-11-30T15:53:12.293Z",
+                  "lastModifiedDate": "2019-11-30T15:53:12.293Z",
+                  "version": 4,
+                  "bypassNumOfDays": 180,
+                  "isWithinBypassPeriod": false,
+                  "lastDayOfBypassPeriod": "05/27/2020"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "An error occurred while retrieving terms and conditions.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "termsAndConditions"
+        ],
+        "description": "Update terms and conditions. Restricted to Admin Users. Only terms and conditions content is modifiable.",
+        "operationId": "updateTermsAndConditions",
+        "parameters": [],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TermsAndConditionsUpdate"
+              }
+            }
+          },
+          "description": "Terms and Conditions Update Request",
+          "required": true
+        },
+        "responses": {
+          "204": {
+            "description": "Successful update of the Terms and Conditions entry. No content returned."
+          },
+          "400": {
+            "description": "Invalid TermsAndConditionsUpdate request."
+          },
+          "401": {
+            "description": "JWT Authentication required."
+          },
+          "403": {
+            "description": "Unauthorized. Must be Admin user."
+          },
+          "404": {
+            "description": "Terms and Conditions version to be updated not found in system. Version must already exist."
+          },
+          "500": {
+            "description": "Unexpected error occurred."
+          }
+        }
+      },
+      "post": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "termsAndConditions"
+        ],
+        "description": "Create new terms and conditions. Restricted to Admin Users.",
+        "operationId": "createTermsAndConditions",
+        "parameters": [],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TermsAndConditionsCreate"
+              }
+            }
+          },
+          "description": "Terms and Conditions Create Request",
+          "required": true
+        },
+        "responses": {
+          "204": {
+            "description": "Successful creation of the Terms and Conditions entry. No content returned."
+          },
+          "400": {
+            "description": "Invalid TermsAndConditionsCreate request."
+          },
+          "401": {
+            "description": "JWT Authentication required."
+          },
+          "403": {
+            "description": "Unauthorized. Must be Admin user."
+          },
+          "500": {
+            "description": "Unexpected error occurred."
+          }
+        }
+      },
+      "delete": {
+        "security": [
+          {
+            "requireVamfJwtKey": []
+          }
+        ],
+        "tags": [
+          "termsAndConditions"
+        ],
+        "description": "Delete a specified version of Terms and Conditions. Restricted to Admin Users.",
+        "operationId": "deleteTermsAndConditions",
+        "parameters": [
+          {
+            "name": "version",
+            "in": "query",
+            "description": "The version of the Terms and Conditions to delete.",
+            "schema": {
+              "type": "integer"
+            },
+            "required": true
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "Successful delete of the Terms and Conditions version. No content returned."
+          },
+          "400": {
+            "description": "Required 'version' query param not provided."
+          },
+          "401": {
+            "description": "JWT Authentication required."
+          },
+          "403": {
+            "description": "Unauthorized. Must be Admin user."
+          },
+          "404": {
+            "description": "Terms and Conditions version to be deleted not found in system. Version must already exist."
+          },
+          "500": {
+            "description": "Unexpected error occurred.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/consent/status/{icn}": {
+      "get": {
+        "security": [],
+        "tags": [
+          "consent"
+        ],
+        "deprecated": true,
+        "summary": "Used to determine whether the specified veteran has a current consent agreement on file",
+        "description": "This endpoint is deprecated, /patients/{icn}/status/summary should be used instead",
+        "operationId": "getConsentStatus",
+        "parameters": [
+          {
+            "name": "icn",
+            "in": "path",
+            "description": "The VA Integration Control Number (ICN) of the patient",
+            "required": true,
+            "schema": {
+              "pattern": "^[\\d]{10}V[\\d]{6}$",
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/SimpleStatus"
+                }
+              },
+              "application/json": {
+                "example": { "consent": true }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid or unknown ICN format provided",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Veteran not found",
+            "content": {}
+          },
+          "500": {
+            "description": "An error occurred while retrieving status.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ApiError": {
+        "required": [
+          "id", "code", "message"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "A UUID value for error tracing."
+          },
+          "code": {
+            "type": "integer",
+            "description": "The HTTP status code."
+          },
+          "message": {
+            "type": "string",
+            "description": "The reason for the error."
+          },
+          "errorCode": {
+            "type": "integer",
+            "description": "The service specific error code."
+          },
+          "detail": {
+            "type": "string",
+            "description": "Optional details on the cause of the error."
+          }
+        }
+      },
+      "SignupStatus": {
+        "required": [
+          "reviewRequired"
+        ],
+        "type": "object",
+        "properties": {
+          "fullName": {
+            "type": "string",
+            "description": "Full name of the user"
+          },
+          "mrn": {
+            "type": "string",
+            "description": "Deprecated."
+          },
+          "icn": {
+            "type": "string",
+            "description": "User's ICN"
+          },
+          "edipi": {
+            "type": "string",
+            "description": "User's EDIPI"
+          },
+          "optedOut": {
+            "type": "boolean",
+            "description": "True if the user has opted out of portal access. Field is not present if patient has opted-in or not yet provisioned."
+          },
+          "reviewRequired": {
+            "type": "boolean",
+            "description": "True if veteran require a ToS review before accessing MVH, false otherwise. False if the veteran has opted out."
+          },
+          "latestAgreement": {
+            "$ref": "#/components/schemas/SignupAgreement",
+            "description": "The most recent agreement for the veteran. Not present if the veteran has never agreed or opted-out."
+          },
+          "eligibility": {
+            "$ref": "#/components/schemas/Eligibility",
+            "description": "The list of sites that the current patient is registered at."
+          }
+        }
+      },
+      "SignupAgreement": {
+        "type": "object",
+        "properties": {
+          "key": {
+            "type": "string",
+            "description": "The unique id of the agreement.",
+            "pattern": "^[\\d]+$"
+          },
+          "responseDate": {
+            "type": "string",
+            "description": "Date in UTC when veteran responded the terms of the agreement",
+            "format": "date-time"
+          },
+          "icn": {
+            "type": "string",
+            "description": "The ICN of the veteran"
+          },
+          "mrn": {
+            "type": "string",
+            "description": "Deprecated."
+          },
+          "messagingAlias": {
+            "type": "string",
+            "description": "The messaging alias of the veteran"
+          },
+          "federatedAlias": {
+            "type": "string",
+            "description": "The federated alias of the veteran"
+          },
+          "signatureName": {
+            "type": "string",
+            "description": "Name of the person/current user agreeing to the ToS"
+          },
+          "version": {
+            "type": "string",
+            "description": "The major.minor version of this document"
+          },
+          "consumerId": {
+            "type": "string",
+            "description": "HealtheIntent consumerId"
+          },
+          "aliasType": {
+            "type": "string",
+            "description": "HealtheIntent alias type, ie. USER"
+          },
+          "provisionUserToCerner": {
+            "type": "boolean",
+            "description": "Optional flag to indicate if user should be provisioned to Cerner. Defaults to provisioning user if not provided."
+          }
+        }
+      },
+      "Eligibility": {
+        "type": "object",
+        "properties": {
+          "eligible": {
+            "type": "boolean",
+            "description": "True if the user is eligible to use MVH, false otherwise"
+          },
+          "ehrm": {
+            "type": "boolean",
+            "description": "True if the user has an EHRM enabled site, false otherwise",
+            "default": "false"
+          },
+          "css": {
+            "type": "boolean",
+            "description": "True if the user has an CSS enabled site, false otherwise",
+            "default": "false"
+          },
+          "sites": {
+            "type": "array",
+            "description": "List of VAMC sites associated with this user and the EHR system used by each site",
+            "items": {
+              "$ref": "#/components/schemas/SiteEhrStatus"
+            }
+          }
+        }
+      },
+      "SiteEhrStatus": {
+        "type": "object",
+        "required": [ "siteId", "ehr" ],
+        "properties": {
+          "siteId": {
+            "type": "string",
+            "description": "The site ID associated a VA Medical Center (VAMC)"
+          },
+          "siteName": {
+            "type": "string",
+            "description": "The site name (if available) associated a VA Medical Center (VAMC)"
+          },
+          "ehr": {
+            "type": "string",
+            "description": "The current EHR system in operation at this site (e.g., VistA or Cerner)"
+          }
+        }
+      },
+      "SimpleStatus": {
+        "required": [
+          "consent"
+        ],
+        "type": "object",
+        "properties": {
+          "consent": {
+            "type": "boolean",
+            "description": "True if the veteran has provided consent and opted-in to portal access. Otherwise, false."
+          }
+        }
+      },
+      "SummaryStatus": {
+        "required": [
+          "agreementSigned",
+          "optOut",
+          "cernerProvisioned"
+        ],
+        "type": "object",
+        "properties": {
+          "agreementSigned": {
+            "type": "boolean",
+            "default": false,
+            "description": "True if a user has consented to the agreement, false otherwise."
+          },
+          "optOut": {
+            "type": "boolean",
+            "default": false,
+            "description": "True if the last user action was to opt out of the Terms and Conditions. False if the user is currently agreed to the latest Terms and Conditions or has never taken any action."
+          },
+          "cernerProvisioned": {
+            "type": "boolean",
+            "default": false,
+            "description": "True if the user has been provisioned to Cerner, false otherwise."
+          }
+        }
+      },
+      "ProvisioningRequest": {
+        "required": [
+          "provisionUser",
+          "gcids",
+          "lastName"
+        ],
+        "type": "object",
+        "properties": {
+          "provisionUser": {
+            "type": "boolean",
+            "description": "True if the user is to be provisioned. False otherwise."
+          },
+          "gcids": {
+            "type": "string",
+            "description": "Pipe delimited list of getCorrespondingIDs from VA MPI"
+          },
+          "firstName": {
+            "type": "string",
+            "description": "Veteran's first name. Required only if user is to be provisioned to Cerner."
+          },
+          "middleName": {
+            "type": "string",
+            "description": "Veteran's middle name (optional)"
+          },
+          "lastName": {
+            "type": "string",
+            "description": "Veteran's last name"
+          },
+          "dateOfBirth": {
+            "type": "string",
+            "format": "date",
+            "description": "Veteran's Date of Birth. RFC 3339 format, e.g. 1920-10-25"
+          },
+          "gender": {
+            "type": "string",
+            "description": "Veteran's gender"
+          },
+          "emailAddress": {
+            "type": "string",
+            "description": "Veteran email address (optional)"
+          }
+        },
+        "example": {
+          "provisionUser": true,
+          "gcids": "[ICN]^NI^200M^USVHA^P|[PIVID]^EI^200PIV^USDVA^A|[SecID]^PN^200PROV^USDVA^A | [CernerID]^PI^200CRNR^USVHA^A | [DFN]^PI^[Station ID]^USVHA^A",
+          "firstName": "John",
+          "middleName": "Bradley",
+          "lastName": "Denver",
+          "dateOfBirth": "1970-10-25",
+          "gender": "Female",
+          "emailAddress": "john.denver@gmail.com"
+        }
+      },
+      "TermsAndConditions": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Name of the terms and conditions entry"
+          },
+          "content": {
+            "type": "string",
+            "description": "Terms and Conditions"
+          },
+          "createDate": {
+            "type": "string",
+            "format": "date-time",
+            "description": "timestamp when terms and conditions were created"
+          },
+          "lastModifiedDate": {
+            "type": "string",
+            "format": "date-time",
+            "description": "timestamp when terms and conditions were last modified"
+          },
+          "version": {
+            "type": "integer",
+            "description": "Version of terms and conditions"
+          },
+          "bypassNumOfDays": {
+            "type": "integer",
+            "description": "Number of days a Veteran can bypass agreeing to Terms and Conditions."
+          },
+          "isWithinBypassPeriod": {
+            "type": "boolean",
+            "description": "True or False indicating if the Terms and Conditions can be bypassed. This is calculated using createDate of T&C and bypassNumOfDays."
+          },
+          "lastDayOfBypassPeriod": {
+            "type": "string",
+            "description": "The last day that is within the bypass period. isWithinBypassPeriod is true on this date and all previous dates. Date format: MM/dd/yyyy"
+          }
+        }
+      },
+      "TermsAndConditionsUpdate": {
+        "required": [
+          "version",
+          "content"
+        ],
+        "description": "This model is for updating a specific version of Terms and Conditions content.",
+        "type": "object",
+        "properties": {
+          "version": {
+            "type": "integer",
+            "description": "The version number of the terms and conditions entry to be updated. This version must already exist in the system."
+          },
+          "content": {
+            "type": "string",
+            "description": "The updated terms and conditions content (HTML-based)."
+          }
+        },
+        "example": {
+          "version": 2,
+          "content": "<h1>...updated content</h1>"
+        }
+      },
+      "TermsAndConditionsCreate": {
+        "required": [
+          "name",
+          "content"
+        ],
+        "description": "This model is for creating a new version of Terms and Conditions content.",
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "The name of the terms and conditions entry to be created."
+          },
+          "content": {
+            "type": "string",
+            "description": "The new terms and conditions content (HTML-based)."
+          }
+        },
+        "example": {
+          "name": "2023 Terms and Conditions",
+          "content": "<h1>...new content</h1>"
+        }
+      }
+    },
+    "securitySchemes": {
+      "requireVamfJwtKey": {
+        "type": "apiKey",
+        "name": "X-VAMF-JWT",
+        "in": "header"
+      },
+      "requireVamfApiKey": {
+        "type": "apiKey",
+        "name": "X-VAMF-API-KEY",
+        "in": "header"
+      }
+    }
+  }
+}

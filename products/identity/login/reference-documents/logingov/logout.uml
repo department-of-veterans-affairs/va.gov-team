@@ -1,0 +1,24 @@
+# The diagram can be regenerated/updated at http://sequencediagram.org/
+
+title Single Logout(SLO)
+
+actor User
+participant Browser
+participant www.va.gov #B4D8E7
+participant api.va.gov #B4D8E7
+database Redis
+participant eauth.va.gov #7cfc00
+note over Browser, www.va.gov: Pre-requisite: Browser has a valid session token
+autonumber
+User -> Browser: **Click Sign Out**
+Browser-> Browser:**Open popup window**
+Browser -> api.va.gov:**Ask API to create a logout request **\nGET /v1/sessions/slo/new\n[cookie  vagov_saml_request_prod=<TOKEN>]
+api.va.gov -> api.va.gov: **authenticate, Create Logout Request**
+api.va.gov --> Redis: **Destroy User & Session**
+api.va.gov --> Browser:  **Return Eauth.va.gov log out url and clear va.gov cookie**\n200-OK: {url: https://eauth.va.gov/slo/globallogout"} \n[set-cookie vagov_saml_request_prod=;]
+Browser -> eauth.va.gov: **Logout request to Security Access Manager**\nGET /saml/SingleLogoutService?SAMLRequest=...
+eauth.va.gov--> Browser:**Clear SSOe Cookie**\n200-OK \n
+Browser -> www.va.gov: **Get Logout Page**\nGET /logout
+www.va.gov --> Browser:**Return Logout Page**\n200-OK
+Browser-> Browser:**Close Popup Window and Refresh Main Page**
+User <-- Browser: **User Sees That\nThey Are Signed Out**

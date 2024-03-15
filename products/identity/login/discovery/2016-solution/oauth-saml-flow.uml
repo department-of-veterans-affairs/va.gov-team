@@ -1,0 +1,18 @@
+@startuml
+title  OAuth2 SAML Bearer Flow
+
+actor Browser
+box #LightBlue
+  participant "www.vets.gov"
+  participant "api.vets.gov"
+  database Redis
+end box
+
+group Proposed OAuth2 Changes
+  Browser -> "api.vets.gov": <b>7a</b> POST /oauth/token?grant_type=urn:ietf:params:oauth:grant-type:saml2-bearer&assertion=<SAML_Assertion>
+  "api.vets.gov" -> "api.vets.gov": <b>7b</b> Validate SAML Assertion
+  "api.vets.gov" -> Redis: <b>7c</b> Generate token and persist user attributes
+  "api.vets.gov" --> Browser: <b>7d</b> 200 {OAuth access_token, expires_in}
+end
+
+@enduml
