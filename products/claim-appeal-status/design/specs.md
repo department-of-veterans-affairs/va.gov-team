@@ -1,6 +1,15 @@
 # Claims and Appeals design specs (2022—)
 A repository of design work completed. Files listed below have gone through design, development and deployment into production. When design work is complete, add it to the list below, in the appropriate section.
 
+
+## 2024
+* [Claims contextualization](https://www.figma.com/file/bWELjWsVqkf3BDx0PXqqam/Claim-Contextualization?type=design&node-id=1%3A12453&mode=design&t=ItUX7F88hBIYgoMt-1) - March 2024
+
+* [Decision Letter for appeals](https://www.figma.com/file/v0y52xy4CvefxkYDqzXlnn/Decision-Letters-for-Appeals?type=design&node-id=0%3A1&mode=design&t=ItUX7F88hBIYgoMt-1) - March 2024
+
+* [Ask your claim decision](https://www.figma.com/file/QuVTr9DMO5qjYrCgZXPNJ8/Ask-For-Your-Claim-Decision?type=design&node-id=2%3A1057&mode=design&t=ItUX7F88hBIYgoMt-1) - Jan 2024
+
+
 ## 2023
 * [New claim details page](https://www.sketch.com/s/98e35645-34eb-40cf-80c1-6c4952943584/p/B9C46ABC-36AD-4CA8-9896-55762FC6912E/canvas) - Sep 2023
 
