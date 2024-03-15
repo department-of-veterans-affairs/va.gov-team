@@ -36,10 +36,11 @@ Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc
 * Understand if/how the personalized home screen design impacts participant **comprehension of what the VA mobile app can do** (in general, and for them specifically). ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
 * Understand if/how the personalized home screen design impacts participant **perception of the app’s current and future value**. ([*project success metric*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics))
 * **Evaluate the usability of the personalized home screen and category screens** using high-level tasks that the participants will be asked to complete and **determine if any significant usability barriers (including app performance) exist** for participants who use the app with assistive technology vs without assistive technology. 
-  * Tasks explore features that appear within the Activities section, About you, and VA resources. This includes:
-    * How they’d expect to check the status of a disability claim
-    * Find a VA location
-    * Show proof of Veteran status  
+  * Tasks focus on features that appear on the home screen within the Activities section and About you. They will be chosen based on the entry points that appear on the user’s personalized home screen (if no entry points appear, we will ask what they expect to be in that section). This could potentially include:
+    * Check the status of a disability claim
+    * Complete an outstanding health task (refill a prescription, read a new message, check the details of an upcoming appointment)
+    * Show proof of Veteran status
+    * Find their benefit verification letter
 
 **Secondary:**
   * Pilot conducting remote, evaluative research using a live, pre-release build of the app on participants’ mobile devices (including with screenreader users), and improve the instructions and process for that in preparation for future usability studies.
@@ -88,8 +89,9 @@ This research will help us understand if/how the personalized app home screen de
 * As a part of the screening process, we will have Perigean:
   * Confirm that participants are iPhone users.
   * Confirm that participants have download Zoom onto their mobile device (and can use it to screen share) before the research session.
-  * Confirm that participants are willing and have room on their device to install a pre-release build of the VA mobile app on their mobile devices.
+  * Confirm that participants are willing and have room on their device to install two apps—Testflight and a pre-release build of the VA mobile app—on their mobile devices to use during the session (we will help them remove them). The Testflight app is 12.6 MB and the VA mobile app is 55 MB
   * Confirm that participants have VA login credentials that they can use to log out of & into the app on their own (a username and password, not biometrics).
+  * Provide users with a link to the Testflight app and confirm that participants have installed Testflight on their mobile device before the research session. 
 
 #### Location
 Remote sessions via Zoom
@@ -97,7 +99,7 @@ Remote sessions via Zoom
 
 #### Research materials
 * [Conversation guide]()
-* [Pre-release build of the VA mobile app, distributed via Firebase link]
+* [Pre-release build of the VA mobile app, distributed via Testflight link]
 * [Research session sign up sheet]()
 	
 ## Recruitment	
@@ -134,11 +136,11 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session from an iPhone?**  Note: Android mobile phones will not work for the session
+**1. Are you able to join the Zoom session using an iPhone?**  Note: Android mobile phones will not work for the session
 Response options: yes or no  
 *(If yes, proceed to 1a. If no, disqualify the participant)*
 
-**1a. Are you willing and able (and do you have space on your phone available) to download and install a mobile app during the session using a link you will open on using your phone?**  
+**1a. Are you willing and able (and do you have 75 MB of space on your phone available) to download and temporarily install two mobile apps during the session using a link you will open on using your phone?**  
 Response options: yes or no  
 *(answering no would disqualify the participant)*
 
@@ -183,12 +185,15 @@ Availability for a kick-off call, in Eastern times:
   * TBD
   * TBD
 
-**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD**).
-- Pilot participant email: **TBD**
-- Date and time of pilot session: **TBD**
+**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
+- Screenreader pilot participant email: TBD  
+- Date and time of screenreader pilot session: TBD  
+
+- Non-screenreader pilot participant email: TBD  
+- Date and time of non-screenreader pilot session: TBD  
 
 ### Research sessions
-* Planned dates of research: **TBD** (depends on readiness of build from ENG)
+* Planned dates of research: **TBD/APril** (depends on readiness of build from ENG)
 
 ### Length of sessions
 * Sessions will be 45 minutes in length for non-screenreader participants, 60 minutes for screenreader participants.
