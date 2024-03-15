@@ -82,7 +82,7 @@ This research will help us understand if/how the personalized app home screen de
 ### Evaluative Study (remote, moderated)
 
 #### Method
-* We want to conduct moderated, remote, think-aloud user interviews with usability testing using a pre-release build of the VA mobile app). The interviews will be 60 minutes in length. 
+* We want to conduct moderated, remote, think-aloud user interviews with usability testing using a pre-release build of the VA mobile app. The non-screenreader user interviews will be 60 minutes in length, and we expect the screenreader user interviews to be 120 minutes in length.  
 * We will conduct the research in two blocks, for simpler analysis & less researcher context-switching: 
   * Screenreader users scheduled in a block (with a11y ride along support)
   * Non-screenreader users scheduled in a block
