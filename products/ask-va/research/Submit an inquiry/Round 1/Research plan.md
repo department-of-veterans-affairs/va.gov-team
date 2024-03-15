@@ -28,14 +28,14 @@ This research supports the following OCTO FY24 priority:
 
 ### Veteran journey
 
-Ask VA can support Veterans, their family members, and other submitters at all stages of the Veteran journey, from starting up to aging.
+Ask VA can support Veterans, their family members, and other submitters at many stages of the Veteran journey. They may use Ask VA when they’re separating up until aging.
 
 ## Research goals
 
 The key goals of this study are to:
 
-* Review whether Veterans understand when they need to authenticate and the benefits of authentication
 * Review the experience of a Veteran asking a question about their own benefits
+* Review whether Veterans understand when they need to authenticate and the benefits of authentication
 * Understand what Veterans expect to happen after they submit a question
 
 ### Outcome
@@ -44,16 +44,16 @@ This research will help us determine if and how we need to improve the design an
 
 ### Research questions
 
-Review whether Veterans understand when they need to authenticate and the benefits of authentication:
-* Is it clear when you need to authenticate vs. when it’s optional?
-* Are the other benefits of authenticating clear?
-
 Review the experience of a Veteran asking a question about their own benefits:
 * Is the purpose of Ask VA clear?
 * Is there information missing on any question, page or sequence of pages?
 * Are there too many or too few fields per page?
 * Is it clear why each question is being asked?
 * Do users understand how to edit their answers on the review page?
+
+Review whether Veterans understand when they need to authenticate and the benefits of authentication:
+* Is it clear when you need to authenticate vs. when it’s optional?
+* Are the other benefits of authenticating clear?
 
 Understand what Veterans expect to happen after they submit a question:
 * Is it clear what happens after you submit a question?
