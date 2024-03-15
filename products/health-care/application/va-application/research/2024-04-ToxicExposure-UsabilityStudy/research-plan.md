@@ -91,7 +91,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 - Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? [answer needs to be yes for 1 completed session, recruit 2]
 
-- We’d like you to review parts of the VA website that require you to sign in to an identity-verified account. Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified.
+- Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified.
 - Response options: yes or no [Answering yes would qualify half the participants/other half can answer no]
 
 
