@@ -15,11 +15,7 @@
 ## <a name="flows"></a>User/page flows <br>
 *Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
 
-Team's user flows Mural
-
-## <a name="map"></a>Page structure<br>
-*Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
-
+Team's [user flows Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691434304975/3f0c405c820c184d21393b3bbd76324a5ee7c677?sender=u79ee90295fdb006d7f463212)
 
 
 ## <a name="redirects"></a>Redirects <br>
