@@ -186,27 +186,47 @@ Availability for a kick-off call, in Eastern times:
   * TBD
 
 **We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
-- Screenreader pilot participant email: TBD  
-- Date and time of screenreader pilot session: TBD  
+- Screenreader pilot participant email: **TBD**
+- Date and time of screenreader pilot session: **Week of March 18**
 
-- Non-screenreader pilot participant email: TBD  
-- Date and time of non-screenreader pilot session: TBD  
+- Non-screenreader pilot participant email: **TBD**  
+- Date and time of non-screenreader pilot session: **TBD**  
 
 ### Research sessions
-* Planned dates of research: **TBD/APril** (depends on readiness of build from ENG)
+* Planned dates of research: **TBD** (depends on readiness of build from ENG)
+If release build is ready 4/9: **April 22-May 2**
+If release build is ready 4/23: **May 6-16**
 
 ### Length of sessions
-* Sessions will be 45 minutes in length for non-screenreader participants, 60 minutes for screenreader participants.
-* 45 minutes buffer in-between each session
+* Sessions will be 60 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
+* 30 minutes buffer in-between each session
 * No more than 3 sessions should be scheduled in one day
 
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+* **If build is ready 4/9: **
+  * Non-screenreader users
+     * Mon 4/22: 10:30am-6pm EST/9:30am-5pm CST 
+     * Tue 4/23: 10am-6pm EST/9am-5pm CST
+     * Wed 4/24: 10am-6pm EST/9am-5pm CST
+     * Thu 4/25: 10:30am-6pm EST/9:30am-5pm CST
+(if needed) Mon 4/29: 10:30am-6pm EST/9:30am-5pm CST
+  * Screenreader users
+     * Tue 4/30: 10am-6pm EST/9am-5pm CST
+     * Wed 5/1: 10am-6pm EST/9am-5pm CST
+     * Thu 5/2: 10:30am-6pm EST/9:30am-5pm CST
+* If build is ready 4/23:
+  * Non-screenreader users
+     * Mon 5/6: 10:30am-6pm EST/9:30am-5pm CST 
+     * Tue 5/7: 10am-6pm EST/9am-5pm CST
+     * Wed 5/8: 10am-6pm EST/9am-5pm CST
+     * Thu 5/9: 10:30am-6pm EST/9:30am-5pm CST
+     * (if needed) Mon 5/13: 10:30am-6pm EST/9:30am-5pm CST
+  * Screenreader users
+     * Tue 5/14: 10am-6pm EST/9am-5pm CST
+     * Wed 5/15: 10am-6pm EST/9am-5pm CST
+     * Thu 5/16: 10:30am-6pm EST/9:30am-5pm CST
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-
-- Date between time and time, ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
@@ -215,7 +235,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening: Perigean
 - Project point of contact:	[Holly Collier](mailto:holly.collier@adhocteam.us)
 - Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	[Brea Blackweler]()
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	[Brea Blackweler](mailto:brea.blackwelder@adhocteam.us)
 - Note-takers:	TBD
 - Observers:	TBD
 
