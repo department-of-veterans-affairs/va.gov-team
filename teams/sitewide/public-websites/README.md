@@ -15,7 +15,7 @@ Public Websites team supports the modernized, unauthenticated veteran experience
 - Design: Jordan Wood (@thejordanwood)
 - Research: Cindy Merrill (@cindymerrill)
 - FE Engineering: Randi Mays (@randimays), Chris Kim (@chriskim2311)
-- Drupal Engineering: Daniel Sasser (@dsasser), Christia Troyer (@chri5tia)
+- Drupal Engineering: Daniel Sasser (@dsasser)
 
 
 ### Key Documents
