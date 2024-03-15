@@ -5,10 +5,10 @@
 ## Table of Contents
 
 ## POCs
-This is a collaboration between the [VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team) and the [My HealtheVet on VA.gov Cartography team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization#landing-pagehome-team).
+This page is owned by the [My HealtheVet on VA.gov Cartography team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization#landing-pagehome-team) with guidance from [VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team) and
 
-- **Github labels**: `authenticated-experience`, `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`, `personal-health-care-contacts`
-- **Slack channel:** #accountexp-authexp
+- **Github labels**: `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`, `personal-health-care-contacts`
+- **Slack channel:** #mhv-on-vagov-cartography-team #accountexp-authexp
 
 ## Overview
 
