@@ -2,7 +2,7 @@
 # Initiative 5: Aging Content New Framework for Auto-Archiving Content
 
 ## Elevator Statement
-Create a framework or way to auto-archve content based on the content's expiration date.
+Create a way for any content type that's in a published state, and that has an expiration date, to be permanently auto-archived.
 
 ## Overview
 Content becomes stale and isn't monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. For our over-arching initiative, we want the ability to auto-archive Full width alerts aka Full-width banners, Home Page Benefit Promo Blocks, and the Home Page News Spotlight Blocks on the content's expiration date (EOD).
