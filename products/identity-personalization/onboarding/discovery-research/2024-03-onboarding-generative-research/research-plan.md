@@ -110,7 +110,7 @@ Participants should represent a mix of experience with VA, and with VA.gov.
 > Response options: radio buttons
 > - No, I don’t want to create a VA.gov account during my session.
 > - Yes, I’d be willing to create a VA.gov account during my session. 
->   *Note for perigean:* Please add 15 minutes to the session for participants who answer yes.
+
 
 6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions?**Note:** We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
@@ -147,7 +147,7 @@ We will be available for a pilot session on the following days/times in ET. **Pl
 * Please reserve March 29 for reschedules or additional participants if needed for no shows
 
 ### Length of sessions
-* Session length: 45 minutes or 60 minutes, depending on whether or not participant is willing to create an identity-verified account during the session.
+* Session length: 60 minutes
 * Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 4
 
