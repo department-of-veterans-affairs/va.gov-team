@@ -1,6 +1,6 @@
 # List of contact options
 
-Last updated by @beckyphung: March 11, 2024
+Last updated by @beckyphung: March 15, 2024
 
 **Update**: We've recommended that US mail be removed. We're currently confirming with business lines and tracking responses in this document.
 
@@ -116,7 +116,7 @@ Subtopics are not listed here, because they follow the same contact rules as the
 |`Health care`|Getting care at a local VA medical center|✅|✅|✅|
 |`Health care`|Career opportunities at VA health facilities|✅|✅|✅|
 |`Health care`|Caregiver support program|✅|✅|✖️|
-|`Health care`|Vet Centers and readjustment counseling|✅|✖️|✅|
+|`Health care`|Vet Centers and readjustment counseling|✅|✖️|✖️|
 |`Health care`|Audiology and hearing aids|✅|✖️|✖️|
 |`Health care`|Prosthetics|✅|✖️|✖️|
 |`Health care`|Women's health services|✅|✅|✖️|
