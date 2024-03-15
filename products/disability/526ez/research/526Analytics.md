@@ -16,6 +16,7 @@ Based on conversations with the Contention Classification team, we arrived at a 
 - For each page of the form, identify total pageviews (A)
 - Identify total pageviews within the form that came from that page as a previous page path (B)
 - Subtract (B) from (A) to arrive at presumed drop-offs
+
 The Platform Analytics team created a GA report that provides the total pageviews and previous page paths. We then export the data and use a pivot table to sum previous page views and calculate drop-off rates. 
 
 [GA Report including previous path pages](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240201&_u.date01=20240229&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22BW%22,%22www.va.gov~2Fdisability~2Ffile-disability-claim-form-21-526ez~2F%22,0%5D,%5B0,%22analytics.previousPagePath%22,%22BW%22,%22www.va.gov~2Fdisability~2Ffile-disability-claim-form-21-526ez~2F%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.rowCount=5000/)
