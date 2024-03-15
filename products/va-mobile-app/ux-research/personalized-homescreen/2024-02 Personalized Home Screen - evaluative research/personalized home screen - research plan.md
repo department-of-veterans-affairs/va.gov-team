@@ -88,11 +88,11 @@ This research will help us understand if/how the personalized app home screen de
   * Non-screenreader users scheduled in a block
 * As a part of the screening process, we will have Perigean:
   * Confirm that participants are iPhone users.
-  * Confirm that participants have download Zoom onto their mobile device (and can use it to screen share) before the research session.
-  * Confirm that participants are willing and have room on their device to install two apps—Testflight and a pre-release build of the VA mobile app—on their mobile devices to use during the session (we will help them remove them). The Testflight app is 12.6 MB and the VA mobile app is 55 MB
-  * Confirm that participants have VA login credentials that they can use to log out of & into the app on their own (a username and password, not biometrics).
+  * Confirm that participants have downloaded Zoom onto their mobile device (and can use it to screen share) before the research session.
+  * Confirm that participants are willing and have room on their device to install two apps—Testflight and a pre-release build of the VA mobile app—on their mobile devices to use during the session (we will help them remove them). The Testflight app is 12.6 MB and the VA mobile app is 55 MB.
   * Provide users with a link to the Testflight app and confirm that participants have installed Testflight on their mobile device before the research session. 
-
+  * Confirm that participants have VA login credentials that they can use to log out of & into the app on their own (a username and password, not biometrics).
+ 
 #### Location
 Remote sessions via Zoom
 
