@@ -1,6 +1,4 @@
-# 
-
-Updated 3/18/24
+**Last Updated: 3/18/24**
 
 # Getting Started with Identity
 
@@ -59,6 +57,8 @@ Each identity provider has various account levels, which are mapped to [VA.gov](
 ## User paths based on Identity
 
 User paths for any product involving identity and personal information should be determined based on a given product's risk profile.
+
+### [Current NIST Guidelines on IAL (formerly LOA)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf)
 
 ### Potential Product Risk Profiles
 
