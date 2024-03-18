@@ -14,12 +14,14 @@ Ensure that Veterans who opt to file on digital vs. paper have equivalent experi
 - Consult OCTO and VBA stakeholders to determine which discrepancies (from audit, linked above) must be addressed in order to acheive the sync
 - Execute content changes required 
 
-# In of Scope
+# In Scope
 
+- Updates that bring the VA.gov form up to match the paper form
 - MVP sync of the core 526 with the paper form
   
 # Out of Scope
 
+- Addressing fields on VA.gov that differ from the paper
 - The sync of ancillary forms associated with the core 526ez
 - Any redesign of impacted features within the core 526ez
 
@@ -28,6 +30,8 @@ Ensure that Veterans who opt to file on digital vs. paper have equivalent experi
 The 526ez form on va.gov is synced with the paper version in content and intention.
 
 # Risks
+
+Making content corrections could lead us to identify new problems, which could result in scope creep. 
 
 # Plan
 
