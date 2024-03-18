@@ -32,6 +32,8 @@ If we are able to successfully connect a user to a record in MPI, we get back a 
 
 ## Understanding LOA
 
+### [Current NIST Guidelines on IAL (formerly LOA)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf)
+
 **LOA = Level of Assurance**
 
 We can only connect a user to a Veteran Record in MPI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure [VA.gov](http://va.gov/) that the user's identity is trustworthy.
@@ -57,8 +59,6 @@ Each identity provider has various account levels, which are mapped to [VA.gov](
 ## User paths based on Identity
 
 User paths for any product involving identity and personal information should be determined based on a given product's risk profile.
-
-### [Current NIST Guidelines on IAL (formerly LOA)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf)
 
 ### Potential Product Risk Profiles
 
