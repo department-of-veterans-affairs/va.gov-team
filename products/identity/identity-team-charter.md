@@ -7,7 +7,7 @@
 
 Welcome to the Identity folder. This directory contains information about user identity on [Va.gov](http://va.gov/). You'll find documentation on things like login, personalization, profile, and more.
 
-**New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
+**New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/gettingstartedidentity.md)
 
 ## What we're doing:
 
