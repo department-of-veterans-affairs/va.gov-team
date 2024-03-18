@@ -32,7 +32,7 @@ If we are able to successfully connect a user to a record in MPI, we get back a 
 
 ## Understanding LOA
 
-### [Current NIST Guidelines)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf)
+### [Current NIST Guidelines](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf)
 
 People using one of our CSPs (Credential Service Providers) will have a credential that is assigned a **Level of Assurance (LOA)**.
 
