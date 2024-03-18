@@ -2,7 +2,7 @@
 
 Last updated by @beckyphung: March 18, 2024
 
-**Update**: We've recommended that US mail be removed. We're currently confirming with business lines and tracking responses in this document.
+**Update**: We've recommended that US mail be removed. We have confirmed with business lines whether they'd like to keep US mail or agree with our recommendation to remove it as an option for their queue.
 
 Jump to:
 - [How this pattern works](#how-this-patterns-works)
@@ -44,8 +44,6 @@ For a complete list, jump to [contact rules by topic](#contact-rules-by-topic).
 |`Veteran Readiness and Employment`|Email and phone are always `ENABLED`, US Mail is always `DISABLED`|
 
 ### Contact rules by topic
-
-**Note:** We are still confirming new rules with business lines.
 
 Subtopics are not listed here, because they follow the same contact rules as their parent topic. This list is alphabetized by category name.
 
