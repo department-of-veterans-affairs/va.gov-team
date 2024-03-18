@@ -179,7 +179,7 @@ Note: Please do not schedule more than 4 sessions per day.
 Please list the people who will be serving in each role.
 
 - Moderator: Ade Ajayi (adebolanle.ajayi@bylight.net),  Amelia Hacking (amelia.hacking@bylight.com)
-- Research guide writing and task development: Ade Ajayi & Anne Costello Kennedy
+- Research guide writing and task development: Ade Ajayi & Anne Costello Kennedy(anne.costello@bylight.com)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ade Ajayi & Anne Costello Kennedy 
 - Accessibility specialist: N/A
