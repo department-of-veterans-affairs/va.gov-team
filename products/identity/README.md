@@ -5,7 +5,7 @@
 **Table of Contents**
 
 1. [Signing in](#signing-in)
-2. [Connecting to MPI](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#connecting-to-MPI)
+2. [Connecting to MPI](#connecting-to-mpi)
 3. [Understanding LOA](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)
 4. [User paths based on Identity](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#User-paths-based-on-Identity)
 
