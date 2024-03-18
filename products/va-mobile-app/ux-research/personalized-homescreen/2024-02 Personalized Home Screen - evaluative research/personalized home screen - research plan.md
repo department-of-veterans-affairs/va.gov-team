@@ -98,9 +98,9 @@ Remote sessions via Zoom
 
 
 #### Research materials
-* [Conversation guide]()
-* [Pre-release build of the VA mobile app, distributed via Testflight link]
-* [Research session sign up sheet]()
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
+* Pre-release build of the VA mobile app, distributed via Testflight link
+* [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1xdPYQwgvFWCoo0gOtNta8MsB_PyZ1Mxzp9GiQ4OZKbQ/edit#gid=0)
 	
 ## Recruitment	
 
