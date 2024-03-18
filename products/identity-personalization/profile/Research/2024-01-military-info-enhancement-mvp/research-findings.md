@@ -68,9 +68,9 @@ The Veterans Affairs/Department of Defense Identity Repository (VADIR) database 
 
 *Research question: How have veterans used their MOS data?*
 
-1. FINDING ONE: Veterans use their records to acquire promotions while in service, use vocational training transition benefits, apply to jobs after separation, and gain medical/disability benefits. 
+1. FINDING 1: Veterans use their records to acquire promotions while in service, use vocational training transition benefits, apply to jobs after separation, and gain medical/disability benefits. 
 
-2. FINDING TWO: MOS is helpful for correlating medical issues to service, but including location data is likely more helpful to veterans when providing context to health care providers and claims adjudicators.
+2. FINDING 2: MOS is helpful for correlating medical issues to service, but including location data is likely more helpful to veterans when providing context to health care providers and claims adjudicators.
 
 *Research question: How accurate and complete is the data pulled from VADIR?*
 
@@ -108,7 +108,7 @@ The Veterans Affairs/Department of Defense Identity Repository (VADIR) database 
 
 ### *Research question: How have veterans used their MOS data?*
 
-#### FINDING ONE
+#### FINDING 1
 Veterans use their records to acquire promotions while in service, use vocational training transition benefits, apply to jobs after separation, and gain medical/disability benefits. 
 
 7 veterans relayed examples of **sharing their MOS for career progression while serving and after separation**. 
@@ -119,7 +119,7 @@ P5 on using MOS for career progression in and out of service:
 P13 on using MOS for vocational readiness
 >I also had to share my information when I did the VA chapter 31, the VR&E program. So I had to share my MOS then because with the VR&E, the [Vocational Readiness & Employment](https://www.benefits.va.gov/vocrehab/index.asp) program, if you are trying to do employment, they look and see what you did in the army, what your disabilities are and if you can still do that on the civilian side for jobs. (P13: Army)
 
-#### FINDING TWO
+#### FINDING 2
 MOS is helpful for correlating medical issues to service, but including location data is likely more helpful to veterans when providing context to health care providers and claims adjudicators.
 
 6 veterans talked about **sharing records for connecting their service to medical issues**, however, including location was key for providing adequate context for service connection.
