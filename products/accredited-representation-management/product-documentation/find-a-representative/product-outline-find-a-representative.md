@@ -78,7 +78,7 @@ Data Reporting
 ---
 
 ## Assumptions
-1. Veterans are interesting in searching for a representative on VA.gov
+1. Veterans are interested in searching for a representative on VA.gov
 2. Veterans are more likely to appoint VSOs, Attorneys and Claims Agents
 3. Only a small percentage of Veterans are interested in appointing individual representatives in a VSO
 
@@ -94,7 +94,7 @@ A landing page "Get help from a VA accredited representative or VSO" (rooted in 
 
 ### Launch Dates
 1. MVP target release: December 2023 -- **No Go** due to the data powering our search results being only ~50% accurate ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-1.0.md))
-2. Version 2.0 release: March 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md))
+2. Version 2.0 release: March 2024 -- **Go** and relesased to 100% of users on 3/13 with updates to Best Bets and redirects implemented on 3/18 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md))
   
 ### Future
 When our [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) goes live, we will work with stakeholders to redirect related pages within [eBenefits]([https://www.ebenefits.va.gov/ebenefits/vso-search).  
@@ -110,16 +110,12 @@ We may also redirect the [legacy OGC representative search](https://www.va.gov/o
 
 ## Solution Narrative
 
-### Current Status
-Find a Representative 2.0 will begin a staged rollout in March 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
-
-### Key Decisions
-1. An MVP [originally scheduled for Dec 2023 release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-mvp.md) was decidedly a "No Go" from the team, due to the data powering our search results being only ~50% accurate.  While the ARM team does not own this data, there are shared concerns with providing inaccurate search results to our users.
+1. An MVP [originally scheduled for Dec 2023 release](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-1.0.md) was decidedly a "No Go" from the team, due to the data powering our search results being only ~50% accurate.  While the ARM team does not own this data, there are shared concerns with providing inaccurate search results to our users.
    1. To remedy this decision, the team has decided to implement solutions in our product to address this issue.
    2. The team explored working directly with OGC to really representatives for updated contact information, but OGC does not have the bandwidth to manage the intake of updated information.
    3. Research findings from our MVP will also be incorporated into v2.0
-2. Version 2.0 is scheduled for March 2024 release
-
+2. Version 2.0 was released in March 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
+   
 ---
    
 
@@ -137,4 +133,4 @@ Find a Representative 2.0 will begin a staged rollout in March 2024 ([release pl
  - **Research/Design**: Janelle Finnerty
 
 #### Stakeholders
- - [ARM Stakeholders and Advisors]([url](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f?sender=ubac5f0487f25bc4431288699)https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f?sender=ubac5f0487f25bc4431288699)
+ - [ARM Stakeholders and Advisors](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f?sender=ubac5f0487f25bc4431288699)
