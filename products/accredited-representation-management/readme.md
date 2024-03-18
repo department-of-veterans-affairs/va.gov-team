@@ -8,6 +8,10 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 
 ## Product Resources
 
+#### In Production
+1. Find a Representative: [Find a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/find-rep)
+2. Accredited representative landing page: [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/)
+
 #### Product Documentation
 1. [Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/find-a-representative)
 2. [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status-widget)
