@@ -143,18 +143,18 @@ ________________________________________________________________________________
         - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
             - Rolled over from last sprint; 1 point left
         - ✔️ ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
-        - ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
+        - ✔️ ❗ 🟩 [[FE] - Update content for travel questions pages in travel-claim app #75748](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75748)
             - Rolled over from last sprint; 1 point left
         - ✔️ ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
-        - ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
+        - ✔️ ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
         - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
         - ✔️ ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
         - ❗ 🟩 [[FE] Create E2E tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75711)
         - ✔️ ❗ 🟩 [Midpoint Review - Accessibility Feedback - Modernized Check-in, eCheck-in, Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77000)
-        - ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
+        - ✔️ ❗ 🟩 [[FE] Add GA events to API calls and customize values for component and navigation clicks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77091)
         - ❗ 🟩 [[FE] - Set up travel-claim app in pagerDuty ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77393)
         - ❗ 🟩 [[FE] Create e2e tests for failed scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77876)
-        - ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
+        - ✔️ ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ✔️ ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide
         - ✔️ ❗ 🟥 Gather feedback from CAIA on content
 - **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
