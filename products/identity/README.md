@@ -30,20 +30,20 @@ Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly d
 
 If we are able to successfully connect a user to a record in MPI, we get back a [list of attributes](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa) that can be leveraged throughout [VA.gov](http://va.gov/) to provide access to additional digital services. This allows the user to access products such as the profile and dashboard, which display personal information and actions in flight with the VA, as well as pre-fill information on an application directly from their Veteran Record in MPI.
 
-## Understanding LOA
+## Understanding IAL (formerly LOA)
 
 ### [Current NIST Guidelines on IAL (formerly LOA)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf)
 
-**LOA = Level of Assurance**
+People using one of our CSPs (Credential Service Providers) will have a credential that is assigned an **IAL, or Identity Assurance Level**. We used to call this **Level of Assurance (LOA)**, so much of our documentation across GitHub will likely use that older terminology.
 
 We can only connect a user to a Veteran Record in MPI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure [VA.gov](http://va.gov/) that the user's identity is trustworthy.
 
-A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on [VA.gov](http://va.gov/) through [ID.me](http://id.me/)'s identity verification process, [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/idme/idv-flow-updated-20170821.pdf). 
+A user may sign in with an IAL1 account, which means they have not verified their identity. In this case, they have the option to verify their identity (IAL2) through [ID.me](http://id.me/), [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/idme/idv-flow-updated-20170821.pdf). They can also verify their identity through Login.gov.
 
-Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of LOA as shown below:
+Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of IAL as shown below:
 
 ```
-| LOA 1 on VA.gov  | LOA 3 on VA.gov   |
+| IAL1 on VA.gov  | IAL2 on VA.gov   |
 | ---------------- | ----------------- |
 | MHV Basic        |                   |
 | MHV Advanced     |                   |
@@ -62,12 +62,12 @@ User paths for any product involving identity and personal information should be
 
 ### Potential Product Risk Profiles
 
-### High risk - LOA3/IAL2 (ID proofing required)
+### High risk - IAL2/LOA3 (ID proofing required)
 
 - **Pro:** able to access all known personal user data for the given user
 - **Con:** least accessible to full userbase
 
-### Low risk - LOA1/IAL1 (login required)
+### Low risk - IAL1/LOA1 (login required)
 
 - **Pro:** able to display some information about user
 - **Con:** can't leverage more sensitive user data records as this user account type is not verified
