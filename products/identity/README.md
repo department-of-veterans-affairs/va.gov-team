@@ -6,7 +6,7 @@
 
 1. [Signing in](#signing-in)
 2. [Connecting to MPI](#connecting-to-mpi)
-3. [Understanding LOA](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)
+3. [Understanding IAL (Formerly LOA)](#understanding-ial-formerly-loa)
 4. [User paths based on Identity](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#User-paths-based-on-Identity)
 
 ## Signing in
