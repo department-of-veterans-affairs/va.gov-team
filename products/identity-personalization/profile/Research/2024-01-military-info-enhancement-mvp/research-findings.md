@@ -111,7 +111,7 @@ The Veterans Affairs/Department of Defense Identity Repository (VADIR) database 
 #### FINDING ONE
 Veterans use their records to acquire promotions while in service, use vocational training transition benefits, apply to jobs after separation, and gain medical/disability benefits. 
 
-7 veterans relayed examples of **sharing their MOS for career progression while service and after separation**. 
+7 veterans relayed examples of **sharing their MOS for career progression while serving and after separation**. 
 
 P5 on using MOS for career progression in and out of service:
 >The only time I could think [of sharing MOS] would maybe be for promotion boards or applying to a school or the next job. And so a couple times like I went to a couple different survival schools or additional training types of things. And then I would have to pull my record history and then send those data and the Air Force calls them SURF, I don't know what it stands for, it's like S-U-R-F. It's an overall summary of where you've been based, what qualifications you have. (P5: Air Force)
