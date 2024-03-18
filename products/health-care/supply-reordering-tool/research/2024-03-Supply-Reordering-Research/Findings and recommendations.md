@@ -1,12 +1,12 @@
-# [Study] Research Findings 
+# [2024-03-Supply Reordering Usability Testing] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-Date: MM/DD/YYYY
+Date: 03/22/2024
 
-[Designer 1] [email], [Designer 2] [email]
+[Jenny Wang] [yizhen.wang@va.gov], [Kristen] [email], [Jasmine] [email]
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](link here)
 
 **Jump to:**
 
