@@ -11,7 +11,7 @@ With both `vets-website` and `vets-api` running in parallel, localhost will be r
 ## General Information
 ### [Feature Flags](feature-flags.md)
 ### [Google Analytics](analytics.md)
-### [Error Codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/sign-in-error-handling.md)
+### [Error Codes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/error-messages/sign-in-error-handling.md)
 ### [Testing](testing.md)
 
 ## Useful Links
