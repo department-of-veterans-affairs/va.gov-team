@@ -179,7 +179,7 @@ Another veteran (P12: Army) also had inaccurate data around their separation as 
 </details>
 
 #### FINDING 4 
-Regarding `militaryOccupations`: `occupationTypeText` (duty/primary/secondary) wasn’t something most veterans found particularly useful. DoD occupation text coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their service specific occupation code/text values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
+Regarding `militaryOccupations`: `occupationTypeText` (duty/primary/secondary) wasn’t something most veterans found particularly useful. `dodOccupationText` coverage was inconsistent. Some veterans had partial data, others had none. For veterans that had data populated, they had different understandings of what they meant. Only a handful of veterans said their `serviceSpecificOccupationCode` and `serviceSpecificOccupationText` values were accurate. For most veterans effective dates were incorrect or they had no idea where the dates were coming from.
 
 <details>
 
