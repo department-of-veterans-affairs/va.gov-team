@@ -40,7 +40,7 @@ We can only connect a user to a Veteran Record in MPI if we are confident that t
 
 A user may sign in with an LOA1 account, which means they have not verified their identity. In this case, they have the option to verify their identity (LOA3) through [ID.me](http://id.me/), [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/idme/idv-flow-updated-20170821.pdf). They can also verify their identity through Login.gov.
 
-Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of IAL as shown below:
+Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of LOA as shown below:
 
 ```
 | LOA1 on VA.gov  | LOA3 on VA.gov   |
