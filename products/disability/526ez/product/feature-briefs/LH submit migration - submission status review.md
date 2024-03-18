@@ -13,11 +13,10 @@ This initiative is created to complete the migration and give Veterans more clar
 
 # Proposed Solution
 Under this initiative, all Veterans filing a 516 claim via va.gov will be able to
- - Get an on-screen message indicating their claim was submitted successfully or failed submission, if applicable
+ - Get an on-screen message indicating the outcome of their claim submission and where to go for more details 
  - Have a better and consistent user experince on screen after submitting their claim with clear indication on the outcome( or where to check? this may be part of the next feature that evaluates direction to Claim Status tool)
  - Have a system in place to prevent duplicates when the claim was submitted the first time
  - Receive a confirmation email with details on their claim and how to track its progress (Claim Status Tool)
- - Either upload evidence without silent failures or be notified on-screen and/or by email if they attempted to upload evidence unsuccessfully
 
 See epic [Improve submission user experience #78179](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179), which captures the above items.
 
@@ -30,7 +29,7 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 - Avoid duplicates (rethink when we clear the in-progress form)
   
 # Out of Scope
- 
+- Notification of core 526 submission failures and file upload failures
 
 # Success
 - Lighthouse /submit endpoint migration complete
