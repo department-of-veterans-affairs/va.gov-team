@@ -4,7 +4,7 @@ about: Submit a request to change a URL and/or implement a redirect for a URL. A
   for vanity URL requests.
 title: Redirect Request
 labels: sitewide CAIA, Sitewide IA, Public Websites, VA.gov frontend, Redirect request
-assignees: jennymayoco, kristinoletmuskat, strelichl, FranECross
+assignees: jennymayoco, kristinoletmuskat, strelichl
 
 ---
 
