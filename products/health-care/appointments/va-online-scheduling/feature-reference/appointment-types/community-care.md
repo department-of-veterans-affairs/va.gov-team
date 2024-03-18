@@ -35,8 +35,9 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
-* See: [Treatment Specialty](../../../appointments-reference/data-reference/data-definitions.md#treatment-specialty)
-** 03/18/2024 - We currently don't receive modality information for scheduled community care appointments, so we have to assume they could be telehealth or in-person. In the future we would like to show this information.
+\* See: [Treatment Specialty](../../../appointments-reference/data-reference/data-definitions.md#treatment-specialty)
+
+\*\* 03/18/2024 - We currently don't receive modality information for scheduled community care appointments, so we have to assume they could be telehealth or in-person. In the future we would like to show this information.
   
 ## Specifications
 
