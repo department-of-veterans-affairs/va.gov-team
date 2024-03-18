@@ -6,7 +6,9 @@ When a user selects that they want VA to review private medical evidence, they a
 
 # Problem or Opportunity
 
-1. Sync the content of digital 4142 with the paper form using the results of the audit (Found on Sharepoint here: https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B3308EE26-A184-42ED-AFC0-44B1D20F12A6%7D&file=526%20paper%20sync%20audit%20.xlsx&action=default&mobileredirect=true)
+1. Sync the content of digital 4142 with the paper form using the results of the audit
+   (Found on Sharepoint here: https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B3308EE26-A184-42ED-AFC0-44B1D20F12A6%7D&file=526%20paper%20sync%20audit%20.xlsx&action=default&mobileredirect=true)
+   
 2. Make necessary front-end and data updates
 
 # Why
@@ -28,16 +30,18 @@ Earlier discovery highlighted three possible ways forward along with pros and co
 
 3. (Out of Scope) Create new 4142/4142a in 526ez
    - Pro - Keeps the flow less complex
-   - Con - High engineering lift Do not recommend
+   - Con - High engineering lift
+   - Do not recommend
 
-   
 # In of Scope
 
--MVP sync of paper and online 4142 form
+MVP 4142 that syncs all meaningful discrepancies between the paper and online form.
   
 # Out of Scope
 
--Redesign of the 4142 in excess of the changes needed to sync
+- Redesign of the 4142 in excess of the changes needed to sync
+- Changes that require major restructuring of Step 3 within the online 526ez
+- Document upload screens
 
 # Success 
 
