@@ -40,9 +40,9 @@ Under this initiative, all Veterans filing a 526 claim via va.gov will be able t
 
 ## Happy Path
 
-This initiative focuses on the confirmation page and improving how Veterans record and track their claims. Other work that might be a part of the post-submission experience does not necessarily fit in scope, but could be considered. 
-
-For example, syncing the post-submission pages with the paper form, as noted in previous tickets and by the audit. See https://github.com/department-of-veterans-affairs/va.gov-team/issues/57828
+This initiative focuses on the confirmation page and improving how Veterans record and track their claims. Other work that might be a part of the post-submission experience but is out of scope for this feature:
+- Redesign of the post-submission pages
+- UI changes 
 
 # Success 
 
