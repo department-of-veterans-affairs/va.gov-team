@@ -1,5 +1,7 @@
 # Research Plan for Health Questionnaire, Clinical Reminders Pilot - Staff Interviews, November 2023
 
+[2023-11 Health Questionnaire, Clinical Reminders Pilot - Staff Interviews, November 2023 #504](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/504)
+
 “The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions, and helps ensure that timely clinical interventions are initiated.
 
 Reminders assist clinical decision-making and also improve documentation and follow-up, by allowing providers to easily view dates when certain tests or evaluations were performed and to track and document when care has been delivered. They can direct providers to perform certain tests or other evaluations that will enhance the quality of care for specific conditions. The clinicians can then respond to the reminders by placing relevant orders or recording clinical activities on patients’ progress notes.
