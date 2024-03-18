@@ -113,6 +113,8 @@ What is:
 ## Flagged Forms
 Manual monitoring process to review forms that are flagged during migration from Forms DB (> Lighthouse) into Drupal. We care about 3 classes of changes: 
 
+Video explainer: https://github.com/department-of-veterans-affairs/va.gov-team/assets/85581471/d53d0e07-b77a-4cd7-8651-1007953106af
+
 ### 1. **Changed Title**
 
 https://prod.cms.va.gov/admin/content/va-forms/changed-title
