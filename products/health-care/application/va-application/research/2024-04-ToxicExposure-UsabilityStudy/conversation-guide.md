@@ -15,7 +15,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Angela and [Perigean?] is taking notes.
+Thanks for joining us today! My name is [Name] and [Perigean?] is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about questions on the VA health care application regarding toxic exposure.
@@ -69,14 +69,14 @@ Now I'm going to put a link in the Zoom chat and would like you to open it. Let 
 Once you've opened the link and see a page that says "Apply for VA health care", please share your screen with me. Let me know if you need any help doing that.
 
 
-## First Task: [Discover areas where the content may not be clear or need additional explanation] - X minutes
+## First Task: Toxic exposure intro page review (Military service step) - 10 minutes
 
 - Okay we're going to start the application so you can click "Start your application without signing in" (or "Start application" if they are signed in)
 - The part of the form we're looking for feedback on today is about halfway through the form so we'll need you to fill in the next several pages wih either your real info or fake info. It doesn't matter because we won't be submitting the form.
 - *Direct them through all required fields until they get to toxic exposure pages.*
 - **Once they're on the toxic exposure section** Okay please stop here - this is the section we'll be going through together. Thanks for your patience with that!
 
-- I'd like you to read through this page as you normally would and let me know if anything is confusing.
+- I'd like you to read through this page as you normally would and let me know what thoughts you have and if anything is confusing.
 - Would you select "Yes" or "No" for this question? Why?
 - Okay for our purposes, let's select "Yes" so we can go through the questions.
 
@@ -84,23 +84,22 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- Do participants express any confusion about the verbiage used on the intro page?
+- Do any participants open the additional info dropdown for "Learn more about enhanced eligibility status for VA health care" without being prompted to?
+- What comments, if any, do Veterans have about the term "toxic exposure"? Do they express any confusion about what qualifies as toxic exposure?
+- Do participants express any confusion or frustration that VA should have their service history?
 
-## Second Task: [Discover areas where their service history requires too much mental lift / recall on the Veteran's behalf to answer] - X minutes
+## Second Task: [Toxic exposure questions] - 20 minutes
 
-- Step 1
+- 
 - Step 2
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Are there any usability or accessibility issues with the TERA questions and/or date pickers?
+- Do participants express any confusion or frustration that VA should have their service history?
 
-## Third Task: [Discover unknown usability or accessibility issues] - X minutes
+## Third Task: [Insurance questions] - Rest of session until about 5 minutes remain
 
 - Step 1
 - Step 2
