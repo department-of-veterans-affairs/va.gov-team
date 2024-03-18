@@ -79,40 +79,40 @@ We will partner with Perigean to recruit Veterans.
 
 ## **Recruitment criteria – Sighted Users**
 
-**For sighted users, we will schedule 18 Veterans for an expected completion rate of 15 usability sessions.**
+**For sighted users, we will schedule 22 Veterans for an expected completion rate of 15 usability sessions.**
 
-**Primary criteria for sighted participants (18)**
+**Primary criteria for sighted participants (22)**
 
-- 12 participants must regularly use MHV
+- 15 participants must regularly use MHV
 - 10 participants with cognitive disabilities – mild to severe (see screener)
-- 9 participants who are mobile users
-- 9 participants who are desktop users.
+- 11 participants who are mobile users
+- 11 participants who are desktop users.
 - No current or previous (within the past 5 years) VA Employees
 
 1. Age distribution:
-    1. (4) 75+
-    2. (6) 65 – 74
-    3. (3) 55 – 64
-    4. (4) 35 – 54
-    5. (1) 18 – 34
+    1. (5) 75+
+    2. (7) 65 – 74
+    3. (4) 55 – 64
+    4. (5) 35 – 54
+    6. (2) 18 – 34
        
 2. Education distribution:
     1. (7) High School graduate or equivalent or less
-    2. (4) Some college, no degree
-    3. (2) Associate degree (occupational or academic)
-    4. (3) Bachelor's degree
-    5. (2) Master's degree or higher
+    2. (5) Some college, no degree
+    3. (3) Associate degree (occupational or academic)
+    4. (4) Bachelor's degree
+    5. (3) Master's degree or higher
        
 3. Demographic distribution:
     1. (1) American Indian or Alaska Native
     2. (1) Asian
-    3. (3) Black or African American
-    4. (2) Hispanic, Latino, or Spanish origin
-    5. (11) White or Caucasian
+    3. (4) Black or African American
+    4. (3) Hispanic, Latino, or Spanish origin
+    5. (14) White or Caucasian
        
 4. Residence:
     1. (5) rural
-    2. (13) urban
+    3. (17) urban
 
 **Screener for SIGHTED USERS**
 
