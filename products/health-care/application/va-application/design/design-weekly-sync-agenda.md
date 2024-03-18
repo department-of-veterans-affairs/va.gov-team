@@ -1,5 +1,31 @@
 # Design Weekly Sync Agenda
 
+
+## 2024-03-18
+Attendees: Angela, Katelyn, Jessica, & Kristen.
+
+**REGISTRATION:**
+- Chatted about registration next steps
+- Such a massive problem that it can be intimidating when diving into workflows
+- The balancing act of wire framing out an ideal long-term state vs what could be realistic for MVP
+- Kristen - think about one use case - if we can help that experience and learn from it start from there
+
+**TERA RESEARCH (EZ end March/early April)**
+- Goal 1 is what Kristen was looking for
+- Think about recruit / methodologies - mentioned recent VBA observational study where maybe diverging from the traditional recruit method with Perigean might be worth looking into.
+- Angela and Jessica to meet and go over methodologies and recruitment
+- Will have Kristen review Research Plan and Convo Guide once ready to submit for approval
+- Will do a kickoff call with Perigean
+
+**ROADMAPS**
+- Kristen to reach out to Alex about including iterations, improvements, research findings and working that into the roadmap plan
+
+**DOCUMENT UPLOADING**
+- Update is that EZR will not be “announced” until uploading documents feature added
+- UX questioning the need - balancing the business side purpose with the Veterans’ experience and mental model
+
+
+
 ## 2024-03-11
 Attendees: Angela, Hieu, Jessica, & Kristen.
 
