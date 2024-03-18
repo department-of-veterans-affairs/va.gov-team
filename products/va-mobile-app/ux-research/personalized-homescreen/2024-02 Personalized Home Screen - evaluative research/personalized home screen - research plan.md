@@ -129,8 +129,8 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 * 6 participants should identify as other than Caucasian
 * 6 participants should identify as a gender other than male
 * 4 participants should have no college degree
-* No more than 4 participants should have a Master’s degree or higher
-[VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1116550612)
+* No more than 4 participants should have a Master’s degree or higher  
+[VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=453861897)
 
 ### Coordination with Perigean
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
