@@ -4,11 +4,11 @@ The volume of clinical reminders has been impacting the quality of the time the 
 
 
 ## Research Links
-    -Research Plan
-    -Prototype
-    -Conversation Guide
-    -Notetaker Participant Transcripts Folder
-    -Usability Test Findings PDF
+- Research Plan
+- Prototype
+- Conversation Guide
+- Notetaker Participant Transcripts Folder
+- Usability Test Findings PDF
 
 ## How this research maps to the Veteran journey
 - Taking care of myself
@@ -19,7 +19,6 @@ The volume of clinical reminders has been impacting the quality of the time the 
  <br>
 
 ## Research goals
-
 The goal of this researh is to discover the following:
 -  Would Veterans change anything about the timing of when they receive the questionnaire notification/link?
 -  Did Veterans feel that they were given enough time to complete the questionnaires prior to their appointment?
@@ -33,7 +32,6 @@ The goal of this researh is to discover the following:
  <br>
  
 ## Hypothesis
-
 -  Veterans will identify areas to improve the ease of use within the tool.
 -  The questions within each clinical reminder will be understandable.
 -  Answering the questionnaires will allow help to optimize the Veteran’s time with their care provider.
@@ -42,11 +40,11 @@ The goal of this researh is to discover the following:
 
 ## Method
  
-
 ### Recruitment
 -  2 participants were recruited using a poster displayed at VA facilities in Butler, PA. and Minneapolis, MN. 
 -  13 participants were recruited using Perigean recruitment services.
-
+  <br> 
+ <br>
  
 ### Dates of Sessions 
 November 17, 2023 - January 12, 2024.
@@ -57,7 +55,6 @@ November 17, 2023 - January 12, 2024.
 
 
 ### Protoype Software
-
 - 7 eScreening participants
     - 3 saw texts notifications
     - 2 saw emails notifications
@@ -73,41 +70,41 @@ November 17, 2023 - January 12, 2024.
 ## Participant demographics
  
 ### Participants 
-    - Veterans: 15
+-  Veterans: 15
 
 ### Disabilities 
-    - Cognitive Disability: None
+-  Cognitive Disability: None
 
 ### Assistive Tech Users
-      - Screen Magnification: 1
+-  Screen Magnification: 1
   
 ### Gender 
-    - Females: 5  
-    - Males: 8
-    - Female Cis Gender: 1
-    - Prefers Not to Answer: 1
+-  Females: 5
+-  Males: 8
+-  Female Cis Gender: 1
+-   Prefers Not to Answer: 1
 
 ### Race
-    - White/Caucasian: 11
-    - Black/African American: 2
-    - Prefers Not to Answer: 2
+-  White/Caucasian: 11
+-  Black/African American: 2
+-   refers Not to Answer: 2
 
 ### Ages
-    - 25-34: 1
-    - 35-44: 2 
-    - 45-54: 6
-    - 55-64: 0
-    - 65-74: 2
-    - 75 + : 4
+- 25-34: 1
+- 35-44: 2
+- 45-54: 6
+- 55-64: 0
+- 65-74: 2
+- 75 + : 4
 
--  States Represented
-    - MN: 4
-    - PA: 6
-    - OR: 1
-    - NY: 1
-    - GA: 1
-    - TX: 1
-    - KS: 1
+### States Represented
+-  MN: 4
+-  PA: 6
+-  OR: 1
+-  NY: 1
+-  GA: 1
+-  TX: 1
+-  KS: 1
 
 
 ## Key findings
@@ -124,7 +121,7 @@ November 17, 2023 - January 12, 2024.
      - Phone call: 2
      - Waiting room: 2
      - PCP in room: 1
-     - 
+       
 **Recommendation:** Combine the pre-visit-summary, clinical reminders, and pre-check-in into one digital experience for the Veteran to complete before their appointment.
   <br> 
  <br>
