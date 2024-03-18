@@ -24,5 +24,9 @@
 |22|New|Sponsor|If death documents are required what are the acceptable document types? |No|Yes||
 |23|New|Applicants| What is the correct term for the Rating Decision for a "Helpless Child"?|No|Yes||
 |24|New|Sponsor|If an applicant wants to upload a birth cert to avoid possible delays would a Social Security card work in place? |No|No||
+|24|New|Applicant|If we removed the gender question from the application would it cause issues for the applicant enrollment process |No|Yes||
+|24|New|Applicant|What are all of the types of relationships to the sponsor that you and team has seen in the past. Is it just mainly a spouse and/or child? |No|Yes||
+
+
 
 
