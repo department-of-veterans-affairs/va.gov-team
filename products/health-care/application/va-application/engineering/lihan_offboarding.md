@@ -32,6 +32,9 @@ No major pain points with our team's code base. Pain points mostly out of our te
 
 
 Delete unused HCA sidekiq jobs.
+`HCA::AnonEncryptedSubmissionJob`
+`HCA::BaseEncryptedSubmissionJob`
+`HCA::EncryptedSubmissionJob`
 
 
    * What should have more tests
