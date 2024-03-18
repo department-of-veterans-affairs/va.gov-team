@@ -9,7 +9,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
     - **Sub Goal: CIE Discovery**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
@@ -28,7 +28,7 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
     - **Sub Goal: CIE Discovery**
         - TBD
@@ -61,7 +61,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
     - **Sub Goal: CIE Discovery**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
@@ -80,13 +80,10 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal:  Support Travel for CERNER Sites**  
-        - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)
-        - ❗ 🟩 [[FE] Change content on ID verification page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78019)
-        - ❗ 🟩 [[FE] Link updates to Intro page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77763)
-        - ❗ 🟩 [[FE] Check content in additional info accordions ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77760)
+    - **Sub Goal:  MVP: Support Mileage-Only Travel Claims for OH Sites**  
+        - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
-        - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)        
+        - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)   
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
     - **Sub Goal: CIE Discovery**
@@ -103,6 +100,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
+    - 🟩 [[FE][BUG] - issues with scheduling tool on dev ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - 🟥 [[Design] Update wireframe for correct position of mixed language alert ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78253)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
@@ -120,7 +118,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal:  Support Travel for CERNER Sites**
+    - **Sub Goal:  MVP: Support Mileage-Only Travel Claims for OH Sites**
 - **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
     - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase PCI Usage**
@@ -139,7 +137,7 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
         - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
             - Rolled over from last sprint; 1 point left
         - ✔️ ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
@@ -191,7 +189,7 @@ ________________________________________________________________________________
 - **GOAL: Onboard New Team Members**
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
@@ -208,7 +206,7 @@ ________________________________________________________________________________
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ✔️ ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Support Travel for CERNER Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
         - ❗ 🟥 [Make content changes from CAIA ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75317)
             - This is the CAIA review ticket, we may or may not have feedback to address
         - ✔️ ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
@@ -265,7 +263,7 @@ ________________________________________________________________________________
  - **GOAL: Offboard Team Members**
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support Travel for CERNER Sites**
+     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
     - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
@@ -288,7 +286,7 @@ ________________________________________________________________________________
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - 🚧 ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Integrate with CERNER**
-    - **Sub Goal: Support Travel for CERNER Sites**  
+    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
         - ✔️ ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
         - ✔️ ❗ 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
         - ✔️ ❗ 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
@@ -330,7 +328,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: Support Travel for CERNER Sites**
+     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
