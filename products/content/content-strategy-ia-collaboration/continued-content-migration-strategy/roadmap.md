@@ -55,12 +55,12 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
   
 ## Recently completed migration efforts
 
-**Note:** These are high-engagement content sections within the top 1,000 pages across VA websites. These are also tied to, and being tracked by, the VA CIO's accessibility remediation efforts.
+**Note:** These are high-engagement content sections within the top 1,000 pages across VA websites. These are also tied to, and being tracked by, the VA CIO's accessibility remediation efforts. We are migrating **Veteran and beneficary content only** at this time.
 
-- Veteran community care content
-- Foreign medical program content
-- Board of Veterans Appeals content
-- Education rates content
+- Veteran community care content (https://www.va.gov/communitycare/programs/veterans/index.asp and subpages full section)
+- Foreign medical program content (within https://www.va.gov/communitycare/programs/veterans/index.asp)
+- Board of Veterans Appeals content (https://www.bva.va.gov/)
+- Education rates content (rates content within https://benefits.va.gov/gibill)
 - VEText FAQs (va.gov/health/vetext_faqs.asp)
 - Dental program (va.gov/healthbenefits/vadip/)
 - Some persona pages on main TeamSite nav (others need more extensive work/planning)
@@ -70,7 +70,7 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
   
 ## Currently in progress migration initiatives
 
-### VBA fact sheet library
+### VBA fact sheet library (benefits.va.gov/benefits/factsheets.asp)
 
 - **Status:** Audit of all fact sheets with recommendations complete and handed off to VBA digital media. Majority of fact sheets replaced with links.  
 
