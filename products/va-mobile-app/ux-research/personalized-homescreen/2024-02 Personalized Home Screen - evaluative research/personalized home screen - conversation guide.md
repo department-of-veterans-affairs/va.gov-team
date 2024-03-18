@@ -77,8 +77,9 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * For the next part of our conversation, we’re going to use the VA mobile app we just installed. 
 * Go ahead and do what you would do on this screen, and when you get to the screen with the letters “VA” at the top, stop and wait for instructions. Please remember to think aloud as you go.
 ### Task 0: First impressions (5 minutes)
-* **Non-screenreader user:** Take a look at this first screen. You can scroll up and down, but don’t touch anything yet. And please remember to think aloud as you go.
-* **Screenreader user:** Go ahead and explore this first screen. You can swipe through, but don’t tap or activate anything that you hear yet. If possible, think aloud as you go. Let me know when you’re finished.
+* Go ahead and explore this first screen.
+  * **Non-screenreader user:** You can scroll up and down, but don’t touch anything yet. And please remember to think aloud as you go.
+  * **Screenreader user:** You can swipe through, but don’t tap or activate anything that you hear yet. When you’re finished, please let me know and I’ll have you give a brief summary of what you heard. 
 * What stands out to you first on this screen?
 * I’d like to draw your attention to the part of the screen that says “Activity.” Without touching it yet, tell me: 
 * What do you think you can do with this part of the screen?
