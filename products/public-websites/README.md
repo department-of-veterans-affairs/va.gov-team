@@ -434,6 +434,8 @@ CAIA documentation for translation widgets / requirements: [https://github.com/d
 https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
 Single source of truth for VA Benefits meta information, used by the Sitewide Content team through VA.gov benefits. 
 
+Docs: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/structured-content/va-benefits-taxonomy/README.md
+
 Taxonomy launched in 2023, in pilot use by CAIA for managing benefits information with intent to expand its use / association with other Benefits content coming from the Drupal CMS. Not yet incorporated in VA.gov frontend. 
 
 ---

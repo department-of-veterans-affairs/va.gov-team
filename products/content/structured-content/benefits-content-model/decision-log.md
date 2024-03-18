@@ -20,7 +20,10 @@ Public websites epic covering content design and general discovery for this work
 
 ## Decision log
 
-### 9/12 MVP kickoff to CAIA
+### 3/7/24 VA Benefits Taxonomy documentation
+- Documentation added in a parallel directory for this new product: /products/content/structured-content/va-benefits-taxonomy
+
+### 9/12/23 MVP kickoff to CAIA
 - For MVP period we will relax role restrictions so that Content Editors can create/edit Official Benefit Name and API ID
 - CAIA will take a period of a few sprints to enter content into the MVP taxonomy and gather feedback. We will reconvene PW and CAIA to receive that feedback and determine next steps.
 
