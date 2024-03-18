@@ -1,8 +1,11 @@
 # Find a Form monitoring
 Oct 2023
 
-TOC: 
-[Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
+## TOC: 
+* [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
+* [Sentry monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md#sentry-find-forms-errors-report)
+* [Datadog monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md#datadog)
+* [Flagged Forms queues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/monitoring.md#flagged-forms)
 
 
 ## Sentry Find Forms errors report
@@ -45,10 +48,10 @@ Also noting from [Slack](https://dsva.slack.com/archives/CUB5X5MGF/p169531758894
 * **onDownloadLinkClick** function error = failure at `v0/forms` vets-api level, follow up with Platform team
 * **invalid PDF link** = failure at Lighthouse level, follow up with Lighthouse Forms team (#va-forms in DSVA slack).
 
-## Alarming
+## Datadog
 As of Oct 2023, Sentry will not email / post to Slack. So: we've set Datadog up to pull in Sentry data, in order to get alarms, e.g. the 3 monitors below.
 
-## Datadog: VA.gov find a form success rate below threshold
+### Datadog: VA.gov find a form success rate below threshold
 https://vagov.ddog-gov.com/monitors/169456
 What is: 
 * Monitor that checks for 200 (success) responses from the `v0/forms` API endpoint
@@ -63,19 +66,19 @@ To triage:
 * Check for error states / API response errors / logs
 
 
-## Datadog: Sentry Forms: Find Forms - Form Detail - onDownloadLink Click Error Monitor
+### Datadog: Sentry Forms: Find Forms - Form Detail - onDownloadLink Click Error Monitor
 https://vagov.ddog-gov.com/monitors/165098
 What is: 
 * Sentry-based Datadog report. We pull in Sentry data, every 5 minutes (minimum possible)
 * Warns / fails if we receive errors over a threshold
 
-## Datadog: Sentry Forms: Find Forms - Form Detail - invalid PDF link Error Monitor
+### Datadog: Sentry Forms: Find Forms - Form Detail - invalid PDF link Error Monitor
 https://vagov.ddog-gov.com/monitors/167982
 What is: 
 * Sentry-based Datadog report. We pull in Sentry data, every 5 minutes (minimum possible)
 * Warns / fails if we receive errors over a threshold
 
-## Datadog: Sentry Forms: Find Forms - Form Detail - invalid PDF accessed Error Monitor
+### Datadog: Sentry Forms: Find Forms - Form Detail - invalid PDF accessed Error Monitor
 https://vagov.ddog-gov.com/monitors/167983
 What is: 
 * Sentry-based Datadog report. We pull in Sentry data, every 5 minutes (minimum possible)
@@ -83,14 +86,14 @@ What is:
 
 
 
-## Datadog: Forms API error test
+### Datadog: Forms API error test
 https://vagov.ddog-gov.com/monitors/160197
 What is:
 * Synthetic test
 * Sends GET to https://api.va.gov/v0/forms
 * Reports 200, 429, or 502 responses
 
-## Datadog: VA Forms index: rate limit
+### Datadog: VA Forms index: rate limit
 https://vagov.ddog-gov.com/monitors/160407
 What is:
 * Metric monitor
@@ -100,7 +103,7 @@ Mitigation if warn/error:
 * request API limit increase: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase
 * Notify Platform team via Plat support request, to investigate any suspected DOS activity, if spike is that high. (?) verify this plan
 
-## Datadog: [Synthetics] GET vets-api /v0/forms (prod)
+### Datadog: [Synthetics] GET vets-api /v0/forms (prod)
 https://vagov.ddog-gov.com/monitors/91169
 What is:
 * Synthetic test
