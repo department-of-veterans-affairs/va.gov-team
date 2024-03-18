@@ -4,8 +4,8 @@
 [Supporting work](#Supporting-work) <br>
 [Criteria for prioritization](#Criteria-for-prioritization) <br>
 [Recently completed migration efforts](#Recently-completed-migration-efforts) <br>
-[Currently in progress migration initiatives](Currently-in-progress-migration-initiatives) <br>
-[Up next migration efforts](Up-next-migration-efforts)
+[Currently in progress migration initiatives](#Currently-in-progress-migration-initiatives) <br>
+[Up next migration efforts](#Up-next-migration-efforts)
 
 ## Purpose of migration
 
