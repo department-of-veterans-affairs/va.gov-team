@@ -1,7 +1,9 @@
 # Find a Form monitoring
 Oct 2023
 
+TOC: 
 [Public Websites Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard?refresh_mode=sliding&from_ts=1698247139212&to_ts=1698250739212&live=true)
+
 
 ## Sentry Find Forms errors report
 https://sentry.vfs.va.gov/organizations/vsp/discover/results/?id=19&project=4&statsPeriod=24h
@@ -104,3 +106,35 @@ What is:
 * Synthetic test
 * Sends GET to https://api.va.gov/v0/forms
 * Successful if we get a 200 response
+
+## Flagged Forms
+Manual monitoring process to review forms that are flagged during migration from Forms DB (> Lighthouse) into Drupal. We care about 3 classes of changes: 
+
+### 1. **Changed Title**
+
+https://prod.cms.va.gov/admin/content/va-forms/changed-title
+
+**Why**: Forms may be referred to by their Title in copy around VA.gov. If a form title changes, the Sitewide Content team may need to adjust site copy for those references.
+
+**Mitigation:** Confirm if Form Title (node title) in Drupal is updated as well. Flag for the Content team. If they have no concerns, the flag can be removed.
+
+### 2. **Changed filename**
+
+https://prod.cms.va.gov/admin/content/va-forms/changed-filename
+
+**Why:** The PDF filename in the Forms DB is used to generate a URL for that PDF on VA.gov. If the filename changes, the old URL will 404. That's bad if anyone (Veterans, Veteran support organizations, etc) have bookmarked a form link. It also affects SEO for that form.
+
+**Mitigation:** Reach out to the [Forms Manager](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#forms-managers) for the listed Administration (cc the Public Websites VA PO), and ask if the Forms Mgr is able to revert the filename.
+* If so: wait til the revert appears in Drupal, confirm the old PDF URL works on VA.gov, and remove the Changed Filename flag.
+* If not: Ask VA PO whether we should redirect the old PDF URL to the new URL. That's a VA judgment call.
+
+### 3. **New/Deleted forms**
+
+https://prod.cms.va.gov/admin/content/va-forms/new-deleted
+
+**Why:** To maintain good SEO, forms should always live at the same URL. The "Row ID" field in the Forms DB ties to the Row ID field in Drupal. In the past, sometimes a Forms Mgr has archived a form, and recreated it by the same name / same metadata, with a new Row ID. This generates a VA.gov url like va.gov/find-forms/form-name-0.  That `-0` happens when 2 pieces of content have identical names in Drupal, and is bad for SEO.
+
+**Mitigation:** Reach out to the [Forms Manager](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#forms-managers) for the listed Administration (cc the Public Websites VA PO), and ask them to revert to the old form. (Archive the new/recreated form; unarchive the previous version of the form at the original row ID.)
+* If a New form appears that isn't a dupe of an archived form: leave the flag. The Sitewide Content team also uses this queue to review which new forms might warrant having their own published page.
+* If a Deleted form isn't duplicated by a new form: remove the Deleted flag. 
+
