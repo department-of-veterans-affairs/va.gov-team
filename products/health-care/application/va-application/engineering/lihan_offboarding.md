@@ -115,8 +115,11 @@ Don't repeat yourself, don't overengineer architecture.
 5. Collaboration and Communication:
 * How have you typically collaborated with other team members, both within and outside the engineering team?  
    * DSVA Slack Channels
-      * Entire team #1010-health-apps
-      * Dev team #1010-dev-team
+      * Entire team - #1010-health-apps
+      * Dev team - #1010-dev-team
+      * OCTO / VES - #octo-ves-healthcare-enrollment
+      * Health Tools Monitoring - #health-tools-1010-apm
+      * CARMA / VA.gov - #vecms-carma_vadotgov_development_external
 
 Slack DMs, slack huddles, zoom meetings, email
 
