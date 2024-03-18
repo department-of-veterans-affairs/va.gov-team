@@ -151,5 +151,5 @@ Nothing more to add that I haven't already mentioned.
 
 We have to have conversations with Josh Faulkner or someone else on the VES team. Sample request for TERA fields was provided to me by Meena on the VES team.
 
-32/18/2024  Knowledge Transfer Session Recording: https://us06web.zoom.us/rec/share/8MXU6JkTnUpz4dUfKPqbN-N4XMCL2wTHPDMSuiHFdFf6WDqO8QftT5WJqiTpXc88.LpC8gjVkxUCvBZfI 
+3/18/2024  Knowledge Transfer Session Recording: https://us06web.zoom.us/rec/share/8MXU6JkTnUpz4dUfKPqbN-N4XMCL2wTHPDMSuiHFdFf6WDqO8QftT5WJqiTpXc88.LpC8gjVkxUCvBZfI 
 Passcode: r5i77W&E
