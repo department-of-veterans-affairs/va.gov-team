@@ -137,7 +137,7 @@ We spoke with 16 veterans. P8, who served in the Coast Guard in the 1960s, had n
 #### FINDING 3 
 Regarding `militaryServiceEpisodes`, `branchOfServiceText` and `periodOfServiceTypeText` (active/reserves/etc.) were the most reliably accurate data values according to participants. `periodOfServiceBeginDate` and `periodOfServiceEndDate` were mostly accurate, but some were wrong by a few months or days. `characterOfDischargeText` values were mostly accurate, expect for a few null values. `narrativeReasonForSeparationText` were mostly correct, except for 1 unavailable value and 2 incorrect values according to participants. The two latter incorrect values are covered below:
 
-Before walking through the data together, P7 explained their lengthy process for trying to get accurate medical records to support their claim: 
+Before walking through the data together, P7 (Marine Corps) explained their lengthy process for trying to get accurate medical records to support their claim: 
 >When they finally gave me a 20% rating, it took them seven years to give the first check because they said that I owed them severance pay. But when you look on my DD214, I got 0 for servants pay. They haven't gave me back that at all. They haven't gave me back any back pay from my first claims. I've filed multiple times with nothing.
 
 When we reached the `narrativeReasonForSeparationText`, P7’s data value was “DISABILITY, SEVERANCE PAY”. P7 reacted strongly to seeing this:
