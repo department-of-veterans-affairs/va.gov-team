@@ -74,12 +74,25 @@ We currently have the following qualitative metrics:
   - VA stakeholder End-to-End testing
 
 ### What're you building
-- Provide an updated facility selection page that is easy to use and understand.
-  - Connect with active Facilities API in place of the current static JSON file
-  - Revisit UI against the current Facilities selection page on VA.gov and other private sector locator search pages
-  - Conduct research/usability sessions with Veterans to determine the best, easiest to use design
-  - Redesign facility selection page
-    - Provide Veterans with an idea of location of any given facility to ensure they can select the one that is correct for them.
+#### In Scope
+- Update UI to allow for dynamic facility location search based on City, State or Zip Code
+- Only one facility can be selected
+- Display facility name and address in the list of facilities returned from search
+
+
+#### Out of Scope
+- Changes to other sections of the online form
+- Allowing for name or address search
+- Allowing for radius/distance search
+- Connecting to Facility Locator page for selections
+- Display a map for visual reference
+- Selecting multiple facilities
+
+
+## Dependencies
+- Lighthouse Facilities API connection
+- End-to-End testing with Enrollment system to ensure Facility codes are sent as expected (This is an existing process today)
+
 --- 
 
 ## Launch Planning
@@ -96,8 +109,8 @@ We currently have the following qualitative metrics:
 
 ### Incident Response Info
 - The 1010EZ form is currently in production
-- We are calling a new API (API NAME NEEDED)
-- We are changing how the facility list is retrieved (MORE INFO WILL BE NEEDED HERE)
+- We are calling a new Lighthouse Facilities API
+- We are changing how the facility list is retrieved - search by city, state or zip code
 - Full application flow/ less than 50% disability rating ([chart](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/zxZzO2l))
 - 1010EZ [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
 
