@@ -154,5 +154,11 @@ Nothing more to add that I haven't already mentioned.
 
 We have to have conversations with Josh Faulkner or someone else on the VES team. Sample request for TERA fields was provided to me by Meena on the VES team.
 
+* How to fix errors in prod:  
+
+Look up stack trace using datadog or sentry. Look up logged form using [argocd ](https://argocd.vfs.va.gov/)    
+
+Logs are saved in `PersonalInformationLog` table. https://github.com/department-of-veterans-affairs/vets-api/blob/ae2a15b84ced7573e8cc3c972ba5e77899c39971/app/models/health_care_application.rb#L257
+
 3/18/2024  Knowledge Transfer Session Recording: https://us06web.zoom.us/rec/share/8MXU6JkTnUpz4dUfKPqbN-N4XMCL2wTHPDMSuiHFdFf6WDqO8QftT5WJqiTpXc88.LpC8gjVkxUCvBZfI 
 Passcode: r5i77W&E
