@@ -46,16 +46,11 @@ Examples of mid-flow **and** end of flow file upload:
 - If an answer triggers the need for another document, tell the user that we'll ask for that document at the end, but don't require upload until the end.
 - When you ask for documents at the end, dynamically request only the documents each user needs to provide, based on their answers.
 
-### Question 2: Ask for files dynamically based on answers vs. list all possible files with conditional statements?
-
-### Question 3: One-file-per-page upload screens vs. multi-file upload screens?
+### Question 2: One-file-per-page upload screens vs. multi-file upload screens?
 
 ### Other open questions:
 - How to handle optional files
-- When to use "file" vs "document" vs "evidence" vs "records"
-
-- Records and documents turn into evidence when they're attached to a claim
-- 
+- When to use "file" vs "document" vs "evidence" vs "records." Consider adding guidance to style guide describing each scenario. For example, "Records and documents turn into evidence when they're attached to a claim"
 
 ## Hint text
 Form teams are adding hint text to form screens in varying ways, and VADS doesn't provide detailed guidance for when and how to use it.
