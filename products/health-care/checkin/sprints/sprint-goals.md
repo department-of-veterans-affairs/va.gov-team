@@ -100,6 +100,7 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
+    - 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
     - 🟩 [[FE][BUG] - issues with scheduling tool on dev ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - 🟥 [[Design] Update wireframe for correct position of mixed language alert ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78253)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
