@@ -87,7 +87,7 @@ This research will help us understand if/how the personalized app home screen de
   * Screenreader users scheduled in a block (with a11y ride along support)
   * Non-screenreader users scheduled in a block
 * As a part of the screening process, we will have Perigean:
-  * Confirm that participants are iPhone users.
+  * Confirm that participants are iPhone or iPad users.
   * Confirm that participants have downloaded Zoom onto their mobile device (and can use it to screen share) before the research session.
   * Confirm that participants are willing and have room on their device to install two apps—Testflight and a pre-release build of the VA mobile app—on their mobile devices to use during the session (we will help them remove them). The Testflight app is 12.6 MB and the VA mobile app is 55 MB.
   * Provide users with a link to the Testflight app and confirm that participants have installed Testflight on their mobile device before the research session. 
@@ -112,8 +112,8 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 
 #### Primary criteria
-* All participants must be iPhone mobile users.
-* All participants must be willing to do an activity from their iPhone mobile device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
+* All participants must be iPhone or iPad users.
+* All participants must be willing to do an activity from their iPhone or iPad device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
 * All participants must be able to independently log into the VA Health and Benefits mobile app using their VA login credentials.
   * Please confirm via phone follow-up that if the user were to get logged out of the app suddenly, they are able to log back in on their own using their credentials. 
 * At least 8 participants should be active monthly users of the VA Health and Benefits mobile app.
@@ -136,7 +136,7 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session using an iPhone?**  Note: Android mobile phones will not work for the session
+**1. Are you able to join the Zoom session using an iPhone or iPad?**  Note: Android mobile phones will not work for the session
 Response options: yes or no  
 *(If yes, proceed to 1a. If no, disqualify the participant)*
 
