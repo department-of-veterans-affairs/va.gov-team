@@ -5,8 +5,8 @@ All background, historical, discovery, and status/maintenance documentation for 
 ## Product Brief information
 - [Product Brief](#find-forms-product-brief)
 - [KPIs](#kpis)
-- [MVP Problem statement, Status, and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/README.md)
-    - [Go To Market Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/README.md#go-to-market-strategy)
+- [MVP Problem statement, Status, and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/README.md)
+    - [Go To Market Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/README.md#go-to-market-strategy)
 - [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/post-mvp-status-and-decisions.md)
 
 

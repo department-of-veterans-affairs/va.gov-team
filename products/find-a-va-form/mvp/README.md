@@ -14,7 +14,7 @@
     - [Post-MVP](#post-mvp)
     - [MVP](#mvp)
 - [Search Landing Page MVP Status and Decisions](#mvp-search-landing-page-status-and-decisions)
-- [Form Detail Page MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/form-detail-landing-pages/status-and-decisions.md)
+- [Form Detail Page MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/form-detail-landing-pages/status-and-decisions.md)
 
 
 ----
