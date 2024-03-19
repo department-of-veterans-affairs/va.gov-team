@@ -26,7 +26,8 @@ Validate the participant uses the VA Health and Benefits app and get permission 
   * There are no right or wrong answers, and I won’t be offended by any opinions you express. We just want to hear your opinions, so that we can improve the mobile app and make it work better for everyone.
   * There’s no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
   * This entire session should take about 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-  * First, we’ll download and install a special version of the VA mobile app on your phone to use during our conversation. Then, we’ll talk together before moving to a part where I’ll ask you to use that special version of the VA mobile app. I will help you get it set up. Before we do that, I want to confirm a few things:
+  * First, we’ll download and install a special version of the VA mobile app on your mobile device to use during our conversation. Then, we’ll talk together before moving to a part where I’ll ask you to use that special version of the VA mobile app. I will help you get it set up. Before we do that, I want to confirm a few things:
+    * Were you able to join our session today using Zoom on your iPhone or iPad?
     * Are you still ok with downloading & installing a special version of the VA mobile app on your phone today?
     * Were you able to check to make sure you had enough room on your phone to download and install it?
     * Last, we are going to need you to be able to log into the VA mobile app using the option you prefer (Login.gov, ID.me or My HealtheVet) with your username and password for our session. Will you be able to do that?
@@ -41,16 +42,25 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 ## Section 1: App setup & screenshare (10 minutes)
  * During our session today, I am going to have you imagine a series of situations using a special version of the VA mobile app and in a few minutes I'm going to send you a link to a special version of the app to explore. We’re going to get all of that set up now.
 ### Screen share Setup
- * First, I’d like to ask you to share your phone screen so I can help you install the app and we can look at it together. I can walk you through how to start the screen share.
+ * First, I’d like to ask you to share your  device’s screen so I can help you install the app and we can look at it together. I can walk you through how to start the screen share.
 *[Help participant share screen]*
    * [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+   * _If they have screen curtain on:_ It looks like you have screen curtain enabled—we’ll need to turn it off. To turn it off—use 3 fingers and triple tap.
  * Great, I’m seeing your screen. Now I’m going to help you get the app ready.
 
 ### App Install & log in
  * Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build]
- * Tap to download and install the VA health & benefits mobile app. I will help you uninstall the app at the end of the conversation.
+ * If Testlflight not installed: 
+   * Scroll to the first button that says “View in App Store”
+   * Tap to Install Testflight
+   * Now we’re going to navigate back to that screen we were looking in the browser. Go ahead and do that. Ok, here we are.
+
+ * Scroll down the screen til you get to a button that says Start Testing to tap to download and install the VA health & benefits mobile app. I will help you uninstall the app at the end of the conversation.
+   * Tap Don’t Allow, then tap Continue.
+   * Now go ahead and tap Install.
    * ***If they can’t download successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
  * Ok, tap Open to open the app.
+   * Tap the Next button, then tap Start Testing.
    * *Participant will be on Sign In screen—confirm that version number at bottom of the screen is #.#.#. If it’s not, try again to get the build installed.* 
  * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. When we get there, we’ll stop and do some warm up questions before using the app.
  * **Log in:** First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
@@ -201,4 +211,5 @@ Thank you so much again, and enjoy the rest of your day!
 We will be using the ‘out of questions’ exit strategy if an emergency arises:
 Exit strategy: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
-
+## Appendix
+[Conversation guide questions mapped to research goals](https://docs.google.com/document/d/1_m6N0dQHscgyzOskgWBEVUyfHEO8nZdHq1TsaE3kE40/edit?pli=1#heading=h.wqx2tuo99scu)
