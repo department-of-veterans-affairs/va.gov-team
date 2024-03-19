@@ -2,9 +2,12 @@
 
 Direct deposit is moving to a single form, so all the logic for EDU vs CNP needs to be going away, and one from will be resposible for both. This form will essentially be an extension/leverage functionality of the current CNP form as the EDU part is basically getting absorbed into the database that handles CNP currently.
 
-How do we migrate cleanly to a single form? 
+How do we migrate cleanly to a single form?
+
 How do we deal with all the references to CNP vs EDU in the current code?
+
 How do we make the deprecation of the 2 form version as painless as possible?
+
 Where do we refactor and clean up the existing logic to learn from any past mistakes or code smells?
 
 
