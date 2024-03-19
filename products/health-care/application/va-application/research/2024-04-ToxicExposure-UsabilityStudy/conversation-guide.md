@@ -103,7 +103,7 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [How easy would it be for participants to upload their DD-214?]
 - [Do Veterans expect to or want to upload other supporting evidence for TERA?]
 
-- ## Second Task: Document upload - 5 minutes
+## Third Task: Document upload - 5 minutes
 - [When they get to DD-214 upload page] How easy or difficult would it be for you to upload your discharge papers? Do you usually have those handy?
 - Are there any other documents you would either expect to be asked to upload here or want to upload in support of your responses to the toxic exposure questions we just went through?
 
