@@ -67,7 +67,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
 
 - **Eligibility Link** - minor refactor to remove conditional text
 
-- **PaymentHistory** - No changes required
+- **PaymentHistory** - No changes required, although Travis did bring up a good point that this will need to show regardless of DD enrollment state in the new experience
 
 - **PaymentInformationEditError** - rename to BankInfoErrorAlert or similar, go through each error content and make sure its set up for single form
   
