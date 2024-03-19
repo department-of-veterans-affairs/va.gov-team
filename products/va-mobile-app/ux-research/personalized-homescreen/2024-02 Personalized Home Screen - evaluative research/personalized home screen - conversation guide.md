@@ -85,25 +85,27 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 
 ## Section 3: Evaluative Conversation (25-30 min)
 * For the next part of our conversation, we’re going to use the VA mobile app we just installed. 
-* Go ahead and do what you would do on this screen, and when you get to the screen with the letters “VA” at the top, stop and wait for instructions. Please remember to think aloud as you go.
+* Go ahead and do what you would do on this screen, and when you get to the screen with the letters “VA” at the top, stop and wait for instructions. 
 ### Task 0: First impressions (5 minutes)
 * Go ahead and explore this first screen.
   * **Non-screenreader user:** You can scroll up and down, but don’t touch anything yet. And please remember to think aloud as you go.
   * **Screenreader user:** You can swipe through, but don’t tap or activate anything that you hear yet. When you’re finished, please let me know and I’ll have you give a brief summary of what you heard. 
 * What stands out to you first on this screen?
-* I’d like to draw your attention to the part of the screen that says “Activity.” Without touching it yet, tell me: 
+* I’d like to draw your attention to the part of the screen that says “Activity.”
+   * **Non-SR user:** Without touching it yet, tell me: 
+   * **SR user:** If you want swipe through that part of the screen to get familiar again, I’d like to ask you a question about it. Let me know when you’re done.
 * What do you think you can do with this part of the screen?
   * *If there are modules:*
-    * What do you think these things/modules/links are that are listed under the word “Activity”?
-    * Is there anything else you’d expect to see here under the word “Activity” that you don’t see right now?
-  * *If there are not any modules:* What would you expect to be here in this section under the word “Activity”?
+    * What do you think these items/modules/links are that are listed after the word “Activity”?
+    * Is there anything else you’d expect to see here after the word “Activity” that isn't there right now?
+  * *If there are not any modules:* What would you expect to be here in this section after the word “Activity”?
 * *If they have not scrolled down below Activity*: Go ahead and explore the rest of the screen. What are you thinking about now?
 * Based on what you’re seeing here on this first screen, what do you think that this app does for Veterans?
 * Ok, thank you for that.
 * Now, I am going to ask you to imagine a series of situations and I’d like you to use the app to work through them. Please think aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 ### Task 1: Show proof that you are a Veteran (5 minutes)
-* **PROMPT:** Imagine that you are out shopping, and you see that the store offers a discount to Veterans. Without tapping on anything yet, how might you use this app to show the store clerk proof that you are a Veteran? 
+* **PROMPT:** Imagine that you are out shopping, and you find out that the store offers a discount to Veterans. Without tapping on anything yet, how might you use this app to show the store clerk proof that you are a Veteran? 
 * Go ahead and use the app to show proof that you are a Veteran and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
 * Ok, thank you for that.
 * *Move on to next task immediately—Don’t have them return to home to begin next task*
