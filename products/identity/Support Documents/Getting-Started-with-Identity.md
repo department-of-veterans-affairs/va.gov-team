@@ -17,6 +17,7 @@ Click to [learn more about our products](https://github.com/department-of-vetera
 
 For information about our Sign In service onboarding process, please review our [Sign-In service (SiS) documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
 
-Identity team main point of contact: Tom Black, thomas.black2@va.gov
+Identity team main point of contact: Tom Black, thomas.black2@va.gov and Samara Strauss samara.strauss@va.gov
+
 
 Have you worked with the Identity team before? Take our [satisfaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey).
