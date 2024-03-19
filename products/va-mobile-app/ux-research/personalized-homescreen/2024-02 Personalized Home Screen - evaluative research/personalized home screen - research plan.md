@@ -193,9 +193,9 @@ Availability for a kick-off call, in Eastern times:
 - Date and time of non-screenreader pilot session: **TBD**  
 
 ### Research sessions
-* Planned dates of research: **TBD** (depends on readiness of build from ENG)
-If release build is ready 4/9: **April 22-May 2**
-If release build is ready 4/23: **May 6-16**
+* Planned dates of research: **TBD** (depends on readiness of build from ENG)  
+If release build is ready 4/9: **April 22-May 2**  
+If release build is ready 4/23: **May 6-16**  
 
 ### Length of sessions
 * Sessions will be 60 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
