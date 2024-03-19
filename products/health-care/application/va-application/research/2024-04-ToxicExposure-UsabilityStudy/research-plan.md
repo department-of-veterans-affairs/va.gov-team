@@ -130,11 +130,11 @@ What demographics, experience, and scenarios do you need participants to meet to
 ### Availability
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| April 1, 2024 	|  12am - 6pm ET 	|
+| April 1, 2024 	|  12pm - 6pm ET 	|
 | April 2, 2024  	|  11am - 6pm ET 	|
 | April 3, 2024  	|  10am - 6pm ET 	|
 | April 4, 2024  	|  11am - 6pm ET 	|
-| April 5, 2024  	|  12am - 6pm ET 	|
+| April 5, 2024  	|  12pm - 6pm ET 	|
 
 
 	
