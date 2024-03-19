@@ -92,6 +92,7 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly if you're comfortable with it because we're curious about an eligible Veteran's experence going through this form.
 - [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? [If no:] How would you find out what they were? How long would that take you?
 - [When they get to DD-214 upload page] How easy or difficult would it be for you to upload your discharge papers? Do you usually have those handy?
+- Are there any other documents you would either expect to be asked to upload here or want to upload in support of your responses to the toxic exposure questions we just went through?
 
 ### Things to watch for:
 
@@ -100,6 +101,7 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [Are Veterans able to answer the questions by just reading them, or do they need to reference other information to verify their answers?]
 - [Do participants express any confusion or frustration that VA should have their service history?]
 - [How easy would it be for participants to upload their DD-214?]
+- [Do Veterans expect to or want to upload other supporting evidence for TERA?]
 
 ## Third Task: Remainder of form - Rest of session until about 5 minutes remain
 - Okay let's keep going through the form. It'd be really helpful if you can think out loud and explain what each section of the form means to you as you work through the questions.
