@@ -105,17 +105,17 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * Now, I am going to ask you to imagine a series of situations and I’d like you to use the app to work through them. Please think aloud as you go, so I better understand what steps you are taking and why. If you find anything frustrating or confusing as part of this process, please feel free to share that feedback too. 
 
 ### Task 1: Show proof that you are a Veteran (5 minutes)
-* **PROMPT:** Imagine that you are out shopping, and you find out that the store offers a discount to Veterans. Without tapping on anything yet, how might you use this app to show the store clerk proof that you are a Veteran? 
+* **PROMPT:** Imagine that you are out shopping, and you find out that the store offers a discount to Veterans. Without doing anything yet, how might you use this app to show the store clerk proof that you are a Veteran? 
 * Go ahead and use the app to show proof that you are a Veteran and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
 * Ok, thank you for that.
 * *Move on to next task immediately—Don’t have them return to home to begin next task*
 
 ### Task 2a: Check the status of your disability claim (5 minutes)
 *If user has no Claims module, skip to 2b.*
-* Our next task deals with disability claims. Do you have an open disability cIaim or appeal?
-  * *If yes:* How often would you say you check on the status of that disability cIaim or appeal?
+* Our next task deals with disability claims. Do you have an open disability claim or appeal?
+  * *If yes:* How often would you say you check on the status of that disability claim or appeal?
   * How do you feel about the frequency and time you’re spending doing that?
-* **PROMPT:** Imagine that today you’d like to see the status of your open disability claim/appeal. Without touching anything, how would you expect to do that?
+* **PROMPT:** Imagine that today you’d like to check the status of your open disability claim/appeal. Without doing anything yet, how would you expect to do that?
 * Go ahead and use the app to check the status of your claim, and please remember to think aloud as you go. Once you’re there, stop and wait for the next instruction.
 * Ok thank you for that. Let’s go back to the first screen. 
 * *If they did not use the blue module as entry point:* 
@@ -125,14 +125,14 @@ Validate the participant uses the VA Health and Benefits app and get permission 
       * I want to draw your attention to the blue box/link that says “Claims.” What do you think would happen if you were to tap that?
       * Go ahead and tap it. Is that what you expected to happen?
   * Ok thank you for that. Let’s go back to the first screen again. 
-* I want to draw your attention to the bold text under the word “Claims.” What do you think of having that particular piece of information here on this screen?
-* Is there anything that you think would be more helpful to see here instead?
+* I want to draw your attention to the text after the word “Claims.” What do you think of having that particular piece of information here on this screen?
+* Is there anything that you think would be more helpful to include here instead?
 * Ok, thank you for that.
 
 ### Task 2b: Health task (IF APPLICABLE, CHOOSE ONE) (5 min)
 *If the user has one or more Health feature modules visible, choose ONE for the task prompt. If there are no Health feature modules, proceed to Task 3.*
 #### Appointments
-* **PROMPT:** You have a doctor’s appointment coming up soon. Imagine that you want to double check the time of that appointment. Without tapping on anything, how would you do that?
+* **PROMPT:** You have a doctor’s appointment coming up soon. Imagine that you want to double check the time of that appointment. Without doing anything yet, how would you do that?
 * Go ahead and do what you would do to check the time of your next appointment and please remember to think aloud as you go. Once you’re done, stop and wait for the next instruction.
 * Ok thank you for that. Let’s go back to the first screen. 
 * *If they did not use the blue module as entry point:* Is there anything here on this screen that you think you could use to double check the time of your doctor’s appointment?
@@ -141,11 +141,11 @@ Validate the participant uses the VA Health and Benefits app and get permission 
     * I want to draw your attention to the blue box/link that says “Appointments.” What do you think would happen if you were to tap that?
     * Go ahead and tap it. Is that what you expected to happen?
     * One more time, let’s go back to that first screen.
-* I want to draw your attention to the bold text under the word “Appointments.” What do you think of having that particular piece of information here on this screen?
-* Is there anything that you think would be more helpful to see here?
+* I want to draw your attention to the text after the word “Appointments.” What do you think of having that particular piece of information here on this screen?
+* Is there anything that you think would be more helpful to include here?
 
 #### Prescriptions
-* **PROMPT:** Imagine that you’d like to check to see if you have any prescriptions that need to be refilled. Without tapping on anything, how would you do that?
+* **PROMPT:** Imagine that you’d like to check whether you have any prescriptions that need to be refilled. Without doing anything yet, how would you do that?
 * Go ahead and do what you would do to check for refillable prescriptions and please remember to think aloud as you go. Once you’re done, stop and wait for the next instruction.
 * Ok thank you for that. Let’s go back to the first screen. 
 * *If they did not use the blue module as entry point:* Is there anything here on this screen that you think you could use to see if you had prescriptions that can be refilled?
@@ -154,12 +154,12 @@ Validate the participant uses the VA Health and Benefits app and get permission 
     * I want to draw your attention to the blue box/link that says “Prescriptions.” What do you think would happen if you were to tap that?
     * Go ahead and tap it. Is that what you expected to happen?
     * One more time, let’s go back to that first screen.
-* I want to draw your attention to the bold text under the word “Prescriptions.” What do you think of having that particular piece of information here on this screen?
-* Is there anything that you think would be more helpful to see here?
+* I want to draw your attention to the text after the word “Prescriptions.” What do you think of having that particular piece of information here on this screen?
+* Is there anything that you think would be more helpful to include here?
 
 #### Messages
-* **PROMPT:** Imagine that you’re expecting a reply from a message you recently sent to your doctor. Without touching anything, how would you expect to use the app find out if you have a reply from them?
-* Go ahead and use the app to see if you have a reply from your doctor  and please remember to think aloud as you go. Then stop and wait for the next instruction.
+* **PROMPT:** Imagine that you’re expecting a reply from a message you recently sent to your doctor. Without doing anything yet, how would you expect to use the app find out if you have a reply from them?
+* Go ahead and use the app to check if you have a reply from your doctor  and please remember to think aloud as you go. Then stop and wait for the next instruction.
 * Ok thank you for that. Let’s go back to the first screen. 
 * *If they did not use the blue module as entry point:* Is there anything here on this screen that you think you could use to find out if you have a reply?
   * If yes: Go ahead and do that.
@@ -167,15 +167,17 @@ Validate the participant uses the VA Health and Benefits app and get permission 
     * I want to draw your attention to the blue box/link that says “Messages.” What do you think would happen if you were to tap that?
     * Go ahead and tap it. Is that what you expected to happen?
     * One more time, let’s go back to that first screen.
-* I want to draw your attention to the bold text under the word “Messages.” What do you think of having that particular piece of information here on this screen?
-* Is there anything that you think would be more helpful to see here?
+* I want to draw your attention to the text after the word “Messages.” What do you think of having that particular piece of information here on this screen?
+* Is there anything that you think would be more helpful to include here?
 * Ok, thank you for that.
 
 
 ### Task 3: VA Letters (5 minutes)
-* **PROMPT:** Imagine that you are applying for a VA home loan, and you need to provide your benefit verification letter with your application.  Without touching anything, how would you expect to use the app to get that letter?
+* **PROMPT:** Imagine that you are applying for a VA home loan, and you need to provide your benefit verification letter with your application.  Without doing anything yet, how would you expect to use the app to get that letter?
 * Go ahead and use the app to locate the letter and please remember to think aloud as you go. Then stop and wait for the next instruction.
-* Going back to that first screen, looking at the Activity list again, why do you suppose that VA Letters is not included in this list?
+* Let’s go back to that first screen one more time, to the Activity section.
+* (screenreader user: To close this letter screen out, tap Done)
+* Now looking at the Activity list again, why do you suppose that VA Letters is not included in this list?
 * Ok, thank you for that. 
 
 ### Task 4: Reflections (5 minutes)
