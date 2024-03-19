@@ -193,17 +193,24 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 ## Section 4: Thank-You and Closing (5 minutes)
 ### App + Testflight uninstall 
 * Ok, we are finished with the special version of the VA mobile app we installed today. Now I’m going to help you remove the special version of the VA mobile app and the Testflight app you installed on an earlier call from your phone. 
-  * First, close the VA mobile app. 
-  * Find the Testflight app icon on your phone. Touch the app icon until a menu until a minus icon appears, then tap it again. Select delete app. 
+  * First, close the VA mobile app (swipe up with 3 fingers to close) and go to your device home screen. 
+  * Find the Testflight app icon on your phone. 
+     * **NonSR:** Touch the app icon until a menu until a minus icon appears, then tap it again. Select delete app. 
+     * **SR:** Double tap but hold until a menu appears. Select delete app. 
   * The Testflight app is now uninstalled from your phone.
-  * Next, find the VA app icon on your phone. Touch the app icon until a menu until a minus icon appears, then tap it again. Select delete app. 
+  * Next, find the VA app icon on your phone. 
+     * **NonSR:** Touch the app icon until a menu until a minus icon appears, then tap it again. Select delete app. 
+     * **SR:** Double tap but hold until a menu appears. Select delete app. 
   * The VA mobile app is now uninstalled from your phone.
-* **If the participant is a current app user:** Now, I can help you get the current version of the VA mobile app back on your phone. We'll go to the Play Store to download it, and then you can log in with your username and password. Did you want to do that together, or did you prefer to do it by yourself?
+
+* **If the participant is a current app user:** Now, I can help you get the current version of the VA mobile app back on your phone. We'll go to the App Store to download it, and then you can log in with your username and password. Did you want to do that together, or did you prefer to do it by yourself?
   * If yes:
     * Go to the App store
-    * Download VA mobile app.
+    * Download/redownload VA mobile app. Tap Open.
     * Log in with your credentials.
-* Great. All done! You can stop sharing your screen. Swipe the little arrow on the left, then select Stop Share.
+* Great. All done! You can stop sharing your screen.
+    * **NonSR:** Swipe the little arrow on the left, then select Stop Share.
+    * **SR:** Go back to Zoom, in the menu, go all the way to the right and select Stop Share. 
   * Instructions: [iOS: Stop screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-stop-screen-share)
 
 We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the app and improve it for Veterans.
