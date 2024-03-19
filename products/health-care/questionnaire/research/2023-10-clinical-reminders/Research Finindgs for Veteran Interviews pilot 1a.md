@@ -43,15 +43,14 @@ The goal of this researh is to discover the following:
 ### Recruitment
 -  2 participants were recruited using a poster displayed at VA facilities in Butler, PA. and Minneapolis, MN. 
 -  13 participants were recruited using Perigean recruitment services.
-  <br> 
- <br>
  
+
 ### Dates of Sessions 
-November 17, 2023 - January 12, 2024.
+-  November 17, 2023 - January 12, 2024.
 
  
 ### Research Sessions
-1-hour moderated semi-structured interviews via Microsoft Teams.
+-  1-hour moderated semi-structured interviews via Microsoft Teams.
 
 
 ### Protoype Software
