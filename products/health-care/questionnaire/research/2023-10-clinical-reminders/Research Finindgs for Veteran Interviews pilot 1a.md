@@ -4,11 +4,11 @@ The volume of clinical reminders has been impacting the quality of the time the 
 
 
 ## Research Links
-- Research Plan
-- Prototype
-- Conversation Guide
-- Notetaker Participant Transcripts Folder
-- Usability Test Findings PDF
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/research-plan.md)
+- [Prototypes-Sample emails and texts messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/2023-10-clinical-reminders)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/conversation-guide.md)
+- [Notetaker Participant Transcripts Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/transcripts)
+
 
 ## How this research maps to the Veteran journey
 - Taking care of myself
