@@ -82,7 +82,7 @@ Engagement
 ## Initiatives
 - MVP
 - Post-MVP
-- [PDF audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/pdf_audit_2021/pdf_audit_2021.md) - 2021
+- [PDF audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-09-pdf-audit/pdf_audit_2021.md) - 2021
 - [VA Form Data Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/form-data-mgmt/data_eval-Feb-2020.md) - Feb 2021
 - [Sort by last updated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/sort-by-last-updated/release-plan.md) - Feb 2021
 - [Language support discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/language-support/meetings/meeting-notes.md) - April 2021

@@ -134,7 +134,7 @@ Deprioritized epic, 2022.
 ### Find a VA Form PDF Audit
 - Conducted September 2021
 - Follow-up exercise after research study revealed issues that were not anticipated.  This audit was conducted for the purpose of determining how widespread the the issues observed were in PDF forms available from find Find a VA Form.
-- [Audit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/pdf_audit_2021/pdf_audit_2021.md)
+- [Audit information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-09-pdf-audit/pdf_audit_2021.md)
 
 ### PDF Download Research Study
 - Conducted July 27 - 30 2021 by Cindy Merrill
