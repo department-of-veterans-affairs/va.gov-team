@@ -15,7 +15,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [Name] and [Perigean?] is taking notes.
+Thanks for joining us today! My name is [Name] and I have a note taker here with me.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about questions on the VA health care application regarding toxic exposure.
