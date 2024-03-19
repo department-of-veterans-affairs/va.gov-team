@@ -9,6 +9,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
    * [Global Epic](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7668)
 * **Updating Epic cards (Kelly)**
    * How can we build into our process a way for us to keep Epic cards updated consistently?
+       * Kelly to create new Epic template to discuss with our team then get Rachel's feedback.
 * **Team Health (Jen, Tim, Matt)**
    * How to measure the health of our teams?
 
