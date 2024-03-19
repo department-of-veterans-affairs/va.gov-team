@@ -51,7 +51,7 @@ UI updated 2021-06-14
   - When a user searches for a form that was once valid, but has since been deleted/deprecated, a message is displayed to indicate deleted form.
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/deleted_form.png
+  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/deleted_form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -69,7 +69,7 @@ UI updated 2021-06-14
   - When a user searches for a VA form that is not valid, and was not valid in the past, a message is displayed to indicate invalid search.
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/invalid_form.png
+  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/invalid_form.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -92,7 +92,7 @@ Closest match option added 2021-06-14
        - Last updated (oldest)
 
 * **Link to designs:** 
-  - Prototype: (PNG FILE) https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/sort_by_relevance.png
+  - Prototype: (PNG FILE) https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/sort_by_relevance.png
 
 * **Instructions to access in Staging
   - https://staging.va.gov/find-forms/
@@ -158,7 +158,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
     - the standard set of "helpful links.
 
 * **Link to designs:** 
-    - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/min_detail_page_UI_change.png
+    - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/min_detail_page_UI_change.png
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5891
@@ -180,7 +180,7 @@ Updated 2021-06-21 -- links added to Related Forms
   - Related forms and instructions - Update 2021-06-21 - Any related forms listed here should link to its own detail page (if one exists)
   - Custom "Helpful links related to {dynamic:form nbr}" 
 
-* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
+* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
@@ -197,7 +197,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
     - data that's coming from the source VA forms database
    
 * **Link to designs:** 
-  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/min_detail_page_UI_change.png
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/min_detail_page_UI_change.png
   
 * **Possible QA-example**
   - http://forms.demo.ci.cms.va.gov/find-forms/about-form-10-2649b?_format=static_html \[published with not custom-data edits; should still have Related to: & standard Helpful links (see minimal-content design PDF above)]
@@ -250,7 +250,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
 
 * **Link to designs:** 
   - Prototype (PNG FILE):
-  - Initial state: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
+  - Initial state: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
   - After clicking on Downloadable PDF action link: https://user-images.githubusercontent.com/68560244/140093362-5180a9d1-58ae-496f-b824-58c79655505c.png - note - prototype is for the the modal itself only; disregard the background screen. 
 
 * **Instructions to access in Staging**
@@ -267,7 +267,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
   - When a user accesses the detail page for a VA form that has a downloadable PDF, a form-specific PDF on the form's detail page  Upon clicking the PDF action link, if the PDF modal on the detail page has been presented the user with the past 24 hours, and the user has not cleared their cookies, the PDF action link will link directly to the relevant PDF and will not display the PDF modal.
 
 * **Link to designs:** 
-  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
+  - Prototype (PNG FILE): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/design/max_detail_page_UI_change.png
 
 * **Instructions to access in Staging**
   - https://www.va.gov/find-forms/about-form-10-10ez/

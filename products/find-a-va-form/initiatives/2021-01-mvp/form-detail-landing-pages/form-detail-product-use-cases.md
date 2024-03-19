@@ -16,7 +16,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
     - the standard set of "helpful links."  
 
 * **Link to designs:** 
-  - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/mvp/form-detail-landing-pages/final-docs#visual-mockups
+  - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-01-mvp/form-detail-landing-pages/final-docs#visual-mockups
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** (_Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_)
   - You must be on VA network to access the CMS preview page: http://preview-prod.vfs.va.gov/preview?nodeId=5891
@@ -37,7 +37,7 @@ Link to product outline: [Form Detail Landing Page product outline](https://gith
   - Related forms and instructions
   - Custom "Helpful links related to {dynamic:form nbr}" 
 
-* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/mvp/form-detail-landing-pages/final-docs#visual-mockups
+* **Link to designs:** https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-01-mvp/form-detail-landing-pages/final-docs#visual-mockups
 
 * **Instructions to access in ~Staging~ on prod.cms.va.gov** 
 _Note: ~credentials should be stored in sensitive repos only~ All CMS content lives on prod and can be viewed as unpublished previews_
@@ -54,7 +54,7 @@ _Note: ~credentials should be stored in sensitive repos only~ All CMS content li
     - data that's coming from the source VA forms database
    
 * **Link to designs:** 
-  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-072820.pdf
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/form-detail-landing-pages/WIP-design-files/form-detail-FE-minimum-content-072820.pdf
   
 * **Possible QA-example**
   - http://forms.demo.ci.cms.va.gov/find-forms/about-form-10-2649b?_format=static_html \[published with not custom-data edits; should still have Related to: & standard Helpful links (see minimal-content design PDF above)]

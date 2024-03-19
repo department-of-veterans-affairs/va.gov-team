@@ -27,5 +27,5 @@ This table includes links to the individual design work products.
 | :--- | :--- | :--- | :--- | :--- |
 | Mockups | [Accessibility improvement](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30197#issuecomment-934673872) | --- | Feb 2022 | In Production |
 | Typeahead - Design System | [GH request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/637) | --- | Feb 2022| Submitted |
-| Typeahead for other search tools | [R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/typeahead/typeahead-suggestions.md) <br>[Find a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/typeahead/typeahead-suggestions.md) | --- | Feb 2022| Discovery |
+| Typeahead for other search tools | [R&S](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/typeahead/typeahead-suggestions.md) <br>[Find a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/typeahead/typeahead-suggestions.md) | --- | Feb 2022| Discovery |
 

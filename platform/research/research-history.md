@@ -74,7 +74,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### July 27-30: Find a Form PDF Downloading Usability Research
 *Decision Tools, Lead Researcher: Cindy Merrill*
 - Number of participants: 11 (10 Veterans, 1 family member of a Veteran; 4 screen reader users)
-- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research)
 - List of keywords: alert boxes, hint text, instructions, forms, download, digital signature, accessibility, search results, headings
 
 #### July 21-23:  Comparison Tool Redesign - Profile Page

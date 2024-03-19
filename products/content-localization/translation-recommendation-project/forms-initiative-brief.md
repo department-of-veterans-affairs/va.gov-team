@@ -57,7 +57,7 @@ help
   -  Digital signature field was invisible to screen reader users
   -  Form fields were difficult to fill out using a screen reader
 
-- Research Results*: [Research Study PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
+- Research Results*: [Research Study PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/readout-short-for-sprint-demo.pdf)
 
 With this problem solved, what should users be able to do/achieve that they couldn't before?
 
