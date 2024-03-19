@@ -85,6 +85,7 @@ ________________________________________________________________________________
     - ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
+        - ❗ 🟩 [[FE] Update Review Page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)   
