@@ -29,7 +29,7 @@ Conduct usability testing on the updated form
 ## Out of Scope
 
 - Creating an updated stand-alone 0781 online form
-- Conduction foundational, generative research on Veteran PTSD/MST separate from usability testing of an MVP
+- Conducting foundational, generative research on Veteran PTSD/MST separate from usability testing of an MVP
 
 ## Success
 
