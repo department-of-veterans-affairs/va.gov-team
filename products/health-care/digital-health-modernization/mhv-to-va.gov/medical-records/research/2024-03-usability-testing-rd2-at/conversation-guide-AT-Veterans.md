@@ -38,7 +38,7 @@ There are a few of my teammates who would like to observe this session and help 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 1 hour (A11Y – 1.5hrs).** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 90 minutes (about 1 and a half hours).** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - I will soon be sharing a link with you to the website we will be looking at today using your screen reader. This is a live site; it will behave as expected when you are on a typical website.
 - **If for any reason and at any time you want to stop the session, please let me know.**
@@ -46,7 +46,7 @@ Before we start, a few things I want to mention:
 - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** _Start recording to the cloud._
 - **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-# **Warm-up Questions – 5 minutes**
+## **Warm-up Questions – 5 minutes**
 
 - Do you use My HealtheVet?
 
@@ -59,7 +59,7 @@ _\[If yes\]_
 - Have you ever struggled to find a specific record?
   - _\[if yes\] Could_ you tell me about it?
 
-**Screen sharing instructions**
+## **Screen sharing instructions**
 
 As part of your participation in this session, you were provided with 2 documents that included login information for the website we will be looking at today.
 
@@ -73,7 +73,7 @@ _(If no): Have A11Y walk the participant through screen-sharing_
 
 Our Accessibility specialist will help walk you through how to do this. Do you mind unmuting and walking \[PARTICIPANT\] through this, \[A11Y specialist\]?
 
-**JAWS Screen Share**
+### **JAWS Screen Share**
 
 - The first thing you need to do is put focus on the JAWS window – ALT + TAB
 - JAWS - ALT + S – Screen share.
@@ -81,43 +81,43 @@ Our Accessibility specialist will help walk you through how to do this. Do you m
 - This puts you on “share sound” dialogue.
 - Hit space, then tab over 3 times, then hit enter.
 
-**Voiceover Screen Share**
+### **Voiceover Screen Share**
 
 - Put focus on the menu, swipe right until you get to “share”
 - You cannot always hear Voiceover even when sound is shared.
 
-# **Participant Coaching**
+## **Participant Coaching**
 
 Today we are trying to learn how a Veteran might use this product if they were on their own. Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen.
 
-_\[for MHV users\]_ This is going to look slightly familiar, but please remember that this is a new design we are testing and some elements you might expect to be there will not and some you don’t expect will. I would like you to treat this entire website like it were not MHV at all.
+_\[for MHV users\]_ This is going to feel slightly familiar, but please remember that this is a new design we are testing and some elements you might expect to be there will not and some you don’t expect will. I would like you to treat this entire website like it were not MHV at all.
 
 Since we are trying to make this experience as realistic as possible, you may notice that at the top right the name Pat. If this were your page, it would be your name, but for today you will notice Pat at the top of your screen. We will approach this from Pat’s point of view today.
 
 Are you ready to get started?
 
-# **Task 1: Vaccination – 10 minutes**
+## **Task 1: Vaccination – 10 minutes**
 
 **_\[Participant is on Landing page\]_**
 
 - Have you ever accessed your Vaccine records in My HealtheVet?
-  - \[If yes\] Was there something specific you were looking for?
+  - \[If yes\] Was there something specific you wanted to review?
   - Could you tell me about that?
 
 Thank you for sharing that.
 
-Please keep in mind that we are reviewing a new website today. Some things will look familiar, but this is not going to be like the My HealtheVet you are used to.
+Please keep in mind that we are reviewing a new website today. Some things will seem familiar, but this is not going to be like the My HealtheVet you are used to.
 
 - Let's say that you want to confirm that Pat received a flu shot in 2022. Walk me through how you would check for that on this website.
 
-\[_When found_]
+\[_When found_\]
 
 - Talk to me about your experience finding this vaccine.
 - Walk me through how you would go about finding the name of the facility where Pat received their most recent flu vaccine.
 
 _\[If they go to detail page, ask\]_
 
-- How can you tell you are looking at the correct vaccination?
+- How can you tell you are reviewing the correct vaccination?
 
 \[_Detail page\]_
 
@@ -129,7 +129,8 @@ Please return to the Vaccines list
 
 _\[List page\]_
 
-- How would you find out if Pat had an allergic reaction to a vaccine?
+- Without clicking, show me how would you find out if Pat had an allergic reaction to a vaccine?
+  - What information would you expect to be provided?
 
 _\[If they do not find the “Go to your allergy records link\]_
 
@@ -143,12 +144,12 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 - Would you like me to repeat that?
 
-# **Task 2: Care Summaries and Notes – 10 minutes**
+## **Task 2: Care Summaries and Notes – 10 minutes**
 
 **_\[Participant will be in Vaccines\]_**
 
 - _\[If MHV User, ask\]_ Have you ever used Blue Button to access ‘Admissions and Discharges’, or ‘Notes’ on My HealtheVet?
-  - \[If yes\] Was there something specific you were looking for?
+  - \[If yes\] Was there something specific you wanted to review?
   - Could you tell me about that?
 
 Thank you for sharing that.
@@ -173,17 +174,17 @@ _\[Once they find the note\]_
 
 Let’s pause here.
 
-- What information do you expect to see within this type of note, if you were to click on it?
-- Thank you. Go ahead and look.
+- What information do you expect within this type of note if you were to click on it?
+- Thank you. Go ahead and click on it.
 
 _\[Details\]_
 
-- You just said you expected to see \[whatever the participant stated\], how does this match that?
+- You just said you expected \[whatever the participant stated\], how does this match that?
 - _\[If it doesn’t\]_ can you tell me more about that?
 
 **DISCHARGE SUMMARY**
 
-- Let's say that Pat was admitted to the hospital for a brief procedure a while ago and wanted to find out what instructions were given for at-home care when he left the hospital. Walk me through how you would find that information.
+- Let's say that Pat was admitted to the hospital for a brief procedure a while ago and wanted to find out what medications were prescribed for at-home. Walk me through how you would find that information.
 
 _\[If they struggle – possible prompts\]_
 
@@ -193,12 +194,12 @@ _\[If they struggle – possible prompts\]_
 
 _\[if they find Care Summaries and Notes but can’t find the record\]_
 
-- Remember we are looking for a hospital record on at-home instruction after being admitted.
+- Remember we are looking for a hospital record.
 - How might the title be worded?
 
 _\[If they forget the task\]_
 
-We are looking for the instruction Pat was prescribed for at-home care after leaving a hospital stay.
+We are looking for the medication Pat was prescribed for at-home after a hospital stay.
 
 _\[After they complete task – if still on Details\]_
 
@@ -218,16 +219,16 @@ _\[if yes\]_
 
 On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of finding information about Pat’s doctor visit and hospital stay.
 
-# **Task 3: Vitals**
+## **Task 3: Vitals**
 
 **_\[Participant will be in Care Summaries and Notes\]_**
 
 - _\[If MHV User, ask\]_ Have you ever accessed your Vitals in My HealtheVet?
-  - _\[If yes\]_ Was there something specific you were looking for?
+  - _\[If yes\]_ Was there something specific you wanted to review?
   - Could you tell me about that?
 - What do you consider to be a Vital?
 
-Let’s look at Pat’s Vitals.
+Let’s review Pat’s Vitals.
 
 _\[If they struggle – possible prompts\]_
 
@@ -251,7 +252,7 @@ _\[If they struggle – possible prompts\]_
 
 _\[if they forget the task details\]_
 
-- Remember we are looking for Pat’s blood pressure reading from May 1, 2023.
+- Remember we want to know Pat’s blood pressure reading from May 1, 2023.
 
 _\[After they complete task – if still on Details\]_
 
@@ -273,7 +274,7 @@ _\[if yes\]_
 
 On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of finding information about Pat’s vitals.
 
-# **Task 4: Print/Download - 3 minutes**
+## **Task 4: Print/Download - 3 minutes**
 
 **_\[Participant will be in Vitals\]_**
 
@@ -285,7 +286,7 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 _\[If they stay in list view\]_
 
-- What if you just wanted to print/download one record_?_
+- What if you just wanted to print/download one record? _
 
 _\[Point out the first record in any of the domains on staging\]_
 
@@ -296,7 +297,7 @@ _\[if no\]_
 
 _\[If they stay in list view\]_
 
-- What if you just wanted to print/download one record_?_
+- What if you just wanted to print/download one record?
 
 _\[Point out the first allergy record on staging\]_
 
@@ -312,12 +313,12 @@ _\[if yes\]_
 
 On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of printing or downloading Pat’s records.
 
-# **Task 5: Allergies & Reactions/PDF – 10 minutes**
+## **Task 5: Allergies & Reactions/PDF – 10 minutes**
 
 **_\[Participant may be in Allergies or still in Vaccines\]_**
 
 - Have you ever accessed your Allergy records in My HealtheVet?
-  - \[If yes\] Was there something specific you were looking for?
+  - \[If yes\] Was there something specific you wanted to review0?
   - Could you tell me about that?
 
 Thank you for sharing that.
@@ -353,7 +354,7 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of understanding Pat’s allergies.
 
-# **Screener Interview – Users with CD**
+## **Screener Interview – Users with CD**
 
 Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.
 
@@ -378,11 +379,11 @@ _\[if yes\]_
 - Would you mind sharing a little about how your cognitive disability affects your use of My HealtheVet or other websites?
 - Can you share an example of a time when you struggled with My HealtheVet because of your disability?
 
-# **Thank You and Closing - 2 minutes**
+## **Thank You and Closing - 2 minutes**
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-# **Emergency Exit**
+## **Emergency Exit**
 
 \[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it’s easy to find during a session. Take some time to practice so it feels more comfortable.\]
 
