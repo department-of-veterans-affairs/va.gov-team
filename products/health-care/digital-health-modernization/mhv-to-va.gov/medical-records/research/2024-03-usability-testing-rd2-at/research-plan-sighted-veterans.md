@@ -39,7 +39,7 @@ This research fits into these points of a Veteran's Journey:
      - Vaccines
      - Vitals
 
-2. Can Veterans print/download an list and an individual record?
+2. Can Veterans print/download a list and an individual record?
 
 3. What is Veterans' perception of the new experience in which they can view their records on screen?
 
