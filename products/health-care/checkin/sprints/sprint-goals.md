@@ -91,9 +91,10 @@ ________________________________________________________________________________
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - 🟥 [[UX][Research] SPIKE: Determine research to pursue (standalone travel w/ eligibility vs. echeckin w/ eligibility)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
+        - 🟥 [UX][Research] SPIKE: Determine research to pursue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
+        - 🟥 [[Research] Create Moderated Research Plan as a result of SPIKE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78654)
     - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
-        - TBD
+        - 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
@@ -107,7 +108,9 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE][BUG] - issues with scheduling tool on dev ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
+    - 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)
     - 🟥 [[Design] Update wireframe for correct position of mixed language alert ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78253)
+    - 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
