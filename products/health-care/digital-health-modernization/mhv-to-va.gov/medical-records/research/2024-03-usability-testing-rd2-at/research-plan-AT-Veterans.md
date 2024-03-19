@@ -84,9 +84,9 @@ For AT, we will schedule 15 Veterans for an expected completion rate of 8 usabil
 
 ### **Primary criteria (must-haves)**
 
-- 7 participants who solely use screen-readers to access digital content – Blind/visually impaired.
-- 5 participants who are low-vision and use text magnifiers to access all digital content.
-- 3 participants who solely use voice control device to access all digital content.
+- 5 participants who solely use screen-readers to access digital content – Blind/visually impaired.
+- 6 participants who are low-vision and use text magnifiers to access all digital content.
+- 4 participants who solely use voice control device to access all digital content.
 - 8 Participants who use Desktop/Laptop.
 - 7 participants who use a mobile device.
 - MHV Use
@@ -168,22 +168,27 @@ Please make sure that ALL participants are willing to complete their interview *
 - Session length: 1.5 hour
 - Buffer time between sessions: 30 minutes
 
-**Availability for AT Users**
+**Availability for AT Users - Magnifier and Voice control only**
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
 | Tuesday | April 2, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Wednesday | April 3, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Thursday | April 4, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
+
+**Availability for AT Users - Screen Reader Users**
+| **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
+| --- | --- | --- |
 | Friday | April 5, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Monday | April 8, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
+| Tuesday | April 9, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 
 ### Additional Availability for AT Users, if needed
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
-| Tuesday | April 9, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Thursday | April 11, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
+| Monday | April 15, 2024 | 10:00am - 1:00pm, 3:00pm to 5:00pm |
 
 **Note: Please do not schedule more than 4 sessions per day.**
 
