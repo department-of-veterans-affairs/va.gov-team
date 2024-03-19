@@ -4,10 +4,10 @@
 
 ### Day of the session
 - Schedule [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) messages  in
-  Slack for real-time feedback from observers, including the link to the Mural board.
+  Slack for real-time feedback from observers, including the link to the Mural board https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710873218823/dd5475068c33da1a25aee8499cad80ee3328ce6a?sender=ub868d471cfdb1c56cc0b4512.
 - Mute your Slack notifications.
+  
 ### Starting the session
-
 - In the Attendees section, make sure everyone except the participant is on mute.
 - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 - Check your [screensharing setup] and share permissions for participants.
@@ -94,13 +94,25 @@ Talk to me about what you know about VA services and benefits.
 - What would you tell other [service members/veterans] about the website?
 - How did your experience of the website line up with what you expect?
 
-*If needed, share screen and pull up website*
-
 *Optional questions, as needed:*
 * Were you able to find what you needed on the site?
 * Did you sign into the website? 
 * What was signing into the site like?
 * How did the website line up with your expectations, after you signed in?
+
+## Create va.gov account and review auth exp - 15 minutes
+- According to my notes, you said you’d be willing to create an identity verified account on VA.gov. Are you still up for that? Do you have a government issued ID handy for the verification process.  Great! Let’s go through that.
+
+*Help participant create account. 
+- ***Stop any screensharing***
+- ***pause recording***
+
+*Restart screensharing and recording*
+- Awesome, now let’s go check out VA.gov. I’m curious to get your first impressions of the site once you’re signed in.
+- Let’s check out My VA. Tell me your impressions of this page.
+- And now, let’s go to your profile. What do you think about this section of the site?
+- If you wanted to [do something they talked about earlier in the session] can you show me how you’d find that now that you’re signed in?
+- How does this line up with what you’d expect from a website once you’re signed in?
 
 ## Post-Task Interview - 10 minutes
 
