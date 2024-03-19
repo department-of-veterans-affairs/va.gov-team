@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The questions of evil and of suffering have troubled humankind since time immemorial; many religions and philosophical systems have been founded in an attempt to grapple with them. Questions like: does true evil exist? is suffering a necessary component of existence? is there meaning to my suffering? is there an alternative reality, in which wrongdoers are punished for their transgressions and the meek and decent salved and restored? It is not the role of this document to provide answers to these questions, for I haven't any; but these are questions you may ask yourself as you navigate the process of onboarding into the VA Enterprise Cloud.
+The questions of evil and of suffering have troubled humankind since time immemorial; many religions and philosophical systems have been founded in an attempt to grapple with them. Questions like: does true evil exist? is suffering a necessary component of existence? is there meaning to my suffering? is there an afterlife in which wrongdoers are punished for their transgressions and the meek and decent salved and restored? It is not the role of this document to provide answers to these questions, for I haven't any; but these are questions you may ask yourself as you navigate the process of onboarding into the VA Enterprise Cloud.
 
 The broader process is documented elsewhere and should be provided to you as a neat (albeit possibly daunting) ticket. This document picks up where that one leaves off.
 
