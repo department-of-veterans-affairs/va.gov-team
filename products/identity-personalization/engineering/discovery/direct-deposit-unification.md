@@ -74,10 +74,15 @@ Where do we refactor and clean up the existing logic to learn from any past mist
   15 Components in the Direct Deposit page + Profile entry will need changes + Redux Selectors/Actions/Reducers
   
   - Profile
+
     fetchCNPPaymentInformation
+
     fetchEDUPaymentInformation
+
     shouldFetchCNPDirectDepositInformation
+
     shouldFetchEDUDirectDepositInformation
+
     there are correlating lifecycle methods that are using this information and will need updates
 
   - Redux
