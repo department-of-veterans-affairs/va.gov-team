@@ -90,7 +90,7 @@ Engagement
 - [Connect search with details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/connect-search-with-details/README.md)
 - [Docusign POC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/docusign-poc/meetings-decisions.md)
 - [PDF Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/pdf_modal/accessibility/accessibility-staging-prep.md)
-- [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/pdf-cert-warning-alert) - Q4 2022
+- [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2022-03-pdf-cert-warning-alert) - Q4 2022
 
 ---
 ## Important technical constraints and dependencies
