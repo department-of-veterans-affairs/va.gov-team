@@ -93,6 +93,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[FE] Update Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
+        - ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)   
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
