@@ -1,6 +1,6 @@
-# **Research Plan for MHV on VA.gov, Medical Records, March 2024 - AT Veterans**
+# **Research Plan for MHV on VA.gov, Medical Records, March 2024 – AT Veterans**
 
-# **Background**
+## **Background**
 
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. We initially built and tested a prototype of the Medical Records in MHV on VA.gov. We conducted a usability study and collected feedback that informed reiterations on the website. In this round of usability testing within a live environment, we will assess (1) whether the updates improve user experiences, and (2) test additional and new functionality, (3) include Veterans who require accessibility provisions and explore further pain points.
 
@@ -60,27 +60,25 @@ _Hypothesis 6:_ Most Veterans who use Assistive Technologies will be able to eas
 
 We will conduct moderated usability testing sessions in which we will ask users to navigate a live website while we observe their behavior, and ask follow-up prompts as needed.
 
-## **Location**
+**Location**
 
 Data collection will be remote. We will use Zoom.
 
 ## **Research materials**
 
-[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-03-usability-testing-rd2-at/conversation-guide-sighted-veterans.md)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-03-usability-testing-rd2-at/conversation-guide-AT-Veterans.md)
 
-[Link to mobile prototype](https://www.figma.com/proto/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=1238-22926&t=LkRQOEAOjdAvJmbG-1&scaling=scale-down&page-id=1238%3A16893&starting-point-node-id=1238%3A22926)
-
-[Link to desktop prototype](https://www.figma.com/proto/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=1347-22938&t=NSW1V97A52J4JD8H-1&scaling=min-zoom&page-id=1347%3A22521&starting-point-node-id=1347%3A22938&mode=design)
+[Link to staging](https://staging.va.gov/my-health/medical-records/)
 
 ## **Recruitment**
 
-**Recruitment approach**
+### **Recruitment approach**
 
 We will partner with Perigean to recruit Veterans.
 
 We will schedule 15 Veterans who use Assistive technology devices - Screen reader, Text Magnifier, or Voice command, for an expected completion rate of 8 usability tests.
 
-## **Recruitment criteria**
+### **Recruitment criteria**
 
 For AT, we will schedule 15 Veterans for an expected completion rate of 8 usability sessions.
 
@@ -91,6 +89,9 @@ For AT, we will schedule 15 Veterans for an expected completion rate of 8 usabil
 - 3 participants who solely use voice control device to access all digital content.
 - 8 Participants who use Desktop/Laptop.
 - 7 participants who use a mobile device.
+- MHV Use
+  - (10) frequent MHV user
+  - (5) infrequent MHV user
 - No current or previous (within the past 5 years) VA Employees
 
 ### **Secondary criteria (nice-to-haves)**
@@ -107,21 +108,17 @@ For AT, we will schedule 15 Veterans for an expected completion rate of 8 usabil
     - (2) Associate degree (occupational or academic)
     - (3) Bachelor's degree
     - (2) Master's degree or higher
-3. MHV Use
-    - (10) frequent MHV user
-    - (5) infrequent MHV user
-
-4. Demographic distribution:
+3. Demographic distribution:
     - (1) American Indian or Alaska Native
     - (1) Asian
     - (3) Black or African American
     - (2) Hispanic, Latino, or Spanish origin
     - (8) White or Caucasian
-5. Residence:
-    - (4) rural
-    - (11) urban
+4. Residence:
+    1. (4) rural
+    2. (11) urban
 
-## **Screener Questions for AT users**
+### **Screener Questions for AT users**
 
 Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
 
@@ -130,19 +127,19 @@ Please make sure that ALL participants are willing to complete their interview *
 - Depend on screen readers to access ALL digital content
 
 1. Do you need to use any Assistive technology to access digital content, such as – Screen reader, Voice Command, Text/Screen magnification?
-   - _Yes (Proceed to 3)_
-   - _No (Unqualified)_
-2.  Which of these Assistive Technology would you be using for the session?
-     - Screen reader – JAWS, Voiceover, NVDA, Talkback
-     - Text Magnification
-     - Voice Command
-     - Other – please specify
-     - I do not use any Assistive Technologies (_Unqualified)_
+    - _Yes (Proceed to 3)_
+    - _No (Unqualified)_
+2. Which of these Assistive Technology would you be using for the session?
+   - Screen reader – JAWS, Voiceover, NVDA, Talkback
+   - Text Magnification
+   - Voice Command
+   - Other – please specify
+   - I do not use any Assistive Technologies (_Unqualified)_
 3. Do you use Assistive Technology for accessing ALL digital content?
-     - Yes – I need Screen reader to access ALL digital content _(Recruit 7)_
-     - Yes – I need Voice Command to access ALL digital content _(Recruit 3)_
-     - Yes – I need a text Magnification to access ALL digital content _(Recruit 5)_
-     - No – I do not need any Assistive Technology to access digital content. _(Unqualified)_  
+   - Yes – I need Screen reader to access ALL digital content _(Recruit 7)_
+   - Yes – I need Voice Command to access ALL digital content _(Recruit 3)_
+   - Yes – I need a text Magnification to access ALL digital content _(Recruit 5)_
+   - No – I do not need any Assistive Technology to access digital content. _(Unqualified)_  
 
 4. Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
     - _Yes (Recruit – proceed to question 5)_
@@ -160,22 +157,23 @@ Please make sure that ALL participants are willing to complete their interview *
 
 ### **Prepare**
 
-- Pilot #2: Week of March 18<sup>th</sup> – March 22<sup>nd</sup> , participant TBD
+- Pilot #2: Week of March 18<sup>th</sup> – March 22<sup>nd</sup>, participants TBD
 
 ### **Research sessions**
 
-- Planned dates of research: **April 2 - 8 (Additional times if needed – Apr 9 & 11th)**
+- Planned dates of research: **April 2 - 8 (Additional times if needed – Apr 9 and 11)**
 
 ### **Length of sessions for AT users**
 
 - Session length: 1.5 hour
 - Buffer time between sessions: 30 minutes
 
-### **Availability for AT Users**
+**Availability for AT Users**
 
 | **Day** | **Team Availability** | **Time Slots (Eastern Time Zone)** |
 | --- | --- | --- |
 | Tuesday | April 2, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
+| Wednesday | April 3, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Thursday | April 4, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Friday | April 5, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
 | Monday | April 8, 2024 | 10:00am – 1:00pm, 3:00pm to 5:00pm |
@@ -193,11 +191,11 @@ Please make sure that ALL participants are willing to complete their interview *
 
 Please list the people who will be serving in each role.
 
-- Moderator: Ade Ajayi ([adebolanle.ajayi@bylight.net](mailto:adebolanle.ajayi@bylight.net)), Amelia Hacking ([amelia.hacking@bylight.com](mailto:amelia.hacking@bylight.com))
-- Research guide writing and task development: Ade Ajayi
+- Moderator: Ade Ajayi ([adebolanle.ajayi@bylight.net](mailto:adebolanle.ajayi@bylight.net)),
+- Research guide writing and task development: Ade Ajayi, Anne Costello Kennedy
 - Participant recruiting & screening: Perigean
 - Project point of contact: Ade Ajayi & Anne Costello Kennedy ([anne.costello@bylight.com](mailto:anne.costello@bylight.com))
-- Accessibility specialist: CAIA
+- Accessibility specialist: CAIA - SK ([Sarah.Koomson@oddball.io](mailto:Sarah.Koomson@oddball.io)), Evan Burnett ([evan.burnett@coforma.io](mailto:evan.burnett@coforma.io)), Sarah Smith ([Sara.Smith@oddball.io](mailto:Sara.Smith@oddball.io))
 - Participants for pilot test: TBD – we will do this ourselves, thank you.
 - Note-takers: Amelia Hacking (<Amelia.hacking@bylight.com>)
-- Observers: Kay Lawyer ([katherine.lawyer@va.gov](mailto:katherine.lawyer@va.gov)), Kaitlin Fink ([Kaitlin.Fink@va.gov](mailto:Kaitlin.Fink@va.gov)), Robyn Singleton ([Robyn.singleton@va.gov](mailto:Robyn.singleton@va.gov)), Lexi Wunder (<Alexia.Wunder@bylight.com>)
+- Observers: Marci McGuire (<Marci.McGuire@va.gov>), Kaitlin Fink ([Kaitlin.Fink@va.gov](mailto:Kaitlin.Fink@va.gov)), Robyn Singleton ([Robyn.singleton@va.gov](mailto:Robyn.singleton@va.gov)), Lexi Wunder (<Alexia.Wunder@bylight.com>)
