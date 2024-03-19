@@ -27,16 +27,16 @@ Before we start, I have a few things that I want to go over with you:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - If no: Use Slack to kindly ask the observers to leave the Zoom.
-   - If yes: Admit observers.
-- Please turn your cameras on briefly to introduce yourself to [PARTICIPANT NAME].
-   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with the live VA.gov website today.** We'll remind you not to submit the form when we get to the confirmation page at the end of the form.
+   - [If no: Use Slack to kindly ask the observers to leave the Zoom.]
+   - [If yes: Admit observers.]
+- Hi everyone; Please turn your cameras on briefly to introduce yourself to [PARTICIPANT NAME].
+   - [Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth]
+- **You'll be interacting with the live VA.gov website today.** We'll remind you not to submit the form when we get to the review page at the end of the form.
 - A couple other things before we get started: **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
    - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+   - [If yes:] **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
 
@@ -63,7 +63,7 @@ Okay now I'd like you to pull up VA.gov on your chosen browser and sign in. Once
 *Wait until they have the 10-10EZ intro page pulled up*
 
 
-[If user is not going to log in]
+[If user is not going to log in:]
 Now I'm going to put a link in the Zoom chat and would like you to open it. Let me know if you need any help finding the chat.
 
 Once you've opened the link and see a page that says "Apply for VA health care", please share your screen with me. Let me know if you need any help doing that.
@@ -71,10 +71,10 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 
 ## First Task: Toxic exposure intro page review - 5 minutes
 
-- Okay we're going to start the application so you can click "Start your application without signing in" (or "Start application" if they are signed in)
+- Okay we're going to start the application so you can click "Start your application without signing in" [or "Start application" if they are signed in]
 - The part of the form we're looking for feedback on today is about halfway through the form so we'll need you to fill in the next several pages wih either your real info or fake info. It doesn't matter because we won't be submitting the form.
-- *Direct them through all required fields until they get to toxic exposure pages.*
-- **Once they're on the toxic exposure section** Okay please stop here - this is the section we'll be going through together. Thanks for your patience with that!
+- [Direct them through all required fields until they get to toxic exposure pages.]
+- [Once they're on the toxic exposure section] Okay please stop here - this is the section we'll be going through together. Thanks for your patience with that!
 
 - I'd like you to read through this page as you normally would and let me know what thoughts you have and if anything is confusing.
 - Would you select "Yes" or "No" for this question? Why?
