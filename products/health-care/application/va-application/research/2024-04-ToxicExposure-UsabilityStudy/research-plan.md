@@ -115,10 +115,11 @@ What demographics, experience, and scenarios do you need participants to meet to
 ### Kick-off call
 * We would like to schedule a 15-minute kick-off call with Perigean prior to the start of recruiting. 
 * Available dates/times for kick-off call:
-	* TBD
+	* DAY: Thursday, March 21, 2024 | TIMES: from 12pm - 1pm ET, 4pm - 4:30pm ET
+ 	* DAY: Friday, March 22, 2024 | TIMES: from 12:30pm - 1:30pm ET, 2:30pm - 4pm ET
 
 ### Research sessions
-* Planned dates of research: March 27 - April 3, 2024
+* Planned dates of research: April 1 - April 5, 2024
 
 ### Length of sessions
 * Session length: 1 hour
@@ -129,11 +130,11 @@ What demographics, experience, and scenarios do you need participants to meet to
 ### Availability
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| March 27, 2024  	|  10am - 6pm ET 	|
-| March 28, 2024  	|  12pm - 6pm ET 	|
-| March 29, 2024  	|  12pm - 4pm ET 	|
+| April 1, 2024 	|  12am - 6pm ET 	|
 | April 2, 2024  	|  11am - 6pm ET 	|
 | April 3, 2024  	|  10am - 6pm ET 	|
+| April 4, 2024  	|  11am - 6pm ET 	|
+| April 5, 2024  	|  12am - 6pm ET 	|
 
 
 	
