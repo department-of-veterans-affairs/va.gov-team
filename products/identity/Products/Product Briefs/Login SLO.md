@@ -3,6 +3,10 @@
 ## Overview: 
 Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov with the ultimate goal of continuously improving the login process to VA.gov. 
 
+We have two audiences for this information:
+* Veterans logging into va.gov
+* Other va.gov product teams.
+
 ## Problem Statement: 
 We do not currently have any current SLOs for VA.gov logins, and creating them will help us monitor and improve the Veteran login experience.
 
@@ -29,7 +33,15 @@ For this first iteration, success will be:
 
 
 ## Out of Scope: (for this iteration)
-Our responses to any Service Degradation.
+* Incident Response
+* Service Level Agreements
+* Accountability in SLOs - who gets assigned & their impact toward total numbers
+* Automation
+  *  Notify when investigations are happening.
+  *  Slack notifications when SLOs reach a certain level.
+* How we will publish the agreements to other teams.
+  * Perhaps just posting a single SLO doc used by all teams in Github (rather than doing it per team)?
+
 
 ## Use Cases:
 
@@ -79,9 +91,17 @@ Our responses to any Service Degradation.
 
 ## Solution Approach: 
 
-* The team uses the spikes to determine what we consider service degradation for the Response Time SLOs.
-* The team uses the spikes to determine the proper course of action to resolve any service degradation for the Response Time SLOs.
-* Based upon the research of the spikes, the initial round of SLO are created.
+* Research
+  * What do Veterans care about in this space?
+  * What communication does CAIA have if va.gov maintenance is planned or is happening?
+  * What do the other VA teams care about?
+  * Can we update the [Va.gov Status Page](https://vagov.statuspage.io)?
+  * Are there legal requirements for SLOs - want to maintain compliance, at least.
+  * Can we leverage
+  * Check w/ #accessibility-help channel to see if Datadog dashboards are acessible.
+
+* Based upon the research the initial round of SLO are created.
+  * Some might be combined if needed 
 * We create a table that displays all of the SLO in a single place. _(User Story TK)_
 * We come up with the language to represent each SLO to the outside world. _(User Story TK)_
 * We create a monitoring plan. _(User Story TK)_
