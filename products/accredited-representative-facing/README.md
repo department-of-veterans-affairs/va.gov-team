@@ -44,11 +44,15 @@ Below are some documents worth calling out specifically:
 
 #### General Agreements
 
-Learn about our overall team's working style and agreements: [ARF Team Agreements](/products/accredited-representative-facing/process/team-agreements.md).
+Learn about our overall team's working style and agreements: [ARF Team Agreements](/teams/vso/teams/accredited-representative-facing/process/team-agreements.md).
+
+#### Design Agreements
+
+Learn about our design working style and agreements: [ARF Design Agreements](/teams/vso/teams/accredited-representative-facing/process/design-agreements.md).
 
 #### Engineering Agreements
 
-Learn about our engineering working style and agreements: [ARF Engineering Agreements](/products/accredited-representative-facing/process/engineering-agreements.md).
+Learn about our engineering working style and agreements: [ARF Engineering Agreements](/teams/vso/teams/accredited-representative-facing/process/engineering-agreements.md).
 
 ## Stay Connected
 
