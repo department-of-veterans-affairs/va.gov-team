@@ -144,7 +144,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 - Project point of contact: Jessica Stump (jessica.stump@adhocteam.us) and Angela Agosto (angela.agosto@adhocteam.us)	
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
-- Note-takers:	Perigean, and 10-10 UX Team
+- Note-takers:	Perigean (and 10-10 UX Team)
 - Observers:
 	- Sign up sheet will be posted via Slack
 	- Katelyn Caillouet (katelyn.caillouet@agile6.com)
