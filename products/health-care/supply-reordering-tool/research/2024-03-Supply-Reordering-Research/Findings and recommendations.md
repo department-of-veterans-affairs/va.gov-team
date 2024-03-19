@@ -1,10 +1,10 @@
 # [2024-03-Supply Reordering Usability Testing] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Supply reorder, Medications and Supplies Pod**
 
 Date: 03/22/2024
 
-[Jenny Wang] [yizhen.wang@va.gov], [Kristen] [email], [Jasmine] [email]
+Jenny Wang [yizhen.wang@va.gov], Kristen [email], Jasmine [email]
 
 [Research readout](link here)
 
@@ -18,21 +18,18 @@ Date: 03/22/2024
 
 
 ## Research Goals
-The Supply Reordering tool seeks to relieve the burden on the Veteran of going to DLC for reordering devices and filling out a form via mail, or calling to reorder their devices by going to VA.gov instead. Veterans currently sign into VA.gov (authenticated) to place a re-oder for: 
-- Hearing aids and batteries
-- CPAP supplies
-  
-Due to this online tool functionality, DLC has seen a drastic reduction in the use of their contact centers for supply reorders, which allows them to use their time towards other goals. 
-- Goal 1: We want to understand how Veterans currently order and re-order medical supplies. 
-- Goal 2: We want to evaluate if the current digital form on VA.gov is user-friendly, easy to understand, and useful to Veterans. 
+The medical supply reordering tool on VA.gov provides a more convenient way for Veterans to order their medical supplies from DLC online instead of ordering through call, mail, email, and messages on MHV. It's new on VA.gov. Veterans can access the tool on VA.gov from the main menu and on the MHV home page once they sign in. Currently, they can reorder hearing aid batteries and accessories, CPAP supplies, and prosthetic socks. Before adding more supplies to the tool, our team wants to pause and evaluate how the tool is performing so that we are prepared and confident to make more supplies available for Veterans to reorder, which will also reduce the use of DLC's contact centers. 
 
+The purpose of this research was to:
+- Better understand how Veterans currently order and re-order medical supplies.
+- Evaluate if the current digital form on VA.gov is user-friendly and easy to understand for Veterans. 
 
 ## Research Questions
 
-1. What are Veterans' reactions to and understanding of the current digital medical supplies ordering tool?
+1. What are Veterans' reactions to and understanding the current digital medical supplies ordering tool?
 	- Is it clear that the form may include hearing aid supplies and CPAP supplies?
 	- Is it clear to users why some supplies are available and some are not?
-	- Is the form clear on what Veterans need to do when supplies are not available?
+	- Is the form clear on what Veterans need to do when supplies are unavailable?
 	- Do Veterans know what to do when they want to change supplies after submission?
 2. How are Veterans notified when their prescribed medical supplies are eligible to reorder?
    	- How is the process of reordering indicated to Veterans first time and subsequent times? 
