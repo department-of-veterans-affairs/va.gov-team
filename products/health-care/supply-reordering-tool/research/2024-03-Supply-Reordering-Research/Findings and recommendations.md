@@ -18,43 +18,38 @@ Date: 03/22/2024
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
-
-_Then, describe your goals for this research_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-goals)_
-
+The Supply Reordering tool seeks to relieve the burden on the Veteran of going to DLC for reordering devices and filling out a form via mail, or calling to reorder their devices by going to VA.gov instead. Veterans currently sign into VA.gov (authenticated) to place a re-oder for: 
+- Hearing aids and batteries
+- CPAP supplies
+  
+Due to this online tool functionality, DLC has seen a drastic reduction in the use of their contact centers for supply reorders, which allows them to use their time towards other goals. 
+- Goal 1: We want to understand how Veterans currently order and re-order medical supplies. 
+- Goal 2: We want to evaluate if the current digital form on VA.gov is user-friendly, easy to understand, and useful to Veterans. 
 
 
 ## Research Questions
 
-_Research questions here_
-
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
+1. What are Veterans' reactions to and understanding of the current digital medical supplies ordering tool?
+	- Is it clear that the form may include hearing aid supplies and CPAP supplies?
+	- Is it clear to users why some supplies are available and some are not?
+	- Is the form clear on what Veterans need to do when supplies are not available?
+	- Do Veterans know what to do when they want to change supplies after submission?
+2. How are Veterans notified when their prescribed medical supplies are eligible to reorder?
+   	- How is the process of reordering indicated to Veterans first time and subsequent times? 
 
 ## Methodology 
 
-_Brief description of method chosen_
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#methodology)_
-
+We will conduct remote usability and interview sessions on Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct the study in the staging environment, with one test account and a different password created specifically for the study. We will document each password created in the sensitive repo.
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
+- Hypothesis 1: Participants will get through the tasks of ordering the supplies relatively easily.
+- Hypothesis 2: Participants may not know how to change supplies once orders are submitted. 
+- Hypothesis 3: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
+- Hypothesis 4: Veterans probably find out about the reordering process from their VA provider.
+- Hypothesis 5: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order. 
 
 ## Key Findings
 
