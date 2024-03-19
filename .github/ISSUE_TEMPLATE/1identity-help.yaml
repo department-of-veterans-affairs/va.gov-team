@@ -2,6 +2,11 @@ name: Identity Help
 description: For requesting help from the identity team
 labels: "Identity"
 body:
+- type: textarea
+  attributes:
+    label: Issue Description
+    description: Describe the issue details
+    placeholder: Insert issue details here
 - type: markdown
   attributes:
     value: |
