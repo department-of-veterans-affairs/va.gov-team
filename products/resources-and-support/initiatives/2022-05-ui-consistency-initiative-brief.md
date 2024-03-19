@@ -1,4 +1,6 @@
 # UI Consistency for R&S Article Pages Initiative Brief
+May 2022 - Initiative never completed
+
 #### Overview
 
 

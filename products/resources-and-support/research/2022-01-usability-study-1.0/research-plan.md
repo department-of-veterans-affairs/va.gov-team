@@ -1,11 +1,12 @@
 # Draft: Research Plan for Search & Discovery Team, Resources and Support, Submit Feedback Tool 2.0
+Jan 2022
 
 ## Background
 Resources and support (R&S) contains tier 2 content (benefit-adjacent content). The Submit Feedback Tool was introduced to R&S article pages last year with the option to rate articles as either good or bad. As a part of the Submit Feedback Tool 2.0 product initative, once a user rates an article as 'bad', we would like to implement a way for users to report the reason why they rated the page poorly. We would also like these issues to be actionable and easily accessible for the content owners so that improvements can be easily made.
 
 We would like to make improvements to the layout of R&S article pages. Overall, links on R&S articles do not have a high engagement rate. CTA had the highest click through rate and Tags had the lowest click through rate. Participants in the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/learning-center-mvp-findings-summary.md">last R&S research study</a> did not see tags as clickable. <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md">Previous research</a> has shown that users are hesitant to click on R&S because the name and we would like to further explore that issue as well. "Value and Purpose" was also identified as a top issue during our <a href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/32746#issuecomment-970466533">roadmap session</a>.
 
-- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/article-pages/discovery.md">Discovery: Resources and Support Article Pages</a>
+- <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-01-outside-submissions/discovery.md">Discovery: Resources and Support Article Pages</a>
 
 - <a href="https://github.com/department-of-veterans-affairs/va.gov-team/issues/32746#issuecomment-970466533">Resources and Support Roadmap Session Summary</a>
 

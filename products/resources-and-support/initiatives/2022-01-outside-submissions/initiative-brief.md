@@ -1,4 +1,6 @@
 # Initiative Brief - Preparing Resources and Support article pages for outside submissions
+Jan 2022
+
 #### Overview
 Resources and Support (R&S), originally called “Learning Center”, was created to contain Tier 2 content. This product focuses on creating an IA and content design for tier 2 content that includes benefit learning, knowledge, help, and support content categories. 
 
