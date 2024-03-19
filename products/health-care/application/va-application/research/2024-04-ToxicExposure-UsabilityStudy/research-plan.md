@@ -87,18 +87,24 @@ Our intended audience for this research are Veterans and we will be utilizing Pe
 **Primary criteria (must-haves)**
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
-- Are you currently enrolled in VA health care? [answer should be no to qualify for all participants]
+- Are you currently receiving VA health care benefits as your primary insurance? [answer should be no to qualify for all participants]
 
-- Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? [answer needs to be yes for 1 completed session, recruit 2]
+- Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified. [Answering yes for 5 participants]
 
-- Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified.
-- Response options: yes or no [Answering yes would qualify half the participants/other half can answer no]
+
+**Veterans that served in these **
+- 3 Veterans who served in Vietnam-era (1961-1980 – note covering some later dates here added for PACT)
+- 3 Veterans who served between 1990 and 2001 (Gulf War era)
+- 3 Veterans who served after 2001 (Post 9-11 era)
+
 
 
 
 **Secondary criteria (nice-to-haves)**
 - Mixture of other demographics/criteria; no more than 2 of the same per any category
   
+- Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer? [answer needs to be yes for 1 completed session as a secondary goal]
+
 
 ## Timeline
 
