@@ -48,28 +48,28 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
+1. Do you have health care through the VA?
+- [If yes: They shouldn't have been recruited, but continue with the study]
 
 2. Just to verify how you'll go through the form today, is it correct that you do/do not have an identity-verified VA.gov login?
-- Tracker should show this; just check with the participant for accuracy
+   - [Tracker should show this; just check with the participant for accuracy]
 
-**Link to share in Zoom chat:** https://www.va.gov/health-care/apply/application/introduction 
+[Link to share in Zoom chat:] https://www.va.gov/health-care/apply/application/introduction
 
-**If user is going to use their login:**
+[If user is going to use their login:]
 Okay now I'd like you to pull up VA.gov on your chosen browser and sign in. Once you're signed in, please share your screen with me. Let me know if you need any help doing that.
 
-**Once they're logged in and sharing their screen:** Great, I can see your screen. Now I'm going to put a link in the Zoom chat and would like you to open it. Let me know if you need any help finding the chat.
+[Once they're logged in and sharing their screen:] Great, I can see your screen. Now I'm going to put a link in the Zoom chat and would like you to open it. Let me know if you need any help finding the chat.
 *Wait until they have the 10-10EZ intro page pulled up*
 
 
-**If user is not going to log in:**
+[If user is not going to log in]
 Now I'm going to put a link in the Zoom chat and would like you to open it. Let me know if you need any help finding the chat.
 
 Once you've opened the link and see a page that says "Apply for VA health care", please share your screen with me. Let me know if you need any help doing that.
 
 
-## First Task: Toxic exposure intro page review (Military service step) - 10 minutes
+## First Task: Toxic exposure intro page review - 5 minutes
 
 - Okay we're going to start the application so you can click "Start your application without signing in" (or "Start application" if they are signed in)
 - The part of the form we're looking for feedback on today is about halfway through the form so we'll need you to fill in the next several pages wih either your real info or fake info. It doesn't matter because we won't be submitting the form.
@@ -80,51 +80,54 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - Would you select "Yes" or "No" for this question? Why?
 - Okay for our purposes, let's select "Yes" so we can go through the questions.
 
-- Do you know these dates off the top of your head? *If no:* How would you find out what they were? How long would that take you?
 
 ### Things to watch for:
 
-- Do participants express any confusion about the verbiage used on the intro page?
-- Do any participants open the additional info dropdown for "Learn more about enhanced eligibility status for VA health care" without being prompted to?
-- What comments, if any, do Veterans have about the term "toxic exposure"? Do they express any confusion about what qualifies as toxic exposure?
-- Do participants express any confusion or frustration that VA should have their service history?
+- [Do participants express any confusion about the verbiage used on the intro page?]
+- [Do any participants open the additional info dropdown for "Learn more about enhanced eligibility status for VA health care" without being prompted to?]
+- [What comments, if any, do Veterans have about the term "toxic exposure"? Do they express any confusion about what qualifies as toxic exposure?]
+- [Do participants express any confusion or frustration that VA should have their service history?]
 
-## Second Task: [Toxic exposure questions] - 20 minutes
-
-- 
-- Step 2
-
-### Things to watch for:
-
-- Are there any usability or accessibility issues with the TERA questions and/or date pickers?
-- Do participants express any confusion or frustration that VA should have their service history?
-
-## Third Task: [Insurance questions] - Rest of session until about 5 minutes remain
-
-- Step 1
-- Step 2
+## Second Task: Toxic exposure questions - 15-20 minutes
+- Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly because we're curious about an eligible Veteran's experence going through this form.
+- [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? *If no:* How would you find out what they were? How long would that take you?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- [Are there any usability or accessibility issues with the TERA questions and/or date pickers?]
+- [Do Veterans seem to get confused or stuck on any of the terminology used?]
+- [Are Veterans able to answer the questions by just reading them, or do they need to reference other information to verify their answers?]
+- [Do participants express any confusion or frustration that VA should have their service history?]
+- [How easy would it be for participants to upload their DD-214?]
 
-## Post-Task Interview - X minutes
+## Third Task: Remainder of form - Rest of session until about 5 minutes remain
+- Okay let's keep going through the form. It'd be really helpful if you can think out loud and explain what each section of the form means to you as you work through the questions.
+- [On facility selection page] How would you prefer to select your chosen facility here? Why?
+- [If they reach the review page] Okay you're at the final review page so please make sure you do not hit the blue submit button at the bottom if you don't want to submit this form for real. That would submit a real health care application to the VA. 
 
-- Question 1
-- Question 2
-- Any questions for me? 
+### Things to watch for:
+
+- [Do the medicaid and medicare questions cause pause or confuse the participant?]
+- [How does the participant prefer to search and/or sort facilities?]
+- [If participant gets to the review page, do they open the accordions?]
+
+## Post-Task Interview - 5 minutes
+
+Thanks so much for going through the form with me. I have a couple last questions before we wrap up:
+
+- What were your overall thoughts about the toxic exposure questions we went over first?
+- Is there anything you'd change about the whole form if you could?
+- Do you have any questions for me? 
 
 ## Consent to use video clips
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
+- Lastly, I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
    - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
 ## Thank-You and Closing - X minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works well for Veterans and caregivers.
 
 Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
@@ -134,8 +137,4 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies).]
