@@ -8,7 +8,7 @@ Need help? Here’s how to get started:
 
 - For Authentication errors, reference our [troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) and look for your error code.
 - Type /help in the #vsp-identity slack channel to open our help modal *or* create a GitHub issue using [this template](https://github.com/department-of-veterans-affairs/identity-slackbot/issues/new?assignees=&labels=identity-slackbot%2C+identity-support%2C+OCTO-identity&projects=&template=identity-team-support-issue.md&title=). An Identity team member will respond within three business days.
-- Reference our [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support) to reach out to an Identity engineer directly.
+- Reference our [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/office-hours.md) to reach out to an Identity engineer directly.
 - Email one of our Product Managers either Mike King (Mike.King@oddball.io) or Jim Connelly (jim.connelly@oddball.io),
 - Email our Engineering Lead Joe Niquette (joe.niquette@oddball.io)
 - Email our Delivery Manager Lisa Lindsey (Lisa.Lindsey@oddball.io).
