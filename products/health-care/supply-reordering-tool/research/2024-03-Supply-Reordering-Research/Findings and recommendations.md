@@ -25,7 +25,7 @@ The purpose of this research was to:
 - Evaluate if the current digital form on VA.gov is user-friendly and easy to understand for Veterans. 
 
 ## Research Questions
-- What are Veterans' reactions to and understanding the current digital medical supplies ordering tool?
+- What are Veterans' reactions to and understanding of the current digital medical supplies ordering tool?
 	- Is it clear that the form may include hearing aid supplies and CPAP supplies?
 	- Is it clear to users why some supplies are available and some are not?
 	- Is the form clear on what Veterans need to do when supplies are unavailable?
@@ -55,11 +55,14 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
 
 1. All participants mentioned having notes, mental checks, or check inventories to keep track of when they need to reorder supplies.
-2. Starting page: 
-3. Instruction page with sign-in button: Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
+2. **Starting page:** 
+3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
 	- One participant thought they had already signed in, and four participants wanted to see the available supplies for them.
-5.  Step 1 Verify personal information and address: Most participants expected the permanent address to be already filled in. 
-
+5.  **Step 1 Verify personal information and address:** Most participants (7 out of 9) expected the permanent address to be already filled in. No one was confused between permanent address and temporary address. 
+6.  **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
+7.  **Step 2 Review:** All participants were able to review by clicking on expand component
+8.  **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
+9.  All participants are able to finish the order of a hearing aid task, and most participants gave a score of 4 and 5 for overall use experience. 
 
 
 ## Details of Findings 
