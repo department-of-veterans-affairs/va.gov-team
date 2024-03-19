@@ -189,7 +189,7 @@ _P12 I would use it [ rate tool] if she couldn’t do what she needed to do, if 
 
 ## Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/Reseach-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/research-plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/rate-tool/conversation-guide.md)
 
