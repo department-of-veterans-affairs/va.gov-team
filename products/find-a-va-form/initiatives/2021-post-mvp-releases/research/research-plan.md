@@ -105,8 +105,8 @@ July 23, 2021  |  4:30 pm (robin.garrison@adhocteam.us)
 - Observers:	John Hashimoto (john.hashimoto@va.gov), Marci McGuire (marci.mcguire@gcio.com), Cassandra Allen (cassandra.allen@gcio.com), Zach Morel (zach.morel@gcio.com)
  
 ## Resources	
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)	
-- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md)	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/conversation-guide.md)	
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md)	
 
 ## Approvals
 Plan reviewed and approved by Lauren Alexanderson on July 22, 2021

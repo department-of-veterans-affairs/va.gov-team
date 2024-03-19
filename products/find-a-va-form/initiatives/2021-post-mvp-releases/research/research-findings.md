@@ -6,23 +6,23 @@ Date: 08/10/2021
 
 Cindy Merrill [cindy.merrill@adhocteam.us]
 
-[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-readout-full.pdf)
+[Research Report PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-readout-full.pdf)
 
 <br>
 
 **Jump to:**
 
-[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
-[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#recommendations)
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#recommendations)
 
-[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#further-research-needed)
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#further-research-needed)
 
-[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#appendix)
+[Appendix with screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#appendix)
 
-[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)
 
 <br>
 
@@ -74,7 +74,7 @@ Each participant saw 1 of 3 versions of the Find a Form search results page with
 
 1. Instructions repeated above every form download link in gray help text
 
-In the above 3 designs, the "Get instructions for opening the form in Acrobat Reader" and "Read More" links open a Resources and Support (R&S) article that details the steps you need to do. You can see screenshots of all of these designs in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#Pages-and-applications-used) in the Appendix.
+In the above 3 designs, the "Get instructions for opening the form in Acrobat Reader" and "Read More" links open a Resources and Support (R&S) article that details the steps you need to do. You can see screenshots of all of these designs in the [Pages and applications used section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#Pages-and-applications-used) in the Appendix.
 
 
 # Hypotheses and Conclusions
@@ -145,16 +145,16 @@ Keywords: forms, download
 
 > "Having to go to a different browser or use a different format gets so confusing and bothersome. I would need to have somebody help me through that. My frustration level gets so high so quickly that I’d give up" (p8). 
 
-![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/Steps-PDF-form.png)
+![Steps-PDF-form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/Steps-PDF-form.png)
 
 
 ### 3. Most participants were unable to fill out and digitally sign *any* of the forms without help
 
 **9 of 11 were unable to fill out and digitally sign *any* of 4 specific forms without a lot of help from the moderator and notetakers, and many participants were unable to succeed even with all the help provided.** Several participants were technically savvy, and they had issues just as participants who were less experienced with technology. Only 2 participants were able to download and fill out *any* of the forms without help, and neither was successful with all 4 forms; 1 was a self-professed technology "geek", and the other was not. Issues encountered depended on the participants' specific device, operating system, web browser, whether they had Adobe Acrobat installed, and what application opened PDFs by default on their device.
 
-Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck (see diagram above). Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology. For technical details from each session, see [Technology setup and issues by user](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/PDF_research-study_results.xlsx). This diagram shows the number of unique issues per step and the number of participants affected, both of which were highest for downloading the file to the user's device:
+Unique technical issues were encountered in every session, which will be discussed below in terms of the process step where the participant got stuck (see diagram above). Some of the issues were specifically accessibility-related and affected only screen reader users, while other issues affected participants equally regardless of accessibility technology. For technical details from each session, see [Technology setup and issues by user](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/analysis/PDF_research-study_results.xlsx). This diagram shows the number of unique issues per step and the number of participants affected, both of which were highest for downloading the file to the user's device:
 
-![number-of-issues-per-step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/number-of-issues-per-step.png)
+![number-of-issues-per-step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/number-of-issues-per-step.png)
 
 Here are the steps listed with the greatest number of research participants (of 11) affected at the top:
 
@@ -316,41 +316,41 @@ None at this time
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/conversation-guide.md)
 
-[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research/notes)
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/notes)
 
 
 ## Tools used for Synthesis
 
-- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/Find%20a%20Form%20PDF%20Downloading%20notes%20%26%20data%20analysis%20(7).xlsx)
-- [Technology setup and issues by user](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/PDF_research-study_results.xlsx)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/analysis/Find%20a%20Form%20PDF%20Downloading%20notes%20%26%20data%20analysis%20(7).xlsx)
+- [Technology setup and issues by user](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/analysis/PDF_research-study_results.xlsx)
 - [Mural board for user steps](https://app.mural.co/t/vsa8243/m/vsa8243/1628022580962/ff307182df2400489fee75782bd37f5879cca3a1?sender=ua2ff9f6c0031cb4999ae6676) 
-- [Quantitative analysis including analytics data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/analysis/Quantitative%20Analyses.xlsx)
+- [Quantitative analysis including analytics data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/analysis/Quantitative%20Analyses.xlsx)
 
 ## Pages and applications used
 
 ### Find a Form page on Staging
 
-![find-a-form-staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/find-a-form-staging.png)
+![find-a-form-staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/find-a-form-staging.png)
 
 ### Design #1: Instructions at the top of the list of forms
 
-![UI-alert-at-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-at-top.png)
+![UI-alert-at-top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/UI-alert-at-top.png)
 
 ### Design #2: Instructions repeated above every form download link in a light blue box
 
-![UI-alert-repeated-blue-box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-alert-repeated-blue-box.png)
+![UI-alert-repeated-blue-box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/UI-alert-repeated-blue-box.png)
 
 ### Design #3: Instructions repeated above every form download link in gray help text
 
-![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/UI-help-text-repeated.png)
+![UI-help-text-repeated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/UI-help-text-repeated.png)
 
 ### Resources and Support article linked to from "Get instructions for opening the form in Acrobat Reader" and "Read More" links in above designs
 
-![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/R%26S-How2download.png)
+![R&S-How2download](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/R%26S-How2download.png)
 
 
 
@@ -423,4 +423,4 @@ This research may not include the perspectives of the following underserved Vete
 
 <br>
 
-![recruitment-checkers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/images/recruitment-checker2.png)
+![recruitment-checkers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/images/recruitment-checker2.png)

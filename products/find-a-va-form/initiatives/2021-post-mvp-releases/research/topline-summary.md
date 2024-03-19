@@ -2,8 +2,8 @@
 
 Cindy Merrill, VSA Decision Tools team, Aug 2, 2021
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/conversation-guide.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/conversation-guide.md)
 
 This topline summary is a high level, top-of-mind summary of trends observed in the research sessions, but is not the final result of working with the data discovered. *The information in this document may change, following a deeper review and analysis of the data gathered.*
 

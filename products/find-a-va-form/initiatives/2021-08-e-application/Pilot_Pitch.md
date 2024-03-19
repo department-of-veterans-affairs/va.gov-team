@@ -24,7 +24,7 @@ The use of paper/PDF forms by Veterans and their beneficiaries for determining e
 
 The reliance on PDF comes with another challenge which has grown more prevalent with the complexity of browsers, devices and operating systems: compatability.  While the Adobe PDF format has long been considered "cross compatible" the user experience can vary -- especially for those who do not rely on the free Adobe reader.   This is illustrated by the [steps required to open, fill and/or electronically sign PDFs](https://portal.ct.gov/DEEP/About/Tips-for-Viewing-and-Using-Fillable-PDFs).
 
-In fact, VA.gov user research conducted in [July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/topline-summary.md) New VA efforts to include electronic signature functionality in the PDF forms has made the compatibility issue even more pronounced.
+In fact, VA.gov user research conducted in [July-August of 2021 revealed numerous "real users, real life" friction points in the PDF-centric Find a Form product.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/topline-summary.md) New VA efforts to include electronic signature functionality in the PDF forms has made the compatibility issue even more pronounced.
 
 
 With all this in mind, we believe it is vital that we examine the feasibility of a new, more user-friendly approach to enable Veterans and beneficiaries to apply/manage their benefits -- one that is:
