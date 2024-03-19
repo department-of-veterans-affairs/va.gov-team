@@ -129,8 +129,8 @@
 ### 2021 Priorities
   - New
     - Find a Form eSign-eApplication POC
-      - [X] [Draft - Discovery Sprint Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/Pilot_Pitch.md)
-      - [Folder with Product Brief(s)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/e-application)
+      - [X] [Draft - Discovery Sprint Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-08-e-application/Pilot_Pitch.md)
+      - [Folder with Product Brief(s)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-08-e-application)
       - [Product Epic (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27461)
   - Iterate
     - Find a Form

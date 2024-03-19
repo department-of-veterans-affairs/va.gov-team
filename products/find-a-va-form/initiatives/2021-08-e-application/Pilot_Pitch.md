@@ -104,7 +104,7 @@ https://www.nixonpeabody.com/en/ideas/articles/2020/05/12/electronic-signatures-
 https://www.docusign.com/21st-century-idea-act
 
 - Docusign Agreeable Government Mandate whitepaper
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/IDEA_Dept_Whitepaper.pdf
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-08-e-application/IDEA_Dept_Whitepaper.pdf
 
 - Gartner review of competitive e-signature solutions/services
 https://www.gartner.com/reviews/market/electronic-signature/vendor/docusign/product/docusign-esignature/alternatives
