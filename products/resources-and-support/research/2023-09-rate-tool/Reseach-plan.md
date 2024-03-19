@@ -1,4 +1,5 @@
 # Research Plan for Veterans Support Team, Resources and Support, Rate your experience feedback mechanism.
+Sept 2023
 
 ## Background
 Resources and support (R&S) contains tier 2 content (benefit-adjacent content). The Rate your experience feedback mechanism was introduced to R&S article pages with the option to rate articles as either good or bad. As a part of the Rate your experience product initiative, once a user rates an article as 'bad', we would like to implement a way for users to report the reason why they rated the page poorly. We would also like these issues to be actionable and easily accessible for the content owners so that improvements can be easily made.
