@@ -9,10 +9,11 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
-    - **Sub Goal: CIE Discovery**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
+    - **Sub Goal: Discovery - Check Travel Eligibility**
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
 - **GOAL: Increase PCI Usage**
-    - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -28,12 +29,14 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-    - **Sub Goal: CIE Discovery**
+    - **Sub Goal: Discovery - Check Travel Eligibility**
+        - TBD
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
         - TBD
 - **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+    - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - TBD
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - TBD
@@ -61,10 +64,10 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
-    - **Sub Goal: CIE Discovery**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
+    - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usage**
-    - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -81,16 +84,18 @@ ________________________________________________________________________________
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
     - ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal:  MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)   
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
-    - **Sub Goal: CIE Discovery**
+    - **Sub Goal: Discovery - Check Travel Eligibility**
         - 🟥 [[UX][Research] SPIKE: Determine research to pursue (standalone travel w/ eligibility vs. echeckin w/ eligibility)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+        - TBD
 - **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+    - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
@@ -119,11 +124,13 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal:  MVP: Support Mileage-Only Travel Claims for OH Sites**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**
+    - **Sub Goal: Discovery - Check Travel Eligibility**
+    - **Sub Goal: Discovery - Stand-alone Travel for VistA Sites**
 - **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
     - **Sub Goal: Change wording for wait time after checking in**
 - **GOAL: Increase PCI Usage**
-    - **Sub Goal: Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -138,7 +145,7 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)    
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**
         - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
             - Rolled over from last sprint; 1 point left
         - ✔️ ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
@@ -156,6 +163,10 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟥 [[UX] Create GA Custom Dashboard with widgets ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77093)
         - ✔️ ❗ 🟥 Gather feedback from Kay and Kristen on research plan and conversation guide
         - ✔️ ❗ 🟥 Gather feedback from CAIA on content
+    - **Sub Goal: Discovery - Check Travel Eligibility**
+        - 🟥 [[UX] [Design] Create Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)     
+    - **Sub Goal: Discovery - Stand-alone Travel for VistA Sites**
+        - 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
 - **GOAL: Let Veterans Know what to Expect based on their Arrival at the Facility**
    - **Sub Goal: Change wording on completion page based on if Veteran has arrived at the facility**
         - ❗ 🟩 [[FE] Add New "Arrive at facility?" Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
@@ -163,16 +174,13 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟥 [[UX] Update PCI Service Blueprint w changes to userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73965)
         - ✔️ ❗ 🟥 [Update Product Artifacts for Release #76060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76060)            
 - **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: [Unified Check-in: Priority 1 - Reduce Veteran Confusion between Pre-Check-in & eCheck-in - New Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+    - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
         - 🟥 [[UX][Design] SPIKE: Appointment Detail Page UI Discovery ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77232)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
-- **GOAL: Discovery**
-    - ✔️ 🟥 [[UX] [Research] Generative research to better understand the need for standalone travel app for VistA Sites](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77682)
-    - 🟥 [[UX] [Design] Create Userflow for Checking Eligibility in the Standalone Travel App](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77666)
 - **GOAL: Address Tech Debt**
     - 🟦 [[BE] Handle Faraday::TimeoutError Exception TravelClaimSubmissionWorker ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77678)
     - ✔️ 🟥 [[Design] Create 3 components in MHV - UA Library to use in Unified Checkin Figma File #75531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75531)     
@@ -190,7 +198,7 @@ ________________________________________________________________________________
 - **GOAL: Onboard New Team Members**
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: Cross-Product Discovery - Complete Multiple Tasks**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
@@ -207,7 +215,7 @@ ________________________________________________________________________________
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ✔️ ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗ 🟥 [Make content changes from CAIA ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75317)
             - This is the CAIA review ticket, we may or may not have feedback to address
         - ✔️ ❗ 🟥 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74024)
@@ -264,7 +272,7 @@ ________________________________________________________________________________
  - **GOAL: Offboard Team Members**
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
+     - **Sub Goal: Stand-alone Travel Application for OH Sites**
 - **GOAL: Address Usage Issues**
     - **Sub Goal: Change wording for wait time after checking in**
     - **Sub Goal: Content & Design Discovery for adding VVC and CVT Support**
@@ -287,7 +295,7 @@ ________________________________________________________________________________
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - 🚧 ❗ 🟦🟩 [[AWS DEVOPS] - IAM key permissions and rotation doc](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75443)
 - **GOAL: Integrate with CERNER**
-    - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**  
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ✔️ ❗ 🟥 [[UX] Update PCI Service Blueprint to add row(s) for OH check-ins](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74025)
         - ✔️ ❗ 🟥 [[Content] Create SMS Notifications for OH BT reminders and notifications](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/75127)
         - ✔️ ❗ 🟥 [[Content] Create (make edits to) content for Intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75191)
@@ -329,7 +337,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
  - **GOAL: Support Production**  
  - **GOAL: Integrate with CERNER**
-     - **Sub Goal: MVP: Support Mileage-Only Travel Claims for OH Sites**
+     - **Sub Goal: Stand-alone Travel Application for OH Sites**
  - **GOAL: Address Usage Issues**
      - **Sub Goal: Change wording for wait time after checking in** 
 - **GOAL: Increase PCI Usage**
