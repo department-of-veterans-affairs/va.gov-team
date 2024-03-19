@@ -11,7 +11,7 @@
 | Develop Va.gov SLOs | Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov |O1KR2 - Continuous improvement of the Veteran login experience |
 | Data Reporting - External Auth | | |
 | Create VERA Frontend on va.gov | | |
-| Establish & Publish Response Time Metrics | | |
+| Establish & Publish Response Time Metrics | Basically, a scorecard on how we're fulfilling other teams requests. | O4KR2 - Gives us an idea of how we're doing w/r/t supporting other va.gov product teams |
 | STS Integration Tracker | | |
 | Incident Response Refactor| | |
 | Incident Response Communication | | |
