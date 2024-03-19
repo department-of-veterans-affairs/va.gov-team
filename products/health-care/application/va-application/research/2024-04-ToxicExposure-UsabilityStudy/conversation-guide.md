@@ -100,8 +100,6 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [Do Veterans seem to get confused or stuck on any of the terminology used?]
 - [Are Veterans able to answer the questions by just reading them, or do they need to reference other information to verify their answers?]
 - [Do participants express any confusion or frustration that VA should have their service history?]
-- [How easy would it be for participants to upload their DD-214?]
-- [Do Veterans expect to or want to upload other supporting evidence for TERA?]
 
 ## Third Task: Document upload - 5 minutes
 - [When they get to DD-214 upload page] How easy or difficult would it be for you to upload your discharge papers? Do you usually have those handy?
