@@ -1,4 +1,4 @@
-Generative research / discovery - standalone travel app for VistA sites
+Generative research / interview - standalone travel app for VistA sites
 ===========================================================================================
 
 Discussion with Kristen McConnell and Check-in UX team members to understand more about the background behind the standalone app for VistA and any implications for Check-in. 
