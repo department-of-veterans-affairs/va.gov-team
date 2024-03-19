@@ -18,7 +18,7 @@
 Thanks for joining us today! My name is [Name] and I have a note taker here with me.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about questions on the VA health care application regarding toxic exposure.
+Today we're going to go over the VA health care application as we'd like to get your feedback on some recent changes to the form.
 
 
 Before we start, I have a few things that I want to go over with you:
