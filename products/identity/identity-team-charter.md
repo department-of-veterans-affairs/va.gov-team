@@ -39,10 +39,50 @@ Product Managers are responsible for keeping these directories up-to-date and we
 ### VA Product Owners
 
 - Tom Black
+- 
+### Program Management
 
-### Product and Program Management
+- Parker Baranowski
+  
+### Product Management
 
 - Mike King, Jim Connelly - Product Leadership
+
+### Delivery Manager
+
+- Lisa Lindsay
+
+### Engineering lead & Security
+
+- Joe Niquette
+
+### Backend Engineering Team
+
+- Trevor Bosaw - team lead
+- Riley Anderson
+- John Bramley
+- Dick Davis
+
+### Frontend Engineering Team
+
+- Alexander Garcia - team lead
+- Caitlin Neathawk
+- Ian Magenta
+- Afia Caruso
+- Antonette Caldwell
+
+### DevOps Engineering Team
+
+- Josh Houston
+- Vid Jovanovic
+- Zac Yellowhorse
+
+## UX Team
+
+- Clayton Zook
+- Charley Tran
+- Josh Matulonis
+- Megan Driscoll
 
 ## Communications
 
