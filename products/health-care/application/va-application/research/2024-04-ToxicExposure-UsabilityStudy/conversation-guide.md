@@ -90,11 +90,9 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [What comments, if any, do Veterans have about the term "toxic exposure"? Do they express any confusion about what qualifies as toxic exposure?]
 - [Do participants express any confusion or frustration that VA should have their service history?]
 
-## Second Task: Toxic exposure questions - 15-20 minutes
+## Second Task: Toxic exposure questions - 15 minutes
 - Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly if you're comfortable with it because we're curious about an eligible Veteran's experence going through this form.
 - [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? [If no:] How would you find out what they were? How long would that take you?
-- [When they get to DD-214 upload page] How easy or difficult would it be for you to upload your discharge papers? Do you usually have those handy?
-- Are there any other documents you would either expect to be asked to upload here or want to upload in support of your responses to the toxic exposure questions we just went through?
 
 ### Things to watch for:
 
@@ -105,13 +103,26 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [How easy would it be for participants to upload their DD-214?]
 - [Do Veterans expect to or want to upload other supporting evidence for TERA?]
 
-## Third Task: Remainder of form - Rest of session until about 5 minutes remain
+- ## Second Task: Document upload - 5 minutes
+- [When they get to DD-214 upload page] How easy or difficult would it be for you to upload your discharge papers? Do you usually have those handy?
+- Are there any other documents you would either expect to be asked to upload here or want to upload in support of your responses to the toxic exposure questions we just went through?
+
+### Things to watch for:
+
+- [How easy would it be for participants to upload their DD-214?]
+- [Do Veterans expect to or want to upload other supporting evidence for TERA?]
+
+## Fourth Task: Remainder of form - Rest of session until about 5 minutes remain
 - Okay let's keep going through the form. It'd be really helpful if you can think out loud and explain what each section of the form means to you as you work through the questions.
+- [On the household financial info page] Take a little time to read through this page as you typically would and tell me what thoughts you have or if anything is confusing.
+- After reading that content, would you want to share your household financial information or not? Why?
 - [On facility selection page] How would you prefer to select your chosen facility here? Why?
 - [If they reach the review page] Okay you're at the final review page so please make sure you do not hit the blue submit button at the bottom if you don't want to submit this form for real. That would submit a real health care application to the VA. 
 
 ### Things to watch for:
 
+- [Do they open the "Learn more about enhanced eligibility status for VA health care" additional info link without being prompted?]
+- [What reasons do users give for why they would or wouldn't answer the household financial info questions?]
 - [Do the medicaid and medicare questions cause pause or confuse the participant?]
 - [How does the participant prefer to search and/or sort facilities?]
 - [If participant gets to the review page, do they open the accordions?]
