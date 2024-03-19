@@ -66,6 +66,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
     - **Sub Goal: Discovery - Check Travel Eligibility**
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Submit Q1 Translations to the State Department**
@@ -85,6 +86,10 @@ ________________________________________________________________________________
     - ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
+        - ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
+        - ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
+        - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
+        - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
         - ❗ 🟩 [[FE] Update Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
@@ -97,8 +102,9 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
         - 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
-    - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
+        - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
         - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
@@ -117,6 +123,7 @@ ________________________________________________________________________________
         - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
         - 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+        - 🟨 [[DevOps] Document the ePAS/AWS access process for CIE. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78661)
         
 ------- END FUTURE / TENTATIVE ------
 </details>
