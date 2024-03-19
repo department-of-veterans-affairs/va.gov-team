@@ -52,23 +52,14 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
+"Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#key-findings)_
+1. All participants mentioned having notes, mental checks, or check inventories to keep track of when they need to reorder supplies.
+2. Starting page: 
+3. Instruction page with sign-in button: Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
+	- One participant thought they had already signed in, and four participants wanted to see the available supplies for them.
+5.  Step 1 Verify personal information and address: Most participants expected the permanent address to be already filled in. 
 
-1. Finding one
-
-2. Finding two
-
-3. Finding three
-
-4. Finding four
-
-5. Finding five
-
-6. Finding six
-
-7. Finding seven
 
 
 ## Details of Findings 
