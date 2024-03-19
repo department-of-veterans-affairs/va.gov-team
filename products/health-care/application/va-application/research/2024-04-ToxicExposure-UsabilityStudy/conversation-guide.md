@@ -52,7 +52,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [If yes: They shouldn't have been recruited, but continue with the study]
 
 2. Just to verify how you'll go through the form today, is it correct that you do/do not have an identity-verified VA.gov login?
-   - [Tracker should show this; just check with the participant for accuracy]
+- [Tracker should show this; just check with the participant for accuracy so you now if they'll be logging in or not]
 
 [Link to share in Zoom chat:] https://www.va.gov/health-care/apply/application/introduction
 
@@ -89,8 +89,9 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [Do participants express any confusion or frustration that VA should have their service history?]
 
 ## Second Task: Toxic exposure questions - 15-20 minutes
-- Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly because we're curious about an eligible Veteran's experence going through this form.
-- [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? *If no:* How would you find out what they were? How long would that take you?
+- Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly if you're comfortable with it because we're curious about an eligible Veteran's experence going through this form.
+- [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? [If no:] How would you find out what they were? How long would that take you?
+- [When they get to DD-214 upload page] How easy or difficult would it be for you to upload your discharge papers? Do you usually have those handy?
 
 ### Things to watch for:
 
@@ -122,10 +123,9 @@ Thanks so much for going through the form with me. I have a couple last question
 ## Consent to use video clips
 
 - Lastly, I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it works well for Veterans and caregivers.
 
