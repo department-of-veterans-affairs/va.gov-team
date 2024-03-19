@@ -1,4 +1,38 @@
-### Unified Direct Deposit Form Plan
+## Brief overview
+
+Direct deposit is moving to a single form, so all the logic for EDU vs CNP needs to be going away, and one from will be resposible for both. This form will essentially be an extension/leverage functionality of the current CNP form as the EDU part is basically getting absorbed into the database that handles CNP currently.
+
+How do we migrate cleanly to a single form? 
+How do we deal with all the references to CNP vs EDU in the current code?
+How do we make the deprecation of the 2 form version as painless as possible?
+Where do we refactor and clean up the existing logic to learn from any past mistakes or code smells?
+
+
+## Changes required for single form version of direct deposit
+When the single form toggle is set to true.
+
+**MHV/DSLogon users** - see identity verify alert with expanded information about credential retirement - this _should_ be fine to do now and push up without needing to rely on any particular toggle
+
+**Not eligible users** - 
+- this would be a check on the 'canUpdateDirectDeposit' control information AND the new flag 'eduClaimInd' if both of those are false (or maybe they will incorporate the eduClaimInd into the boolean that returns in canUpdate???) then we show the not eligible content. 
+- Do we still need to check other conditions like we are doing currently? `signInServicesEligibleForDD.has(signInService) && isInMVI && is2faEnabled` these may not really be needed if we determine that the control information is really where we should be looking regardless. If they aren't in MVI or dont have 2FA set up then maybe we should stop the request from even happening?
+- The not eligible content needs to be outside of a ProfileInfoCard component and should just be in the page content.
+- Should NOT show the fraud summary box
+
+**Eligible users and currently enrolled users** summary of UI changes
+- Profile info card will have the title 'Bank account information'
+- Edit / placeholder info is the same as prior UI
+- Fraud summary box adds a heading and moves below the VA payment history card
+	- Also changes to main content since heading is added
+- Form edit state has slightly updated content: 'Please provide your bank’s routing number as well as your current account and type. '
+- Account number field now says: Account number (No more than 17 digits)
+- Aria label for the form wrapping div is set to `aria-label={`Edit bank account for ${sectionTitle.toLowerCase()}`}` so we need to make sure that is changed to be correct for single form
+- Error messages need a title added to the alert. I'm not sure if this was something that was added or was missed in previous UI iterations
+- Update saved slim alert doesn't have a border in the figma files, but does in code... check on this.
+
+
+
+### Unified Direct Deposit Form Plan (WIP)
 
 1. New Direct Deposit base route component
 	- Use Toggle state within Profile component / getRoutes function to use the new component. Similarly to how the EK / NOK is being done currently.
