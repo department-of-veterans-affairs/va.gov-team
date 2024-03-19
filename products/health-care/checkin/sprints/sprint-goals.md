@@ -160,7 +160,7 @@ ________________________________________________________________________________
             - Rolled over from last sprint; 1 point left
         - ✔️ ❗ 🟩 [[FE] - multi facility and single facility pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76727)
         - ✔️ ❗ 🟩 [[FE] - Create travel submission hook for travel-claim app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75754)
-        - ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
+        - ✔️ ❗ 🟩 [[FE] Placeholder for anything that was missed because of changing content/design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77013)
         - ✔️ ❗ 🟩 [[FE] Create e2e test scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75708)
         - ✔️ ❗ 🟩 [[FE] Create E2E tests ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75711)
         - ✔️ ❗ 🟩 [Midpoint Review - Accessibility Feedback - Modernized Check-in, eCheck-in, Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77000)
