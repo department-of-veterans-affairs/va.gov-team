@@ -1,4 +1,4 @@
-# VA.gov Login SLO
+# VA.gov Login SLO Phase 2
 
 ## Overview: 
 Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov with the ultimate goal of continuously improving the login process to VA.gov. 
@@ -78,7 +78,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 
 ## Solution Approach: 
 
-* Research
+* Research (Done in Phase 2)
   * What do Veterans care about in this space?
   * What communication does CAIA have if va.gov maintenance is planned or is happening?
   * What do the other VA teams care about?
