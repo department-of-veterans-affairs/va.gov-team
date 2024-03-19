@@ -25,28 +25,30 @@ The purpose of this research was to:
 - Evaluate if the current digital form on VA.gov is user-friendly and easy to understand for Veterans. 
 
 ## Research Questions
-
-1. What are Veterans' reactions to and understanding the current digital medical supplies ordering tool?
+- What are Veterans' reactions to and understanding the current digital medical supplies ordering tool?
 	- Is it clear that the form may include hearing aid supplies and CPAP supplies?
 	- Is it clear to users why some supplies are available and some are not?
 	- Is the form clear on what Veterans need to do when supplies are unavailable?
 	- Do Veterans know what to do when they want to change supplies after submission?
-2. How are Veterans notified when their prescribed medical supplies are eligible to reorder?
+   	- Can Veterans complete the reorder process?
+- How are Veterans notified when their prescribed medical supplies are eligible to reorder?
    	- How is the process of reordering indicated to Veterans first time and subsequent times? 
 
 ## Methodology 
-
-We will conduct remote usability and interview sessions on Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct the study in the staging environment, with one test account and a different password created specifically for the study. We will document each password created in the sensitive repo.
+We will conduct remote usability and interview sessions on Zoom. The interviews will consist of one task and direct questions. We will conduct the study in the [staging environment](https://staging.va.gov/](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/), with one test account and a different password created specifically for the study. We will document each password created in the [sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/pharmacy/medical%20supplies-staging%20passwords.md).
 
 ## Hypotheses and Conclusions
 
-("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
-
-- Hypothesis 1: Participants will get through the tasks of ordering the supplies relatively easily.
-- Hypothesis 2: Participants may not know how to change supplies once orders are submitted. 
-- Hypothesis 3: Veterans probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-- Hypothesis 4: Veterans probably find out about the reordering process from their VA provider.
-- Hypothesis 5: Most Veterans would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order. 
+1. Participants will get through the ordering the supplies task relatively easily.
+	- Maybe True: 9 out of 9 participants finished the reorder task. There was some wonkiness on the verify address step, but everyone was able to figure it out with little to no assistance. 
+2. Participants may not know how to change supplies once orders are submitted.
+	- Likely False: Everyone knew to contact their health team or doctor if they needed help with their supplies.
+3. Participants probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
+   	- Likely True: All participants mentioned that they keep notes or mental note or check their inventories of supplies to know when to reorder.
+4. Participants probably find out about the reordering process from their VA provider.
+   	- Maybe True: Some mentioned their provider places an order when they visit for an appointment, and some mentioned that they know about mailing the order from the paper form they receive in the mail. 
+5. Most Participants would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order.
+   	- Definitely true: Most participants know who to contact for changing supplies, and most of them had good and easy experiences with that. 
 
 ## Key Findings
 
