@@ -1,4 +1,4 @@
-# Fraud Notifications ([product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20Notifications.md) updates and additional questions that have come up)
+# Fraud Notifications (possible [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20Notifications.md) updates and additional questions that have come up)
 
 ## Project Summary
 Notifications about sensitive activities made in a veteran’s account can serve as an early warning sign of unauthorized access or a security breach.
