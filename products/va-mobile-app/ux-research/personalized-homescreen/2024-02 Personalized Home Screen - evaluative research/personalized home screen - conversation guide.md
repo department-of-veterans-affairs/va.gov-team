@@ -45,7 +45,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
  * First, I’d like to ask you to share your  device’s screen so I can help you install the app and we can look at it together. I can walk you through how to start the screen share.
 *[Help participant share screen]*
    * [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-   * _If they have screen curtain on:_ It looks like you have screen curtain enabled—we’ll need to turn it off. To turn it off—use 3 fingers and triple tap.
+   * _If they have screen curtain on:_ It looks like you have screen curtain enabled—we’ll need to turn it off. To turn it off—use 3 fingers and quadruple (4) tap.
  * Great, I’m seeing your screen. Now I’m going to help you get the app ready.
 
 ### App Install & log in
