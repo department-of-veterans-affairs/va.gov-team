@@ -1,14 +1,4 @@
-# Appointment Details Copy Doc
-
----
-
-<details><summary>Use the following template for content structure.</summary>
-  
-![va-appt-template-xsmall copy](https://user-images.githubusercontent.com/72046525/123011888-1c570a00-d376-11eb-8eb1-5c8e19a60b0d.png)
-
-</details>
-
----
+# WIP - Appointment Details Copy Doc - 2024 Redesign
 
 ## VA Requests
 
@@ -22,74 +12,71 @@ Page title: `[Page Header] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
+**CONTENT**
 
-**PAGE HEADER**
+Card icon: [calendar]()
 
-```diff
-- Pending {type of care} appointment
-+ We received your request
-@@ GH51648 @@
 ```
+<h1>We have received your request<h1>
 
-**PAGE DESCRIPTION**
+<va-alert
+    slim
+    success
+>
 
-```diff
-- Your appointment request has been submitted. The time and date of this appointment are still to be determined.
-+ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-@@ GH51648 @@
-```
+<p>
+We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+</p>
 
-```diff
-- Review your appointments
-+ Review your upcoming appointments
-@@ GH51648 @@
-```
+<va-link href="">Review your appointments</va-link>
 
-```diff
-- Schedule a new appointment
-+ Schedule a new appointment
-@@ GH51648 @@
-```
+<va-link href="">Schedule a new appointment</va-link>
 
-**PAGE CONTENT**
+</va-alert>
 
-```diff
-+ [Type of care]
+<h2>Preferred date and time</h2>
+<ul>
+    <li>[Preferred date & time #1]</li>
+    <li>[Preferred date & time #2]</li>
+    <li>[Preferred date & time #3]</li>
+</ul>
 
-- VA appointment
-+ Facility
-{Facility name}
-{Facility address line 1}
-{Facility address line 2}
+<h2>Type of care</h2>
+<p>[Type of care]<p>
+
+<h2>How you prefer to attend</h2>
+<p>[Selected modality]<p>
+
+<h2>Facility<h2>
+<p>
+[Facility name]
+[Facility address line 1]
+[Facility address line 2]
 Directions
+</p>
 
-Main phone: {phone number} (TTY: 711)
+<h2>Phone</h2>
+<p>[phone number] (TTY: 711)</p>
 
-- Preferred type of appointment
-- {Office visit, Phone call, Telehealth (through VA Video Connect)}
+<h2>Details you’d like to share with your provider</h2>
+[Booking note]
 
-Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
 
-- You shared these details about your concern
-+ Details you’d like to share with your provider
-{Reason}: {Booking note}
+<h2>Your contact details</h2>
+<p>
+Email: [Email address]
+Phone number: [phone number]
+</p>
 
-+ How you want to attend
-[Selected modality]
+<va-button>
+Cancel request
+</va-button>
 
-- Your contact details
-+ Your contact information
-Email: {Email address}
-Phone number: {phone number}
-@@ GH52490 @@
 ```
 
-**ACTIONS**
 
-```Cancel request```
+
+
 
 
 ### VA Request - Pending
@@ -105,12 +92,10 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```diff
-- Pending {type of care} appointment
+- Pending [type of care] appointment
 + Request for appointment 
 @@ GH52490 @@
 ```
-
-**PAGE DESCRIPTION**
 
 ```diff
 - The time and date of this appointment are still to be determined.
@@ -126,32 +111,32 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 - VA appointment
 + Facility
-{Facility name}
-{Facility address line 1}
-{Facility address line 2}
+[Facility name]
+[Facility address line 1]
+[Facility address line 2]
 Directions
 
-Main phone: {phone number} (TTY: 711)
+Main phone: [phone number] (TTY: 711)
 
 - Preferred type of appointment
-- {Office visit, Phone call, Telehealth (through VA Video Connect)}
+- [Office visit, Phone call, Telehealth (through VA Video Connect)]
 
 Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 - You shared these details about your concern
 + Details you’d like to share with your provider
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 
 + How you want to attend
 [Selected modality]
 
 - Your contact details
 + Your contact information
-Email: {Email address}
-Phone number: {phone number}
+Email: [Email address]
+Phone number: [phone number]
 @@ GH52490 @@
 ```
 
@@ -175,14 +160,12 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```diff 
-- {Type of care} appointment request
+- [Type of care] appointment request
 + Canceled request for appointment
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this request. If you still need an appointment, call us or request a new appointment online.
+[Canceler] canceled this request. If you still need an appointment, call us or request a new appointment online.
 ```
 
 **PAGE CONTENT**
@@ -193,32 +176,32 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 - VA appointment
 + Facility
-{Facility name}
-{Facility address line 1}
-{Facility address line 2}
+[Facility name]
+[Facility address line 1]
+[Facility address line 2]
 Directions
 
-Main phone: {phone number} (TTY: 711)
+Main phone: [phone number] (TTY: 711)
 
 - Preferred type of appointment
-- {Office visit, Phone call, Telehealth (through VA Video Connect)}
+- [Office visit, Phone call, Telehealth (through VA Video Connect)]
 
 Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 - You shared these details about your concern
 + Details you’d like to share with your provider
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 
 + How you want to attend
 [Selected modality]
 
 - Your contact details
 + Your contact information
-Email: {Email address}
-Phone number: {phone number}
+Email: [Email address]
+Phone number: [phone number]
 @@ GH52490 @@
 ```
 
@@ -240,10 +223,8 @@ Breadcrumb: `< Back to appointments`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 We've scheduled and confirmed your appointment.
@@ -256,19 +237,19 @@ We've scheduled and confirmed your appointment.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care} 
+Type of care: [Type of care] 
 
 VA appointment
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 **ACTIONS**
@@ -295,29 +276,27 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA appointment
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 **ACTIONS**
@@ -344,10 +323,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -356,19 +333,19 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care}
+Type of care: [Type of care]
 
 VA appointment
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 **ACTIONS**
@@ -391,31 +368,29 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care}
+Type of care: [Type of care]
 
 VA appointment
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 ---
@@ -433,10 +408,8 @@ Breadcrumb: `< Back to appointments`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 We've scheduled and confirmed your appointment.
@@ -449,16 +422,16 @@ We've scheduled and confirmed your appointment.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care}
+Type of care: [Type of care]
 
 COVID-19 vaccine
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 **ACTIONS**
@@ -487,26 +460,24 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care}
+Type of care: [Type of care]
 
 COVID-19 vaccine
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 **ACTIONS**
@@ -538,10 +509,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -550,17 +519,17 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care}
+Type of care: [Type of care]
 
 
 COVID-19 vaccine
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 **ACTIONS**
@@ -583,29 +552,27 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of care}
+Type of care: [Type of care]
 
 
 COVID-19 vaccine
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 ### Claim Exam Booked - Upcoming
@@ -621,26 +588,24 @@ Breadcrumb: `< Back to appointments`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-{serviceCategory} Claim exam
+[serviceCategory] Claim exam
 This appointment is for disability rating purposes only. It doesn't include treatment. If you have medical evidence to support your claim, bring copies to this appointment.
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 ```
 
@@ -669,10 +634,8 @@ Breadcrumb: `< Back to past appointments`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -681,15 +644,15 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-{serviceCategory} Claim exam
+[serviceCategory] Claim exam
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 ```
 
@@ -710,27 +673,25 @@ Breadcrumb: `< Back to appointments`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
 
 ```
-{serviceCategory} Claim exam
+[serviceCategory] Claim exam
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 ```
 
@@ -752,27 +713,25 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at home
 
 You can join this meeting from your home or anywhere you have a secure internet connection.
 You can join VA Video Connect up to 30 minutes prior to the start time.
 
-{Button with label: Join appointment}
+[Button with label: Join appointment]
 
 You'll be meeting with
-{Provider name}
+[Provider name]
 
 Prepare for video visit
 
@@ -817,10 +776,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -829,12 +786,12 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at home
 
 Provider
-{Provider name}
+[Provider name]
 ```
 
 **ACTIONS**
@@ -858,25 +815,23 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment.
+[Canceler] canceled this appointment.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 
 VA Video Connect at home
 
 Provider
-{Provider name}
+[Provider name]
 ```
 
 
@@ -896,32 +851,30 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at a VA location
 
 You must join this meeting from this VA location:
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You'll be meeting with
-{Provider name}
+[Provider name]
 ```
 
 **ACTIONS**
@@ -953,10 +906,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -965,20 +916,20 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at a VA location
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You'll be meeting with
-{Provider name}
+[Provider name]
 ```
 
 **ACTIONS**
@@ -1002,33 +953,31 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment.
+[Canceler] canceled this appointment.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 
 VA Video Connect at a VA location
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 
 You'll be meeting with
-{Provider name}
+[Provider name]
 ```
 
 ---
@@ -1047,27 +996,25 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect using VA device
 
 You can join this meeting from your home or anywhere you have a secure internet connection.
 You can join VA Video Connect up to 30 minutes prior to the start time.
 
-{Button with label: Join appointment}
+[Button with label: Join appointment]
 
 Provider
-{Provider name}
+[Provider name]
 
 
 ```
@@ -1081,8 +1028,8 @@ Need to make changes?
 
 Contact this facility if you need to reschedule or cancel your appointment:
 
-{Facility name}
-Main phone: {phone number} (TTY: 711)
+[Facility name]
+Main phone: [phone number] (TTY: 711)
 
 ```
 
@@ -1102,10 +1049,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -1114,13 +1059,13 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 
 VA Video Connect using VA device
 
 Provider
-{Provider name}
+[Provider name]
 ```
 
 **ACTIONS**
@@ -1144,24 +1089,22 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment.
+[Canceler] canceled this appointment.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect using VA device
 
 Provider
-{Provider name}
+[Provider name]
 ```
 
 
@@ -1181,29 +1124,27 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at an ATLAS location
 You must join this video meeting from this ATLAS (non-VA) location:
-{Location address}
+[Location address]
 Directions
 
-Appointment code: {Appt code}
+Appointment code: [Appt code]
 
 You will use this code to find your appointment using the computer provided at the site.
 
 You'll be meeting with
-{Provider name}
+[Provider name]
 ```
 
 **ACTIONS**
@@ -1217,8 +1158,8 @@ Need to make changes?
 
 Contact this facility if you need to reschedule or cancel your appointment:
 
-{Facility name}
-Main phone: {phone number} (TTY: 711)
+[Facility name]
+Main phone: [phone number] (TTY: 711)
 
 ```
 
@@ -1239,10 +1180,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -1251,14 +1190,14 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at an ATLAS location
-{Location address}
+[Location address]
 Directions
 
 Provider
-{Provider name}
+[Provider name]
 ```
 
 **ACTIONS**
@@ -1282,26 +1221,24 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment.
+[Canceler] canceled this appointment.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA Video Connect at an ATLAS location
-{Location address}
+[Location address]
 Directions
 
 Provider
-{Provider name}
+[Provider name]
 ```
 
 ---
@@ -1320,34 +1257,32 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA appointment over the phone
 Someone from your VA facility will call you at your phone number on file at the appointment time.
 
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 ```
 You shared these details about your concern
 
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 **ACTIONS**
@@ -1375,10 +1310,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -1387,22 +1320,22 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA appointment over the phone
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 ```
 You shared these details about your concern
 
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 **ACTIONS**
@@ -1426,34 +1359,32 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 VA appointment over the phone
-{Facility name}
-{Facility address}
+[Facility name]
+[Facility address]
 Directions
 
-Clinic: {Clinic name}
-Location: {Clinic location}
-Main phone: {phone number} (TTY: 711)
+Clinic: [Clinic name]
+Location: [Clinic location]
+Main phone: [phone number] (TTY: 711)
 ```
 
 ```
 You shared these details about your concern
 
-{Reason}: {Booking note}
+[Reason]: [Booking note]
 ```
 
 **ACTIONS**
@@ -1479,12 +1410,10 @@ Breadcrumb: `< Back to [H1 of previous page]`
 **PAGE HEADER**
 
 ```diff
-- Pending {type of care} appointment
+- Pending [type of care] appointment
 + We have recieved your request
 @@ GH51668 @@ 
 ```
-
-**PAGE DESCRIPTION**
 
 ```diff
 - Your appointment has been submitted. The time and date of this appointment are still to be determined.
@@ -1508,20 +1437,20 @@ Breadcrumb: `< Back to [H1 of previous page]`
 
 ```
 Preferred community care provider
-{Provider name}
+[Provider name]
 
 Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 You shared these details about your concern
-{Booking note}
+[Booking note]
 
 Your contact details
-Email: {Email address}
-Phone number: {phone number}
-Call {morning, afternoon, evening}
+Email: [Email address]
+Phone number: [phone number]
+Call [morning, afternoon, evening]
 ```
 
 ```diff
@@ -1529,16 +1458,16 @@ Call {morning, afternoon, evening}
 + Type of care 
 
 Preferred community care provider
-{Provider name}
+[Provider name]
 
 - Preferred date and time
 + Preferred date and timeframe
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 + Scheduling facility
-+ {Facility name} 
++ [Facility name] 
 + Main phone number: [XXX-XXX-XXXX](TTY: 711) 
 
 + Preferred provider
@@ -1551,13 +1480,13 @@ Preferred community care provider
 + [Language]
 
 - You shared these details about your concern
-- {Booking note}
+- [Booking note]
 + Details you’d like to share with your provider
 + [Booking note]
 
 Your contact details
-Email: {Email address}
-Phone number: {phone number}
+Email: [Email address]
+Phone number: [phone number]
 @@ GH52490 @@
 ```
 
@@ -1581,12 +1510,10 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```diff
-- Pending {type of care} appointment
+- Pending [type of care] appointment
 + Request for community care
 @@ GH51668 @@
 ```
-
-**PAGE DESCRIPTION**
 
 ```diff
 - The time and date of this appointment are still to be determined.
@@ -1598,36 +1525,36 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 ```
 Preferred community care provider
-{Provider name}
+[Provider name]
 
 Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 You shared these details about your concern
-{Booking note}
+[Booking note]
 
 Your contact details
-Email: {Email address}
-Phone number: {phone number}
-Call {morning, afternoon, evening}
+Email: [Email address]
+Phone number: [phone number]
+Call [morning, afternoon, evening]
 ```
 
 ```diff
 + Type of care 
 
 Preferred community care provider
-{Provider name}
+[Provider name]
 
 - Preferred date and time
 + Preferred date and timeframe
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 + Scheduling facility
-+ {Facility name} 
++ [Facility name] 
 + Main phone number: [XXX-XXX-XXXX](TTY: 711) 
 
 + Preferred provider
@@ -1640,13 +1567,13 @@ Preferred community care provider
 + [Language]
 
 - You shared these details about your concern
-- {Booking note}
+- [Booking note]
 + Details you’d like to share with your provider
 + [Booking note]
 
 Your contact details
-Email: {Email address}
-Phone number: {phone number}
+Email: [Email address]
+Phone number: [phone number]
 @@ GH52490 @@
 ```
 
@@ -1669,15 +1596,13 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```diff
-- {Type of care} appointment request
+- [Type of care] appointment request
 + Canceled request for community care
 @@ GH52490 @@
 ```
 
-**PAGE DESCRIPTION**
-
 ```diff
-- {Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+- [Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 + [Canceler] canceled this request. If you still need an appointment, call us or request a new appointment online.
 @@ GH52490 @@
 ```
@@ -1686,20 +1611,20 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 ```
 Preferred community care provider
-{Provider name}
+[Provider name]
 
 Preferred date and time
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 You shared these details about your concern
-{Booking note}
+[Booking note]
 
 Your contact details
-Email: {Email address}
-Phone number: {phone number}
-Call {morning, afternoon, evening}
+Email: [Email address]
+Phone number: [phone number]
+Call [morning, afternoon, evening]
 ```
 
 ```diff
@@ -1707,16 +1632,16 @@ Call {morning, afternoon, evening}
 + Type of care 
 
 Preferred community care provider
-{Provider name}
+[Provider name]
 
 - Preferred date and time
 + Preferred date and timeframe
-{Preferred date & time #1}
-{Preferred date & time #2}
-{Preferred date & time #3}
+[Preferred date & time #1]
+[Preferred date & time #2]
+[Preferred date & time #3]
 
 + Scheduling facility
-+ {Facility name} 
++ [Facility name] 
 + Main phone number: [XXX-XXX-XXXX](TTY: 711) 
 
 + Preferred provider
@@ -1729,13 +1654,13 @@ Preferred community care provider
 + [Language]
 
 - You shared these details about your concern
-- {Booking note}
+- [Booking note]
 + Details you’d like to share with your provider
 + [Booking note]
 
 Your contact details
-Email: {Email address}
-Phone number: {phone number}
+Email: [Email address]
+Phone number: [phone number]
 @@ GH52490 @@
 ```
 
@@ -1757,29 +1682,27 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 none
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 Community care provider
-{Provider name}
-{Treatment specialty}
+[Provider name]
+[Treatment specialty]
 
-{Provider address}
+[Provider address]
 Directions
 
-Main phone: {phone number} (TTY: 711)
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Booking note}
+[Booking note]
 ```
 
 **ACTIONS**
@@ -1810,10 +1733,8 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
-
-**PAGE DESCRIPTION**
 
 ```
 This appointment occurred in the past.
@@ -1822,19 +1743,19 @@ This appointment occurred in the past.
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 Community care provider
-{Provider name}
-{Treatment specialty}
+[Provider name]
+[Treatment specialty]
 
-{Provider address}
+[Provider address]
 Directions
 
-Main phone: {phone number} (TTY: 711)
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Booking note}
+[Booking note]
 ```
 
 **ACTIONS**
@@ -1858,31 +1779,29 @@ Breadcrumb: `< Back to [h1 of previous page]`
 **PAGE HEADER**
 
 ```
-{appointment date} at {appointment time}
+[appointment date] at [appointment time]
 ```
 
-**PAGE DESCRIPTION**
-
 ```
-{Canceler} canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 ```
 
 **PAGE CONTENT**
 
 ```
-Type of care: {Type of Care}
+Type of care: [Type of Care]
 
 Community care provider
-{Provider name}
-{Treatment specialty}
+[Provider name]
+[Treatment specialty]
 
-{Provider address}
+[Provider address]
 Directions
 
-Main phone: {phone number} (TTY: 711)
+Main phone: [phone number] (TTY: 711)
 
 You shared these details about your concern
-{Booking note}
+[Booking note]
 ```
 
 **ACTIONS**
