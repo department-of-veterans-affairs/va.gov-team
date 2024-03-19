@@ -9,7 +9,6 @@ Where do we refactor and clean up the existing logic to learn from any past mist
 
 
 ## Changes required for single form version of direct deposit
-When the single form toggle is set to true.
 
 **MHV/DSLogon users** - see identity verify alert with expanded information about credential retirement - this _should_ be fine to do now and push up without needing to rely on any particular toggle
 
