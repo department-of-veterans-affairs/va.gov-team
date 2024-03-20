@@ -12,7 +12,7 @@
 | Vulnerability Scanning & Patching | | | Mike |
 | Deploy SiS on VA.gov| | | Mike |
 | Remove SSO Dependencies from VA.gov | | | Mike |
-| Background Session Polling  | | | Jim |
+| Background Session Polling  | | | Mike |
 
 
 
