@@ -44,7 +44,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 2. Participants may not know how to change supplies once orders are submitted.
 	- Likely False: Everyone knew to contact their health team or doctor if they needed help with their supplies.
 3. Participants probably look to see what shape their supplies are in to know when to reorder and/or are notified by their clinician.
-   	- Likely True: All participants mentioned that they keep notes or mental note or check their inventories of supplies to know when to reorder.
+   	- Likely True: All participants mentioned that they keep written notes, mental notes, or check their inventories of supplies to know when to reorder.
 4. Participants probably find out about the reordering process from their VA provider.
    	- Maybe True: Some mentioned their provider places an order when they visit for an appointment, and some mentioned that they know about mailing the order from the paper form they receive in the mail. 
 5. Most Participants would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order.
@@ -52,14 +52,14 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 
 ## Key Findings
 
-1. All participants mentioned having notes, doing mental checks, or checking inventories to keep track of when they need to reorder supplies.
-2. *Starting page:* Most participants (6 out of 9) clicked on the Order link quickly without reading other information on the page. 
-3. *Instruction page with sign-in button:* Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
-5.  *Step 1 Verify personal information and address:* Most participants (7 out of 9) expected the permanent address to be already filled in. Even though no one was confused about the meaning of permanent address and temporary address, 
-6.  *Step 2 Select supplies:* All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
-7.  *Step 2 Review:* All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
-8.  *Step 3 Confirmation:* All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
-9.  All participants are able to finish the order of a hearing aid task, and most participants gave a score of 4 and 5 for overall use experience. 
+1. All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.
+2. **Starting page:** Most participants (6 out of 9) clicked on the Order link quickly without reading other information on the page. 
+3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
+5.  **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants showed hesitation in the instructions for "Edit permanent address" when they (7 out of 9) expected permanent address to be accurate and filled in. 
+6.  **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
+7.  **Step 2 Review:** All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
+8.  **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
+9.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
 
 
 ## Details of Findings 
@@ -67,16 +67,9 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
 
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+**Finding 1: All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.**
 
-
-**Finding 1**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
-Brief description
+9 out of 9 participants use written notes, have mental checks, or check inventories to track their supplies to know when it's time to reorder. Even though no one expresses strong dissatisfaction that  There are currently no notifications or other user-friendly ways to remind Veterans that it's time to submit reorders.
 
 > _Supporting data: Quote here_
 
