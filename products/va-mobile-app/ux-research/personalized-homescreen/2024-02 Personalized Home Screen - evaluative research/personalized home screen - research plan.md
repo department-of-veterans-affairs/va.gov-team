@@ -63,7 +63,7 @@ This research will help us understand if/how the personalized app home screen de
 1. What do participants **believe that the VA mobile app *can do*** based on the contents of the personalized home screen?
     * in general?
     *  for them in their current circumstances?
-2. Do participants **find value in the VA mobile app** in its current form based on the contents of the personalized home screen? Do they anticipate finding value in the future?
+2. Do participants **find value in the VA mobile app** in its current form based on the contents of the personalized home screen? 
 3. Do participants **understand** what the modules on the home screen are and **find value in the high-level data** being displayed within the modules?
 4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to [accomplish** some tasks/answer some questions] using the mobile app home screen?
 5. **Is there a difference between screenreader users and non-screenreader users** in terms of perception of app capabilities, perception of value, and the usability of the personalized home screen?
