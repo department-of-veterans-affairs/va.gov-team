@@ -8,7 +8,7 @@
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Request for appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
@@ -69,10 +69,9 @@ Phone number: `[Phone Number]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Request for appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
-
 
 **PAGE CONTENT**
 `[card icon: fa-calendar]` 
@@ -128,11 +127,9 @@ Phone number: `[Phone Number]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Canceled request for appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
-
-
 
 **PAGE CONTENT**
 `[card icon: fa-calendar]` 
@@ -187,10 +184,9 @@ Phone number: `[Phone Number]`
 
 URL: `https://va.gov/my-health/appointments/[ID]?confirmMsg=true`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `In-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
-
 
 **PAGE CONTENT**
 
@@ -246,44 +242,45 @@ Other details: `[Booking Note]`
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `In-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: fa-building]` 
 
-VA appointment
-[Facility name]
-[Facility address]
-Directions
+`[h1]` In-person appointment
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+`[Button]` Add to calendar
 
-You shared these details about your concern
-[Reason]: [Booking note]
-```
+`[h2]` What   
+`[Type of Care]`
 
-**ACTIONS**
+`[h2]` Who  
+`[Provider Name]`
 
-```Add to calendar```
+`[h2]` Where to attend  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
 
-```Print```
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-```Cancel appointment```
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
+
+`[Button]` Print
+
+`[Button]` Cancel appointment
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 
 ---
@@ -294,42 +291,46 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past in-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of care]
+`[card icon: fa-building]` 
 
-VA appointment
-[Facility name]
-[Facility address]
-Directions
+`[h1]` Past in-person appointment
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[h2]` After visit summary  
+[Go to after visit summary](#)  
 
-You shared these details about your concern
-[Reason]: [Booking note]
-```
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+`[Button]` Add to calendar
 
-**ACTIONS**
+`[h2]` What   
+`[Type of Care]`
 
-```Print```
+`[h2]` Who  
+`[Provider Name]`
 
+`[h2]` Where 
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
+
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -339,227 +340,62 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled in-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-```
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of care]
+`[card icon: fa-building]` 
 
-VA appointment
-[Facility name]
-[Facility address]
-Directions
+`[h1]` Canceled in-person appointment
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[alert - error]`
 
-You shared these details about your concern
-[Reason]: [Booking note]
-```
+`[Facility|You]` canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
 
----
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
 
-### VA In-person Vaccine Appointment - Confirmed
+`[/alert]`
 
-**NAVIGATION**
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
 
-URL: `https://va.gov/my-health/appointments/[ID]?confirmMsg=true`
+`[h2]` What   
+`[Type of Care]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+`[h2]` Who  
+`[Provider Name]`
 
-Breadcrumb: `< Back to appointments`
+`[h2]` Where 
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
 
-**PAGE HEADER**
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-```
-[appointment date] at [appointment time]
-```
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
 
-```
-We've scheduled and confirmed your appointment.
-```
+`[Button]` Print
 
-```Review your appointments```
-
-```Schedule a new appointment```
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of care]
-
-COVID-19 vaccine
-[Facility name]
-[Facility address]
-Directions
-
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
-
-**ACTIONS**
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-Contact this provider if you need to reschedule or cancel your appointment.
-```
-
----
-
-### VA In-person Vaccine Appointment - Upcoming
-
-**NAVIGATION**
-
-URL: `https://va.gov/my-health/appointments/[ID]`
-
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of care]
-
-COVID-19 vaccine
-[Facility name]
-[Facility address]
-Directions
-
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
-
-**ACTIONS**
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-
-Contact this provider if you need to reschedule or cancel your appointment.
-```
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 
 ---
 
-### VA In-person Vaccine Appointment - Past
-
-**NAVIGATION**
-
-URL: `https://va.gov/my-health/appointments/past/[ID]`
-
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of care]
-
-
-COVID-19 vaccine
-[Facility name]
-[Facility address]
-Directions
-
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
-
-**ACTIONS**
-
-```Print```
-
----
-
-### VA In-person Vaccine Appointment - Canceled
-
-**NAVIGATION**
-
-URL: `https://va.gov/my-health/appointments/[ID]`
-
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-```
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of care]
-
-
-COVID-19 vaccine
-[Facility name]
-[Facility address]
-Directions
-
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
 
 ### Claim Exam Booked - Upcoming
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: ``
+Page title: `Claim exam appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
