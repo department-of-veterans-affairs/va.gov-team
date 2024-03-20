@@ -28,6 +28,9 @@
           - Kara Eakin - HEC
           - Shana Watson - HEC
           - Ambroja Watson - HEC
+          - Simone Gully - HEC
+          - Jessica Soza - HEC
+          - Bryan Burgan - HEC (slowly taking over for Jessica Soza)
           - Josh Faulkner - Enrollment System main POC
 
 ## Talk to Platform
