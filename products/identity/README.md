@@ -97,4 +97,4 @@ Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are
 ### Want to use slack to get support instead?
 Type ```/help``` in the [#vsp-identity slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to create a new support request and an identity team member will respond within two business days. You may also reference our [#vsp-indentity canvas](https://dsva.slack.com/archives/CSFV4QTKN) to learn more.
 
-Take our [satifaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) to provide feedback on the support you recieved.
+Take our [satisfaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) to provide feedback on the support you recieved.
