@@ -48,16 +48,20 @@ Veterans struggle to connect their use case to the Decision Reviews experience o
 
 ## Product Strategy
 Our latest research into the challenges faced by Veterans on VA.gov indicates that many visit static content and forms seeking answers to nuanced questions appeals, or to have a desire to file a decision review with the most compelling narrative and evidence possible. Many are unsatisfied with the website's performance, unyielding search tools, complex static content, and confusing navigation experience, leading to form and search abandonment, low content engagement, high page exits, site bounces, and low CSAT scores.
+
 To address these, we aim to incrementally build distinct flows to accommodate cohorts of users based on the tasks they set out to complete while visiting Decision Review static content and forms. 
 - File a decision review with a compelling narrative
 - Understand the differences between decision reviews
 - Determine if a decision is eligible for a decision review
 - Speak to someone about a decision review that is in progress
 
-These task categories may be interpreted as sets of "jobs to be done", iterated through design experiments to refine our understanding of the problems and symptoms contributing to each and design solutions that are accessible to the broadest audience possible.
+These task categories may be interpreted as sets of "jobs to be done", iterated through design experiments to refine our understanding of the problems and symptoms contributing to each and design solutions that are accessible to the broadest audience possible. To execute our strategy, we propose working "outwards" from the individual forms to balance quick wins and independent work against strategic initiatives that require collaboration across teams. 
 
 ## Potential Initiatives
-To execute our strategy, we propose working outwards from the individual forms to balance quick wins against strategic initiatives that require collaboration across teams.
+
+### Phase 1: File a decision review with a compelling narrative
+
+### Veterans frequently seek alternative filing methods that take the guesswork out of ancillary forms, allow them to share compelling narratives in support of their claim, and help them get their claims prioritized.
 
 <details closed>
 <summary>In-line Statement in Support of a Claim (VA Form 21-4138)</summary>
@@ -162,6 +166,18 @@ _Manual Remediation_
 - Decrease in transaction time for VA.gov submissions compared to paper.
 
 </details>
+
+### Phase 2: Personalized decision review experience
+
+### Moving outward from the forms, we'd address challenges with static content that confuses and frustrates Veterans, leading to reduced trust and site abandonment. These challenges relate to broader navigation issues on the website and require close collaboration with the teams that own content, architecture, and search features. 
+
+--- 
+
+### Phase 3: Connect the decision review experience to the broader VA.gov context
+
+### Veterans frequently seek to accomplish tasks related to their decision review beyonf filing, like speaking to someone about their submission, returning to a save-in-progress submission, or finding trustworthy resources that aid them in creating their strategy. 
+
+---
 
 ## Outcome-Based Roadmap
 - (Add a link)
