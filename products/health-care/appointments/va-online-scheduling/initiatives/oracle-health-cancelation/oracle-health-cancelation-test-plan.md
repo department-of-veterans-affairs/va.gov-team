@@ -1,14 +1,17 @@
 # Manual-UI Test Plan - Oracle Health Cancelation 
 
 ## Project Summary Epic [#]() 
-Appointments tool on VA.gov will be integrated with the Oracle Health system. The application will display upcoming, canceled and past appointments from Oracle Health. 
+Appointments tool on VA.gov will be integrated with the Oracle Health system. The application will display upcoming, canceled and past appointments from Oracle Health. We will need to make sure the application can cancel an Oracle Health booked appointment or request. 
 
 ## Business Rules (more details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#appointments-list))
 On the VAOS homepage, the app displays the following for each status: 
-- Upcoming appointments: displays up to 13 months of future booked VA and Community Care appointments including canceled VA and CC booked appointments 
-- Pending requests: displays pending VA and Community Care appointment requests and prior 120 days of VA and Community Care canceled requests 
-- Past appointments: displays up to 2 years of past VA and Community Care booked appointments (note: it does not display past canceled booked appointments) 
-
+- VA and Community Care upcoming appointments: displays up to 13 months of future booked VA and Community Care appointments including canceled VA and CC booked appointments
+- Oracle Health upcoming appointments: 
+- Pending VA and CC requests: displays pending VA and Community Care appointment requests and prior 120 days of VA and Community Care canceled requests
+- Pending Oralce Health requests: 
+- Past appointments - VA and CC: displays up to 2 years of past VA and Community Care booked appointments (note: it does not display past canceled booked appointments) 
+- Past appointments - Oracle Health
+  
 ### Use Cases
  
 - [ ] Use Case 1 - Validate upcoming appointments in VAOS 
