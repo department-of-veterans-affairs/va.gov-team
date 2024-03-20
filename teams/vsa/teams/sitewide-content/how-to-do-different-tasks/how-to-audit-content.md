@@ -1,6 +1,6 @@
 # How to audit content 
 
-There are 2 different processes to audit content on VA.gov — one static page content in the unauthenticated experience, and one for the authenticated experience. If you need to audit all Veteran-facing content on VA.gov, use both processes.
+There are 2 different processes to audit content on VA.gov — one for static page content in the unauthenticated experience, and one for the authenticated experience. If you need to audit all Veteran-facing content on VA.gov, use both processes.
 
 ## To audit unauth content in Drupal
 This search process includes all content managed in Drupal. It does not include content that's inside a react widget on our static pages. 
