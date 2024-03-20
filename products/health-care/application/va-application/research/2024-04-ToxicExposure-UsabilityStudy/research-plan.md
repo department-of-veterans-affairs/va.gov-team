@@ -144,7 +144,7 @@ Note: These are also in screener questions of [recruitment request ticket](https
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
 - Note-takers:	Perigean (and 10-10 UX Team)
 - Observers:
-	- Sign up sheet will be posted via Slack
+	- Sign up sheet will be posted via Slack - [Canvas link](https://dsva.slack.com/docs/T03FECE8V/F06QX0E07U1)
 	- Katelyn Caillouet (katelyn.caillouet@agile6.com)
   	- Hieu Vo (hieu.vo@agile6.com)
   	- Heather Justice (heather.justice@adhocteam.com)
