@@ -129,6 +129,9 @@ For both 526 (Disability Comp) and 527 (Pension):
 
 - What capabilities, if any, will the contact centers have to update edu information after April 20th?
 - As a result, how should we be directing people on VA.gov?
+#### ANSWERS 
+- Contact centers will be able to update the information, we've been instructed to send veterans to the national hotline and the call center will forward the data to the Education Call Centers (ECC)
+
 
 ## Assumptions and risks
 
