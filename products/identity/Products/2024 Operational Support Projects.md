@@ -13,9 +13,9 @@
 | Create VERA Frontend on va.gov | | | |
 | Establish & Publish Response Time Metrics | Basically, a scorecard on how we're fulfilling other teams requests. | Gives us an idea of how we're doing w/r/t supporting other va.gov product teams  (O4KR2 )| Jim |
 | STS Integration Tracker | | | Mike |
-| Incident Response Refactor| | | |
-| Incident Response Communication | | | |
-| Load Testing | | | |
-| Sunset DSLogon Credentials | | | |
-| Sunset MHV Credentials| | | |
-| Audit Infrastructure | | | |
+| Incident Response Refactor| | | Jim |
+| Incident Response Communication | | | Jim |
+| Load Testing | | | Mike |
+| Sunset DSLogon Credentials | | | Mike |
+| Sunset MHV Credentials| | | Mike |
+| Audit Infrastructure | | | Mike |
