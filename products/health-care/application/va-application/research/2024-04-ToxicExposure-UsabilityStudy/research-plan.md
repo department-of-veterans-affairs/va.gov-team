@@ -58,7 +58,7 @@ This research fits into the [Veteran journey](https://github.com/department-of-v
 
 ### Hypothesis
 - We assume... some might have issues recalling the places/dates they served with how the questions are worded. 
-- We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history informtion.
+- We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history information.
 - We assume... some Veterans might want additional explanatory visuals such as maps or links to help them with quicker recall of these service location questions.
 
 ## Methodology	
