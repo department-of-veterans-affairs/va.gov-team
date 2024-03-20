@@ -24,8 +24,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
 **Eligible users and currently enrolled users** summary of UI changes
 - Profile info card will have the title 'Bank account information'
 - Edit / placeholder info is the same as prior UI
-- Fraud summary box adds a heading and moves below the VA payment history card
-	- Also changes to main content since heading is added
+- Fraud summary box adds a heading and moves below the VA payment history card NO LONGER GOING TO DO THIS
 - Form edit state has slightly updated content: 'Please provide your bank’s routing number as well as your current account and type. '
 - Account number field now says: Account number (No more than 17 digits)
 - Aria label for the form wrapping div is set to `aria-label={`Edit bank account for ${sectionTitle.toLowerCase()}`}` so we need to make sure that is changed to be correct for single form
