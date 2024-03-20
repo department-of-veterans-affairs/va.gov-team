@@ -64,9 +64,6 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
 **Finding 1: All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.**
 
 9 out of 9 participants use written notes, have mental checks, or check inventories to track their supplies to know when it's time to reorder. Even though no one expressed strong dissatisfaction with the fact they had to track themselves, one participant talked about how they couldn't simply go to VA clinics and pick up supplies anymore when they didn't reorder on time. One participant suggested that there should be reminders for recurring hearing aid tests because that's when they pick up their hearing aid supplies. There are currently no notifications or other user-friendly ways to remind Veterans that it's time to submit reorders.
@@ -78,10 +75,6 @@ _For each finding, list details with supporting quotes and images when possible.
 
 **Finding 2**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
-
 Brief description
 
 > _Supporting data: Quote here_
@@ -90,10 +83,6 @@ Brief description
 
 
 **Finding 3**
-
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
 
 Brief description
 
@@ -138,12 +127,13 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708651523305/bcb23a928372ea8fdaa231cf81ebd71b0fcb395a?sender=ueeece9e244394145c84e5173)
+- [EnjoyHQ](https://app.enjoyhq.com/sh/pj/562a602f-0087-4367-b6b4-0db402009dff)
 
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+[Link to prototypes or pages that were tested](https://staging.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form/introduction)
 
 
 ## Other supporting documents created
