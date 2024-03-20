@@ -2,11 +2,11 @@
 
 ## Background
 
-It is estimated that 23 out of every 100 Veterans have PTSD at some point in their lives (see [article from the National Center for PTSD](https://www.ptsd.va.gov/understand/common/common_veterans.asp#:~:text=Not%20all%20Veterans%20use%20VA,use%20VA%20for%20health%20care.)). Forms 0781 and 0781a for claiming PTSD as a service-connected condition are embedded into the 526ez form flow. These forms are in the process of being updated and combined into one new form for claiming PTSD and other mental health conditions resulting from traumatic events. 
+It is estimated that 23 out of every 100 Veterans have PTSD at some point in their lives (see [article from the National Center for PTSD](https://www.ptsd.va.gov/understand/common/common_veterans.asp#:~:text=Not%20all%20Veterans%20use%20VA,use%20VA%20for%20health%20care.)). Forms 0781 and 0781a for claiming PTSD as a service-connected condition are embedded into the 526ez form flow. These forms are in the process of being updated and combined into one new form for claiming PTSD, MST, and other mental health conditions resulting from traumatic events. 
 
 ## Problem or Opportunity
 
-The current experience for claiming PTSD is long and retraumatizing. Our shadowing research revealed many usability issues with this section of the form, and observed that it can double the time it takes a Veteran to submit a claim. 
+The current experience for claiming PTSD/MST is long and retraumatizing. Our shadowing research revealed many usability issues with this section of the form, and observed that it can double the time it takes a Veteran to submit a claim. 
 
 ## Proposed Solution
 
