@@ -136,9 +136,9 @@ Please make sure that ALL participants are willing to complete their interview *
    - Other – please specify
    - I do not use any Assistive Technologies (_Unqualified)_
 3. Do you use Assistive Technology for accessing ALL digital content?
-   - Yes – I need Screen reader to access ALL digital content _(Recruit 7)_
-   - Yes – I need Voice Command to access ALL digital content _(Recruit 3)_
-   - Yes – I need a text Magnification to access ALL digital content _(Recruit 5)_
+   - Yes – I need Screen reader to access ALL digital content _(Recruit 5)_
+   - Yes – I need Voice Command to access ALL digital content _(Recruit 4)_
+   - Yes – I need a text Magnification to access ALL digital content _(Recruit 6)_
    - No – I do not need any Assistive Technology to access digital content. _(Unqualified)_  
 
 4. Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
