@@ -182,11 +182,11 @@ Response options, checkbox list with text box:
 ### Prepare
 * **We would like to request a 15 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-  * TBD
-  * TBD
+  * Mon, March 25 10:30-11:30am, 12pm-1pm, or 2:30-6:30pm EST
+  * Tue, March 26 10-11:30am, 12pm-1pm, or 4:30-6:30pm EST
 
 **We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
-- Screenreader pilot participant email: **TBD**
+- Screenreader pre-pilot participant email: **[Brea Blackweler](mailto:brea.blackwelder@adhocteam.us)**
 - Date and time of screenreader pilot session: **Week of March 18**
 
 - Non-screenreader pilot participant email: **TBD**  
