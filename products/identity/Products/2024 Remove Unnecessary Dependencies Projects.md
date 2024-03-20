@@ -1,4 +1,4 @@
-## 2024 Remove Unnecessary Dependencies Roadmap
+## 2024 Remove Unnecessary Dependencies Projects
 
 | Project Name          | What is It?       | Why Are We Doing It? | PM |
 | :------------- |:------------- | :----- | :----- |
