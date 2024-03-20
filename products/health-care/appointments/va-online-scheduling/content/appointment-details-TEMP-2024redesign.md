@@ -14,62 +14,53 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **CONTENT**
 
-Card icon: [calendar]()
+`[card icon: fa-calendar]` 
 
+`[h1]` We have received your request
 
-`[h1]`We have received your request
-
-`<alert>`
+`[alert - success]`
 
 We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
 
-[Review your appointments](TBD)
+[Review your appointments](https://va.gov/my-health/appointments)
 
-[Schedule a new appointment](TBD)
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
 
-`</alert>`
+`[/alert]`
 
-`[h2]`Preferred date and time  
-`[Preferred date & time #1]`  
-`[Preferred date & time #2]`  
-`[Preferred date & time #3]`  
+`[h2]` Preferred date and time  
+`[Preferred Date & Time #1]`  
+`[Preferred Date & Time #2]`  
+`[Preferred Date & Time #3]`  
 
-`[h2]`Type of care  
-[Type of care]
+`[h2]` Type of care  
+`[Type of Care]`
 
-`[h2]`How you prefer to attend
-[Selected modality]
+`[h2]` How you prefer to attend  
+`[Selected Modality]`
 
-`h2`Facility<h2>
-<p>
-[Facility name]
-[Facility address line 1]
-[Facility address line 2]
-Directions
-</p>
+`[h2]` Facility  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
 
-<h2>Phone</h2>
-<p>[phone number] (TTY: 711)</p>
+`[h2]` Phone  
+`[icon: fa-phone-alt]` `[link: Phone Number]` ([TTY: 711](711))
 
-<h2>Details you’d like to share with your provider</h2>
-[Booking note]
+`[h2]` Details you’d like to share with your provider  
+`[Booking Note]`
 
+`[h2]`Your contact details  
+Email: `[Email Address]`  
+Phone number: `[Phone Number]`
 
-<h2>Your contact details</h2>
-<p>
-Email: [Email address]
-Phone number: [phone number]
-</p>
+`[Button]` Print
 
-<va-button>
-Cancel request
-</va-button>
+`[Button]` Cancel request
 
+[[Appointments footer](shared-content.md#appointments-footer)]
 
-
-
-
-
+---
 
 
 ### VA Request - Pending
@@ -82,60 +73,51 @@ Page title: `[Page Header] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
-**PAGE HEADER**
-
-```diff
-- Pending [type of care] appointment
-+ Request for appointment 
-@@ GH52490 @@
-```
-
-```diff
-- The time and date of this appointment are still to be determined.
-+ We will review your request and contact you to schedule the first available appointment.
-@@ GH52490 @@
-```
 
 **PAGE CONTENT**
+`[card icon: fa-calendar]` 
 
-```diff
-+ [Type of care]
+`[h1]` Request for appointment
 
+`[alert - info]`
 
-- VA appointment
-+ Facility
-[Facility name]
-[Facility address line 1]
-[Facility address line 2]
-Directions
+[TBD]
 
-Main phone: [phone number] (TTY: 711)
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
 
-- Preferred type of appointment
-- [Office visit, Phone call, Telehealth (through VA Video Connect)]
+`[/alert]`
 
-Preferred date and time
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[h2]` Preferred date and time  
+`[Preferred Date & Time #1]`  
+`[Preferred Date & Time #2]`  
+`[Preferred Date & Time #3]`  
 
-- You shared these details about your concern
-+ Details you’d like to share with your provider
-[Reason]: [Booking note]
+`[h2]` Type of care  
+`[Type of Care]`
 
-+ How you want to attend
-[Selected modality]
+`[h2]` How you prefer to attend  
+`[Selected Modality]`
 
-- Your contact details
-+ Your contact information
-Email: [Email address]
-Phone number: [phone number]
-@@ GH52490 @@
-```
+`[h2]` Facility  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
 
-**ACTIONS**
+`[h2]` Phone  
+`[icon: fa-phone-alt]` `[link: Phone Number]` ([TTY: 711](711))
 
-```Cancel request```
+`[h2]` Details you’d like to share with your provider  
+`[Booking Note]`
+
+`[h2]`Your contact details  
+Email: `[Email Address]`  
+Phone number: `[Phone Number]`
+
+`[Button]` Print
+
+`[Button]` Cancel request
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 
 ---
@@ -150,53 +132,50 @@ Page title: `[Page Header] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
-**PAGE HEADER**
 
-```diff 
-- [Type of care] appointment request
-+ Canceled request for appointment
-```
-
-```
-[Canceler] canceled this request. If you still need an appointment, call us or request a new appointment online.
-```
 
 **PAGE CONTENT**
+`[card icon: fa-calendar]` 
 
-```diff
-+ [Type of care]
+`[h1]` Canceled request for appointment
 
+`[alert - error]`
 
-- VA appointment
-+ Facility
-[Facility name]
-[Facility address line 1]
-[Facility address line 2]
-Directions
+`[Facility|You]` canceled this request. If you still need an appointment, call us or request a new appointment online.
 
-Main phone: [phone number] (TTY: 711)
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
 
-- Preferred type of appointment
-- [Office visit, Phone call, Telehealth (through VA Video Connect)]
+`[/alert]`
 
-Preferred date and time
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[h2]` Preferred date and time  
+`[Preferred Date & Time #1]`  
+`[Preferred Date & Time #2]`  
+`[Preferred Date & Time #3]`  
 
-- You shared these details about your concern
-+ Details you’d like to share with your provider
-[Reason]: [Booking note]
+`[h2]` Type of care  
+`[Type of Care]`
 
-+ How you want to attend
-[Selected modality]
+`[h2]` How you prefer to attend  
+`[Selected Modality]`
 
-- Your contact details
-+ Your contact information
-Email: [Email address]
-Phone number: [phone number]
-@@ GH52490 @@
-```
+`[h2]` Facility  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
+
+`[h2]` Phone  
+`[icon: fa-phone-alt]` `[link: Phone Number]` ([TTY: 711](711))
+
+`[h2]` Details you’d like to share with your provider  
+`[Booking Note]`
+
+`[h2]`Your contact details  
+Email: `[Email Address]`  
+Phone number: `[Phone Number]`
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -213,45 +192,51 @@ Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affair
 Breadcrumb: `< Back to appointments`
 
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-We've scheduled and confirmed your appointment.
-```
-
-```Review your appointments```
-
-```Schedule a new appointment```
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of care] 
+`[card icon: fa-building]` 
 
-VA appointment
-[Facility name]
-[Facility address]
-Directions
+`[h1]` In-person appointment
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[alert - info]`
 
-You shared these details about your concern
-[Reason]: [Booking note]
-```
+We’ve scheduled and confirmed your appointment.
 
-**ACTIONS**
+[Review your appointments](https://va.gov/my-health/appointments)
 
-```Add to calendar```
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
 
-```Print```
+`[/alert]`
 
-```Cancel appointment```
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+`[Button]` Add to calendar
+
+`[h2]` What   
+`[Type of Care]`
+
+`[h2]` Who  
+`[Provider Name]`
+
+`[h2]` Where to attend  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
+
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
+
+`[Button]` Print
+
+`[Button]` Cancel appointment
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
