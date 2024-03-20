@@ -12,7 +12,7 @@
 | VRO STS Integration |  | | Mike |
 | Oracle Health STS Integration  |  | | Mike |
 | Develop Va.gov SLOs | Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov | Continuous improvement of the Veteran login experience. (O1KR2) | Jim |
-| Data Reporting - External Auth | External Reporting on Authentication Events | | Jim |
+| Data Reporting - External Auth | External Reporting on Authentication Events | Understanding Veteran Auth activity helps us improve their auth experience (O1)| Jim |
 | Create VERA Frontend on va.gov | | | Mike |
 | Establish & Publish Response Support Metrics | An ongoing scorecard on how we are fulfilling other teams requests. | Metrics to show how we're doing w/r/t supporting other va.gov product teams  (O4KR2 )| Jim |
 | STS Integration Tracker | | | Mike |
