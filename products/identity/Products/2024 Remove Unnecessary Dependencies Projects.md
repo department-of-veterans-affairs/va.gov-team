@@ -7,7 +7,7 @@
 | MHV Account Creation API | | | Mike |
 | Manage Devices | | | Mike |
 | Usage & Performance Trackers | | | Jim |
-| Baseline for Reducing Time to Auth By 25% | | | Jim |
+| Baseline for Reducing Time to Auth By 25% | | | Mike |
 | Chatbot Integration | | | Jim |
 | Vulnerability Scanning & Patching | | | Mike |
 | Deploy SiS on VA.gov| | | Mike |
