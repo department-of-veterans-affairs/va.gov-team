@@ -3,7 +3,7 @@
 | Project Name          | What is It?       | Why Are We Doing It? | PM |
 | :------------- |:------------- | :----- | :----- |
 | SiS Onboarding Docs | | | Mike |
-| Auto-Auth | | | |
+| Auto-Auth | | | Mike |
 | MHV Account Creation API | | | Mike |
 | Manage Devices | | | Mike |
 | Usage & Performance Trackers | | | Jim |
