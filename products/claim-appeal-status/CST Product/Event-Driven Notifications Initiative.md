@@ -51,8 +51,9 @@ If veterans are notified when a decision letter is available, they will access C
 - Qualitative feedback from social monitoring.
 
 ### In-Scope Requirements
-- Build out basic notification infrastructure in coordination with Event Bus.
-- Focus on email notifications for the MVP, specifically when decision letters are available.
+- Build out basic notification infrastructure in coordination with Event Bus and VA Notify.
+- Decision letter availability will be the sole use case enabled
+- Infrastructure will be built out sufficiently such that future use cases can rely on the same technical foundation.
 
 ### Out-of-Scope
 - Text and mobile push notifications.
