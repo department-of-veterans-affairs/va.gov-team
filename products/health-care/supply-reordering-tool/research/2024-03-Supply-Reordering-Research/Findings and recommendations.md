@@ -55,7 +55,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 1. All participants mentioned having notes, doing mental checks, or checking inventories to keep track of when they need to reorder supplies.
 2. *Starting page:* Most participants (6 out of 9) clicked on the Order link quickly without reading other information on the page. 
 3. *Instruction page with sign-in button:* Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
-5.  *Step 1 Verify personal information and address:* Most participants (7 out of 9) expected the permanent address to be already filled in, and no one was confused between permanent address and temporary address. 
+5.  *Step 1 Verify personal information and address:* Most participants (7 out of 9) expected the permanent address to be already filled in. Even though no one was confused about the meaning of permanent address and temporary address, 
 6.  *Step 2 Select supplies:* All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
 7.  *Step 2 Review:* All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
 8.  *Step 3 Confirmation:* All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
