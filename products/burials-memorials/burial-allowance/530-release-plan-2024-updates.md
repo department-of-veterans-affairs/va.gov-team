@@ -2,23 +2,16 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan: 2024 21P-530EZ Online Form Updates
 
-Goal: **How might we craft a release plan to test our product "in the wild" at a smaller scale, and learn how Veterans will actually use it, and what problems it actually might have or create, and then fix/adjust before going live to millions of VA.gov users?**
-
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
-
 ## Release Plan Overview
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Moderated production testing |2 days|TBD| TBD  |
-|Phase 2: Canary production testing |3 hours|10 claims| TBD  |
-|Phase 2A: 25% of users |2 days|25% of users (auth and non-auth)|TBD|
-|Phase 2B: 50% of users |2 days|50% of users (auth and non-auth)|TBD|
-|Phase 2C: 100% of users| indefinite | 100% users (auth and non-auth) | TBD |
+|Phase 1: Moderated production testing |2 days|TBD| March 20-26, 2024  |
+|Phase 2: Canary production testing |3 hours|10 claims| March 27-28, 2024  |
+|Phase 2A: 25% of users |7 days|25% of users (auth and non-auth)|Week of April 1|
+|Phase 2B: 50% of users |7 days|50% of users (auth and non-auth)|Week of April 8|
+|Phase 23: 75% of users |7 days|75% of users (auth and non-auth)|Week of April 15|
+|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) | Week of April 22 |
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
 Considerations
