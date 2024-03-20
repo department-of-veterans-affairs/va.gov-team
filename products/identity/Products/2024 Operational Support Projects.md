@@ -16,9 +16,9 @@
 | Create VERA Frontend on va.gov | | | Mike |
 | Establish & Publish Response Time Metrics | Basically, a scorecard on how we're fulfilling other teams requests. | Gives us an idea of how we're doing w/r/t supporting other va.gov product teams  (O4KR2 )| Jim |
 | STS Integration Tracker | | | Mike |
-| Incident Response Refactor| | | Jim |
-| Incident Response Communication | | | Jim |
-| Load Testing | | | Mike |
+| Incident Response Refactor| Review and revise the VA's incident response capabilites.  | Make them more robust, agile and effictive in mitigating the impact of security incidents. | Jim |
+| Incident Response Communication | Create internal and external commuincation channels for messaging and coordination during and after security incidents. | Ensure Veterans and other VA stakeholders are informed, engaged and empowered to properly respond | Jim |
+| Load Testing | Evaluate how well the system performs under various levels of load.  | Identify any performance bottlenecks or weaknesses to avoid degradation in performance and/or reliability | Mike |
 | Sunset DSLogon Credentials | | | Mike |
 | Sunset MHV Credentials| | | Mike |
 | Audit Infrastructure | | | Mike |
