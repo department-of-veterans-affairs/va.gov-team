@@ -8,6 +8,7 @@
 2. [Connecting to MPI](#connecting-to-mpi)
 3. [Understanding LOA](#understanding-loa)
 4. [User paths based on Identity](#user-paths-based-on-identity)
+5. [Requesting support from the Identity team](#requesting-support-from-the-identity-team)
 
 ## Signing in
 
@@ -82,3 +83,18 @@ LOA3 users are more trusted, and will often have more information and access to 
 LOA1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
 
 Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/error-messages/sign-in-error-handling.md).
+
+## Requesting support from the Identity Team
+
+### Need support from the Identity team? Try one of the following:
+- View our [troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md)
+- Create a GitHub issue using [our support template](https://github.com/department-of-veterans-affairs/identity-slackbot/issues/new?assignees=&labels=identity-slackbot%2C+identity-support%2C+OCTO-identity&projects=&template=identity-team-support-issue.md&title=)
+- Visit us during our team's [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support)
+- Email our product owner [Tom Black](https://dsva.slack.com/team/U04M9MH4LBW) at [thomas.black2@va.gov](thomas.black2@va.gov)
+
+**Click to learn more about our [products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products) and [how to get support from identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/requesting-support-from-Identity.md).**
+
+### Want to use slack to get support instead?
+Type ```/help``` in the [#vsp-identity slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to create a new support request and an identity team member will respond within two business days. You may also reference our [#vsp-indentity canvas](https://dsva.slack.com/archives/CSFV4QTKN) to learn more.
+
+Take our [satifaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) to provide feedback on the support you recieved.
