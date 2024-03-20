@@ -27,9 +27,9 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 ## Overview Checklist
 - Notes
 - [ ] Phase I: Internal Testing and Review
-    - [ ] Internal Testing and Review
-    - [ ] Pre-release Testing
-    - [ ] Review Cases
+    - [x] Internal Testing and Review
+    - [x] Pre-release Testing
+    - [x] Review Cases
     - [ ] Canary
 - [ ] Phase II: Staged Rollout 
     - [ ] Stage A: 1%
@@ -41,46 +41,42 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [ ] Post-launch questions
 
 ## Notes
-- We can differentiate traffic to EVSS/LH through Factory-level logs, in case controller activity is not usable 
-- `app/models/concerns/form526_claim_fast_tracking_concern.rb` > flag is in `open_claims`
-    - Makes a call to `BenefitsClaims::Service` `get_claims`
-    - Claims controller exists: `modules/claims_api/app/controllers/claims_api/v2/veterans/claims_controller.rb`
-    - Supposedly EVSS as well? `app/controllers/v0/evss_claims_controller.rb`
-- Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25% 
+- Branden Winn is no longer the PM for BRD, contact Joseph Justice if any verification of metrics is needed
+- To Canary, theoretically only need to have Veteran users navigate to https://www.va.gov/disability/file-disability-claim-form-21-526ez/review-veteran-details/separation-location, albeit via normal form flow
+- BRD logging displays an unusual pattern when looking at provider level logs
+    - Logs occur in 2s, at seemingly regular intervals, indicating they may be called or passed through a job
+    - "thread: puma srv tp" is a common term in the provider level logs
+- Due to the amount of certainty in the origin of some of these logs, start by turning the flag on in staging and verifying a couple green runs with staging users
+- BRD flag is no longer appearing 3/15
+    - Are we crazy? It was certainly appearing before
 
 <br>
 
 ## Phase I: Internal Testing and Review
 
 ### Pre-release Testing
-- [ ] Complete pre-launch tasks: N/A
-- [ ] Request production credentials from Lighthouse via their production access form
-- [ ] Complete manual testing with production credentials in Argo
-- [ ] Push credentials to K8 manifest and devops repositories
+- [x] Complete pre-launch tasks: N/A
+- [x] Request production credentials from Lighthouse via their production access form
+- [x] Complete manual testing with production credentials in Argo
 - [ ] Create and execute a Testrail test plan
     - Link:
-- [ ] Complete Review
+- [x] Complete Review
 
 ### Review Cases
-- [ ] Does the existing DataDog monitoring have sufficient coverage?
-- [ ] Has manual testing been completed in Argo with prod credentials?
+- [x] Does the existing DataDog monitoring have sufficient coverage?
+- [x] Has manual testing been completed in Argo with prod credentials?
 - [ ] Have a successful TestRail test plan been executed?
-- [ ] Confirm devops repository has references to correct environment variable paths
-- [ ] Confirm K8 manifest repository has references to correct environment variable paths
-- [ ] Do we have a point of contact on LH to coordinate with?
-- [ ] Has the team reviewed and timeboxed the release intervals?
-- [ ] Have PO(s) been made aware and approved of the plan? 
+- [x] Do we have a point of contact on LH to coordinate with?
+    - No longer Branden Wynn, Joseph Justice is the new point of contact
+- [x] Has the team reviewed and timeboxed the release intervals?
+- [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
-- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true)
-    - Traffic is redirected to LH through the v0 (EVSS) controller
-    - The expected behavior is that LH traffic should be **proportionate** to v0 traffic
-    - v0 will act as a control as we progress through the rollout phases
-- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/76274
+- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: BRD](https://vagov.ddog-gov.com/dashboard/n5i-sba-u52/benefits---dbex---evss-to-lh-brd?query=service%3Avets-api%20%40name%3A%22V0%3A%3ADisabilityCompensationFormsController%22%20env%3Aeks-prod%20%40payload.action%3Aseparation_locations%20AND%20%40http.status_code%3A200&fromUser=false&index=%2A&panelFrom=1710792000000&panelTo=1710799200000&panelType=logs&refresh_mode=sliding&view=spans&from_ts=1710335132681&to_ts=1710939932681&live=true)
+- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
     - Robin Garrison, @Robin Garrison
-    - Mike Richard @Mike Richard
     - Rocio De Santiago @Rocio De Santiago - Coforma
 - [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
@@ -88,27 +84,6 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - If opting for asynchronous time:
         - [ ] Note individual scheduled dates and times next to each identified user
         - [ ] Note testing steps:
-            1. Login to your va.gov account in prod
-            2. Navigate to `va.gov/disability/file-disability-claim-form-21-526ez/start`
-            3. Answer the questions as follows:
-                "Are you on active duty right now?" > "No"
-                "I'm filing a new claim"
-                
-                Alternatively, skip the form by navigating to the "If you know X form is right, click here"
-            4. On the /introduction screen, select "Start the Disability Compensation Application"
-            5. On the first `/veteran-information` screen, please note for us
-                - The current time, date, and timezone
-                - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
-                - The city your browser is making the request from
-              
-            6. Press ‘Continue’
-            7. Under the “Step 1 of 5: Veteran Details” header, there should be a line with your Application ID number
-                - Please note your Application ID for us
-            8. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
-            9. Close your browser and repeat steps 2-4
-            10. On the first `/veteran-information` screen, please note the current time and date
-        - [ ] Record testing steps in TestRail
-        - [ ] Share testing steps with each user
 - [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [ ] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
