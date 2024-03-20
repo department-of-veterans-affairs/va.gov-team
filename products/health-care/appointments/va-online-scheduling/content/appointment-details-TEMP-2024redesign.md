@@ -16,38 +16,31 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 Card icon: [calendar]()
 
-```
-<h1>We have received your request<h1>
 
-<va-alert
-    slim
-    success
->
+`[h1]`We have received your request
 
-<p>
+`<alert>`
+
 We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-</p>
 
-<va-link href="">Review your appointments</va-link>
+[Review your appointments](TBD)
 
-<va-link href="">Schedule a new appointment</va-link>
+[Schedule a new appointment](TBD)
 
-</va-alert>
+`</alert>`
 
-<h2>Preferred date and time</h2>
-<ul>
-    <li>[Preferred date & time #1]</li>
-    <li>[Preferred date & time #2]</li>
-    <li>[Preferred date & time #3]</li>
-</ul>
+`[h2]`Preferred date and time  
+`[Preferred date & time #1]`  
+`[Preferred date & time #2]`  
+`[Preferred date & time #3]`  
 
-<h2>Type of care</h2>
-<p>[Type of care]<p>
+`[h2]`Type of care  
+[Type of care]
 
-<h2>How you prefer to attend</h2>
-<p>[Selected modality]<p>
+`[h2]`How you prefer to attend
+[Selected modality]
 
-<h2>Facility<h2>
+`h2`Facility<h2>
 <p>
 [Facility name]
 [Facility address line 1]
@@ -72,7 +65,7 @@ Phone number: [phone number]
 Cancel request
 </va-button>
 
-```
+
 
 
 
