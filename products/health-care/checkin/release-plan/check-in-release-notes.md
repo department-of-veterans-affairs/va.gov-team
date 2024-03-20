@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ### 3/21/2024 (tentative)
-- Veterans are now asked, at the beginning of the check-in workflow, if they have arrived at the facility; if the anwer is no, the Veteran is encouraged to see an MSA upon arrival to ensure they have not already been called back 
+- Veterans are now asked, at the beginning of the check-in workflow, if they have arrived at the facility; if the answer is no, the Veteran is encouraged to see an MSA upon arrival to ensure they have not already been called back 
     - [Ticket 75938](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
 
 ### 2/29/2024
