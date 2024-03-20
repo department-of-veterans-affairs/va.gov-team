@@ -80,7 +80,7 @@ ________________________________________________________________________________
     - ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
-        - Rolle over from last sprint
+        - Rolled over from last sprint
             - ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
             - ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
             - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
