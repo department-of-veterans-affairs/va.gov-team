@@ -8,6 +8,9 @@ The VA mobile team has explored the concept of Personalization several times (20
 * [Personalization: North Star - Project Kickoff 2023 - pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalization%20-%20North%20Star%20-%20Project%20Kickoff%202023%20updated.pdf)  | [slides](https://docs.google.com/presentation/d/1pIk7hEV0w18namfZsSaCAiUHlFyC7uD1Lfzud4100r0/edit#slide=id.g25f0dea14fc_1_74) (2023)
 
 ## Personalization - Home Screen
+We believe that bringing personalized content to the VA mobile app’s home screen to new and current app users will help users to keep up with and manage their current interactions across VA and find value in the app that they aren’t discovering now (increasing engagement).
+
+
 ### Product
 * [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) | [doc](https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
 
