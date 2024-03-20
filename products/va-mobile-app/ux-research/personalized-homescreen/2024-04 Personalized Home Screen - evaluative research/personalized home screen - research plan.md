@@ -198,7 +198,7 @@ If release build is ready 4/9: **April 22-May 2**
 If release build is ready 4/23: **May 6-16**  
 
 ### Length of sessions
-* Sessions will be 60 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
+* Sessions will be 60 minutes in length for non-screenreader participants, 90 minutes for screenreader participants.
 * 30 minutes buffer in-between each session
 * No more than 3 sessions should be scheduled in one day
 
