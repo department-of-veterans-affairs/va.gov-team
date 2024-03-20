@@ -93,6 +93,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)   
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
+        - 🟥 [[UX][Design] Update confirmation page for 1 travel claim success and 1 fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78834)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - 🟥 [[UX][Research] SPIKE: Determine research to pursue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
         - 🟥 [[Research] Create Moderated Research Plan as a result of SPIKE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78654)
