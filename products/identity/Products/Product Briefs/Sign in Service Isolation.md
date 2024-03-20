@@ -1,7 +1,7 @@
-# Name of Product
+# Sign in Service - Isolation
 
 ## Overview: (Provide a high level description of the product/set of features)
-
+Migrating SiS from Vets-API to its own application within K8s
 
 ## Problem Statement: (Describe what problem we’re going to address with this product)
 
