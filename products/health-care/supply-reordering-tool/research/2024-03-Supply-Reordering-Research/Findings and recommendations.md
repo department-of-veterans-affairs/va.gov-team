@@ -62,7 +62,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 6.  **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
 7.  **Step 2 Review:** All participants were able to review by clicking on expand component
 8.  **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
-9.  All participants are able to finish the order of a hearing aid task, and most participants gave a score of 4 and 5 for overall use experience. 
+9.  All participants are able to finish the order of a hearing aid task, and most participants gave a score of 4 and 5 for overall use experience. h
 
 
 ## Details of Findings 
