@@ -30,13 +30,15 @@ Under this initiative, all Veterans filing a 526 claim via va.gov will be able t
 
 ## Happy Path
 
-- PDF generation
 - Post-submission confirmation email
+- List of documents submitted 
 - Redesign of the confirmation page
 - Evaluating connection to the Claim Status Tool from the confirmation page
 
 
 # Out of Scope
+
+- PDF of complete claim generated at submission
 
 ## Happy Path
 
