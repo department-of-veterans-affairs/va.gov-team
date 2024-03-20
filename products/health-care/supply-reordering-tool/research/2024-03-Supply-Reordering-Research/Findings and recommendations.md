@@ -48,21 +48,18 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 4. Participants probably find out about the reordering process from their VA provider.
    	- Maybe True: Some mentioned their provider places an order when they visit for an appointment, and some mentioned that they know about mailing the order from the paper form they receive in the mail. 
 5. Most Participants would probably call DLC or try to call their VA Medical Center to discuss changing supplies, for example, if they want a different-sized CPAP supply after submitting a supply order.
-   	- Definitely true: Most participants know who to contact for changing supplies, and most of them had good and easy experiences with that. 
+   	- Maybe true: Most participants know who they need to contact for changing supplies, and most of them had good and easy experiences with that. 
 
 ## Key Findings
 
-"Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form".
-
-1. All participants mentioned having notes, mental checks, or check inventories to keep track of when they need to reorder supplies.
-2. **Starting page:** 
-3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
-	- One participant thought they had already signed in, and four participants wanted to see the available supplies for them.
-5.  **Step 1 Verify personal information and address:** Most participants (7 out of 9) expected the permanent address to be already filled in. No one was confused between permanent address and temporary address. 
-6.  **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
-7.  **Step 2 Review:** All participants were able to review by clicking on expand component
-8.  **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
-9.  All participants are able to finish the order of a hearing aid task, and most participants gave a score of 4 and 5 for overall use experience. h
+1. All participants mentioned having notes, doing mental checks, or checking inventories to keep track of when they need to reorder supplies.
+2. *Starting page:* Most participants (6 out of 9) clicked on the Order link quickly without reading other information on the page. 
+3. *Instruction page with sign-in button:* Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
+5.  *Step 1 Verify personal information and address:* Most participants (7 out of 9) expected the permanent address to be already filled in, and no one was confused between permanent address and temporary address. 
+6.  *Step 2 Select supplies:* All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
+7.  *Step 2 Review:* All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
+8.  *Step 3 Confirmation:* All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
+9.  All participants are able to finish the order of a hearing aid task, and most participants gave a score of 4 and 5 for overall use experience. 
 
 
 ## Details of Findings 
