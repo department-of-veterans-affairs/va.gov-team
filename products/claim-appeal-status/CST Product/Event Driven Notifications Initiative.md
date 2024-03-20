@@ -10,7 +10,7 @@ The Notification Feature Initiative aims to introduce an event-driven architectu
 
 ## Desired Outcomes
 - Veterans receive timely updates related to their claims, improving their sense of satisfaction with claims communications.
-- Veterans are encouraged to take key actions such as submitting evidence or downloading important decision letters.
+- Veterans are encouraged to take key actions such as submitting evidence or downloading important decision letters and take those actions as a result.
 
 ## Audiences Served
 - Veterans with in-process claims.
