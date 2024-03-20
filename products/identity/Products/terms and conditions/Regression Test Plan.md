@@ -1,6 +1,6 @@
-Regression Test Plan for Terms of Use:
+**Regression Test Plan for Terms of Use**
 
-FE Regression:
+*FE Regression*
 
 Steps for content-build:
 
@@ -31,7 +31,7 @@ Steps for vets-api:
 3) Merge that Pull Request
 
 
-BE Regression:
+*BE Regression*
 
 Steps for vets-api:
 
