@@ -112,6 +112,16 @@ Please keep in mind that we are reviewing a new website today. Some things will 
 \[_When found_\]
 
 - Talk to me about your experience finding this vaccine.
+
+_[Potential additional prompts to get more details }_ 
+
+   - Can you expand on that?
+   - What did/did not work for you here?
+   - What would make it more helpful? 
+
+_[Probe around any other issues observed or feedback given during this process\]_
+
+[_If none, ask\]_
 - Walk me through how you would go about finding the name of the facility where Pat received their most recent flu vaccine.
 
 _\[If they go to detail page, ask\]_
@@ -178,7 +188,13 @@ _\[If they struggle – possible prompts\]_
 
 _\[On Allergies and reactions\]_
 
-- What are your thoughts on how this information is presented?
+- Tell me your thoughts about how these allergies and reactions are presented.
+
+_[potential additional prompts to get more details\]_
+  - Can you expand on that?
+  - What did/did not work for you here?
+  - What would make it more helpful?
+
 - If you were to click on the Penicillin link, what would you expect to see next?
   - What makes you say that?
 
@@ -270,7 +286,13 @@ _\[After they complete task – if still on Details\]_
 
 Please return to the previous page.
 
-- What are your thoughts on how this information is presented?
+- Tell me your thoughts about how these notes are presented.
+
+_[potential additional prompts to get more details\]_
+
+- Can you expand on that?
+- What did/did not work for you here?
+- What would make it more helpful?
 
 We are going to pause here so I can get some feedback about this Care Summaries and Notes experience.
 
@@ -311,7 +333,14 @@ _\[If they struggle – possible prompts\]_
 _\[Vitals\]_
 
 - What are your thoughts on how Vitals are listed on this website?
-  - _\[Potential follow up\]_ What would be more helpful?
+  
+  _[potential additional prompts to get more details\]_
+
+    - Can you expand on that?
+    - What did/did not work for you here?
+    - What would make it more helpful?
+
+
 - Without clicking, what information do you expect to find here?
 - Can you tell me what Pat’s blood pressure was on February 9, 2020?
 
@@ -356,7 +385,13 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 **_\[Participant will be in Vitals\]_**
 
-Today we reviewed Care Summaries and Notes, Vaccines, Allergies, and Vitals. Tell me how you feel about accessing Pat’s records directly rather than running a Blue Button report.
+_[ If user had mentioned generating blue button report in the past, ask\]_ 
+
+- Today we reviewed Care Summaries and Notes, Vaccines, Allergies, and Vitals. How valuable do you find direct access to Pat's records compared to generating a Blue Button report? 
+
+_[\If user had not generated blue button report in the past, ask\]_ 
+
+- Today we reviewed Care Summaries and Notes, Vaccines, Allergies, and Vitals. How valuable do you find direct access to Pat's records compared to having to generate a downloaded pdf report? 
 
 - Are there any records among these that you might want to download or print?
 
