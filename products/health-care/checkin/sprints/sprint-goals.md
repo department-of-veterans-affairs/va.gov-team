@@ -54,13 +54,7 @@ ________________________________________________________________________________
 ------- END FUTURE / TENTATIVE ------
 </details>
 
-______________________________________________________________________________________________________________________________________________________
-
-<details>
-<summary>FUTURE SPRINT - 3/20/2024 - 4/2/2024 </summary>
-______________________________________________________________________________________________________________________________________________________
-
-## 3/20/2024 - 4/2/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## 3/20/2024 - 4/2/2024 CURRENT SPRINT
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -86,14 +80,15 @@ ________________________________________________________________________________
     - ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
-        - ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
-        - ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
-        - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
-        - ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
-        - ❗ 🟩 [[FE] Update Review Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
+        - Rolle over from last sprint
+            - ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
+            - ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
+            - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
+            - ❗ 🟩 [[FE] Create e2e tests for failed scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77876)
+        - ❗ 🟩 [[FE] Update Review Page (eCheck-in & Stand-alone Travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
-        - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
+        - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)   
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
@@ -106,14 +101,13 @@ ________________________________________________________________________________
      - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
-        - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
-        - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
-        - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
+            - Rolled over from last sprint
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
-       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
+       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
+           - Rolled over from last sprint
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] Update Review Page in eCheck-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78743)
     - 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
@@ -131,7 +125,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________
 
-## 3/6/2024 - 3/19/2024  CURRENT SPRINT
+## 3/6/2024 - 3/19/2024  
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
