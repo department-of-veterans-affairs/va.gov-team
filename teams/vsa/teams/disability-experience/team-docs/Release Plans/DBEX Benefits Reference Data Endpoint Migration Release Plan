@@ -48,7 +48,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - "thread: puma srv tp" is a common term in the provider level logs
 - Due to the amount of certainty in the origin of some of these logs, start by turning the flag on in staging and verifying a couple green runs with staging users
 - BRD flag is no longer appearing 3/15
-    - Are we crazy? It was certainly appearing before
+    - It was certainly toggleable before... unless I'm crazy
 
 <br>
 
