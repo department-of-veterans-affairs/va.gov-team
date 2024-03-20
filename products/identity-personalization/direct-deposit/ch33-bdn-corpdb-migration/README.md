@@ -229,6 +229,14 @@ Given the tight timeline, I think we need to make our best guess on design. We c
 - [Mural Note Taking](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707938676024/48a9e34150b8a3058c8709b241373cb9515afee6?sender=uaa72d11015d3f7c704a64191)
 - [Current User Flow](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-1&mode=design&t=PHWgrsxoEHDjP36q-0) 
 
+## Design Links 
+|Figma Page|Description|
+|:--|:--|
+|[EDU Migration Notice](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=142-8730&mode=design&t=JuuOAYyUZN5gcDIC-0)|Alert displaying from mid-March until 4/20 advising users of the pending migration|
+|[EDU Downtime](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=234-1394&mode=design&t=JuuOAYyUZN5gcDIC-0)|Updated UI for EDU from blocking users from online updates, directs users to call|
+|[Post Migration Single Form](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=239-9210&mode=design&t=JuuOAYyUZN5gcDIC-0)|After Ch33 benefits migrate to CorpDB, we'll have a new UI that uses one form to update EDU and C&P|
+ 
+
 ## Key Dates 
 - February 15, 2024: First alerted of the BDN > CorpDB migration
 - Febryuary 16, 2024: Initial calls with Lighthouse, BGS, and stakeholders
