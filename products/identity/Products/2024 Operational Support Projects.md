@@ -17,7 +17,7 @@
 | Establish & Publish Response Support Metrics | An ongoing scorecard on how we are fulfilling other teams requests. | Metrics to show how we're doing w/r/t supporting other va.gov product teams  (O4KR2 )| Jim |
 | STS Integration Tracker | | | Mike |
 | Incident Response Refactor| Review and revise the VA's incident response capabilites.  | Make them more robust, agile and effictive in mitigating the impact of security incidents. | Jim |
-| Incident Response Communication | Create internal and external commuincation channels for messaging and coordination during and after security incidents. | Ensure Veterans and other VA stakeholders are informed, engaged and empowered to properly respond | Jim |
+| Incident Response Communication | Create internal and external commuincation channels for messaging and coordination during and after security incidents. | Ensure Veterans and other VA stakeholders are informed, engaged and empowered to properly respond to security incidents. | Jim |
 | Load Testing | Evaluate how well the system performs under various levels of load.  | Identify any performance bottlenecks or weaknesses to avoid degradation in performance and/or reliability. | Mike |
 | Sunset DSLogon Credentials | | | Mike |
 | Sunset MHV Credentials| | | Mike |
