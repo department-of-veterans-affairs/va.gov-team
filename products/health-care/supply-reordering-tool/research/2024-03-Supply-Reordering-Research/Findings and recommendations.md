@@ -53,7 +53,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 ## Key Findings
 
 1. All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.
-2. **Starting page:** Most participants (6 out of 9) clicked on the Order link quickly without reading other information on the page. 
+2. **Starting page:** Most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page. 
 3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
 5.  **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants showed hesitation in the instructions for "Edit permanent address" when they (7 out of 9) expected permanent address to be accurate and filled in. 
 6.  **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
@@ -73,22 +73,23 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 > _Supporting data: Based on need. So, you know, every six months or so, I know I'm supposed to ask for new replacement tubes, filters, et cetera. So it's a mental note that I make._
 
 
-**Finding 2**
+**Finding 2: On the [starting page](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/), most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page.**
 
-Brief description
+6 out of 9 participants clicked on the order online link quickly without scrolling down. Out of the 3 participants who explored the page, 2 wanted to view the catalog to see what they could order, and one questioned about the eligibility of ordering online when supplies haven't been ordered in the past 2 years. Overall, there was one confusion on what they needed to do here to order online. 
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _Supporting data: Well, to do anything on the VA site, you have to sign in._
 
 
-**Finding 3**
+**Finding 3: On the instruction page with the sign-in button, most participants (7 out of 9) skipped instructions and wanted to sign in right away.**
 
-Brief description
+7 out of 9 participants wanted to sign in right away. Out of the 7 participants, one participant thought they were already signed in, and four expressed that they wanted to see the supplies available for them at this point. For the two participants who read the instructions, they liked the steps and wanted to see the steps throughout the process. 
 
-> _Supporting data: Quote here_
+> _Supporting data: "Doesn't need this page, just want to see the supplies._
+> _Supporting data: "It'd be great if the user is identified after they sign in, the equipment that they're issued is already known by the VA._
 
-> _Supporting data: Quote here_
+The screenshot below highlighted one content issue a participant pointed out. 
+> _Supporting data: "This is where I could order the batteries or some hearing aid supplies, but instead it's telling me also to order hearing aid or CPAP supplies. I don't need that._
+<img width="722" alt="Screenshot 2024-03-20 at 4 13 55 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/c82dd4e3-ac9f-4df5-ba3c-24b7e7c6809d">
 
 
 ## Additional Insights
@@ -118,7 +119,7 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-research-plan.md))
 
 [Conversation guide](link here)
 
