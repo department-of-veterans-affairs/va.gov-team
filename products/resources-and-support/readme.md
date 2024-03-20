@@ -7,7 +7,8 @@ Content: Sitewide Content Accessibility & IA (CAIA).  Channel = #sitewide-conten
 Technical build: Sitewide Public Websites. Channel = #sitewide-public-websites
 
 ## Initiatives
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives
+* https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/initiatives
+* Original [Learning Center MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp)
 
 ## Where do R&S live? 
 VA.gov frontend: https://www.va.gov/resources
