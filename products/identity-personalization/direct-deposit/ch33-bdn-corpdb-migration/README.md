@@ -32,7 +32,7 @@ Today, if veterans receive CH33 and C&P benefits, there are two separate payment
 CorpDB limits the payee information per person to one set of payment instructions, any veteran that receives both C&P and CH33 benefits must have ONE set of payment instructions on file in CorpDB. 
 
 ### Proposed Solution 
-CH33 EDU benefits likely need to pass information through Lighthouse.
+CH33 EDU benefits likely need to pass information through Lighthouse. We will reduce FE complexity as well by combining everything into one form. 
 
 ## Teams and responsibilities
 
