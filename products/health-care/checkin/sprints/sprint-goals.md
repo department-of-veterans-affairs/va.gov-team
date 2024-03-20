@@ -11,7 +11,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
     - **Sub Goal: Discovery - Check Travel Eligibility**
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Submit Q1 Translations to the State Department**
@@ -33,11 +33,12 @@ ________________________________________________________________________________
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - TBD
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
         - TBD
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - TBD
+        - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
+           - Some work completed in previous sprints, need to determine what's left
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - TBD
     - **Sub Goal: Analyze current metrics to see what they tell us**               
@@ -60,9 +61,8 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
     - **Sub Goal: Discovery - Check Travel Eligibility**
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery - Stand-alone Travel for VistA Sites**
 - **GOAL: Increase PCI Usage**
-    - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Submit Q1 Translations to the State Department**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
@@ -95,13 +95,11 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - 🟥 [[UX][Research] SPIKE: Determine research to pursue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
         - 🟥 [[Research] Create Moderated Research Plan as a result of SPIKE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78654)
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
         - 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
      - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
-        - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
-            - Rolled over from last sprint
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
