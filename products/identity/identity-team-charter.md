@@ -39,14 +39,16 @@ Product Managers are responsible for keeping these directories up-to-date and we
 ### VA Product Owners
 
 - Tom Black
-- 
+- Samara Strauss
+  
 ### Program Management
 
 - Parker Baranowski
   
 ### Product Management
 
-- Mike King, Jim Connelly - Product Leadership
+- Mike King
+- Jim Connelly
 
 ### Delivery Manager
 
