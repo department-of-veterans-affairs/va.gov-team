@@ -54,7 +54,8 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 ### Research materials
 
 For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
+- [Email for recruitment is Appendix A](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/research/VA-health-chat/research-plan.md#appendix-b-recruitment-email)
+- [Email with instructions is in Appendix B](https://boards.greenhouse.io/agilesix/jobs/5913285003)
 
 **Tree test links**
 
@@ -153,9 +154,8 @@ We will finalize key tasks and test set up on Optimal Workshop by March 26, 2023
 - OCTO project lead: Amanda Klausmeier, amanda.klausmeier@va.gov
 
 	
-## Appendix A:  Tasks
 
-## Appendix B: Recruitment email
+## Appendix A: Recruitment email
 Subject: Be part of a new VA online research activity
 
 Hello,
@@ -173,7 +173,7 @@ If you'd like to take part in this activity, reply to this email. We'll send you
 
 Thank you for your interest in VA research.
 
-## Appendix C: Email to recruited participant
+## Appendix B: Email to recruited participant
 [subject] Start your VA online research activity
 
 Hello,
