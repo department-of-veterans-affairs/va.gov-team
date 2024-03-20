@@ -28,7 +28,7 @@ The Notification Feature Initiative aims to introduce an event-driven architectu
 - Qualitative feedback from social listening
 - Event Bus adoption success for Mobile, MyVA Dashboard, Authenticated services, Chatbot, and others.
 
-## MVP Section
+## MVP
 ### Core Bet
 If veterans are notified when a decision letter is available, they will access CST or the Mobile App to download the letter.
 
