@@ -30,6 +30,15 @@ The Notification Feature Initiative aims to introduce an event-driven architectu
 - Qualitative feedback from social listening
 - Event Bus adoption success for Mobile, MyVA Dashboard, Authenticated services, Chatbot, and others.
 
+## Assumptions
+- The BMT team will be able to co-create a claim notification platform in collaboration with Event Bus and VA Notify.
+- The BMT team is the correct team to take on notifications infrastructure technical debt to maintain on-going and expanding claims notifications initiatives.
+- We will roll out notification use cases gradually in coordination with VA comms stakeholders, Mobile, and other stakehodlers.
+- Notifications content (language) will be approved by VA comms stakeholders, but implemented by the BMT team
+
+
+## Discovery Outcomes
+
 ## MVP
 ### Core Bet
 If veterans are notified when a decision letter is available, they will access CST or the Mobile App to download the letter.
