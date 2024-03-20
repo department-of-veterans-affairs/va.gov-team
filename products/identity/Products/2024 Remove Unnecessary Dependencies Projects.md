@@ -1,6 +1,5 @@
 ## 2024 Remove Unnecessary Dependencies Roadmap
 | :------------- |:------------- | :----- | :----- |
-
 | Project Name          | What is It?       | Why Are We Doing It? | PM |
 | SiS Onboarding Docs | | | |
 | Auto-Auth | | | |
