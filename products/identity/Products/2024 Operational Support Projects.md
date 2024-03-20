@@ -10,7 +10,7 @@
 | STS Integrations (BTSSS API, VAOS Token, VRO, Oracle Health)|  | | Mike |
 | Develop Va.gov SLOs | Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov | Continuous improvement of the Veteran login experience. (O1KR2) | Jim |
 | Data Reporting - External Auth | | | Jim |
-| Create VERA Frontend on va.gov | | | |
+| Create VERA Frontend on va.gov | | | Mike |
 | Establish & Publish Response Time Metrics | Basically, a scorecard on how we're fulfilling other teams requests. | Gives us an idea of how we're doing w/r/t supporting other va.gov product teams  (O4KR2 )| Jim |
 | STS Integration Tracker | | | Mike |
 | Incident Response Refactor| | | Jim |
