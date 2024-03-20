@@ -374,7 +374,7 @@ Way back when, when we actually put stuff into databases in the Navy, I was part
 
 - Recommendation 1: Consider incorporating `periodOfServiceTypeText` (active/reserves/etc.) into veteran profiles. 
 	- All participants reported seeing accurate data, and there seemed to be genuine appreciation in the specificity of service types. 
-	- If incorporating service type, investigate data around the natural guard.
+	- If incorporating service type, investigate data around the National Guard.
 
 ![Service type mockup example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/service%20type%20example.png)
 
