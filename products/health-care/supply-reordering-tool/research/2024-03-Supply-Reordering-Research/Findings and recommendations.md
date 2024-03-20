@@ -69,11 +69,11 @@ _For each finding, list details with supporting quotes and images when possible.
 
 **Finding 1: All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.**
 
-9 out of 9 participants use written notes, have mental checks, or check inventories to track their supplies to know when it's time to reorder. Even though no one expresses strong dissatisfaction that  There are currently no notifications or other user-friendly ways to remind Veterans that it's time to submit reorders.
+9 out of 9 participants use written notes, have mental checks, or check inventories to track their supplies to know when it's time to reorder. Even though no one expressed strong dissatisfaction with the fact they had to track themselves, one participant talked about how they couldn't simply go to VA clinics and pick up supplies anymore when they didn't reorder on time. One participant suggested that there should be reminders for recurring hearing aid tests because that's when they pick up their hearing aid supplies. There are currently no notifications or other user-friendly ways to remind Veterans that it's time to submit reorders.
 
-> _Supporting data: Quote here_
+> _Supporting data: I can kind of tell by my inventory, you know, like if it's medication or if my batteries are starting to get low or just wear and tear. So I know to do that for myself to add, you know, because I'm self-advocate, so I know when it's time for me to do what I need to do._
 
-> _Supporting data: Quote here_
+> _Supporting data: based on need. So, you know, every six months or so, I know I, I'm supposed to, you know, ask for new replacement tubes, filters, et cetera. So it's a, it's a mental note that I make._
 
 
 **Finding 2**
