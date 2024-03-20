@@ -1,4 +1,4 @@
-# Release Plan: Find a Representative 2.0
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/11be5742-abe7-4897-8251-7cf72d43a9cf)# Release Plan: Find a Representative 2.0
 
 
 ### Development
@@ -122,6 +122,13 @@ Search experience traffic on product page:
 
 User engagement:
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/8aa58f91-3874-4482-bf25-94c215561e52)
+
+Navigation to the landing page:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/44e34dbe-b250-4d00-8982-c97dc3e7ef44)
+
+
+Navigation to the product page:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/94794ab9-5851-4230-abe1-c03165716719)
 
 
 ### 1-Month Results (3/11-4/20)
