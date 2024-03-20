@@ -11,6 +11,8 @@ A repository of design work completed. Files listed below have gone through the 
 
 
 ## 2023
+* [Updates to Disability Ratings page](https://www.figma.com/file/gJJTafwVLBSr8aK78wXI91/Disability-ratings?type=design&node-id=1-727&mode=design&t=0gtlz4WSjDHQOQzb-0) - Oct 2023
+  
 * [New claim details page](https://www.figma.com/file/F8U4wddaFouUPVd4mGBMDI/CST---Evidence-Submission---Spec?type=design&node-id=0-5&mode=design) - Sep 2023
 
 * [New claim cards](https://www.figma.com/file/F8U4wddaFouUPVd4mGBMDI/CST---Evidence-Submission---Spec?type=design&node-id=0-5&mode=design) - Aug 2023
@@ -23,7 +25,3 @@ A repository of design work completed. Files listed below have gone through the 
 
 ## 2022
 * [Decision Letter Download MVF](https://www.figma.com/file/FmPqyjeCs4shI0oXQiuWLD/CST---Decision-Letter-Download?type=design&mode=design&t=0gtlz4WSjDHQOQzb-0) - Nov 2022
-  
-
-## Date unknown
-* [Disability ratings](https://www.figma.com/file/gJJTafwVLBSr8aK78wXI91/Disability-ratings?type=design&node-id=1-727&mode=design&t=0gtlz4WSjDHQOQzb-0)
