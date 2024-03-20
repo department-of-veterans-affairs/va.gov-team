@@ -1,5 +1,12 @@
 # Decision log - Federal standardized header and footer 
 
+## 3/20/24 - Design System / Public Websites agreements for build / launch
+https://dsva.slack.com/archives/C01DBGX4P45/p1710948996488339?thread_ts=1709913842.908739&cid=C01DBGX4P45
+* Design System Team will pick up the work to flatten the auth header.
+    * Work will start in earnest when DS is past some of the upcoming USWDS v3 upgrade milestones.
+    * The work that has been done gives the Design System Team a head start on converting the header & footer to web-components. The Design System Team will work on this next quarter with the expectation that we'll build web-components from the static versions that Randi has created and ship those in production.
+
+
 ## 1/24/24 - Design System / Public Websites agreements for build / launch
 PW: Dave Conlon, Fran Cross, Jill Adams, Randi Mays, Chris Kim
 DS: Matt Dingee, Micah Chang, Jami Gibbs, Ian Harrison, 
