@@ -87,47 +87,46 @@ The following metrics will be considered before advancing rollout to the next st
 
 ### Stage B Results (3/13-3/18)
 
-1. Errors in Sentry:
-2. Are console errors still happening on page click? 
-3. User reports of outdated information:
-4. Unique Pageviews:
-5. Average Time on Page:
-6. Entrances: 
-7. Bounce Rate:
-8. % Exit: 
-9. What changes (if any) need to be implemented before proceeding to the next rollout stage?
+1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
+2. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage C
 
-### Stage C Results (3/18- 3/20)
+### Stage C Results (3/18-3/20)
 
-1. Errors in Sentry:
-2. Are console errors still happening on page click? 
-3. User reports of outdated information:
-4. Unique Pageviews:
-5. Average Time on Page:
-6. Entrances: 
-7. Bounce Rate:
-8. % Exit: 
-5. What changes (if any) need to be implemented before proceeding to the next rollout stage?
-
-### Stage D Results
-
-1. Errors in Sentry:
-2. Are console errors still happening on page click? 
-3. User reports of outdated information:
-4. What changes (if any) need to be implemented before proceeding to the next rollout stage?
-
-***
-
+1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
+2. Are console errors still happening on page click? not seeing any console errors, if there are they will be picked up with error monitoring (Sentry)
+3. What changes (if any) need to be implemented before proceeding to the next rollout stage? nothing at this time, ready to move into Stage D
 
 ## Post Launch Metrics
 
 _Links to Google Analytics and DOMO dashboards_
 
+1. [Traffic for all Find a Rep pages](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240310&_u.date01=20240319&explorer-table.plotKeys=%5B%5D&explorer-table.filter=get-help-from-accredited-representative/)
+2. [Traffic for just the search experience of Find a Rep](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240311&_u.date01=20240318&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.pagePath%22,%22BW%22,%22www.va.gov~2Fget-help-from-accredited-representative~2Ffind-rep~2F%3F%22,0%5D%5D/) (only post-search URLs)
+3. [User engagement](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20240312&_u.date01=20240318&_.useg=user0ChHUWxaSUWm-5ocHKwm0Q,user_5CvEnKiSOmYYMHT8kTpQQ,builtin1&overview-dimensionSummary.selectedGroup=system&overview-dimensionSummary.selectedDimension=analytics.browser/) (segmented by Find a Rep users vs. all users of VA.gov)
 
-### 1-Week Results (3/18-3/28)
+### 1-Week Results (3/11-3/20)
+
+1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
+3. User reports of outdated information: 1 report for a representative's phone number and address
+12. Contact Center calls (MyVA411):
+13. Feedback survey submmissions (Medallia):
+
+What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? nothing at this time
+
+Landing page and product page traffic:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/4fa293c9-3daa-452d-9157-1a71d3cbcd86)
+
+Search experience traffic on product page: 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/84a5b6fd-74cc-4d88-8b14-eb642a61bb7a)
+
+User engagement:
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/8aa58f91-3874-4482-bf25-94c215561e52)
+
+
+### 1-Month Results (3/11-4/20)
 
 1. Errors in Sentry:
-2. Are console errors still happening on page click? 
 3. User reports of outdated information:
 4. Unique Pageviews:
 5. Average Time on Page:
@@ -137,27 +136,8 @@ _Links to Google Analytics and DOMO dashboards_
 9. Number of searches:
 10. Average number of searches per user:
 11. % of searches that do not return results:
-12. Contact Center calls:
-13. Feedback survey submmissions:
-
-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
-
-
-### 1-Month Results (3/18-4/18)
-
-1. Errors in Sentry:
-2. Are console errors still happening on page click? 
-3. User reports of outdated information:
-4. Unique Pageviews:
-5. Average Time on Page:
-6. Entrances: 
-7. Bounce Rate:
-8. % Exit:
-9. Number of searches:
-10. Average number of searches per user:
-11. % of searches that do not return results:
-12. Contact Center calls:
-13. Feedback survey submmissions:
+12. Contact Center calls (MyVA411):
+13. Feedback survey submmissions (Medallia):
 
 What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
