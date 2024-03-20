@@ -382,7 +382,7 @@ Way back when, when we actually put stuff into databases in the Navy, I was part
 	- The values were accurate for most participants, expect for a few null values. (Incorporating this data type may require including a key to explain what `null` means.)
 - Recommendation 3: Discuss the viability and utility of including `narrativeReasonForSeparationText`. 
 	- While values were mostly correct for participants, 1 value was unavailable value, and 2 incorrect values were upsetting or confusing to participants. 
-- Recommendation 4: Consider not pursing including `militaryOccupations` in veteran profiles, given the inconsistencies in data coverage and its limited utility. 
+- Recommendation 4: Consider not pursuing including `militaryOccupations` in veteran profiles, given the inconsistencies in data coverage and its limited utility. 
 	- Veterans already have records such as branch reports (like the Air Force’s SURF) and DD214 to share with medical providers and the VA. 
 	- The other use case – helping with jobs – may at this point be out of scope for the profile.
 
