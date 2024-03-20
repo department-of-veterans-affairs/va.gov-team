@@ -2,12 +2,11 @@
 - Last updated: 3/19/2024
 ---
 
-## Acknowledge & Communicate that there is an error or outage present
+## Acknowledge & communicate that there is an error or outage present
 - Should be handled by the Data Analyst & PM team first as they typically have eyes on this. However Devs should be receiving notifications that an error or outage is present (when an alert captures it) and can start preparing to address it. Commuinications are delivered through the health-tools-1010-apm channel on DSVA Slack.
 
-## Informing Product owners that there is a problem
+## Informing Product Owners that there is a problem
 - PMs can inform the stakeholders that there is an issue. Stakeholders to reach out to will depend on the nature of the problem and where the issue is stemming from. The forms are dependent on different external services per se but the top of the list of folks that need to be informed are:
-     - Alex Seelig
      - Patrick Bateman
      - Kristen McConnell
 
