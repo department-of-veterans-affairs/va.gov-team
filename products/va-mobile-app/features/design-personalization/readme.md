@@ -12,20 +12,20 @@ We believe that bringing personalized content to the VA mobile app’s home scre
 
 
 ### Product
-* [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) | [doc](https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
+* [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) (https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
 
 ### Data
-- [Home Screen Quantitative Measures of Success Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/Home%20Screen%20Quantitative%20Success%20Tracking.md)
-- [Data project plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/data)
+- [Home Screen Quantitative Measures of Success Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/Home%20Screen%20Quantitative%20Success%20Tracking.md)(2023)
+- [Data project plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/data)(2023)
 
 ### UX
-- [Personalized Home Screen - Design & UX strategy work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#personalization---home-screen)
+- [Personalized Home Screen - Design & UX strategy work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/ux#personalization---home-screen) (2023-present)
 
 ### Content
 - [Content decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/content/content%20decision%20log.md)
 
 ### Research
-* [Personalized Home Screen - Evaluative Research (2024)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/personalized-homescreen)
+* [Personalized Home Screen - Evaluative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/personalized-homescreen) (2024)
 
 
 ## Discovery & Previous Exploration
