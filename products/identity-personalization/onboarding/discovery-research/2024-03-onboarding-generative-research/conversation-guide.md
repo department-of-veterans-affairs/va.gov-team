@@ -23,7 +23,7 @@ Today we're going to talk about your experience learning about VA as part of the
 Before we start, I have a few things that I want to go over with you:
 - First, I want to confirm your separation status. According to my notes you’re a [service member/Veteran] and [are separating by Dec 31 of this year / separated on or after June 1, 2023]. Is that correct?
   - *If not correct, end the session*
-- According to my notes, you said you’d be willing to create an identity verified account on VA.gov.  Is that correct?
+- According to my notes, you said you’d be willing to create an identity verified account for VA.gov.  Is that correct?
   - First, do you know if you already have a VA.gov account?
   - This process will require you to submit some personal information online to verify you are who you say you are, including your social security number.  You’ll also have to upload a picture of a government issued ID.
   - 
@@ -35,17 +35,14 @@ Before we start, I have a few things that I want to go over with you:
   - If yes: Admit observers.
   - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
   - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-  - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
-  - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?**  We blur out any information that could possibly be used to identify you, like your onscreen image. 
 
-*Start recording.*
+  *Start recording.*
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
-
 
 ## Confirm level of experience with VA - 1 minute
 
@@ -53,15 +50,16 @@ Great! As a first step, I’d like to briefly confirm the info I got in advance 
 
 And, I also understand that you have [experience with VA.gov]. Is that correct too?
 
-Great. We’ll go into detail about both of those things later in our conversation.  Let’s back up a little bit though.
+Great. We’ll go into detail about both of those things later in our conversation.  
 
 ## Understand familiarity with VA benefits and services  - 10 minutes
 
-Talk to me about what you know about VA services and benefits.
+First, I’d like to hear about what you know about VA services and benefits.
 - How did you learn these things?
 - What was your experience like, learning about VA?
-- As a service member, how did that line up with how you would’ve hoped to learn about these things?
-- Was there any support you wish you had, but didn’t?
+- How did you expect to learn about VA service and benefits?
+- How did what you experienced line up with those expectations?
+- What would you change about what you’ve learned about these things so far?
 - As a researcher, I don’t have the knowledge to tell you all about VA benefits and services, but I’m curious to know what questions do you still have about them?
 
 *Optional questions, as needed:*
@@ -92,15 +90,21 @@ Talk to me about what you know about VA services and benefits.
 ## Understand experience with VA.gov - 10 minutes
 
 - Earlier you mentioned you have [level of experience with VA.gov]. How did you first hear about the website?
+- What expectations, if any, did you have about the website?
 - What did you first try to do on the website? What was that like? 
 - What else have you done on the website?
 - What has your overall experience been like?
 - What would you tell other [service members/veterans] about the website?
-- How did your experience of the website line up with what you expect?
+- How did your experience of the website line up with what you expected?
+
+Let’s go to the website and take a look together. I’d love for you to retrace your steps and show me what you’ve done on the site so far.  It’ll be really helpful if you can think out loud as much as possible as you review the website.
+
+*Begin screensharing.*
 
 *Optional questions, as needed:*
 * Were you able to find what you needed on the site?
 * Did you sign into the website? 
+* What did you expect the website to be like once you signed in?
 * What was signing into the site like?
 * How did the website line up with your expectations, after you signed in?
 * Do you have the VA Health and Benefits mobile app?
@@ -112,27 +116,16 @@ Talk to me about what you know about VA services and benefits.
   * What do you like best? What do you wish you could change?
 * What other VA digital tools do you use? What are the reasons you use these tools instead of the health and benefits app, or VA.gov?
 
-## Create va.gov account and review auth exp - 15 minutes
+## Optional - create va.gov account and review auth exp - 15 minutes
 
+Now we’re to the point where we can create that account, if you’re still up for it. Would that be ok with you? It’s ok if you’d rather not.
 
-If yes:
-- Do you know if it’s verified?
-- Do you have your login handy?
-
-If unsure:
-- Let’s go to the website and check. *Begin screensharing*
-
+If yes, proceed. If not, go to post task interview.
 ### When ready to create account:
 
-I will pause recording while you do this, and we can also stop screensharing while you’re entering personal information. 
+I will pause recording when you get to the screen where you need to enter personal information, and we can also stop screen sharing at any point. Just let me know.
 
-Are you still up for creating this account?  It’s totally fine if you’d rather not.
-
-**Move to post-task interview if participant doesn’t want to create their account**
-
-How do you feel about screensharing during this process?
-
-OK, that works for me! One thing we are particularly interested in seeing is the final step of the account creation process - the last screen before you finish and go back to VA.gov. I’d like for you to start screensharing before you click that last button, and start the recording back up again. 
+One thing we are particularly interested in seeing is the final step of the account creation process - the last screen before you finish and go back to VA.gov. I’d like for you to start screensharing before you click that last button, and start the recording back up again. 
 
 Does that work for you?
 
@@ -165,17 +158,10 @@ It’ll be really helpful if you can think aloud as you go through this process,
 - If you could wave a magic wand and change something about your experience in learning about and starting to use VA services, what would you change?
 - Any questions for me? 
 
-**Topics to revisit**
-- outstanding debts
-- available benefits
-- mobile apps
-- VSOs
-
 ## Consent to use video clips
 
 - I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
-
 
 ## Thank-You and Closing - 1 minute
 
@@ -185,13 +171,6 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 
 Thank you so much again, and enjoy the rest of your day!
 
-##
-
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
-
-## Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
-
