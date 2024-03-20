@@ -26,10 +26,7 @@ For this first iteration, success will be:
     * How fast should things load?
       * Definition of "service degradation" in each case.
       * Creating a monitoring plan to check on service degradation.   
-* Publishing the SLO on a Monthly basis
-  * To a Github page in the [Login SLO folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Login%20SLO).
-  * To the #vsp-identity slack channel.
-    * Maybe other slack channels?
+
 
 
 ## Out of Scope: (for this iteration)
