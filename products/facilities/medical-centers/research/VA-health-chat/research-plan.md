@@ -53,9 +53,9 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 
 ### Research materials
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
+For [unmoderated testing:]([https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/research/VA-health-chat/research-plan.md#appendix-a-recruitment-email)
 - [Email for recruitment is Appendix A](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/research/VA-health-chat/research-plan.md#appendix-b-recruitment-email)
-- [Email with instructions is in Appendix B](https://boards.greenhouse.io/agilesix/jobs/5913285003)
+- [Email for recruited participants is in Appendix B](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/research/VA-health-chat/research-plan.md#appendix-b-email-to-recruited-participant))
 
 **Tree test links**
 
