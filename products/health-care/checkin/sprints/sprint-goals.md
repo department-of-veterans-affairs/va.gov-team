@@ -98,8 +98,6 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
         - 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
-     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - 🟩 [[FE] Re-base the Unified Branch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
