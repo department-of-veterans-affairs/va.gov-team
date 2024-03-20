@@ -205,7 +205,7 @@ _\[After they complete task – if still on Details\]_
 
 Please return to the previous page.
 
-- What are your thoughts on how this information is presented?
+- Tell me your thoughts about how these notes are presented.
 
 We will pause here so I can get feedback about this Care Summaries and Notes experience.
 
@@ -278,7 +278,14 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 **_\[Participant will be in Vitals\]_**
 
-- So far we have reviewed Care Summaries and Notes, Vaccines, and Vitals. Tell me how you feel about accessing Pat’s records directly rather than running a Blue Button report.
+_[ If user had mentioned generating blue button report in the past, ask\]_ 
+
+- Today we reviewed Care Summaries and Notes, Vaccines, Allergies, and Vitals. How valuable do you find direct access to Pat's records compared to generating a Blue Button report? 
+
+_[If user had not generated blue button report in the past, ask\]_ 
+
+- Today we reviewed Care Summaries and Notes, Vaccines, Allergies, and Vitals. How valuable do you find direct access to Pat's records compared to having to generate a downloaded pdf report?
+  
 - Are there any records among these that you might want to download or print?
   - _\[if yes\]_ Which ones?
 - Let’s review \[mentioned record\] now and find what the options are.
