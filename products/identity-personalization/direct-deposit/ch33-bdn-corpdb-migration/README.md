@@ -115,22 +115,24 @@ For both 526 (Disability Comp) and 527 (Pension):
 
 ### Code
 
-- Exactly what needs to be updated, and how long will this take?
-- Will education benefits be allowed `add` functionality now in addition to `edit`?
-- What can we get done by April 20th without potentially compromising the veteran experience?
+- Exactly what needs to be updated, and how long will this take? _see timeline below, we should be running again by mid May 2024_
+- Will education benefits be allowed `add` functionality now in addition to `edit`? _Yes_
+- What can we get done by April 20th without potentially compromising the veteran experience? _We'll add an alert and EDU updates will go offline from 4/20 until roughtly mid-May_
 
 ### Testing/Launch
 
-- How can we adequately test this code end-to-end?
+- How can we adequately test this code end-to-end? _We will have a round of UAT testing with users who have C&P, EDU, both benefits, and neither of these benefits._ 
 - Is there any way to do a phased launch (likely no), or do we have to cut over at 100%?
-- Given that BDN is migrating to CoprDB on a Saturday, how should we handle this on the frontend so we are not updating our interface on a Friday/over a weekend when no one is here to monitor the launch?
+     - when shutting down the page we'll have to flip that to 100%
+     - for migrating to the single form, we could do a phased launch 
+- Given that BDN is migrating to CoprDB on a Saturday, how should we handle this on the frontend so we are not updating our interface on a Friday/over a weekend when no one is here to monitor the launch? 
 
 ### Contact centers
 
 - What capabilities, if any, will the contact centers have to update edu information after April 20th?
 - As a result, how should we be directing people on VA.gov?
-#### ANSWERS 
-- Contact centers will be able to update the information, we've been instructed to send veterans to the national hotline and the call center will forward the data to the Education Call Centers (ECC)
+#### _ANSWERS_ 
+- _Contact centers will be able to update the information, we've been instructed to send veterans to the national hotline and the call center will forward the data to the Education Call Centers (ECC)_
 
 
 ## Assumptions and risks
