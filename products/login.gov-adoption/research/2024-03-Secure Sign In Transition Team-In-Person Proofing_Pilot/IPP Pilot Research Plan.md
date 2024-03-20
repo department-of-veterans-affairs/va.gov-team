@@ -188,7 +188,7 @@ No one can have a verified Login.gov account (Answered “Yes, and I have a veri
 
 Veteran must be available to come in person to VHRC site
 
-Veteran must be able to bring required documentation
+Veteran must be able to bring required documentation (but will not be disqualified if they do not bring it)
 
 Veteran must be able to bring personal smart device and access email at VHRC site
 
@@ -212,7 +212,6 @@ No (if “No”, please exclude)
 Can you bring one of the following identification documents and ensure that it is not expired?
 State-issued driver’s license
 State-issued identification card
-Veteran Health Identification Card (If this option is selected, you must also bring a proof of address)
 Yes
 No (if “No”, please exclude)
 
@@ -222,7 +221,9 @@ No (if “No”, please exclude)
 
 Do you consent to provide your email address and access your personal email on a computer provided to you at the VA site that is connected to a public network?
 
-You will be asked for your personal information, such as email address, name, social security number, and address. This information will be input into an application and shared with an authorized VA staff. The sharing of this information will not impact your current VA benefits or services. After the research session is complete, your personal information will be wiped from the application and will not be accessible or able to be recovered in any way by the researchers and pilot participants. Do you consent to provide your personal information with the understanding that your information will be wiped at the end of the session? 
+You will be asked for your personal information, such as email address, name, and social security number. This information will be shared with an authorized VA staff and input into a VA application to confirm your information matches. The sharing of this information will not impact your current VA benefits or services. After the research session is complete, your personal information will be wiped from the application and will not be accessible or able to be recovered in any way by the researchers and pilot participants. Do you consent to provide your personal information with the understanding that your information will be wiped at the end of the session? 
+
+You will be asked to create a test account and the researchers will help you delete it at the end of the session. This test account will not impact your current VA benefits and services. Do you consent to create this test account? 
 
 #### VA Staff Recruitment Criteria
 
@@ -243,7 +244,7 @@ Complete surveys
 
 ### Timeline
 
-April 1-April 8, 2024
+April 1-8, 2024 [waiting on VHRC to confirm dates and will shift dates to enable two week recruitment window for Perigean]
 
 ### Prepare
 Materials finalized by THIS DATE
@@ -253,7 +254,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: 
 
 ### Research sessions
-April 1-April 8, 2024
+April 1-8, 2024 [waiting on VHRC to confirm dates and will shift dates to enable two week recruitment window for Perigean]
 
 ### Length of sessions
 Veterans will be scheduled for 2 hour sessions 
