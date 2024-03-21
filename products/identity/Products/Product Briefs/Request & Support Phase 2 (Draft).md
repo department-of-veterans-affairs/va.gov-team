@@ -12,7 +12,7 @@ For the MVP we leveraged the Slackbot already in development for Sign-In Service
 - PR Review
 - Data pulls
 - Test User Authentication Issues
-The rationale was that these were requests that were unambiguously supported by the identity team, and we could fully
+The rationale was that these were requests that were unambiguously supported by the identity team, and fully developing the processes surrounding fulfilling these requests would help us create processes for trickier requests.
 
 In addition, we created:
 - A Github page to to explain how to request support from identity.
@@ -21,7 +21,7 @@ In addition, we created:
 - Satisfaction Survey
 
 ## Problem Statement: 
-Now that we have an MVP of the Request & Support out in the world
+Now that we have an MVP of the Request & Support out in the world, we need to iterate on it so that it covers all of the request types, refine the process by which we fulfill requests and measure how we are doing.
 
 ## Relevant Documents:
 - [UX Brainstorm & Research](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1706233585959/51586c97a249268a2ff9a709024dcd9df18dc6f8?sender=u8f85d3b7f2143f85bb7a9248) 
