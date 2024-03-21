@@ -55,11 +55,11 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 1. All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.
 2. **Starting page:** Most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page. 
 3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
-5.  **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants showed hesitation in the instructions for "Edit permanent address" when they (7 out of 9) expected permanent address to be accurate and filled in. 
-6.  **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
-7.  **Step 2 Review:** All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
-8.  **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
-9.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
+4. **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in. 
+5. **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
+6. **Step 2 Review:** All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
+7. **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
+8.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
 
 
 ## Details of Findings 
@@ -68,28 +68,38 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 
 9 out of 9 participants use written notes, have mental checks, or check inventories to track their supplies to know when it's time to reorder. Even though no one expressed strong dissatisfaction with the fact they had to track themselves, one participant talked about how they couldn't simply go to VA clinics and pick up supplies anymore when they didn't reorder on time. One participant suggested that there should be reminders for recurring hearing aid tests because that's when they pick up their hearing aid supplies. There are currently no notifications or other user-friendly ways to remind Veterans that it's time to submit reorders.
 
-> _Supporting data: I can kind of tell by my inventory, like if it's medication or if my batteries are starting to get low or just wear and tear. So I know to do that for myself to add because I'm a self-advocate person, so I know when it's time for me to do what I need to do._
+> _Quote: I can kind of tell by my inventory, like if it's medication or if my batteries are starting to get low or just wear and tear. So I know to do that for myself to add because I'm a self-advocate person, so I know when it's time for me to do what I need to do._
 
-> _Supporting data: Based on need. So, you know, every six months or so, I know I'm supposed to ask for new replacement tubes, filters, et cetera. So it's a mental note that I make._
+> _SQuote: Based on need. So, you know, every six months or so, I know I'm supposed to ask for new replacement tubes, filters, et cetera. So it's a mental note that I make._
 
 
 **Finding 2: On the [starting page](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/), most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page.**
 
 6 out of 9 participants clicked on the order online link quickly without scrolling down. Out of the 3 participants who explored the page, 2 wanted to view the catalog to see what they could order, and one questioned about the eligibility of ordering online when supplies haven't been ordered in the past 2 years. Overall, there was one confusion on what they needed to do here to order online. 
 
-> _Supporting data: Well, to do anything on the VA site, you have to sign in._
+> _Quote: Well, to do anything on the VA site, you have to sign in._
 
 
 **Finding 3: On the instruction page with the sign-in button, most participants (7 out of 9) skipped instructions and wanted to sign in right away.**
 
 7 out of 9 participants wanted to sign in right away. Out of the 7 participants, one participant thought they were already signed in, and four expressed that they wanted to see the supplies available for them at this point. For the two participants who read the instructions, they liked the steps and wanted to see the steps throughout the process. 
 
-> _Supporting data: "Doesn't need this page, just want to see the supplies._
-> _Supporting data: "It'd be great if the user is identified after they sign in, the equipment that they're issued is already known by the VA._
+> _Quote: Doesn't need this page, just want to see the supplies._
+> _Quote: It'd be great if the user is identified after they sign in, the equipment that they're issued is already known by the VA._
 
 The screenshot below highlighted one content issue a participant pointed out. 
-> _Supporting data: "This is where I could order the batteries or some hearing aid supplies, but instead it's telling me also to order hearing aid or CPAP supplies. I don't need that._
+> _Quote: This is where I could order the batteries or some hearing aid supplies, but instead it's telling me also to order hearing aid or CPAP supplies. I don't need that._
 <img width="722" alt="Screenshot 2024-03-20 at 4 13 55 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/c82dd4e3-ac9f-4df5-ba3c-24b7e7c6809d">
+
+**Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in.**
+
+On the verify personal information page, all participants thought it was straightforward to click continue after verifying the information was correct. However, there was some valuable feedback from 2 participants that could improve the experience. 
+
+> _Quote: "Finish this order later" link is confusing for this step._
+> _Quote: I thought I would start ordering at this point. (because he expected this information to be accurate and shouldn't need to change._
+
+On the verify address page, all participants knew the meanings of permanent and temporary addresses. They associate permanent addresses with "what VA has on file", "residence", and "where I live", and they would add temporary addresses if they are "on vacation" or "visit family somewhere". However, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit permanent addresse. 
+<img width="349" alt="Screenshot 2024-03-20 at 4 46 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/b1c9f0aa-888d-42b6-83ba-a39c2ecc05d5">
 
 
 ## Additional Insights
