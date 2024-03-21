@@ -1,22 +1,28 @@
 # Background
-This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of success or failure of their claim submission.
+This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of success of submission and keep track of their claims. 
 
 # Problem or Opportunity
-1. In current state, Veterans face frustration and lack of confidence/trust in the VA in handling their claims when they do not get a consistently reliable acknowledgement of the outcome of their claim submission on VA.gov. If the claim is successfully submitted within 30 seconds, they are shown their Claim ID on the screen. In other cases, they are either directed to Claim Status tool or may not get any indication of success or failure of the submission. We also do not know if the lack of clear outcome encourages and allows Veterans to submit the same claim multiple times. Duplicate claims will requre additional effort on the part of VSRs and the organization to identify and manage and respond.     
+1. In current state, Veterans face frustration and lack of confidence/trust in the VA in handling their claims when they do not get a consistently reliable acknowledgement of the outcome of their claim submission on VA.gov. If the claim is successfully submitted within 30 seconds, they are shown their Claim ID on the screen. In other cases, they are either directed to Claim Status tool or may not get any indication of success or failure of the submission.
+2. We also do not know if the lack of clear outcome encourages and allows Veterans to submit the same claim multiple times. Duplicate claims will require additional effort on the part of VSRs and the organization to identify and manage and respond.     
 3. After submitting a disability claim, Veterans expect to receive an email confirmation, as is standard with most similar online transactions. Without this, Veterans lack confidence that their claim was received. This may also lead to duplicate submissions. Veterans may also want to use this email as evidence in case they need to contact VA to move their claim forward.
 4. Veterans want to track their claim and ensure it doesn't get stuck, but they don't know how to do this. There is the Claims Status Tool, but we suspect Veterans often don't know about it or don't know how to get there. When they do arrive there, can we improve their experience for tracking a disability claim?
-5. /submit endpoint migration is part of VA services platform migration from legacy EVSS services to Lighthouse platform and must be completed.
-6. There are some cases where uploading evidence to a claim fails silently. If the Veteran doesn't realize this, they may receive a lower disability rating, or claims may take longer to process than they would, had the evidence been included. 
+5. When Veterans submit partial claims that require further evidence collection, awareness of the Claims Status Tool could help many Veterans track missing documents and complete claims in a timely manner.
+6. /submit endpoint migration is part of VA services platform migration from legacy EVSS services to Lighthouse platform and must be completed.
+
 
 # Why
-This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission. This work will not only give the Veterans clear indication of submission status but also reuduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
+This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission and track the status of their claim. 
+This work will not only give the Veterans clear indication of submission status and means of tracking claims, but also reduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
 
 # Proposed Solution
 Under this initiative, all Veterans filing a 526 claim via va.gov will be able to
- - Get an on-screen message indicating the outcome of their claim submission and where to go for more details 
- - Have a better and consistent user experince on screen after submitting their claim with clear indication on the outcome( or where to check? this may be part of the next feature that evaluates direction to Claim Status tool)
- - Have a system in place to prevent duplicates when the claim was submitted the first time
+ - Confirm that their claim was accepted/acknowledged at the time of submission
+ - Receive an on-screen message indicating the outcome of their claim submission and where to go for more details
+ - Have a better and consistent user experince on screen after submitting their claim with clear indication on the outcome
  - Receive a confirmation email with details on their claim and how to track its progress (Claim Status Tool)
+ - Have access to an outline or copy of the information submitted in the claim
+ - Have a system in place to prevent duplicates when the claim was submitted the first time
+
 
 See epic [Improve submission user experience #78179](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179), which captures the above items.
 
@@ -24,12 +30,22 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 
 # In Scope
 - Lighthouse /submit endpoint migration
-- Evaluation of user-facing features such as the loading screen during submission
-- Message post-submission (on va.gov /confirmation page)
+- Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
+- Post-submission confirmation email and message on confirmation page
+- Outline of information and list of documents submitted
+- Reevaluating how the 526 introduces the Claim Status Tool and connects Veterans to it
 - Avoid duplicates (rethink when we clear the in-progress form)
+- Completion of migration of /submit endpoint to Lighthouse
+
   
 # Out of Scope
+This initiative focuses on the confirmation page and improving how Veterans record and track their claims. Other work that might be a part of the post-submission experience but is out of scope for this feature:
+
+Redesign of the post-submission pages
+UI changes
+
 - Notification of core 526 submission failures and file upload failures
+- PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
 
 # Success
 - Lighthouse /submit endpoint migration complete
