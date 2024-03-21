@@ -111,9 +111,14 @@ That said, some initial thoughts on what that project might entail.
 
 
 ## Milestones:
-* MVP Released
-* Additional Request Types Added
-* Deflection
+* UX Research Completed
+* Process flowchart completed
+* Communication language developed
+* Slackbot beta
+* Survey built
+* Process for specific requests captured
+* Slackbot released
+  
 
 
 ## Future Scope:
