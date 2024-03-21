@@ -37,6 +37,14 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 - Prevention of submission of duplicate claims via va.gov
   
 # Risks
+1. Technical complexity of /submit endpoint migration
+2. Some unknowns with email confirmations
+    1. Content guidance and landscape of existing emai confirmations on va.gov
+    2. Technical implementation
+3. Uncertain what we can get back about claim status in all cases immediately after submission
+4. User research will require planning around some challenges
+    1. Might want to have Veterans submit actual claims, which we know is difficult to recruit for and usually involves sensitive info
+    2. Otherwise, how might we understand whether our attempts to mitigate duplicate submissions will work?
 
 # Plan
 
