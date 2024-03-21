@@ -27,10 +27,10 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
+    - ❗ 🟩 [Send Email when eCheck-in, Pre-Check-in, or Travel is down ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78966)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+        - TBD
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - TBD
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
@@ -39,8 +39,6 @@ ________________________________________________________________________________
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
            - Some work completed in previous sprints, need to determine what's left
-    - **Sub Goals: Submit Q1 Translations to the State Department**
-        - TBD
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
