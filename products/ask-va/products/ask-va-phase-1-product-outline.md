@@ -61,8 +61,6 @@ These OKRs measure the success of our Phase 1 launch.
 - Key result 1.2: **Satisfaction** - Increase customer satisfaction score (CSAT) from the current ask.va.gov benchmark
 - Key result 1.3: **Task completion** - Increase the percentage of successful sent questions from the current ask.va.gov benchmark
 - Key result 1.4: **Rerouting** - Decrease the percentage of questions that are rerouted at least once by agents to another queue from the current ask.va.gov benchmark
-- Key result 1.5: **Resolution time** - Decrease the average time it takes for a Veteran to get their question resolved by an agent from the current ask.va.gov benchmark
-
 
 #### Objective 2: Integrate with enterprise assets, such as VA Profile, as necessary and possible for Phase 1
 - Key result 2.1: Explore integrations with enterprise assets (VANotify, VA Profile, My VA, Medallia feedback surveys)
