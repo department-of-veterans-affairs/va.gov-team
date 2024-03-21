@@ -1,7 +1,7 @@
 # Manual-UI Test Plan - Oracle Health Cancelation 
 
 ## Project Summary Epic [#]() 
-Appointments tool on VA.gov will be integrated with the Oracle Health system. The application will display upcoming, canceled and past appointments from Oracle Health. We will need to make sure the application can cancel an Oracle Health booked appointment or request. 
+Appointments tool on VA.gov will be integrated with the Oracle Health system. The application will display upcoming, canceled and past appointments from Oracle Health. The Veteran will need the ability to cancel an Oracle Health booked appointment or request. 
 
 ## Business Rules (more details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#appointments-list))
 On the VAOS homepage, the app displays the following for each status: 
@@ -21,18 +21,17 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will validate that they could view the list of their upcoming appointments (future appts) in VAOS 
-    - [ ] Booked VA appointment - in person (at a Facility) 
-    - [ ] Booked VA appointment - video connect (at a Facility) 
-    - [ ] Booked VA appointment - video connect (at an ATLAS location) 
-    - [ ] Booked VA appointment - video connect (at home, not a VA or ATLAS location) 
-    - [ ] Booked VA appointment - phone call 
-    - [ ] Booked Community Care appointment
-    - [ ] Canceled VA appointment - in person (at a Facility) 
-    - [ ] Canceled VA appointment - video connect (at a Facility) 
-    - [ ] Canceled VA appointment - video connect (at an ATLAS location) 
-    - [ ] Canceled VA appointment - video connect (at home, not a VA or ATLAS location) 
-    - [ ] Canceled VA appointment - phone call 
-    - [ ] Canceled Community Care appointment
+    - [ ] Booked Oracle Health appointment - in person (at a Facility) 
+    - [ ] Booked Oracle Health appointment - video connect (at a Facility) 
+    - [ ] Booked Oracle Health appointment - video connect (at an ATLAS location) 
+    - [ ] Booked Oracle Health appointment - video connect (at home, not a VA or ATLAS location) 
+    - [ ] Booked Oracle Health appointment - phone call 
+    - [ ] Canceled Oracle Health appointment - in person (at a Facility) 
+    - [ ] Canceled Oracle Health appointment - video connect (at a Facility) 
+    - [ ] Canceled Oracle Health appointment - video connect (at an ATLAS location) 
+    - [ ] Canceled Oracle Health appointment - video connect (at home, not a VA or ATLAS location) 
+    - [ ] Canceled Oracle Health appointment - phone call
+          
 
 - [ ] Use Case 2 - Validate pending requests in VAOS 
 
