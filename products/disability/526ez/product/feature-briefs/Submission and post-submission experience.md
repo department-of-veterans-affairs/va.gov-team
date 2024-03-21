@@ -27,7 +27,7 @@ Under this initiative, all Veterans filing a 526 claim via va.gov will be able t
  - Have a system in place to prevent duplicates when the claim was submitted the first time
 
 
-See epic [Improve submission user experience #78179](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179), which captures the above items.
+See epic [Improve submission user experience #78179](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179), which captures the above items (in progress).
 
 This initiative also includes completion of migration of /submit endpoint to Lighthouse
 
