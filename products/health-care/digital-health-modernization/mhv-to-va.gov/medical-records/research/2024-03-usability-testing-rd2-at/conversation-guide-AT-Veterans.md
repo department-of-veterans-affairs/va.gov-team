@@ -344,6 +344,7 @@ _\[When opened\]_
 - Walk me through how you would identify what this information is about?
 - Please find the record for aspirin
   - Talk to me about the signs and symptoms.
+  - It says ‘observed’ here but talk to me about what observed versus historical means. 
 
 We are going to pause here so I can get some feedback about this experience. Since this is a pdf document of Pat’s allergies, I will ask you to rate the 2 experiences.
 
