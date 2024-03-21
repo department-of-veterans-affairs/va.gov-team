@@ -105,7 +105,9 @@ On the verify address page, all participants knew the meanings of permanent and 
 > _Quote: I assumed everything is filled out."_
 
 > _Quote: (One participant pointed to the instruction (see screenshot below)), they should highlight changing the permanent address here only change for this order._
+
 <img width="349" alt="Screenshot 2024-03-20 at 4 46 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/b1c9f0aa-888d-42b6-83ba-a39c2ecc05d5">
+
 
 **Usability issues:**
 This might be a usability issue for staging accounts only. When participants add an address to the temporary address box and select it to continue, the form won't allow them to continue unless the permanent address is completed and filled out. 
