@@ -235,7 +235,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening: Perigean
 - Project point of contact:	[Holly Collier](mailto:holly.collier@adhocteam.us)
 - Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	[Brea Blackweler](mailto:brea.blackwelder@adhocteam.us)
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)
 - Note-takers:	TBD
 - Observers:	TBD
 
