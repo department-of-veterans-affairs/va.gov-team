@@ -116,7 +116,7 @@ Note: These are also in screener questions of [recruitment request ticket](https
  	* DAY: Friday, March 22, 2024 | TIMES: from 12:30pm - 1:30pm ET, 2:30pm - 4pm ET
 
 ### Research sessions
-* Planned dates of research: April 1 - April 5, 2024
+* Planned dates of research: March 28 - April 8, 2024
 
 ### Length of sessions
 * Session length: 1 hour
@@ -127,6 +127,8 @@ Note: These are also in screener questions of [recruitment request ticket](https
 ### Availability
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
+| March 28, 2024 	|  10am - 6pm ET 	|
+| March 29, 2024 	|  10am - 6pm ET 	|
 | April 1, 2024 	|  10am - 6pm ET 	|
 | April 2, 2024  	|  10am - 6pm ET 	|
 | April 3, 2024  	|  10am - 6pm ET 	|
