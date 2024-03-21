@@ -101,7 +101,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 
-- Link to Release Plan (with launch dates)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/release-plan/release-plan-mvp-mar-2024.md) (with launch dates)
 
 What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?
 tbd
