@@ -1,5 +1,7 @@
 # Background
-This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of success of submission and keep track of their claims. 
+This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of successful submissions and keep track of their claims. 
+
+This initiative focuses specifically on the happy path for submission and post submission, where submission and document uploads are successful. 
 
 # Problem or Opportunity
 1. In current state, Veterans face frustration and lack of confidence/trust in the VA in handling their claims when they do not get a consistently reliable acknowledgement of the outcome of their claim submission on VA.gov. If the claim is successfully submitted within 30 seconds, they are shown their Claim ID on the screen. In other cases, they are either directed to Claim Status tool or may not get any indication of success or failure of the submission.
@@ -39,18 +41,19 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 
   
 # Out of Scope
-This initiative focuses on the confirmation page and improving how Veterans record and track their claims. Other work that might be a part of the post-submission experience but is out of scope for this feature:
-
-Redesign of the post-submission pages
-UI changes
-
+This initiative focuses on the happy path for the submission and post submission experience. At this time, no non-happy paths are included in this work. Other exclusions include: 
 - Notification of core 526 submission failures and file upload failures
 - PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
+- Redesign of post-submission pages
+- Given that the Claim Status Tool is not managed by our team, any improvements across products will need to happen in collaboration
 
 # Success
 - Lighthouse /submit endpoint migration complete
 - Improved clarity in the outcome of claim submission on the UI post submission 
 - Prevention of submission of duplicate claims via va.gov
+- Confirmation/acknowledgement email of successful submission
+- Veterans better understand how to track their claims (Claims Status Tool)
+- Veterans have access to an outline of copy of their information and list of documents submitted
   
 # Risks
 1. Technical complexity of /submit endpoint migration
@@ -60,7 +63,9 @@ UI changes
 3. Uncertain what we can get back about claim status in all cases immediately after submission
 4. User research will require planning around some challenges
     1. Might want to have Veterans submit actual claims, which we know is difficult to recruit for and usually involves sensitive info
-    2. Otherwise, how might we understand whether our attempts to mitigate duplicate submissions will work?
+    2. Otherwise, how might we understand whether our attempts to mitigate duplicate submissions will work?  
+5. Any changes to the Claims Status Tool that impact how the Veteran access their claim information or what they are able to track as related to submission may need a copy/link changes
+6. Will need careful collaboration with back-up path and document failures to identify all use cases for full submission flow to make sure there are no missing or inaccurate notifications
 
 # Plan
 
