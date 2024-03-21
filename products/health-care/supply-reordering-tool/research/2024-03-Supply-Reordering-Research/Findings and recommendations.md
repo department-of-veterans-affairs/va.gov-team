@@ -57,9 +57,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
 4. **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in. 
 5. **Step 2 Select supplies:** All participants found it easy to select supplies. 6 out of 9 participants expected to see only what they need to reorder.
-6. **Step 2 Review:** All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
-7. **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
-8.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
+6.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
 
 
 ## Details of Findings 
@@ -120,33 +118,50 @@ This might be a usability issue for staging accounts only. When participants add
 The task was to select a hearing aid battery to order, and all participants found it easy to check the box to pick a battery. However, 5 out of 9 participants showed confusion about the differences between the two batteries and did not know what some of the supplies were (see 2 and 3 in the screenshot below). 
 
 > _Quote: There are two different batteries. Wait a second they are different batteries for the same model of hearing aid. I'm not sure what the difference is between them._
+
 > _Quote: What I see is the RIC charger, I have no idea what that is._
 
 <img width="391" alt="Screenshot 2024-03-21 at 11 40 27 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/3efb0371-b9b6-463d-b7cb-5611ccb8c6aa">
 
 6 out of 9 participants wanted to see only what they had ordered previously. For example, if they don't have CPAP, they don't want to see CPAP (since the task was to order a hearing aid battery). One participant pointed to the title of the page (see 1 in the screenshot above) and was bothered by "or CPAP". 
  
-> _Quote: I would think that if the VA knew what my order was already, instead of my initial ordering, they would only make one type of battery available for my selections. But to make it easier, I would think if you only offer what I've been prescribed for me, then just having one option and clicking that might make it easier._
+> _Quote: I would think that if the VA knew what my order was already, instead of my initial order, they would only make one type of battery available for my selections. But to make it easier, I would think if you only offer what I've been prescribed for me, then just having one option and clicking that might make it easier._
+
 > _Quote: If I'm ordering supplies for my hearing aid, I don't need anything about CPAP."
 
 When asked what they would like to change about this page, two participants provided feedback. One mentioned being able to change the size of their cushion earpiece, and another participant talked about changing the quantity and the brand of the hearing aid. 
 
-> _Quote: If you need to change the brand, I think you would need to talk to your primary care provider, and it's the same for quantity._ 
-> _Quote: If you offer the earpiece, you'd need to have the size of the small, medium, and large, whatever the case may be._ 
+> _Quote: If you need to change the brand, I think you would need to talk to your primary care provider, and it's the same for quantity._
+
+> _Quote: If you offer the earpiece, you'd need to have the size of the small, medium, and large, whatever the case may be._
+
+
+**Finding 6: All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest).**
+
+Overall, most participants (7 out of 9) found the reordering experience to be easy. The other two didn't give a score. When asked how they (3 participants gave a score of 4) would improve the tool to get to a score of 5, participants provided some valuable feedback: 
+
+> _Quote: f I'm ordering a hearing, hearing, hearing aid supplies, I wouldn't wanna see CPAP or anything else. Nowhere else. If I'm order, if I click on order for hearing aid supply, that's all I wanna see. And I would do the verify, verifying the information for my personal information address and stuff. I do that at the end because it, it's there anyway to edit at the end. So yeah, if I want to change my address or ship it to where I wanna ship to, I'd do it at the end instead of, you know, in between._
+
+> _Quote: the only thing is I didn't see "Finish this later". (when asked to come back to submit later)_
+
+> _Quote: I'd like a reminder for upcoming hearing tests._
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+**Finding 7: On step 2 - review page, all participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it.**
+
+
+**Finding 8: On step 3 - confirmation page, all participants were satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.**
 
 
 ## Recommendations
+    
+* Iterate the form steps flow so Veterans can place an order quickly and confidently.
+    * _Is it necessary for Veterans to verify their personal information when they are already logged in (step 1)? Is it necessary for them to fill in their addresses when that information is already stored on the VA Profile? Why ask them to edit the permanent address when it only applies to the order they're placing? Does DLC have data on what Veterans need and when it's time for them to submit the order? Let's start asking those questions to make the overall experience more intuitive and easier. _
+      
+* Explore the idea of adding the ability to change or request change for size, quantity, and brand of supplies.
+    * _For nuance questions and requests, participants mentioned they prefer to contact their providers or clinics directly, which could delay the process in the case of not reaching the right person or back-and-forth communications. Adding a change supply request feature might ease the actions Veterans need to take._
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
 
 
 ## Next Steps
