@@ -1,6 +1,9 @@
 ### Last updated: 3/20/2024
 ----
 # Table of Contents
+
+<details closed>
+<summary>Click the dropdown for navigation links</summary>
 - [Executive Summary](#executive-summary)
 - [Stakeholders](#stakeholders)
 - [Vision](#vision)
@@ -9,18 +12,16 @@
 - [Potential Initiatives](#potential-initiatives)
 - [Outcome-Based Roadmap](#outcome-based-roadmap)
 - [Planning Boards](#planning-boards)
-- [Service Flow Mapping](#service-flow-mapping)
+- [Decision Reviews Service Diagrams](#decision-reviews-service-diagrams)
 - [Access and Testing](#access-and-testing)
 - [User Logins](#user-logins)
 - [Test Rail](#test-rail)
 - [Defect Triage Process](#defect-triage-process)
 - [Status Codes and Error Messages](#status-codes-and-error-messages)
 - [Analysis Steps](#analysis-steps)
-- [Bug Categorization](#bug-categorization)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [Platform](#platform)
-- [Code Yellow Procedure](#code-yellow-procedure)
+
+</details>
+
 # Executive Summary
 
 In 2023, VA.gov achieved the major milestone of releasing of all decision review forms on VA.gov, enabling Veterans to file for reviews and appeals to decisions about their claims via self-service. With the MVP product line now in place, the product strategy will prioritize stability, transaction growth, and a holistic, personalized experience. Decisions that inform roadmap priorities, experiment scope, and KPIs are made based on their potential to help Veterans accomplish their top Decision Review tasks, increase VA.gov transactions resulting in favorable outcomes, and improve transaction integrity. 
@@ -334,15 +335,20 @@ Scope of this includes:
 - [Sprint Planning and Prioritization Board](https://github.com/orgs/department-of-veterans-affairs/projects/1026/views/1?filterQuery=)
 - [Defect Triage Board](https://github.com/orgs/department-of-veterans-affairs/projects/876/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C46447480%2C46447511%2C46447563%2C%22Labels%22%5D)
 
-# Service Flow Mapping
-- [Request A Board Appeal](https://app.mural.co/t/departmentofveteransaffairs9999/m/lighthouseapiplatform7991/1631736307705/31e23e9b9754a0ffceecdc2f037dc86976553b08?sender=u0d70ac6e87daa7c066838517)
-- [Supplemental Claims](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1654096034291/25f4086b638b48828941c4d6aa330f1df1c9527a?sender=u0d70ac6e87daa7c066838517)
+# Decision Reviews Service Diagrams
+- [Request A Board Appeal](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686860506968/58cf67b56dfb12c9337cdd7b110dbf6182a55516?invited=true&sender=02d71842-45b3-44df-b5bd-b1399d0ba73e)
+- [Supplemental Claims](https://app.mural.co/t/departmentofveteransaffairs9999/m/adhoccorporateworkspace2583/1654096034291/25f4086b638b48828941c4d6aa330f1df1c9527a?sender=66cfcd80-684f-490f-a034-1540c801ca34)
 - [Higher-Level Review](https://app.mural.co/t/departmentofveteransaffairs9999/m/lighthouseapiplatform7991/1631736307705/31e23e9b9754a0ffceecdc2f037dc86976553b08?sender=u0d70ac6e87daa7c066838517)
+
 # Access and Testing
-## User Logins
-## Test Rail
+### Test User Dashboard (TUD) requires SOCKS access
+- [TUD User Logins](https://tud.vfs.va.gov/?page=1)
+
+### Test Rail access is provided by the VFS Platform team
+- [Test Rail](https://dsvavsp.testrail.io/index.php?/suites/view/6&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
+
 # Defect Triage Process
-## Status Codes and Error Messages
+
 ## Severity Criteria
 Below are factors to consider when labeling severity for Decision Review bugs.
 
@@ -352,9 +358,9 @@ Below are factors to consider when labeling severity for Decision Review bugs.
 | **Moderate** | - Some users impacted<br>- Ability to complete the expected action, but with gross flaws<br>- Data integrity has a backup pathway (ex: off-ramped to regional office or CMP)<br>- Data security not at risk<br>- Requires pickup in the next sprint |
 | **Minor** | - Spelling errors<br>- Design blemishes<br>- Requires pickup in the next 1-3 sprints |
 
+--- 
+
 ## Analysis Steps
-## Analysis Steps
----
 ### Start with a time boxed spike, if needed
 
 - Create a spike ticket
@@ -378,8 +384,3 @@ Below are factors to consider when labeling severity for Decision Review bugs.
 - If multiple issues have the same severity, add the number of users effected and occurrences
 - Assign the issue to a sprint
 - Confirm priority with the PO as needed for congressional inquiries and special cases
-## Bug Categorization
-### Frontend
-### Backend
-### Platform
-### Code Yellow Procedure
