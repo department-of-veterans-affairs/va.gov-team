@@ -91,9 +91,6 @@ Where do we refactor and clean up the existing logic to learn from any past mist
    - Delete the legacy `DirectDeposit` component, its associated files, and any unused actions and reducers. Basically delete the entire legacy directory
    - Remove the feature toggle and any conditional rendering logic related to the legacy experience.
 
-By following this plan, you can incrementally build the new direct deposit experience while keeping the legacy version intact. This approach allows for a smooth transition and minimizes the risk of breaking existing functionality.
-
-Remember to thoroughly test the new implementation and ensure that it meets all the requirements before removing the legacy code completely.
 
 ### Current Component Overview and Changes needed
 	
