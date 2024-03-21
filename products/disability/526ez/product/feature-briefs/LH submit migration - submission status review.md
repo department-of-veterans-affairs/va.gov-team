@@ -12,7 +12,7 @@ This feature addresses the combined space of Services platform migration to Ligh
 This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission. This work will not only give the Veterans clear indication of submission status but also reuduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
 
 # Proposed Solution
-Under this initiative, all Veterans filing a 516 claim via va.gov will be able to
+Under this initiative, all Veterans filing a 526 claim via va.gov will be able to
  - Get an on-screen message indicating the outcome of their claim submission and where to go for more details 
  - Have a better and consistent user experince on screen after submitting their claim with clear indication on the outcome( or where to check? this may be part of the next feature that evaluates direction to Claim Status tool)
  - Have a system in place to prevent duplicates when the claim was submitted the first time
