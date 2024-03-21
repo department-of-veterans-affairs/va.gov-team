@@ -8,11 +8,11 @@ Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support p
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
 * Ability to view all requests holistically
   
-For the MVP we leveraged the Slackbot already in development for Sign-In Service requests, and added the following kinds of requests:
+For the MVP we leveraged the Slackbot (aka ID Bot) already in development for Sign-In Service requests, and added the following kinds of requests:
 - PR Review
 - Data pulls
 - Test User Authentication Issues
-The rationale was that these were requests that were unambiguously supported by the identity team, and fully developing the processes surrounding fulfilling these requests would help us create processes for trickier requests.
+These were chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
 
 In addition, we created:
 - A Github page to to explain how to request support from identity.
@@ -32,34 +32,38 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 - [Satisfaction Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
 
 ## Potential deliverables:
-- Research findings
-- A slackbot to take requests
-- A request fulfillment process
-- Request tracking
+- New Request Types in ID Bot
+- New Request Type Fulfillment Processes in Github
+- Dashboard to display metrics gathered from customer survey
+- Automation of ID Bot responses to certain situations in process flow
 
-## What's In Scope (MVP): 
+## What's In Scope:
+* The following Request Types:
+  * Bug Fixes
+  * Feature Requests
+  * Task Request
+  * Help Request
+* Slackbot Message Automation
+* Dashboard Displaying Results of Satisfaction Survey
+* Identity Team Branding Updates
 
 
 
-These were chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
+
 
 ## Out of Scope (MVP): 
-*  Request types that aren't the three listed above.
-*  Deflection & self service, outside of links to documentation.
-*  Communication from Github to the ID Bot
-   * Notifying the thread automatically when, say, someone picked up the ticket
-*   Creating metrics to start tracking how we are doing
+
      
 
 ## Use Cases:
 | User          | Problem       | Solution to their Problem |
 | :------------- |:------------- | :----- |
-|Va.gov product team member| Want to ask a data pull| [Slackbot form will standardize data pull request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77443)  |
-|Va.gov product team member | Want to ask for PR review  | [Slackbot form will standardize PR review request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77415) | 
-|Va.gov product team member  | Having issues with Mock Auth   | [Slackbot form will standardize Mock Auth issue request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77444) |
-|Identity team member | Which request should we focus on?  | [Create a Triage/Prioritization process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77491) |
-|Identity team member | No standardized language to communicate with users  | [Standardized language for each part of the process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77495) |
-|Identity team member | I don't have a top-level view of the requests | [Slackbot will create tickets that will live in a tracker](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/74677)
+|Va.gov product team member| Want to ask a data pull|   |
+|Va.gov product team member | Want to ask for PR review  |  | 
+|Va.gov product team member  | Having issues with Mock Auth   |  |
+|Identity team member | Which request should we focus on?  |  |
+|Identity team member | No standardized language to communicate with users  |  |
+|Identity team member | I don't have a top-level view of the requests | |
 
 
 
@@ -67,14 +71,9 @@ These were chosen because these are requests that our team unambiguously fulfill
 * We leverage previous experience supporting other teams to create this process.
 
 ## Solution Approach: 
-* We piggyback off of the slackbot developed for the SiS Project and use it to expand the range of requests captured. The slackbot will respond to the _/help_ command in the #vfs-identity channel. For MVP, it will have the following choices:
-  - Test User Authentication Help
-  - Sign-In Service Integration
-  - PR Review Request
-  - Data Request
-  - Other
 
-We obviously won't worry about Sign-In Service, as that has it's own flow, but "Other" will be useful in determining what choices we want to add next.
+
+
 
   
 ## Technical Considerations:
@@ -87,8 +86,8 @@ We obviously won't worry about Sign-In Service, as that has it's own flow, but "
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
 | Gather Metrics from Slack  |               |
-| Survey from Team  |               |
-| Inventory of Methods used for intake across VA teams  |               |
+|  |               |
+|   |               |
 
 
 ## Measuring Success:
@@ -110,13 +109,7 @@ That said, some initial thoughts on what that project might entail.
 
 
 ## Milestones:
-* UX Research Completed
-* Process flowchart completed
-* Communication language developed
-* Slackbot beta
-* Survey built
-* Process for specific requests captured
-* Slackbot released
+
   
 
 
