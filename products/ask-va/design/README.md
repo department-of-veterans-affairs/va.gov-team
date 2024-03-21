@@ -23,5 +23,4 @@ We also keep additional design documentation [in this Github folder](https://git
 |[Compared to MHV SM](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Compare%20to%20MHV%20SM.md)|Takeaways from MHV SM research and designs|Mar 13, 2024|
 
 ### Get in touch
-Reach out on [#ask-va-public](https:/dsva.slack.com/archives/C05A2F6DEAE) about this work.
-
+Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) about this work.
