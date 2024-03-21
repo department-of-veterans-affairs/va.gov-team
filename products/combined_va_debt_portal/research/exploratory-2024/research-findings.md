@@ -565,7 +565,7 @@ Education:
     
 -   Some college (no degree): 4
     
--   Associate's degree, trade certificate or vocational training: 2
+-   Associate's degree, professional degree, trade certificate or vocational training: 2
     
 -   Bachelor's degree: 0
     
@@ -618,8 +618,18 @@ Disability and Assistive Technology (AT):
     
 -   Captions: 0
     
-
+**Household income**
+-   $0 - $25K:  3
   
+-   $25K - $49.9K:  1
+
+-   $50K - $74.9K:  1
+  
+-   $75K - $99.9K:  1
+   
+-   $100K - $149.9K: 2
+  
+-   $150K +: 1  
 
 **VA debt in the last 5 years**
 
@@ -648,7 +658,7 @@ Disability and Assistive Technology (AT):
 
 **VA debt resolution attitudinal: “I have taken steps to resolve this debt”**
 
--   1 - I have not been active in resolving this debt at all:
+-   1 - I have not been active in resolving this debt at all: 0
     
 -   2 - I have been a little bit active in resolving this debt: 1
     
