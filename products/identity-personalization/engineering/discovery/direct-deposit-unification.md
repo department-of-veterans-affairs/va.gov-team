@@ -33,7 +33,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
 
 
 
-### Unified Direct Deposit Form Plan (WIP)
+### Unified Direct Deposit Form Plan
 
 1. New Direct Deposit base route component
 	- Use Toggle state within Profile component / getRoutes function to use the new component. Similarly to how the EK / NOK is being done currently.
@@ -43,6 +43,57 @@ Where do we refactor and clean up the existing logic to learn from any past mist
 		- Knowing what to deprecate and what needs to remain will be much easier if there isn't a comingling of new and old code, especially since the main route components is housing most of the logic.
 2. New state for single form. It can reuse some selectors, but I think we can drastically reduce the redux cruft here
 3. Identify and isolate reusable components that can be transferred to the new experience.
+
+#### Expanded plan with further details
+
+1. Create a new Redux state for the direct deposit information:
+   - Define a new reducer file at `reducers/directDepositInformation.js`.
+   - Create initial state for `directDepositInformation` and `directDepositInformationUiState`.
+   - Create actions and action creators for fetching, updating, and handling errors example action name: `DIRECT_DEPOSIT_FETCH_STARTED`
+   - Update the root reducer in `reducers/index.js` to include the new `directDepositInformation` reducer, that way it is available in the application of for use
+
+2. Create a new set of API calls and actions. New endpoint will be `/profile/direct_deposits` instead of `/profile/direct_deposits/disability_compensations`
+   - Create a new file, e.g., `actions/directDepositInformation.js`.
+   - Implement API calls and actions for fetching and updating direct deposit information.
+   - Ensure that the new actions are dispatched appropriately based on the user's interactions.
+
+3. Create a new `DirectDeposit` component. We already have a base set up for the route entry, but this is the actual implementation details
+   - Connect the component to the Redux store using `connect` from `react-redux`.
+   - Map the relevant state and dispatch actions to the component's props.
+   - Either set up a context provider or pass actions to children via props
+
+4. Implement the form and UI for the new direct deposit experience:
+   - Create a single form for capturing the bank account information. This will be based off BankInfoForm in legacy
+   - Use the same schema from the legacy form, but update field names to match api data keys 1:1. The old form is manipulating the api response to fit into a field naming schema from the earlier endpoint response data.
+   - Handle form submission and dispatch the necessary actions to update the Redux state.
+   - Display success/error messages and handle loading states based on the `directDepositInformationUiState`.
+
+5. Update the error handling and validation logic
+   - Reuse and adapt the existing error handling and validation logic from the legacy version. The inline validation will not change.
+   - Error messages need to be updated with non-benefit specific language
+   - Update the error handling actions and reducers to work with the new `directDepositInformation` state.
+
+6. Update the `Profile` component and feature toggle:
+   - Map relevant new state and actions into Profile, since this is where the intial api calls get triggered from
+   - Update the profile blocking logic for deceased / fiduciary / incompetent to work for legacy and new experience. This will be one area that will be slightly messy as it will need to work with toggle on or off with the same UI.
+
+7. Test the new direct deposit experience
+   - Ensure that the new form functions correctly and updates the Redux state as expected.
+   - Verify that the error handling and validation work as intended.
+   - Test the integration with the existing components and overall application flow.
+
+8. Incrementally role out the new experience and improve code quality as rollout continues
+   - maintain downtime alert in legacy version so that users are notified of edu downtime
+   - any untested code in the new experience should have unit or e2e tests added to it to make sure featuer parity and coverage parity in the new experience.
+
+10. Clean up and remove the legacy code
+   - Once the new direct deposit experience is fully implemented and tested, remove the legacy code completely.
+   - Delete the legacy `DirectDeposit` component, its associated files, and any unused actions and reducers. Basically delete the entire legacy directory
+   - Remove the feature toggle and any conditional rendering logic related to the legacy experience.
+
+By following this plan, you can incrementally build the new direct deposit experience while keeping the legacy version intact. This approach allows for a smooth transition and minimizes the risk of breaking existing functionality.
+
+Remember to thoroughly test the new implementation and ensure that it meets all the requirements before removing the legacy code completely.
 
 ### Current Component Overview and Changes needed
 	
