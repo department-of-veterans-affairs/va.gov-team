@@ -44,34 +44,38 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
   * Task Request
   * Help Request
   * USiP Questions
-* Documentation on how to handle the following request types
+* Documentation on how to handle the following request types:
   * Bug Fixes
   * Feature Requests
   * Task Requests
   * Help Requests
   * USiP
-* Slackbot message automation
+* Slackbot message automation.
    * When a request is assigned.
    * When a request is closed.
-* Dashboard displaying results of Satisfaction Survey
+* Dashboard displaying results of Satisfaction Survey.
 * Identity Team branding updates
-* Letting the world know
+* Identity Team documentation updates.
+* Letting the world know there are new choices in the slackbot
 
 ## Out of Scope (MVP): 
 * External publishing of metrics garnered from Satisfaction Survey
-  * This will be part of the upcoming "Publishing all of the Metrics" project
+  * This will be part of the upcoming "Publishing all of the Metrics" project.
      
 
 ## Use Cases:
 | User          | Problem       | Solution to their Problem |
 | :------------- |:------------- | :----- |
-|Va.gov product team member| Want to ask a data pull |   |
-|Va.gov product team member | Want to ask for PR review  |  | 
-|Va.gov product team member  | Having issues with Mock Auth   |  |
-|Identity team member | Which request should we focus on?  |  |
-|Identity team member | No standardized language to communicate with users  |  |
-|Identity team member | I don't have a top-level view of the requests | |
-
+|Va.gov product team member| There's a bug I I'd like the ID team to fix | Bug fix choice in ID Bot   |
+|Va.gov product team member | There's a feature I want to ID team to implement. | Feature request choice in ID Bot  | 
+|Va.gov product team member  | There's a task I'd like the ID team to do.  | Feature request choice in ID Bot  |
+|Va.gov product team member | I need the ID team's help with an issue I'm having | Feature request choice in ID Bot  | 
+|Va.gov product team member  | I have questions about USiP. | USiP choice in ID Bot  |
+|Identity team member | I'd like to automatically let users know when their project has been assigned to someone | "The project has been assigned" update from Github to ID Bot |
+|Identity team member | I'd like to automatically let users know when their project finished | "The project has been closed" update from Github to ID Bot  |
+|Identity team member | I'd like to know how we are doing in terms of fulfilling requests | Satisfaction Survey dashboard |
+|Identity team member | I'd like to reduce the % of requests we get that are for other teams | Identity Team branding as deflection |
+|Identity team member | I'd like to reduce the % of requests we get that could be self-service | Identity Team documentation updates |
 
 
 ## Assumptions:
