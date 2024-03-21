@@ -14,24 +14,23 @@ Booked appointments through VA or CC facilities.
 
 | Type |  Display attributes|
 |---|---|
-| [VA In-person](./appointment-types/va-in-person.md)  | `kind` = `clinic` |
-| [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | ?? |
-| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | `kind` = `telehealth`  |
-| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `kind` = `telehealth`  |
-| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `kind` = `telehealth`  |
-| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `kind` = `telehealth`  |
+| [VA In-person](./appointment-types/va-in-person.md)  | `appt.kind` = `clinic` |
+| [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | `appt.serviceType` = `covid` |
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | `appt.kind` = `telehealth`  |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appt.kind` = `telehealth`  |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appt.kind` = `telehealth` and `appt.extension.patientHasMobileGfe` = `true`  |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appt.kind` = `telehealth` and  `appt.telehealth.atlas` exists |
 | [VA Phone](./appointment-types/va-phone.md) | `kind` = `phone` |
 | [Community care](./appointment-types/community-care.md) | `kind` = `cc` AND there is data in the `appt.start` attribute |
-| [Claim exam appointment](./appointment-types/claim-exam.md) |  |
+| [Claim exam appointment](./appointment-types/claim-exam.md) | `appt.serviceCategory[0].text` = `COMPENSATION & PENSION` |
 
 ### Request types
 Appointments that Veterans have requested but VA has not booked.
 
 | Feature | Description |
 |---|---|
-| [VA appointment request](./appointment-types/va-request.md)  | `kind` is not `cc` and it has data in the `appt.requestedPeriods` |
-| [Community care appointment request](./appointment-types/community-care-request.md) | `kind` = `cc` AND there is data in the `appt.requestedPeriods`|
-
+| [VA appointment request](./appointment-types/va-request.md)  | `appt.kind` is not `cc` and it has data in the `appt.requestedPeriods` |
+| [Community care appointment request](./appointment-types/community-care-request.md) | `appt.kind` = `cc` AND there is data in the `appt.requestedPeriods`|
 
 ## Determining available types of care for scheduling
 
