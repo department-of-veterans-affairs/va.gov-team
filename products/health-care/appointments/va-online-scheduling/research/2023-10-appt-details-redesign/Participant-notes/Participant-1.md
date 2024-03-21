@@ -1,3 +1,5 @@
+# Observer Notes
+
  ### Appointment details:
 
 Frustration with notifications on her phone for appointments lacking detailed information, requiring additional effort to find details.
