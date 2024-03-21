@@ -157,7 +157,11 @@ Overall, most participants (7 out of 9) found the reordering experience to be ea
 ## Recommendations
     
 * Iterate the form steps flow so Veterans can place an order quickly and confidently.
-    * _Is it necessary for Veterans to verify their personal information when they are already logged in (step 1)? Is it necessary for them to fill in their addresses when that information is already stored on the VA Profile? Why ask them to edit the permanent address when it only applies to the order they're placing? Does DLC have data on what Veterans need and when it's time for them to submit the order? Let's start asking those questions to make the overall experience more intuitive and easier. _
+    * _Is it necessary for Veterans to verify their personal information when they are already logged in (step 1)?_
+    * _Is it necessary for them to fill in their addresses when that information is already stored on the VA Profile?_
+    * _Why ask them to edit the permanent address when it only applies to the order they're placing?_
+    * _Does DLC have data on what Veterans need and when it's time for them to submit the order?_
+    * Let's start asking those questions to make the overall experience more intuitive and easier._
       
 * Explore the idea of adding the ability to change or request change for size, quantity, and brand of supplies.
     * _For nuance questions and requests, participants mentioned they prefer to contact their providers or clinics directly, which could delay the process in the case of not reaching the right person or back-and-forth communications. Adding a change supply request feature might ease the actions Veterans need to take._
