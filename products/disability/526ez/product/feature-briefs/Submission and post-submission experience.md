@@ -1,7 +1,7 @@
 # Background
 This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of successful submissions and keep track of their claims. 
 
-This initiative focuses specifically on the happy path for submission and post submission, where submission and document uploads are successful. 
+This initiative focuses specifically on the happy path for submission and post-submission. In this case, it is where submission and document uploads are successful. 
 
 # Problem or Opportunity
 1. In current state, Veterans face frustration and lack of confidence/trust in the VA in handling their claims when they do not get a consistently reliable acknowledgement of the outcome of their claim submission on VA.gov. If the claim is successfully submitted within 30 seconds, they are shown their Claim ID on the screen. In other cases, they are either directed to Claim Status tool or may not get any indication of success or failure of the submission.
