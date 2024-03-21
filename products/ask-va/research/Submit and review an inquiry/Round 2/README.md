@@ -11,7 +11,7 @@ We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy
 ## Research goals
 * Review whether Veterans can successfully ask a health care question about their own benefits
 * Review whether business roles can successfully ask an education question on behalf of a Veteran
-* Evaluate the ease of reviewing an inquiry from the dashboard
+* Review whether the dashboard experience is intuitive and helps different types of users complete their task
 
 ## Recruitment
 We will work with Perigean to recruit Veterans for this research. We will also recruit business roles with the help of the GI Bill team.
