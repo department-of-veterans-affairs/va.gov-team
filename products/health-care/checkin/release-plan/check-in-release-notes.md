@@ -12,9 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-### 3/20/2024 (tentative)
+### 3/20/2024 
 - Veterans are now asked, at the beginning of the check-in workflow, if they have arrived at the facility; if the answer is no, the Veteran is encouraged to see an MSA upon arrival to ensure they have not already been called back 
     - [Ticket 75938](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
+- Removed the display for Type of Care because the field used did not contain data for Type of Care (eCheck-in & Pre-Check-in)
+    - [Ticket 78662](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 
 ### 2/29/2024
 - Fixed typos on the eCheck-in completion page
