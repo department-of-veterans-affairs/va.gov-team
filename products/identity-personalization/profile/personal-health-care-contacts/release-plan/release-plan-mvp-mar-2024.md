@@ -8,14 +8,14 @@ This MVP is a read-only addition to the Profile and Profile Hub products. Person
 - Analytics dashboard [tbd]
 - [Collab Cycle issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65892), which has links to all other artifacts
 
-## Phase I – moderated production testing
+## Phase I – Pilot – moderated production testing
 
 ### Planning
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: one day
+- Desired number of users: 1
+- How you'll recruit the right production test users: OCTO slack
+- How you'll conduct the testing: zoom session
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: feature flag specific to their userID
 
 ### Results
 
@@ -37,7 +37,7 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 ### Rollout planning
 
 #### Launch go/no-go:
-- Launch readiness checklist [TBD - CREATE ISSUE]
+- Launch readiness checklist [TBD - CREATE ISSUE from [example](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)]
 
 #### Desired date range: [TBD]
 - Launch ticket [TBD]
@@ -47,6 +47,10 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 
 #### What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 - [TBD - POPULATE SECTION OF PRODUCT OUTLINE?]
+- Qualitative feedback doesn't show issues related to the changes
+- Datadog API logs and errors stay in baseline ranges
+- GA interactions events should be present for `ea: int-telephone-link-click va-additional-info` (indicating calls to change contact info)
+- ASK Chante/Contact Center team: could call center detect any red flags?
 
 ### Stage A: Canary
 
@@ -65,5 +69,89 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
+### Stage B: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 25%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 50% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 50%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage D: 100% of users
+
+#### Planning
+
+- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 100%
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+## Post Launch metrics
+
+Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
+
+### 1-week results
+
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN]
+
+### 1-month results
+
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN]
+
+## Post-launch Questions
+
+*To be completed once you have gathered your initial set of data, as outlined above.*
+
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+1. What qualitative feedback have you gathered from users or other stakeholders?
+1. Which assumptions you listed in your product outline were/were not validated?
+1. How might your product evolve now or in the future based on these results?
+1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
 
 

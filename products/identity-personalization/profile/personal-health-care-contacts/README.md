@@ -95,6 +95,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - _How are Veterans and others using this product going to know it exists?_
      - In the first iteration, the current design is that there will be a prominent link in the VA profile that allows a user to view this information
      - In the second iteration, the Veteran will be linked for the online appointment scheduling process
+     - [Launch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/release-plan/release-plan-mvp-mar-2024.md) for read-only iteration
 - _What marketing, outreach, or communications are necessary for this product to be successful?_
      - None planned as of right now, but this may change based on user interaction metrics with the product
 
