@@ -59,13 +59,13 @@ For [unmoderated testing:]([https://depo-platform-documentation.scrollhelp.site/
 
 **Tree test links**
 
-- Pilot - https://dj540s05.optimalworkshop.com/treejack/5pb2w49i 
-- Cohort 1 - 
-- Cohort 2 - 
-- Cohort 3 - 
-- Cohort 4 - 
-- Cohort 5 - 
-- Cohort 6 - 
+- Pilot - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa
+- Cohort 1 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=1
+- Cohort 2 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=2
+- Cohort 3 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=3
+- Cohort 4 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=4
+- Cohort 5 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=5
+- Cohort 6 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=6
 
 **Pre-activity questions**
 1. Which option most accurately describes you?
@@ -76,34 +76,16 @@ For [unmoderated testing:]([https://depo-platform-documentation.scrollhelp.site/
 *All cohorts (Veterans; Veteran's spouses and dependents; Caregivers)*
 1. You want to make a healthcare appointment at a VA medical center using online chat.
 	
- 	*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-
-
 1. It's after business hours and you want to call to make a medical appointment.
 	
- 	*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-
-
 1. You'd like to refill a prescription over the phone.
 	
- 	*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-
-
 1. You'd like to use online chat to refill a prescription.
 	
- 	*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-
-
 1. It's after business hours and you'd like to talk to a health care provider about a health concern.
-	
- 	*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-
 
 1. You want to schedule a phone or video call with a doctor.
 	
- 	*For all tasks, imagine you live near the North Florida/South Georgia VA health care facilities*
-
-
 
 ## Recruitment	
 
