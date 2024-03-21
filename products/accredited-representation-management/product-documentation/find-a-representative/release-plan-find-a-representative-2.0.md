@@ -1,4 +1,4 @@
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/11be5742-abe7-4897-8251-7cf72d43a9cf)# Release Plan: Find a Representative 2.0
+# Release Plan: Find a Representative 2.0
 
 
 ### Development
