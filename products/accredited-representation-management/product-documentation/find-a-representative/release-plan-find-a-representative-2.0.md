@@ -108,9 +108,9 @@ _Links to Google Analytics and DOMO dashboards_
 ### 1-Week Results (3/11-3/20)
 
 1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
-3. User reports of outdated information: 1 report for a representative's phone number and address
-12. Contact Center calls (MyVA411):
-13. Feedback survey submmissions (Medallia):
+3. User reports of outdated information: 1 report for a representative's phone number and address on 3/12/2024
+12. Contact Center calls (MyVA411): none
+13. Feedback survey submmissions (Medallia): 1 submission for the Find a Rep product page on 3/20/2024 -- submitter indicated "no" to the question "Were you able to do your task today?" and for "What task were you trying to do today?" they said "Find a representative."  They also gave a "1" for their overall satisfaction with the site. 
 
 What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? nothing at this time
 
