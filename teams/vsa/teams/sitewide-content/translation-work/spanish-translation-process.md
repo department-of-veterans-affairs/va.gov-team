@@ -3,7 +3,7 @@ Follow these processes when working on Spanish translation pages. The CAIA bilin
 
 ## Sending content to the State Department for translation 
 - The bilingual copy editor creates a Word document using the content from the most recent draft of a VA.gov page that’s saved in Drupal.  
-- Copy and paste all the content on the page, including the meta description. Label each content block with header levels and note if there are alerts and accordion titles.
+- Copy and paste all the content on the page, including the meta description. Also include the English content in the left navigation so we'll have the Spanish version when the toggle is created later on. Label each content block with header levels and note if there are alerts and accordion titles. 
 - Using the [checklist for content readiness for translation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content-localization/editorial-resources/preparing-content-for-translation-checklist.md), read through the Word document and make any edits needed to ensure accurate translation. Track all changes.
 - Post the live URL at the top of the page and include a word count.
 - Save the document using the H1 of the page as a title and upload it to the Github ticket.
@@ -35,7 +35,7 @@ Follow these processes when working on Spanish translation pages. The CAIA bilin
 - The bilingual copy editor makes any changes in the Drupal node. If there are questions or concerns, they should work with the State Department to come to a solution.
 - The bilingual copy editor comments in the ticket that the page is ready to be reviewed.
 - The copy editor reviews the changes, publishes the page, and comments in the ticket.
-- The CAIA PM opens a [Public Websites intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2CFranECross&labels=Public+Websites%2CNeeds+refining&projects=&template=public-websites-intake.yml&title=PW+intake%3A+%3CType+of+Request%3E+from+%3CTeam%3E) for the team to add a Spanish toggle and set up the left nav on the page.
+- The CAIA PM opens a [Public Websites intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2CFranECross&labels=Public+Websites%2CNeeds+refining&projects=&template=public-websites-intake.yml&title=PW+intake%3A+%3CType+of+Request%3E+from+%3CTeam%3E) for the team to add a Spanish toggle and set up the left nav on the page. Include the Spanish left nav content that the State Department provided when initially sending back the translation.
 
 ## After a translated page is published
 - Once the page is live with the Spanish toggle, the CAIA PM adds it to the [list of translated pages on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/list%20of%20translated%20pages.md).
