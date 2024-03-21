@@ -187,12 +187,14 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * *(If not on it already)* One last time, let’s go back to that first screen again. 
 * What were your overall thoughts on the app we used today? 
 * Was there anything you liked or disliked about the app we used today?
+
 * **_If current app user:_** Thinking about your experience using the current VA mobile app, how does the app we used today compare to the current app? 
+* **_If MyVA user:_** Thinking about your experience using the logged in MyVA dashboard on VA.gov, how does the app we used today compare to the logged in MyVA dashboard on VA.gov?  
+
 * Looking over this screen again, do you think this first screen would be helpful to you in your life or not?
   * *If yes:* Can you walk us through a situation in your life right now where you can imagine using it, and explain how this screen would help you?
   * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express. 
 * *If they don’t mention the activity section:* Looking at that Activity section again, is there anything that you think would be helpful to see here in this section that you don’t see now?
- * **_If MyVA user:_** Thinking about your experience using the logged in MyVA dashboard on VA.gov, how does the app we used today compare to the logged in MyVA dashboard on VA.gov?
 
 ## Section 4: Thank-You and Closing (5 minutes)
 ### App + Testflight uninstall 
