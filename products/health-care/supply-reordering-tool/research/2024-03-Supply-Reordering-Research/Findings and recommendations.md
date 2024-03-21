@@ -56,7 +56,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 2. **Starting page:** Most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page. 
 3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
 4. **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in. 
-5. **Step 2 Select supplies:** All participants found it easy to select supplies. 5 out of 9 participants expected to see only what they need to reorder.
+5. **Step 2 Select supplies:** All participants found it easy to select supplies. 6 out of 9 participants expected to see only what they need to reorder.
 6. **Step 2 Review:** All participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it. 
 7. **Step 3 Confirmation:** All participants are satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
 8.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
@@ -94,24 +94,45 @@ The screenshot below highlighted one content issue a participant pointed out.
 
 **Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in.**
 
-On the verify personal information page, all participants thought it was straightforward to click continue after verifying the information was correct. However, there was some valuable feedback from 2 participants that could improve the experience. 
+On the **verify personal information page**, all participants thought it was straightforward to click continue after verifying the information was correct. However, there was some valuable feedback from 2 participants that could improve the experience. 
 
 > _Quote: "Finish this order later" link is confusing for this step._
-> _Quote: I thought I would start ordering at this point. (because he expected this information to be accurate and shouldn't need to change._
+> _Quote: I thought I would start ordering at this point. (because the participant expected this information to be accurate and shouldn't need to change._
 
-On the verify address page, all participants knew the meanings of permanent and temporary addresses. They associate permanent addresses with "what VA has on file", "residence", and "where I live", and they would add temporary addresses if they are "on vacation" or "visit family somewhere". However, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit their permanent address. 
+On the **verify address page**, all participants knew the meanings of permanent and temporary addresses. They associate permanent addresses with "what VA has on file", "residence", and "where I live", and they would add temporary addresses if they have "temporary housing", "visit family somewhere", or "vacation home". However, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit their permanent address. 
 
 > _Quote: VA has my address on file, so no need to edit. If I need to change it, I will add it to a temporary address."_
-> _Quote: I assumed everything is filled out."_
+> _Quote: I assumed everything was filled out._
+> _Quote: I like how you can add a temporary address, like I'm having it shipped somewhere else. That's a good option there._
 
-> _Quote: (One participant pointed to the instruction (see screenshot below)), they should highlight changing the permanent address here only change for this order._
+Two participants (one moved a couple of times, and another one has a vacation home ) provided feedback on how to make the verify address page clearer. 
 
-<img width="349" alt="Screenshot 2024-03-20 at 4 46 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/b1c9f0aa-888d-42b6-83ba-a39c2ecc05d5">
+> _Quote: You just ask for a shipping address, where do you want them shipped to?_
+> _Quote: The most important thing to me is where do I want these things shipped._
 
 
 **Usability issues:**
 This might be a usability issue for staging accounts only. When participants add an address to the temporary address box and select it to continue, the form won't allow them to continue unless the permanent address is completed and filled out. 
 
+
+**Finding 5: On step 2 - select supplies page, all participants found it easy to select supplies. 6 out of 9 participants expected to see only what they needed to reorder.**
+
+The task was to select a hearing aid battery to order, and all participants found it easy to check the box to pick a battery. However, 5 out of 9 participants showed confusion about the differences between the two batteries and did not know what some of the supplies were (see 2 and 3 in the screenshot below). 
+
+> _Quote: There are two different batteries. Wait a second they are different batteries for the same model of hearing aid. I'm not sure what the difference is between them._
+> _Quote: What I see is the RIC charger, I have no idea what that is._
+
+<img width="391" alt="Screenshot 2024-03-21 at 11 40 27 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/3efb0371-b9b6-463d-b7cb-5611ccb8c6aa">
+
+6 out of 9 participants wanted to see only what they had ordered previously. For example, if they don't have CPAP, they don't want to see CPAP (since the task was to order a hearing aid battery). One participant pointed to the title of the page (see 1 in the screenshot above) and was bothered by "or CPAP". 
+ 
+> _Quote: I would think that if the VA knew what my order was already, instead of my initial ordering, they would only make one type of battery available for my selections. But to make it easier, I would think if you only offer what I've been prescribed for me, then just having one option and clicking that might make it easier._
+> _Quote: If I'm ordering supplies for my hearing aid, I don't need anything about CPAP."
+
+When asked what they would like to change about this page, two participants provided feedback. One mentioned being able to change the size of their cushion earpiece, and another participant talked about changing the quantity and the brand of the hearing aid. 
+
+> _Quote: If you need to change the brand, I think you would need to talk to your primary care provider, and it's the same for quantity._ 
+> _Quote: If you offer the earpiece, you'd need to have the size of the small, medium, and large, whatever the case may be._ 
 
 ## Additional Insights
 
