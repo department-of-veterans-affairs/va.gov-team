@@ -36,28 +36,25 @@ On the VAOS homepage, the app displays the following for each status:
 - [ ] Use Case 2 - Validate pending requests in VAOS 
 
      Configuration setup in test environment must include: 
-  - [ ] Test user should have VA and Community Care pending requests including canceled requests
+  - [ ] Test user should have VA pending requests including canceled requests from Oracle Health
 
 * **Description**
   - Tester will validate that they could view the list of their pending requests in VAOS 
-    - [ ] Pending VA request - in person (at a Facility) 
-    - [ ] Pending Community Care request
-    - [ ] Canceled VA request - in person (at a Facility) 
-    - [ ] Canceled Community Care request
+    - [ ] Pending VA request froom Oracle Health - in person (at a Facility) 
+    - [ ] Canceled VA request from Oracle Health - in person (at a Facility) 
 
 - [ ] Use Case 3 - Validate past appointments in VAOS
 
      Configuration setup in test environment must include: 
-  - [ ] Test user should have past booked VA and Community Care appointments 
+  - [ ] Test user should have past booked VA from Oracle Health 
 
 * **Description**
   - Tester will validate that they could view the list of their past booked appointments in VAOS 
-    - [ ] Past booked VA appointment - in person (at a Facility) 
-    - [ ] Past booked VA appointment - video connect (at a Facility) 
-    - [ ] Past booked VA appointment - video connect (at an ATLAS location) 
-    - [ ] Past booked VA appointment - video connect (at home, not a VA or ATLAS location) 
-    - [ ] Past booked VA appointment - phone call 
-    - [ ] Past booked Community Care appointment
+    - [ ] Past booked VA appointment from Oracle Health - in person (at a Facility) 
+    - [ ] Past booked VA appointment from Oracle Health - video connect (at a Facility) 
+    - [ ] Past booked VA appointment from Oracle Health - video connect (at an ATLAS location) 
+    - [ ] Past booked VA appointment from Oracle Health - video connect (at home, not a VA or ATLAS location) 
+    - [ ] Past booked VA appointment from Oracle Health  - phone call 
     
 - [ ] Use Case 4 - Validate appointment list for mobile devices.
       
@@ -66,9 +63,26 @@ On the VAOS homepage, the app displays the following for each status:
 
 * **Description**
   - Tester will validate that the list of their past booked, upcoming and pending VA and Community Care appointments in VAOS looks as expected on mobile
-    - [ ] Past booked, upcoming and pending VA and Community Care appointments - iOS devices
-    - [ ] Past booked, upcoming and pending VA and Community Care appointments - Android devices
- 
+    - [ ] Past booked, upcoming and pending VA from Oracle Health - iOS devices
+    - [ ] Past booked, upcoming and pending VA from Oracle Health - Android devices
+
+ - [ ] Use Case 5 - Cancel upcoming appointments in VAOS 
+
+     Configuration setup in test environment must include: 
+  - [ ] Test user should have VA (in person, video visit and phone call) booked appointments including canceled appointments from Oracle Health
+
+* **Description**
+  - Tester will validate that they could view the list of their upcoming appointments (future appts) in VAOS 
+    - [ ] Booked Oracle Health appointment - in person (at a Facility) 
+    - [ ] Booked Oracle Health appointment - video connect (at a Facility) 
+    - [ ] Booked Oracle Health appointment - video connect (at an ATLAS location) 
+    - [ ] Booked Oracle Health appointment - video connect (at home, not a VA or ATLAS location) 
+    - [ ] Booked Oracle Health appointment - phone call 
+    - [ ] Canceled Oracle Health appointment - in person (at a Facility) 
+    - [ ] Canceled Oracle Health appointment - video connect (at a Facility) 
+    - [ ] Canceled Oracle Health appointment - video connect (at an ATLAS location) 
+    - [ ] Canceled Oracle Health appointment - video connect (at home, not a VA or ATLAS location) 
+    - [ ] Canceled Oracle Health appointment - phone call
 
 ### User flow
 - [  [Figma file]() 
