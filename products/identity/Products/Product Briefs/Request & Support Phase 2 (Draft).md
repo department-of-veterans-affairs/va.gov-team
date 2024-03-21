@@ -1,4 +1,4 @@
-# Request & Support Process
+# Request & Support Process Phase 2
 
 ## Overview: 
 
@@ -7,19 +7,21 @@ Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support p
 * Create an intake process for feature requests, updates, bug fixes, data requests, etc.
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
 * Ability to view all requests holistically
+  
+For the MVP we leveraged the Slackbot already in development for Sign-In Service requests, and added the following kinds of requests:
+- PR Review
+- Data pulls
+- Test User Authentication Issues
+The rationale was that these were requests that were unambiguously supported by the identity team, and we could fully
 
-Create solutions to manage & fulfill requests from other va.gov Product Teams, possibly including:
-* Intake form
-* Summation of the work we need to do
-
-Potential add-ons (but not primary goal)
-* Estimate of the time it will take (post initial in-take)
-* Prioritization of the request vs. other requests (should be out of scope, dependent of PRODUCT prioritization)
-
-NOTE: As we started doing research, we realized that it would be best to do a MVP (Minimum Viable Product) with a small number of requests in order to test and learn from it. Ideally, how Identity supports other va.gov teams will evolve over time.
+In addition, we created:
+- A Github page to to explain how to request support from identity.
+- Github Support Template
+- Documentation that explained how we supported each of the three kinds of requests detailed above.
+- Satisfaction Survey
 
 ## Problem Statement: 
-Currently, we have no clearcut and a disjointed/one-off process to field requests from other product teams.  In order to triage, manage and fulfill those requests, we need to clearly define a workflow/process in order to be able to track the overall workload created by those requests.
+Now that we have an MVP of the Request & Support out in the world
 
 ## Relevant Documents:
 - [UX Brainstorm & Research](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1706233585959/51586c97a249268a2ff9a709024dcd9df18dc6f8?sender=u8f85d3b7f2143f85bb7a9248) 
@@ -36,10 +38,7 @@ Currently, we have no clearcut and a disjointed/one-off process to field request
 - Request tracking
 
 ## What's In Scope (MVP): 
-For this first iteration, the focus will be on developing the processes as needed to support other teams' requests. For MVP, we've focused on four types of requests
-- PR Review
-- Data pulls
-- Test User Authentication Issues
+
 
 
 These were chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
