@@ -38,21 +38,19 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 - Automation of ID Bot responses to certain situations in process flow
 
 ## What's In Scope:
-* The following Request Types:
+* The following Request Types in ID Bot:
   * Bug Fixes
   * Feature Requests
   * Task Request
   * Help Request
-* Slackbot Message Automation
-* Dashboard Displaying Results of Satisfaction Survey
-* Identity Team Branding Updates
-
-
-
-
+* Documentation on how to handle the following request types
+* Slackbot message automation
+  * 
+* Dashboard displaying results of Satisfaction Survey
+* Identity Team branding updates
 
 ## Out of Scope (MVP): 
-
+* External publishing of metrics garnered from Satisfaction Survey
      
 
 ## Use Cases:
@@ -68,7 +66,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 
 
 ## Assumptions:
-* We leverage previous experience supporting other teams to create this process.
+* ID Bot is used by people in #vsp-identity
 
 ## Solution Approach: 
 
@@ -85,7 +83,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 ## UX/ Research Ideas Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-| Gather Metrics from Slack  |               |
+|   |               |
 |  |               |
 |   |               |
 
