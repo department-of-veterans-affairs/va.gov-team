@@ -9,7 +9,7 @@ This feature addresses the combined space of Services platform migration to Ligh
 6. There are some cases where uploading evidence to a claim fails silently. If the Veteran doesn't realize this, they may receive a lower disability rating, or claims may take longer to process than they would, had the evidence been included. 
 
 # Why
-This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission. Including the check for duplicates will not only give the Veterans clear indication of submission status but also prevent duplicates, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
+This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission. This work will not only give the Veterans clear indication of submission status but also reuduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
 
 # Proposed Solution
 Under this initiative, all Veterans filing a 516 claim via va.gov will be able to
