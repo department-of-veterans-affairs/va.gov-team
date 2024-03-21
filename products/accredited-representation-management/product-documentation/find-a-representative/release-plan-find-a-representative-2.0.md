@@ -107,27 +107,26 @@ _Links to Google Analytics and DOMO dashboards_
 
 ### 1-Week Results (3/11-3/20)
 
-1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
-3. User reports of outdated information: 1 report for a representative's phone number and address on 3/12/2024
-12. Contact Center calls (MyVA411): none
-13. Feedback survey submmissions (Medallia): 1 submission for the Find a Rep product page on 3/20/2024 -- submitter indicated "no" to the question "Were you able to do your task today?" and for "What task were you trying to do today?" they said "Find a representative."  They also gave a "1" for their overall satisfaction with the site. 
+1. **Errors in Sentry**: no errors on the fetching of rep information for search results, and the reporting of outdated information
+3. **User reports of outdated information**: 1 report for a representative's phone number and address on 3/12/2024
+12. **Contact Center calls (MyVA411)**: none
+13. **Feedback survey submmissions (Medallia)**: 1 submission for the Find a Rep product page on 3/20/2024 -- submitter indicated "no" to the question "Were you able to do your task today?" and for "What task were you trying to do today?" they said "Find a representative."  They also gave a "1" for their overall satisfaction with the site. 
 
-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? nothing at this time
+**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** nothing at this time
 
-Landing page and product page traffic:
+**Landing page and product page traffic:**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/4fa293c9-3daa-452d-9157-1a71d3cbcd86)
 
-Search experience traffic on product page: 
+**Search experience traffic on product page: **
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/84a5b6fd-74cc-4d88-8b14-eb642a61bb7a)
 
-User engagement:
+**User engagement:**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/8aa58f91-3874-4482-bf25-94c215561e52)
 
-Navigation to the landing page:
+**Navigation to the landing page:**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/44e34dbe-b250-4d00-8982-c97dc3e7ef44)
 
-
-Navigation to the product page:
+**Navigation to the product page:**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/94794ab9-5851-4230-abe1-c03165716719)
 
 
