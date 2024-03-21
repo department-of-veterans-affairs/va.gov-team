@@ -16,9 +16,9 @@ Booked appointments through VA or CC facilities.
 |---|---|
 | [VA In-person](./appointment-types/va-in-person.md)  | `appt.kind` = `clinic` |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | `appt.serviceType` = `covid` |
-| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | `appt.kind` = `telehealth`  |
-| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appt.kind` = `telehealth`  |
-| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appt.kind` = `telehealth` and `appt.extension.patientHasMobileGfe` = `true`  |
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | `appt.kind` = `telehealth` and `appt.telehealth.atlas` does not exist and (`appointment.videoData.kind` = `ADHOC` or `appointment.videoData.kind` = `MOBILE_ANY`) |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appt.kind` = `telehealth` and (`appointment.videoData.kind` = `CLINIC_BASED` or `appointment.videoData.kind` = `STORE_FORWARD`)  |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appt.kind` = `telehealth` and  `appointment.videoData.kind` = `MOBILE_GFE`|
 | [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appt.kind` = `telehealth` and  `appt.telehealth.atlas` exists |
 | [VA Phone](./appointment-types/va-phone.md) | `kind` = `phone` |
 | [Community care](./appointment-types/community-care.md) | `kind` = `cc` AND there is data in the `appt.start` attribute |
