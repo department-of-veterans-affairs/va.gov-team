@@ -3,7 +3,7 @@
 # Table of Contents
 
 <details closed>
-<summary>Click the dropdown for navigation links</summary>
+<summary>Click the dropdown for navigation links.👇</summary>
 - [Executive Summary](#executive-summary)
 - [Stakeholders](#stakeholders)
 - [Vision](#vision)
