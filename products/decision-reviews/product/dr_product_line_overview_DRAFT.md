@@ -2,7 +2,7 @@
 ----
 # Table of Contents
 - [Executive Summary](#executive-summary)
-- [Stakeolders](#stakeholders)
+- [Stakeholders](#stakeholders)
 - [Vision](#vision)
 - [Mission Critical Challenges](#mission-critical-challenges)
 - [Product Strategy](#product-strategy)
