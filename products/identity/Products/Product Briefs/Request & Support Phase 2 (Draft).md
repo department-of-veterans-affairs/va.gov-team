@@ -44,8 +44,11 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
   * Task Request
   * Help Request
 * Documentation on how to handle the following request types
+  * Bug Fixes
+  * Feature Requests
+  * Task Requests
+  * Help Requests
 * Slackbot message automation
-  * 
 * Dashboard displaying results of Satisfaction Survey
 * Identity Team branding updates
 
@@ -67,6 +70,8 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 
 ## Assumptions:
 * ID Bot is used by people in #vsp-identity
+* People fill out the Satisfaction Survey
+* People look at the documentation we've provided
 
 ## Solution Approach: 
 
