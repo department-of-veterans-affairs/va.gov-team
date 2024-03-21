@@ -12,4 +12,4 @@
 
 ### Get in touch
 
-Reach out on [#ask-va-public](https://dsva.slack.com/archives/C05A2F6DEAE) or contact Tyler Gindraux (tyler@bluetiger.digital) about this user research.
+Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or contact Tyler Gindraux (tyler@bluetiger.digital) about this user research.
