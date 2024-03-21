@@ -43,6 +43,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
   * Feature Requests
   * Task Request
   * Help Request
+  * USiP Questions
 * Documentation on how to handle the following request types
   * Bug Fixes
   * Feature Requests
