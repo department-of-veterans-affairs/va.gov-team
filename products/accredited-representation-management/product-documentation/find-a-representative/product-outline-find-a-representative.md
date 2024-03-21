@@ -25,6 +25,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 ---
 ## Measuring Success
 
+An early peek at post-launch metrics can be viewed in the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md) 
 
 ### Key Performance Indicators (KPIs)
 **SEO Insights**
