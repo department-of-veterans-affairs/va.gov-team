@@ -50,7 +50,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
    - Define a new reducer file at `reducers/directDepositInformation.js`.
    - Create initial state for `directDepositInformation` and `directDepositInformationUiState`.
    - Create actions and action creators for fetching, updating, and handling errors example action name: `DIRECT_DEPOSIT_FETCH_STARTED`
-   - Update the root reducer in `reducers/index.js` to include the new `directDepositInformation` reducer, that way it is available in the application of for use
+   - Update the root reducer in `reducers/index.js` to include the new `directDepositInformation` reducer so it is available profile wide
 
 2. Create a new set of API calls and actions. New endpoint will be `/profile/direct_deposits` instead of `/profile/direct_deposits/disability_compensations`
    - Create a new file, e.g., `actions/directDepositInformation.js`.
