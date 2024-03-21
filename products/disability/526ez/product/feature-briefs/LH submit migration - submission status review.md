@@ -25,7 +25,7 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 # In Scope
 - Lighthouse /submit endpoint migration
 - Evaluation of user-facing features such as the loading screen during submission
-- Messages post-submission (email and on va.gov)
+- Message post-submission (on va.gov /confirmation page)
 - Avoid duplicates (rethink when we clear the in-progress form)
   
 # Out of Scope
