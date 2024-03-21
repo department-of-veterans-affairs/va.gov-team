@@ -59,7 +59,7 @@ This initiative focuses on the happy path for the submission and post submission
 # Risks
 1. Technical complexity of /submit endpoint migration
 2. Some unknowns with email confirmations
-    1. Content guidance and landscape of existing emai confirmations on va.gov
+    1. Content guidance and landscape of existing email confirmations on va.gov
     2. Technical implementation
 3. Uncertain what we can get back about claim status in all cases immediately after submission
 4. User research will require planning around some challenges
