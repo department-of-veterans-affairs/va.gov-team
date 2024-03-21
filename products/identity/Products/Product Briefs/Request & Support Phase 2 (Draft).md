@@ -98,7 +98,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 ## UX/ Research Ideas Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-|  Dashbo |               |
+|  Dashboard |               |
 |  |               |
 |   |               |
 
