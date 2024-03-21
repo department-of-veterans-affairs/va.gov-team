@@ -362,6 +362,12 @@ On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being n
 
 On a scale from 1 to 5 with 1 being very difficult, 2 being difficult, 3 being neither difficult nor easy, 4 being easy and 5 being very easy, please rate the difficulty of understanding Pat’s allergies.
 
+## **Log Off​**
+
+Thank you for getting through those tasks with me today. Your feedback does mean a lot to us and we appreciate your help taking time to share them with us. To prepare for our next round of study, we’d need to be logged out of here. ​
+
+The log out button is at the top right corner of the screen. _[CAIA team member\]_ please assist _[participant\]_ with logging out.
+
 ## **Screener Interview – Users with CD**
 
 Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.
