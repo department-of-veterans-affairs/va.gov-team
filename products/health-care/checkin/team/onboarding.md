@@ -29,6 +29,10 @@ The broader process is documented elsewhere and should be provided to you as a n
 - **VPN**: Virtual Private Network, a way of virtually joining a remote network (in this case, the VA network) from your local network (generally your home network).
 - **yourIT**: Another name for ServiceNow, I guess.
 
+### Required Trainings (in TMS)
+- 3867205 Training for Elevated Privileges for System Access
+- 1016925 Information Security Role-Based Training for Software Developers
+
 ### GFE
 
 **Prerequisites**: PIV card, CAG or AVD access via PIV to the VA Network, VA email address, etc
@@ -74,9 +78,11 @@ As of March 2024, this is the process:
 
 ### ePAS/PAS 2.0/MyVA Elevated Privileges
 
-**Prerequisites**: PIV Card
+**Prerequisites**: PIV Card, required TMS trainings from above.
 
-As far as I can tell, actually being able to use GFE or use the VA network via GFE is not required for this step, so you may be able to complete it early in the process.
+As far as I can tell, actually being able to use GFE or use the VA network via GFE is not required for this step, so you may be able to complete it early in the process. 
+
+The required trainings from above _are_ required. In my case, I had to email my delivery manager and the COR the certificates from the required trainings before I could be approved.
 
 As of March 2024, this is the process:
 
