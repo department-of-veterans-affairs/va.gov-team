@@ -38,7 +38,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 - Automation of ID Bot responses to certain situations in process flow
 
 ## What's In Scope:
-* The following Request Types in ID Bot:
+* Adding the following Request Types in ID Bot:
   * Bug Fixes
   * Feature Requests
   * Task Request
@@ -49,18 +49,23 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
   * Feature Requests
   * Task Requests
   * Help Requests
+  * USiP
 * Slackbot message automation
+   * When a request is assigned.
+   * When a request is closed.
 * Dashboard displaying results of Satisfaction Survey
 * Identity Team branding updates
+* Letting the world know
 
 ## Out of Scope (MVP): 
 * External publishing of metrics garnered from Satisfaction Survey
+  * This will be part of the upcoming "Publishing all of the Metrics" project
      
 
 ## Use Cases:
 | User          | Problem       | Solution to their Problem |
 | :------------- |:------------- | :----- |
-|Va.gov product team member| Want to ask a data pull|   |
+|Va.gov product team member| Want to ask a data pull |   |
 |Va.gov product team member | Want to ask for PR review  |  | 
 |Va.gov product team member  | Having issues with Mock Auth   |  |
 |Identity team member | Which request should we focus on?  |  |
@@ -70,9 +75,9 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 
 
 ## Assumptions:
-* ID Bot is used by people in #vsp-identity
-* People fill out the Satisfaction Survey
-* People look at the documentation we've provided
+* ID Bot is used by people in #vsp-identity.
+* People fill out the Satisfaction Survey.
+* People are looking at the documentation we've provided.
 
 ## Solution Approach: 
 
@@ -89,7 +94,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 ## UX/ Research Ideas Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-|   |               |
+|  Dashbo |               |
 |  |               |
 |   |               |
 
