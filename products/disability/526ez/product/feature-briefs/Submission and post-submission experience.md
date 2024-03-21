@@ -14,6 +14,7 @@ This initiative focuses specifically on the happy path for submission and post-s
 
 # Why
 This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission and track the status of their claim. 
+
 This work will not only give the Veterans clear indication of submission status and means of tracking claims, but also reduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
 
 # Proposed Solution
