@@ -2,8 +2,7 @@
 ----
 # Table of Contents
 
-<details closed>
-<summary>Click the dropdown for navigation links.👇</summary>
+Click the link to navigate to a section.👇
 - [Executive Summary](#executive-summary)
 - [Stakeholders](#stakeholders)
 - [Vision](#vision)
@@ -19,8 +18,6 @@
 - [Defect Triage Process](#defect-triage-process)
 - [Status Codes and Error Messages](#status-codes-and-error-messages)
 - [Analysis Steps](#analysis-steps)
-
-</details>
 
 # Executive Summary
 
