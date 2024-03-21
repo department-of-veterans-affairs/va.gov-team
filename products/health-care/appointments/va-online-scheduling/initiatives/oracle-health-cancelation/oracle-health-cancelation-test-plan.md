@@ -17,7 +17,7 @@ On the VAOS homepage, the app displays the following for each status:
 - [ ] Use Case 1 - Validate upcoming appointments in VAOS 
 
      Configuration setup in test environment must include: 
-  - [ ] Test user should have VA (in person, video visit and phone call) and Community Care booked appointments including canceled appointments
+  - [ ] Test user should have VA (in person, video visit and phone call) booked appointments including canceled appointments from Oracle Health
 
 * **Description**
   - Tester will validate that they could view the list of their upcoming appointments (future appts) in VAOS 
