@@ -162,3 +162,6 @@ Logs are saved in `PersonalInformationLog` table. https://github.com/department-
 
 3/18/2024  Knowledge Transfer Session Recording: https://us06web.zoom.us/rec/share/8MXU6JkTnUpz4dUfKPqbN-N4XMCL2wTHPDMSuiHFdFf6WDqO8QftT5WJqiTpXc88.LpC8gjVkxUCvBZfI 
 Passcode: r5i77W&E
+
+https://us06web.zoom.us/rec/share/n70LKsgANHIM19niXM9zylfe6Cu2Vm6cwOxYKHnrIt9YNcLT0dnR-8j9W1a9NvWU.FNGmgAIMOBxF5gQ2
+Passcode: Fr+84pA%
