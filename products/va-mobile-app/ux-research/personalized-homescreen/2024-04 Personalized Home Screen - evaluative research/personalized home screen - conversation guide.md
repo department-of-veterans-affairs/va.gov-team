@@ -79,6 +79,9 @@ Validate the participant uses the VA Health and Benefits app and get permission 
     * What do you like best? What do you wish you could change?
   * *If no: Move to next question.*
 * What other VA digital tools do you use? What are the reasons you use these tools instead of the health and benefits app?
+  * _If they mention using the VA.gov website:_
+    * Do you use the MyVA dashboard on VA.gov?
+    * What has been your experience like using MyVA?
 * Ok, thank you for that.
 * ***If they have successfully logged into the app:** proceed to [Section 3 Evaluative Conversation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-3-evaluative-conversation-25-30-min)*
 * ***If they have not successfully logged into the app:** proceed to [Section 4 Thank you and closing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-4-thank-you-and-closing-5-minutes)*
@@ -184,11 +187,12 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * *(If not on it already)* One last time, let’s go back to that first screen again. 
 * What were your overall thoughts on the app we used today? 
 * Was there anything you liked or disliked about the app we used today?
-* **If current app user:** Thinking about your experience using the current VA mobile app, how does the app we used today compare to the current app? 
+* **_If current app user:_** Thinking about your experience using the current VA mobile app, how does the app we used today compare to the current app? 
 * Looking over this screen again, do you think this first screen would be helpful to you in your life or not?
   * *If yes:* Can you walk us through a situation in your life right now where you can imagine using it, and explain how this screen would help you?
   * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express. 
 * *If they don’t mention the activity section:* Looking at that Activity section again, is there anything that you think would be helpful to see here in this section that you don’t see now?
+ * **_If MyVA user:_** Thinking about your experience using the logged in MyVA dashboard on VA.gov, how does the app we used today compare to the logged in MyVA dashboard on VA.gov?
 
 ## Section 4: Thank-You and Closing (5 minutes)
 ### App + Testflight uninstall 
