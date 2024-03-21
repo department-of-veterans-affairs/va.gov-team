@@ -91,6 +91,7 @@ The screenshot below highlighted one content issue a participant pointed out.
 > _Quote: This is where I could order the batteries or some hearing aid supplies, but instead it's telling me also to order hearing aid or CPAP supplies. I don't need that._
 <img width="722" alt="Screenshot 2024-03-20 at 4 13 55 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/c82dd4e3-ac9f-4df5-ba3c-24b7e7c6809d">
 
+
 **Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in.**
 
 On the verify personal information page, all participants thought it was straightforward to click continue after verifying the information was correct. However, there was some valuable feedback from 2 participants that could improve the experience. 
@@ -98,8 +99,16 @@ On the verify personal information page, all participants thought it was straigh
 > _Quote: "Finish this order later" link is confusing for this step._
 > _Quote: I thought I would start ordering at this point. (because he expected this information to be accurate and shouldn't need to change._
 
-On the verify address page, all participants knew the meanings of permanent and temporary addresses. They associate permanent addresses with "what VA has on file", "residence", and "where I live", and they would add temporary addresses if they are "on vacation" or "visit family somewhere". However, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit permanent addresse. 
+On the verify address page, all participants knew the meanings of permanent and temporary addresses. They associate permanent addresses with "what VA has on file", "residence", and "where I live", and they would add temporary addresses if they are "on vacation" or "visit family somewhere". However, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit their permanent address. 
+
+> _Quote: VA has my address on file, so no need to edit. If I need to change it, I will add it to a temporary address."_
+> _Quote: I assumed everything is filled out."_
+
+> _Quote: (One participant pointed to the instruction (see screenshot below)), they should highlight changing the permanent address here only change for this order._
 <img width="349" alt="Screenshot 2024-03-20 at 4 46 10 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/b1c9f0aa-888d-42b6-83ba-a39c2ecc05d5">
+
+**Usability issues:**
+This might be a usability issue for staging accounts only. When participants add an address to the temporary address box and select it to continue, the form won't allow them to continue unless the permanent address is completed and filled out. 
 
 
 ## Additional Insights
