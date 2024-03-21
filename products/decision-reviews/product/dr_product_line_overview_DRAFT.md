@@ -2,7 +2,7 @@
 ----
 # Table of Contents
 - [Executive Summary](#executive-summary)
-- [Team](#team)
+- [Stakeolders](#stakeholders)
 - [Vision](#vision)
 - [Mission Critical Challenges](#mission-critical-challenges)
 - [Product Strategy](#product-strategy)
@@ -25,8 +25,17 @@
 
 In 2023, VA.gov achieved the major milestone of releasing of all decision review forms on VA.gov, enabling Veterans to file for reviews and appeals to decisions about their claims via self-service. With the MVP product line now in place, the product strategy will prioritize stability, transaction growth, and a holistic, personalized experience. Decisions that inform roadmap priorities, experiment scope, and KPIs are made based on their potential to help Veterans accomplish their top Decision Review tasks, increase VA.gov transactions resulting in favorable outcomes, and improve transaction integrity. 
 
-## Team
-Lighthouse, CMP, Data Dimensions, Doma, Caseflow, VBA, and BVA
+## Stakeholders
+| Team / Business Line    | Contact(s)               | Role                                 | This Person Helps With....                                                                                             |
+|-------------------------|--------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Lighthouse              | Michael Hobson           | Decision Reviews API Product Manager | Questions about API requirements, prioritization for initiatives requiring an endpoint.                                |
+| VBA                     | Alejandro Mendelioflores | Business Analyst                     | SME for policy and legal requirements pertaining to Supplemental Claim and Request for Board Appeal forms.             |
+| VBA                     | Tim Wagner               | Business Analyst                     | End-to-end testing in lower environments, contact for Doma and Data Dimensions teams, general CMP/EMMS API questions.  |
+| VBA                     | Jacob Shepard            | Business Analyst                     | End-to-end testing in lower environments, contact for Doma and Data Dimensions teams, general CMP/EMMS API questions.  |
+| BVA                     | John Gosnell             | POC for the Board                    | Primary stakeholder / decision maker for the Board.                                                                    |
+| BVA                     | William Rollins          | BVA Intake team member               | SME for Board Appeal intake processes and legal constraints.                                                           |
+| Centralized Mail Portal | Melissa Feidler          | Team Contact                         | Contact for Doma and Data Dimensions teams, CMP/EMMS API questions pertaining to requirements.                         |
+| Caseflow                | Anita Lutonsky           | Team Contact                         | Questions about Caseflow capabilities, APIs, and requirements.                                                         |
 
 ## Vision
 Our vision for the next stage of the product line's journey is to transform Decision Reviews from individual forms with sporadic content,into a personalized experience rivaling the value Veterans get from VSOs and accredited representatives. On VA.gov, we will offer Veterans the benefits they often seek VSOs for without introducing risks into their filing process by adding them to the in-line form experience while also making it clear that we are building these forms and submitting them on their behalf so the value is not hidden in the design.The Decision Review product line will transform into an easy-to-explore, trustworthy hub that provides the most sought-after resources for understanding the differences between each pathway, determining appeal eligibility and filing readiness to reduce undesired outcomes, and filing personalized claims confidently. No hacks or “gotchas”.
@@ -61,7 +70,7 @@ These task categories may be interpreted as sets of "jobs to be done", iterated 
 
 ### Phase 1: File a decision review with a compelling narrative
 
-### Veterans frequently seek alternative filing methods that take the guesswork out of ancillary forms, allow them to share compelling narratives in support of their claim, and help them get their claims prioritized.
+#### Veterans frequently seek alternative filing methods that take the guesswork out of ancillary forms, allow them to share compelling narratives in support of their claim, and help them get their claims prioritized.
 
 <details closed>
 <summary>In-line Statement in Support of a Claim (VA Form 21-4138)</summary>
@@ -167,15 +176,154 @@ _Manual Remediation_
 
 </details>
 
+---
+
 ### Phase 2: Personalized decision review experience
 
-### Moving outward from the forms, we'd address challenges with static content that confuses and frustrates Veterans, leading to reduced trust and site abandonment. These challenges relate to broader navigation issues on the website and require close collaboration with the teams that own content, architecture, and search features. 
+#### Moving outward from the forms, we'd address challenges with static content that confuses and frustrates Veterans, leading to reduced trust and site abandonment. These challenges relate to broader navigation issues on the website and require close collaboration with the teams that own content, architecture, and search features. 
+
+<details closed>
+<summary>Compare Decision Review Options: Part 1 (Content Consolidation)</summary>
+<br>
+
+**Proposed Value**: A significant portion of qualitative feedback in surveys from static content pages shows that Veterans feel the content is confusing at best and deliberately misleading at worst, leading to a reduction in trust and a low-quality experience on VA.gov.
+
+**Core Bet**: We believe that by reducing the number of content pages Veterans have to find and read to guess their eligibility to a single-page layout with simple comparative content, they will be more likely to submit a decision review on VA.gov. 		
+
+**Solution Approach Nuggets**
+- IA and tech spike to identify all navigation entry points to each forms /introduction URLs
+- Iterative design experimentation to validate the design and content approach. The test page will display a comparison view of the scope of each decision review, evidence requirement, current wait times, deadline restrictions, benefit types, and implications for future actions.
+- Implement feature flags for static content in the “Decision Reviews” and “Resources” sections
+- Lower environment testing with CAIA
+- A/B test that routes a percentage of Va.gov users to a single-page layout while hiding static pages in the "decision review" and "resource" sections of the website.
+
+**Feasibility and Risk**: A/B testing for changes to site navigation, static content feature flags, and single-page design will require phased testing in lower environments with the CAIA team. 
+
+**Desired Outcome(s)**
+- Increase in online DR submissions
+- Reduction in claims for increase mistakenly filed as a supplemental claim
+- Decrease in time to submit a DR 
+
+**Performance Indicators**
+- Reduction in overall SC end products switched to 526 end products (and vice versa) compared to baseline
+- Conversion rate compared to baseline
+- Percentage of form exits compared to baseline
+- Conversion rate for searches resulting in a DR submission 
+- Click through rate between static content and submission compared to baseline
+- Reduction in low quantitative CSAT scores on static content URLs	
+
+</details>
+
+<details closed>
+<summary>Compare Decision Review Options: Part 2 (Personalization)</summary>
+<br>
+
+**Proposed Value**: This initiative aims to iteratively build on the previous “Compare Decision Review Options Initiative” by tailoring it to an individual Veteran’s use cases. In our research, Veterans often share their approach to building their filing strategy and frequently cite their reliance on hard copies of correspondence letters to recall details about the decisions they're appealing. Additionally, many don't know when to file a claim for an increase vs. a supplemental claim, resulting in delays and unfavorable outcomes. Having this context in line when assessing options may further reduce the cognitive burden caused by task-switching when a Veteran creates a filing strategy. 
+Duplicate submissions were previously one of the biggest sources of delays for Board appeals. Caseflow is working to reduce this problem by catching duplicates after Veterans have submitted them. We can extend the value of that work by pulling this data into the VA.gov experience to prevent actions that cause delays.
+
+**Core Bet**: If Veterans can assess their eligibility for decision reviews based on existing data about decisions, we'll significantly reduce the guesswork in choosing an option, making them more likely to submit a decision review that is aligned with their filing goals and doesn't result in claim delays caused by suboptimal filing actions. 		
+
+**Solution Approach Nuggets**
+Use disability rating data available in the Veteran Service History and Eligibility API, Appeals API, and Caseflow's Eligibility API to:
+- Help Veterans understand if an issue qualifies for an appeal or a rating increase
+- Compare decision review options to issues with decisions they want to have reviewed or appealed
+- Work with Lighthouse and Caseflow to surface data in Caseflow's Eligibility API to reduce duplicate submissions and in-eligible submissions.
+- To validate this, we would layer existing decision data over the design from phase one, testing with Veterans who plan to file a Decision Review to ensure it provides data relevant to their decision-making process.
+
+**Feasibility and Risk**: Caseflow may have limited capacity to expose Eligibility API data to Lighthouse.  
+
+**Desired Outcome(s)**
+- Increase in online DR submissions
+- Decrease in time to submit a DR
+
+**Performance Indicators**
+- Conversion rate compared to baseline
+- Percentage of form exits compared to baseline
+- Conversion rate for searches resulting in a DR submission 
+- Click through rate between static content and submission compared to baseline
+
+</details>
 
 --- 
 
 ### Phase 3: Connect the decision review experience to the broader VA.gov context
 
-### Veterans frequently seek to accomplish tasks related to their decision review beyonf filing, like speaking to someone about their submission, returning to a save-in-progress submission, or finding trustworthy resources that aid them in creating their strategy. 
+#### Veterans frequently seek to accomplish tasks related to their decision review beyond filing, like speaking to someone about their submission, returning to a save-in-progress submission, or finding trustworthy resources that aid them in creating their strategy. 
+
+</details>
+
+<details closed>
+<summary>Integrate AskVA into the DR Experience</summary>
+<br>
+
+**Proposed Value**:  One of the biggest frustrations Veterans expressed while completing the CSAT survey is that they often seek someone to help them understand what's happening with their claim. Many left requests for someone to contact them, expecting VA support staff to respond to the survey feedback. This frustration is reflected in user sessions recorded in Datadog, showing form exits by clicking on help links and navigation breadcrumbs.
+
+**Core Bet**: Veterans sometimes want 1:1 support and the ability to ask nuanced questions about their claims and appeals. We think offering links to AskVA will reduce the number of low CSAT responses from users requesting a call and leaving contact information in survey feedback. 	 		
+
+**Solution Approach Nuggets**
+- We think offering links to AskVA will reduce the number of low CSAT responses from users requesting a call and leaving contact information in survey feedback
+
+**Feasibility and Risk**: Caseflow may have limited capacity to expose Eligibility API data to Lighthouse.  
+
+**Desired Outcome(s)**
+- Increase in Veteran satisfaction
+
+**Performance Indicators**
+- Reduction in low CSAT scores from Veterans seeking help from a person
+- Increase in AskVA submissions
+
+</details>
+
+<details closed>
+<summary>Improve SIP Experience for Decision Reviews</summary>
+<br>
+
+**Proposed Value**: Roughly 99% of SIP Decision Review forms are abandoned. Those that return to the /resume URL, between 30-40% submit their decision reviews, suggesting there may be an opportunity to improve the number of submissions by making SIP forms easier to revisit
+
+**Core Bet**: If we re-locate the widget for SIP forms to the claim status tool, which recieves much more daily traffic, Veterans will be more likely to return to their form and submit it. 
+
+**Solution Approach Nuggets**
+Scope of this includes:
+- Assess options to enhance searchs and/or search tools on VA.gov “Find Forms” page and the website’s main search tool.
+- Work with CAIA to A/B test IA enhancements that improve navigation. 
+
+**Feasibility and Risk**: The impact of this initiative affects sitewide behavior and depends on MyVA team availability.
+
+**Desired Outcome(s)**
+- Increase in submissions from users who require more than one session to complete their decision review form
+
+**Performance Indicators**
+- Increase in conversions from users who return to the /resume URL
+
+</details>
+
+<details closed>
+<summary>Improve Discoverability of Decision Reviews</summary>
+<br>
+
+**Proposed Value**: Veterans often don't know what is available on VA.gov and qualitative Medallia feedback on search pages points to a confusing navigation experience. The various search features on VA.gov are not designed to help Veterans refine their search, causing many to visit the wrong page when they're looking for their claim status or help from a VA support person. The "find forms" search page has the highest search abandonment rate of VA.gov search tools, averaging above 90%. Improved search experience can help increase submission rates for all forms on VA.gov.
+
+**Core Bet**: If we improve the search experience, Veterans will be more likely to find Decision Reviews content and forms that help them complete “jobs to be done” on VA.gov like:
+- Determine eligibility for a Decision Review
+- Compare differences between Decision Reviews
+- File a Decision Review 	 		
+
+**Solution Approach Nuggets**
+Scope of this includes:
+- Assess options to enhance searchs and/or search tools on VA.gov “Find Forms” page and the website’s main search tool.
+- Work with CAIA to A/B test IA enhancements that improve navigation. 
+
+**Feasibility and Risk**: The impact of this initiative affects sitewide behavior and depends on CAIA capacity.
+
+**Desired Outcome(s)**
+- Increase in submissions from users who execute searches on the “Find Forms” search page
+- Increase in submissions from users who execute searches on the main search page
+
+**Performance Indicators**
+- Reduction in search abandonment
+- Reduction in DR page bounces and form exits from users who entered from search page URLs
+
+</details>
 
 ---
 
