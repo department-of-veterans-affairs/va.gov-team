@@ -59,7 +59,7 @@ For [unmoderated testing:]([https://depo-platform-documentation.scrollhelp.site/
 
 **Tree test links**
 
-- Pilot - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa
+- Pilot - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=pilot
 - Cohort 1 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=1
 - Cohort 2 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=2
 - Cohort 3 - https://dj540s05.optimalworkshop.com/treejack/communicationmethodsa/?tag=3
