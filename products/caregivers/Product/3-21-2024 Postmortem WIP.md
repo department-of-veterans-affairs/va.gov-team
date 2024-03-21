@@ -79,12 +79,21 @@ Describe cases where, ordinarily, you would have expected to or could have encou
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2020-01-02 @ 12:34 PM`: The [build](https://build.reference.url/details) ran
-- `2020-01-03 @ 02:34 PM`: The problem was identified by Team T1 through X & Y, and [issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was created to track it
-- `2020-01-03 @ 02:40 PM`: [Issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was fully understood by team T1
-- `2020-01-03 @ 02:40 PM`: The incident rose to the level requiring a post-mortem due to factors X and Y.
-- `2020-01-03 @ 02:45 PM`: Team T1 produced [Pull Request #124](https://github.com/department-of-veterans-affairs/${REPO_NAME}/pull/124) to resolve the issue
-- `2020-01-03 @ 02:50 PM`: The PR was approved by a member of Team T1 and a member of Team T2 because T2 has interests 'I' in this
+- `2024-03-21 @ 02:22 PM`: Slack alert in #health-tools-1010-apm channel for "1010CG Non-submission controller error rate is above 10%"
+- `2024-03-21 @ 03:15 PM`: Patrick elevated CG error
+- `2024-03-21 @ 03:26 PM`: Patrick posted to Platform Support channel that the aggregate error rates seem very elevated since 3pm ET on vets-api.
+- `2024-03-21 @ 03:30 PM`: Lindsay Insco acknowledged and tagged in Kshitiz Shrestha and Lindsey Hattamer
+- `2024-03-21 @ 03:33 PM`: Lindsay Insco confirmed a warning oppoed up about 20 minutes prior indicating feature toggles Synthetics monitor
+- `2024-03-21 @ 03:37 PM`: Lindsey Hattamer believes this [commit change](https://github.com/department-of-veterans-affairs/vets-api/commit/9f443e0e836248f196ddaf00c1d83080f772991d) will resolve the issue
+- `2024-03-21 @ 03:38 PM`: Maintenance window is in place for the 10-10CG form
+- `2024-03-21 @ 03:45 PM`: Per Lindsey Hattamer, the build is in process right now for the fix.  Anticipate recovery to take minutes, up to 20 minutes tops.
+- `2024-03-21 @ 03:51 PM`: Lindsey Hattamer informed us that there is another PR being prepped
+- `2024-03-21 @ 03:56 PM`: Lindsey Hattamer confirmed the fix was just merged in, and will take affect in 20 minutes or less
+- `2024-03-21 @ 04:02 PM`: Sync-up happening now
+- `2024-03-21 @ 04:20 PM`: Per Eric Boehs, the isusue has been fixed. Root cause analysis is in progress, as reverting their original suspect did not fix it.
+- `2024-03-21 @ 04:20 PM`: PagerDuty maintenance window has been removed.  Monitors are being watched
+- `2024-03-21 @ 03:56 PM`:
+- `2024-03-21 @ 03:56 PM`: 
 - ...
 
 ## Contributors
