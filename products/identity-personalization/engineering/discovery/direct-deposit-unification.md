@@ -69,7 +69,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
    - Display success/error messages and handle loading states based on the `directDepositInformationUiState`.
 
 5. Update the error handling and validation logic
-   - Reuse and adapt the existing error handling and validation logic from the legacy version. The inline validation will not change.
+   - Reuse and adapt the existing error handling and validation logic from the legacy version. The inline validation will not change aside from any new fixes that might be present. Travis mentioned an issue with the 18 max length validation messaging needing some work.
    - Error messages need to be updated with non-benefit specific language
    - Update the error handling actions and reducers to work with the new `directDepositInformation` state.
 
