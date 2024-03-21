@@ -121,17 +121,18 @@ Note: These are also in screener questions of [recruitment request ticket](https
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 1 hour
-* Maximum Sessions per day: 2
+* Maximum Sessions per day: 3
 
 
 ### Availability
 | **Team Availability** | **Time (ET)** 	|
 | --------------------- | --------------------- |
-| April 1, 2024 	|  12pm - 6pm ET 	|
-| April 2, 2024  	|  11am - 6pm ET 	|
+| April 1, 2024 	|  10am - 6pm ET 	|
+| April 2, 2024  	|  10am - 6pm ET 	|
 | April 3, 2024  	|  10am - 6pm ET 	|
-| April 4, 2024  	|  11am - 6pm ET 	|
-| April 5, 2024  	|  12pm - 6pm ET 	|
+| April 4, 2024  	|  10am - 6pm ET 	|
+| April 5, 2024  	|  10am - 6pm ET 	|
+| April 8, 2024  	|  10am - 6pm ET 	|
 
 
 	
