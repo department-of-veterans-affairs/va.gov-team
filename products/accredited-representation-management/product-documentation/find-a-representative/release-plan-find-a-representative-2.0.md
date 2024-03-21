@@ -117,7 +117,7 @@ _Links to Google Analytics and DOMO dashboards_
 **Landing page and product page traffic:**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/4fa293c9-3daa-452d-9157-1a71d3cbcd86)
 
-**Search experience traffic on product page: **
+**Search experience traffic on product page:**
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/84a5b6fd-74cc-4d88-8b14-eb642a61bb7a)
 
 **User engagement:**
