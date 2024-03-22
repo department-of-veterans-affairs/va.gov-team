@@ -1,6 +1,6 @@
 # Section Outline: The VA.gov Profile
 
-**Last Updated: 3/19/2024 -- updated products and features**
+**Last Updated: 3/22/2024 -- updated products and features**
 
 ## Table of Contents
 
