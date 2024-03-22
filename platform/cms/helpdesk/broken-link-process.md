@@ -2,13 +2,15 @@
 This is one step in the [overall broken links strategy](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/broken-links.md).
 
 ## Review broken link alert in **#content-broken-links**
-Content releases occur continously (the next one starts after the previous one finished) from 8am-8pm ET weekdays (except some Federal holidays). Content releases can also be triggered outside this schedule when editors save certain content types (banner alerts, operating status) manually by admins, pr by bulk publishing).
+The front end broken link checker runs during each content build (content release), and reports its findings in jenkins logs as well as by posting to the **#content-broken-links** Slack channel in DSVA Slack. CMS Team Tier 1 reviews this Slack channel for triaging/resolving.
+
+Content builds occur continously (the next one starts after the previous one finished) from 8am-8pm ET weekdays (except some Federal holidays). Content builds can also be triggered outside this schedule when editors save certain content types (banner alerts, operating status) manually by admins, pr by bulk publishing). If any broken links are found, they will be posted in the Slack channel.
 
 There is a broken link threshold before the content build will break. Urgency is dependent on how close to that threshold we are at any given time.
 
-The front end broken link checker runs during each content build, and reports its findings in jenkins logs as well as by posting to the **#content-broken-links** Slack channel in DSVA Slack. CMS Team Tier 1 reviews this Slack channel for triaging/resolving.
+Note: This is not the same type of broken link that appears in Drupal to editors. Editors may not be aware of front end broken links.
 
-The notification follows the format:
+The Slack alert follows the format:
 
 ```
 @cmshelpdesk 1 broken links found in the vagovprod build in a content-only deployment
