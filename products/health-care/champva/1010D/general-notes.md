@@ -51,7 +51,11 @@ General info, notes and miscellaneous
 - 3/20/24 - **Definition of Done**:
     - Get 5 forms to staging as complete as possible (files with meta data sent to PEGA S3 bucket, and status returned)
       - production - if we can go, yes, but not requirement for done
-      - 10-10d (testing in staging), FMP1 (testing in progress), FMP2, 7959a (testing may potentially be combined with FMP2, depending on research findings) and 7959c (testing will be skipped for this one)
+      - 10-10d (testing in staging)
+      - FMP1 (testing in progress)
+      - FMP2
+      - 7959a (testing may potentially be combined with FMP2, depending on research findings)
+      - 7959c (testing will be skipped for this one)
     - Testing - get testing done in staging and iterate
 
 ### Miscellaneous
