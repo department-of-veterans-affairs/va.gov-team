@@ -7,6 +7,4 @@ VA analysts and others who are processing forms for CHAMPVA and FMP must go back
 
 More research is needed, but at the very least there should be a back end integration between the VISTA, VBMS, and VIS so that the information is pulled in without manual inputs, which leads to room for error and delays in processing. VES (Veterans Enrollment System) will eventually be able to handle CHAMPVA and Foreign Medical Program forms, but the scope is not defined yet. There is an opportunity for the IVC Forms team to work with the new team that will be working on this integration to help identify pain points and use cases, along with areas of opportunity (specifically with research and design support).
 
-**Who do you think this would this help?**
-
 Improvements to the system architecture would help supervisory analysts, analysts and others who are processing forms. It would help reduce the amount of swivel-chair processing between systems, leading to faster processing with fewer errors. It will also ultimately help Veterans because their claims and applications will be processed more quickly and with fewer errors.
