@@ -6,8 +6,6 @@ The front end broken link checker runs during each content build (content releas
 
 Content builds occur continously (the next one starts after the previous one finished) from 8am-8pm ET weekdays (except some Federal holidays). Content builds can also be triggered outside this schedule when editors save certain content types (banner alerts, operating status) manually by admins, pr by bulk publishing). If any broken links are found, they will be posted in the Slack channel.
 
-There is a broken link threshold before the content build will break. Urgency is dependent on how close to that threshold we are at any given time.
-
 Note: This is not the same type of broken link that appears in Drupal to editors. Editors may not be aware of front end broken links.
 
 The Slack alert follows the format:
