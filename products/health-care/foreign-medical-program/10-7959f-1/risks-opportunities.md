@@ -11,4 +11,4 @@ Improvements to the system architecture would help supervisory analysts, analyst
 
 **__Risks__**
 
-If the IVC team does not collaborate with the VES team on this work, there are risks the long term solution would not address the needs of stakeholders and users and would continue the swivel chair processing that happens behind the scenes.
+If the IVC team does not collaborate with the VES team on this work, there is a risk that the long term solution would not adequately address the needs of stakeholders and users and would continue the swivel chair processing that happens behind the scenes.
