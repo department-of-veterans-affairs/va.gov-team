@@ -28,7 +28,7 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 An early peek at post-launch metrics can be viewed in the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md) 
 
 ### Key Performance Indicators (KPIs)
-**SEO Insights**
+**SEO Insights / Health Metrics**
 1. **Landing page for representatives** `/get-help-from-accredited-representative`
    1. **Page views**
    2. **Unique page views**
@@ -48,7 +48,7 @@ An early peek at post-launch metrics can be viewed in the [release plan](https:/
 2. **Top 10 location queries** _Are users gravitating towards certain locations?_
 3. **% of searches by search radius, broken out by radius options** _What search radius selections are users gravitating towards?_
 4. **% of searches with a specified representative name** _Are users searching with a particular representative in mind?_
-5. **Top 10 name queries** _Are users searching for certain representative names?_
+5. ~**Top 10 name queries** _Are users searching for certain representative names?_~ `name` is not trackable due to PII.  To track this, we need to rename the parameter to something like `representative_name` or `representative`
 
 **Search Behavior**
 1. **Average number of searches per user** _Do users feel the need to search multiple times?_
@@ -58,17 +58,16 @@ An early peek at post-launch metrics can be viewed in the [release plan](https:/
     1. Detail of search parameters that result in no results
 4. **# of page clicks on each page** _Are users feeling the need to go beyond page 1 in search results?_
 1. **# of clicks on the representative definitions, broken out by representative type** _How often do users need more information on representative type?_
-2. **# of contact info clicks, broken out by info type (address, phone and email)** _How do users prefer to contact a representative?_
-
-
-Data Reporting
+2. ~**# of contact info clicks, broken out by info type (address, phone and email)** _How do users prefer to contact a representative?_~ We will need a dataLayer added to track this behavior
 
 ### Baseline KPI Values
-1. **Unique Pageviews** _measuring growth_
+The Analytics team recommends tracking user sessions over pageviews, as this will be a more accurate look into user behavior.
+1. **~Unique Pageviews~ User Sessions** _measuring growth_
     1. Pre-launch: through the eBenefits or OGC tools
-       1. [Google Analytics traffic for June 1st - Nov 30th 2023](https://docs.google.com/spreadsheets/d/1Ne8H_hywzWcL5007MWY0ExpoCBJ0SjHRlkPHVtm7cJU/edit#gid=0)
     3. Post-launch: through the VA.gov Find a Representative tool (SEO Insights KPI #1b)
-2. **% increase of unique pageviews this week vs. last week** _measuring proportional growth_
+2. **% increase of ~unique pageviews~ relevant sessions this week vs. last week** _measuring proportional growth_
+
+[Google Analytics traffic for June 1st - Nov 30th 2023](https://docs.google.com/spreadsheets/d/1Ne8H_hywzWcL5007MWY0ExpoCBJ0SjHRlkPHVtm7cJU/edit#gid=0)
 
 ### Objectives and Key results (OKRs)
 1. **Objective**: Veterans start moving away from legacy processes for finding a representative, in favor of our solution on VA.gov
