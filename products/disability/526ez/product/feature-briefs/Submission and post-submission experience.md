@@ -45,7 +45,10 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 This initiative focuses on the happy path for the submission and post submission experience. At this time, no non-happy paths are included in this work. Other exclusions include: 
 - Notification of core 526 submission failures and file upload failures
 - PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
-- Redesign of post-submission pages
+- Redesign of post-submission pages, per Submission pages redesign #57828 
+    - link(s) to [ancillary forms](https://www.va.gov/disability/how-to-file-claim/additional-forms/) with instructions
+    - keep BDD SHA instructions
+    - info/alert about bank account info
 - Given that the Claim Status Tool is not managed by our team, any improvements across products will need to happen in collaboration
 
 # Success
