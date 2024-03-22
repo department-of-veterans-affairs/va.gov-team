@@ -1,11 +1,11 @@
 |                                              PATH |            Backing service |        Details |
 | ------------------------------------------------: | -------------------------: | -------------- |
-|                             `/v0/benefits_claims` | Lighthouse Benefits Claims | dfadsfasdfasdf |
+|                             `/v0/benefits_claims` | Lighthouse Benefits Claims | [Link](#v0benefitsclaims) |
 |                         `/v0/benefits_claims/:id` | Lighthouse Benefits Claims | dfadsfasdfasdf |
 |              `/v0/benefits_claims/:id/submit5103` | Lighthouse Benefits Claims | dfadsfasdfasdf |
 |            `/v0/evss_claims/:id/request_decision` |                       EVSS | dfadsfasdfasdf |
 |                   `/v0/evss_claims/:id/documents` |                       EVSS | dfadsfasdfasdf |
-|                                     `/v0/appeals` |                   Caseflow | dfadsfasdfasdf |
+|                                     `/v0/appeals` |                   Caseflow | [Link](#v0appeals) |
 | `/v0/education_benefits_claims/stem_claim_status` |                   VETS API | dfadsfasdfasdf |
 
 ## Endpoint details
