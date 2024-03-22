@@ -69,7 +69,7 @@ This research also touches on aging and managing new needs for those that develo
 6. Veterans using screen readers expect to receive PDFs from VA and rely on alternate methods to read them when they’re inaccessible.
 
 ## Additional Insights
-1. Veterans rely on family or caregivers for file management and storage
+1. Veterans with visual impairments rely on family or caregivers for file management and storage.
 > I'll set up a file for it. and probably have probably have a paper copy with this somewhere, I'm sure got it letter, and then my wife files it away and or the file folders. - **P4**
 
 2. There are multiple barriers around gathering and submitting digital evidence 
