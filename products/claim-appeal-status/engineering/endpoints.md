@@ -6,7 +6,7 @@
 |            `/v0/evss_claims/:id/request_decision` |                       EVSS | dfadsfasdfasdf |
 |                   `/v0/evss_claims/:id/documents` |                       EVSS | dfadsfasdfasdf |
 |                                     `/v0/appeals` |                   Caseflow | dfadsfasdfasdf |
-| `/v0/education_benefits_claims/stem_claim_status` |                            | dfadsfasdfasdf |
+| `/v0/education_benefits_claims/stem_claim_status` |                   VETS API | dfadsfasdfasdf |
 
 ## Endpoint details
 
@@ -59,7 +59,7 @@ This endpoint is used to retrieve a list of appeals and their statuses for the l
 
 #### `v0/education_benefits_claims/stem_claim_status`
 **HTTP method:** GET \
-**Backing Service:** \
+**Backing Service:** VETS API \
 **Controller:** [Github](https://github.com/department-of-veterans-affairs/vets-api/blob/a2e357/app/controllers/v0/education_benefits_claims_controller.rb#L24-L29)
 
 This endpoint is used to retrieve a list of STEM claims and their statuses for the logged-in user
