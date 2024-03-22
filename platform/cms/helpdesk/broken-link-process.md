@@ -59,7 +59,7 @@ Potential steps:
 ##### Resolution
 These can be ignored as they resolve in the next content release. If they continue to show in the next report, they are not a race condition and should continue to be diagnosed.
 
-#### Improperly formatted URL
+#### Improperly formatted or invalid URL
 ##### Examples
 - User copied a URL from VA email and the Safelinks code is appended to the URL
 - Missing https:// or http:// on external links
@@ -69,6 +69,9 @@ These can be ignored as they resolve in the next content release. If they contin
 
 ##### Resolution
 While some of these issues may be easy for Tier 1 to fix, they are also a learning opportunity for the user. You may fix the issue and follow up with the user in Jira, or you may contact the user in Jira with instructions for fixing it. There may also be a Knowledge Base article you can share with the user for reference.
+
+### Archiving a page without removing links to it
+This is often indicated when multiple alerts show different source pages but the same link name. In this case, it may be necessary to re-publish the page and then alert the user through Jira, letting them know which pages contain the broken link and asking them to remove those links before archiving.
 
 ## Resolve the problem
 
