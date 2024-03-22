@@ -1,12 +1,12 @@
-|                                              PATH |            Backing service |        Details |
-| ------------------------------------------------: | -------------------------: | -------------- |
-|                             `/v0/benefits_claims` | Lighthouse Benefits Claims | [Link](#v0benefitsclaims) |
-|                         `/v0/benefits_claims/:id` | Lighthouse Benefits Claims | dfadsfasdfasdf |
-|              `/v0/benefits_claims/:id/submit5103` | Lighthouse Benefits Claims | dfadsfasdfasdf |
-|            `/v0/evss_claims/:id/request_decision` |                       EVSS | dfadsfasdfasdf |
-|                   `/v0/evss_claims/:id/documents` |                       EVSS | dfadsfasdfasdf |
-|                                     `/v0/appeals` |                   Caseflow | [Link](#v0appeals) |
-| `/v0/education_benefits_claims/stem_claim_status` |                   VETS API | dfadsfasdfasdf |
+|                                              PATH |            Backing service |                                               Details |
+| ------------------------------------------------: | -------------------------: | ----------------------------------------------------- |
+|                             `/v0/benefits_claims` | Lighthouse Benefits Claims |                             [Link](#v0benefits_claims) |
+|                         `/v0/benefits_claims/:id` | Lighthouse Benefits Claims |                          [Link](#v0benefits_claimsid) |
+|              `/v0/benefits_claims/:id/submit5103` | Lighthouse Benefits Claims |                [Link](#v0benefits_claimsidsubmit5103) |
+|            `/v0/evss_claims/:id/request_decision` |                       EVSS |              [Link](#v0evssidrequest_decision) |
+|                   `/v0/evss_claims/:id/documents` |                       EVSS |                     [Link](#v0evssiddocuments) |
+|                                     `/v0/appeals` |                   Caseflow |                                    [Link](#v0appeals) |
+| `/v0/education_benefits_claims/stem_claim_status` |                   VETS API | [Link](#v0education_benefits_claimsstem_claim_status) |
 
 ## Endpoint details
 
