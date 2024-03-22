@@ -84,7 +84,9 @@ ________________________________________________________________________________
             - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
             - ❗ 🟩 [[FE] Create e2e tests for failed scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77876)
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+        - ❗ 🟩 [[FE] - Check travel answers before submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79020)
         - ❗ 🟩 [[FE] Update Review Page (eCheck-in & Stand-alone Travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
+             - Added 1 day after sprint started
         - ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
         - ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
