@@ -41,10 +41,21 @@ Conduct usability testing on the updated form
 
 ## Plan
 
+The new paper form is estimated to be released around the end of June, but this timeline could change. We want to be ready to launch our updated online version shortly thereafter.
+
 Discovery (already started, see [ticket #77615](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/issues/gh/department-of-veterans-affairs/va.gov-team/77615))
 -    Create a document (Mural board) with all relevant research on the PTSD/MST flow to included Slack messages, Github and Sharepoint links, meeting notes, etc. Include stickie notes with known pain points, recommendations, and open questions.
 -    Get re-familiarized with the PTSD flow, as well as the stand-alone paper forms (0781, 0781a). Compare 526 versions with newest versions, and note major changes in annotations.
 -    Summarize scope and outline a project plan for updating the 0781 in the 526 flow.
+
+Design
+- Draft low-fidelity designs, reviewing with OCTO and VBA stakeholders to answer questions along the way
+- Create high fidelity designs in Figma and coordinate with FE engineers on implementation
+- CAIA review and Collab Cycle
+
+Research
+- Create usability research plan TBD based on timeline and prioritization: Wait until form updates are in production to do user testing, or incorporate usability testing with earlier prototypes and/or in staging? 
+
 
 ## Guiding Principles
 
