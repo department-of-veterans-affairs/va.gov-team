@@ -72,6 +72,10 @@ This research also touches on aging and managing new needs for those that develo
 1. Veterans with visual impairments rely on family or caregivers for file management and storage.
 > I'll set up a file for it. and probably have probably have a paper copy with this somewhere, I'm sure got it letter, and then my wife files it away and or the file folders. - **P4**
 
+> I have an assistant that comes in. Make sure that everything is in the folder and stuff like that. - **P2**
+
+> When I fill out paperwork with VA on the computer. I'm not doing the navigation by myself, as you can tell with the computer, you have to know what keys to press, so usually I get help. So, my son, since he's visual, he will go on answer the questions. - **P14**
+
 2. There are multiple barriers around gathering and submitting digital evidence 
    * Not self-reporting medical issues during service
    * FOIA requests being returned as large stacks of paper documents or on CDs
