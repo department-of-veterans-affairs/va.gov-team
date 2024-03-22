@@ -4,9 +4,9 @@ This is one step in the [overall broken links strategy](https://github.com/depar
 ## Broken Link Alerts
 
 ### Slack Alerts
-Content releases occur roughly at the top of the hour from 9am-5pm ET, but can also be triggered outside the hourly schedule (by editing certain content types, and/or by bulk publishing).
+Content releases occur continously (the next one starts after the previous one finished) from 8am-8pm ET weekdays (except some Federal holidays). Content releases can also be triggered outside this schedule when editors save certain content types (banner alerts, operating status) manually by admins, pr by bulk publishing).
 
-The broken link checker runs during each content build, and reports its findings in jenkins logs as well as by posting to the **#vfs-platform-builds** Slack channel in DSVA Slack, which mentions the **@cmshelpdesk** Slack group.
+The front end broken link checker runs during each content build, and reports its findings in jenkins logs as well as by posting to the **#content-broken-links** Slack channel in DSVA Slack.
 
 The notification follows the format:
 
@@ -21,22 +21,23 @@ pittsburgh-health-care/programs/covid-19-vaccines :
 ```
 
 ### Response
-Automated notifications from Jenkins are in **#vfs-platform-builds** channel.  Once the automatic notification is triggered the CMS team will create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should include:
+Once the automatic notification is triggered:
+1. the CMS team will create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should include:
   - The `broken-link` label
   - A label for the team that owns the code/process/content and its resolution
     - If the issue originated from something wrong with the CMS application or CMS-API then add the `CMS` label
     - If another va.gov team, then add the `Front-End` label along with a label for the team (`facilities-team`, `public-websites-team`, `VAMC-upgrade-team`)
     - If the issue was caused by a CMS editor in the field, apply the `user-content` and `user-error` labels
 
-There is a 10 broken link threshold before the content build will break. So, the content build will break if there are a total of 10 or more broken links found in the link checker. Urgency is dependent on how close to that threshold we are at any given time.
+There is a broken link threshold before the content build will break. Urgency is dependent on how close to that threshold we are at any given time.
 
 Following the creation of the Ticket, the CMS team will notify in the automated notification that it is being triaged. This must happen within 30 minutes of the notification.
-The **#cms-product-triage** channel can be used to help determine the root cause and which team will be responsible for addressing the issue.
+The **#content-broken-links** channel can be used to help determine the root cause and which team will be responsible for addressing the issue.
 
 # Steps to Investigate
 
 ### CMS Tier 2 support
-The first responsibility of triaging and diagnosing falls on CMS Tier 2 support. If it is determined that the broken link is a result of user error then they will loop in Tier 1 to coordinate a fix with the user. If the cause and solution are not easily identified, they will post in **#cms-product-triage** for awareness and assistance.
+The first responsibility of triaging and diagnosing falls on CMS Tier 2 support. If it is determined that the broken link is a result of user error then they will loop in Tier 1 to coordinate a fix with the user. If the cause and solution are not easily identified, they will post in **#content-broken-links** for awareness and assistance.
 
 ### Finding the problem
 If we look at the initial alert notification, we should see, in this fictional example:
@@ -61,7 +62,8 @@ So far, we've encountered a few types of broken link causes:
 - Content being published too soon by non-dual-state editors (so far, this is common, but recent changes to roles may make it uncommon): best fixed by determining content that may need to be Archived. we should be cautious about this, since archiving content that _should_ be published will make things worse instead of better. We should always notify users after the issue is corrected.
 - Content with actual broken links in the CMS (so far, this is uncommon, but may become more common as more editors gain access): we’ll want to fix links directly whenever possible, then notify the user. It’s probably a good idea to get a second opinion on any changes we make to content.
   - Examples include: missing `https://` on external links
-- Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release.
+- Content in the process of being published intentionally and appropriately, which triggers a false alarm due to a race condition between published/unpublished content: this is best solved just by re-triggering a content release. List content types
+  - 
 
 ### Best Practices
 Perform the least destructive to most destructive steps to resovle a broken link.  For example:
@@ -73,10 +75,12 @@ Perform the least destructive to most destructive steps to resovle a broken link
 
 ## Contacting the author afterwards
 Once we know the problem and have remedied it, we can contact the author of the problem content to explain that their broken link held up a content release, and ask them to review our fix. This request should include:
-1. The page in question
-1. Which link was broken 
-1. What actions we (help desk and/or tier 2) took.
-1. Any recommendations or guesses about what the author should do next, if we have them
+- The page in question
+-  Which link was broken 
+- What actions we (help desk and/or tier 2) took.
+-  Any recommendations or guesses about what the author should do next, if we have them
+
+Note: Editors do not understand our broken links alerts. Don't copy and paste the alert language to them. Use plain language.
 
 See a suggested email template below:
 
@@ -94,9 +98,9 @@ See a suggested email template below:
 >VA CMS Help Desk
 
 # Response Timeframe
-The timeframe for an initial reponse to the slack notification in **#vfs-platform-builds** should be within 30 minutes at most.
-Total time to fix the issue should be within a day. If we have reason to think it’ll take longer, we should continue to update **#vfs-platform-builds**.
-When the issue is resolved, we should also update **#vfs-platform-builds** to say so.
+The timeframe for an initial reponse to the Slack notification should be within 30 minutes at most.
+Total time to fix the issue should be within a day. If we have reason to think it’ll take longer, we should continue to update in the Slack channel.
+When the issue is resolved, we should also update the relevant Slack thread to say so.
 
 # Related Procedures
 Tier 1 and Tier 2 both have office hour requirements and other procedures defined in the [SLA](./service_level_agreement.md#help-desk-service-level-agreement-sla).
