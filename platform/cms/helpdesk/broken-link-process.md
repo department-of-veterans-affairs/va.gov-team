@@ -26,8 +26,7 @@ pittsburgh-health-care/programs/covid-19-vaccines :
 1. Review the broken link alert.
 2. In that broken link alert Slack thread, indicate with an emoji or a message that you are reviewing it. For repeating broken link alerts (not resolved after the first time it appears), you don't need to repeat this action on subsequent alerts, unless someone aks.
 3. Determine if the broken link is related to a user action.
-  -If yes, create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should include:
-  - The `broken-link` label
+  - If yes, create a Jira Service Desk ticket to track this issue. Labeling for the JSD ticket should includehe `broken-link` label
 4. Determine if the broken link is not user-caused.
   - The **#content-broken-links** channel can be used to help determine the root cause and alert Tier 2.
   - If Tier 3 support is needed from another team, use that team's support Slack channel to make the team aware of it.
