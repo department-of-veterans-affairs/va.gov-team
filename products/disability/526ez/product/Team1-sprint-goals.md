@@ -4,6 +4,7 @@
 Period - 03/13/2024 - 03/26/2024
 ### Sprint goals 
 - **Expedited**
+  - [ ] single direct deposit content - design and front-end
 - **Non-negotiable**
    - eVSS to Lighthouse Migration - Engineering
       - PCIU 
@@ -12,7 +13,7 @@ Period - 03/13/2024 - 03/26/2024
       - BRD (seperation locations endpoint)
         -  Canary launch, followed by staggered release
    - 526ez sync with paper version 
-       - Toxic Exoposure 
+       - Toxic Exposure 
            - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)
            - [ ] Tech Discovery - Investigate if TE can be launched with migration to LH /generatePDF without /submit migration
        - Audit for 526ez for all paper to digital form changes
