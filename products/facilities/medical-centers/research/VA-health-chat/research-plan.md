@@ -44,8 +44,8 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 **Test logistics**
 - Participant will be required to enter their unique code at the beginning and end of the activity
 - Tasks will be randomized to reduce order bias
-- Max 10 tasks will included to reduce learning of tree
-- Participants will be allowed to skip tasks to reduce forced anwers
+- 6 total tasks will be presented to participants
+- Participants will be allowed to skip tasks to reduce forced answers
 - Participants who skip 100% of tasks will be asked to repeat the activity thoroughly before receiving compensation
 - Only participants that have a valid code will be compensated
 
