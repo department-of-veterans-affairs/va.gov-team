@@ -64,6 +64,8 @@ These can be ignored as they resolve in the next content release. If they contin
 - User copied a URL from VA email and the Safelinks code is appended to the URL
 - Missing https:// or http:// on external links
 - m. in front of the URL indicating a mobile URL
+- Internal VA page that the public can't access, usually starting with vaww.
+- Direct link to a Drupal node (instead of the va.gov page) that the public can't access, starting with prod.cms.va.gov
 
 ##### Resolution
 While some of these issues may be easy for Tier 1 to fix, they are also a learning opportunity for the user. You may fix the issue and follow up with the user in Jira, or you may contact the user in Jira with instructions for fixing it. There may also be a Knowledge Base article you can share with the user for reference.
