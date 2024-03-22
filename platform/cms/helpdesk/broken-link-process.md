@@ -51,7 +51,7 @@ Potential steps:
 ### Common broken link causes and how to remedy them
 #### Race conditions
 ##### Examples
-- Common with List content types (Stories list, Events list, Leadership list, News releases list) and their related individual content types (Stories, Events, Staff profies, New releases).
+- Common with List content types (Stories list, Events list, Leadership list, News releases list) and their related individual content types (Stories, Events, Staff profiles, New releases).
 - These content types are in the process of being published which triggers a false alarm due to a race condition between published/unpublished content types.
 
 ##### Resolution
