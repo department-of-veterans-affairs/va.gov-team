@@ -18,7 +18,7 @@ Update the PTSD flow within the online 526 to reflect the upcoming form changes
 - Review existing research on these forms and Veteran PTSD/MST, identifying relevant findings to incorporate in our MVP
 - Collaborate with OCTO and VBA stakeholders throughout the design process 
 - Collaborate with the Contention Classifications team on linking mental health conditions to this form in the condition list 
-- Review content changes with CAIA
+- Review content changes with CAIA, including any changes needed to the benefits hub content related to the form change
 - Review new designs with the Platform team through the Collaboration Cycle
 - Implement updates
 
