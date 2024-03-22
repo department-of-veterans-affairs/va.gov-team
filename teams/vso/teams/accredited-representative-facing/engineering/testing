@@ -1,0 +1,34 @@
+# Testing
+
+## Unit Tests
+
+### File and folder guidelines
+- File name: `fileItsTesting.unit.spec.js(x)`
+- File Structure:
+  - All tests will be in the tests directory which is on the root of the application
+  - Within tests the folders match the application directory structure
+
+### Mocha
+- `describe` blocks: Use to organize tests, but avoid nesting deeper than two levels
+- `it`:
+  - Use active voice.
+  - Describe the behavior in terms very specific to the unit (`it('truncates the address property when it is longer than 15 characters')` instead of `it('shortens the address when the user has a long address')`)
+
+### Chai
+
+
+### Sinon
+
+
+### React Testing Library
+
+
+### Example unit tests:
+  - The correct number of inputs show up when you render the page.
+  - The correct number of fields display validation errors if you submit without entering any information.
+  - Any conditional logic on the page displays under the correct conditions.
+
+
+## E2E Tests
+- VA Forms Library forms should be testing with the form tester
+- Must include accessinility tests, cy.axeCheck(), on all client-side routes
