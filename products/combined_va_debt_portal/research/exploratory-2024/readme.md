@@ -1,6 +1,6 @@
 # March 2024 exploratory concept study resources 
 
-This folder contains the combined debt portal's usability study materials. 
+This folder contains the combined debt portal's exploratory and concept study materials. 
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/exploratory-2024/conversation-guide.md)
