@@ -53,10 +53,10 @@ General info, notes and miscellaneous
       - production - if we can go, yes, but not requirement for done
       - 10-10d (testing in staging)
       - FMP1 (testing in progress)
+      - 7959c (testing will be skipped for this one)
       - FMP2
       - 7959a (testing may potentially be combined with FMP2, depending on research findings)
-      - 7959c (testing will be skipped for this one)
-    - Testing - get testing done in staging and iterate
+    - Testing - get testing done in staging and then iterate
 
 ### Miscellaneous
 - New list and loop pattern being worked on by VFF team but not ready to use ('classic' will be used in usability testing as well as staging review and production). 
