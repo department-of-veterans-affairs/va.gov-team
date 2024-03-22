@@ -2,13 +2,13 @@
 
 ## DataDog Dashboards
 
-- Public <br/> <br/>
+- Public (with url) <br/> <br/>
      - [Check In (Travel Claims)](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-3a95d2603bfb8826abb8aa81a04efd03)
-     - [Check In (Travel Claims) Stakeholder](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-a97e86a93c36244163f942ed0859de7b?refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1703524114192&to_ts=1706116114192&live=true)
+     - [Check In (Travel Claims) for Stakeholders](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-a97e86a93c36244163f942ed0859de7b?refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1703524114192&to_ts=1706116114192&live=true)
      - [Check-In Simple View](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-656d5fd1f385d165c9ce28403df3a8c4?refresh_mode=sliding&from_ts=1703522923071&to_ts=1706114923071&live=true)
-     - [Check-In Time Metrics in seconds](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-023e70fff5e0b68e7a22c36867342e09?refresh_mode=sliding&from_ts=1703523118249&to_ts=1706115118249&live=true)
+     - [Check-In Time in seconds](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-023e70fff5e0b68e7a22c36867342e09?refresh_mode=sliding&from_ts=1703523118249&to_ts=1706115118249&live=true)
      - [Check ins completed vs. initiated](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-22977a93743227c4a10bc22e38be5531)
-     - [45MR Requests](https://app.ddog-gov.com/sb/e92f059a-aa2c-11ec-9c41-da7ad0900007-3b0997c27aff287795ba5d8659125f46?refresh_mode=sliding&from_ts=1707935759563&to_ts=1708540559563&live=true)
+     - [45MR Requests (VeText)](https://app.ddog-gov.com/sb/e92f059a-aa2c-11ec-9c41-da7ad0900007-3b0997c27aff287795ba5d8659125f46?refresh_mode=sliding&from_ts=1707935759563&to_ts=1708540559563&live=true)
        
 ## DOMO
 - [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
