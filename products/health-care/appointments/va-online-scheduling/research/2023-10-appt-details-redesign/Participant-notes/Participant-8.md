@@ -74,6 +74,149 @@ Is the link perceived as a task?
 
 Can the participant find their way back from the personal healthcare contacts page?
 
+## 6: Phone appointment
+
+You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
+
+When I hit details it does say phone appt, and your provider will call you. It says primary care, checkup for foot pain. Says I can contact the facility. It’s a scheduling facility. Give me the Blue team and their phone number. Check-up for foot pain.
+
+Oop it just kicked me out.
+
+All the others say doctor - shouldn’t she also say doctor? Otherwise I might think it’s just a social worker or something.
+
+In my head, I’m thinking if she’s my primary care, why doesn’t it say doctor.
+
+> Reads need help
+
+Questions about a technical issue and video call - actually, this is a phone call. I could call the clinic number for help with that.
+
+**Follow up:**
+
+How do you attend this appointment?
+
+What else can you do from this page?
+
+**Things to watch for:**
+
+Does the participant understand how to attend this appointment?
+
+## 7: Cancellation
+
+You have a phone appointment with Nancy Portman and want to know more info about it, how would you do that?
+
+I would go ahead and click cancel. 
+
+> Reads through.
+
+Should there be a- should one of the options be yes, reschedule? That would be valuable because I’m thinking I’m going to forget to schedule another appointment. So now I have to say “yes cancel” and go back to the beginning, I’m assuming? Then I have to go back to schedule an appointment. Then it’s going to ask me for all this information again. Or if I have a list it’d be easier here, if there was a cancel/reschedule option on that list you’re still having to go back to another screen and do it there. But if I'm older and more forgetful I'm going to sneeze and forget that appointment.
+
+If I click yes it’ll probably say “yes” and give me an option to schedule
+
+See, yes it is right there, it says canceled appointment. So hopefully if I click schedule it’ll all be in there. Maybe then it should say reschedule appointment. I'd expect all of these things to be repopulated.
+
+**Follow up:**
+
+If you decided that you no longer wanted this appointment, how would you go about canceling it?
+
+Confirmation your cancellation: What would you expect to see if you hit "Yes, cancel appointment"?
+
+Confirmation your cancellation: What would you expect to see if you hit "No, do not cancel"?
+
+Appointment Canceled: What can you do from here?
+
+**Things to watch for:**
+
+Can the participant find the cancellation button?
+
+What does the participant expect from canceling an appointment?
+
+## 8: After visit summary
+
+You had a podiatry appointment last month and want to review what was discussed in the appointment. Where would you go to find that information?
+
+Note: past is missing, F directs to click to blank space.
+
+It doesn’t look like it’s connected to anything. I can select a date range. But that’s missing something.
+
+So if I saw a past appointment I’d like an option to click on doctors notes or something.
+
+They always tell me my notes will be there but they’re not uploaded.
+
+F: prompts to open past appointment
+
+This is nice. It did give me the summary when I clicked on view notes. The date was wrong on the first screen, but when I opened it it was a past appointment. When I clicked on that I could see everything I was asking for.
+
+**Follow up:**
+
+Tell me about the experience of finding that information.
+
+**Things to watch for:**
+
+Can the participant easily find their after visit summary?
+
+Can the participant easily navigate back from their after visit summary?
+
+## 9: Appointment request
+
+You made an appointment request and wanted to check on the status. How would you do that from here?
+
+Back to appointments, upcoming. It says I have several upcoming appointments. What was I asking for help with?
+
+It looks like I had one on the tenth canceled. Apparently I have two different primary cares. It would depend on which one of them the appointment was with, so I’d click on that. I didn’t know you could request it online. It says start scheduling appointments. I usually request an appointment through messages. I look for the person and say I need an appointment. That’s how I usually do it because it’s easier than sitting for an hour on hold.
+
+F: what would you expect under pending
+
+Appointments I actually have coming up. It looks like I'm on upcoming but some of them have been crossed out. So it looks like pending are actually valid.
+
+> Clicks pending
+
+Ohhhhh so these are ones I've requested but haven’t been scheduled yet. And it has canceled requests, like on the other screen.
+
+(Notetaker: missed a bit here.)
+
+Oh I can cancel it, it doesn’t ask me if I want to reschedule it. There’s no edit option. I thought it was upcoming appointments, not requests for appointments. Something else would be good - did I put in this request or did one of my doctors?
+
+**Follow up:**
+
+Tell me about the experience of finding that information.
+
+**Things to watch for:**
+
+Can the participant find pending appointments?
+
+Does the participant understand pending appointments?
+
+Does the participant understand the information on the details page?
+
+## 10: Empty State
+
+You have a VA Appointment on January 10 at 2:30
+
+Provider not available? Oh but it says a check-up for new glasses. I’m guessing this is for optometry. The other appts said they were for optometry and with a doctor. I’m confused about this one; why don’t they have a provider? If this was to pick up my new glasses for that other optometry appointment maybe it should say pick up or something like that. I could understand the tech isn’t listed. It seems incomplete. Because it’s not like the other optometry appointment. It does have where to go, and what phone number. Not having the actual provider isn’t a big deal, it seems like you’re going somewhere that’s not optometry for glasses. Maybe this is like one of those community care referrals and that’s why it’s not available? But it should state that it’s CC but it doesn’t.
+
+**Follow up:**
+
+What do you notice about the information given here?
+
+**Things to watch for:**
+
+Does the participant notice the missing info?
+
+## Post-Task Interview
+
+Of everything you saw today, what was the most confusing, or challenging?
+
+There’s a lot of empty space. You can start scheduling, upcoming pending, I didn’t see canceled until we were in the pending screen. And I'm not sure if that meant requests or appointment was canceled. There’s no chance to edit your information once you’re in there. We touched on a lot of things.
+
+What worked well?
+
+Being able to see the info from the past appointment, that was great. 
+
+What could we do better?
+
+I think the contacts thing, like if there was a link right on the upcoming page. You could have a review here instead of clicking on one to see if one is right or not.
+
+
 ## 3: Upcoming closed video appointment
 
 You have a video appointment scheduled with Allison Carter next month. You want more information on the appointment, how would you do that from here?
