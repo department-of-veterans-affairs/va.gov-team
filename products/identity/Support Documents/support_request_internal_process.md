@@ -4,12 +4,12 @@ This document outlines the intake process for identity support requests initiate
 
 Slackbot initiated requests will auto create a ticket using the github issue template (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/1identity-help.yaml). There are four types of requests we expect to get from the slackbot:
 
-- Product Leadership Responsible
+- ### Product Leadership Responsible:
     - Initial response will occur within 1 business day
     - questions about product on-boarding
         - sign-in service onboarding
         - large data requests (some data set requests must be filtered by product leadership)
-- Engineering Leadership Responsible
+- ### Engineering Leadership Responsible:
     - Initial response will occur within 1 business hour
     - bug fix inquiries
         - auth errors
