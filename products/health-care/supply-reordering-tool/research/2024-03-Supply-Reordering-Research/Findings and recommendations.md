@@ -161,30 +161,24 @@ Overall, most participants (7 out of 9) found the reordering experience to be ea
     * _Is it necessary for them to fill in their addresses when that information is already stored on the VA Profile?_
     * _Why ask them to edit the permanent address when it only applies to the order they're placing?_
     * _Does DLC have data on what Veterans need and when it's time for them to submit the order?_
-    * Let's start asking those questions to make the overall experience more intuitive and easier._
+  Let's start asking those questions to make the overall experience more intuitive and easier.
       
 * Explore the idea of adding the ability to change or request change for size, quantity, and brand of supplies.
     * _For nuance questions and requests, participants mentioned they prefer to contact their providers or clinics directly, which could delay the process in the case of not reaching the right person or back-and-forth communications. Adding a change supply request feature might ease the actions Veterans need to take._
 
 
-
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+- Plan and conduct second research to understand how Veterans associate medical supplies reordering with medications refill so our team can collaborate with the medications team and the Cartography team to figure out how medical supplies reordering fits into the MHV on VA.gov.
 
 
 ## Appendix
 
-[Research plan]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-research-plan.md))
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-usability-test-conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](in EnjoyHQ, https://app.enjoyhq.com/sh/pj/562a602f-0087-4367-b6b4-0db402009dff)
 
 
 ## Tools used for Synthesis
