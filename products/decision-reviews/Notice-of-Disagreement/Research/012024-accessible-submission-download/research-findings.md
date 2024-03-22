@@ -102,3 +102,72 @@ This research also touches on aging and managing new needs for those that develo
 ## Next Steps
 1. Our team is workshopping the minimum viable feature based on the research findings.
 ## Who we talked to
+Intended audience for this research: Veterans with vision impairment
+
+Recruitment strategy: We will test with Veterans only for the scope of the digital form experience. We are testing the form in Staging.
+## Recruitment criteria
+We talked to 16 participants.
+**Audience segment:**
+* Veterans: 16
+* Caregivers: 0
+* Family members of a Veteran: 0
+
+⠀**Gender:**
+* Male: 12
+* Female: 3
+* LGBTQ+: 0
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 0
+
+⠀**Devices used during study:**
+* Desktop: 9
+* Tablet: 1
+* Smart phone: 6
+
+⠀**Age:**
+* 25-34: 1
+* 35-44: 4
+* 45-54: 2
+* 55-64: 2
+* 65+: 6
+* Unknown: 1
+
+⠀**Education:**
+* High school degree or equivalent: 0
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 3
+* Master's degree: 6
+* Doctorate degree: 1
+* Unknown: 0
+
+⠀**Geographic location:**
+* Rural: 8
+* Urban: 8
+
+⠀**Race:**
+* White: 8
+* Black: 6
+* Hispanic: 2
+* Biracial: 0
+* Asian: 0
+* Native: 0
+* Prefer not to answer: 0
+
+⠀**Disability and Assistive Technology (AT):**
+* Beginner AT Use: 5
+* Experienced AT User: 7
+* Desktop Screen Reader (SR): 8
+* Mobile Screen Reader (SR): 6
+* Magnification/Zoom: 2
+
+#### Underserved groups we haven’t talked to
+This research does not include the perspectives of the following marginalized Veteran groups:
+* Immigrant origin
+* Other than honorable
+* Transgender
+* Nonbinary, gender fluid
+
+### Further research needed
+We suggest additional research on this feature with blind Veterans who are not as experienced with a screen reader, as well as, blind Veterans and their family and/or caretakers.
