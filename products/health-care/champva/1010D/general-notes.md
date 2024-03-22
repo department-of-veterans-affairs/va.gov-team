@@ -48,6 +48,13 @@ General info, notes and miscellaneous
    - Can we give 2 control numbers on the intro page if we consolidate?
    - expiring forms - need to go through form owner (Laura to provide us more info/point us to slack)
   - additional recommendation for 10-7959c: allow for multiple applicants (improve user experience but handle as separate applications on back end).
+- 3/20/24 - **Definition of Done**:
+    - getting 5 forms to staging as complete as possible (files with meta data sent to PEGA S3 bucket, and status returned)
+      - production - if we can go, yes, but not requirement for done
+      - 10-10d (testing in staging), FMP1 (testing in progress), FMP2, 7959a (testing may potentially be combined with FMP2, depending on research findings) and 7959c (testing will be skipped for this one)
+
+- Testing:
+    - want to do testing in staging and iterate
 
 ### Miscellaneous
 - New list and loop pattern being worked on by VFF team but not ready to use ('classic' will be used in usability testing as well as staging review and production). 
