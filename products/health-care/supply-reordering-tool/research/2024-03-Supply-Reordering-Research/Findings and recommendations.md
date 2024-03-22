@@ -205,37 +205,24 @@ E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
-**Recruitment criteria**
+[Recruitment criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-03-Supply-Reordering-Research/2024-03-research-plan.md#recruitment)
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **9 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 9
 
 
 Gender:
 * Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
+* Female: x
+  
 
 Devices used during study: 
 * Desktop: x 
 * Tablet: x 
 * Smart phone: x 
-* Assistive Technology: x
 
 
 Age:
@@ -257,12 +244,6 @@ Education:
 * Unknown: x
 
 
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
 Race:
 * White: x
 * Black: x
@@ -272,28 +253,20 @@ Race:
 * Native: x
 
 
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+This research does not include the perspectives of the following marginalized Veteran groups: This research may not include the perspectives of the following underserved Veteran groups:
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+Cognitive disability
+Other than honorable
+Immigrant origin
+Expat
+Gay, lesbian, or bisexual
+Desktop screen reader user
+Speech input technology users
+Hearing Aids
+Sighted Keyboard
+Captions
+Switch Device
+Braille Reader
+Assistive Technology users
