@@ -68,6 +68,87 @@ This research also touches on aging and managing new needs for those that develo
 5. Veterans use headers and search to navigate a page, and there is a mixed reaction to the use of lower level headers.
 6. Veterans using screen readers expect to receive PDFs from VA and rely on alternate methods to read them when they’re inaccessible.
 
+### Finding 1
+Veterans found a separate page for a copy of their submission was redundant to the confirmation page, and the link language misled Veterans into believing the form was not yet submitted.
+> This page sounds good like I was thinking as we could easily take the previous page and merge some of the elements from that page onto this page and get rid of that previous page altogether. Just because that previous page really serves little purpose concerning that you're doing that confirm confirmation 2 pages back, or just somehow. Yeah, this is the more important of the 2 pages we've reviewed. Yeah, can you expand on why you, this is more important just actually is what you have just submitted. - **P7**
+
+> I would say it's a probably about a 4 [out of 5 for usefulness], and say that only because it seems redundant to the previous page. Okay, there's a bit of redundancy here. It's kind of going through same thing over and over, the other one just said, if you want to view it and then print it or view it, and save it, or whatever that button was on the other page, support you here, which said the same thing. But this one obviously says, more information on your phone numbers and addresses. I think 2 of them could be combining into just one page. - **P8**
+
+>  Review and save it. It sounds like it hasn't been saved. And if it hasn't been saved, it hasn't been submitted. So i'll review. I can review my request that would make sense. I don't know about the and save because at this point about that's what I was checking with you, I’ve already submitted it. - **P1**
+
+### Finding 2
+Veterans prefer saving a digital or physical hardcopy of their submission rather than returning to a page on VA.gov.
+
+Veterans expressed interest in saving a copy of their submission for their records, even if they hope to not have to revisit the information again. Instead, they would reference it for the Next Steps information, and ways to contact VA. They aren’t as interested in coming back to the site for this information, citing that they weren’t sure if this information could be kept long-term and it was more difficult to navigate on the site vs within their documents.
+
+> It was bred in to me a long, long time ago to believe in backups for everything. especially when it comes to the VA. I learned a long time ago that when it comes to voice messages and the mail that if you don't keep a backup once, it's leaves your hands, there's really there's no proof or record. And I guess that's why I fell in love with email cause there's always a paper trail. - **P16**
+
+> So from an electronic copy, when I go to file and stuff like that. It's on the computer. I get mailed stuff, all that type of stuff. Here's forms that I have to fill out on hand and sign initialize and send in. I have those copies, hard copies. and then I have screenshots on my phone from when I use the app. So I paper trails all over the place. And again, that's from a militaryism that's when I was in the military and then, more importantly, when I started filing this in 2016. I don't know how many times in that first year I got the “we didn't get the form. It was this form, you filled out that form.” And so in the beginning, when I was doing paper copies, I was actually taking pictures with my phone to say, “here's the form that I submitted.” So when they turn around and say that I didn't submit it, I could be like, “here, here's me in the VA center, here's the VA people, here's the form.” - **P13**
+
+> If I had downloaded a copy. Even if I was waiting for the physical version to be mailed, I don't think I would [return to this page]. Just don't want to see a reason to, you know all of the information that would be on this page. I would expect to be in that PDF. - **P15**
+
+> You know, quite honestly. You know VA has a bad name. They got a bad rap. It's you know. It didn't come on right away. It's not gonna go away right away. But people feel that, you know, if they if this information goes away, they can't see it. That therefore, doesn't exist anymore. And you know, having sometimes having that piece of paper is just a level of comfort that a person can have cause, they got that information. - **P8**
+
+>  I'm going to save this in case we need it or have to go over it or resubmit it. Cause I'm not trying to fill out in more information all over again. - **P14**
+
+> You know I would save it. So. So I would have a copy of what's going on that way. I don't have to keep going to the website to do it, you know. that's a pretty secure way of doing it. Because, you know, most people don't shred their information, or whatever you just store it in a garbage. And that's a great way of being hacked. So that's why I save everything on my devices. - **P19**
+
+> There's nothing about how long it takes. The only thing I saw was that said 7 to 10 days to get it into the system nothing, about 90 days. 5 years. You know what kind of backlog, and I know that varies. I know it varies. You have different people in different states, and that was told. If I'd lived in Louisiana at the time I originally filed, I would been on. but would have been on disability then. but not in Arkansas. - **P18**
+
+
+### Finding 3
+Veterans found the next steps section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
+- Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their claim in the status tool within that time range, they would call.
+- Many Veterans also expect the next steps to include more details about how long the entire process should take.
+
+> I’ve known, and I've worked with veterans that don't live in areas where they can access. Internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get sorry your access. I would want to know that cause it's not always practical for some people. - **P11**
+
+> We're always left wondering how they're gonna reach out to you and obviously, a paper trail is always good.  - **P16**
+
+> What's going to happen next? And that's always good. Yeah. Cause you don't know. People just don't know. - **P1**
+
+> I would love to for it to say exactly what those 7-10 days are, are those business days? it would be great to have a pop up or calendar link API for the next holiday link so (missed commentary on expectation setting given federal holidays) - **P11**
+
+> It's gonna take 7 to 10 busy days. So you don't have to worry, because you know. Oh, well, it's not up there, and it's not up there, you know. You get a basic timeline of when it's going to be up there. - **P19**
+
+
+### Finding 4
+Veterans using screen readers expect multiple methods of contact, and prefer being notified by email.
+- Veterans are looking for inclusivity when it comes to the ways VA is contacting them
+* A Veteran mentioned that the language surrounding a package being “mailed” to the Veteran lacks options for blind Veterans who would prefer a different method of contact.
+* Another Veteran mentioned that knowing how and when the VA will contact them will help them filter the important correspondence and phone calls from other spam mail or robo calls.
+> They'll mail back a submission packet, and there's some verbiage that we have had get established that is supposed to have this provided in alternative means, and not just default back over to, hey? You're gonna send me a paper document that's actually supposed to be a phone call. It says, Blind person like, yeah, don't mail it to me. Give it to me in a format that I could otherwise use. - **P7**
+
+> How the information is going to be sent out, especially for blind and low vision, to know is how to be looking forward because we get so many Robo calls, too. If I'm not, don't know the number that's gonna be coming up. - **P3**
+
+> with us, having email and text messaging. you know, available to us. It would be nice if when someone touched your claim. you know, an email or message could go out so you'd know. And someone was working on your claim. - **P16**
+
+> I'm looking at this. And when I see it says we will contact you. But we need more information. But it's not we're saying, how you gonna contact me? So you're looking for more information on, like the way that you'll be contacted. Yeah, because is it going to be by phone or email or mail, and I'm taking this from a low vision, or blind person’s stand point because a lot of times they say they mailed you something, and you overlook it in the mail. Because a lot we get so much junk mail. you might overlook it, so I always like to know which way they're sending it, or if you can end up in my spam or something, especially with something as important as your claim. - **P3**
+
+> Maybe there was a how and why would you contact it. You wanna know the status or don't agree with the status, so on so forth. I know I would. I would personally love a more direct phone number other than the general line. But I understand that that's not always possible. But yeah. The only part that I think is perhaps could be clarified a bit is the what to expect next? - **P11**
+
+> This would be one where it'd be great if yeah, we had some options on how we wish to receive that information, but other than that, everything else was pretty good with it. - **P7**
+
+### Finding 5
+Veterans use headers and search to navigate a page, wanting the H1 to be more descriptive of the page, and a mixed reaction to the use of lower level headers.
+> Once you mentioned the headings, sometimes the headings are great, sometimes headings are bad. It's easier to hit next heading, then to search. Sometimes I'll also pull up a taggable of links on the page, or all the headings you. - **P18**
+
+> I might almost say here (in the form details), we have too many headings -- I don't personally like headings in forms that much. I prefer they have the form labels. I don't know why headings in forms: it's just more I have to listen to. I'm not the most patient in the world. Even a level 5, I'm still reading it with the letter H. I don't personally do H1 or H2 -- I just do H to get to the section I want to go to without listening to all the other crap.  - **P5**
+
+> I think that, yeah, that looks like very in depth and not cluttered. Hmm. so yeah, some people go overboard with headings, and almost every line has a heading on it. Th, that that sounds to me like pretty good it would got, you know, could get through the same just in a very few seconds to what I wanted. - **P18**
+
+> So I'm just gonna go and say, just couple the things are just more of a screen. Reader Mac OS, voiceover type things where it kind of it didn't exactly read off the text initially, but I knew that there was text there. So that's why you heard me go back and forth. Otherwise, you know most of the information there is quickly, easily structured. Maybe a little bit too heavy-handed on the headings cause it's almost like every other line is a heading. - **P7**
+
+### Finding 6
+Veterans using screen readers rely on alternate methods to read inaccessible PDFs.
+> Some of them [PDFs] are good. Some of them are paying I usually run have to end up running them through a OCR To read unless they're the kind that actually has the detection embedded in the PDF file. - **P18**
+
+>You can take that PDF file and store that. Although I hate PDF files. [why?] Because JAWS doesn't read them. Yeah, to convert word to read it. here's my wife usually comes in helps with that, but I know we can convert PDF to work. - **P4**
+
+> Okay, but that was one of the ones I was gonna work on is converting that over which is just a pain, and sometimes we do get them from. you know, Va, or wherever and it's like, I say, it'll be JPG, or it'll be an image, or whatever. Yeah, that's a document. But it's not a document that's accessible. I would say the attachment to download folder. So now I would then go to the Internet. Go to Adobe. bring it over it. it's a pain in the butt. I don’t do it too often. - **P8**
+
+> PDF is fine. If when they do it, they use the accessibility side of it. But if they don't. jaws usually does a pretty good job nowadays of just scanning it, anyway. But sometimes it's impossible. Still. - **P5**
+
 ## Additional Insights
 1. Veterans with visual impairments rely on family or caregivers for file management and storage.
 > I'll set up a file for it. and probably have probably have a paper copy with this somewhere, I'm sure got it letter, and then my wife files it away and or the file folders. - **P4**
@@ -93,7 +174,8 @@ This research also touches on aging and managing new needs for those that develo
 
 > They changed the login process for you, but the app was surprisingly easy, because you were able to use the app with Pr. As I said surprisingly, I figured I had to go find I found my password and all of that which is stored but then, when I went in it was face ID had already set up, and bingo I was in. - **P1** 
 
-4. Reader mode hides certain components
+4. Reader mode hides certain components, rendering the page inactionable.
+One Veteran went through the prototype using Reader mode on Safari. In Reader mode, we saw that a few of the important components were hidden. These included: alert, PDF download link, telephone number, and buttons. 
 
 ## Recommendations
 1. Give Veterans multiple options to save a copy of their submission, including through email.
