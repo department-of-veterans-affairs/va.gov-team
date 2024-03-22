@@ -53,7 +53,7 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 
 ### Research materials
 
-For [unmoderated testing:]([https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/research/VA-health-chat/research-plan.md#appendix-a-recruitment-email)
+For unmoderated testing: https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html
 - Email for recruitment is Appendix A 
 - Email for recruited participants is in Appendix B 
 
@@ -132,8 +132,8 @@ We will finalize key tasks and test set up on Optimal Workshop by March 26, 2023
 - This is an unmoderated online test. Participants are expected to spend 10 - 15 minutes to complete.
 
 ## Team Roles	
-- Research lead: Alexis Logsdon, alexis.logsdon@a1msolutions.com
-- OCTO project lead: Amanda Klausmeier, amanda.klausmeier@va.gov
+- Research lead (contractor, leaving the project 3/28/24): Alexis Logsdon, alexis.logsdon@a1msolutions.com
+- OCTO project lead: Amanda Klausmeier, amanda.klausmeier@va.gov 
 
 	
 
