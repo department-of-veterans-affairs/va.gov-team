@@ -3,18 +3,23 @@
 **NOTE:**
 This document represents a cross section research, record keeping, and relevant decisions made and why.  It is not structured in chronological order, but rather with the most modern and relevant information closer to the top. 
 
-### The big question
-During the development of this solution / document, the question arose as to the following situation; when a vet logs in, do we need to show them information about an existing ITF? We realized that if the answer was **yes**, then we would need a robust ITF *READ* solution in addition to the simpler async ITF *WRITE* implementation.  We decided that yes, we want vet facing, 100% up to date information as to the following
+**NOTE:**
+Herein "ITF" is an abbrreviation for the "Intent To File" document that is processed when a vet logs into the 526 (and other) form(s).
+
+### The Big Question
+**When a vet logs in, do we need to show them information about an existing ITF?**
+- If **yes**, then we need a robust ITF *READ* solution in addition to the simpler async ITF *WRITE* implementation.
+- IF **no** then a simple Async *WRITE* operation would be sufficient. For more information see the investigation notes and ideation section at the bottom of this document.
+
+We decided that yes, we require 100% up to date information for the veteran related to;
 - does this vet have an existing ITF?
 - If yes, when does it expire?
 - If no, tell them we are creating it.
 
-[We answered this question in this meeting](https://drive.google.com/drive/folders/1A2W1aeS3ppD33kRo_tWAuORpjFdaOdt-)
-
-Below there are two options.  They were proposed before we answered this requirement question.  Now that we know the answer, consider option #2 to be the most correct solution, as it provides for async READ and WRITE.  Option #1 is just for historical context.
+[We answered this question in this meeting](https://drive.google.com/drive/folders/1A2W1aeS3ppD33kRo_tWAuORpjFdaOdt-) 
 
 ### UX
-**note** for the purpose of end user facing UX, we denote ITFs as having two state, **existing** and **not existing**.  Complexity around how these states generated and represented is abstracted away from the user.
+**note** for the purpose of end user facing UX, we denote ITFs as having two states, **existing** and **not existing**.  Complexity around how these states are generated and represented is abstracted away from the user.
 
 As an end user (veteran)
 - I am logged in
@@ -26,18 +31,17 @@ As an end user (veteran)
 - No changes to routing / endpoints
 
 ### Controller Layer
-**note** there is no external API traffic implied by the following.  The controller simply loads or creates an ITF from our application database for the user.  All async creation / validation is offloaded to model layer / Asnyc engine.
+**NOTE**:
+There is no external API traffic implied by the following.  The controller simply loads or creates an ITF from our application database for the user.  All async creation / validation / source of truth syncing is is off loaded to model layer and Asnyc engine.
 
 - IF a valid ITF record exists for the user, the controller loads and returns it
 - IF a valid ITF **does not** exist for the user, the controller creates one and returns it
 - All async logic around the external creation of the ITF (e.g. calls to EVSS) is abstracted away from the controller layer.
 
 ### Model Layer
-**note** if we instead choose the Async WRITE only option, we can skip **a good deal** of this complexity, as our source of truth will be externally maintained.
+**NOTE**: we *never* check for an ITF against our external source-of-truth in real time.  We trust our local database to be an update cache of valid ITFs.  To this end, we will have two new models (exact names TBD) but the structure here will reflect after our `Form526Submission` / `Form526JobStatus` relationship. We will separate the *ITF* and the *ITF creation* as logical, related chunks of data.  An ITF instance `has_many` ITF creation job records, and an ITF creation job `belongs_to` an ITF instance.
 
-**note** we *never* check for an ITF against our external source-of-truth in real time.  We trust our local database to be an update cache of valid ITFs.  To this end, we will have two new models (exact names TBD) but the structure here will reflect after our `Form526Submission` / `Form526JobStatus` relationship. We will separate the *ITF* and the *ITF creation* as logical, related chunks of data.  An ITF instance `has_many` ITF creation job records, and an ITF creation job `belongs_to` an ITF instance.
-
-**note** both the ITF and the ITF creation job will have a `status` value.  It may seem redundant to track status on the ITF if we are able to see a success status on the associated job(s), however, even when a Job succeeds, and an ITF is marked as `confirmed`, it is important that we allow the rolling-cache the ability to de-confirm (expire / invalidate) an ITF.  Rolling cache jobs are *not* tracked in the database, therefor ITF's require their own distinct `state`.  
+**NOTE**: both the ITF and the ITF creation job will have a `status` value.  It may seem redundant to track status on the ITF if we are able to see a success status on the associated job(s), however, even when a Job succeeds, and an ITF is marked as `confirmed`, it is important that we allow the rolling-cache the ability to de-confirm (expire / invalidate) an ITF.  Rolling cache jobs are *not* tracked in the database, therefor ITF's require their own distinct `state`.  
 
 #### the ITF instance model
 
@@ -70,10 +74,10 @@ As an end user (veteran)
   - when a job succeeds, the associated ITF will also be updated with a state of `confirmed`. 
 
 ### Async Engine
-**note** this is a logical encapsulation of everything required to keep our "cache" (aka local DB record) in sync with the source of truth (e.g. EVSS).  It has two parts, an async (sidekiq) creation job for ITF creation, and a rolling-cache refresh job to ensure that we maintain parity with our external source of truth. The async creation job's purpose is to allow ITF *writes* to be non-blocking, and the rolling-cache refresh is to allow our ITF *reads* to be non-blocking.
+**NOTE** this is a logical encapsulation of everything required to keep our "cache" (aka local DB record) in sync with the source of truth (e.g. EVSS).  It has two parts, an async (sidekiq) creation job for ITF creation, and a rolling-cache refresh job to ensure that we maintain parity with our external source of truth. The async creation job's purpose is to allow ITF *WRITES* to be non-blocking, and the rolling-cache refresh is to allow our ITF *READS* to be non-blocking.
 
 #### Async Creation
-**note** there is a likely edge case where a user may perform a subsequent login while their ITF record is still being created.  We **must not** create another ITF record / ITF creation job cycle, as this could register the incorrect effective date, as well as pollute our system with redundant jobs.  For this reason, we will treat `pending` as a valid ITF state, as this indicates that it is still in it's retry cycle. 
+**NOTE** there is a likely edge case where a user may perform a subsequent login while their ITF record is still being created.  We **must not** create another ITF record / ITF creation job cycle, as this could register the incorrect effective date, as well as pollute our system with redundant jobs.  For this reason, we will treat `pending` as a valid ITF state, as this indicates that it is still in it's retry cycle. 
 
 - When an ITF is created in our database, an `after_create` lifecycle hook enqueues it's external creation via the **Async Engine**
 - This is a Sidekiq job the enqueues the call to our external source of truth (E.G. EVSS)
@@ -95,11 +99,9 @@ As an end user (veteran)
     - we alert that manual remediation is required
   
 #### Rolling-Cache refresh
-**note** this part is... still under consideration.  Note that if we go with the There may be a better way to do this, as a rolling cache could be expensive
+**NOTE**: we do not receive events from our external source of truth if something changes with an ITF. There is no known, apparent reason why our underlying source-of-truth records would change, however we cannot ignore the possibility that they might.  For this reason, we need to ensure that our local ITF records do not fall out of sync with our source-of-truth.  To accomplish this, we will have a slow rolling cache that refreshes each ITF every X number of days.
 
-**note** if we instead choose the Async write only option, we can skip **all** of this complexity, as our source of truth will be externally maintained
-
-**note* we do not receive events from our external source of truth if something changes with an ITF. There is no known, apparent reason why our underlying source-of-truth rec ords would change, however we cannot ignore the possibility that they might.  For this reason, we need to ensure that our local ITF records do not fall out of sync with our source-of-truth.  To accomplish this, we will have a slow rolling cache that refreshes each ITF every X number of days
+**NOTE** If EVSS was willing to build us a webhook, we could vastly simplify this.  This is being considered, but doesn't seem likely to happen.
 
 - TODO: figure out how often this can run
 - This job is always (maybe?) running in the background.
@@ -117,8 +119,13 @@ As an end user (veteran)
 
 ![ITF Async (1)](https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/7e36f94a-9f52-44c2-940b-3868b4f01dd9)
 
+-----
 
-## NO, WE DON'T NEED BOTH ASYNC READ AND WRITE, ONLY WRITE:
+# BEGIN OUTDATED DISCOVERY FOR HISTORICAL PURPOSES ONLY
+
+**NOTE** The following section is an outline of 'the other option' wherein we don't need async *READ*.  
+
+## IF NO, WE DON'T NEED BOTH ASYNC READ AND WRITE, ONLY WRITE:
 
 ### UX
 **note** for the purpose of end user facing UX, we denote ITFs as having two state, **existing** and **not existing**.  Complexity around how these states generated and represented is abstracted away from the user.
@@ -169,16 +176,11 @@ IF we did decide to have a model, it would simply be to track requests made by t
 
 - TODO: START HERE
 
-## Diagram
+## DISCOVERY
 
+**NOTE**:Below there are two options.  They were proposed before we answered this requirement question.  Now that we know the answer, consider option #2 to be the most correct solution, as it provides for async READ and WRITE.  Option #1 is just for historical context.
 
-
----------------------
-
-# Discovery
 ## Purpose
-**NOTE**: everything below this fold is for historical purposes only.  See the above architecture section for a source of truth.
-
 Gather findings, pose questions, and outline executable architecture that will allow us to make ITF creation non-blocking relative to the 
 form 526 flow.
 
