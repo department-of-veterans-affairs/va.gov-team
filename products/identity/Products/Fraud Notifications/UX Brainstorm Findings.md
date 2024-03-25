@@ -80,3 +80,53 @@ Things we can measure
 - We can track if user clicked on a button
 - Did same IP sign into different accounts?
 
+# What are other technical considerations or limitations?
+- How do we get from trigger to notification?
+  - VA Notify capabilities and limitation
+  - Do users need to opt in?
+    - Product standpoint - we don't want them to opt out much less req opt in
+  - Would need to check in with VA Notify
+- How might we think about Identity Team's response versus an action a Vereran can take?
+  - Consider veteran response or action
+  - we can lock account - ie if veteran says "yes this is fraud"
+  - sign out all action
+- Need a way to capture info
+  - How much fraud have we reduced? money saved? etc etc?
+  - can we start capturing metrics now around the DD email?
+ 
+# What other questions do we have?
+- Technical Questions
+  - Can user take action from within notification?
+    - VA Notify, probably a no 
+  - Will baselines need to be considered for some triggers?
+    - considering the fingerprint mismatch - how often do anomalies occur?
+  - what is the "trigger" for a suspicious, new, different actitivy?
+  - Can users have access to notification settings?
+    - Product standpoint - don't want
+- Product Questions
+  - Will users have access to notification settings? What will they include? Where will they be? How will they be securely adjusted? Notification about changes?
+    - If we have a ton of notification options, then there needs to be an ability to make changes
+  - When does notification happen: before action is completed /after event completes?
+    - after event completes
+  - Will notifications require acknowledgment? Effect on legitimate tasks? If proxy attempts to sign-in to vets account but vet cannot respond to notification. Does it let their proxy sign in? Does it kick out proxy?
+  - What outcome do we want them to take? What is our objective? CTA? invoke feeling in the user? etc?
+    - we do want to notify
+    - we do want to give a CTA in case there is something actually wrong
+  - How do we actually add value for the veteran and not just throw extra stuff at them they don't need?
+    - peace of mind
+  - How many notifications would be overload?
+    - if we have some amount more than 1, then we have to offer ability to manage
+  - Fraud SME
+    - Not our role
+      - But we do have the data
+      - Ideally, other teams give us triggers
+- Taking over DD Notification Questions - from Auth Exp team
+    - Who on our team owns it?
+      - Designate a person or position?
+    - Who should we include on meeting with Auth Exp?
+      - PM and DM
+    - When would we want to take ownership?
+      - Before we set up any new notifications?
+    - What's the LOE to manage a notification in VA Notify?
+      - Is there any regular upkeep?
+      - How often does Auth Exp team look in on it?   
