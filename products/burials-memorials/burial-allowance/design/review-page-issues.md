@@ -62,7 +62,7 @@ A claimant cannot upload files on the review page blocking submission
 You can't upload the required file to fix this error blocking you from submitting the form
 
 #### Possible Solution
-1) Add an "upload file" button and allow upload files on the Review page. Designs for this solution: [Expanded](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/zyZLKGM)| [Editable](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/v/QQrV9x/a/ZVRPny3) OR
+1) Add an "upload file" button and allow upload files on the Review page. Designs for this solution: [Expanded](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/zyZLKGM)| [Editable](https://www.sketch.com/s/de782a35-e147-4c32-a2a8-ba53071ec8e7/a/ZVRPny3) OR
 2) Add an "upload file" button and return the claimant to Step 5 to upload the file there
 <br><br>
 
