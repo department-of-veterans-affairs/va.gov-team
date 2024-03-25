@@ -62,7 +62,7 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 
 ## Details of Findings 
 
-**Finding 1: All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.**
+### Finding 1: All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.
 
 9 out of 9 participants use written notes, have mental checks, or check inventories to track their supplies to know when it's time to reorder. Even though no one expressed strong dissatisfaction with the fact they had to track themselves, one participant talked about how they couldn't simply go to VA clinics and pick up supplies anymore when they didn't reorder on time. One participant suggested that there should be reminders for recurring hearing aid tests because that's when they pick up their hearing aid supplies. There are currently no notifications or other user-friendly ways to remind Veterans that it's time to submit reorders.
 
@@ -71,14 +71,14 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 > _SQuote: Based on need. So, you know, every six months or so, I know I'm supposed to ask for new replacement tubes, filters, et cetera. So it's a mental note that I make._
 
 
-**Finding 2: On the [starting page](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/), most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page.**
+### Finding 2: On the [starting page](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/), most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page.
 
 6 out of 9 participants clicked on the order online link quickly without scrolling down. Out of the 3 participants who explored the page, 2 wanted to view the catalog to see what they could order, and one questioned about the eligibility of ordering online when supplies haven't been ordered in the past 2 years. Overall, there was one confusion on what they needed to do here to order online. 
 
 > _Quote: Well, to do anything on the VA site, you have to sign in._
 
 
-**Finding 3: On the instruction page with the sign-in button, most participants (7 out of 9) skipped instructions and wanted to sign in right away.**
+### Finding 3: On the instruction page with the sign-in button, most participants (7 out of 9) skipped instructions and wanted to sign in right away.
 
 7 out of 9 participants wanted to sign in right away. Out of the 7 participants, one participant thought they were already signed in, and four expressed that they wanted to see the supplies available for them at this point. For the two participants who read the instructions, they liked the steps and wanted to see the steps throughout the process. 
 
@@ -90,7 +90,7 @@ The screenshot below highlighted one content issue a participant pointed out.
 <img width="722" alt="Screenshot 2024-03-20 at 4 13 55 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/c82dd4e3-ac9f-4df5-ba3c-24b7e7c6809d">
 
 
-**Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in.**
+### Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in.
 
 On the **verify personal information page**, all participants thought it was straightforward to click continue after verifying the information was correct. However, there was some valuable feedback from 2 participants that could improve the experience. 
 
@@ -113,7 +113,7 @@ Two participants (one moved a couple of times, and another one has a vacation ho
 This might be a usability issue for staging accounts only. When participants add an address to the temporary address box and select it to continue, the form won't allow them to continue unless the permanent address is completed and filled out. 
 
 
-**Finding 5: On step 2 - select supplies page, all participants found it easy to select supplies. 6 out of 9 participants expected to see only what they needed to reorder.**
+### Finding 5: On step 2 - select supplies page, all participants found it easy to select supplies. 6 out of 9 participants expected to see only what they needed to reorder.
 
 The task was to select a hearing aid battery to order, and all participants found it easy to check the box to pick a battery. However, 5 out of 9 participants showed confusion about the differences between the two batteries and did not know what some of the supplies were (see 2 and 3 in the screenshot below). 
 
@@ -136,7 +136,7 @@ When asked what they would like to change about this page, two participants prov
 > _Quote: If you offer the earpiece, you'd need to have the size of the small, medium, and large, whatever the case may be._
 
 
-**Finding 6: All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest).**
+### Finding 6: All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest).
 
 Overall, most participants (7 out of 9) found the reordering experience to be easy. The other two didn't give a score. When asked how they (3 participants gave a score of 4) would improve the tool to get to a score of 5, participants provided some valuable feedback: 
 
@@ -148,10 +148,10 @@ Overall, most participants (7 out of 9) found the reordering experience to be ea
 
 ## Additional Insights
 
-**Finding 7: On step 2 - review page, all participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it.**
+### Finding 7: On step 2 - review page, all participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it.
 
 
-**Finding 8: On step 3 - confirmation page, all participants were satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.**
+### Finding 8: On step 3 - confirmation page, all participants were satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
 
 
 ## Recommendations
