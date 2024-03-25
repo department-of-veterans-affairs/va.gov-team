@@ -1,6 +1,6 @@
 name: Identity Engineer Support
 description: For requesting engineering help from the identity team
-labels: "Identity, Identity Engineer Support"
+labels: "identity-engineer-support"
 body:
 - type: textarea
   attributes:
