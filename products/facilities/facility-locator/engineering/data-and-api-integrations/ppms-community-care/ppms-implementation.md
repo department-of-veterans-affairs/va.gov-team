@@ -107,6 +107,15 @@ Course Expiration Date
        - `logger` logs the body of the response to `STDOUT`
     - The [TIC](https://github.com/department-of-veterans-affairs/devops/blob/master/docs%2Faws-dx-transit-spoke-architecture%2Farchitecture.md)
 
+### PPMS How to get data that vets-api is sending to PPMS
+PPMS Swagger - Allows you to get the raw data from PPMS but is limited because you can't alter requests except for the options that Swagger gives you.
+Alternative 
+- Adding logs to vets-api - got merged into staging or production
+- then go into ARGO (open issue and request permission)
+- Go into production pod
+- Then Got into rails console and looked at logs to compare what was being
+Max suggested if you make changes to vets-api models write down what you're changing and what you need from the data so that you can repeat steps and recover changes.
+
 ### PPMS is making a change to their API (when??)
 TODO: 2023-12-28: IS the below still real?  VCR TAPES??
 
