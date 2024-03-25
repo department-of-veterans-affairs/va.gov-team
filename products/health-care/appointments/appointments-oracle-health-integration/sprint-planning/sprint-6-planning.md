@@ -1,5 +1,5 @@
 ## VetsAPI Sprint 6 Planning
-Sprint 5: 3/12/24 - 3/25/24
+Sprint 6: 3/12/24 - 3/25/24
 
 ## 📅 Upcoming Dates
 Brittany will be OOO 3/19-3/21 
