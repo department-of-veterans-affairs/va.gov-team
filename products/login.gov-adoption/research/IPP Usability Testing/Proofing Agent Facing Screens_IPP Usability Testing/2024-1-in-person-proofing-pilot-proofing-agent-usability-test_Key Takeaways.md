@@ -1,11 +1,11 @@
 VA Staff Usability Test Key Takeaways 
 ======================================
 
-Team
+### Team
 
 Secure Sign In Transition Team
 
-Date
+### Date
 
 February 27-March 1, 2024
 
