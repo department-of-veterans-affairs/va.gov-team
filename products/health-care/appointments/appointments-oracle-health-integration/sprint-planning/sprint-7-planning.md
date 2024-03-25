@@ -12,8 +12,10 @@ Post any DSU updates if you are unable to attend
 * 🔴 Appointment Cancellation
 * 🟢 Appointment Requests
   * 🟩 Add support for routing appointment requests to VetsAPI Patient Gateway
+  * 🟩 🟦 Eligibility 
 * 🔵 Direct Scheduling
   * 🟦 Support Oracle Health slot search
+  *  🟩 🟦 Eligibility 
 * 🟡 Onboarding and Integration
 * 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 
@@ -30,6 +32,6 @@ Post any DSU updates if you are unable to attend
    * [CES-315 CES: support appointment search date param](https://issues.mobilehealth.va.gov/browse/CES-315)
    * [CES-341 Update cerner serviceType code mappings](https://issues.mobilehealth.va.gov/browse/CES-341)
    * [CES-317 CES: Migrate to hapi-plain-servier](https://issues.mobilehealth.va.gov/browse/CES-317)
-
+* 🟩 🟦 Eligibility 
 ## ✈️ Planned Releases
 None
