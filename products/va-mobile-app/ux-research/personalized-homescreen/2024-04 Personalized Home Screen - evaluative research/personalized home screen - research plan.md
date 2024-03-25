@@ -65,7 +65,7 @@ This research will help us understand if/how the personalized app home screen de
     *  for them in their current circumstances?
 2. Do participants **find value in the VA mobile app** in its current form based on the contents of the personalized home screen? 
 3. Do participants **understand** what the modules on the home screen are and **find value in the high-level data** being displayed within the modules?
-4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to [accomplish** some tasks/answer some questions] using the mobile app home screen?
+4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to begin some tasks** using the mobile app home screen?
 5. **Is there a difference between screenreader users and non-screenreader users** in terms of perception of app capabilities, perception of value, and the usability of the personalized home screen?
 6. **Do participants experience performance issues/lag** when loading the personalized home screen? If so, do performance issues impact participants’ perception of the app’s capabilities or value?
 
@@ -154,7 +154,7 @@ Response options: yes or no
 - Yes, two or more times per month
 - Yes, one time per month or less 
 - No, I don’t use the VA Health and Benefits mobile app
-*(Answering d or e would qualify the participant) as 'active monthly user')*
+*(Answering d or e would qualify the participant as an 'active monthly user')*
 
 **4. Do you currently have an open disability claim or appeal?**  
 Response options: yes or no  
@@ -162,7 +162,7 @@ Response options: yes or no
 
 **5. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack), and are you able to join the Zoom session using this assistive technology??** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
 Response options: yes or no 
-*(If yes, proceed to question 6a)*
+*(If yes, proceed to question 5a)*
 
 **5a. How many years have you been using screen reader technology on your mobile device?**  
 Response options, checkbox list with text box:
@@ -170,7 +170,7 @@ Response options, checkbox list with text box:
 - 1 year
 - 2-5 years
 - 5 or more years
-*(Answering c or d would qualify the participant as a screenreader user)*
+*(Answering c or d would qualify the participant as an advanced screenreader user)*
 
 
 ## Timeline
