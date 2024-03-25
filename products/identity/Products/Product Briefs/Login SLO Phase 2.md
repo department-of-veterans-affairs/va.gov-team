@@ -78,24 +78,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 
 ## Solution Approach: 
 
-* Research (Done in Phase 2)
-  * What do Veterans care about in this space?
-  * What communication does CAIA have if va.gov maintenance is planned or is happening?
-  * What do the other VA teams care about?
-  * Can we update the [Va.gov Status Page](https://vagov.statuspage.io)?
-  * Are there legal requirements for SLOs - want to maintain compliance, at least.
-  * Can we leverage
-  * Check w/ #accessibility-help channel to see if Datadog dashboards are acessible.
 
-* Based upon the research the initial round of SLO are created.
-  * Some might be combined if needed 
-* We create a table that displays all of the SLO in a single place. _(User Story TK)_
-* We come up with the language to represent each SLO to the outside world. _(User Story TK)_
-* We create a monitoring plan. _(User Story TK)_
-  * The Delivery Manager will manage the monitoring.
-* We come up with a publishing schedule. _(User Story TK)_
-  * The Delivery Manager will manage the publishing.
-  * How did we do against each SLO in the previous monthl?
 
   
 ## Technical Considerations:
@@ -124,11 +107,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 
 
 ## Milestones:
-- [ ] Spikes completed.
-- [ ] Initial publishing of SLOs.
-- [ ] First monitoring date.
-- [ ] First publishing date.
-- [ ] Ongoing monthly monitoring & publishing.
+
 
 
 ## Future Scope:
