@@ -4,7 +4,8 @@
 This MVP is a read-only addition to the Profile and Profile Hub products. Personal health care contacts includes emergency contacts and next-of-kin, with both a primary and secondary of each available to display if present in the VA Profile service. There is a single feature flag for all functionality.
 
 ## Important artifacts
-- Epic
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts/README.md)
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62159)
 - Analytics dashboard [tbd]
 - [Collab Cycle issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65892), which has links to all other artifacts
 
@@ -40,7 +41,7 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 ### Rollout planning
 
 #### Launch go/no-go:
-- Launch readiness checklist [TBD - CREATE ISSUE from [example](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62928)]
+- Launch readiness checklist [github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79017)
 
 #### Desired date range: [TBD]
 - Launch ticket [TBD]
