@@ -32,10 +32,10 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 - [Satisfaction Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
 
 ## Potential deliverables:
-- New Request Types in ID Bot
-- New Request Type Fulfillment Processes in Github
-- Dashboard to display metrics gathered from customer survey
-- Automation of ID Bot responses to certain situations in process flow
+- New Request Types in ID Bot.
+- New Request Type Fulfillment Processes in Github.
+- Dashboard to display metrics gathered from customer survey.
+- Automation of ID Bot responses to certain situations in process flow.
 
 ## What's In Scope:
 * Adding the following Request Types in ID Bot:
@@ -58,7 +58,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 * Identity Team documentation updates.
 * Letting the world know there are new choices in the slackbot
 
-## Out of Scope (MVP): 
+## Out of Scope: 
 * External publishing of metrics garnered from Satisfaction Survey
   * This will be part of the upcoming "Publishing all of the Metrics" project.
      
