@@ -1,15 +1,15 @@
-## UX Brainstorm Findings
+# UX Brainstorm Findings
 
 A transcription of the Mural that UX used to capture discussion about Fraud Notifications
 
-# What is the problem?
+## What is the problem?
 - Suspicious login activity that the Vet is unaware of
 - Bad actors takeover an account
 - Personal info changes that a veteran is unaware of
 - Prevent further actions by bad actors
 - Additional control over account events
 
-# How can we help?
+## How can we help?
 Notify veterans about actions in their account
 - Notify via email
 - notify via SMS text
@@ -17,7 +17,7 @@ Notify veterans about actions in their account
 - notify via popup or banner
 - notify via in app notification
 
-# What existing systems or tools can we tap into?
+## What existing systems or tools can we tap into?
 What considerations are there for each solution? What do we need to know? Do we have experience with it?
 
 - VA Notify
@@ -45,7 +45,7 @@ What considerations are there for each solution? What do we need to know? Do we 
   - sends out a physical mail for DD changes
     - what can we learn more about this?
 
-# What triggers can we easily utilize?
+## What triggers can we easily utilize?
 What more do we need to know? What pre-work?
 
 - New credential and time to change direct deposit
@@ -80,7 +80,7 @@ Things we can measure
 - We can track if user clicked on a button
 - Did same IP sign into different accounts?
 
-# What are other technical considerations or limitations?
+## What are other technical considerations or limitations?
 - How do we get from trigger to notification?
   - VA Notify capabilities and limitation
   - Do users need to opt in?
@@ -94,7 +94,7 @@ Things we can measure
   - How much fraud have we reduced? money saved? etc etc?
   - can we start capturing metrics now around the DD email?
  
-# What other questions do we have?
+## What other questions do we have?
 - Technical Questions
   - Can user take action from within notification?
     - VA Notify, probably a no 
