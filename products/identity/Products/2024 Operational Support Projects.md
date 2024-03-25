@@ -11,10 +11,10 @@
 | VAOS Token STS Integration  |  | | Mike |
 | VRO STS Integration |  | | Mike |
 | Oracle Health STS Integration  |  | | Mike |
-| Develop Va.gov SLOs | Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov | Continuous improvement of the Veteran login experience. (O1KR2) | Jim |
+| Develop Va.gov SLOs | Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov. | Continuous improvement of the Veteran login experience. (O1KR2) | Jim |
 | Data Reporting - External Auth | External Reporting on Authentication Events | Understanding Veteran Auth activity helps us improve their auth experience (O1)| Jim |
 | Create VERA Frontend on va.gov | | | Mike |
-| Establish & Publish Response Support Metrics | An ongoing scorecard on how we are fulfilling other teams requests. | Metrics to show how we're doing w/r/t supporting other va.gov product teams as well  (O4KR2 )| Jim |
+| Establish & Publish Response Support Metrics | An ongoing scorecard on how we are fulfilling other teams requests. | Metrics to show how we're doing supporting other va.gov product teams as well as fulfilling their requests. (O4KR2 )| Jim |
 | STS Integration Tracker | | | Mike |
 | Incident Response Refactor| Review and revise the VA's incident response capabilites.  | Make them more robust, agile and effictive in mitigating the impact of security incidents. | Jim |
 | Incident Response Communication | Create internal and external commuincation channels for messaging and coordination during and after security incidents. | Ensure Veterans and other VA stakeholders are informed, engaged and empowered to properly respond to security incidents. | Jim |
