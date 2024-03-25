@@ -45,7 +45,7 @@ In the future, we also don’t need to reproduce existing notifications which in
 
 ## Use Cases (MVP):
 | User          | Problem       | How does this solution address the problem?  |
-| ------------- |:-------------:| -----:|
+| ------------- |:------------ | -----:|
 |Veteran | Unusual device login could be fraudulent |Gives Vet a notification and course of action  | 
 |Veteran | Unusual IP login could be fraudlen  |Gives Vet a notification and course of action  |
 
@@ -67,13 +67,14 @@ In the future, we also don’t need to reproduce existing notifications which in
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-|  |               |
+| dfdfd |   dfdfdfdf           |
 
 
 ## Measuring Success:
 | KPI           | Notes         | 
 | : ------------- |:------------- | 
-| | What is the current "time to detect fraud" number? | We have this and are currently measureing it.
+| What is the current "time to detect fraud" number? | [BDPR is currently measuring this] (https://docs.google.com/spreadsheets/d/1JKNTCMRDmgJh5jU--rOicPMqvw0zR00ze2X-VycFmOE/edit#gid=1457434547) |
+|For veterans whose account has suspected fraudulent activity, how long does it take them, on average, to report this to the VA?  | We don’t measure this yet (data from Contact Center) |
 
 
 ## Baseline KPI Values:
