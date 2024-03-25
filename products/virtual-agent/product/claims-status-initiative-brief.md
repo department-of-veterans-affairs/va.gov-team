@@ -159,7 +159,7 @@ Design and build an updated Disability Claims Status Flow as part of the VA.gov 
 - *Target Launch Date*
   - March 28, 2024
 - *Actual Launch Date* 
-  - tbd
+  - April 11, 2024
 
 ---
    
