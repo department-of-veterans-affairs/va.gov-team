@@ -39,10 +39,10 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 
 *Start recording.*
   * Once more, for the recording: Is it ok if we record this session?
-## Section 1: App setup & screenshare (10 minutes)
+## Section 1: App setup & screenshare (15 minutes)
  * During our session today, I am going to have you imagine a series of situations using a special version of the VA mobile app and in a few minutes I'm going to send you a link to a special version of the app to explore. We’re going to get all of that set up now.
 ### Screen share Setup
- * First, I’d like to ask you to share your  device’s screen so I can help you install the app and we can look at it together. I can walk you through how to start the screen share.
+ * First, I’d like to ask you to share your device’s screen so I can help you install the app and we can look at it together. I can walk you through how to start the screen share.
 *[Help participant share screen]*
    * [iOS: Zoom screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
    * _If they have screen curtain on:_ It looks like you have screen curtain enabled—we’ll need to turn it off. To turn it off—use 3 fingers and quadruple (4) tap.
@@ -50,7 +50,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 
 ### App Install & log in
  * Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build]
- * If Testlflight not installed: 
+ * If Testlflight is not installed: 
    * Scroll to the first button that says “View in App Store”
    * Tap to Install Testflight
    * Now we’re going to navigate back to that screen we were looking in the browser. Go ahead and do that. Ok, here we are.
