@@ -96,11 +96,11 @@ ________________________________________________________________________________
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - 🟥 [[UX][Design] Update confirmation page for 1 travel claim success and 1 fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78834)
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - 🟥 [[UX] Prepare eligibility userflow for VTP presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79079)
-        - 🟥 [[UX][Research] SPIKE: Determine research to pursue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
+        - ✔️ 🟥 [[UX] Prepare eligibility userflow for VTP presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79079)
+        - ✔️ 🟥 [[UX][Research] SPIKE: Determine research to pursue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
         - 🟥 [[Research] Create Moderated Research Plan as a result of SPIKE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78654)
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
-        - 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
+        - ✔️ 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
@@ -111,7 +111,7 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - 🟩 [[FE] Add back to last screen on /contact-information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78803)
-    - ✔️ 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
+    - 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
