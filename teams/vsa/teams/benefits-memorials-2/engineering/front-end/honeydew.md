@@ -5,6 +5,7 @@ Let's make a list of pages/components/functionality that could use some extra lo
 ## Other
 - [ ]  DOCUMENTATIONNNNNNNNNNNNNN - add more! -- make time (and tickets) to add more
 - [ ]  Update all `input`s to use platform components
+- [ ]  **Unauth responses**: There's likely a better way to handle unauth responses from `medical_copays` and `debt` endpoints rather than flooding sentry. I believe these are known and valid responses for users who are not enrolled in healthcare or debt, so having them pop a sentry error doesn't seem like the best practice. 
 
 ## FSR Changes
 - [ ] **Veteran information**: Our veteran information page is looking lack luster compared to something [like appeals 10182](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/shared/components/VeteranInformation.jsx). Maybe we can do a little update 
