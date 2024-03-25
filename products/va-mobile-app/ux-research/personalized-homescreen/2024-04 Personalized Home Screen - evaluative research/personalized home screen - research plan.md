@@ -109,10 +109,10 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 
 
 ### Recruitment criteria
-Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
+Recruit 24 Veterans for a minimum of 12 successfully completed sessions.
 
 #### Primary criteria
-* All participants must be iPhone or iPad users.
+* All participants must be iPhone or iPad users (Android will not work).
 * All participants must be willing to do an activity from their iPhone or iPad device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
 * All participants must be able to independently log into the VA Health and Benefits mobile app using their VA login credentials.
   * Please confirm via phone follow-up that if the user were to get logged out of the app suddenly, they are able to log back in on their own using their credentials. 
@@ -121,7 +121,7 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
     * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
       * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is "#.#.#").
 * All participants should have an active VA claim and/or appeal.
-* At least 8 participants should actively be using VA health care (prescriptions, appointments, secure messages).
+* At least 8 participants should be users of VA health care.
 * At least 8 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
 * At least 4 participants should have 2 or more years of experience using a screenreader (VoiceOver, Talkback) on their mobile device
 
@@ -136,11 +136,11 @@ Recruit 16 Veterans for a minimum of 12 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session using an iPhone or iPad?**  Note: Android mobile phones will not work for the session
+**1. Are you able to join the Zoom session using an iPhone or iPad?**  Note: Android mobile phones will not work for the session  
 Response options: yes or no  
 *(If yes, proceed to 1a. If no, disqualify the participant)*
 
-**1a. Are you willing and able (and do you have 75 MB of space on your phone available) to download and temporarily install two mobile apps during the session using a link you will open on using your phone?**  
+**1a. Are you willing and able to download and temporarily install two mobile apps during the session using a link you will open on using your phone?**  
 Response options: yes or no  
 *(answering no would disqualify the participant)*
 
@@ -160,15 +160,11 @@ Response options: yes or no
 Response options: yes or no  
 *(answering no would disqualify the participant)*
 
-**5. Have you seen a healthcare provider in a VA medical center or other VA healthcare facility in the last 12 months?**  
-Response options: yes or no 
-*(Answering yes would qualify the participant as a Health care user)*
-
-**6. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack), and are you able to join the Zoom session using this assistive technology??** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
+**5. Do you need to use screen reader technology to use apps on your phone (such as VoiceOver or TalkBack), and are you able to join the Zoom session using this assistive technology??** Note: We ask this question because we want to make sure that our app works for people who rely on screen readers.  
 Response options: yes or no 
 *(If yes, proceed to question 6a)*
 
-**6a. How many years have you been using screen reader technology on your mobile device?**  
+**5a. How many years have you been using screen reader technology on your mobile device?**  
 Response options, checkbox list with text box:
 - Less than one year
 - 1 year
@@ -180,10 +176,14 @@ Response options, checkbox list with text box:
 ## Timeline
 
 ### Prepare
-* **We would like to request a 15 minute kick-off call with Perigean: before recruiting begins.**
+* **We would like to request a 25 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-  * Mon, March 25 10:30-11:30am, 12pm-1pm, or 2:30-6:30pm EST
-  * Tue, March 26 10-11:30am, 12pm-1pm, or 4:30-6:30pm EST
+  * **If build is ready 4/9:**  
+    * Tue, April 9 anytime between 10am-6pm EST
+    * Wed, April 10 10-11:30am and 2-6pm EST
+  * **If build is ready 4/23:**
+    * Tue, April 23 anytime between 10am-6pm EST
+    * Wed, April 24 10-11:30am and 2-6pm EST
 
 **We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
 - Screenreader pre-pilot participant email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
@@ -198,7 +198,7 @@ If release build is ready 4/9: **April 22-May 2**
 If release build is ready 4/23: **May 6-16**  
 
 ### Length of sessions
-* Sessions will be 60 minutes in length for non-screenreader participants, 90 minutes for screenreader participants.
+* Sessions will be 90 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
 * 30 minutes buffer in-between each session
 * No more than 3 sessions should be scheduled in one day
 
