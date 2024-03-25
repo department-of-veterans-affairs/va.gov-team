@@ -20,10 +20,12 @@ The Support Satisfaction Survey is the tool used for assessing the quality of su
 
 Understanding customer satisfaction is crucial for continuous improvement. 
 
+[Link to survey](https://ows.io/qs/ti97awtz)
+
 
 ## Accessing Data
 
-1. Go to OptimalWorkshop.com
+1. Go to [OptimalWorkshop.com](https://app.optimalworkshop.com)
 
 2. Use the Platform Research credentials to sign in
 
