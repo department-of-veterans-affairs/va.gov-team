@@ -13,6 +13,6 @@ Notes from a workshop during which we reviewed the above mapping with our VA SME
 
 ## Excel
 
-[CST-VBMS Value Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691168907291/9052f35e42c6dd4b4215475886833749673e58eb?sender=u80fb5a3b8f7951f35d701197)
+[CST-VBMS Value Map](https://dvagov.sharepoint.com/:x:/s/vaabdvro/Ea5oVgixA7pHveXKdEOppQYBpnoWvOyYHgifdMnBaxOP2A?e=wVEDnt)
 
 Raw documentation of VBMS compiled from a variety of sources including the VBMS User Manual.
