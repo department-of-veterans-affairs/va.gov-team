@@ -57,6 +57,7 @@ In the future, we also don’t need to reproduce existing notifications which in
   * If they exist, then we can set up a configuration not to trigger an email for those cases
     
 ## Solution Approach: 
+* UX research
 * 
   
 ## Technical Considerations:
@@ -67,7 +68,7 @@ In the future, we also don’t need to reproduce existing notifications which in
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-| dfdfd |   dfdfdfdf           |
+|  |             |
 
 
 ## Measuring Success:
