@@ -71,5 +71,5 @@ We adhere to the Platform guidelines on PR Best Practices: [VA Platform Develope
   - [Discovery Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-discovery-issue.md)
   - [Feature Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-feature-issue.md)
   - [Bug Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-bug-issue.md)
-  - [Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-eng-epic.md)
+  - [Epic Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/arf-epic.md)
 - Link PRs to the corresponding Zenhub issues if they exist.
