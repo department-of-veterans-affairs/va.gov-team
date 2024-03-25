@@ -50,11 +50,12 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 - Set flipper to the appropriate percentage of users.
 
 #### What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
-- [TBD - POPULATE SECTION OF PRODUCT OUTLINE?]
-- Qualitative feedback doesn't show issues related to the changes
+- Analytics signals that the functionality is being viewed by users:
+  - Google Analytics (GA) and Datadog (DD) show pageviews of the Personal health care contacts page
+  - DD/GA shows interactions on the page, including clicks on the `va-tel` components that allow a Veteran to tap-to-dial from a mobile device.
+- Qualitative feedback (pulled daily for the first 5 days of release and then weekly) doesn't show issues related to the changes
 - Datadog API logs and errors stay in baseline ranges
-- GA interactions events should be present for `ea: int-telephone-link-click va-additional-info` (indicating calls to change contact info)
-- ASK Chante/Contact Center team: could call center detect any red flags?
+- Contact Centers do not raise flags about excessive call volume or user-reported errors
 
 ### Stage A: Canary
 
