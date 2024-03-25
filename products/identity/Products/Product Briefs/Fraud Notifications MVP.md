@@ -47,7 +47,7 @@ In the future, we also don’t need to reproduce existing notifications which in
 | User          | Problem       | How does this solution address the problem?  |
 | ------------- |:------------ | -----:|
 |Veteran | Unusual device login could be fraudulent |Gives Vet a notification and course of action  | 
-|Veteran | Unusual IP login could be fraudlen  |Gives Vet a notification and course of action  |
+|Veteran | Unusual IP login could be fraudlent  |Gives Vet a notification and course of action  |
 
 
 ## Assumptions:
@@ -72,9 +72,12 @@ In the future, we also don’t need to reproduce existing notifications which in
 
 ## Measuring Success:
 | KPI           | Notes         | 
-| : ------------- |:------------- | 
-| What is the current "time to detect fraud" number? | [BDPR is currently measuring this] (https://docs.google.com/spreadsheets/d/1JKNTCMRDmgJh5jU--rOicPMqvw0zR00ze2X-VycFmOE/edit#gid=1457434547) |
+|  ------------- |:------------- | 
+| What is the current "time to detect fraud" number? | [BDPR is currently measuring this](https://docs.google.com/spreadsheets/d/1JKNTCMRDmgJh5jU--rOicPMqvw0zR00ze2X-VycFmOE/edit#gid=1457434547) |
 |For veterans whose account has suspected fraudulent activity, how long does it take them, on average, to report this to the VA?  | We don’t measure this yet (data from Contact Center) |
+| How long from when we send a notification to when they call in PLUS how long for BDPR to confirm as fraud? | |
+| How quickly does the BDPR team find potential fraud?(e.g. data needs to be conditional, cases that are fraud that we haven’t caught plus false positives) | |
+| Time to remediation for the event (what parts are in our control between the time we detect to BDPR closing ticket? note: ticket close happens when BDPR tells us they close the case in other words all account data is reverted) |
 
 
 ## Baseline KPI Values:
