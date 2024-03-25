@@ -80,8 +80,8 @@ Validate the participant uses the VA Health and Benefits app and get permission 
   * *If no: Move to next question.*
 * What other VA digital tools do you use? What are the reasons you use these tools instead of the health and benefits app?
   * _If they mention using the VA.gov website:_
-    * Do you use the MyVA dashboard on VA.gov?
-    * What has been your experience like using MyVA?
+    * Are you familiar with the My VA dashboard on VA.gov?
+    * How have you used it? Or What has your experience been like?
 * Ok, thank you for that.
 * ***If they have successfully logged into the app:** proceed to [Section 3 Evaluative Conversation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-3-evaluative-conversation-25-30-min)*
 * ***If they have not successfully logged into the app:** proceed to [Section 4 Thank you and closing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-4-thank-you-and-closing-5-minutes)*
