@@ -88,3 +88,36 @@ def get_in_progress_form(user_uuid, form_id)
   in_progress_form.data_and_metadata
 end
 ```
+
+## Get Submission and Evidence UUIDs (with Timestamps) for Testing with EMMS/CMP
+This script will grab *all* NOD submissions for a user, so add scopes as needed to only get NODs from a certain timeframe.
+```rb
+def get_uuids_for_downstream_testing(user_uuids)
+  results = {}
+
+  user_uuids.each do |user_uuid|
+    results[user_uuid] = []
+    appeal_subs = AppealSubmission.where(user_uuid:, type_of_appeal: 'NOD').order(created_at: :desc)
+    appeal_subs.each do |as|
+      data = {}
+      nod_uuid = as.submitted_appeal_uuid
+      data['Notice Of Disagreement UUID'] = nod_uuid
+      nod = AppealsApi::NoticeOfDisagreement.find(nod_uuid)
+      data['Notice Of Disagreement Timestamp'] = nod.created_at
+      unless nod.evidence_submissions.empty?
+        data['Evidence Uploads'] = []
+        nod.evidence_submissions.each do |es|
+          evidence_data = {
+            'UUID' => es.upload_submission.guid,
+            'Timestamp' => es.upload_submission.created_at
+          }
+          data['Evidence Uploads'].push(evidence_data)
+        end
+      end
+      results[user_uuid].push(data)
+    end
+  end
+
+  results
+end
+```
