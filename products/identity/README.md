@@ -87,14 +87,17 @@ Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are
 ## Requesting support from the Identity Team
 
 ### Need support from the Identity team? Try one of the following:
-- View our [troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md)
-- Create a GitHub issue using [our support template](https://github.com/department-of-veterans-affairs/identity-slackbot/issues/new?assignees=&labels=identity-slackbot%2C+identity-support%2C+OCTO-identity&projects=&template=identity-team-support-issue.md&title=)
-- Visit us during our team's [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support)
-- Email our product owner [Tom Black](https://dsva.slack.com/team/U04M9MH4LBW) at [thomas.black2@va.gov](thomas.black2@va.gov)
 
-**Click to learn more about our [products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products) and [how to get support from identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/requesting-support-from-Identity.md).**
+* For product support email one of our Product Managers. Mike King (Mike.King@oddball.io) or Jim Connelly (jim.connelly@oddball.io) **or** open an issue using [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml).
+*  For engineering support create a GitHub issue using [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml) and an Identity  engineer will respond within one business day.
+* You can also join one of our [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) meetings to meet with an Identity engineer directly. 
+* For authentication errors, reference our [troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) and look up your error code.
 
-### Want to use slack to get support instead?
-Type ```/help``` in the [#vsp-identity slack channel](https://dsva.slack.com/archives/CSFV4QTKN) to create a new support request and an identity team member will respond within two business days. You may also reference our [#vsp-indentity canvas](https://dsva.slack.com/archives/CSFV4QTKN) to learn more.
 
-Take our [satisfaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) to provide feedback on the support you recieved.
+Click to [learn more about our products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products) or [read our documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity)
+
+For information about our Sign In service onboarding process, please review our [Sign-In service (SiS) documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Servicehttps://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
+
+Identity team main point of contact: Tom Black, [thomas.black2@va.gov](thomas.black2@va.gov) and Samara Strauss [samara.strauss@va.gov](samara.strauss@va.gov)
+
+Have you worked with the Identity team before? Take our [satisfaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey).
