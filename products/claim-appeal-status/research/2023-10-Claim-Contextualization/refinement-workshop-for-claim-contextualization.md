@@ -71,9 +71,9 @@ Using the specifi job titles maybe overwhelming for Veterans. So we should keep 
 **2. Points in times where claim changes hand within the claim process**
 
 - step 2 (claims assistant), 
-- step 3 and 4 (VSRs another person, pre-develoment VSRs trained to do evidence gathering), 
-- step 5 (rvsr) another staff, 
-- step 6 (4th person, Senior VSR, post-development VSRs trained to generate letters, caluclate payments and pay the benefits assocaiated with the rating)
+- step 3 and 4 (Pre-develoment VSRs trained to do evidence gathering), 
+- step 5 (Rater, RVSR), 
+- step 6 (Senior VSR, Post-development VSRs trained to generate letters, caluclate payments and pay the benefits assocaiated with the rating)
 
 In Step 6, the VSR who generates the award and the letter calculates the payment amount for the veteran. If the claim is approved, they (the VSR) state the effective date and when the veteran can expect payment. Essentially, all the details of your award letter, whether it is approval or denial.
 
