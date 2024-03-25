@@ -1,14 +1,16 @@
 # Version one of the general error & outage procedures for EZ & EZR
-- Last updated: 3/19/2024
+- Last updated: 3/25/2024
 ---
 
 ## Acknowledge & communicate that there is an error or outage present
 - Should be handled by the Data Analyst & PM team first as they typically have eyes on this. However Devs should be receiving notifications that an error or outage is present (when an alert captures it) and can start preparing to address it. Commuinications are delivered through the health-tools-1010-apm channel on DSVA Slack.
 
+
 ## Informing Product Owners that there is a problem
 - PMs can inform the stakeholders that there is an issue. Stakeholders to reach out to will depend on the nature of the problem and where the issue is stemming from. The forms are dependent on different external services per se but the top of the list of folks that need to be informed are:
      - Patrick Bateman
      - Kristen McConnell
+
 
 ## Review the errors (if any) and VA.gov monitors to determine if the root cause is on the form or sitewide
 - Data analyst is the first one on the scene here; Check logs to determine a root cause if possible (DD, Sentry, etc.). But as the investigation furthers past the dev op tools in place, Dev team will be pulled in shortly there after these sources have been exhausted. Maybe bring in UX folks to ask if there were content changes made in the recent days that could have impacted anything on site.
@@ -20,6 +22,7 @@
 ## Mini Check Ins through out the first 4-6 hours of response
 - Analyst can set up a call during the investigation with Dev / Analyst / PMs
 - Devs (when possible) to communicate a root cause when identified with the broader team. Or update the team that a cause is still unidentified within the first hours of the triage process. PMs can forward the updates as they come in.
+
 
 ## Inform Product Stakeholders (HEC)
 - PMs can inform the stakeholders that there is an issue, or communicate that the scope of the issue extends outside of the code base we have access to with color commentary given by Devs when needed. 
@@ -41,6 +44,11 @@
           - Patrick Vinograd
           - Rachel Cassity
           - Ryan McNeil
+
+## In the event of an error or outage in the afternoon of pacific time (i.e. east coast evening time) there will be a modifided procedure 
+- The PM that is still online will acknowledge & communicate that there is an error or outage present and inform Product Owners that there is a problem.
+- The issue at hand may have to wait to be fully triaged until the next morning because right now, all of our 1010 Devs & Data analyst staff are ET or CT, they would not be online to address the issue in the momment.
+- The following morning the Devs / Analyst will be brought up to speed on the situation and can resume the regular chain of commnication and triage for the issue. 
 
 
 ## Start postmortem and document timeline as you go
