@@ -1,4 +1,4 @@
-# DRAFT VA Mobile App: Personalized Home Screen Evaluative Research - Conversation Guide
+# VA Mobile App: Personalized Home Screen Evaluative Research - Conversation Guide
 March 2024
 
 ### Moderator logistics
