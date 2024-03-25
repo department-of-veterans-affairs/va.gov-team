@@ -122,7 +122,7 @@ When will the thing you are testing be finalized? Ideally it's ready a week befo
 We will finalize key tasks and test set up on Optimal Workshop by March 26, 2023
 
 ### Research sessions
-- Planned dates of research: 3/27/24 start until whenever we receive roughly 40 completed tests
+- Planned dates of research: 4/1/2024 start until whenever we receive roughly 40 completed tests
 - Participants will be able to complete the online activity anytime after receiving the invitation email
 - Reminders will be sent as needed
 - Recruiting may continue throughout testing period to ensure we meet minimum participant numbers
