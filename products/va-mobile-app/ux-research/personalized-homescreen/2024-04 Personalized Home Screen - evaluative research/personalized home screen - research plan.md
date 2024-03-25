@@ -82,7 +82,7 @@ This research will help us understand if/how the personalized app home screen de
 ### Evaluative Study (remote, moderated)
 
 #### Method
-* We want to conduct moderated, remote, think-aloud user interviews with usability testing using a pre-release build of the VA mobile app. The non-screenreader user interviews will be 60 minutes in length, and we expect the screenreader user interviews to be 120 minutes in length.  
+* We want to conduct moderated, remote, think-aloud user interviews with usability testing using a pre-release build of the VA mobile app. The non-screenreader user interviews will be up to 60 minutes in length, and we expect the screenreader user interviews to be up to 120 minutes in length.  
 * We will conduct the research in two blocks, for simpler analysis & less researcher context-switching: 
   * Screenreader users scheduled in a block (with a11y ride along support)
   * Non-screenreader users scheduled in a block
@@ -109,20 +109,20 @@ We will recruit Veteran participants using a lean maximum variation strategy. We
 
 
 ### Recruitment criteria
-Recruit 24 Veterans for a minimum of 12 successfully completed sessions.
+Recruit 18 Veterans for a minimum of 10 successfully completed sessions.
 
 #### Primary criteria
 * All participants must be iPhone or iPad users (Android will not work).
 * All participants must be willing to do an activity from their iPhone or iPad device that requires tapping a link to install a special version of the VA Health and Benefits mobile app on their phone and sharing their screen via Zoom during the setup and activity.
 * All participants must be able to independently log into the VA Health and Benefits mobile app using their VA login credentials.
   * Please confirm via phone follow-up that if the user were to get logged out of the app suddenly, they are able to log back in on their own using their credentials. 
-* At least 8 participants should be active monthly users of the VA Health and Benefits mobile app.
+* At least 9 participants should be active monthly users of the VA Health and Benefits mobile app.
   * An active monthly user is defined as a Veteran who accesses the app more than 1 time per month in order to review information or do a task.
     * Please do confirm via phone that the participant uses the VA Health and Benefits Mobile App
       * To confirm, ask them to tell you the version of the app that they have installed (Version number is located at the bottom of the app’s splash screen, the format is "#.#.#").
 * All participants should have an active VA claim and/or appeal.
-* At least 8 participants should be users of VA health care.
-* At least 8 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
+* At least 9 participants should be users of VA health care.
+* At least 9 participants live in a rural area (seeing potential internet connectivity differences are important to the study)
 * At least 4 participants should have 2 or more years of experience using a screenreader (VoiceOver, Talkback) on their mobile device
 
 #### Secondary criteria: 
