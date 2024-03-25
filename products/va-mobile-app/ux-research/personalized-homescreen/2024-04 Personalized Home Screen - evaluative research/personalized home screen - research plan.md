@@ -136,7 +136,7 @@ Recruit 18 Veterans for a minimum of 10 successfully completed sessions.
 To assess potential participants' experiences with VA benefits or services, please use their answers to the Digital Service at VA User Research Participant Recruiting Screener Questionnaire question “Which VA benefits or services do you have any experience with?".
 
 #### Screener questions
-**1. Are you able to join the Zoom session using an iPhone or iPad?**  Note: Android mobile phones will not work for the session  
+**1. Are you able to join the Zoom session using an iPhone or iPad?**  Note: Android mobile phones or tablets will not work for the session  
 Response options: yes or no  
 *(If yes, proceed to 1a. If no, disqualify the participant)*
 
