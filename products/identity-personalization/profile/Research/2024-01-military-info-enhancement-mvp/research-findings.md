@@ -18,7 +18,7 @@ _If there’s a deck:_ [Research readout](link here)
 
 ## Research Goals
 
-Currently within a veteran’s authenticated Profile, veterans can read minimal information about their service details: namely, which branch(es) they served in and dates of service. Recently, VEO asked the VA.gov profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims). As a result of this request, we're looking into the feasibility of adding duty status, military occupation specialties (MOS), and occupation start/end dates to Profile as an MVP, since these data elements have the best quality at the moment.
+Currently within a veteran’s authenticated Profile, veterans can read minimal information about their service details: namely, which branch(es) they served in and dates of service. Recently, VEO asked the VA.gov Profile team to enhance the military history section of the profile in order to aid veterans applying for benefits (especially disability claims). As a result of this request, we're looking into the feasibility of adding duty status, military occupation specialties (MOS), and occupation start/end dates to Profile as an MVP, since these data elements have the best quality at the moment.
 
 **Goal 1**: Gain a better understanding of veteran mental models regarding their service occupations in order to inform how we present military information data, depending on data completeness and quality.
 
