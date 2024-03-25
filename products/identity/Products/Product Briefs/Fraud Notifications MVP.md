@@ -23,9 +23,11 @@ In addition, Veterans can take immediate steps, such as changing passwords, revi
 - [UX Research Mural](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1709058764550/6122e5571e28b17c72781cf20646550887475202?sender=u8f85d3b7f2143f85bb7a9248)
 
 ## What's In Scope (MVP) 
-After 
+After the initial round of research, we've decided on a simple MVP.
 
-For the MVP, Email alert to a user when their account is signed into by an unusual device or IP address.
+Email alert to a user when their account is signed into by:
+* An unusual device.
+* An unusual IP address.
 
 ## Out of Scope: (MVP)
 As an offshoot of this work, we are interested in consolidating management of the various potential fraud related notifications. We don’t want to create another alert message that is managed by another team in another place. We believe that fewer teams managing notifications in fewer places will allow the VA’s messaging to veterans to be more cohesive and reduce confusion for all parties.
@@ -71,7 +73,7 @@ In the future, we also don’t need to reproduce existing notifications which in
 ## Measuring Success:
 | KPI           | Notes         | 
 | : ------------- |:------------- | 
-| | What is the current "time to detect fraud" number |
+| | What is the current "time to detect fraud" number? | We have this and are currently measureing it.
 
 
 ## Baseline KPI Values:
