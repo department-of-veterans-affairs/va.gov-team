@@ -1,4 +1,4 @@
-# (WIP) Accessible record of an appeal submission
+# Accessible record of an appeal submission
 Research and Design: Eileen Chi
 Moderator: Eileen Chi
 Product: Sade Ragsdale
@@ -65,7 +65,7 @@ This research also touches on aging and managing new needs for those that develo
 2. Veterans prefer saving a digital or physical hardcopy of their submission rather than returning to a page on VA.gov
 3. Veterans found the next steps section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
 4. Veterans using screen readers expect multiple methods of contact, and prefer being notified by email.
-5. Veterans use headers and search to navigate a page, and there is a mixed reaction to the use of lower level headers.
+5. Veterans use headings and search to navigate a page, and there is a mixed reaction to the use of lower level headings.
 6. Veterans using screen readers expect to receive PDFs from VA and rely on alternate methods to read them when they’re inaccessible.
 
 ### Finding 1
@@ -130,7 +130,7 @@ Veterans using screen readers expect multiple methods of contact, and prefer bei
 > This would be one where it'd be great if yeah, we had some options on how we wish to receive that information, but other than that, everything else was pretty good with it. - **P7**
 
 ### Finding 5
-Veterans use headers and search to navigate a page, wanting the H1 to be more descriptive of the page, and a mixed reaction to the use of lower level headers.
+Veterans use headings and search to navigate a page, wanting the H1 to be more descriptive of the page, and a mixed reaction to the use of lower level headings.
 > Once you mentioned the headings, sometimes the headings are great, sometimes headings are bad. It's easier to hit next heading, then to search. Sometimes I'll also pull up a taggable of links on the page, or all the headings you. - **P18**
 
 > I might almost say here (in the form details), we have too many headings -- I don't personally like headings in forms that much. I prefer they have the form labels. I don't know why headings in forms: it's just more I have to listen to. I'm not the most patient in the world. Even a level 5, I'm still reading it with the letter H. I don't personally do H1 or H2 -- I just do H to get to the section I want to go to without listening to all the other crap.  - **P5**
