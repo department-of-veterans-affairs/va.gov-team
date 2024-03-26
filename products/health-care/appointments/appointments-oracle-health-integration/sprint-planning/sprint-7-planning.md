@@ -21,11 +21,12 @@ Post any DSU updates if you are unable to attend
 * ✅🟡 Onboarding and Integration
   * This is now complete 
 ## 📋 Previous Sprint Summary:
-
+In Sprint 6 we completed our goal to onboard all new team members, and we began documenting our local development and debugging setup to make it easier for any new team members to get their environment set up locally.   Additionally, we were able to start the VAMFAT review process for VetsAPI Patient Gateway (VPG) and Cerner Fhir Adapter. These reviews require OCC approvals before they can be deployed to production, and it typically takes about two months to secure approvals, so we are on schedule. We made good progress on our goal to support appointment scheduling at Oracle Health sites by creating an Oracle Health appointment slot search feature flag that toggles VetsAPI routing of slot requests to VPG, which was updated with the ability to find appointment slots at Oracle Health sites.  VPG also was updated to have a cancellable value on Oracle Health appointments retrieved from VAOS, and a facility configuration endpoint was created for retrieving available clinical services for a list of VistA or Oracle Health site Ids.
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint 
 * 🟦  GOAL: Support Oracle Health Slot Search
   * 🚧[#76083 Search for open appt slot at OH facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/76083) - in review
+  * 🚧 [CES-220 VPG: Find Cerner appointmet slots](https://issues.mobilehealth.va.gov/browse/CES-220) - in review
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
    * [CES-315 CES: support appointment search date param](https://issues.mobilehealth.va.gov/browse/CES-315)
    * [CES-341 Update cerner serviceType code mappings](https://issues.mobilehealth.va.gov/browse/CES-341)
