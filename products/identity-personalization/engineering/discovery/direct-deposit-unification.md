@@ -46,7 +46,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
 
 #### Expanded plan with further details
 
-1. Create a new Redux state for the direct deposit information:
+1. [x] Create a new Redux state for the direct deposit information:
    - Define a new reducer file at `reducers/directDepositInformation.js`.
    - Create initial state for `directDepositInformation` and `directDepositInformationUiState`.
    - Create actions and action creators for fetching, updating, and handling errors example action name: `DIRECT_DEPOSIT_FETCH_STARTED`
@@ -57,7 +57,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
    - Implement API calls and actions for fetching and updating direct deposit information.
    - Ensure that the new actions are dispatched appropriately based on the user's interactions.
 
-3. Create a new `DirectDeposit` component. We already have a base set up for the route entry, but this is the actual implementation details
+3. [x] Create a new `DirectDeposit` component. We already have a base set up for the route entry, but this is the actual implementation details
    - Connect the component to the Redux store using `connect` from `react-redux`.
    - Map the relevant state and dispatch actions to the component's props.
    - Either set up a context provider or pass actions to children via props
