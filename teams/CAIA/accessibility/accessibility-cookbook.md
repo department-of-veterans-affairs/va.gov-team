@@ -100,7 +100,31 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 ### Implementation notes
 
-[Link to flow chart; in progress]
+![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/CAIA/accessibility/bin/button-or-link.png)
+#### Should this be a button or link?
+
+  - **Is the purpose of the control to navigate elsewhere?**
+    - Yes
+      - Examples: Going to a page; Going to a static file, like a PDF
+      - **Is data submitted before navigation?**
+        - Yes
+          - Examples: Sending data to a server or saving client side before moving to a new page, like a form
+          - _Make it a Button_
+        - No
+          - **Does it need to stand out from surrounding design elements?**
+            - No
+              - Examples: Link in body text; Link in the footer of a form; Links in a menu
+              - _Make it a Link_
+            - Yes
+              - Examples: A link to a page which will begin a new form; A link on a page with an existing button as the primary action that’s needs more visual weight than other links
+              - _Make it an Action Link_
+    - No
+      - **Is the purpose of this control to generate data for a file?**
+        - Examples: Creating a PDF from a web page; Creating a PDF from data on the server
+        - Yes
+          - _Make it a Link_
+        - No
+          - _Make it a Button_
 
 ### Further reading
 
