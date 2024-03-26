@@ -1,4 +1,4 @@
-## 2023-12-in-person-proofing-pilot-Veteran-usability-test 
+## 2023-12-in-person-proofing-Veteran-usability-test 
 
 ### OCTO
 
