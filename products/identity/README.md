@@ -86,18 +86,25 @@ Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are
 
 ## Requesting support from the Identity Team
 
-### Need support from the Identity team? Try one of the following:
+### Need support from the Identity team?
 
-* For product support email one of our Product Managers. Mike King (Mike.King@oddball.io) or Jim Connelly (jim.connelly@oddball.io) **or** open an issue using [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml).
-*  For engineering support create a GitHub issue using [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml) and an Identity  engineer will respond within one business day.
-* You can also join one of our [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) meetings to meet with an Identity engineer directly. 
-* For authentication errors, reference our [troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) and look up your error code.
+**Support resources**
+
+* Read our [authentication troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) to resolve common errors.
+* Learn more about our [Sign-in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) and how to get started.
+* Submit a request to our team directly in Github:
+    * [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml): for authentication help, PR reviews, SiS setup and support, or technical questions.
+    * [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml): for data requests, SiS information and onboarding, or new projects.
+* Attend [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/office-hours.md) with our team weekly on Thursdays.
+
+**Our team**
+
+* Product managers: Mike King ([Mike.King@oddball.io](Mike.King@oddball.io)) and Jim Connelly ([jim.connelly@oddball.io](jim.connelly@oddball.io)).
+* VA point of contact: Tom Black ([thomas.black2@va.gov](thomas.black2@va.gov)) and Samara Strauss ([samara.strauss@va.gov](samara.strauss@va.gov)).
+
+**Resources:** [Support Process Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Support%20Process)
+
+Have you worked with the Identity team before? [Share your feedback](https://dj540s05.optimalworkshop.com/questions/52low0ey) :pray:
 
 
-Click to [learn more about our products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products) or [read our documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity)
 
-For information about our Sign In service onboarding process, please review our [Sign-In service (SiS) documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Servicehttps://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service).
-
-Identity team main point of contact: Tom Black, [thomas.black2@va.gov](thomas.black2@va.gov) and Samara Strauss [samara.strauss@va.gov](samara.strauss@va.gov)
-
-Have you worked with the Identity team before? Take our [satisfaction survey](https://dj540s05.optimalworkshop.com/questions/52low0ey).
