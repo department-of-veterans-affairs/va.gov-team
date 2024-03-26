@@ -120,9 +120,9 @@ This initiative proposes two strategies for engaging the VA Benefits subreddit: 
 * Product Medallia Scores
 * The content of qualitative feedback scraped from the subreddit
     * Positive vs. negative feedback over time
-* # of successful initiatives 
-* # of critical bugs surfaced
-* # of critical bugs fixed
+* Number of successful initiatives 
+* Number of critical bugs surfaced
+* Number of critical bugs fixed
 
 
 ## Discovery Takeaways
