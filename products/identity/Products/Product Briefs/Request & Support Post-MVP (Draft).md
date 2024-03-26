@@ -19,6 +19,7 @@ In addition, we created:
 - Github Support Template
 - Documentation that explained how we supported each of the three kinds of requests detailed above.
 - Satisfaction Survey
+  - Dashboard to display metrics gathered from customer survey.
 
 ## Problem Statement: 
 Now that we have an MVP of the Request & Support out in the world, we need to iterate on it so that it covers all of the request types, refine the process by which we fulfill requests and measure how we are doing.
@@ -34,7 +35,6 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 ## Potential deliverables:
 - New Request Types in ID Bot.
 - New Request Type Fulfillment Processes in Github.
-- Dashboard to display metrics gathered from customer survey.
 - Automation of ID Bot responses to certain situations in process flow.
 
 ## What's In Scope:
