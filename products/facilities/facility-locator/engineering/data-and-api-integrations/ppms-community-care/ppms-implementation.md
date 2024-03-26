@@ -111,10 +111,10 @@ Course Expiration Date
 PPMS Swagger - Allows you to get the raw data from PPMS but is limited because you can't alter requests except for the options that Swagger gives you.
 Alternative 
 - [Get access to ArgoCD vets-api rails console](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose)
-- Adding logs to vets-api - got merged into staging or production
-- then go into ARGO (open issue and request permission)
+- Adding logs with limitations to show only on dev to vets-api - get merged into dev
+- Go into ArgoCD
 - Go into pod
-- Go into rails console and look at logs to compare what was being
+- Go into rails console and look at logs to compare what was being sent
   
 Max suggested if you make changes to vets-api models write down what you're changing and what you need from the data so that you can repeat steps and recover changes.
 
