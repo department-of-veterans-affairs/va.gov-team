@@ -1,7 +1,7 @@
 
 ## Attributes to monitor
-|Attribute|Definition|Impact|Units|Datadog Syntax|Status|
-|---------|----------|------|-----|--------------|------|
+|Attribute|Definition|Impact|Units|Status|
+|---------|----------|------|-----|------|
 |VA.gov - Endpoint error count|Number of non-200,201 status codes to va.gov endpoints|We're the first to know if our application begins experiencing errors|Count per `time_unit`|**Implemented**|
 |Travel Pay API - Endpoint error count|Number of non-200,201 status codes to travel pay API endpoints|We're the first to know if our application begins experiencing errors|Count per `time_unit`|Not Implemented|
 |VA.gov - Sustained high latency|p90 latency measures above `x` for `time`|Downstream system is unresponsive OR va.gov code is not performant|`seconds`|Not Implemented|
