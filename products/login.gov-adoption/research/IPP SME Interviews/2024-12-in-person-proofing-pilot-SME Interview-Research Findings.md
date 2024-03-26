@@ -4,31 +4,8 @@ OCTO
 
 Secure Sign In Transition
 
-March, 25, 2024
+Last updated on: March, 25, 2024
 
-Researchers 
-
-Sophia Philip
-
-Sofia Kirkman
-
-[Carl Dickerson](mailto:carl@themostudio.com)
-
-Josie Griffith
-
-Table of Contents
-
-[Research Goals  1](https://docs.google.com/document/d/1VTA9Ls96AGnzZD86WTQVJFvoQUhinvIHHZ3kPPVth4o/edit#heading=h.z0qzqa4nm8y6)
-
-[Research Questions  1](https://docs.google.com/document/d/1VTA9Ls96AGnzZD86WTQVJFvoQUhinvIHHZ3kPPVth4o/edit#heading=h.f06vtlkrgm8v)
-
-[Methodology  2](https://docs.google.com/document/d/1VTA9Ls96AGnzZD86WTQVJFvoQUhinvIHHZ3kPPVth4o/edit#heading=h.9kyv7yrqnoq3)
-
-[Participant Demographics  2](https://docs.google.com/document/d/1VTA9Ls96AGnzZD86WTQVJFvoQUhinvIHHZ3kPPVth4o/edit#heading=h.xfr9jbsep584)
-
-[Hypotheses and Conclusions  2](https://docs.google.com/document/d/1VTA9Ls96AGnzZD86WTQVJFvoQUhinvIHHZ3kPPVth4o/edit#heading=h.6ziastyloq0g)
-
-[Key Findings  6](https://docs.google.com/document/d/1VTA9Ls96AGnzZD86WTQVJFvoQUhinvIHHZ3kPPVth4o/edit#heading=h.ucvqk3osfkcz)
 
 Research Goals
 ==============
