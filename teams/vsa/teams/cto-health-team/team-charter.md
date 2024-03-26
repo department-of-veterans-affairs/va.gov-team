@@ -117,6 +117,7 @@ Review and demonstrate accomplishments and work completed.
 
 - Every other Wednesday @ 1:05 PM ET
 - 45 minutes
+- Link to sprint demo recordings: VA network SharePoint site
 
 #### Team Norms
 - Team crosses all US time zones so core business/meeting hours are 12-4PM ET.
@@ -128,6 +129,7 @@ Review and demonstrate accomplishments and work completed.
 - Communication and collaboration
 - Action over discussion
 - Ask for help when needed - from your team members as well as OCTO.
+- Making a difference and providing value to veterans.
 
 ##### Program Meetings
 
