@@ -37,7 +37,7 @@ Below are some documents worth calling out specifically:
 - **Product Owner:** Jennifer Bertsch - [jennifer.bertsch@va.gov](mailto:jennifer.bertsch@va.gov)
 - **Engineering Lead:** Sam Raudabaugh - [samuel.raudabaugh@va.gov](mailto:samuel.raudabaugh@va.gov)
 - **Design Lead:** Lesley Ropp - [lesley.ropp@va.gov](mailto:lesley.ropp@va.gov)
-- **Product Manager:** Rivka Gates - [rivka.gates@agile6.com](mailto:rivka.gates@agile6.com)
+- **Product Manager:** Mike Marinos - [mike@agile6.com](mailto:mike@agile6.com)
 - [View Full ARF Team Roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
 
 ### Team Agreements
@@ -58,4 +58,8 @@ Learn about our engineering working style and agreements: [ARF Engineering Agree
 
 ### Communication
 
-Got questions or want to get in touch? Join us on the DSVA Slack channel: [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW).
+Do you have questions or want to get in touch? Join us on the DSVA Slack channel: [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW).
+
+To reach out to ARF engineers on Slack, message @arfeng
+
+To tag engineers on Github PRs, tag: [benefits-accredited-rep-facing]([url](https://github.com/orgs/department-of-veterans-affairs/teams/benefits-accredited-rep-facing)https://github.com/orgs/department-of-veterans-affairs/teams/benefits-accredited-rep-facing)
