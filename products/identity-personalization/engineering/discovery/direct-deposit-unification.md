@@ -73,7 +73,7 @@ Where do we refactor and clean up the existing logic to learn from any past mist
    - Error messages need to be updated with non-benefit specific language
    - Update the error handling actions and reducers to work with the new `directDepositInformation` state.
 
-6. Update the `Profile` component and feature toggle:
+6. [x] Update the `Profile` component and feature toggle:
    - Map relevant new state and actions into Profile, since this is where the intial api calls get triggered from
    - Update the profile blocking logic for deceased / fiduciary / incompetent to work for legacy and new experience. This will be one area that will be slightly messy as it will need to work with toggle on or off with the same UI.
 
