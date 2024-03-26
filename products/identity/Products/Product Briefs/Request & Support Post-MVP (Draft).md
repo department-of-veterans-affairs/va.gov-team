@@ -53,7 +53,6 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 * Slackbot message automation.
    * When a request is assigned.
    * When a request is closed.
-* Dashboard displaying results of Satisfaction Survey.
 * Identity Team branding updates
 * Identity Team documentation updates.
 * Letting the world know there are new choices in the slackbot
