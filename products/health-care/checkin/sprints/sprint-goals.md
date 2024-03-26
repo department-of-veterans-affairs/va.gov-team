@@ -28,7 +28,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [Send Email when eCheck-in, Pre-Check-in, or Travel is down ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78966)
+    - ❗ 🟩 [Send Email when eCheck-in, Pre-Check-in, or Travel is down ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79308)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - TBD
