@@ -211,7 +211,7 @@ If release build is ready 4/23: **May 6-16**
      * Wed 4/24: 10am-6pm EST/9am-5pm CST
      * Thu 4/25: 10:30am-6pm EST/9:30am-5pm CST
      * Mon 4/29: 10:30am-6pm EST/9:30am-5pm CST
-     * Tue 4/30: 10am-6pm EST/9am-5pm CST
+     * (if needed) Tue 4/30: 10am-6pm EST/9am-5pm CST
   * Screenreader users
      * Wed 5/1: 10am-6pm EST/9am-5pm CST
      * Thu 5/2: 10:30am-6pm EST/9:30am-5pm CST
@@ -223,7 +223,7 @@ If release build is ready 4/23: **May 6-16**
      * Wed 5/8: 10am-6pm EST/9am-5pm CST
      * Thu 5/9: 10:30am-6pm EST/9:30am-5pm CST
      * Mon 5/13: 10:30am-6pm EST/9:30am-5pm CST
-     * Tue 5/14: 10am-6pm EST/9am-5pm CST
+     * (if needed) Tue 5/14: 10am-6pm EST/9am-5pm CST
   * Screenreader users
      * Wed 5/15: 10am-6pm EST/9am-5pm CST
      * Thu 5/16: 10:30am-6pm EST/9:30am-5pm CST
