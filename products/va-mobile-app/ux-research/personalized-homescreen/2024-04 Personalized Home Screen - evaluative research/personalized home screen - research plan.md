@@ -224,7 +224,6 @@ If release build is ready 4/23: **May 6-16**
      * Thu 5/9: 10:30am-6pm EST/9:30am-5pm CST
      * Mon 5/13: 10:30am-6pm EST/9:30am-5pm CST
      * Tue 5/14: 10am-6pm EST/9am-5pm CST
-
   * Screenreader users
      * Wed 5/15: 10am-6pm EST/9am-5pm CST
      * Thu 5/16: 10:30am-6pm EST/9:30am-5pm CST
