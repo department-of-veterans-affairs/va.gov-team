@@ -1,6 +1,6 @@
 ## Medallia Feedback: February 2024
 
-Debt Portal Feedback
+## Debt Portal Feedback
 
 **Summary and opening:**
 
@@ -59,3 +59,18 @@ More than 300 Veterans left qualitative feedback on the debt portal pages in Feb
 *Been hung up on after lengthy wait times 3 times now. The website you refer me to just refers me back to this number.*
 
 *I would like to pay my Copay. However I have dialed the 866 number multiple times and was on hold. I find it difficult to fill out the GovPay form each time to pay my bills. My banking ACH info should already be on file .*
+
+
+## FSR Feedback
+
+Less than 20 Veteans left qualitative feedback on the FSR pages. 
+
+**Quotes from feedback:**
+
+*I am trying to get financial and legal assistance. I have been homeless and jobless for over three years now. I have medical and legal bills that I need help to paying. I did not do these crimes. So far this site has been very helpful for me. Thank you very much.*
+
+*We cannot pay bill because we don't know how much it is or what it is for.*
+
+*I have been making payments on my outstanding VA statement but never being able to pay it off in full. I am an 80 year old handicapped Veteran on a limited budget and pay what I can. For the first several years I was not charged for VA medical service. Then in the past I was refund what I paid in the previous year but that has not happened for year 2024. Please review my account and offer any help for future and past payments. Thank You*
+
+*I am disturbed that a year old charge has appeared several times. I thought I had paid for those sessions earlier-I thought I remembered some of those sessions were paid for, previously.*
