@@ -1,7 +1,10 @@
 # Accessible record of an appeal submission
 Research and Design: Eileen Chi
+
 Moderator: Eileen Chi
+
 Product: Sade Ragsdale
+
 Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 
 ## Background
