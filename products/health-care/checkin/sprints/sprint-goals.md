@@ -15,7 +15,7 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-    - **Sub Goal: Submit Q1 Translations to the State Department**
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Address Tech Debt**
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
@@ -23,7 +23,7 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- NONE
+- Pre-Check-in: Handle 4 Modalities
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -40,14 +40,26 @@ ________________________________________________________________________________
         - TBD
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
+        - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
            - Some work completed in previous sprints, need to determine what's left
+        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+        - 🟦 [[BE] Implement VAOS Appointment Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
+        - 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+        - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
+        - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
+        - 🟩 [[FE] Pre-Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72857)
+        - 🟩 [[FE][CHIP] Pre-Check-In enabled for CVT, VVC, and phone appointments - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72862)
+        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72624)
+        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
+        - 🟪🟩🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
+            - Need to verify with Kay when she wants this to go out
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
-    - 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
+   - 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77711)  
     - **Sub Goal: Move to New AWS Instance**
@@ -115,6 +127,8 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
            - Rolled over from last sprint
 - **GOAL: Address Tech Debt**
+    - 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+        - Pulled in halfway through sprint (3/26)
     - 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - 🟩 [[FE] Add back to last screen on /contact-information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78803)
     - 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
