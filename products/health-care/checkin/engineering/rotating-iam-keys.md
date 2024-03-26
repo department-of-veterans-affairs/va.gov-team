@@ -10,11 +10,13 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
     - Navigate to `IAM` > `Users` > `CMS-service-account-1` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, select the use case of `other` and make sure to copy secret key. (github)
     - Navigate to `IAM` > `Users` > `CMS-service-account-2` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, select the use case of `other` and make sure to copy secret key. (Datadog)
 1. Update AWS Secrets Manager
+![Screenshot 2024-03-26 at 2 47 37 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/2982977/0412938a-a974-4977-ba11-6a16f0c86934)
     - Navigate to `AWS Secrets Manager` > `Secrets`
     - Update `tevi/cms_service_account_1/aws_access_key_id`
     - Update `tevi/cms_service_account_1/aws_secret_access_key`
     - Update `tevi/cms_service_account_2/aws_access_key_id`
     - Update `tevi/cms_service_account_2/aws_secret_access_key`
+
 1. Reach out in #vetext-engineering channel on slack when rotating `CMS-service-account-2`. VeTEXT Datadog uses that keypair for tracking vista-api.
 1. Update Datadog
     - Log in to Datadog
