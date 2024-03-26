@@ -30,7 +30,7 @@ Team Name - Cartographers
 - [ ] Wes Rowe (Product Manager)
 - [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
-- [ ] Keith Cheung (Designer)
+- [ ] Vacant (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Jim Zaccardo (Full stack developer)
 - [ ] Richard Davis (Full stack developer)
