@@ -178,6 +178,7 @@ Veterans using screen readers rely on alternate methods to read inaccessible PDF
 > They changed the login process for you, but the app was surprisingly easy, because you were able to use the app with Pr. As I said surprisingly, I figured I had to go find I found my password and all of that which is stored but then, when I went in it was face ID had already set up, and bingo I was in. - **P1** 
 
 4. Reader mode hides certain components, rendering the page inactionable.
+
 One Veteran went through the prototype using Reader mode on Safari. In Reader mode, we saw that a few of the important components were hidden. These included: alert, PDF download link, telephone number, and buttons. 
 
 ## Recommendations
