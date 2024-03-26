@@ -1,6 +1,6 @@
 name: Identity Product Support
 description: For requesting support from the identity product team
-labels: "Identity, Identity Product Support"
+labels: "Identity,identity-product-support"
 body:
 - type: textarea
   attributes:
@@ -10,7 +10,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      This is a GitHub issue template for users and teams who need support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products).
+      This is a GitHub issue template for users and teams who need product support services from the Identity team such as large data requests, SiS information and onboarding, or new projects. Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. For engineering support please use [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml).
 
       ### **To properly assist with your issue, please complete the following:**
 
