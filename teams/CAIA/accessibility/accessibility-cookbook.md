@@ -62,8 +62,6 @@ How might we create a heading structure on pages and forms that help everyone, p
 3/6/24
 
 ***
-> [!CAUTION]
-> **DRAFT:** The following section on buttons and links is a **WIP**.
 
 ## Choose the right element: Buttons vs. links
 
@@ -101,6 +99,7 @@ Assistive technology users rely on proper semantics to access web content. They 
 ### Implementation notes
 
 ![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/CAIA/accessibility/bin/button-or-link.png)
+
 #### Should this be a button or link?
 
   - **Is the purpose of the control to navigate elsewhere?**
