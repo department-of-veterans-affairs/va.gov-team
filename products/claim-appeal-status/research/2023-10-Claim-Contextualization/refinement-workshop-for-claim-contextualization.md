@@ -66,16 +66,16 @@ As a whole, missing dates aren't typically the main reason for delays in the pro
 
 **1. Avoid using job titles when decribing the claims process**
 
-Using the specific job titles maybe overwhelming for Veterans. So we should keep it general. If the studies show (referring to the claims contextualization user research) participants did appreciate seeing that there was a change of hands between staff and not sitting on one person's desk, We can use generaic terms like service representative or reviewer.
+Using specific job titles may be overwhelming for veterans, so we should keep it general. If the studies show (referring to the claims contextualization user research) that participants appreciated seeing that there was a change of hands between staff and not just sitting on one person's desk, we can use generic terms like service representative or reviewer.
 
 
-**2. Points in times where claim changes hand within the claim process**
+**2. Particular stages in the claim process where the claim transitions between staff.**
 
 
 | Steps | VA titles | Suggested Generalize title |
 |----------:|-------------|------|
 | Step 2 |  Initial Reviewer | Claims assistant|
-| Step 3 and 4 |    Pre-develoment VSRs <br> (trained to do evidence gathering)   | ??? |
+| Step 3 and 4 |    Pre-develoment VSRs <br> (trained to do evidence gathering)   | Evidence evaluator |
 | Step 5 | Rating Veterans Service Rep. (RVSR) | Rater |
 | Step 6 | Senior VSR, Post-development VSRs  <br> (trained to generate letters, calculate payments and pay the rated benefit) |  Decision Processor |
 | Step 7 | Senior VSR, Post-development VSRs  <br> (conducts final review and authorizes the release) | Senior reviewer |
