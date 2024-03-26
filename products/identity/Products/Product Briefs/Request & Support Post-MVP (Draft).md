@@ -72,7 +72,6 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 |Va.gov product team member  | I have questions about USiP. | USiP choice in ID Bot  |
 |Identity team member | I'd like to automatically let users know when their project has been assigned to someone | "The project has been assigned" update from Github to ID Bot |
 |Identity team member | I'd like to automatically let users know when their project finished | "The project has been closed" update from Github to ID Bot  |
-|Identity team member | I'd like to know how we are doing in terms of fulfilling requests | Satisfaction Survey dashboard |
 |Identity team member | I'd like to reduce the % of requests we get that are for other teams | Identity Team branding as deflection |
 |Identity team member | I'd like to reduce the % of requests we get that could be self-service | Identity Team documentation updates |
 
