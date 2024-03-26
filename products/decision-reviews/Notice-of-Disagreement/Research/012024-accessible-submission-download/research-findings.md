@@ -65,7 +65,7 @@ This research also touches on aging and managing new needs for those that develo
  
 ## Key Findings
 1. Veterans found a separate page for a copy of their submission was redundant to the confirmation page, and the link language misled Veterans into believing the form was not yet submitted.
-2. Veterans prefer saving a digital or physical hardcopy of their submission rather than returning to a page on VA.gov
+2. Veterans prefer saving a digital or physical copy of their submission rather than returning to a page on VA.gov
 3. Veterans found the next steps section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
 4. Veterans using screen readers expect multiple methods of contact, and prefer being notified by email.
 5. Veterans use headings and search to navigate a page, and there is a mixed reaction to the use of lower level headings.
