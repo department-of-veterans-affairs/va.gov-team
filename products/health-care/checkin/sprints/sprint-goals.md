@@ -11,8 +11,8 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
     - **Sub Goal: Discovery - Multiple Selection of Appts**
+    - **Sub Goal: Discovery - Stand-alone Travel for VistA Sites**
     - **Sub Goal: Discovery - Check Travel Eligibility**
-    - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
 - **GOAL: Increase PCI Usage**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
