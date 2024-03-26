@@ -10,10 +10,9 @@ assignees: ''
 ## Description
 
 ### User story
-> _Describe the audience/user and value / outcome desired._
 
-As a Cartographer, 
-As a Veteran, 
+As a Cartography team member, I want
+As a Veteran, I want
 
 ### Notes
 - 
@@ -24,3 +23,5 @@ Possible tasks:
 ## Acceptance criteria
 
 - 
+- QA review
+- A11y review
