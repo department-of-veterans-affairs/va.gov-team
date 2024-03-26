@@ -7,8 +7,8 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
 ## Key Rotation Procedure
 1. Generate a new IAM access key
     - Log into the AWS account
-    - Navigate to `IAM` > `Users` > `CMS-service-account-1` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, make sure to copy secret key. (github)
-    - Navigate to `IAM` > `Users` > `CMS-service-account-2` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, make sure to copy secret key. (Datadog)
+    - Navigate to `IAM` > `Users` > `CMS-service-account-1` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, select the use case of `other` and make sure to copy secret key. (github)
+    - Navigate to `IAM` > `Users` > `CMS-service-account-2` > `Security Credentials` tab > `Access Keys` > `Create Access Key`, select the use case of `other` and make sure to copy secret key. (Datadog)
 1. Update AWS Secrets Manager
     - Navigate to `AWS Secrets Manager` > `Secrets`
     - Update `tevi/cms_service_account_1/aws_access_key_id`
