@@ -143,9 +143,9 @@ With the updated search algorithm, users can find their conditions easily if the
 
 ## Research Materials
 
-- Conversation Guide - \[INSERT LINK]
+- Conversation Guide - 
 
-- Prototype - The Codepen prototype is in draft form. 
+- Prototype - (https://codepen.io/ccteam/live/abxWoJg)
 
 
 # Recruitment
