@@ -28,7 +28,8 @@ The purpose of this study is to:
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+This research will inform the Cartography team on how to display medical supplies on the MHV on VA.gov and inform our team on the designs for medical supplies when the supply ordering functionality is ready to integrate with MHV on VA.gov. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
