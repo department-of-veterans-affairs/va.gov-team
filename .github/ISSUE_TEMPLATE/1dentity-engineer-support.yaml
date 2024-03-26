@@ -1,6 +1,6 @@
 name: Identity Engineer Support
 description: For requesting engineering help from the identity team
-labels: "identity-engineer-support"
+labels: "Identity,identity-engineer-support"
 body:
 - type: textarea
   attributes:
@@ -10,7 +10,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      This is a GitHub issue template for users and teams who need support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products).
+      This is a GitHub issue template for users and teams who need engineering support services from the [Identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity) team such as authentication help, PR reviews, SiS setup and support, or technical questions. Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. For large data requests, SiS information and onboarding, or new projects please use [this template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml).
 
       ### **To properly assist with your issue, please complete the following:**
 
@@ -71,12 +71,6 @@ body:
         - VA Mobile iOS
         - VA Mobile Android
         - Other
-
-      ## **Data Request**
-
-      - **Provide additional details below**
-      - What data do you need pulled? Please don’t include any Personal Identifying Information (PII)
-      - Is this sensitive data that requires special permissions?
 
       ## **Pull review request**
 
