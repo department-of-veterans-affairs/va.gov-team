@@ -233,11 +233,11 @@ Pilot session information
 
 # Research Sessions
 
-We are planning to conduct research the week of 
+We are planning to conduct research the week of April 3rd, 2024
 
 Length of Sessions
 
-- Session length: < 1 hour
+- Session length: < 75 minutes
 
 - Buffer time between sessions: 30 minutes 
 
