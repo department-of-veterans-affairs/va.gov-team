@@ -21,7 +21,7 @@ It also supports OCTO goals 5 and 6:
 * Logged-in users have a personalized experience, with relevant and time-saving features
 
 ### Veteran Journey
-Where does your product fit into the ~[Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)~? Are there moments that matter?
+Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)? Are there moments that matter?
 Key moments this research touches in the Veteran journey are:
 * Engaging VA to access benefits and services
 * Finding additional sources of income
