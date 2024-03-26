@@ -2,7 +2,10 @@
 
 
 ### Background
+**Problem Statement** 
+The paper form added an option to select a benefit type to apply for on the 10-10EZ - Enrollment or Registration. This is based off of legislation [§ 17.37 - Enrollment not required—provision of hospital and outpatient care to veterans] and covers a variety user groups and use cases each with their own unique implication. 
 
+The problem is to add this option to the online EZ in a way that is not confusing and does not result in many Veterans selecting both options and not understanding the implications to their health care beneifts situation. 
 
 
 ### Most Recent Work
