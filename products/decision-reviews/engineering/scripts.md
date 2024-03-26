@@ -128,3 +128,28 @@ def get_decision_review_evidence_attachment_guid(lighthouse_upload_id)
   AppealSubmissionUpload.find_by(lighthouse_upload_id:)&.decision_review_evidence_attachment_guid
 end
 ```
+
+## Get Veteran email and ICN for Lighthouse Upload UUID
+This method uses get_mpi_profile_with_user_uuid from above
+```rb
+def get_email_and_icn_with_lighthouse_upload_id(lighthouse_upload_id)
+  submitted_appeal_uuid = AppealsApi::EvidenceSubmission.find_by(guid: lighthouse_upload_id)&.supportable_id
+  return nil if submitted_appeal_uuid.nil?
+
+  user_uuid = AppealSubmission.find_by(submitted_appeal_uuid:)&.user_uuid
+  return nil if user_uuid.nil?
+
+  mpi_profile = get_mpi_profile_with_user_uuid(user_uuid)
+  return nil if mpi_profile.nil?
+
+  va_profile = VAProfile::ContactInformation::Service.get_person(mpi_profile.vet360_id.to_s)&.person
+  return nil if va_profile.nil?
+
+  current_emails = va_profile.emails.select { |email| email.effective_end_date.nil? }
+
+  {
+    email: current_emails.first&.email_address,
+    icn: mpi_profile.icn
+  }
+end
+```
