@@ -121,3 +121,10 @@ def get_uuids_for_downstream_testing(user_uuids)
   results
 end
 ```
+
+## Get S3 Decision Review UUID from Lighthouse Upload UUID
+```rb
+def get_decision_review_evidence_attachment_guid(lighthouse_upload_id)
+  AppealSubmissionUpload.find_by(lighthouse_upload_id:)&.decision_review_evidence_attachment_guid
+end
+```
