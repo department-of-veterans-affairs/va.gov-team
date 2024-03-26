@@ -143,7 +143,7 @@ With the updated search algorithm, users can find their conditions easily if the
 
 ## Research Materials
 
-- Conversation Guide - 
+- Conversation Guide - (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/202403%20Improved%20Autosuggest/conversationguide.md)
 
 - Prototype - (https://codepen.io/ccteam/live/abxWoJg)
 
