@@ -43,6 +43,8 @@ ________________________________________________________________________________
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Address Tech Debt**
+    - 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+    - 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77711)  
     - **Sub Goal: Move to New AWS Instance**
