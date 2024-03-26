@@ -10,6 +10,7 @@ ________________________________________________________________________________
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
     - **Sub Goal: Discovery - Check Travel Eligibility**
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
 - **GOAL: Increase PCI Usage**
@@ -30,6 +31,8 @@ ________________________________________________________________________________
     - ❗ 🟩 [Send Email when eCheck-in, Pre-Check-in, or Travel is down ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78966)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
+        - TBD
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
         - TBD
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - TBD
