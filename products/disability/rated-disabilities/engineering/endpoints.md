@@ -1,9 +1,9 @@
-|                                                  PATH |                                           Backing service |                                               Details |
-| ----------------------------------------------------: | --------------------------------------------------------: | ----------------------------------------------------- |
-| `/v0/disability_compensation_form/rated_disabilities` | Lighthouse Veteran Service History and Eligibility + EVSS |                          [Link](#v0benefits_claimsid) |
-|        `/v0/disability_compensation_form/rating_info` | Lighthouse Veteran Service History and Eligibility + EVSS |                            [Link](#v0benefits_claims) |
-|                              `/v0/rated_disabilities` |        Lighthouse Veteran Service History and Eligibility |                [Link](#v0benefits_claimsidsubmit5103) |
-|                `/v0/rated_disabilities_discrepancies` | Lighthouse Veteran Service History and Eligibility + EVSS |                     [Link](#v0evssidrequest_decision) |
+|                                                  PATH |                                           Backing service |                                                   Details |
+| ----------------------------------------------------: | --------------------------------------------------------: | --------------------------------------------------------- |
+| `/v0/disability_compensation_form/rated_disabilities` | Lighthouse Veteran Service History and Eligibility + EVSS | [Link](#v0disability_compensation_formrated_disabilities) |
+|        `/v0/disability_compensation_form/rating_info` | Lighthouse Veteran Service History and Eligibility + EVSS |        [Link](#v0disability_compensation_formrating_info) |
+|                              `/v0/rated_disabilities` |        Lighthouse Veteran Service History and Eligibility |                             [Link](#v0rated_disabilities) |
+|                `/v0/rated_disabilities_discrepancies` | Lighthouse Veteran Service History and Eligibility + EVSS |               [Link](#v0rated_disabilities_discrepancies) |
 
 ## Endpoint details
 
