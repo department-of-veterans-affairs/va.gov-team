@@ -29,7 +29,6 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | Provider Name                                              | 1          |  1    |  1       |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
-| Provider                                                   | ✅        | ✅    | ✅        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 | Call to Reschedule Alert                                   | ✅        |      |
