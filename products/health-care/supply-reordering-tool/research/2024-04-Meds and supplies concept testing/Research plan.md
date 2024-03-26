@@ -1,20 +1,23 @@
 # Research Plan for [Medications and Devices Pod, Medical Supplies Reorder, 26 March 2024]
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+In previous studies, there is an indication that Veterans think there's a connection between medical supplies and medications. As our team moves the medical supplies reordering functionality to MHV on VA.gov, we need to understand where Veterans expect to find medical supplies on the auth MHV home page, and how similar or different Veterans think about medications and medical supplies. 
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+- Objective 1: Our digital experiences are the best way to access VA health care and benefits.
+	- Key Result 1: The number of transactions processed using our products has increased by 25%.
+ 	- Key Result 2: All new products have a faster transaction time than those they replaced.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+
+This research fits into these points of a Veteran's Journey:
+
+- Starting up
+- Taking care of myself
+- Retiring
+- Aging
 
 ## Research Goals	
 What are you trying to learn from this research? 
