@@ -12,7 +12,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| `terms_of_use` | Toggles the Terms of Use Accept/Decline actions |
+| `terms_of_use` | Toggles the Terms of Use Accept/Decline actions (FE only) |
 
 ## Step 2: Validation
 
