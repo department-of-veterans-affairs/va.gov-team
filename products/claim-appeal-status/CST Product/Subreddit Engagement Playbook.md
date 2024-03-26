@@ -11,7 +11,7 @@ Begin by crafting a clear mission statement for the community engagement initiat
 Designate a skilled and empathetic community spokesperson who understands the needs of veterans and has excellent communication skills. This person will be responsible for guiding the conversation, addressing concerns, and de-escalating any hostile situations.
 
 
-# Play 3: Create a code of conduct \
+# Play 3: Create a code of conduct 
 
 
 Develop a code of conduct that outlines the acceptable behavior and language for VA representatives. This should include guidelines for respectful communication, handling disagreements, and maintaining a positive, constructive atmosphere.
