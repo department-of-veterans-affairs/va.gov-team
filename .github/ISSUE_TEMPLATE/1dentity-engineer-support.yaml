@@ -19,9 +19,8 @@ body:
       - [ ] **Provide your team’s name**
       - [ ] **Select issue type (for “other” stop here and provide details)**
       - **Authentication Help**
-      - **Sign-In-Service Integration**
       - **Pull Request Review**
-      - **Data Request**
+      - **Technical Questions**
       - **Other**
       - [ ] **Complete tasks for your issue type**
       - [ ] **Add additional details (optional)**
@@ -77,6 +76,11 @@ body:
       - **Provide additional informational Information below**
       - Please provide a URL to link to your PR:
       - Have you tested your changes?
+
+      ## **Technical Questions**
+
+      - Join one of our [office hours]() meetings on Thursdays to meet with an engineer directly
+      - Ask your question here in this template and an engineer will respond
 
       ## **Additional information**
 
