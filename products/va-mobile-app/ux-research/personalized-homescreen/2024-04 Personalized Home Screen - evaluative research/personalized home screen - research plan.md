@@ -210,23 +210,24 @@ If release build is ready 4/23: **May 6-16**
      * Tue 4/23: 10am-6pm EST/9am-5pm CST
      * Wed 4/24: 10am-6pm EST/9am-5pm CST
      * Thu 4/25: 10:30am-6pm EST/9:30am-5pm CST
-     * (if needed) Mon 4/29: 10:30am-6pm EST/9:30am-5pm CST
-  * Screenreader users
+     * Mon 4/29: 10:30am-6pm EST/9:30am-5pm CST
      * Tue 4/30: 10am-6pm EST/9am-5pm CST
+  * Screenreader users
      * Wed 5/1: 10am-6pm EST/9am-5pm CST
      * Thu 5/2: 10:30am-6pm EST/9:30am-5pm CST
+
 * **If build is ready 4/23:**
   * Non-screenreader users
      * Mon 5/6: 10:30am-6pm EST/9:30am-5pm CST 
      * Tue 5/7: 10am-6pm EST/9am-5pm CST
      * Wed 5/8: 10am-6pm EST/9am-5pm CST
      * Thu 5/9: 10:30am-6pm EST/9:30am-5pm CST
-     * (if needed) Mon 5/13: 10:30am-6pm EST/9:30am-5pm CST
-  * Screenreader users
+     * Mon 5/13: 10:30am-6pm EST/9:30am-5pm CST
      * Tue 5/14: 10am-6pm EST/9am-5pm CST
+
+  * Screenreader users
      * Wed 5/15: 10am-6pm EST/9am-5pm CST
      * Thu 5/16: 10:30am-6pm EST/9:30am-5pm CST
-
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
