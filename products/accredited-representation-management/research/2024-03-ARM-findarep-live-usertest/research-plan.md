@@ -114,9 +114,10 @@ Remote on Zoom
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest/conversation-guide.md)
 
 - [Link to website](https://www.va.gov/)
-- Temporary links until site is 100% on 03/22
-	- Landing page: https://www.va.gov/disability/get-help-filing-claim/ 
-	- Search Tool:  https://staging.va.gov/get-help-from-accredited-representative/find-rep/
+	- https://www.va.gov/get-help-from-accredited-representative/
+ 	- https://www.va.gov/get-help-from-accredited-representative/find-rep
+
+- [Link to prototype](TBD)
  
 
 ## Recruitment<a id="recruitment"></a>
@@ -128,7 +129,205 @@ Our goal is to have two recruitment efforts; mobile user, and assistive technolo
 
 Our target audience are 6 Veterans (with expectations of speaking to 4) who are actively searching for a representative. Mobile users only.
 
-Full details in progress.
+**Requesting a kick-off call**
+
+- 03/29 anytime from 9 - 12 PM EST or 2 - 3 PM EST.
+
+- Prior to the kick-off call, we would like a link, PDF, or screenshot of the recruitment email and survey to review beforehand please.
+
+**Primary criteria**
+
+- Representative Support
+
+  - **All** / Participants actively searching for a representative to support with a claim or benefit
+
+  - **0 - 3** / Participants that are representatives.
+
+- Representative Type
+
+  - **1 - 4** / Participants searching for a VSO (Veteran Service Organization or Officer)
+
+  - **1+** / Participants searching for an attorney representative
+
+  - **1+** / Participants searching for a claims agent representative
+
+- Device
+
+  - **6** / primarily mobile users
+
+**Secondary criteria**
+
+- **3+** / age 55+ yo
+
+- **3+** / with cognitive disability
+
+- **2+** / people of color
+
+- **2+** / with no degree
+
+- **1+** / women
+
+- **1+** / LGBTQ+
+
+Generated using VA \[[maximum variation sampling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Lean-MVS-Strategy)] method.
+
+**Participant Facing Content**
+
+Study Title: Representative Search on VA.gov User Test
+
+Study Description: We’re conducting interviews to get feedback on new tools on VA.gov. This session will consist of a brief interview followed by an activity where we’ll ask you to share your screen and walk through a new VA.gov tool. Your feedback is critical in ensuring our new experience is meeting Veterans’ expectations and needs. We appreciate your time in helping us improve.
+
+**Screener questions**
+
+1. The following statements will be referring to your engagement with representatives, which includes VSOs, attorneys, and claims agents. Select the option that best describes your current situation.
+
+   - _I am currently looking for a representative to support me with a VA claim_
+
+   - _For the last 3 - 6 months I have been getting support from a representative with a VA claim_
+
+   - _More than 6 months ago I received support from a representative with a VA claim_
+
+   - _I have never worked with a representative and am not currently looking for representation_
+
+2) What type of representative are you looking for support from?
+
+  - _Veteran Service Organization (VSO)_
+
+  - _Veteran Service Officer (VSO)_
+
+- _Attorney (paid service)_
+
+- _Claims agent (paid service)_
+
+- _None of the above_
+
+- _I’m not sure_
+
+3. What VA benefit do you need representative support for?
+
+- _Burial and memorials_
+
+- _Careers and employment_
+
+- _Disability_
+
+- _Disability Decision Review or Appeal_
+
+- _Education and training_
+
+- _Health care_
+
+- _Housing assistance_
+
+- _Life insurance_
+
+- _Pension_
+
+- _Other_
+
+4. Do you currently help Veterans with their benefits in any of the following roles?
+
+   - _I work or volunteer at a Veteran Service Organization (VSO)_
+
+   - _I’m a Veteran Service Officer (VSO)_
+
+   - _I’m an attorney_
+
+   - _I’m a claims agent_
+
+   - _I help other Veterans, but am not a member of an organization_
+
+   - _None of the above_
+
+5) Have you been diagnosed with (formally or informally) a cognitive disability? This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
+
+   - _Yes_
+
+   - _No_
+
+   - _I prefer not to answer_
+
+
+## Timeline<a id="timeline"></a>
+
+- [x] ~~03/06 / Create research documentation~~
+
+- [x] ~~03/08 / Submit for team feedback~~
+
+- [x] ~~03/21 / Update documentation based on team feedback~~
+
+- [ ] 03/27 / Submit for \[[collaboration cycle research review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/research-review)]
+
+- [ ] 03/28 / Collaboration cycle research review done, update to reflect feedback
+
+- [ ] 03/29 / Perigean kick-off call
+
+- [ ] 04/01 - 04/12 / Start recruitment with Perigean
+
+- [ ] 04/15 - 04/19 / Conduct interviews
+
+- [ ] 04/22 - 05/02 / Analysis and reporting
+
+- [ ] 05/03 / Final presentation
+
+Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
+
+- Product launch
+
+- Review process both with direct team and collaboration cycle
+
+- Recruitment
+
+
+### Prepare<a id="prepare"></a>
+
+When will the thing you are testing be finalized? 03/26/2024
+
+
+**Pilot Session: Covered with AT Group**
+
+
+### Research sessions<a id="research-sessions"></a>
+
+- Planned dates of research: 04/15 - 04/19
+
+
+### Length of sessions<a id="length-of-sessions"></a>
+
+- Session length: 60 minutes
+
+- Buffer time between sessions: 1 hour
+
+- Maximum Sessions per day: 2 per day
+
+
+### Availability<a id="availability"></a>
+
+- Monday 10 AM – 4 PM EST
+
+- Wednesday - Friday 10 AM – 4 PM EST
+
+
+## Team Roles<a id="team-roles"></a>
+
+Please list the people who will be serving in each role. Include the **primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers**. If you need Perigean to take notes for you, indicate that next to Notetaker
+
+- **\*Moderator:** Janelle Finnerty, 248-303-2329, janelle.finnerty\@oddball.io
+
+- **Research guide writing and task development:** Janelle Finnerty
+
+- **Participant recruiting & screening:** Perigean
+
+- **Project point of contact:** Janelle Finnerty
+
+- **Participant(s) for pilot test:** In AT group
+
+- **\*Accessibility specialist (for sessions where support for assistive technology may be needed):** N/A
+
+- **\*Co-moderators:** Janelle will forward invites based on sign-up sheet.
+
+- **\*Observers:** Janelle will forward invites based on sign-up sheet.
+
 
 ## Recruitment approach: Assistive technology users<a id="recruitment-approach-assistive-technology-users"></a>
 
