@@ -12,7 +12,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| `terms_of_use` | Toggles the Terms of Use Accept/Decline actions |
 
 ## Step 2: Validation
 
@@ -20,9 +20,9 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -36,18 +36,6 @@ Before enabling your feature toggle in production, you'll need to:
 - This change does not add substantial new functionality to VA.gov
 - This change does not impact user flows through tasks
 - This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
 
 #### Exceptions
 
@@ -66,43 +54,20 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
-FE Regression
+Frontend Regression
 
-Steps for content-build:
+Steps for `content-build`: (this will force Terms of Use to go back to staging)
+1. Navigate to `content-build` repository
+2. Create a Pull Request that changes the `registry.json` file for Terms of Use from `"vagovprod": true` to `"vagovprod": false`
+3. Merge that Pull Request
 
-Navigate to content-build repository
+Backend Regression
 
-Create a Pull Request that removes the Terms of Use block from the registry.json file
-
-Merge that Pull Request
-
-Steps for vets-website:
-
-Navigate to vets-website repository
-
-Create a Pull Request that does the following
-
-a) Delete the terms-of-use directory
-
-b) Delete the terms_of_use_enabled from the featureFlagNames.js file
-
-Merge that pull request
-
-Steps for vets-api:
-
-Navigate to vets-api repository
-
-Create a Pull Request that removes the terms_of_use_enabled block from the config/features.yml file
-
-Merge that Pull Request
-
-BE Regression
-
-Steps for vets-api:
-
-SSOe disable: Create PR that removes apps from TERMS_OF_USE_ENABLED_CLIENTS in lib/saml/url_service.rb
-
-SiS disable: in the rails console, set enforced_terms on all ClientConfigs to nil
+Steps for `vets-api`:
+- SSOe disable:
+  1. Create PR that removes apps from TERMS_OF_USE_ENABLED_CLIENTS in lib/saml/url_service.rb
+- SiS disable:
+  1. In the rails console, set enforced_terms on all ClientConfigs to nil
 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/terms%20and%20conditions/Regression%20Test%20Plan.md
 
