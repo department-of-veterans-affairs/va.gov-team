@@ -20,9 +20,12 @@ This research fits into these points of a Veteran's Journey:
 - Aging
 
 ## Research Goals	
-What are you trying to learn from this research? 
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+The purpose of this study is to: 
+- Understand where Veterans expect "View and order medical supplies" on the MHV on VA.gov.
+- Understand whether Veterans expect to view medical supplies and medications in the same list or separately and whether Veterans expect to order medical supplies and medications together or separately.
+- Determine a design solution to propose to the team to implement. 
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
