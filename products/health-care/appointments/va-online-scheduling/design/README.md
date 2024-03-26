@@ -1,6 +1,6 @@
 # Appointments UX Team
 
-## Team members
+## Team
 
 **Peter Russo**, Design Lead<br>
 peter.russo@adhocteam.us<br>
@@ -14,6 +14,12 @@ ciera.maddox@adhocteam.us<br>
 melissa.lefevre@adhocteam.us<br>
 [@Melissa Lefevre](https://dsva.slack.com/team/U01Q4GJNHHT)
 
+## Process
+
+[Zenhub Board](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/board)
+
+[Accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments)
+
 ## Appointments user flows
 
 [Screen-by-screen user flow](https://www.figma.com/file/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?type=design&node-id=1-2716&mode=design&t=ViC9FBuYacH0wFWn-4) (Figma)
@@ -23,7 +29,6 @@ melissa.lefevre@adhocteam.us<br>
 We follow the (VA Platform's guidance on research)[https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va].
 
 [Research by the Appointments-FE Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
-
 
 ## UI and Content 
 
