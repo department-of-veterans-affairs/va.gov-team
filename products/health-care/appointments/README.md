@@ -22,14 +22,26 @@ Still a WIP but, but this map covers the end-to-end appointment experience.
 [Notifications service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1649696758581/a12e35b635ef11d25ff389fe6651b1e63026b68c?sender=ub08ff1d80ee7bd38d6c02354)
 Map of the appointment notifications space from [this service map study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/research/2021-10-appointment-notifications-service-map/research-findings.md).
 
+[Pre-check-in, check in and text "travel" service maps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin#product-documentation).
+
 ## Research
 See the appointments on VA.gov [**research hub**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-research.md).
+
+See the pre-check-in, check in and text "travel" [**research hub**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research). 
+
+## Design
+
+See the pre-check-in, check in and text "travel" [**design files**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin#production-designs). 
 
 ## Content
 
 [**Appointments content brief**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-briefs/appointments-content-brief.md)
 
 The [Sitewide Content Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content) aligns appointments language across touchpoints. 
+
+## Metrics
+
+See the pre-check-in, check in and text "travel" [**metrics dashboards**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin#metrics).
 
 ## Touchpoints
 
@@ -44,7 +56,7 @@ Tools Veterans and facilities can use to manage, track, and schedule appointment
 | VEText               | Text/SMS |
 | Check-in Experience  | Web app  |
 | Flagship Mobile App  | Mobile app |
-| VA Notify            | Email      | 
+| VA Notify            | Text/SMS/Email      | 
 | After Visit Summary  | ?        |
 
 
