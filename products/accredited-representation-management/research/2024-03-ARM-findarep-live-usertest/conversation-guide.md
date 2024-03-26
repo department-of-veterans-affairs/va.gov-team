@@ -1,4 +1,4 @@
-# Conversation Guide for Accredited Representative Management, Find a Representative LIVE User Test, 03/2024
+# Conversation Guide for Accredited Representative Management, Find a Representative LIVE User Test, 03/2024<a id="conversation-guide-for-accredited-representative-management-find-a-representative-live-user-test-032024"></a>
 
 ## Moderator logistics<a id="moderator-logistics"></a>
 
@@ -71,19 +71,19 @@ _Start recording._
 - **I have started recording.** I'd like to confirm: Do I have permission to record my screen and the audio as we talk today for analysis and reporting purposes?
 
 
-## Warm-up Questions - 5 - 10 minutes<a id="warm-up-questions---5---10-minutes"></a>
+## Warm-up Questions - 5 - 15 minutes<a id="warm-up-questions---5---15-minutes"></a>
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Confirming you are currently looking for a \[representative] for \[benefit]?
+1. Confirming you are currently looking for/working with a \[representative]?
 
-2. Can you tell me about your experience looking for a \[representative]?
+2. Can you tell me about your experience looking for/working with a \[representative]?
 
    1. Why did you decide to get support from a representative?
 
-   2. How are you looking for your representative?
+   2. How are/did you looking/look for your representative?
 
-   3. Are you considering any criteria when selecting a representative?
+   3. Are/were you considering any criteria when selecting a representative?
 
 3. Did you consider VA.gov as an option for finding representation? Why or why not?
 
@@ -102,6 +102,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Do Veterans consider VA.gov as a way to find representation?
 
+- _AT only:_ Do Veterans mention their disability as a reason to get representation?
+
 
 ## First Task: Navigation - 10 - 15/20 - 25 minutes<a id="first-task-navigation---10---1520---25-minutes"></a>
 
@@ -110,13 +112,21 @@ Thank you for telling me about your experience. We’re going to switch topics t
 
 ### To get started<a id="to-get-started"></a>
 
-- Open your browser and navigate to VA.gov, or click the link I’ve provided in the chat/text/email.
+- Share your screen.
 
-      * <https://www.va.gov/>
+  - _AT desktop only;_ make sure to Share Sound. Look for the “Share Sound” checkbox.
 
-- You will not be asked to sign in, and you are not going to be asked to provide any personal information.
+  - _AT swap focus;_ you need to swap focus from Zoom to browser.
 
-- Keep in mind, we want to hear your thoughts, so say anything top of mind as you go.
+- Open your browser and navigate to VA.gov.
+
+  - <https://www.va.gov/>
+
+- When you get to VA.gov pause and wait for the next instruction.
+
+  - _If they are signed-in;_ please feel free to sign-out if you want to.
+
+* Keep in mind, we want to hear your thoughts, so say anything top of mind as you go.
 
 
 ### Mobile users/ Screenshare prompt and tech support<a id="mobile-users-screenshare-prompt-and-tech-support"></a>
@@ -136,11 +146,13 @@ Thank you for telling me about your experience. We’re going to switch topics t
 
 _Navigation_
 
-5. Imagine you’ve come to VA.gov to search for representatives (such as a VSO, attorney, or claims agent) in your area that can help you in applying for a VA benefit. Go to where you would expect to find this information.
+5. _AT ONLY: If we don’t know;_ Before we get started, what technology will you be using today?
 
-   1. _Note: If you come to a page where you expect to find this information, stop and let me know and we’ll move to the next question._
+6. Imagine you’ve come to VA.gov to search for representatives (such as a VSO, attorney, or claims agent) in your area that can help you in applying for a VA benefit. Navigate to where you would expect to find this information. When you get there, pause for next steps.
 
-   2. Why did you decide to go here?
+   1. _If completed;_ Why did you decide to go here?
+
+   2. _If not completed;_ What were you looking for that you were unable to find?
 
    3. On a scale of 1 - 5, with 1 being very hard and 5 being very easy, how would you rate the ease of finding this tool?
 
@@ -156,29 +168,33 @@ _Navigation_
 
 ## Second Task: Search - 20 - 25/40 - 45 minutes<a id="second-task-search---20---2540---45-minutes"></a>
 
-6. _If participant did not make it to the landing page;_ I’m going to send you a link in chat/text/email to access the next part of our study.
+7. _If participant did not make it to the landing page;_ I’m going to send you a link in chat/text/email to access the next part of our study.
 
-   1. <https://www.va.gov/disability/get-help-filing-claim/> 
+   1. <https://www.va.gov/get-help-from-accredited-representative/> 
 
-[_Get help from an accredited representative_](https://www.va.gov/disability/get-help-filing-claim/) _page_
+   2. <https://www.va.gov/get-help-from-accredited-representative/find-rep> 
 
-7. Take a moment to review the page. What are your initial impressions?
+_Get help from an accredited representative page_
 
-8. Any information missing that you’d like to have?
+8. Take a moment to review the page. What are your initial impressions?
 
-9. Navigate to the ‘Find an accredited representative’ link to continue.
+9. Any information missing that you’d like to have?
 
-[_Find a Representative_](https://staging.va.gov/get-help-from-accredited-representative/find-rep/)
+10. Navigate to the ‘Find an accredited representative’ link to continue.
 
-10. Show how you would search for a representative in your area. If you do not wish to use your location I can provide one.
+_Find a Representative tool_
 
-    1. _Sample ZIP code; 10001, New York, NY_
+11. Show how you would search for a representative in your area. When you find a representative you’re interested in pause for next steps.
+
+    1. If you do not wish to use your location I can provide one.
+
+       1. _Sample ZIP code; 10001, New York, NY_
 
     2. _Keep in mind, we want to hear your thoughts, so say anything top of mind as you go._
 
-11. What are your thoughts on the search tool?
+12. What are your overall thoughts on the search tool?
 
-    1. Is there any information missing you’d like to have?
+    1. Is there any information missing you’d like to have? Including representative information.
 
     2. What are your thoughts on the filter options? Current options include; type of representative, location, search radius, and name.
 
@@ -188,17 +204,13 @@ _Navigation_
 
        1. Are there any other ways you’d like to sort your search?
 
-    4. What are your thoughts on the representative information?
-
-       1. Is there any other information you’d want to know about the representative?
-
-    5. What are your thoughts on the ‘Report outdated information’ feature?
+    4. What are your thoughts on the ‘Report outdated information’ feature?
 
        1. Is that something you can see yourself using?
 
-12. After completing your search, what would your next steps be?
+13. After completing your search, what would your next steps be?
 
-13. Any other thoughts on this page?
+14. Any other thoughts on this page?
 
 
 ### Things to watch for:<a id="things-to-watch-for-2"></a>
@@ -212,13 +224,35 @@ _Navigation_
 - Does the user have any other criteria they’d like to search from or see about representatives?
 
 
+## Mobile only/ Third Task: Appoint a Rep Form Page - 10 - 15 minutes<a id="mobile-only-third-task-appoint-a-rep-form-page---10---15-minutes"></a>
+
+Thank you so much for your feedback. We have one more new design to show you that goes over next steps of assigning a representative to support you.
+
+
+### To get started<a id="to-get-started-1"></a>
+
+- I’m going to send you a link to the prototype in the chat.
+
+  - LINK NEEDED
+
+- Heads up, this is not a real website, which means some parts of the experience won’t work as expected. If you try to do something on the site and it doesn’t work, just let me know what you would expect to happen instead.
+
+- Keep in mind, we want to hear your thoughts, so say anything top of mind as you go.
+
+15. Imagine you’ve selected a representative and wish to continue in the process of having them support your claim. You’ve come to this page to assign them to your claim. Take a moment to review the page and let me know your initial impressions.
+
+16. Is there any information missing you’d like to see?
+
+17. What would your next steps be from here?
+
+
 ## Post-Task Interview - 5 minutes<a id="post-task-interview---5-minutes"></a>
 
-17. What are your thoughts on the website we shared with you today?
+18. What are your thoughts on the website we shared with you today?
 
-18. How likely would you use the tool we showed today? Why or why not?
+19. How likely would you use the tool we showed today? Why or why not?
 
-19. Observers, do you have any additional questions?
+20. Observers, do you have any additional questions?
 
 
 ## Thank-You and Closing - 2 minutes<a id="thank-you-and-closing---2-minutes"></a>
