@@ -1,12 +1,12 @@
-|                                PATH |                     Backing service |                                                   Details |
-| ----------------------------------: | ----------------------------------: | --------------------------------------------------------- |
-|             `/v0/letters_generator` |        Lighthouse Letters Generator | [Link](#v0disability_compensation_formrated_disabilities) |
-| `/v0/letters_generator/beneficiary` |        Lighthouse Letters Generator |        [Link](#v0disability_compensation_formrating_info) |
-|    `/v0/letters_generator/download` |        Lighthouse Letters Generator |                             [Link](#v0rated_disabilities) |
-|                       `/v0/letters` |                                EVSS |                             [Link](#v0rated_disabilities) |
-|           `/v0/letters/beneficiary` |                                EVSS |                             [Link](#v0rated_disabilities) |
-|          `/v0/letters/:letter_type` |                                EVSS |                             [Link](#v0rated_disabilities) |
-|         `/v0/letters_discrepancies` | Lighthouse Letters Generator + EVSS |               [Link](#v0rated_disabilities_discrepancies) |
+|                                PATH |                     Backing service |                                 Details |
+| ----------------------------------: | ----------------------------------: | --------------------------------------- |
+|             `/v0/letters_generator` |        Lighthouse Letters Generator |            [Link](#v0letters_generator) |
+| `/v0/letters_generator/beneficiary` |        Lighthouse Letters Generator | [Link](#v0letters_generatorbeneficiary) |
+|    `/v0/letters_generator/download` |        Lighthouse Letters Generator |    [Link](#v0letters_generatordownload) |
+|                       `/v0/letters` |                                EVSS |                      [Link](#v0letters) |
+|           `/v0/letters/beneficiary` |                                EVSS |           [Link](#v0lettersbeneficiary) |
+|          `/v0/letters/:letter_type` |                                EVSS |           [Link](#v0lettersletter_type) |
+|         `/v0/letters_discrepancies` | Lighthouse Letters Generator + EVSS |        [Link](#v0letters_discrepancies) |
 
 ## Endpoint details
 
