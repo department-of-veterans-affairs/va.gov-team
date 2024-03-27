@@ -22,7 +22,7 @@
 |[Progress bar segmented](https://design.va.gov/components/form/progress-bar-segmented#default)|V3|V1||Platform|Default|
 |[Process list](https://design.va.gov/components/process-list#examples---v3)|V3|V1|Intro Page|Platform| |
 |[Accordion](https://design.va.gov/components/accordion#examples---v3)|V3|V1||Platform||
-|[Card](https://design.va.gov/components/card#default---white-with-border)|V3|V1|List&Loop|Platform| |
+|[Card](https://design.va.gov/components/card#default---white-with-border)|V3|V1|[List&Loop](https://design.va.gov/patterns/ask-users-for/multiple-responses#how-to-design-and-build---single-page)|Platform|Not a card exactly, but we should use the white with border style; gray backgrounds cause contrast issues with hint text|
 |[File input](https://design.va.gov/components/form/file-input#accepts-only-specific-file-types)|V3|V1|Spouse, Child under 18|Platform| |
 |[Address block](https://design.va.gov/components/address-block#examples)|V3|New addition|Spouse, Child under 18|Platform| |
 |[Number input](https://design.va.gov/components/form/number-input#hint-text)|V3|New addition|674|Platform|Identical to V1, does not exist in USWDS|
