@@ -2,6 +2,7 @@
 
 # About this Research
 
+Note: this research was put on hold becuase the team deprioritized creating an Identity Dashboard product
 
 ## Timeline
 
