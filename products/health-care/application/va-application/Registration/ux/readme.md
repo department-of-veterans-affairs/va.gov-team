@@ -27,7 +27,7 @@ The problem is to add this option to the online EZ in a way that is not confusin
 **Registration reason: Service Connected Only**
 - Current State
 - Future State - No auto registration
-- Future State - Autu registartion
+- Future State - Auto registartion
 
 **Registration reason: Mental Health Care**
 - Current State
