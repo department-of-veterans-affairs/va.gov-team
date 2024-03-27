@@ -193,7 +193,7 @@ One Veteran went through the prototype using Reader mode on Safari. In Reader mo
 ## Recommendations
 1. Give Veterans multiple options to save a copy of their submission, including through email.
 2. Set clearer expectations about the process under What to Expect Next, and move immediate, time-related information higher on the confirmation page.
-3. Provide clear methods of communication and contact, both to VA and from VA, such as, giving more information about what phone number or email VA would be contacting them from.
+3. Provide clear methods of communication and contact, both to VA and from VA, such as, giving more information about what phone number or email VA would be contacting Veterans from.
 
 ## Next Steps
 1. Our team is workshopping the minimum viable feature based on the research findings.
