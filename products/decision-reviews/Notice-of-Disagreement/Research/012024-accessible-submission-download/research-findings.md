@@ -179,7 +179,7 @@ Veterans were impressed by our use of headers to describe sections, but wished t
 ### Finding 6
 Veterans using screen readers expect to receive PDFs from VA and rely on alternate methods to read them when they’re inaccessible.
 
-Experienced screen reader users lament PDFs that are a single image. They would find ways to work around making the content legible by copying the content, printing it and running it through OCR, or having someone else help the convert the file.
+Experienced screen reader users aren't fond of inaccessible PDFs that are comprised of a single image. They find ways to work around making the content legible by copying the content to a document, printing and running it through OCR, or having someone else help the convert the file.
 
 > Some of them [PDFs] are good. Some of them are paying I usually run have to end up running them through a OCR To read unless they're the kind that actually has the detection embedded in the PDF file. - **P18**
 
