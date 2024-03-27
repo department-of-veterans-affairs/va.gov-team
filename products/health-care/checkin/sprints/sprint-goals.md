@@ -57,6 +57,7 @@ ________________________________________________________________________________
         - 🟪🟩🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
             - Need to verify with Kay when she wants this to go out
     - **Sub Goal: Analyze current metrics to see what they tell us**               
+       - 🟩 [Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79362)
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Address Tech Debt**
