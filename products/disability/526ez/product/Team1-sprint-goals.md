@@ -3,20 +3,23 @@
 ## Sprint 28
 Period - 03/27/2024 - 04/09/2024
 ### Sprint goals 
-** 2023 Prioritized Work **
+- **Expedited**
+  - [ ] single direct deposit content - design and front-end
+  - [ ] Front-end - Widgets to Web components upgrade - radio buttons - **The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
+ 
+ - **2023 Prioritized Work**
    - eVSS to Lighthouse Migration - Engineering
       - BRD (seperation locations endpoint)
         -  Canary launch, followed by staggered release
    - 526ez sync with paper version 
-       - Toxic Exposure 
-           - [ ] Engineering - Continue build on TE pages -  
-           - [ ] Tech Discovery - Investigate how the Toxic Exposure with the new pdf version can be released to a smaller subset of Veterans
+       - **Toxic Exposure**
+           - [ ] Engineering - Continue build on TE pages -   
+           - [ ] Tech Discovery - Investigate how release Toxic Exposure with the new pdf version with sticky feature flag
            - [ ] Add Toxic Exposure fields to Form526 vets JSON schema - Spike
            - [ ] Start work on data transformation for the new Toxic Exposure fields
        - Audit for 526ez and ancillary forms for all paper to digital form changes
           - Complete technical discovery and review with stakeholders
-            
-- **2024 Prioritized Work **
+- **2024 Prioritized Work**
    - Improvement in Submission and Post Submission Experience
       - Desk Research
         - Existing research and design on va.gov
@@ -25,9 +28,10 @@ Period - 03/27/2024 - 04/09/2024
           
 - **Other**
    - [ ] Complete work on Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
-     
+
+              
 - **Stretch Goals**
-   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+
 
 ## Sprint 27
 Period - 03/13/2024 - 03/26/2024
