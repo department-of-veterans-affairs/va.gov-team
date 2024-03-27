@@ -399,39 +399,35 @@ Page title: `Claim exam appointment on [Weekday], [Month] [DD], [YYYY] | Veteran
 
 Breadcrumb: `< Back to appointments`
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
-
 **PAGE CONTENT**
 
-```
-[serviceCategory] Claim exam
-This appointment is for disability rating purposes only. It doesn't include treatment. If you have medical evidence to support your claim, bring copies to this appointment.
+`[card icon: fa-building]` 
 
-[Facility name]
-[Facility address]
-Directions
+`[h1]` Claim exam
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[h2]` How to prepare for this exam
+This appointment is for disability rating purposes only. It doesn’t include treatment. If you have medical evidence to support your claim, bring copies to this appointment. 
 
-```
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+`[Button]` Add to calendar
 
-```Add to calendar```
+`[h2]` Where to attend  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
 
-```Print```
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-```
-Contact the [facility name] compensation and pension office if you need to reschedule or cancel your appointment:
+`[h2]` Need to make changes?
+Contact the [Facility Name] compensation and pension office if you need to reschedule or cancel your appointment.
 
-Main phone: [###-###-####] (TTY: 711)
-```
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -439,7 +435,7 @@ Main phone: [###-###-####] (TTY: 711)
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
 Page title: ``
 
@@ -648,7 +644,6 @@ Provider
 [Provider name]
 ```
 
-
 ---
 
 ### VA VVC at VA Appointment - Upcoming
@@ -793,134 +788,6 @@ Main phone: [phone number] (TTY: 711)
 You'll be meeting with
 [Provider name]
 ```
-
----
-
-### VA VVC GFE Appointment - Upcoming
-
-**NAVIGATION**
-
-URL: `https://va.gov/my-health/appointments/[ID]`
-
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of Care]
-
-VA Video Connect using VA device
-
-You can join this meeting from your home or anywhere you have a secure internet connection.
-You can join VA Video Connect up to 30 minutes prior to the start time.
-
-[Button with label: Join appointment]
-
-Provider
-[Provider name]
-
-
-```
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-
-Contact this facility if you need to reschedule or cancel your appointment:
-
-[Facility name]
-Main phone: [phone number] (TTY: 711)
-
-```
-
----
-
-### VA VVC GFE Appointment - Past
-
-**NAVIGATION**
-
-URL: `https://va.gov/my-health/appointments/past/[ID]`
-
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of Care]
-
-
-VA Video Connect using VA device
-
-Provider
-[Provider name]
-```
-
-**ACTIONS**
-
-```Print```
-
-
----
-
-### VA VVC GFE Appointment - Canceled
-
-**NAVIGATION**
-
-URL: `https://va.gov/my-health/appointments/[ID]`
-
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
-
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment.
-```
-
-**PAGE CONTENT**
-
-```
-Type of care: [Type of Care]
-
-VA Video Connect using VA device
-
-Provider
-[Provider name]
-```
-
 
 ---
 

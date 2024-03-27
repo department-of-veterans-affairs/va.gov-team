@@ -7,6 +7,11 @@ Product, business, and technical documentation of [Appointments](https://github.
 
 [How to update the feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-update-feature-reference.md)
 
+## Backend documentation
+
+[Backend logic](./backend-logic.md)
+[VistA appointments, facilities, and clinics](./vista-appointments-facilities-clinics.md)
+
 ## Access the Appointments Tool
 
 | Feature | Usage | 
