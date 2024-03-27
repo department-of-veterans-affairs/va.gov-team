@@ -73,6 +73,9 @@ This research also touches on aging and managing new needs for those that develo
 
 ### Finding 1
 Veterans found a separate page for a copy of their submission was redundant to the confirmation page, and the link language misled Veterans into believing the form was not yet submitted.
+
+On the initial 2 screen prototype, 6 out of 7 Veterans missed the link to the second screen. When prompted, Veterans mentioned that the link language made them believe that the form has yet been submitted. When guided to the second screen, Veterans mentioned that the information is useful, but had the expectation that the information on the two pages to be combined.
+
 > This page sounds good like I was thinking as we could easily take the previous page and merge some of the elements from that page onto this page and get rid of that previous page altogether. Just because that previous page really serves little purpose concerning that you're doing that confirm confirmation 2 pages back, or just somehow. Yeah, this is the more important of the 2 pages we've reviewed. Yeah, can you expand on why you, this is more important just actually is what you have just submitted. - **P7**
 
 > I would say it's a probably about a 4 [out of 5 for usefulness], and say that only because it seems redundant to the previous page. Okay, there's a bit of redundancy here. It's kind of going through same thing over and over, the other one just said, if you want to view it and then print it or view it, and save it, or whatever that button was on the other page, support you here, which said the same thing. But this one obviously says, more information on your phone numbers and addresses. I think 2 of them could be combining into just one page. - **P8**
