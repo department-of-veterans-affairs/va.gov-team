@@ -18,7 +18,7 @@ SCO Collaborative Workgroup Presentation
 
 SCO Collaborative Workgroup Findings
 
-1:1 Interview Moderators Guide
+[1:1 Interview Moderators Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/1:1%20interview%20moderators%20guide.md)
 
 Synthesis
 
