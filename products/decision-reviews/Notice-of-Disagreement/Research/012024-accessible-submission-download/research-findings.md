@@ -22,7 +22,7 @@ Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#further-research-needed)
 
 ## Background
-Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records.
+Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records. This study is focused on teh accessibility of receiving a copy of submission, because we found that PDFs we currently generate may not be accessible to Veterans using screen readers. We want to use this study to check our assumptions, and provide alternate methods for Veterans to save a copy.
 
 ### OCTO Objectives
 This research supports 2 of the 2024 OCTO Objectives: 
@@ -49,6 +49,8 @@ This research also touches on aging and managing new needs for those that develo
 1. Evaluate the effectiveness and value of the accessible submitted appeal page for Veterans using screen readers.
 2. Understand how Veterans using screen readers are currently accessing and storing a copy of their appeal submission.
 3. Understand where Veterans using screen readers expect to access, and how they expect to use a copy of their submission.
+
+**Note:** As we found during our studies, Veterans using screen readers include both blind and low-vision Veterans who use screen readers under certain contexts or to supplement their experience with screen readers.
 
 ## Research Questions
 **GOAL 1: Evaluate the effectiveness and value of the accessible submitted appeal copy page for Veterans using screen readers.**
@@ -82,7 +84,7 @@ This research also touches on aging and managing new needs for those that develo
  
 ## Key Findings
 1. Veterans found a separate page for a copy of their submission was redundant to the confirmation page, and the link language misled Veterans into believing the form was not yet submitted.
-2. Veterans prefer saving a digital or physical copy of their submission rather than returning to a page on VA.gov
+2. Veterans prefer saving a digital or physical copy of their submission. If they saved a copy of their submission, they would not be as inclined to return to a page on VA.gov for that information.
 3. Veterans found the 'What to Expect Next' section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
 4. Veterans using screen readers expect multiple methods of contact, and prefer being notified by email.
 5. Veterans use headings and search to navigate a page, and there is a mixed reaction to the use of lower level headings.
@@ -102,7 +104,7 @@ On the initial 2 screen prototype, 6 out of 7 Veterans missed the link to the se
 >  Review and save it. It sounds like it hasn't been saved. And if it hasn't been saved, it hasn't been submitted. So i'll review. I can review my request that would make sense. I don't know about the and save because at this point about that's what I was checking with you, I’ve already submitted it. - **P1**
 
 ### Finding 2
-Veterans prefer saving a digital or physical copy of their submission rather than returning to a page on VA.gov.
+Veterans prefer saving a digital or physical copy of their submission. If they saved a copy of their submission, they would not be as inclined to return to a page on VA.gov for that information.
 
 Veterans expressed interest in saving a copy of their submission for their records, even if they hope to not have to revisit the information again. Instead, they would reference it for the Next Steps information, and ways to contact VA. They aren’t as interested in coming back to the site for this information, citing that they weren’t sure if this information could be kept long-term and it was more difficult to navigate on the site vs within their documents.
 
@@ -115,8 +117,6 @@ Veterans expressed interest in saving a copy of their submission for their recor
 >  I'm going to save this in case we need it or have to go over it or resubmit it. Cause I'm not trying to fill out in more information all over again. - **P14**
 
 > You know I would save it. So. So I would have a copy of what's going on that way. I don't have to keep going to the website to do it, you know. that's a pretty secure way of doing it. Because, you know, most people don't shred their information, or whatever you just store it in a garbage. And that's a great way of being hacked. So that's why I save everything on my devices. - **P19**
-
-> There's nothing about how long it takes. The only thing I saw was that said 7 to 10 days to get it into the system nothing, about 90 days. 5 years. You know what kind of backlog, and I know that varies. I know it varies. You have different people in different states, and that was told. If I'd lived in Louisiana at the time I originally filed, I would been on. but would have been on disability then. but not in Arkansas. - **P18**
 
 
 ### Finding 3
@@ -135,6 +135,8 @@ Majority of Veterans called out the note about 7-10 days and use it as a guidanc
 > I would love to for it to say exactly what those 7-10 days are, are those business days? it would be great to have a pop up or calendar link API for the next holiday link so (missed commentary on expectation setting given federal holidays) - **P11**
 
 > It's gonna take 7 to 10 busy days. So you don't have to worry, because you know. Oh, well, it's not up there, and it's not up there, you know. You get a basic timeline of when it's going to be up there. - **P19**
+
+> There's nothing about how long it takes. The only thing I saw was that said 7 to 10 days to get it into the system nothing, about 90 days. 5 years. You know what kind of backlog, and I know that varies. I know it varies. You have different people in different states, and that was told. If I'd lived in Louisiana at the time I originally filed, I would been on. but would have been on disability then. but not in Arkansas. - **P18**
 
 
 ### Finding 4
