@@ -181,6 +181,8 @@ Veterans using screen readers expect to receive PDFs from VA and rely on alterna
 
 Experienced screen reader users aren't fond of inaccessible PDFs that are comprised of a single image. They find ways to work around making the content legible by copying the content to a document, printing and running it through OCR, or having someone else help the convert the file.
 
+> I'm gonna stick with PDFs I'm not gonna move off it. Its what people are looking for. - **P7** 
+
 > Some of them [PDFs] are good. Some of them are paying I usually run have to end up running them through a OCR To read unless they're the kind that actually has the detection embedded in the PDF file. - **P18**
 
 >You can take that PDF file and store that. Although I hate PDF files. [why?] Because JAWS doesn't read them. Yeah, to convert word to read it. here's my wife usually comes in helps with that, but I know we can convert PDF to work. - **P4**
