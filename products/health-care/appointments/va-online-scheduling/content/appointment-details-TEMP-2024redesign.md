@@ -445,9 +445,9 @@ Breadcrumb: `< Back to past appointments`
 
 `[card icon: fa-building]` 
 
-`[h1]` Claim exam
+`[h1]` Past claim exam
 
-[[After-visit summary](./shared-content.md)]]
+[[After-visit summary](./shared-content.md#after-visit-summary)]]
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  

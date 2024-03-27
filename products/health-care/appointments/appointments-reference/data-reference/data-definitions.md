@@ -26,16 +26,28 @@ Instructions on how to join a telehealth appointment.
 
 ### Instructions: Prepare for Telehealth Visit
 
-VAOS displays these instructions via `comment` field for `home video` and `atlas` appointments. The `comment` field contains instructions passed from Virtual care Manager (VCM). Right now, VAOS only accepts/support 2 types of instructions ('Video Visit Preparation' & 'Medication Review' instructions) due to limitations in the way data is passed to us in that field.Video visit instructions from Virtual Care Manager (VCM) instructions are suppressed if the instructions are any of the following:
+VAOS displays these instructions in `home video` and `atlas` appointments via the `patientInstruction` field. This field comes from Virtual care Manager (VCM). 
+
+Staff can can configure *either* of these types to display *either* of the supported messages.
+
+Right now, VAOS only accepts/support 2 of the 5 types of instructions due to limitations in the way data is passed to us in that field: 
+  - `Video Visit Preparation`
+  - `Medication Review`
+
+Video visit instructions from Virtual Care Manager (VCM) instructions are suppressed if the instructions are any of the following:
   - `Message sent in MyHealtheVet`
   - `Resources Mailed to Patient`
   - `Signup for My HealtheVet  Message` 
 
-#### Video Visit Preparation - Video at home
+VAOS can't format the text that comes back from VCM to properly display, so we hardcode a version of it in the app. 
+
+#### Video Visit Preparation
+
+Example of data that comes back from VCM in the `patientInstruction field`:
 
 ```
 Before your appointment:
-- If you're using an iPad or iPhone for your appointment, you'll need to download the VA Video Connect iOS app (https://itunes.apple.com/us/app/va-video-connect/id1224250949?mt=8) beforehand. If you're using any other device, you don't need to download any software or app before your appointment.
+- If you're using an iPad or iPhone for your appointment, you'll need to download the [VA Video Connect iOS app](https://itunes.apple.com/us/app/va-video-connect/id1224250949?mt=8) beforehand. If you're using any other device, you don't need to download any software or app before your appointment.
 - You'll need to have access to a web camera and microphone. You can use an external camera and microphone if your device doesn't have one.
 
 To connect to your Virtual Meeting Room at the appointment time, click the "Join session" button on this page or the link that's in your confirmation email.
@@ -47,12 +59,93 @@ To have the best possible video experience, we recommend you:
 
 ```
 
-#### Medication Review - ATLAS
+Example of how data is hardcoded in VAOS  `if (instructionsType === VIDEO_VISIT_PREPARATION)`:
+
+```
+  {
+    return (
+      <div>
+        <h4 className="vads-u-font-size--base vads-u-font-family--sans">
+          Before your appointment:
+        </h4>
+        <ul>
+          <li>
+            If you're using an iPad or iPhone for your appointment, you'll need
+            to download the{' '}
+            <NewTabAnchor href="https://itunes.apple.com/us/app/va-video-connect/id1224250949?mt=8">
+              VA Video Connect iOS app
+            </NewTabAnchor>{' '}
+            beforehand. If you're using any other device, you don't need to
+            download any software or app before your appointment.
+          </li>
+          <li>
+            You'll need to have access to a web camera and microphone. You can
+            use an external camera and microphone if your device doesn't have
+            one.
+          </li>
+        </ul>
+
+        <p>
+          To connect to your Virtual Meeting Room at the appointment time, click
+          the "Join session" button on this page or the link that's in your
+          confirmation email.
+        </p>
+        <h4 className="vads-u-font-size--base vads-u-font-family--sans">
+          To have the best possible video experience, we recommend you:
+        </h4>
+        <ul>
+          <li>
+            Connect to your video appointment from a quiet, private, and
+            well-lighted location
+          </li>
+          <li>
+            Check to ensure you have a strong Internet connection before your
+            appointment
+          </li>
+          <li>
+            Connect to your appointment using a Wi-Fi network if using your
+            mobile phone, rather than your cellular data network
+          </li>
+        </ul>
+      </div>
+    );
+  }
+```
+
+#### Medication Review
+
+Example of data that comes back from VCM in the `patientInstruction field`:
 
 ```
 Medication review
+
 During your video appointment, your provider will want to review all the medications, vitamins, herbs, and supplements you're taking — no matter if you got them from another provider, VA clinic, or local store.
+
 Please be ready to talk about your medications during your video visit to ensure you're getting the best and safest care possible.
+```
+
+Example of how data is hardcoded in VAOS `if (instructionsType === MEDICATION_REVIEW)`:
+
+```
+ {
+    return (
+      <div>
+        <h4 className="vads-u-font-size--base vads-u-font-family--sans">
+          Medication review
+        </h4>
+        <p>
+          During your video appointment, your provider will want to review all
+          the medications, vitamins, herbs, and supplements you're taking
+          &mdash; no matter if you got them from another provider, VA clinic, or
+          local store.
+        </p>
+        <p>
+          Please be ready to talk about your medications during your video visit
+          to ensure you're getting the best and safest care possible.
+        </p>
+      </div>
+    );
+  }
 ```
 
 ### Location Information
@@ -187,7 +280,7 @@ The day and time of the appointment. May be in the future or the past. The time 
 ### Provider Name
 
 VAOS Display Requirements:
-- Frontend recieves the HSRM "Service Requested" data in the `practitioners:` field for communicaty care. 
+- Frontend recieves the HSRM "Service Requested" data in the `practitioners:` field for community care. 
 
 ### Treatment Specialty
 
