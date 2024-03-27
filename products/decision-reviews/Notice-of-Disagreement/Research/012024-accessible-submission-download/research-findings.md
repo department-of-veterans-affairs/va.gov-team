@@ -80,7 +80,7 @@ Veterans found a separate page for a copy of their submission was redundant to t
 >  Review and save it. It sounds like it hasn't been saved. And if it hasn't been saved, it hasn't been submitted. So i'll review. I can review my request that would make sense. I don't know about the and save because at this point about that's what I was checking with you, I’ve already submitted it. - **P1**
 
 ### Finding 2
-Veterans prefer saving a digital or physical hardcopy of their submission rather than returning to a page on VA.gov.
+Veterans prefer saving a digital or physical copy of their submission rather than returning to a page on VA.gov.
 
 Veterans expressed interest in saving a copy of their submission for their records, even if they hope to not have to revisit the information again. Instead, they would reference it for the Next Steps information, and ways to contact VA. They aren’t as interested in coming back to the site for this information, citing that they weren’t sure if this information could be kept long-term and it was more difficult to navigate on the site vs within their documents.
 
