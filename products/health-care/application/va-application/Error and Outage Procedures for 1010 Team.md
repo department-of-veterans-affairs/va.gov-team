@@ -2,15 +2,25 @@
 - Last updated: 3/25/2024
 ---
 
+## Incident Commander for all errors and outage triage is The Delivery Manager
+- The tasks / responsibilities of an incident commander most closely align with that of a delivery manager so she is best suited to tackle the role.
+– How does an incident commanders handle critical incidents:
+-- Identify the objectives of the incident response.
+-- Next, devise a command plan to address the problem. Can be more of a collaborative effort
+-- Monitor the situation and make adjustments as needed.
+
 ## Acknowledge & communicate that there is an error or outage present
 - Should be handled by the Data Analyst & PM team first as they typically have eyes on this. However Devs should be receiving notifications that an error or outage is present (when an alert captures it) and can start preparing to address it. Commuinications are delivered through the health-tools-1010-apm channel on DSVA Slack.
+- In the event that the Data Analyst is out, PMs are capable of doing all of the DD & sentry related tasks associated with this procedure exercise.
 
 
 ## Informing Product Owners that there is a problem
-- PMs can inform the stakeholders that there is an issue. Stakeholders to reach out to will depend on the nature of the problem and where the issue is stemming from. The forms are dependent on different external services per se but the top of the list of folks that need to be informed are:
+- If the error or outage persists for longer than 1 hour / leads to multiple failures of form submissions / or a spike in error rate that exceeds 10%; then the POs are informed there is an issue. PMs can inform the stakeholders that there is an issue. Stakeholders to reach out to will depend on the nature of the problem and where the issue is stemming from. The forms are dependent on different external services per se but the top of the list of folks that need to be informed are:
      - Patrick Bateman
      - Kristen McConnell
 
+## Maintenance Window
+-  Product Owners can make the call to put up the maintenance windows if we determine that the error / outage is severe enough to warrant that action /  we cannot determine the issue within the first 2 hours. Maintenance window’s length of time will be assessed on an hourly basis of whether we can isolate the problem and push a hotfix out to prod within the hour.
 
 ## Review the errors (if any) and VA.gov monitors to determine if the root cause is on the form or sitewide
 - Data analyst is the first one on the scene here; Check logs to determine a root cause if possible (DD, Sentry, etc.). But as the investigation furthers past the dev op tools in place, Dev team will be pulled in shortly there after these sources have been exhausted. Maybe bring in UX folks to ask if there were content changes made in the recent days that could have impacted anything on site.
@@ -25,7 +35,7 @@
 
 
 ## Inform Product Stakeholders (HEC)
-- PMs can inform the stakeholders that there is an issue, or communicate that the scope of the issue extends outside of the code base we have access to with color commentary given by Devs when needed. 
+- If the error / outage persists for longer than 4 hours / leads to multiple failures of form submissions / or a spike in error rate that exceeds 10%; then HEC is informed that there is a full stop blockage preventing veterans from accessing benefits. PMs can inform the stakeholders that there is an issue, or communicate that the scope of the issue extends outside of the code base we have access to with color commentary given by Devs when needed. communicating with HEC should always be done by an OCTO person. & we should use the HEC distribution list instead of individual emails. in the event that a OCTO person cannot be reached, a PMs should be a viable backup for OCTO/PO. In the event PO is not available, the team could reach out to Crew Lead (Currently Lauren Alexanderson) if OCTO representation is needed.
      - Stakeholders:
           - Lauren Alexanderson - Health Tools Crew Lead
           - Kara Eakin - HEC
