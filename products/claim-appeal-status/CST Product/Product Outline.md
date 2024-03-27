@@ -58,10 +58,11 @@ While VA.gov has helped bring a level of transparency to the claims process by p
 - How useful/accurate is the "your place in line/docket" feature for appeals?
  
 # Solution Approaches
-CST: Download Decision Letter Feature Brief - Draft
-CST: Improved Evidence Submission Initative Brief
-CST: Claim Contextulization Initiative Brief
-CST: Claim Notifications Initiative Brief
+- [CST: Download Decision Letter Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Decision%20Letter%20Feature%20Brief.md):  
+- [CST: Improved Evidence Submission Initative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20Initiative.md)
+- [CST: Claims API Migration to Lighthouse Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Claims%20API%20Migration%20to%20Lighthouse%20Initiative.md)
+- [CST: Claim Understanding/Contextualization Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md)
+- [CST: Claim Notifications Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Event-Driven%20Notifications%20Initiative.md)
 
 ## Value Propositions
 ### User Value
