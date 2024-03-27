@@ -102,8 +102,8 @@ Veterans expressed interest in saving a copy of their submission for their recor
 
 ### Finding 3
 Veterans found the next steps section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
-- Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their claim in the status tool within that time range, they would call.
-- Many Veterans also expect the next steps to include more details about how long the entire process should take.
+
+Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their claim in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
 
 > I’ve known, and I've worked with veterans that don't live in areas where they can access. Internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get sorry your access. I would want to know that cause it's not always practical for some people. - **P11**
 
@@ -118,9 +118,9 @@ Veterans found the next steps section valuable, and would want to highlight the 
 
 ### Finding 4
 Veterans using screen readers expect multiple methods of contact, and prefer being notified by email.
-- Veterans are looking for inclusivity when it comes to the ways VA is contacting them
-* A Veteran mentioned that the language surrounding a package being “mailed” to the Veteran lacks options for blind Veterans who would prefer a different method of contact.
-* Another Veteran mentioned that knowing how and when the VA will contact them will help them filter the important correspondence and phone calls from other spam mail or robo calls.
+
+Veterans with vision impairment are looking for inclusivity when it comes to the ways VA is contacting them. A Veteran mentioned that the language surrounding a package being “mailed” to the Veteran lacks options for blind Veterans who would prefer a different method of contact. Another Veteran mentioned that knowing how and when the VA will contact them will help them filter the important correspondence and phone calls from other spam mail or robo calls.
+
 > They'll mail back a submission packet, and there's some verbiage that we have had get established that is supposed to have this provided in alternative means, and not just default back over to, hey? You're gonna send me a paper document that's actually supposed to be a phone call. It says, Blind person like, yeah, don't mail it to me. Give it to me in a format that I could otherwise use. - **P7**
 
 > It was bred in to me a long, long time ago to believe in backups for everything. especially when it comes to the VA. I learned a long time ago that when it comes to voice messages and the mail that if you don't keep a backup once, it's leaves your hands, there's really there's no proof or record. And I guess that's why I fell in love with email cause there's always a paper trail. - **P16**
@@ -137,6 +137,9 @@ Veterans using screen readers expect multiple methods of contact, and prefer bei
 
 ### Finding 5
 Veterans use headings and search to navigate a page, wanting the H1 to be more descriptive of the page, and a mixed reaction to the use of lower level headings.
+
+Veterans were impressed by our use of headers to describe sections, but wished that the H1 was more descriptive of the page itself, instead of just the form name. A few Veterans found that the use of H5s for form questions may be excessive, since it doesn't help them navigate the page.
+
 > Once you mentioned the headings, sometimes the headings are great, sometimes headings are bad. It's easier to hit next heading, then to search. Sometimes I'll also pull up a taggable of links on the page, or all the headings you. - **P18**
 
 > I might almost say here (in the form details), we have too many headings -- I don't personally like headings in forms that much. I prefer they have the form labels. I don't know why headings in forms: it's just more I have to listen to. I'm not the most patient in the world. Even a level 5, I'm still reading it with the letter H. I don't personally do H1 or H2 -- I just do H to get to the section I want to go to without listening to all the other crap.  - **P5**
@@ -146,7 +149,10 @@ Veterans use headings and search to navigate a page, wanting the H1 to be more d
 > So I'm just gonna go and say, just couple the things are just more of a screen. Reader Mac OS, voiceover type things where it kind of it didn't exactly read off the text initially, but I knew that there was text there. So that's why you heard me go back and forth. Otherwise, you know most of the information there is quickly, easily structured. Maybe a little bit too heavy-handed on the headings cause it's almost like every other line is a heading. - **P7**
 
 ### Finding 6
-Veterans using screen readers rely on alternate methods to read inaccessible PDFs.
+Veterans using screen readers expect to receive PDFs from VA and rely on alternate methods to read them when they’re inaccessible.
+
+Experienced screen reader users lament PDFs that are a single image. They would find ways to work around making the content legible by copying the content, printing it and running it through OCR, or having someone else help the convert the file.
+
 > Some of them [PDFs] are good. Some of them are paying I usually run have to end up running them through a OCR To read unless they're the kind that actually has the detection embedded in the PDF file. - **P18**
 
 >You can take that PDF file and store that. Although I hate PDF files. [why?] Because JAWS doesn't read them. Yeah, to convert word to read it. here's my wife usually comes in helps with that, but I know we can convert PDF to work. - **P4**
