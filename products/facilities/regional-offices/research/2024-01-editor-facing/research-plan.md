@@ -99,7 +99,7 @@ Participants will log in to the live Drupal environment and perform real tasks r
 | 2/6/24 | Operating status, Banner alerts, Facility photos (and alt text) |
 | 2/20/24 | Benefit office overview, Prepare for your visit |
 | 3/5/24 | Spotlights, Centralized content |
-| 3/19/24 | Services |
+| 4/2/24 | Services |
 
 ### Length of sessions
 * Session length: 60 minutes
@@ -110,6 +110,6 @@ Please list the people who will be serving in each role.
 - Moderator: Alexis Logsdon
 - Research guide writing and task development: Alexis Logsdon
 - Participant recruiting & screening: Alexis Logsdon and Michelle Middaugh
-- Project point of contact: Alexis Logsdon		
+- Project point of contact: Alexis Logsdon and Amanda Klausmeier		
 - Note-takers:	TBD
  
