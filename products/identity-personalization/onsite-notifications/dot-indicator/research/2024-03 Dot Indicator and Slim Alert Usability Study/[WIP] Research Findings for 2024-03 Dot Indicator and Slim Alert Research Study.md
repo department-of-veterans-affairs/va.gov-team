@@ -56,9 +56,7 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 
 ## Methodology 
 
-_Brief description of method chosen_
-Moderated remote user testing was performed using Zoom, with recruitment of participants through Perigean Technologies. Testing took place March 11th, 2024 through April 1st. 
-
+Moderated remote user testing was performed using Zoom, with recruitment of participants through Perigean Technologies. Testing took place March 11th, 2024 through April 1st. Fifteen Veterans participated in the study.
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
 
