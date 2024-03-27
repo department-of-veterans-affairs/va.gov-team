@@ -6,9 +6,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
-Date: MM/DD/YYYY
+Date: 04/01/2024
 
-[Designer 1] [email], [Designer 2] [email]
+[Matt Marino] [matt.marino@adhocteam.us]
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -43,12 +43,6 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 -  How do Veterans with experience in filing claims understanding the messaging displayed? 
 - What additional information might be valuable for Veterans to see on these banners and cards?
 
-
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
-
-
-
 ## Research Questions
 
 _Research questions here_
@@ -63,6 +57,8 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 ## Methodology 
 
 _Brief description of method chosen_
+Moderated remote user testing was performed using Zoom, with recruitment of participants through Perigean Technologies. Testing took place March 11th, 2024 through April 1st. 
+
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
 
