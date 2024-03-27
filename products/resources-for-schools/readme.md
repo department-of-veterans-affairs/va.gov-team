@@ -20,13 +20,13 @@ SCO Collaborative Workgroup Findings
 
 [1:1 Interview Moderators Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/1:1%20interview%20moderators%20guide.md)
 
-Synthesis
+[Synthesis](https://www.figma.com/file/6uKSWc4hMeKCkesNg2VJAJ/ResourcesForSchools_FocusGroup?type=whiteboard&node-id=0%3A1&t=D07VIyIvU0iGvQIk-1)
 
 Research Findings
 
 ### Design
 
-Prototype
+[Prototype](https://www.figma.com/file/jxsiqfLfxf4uulELWxpGTF/Resources-for-Schools?type=design&node-id=542%3A1559&mode=dev)
 
 —
 
