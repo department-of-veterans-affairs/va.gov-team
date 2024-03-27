@@ -9,17 +9,17 @@ Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 
 **Jump to:**
 
-Hypotheses and conclusions
+[Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#hypotheses-and-conclusions)
 
-Key findings
+[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#key-findings)
 
-Additional findings
+[Additional insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#additional-insights)
 
-Recommendations
+[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#recommendations)
 
-Who we talked to
+[Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#who-we-talked-to)
 
-Further research needed
+[Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#further-research-needed)
 
 ## Background
 Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records.
