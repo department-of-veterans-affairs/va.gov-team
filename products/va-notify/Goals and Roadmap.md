@@ -182,7 +182,7 @@ In an effort to better align with app architecture and stay up-to-date with curr
 
 In order to enhance the user experience in emails, we want to introduce a link indicator (button) style. To support this, we will be updating the formatting key with the markdown symbol that would put the indicator in a notification. 
 
-#2023
+# 2023
 ## 1,000 foot view: Support the 2023 OCTO objectives
 
 In our October 2022 offsite, Charles shared 10 objectives for OCTO for the year. The VA Notify team will support any objective that requires a notification, our primary focus is on the following objectives:
@@ -198,6 +198,8 @@ Our goals are tied to one or more of our themes:
 * Quality / Personal Experience
 * Platform Capabilites
 * Performance, Monitoring, Maintainability & Security
+
+See the [2023 Roadmap]([url](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674760064516/2683531ab541eb0c0d3a191d6af6c2e1429395dd?sender=u50d72e327dd4d1e5143b5882))
 
 ### Notify Team
 
