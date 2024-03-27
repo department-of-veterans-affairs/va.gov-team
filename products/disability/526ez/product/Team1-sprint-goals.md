@@ -3,7 +3,7 @@
 ## Sprint 28
 Period - 03/27/2024 - 04/09/2024
 ### Sprint goals 
-- **2023 Prioritized Work **
+** 2023 Prioritized Work **
    - eVSS to Lighthouse Migration - Engineering
       - BRD (seperation locations endpoint)
         -  Canary launch, followed by staggered release
@@ -21,7 +21,7 @@ Period - 03/27/2024 - 04/09/2024
       - Desk Research
         - Existing research and design on va.gov
         - Current state of submission and post submission experience
-        - FIndings from the desk research
+        - Present findings from the desk research
           
 - **Other**
    - [ ] Complete work on Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
