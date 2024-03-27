@@ -206,6 +206,10 @@ What follows is a menu of the services we offer. No worries if you don't know wh
 - Health check audit
 - Spot checks, general guidance
 
+
+### CAIA A11y Menu of Offerings
+[Accessibility Offerings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility)
+
 ### CAIA A11y service detail
 
 <details><summary>Toggle to view the CAIA A11y menu of services details</summary>
