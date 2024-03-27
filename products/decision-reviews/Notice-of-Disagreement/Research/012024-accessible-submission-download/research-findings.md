@@ -192,8 +192,9 @@ One Veteran went through the prototype using Reader mode on Safari. In Reader mo
 
 ## Recommendations
 1. Give Veterans multiple options to save a copy of their submission, including through email.
-2. Set clearer expectations to Next Steps, and move time-related information higher up on the page.
-3. Include clear method of contact for Veterans 
+2. Set clearer expectations to Next Steps, and move immediate, time-related information higher on the confirmation page.
+3. Provide clear methods of communication and contact, both to VA and from VA, such as, giving more information about what phone number or email VA would be contacting them from.
+
 ## Next Steps
 1. Our team is workshopping the minimum viable feature based on the research findings.
 ## Who we talked to
