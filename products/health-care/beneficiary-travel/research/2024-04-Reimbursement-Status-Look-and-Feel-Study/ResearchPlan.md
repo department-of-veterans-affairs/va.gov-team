@@ -83,9 +83,8 @@ Video interviews over Zoom
 
 
 
-* [Link to conversation guide](url goes here)
-* [Link to prototype](url goes here)
-
+* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/78d87cbe7456a096bcc62808740f4283c45df90f/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
+* [Link to prototype]([url goes here](url here)
 
 ## Recruitment
 
