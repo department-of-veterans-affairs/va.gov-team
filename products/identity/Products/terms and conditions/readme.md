@@ -37,12 +37,15 @@ presented to the user.
 - [ ] **Followup Question**: More details needed.  How are audit requests sent?  Is there an example of an existing audit?
 
 # Pre-Launch Action Items
-- [ ] Final Legal Docs from Content Team _(Tom)_
-- [ ] Logout URL for people who don't accept TOU _(Alex)_
-- [ ] Cerner Cookie _(Alex)_
-- [ ] Request from MHV to send their users to our login page & redirect back to MHV _(Alex)_
-- [ ] Fix bug where mobile app doesn't redirect users who don't accept TOU _(Alex)_
-- [ ] Remove TOU from other areas of va.gov and the mobile app 
+- [x] Final Legal Docs from Content Team _(Tom)_
+    - [x] [Terms of use final draft](https://docs.google.com/document/d/1S2MTIZ3tklLheHF--xQQau9PnVkVUlNd/edit?usp=sharing&ouid=105984809890077019983&rtpof=true&sd=true)
+- [x] Logout URL for people who don't accept TOU _(Alex)_
+    - [x] [Declined page](https://www.va.gov/terms-of-use/declined
+- [x] Cerner Cookie _(Trevor + Alex)_
+- [x] Request from MHV to send their users to our login page & redirect back to MHV _(Alex + Joe)_
+    - [x] Asks MHV team to add a query parameter `redirect_url=<their application url>`
+- [x] Fix bug where mobile app doesn't redirect users who don't accept TOU _(Alex)_
+- [x] Remove TOU from other areas of va.gov and the mobile app
 - [ ] Create timeline for TOU Launch & Post-Launch
 
 # Post-Launch Action Items
@@ -50,6 +53,7 @@ presented to the user.
 - [ ] Do we want to create functionality to set either _Accept_ or _Decline_ (probably _Accept_) as the default?
 - [ ] Create a "Terms of Use" link in the site footer so users can change their choice?
 - [ ] Reporting metrics
+
 - How many people accepted (over x period of time)
 - How many people declined (over x period of time)
 - How many people took no action (over x period of time)
