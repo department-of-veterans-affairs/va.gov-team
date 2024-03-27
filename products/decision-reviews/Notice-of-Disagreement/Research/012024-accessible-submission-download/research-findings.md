@@ -7,6 +7,20 @@ Product: Sade Ragsdale
 
 Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 
+**Jump to:**
+
+Hypotheses and conclusions
+
+Key findings
+
+Additional findings
+
+Recommendations
+
+Who we talked to
+
+Further research needed
+
 ## Background
 Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records.
 
