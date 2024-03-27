@@ -35,28 +35,19 @@ Canary	20
 Pilot	20  
 
 ### Problem statement
-The VA has prioritized investment in the adoption of Login.gov as the primary sign-in method for Veterans accessing their benefits, because it is built on secure, modern technology and integrates easily with other government applications, requiring only one set of login credentials to be used across many sites. Login.gov currently offers remote identity verification along with an in-person option at United States Post Offices, however, these sites are not always prepared to accommodate the needs of Veterans. Consider that:
- 
-- Login.gov relies primarily on remote identity verification, currently. 
-  - The current USPS in-person support is offered as a backup, not a primary method of identity proofing.
-  - During our discovery phase, we learned that Veterans are seeking a channel where they can rely on attendants to help them through identity verification.
-- The number of controls required in NIST 800-63 when identity proofing remotely presents significant challenges. As of the May 2023 Login.gov identity verification report:
-  - Of the applicants that tried to submit documentation, less than 53% successfully completed the process;
-  - Further, ~27% of applicants abandon the process without even attempting to upload their documents.
-- The draft revision 4 of NIST 800-63 is indicating that an in-person proofing option is required to meet IAL2.
+Veterans Affairs has prioritized investment in the adoption of Login.gov, as well as continued support for ID.me, as the primary sign-in methods for Veterans accessing their benefits. While these credential providers offer a shared service, allowing access to VA and other government agencies via a single account, their remote identity verification success rates are low (less than 50%). The Secure Sign In Transition team, under OCTO Identity, is tasked to understand how VA’s intimacy with Veterans might be leveraged to provide simple, secure and accessible in-person verification and support for Veterans and their communities.
 
-How might we meet Veterans where they are and create a means for Veterans to complete identity verification in person?
+In-Person Proofing services provided by Veteran Affairs would mean increased access and support for Veterans to set up their new secure login and complete identity verification so they can access their benefits and services. Providing in-person proofing at VA facilities allows Veterans to get the support they need in the format they prefer while also enabling them to access several services in one place they know and trust – the VA. Given the presence of trained identity verifiers across VA sites, there are already trained experts that understand the importance of and have the ability to ensure a compliant verification process for Veterans. The product being tested in the IPP pilot features a Wizard assistant, removing the need for prior training to use the custom application. Volunteer VA sites and identity verifier participants will play a key role in the development of this groundbreaking in-person verification process, providing feedback and input throughout the process and helping the VA to ensure we meet Veterans where they are so no Veteran is left behind. 
 
-In choosing pilot sites, it is important for Veterans to be familiar with the locations, and ideal if they have positive associations with the service provided. VA has more intimacy with Veterans and their community compared to CSPs that act as a shared service to the entire US population. VA also has access to information that facilitates identity proofing for Veterans.Given the VA’s willingness to engage with Veterans, Veteran Affairs facilities are the ideal hosts for  an In-Person Proofing (IPP) service pilot. 
+The following pilot plan outlines what the pilot will entail, roles and responsibilities, and how success will be measured in preparation for a MVP launch with eventual phased national expansion.
 
-In-Person Proofing services provided by Veteran Affairs would mean increased access and support for Veterans to set up their new secure login and complete identity verification so they can access their benefits and services. Providing in-person proofing at VA facilities allows Veterans to get the support they need in the format they prefer while also enabling them to access several services in one place they know and trust – the VA. Given the presence of trained identity verifiers across VA sites, there are already trained experts that understand the importance of and have the ability to ensure a compliant verification process for Veterans. The product being tested in the IPP pilot features a Wizard assistant, removing the need for prior training to use the custom application. Volunteer VA sites and identity verifier participants will play a key role in the development of this groundbreaking in-person verification process, providing feedback and input throughout the process and  helping the VA to ensure we meet Veterans where they are and no Veteran is left behind. 
-
-The following pilot plan outlines what the pilot will entail, roles and responsibilities, and how success will be measured in preparation for a MVP launch with phased expansion nationally.
 
 ### Pilot Goals 
 
-Learn how Veterans and Proofing Agents experience in-person proofing through the pilot; use these insights in preparation for a scaled rollout.
-Prove that Veterans who elect in-person proofing can have an easy, streamlined, and secure experience when verifying their identity in person with a Proofing Agent.
+Learn how Veterans and VA staff experience in-person proofing by simulating a real-world experience.
+Prove that Veterans who elect in-person proofing can have an easy, streamlined, and secure experience when verifying their identity in person with a VA staff member.
+Identify improvements for the application and service in preparation for a scaled service rollout to VA facilities.
+
 
 ### Objectives
 
@@ -140,33 +131,30 @@ Objective 2: Implement a Pilot IPP application for Proofing Agents to walk Veter
 Objective 3: Measure the outcomes of the IPP Pilot and learn what adjustments are needed to the applications, the training provided to Proofing Agents, the communication strategy with Veterans, etc., in preparation for a scaled rollout.
 
 Scope and Duration: 
-- 2-4 weeks 
-- 1-3 proofing agents
-- Recruit through Director of MHV Identity Verifiers (Sara Temlitz)
-  - Recruit the same proofing agents as those that participated in usability testing
-  - Note: Proofing Agents will not need to be focused on this activity for the full duration. Involvement in this pilot only occurs when a Veteran arrives for in-person proofing.
-- 10-20 Veteran participants
-  - Recruited by Perigean
-  - Recruit different participants than those who participated in usability testing
-  - Will accept walk-ins during the Pilot to increase numbers of participants and learn how a site could be prepared to assist this group
-- At least 10 sessions with Veterans
-  - If 10 sessions incomplete, plan for pilot follow up to complete sessions
+- 4-5 business days per pilot
+- 1-3 pilot sites
+- 1-2 “proofing agents: per site
+- Recruit through Connected Care, Virtual Resource Health Center
+- MHV Coordinators are the VA staff identified as proximal to “proofing agents” 
+- Note: Proofing Agents will not need to be focused on this activity for the full duration. Involvement in this pilot only occurs when a Veteran arrives for in-person proofing.
+- 5-9 Veteran participants per site
+- Recruited by Perigean
+- At most, 9 sessions with Veterans per site
 
 ### Stakeholders
 
 - VA Product Lead - Tom Black
-- Login.gov Adoption Team:
-  - Delivery Lead - Dawn Muñoz
-  - Product Lead - Lauren Morris
-  - Engineering Lead - Rahul Vyas
-  - Product Manager / Identity SME - Porta Antiporta
-  - Engineer - Anu Das
-  - UX Lead - Sophia Philip
-  - UX Designer - Sofia Kirkman
-- Participating Testing Site
-  - Site Coordinator
-- MHV Identity Verifiers
-  - 5 Proofing Agents at Test Site
+- Secure Sign In Transition Team:
+- Product Lead - Lauren Morris
+- Engineering Lead - Rahul Vyas
+- UX Lead - Sophia Philip
+- Participating Testing Site - Virtual Health Resource Center, Connected Care
+- VHRC Site
+- MHV Coordinators (with identity verification authorization) 
+- 1-2 Proofing Agents at Test Site
+- End Users
+- Recruited Veterans
+
 - Testers:
   - For Usability Testing (Phase I and II): 
     - Login.gov Adoption Team Members
@@ -209,8 +197,6 @@ Scope and Duration:
 
 Prior to pilot launch, the following testing will be conducted:
 - Quality Assurance testing will be conducted internally in development cycles
-- User Acceptance Testing (UAT) will be conducted by the Login.gov Adoption team to ensure proper flow, absence of bugs, etc.
-- User Acceptance Testing (UAT) will be conducted with VA.gov/customer
 - Usability Testing (as detailed below) will be conducted with Veterans and Proofing Agents for 2 weeks prior to Pilot launch
 
 IPP Pilot Phases:
@@ -244,28 +230,75 @@ A. Recruited proofing agents will attend a 1 hour virtual session, during which 
  5.  Initiate Proofing Agent flow using Figma prototype to navigate
  6.  Talk through their thinking as they go through the steps to verify a Veteran’s identity
  7.  Answer questions at the end of the session (post-survey)  
-B. Consent will be obtained to record session
-C. During this session, the proofing agent will be provided background information on the IPP pilot and the usability test goals  
-D. The proofing agent will be provided a Figma prototype to navigate
-E. The proofing agent will be encouraged to use a Think Aloud technique to capture reactions, questions and reflections as they interact with the tool
-F. The tester will ask follow up questions to gain information on the proofing agent experience as they use the prototype and their receptivity and perception of feasibility of using the application. The tester will also ask questions specifying unique use cases, e.g. Veteran without a case number showing up in person.
-G. Following the usability test with Proofing Agents, the input will be used to edit the role play script for the Veteran Usability Test and Pilot.
+ 8. Consent will be obtained to record session
+ 9. During this session, the proofing agent will be provided background information on the IPP pilot and the usability test goals  
+ 10. The proofing agent will be provided a Figma prototype to navigate
+ 11. The proofing agent will be encouraged to use a Think Aloud technique to capture reactions, questions and reflections as they interact with the tool
+ 12. The tester will ask follow up questions to gain information on the proofing agent experience as they use the prototype and their receptivity and perception of feasibility of using the application. The tester will also ask questions specifying unique use cases, e.g. Veteran without a case number showing up in person.
+ 13. Following the usability test with Proofing Agents, the input will be used to edit the role play script for the Veteran Usability Test and Pilot.
 
 III. Onsite Pilot at Proofing Site  
 
-A. Prior to Pilot:
-  1. Participating site will reserve space, inclusive of a computer, that we can use for testing (see requirements in Infrastructure and Environment section above)
-  2. Participating site will notify site staff of Pilot
-  3. Proofing Agent will be contacted to reserve time for testing period and confirm attendance
-B. Day of Pilot (during duration of onsite pilot phase):
-  1. Proofing Agent will arrive and meet with researcher to take a survey at the start of each day to evaluate level of comfort and confidence in in-person proofing.
-  2. Researcher will get Proofing Agent set up in workstation and ensure that they know how to open the applications when the Veteran arrives.
-  3. Proofing Agents and Researchers will greet Veterans as they arrive for in-person identity verification, answering any questions.
-  4. Researcher will conduct a brief pre-survey with Veterans.
-  5. Proofing Agent will walk through the steps in the IPP application as the recruited Veterans arrive  during  the onsite pilot phase and will conduct verification in the reserved room/area
-  6. Researchers  will observe verification throughout the study.
-  7. Proofing Agent will take a survey at the end of each day evaluating level of comfort and confidence in in-person proofing.
-  8. Researchers will be onsite to troubleshoot any technical roadblocks Proofing Agents or Veterans experience during the pilot.
+Site Setup:
+- VHRC site identified for testing
+- Initial call conducted with participating VHRC site team and MHV Coordinators that will participate as “proofing agent”
+- Follow up call that walks through pilot procedure
+- Confirm semi private space made available 
+- Two chairs
+- VA computer that enables access to wifi and Identity Access Management Toolkit for VA staff made available
+- Remote check with VA staff that they will be able to access application
+
+Veteran Recruitment:
+- Perigean will recruit Veteran participants who consent and are able to come in person to selected site
+- Will be instructed to bring personal smart device that enables private email access
+- Will be instructed to bring identification documents
+
+Pilot Flow
+- SSiT research team and VA staff are positioned in designated testing area
+- Signage will have been put up
+- VA staff informed of testing and instructed to direct Veterans to testing area
+- VA staff will complete pre pilot survey
+- Veteran participant arrives and is directed to testing area
+- Veteran greeted by SSiT research team member
+- Confirm consent
+- Veteran will be instructed to use intake application screens on a SSiT computer
+- SSiT staff will support if needed. If successful, direct Veteran to VA staff
+- Upon completion of intake, Veteran will check email on personal smart device
+- VA staff will facilitate verification through the proofing agent side of the application on the VA computer with Veteran
+- Will be unmoderated unless major issues occur and SSiT team member will step in
+- SSiT team member will observe exchange
+- Upon completion of verification, VA staff will guide Veteran to SSiT research team for close out
+- Provide Veteran with anti fraud letter for feedback
+- Provide Veteran with educational material on getting a secure sign in set up 
+- Veteran completes feedback survey
+- Direct Veteran to exit
+- Have proofing agent complete post pilot survey
+- SSiT research team huddles in case any issues arise to make any changes if needed
+
+Schedule
+Day 1:
+SSiT research team will arrive and meet VHRC site team
+Review area and confirm wifi connectivity and application access on VA computer
+Confirm connectivity for SSiT computer
+*If possible conduct research
+
+Day 2:
+VA staff completes pre-survey
+Conduct 3-5 Veteran sessions
+VA staff completes end of day survey
+Review if any issues occurred, should Veteran need to come back in confirm alternative day
+
+Day 3:
+Conduct 3-5 Veteran sessions
+Review if any issues occurred, should Veteran need to come back in confirm alternative day
+
+Day 4:
+VA staff completes pre-survey
+Conduct 3-5 Veteran sessions
+VA staff completes post-survey
+Close out meeting with VHRC site team
+SSiT research team departs
+
 
 ### Data Collection and Analysis
 
