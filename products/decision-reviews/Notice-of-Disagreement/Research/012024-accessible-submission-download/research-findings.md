@@ -25,7 +25,10 @@ Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records.
 
 ### OCTO Objectives
-This research supports 2 of the 2024 OCTO Objectives: Our digital experiences are the best way to access VA health care and benefits. Our platforms are the best way to deliver products at VA.
+This research supports 2 of the 2024 OCTO Objectives: 
+* Our digital experiences are the best way to access VA health care and benefits. 
+* Our platforms are the best way to deliver products at VA.
+
 This research supports OCTO 2023 priorities 2 and 6:
 * Solidify the VA.gov platform
 * Enhance Veterans’ personalized online experience
