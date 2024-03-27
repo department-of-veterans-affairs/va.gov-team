@@ -1,5 +1,10 @@
 # MONTHLY UX/PM STRATEGY MEETINGS
 
+## 4/24/2024
+- Topics
+    - Review new cross-team roadmap
+- Recording
+
 ## 4/10/2024
 - Topics
     - Standard Metrics (single dashboard)
