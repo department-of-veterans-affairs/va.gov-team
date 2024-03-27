@@ -9,7 +9,7 @@ Product, business, and technical documentation of [Appointments](https://github.
 
 ## Backend documentation
 
-[Backend logic](./backend-logic.md)
+[Backend logic](./backend-logic.md)  
 [VistA appointments, facilities, and clinics](./vista-appointments-facilities-clinics.md)
 
 ## Access the Appointments Tool
