@@ -16,7 +16,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 * [SLO Brainstorm on Figma](https://www.figma.com/file/RFJBhEtGHVnWUOAGn1Gnl8/SLO-Brainstorm?type=whiteboard&node-id=0-1&t=3vuj1urgEUrWjBCo-0)
 
 ## What's In Scope: 
-For this first iteration, success will be:
+For this first iteration, success will be determining SLOs for:
 * Authentication Logging & Monitoring
   * Availibility
     * Logging in.
