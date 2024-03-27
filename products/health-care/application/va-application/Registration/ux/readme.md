@@ -11,7 +11,7 @@ The problem is to add this option to the online EZ in a way that is not confusin
 ### Most Recent Work
 
 - [Prioritization Matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710355314983/31aebd05b2ad4aef0b3e3abb04e9b1886c1f4cff?sender=uadf1ed7fe7c76f0914967329) - in progress
-- [Wireframes v2](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=86-36817&mode=design&t=iUWqKCLTMPFMYn84-0) - not yet started
+- [Wireframes v2](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=86-36817&mode=design&t=iUWqKCLTMPFMYn84-0) -  in progress
 
 
 ## Workshops with SMEs 
@@ -22,6 +22,16 @@ The problem is to add this option to the online EZ in a way that is not confusin
 
 **Journey Maps**
 
+[PDFs on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Registration/ux/journey-maps)
+
+**Registration reason: Service Connected Only**
+- Current State
+- Future State - No auto registration
+- Future State - Autu registartion
+
+**Registration reason: Mental Health Care**
+- Current State
+- Future State
 
   
 
