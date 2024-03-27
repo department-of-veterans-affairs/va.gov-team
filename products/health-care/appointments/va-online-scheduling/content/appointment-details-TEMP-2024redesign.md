@@ -435,38 +435,40 @@ Contact the [Facility Name] compensation and pension office if you need to resch
 
 **NAVIGATION**
 
-URL: `https://va.gov/my-health/appointments/[ID]`
+URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: ``
+Page title: `Past claim exam appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to past appointments`
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
-
 **PAGE CONTENT**
 
-```
-[serviceCategory] Claim exam
+`[card icon: fa-building]` 
 
-[Facility name]
-[Facility address]
-Directions
+`[h1]` Claim exam
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+[[After-visit summary](./shared-content.md)]]
 
-```
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+`[Button]` Add to calendar
 
-```Print```
+`[h2]` Where to attend  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: ?]` [Directions](#)
+
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[h2]` Need to make changes?
+Contact the [Facility Name] compensation and pension office if you need to reschedule or cancel your appointment.
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 

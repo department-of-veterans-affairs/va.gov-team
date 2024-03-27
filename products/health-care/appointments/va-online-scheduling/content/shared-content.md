@@ -2,9 +2,11 @@
 
 Content that is the same across multiple pages/sections
 
+## After-visit summary
+
 ## Appointments Footer
 
-(H) `Need help?`
+[H] `Need help?`
 
 ```
 If you need help scheduling an appointment, please call your VA or community care health facility. {link 1}[Find your health facility’s phone number.]
