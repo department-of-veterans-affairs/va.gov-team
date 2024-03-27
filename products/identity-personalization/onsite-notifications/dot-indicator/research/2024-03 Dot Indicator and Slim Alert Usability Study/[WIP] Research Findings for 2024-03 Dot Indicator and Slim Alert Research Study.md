@@ -8,7 +8,7 @@
 
 Date: 04/01/2024
 
-[Matt Marino][matt.marino@adhocteam.us]
+[Matt Marino](matt.marino@adhocteam.us)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
