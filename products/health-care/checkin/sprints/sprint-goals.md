@@ -93,16 +93,16 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
-    - ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
+    - ✔️ ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
         - Rolled over from last sprint
-            - ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
-            - ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
+            - ✔️ ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
+            - ✔️ ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
             - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
             - ✔️ ❗ 🟩 [[FE] Create e2e tests for failed scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77876)
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-        - ❗ 🟩 [[FE] - Check travel answers before submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79020)
+        - ✔️ ❗ 🟩 [[FE] - Check travel answers before submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79020)
         - ❗ 🟩 [[FE] Update Review Page (eCheck-in & Stand-alone Travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
              - Added 1 day after sprint started
         - ✔️ ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
@@ -111,7 +111,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
         - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)      - pulled in in the middle of the sprint
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
-        - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
+        - ✔️ ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - 🟥 [[UX][Design] Update confirmation page for 1 travel claim success and 1 fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78834)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - ✔️ 🟥 [[UX] Prepare eligibility userflow for VTP presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79079)
@@ -121,7 +121,7 @@ ________________________________________________________________________________
         - ✔️ 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
     - **Sub Goals: Submit Q1 Translations to the State Department**
-        - 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
+        - ✔️ 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [[UX] Add documentation in Git for how/where to pull quarterly metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79314)
            - Pulled in 3/26
@@ -133,7 +133,7 @@ ________________________________________________________________________________
         - Pulled in halfway through sprint (3/26)
     - ✔️ 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - ✔️ 🟩 [[FE] Add back to last screen on /contact-information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78803)
-    - 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
+    - ✔️ 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
