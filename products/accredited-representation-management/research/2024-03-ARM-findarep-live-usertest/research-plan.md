@@ -117,7 +117,7 @@ Remote on Zoom
 	- https://www.va.gov/get-help-from-accredited-representative/
  	- https://www.va.gov/get-help-from-accredited-representative/find-rep
 
-- [Link to prototype](TBD)
+- [Link to prototype](https://www.figma.com/proto/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?page-id=455%3A76935&type=design&node-id=455-150313&viewport=11294%2C-1500%2C0.5&t=aicAq8AVlmjMXWrd-8&scaling=min-zoom&starting-point-node-id=456%3A171489&hotspot-hints=0&hide-ui=1)
  
 
 ## Recruitment<a id="recruitment"></a>
@@ -284,7 +284,9 @@ Timeline is an estimation and will be updated as dependencies clear. Some depend
 When will the thing you are testing be finalized? 03/26/2024
 
 
-**Pilot Session: Covered with AT Group**
+**Pilot Session**
+- Pilot participant email: TBD
+- Date and time of pilot session: 03/10 at TBD TIME
 
 
 ### Research sessions<a id="research-sessions"></a>
@@ -320,7 +322,7 @@ Please list the people who will be serving in each role. Include the **primary p
 
 - **Project point of contact:** Janelle Finnerty
 
-- **Participant(s) for pilot test:** In AT group
+- **Participant(s) for pilot test:** TBD
 
 - **\*Accessibility specialist (for sessions where support for assistive technology may be needed):** N/A
 
