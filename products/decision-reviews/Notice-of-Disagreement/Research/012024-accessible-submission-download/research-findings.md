@@ -175,7 +175,7 @@ Veterans using screen readers rely on alternate methods to read inaccessible PDF
 3. Blind Veterans recommend the My VA app to manage their claims because of the ease of login, navigation, and use with screen readers.
 > Health and benefits app now is a godsend. and in that I can get in there. Look at benefits, look at their claim letters and see where it is that way. But as far as actually filing appeals and things like that, it's more or less our national staff that will do that. - **P8**
 
-> They changed the login process for you, but the app was surprisingly easy, because you were able to use the app with Pr. As I said surprisingly, I figured I had to go find I found my password and all of that which is stored but then, when I went in it was face ID had already set up, and bingo I was in. - **P1** 
+> As I said surprisingly, I figured I had to go find I found my password and all of that which is stored but then, when I went in it was face ID had already set up, and bingo I was in. - **P1** 
 
 4. Reader mode hides certain components, rendering the page inactionable.
 
