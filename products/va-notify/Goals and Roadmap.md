@@ -199,7 +199,7 @@ Our goals are tied to one or more of our themes:
 * Platform Capabilites
 * Performance, Monitoring, Maintainability & Security
 
-See the [2023 Roadmap]([url](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674760064516/2683531ab541eb0c0d3a191d6af6c2e1429395dd?sender=u50d72e327dd4d1e5143b5882))
+See the [2023 Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1674760064516/2683531ab541eb0c0d3a191d6af6c2e1429395dd?sender=u50d72e327dd4d1e5143b5882)
 
 ### Notify Team
 
