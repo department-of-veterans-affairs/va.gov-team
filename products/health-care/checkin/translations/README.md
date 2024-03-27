@@ -9,5 +9,6 @@
 - "mileage-reimbursement-only": "Mileage reimbursement only",
 - "please-review": "Please review and certify the statements are true: ",
 - "on-date-at-time": "on {{date, dayOfWeek}}, {{date, long}} at {{date, time}}",
+- "well-come-get-you-from-the-waiting-room": "We'll come get you from the waiting room when it's time for your appointment to start. If you wait more than 15 minutes, tell a staff member.",
 
 
