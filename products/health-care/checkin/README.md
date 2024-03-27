@@ -24,6 +24,10 @@
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
+- OCTO Pod
+    - Kay Lawyer (PO)
+    - Kristen McConnell (UX)
+    - Stephen Barrs (Eng)
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
 - Delivery Manager & Scrum Master - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
 - UX Researcher - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
