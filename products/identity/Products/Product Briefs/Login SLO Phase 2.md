@@ -34,10 +34,7 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 
 
 ## Assumptions:
-* In order to answer the various things to be determined (you know, all of those things with a "***TBD***") in the actual user stories, a series of spikes have created for the engineering team to investigate the questions surrounding service outages, what we consider service degradation.
-  *  NOTE: The spikes are all linked to their associated User Stories (and vice versa).
-* That we may have other SLO that we need to create as we do the initial series of spikes, and the engineering team has opinions on what to monitor.
-* There are already responses to availability service disruptions.
+
 
 
 ## Solution Approach: 
