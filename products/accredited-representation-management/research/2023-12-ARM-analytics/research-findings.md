@@ -209,7 +209,9 @@ _Note: Data available to us is scattered, and hard to correlate at times. There 
 
    3.  **_(No answer found.)_** In FY 2023, how many Veterans put Limitations on Representation on the 21-22a? (Found in form 21-22a on field 24.)
 
-3. 09/2023 - 11/2023, what are the top doc types that appear with packets containing 21-22/21-22a? **_(_**[**_VBA Requests_**](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EhvxJXpdbJZLhhyzFvhZZOsBE1lnPcb4Yc-F2PGIWl0obQ?e=7LjyAF)**_)_**
+3. **NEW** For FY 2023 (10/2022 - 09/2023), how many 21-22 and 21-22a forms were submitted, broken down by submission method (Benefits Intake API, QuickSubmit, fax, paper mail)? **_(_**[**_2024/03 VBA Email_**](https://dvagov.sharepoint.com/:i:/s/vaabdvro/EaooUbp5yOdKvq0hUGTNdGoBSf2b30ARIuJ37hDQjg_tqw?e=D9gkDR)**_)_**
+
+4. 09/2023 - 11/2023, what are the top doc types that appear with packets containing 21-22/21-22a? **_(_**[**_VBA Requests_**](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EhvxJXpdbJZLhhyzFvhZZOsBE1lnPcb4Yc-F2PGIWl0obQ?e=7LjyAF)**_)_**
 
 
 #### 21-22/21-22a System Specific<a id="21-2221-22a-system-specific"></a>
@@ -292,9 +294,9 @@ _Note: Data available to us is scattered, and hard to correlate at times. There 
 
 6. **Most 21-22/21-22a forms will be submitted through digital means.**
 
-   1. **Inconclusive/** Unable to answer by quantitative means. We do know that QuickSubmit and eBenefits makeup 43% of 21-22 submissions, and QuickSubmit 53% of 21-22a submissions. Unknown number of fax or paper submissions.
+   1. **NEW True/** Benefits Intake API and QuickSubmit are 85% of submissions, fax 10%, and paper mail only 5%.
 
-![](https://lh7-us.googleusercontent.com/p-IgEffW3Ueu9kQBntT1nZ_QneUrps7U5zS50qEmzAettmG_Bh6za_HF4CkzkBzy9ExSO-g0-N4xyMzRLRLAeuW_CglUVK6AwGV9nZwyKv-5Yv9tnPhJDIFr_LxN-AJh28PFGiqYGe_YTC70mHCcezM "Points scored")
+![](https://lh7-us.googleusercontent.com/N82dJE5x_0RcxNEUi5UKLM75wbu8pOktR6Q2dvRiEwPmyFhZcH-0n9-6LlGfaG8IuhP0mo_z3NbTdeb7tTXzGP9iuTI41wjYsd0v_FwApYGleEIlLAWNc7c-SUiHxRlrF8aIusQAi0NfegAC-Edz1rY "Points scored")
 
 7. **Power of attorney documents are not frequently changed or updated.**
 
@@ -526,6 +528,27 @@ None at this time.
 | -------------------------------- | --------------------- | ---------------- | ---------------------- | ---------------- |
 | **All 21-22/21-22a Submissions** | **21-22 Submissions** | **% from total** | **21-22a Submissions** | **% from total** |
 | 869,874                          | 747,213               | 86%              | 122,661                | 14%              |
+
+**NEW: What methods can a 21-22/21-22a be submitted? Of those submission options, what is the number of 21-22/21-22a’s submitted per method in FY 2023? _(Source:_** [**_2024/03 VBA Email_**](https://dvagov.sharepoint.com/:i:/s/vaabdvro/EaooUbp5yOdKvq0hUGTNdGoBSf2b30ARIuJ37hDQjg_tqw?e=D9gkDR)**_)_**
+
+**Submission Methods**
+
+- Benefits Intake API – Digital mail, the vendors that utilize the BIAPI send the 21-22/21-22a over and it also follows the same path and processing as paper mail once it reaches CMP.
+
+- QuickSubmit – Digital mail, a Veteran or family member fills out the form, it gets uploaded by Veteran, Family member, or VA Business Partner using QS and it goes through the same processing normal paper mail is processed once it reaches CMP.
+
+- Fax – Digital mail, same pathway as paper mail once it reaches CMP.
+
+- Paper mail – mailed in via USPS and processed through our mail facility which eventually ends up in the Centralized Mail Portal where mail automation or claims processors work the claims from there.
+
+|                        |           |                |
+| ---------------------- | --------- | -------------- |
+| **Method**             | **Total** | **Percentage** |
+| All submission methods | 869,603   |                |
+| Benefits Intake API    | 377,055   | 43%            |
+| QuickSubmit            | 365,003   | 42%            |
+| Fax                    | 89,706    | 10%            |
+| Paper mail             | 37,839    | 5%             |
 
 
 #### For FY 2023 (10/2022 - 09/2023), how many 21-22 form submissions came through Direct Upload ([QuickSubmit](https://eauth.va.gov/accessva/?cspSelectFor=quicksubmit))?<a id="for-fy-2023-102022---092023-how-many-21-22-form-submissions-came-through-direct-upload-quicksubmit"></a>
