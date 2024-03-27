@@ -101,7 +101,7 @@ Veterans expressed interest in saving a copy of their submission for their recor
 
 
 ### Finding 3
-Veterans found the next steps section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
+Veterans found the 'What to Expect Next' section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
 
 Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their claim in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
 
@@ -192,7 +192,7 @@ One Veteran went through the prototype using Reader mode on Safari. In Reader mo
 
 ## Recommendations
 1. Give Veterans multiple options to save a copy of their submission, including through email.
-2. Set clearer expectations to Next Steps, and move immediate, time-related information higher on the confirmation page.
+2. Set clearer expectations about the process under What to Expect Next, and move immediate, time-related information higher on the confirmation page.
 3. Provide clear methods of communication and contact, both to VA and from VA, such as, giving more information about what phone number or email VA would be contacting them from.
 
 ## Next Steps
