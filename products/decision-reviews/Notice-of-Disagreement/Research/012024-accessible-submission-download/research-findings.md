@@ -47,7 +47,7 @@ This research also touches on aging and managing new needs for those that develo
 * What do Veterans using screen readers want to do with a copy of their submission?
 
 ## Methodology
-* Usability testing with assistive technology users through code prototype shared on the staging environment. We tested the first version with 9 participants, and the second version with 6 participants.
+* Usability testing with assistive technology users through [prototype](https://staging.va.gov/decision-reviews/submitted-appeal/) shared on the staging environment. We tested the first version with 9 participants, and the second version with 6 participants.
 
 ## Hypotheses and Conclusions
 * We hypothesize that the copy of the submission page will be usable by Veterans using screen readers. They will be able to understand it and save it. **Mostly True**
@@ -74,11 +74,13 @@ This research also touches on aging and managing new needs for those that develo
 ### Finding 1
 Veterans found a separate page for a copy of their submission was redundant to the confirmation page, and the link language misled Veterans into believing the form was not yet submitted.
 
+![Screenshot 2024-03-27 at 1 16 23 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/998f2386-9bdd-40c8-abfe-4bbc41d8475f)
+
 On the initial 2 screen prototype, 6 out of 7 Veterans missed the link to the second screen. When prompted, Veterans mentioned that the link language made them believe that the form has yet been submitted. When guided to the second screen, Veterans mentioned that the information is useful, but had the expectation that the information on the two pages to be combined.
 
 > This page sounds good like I was thinking as we could easily take the previous page and merge some of the elements from that page onto this page and get rid of that previous page altogether. Just because that previous page really serves little purpose concerning that you're doing that confirm confirmation 2 pages back, or just somehow. Yeah, this is the more important of the 2 pages we've reviewed. Yeah, can you expand on why you, this is more important just actually is what you have just submitted. - **P7**
 
-> I would say it's a probably about a 4 [out of 5 for usefulness], and say that only because it seems redundant to the previous page. Okay, there's a bit of redundancy here. It's kind of going through same thing over and over, the other one just said, if you want to view it and then print it or view it, and save it, or whatever that button was on the other page, support you here, which said the same thing. But this one obviously says, more information on your phone numbers and addresses. I think 2 of them could be combining into just one page. - **P8**
+> I would say it's a probably about a 4 out of 5 for usefulness, and say that only because it seems redundant to the previous page. Okay, there's a bit of redundancy here. It's kind of going through same thing over and over, the other one just said, if you want to view it and then print it or view it, and save it, or whatever that button was on the other page, support you here, which said the same thing. But this one obviously says, more information on your phone numbers and addresses. I think 2 of them could be combining into just one page. - **P8**
 
 >  Review and save it. It sounds like it hasn't been saved. And if it hasn't been saved, it hasn't been submitted. So i'll review. I can review my request that would make sense. I don't know about the and save because at this point about that's what I was checking with you, I’ve already submitted it. - **P1**
 
@@ -103,6 +105,8 @@ Veterans expressed interest in saving a copy of their submission for their recor
 ### Finding 3
 Veterans found the 'What to Expect Next' section valuable, and would want to highlight the timeline for immediate expectations and the rest of the process.
 
+![Screenshot 2024-03-27 at 1 17 41 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/0a6e7c66-adee-4869-a0ed-080bb3e44494)
+
 Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their claim in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
 
 > I’ve known, and I've worked with veterans that don't live in areas where they can access. Internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get sorry your access. I would want to know that cause it's not always practical for some people. - **P11**
@@ -118,6 +122,11 @@ Majority of Veterans called out the note about 7-10 days and use it as a guidanc
 
 ### Finding 4
 Veterans using screen readers expect multiple methods of contact, and prefer being notified by email.
+
+![Screenshot 2024-03-27 at 1 18 18 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/c766c354-f13f-4054-b740-5a63e2ee6996)
+
+![Screenshot 2024-03-27 at 1 18 39 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/56f0a971-ff32-4283-86d5-0d955fefbb6d)
+
 
 Veterans with vision impairment are looking for inclusivity when it comes to the ways VA is contacting them. A Veteran mentioned that the language surrounding a package being “mailed” to the Veteran lacks options for blind Veterans who would prefer a different method of contact. Another Veteran mentioned that knowing how and when the VA will contact them will help them filter the important correspondence and phone calls from other spam mail or robo calls.
 
@@ -137,6 +146,8 @@ Veterans with vision impairment are looking for inclusivity when it comes to the
 
 ### Finding 5
 Veterans use headings and search to navigate a page, wanting the H1 to be more descriptive of the page, and a mixed reaction to the use of lower level headings.
+
+![Screenshot 2024-03-27 at 1 20 57 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/7985a4a7-24fa-4e96-bd24-5fc4376d353d)
 
 Veterans were impressed by our use of headers to describe sections, but wished that the H1 was more descriptive of the page itself, instead of just the form name. A few Veterans found that the use of H5s for form questions may be excessive, since it doesn't help them navigate the page.
 
@@ -189,6 +200,9 @@ Experienced screen reader users lament PDFs that are a single image. They would 
 4. Reader mode hides certain components, rendering the page inactionable.
 
 One Veteran went through the prototype using Reader mode on Safari. In Reader mode, we saw that a few of the important components were hidden. These included: alert, PDF download link, telephone number, and buttons. 
+
+![Screenshot 2024-03-27 at 10 51 15 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/add5e446-15ea-46d8-aedc-999bbad24c92)
+
 
 ## Recommendations
 1. Give Veterans multiple options to save a copy of their submission, including through email.
