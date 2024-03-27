@@ -1,4 +1,4 @@
-# Claim and Appeal Status Tool Product Outline
+# Claim and Appeal Status Tool Product Outline (updated 3.27.2024)
 
 ## Communications
 - GitHub Label:  claim-status-tool
@@ -46,15 +46,22 @@ While VA.gov has helped bring a level of transparency to the claims process by p
 - Veterans mainly care about claims status information that does at least one of the following
   - manages their expectations around timing 
   - provides them clear action items that will help them receive a decision faster
-  - Provides them clear instructions about how to effectively take action on a decision with which they disagree 
- - The majority of the traffic coming into the Claim Status Tool is from veterans looking to find information related to disability claims specifically
- - The veterans who are most dissatisfied with the Claim Status Tool are veterans who are specifically concerned with their disability claims service journey
+  - Provides them clear instructions about how to effectively take action on a decision with which they disagree
+
+ # Previous assumptions that have been answered
+ - The majority of the traffic coming into the Claim Status Tool is from veterans looking to find information related to disability claims specifically: this is factually the case. Our DataDag monitors show that compensation claims related to disability are by far the most common claim time by an order of magnitude. 
+ - The veterans who are most dissatisfied with the Claim Status Tool are veterans who are specifically concerned with their disability claims service journey: This is mostly true based on all the research we've done to date. Majority of pain points expressed have to do with a lack of transparency or clear direction for disability claims in particulr. 
 
 # Open Questions
-(more to come in this section later)
+- What claim types should show in the claim status tool based on prior communications?
+- What opportunities are there to provide more accurate information about decision timing or claim phase timing?
+- How useful/accurate is the "your place in line/docket" feature for appeals?
  
-# Solution Approach
+# Solution Approaches
 CST: Download Decision Letter Feature Brief - Draft
+CST: Improved Evidence Submission Initative Brief
+CST: Claim Contextulization Initiative Brief
+CST: Claim Notifications Initiative Brief
 
 ## Value Propositions
 ### User Value
@@ -66,7 +73,7 @@ CST: Download Decision Letter Feature Brief - Draft
 - Less time spent tracking down information needed to process claims
  
 # North Star
-Average number of days it takes for the VA to arrive at claims and appeals decisions.   
+CSAT scores. 
 
 # KPIs
 ## User actions
@@ -107,7 +114,7 @@ Reduced Turnaround Time between requests/opportunities for actions and veterans 
 
 ### Key Results
 - Call volumes related to disability claims questions at call centers drops by 75%
-- Raise average Medallia score to 4.5/5
+- Task completion rates (Medallia)
 - Reduce evss claim status view/transactions" to zero
 
 ## Objective 3:
@@ -117,3 +124,4 @@ Reduced Turnaround Time between requests/opportunities for actions and veterans 
 - Resolve all level 2 and level 1 accessibility defects.
 - Reduced evidence submission errors
 - Reduced application errors in Sentry and DataDog
+- Reduced silent failurse to zero
