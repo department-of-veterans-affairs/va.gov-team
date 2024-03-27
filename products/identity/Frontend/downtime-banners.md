@@ -1,5 +1,18 @@
 # Downtime Banners
 
+## Table of Contents
+- [Background](#background)
+- [Unexpected downtime](#unexpected-downtime)
+    - [ID.me](#idme)
+    - [Login.gov](#logingov)
+    - [DS Logon](#dslogon)
+    - [My HealtheVet](#mhv)
+    - [SSOe](#ssoe)
+    - [MPI/MVI](#mpi)
+    - [Multiple services](#multiple-services)
+- [Maintenance windows](#maintenance-windows) 
+
+## Background
 The purpose of this document is to document what the banner looks like during authentication-related unexpected downtime events and/or maintenance windows. These downtime banners will display in the Sign-in Modal and Unified Sign-in Page.
 
 We determine downtime statuses by making an API request to `/v0/backend_statuses`
@@ -8,6 +21,7 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 
 ## Unexpected Downtime
 
+<a id="idme"></a>
 ### ID.me
 | Title | Alert type | Content |
 | --- | --- | --- |
@@ -15,6 +29,7 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 
 ![idme](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/9b88a51d-b10e-4f35-82c8-bbf823f1c65a)
 
+<a id="logingov"></a>
 ### Login.gov
 | Title | Alert type | Content |
 | --- | --- | --- |
@@ -22,6 +37,7 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 
 ![logingov](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/c27dd7ba-1f67-4b00-8fc5-7016a2b4677d)
 
+<a id="dslogon"></a>
 ### DS Logon
 | Title | Alert type | Content |
 | --- | --- | --- |
@@ -29,6 +45,7 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 
 ![dslogon](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/c475c3a6-3b18-44f0-a4be-16b4fa54f07f)
 
+<a id="mhv"></a>
 ### My HealheVet (MHV)
 | Title | Alert type | Content |
 | --- | --- | --- |
@@ -43,6 +60,7 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 
 ![ssoe](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/82b2d4b3-9925-440d-8398-8e54ed052b0e)
 
+<a id="mpi"></a>
 ### MVI/MPI
 | Title | Alert type | Content |
 | --- | --- | --- |
