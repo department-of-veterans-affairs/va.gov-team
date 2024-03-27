@@ -1,6 +1,7 @@
 **January 1 - January 31, 2024**
 
 143 android reviews,  65 iOS reviews	
+
 208 reviews analyzed, includes both android and iOS users	
 
 | Keyword in Review | Frequency Count | Trending Sentiment | Review Sample                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
