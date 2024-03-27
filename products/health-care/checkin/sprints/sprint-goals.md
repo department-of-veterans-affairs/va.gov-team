@@ -91,7 +91,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
     - ✔️ ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
@@ -137,10 +137,10 @@ ________________________________________________________________________________
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
-        - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
+        - 🚧 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
-        - 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
-        - 🟨 [[DevOps] Document the ePAS/AWS access process for CIE. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78661)
+        - 🚧 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+        - 🚧 🟨 [[DevOps] Document the ePAS/AWS access process for CIE. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78661)
         
 ______________________________________________________________________________________________________________________________________________________
 
