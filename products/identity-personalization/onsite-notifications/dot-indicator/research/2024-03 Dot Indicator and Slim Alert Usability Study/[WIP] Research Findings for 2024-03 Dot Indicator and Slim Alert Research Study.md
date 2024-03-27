@@ -1,10 +1,10 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+
 
 ---
 
-# [Study] Research Findings 
+#  Research Findings for 2024-03 Dot Indicator and Slim Alert Research Findings
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Authenticated Experience, My VA**
 
 Date: MM/DD/YYYY
 
