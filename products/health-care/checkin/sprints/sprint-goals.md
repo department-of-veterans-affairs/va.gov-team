@@ -98,7 +98,6 @@ ________________________________________________________________________________
             - ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
             - ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
             - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
-            - 3 issues above werre pulled in while the stprint was in progress
             - ✔️ ❗ 🟩 [[FE] Create e2e tests for failed scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77876)
         - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
         - ❗ 🟩 [[FE] - Check travel answers before submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79020)
@@ -108,7 +107,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
         - ✔️ ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ✔️ ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
-        - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)      
+        - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)      - pulled in in the middle of the sprint
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - 🟥 [[UX][Design] Update confirmation page for 1 travel claim success and 1 fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78834)
@@ -172,7 +171,8 @@ ________________________________________________________________________________
         - Added towards end of sprint
             - 🚧 ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
             - 🚧 ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
-            - 🚧 ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)            
+            - 🚧 ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
+            -  - 3 above issues were pulled in while the sprint was in progress           
         - ✔️ ❗ 🟦 [[BE] Modify TravelClaimSubmissionWorker to pick TemplateIDs by facility_type ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76255)
             - Rolled over from last sprint; 1 point left        
         - ✔️ ❗ 🟥 [[DESIGN] Update Design and Content for Multiple Facilities Selection ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77685)
