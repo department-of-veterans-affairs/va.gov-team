@@ -512,6 +512,8 @@ Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
+`[card icon: video_appointment]` 
+
 `[H1]` Video appointment
 
 `[H2]` How to join 
@@ -530,6 +532,7 @@ Breadcrumb: `< Back to appointments`
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
+`[Button]` Add to calendar
 
 `[h2]` What
 `[Type of care]`
@@ -555,35 +558,35 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past VA video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
+Breadcrumb: `< Back to past appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: video_appointment]` 
 
-VA Video Connect at home
+`[H1]` Video appointment
 
-Provider
-[Provider name]
-```
+[[After-visit summary content](./shared-content.md#after-visit-summary)]]
 
-**ACTIONS**
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-```Print```
+`[h2]` What
+`[Type of care]`
+
+`[h2]` Who
+`[Provider name]`
+
+`[h2]` Scheduling facility  
+Facility: `[Facility name]`
+`[City]`, `[State]`
+Clinic: `[Clinic Name]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
 
 
 ---
@@ -594,32 +597,34 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled VA video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment.
-```
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: video_appointment]` 
 
+`[H1]` Canceled video appointment
 
-VA Video Connect at home
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-Provider
-[Provider name]
-```
+`[H2]` What
+`[Type of care]`
+
+`[H2]` Who
+`[Provider name]`
+
+`[H2]` Scheduling facility  
+Facility: `[Facility name]`
+`[City]`, `[State]`
+Clinic: `[Clinic Name]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
+
 
 ---
 
