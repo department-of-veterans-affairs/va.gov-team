@@ -14,9 +14,21 @@ Content that is the same across multiple pages/sections
 
 `[/alert]`
 
+## VCM Patient Instructions
+
+See [data logic that triggers these states](../../appointments-reference/data-reference/data-definitions.md#instructions-prepare-for-telehealth-visit).
+
+### Video visit preparation 
+
+`[Additional info trigger]` How to set up your device
+
+### Medication review
+
+`[Additional info trigger]` Medication review
+
 ## Appointments Footer
 
-[H] `Need help?`
+`[H]` Need help?
 
 ```
 If you need help scheduling an appointment, please call your VA or community care health facility. {link 1}[Find your health facility’s phone number.]

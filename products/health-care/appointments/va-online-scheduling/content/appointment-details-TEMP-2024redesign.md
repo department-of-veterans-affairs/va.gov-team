@@ -506,60 +506,46 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `VA video appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[H1]` Video appointment
 
-VA Video Connect at home
+`[H2]` How to join 
 
-You can join this meeting from your home or anywhere you have a secure internet connection.
-You can join VA Video Connect up to 30 minutes prior to the start time.
+`[When video link is not available]`  
+    We'll add the link to join this appointment 30 minutes before your appointment time.
+`[/When video link is not available]`
 
-[Button with label: Join appointment]
+`[When video link is available]`  
+    Join this video appointment using the link.
+    `[Action link]` Join appointment  
+`[/When video link is  available]`
 
-You'll be meeting with
-[Provider name]
+[VCM patient instructions](./shared-content.md#vcm-patient-instructions)
 
-Prepare for video visit
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-Before your appointment:
-- If you’re using an iPad or iPhone for your appointment, you’ll need to download the VA Video Connect iOS app beforehand. If you’re using any other device, you don’t need to download any software or app before your appointment.
-- You’ll need to have access to a web camera and microphone. You can use an external camera and microphone if your device doesn’t have one.
+`[h2]` What
+`[Type of care]`
 
-To connect to your Virtual Meeting Room at the appointment time, click the “Join session” button on this page or the link that’s in your confirmation email.
+`[h2]` Who
+`[Provider name]`
 
-For the best video experience, we recommend you:
+`[h2]` Need to make changes?  
+Contact this facility if you need to reschedule or cancel your appointment.
 
-- Connect to this appointment from a quiet, private area that has good light
-- Check to ensure you have a strong internet connection
-- Connect to this appointment on a Wi-Fi network if using a mobile phone, rather than a cellular data network
-```
+`[Facility name]`
+`[City]`, `[State]`
+Clinic: `[Clinic Name]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-**ACTIONS**
-
-```Add to calendar```
-
-```Print```
-
-```
-Need to make changes?
-
-Contact this provider if you need to reschedule or cancel your appointment.
-```
+`[Button]` Print
 
 --- 
 
