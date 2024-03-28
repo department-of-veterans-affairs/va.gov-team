@@ -54,22 +54,33 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
-Frontend Regression
+**Frontend Regression**
 
 Steps for `content-build`: (this will force Terms of Use to go back to staging)
 1. Navigate to `content-build` repository
 2. Create a Pull Request that changes the `registry.json` file for Terms of Use from `"vagovprod": true` to `"vagovprod": false`
 3. Merge that Pull Request
 
-Backend Regression
+**Backend Regression**
 
 Steps for `vets-api`:
 - SSOe disable:
   1. Create PR that removes apps from TERMS_OF_USE_ENABLED_CLIENTS in lib/saml/url_service.rb
 - SiS disable:
   1. In the rails console, set enforced_terms on all ClientConfigs to nil
+ 
+**External partners**
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/terms%20and%20conditions/Regression%20Test%20Plan.md
+Steps for `IAM`
+1. 
+
+Steps for `Sign up Service (SuS)`
+1.
+
+Steps for `Oracle Health`
+1. 
+
+[See regression plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/terms%20and%20conditions/Regression%20Test%20Plan.md)
 
 
 #### Rollout Planning
