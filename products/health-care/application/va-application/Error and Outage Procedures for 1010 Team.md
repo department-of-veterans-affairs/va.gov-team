@@ -14,6 +14,7 @@
 - In the event that the Data Analyst is out, PMs are capable of doing all of the DD & sentry related tasks associated with this procedure exercise.
 
 
+
 ## Informing Product Owners that there is a problem
 - If the error or outage persists for longer than 1 hour / leads to multiple failures of form submissions / or a spike in error rate that exceeds 10%; then the POs are informed there is an issue. PMs can inform the stakeholders that there is an issue. Stakeholders to reach out to will depend on the nature of the problem and where the issue is stemming from. The forms are dependent on different external services per se but the top of the list of folks that need to be informed are:
      - Patrick Bateman
@@ -30,6 +31,7 @@
 
 
 ## Mini Check Ins through out the first 4-6 hours of response
+- If root cause is not determined by the analyst within the two hours of the issue arising, then we would start the process of bringing in the broader team 
 - Analyst can set up a call during the investigation with Dev / Analyst / PMs
 - Devs (when possible) to communicate a root cause when identified with the broader team. Or update the team that a cause is still unidentified within the first hours of the triage process. PMs can forward the updates as they come in.
 
