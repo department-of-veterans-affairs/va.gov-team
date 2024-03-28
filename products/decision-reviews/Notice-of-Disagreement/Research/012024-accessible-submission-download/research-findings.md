@@ -124,7 +124,7 @@ Veterans found the 'What to Expect Next' section valuable, and would want to hig
 
 ![Screenshot 2024-03-27 at 1 17 41 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/0a6e7c66-adee-4869-a0ed-080bb3e44494)
 
-Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their claim in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
+Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their appeal in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
 
 > I’ve known, and I've worked with veterans that don't live in areas where they can access. Internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get sorry your access. I would want to know that cause it's not always practical for some people. - **P11**
 
