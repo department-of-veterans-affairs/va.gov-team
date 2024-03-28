@@ -8,6 +8,6 @@
 
 
 
-This is a living, breathing document meant to serve as a "source of truth" for all of CST as it evolves over time. The App Map was created by finding and/or reproducing various user states in staging `staging.va.gov/track-claim`
+This is a living, breathing document meant to serve as a "source of truth" for all of CST as it evolves over time. The App Map uses screenshots from staging for V1 and mocks produced in Figma for V2 and beyond.
 
 <img width="1877" alt="TOC" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/95102058/a4aaa5a9-9972-4ecf-bdb8-645b4a496694">
