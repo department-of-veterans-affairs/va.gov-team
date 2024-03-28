@@ -3,9 +3,13 @@
 ## Search rate anomaly
 https://vagov.ddog-gov.com/monitors/186811
 
-What is: 
+**What is:**
 * Monitor that checks for calls to `v0/search` API endpoint every hour for anomalies in average search rate success(200 responses). 
 * Alarms if calls fall below threshold of 10% of the average anomaly bounds
+
+**Triage:**
+Typically: No op. This is an indicator that Search.gov is returning an increased % of 503s. We can't do anything about that.
+HOWEVER: if the outage / downtime is prolonged, we can file a Platform support request to enable a downtime in Pager Duty for the Search service, which will show a downtime notification to Veterans who try to use search.
 
 ## VA.gov success rate below threshold
 https://vagov.ddog-gov.com/monitors/169139
