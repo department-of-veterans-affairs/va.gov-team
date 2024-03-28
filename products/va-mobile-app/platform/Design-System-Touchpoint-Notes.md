@@ -5,6 +5,11 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 3/28/24
+*   Cathulhu team mascot
+*   drawing the line between adjusting to 1-off app design requests and adding useful functionality based on app dev feedback
+*   general status
+
 ## 3/14/24
 *   Setting up touchpoint with VADS around semantic tokens
 
