@@ -1,4 +1,4 @@
-# Using the Support Process Survey
+# Using the Support Process Satisfaction Survey
 
 [Purpose](#purpose)
 
