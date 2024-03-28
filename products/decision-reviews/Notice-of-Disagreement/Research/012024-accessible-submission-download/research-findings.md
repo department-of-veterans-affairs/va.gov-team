@@ -172,7 +172,7 @@ Veterans were impressed by our use of headers to describe sections, but wished t
 
 > Once you mentioned the headings, sometimes the headings are great, sometimes headings are bad. It's easier to hit next heading, then to search. Sometimes I'll also pull up a taggable of links on the page, or all the headings you. - **P18**
 
-> I might almost say here (in the form details), we have too many headings -- I don't personally like headings in forms that much. I prefer they have the form labels. I don't know why headings in forms: it's just more I have to listen to. I'm not the most patient in the world. Even a level 5, I'm still reading it with the letter H. I don't personally do H1 or H2 -- I just do H to get to the section I want to go to without listening to all the other crap.  - **P5**
+> I might almost say here (in the form details), we have too many headings -- I don't personally like headings in forms that much. I prefer they have the form labels. I don't know why headings in forms: it's just more I have to listen to. I'm not the most patient in the world. Even a level 5, I'm still reading it with the letter H. I don't personally do H1 or H2 -- I just do H to get to the section I want to go to without listening to all the other crap. I expect headings to get me to sections, not to actual individual items. - **P5**
 
 > I think that, yeah, that looks like very in depth and not cluttered. Hmm. so yeah, some people go overboard with headings, and almost every line has a heading on it. Th, that that sounds to me like pretty good it would got, you know, could get through the same just in a very few seconds to what I wanted. - **P18**
 
