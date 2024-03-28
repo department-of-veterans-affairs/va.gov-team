@@ -156,13 +156,14 @@ As of 2.21.24, we are awaiting an estimate from BGS, but the following release s
 
 ## Comms schedule
 
-VBA will be sending out comms to folks who have both comp & pen and education benefits to let them know they need to reconcile their bank information. This is the schedule they will be using for weekly comms:
+VBA will be sending out comms to folks who have both comp & pen and education benefits to let them know they need to reconcile their bank information. The points of contact are Catherine Trombley and Lindsey Slaughter and can be reached via Teams or email. This is the schedule they will be using for weekly comms:
 
 - Monday- Email to School Certifying Officials w/ updated lists (if possible)
 - Tuesday- Text message to students remaining
 - Wednesday- robo-dial to students remaining (when avail)
 - Thursday- Email to students remaining
 - Friday- robo-dial to students remaining (when avail)
+
 
 <details>
 
