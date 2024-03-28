@@ -32,6 +32,11 @@ We do not currently have any current SLOs for VA.gov logins, and creating them w
 
 
 ## Use Cases:
+- As a Veteran or VA Team member, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
+- As a Veteran or VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
+- As an ID team member, I would like to have a plan on who gets assigned and when they get assigned to fix SLO issues.
+- As an ID Team member, I would like to have automatic notifications when investigations are happening
+- As an ID Team member,  I would like to have slack notifications when service degradation occurs.
 
 
 ## Assumptions:
