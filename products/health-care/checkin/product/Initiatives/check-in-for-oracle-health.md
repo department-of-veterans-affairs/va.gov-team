@@ -58,6 +58,8 @@ Service Blueprint - [Download PDF](https://github.com/department-of-veterans-aff
 <details>
 <summary>OTHER OPTIONS THAT WE CONSIDERED BUT ARE NOT DOING</summary>
 
+**NOTE: THESE OPTIONS WERE EVALUATED WHEN THE GOAL WAS TO ENABLE CHECK IN FOR OH FACILITIES; WE EVENTUALY DECIDED ON DOING TRAVEL ONLY **
+
  ## MODIFIED OPTION 1 - Travel Claim Only
 Decisions reached on 1/30/2024 with OCTO and IVC: 
 - Veteran receives day of 45 minute appt reminder (VEText Work)
