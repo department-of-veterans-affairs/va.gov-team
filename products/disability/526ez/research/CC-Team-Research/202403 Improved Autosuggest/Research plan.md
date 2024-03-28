@@ -247,11 +247,11 @@ Length of Sessions
 
 ## Availability
 
-- Monday, April 8th: 11am - 1pm ET
-- Tuesday, April 9th: 11am - 1pm ET; 3pm - 5pm ET
-- Wednedsday, April 10th: 1:30pm ET - 5:30pm ET
-- Thursday, April 11th: 11am - 4:30pm ET
-- Friday, April 12th: 11am - 3:30pm ET
+- Monday, April 8th: 11am - 1pm ET (1 slot)
+- Tuesday, April 9th: 11am - 1pm ET; 3pm - 5pm ET (2 slots)
+- Wednedsday, April 10th: 1:30pm ET - 5:30pm ET (3 slots)
+- Thursday, April 11th: 11am - 4:30pm ET (3 slots)
+- Friday, April 12th: 11am - 3:30pm ET (2 slots)
 
 # Team Roles
 
