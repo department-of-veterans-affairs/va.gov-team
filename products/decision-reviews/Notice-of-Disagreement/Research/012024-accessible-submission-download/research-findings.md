@@ -178,6 +178,8 @@ Veterans were impressed by our use of headers to describe sections, but wished t
 
 > So I'm just gonna go and say, just couple the things are just more of a screen. Reader Mac OS, voiceover type things where it kind of it didn't exactly read off the text initially, but I knew that there was text there. So that's why you heard me go back and forth. Otherwise, you know most of the information there is quickly, easily structured. Maybe a little bit too heavy-handed on the headings cause it's almost like every other line is a heading. - **P7**
 
+> Yeah. Just looking at them again. Verbiage. bringing that information upfront, I mean even Thank you for submitting, even that, if that's your main heading level one and get rid of the other 2 and just kind of flop those around that would make a little bit more sense. - **P7**
+
 ### Finding 6
 Veterans using screen readers expect to receive PDFs from VA and rely on alternate methods to read them when they’re inaccessible.
 
