@@ -1,6 +1,10 @@
 This meeting is to discuss and address any dependencies between the VA Mobile Shared Systems teams and the Flagship teams that are using their systems.
 
 **Agenda/Notes**
+04/2/24
+* **Q2 Planning**
+   * Look at Next columns for teams
+
 
 03/19/24
 * **DS Link Component in Flagship app (Kelly)**
