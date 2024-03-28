@@ -22,7 +22,7 @@ Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/research-findings.md#further-research-needed)
 
 ## Background
-Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records. This study is focused on teh accessibility of receiving a copy of submission, because we found that PDFs we currently generate may not be accessible to Veterans using screen readers. We want to use this study to check our assumptions, and provide alternate methods for Veterans to save a copy.
+Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records. This study is focused on the accessibility of receiving a copy of submission, because we found that PDFs we currently generate may not be accessible to Veterans using screen readers. We want to use this study to check our assumptions, and provide alternate methods for Veterans to save a copy.
 
 ### OCTO Objectives
 This research supports 2 of the 2024 OCTO Objectives: 
