@@ -233,7 +233,7 @@ Pilot session information
 
 # Research Sessions
 
-We are planning to conduct research the week of April 3rd, 2024
+We are planning to conduct research the week of April 8th, 2024
 
 Length of Sessions
 
@@ -246,9 +246,13 @@ Length of Sessions
 
 ## Availability
 
--
+- Monday, April 8th: 11am - 1pm ET
+- Tuesday, April 9th: 11am - 1pm ET; 3pm - 5pm ET
+- Wednedsday, April 10th: 1:30pm ET - 5:30pm ET
+- Thursday, April 11th: 11am - 4:30pm ET
+- Friday, April 12th: 11am - 3:30pm ET
 
- Team Roles
+### Team Roles
 
 - Moderator: Eva Heintzelman or Sudeepti Bhatnagar 
 
