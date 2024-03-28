@@ -18,4 +18,7 @@
 This Identtiy team has larger "platform" type duties that includes supporting other teams. Since this team split from the main Platform crew, requests for support have been both inside and outside of the the Platfrom support process and more ad hoc in nature. This body of work will establish how we work with other teams for support requests. This research generally focuses towards service design.
 
 ## Research Goals:
-- 
+- Understand where other teams are requesting support from or otherwise reaching out to Identity Team
+- Understand what types of support teams need from Identity
+- Clarify what products require the most support from Identity
+- Illuminate how much time Identity Team engineers spend on unplanned (support request) tasks
