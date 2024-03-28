@@ -126,7 +126,7 @@ Veterans found the 'What to Expect Next' section valuable, and would want to hig
 
 Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their appeal in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
 
-> I’ve known, and I've worked with veterans that don't live in areas where they can access. Internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get sorry your access. I would want to know that cause it's not always practical for some people. - **P11**
+> I’ve known, and I've worked with veterans that don't live in areas where they can access internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get your access. I would want to know that cause it's not always practical for some people. - **P11**
 
 > We're always left wondering how they're gonna reach out to you and obviously, a paper trail is always good.  - **P16**
 
