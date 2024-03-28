@@ -253,7 +253,7 @@ Length of Sessions
 - Thursday, April 11th: 11am - 4:30pm ET
 - Friday, April 12th: 11am - 3:30pm ET
 
-# Team Roles
+# Team Roles
 
 - Moderator: Eva Heintzelman or Sudeepti Bhatnagar 
 
