@@ -6,8 +6,9 @@
 
 [Analyzing Data](#analyzing-data)
 
---------------
+[Presenting Data](#presenting-data)
 
+--------------
 
 ## Purpose
 
@@ -50,10 +51,11 @@ Understanding customer satisfaction is crucial for continuous improvement.
   
       - You'll be prompted to accept an Excel file download 
 
-
 ----------------
 
 ## Analyzing Data
+
+![Excel Survey Data](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4ccf5199-c821-4f31-9d68-2f82103fd6a0)
 
 ### Q1. *Rate your satisfaction with the support provided by our team.*
 
@@ -143,6 +145,18 @@ This question allows users to volunteer for follow-up discussions.
 - Collect email addresses for further investigation.
 - Use this information to reach out to users with specific issues.
 
-Graphing:
-
 - No specific graphs, but track the number of users willing to be contacted.
+
+------------------------------
+
+## Presenting Data
+
+![Satisfaction Ratings Pie Chart in Excel](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/9135cec6-5f0b-4d6f-b9d7-153a4931193c)
+
+![Qualitative Fields Word Cloud](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/385798ed-3054-4870-9de7-150ccc013db5)
+
+![Satisfaction Survey Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/20992d66-3b14-471d-a7b7-a747a4d0236c)
+
+![Satisfaction Survey Dashbpard Mockup 2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/e6cdc903-5561-42cd-abf7-fc4f24a49f79)
+
+![Metrics Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2c1b4095-2a1d-4797-987e-4d5994100759)
