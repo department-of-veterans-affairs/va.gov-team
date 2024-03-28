@@ -1,26 +1,30 @@
 # MONTHLY UX/PM STRATEGY MEETINGS
 
 ## 4/24/2024
+- Attendees
 - Topics
-    - Review new cross-team roadmap
+    - Review new cross-team roadmap from OCTO
 - Recording
+- Action Items
 
 ## 4/10/2024
+- Attendees
 - Topics
     - Standard Metrics (single dashboard)
     - Weekly collaboration on metrics via our new channel [unified-appointment-experience](https://dsva.slack.com/archives/C06RMRJCLHH)
     - Needs for the Vet EPS iniative
     - Cross-team research needs
 - Recording
+- Action Items
 
 ## 3/27/2024
 - Topics
     - Identify and undo cross-team roadblocks, e.g., shift priorities (and recap the decisions made in Slack to Kay after the meeting, or in some document)
     - Identify research needs cross-team and identify quick plan for who might have the capacity or cross-team capacity (and, again, report out decisions)
 - Action Items
-  - Kristen will create a cross-team channel
-  - Lori will query Anita on our research travel budget for the contract
-  - Lori will leave the meeting for every 2 weeks but expand to 1 hour
+  - Kristen will create a cross-team channel (DONE)
+  - Lori will query Anita on our research travel budget for the contract (DONE)
+  - Lori will leave the meeting for every 2 weeks but expand to 1 hour (DONE)
 
 ## 3/13/2024
 - Topics
