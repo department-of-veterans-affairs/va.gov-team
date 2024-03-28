@@ -12,7 +12,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| `terms_of_use` | Toggles the Terms of Use Accept/Decline actions (FE only) |
+| `terms_of_use` | Toggles the Terms of Use Accept/Decline actions (Frontend only) |
 
 ## Step 2: Validation
 
@@ -23,71 +23,67 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [x] review the plan with your DEPO/OCTO representative.
+  - [x] review the release plan with your team.
 
 ## Step 3: Production rollout
 
-### Do I need a staged rollout?
+### Define the Rollback/Regression process
 
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
+Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible. [See regression plan for Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/terms%20and%20conditions/Regression%20Test%20Plan.md)
 
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
+### Identity
 
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
-
-### Define the Rollback process
-
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-**Frontend Regression**
+> Identity Frontend regression plan
 
 Steps for `content-build`: (this will force Terms of Use to go back to staging)
 1. Navigate to `content-build` repository
 2. Create a Pull Request that changes the `registry.json` file for Terms of Use from `"vagovprod": true` to `"vagovprod": false`
 3. Merge that Pull Request
 
-**Backend Regression**
+> Identity Backend regression plan
 
 Steps for `vets-api`:
 - SSOe disable:
-  1. Create PR that removes apps from TERMS_OF_USE_ENABLED_CLIENTS in lib/saml/url_service.rb
+  1. Create PR that removes apps from `TERMS_OF_USE_ENABLED_CLIENTS` in `lib/saml/url_service.rb`
 - SiS disable:
-  1. In the rails console, set enforced_terms on all ClientConfigs to nil
+  1. In the rails console, set `enforced_terms` on all `ClientConfigs` to nil
+
+---
  
-**External partners**
+### External partners
+
+> IAM regression plan
 
 Steps for `IAM`
 1. 
 
+> Sign up Service (SuS) regression plan
+
 Steps for `Sign up Service (SuS)`
 1.
 
-Steps for `Oracle Health`
-1. 
 
-[See regression plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/terms%20and%20conditions/Regression%20Test%20Plan.md)
+---
+
+### Rollout Planning
+
+| Application | Phase | Rollout Date |
+| --- | --- | --- |
+| My VA Health (Oracle Health) | Phase 1 | April 4th, 2024 @ 9PM EST |
+| My HealtheVet | | |
+| VA Flagship mobile | | |
+| VA.gov | | |
 
 
-#### Rollout Planning
+> Phase 1 - My VA Health (Oracle Health)
 
-Phase 1 Rollout will take place on 4/4/2024 to My VA Health (Oracle Health) only at 9pm EST. There will be a member from each practice area within the Identity team to include the product manager attending the live call. Should there by any issue that is not able to be remedied in the moment, we will refer to the Regression Plan listed above.
+Rollout will take place on 4/4/2024 to My VA Health (Oracle Health) only at 9pm EST. There will be a member from each practice area within the Identity team to include the product manager attending the live call. Should there by any issue that is not able to be remedied in the moment, we will refer to the Regression Plan listed above.
 
-Phase 2 Rollout will take place 1-2 weeks later with the releases for VA.gov and MHV. More info to come.
+> Phase 2 - TBD
+
+Rollout will take place 1-2 weeks later with the releases for VA.gov and MHV. More info to come.
 
 ## Post-launch Questions
 
