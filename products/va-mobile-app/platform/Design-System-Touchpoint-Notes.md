@@ -8,7 +8,6 @@ Agenda:
 ## 3/28/24
 *   Cathulhu team mascot
 *   VADS Design Token updates 
-*   drawing the line between adjusting to 1-off app design requests and adding useful functionality based on app dev feedback
 *   general status
 
 ## 3/14/24
