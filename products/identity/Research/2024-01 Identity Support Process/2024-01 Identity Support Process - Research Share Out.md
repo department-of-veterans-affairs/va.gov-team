@@ -59,5 +59,17 @@ Behind the scenes (our team)
 
 ## Data
 
+We categorized requests scraped from 
+| Request Type | Total requests
+| --- | --- |
+| bug fix | 65 |
+| general question | 58
+| PR review | 11 |
+| task request | 9 |
+| other | 6 |
+| feature request | 5 |
+| help request | 5 |
+| data request | 3 |
 
+![graph showing that 4 of 8 survey respondants spend 30% of their time on unplanned tasks. The rest are distributed between 10% - 80% of their time](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-01%20Identity%20Support%20Process/survey%20results%20-%20time%20spent%20on%20task.jpg)
 
