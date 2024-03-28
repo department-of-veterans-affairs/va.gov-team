@@ -217,6 +217,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: _put
 
 \[Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.]
 
+# Timeline
 
 ## Prepare
 
@@ -231,7 +232,7 @@ Pilot session information
 - Date and time of pilot sessions: 
 
 
-# Research Sessions
+## Research Sessions
 
 We are planning to conduct research the week of April 8th, 2024
 
@@ -252,7 +253,7 @@ Length of Sessions
 - Thursday, April 11th: 11am - 4:30pm ET
 - Friday, April 12th: 11am - 3:30pm ET
 
-### Team Roles
+# Team Roles
 
 - Moderator: Eva Heintzelman or Sudeepti Bhatnagar 
 
