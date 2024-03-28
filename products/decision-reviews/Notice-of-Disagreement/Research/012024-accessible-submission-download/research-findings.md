@@ -191,7 +191,7 @@ Experienced screen reader users aren't fond of inaccessible PDFs that are compri
 
 >You can take that PDF file and store that. Although I hate PDF files. [why?] Because JAWS doesn't read them. Yeah, to convert word to read it. here's my wife usually comes in helps with that, but I know we can convert PDF to work. - **P4**
 
-> Okay, but that was one of the ones I was gonna work on is converting that over which is just a pain, and sometimes we do get them from. you know, Va, or wherever and it's like, I say, it'll be JPG, or it'll be an image, or whatever. Yeah, that's a document. But it's not a document that's accessible. I would say the attachment to download folder. So now I would then go to the Internet. Go to Adobe. bring it over it. it's a pain in the butt. I don’t do it too often. - **P8**
+> Okay, but that was one of the ones I was gonna work on is converting that over which is just a pain, and sometimes we do get them from you know, VA, or wherever and it'll be JPG, or it'll be an image, or whatever. Yeah, that's a document. But it's not a document that's accessible. I would save the attachment to download folder. So now I would then go to the Internet. Go to Adobe, bring it over it. It's a pain in the butt. I don’t do it too often. - **P8**
 
 > PDF is fine. If when they do it, they use the accessibility side of it. But if they don't. jaws usually does a pretty good job nowadays of just scanning it, anyway. But sometimes it's impossible. Still. - **P5**
 
