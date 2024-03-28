@@ -16,6 +16,11 @@ This first set of projects are all about making the Identity Team shine as a pla
 | Incident Response Refactor| Review and revise the VA's incident response capabilites.  | We want to be more robust, agile and effective in mitigating the impact of security incidents. (O1KR2) | Jim |
 | Incident Response Communication | Create internal and external commuincation channels for messaging and coordination during and after security incidents. | Ensure Veterans and other VA stakeholders are informed, engaged and empowered to properly respond to security incidents. (O1KR2)| Jim |
 
+&nbsp;
+
+
+
+
 
 This next set of projects is the Identity Team helping other VA.gov teams or supporting larger VA initiatives that touch the Identity space.
 
@@ -30,6 +35,11 @@ This next set of projects is the Identity Team helping other VA.gov teams or sup
 | STS Integration Tracker |Tool that allows us to track all of the STS Integrations we have in flight |Ensure that we understand exactly where we are with each product team in their development journey with us for their STS integration | Mike |
 | Sunset DSLogon Credentials | For Veterans transitioning from the Department of Defense, the process will not involve creating a DS Logon account or encountering a suboptimal user experience. | Veterans will receive a modern, user-friendly credential that aligns better with their expectations and undergo full identity verification before leaving active duty. As a result, the VA will no longer incur costs associated with DS Logon. | Mike |
 | Sunset MHV Credentials|Turning off MyHealtheVet credentials permanently |The VA will be offering all MHV services under VA.gov, therefore will no longer need credentials for MHV | Mike |
+
+&nbsp;
+
+
+
 
 
 This final set of projects ensure that the Identity Team is always ready to help other teams and continue to ensure top-level peformance when Veterans login to VA.gov
