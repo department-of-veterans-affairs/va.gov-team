@@ -22,7 +22,9 @@ SCO Collaborative Workgroup Findings
 
 [Synthesis](https://www.figma.com/file/6uKSWc4hMeKCkesNg2VJAJ/ResourcesForSchools_FocusGroup?type=whiteboard&node-id=0%3A1&t=D07VIyIvU0iGvQIk-1)
 
-Research Findings
+[Research Findings - Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/Resources%20for%20Schools%20Usability%20Test%20Findings%20%26%20Recommendations%20.pdf.zip)  
+
+Research Findings - Summary
 
 ### Design
 
