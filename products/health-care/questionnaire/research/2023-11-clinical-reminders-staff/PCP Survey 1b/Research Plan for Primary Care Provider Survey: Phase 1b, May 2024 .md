@@ -1,6 +1,6 @@
-# Research Plan for Health Questionnaire, Clinical Reminders Pilot – Primary Care Provider Survey: Phase 1b, May 2024 
+# Research Plan for Health Questionnaire, Clinical Reminders Pilot – Primary Care Provider Survey: Phase 1b, April 2024 
 
- 
+ [Research Repo Ticket #520](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/520)
 
 “The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions, and helps ensure that timely clinical interventions are initiated. 
 
