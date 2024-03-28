@@ -1,9 +1,14 @@
 ### Feature toggle updates
 | Percentage | Date       |
 | ---------: | ---------: |
+|        10% | 03/28/2024 |
 |         1% | 02/29/2024 |
 |        10% | 02/29/2024 |
 |         1% | 02/28/2024 |
+
+## Updates
+#### 03/28/2024
+Lighthouse deployed a set of updates that should fix the issues that have been observed around returning the incorrect disability evalutation for an individual rating. Bumping the feature toggle back up to 10% to see if that will help us discover discrepancies more quickly
 
 
 ### Revision History
