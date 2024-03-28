@@ -153,10 +153,18 @@ This question allows users to volunteer for follow-up discussions.
 
 ![Satisfaction Ratings Pie Chart in Excel](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/9135cec6-5f0b-4d6f-b9d7-153a4931193c)
 
+- Satisfaction Ratings Pie Chart in Excel
+
 ![Qualitative Fields Word Cloud](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/385798ed-3054-4870-9de7-150ccc013db5)
+
+- Qualitative Fields Word Cloud
 
 ![Satisfaction Survey Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/20992d66-3b14-471d-a7b7-a747a4d0236c)
 
 ![Satisfaction Survey Dashbpard Mockup 2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/e6cdc903-5561-42cd-abf7-fc4f24a49f79)
 
+- Satisfaction Survey Dashbpard Mockups
+
 ![Metrics Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2c1b4095-2a1d-4797-987e-4d5994100759)
+
+- Metrics Dashboard Mockup
