@@ -4,6 +4,16 @@ Content that is the same across multiple pages/sections
 
 ## After-visit summary
 
+## Cancelation alert
+
+`[alert - error]`
+
+`[Facility|You]` canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
+
+`[/alert]`
+
 ## Appointments Footer
 
 [H] `Need help?`

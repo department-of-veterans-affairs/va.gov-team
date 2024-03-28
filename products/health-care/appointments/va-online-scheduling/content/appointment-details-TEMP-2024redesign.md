@@ -10,11 +10,11 @@ URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
 Page title: `Request for appointment | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to pending appointments`
 
 **CONTENT**
 
-`[card icon: fa-calendar]` 
+`[card icon: calendar_today]` 
 
 `[h1]` We have received your request
 
@@ -42,10 +42,10 @@ We'll try to schedule your appointment in the next 2 business days. Check back h
 `[h2]` Facility  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 `[h2]` Phone  
-`[icon: fa-phone-alt]` `[link: Phone Number]` ([TTY: 711](711))
+`[icon: phone]` `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Details you’d like to share with your provider  
 `[Booking Note]`
@@ -60,6 +60,7 @@ Phone number: `[Phone Number]`
 
 [[Appointments footer](shared-content.md#appointments-footer)]
 
+
 ---
 
 
@@ -71,10 +72,10 @@ URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
 Page title: `Request for appointment | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to pending appointments`
 
 **PAGE CONTENT**
-`[card icon: fa-calendar]` 
+`[card icon: calendar_today]` 
 
 `[h1]` Request for appointment
 
@@ -100,10 +101,10 @@ Breadcrumb: `< Back to [h1 of previous page]`
 `[h2]` Facility  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 `[h2]` Phone  
-`[icon: fa-phone-alt]` `[link: Phone Number]` ([TTY: 711](711))
+`[icon: phone]` `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Details you’d like to share with your provider  
 `[Booking Note]`
@@ -129,10 +130,10 @@ URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
 Page title: `Canceled request for appointment | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to pending appointments`
 
 **PAGE CONTENT**
-`[card icon: fa-calendar]` 
+`[card icon: calendar_today]` 
 
 `[h1]` Canceled request for appointment
 
@@ -158,10 +159,10 @@ Breadcrumb: `< Back to [h1 of previous page]`
 `[h2]` Facility  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 `[h2]` Phone  
-`[icon: fa-phone-alt]` `[link: Phone Number]` ([TTY: 711](711))
+`[icon: phone]` `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Details you’d like to share with your provider  
 `[Booking Note]`
@@ -190,13 +191,13 @@ Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-`[card icon: fa-building]` 
+`[card icon: location_city]` 
 
 `[h1]` In-person appointment
 
 `[alert - info]`
 
-We’ve scheduled and confirmed your appointment.
+`[bold]` We’ve scheduled and confirmed your appointment.
 
 [Review your appointments](https://va.gov/my-health/appointments)
 
@@ -218,7 +219,7 @@ We’ve scheduled and confirmed your appointment.
 `[h2]` Where to attend  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
@@ -244,11 +245,11 @@ URL: `https://va.gov/my-health/appointments/[ID]`
 
 Page title: `In-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-`[card icon: fa-building]` 
+`[card icon: location_city]` 
 
 `[h1]` In-person appointment
 
@@ -266,7 +267,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 `[h2]` Where to attend  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
@@ -293,21 +294,19 @@ URL: `https://va.gov/my-health/appointments/past/[ID]`
 
 Page title: `Past in-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to past appointments`
 
 **PAGE CONTENT**
 
-`[card icon: fa-building]` 
+`[card icon: location_city]` 
 
 `[h1]` Past in-person appointment
 
-`[h2]` After visit summary  
-[Go to after visit summary](#)  
+[[After visit summary](./shared-content.md#after-visit-summary)]
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`  
-`[Button]` Add to calendar
 
 `[h2]` What   
 `[Type of Care]`
@@ -318,7 +317,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 `[h2]` Where 
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
@@ -342,21 +341,15 @@ URL: `https://va.gov/my-health/appointments/[ID]`
 
 Page title: `Canceled in-person appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-`[card icon: fa-building]` 
+`[card icon: location_city]` 
 
 `[h1]` Canceled in-person appointment
 
-`[alert - error]`
-
-`[Facility|You]` canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-
-[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
-
-`[/alert]`
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
@@ -371,7 +364,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 `[h2]` Where 
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
@@ -401,7 +394,7 @@ Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-`[card icon: fa-building]` 
+`[card icon: location_city]` 
 
 `[h1]` Claim exam
 
@@ -416,14 +409,14 @@ This appointment is for disability rating purposes only. It doesn’t include tr
 `[h2]` Where to attend  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Need to make changes?
-Contact the [Facility Name] compensation and pension office if you need to reschedule or cancel your appointment.
+Contact the `[Facility Name]` compensation and pension office if you need to reschedule or cancel your appointment.
 
 `[Button]` Print
 
@@ -443,28 +436,24 @@ Breadcrumb: `< Back to past appointments`
 
 **PAGE CONTENT**
 
-`[card icon: fa-building]` 
+`[card icon: location_city]` 
 
 `[h1]` Past claim exam
 
-[[After-visit summary](./shared-content.md#after-visit-summary)]]
+[[After-visit summary content](./shared-content.md#after-visit-summary)]]
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`  
-`[Button]` Add to calendar
 
-`[h2]` Where to attend  
+`[h2]` Where  
 `[Facility Name]`  
 `[Facility Address]`   
-`[icon: ?]` [Directions](#)
+`[icon: directions]` [Directions](#)
 
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
-
-`[h2]` Need to make changes?
-Contact the [Facility Name] compensation and pension office if you need to reschedule or cancel your appointment.
 
 `[Button]` Print
 
@@ -476,36 +465,36 @@ Contact the [Facility Name] compensation and pension office if you need to resch
 
 **NAVIGATION**
 
-URL: ``
+URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: ``
+Page title: `Canceled claim exam appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to appointments`
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-```
-
 **PAGE CONTENT**
 
-```
-[serviceCategory] Claim exam
+`[card icon: location_city]` 
 
-[Facility name]
-[Facility address]
-Directions
+`[h1]` Canceled claim exam
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
-```
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+
+`[h2]` Where  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: directions]` [Directions](#)
+
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
