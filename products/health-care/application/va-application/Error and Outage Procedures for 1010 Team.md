@@ -4,7 +4,7 @@
 
 ## Incident Commander for all errors and outage triage is The Delivery Manager
 - The tasks / responsibilities of an incident commander most closely align with that of a delivery manager so she is best suited to tackle the role.
-– How does an incident commanders handle critical incidents:
+How does an incident commanders handle critical incidents:
 -- Identify the objectives of the incident response.
 -- Next, devise a command plan to address the problem. Can be more of a collaborative effort
 -- Monitor the situation and make adjustments as needed.
