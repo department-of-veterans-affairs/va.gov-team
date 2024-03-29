@@ -1,6 +1,6 @@
 # Best Practices for IA on VA.gov
 
-**Strive for shallow content structures** <br>
+**Balance depth of structure with breadth of choice** <br>
 A shallow, or flat, hierarchy makes content easier to discover by exposing it earlier in the experience - in other words, it reduces the number of clicks to drill down to detail content. This, however, needs to be balanced with the number of choices it results in for visitors. A somewhat deeper structure of 7 top level options is better than a shallow structure with 15 top level options. 
 
 
