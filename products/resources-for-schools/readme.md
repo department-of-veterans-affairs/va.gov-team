@@ -8,7 +8,8 @@ The Resources for Schools page (formerly called the SCO page - School Certifying
 
 The IIR team stepped in to assist in Q1 2024. After conducting research with SCOs through workgroups and interviews, the team redesigned and launched a new page in March of 2024. Based on user feedback, the new page displays all the relevant links and tools for SCOs as they work to ensure Veterans have access to their GI Bill benefits.
 
-### Initiative Brief / Kick off
+### Background
+[Initiative Brief / Kick off](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/initiative%20brief.md)
 
 — 
 
