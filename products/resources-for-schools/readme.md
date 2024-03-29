@@ -16,7 +16,7 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 
 SCO Collaborative Workgroup Presentation
 
-SCO Collaborative Workgroup Findings
+[SCO Collaborative Workgroup Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20findings.md)
 
 [1:1 Interview Moderators Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/1:1%20interview%20moderators%20guide.md)
 
@@ -38,7 +38,7 @@ Research Findings - Summary
 * Users desired visibility to updates and trainings, such as Office Hours, and emphasized that when training new SCOs, signing up for GovDelivery was a necessity.
 
 ### Next steps 
-* Additional UI changes may be made based upon feedback given to the Resources for Schools team through the Feedback button
+* Page was launched with updates in March 2024. Additional UI changes may be made based upon feedback given to the Resources for Schools team through the Feedback button
 
 ### Change log
 
