@@ -106,12 +106,12 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ✔️ ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
-    - ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
+    - ✔️ ❗ 🟩 [Rotate AWS Keys - March 31, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76340)
     - ✔️ ❗ 🟩 [BUG: PCI is showing both the Clinic Stop Code Name and the Patient Friendly Name ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal:  Stand-alone Travel Application for OH Sites**  
          - Added on 3/27
-             - ❗ 🟦 [[BE] Update appointments data serializer to handle ICN in appointments object ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79457)
+             - ✔️ ❗ 🟦 [[BE] Update appointments data serializer to handle ICN in appointments object ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79457)
          - Rolled over from last sprint
             - ✔️ ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
             - ✔️ ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
@@ -125,14 +125,15 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
         - ✔️ ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ✔️ ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
-        - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)      - pulled in in the middle of the sprint
+        - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+          - pulled in in the middle of the sprint
         - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ✔️ ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - 🟥 [[UX][Design] Update confirmation page for 1 travel claim success and 1 fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78834)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - ✔️ 🟥 [[UX] Prepare eligibility userflow for VTP presentation](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79079)
         - ✔️ 🟥 [[UX][Research] SPIKE: Determine research to pursue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78323)
-        - 🟥 [[Research] Create Moderated Research Plan as a result of SPIKE ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78654)
+        - 🟥 [[Research] Create Unmoderated Research Plan as a result of SPIKE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78654)
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
         - ✔️ 🟥 [SPIKE: Are there differences between stand-alone travel for OH & Vista ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78698)
 - **GOAL: Increase Usage of PCI**    
@@ -141,7 +142,7 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [[UX] Add documentation in Git for how/where to pull quarterly metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79314)
            - Pulled in 3/26
-       - 🟥 [Research] Analyze GA Metrics
+       - ✔️ 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
            - Rolled over from last sprint
 - **GOAL: Address Tech Debt**
