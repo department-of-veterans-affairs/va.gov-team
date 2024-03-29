@@ -11,8 +11,4 @@ Steps for `content-build`: (this will force Terms of Use to go back to staging)
 
 Steps for `vets-api`:
 
-SSOe disable:
-  1. Create PR that removes apps from `TERMS_OF_USE_ENABLED_CLIENTS` in `lib/saml/url_service.rb`
-
-SiS disable:
-  1. In the rails console, set `enforced_terms` on all `ClientConfigs` to `nil`
+No regression changes necessary.
