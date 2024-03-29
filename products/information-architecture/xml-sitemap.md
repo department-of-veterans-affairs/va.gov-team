@@ -1,5 +1,8 @@
 
 # XML Sitemap Guidelines
+VA.gov link: www.va.gov/sitemap.xml
+POC: Mikki Northuis
+
 
 An XML sitemap is an SEO tool that helps Search Engines find and index pages on the site faster and allows them to use our "crawl budget" effectively. 
 
@@ -18,4 +21,49 @@ Examples of what not to include:
 - Pages marked "noindex"
 - Paginated pages
 - Redirected pages
+
+
+
+## User Problem Statement
+
+
+## Solution Goals
+
+
+### User Goals
+- 
+
+### Business Goals
+- 
+
+## Assumptions
+
+
+## Requirements and Constraints
+
+
+## Discovery Takeaways
+
+
+## Value Propositions
+
+
+#### User Value
+
+
+#### Business Value
+
+
+## KPIs and OKRs
+
+ 
+### KPIs
+- 
+ 
+#### Objective 1:		
+- Key result 1: 
+			
+## Resources and Documentation
+
+
 
