@@ -67,6 +67,7 @@ Page title: `Request for appointment | Veterans Affairs`
 Breadcrumb: `< Back to pending appointments`
 
 **PAGE CONTENT**
+
 `[card icon: calendar_today]` 
 
 `[h1]` Request for appointment
@@ -294,7 +295,7 @@ Breadcrumb: `< Back to past appointments`
 `[h2]` Who  
 `[Provider Name]`
 
-`[h2]` Where 
+`[h2]` Where  
 `[Facility Name]`  
 `[Facility Address]`   
 `[icon: directions]` [Directions](#)
@@ -341,7 +342,7 @@ Breadcrumb: `< Back to appointments`
 `[h2]` Who  
 `[Provider Name]`
 
-`[h2]` Where 
+`[h2]` Where  
 `[Facility Name]`  
 `[Facility Address]`   
 `[icon: directions]` [Directions](#)
@@ -378,7 +379,7 @@ Breadcrumb: `< Back to appointments`
 
 `[h1]` Claim exam
 
-`[h2]` How to prepare for this exam
+`[h2]` How to prepare for this exam  
 This appointment is for disability rating purposes only. It doesn’t include treatment. If you have medical evidence to support your claim, bring copies to this appointment. 
 
 `[h2]` When  
@@ -395,7 +396,7 @@ Clinic: `[Clinic Name]`
 Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-`[h2]` Need to make changes?
+`[h2]` Need to make changes?  
 Contact the `[Facility Name]` compensation and pension office if you need to reschedule or cancel your appointment.
 
 `[Button]` Print
@@ -499,33 +500,33 @@ Breadcrumb: `< Back to appointments`
 `[H2]` How to join 
 
 `[When video link is not available]`  
-    We'll add the link to join this appointment 30 minutes before your appointment time.
+    We'll add the link to join this appointment 30 minutes before your appointment time.  
 `[/When video link is not available]`
 
 `[When video link is available]`  
-    Join this video appointment using the link.
+    Join this video appointment using the link.  
     `[Action link]` Join appointment  
 `[/When video link is  available]`
 
-[VCM patient instructions](./shared-content.md#vcm-patient-instructions)
+[[VCM patient instructions](./shared-content.md#vcm-patient-instructions)]
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
-`[HH:SS m.m. TZ]`
+`[HH:SS m.m. TZ]`  
 `[Button]` Add to calendar
 
-`[h2]` What
+`[h2]` What  
 `[Type of care]`
 
-`[h2]` Who
+`[h2]` Who  
 `[Provider name]`
 
 `[h2]` Need to make changes?  
 Contact this facility if you need to reschedule or cancel your appointment.
 
-`[Facility name]`
-`[City]`, `[State]`
-Clinic: `[Clinic Name]`
+`[Facility name]`  
+`[City]`, `[State]`  
+Clinic: `[Clinic Name]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
@@ -556,16 +557,16 @@ Breadcrumb: `< Back to past appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[h2]` What
+`[h2]` What  
 `[Type of care]`
 
-`[h2]` Who
+`[h2]` Who  
 `[Provider name]`
 
 `[h2]` Scheduling facility  
-Facility: `[Facility name]`
-`[City]`, `[State]`
-Clinic: `[Clinic Name]`
+Facility: `[Facility name]`  
+`[City]`, `[State]`  
+Clinic: `[Clinic Name]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
@@ -596,16 +597,16 @@ Breadcrumb: `< Back to appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
 `[H2]` Scheduling facility  
-Facility: `[Facility name]`
-`[City]`, `[State]`
-Clinic: `[Clinic Name]`
+Facility: `[Facility name]`  
+`[City]`, `[State]`  
+Clinic: `[Clinic Name]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
@@ -630,18 +631,18 @@ Breadcrumb: `< Back to appointments`
 
 `[H1]` Video appointment at VA location
 
-`[H2]` How to join
+`[H2]` How to join  
 Join this video appointment at a VA facility.
 
 `[H2]` When  
 `[Weekday, Month DD, YYYY]`  
-`[HH:SS m.m. TZ]`
+`[HH:SS m.m. TZ]`  
 `[Button]` Add to calendar
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
 `[h2]` Where to attend  
@@ -685,17 +686,17 @@ Breadcrumb: `< Back to past appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
-`[h2]` Where 
+`[h2]` Where   
 `[ATLAS Location Address]`   
 `[icon: directions]` [Directions](#)
 
-`[h2]` Scheduling facility
+`[h2]` Scheduling facility  
 Clinic: `[Clinic Name]`  
 Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
@@ -730,13 +731,13 @@ Breadcrumb: `< Back to appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
-`[h2]` Where
+`[h2]` Where  
 `[Facility Name]`  
 `[Facility Address]`   
 `[icon: directions]` [Directions](#)
@@ -759,7 +760,7 @@ URL: `https://va.gov/my-health/appointments/[ID]`
 
 Page title: `VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to appointments`
 
 
 **PAGE CONTENT**
@@ -775,13 +776,13 @@ You will use this appointment code to find your appointment using the computer p
 
 `[H2]` When  
 `[Weekday, Month DD, YYYY]`  
-`[HH:SS m.m. TZ]`
+`[HH:SS m.m. TZ]`  
 `[Button]` Add to calendar
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
 `[h2]` Where to attend  
@@ -791,9 +792,9 @@ You will use this appointment code to find your appointment using the computer p
 `[h2]` Need to make changes?  
 Contact this facility if you need to reschedule or cancel your appointment.
 
-`[Facility name]`
-`[City]`, `[State]`
-Clinic: `[Clinic Name]`
+`[Facility name]`  
+`[City]`, `[State]`  
+Clinic: `[Clinic Name]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
@@ -824,10 +825,10 @@ Breadcrumb: `< Back to past appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
 `[h2]` Where to attend  
@@ -835,7 +836,7 @@ Breadcrumb: `< Back to past appointments`
 `[icon: directions]` [Directions](#)
 
 `[h2]` Scheduling facility
-`[Facility name]`
+`[Facility name]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
@@ -866,18 +867,18 @@ Breadcrumb: `< Back to appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[H2]` What
+`[H2]` What  
 `[Type of care]`
 
-`[H2]` Who
+`[H2]` Who  
 `[Provider name]`
 
-`[h2]` Where
+`[h2]` Where  
 `[ATLAS Location Address]`   
 `[icon: directions]` [Directions](#)
 
-`[h2]` Scheduling facility
-`[Facility name]`
+`[h2]` Scheduling facility  
+`[Facility name]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
@@ -907,19 +908,19 @@ We'll call you at the appointment time. But contact the facility you scheduled t
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
-`[HH:SS m.m. TZ]`
+`[HH:SS m.m. TZ]`  
 `[Button]` Add to calendar
 
-`[h2]` What
+`[h2]` What  
 `[Type of care]`
 
-`[h2]` Who
+`[h2]` Who  
 `[Provider name]`
 
-`[h2]` Scheduling facility 
-Facility: `[Facility name]`
-Clinic: `[Clinic Name]`
-Location: `[Clinic Location]`
+`[h2]` Scheduling facility   
+Facility: `[Facility name]`  
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Details you shared with your provider  
@@ -957,16 +958,16 @@ Breadcrumb: `< Back to past appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[h2]` What
+`[h2]` What  
 `[Type of care]`
 
-`[h2]` Who
+`[h2]` Who  
 `[Provider name]`
 
-`[h2]` Scheduling facility 
-Facility: `[Facility name]`
-Clinic: `[Clinic Name]`
-Location: `[Clinic Location]`
+`[h2]` Scheduling facility   
+Facility: `[Facility name]`  
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Details you shared with your provider  
@@ -1002,16 +1003,16 @@ Breadcrumb: `< Back to appointments`
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
 
-`[h2]` What
+`[h2]` What  
 `[Type of care]`
 
-`[h2]` Who
+`[h2]` Who  
 `[Provider name]`
 
-`[h2]` Scheduling facility 
-Facility: `[Facility name]`
-Clinic: `[Clinic Name]`
-Location: `[Clinic Location]`
+`[h2]` Scheduling facility   
+Facility: `[Facility name]`  
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
 Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[h2]` Details you shared with your provider  
@@ -1053,7 +1054,7 @@ Breadcrumb: `< Back to pending appointments`
 `[Type of Care]`
 
 `[h2]` Scheduling facility
-This facility will contact you if we need more information about your request
+This facility will contact you if we need more information about your request.  
 `[Facility Name]`  
 
 `[h2]` Preferred community care provider  
@@ -1069,7 +1070,7 @@ This facility will contact you if we need more information about your request
 `[h2]`Your contact details  
 Email: `[Email Address]`  
 Phone number: `[Phone Number]`
-Call `[Best times to call responses]`
+Call `[Best times to call responses]`  
 
 `[Button]` Print
 
@@ -1106,7 +1107,7 @@ Breadcrumb: `< Back to pending appointments`
 `[Type of Care]`
 
 `[h2]` Scheduling facility
-This facility will contact you if we need more information about your request
+This facility will contact you if we need more information about your request  
 `[Facility Name]`  
 
 `[h2]` Preferred community care provider  
@@ -1121,7 +1122,7 @@ This facility will contact you if we need more information about your request
 
 `[h2]`Your contact details  
 Email: `[Email Address]`  
-Phone number: `[Phone Number]`
+Phone number: `[Phone Number]`  
 Call `[Best times to call responses]`
 
 `[Button]` Print
@@ -1158,7 +1159,7 @@ Breadcrumb: `< Back to pending appointments`
 `[h2]` Type of care  
 `[Type of Care]`
 
-`[h2]` Scheduling facility
+`[h2]` Scheduling facility  
 `[Facility Name]`  
 
 `[h2]` Preferred community care provider  
@@ -1173,7 +1174,7 @@ Breadcrumb: `< Back to pending appointments`
 
 `[h2]`Your contact details  
 Email: `[Email Address]`  
-Phone number: `[Phone Number]`
+Phone number: `[Phone Number]`  
 Call `[Best times to call responses]`
 
 `[Button]` Print
