@@ -18,4 +18,5 @@ Most users do not enter the site on the home page, and most will not take the ha
 
 Allow user insights to inform the IA
 
-
+**Plan for growth**
+Content and features of the site will continue to grow, and the IA will need to grow with it.  
