@@ -74,10 +74,6 @@ The research findings will guide further improvements to the conditions page, en
 
   - Are participants most likely to use the free-text option for certain types of conditions? If so, what are these conditions, and why do participants prefer to enter them manually? 
 
-- Can assisted technology users navigate the page and submit their condition(s)? 
-
-  - What specific challenges do they face in navigating the page and submitting their condition(s)
-
 - How do participants evaluate the autosuggestions and make a selection?
 
   - Are Veterans able to find their conditions from the auto-suggestions?
