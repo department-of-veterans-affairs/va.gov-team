@@ -95,7 +95,7 @@ From travel claims page:
 
    a. How would you **summarize** this page to another veteran?
 
-2. Looking at this page, what do you expect to **be able to do her**e?
+2. Looking at this page, what do you expect to **be able to do here**?
 
     b. Looking at this page, what looks like something you can **click or take action on**?
 
@@ -141,12 +141,10 @@ From travel claims page:
 
 2. Do you think you could **start that appeal process from here**?  
     1. If **yes, how** would you do that?
-        1. What **information would you need** to make that appeal?
-    2. If you **can’t** start it from here, but you still wanted to appeal, **how** would you do that? 
+        1. Probe: What **information would you need** to make that appeal?
+    2. If no: If you **can’t** start it from here, but you still wanted to appeal, **how** would you do that? 
 
-3. If you wanted to appeal that denied claim in the Travel Pay portal (BTSSS) do you see **anything in here that would help you do that**?
-
-4. Lastly, looking at this page and this prototype as it relates to your experience submitting for travel reimbursement from the VA, do you have any feedback or insight you wanted to share that we haven’t already discussed?
+3. Lastly, looking at this page and this prototype as it relates to your experience submitting for travel reimbursement from the VA, do you have any feedback or insight you wanted to share that we haven’t already discussed?
 
 
 ## **Consent to use video clips**
