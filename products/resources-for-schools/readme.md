@@ -15,19 +15,22 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 
 ### Research
 
-[SCO Collaborative Workgroup Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/SCO%20Collab%20Group%20%E2%80%93Resources%20For%20Schools.pdf.zip)
+[SCO Collaborative Workgroup Presentation - PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/SCO%20Collab%20Group%20%E2%80%93Resources%20For%20Schools.pdf.zip)
 
-[SCO Collaborative Workgroup Presentation - Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20presentation%20summary.md)
+[SCO Collaborative Workgroup Presentation - Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20presentation%20summary.md)   
+This is a written summary of the downloadable PDF SCO Collaborative Workgroup Presentation.
 
 [SCO Collaborative Workgroup Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20findings.md)
 
 [1:1 Interview Moderators Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/1:1%20interview%20moderators%20guide.md)
 
-[Synthesis](https://www.figma.com/file/6uKSWc4hMeKCkesNg2VJAJ/ResourcesForSchools_FocusGroup?type=whiteboard&node-id=0%3A1&t=D07VIyIvU0iGvQIk-1)
+[Research Synthesis - Mapping](https://www.figma.com/file/6uKSWc4hMeKCkesNg2VJAJ/ResourcesForSchools_FocusGroup?type=whiteboard&node-id=0%3A1&t=D07VIyIvU0iGvQIk-1)
 
-[Research Findings - Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/Resources%20for%20Schools%20Usability%20Test%20Findings%20%26%20Recommendations%20.pdf.zip)  
+[Research Findings Presentation - PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/Resources%20for%20Schools%20Usability%20Test%20Findings%20%26%20Recommendations%20.pdf.zip)  
 
-[Research Findings - Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/research%20findings%20summary.md)
+[Research Findings - Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/research%20findings%20summary.md)  
+This is a written summary of the downloadable PDF Research Findings Presentation.
+
 
 ### Design
 
