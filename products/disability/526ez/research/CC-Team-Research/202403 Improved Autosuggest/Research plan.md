@@ -126,9 +126,9 @@ With the updated search algorithm, users can find their conditions easily if the
 
 ## Methodology
 
-- We will conduct moderated usability testing with 8 Veterans, including assisted technology users, familiar with the disability benefits application process. 
+- We will conduct moderated usability testing with 6 Veterans familiar with the disability benefits application process. 
 
-- Sessions will be remote Zoom sessions for approximately 45-60 minutes 
+- Sessions will be remote Zoom sessions for approximately 60-75 minutes
 
 - Participants will be asked to complete tasks related to entering their medical conditions on the conditions page. We will have a mock scenario prepared as a back-up, in cases where the Veteran does not have conditions in mind or is uncomfortable using their actual conditions. 
 
@@ -154,9 +154,9 @@ With the updated search algorithm, users can find their conditions easily if the
 
 ### Recruitment approach
 
-We are looking for 8 Veterans to participate in this study (recruiting for 11), at least two of which use assistive technology.  We’ll target other demographic criteria (cognitive disability and age) as primary sample distribution criteria, with race/ethnicity as secondary sample distribution criteria.
+We are looking for 6 Veterans to participate in this study (recruiting for 9). We’ll target other demographic criteria (cognitive disability and age) as primary sample distribution criteria, with race/ethnicity as secondary sample distribution criteria.
 
-Participants for this study: 8 Veterans. 
+Participants for this study: 6 Veterans. 
 
 We would like to request a kickoff call with Perigean. Requested date/time: Monday, April 1st. Please let us know if there is a time that works in the 12:30 to 3:30pm ET window. 
 
@@ -167,11 +167,9 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
   - At least 2, but no more than 4 have never submitted a disability claim but intend to
 
-- At least 2 but no more than 3 Veterans who use assistive technology (AT) such as screen readers (AT/reader) or magnifiers (AT/magnifier)
+- At least 1 but no more than 2 Veterans who identify as having a cognitive disability.
 
-- At least 1 but no more than 3 Veterans who identify as having a cognitive disability.
-
-- At least 1 but no more than 4 Veterans over 55 years old 
+- At least 1 but no more than 3 Veterans over 55 years old 
 
 - Education
 
@@ -184,7 +182,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
 - Gender
 
-  - Attempt At least 2 but no more than 4 Veterans who identify as a gender other than male 
+  - Attempt At least 2 but no more than 3 Veterans who identify as a gender other than male 
 
 - Age
 
@@ -203,7 +201,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
   - No 
 
-    - \[If no] Are you interested in filing for disability benefits in the next month?
+    - \[If no] Are you interested in filing for disability benefits in the near future?
 
       - Yes ( Recruit 4)
 
@@ -211,7 +209,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
 - Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
-  - Yes (Recruit 3-4 Veterans)
+  - Yes (Recruit 2-3 Veterans)
 
   - No
 
@@ -227,18 +225,18 @@ When will the thing we are testing be finalized? 
 
 Pilot session information
 
-- Pilot participant email: 
+- Pilot participant email: mjwojcik@navapbc.com
 
-- Date and time of pilot sessions: 
+- Date and time of pilot sessions: TBD
 
 
 ## Research Sessions
 
-We are planning to conduct research the week of April 8th, 2024
+We are planning to conduct research the week of April 8th, 2024 - April 17th, 2024
 
 Length of Sessions
 
-- Session length: < 75 minutes
+- Session length: 60-75 minutes
 
 - Buffer time between sessions: 30 minutes 
 
@@ -247,11 +245,13 @@ Length of Sessions
 
 ## Availability
 
-- Monday, April 8th: 11am - 1pm ET (1 slot)
+- Monday, April 8th: 10am - 2pm ET (2 slots)
 - Tuesday, April 9th: 11am - 1pm ET; 3pm - 5pm ET (2 slots)
 - Wednedsday, April 10th: 1:30pm ET - 5:30pm ET (3 slots)
 - Thursday, April 11th: 11am - 4:30pm ET (3 slots)
 - Friday, April 12th: 11am - 3:30pm ET (2 slots)
+- Monday, April 15th: 11am - 8pm ET (3 slots)
+- Tuesday, April 16th: 11am - 8pm ET (3 slots) 
 
 # Team Roles
 
@@ -263,9 +263,9 @@ Length of Sessions
 
 - Project point of contact: Eva Heintzelman and Sudeepti Bhatnagar
 
-- Participant(s) for pilot test: 
+- Participant(s) for pilot test: MJ Wojcik 
 
-- Accessibility specialist (for sessions where support for assistive technology may be needed): 
+- Accessibility specialist (for sessions where support for assistive technology may be needed): N/A
 
 - Note-takers: Eva Heintzelman, Sudeepti Bhatnagar, Yurena Garcia-Hevia, Lesley Ropp
 
