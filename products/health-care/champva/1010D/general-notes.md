@@ -18,7 +18,8 @@ General info, notes and miscellaneous
 - CXM: health care clearinghouse/database
   - all CHAMPVA,  VFMP, Spina Bifida, Children of Women Vietnam Veterans claims go here
 - DAPER: Document and process enabled repository (existing system that will be replaced by PEGA)
-- DCDM: Document Control Data Management 
+- DCDM: Document Control Data Management
+- DEERS: Defense Enrollment Eligibility Reporting System 
 - EEV: eligibility, enrollment, verification
 - PEGA: new document repository and management system that will replace DAPER
   - integration needs to be built still
