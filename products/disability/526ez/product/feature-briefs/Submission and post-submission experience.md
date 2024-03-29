@@ -42,10 +42,12 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 
   
 # Out of Scope
-This initiative focuses on the happy path for the submission and post submission experience. At this time, no non-happy paths are included in this work. Other exclusions include: 
+This initiative focuses on all paths for the submission and post submission experience. 
+
 - Notification of core 526 submission failures and file upload failures
 - PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
 - Given that the Claim Status Tool is not managed by our team, any improvements across products will need to happen in collaboration
+- Note that Team 2 is doing work on addressing small and important issues in the non-happy submission paths, and we will need coordinate with them on future-facing work.
 
 # Success
 - Lighthouse /submit endpoint migration complete
