@@ -4,11 +4,31 @@ Content that is the same across multiple pages/sections
 
 ## After-visit summary
 
+## Confirmation alert
+
+`[alert - success]`
+
+We'll try to schedule your `[request|appointment]` in the next 2 business days. Check back here or call your facility for updates.
+
+[Review your appointments](https://va.gov/my-health/appointments)
+
+[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
+
+`[/alert]`
+
+## Pending info alert
+
+`[alert - info]`
+
+We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
+
+`[/alert]`
+
 ## Cancelation alert
 
 `[alert - error]`
 
-`[Facility|You]` canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
+`[Facility|You]` canceled this `[request|appointment]`. If you want to reschedule, call us or `[request|schedule]` a new appointment online.
 
 [Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
 

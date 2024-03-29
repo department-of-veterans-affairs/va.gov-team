@@ -18,15 +18,7 @@ Breadcrumb: `< Back to pending appointments`
 
 `[h1]` We have received your request
 
-`[alert - success]`
-
-We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-
-[Review your appointments](https://va.gov/my-health/appointments)
-
-[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
-
-`[/alert]`
+[[Confirmation alert](shared-content.md#confirmation-alert)]
 
 `[h2]` Preferred date and time  
 `[Preferred Date & Time #1]`  
@@ -79,13 +71,7 @@ Breadcrumb: `< Back to pending appointments`
 
 `[h1]` Request for appointment
 
-`[alert - info]`
-
-[TBD]
-
-[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
-
-`[/alert]`
+[[Pending info alert](shared-content.md#confirmation-alert)]
 
 `[h2]` Preferred date and time  
 `[Preferred Date & Time #1]`  
@@ -137,13 +123,7 @@ Breadcrumb: `< Back to pending appointments`
 
 `[h1]` Canceled request for appointment
 
-`[alert - error]`
-
-`[Facility|You]` canceled this request. If you still need an appointment, call us or request a new appointment online.
-
-[Schedule a new appointment](https://va.gov/my-health/appointments/schedule/type-of-care)
-
-`[/alert]`
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
 `[h2]` Preferred date and time  
 `[Preferred Date & Time #1]`  
@@ -1052,97 +1032,50 @@ Other details: `[Booking Note]`
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
-Page title: `Pending community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Request for community care appointment | Veterans Affairs`
 
 Breadcrumb: `< Back to pending appointments`
 
+**CONTENT**
 
-**PAGE HEADER**
+`[card icon: calendar_today]` 
 
-```diff
-- Pending [type of care] appointment
-+ We have recieved your request
-@@ GH51668 @@ 
-```
+`[h1]` We have received your request
 
-```diff
-- Your appointment has been submitted. The time and date of this appointment are still to be determined.
-+ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-@@ GH52490 @@
-```
+[[Confirmation alert](shared-content.md#confirmation-alert)]
 
-```diff 
-- Review your appointments
-+ Review your upcoming appointments
-@@ GH52490 @@
-```
+`[h2]` Preferred date and time  
+`[Preferred Date & Time #1]`  
+`[Preferred Date & Time #2]`  
+`[Preferred Date & Time #3]`  
 
-```diff
-- Request a new appointment
-+ Schedule a new appointment 
-@@ GH52490 @@
-```
+`[h2]` Type of care  
+`[Type of Care]`
 
-**PAGE CONTENT**
+`[h2]` Scheduling facility
+This facility will contact you if we need more information about your request
+`[Facility Name]`  
 
-```
-Preferred community care provider
-[Provider name]
+`[h2]` Preferred community care provider  
+`[Provider Name]`  
+`[Provider Address]`  
 
-Preferred date and time
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[h2]` Language you'd prefer the provider speak  
+`[Selected Language]`
 
-You shared these details about your concern
-[Booking note]
+`[h2]` Details you’d like to share with your provider  
+`[Booking Note]`
 
-Your contact details
-Email: [Email address]
-Phone number: [phone number]
-Call [morning, afternoon, evening]
-```
+`[h2]`Your contact details  
+Email: `[Email Address]`  
+Phone number: `[Phone Number]`
+Call `[Best times to call responses]`
 
-```diff
+`[Button]` Print
 
-+ Type of care 
+`[Button]` Cancel request
 
-Preferred community care provider
-[Provider name]
-
-- Preferred date and time
-+ Preferred date and timeframe
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
-
-+ Scheduling facility
-+ [Facility name] 
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Preferred provider
-+ [Provider name]
-+ [Address]
-+ Directions
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Language you’d prefer the provider speak
-+ [Language]
-
-- You shared these details about your concern
-- [Booking note]
-+ Details you’d like to share with your provider
-+ [Booking note]
-
-Your contact details
-Email: [Email address]
-Phone number: [phone number]
-@@ GH52490 @@
-```
-
-**ACTIONS**
-
-```Cancel request```
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -1152,84 +1085,50 @@ Phone number: [phone number]
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Request for community care appointment | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to pending appointments`
 
+**CONTENT**
 
-**PAGE HEADER**
+`[card icon: calendar_today]` 
 
-```diff
-- Pending [type of care] appointment
-+ Request for community care
-@@ GH51668 @@
-```
+`[h1]` Request for community care appointment
 
-```diff
-- The time and date of this appointment are still to be determined.
-+ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-@@ GH51668 @@
-```
+[[Pending info alert](shared-content.md#confirmation-alert)]
 
-**PAGE CONTENT**
+`[h2]` Preferred date and time  
+`[Preferred Date & Time #1]`  
+`[Preferred Date & Time #2]`  
+`[Preferred Date & Time #3]`  
 
-```
-Preferred community care provider
-[Provider name]
+`[h2]` Type of care  
+`[Type of Care]`
 
-Preferred date and time
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[h2]` Scheduling facility
+This facility will contact you if we need more information about your request
+`[Facility Name]`  
 
-You shared these details about your concern
-[Booking note]
+`[h2]` Preferred community care provider  
+`[Provider Name]`  
+`[Provider Address]`  
 
-Your contact details
-Email: [Email address]
-Phone number: [phone number]
-Call [morning, afternoon, evening]
-```
+`[h2]` Language you'd prefer the provider speak  
+`[Selected Language]`
 
-```diff
-+ Type of care 
+`[h2]` Details you’d like to share with your provider  
+`[Booking Note]`
 
-Preferred community care provider
-[Provider name]
+`[h2]`Your contact details  
+Email: `[Email Address]`  
+Phone number: `[Phone Number]`
+Call `[Best times to call responses]`
 
-- Preferred date and time
-+ Preferred date and timeframe
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[Button]` Print
 
-+ Scheduling facility
-+ [Facility name] 
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
+`[Button]` Cancel request
 
-+ Preferred provider
-+ [Provider name]
-+ [Address]
-+ Directions
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Language you’d prefer the provider speak
-+ [Language]
-
-- You shared these details about your concern
-- [Booking note]
-+ Details you’d like to share with your provider
-+ [Booking note]
-
-Your contact details
-Email: [Email address]
-Phone number: [phone number]
-@@ GH52490 @@
-```
-
-**ACTIONS**
-
-```Cancel request```
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -1239,80 +1138,47 @@ Phone number: [phone number]
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Canceled request for community care appointment | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to pending appointments`
 
-**PAGE HEADER**
+**CONTENT**
 
-```diff
-- [Type of care] appointment request
-+ Canceled request for community care
-@@ GH52490 @@
-```
+`[card icon: calendar_today]` 
 
-```diff
-- [Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-+ [Canceler] canceled this request. If you still need an appointment, call us or request a new appointment online.
-@@ GH52490 @@
-```
+`[h1]` Canceled request for community care appointment
 
-**PAGE CONTENT**
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
-```
-Preferred community care provider
-[Provider name]
+`[h2]` Preferred date and time  
+`[Preferred Date & Time #1]`  
+`[Preferred Date & Time #2]`  
+`[Preferred Date & Time #3]`  
 
-Preferred date and time
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[h2]` Type of care  
+`[Type of Care]`
 
-You shared these details about your concern
-[Booking note]
+`[h2]` Scheduling facility
+`[Facility Name]`  
 
-Your contact details
-Email: [Email address]
-Phone number: [phone number]
-Call [morning, afternoon, evening]
-```
+`[h2]` Preferred community care provider  
+`[Provider Name]`  
+`[Provider Address]`  
 
-```diff
+`[h2]` Language you'd prefer the provider speak  
+`[Selected Language]`
 
-+ Type of care 
+`[h2]` Details you’d like to share with your provider  
+`[Booking Note]`
 
-Preferred community care provider
-[Provider name]
+`[h2]`Your contact details  
+Email: `[Email Address]`  
+Phone number: `[Phone Number]`
+Call `[Best times to call responses]`
 
-- Preferred date and time
-+ Preferred date and timeframe
-[Preferred date & time #1]
-[Preferred date & time #2]
-[Preferred date & time #3]
+`[Button]` Print
 
-+ Scheduling facility
-+ [Facility name] 
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Preferred provider
-+ [Provider name]
-+ [Address]
-+ Directions
-+ Main phone number: [XXX-XXX-XXXX](TTY: 711) 
-
-+ Language you’d prefer the provider speak
-+ [Language]
-
-- You shared these details about your concern
-- [Booking note]
-+ Details you’d like to share with your provider
-+ [Booking note]
-
-Your contact details
-Email: [Email address]
-Phone number: [phone number]
-@@ GH52490 @@
-```
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
