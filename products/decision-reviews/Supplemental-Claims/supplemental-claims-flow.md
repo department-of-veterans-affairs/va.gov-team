@@ -10,8 +10,11 @@ flowchart TB
     %% Subtask (/start page)
     %% =============================
 
+    subgraph subtask
+      BenefitType -. other .-> PDF[Fill out paper form]
+    end
+
     BenefitType[Benefit Type] -. compensation .-> Intro
-    BenefitType -. other .-> PDF[Fill out paper form]
 
     Intro[Introduction page] --> ITF
 
@@ -24,8 +27,8 @@ flowchart TB
 
     VetInfo[Veteran Information<br>Name, SSN & DoB] --> ContactInfo
 
-    ContactInfo[Contact Info] -. has home AND<br>mobile .-> PrimaryPhone
     ContactInfo -. edit .-> EditContactInfo
+    ContactInfo[&dagger; Contact Info] -. has home AND<br>mobile .-> PrimaryPhone
     ContactInfo -. has home OR<br>mobile phone .-> ContestableIssues
 
     EditContactInfo[Edit email,<br>home phone,<br>mobile phone,<br>or mailing address] --> ContactInfo
@@ -41,9 +44,7 @@ flowchart TB
 
     AddOrEdit[Add or edit issue] --> ContestableIssues
 
-    IssueSummary -. go back and<br>add more .-> ContestableIssues
     IssueSummary -. has legacy issues .-> OptIn
-
     IssueSummary --> Acknowledgment
 
     OptIn[Opt in to AMA,<br>if legacy issues loaded in] --> Acknowledgment
@@ -81,18 +82,20 @@ flowchart TB
 
     %% =============================
 
-    EvidenceSummary[Summary of evidence] --> ReviewSubmit
+    EvidenceSummary[&Dagger; Summary of evidence] --> ReviewSubmit
 
     ReviewSubmit[Review & Submit] --> Confirmation[Confirmation page]
 ```
 
-## Note:
-- Summary of Evidence page:
-  - Editing VA records will return you to the individual record; continue through all pages to return to the summary
-  - Editing private records will return you to the individual record; continue through all pages to return to the summary
-  - Private authorization page is not included
-  - Editing uploads will return you to the upload page
-  - This behavior remains the same when editing the summary from the review & submit page
-- Contact info (email, home phone, mobile phone and mailing address)
+## Notes:
+
+&dagger; Contact info (email, home phone, mobile phone and mailing address)
   - Editing from the contact info page will take you to a new edit page; updating or canceling will return you to the contact info page
   - Editing from the review & submit page will take you to a new edit page; updating or canceling will return you to the review & submit page
+
+&Dagger; Summary of Evidence page:
+  - Editing VA records will return you to the individual record; continue through all pages to return to the summary
+  - Editing private records will return you to the individual record; continue through all pages to return to the summary
+  - Editing uploads will return you to the upload page
+  - Add more evidence returns to the Request VA records yes/no question
+  - This behavior remains the same when editing the summary from the review & submit page
