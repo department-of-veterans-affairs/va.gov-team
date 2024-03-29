@@ -146,6 +146,9 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
            - Rolled over from last sprint
 - **GOAL: Address Tech Debt**
+    - Added on 3/29 for BE
+        - 🟦 [Remove feature flag: check_in_experience_45_minute_reminder ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79630)
+        - 🟦 [Remove feature flag: check_in_experience_travel_claim_increase_timeout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79628)
     - 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
         - Pulled in halfway through sprint (3/26)
     - ✔️ 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
