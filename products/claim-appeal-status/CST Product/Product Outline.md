@@ -20,7 +20,7 @@ The Claim and Appeal Status Tool (CST) exists to provide veterans information ab
  ## User Problem Statement
  
 As a veteran applying for disability benefits or filing various forms of disagreements/appeals for past decisions, it is often difficult to know the status of my claim and to identify action items I could take to accelerate the VA’s decision-making process, so that I can receive the benefits I earned, including compensation that will help me meet my basic needs. 
-While VA.gov has helped bring a level of transparency to the claims process by providing me with a landing page containing a “Claim StatusTool”, the information contained on this page is often insufficient. Pain points: 
+While VA.gov has helped bring a level of transparency to the claims process by providing me with a landing page containing a “Claim Status Tool”, the information contained on this page is often insufficient. Pain points: 
 1. The content provided doesn’t provide enough information to help me truly understand where the claim sits in the overall process or help me predict how long it will take to resolve.
 2. The content provided does not always let me know when I could take an action that could help expedite my claim/appeal. 
 3. The content provided is often misaligned with status information I receive when I call a veteran help center or information my VSO representative sees when they check the status of my claim using a different system; in other words, I don’t know if I can trust it. 
