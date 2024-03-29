@@ -158,7 +158,7 @@ We are looking for 8 Veterans to participate in this study (recruiting for 11), 
 
 Participants for this study: 8 Veterans. 
 
-We would like to request a kickoff call with Perigean. Requested date/time: _put date and time_ 
+We would like to request a kickoff call with Perigean. Requested date/time: Monday, April 1st. Please let us know if there is a time that works in the 12:30 to 3:30pm ET window. 
 
 
 ### Primary criteria (must-haves)
