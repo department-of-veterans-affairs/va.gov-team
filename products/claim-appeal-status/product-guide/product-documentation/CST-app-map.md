@@ -1,4 +1,4 @@
-# The CST App Map is an overview of the CST UI in various states.
+# The CST App Map is an overview of the CST UI in various states
 
 
 [App Map Version 1](https://www.figma.com/file/y27KDDtZLBDSVZmAjXdbJn/CST-App-Map?type=design&node-id=0-1&mode=design) (April 2023)
