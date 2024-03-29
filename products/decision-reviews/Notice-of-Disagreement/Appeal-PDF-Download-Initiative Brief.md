@@ -145,7 +145,7 @@ The following are feature recommendations based on the [accessibility resarch](h
 
 <details><summary>Board Appeal New Confirmation Email</summary>
   
-![New Board Appeal Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/63c8deae-a9eb-491b-9cae-b2dd843888d8)
+![New Board Appeal Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/4e95d82a-5799-4ca1-ad79-498b6e2d4018)
 
 </details>
 
