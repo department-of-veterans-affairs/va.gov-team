@@ -1,5 +1,7 @@
 # WIP - Appointment Details Copy Doc - 2024 Redesign
 
+See [data empty states](#appointment-data-empty-state-content) and the end of this doc
+
 ## VA Requests
 
 ### VA Request - Confirmed
@@ -1315,3 +1317,45 @@ Other details: `[Booking Note]`
 `[Button]` Print
 
 [[Appointments footer](shared-content.md#appointments-footer)]
+
+
+
+## Appointment data empty state content
+
+**`Type of Care` missing**
+
+Type of care information not available
+
+**`Provider Name` missing**
+
+Provider information not available
+
+**`Facility Name` missing**
+
+Use `Your VA facility` in place of `[VA Facility]`
+
+
+**`Facility Address` missing**
+
+Facility details not available  
+[Find facility information](https://www.va.gov/find-locations)
+
+**`Clinic Name` missing**
+
+Clinic: Not available
+
+**`Clinic Location` missing**
+
+Location: Not available
+
+**`Clinic Phone` missing**
+
+Main phone: `[link: Facility Main Phone Number]` ([TTY: 711](711))
+
+**`Reason for Appointment` missing**
+
+Reason: Not available
+
+**`Booking note` missing**
+
+Other details: Not available
