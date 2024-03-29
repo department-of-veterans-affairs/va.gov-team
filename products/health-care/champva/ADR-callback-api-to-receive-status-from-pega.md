@@ -5,6 +5,8 @@ What is the status, such as proposed, accepted, rejected, deprecated, superseded
 ## Context
 What is the issue that we're seeing that is motivating this decision or change?
 
+## What options were considered?
+
 ## Decision
 What is the change that we're proposing and/or doing?
 
