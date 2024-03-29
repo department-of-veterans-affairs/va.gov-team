@@ -1,4 +1,4 @@
-# Appeal PDF Download Initiative Brief
+# Dowloadable Copy of Submission Initiative Brief
 
 ---
 
@@ -69,8 +69,23 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
-- (WIP draft of solution approach) Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), starting with Board Appeal and link to an authenticated HTML page that also links to an already created endpoint that lets users download a copy of their completed form.
-- Lighthouse has created an endpoint that adds a watermark to the completed PDF package.
+The following are feature recommendations based on the [accessibility resarch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download) we've conducted.
+
+1. Updates to the Board Appeal confirmation page
+   1. Update success alert to provide more immediate
+   2. Add a summary section that allows the user to download a PDF copy of the board appeal
+   3. Include a "review" content section that contains all of the answers submitted within the form
+   4. Update the "What to expect next" content to include more information about process timeline and method of contact
+2. Creating an accessible downloadable copy of completed submission
+   1. Creating a PDF boilerplate from front-end to generate an accessible PDF
+   2. Creating a .txt file of the confirmation page, which includes a copy of all submitted responses
+3. Updating the Board Appeal confirmation email
+   1. Include more direct language about appeal processing and link to Claim Status Tool
+   2. Include a link to an authenticated page that houses the PDF of the completed submission and/or .txt file
+4. Authenticated page
+   1. Authenticated page that houses direct download of the PDF of the completed submission and/or .txt file
+
+- Does not include use of Lighthouse PDF endpoint, since the generated PDF is inaccessible.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
