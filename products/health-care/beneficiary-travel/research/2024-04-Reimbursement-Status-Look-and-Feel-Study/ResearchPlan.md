@@ -70,13 +70,13 @@ The desired outcome of this research is to inform the look and feel of the Trave
 
 
 1. Participants will know that they have to log into their VA.gov account to access any information about their travel claims.
-2. Participants will look in the Claims tool for information about travel claims.
-3. Participants will look on My VA for information about travel claims.
-4. Participants will expect reverse chronological claim order.
-5. Participants will want to sort by claims that need action or attention.
-6. Participants will not understand what a claim number is or how to use it.
-7. Participants will now know what information they need to take action on a claim in BTSSS.
-8. Participants will not understand the difference between the label and the claim status.  
+2. Participants will look on the MyHealtheVet on VA.gov page for information about travel claims.
+3. Participants will look in the Claims tool for information about travel claims.
+4. Participants will look on My VA for information about travel claims.
+5. Participants will expect reverse chronological claim order.
+6. Participants will want to sort by claims that need action or attention.
+7. Participants will not understand what a claim number is or how to use it.
+8. Participants will not know what information they need to take action on a claim in BTSSS.
 9. Participants will want to deep link into their claim to take action.
 
 
