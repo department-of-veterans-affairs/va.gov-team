@@ -84,7 +84,7 @@ The desired outcome of this research is to inform the look and feel of the Trave
 
 Moderated usability / cognitive walkthrough with 16 Veteran participants.  **10 completed sessions are required for the study to be considered complete.**
 
-Primary Task: Imagine that you have submitted several requests to be reimbursed for gas for traveling to see your VA doctor multiple times following surgery in Spring 2023. You want to know what happened to those requests. **Using this prototype, where would you find this information?**
+Primary Task: Imagine that you have submitted several requests to be reimbursed for driving to see your VA doctor multiple times following surgery in Spring 2023. You want to know what happened to those requests. **Using this prototype, where would you find this information?**
 
 
 ### Location
