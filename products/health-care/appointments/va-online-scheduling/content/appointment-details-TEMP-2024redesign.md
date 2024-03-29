@@ -550,6 +550,8 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
 
+[[Appointments footer](shared-content.md#appointments-footer)]
+
 --- 
 
 ### VA VVC at Home Appointment - Past
@@ -588,6 +590,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
 
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -607,6 +610,8 @@ Breadcrumb: `< Back to appointments`
 
 `[H1]` Canceled video appointment
 
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
+
 `[H2]` When  
 `[Weekday, Month DD, YYYY]`  
 `[HH:SS m.m. TZ]`
@@ -625,6 +630,7 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 `[Button]` Print
 
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -634,51 +640,45 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `VA video appointment at a VA facility on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: location_city]` 
 
-VA Video Connect at a VA location
+`[H1]` Video appointment at VA location
 
-You must join this meeting from this VA location:
+`[H2]` How to join
+Join this video appointment at a VA facility.
 
-[Facility name]
-[Facility address]
-Directions
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
+`[Button]` Add to calendar
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[H2]` What
+`[Type of care]`
 
-You'll be meeting with
-[Provider name]
-```
+`[H2]` Who
+`[Provider name]`
 
-**ACTIONS**
+`[h2]` Where to attend  
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: directions]` [Directions](#)
 
-```Add to calendar```
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-```Print```
+`[h2]` Need to make changes?  
+Contact this facility if you need to reschedule or cancel your appointment.
 
-```
-Need to make changes?
+`[Button]` Print
 
-Contact this provider if you need to reschedule or cancel your appointment.
-```
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 
 ---
@@ -689,43 +689,40 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past VA video appointment at a VA facility on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
+Breadcrumb: `< Back to past appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: location_city]` 
 
-VA Video Connect at a VA location
+`[H1]` Past video appointment at VA location
 
-[Facility name]
-[Facility address]
-Directions
+[[After-visit summary content](./shared-content.md#after-visit-summary)]]
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-You'll be meeting with
-[Provider name]
-```
+`[H2]` What
+`[Type of care]`
 
-**ACTIONS**
+`[H2]` Who
+`[Provider name]`
 
-```Print```
+`[h2]` Where 
+`[ATLAS Location Address]`   
+`[icon: directions]` [Directions](#)
+
+`[h2]` Scheduling facility
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 
 ---
@@ -736,40 +733,41 @@ You'll be meeting with
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled VA video appointment at VA facility on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to appointments`
 
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment.
-```
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: location_city]` 
 
+`[H1]` Past video appointment at VA location
 
-VA Video Connect at a VA location
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
-[Facility name]
-[Facility address]
-Directions
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
+`[H2]` What
+`[Type of care]`
 
-You'll be meeting with
-[Provider name]
-```
+`[H2]` Who
+`[Provider name]`
+
+`[h2]` Where
+`[Facility Name]`  
+`[Facility Address]`   
+`[icon: directions]` [Directions](#)
+
+Clinic: `[Clinic Name]`  
+Location: `[Clinic Location]`  
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -779,53 +777,48 @@ You'll be meeting with
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: location_city]` 
 
-VA Video Connect at an ATLAS location
-You must join this video meeting from this ATLAS (non-VA) location:
-[Location address]
-Directions
+`[H1]` Video appointment at an ATLAS location
 
-Appointment code: [Appt code]
+`[H2]` How to join  
+You will use this appointment code to find your appointment using the computer provided at the site: `[ATLAS Appointment Code]`
 
-You will use this code to find your appointment using the computer provided at the site.
+[VCM patient instructions](./shared-content.md#vcm-patient-instructions)
 
-You'll be meeting with
-[Provider name]
-```
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
+`[Button]` Add to calendar
 
-**ACTIONS**
+`[H2]` What
+`[Type of care]`
 
-```Add to calendar```
+`[H2]` Who
+`[Provider name]`
 
-```Print```
+`[h2]` Where to attend  
+`[ATLAS Location Address]`   
+`[icon: directions]` [Directions](#)
 
-```
-Need to make changes?
+`[h2]` Need to make changes?  
+Contact this facility if you need to reschedule or cancel your appointment.
 
-Contact this facility if you need to reschedule or cancel your appointment:
+`[Facility name]`
+`[City]`, `[State]`
+Clinic: `[Clinic Name]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-[Facility name]
-Main phone: [phone number] (TTY: 711)
+`[Button]` Print
 
-```
-
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -835,38 +828,39 @@ Main phone: [phone number] (TTY: 711)
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
+Breadcrumb: `< Back to past appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: location_city]` 
 
-VA Video Connect at an ATLAS location
-[Location address]
-Directions
+`[H1]` Past video appointment at an ATLAS location
 
-Provider
-[Provider name]
-```
+[[After-visit summary content](./shared-content.md#after-visit-summary)]]
 
-**ACTIONS**
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-```Print```
+`[H2]` What
+`[Type of care]`
 
+`[H2]` Who
+`[Provider name]`
+
+`[h2]` Where to attend  
+`[ATLAS Location Address]`   
+`[icon: directions]` [Directions](#)
+
+`[h2]` Scheduling facility
+`[Facility name]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -876,33 +870,39 @@ Provider
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled VA video appointment at an ATLAS location on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment.
-```
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: location_city]` 
 
-VA Video Connect at an ATLAS location
-[Location address]
-Directions
+`[H1]` Canceled video appointment at an ATLAS location
 
-Provider
-[Provider name]
-```
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
+
+`[H2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
+
+`[H2]` What
+`[Type of care]`
+
+`[H2]` Who
+`[Provider name]`
+
+`[h2]` Where
+`[ATLAS Location Address]`   
+`[icon: directions]` [Directions](#)
+
+`[h2]` Scheduling facility
+`[Facility name]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 

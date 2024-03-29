@@ -20,6 +20,15 @@ See: `Appointment Date and Time`
 **VAOS Notes**
 The time displayed is in the facility's time zone.
 
+
+### ATLAS Appointment Code
+
+Code used to join a video appointment at an [ATLAS](https://telehealth.va.gov/atlas) location.
+
+### ATLAS Location Address
+
+The address of an [ATLAS](https://telehealth.va.gov/atlas) location.
+
 ### Instructions: How to Join
 
 Instructions on how to join a telehealth appointment.
