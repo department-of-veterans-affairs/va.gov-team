@@ -193,13 +193,13 @@ We would like to request a kickoff call with Perigean. Requested date/time: Mond
 
 - Have you ever filed a claim for disability compensation with the VA in the past? 
 
-  - Yes (Recruit 4)
+  - Yes (Recruit 3)
 
   - No 
 
     - \[If no] Are you interested in filing for disability benefits in the near future?
 
-      - Yes ( Recruit 4)
+      - Yes ( Recruit 3)
 
       - No 
 
