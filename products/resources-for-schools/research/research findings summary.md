@@ -6,6 +6,8 @@ The study utilized a combination of task-based assessment and free explore sessi
 ### Purpose   
 The "Resources for Schools" web page is actively utilized to maintain consistent communication during training, facilitate onboarding for new SCOs, and assist supervisors in understanding the SCO role. The current page encounters issues with outdated information and challenges in finding specific details. Users note the need for improved layout and better organization of key resources.
 
+The presentation with images can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/Resources%20for%20Schools%20Usability%20Test%20Findings%20%26%20Recommendations%20.pdf.zip), but we have provided a summary of the findings in the presentation below.
+
 ---   
 ### Key Findings and Recommendations   
 #### Finding 1: Enrollment Manager   
