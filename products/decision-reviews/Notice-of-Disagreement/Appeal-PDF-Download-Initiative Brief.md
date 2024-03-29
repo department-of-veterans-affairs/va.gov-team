@@ -96,49 +96,41 @@
 
 ---
    
-## Screenshots (to be updated after usability testing)
+## Screenshots (updated post-usability testing)
 
 ### Confirmation page
 
 #### Before
-<details><summary>Notice of Disagreement Current Confirmation</summary>
+<details><summary>Board Appeal Current Confirmation Page</summary>
   
-![staging va gov_decision-reviews_board-appeal_request-board-appeal-form-10182_resume](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
+![Current ](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
 
 </details>
 
 
 #### After
-<details><summary>Notice of Disagreement New Confirmation</summary>
-  
-![Persistent HTML Page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/89de170a-07e9-447c-870a-7c98c3cf11ed)
+<details><summary>Board Appeal New Confirmation Page</summary>
 
-</details>
-
-### HTML submission page (NEW)
-<details><summary>Notice of Disagreement New HTML Submission Page</summary>
-  
-![HTML Claim Page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/95a849ed-625c-40f8-8569-74f2afbc1ce2)
-
+![Claim Download V3 2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/66977745-b7c7-46c4-991f-b9958e4765d6)
 
 </details>
 
 
-### Email (Not part of current scope)
+### Email
 
 #### Before
 
-<details><summary>Notice of Disagreement Current Confirmation Email</summary>
+<details><summary>Board Appeal Current Confirmation Email</summary>
   
-![Current Notice of Disagreement Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/98904102-ff4c-4d25-850f-b8170451db92)
+![Current Board Appeal Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/98904102-ff4c-4d25-850f-b8170451db92)
 
 </details>
 
 #### After
 
-<details><summary>Notice of Disagreement New Confirmation Email</summary>
+<details><summary>Board Appeal New Confirmation Email</summary>
   
-![New Notice of Disagreement Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/75d2960c-120a-4192-84bd-52824ed92dfe)
+![New Board Appeal Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/63c8deae-a9eb-491b-9cae-b2dd843888d8)
 
 </details>
 
@@ -152,7 +144,7 @@
 <details>
 
 - Team Name: Benefits Decision Review
-- GitHub Label(s): benefits-team-1, squad-2
+- GitHub Label(s): benefits-team-1, Decision-Reviews-Team
 - Slack channel: [benefits-decision-review](https://dsva.slack.com/archives/C5AGLBNRK)
 - Product POCs: Zach Goldfine, Sade Ragsdale
 
@@ -164,8 +156,8 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: Board of Veteran Appeals
+- Contact(s): John Gosnall
  
 </details>
 
