@@ -1,5 +1,4 @@
 # Travel Reimbursement Status Visibility Look and Feel Study 
-Still in draft phase, last updated 3/27
 
 ## Background
 
