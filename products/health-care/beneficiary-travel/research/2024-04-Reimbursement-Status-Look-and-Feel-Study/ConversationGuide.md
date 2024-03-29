@@ -77,7 +77,28 @@ _Start recording._
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 * Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
+## Screen sharing instructions
 
+I'm going to ask you to do a couple things on the VA website, VA.gov, and to share your screen so I can see how you navigate on the website. Do you know how to share your screen? 
+
+_Instructions for folks NOT using screenreaders:_
+- In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+  - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
+
+_Instructions for folks using screenreaders on a desktop:_
+- Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic. 
+- Tab over and confirm that what is selected is "entire screen." 
+- Tab once more - make sure "share sound" is checked. 
+- Tab 4 times over to "share screen" - click activate. 
+
+
+Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen?
 ## **Task 1: Navigate to Travel Reimbursement Status page**
 
 From landing page:
