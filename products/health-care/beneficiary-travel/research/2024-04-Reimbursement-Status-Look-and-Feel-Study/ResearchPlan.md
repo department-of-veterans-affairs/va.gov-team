@@ -52,9 +52,11 @@ The desired outcome of this research is to inform the look and feel of the Trave
        
 5. How do participants interpret or understand the information about each claim presented?
    
-    6. What information would they want to be able to see that they currently do not?
+    6. Of the information presented, what would they change? What makes them say so?
+    7. What information would they want to be able to see that they currently do not? What makes them say so?
+    8. What information would they take away? What information do they deem as not necessary or superfluous? What makes them say so?
        
-    8. Do they understand that the “Claim status” field is telling them where a claim is in the process?
+    9. Do they understand that the “Claim status” field is telling them where a claim is in the process?
        
     10. Do they understand what status in the “Claim status” field requires them to do something?
         
