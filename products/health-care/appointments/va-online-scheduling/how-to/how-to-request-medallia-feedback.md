@@ -43,6 +43,8 @@ All in one file, on one tab
 
 ### Medallia Feedback Requests - Q1 2024
 
+[Q1 2024 Analysis Spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2024%20Q1%20Analysis.xlsx?d=w8257a39f90ce446d9621d5c524a209e4&csf=1&web=1&e=7X9vrb)
+
 | Dates                 | Submitted By        | Ticket                                                                              | Status      |
 | --------------------- | ------------------- | ----------------------------------------------------------------------------------- | ----------- |
 | Week 1 Dec 31–Jan 06  |  Peter Russo        | [73165](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73165) | Done        |
@@ -61,6 +63,8 @@ All in one file, on one tab
 
 
 ### Medallia Feedback Requests - Q2 2024
+
+[Q2 2024 Analysis Spreadsheet](https://dvagov.sharepoint.com/:x:/s/HealthApartment/EQmGamvaPIFLsrZTb4_ptzsBN-F-gDylyHA3UNIPveRJOw?e=aMYQnr)
 
 | Dates                  | Submitted By | Ticket Link  | Status |
 |------------------------|--------------|--------------|--------|
@@ -119,7 +123,7 @@ All in one file, on one tab
 | Week 39 September 25th - October 1st | Melissa Lefevre  | ✅ [66687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66687) |
 </details>
 
-## How to Process Feedback
+## How to Collect and Process Feedback
 
 1. Contact Center will email the feedback to the address you provided.
 
@@ -142,8 +146,10 @@ Replace them with codes as follows
 
 5. As you review, note any issues that may be new or indicate that something is broken. You'll email this information to the team in the last step.
 
-6. Upload the scrubbed file to the Teams folder. Check that it is named so that it can be sorted by date.
+6. Upload the scrubbed file to the [Teams user feedback folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac). Check that it is named so that it can be sorted by date.
 
 7. Share the file, including your notes of any potential issues that raise concern to  Simi, Jeff, Leah, Kay, Peter, Melissa, Ciera (using their VA email addresses).
 
 8. If any issues that seem urgent show up, note them for the team in the #appointments-fe-meetup channel.
+
+## How to Analyze Feedback
