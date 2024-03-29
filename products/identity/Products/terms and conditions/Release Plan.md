@@ -26,36 +26,19 @@ Before enabling your feature toggle in production, you'll need to:
 ### Define the Rollback/Regression process
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible. [See regression plan for Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/terms%20and%20conditions/Regression%20Test%20Plan.md)
-
-### Identity
-
-> Identity Frontend regression plan
-
-Steps for `content-build`: (this will force Terms of Use to go back to staging)
-1. Navigate to `content-build` repository
-2. Create a Pull Request that changes the `registry.json` file for Terms of Use from `"vagovprod": true` to `"vagovprod": false`
-3. Merge that Pull Request
-
-> Identity Backend regression plan
-
-Steps for `vets-api`:
-- SSOe disable:
-  1. Create PR that removes apps from `TERMS_OF_USE_ENABLED_CLIENTS` in `lib/saml/url_service.rb`
-- SiS disable:
-  1. In the rails console, set `enforced_terms` on all `ClientConfigs` to nil
-
----
  
 ### External partners
 
 > IAM regression plan
 
 Steps for `IAM`
+
 1. 
 
 > Sign up Service (SuS) regression plan
 
 Steps for `Sign up Service (SuS)`
+
 1.
 
 
@@ -63,17 +46,27 @@ Steps for `Sign up Service (SuS)`
 
 ### Rollout Planning
 
-| Application | Phase | Rollout Date |
-| --- | --- | --- |
-| My VA Health (Oracle Health) | Phase 1 | April 4th, 2024 @ 9PM EST |
-| My HealtheVet | | |
-| VA Flagship mobile | | |
-| VA.gov | | |
+| Application | Phase | Rollout Date | Production URL |
+| --- | --- | --- | --- |
+| My VA Health (Oracle Health) | Phase 1 | Thursday April 4th, 2024 @ 9PM EST | https://va.gov/terms-of-use/myvahealth |
+| My HealtheVet | | | |
+| VA Flagship mobile | | | |
+| VA.gov | | | |
 
 
 > Phase 1 - My VA Health (Oracle Health)
 
-Rollout will take place on 4/4/2024 to My VA Health (Oracle Health) only at 9pm EST. There will be a member from each practice area within the Identity team to include the product manager attending the live call. Should there by any issue that is not able to be remedied in the moment, we will refer to the Regression Plan listed above.
+Rollout will take place on Thursday 4/4/2024 at 9pm EST for My VA Health (Oracle Health). There will be a member from each practice area within the Identity team to include the product manager attending the live call. Should there by any issue that is not able to be remedied in the moment, we will refer to the Regression Plan listed above.
+
+**Launch checklist**
+- [x] Identity team (frontend) will merge `content-build` and `vets-website` PRs to enable production
+- [x] Identity team (frontend) will enable `terms_of_use` Flipper flag
+- [ ] IAM will be required to enable enforcement of terms of use with the new VA.gov production URL - https://va.gov/terms-of-use/myvahealth
+- [ ] IAM will release a fix to the logout bug with the patient portal
+- [ ] IAM will add production declined terms app key
+- [ ] Sign up Service enable changes to version 3 of Terms of Use
+
+**After launch (analysis)**
 
 > Phase 2 - TBD
 
