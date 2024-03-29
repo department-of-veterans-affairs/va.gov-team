@@ -3,8 +3,9 @@
 What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
 
 ## Context
-What is the issue that we're seeing that is motivating this decision or change?
-We need the ability to receive form status updates from PEGA that can be used to notify users
+As the IVC Forms team works to digitize forms and integrate with VFMP back end processes, we need sufficient communication to be confident that any data we send to PEGA is getting to the proper workflows.
+
+Our digital forms on VA.gov will send submitted forms and supporting documents to an s3 bucket maintained by the DOCMP team. This will allow us to confirm whether forms have reached s3, but does't tell us whether they were imported into PEGA, or whether they can be deleted from s3. In order to get that information, PEGA's workflow will add a step to call a VA.gov endpoint to send confirmation that the files were loaded into PEGA. We don't currently have such an endpoint, so this document reflected the decision making for that implementation.
 
 ## What options were considered?
 1. LightHouse Delivery Infrastructure
