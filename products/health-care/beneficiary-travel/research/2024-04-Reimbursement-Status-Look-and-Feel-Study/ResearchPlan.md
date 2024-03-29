@@ -200,6 +200,24 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 ### Availability
 
+Tuesday, 4/16: 2 - 5pm EST
+
+Wednesday, 4/17: 11am - 3pm EST
+
+Thursday, 4/18: 11am - 3pm EST
+
+Friday, 4/19: 11am - 3pm EST
+
+Monday, 4/22: 2 - 5pm EST
+
+Tuesday, 4/23: 11am - 3pm EST
+
+Wednesday, 4/24: 11am - 3pm EST
+
+Thursday, 4/25: 11am - 3pm EST
+
+
+
 
 ## **Team Roles**
 
