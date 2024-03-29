@@ -17,3 +17,17 @@ Our goal today is to better understand your current experiences with the Resourc
 --- 
 **Review Updated Page**
 
+![Image of the Updated Resources for Schools page with links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/images/Updated%20Page%201.png)
+
+![Image of the Lower Portion of the Updated Resources for Schools page with links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/images/Updated%20Page%202.png)   
+
+---
+**Updated Page Questions**
+1. What do you like about this update?
+2. What do you not like/ could be further improved on this update?
+3. Is there anything on the page that is confusing, unclear, or missing?
+4. You have a magic wand and with a wave can make the Resources for schools page work perfectly for you. How would it look? What would you change?
+
+**Closing**  
+
+Participants were invited to attend usability sessions beginning in January.
