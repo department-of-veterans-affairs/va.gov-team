@@ -2,7 +2,7 @@
 
 Background: In December 2023, the IIR team hosted a working session with school certifiying officials to learn about their process and understand their interactions with the school administrators page (now known as the Resource for Schools page). The feedback informed the second round of design updates, prior to usability testing with individual SCOs.   
 
-The full presentation can be downloaded here, but we have provided a summary for reference.   
+The full presentation can be downloaded [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/SCO%20Collab%20Group%20%E2%80%93Resources%20For%20Schools.pdf.zip), but we have provided a summary for reference.   
 
 ---   
 **Workgroup Goal**   
