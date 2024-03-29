@@ -36,18 +36,30 @@ The desired outcome of this research is to inform the look and feel of the Trave
 
 
 
-1. What path do participants take to the Travel Reimbursement page? 
+1. What path do participants take to the Travel Reimbursement page?
+   
     1. How many can locate the page without assistance?
-    2. Where else do participants look for the information on the Travel Reimbursement page?
-2. What action do participants expect to be able to take from the Travel Reimbursement Status page as it is currently designed?
-    3. What actions or capabilities would they add? 
-    4. What actions or capabilities would they change?
-    5. What actions or capabilities would they take away? What do they see as unnecessary?
-3. How do participants interpret or understand the information about each claim presented?
-    6. What information would they want to be able to see that they currently do not? 
-    7. Do they understand that the “Claim status” field is telling them where a claim is in the process?
-    8. Do they understand what status in the “Claim status” field requires them to do something? 
-4. How would participants expect to be able to organize the claim information they see on the Travel Reimbursement Status? 
+       
+    3. Where else do participants look for the information on the Travel Reimbursement page?
+       
+3. What action do participants expect to be able to take from the Travel Reimbursement Status page as it is currently designed?
+   
+    3. What actions or capabilities would they add?
+        
+    5. What actions or capabilities would they change?
+       
+    7. What actions or capabilities would they take away? What do they see as unnecessary?
+       
+5. How do participants interpret or understand the information about each claim presented?
+   
+    6. What information would they want to be able to see that they currently do not?
+       
+    8. Do they understand that the “Claim status” field is telling them where a claim is in the process?
+       
+    10. Do they understand what status in the “Claim status” field requires them to do something?
+        
+7. How would participants expect to be able to organize the claim information they see on the Travel Reimbursement Status?
+    
     9. How would they want to organize the information on the page? 
 
 
@@ -87,7 +99,7 @@ Video interviews over Zoom
 
 ## Recruitment
 
-Note: Midpoint Review is scheduled for Thursday, April 2, 2024 at 3:30pm EST.  [Link to GitHub ticket for Midpoint review](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/79471&sa=D&source=calendar&ust=1712157685415747&usg=AOvVaw25VWk_-YLPCpql-bgD5xS_).  
+Note: Midpoint Review is scheduled for Thursday, April 4, 2024 at 3:30pm EST.  [Link to GitHub ticket for Midpoint review](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/79471&sa=D&source=calendar&ust=1712157685415747&usg=AOvVaw25VWk_-YLPCpql-bgD5xS_).  
 ### Recruitment Approach 
 
 We will partner with Perigean to recruit Veterans. We request a kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.
