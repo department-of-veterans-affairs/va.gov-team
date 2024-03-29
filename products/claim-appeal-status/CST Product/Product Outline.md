@@ -50,7 +50,7 @@ While VA.gov has helped bring a level of transparency to the claims process by p
 
  # Previous assumptions that have been answered
  - The majority of the traffic coming into the Claim Status Tool is from veterans looking to find information related to disability claims specifically: this is factually the case. Our DataDag monitors show that compensation claims related to disability are by far the most common claim time by an order of magnitude. 
- - The veterans who are most dissatisfied with the Claim Status Tool are veterans who are specifically concerned with their disability claims service journey: This is mostly true based on all the research we've done to date. Majority of pain points expressed have to do with a lack of transparency or clear direction for disability claims in particulr. 
+ - The veterans who are most dissatisfied with the Claim Status Tool are veterans who are specifically concerned with their disability claims service journey: This is mostly true based on all the research we've done to date. Majority of pain points expressed have to do with a lack of transparency or clear direction for disability claims in particular. 
 
 # Open Questions
 - What claim types should show in the claim status tool based on prior communications?
