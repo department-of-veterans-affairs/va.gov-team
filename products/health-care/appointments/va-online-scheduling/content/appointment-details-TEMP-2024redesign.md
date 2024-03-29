@@ -302,7 +302,7 @@ Breadcrumb: `< Back to past appointments`
 
 `[h1]` Past in-person appointment
 
-[[After visit summary](./shared-content.md#after-visit-summary)]
+[[After visit summary content](./shared-content.md#after-visit-summary)]
 
 `[h2]` When  
 `[Weekday, Month DD, YYYY]`  
@@ -912,50 +912,45 @@ Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `VA phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: phone]` 
 
-VA appointment over the phone
-Someone from your VA facility will call you at your phone number on file at the appointment time.
+`[H1]` Phone appointment
 
-[Facility name]
-[Facility address]
-Directions
+`[H2]` How to join  
+We'll call you at the appointment time. But contact the facility you scheduled through if you have questions or need to reschedule.
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
+`[Button]` Add to calendar
 
-```
-You shared these details about your concern
+`[h2]` What
+`[Type of care]`
 
-[Reason]: [Booking note]
-```
+`[h2]` Who
+`[Provider name]`
 
-**ACTIONS**
+`[h2]` Scheduling facility 
+Facility: `[Facility name]`
+Clinic: `[Clinic Name]`
+Location: `[Clinic Location]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
-```Add to calendar```
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
 
-```Print```
+`[Button]` Print
 
-```Cancel appointment```
+`[Button]` Cancel appointment
 
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -965,45 +960,42 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past VA phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to past appointments`
 
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: phone]` 
 
-VA appointment over the phone
-[Facility name]
-[Facility address]
-Directions
+`[H1]` Past phone appointment
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
+[[After visit summary content](./shared-content.md#after-visit-summary)]
 
-```
-You shared these details about your concern
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-[Reason]: [Booking note]
-```
+`[h2]` What
+`[Type of care]`
 
-**ACTIONS**
+`[h2]` Who
+`[Provider name]`
 
-```Print```
+`[h2]` Scheduling facility 
+Facility: `[Facility name]`
+Clinic: `[Clinic Name]`
+Location: `[Clinic Location]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
+
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 
 ---
@@ -1014,46 +1006,41 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `VA appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled VA phone appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
-
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-```
+Breadcrumb: `< Back to appointments`
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: phone]` 
 
-VA appointment over the phone
-[Facility name]
-[Facility address]
-Directions
+`[H1]` Canceled phone appointment
 
-Clinic: [Clinic name]
-Location: [Clinic location]
-Main phone: [phone number] (TTY: 711)
-```
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
-```
-You shared these details about your concern
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`
 
-[Reason]: [Booking note]
-```
+`[h2]` What
+`[Type of care]`
 
-**ACTIONS**
+`[h2]` Who
+`[Provider name]`
 
-```Print```
+`[h2]` Scheduling facility 
+Facility: `[Facility name]`
+Clinic: `[Clinic Name]`
+Location: `[Clinic Location]`
+Clinic phone: `[link: Phone Number]` ([TTY: 711](711))
 
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -1065,9 +1052,9 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/pending/[ID]?confirmMsg=true`
 
-Page title: `[Page Header] | Veterans Affairs`
+Page title: `Pending community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [H1 of previous page]`
+Breadcrumb: `< Back to pending appointments`
 
 
 **PAGE HEADER**
