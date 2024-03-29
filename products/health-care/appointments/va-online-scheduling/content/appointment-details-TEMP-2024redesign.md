@@ -1192,46 +1192,41 @@ URL: `https://va.gov/my-health/appointments/[ID]`
 
 Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
-Breadcrumb: `< Back to [h1 of previous page]`
+Breadcrumb: `< Back to appointments`
 
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-none
 
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: calendar_today]` 
 
-Community care provider
-[Provider name]
-[Treatment specialty]
+`[h1]` Community care appointment
 
-[Provider address]
-Directions
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
+`[Button]` Add to calendar
 
-Main phone: [phone number] (TTY: 711)
+`[h2]` What   
+`[Type of Care]`
 
-You shared these details about your concern
-[Booking note]
-```
+`[h2]` Provider  
+`[Provider Name]`  
+`[Treatment Specialty]`  
+`[Provider Address]`   
+`[icon: directions]` [Directions](#)
 
-**ACTIONS**
+Phone: `[link: Phone Number]` ([TTY: 711](711))
 
-```Add to calendar```
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
 
-```Print```
+`[h2]` Need to make changes?  
+Contact this facility if you need to reschedule or cancel your appointment.
 
-```
-Need to make changes?
+`[Button]` Print
 
-Contact this provider if you need to reschedule or cancel your appointment.
-```
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -1241,43 +1236,40 @@ Contact this provider if you need to reschedule or cancel your appointment.
 
 URL: `https://va.gov/my-health/appointments/past/[ID]`
 
-Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Past community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
-
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-This appointment occurred in the past.
-```
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: calendar_today]` 
 
-Community care provider
-[Provider name]
-[Treatment specialty]
+`[h1]` Past community care appointment
 
-[Provider address]
-Directions
+[[After-visit summary content](./shared-content.md#after-visit-summary)]]
 
-Main phone: [phone number] (TTY: 711)
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
 
-You shared these details about your concern
-[Booking note]
-```
+`[h2]` What   
+`[Type of Care]`
 
-**ACTIONS**
+`[h2]` Provider  
+`[Provider Name]`  
+`[Treatment Specialty]`  
+`[Provider Address]`   
+`[icon: directions]` [Directions](#)
 
-`Print`
+Phone: `[link: Phone Number]` ([TTY: 711](711))
 
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
+
+`[Button]` Print
+
+[[Appointments footer](shared-content.md#appointments-footer)]
 
 ---
 
@@ -1287,64 +1279,38 @@ You shared these details about your concern
 
 URL: `https://va.gov/my-health/appointments/[ID]`
 
-Page title: `Community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
+Page title: `Canceled community care appointment on [Weekday], [Month] [DD], [YYYY] | Veterans Affairs`
 
 Breadcrumb: `< Back to [h1 of previous page]`
 
 
-**PAGE HEADER**
-
-```
-[appointment date] at [appointment time]
-```
-
-```
-[Canceler] canceled this appointment. If you want to reschedule, call us or schedule a new appointment online.
-```
-
 **PAGE CONTENT**
 
-```
-Type of care: [Type of Care]
+`[card icon: calendar_today]` 
 
-Community care provider
-[Provider name]
-[Treatment specialty]
+`[h1]` Canceled community care appointment
 
-[Provider address]
-Directions
+[[Cancelation alert](./shared-content.md#cancelation-alert)]
 
-Main phone: [phone number] (TTY: 711)
+`[h2]` When  
+`[Weekday, Month DD, YYYY]`  
+`[HH:SS m.m. TZ]`  
 
-You shared these details about your concern
-[Booking note]
-```
+`[h2]` What   
+`[Type of Care]`
 
-**ACTIONS**
+`[h2]` Provider  
+`[Provider Name]`  
+`[Treatment Specialty]`  
+`[Provider Address]`   
+`[icon: directions]` [Directions](#)
 
-none
+Phone: `[link: Phone Number]` ([TTY: 711](711))
 
----
+`[h2]` Details you shared with your provider  
+Reason: `[Reason for Appointment]`  
+Other details: `[Booking Note]`
 
-### Community Care Variations
+`[Button]` Print
 
-The copy below may be used in place of some copy above based on the data available.
-
-#### No Provider Preferences
-
-```
-Preferred community care provider
-No provider selected
-```
-
-
-
-
-
-
-
-
-
-
-
-
+[[Appointments footer](shared-content.md#appointments-footer)]
