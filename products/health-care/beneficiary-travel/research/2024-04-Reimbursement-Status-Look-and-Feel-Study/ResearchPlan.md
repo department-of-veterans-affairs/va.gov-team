@@ -10,9 +10,9 @@ The goal of the Beneficiary Travel Pay team is to empower users to do more with 
 
 ### OCTO Priorities
 
-
-
-* Objective 1: Key Result 1: CSAT for our web products have increased by 5 points.
+Objective 1: Our digital experiences are the best way to access VA health care and benefits.
+- Key Result 1: CSAT for our web products have increased by 5 points.
+- Key Result 3: All new products have a faster transaction time than those they replaced.
 
 
 ### Veteran Journey 
@@ -84,11 +84,11 @@ Video interviews over Zoom
 
 
 * [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/78d87cbe7456a096bcc62808740f4283c45df90f/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
-* [Link to prototype]([url goes here](url here)
+* [Link to prototype](https://codepen.io/team/VA-gov-Applications/project/live/DQmqxR)
 
 ## Recruitment
 
-
+Note: Midpoint Review is scheduled for Thursday, April 2, 2024 at 3:30pm EST.  [Link to GitHub ticket for Midpoint review](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/issues/79471&sa=D&source=calendar&ust=1712157685415747&usg=AOvVaw25VWk_-YLPCpql-bgD5xS_).  
 ### Recruitment Approach 
 
 We will partner with Perigean to recruit Veterans. We request a kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.
