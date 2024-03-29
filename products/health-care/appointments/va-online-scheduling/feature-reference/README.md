@@ -66,9 +66,9 @@ Tools Veterans can use to manage their appointments and requests.
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.
 
-### All flows
+### Start of scheduling flows
 
-These pages are the starting point for all the other scheduling flows
+These pages are the starting point for all the other scheduling flows. Users are redirected from these pages to the other flows depending on their choices and eligibility.
 
 | Step # | Page |
 |---|---|
