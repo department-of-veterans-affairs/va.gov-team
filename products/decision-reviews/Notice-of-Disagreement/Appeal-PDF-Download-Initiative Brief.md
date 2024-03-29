@@ -77,7 +77,7 @@ The following are feature recommendations based on the [accessibility resarch](h
    3. Include a "review" content section that contains all of the answers submitted within the form
    4. Update the "What to expect next" content to include more information about process timeline and method of contact
 2. Creating an accessible downloadable copy of completed submission
-   1. Creating a PDF boilerplate from front-end to generate an accessible PDF
+   1. Creating a PDF boilerplate to generate an accessible PDF
    2. Creating a .txt file of the confirmation page, which includes a copy of all submitted responses
 3. Updating the Board Appeal confirmation email
    1. Include more direct language about appeal processing and link to Claim Status Tool
