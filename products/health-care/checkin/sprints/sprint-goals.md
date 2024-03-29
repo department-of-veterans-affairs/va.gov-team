@@ -47,7 +47,7 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
         - TBD
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - Nothing this sprint
+        - 🟥 [[Content] Create Final Content for eCheck-in w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
 - **GOAL: Increase PCI Usability**    
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
