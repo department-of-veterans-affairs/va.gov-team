@@ -103,7 +103,7 @@ Great, now I can see your screen! Thank you for your patience in figuring this o
 
 From landing page:
 
-_Task:_ Imagine that you have submitted several requests to be reimbursed for gas for traveling to see your VA doctor multiple times following surgery in Spring 2023. You want to know what happened to those requests. **Using this prototype, where would you find this information? **
+_Task:_ Imagine that you have submitted several requests to be reimbursed for gas for traveling to see your VA doctor multiple times following surgery in Spring 2023. You want to know what happened to those requests. **Using this prototype, where would you find this information?**
 
 Please remember to think aloud and describe what you are looking for.
 
