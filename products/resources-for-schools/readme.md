@@ -16,7 +16,7 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 
 [SCO Collaborative Workgroup Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/SCO%20Collab%20Group%20%E2%80%93Resources%20For%20Schools.pdf.zip)
 
-SCO Collaborative Workgroup Presentation - Summary
+[SCO Collaborative Workgroup Presentation - Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20presentation%20summary.md)
 
 [SCO Collaborative Workgroup Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20findings.md)
 
