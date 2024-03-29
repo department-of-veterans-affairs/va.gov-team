@@ -27,7 +27,7 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 
 [Research Findings - Presentation PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/Resources%20for%20Schools%20Usability%20Test%20Findings%20%26%20Recommendations%20.pdf.zip)  
 
-Research Findings - Summary
+[Research Findings - Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/research%20findings%20summary.md)
 
 ### Design
 
@@ -44,5 +44,5 @@ Research Findings - Summary
 * Page was launched with updates in March 2024. Additional UI changes may be made based upon feedback given to the Resources for Schools team through the Feedback button
 
 ### Change log
-
-* Liza McRuer, 27 March 2024 - Created doc and added links
+* Liza McRuer, 29 March 2024 - Added research summaries, uploaded presentations, updated links in readme
+* Liza McRuer, 27 March 2024 - Created doc and added linkw
