@@ -4,16 +4,13 @@
 Period - 03/27/2024 - 04/09/2024
 ### Sprint goals 
 - **Expedited**
-  - [ ] single direct deposit content - design and front-end
-  - [ ] Front-end - Widgets to Web components upgrade - radio buttons - **The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
+  - [ ] single direct deposit content - design and front-end - complete
+  - [ ] Front-end - Widgets to Web components upgrade - radio buttons and checkboxes - **The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
  
  - **2023 Prioritized Work**
-   - eVSS to Lighthouse Migration - Engineering
-      - BRD (seperation locations endpoint)
-        -  Canary launch, followed by staggered release
    - 526ez sync with paper version 
        - **Toxic Exposure**
-           - [ ] Engineering - Continue build on TE pages -   
+           - [ ] Engineering - Continue build on TE pages - Create end to end tests   
            - [ ] Tech Discovery - Investigate how release Toxic Exposure with the new pdf version with sticky feature flag
            - [ ] Add Toxic Exposure fields to Form526 vets JSON schema - Spike
            - [ ] Start work on data transformation for the new Toxic Exposure fields
@@ -22,15 +19,13 @@ Period - 03/27/2024 - 04/09/2024
 - **2024 Prioritized Work**
    - Improvement in Submission and Post Submission Experience
       - Desk Research
-        - Existing research and design on va.gov
+        - Existing research and design on va.gov - part 1
         - Current state of submission and post submission experience
         - Present findings from the desk research
           
-- **Other**
-   - [ ] Complete work on Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
+- **Stretch Goal**
+   - [ ] Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
 
-              
-- **Stretch Goals**
 
 
 ## Sprint 27
