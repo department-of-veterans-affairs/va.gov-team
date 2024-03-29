@@ -55,8 +55,8 @@ We will conduct remote usability and interview sessions on Zoom. The interviews 
 1. All participants mentioned having notes, doing mental checks, or checking inventories to track when they need to reorder supplies.
 2. **How to apply (landing) page:** Most participants (6 out of 9) clicked on the "Order hearing aid batteries and accessories online" link quickly without reading other information on the page. 
 3. **Instruction page with sign-in button:** Most participants (7 out of 9) skipped instructions and wanted to sign in right away.
-4. **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in. 
-5.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest). 
+4. **Step 1 Verify personal information and address:** Even though no one was confused about the meaning of permanent address and temporary address, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit their permanent address.
+5.  All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience, with 1 being the hardest and 5 being the easiest.
 
 
 ## Details of Findings 
@@ -89,7 +89,7 @@ The screenshot below highlighted one content issue a participant pointed out.
 <img width="722" alt="Screenshot 2024-03-20 at 4 13 55 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/c82dd4e3-ac9f-4df5-ba3c-24b7e7c6809d">
 
 
-### Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion in the instructions for "Edit permanent address" when they expected permanent address to be accurate and filled in.
+### Finding 4: On step 1 - verify personal information and address page, even though no one was confused about the meanings of permanent address and temporary address, some participants (5 out of 9) showed confusion when they realized that they needed to fill in or edit their permanent address.
 
 On the **verify personal information page**, all participants thought it was straightforward to click continue after verifying the information was correct. However, there was some valuable feedback from 2 participants that could improve the experience. 
 
@@ -112,7 +112,7 @@ Two participants (one moved a couple of times, and another one has a vacation ho
 This might be a usability issue for staging accounts only. When participants add an address to the temporary address box and select it to continue, the form won't allow them to continue unless the permanent address is completed and filled out. 
 
 
-### Finding 5: All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience (5 being the easiest).
+### Finding 5: All participants are able to finish the order of a hearing aid task, and most participants (7 out of 9) gave a score of 4 and 5 for overall use experience, with 1 being the hardest and 5 being the easiest. 
 
 Overall, most participants (7 out of 9) found the reordering experience to be easy. The other two didn't give a score. When asked how they (3 participants gave a score of 4) would improve the tool to get to a score of 5, participants provided some valuable feedback: 
 
@@ -147,8 +147,7 @@ When asked what they would like to change about this page, two participants prov
 > _Quote: If you offer the earpiece, you'd need to have the size of the small, medium, and large, whatever the case may be._
 
 
-### Finding 7: On step 2 - review page, all participants were able to review by clicking on the expand component. When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it.
-
+### Finding 7: On step 2 - review page, all participants were able to review by clicking on the accordion components for Veteran information and Select your supplies.  When instructed to leave the form and come back later, 2 participants missed the "finish this later" link and weren't sure how to save it.
 
 ### Finding 8: On step 3 - confirmation page, all participants were satisfied with the information on the confirmation page, and 3 mentioned they liked the print option.
 
@@ -159,10 +158,13 @@ When asked what they would like to change about this page, two participants prov
     * _Is it necessary for Veterans to verify their personal information when they are already logged in (step 1)?_
     * _Is it necessary for them to fill in their addresses when that information is already stored on the VA Profile?_
     * _Why ask them to edit the permanent address when it only applies to the order they're placing?_
-    * _Does DLC have data on what Veterans need and when it's time for them to submit the order?_
+    * _Does DLC have data on  when it's time for Veterans to submit the order and retake a sleep or hearing test?_
+    * _Why do Veterans need to select a type of battery once they only have one hearing aid?_
+    * _Is auto-reorder available?_
+
   Let's start asking those questions to make the overall experience more intuitive and easier.
       
-* Explore the idea of adding the ability to change or request change for size, quantity, and brand of supplies.
+* Work with DLC and providers to understand the feasibilities of  adding the ability to change or request change for size, quantity, and brand  of supplies.
     * _For nuance questions and requests, participants mentioned they prefer to contact their providers or clinics directly, which could delay the process in the case of not reaching the right person or back-and-forth communications. Adding a change supply request feature might ease the actions Veterans need to take._
 
 
