@@ -57,7 +57,7 @@ General info, notes and miscellaneous
       - 7959c (testing will be skipped for this one)
       - FMP2
       - 7959a (testing may potentially be combined with FMP2, depending on research findings)
-    - Testing - get testing done in staging and then iterate
+    - Future testing - get all testing done in staging and then iterate
 
 ### Miscellaneous
 - New list and loop pattern being worked on by VFF team but not ready to use ('classic' will be used in usability testing as well as staging review and production). 
