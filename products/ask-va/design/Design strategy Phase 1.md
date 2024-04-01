@@ -1,7 +1,7 @@
 # Design strategy: Phase 1
 *Ask VA VA.gov*
 
-Last updated by @tygindraux on November 14, 2023 
+Last updated by @tygindraux on April 1, 2024 
 
 ## Product background
 
@@ -84,8 +84,6 @@ We used the VA.gov design principles to frame our vision. Through following this
 
 ### Our approach
 
-We've defined our notional timeline for Phase 1 in detail [[7](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)].
-
 At a high-level, we will:
 - scope the design work by exploring the current system, past research and potential new features
 - design Ask VA in collaboration with key stakeholders, CAIA, the Platform team and business lines
@@ -94,7 +92,7 @@ At a high-level, we will:
 
 By the end of Phase 1, submitters should be able to reach all their [desired outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy:%20Phase%201.md#desired-outcomes).
 
-We recognize the work will be iterative along the way. We'll consider design insights from Phase 1 and our overall product direction to inform Phase 2.
+This work will be iterative. We'll consider insights from Phase 1 and our overall product direction to inform Phase 2.
 
 #### References
 
@@ -104,4 +102,3 @@ We recognize the work will be iterative along the way. We'll consider design ins
 <br>[4] [USWDS 3.0](https://designsystem.digital.gov/whats-new/updates/2022/04/28/introducing-uswds-3-0/)
 <br>[5] [VA.gov design principles](https://design.va.gov/about/principles)
 <br>[6] [One thing per page](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page)
-<br>[7] [Notional timeline](https://docs.google.com/document/d/1HasQogz7tYVx_HSzt1n-RBorCQMK2N2ZNJIa7D80PbA/)
