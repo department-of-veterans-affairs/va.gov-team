@@ -140,16 +140,14 @@ We will work with Perigean to recruit participants.
 
 | Day      | Date        | Times in EST |
 | ---------| ----------- |  ------- |
-| Thursday | February 29 | 11:00 AM ~  3:00 PM  |
-| Friday | March 1 | 11:00 AM ~  3:00 PM  |
-| Monday | March 4 | 11:00 AM ~  3:00 PM  |
-| Tuesday | March 5 | 11:00 AM ~  3:00 PM  |
-| Wednesday | March 6 | 11:00 AM ~  3:00 PM  |
-| Thursday | March 7 | 11:00 AM ~  3:00 PM  |
-| Friday | March 8 | 11:00 AM ~  3:00 PM  |
-| Monday | March 11 | 11:00 AM ~  3:00 PM  |
-| Tuesday| March 12 | 11:00 AM ~  3:00 PM  |
-| Wednesday | March 13 | 11:00 AM ~  3:00 PM  |
+| Monday | April 22, 2024 | 10:00 AM ~ 4:00 PM  |
+| Tuesday | April 23, 2024 | 10:00 AM ~ 4:00 PM  |
+| Wednesday | April 24, 2024 | 10:00 AM ~ 4:00 PM |
+| Thursday | April 25, 2024 | 10:00 AM ~ 4:00 PM |
+| Friday | April 26, 2024 | 10:00 AM ~ 4:00 PM  |
+| Monday | April 29, 2024 | 10:00 AM ~ 4:00 PM  |
+| Tuesday | April 30, 2024 | 10:00 AM ~ 4:00 PM |
+
 	
 ## Team Roles	
 	
@@ -158,5 +156,5 @@ We will work with Perigean to recruit participants.
 - Participant recruiting & screening: Perigean	
 - Project point of contact: Jenny Wang (yizhen.wang@va.gov), Kristen McConnell (kristen.mcconnell@va.gov)	
 - Note-takers: Perigean
-- Observers: Sign up sheet link	
+- Observers: Sign-up sheet link	
 
