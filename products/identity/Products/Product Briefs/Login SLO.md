@@ -4,7 +4,7 @@
 Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov with the ultimate goal of continuously improving the login process to VA.gov. 
 
 We have two audiences for this information:
-* Veterans logging into va.gov
+* Veterans logging into va.gov.
 * Other va.gov product teams.
 
 ## Problem Statement: 
