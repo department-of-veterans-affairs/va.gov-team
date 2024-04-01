@@ -5,7 +5,7 @@
 ## Overview: 
 Publish a set of monthly metrics surrounding our support of other teams in accordance with O4KR2: _Establish and publish monthly metrics around response times for VA.gov product teams._  
 
-While many of the metrics will be more of an informational nature, there is one this is incredibly important: our Customer Satisfaction score. This will be gathered using a survey to be deployed in #vsf-identity slack channel, our github page, at least.  This survey will be the key part of fulfilling O4KR3 _Establish and maintain a support satisfaction rating of 70% or greater for VA.gov product team support_.
+While many of the metrics will be more of an informational nature, there is one this is incredibly important: our Customer Satisfaction score. This will be gathered using a survey to be deployed in #vsf-identity slack channel, our github page, at least.  This survey will be the key part of fulfilling O4KR3: _Establish and maintain a support satisfaction rating of 70% or greater for VA.gov product team support_.
 
 
 ## Problem Statement: 
