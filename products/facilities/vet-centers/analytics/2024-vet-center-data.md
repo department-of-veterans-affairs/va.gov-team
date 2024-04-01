@@ -47,7 +47,8 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 
 ### Other interactions
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/feca71b9-c121-4b2e-bf0e-ab3905c47ebe)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/8f0e408b-d7c7-49f9-a8a5-22b6531e87fa)
+
 
 
 ### User surveys
