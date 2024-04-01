@@ -10,7 +10,7 @@
     - [Product Documentation](#product-documentation)
     - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
     - [Product Releases](#product-releases)
-    - [Metrics](#metrics)
+    - [Metrics & Veteran Feedback](#metrics-&-veteran-feedback)
     - [Production Designs](#production-designs)
     - [Content](#content)
     - [Research](#research)    
