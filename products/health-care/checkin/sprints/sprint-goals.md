@@ -40,7 +40,7 @@ ________________________________________________________________________________
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-        - Is there anything left to do before we test with VeText in April?
+        - ❗ 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - TBD
     - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
