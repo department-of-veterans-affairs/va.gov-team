@@ -1,6 +1,9 @@
 # SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
+- 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
+
+
 <details>
 <summary>FUTURE SPRINT - 4/3/2024 - 4/16/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
@@ -41,17 +44,17 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - ❗ TBD
+    - **Sub Goal: Discovery - Veteran Direct Community Care Scheduling**
+        - ❗ 🟥 [[SPIKE] Identify top 5 questions to ask stakeholders on Wednesday's meeting ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79689)
+        - ❗ 🟥 [[SPIKE] [ENG] Review integration options and identify questions to inform decision ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79687)
+        - ❗ 🟥 [[Design] Create hi-fi userflow with DS components of "scheduling" portion of userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79688)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗ 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - TBD
-    - **Sub Goal: Discovery -Stand-alone Travel for VistA Sites**
-        - TBD
+        - 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - 🟥 [[Content] Create Final Content for eCheck-in w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
+        - 🟥 [[Design] Create Final Wireframes for eCheck-in w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78320)        
 - **GOAL: Increase PCI Usability**    
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
@@ -60,7 +63,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] Pre-Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
         - 🟩 [[FE][CHIP] Pre-Check-In enabled for CVT, VVC, and phone appointments - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72862)
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72624)
-        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
+            - Need to wait until implementation is complete to get screenshots
         - 🟪🟩🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
             - Need to verify with Kay when she wants this to go out
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
@@ -75,10 +78,11 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
-        - ❗ 🟩 [Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79362)
+        - 🟪 [We need to find out who to reach out to (Contact Center?); can we get on their calendar for 2-3 weeks out](https://dsva.slack.com/archives/CNCEXNXK4/p1711563524539819?thread_ts=1711545874.924439&cid=CNCEXNXK4)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - TBD          
 - **GOAL: Address Tech Debt**
+    - 🟥 [[UX] Create new figma file for content and document variations of text messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79459)
     - 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
     - 🟩 [Remove Un-used Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79391)
     - **Sub Goal: DevOps Improvements**
