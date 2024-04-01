@@ -13,19 +13,19 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 | Metric| December 2023 | January 2024 | February 2024 | March 2024
 |---|:---:|:---:|:---:|:---:|
-| Number of editors | 539 | 539 | 554 | |
-| % which have logged in in the last 30 days | 17 | 26 |18 |
-| % which have never logged in | 8 | 8| 10 |
+| Number of editors | 539 | 539 | 554 | 555|
+| % which have logged in in the last 30 days | 17 | 26 |18 | 20
+| % which have never logged in | 8 | 8| 10 | 9
 
 
 ## Vet Center facility stats
 | Metric | January 2024 | February 2024 | March 2024
 | --- |:---:|:---:|:---:|
-| Number of Vet Centers | 300 | 200 | 
-| Number of Outstations |20 | 20| 
-| Number of Mobile Vet Centers| 83|83 |
-| Number of CAPs | 519 |525 |
-| Number of Vet Center services| 3,741 |3,742 |
+| Number of Vet Centers | 300 | 300 | 300
+| Number of Outstations |20 | 20| 21
+| Number of Mobile Vet Centers| 83|83 |83
+| Number of CAPs | 519 |525 |528
+| Number of Vet Center services| 3,741 |3,742 |3,742
 
 ## Summary data
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/43172968-b354-49f6-9aff-ed7e8795481d)
