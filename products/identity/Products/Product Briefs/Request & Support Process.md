@@ -6,7 +6,7 @@ Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support p
 
 * Create an intake process for feature requests, updates, bug fixes, data requests, etc.
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
-* Ability to view all requests holistically
+* Ability to view all requests holistically.
 
 Create solutions to manage & fulfill requests from other va.gov Product Teams, possibly including:
 * Intake form
