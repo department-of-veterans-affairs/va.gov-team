@@ -1,4 +1,4 @@
-# Ask VA: Strategy
+# Strategy overview
 
 This folder contains documentation related our design strategy.
 
