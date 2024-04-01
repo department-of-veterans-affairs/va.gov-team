@@ -85,10 +85,11 @@
 - [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
 - [Incident Response Plan (Production Support)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
-#### Metrics
+#### Metrics & Veteran Feedback
 - [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/analytics#readme)
 - [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 - [Google Analytics Filters](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/ga-filters.md)
+- [Veteran Feedback from VSignals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
   
 #### Production Designs
 - [Production | Pre-check-in and check-in](https://www.figma.com/file/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-Check-in?type=design&node-id=2%3A1305&mode=design&t=0lRYfw3kcVScWClF-1)
