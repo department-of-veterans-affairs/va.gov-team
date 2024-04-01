@@ -31,10 +31,12 @@ For this first iteration, the focus will be on:
     * Percentage of tickets by Team
   * Satisfaction Metrics
     * Monthly survey score
-* What the process will look like for gathering and publishing those metrics.
+* What the process will look like for gathering and publishing those metrics
+
 
 ## Out of Scope: (for this iteration)
 * SLO Metrics
+* Service Level Agreements
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
@@ -42,7 +44,8 @@ For this first iteration, the focus will be on:
 | |   |   |
 
 ## Assumptions:
-* 
+* The number of tickets will increase over time.
+* This process will change and grow as we
 
 ## Solution Approach: 
 * Create a process to gather metrics.
