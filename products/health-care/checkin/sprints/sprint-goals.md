@@ -92,6 +92,8 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗ 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
+        - ❗ 🟩 [[FE] Include a parameter for 'timeToComplete' in /travel-claims to indicate time taken for Veteran from auth to submitting travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79739)
+        - ❗ 🟦 [[BE] Add 'timeToComplete' as a parameter to TravelClaimsController, and log it along with other incoming params ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79741)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
     - **Sub Goal: Discovery - Check Travel Eligibility**
