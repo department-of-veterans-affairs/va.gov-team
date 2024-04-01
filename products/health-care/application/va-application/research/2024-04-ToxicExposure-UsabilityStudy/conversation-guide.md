@@ -62,7 +62,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 Okay now I'd like you to pull up VA.gov on your chosen browser and sign in. Once you're signed in, please share your screen with me. Let me know if you need any help doing that.
 
 [Once they're logged in and sharing their screen:] Great, I can see your screen. Now I'm going to put a link in the Zoom chat and would like you to open it. Let me know if you need any help finding the chat.
-*Wait until they have the 10-10EZ intro page pulled up*
+[Wait until they have the 10-10EZ intro page pulled up]
 
 
 [If user is not going to log in:]
