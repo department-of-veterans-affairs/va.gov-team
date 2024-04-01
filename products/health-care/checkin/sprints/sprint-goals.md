@@ -1,8 +1,48 @@
 # SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
-- 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
+<details>
+<summary>FUTURE SPRINT - 4/17/2024 - 4/30/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
 
+## 4/17/2024 - 4/30/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+- **GOAL: Support Production**
+    - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
+- **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Discovery - Multiple Selection of Appts**    
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+    - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Improve Metrics**
+    - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
+    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
+- **GOAL: Address Tech Debt**    
+    - **Sub Goal: DevOps Improvements**
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
+- **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Discovery - Multiple Selection of Appts**    
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+    - **Sub Goal: Analyze current metrics to see what they tell us** 
+- **GOAL: Improve Metrics**
+    - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
+    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
+- **GOAL: Address Tech Debt**    
+    - **Sub Goal: DevOps Improvements**
 
 <details>
 <summary>FUTURE SPRINT - 4/3/2024 - 4/16/2024 </summary>
