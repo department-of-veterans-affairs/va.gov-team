@@ -29,26 +29,71 @@ Code used to join a video appointment at an [ATLAS](https://telehealth.va.gov/at
 
 The address of an [ATLAS](https://telehealth.va.gov/atlas) location.
 
-### Instructions: How to Join
-
-Instructions on how to join a telehealth appointment.
-
 ### Instructions: Prepare for Telehealth Visit
 
-VAOS displays these instructions in `home video` and `atlas` appointments via the `patientInstruction` field. This field comes from Virtual care Manager (VCM). 
+#### Display requirements 
+How this field shows for VA appointments across scheduling touchpoints.
 
-Staff can can configure *either* of these types to display *either* of the supported messages.
+<table>
+<tr>
+  <th></th>
+  <th>VAOS</th>
+  <th>Check-in</th>
+  <th>Mobile app</th>
+</tr>
+<tr>
+  <th>Data source</th>
+  <td>
+    Virtual Care Manager (VCM)
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Data fields</th>
+  <td>
+    VAOS displays these instructions in <code>home video</code> and <code>atlas</code> appointments via the <code>patientInstruction</code> field.
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Logic</th>
+  <td>  
+  <p>Staff can can configure *either* of these types to display *either* of the supported messages.</p>
 
-Right now, VAOS only accepts/support 2 of the 5 types of instructions due to limitations in the way data is passed to us in that field: 
-  - `Video Visit Preparation`
-  - `Medication Review`
+  <p>VAOS only accepts/support 2 of the 5 types of instructions due to limitations in the way data is passed to us in that field:
+  <ul>
+  <li><code>Video Visit Preparation</code></li>
+  <li><code>Medication Review</code></li>
+  </ul>
+  </p>
+  <p>
+  Video visit instructions from Virtual Care Manager (VCM) instructions are suppressed if the instructions are any of the following:
+  <ul>
+    <li><code>Message sent in MyHealtheVet</code></li>
+    <li><code>Resources Mailed to Patient</code></li>
+    <li><code>Signup for My HealtheVet  Message</code></li> 
+  </ul>
+  </p>
+  </td>
+  <td> Check-in here </td>
+  <td> Mobile app here </td>
+</tr>
+<tr>
+  <th>Notes</th>
+  <td>
+   <p>VAOS can't format the text that comes back from VCM to properly display, so we hardcode a version of it in the app. See the Video Visit Preparation and Medication review sections that follow.</p>  </td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
 
-Video visit instructions from Virtual Care Manager (VCM) instructions are suppressed if the instructions are any of the following:
-  - `Message sent in MyHealtheVet`
-  - `Resources Mailed to Patient`
-  - `Signup for My HealtheVet  Message` 
 
-VAOS can't format the text that comes back from VCM to properly display, so we hardcode a version of it in the app. 
+
+
+
+
 
 #### Video Visit Preparation
 
@@ -210,34 +255,59 @@ The name of the facility staff who will be seeing/treating the Veteran.
 The type of assessment or treatment the Veteran will receive.
 
 #### Display requirements 
-How this field shows for VA appointments across scheduling touchpoints
+How this field shows for VA appointments across scheduling touchpoints.
+
 <table>
 <tr>
-  <th>VAOS</td>
+  <th></th>
+  <th>VAOS</th>
   <th>Check-in</th>
   <th>Mobile app</th>
 </tr>
 <tr>
+  <th>Data source</th>
   <td>
-  <p>Notes: To display type of care VSP is using MFS to get clinical-services which includes stop codes. As of now that list of stop codes does not include all of the codes being used for some of the VistA appointments. These need to be manually mapped to care types to display.</p>
-
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Data fields</th>
+  <td>
+    <code>serviceType</code>, <code>serviceCategory</code>
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Logic</th>
+  <td>
+  
   VAOS displays type of care for VA appointments as follows: 
 
   <ul>
     <li>Type of Care for VA appointments must be set to the <code>serviceType</code> <strong>except</strong> when:
       <ul>
       <li><code>serviceType</code> is <code>NULL</code>, Front End will set type of care to <code>VA appointment</code>.</li>
-      <li>OR<code>serviceCategory</code> is other than <code>regular</code>, Front End will set type of care to <code>VA appointment</code>.</li>
+      <li>OR <code>serviceCategory</code> is other than <code>regular</code>, Front End will set type of care to <code>VA appointment</code>.</li>
       </ul>
     </li>
     <li>Backend sets the <code>serviceType</code> when the stop codes from the remote procedure call match VATS service type (VAT or CCM stop codes).</li>
-    <li>Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.</li>
     <li>A VistA appointment with an <code>APPOINTMENT TYPE = Compensation and Pension</code> must display in VAOS with <code>type of care = Compensation and pension exam</code>.</li> 
     </ul>    
-    
   </td>
   <td> Check-in here </td>
   <td> Mobile app here </td>
+</tr>
+<tr>
+  <th>Notes</th>
+  <td>
+    <p>To display type of care VSP is using MFS to get clinical-services which includes stop codes. As of now that list of stop codes does not include all of the codes being used for some of the VistA appointments. These need to be manually mapped to care types to display.</p>
+    <p>Type of Care may not be available for phone appointments and video appointments from Virtual Care Manager (VCM) and/or Telehealth Management Platform.</p>
+
+  </td>
+  <td></td>
+  <td></td>
 </tr>
 </table>
 
