@@ -1,18 +1,24 @@
-# Name of Product
+# Metrics
 
-## Metrics
+## Monthly Metrics
 
-## Overview: (Provide a high level description of the product/set of features)
+## Overview: 
+Publish a set of monthly metrics surrounding our support of other teams
 
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
+## Problem Statement: 
+As the Identity Team becomes more of a platform team, we want to have more visibility into how we actually support other teams, as well as transparency as to how those other teams view our support.  Thus, publishing Monthly Metrics.
 
 
 ## Relevant Documents:
+- [Using the Support Process Satisfaction Survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/support-survey.md)
+- [Identity Project Engagement Survey](https://docs.google.com/document/d/1Z-9dc39at7YhnbvhhIUwdpTQhqnShQLwOUyR8GUe_zg/edit#heading=h.pg22voz8eune)
+- [Identity GitHub Support Ticket Metrics](https://docs.google.com/document/d/1yDp3MgH9CTiU5G7vpH37PlBBOwkS-fug0DqowQL8xbY/edit#heading=h.e5rwxdvzce65)
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* 
+* Which metrics are we publishing.
+* What the process will look like for gathering and publishing those metrics.
 
 ## Out of Scope: (for this iteration)
 *
