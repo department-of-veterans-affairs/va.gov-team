@@ -18,6 +18,14 @@ As the Identity Team becomes more of a platform team, we want to have more visib
 ## What's In Scope: 
 For this first iteration, the focus will be on:
 * Which metrics are we publishing.
+  * Counting Metrics
+    * Total Open Tickets
+    * Total Closed Tickets
+    * Tickets by Status
+    * Tickets by Team
+    * Ticket Requests by Product
+  * Percentage Metrics
+  * Satisfaction Metrics
 * What the process will look like for gathering and publishing those metrics.
 
 ## Out of Scope: (for this iteration)
