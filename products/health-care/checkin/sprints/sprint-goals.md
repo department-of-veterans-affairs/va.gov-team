@@ -12,7 +12,7 @@ ________________________________________________________________________________
     - **Sub Goal: 2024 MAR: Update Stop Codes**
     - **Sub Goal: Move to New AWS Instance**
 - **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Support Community Care Scheduling for Veterans**
+    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
     - **Sub Goal: Discovery - Multiple Selection of Appts**
@@ -41,7 +41,7 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Support Community Care Scheduling for Veteran**
+    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - ❗ TBD
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
