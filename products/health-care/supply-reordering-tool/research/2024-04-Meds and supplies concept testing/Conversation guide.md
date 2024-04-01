@@ -68,33 +68,35 @@ Thank you for sharing all that with me!
 
 **Let’s start screen sharing so you can show me how you’d do that. Are you familiar with how to share your screen with Zoom?** 
 
-Screen sharing instructions:
+**Screen sharing instructions**
 
-In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
+First, I'd like you to share your screen so I can see how you navigate the site. Do you know how to share your screen? 
 
-If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again. 
+_Instructions for folks NOT using screenreaders:_
+- In the Zoom application on your computer/phone/tablet, there is a row of buttons at the bottom. In the center is a (green) button that says Share (phone), Share Screen (computer), or Broadcast screen (iPad). 
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+  - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
-(If you have more than one screen, the row of buttons may be on the screen that's being shared) 
+- iPad: Broadcast screen
 
-Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser. 
+Thanks for your patience in figuring that out. 
 
-Great, now I can see your screen! 
+- *Backup plan if they cannot figure out how to share screen:*
+  - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen? 
 
-Thank you for your patience in figuring this out. 
-
-_Send them or say: https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/ 
-
-This is a test version of VA.gov. It looks like the real website and we have turned some special features on for our session. Nothing we do here will impact your information and you will see it has test data (like a made-up name) in certain parts of the site. 
+A reminder: This is a prototype. It looks like the real website and we have turned some special features on for our session. Nothing we do here will impact your information and you will see it has test data (like a made-up name) in certain parts of the site. 
 
 
-## Task: Order accessories for CPAP - 20 minutes 
+## Interview - 20 minutes 
 
-You need to order accessories for CPAP. Can you show me how you'd do that from here? 
+**_Task: Order accessories for CPAP._** You need to order accessories for CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+
 
 
  
 
-## Closing - 10 minutes 
+## Thank you and Closing - 5 minutes 
 
 Thank you for doing that task, we gained some insight into how Veterans may go through this form. As we wind down, I hope you don't mind if we ask a couple more questions about supply ordering. 
 
@@ -105,8 +107,6 @@ If a supply isn't available and you are told to talk to your provider, then how 
 In your experience/opinion, are we missing any devices? 
 
 Is there anything else that we haven't talked about that you’d like to share? Do you have any questions for me before we wrap up? 
-
-## Thank You
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
 
