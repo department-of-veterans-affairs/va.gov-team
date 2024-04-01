@@ -41,10 +41,10 @@ Veterans Status information immediately available in VA.gov for authenticated us
 
 
 ## Discovery Research References
-[How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
-[H.R.91 - 114th Congress (2015-2016): Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91)
-[List of current approved forms of Veteran ID card](https://www.va.gov/records/get-veteran-id-cards/)
-[Ad Hoc Mobile MVP Research](https://www.figma.com/file/MxqpGSmpZrG5HlxB9wNoRP/%234270---Veteran-Status-Card?type=whiteboard&node-id=0-1&t=TlC4pL2Syj3rF8sv-0)
+* [How To Apply For A Veteran ID Card](https://www.va.gov/records/get-veteran-id-cards/vic/)
+* [H.R.91 - 114th Congress (2015-2016): Veterans Identification Card Act 2015](https://www.congress.gov/bill/114th-congress/house-bill/91)
+* [List of current approved forms of Veteran ID card](https://www.va.gov/records/get-veteran-id-cards/)
+* [Ad Hoc Mobile MVP Research](https://www.figma.com/file/MxqpGSmpZrG5HlxB9wNoRP/%234270---Veteran-Status-Card?type=whiteboard&node-id=0-1&t=TlC4pL2Syj3rF8sv-0)
 
 ## Solution Approach
 MVP
