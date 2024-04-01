@@ -87,8 +87,9 @@ _Send them or say: https://staging.va.gov/health-care/order-hearing-aid-batterie
 This is a test version of VA.gov. It looks like the real website and we have turned some special features on for our session. Nothing we do here will impact your information and you will see it has test data (like a made-up name) in certain parts of the site. 
 
 
-## Task 1 : Can you walk me through how you would order a hearing aid supply? - 20 minutes 
+## Task: Order accessories for CPAP - 20 minutes 
 
+You need to order accessories for CPAP. Can you show me how you'd do that from here? 
 
 
  
