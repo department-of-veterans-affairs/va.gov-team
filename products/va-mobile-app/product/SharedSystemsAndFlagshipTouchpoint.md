@@ -4,7 +4,8 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 04/2/24
 * **Q2 Planning**
    * Look at Next columns for teams
-
+* **Updating Epic cards (Kelly)**
+   * Epic Template review
 
 03/19/24
 * **DS Link Component in Flagship app (Kelly)**
