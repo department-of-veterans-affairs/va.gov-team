@@ -12,9 +12,13 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 3/19/2024
+- Added a link to the travel reimbursement claim review page to display the content for the VA beneficiary travel agreement on its own page
+    - [Ticket 78733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
+
 ### 3/25/2024
 - Fixed a bug where the "Back to last screen" link no longer appeared on the contact verification page
-- [Ticket 78803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78803)
+    - [Ticket 78803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78803)
 
 ### 3/20/2024 
 - Veterans are now asked, at the beginning of the check-in workflow, if they have arrived at the facility; if the answer is no, the Veteran is encouraged to see an MSA upon arrival to ensure they have not already been called back 
