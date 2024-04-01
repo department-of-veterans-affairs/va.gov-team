@@ -637,10 +637,14 @@ Facilities team can handle redirects for Facility URLs / content.
 * Sitewide Content team vets the request – IA will approve the requested URLs (Process: [Platform IA Redirects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/redirects.md))
 * Sitewide Content team assigns the issue to Public Websites via va.gov-team issue
 * Public Websites moves the issue to va.gov-cms repo, assigns in sprint, completes work, merges
-* If server-side redirect: Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job only runs automatically on Wed at ~10am ET. (Job is owned by the Platform team. )
-  * If you need offcycle deployment prior to Wed deploy: open a #vfs-platform-support request, Release Tools > Off-Cycle deployment. Example: https://dsva.slack.com/archives/CBU0KDSB1/p1664314493443639
+* If server-side redirect: Revproxy build job must deploy the code: http://jenkins.vfs.va.gov/job/deploys/job/revproxy-vagov-prod/ -- this job runs automatically at ~10a ET Mon-Thurs. (Job is owned by the Platform team. ) 
 * If client-side redirect: vets-website deploys the code. 
 * PW verifies in prod, before closing the ticket
+
+### If you need an **Out of Band deployment** (off cycle deploy):
+  * open a #vfs-platform-support request, "Off-out-band deployment." Example: https://dsva.slack.com/archives/CBU0KDSB1/p1664314493443639
+  * Open an [OOB Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=frontend%2C+operations%2C+platform-tech-team-support&projects=&template=OOB-Deploy-Request.md&title=OOB+Deploy+Request) request, and link to the Platform support thread.
+  * Plan to write a [post-mortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/1c1242cafc9f1d614abd933db5c92d13e1a2a19a/Postmortems/README.md) to describe why OOB was required.
 
 
 **Example:**
