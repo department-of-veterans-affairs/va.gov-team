@@ -66,41 +66,25 @@ Figma Accessibility Resources: https://www.figma.com/community/collections/plugi
 
 ## Choosing Accessible Data Visualization Techniques for Federal Website Dashboards
 
-Effective data visualization is crucial for presenting uptime, downtime, and availability metrics on federal website dashboards in a way that is clear and understandable for all users. This table:
+Effective data visualization is important for presenting uptime, downtime, and availability metrics on federal website dashboards in a way that is clear and understandable for all users. 
 
+## Visualization Technique
 
+| Visualization Technique | Purpose | Use Case | Best Practices for Accessibility |
+| --- | ---| ---| ---|
+| Bar Charts | Compare data between categories | Uptime percentages for different federal agencies | Clear bar labels (e.g., Agency Name);  Contrasting colors for each bar; Descriptive axis labels (e.g., Uptime Percentage) |
+| Line Charts | Show trends and patterns over time | Weekly or monthly website availability trends | Smooth lines for continuous data; Data points for clarity; Descriptive axis labels (e.g., Time, Availability Percentage) |
+| Pie Charts (Use with Caution) | Indicate proportions or percentages | Distribution of website downtime by error type (if limited categories)|  Limit slices to a maximum of 5-6 for clarity; Include data point labels or tooltips; Consider alternative visualizations for complex data sets |
+ | Tables | Present detailed data | Response times for critical agency services | Clear headers for rows and columns; Descriptive row and column labels; Accessible formatting (avoid merged cells) |
+| Scatterplots (Consider for Advanced Users) | Analyze relationships between variables | Correlation between website uptime and user traffic (for advanced users) | Data point labels for identification; Clear and labeled axes; Tooltips for detailed information; Note: May not be suitable for all users due to complexity |
 
-
-Visualization Technique
-Purpose
-Use Case for Website Dashboards
-Best Practices for Accessibility
-Bar Charts
-Compare data between categories
-Uptime percentages for different federal agencies
-- Clear bar labels (e.g., Agency Name) <br> - Contrasting colors for each bar <br> - Descriptive axis labels (e.g., Uptime Percentage)
-Line Charts
-Show trends and patterns over time
-Weekly or monthly website availability trends
-- Smooth lines for continuous data <br> - Data points for clarity <br> - Descriptive axis labels (e.g., Time, Availability Percentage)
-Pie Charts (Use with Caution)
-Indicate proportions or percentages
-Distribution of website downtime by error type (if limited categories)
-- Limit slices to a maximum of 5-6 for clarity <br> - Include data point labels or tooltips <br> - Consider alternative visualizations for complex data sets
-Tables
-Present detailed data
-Response times for critical agency services
-- Clear headers for rows and columns <br> - Descriptive row and column labels <br> - Accessible formatting (avoid merged cells)
-Scatterplots (Consider for Advanced Users)
-Analyze relationships between variables
-Correlation between website uptime and user traffic (for advanced users)
-- Data point labels for identification <br> - Clear and labeled axes <br> - Tooltips for detailed information <br> - Note: May not be suitable for all users due to complexity
-
-Table outlines accessible data visualization techniques and best practices
+Table 1. Outlines accessible data visualization techniques, use cases, and best practices for accessibility.
 
 ## Additional Considerations for Accessibility:
 
 Tooltips and Data Points: Provide informative tooltips or data points associated with charts and graphs. These should be accessible to screen readers and offer clear descriptions of the data points upon hover or focus. Consider using descriptive text that complements the visual representation, and avoid relying solely on color to convey information.
+
 Color Contrast: Use colors with sufficient contrast to ensure readability for users with low vision or color blindness. Federal websites should adhere to WCAG guidelines for color contrast ratios (minimum of 4.5:1 for small text and 3:1 for large text). Color contrast checkers can be used to evaluate color combinations and identify potential issues.
+
 Descriptive Text Alternatives: Include meaningful "alt text" descriptions for all non-text content (charts, graphs, images) to allow screen readers to convey the information to visually impaired users. These descriptions should be concise and informative, accurately reflecting the data presented in the visual format.
 
