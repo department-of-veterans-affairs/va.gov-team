@@ -27,7 +27,7 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
 1. Update github repos
     - [CHIP](https://github.com/department-of-veterans-affairs/chip/)
     - [LoRota](https://github.com/department-of-veterans-affairs/lorota)
-    - [vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api-x)
+    - [vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api)
     - Navigate to `Settings` > `Secrets and variables` > `Actions`
     - Update `AWS_ACCESS_KEY_ID` and `AWS_ACCESS_KEY_SECRET` in `Repository secrets` with the value from `CMS-service-account-1`
 1. Wait 24-48 hours and verify the old key hasn't been used
