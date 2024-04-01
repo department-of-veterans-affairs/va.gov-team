@@ -1,4 +1,4 @@
-# Ask VA: User research overview
+# User research overview
 
 This folder contains our user research documentation.
 
