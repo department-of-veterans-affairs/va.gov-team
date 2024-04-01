@@ -4,7 +4,7 @@
 
 Date: 03/22/2024
 
-Jenny Wang [yizhen.wang@va.gov], Kristen McConnell [kristen.mcconnell@va.gov]
+Jenny Wang [yizhen.wang@va.gov], Kristen McConnell [kristen.mcconnell@va.gov], Jasmine Yohannan [Jasmine.Yohannan@va.gov]
 
 [Research readout](link here)
 
@@ -214,45 +214,30 @@ We talked to **9 participants.**
 Audience segment:
 * Veterans: 9
 
-
 Gender:
-* Male: x 
-* Female: x
+* Male: 8 
+* Female: 1
   
-
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-
+* Desktop: 5
+* Tablet: 2 
+* Smart phone: 2 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
+* 55-64: 4
+* 65+: 5
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* High school degree or equivalent: 1
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 1
+* Master's degree: 2
+* Doctorate degree: 1
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
+* White: 5
+* Black: 3
+* Native: 1
 
 ## Underserved groups we haven’t talked to 
 
