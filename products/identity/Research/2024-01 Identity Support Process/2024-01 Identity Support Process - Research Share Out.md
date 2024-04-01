@@ -19,7 +19,7 @@ Jump to:
 - Majority of the team spent 30% or less on unplanned activities which mostly included bug fixes or investigations.
 - Most requests came from Slack channels.
 - The vast majority of requests come to us from VSP-Identity channel, considering 91 requests came from the past 4 months of data and the remaining 72 spanned multiple channels over 12 months.
- -We are still getting involved in VFS-support channel issues even though we are no longer a platform team.  
+- We are still getting involved in VFS-support channel issues even though we are no longer a platform team.  
 - Most bugs were not a direct Identity team issue but time was spent tracking down who should own the issue (or the issue resolved themselves).
 - In 13 cases when an issue was forwarded to us, we forwarded 12 of these cases on to another team (usually IAM). In 10 cases, the issue was resolved by another team.
 - Requests come into our partner channels e.g. idme-va-gov, va-login-partners from random folks looking for help.
