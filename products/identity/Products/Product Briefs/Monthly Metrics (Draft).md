@@ -26,8 +26,9 @@ For this first iteration, the focus will be on:
     * Tickets by Status
     * Tickets by Team
     * Ticket Requests by Product
-  * Percentage Metrics
+  * Calculated Metrics
     * Average Days to Close Tickets
+    * Percentage of tickets by Team
   * Satisfaction Metrics
     * Monthly survey score
 * What the process will look like for gathering and publishing those metrics.
