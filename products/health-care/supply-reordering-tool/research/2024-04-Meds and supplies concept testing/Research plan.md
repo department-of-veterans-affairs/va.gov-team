@@ -43,13 +43,11 @@ Option 1: completely separate categories (breakfast, not breakfast)
 
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
 
-- If Veterans expect medical supplies and medications to be in the same categories on MHV home
+- Veterans may think medical supplies and medications are in the same category because they both need to be prescribed.
+- Veterans may have difficulties finding and ordering medical supplies if they are on the same list as medications.
+- Veterans may expect medical supplies and medications to be in the same category on MHV home but expect to view and order them separately.
+- Veterans may be confused about how to categorize supplies like testing strips and wound care supplies, for the design option that has medical supplies and medications in different sections (MHV home) and different lists. 
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
