@@ -124,7 +124,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
         - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
           - pulled in in the middle of the sprint
-        - ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
+        - ✔️ ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ✔️ ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
         - 🟥 [[UX][Design] Update confirmation page for 1 travel claim success and 1 fail](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78834)
     - **Sub Goal: Discovery - Check Travel Eligibility**
@@ -140,7 +140,7 @@ ________________________________________________________________________________
        - 🟥 [[UX] Add documentation in Git for how/where to pull quarterly metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79314)
            - Pulled in 3/26
        - ✔️ 🟥 [Research] Analyze GA Metrics
-       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
+       - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
            - Rolled over from last sprint
 - **GOAL: Address Tech Debt**
     - Added on 3/29 for BE
