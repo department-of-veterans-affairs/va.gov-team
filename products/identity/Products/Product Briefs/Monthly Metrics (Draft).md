@@ -3,7 +3,9 @@
 ## Monthly Metrics
 
 ## Overview: 
-Publish a set of monthly metrics surrounding our support of other teams
+Publish a set of monthly metrics surrounding our support of other teams in accordance with O4KR2: _Establish and publish monthly metrics around response times for VA.gov product teams._  
+
+While many of the metrics will be more of an informational nature, there is one
 
 
 ## Problem Statement: 
@@ -25,11 +27,13 @@ For this first iteration, the focus will be on:
     * Tickets by Team
     * Ticket Requests by Product
   * Percentage Metrics
+    * Average Days to Close Tickets
   * Satisfaction Metrics
+    * Monthly survey score
 * What the process will look like for gathering and publishing those metrics.
 
 ## Out of Scope: (for this iteration)
-*
+* SLO Metrics
 
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
@@ -40,7 +44,8 @@ For this first iteration, the focus will be on:
 * 
 
 ## Solution Approach: 
-* 
+* Create a process to gather
+* Determine how to publish these metrics.
   
 ## Technical Considerations:
 | Issue         | Notes         | 
