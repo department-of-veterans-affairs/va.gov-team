@@ -1,4 +1,4 @@
-# Recommendation to remove Gender from Ask VA
+# Recommendation to remove gender from Ask VA
 
 Last updated by @beckyphung: March 4, 2024
 
