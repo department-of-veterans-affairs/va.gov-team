@@ -24,9 +24,8 @@ This research fits into these points of a Veteran's Journey:
 The purpose of this study is to: 
 
 - Understand how Veterans categorize medications and medical supplies.
-  	- Are they completely different tools on MHV, OR are they in the same category of tools with different characteristics, OR are they the same? 
-- Understand whether Veterans expect to view medical supplies and medications in the same list or separately and whether Veterans expect to order medical supplies and medications together or separately.
-- Establish which design and I.A. is easier to use, or the advantages and disadvantages of different options.
+- Understand whether Veterans expect to view all medical supplies and medications in the same list or separately and whether Veterans expect to order all medical supplies and medications together or separately.
+- Establish which design and I.A. is easier to use, or the advantages and disadvantages of each design option.
 
 
 ### Outcome
@@ -36,7 +35,10 @@ This research will inform the Cartography team on how to display medical supplie
 ### Research questions
 
 - Which of the options is the most effective? In which is the user better able to order a supply? 
-- 
+  	- Do Veterans expect medical supplies and medications to be completely different tools on MHV on VA.gov, OR do they expect them to be in the same category of tools with different characteristics, OR do they expect them to be the same, OR something else?
+  	- How do Veterans expect to view and order their supplies; together or separate from a list of their medications?
+  	- 
+
 Option 1: completely separate categories (breakfast, not breakfast)
 2: together same category, but different things (all breakfast, but one is hot, one is cold)
 3: all the same (breakfast is breakfast)
