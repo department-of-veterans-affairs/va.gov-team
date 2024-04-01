@@ -21,6 +21,8 @@ Spanning both surveys
     <th scope="col">1/6/24-1/31/24</th>
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
+    <th scope="col">3/6/24-3/28/24</th>
+    
   </tr>
   <tr>
     <th scope="row">Total responses</th>
@@ -30,6 +32,7 @@ Spanning both surveys
     <td>36</td>
     <td>14</td>
     <td>31</td>
+    <td>21</td>
   </tr>
   <tr>
     <th scope="row">A11 Intercept Survey</th>
@@ -39,6 +42,7 @@ Spanning both surveys
     <td>21 responses</td>
     <td>12 responses</td>
     <td>20 responses</td>
+    <td>10 responses</td>
   </tr>
   <tr>
     <th scope="row">VFS Feedback Button Survey</th>
@@ -47,6 +51,7 @@ Spanning both surveys
     <td>11 responses</td>
     <td>15 responses</td>
     <td>2 responses</td>
+    <td>11 responses</td>
     <td>11 responses</td>
   </tr>
   <tr>
