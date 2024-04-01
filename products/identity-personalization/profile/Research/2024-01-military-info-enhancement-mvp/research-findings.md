@@ -6,7 +6,7 @@ Date: 03/08/2024
 
 Pam Drouin, Researcher/Designer | [email](mailto:pamela.drouin@a1msolutions.com)
 
-_If there’s a deck:_ [Research readout](link here)
+ℹ️ [Research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/research-readout.pdf)
 
 **Jump to:**
 
