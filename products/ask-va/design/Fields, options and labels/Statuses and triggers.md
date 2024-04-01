@@ -1,4 +1,4 @@
-# Ask VA tatuses and triggers
+# Ask VA Statuses and triggers
 
 _Ask VA VA.gov Team_
 
