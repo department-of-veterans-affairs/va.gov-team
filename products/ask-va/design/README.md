@@ -1,4 +1,4 @@
-# Ask VA: Design overview
+# Design overview
 
 This folder contains our design and research documentation.
 
