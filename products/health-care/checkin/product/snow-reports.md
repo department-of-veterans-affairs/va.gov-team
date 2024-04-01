@@ -8,6 +8,7 @@ Once a month, the Product Manager sends via email a PDF download of the Check-in
 
 ## Distribution Method
 - VA Email
+- [Outlook Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Modernized%20Check-in%20SNOW%20Incidents%20Dashboard.oft)
 
 ## Recipients
 - VHA IVC Patient Engagement Team <VHAIVCPatientEngagementTeam@va.gov>,
