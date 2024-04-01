@@ -46,7 +46,7 @@ Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟩 |
 Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | 🟩 | integration | | 
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟩 | 🟩 | integration | | 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint on 02/27 | 
-Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟨 | ⬜ | development | CRM Actively working this endpoint |  
+Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟩 | 🟡 | development | CRM has handed off this endpoint on 03/26 |  
 Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟩 | 🟩 | integration | done 03/12 | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint | 
 Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM has handed off this endpoint on 03/01 |
