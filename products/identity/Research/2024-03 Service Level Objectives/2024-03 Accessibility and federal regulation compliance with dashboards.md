@@ -1,5 +1,4 @@
-# Secondary Research Report for VA Website Availability Dashboards
-
+# Maintaining compliance with accessibility and federal regulations in availability (uptime, downtime) dashboards
 
 ## Introduction
 
