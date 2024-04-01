@@ -4,7 +4,7 @@ This folder contains our design and research documentation.
 
 ## Overview
 
-|Workpsace or folder|Description|
+|Workspace or folder|Description|
 |:--|:--|
 |[Figma](https://www.figma.com/files/project/174974739/Ask-VA?fuid=1165369583018460083)|Workspace with our interface designs.|
 |[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)|Workspace with flow diagrams, research analysis, workshops and more.|
