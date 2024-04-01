@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ## 4/3/2024 - 4/16/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
 - **GOAL: Support Production**
-    - **Sub Goal: Send Email when eCheck-in, Pre-Check-in, or Travel is down**
+    - **Sub Goal: Support the ATO**
     - **Sub Goal: 2024 MAR: Update Stop Codes**
     - **Sub Goal: Move to New AWS Instance**
 - **GOAL: Make Travel Claims Easier**
@@ -18,7 +18,6 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-    - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Analyze current metrics to see what they tell us** 
 - **GOAL: Improve Metrics**
@@ -34,9 +33,7 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - **Sub Goal: Support the ATO**
-        - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)
-    - **Sub Goal: Send Email when eCheck-in, Pre-Check-in, or Travel is down**
-        - ❗ 🟩 [SPIKE: How Might We Send an Email when eCheck-in, Pre-Check-in, or Travel is down](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79308) 
+        - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
     - **Sub Goal: 2024 MAR: Update Stop Codes**
         - ❗ 🟪 [Determine if Stop Codes Changes Affect Pre-Check-in or Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79623)
     - **Sub Goal: Move to New AWS Instance**
@@ -61,8 +58,6 @@ ________________________________________________________________________________
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
         - 🟪🟩🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
             - Need to verify with Kay when she wants this to go out
-    - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
-        - Nothing this sprint, focus is on Pre-Check-in
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
