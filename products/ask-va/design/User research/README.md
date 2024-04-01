@@ -13,6 +13,4 @@ This folder contains our user research documentation.
 
 ## How to reach us
 
-You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out:
-- Tyler Gindraux: tyler@bluetiger.digital | tyler.gindraux@va.gov
-- Thomas Michaud: thomas.michaud@oddball.io | thomas.michaud@va.gov
+You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out to Tyler Gindraux (tyler@bluetiger.digital | tyler.gindraux@va.gov).
