@@ -84,7 +84,9 @@ As far as I can tell, actually being able to use GFE or use the VA network via G
 
 The required trainings from above _are_ required. In my case, I had to email my delivery manager and the COR the certificates from the required trainings before I could be approved.
 
-As of March 2024, this is the process:
+Additionally, there are some videos in [this SharePoint](https://dvagov.sharepoint.com/sites/PrivilegeAccessSecuritySolution/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FPrivilegeAccessSecuritySolution%2FShared%20Documents%2FPAS%20Training%20Videos&FolderCTID=0x012000D6AC415BA544CD4B826753A9CDBA73A8) that I found helpful, specifically [this one](https://dvagov.sharepoint.com/sites/PrivilegeAccessSecuritySolution/_layouts/15/stream.aspx?id=%2Fsites%2FPrivilegeAccessSecuritySolution%2FShared%20Documents%2FPAS%20Training%20Videos%2F%233%20%2D%20How%20to%20request%20PAS%202%2E0%20access%20in%20ePAS%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) about requesting access to PAS 2.0. I didn't see these shared or listed in any other location, but the latter was mentioned after my most recent rejection.
+
+As of April 2024, this is the process:
 
 - Access MyVA Elevated Privileges at https://epas.r02.med.va.gov/apps/myva/ (only within the VA network).
   - It's not referred to as ePAS here; https://epas.r02.med.va.gov/ uses the words "Electronic Privilege Access System" but refers to this application as MyVA.
@@ -95,15 +97,44 @@ As of March 2024, this is the process:
   - For NMEA #1, check out the instructions when you mouseover the light bulb.
     - You probably need to append a 0 to the domain name.
     - You probably need to check "Create".
+  - _Also_ copy your MEA to a separate field (e.g. NMEA #2).
   - Your COR name, if you don't have it handy, should be available to your PM or DM. You might find it in your (`dsvagovcloud`) AWS onboarding ticket.
 - Click the "Roles" tab.
-  - The area we're concerned with is the "Groups that represent a role" section on the right.
-  - Under "Systems Reside In", specify "VA Enterprise Cloud".
-  - Click "Select Groups to Add".
-  - The groups we're requesting will depend on the current status of the `vaec-cms` -> `vaec-cie` migration (see [#77640](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)).
-    - If `vaec-cms` is still active:
-      - Search for "AWS-4328" and select `AWS-432896750513-adfs-project-administrators`. This will give you read-write access to `vaec-cms` resources.
-    - If `vaec-cie` is still active:
-      - Search for "AWS-23951" and select `AWS-239516274380-adfs-project-administrators`. This will give you read-write access to `vaec-cie` resources.
+  - The first roles we need to add are in the "Select a Standard Role" section on the left.
+    - Production CyberArk User:
+      - **Systems Reside In**: Infrastructure Operations
+      - **Scope of Role**: CyberArk
+      - **Role**: CyberArk
+      - **Sub-Role**: CyberArk User
+      - **Applies to**: Production
+    - Pre-Production CyberArk User:
+      - **Systems Reside In**: Infrastructure Operations
+      - **Scope of Role**: CyberArk
+      - **Role**: CyberArk
+      - **Sub-Role**: CyberArk User
+      - **Applies to**: Pre-Production/Test
+  - The second area we're concerned with is the "Groups that represent a role" section on the right.
+    - VA PAS Users:
+      - **Systems Reside In**: Infrastructure Operations
+      - **Select Groups to Add**: Search for `VA PAS Users` and add it.
+    - Other groups we're requesting will depend on the current status of the `vaec-cms` -> `vaec-cie` migration (see [#77640](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)).
+      - `vaec-cms` administrators (if `vaec-cms` is still active and in use):
+        - **Systems Reside In**: VA Enterprise Cloud
+        - **Select Groups to Add**: Search for "AWS-4328" and select `AWS-432896750513-adfs-project-administrators`. This will give you read-write access to `vaec-cms` resources.
+      - `vaec-cie` administrators (if `vaec-cie` is active and in use yet):
+        - **Systems Reside In**: VA Enterprise Cloud
+        - **Select Groups to Add**: Search for "AWS-23951" and select `AWS-239516274380-adfs-project-administrators`. This will give you read-write access to `vaec-cie` resources.
+- Scroll down to the "Granted" section. We now need to provide details to justify our request and ensure the correct account is mapped to each requested role.
+  - Production CyberArk User:
+    - **Account**: Your MEA account (i.e. without 0). We are granted access via PIV card.
+    - **Justification**:
+      - Include the name of your NMEA account (i.e. with 0).
+      - Second line gives detail. The words used in one of the videos were "VA PIV with PAS creates MFA into the password vault."
+      - Third line is justification: "Needed for access to elevated privileges within the VA PAS solution."
+  - Pre-Production CyberArk User: (as above)
+  - VA PAS Users: (as above)
+  - `vaec-cms`/`vaec-cie` administrators:
+    - **Account**: Your NMEA account; we've gone through this process so that we can use our MEA account to use our NMEA account to manage something somewhere.
+    - **Justification**: Your team membership and what you need access for.
 - Click "Save and Submit" at the **top** of the screen.
 - Wait for approval.
