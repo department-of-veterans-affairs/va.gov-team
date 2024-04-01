@@ -116,6 +116,7 @@
 - [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/decisions/Chip-Lorota-Playbook.md)
 - [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 - [How to Send SNOW Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/snow-reports.md)
+- [How to Send Patient Check-in System Down Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/system-down-notifications.md)
 
 ## Process 
 
