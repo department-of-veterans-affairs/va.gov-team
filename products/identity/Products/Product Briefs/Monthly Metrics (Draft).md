@@ -44,7 +44,7 @@ For this first iteration, the focus will be on:
 * 
 
 ## Solution Approach: 
-* Create a process to gather
+* Create a process to gather metrics.
 * Determine how to publish these metrics.
   
 ## Technical Considerations:
