@@ -1,6 +1,7 @@
 # Callback API to receive application status from PEGA
 ## Status
 What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+
 The below is my (Bryan Alexander) proposed solution for the callback API.
 
 ## Context
@@ -24,6 +25,7 @@ Our digital forms on VA.gov will send submitted forms and supporting documents t
 
 ## Decision
 What is the change that we're proposing and/or doing?
+
 I think it makes the most sense to leverage a new va.gov database table to be the source of truth for the form's statuses.
 
 ## Implementation Steps
