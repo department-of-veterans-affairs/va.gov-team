@@ -90,27 +90,22 @@ We will work with Perigean to recruit participants.
 
 2. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
 
-* Yes (go onto Screener question 3, recruit 10)
+* Yes (go onto Screener question 3, recruit 15)
 * No, but I have been prescribed other supplies, such as glucose test strips, cleaning wipes, and wound care supplies. (go onto Screener question 3, recruit 5)
-* No, I have not been prescribed any medical supplies. (Disqualify)
+* No, I have not been prescribed any medical supplies. (note: medications don't count as medical supplies) (Disqualify)
 
-3. Have you ordered supplies online on VA.gov or with paper forms? 
-
-* Yes, I have ordered supplies either online or with paper forms. (go onto Screener question 4, recruit 8)
-* No, I have never ordered supplies. (go onto Screener question 4, recruit 7)
-
-4. How often, if at all, have you used VA.gov in the past 6 months?
+3. How often, if at all, have you used VA.gov in the past 6 months?
    
-* Never used it (go onto Screener question 5, recruit 7)
-* At least once a month in the past 6 months (go onto Screener question 5, recruit 8 between 2nd and 3rd option)
-* More than 3 times a month in the past 6 months (go onto Screener question 5, recruit 8 between 2nd and 3rd option)
+* Never used it (go onto Screener question 5, recruit 10)
+* At least once a month in the past 6 months (go onto Screener question 5, recruit 10 between 2nd and 3rd option)
+* More than 3 times a month in the past 6 months (go onto Screener question 5, recruit 10 between 2nd and 3rd option)
 
-5. How often, if at all, do you use MyHealtheVet?
+4. How often, if at all, do you use MyHealtheVet?
 
-* Never used it (Qualify, recruit 7 between 1st and 2nd option)
-* Once a year (Qualify, recruit 7 between 1st and 2nd option)
-* Once a month (Qualify, recruit 8 between 3rd and 4th option)
-* More than once a month (Qualify, recruit 8 between 3rd and 4th option)
+* Never used it (Qualify, recruit 10 between 1st and 2nd option)
+* Once a year (Qualify, recruit 10 between 1st and 2nd option)
+* Once a month (Qualify, recruit 10 between 3rd and 4th option)
+* More than once a month (Qualify, recruit 10 between 3rd and 4th option)
 
 ## Timeline
 
