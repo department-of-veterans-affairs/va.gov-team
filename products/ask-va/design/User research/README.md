@@ -11,6 +11,8 @@ This folder contains our user research documentation.
 |[SCO dashboard workshop](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/SCO%20dashboard%20workshop)|Focus group|September 2023||
 |[Submit an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry/Round%201)|Usability testing|January-February 2024|[#453](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/453)|
 
-## Get in touch
+## How to reach us
 
-Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) about this research.
+You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out:
+- Tyler Gindraux: tyler@bluetiger.digital | tyler.gindraux@va.gov
+- Thomas Michaud: thomas.michaud@oddball.io | thomas.michaud@va.gov
