@@ -22,45 +22,57 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 | Total # of VAMC facility health services | 15,856 | 15,901 | |
 
 ## Summary data
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/7a4e0e86-10da-4a30-b05a-da7606d36a25)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/eecbb8fc-4bd8-4166-84e4-8003db71fd19)
 
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/0e74b02b-b461-425e-8e35-80ffc0fc3cdf)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/5eff7eac-11b4-41d8-8bd1-977203e0863d)
-
-
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/d67bd301-725e-4735-a7ee-d72f78c2a98d)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/ab49acfc-2180-4f71-ad29-1b314ebc20c0)
 
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/29a246b7-59b0-40ca-9f25-1dee3840d3c0)
+
+
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/2844f1a1-740d-4ead-b2ea-a1a738ffc9bc)
+
+
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/b649904e-d16c-4511-bdda-5dd8c73b9ab9)
+
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/8464b2a6-c81c-4729-9d51-9bd34462fd04)
+
+
+
 
 
 ### Top health services at system level
 (based on click interactions on accordions)
 Source: [DOMO - filtered by -health-care/health-service urls](https://va-gov.domo.com/page/426422632)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/f2b9f861-e9c3-45c6-a2ac-388b64baeaa0)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/6fc40d07-ec6b-4a89-a224-367f1909d6a4)
+
 
 
 ### Top health services at facility level
 (based on click interactions on accordions)
 Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/page/426422632)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/598100d9-1ace-46b5-9d47-d5d5c0c0f2a6)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/3cee0832-5264-4cdf-ba75-96f27c349934)
+
 
 
 
 ### Unique pageviews on required health service (care coordinator) pages
 (i.e., health-services/mental-health-care/) 
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/490a5d22-2e66-4964-b768-aef97110c07b)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/4434c4a6-1ac2-41cf-9377-7861c4076800)
 
 
 
 ### Unique pageviews on other specified pages
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/2276f7ed-f8ff-4cb8-96b4-cb998f66acc4)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/33870a36-4d95-446a-a52b-a2f91e3a133b)
 
 
 *VA Police | MMVP launched 12/20/2023 
@@ -69,25 +81,27 @@ Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/
 
 ### Experience ratings 
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/86e84bc0-2cd0-49ec-bc6c-11ea5a2b2e80)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/0541cdba-c36b-4a00-9371-f3383f843d49)
+
 
 | Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024
 | --- | :---:|:---:| :---:| :---: | 
-| Total survey responses |171 | 161 | 159 |
-| 1 star | 42 | 41 |31 | |
-| 2 stars	|27 | 21|17 | |
-| 3 stars |15 | 26|23 | |
-| 4 stars |22 | 15| 22| |
-| 5 stars |65 | 58|65 | |
+| Total survey responses |171 | 161 | 159 |148
+| 1 star | 42 | 41 |31 |24 |
+| 2 stars	|27 | 21|17 | 25|
+| 3 stars |15 | 26|23 |16 |
+| 4 stars |22 | 15| 22|22 |
+| 5 stars |65 | 58|65 |61 |
 
 ### CSAT
 - Scores are given as an average across all VAMC system sites. Note that locations have a variable number of responses
 - < 25 is considered a low sample size
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/15779958-3cb5-45fa-84d1-0f99354967f9)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/16814090-e6f9-49df-aaf8-1e36b0ee9829)
 
 
-| CSAT score |  January 2024 | February 2024	| March 2024
-| --- | :---:|:---: |:---:
-| Total # of responses |953 |821| |
-| # of health care system with >25 responses (_not considered small sample_) | 2|0 | | 
+
+| CSAT score | December 2023 |  January 2024 | February 2024	| March 2024
+| --- | :---:|:---: |:---:|:---:
+| Total # of responses |736 | 953 |821| 830|
+| # of health care system with >25 responses (_not considered small sample_) |0| 2|0 | 0| 
