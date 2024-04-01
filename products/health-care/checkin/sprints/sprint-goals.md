@@ -12,7 +12,7 @@ ________________________________________________________________________________
     - **Sub Goal: 2024 MAR: Update Stop Codes**
     - **Sub Goal: Move to New AWS Instance**
 - **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Support Community Care Scheduling for Veteran**
+    - **Sub Goal: Support Community Care Scheduling for Veterans**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
     - **Sub Goal: Discovery - Multiple Selection of Appts**
