@@ -1,8 +1,8 @@
-# Ask VA: Design
+# Ask VA: Design overview
 
 This folder contains our design and research documentation.
 
-## Overview
+## Where to find our work
 
 |Workspace or folder|Description|
 |:--|:--|
