@@ -2,7 +2,7 @@
 
 Last updated by @tygindraux: April 1, 2024
 
-This document is to map CRM fields with frontend form fields on VA.gov. The primary audience is engineering and product folks on our team.
+This document maps CRM fields to frontend form fields on VA.gov. The primary audience is engineering and product folks on our team.
 
 |CRM field|CRM option|VA.gov field|VA.gov option|Notes|
 |:--|:--|:--|:--|:--|
