@@ -1,6 +1,7 @@
 # Callback API to receive application status from PEGA
 ## Status
 What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+The below is my (Bryan Alexander) proposed solution for the callback API.
 
 ## Context
 As the IVC Forms team works to digitize forms and integrate with VFMP back end processes, we need sufficient communication to be confident that any data we send to PEGA is getting to the proper workflows.
@@ -8,14 +9,17 @@ As the IVC Forms team works to digitize forms and integrate with VFMP back end p
 Our digital forms on VA.gov will send submitted forms and supporting documents to an s3 bucket maintained by the DOCMP team. This will allow us to confirm whether forms have reached s3, but does't tell us whether they were imported into PEGA, or whether they can be deleted from s3. In order to get that information, PEGA's workflow will add a step to call a VA.gov endpoint to send confirmation that the files were loaded into PEGA. We don't currently have such an endpoint, so this document reflected the decision making for that implementation.
 
 ## What options were considered?
-1. LightHouse Delivery Infrastructure
+1. LightHouse Delivery Infrastructure (LHDI)
 - We originally looked into LHDI because they were already processing forms and we didn't want to reinvent the wheel. After discussing this process with Steve Albers (Benefits Engineer OCTO) he doesn't think leveraging LH makes sense.
 
    For starters, it's adding pipeline complexity to a process that starts on va.gov and should end on va.gov. Furthermore,
      LH engineers would need to update the code on their end for each form we send them. Finally, we aren't sending LH any information currently before submitting to PEGA's S3 and we don't know how difficult or how long it will take to accomplish this.
 
 2. Redis
-   - This was easily dismissed because it only holds data in it for up to 30 days. Forms take longer to process.
+- This was easily dismissed because it only holds data in it for up to 30 days. Forms take longer to process.
+
+3. Database Table (Editor's Pick)
+- This option made the most sense since the table should be light weight and we are just doing simple CRUD (Create, Read, Update, Delete) actions to it. Also with having our own table we won't be interfering with any other table or have to rely on another existing table.
      
 
 ## Decision
@@ -43,7 +47,7 @@ Note: Below is just some pseudo code to get whats in my brain on paper.
       "status": "processed"
     }
     ```
-5. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token:
+5. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
     ```
     class FormsController < ApplicationController
       before_action :authenticate_request
@@ -82,3 +86,5 @@ After we have the database updated by PEGA requests we can then start utilizing 
 
 ## Consequences
 What becomes easier or more difficult to do because of this change?
+
+I don't think anything becomes more difficult. It definitely will be easier to trigger notifications and check statuses if we have completel control of a data table that doesn't intertwine with anything else.
