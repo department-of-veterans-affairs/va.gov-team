@@ -92,7 +92,7 @@ We will work with Perigean to recruit participants.
 
 * Yes (go onto Screener question 3, recruit 15)
 * No, but I have been prescribed other supplies, such as glucose test strips, cleaning wipes, and wound care supplies. (go onto Screener question 3, recruit 5)
-* No, I have not been prescribed any medical supplies. (note: medications don't count as medical supplies) (Disqualify)
+* No, I have not been prescribed hearing aid batteries and accessories, CPAP supplies, and other supplies listed in the above choice. (Disqualify)
 
 3. How often, if at all, have you used VA.gov in the past 6 months?
    
