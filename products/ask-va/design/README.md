@@ -8,7 +8,7 @@ This folder contains our design and research documentation.
 |:--|:--|
 |[Figma](https://www.figma.com/files/project/174974739/Ask-VA?fuid=1165369583018460083)|Workspace with our interface designs.|
 |[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)|Workspace with flow diagrams, research analysis, workshops and more.|
-|[Fields, options and labels](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Fields%2C%20options%20and%20labels)|Folder with specific field documentation, like which labels to use, when.|
+|[Fields, options and labels](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Fields%2C%20options%20and%20labels)|Folder with specific field rules, like category and topics labels.|
 |[Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Strategy)|Folder with strategic documentation, like our design approach.|
 |[User research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research)|Folder with user research documentation, like transcripts and findings.|
 
