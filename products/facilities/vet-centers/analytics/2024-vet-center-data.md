@@ -28,13 +28,15 @@ OKR to measure the success of notifications reminding editors to review and upda
 | Number of Vet Center services| 3,741 |3,742 |3,742
 
 ## Summary data
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/43172968-b354-49f6-9aff-ed7e8795481d)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/18b11296-36bf-4c3c-89ea-9e36d4b5651b)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/3bf2ce3b-92be-45a2-a708-7f891cbec36a)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/9e74dc5d-1a8d-4f60-8f87-c216904dc888)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/982e9e3b-bd46-4ffe-920f-152e8e422f86)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/362ba3cd-6bb5-42a6-94c6-a5325c4d5f92)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/39d64cd5-82ee-4217-ac6c-100b6282eddd)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c8357b9f-75fc-44f9-aaa6-ce3dfbaa475e)
+
 
 
 ### Service views
@@ -48,17 +50,18 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 
 ### User surveys
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/80de0d83-e6a6-47c9-b683-0ecfd566686c)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/959a3039-2fee-416b-a6b2-363844d950dc)
 
 
 | Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024
 | --- | :---:| :---:| :---:| :---: | 
-| Total survey responses | 7| 8 |5 | |
-| 1 star | - | - | 2 |
-| 2 stars	| 2 | 1 | - |
-| 3 stars | 1 | 2 |-  |
-| 4 stars | 4  |2  |-  |
-| 5 stars |- |1  |3 |
+| Total survey responses | 7| 8 |5 | 6|
+| 1 star | - | - | 2 | 1
+| 2 stars	| 2 | 1 | - |-
+| 3 stars | 1 | 2 |-  | 1
+| 4 stars | 4  |2  |-  | -
+| 5 stars |- |1  |3 | 4
 
 > Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
 > Raw data: [Facilities metrics 2024](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Be0efa151-5e25-49fd-8d4f-8f451a49fb9b%7D&action=editnew)
