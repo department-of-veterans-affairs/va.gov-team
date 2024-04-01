@@ -241,7 +241,7 @@ Military Occupational Specialties (MOS) was in the 1st spot for 3 veterans (P4, 
 
 </details>
 
-![Mental model activity example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/mental-model-activity.png)
+![Mental model activity example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-01-military-info-enhancement-mvp/images/mental-model-activity-example.png)
 
 ### *Research question: How effective is the current design mock-up in displaying MOS?*
 
