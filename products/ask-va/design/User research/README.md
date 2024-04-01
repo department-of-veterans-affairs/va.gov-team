@@ -2,7 +2,7 @@
 
 This folder contains our user research documentation.
 
-## Our user research
+## List of studies
 
 |Study|Type of Research|Date|Issue|
 |:--|:--|:--|:--|
