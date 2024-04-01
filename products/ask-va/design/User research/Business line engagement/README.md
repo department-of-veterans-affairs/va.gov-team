@@ -1,12 +1,12 @@
 # About this research
 
 ## Study
-This was ongoing research with business lines across VA. There is no associated issue in the [Research Repository](https://github.com/orgs/department-of-veterans-affairs/projects/880).
+This is ongoing research with business lines across VA. There is no associated issue in the [Research Repository](https://github.com/orgs/department-of-veterans-affairs/projects/880).
 
 ## Background
 Ask VA (AVA) is an online portal that allows Veterans, caregivers, and supporting personnel in education, debt, loans, etc. to submit questions to VA and receive a secure message response. Currently, Ask VA (AVA) resides within a stand-alone Microsoft portal that is inconsistent with the VA design standards, is not mobile-friendly, and has accessibility issues.
 
-We needed to meet with business lines to determine which fields are required in order for agents to deliver the service and receive their feedback about proposed updates to Ask VA.
+We need to meet with business lines to determine which fields are required in order for agents to deliver the service and receive their feedback about proposed updates to Ask VA.
 
 ### Business lines
 
@@ -36,7 +36,7 @@ We needed to meet with business lines to determine which fields are required in 
 * Understand which fields are necessary in order to route queries to the right place
 
 ## Recruitment
-We met with relevant business lines across VA as well as the Ask VA CRM team. 
+We willmeet with relevant business lines across VA as well as the Ask VA CRM team. 
 
 ## Date
-This research was ongoing. It started in June 2023.
+This research is ongoing. It started in June 2023.
