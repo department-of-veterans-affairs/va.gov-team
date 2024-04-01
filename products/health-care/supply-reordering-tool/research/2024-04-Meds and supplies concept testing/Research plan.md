@@ -114,12 +114,12 @@ We will work with Perigean to recruit participants.
 
 ## Timeline
 
-- Get feedback on the research plan and conversation guide from Kristen Mcconnell before 4/4/2024
-- Submit the research plan to Shane Strassberg 5/5/2024
-- Perigean kick-off meeting 5/9/2024
-- Pilot session in the week of 4/15
-- Interviews 4/22/2024 ~ 4/30/2024
-- Synthesis and report writing 5/1/2024 ~ 5/8/2024 
+- 4/4/2024 (no later than): Get feedback on the research plan and conversation guide from Kristen Mcconnell
+- 5/5/2024: Submit the research plan to Shane Strassberg 
+- 5/9/2024: Perigean kick-off meeting 
+- 4/15 (sometime in that week): Pilot session
+- 4/22/2024 ~ 4/30/2024: Interview sessions
+- 5/1/2024 ~ 5/8/2024: Synthesis and report writing
 
 ### Prepare
 
