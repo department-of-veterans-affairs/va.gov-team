@@ -1,14 +1,19 @@
 # Note: This is a draft. Unauthenticated page experience ratings: March 2024
 
 ## Related overall scores
-- **Total customer satsifaction score:** 00.0 (0% change from last period)
+- **Total customer satsifaction score:** 57.2 (0% change from last period)
 - **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
 
 ## Experience ratings (1 to 5 scale)
 
 ### 5 pages with the highest experience ratings 
 All pages have ratings of 4 or above.
-- 
+- VAMC Houston Health care/Stories (**Note:** This is a VAMC section)
+- [Appointment pre-check-in](https://www.va.gov/health-care/appointment-pre-check-in/) (**Note:** Authenticated page that's a collaboration with appointments product team)
+- [Disability/About disability ratings](https://www.va.gov/disability/about-disability-ratings/)
+- [VA Payment history/Payments](https://www.va.gov/va-payment-history/payments/) (Note: Authenticated page)
+- [Life insurance options/Eligibility](https://www.va.gov/life-insurance/options-eligibility/)
+  
   
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
