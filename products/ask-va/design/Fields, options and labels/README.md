@@ -14,4 +14,4 @@ This folder contains documentation related to fields, options and labels.
 
 ## Get in touch
 
-Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) about this research.
+Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) about this documentation.
