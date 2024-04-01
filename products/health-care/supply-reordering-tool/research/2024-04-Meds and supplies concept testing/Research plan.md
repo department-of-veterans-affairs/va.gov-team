@@ -65,16 +65,9 @@ All sessions will be remote on Zoom.
 	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 
 We will work with Perigean to recruit participants. 
-*
 
 ### Recruitment criteria
 
@@ -82,16 +75,46 @@ We will work with Perigean to recruit participants.
 - 20 participants, with a desired 15 complete interview sessions
 
 **Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
+- Must currently receive VA healthcare benefits
+- Must have an active MHV account that they have accessed at least once in the past 6 months
+- All mobile users
+- Age and education level range throughout, but ideally include at least 10 participants older than 55 and at least 10 participants with some college or less as their terminal degree
 
+### Screener questions
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+1. Have you seen a VA provider in the past 2 years, if at all? 
+
+* Yes (go onto Screener question 2)
+* No (Disqualify)
+
+2. Have you been prescribed hearing aid batteries and accessories or CPAP supplies?
+
+* Yes (go onto Screener question 3, recruit 10)
+* No, but I have been prescribed other supplies, such as glucose test strips, cleaning wipes, and wound care supplies. (go onto Screener question 3, recruit 5)
+* No, I have not been prescribed any medical supplies. (Disqualify)
+
+3. Have you ordered supplies online on VA.gov or with paper forms? 
+
+* Yes, I have ordered supplies either online or with paper forms. (go onto Screener question 4, recruit 8)
+* No, I have never ordered supplies. (go onto Screener question 4, recruit 7)
+
+4. How often, if at all, have you used VA.gov in the past 6 months?
+   
+* Never used it (go onto Screener question 5, recruit 7)
+* At least once a month in the past 6 months (go onto Screener question 5, recruit 8 between 2nd and 3rd option)
+* More than 3 times a month in the past 6 months (go onto Screener question 5, recruit 8 between 2nd and 3rd option)
+
+5. How often, if at all, do you use MyHealtheVet?
+
+* Never used it (Qualify, recruit 7 between 1st and 2nd option)
+* Once a year (Qualify, recruit 7 between 1st and 2nd option)
+* Once a month (Qualify, recruit 8 between 3rd and 4th option)
+* More than once a month (Qualify, recruit 8 between 3rd and 4th option)
 
 ## Timeline
 
-- Get feedback on research plan and conversation guide from Kristen Mcconnell before 4/4/2024
+- Get feedback on the research plan and conversation guide from Kristen Mcconnell before 4/4/2024
 - Submit the research plan to Shane Strassberg 5/5/2024
 - Perigean kick-off meeting 5/9/2024
 - Pilot session in the week of 4/15
@@ -114,18 +137,26 @@ What criteria would strengthen your results?
 * Maximum Sessions per day: 4
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+| Day      | Date        | Times in EST |
+| ---------| ----------- |  ------- |
+| Thursday | February 29 | 11:00 AM ~  3:00 PM  |
+| Friday | March 1 | 11:00 AM ~  3:00 PM  |
+| Monday | March 4 | 11:00 AM ~  3:00 PM  |
+| Tuesday | March 5 | 11:00 AM ~  3:00 PM  |
+| Wednesday | March 6 | 11:00 AM ~  3:00 PM  |
+| Thursday | March 7 | 11:00 AM ~  3:00 PM  |
+| Friday | March 8 | 11:00 AM ~  3:00 PM  |
+| Monday | March 11 | 11:00 AM ~  3:00 PM  |
+| Tuesday| March 12 | 11:00 AM ~  3:00 PM  |
+| Wednesday | March 13 | 11:00 AM ~  3:00 PM  |
 	
 ## Team Roles	
 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
+- Moderator: Jenny Wang (yizhen.wang@va.gov)	
+- Research guide writing and task development: Jenny Wang (yizhen.wang@va.gov)	
+- Participant recruiting & screening: Perigean	
+- Project point of contact: Jenny Wang (yizhen.wang@va.gov), Kristen McConnell (kristen.mcconnell@va.gov)	
+- Note-takers: Perigean
+- Observers: Sign up sheet link	
 
