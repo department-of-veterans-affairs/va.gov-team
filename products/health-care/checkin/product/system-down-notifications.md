@@ -1,10 +1,19 @@
 # How to Send Patient Check-in System Down Notifications
 
 ## Background
-If any of the following scenarios occurs, the team will send an email informing a distribution list that the affected applicaiton is down in production.
+If any of the following scenarios occurs, the team will send an email informing a distribution list that the affected applicaiton is down in production:
+- Maintenance window for eCheck-in has been triggered in Production
+- Maintenance window for Pre-Check-in has been triggered in Production
+- Maintenance window for stand-alone Travel has been triggered in Production
+- VeText support for eCheck-in has been disabled
+- VeText support for Pre-Check-in has been disabled
+- VeText support for stand-alone Travel has been disabled
 
 ## Distribution Method
 - VA Email
+- [Outlook Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Patient%20Check-in%20Production%20Issue.oft)
+   - Fill in the current date
+   - Only reference the applications that are down
 
 ## Recipients
 - VHA IVC Patient Engagement Team <VHAIVCPatientEngagementTeam@va.gov>,
@@ -33,4 +42,3 @@ If any of the following scenarios occurs, the team will send an email informing 
 - "Wilt, Angie R." <Angela.Wilt@va.gov>,
 - "zach.park@agile6.com" <zach.park@agile6.com>
 
-## Template for email
