@@ -30,4 +30,4 @@
 * [August 30, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/August%2030%2C%202023.md)
 * [August 9, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/August%209%2C%202023.md)
 * [August 2, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/August%202%2C%202023.md)
-* [June 22, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Education%20benefits%20and%20work%20study/June%2022%2C%202023.md)
+* [June 22, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/June%2022%2C%202023.md)
