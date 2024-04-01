@@ -22,7 +22,9 @@ This research fits into these points of a Veteran's Journey:
 ## Research Goals	
 
 The purpose of this study is to: 
-- Understand where Veterans expect "View and order medical supplies" on the MHV on VA.gov.
+
+- Understand how Veterans categorize medications and medical supplies.
+  	- Are they completely different tools on MHV, OR are they in the same category of tools with different characteristics, OR are they the same? 
 - Understand whether Veterans expect to view medical supplies and medications in the same list or separately and whether Veterans expect to order medical supplies and medications together or separately.
 - Establish which design and I.A. is easier to use, or the advantages and disadvantages of different options.
 
@@ -35,7 +37,9 @@ This research will inform the Cartography team on how to display medical supplie
 
 - Which of the options is the most effective? In which is the user better able to order a supply? 
 - 
-
+Option 1: completely separate categories (breakfast, not breakfast)
+2: together same category, but different things (all breakfast, but one is hot, one is cold)
+3: all the same (breakfast is breakfast)
 
 
 ### Hypothesis
@@ -44,6 +48,8 @@ What do you intend to learn and measure from this study? Think through these pro
 - What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
+
+- If Veterans expect medical supplies and medications to be in the same categories on MHV home
 
 ## Methodology	
 Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
