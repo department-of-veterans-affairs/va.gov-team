@@ -43,6 +43,7 @@ ________________________________________________________________________________
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: DevOps Improvements**
+</details>
 
 <details>
 <summary>FUTURE SPRINT - 4/3/2024 - 4/16/2024 </summary>
