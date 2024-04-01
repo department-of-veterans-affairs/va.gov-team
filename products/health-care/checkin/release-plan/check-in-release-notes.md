@@ -13,7 +13,7 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 ## Releases
 
 ## 3/19/2024
-- Added a link to the travel reimbursement claim review page to display the content for the VA beneficiary travel agreement on its own page
+- Updated eCheck-in to add a link to the travel reimbursement claim review page that will display the content for the VA beneficiary travel agreement in its own page
     - [Ticket 78733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
 
 ### 3/25/2024
