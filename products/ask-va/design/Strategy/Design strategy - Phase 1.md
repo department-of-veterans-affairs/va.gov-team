@@ -1,5 +1,5 @@
 # Design strategy: Phase 1
-*Ask VA VA.gov*
+Ask VA VA.gov
 
 Last updated by @tygindraux on April 1, 2024 
 
