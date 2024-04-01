@@ -91,7 +91,7 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [Do participants express any confusion or frustration that VA should have their service history?]
 
 ## Second Task: Toxic exposure questions - 15 minutes
-- Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly if you're comfortable with it because we're curious about an eligible Veteran's experence going through this form.
+- Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly if you're comfortable with it because we're curious about an eligible Veteran's experience going through this form.
 - [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? [If no:] How would you find out what they were? How long would that take you?
 
 ### Things to watch for:
