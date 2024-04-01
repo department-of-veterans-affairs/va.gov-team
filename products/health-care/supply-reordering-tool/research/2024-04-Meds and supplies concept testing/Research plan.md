@@ -49,37 +49,19 @@ This research will inform the Cartography team on how to display medical supplie
 
 ## Methodology	
 
-This will be a mix of research methodologies, including concept test, user interviews, and exploratory/comparison test. We will conduct remote sessions on Zoom. Interview sessions will consist of tasks and direct questions regarding participants' behaviors, thoughts, and reactions. We will conduct the study with Figma prototypes. 
+This will be a mix of research methodologies, including concept test, moderated user interviews, and exploratory/comparison test. We will conduct remote sessions on Zoom. Interview sessions will consist of tasks and direct questions regarding participants' behaviors, thoughts, and reactions. We will conduct the study with Figma prototypes. 
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
+All sessions will be remote on Zoom.
 
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+### Research materials 
 
-### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/Conversation%20guide.md)
+- [Design option 1 prototype](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1)
+- [Design option 2 prototype](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1)
+- [Design option 3 prototype](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1)
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment	
 
