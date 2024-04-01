@@ -24,18 +24,19 @@ This research fits into these points of a Veteran's Journey:
 The purpose of this study is to: 
 - Understand where Veterans expect "View and order medical supplies" on the MHV on VA.gov.
 - Understand whether Veterans expect to view medical supplies and medications in the same list or separately and whether Veterans expect to order medical supplies and medications together or separately.
-- Determine a design solution to propose to the team to implement. 
+- Establish which design and I.A. is easier to use, or the advantages and disadvantages of different options.
 
 
 ### Outcome
 
-This research will inform the Cartography team on how to display medical supplies on the MHV on VA.gov and inform our team on the designs for medical supplies when the supply ordering functionality is ready to integrate with MHV on VA.gov. 
+This research will inform the Cartography team on how to display medical supplies on the MHV on VA.gov and inform our team on the designs and I.A. of medical supplies whenever the supply ordering functionality is ready to integrate with MHV on VA.gov. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+- Which of the options is the most effective? In which is the user better able to order a supply? 
+- 
+
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
