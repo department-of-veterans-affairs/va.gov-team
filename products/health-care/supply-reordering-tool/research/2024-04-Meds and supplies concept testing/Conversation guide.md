@@ -91,7 +91,7 @@ A reminder: This is a prototype. It looks like the real website, but doesn't fun
 
 Next, I will give an activity that you may do in your real life, then I will ask you to use 3 different prototypes to do the activity. While you use the prototypes, I would like to hear your thoughts and observe your reactions for each prototype. 
 
-#### _Task: Order a mask strap for CPAP._ You need to order a mask strap for your CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+### _Task: Order a mask strap for CPAP._ You need to order a mask strap for your CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 **- Observe what they do first:**
    - If they scroll up and down, ask "What are you thinkng as you...?"
