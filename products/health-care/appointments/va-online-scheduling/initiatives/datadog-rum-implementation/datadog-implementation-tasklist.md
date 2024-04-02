@@ -23,7 +23,7 @@ The Appointments FE team will work on creating a DataDog RUM dashboard for the a
 - [ ] Create a feature toggle to mask the data 
 - [ ] MVP buildout requirements 
 - [ ] List of the VAOS dashboard (Ticket #) 
-- [ ] Design documentation - Peter (mask PII/PHI information) 
+- [X] Design documentation to mask PII/PHI information - [#75744](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75744)
 - [ ] Simi to discuss with the Platform support team (create a token/ID) 
 - [ ] Archive (6 months - 1 year) 
 - [ ] Connect to slack 
