@@ -31,9 +31,6 @@ The address of an [ATLAS](https://telehealth.va.gov/atlas) location.
 
 ### Instructions: Prepare for Telehealth Visit
 
-#### Display requirements 
-How this field shows for VA appointments across scheduling touchpoints.
-
 <table>
 <tr>
   <th></th>
@@ -88,12 +85,6 @@ How this field shows for VA appointments across scheduling touchpoints.
   <td></td>
 </tr>
 </table>
-
-
-
-
-
-
 
 #### Video Visit Preparation
 
@@ -254,9 +245,6 @@ The name of the facility staff who will be seeing/treating the Veteran.
 
 The type of assessment or treatment the Veteran will receive.
 
-#### Display requirements 
-How this field shows for VA appointments across scheduling touchpoints.
-
 <table>
 <tr>
   <th></th>
@@ -315,6 +303,54 @@ How this field shows for VA appointments across scheduling touchpoints.
 ### Veteran Reason For Appointment
 
 The Veteran-provided description of their needs to be addressed during this appointment.
+
+<table>
+<tr>
+  <th></th>
+  <th>VAOS</th>
+  <th>Check-in</th>
+  <th>Mobile app</th>
+</tr>
+<tr>
+  <th>Data source</th>
+  <td>
+     
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Data fields</th>
+  <td>
+    <code>reasonCode.text</code>, <code>comment</code>
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <th>Logic</th>
+  <td> 
+    <ul>
+    <li>
+    For appointments scheduled through VAOS, VAOS expects <code>reasonCode.text</code> to have keyword delimiting and breaks up the data from that.
+    </li> 
+    <li>
+    For appointments that were scheduled outside of VAOS that don't have embedded data in the <code>reasonCode.text</code> field, VAOS displays the string in <code>comment</code> directly.
+    </li>
+  </td>
+  <td> Check-in here </td>
+  <td> Mobile app here </td>
+</tr>
+<tr>
+  <th>Notes</th>
+  <td>
+    
+  </td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
+
 
 ## VA Requests
 
