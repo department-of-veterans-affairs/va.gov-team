@@ -344,7 +344,7 @@ The Veteran-provided description of their needs to be addressed during this appo
 <tr>
   <th>Notes</th>
   <td>
-    
+    There's an issue with staff data populating the "Details you shared" field. See ticket [#56557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56557) and the comments for details.
   </td>
   <td></td>
   <td></td>
