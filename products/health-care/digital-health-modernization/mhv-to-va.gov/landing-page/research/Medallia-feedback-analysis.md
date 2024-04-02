@@ -305,37 +305,18 @@ Survey question 3: what task were you trying to do today?
   <caption><b>Tasks by date range</b></caption>
   <tr>
     <td></td>
-    <th scope="col">4/1/23-10/31/23</th>
-    <th scope="col">11/1/23-12/15/23</th>
-    <th scope="col">12/16/23-1/5/24</th>
-    <th scope="col">1/6/24-1/31/24</th>
-    <th scope="col">2/1/24-2/12/24</th>
-    <th scope="col">2/13/24-3/5/24</th>
     <th scope="col">3/6/24-3/28/24</th>
   </tr>
   <tr>
-    <th scope="row">Total responses</th>
-    <td>93</td>
-    <td>117</td>
-    <td>25</td>
-    <td>36</td>
-    <td>14</td>
-    <td>31</td>
-    <td>21</td>
+    <th scope="row">Tasks</th>
+    <td>
+      <li>Set up account: 1</li>
+      <li>Cancel/schedule/look at appointments: 5</li>
+      <li>Order meds: 1</li>
+      <li>Left blank or unclear: 3 </li>
+    </td>
   </tr>
-</table>table>
-  
-
-* Schedule appointment
-* View/find appointment details
-* Message or contact a provider
-* Pay a bill
-* Request prescription or check prescription status
-* File a travel reimbursement claim
-* Update personal information
-* View results of a lab/test
-* Try to link MyHealtheVet account to the Login.gov account
-
+</table>
 
 ## Problems users faced
 
@@ -349,6 +330,7 @@ Survey question 3: what task were you trying to do today?
     <th scope="col">1/6/24-1/31/24</th>
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
+    <th scope="col">3/6/24-3/28/24</th>
   </tr>
   <tr>
     <th scope="row">Technical problems</th>
@@ -357,7 +339,8 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>1 user</td>
     <td>--</td>
-    <td>5 users </td>
+    <td>5 users</td>
+    <td>--</td>
   </tr>
   <tr>
     <th scope="row">Login/access issues</th>
@@ -367,6 +350,7 @@ Survey question 3: what task were you trying to do today?
     <td>3 users</td>
     <td>3 users</td>
     <td>3 users</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">Findability</th>
@@ -374,6 +358,7 @@ Survey question 3: what task were you trying to do today?
     <td>2 users</td>
     <td>3 users</td>
     <td>4 users</td>
+    <td>--</td>
     <td>--</td>
     <td>--</td>
   </tr>
@@ -385,6 +370,7 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>3 users</td>
     <td>--</td>
+    <td>1 user</td>
   </tr>
   <tr>
     <th scope="row">Couldn't get help</th>
@@ -394,6 +380,7 @@ Survey question 3: what task were you trying to do today?
     <td>--</td>
     <td>--</td>
     <td>1 user</td>
+    <td>--</td>
   </tr>
   <tr>
     <th scope="row">Issues with travel reimbursement</th>
@@ -403,12 +390,14 @@ Survey question 3: what task were you trying to do today?
     <td>--</td>
     <td>--</td>
     <td>1 user</td>
+    <td>--</td>
   </tr>
   <tr>
     <th scope="row">No updates for claims</th>
     <td>--</td>
     <td>1 user</td>
     <td>1 user</td>
+    <td>--</td>
     <td>--</td>
     <td>--</td>
     <td>--</td>
@@ -421,6 +410,7 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>--</td>
     <td>--</td>
+    <td>--</td>
   </tr>
   <tr>
     <th scope="row">Issues ordering medical supplies</th>
@@ -430,10 +420,35 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>--</td>
     <td>--</td>
+    <td>--</td>
+  </tr>
+   <tr>
+    <th scope="row">Issues w appointments tool</th>
+    <td>--</td>
+    <td>1 user</td>
+    <td>--</td>
+    <td>1 user</td>
+    <td>--</td>
+    <td>--</td>
+    <td>--</td>
+    <td>3 users</td>
   </tr>
 </table>
 
-**Additional context around problems encountered:**
+#### Additional context around problems encountered:**
+
+##### 3/6/24-3/28/24
+**Missing context or explanation**
+* Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."
+
+**Login issues**
+* "I want to re-order my meds but it won't let me into the site"
+* "Kept going in and out of logins. Never could get to right place."
+
+**Tool-specific**
+* I was not able to make appt with primary provider"
+
+##### Pre-March 2024
 * **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content)
   * Site says I don't have appointments
   * Try to refill prescriptions but site says unavailable
@@ -458,7 +473,7 @@ Spanning both surveys
   <tr>
     <td></td>
     <th scope="col">2/13/24-3/5/24</th>
-    <th scope="col"> </th>
+    <th scope="col">3/6/24-3/28/24</th>
     <th scope="col"> </th>
     <th scope="col"> </th>
     <th scope="col"> </th>
@@ -483,8 +498,8 @@ Spanning both surveys
     <td> </td>
   </tr>
   <tr>
-      <th scope="row">Joys users expressed</th>
-    <td>Fast and efficient (unsure if this was the expereince online or in person), Positive feedback was around in-person expereince with care team </td>
+      <th scope="row">Positive feedback</th>
+    <td>Fast and efficient (unsure if this was the experience online or in person), Positive feedback was around in-person expereince with care team </td>
     <td> </td>
     <td> </td>
     <td> </td>
