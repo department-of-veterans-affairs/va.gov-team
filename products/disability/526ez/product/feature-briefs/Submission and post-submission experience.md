@@ -36,7 +36,7 @@ This initiative focuses on all paths for the submission and post submission expe
 
 - Lighthouse /submit endpoint migration
 - Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
-- Post-submission notifications, including confirmation email and message on confirmation page, paper mail, etc.
+- Post-submission notifications, including confirmation email and message on confirmation page, SMS, web and mobile app notifications, paper mail, etc.
 - Outline of information and list of documents submitted (note [concern about filenames potentially containing PII](https://dsva.slack.com/archives/C04KW0B46N5/p1712088148463829?thread_ts=1711557666.821949&cid=C04KW0B46N5)) 
 - Reevaluating how the 526 introduces the Claim Status Tool and connects Veterans to it
 - Avoid duplicates (rethink when we clear the in-progress form)
