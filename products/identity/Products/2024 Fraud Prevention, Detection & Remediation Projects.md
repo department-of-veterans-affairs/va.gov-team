@@ -1,4 +1,4 @@
-## 2024 Fraud Prevention, Detection & Remediation Projects
+# 2024 Fraud Prevention, Detection & Remediation Projects
 
 Each one of these projects ties to our overall Objective to mitigate digital identity fraud .
 
