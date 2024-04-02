@@ -93,10 +93,10 @@ Next, I will give an activity that you may do in your real life, then I will ask
 
 **_Task: Order a mask strap for CPAP._** You need to order a mask strap for your CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
-- Observe what they do first:
+**- Observe what they do first:**
    - If they scroll up and down, ask "What are you thinkng as you...?"
  
-- Questions for Option 1:
+**- Questions for Option 1:**
    - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
    - If they click and get to medications, ask "What did you click...?"
    - If they click on any links for medical supplies, ask "What do you think will happen when you click...?"
@@ -106,19 +106,18 @@ Next, I will give an activity that you may do in your real life, then I will ask
         - What would you do from here to order a mask strap for your CPAP?
    - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
   
-- Questions for Option 2:
+**- Questions for Option 2:**
    - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
    - 
   
-- Questions for Option 3:
+**- Questions for Option 3:**
 
 
-- Questions after showing all 3 options:
+**- Questions after showing all 3 options:**
 
    - 
 
  
-
 ## Thank you and Closing - 5 minutes 
 
 Thank you for walking me through how you'd order and sharing your thoughts with me. As we wind down, I hope you don't mind if we ask a couple more questions about what we have done so far. 
