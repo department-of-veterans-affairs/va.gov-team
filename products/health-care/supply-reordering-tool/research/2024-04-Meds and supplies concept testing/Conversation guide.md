@@ -32,14 +32,14 @@ _If not too distracting, CHECK SLACK for real-time feedback and questions from o
 Thank you for joining us today! My name is Jenny and [NOTETAKER NAME] is taking notes.
 I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. Are you ok with them joining the call? But before we get to them, I'll talk a little bit about what we'll be doing today.  
 
-We are part of a team working on the health sections of the website VA.gov. We’d like to get your feedback on the supplies reordering process. So, I will be asking you to walk me through how you would order medical supplies on the VA.gov website and will be asking you questions and hearing your thoughts and reactions while you do that. Most of what we'll be asking you is about your reactions to what you see on the website and what you might expect. Part of understanding how we can best improve this website is to understand what's working for our Veterans and what's not. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Your feedback today will help us make sure that we meet your needs and expectations on the website. 
+We are part of a team working on the health sections of the website VA.gov. We’d like to get your feedback on some changes we've made on there. So, I will be asking you questions and hearing your thoughts and reactions while you walk me through some activities I will be giving you on the website. Most of what I'll be asking you is about your reactions to what you see and what you might expect. Part of understanding how we can best improve this website is to understand what's working for our Veterans like you and what's not. As much as possible today, I would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Your feedback today will help us make sure that we meet your needs and expectations on the website. 
 
-It is worth noting that we will be using a testing website. This is not the actual website. We use it to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This testing website will not work exactly like a website and may not contain all the information. 
+It is worth noting that we will be using what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype.
 
 Also, there are a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If for any reason and at any time you would like to stop the session or do not want to answer a question, that's no problem. Please let me know. 
 - I know the folks who invited you to participate in this interview asked if it was okay to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
@@ -60,13 +60,9 @@ Also, there are a few things that I want to go over with you:
 
 Let’s start with a few questions... 
 
+- 
 
-Great, that’ll be helpful to know as we move forward. 
-
-Thank you for sharing all that with me! 
-
-
-**Let’s start screen sharing so you can show me how you’d do that. Are you familiar with how to share your screen with Zoom?** 
+Great, that’ll be helpful to know as we move forward. Thank you for sharing all that with me! 
 
 **Screen sharing instructions**
 
