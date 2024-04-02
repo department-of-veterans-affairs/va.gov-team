@@ -71,9 +71,9 @@ All in one file, on one tab
 |------------------------|--------------|--------------|--------|
 | Week 15 Apr 07-Apr 13 | Melissa Lefevre | []() |  |
 | Week 16 Apr 14-Apr 20 | Melissa Lefevre | []() |  |
-| Week 17 Apr 21-Apr 27 |  | []() |  |
-| Week 18 Apr 28-May 04 |  | []() |  |
-| Week 19 May 05-May 11 |  | []() |  |
+| Week 17 Apr 21-Apr 27 | Leah De La Costa  | []() |  |
+| Week 18 Apr 28-May 04 | Leah De La Costa | []() |  |
+| Week 19 May 05-May 11 | Leah De La Costa | []() |  |
 | Week 20 May 12-May 18 |  | []() |  |
 | Week 21 May 19-May 25 |  | []() |  |
 | Week 22 May 26-Jun 01 |  | []() |  |
