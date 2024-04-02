@@ -104,6 +104,7 @@ Spanning both surveys
     <th scope="col">1/6/24-1/31/24</th>
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
+    <th scope="col">3/6/24-3/28/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
@@ -113,6 +114,7 @@ Spanning both surveys
     <td>21</td>
     <td>12</td>
     <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
@@ -122,6 +124,7 @@ Spanning both surveys
     <td>33%</td>
     <td>50%</td>
     <td>50%</td>
+    <td>40%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -131,6 +134,7 @@ Spanning both surveys
     <td>8 users</td>
     <td>5 users</td>
     <td>5 users</td>
+    <td>6 users</td> 
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
@@ -140,6 +144,7 @@ Spanning both surveys
     <td>2 users</td>
     <td>3 users</td>
     <td>3 users</td>
+    <td>0 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
@@ -149,6 +154,7 @@ Spanning both surveys
     <td>4 users</td>
     <td>1 user</td>
     <td>2 users</td>
+    <td>0 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
@@ -157,6 +163,7 @@ Spanning both surveys
     <td>1 user</td>
     <td>1 user</td>
     <td>3 users</td>
+    <td>2 users</td>
     <td>2 users</td>
   </tr>
     <tr>
@@ -167,19 +174,18 @@ Spanning both surveys
     <td>6 users</td>
     <td>3 users</td>
     <td>8 users</td>
+    <td>2 users</td>
   </tr>
 </table>
 
 Other: 
-* For the most part, users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large. This was true except for the following outliers: one individual gave a score of 1 for customer satisfaction but gave 4, 4, and 5 for the VA.gov understanding, general VA trust, and trust in VA commitment to Veterans respectively; two individuals gave customer satisfaction scores of 3 and gave a 5 for trust in VA commitment to Veterans.
-* Users who give high scores for their overall experience also gave higher scores regarding their familiarity with VA.gov, were more trustworthy of the VA, and reported higher scores for their experience with the VA writ large.
+* For the most part, users who give low scores for their overall experience also gave low scores around their familiarity with VA.gov, their general trust of VA, and experience with the VA writ large. And the opposite is also true: users who give high scores for their overall experience also give high scores in other areas. 
 
 ## Details - VFS Feedback Button survey
 
 * Key c-sat score name: "What is your overall satisfaction with this site?"
 * Delivery: Feedback button at bottom of page
 * Customer scoring rubric: respondents score their overall experience on a scale of 1 to 5, where 5 is high. 
-
 
 <table>
   <caption><b>Customer satisfaction by date range</b></caption>
@@ -191,6 +197,7 @@ Other:
     <th scope="col">1/6/24-1/31/24</th>
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
+    <th scope="col">3/6/24-3/28/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
