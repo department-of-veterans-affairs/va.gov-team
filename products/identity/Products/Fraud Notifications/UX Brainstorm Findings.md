@@ -129,4 +129,25 @@ Things we can measure
       - Before we set up any new notifications?
     - What's the LOE to manage a notification in VA Notify?
       - Is there any regular upkeep?
-      - How often does Auth Exp team look in on it?   
+      - How often does Auth Exp team look in on it?
+     
+## Next Steps
+- Device Fingerprinting
+- Who owns the notification piece?
+- Meet with engineers on trigger
+  - Anything else that could be a simple trigger?
+- Convo with Tom, Samara, PMs, Joe
+- Where does BDPR step in and we step out?
+  - Monica is already sending mail and email notifications
+  - Keep notifications managed by the same team
+  - We own up to the trigger creation?
+- GovDelivery
+  - BDPR already using this to send out notifications
+  - trigger - when beneficiary or bank account changes
+ 
+# Next Next Steps
+- Content creation and approval for emails and process to "publish"
+- pull in Megan for content
+- plan our approach to messaging
+- VA Notify
+- Kickoff meeting
