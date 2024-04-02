@@ -70,6 +70,39 @@ This section outlines the steps to investigate and resolve issues related to the
 - Enables Find a Representative frontend - `find_a_representative_enable_frontend`
 - Enables Flag a Representative feature for Find a Representative tool - `find_a_representative_flag_results_enabled`
 
+### Useful Queries for Flagged Rep Data
+Here's a list of useful queries against the `flagged_veteran_representative_contact_data` vets-api table. If you have access to vets-api production, connect to a pod terminal, run `bundle exec rails console`, then one of the following queries. If you don't have access to vets-api production, contact Platform Support via the 'Office of CTO @ VA #vfs-platform-support' Slack channel and ask them to run the queries for you.
+
+#### Queries
+
+#### List All Records
+Use the following ActiveRecord query to get a list of all records.
+
+```
+RepresentationManagement::FlaggedVeteranRepresentativeContactData.all
+```
+
+#### List All Records That Have Not Been Updated
+Use the following ActiveRecord query to get a list of all records that have not been updated.
+
+```
+RepresentationManagement::FlaggedVeteranRepresentativeContactData.where(flagged_value_updated_at: nil)
+```
+
+#### List All Records That Have Been Updated
+Use the following ActiveRecord query to get a list of all records that have been updated.
+
+```
+RepresentationManagement::FlaggedVeteranRepresentativeContactData.where.not(flagged_value_updated_at: nil)
+```
+
+#### Delete Multiple Records
+Use the following ActiveRecord statement to destroy multiple records at once. Simply replace the array of integers for `id` with an array of integers that contains the ids of the records you want to destroy.
+
+```
+RepresentationManagement::FlaggedVeteranRepresentativeContactData.where(id: [3, 4, 5]).destroy_all
+```
+
 ## Security
 
 No PII/PHI involved in this feature, or known/accepted security vulnerabitlities
