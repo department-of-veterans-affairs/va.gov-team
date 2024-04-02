@@ -46,8 +46,8 @@ In the future, we also don’t need to reproduce existing notifications which in
 ## Use Cases (MVP):
 | User          | Problem       | How does this solution address the problem?  |
 | ------------- |:------------: | :----- |
-|Veteran | Unusual device login could be fraudulent |Gives Vet a notification and course of action  | 
-|Veteran | Unusual IP login could be fraudlent  |Gives Vet a notification and course of action  |
+|Veteran | Unusual device login could be fraudulent | Gives Vet a notification and course of action  | 
+|Veteran | Unusual IP login could be fraudlent  | Gives Vet a notification and course of action  |
 
 
 ## Assumptions:
