@@ -5,8 +5,8 @@ Each one of these projects ties to our overall Objective to mitigate digital ide
 Online scams and their sophistication have increased dramatically in the last few years, resulting in account takeovers, stolen PII/PHI, and payment redirection. With more Veterans receiving benefits than ever before, and the need to access and manage them online, Veterans are a prime target.
 
 We're tackling it from three angles:
-- Fraud Prevention: trying to prevent it from happening in the first place.
-- Fraud Detection: when it happens, discovering it swiftly
+- Fraud Prevention: trying to prevent fraud from happening in the first place.
+- Fraud Detection: when fraud happens, discovering it swiftly, and getting the remediation process
 - Fraud Remediation: ensuring that we help them recover their accounts as swiftly as possible.
 
 ## Fraud Prevention
