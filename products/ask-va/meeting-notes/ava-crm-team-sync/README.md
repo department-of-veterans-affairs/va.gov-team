@@ -1,4 +1,4 @@
-## Meeting Notes for CRM Sync on 02/2&/2024
+## Meeting Notes for CRM Sync on 02/27/2024
 
 Standup; Environment Mappings; /announcements; VEIS -> EIS
 
