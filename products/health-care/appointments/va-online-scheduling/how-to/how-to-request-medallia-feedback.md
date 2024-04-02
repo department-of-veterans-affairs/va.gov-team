@@ -57,8 +57,8 @@ All in one file, on one tab
 | Week 8 Feb 18–Feb 24  |  Peter Russo        | [77057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77057) | Done        |
 | Week 9 Feb 25–Mar 02  |  Peter Russo        | [77550](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77550) | Done        |
 | Week 10 Mar 03–Mar 09 |  Peter Russo        | [78030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78030) | Done        |
-| Week 11 Mar 10–Mar 16 |  Leah De La Costa   | [78601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78601) | In progress       |
-| Week 12 Mar 17–Mar 23 |  Leah De La Costa   | [78784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78784), [79140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79140) |In progress       |
+| Week 11 Mar 10–Mar 16 |  Leah De La Costa   | [78601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78601) | Done       |
+| Week 12 Mar 17–Mar 23 |  Leah De La Costa   | [78784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78784), [79140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79140) |Done       |
 | Week 13 Mar 24–Mar 30 |  Leah De La Costa   | [79729](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79729) | In progress        |
 | Week 14 Mar 31-Apr 06 | Melissa Lefevre  | []() |  |
 
