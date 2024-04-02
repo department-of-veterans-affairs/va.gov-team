@@ -119,3 +119,19 @@ The tests will be conducted online at the participant’s leisure.
 - At least 20 participants who are not Caucasian
 - At least 15 participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 10 people who live in a rural or remote area
+
+## Timeline
+### Prepare
+
+### Pilot session
+N/A
+
+### Research sessions
+N/A
+
+### Length of sessions
+N/A
+
+## Team Roles
+TBD
+
