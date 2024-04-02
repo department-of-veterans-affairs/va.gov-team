@@ -25,17 +25,89 @@ This study will give us insight into whether or not we need to make content chan
 
 ### Research Questions
 - Do Veterans understand that this tool can be used for mileage-only travel reimbursement claims and that they need to use the BTSSS portal to file claims with receipts?
-- Do Veterans understand what happens to the selected facilities on the multiple facilities selection page?
-- Do Veterans understand what happens to the facilities that are NOT selected on the multiple facilities selection page?
+- Do Veterans understand how many/which claims they are filing when selecting facilities? 
 - Do Veterans understand how to file a claim for any of the facilities NOT selected on the facility selection page?
 
 ### Hypothesis
 1. Do Veterans understand that this tool can be used for mileage-only travel reimbursement, and that they need to use the BTSSS portal to file with receipts?
   - LIKELY TRUE
-2. Do Veterans understand what happens to the selected facilities on the multiple facilities selection page?
+2. Do Veterans understand how many/which claims they are filing when selecting facilities?
   - LIKELY TRUE
-3. Do Veterans understand what happens to the facilities that are NOT selected on the multiple facilities selection page?
-  - MAYBE TRUE
-4. Do Veterans understand how to file for the facilities NOT selected?
+3. Do Veterans understand how to file for the facilities NOT selected?
   - MAYBE FALSE
+
+## Methodology
+This research will be conducted as an unmoderated study using Optimal Workshop.
+
+### Location
+The tests will be conducted online at the participant’s leisure.
+
+### Research Materials
+- Optimal Workshop Survey
+- Survey Outline (Google Doc start)
+- Recruitment intake ticket
+
+## Recruitment
+8 cohorts, 9 participants each, total 72 respondents, minimum threshold of 50 completed responses. 
+
+### Primary criteria (must-haves)
+
+#### ALL Cohort participants
+- All must have a computer or mobile device and are willing to use it to complete the activity.
+
+#### Experience with travel
+- Cohort A (9 Veterans)
+  - All must have experience filing for travel reimbursement
+  - All must be over 55 years old
+  - All must have a cognitive disability
+  - [cohort link]
+
+
+- Cohort B (9 Veterans) 
+  - All must have experience filing for travel reimbursement
+  - All must be over 55 years old 
+    - OR have a cognitive disability
+  - [cohort link]
+
+
+- Cohort C (9 Veterans)
+  - All must have experience filing for travel reimbursement
+  - All must NOT have any degree or vocational training after high school
+  - [cohort link]
+
+
+- Cohort D (9 Veterans)
+  - All must have experience filing for travel reimbursement
+  - All must identify as Native or Asian
+  - [cohort link]
+
+
+- Cohort E (9 Veterans)
+  - All must have experience filing for travel reimbursement
+  - All must identify as not caucasian
+  - [cohort link]
+
+
+- Cohort F (9 Veterans) 
+  - All must have experience filing for travel reimbursement
+  - All must use be screen readers users
+  - [cohort link]
+
+
+#### NO experience with travel
+
+- Cohort G (9 Veterans)
+  - All must NOT have experience filing for travel reimbursement
+  - All must think they’re eligible to receive travel reimbursement
+  - All must be over 55 years old
+    - OR have a cognitive disability
+[cohort link]
+
+
+- Cohort H (9 Veterans)
+  - All must NOT have experience filing for travel reimbursement
+  - All must NOT know or be unsure if they’re eligible to receive travel reimbursement
+  - All must be over 55 years old
+    - OR have a cognitive disability
+  - [cohort link]
 
