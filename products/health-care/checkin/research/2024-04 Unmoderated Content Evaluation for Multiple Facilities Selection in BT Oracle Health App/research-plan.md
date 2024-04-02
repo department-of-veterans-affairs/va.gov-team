@@ -24,9 +24,9 @@ The purpose of this research is to get feedback from Veterans on how easy it is 
 This study will give us insight into whether or not we need to make content changes in order to help Veterans better understand how to file their claims using this mileage-only tool. 
 
 ### Research Questions
-- Do Veterans understand that this tool can be used for mileage-only travel reimbursement claims and that they need to use the BTSSS portal to file claims with receipts?
-- Do Veterans understand how many/which claims they are filing when selecting facilities? 
-- Do Veterans understand how to file a claim for any of the facilities NOT selected on the facility selection page?
+1. Do Veterans understand that this tool can be used for mileage-only travel reimbursement claims and that they need to use the BTSSS portal to file claims with receipts?
+2. Do Veterans understand how many/which claims they are filing when selecting facilities? 
+3. Do Veterans understand how to file a claim for any of the facilities NOT selected on the facility selection page?
 
 ### Hypothesis
 1. Do Veterans understand that this tool can be used for mileage-only travel reimbursement, and that they need to use the BTSSS portal to file with receipts?
@@ -111,3 +111,11 @@ The tests will be conducted online at the participant’s leisure.
     - OR have a cognitive disability
   - [cohort link]
 
+### Secondary criteria (nice to haves) across all cohorts:
+- At least 20 women
+- At least 20 participants age 55 or older
+- At least 10 participants age 35 or under
+- At least 20 participants with a cognitive disability
+- At least 20 participants who are not Caucasian
+- At least 15 participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
+- At least 10 people who live in a rural or remote area
