@@ -1,6 +1,6 @@
 # 2024 Fraud Prevention, Detection & Remediation Projects
 
-Each one of these projects ties to our overall Objective to mitigate digital identity fraud .
+Each one of these projects ties to our overall Objective to mitigate digital identity fraud.
 
 Online scams and their sophistication have increased dramatically in the last few years, resulting in account takeovers, stolen PII/PHI, and payment redirection. With more Veterans receiving benefits than ever before, and the need to access and manage them online, Veterans are a prime target.
 
