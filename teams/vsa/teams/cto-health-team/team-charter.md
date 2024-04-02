@@ -98,12 +98,12 @@ Assess and update workload for remainder of sprint
 
 | Point | Task Size | Complexity | Description |
 |-|-|-|-|
-| 1 | Easy  | Very Simple | Work is known, can be executed quickly (a day or less) |
-| 2 | Small | Simple | Work is known, and can be completed with minimal hours |
-| 3 | Medium | Average | Work is known, and can be completed in a couple days |
-| 5 | Large  | Complex | Work is known and can be completed in half a sprint | 
-| 8 | XLarge | Very Complex | Work is complex and/or there might be unknown factors that need to be discussed prior to planning. Once further information is known, break down into smaller tickets that can be completed in a sprint with certantity. |
-| 13 | XXLarge |  | Needs discovery before it can be planned for a sprint. If a story is estimated as 13, it should be broken down into smaller tickets that can be completed in the sprint. |
+| 1 | Easy  | Very Simple | No unknowns, very specific, no dependiencies, can be executed quickly (a day or less) |
+| 2 | Small | Simple | Very specific, relatively trivial but may take longer than a day to complete, like a 1 but may have other tasks  or dependencies that take more time.|
+| 3 | Medium | Average | May be some unknowns, not easy but we've done this king of work in the past, there may be 2-3 closely related tasks, each of which is simple, and I can fit this task in my head at one time.|
+| 5 | Large  | Complex | We have to learn some new things but are confident in how long that would take. May be cognitively demanding work, like synthesis. Small group of closely related tasks that cannot be separated.| 
+| 8 | XLarge | Very Complex | Some unknowns, hard to tell how much work will be involved from the start. Large group of related tasks that may be able to be separated.|
+| 13 | XXLarge | Very Complex | Cannot be completed in one sprint by one person, needs multiple people. May need discovery before it can be planned for a sprint. Should be broke down unless there is a good reason not to. |
 
 Most of the team's tickets are larger initiatives that include tasks from multiple disciplines (engineering, design, research, QA). When estimating these tickets, typically team members estimate only for their discipline's work. To get the estimate for the entire ticket, add the discipline estimates and assign it the nearest fibonacci value. 
 
