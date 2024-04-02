@@ -44,10 +44,10 @@ In the future, we also don’t need to reproduce existing notifications which in
 
 
 ## Use Cases (MVP):
-| User          | Problem       | How does this solution address the problem?  |
+| User          | Problem       | Solution  |
 | ------------- |:------------ | :----- |
-|Veteran | Unusual device login could be fraudulent | Gives Vet a notification and course of action  | 
-|Veteran | Unusual IP login could be fraudlent  | Gives Vet a notification and course of action  |
+|Veteran | Unusual device login could be fraudulent. | Email Vet a notification about the login and course of action in case it is fradulent.  | 
+|Veteran | Unusual IP login could be fraudlent.  | Email Vet a notification about the login and course of action in case it is fradulent. |
 
 
 ## Assumptions:
