@@ -104,12 +104,16 @@ Next, I will give an activity that you may do in your real life, then I will ask
         - What is this page, OR what's the purpose of this page?
         - What do you like and dislike about this page?
         - What would you do from here to order a mask strap for your CPAP?
+   - Whichever link they click on, ask "Is this what you expected to see?"
    - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
   
 **- Questions for Option 2:**
    - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
-   - 
-  
+   - If they try to decide to click on either medications  or prescriptions or medical supplies, ask "What do you think the differences are? What do you find confusing? How would you change it to make it less confusing?"
+   - If they click and get to medications, ask "What did you click...?"
+   - If they click on any links for medical supplies, ask "What do you think will happen when you click...?"
+   - Whichever link they click on, ask "Is this what you expected to see?"
+
 **- Questions for Option 3:**
 
 
