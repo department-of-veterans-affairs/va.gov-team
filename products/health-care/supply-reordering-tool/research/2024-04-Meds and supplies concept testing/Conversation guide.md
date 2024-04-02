@@ -60,9 +60,10 @@ Also, there are a few things that I want to go over with you:
 
 Let’s start with a few questions... 
 
-- 
+- What medical equipments have you been prescribed? (If they have prescribed equipments/supplies, use the same for the task below.) 
+- Have you ordered accessories for your medical equipment online before? If yes, how was your last experience? If no, move on to the next question.
 
-Great, that’ll be helpful to know as we move forward. Thank you for sharing all that with me! 
+Great, thank you for sharing all that with me! 
 
 **Screen sharing instructions**
 
@@ -81,12 +82,12 @@ Thanks for your patience in figuring that out.
 - *Backup plan if they cannot figure out how to share screen:*
   - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? *[Share your screen]*. Can you confirm if you can see my screen? *[Give mouse control]* Can you click and see if you can move your mouse around on my screen? 
 
-A reminder: This is a prototype. It looks like the real website and we have turned some special features on for our session. Nothing we do here will impact your information and you will see it has test data (like a made-up name) in certain parts of the site. 
+A reminder: This is a prototype. It looks like the real website, but doesn't function like the real website. We have turned some special features on for our session, and nothing we do here will impact your information and you will see it has test data (like a made-up name).
 
 
 ## Interview - 20 minutes 
 
-**_Task: Order accessories for CPAP._** You need to order accessories for CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+**_Task: Order a mask strap for CPAP._** You need to order a mask strap for your CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 
 
@@ -94,13 +95,9 @@ A reminder: This is a prototype. It looks like the real website and we have turn
 
 ## Thank you and Closing - 5 minutes 
 
-Thank you for doing that task, we gained some insight into how Veterans may go through this form. As we wind down, I hope you don't mind if we ask a couple more questions about supply ordering. 
+Thank you for walking me through how you'd order and sharing your thoughts with me. As we wind down, I hope you don't mind if we ask a couple more questions about what we have done so far. 
 
-How would you go about changing your supply type or brand? 
-
-If a supply isn't available and you are told to talk to your provider, then how would you do that? 
-
-In your experience/opinion, are we missing any devices? 
+- 
 
 Is there anything else that we haven't talked about that you’d like to share? Do you have any questions for me before we wrap up? 
 
