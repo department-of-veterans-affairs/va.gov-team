@@ -320,6 +320,24 @@ Survey question 3: what task were you trying to do today?
 
 ## Problems users faced
 
+
+<table>
+  <caption><b>Problems encountered by users</b></caption>
+  <tr>
+    <td></td>
+    <th scope="col">Problems (topic and number of users)</th>
+    <th scope="col">Additional context and quotes</th>
+  </tr>
+  <tr>
+    <th scope="row">3/6/24-3/28/24</th>
+    <td>12 users</td>
+    <td>8 users</td>
+   
+  </tr>
+
+
+
+
 <table>
   <caption><b>Problems encountered by users</b></caption>
   <tr>
@@ -425,16 +443,16 @@ Survey question 3: what task were you trying to do today?
    <tr>
     <th scope="row">Issues w appointments tool</th>
     <td>--</td>
-    <td>1 user</td>
     <td>--</td>
-    <td>1 user</td>
+    <td>--</td>
+    <td>--</td>
     <td>--</td>
     <td>--</td>
     <td>3 users</td>
   </tr>
 </table>
 
-#### Additional context around problems encountered:**
+#### Additional context around problems encountered:
 
 ##### 3/6/24-3/28/24
 **Missing context or explanation**
