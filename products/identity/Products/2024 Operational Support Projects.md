@@ -55,7 +55,3 @@ This final set of projects ensure that the Identity Team is always ready to help
 | Cert Alerting & Automation  |The ability to alert engineers when certificates are coming due and to then in turn the automation of rotating certificates |Rotating certs is not only a daunting task that our engineering team must keep tabs on, but also takes a lot of training and red tape to get an engineer certified in order to be able to rotate these certifications |Mike |
 
 
-
-All of the projects contribute in one way or another to two of our main Ojectives:
-- Continuous improvement of the Veteran Login experience 
-- Empowerment of va.gov product teams.
