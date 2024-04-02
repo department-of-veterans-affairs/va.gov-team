@@ -17,7 +17,11 @@ All pages have ratings of 4 or above.
   
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
-- 
+- [Contact us](https://www.va.gov/contact-us/)
+- Auth/login Note: Authenticated experience)
+- [Post-9/11 GI Bill statement of benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) (**Note:** Most of these are after sign-in)
+- [Order hearing aid or CPAP supplies](https://www.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form/)
+- [Schedule and manage health appointments](https://www.va.gov/health-care/schedule-view-va-appointments/)
   
 ### Resources and support ratings ("good" or "bad")
 
