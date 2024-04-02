@@ -114,9 +114,9 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 >
 > Other Income; It said it is required but I do not have any of that income so I assume I have to answer a zero. Yup, it took it.
 >
-> Veteran's Non-reimbursable; the ammount is an estimate that P3 tracks it for tax purposes. 
+> Veteran's Non-reimbursable; the amount is an estimate that P3 tracks it for tax purposes. 
 >
-> Yes on Medicare and estimate the effective date. "They would have to look at the Medicare care or login to see the effective date. It is when it l"
+> Yes on Medicare and estimate the effective date. "They would have to look at the Medicare care or login to see the effective date."
 >
 > The Medicare number input looks stranded from the question, slightly confused P3.
 >
