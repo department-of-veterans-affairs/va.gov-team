@@ -2,7 +2,7 @@
 
 Date: April 3, 2024
 
-- Where do we envision the CC Direct Scheduling experience *starting* for the Veteran? 
+- Where do we envision the CC Direct Scheduling experience **starting** for the Veteran? 
      - Option 1: Surfacing an approved referral where a Veteran can start scheduling from? If so, what system will provide that approved referral from? And, what information will be included? E.g., provider(s), care type, number of appointments, etc. 
      - Option 2: Or, would this process need to start with requesting a CC referral online? And, if so, how do we envision that Veterans would do that on VA.gov?   
 - More broadly: 
