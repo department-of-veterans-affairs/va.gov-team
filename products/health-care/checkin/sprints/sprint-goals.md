@@ -53,7 +53,6 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Support the ATO**
-    - **Sub Goal: 2024 MAR: Update Stop Codes**
     - **Sub Goal: Move to New AWS Instance**
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
@@ -80,8 +79,6 @@ ________________________________________________________________________________
     - ❗ 🟦🟩 [[ONGOING] Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
     - **Sub Goal: Support the ATO**
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
-    - **Sub Goal: 2024 MAR: Update Stop Codes**
-        - ❗ 🟪 [Determine if Stop Codes Changes Affect Pre-Check-in or Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79623)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
