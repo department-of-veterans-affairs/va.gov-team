@@ -53,7 +53,7 @@ Appointments content is in the pages that follow and the [platform scheduling co
 |---|---|
 | 1 | [Choose a location](./schedule-va.md#choose-a-va-location) | 
 | 1a | [Cerner location redirect](./schedule-va.md#endpoint---cerner-offboard-page) |
-| 2 | [Choose a clinic](./schedule-va.md) |
+| 2 | [Choose a clinic](./schedule-va#choose-a-va-clinic.md) |
 | 3 | [Choose a preferred date](./schedule-va.md#patient-indicated-date) |
 | 4 | [Choose a date and time](./schedule-va.md#choose-a-date) |
 | 5 | [Reason for appointment](./schedule-va.md#reason-for-appointment) |
