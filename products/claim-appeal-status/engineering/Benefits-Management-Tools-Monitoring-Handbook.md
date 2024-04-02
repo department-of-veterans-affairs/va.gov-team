@@ -89,7 +89,7 @@ We're transitioning to DataDog more and more over Google Analytics, however we s
 
 ### Google Analytics
 
-* [DDL PDF Download Metrics]([downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20230101&_u.date01=20240402&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventCategory:Interactions,analytics.eventAction:PDF%20Downloaded%20-%20Download%20Claim%20Letter%20(PDF)/))
+* [DDL PDF Download Metrics](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20230101&_u.date01=20240402&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventCategory:Interactions,analytics.eventAction:PDF%20Downloaded%20-%20Download%20Claim%20Letter%20(PDF)/)
 
 ## Letters Generator
 
