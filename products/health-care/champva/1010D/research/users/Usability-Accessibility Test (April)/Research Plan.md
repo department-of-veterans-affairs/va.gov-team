@@ -216,19 +216,19 @@ Monday, April 15th: 1-7 CST \
 Tuesday, April 16th: 8-9, 12-7 CST \
 Wednesday, April 17th: 8-9, 12-7 CST \
 Thursday, April 18th: 8-9, 12-7 CST \
-Friday, April 19th: 8-9 CST \
+Friday, April 19th: 8-9 CST
 
 Monday, April 22nd: 1-7 CST \
 Tuesday, April 23rd: 8-9, 12-7 CST \
 Wednesday, April 24th: 8-9, 12-7 CST \
 Thursday, April 25th: 8-9, 12-7 CST \
-Friday, April 26th: 8-9, 12-2 CST \
+Friday, April 26th: 8-9, 12-2 CST
 
 Monday, April 29th: 1-7 CST \
 Tuesday, April 30th: 8-9, 12-7 CST \
 Wednesday, May 1st: 8-9, 12-7 CST \
 Thursday, May 2nd: 8-9, 12-7 CST \
-Friday, May 3rd: 8-9, 12-2 CST \
+Friday, May 3rd: 8-9, 12-2 CST
 
 
 ## Team Roles
