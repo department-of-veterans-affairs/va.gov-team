@@ -1,3 +1,39 @@
+## Meeting Notes for CRM Sync on 02/2&/2024
+
+Standup; Environment Mappings; /announcements; VEIS -> EIS
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Brian confirmd that ATO update not needed. Natalie to discuss with Shelby.
+2. Environment Mappings between AVA CRM and AVA VA.gov
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| AVA VA.gov | AVA CRM |
+|-|------------|---------|
+| | DEV | DEV<br/>INT |
+| | STAGING | QA<br/>PRE-PROD |
+| | PROD | PROD |
+> **NOTE:** Handy to know for E2E testing.
+
+3. KYLE: VEIS -> EIS URLs will be tweaked. Heads up! When we know more, Kyle will pass it along.
+4. KHOA: /announcement endpoint
+   * End datetime in future, Start datetime in the past - refresh if server is pinged
+   * No cache, will rely on most recent call to CRM
+5. SHELBY: Go-Live activities to Natalie ... E2E hinges on date that AVA VA.gov has shared code freeze in June.
+
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+
+
+
+
 ## Meeting Notes for CRM Sync on 02/20/2024
 
 Standup; Medical Facilities; Khoa and Kyle progress
