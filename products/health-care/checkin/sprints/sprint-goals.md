@@ -164,11 +164,12 @@ ________________________________________________________________________________
          - Rolled over from last sprint
             - ✔️ ❗ 🟦[[BE] Don't call CHIP refresh_appointments for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78648)
             - ✔️ ❗ 🟦[[BE] Don't call CHIP set_echeck_started for Oracle Health sites ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78647)
-            - ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
+            - ✔️ ❗ 🟦[[BE] Investigate on getting total execution time for OH travel claim submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78427)
             - ✔️ ❗ 🟩 [[FE] Create e2e tests for failed scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77876)
-        - ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+        - 🚧 ❗ 🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
+            - Not ready to work on this, putting back in the backlog
         - ✔️ ❗ 🟩 [[FE] - Check travel answers before submission ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79020)
-        - ❗ 🟩 [[FE] Update Review Page (eCheck-in & Stand-alone Travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
+        - ✔️ ❗ 🟩 [[FE] Update Review Page (eCheck-in & Stand-alone Travel)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
              - Added 1 day after sprint started
         - ✔️ ❗ 🟩 [[FE] - Appointment sorting and timezone offset ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78201)       
         - ✔️ ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
@@ -197,14 +198,14 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
     - Added on 3/29 for BE
         - 🟦 [Remove feature flag: check_in_experience_45_minute_reminder ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79630)
-        - 🟦 [Remove feature flag: check_in_experience_travel_claim_increase_timeout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79628)
+        - ✔️ 🟦 [Remove feature flag: check_in_experience_travel_claim_increase_timeout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79628)
     - 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
         - Pulled in halfway through sprint (3/26)
     - ✔️ 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - ✔️ 🟩 [[FE] Add back to last screen on /contact-information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78803)
     - ✔️ 🟥 [[UX] [Design] SPIKE: Determine where we should keep our content in relation to components](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78703)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
-        - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
+        - ✔️ 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
         - 🚧 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
