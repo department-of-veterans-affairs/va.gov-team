@@ -36,8 +36,6 @@ You can oftentimes find the backtrace for an error by clicking on a log’s “t
 
 Many logs contain a user_uuid that you can use to find related errors in Sentry (via the `user.id` parameter).
 
-Sometimes, 503 and 504 errors are erroneously characterized as 4xx errors.  This problem is ticketed [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66874).
-
 ### Google Analytics
 
 We're transitioning to DataDog more and more over Google Analytics, however we still track the types of [downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20230101&_u.date01=20240402&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventCategory:Interactions,analytics.eventAction:PDF%20Downloaded%20-%20Download%20Claim%20Letter%20(PDF)/) that occur within the DDL in Google Analytics.
