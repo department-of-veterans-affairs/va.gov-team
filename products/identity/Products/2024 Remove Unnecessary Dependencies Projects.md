@@ -6,9 +6,9 @@
 | Auto-Auth | | | Mike |
 | MHV Account Creation API | | | Mike |
 | Manage Devices | | | Mike |
-| Usage & Performance Trackers | | | Jim |
+| Usage & Performance Trackers | | | Mike |
 | Baseline for Reducing Time to Auth By 25% | | | Mike |
-| Chatbot Integration | | | Jim |
+| Chatbot Integration | | | Mike |
 | Vulnerability Scanning & Patching | | | Mike |
 | Deploy SiS on VA.gov| | | Mike |
 | Remove SSO Dependencies from VA.gov | | | Mike |
