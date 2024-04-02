@@ -113,12 +113,18 @@ Next, I will give an activity that you may do in your real life, then I will ask
    - If they click and get to medications, ask "What did you click...?"
    - If they click on any links for medical supplies, ask "What do you think will happen when you click...?"
    - Whichever link they click on, ask "Is this what you expected to see?"
+   - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
 
 **- Questions for Option 3:**
-
+   - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
+   - Can you describe what you expect to see after you click on...?
+   - On the list view page, ask "What is this page, OR what is the purpose of this page?"
+   - If they have difficulties finding the mask strap on the list view page, point it to them, but ask "How would you change it to make it easier to find?"
+   - Observe and see if they know they need to click on the "refill and order" link to order the mask strap.
+   - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
 
 **- Questions after showing all 3 options:**
-
+   - If they give the same score to all 3 options, ask "Which option did you find the easiest for you in terms of finding the mask strap and ordering it?
    - 
 
  
