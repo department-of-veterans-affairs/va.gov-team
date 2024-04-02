@@ -59,7 +59,7 @@ Team Name - Cartographers
 
 ### Sprint board columns
 
-As of 4/4/2023, the current columns on our sprint board columns are:
+As of 4/1/2024, the current columns on our sprint board columns are:
 
 | Column |Description| 
 |:--:| :-- |
@@ -98,7 +98,7 @@ Assess and update workload for remainder of sprint
 
 | Point | Task Size | Complexity | Description |
 |-|-|-|-|
-| 1 | Easy  | Very Simple | Work is known, can be executed quickly |
+| 1 | Easy  | Very Simple | Work is known, can be executed quickly (a day or less) |
 | 2 | Small | Simple | Work is known, and can be completed with minimal hours |
 | 3 | Medium | Average | Work is known, and can be completed in a couple days |
 | 5 | Large  | Complex | Work is known and can be completed in half a sprint | 
