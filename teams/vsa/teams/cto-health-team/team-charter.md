@@ -63,15 +63,15 @@ As of 4/4/2023, the current columns on our sprint board columns are:
 
 | Column |Description| 
 |:--:| :-- |
-|**Icebox**	|Tasks here are nice to haves, blue sky ideas, or ideas that need more thought. These tasks may or may not be well defined and not estimated. Usually, big idea task will start here|
-|**Epics**|	Epics are high-level tasks. These have details, and. are usually well defined. Epics have subtasks that run through the process. An epic is closed when all the subtasks are closed|
-|**Backlog**|	The backlog is the holding pen for tasks. This column contains tickets that are a granular task that is well defined, but may or may not be estimated yet. A new task is usually created and stored here. Even if pointed we should use backlog to hold pointed tickets until sprint planning or we are confident that it should go in upcoming sprint. Before being estimated or worked on, all tickets must have tasks and acceptance criteria defined. |
-|**Ready**|	Ready tickets are tickets that come from the backlog. Once a Backlog ticket is estimated, it gets moved into the Ready column. These tickets are ready to go (well defined, estimated, approved by the team), but not in any current sprint.|
-|**Current Sprint**	|These tickets are taken from the Ready column and are queued to be completed in the current sprint. This is the "to do" column for the current sprint.|
-|**In Progress**|	These tickets represent the work that is going on currently. Active work (development, documentation, etc) should be reflected in a ticket in this column. This is one of the few columns that every ticket should be in at one point. A ticket's assignee should be putting notes and updates on currently worked on tickets.|
-|**Blocked**|	Tickets in the blocked column can not be worked on for some reason. That reason should be documented on the ticket, and if a ticket exists that fixes that blocker, that ticket should be linked.|
-|**Validate**|	This column represents tickets that no longer being actively worked on, but are going through some review process. This review process can be, but not limited to, meetings or code reviews.|
-|**Closed**|	These tickets are complete and are confirmed to be completed.|
+|**Icebox**	|Default status when a new issue is created. Low priority Issues that do not need to be addressed in the near future.|
+|**Epics**|	Group issues into epics to easily track long-term goals.|
+|**Backlog**|	New issues that have not been broken down or estimated. |
+|**Ready**|	Issues that have been assigned, estimated, prioritized, and are ready to be worked on.|
+|**Current Sprint**	|Issues ready to be worked on in the sprint, prioritized top-to-bottom.|
+|**In Progress**|	Issue is being worked on by one or more team members.|
+|**Blocked**|	Issues that have dependencies or are otherwise blocked from being completed.|
+|**Review/QA**|	Issue is in review - inside and/or outside of the team. The work is complete but undergoing a second set of eyes and/or stakeholder approval.|
+|**Closed**| Issue is complete & merged.|
 
 <br/>
 
