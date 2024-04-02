@@ -42,7 +42,7 @@ Now I'm going to put a link in the Zoom chat and would like you to open it. Let 
 
 Once you've opened the link and see a page that says "Apply for VA health care", please share your screen with me. Let me know if you need any help doing that.
 
-> Angela: It said you applied before. P3: Yes. I applied a while ago, it said here July 2025.
+> Angela: It said you applied before. P3: Yes. I applied a while ago, it said here July 2015.
 >
 > P3 had a lot of things already pre-filled.
 
