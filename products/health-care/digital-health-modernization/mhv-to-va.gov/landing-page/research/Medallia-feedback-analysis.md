@@ -430,7 +430,6 @@ Survey question 3: what task were you trying to do today?
     <td>1 user</td>
     <td>--</td>
     <td>--</td>
-    <td>--</td>
     <td>3 users</td>
   </tr>
 </table>
