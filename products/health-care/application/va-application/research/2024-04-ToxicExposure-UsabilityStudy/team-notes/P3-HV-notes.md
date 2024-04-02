@@ -116,13 +116,13 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 >
 > Veteran's Non-reimbursable; the amount is an estimate that P3 tracks it for tax purposes. 
 >
-> Yes on Medicare and estimate the effective date. "They would have to look at the Medicare care or login to see the effective date."
+> Yes on Medicare and estimate the effective date. "They would have to look at the Medicare card or login to see the effective date."
 >
 > The Medicare number input looks stranded from the question, slightly confused P3.
 >
 > Confused about the Insurance Information, asking a similar question to the previous questionnaire, "Insurance provider is Medicare so I already filled it out on the previous screen".
 >
-> I think the Medicare comment is not needed. I'm not sure. I would select No even thought it said ask for Medicare.
+> I think the Medicare comment is not needed. I'm not sure. I would select No even though it said ask for Medicare.
 >
 > Even though the previous question asks Part A, this is confusing because P3 already filled out Medicare before.
 >
