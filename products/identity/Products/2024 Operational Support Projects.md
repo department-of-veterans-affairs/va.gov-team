@@ -2,7 +2,7 @@
 
 This group of projects ties into two separate Identity Team Objectives:
 * __O1: Improve the VA.gov authentication experience -__ User authentication is widely recognized as the most challenging experience on VA.gov today. It's high friction, full of pitfalls, confusing, slow and error prone. We must improve the experience overall by depreciating legacy credentials, eliminating unnecessary infrastructure dependencies and developing and meeting all-new service level objectives.  This Objective is supported by Executive Order 14058 ("Transforming Federal Customer Experience and Service Delivery to Rebuilt Trust in Government").
-* __O4: Empower VA.gov product teams -__ - User authentication is the front door to VA healthcare and benefits online, and VA.gov product teams depend on us to power their authenticated experiences. We must support these teams - including My HeatheVet and My VA Health (Cerner) -- and the major initiatives to move health and benefits applications over to VA.gov.
+* __O4: Empower VA.gov product teams -__  User authentication is the front door to VA healthcare and benefits online, and VA.gov product teams depend on us to power their authenticated experiences. We must support these teams - including My HeatheVet and My VA Health (Cerner) -- and the major initiatives to move health and benefits applications over to VA.gov.
 
 ## Improving Processes, Data & Communication
 This first set of projects are all about making the Identity Team shine as a platform-oriented team by focusing on three major aspects of supporting other teams:
