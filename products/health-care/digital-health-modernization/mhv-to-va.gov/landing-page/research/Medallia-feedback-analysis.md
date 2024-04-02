@@ -301,6 +301,31 @@ Other:
 ### Tasks users were trying to accomplish
 Survey question 3: what task were you trying to do today? 
 
+<table>
+  <caption><b>Tasks by date range</b></caption>
+  <tr>
+    <td></td>
+    <th scope="col">4/1/23-10/31/23</th>
+    <th scope="col">11/1/23-12/15/23</th>
+    <th scope="col">12/16/23-1/5/24</th>
+    <th scope="col">1/6/24-1/31/24</th>
+    <th scope="col">2/1/24-2/12/24</th>
+    <th scope="col">2/13/24-3/5/24</th>
+    <th scope="col">3/6/24-3/28/24</th>
+  </tr>
+  <tr>
+    <th scope="row">Total responses</th>
+    <td>93</td>
+    <td>117</td>
+    <td>25</td>
+    <td>36</td>
+    <td>14</td>
+    <td>31</td>
+    <td>21</td>
+  </tr>
+</table>table>
+  
+
 * Schedule appointment
 * View/find appointment details
 * Message or contact a provider
