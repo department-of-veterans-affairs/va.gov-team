@@ -6,7 +6,6 @@
 
 ## Intro - 5 minutes
 
-
 *Start recording.*
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
@@ -19,13 +18,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. Do you have health care through the VA?
 - [If yes: They shouldn't have been recruited, but continue with the study]
-
+> No
 |
 
 2. Do you have a disability rating with the VA? [If yes] Are you comfortable sharing what percentage your disability rating is?
+> No
 
 3. Just to verify how you'll go through the form today, is it correct that you do/do not have an identity-verified VA.gov login?
 - [Tracker should show this; just check with the participant for accuracy so you know if they'll be logging in or not]
+> Yes
 
 [Link to share in Zoom chat:] https://www.va.gov/health-care/apply/application/introduction
 
@@ -41,6 +42,9 @@ Now I'm going to put a link in the Zoom chat and would like you to open it. Let 
 
 Once you've opened the link and see a page that says "Apply for VA health care", please share your screen with me. Let me know if you need any help doing that.
 
+> Angela: It said you applied before. P3: Yes. I applied a while ago, it said here July 2025.
+>
+> P3 had a lot of things already pre-filled.
 
 ## First Task: Toxic exposure intro page review - 5 minutes
 
@@ -53,6 +57,9 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - Would you select "Yes" or "No" for this question? Why?
 - Okay for our purposes, let's select "Yes" so we can go through the questions.
 
+> "No issue, everything is straightforward"
+>
+
 
 ### Things to watch for:
 
@@ -61,9 +68,24 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [What comments, if any, do Veterans have about the term "toxic exposure"? Do they express any confusion about what qualifies as toxic exposure?]
 - [Do participants express any confusion or frustration that VA should have their service history?]
 
+
 ## Second Task: Toxic exposure questions - 15 minutes
 - Okay now you can go through the toxic exposure questions and I'd like you to think out loud as much as possible, noting if anything is confusing. You can answer honestly if you're comfortable with it because we're curious about an eligible Veteran's experence going through this form.
 - [When they get to a screen where they have to enter service dates] Do you know these dates off the top of your head? [If no:] How would you find out what they were? How long would that take you?
+
+> Cleanup or response effort. "No"
+>
+> "I didn't serve the Gult War so that is no a problem"
+>
+> Agent Orange Location, No
+>
+> Other Toxic Exposure "Is AFFF considered another toxin? I wouldn't know where to look. There is Other Toxin block. I assumed I would put it there" He checks the Other Toxin options.
+>
+> Then in the next screen I just fill out what it is.
+>
+> Sees date; "aww geeze. If it is BootCamp..its may...I was only exposed this one time during firefighting.
+>
+> It was only a day or two for training. (can't do May-May month exposure so considered May-June even though it is only a few days of exposure)
 
 ### Things to watch for:
 
@@ -88,6 +110,32 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 - [On facility selection page] How would you prefer to select your chosen facility here? Why?
 - [If they reach the review page] Okay you're at the final review page so please make sure you do not hit the blue submit button at the bottom if you don't want to submit this form for real. That would submit a real health care application to the VA. 
 
+> If I was going to apply for health care benefits, I would select yes (to household). 
+>
+> Other Income; It said it is required but I do not have any of that income so I assume I have to answer a zero. Yup, it took it.
+>
+> Veteran's Non-reimbursable; the ammount is an estimate that P3 tracks it for tax purposes. 
+>
+> Yes on Medicare and estimate the effective date. "They would have to look at the Medicare care or login to see the effective date. It is when it l"
+>
+> The Medicare number input looks stranded from the question, slightly confused P3.
+>
+> Confused about the Insurance Information, asking a similar question to the previous questionnaire, "Insurance provider is Medicare so I already filled it out on the previous screen".
+>
+> I think the Medicare comment is not needed. I'm not sure. I would select No even thought it said ask for Medicare.
+>
+> Even though the previous question asks Part A, this is confusing because P3 already filled out Medicare before.
+>
+> ACA question "I didn't understand the question until I selected the explanation"
+>
+> Preferred VA Facility, picked the closest one but was surprised to find another one nearby. 
+>
+> P3 likes the Review Page since it gives him a way to review the verbiage. 
+> 
+> The insurance selection caught his eyes again since he has both Part A and Part B. Since he filled out Part A already, he doesn't want to fill out the insurance information portion since it is the same information. 
+>
+> Under the Agreement, 3rd bullet "assignment of benefits" threw him off until he finished reading the sentence.
+
 ### Things to watch for:
 
 - [Do they open the "Learn more about enhanced eligibility status for VA health care" additional info link without being prompted?]
@@ -101,13 +149,23 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 Thanks so much for going through the form with me. I have a couple last questions before we wrap up:
 
 - What were your overall thoughts about the toxic exposure questions we went over first?
+> "Other than the concern I have about the AFFF and Other..toxin.
+>
+> Don't recall seeing "LEAD exposure and that kind of stuff"
+>
+> Very concise, other than the date issue, did not have any issue.
+
+
 - Is there anything you'd change about the whole form if you could?
+> Everything else seems good
+
 - Do you have any questions for me? 
+> Not really
 
 ## Consent to use video clips
 
 - Lastly, I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
 
-
+> Yes
 
 ##
