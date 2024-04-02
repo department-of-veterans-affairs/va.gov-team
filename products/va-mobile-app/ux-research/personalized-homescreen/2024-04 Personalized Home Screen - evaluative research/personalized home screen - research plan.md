@@ -178,9 +178,6 @@ Response options, checkbox list with text box:
 ### Prepare
 * **We would like to request a 25 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-  * **If build is ready 4/9:**  
-    * Tue, April 9 anytime between 10am-6pm EST
-    * Wed, April 10 10-11:30am and 2-6pm EST
   * **If build is ready 4/23:**
     * Tue, April 23 anytime between 10am-6pm EST
     * Wed, April 24 10-11:30am and 2-6pm EST
@@ -204,18 +201,6 @@ If release build is ready 4/23: **May 6-16**
 
 
 ### Availability
-* **If build is ready 4/9:**
-  * Non-screenreader users
-     * Mon 4/22: 10:30am-6pm EST/9:30am-5pm CST 
-     * Tue 4/23: 10am-6pm EST/9am-5pm CST
-     * Wed 4/24: 10am-6pm EST/9am-5pm CST
-     * Thu 4/25: 10:30am-6pm EST/9:30am-5pm CST
-     * Mon 4/29: 10:30am-6pm EST/9:30am-5pm CST
-     * (if needed) Tue 4/30: 10am-6pm EST/9am-5pm CST
-  * Screenreader users
-     * Wed 5/1: 10am-6pm EST/9am-5pm CST
-     * Thu 5/2: 10:30am-6pm EST/9:30am-5pm CST
-
 * **If build is ready 4/23:**
   * Non-screenreader users
      * Mon 5/6: 10:30am-6pm EST/9:30am-5pm CST 
