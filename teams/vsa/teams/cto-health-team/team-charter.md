@@ -30,12 +30,12 @@ Team Name - Cartographers
 - [ ] Wes Rowe (Product Manager)
 - [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
-- [ ] Vacant (Designer)
+- [ ] Kat Brinkley (Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Jim Zaccardo (Full stack developer)
 - [ ] Richard Davis (Full stack developer)
 - [ ] Daniel Cloud (Full stack developer)
-- [ ] Dan Bivins (Accessibilty Specialist)
+- [ ] Vacant (Accessibilty Specialist)
 - [ ] Sara Sterkenberg (Information Architect)
 
 ---
