@@ -20,6 +20,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. Do you have health care through the VA?
 - [If yes: They shouldn't have been recruited, but continue with the study]
 
+|
+
 2. Do you have a disability rating with the VA? [If yes] Are you comfortable sharing what percentage your disability rating is?
 
 3. Just to verify how you'll go through the form today, is it correct that you do/do not have an identity-verified VA.gov login?
