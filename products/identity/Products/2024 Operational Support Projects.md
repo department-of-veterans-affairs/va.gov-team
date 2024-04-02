@@ -1,4 +1,4 @@
-## 2024 Operational Support Projects
+# 2024 Operational Support Projects
 
 This first set of projects are all about making the Identity Team shine as a platform-oriented team by focusing on three major aspects of supporting other teams:
 - Processes: developing processes for how we service and support Veterans who are logging into the site and va.gov teams who need help in the identity team.
