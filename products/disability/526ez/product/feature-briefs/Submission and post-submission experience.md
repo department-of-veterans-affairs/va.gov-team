@@ -37,7 +37,7 @@ This initiative focuses on all paths for the submission and post submission expe
 - Lighthouse /submit endpoint migration
 - Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
 - Post-submission confirmation email and message on confirmation page
-- Outline of information and list of documents submitted
+- Outline of information and list of documents submitted (note [concern about filenames potentially containing PII](https://dsva.slack.com/archives/C04KW0B46N5/p1712088148463829?thread_ts=1711557666.821949&cid=C04KW0B46N5)) 
 - Reevaluating how the 526 introduces the Claim Status Tool and connects Veterans to it
 - Avoid duplicates (rethink when we clear the in-progress form)
 - Completion of migration of /submit endpoint to Lighthouse
@@ -46,6 +46,7 @@ This initiative focuses on all paths for the submission and post submission expe
 # Out of Scope
 
 - Notification of core 526 submission failures and file upload failures
+- Any of the touchpoints in the lifecycle of the claim beyond when the claim is established in VBMS and all initial documents are successfully uploaded
 - PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
 - Given that the Claim Status Tool is not managed by our team, any improvements across products will need to happen in collaboration
 - Note that Team 2 is doing work on addressing small and important issues in the non-happy submission paths, and we will need coordinate with them on future-facing work.
