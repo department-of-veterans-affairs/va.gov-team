@@ -62,6 +62,7 @@ Spanning both surveys
     <td>31</td>
     <td>14</td>
     <td>27</td>
+    <td>16</td>
   </tr>
   <tr>
     <th scope="row">Mobile users</th>
@@ -71,6 +72,7 @@ Spanning both surveys
     <td>4</td>
     <td>0</td>
     <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <th scope="row">Tablet users</th>
@@ -78,6 +80,7 @@ Spanning both surveys
     <td>3</td>
     <td>0</td>
     <td>1</td>
+    <td>0</td>
     <td>0</td>
     <td>0</td>
   </tr>
