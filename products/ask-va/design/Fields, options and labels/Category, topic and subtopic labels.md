@@ -1,6 +1,6 @@
 # List of category, topic and subtopic labels
 
-Last updated by @tygindraux: October 17, 2023
+Last updated by @tygindraux: April 2, 2024
 
 This list has been discussed and agreed upon by all business lines ([review list of stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/List%20of%20stakeholders%20by%20category.md)) and Laura Willwerth, Managing Editor of Sitewide Content (CAIA) for VA.gov.
 
@@ -33,34 +33,33 @@ Categories are listed in order of `rank field`. This means that the most used ca
 
 ## Education benefits and work study
 
-Topics are listed in `alphabetical` order.
+Topics are listed in `alphabetical` order which is how they will appear for submitters.
 
 `Category`: Education benefits and work study
 
 |Label type|Current name (ask.va.gov)|Updated name (VA.gov/contact-us/ask-va)|
 |:--|:--|:--|
-|`Topic`|Colmery Section 110|Transferring benefits after a death|
-|`Topic`|Compliance Surveys|Compliance surveys|
-|`Topic`|On-The-Job Training (OJT) / Apprenticeship|On-the-job training and apprenticeships|
-|`Topic`|Post-9/11 GI Bill|Post-9/11 GI Bill|
-|`Topic`|School Officials ONLY|School Certifying Officials (SCOs)|
 |`Topic`|Survivors & Dependents|Benefits for survivors and dependents|
-|`Topic`|Transfer of Benefits to Dependents (TEB)|Transferred education benefits for family members|
-|`Topic`|Tuition Assistance Top-Up|Tuition Assistance Top-Up|
-|`Topic`|WAVE|Web Automated Verification of Enrollment (WAVE)|
-|`Topic`|Work Study|Work study|
+|`Topic`|(New)|Request Certificate of Eligibility (COE) or Statement of Benefits|
+|`Topic`|Compliance Surveys|Compliance surveys|
 |`Topic`|Counseling|Educational and career counseling|
+|`Topic`|(New)|Licensing and testing fees|
 |`Topic`|MGIB - Active Duty (Ch 30)|Montgomery GI Bill Active Duty (Chapter 30)|
 |`Topic`|MGIB - Selected Reserve (Ch 1606)|Montgomery GI Bill Selected Reserve (Chapter 1606)|
+|`Topic`|On-The-Job Training (OJT) / Apprenticeship|On-the-job training and apprenticeships|
+|`Topic`|Post-9/11 GI Bill|Post-9/11 GI Bill (Chapter 33)|
 |`Topic`|Reserve Ed Asst Prog (Ch 1607) (REAP)|Reserve Educational Assistance Program (Chapter 1607)|
-|`Topic`|VEAP (Ch 32)|Veterans’ Educational Assistance Program (Chapter 32)|
-|`Topic`|(New)|Veteran Readiness and Employment (Chapter 31)|
+|`Topic`|School Officials ONLY|School Certifying Officials (SCOs)|
+|`Topic`|Colmery Section 110|Transferring benefits after a death|
+|`Topic`|Transfer of Benefits to Dependents (TEB)|Transferring education benefits for family members|
+|`Topic`|Tuition Assistance Top-Up|Tuition Assistance Top-Up|
 |`Topic`|(New)|Verify school enrollment|
-|`Topic`|(New)|Request Certificate of Eligibility (COE) or Statement of Benefits|
-|`Topic`|(New)|Licensing and testing fees|
-|`Topic`|(New)|Upload documents|
+|`Topic`|(New)|Veteran Readiness and Employment (Chapter 31)|
+|`Topic`|VEAP (Ch 32)|Veterans’ Educational Assistance Program (Chapter 32)|
+|`Topic`|WAVE|Web Automated Verification of Enrollment (WAVE)|
+|`Topic`|Work Study|Work study|
 
-Subtopics are listed in `alphabetical` order.
+Subtopics are listed in `alphabetical` order which is how they will appear for submitters.
 
 `Topic`: Work study
 
