@@ -114,7 +114,7 @@ Spanning both surveys
     <td>21</td>
     <td>12</td>
     <td>20</td>
-    <td>21</td>
+    <td>10</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
@@ -207,6 +207,8 @@ Other:
     <td>15</td>
     <td>1</td>
     <td>11</td>
+    <td>11</td>
+    
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
@@ -215,7 +217,8 @@ Other:
     <td>9%</td>
     <td>13%</td>
     <td>0%</td>
-     <td>10%</td>
+    <td>10%</td>
+    <td>18%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -224,7 +227,8 @@ Other:
     <td>9 users</td>
     <td>9 users</td>
     <td>1 user</td>
-    <td>8 user</td>
+    <td>8 users</td>
+    <td>3 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
@@ -234,6 +238,7 @@ Other:
     <td>2 users</td>
     <td>none</td>
     <td>1 user</td>
+    <td>3 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
@@ -243,6 +248,7 @@ Other:
     <td>2 users</td>
     <td>none</td>
     <td>1 user</td>
+    <td>2 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
@@ -252,6 +258,7 @@ Other:
     <td>1 user</td>
     <td>none</td>
     <td>none</td>
+    <td>2 users</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
@@ -261,6 +268,7 @@ Other:
     <td>1 user</td>
     <td>none</td>
     <td>1 user</td>
+    <td>none</td>
   </tr>
   <tr>
     <th scope="row">Could user complete their task?</th>
@@ -284,6 +292,9 @@ Other:
     <td>
       <li> No (10 users / 90%)</li>
       <li>Yes (1 users / 10%)</li></td>
+    <td>
+      <li> No (7 users / 70%)</li>
+      <li>Yes (3 users / 30%)</li></td>
   </tr>
 </table>
 
