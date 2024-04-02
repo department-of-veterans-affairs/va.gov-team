@@ -5,7 +5,7 @@ This meeting is to discuss and address any dependencies between the VA Mobile Sh
 * **Q2 Planning**
    * Look at Next columns for teams
 * **Updating Epic cards (Kelly)**
-   * Epic Template review
+   * Epic Template review [Slack link](https://adhoc.slack.com/archives/C05S1S1MQ3G/p1711737772078459)
 * **Design System Team Feedback Survey (Kelly)**
    * [Survey Link](https://forms.gle/3aDLgTbdK3m2koQy6)
 
