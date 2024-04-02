@@ -78,9 +78,9 @@ _The 5-10 top findings from your study should be listed here. Write your finding
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators. 
 
-2. Finding two
+2. Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events. 
 
 3. Finding three
 
