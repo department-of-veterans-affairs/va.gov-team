@@ -1,4 +1,4 @@
-# Research Plan for Health Questionnaire, Clinical Reminders Pilot - Staff Interviews, November 2023
+# 2023-11 Research Plan for Health Questionnaire, Clinical Reminders Pilot - Staff Interviews: Phase 1a
 
 [2023-11 Health Questionnaire, Clinical Reminders Pilot - Staff Interviews, November 2023 #504](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/504)
 
