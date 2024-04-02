@@ -1,7 +1,7 @@
 # Background
 This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of successful submissions and keep track of their claims. 
 
-This initiative focuses on the experience of submission and after submission of a disability benefits claim, across all channels.  
+This initiative focuses on the experience of submission and after submission of a disability benefits claim, across all channels. The scope of this is starting at the point of submission and ending when the claim is established in VBMS (and maybe when all initial doc uploads succeed - need [clarification](https://dsva.slack.com/archives/C053UDWMH7U/p1712088299650159?thread_ts=1711719139.052369&cid=C053UDWMH7U)).   
 
 # Problem or Opportunity
 1. In current state, Veterans face frustration and lack of confidence/trust in the VA in handling their claims when they do not get a consistently reliable acknowledgement of the outcome of their claim submission on VA.gov. If the claim is successfully submitted within 30 seconds, they are shown their Claim ID on the screen. In other cases, they are either directed to Claim Status tool or may not get any indication of success or failure of the submission.
