@@ -1,5 +1,21 @@
 # Design Weekly Sync Agenda
 
+## 2024-04-01
+Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
+
+**REGISTRATION:**
+- Jessica presents the MVP options.
+- Kristen suggests going with Option A (PDF) and seeing if Option B (Short Form, Registration VES status) is even worth it. 
+- Angela suggested the possibility of calling in since it would be easier and faster for the Veterans. Kristen noted that we would have to touch base with HEC since it would be staff-impacted.
+- Angela wants to clarify rolling the PDF before the Enrollment System is ready. Kristen confirms. 
+- Decision: going with Option A, implementing ASAP but need to check with HEC first (need some wireframe). We’ll need to investigate Option B
+
+**EZR V2**
+- Hieu presents the two strongest possible Confirmation and CYOA options.
+- Kristen asked if both flows could work in conjunction. Hieu notes that the CYOA does not add additional value since the Veteran still has to go back and review other sections so technically the Confirmation is a stronger choice.
+- Kristen recommends looking into the UK.gov Task to further develop the CYOA flow.
+- Katelyn wonders if there is a variation for CYOA Option A - Question, where there is a checkmark selection. This would be looking into a future where the Veteran does not have to review all sections/information.
+
 
 ## 2024-03-18
 Attendees: Angela, Katelyn, Jessica, & Kristen.
