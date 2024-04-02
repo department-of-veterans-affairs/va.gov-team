@@ -131,6 +131,52 @@ Things we can measure
       - Is there any regular upkeep?
       - How often does Auth Exp team look in on it?
      
+## Unauthorized access (potentially fraud related)calls to VA Call Center (6/23 - 3/24)
+- Unauth attempt may have been made, caller had PoA but unable to access
+- caller got emails about signing up for VA services they didn't, and aren't a veteran
+- veteran getting an MFA code when not signing in
+- IDme account was hacked - has different email associated with it now
+- reporting hacked account - now locked out after direct dep info was changed the night before
+- Direct Dep info was changed
+- calling about unauth direct deposit change made, he's not able to change it back
+- caller wants to close all online acount after being hacked
+- veteran thinks his exwife has been changing info on account wants a way to lock her out
+- wanted to freeze account after getting a fraud notification
+- caller said account was hacked, not able to get in
+- caller reporting compromised account with fraud activity
+- caregiver reported online account opened in veteran's name was unauth
+- veteran needs access to his account that was still locked after reporting fraudulent activity months ago
+- bank account info was changed on account then password was changed
+- suspicious email address on account
+- "alleged security breach"
+- reporting ID theft that also led to unauth VA account access
+- caller reporting hacked account and wants it locked, unable to sign in
+- call about account being suspended, believes he was hacked
+- caller got sms from LIG that someone was using his phone number to cancel his account
+- direct deposit info was changed. They changed it back
+- veteran notified of direct dep change they didn't make, the bank account # is not his
+- former caregiver set up account in veteran's name and not auth to do so
+- elder veteran being exploited and locked out of his account
+- caller had ID theft and reporting it
+- veteran is locked out of account after unath direct dep info was changed
+- veteran wife called about veteran exwife unauth accessing account
+- caller (wife) locked account trying to access unsuccessfully, needed help to get in
+- non-veteran called in that his info is being used on a VA account - it sounds like caller thought it was innocent mistake, but still noting it here
+- caller reported an email to their .mil (sounds like it was a phishing email)
+- caller says her veteran has an account they didn't make - fraud
+- had placed a fraud lock on their account months ago and they were trying to remove
+- veterans info changed that was on file with their local VA
+- calling about email notification that their profile info was changed, this is be an anauth change
+- wanted to delete online account after being compormised
+- wants all signin accounts (CSPs?) reset due to a hacking incident
+- veterans name in system doesn't match with actual ID info
+- calling in a issue with identity theft
+- veteran got notification of intent to file for disability claim she didn't make
+- was a change in direct deposit on file and now wants account locked
+- Privacy Officer called on behalf of veteran who's info was changed in the system
+- veteran believes they were hacked after getting an email about direct dep change
+- bank account info was changed - unauth
+     
 ## Next Steps
 - Device Fingerprinting
 - Who owns the notification piece?
