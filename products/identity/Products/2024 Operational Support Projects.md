@@ -22,7 +22,7 @@ This first set of projects are all about making the Identity Team shine as a pla
 
 
 
-This next set of projects is the Identity Team helping other VA.gov teams or supporting larger VA initiatives that touch the Identity space.
+This next set of projects reflect anticipated cases of the Identity Team supporting other VA.gov teams and/or supporting larger VA initiatives that touch the Identity space.
 
 | Project Name          | What is It?       | Why Are We Doing It? | PM |
 | :------------- |:------------- | :----- | :----- |
