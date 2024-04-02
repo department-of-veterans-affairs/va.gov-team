@@ -79,7 +79,7 @@ Once you've opened the link and see a page that says "Apply for VA health care",
 >
 > Agent Orange Location, No
 >
-> Other Toxic Exposure "Is AFFF considered another toxin? I wouldn't know where to look. There is Other Toxin block. I assumed I would put it there" He checks the Other Toxin options.
+> Other Toxic Exposure "Is AFFF considered another toxin? I wouldn't know where to look. There is Other Toxic block. I assumed I would put it there" He checks the Other Toxin options.
 >
 > Then in the next screen I just fill out what it is.
 >
