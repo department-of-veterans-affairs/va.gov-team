@@ -8,10 +8,10 @@ The Appointments FE team will work on creating a DataDog RUM dashboard for the a
 
 ## Prelimary work (tasks): 
 
-- [ ] Development will need to create a Platform support ticket to get write access DataDog RUM (if needed). For view mode users, a [Okta ticket](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog) will need to be created for read access only. 
-- [ ] Setup DataDog dashboard (Platform support/VFS team) 
+- [X] Developer will need to create a Platform support ticket to get write access DataDog RUM (if needed). For view mode users, a [Okta ticket](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog) will need to be created for read access only. 
+- [X] Setup DataDog dashboard (FE engineer) 
 - [ ] Setting up the composite dashboard (Ticket #)  
-- [ ] Product will collect app user data (weekly and monthly - how many Veterans use the app/submission) / OCTO admin ? [See details in ticket #]() 
+- [X] Product will collect app user data (weekly and monthly - how many Veterans use the app/submission) / OCTO admin ? [See details in ticket #]() 
 - [ ] Parameters will be defined by the team. Cannot use Patient ICN since it is PII Sample below.  
       - [ ] Region/user location
       - [ ] Appointment ID
