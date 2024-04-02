@@ -60,7 +60,7 @@ Also, there are a few things that I want to go over with you:
 
 Let’s start with a few questions... 
 
-- What medical equipments have you been prescribed? (If they have prescribed equipments/supplies, use the same for the task below.) 
+- What medical equipments have you been prescribed? 
 - Have you ordered accessories for your medical equipment online before? If yes, how was your last experience? If no, move on to the next question.
 
 Great, thank you for sharing all that with me! 
@@ -87,9 +87,35 @@ A reminder: This is a prototype. It looks like the real website, but doesn't fun
 
 ## Interview - 20 minutes 
 
+**Show each participant all 3 design options, and route the order you show the options**
+
+Next, I will give an activity that you may do in your real life, then I will ask you to use 3 different prototypes to do the activity. While you use the prototypes, I would like to hear your thoughts and observe your reactions for each prototype. 
+
 **_Task: Order a mask strap for CPAP._** You need to order a mask strap for your CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
+- Observe what they do first:
+   - If they scroll up and down, ask "What are you thinkng as you...?"
+ 
+- Questions for Option 1:
+   - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
+   - If they click and get to medications, ask "What did you click...?"
+   - If they click on any links for medical supplies, ask "What do you think will happen when you click...?"
+   - On "Medical supplies" page, ask:
+        - What is this page, OR what's the purpose of this page?
+        - What do you like and dislike about this page?
+        - What would you do from here to order a mask strap for your CPAP?
+   - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+  
+- Questions for Option 2:
+   - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
+   - 
+  
+- Questions for Option 3:
 
+
+- Questions after showing all 3 options:
+
+   - 
 
  
 
