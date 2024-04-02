@@ -130,7 +130,7 @@ _Links to Google Analytics and DOMO dashboards TBD_
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/94794ab9-5851-4230-abe1-c03165716719)
 
 
-### 1-Month Results (3/11-4/20)
+### 1-Month Results (3/11-4/13)
 
 1. Errors in Sentry:
 3. User reports of outdated information:
