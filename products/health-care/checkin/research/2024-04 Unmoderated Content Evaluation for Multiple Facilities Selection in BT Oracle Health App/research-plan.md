@@ -121,17 +121,10 @@ The tests will be conducted online at the participant’s leisure.
 - At least 10 people who live in a rural or remote area
 
 ## Timeline
-### Prepare
 
 ### Pilot session
-N/A
-
-### Research sessions
-N/A
-
-### Length of sessions
-N/A
+TBD
 
 ## Team Roles
-TBD
+Christina Gednalske (christina.gednalske@adhocteam.us) and Ben Brasso (ben.brasso@agile6.com) will serve as primary researcher and project point of contact for this project.
 
