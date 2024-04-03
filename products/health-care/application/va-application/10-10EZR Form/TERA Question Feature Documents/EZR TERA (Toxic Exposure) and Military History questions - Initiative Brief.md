@@ -46,7 +46,7 @@ Initiative Brief for adding TERA and Military History questions to the online 10
 ## Undesired Business Outcomes
 - Veterans feel burdened or overwhelmed by the questions and input fields and provide inaccurate information 
 - Veterans feel burdened or overwhelmed by the questions and input fields and do not complete the EZR
-- Not every Veteran who was in a Toxic Exposure answers the TERA questions
+- Not every Veteran who was in a Toxic Exposure situation answers the TERA questions
 
 ---
 ## Measuring Success
@@ -68,11 +68,11 @@ Data source - [Domo Dashboard]
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Veterans answer Yes to Cleanup or Response |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to Service in Gulf War |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to Combat Operations |N/A| TBD | TBD | TBD |
-|Veterans answer Yes to Agent Orange |N/A| TBD | TBD | TBD |
-|Total Veterans that provided an answer to at least one question |N/A| TBD| TBD | TBD |
+|Veterans answer Yes to Cleanup or Response |N/A| 10% | TBD | TBD |
+|Veterans answer Yes to Service in Gulf War |N/A| 10% | TBD | TBD |
+|Veterans answer Yes to Combat Operations |N/A| 70% | TBD | TBD |
+|Veterans answer Yes to Agent Orange |N/A| 10% | TBD | TBD |
+|Total Veterans that provided an answer to at least one question |N/A| 75%| TBD | TBD |
 
 #### **Key Result #4:** 50% of Veterans who apply for VA health care now qualify for Priority Group 6 with TERA criteria, who previously had a lower Priority Group 
 
