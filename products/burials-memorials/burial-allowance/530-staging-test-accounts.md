@@ -7,9 +7,11 @@
 ## All Login Information
 | Email                         |
 | ----------------------------- |
-| vets.gov.user+229@gmail.com   |
-| vets.gov.user+128@gmail.com   |
-| vets.gov.user+80@gmail.com   |
+| `vets.gov.user+229@gmail.com`   |
+| `vets.gov.user+128@gmail.com`   |
+| `vets.gov.user+80@gmail.com`   |
+
+[All user credentials](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/burials/530-staging-test-accounts.md)
 
 ## Staging User 80
 - Acts as an exmple of a Veteran w/ a form in progress. When logged in with this user, the V1 form is visible.
