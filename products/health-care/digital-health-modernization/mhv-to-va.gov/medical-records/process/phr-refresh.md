@@ -64,6 +64,7 @@ sequenceDiagram
         end
     else PHR Refresh Complete
         PHR->>FHIR: Populate FHIR DB
+	VW->>VA: GET /status
         VA->>MHVAPI: GET /status
         MHVAPI->>PHR:  is refresh complete? 
         MHVAPI->>VA: return 200 
