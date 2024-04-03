@@ -74,10 +74,17 @@ Data source - [Domo Dashboard]
 |Veterans answer Yes to Agent Orange |N/A| 10% | TBD | TBD |
 |Total Veterans that provided an answer to at least one question |N/A| 75%| TBD | TBD |
 
-#### **Key Result #4:** 50% of Veterans who apply for VA health care now qualify for Priority Group 6 with TERA criteria, who previously had a lower Priority Group 
+#### **Key Result #4:** 25% of Veterans who apply for VA health care now qualify for Priority Group 6 with TERA criteria, who previously had a lower Priority Group 
+
+| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------------- |-------------- |-------------- |
+|Previously Enrolled Veterans with highed PG |N/A| 25% | TBD | TBD |
 
 #### **Key Result #5:** 50% of Veterans who previously applied for VA health care and were ineligible are now eligible for VA health care.
 
+| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
+|------------- |---------|-------------- |-------------- |-------------- |
+|Previously denied Veterans now eligible for health care |N/A| 50% | TBD | TBD |
 
 ---
 
