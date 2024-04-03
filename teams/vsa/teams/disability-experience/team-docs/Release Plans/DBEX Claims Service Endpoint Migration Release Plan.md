@@ -243,6 +243,12 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
             - [x] Has the issue been resolved?
                 - Data appeared skewed due to the duplicate submission surge, no issues. Due to this rollback, a small amount of EVSS activity will appear on 2/5 until 12:48 pm ET
 
+    -     Rollback reason: EE team request until the end of the week, also addressing some spikes in potential noise
+            Date: 4/2/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
+
 <br>
 
 
