@@ -104,8 +104,8 @@ For moderated usability tests:
 
 
 
-* [[Link to conversation guide]]()
-* [[Link to prototype]]()
+* [[Link to conversation guide]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Conversation%20Guide.md)
+* [[Link to prototype]](https://staging.va.gov/ivc-champva/10-10D/introduction)
 
 
 ### Recruitment approach
@@ -195,14 +195,14 @@ AT Users:
 
 
 * Pilot participant email: Annie.Callahan@va.gov
-* Date and time of pilot session: March (TBD)
+* Date and time of pilot session: Week of April 8th-12th
 
 
 ### Research sessions
 
 
 
-* Planned dates of research:
+* Planned dates of research: April 15th - May 3rd
 
 
 ### Length of sessions
