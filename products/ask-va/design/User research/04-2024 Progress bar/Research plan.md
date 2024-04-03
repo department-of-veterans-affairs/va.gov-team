@@ -44,15 +44,17 @@ This research will help us determine if and how we need to improve the design an
 
 ### Research questions
 
-Compare whether it’s more effective to describe percentage complete or not describe progress at all
-* Do submitters notice the progress bar? Alternatively, do they notice when it's missing?
-* Is the new progress bar effective and necessary?
+Compare whether it’s more effective to describe percentage complete or not describe progress at all:
+* Do submitters notice the progress indicator?
+* Is this progress indicator effective in describing how far along you are and how much is left?
+* Do submitters notice when there's no progress indicator?
+* In both scenarios, are submitters missing information (sections, chapters, etc.) to orient them?
 
-Review whether submitters are clear on when to use Ask VA and how to start
+Review whether submitters are clear on when to use Ask VA and how to start:
 * Can submitters successfully start a new question from the authenticated dashboard?
 * Do submitters understand not to use Ask VA in emergencies?
 
-Review whether submitters understand when to sign in or not
+Review whether submitters understand when to sign in or not:
 * Is it clear when you need to sign in and why?
 * If submitters are interrupted to sign in, do they understand why and what to do?
 
@@ -62,23 +64,13 @@ Review whether submitters understand when to sign in or not
 
 ## Methodology
 
-This will be a moderated usability study conducted remotely over Zoom. We will use a Figma prototype with limited interactivity.
+This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
 
-We will test the following steps:
-* Unauthenticated home page
-* (Option to) Sign in
-* Start a question from your dashboard
-* Category and topic
-* (If they didn't already) Please sign in alert
-* Who is your question about
-* Your relationship to the Veteran
-* School information (personal)
-* Your question
-* Tell us about yourself
-* Your contact information
-* Reason you contacted us
-* Review and submit
-* Confirmation page
+In half of the sessions, participants will use a prototype that includes a **new** progress indicator design. In the other half, participants will use a prototype that **does not include** any progress indicator. We plan to compare both approaches.
+
+We will present a scenario where the submitter has a question about their education benefits.
+
+Rather than guiding them, we will let submitters choose whether to sign in or not. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
 
 ### Research materials
 
