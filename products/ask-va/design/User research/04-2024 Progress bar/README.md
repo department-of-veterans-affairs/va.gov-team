@@ -14,7 +14,7 @@ We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy
 * Review whether submitters understand when to sign in or not
 
 ## Recruitment
-We will work with Perigean to recruit Veterans for this research.
+We will work with Perigean to recruit Veterans for this research. We will also recruit at least 'business' users through the GI Bill team.
 
 ## Date
 This research will take place in April 2024.
