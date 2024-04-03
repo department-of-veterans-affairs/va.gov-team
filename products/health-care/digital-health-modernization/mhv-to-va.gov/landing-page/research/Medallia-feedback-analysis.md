@@ -341,7 +341,8 @@ Use this table moving forward for both sources of data.
      <li>"I was not able to make appt with primary provider"</li>
     </td>
   </tr>
-
+ <td></td>
+</table>
 
 
 <br>
@@ -377,6 +378,9 @@ Use this table moving forward for both sources of data.
 
 --
 **Below tables are now defunct - keeping for sake of posterity. Use the table just above "Problems users faced" for list of problems, counts of users, and quotes from both data sources.** 
+
+
+
 <table>
   <caption><b>Problems encountered by users: No longer using (ended use March 2024)</b></caption>
   <tr>
