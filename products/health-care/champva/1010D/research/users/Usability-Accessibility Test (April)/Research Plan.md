@@ -115,13 +115,13 @@ Our intended audience for this research is Veterans and Dependents who have appl
 
 ### Recruitment criteria
 
-We would like to work with Perigean to recruit for 9 total sessions.
+We would like to work with Perigean to recruit for 20 sessions in total.
 
 User groups:
 
-Cohort 1: At least 3(of 9) Veterans
+Cohort 1: At least 6(of 20) Veterans
 
-Cohort 2: At least 5(of 9) spouses, or children of Veterans
+Cohort 2: At least 10(of 20) spouses, or children of Veterans
 
 Cohort 3: The remaining participants may belong to either user group
 
@@ -129,7 +129,8 @@ Demographics:
 
 At least 4 users on Mobile devices \
 At least 4 users on Desktop/Laptop devices \
-At least 4 participants aged 55-64+
+At least 4 participants aged 55-64+ \
+At least 5 AT (Screen reader or magnifier users)
 
 At least 4 participants have a cognitive disability
 
@@ -169,7 +170,7 @@ Cohort 1:
 
 
 1. CHAMPVA is a medical cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare. Have you previously applied for CHAMPVAbenefits for yourself or someone else? [Yes to qualify]
-2. Are you a Veteran?
+2. Are you a Veteran? [Yes to qualify]
 
 Cohort 2:
 
@@ -184,6 +185,9 @@ Cohort 3:
 
 1. CHAMPVA is a medical cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare. Have you previously applied for CHAMPVA benefits for yourself or someone else? [Yes to qualify]
 2. Are you a Spouse or Child of a Veteran, or a Veteran yourself? [Yes to qualify]
+
+AT Users:
+1. How often do you use AT (Assistive Technology)? [Every time I use my device] [Daily] [A few times a week] [A few times a month] [Every time I use my device or Daily to qualify]
 
 
 ### Prepare
