@@ -100,7 +100,8 @@ ________________________________________________________________________________
            - Some work completed in previous sprints, need to determine what's left
         - 🟦 [[BE] Implement VAOS Appointment Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
-        - 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)   
+        - 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
+        - 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
