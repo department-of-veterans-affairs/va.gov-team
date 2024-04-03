@@ -5,7 +5,7 @@ If any of the following scenarios occurs, the team will send an email informing 
 - Maintenance window for eCheck-in has been triggered in Production
 - Maintenance window for Pre-Check-in has been triggered in Production
 - Maintenance window for stand-alone Travel has been triggered in Production
-- Disabled feature flag (case by case basis)
+- Disabled feature flag (case by case basis) (e.g. travel is disabled but rest of check in works)
 - VeText support for eCheck-in has been disabled
 - VeText support for Pre-Check-in has been disabled
 - VeText support for stand-alone Travel has been disabled
