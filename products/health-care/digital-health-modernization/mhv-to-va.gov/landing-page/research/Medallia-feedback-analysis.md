@@ -324,23 +324,22 @@ Use this table moving forward for both sources of data.
 <table>
   <caption><b>Problems users faced: Started March 2024</b></caption>
   <tr>
-    <td>
     <th scope="col">Problems (topic and number of users)</th>
-    </td>
-  <td>
     <th scope="col">Quotes</th>
-  </td>
+    <th scope="col">Notes</th>
   </tr>
   <tr>
     <th scope="row">3/6/24-3/28/24</th>
-    <td></td>
+    <td>
       <li>Missing context or explanation</li>
       <li>Login issues</li>
       <li>Tool-specific</li>
-    <td></td>
+    </td>
+    <td>
      <li>Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."</li>
      <li>"I want to re-order my meds but it won't let me into the site" and "Kept going in and out of logins. Never could get to right place."</li>
      <li>"I was not able to make appt with primary provider"</li>
+    </td>
   </tr>
 
 
