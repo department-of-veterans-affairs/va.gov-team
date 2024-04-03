@@ -1,6 +1,6 @@
 ---
 name: "Analytics - UA Reports Invetory" 
-about: "To aid witht he GA4 migration, we need to capture all reports using GA data" 
+about: "To aid with the GA4 migration, we need to capture all reports using GA data" 
 title: "Reports Powered by UA: [Team Name]"
 labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
 assignees: johnny-jesensky-adhoc
