@@ -49,16 +49,29 @@ Note: Below is just some pseudo code to get whats in my brain on paper.
       "status": "processed"
     }
     ```
+ b. Define a callback endpoint (ex: config/routes.rb):
+    Rails.application.routes.draw do
+    post '/status_updates', to: 'status_updates#receive' 
+    # ... existing routes
+end
+4. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://va.gov/ivc-pega-updates
 5. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
     ```
     class FormsController < ApplicationController
       before_action :authenticate_request
     
-      def process
-        # Your processing logic here
-        # Maybe send VANotify Email
-        render json: { status: 'processed' }, status: :ok
+    def receive
+      request_id = params[:request_id]
+      status = params[:status]
+
+      status_request = StatusRequest.find_by(request_id: request_id)
+      if status_request
+        status_request.update(status: status)
+        render json: { message: 'Status updated successfully' }, status: :ok
+      else
+        render json: { error: 'Status request not found' }, status: :not_found
       end
+   end
     
       private
     
