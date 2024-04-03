@@ -70,7 +70,7 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- Pre-Check-in: Handle 4 Modalities **NOTE: We need to vewrify with Kay that we have the greenlight to release this**
+- NONE
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
