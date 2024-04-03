@@ -114,7 +114,7 @@ ________________________________________________________________________________
     - 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
     - 🟩 [Remove Un-used Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79391)
     - **Sub Goal: DevOps Improvements**
-        - 🟨 [[DevOps] Enable GHA ecosystem updates for CHIP repository].(https://github.com/department-of-veterans-affairs/va.gov-team/issues/79778)
+        - 🟨 [[DevOps] Enable GHA ecosystem updates for CHIP repository](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79778)
         - 🟨 [[DevOps] Pin GHA versions in CHIP repository GHA workflows ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79780)
         - 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
         - 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
