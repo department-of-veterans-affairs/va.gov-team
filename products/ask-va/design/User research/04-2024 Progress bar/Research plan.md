@@ -114,7 +114,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |At least 4|Identify as Black, Hispanic, Asian or Native|
 |At least 2|Identify as a gender other than male|
 |At least 2|Identify as LGBTQ+|
-|At least 2|Use screen magnification, like, ZoomText, ZoomText Fusion, Magnifier (Windows), Zoom (Apple)|
+|At least 2|Use screen magnification, like, ZoomText, ZoomText Fusion, Magnifier (Windows), Zoom (Apple) that does not require code to work|
 
 ### Screener questions
 
