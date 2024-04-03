@@ -162,7 +162,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟩 [[FE] - Returning user with a good session skips loading page](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78753)
         - ✔️ ❗ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75062)
         - ✔️ ❗ 🟩 [[CHIP] - Finalize all CHIP documentation for travel-app ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76260)
-        - ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+        - 🚧 ❗ 🟩 [[CHIP] - Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
           - pulled in in the middle of the sprint
         - ✔️ ❗ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75061)
         - ✔️ ❗ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75060)
@@ -177,16 +177,16 @@ ________________________________________________________________________________
     - **Sub Goals: Submit Q1 Translations to the State Department**
         - ✔️ 🟪 [[UX] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61435)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
-       - 🟥 [[UX] Add documentation in Git for how/where to pull quarterly metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79314)
+       - 🚧 🟥 [[UX] Add documentation in Git for how/where to pull quarterly metrics](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/79314)
            - Pulled in 3/26
        - ✔️ 🟥 [Research] Analyze GA Metrics
        - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76035)
            - Rolled over from last sprint
 - **GOAL: Address Tech Debt**
     - Added on 3/29 for BE
-        - 🟦 [Remove feature flag: check_in_experience_45_minute_reminder ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79630)
+        - ✔️ 🟦 [Remove feature flag: check_in_experience_45_minute_reminder ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79630)
         - ✔️ 🟦 [Remove feature flag: check_in_experience_travel_claim_increase_timeout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79628)
-    - 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+    - 🚧 🟩 [[CHIP] Update AWS lambdas from node 14](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
         - Pulled in halfway through sprint (3/26)
     - ✔️ 🟩 [[FE][BUG] - issues with scheduling tool on dev](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78210)
     - ✔️ 🟩 [[FE] Add back to last screen on /contact-information](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/78803)
@@ -194,10 +194,10 @@ ________________________________________________________________________________
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - ✔️ 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77712)  
     - **Sub Goal: Move to New AWS Instance**
-        - 🚧 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
+        - ⛔ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: DevOps Improvements**
-        - 🚧 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
-        - 🚧 🟨 [[DevOps] Document the ePAS/AWS access process for CIE. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78661)
+        - ⛔ 🟨 [[DevOps] Discovery on automating AWS IAM Key Rotation Process ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77015)
+        - ⛔ 🟨 [[DevOps] Document the ePAS/AWS access process for CIE. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78661)
         
 ______________________________________________________________________________________________________________________________________________________
 
