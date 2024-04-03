@@ -305,10 +305,10 @@ Survey question 3: what task were you trying to do today?
   <caption><b>Tasks by date range</b></caption>
   <tr>
     <td></td>
-    <th scope="col">3/6/24-3/28/24</th>
+    <th scope="col">Tasks</th>
   </tr>
   <tr>
-    <th scope="row">Tasks</th>
+    <th scope="row">3/6/24-3/28/24</th>
     <td>
       <li>Set up account: 1</li>
       <li>Cancel/schedule/look at appointments: 5</li>
@@ -320,18 +320,24 @@ Survey question 3: what task were you trying to do today?
 
 ## Problems users faced: from both sources
 
-
+Use this table moving forward for both sources of data.
 <table>
   <caption><b>Problems users faced: Started March 2024</b></caption>
   <tr>
     <td></td>
     <th scope="col">Problems (topic and number of users)</th>
-    <th scope="col">Additional context and quotes</th>
+    <th scope="col">Quotes</th>
   </tr>
   <tr>
     <th scope="row">3/6/24-3/28/24</th>
-    <td>12 users</td>
-    <td>8 users</td>
+    <td></td>
+      <li>Missing context or explanation</li>
+      <li>Login issues</li>
+      <li>Tool-specific</li>
+    <td></td>
+     <li>Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."</li>
+     <li>"I want to re-order my meds but it won't let me into the site" and "Kept going in and out of logins. Never could get to right place."</li>
+     <li>"I was not able to make appt with primary provider"</li>
   </tr>
 
 
@@ -339,7 +345,28 @@ Survey question 3: what task were you trying to do today?
 
 
 
----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
 **Below tables are now defunct - keeping for sake of posterity. Use the table just above "Problems users faced" for list of problems, counts of users, and quotes from both data sources.** 
 
 
@@ -457,20 +484,8 @@ Survey question 3: what task were you trying to do today?
   </tr>
 </table>
 
-#### Additional context around problems encountered:
-
-##### 3/6/24-3/28/24
-**Missing context or explanation**
-* Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."
-
-**Login issues**
-* "I want to re-order my meds but it won't let me into the site"
-* "Kept going in and out of logins. Never could get to right place."
-
-**Tool-specific**
-* I was not able to make appt with primary provider"
-
-##### Pre-March 2024
+##### Additional context around problems encountered:
+###### Pre-March 2024: Additional context around problems encountered:
 * **Tech problem** (e.g. couldn’t read a message, something wasn’t working, site down, or latency issues loading content)
   * Site says I don't have appointments
   * Try to refill prescriptions but site says unavailable
