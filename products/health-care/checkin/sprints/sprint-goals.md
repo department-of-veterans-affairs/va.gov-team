@@ -45,11 +45,9 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 4/3/2024 - 4/16/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## 4/3/2024 - 4/16/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## 4/3/2024 - 4/16/2024 CURRENT SPRINT
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Support the ATO**
@@ -82,7 +80,6 @@ ________________________________________________________________________________
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery - Veteran Direct Community Care Scheduling**
-        - ❗ 🟥 [[SPIKE] Identify top 5 questions to ask stakeholders on Wednesday's meeting ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79689)
         - ❗ 🟥 [[Design] Create hi-fi userflow with DS components of "scheduling" portion of userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79688)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
@@ -121,11 +118,10 @@ ________________________________________________________________________________
         - 🟨 [[DevOps] Pin GHA versions in CHIP repository GHA workflows ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79780)
         - 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
         - 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
-        
-------- END FUTURE / TENTATIVE ------
-</details>
 
-## 3/20/2024 - 4/2/2024 CURRENT SPRINT
+______________________________________________________________________________________________________________________________________________________
+        
+## 3/20/2024 - 4/2/2024 
 #### SPRINT GOALS
 - **GOAL: Support Production**  
 - **GOAL: Make submission of a travel reimbursement claim easier**
