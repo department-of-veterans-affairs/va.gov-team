@@ -80,7 +80,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery - Veteran Direct Community Care Scheduling**
-        - TBD????
+        - 🟥 [Discovery for Community Care ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79927)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
