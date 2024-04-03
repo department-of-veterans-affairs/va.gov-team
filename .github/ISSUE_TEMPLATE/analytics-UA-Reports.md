@@ -1,14 +1,48 @@
 ---
 name: "Analytics - UA Reports Invetory" 
 about: "To aid witht he GA4 migration, we need to capture all reports using GA data" 
-title: "Reports Powered by UA: Invertory"
+title: "Reports Powered by UA: [Team Name]"
 labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
 assignees: johnny-jesensky-adhoc
 ---
-# UA Report Inventory Audit Form
+# VFS Report Audit: Report Inventory Form
 
 ### What this form is for.
+In prepration for the migration to GA4, we need information on all actively used reports that use Universal Analytics (UA) data. This may include reports within UA itself, Domo, or some other tool. We need this information so we can work with teams to tweak, transition, and in some cases, recreate these reports using GA4 data. 
+
+> [!IMPORTANT]
+> Please complete this form as soon as possible, but no later than **Friday, April 26.** The sunset date for Universal Analytics is **July 1, 2024**, which means reports that rely on UA as a data source will stop collecting new data on this date. Additionally, if the reports exist within UA itself, they will disappear.
 
 ---
 
 ### Instructions:
+**Step 1:** Please provide the following information on each actively used report your team uses that contains UA data at the bottom of this ticket.
+- Report Name
+- URL Link
+- Reporting Platform, (Domo, GA, etc.)
+
+> [!NOTE]
+>  We are defining _"actively used reports"_ as reports that are actively collecting data, have been used within the last 6 months, and are critical to a use case on your team.
+  
+**Step 2:** Include your team within the title of this form.
+
+**Step 3:** Submit this form.
+
+_Our team will follow up with you for next steps._
+
+> ### Example:
+>- **Report Name:** VA.gov Forms KPIs
+>- **URL Link:** https://va-gov.domo.com/page/447193050
+>- **Reporting Platform:** Domo
+
+---
+
+## Reporting Information:
+- **Report Name:**
+- **URL Link:**
+- **Reporting Platform:**
+
+
+
+
+
