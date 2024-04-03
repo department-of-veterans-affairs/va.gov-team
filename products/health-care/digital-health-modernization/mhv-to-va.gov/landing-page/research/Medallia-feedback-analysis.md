@@ -318,11 +318,11 @@ Survey question 3: what task were you trying to do today?
   </tr>
 </table>
 
-## Problems users faced
+## Problems users faced: from both sources
 
 
 <table>
-  <caption><b>Problems encountered by users</b></caption>
+  <caption><b>Problems users faced: Started March 2024</b></caption>
   <tr>
     <td></td>
     <th scope="col">Problems (topic and number of users)</th>
@@ -332,14 +332,19 @@ Survey question 3: what task were you trying to do today?
     <th scope="row">3/6/24-3/28/24</th>
     <td>12 users</td>
     <td>8 users</td>
-   
   </tr>
 
 
 
 
+
+
+---------------------------
+**Below tables are now defunct - keeping for sake of posterity. Use the table just above "Problems users faced" for list of problems, counts of users, and quotes from both data sources.** 
+
+
 <table>
-  <caption><b>Problems encountered by users</b></caption>
+  <caption><b>Problems encountered by users: No longer using (ended use March 2024)</b></caption>
   <tr>
     <td></td>
     <th scope="col">4/1/23-10/31/23</th>
