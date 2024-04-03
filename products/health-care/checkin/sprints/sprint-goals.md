@@ -119,7 +119,7 @@ ________________________________________________________________________________
         - 🟨 [[DevOps] Pin GHA versions in CHIP repository GHA workflows ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79780)
         - 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
         - 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
-        - 🟨 [[DevOps] Transfer ownership of checkin-devops repository from vnce-avalanche to patient-check-in. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79911)
+        - ✔️ 🟨 [[DevOps] Transfer ownership of checkin-devops repository from vnce-avalanche to patient-check-in. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79911)
 
 ______________________________________________________________________________________________________________________________________________________
         
