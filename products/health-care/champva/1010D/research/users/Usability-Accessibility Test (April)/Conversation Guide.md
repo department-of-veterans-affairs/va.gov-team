@@ -45,6 +45,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. Tell us a little about yourself.
 3. What branch of service were you (or your sponsor) part of?
 4. What types of places did you (they) travel to as part of their service?
+5. Can you tell me a little bit about the setup you will be using during the test today?
+    1. Facilitator note: This is specifically meant to identify what tech AT users will be using for the test so we can verify it matches our expectations.
 
 
 ## First Task: [Usability/Accessibility session] - 50 minutes
