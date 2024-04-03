@@ -407,12 +407,11 @@ Race:
 
 This research does not include the perspectives of the following marginalized Veteran groups: _List all groups in red from the spreadsheet_
 
-
-
 * Group 1: Cognitive disability, Mobile user, Other than honorable, Immigrant origin, Expat
 * Group 2: Biracial, Asian, Native
 * Group 3: Transgender
 * Group 4: Assistive Technology
 
-[Image 11]
+
+![Recruitment strategy table](images/research-recruitment.png)
 
