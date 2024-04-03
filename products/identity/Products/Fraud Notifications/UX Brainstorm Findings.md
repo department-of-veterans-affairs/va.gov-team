@@ -131,7 +131,8 @@ Things we can measure
       - Is there any regular upkeep?
       - How often does Auth Exp team look in on it?
      
-## Unauthorized access (potentially fraud related)calls to VA Call Center (6/23 - 3/24)
+## Unauthorized access (potentially fraud related) calls to VA Call Center
+From June 1, 2023 through March 6, 2024
 - Unauth attempt may have been made, caller had PoA but unable to access
 - Caller got emails about signing up for VA services they didn't, and aren't a veteran
 - Veteran getting an MFA code when not signing in
