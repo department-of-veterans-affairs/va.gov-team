@@ -1,4 +1,4 @@
-# 2024-03 SLO Content research findings
+# 2024-03 SLO Content research for Veteran-facing communication
 > Authentication status communication to Veterans
  
 Exploring what content is important to Veterans, and how that content should be documented and shared. This incorporates design patterns from:
