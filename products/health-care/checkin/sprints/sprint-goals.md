@@ -74,7 +74,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/44446)
+    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
     - ❗ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
     - **Sub Goal: Support the ATO**
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
