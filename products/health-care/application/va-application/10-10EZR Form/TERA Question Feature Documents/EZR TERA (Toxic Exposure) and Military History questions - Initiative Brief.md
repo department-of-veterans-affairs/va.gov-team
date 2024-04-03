@@ -94,23 +94,26 @@ Data source - [Domo Dashboard]
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - RISK: Veterans will answer NO to the "Do you want to provide info regarding Toxic Exposure" question
-  - RISK: Veterans who provided their Toxic Exposure details while filing their disability claim(s) may feel this is duplicative, becoming annoyed that we don't already have this info
+  - RISK: Veterans will answer NO to the "Do you want to provide info regarding Toxic Exposure?" question.
+  - RISK: Veterans who provided their Toxic Exposure details while filing their disability claim(s) may feel this is duplicative, becoming annoyed that VA does not already have this information on file.
 - **Usability Risks** (can people figure out how to use it):
   - RISK: Veterans will be overwhelmed by the questions and details being asked
+  RISDK: Veterans will not understand the questions being asked (e.g. what is Agent Orange?)
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
     - RISK: Downstream API/Data availability and reliability (Enrollment system)
+    -RISK: EZR cannot properly handle the information entered
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - RISK: HEC Staff will not have visibility into the Veteran's input within their workflow (Enrollment system) until June 2024
+    - RISK: HEC Staff will not have visibility into the Veteran's input within their workflow (Enrollment System) until June 2024 
+    
+    -RISK: Veterans do not receive judgements on their TERA information in a timely manner
 
 ### What're you building
 #### In-Scope
 - Add Toxic Exposure questions, per request from HEC Stakeholders (directive)
 - Allow free form input field, restricting to Alphanumeric values only
-- Add a Military Information section to the EZR
-- Adding info and alerts to Static Page, Introduction page, and Confirmation page
+- Add a Military Information section to the EZR that only contains the TERA Questions
+- Adding info and alerts to Static Page, Introduction page, Review Page, and Confirmation page
 
 #### Out-of-Scope
 - Changing other parts of the form
