@@ -167,10 +167,9 @@ _Secondary criteria (nice-to-haves)_
 We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.
 
 
-
-* Wednesday, 4/3 11am EST
-* Wednesday, 4/3 3:30pm EST
-* Thursday, 4/4 11am EST
+* Thursday, 4/4 4pm EST
+* Friday, 4/5 11am EST
+* Friday, 4/5 11:30am EST
 
 
 ### Prepare
@@ -197,26 +196,95 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 * Session length: 60 minutes
 * Buffer time between sessions: 30 minutes
-* Maximum Sessions per day: 2
+* Maximum Sessions per day: noted in the individual day
 
 
 ### Availability
 
-Tuesday, 4/16: 2 - 5pm EST
+**Tuesday, 4/16: 2 sessions max**
 
-Wednesday, 4/17: 11am - 3pm EST
+2pm EST
 
-Thursday, 4/18: 11am - 3pm EST
+4pm EST
 
-Friday, 4/19: 11am - 3pm EST
+**Wednesday, 4/17: 3 sessions max**
 
-Monday, 4/22: 2 - 5pm EST
+11am EST
 
-Tuesday, 4/23: 11am - 3pm EST
+12:30pm EST
 
-Wednesday, 4/24: 11am - 3pm EST
+2:30pm EST
 
-Thursday, 4/25: 11am - 3pm EST
+**Thursday, 4/18: 2 sessions max**
+
+11am EST
+
+2:30pm EST
+
+**Friday, 4/19: 2 sessions max**
+
+11am EST 
+
+12:30pm EST
+
+**Monday, 4/22: 3 sessions max**
+
+11am EST 
+
+2pm EST
+
+3:30pm EST 
+
+**Tuesday, 4/23: 2 sessions max**
+
+11am EST
+
+1pm EST
+
+**Wednesday, 4/24: 3 sessions max**
+
+11am EST
+
+12:30pm EST 
+
+2pm EST
+
+**Thursday, 4/25: 2 sessions max**
+
+11am EST
+
+12:30pm EST
+
+**Friday, 4/26: 3 sessions max**
+
+11am EST
+
+12:30pm EST
+
+2:30pm EST 
+
+**Monday, 4/29: 3 sessions max**
+
+11am EST
+
+1pm EST
+
+3:30pm EST
+
+**Tuesday, 4/30: 2 sessions max**
+
+11am EST
+
+1:30pm EST
+
+**Wednesday, 5/1: 3 sessions max**
+
+11am EST
+
+12:30pm EST
+
+2:30pm EST
+
 
 
 
