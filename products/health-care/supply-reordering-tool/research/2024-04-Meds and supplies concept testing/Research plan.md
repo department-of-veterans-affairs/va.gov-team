@@ -2,7 +2,7 @@
 
 ## Background
 
-In previous studies, there is an indication that Veterans think there's a connection between medical supplies and medications. As our team moves the medical supplies reordering functionality to MHV on VA.gov, we need to understand where Veterans expect to find medical supplies on the auth MHV home page, and how similar or different Veterans think about medications and medical supplies. 
+In a [previous study](link), there is an indication that Veterans think there's a connection between medical supplies and medications. As our team moves the medical supplies reordering functionality to MHV on VA.gov, we need to understand where Veterans expect to find medical supplies on the auth MHV home page, and how similar or different Veterans think about medications and medical supplies. 
 
 ### OCTO Priorities 
 
