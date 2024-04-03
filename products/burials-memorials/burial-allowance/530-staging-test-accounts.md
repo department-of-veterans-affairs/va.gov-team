@@ -1,8 +1,8 @@
 # 530 Application for Burial Benefits
 
-[v1 Staging Link](https://staging.va.gov/burials-and-memorials/application/530/introduction)
+[v1 Staging Link](https://staging.va.gov/burials-and-memorials/application/530/introduction) (current form)
 
-[v2 Staging Link](https://staging.va.gov/burials-and-memorials-v2/application/530/introduction)
+[v2 Staging Link](https://staging.va.gov/burials-and-memorials-v2/application/530/introduction) (new form)
 
 ## All Login Information
 | Email                         |
