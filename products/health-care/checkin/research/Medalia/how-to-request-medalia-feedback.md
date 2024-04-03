@@ -34,11 +34,12 @@ Using the template below, submit a ticket in GitHub to the Contact Center to col
    - Social security numbers - PII_SSN
    - Phone numbers - PII_PHONE
    - Other identifying info - PII_OTHER
-5. As you review, note any issues that may be new or indicate that something is broken. You'll email this information to the team in the last step.
-6. Upload the scrubbed file to the [Teams user feedback folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac). Check that it is named so that it can be sorted by date.
-7. Share the file, including your notes of any potential issues that raise concern to:
+5. Copy the scrubbed spreadsheet data as a new tab in this spreadsheet: [CIE Medallia Analysis](https://dsva.slack.com/files/U046DTUBACX/F06SEMUUF0E/approved_sample_questions.xlsx) 
+6. Analyze .......................
+7. As you review, note any issues that may be new or indicate that something is broken. 
+9. Share the file, including your notes of any potential issues that raise concern to:
    - Kay Lawyer, Kristen McConnell, Stephen Barrs via VA email
    - Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team via the [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM).
-9. If any issues that seem urgent show up, note them for the team in the [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM).
+10. If any issues that seem urgent show up, note them for the team in the [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM).
 
 
