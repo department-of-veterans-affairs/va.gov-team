@@ -110,7 +110,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Exactly 6|Are willing to join from a mobile device|
 |Exactly 6|Are willing to join from a desktop device|
 |At least 6|Have a cognitive disability or consideration|
-|At least 4|Are over 55 years old|
+|At least 6|Are over 55 years old|
 |At least 4|Identify as Black, Hispanic, Asian or Native|
 |At least 2|Identify as a gender other than male|
 |At least 2|Identify as LGBTQ+|
