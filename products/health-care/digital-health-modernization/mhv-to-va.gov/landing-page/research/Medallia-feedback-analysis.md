@@ -319,11 +319,11 @@ Survey question 3: what task were you trying to do today?
 </table>
 
 ## Problems users faced: from both sources
-
 Use this table moving forward for both sources of data.
 <table>
   <caption><b>Problems users faced: Started March 2024</b></caption>
   <tr>
+    <td></td>
     <th scope="col">Problems (topic and number of users)</th>
     <th scope="col">Quotes</th>
     <th scope="col">Notes</th>
@@ -344,7 +344,14 @@ Use this table moving forward for both sources of data.
 
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -370,8 +377,6 @@ Use this table moving forward for both sources of data.
 
 --
 **Below tables are now defunct - keeping for sake of posterity. Use the table just above "Problems users faced" for list of problems, counts of users, and quotes from both data sources.** 
-
-
 <table>
   <caption><b>Problems encountered by users: No longer using (ended use March 2024)</b></caption>
   <tr>
@@ -505,7 +510,7 @@ Use this table moving forward for both sources of data.
 * **Couldn't get help** from call center or the MHV Helpdesk was unresponsive. 
 * **No updates for claims** or process seemed opaque / users want more transparency around status
 
-## Other insights
+##### Other insights
 Spanning both surveys
 <table>
   <caption><b>Noteable takeaways</b></caption>
@@ -558,7 +563,7 @@ Spanning both surveys
 
 
 
-### Quotes from Veterans
+##### Quotes from Veterans
 * "The page loading is slow, the system is not intuitive, you've added the need for more "clicks" to navigate." - 1/5/24, Desktop user
 * "I feel like they [VA.gov] are doing a great job." - 12/3/23, Desktop user
 * "Feels secure getting on. Easy navigation." - 12/5/23, Desktop user
