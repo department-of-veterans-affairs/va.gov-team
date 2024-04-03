@@ -6,7 +6,7 @@ Date: April 3, 2024
      - Option 1: Surfacing an approved referral where a Veteran can start scheduling from? If so, what system will provide that approved referral from? And, what information will be included? E.g., provider(s), care type, number of appointments, etc. 
      - Option 2: Or, would this process need to start with requesting a CC referral online? And, if so, how do we envision that Veterans would do that on VA.gov?   
 - More broadly: 
-     - What information exists in a CC referral? And, can you walk us through how a request, consult and referral relate to each other? 
+     - What information exists in a CC referral? What information is required? What information is optional? And, can you walk us through how a request, consult and referral relate to each other? 
      - What’s the existing process and eligibility checks that VA staff complete today in order to approve a CC referral? Will that process be changing to support CC Direct Scheduling? 
 - Could you walk us through (maybe by way of a demo) the steps that MSAs go through from receiving an approved CC referral to scheduling an appointment in the staff-facing EPS tool?  
 - Has the DTC Integration Platform (DIP) already been integrated with EPS? 
