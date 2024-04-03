@@ -340,19 +340,10 @@ Use this table moving forward for both sources of data.
      <li>"I want to re-order my meds but it won't let me into the site" and "Kept going in and out of logins. Never could get to right place."</li>
      <li>"I was not able to make appt with primary provider"</li>
     </td>
+     <td></td>
   </tr>
- <td></td>
 </table>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
 
 
@@ -376,7 +367,11 @@ Use this table moving forward for both sources of data.
 
 
 
---
+
+
+
+
+-----
 **Below tables are now defunct - keeping for sake of posterity. Use the table just above "Problems users faced" for list of problems, counts of users, and quotes from both data sources.** 
 
 
