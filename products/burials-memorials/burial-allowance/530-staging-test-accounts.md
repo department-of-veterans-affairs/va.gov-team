@@ -17,7 +17,7 @@
 - Acts as an exmple of a Veteran w/ a form in progress. When logged in with this user, the V1 form is visible.
 
 ### Test Case
-- User is redirected to the form they first started on. All new applications are V2
+- User is redirected to the v1 form they first started on. All new applications are V2.
 
 ### Steps to Reproduce (update)
 
@@ -26,7 +26,7 @@
 1. User can referenece the displayed data that was saved in progress from their last application
 
 ## Staging User 229 & 128
-- Act as users with v2 forms in progress. These are the primary users for review
+- Act as users with v2 forms in progress. These are the primary users for review.
 
 
 ### Test Case (i.e. Title)
