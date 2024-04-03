@@ -5,8 +5,8 @@
 | Date            | Subject                 | Description          | Findings     |
 | :-------------  | :-------------          | :-------------       | :----------- |
 | Jan 2024| Identity Support Process | content inventory, secondary research, survey and workshop with internal VA team members | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-01%20Identity%20Support%20Process/2024-01%20Identity%20Support%20Process%20-%20Research%20Share%20Out.md) |
-| Jan 2024 | Sign in Service | workshop and interviews with internal VA team members | |
-| Feb 2024 | Service Level Objectives (SLOs) | | | 
+| Jan 2024 | Sign in Service | workshop and interviews with internal VA team members | [Demo slides](sis-onboarding-deliverables-demo-feb-30-24.pdf)|
+| Feb 2024 | Service Level Objectives (SLOs) | contextual and content research | [Report on internal teams' needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md), [Report on veteran's needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)| 
 | Mar 2024 | Fraud Notifications | quantitative data collection, workshop and interviews with internal VA team members | |
 | on hold | MFA Security Key| diary study | |
 | | | | |
