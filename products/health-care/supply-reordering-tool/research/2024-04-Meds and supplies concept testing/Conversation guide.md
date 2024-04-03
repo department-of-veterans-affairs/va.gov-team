@@ -89,31 +89,34 @@ A reminder: This is a prototype. It looks like the real website, but doesn't fun
 
 **Show each participant all 3 design options, and route the order you show the options**
 
-Next, I will give an activity that you may do in your real life, then I will ask you to use 3 different prototypes to do the activity. While you use the prototypes, I would like to hear your thoughts and observe your reactions for each prototype. 
+Next, I will give an activity that you may do in your real life, then I will ask you to use 3 different prototypes to do the activity. While you use the prototypes, I would like to hear your thoughts and observe your reactions to each prototype. 
 
-### _Task: Order a mask strap for CPAP._ You need to order a mask strap for your CPAP. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+### _Task: Order a mask strap for CPAP and glucose testing strips._ You need to order a mask strap for your CPAP and some glucose testing strips. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 **- Observe what they do first:**
-   - If they scroll up and down, ask "What are you thinkng as you...?"
+   - If they scroll up and down, ask "What are you thinking as you...?"
+   - For Option 1 and 2: Participants may try to find mask traps or glucose testing strips first, remember to ask which one they are looking for before they click on something on MHV home. 
  
 **- Questions for Option 1:**
    - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
-   - If they click and get to medications, ask "What did you click...?"
-   - If they click on any links for medical supplies, ask "What do you think will happen when you click...?"
-   - On "Medical supplies" page, ask:
+   - If they click and get to medications, ask "Why did you click...?"
+   - If they click on any links for medical supplies on MHV home, ask "What do you think will happen when you click...?"
+   - On the "Medical supplies" page, ask:
         - What is this page, OR what's the purpose of this page?
         - What do you like and dislike about this page?
         - What would you do from here to order a mask strap for your CPAP?
-   - Whichever link they click on, ask "Is this what you expected to see?"
-   - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+   - After they do something, ask "Is this what you expected to see?"
+   - How would you rate your experience of finding the mask strap and glucose testing strips to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+   - Where did you find the easiest and most difficult for this activity? 
   
 **- Questions for Option 2:**
    - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
-   - If they try to decide to click on either medications  or prescriptions or medical supplies, ask "What do you think the differences are? What do you find confusing? How would you change it to make it less confusing?"
-   - If they click and get to medications, ask "What did you click...?"
+   - If they try to decide to click on either one of the links under Medications and medical supplies card on MHV home, ask "What do you think the differences are? What do you find confusing? How would you change it to make it less confusing?"
+   - If they click and get to medications, ask "Why did you click...?"
    - If they click on any links for medical supplies, ask "What do you think will happen when you click...?"
    - Whichever link they click on, ask "Is this what you expected to see?"
-   - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+   - How would you rate your experience of finding the mask strap and glucose testing strips to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+   - Where did you find the easiest and most difficult for this activity? 
 
 **- Questions for Option 3:**
    - If they are unsure which link to click on, ask "What confuses you on, OR what are you thinking?"
@@ -121,11 +124,12 @@ Next, I will give an activity that you may do in your real life, then I will ask
    - On the list view page, ask "What is this page, OR what is the purpose of this page?"
    - If they have difficulties finding the mask strap on the list view page, point it to them, but ask "How would you change it to make it easier to find?"
    - Observe and see if they know they need to click on the "refill and order" link to order the mask strap.
-   - How would you rate your experience of finding the mask strap to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+   - How would you rate your experience of finding the mask strap and glucose testing strips to order and why you'd rate that? 5 being the easiest and 1 being the hardest.
+   - Where did you find the easiest and most difficult for this activity? 
+
 
 **- Questions after showing all 3 options:**
-   - If they give the same score to all 3 options, ask "Which option did you find the easiest for you in terms of finding the mask strap and ordering it?
-   - 
+   - Which option did you find the easiest for you in terms of finding the mask strap and glucose testing strips and ordering them?
 
  
 ## Thank you and Closing - 5 minutes 
