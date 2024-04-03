@@ -73,7 +73,7 @@ Review whether submitters understand when to sign in or not:
 
 This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
 
-We will present a scenario where the submitter has a question about their education benefits. Because we will test an authenticated scenario, we will pre-fill the form with mock data.
+We will present a scenario where the submitter has a question about their **education benefits**. Because we will test an **authenticated** scenario, we will pre-fill the form with mock data.
 
 In half of the sessions, participants will use a prototype that includes a **new** progress indicator. In the other half, participants will use a prototype that **does not include** any progress indicator. We will compare both approaches.
 
@@ -81,9 +81,14 @@ We will let submitters choose whether to sign in or not without guidance. If the
 
 ### Research materials
 
-* [Conversation guide](add link)
-* [Mobile prototype](add link)
-* [Desktop prototype](add link)
+* Scenario A: Progress bar
+  * [Conversation guide - A: Progress bar](add link)
+  * [Mobile prototype - A: Progress bar](add link)
+  * [Desktop prototype - A: Progress bar](add link)
+* Scenario B: No progress bar
+  * [Conversation guide - B: No progress bar](add link)
+  * [Mobile prototype - B: No progress bar](add link)
+  * [Desktop prototype - B: No progress bar](add link)
 	
 ## Recruitment	
 
