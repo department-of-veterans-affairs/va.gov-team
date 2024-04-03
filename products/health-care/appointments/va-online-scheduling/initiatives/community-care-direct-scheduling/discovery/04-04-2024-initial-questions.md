@@ -5,7 +5,7 @@
 Date: April 3, 2024
 
 - Knowing that CC Direct Scheduling will start from an authorized and approved referral: 
-     - What system will provide that approved referral data and letter from? And, what data or format of data will we have access to?
+     - What system will provide that approved referral data and letter from? And, what data or format of the approved referral will we have access to?
      - What information will be included in the approved referral? And, what information is required vs. optional? E.g., provider(s), care type, number of appointments, etc.
      - Is this information already available in an API or does another team need to build this? If so, who is that other team? 
 - Could you walk us through (maybe by way of a demo) the steps that MSAs go through from receiving an approved CC referral to scheduling an appointment in the staff-facing EPS tool?  
