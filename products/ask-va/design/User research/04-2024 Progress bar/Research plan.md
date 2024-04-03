@@ -137,9 +137,8 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |April 29-1|Synthesis|
 |May 1|Share findings|
 
-### Pilot sessions
+## Pilot session
 
-**Pilot 1**
 - Pilot participant: [TBD] (Tyler will add to pilot sessions herself)
 - Date and time of pilot session: [TBD]
 
