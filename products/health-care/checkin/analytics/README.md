@@ -1,6 +1,5 @@
 # Analytics
 
-## How to Generate an Analytics Report for Stakeholders
 [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
 
 ## DataDog Dashboards
