@@ -14,8 +14,9 @@ Using the template below, submit a ticket in GitHub to the Contact Center to col
        - NOTE: Add Travel in once we releas it
    - **Product Description** - Applications that allow Veterans verify their contact information prior to a VA health appointment, check in upon arrival for a VA health appoiuntment, and submit a mileage-only travel reimbursement claim on the day of their VA health appointment.
    - **Survey URL(s), key term(s), case category or type** - All comments under and including these URLS and all of their sub-URLs:
-       - https://www.va.gov/health-care/check-in chedule-view-va-appointments/
-       - https://www.va.gov/my-health/appointments
+       - https://www.va.gov/health-care/appointment-check-in
+       - https://www.va.gov/my-health/appointment-pre-check-in
+       - https://www.va.gov/my-health/appointment-travel-claim
    - **File delivery format** - All in one file, on one tab
    - **Word Cloud** - Yes
    - **VA Email Address(es)** - [Your VA email address]
