@@ -333,7 +333,7 @@ Use this table moving forward for both sources of data.
     <td>
       <li>Missing context or explanation (1 user)</li>
       <li>Login issues (5 users)</li>
-      <li>Tool-specific (2 users)</li>
+      <li>Appointment-tool-specific (2 users)</li>
     </td>
     <td>
      <li>Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."</li>
@@ -341,6 +341,7 @@ Use this table moving forward for both sources of data.
      <li>"I was not able to make appt with primary provider" and "I was on hold for 1.5 hours and never got to schedule my appointment."</li>
     </td>
      <td>
+       Seems that something might be going on with Appointments tool or is it the same old login problem? At this point, unclear
      </td>
   </tr>
 </table>
