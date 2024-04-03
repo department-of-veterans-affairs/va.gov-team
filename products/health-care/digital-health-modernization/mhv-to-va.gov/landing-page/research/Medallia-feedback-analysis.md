@@ -337,10 +337,11 @@ Use this table moving forward for both sources of data.
     </td>
     <td>
      <li>Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."</li>
-     <li>"I want to re-order my meds but it won't let me into the site" and "Kept going in and out of logins. Never could get to right place."</li>
-     <li>"I was not able to make appt with primary provider"</li>
+     <li>"I want to re-order my meds but it won't let me into the site" and "Kept going in and out of logins. Never could get to right place." and "I cannot sign in or login."</li>
+     <li>"I was not able to make appt with primary provider" and "I was on hold for 1.5 hours and never got to schedule my appointment."</li>
     </td>
-     <td></td>
+     <td>
+     </td>
   </tr>
 </table>
 ---
