@@ -79,7 +79,7 @@ VA teams who need to be informed about latency, planned maintenance, or an outag
     - Public-facing page
     - Link to Datadog dashboard for our current team SLOs
 
-[Untitled Database](https://www.notion.so/ae5e6db045b644618d3baa4d5dd018da?pvs=21)
+[Refer to PDF for matrix of existing VA communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/content-research-authentication-status-internal-communication.pdf)
 
 # Research on best practices
 
