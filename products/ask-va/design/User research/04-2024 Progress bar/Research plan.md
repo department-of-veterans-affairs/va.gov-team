@@ -96,8 +96,6 @@ We will let submitters choose whether to sign in or not without guidance. If the
 
 We will work with Perigean to recruit Veterans for this research.
 
-**We request that Perigean shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants.**
-
 ### Recruitment criteria
 
 We will recruit 12 Veterans for a total of 8-10 completed sessions.
