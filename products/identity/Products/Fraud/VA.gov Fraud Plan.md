@@ -39,7 +39,7 @@ It's important to note that these are estimates and the actual timeline may vary
 
 ## Recommendations
 
-1. Force all authentications to use MFA, drop SMS as an option
+### 1. Force all authentications to use MFA, drop SMS as an option
    - Detail
      - Sign in service authentications can ensure that all logins have used MFA. Eauth likely can as well. This solution would prevent a user from logging into any VA application unless they have successfully entered in MFA with a CSP. A secondary recommendation which makes MFA more secure is not allowing the use of SMS as an MFA option. SMS has been proven to be the most easily socially engineer-able MFA method. Microsoft reported that MFA can prevent 99.9% of automated attacks against users.
   - Problem being solved
@@ -60,7 +60,7 @@ It's important to note that these are estimates and the actual timeline may vary
     - IDme may need to create a policy which forces MFA for MHV and DSLogon brokered credentials. Unknown amount of time.
     - Comms will need to be sent out regarding the enforcement of MFA for access to sensitive content and activities on VA applications. Two sprints.
 
-2. Request IDme stop allowing the resetting of MFA via email
+### 2. Request IDme stop allowing the resetting of MFA via email
    - Detail
      - Currently IDme allows a user who has “lost their MFA method” to reset/add an MFA method by having a link sent to the users email address. This practice alone isn’t uncommon, however we see 5 times as many IDme accounts performing fraud than we do for login.gov accounts. Login.gov does not allow the adding or resetting of MFA methods via an email link alone. Users of Login.gov must complete the entire account verification process all over again. This solution would request IDme to stop allowing MFA to be reset or added via a link to the user's email.
   - Problem being solved
@@ -76,3 +76,28 @@ It's important to note that these are estimates and the actual timeline may vary
   - Effort
     - IDme would need to provide estimates as to how long it would take to provide this level of restriction for VA credentials.
     - Comms would need to be sent stating how and why MFA recovery is occurring. One sprint.
+
+3. Allow for longer confirmed sessions which don't require MFA to be entered
+  - Detail
+    - Requiring a user to enter MFA each time they login isn’t always more safe when the application can generally prove the user is the same person as the previous time they opened the web page or app. This solution would request policy acceptance to allow a web based user to have sessions for 30 days. If a user accesses VA.gov from the same browser and device, they will not have to relogin or enter MFA for 30 days. If a user goes to a new browser or device they will need to login again. Each session would persist for no more than 30 days. The number of days we allow for the session to be alive should be discussed, 30 days is a starting recommendation.
+    - This solution would require that a user indicate that the device they are using is a private or public device. If they select public, then this extended session would not be applied.
+    - Depending if IAM were to be involved, this likely would not allow SSO between applications that do not also use sign in service. Adopting Sign in Service across other applications would ensure SSO is maintained for the agreed upon extended session timing.
+    - VA mobile app sessions are already maintained for 45 days. Other applications across the tech industry also follow a similar extended session length on established devices.
+  - Problem being solved
+    - User satisfaction and security of these accounts is impacted by forcing a user to authenticate after 30 minutes of inactivity. Users who are asked to enter in credentials more often are more likely to use weaker passwords, weaker MFA methods, and re-use passwords across multiple accounts. All of this causes the user to be more susceptible to account compromise and victim of fraud.
+  - Pros
+    - Users will enter credentials less often.
+    - Users are more likely to be more willing to use a more secure MFA method, when forced to, if they don't have to enter it in as often.
+ - Cons
+    - If a user enters credentials and MFA less often, there is also a possibility the user could forget the credentials or lose their MFA method. This may result in an increase in password and MFA reset requests.
+    - There is a chance that a user may not understand the concept of a public vs private device and select the private device setting on a public device. If this were to occur and another user were to go to VA.gov on the same device the user was on, they would see the previous user's va.gov information.
+      1. As sensitive as this can be, we do not show the full SSN of a person anywhere on va.gov currently.
+      2. This would be a user error, not less concerning because of this, but user errors can result in loss of data in many other ways as well.
+  - Impact to Veterans
+    - Veterans would enter their credentials on a given device less often.
+  - Effort
+    - IAM would need to allow extended session refreshes. Unknown amount of time.
+    - If IAM cannot allow for extended sessions, other apps that want to have SSO extended sessions would need to implement SiS. 6 months.
+    - Sign in Service already has the ability to adopt extended sessions and performs this with the VA Mobile App. One sprint.
+    - A public/private device selection frontend component would need to be developed. One sprint.
+
