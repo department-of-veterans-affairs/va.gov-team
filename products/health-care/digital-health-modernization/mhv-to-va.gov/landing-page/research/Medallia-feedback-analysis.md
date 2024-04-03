@@ -331,9 +331,9 @@ Use this table moving forward for both sources of data.
   <tr>
     <th scope="row">3/6/24-3/28/24</th>
     <td>
-      <li>Missing context or explanation</li>
-      <li>Login issues</li>
-      <li>Tool-specific</li>
+      <li>Missing context or explanation (1 user)</li>
+      <li>Login issues (5 users)</li>
+      <li>Tool-specific (2 users)</li>
     </td>
     <td>
      <li>Appointment says it's for "primary care." "Primary care for what? I didn't even know I had an appt. Can't see specifics."</li>
