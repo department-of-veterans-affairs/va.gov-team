@@ -52,7 +52,9 @@ Compare whether it’s more effective to describe percentage complete or not des
 
 Review whether submitters are clear on when to use Ask VA and how to start:
 * Can submitters successfully start a new question from the authenticated dashboard?
-* Do submitters understand not to use Ask VA in emergencies?
+* Do submitters understand not to use Ask VA in an emergency?
+* Do submitters understand what to do in an emergency (instead of using Ask VA)?
+* Do submitters notice any overlap between Ask VA and other VA tools?
 
 Review whether submitters understand when to sign in or not:
 * Is it clear when you need to sign in and why?
@@ -63,7 +65,9 @@ Review whether submitters understand when to sign in or not:
 1. Participants won't notice or point out the progress indicator without prompting.
 2. Participants won't notice or point out the lack of a progress indicator without prompting.
 3. Percentage will be enough information to motivate participants that they're making progress.
-4. Participants will be able to start a new question from the authenticated dashboard.
+4. Participants will be able to start a new question from the authenticated dashboard without issue.
+5. Participants will understand not to use Ask VA in emergencies.
+6. If participants don't understand that they need to sign in at first, it will be clear once they're prompted to sign in.
 
 ## Methodology
 
