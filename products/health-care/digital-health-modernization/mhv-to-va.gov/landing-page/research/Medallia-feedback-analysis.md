@@ -324,9 +324,12 @@ Use this table moving forward for both sources of data.
 <table>
   <caption><b>Problems users faced: Started March 2024</b></caption>
   <tr>
-    <td></td>
+    <td>
     <th scope="col">Problems (topic and number of users)</th>
+    </td>
+  <td>
     <th scope="col">Quotes</th>
+  </td>
   </tr>
   <tr>
     <th scope="row">3/6/24-3/28/24</th>
