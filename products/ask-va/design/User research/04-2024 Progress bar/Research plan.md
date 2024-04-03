@@ -60,17 +60,20 @@ Review whether submitters understand when to sign in or not:
 
 ### Hypotheses
 
-[Need to write].
+1. Participants won't notice or point out the progress indicator without prompting.
+2. Participants won't notice or point out the lack of a progress indicator without prompting.
+3. Percentage will be enough information to motivate participants that they're making progress.
+4. Participants will be able to start a new question from the authenticated dashboard.
 
 ## Methodology
 
 This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
 
-In half of the sessions, participants will use a prototype that includes a **new** progress indicator design. In the other half, participants will use a prototype that **does not include** any progress indicator. We plan to compare both approaches.
+We will present a scenario where the submitter has a question about their education benefits. Because we will test an authenticated scenario, we will pre-fill the form with mock data.
 
-We will present a scenario where the submitter has a question about their education benefits.
+In half of the sessions, participants will use a prototype that includes a **new** progress indicator. In the other half, participants will use a prototype that **does not include** any progress indicator. We will compare both approaches.
 
-Rather than guiding them, we will let submitters choose whether to sign in or not. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
+We will let submitters choose whether to sign in or not without guidance. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
 
 ### Research materials
 
