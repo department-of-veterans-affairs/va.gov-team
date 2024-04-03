@@ -58,7 +58,7 @@ We recommend removing this field because:
 - Asking one less question makes the form shorter and faster to complete. There are already an unprecedented number of fields in this contact form compared to other VA contact forms.
    - The current Ask VA form can have at most 42 fields (17 optional), while the contact form on My HealtheVet can have at most 13 fields (4 optional).
 
-View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/pronouns-recommendation.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Pronouns.md)).
+View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/pronouns-recommendation.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Pronouns.md).
 
 If we do have to collect pronouns, we would only collect them from the subject of the inquiry, which is different from how pronouns are currently collected on ask.va.gov.
 
