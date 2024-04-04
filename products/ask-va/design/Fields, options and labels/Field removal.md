@@ -34,9 +34,10 @@ We recommend removing this field because:
 This field is currently optional and allows a free-text response. The form asks for gender from submitters and sometimes dependents.
 
 We recommend removing this field because:
-- Veterans didn't understand why VA needed to know their gender identity to answer their question.
-- Most of the Veterans we talked to would choose the “Prefer not to answer” option.
+- Veterans didn't understand why VA needed to know their gender identity to answer their question. Most of the Veterans we talked to would choose the “Prefer not to answer” option.
 - 38% of inquiries have gender data (from Nov 2023 to Jan 2024 data). Of these inquiries, MPI provides 99% of the data in CRM. Submitters provide less than 1% of gender data.
+- The AVA CRM already gets data from the Master Person Index (MPI) when there's a match with Veteran data. MPI is the authoritative identity service within VA for establishing, maintaining, and synchronizing identities for VA persons. When an analyst generates a report using the Advanced Find tool in CRM, it contains gender data from MPI.
+- Gender for Veteran dependents are also not in MPI. However, in early March, we confirmed that we only need to know the Veteran's gender to meet the CWV's needs. So we don't need gender data for dependents.
 
 View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/recommendation-for-removing-gender.md).
 
