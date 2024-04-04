@@ -19,17 +19,28 @@ As the Identity Team becomes more of a platform team, we want to have more visib
 For this first iteration, the focus will be on:
 * Which metrics are we publishing
   * Counting Metrics
-    * Total Number of Tickets Opened 
+    * Total Number of Tickets Opened
+      * All Time
+      * Previous Month
     * Total Number of Tickets Closed
+      * All Time
+      * Previous Month
     * Tickets by Current Status
     * Tickets Requests by Team
+      * All Time
+      * Previous Month
     * Ticket Requests by Product
   * Calculated Metrics
     * Average Days to Close Tickets
+      * All Time
+      * Previous Month
     * Percentage of Tickets by Team
   * Satisfaction Metrics
-    * Monthly survey score
-* What the process will look like for gathering and publishing those metrics
+    * Survey Score
+      * All Time
+      * Previous Month
+* What the process will look like for publishing those metrics
+  
 
 
 ## Out of Scope: (for this iteration)
@@ -39,7 +50,7 @@ For this first iteration, the focus will be on:
 ## Use Cases:
 | User          | Problem       | How does this solution address the problem?  |
 | ------------- |:-------------:| -----:|
-| |   |   |
+| VA.Gov Team member | Wants to know   |   |
 
 ## Assumptions:
 * The number of tickets will increase over time.
