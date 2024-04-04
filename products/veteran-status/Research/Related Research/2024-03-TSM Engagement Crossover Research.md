@@ -1,6 +1,8 @@
 # Related research
 ## Summary
-TBD
+In 2024 the Authenticated Experience Team conducted research to understand the transition from active duty to Veteran, in order to evaluate the the impact VA.gov has to onboarding to VA overall. Research participants were transitioning service members, soon to be separated, or recently separated from service. The full research can be found in [2024-03-onboarding-generative-research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research).
+
+During the course of this research, participants occasionally offered feedback about the Veteran Status card. Quotes from the participants who mentioned the card are collected here. Overall, participants who came across the Veteran Status card indicated that they have other forms of identification that would serve the same purpose and most did not see a need for the card, except rarely.
 
 ### Participant Quotes
 ---
@@ -31,8 +33,9 @@ TBD
 **Moderator**: Yeah, I think so. Yeah. I have not used it. I have not used it before. I’m not a veteran so I can’t use it.
 PDF loads on screen   
 
-**P11**: This is it! Oh! seems excited, and then laughs My middle name is so long. name is overlapping with VA logo
-Moderator Is this something that you would use?   
+**P11**: This is it! Oh! *seems excited, and then laughs* My middle name is so long. name is overlapping with VA logo  
+
+**Moderator**: Is this something that you would use?   
 
 **P11**: I feel like I would probably like on Veteran’s Day. Okay. I think I would use it for Veteran’s Day, but that’s probably it. And yeah, it’s nice to know that this is here. I’ve never seen this before.   
 
