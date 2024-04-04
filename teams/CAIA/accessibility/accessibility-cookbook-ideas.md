@@ -10,7 +10,7 @@
 - **Forms mode vs browse mode**: How do these work in screen readers and how does it effect the experience?
 - **What is an accessible date picker?**: This can be a tricky component for assistive technology and was brought up by one of our researchers as a good thing to dig into more.
 - **Page titles**: How do page titles help with accessibility?
-- [Draft in progress](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1132): ~**What does one thing per page mean?**: How much content is one thing?~
+- ~**What does one thing per page mean?**: How much content is one thing?~
 - **Tools to do better research**: Help teams do better research with people with disabilities.
 - **Managing focus**: How to manage focus in an accessible way.
 - **Labeling controls**: When should we use sr-only classes vs aria-labels or aria-describedby or aria-label.
