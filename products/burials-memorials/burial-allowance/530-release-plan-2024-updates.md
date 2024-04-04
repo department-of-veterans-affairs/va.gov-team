@@ -6,12 +6,12 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Moderated production testing |2 days|TBD| March 20-26, 2024  |
-|Phase 2: Canary production testing |3 hours|10 claims| March 27-28, 2024  |
-|Phase 2A: 25% of users |7 days|25% of users (auth and non-auth)|Week of April 1|
-|Phase 2B: 50% of users |7 days|50% of users (auth and non-auth)|Week of April 8|
-|Phase 23: 75% of users |7 days|75% of users (auth and non-auth)|Week of April 15|
-|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) | Week of April 22 |
+|Phase 1: Staging testing |2 days|TBD| April 2-12, 2024  |
+|Phase 2: Canary production testing |3 hours|10 claims| April 15, 2024  |
+|Phase 2A: 25% of users |7 days|25% of users (auth and non-auth)|Week of April 15|
+|Phase 2B: 50% of users |7 days|50% of users (auth and non-auth)|Week of April 22|
+|Phase 23: 75% of users |7 days|75% of users (auth and non-auth)|Week of April 29|
+|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) | Week of May 6 |
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
 Considerations
@@ -26,7 +26,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 1. Applications In-Progress
    - Before full release:
       - Authenticated Users: Users will complete the old version (v1) of the form.
-      - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form.
+      - Unauthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%).
    - After 100% release:
       - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info. Their v1 data will appear in the v2 form.
       - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the intro page of the form and see an info alert noting that updates have been made. They will start over with the new version of the form -- none of their v1 data will appear in v2 of the form.
