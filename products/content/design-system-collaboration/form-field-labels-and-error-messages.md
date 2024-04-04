@@ -14,11 +14,11 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/dates)
 
 ## Social security number
-- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/Eed4rQoijnNElgx6OV02eekBxTMET0RXmzvdJWfcq1RuKg?e=oNUGAa)
+- Link to CSV file
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/social-security-number)
 
 ## Addresses
-- Link to CSV file
+- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/Eed4rQoijnNElgx6OV02eekBxTMET0RXmzvdJWfcq1RuKg?e=oNUGAa)
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/addresses)
 
 ## Phone numbers
