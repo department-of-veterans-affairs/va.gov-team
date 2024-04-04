@@ -3,7 +3,7 @@
 A compendium of currently open tickets that need to be closed for the Request & Support MVP to be well and truly finished from Product's standpoint.
 
 
-- [ ][Rename Identity Slackbot slash command](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79717)
+- [ ] [Rename Identity Slackbot slash command](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79717)
 - [ ] [Add question regarding urgency](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79959)
 - [ ] [Deploy Identity Slackbot](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77459) (Engineering)
 - [ ] [Slackbot Release to OCTO @ VA Slack Workspace](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/78042) 
