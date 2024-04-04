@@ -4,9 +4,8 @@
 
 ## Authorized (or approved) referrals 
 
-- At a minimum, an authorized referral will include a speciality. E.g., optometry, primary care, podiatry, etc.
+- At a minimum, an authorized referral will include a speciality/service. E.g., optometry (123000X), primary care, podiatry, etc.
 - Optional information will include: 
-     - Service(s) or sub specialties: Rehabilitation, surgery, mental health, geriatric care, etc.  
      - Sub-service(s): physical therapy, occupational therapy, speech therapy, chronic disease management, etc. 
      - Appointment type: Follow-up appointment, diagnostic test such as an X-ray, first-time visit, existing patient, telemedicine, etc. 
 
@@ -14,15 +13,14 @@
 
 To be solved for later: 
 
-- Is there a maximum number of days out that Veterans can schedule an appointment? 
-- Would an approved referral including number of appointments allowed? And if so, how would keep track of the number of booked and/or completed appointments to know if a Veteran can continue booking appointments?
-- Where does insurance come into play? Is it provided with the authorized referral, and therefore we only show providers that accept that insurance? Or does insurance not matter when selecting a CC provider? 
+- Is there a maximum number of days out that Veterans can schedule an appointment? If so, is it unique to the referral?
+- How would keep track of the number of booked and/or completed appointments to know if a Veteran can continue booking appointments?
 
 ## Functional rules for selecting a provider based on CC eligibility logic 
 
 ### Referral-based logic 
 
-- Veterans should **not** be able to unselect specialties or services when choosing a CC provider. However, it's possible, depending on the referral that Veterans will be able to select and unselect (i.e., filter) sub-services in order to schedule the right appointment. E.g., if their referral includes authorization for occupational therapy **AND** physical therapy. 
+- Veterans should **not** be able to unselect specialties/services when choosing a CC provider. However, it's possible, depending on the referral that Veterans will be able to select and unselect (i.e., filter) sub-services in order to schedule the right appointment. E.g., if their referral includes authorization for occupational therapy **AND** physical therapy. 
 - For now, we *COULD ASSUME* that *IF* an appointment type (e.g., follow-up appointment, diagnostic test such as an X-ray, first-time visit, existing patient, telemedicine, etc.) is included in the referral, then providers and their appointment slots will be pre-filtered for that/those appointment types. For example, providers will typically have designated appointment slots for different types of appointments. Therefore, those could be filtered out, if needed. 
 
 ### Searching for the right provider  
@@ -32,4 +30,5 @@ To be solved for later:
 
 ## Miscellaneous 
 
-- **Nice-to-haves:** Showing Veterans the information in their authorized referral. E.g., could be displayed on an Intro page after the notification/task card and/or as filter values (primary care, physical therapy, etc.) in the provider list, which wouldn't be allowed to change. E.g., if you're referral is for primary care, you shouldn't be able to change it. 
+- **Nice-to-haves:** Showing Veterans the information in their authorized referral. E.g., could be displayed on an Intro page after the notification/task card and/or as filter values (primary care, physical therapy, etc.) in the provider list, which wouldn't be allowed to change. E.g., if you're referral is for primary care, you shouldn't be able to change it.
+- **Assume** that we don't need to worry about secondary insurance, e.g., Medicare, Medicaid, private insurance plans, etc. 
