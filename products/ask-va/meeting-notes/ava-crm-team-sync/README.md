@@ -1,3 +1,102 @@
+## Meeting Notes for CRM Sync on 03/26/2024
+
+...
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Kyle delivered the submit inquiry endpoint; may need a working session based on compleity
+2. Revisited topic metadata for data-driven implementations for LoB features and options
+3. User testing story ...
+4. Time to complete ...
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [X] ~Joe/Kylle/Chris/Eddie: Discuss add correspondence type to topic, to hide snail mail; perhaps other LoB-specific scenarios as well~
+
+
+
+
+## Meeting Notes for CRM Sync on 03/19/2024
+
+Data-driven behavior, topic-based
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Topic field to show/hide US Mail, based on LoB; Data-driven solution
+   * CRM manages the flags
+   * AVA VA.gov writes logic to use those values
+   * e.g. phone/us-mail assume without feedback from LoB, set phone to true
+   * CRM can go ahead and implement the metadata, AVA VA.gov will use when able
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Joe/Kylle/Chris/Eddie: Discuss add correspondence type to topic, to hide snail mail; perhaps other LoB-specific scenarios as well
+
+
+
+
+## Meeting Notes for CRM Sync on 03/12/2024
+
+Topic metadata for show/hide and LoB-specific logic
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Enabling/disabling contact preference options by category and/or topic:
+   * Should this be data-driven, where the topic has metadata that tells the front-end logic to display (or not) the option?
+   * Similar for other show/hide, run/don't-run scenarios?
+   * Or ... continue to write code for this?
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Joe/Kylle/Chris/Eddie: Discuss add correspondence type to topic, to hide snail mail; perhaps other LoB-specific scenarios as well
+
+
+
+
+## Meeting Notes for CRM Sync on 03/05/2024
+
+Category/Topic/Subtopic metadata;
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Khoa and Chris discussed adding the type column to the response for categories/topics/subtopics endpoint
+2. Rank order is on category only. Topics and subtopics can only be sorted alphabetically
+3. e.g. `ORDER BY ISNULL(RankOrder, 0), Display`
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+
+
+
+
 ## Meeting Notes for CRM Sync on 02/27/2024
 
 Standup; Environment Mappings; /announcements; VEIS -> EIS
