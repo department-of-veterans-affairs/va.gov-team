@@ -1,8 +1,8 @@
-# Note: This is a draft. Unauthenticated page experience ratings: March 2024
+# Unauthenticated page experience ratings: March 2024
 
 ## Related overall scores
 - **Total customer satsifaction score:** 57.2 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 76% "good" experience rating overall (6357 out of 8356 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -26,9 +26,12 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - 
+  - 52% (56 of 107) R&S pages have a 75% or higher "good" score
+  - 27% (29 of 107) R&S pages have a 51% - 74% "good" score
+  - 21% (22 of 107) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:**
+
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
@@ -50,7 +53,7 @@ All pages have ratings of 2 or below.
 
 1. [The PACT Act and your VA benefits](www.va.gov/resources/the-pact-act-and-your-va-benefits/) (88% good out of 1696 total responses)
 2. [How to check in with your smartphone at some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (93% good out of 1003 total responses)
-3. [Gettign urgent care at VA or in-network community providers](www.va.gov/resources/getting-urgent-care-at-va-or-in-network-community-providers/) (86% good out of 568 total responses)
+3. [Getting urgent care at VA or in-network community providers](www.va.gov/resources/getting-urgent-care-at-va-or-in-network-community-providers/) (86% good out of 568 total responses)
 4. [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (95% good out of 308 total respponses)
 5. [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (92% good out of 224 total responses
    
@@ -64,14 +67,13 @@ All pages have ratings of 2 or below.
 5. [Can I get a replacement GI Bill benefit certificate of eligibility](www.va.gov/resources/can-i-get-a-replacement-gi-bill-benefit-certificate-of-eligibility/) (33% good out of 49 total responses)
 
 ## Analysis
-[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20tracking%20February%202024.xlsx?d=w6c064570901f418482886a9a6e9354d8&csf=1&web=1&e=HLQop0)
-
-- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 00% "good" average rating.
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7BCB468966-C969-43E5-A23B-444C5A837EE8%7D&file=Resources%20and%20support%20ratings%20tracking%20March%202024.xlsx&action=default&mobileredirect=true)
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 76% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
-  - 00% of pages are scoring at 90% or higher "good"
-  - 00% of pages are meeting our goal of 75% or higher "good," while 55% of pages are scoring 70% or higher
-  - 00% of pages are scoring at less than 50% "good," with 7% scoring at less than 10% "good" (though all of these had only 1-2 total responses)
-- PACT-related content continues to perform exceptionally well. The PACT Act page was one of the top-scoring pages with the highest volume of total responses. And the presumptive cancers page has an 88% good rating.
+  - 32% of pages are scoring at 90% or higher "good"
+  - 52% of pages are meeting our goal of 75% or higher "good," while 56% of pages are scoring 70% or higher
+  - 14% of pages are scoring at less than 50% "good," with 2% scoring at less than 10% "good" 
+- PACT-related content continues to perform exceptionally well. The PACT Act page was one of the top-scoring pages with the highest volume of total responses. And the presumptive cancers page has an 93% good rating.
 - Most of the lowest-scoring pages revolve around sign in and identity (including privacy and security), which has known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
-- VA debt management has been one of the lowest scoring pages with the highest volume of responses for 3 consecutive months. We should review Medallia survey results to get more information.
-- Contact us and Helpful VA phon numbers are both low-scoring pages. We should review Medallia survey results to determine if it has to do with content on the page or hold times when calling. 
+- VA debt management has been one of the lowest scoring pages with the highest volume of responses for 4 consecutive months. 
+- Contact us and Helpful VA phone numbers are both low-scoring pages. We should continue to review Medallia survey results to determine if it has to do with content on the page or hold times when calling. 
