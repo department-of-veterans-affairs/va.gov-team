@@ -41,7 +41,7 @@ Note: Below is just some pseudo code to get whats in my brain on paper.
         )
     ```
 3. Add `post 'forms/process', to: 'forms#process'` to routes.rb and then send that endpoint to PEGA to add to their llambda.
-3a. We should have PEGA send us JSON formatted payload like below:
+  3a. We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
     ```
     {
       "uuid": "12345678-1234-5678-1234-567812345678",
@@ -54,7 +54,9 @@ Note: Below is just some pseudo code to get whats in my brain on paper.
     post '/status_updates', to: 'status_updates#receive' 
     # ... existing routes
 end
+
 4. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://va.gov/ivc-pega-updates
+
 5. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
     ```
     class FormsController < ApplicationController
