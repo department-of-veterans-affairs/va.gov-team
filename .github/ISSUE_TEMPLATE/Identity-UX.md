@@ -13,7 +13,7 @@ assignees: ''
 ## Documentation
 
 
-## Product notes
+## Definition of Done
 
 
 ## Acceptance Criteria
