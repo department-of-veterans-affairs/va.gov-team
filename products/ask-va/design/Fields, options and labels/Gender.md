@@ -1,20 +1,23 @@
 # Recommendation to remove gender from Ask VA
 
-Last updated by @beckyphung: March 4, 2024
+Last updated by @tygindraux: April 4, 2024
 
-**March 2024 Update**: After [round 1 of research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md), we recommend removing gender and communicated this to the Center for Women Veterans team via email. They also agreed that if the CCB votes to continue collecting gender, we would only only collect it if the subject of the inquiry or the submitter is a Veteran. This is to understand the number of women vs. men Veterans Ask VA has helped.
+**March 2024 Update**: After [this research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md), we will recommend removing gender.
 
-See the updated proposal below.
+The AVA CRM already gets data from the Master Person Index (MPI) when there's a match with Veteran data. MPI is the authoritative identity service within VA for establishing, maintaining, and synchronizing identities for VA persons. When an analyst generates a report using the Advanced Find tool in CRM, it contains gender data from MPI.
 
-**January 2024 Update:** On [January 9, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Women%20Veterans/January%209,%202024.md), we met with the Center for Women Veterans. We determined that we will require gender identity for all categories in Ask VA. We will collect the gender of the submitter.
+Gender for Veteran dependents are also not in MPI. However, in early March, we confirmed that we only need to know the Veteran's gender to meet the Center for Women Veterans's needs. So we don't need gender data for dependents.
 
-This decision overrules our previous proposal below, which we'll leave for documentation purposes.
+The Ask VA Change Control Board will vote on this decision in May.
+
+---
 
 ## Jump to:
 - [Updated proposal to remove Gender](#updated-proposal-to-remove-gender)
 - [Original proposal to remove Gender](#original-proposal-to-remove-gender)
 
 ## Updated proposal to remove Gender
+
 ### Insights from January 2024 usability testing
 After conducting usability testing in January 2024, we discovered new insights from Veterans. 
 
