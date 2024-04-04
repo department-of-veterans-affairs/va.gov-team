@@ -69,7 +69,7 @@ Veterans that are not honorably discharged shall not have access to the Veteran 
 For those veterans with an existing VIC card, where in the current system (API or FE) would the VIC live (i.e. how do we go about surfacing it?)?
 
 > [!NOTE] 
-> Regarding Eligibility: Only Veterans with an honorable or generally honorable code (A or B) are eligible for the card. The vetern status card is using the same military history as the profile service history, however there's an additional check for the discharge code. [Briefly discussed in this thread](https://dsva.slack.com/archives/C061RNJQ6SE/p1712243802296309?thread_ts=1712177482.773629&cid=C061RNJQ6SE) 
+> **Regarding Eligibility**: Only Veterans with an honorable or generally honorable code (A or B) are eligible for the card. The vetern status card is using the same military history as the profile service history, however there's an additional check for the discharge code. [Briefly discussed in this thread](https://dsva.slack.com/archives/C061RNJQ6SE/p1712243802296309?thread_ts=1712177482.773629&cid=C061RNJQ6SE) 
 
 ## Post-MVP
 Areas to explore:<br>
