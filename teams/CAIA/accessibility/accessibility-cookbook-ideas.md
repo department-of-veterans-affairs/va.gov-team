@@ -1,8 +1,8 @@
 # Cookbook Recipe Ideas
 
 - **When to use ARIA**: When to rely on native HTML features and when to lean on ARIA.
-- Drafted: ~**How to structure headings**: Describe the ideal state for headings on a page, and how they affect different people with disabilities.~
-- Drafted: ~**Buttons vs. links**: When to use one vs. the other.~
+- ~**How to structure headings**: Describe the ideal state for headings on a page, and how they affect different people with disabilities.~
+- ~**Buttons vs. links**: When to use one vs. the other.~
 - **Accessibility challenges with progressive disclosure**: When can this principle cause problems for screen readers.
 - **When people who use screen readers need to know about something happening on a page**: A good place to dive into ARIA live regions.
 - **Card best practices**: Cards can get complex quickly. List best practices for one or more cards on a page.
