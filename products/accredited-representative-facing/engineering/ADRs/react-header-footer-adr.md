@@ -17,7 +17,7 @@ ARF decided to migrate ARP's header and footer implementation from the content-b
 - ARF will create custom React components (**`header.jsx`** and **`footer.jsx`**) to replace the existing content provided by the **`page-react.html`** layout and its child templates (**`src/site/includes/header.html`** and **`src/site/includes/footer.html`**).
 - We ensured that all necessary functionality from the original header (e.g., navigation links relevant to the ARP users) is retained in the new React component without including unrelated templating or styling.
 - Outside of `<!DOCTYPE html>`, and `meta` content, ARF engineers determined that no functionality from the original footer was required for ARP; hence, all footer templating and styling is handled entirely within the new React component. See [PR](https://github.com/department-of-veterans-affairs/content-build/pull/1989/files).
-- We considered the layout requirements previously satisfied by **`page-react.html`** and incorporated necessary aspects into our vets-website **`SignedInViewLayout.js`** component, ensuring a seamless user experience between the header, content, and footer.
+- We considered the layout requirements previously satisfied by **`page-react.html`** and incorporated necessary aspects into our vets-website **`SignedInViewLayout.jsx`** component, ensuring a seamless user experience between the header, content, and footer.
 
 ## **Consequences**
 
