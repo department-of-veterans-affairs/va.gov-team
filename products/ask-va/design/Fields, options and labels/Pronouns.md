@@ -9,6 +9,10 @@ We will add help text to the pronouns field, so Veterans understand why we're co
 
 In the future, we might revisit this field. Pronouns are technically in MPI. We aren't pulling this data right now and we could consider doing so in the future.
 
+The rest of this document is here for archival purposes.
+
+----
+
 Jump to:
 - [Current pronouns use](#current-pronouns-use)
 - [Insights from January 2024 usability testing](#insights-from-january-2024-usability-testing)
