@@ -17,12 +17,12 @@ As the Identity Team becomes more of a platform team, we want to have more visib
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* Which metrics are we publishing
+* Dashboards that displays the following metrics:
   * Counting Metrics
-    * Total Number of Tickets Opened
+    * Tickets Opened
       * All Time
       * Previous Month
-    * Total Number of Tickets Closed
+    * Tickets Closed
       * All Time
       * Previous Month
     * Tickets by Current Status
@@ -30,16 +30,17 @@ For this first iteration, the focus will be on:
       * All Time
       * Previous Month
     * Ticket Requests by Product
+      * All Time
+      * Previous Month
   * Calculated Metrics
     * Average Days to Close Tickets
       * All Time
       * Previous Month
-    * Percentage of Tickets by Team
   * Satisfaction Metrics
     * Survey Score
       * All Time
       * Previous Month
-* What the process will look like for publishing those metrics
+* Creating a Comms strategy for socializing these metrics on (at least) a monthly basis
   
 
 
@@ -48,16 +49,22 @@ For this first iteration, the focus will be on:
 * Service Level Agreements
 
 ## Use Cases:
-| User          | Problem       | How does this solution address the problem?  |
-| ------------- |:-------------:| -----:|
-| VA.Gov Team member | Wants to know   |   |
+| User          | Problem       | Solution |
+| ------------- |:------------- | -----:|
+| VA.Gov Team member | Wants to know how many tickets the Identity Team has opened  | Open Tickets dashboard |
+| VA.Gov Team member | Wants to know how many tickets the Identity Team has closed   | Closed Tickets dashboard  |
+| VA.Gov Team member | Wants to know how many tickets have which current status | Status dashboard  |
+| VA.Gov Team member | Wants to know which teams have made requests from Identity  | Ticket Requests by Team dashboard  |
+| VA.Gov Team member | Wants to know which which products the Identity team has helped with | Ticket Requests by Product dashboard  |
+| VA.Gov Team member | Wantss to know how long, on average, it takes the Identity team to close a ticket | Average Days to Close Tickets dashboard  |
+| VA.Gov Team member | Wants to know how to find all of this information | Comms strategy to continually point people to these dashboards |
 
 ## Assumptions:
 * The number of tickets will increase over time.
-* This process will change and grow as we come up with
+* This process will change and grow as we come up with new things to measure.
 
 ## Solution Approach: 
-* Create a process to gather metrics.
+* Create a ticket with the Analytics team to set up dashboards with the above metrics
 * Determine how to publish these metrics.
   
 ## Technical Considerations:
@@ -67,14 +74,14 @@ For this first iteration, the focus will be on:
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
+| ------------- |:-------------| 
+| Socializing these metrics |               |
 
 
 ## Measuring Success:
 | KPI           | Notes         | 
-| ------------- |:-------------:| 
-| |               |
+| ------------- |:------------- | 
+| Customer Satisfaction |   Maintaining a CSR of over 70% on a monthly basis            |
 
 
 ## Baseline KPI Values:
