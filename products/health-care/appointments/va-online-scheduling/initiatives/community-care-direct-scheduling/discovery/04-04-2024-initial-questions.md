@@ -13,7 +13,7 @@ Date: April 3, 2024
 
 ### Responses
 
-- DIP doesn't have an integration with CCRA (or Health Share Referral Management System), which is where the approved referrals are. CCRA does integrate with a different middleware, DAS, which Optum and TriWest use. (I'm assuming these are health insurance and/or medical group affiliations of the providers.) 
+- DIP doesn't have an integration with CCRA (or Health Share Referral Management System), which is where the approved referrals are. CCRA does integrate with a different middleware, DAS, which Optum and TriWest use. (Assuming these are health insurance and/or medical group affiliations of the providers.) 
 - An approved referral is for a speciality, and then sometimes services and/or sub services underneath. Additionally, it may include a type of appointment. E.g., a consult, set of physical therapy appointments, etc. (Need more detail on the latter part.)
 - VAOS is connected with PPMS today, which is a source of truth for CC providers. However, PPMS and EPS are not integrated yet. 
 - EPS uses Azure maps algorithm to determine drive times to providers from a Veteran's home/residential address. However, Console Toolbox also does this. 
