@@ -1,6 +1,6 @@
 ## Meeting Notes for CRM Sync on 04/02/2024
 
-Discuss field removal with CCB?
+Discuss field removal with CCB; Topic metadata added
 
 ### Attendees:
 
@@ -11,10 +11,12 @@ Discuss field removal with CCB?
 
 1. ~Discuss upcoming business line working sessions and if we can have some time to discuss the field removal recommendation (Sharepoint)~
    * This has been handled via side bars. CC added BP to the agenda for next CCB meeting.
+2. Kyle added metadata fr topics to Jira, slated for next sprint
   
 ### Action Items:
 
 - [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JOE user testing story for E2E in lower environments; plan for
 
 
 
