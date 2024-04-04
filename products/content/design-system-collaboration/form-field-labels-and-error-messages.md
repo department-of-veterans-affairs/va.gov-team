@@ -14,7 +14,7 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/dates)
 
 ## Social security number
-- Link to CSV file
+- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/ERsuf2_wQeVKgDyBUjrAXkABuduAfodR-7fpmSvpkyCn3w?e=FxAaCU)
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/social-security-number)
 
 ## Addresses
