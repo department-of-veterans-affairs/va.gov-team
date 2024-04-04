@@ -82,15 +82,11 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
-
 1. The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators (9 of 15 participants, but only 11 actually assessed them).
 
 2. Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants). 
 
-3. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study ((9 of 15 participants, but only 11 actually assessed them).
+3. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).
 
 4. Finding four
 
