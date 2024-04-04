@@ -1,6 +1,6 @@
-# Field labels and error message content guidance
+# Form field labels and error message content guidance
 
-Each CSV file on this page contains specific content guidance for these fields:
+Each CSV file on this page contains specific content guidance for these form fields:
 - label text
 - hint text
 - error message text for specific scenarios
