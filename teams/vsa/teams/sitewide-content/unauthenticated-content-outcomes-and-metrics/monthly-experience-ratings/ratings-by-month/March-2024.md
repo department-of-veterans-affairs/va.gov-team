@@ -33,17 +33,35 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
-1.    
+1. [Will I have to pay back the GI Bill benefits if I fail a class](www.va.gov/resources/will-i-have-to-pay-back-the-gi-bill-benefits-i-used-if-i-fail-a-class/) (100% good out of 22 total responses)
+2. [Deciding how much life insurance to get](www.va.gov/resources/deciding-how-much-life-insurance-to-get/) (100% good out of 10 total responses)
+3. [Can I be buried in Arlington national cemetery](www.va.gov/resources/can-i-be-buried-in-arlington-national-cemetery/) (97% good out of 30 total responses)
+4. [Can I plan a head for burial in a VA national cemetery](www.va.gov/resources/can-i-plan-ahead-for-my-burial-in-a-va-national-cemetery/) (97% good out of 30 total responses)
+5. [Military sexual trauma and disability compensation](www.va.gov/resources/military-sexual-trauma-and-disability-compensation/) (97% god out of 29 total responses)
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
-1.    
+1. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (24% good out of 256 total responses)
+2. [Can I get a replacement GI Bill benefit certificate of eligibility](www.va.gov/resources/can-i-get-a-replacement-gi-bill-benefit-certificate-of-eligibility/) (33% good out of 49 total respnses)
+3. [How ot get help with concerns at a VA health faciliity](www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (35% good out of 46 total responses)
+4. [Getting a GI Bill extension](www.va.gov/resources/getting-a-gi-bill-extension/) (36% good out of 11 total responses)
+5. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (39% good out of 344 total responses)
+   
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
-1. 
+1. [The PACT Act and your VA benefits](www.va.gov/resources/the-pact-act-and-your-va-benefits/) (88% good out of 1696 total responses)
+2. [How to check in with your smartphone at some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (93% good out of 1003 total responses)
+3. [Gettign urgent care at VA or in-network community providers](www.va.gov/resources/getting-urgent-care-at-va-or-in-network-community-providers/) (86% good out of 568 total responses)
+4. [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (95% good out of 308 total respponses)
+5. [Commissary and exchange privileges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (92% good out of 224 total responses
+   
 
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1. 
+1. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (39% good out of 344 total responses)
+2. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (24% good out of 256 total responses)
+3. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (43% good out of 116 total responses)
+4. [VA debt management](www.va.gov/resources/va-debt-management/) (49% good out of 84 total responses)
+5. [Can I get a replacement GI Bill benefit certificate of eligibility](www.va.gov/resources/can-i-get-a-replacement-gi-bill-benefit-certificate-of-eligibility/) (33% good out of 49 total responses)
 
 ## Analysis
 [Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20tracking%20February%202024.xlsx?d=w6c064570901f418482886a9a6e9354d8&csf=1&web=1&e=HLQop0)
