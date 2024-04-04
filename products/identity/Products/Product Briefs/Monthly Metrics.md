@@ -1,4 +1,4 @@
-# Monthly Metrics (Draft)
+# Monthly Metrics
 
 ## Overview: 
 Publish a set of monthly metrics surrounding our support of other teams in accordance with O4KR2: _Establish and publish monthly metrics around response times for VA.gov product teams._  
