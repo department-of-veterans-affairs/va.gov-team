@@ -17,7 +17,7 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [Link to Test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZ-Toxic%20Exposure%20(TERA)%20MVP.md)
+  - [x] [Link to Test cases](https://dsvavsp.testrail.io/index.php?/plans/view/5373)
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Ramya Venkataraman (ramya.venkataraman@va.gov) and team on End to End testing
