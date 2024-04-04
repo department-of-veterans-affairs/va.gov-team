@@ -8,7 +8,7 @@ VA.gov has seen an increase in the number of fraudulent direct deposit changes a
 - DSLogon and MHV do not have forced MFA when logging in from sites outside of VA.gov
   - This allows an attacker to see full personal data on MHV, which can then be used to social engineer their way into account takeovers of IDme and Logingov accounts
 - IDme accounts are being mostly compromised through social engineering techniques
-- IDme allows MFA reset to occur via email
+- IDme allows MFA reset to occur via email.
   - Login.gov forces a user to reverify if they lose their MFA
 - We cannot determine if an account that is attempting to view or modify sensitive data on va.gov is actually them after the initial verification process is completed (once per user account)
 - The verification process is robust, and does not seem to be a consistent enough vector of attack. Bad actors rely on getting a valid user to perform an action which allows them to get access to their verified account
