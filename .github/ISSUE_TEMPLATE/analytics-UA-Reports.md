@@ -8,7 +8,7 @@ assignees: johnny-jesensky-adhoc
 # VFS Report Audit: Report Inventory Form
 
 ### What this form is for.
-In prepration for the migration to GA4, we need information on all actively used reports that use Universal Analytics (UA) data. This may include reports within UA itself, Domo, or some other tool. We need this information so we can work with teams to tweak, transition, and in some cases, recreate these reports using GA4 data. 
+In prepration for the migration to GA4, we need information on all actively used reports that use Universal Analytics (UA) data in order to identify the best ways to assist teams with transitioning their GA reporting. This might be a dashboard in GA or Domo, a Looker report, a direct link into a filtered UA interface report, a Google Sheet with the API GA API plug-in, or some other way tool.
 
 > [!IMPORTANT]
 > Please complete this form as soon as possible, but no later than **Friday, April 26.** The sunset date for Universal Analytics is **July 1, 2024**, which means reports that rely on UA as a data source will stop collecting new data on this date. Additionally, if the reports exist within UA itself, they will disappear.
@@ -20,9 +20,7 @@ In prepration for the migration to GA4, we need information on all actively used
 - Report Name
 - URL Link
 - Reporting Platform, (Domo, GA, etc.)
-
-> [!NOTE]
->  We are defining _"actively used reports"_ as reports that are actively collecting data, have been used within the last 6 months, and are critical to a use case on your team.
+- Description of Report, (or how it is used)
   
 **Step 2:** Include your team within the title of this form.
 
@@ -30,10 +28,15 @@ In prepration for the migration to GA4, we need information on all actively used
 
 _Our team will follow up with you for next steps._
 
+> [!NOTE]
+> - We are defining _"actively used reports"_ as reports that are actively collecting data, and are consistently accessed daily, weekly, or monthly over the last 6 months.
+> - Teams do NOT have to include the standard Search, Content, or Forms KPI dashboards --  we are already working to address those.
+
 > ### Example:
->- **Report Name:** VA.gov Forms KPIs
->- **URL Link:** https://va-gov.domo.com/page/447193050
+>- **Report Name:** VA Homepage Report
+>- **URL Link:** https://va-gov.domo.com/page/
 >- **Reporting Platform:** Domo
+>- **Description:** Our team uses this report to analyze trends for our KPIs.
 
 ---
 
@@ -41,6 +44,7 @@ _Our team will follow up with you for next steps._
 - **Report Name:**
 - **URL Link:**
 - **Reporting Platform:**
+- **Description:**
 
 
 
