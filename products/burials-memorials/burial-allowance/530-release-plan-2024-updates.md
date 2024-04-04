@@ -78,7 +78,7 @@ Before enabling your feature toggle in production, you'll need to:
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
-
+<!--
 ### Do I need a staged rollout?
 
 **Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
@@ -111,6 +111,7 @@ Currently, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 | URL redirects | No |
 
 DEPO VSP / OCTO leads can approve other exceptions to this requirement.
+-->
 
 ### Define the Rollback process
 
@@ -123,23 +124,21 @@ Even though your feature has been tested and ready, production is still a differ
 [FILL_IN]: create your rollback plan
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will be doing extensive E2E testing in a staging environment.
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: April 3-12, 2024
+- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
+- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test
+- How you'll conduct the testing: using test users and validating the staging form payload submissions with downstream stakeholders
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
+- Number of users: 6
+- Number of bugs identified / fixed: See [this sheet](https://docs.google.com/spreadsheets/d/1pKE5rvUgoJe0vkh06W4EVCKL5ygXxgajCRa3nVTLARQ/edit?usp=sharing). Several issues were identified as Platform-level issues that are outside the scope of our team to fix. We will work with the Platform Team to fix.
+- Was any downstream service affected by the change?: Yes, as part of this form update, we also migrated the form payload from the depreciated Central Mail API to the Benefits Intake API.
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
 - If yes, what: [FILL_IN] with ticket numbers
@@ -150,16 +149,15 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- Desired date range: April 15 - May 10, 2024
+- How will you make the product available in production while limiting the number of users who can find/access it: Flipper
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - Abandonment rate:
+  - Submission volume:
+  - Error rate: <1%
+- Links to the dashboard(s) showing "success criteria" metrics: Domo Dashboard request submitted
+- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele) and OCTO PO (Emily Theis)
 
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
 ### Stage A: Canary
 
@@ -167,8 +165,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 10 submissions (estimated 4 hours)
+- Percentage of Users (and roughly how many users do you expect this to be): 20% of daily submission
 
 #### Results
 
@@ -184,7 +182,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -201,7 +199,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -218,7 +216,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -233,7 +231,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 2 days
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
@@ -250,10 +248,11 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Number of unique users:
+- Error rate:
+- Abandonment rate:
+- Time to complete:
+- Sessions to complete
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -262,9 +261,10 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-month results
 
 - Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Error rate:
+- Abandonment rate:
+- Time to complete:
+- Sessions to complete
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
