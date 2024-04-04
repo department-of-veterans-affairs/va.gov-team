@@ -89,7 +89,7 @@
 - [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/analytics#readme)
 - [Google Analytics Events](https://docs.google.com/spreadsheets/d/1BPOlI6vzH-tMTswvUrci3Q0NkBmfIIfo8Cgj_nM10gk/edit#gid=0)
 - [Google Analytics Filters](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/ga-filters.md)
-- [Veteran Feedback from VSignals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
+- [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
 - [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-medalia-feedback.md)
 - [How to Generate an Analytics Report for VA Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
   
