@@ -15,7 +15,8 @@
 To be solved for later: 
 
 - Is there a maximum number of days out that Veterans can schedule an appointment? 
-- Would an approved referral including number of appointments allowed? And if so, how would keep track of the number of booked and/or completed appointments to know if a Veteran can continue booking appointments? 
+- Would an approved referral including number of appointments allowed? And if so, how would keep track of the number of booked and/or completed appointments to know if a Veteran can continue booking appointments?
+- Where does insurance come into play? Is it provided with the authorized referral, and therefore we only show providers that accept that insurance? Or does insurance not matter when selecting a CC provider? 
 
 ## Functional rules for selecting a provider based on CC eligibility logic 
 
