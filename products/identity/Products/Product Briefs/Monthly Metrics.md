@@ -17,7 +17,7 @@ As the Identity Team becomes more of a platform team, we want to have more visib
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* Dashboards that displays the following metrics:
+* Dashboards that display the following metrics:
   * Counting Metrics
     * Tickets Opened
       * All Time
