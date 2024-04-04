@@ -26,5 +26,5 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/phone-numbers)
 
 ## Email
-- Link to CSV file
+- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EZMDmn1C9spCpEYu8Ooy6FsBXneBc54IvcgkbsEVuV-nnw?e=epTgUn)
 - [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/email-address)
