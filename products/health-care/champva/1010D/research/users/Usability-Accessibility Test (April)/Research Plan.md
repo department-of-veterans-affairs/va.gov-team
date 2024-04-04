@@ -105,7 +105,7 @@ For moderated usability tests:
 
 
 * [[Link to conversation guide]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Conversation%20Guide.md)
-* [[Link to prototype]](https://staging.va.gov/ivc-champva/10-10D/)
+* [[Link to prototype]](https://staging.va.gov/health-care/champva/apply-form-10-10d/)
 
 
 ### Recruitment approach
