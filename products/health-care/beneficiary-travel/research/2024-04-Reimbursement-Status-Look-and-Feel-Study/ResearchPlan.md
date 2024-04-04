@@ -186,7 +186,7 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 * Planned dates of research: 
 
-    Tuesday, 4/16/24 - Thursday, 4/25/24 (excluding 4/20 and 4/21)
+    Tuesday, 4/16/24 -  Wednesday 5/1/24 (excluding 4/20 and 4/21)
 
 
 
