@@ -9,8 +9,8 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| **Name of toggle** | Toggle to enable users to see the newly added TERA questions |
-| **Name of Toggle** | Toggle to enable users to see the newly added TERA questions |
+| ezr_prod_enabled | Toggle to enable 100% of users to see the 10-10EZR |
+| ezr_tera_enabled | Toggle to enable users to see the newly added TERA questions |
 .
 ## Step 2: Validation
 
