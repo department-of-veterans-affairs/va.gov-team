@@ -50,7 +50,7 @@ For this first iteration, the focus will be on:
 
 ## Use Cases:
 | User          | Problem       | Solution |
-| ------------- |:------------- | -----:|
+| ------------- |:------------- | :----- |
 | VA.Gov Team member | Wants to know how many tickets the Identity Team has opened  | Open Tickets dashboard |
 | VA.Gov Team member | Wants to know how many tickets the Identity Team has closed   | Closed Tickets dashboard  |
 | VA.Gov Team member | Wants to know how many tickets have which current status | Status dashboard  |
