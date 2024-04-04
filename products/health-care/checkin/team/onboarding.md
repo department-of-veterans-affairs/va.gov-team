@@ -138,3 +138,27 @@ As of April 2024, this is the process:
     - **Justification**: Your team membership and what you need access for.
 - Click "Save and Submit" at the **top** of the screen.
 - Wait for approval.
+
+### Final Steps
+
+**Prerequisites**: All of above, plus the "Welcome to PAS 2.0" email.
+
+If all goes well, your various accounts will be granted the appropriate groups and roles, and you will receive a "Welcome to PAS 2.0" email.
+
+**Don't click anything just yet!** If you're the kind of person who lets their GFE idle overnight, you might encounter a problem where Citrix hangs and eventually returns an opaque "licensing failed" error. This is because credentials need to be synchronized between your various user accounts on and off your GFE, and this only happens at certain times. If this is you, reboot your GFE before you go any further.
+
+Once you've rebooted, you should be able to log into CyberArk (using your PIV and your MEA account), and you should see your NMEA account in the main view, along with a "Connect" dropdown.
+
+To get into AWS, this is the procedure:
+- Click the dropdown and select "Citrix".
+- Wait for everything to happen. If you get the long hang and "licensing failed" failure, reboot again.
+- Eventually, you should be able to access the Citrix Application Store.
+- Select "Main Admin Tools". This will download a Citrix ICA file, which you should click and open.
+- Citrix may take a long time to actually complete a connection to the environment.
+  - This step may fail multiple times. In my case, it failed about five times in a row, always because the connection timed out.
+  - Sometimes, I was logged out of CyberArk too and had to log back in there before I could re-attempt the connection to the Citrix Application Store and from there re-attempt a connection to the actual environment I was trying to reach.
+- Eventually, you should arrive at a working desktop, at which point you can go to https://prod.adfs.federation.va.gov/adfs/ls/idpinitiatedsignon.aspx .
+- From there, you can sign in and then select a specific application, e.g. AWS WebGov Cloud.
+- You can select whichever account you want to access, e.g. `vaec-cms` or `vaec-cie`.
+
+ 
