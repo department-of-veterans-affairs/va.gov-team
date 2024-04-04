@@ -14,7 +14,9 @@ Starting point for appointments-related projects on VA.gov.
 * [VA Employee-Patient Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veterans%20Outpatient%20Journey%20Map.pdf)
 </details>
 
-## Service maps
+## Service maps and blueprints
+
+[Various appointments service maps](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=761-6444&t=yqIybklWXjeQGsEJ-0) created by the CX Catalog team
 
 [DRAFT - appointments service map](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1646415445176/4452f42daeedeff133c89080638c6035395d9a80?sender=ub08ff1d80ee7bd38d6c02354)
 Still a WIP but, but this map covers the end-to-end appointment experience.
