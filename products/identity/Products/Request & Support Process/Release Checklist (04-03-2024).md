@@ -9,7 +9,9 @@ A compendium of currently open tickets that need to be closed for the Request & 
  (Engineering)
 - [ ] [Add question regarding urgency](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79959)
 
+
 While those above are specific to the Slackbot launch, there are still a couple of other stragglers to be done.
+- [ ] [Post-Intake Process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76824)
 - [ ] Fix bug with Github Support Template (Engineering)
 - [ ] Add the Canvas information to #vsp-identity (Engineering)
 - [ ] [Slackbot user documentation for GitHub](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79906)
