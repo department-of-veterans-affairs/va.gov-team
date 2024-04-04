@@ -19,6 +19,9 @@ _What will this content help the audience **do**? Use verbs to explain the purpo
 _**What** is the request and **where** will the content be published?_
 
 
+## Content design tasks
+
+
 ## Documentation
 _Related artifacts_
 
