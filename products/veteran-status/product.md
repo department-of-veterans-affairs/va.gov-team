@@ -68,6 +68,8 @@ Veterans that are not honorably discharged shall not have access to the Veteran 
 [Veteran Verification API](https://developer.va.gov/explore/verification/docs/veteran_verification?version=current) and  https://developer.va.gov/explore/api/veteran-confirmation have this data
 For those veterans with an existing VIC card, where in the current system (API or FE) would the VIC live (i.e. how do we go about surfacing it?)?
 
+note: the vetern status card is using the same military history as the profile service history, however there's an additional check for the discharge code. Only Veterans with an honorable or generally honorable code (A or B) are eligible for the card
+
 ## Post-MVP
 Areas to explore:<br>
 * Print function available from Veteran Status page (potentially with some sort of card-like form factor).  
