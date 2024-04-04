@@ -62,7 +62,9 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| burial_form_enabled | Enable the burial form |
+| burial_form_v2 | vets-website v2 toggle |
+| va_burial_v2 | vets-api v2 toggle |
 
 ## Step 2: Validation
 
