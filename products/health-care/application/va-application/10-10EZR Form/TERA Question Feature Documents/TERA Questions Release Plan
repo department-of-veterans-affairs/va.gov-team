@@ -1,0 +1,13 @@
+# 10-10EZ Veteran health care application Toxic Exposure questions - Release Plan 
+- Last updated: 04/04/2024
+
+
+## Step 1: Development
+
+
+Feature toggle
+
+| Toggle name | Description |
+| ----------- | ----------- |
+| hca_tera_enabled | Toggle to enable users to see the newly added TERA questions |
+.
