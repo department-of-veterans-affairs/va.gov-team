@@ -1,20 +1,17 @@
 # Field removal
 Ask VA VA.gov Team
 
-Last updated by @beckyphung: March 8, 2024
+Last updated by @tygindraux: April 4, 2024
 
 ## List of fields to remove
-|Chapter in Ask VA|Field|
-|:--|:--|
-|Your question|[Tell us the reason you’re contacting us?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#tell-us-the-reason-youre-contacting-us)|
-|Gender|[Gender](#gender)|
-|Pronouns|[Pronouns](#pronouns)|
-|VA employee|[Are you currently a VA employee?](#are-you-currently-a-va-employee)|
-|Personal information|[Veteran's Service Start Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
-|Personal information|[Veteran's Service End Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)|
-|Personal information|[Veteran's Claim Number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-claim-number)|
+- [Reason you’re contacting us](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#reason-youre-contacting-us)
+- [Gender](#gender)
+- [VA employee](#va-employee)
+- [Veteran's Service Start Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)
+- [Veteran's Service End Date](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-service-start-and-end-dates)
+- [Veteran's Claim Number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#veterans-claim-number)
 
-## Tell us the reason you're contacting us?
+## Reason you're contacting us
 This field is currently required. It asks, 'Tell us the reason you're contacting us?' and submitters can choose from a list of options: Compliment; Question; Service Complaint; Suggestion; Town Hall; Other. 
 
 We recommend removing this field because:
@@ -31,7 +28,7 @@ We recommend removing this field because:
 - We heard this field may be important to certain stakeholders, particularly those who were involved in getting `Town Hall` added. However, Kathleen Reavy confirmed with Debi Bevins (Office of the Secretary) that they no longer need the `Town Hall` option.
 
 ### Next step
-- We will recommend to the CCB that this field is removed from the form.
+- We will recommend to the Ask VA Change Control Board that this field is removed from the form.
 
 ## Gender
 This field is currently optional and allows a free-text response. The form asks for gender from submitters and sometimes dependents.
@@ -46,26 +43,9 @@ View our complete recommendation, which includes findings from January 2024 usab
 If we do have to collect pronouns, we would only collect them if the subject of the inquiry or the submitter is a Veteran.
 
 ### Next step
-- We will recommend to the CCB that this field is removed from the form.
+- We will recommend to the Ask VA Change Control Board that this field is removed from the form.
 
-## Pronouns
-This field is currently optional and allows a free-text response. The form asks for pronouns from submitters (except when the submitter is the Veteran asking "For the dependent of a Veteran") right now. 
-
-We recommend removing this field because:
-- We shouldn't collect data we don't use. It’s unclear how often agents refer to pronouns data to address a submitter or refer to a person.
-- Submitters are frustrated that they have to provide information that seems irrelevant to asking VA a question.
-- People might not want VA to know their pronouns because they don’t know how VA will use that information.
-- Asking one less question makes the form shorter and faster to complete. There are already an unprecedented number of fields in this contact form compared to other VA contact forms.
-   - The current Ask VA form can have at most 42 fields (17 optional), while the contact form on My HealtheVet can have at most 13 fields (4 optional).
-
-View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Pronouns.md).
-
-If we do have to collect pronouns, we would only collect them from the subject of the inquiry, which is different from how pronouns are currently collected on ask.va.gov.
-
-### Next step
-- We will recommend to the CCB that this field is removed from the form.
-
-## Are you currently a VA employee?
+## VA employee
 This field is currently optional, but it has a default prefilled "No" response. It isn't asked for "About Me, the Veteran." It also allows a "Yes" answer. If an inquiry is flagged as a sensitive record because they answered "Yes" to the employee question, then the agent sees a modal that asks them to acknowledge that they're opening sensitive information.
 
 We will remove this field because: 
