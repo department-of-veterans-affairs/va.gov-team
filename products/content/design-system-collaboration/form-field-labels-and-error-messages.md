@@ -1,6 +1,6 @@
 # Field labels and error message content guidance
 
-Each CSV file contains specific content guidance for these fields:
+Each CSV file on this page contains specific content guidance for these fields:
 - label text
 - hint text
 - error message text for specific scenarios
@@ -15,16 +15,16 @@ Each CSV file contains specific content guidance for these fields:
 
 ## Social security number
 - Link to CSV file
-- Where this shows up in VADS
+- [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/social-security-number)
 
 ## Addresses
 - Link to CSV file
-- Where this shows up in VADS
+- [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/addresses)
 
 ## Phone numbers
 - Link to CSV file
-- Where this shows up in VADS
+- [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/phone-numbers)
 
 ## Email
 - Link to CSV file
-- Where this shows up in VADS
+- [Where this shows up in VADS](https://design.va.gov/patterns/ask-users-for/email-address)
