@@ -25,7 +25,7 @@ This is a working document where the accessibility community of practice within 
 
 ### Accessibility objective: Our platforms make it easier to deliver accessible outcomes. 
 
-- ** Key result:** All components within the DST include an accessibility maturity rating
+- **Key result:** All components within the DST include an accessibility maturity rating
 
 ## Objective 3: Our people are empowered with the knowledge and resources they need to make sustained impact.
 
