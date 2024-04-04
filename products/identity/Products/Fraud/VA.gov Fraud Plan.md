@@ -1,6 +1,17 @@
 # VA.gov Fraud Prevention Plan: Reducing Attackers' Ability to Make Fraudulent Changes
 
-The VA.gov Fraud Prevention Plan includes several recommendations to enhance security for user accounts and prevent fraud. These recommendations aim to reduce the risk of fraud and protect the sensitive information of Veterans by reducing an attacker's ability to successfully make fraudulent changes on VA.gov. The plan includes implementing multi-factor authentication (MFA), disallowing MFA resets via email, allowing longer confirmed sessions without requiring MFA, adopting passkeys, implementing activity validation via email codes, requiring liveness checks for suspicious activities, actively blocking changes from high risk countries, allowing BDPR to selectively block authentication for compromised credentials, and sending notifications to all forms of communication when a sensitive action is taken.
+The VA.gov Fraud Prevention Plan includes several recommendations to enhance security for user accounts and prevent fraud. 
+
+These recommendations aim to reduce the risk of fraud and protect the sensitive information of Veterans by reducing an attacker's ability to successfully make fraudulent changes on VA.gov. The plan includes:
+* Implementing multi-factor authentication (MFA)
+* Disallowing MFA resets via email
+* Allowing longer confirmed sessions without requiring MFA
+* Adopting passkeys
+* Implementing activity validation via email codes
+* Requiring liveness checks for suspicious activities
+* Actively blocking changes from high risk countries
+* Allowing BDPR to selectively block authentication for compromised credentials
+* Sending notifications to all forms of communication when a sensitive action is taken.
 
 ## Problem
 
