@@ -16,7 +16,7 @@ In prepration for the migration to GA4, we need information on all actively used
 ---
 
 ### Instructions:
-**Step 1:** Please provide the following information on each actively used report your team uses that contains UA data at the bottom of this ticket, (or if it's easeir, attach a spreadsheet).
+**Step 1:** Please provide the following information on each actively used report your team uses that contains UA data at the bottom of this ticket, (or if it's easier, attach a spreadsheet).
 - Report Name
 - URL Link
 - Reporting Platform, (Domo, GA, etc.)
