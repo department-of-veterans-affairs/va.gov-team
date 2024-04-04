@@ -1,6 +1,6 @@
-## Meeting Notes for CRM Sync on 03/26/2024
+## Meeting Notes for CRM Sync on 04/02/2024
 
-...
+Discuss field removal with CCB?
 
 ### Attendees:
 
@@ -9,10 +9,30 @@
 
 ### Key Takeaways:
 
-1. Kyle delivered the submit inquiry endpoint; may need a working session based on compleity
-2. Revisited topic metadata for data-driven implementations for LoB features and options
-3. User testing story ...
-4. Time to complete ...
+1. ~Discuss upcoming business line working sessions and if we can have some time to discuss the field removal recommendation (Sharepoint)~
+   * This has been handled via side bars. CC added BP to the agenda for next CCB meeting.
+  
+### Action Items:
+
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+
+
+
+
+## Meeting Notes for CRM Sync on 03/26/2024
+
+Topic metadata; E2E test planing; 
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Revisited topic metadata for data-driven implementations for LoB features and options
+2. User testing story, lower environments, needs to be planned out for E2E testing. Need to get our anticipated deploy dates (coded prototype, R2 testing, final application including features outside of R2 tests, plus changes from R2 findings) ... need to do E2E now that we have submit inquiry and retrieve sooner than at the end. [ACTION ITEM NEEDED]
+3. Time to complete? Last closed date, new issue from open date to datetime.now(), (status update change, e.g. date reopened until closed. Business days calc. Calculated daily) BP/CC to follow up. [NEED ACTION ITEM??]
   
 ### Action Items:
 
