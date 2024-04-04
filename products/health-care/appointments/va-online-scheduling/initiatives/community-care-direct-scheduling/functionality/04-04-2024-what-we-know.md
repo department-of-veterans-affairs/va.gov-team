@@ -1,6 +1,6 @@
 # What we know about authorized referrals and how they can inform the scheduling experience (04-04-2024)
 
-*What we know to **inform the userflow options for CC Direct Scheduling** as a result of the [kickoff meeting on 04-03-2024](https://docs.google.com/document/d/1JXhFZG5Rr1jbV7sHBgiphw2FH6GabMCUpTCaZq1j9bU/edit?usp=sharing) (Google Doc):*
+*What we know to **inform the userflow options for CC Direct Scheduling** as a result of the [kickoff meeting on 04-03-2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/discovery/04-04-2024-initial-questions.md#responses):*
 
 ## Authorized (or approved) referrals 
 
