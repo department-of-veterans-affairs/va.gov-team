@@ -39,7 +39,7 @@ We recommend removing this field because:
 - The AVA CRM already gets data from the Master Person Index (MPI) when there's a match with Veteran data. MPI is the authoritative identity service within VA for establishing, maintaining, and synchronizing identities for VA persons. When an analyst generates a report using the Advanced Find tool in CRM, it contains gender data from MPI.
 - Gender for Veteran dependents are also not in MPI. However, in early March, we confirmed that we only need to know the Veteran's gender to meet the CWV's needs. So we don't need gender data for dependents.
 
-View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/recommendation-for-removing-gender.md).
+View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Gender.md).
 
 ### Next step
 - We will recommend to the Ask VA Change Control Board that this field is removed from the form.
