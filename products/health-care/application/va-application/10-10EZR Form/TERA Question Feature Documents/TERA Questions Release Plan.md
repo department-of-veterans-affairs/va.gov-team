@@ -47,7 +47,7 @@ Before enabling your feature toggle in production, you'll need to:
 - How you'll conduct the testing:
      - Moderated
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
-     - Feature Toggle 
+     - It will be live
 
 #### Results
 
@@ -73,13 +73,13 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
 >
 >### Objective: Update the 10-10EZR, so that Veterans have the opportunity to provide Toxic Exposure information.
 >
->#### **Key Result #1:** 50% of Veterans who visit this page will answer Yes to provide TERA information
+>#### **Key Result #1:** 70% of Veterans who visit this page will answer Yes to provide TERA information
 >
 >Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
 >
 >| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 >|------------- |---------|-------------- |-------------- |-------------- |
->|Veterans who answered Yes to providing TERA info |N/A| 50% | TBD | TBD |
+>|Veterans who answered Yes to providing TERA info |N/A| 70% | TBD | TBD |
 >
 >
 >#### **Key Result #2:** 75% of Veterans who said Yes to providing TERA information will provide info in at least one TERA question
@@ -88,24 +88,24 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
 >
 >| Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 >|------------- |---------|-------------- |-------------- |-------------- |
->|Veterans answer Yes to Cleanup or Response |N/A| TBD | TBD | TBD |
->|Veterans answer Yes to Service in Gulf War |N/A| TBD | TBD | TBD |
->|Veterans answer Yes to Combat Operations |N/A| TBD | TBD | TBD |
->|Veterans answer Yes to Agent Orange |N/A| TBD | TBD | TBD |
+>|Veterans answer Yes to Cleanup or Response |N/A| 10% | TBD | TBD |
+>|Veterans answer Yes to Service in Gulf War |N/A| 10% | TBD | TBD |
+>|Veterans answer Yes to Combat Operations |N/A| 70% | TBD | TBD |
+>|Veterans answer Yes to Agent Orange |N/A| 10% | TBD | TBD |
 >|Total Veterans that provided an answer to at least one question |N/A| 75% | TBD | TBD |
 >
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
-     - Product Manager - Alex Seelig, Heather Justice
+     - Product Manager - Alex Seelig
      - Data Analyst - Luis Simauchi
 
 - Length of time:
-     - 03/06/2024
+     - 04/11/24
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of all Veterans
-     - about 300 submissions per day
+     - about 50 submissions per day
 
 
 #### Results
