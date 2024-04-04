@@ -1,5 +1,13 @@
 # Recommendation to remove pronouns from Ask VA
-Last updated by @beckyphung: February 26, 2024
+Last updated by @tygindraux: April 4, 2024
+
+## Update
+
+As of April 3, 2024, we have decided we will keep pronouns in the form. They will be optional. We will only ask for the pronouns of the subject of the inquiry if they are not the submitter. We will not ask for the submitter's pronouns.
+
+We will add help text to the pronouns field, so Veterans understand why we're collecting this information.
+
+In the future, we might revisit this field. Pronouns are technically in MPI. We aren't pulling this data right now and we could consider doing so in the future.
 
 Jump to:
 - [Current pronouns use](#current-pronouns-use)
