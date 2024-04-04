@@ -5,7 +5,7 @@ Initiative Brief for adding TERA and Military History questions to the online 10
 ## Resources
 - TERA = Toxic Exposure Risk Activity
 - [Updated EZR with TERA](github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Toxic%20Exposure/TERA%20draft%202-22-2024%20VA%20Form%2010-10EZR_PACT%20Act%20-%20Sec%20103%20revisions_JAN%202024.pdf)
-- [Figma page] 
+[- Figma page]([https://](https://www.figma.com/file/tggcJk382w9yQ0ElwKfh3N/10-10EZR?type=design&node-id=1405-60260&mode=design))
 - [Sitewide PACT wizard](https://staging.va.gov/pact-act-eligibility/service-period-1) tool for reference
 ---
 
