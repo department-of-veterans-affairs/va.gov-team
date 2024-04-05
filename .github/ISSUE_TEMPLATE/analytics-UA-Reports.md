@@ -5,7 +5,7 @@ title: "Reports Using GA UA Data: [Team Name]"
 labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
 assignees: johnny-jesensky-adhoc
 ---
-# VFS Report Inventory Form
+# VFS Report Inventory for GA4 Migration
 
 ### What this form is for.
 In preparation for the transition to GA4, we need information on all actively used reports that use Universal Analytics (UA) data. This is needed to identify the best ways to assist teams with transitioning their reporting. These reports may include a dashboard in GA or Domo, a Looker report, a direct link into a filtered UA interface report, or some other way tool.
