@@ -20,7 +20,7 @@ These instructions outline how to generate and send an analytics report to our V
   - Anita Halici
   - Ben Brasso
 
-## Format 
+## Format and Metrics to Report
 
 | Product Name | External System Dependencies | Scheduled and Unscheduled downtime Strategy | Downtime  | Customer Satisfaction score Avg |
 |:------------|:---------------------|:----------------------|:---------------------|:--------------------|
