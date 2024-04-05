@@ -18,6 +18,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
     - Own vehicle?
     - From home address?
     - [Ticket 79221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
+- CHIP Release v3.5.0
+    - Added documentation for initiate travel
+    - Updated github actions to run in node 20
+    - Updated lambda functions and layers to node v18
+    - Pins github action versions
 
 ## 3/19/2024
 - Updated eCheck-in to add a link to the travel reimbursement claim review page that will display the content for the VA beneficiary travel agreement in its own page
