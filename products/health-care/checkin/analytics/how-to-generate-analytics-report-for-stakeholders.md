@@ -117,16 +117,16 @@ These instructions outline how to generate and send an analytics report to our V
 - Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22lorota%7Ccheck-in%7Cday-of%7Cpatch-demographics%7Csubmit-travel-pay-claim%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Search%20Result%22,1%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22API%20Request%22,0%5D%5D&explorer-table-dataTable.sortColumnName=analytics.eventAction&explorer-table-dataTable.sortDescending=true/)
 
 #### 15-Check-in submissions
-- Value =
-- Source =
+- Value = **TOTAL Check Ins (Unique)**
+- Source = [eCheck-in (PCI)](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
 
 #### 16-Check-in submission failues
-- Value =
-- Source =
+- Value = **TOTAL vets-api fails when attempting to check in (Unique)**
+- Source = [eCheck-in (PCI)](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
 
 #### 17-Check-in failure rate
-- Value =
-- Source =
+- Value = **TOTAL vets-api fails when attempting to check in (Unique)** divided by the sum of **TOTAL Check Ins (Unique)** and **TOTAL vets-api fails when attempting to check in (Unique)** multiplied by 100 
+- Source = [eCheck-in (PCI)](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
 
 #### 18-Pre-Check-in audience
 - Value = **Successful Pre Check In ID Authentication (Unique)** 
