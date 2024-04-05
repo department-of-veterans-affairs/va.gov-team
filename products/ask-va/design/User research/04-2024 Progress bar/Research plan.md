@@ -133,8 +133,8 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |April 15|Prototypes are ready|
 |April 12|Research review|
 |April 15|Pilot session|
-|April 22-April 26|Research sessions|
-|April 29-1|Synthesis|
+|April 22-26|Research sessions|
+|April 29-May 1|Synthesis|
 |May 2|Share findings|
 
 ## Pilot session
