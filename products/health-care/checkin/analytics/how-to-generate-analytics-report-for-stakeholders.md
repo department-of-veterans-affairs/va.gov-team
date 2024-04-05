@@ -134,7 +134,7 @@ These instructions outline how to generate and send an analytics report to our V
 
 #### 19-Pre-Check-in verification rate
 - Value = **Successful Pre Check In ID Authentication (Unique)** divided by **Started Pre Check In ID Authentication (Unique)** multiplied by 100 
-- Source = [Pre-Check-In (PCI) Dashboard] (https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
+- Source = [Pre-Check-In (PCI) Dashboard](https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
 
 #### 20-Pre-Check-in conversion rate
 - Value = **Completed Pre Check Ins (Unique)** divided by **Successful Pre Check In ID Authentication (Unique)** multiplied by 100 
@@ -149,7 +149,7 @@ These instructions outline how to generate and send an analytics report to our V
 - Source = [Pre-Check-in (PCI) GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) 
 
 #### 23-Pre-Check-in failure rate
-- Value = **API Request Fails When Attempting to Complete Pre Check In (Non Unique)** divided by **Completed Pre Check Ins (Unique)** multiplied by 100 
+- Value = **API Request Fails When Attempting to Complete Pre Check In (Non Unique)** divided by sum of **Completed Pre Check Ins (Unique)** and **API Request Fails When Attempting to Complete Pre Check In (Non Unique)** multiplied by 100 
 - Source = [Pre-Check-in (PCI) GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
 
 #### 24-Travel via Check-in audience
