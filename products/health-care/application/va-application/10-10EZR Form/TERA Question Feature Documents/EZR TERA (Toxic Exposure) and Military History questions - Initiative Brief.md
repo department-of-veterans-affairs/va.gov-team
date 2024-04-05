@@ -129,9 +129,9 @@ Data source - [Domo Dashboard]
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative]
+* [[Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/TERA%20Questions%20Release%20Plan.md)]
 * [Test results from VES team]
-* [Test Cases from 10-10EZR team]
+* [[Test Cases from 10-10EZR team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/10-10EZR-test-document.md)]
 
 #### Initiative Launch Dates
 - *Target Launch Date*
