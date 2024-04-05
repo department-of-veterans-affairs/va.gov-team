@@ -70,7 +70,7 @@ All sessions will be remote on Zoom.
 
 ### Recruitment approach
 
-We will work with Perigean to recruit participants, and request a 20-minute kickoff meeting on April 10th. Availabilities in EST: 11:45 AM - 1:00 PM, 2:30 PM - 3:00 PM, 4:00 PM - 4:30 PM 
+We will work with Perigean to recruit participants, and request a 20-minute kickoff meeting on April 10th. Availabilities in EST: 11:45 AM - 1:00 PM, 2:30 PM - 3:00 PM, 4:00 PM - 4:30 PM. We also would like to request a note taker for this study. 
 
 ### Recruitment criteria
 
