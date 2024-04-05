@@ -28,7 +28,7 @@ Lighthouse deployed a set of updates that should fix the issues that have been o
 
 ## Change log
 #### Revision 5
-Date Deployed: 04/03/2024 \
+Date Deployed: _04/03/2024_ \
 PR: [https://github.com/department-of-veterans-affairs/vets-api/pull/15699](https://github.com/department-of-veterans-affairs/vets-api/pull/15699)
 
 Description of changes: Lighthouse pushed another round of changes and I found that the monitor went off a few times but after manually investigating, I wasn't able to find a difference in the number of ratings EVSS returned and the number of ratings Lighthouse returned, even after removing inactive ratings and ones with unwanted statuses. Updating the logging to include the number of individual ratings returned by both services and the IDs of the ratings. This should help narrow things down
