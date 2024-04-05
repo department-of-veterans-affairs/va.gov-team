@@ -124,7 +124,7 @@ When we asked participants what would improve their transition experience, they
 > Being more upfront about what you're eligible for based on your situation, and not having you do research or research outside of the VA to try to figure that out. - P2,Veteran
 
 > I think it would be if the VA website uses this [personal information] intelligently and applies that information to give you kind of a outline of what you may qualify for, what programs may be of interest to you.  - P4, Active Duty Service Member
-### 5. The service member benefit hub was new to our participants; they found the information to be useful.
+### 5. The service member benefit hub was new to our participants and they found the information to be useful.
 
 9/10 participants shared feedback on VA.gov’s [service member benefit hub landing page](https://www.va.gov/service-member-benefits/). None of the people we interviewed had seen the page before, and all felt the information was relevant and useful for transitioning service members. 
 
