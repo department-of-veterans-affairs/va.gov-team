@@ -90,7 +90,7 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 |Phase|Short Description (w/link)|Details|
 |:-:|---|---|
-|1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)||
+|1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)|we're in this phase, a readout to veo was presented where we detailed the lack of data quality|
 |2 |[Read Access for Additional Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-additional-read-access.md)||
 |3 |[ILER Read Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-iler-read-access.md)||
 |4 |[ILER Edit/Update Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enahnced-military-info-iler-edit.md)|Thinking of this as not updating ILER but a link to a form for initiating an DoD data correction|
