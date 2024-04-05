@@ -12,6 +12,13 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 4/5/2024
+- Updated eCheck-in to re-order the travel questions for consistency with the stand-alone travel application (not yet released) and based on metrics data; order is now
+    - Claiming only mileage?
+    - Own vehicle?
+    - From home address?
+    - [Ticket 79221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
+
 ## 3/19/2024
 - Updated eCheck-in to add a link to the travel reimbursement claim review page that will display the content for the VA beneficiary travel agreement in its own page
     - [Ticket 78733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
