@@ -1,11 +1,13 @@
-# Accessibility and Maintenance Standards for VA.gov Availability Dashboards 
+# Accessibility and Maintenance Standards for Federal Site Availability Dashboards 
 ## The role of accessible VA.gov availability dashboards in Veteran CX and Trust
 
 **UX Researcher*: Joshua.Matulonis@va.gov
 **March 29, 2024**
 **Project SLO**
 
+# [Key Findings](#key-findings)
 
+----------------------------
 
 ## Key Findings
 
@@ -64,7 +66,7 @@ This report explores the critical role of user experience (UX) in designing publ
 
 The focus is on effectively displaying uptime, downtime, errors, and other availability information in a way that fosters trust, transparency, and a positive customer experience for veterans. Veterans rely on the VA website to access a wide range of essential services, information, and benefits. Ensuring consistent website availability and providing clear communication regarding outages or maintenance windows are crucial aspects of user experience. 
 
-## Customer Experience and Trust
+### Customer Experience and Trust
 
 Transparency regarding website availability is crucial for building trust with VA website users, particularly veterans seeking critical information and services. 
 
@@ -87,6 +89,8 @@ A well-designed dashboard displaying real-time availability metrics can address 
 **Promote Transparency**: Open communication regarding website health builds trust and demonstrates the VA's commitment to user experience. A well-designed dashboard can showcase the VA's investment in website uptime and reliability. By acknowledging potential issues and providing updates, the VA fosters a sense of transparency and accountability.
 
 **Empower Users**: Access to availability information empowers veterans to make informed decisions about their online interactions with the VA. The dashboard can provide veterans with the knowledge to plan their tasks and access services during optimal times. For example, if the dashboard indicates a period of expected heavy traffic, veterans can choose to schedule important tasks for a different time or utilize alternative channels to access VA services.
+
+---------------------------
 
 ## Federal Requirements and Policies
 
@@ -193,21 +197,21 @@ The incremental rollout approach ensures that issues can be addressed in real-ti
 
 ### FAFSA Website Downtime and Its Effects on Students and Families
 
-The Free Application for Federal Student Aid (FAFSA) is a critical gateway for millions of students and families seeking financial assistance to attend college. However, during the 2024-2025 award year, the FAFSA underwent significant changes, including simplification and streamlining. Unfortunately, the implementation process faced delays, leading to unexpected consequences for applicants.
+The Free Application for Federal Student Aid (FAFSA) is an essential gateway for millions of students and families seeking financial assistance to attend college. During the 2024-2025 award year, the FAFSA underwent significant changes to aid in its simplification and streamlining. Unfortunately, the implementation process faced delays, leading to unexpected consequences for applicants.
 
 Downtime and Access Challenges
 
-Soft Launch Issues:
 - The new FAFSA form, intended to be simpler and more user-friendly, experienced a delayed soft launch.
 - Families could only access the form intermittently while the Education Department monitored the site for problems.
 - The form was available for only short periods, causing frustration and uncertainty for applicants.
   - Due to the limited availability windows of ~3 hours for Dec. 30 - Jan. 1, about 30,000 forms were submitted.
 
 Impact on Financial Aid Eligibility
-Changes in the methodology affected how financial need was calculated.
-Some students experienced decreased eligibility for Pell Grants.
 
-Concerns and Implications
+- Changes in the methodology affected how financial need was calculated.
+- Some students experienced decreased eligibility for Pell Grants.
+
+Outcomes
 
 - Concerns arose that families might not complete forms in time, delaying financial aid offers.
 - Students applying through early decision could commit to colleges without knowing their aid status.
@@ -254,10 +258,10 @@ The courts expedited hearings to address the issue before the enrollment deadlin
 
 Lessons Learned and Recommendations
 
-Regular maintenance schedules should be carefully planned to avoid peak enrollment times.
-Transparent communication during downtime is crucial. 
-Citizens need timely updates and alternative access options.
-Proactive notifications can mitigate frustration and maintain public trust.
+- Regular maintenance schedules should be carefully planned to avoid peak enrollment times.
+- Transparent communication during downtime is crucial. 
+- Citizens need timely updates and alternative access options.
+- Proactive notifications can mitigate frustration and maintain public trust.
 
 -----------------------------
 
@@ -285,4 +289,50 @@ Tooltips and Data Points: Provide informative tooltips or data points associated
 Color Contrast: Use colors with sufficient contrast to ensure readability for users with low vision or color blindness. Federal websites should adhere to WCAG guidelines for color contrast ratios (minimum of 4.5:1 for small text and 3:1 for large text). Color contrast checkers can be used to evaluate color combinations and identify potential issues.
 
 Descriptive Text Alternatives: Include meaningful "alt text" descriptions for all non-text content (charts, graphs, images) to allow screen readers to convey the information to visually impaired users. These descriptions should be concise and informative, accurately reflecting the data presented in the visual format.
+
+
+## Works Cited
+
+Accenture. “Improving the Government Healthcare Website.” Accenture, 2024, https://www.accenture.com/us-en/case-studies/us-federal-government/enhanching-healthcare-gov. Accessed 4 April 2024.
+
+Blontz, Blaine. “How Trusts Impact Financial Aid Eligibility: A Comprehensive Guide — Financial Aid Coach.” Financial Aid Coach, 22 May 2023, https://www.financialaidcoach.com/blog/how-trusts-impact-financial-aid-eligibility-a-comprehensive-guide. Accessed 4 April 2024.
+
+CMS. “Fact Sheets Marketplace 2024 Open Enrollment Period Report: Final National Snapshot.” CMS, 24 January 2024, https://www.cms.gov/newsroom/fact-sheets/marketplace-2024-open-enrollment-period-report-final-national-snapshot. Accessed 4 April 2024.
+
+Dirmann, Jerry. “,Review of Downtime Focused Literature.” Sagepub, 14 June 2021, https://journals.sagepub.com/doi/full/10.1177/1460458220918539. Accessed 4 April 2024.
+
+Downdetector.com. “FAFSA down? Current problems and outages.” Downdetector, 2024, https://downdetector.com/status/fafsa/. Accessed 4 April 2024.
+
+Edgerton, Kennedy. “FAFSA Applicants Frustrated By Problems During Soft Launch.” Forbes, 5 January 2024, https://www.forbes.com/advisor/student-loans/new-fafsa-applicants-encounter-delays-during-launch/. Accessed 4 April 2024.
+
+“Effect of FAFSA Simplification on Student Aid.” Wikipedia, 2024, https://www.nasfaa.org/nasfaa_case_studies_examine_impact_of_fafsa_simplification_on_student_aid_eligibility. Accessed 4 April 2024.
+
+Egan, Eric. “Most Federal Websites Are Still Bad, But That Can Change.” Information Technology and Innovation Foundation, 17 October 2023, https://itif.org/publications/2023/10/17/most-federal-websites-are-still-bad-but-that-can-change/. Accessed 4 April 2024.
+
+Federal IT. “Federal Website Metrics | IT Dashboard.” Federal IT Dashboard, 2024, https://www.itdashboard.gov/federal-website-metrics. Accessed 4 April 2024.
+
+Harvard University. “The Failed Launch Of www.HealthCare.gov - Technology and Operations Management.” Digital Data Design Institute at Harvard, 18 November 2016, https://d3.harvard.edu/platform-rctom/submission/the-failed-launch-of-www-healthcare-gov/. Accessed 4 April 2024.
+
+Health and Human Services. “202302091300_2022 Retrospective & 2023 Look Ahead_TLPCLEAR.” HHS.gov, 9 February 2023, https://www.hhs.gov/sites/default/files/2022-retrospective-and-2023-look-ahead.pdf?lv=true. Accessed 4 April 2024.
+
+IRS.gov. “Direct File.” Welcome to Direct File | Direct File | Internal Revenue Service, 2024, https://directfile.irs.gov/. Accessed 4 April 2024.
+
+Kantrowitz, Mark. “How Do Trust Funds Affect Financial Aid for College?” Saving for College, 24 December 2018, https://www.savingforcollege.com/article/how-do-trust-funds-affect-financial-aid-for-college. Accessed 4 April 2024.
+
+Ornstein, Charles. “Here's Why Healthcare.gov Broke Down — ProPublica.” ProPublica, 16 October 2013, https://www.propublica.org/article/heres-why-healthcaregov-broke-down. Accessed 4 April 2024.
+
+Ovide, Shira, and Elena Lacey. “We tested the new IRS Direct File. Here’s what you need to know.” Washington Post, 29 March 2024, https://www.washingtonpost.com/technology/2024/03/29/irs-direct-file-free-tax-filing-review/. Accessed 4 April 2024.
+
+Pa11y. “pa11y/pa11y: Pa11y is your automated accessibility testing pal.” GitHub, 2023, https://github.com/pa11y/pa11y. Accessed 4 April 2024.
+
+Stratford, Michael, and Bianca Quilantan. “FAFSA problems delays financial aid information for millions of students.” Politico, 20 February 2024, https://www.politico.com/news/2024/02/20/biden-administration-fasfa-delays-00142138. Accessed 4 April 2024.
+
+Sweeny, Evan. “Healthcare.gov Shutdown.” www.fiercehealthcare.com, 2017, https://www.fiercehealthcare.com/aca/healthcare-gov-shutdown-oig-hhs-cms-seema-verma-senators-frank-baitman. Accessed 4 April 2024.
+
+Turner, Cory. “A new FAFSA setback means many college financial aid offers won't come until April.” NPR, 31 January 2024, https://www.npr.org/2024/01/31/1228082594/fafsa-student-financial-aid-delay. Accessed 4 April 2024.
+
+W3C. “WCAG 2 Overview | Web Accessibility Initiative (WAI).” W3C, 2024, https://www.w3.org/WAI/standards-guidelines/wcag/. Accessed 4 April 2024.
+
+WebAim. “Contrast Checker.” WebAim.org, 2024, https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=E9F1FC. Accessed 4 April 2024.
+
 
