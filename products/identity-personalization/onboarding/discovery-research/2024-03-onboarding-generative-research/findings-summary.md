@@ -1,23 +1,24 @@
 # Transitioning Service Member Engagement with VA, Generative Research, Findings Summary
 
-`Draft`
-
 April 5, 2024
+
+Liz Lantz, Authenticated Experience
+
 ## Background
 The VA.gov authenticated experience thus far has been primarily focused on the user journey for existing Veterans or other VA beneficiaries - i.e. Veterans or beneficiaries who are already active in and relatively familiar with VA.gov by way of claim submission, applying for health care and engaging with other VA-sponsored benefits.
 
 We conducted generative research with to build a baseline understanding of the transition process from active duty military to Veteran status, in order to evaluate the impact VA.gov may have on the process of onboarding to VA overall. We focused this research on transitioning service members (TSM) who were within 9 months of their separation date (getting out of the military)
 
-⠀~[Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/README.md)~.
+[Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/README.md)
 
 **Jump to:**
-* ~[Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)~
-* ~[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)~
-* ~[Appendix](#appendix)~
+* [Key findings](#key-findings)
+* [Recommendations](#recommendations)
+* [Appendix](#appendix)
 ### OCTO Priorities
-This research supports the 2024 goal “Our digital experiences are the best way to access VA health care and benefits.”
+This research supports the 2024 goal “[Our digital experiences are the best way to access VA health care and benefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md#objective-1-our-digital-experiences-are-the-best-way-to-access-va-health-care-and-benefits).”
 ### Veteran Journey
-This research is most closely related to moments that matter within three early phases of the Veteran journey (~[journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)~).
+This research is most closely related to moments that matter within three early phases of the Veteran journey ([journey map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)).
 * **Serving:** Managing military and family obligations
 * **Getting out:** Understanding the process of separating
 * **Starting up:** Attending to health needs and finding a place to live
@@ -57,8 +58,6 @@ It’s also important to acknowledge that participants in our research studies a
 ### 1. VA.gov is a critical self-service resource for transitioning service members to learn about VA, during and after active duty.
 We consistently heard from participants that the role of VA.gov in their transition from the military is to be a resource for them to learn about their options as they plan for separation, and after they transition to civilian life.  
 
-> I see it, now that I'm out, as a key resource or a key place to start. - P7, Veteran 
-
 > Education is a huge part of it in terms of educating folks that are getting out about what the benefits are that they've earned, and not necessarily pushing them to access those, but just educating them on what's out there. - P12, Veteran
 
 Multiple participants talked about it serving as a bridge to fill knowledge gaps left from their Transition Assistance Program (TAP) VA course, or what they learned from peers while in service.
@@ -69,129 +68,178 @@ They also acknowledged that the transition process takes place beyond the websit
 
 > You have to ask the right questions, you have to network with the right people, otherwise you're not gonna get that information. I see that the VA website's trying to bridge that gap and that's good. That's really good.  But that, that's more of a tool, the VA website as opposed to a complete addressing of the issue.  - P1, Active Duty Service Member
 
-### 2. Multiple people had challenges identity verification and heavy reading on VA.gov; we also heard some about some one-off hurdles.
+### 2. Multiple people had challenges identity verification and extensive reading on VA.gov; we also heard about various isolated hurdles.
 #### Identity verification
 - 2 participants were annoyed by having to complete identity verification; one 1 was annoyed to the point that they didn’t want to have a VA.gov account if they needed to do that.
   > I think they [TAP instructor] were using something like ID me, I was like, I'm too lazy to do that…I don’t wanna do the whole face thing. - P2, Veteran
 
 - 1 other participant had problems with ID.me once they verified their account due to a change of address. They were unable to resolve it and instead created a login.gov account to use in the future.
 
-#### Heavy reading
-4 participants brought up the challenge of having to read and work through a lot of content on VA.gov to understand benefit information and get to the point of receiving benefits.  Most had been willing to do that work for themselves, but commented about how challenging it would be for others.
-> Someone who is maybe younger, or someone that maybe has not done higher level education, I could see where they could get frustrated very quickly and potentially just say, I'm done with it. I don't even want to deal with this 14 step process before I even, you know, apply for a class [to use education benefits]. - P3, Veteran 
-
-> I've walked three people through how to navigate the site 'cause they weren't finding the answers they needed. I would say now that I've gone through it, I would focus on that [what applies to me] more. I recommend you start looking on there and reading up on what applies to you when you know that you're separating. - P7, Veteran
+#### Extensive reading
+4 participants brought up the challenge of having to read large amounts of of content on VA.gov to understand benefit information and get to the point of receiving benefits.  3/4 had been willing to do that work for themselves, but commented about how challenging it would be for others.
+> I've walked three people through how to navigate the site 'cause they weren't finding the answers they needed. - P7, Veteran
 
 > I’m not a computer literate person and I'm a flight medic. If you get a dude that was a tanker who did wrench turning for however long, he's probably gonna be even more lost on this website than me. - P10, Veteran
 
-1 of the 4 had heard about claims being rejected, and assumed those were healthcare claims. They were interested in VA healthcare, but concerned about how claims were rejected. When they went to VA.gov to research it, they gave up because it wasn’t quick and easy to find the information they needed. Since they have private health insurance through their job, it wasn’t a priority to learn about it.
+1 of the 4 had heard about claims being rejected, and was unclear on the difference between disability claims and healthcare claims. When they visited VA.gov to research it, they gave up when they couldn’t quickly find the information they needed. 
 
 > I was trying to find information about the rejection of claims and how the claims processes work. I couldn't really find that. It wasn't clear cut to me, so I was just like, I'm [giving up on that] - P2, Veteran
 
-#### One-off challenges
-We didn’t uncover any other trends related to VA.gov challenges, but heard about a few other one-off challenges people had a hard time resolving through the website:
+#### Isolated hurdles
+We heard about a few other hurdles people found challenging to resolve through the website:
 - Getting details about each step in the claims process
 - Getting details about why a claim was rejected
 - Understanding how the VA will actually pay a college once approved for Post 9/11 GI Bill benefits
 - Getting their legal name corrected
 
-### 3. Most participants were introduced to VA.gov and created a DS Logon and/or ID.me account in their TAP class, and generally found the website very easy to use.
+### 3. Most participants first used VA.gov in their TAP course and found the website easy to use.
 
-We weren’t able to recruit participants who had no previous experience with the website, and that was primarily because people create a VA.gov account in their TAP class when they’re preparing for separation.  All participants were instructed to create a DS Logon account to sign in; some were also instructed to create an ID.me account. 
+We weren’t able to recruit participants who had no previous experience with the website, and we learned that was likely due to people creating a VA.gov account in their TAP class when they’re preparing for separation.  In the TAP course, all participants were instructed to create an account (DS Logon, and sometimes ID.me), and some TAP instructors had students submit an application for education benefits during the session.
 
-One participant used a VSO to apply for disability benefits because they’d been warned against the website by peers. However, they decided to use the site for education benefits and found it easy:
-> On my own, applying for education was easy. The site made sense and everything was right the first time that I did it. - P7, Veteran
-
-2 participants were especially surprised by how modern and easy to use VA.gov was.
-
+Throughout our sessions, participants commented on how easy the website was to use:
 > I am surprised at how well designed and user friendly it is. I thought it would be reflective of the experience I and others have had [with VA] -- inefficient and poorly designed. - P1, Active Duty Service Member
 
-> Initially, I thought anything that had to do with the Army would be bugged out. It would be terrible. I would try to go on, and it would just, it would suck. You know, my computer would crash. It [VA.gov] was a pleasant surprise. It is actually relatively easy to navigate. It is a lot of information on there. So yeah, those [concerns] were kind of put to rest, but that's what I was initially expecting. - P11, Veteran
+> [I thought] I would try to go on, and it [VA.gov] would suck. You know, my computer would crash. It was a pleasant surprise. It is actually relatively easy to navigate. - P11, Veteran
 
-### 4. VA.gov could improve the experience of onboarding to VA by reducing the burden of researching benefit and eligibility information.
-There were multiple things we heard throughout sessions that suggest that a significant burden is placed on Veterans to educate themselves on VA benefits and services by doing their own research.
-#### The quality of TAP VA courses varies by instructor, information can be difficult to retain, and sometimes people are discouraged from attending.
+### 4. Reducing the burden of researching benefit and eligibility information on VA.gov would improve the experience of onboarding to VA.
+
+This study suggests that Veterans have to spend significant amounts of time to educate themselves on VA benefits and services, because they don’t receive the info they need through existing transition resources. Participants talked about challenges with:
+- TAP courses 
+- having to research on their own to fill in knowledge gaps.
+
+#### The quality of TAP VA courses varies by instructor, information can be difficult to retain, and commanding officers don’t always encourage transitioning members to take the courses.
 > The first time I went through TAP I would say that I don't think the presenter the second time was as effective, but I think that's because she was new, and the first presenter, it was clear that he had been doing it for a while. - P12, Veteran
 
 > It almost felt like they were trying to make everything overwhelming so that you didn't want to get out. *laughs* … Even though they [command] knew I was separating, they didn't really encourage me to take those [TAP] courses to learn anything really, honestly. It felt like they wanted me to just like sink or swim. - P11, Veteran
 
-#### A lot of research, reading, and time is required to understand the benefits VA offers, and which ones a person qualifies for.  
+#### The burden of understanding benefits and determining eligibility is on the Veteran. 
 > I guess [I want to] know what would apply to me, of everything they offer, and what I necessarily I wanna look for, or go toward. I've just been busy finishing my degree and then taking care of kids. I haven't had time to sit down and look at the VA website and look at what they have to offer. - P4, active duty service member
 
-> I know whether it's the VA or other organizations that are just trying to be so transparent and provide as much information as possible, but sometimes it's information overload that it's almost too much in some aspects. - P3, Veteran
-
-> **Moderator:** Has anything been difficult or confusing for you as you've tried to learn about what the VA can do for you? 
-> **P13, active duty service member:** Yes, the “always work” environment. You're always working. So just having more time to actually sitting down and going through it. 
-
-#### People aren’t aware of what they don’t know, which makes it hard to know which questions to ask or what to look for.
 > You don't know what you don't know until you actually fill out the application. - P7, Veteran
 
 > I know they offer other resources and services outside of disability ratings and medical treatment, but I'm not necessarily sure what those resources are. I'd love to be enlightened on them. - P1, active duty service member: 
 
-We then asked participants if there were resources they wish they had but didn’t, and if there was anything they’d change about their experience learning about VA.  Many talked about ideas that would reduce their burden of researching, reading through information, and navigating VA on their own:
+When we asked participants what would improve their transition experience, they said they would like VA to be more proactive with personalized eligibility and benefit information:
 
 > Being more upfront about what you're eligible for based on your situation, and not having you do research or research outside of the VA to try to figure that out. - P2,Veteran
 
 > I think it would be if the VA website uses this [personal information] intelligently and applies that information to give you kind of a outline of what you may qualify for, what programs may be of interest to you.  - P4, Active Duty Service Member
+### 5. The service member benefit hub was new to our participants; they found the information to be useful.
 
-> I feel like there was a course available, like a video, and then I learned of the [benefits] that I don't have or things that I'm not utilizing that would, and if I knew I was qualified for it, that would help me utilize more [benefits]…I have terrible vision, which is one of the reasons I don't really like to read. If there was a video with subtitles, I'm pretty sure I would retain it more. - P11, Veteran
+9/10 participants shared feedback on VA.gov’s [service member benefit hub landing page](https://www.va.gov/service-member-benefits/). None of the people we interviewed had seen the page before, and all felt the information was relevant and useful for transitioning service members. 
 
-### 5. No one had seen the service member benefit hub prior to their research session; all participants thought the information was useful. 
+> I did not know there were benefits I could have used during my service. That would've been probably helpful just to be able to peruse those, especially since I had been in for so long.  - P10, Veteran who had been enlisted for 20 years
 
-Most participants had never seen the service member benefits section of the site and stated it would’ve been useful to see when they were separating, or it is useful to them now as they plan for civilian life. 
+Participants commented on specific aspects of the page that were particularly helpful:
+- Content related to VR&E
+  - 2 participants said they learned about this program through peers *after* their TAP course, and it was a priority for them to use this benefit.
+- Call outs related to time-sensitive benefits
+  - 3 participants commented on how critical these are, and that there should be more emphasis on this on the website somehow.
+- Bold text under benefit descriptions saying who each benefit applies to
+- TAP call out  (**note:** all participants who commented on this were on desktop)
 
-### 6. Top questions TSMs have about VA are related to disability and health benefits.
- 
-We haven’t heard many consistent questions across participants.  The people we spoke to already had a general sense of the benefits they were going to use based on need, which they learned through peers and TAP.
-The questions people named were:
-- What are the steps in the claims process?
+2 participants felt that this section of the website should be easier to discover. 
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/images/service-member-benefits.png" alt="screenshot of service member benefit hub landing page with sections mentioned above annotated" />
+
+### 6. The top question transitioning service members have is “What benefits am I eligible for?”
+
+The first thing our participants wanted to know when they started thinking using VA benefits is what benefits they were eligible for. Understandably, their priority is to learn about benefits that are applicable to their personal situation.
+
+From there, disability, health, and education benefits were priority topics for our participants. Most got their most important questions answered as they learned about the benefit, either through TAP or through peers.  However, they acknowledged “you don’t know what you don’t know” and assumed more questions would come up as they expanded their knowledge of VA.
+
+As they reflected, participants shared some specific outstanding questions they had:
+- What is actually happening in the steps of the disability claims process?
 - What benefits are there that I’m not aware of?
 - How can I add my family members and dependents to VA health care?
+- Now that I have my education benefits approved, how does VA actually pay the school?
+- How can I apply my military work experience to civilian roles?
 
 ## Additional insights
 
-### Many participants started engaging with VA before they leave the military.
-- 2 participants submitted a BDD claim.
-- 3 participants used VA education benefits while on active duty.
-- Word-of-mouth was the most common way these participants heard about the benefit and how to apply (rather than through their command or some kind of official training)
-- Most initially heard about VA benefits and services through family or peers.
-### Not all Veterans go through TAP training
+### 5/10 participants started engaging with VA before leaving the military.
+Word-of-mouth was the most common way these participants heard about VA benefits and how to apply (rather than through their command or some kind of official training). Some used multiple benefits.
+- 3 participants submitted a BDD claim.
+- 3 participants used VA education benefits.
+- 4 used VA home loans.
+
+One participant called out that technically, all active duty service members have VA benefits as soon as they’re activated because they automatically get Serviceman Group Life Insurance, which is through VA.
+### Not all Veterans go through TAP training.
 Although many resources say TAP is required, participants in our study shared a different experience:
-- One person who was in the reserves wasn’t given the option to participant when they transitioned from active duty to reserves.
-- TAP was not offered at all to a Veteran who was honorably discharged after 2 years, or to a Veteran who was medically retired after more than a decade in the service.
-- We learned that sometimes, people have to unexpectedly separate and are not able to enroll in a TAP training in time or that the trainings get full.
+- 3 participants in our study weren’t given the option to participate for unknown reasons.
+- We learned that sometimes people have to unexpectedly separate and are not able to enroll in a TAP training in time.
 - People who separated prior to 2010 (possibly even later) didn’t have the option for TAP training and there wasn’t any kind of training or intro to VA for these folks
 ### The disability claim process is a source of confusion for people new to VA.
-- Multiple participants have talked about various aspects of the process being confusing, including:
-  - the steps in the claims process
-  - why claims sit in the same status for a long time
-  - where to find electronic copies of letters they receive in the mail
-### 
-### Transitioning service members want more direct contacts or counseling to understand their benefit eligibility and help their transition to civilian life.
-We asked participants if there were any resources they wish they had as part of their transition, and if they had a magic wand what they’d change about their experience learning about and starting to use VA benefits and services.  Their responses indicate that more personal contact would have been ideal. 
-- 3/6 participants talked about wishing they had a counselor or someone they could work with directly who would advise them on what benefits they could get, based on their personal situation
+Multiple participants talked about various aspects of the process being confusing, including:
+- the steps in the claims process
+- why claims sit in the same status for a long time
+- where to find electronic copies of letters they receive in the mail related to their claim
+
+### Transitioning service members would benefit from 1:1 guidance to help them understand their benefit eligibility and help their transition to civilian life.
+When asked what resources they wish they had to help them learn about VA, 6 participants wanted an individual they could talk to directly:
+- 4/6 participants talked about wishing they had someone they could work with directly who would advise them on what benefits they could get, based on their personal situation.
 - 1 participant stated the most helpful thing in helping them adjust would’ve been a local sponsor to help them get adjusted to life in a new place.
-- 1 participant talked about how critical their VSO was in helping them understand their benefits
+- 1 participant talked about how critical their VSO was in helping them understand their benefits.
 
 ### People new to VA are generally having a positive experience and have a sense that VA is changing for the better.
-- Multiple participants talked about having very low expectations based on what they’d heard, and being pleasantly surprised by their experience
+- Multiple participants talked about having very low expectations based on what they’d heard, and being pleasantly surprised by their experience.
 - 1 participant shared how many improvements they’ve noticed during the 13 years they’ve been engaging with VA as a reservist and how much better things are today than they were 13 years ago.
-- When asked “if you had a magic wand, what would you change about your experience learning about VA and starting to use VA services?” They said “Other people’s perceptions”, and talked about how much better VA is than people had said, and that they wished more Veterans would use VA.
+- When asked “if you had a magic wand, what would you change about your experience learning about VA and starting to use VA services?” 3 participants stated they’d change the stigma around VA, and talked about how much better VA is than people had said.
 
+### People who have used the VA Health and Benefits Flagship app prefer it to the website.
+4/10 participants had experience with the mobile app, and all prefer it to the website for most purposes.  The only area where the app fell short for everyone was in helping them learn about eligibility criteria and benefits they may not be receiving. 
 ## Recommendations
-### We need to consider ways we can reduce the burden of research on people who are new to VA.
+### Reduce the burden of research on people who are new to VA.
+There are many ways VA.gov, and the mobile app (since it is hugely popular and usage is increasing), could do this with varying levels of effort. 
 
+Elevating the service member benefit hub on VA.gov by calling it out more prominently on the homepage or in the navigation might be a lower lift approach that could make a big impact.
 
-Elevating this content on the site may be one of the most impactful and low-lift things we could do immediately. 
+A few ideas to consider:
+- Provide personalized benefit information based on what we know about a logged-in user.   One potentially low-lift idea could be to add a call-out about getting started with VA to My VA (or the mobile personalized dashboard) when we have a military record without an end date for a period of service, which would suggest someone is on active duty.  Another way to trigger the call out could be when we detect a person has nothing in progress for any section of My VA.
+- Provide more succinct and scannable content about benefit eligibility. 
+- Incorporating on-demand TAP VA course content on the website. Our research suggests even an abbreviated variation would be helpful in jogging memories and providing an overview of VA benefits. We know not all service members go through TAPs, and those that do don’t retain everything they learned. 
+- Elevate the chatbot and train it to provide more clear information related to getting started with VA.  The chatbot wasn’t able to answer any of the questions participants brought up in our sessions.
 
-We heard a variety of suggestions from participants about what would’ve made their particular experience easier. All suggestions came from only 1 participant unless otherwise indicated:
-- A personalized benefits recommendation engine 
-  - 2 participants who were unfamiliar with the site expected to see this once they logged in, based on what was in their user profile
-- Adding a “New to VA?” Call out on the homepage to point people to service member benefits, or creating a separate navigation item in the main menu for people new to VA.
-- Visual aids or flow charts to better understand the claims process
-- A checklist of steps you need to take when you leave service 
-- a calculator for reservists to determine how their drill weekends (term?) impacted their disability payments
+### Consider how we do a better job fostering a 1:1 connection for people to learn about benefits and eligibility.
+It makes sense that so many participants wanted to have a 1:1 session or direct individual they can talk to in order to wrap their heads around what applies to them based on their situation.
+
+VA’s digital tools (again, VA.gov and the mobile app) could do a better job elevating content about VSOs, counselors or the VA Solid Start program in order to help Veterans make those connections. There may be other resources for Veterans not called out in this list that we could highlight to create these connections.
+
+It’s also worth considering what we could do on the website to mirror a 1:1 connection (or at least aspects of it) on VA.gov. Increased personalization on existing pages, leveraging the chatbot or exploring other AI tools are all options to consider.
+
+### Engage cross-product teams to optimize this experience for service members and Veterans.
+Although it probably goes without saying, we’d be remiss not to call out that in order to holistically improve the experience of using digital tools to onboard to VA, OCTO will need input and collaboration from various teams: Sitewide Public Websites, Authenticated Experience, CAIA, VA Profile, and the flagship mobile team are some that immediately come to mind. The success of any work related to making these improvements will rely on these teams collaborating early and often, and aligning on the priority of this work. 
+
+## Next steps
+As an immediate next step, we’ll share this research with our team to discuss potential next steps and align on ideas we want to pursue.
 ## Appendix
-
 ### Research materials
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/conversation-guide.md)
+- [Enjoy HQ project](https://app.enjoyhq.com/projects/BDJZpdQBw/plan) (used to complete analysis)
 ### Participant data
+We interviewed 10 participants:
+- 3 active duty service members
+- 7 veterans who separated within 9 months of their interview date
+- 2 women, 8 men
+- 2 people with a cognitive consideration
+- A mix of ethnicities and races:
+  - 1 identified as American Indian or Alaska Native,
+  - 1 identified as Asian, Hispanic, Latino, or Spanish origin, Native Hawaiian or other Pacific Islander
+  - 2 identified as Black or African American
+  - 4 identified as White or Caucasian
+- A mix of educational backgrounds:
+  - 1 with no degree
+  - 2 with a bachelor’s degree
+  - 3 with a master’s degree
+  - 4 with an associate’s degree
+- A mix of ages:
+  - 3 were between 18-25
+  - 5 were between 26-40
+  - 2 were between 41-55
+
+This study did not gather the following type of demographic information about participants:
+- Whether or not they were a member of the LGBTQ+ community
+- Whether or not they used assistive technology
+- Whether or not they live in an urban or rural area
+- Military discharge status
