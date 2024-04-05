@@ -1,0 +1,578 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Application for Comprehensive Assistance for Family Caregivers Program (10-10CG)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "veteran"
+  ],
+  "anyOf": [
+    {
+      "required": [
+        "primaryCaregiver"
+      ]
+    },
+    {
+      "required": [
+        "secondaryCaregiverOne"
+      ]
+    }
+  ],
+  "definitions": {
+    "fullName": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "first",
+        "last"
+      ],
+      "properties": {
+        "first": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 30
+        },
+        "middle": {
+          "type": "string",
+          "maxLength": 30
+        },
+        "last": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 30
+        }
+      }
+    },
+    "ssn": {
+      "type": "string",
+      "pattern": "^[0-9]{9}$"
+    },
+    "date": {
+      "pattern": "^(\\d{4}|XXXX)-(0[1-9]|1[0-2]|XX)-(0[1-9]|[1-2][0-9]|3[0-1]|XX)$",
+      "type": "string"
+    },
+    "gender": {
+      "type": "string",
+      "enum": [
+        "F",
+        "M"
+      ]
+    },
+    "phone": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 40
+    },
+    "email": {
+      "type": "string",
+      "maxLength": 80,
+      "format": "email"
+    },
+    "address": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "street",
+        "city",
+        "state",
+        "postalCode"
+      ],
+      "properties": {
+        "street": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50
+        },
+        "street2": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50
+        },
+        "city": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 40
+        },
+        "state": {
+          "type": "string",
+          "enum": [
+            "AL",
+            "AK",
+            "AS",
+            "AZ",
+            "AR",
+            "AA",
+            "AE",
+            "AP",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "DC",
+            "FM",
+            "FL",
+            "GA",
+            "GU",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MH",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "MP",
+            "OH",
+            "OK",
+            "OR",
+            "PW",
+            "PA",
+            "PR",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VI",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY"
+          ]
+        },
+        "postalCode": {
+          "type": "string",
+          "pattern": "^(\\d{5})(?:[-](\\d{4}))?$"
+        },
+        "county": {
+          "type": "string",
+          "maxLength": 60
+        }
+      }
+    },
+    "mailingAddress": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "street",
+        "city",
+        "state",
+        "postalCode"
+      ],
+      "properties": {
+        "street": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50
+        },
+        "street2": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50
+        },
+        "city": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 40
+        },
+        "state": {
+          "type": "string",
+          "enum": [
+            "AL",
+            "AK",
+            "AS",
+            "AZ",
+            "AR",
+            "AA",
+            "AE",
+            "AP",
+            "CA",
+            "CO",
+            "CT",
+            "DE",
+            "DC",
+            "FM",
+            "FL",
+            "GA",
+            "GU",
+            "HI",
+            "ID",
+            "IL",
+            "IN",
+            "IA",
+            "KS",
+            "KY",
+            "LA",
+            "ME",
+            "MH",
+            "MD",
+            "MA",
+            "MI",
+            "MN",
+            "MS",
+            "MO",
+            "MT",
+            "NE",
+            "NV",
+            "NH",
+            "NJ",
+            "NM",
+            "NY",
+            "NC",
+            "ND",
+            "MP",
+            "OH",
+            "OK",
+            "OR",
+            "PW",
+            "PA",
+            "PR",
+            "RI",
+            "SC",
+            "SD",
+            "TN",
+            "TX",
+            "UT",
+            "VT",
+            "VI",
+            "VA",
+            "WA",
+            "WV",
+            "WI",
+            "WY"
+          ]
+        },
+        "postalCode": {
+          "type": "string",
+          "pattern": "^(\\d{5})(?:[-](\\d{4}))?$"
+        },
+        "county": {
+          "type": "string",
+          "maxLength": 60
+        }
+      }
+    },
+    "vetRelationship": {
+      "type": "string",
+      "enum": [
+        "Spouse",
+        "Father",
+        "Mother",
+        "Son",
+        "Daughter",
+        "Brother",
+        "Sister",
+        "Significant Other",
+        "Relative - Other",
+        "Friend/Neighbor",
+        "Grandchild"
+      ]
+    },
+    "uuid": {
+      "type": "string",
+      "format": "uuid"
+    },
+    "signature": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 150
+    }
+  },
+  "properties": {
+    "veteran": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fullName",
+        "ssnOrTin",
+        "dateOfBirth",
+        "address",
+        "primaryPhoneNumber",
+        "plannedClinic"
+      ],
+      "properties": {
+        "fullName": {
+          "$ref": "#/definitions/fullName"
+        },
+        "ssnOrTin": {
+          "$ref": "#/definitions/ssn"
+        },
+        "dateOfBirth": {
+          "$ref": "#/definitions/date"
+        },
+        "gender": {
+          "$ref": "#/definitions/gender"
+        },
+        "address": {
+          "$ref": "#/definitions/address"
+        },
+        "primaryPhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "alternativePhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "email": {
+          "$ref": "#/definitions/email"
+        },
+        "plannedClinic": {
+          "type": "string"
+        },
+        "lastTreatmentFacility": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "name",
+            "type"
+          ],
+          "properties": {
+            "name": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 100
+            },
+            "type": {
+              "type": "string",
+              "enum": [
+                "hospital",
+                "clinic"
+              ]
+            }
+          }
+        },
+        "signature": {
+          "$ref": "#/definitions/signature"
+        },
+        "certifications": {
+          "type": "array",
+          "uniqueItems": true,
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "string",
+            "enum": [
+              "information-is-correct-and-true",
+              "consent-to-caregivers-to-perform-care"
+            ]
+          }
+        }
+      }
+    },
+    "primaryCaregiver": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fullName",
+        "dateOfBirth",
+        "address",
+        "primaryPhoneNumber",
+        "vetRelationship",
+        "hasHealthInsurance"
+      ],
+      "properties": {
+        "fullName": {
+          "$ref": "#/definitions/fullName"
+        },
+        "ssnOrTin": {
+          "$ref": "#/definitions/ssn"
+        },
+        "dateOfBirth": {
+          "$ref": "#/definitions/date"
+        },
+        "gender": {
+          "$ref": "#/definitions/gender"
+        },
+        "address": {
+          "$ref": "#/definitions/address"
+        },
+        "primaryPhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "alternativePhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "email": {
+          "$ref": "#/definitions/email"
+        },
+        "vetRelationship": {
+          "$ref": "#/definitions/vetRelationship"
+        },
+        "hasHealthInsurance": {
+          "type": "boolean"
+        },
+        "signature": {
+          "$ref": "#/definitions/signature"
+        },
+        "certifications": {
+          "type": "array",
+          "uniqueItems": true,
+          "minItems": 6,
+          "maxItems": 7,
+          "items": {
+            "type": "string",
+            "enum": [
+              "information-is-correct-and-true",
+              "at-least-18-years-of-age",
+              "member-of-veterans-family",
+              "not-member-of-veterans-family",
+              "currently-or-will-reside-with-veteran--as-primary",
+              "agree-to-perform-services--as-primary",
+              "understand-revocable-status--as-primary",
+              "have-understanding-of-non-employment-relationship"
+            ]
+          }
+        }
+      }
+    },
+    "secondaryCaregiverOne": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fullName",
+        "dateOfBirth",
+        "address",
+        "primaryPhoneNumber",
+        "vetRelationship"
+      ],
+      "properties": {
+        "fullName": {
+          "$ref": "#/definitions/fullName"
+        },
+        "ssnOrTin": {
+          "$ref": "#/definitions/ssn"
+        },
+        "dateOfBirth": {
+          "$ref": "#/definitions/date"
+        },
+        "gender": {
+          "$ref": "#/definitions/gender"
+        },
+        "address": {
+          "$ref": "#/definitions/address"
+        },
+        "primaryPhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "alternativePhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "email": {
+          "$ref": "#/definitions/email"
+        },
+        "vetRelationship": {
+          "$ref": "#/definitions/vetRelationship"
+        },
+        "signature": {
+          "$ref": "#/definitions/signature"
+        },
+        "certifications": {
+          "type": "array",
+          "uniqueItems": true,
+          "minItems": 6,
+          "maxItems": 7,
+          "items": {
+            "type": "string",
+            "enum": [
+              "information-is-correct-and-true",
+              "at-least-18-years-of-age",
+              "member-of-veterans-family",
+              "not-member-of-veterans-family",
+              "currently-or-will-reside-with-veteran--as-secondary",
+              "agree-to-perform-services--as-secondary",
+              "understand-revocable-status--as-secondary",
+              "have-understanding-of-non-employment-relationship"
+            ]
+          }
+        }
+      }
+    },
+    "secondaryCaregiverTwo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fullName",
+        "dateOfBirth",
+        "address",
+        "primaryPhoneNumber",
+        "vetRelationship"
+      ],
+      "properties": {
+        "fullName": {
+          "$ref": "#/definitions/fullName"
+        },
+        "ssnOrTin": {
+          "$ref": "#/definitions/ssn"
+        },
+        "dateOfBirth": {
+          "$ref": "#/definitions/date"
+        },
+        "gender": {
+          "$ref": "#/definitions/gender"
+        },
+        "address": {
+          "$ref": "#/definitions/address"
+        },
+        "primaryPhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "alternativePhoneNumber": {
+          "$ref": "#/definitions/phone"
+        },
+        "email": {
+          "$ref": "#/definitions/email"
+        },
+        "vetRelationship": {
+          "$ref": "#/definitions/vetRelationship"
+        },
+        "signature": {
+          "$ref": "#/definitions/signature"
+        },
+        "certifications": {
+          "type": "array",
+          "uniqueItems": true,
+          "minItems": 6,
+          "maxItems": 7,
+          "items": {
+            "type": "string",
+            "enum": [
+              "information-is-correct-and-true",
+              "at-least-18-years-of-age",
+              "member-of-veterans-family",
+              "not-member-of-veterans-family",
+              "currently-or-will-reside-with-veteran--as-secondary",
+              "agree-to-perform-services--as-secondary",
+              "understand-revocable-status--as-secondary",
+              "have-understanding-of-non-employment-relationship"
+            ]
+          }
+        }
+      }
+    },
+    "poaAttachmentId": {
+      "$ref": "#/definitions/uuid"
+    },
+    "signAsRepresentative": {
+      "type": "boolean"
+    }
+  }
+}
