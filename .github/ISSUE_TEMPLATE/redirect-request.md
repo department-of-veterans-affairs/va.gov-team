@@ -13,6 +13,12 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 - This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
 - It is your responsibility to notify VA stakeholders as appropriate.  
 
+| POC | Github alias(es) |
+--- | --- 
+| Product team point(s) of contact: | @ |
+| Content point of contact: | `CAIA will enter` |
+| IA point of contact: | `IA will enter` |
+
 
 ### Type of request
 - [ ] We are retiring or taking down a page and need to redirect the URL (complete redirect section)
