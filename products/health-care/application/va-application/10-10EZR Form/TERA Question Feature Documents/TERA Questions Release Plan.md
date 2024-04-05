@@ -17,11 +17,11 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [Link to Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/10-10EZR-test-document.md)
+  - [x] [Link to Test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/TERA%20Questions%20Release%20Plan.md)
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Ramya Venkataraman (ramya.venkataraman@va.gov) and team on End to End testing
-   - [x] [Link to confirmation of successful transmission/processing](**Need to add link**)
+   - [x] [Link to confirmation of successful transmission/processing](**Need to add documentation**)
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to (scheduled for 4/8):
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
