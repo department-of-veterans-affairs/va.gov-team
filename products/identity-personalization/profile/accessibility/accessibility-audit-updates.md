@@ -93,7 +93,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 #### Notification settings
 
 - [X] **Status**: Legend issue work completed in [#31449](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31449)
-- [ ] **Status**: Semantic list issue still outstanding [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041)
+- [x] **Status**: Semantic list issue still outstanding [#37041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041)
 - The legend element should be the first child of the fieldset for notification preferences ([ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31449))
 - **Next steps:** [Ticket in icebox](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37041)
 
