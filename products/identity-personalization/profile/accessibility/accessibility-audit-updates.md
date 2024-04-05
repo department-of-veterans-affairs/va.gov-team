@@ -109,7 +109,7 @@ _We should consolidate all accessibility feedback we've gotten, review it, and d
 ### Issues that need more work
 
 #### Hubless spoke
-- [ ] **Status**: Unclear if we are going to work on this
+- [x] **Status**: Unclear if we are going to work on this < completed in 2023 by creating the Profile Hub Page
 - [Mural](https://app.mural.co/t/vsa8243/m/vsa8243/1653404244021/d2fdb4d36539e09705429286accaf119db765664?invited=true&sender=u28f508d646c449cc1afe4873) 
 - Concerns presented by accessibility folks regarding current challenges due to the lack of a true landing page
 - Initial meeting held with Josh Kim, David Kennedy, and Matt Dingee
