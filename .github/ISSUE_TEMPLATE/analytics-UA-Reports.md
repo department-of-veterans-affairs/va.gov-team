@@ -1,5 +1,5 @@
 ---
-name: "Analytics - UA Reports Invetory" 
+name: "Analytics - UA Reports Inventory" 
 about: "To aid with the GA4 migration, we need to capture all reports using GA data" 
 title: "Reports Powered by UA: [Team Name]"
 labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
@@ -19,14 +19,14 @@ In prepration for the migration to GA4, we need information on all actively used
 **Step 1:** Please provide the following information on each actively used report your team uses that contains UA data at the bottom of this ticket, (or if it's easier, attach a spreadsheet).
 - Report Name
 - URL Link
-- Reporting Platform, (Domo, GA, etc.)
-- Description of Report, (or how it is used)
+- Reporting Platform (Domo, GA, etc.)
+- Description of Report (or how it is used)
   
 **Step 2:** Include your team within the title of this form.
 
 **Step 3:** Submit this form.
 
-_Our team will follow up with you for next steps._
+_Our team will follow up with you for any next steps._
 
 > [!NOTE]
 > - We are defining _"actively used reports"_ as reports that are actively collecting data, and are consistently accessed daily, weekly, or monthly over the last 6 months.
