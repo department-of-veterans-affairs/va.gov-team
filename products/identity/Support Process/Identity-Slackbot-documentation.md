@@ -14,7 +14,7 @@ To get help from the team, use the Slackbot in the [#vsp-identity](https://dsva.
 To get in touch with our engineers or product managers, submit a support request using our Slackbot. 
 - You’ll get a reply from our product or engineering team within 1 business day on Slack. 
 - Urgent requests impacting Veterans on production servers will get a response within 1 business hour on Slack.
-- For urgent requests outside of business hours, [email the team](component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com) to explain the issue.
+- For urgent requests outside of business hours, email the team at **component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com** to explain the issue.
 
 ### Open the Slackbot
 
