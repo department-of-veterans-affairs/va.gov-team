@@ -7,12 +7,12 @@
 **Epic: SLOs and SLAs**
 
 ## [Key Findings](#key-findings)
-## [Next Steps](#next-steps)
 ## [Introduction](#introduction)
 ## [Federal Requirements and Policies](#federal-requirements-and-policies)
 ## [Examples of Federal Websites Prioritizing Availability](#examples-of-federal-websites-prioritizing-availability)
 ## [Case Studies](#case-studies)
 ## [Accessible Data Visualization in Dashboards](#accessible-data-visualization-in-dashboards)
+## [Next Steps](#next-steps)
 ## [Works Cited](#works-cited)
 ----------------------------
 
@@ -20,24 +20,14 @@
 
 ### Federal Standards Matter
 
-- Federal agencies operate within a framework of guidelines, regulations, and policies.
-  - These standards are the foundation of building trust.
-- Adhering to federal requirements ensures that citizens receive consistent, reliable services.
-  - Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
-- The significance of having consistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
-  - Some sites have a 90% target associated with this measure.
-  - This allows for some variance across several products due to unanticipated or external factors.
-- Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
-
-### Transparency and Accountability
-
-- Trust in government services hinges on the belief that federal websites will reliably deliver what they promise.
+- Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
 - Availability is not an abstract concept; it directly impacts citizens’ lives. 
-- When a website experiences downtime, it disrupts services, frustrates users, and erodes trust.
 - Maintaining high availability demonstrates transparency and accountability.
-- Positive interactions build confidence. 
 - Users return to a website they trust, knowing it won’t fail them during critical moments.
 - A consistently available website signals preparedness, efficiency, and commitment.
+   - Positive interactions build confidence.
+- Guidelines for data visualization and accessibility, within Section 508 and WCAG 2.2, are important for presenting uptime, downtime, and other availability metrics on federal website dashboards in a way that is clear, usable, and understandable for all users. 
+
 
 ### Learnings From Federal Website Availability Issues
 - Proactive notifications of downtime, and adherence to downtime schedules, can reduce frustration and maintain public trust.
@@ -45,40 +35,17 @@
 - Use an incremental rollout approach to ensure that issues can be addressed in real-time, following industry best practices.
 - A website's sign-in screen may become a bottleneck if it isn’t designed to handle as much traffic as the main site.
 - Provide website support technicians a different sign-in screen to access the site when troubleshooting problems (In case the sign-in screen is unavailable).
-
-
-## Next Steps
-
-### Test Prototype Dashboards
-
-- 1:1 Task based interviews of prototype dashboards
-
-**Tasks**
-- Navigate to the "Current Status" section of the dashboard. Can you describe what information is presented there?
-  - (Assesses basic navigation and information comprehension)
-
-**Uptime Information**
-
-- Imagine you're planning to file a claim online with the VA. You want to check the website's uptime before you begin. Please find the information related to website uptime for the past week.
-  - (Evaluates ability to locate specific data points)
-- Can you tell me what the average uptime percentage is for the past week?
-  - (Tests data comprehension)
-- If assistive technology is used, inquire: How well does your assistive technology interact with the uptime information?
-  - (Evaluates compatibility)
-
-**Feature Rating**
-
-- Rate your satisfaction with the dashboard's (design, layout, look and feel, content, features, copy, organization, and other elements)
-  - (Tests information hierarchy and user experience)
+- The significance of having consistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
+  - Some sites have a 90% target associated with this measure.
+  - This allows for some variance across several products due to unanticipated or external factors.
+- Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
 
 ---------------------
 ---------------------
 
 ## Introduction
 
-This report explores the critical role of user experience (UX) in designing public dashboards for the Department of Veteran Affairs (VA) website. 
-
-The focus is on effectively displaying uptime, downtime, errors, and other availability information in a way that fosters trust, transparency, and a positive customer experience for veterans. Veterans rely on the VA website to access a wide range of essential services, information, and benefits. Ensuring consistent website availability and providing clear communication regarding outages or maintenance windows are crucial aspects of user experience. 
+It is essential to displaying uptime, downtime, errors, and other availability information in an effective way that fosters trust, transparency, and a positive customer experience for veterans. Veterans rely on the VA website to access a wide range of essential services, information, and benefits. Ensuring consistent website availability and providing clear communication regarding outages or maintenance windows are crucial aspects of trust, customer experience, accessibility, and user experience. 
 
 ### Customer Experience and Trust
 
@@ -291,6 +258,32 @@ Color Contrast: Use colors with sufficient contrast to ensure readability for us
 Descriptive Text Alternatives: Include meaningful "alt text" descriptions for all non-text content (charts, graphs, images) to allow screen readers to convey the information to visually impaired users. These descriptions should be concise and informative, accurately reflecting the data presented in the visual format.
 
 ----------------------------
+--------------------
+
+## Next Steps
+
+### Test Prototype Dashboards
+
+- 1:1 Task based interviews of prototype dashboards
+
+**Tasks**
+Scenario: **Imagine you're planning to file a claim online with the VA. You want to check the website's uptime before you begin.**
+
+1. **Please find the information related to website uptime for the past week.**
+  - (Evaluates ability to locate specific data points)
+  
+2. **Navigate to the "Current Status" section of the dashboard. Can you describe what information is presented there?**
+  - (Assesses basic navigation and information comprehension)
+
+3. **Can you tell me what the average uptime percentage is for the past week?**
+  - (Tests data comprehension)
+
+**Feature Rating**
+
+1. Rate your satisfaction with the dashboard's: design; layout; look and feel; content; features; copy; organization; other)
+  - (Tests information hierarchy and user experience)
+ 
+----------------------------------
 
 ## Works Cited
 
