@@ -1,12 +1,19 @@
 # Accessibility and Maintenance Standards for Federal Site Availability Dashboards 
 ## The role of accessible VA.gov availability dashboards in Veteran CX and Trust
 
-**UX Researcher*: Joshua.Matulonis@va.gov
+**UX Researcher**: Joshua.Matulonis@va.gov
+
 **March 29, 2024**
-**Project SLO**
+**Epic: SLOs and SLAs**
 
-# [Key Findings](#key-findings)
-
+## [Key Findings](#key-findings)
+## [Next Steps](#next-steps)
+## [Introduction](#introduction)
+## [Federal Requirements and Policies](#federal-requirements-and-policies)
+## [Examples of Federal Websites Prioritizing Availability](#examples-of-federal-websites-prioritizing-availability)
+## [Case Studies](#case-studies)
+## [Accessible Data Visualization in Dashboards](#accessible-data-visualization-in-dashboards)
+## [Works Cited](#works-cited)
 ----------------------------
 
 ## Key Findings
@@ -16,9 +23,10 @@
 - Federal agencies operate within a framework of guidelines, regulations, and policies.
   - These standards are the foundation of building trust.
 - Adhering to federal requirements ensures that citizens receive consistent, reliable services. Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
-- The significance of having sconsistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
+- The significance of having consistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
   - Some sites have a 90% target associated with this measure.
   - This allows for some variance across several products due to unanticipated or external factors.
+- Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
 
 ### Transparency and Accountability
 
@@ -40,24 +48,29 @@
 
 ## Next Steps
 
-### 1:1 Task based interviews of prototype dashboards
+### Test Prototype Dashboards
 
-**Main Tasks**
-Navigate to the "Current Status" section of the dashboard. Can you describe what information is presented there? (Assesses basic navigation and information comprehension)
+- 1:1 Task based interviews of prototype dashboards
 
-**Uptime Information:**
+**Tasks**
+- Navigate to the "Current Status" section of the dashboard. Can you describe what information is presented there?
+  - (Assesses basic navigation and information comprehension)
 
-Imagine you're planning to file a claim online with the VA. You want to check the website's uptime before you begin. Please find the information related to website uptime for the past week. (Evaluates ability to locate specific data points)
-Can you tell me what the average uptime percentage is for the past week? (Tests data comprehension)
-If assistive technology is used, inquire: How well does your assistive technology interact with the uptime information? (Evaluates compatibility)
+**Uptime Information**
 
-**Accessibility Features:**
+- Imagine you're planning to file a claim online with the VA. You want to check the website's uptime before you begin. Please find the information related to website uptime for the past week.
+  - (Evaluates ability to locate specific data points)
+- Can you tell me what the average uptime percentage is for the past week?
+  - (Tests data comprehension)
+- If assistive technology is used, inquire: How well does your assistive technology interact with the uptime information?
+  - (Evaluates compatibility)
 
-Gathers feedback on compatibility with AT
-Did you find the dashboard layout and organization easy to follow? (Tests information hierarchy and user experience)
-Design, layout, look and feel, content, +
+**Feature Rating**
 
+Rate your satisfaction with the dashboard's (design, layout, look and feel, content, features, copy, organization, and other elements)
+(Tests information hierarchy and user experience)
 
+---------------------
 ---------------------
 
 ## Introduction
@@ -72,17 +85,17 @@ Transparency regarding website availability is crucial for building trust with V
 
 Numerous studies have documented the importance of website responsiveness and minimal downtime for user satisfaction, in addition to the strong correlation between website performance and customer experience. 
 
-A study by [Forrester Research](https://www.forrester.com/) indicates that a one-second delay in page load time can decrease customer satisfaction by 7%. 
+- A study by [Forrester Research](https://www.forrester.com/) indicates that a one-second delay in page load time can decrease customer satisfaction by 7%. 
 
-According to the Federal IT Dashboard, only 30% of federal websites have no detectable accessibility issues.
+- According to the Federal IT Dashboard, only 30% of federal websites have no detectable accessibility issues.
 
-Less than 20% of federal websites use code from the U.S. Web Design System (USWDS), leading to inconsistent user experiences.
+- Less than 20% of federal websites use code from the U.S. Web Design System (USWDS), leading to inconsistent user experiences.
 
-The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
+- The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
 
 While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. In these instances, the VA website becomes a critical touchpoint for veterans, and ensuring its consistent availability of services is essential for maintaining a positive user experience.
 
-A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways:
+**A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways:**
 
 **Manage User Expectations**: By informing users about potential downtime or ongoing maintenance, the VA can set realistic expectations and minimize frustration. For instance, the dashboard could clearly communicate the expected duration of maintenance windows or highlight periods of peak usage that might lead to slower response times. This proactive communication can help veterans plan their online interactions and avoid scheduling important tasks during known downtime.
 
@@ -115,7 +128,8 @@ Federal agencies must adhere to various policies and guidelines related to websi
 
 ### Section 508 of the Rehabilitation Act of 1973:
 
-- This law ensures that federal websites are accessible to people with disabilities. Agencies must create content that is “perceivable, operable, understandable, and robust” for all users.
+- These standards ensures that federal websites are accessible to people with disabilities. Agencies must create content that is “perceivable, operable, understandable, and robust” for all users.
+- Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
 
 ### E-Government Act of 2002: 
 
@@ -161,16 +175,14 @@ Federal agencies must adhere to various policies and guidelines related to websi
   
 ### National Science Foundation (NSF)
 
-Some of the NSF’s core functions are to offer digital services and programs to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields. 
+- Some of the NSF’s core functions are to offer digital services and programs to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields. 
 
-A key indicator of the efficiency is the adherence to scheduled uptime or downtime. 
-This metric is monitored daily. 
+- Efficiency, the adherence to scheduled uptime or downtime, is one of their key indicators monitored daily.
 
-If the measure had to do only with total downtime of facilities, it would not adequately address the needs of some facilities to change or modify instruments, update systems, nor would it acknowledge the differences across the many types of facilities NSF funds and operates. 
+- The facilities program has a 90% target associated with this measure, which allows for some variance across NSF programs due to unanticipated or external factors, in addition to addressing the needs of some facilities to change or modify instruments, update systems, and operate their many systems. 
 
-Given the significance of the scheduled operating time for each facility, it is important to set this level in each case responsibly and meaningfully. 
+- These differences hilight the importance of setting SL's for each case responsibly and meaningfully. 
 
-The facilities program has a 90% target associated with this measure, which allows for some variance across NSF programs due to unanticipated or external factors.
 
 ### IRS.gov
 
@@ -192,6 +204,7 @@ The IRS plans to invite taxpayers from 13 states to participate in the Direct Fi
 Participants will stress-test the prototype and help the agency determine whether to scale up the program.
 The incremental rollout approach ensures that issues can be addressed in real-time, following industry best practices.
 
+-----------------------------------
 
 ## Case Studies
 
@@ -229,32 +242,28 @@ Approximately 16.4 million Americans rely on HealthCare.gov for plan selections 
 HealthCare.gov was officially launched on October 1, 2013, covering residents of 36 states that did not create their own healthcare exchanges.
 
 - Downtime: Within 2 hours of launch, the website experienced downtime due to high demand—250,000 users, which was 5 times more than expected.
-- Incomplete Design: The initial capacity issue was compounded by incomplete website design, leading to user frustrations.
-
-Citizens attempting to enroll in health insurance plans encountered error messages, slow loading times, and system unresponsiveness.
-
+- New Consumers: Over 5 million new consumers attempted to access the website during this period.
+- Citizens attempting to enroll in health insurance plans encountered error messages, slow loading times, and system unresponsiveness.
 - The downtime persisted for 48 hours, coinciding with the peak enrollment period.
-
-**The website's sign-in screen became a bottleneck as it wasn’t designed to handle as much traffic as the main site. **
-
-**Also, website support technicians couldn’t provide assistance as they used the same sign-in screen to access the site for troubleshooting problems.**
-
-A total of 6 users completed and submitted their applications and selected a health insurance plan on the first day.
+- Incomplete Design: The initial capacity issue was compounded by incomplete website design, leading to user frustrations.
+- The website's sign-in screen became a bottleneck as it wasn’t designed to handle as much traffic as the main site.
+- Website support technicians couldn’t provide assistance as they used the same sign-in screen to access the site for troubleshooting problems.
 
 Impact:
-The downtime prevented timely plan selections, affecting individuals and families seeking health coverage.
-New Consumers: Over 5 million new consumers attempted to access the website during this period.
+- The downtime prevented timely plan selections, affecting individuals and families seeking health coverage.
+- A total of 6 users completed and submitted their applications and selected a health insurance plan on the first day.
+
 
 Public Outcry and Trust Erosion
-Citizens expressed frustration on social media, highlighting the urgency of health insurance decisions.
-Families faced uncertainty about their coverage status due to the downtime.
-Trust in the government’s ability to manage essential services wavered.
+- Citizens expressed frustration on social media, highlighting the urgency of health insurance decisions.
+- Families faced uncertainty about their coverage status due to the downtime.
+- Trust in the government’s ability to manage essential services declined.
 
 Legal Challenges:
 
-Advocacy groups and legal experts raised concerns about potential disenfranchisement.
-Lawsuits were filed, alleging that the downtime violated citizens’ right to access health insurance.
-The courts expedited hearings to address the issue before the enrollment deadline.
+- Advocacy groups and legal experts raised concerns about potential disenfranchisement.
+- Lawsuits were filed, alleging that the downtime violated citizens’ right to access health insurance.
+- The courts expedited hearings to address the issue before the enrollment deadline.
 
 Lessons Learned and Recommendations
 
@@ -265,8 +274,7 @@ Lessons Learned and Recommendations
 
 -----------------------------
 
-
-## Choosing Accessible Data Visualization Techniques for Federal Website Dashboards
+## Accessible Data Visualization in Dashboards
 
 Effective data visualization is important for presenting uptime, downtime, and availability metrics on federal website dashboards in a way that is clear and understandable for all users. 
 
@@ -290,6 +298,7 @@ Color Contrast: Use colors with sufficient contrast to ensure readability for us
 
 Descriptive Text Alternatives: Include meaningful "alt text" descriptions for all non-text content (charts, graphs, images) to allow screen readers to convey the information to visually impaired users. These descriptions should be concise and informative, accurately reflecting the data presented in the visual format.
 
+----------------------------
 
 ## Works Cited
 
