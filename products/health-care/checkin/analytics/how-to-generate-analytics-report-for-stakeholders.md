@@ -2,6 +2,11 @@
 
 These instructions outline how to generate and send an analytics report to our VA stakeholders
 
+- [Frequency](#frequency)
+- [Delivery](#delivery)
+- [Format and Metrics to Report](#format-and-metrics-to-report)
+- [Where to Get Each Metric ](#where-to-get-each-metric)
+
 ## Frequency
 - Quarterly
     - Jan-Mar
@@ -51,7 +56,7 @@ These instructions outline how to generate and send an analytics report to our V
 - Submissions: [27-Travel via Check-in submissions](#27-travel-via-check-in-submissions)
 - Submission failures: [28-Travel via Check-in submission failues](#28-travel-via-check-in-submission-failues) total "complete check-in" api call failures; [29-Travel via Check-in failure rate](#29-travel-via-check-in-failure-rate) % total
 
-##  Where to Get the Metric 
+##  Where to Get Each Metric 
 
 **NOTE: Dashboards should be filtered for the quarter for which metrics are being reported**
 
