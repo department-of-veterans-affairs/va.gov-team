@@ -51,7 +51,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
   * Task Requests
   * Help Requests
   * USiP
-* Slackbot message automation.
+* IDbot message automation.
    * When a request is assigned.
    * When a request is closed.
 * ID Bot posts conversation in Slack thread into Github ticket
