@@ -31,7 +31,7 @@ Using Optimal Workshop, we conducted an unmoderated study in which participants 
 ## Hypothesis and Conclusion - UPDATE
 
 **1. Most participants will be able to identify and locate methods of communication on facility health care pages.**
-  - _Definitely true._  - Participants looked within the family member hub significantly more than the Veteran benefit hubs in 4 of the 5 related tasks
+  - _Definitely true._  - Participants primarily navigated to the Make an Appointment, Contact Us, or Manage your health online for all 6 tasks. 
 
 
 ## Key Findings - UPDATE
