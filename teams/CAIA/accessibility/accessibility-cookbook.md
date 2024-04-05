@@ -116,7 +116,11 @@ Assistive technology users rely on proper semantics to access web content. They 
               - _Make it a Link_
             - Yes
               - Examples: A link to a page which will begin a new form; A link on a page with an existing button as the primary action that’s needs more visual weight than other links
-              - _Make it an Action Link_
+                - **Is this on web or mobile?**
+                  - Mobile
+                    - _Ask your friendly neighborhood accessibility expert_
+                  - Web
+                    - _Make it an Action Link_
     - No
       - **Is the purpose of this control to generate data for a file?**
         - Examples: Creating a PDF from a web page; Creating a PDF from data on the server
