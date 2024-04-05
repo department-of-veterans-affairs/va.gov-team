@@ -9,15 +9,16 @@
 
 ## Key Findings
 
-### Federal Standards Matter:
+### Federal Standards Matter
 
-- Federal agencies operate within a framework of guidelines, regulations, and policies. These standards are the foundation of building trust.
+- Federal agencies operate within a framework of guidelines, regulations, and policies.
+  - These standards are the foundation of building trust.
 - Adhering to federal requirements ensures that citizens receive consistent, reliable services. Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
 - The significance of having sconsistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
-  - Some sites have a 90% target associated with this measure
-  - This allows for some variance across programs due to unanticipated or external factors
+  - Some sites have a 90% target associated with this measure.
+  - This allows for some variance across programs due to unanticipated or external factors.
 
-### Transparency and Accountability:
+### Transparency and Accountability
 
 - Availability is not an abstract concept; it directly impacts citizens’ lives. 
 - When a website experiences downtime, it disrupts services, frustrates users, and erodes trust.
@@ -27,10 +28,12 @@
 - A consistently available website signals preparedness, efficiency, and commitment.
 - Trust in government services hinges on the belief that federal websites will reliably deliver what they promise.
 
-### Learn From the Past 
-- Proactive notifications can mitigate frustration and maintain public trust.
-- Stress test a prototype before a public rollout with participants to determine whether it is safe to scale up the program.
-- Use an incremental rollout approach ensures that issues can be addressed in real-time, following industry best practices.
+### Learnings From Federal Website Availability Issues
+- Proactive notifications of downtime can reduce frustration and maintain public trust.
+- To determine whether it is safe to scale up a program, stress test a prototype before a public rollout with participants.
+- Use an incremental rollout approach to ensure that issues can be addressed in real-time, following industry best practices.
+- A website's sign-in screen may become a bottleneck if it isn’t designed to handle as much traffic as the main site.
+- Provide website support technicians a different sign-in screen to access the site when troubleshooting problems (In case the sign-in screen is unavailable).
 
 
 ## Next Steps
@@ -75,9 +78,7 @@ Less than 20% of federal websites use code from the U.S. Web Design System (USWD
 
 The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
 
-While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. Downtime can lead to frustration and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. In these instances, the VA website becomes a critical touchpoint for veterans, and ensuring its consistent availability is essential for maintaining a positive user experience.
-
-In the context of the VA, website outages can have significant consequences for veterans seeking essential resources and benefits.
+While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. In these instances, the VA website becomes a critical touchpoint for veterans, and ensuring its consistent availability of services is essential for maintaining a positive user experience.
 
 A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways:
 
@@ -106,7 +107,7 @@ Federal agencies must adhere to various policies and guidelines related to websi
 
 - Issued by the Office of Management and Budget (OMB) in November 2016, this policy outlines requirements for federal agency websites and digital services. It covers aspects like accessibility, security, and performance.
 - It emphasizes the need for federal websites to maintain high availability, minimize downtime, and promptly address any disruptions.
-- Agencies must implement robust monitoring and incident response mechanisms to ensure continuous service.
+- Agencies must implement monitoring and incident response mechanisms to ensure continuous service.
 
 ### Section 508 of the Rehabilitation Act of 1973:
 
@@ -120,7 +121,8 @@ Federal agencies must adhere to various policies and guidelines related to websi
 
 ### Open Data Policy-Managing Information as an Asset (M-13-13):
 
-- Released in May 2013, this policy encourages agencies to treat information as a valuable asset. It promotes transparency, data sharing, and open data initiatives.
+- Released in May 2013, this policy encourages agencies to treat information as a valuable asset.
+- It promotes transparency, data sharing, and open data initiatives.
 
 ### Next Steps in the Evidence and Innovation Agenda (M-13-17):
 
@@ -135,7 +137,9 @@ Federal agencies must adhere to various policies and guidelines related to websi
 
 - Established a framework for protecting government information systems, including websites. 
 - Security considerations should be addressed when designing and maintaining dashboards. 
-- Includes measures to safeguard sensitive user data, prevent unauthorized access, and ensure the confidentiality, integrity, and availability of website performance data. 
+- Includes measures to safeguard sensitive user data, prevent unauthorized access, and ensure the confidentiality, integrity, and availability of website performance data.
+
+----------------------------
 
 ## Examples of Federal Websites Prioritizing Availability
 
@@ -153,14 +157,12 @@ Federal agencies must adhere to various policies and guidelines related to websi
   
 ### National Science Foundation (NSF)
 
-The purpose of the program is to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields, one of NSF’s core functions. 
+Some of the NSF’s core functions are to offer digital services and programs to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields. 
 
-Performance Measure
+A key indicator of the efficiency is the adherence to scheduled uptime or downtime. 
+This metric is monitored daily. 
 
-EFFICIENCY: Percent of operational facilities that keep scheduled operating time lost to less than 10%
-
-Explanation
-A key indicator of the efficiency of facilities operations is the adherence to scheduled uptime or downtime, and this performance is readily monitored through day-to-day facility operations. If the measure had to do only with total downtime of facilities, it would not adequately address the needs of some facilities to change or modify instruments, etc, nor would it acknowledge the differences across the many types of facilities NSF funds and operates. 
+If the measure had to do only with total downtime of facilities, it would not adequately address the needs of some facilities to change or modify instruments, update systems, nor would it acknowledge the differences across the many types of facilities NSF funds and operates. 
 
 Given the significance of the scheduled operating time for each facility, it is important to set this level in each case responsibly and meaningfully. 
 
@@ -177,9 +179,9 @@ The facilities program has a 90% target associated with this measure, which allo
 - Direct File simplifies tax filing for eligible users with simple tax returns.
 - It provides a secure and easy-to-use platform directly through the IRS website.
 
-The IRS recognizes that citizens rely on its services for critical tasks such as tax filing.
-Downtime or errors erode trust and disrupt essential services.
-The IRS aims to improve website availability and reliability through learnings from pilot initiatives like Direct File.
+- The IRS recognizes that citizens rely on its services for critical tasks such as tax filing.
+- Downtime or errors erode trust and disrupt essential services.
+- The IRS aims to improve website availability and reliability through learnings from pilot initiatives like Direct File.
 
 #### Stress-Testing and Incremental Rollout:
 The IRS plans to invite taxpayers from 13 states to participate in the Direct File pilot during the 2024 filing season.
@@ -199,44 +201,29 @@ Soft Launch Issues:
 - The new FAFSA form, intended to be simpler and more user-friendly, experienced a delayed soft launch.
 - Families could only access the form intermittently while the Education Department monitored the site for problems.
 - The form was available for only short periods, causing frustration and uncertainty for applicants.
-
-Submission Numbers:
-During the limited availability windows:
-December 30: 30 minutes of access.
-December 31: 30 minutes of access.
-January 1: 2 hours of access.
-Approximately 30,000 forms were submitted during these brief periods.
+  - Due to the limited availability windows of ~3 hours for Dec. 30 - Jan. 1, about 30,000 forms were submitted.
 
 Impact on Financial Aid Eligibility
-Pell Grant Eligibility:
-The FAFSA determines eligibility for federal grants, including Pell Grants.
 Changes in the methodology affected how financial need was calculated.
-Most students’ eligibility remained unchanged or increased, but some experienced decreased eligibility.
+Some students experienced decreased eligibility for Pell Grants.
 
-Specific Scenarios:
-Higher Pell Grant Award: Some students qualified for higher Pell Grant awards due to adjustments in income protection allowances.
-Loss of Pell Grant Eligibility: Changes in treatment for multiple family members in college led to some students losing Pell Grant eligibility.
-Significant Reduction in Student Aid Index: Adjustments to untaxed income impacted students’ aid eligibility.
 Concerns and Implications
 
-Late Aid Offers:
-Concerns arose that families might not complete forms in time, delaying financial aid offers.
-Students applying through early decision could commit to colleges without knowing their aid status.
-Early decision colleges allowed flexibility for students with insufficient aid.
+- Concerns arose that families might not complete forms in time, delaying financial aid offers.
+- Students applying through early decision could commit to colleges without knowing their aid status.
+- Early decision colleges allowed flexibility for students with insufficient aid.
 
-Planning for Formula Changes:
-Financial aid administrators needed to understand the impact of formula changes.
-Balancing equity and simplicity required proactive planning.
+- Financial aid administrators needed to understand the impact of formula changes.
+- Balancing equity and simplicity required proactive planning.
 
 
 ## Healthcare.gov Downtime and Its Effects on Public Access to Health Insurance
 
 ### Downtime and Access Challenges
 
-Website Unavailability:
-
 Approximately 16.4 million Americans rely on HealthCare.gov for plan selections during open enrollment.
 HealthCare.gov was officially launched on October 1, 2013, covering residents of 36 states that did not create their own healthcare exchanges.
+
 - Downtime: Within 2 hours of launch, the website experienced downtime due to high demand—250,000 users, which was 5 times more than expected.
 - Incomplete Design: The initial capacity issue was compounded by incomplete website design, leading to user frustrations.
 
