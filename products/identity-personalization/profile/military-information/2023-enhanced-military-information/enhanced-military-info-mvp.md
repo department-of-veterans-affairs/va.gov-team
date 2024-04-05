@@ -101,7 +101,7 @@ The online version of this form is being refreshed to match the paper version wh
 - September 2023: Initial discussions; project kickoff
 - September-October 2023: Discovery
 - October 2023: Started collaborating with the 526 team; Decided on our MVP approach; Produced initial designs
-- November-December 2023: Build
+- November-December 2023: research prep
 
 
 ## Key decisions
