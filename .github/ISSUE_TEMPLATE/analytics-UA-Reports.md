@@ -8,7 +8,7 @@ assignees: johnny-jesensky-adhoc
 # VFS Report Inventory for GA4 Migration
 
 ### What this form is for.
-In preparation for the transition to GA4, we need information on all actively used reports that use Universal Analytics (UA) data. This is needed to identify the best ways to assist teams with transitioning their reporting. These reports may include a dashboard in GA or Domo, a Looker report, a direct link into a filtered UA interface report, or some other way tool.
+In preparation for the transition to Google Analytics 4 (GA4), we need information on all actively used reports that use GA Universal Analytics (UA) data. This is needed to identify the best ways to assist teams with transitioning their reporting. These reports may include a dashboard in GA or Domo, a Looker report, a direct link into a filtered UA interface report, or some other way tool.
 
 > [!IMPORTANT]
 > Please complete this form as soon as possible, but no later than **Friday, April 26.** The sunset date for Universal Analytics is **July 1, 2024**, which means reports that rely on GA UA as a data source will stop collecting new data on this date. If reports exist within GA UA itself, they will become unavailable.
