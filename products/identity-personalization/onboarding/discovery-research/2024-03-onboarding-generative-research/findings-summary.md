@@ -51,8 +51,12 @@ It’s also important to acknowledge that participants in our research studies a
 
 [Read the appendix below for complete participant data](#participant-data).
 ## Key Findings
-`To come once details are finalized`
-
+1. VA.gov is a critical self-service resource for transitioning service members to learn about VA, during and after active duty. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md#1-vagov-is-a-critical-self-service-resource-for-transitioning-service-members-to-learn-about-va-during-and-after-active-duty))
+2. Multiple people had challenges identity verification and extensive reading on VA.gov; we also heard about various isolated hurdles. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md#2-multiple-people-had-challenges-identity-verification-and-extensive-reading-on-vagov-we-also-heard-about-various-isolated-hurdles))
+3. Most participants first used VA.gov in their TAP course and found the website easy to use. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md#3-most-participants-first-used-vagov-in-their-tap-course-and-found-the-website-easy-to-use))
+4. Reducing the burden of researching benefit and eligibility information on VA.gov would improve the experience of onboarding to VA. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md#4-reducing-the-burden-of-researching-benefit-and-eligibility-information-on-vagov-would-improve-the-experience-of-onboarding-to-va))
+5. The service member benefit hub was new to our participants and they found the information to be useful. ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md#5-the-service-member-benefit-hub-was-new-to-our-participants-and-they-found-the-information-to-be-useful))
+6. The top question transitioning service members have is “What benefits am I eligible for?” ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md#6-the-top-question-transitioning-service-members-have-is-what-benefits-am-i-eligible-for))
 ## Findings details
 
 ### 1. VA.gov is a critical self-service resource for transitioning service members to learn about VA, during and after active duty.
@@ -124,7 +128,7 @@ When we asked participants what would improve their transition experience, they
 > Being more upfront about what you're eligible for based on your situation, and not having you do research or research outside of the VA to try to figure that out. - P2,Veteran
 
 > I think it would be if the VA website uses this [personal information] intelligently and applies that information to give you kind of a outline of what you may qualify for, what programs may be of interest to you.  - P4, Active Duty Service Member
-### 5. The service member benefit hub was new to our participants and they found the information to be useful.
+### 5. The service member benefit hub was new to our participants; they found the information to be useful.
 
 9/10 participants shared feedback on VA.gov’s [service member benefit hub landing page](https://www.va.gov/service-member-benefits/). None of the people we interviewed had seen the page before, and all felt the information was relevant and useful for transitioning service members. 
 
