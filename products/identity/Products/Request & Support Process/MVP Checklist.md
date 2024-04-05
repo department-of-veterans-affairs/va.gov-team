@@ -19,7 +19,7 @@ A compendium of currently open tickets that need to be closed for the Request & 
 - [ ] [Add slack bot instructions to canvas](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79923) 
   (Engineering)
 - [ ] [Add canvas to identity channel](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79921) (Engineering)
-- [ ] [Slackbot user documentation for GitHub](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79906) (UX)
+- [x] [Slackbot user documentation for GitHub](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79906) (UX)
 - [ ] [Slack Reminder for Identity team office hours](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79673) 
  (UX)
 - [ ] [Comms plan for the slackbot release](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79860) (UX)
