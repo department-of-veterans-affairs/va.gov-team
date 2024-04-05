@@ -98,7 +98,7 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 ### Implementation notes
 
-![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/CAIA/accessibility/bin/button-or-link.png)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqNoljqjvyKCi5YHDugR2yz%2FFlow-charts%3Ftype%3Ddesign%26node-id%3D1%253A138%26mode%3Ddesign%26t%3DIwCwzfjcsKpN1Vmm-1" allowfullscreen></iframe>
 
 #### Should this be a button or link?
 
