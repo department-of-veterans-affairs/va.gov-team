@@ -98,20 +98,20 @@ We will work with Perigean to recruit Veterans for this research.
 
 ### Recruitment criteria
 
-We will recruit 12 Veterans for a total of 8-10 completed sessions.
+We will recruit 10 Veterans for a total of 7-8 completed sessions.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
 |# of participants|Criteria|
 |:--|:--|
-|Exactly 12|Are Veterans|
-|Exactly 12|Have contacted VA online or over the phone in the past year|
-|Exactly 12|Have signed in to VA.gov in the past year|
-|Exactly 6|Are willing to join from a mobile device|
-|Exactly 6|Are willing to join from a desktop device|
-|At least 6|Have a cognitive disability or consideration|
-|At least 6|Are over 55 years old|
-|At least 4|Identify as Black, Hispanic, Asian or Native|
+|Exactly 10|Are Veterans|
+|Exactly 10|Have contacted VA online or over the phone in the past year|
+|Exactly 10|Have signed in to VA.gov in the past year|
+|Exactly 5|Are willing to join from a mobile device|
+|Exactly 5|Are willing to join from a desktop device|
+|At least 5|Have a cognitive disability or consideration|
+|At least 5|Are over 55 years old|
+|At least 3|Identify as Black, Hispanic, Asian or Native|
 |At least 2|Identify as a gender other than male|
 |At least 2|Identify as LGBTQ+|
 |At least 2|Use screen magnification, like, ZoomText, ZoomText Fusion, Magnifier (Windows), Zoom (Apple)|
@@ -130,12 +130,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 |Date|Milestone|
 |:--|:--|
-|April 12|Research review|
 |April 15|Prototypes are ready|
+|April 12|Research review|
 |April 15|Pilot session|
-|April 22 – 26|Research sessions|
+|April 22-April 26|Research sessions|
 |April 29-1|Synthesis|
-|May 1|Share findings|
+|May 2|Share findings|
 
 ## Pilot session
 
@@ -150,17 +150,17 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Availability
 
-We will provide 24 time slots, with the aim to book 12 sessions.
+We will provide 20 time slots, with the aim to book 10 sessions.
 
 **We’d also like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. Please include the session time in each participant's respective time zone (from their address).**
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Monday, April 22|9-10am, 11-12am, 1-2pm, 3-4pm|
-|Tuesday, April 23|9-10am, 11-12am, 1-2pm, 3-4pm|
-|Wednesday, April 24|8-9am, 10-11am, 12-1pm, 2-3pm, 4-5pm|
-|Thursday, April 25|9-10am, 11-12am, 1-2pm, 3-4pm|
-|Friday, April 26|9-10am, 11-12am, 1-2pm, 3-4pm|
+|Monday, April 22|8-9am, 10-11am, 12-1pm, 2-3pm|
+|Tuesday, April 23|8-9am, 10-11am, 12-1pm, 2-3pm|
+|Wednesday, April 24|8-9am, 10-11am, 12-1pm, 2-3pm|
+|Thursday, April 25|8-9am, 10-11am, 12-1pm, 2-3pm|
+|Friday, April 26|8-9am, 10-11am, 12-1pm, 2-3pm|
 
 ## Team roles
 
