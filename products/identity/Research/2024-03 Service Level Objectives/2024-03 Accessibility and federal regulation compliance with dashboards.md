@@ -16,7 +16,7 @@
 - Adhering to federal requirements ensures that citizens receive consistent, reliable services. Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
 - The significance of having sconsistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
   - Some sites have a 90% target associated with this measure.
-  - This allows for some variance across programs due to unanticipated or external factors.
+  - This allows for some variance across several products due to unanticipated or external factors.
 
 ### Transparency and Accountability
 
@@ -29,7 +29,7 @@
 - Trust in government services hinges on the belief that federal websites will reliably deliver what they promise.
 
 ### Learnings From Federal Website Availability Issues
-- Proactive notifications of downtime can reduce frustration and maintain public trust.
+- Proactive notifications of downtime, and adherence to downtime schedules, can reduce frustration and maintain public trust.
 - To determine whether it is safe to scale up a program, stress test a prototype before a public rollout with participants.
 - Use an incremental rollout approach to ensure that issues can be addressed in real-time, following industry best practices.
 - A website's sign-in screen may become a bottleneck if it isn’t designed to handle as much traffic as the main site.
