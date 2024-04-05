@@ -1,1 +1,1 @@
-### [You can find all discovery and research efforts for this project in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research).
+### [You can find all discovery and research efforts for this project in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/discovery-and-research/2023-09-enhanced-military-info-mvp).
