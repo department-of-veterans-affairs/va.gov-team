@@ -126,7 +126,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 6. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device? [Yes, no]
 7. Are you able and willing to join the Zoom session from your mobile or desktop device using the magnification tools you need to see your screen? [Yes, no, does not apply]
 
-## Timeline
+## Timeline - WIP (NEEDS DISCUSSION)
 
 |Date|Milestone|
 |:--|:--|
