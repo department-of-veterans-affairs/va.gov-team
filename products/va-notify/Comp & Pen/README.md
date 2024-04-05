@@ -41,7 +41,7 @@ Prior to launch VBA will release a promotional campaign with a combination of th
 There are also one-time/retroactive payments that may warrant a confirmation notification.
 
 ## Launch Activites
-- [ ] Test with Production Data
-- [ ] Turn on preference in VA.gov notifications settings
-- [ ] Reach out to CAIA team to add opt-in messaging to payments page.  See this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77798)
+- [ ] VA Notify to test workflow with Production Data, notifications disabled at this point
+- [ ] VA Notify reach out to VA.gov Profile team and VA Profile to enable comp and pen preference in VA.gov notifications settings
+- [ ] Align timing with the preference go-live date. VA Notify reach out to CAIA team to add opt-in messaging to payments page.  See this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77798)
 - 
