@@ -28,7 +28,7 @@ Amanda Klausmeier, OCTO Design and Research Lead
 Using Optimal Workshop, we conducted an unmoderated study in which participants were invited by email to participate. After accepting the invitation, participants were sent a link to a tree test activity that contained 6 tasks. For each task, the participant was asked to locate in the menu tree where they believe a specific task can be completed. The results of the tree test will help inform optimal placement of health chat and health connect links on VAMC pages.
 
 
-## Hypothesis and Conclusion - UPDATE
+## Hypothesis and Conclusion
 
 **1. Most participants will be able to identify and locate methods of communication on facility health care pages.**
   - _Definitely true._  - Participants primarily navigated to the Make an Appointment, Contact Us, or Manage your health online for all 6 tasks. 
