@@ -22,7 +22,8 @@
 
 - Federal agencies operate within a framework of guidelines, regulations, and policies.
   - These standards are the foundation of building trust.
-- Adhering to federal requirements ensures that citizens receive consistent, reliable services. Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
+- Adhering to federal requirements ensures that citizens receive consistent, reliable services.
+  - Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
 - The significance of having consistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
   - Some sites have a 90% target associated with this measure.
   - This allows for some variance across several products due to unanticipated or external factors.
@@ -30,13 +31,13 @@
 
 ### Transparency and Accountability
 
+- Trust in government services hinges on the belief that federal websites will reliably deliver what they promise.
 - Availability is not an abstract concept; it directly impacts citizens’ lives. 
 - When a website experiences downtime, it disrupts services, frustrates users, and erodes trust.
 - Maintaining high availability demonstrates transparency and accountability.
 - Positive interactions build confidence. 
 - Users return to a website they trust, knowing it won’t fail them during critical moments.
 - A consistently available website signals preparedness, efficiency, and commitment.
-- Trust in government services hinges on the belief that federal websites will reliably deliver what they promise.
 
 ### Learnings From Federal Website Availability Issues
 - Proactive notifications of downtime, and adherence to downtime schedules, can reduce frustration and maintain public trust.
@@ -67,8 +68,8 @@
 
 **Feature Rating**
 
-Rate your satisfaction with the dashboard's (design, layout, look and feel, content, features, copy, organization, and other elements)
-(Tests information hierarchy and user experience)
+- Rate your satisfaction with the dashboard's (design, layout, look and feel, content, features, copy, organization, and other elements)
+  - (Tests information hierarchy and user experience)
 
 ---------------------
 ---------------------
@@ -109,49 +110,49 @@ While the VA is not a for-profit business, unplanned outages can have a signific
 
 Federal agencies must adhere to various policies and guidelines related to website performance, accessibility, and data protection.
 
-### 21st Century Integrated Digital Experience Act (21st Century IDEA):
+### 21st Century Integrated Digital Experience Act (21st Century IDEA)
 
 - Enacted in December 2018, this act sets website standards for federal agencies. It emphasizes improving digital experiences for the public, including accessibility, security, and usability.
 - These standards encompass availability, uptime, and responsiveness.
 - Agencies must adhere to these requirements to ensure that citizens can access government services seamlessly, regardless of time or location.
 
-### OMB Circular A-130: Managing Information as a Strategic Resource:
+### OMB Circular A-130: Managing Information as a Strategic Resource
 
 - This circular, updated in July 2016, promotes the strategic importance of information management.
 - Availability is a core aspect of effective information dissemination, and federal websites play a pivotal role in achieving this goal.
 
-### OMB M-17-06: Policies for Federal Agency Public Websites and Digital Services:
+### OMB M-17-06: Policies for Federal Agency Public Websites and Digital Services
 
 - Issued by the Office of Management and Budget (OMB) in November 2016, this policy outlines requirements for federal agency websites and digital services. It covers aspects like accessibility, security, and performance.
 - It emphasizes the need for federal websites to maintain high availability, minimize downtime, and promptly address any disruptions.
 - Agencies must implement monitoring and incident response mechanisms to ensure continuous service.
 
-### Section 508 of the Rehabilitation Act of 1973:
+### Section 508 of the Rehabilitation Act of 1973
 
 - These standards ensures that federal websites are accessible to people with disabilities. Agencies must create content that is “perceivable, operable, understandable, and robust” for all users.
 - Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
 
-### E-Government Act of 2002: 
+### E-Government Act of 2002 
 
 - Promotes the accessibility, usability, security, and privacy of federal government websites. 
 - Establishes requirements for planning, developing, operating, and maintaining websites that are accessible to the public. 
 - Includes ensuring dashboards are user-friendly and easy to understand for all visitors, regardless of their technical expertise. 
 
-### Open Data Policy-Managing Information as an Asset (M-13-13):
+### Open Data Policy-Managing Information as an Asset (M-13-13)
 
 - Released in May 2013, this policy encourages agencies to treat information as a valuable asset.
 - It promotes transparency, data sharing, and open data initiatives.
 
-### Next Steps in the Evidence and Innovation Agenda (M-13-17):
+### Next Steps in the Evidence and Innovation Agenda (M-13-17)
 
 - Issued in July 2013, this memorandum emphasizes evidence-based decision-making and innovation across federal programs.
 
-### Web Content Accessibility Guidelines (WCAG):
+### Web Content Accessibility Guidelines (WCAG)
 
 - These guidelines provide practical recommendations for creating accessible web content.
 - Federal agencies should align with WCAG standards to enhance availability for all users, regardless of their abilities.
 
-### Federal Information Security Management Act (FISMA): 
+### Federal Information Security Management Act (FISMA) 
 
 - Established a framework for protecting government information systems, including websites. 
 - Security considerations should be addressed when designing and maintaining dashboards. 
@@ -176,11 +177,8 @@ Federal agencies must adhere to various policies and guidelines related to websi
 ### National Science Foundation (NSF)
 
 - Some of the NSF’s core functions are to offer digital services and programs to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields. 
-
 - Efficiency, the adherence to scheduled uptime or downtime, is one of their key indicators monitored daily.
-
 - The facilities program has a 90% target associated with this measure, which allows for some variance across NSF programs due to unanticipated or external factors, in addition to addressing the needs of some facilities to change or modify instruments, update systems, and operate their many systems. 
-
 - These differences hilight the importance of setting SL's for each case responsibly and meaningfully. 
 
 
@@ -190,19 +188,16 @@ Federal agencies must adhere to various policies and guidelines related to websi
 - During peak tax seasons, IRS.gov experiences heavy traffic, yet it remains available.
 - Load balancing, redundancy, and efficient error handling contribute to its reliability.
 
-### Benefits of Direct File
+#### IRS Direct File
 
-- Direct File simplifies tax filing for eligible users with simple tax returns.
+- Direct File is part of a pilot initiative that simplifies tax filing for eligible users with simple tax returns.
 - It provides a secure and easy-to-use platform directly through the IRS website.
+- The IRS aims to improve website availability and reliability through learnings from this pilot study.
 
-- The IRS recognizes that citizens rely on its services for critical tasks such as tax filing.
-- Downtime or errors erode trust and disrupt essential services.
-- The IRS aims to improve website availability and reliability through learnings from pilot initiatives like Direct File.
-
-#### Stress-Testing and Incremental Rollout:
-The IRS plans to invite taxpayers from 13 states to participate in the Direct File pilot during the 2024 filing season.
-Participants will stress-test the prototype and help the agency determine whether to scale up the program.
-The incremental rollout approach ensures that issues can be addressed in real-time, following industry best practices.
+#### Direct File Stress-Testing and Incremental Rollout:
+- The IRS plans to invite taxpayers from 13 states to participate in the Direct File pilot during the 2024 filing season.
+- Participants will stress-test the prototype and help the agency determine whether to scale up the program.
+- The incremental rollout approach ensures that issues can be addressed in real-time, following industry best practices.
 
 -----------------------------------
 
@@ -221,7 +216,7 @@ Downtime and Access Challenges
 
 Impact on Financial Aid Eligibility
 
-- Changes in the methodology affected how financial need was calculated.
+- Changes in the system affected how financial need was calculated.
 - Some students experienced decreased eligibility for Pell Grants.
 
 Outcomes
@@ -229,7 +224,6 @@ Outcomes
 - Concerns arose that families might not complete forms in time, delaying financial aid offers.
 - Students applying through early decision could commit to colleges without knowing their aid status.
 - Early decision colleges allowed flexibility for students with insufficient aid.
-
 - Financial aid administrators needed to understand the impact of formula changes.
 - Balancing equity and simplicity required proactive planning.
 
@@ -250,11 +244,9 @@ HealthCare.gov was officially launched on October 1, 2013, covering residents of
 - Website support technicians couldn’t provide assistance as they used the same sign-in screen to access the site for troubleshooting problems.
 
 Impact:
+
 - The downtime prevented timely plan selections, affecting individuals and families seeking health coverage.
 - A total of 6 users completed and submitted their applications and selected a health insurance plan on the first day.
-
-
-Public Outcry and Trust Erosion
 - Citizens expressed frustration on social media, highlighting the urgency of health insurance decisions.
 - Families faced uncertainty about their coverage status due to the downtime.
 - Trust in the government’s ability to manage essential services declined.
@@ -265,7 +257,7 @@ Legal Challenges:
 - Lawsuits were filed, alleging that the downtime violated citizens’ right to access health insurance.
 - The courts expedited hearings to address the issue before the enrollment deadline.
 
-Lessons Learned and Recommendations
+Lessons Learned and Recommendations:
 
 - Regular maintenance schedules should be carefully planned to avoid peak enrollment times.
 - Transparent communication during downtime is crucial. 
