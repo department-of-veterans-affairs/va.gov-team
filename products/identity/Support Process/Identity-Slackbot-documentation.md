@@ -21,9 +21,9 @@ To get in touch with our engineers or product managers, submit a support request
 - Select the **issue type** that describes your request:
     - **Authentication help:** provide more details about your issue, including troubleshooting steps you’ve tried. Review our [troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) for help with common authentication issues.
     - **Sign-in Service integration:** to get started or get support with [Sign-in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service). Select the step you need help with or submit a general request.
-        - **Begin onboarding process** to get started with a new SiS integration.
-        - **Register service configuration** if you’re building a service authentication integration and you’re ready to start building.
-        - **Register client configuration** if you’re building a user authentication integration and you’re ready to start building.
+        - Select **Begin onboarding process** to get started with a new SiS integration.
+        - Select **Register service configuration** if you’re building a service authentication integration and you’re ready to start building.
+        - Select **Register client configuration** if you’re building a user authentication integration and you’re ready to start building.
     - **Data request:** request user data or authentication metrics.
     - **Pull review request:** provide a link to your PR, and confirm that your changes have been tested.
     - **Other:** select this option for all other types of support requests.
