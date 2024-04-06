@@ -11,9 +11,11 @@
 - Who can the VAOS team get in touch with to understand access standards (e.g., what's in Console Toolbox or other system) for scheduling with a CC provider? For example, calculating drive time. Is there a system in place? Do we need to replicate those rules on our own?
      - What other business rules or restrictions do we need to know about when enabling Veterans to self-schedule with CC providers?
 
-## WellHive
+## EPS & WellHive
 
-- Does WellHive need any other information for an appointment besides Veteran ID, provider, day and time? Does VAOS need to send WellHive any other information?
+- Where is VAOS writing the scheduled appointments back to? Into EPS? Or into EPS & WellHive? 
+- Does EPS or WellHive need any other information about a booked appointment besides Veteran ID/ICN, CC provider name or NPI, day and time or appointment?
+- Does VAOS need to collect and send any other information about the appointment or Veteran to either system? 
 
 ## Assumptions / Decisions 
 
