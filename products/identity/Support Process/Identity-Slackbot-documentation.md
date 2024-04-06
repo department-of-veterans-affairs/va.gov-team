@@ -61,4 +61,4 @@ You’ll get a response from our team within 1 business day on Github.
 ## Still have questions?
 
 - [Get in touch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#requesting-support-from-the-identity-team) with our team.
-- Attend [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) with our team on Thursday afternoons from 2:00 - 3:00 p.m. ET.
+- [Schedule time](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md)  to meet with our engineers or product managers.
