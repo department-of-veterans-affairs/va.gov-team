@@ -1,5 +1,8 @@
 # EPS-VAOS (CC Direct Scheduling) Meeting Agenda 04-09-2024
 
+- [High Level Visual Data Flow (Work In Progress)]
+- [Work In Progress Questions]
+
 ## High Level Visual Data Flow (Work In Progress)
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/2eb49cf2-f962-45b3-b6fc-123740373990" alt="CC direct scheduling high level visual data flow" style="width:990px;"/>
