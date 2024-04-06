@@ -2,7 +2,7 @@
 
 ## High Level Visual Data Flow (Work In Progress)
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/980bcb8b-f13b-4fb3-852e-d23edd01785d" alt="" style="width:990px;"/>
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/13bcc667-6981-4eac-ad79-119f2cf5f63b" alt="CC direct scheduling high level visual data flow" style="width:990px;"/>
 
 ## Authorized Referrals 
 
