@@ -1,5 +1,9 @@
 # EPS-VAOS (CC Direct Scheduling) Meeting Agenda 04-09-2024
 
+## High Level Visual Data Flow (Work In Progress)
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/980bcb8b-f13b-4fb3-852e-d23edd01785d" alt="" style="width:990px;"/>
+
 ## Authorized Referrals 
 
 - Can VAOS team get a sample set of data from a complex and simple authorized referral (from Michael)?
