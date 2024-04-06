@@ -2,7 +2,7 @@
 
 ## High Level Visual Data Flow (Work In Progress)
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/13bcc667-6981-4eac-ad79-119f2cf5f63b" alt="CC direct scheduling high level visual data flow" style="width:990px;"/>
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/2eb49cf2-f962-45b3-b6fc-123740373990" alt="CC direct scheduling high level visual data flow" style="width:990px;"/>
 
 ## Work In Progress Questions
 
