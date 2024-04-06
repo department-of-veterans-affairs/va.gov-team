@@ -1,7 +1,7 @@
 # EPS-VAOS (CC Direct Scheduling) Meeting Agenda 04-09-2024
 
-- [High Level Visual Data Flow (Work In Progress)]
-- [Work In Progress Questions]
+- [High Level Visual Data Flow (Work In Progress)](#work-in-progress-questions)
+- [Work In Progress Questions](
 
 ## High Level Visual Data Flow (Work In Progress)
 
