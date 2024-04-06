@@ -1,7 +1,7 @@
 # EPS-VAOS (CC Direct Scheduling) Meeting Agenda 04-09-2024
 
-- [High Level Visual Data Flow (Work In Progress)](#high-level-visual-data-flow-(work-in-progress))
-- [Work In Progress Questions](#work-in-progress-questions)
+- [High Level Visual Data Flow (Work In Progress)](#high-level-visual-data-flow-work-in-progress)
+- [Work In Progress Questions](#work-in-progress-questions)</br></br>
 
 ## High Level Visual Data Flow (Work In Progress)
 
@@ -26,10 +26,10 @@
 - Does EPS or WellHive need any other information about a booked appointment besides Veteran ID/ICN, CC provider name or NPI, day and time or appointment?
 - Does VAOS need to collect and send any other information about the appointment or Veteran to either system? 
 
-## CC Provider Availability Integration   
+### CC Provider Availability Integration   
 
 - Does PPMS have provider availability? If so, VAOS will likely integrate directly with PPMS to search and return CC providers in VAOS since that integration already exists. (Or, is availability in EPS or WellHive? Which is available to access now?) 
 
-## VHA / IVC Requirements
+### VHA / IVC Requirements
 
 - Does the CC self-scheduling flow need to capture the Veterans preferred appointment date before scheduling begins, like VA Direct Scheduling? 
