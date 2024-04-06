@@ -2,12 +2,7 @@
 
 The Identity team manages [authentication](https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication) for users of VA.gov and its services and tools. Reach out to our team with questions about building your application, best practices for authentication and security, and support for issues impacting Veterans trying to access your application.
 
-To get help from the team, use the Slackbot in the [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) channel.
-
-## Access Identity team product documentation
-
-- Navigate to the [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) channel.
-- Use the slash command **/docs** to get a link to our [product documentation in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity).
+To get help from the team, use the Slackbot in the [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) channel. You can use the slash command **/docs** to get a link to our [product documentation in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Or submit a request to the team by following the steps below.
 
 ## Submit a support request to the team
 
