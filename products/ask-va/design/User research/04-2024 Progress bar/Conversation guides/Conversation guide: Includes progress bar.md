@@ -36,8 +36,8 @@ Last updated by @tygindraux: April 8, 2024
 - [Intro - 5 minutes]
 - [Warm up - 5 minutes]
 - [Home page to sign in - 5 to 15 minutes]
-- [Through to submission - 15 to 30 minutes]
-- [Cool down - 5 minutes]
+- [Through to submission - 15 to 25 minutes]
+- [Cool down - 10 minutes]
 
 This document also contains [pause or exit strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#pause-or-exit-strategies).
 
@@ -207,13 +207,269 @@ Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 - Do they notice the progress bar?
 - Does the progress bar give them any additional information?
 
+### Sign in alert
+
+> Skip and continue to [Who is your question about](#who-is-your-question-about) if they've already signed in.
+
+> Screen: Sign in alert
+
+I'll give you a few minutes to read this.
+
+- What is this telling you?
+- Why is it telling you to sign in?
+- What would you do in this scenario?
+
+Let's go ahead and click 'Sign in or create an account'.
+
+> Screen: Sign in
+
+- Does this look familiar to you?
+- Which option do you normally choose?
+
+Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
+
+> Screen: ??
+
+[NOTE: Confirm where they will jump back to after sign in interruption... Finish this section.]
+
+**Key things to notice:**
+- Are they surprised by the sign in alert?
+- Is it still not clear why they need to sign in?
+- What would they choose to do when the sign in alert appears? For example, would they sign in, go back and choose a different topic, etc.
+- Does the sign in screen seem familiar?
+- Is it clear that they can continue without re-answering the questions they've already answered?
+
+## Through to submission (15 to 25 minutes)
+
 ### Who is your question about?
 
-> Screen: Who is your question about
+> Screen: Who is your question about?
 
 So, just to remind you, you need to ask the VA how to get your hearing checked.
 
-- **Can you show me what you would do on this page?**
+- Can you show me what you would do on this page?
 - Why did you choose that option?
 - Can you imagine contacting the VA about [an option they didn’t choose]?
-- **How much longer do you think this form is?**
+
+Okay, we’ll choose `Myself` and continue.
+
+**Key things to notice:**
+- Do they choose `Myself` without being prompted?
+- Is anything unclear about the options on this page?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### Your relationship to the Veteran
+
+> Screen: Your relationship to the Veteran
+
+- Can you show me what you would do on this page?
+
+Okay, great. Let's continue.
+
+- Do they choose `I’m the Veteran` without being prompted?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### School information
+
+> Screen: School information
+
+[NOTE: Check authentication, is anything pre-filled on this page?]
+
+- We're not going to click on anything yet, so can you just describe to me what you would do on this page?
+- What is this question asking for?
+- Do you need to share your school state *and* your residency state?
+
+Okay, for today, we'll pretend like you live in Virginia. Let's choose Virginia and then we'll continue.
+
+**Key things to notice:**
+- Is it clear that you only need to give your school state or your residency state?
+- Do they have any issues choosing from the list of states?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### Your question
+
+> Screen: Your question
+
+- Without clicking on anything, can you describe what you would do on this page?
+- Can you describe what you would write for the subject, in this scenario?
+
+Okay great. So we can’t actually type into the box using this prototype. 
+
+We’ll pretend like you typed in a subject and a question about [scenario].
+
+- After that, is there anything else you need to do on this page?
+- Why is it asking for you to upload files?
+- Are you required to upload files?
+- If you wanted to upload a file, can you tell me what you would click?
+
+Great. Let's pretend like you typed in your subject and question and you decided not to upload a file today. You can click continue now.
+
+**Key things to notice**
+- Is the purpose of the subject field clear?
+- Is the purpose of the upload section clear?
+- Do they understand that they don't need to upload a file?
+- Do they understand what to do first if they were going to upload a file?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+- Do they show any noticeable frustration with how long it's taken to get to this question?
+
+### Tell us about yourself
+
+> Screen: Tell us about yourself
+
+Okay, let’s look at this page now. We're going to pretend this is filled in with your information.
+
+- Why is this information filled in already?
+- If you updated your date of birth on this page, would it update anywhere else on VA.gov?
+- Does anything on this page stand out to you?
+
+Okay, great. So now that we've reviewed this informaiton, we'll say it's correct and click continue.
+
+**Key things to notice**
+- Is it clear why information is pre-filled in the form?
+- Do they understand how to update information on this page vs. their VA.gov profile?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+- Do they show any noticeable frustration with being asked for more information after sharing their question?
+
+### Your contact information
+
+> Screen: Your contact information
+
+- Is there anything that stands out to you on this page?
+
+Okay, great. We’ll say you reviewed your phone number and email address and are ready to continue.
+
+**Key things to notice**
+- Is it clear why information is pre-filled in the form?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### Reason you contacted us
+
+> Screen: Reason you contacted us
+
+- What would you choose on this page?
+- Why do you think the VA is asking you this?
+
+Okay, let's choose, 'I had a question' and continue.
+
+**Key things to notice**
+- Does this question cause more or less confusion, now that it's at the end of the form?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### Review and submit
+
+> Screen: Review and submit
+
+- Without clicking anything yet, can you describe this page to me?
+- What's the purpose of this page?
+
+Let's say that you reviewed your information and you're ready to submit your question.
+
+- Can you show me how you would submit your question?
+
+Great, let's click submit.
+
+**Key things to notice**
+- Is the purpose of this page clear?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### Confirmation page
+
+> Confirmation page
+
+Okay, great. I’ll give you a few minutes to read this.
+
+- What is this page telling you?
+
+**Key things to notice**
+- Do they notice or mention the reference number?
+- Are they surprised by the response time (7 days)?
+- Is any information missing?
+
+## Cool down (10 minutes)
+
+Okay, we’re all finished with the prototype. So you can stop sharing your screen now.
+
+> Stop sharing screen
+
+I’d love to spend a little time reflecting before we finish.
+
+- What did you think of that process? Is there anything you liked?
+- Is there anything that could be easier?
+- Should this tool be used in an emergency?
+  - Why or why not?
+  - [If they think yes, explain what to do in an emergency instead.]
+- While you filled out the form, did you know how much longer you had left?
+  - `IF YES`
+    - How?
+    - Is there anything that showed your progress?
+  - `IF NO`
+    - Is there anything that showed your progress?
+    - Would something like that be helpful?
+   
+Well, I think you've answered all of my questions.
+
+Thanks again for sharing your time with me. It’s been so helpful to learn from you.
+
+**Do you have any questions for me?**
+
+Okay, well thank you so much for the time.
+
+Perigean will send you a thank you note with some information that you can pass along to other Veterans if they’d like to participate in future research sessions. 
+
+I hope you have a lovely rest of the day.
+
+**Key things to notice**
+- What did they like and what would they change?
+- Is it clear not to use Ask VA in an emergency?
+- Do they remember the progress bar?
+- Did the progress bar give them any additional information?
+- Did they ever appear lost or disoriented while filling out the form?
+
+## Pause or exit strategies
+
+We can use this strategies to prepare for difficult situations.
+
+### If the participant isn't feeling well
+
+I'm sorry you're [not feeling well]. Do you feel up for continuing? You'll be paid even if we stop early.
+
+> If they choose to continue...
+
+Okay, just let me know if you change your mind.
+
+### If the participant is showing signs of upset or distress
+
+This sounds so hard. Would you like to take a break or stop?
+
+> If they choose to take a break and come back...
+
+Welcome back. I'm interested to hear more about [topic you left off on]. Are you up for continuing or would you prefer we move to the next topic?
+
+### If the participant decides to stop
+
+Thank you for your time today, I completely understand your decision to stop.
+
+> If they seem distressed...
+
+Before you go, the VA Hotline number is 988, it's a confidential helpline, and it's 24/7. It's up to you whether you call.
+
+### If the participant is fine to continue, but you aren't
+
+I hear that you're okay to continue. Before we do, I realized that I need a minute. I'm going to turn off my camera and microphone, and get a glass of water. Is that okay with you? I'll be back in 3 minutes.
+
+> If you're still not able to continue, after you pause...
+
+Thanks for letting me take a break. You didn't do anything wrong, but I'm realizing that I'm not going to be able to continue this session. You will still be paid for the full time. I really appreciate you sharing with me today. Is it okay with you if we stop? Thanks very much.
+
+## Approved by:
+
+- [PENDING] Becky Phung, PO on [DATE]
+- [PENDING] Shane Strassberg, VA Research Ops on [DATE]
