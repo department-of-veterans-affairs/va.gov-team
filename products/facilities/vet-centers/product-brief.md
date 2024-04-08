@@ -2,10 +2,9 @@
 
 ## Table of Contents
 
-* [Vet Center Foundational information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#project-rationale)
+* [Vet Center Foundational information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-foundational-information)
   * [Vet Centers and Satellites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-centers-and-satellites)
   * [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#user-stories--use-cases)
-  * [What constitutes a Vet Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#what-is-a-vet-center)
   * [Vet Center Services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-services)
   * [Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#eligibility)
 * [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#mvp)
