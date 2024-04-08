@@ -63,9 +63,9 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
 #### Rollout Planning
 
 - Desired date range:
-     - 04/10/2024
+     - 04/10/2024-04/17/2024
 - How will you make the product available in production while limiting the number of users who can find/access it:
-     - We will run a test with a couple Production test users on 4/9/2024 prior to launching at 100%
+     - We will run a test with a couple Production test users on 4/9/2024 prior to launching at 25%
      - We will not limit the number of users on rollout
 - What metrics-based criteria will you be monitoring to determine success?:  Errors accessing the new pages, Errors submitting to Enrollment System with the new data, Errors within the application as a whole.
 
@@ -101,12 +101,21 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
      - Product Manager - Alex Seelig
      - Data Analyst - Luis Simauchi
 
-- Length of time:
-     - 04/11/24
-- Percentage of Users (and roughly how many users do you expect this to be):
-     - 100% of all Veterans
-     - about 50 submissions per day
 
+
+
+
+### Stage A: 25% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time:
+     - 2 days, 4/10/24-4/12/24
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 25% of authenticated Veterans
+     - about 20 submissions per day
 
 #### Results
 
@@ -115,6 +124,64 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+
+### Stage B: 50% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
+
+#### Planning
+
+- Length of time:
+     - 3 days, 4/12/24-4/15/2024
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 50% of authenticated Veterans
+     - about 40 submissions per day
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 75% of users
+
+#### Planning
+
+- Length of time:
+     - 4/15/24-4/17/24
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 75% of authenticated Veterans
+     - about 50 submissions per day
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage D: 100% of users
+
+#### Planning
+
+- Length of time:
+     - 4/17/24
+- Percentage of Users (and roughly how many users do you expect this to be):
+     - 100% of authenticated Veterans
+     - about 70 submissions per day
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
 
 ## Post Launch metrics
 
