@@ -59,6 +59,7 @@ Review whether submitters are clear on when to use Ask VA and how to start:
 Review whether submitters understand when to sign in or not:
 * Is it clear when you need to sign in and why?
 * If submitters are interrupted to sign in, do they understand why and what to do?
+* Is it clear why information is pre-filled in the form?
 
 ### Hypotheses
 
