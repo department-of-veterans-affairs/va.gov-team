@@ -4,7 +4,7 @@
 
 - Check participant information to see what login credential they reported having (`Login.gov` or `ID.me`).
 
-## Introduction - 2 minutes
+## Introduction - # minutes
 
 Thanks for joining me today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily.
 
