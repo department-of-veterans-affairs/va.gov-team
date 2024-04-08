@@ -7,7 +7,7 @@ Each CSV file on this page contains specific content guidance for these form fie
 - Notes on variations
 
 ## Names
-- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EVXE8d2t6flFlsOT8qeJc64B7OvvAUN4qtuXvYHZ1JvvQg?e=LeogYV))
+- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EVXE8d2t6flFlsOT8qeJc64B7OvvAUN4qtuXvYHZ1JvvQg?e=LeogYV)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/names#content-considerations)
 
 ## Dates
