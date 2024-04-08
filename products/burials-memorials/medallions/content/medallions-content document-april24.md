@@ -204,9 +204,6 @@ A Veteran’s unclaimed remains are defined as those:
 
 ---  
  
-
- 
- 
 ### Page Title: None {h3 heading with h5 styling}  
  
 {If remains are unclaimed} 
@@ -392,7 +389,6 @@ Are you the cemetery point of contact? (*Required) {radio buttons} 
 
 ---  
  
- 
 ### Page Title: Cemetery information {h3 heading with h5 styling}  
  
 This is where the privately purchased headstone, marker, mausoleum, or crypt to place the medallion is located. 
@@ -413,8 +409,6 @@ Cemetery name (*Required) {text input}
 ---  
 
 ---  
- 
-
  
 ### Page Title: Cemetery mailing address {h3 heading with h5 styling}  
    
@@ -572,9 +566,7 @@ What's the Veteran’s race? (*Required) {checkboxes} {Hint text: You can select
 --- 
 
 ---  
- 
 
- 
 ### Page Title: Deceased’s service period(s) {h3 heading with h5 styling}  
  
 - Veteran’s branch of service (*Required) {text input with autosuggest}  
@@ -596,12 +588,10 @@ Add another service period {secondary button} 
 
 [Back | Continue] {buttons}   
   
-
 ---  
 
 ---  
  
-
 ### Page Title: Deceased’s burial information {h3 heading with h5 styling}  
 
 Where are the Veteran’s remains buried? (*Required) {Drop down} 
@@ -679,9 +669,7 @@ If selected, options include
 ---  
 
 ---  
- 
 
- 
 
 ### Page Title: Medallion delivery details {h3 heading with h5 styling}  
  
@@ -751,8 +739,6 @@ The VA will ship the medallion to the address listed.
 
 ---  
  
- 
-
 ### Page Title: Edit mailing address {h3 heading with h5 styling}  
  
 
@@ -837,8 +823,6 @@ The VA will ship the medallion to the address listed
 
 ---  
  
-
- 
 ### Page Title: Edit mailing address {h3 heading with h5 styling}  
  
 {If the applicant or cemetery is accepting delivery of the medallion and the address was already validated, this screen wouldn’t show.} 
@@ -890,7 +874,6 @@ Which medallion type are you requesting? (*Required)
 ---  
 
 ---  
- 
 
 ### Page Sub Title: None {h3 heading with h5 styling}  
 
@@ -922,7 +905,6 @@ Each medallion is inscribed with the word "VETERAN" across the top and has the b
 
 ---  
  
-
 ### Page Sub Title: None {h3 heading with h5 styling}  
 
 {If the Medal of Honor medallion is selected.} 
@@ -977,7 +959,6 @@ Note: If you don’t want a Presidential Memorial Certificate, request 0.
 ---  
 
 ---  
- 
  
 ### Page Title: Upload supporting files {h3 heading with h5 styling}  
   
@@ -1077,8 +1058,6 @@ Delete file {secondary button} 
 
 ---  
  
-
-  
 ### Page Title: None  
   
 {accordions}  
