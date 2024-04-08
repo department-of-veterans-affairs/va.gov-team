@@ -40,9 +40,8 @@ As a veteran, I want to my old www.subdomain.va.gov or www.va.gov/something book
 ---
 
 ## Implementation by type
-TODO: Update
-![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow.png)
-
+![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow_2024-04-08.png)
+Created in [Redirects flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712355321178/b6aa216997ca0ac53a0e70272f0fc63086179b07?sender=u0b235d03cbd64f7f93673243)
 
 
 **Architecture diagram:**
