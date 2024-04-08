@@ -10,8 +10,8 @@ We need to move AVA to VA.gov. It should be mobile friendly, accessible and easy
 
 ## Research goals
 * Compare whether it’s more effective to describe percentage complete or not describe progress at all
-* Review whether submitters are clear on when to use Ask VA and how to start
 * Review whether submitters understand when to sign in or not
+* Review whether submitters are clear on when to use Ask VA and how to start
 
 ## Recruitment
 We will work with Perigean to recruit Veterans for this research.
