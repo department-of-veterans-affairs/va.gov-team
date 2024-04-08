@@ -14,7 +14,7 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EZxdAYFJrptLmNJIApCruJYBvtLCn_sSQWpaB-DdH5IHXw?e=KvhCDE)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/dates#content-considerations)
 
-## Email
+## Email address
 - [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EZMDmn1C9spCpEYu8Ooy6FsBXneBc54IvcgkbsEVuV-nnw?e=epTgUn)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/email-address#content-considerations)
 
@@ -26,6 +26,6 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EejZB_RQE8pNuey0z3jPsqgBlkA5xsL6nKnYv8b-7Ha2fQ?e=VaYZgY)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/phone-numbers#content-considerations)
 
-## Social security number
+## Social security or VA file number
 - [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/ERsuf2_wQeVKgDyBUjrAXkABuduAfodR-7fpmSvpkyCn3w?e=FxAaCU)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/social-security-number#content-considerations)
