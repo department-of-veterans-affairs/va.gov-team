@@ -13,7 +13,8 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 
 — 
 
-### Research
+### Focus Groups
+The initial phase of our research involved convening a focus group with SCOs to gather insights on their current experiences. During this session, we presented mockups of the redesign to assess their preferences and solicit feedback.
 
 [SCO Collaborative Workgroup Presentation - PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/SCO%20Collab%20Group%20%E2%80%93Resources%20For%20Schools.pdf.zip)
 
@@ -21,6 +22,10 @@ The IIR team stepped in to assist in Q1 2024. After conducting research with SCO
 This is a written summary of the downloadable PDF SCO Collaborative Workgroup Presentation.
 
 [SCO Collaborative Workgroup Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/sco%20collaborative%20workgroup%20findings.md)
+
+
+### Interview 1:1 Research
+During one-on-one interviews with SCOs representing diverse regions across the country, we observed their interactions with the page as they navigated through various tasks, such as locating essential resources. This approach allowed us to gain valuable insights into their user experience and preferences firsthand.
 
 [1:1 Interview Moderators Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-for-schools/research/1:1%20interview%20moderators%20guide.md)
 
@@ -36,7 +41,7 @@ This is a written summary of the downloadable PDF Research Findings Presentation
 
 [Prototype](https://www.figma.com/file/jxsiqfLfxf4uulELWxpGTF/Resources-for-Schools?type=design&node-id=542%3A1559&mode=dev)
 
-—
+[Live Site](https://www.va.gov/school-administrators/)
 
 ### Key Findings
 * Users prioritized easy access to Enrollment Manager, which is a crucial part of their daily work.
@@ -47,5 +52,6 @@ This is a written summary of the downloadable PDF Research Findings Presentation
 * Page was launched with updates in March 2024. Additional UI changes may be made based upon feedback given to the Resources for Schools team through the Feedback button
 
 ### Change log
+* David Pearl, 8 April 2024 - Seperated focus group and interview research, added live site,  
 * Liza McRuer, 29 March 2024 - Added research summaries, uploaded presentations, updated links in readme
 * Liza McRuer, 27 March 2024 - Created doc and added linkw
