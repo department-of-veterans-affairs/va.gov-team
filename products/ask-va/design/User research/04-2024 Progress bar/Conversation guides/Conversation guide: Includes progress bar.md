@@ -139,6 +139,14 @@ For the rest of our conversation, I’d like you to pretend that you need to ask
 
 > Skip to [Category](#category) if they choose not to sign in.
 
+**Key things to notice:**
+- Is the purpose of Ask VA clear?
+- How long do they expect asking a question to take at this point?
+- Where are they most likely to click first?
+- Is it clear when they need to sign in or when it is optional?
+- Are the benefits of signing in clear?
+- Do they mention the emergency content?
+
 ### Sign in
 
 > Screen: Sign in
@@ -148,10 +156,64 @@ For the rest of our conversation, I’d like you to pretend that you need to ask
 
 Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
 
+**Key things to notice:**
+- Does the sign in screen seem familiar?
+
 ### Dashboard (Authenticated)
 
+Okay, now we're on this page.
 
+- Can you describe this page to me?
+- What would you do next on this page?
+  - How do you ask the VA a question on this page?
+
+Let's go ahead and click `Ask a new question.`
+
+**Key things to notice:**
+- Do they understand where they are?
+- Do they understand how to start a new question?
+- Do they mention the emergency content?
+- Do they mention the 'you haven't submitted a question yet' alert?
 
 ### Category 
 
 > Screen: Category
+
+Okay, so I mentioned earlier that we’re pretending like you need to ask the VA [add scenario]. With that in mind…
+
+- Can you show me what you would do first on this page?
+- [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
+- Before we continue, how long do you think it's going to take for you to ask a question?
+
+Okay great. Let’s choose `Education benefits and work study` and then go to the next page.
+
+**Key things to notice:**
+- Do they choose `Education benefits and training` without being prompted?
+- Do they notice the progress bar?
+- Does the progress bar have any impact on how long they expect this to take?
+- Does the progress bar give them any additional information?
+
+### Topic
+
+> Screen: Topic
+
+- Can you show me what you would do on this page?
+- [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
+
+Okay great. Let’s choose `[TOPIC]` and then go to the next page.
+
+**Key things to notice:**
+- Do they choose `[TOPIC]` without being prompted?
+- Do they notice the progress bar?
+- Does the progress bar give them any additional information?
+
+### Who is your question about?
+
+> Screen: Who is your question about
+
+So, just to remind you, you need to ask the VA how to get your hearing checked.
+
+- **Can you show me what you would do on this page?**
+- Why did you choose that option?
+- Can you imagine contacting the VA about [an option they didn’t choose]?
+- **How much longer do you think this form is?**
