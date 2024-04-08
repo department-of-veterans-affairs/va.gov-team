@@ -12,8 +12,8 @@
 * [Vet Center 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-2.0)
 
 ## About the product
-**Product owner:** Michelle Middaugh
-**Business partner:** Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
+- **Product owner:** Michelle Middaugh
+- **Business partner:** Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
 
 ## Vet Center Foundational information
 - Vet Centers are stand-alone, community-based counseling centers that guide Veterans and their families through many of the major adjustments in lifestyle that often occur after a Veteran returns from combat. They provide a wide range of social and psychological services, including professional counseling to eligible Veterans, service members, including National Guard and Reserve components, and their families.
