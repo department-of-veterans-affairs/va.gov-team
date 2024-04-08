@@ -4,14 +4,14 @@ This document will focus on the Vet Center 2.0 iteration.
 
 ## Table of Contents
 
-- [Project recap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#project-recap)
-  - [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#mvp)
-  - [Project rationale for Vet Centers 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#project-rationale-for-Vet-Centers_2.0)
-- [Scope and scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#scope-and-scale)
-- [Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#measuring-success)
-- [Dependencies and risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#dependencies-and-risk-factors)
-- [Definition of done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#definition-of-done)
-- [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0.md#key-links)
+- [Project recap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/vet-centers-2.0/initiative-brief.md#project-recap)
+  - [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/vet-centers-2.0/initiative-brief.md#mvp)
+  - [Project rationale for Vet Centers 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/vet-centers-2.0/initiative-brief.md#project-rationale-for-vet-centers-20)
+- [Scope and scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/vet-centers-2.0/initiative-brief.md#scope-and-scale)
+- [Measuring success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0/initiative-brief.md#measuring-success)
+- [Dependencies and risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/vet-centers-2.0/initiative-brief.md#dependencies-and-risk-factors)
+- [Definition of done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers-2.0/initiative-brief.md#definition-of-done)
+- [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers-2.0/initiative-brief.md#key-links)
 
 ## Project recap
 ### MVP
