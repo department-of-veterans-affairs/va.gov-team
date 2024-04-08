@@ -1,4 +1,4 @@
-## National MVP Decision log
+## VBA Regional Office National MVP Decision log
 Epic: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14477
 
 * 2024-04-08: In Product sync, Michelle noted: scope for National MVP will likely include:
