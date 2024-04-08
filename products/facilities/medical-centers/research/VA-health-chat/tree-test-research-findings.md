@@ -9,10 +9,10 @@ Amanda Klausmeier, OCTO Design and Research Lead
 
 **Jump to:**
 
-- [Hypotheses and conclusion](#hypotheses-and-conclusion)
+- [Hypothesis and conclusion](#hypothesis-and-conclusion)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
+- [Next steps](#next-steps)
 - [Who we talked to](#who-we-talked-to)
 
 
@@ -39,8 +39,7 @@ Using Optimal Workshop, we conducted an unmoderated study in which participants 
 1. Participants primarily navigated to "Make an Appointment" when presented with tasks related to making an appointment via online chat, scheduling a future appointment after hours, or scheduling telehealth. (Tasks: 1, 2, and 6)
 2. When presented with calling to refill a prescription, most expected to be able to find this on the "Contact us" page. (Task 3)
 3. When presented with using online chat to refill a prescription, participants primarily navigated to "Manage your healthcare online". (Task 4)
-4. Participants initially looked to speak to a healthcare provider after hours in "Contact us" but a significant portion navigated back to "Manage your healthcare online" and "Make an appointment."
-    - When selecting Contact Us, it's likely that participants are looking for this information to be near main contact info blocks
+4. Participants initially looked to speak to a healthcare provider after hours in "Contact us" but a significant portion navigated back to "Manage your healthcare online" and "Make an appointment." (Task 5)
 
 
 ## Details of Task level Findings
@@ -75,6 +74,7 @@ _List all labels from the [research repository label list](https://github.com/de
   - Potentially address content organization on these pages for ease of findability.
 - Keep links to both VA Health Connect and VA Health Chat in the Manage your healthcare online section.
 - Where available, add VA Health Connect where main contact info is present.
+  - Provides Veterans, family members, and caregivers a quick access point when they have an immediate concern
   - Additional consideration given to phone label for Veteran understanding of after hours care (24/7 availability)   
 
 
