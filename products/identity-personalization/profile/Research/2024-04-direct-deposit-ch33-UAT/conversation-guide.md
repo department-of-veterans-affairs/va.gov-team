@@ -65,9 +65,10 @@ Alright, we’re just going to pause and make sure we’re seeing the right info
 
 ## UAT Task #2: Confirm `read-only` Direct Deposit with LOA3 account - 2 minutes
 
-_Once LOA3 account is confirmed:_ Next, let’s go look at your Direct Deposit settings. While we’re in read-only mode, can you confirm the following payment information is correct?
+_Once LOA3 account is confirmed:_ Next, let’s go look at your Direct Deposit settings. 
 
-The participant confirms the following:
+While we’re in read-only mode, can you confirm the following payment information is correct?
+
 - [ ] bank name is correct
 - [ ] last 4 digits of the account number is correct
 - [ ] account type is correct
