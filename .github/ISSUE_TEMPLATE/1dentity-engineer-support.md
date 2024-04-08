@@ -9,7 +9,7 @@ assignees: joeniquette
 
 # Identity Engineer Support Request
 
-This is a GitHub issue template for users and teams who need engineering support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products).
+This is a GitHub issue template for users and teams who need engineering support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For product support from the Identity team use [this product support template instead](Team has access to #vsp-identity Slack channel)
 
 ### **To properly assist with your issue, please complete the following:**
 
