@@ -47,14 +47,8 @@ _Why should this project be a priority?_
 - Outreach coordinators at each Vet Center are tasked with creating awareness/promotion about the services in their community and digital presence will help with this, especially during this time of limited face-to-face. 
 
 **Business drivers**
-- Jessica Schiefer (VHA Vet Center Communications Officer) and selected team of representative Outreach Specialists 
-  - Bryan Doe (Springfield, MA)
-  - Elizabeth Jackson (Orlando, FL)
-  - Ken Milam (Escanaba, MI)
-  - Austin Wilmarth (Colorado Springs)
-  - Troy Stormoen (Reno, NV)
-- Aptive (vendor: asssting with data collection and organization from the technical side)
-
+- Jessica Schiefer (VHA Vet Center Communications Officer) and selected team of representative Outreach Specialists
+  
 ### Project Scope and Scale
 _What's in and what's out?_
 
