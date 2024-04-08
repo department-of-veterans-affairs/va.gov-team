@@ -8,7 +8,7 @@
 
 #### Benefits and capabilities
 
-**Self-Scheduling and Community Care Self-scheduling Pilot Program**
+##### Self-Scheduling and Community Care Self-scheduling Pilot Program
 - Self-scheduling appointments
 - Allows Veterans seeking for primary care, specialty care, and mental health care under the Veterans
 - Community Care Program to self-schedule, modify, and cancel appointments directly online
