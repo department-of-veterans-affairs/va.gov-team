@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 4/8/2024
+- Updated CHIP & LoROTA lambdas & layer to node18.
+    - [Ticket 79211](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+
 ## 4/5/2024
 - Updated eCheck-in to re-order the travel questions for consistency with the stand-alone travel application (not yet released) and based on metrics data; order is now
     - Claiming only mileage?
