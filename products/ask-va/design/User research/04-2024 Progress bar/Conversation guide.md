@@ -33,11 +33,11 @@ Last updated by @tygindraux: April 8, 2024
 
 ## Agenda (60 minutes)
 
-- [Intro - 5 minutes]
-- [Warm up - 5 minutes]
-- [Home page to sign in - 5 to 15 minutes]
-- [Through to submission - 15 to 25 minutes]
-- [Cool down - 10 minutes]
+- [Intro - 5 minutes](#intro-5-minutes)
+- [Warm up - 5 minutes](#warm-up-5-minutes)
+- [Homepage to sign in - 5 to 15 minutes](#homepage-to-sign-in-5-to-15-minutes)
+- [Through to submission - 15 to 25 minutes](#through-to-submission-15-to-25-minutes)
+- [Cool down - 10 minutes](#cool-down-10-minutes)
 
 This document also contains [pause or exit strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#pause-or-exit-strategies).
 
@@ -99,9 +99,9 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
 
-## Home page to sign in (5 to 15 minutes)
+## Homepage to sign in (5 to 15 minutes)
 
-### Home page (Unauthenticated)
+### Homepage (Unauthenticated)
 
 Thanks, it’s helpful to learn about your experience with the VA.
 
