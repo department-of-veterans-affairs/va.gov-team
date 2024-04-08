@@ -7,23 +7,27 @@ VBA is migrating many educational benefits from the legacy system to a newer pay
 * [Project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/ch33-bdn-corpdb-migration)
 
 ### OCTO-DE Objectives 
-`The objective of this work is to support the migration initiative while limiting service disruptions for Veterans and other users who need to view or change their direct deposit information.`
+
+Objective [#1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1): Work collaboratively across the health and benefits portfolios on high-priority FY2024 initiatives.  
+- KR: At least 50% of our initiatives should support the major initiatives in the health and benefits portfolio.
+
+Our team is dedicated to supporting this migration initiative on VA.gov Profile while limiting service disruptions for Veterans and other users who need to view or change their direct deposit information. 
 
 ### Veteran Journey 
 Since Veterans can receive direct deposit payments for education benefits and/or compensation & disability any time after establishing benefits with VA, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
 
-## Research Goals
+## Research Goals	
 The primary goal of our UAT is to confirm that the Direct Deposit section of the Profile functions as intended for users who sign in with `ID.me` or `Login.gov` and who have direct deposit set up with their bank information. 
 
 Specifically, this research will be looking to validate the following use cases:
-- Users view the direct deposit section in their profile and can edit and save their bank info for all three use cases:
+- Participants view and edit the correct direct deposit information in their account for all three user scenarios, and receive email confirmations:
 	- Veterans with education benefits and compensation & pension
 	- Veterans with just education benefits
 	- Veterans with just compensation & pension
-- Users who save direct deposit for compensation & pension information receive a confirmation email.
-- Users that open the edit modal and click cancel will see modal close and previously-saved direct deposit information will still be saved.
-- Users that click to edit direct deposit information cannot submit the form with errors.
-- Users that click to edit direct deposit information will get an error if they input a bogus routing number.
+- We are able to confirm that the information being returned from the API matches what is being populated for users on the screen.
+- We are able to confirm that the following safeguards in place are working correctly:
+	- invalid routing/account numbers cannot be saved
+	- numbers over/under the character limit are unable to be saved
 
 ### Outcome
 Based on the outcome of this research study, we will correct any bugs or significant usability hurdles and launch this work to veterans.
