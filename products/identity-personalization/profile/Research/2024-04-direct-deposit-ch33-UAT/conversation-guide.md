@@ -80,7 +80,7 @@ The participant confirms the following:
 
 ## UAT Task #3: Confirm API data via dev tool widget - 2 minutes
 
-_After confirming bank info with participant_ Next, we’re going to double-check this same information on the back-end of this page. I’d like to direct your attention to a little tool we’ve temporarily added to this page for the purposes of this testing session.
+_After confirming bank info with participant:_ Next, we’re going to double-check this same information on the back-end of this page. I’d like to direct your attention to a little tool we’ve temporarily added to this page for the purposes of this testing session.
 
 **NOTE TO SELF // NEEDS UPDATING:** `describe what the dev tool widget looks like and what the participant needs to do to make the contents visible.`
 
