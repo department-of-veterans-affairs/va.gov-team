@@ -74,8 +74,8 @@ The participant confirms the following:
 
 **End the session if:**
 ```
-- There is a message saying they are *not* eligible for direct deposit -- they likely do not receive any kind of payment from the VA. 
-- There is a prompt to set up direct deposit -- they likely receive disability compensation via check, not direct deposit. 
+- There is a message saying they are *not* eligible for direct deposit- they might not receive any kind of payment. 
+- There is a prompt to set up direct deposit- they might receive disability compensation via check instead.
 ```
 
 ## UAT Task #3: Confirm API data via dev tool widget - 2 minutes
