@@ -52,6 +52,7 @@ Compare whether it’s more effective to describe percentage complete or not des
 
 Review whether submitters understand when to sign in or not:
 * Is it clear when you need to sign in and why?
+* If submitters decide not to sign in, why?
 * If submitters are interrupted to sign in, do they understand why and what to do?
 * Is it clear why information is pre-filled in the form?
 
