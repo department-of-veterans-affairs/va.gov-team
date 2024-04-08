@@ -86,15 +86,15 @@ _("Maybe True", “Likely True”, “Definitely True”, “Likely False”, �
 
 2. Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants). 
 
-3. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).
+3. The majority of participants cited the next appointment card in the Health Care section of My VA as the first thing that stands out to them, not the dot indicator nor the badge indicator (8 of 15 participants, of 11 actually assessing them).
 
-4. Finding four
+4. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).
 
-5. Finding five
+5. The majority of participants expressed desire to know more key information before filing claims (11 of 15 participants). 
 
-6. Finding six
+6. The majority of participants indicated they were interested in being informed of VA news, events, alerts, and info about related Veterans organizations (8 of 15 participants). This is a possible opportunity area for personalized content. 
 
-7. Finding seven
+7. Several participants brought up friction between the experiences of the VA website and the VA mobile application (4 of 15 participants).
 
 
 ## Details of Findings 
