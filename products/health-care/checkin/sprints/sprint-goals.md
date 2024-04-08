@@ -99,10 +99,9 @@ ________________________________________________________________________________
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - ❗🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
-        - ❗🟥 [Finalize couple userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80123)
+        - ✔️ ❗🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
         - ❗🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
-        - ❗🟥 [[DESIGN] Complete Notifications List Pattern ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80158)
+        - Placeholder for research spike     
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
