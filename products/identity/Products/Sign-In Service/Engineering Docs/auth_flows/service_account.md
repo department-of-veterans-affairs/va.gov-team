@@ -57,7 +57,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
   token = {
     'iss' => 'http://localhost:4000',
     'sub' => 'vets.gov.user+0@gmail.com',
-    'aud' => 'http://127.0.0.1/v0/sign_in/token',
+    'aud' => 'http://127.0.0.1:3000/v0/sign_in/token',
     'iat' => current_time,
     'exp' => current_time + 300,
     'scopes' => ['http://localhost:3000/v0/account_controls/credential_index'],
