@@ -14,23 +14,24 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## Relevant Documents:
 * [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
-* [va.gov Status Page](https://vagov.statuspage.io/)
-* [SLO Brainstorm on Figma](https://www.figma.com/file/RFJBhEtGHVnWUOAGn1Gnl8/SLO-Brainstorm?type=whiteboard&node-id=0-1&t=3vuj1urgEUrWjBCo-0)
+* [Public Facing SLO Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-df6fa7bc92140323ffecbf4e10b16346?refresh_mode=sliding&from_ts=1710016052679&to_ts=1712608052679&live=true)
 * [Branding Exercise](https://docs.google.com/presentation/d/1Q3WnJY-0fJ3HcuYNptZnAbJaWUGK3FGCkvH19AJYFJo/edit#slide=id.g2c630c18cda_1_141)
 
 ## What's In Scope: 
-* Incident Response
+
 * Service Level Agreements
+  * How we will publish the agreements to other teams.
+    * Perhaps just posting a single SLO doc used by all teams in Github (rather than doing it per team)?
+  * How we will publish the agreements to Veterans
+
+
+
+## Out of Scope: (for this iteration)
+* Incident Response
 * Accountability in SLOs - who gets assigned & their impact toward total numbers
 * Automation
   *  Notify when investigations are happening.
   *  Slack notifications when SLOs reach a certain level.
-* How we will publish the agreements to other teams.
-  * Perhaps just posting a single SLO doc used by all teams in Github (rather than doing it per team)?
-
-
-## Out of Scope: (for this iteration)
-
 
 
 ## Use Cases:
