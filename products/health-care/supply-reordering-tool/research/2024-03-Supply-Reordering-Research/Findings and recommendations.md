@@ -162,7 +162,7 @@ When asked what they would like to change about this page, two participants prov
     * _Why do Veterans need to select a type of battery once they only have one hearing aid?_
     * _Is auto-reorder available?_
 
-  Let's start asking those questions to make the overall experience more intuitive and easier.
+  We need to talk and work with the stakeholders and subject matter experts to start answering these questions to make the overall experience more intuitive and easier.
       
 * Work with DLC and providers to understand the feasibilities of  adding the ability to change or request change for size, quantity, and brand  of supplies.
     * _For nuance questions and requests, participants mentioned they prefer to contact their providers or clinics directly, which could delay the process in the case of not reaching the right person or back-and-forth communications. Adding a change supply request feature might ease the actions Veterans need to take._
