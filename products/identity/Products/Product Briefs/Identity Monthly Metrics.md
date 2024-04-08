@@ -56,7 +56,8 @@ For this first iteration, the focus will be on:
 | VA.Gov Team member | Wants to know how many tickets have which current status | Status dashboard  |
 | VA.Gov Team member | Wants to know which teams have made requests from Identity  | Ticket Requests by Team dashboard  |
 | VA.Gov Team member | Wants to know which which products the Identity team has helped with | Ticket Requests by Product dashboard  |
-| VA.Gov Team member | Wantss to know how long, on average, it takes the Identity team to close a ticket | Average Days to Close Tickets dashboard  |
+| VA.Gov Team member | Wants to know how long, on average, it takes the Identity team to close a ticket | Average Days to Close Tickets dashboard  |
+| Va.Gov Team member | Wants to know the CSR score of the Identity Team | CSR dashboard |
 | VA.Gov Team member | Wants to know how to find all of this information | Comms strategy to continually point people to these dashboards |
 
 ## Assumptions:
