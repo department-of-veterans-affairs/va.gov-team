@@ -21,7 +21,7 @@ I have some teammates who would like to observe our session and take notes for m
 
 Do you have any questions for me before we begin?
 
-## Set-up questions - 3 minutes
+## Set-up questions - # minutes
 
 1. My notes indicate that you receive direct deposit payments for:
 	- [ ] just compensation & pension – NOT education benefits 
@@ -32,7 +32,7 @@ Do you have any questions for me before we begin?
     - If participant has neither a `Login.gov` nor an `ID.me` account, end the session.
 3. We're going to be looking at the direct deposit section of the website together and I'll need you to re-enter your direct deposit info to confirm everything is working as expected . Do you have your bank information handy? _If not, give them some time to get it together_.
 
-## Context
+## Context  - # minutes
 
 The team I work with has made some updates to the backend system that helps run the direct deposit part of each person’s account profile. 
 
@@ -40,7 +40,7 @@ I’m meeting with people like yourself to help me test these updates to make su
 
 This will involve trying to make some edits to your bank account information – however, none of the edits we try to make will actually save, so your bank account information will remain the same.
 
-## Share screen and navigate to VA.gov - 5 minutes
+## Share screen and navigate to VA.gov - # minutes
 
 For the next step, I'll have you share you screen so we can look at VA.gov together. 
 
@@ -51,7 +51,7 @@ _Once they arrive at VA.gov:_ Go ahead and log in.
 - [ ] Participant logs in with `Login.gov`  
 - [ ] Participant logs in with `ID.me` 
 
-## UAT Task #1: Confirm LOA3 account - 2 minutes
+## UAT Task #1: Confirm LOA3 account - # minutes
 
 Alright, we’re just going to pause and make sure we’re seeing the right information on the screen (an identity-verified account).
 
@@ -63,7 +63,7 @@ Alright, we’re just going to pause and make sure we’re seeing the right info
 - There is a "Verify your identity" prompt (means they are not LOA3).
 ```
 
-## UAT Task #2: Confirm `read-only` Direct Deposit with LOA3 account - 2 minutes
+## UAT Task #2: Confirm `read-only` Direct Deposit with LOA3 account - # minutes
 
 _Once LOA3 account is confirmed:_ Next, let’s go look at your Direct Deposit settings. 
 
@@ -79,7 +79,7 @@ While we’re in read-only mode, can you confirm the following payment informati
 - There is a prompt to set up direct deposit- they might receive disability compensation via check instead.
 ```
 
-## UAT Task #3: Confirm API data via dev tool widget - 2 minutes
+## UAT Task #3: Confirm API data via dev tool widget - # minutes
 
 _After confirming bank info with participant:_ Next, we’re going to double-check this same information on the back-end of this page. I’d like to direct your attention to a little tool we’ve temporarily added to this page for the purposes of this testing session.
 
@@ -91,14 +91,14 @@ Can you confirm whether the information shown in this little tool matches the in
 
 Again, this little tool is only available during our testing today, it won’t show up in your account again. Thanks for helping us peek under the hood to make sure things are working correctly!
 
-## UAT Task #4: Cancel edit of direct deposit form - 2 minutes
+## UAT Task #4: Cancel edit of direct deposit form - # minutes
 
 Next, I'll have you click to `edit` your direct deposit info. Now click `cancel`, and let's see what happens.
 
 - [ ]  When the participant clicks `edit` and then `cancel`, their direct deposit info remains the same.
 
 
-## UAT Task #5: Edit and try to save blank form - 3 minutes
+## UAT Task #5: Edit and try to save blank form - # minutes
 
 For the next few tasks, I need your help testing the system to make sure some safeguards are working correctly to prevent submission errors.
 
@@ -108,7 +108,7 @@ We should see an error message and not be able to submit the form.
 
 - [ ]  When the participant tries to `save` a bank form, they are unable to submit the form, and their direct deposit info remains the same.
 
-## UAT Task #6: Edit and try to save with an invalid routing number - 3 minutes
+## UAT Task #6: Edit and try to save with an invalid routing number - # minutes
 
 Okay, go ahead and click edit again, and this time I will have you enter an **invalid routing number**.
 
@@ -121,7 +121,7 @@ Click `save` and we should see the system prevent us from putting in a routing a
 
 - [ ] When the participant clicks `save`, they cannot submit the form due to the invalid routing number.
 
-## UAT Task #7: Edit and try to save with short account number - 3 minutes
+## UAT Task #7: Edit and try to save with short account number - # minutes
 
 This task is similar to the last one, but instead of trying to save an invalid routing number, we’re going to try and save a **bank account number that’s too short**.
 
@@ -134,7 +134,7 @@ Click `save` and we should see the system prevent us from putting in an account 
 
 - [ ] When the participant clicks `save`, they cannot submit the form due to the account number being ***under*** the character limit.
 
-## UAT Task #8: Edit and try to save with long account number - 3 minutes
+## UAT Task #8: Edit and try to save with long account number - # minutes
 
 This task is similar to the last one, but instead of trying to save an account number that’s too short, we’re going to try and save an **account number that’s too long**.
 
@@ -147,7 +147,7 @@ Click `save` and we should see the system prevent us from putting in an account 
 
 - [ ] When the participant clicks `save`, they cannot submit the form due to the account number being ***over*** the character limit.
 
-## UAT Task #9: Edit, re-enter direct deposit information, and click save for email notification - 10 minutes
+## UAT Task #9: Edit, re-enter direct deposit information, and click save for email notification - # minutes
 
 As the last task for this part, I want to make sure that re-entering and saving your existing bank information triggers a confirmation email. 
 
