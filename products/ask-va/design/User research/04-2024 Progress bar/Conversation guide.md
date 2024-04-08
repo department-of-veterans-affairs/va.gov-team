@@ -96,7 +96,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 **Key things to note:**
 
-- Why do they choose to contact VA (instead of elsewhere, or another task)?
+- Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
 
 ## Home page to sign in (5 to 15 minutes)
@@ -137,7 +137,7 @@ For the rest of our conversation, I’d like you to pretend that you need to ask
   - Why?
 - Is there any scenario where you don't need to sign in?
 
-> Skip to [Category](#category) if they choose not to sign in.
+> **Skip** to [Category](#category) if they choose not to sign in.
 
 **Key things to notice:**
 - Is the purpose of Ask VA clear?
@@ -215,7 +215,7 @@ Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 
 ### Sign in alert
 
-> Skip and continue to [Who is your question about](#who-is-your-question-about) if they've already signed in.
+> **Skip** and go to [Who is your question about](#who-is-your-question-about) if they've already signed in.
 
 > Screen: Sign in alert
 
@@ -234,9 +234,9 @@ Let's go ahead and click 'Sign in or create an account'.
 
 Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
 
-> Screen: ??
+> Screen: [???]
 
-[NOTE: Confirm where they will jump back to after sign in interruption... Finish this section.]
+[Note: I need to confirm where they will jump back to after sign in interruption.]
 
 **Key things to notice:**
 - Are they surprised by the sign in alert?
@@ -287,7 +287,7 @@ Okay, great. Let's continue.
 
 > Screen: School information
 
-[NOTE: Check authentication, is anything pre-filled on this page?]
+[NOTE: Check that nothing is pre-filled on this page when authenticated.]
 
 - We're not going to click on anything yet, so can you just describe to me what you would do on this page?
 - What is this question asking for?
