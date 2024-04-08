@@ -8,8 +8,8 @@
   * [What constitutes a Vet Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#what-is-a-vet-center)
   * [Vet Center Services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-services)
   * [Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#eligibility)
-* [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#mvp)
-* [Vet Center 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-2.0)
+* [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#mvp))
+* [Vet Center 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-centers-20)
 
 ## About the product
 - **Product owner:** Michelle Middaugh
