@@ -88,20 +88,41 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - **Sub Goal: Move to New AWS Instance**
-        - TBD
+        - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - TBD
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗🟦🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
+        - ❗🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - TBD
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+        - TBD
+    - **Sub Goal: Discovery - Check Travel Eligibility**
+        - 🟥 [[Content] Create Final Content for Standalone BT App w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
+        - 🟥 [[Design] Create Final Wireframes for Standalone BT App w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+        - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
+        - 🟩 [[FE][CHIP] Pre-Check-In enabled for CVT, VVC, and phone appointments - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72862)
+        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72624)
+            - Make sure to include recent small changes (check release notes)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
+        - 🟦🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
+    - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
+        - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
+            - Same ticket in both Pre-Check-in and eCheck-in Epics
+        - 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72620)
+        - 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)
+        - 🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)
+        - 🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - TBD
+        - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
+        - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
+        - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
+        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
@@ -109,7 +130,8 @@ ________________________________________________________________________________
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
         - 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
-        - TBD
+        - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet for 1/4 of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77710)
+            - Do we need this?
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: DevOps Improvements**
 </details>
