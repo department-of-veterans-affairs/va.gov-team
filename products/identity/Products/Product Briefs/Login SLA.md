@@ -37,13 +37,11 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 ## Use Cases:
 - As a Veteran or VA Team member, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
 - As a Veteran or VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
-- As an ID team member, I would like to have a plan on who gets assigned and when they get assigned to fix SLO issues.
-- As an ID Team member, I would like to have automatic notifications when investigations are happening
-- As an ID Team member,  I would like to have slack notifications when service degradation occurs.
+
 
 
 ## Assumptions:
-
+- We publish around the dashboard created in the Login SLO project.
 
 
 ## Solution Approach: 
@@ -60,14 +58,14 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-| Language when publishing the SLOs |   Would like UX help in crafting the publishing language          |
+| Language when publishing the SLA |   Would like UX help in crafting the publishing language          |
 
 
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------| 
 | 75% of the endpoints are covered w/ SLO|  Published in tabular form             |
-| How are we meeting the SLO are published on a monthly basis |  Will be assigneed to Delivery Manager    |
+| How are we meeting the SLOA are published on a monthly basis |    |
 
 
 ## Baseline KPI Values:
@@ -82,4 +80,4 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## Future Scope:
 * Determining our response to observed service degradation.
-* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new SLOs will need to be established and published.
+* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new SLAs will need to be established and published.
