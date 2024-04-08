@@ -1,3 +1,5 @@
+# GI Bill and other education benefit eligibility
+
 ## Purpose of the content audit as it relates to legislation
 This work is part of the rolling accuracy and content standards audit of our webpages. It's tied to requirements outlined in the **21st Century Integrated Digital Experience Act (21st Century IDEA)** from 2018. The Office of Management and Budget issued a memorandum in 2023 with guidance on how agencies should implement the 21st Century IDEA. According to the memorandum, agencies need to review their content regularly "to ensure that outdated, inaccurate, or duplicative information does not negatively impact the public."
 ## Webpage reviewed and updated
