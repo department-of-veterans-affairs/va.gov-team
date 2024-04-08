@@ -35,8 +35,8 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 The key goals of this study are to:
 
 * Compare whether it’s more effective to describe percentage complete or not describe progress at all
-* Review whether submitters are clear on when to use Ask VA and how to start
 * Review whether submitters understand when to sign in or not
+* Review whether submitters are clear on when to use Ask VA and how to start
 
 ### Outcome
 
@@ -50,16 +50,16 @@ Compare whether it’s more effective to describe percentage complete or not des
 * Do submitters notice when there's no progress indicator?
 * In both scenarios, are submitters missing information (sections, chapters, etc.) to orient them?
 
+Review whether submitters understand when to sign in or not:
+* Is it clear when you need to sign in and why?
+* If submitters are interrupted to sign in, do they understand why and what to do?
+* Is it clear why information is pre-filled in the form?
+
 Review whether submitters are clear on when to use Ask VA and how to start:
 * Can submitters successfully start a new question from the authenticated dashboard?
 * Do submitters understand not to use Ask VA in an emergency?
 * Do submitters understand what to do in an emergency (instead of using Ask VA)?
 * Do submitters notice any overlap between Ask VA and other VA tools?
-
-Review whether submitters understand when to sign in or not:
-* Is it clear when you need to sign in and why?
-* If submitters are interrupted to sign in, do they understand why and what to do?
-* Is it clear why information is pre-filled in the form?
 
 ### Hypotheses
 
@@ -74,22 +74,20 @@ Review whether submitters understand when to sign in or not:
 
 This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
 
-We will present a scenario where the submitter has a question about their **education benefits**. Because we will test an **authenticated** scenario, we will pre-fill the form with mock data.
+We will present a scenario where the submitter has a question about their **education benefits**. We will test an **authenticated** scenario, so we'll prefill certain parts of the form with mock data.
 
 In half of the sessions, participants will use a prototype that includes a **new** progress indicator. In the other half, participants will use a prototype that **does not include** any progress indicator. We will compare both approaches.
 
-We will let submitters choose whether to sign in or not without guidance. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
+We will let submitters **choose whether to sign in or not without guidance**. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
 
 ### Research materials
 
-* Scenario A: Progress bar
-  * [Conversation guide - A: Progress bar](add link)
-  * [Mobile prototype - A: Progress bar](add link)
-  * [Desktop prototype - A: Progress bar](add link)
-* Scenario B: No progress bar
-  * [Conversation guide - B: No progress bar](add link)
-  * [Mobile prototype - B: No progress bar](add link)
-  * [Desktop prototype - B: No progress bar](add link)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar/Conversation%20guide.md)
+* Prototypes
+  * [Mobile prototype - Includes progress bar](add link)
+  * [Desktop prototype - Includes progress bar](add link)
+  * [Mobile prototype - No progress bar](add link)
+  * [Desktop prototype - No progress bar](add link)
 	
 ## Recruitment	
 
@@ -127,7 +125,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 6. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device? [Yes, no]
 7. Are you able and willing to join the Zoom session from your mobile or desktop device using the magnification tools you need to see your screen? [Yes, no, does not apply]
 
-## Timeline - WIP (NEEDS DISCUSSION)
+## Timeline - WORK IN PROGRESS, PLEASE ONLY REFER TO AS A GENERAL IDEA FOR NOW
 
 |Date|Milestone|
 |:--|:--|
@@ -149,7 +147,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 - Buffer between sessions: 1 hour
 - Maximum sessions per day: 4 sessions
 
-### Availability
+### Availability – WORK IN PROGRESS, PLEASE ONLY REFER TO AS A GENERAL IDEA FOR NOW
 
 We will provide 20 time slots, with the aim to book 10 sessions.
 
