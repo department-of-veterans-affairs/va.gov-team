@@ -1,4 +1,4 @@
-# Conversation guide [A]: Includes progress bar
+# Conversation guide: Includes progress bar
 
 Ask VA VA.gov Team
 
