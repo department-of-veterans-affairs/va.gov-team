@@ -24,6 +24,7 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 - [ ] We are retiring or taking down a page and need to redirect the URL (complete redirect section)
 - [ ] We are changing the URL of an existing page (complete redirect section)
 - [ ] We need a custom vanity URL (complete vanity URL section)
+- [ ] We are removing a temporary redirect
 
 ### Implementation date
 When does this request need to be live?
