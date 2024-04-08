@@ -2,114 +2,85 @@
 
 ## Table of Contents
 
-* [User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#user-journey)
-* [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#user-stories--use-cases)
 * [Vet Center Foundational information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#project-rationale)
-* [Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#project-rationale)
-* [Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#measuring-success)
-* [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#key-links)
+  * [Vet Centers and Satellites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-centers-and-satellites)
+  * [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#user-stories--use-cases)
+  * [What constitutes a Vet Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#what-is-a-vet-center)
+  * [Vet Center Services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-services)
+  * [Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#eligibility)
+* [MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#mvp)
+* [Vet Center 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md#vet-center-2.0)
 
 ## About the product
 **Product owner:** Michelle Middaugh
-
 **Business partner:** Jessica Schiefer, VHA Vet Center Communications Officer (Jessica.Schiefer@va.gov)
 
-
-
-
 ## Vet Center Foundational information
+- Vet Centers are stand-alone, community-based counseling centers that guide Veterans and their families through many of the major adjustments in lifestyle that often occur after a Veteran returns from combat. They provide a wide range of social and psychological services, including professional counseling to eligible Veterans, service members, including National Guard and Reserve components, and their families.
+- Vet Center benefits never expire so Veterans can be engaged in services off/on or continuously throughout the journey.
+- Vet Centers are under the VHA umbrella but they are not integrated into VAMC health care systems. Vet Centers 
+- Vet Centers are under-utilized and under-promoted benefit/service for Veterans, even through they are often the first touchpoint an active service member and/or family has with the VA.
 
-### User Journey
-- Vet Centers are community-based counseling centers that provide a wide range of counseling, outreach, and referral services to eligible Veterans, active duty service members,  and their families. 
-- Vet Centers guide Veterans and their families through many of the major adjustments in lifestyle that often occur after a Veteran returns from combat. 
-- Vet Center benefits never expire so Veterans can be engaged in services off/on or continuously throughout the journey. 
+### Vet Centers and Satellites
+- As of April 2024, there are 300 Vet Centers with three new locations planned this year.
+- To support their proactive outreach efforts, Vet Centers may also have
+  - one or more Outstation(s). These satellite locations are smaller versions of a Vet Center, with at least one full-time counselor providing services in a VA owned/operated physical space. Outstations are recorded in VAST. As of April 2024, there are 21 Outstations with six new locations planned this year. 
+  - one or more Community Access Points (CAPS). These locations operate as community access points, with staff rotating to provide services in community-donated space part-time. These satellites are not in VAST - Drupal is the source of truth for these locations. As of April 2024, there are 528 CAPs documented in Drupal.  
+  - Mobile Vet Centers (MVC), used for outreach and community disasters. These are documented in VAST. As of April 2024, there are 83 MVCs. 
 
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
 - As a Veteran, I need to search for services so that I can successfully transition from military to civilian life or find assistance after a traumatic event.
 - As a family member of an active duty service member, I need to find supportive services for issues related to my loved one's military experience. 
 
-### What constitutes a Vet Center?
-- VHA runs ~300 Vet Centers 
-  - Vet Centers are stand-alone facilities; they are not integrated into VAMC health care systems
-- Vet Centers may have an Outstation (included in VAST). 18 exist, small physical locations, like Vet Centers
-- Vet Centers may have one or more Community Access Points (CAPS), not in VAST. Donated space at community partners. Approx 1000 exist
-- Approx 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
-- Veterans do not need to be enrolled in VA health care to receive care from a Vet Center
-- Vet Centers also serve Veterans not eligible for other VA services (e.g. less than honorable discharge) and may serve the families of existing, active-duty service men and women who are deployed
-- Services that Vet Centers offer can be similar to those offered at a Medical Center but the way in which the service is provided may be very different (e.g. Group therapy, Equestrian Therapy, no ability to prescribe medication)
+### Vet Centers services
+- Vet Center services leverage the VA service taxonomy in Drupal. Some services overlap across facility types, although the way in which a service is provided at a Vet Center may be different than as provided at a Medical Center (e.g., non-clinical nature of services, emphasis on counseling, evidence-based therapeutic modalities, referral and connection to other VA or community benefits and services) 
+- In general, services include:
+  - Individual and group counseling for Veterans, service members, and their families
+  - Family counseling for military related issues
+  - Bereavement counseling for families who experience an active duty death
+  - Military sexual trauma counseling and referral
+  - Outreach and education including PDHRA, community events, etc.
+  - Substance abuse assessment and referral
+  - Employment assessment & referral
+  - VBA benefits explanation and referral
+  - Screening & referral for medical issues including TBI, depression, etc.
 
-
-### What services do Vet Centers offer?
-
-Our existing list of services is complete and correct for primary services. May be additional services provided at local level. 
-- Individual and group counseling for Veterans, service members, and their families
-- Family counseling for military related issues
-- Bereavement (grief) counseling
-- Military sexual trauma counseling and referral
-- Community outreach and education
-- Substance abuse assessment and referral
-- Employment referral
-- Referral of other VA services
-
-### Who uses the services?
+### Eligibility
 - Veterans
-- Family of active enlisted
+- Service members (including National Guard and Reserves)
+- Family members
 
-Eligibility is based on
-- Area of hostility
-- Campaign or war
-- Sexual trauma
-- Drone crews
-- Mortuary svcs, casualties of war
-- Services to fam members/loved ones
-- Expeditionary medal
+**Eligibility criteria is distinct from VA health care**
+- Veterans can have any character of discharge, do not need to be enrolled in VA health care, and do not need to have a service-connected disability to receive services. 
 
-### How do services get accessed?
-- Are Veterans assigned a Vet Center? Can they choose?
-- Can they have relationships with multiple Vet Centers?
-- Are services underutilized?
+## MVP
+- Prior to the 2020-2021 modernization initiative, Vet Centers did not have an online presence beyond the minimal information found on the Facility Detail pages within Facility Locator. Staff relied on the partnership and social media accounts (etc) of community partners or Public Affairs Officers at VA Medical Centers to promote activities. 
+- MVP Vet Center pages were intentionally very lean to avoid overwhelming staff who were new to the role of web editors. 
+- Scope for the modernization initiative
+  - establish Veteran-facing taxonomy for Vet Center services
+  - design and build new front-end VA Vet Center facility pages focused on locations and services
+  - develop national and local content maintenance capabilities
+  - train VA local and national staff to create and maintain content.
+- The first pages were published in 7/14/2021. The national roll-out was completed on 1/27/2023. 
 
-### Data Collection
-- Who does this work?
-- How is it done today? i.e. what does the process look like?
-- How often is this updated?
-- What tech tools and applications are used by Vet Center employees?
+More information about this initiative is available in the [2020-2021 modernization product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization). 
 
-
-
-## Project Rationale
-_Why should this project be a priority?_ 
-- In addition to 300 stand-alone (not integrated into VAMC health care systems) Vet Centers, the VHA runs 
-  - ~ 18 outstations (small physical locations, like Vet Centers)
-  - ~ 1000 community access points (donated space at community partners
-  - 83 Mobile Vet Centers (MVC) which are used for outreach and community disasters
-- Vet Centers are under-utilized and under-promoted benefit/service for Veterans, even through they are often the first touchpoint an active service member and/or family has with the VA.
-- Outreach coordinators at each Vet Center are tasked with creating awareness/promotion about the services in their community. 
-
-**Business owners**
-- Jessica Schiefer (VHA Vet Center Communications Officer) 
-
-
-## Measuring success
-
-**Options for measuring success**
-- SEO optimization, search results rankings
-- Increased phone calls of Vet Centers (call to action?)
-- Decreased conflation of Vet Center = VA Clinic (possibly through phone calls?)
-- Increased utilization of Vet Center services (?)
-- Increased understanding of Vet Center services (scroll depth, expansion)
-- Rank in Google search
-- **Verified contacts/month (currently exists Vet Center) -> considered most valuable by Outreach Specialists** 
-   - (in-bound) Referral source is tracked nationally (how did you hear of us?) (NSS)
-   - Not all Vet Centers capture call data (can be standardized)
-
+## Vet Centers 2.0
+- Vet Center pages have not been updated in any meaningful way since the national roll-out was completed.
+- Vet Center editors and leadership continue to request access to features and enhancements which had been considered out of scope for MVP.
+- We have not been able to iterate on these pages due to competing priorities and limitations caused by the content build.
+- As of April 2024, with Accelerated publishing nearly production ready, we can begin planning Vet Center 2.0, beginning with design.
+- Scope for this iteration (prioritization to be informed by design and engineering)
+  - Visual differentiation from VAMC pages
+  - Discoverability of satellite locations and the ability to associate services 
+  - Salesforce integration, limited to the connection to the digital intake form
+  - Events
+  - Navigation to support these new features
 
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
-[Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
-
-## Initiatives
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives
+- [Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+- [Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives)
+  - [2020-2021 modernization product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization)
