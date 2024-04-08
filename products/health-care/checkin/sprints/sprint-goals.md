@@ -12,12 +12,15 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
-    - **Sub Goal: Discovery - Multiple Selection of Appts**    
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: Add New Translated Content**    
+    - **Sub Goal: Add New Translated Content**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+    - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-    - **Sub Goal: Analyze current metrics to see what they tell us** 
+    - **Sub Goal: Analyze current metrics to see what they tell us**    
 - **GOAL: Improve Metrics**
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
 - **GOAL: Address Tech Debt**    
@@ -30,12 +33,17 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - **Sub Goal: Move to New AWS Instance**
+        - TBD
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - TBD
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - TBD
+        - TBD 
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+        - TBD 
+    - **Sub Goal: Discovery - Check Travel Eligibility**
+        - TBD 
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
         - 🟩 [[FE] Add Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64635)
@@ -54,6 +62,7 @@ ________________________________________________________________________________
         - TBD
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: DevOps Improvements**
+        - TBD
 </details>
 
 ______________________________________________________________________________________________________________________________________________________
@@ -69,11 +78,14 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
-    - **Sub Goal: Discovery - Multiple Selection of Appts**    
+    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
+    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+    - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-    - **Sub Goal: Add New Translated Content**
     - **Sub Goal: Analyze current metrics to see what they tell us**    
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
