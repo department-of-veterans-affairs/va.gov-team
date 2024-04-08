@@ -79,8 +79,6 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-    - **Sub Goal: Discovery - Multiple Selection of Appts**
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
@@ -90,8 +88,6 @@ ________________________________________________________________________________
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
-- **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
 - NONE
@@ -100,19 +96,19 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - **Sub Goal: Move to New AWS Instance**
-        - 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
+        - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - TBD
+        - ❗🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
+        - ❗🟥 [Finalize couple userflow options ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80123)
+        - ❗🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
+        - ❗🟥 [[DESIGN] Complete Notifications List Pattern ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80158)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ❗🟦🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
         - ❗🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
-    - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - TBD
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
-        - TBD
     - **Sub Goal: Discovery - Check Travel Eligibility**
+        - 🟥 [[Content] Create Final Content for eCheck-in w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
         - 🟥 [[Content] Create Final Content for Standalone BT App w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
         - 🟥 [[Design] Create Final Wireframes for Standalone BT App w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
 - **GOAL: Increase PCI Usability**
@@ -144,8 +140,7 @@ ________________________________________________________________________________
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - 🟩 [[FE] Complete a GA4 Event Audit Spreadsheet for 1/4 of Recorded Events ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77710)
             - Do we need this?
-- **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
+
 </details>
 
 ______________________________________________________________________________________________________________________________________________________
