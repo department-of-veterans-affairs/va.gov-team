@@ -15,7 +15,7 @@ These instructions outline how to generate and send an analytics report to our V
     - Oct-Dec
  
 ## Delivery
-- Via VA Email using this [Outlook template]()
+- Via VA Email using this [Outlook template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/Modernized%20Check-in%20-%20Quarterly%20Metrics%20Report.oft)
 - Distribution List
   - Kay Lawyer
   - Kristen McConnel
