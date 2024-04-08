@@ -1,4 +1,4 @@
-# VA.gov Login SLO Phase 2
+# VA.gov SLA
 
 ## Overview: 
 Determining, establishing and publishing the Service Level Objective (SLO) targets we want to hit for Veterans logging into VA.gov with the ultimate goal of continuously improving the login process to VA.gov. 
