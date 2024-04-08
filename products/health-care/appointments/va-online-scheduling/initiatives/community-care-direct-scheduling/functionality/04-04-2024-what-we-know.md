@@ -7,7 +7,8 @@
 - At a minimum, an authorized referral will include a speciality/service. E.g., optometry (123000X), primary care, podiatry, etc.
 - Optional information will include: 
      - Sub-service(s): physical therapy, occupational therapy, speech therapy, chronic disease management, etc. 
-     - Appointment type: Follow-up appointment, diagnostic test such as an X-ray, first-time visit, existing patient, telemedicine, etc. 
+     - Appointment type: Follow-up appointment, diagnostic test such as an X-ray, first-time visit, existing patient, telemedicine, etc.
+     - CC Provider. 
 
 ### What's UNKNOWN about authorized (or approved) referrals
 
