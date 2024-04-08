@@ -7,7 +7,7 @@ While many of the metrics will be more of an informational nature, there is one 
 
 
 ## Problem Statement: 
-As the Identity Team becomes more of a platform team, we want to have more visibility into how we actually support other teams, as well as transparency as to how those other teams view our support.  Thus, publishing Monthly Metrics about that support.
+As the Identity Team becomes more of a platform team, we want to have more visibility into how we actually support other teams, as well as transparency as to how those other teams view our support.  Our solution is to publish metrics surrounding our support.
 
 
 ## Relevant Documents:
@@ -65,8 +65,9 @@ For this first iteration, the focus will be on:
 * This process will change and grow as we come up with new things to measure.
 
 ## Solution Approach: 
-* Create a ticket with the Analytics team to set up dashboards with the above metrics
-* Determine how to publish these metrics.
+* Create a ticket with the Analytics team to set up dashboards with the counting and calculated metrics.
+* Set up a dashbord to display the Satisfaction metrics gathered from the Slack survey previously deployed.
+* Determine how to publish these metrics to other VA.gov teams.
   
 ## Technical Considerations:
 | Issue         | Notes         | 
