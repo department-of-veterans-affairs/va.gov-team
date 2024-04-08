@@ -72,13 +72,17 @@ Review whether submitters are clear on when to use Ask VA and how to start:
 
 ## Methodology
 
-This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
-
-We will present a scenario where the submitter has a question about their **education benefits**. We will test an **authenticated** scenario, so we'll prefill certain parts of the form with mock data.
+This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity. We will present a scenario where the submitter has a question about their **education benefits**. We will test an **authenticated** scenario, so we'll prefill certain parts of the form with mock data.
 
 In half of the sessions, participants will use a prototype that includes a **new** progress indicator. In the other half, participants will use a prototype that **does not include** any progress indicator. We will compare both approaches.
 
 We will let submitters **choose whether to sign in or not without guidance**. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
+
+These are the main components and/or pages, we're testing:
+- Progress bar
+- Homepage (Unauthenticated)
+- Dashboard without cards
+- Sign in modal (Interruption)
 
 ### Research materials
 
