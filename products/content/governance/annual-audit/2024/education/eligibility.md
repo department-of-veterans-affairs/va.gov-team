@@ -22,7 +22,7 @@ Live page for context: [GI Bill and other education benefit eligibility](https:/
 ### Feedback/comments
 [Add feedback from SMEs]
 ## Flesch-Kincaid grade-level scores (with no prep)
-**Before audit updates:**
+**Before audit updates:**  
 **After audit updates:**
 ## Some quotes from the OMB memorandum relevant to the purpose of this audit
 - "Poor information quality reduces public trust, introduces confusion that could negatively impact individuals who seek government information and services, and hinders government operations."
