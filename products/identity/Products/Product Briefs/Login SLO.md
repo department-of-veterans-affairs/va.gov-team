@@ -11,6 +11,7 @@ We have two audiences for this information:
 We do not currently have any current SLOs for VA.gov logins, and creating them will help us monitor and improve the Veteran login experience.
 
 ## Relevant Documents:
+* [Public Facing SLO Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-df6fa7bc92140323ffecbf4e10b16346?refresh_mode=sliding&from_ts=1710016052679&to_ts=1712608052679&live=true)
 * [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
 * [va.gov Status Page](https://vagov.statuspage.io/)
 * [SLO Brainstorm on Figma](https://www.figma.com/file/RFJBhEtGHVnWUOAGn1Gnl8/SLO-Brainstorm?type=whiteboard&node-id=0-1&t=3vuj1urgEUrWjBCo-0)
@@ -135,10 +136,8 @@ For this first iteration, success will be determining SLOs for:
 
 ## Milestones:
 - [ ] Spikes completed.
-- [ ] Initial publishing of SLOs.
-- [ ] First monitoring date.
-- [ ] First publishing date.
-- [ ] Ongoing monthly monitoring & publishing.
+- [ ] Initial internal publishing of SLOs.
+
 
 
 ## Future Scope:
