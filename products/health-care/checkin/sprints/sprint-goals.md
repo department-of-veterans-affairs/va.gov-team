@@ -105,7 +105,7 @@ ________________________________________________________________________________
         - ❗🟥 [[DESIGN] Complete Notifications List Pattern ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80158)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-        - ❗🟦🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
+        - ❗🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242)
         - ❗🟦 [[BE] Create Datadog Dashboard for Travel Claims App ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75599)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - 🟥 [[Content] Create Final Content for eCheck-in w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
@@ -118,7 +118,7 @@ ________________________________________________________________________________
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72624)
             - Make sure to include recent small changes (check release notes)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
-        - 🟦🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
+        - 🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
         - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
             - Same ticket in both Pre-Check-in and eCheck-in Epics
@@ -127,7 +127,6 @@ ________________________________________________________________________________
         - 🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)
         - 🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [SPIKE: Can we retrieve Provider information from a non-PPMS source? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78015)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
