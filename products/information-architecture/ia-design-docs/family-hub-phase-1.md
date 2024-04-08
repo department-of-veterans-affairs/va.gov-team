@@ -150,13 +150,13 @@ For phase 1, each subhub will feature links and a short description to the follo
 ## <a name="redirects"></a>Redirects <br>
 We'll need to create a redirect ticket after we finalize H1s (and thus urls). All of the redirects should happen on the same day and should be either at the same time as publishing or right after.
 
-                                                                                        | Current URL                                                                                        | Redirect to                                                                                                                   |
+| Current URL                                                                                        | Redirect to                                                                                                                   |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | https://www.va.gov/family-member-benefits/                                                         | https://www.va.gov/family-and-caregiver-benefits/                                                                             |
 | https://www.va.gov/housing-assistance/home-loans/surviving-spouse/                                 | va.gov/family-and-caregiver-benefits/surviving-spouse-home-loan/                                                              |
 | https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/          | va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/                    |
 | https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction | va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/ |
-| https://www.va.gov/health-care/family-caregiver-benefits/champva/                                  | va.gov/family-and-caregiver-benefits/health-and-disability/champva/                                                           |                           |
+| https://www.va.gov/health-care/family-caregiver-benefits/champva/                                  | va.gov/family-and-caregiver-benefits/health-and-disability/champva/                                                           |
 
 ## <a name="bestbets"></a>Best Bets<br>
 
