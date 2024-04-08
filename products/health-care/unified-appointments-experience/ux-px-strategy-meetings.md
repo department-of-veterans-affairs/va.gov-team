@@ -13,6 +13,7 @@
     - Standard Metrics (single dashboard)
     - Weekly collaboration on metrics via our new channel [unified-appointment-experience](https://dsva.slack.com/archives/C06RMRJCLHH)
     - Needs for the Vet EPS iniative
+         - Short research study on low-fi userflow? 
     - Cross-team research needs
 - Recording
 - Action Items
