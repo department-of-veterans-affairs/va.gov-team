@@ -69,7 +69,7 @@ _Are other features dependent on this one? What do we need from partners? What d
 ## Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
-- High level [Product brief]([Vet Center Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md)
+- High level [Vet Center Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/product-brief.md)
 - Epic for this work: [Initiative - Vet Center design 2.0 #17661](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/issues/gh/department-of-veterans-affairs/va.gov-cms/17661) (Github)
 - [Vet Center Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/analytics)
 
