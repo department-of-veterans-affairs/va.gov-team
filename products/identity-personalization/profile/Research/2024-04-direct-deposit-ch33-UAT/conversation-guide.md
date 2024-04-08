@@ -24,8 +24,8 @@ Do you have any questions for me before we begin?
 ## Set-up questions - 3 minutes
 
 1. My notes indicate that you receive direct deposit payments for:
-	- [ ] just compensation & pension – NOT for education benefits 
-	- [ ] just education benefits – NOT for compensation & pension
+	- [ ] just compensation & pension – NOT education benefits 
+	- [ ] just education benefits – NOT compensation & pension
 	- [ ] both education benefits AND compensation & pension
 	 Is that correct? 
 2. I also have in my notes that you use `Login.gov` or `ID.me` to log into VA.gov, is that correct? 
