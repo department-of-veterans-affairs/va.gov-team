@@ -1,7 +1,5 @@
 # Research plan - Unmoderated Content Evaluation for Multiple Facilities Selection in BT Oracle Health App
 
-_[DRAFT]_
-
 ## Background
 Veterans who have medical appointments at VA health facilities that use Oracle Health EHR software (formerly Cerner) have a need to be able to easily file a mileage-only travel reimbursement claim online on the day of their appointment.
 
@@ -43,12 +41,12 @@ This research will be conducted as an unmoderated study using Optimal Workshop.
 The tests will be conducted online at the participant’s leisure.
 
 ### Research Materials
-- Optimal Workshop Survey
-- Survey Outline (Google Doc start)
+- [Optimal Workshop Survey Preview link](https://dj540s05.optimalworkshop.com/questions/g)
+- Survey Outline 
 - Recruitment intake ticket
 
 ## Recruitment
-8 cohorts, 9 participants each, total 72 respondents, minimum threshold of 50 completed responses. 
+7 cohorts, 9 participants each, total 63 respondents, minimum threshold of 35 completed responses. 
 
 ### Primary criteria (must-haves)
 
@@ -60,56 +58,50 @@ The tests will be conducted online at the participant’s leisure.
   - All must have experience filing for travel reimbursement
   - All must be over 55 years old
   - All must have a cognitive disability
-  - [cohort link]
+  - [cohort A link](https://dj540s05.optimalworkshop.com/questions/a)
 
 
 - Cohort B (9 Veterans) 
   - All must have experience filing for travel reimbursement
   - All must be over 55 years old 
     - OR have a cognitive disability
-  - [cohort link]
+  - [cohort B link](https://dj540s05.optimalworkshop.com/questions/b)
 
 
 - Cohort C (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must NOT have any degree or vocational training after high school
-  - [cohort link]
+  - [cohort C link](https://dj540s05.optimalworkshop.com/questions/c)
 
 
 - Cohort D (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must identify as Native or Asian
-  - [cohort link]
+  - [cohort D link](https://dj540s05.optimalworkshop.com/questions/d)
 
 
 - Cohort E (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must identify as not caucasian
-  - [cohort link]
-
-
-- Cohort F (9 Veterans) 
-  - All must have experience filing for travel reimbursement
-  - All must use be screen readers users
-  - [cohort link]
+  - [cohort link](https://dj540s05.optimalworkshop.com/questions/e)
 
 
 #### NO experience with travel
 
-- Cohort G (9 Veterans)
+- Cohort F (9 Veterans)
   - All must NOT have experience filing for travel reimbursement
   - All must think they’re eligible to receive travel reimbursement
   - All must be over 55 years old
     - OR have a cognitive disability
-[cohort link]
+  - [cohort F link](https://dj540s05.optimalworkshop.com/questions/f)
 
 
-- Cohort H (9 Veterans)
+- Cohort G (9 Veterans)
   - All must NOT have experience filing for travel reimbursement
   - All must NOT know or be unsure if they’re eligible to receive travel reimbursement
   - All must be over 55 years old
     - OR have a cognitive disability
-  - [cohort link]
+  - [cohort G link](https://dj540s05.optimalworkshop.com/questions/g)
 
 ### Secondary criteria (nice to haves) across all cohorts:
 - At least 20 women
