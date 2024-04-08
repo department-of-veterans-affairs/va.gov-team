@@ -54,7 +54,7 @@ Initiative Brief for adding TERA and Military History questions to the online 10
 
 #### **Key Result #1:** 70% of Veterans who visit this page will answer Yes to provide TERA information
 
-Data source - [Domo Dashboard]??
+Data source - [[Domo Dashboard](https://va-gov.domo.com/page/447193050)]
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
@@ -63,7 +63,7 @@ Data source - [Domo Dashboard]??
 
 #### **Key Result #2:** 75% of Veterans who said Yes to providing TERA information will provide info in at least one TERA question
 
-Data source - [Domo Dashboard]
+Data source - [[Domo Dashboard](https://va-gov.domo.com/page/447193050)]
 
 | Product KPI | Historical |Target | Post-Launch 1 month|Post-Launch 3 months|
 |------------- |---------|-------------- |-------------- |-------------- |
@@ -130,12 +130,12 @@ Data source - [Domo Dashboard]
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/TERA%20Questions%20Release%20Plan.md)]
-* [Test results from VES team]
+* [[Test results from VES team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/10-10EZR-test-document.md)]
 * [[Test Cases from 10-10EZR team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/TERA%20Question%20Feature%20Documents/10-10EZR-test-document.md)]
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - April 10, 2024
+  - April 10, 2024--April 17, 2024
 - *Actual Launch Date* 
   - tbd
 
