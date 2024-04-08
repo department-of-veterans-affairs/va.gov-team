@@ -8,7 +8,7 @@ We have two audiences for this information:
 * Other va.gov product teams.
 
 ## Problem Statement: 
-We do not currently have any current SLOs for VA.gov logins, and creating them will help us monitor and improve the Veteran login experience.
+We do not currently have any current SLAs for VA.gov logins, and creating them will help us monitor and improve the Veteran login experience.
 
 ## Relevant Documents:
 * [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
