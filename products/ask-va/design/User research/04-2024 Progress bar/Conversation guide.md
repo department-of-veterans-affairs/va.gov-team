@@ -128,7 +128,7 @@ I’m going to give you a moment to look at this page.
 - What is this page about?
 - How long would you expect it to take to ask a question?
 
-For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question. Let's say [need to write scenario, but it will be personal/education related].
+For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question. Let's say [ADD NEW SCENARIO, but it will be personal/education related].
 
 - Without clicking anything yet, can you tell me what you would do first?
   - Where would you click?
@@ -179,7 +179,7 @@ Let's go ahead and click `Ask a new question.`
 
 > Screen: Category
 
-Okay, so I mentioned earlier that we’re pretending like you need to ask the VA [add scenario]. With that in mind…
+Okay, so I mentioned earlier that we’re pretending like you need to ask the VA [ADD NEW SCENARIO]. With that in mind…
 
 - Can you show me what you would do first on this page?
 - [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
@@ -251,7 +251,7 @@ Today, we're just going to pretend like you're signing in. Let's click on Login.
 
 > Screen: Who is your question about?
 
-So, just to remind you, you need to ask the VA how to get your hearing checked.
+So, just to remind you, you need to ask the VA [ADD NEW SCENARIO]
 
 - Can you show me what you would do on this page?
 - Why did you choose that option?
@@ -313,7 +313,7 @@ Okay, for today, we'll pretend like you live in Virginia. Let's choose Virginia 
 
 Okay great. So we can’t actually type into the box using this prototype. 
 
-We’ll pretend like you typed in a subject and a question about [scenario].
+We’ll pretend like you typed in a subject and a question about [ADD NEW SCENARIO].
 
 - After that, is there anything else you need to do on this page?
 - Why is it asking for you to upload files?
