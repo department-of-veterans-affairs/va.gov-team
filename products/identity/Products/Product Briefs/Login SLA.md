@@ -13,7 +13,7 @@ This is a follow-up to the Login SLO project.
 We do not currently have any current SLAs for VA.gov logins, and publishing them them will help us monitor and improve the Veteran login experience.
 
 ## Relevant Documents:
-* [Login SLO Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/75713)
+* [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
 * [va.gov Status Page](https://vagov.statuspage.io/)
 * [SLO Brainstorm on Figma](https://www.figma.com/file/RFJBhEtGHVnWUOAGn1Gnl8/SLO-Brainstorm?type=whiteboard&node-id=0-1&t=3vuj1urgEUrWjBCo-0)
 * [Branding Exercise](https://docs.google.com/presentation/d/1Q3WnJY-0fJ3HcuYNptZnAbJaWUGK3FGCkvH19AJYFJo/edit#slide=id.g2c630c18cda_1_141)
