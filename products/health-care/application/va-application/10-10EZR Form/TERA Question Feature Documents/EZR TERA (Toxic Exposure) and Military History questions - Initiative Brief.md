@@ -97,15 +97,14 @@ Data source - [[Domo Dashboard](https://va-gov.domo.com/page/447193050)]
   - RISK: Veterans who provided their Toxic Exposure details while filing their disability claim(s) may feel this is duplicative, becoming annoyed that VA does not already have this information on file.
 - **Usability Risks** (can people figure out how to use it):
   - RISK: Veterans will be overwhelmed by the questions and details being asked
-  RISDK: Veterans will not understand the questions being asked (e.g. what is Agent Orange?)
+  - RISK: Veterans will not understand the questions being asked (e.g. what is Agent Orange?)
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-    - RISK: Downstream API/Data availability and reliability (Enrollment system)
-    -RISK: EZR cannot properly handle the information entered
+  - RISK: Downstream API/Data availability and reliability (Enrollment system)
+  - RISK: EZR cannot properly handle the information entered
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
     - RISK: HEC Staff will not have visibility into the Veteran's input within their workflow (Enrollment System) until June 2024 
-    
-    -RISK: Veterans do not receive judgements on their TERA information in a timely manner
+    - RISK: Veterans do not receive judgements on their TERA information in a timely manner
 
 ### What're you building
 #### In-Scope
