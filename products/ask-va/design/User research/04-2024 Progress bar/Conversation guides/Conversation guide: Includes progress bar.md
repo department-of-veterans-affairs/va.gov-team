@@ -137,7 +137,7 @@ For the rest of our conversation, I’d like you to pretend that you need to ask
   - Why?
 - Is there any scenario where you don't need to sign in?
 
-> Skip to [Category]( if they choose not to sign in
+> Skip to [Category](#category) if they choose not to sign in.
 
 ### Sign in
 
