@@ -95,9 +95,9 @@ When you think aloud, it helps us understand what works well and where we might 
 
 **Scenario:** For your scenario, pretend you are Alex Wilson, the wife of a deceased Veteran. You are requesting a bronze medallion to place on his headstone, and you are accepting delivery of the medallion. How would you go about filling out this application? In this example, you are already signed in to VA.gov. I’m going to briefly have you look at the information on this page before you start the application.  
 
-_When participant clicks on the green button to apply, repeat the scenario: _ 
+_When participant clicks on the green button to apply, repeat the scenario:_ 
 
-_**Scenario:** For your scenario, pretend you are Alex Wilson, the wife of a deceased Veteran. You are requesting a bronze medallion to place on his headstone, and you are accepting delivery of the medallion. How would you go about filling out this application? 
+**Scenario:** For your scenario, pretend you are Alex Wilson, the wife of a deceased Veteran. You are requesting a bronze medallion to place on his headstone, and you are accepting delivery of the medallion. How would you go about filling out this application? 
 
  ### Introduction 
 
