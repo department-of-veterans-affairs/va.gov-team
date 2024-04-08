@@ -7,7 +7,7 @@ Each CSV file on this page contains specific content guidance for these form fie
 - Notes on variations
 
 ## Names
-- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/r/personal/megan_zehnder_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7BDDF1C455-E9AD-45F9-96C3-93F2A78973AE%7D&file=Names_form.patterns_VADS.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&login_hint=MEGAN.ZEHNDER%40VA.GOV&ct=1712253597579&wdOrigin=OFFICECOM-WEB.START.CONTENTACTIONS&cid=fbaad05d-4e4c-46ea-b451-85a5f70978de&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=7e3e348b-9a98-4465-997d-5435e7639481)
+- [Link to CSV file](https://dvagov-my.sharepoint.com/:x:/g/personal/megan_zehnder_va_gov/EVXE8d2t6flFlsOT8qeJc64B7OvvAUN4qtuXvYHZ1JvvQg?e=LeogYV))
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/names#content-considerations)
 
 ## Dates
