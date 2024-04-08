@@ -84,7 +84,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
-        - 🟩 [[FE] Include a parameter for 'timeToComplete' in /travel-claims to indicate time taken for Veteran from auth to submitting travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79739)
+        - ✔️ 🟩 [[FE] Include a parameter for 'timeToComplete' in /travel-claims to indicate time taken for Veteran from auth to submitting travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79739)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
     - **Sub Goal: Discovery - Check Travel Eligibility**
@@ -112,12 +112,12 @@ ________________________________________________________________________________
         - TBD          
 - **GOAL: Address Tech Debt**
     - 🟥 [[UX] Create new figma file for content and document variations of text messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79459)
-    - 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
+    - ✔️ 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
     - 🟩 [Remove Un-used Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79391)
     - **Sub Goal: DevOps Improvements**
-        - 🟨 [[DevOps] Enable GHA ecosystem updates for CHIP repository](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79778)
-        - 🟨 [[DevOps] Pin GHA versions in CHIP repository GHA workflows ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79780)
-        - 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
+        - ✔️ 🟨 [[DevOps] Enable GHA ecosystem updates for CHIP repository](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79778)
+        - ✔️ 🟨 [[DevOps] Pin GHA versions in CHIP repository GHA workflows ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79780)
+        - ✔️ 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
         - 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
         - ✔️ 🟨 [[DevOps] Transfer ownership of checkin-devops repository from vnce-avalanche to patient-check-in. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79911)
 
