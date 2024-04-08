@@ -58,7 +58,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-This rollout will not be phased.  We will deliver this change at 100% on 4/10/2024
+This rollout will be phased from 4/10/2024-4/17/2024
 
 #### Rollout Planning
 
