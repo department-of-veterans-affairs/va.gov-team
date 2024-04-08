@@ -39,7 +39,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - **Post-Launch (After 4/10)**
+     - **Post-Launch (After 4/17)**
 - Desired number of users:
      - **TBD** participants
 - How you'll recruit the right production test users:
@@ -63,7 +63,7 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
 #### Rollout Planning
 
 - Desired date range:
-     - 04/10/2024-04/17/2024
+     - 04/17/2024
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - We will run a test with a couple Production test users on 4/9/2024 prior to launching at 25%
      - We will not limit the number of users on rollout
@@ -95,7 +95,7 @@ This rollout will not be phased.  We will deliver this change at 100% on 4/10/20
 >|Total Veterans that provided an answer to at least one question |N/A| 75% | TBD | TBD |
 >
 - Links to the dashboard(s) showing "success criteria" metrics:
-     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dash/integration/472/rum-web-app-usage?fromUser=false&refresh_mode=sliding&tpl_var_applicationName%5B0%5D=10-10EZR&view=spans&from_ts=1712571400536&to_ts=1712575000536&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
      - Product Manager - Alex Seelig
