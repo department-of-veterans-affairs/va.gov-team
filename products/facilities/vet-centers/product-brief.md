@@ -84,4 +84,4 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 - [Veteran Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 - [Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives)
   - [2020-2021 modernization product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization)
-  - [Vet Centers 2.0 Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/vet-centers-2.0.md)
+  - [Vet Centers 2.0 Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/vet-centers-2.0/initiative-brief.md)
