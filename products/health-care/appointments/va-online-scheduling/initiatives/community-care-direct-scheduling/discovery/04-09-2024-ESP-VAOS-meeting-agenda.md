@@ -7,6 +7,8 @@
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/2eb49cf2-f962-45b3-b6fc-123740373990" alt="CC direct scheduling high level visual data flow" style="width:990px;"/>
 
+[*Download CC direct scheduling high level visual data flow (PDF)*](https://github.com/department-of-veterans-affairs/va.gov-team/files/14899620/CC.direct.scheduling.high.level.visual.data.flow_2024-04-08_00-45-22.pdf)</br></br>
+
 ## Work In Progress Questions
 
 ### Authorized Referrals 
