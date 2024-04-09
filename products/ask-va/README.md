@@ -15,7 +15,6 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Product Owner (OCTO)|Chante Lantos-Swett|chante.lantosswett@va.gov|
 |Interim Product Owner (OCTO), Designer|Becky Phung|becky.phung@va.gov|
 |Product Owner (VES)|Natalie Morales|natalie.morales@va.gov|
 |Product Owner (VES)|Andrea Schneider|andrea.schneider3@va.gov|
@@ -23,9 +22,9 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 |Interim Product Manager|Holly Hansen|holly.hansen@thoughtworks.com|
 |Product Manager|Ruchi Shah|ruchi.shah@thoughtworks.com|
 |Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
-|Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
 |Engineer|Hemesh Patel|hemesh.patel@docme360.com|
+|Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
 |UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
