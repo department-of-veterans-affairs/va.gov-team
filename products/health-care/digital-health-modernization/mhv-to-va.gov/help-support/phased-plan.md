@@ -9,7 +9,55 @@ The cartography team identified this risk in Fall 2023 and began prioritizing th
 
 ## Current help and support landscape
 
+**What types of questions does the MHV Call Center answer today?** 
+* =HealtheVet helpdesk call center data comes in through VSignals, with about 30,000 datapoints per month. Kophie Mathis is solely responsible for combing through this data, and he reports out trends in the My HealtheVet Feedback dashboard.
+* So far, we know that the largest clusters of calls come in about:
+  * Secure Messages
+  * Sign-in and account access related issues
+ 
+**What topics did My HealtheVet National Portal cover that will no longer be coverered on VA.gov?**
+* Patient-entered data
+* Health tracking devices
+* Blog post content (unknown)
+
+**What topics are new, that My HealtheVet on VA.gov will need to be able to cover?**
+* Medical supplies and devices (hearing aid battery and CPAP supply re-order)
+* 10-10EZR
+* Payments and medical co-pays
+* Travel reimbursement (BTSSS)
+* ID.me and/or Login.gov questions
+* Potentially be prepared to transfer users to other helpdesks for non-health related questions
+
+**What help tools do we have on VA.gov today, and can we leverage those to support My HealtheVet users?**
+
+
+
 ## Discovery & desk research
+* [MURAL with discovery research, competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710792685965/130af5ff20096b650079e36b00db1187172c857f?sender=uf94a77a19aaf687331c09367)
+* [Notes from conversations (Google doc)](https://docs.google.com/document/d/1sPnIlOeUcEjoeY8oYCsonAbYFtETNUEeWXvPcP1Xz0M/edit)
+
+### Analytics
+
+### Other research
+* [Discovery research from Summer 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/MHV-Helpdesk-data.md)
+
+### People
+
+<b>HRC Helpdesk</b>
+* Sylvia Palmer
+* Kophie Mathis
+* Theresa Palmer
+* John Tano
+
+<b>OCC</b>
+* Patty Henry
+
+<b>OCTO POs</b>
+* Chante Lantos-Swett (Call centers)
+* Becky Phung (AskVA)
+* Luciana Alexander Morais (VES, Chatbot, Seamless CX)
+
+
 
 ### Call Centers
 
