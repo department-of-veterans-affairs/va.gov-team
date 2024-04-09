@@ -28,8 +28,8 @@ Technical documentation is broken up, then, into 3 sections:
 
 
 ## Vets-api / Lighthouse Key & rate limits
-* Vets-api: VA Forms Code: [vets-api/modules/va_forms](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)
-* VA Forms API Documentation: [VA Forms API](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4621) - Documentation for API that indexes data sourced from VA.gov, Lighthouse
+* Vets-api: VA  Code: [vets-api/modules/va_forms](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)
+* VA Forms API Documentation: [VA Forms API](https://developer.va.gov/explore/api/va-forms) - Documentation for API that indexes data sourced from VA.gov, Lighthouse
 
 ### **API user/key:**
 Facility Locator uses an API key that belongs to the **`VADOTGOV_FacilityLocator` consumer**. This key is used when routing through vets-api to get Lighthouse data. 
