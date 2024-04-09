@@ -178,7 +178,7 @@ These instructions outline how to generate and send an analytics report to our V
 - Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240331&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22submit-travel-pay-claim%20-%20failed%7Csubmit-travel-pay-claim-45MR%20-%20failed%22,0%5D%5D/)
 
 #### 29-Travel via Check-in submission started
-- Value = Sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** divided by sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** 
+- Value = Sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** 
 - Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240331&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22submit-travel-pay-claim%20-%20started%7Csubmit-travel-pay-claim-45MR%20-%20started%22,0%5D%5D/)
 
 
