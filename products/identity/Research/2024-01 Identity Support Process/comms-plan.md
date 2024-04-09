@@ -33,7 +33,7 @@ To get help from our team:
 
 **Documentation:** review our [Github documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md) for details on how to submit a new support request.
 
-**Questions:** post questions about this new policy directly on Slack or reach out to our team in #vsp-identity.
+**Questions:** post questions about this new policy here on Slack or reach out to our team in #vsp-identity.
 
 ## Slack Canvas updates
 
