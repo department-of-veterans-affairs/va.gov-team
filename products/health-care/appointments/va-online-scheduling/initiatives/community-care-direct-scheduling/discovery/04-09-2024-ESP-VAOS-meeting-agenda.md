@@ -51,7 +51,7 @@
 
 - Avoid searching the entire provider database, for example, in order to limit API calls and associated costs.
 - The number of time slots and days out won't impact the costs at all, or costs greatly.
-- Appointment types (e.g., first-time visit, consult, exam, etc.) won't be supported because external EHRs don't have standardization. I.e., VAOs will likely only enable Veterans to find a provider at the speciality level. If an incorrect time slot is booked, then MSAs should receive a notification that the appointment needs to be rescheduled or moved. We need to plan for this change management prior to the pilot and work with MSAs at the pilot sites on this process.
+- Appointment types (e.g., first-time visit, consult, exam, etc.) won't be supported because external EHRs don't have standardization. I.e., VAOS will likely only enable Veterans to find a provider at the speciality level. If an incorrect time slot is booked, then MSAs should receive a notification that the appointment needs to be rescheduled or moved. We need to plan for this change management prior to the pilot and work with MSAs at the pilot sites on this process.
 - WellHive is not integrated with CCRA. Assumption is that VAOS will know what calls to make in WellHive via VAOS's "integration" with CCRA.
 - In June, WellHive will have an integration with PPMS. I.e., VAOS might consider when to use PPMS vs. WellHive to get list of providers.
 - Providers in WellHive include "non digital" providers, e.g., call to schedule an appointment. VAOS will need to make a decision on whether to show "non digital" providers or not to Veterans.
