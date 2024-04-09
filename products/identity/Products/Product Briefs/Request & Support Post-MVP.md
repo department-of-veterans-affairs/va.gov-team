@@ -19,7 +19,7 @@ In addition, we created:
 - A Github page to to explain how to request support from identity.
 - Github Support Template
 - Documentation that explained how we supported each of the three kinds of requests detailed above.
-- A customer satisfaction Survey
+- A customer satisfaction survey
 
 
 ## Problem Statement: 
@@ -27,7 +27,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 
 ## Relevant Documents:
 - [UX Brainstorm & Research](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1706233585959/51586c97a249268a2ff9a709024dcd9df18dc6f8?sender=u8f85d3b7f2143f85bb7a9248) 
-- [Request & Support Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/74622)
+- [Request & Support Post-MVP Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79499)
 - [Requesting Support From The Identity Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/requesting-support-from-Identity.md)
 - [GitHub Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity&projects=&template=1identity-help.yaml)
 - [Satisfaction Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
