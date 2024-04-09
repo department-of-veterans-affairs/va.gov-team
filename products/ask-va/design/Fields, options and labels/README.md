@@ -16,6 +16,8 @@ This folder contains documentation related to fields, options and labels.
 |[Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Pronouns.md)|Describes our recommendation to remove pronouns.|
 |[Statuses and triggers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Statuses%20and%20triggers.md)|Describes inquiry statuses and when they are assigned|
 
-## Get in touch
+## How to reach us
 
-Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) about this documentation.
+You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out:
+- Tyler Gindraux: tyler@bluetiger.digital | tyler.gindraux@va.gov
+- Thomas Michaud: thomas.michaud@oddball.io | thomas.michaud@va.gov
