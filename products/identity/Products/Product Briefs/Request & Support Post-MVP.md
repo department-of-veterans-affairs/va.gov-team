@@ -26,8 +26,9 @@ In addition, we created:
 Now that we have an MVP of the Request & Support out in the world, we need to iterate on it so that it covers all of the request types, refine the process by which we fulfill requests and measure how we are doing.
 
 ## Relevant Documents:
-- [UX Brainstorm & Research](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1706233585959/51586c97a249268a2ff9a709024dcd9df18dc6f8?sender=u8f85d3b7f2143f85bb7a9248) 
+
 - [Request & Support Post-MVP Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79499)
+- [UX Research Shareout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Request%20%26%20Support%20Process/Identity%20Support%20Process%20Research%20share%20out%20(from%20Mural).png)
 - [Requesting Support From The Identity Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/requesting-support-from-Identity.md)
 - [GitHub Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity&projects=&template=1identity-help.yaml)
 - [Satisfaction Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
