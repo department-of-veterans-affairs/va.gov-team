@@ -23,7 +23,7 @@ In addition, we created:
 
 
 ## Problem Statement: 
-Now that we have an MVP of the Request & Support out in the world, we need to iterate on it so that it covers all of the request types, refine the process by which we fulfill requests and measure how we are doing.
+Once we have the initial Request & Support identity slackbot out into the world, we need to iterate on it so that it covers all of the request types, as well as update our branding and documentation.
 
 ## Relevant Documents:
 
@@ -49,16 +49,10 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
   * Task Request
   * Help Request
   * USiP Questions
-* Documentation on how to handle the following request types:
-  * Bug Fixes
-  * Feature Requests
-  * Task Requests
-  * Help Requests
-  * USiP
-* IDbot message automation.
+* Slackbot message automation.
    * When a request is assigned.
    * When a request is closed.
-* ID Bot posts conversation in Slack thread into Github ticket
+* Slackbot posts conversation in Slack thread into Github ticket
 * Identity Team branding updates
 * Identity Team documentation updates.
 * Letting the world know there are new choices in the slackbot
