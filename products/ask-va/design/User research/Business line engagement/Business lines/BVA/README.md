@@ -11,7 +11,6 @@
 |Amanda Baker|BVA (Board of Veterans' Appeals)|
 |Keturah Harley|BVA (Board of Veterans' Appeals)|
 |Katherine Forde|BVA (Board of Veterans' Appeals)|
-|Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
 
 ### Engagements
 
