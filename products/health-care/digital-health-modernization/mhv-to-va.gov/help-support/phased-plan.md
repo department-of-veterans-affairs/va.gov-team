@@ -7,14 +7,78 @@ We believe My HealtheVet users will struggle to find the "right" phone number on
 
 The cartography team identified this risk in Fall 2023 and began prioritizing this work in Sprint 27 (April 1, 2024). Our initial goals are to build on earlier discovery work and identify solution(s) that can begin to aid users in getting help when and where they need it, in the clearest way possible. We will aim to launch a low-risk MVP solution first, and move toward research to validate more complex concepts with Veterans before moving forward with those ideas. 
 
+## Known Veteran needs and assumptions
+
+
 ## Current help and support landscape
 
 **What types of questions does the MHV Call Center answer today?** 
-* =HealtheVet helpdesk call center data comes in through VSignals, with about 30,000 datapoints per month. Kophie Mathis is solely responsible for combing through this data, and he reports out trends in the My HealtheVet Feedback dashboard.
+* MyHealtheVet helpdesk call center data comes in through VSignals, with about 30,000 datapoints per month. Kophie Mathis is solely responsible for combing through this data, and he reports out trends in the My HealtheVet Feedback dashboard.
 * So far, we know that the largest clusters of calls come in about:
-  * Secure Messages
   * Sign-in and account access related issues
+  * Questions about tools (Appointments, Messages, and prescriptions)
+* **Example (see table below)**: MHV Analytics Dashboard  > Call center activity – 15 months of data (Jan 1, 2023 - April 9, 2024)
+  * _There are overlaps in the data – this is due to the program they use not having a well-curated taxonomy, and the fact that operators are categorizing calls on the fly._
  
+**Area**|**Interactions**|**% of total interactions**
+:-----:|:-----:|:-----:
+Login|84944|28.32
+Non-MHV|51612|17.21
+Appointments|20846|6.95
+SM-Patients|14829|4.94
+Prescription|11849|3.95
+General Questions|11671|3.89
+Registration|9877|3.29
+Blue Button|9580|3.19
+Account Status|9573|3.19
+Account Deactivation|8541|2.85
+New VA Sign in Page|8156|2.72
+Medication|7447|2.48
+Technical Issues|6761|2.25
+Other|5848|1.95
+My VA Health|5706|1.90
+User ID/Password|4864|1.62
+Account Login|4019|1.34
+Rx Refill|3767|1.26
+VA Appointments|3286|1.10
+Secure Messaging|2111|0.70
+Online Auth|1857|0.62
+VA Prescription (Rx) Refill|1794|0.60
+Mission Act|1365|0.46
+Registration/Upgrade My Account|1262|0.42
+Single Sign-on|861|0.29
+PACT Act|827|0.28
+VA Medical Images & Reports|674|0.22
+Forgotten User ID / Password|610|0.20
+VA Health Summary|560|0.19
+SM-Clinicians|545|0.18
+Connect Your Email|461|0.15
+VA Facility Locater|457|0.15
+VA Medical Imaging (BBMI)|427|0.14
+VHIC|420|0.14
+Chem/Labs|398|0.13
+Privacy/Security Breach|264|0.09
+Feedback|260|0.09
+VA Blue Button|232|0.08
+MPI/MVI|195|0.07
+Online Bill Pay|168|0.06
+Complaint|152|0.05
+VA OpenNotes|144|0.05
+Virtual Care Mng|115|0.04
+Immunizations|98|0.03
+Admin Portal|88|0.03
+SM-Administrators|64|0.02
+ |49|0.02
+CARES Act|46|0.02
+PGHD-Patient|27|0.01
+Suggestion|26|0.01
+PGHD-Clinician|23|0.01
+Afford Care|22|0.01
+Centralized Scheduling Solution|22|0.01
+CPAP Recall|20|0.01
+Crisis Call|16|0.01
+Future Functionality|15|0.01
+
 **What topics did My HealtheVet National Portal cover that will no longer be coverered on VA.gov?**
 * Patient-entered data
 * Health tracking devices
@@ -26,9 +90,25 @@ The cartography team identified this risk in Fall 2023 and began prioritizing th
 * Payments and medical co-pays
 * Travel reimbursement (BTSSS)
 * ID.me and/or Login.gov questions
-* Potentially be prepared to transfer users to other helpdesks for non-health related questions
 
 **What help tools do we have on VA.gov today, and can we leverage those to support My HealtheVet users?**
+* AskVA
+  * [Product URL](https://ask.va.gov/) 
+  * [Spreadsheet with topics & routing logic](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=1687719720 )(must be granted access)
+  * [Figma files for OCTO redesign of tool](https://www.figma.com/file/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=0-1&mode=design&t=NKMV3R6xwdw2Ll2z-0)
+  * PO: Becky Phung
+  * Notes:
+    * AskVA is being redesigned by OCTO team and brought into VA.gov by a new team
+    * The old AskVA did not historically cover all My HealtheVet topics because MyHealtheVet National Portal has its own contact form (with a 24-hour SLA turnaround time for responses). Whether or not the MHV form should come over to VA.gov is being discussed (most signs point to now) since the functionality is already offered by AskVA. Could health topics get mapped and added into routing of the AskVA tool instead?
+    * There are some notes that Veterans have figured out that SMs can be responded to within 3 days, but the contact form has a requirement of a one-day turnaround. Instead of waiting on the phone for a call center for an hour or sending an SM, many people use the form and have determined that it is the fastest route to a response.
+   
+* Chatbot / Live Agent Escalation 
+ * Product URL
+ * PO: Luciana Alexander Morais (VES)
+ * Notes:
+   * VES team has worked out a Seamless CX strategy (see here - must be on Network) with many articulated design principles around what Veterans want with regard to online support.
+   * Chante Lantos-Swett communicated that Live Agent support at scale (which would likely be an escalation from Chatbot responses) is very far off into the future, and is not a foreseeable solution in the near term.
+   * All signs point to Live Agent support being preferred means of communication outside of phone numbers, and a really insightful study was conducted about Live Agent support last year. Links to research outcomes here: 
 
 
 
@@ -62,14 +142,6 @@ The cartography team identified this risk in Fall 2023 and began prioritizing th
 ### Call Centers
 
 ### Online tools
-
-## Changes coming with My HealtheVet on VA.gov
-
-### New 
-_Additional concepts being brought into My HealtheVet on VA.gov that support options will need to cover_
-
-### Going away
-_Old concepts from My HelatheVet classic that will no longer be supported_
 
 ## Phase 1: Help section on My HealtheVet Landing Page (MVP)
 
