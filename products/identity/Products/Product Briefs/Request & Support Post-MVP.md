@@ -71,6 +71,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 |Va.gov product team member  | There's a task I'd like the ID team to do.  | Feature request choice in ID Bot  |
 |Va.gov product team member | I need the ID team's help with an issue I'm having | Feature request choice in ID Bot  | 
 |Va.gov product team member  | I have questions about USiP. | USiP choice in ID Bot  |
+|VA.gov product team member | I would like to have GitHub be the source of truth for my request | Slack convos get added to GitHub
 |Identity team member | I'd like to automatically let users know when their project has been assigned to someone | "The project has been assigned" update from Github to ID Bot |
 |Identity team member | I'd like to automatically let users know when their project finished | "The project has been closed" update from Github to ID Bot  |
 |Identity team member | I'd like to reduce the % of requests we get that are for other teams | Identity Team branding as deflection |
