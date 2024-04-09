@@ -45,6 +45,45 @@ For more information on what happens in the backend when PHR refresh is initiate
 sequenceDiagram
 	autonumber
 	participant VW as vets-website
+	participant VA as vets-api
+	participant MHVAPI as MHV API
+	participant FHIR as MHV HAPI<br />FHIR Server
+	loop Every 2 seconds on 202 response
+		VW->>VA: GET /allergies
+		VA->>MHVAPI: POST /refresh/{icn}<br/>async Sidekiq job
+		alt Patient record not created
+			VA->>FHIR: GET /Patient
+			FHIR->>VA: HTTP 500 'HAPI-1363'
+			VA->>VW: HTTP 202 ACCEPTED
+		else Patient record created
+			VA->>FHIR: GET /Patient
+			FHIR->>VA: HTTP 200
+			VA->>FHIR: GET /AllergyIntolerance
+			FHIR->>VA: HTTP 200
+			VA->>VW: HTTP 200 AllergyIntolerance
+		end
+	end
+```
+
+```mermaid
+sequenceDiagram
+	autonumber
+	participant VW as vets-website
+	participant VA as vets-api
+	participant MHVAPI as MHV API
+	participant FHIR as MHV HAPI<br />FHIR Server
+	loop Every 2 seconds while data is stale
+		VW->>VA: GET /status
+		VA->>MHVAPI: GET /status/{icn}
+		MHVAPI->>VA: HTTP 200 status obj.
+		VA->>VW: HTTP 200 status obj.
+	end
+```
+
+```mermaid
+sequenceDiagram
+	autonumber
+	participant VW as vets-website
     participant VA as vets-api
     participant MHVAPI as MHV API
 	participant PHR as PHR Refresh
@@ -53,6 +92,7 @@ sequenceDiagram
     VW->>VA: GET /status
     VA->>MHVAPI: POST /status
     MHVAPI->>PHR: Kick off PHR Refresh <br/>for single patient
+
 
     alt PHR Refresh Not Complete
         loop Every Second until data is refreshed
