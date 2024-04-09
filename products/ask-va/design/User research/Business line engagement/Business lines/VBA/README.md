@@ -22,4 +22,4 @@ Note: Many categories in Ask VA route to the VBA-ART queue.
 
 ### Engagements
 
-- [August 30, 2023.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Disability%20compensation/August%2030%2C%202023.md)
+- [August 30, 2023.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VBA/August%2030%2C%202023.md)
