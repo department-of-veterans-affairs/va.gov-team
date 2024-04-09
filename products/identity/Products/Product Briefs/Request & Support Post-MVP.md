@@ -84,7 +84,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 * People are looking at the documentation we've provided.
 
 ## Solution Approach: 
-
+- Determine the questions we need to ask for each new request type
 
 
 
@@ -109,9 +109,7 @@ Measuring the success of the Request & Support process project will be part of t
 That said, some initial thoughts on what that project might entail.
 | KPI           | Notes         | 
 | ------------- |:-------------| 
-| Number of requests | On a monthly basis, we track how many requests were fulfilled via the Request & Support | 
-| Percentage of requests | On a monthly basis, we track the percentage of requests that were fulfilled via the Request & Support tracker |
-| Customer Satisfaction | Create a customer satisfaction survey
+
 
 
 
