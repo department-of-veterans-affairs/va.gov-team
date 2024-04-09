@@ -92,34 +92,37 @@ Future Functionality|15|0.01
 * ID.me and/or Login.gov questions
 
 **What help tools do we have on VA.gov today, and can we leverage those to support My HealtheVet users?**
-* AskVA
-  * [Product URL](https://ask.va.gov/) 
+* [AskVA](https://ask.va.gov/)
   * [Spreadsheet with topics & routing logic](https://docs.google.com/spreadsheets/d/1qRpAwE-OmISFzYsg4w3n8VlBsxJxkBAFZL21AWDXFKc/edit#gid=1687719720 )(must be granted access)
   * [Figma files for OCTO redesign of tool](https://www.figma.com/file/lzWlcHlV1eELY8yQdyqw2p/Ask-VA-Prototype-R1?type=design&node-id=0-1&mode=design&t=NKMV3R6xwdw2Ll2z-0)
   * PO: Becky Phung
+  * Speed of tool: up to 1 day (24 hours)
   * Notes:
     * AskVA is being redesigned by OCTO team and brought into VA.gov by a new team
-    * The old AskVA did not historically cover all My HealtheVet topics because MyHealtheVet National Portal has its own contact form (with a 24-hour SLA turnaround time for responses). Whether or not the MHV form should come over to VA.gov is being discussed (most signs point to now) since the functionality is already offered by AskVA. Could health topics get mapped and added into routing of the AskVA tool instead?
-    * There are some notes that Veterans have figured out that SMs can be responded to within 3 days, but the contact form has a requirement of a one-day turnaround. Instead of waiting on the phone for a call center for an hour or sending an SM, many people use the form and have determined that it is the fastest route to a response.
+    * The old AskVA did not historically cover all My HealtheVet topics because MyHealtheVet National Portal has its own contact form (with a 24-hour SLA turnaround time for responses). Whether or not the MHV form should come over to VA.gov is being discussed (seems like we likely will not move it over) since the functionality is already offered by AskVA. Could health topics get mapped and added into routing of the AskVA tool instead?
+    * There are some notes around how Veterans have figured out that secure messages have a 3-day response turnaround time, but the contact form has a requirement of a 1-day turnaround. Instead of waiting on the phone for a call center for an hour or sending an SM, many people use the form and have determined that the form (which could theoretcially be replaced by AskVA) is the fastest route to a response.
    
-* Chatbot / Live Agent Escalation 
- * Product URL
- * PO: Luciana Alexander Morais (VES)
- * Notes:
-   * VES team has worked out a Seamless CX strategy (see here - must be on Network) with many articulated design principles around what Veterans want with regard to online support.
-   * Chante Lantos-Swett communicated that Live Agent support at scale (which would likely be an escalation from Chatbot responses) is very far off into the future, and is not a foreseeable solution in the near term.
-   * All signs point to Live Agent support being preferred means of communication outside of phone numbers, and a really insightful study was conducted about Live Agent support last year. Links to research outcomes here: 
+* [Chatbot](https://www.va.gov/contact-us/virtual-agent/) / Live Agent Escalation 
+  * PO: Luciana Alexander Morais (VES)
+  * Speed of tool: instant feedback, but you aren't chatting with a person, so its very canned answers & doesn't cover all topics
+  * Notes:
+    * VES team has worked out a Seamless CX strategy (see here - must be on Network) with many articulated design principles around what Veterans want with regard to online support.
+    * Chante Lantos-Swett communicated that Live Agent support at scale (which would likely be an escalation from Chatbot responses) is very far off into the future, and is not a foreseeable solution in the near term.
+    * All signs point to Live Agent support being preferred means of communication outside of phone numbers, and a really insightful study was conducted about Live Agent support last year. Links to research outcomes here: 
 
 
 
 ## Discovery & desk research
+* [Cartography team - research about MHV helpdesk from Summer 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/MHV-Helpdesk-data.md)
 * [MURAL with discovery research, competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710792685965/130af5ff20096b650079e36b00db1187172c857f?sender=uf94a77a19aaf687331c09367)
 * [Notes from conversations (Google doc)](https://docs.google.com/document/d/1sPnIlOeUcEjoeY8oYCsonAbYFtETNUEeWXvPcP1Xz0M/edit)
 
 ### Analytics
 
 ### Other research
-* [Discovery research from Summer 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/MHV-Helpdesk-data.md)
+* [Call center user journey research - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/research/Q2-2022/VA_Caller/Research%20Readout-VACallerUserJourney-99222022.pdf)
+* [VHA Chatbot research findings - 2022](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-proposals/MCT%20Omnichannel%20Experience/VHA%20Virtual%20Agent/August%202022%20VHA%20Virtual%20Agent%20Research_2022-08-04.pdf)
+* [VA Live Agent research - 2023](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/333), [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/live-agent/research/2023-07-Live%20Agent%20Chatbot_Interviews%20with%20Veterans/research-findings.md) & 
 
 ### People
 
@@ -129,21 +132,13 @@ Future Functionality|15|0.01
 * Theresa Palmer
 * John Tano
 
-<b>OCC</b>
-* Patty Henry
-
-<b>OCTO POs</b>
-* Chante Lantos-Swett (Call centers)
-* Becky Phung (AskVA)
-* Luciana Alexander Morais (VES, Chatbot, Seamless CX)
-
-
-
 ### Call Centers
 
 ### Online tools
 
 ## Phase 1: Help section on My HealtheVet Landing Page (MVP)
+
+For phase 1, we plan to leverage the existing [Need help?](https://design.va.gov/components/form/need-help) component from the VA Design System on the My HealtheVet landing page with the HRC helpdesk number. 
 
 ## Phase 2: Roll-out "smart" help section to tool pages across My HealtheVet
 
