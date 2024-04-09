@@ -50,7 +50,7 @@ Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟩 | �
 Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟩 | 🟩 | integration | done 03/12 | 
 Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint | 
 Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint on 03/01 |
-Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint on 03/14 | 
+Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟩 | 🟩 | ready for dev | CRM handed off this endpoint on 03/14 | 
 Dashboard | [PUT /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint on 03/11 | 
 ~Form~ | ~[GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete |  | 
 ~Form~ | ~[GET /states](lighthouse/Form_States.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete | |  
