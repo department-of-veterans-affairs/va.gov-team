@@ -23,7 +23,7 @@ If a specific product has its own Lighthouse integration, notes are stored in th
 ## Vets-api / Lighthouse Key & rate limits
 Products that are Drupal-driven may interact with the Lighthouse API as well. 
 
-* Vets-api: Facilities API Code: [vets-api/modules/facilities_api]([https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api))
+* Vets-api: Facilities API Code: https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api
 * Lighthouse Facilities API Documentation: https://developer.va.gov/explore/api/va-facilities - Documentation for API that indexes data sourced from VA.gov, Lighthouse
 
 ### **API user/key:**
