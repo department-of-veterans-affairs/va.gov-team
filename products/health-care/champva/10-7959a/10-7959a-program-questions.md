@@ -3,9 +3,10 @@
 |---|---|---|---|---|---|---|
 |1|No|Patient Info|What happens when the beneficiary checks the “new address” box?|Yes|Yes||
 |2|No|OHI|If beneficiaries need to provide all their OHI information in order to be accepted into CHAMPVA, what are the benefits of gathering this information on the during the claims process? Is it just to check for updates in their OHI?  Do they need to enter it again if they’re logged into their account?|Yes|Yes|||
-|3|No|OHI|What are the differences and goals for each of these two questions?: <br>“Was treatment for a work-related injury/condition?” Y/N<br>“Was treatment for an injury or accident outside of work?” Y/N|Yes|Yes||
-|4|No|OHI|What are the implications of the treatment being work-related or not? Does military service count as work in this scenario? What if it was military-service related, does that change anything?|Yes|Yes||
-|5|No|Submission|If beneficiaries decide to submit this PDF online and then mail in their other documents, would they need to print out the PDF as the cover sheet anyways then? Or what type of additional information would they need to provide when mailing in their claims if they submit the PDF online?|Yes|Yes||
+|3|No|OHI|What are the differences and goals for each of these two questions?: <br>“Was treatment for a work-related injury/condition?” Y/N<br>“Was treatment for an injury or accident outside of work?” Y/N|Yes|Yes|For workman’s compensation purposes vs car insurance company (if it was a car accident) vs personal injuries. CHAMPVA wants the workman’s comp group to pay for the thing instead of CHAMPVA paying for it. If they have other health or car insurance insurance they’d want them to pay for it instead of CHAMPVA.|
+|4|No|OHI|What are the implications of the treatment being work-related or not? Does military service count as work in this scenario? What if it was military-service related, does that change anything?|Yes|Yes|If they’re in the military service they’d qualify for TRICARE, not CHAMPVA|
+|5|No|Submission|If beneficiaries decide to submit this PDF online and then mail in their other documents, would they need to print out the PDF as the cover sheet anyways then? Or what type of additional information would they need to provide when mailing in their claims if they submit the PDF online?|Yes|Yes|If they mail a doc – in current state- it'll go to them in mailing then they’ll tie it to the applicant's claims/enrollment but they in the Sponsor's SSN on the mailed document somewhere. It's a manual on their end to recieve the mail and place it in their account. No cover sheet needed. 
+|
 
 
 ## Additional questions
