@@ -1,5 +1,6 @@
 ## Tickets
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/76057: [initial branch for radio buttons](https://github.com/department-of-veterans-affairs/vets-website/compare/main...dbex/76057-radio-button-conversion)
+- [Update radio buttons to use web components #76057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76057) ([initial branch for radio buttons](https://github.com/department-of-veterans-affairs/vets-website/compare/main...dbex/76057-radio-button-conversion))
+- [Update checkboxes to use web components#76663](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/76663)
 
 ## Resources
 
