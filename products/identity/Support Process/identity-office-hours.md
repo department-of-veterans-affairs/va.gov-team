@@ -1,21 +1,31 @@
-🕐 Office hours: We hold weekly office hours every Thursday. This is a great opportunity to connect with our frontend, backend, product, and authentication logging and monitoring experts. Join us to discuss any questions or topics related to VA.gov User Authentication.
+# Meet with the Identity team
 
-Frontend Engineers 1400 ET
+## 🕐 Office hours
 
-Backend Engineers 1415 ET
+Schedule time to meet with the Identity team for flexible office hours every **Monday - Wednesday**. Ask our engineering lead about authentication best practices, metrics, or security. Or meet with our product team to discuss new projects.
 
-Product Managers 1430 ET
+**Schedule office hours for drop-in questions:**
 
-Metric Questions 1445 ET
+- Authentication, metrics, and security: schedule time with [Joe Niquette](https://calendar.app.google/CEq822Myid5xsxwH9)
+- Product office hours:  schedule time with [Mike King](https://calendar.app.google/3S6SfAmvuKcBer3T6) or [Jim Connelly](https://calendar.app.google/HG2iZgqtv4nWmnvT8)
 
-⏰ On-call support: If you need urgent production impacting assistance outside of office hours, please send an email to component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com. During normal hours, you can also reach out to us in the Identity slack channel.
+## 📅 Pairing sessions
 
-📅 Pairing sessions: We offer regular pairing sessions for both backend and frontend support. Select a time from the availability calendar and send an invite or reserve it directly. This is a great opportunity to discuss any technical issues or collaborate on improvements.
+We offer regular pairing sessions for both backend and frontend support. Select a time from the availability calendar to book a session. This is a great opportunity to discuss any technical issues or collaborate on improvements.
 
-Frontend: https://calendar.app.google/wqo8m541CsAvjvhA7 
+**Schedule time to pair with an engineer:**
 
-Backend: https://calendar.app.google/a4yGP1qcStNxC1Am8
+- Frontend engineering: schedule time with [Alexander Garcia](https://calendar.app.google/wqo8m541CsAvjvhA7)
+- Backend engineering: schedule time with [Riley Anderson](https://calendar.app.google/a4yGP1qcStNxC1Am8)
 
-Metrics/Security: https://calendar.app.google/CEq822Myid5xsxwH9
+## ⏰ On-call support
 
-Product: https://calendar.app.google/3S6SfAmvuKcBer3T6 (Mike King)
+### Urgent requests outside of business hours
+
+Urgent requests are defined as issues impacting Veterans on production servers.
+
+If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email **component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com**.
+
+### Requests during business hours
+
+Reach out to us on [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) Monday - Friday from 9:00 a.m. to 8:00 p.m. ET.
