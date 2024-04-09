@@ -5,6 +5,8 @@ Publish a set of monthly metrics surrounding our support of other teams in accor
 
 While many of the metrics will be more of an informational nature, there is one this is incredibly important: our Customer Satisfaction score. This will be gathered using a survey to be deployed in #vfs-identity slack channel, our github page, at least.  This survey will be the key part of fulfilling O4KR3: _Establish and maintain a support satisfaction rating of 70% or greater for VA.gov product team support_.
 
+Two OKRs with one project!
+
 This is a follow-up to the Request & Support project.
 
 
