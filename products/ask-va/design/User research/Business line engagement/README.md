@@ -12,23 +12,19 @@ We need to meet with business lines to determine which fields are required in or
 
 |Business line|Ask VA categories|
 |:--|:--|
-|BVA|Decision reviews and appeals|
-|Center for Minority Veterans|Center for Minority Veterans|
-|Center for Women Veterans|Center for Women Veterans|
-|DMC|Debt for benefit overpayments and copay bills|
-|GI Bill|Education benefits and work study;<br>Benefits issues outside the U.S.|
-|NCA|Burials and memorials|
-|VA ID|DEERS (Defense Enrollment Eligibility Reporting System);<br>Sign in and technical issues|
-|Benefits issues outside the U.S.|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20the%20US)|
-|Disability compensation|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Disability%20compensation)|
-|Guardianship, custodianship, or fiduciary issues|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Guardianship%2C%20custodianship%2C%20or%20fiduciary%20issues)|
-|Health care|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Health%20care)|
-|Housing assistance and home loans|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Housing%20assistance%20and%20home%20loans)|
-|Life insurance|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Life%20insurance)|
-|Pension|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Pension)|
-|Survivor benefits|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Survivor%20benefits)|
-|Veteran ID Card (VIC)|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20ID%20Card%20(VIC))|
-|Veteran Readiness and Employment|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Veteran%20Readiness%20and%20Employment)|
+|[BVA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/BVA)|Decision reviews and appeals|
+|[Center for Minority Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/Center%20for%20Minority%20Veterans)|Center for Minority Veterans|
+|[Center for Women Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/Center%20for%20Women%20Veterans)|Center for Women Veterans|
+|[DMC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/DMC)|Debt for benefit overpayments and copay bills|
+|[GI Bill](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill)|Education benefits and work study;<br>Benefits issues outside the U.S.|
+|[LGY](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/LGY)|Housing assistance and home loans|
+|[Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/Life%20insurance)|Life insurance|
+|[NCA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/NCA)|Burials and memorials|
+|[VA ID](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VA%20ID)|DEERS (Defense Enrollment Eligibility Reporting System);<br>Sign in and technical issues|
+|[VBA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VBA)|Benefits issues outside the U.S.;<br>Disability compensation;<br>Guardianship, custodianship, or fiduciary issues;<br>Pension;<br>Survivor benefits|
+|[VHA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VHA)|Health care|
+|[VIC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VIC)|Veteran ID Card (VIC)|
+|[VR&E](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VR%26E)|Veteran Readiness and Employment|
 
 ## Research goals
 * Understand which fields are necessary in order for agents to deliver the service
