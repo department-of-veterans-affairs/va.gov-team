@@ -86,7 +86,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 ## Solution Approach: 
 - Determine the questions we need to ask for each new request type
 - Learn how to have GitHub talk to Slack
-- 
+  
 
 
   
