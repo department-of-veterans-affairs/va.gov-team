@@ -1,6 +1,6 @@
 # Previous research
 
-The CRM team requested this information from the GI Bill team in 2022.
+The CRM team requested this information from NCA in 2022.
 
 --------
 
