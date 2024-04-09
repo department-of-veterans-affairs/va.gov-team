@@ -53,8 +53,8 @@ If your team doesn’t have access to the OCTO Slack workspace:
 
 - Refer to our [product documentation in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity).
 - Submit a support request using the following Github issue templates:
-  - [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml): for authentication help, PR reviews, SiS setup and support, or technical questions.
-  - [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml): for data requests, SiS information and onboarding, or new projects.
+  - [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joeniquette&labels=Identity%2C+identity-engineer-support&projects=&template=1dentity-engineer-support.md&title=): for authentication help, PR reviews, SiS setup and support, or technical questions.
+  - [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jimcconnelly%2C+kingbmike&labels=Identity%2C+identity-product-support&projects=&template=1dentity-product-suppport.md&title=): for data requests, SiS information and onboarding, or new projects.
 
 You’ll get a response from our team within 1 business day on Github.
 
