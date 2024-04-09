@@ -98,8 +98,8 @@ These instructions outline how to generate and send an analytics report to our V
 - Source = [Bene Travel Claims from eCheck-in Report Dashboard](https://analytics.google.com/analytics/web/#/dashboard/-LnfQTl3ShO8HbLIPQ7ZEQ/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/)
 
 #### 10-Travel via Check-in error rate
-- Value = **BTSSS API Error** divided by the sum of **BTSSS API Success** and **BTSSS API Error** 
-- Source = [Check In (Travel Claims) Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-3a95d2603bfb8826abb8aa81a04efd03?fromUser=true&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1704477923003&to_ts=1712253923003&live=true)
+- Value = **BTSSS API Error** divided by the sum of **BTSSS API Started** 
+- Source = [Top Events report in Universal GA - All Va.gov Website Data [Production] Google Analytics View](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240331&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22submit-travel-pay-claim%20-%20started%7Csubmit-travel-pay-claim-45MR%20-%20started%7Csubmit-travel-pay-claim%20-%20failed%7Csubmit-travel-pay-claim-45MR%20-%20failed%22,0%5D%5D/)
 
 #### 11-Travel via Check-in Latency
 - NOTE: SAME AS NUMBER 5
