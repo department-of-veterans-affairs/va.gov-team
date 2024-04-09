@@ -146,4 +146,5 @@ For phase 1, we plan to leverage the existing [Need help?](https://design.va.gov
 
 ## Phase 4: Improve the global /contact-us page 
 
-## Phase 5: User onboarding for My HealtheVet on VA.gov (potentially)
+## Potential future ideas, pending further research
+* User onboarding for My HealtheVet on VA.gov
