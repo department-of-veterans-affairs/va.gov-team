@@ -1,4 +1,4 @@
-# Dowloadable Copy of Submission Initiative Brief
+# Downloadable Copy of Submission Initiative Brief
 
 ---
 
