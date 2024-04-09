@@ -3,7 +3,11 @@
 ## Background and problem statement
 The My HealtheVet to VA.gov migration will occur across a series of planned phases, which incrementally send more and more users to VA.gov. Alongside this migration effort, the My HealtheVet helpdesk will also continue to support the health portal and its users, but surfacing this helpdesk and its adjacent phone numbers and/or other support tools on MyHealtheVet pages has not yet been addressed. 
 
-The cartography team identified this risk in Fall 2023 and began prioritizing this work in Sprint 27 (April 1, 2024). Our initial goals are to build on earlier discovery work and identify solution(s) that can begin to aid users in getting help when and where they need it, in the clearest way posible. We will try to launch a low-risk MVP solution first, and move toward research to validate moer complex concepts with Veterans before moving forward with those ideas. 
+We believe My HealtheVet users will struggle to find the "right" phone number on VA.gov, where the landscape is complex. We can no longer simply put a simple My HealtheVet phone number in the footer of the website.  Veterans expect to find fast, accurate help "in context" with where they encounter a problem. For the health portal, this might mean the landing page, or more deeply on tool pages. The problem of identifying the "right" help or phone number will be exacerbated when Cerner/Oracle Health is integrated, which will introduce additional phone numbers and another helpdesk, meaning we will need to iterate on any solution at that point. We believe the sooner we can start iterating on a solution and learning about Veteran needs and expectations for help around the health portal, the better suited we will be to handle this in later phases, at and beyond the Cerner integration work.
+
+The cartography team identified this risk in Fall 2023 and began prioritizing this work in Sprint 27 (April 1, 2024). Our initial goals are to build on earlier discovery work and identify solution(s) that can begin to aid users in getting help when and where they need it, in the clearest way possible. We will aim to launch a low-risk MVP solution first, and move toward research to validate more complex concepts with Veterans before moving forward with those ideas. 
+
+## Discovery & desk research
 
 ## Current help and support landscape
 
