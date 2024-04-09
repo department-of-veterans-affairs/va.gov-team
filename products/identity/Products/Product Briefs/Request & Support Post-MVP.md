@@ -110,16 +110,6 @@ Measuring the success of the Request & Support process project will be part of t
 
 [Identity Monthly Metrics Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Identity%20Monthly%20Metrics.md)
 
-| KPI           | Notes         | 
-| ------------- |:-------------| 
-
-
-
-
-## Baseline KPI Values:
-| KPI           | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
 
 
 ## Milestones:
@@ -128,4 +118,4 @@ Measuring the success of the Request & Support process project will be part of t
 
 
 ## Future Scope:
-* 
+* There might be future request types to add.
