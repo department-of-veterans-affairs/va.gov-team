@@ -54,7 +54,7 @@ These instructions outline how to generate and send an analytics report to our V
 - Audience: [24-Travel via Check-in audience](#24-travel-via-check-in-audience) unique sessions verified their identity; [25-Travel via Check-in verification rate](#25-travel-via-check-in-verification-rate) % verification rate
 - Conversion: [26-Travel via Check-in conversion rate](#26-travel-via-check-in-conversion-rate) % (verified their identity to completing check-in)
 - Submissions: [27-Travel via Check-in submissions](#27-travel-via-check-in-submissions)
-- Submission failures: [28-Travel via Check-in submission failues](#28-travel-via-check-in-submission-failues) total "complete check-in" api call failures; [29-Travel via Check-in failure rate](#29-travel-via-check-in-failure-rate) % total
+- Submission failures: [28-Travel via Check-in submission failues](#28-travel-via-check-in-submission-failues) total "vets-api call to BTS3" call failures; % of [28-Travel via Check-in submission failues](#28-travel-via-check-in-submission-failues) total "vets-api call to BTS3" call failures divided by [29-Travel via Check-in submission started](#29-travel-via-check-in-submission-started)
 
 ##  Where to Get Each Metric 
 
@@ -175,10 +175,10 @@ These instructions outline how to generate and send an analytics report to our V
 
 #### 28-Travel via Check-in submission failues
 - Value = **API Request - submit-travel-pay-claim-45MR - failed** plus **API Request - submit-travel-pay-claim - failed** 
-- Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22check-in%7Cday-of%7Csubmit-travel-pay-claim%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Search%20Result%22,1%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22API%20Request%22,0%5D%5D&explorer-table-dataTable.sortColumnName=analytics.eventAction&explorer-table-dataTable.sortDescending=true/)
+- Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240331&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22submit-travel-pay-claim%20-%20failed%7Csubmit-travel-pay-claim-45MR%20-%20failed%22,0%5D%5D/)
 
-#### 29-Travel via Check-in failure rate
-- Value = Sum of **API Request - submit-travel-pay-claim-45MR - failed** and **API Request - submit-travel-pay-claim - failed** divided by sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** 
+#### 29-Travel via Check-in submission started
+- Value = Sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** divided by sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** 
 - Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=5000&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22check-in%7Cday-of%7Csubmit-travel-pay-claim%22,0%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22Search%20Result%22,1%5D,%5B0,%22analytics.eventAction%22,%22PT%22,%22API%20Request%22,0%5D%5D&explorer-table-dataTable.sortColumnName=analytics.eventAction&explorer-table-dataTable.sortDescending=true/) 
 
 
