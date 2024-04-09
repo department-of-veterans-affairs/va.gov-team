@@ -55,5 +55,5 @@
 - WellHive is not integrated with CCRA. Assumption is that VAOS will know what calls to make in WellHive via VAOS's "integration" with CCRA.
 - In June, WellHive will have an integration with PPMS. I.e., VAOS might consider when to use PPMS vs. WellHive to get list of providers.
 - Providers in WellHive include "non digital" providers, e.g., call to schedule an appointment. VAOS will need to make a decision on whether to show "non digital" providers or not to Veterans.
-- WellHive will provide a data point if staff booked an appointment vs. a Veteran. VAOS will determine if we use WellHive for this data or not.
+- WellHive will provide a data point if staff booked an appointment vs. a Veteran. VAOS will determine if we will use WellHive for this data or not.
   
