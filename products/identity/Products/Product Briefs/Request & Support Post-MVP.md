@@ -105,7 +105,8 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 ## Measuring Success:
 Measuring the success of the Request & Support process project will be part of the focus of an entire project: O4KR2 - Establish and publish monthly metrics around response times for VA.gov product teams.
 
-That said, some initial thoughts on what that project might entail.
+[Identity Monthly Metrics Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Identity%20Monthly%20Metrics.md)
+
 | KPI           | Notes         | 
 | ------------- |:-------------| 
 
