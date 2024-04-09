@@ -2,7 +2,7 @@
 
 ### Categories in Ask VA
 
-Center for Minority Veterans
+- Center for Minority Veterans
 
 ### Key stakeholders
 
