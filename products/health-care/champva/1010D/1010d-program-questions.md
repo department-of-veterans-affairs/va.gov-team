@@ -29,8 +29,9 @@
 |27|Yes|Signer|How do you use the contact info from the signer? |No|Yes|Usually the individuals get contacted. There may a the case that they need to contact the signer if the applicant is incapaticated and the signer is the Power of Authority.|
 |28|Yes|Sponsor|Should the Report of Casualty and be a required doc that is submitted by the Applicant? |No|Yes|No. see line 21 for completed answer. |
 |29|Yes|Applicant|We also need to the exact name of the VBA rating decision for Helpless child. |No|Yes|“Rating Decision Letter” see answer 23|
-|30|NEW|Signer|Can a family member who is not an official third party or POA sign for an applicant on the enrollment form? Do they need to fill out ant particular form to do so? |no|yes||
-|31|NEW|Applicant| Can you confirm that this is the form to use to start the process of a family member obtain a "helpless child rating" for a Veteran's child. Does VA require an examination of the child? |no|yes||
+|30|Yes|Signer|Can a family member who is not an official third party or POA sign for an applicant on the enrollment form? Do they need to fill out ant particular form to do so? |no|yes|It would be a family member… maybe a child (or an adult child) would still need to be appointed, only spouses are exempt from that. Only a spouse can fill out for another spouse or child under 23. Anyone else would need a POA|
+|31|Yes|Applicant| Can you confirm that this is the form to use to start the process of a family member obtain a "helpless child rating" for a Veteran's child. Does VA require an examination of the child? |no|yes|VBA-21-686c-ARE is only for reporting dependents. That’s the form where they claim dependents (add new spouse, remove, add children, etc). The rating decision process need to start with contacting the regional office. The medical records would be examined… not the child. Rating done by the VBA(only). Done before the age of 18… unless there are special circumstances. This rating is needed for sponsor’s children only, not the sponsor. Premal may have a contact if we need more details on the process. 
+|
 
 
 
