@@ -13,6 +13,8 @@ This folder contains documentation related our design strategy.
 |[Moving to VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Moving%20to%20VA%20Profile.md)|Describes how the move to VA Profile will impact submitters|
 |[Similarities and differences between categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)|Describes patterns in the design of the Ask VA form|
 
-## Get in touch
+## Questions?
 
-Reach out on [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) about this documentation.
+You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out:
+- Tyler Gindraux: tyler@bluetiger.digital | tyler.gindraux@va.gov
+- Thomas Michaud: thomas.michaud@oddball.io | thomas.michaud@va.gov
