@@ -38,7 +38,7 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 - Automation of ID Bot responses to certain situations in process flow.
 
 ## What's In Scope:
-* Adding the following Request Types in ID Bot:
+* Adding the following Request Types in ID Bot & Github:
   * Bug Fixes
   * Feature Requests
   * Task Request
