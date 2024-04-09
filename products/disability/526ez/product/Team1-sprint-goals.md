@@ -4,9 +4,11 @@
 Period - 04/10/2024 - 04/23/2024
 ### Sprint goals 
 - **Expedited**
+</br> **Note - The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd**
+
   - [ ] Front-end - Widgets to Web components upgrade - Test if the Design System switch to V3 will break 526 form if the upgrades are not done
   - [ ] Front-end - Widgets to Web components upgrade - radio buttons and checkboxes -
-**Note - The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
+
  - **2023 Prioritized Work**
      - Lighthouse Migration 
        - Decommission migrated endpoints to EVSS
