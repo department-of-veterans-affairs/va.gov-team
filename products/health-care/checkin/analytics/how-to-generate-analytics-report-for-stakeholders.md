@@ -61,7 +61,7 @@ These instructions outline how to generate and send an analytics report to our V
 **NOTE: Dashboards should be filtered for the quarter for which metrics are being reported**
 
 #### 1-Downtime
-- Value = **Veteran facing - Overall error rate (%) (Actual, not Objective)**
+- Value = **(100/Veteran facing - Mobile check-in: Uptime (Actual))/100**
 - Source = [SLO Dashboard](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1709658513005&to_ts=1712250513005&live=true) 
 
 #### 2-Customer Satisfaction Score
