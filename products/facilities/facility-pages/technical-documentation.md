@@ -19,7 +19,6 @@ If a specific product has its own Lighthouse integration, notes are stored in th
 * [Vet Centers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/engineering)
 * [Regional Offices](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/engineering)
 
-## Data migrations 
 
 ## Vets-api / Lighthouse Key & rate limits
 Products that are Drupal-driven may interact with the Lighthouse API as well. 
