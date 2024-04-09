@@ -13,7 +13,7 @@ We need to meet with business lines to determine which fields are required in or
 |Business line|Ask VA category|
 |:--|:--|
 |GI Bill|`Education benefits and work study`<br>`Benefits issues outside the U.S.`|
-|NCA|Burials and Memorials|
+|NCA|`Burials and memorials`|
 |Center for Minority Veterans|`Center for Minority Veterans`|
 |Center for Women Veterans|`Center for Women Veterans`|
 |Benefits issues outside the U.S.|[See folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Business%20line%20engagement/Benefits%20issues%20outside%20the%20US)|
