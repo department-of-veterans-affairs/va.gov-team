@@ -32,7 +32,14 @@ The Facility Locator has its own API consumer & key used for GET requests. (Docu
 Other Facilities products share the same Lighthouse API consumer:
 API consumer: `FacilitiesDrupalCMS`
 
-This API consumer is primarily used to POST data to Lighthouse, for cases where the CMS is the source of truth (e.g. Mental health phone numbers, health services data)
+This API consumer is primarily used to POST data to Lighthouse production (`cms-overlay` endpoint), for cases where the CMS is the source of truth. As of April 2024 this includes: 
+* Operating Status
+* Detailed Services
+* Health Care System
+     * health connect phone
+* Core Fields
+    * Mental Health phone
+    * Facility URL (not yet used)
 
 **This API key is shared** 
 Right now this API key only accesses the Facilities API. But within Lighthouse, the rate limit for API Keys is shared across all accessed APIs. If this key were used to access multiple APIs, traffic spikes will affect the rate limit for all other APIs using the same key. 
@@ -47,3 +54,7 @@ If/when we request rate limit changes, that rate limit will be set for all APIs 
 More info on [rate limit changes (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase).
 
 More info on Facilities API consumer(s): https://dsva.slack.com/archives/C02BTJTDFTN/p1712611808581129
+
+### Production vs. Sandbox data
+Lighthouse Facilities API data is synced to Lighthouse Sandbox daily, _except_ data from `cms-overlay`. Or: data pushed to Lighthouse by the CMS. 
+For `cms-overlay` data to be present in Sandbox, it must be manually synced by the Lighthouse team.
