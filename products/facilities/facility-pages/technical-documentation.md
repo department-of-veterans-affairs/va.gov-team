@@ -30,7 +30,8 @@ Products that are Drupal-driven may interact with the Lighthouse API as well.
 The Facility Locator has its own API consumer & key used for GET requests. (Documented at FL link above.)
 
 Other Facilities products share the same Lighthouse API consumer:
-API consumer: `FacilitiesDrupalCMS`
+API consumer (production): `FacilitiesDrupalCMS`
+API consumer (sandbox): `cms-facilities`
 
 This API consumer is primarily used to POST data to Lighthouse production (`cms-overlay` endpoint), for cases where the CMS is the source of truth. As of April 2024 this includes: 
 * Operating Status
