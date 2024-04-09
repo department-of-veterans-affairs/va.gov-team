@@ -103,17 +103,15 @@ ________________________________________________________________________________
         - 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
         - 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)    
 - **GOAL: Make Travel Claims Easier** 
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
+        - 🟥 [[Research] Conduct Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - 🟥 [[Content] Create Final Content for eCheck-in w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
-        - 🟥 [[Content] Create Final Content for Standalone BT App w/ Eligibility BG Check Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
-        - 🟥 [[Design] Create Final Wireframes for Standalone BT App w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
+        - 🟥 [eCheck-in: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
+        - 🟥 [Travel: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
+        - 🟥 [Travel: Create Final Wireframes for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72620)
-        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72624)
-            - Make sure to include recent small changes (check release notes)
-        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72626)
-        - 🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72627)
     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
         - 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)
         - 🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)
