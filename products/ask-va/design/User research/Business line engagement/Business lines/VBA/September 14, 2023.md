@@ -15,7 +15,9 @@
 ## Key takeaways
 
 - We agreed to change the name of the `Fiduciary program (Guardians or Custodians)` category to `Guardianship, custodianship, or fiduciary issues`.
+- We discussed the difference between pension and compensation. Breon explained that both are different types of benefits which are mostly used by elderly to help them with their benefits.
+- Breon mentioned there is also a type of Aid and Attendance benefit for disability compensation, and there’s a separate one for pension.
 
 ## Actions
 
-- Tyler update the name in the spreadsheet
+- [ ] Tyler update name spreadsheet
