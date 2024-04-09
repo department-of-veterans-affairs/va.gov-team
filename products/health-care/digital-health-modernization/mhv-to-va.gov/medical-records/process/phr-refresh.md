@@ -50,16 +50,18 @@ sequenceDiagram
 	participant FHIR as MHV HAPI<br />FHIR Server
 	loop Every 2 seconds on 202 response
 		VW->>VA: GET /allergies
-		VA->>MHVAPI: POST /refresh/{icn}<br/>async Sidekiq job
-		alt Patient record not created
+		alt If not called in the last 3600 seconds
+			VA->>MHVAPI: POST /refresh/{icn}<br/>async Sidekiq job
+		end
+		alt Patient record doesn't exist in FHIR
 			VA->>FHIR: GET /Patient
-			FHIR->>VA: HTTP 500 'HAPI-1363'
+			FHIR->>VA: HTTP 500 "HAPI-1363: Either No patient<br />or multiple patient found"
 			VA->>VW: HTTP 202 ACCEPTED
-		else Patient record created
+		else Patient record found in FHIR
 			VA->>FHIR: GET /Patient
-			FHIR->>VA: HTTP 200
+			FHIR->>VA: HTTP 200 Patient
 			VA->>FHIR: GET /AllergyIntolerance
-			FHIR->>VA: HTTP 200
+			FHIR->>VA: HTTP 200 AllergyIntolerance
 			VA->>VW: HTTP 200 AllergyIntolerance
 		end
 	end
