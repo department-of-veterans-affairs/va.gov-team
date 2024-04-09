@@ -95,7 +95,7 @@ Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are
 * Submit a request to our team directly in Github:
     * [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml): for authentication help, PR reviews, SiS setup and support, or technical questions.
     * [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml): for data requests, SiS information and onboarding, or new projects.
-* Attend [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/office-hours.md) with our team weekly on Thursdays.
+* Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
 **Our team**
 
