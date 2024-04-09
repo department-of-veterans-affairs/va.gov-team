@@ -32,6 +32,10 @@ Now that we have an MVP of the Request & Support out in the world, we need to it
 - [Requesting Support From The Identity Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/requesting-support-from-Identity.md)
 - [GitHub Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity&projects=&template=1identity-help.yaml)
 - [Satisfaction Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
+- [Slackbot Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md)
+- [Identity Engineer Support Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/engineer-issue-template-example.md)
+- [Engineer Support Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/engineer-support-process.md)
+
 
 ## Potential deliverables:
 - New Request Types in ID Bot.
