@@ -7,9 +7,9 @@ We believe My HealtheVet users will struggle to find the "right" phone number on
 
 The cartography team identified this risk in Fall 2023 and began prioritizing this work in Sprint 27 (April 1, 2024). Our initial goals are to build on earlier discovery work and identify solution(s) that can begin to aid users in getting help when and where they need it, in the clearest way possible. We will aim to launch a low-risk MVP solution first, and move toward research to validate more complex concepts with Veterans before moving forward with those ideas. 
 
-## Discovery & desk research
-
 ## Current help and support landscape
+
+## Discovery & desk research
 
 ### Call Centers
 
