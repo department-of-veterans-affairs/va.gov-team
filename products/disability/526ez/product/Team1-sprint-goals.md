@@ -1,12 +1,43 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
 ## Sprint 28
+Period - 04/10/2024 - 04/23/2024
+### Sprint goals 
+- **Expedited**
+  - [ ] Front-end - Widgets to Web components upgrade - Test if the Design System switch to V3 will break 526 form if the upgrades are not done
+  - [ ] Front-end - Widgets to Web components upgrade - radio buttons and checkboxes - **The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
+ - **2023 Prioritized Work**
+     - Lighthouse Migration 
+       - Decommission migrated endpoints to EVSS
+           - [ ] Intent to File
+       - Launch
+           - [ ] BRD
+    - 526ez sync with paper version 
+       - Toxic Exposure
+         - [ ] Continue build on TE pages - Gulf War 2001    
+         - [ ] Contract for Toxic Exposure fields between FE and BE 
+         - [ ] Start work on data transformation for the new Toxic Exposure fields
+      - Audit for 526ez and ancillary forms for all paper to digital form changes
+          - [ ] Complete technical discovery and review with stakeholders
+          - [ ] Create tickets in the backlog for updates identified
+          
+- **2024 Prioritized Work**
+   - Improvement in Submission and Post Submission Experience
+      - Desk Research
+        - Existing research and design on va.gov - part 2
+        - Current state of submission and post submission experience
+        - Present findings from the desk research
+          
+- **Stretch Goal**
+   - [ ] Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
+
+## Sprint 28
 Period - 03/27/2024 - 04/09/2024
 ### Sprint goals 
 - **Expedited**
   - [ ] single direct deposit content - design and front-end - complete
   - [ ] Front-end - Widgets to Web components upgrade - radio buttons and checkboxes - **The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
- 
+   - [ ] Front-end - Widgets to Web components upgrade - Test if the Design System switch to V3 will break 526 form if the upgrades are not done - **Pulled in mid sprint**
  - **2023 Prioritized Work**
    - 526ez sync with paper version 
        - **Toxic Exposure**
