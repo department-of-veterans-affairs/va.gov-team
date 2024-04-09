@@ -71,8 +71,10 @@ _List all labels from the [research repository label list](https://github.com/de
 - First Click:
   - 61% chose "Contact us" as their first click
 - Final Selection:
-  - 34% chose "Pharmacy" to complete this task as their final selection
-      - Some selected different click paths, difference in percentage related to final choice over first click 
+  - 35% chose "Pharmacy" to complete this task as their final selection
+      - All selected one of two distinct click paths
+        - 20% "View all health services > Pharmacy" (accordion)
+        - 15% "Contact us > Patient help and resources > Pharmacy"
   - 32% "Contact us"
   - 20% "Manage your healthcare online > Refill and track your prescriptions"
     - "Refill and track your prescriptions" is a benefit hub page with sign in option, may indicate they expect to do this from their MHV account after log in (existing mental model). 
@@ -111,7 +113,8 @@ _List all labels from the [research repository label list](https://github.com/de
 - Keep links to both VA Health Connect and VA Health Chat in the Manage your healthcare online section.
 - Where available, add VA Health Connect phone number where main contact info is present.
   - Provides Veterans, family members, and caregivers a quick access point when they have an immediate concern
-  - Additional consideration given to phone label for Veteran understanding of after hours care (24/7 availability)   
+  - Additional consideration given to phone label for Veteran understanding of after hours care (24/7 availability)
+- When a Pharmacy accordion is present, include VA health chat and health connect as contextually relevant link placements. 
 
 
 ## Next Steps
