@@ -115,7 +115,7 @@ Our intended audience for this research is Veterans and Dependents who have appl
 
 ### Recruitment criteria
 
-We would like to work with Perigean to recruit for 20 sessions in total.
+We would like to work with Perigean to recruit for 20 sessions in total, we would prefer to have 15 successful sessions in order to consider the study complete.
 
 User groups:
 
