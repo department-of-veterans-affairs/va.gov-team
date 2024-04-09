@@ -2,7 +2,7 @@
 
 - [High Level Visual Data Flow (Work In Progress)](#high-level-visual-data-flow-work-in-progress)
 - [Work In Progress Questions](#work-in-progress-questions)
-- </br></br>
+- [Post Meeting Notes](#post-meeting-notes)</br></br>
 
 ## High Level Visual Data Flow (Work In Progress)
 
@@ -37,9 +37,9 @@
 
 - Does the CC self-scheduling flow need to capture the Veterans preferred appointment date before scheduling begins, like VA Direct Scheduling?
 
-## Post meeting notes
+## Post Meeting Notes
 
-### Next steps 
+### Next Steps 
 
 - Michael to provide HSRM user guides and/or other documentation to help VAOS understand what data fields and logic is being used to extract information from authorized referrals. 
 - Completed: Rob started conversation with CCRA to better understand Access Standards. However, it sounded like WellHive has already built these same standards into their system for us to pull into VAOS. E.g., Drive time is in WellHive, with and without traffic; using Azure. But, let's have the call regardless.
@@ -47,7 +47,7 @@
 - Ryan will work through sandbox and authentication access for VAOS. Understands that VAOS is interested in getting connected right away.
 - Open item: Calling the API has costs associated with it. For the pilot, the API calls will be relatively low. However, noting that Ryan and Rick are having discussions between VA and WellHive contract details and costs. Shouldn't be a roadblock as of now. 
 
-### General functionality notes
+### General Functionality Notes
 
 - Avoid searching the entire provider database, for example, in order to limit API calls and associated costs.
 - The number of time slots and days out won't impact the costs at all, or costs greatly.
