@@ -13,13 +13,13 @@ For the MVP we leveraged the Slackbot (aka ID Bot) already in development for Si
 - Data pulls
 - Test User Authentication Issues
 
-These were chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
+These were chosen because these are requests that our team unambiguously fulfills, making them ideal to understand the process of creating intake forms and documenting fulfillment of those requests.
 
 In addition, we created:
 - A Github page to to explain how to request support from identity.
 - Github Support Template
 - Documentation that explained how we supported each of the three kinds of requests detailed above.
-- Satisfaction Survey
+- A customer satisfaction Survey
 
 
 ## Problem Statement: 
