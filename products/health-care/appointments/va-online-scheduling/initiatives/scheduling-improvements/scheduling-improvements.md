@@ -120,8 +120,8 @@ Patient friendly names:
 - [UX Plan: Scheduling improvements](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)
 - [20240304 VAOS OH Policy Discussion.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14670407/20240304.VAOS.OH.Policy.Discussion.pdf)
 - [Cerner Millennium Patient Self-Referral Direct Scheduling SOP - update_05302023- Signed.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14843268/Cerner.Millennium.Patient.Self-Referral.Direct.Scheduling.SOP.-.update_05302023-.Signed.pdf)
-
-
+- [FE logic for Choose a location page](products/health-care/appointments/va-online-scheduling/initiatives/scheduling-improvements/FE-logic-find-a-location-page.md)
+  
 
 
 </details>
