@@ -23,7 +23,7 @@ In addition, we created:
 
 
 ## Problem Statement: 
-Once we have the initial Request & Support identity slackbot out into the world, we need to iterate on it so that it covers all of the request types, as well as update our branding and documentation.
+The Identity team has products that other teams require our assistance with to do their jobs properly. Over time, the number of requests have increased to the point where it is no longer feasible to manage these requests manually. So we need to develop a formal process in order to intake and resolve requests as efficiently as possible.
 
 ## Relevant Documents:
 
