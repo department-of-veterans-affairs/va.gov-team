@@ -13,7 +13,7 @@ Please log key MHV to VA.gov Landing Page decisions related to the below practic
 ## Functional (How it works)
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-| 4/10/24 | Cartographers, Patrick | links to Spotlight articles on MHV should open in same tab, with SSOe session intact | the alternative of opening them in a new tab, _without_ SSOe session intact, may make sense at a later point in the transition when MHV Classic is no longer a central part of the health experience |
+| 4/10/24 | Cartographers, Patrick | links to Spotlight articles on MHV Classic should open in same tab, with SSOe session intact (using eauth deep-links) | the alternative of opening them in a new tab, _without_ SSOe session intact, may make sense at a later point in the transition when MHV Classic is no longer a central part of the health experience |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
