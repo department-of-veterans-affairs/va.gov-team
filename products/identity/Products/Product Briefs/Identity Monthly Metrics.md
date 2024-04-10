@@ -40,10 +40,6 @@ For this first iteration, the focus will be on:
     * Ticket Requests by Product
       * All Time
       * Previous Month
-  * Calculated Metrics
-    * Average Days to Close Tickets
-      * All Time
-      * Previous Month
   * Satisfaction Metrics
     * Survey Score
       * All Time
