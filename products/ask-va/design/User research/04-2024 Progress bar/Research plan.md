@@ -134,12 +134,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 |Date|Milestone|
 |:--|:--|
-|April 12|Research review|
-|April 18|Prototypes are ready|
-|April 18|Pilot session|
-|April 22-26|Research sessions|
-|April 29-May 1|Synthesis|
-|May 2+|Share findings|
+|Friday, April 12|Research review|
+|Thursday, April 18|Prototypes are ready|
+|Thursday, April 18|Pilot session|
+|Monday, April 22 - Friday, April 26|Research sessions|
+|Monday, April 29 - Wednesday, May 1|Synthesis|
+|From Thursday, May 2|Share findings|
 
 ## Pilot session
 
