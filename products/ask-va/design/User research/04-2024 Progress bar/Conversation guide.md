@@ -94,10 +94,13 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
     - How was the support you received?
     - Have you ever heard of Ask VA or AVA?
 
-**Key things to note:**
+<details>
+  <summary>Key things to notice</summary>
 
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
+
+</details>
 
 ## Homepage to sign in (5 to 15 minutes)
 
@@ -139,13 +142,17 @@ For the rest of our conversation, I’d like you to pretend that you need to ask
 
 > **Skip** to [Category](#category) if they choose not to sign in.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Is the purpose of Ask VA clear?
 - How long do they expect asking a question to take at this point?
 - Where are they most likely to click first?
 - Is it clear when they need to sign in or when it is optional?
 - Are the benefits of signing in clear?
 - Do they mention the emergency content?
+
+</details>
 
 ### Sign in
 
@@ -156,8 +163,12 @@ For the rest of our conversation, I’d like you to pretend that you need to ask
 
 Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+
 - Does the sign in screen seem familiar?
+
+</details>
 
 ### Dashboard (Authenticated)
 
@@ -171,11 +182,15 @@ Okay, now we're on this page.
 
 Let's go ahead and click `Ask a new question.`
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+
 - Do they understand where they are?
 - Do they understand how to start a new question?
 - Do they mention the emergency content?
 - Do they mention the 'you haven't submitted a question yet' alert?
+
+</details>
 
 ### Category 
 
@@ -189,7 +204,9 @@ Okay, so I mentioned earlier that we’re pretending like you need to ask the VA
 
 Okay great. Let’s choose `Education benefits and work study` and then go to the next page.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+
 - Do they choose `Education benefits and training` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator have any impact on how long they expect this to take?
@@ -197,6 +214,8 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Topic
 
@@ -207,13 +226,17 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 
 Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+
 - Do they choose `[TOPIC]` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Sign in interruption
 
@@ -260,7 +283,9 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 
 Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+
 - Are they surprised by the sign in alert?
 - Do they move to close the alert right away?
 - Is it still not clear why they need to sign in?
@@ -268,6 +293,8 @@ Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 - Does the sign in screen seem familiar?
 - Is it clear where they land after they sign in?
 - How do they react to needing to start over again?
+
+</details>
 
 ## Through to submission (15 to 25 minutes)
 
@@ -283,7 +310,9 @@ So, just to remind you, you need to ask the VA [ADD NEW SCENARIO]
 
 Okay, we’ll choose `Myself` and continue.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+
 - Do they choose `Myself` without being prompted?
 - Is anything unclear about the options on this page?
 - If they were interrupted to sign in, do they notice that this is the first 'new' question they're answering?
@@ -293,6 +322,8 @@ Okay, we’ll choose `Myself` and continue.
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
 
+</details>
+
 ### Your relationship to the Veteran
 
 > Screen: Your relationship to the Veteran
@@ -301,12 +332,17 @@ Okay, we’ll choose `Myself` and continue.
 
 Okay, great. Let's continue.
 
+<details>
+  <summary>Key things to notice</summary>
+
 - Do they choose `I’m the Veteran` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### School information
 
@@ -318,13 +354,17 @@ Okay, great. Let's continue.
 
 Okay, for today, we're not going to click on anything. We'll just pretend like you chose Virginia as your school state and we'll continue.
 
-**Key things to notice:**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Is it clear that you only need to give your school state or your residency state?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Your question
 
@@ -344,7 +384,9 @@ We’ll pretend like you typed in a subject and a question about [ADD NEW SCENAR
 
 Great. Let's pretend like you typed in your subject and question and you decided not to upload a file today. You can click continue now.
 
-**Key things to notice**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Is the purpose of the subject field clear?
 - Is the purpose of the upload section clear?
 - Do they understand that they don't need to upload a file?
@@ -355,6 +397,8 @@ Great. Let's pretend like you typed in your subject and question and you decided
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
 - Do they show any noticeable frustration with how long it's taken to get to this question?
+
+</details>
 
 ### Tell us about yourself
 
@@ -368,7 +412,9 @@ Okay, let’s look at this page now. We're going to pretend this is filled in wi
 
 Okay, great. So now that we've reviewed this informaiton, we'll say it's correct and click continue.
 
-**Key things to notice**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Is it clear why information is pre-filled in the form?
 - Do they understand how to update information on this page vs. their VA.gov profile?
 - [If included] Do they notice the progress indicator?
@@ -378,6 +424,8 @@ Okay, great. So now that we've reviewed this informaiton, we'll say it's correct
 - [If not] Do they appear lost or disoriented in the form?
 - Do they show any noticeable frustration with being asked for more information after sharing their question?
 
+</details>
+
 ### Your contact information
 
 > Screen: Your contact information
@@ -386,13 +434,17 @@ Okay, great. So now that we've reviewed this informaiton, we'll say it's correct
 
 Okay, great. We’ll say you reviewed your phone number and email address and are ready to continue.
 
-**Key things to notice**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Is it clear why information is pre-filled in the form?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Reason you contacted us
 
@@ -403,13 +455,17 @@ Okay, great. We’ll say you reviewed your phone number and email address and ar
 
 Okay, let's choose, 'I had a question' and continue.
 
-**Key things to notice**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Does this question cause more or less confusion, now that it's at the end of the form?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Review and submit
 
@@ -424,13 +480,17 @@ Let's say that you reviewed your information and you're ready to submit your que
 
 Great, let's click submit.
 
-**Key things to notice**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Is the purpose of this page clear?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Confirmation page
 
@@ -440,10 +500,14 @@ Okay, great. I’ll give you a few minutes to read this.
 
 - What is this page telling you?
 
-**Key things to notice**
+<details>
+  <summary>Key things to notice</summary>
+  
 - Do they notice or mention the reference number?
 - Are they surprised by the response time (7 days)?
 - Is any information missing?
+
+</details>
 
 ## Cool down (10 minutes)
 
@@ -465,6 +529,18 @@ I’d love to spend a little time reflecting before we finish.
   - `IF NO`
     - Is there anything that showed your progress?
     - Would something like that be helpful?
+
+<details>
+  <summary>Key things to notice</summary>
+  
+- What did they like and what would they change?
+- Is it clear not to use Ask VA in an emergency?
+- [If included] Do they remember the progress indicator?
+- [If included] Did the progress bar give them any additional information?
+- [If not] Do they remember that there was no progress indicator?
+- Did they ever appear lost or disoriented while filling out the form?
+
+</details>
    
 Well, I think you've answered all of my questions.
 
@@ -477,14 +553,6 @@ Okay, well thank you so much for the time.
 Perigean will send you a thank you note with some information that you can pass along to other Veterans if they’d like to participate in future research sessions. 
 
 I hope you have a lovely rest of the day.
-
-**Key things to notice**
-- What did they like and what would they change?
-- Is it clear not to use Ask VA in an emergency?
-- [If included] Do they remember the progress indicator?
-- [If included] Did the progress bar give them any additional information?
-- [If not] Do they remember that there was no progress indicator?
-- Did they ever appear lost or disoriented while filling out the form?
 
 ## Pause or exit strategies
 
