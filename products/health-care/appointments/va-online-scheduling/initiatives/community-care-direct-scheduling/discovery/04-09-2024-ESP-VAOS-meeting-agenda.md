@@ -39,6 +39,8 @@
 
 ## Post Meeting Notes
 
+[Video recording (SharePoint)](https://dvagov-my.sharepoint.com/personal/michael_olsen_va_gov/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmichael%5Folsen%5Fva%5Fgov%2FDocuments%2FRecordings%2FEPS%2DVAOS%20Weekly%20Meeting%2D20240409%5F100207%2DMeeting%20Recording%2Emp4&nav=eyJwbGF5YmFja09wdGlvbnMiOnsic3RhcnRUaW1lSW5TZWNvbmRzIjoxNC4yNDk0MzV9fQ%3D%3D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
 ### Next Steps 
 
 - Michael to provide HSRM user guides and/or other documentation to help VAOS understand what data fields and logic is being used to extract information from authorized referrals. 
