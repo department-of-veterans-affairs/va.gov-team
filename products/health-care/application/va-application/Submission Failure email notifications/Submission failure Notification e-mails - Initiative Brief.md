@@ -2,14 +2,13 @@
 
 ## Outcome Summary
 
-Increase applicant returns and submissions of saved applications, while shortening the amount of time that an application remains in-progress.
+Moving the submission failures email from GovDelivery to VANotify will allow the team to manage the email message to the Veterans, as well as onboarding to the target state platform for Veteran communications  
 
 **Related/Associated product(s)**
 - Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 
 ## Problem
-Veterans are not able to complete applications, and may be forgetting that they have an application in progress.  They may also not know how to return to it.
-The reminders will encourage the Veteran to submit the application in order to receive benefits sooner. The link in the reminder email will take them back to the in progress application.
+The 10-10 team currently has no visibility or control over the email message being sent to Veterans.  By using VA Notify as the platform for sending these emails, we can control and customize the message to Veterans, as well as aligning with using the target state platform.
 
 
 ## Desired User Outcomes
