@@ -7,18 +7,22 @@ We believe My HealtheVet users will struggle to find the "right" phone number on
 
 The cartography team identified this risk in Fall 2023 and began prioritizing this work in Sprint 27 (April 1, 2024). Our initial goals are to build on earlier discovery work and identify solution(s) that can begin to aid users in getting help when and where they need it, in the clearest way possible. We will aim to launch a low-risk MVP solution first, and move toward research to validate more complex concepts with Veterans before moving forward with those ideas. 
 
-## Known preferences / principles based on other teams' research
-* People don't want to start over at the beginning (want a hand-off where next person knows what I told the first person)
+## VES Seamless CX Principles
+* As a Veteran, I am known to the VA. The VA knows who I was as an active servicemember and who I am now as a Veteran, including my personal details (e.g., my demographics and my channel preferences) and what VA services I use.
+* As a Veteran, I have a smooth, consistent, personalized experience, no matter how I get in touch with the VA, or who or what I interact with about my question/problem/request. I won’t have to restart the conversation or provide duplicate information when I move from channel to channel, or within the same channel.
+* The VA helps me achieve the outcome I was looking for, in a way that exceeds my expectations.
 
-## Hypotheses around Veteran preferences
+## Hypotheses around My HealtheVet preferences for help
 We expect that: 
-* people want quick help (not to wait 3 days for an answer)
+* people want fast access to help (not to wait 3 days for an answer)
 * people want to be able to find help + support when they need it (and we shouldn't hide it, or bury it at the bottom of a page)
 * most people will recognize a need for help in the middle of tasks, within tools.
-*people don't understand or want to spend time being routed to various helpdesks: they want us to give them the right number upfront.
-* "smart" help is better help
-  * i.e. delivering the best phone number for secure messages on the SM pages; the correct pharmacy number on a prescription or medication page; and the facility phone number on a specific appointment details page. 
-
+* people don't understand or want to spend time being routed to various helpdesks: they want us to give them the correct help/support upfront.
+* people want a more connected experience where support/help services "know" their information
+  * "smart help"
+    * we know what page they're on (and deliver the most accurate help for that page/data)
+    * we know something about them as a person (we know what facility they are going to for an appointment, when their next appointment is, what prescriptions are ready for refill)
+    * they don't have to repeat themselves if they get transferred
 
 ## Current help and support landscape
 
@@ -111,9 +115,8 @@ Future Functionality|15|0.01
   * PO: Luciana Alexander Morais (VES)
   * Speed of tool: instant feedback, but you aren't chatting with a person, so its very canned answers & doesn't cover all topics
   * Notes:
-    * VES team has worked out a Seamless CX strategy (see here - must be on Network) with many articulated design principles around what Veterans want with regard to online support.
-    * Chante Lantos-Swett communicated that Live Agent support at scale (which would likely be an escalation from Chatbot responses) is very far off into the future, and is not a foreseeable solution in the near term.
-    * All signs point to Live Agent support being preferred means of communication outside of phone numbers, and a really insightful study was conducted about Live Agent support last year. Links to research outcomes here: 
+    * VES team has worked out a Seamless CX strategy ([see here](https://dvagov.sharepoint.com/:w:/r/sites/OmnichannelEcosystem/_layouts/15/Doc.aspx?sourcedoc=%7BBAD20739-1BF3-48CC-9C66-C15C3EF97A24%7D&file=Seamless%20CX%20Strategy%20Summary.docx&action=default&mobileredirect=true) - must be on Network) with many articulated design principles around what Veterans want with regard to online support.
+    * Chante Lantos-Swett communicated that while Live Agent support is a known preference, at scale it is very far off into the future, and is not a foreseeable solution in the near term.
 
 
 
