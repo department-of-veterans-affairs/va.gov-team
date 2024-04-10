@@ -9,7 +9,7 @@ Last updated by @tygindraux: April 3, 2024
 - [Research goals](#research-goals)
 - [Methodology](#methodology)
 - [Recruitment](#recruitment)
-- [Timeline](#timeline---wip-needs-discussion)
+- [Timeline](#timeline)
 - [Research sessions](#research-sessions)
 - [Team roles](#team-roles)
 - [Approved by](#approved-by)
