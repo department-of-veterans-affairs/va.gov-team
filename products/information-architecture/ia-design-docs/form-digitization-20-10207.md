@@ -83,9 +83,19 @@ Team documented their [user flow in Mural](https://app.mural.co/t/departmentofve
 
 <img width="400" alt="VA Claim Status Tool landing page" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/8f79a19a-5e19-4763-9bb7-fb049bf3af6e">
 
+-------
+
 4. **Decision Reviews** - Add
   - Link destination: www.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207
   - Notes: Once the product team knows which decision reviews can be used with 20-10207, connect with the decision reviews team to determine where this form can be crosslinked within the online application.
+
+-------
+5. **[Types of VA disability claims and when to file](https://www.va.gov/disability/how-to-file-claim/when-to-file/)** - Add
+  - Placement description: Under section "Programs to help speed up your claim decision"
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207
+  - Notes: The forms team flagged this page as a potential crosslink opportunity. Content team will review this page further as part of adding any 
+    other crosslinks.
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
 *Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
