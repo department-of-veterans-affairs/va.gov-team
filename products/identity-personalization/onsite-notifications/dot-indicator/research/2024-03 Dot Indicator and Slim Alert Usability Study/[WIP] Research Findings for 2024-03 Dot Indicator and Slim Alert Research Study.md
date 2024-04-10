@@ -45,14 +45,23 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 
 ## Research Questions
 
-_Research questions here_
+As part of research, some questions varied from test to test due to accessibility considerations and technical difficulties, as well as responses from participants related to claims that prompted further inquiry. The main questions pursued as part of this study included:
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
+* What elements stands out first to users on My VA? Are the indicators being tested (dots, badges) among them?
+* Do colorblind participants ave any trouble seeing the dot or badge indicators?
+* How are the badges with numbers perceived?
+* What do users expect to see when a dot or badge is next to a link related to their healthcare (the contexts of inbox, prescriptions, and lab results)?
+* How do participants think dots or badges on My VA will go away? What actions do they believe will cause them to vanish?
+* 
+* How are claim status cards for Step 3 (evidence requests) perceived by participants?
+* Do participants have a general understanding of what the content of new slim alert on claim cards means? ("We need more information from you")
+* Do users have difficulty reading the slim alert or seeing it in general?
+* What do participants believe will make the slim alert disappear?
 
+* What do participants believe would be useful to learn ahead of time before filing claims?
 
-* Question 
-* Question
-* Question
+* What other things would participants like to be notified of by the VA, on the website or otherwise?
+
 
 ## Methodology 
 
