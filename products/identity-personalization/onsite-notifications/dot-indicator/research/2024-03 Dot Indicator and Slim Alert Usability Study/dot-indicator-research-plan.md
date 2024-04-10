@@ -45,7 +45,7 @@ We hypothesize that:
 - We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators.
 - We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have.
 - We expect that there may be interesting findings for <b>when</b> screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
- - We expect the slim alert's current content will highlight when a claim requires Veteran attention, but the default content included in the component may not be sufficient to inform them as-is (testing is an opportunity to get a better sense of what matters most with claim updates and how we can refine the messaging to better call out what needs attention). 
+- We expect the new content in claim card slim alerts for evidence requests will will be effective in conveying that a claim requires Veteran attention/action to provide more documentation and details. 
 
 ## Methodology	
 We will conduct one-on-one remote usability sessions via Zoom for this study. We need to test with assistive tech users in code to answer some of our research questions but we likely cannot use real user accounts because it would be difficult to find users who meet the specific criteria and won't have dismissed indicators already. Therefore, we plan to use CodePen for user testing. 
