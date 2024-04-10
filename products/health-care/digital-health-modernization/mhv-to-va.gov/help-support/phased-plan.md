@@ -161,7 +161,9 @@ Our team decided to move forward with an MVP solution that could be a first step
 
 We anticipate that as more and more users opt into "try me" phases, and teams get to work to integrate Oracle/Cerner data into the portal, that the help landscape will continue to grow in complexity, so beginning to surface help in low-risk ways and learn about the needs for help + support now is beneficial for Veterans and health tool teams alike. 
 
-This plan has its roots in desk research, previous VA.gov research by call center and support tool teams, competitive analysis, and based on working knowledge of the My HealtheVet helpdesk call volume, topic coverages, and landscape for support on VA.gov 
+This plan has its roots in desk research, previous VA.gov research by call center and support tool teams, competitive analysis, and based on working knowledge of the My HealtheVet helpdesk call volume, topic coverages, and landscape for support on VA.gov. The goal is that each phase (see outline below) builds on the previous one, creating the next level of support until a robust chain of help exists for both authenticated and unauthenticated users who may be seeking answers to questions about managing their healthcare, and is flexible enough to anticipate other needs. 
+
+<img width="832" alt="Screenshot 2024-04-09 at 10 51 57 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/393f0329-2b9c-4e66-be87-58767c1f994e">
 
 ### Phase 1: Help section on My HealtheVet Landing Page (MVP)
 
