@@ -1,4 +1,4 @@
-# VA.gov SLA
+# Login SLA
 
 ## Overview: 
 Publishing the Service Level Agreement targets we want to hit for Veterans logging into VA.gov. with the ultimate goal of continuously improving the login process to VA.gov. This maps to _O1KR2: VA.gov authentication SLOs are developed.__
