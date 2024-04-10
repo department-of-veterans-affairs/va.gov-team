@@ -120,6 +120,8 @@ A strong preference for the numbered badge, which indicated the amount of items 
 >  "...the number twos and that is more detailed on that, because other one's the red circle and it could be questionable. Hmm. You don't really know how much messages you have." (P18)
 
 
+<br>
+
 **Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).**
 
 Labels: My VA, Claim status
@@ -131,6 +133,7 @@ Participants indicated the desire for earlier and more substantive communication
 
 > "It's frustrating when weeks have gone by and we get a letter in the mail and it says "we're still working on your claim" and it's like uh, ok, what [is happening]... is there a hold up somewhere?", also referenced MyChart's notifications positively. (P8)
 
+<br>
 
 **Finding 3: The majority of participants cited the next appointment card in the Health Care section of My VA as the first thing that stands out to them, not the dot indicator nor the badge indicator (8 of 15 participants, of 11 actually assessing them).**
 
@@ -142,13 +145,16 @@ Participants were asked to indicate what stood out to them first in the Health C
 
 > "Just right away because it's boxed and tells me my next appointment and then, yeah, the boxing [sic] actually makes it stand out" (P6)
 
+<br>
+
 **4. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).**
 
 Labels: Claim status, PRDT: Claim-status-tool, CLMSTS: Timeline
 
-Participants were shown a prototype version of the My VA page that included a claim status card in Step 3 of the application process, with a slim alert inside of it indicating additional evidence is required from the Veteran ("An item needs your attention"). This card currently is live in the Claims Status Tool (CST), but not My VA. With this test, new slim alert content was tested - the hypothesis being this text, created by CAIA, would be more direct in letting users know 1) they need to take action, and 2) they will need to provide more details/documentation. 
+Participants were shown a prototype version of the My VA page that included a claim status card in Step 3 of the application process, with a slim alert inside of it indicating additional evidence is required from the Veteran ("An item needs your attention"). This card currently is live in the Claims Status Tool (CST), but not My VA. With this test, new slim alert content was tested - the hypothesis being this text, created by CAIA, would be more direct in letting users know 1) they need to take action, and 2) they will need to provide more details/documentation. The majority of participants not only understood action needs to be taken, but also expressed a general understanding of what might be required without any additional context provided.
 
 >
+
 > 
 
 ## Additional Insights
