@@ -215,129 +215,19 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-Originally we wanted 16 participants (with 12 minimum sessions completed) to be the goal. After difficulty with no shows, cancellations, and candidates that didn't meet all our desired criteria, we ended up with 22 participants as the recruitment goal. 
+Originally we wanted 16 participants (with 12 minimum sessions completed) to be the goal. After difficulty with no shows, cancellations, and candidates that didn't meet all our desired criteria, we ended up with 22 participants as the recruitment goal. Ultimately we had 15 participant sessions. 
 
 Time of service, branch, location type, education, age, gender, and sexual orientation were not considerations for recruitment due to much of the focus being on web usability. Recruitment of assistive technology users, as well as users with cognitive impairments and colorblindess, was a priority. The related recruitment goals were initially: 
 - Screen reader: 3+
-- Magnification/zoom and font resizing: 3
-
-
-
-N/A
-Do you want participants that served in a combat zone?
-
-No response
-If you choose, provide exact number you want applied for Yes or No
-
-N/A
-What sex do you want your participants to be?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked sex
-
-No response
-What age do you want your participants to be?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked age
-
-No response
-What race do you want your participants to be?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked race
-
-No response
-Were do you want participants to live?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for Yes or No
-
-No response
-What education level do you want your participants to have?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked education level
-
-No response
-What lgbtq-plus group do you want your participants to be?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked race
-
-No response
-What benefits or services should your participants have experience with?
-
-Disability, Education, Employment, Finances, Healthcare, Housing, Life Insurance, Memorialization, Pension
-If you choose, provide exact number you want applied for each checked benefit
-
-No response
-How far back do you want your participants to have first received their VA benefits?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked benefit received years
-
-No response
-What type of method do you want your participants to have used to apply for benefits?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each checked application method
-
-No response
-How often do you want your participants to access benefits online?
-
-Various (a mix of all below)
-If you choose, provide exact number you want applied for each amount of time Veterans access benefits online
-
-No response
-What languages do you want your participants comfortable in reading content?
-
-English
-If you choose, provide exact number you want applied for each checked language
-
-No response
-What device should the participant have experience with and use in the session?
-
-Desktop, Laptop, Smartphone
-If you choose, provide exact number you want applied for each checked device
-
-Desktop/Laptop: 8 total, Mobile: 4
-What types of assistive technology do you want your participants to use?
-
-Font resizing/larger, Screen magnification or zoom, Screen reader (e.g. JAWS, NVDA, VoiceOver, ChromeVox)
-If you choose, provide exact number you want applied for each checked AT
-
-screen reader: 3+, magnification/zoom and font resizing: 3
-
-    All of these selected participants should be reminded via email ahead of time to use these for the study itself
-
-Add participant screener questions for criteria not present in this form.
-
-    Are you colorblind? Yes/No
-
-    Answering "YES" would qualify the participant for the colorblindness criteria.
-
-    Do you need to use screen reader technology to use the internet, such as JAWS or Mac VoiceOver on a computer?
-
-    Response option: yes or no (Answering YES would qualify them as a screen reader participant. They must join their sessions using that assistive technology)
-    Screen reader participants should be reminded via email ahead of time to use it during the test
-
-    Do you need to use magnification, zoom, or font resizing to browse the internet?
-
-    Response options: yes or no (answering YES would qualify them as a zoom, magnification, or font resizing participant They must join their sessions using that assistive technology)
-    Zoom, magnification, and font resizing participants should be reminded via email ahead of time to use it during the test
-
-    Do you have a cognitive consideration that makes it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
-
-    Response options: yes or no (If they answer yes, they qualify for cognitive considerations criteria.)
-    Please recruit 2 participants who have a cognitive consideration.
-
+- Magnification/zoom and font resizing: 3+
+- Cognitive impairment: 2
+- Colorblind: 3
 
 
 We talked to **15 participants.**
 
 Audience segment:
-* Veterans: 15 (with 1 family member actively participating in the call as well)
+* Veterans: 15 (with 1 family member actively participating in a call as well)
 
 
 Gender:
@@ -347,9 +237,7 @@ Gender:
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+Unknown (not a recruitment criteria)
 
 
 Devices used during study: 
