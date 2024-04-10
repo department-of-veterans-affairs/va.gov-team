@@ -25,39 +25,21 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
-```diff
-- Pending {type of care} appointment
-+ We received your request
-@@ GH51648 @@
-```
+We received your request
+
 
 **PAGE DESCRIPTION**
 
-```diff
-- Your appointment request has been submitted. The time and date of this appointment are still to be determined.
-+ We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
-@@ GH51648 @@
-```
+We'll try to schedule your appointment in the next 2 business days. Check back here or call your facility for updates.
 
-```diff
-- Review your appointments
-+ Review your upcoming appointments
-@@ GH51648 @@
-```
-
-```diff
-- Schedule a new appointment
-+ Schedule a new appointment
-@@ GH51648 @@
-```
+Review your upcoming appointments
+Schedule a new appointment
 
 **PAGE CONTENT**
 
-```diff
-+ [Type of care]
+[Type of care]
 
-- VA appointment
-+ Facility
+Facility
 {Facility name}
 {Facility address line 1}
 {Facility address line 2}
@@ -65,27 +47,23 @@ Directions
 
 Main phone: {phone number} (TTY: 711)
 
-- Preferred type of appointment
-- {Office visit, Phone call, Telehealth (through VA Video Connect)}
 
 Preferred date and time
 {Preferred date & time #1}
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-- You shared these details about your concern
-+ Details you’d like to share with your provider
+Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-+ How you want to attend
+How you want to attend
 [Selected modality]
 
-- Your contact details
-+ Your contact information
+
+Your contact information
 Email: {Email address}
 Phone number: {phone number}
-@@ GH52490 @@
-```
+
 
 **ACTIONS**
 
@@ -104,28 +82,18 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
-```diff
-- Pending {type of care} appointment
-+ Request for appointment 
-@@ GH52490 @@
-```
+Request for appointment 
 
 **PAGE DESCRIPTION**
 
-```diff
-- The time and date of this appointment are still to be determined.
-+ We will review your request and contact you to schedule the first available appointment.
-@@ GH52490 @@
-```
+We will review your request and contact you to schedule the first available appointment.
+
 
 **PAGE CONTENT**
 
-```diff
-+ [Type of care]
+[Type of care]
 
-
-- VA appointment
-+ Facility
+Facility
 {Facility name}
 {Facility address line 1}
 {Facility address line 2}
@@ -133,27 +101,21 @@ Directions
 
 Main phone: {phone number} (TTY: 711)
 
-- Preferred type of appointment
-- {Office visit, Phone call, Telehealth (through VA Video Connect)}
-
 Preferred date and time
 {Preferred date & time #1}
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-- You shared these details about your concern
-+ Details you’d like to share with your provider
+Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-+ How you want to attend
+How you want to attend
 [Selected modality]
 
-- Your contact details
-+ Your contact information
+Your contact information
 Email: {Email address}
 Phone number: {phone number}
-@@ GH52490 @@
-```
+
 
 **ACTIONS**
 
@@ -174,10 +136,7 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE HEADER**
 
-```diff 
-- {Type of care} appointment request
-+ Canceled request for appointment
-```
+Canceled request for appointment
 
 **PAGE DESCRIPTION**
 
@@ -187,12 +146,9 @@ Breadcrumb: `< Back to [h1 of previous page]`
 
 **PAGE CONTENT**
 
-```diff
-+ [Type of care]
+Type of care]
 
-
-- VA appointment
-+ Facility
+Facility
 {Facility name}
 {Facility address line 1}
 {Facility address line 2}
@@ -208,19 +164,16 @@ Preferred date and time
 {Preferred date & time #2}
 {Preferred date & time #3}
 
-- You shared these details about your concern
-+ Details you’d like to share with your provider
+Details you’d like to share with your provider
 {Reason}: {Booking note}
 
-+ How you want to attend
+How you want to attend
 [Selected modality]
 
-- Your contact details
-+ Your contact information
+Your contact information
 Email: {Email address}
 Phone number: {phone number}
-@@ GH52490 @@
-```
+
 
 ---
 
