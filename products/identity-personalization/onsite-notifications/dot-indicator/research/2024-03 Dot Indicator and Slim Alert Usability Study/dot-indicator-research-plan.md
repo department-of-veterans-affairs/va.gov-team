@@ -42,10 +42,9 @@ We will be sharing our research findings with other VFS teams who are interested
 
 We hypothesize that:
 - There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as [Material Design](https://m3.material.io/components/badges/overview).
-	- We expect that it won't always make sense to use a count, and conversely, it won't always make sense to use a dot. For example, we expect that for notifications such as the number of unread messages, a count will be most useful, whereas a notification that past appointments may be eligible for travel reimbursement may need a dot to indicate that a user may want to review their past appointments for this benefit.
 - We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators.
 - We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have.
-	- We expect that there may be interesting findings for <b>when</b> screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
+- We expect that there may be interesting findings for <b>when</b> screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is.
  - We expect the slim alert's current content will highlight when a claim requires Veteran attention, but the default content included in the component may not be sufficient to inform them as-is (testing is an opportunity to get a better sense of what matters most with claim updates and how we can refine the messaging to better call out what needs attention). 
 
 ## Methodology	
@@ -86,7 +85,7 @@ Testing should take place from March 11th - March 15th, March 18th-19th, with 3-
 	
 ## Team Roles	
 Please list the people who will be serving in each role.
-- Moderator: Matt Marino (matt.marino@adhocteam.us) (Pam Drouin(pam.drouin@a1msolutions.com) and Liz Lants(liz.lantz@adhocteam.us) may substitute as moderators for a small number)
+- Moderator: Matt Marino (matt.marino@adhocteam.us)
 - Research guide writing and task development: Matt Marino and Angela Agosto	
 - Participant recruiting & screening: Perigean
 - Project point of contact: Matt Marino
