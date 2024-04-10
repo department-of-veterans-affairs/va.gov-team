@@ -74,7 +74,7 @@ For this first iteration, the focus will be on:
 
 ## Solution Approach: 
 * Create a ticket with the Analytics team to set up dashboards with the counting and calculated metrics.
-* Set up a dashbord to display the Satisfaction metrics gathered from the Slack survey previously deployed.
+* Set up a dashboard to display the Satisfaction metrics gathered from the Slack survey previously deployed.
 * Determine how to publish these metrics to other VA.gov teams.
   
 ## Technical Considerations:
