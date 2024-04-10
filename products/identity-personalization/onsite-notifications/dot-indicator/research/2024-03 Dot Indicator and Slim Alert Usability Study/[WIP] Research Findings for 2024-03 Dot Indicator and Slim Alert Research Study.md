@@ -120,17 +120,16 @@ A strong preference for the numbered badge, which indicated the amount of items 
 >  "...the number twos and that is more detailed on that, because other one's the red circle and it could be questionable. Hmm. You don't really know how much messages you have." (P18)
 
 
-**Finding 2**
+**Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).**
 
-Labels: label 1, label 2 
+Labels: My VA, Claim status
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Participants indicated the desire for earlier and more substantive communication from the VA about what matters to them, with claim status being a recurring topic mentioned by Veterans. Frustration over a lack of updates was expressed as well.
 
-Brief description
 
-> _Supporting data: Quote here_
+> "I don't think I get a text message saying it's been shipped - that would be good. Like a text message to my phone from the pharmacy.", referred to MyChart's healthcare notifications. (P7)
 
-> _Supporting data: Quote here_
+> "It's frustrating when weeks have gone by and we get a letter in the mail and it says "we're still working on your claim" and it's like uh, ok, what [is happening]... is there a hold up somewhere?", also referenced MyChart's notifications positively. (P8)
 
 
 **Finding 3**
