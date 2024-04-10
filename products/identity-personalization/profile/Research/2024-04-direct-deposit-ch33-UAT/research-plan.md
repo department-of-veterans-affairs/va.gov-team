@@ -33,10 +33,12 @@ Specifically, this research will be looking to validate the following use cases:
 Based on the outcome of this research study, we will correct any bugs or significant usability hurdles and launch this work to veterans.
 
 ### Research questions
-- Are eligible users able to successfully view and save their bank information?
-- When users update their direct deposit information, do they receive a confirmation email?
-- Are users able to open the edit modal, click cancel, and see the previously-saved directly deposit information still saved in their Profile?
-- Are users prevented from submitting the direct deposit form with errors or a bogus routing number?
+- Is the API showing us the correct flags?
+- Are eligible participants able to successfully view and save their bank information?
+	- Are users able to open the edit modal, click cancel, and see the previously-saved directly deposit information still saved in their Profile?
+- When participants update their direct deposit information, do they receive the correct confirmation email?
+- Are participants prevented from submitting the direct deposit form with errors or an invalid routing/account numbers?
+- What expectations and impressions do participants have on the current iteration of the Account Security page?
 
 ### Hypothesis
 Direct Deposit will function as expected, answering affirmatively to all four research questions.
