@@ -71,6 +71,9 @@ For this first iteration, the focus will be on:
 ## Assumptions:
 * The number of tickets will increase over time.
 * This process will change and grow as we come up with new things to measure.
+* ID Bot is used by people in #vsp-identity.
+* People fill out the Satisfaction Survey.
+* People are looking at the documentation we've provided.
 
 ## Solution Approach: 
 * Create a ticket with the Analytics team to set up dashboards with the counting and calculated metrics.
