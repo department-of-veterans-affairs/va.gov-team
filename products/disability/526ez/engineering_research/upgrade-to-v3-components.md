@@ -1,6 +1,13 @@
 ## Tickets
+jan (announcement for v3 defaults)
+[Discovery: impact of v3 updates on 526ez#73855](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/73855)
+
+jan - feb (various stories implemented to opt in/out of v3, also created timeboxed stories for conversions)
 - [Update radio buttons to use web components #76057](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76057) ([initial branch for radio buttons](https://github.com/department-of-veterans-affairs/vets-website/compare/main...dbex/76057-radio-button-conversion))
 - [Update checkboxes to use web components#76663](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/76663)
+
+mar (announcement for full v1 deprecation)
+[Discovery for breakages with v3 default#79902](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/79902)
 
 ## Resources
 
