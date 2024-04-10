@@ -23,7 +23,8 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 | Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |
 
 ## Summary data
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/eecbb8fc-4bd8-4166-84e4-8003db71fd19)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/75c65dbd-8227-4420-8f65-a10864ab8fc5)
+
 
 
 
