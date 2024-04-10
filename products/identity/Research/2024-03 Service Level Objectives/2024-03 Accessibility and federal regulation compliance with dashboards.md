@@ -46,7 +46,20 @@
 
 ## Introduction
 
-It is essential to displaying uptime, downtime, errors, and other availability information in an effective way that fosters trust, transparency, and a positive customer experience for veterans. Veterans rely on the VA website to access a wide range of essential services, information, and benefits. Ensuring consistent website availability and providing clear communication regarding outages or maintenance windows are crucial aspects of trust, customer experience, accessibility, and user experience. 
+Performance.gov selected two services of the Department of Veteran's Affairs as part of 38 of the nation’s High Impact Service Providers (HISPs) to raise
+the standard of government service delivery.
+
+HISPs are selected due to the scale and critical nature of their public-facing services. Annually, HISP teams conduct comprehensive assessments of their high-impact services, measure their customer experience maturity, and identify actions to improve service delivery.
+
+| Department of Veterans Affairs | Veterans Health Administration |
+|:--- | :--- |
+| Accessing VBA education benefits | Utilizing in-person primary care |
+| Using the VBA decision review process | Utilizing inpatient medical/acute care |
+| Accessing VBA Disability Compensation benefits | |
+
+It is essential to display uptime, downtime, errors, and other availability information in an effective way that fosters trust, transparency, and a positive customer experience for veterans. Veterans rely on VA.gov to access a wide range of essential services, information, and benefits. Ensuring consistent website availability and providing clear communication regarding outages or maintenance windows are crucial aspects of trust, customer experience, accessibility, and user experience. 
+
+
 
 ### Customer Experience and Trust
 
@@ -74,7 +87,7 @@ While the VA is not a for-profit business, unplanned outages can have a signific
 
 ---------------------------
 
-## Federal Requirements and Policies
+## Federal Requirements and Policies 
 
 Federal agencies must adhere to various policies and guidelines related to website performance, accessibility, and data protection.
 
