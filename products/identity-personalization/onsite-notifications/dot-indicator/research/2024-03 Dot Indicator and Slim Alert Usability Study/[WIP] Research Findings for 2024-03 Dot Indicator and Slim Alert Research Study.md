@@ -132,17 +132,15 @@ Participants indicated the desire for earlier and more substantive communication
 > "It's frustrating when weeks have gone by and we get a letter in the mail and it says "we're still working on your claim" and it's like uh, ok, what [is happening]... is there a hold up somewhere?", also referenced MyChart's notifications positively. (P8)
 
 
-**Finding 3**
+**Finding 3: The majority of participants cited the next appointment card in the Health Care section of My VA as the first thing that stands out to them, not the dot indicator nor the badge indicator (8 of 15 participants, of 11 actually assessing them).**
 
-Labels: label 1, label 2 
+Labels: My VA - Dot indicator, My VA - Numbered badge indicator, Claim status
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Participants were asked to indicate what stood out to them first in the Health Care section on the initial My VA prototype they viewed. Eight of the eleven participants who went through the prototype responded that the Next Appointment card was the first thing they noticed, not the indicators being tested. This raises the question of whether the dot and the badge indicator do enough to call out action items for users.
 
-Brief description
+> "When my next appointment is for my healthcare at my local VA clinic, that's what pops that first" (P7)
 
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> "Just right away because it's boxed and tells me my next appointment and then, yeah, the boxing [sic] actually makes it stand out" (P6)
 
 
 ## Additional Insights
