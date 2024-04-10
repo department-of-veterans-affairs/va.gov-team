@@ -79,7 +79,7 @@ We hypothesize that:
 - We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators. (Conclusion: Likely True - all colorblind tested users had no difficulty, but we only received feedback from 2 people)
 - We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have. ("Not enough information" - we did not complete any successful screen reader tests, with one user who utilized a nonstandard tool not hearing the aria tags called out)
 - We expect that there may be interesting findings for when screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is. (Not enough information - not enough assistive tech users participated)
-- We expect the slim alert's current content will highlight when a claim requires Veteran attention, but the default content included in the component may not be sufficient to inform them as-is (testing is an opportunity to get a better sense of what matters most with claim updates and how we can refine the messaging to better call out what needs attention). (Conclusion: Likely True - the majority of participants not only understood action needs to be taken, but also expressed a general understanding of what might be required)
+- We expect the new content of claim card slim alerts for evidence requests will will be effective in conveying that a claim requires Veteran attention/action to provide more documentation and details. (Conclusion: Likely True - the majority of participants not only understood action needs to be taken, but also expressed a general understanding of what might be required without any additional context provided)
 
 
 ## Key Findings
@@ -142,6 +142,14 @@ Participants were asked to indicate what stood out to them first in the Health C
 
 > "Just right away because it's boxed and tells me my next appointment and then, yeah, the boxing [sic] actually makes it stand out" (P6)
 
+**4. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).**
+
+Labels: Claim status, PRDT: Claim-status-tool, CLMSTS: Timeline
+
+Participants were shown a prototype version of the My VA page that included a claim status card in Step 3 of the application process, with a slim alert inside of it indicating additional evidence is required from the Veteran ("An item needs your attention"). This card currently is live in the Claims Status Tool (CST), but not My VA. With this test, new slim alert content was tested - the hypothesis being this text, created by CAIA, would be more direct in letting users know 1) they need to take action, and 2) they will need to provide more details/documentation. 
+
+>
+> 
 
 ## Additional Insights
 
