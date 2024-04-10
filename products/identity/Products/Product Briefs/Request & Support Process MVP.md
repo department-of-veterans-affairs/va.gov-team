@@ -19,7 +19,7 @@ Potential add-ons (but not primary goal)
 NOTE: As we started doing research, we realized that it would be best to do a MVP (Minimum Viable Product) with a small number of requests in order to test and learn from it. Ideally, how Identity supports other va.gov teams will evolve over time.
 
 ## Problem Statement: 
-Currently, we have no clearcut and a disjointed/one-off process to field requests from other product teams.  In order to triage, manage and fulfill those requests, we need to clearly define a workflow/process in order to be able to track the overall workload created by those requests.
+The Identity team has products that other teams require our assistance with to do their jobs properly. Over time, the number of requests have increased to the point where it is no longer feasible to manage these requests manually. So we need to develop a formal process in order to intake and resolve requests as efficiently as possible.
 
 ## Relevant Documents:
 - [UX Brainstorm & Research](https://app.mural.co/t/oddballinternal7486/m/oddballinternal7486/1706233585959/51586c97a249268a2ff9a709024dcd9df18dc6f8?sender=u8f85d3b7f2143f85bb7a9248) 
