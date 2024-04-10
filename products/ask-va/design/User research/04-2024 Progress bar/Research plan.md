@@ -134,7 +134,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 |Date|Milestone|
 |:--|:--|
-|April 13|Research review|
+|April 12|Research review|
 |April 18|Prototypes are ready|
 |April 18|Pilot session|
 |April 22-26|Research sessions|
