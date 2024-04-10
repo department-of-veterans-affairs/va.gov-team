@@ -133,9 +133,13 @@ I’m going to give you a moment to look at this page.
 
 For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question.
 
-Let's say that you've applied for education benefits through the VA. And you're going to ask someone at the VA for a copy of your benefits statement. A benefits statement helps you know how much of your benefits you have left to use for education or training. 
+Let's say you'd like to learn whether you're eligible for Post-9/11 GI Bill benefits through the VA.
 
-I'll remind you of this scenario as we go along.
+- Are you familiar with the GI Bill?
+
+Okay, great. The GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, may qualify for these benefits.
+
+And I'll remind you of this scenario as we go along.
 
 - Without clicking anything yet, can you tell me what you would do first?
   - Where would you click?
@@ -191,6 +195,7 @@ Let's go ahead and click `Ask a new question.`
 
 - Do they understand where they are?
 - Do they understand how to start a new question?
+- Do they mention the pre-fill alert?
 - Do they mention the emergency content?
 - Do they mention the 'you haven't submitted a question yet' alert?
 
@@ -200,7 +205,7 @@ Let's go ahead and click `Ask a new question.`
 
 > Screen: Category
 
-Okay, so I mentioned earlier that we’re pretending like you need to ask the VA for a copy of your benefits statement so you can show how much you have left to use for education or training. With that in mind…
+Okay, so I mentioned earlier that we’re pretending like you need to ask the VA if you're eligible for GI Bill benefits. With that in mind…
 
 - Can you show me what you would do first on this page?
 - [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
@@ -228,12 +233,12 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 - Can you show me what you would do on this page?
 - [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
 
-Okay great. Let’s choose `Certificate of Eligibility (COE) or Statement of Benefits` and then go to the next page.
+Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the next page.
 
 <details>
   <summary>Key things to notice</summary>
 
-- Do they choose `Certificate of Eligibility (COE) or Statement of Benefits` without being prompted?
+- Do they choose `Post-9/11 GI Bill (Chapter 33)` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
@@ -268,7 +273,7 @@ Today, we're just going to pretend like you're signing in. Let's click on Login.
 Okay, so we're pretending like you just finished signing in.
 
 - Can you tell me what page we're on now?
-- What would you do next if you still wanted to ask the VA as a question about your education benefits statement?
+- What would you do next if you still wanted to ask the VA as a question about GI Bill benefits?
 - What do you expect to happen when you click 'Ask a new question'?
 
 Let's go ahead and click 'Ask a new question.'
@@ -285,7 +290,7 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 - Okay, tell me about this page.
 - What would you choose here?
 
-Okay great. Let’s choose `Certificate of Eligibility (COE) or Statement of Benefits` and then go to the next page.
+Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the next page.
 
 <details>
   <summary>Key things to notice</summary>
@@ -326,16 +331,16 @@ Okay, great. Let's continue.
 
 > Screen: Are you a GI Bill beneficiary?
 
-In this scenario, we're imagining that you've received education benefits from the VA.
+In this scenario, we're imagining that you're trying to find out whether you're eligible for GI Bill benefits from the VA.
 
 - Can you show me what you would do on this page?
 
-Okay, great. Let's choose 'Yes' and we'll continue.
+Okay, great. Let's choose 'No' and we'll continue.
 
 <details>
   <summary>Key things to notice</summary>
 
-- Do they choose `Yes` without being prompted?
+- Do they choose `No` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
@@ -375,7 +380,7 @@ Okay, for today, we're not going to click on anything. We'll just pretend like y
 
 Okay great. So we can’t actually type into the box using this prototype. 
 
-We’ll pretend like you typed in a subject and a question about how to get a copy of your education benefits statement.
+We’ll pretend like you typed in a subject and a question about how to find out if you're eligible for GI Bill benefits.
 
 - After that, is there anything else you need to do on this page?
 - Why is it asking for you to upload files?
