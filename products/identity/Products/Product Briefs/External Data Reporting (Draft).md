@@ -1,16 +1,19 @@
-# Name of Product
+# External Data Reporting (Draft)
 
 ## Overview: (Provide a high level description of the product/set of features)
 
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
+## Problem Statement: 
+Data is not instantly understandable and can be misrepresented.
 
 
 ## Relevant Documents:
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* 
+* what more common data can we get into a public-facing dashboard?
+* POs fielding data requests
+* Building up data repository.
 
 ## Out of Scope: (for this iteration)
 *
@@ -24,7 +27,9 @@ For this first iteration, the focus will be on:
 * 
 
 ## Solution Approach: 
-* 
+* Find out what people are asking for
+* Determine what's useful
+
   
 ## Technical Considerations:
 | Issue         | Notes         | 
