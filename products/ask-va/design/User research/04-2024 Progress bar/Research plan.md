@@ -137,7 +137,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Friday, April 12|Research review|
 |Thursday, April 18|Prototypes are ready|
 |Thursday, April 18|Pilot session|
-|Monday, April 22 - Friday, April 26|Research sessions|
+|Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
 |From Thursday, May 2|Share findings|
 
@@ -160,11 +160,10 @@ We will provide 20 time slots, with the aim to book 10 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Monday, April 22|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
 |Tuesday, April 23|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
 |Wednesday, April 24|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
 |Thursday, April 25|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
-|Friday, April 26|We will only add slots if needed|
+|Friday, April 26|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
 
 ## Team roles
 
