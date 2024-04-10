@@ -139,7 +139,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |April 18|Pilot session|
 |April 22-26|Research sessions|
 |April 29-May 1|Synthesis|
-|May 2|Share findings|
+|May 2+|Share findings|
 
 ## Pilot session
 
