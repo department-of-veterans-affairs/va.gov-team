@@ -131,7 +131,11 @@ I’m going to give you a moment to look at this page.
 - What is this page about?
 - How long would you expect it to take to ask a question?
 
-For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question. Let's say [ADD NEW SCENARIO, but it will be personal/education related].
+For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question.
+
+Let's say that you've applied for education benefits through the VA. And you're going to ask someone at the VA for a copy of your benefits statement. A benefits statement helps you know how much of your benefits you have left to use for education or training. 
+
+I'll remind you of this scenario as we go along.
 
 - Without clicking anything yet, can you tell me what you would do first?
   - Where would you click?
@@ -196,7 +200,7 @@ Let's go ahead and click `Ask a new question.`
 
 > Screen: Category
 
-Okay, so I mentioned earlier that we’re pretending like you need to ask the VA [ADD NEW SCENARIO]. With that in mind…
+Okay, so I mentioned earlier that we’re pretending like you need to ask the VA for a copy of your benefits statement so you can show how much you have left to use for education or training. With that in mind…
 
 - Can you show me what you would do first on this page?
 - [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
@@ -224,12 +228,12 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 - Can you show me what you would do on this page?
 - [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
 
-Okay great. Let’s choose `[TOPIC]` and then go to the next page.
+Okay great. Let’s choose `Certificate of Eligibility (COE) or Statement of Benefits` and then go to the next page.
 
 <details>
   <summary>Key things to notice</summary>
 
-- Do they choose `[TOPIC]` without being prompted?
+- Do they choose `Certificate of Eligibility (COE) or Statement of Benefits` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
@@ -240,7 +244,7 @@ Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 
 ### Sign in interruption
 
-> **Skip** and go to [Who is your question about](#who-is-your-question-about) if they've already signed in.
+> **Skip** and go to [Your relationship to the Veteran](#your-relationship-to-the-Veteran) if they've already signed in.
 
 > Screen: Sign in alert
 
@@ -264,7 +268,7 @@ Today, we're just going to pretend like you're signing in. Let's click on Login.
 Okay, so we're pretending like you just finished signing in.
 
 - Can you tell me what page we're on now?
-- What would you do next if you still wanted to ask the VA as a question about [ADD NEW SCENARIO]?
+- What would you do next if you still wanted to ask the VA as a question about your education benefits statement?
 - What do you expect to happen when you click 'Ask a new question'?
 
 Let's go ahead and click 'Ask a new question.'
@@ -281,7 +285,7 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 - Okay, tell me about this page.
 - What would you choose here?
 
-Okay great. Let’s choose `[TOPIC]` and then go to the next page.
+Okay great. Let’s choose `Certificate of Eligibility (COE) or Statement of Benefits` and then go to the next page.
 
 <details>
   <summary>Key things to notice</summary>
@@ -298,32 +302,6 @@ Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 
 ## Through to submission (15 to 25 minutes)
 
-### Who is your question about?
-
-> Screen: Who is your question about?
-
-So, just to remind you, you need to ask the VA [ADD NEW SCENARIO]
-
-- Can you show me what you would do on this page?
-- Why did you choose that option?
-- Can you imagine contacting the VA about [an option they didn’t choose]?
-
-Okay, we’ll choose `Myself` and continue.
-
-<details>
-  <summary>Key things to notice</summary>
-
-- Do they choose `Myself` without being prompted?
-- Is anything unclear about the options on this page?
-- If they were interrupted to sign in, do they notice that this is the first 'new' question they're answering?
-- [If included] Do they notice the progress indicator?
-- [If included] Does the progress indicator give them any additional information?
-- [If not] Do they notice that there's no progress indicator?
-- [If not] Do they mention that they're unsure how much longer the form is?
-- [If not] Do they appear lost or disoriented in the form?
-
-</details>
-
 ### Your relationship to the Veteran
 
 > Screen: Your relationship to the Veteran
@@ -336,6 +314,28 @@ Okay, great. Let's continue.
   <summary>Key things to notice</summary>
 
 - Do they choose `I’m the Veteran` without being prompted?
+- [If included] Do they notice the progress indicator?
+- [If included] Does the progress indicator give them any additional information?
+- [If not] Do they notice that there's no progress indicator?
+- [If not] Do they mention that they're unsure how much longer the form is?
+- [If not] Do they appear lost or disoriented in the form?
+
+</details>
+
+### Are you a GI Bill beneficiary?
+
+> Screen: Are you a GI Bill beneficiary?
+
+In this scenario, we're imagining that you've received education benefits from the VA.
+
+- Can you show me what you would do on this page?
+
+Okay, great. Let's choose 'Yes' and we'll continue.
+
+<details>
+  <summary>Key things to notice</summary>
+
+- Do they choose `Yes` without being prompted?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
@@ -375,7 +375,7 @@ Okay, for today, we're not going to click on anything. We'll just pretend like y
 
 Okay great. So we can’t actually type into the box using this prototype. 
 
-We’ll pretend like you typed in a subject and a question about [ADD NEW SCENARIO].
+We’ll pretend like you typed in a subject and a question about how to get a copy of your education benefits statement.
 
 - After that, is there anything else you need to do on this page?
 - Why is it asking for you to upload files?
