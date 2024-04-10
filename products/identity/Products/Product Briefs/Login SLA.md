@@ -35,8 +35,10 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 
 ## Use Cases:
-- As a Veteran or VA Team member, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
-- As a Veteran or VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
+- As a Veteran, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
+- As a VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
+- As a Veteran, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
+- As a VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
 
 
 
@@ -64,8 +66,8 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------| 
-| 75% of the endpoints are covered w/ SLO|  Published in tabular form             |
-| How are we meeting the SLOA are published on a monthly basis |    |
+
+| How are we meeting the SLA are published on a monthly basis |    |
 
 
 ## Baseline KPI Values:
@@ -80,4 +82,4 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## Future Scope:
 * Determining our response to observed service degradation.
-* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new SLAs will need to be established and published.
+* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new SLA will need to be established and published.
