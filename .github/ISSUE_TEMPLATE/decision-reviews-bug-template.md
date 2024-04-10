@@ -1,3 +1,12 @@
+---
+name: Decision Reviews Bug Issue
+about: Bug issues for the Decision Reviews team
+title: ''
+labels: ['Decision-Reviews-Team', 'needs-grooming', 'needs-refinement', 'bug']
+assignees: ''
+
+---
+
 ## What happened? 
 
 **Describe what went wrong**: 
