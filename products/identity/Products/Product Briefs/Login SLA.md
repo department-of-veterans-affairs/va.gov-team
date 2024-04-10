@@ -63,14 +63,13 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
-| ------------- |:-------------:| 
+| ------------- |:------------- | 
 | Language when publishing the SLA |   Would like UX help in crafting the publishing language          |
 
 
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------| 
-
 | How are we meeting the SLA are published on a monthly basis |    |
 
 
