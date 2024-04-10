@@ -130,7 +130,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 6. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device? [Yes, no]
 7. Are you able and willing to join the Zoom session from your mobile or desktop device using the magnification tools you need to see your screen? [Yes, no, does not apply]
 
-## Timeline - WORK IN PROGRESS, PLEASE ONLY REFER TO AS A GENERAL IDEA FOR NOW
+## Timeline
 
 |Date|Milestone|
 |:--|:--|
@@ -149,10 +149,10 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 ## Research sessions
 
 - Length of sessions: 1 hour
-- Buffer between sessions: 1 hour
+- Buffer between sessions: 30 minutes
 - Maximum sessions per day: 4 sessions
 
-### Availability – WORK IN PROGRESS, PLEASE ONLY REFER TO AS A GENERAL IDEA FOR NOW
+### Availability
 
 We will provide 20 time slots, with the aim to book 10 sessions.
 
@@ -160,11 +160,11 @@ We will provide 20 time slots, with the aim to book 10 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Monday, April 22|8-9am, 10-11am, 12-1pm, 2-3pm|
-|Tuesday, April 23|8-9am, 10-11am, 12-1pm, 2-3pm|
-|Wednesday, April 24|8-9am, 10-11am, 12-1pm, 2-3pm|
-|Thursday, April 25|8-9am, 10-11am, 12-1pm, 2-3pm|
-|Friday, April 26|8-9am, 10-11am, 12-1pm, 2-3pm|
+|Monday, April 22|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
+|Tuesday, April 23|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
+|Wednesday, April 24|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
+|Thursday, April 25|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
+|Friday, April 26|We will only add slots if needed|
 
 ## Team roles
 
