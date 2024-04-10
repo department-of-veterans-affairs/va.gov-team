@@ -12,7 +12,7 @@ Period - 04/10/2024 - 04/23/2024
            - [ ] BRD
     - 526ez sync with paper version 
        - Toxic Exposure
-         - [ ] Continue build on TE pages - Gulf War 2001    
+         - [ ] Continue build on TE pages - Gulf War 1990 / 2001    
          - [ ] Contract for Toxic Exposure fields between FE and BE 
          - [ ] Start work on data transformation for the new Toxic Exposure fields
       - Audit for 526ez and ancillary forms for all paper to digital form changes
