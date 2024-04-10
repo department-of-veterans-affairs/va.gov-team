@@ -161,6 +161,8 @@ Today, we're just going to pretend like you're signing in. Let's click on Login.
 
 ### Dashboard (Authenticated)
 
+> Screen: Dashboard (Authenticated)
+
 Okay, now we're on this page.
 
 - Can you describe this page to me?
@@ -213,7 +215,7 @@ Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 - [If not] Do they mention that they're unsure how much longer the form is?
 - [If not] Do they appear lost or disoriented in the form?
 
-### Sign in alert
+### Sign in interruption
 
 > **Skip** and go to [Who is your question about](#who-is-your-question-about) if they've already signed in.
 
@@ -234,16 +236,38 @@ Let's go ahead and click 'Sign in or create an account'.
 
 Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
 
-> Screen: [???]
+> Screen: Dashboard (Authenticated)
 
-[Note: I need to confirm where they will jump back to after sign in interruption.]
+Okay, so we're pretending like you just finished signing in.
+
+- Can you tell me what page we're on now?
+- What would you do next if you still wanted to ask the VA as a question about [ADD NEW SCENARIO]?
+- What do you expect to happen when you click 'Ask a new question'?
+
+Let's go ahead and click 'Ask a new question.'
+
+> Screen: Category
+
+- Can you describe this page to me?
+- What would you choose here?
+
+Okay great. Let’s choose `Education benefits and work study` and then go to the next page.
+
+> Screen: Topic
+
+- Okay, tell me about this page.
+- What would you choose here?
+
+Okay great. Let’s choose `[TOPIC]` and then go to the next page.
 
 **Key things to notice:**
 - Are they surprised by the sign in alert?
+- Do they move to close the alert right away?
 - Is it still not clear why they need to sign in?
 - What would they choose to do when the sign in alert appears? For example, would they sign in, go back and choose a different topic, etc.
 - Does the sign in screen seem familiar?
-- Is it clear that they can continue without re-answering the questions they've already answered?
+- Is it clear where they land after they sign in?
+- How do they react to needing to start over again?
 
 ## Through to submission (15 to 25 minutes)
 
@@ -262,6 +286,7 @@ Okay, we’ll choose `Myself` and continue.
 **Key things to notice:**
 - Do they choose `Myself` without being prompted?
 - Is anything unclear about the options on this page?
+- If they were interrupted to sign in, do they notice that this is the first 'new' question they're answering?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
@@ -287,17 +312,14 @@ Okay, great. Let's continue.
 
 > Screen: School information
 
-[NOTE: Check that nothing is pre-filled on this page when authenticated.]
-
-- We're not going to click on anything yet, so can you just describe to me what you would do on this page?
+- Without clicking anything yet, can you describe what you would do on this page?
 - What is this question asking for?
 - Do you need to share your school state *and* your residency state?
 
-Okay, for today, we'll pretend like you live in Virginia. Let's choose Virginia and then we'll continue.
+Okay, for today, we're not going to click on anything. We'll just pretend like you chose Virginia as your school state and we'll continue.
 
 **Key things to notice:**
 - Is it clear that you only need to give your school state or your residency state?
-- Do they have any issues choosing from the list of states?
 - [If included] Do they notice the progress indicator?
 - [If included] Does the progress indicator give them any additional information?
 - [If not] Do they notice that there's no progress indicator?
@@ -393,7 +415,7 @@ Okay, let's choose, 'I had a question' and continue.
 
 > Screen: Review and submit
 
-- Without clicking anything yet, can you describe this page to me?
+- Without clicking anything, can you describe this page to me?
 - What's the purpose of this page?
 
 Let's say that you reviewed your information and you're ready to submit your question.
