@@ -153,7 +153,7 @@ Labels: Claim status, PRDT: Claim-status-tool, CLMSTS: Timeline
 
 Participants were shown a prototype version of the My VA page that included a claim status card in Step 3 of the application process, with a slim alert inside of it indicating additional evidence is required from the Veteran ("An item needs your attention"). This card currently is live in the Claims Status Tool (CST), but not My VA. With this test, new slim alert content was tested - the hypothesis being this text, created by CAIA, would be more direct in letting users know 1) they need to take action, and 2) they will need to provide more details/documentation. The majority of participants not only understood action needs to be taken, but also expressed a general understanding of what might be required without any additional context provided.
 
->
+> "You know, depending on what, you know, it would depend on what the claim was for. It would either have to have maybe a doctor, a doctor's report or a eyewitness to a, to an accident, you know, to what, what happened to you. You know, it depend on what the claim would was in for." (P22)
 
 > 
 
