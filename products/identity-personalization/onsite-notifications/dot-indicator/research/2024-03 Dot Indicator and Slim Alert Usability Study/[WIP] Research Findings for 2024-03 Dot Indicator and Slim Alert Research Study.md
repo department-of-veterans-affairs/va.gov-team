@@ -79,14 +79,11 @@ Past research for My VA tells us that users want to see timely personalized upda
 
 We hypothesize that:
 
-- There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as Material Design. (Conclusion: Likely True)
+- There will be a need for more than one type of indicator, i.e. both a badge with a count and a dot, as we've seen in other popular design systems, such as Material Design. (Conclusion: not enough information - a clear preference from users was shown for the badge indicator, but the content of the tests didn't expressly provide much insight into whether multiple indicator types that are similar are necessary)
 - We expect that we may need to use a dark red color for the indicator to be useful for colorblind and low vision users, but that they will still be able to see and interpret the indicators. (Conclusion: Likely True - all colorblind tested users had no difficulty, but we only received feedback from 2 people)
 - We expect that the aria labels we have implemented for dot and badge indicators will deliver as close to the same experience as possible for screen reader users as a sighted user would have. ("Not enough information" - we did not complete any successful screen reader tests, with one user who utilized a nonstandard tool not hearing the aria tags called out)
-- We expect that there may be interesting findings for when screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is. (Not enough information)
-- We expect the slim alert's current content will highlight when a claim requires Veteran attention, but the default content included in the component may not be sufficient to inform them as-is (testing is an opportunity to get a better sense of what matters most with claim updates and how we can refine the messaging to better call out what needs attention). (Conclusion: Likely True)
-
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+- We expect that there may be interesting findings for when screen reader users would like to be alerted to indicators. We think there may be a better way to announce indicators than waiting until a user navigates to the specific link where the indicator is. (Not enough information - not enough assistive tech users participated)
+- We expect the slim alert's current content will highlight when a claim requires Veteran attention, but the default content included in the component may not be sufficient to inform them as-is (testing is an opportunity to get a better sense of what matters most with claim updates and how we can refine the messaging to better call out what needs attention). (Conclusion: Likely True - the majority of participants not only understood action needs to be taken, but also expressed a general understanding of what might be required)
 
 
 ## Key Findings
@@ -114,7 +111,7 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-**Finding 1**
+__Finding 1: The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators (9 of 15 participants, but only 11 actually assessed them).__
 
 Labels: label 1, label 2 
 
