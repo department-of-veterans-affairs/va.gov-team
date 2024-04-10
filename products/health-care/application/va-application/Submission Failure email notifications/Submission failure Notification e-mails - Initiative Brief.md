@@ -1,4 +1,4 @@
-# Initiative Brief - In-Progress Reminder Notifications
+# Initiative Brief - Submission Failure email Notifications
 
 ## Outcome Summary
 
