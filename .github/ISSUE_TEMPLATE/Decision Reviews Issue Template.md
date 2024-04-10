@@ -1,6 +1,17 @@
+---
+name: Decision Reviews Issue Template
+about: Issue template for the Decision Reviews team
+title: ''
+labels: ['Decision-Reviews-Team', 'needs-grooming', 'needs-refinement', 'needs-estimate']
+assignees: 'saderagsdale'
+
+---
+
 ## Value Statement
 **_As a_** user type
+
 **_I want to_** job to be done
+
 **_So that_** desired outcome(s)
 
 ---
