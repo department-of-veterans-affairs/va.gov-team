@@ -19,7 +19,7 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 * [Accessibility and Maintenance Standards for Federal Site Availability Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/2024-03%20Accessibility%20and%20federal%20regulation%20compliance%20with%20dashboards.md)
 * [Content Research For Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
 * [Authentication status internal communication for VA teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md)
-* 
+
 
 ## What's In Scope: 
 
