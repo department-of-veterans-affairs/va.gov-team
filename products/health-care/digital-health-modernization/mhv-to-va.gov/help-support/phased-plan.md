@@ -7,18 +7,23 @@ We believe My HealtheVet users will struggle to find the "right" phone number on
 
 The cartography team identified this risk in Fall 2023 and began prioritizing this work in Sprint 27 (April 1, 2024). Our initial goals are to build on earlier discovery work and identify solution(s) that can begin to aid users in getting help when and where they need it, in the clearest way possible. We will aim to launch a low-risk MVP solution first, and move toward research to validate more complex concepts with Veterans before moving forward with those ideas. 
 
-## Known Veteran needs and assumptions
+## Known preferences / principles based on other teams' research
+* People don't want to start over at the beginning (want a hand-off where next person knows what I told the first person)
+
+## Hypotheses around Veteran preferences
+We expect that: 
+* people want quick help (not to wait 3 days for an answer)
+* people want to be able to find help + support when they need it (and we shouldn't hide it, or bury it at the bottom of a page)
+* most people will recognize a need for help in the middle of tasks, within tools.
+*people don't understand or want to spend time being routed to various helpdesks: they want us to give them the right number upfront.
+* "smart" help is better help
+  * i.e. delivering the best phone number for secure messages on the SM pages; the correct pharmacy number on a prescription or medication page; and the facility phone number on a specific appointment details page. 
 
 
 ## Current help and support landscape
 
-**What types of questions does the MHV Call Center answer today?** 
-* MyHealtheVet helpdesk call center data comes in through VSignals, with about 30,000 datapoints per month. Kophie Mathis is solely responsible for combing through this data, and he reports out trends in the My HealtheVet Feedback dashboard.
-* So far, we know that the largest clusters of calls come in about:
-  * Sign-in and account access related issues
-  * Questions about tools (Appointments, Messages, and prescriptions)
-* **Example (see table below)**: MHV Analytics Dashboard  > Call center activity – 15 months of data (Jan 1, 2023 - April 9, 2024)
-  * _There are overlaps in the data – this is due to the program they use not having a well-curated taxonomy, and the fact that operators are categorizing calls on the fly._
+**What help topics does the MHV Call Center receive questions about now?** 
+MyHealtheVet helpdesk call center data comes in through VSignals, with about 30,000 datapoints per month. Kophie Mathis is responsible for combing through this data, and he reports out trends in the My HealtheVet Feedback dashboard. A fifteen-month breakdown of call topics (January 1, 2023-April 9, 2024) is included in the table below (_There are overlaps in the data – this is due to the program they use not having a well-curated taxonomy, and the fact that operators are categorizing calls on the fly_).
  
 **Area**|**Interactions**|**% of total interactions**
 :-----:|:-----:|:-----:
