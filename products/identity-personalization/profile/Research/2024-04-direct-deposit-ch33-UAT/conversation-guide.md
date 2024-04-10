@@ -4,11 +4,11 @@
 
 - Check participant information to see what login credential they reported having (`Login.gov` or `ID.me`).
 
-## Introduction - # minutes
+## Introduction - 1 minute
 
 Thanks for joining me today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily.
 
-The team I work with has made some updates to the backend system that helps run the direct deposit portion of each person’s account profile. I’m meeting with people like yourself to help me test these updates to make sure they are working as expected. 
+The team I work with has made some updates to the backend system that helps run the direct deposit portion of each person’s account profile. I’m meeting with people like yourself to help me test these updates to make sure they are working as expected in the user interface. 
 
 Before we start, I wanted to go over a few details:
 
@@ -21,7 +21,7 @@ I have some teammates who would like to observe our session and take notes for m
 
 Do you have any questions for me before we begin?
 
-## Set-up questions - # minutes
+## Set-up questions - 1 minute
 
 1. My notes indicate that you receive direct deposit payments for:
 	- [ ] just compensation & pension – NOT education benefits 
@@ -31,8 +31,8 @@ Do you have any questions for me before we begin?
 2. I also have in my notes that you use `Login.gov` or `ID.me` to log into VA.gov, is that correct? 
     - If participant has neither a `Login.gov` nor an `ID.me` account, end the session.
 3. We're going to be looking at the direct deposit section of the website together and I'll need you to re-enter your direct deposit info to confirm everything is working as expected . Do you have your bank information handy? _If not, give them some time to get it together_.
-
-## Context  - # minutes
+4.  **Additional context for education/comp&pen participants**: Because you have both kinds of benefit payments, I mentioned that our team made backend changes and we want to confirm these changes in the user interface. Just to give a little more context about that, there used to be two places to put in direct deposit payment information, but benefit payments must be the same for both after 4/20.
+## Context – 1 minute
 
 The team I work with has made some updates to the backend system that helps run the direct deposit part of each person’s account profile. 
 
@@ -40,7 +40,7 @@ I’m meeting with people like yourself to help me test these updates to make su
 
 This will involve trying to make some edits to your bank account information – however, none of the edits we try to make will actually save, so your bank account information will remain the same.
 
-## Share screen and navigate to VA.gov - # minutes
+## Share screen and navigate to VA.gov - 1 minute
 
 For the next step, I'll have you share you screen so we can look at VA.gov together. 
 
@@ -51,7 +51,7 @@ _Once they arrive at VA.gov:_ Go ahead and log in.
 - [ ] Participant logs in with `Login.gov`  
 - [ ] Participant logs in with `ID.me` 
 
-## UAT Task #1: Confirm LOA3 account - # minutes
+## UAT Task #1: Confirm LOA3 account - 2 minutes
 
 Alright, we’re just going to pause and make sure we’re seeing the right information on the screen (an identity-verified account).
 
@@ -63,7 +63,7 @@ Alright, we’re just going to pause and make sure we’re seeing the right info
 - There is a "Verify your identity" prompt (means they are not LOA3).
 ```
 
-## UAT Task #2: Confirm `read-only` Direct Deposit with LOA3 account - # minutes
+## UAT Task #2: Confirm `read-only` Direct Deposit with LOA3 account - 2 minutes
 
 _Once LOA3 account is confirmed:_ Next, let’s go look at your Direct Deposit settings. 
 
@@ -77,9 +77,10 @@ While we’re in read-only mode, can you confirm the following payment informati
 ```
 - There is a message saying they are *not* eligible for direct deposit- they might not receive any kind of payment. 
 - There is a prompt to set up direct deposit- they might receive disability compensation via check instead.
+	- Before ending, double-check if they get a paper check instead!
 ```
 
-## UAT Task #3: Confirm API data via dev tool widget - # minutes
+## UAT Task #3: Confirm API data via dev tool widget - 2 minutes
 
 _After confirming bank info with participant:_ Next, we’re going to double-check this same information on the back-end of this page. I’d like to direct your attention to a little tool we’ve temporarily added to this page for the purposes of this testing session.
 
@@ -91,14 +92,13 @@ Can you confirm whether the information shown in this little tool matches the in
 
 Again, this little tool is only available during our testing today, it won’t show up in your account again. Thanks for helping us peek under the hood to make sure things are working correctly!
 
-## UAT Task #4: Cancel edit of direct deposit form - # minutes
+## UAT Task #4: Cancel edit of direct deposit form - 2 minutes
 
 Next, I'll have you click to `edit` your direct deposit info. Now click `cancel`, and let's see what happens.
 
 - [ ]  When the participant clicks `edit` and then `cancel`, their direct deposit info remains the same.
 
-
-## UAT Task #5: Edit and try to save blank form - # minutes
+## UAT Task #5: Edit and try to save blank form - 2 minutes
 
 For the next few tasks, I need your help testing the system to make sure some safeguards are working correctly to prevent submission errors.
 
@@ -108,7 +108,7 @@ We should see an error message and not be able to submit the form.
 
 - [ ]  When the participant tries to `save` a bank form, they are unable to submit the form, and their direct deposit info remains the same.
 
-## UAT Task #6: Edit and try to save with an invalid routing number - # minutes
+## UAT Task #6: Edit and try to save with an invalid routing number - 3 minutes
 
 Okay, go ahead and click edit again, and this time I will have you enter an **invalid routing number**.
 
@@ -121,7 +121,7 @@ Click `save` and we should see the system prevent us from putting in a routing a
 
 - [ ] When the participant clicks `save`, they cannot submit the form due to the invalid routing number.
 
-## UAT Task #7: Edit and try to save with short account number - # minutes
+## UAT Task #7: Edit and try to save with short account number - 3 minutes
 
 This task is similar to the last one, but instead of trying to save an invalid routing number, we’re going to try and save a **bank account number that’s too short**.
 
@@ -134,7 +134,7 @@ Click `save` and we should see the system prevent us from putting in an account 
 
 - [ ] When the participant clicks `save`, they cannot submit the form due to the account number being ***under*** the character limit.
 
-## UAT Task #8: Edit and try to save with long account number - # minutes
+## UAT Task #8: Edit and try to save with long account number - 3 minutes
 
 This task is similar to the last one, but instead of trying to save an account number that’s too short, we’re going to try and save an **account number that’s too long**.
 
@@ -147,7 +147,7 @@ Click `save` and we should see the system prevent us from putting in an account 
 
 - [ ] When the participant clicks `save`, they cannot submit the form due to the account number being ***over*** the character limit.
 
-## UAT Task #9: Edit, re-enter direct deposit information, and click save for email notification - # minutes
+## UAT Task #9: Edit, re-enter direct deposit information, and click save for email notification - 3 minutes
 
 As the last task for this part, I want to make sure that re-entering and saving your existing bank information triggers a confirmation email. 
 
@@ -155,9 +155,19 @@ Let’s click `edit` again, and this time, re-enter your own bank information.  
 
 Once all your information is in the form, click `save`.
 
-_Once that step is complete_: That action should cause a confirmation email to get sent to your email address. Can you check and see if you've received a conformation email? (_Nothing has been changed, the email just just confirming that your information has been resaved_)
+_Once that step is complete_: That action should cause a confirmation email to get sent to your email address. Can you check and see if you've received a conformation email? (Nothing has been changed, the email just just confirming that your information has been resaved.)
+
+_Once the participant confirms email receipt_: We’d like to double-check that the email is showing the correct information. Will you share your screen with us (or read it aloud if not)? 
 
 - [ ] The participant receives a confirmation email after saving their information.
+
+## UAT Task #10: Account Security page – 3 minutes
+
+For the last task today, I’d like to direct your attention to the sidebar menu to your left. What do you expect you’d find on that page if you clicked on Account Security?
+
+Alright, let’s click on it and take a look.
+
+- [ ] Participant shares expectations and impressions.
 
 ## Closing - 1 minute
 
