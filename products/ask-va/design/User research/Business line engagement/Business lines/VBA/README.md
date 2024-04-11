@@ -11,14 +11,14 @@
 - Debt for benefit overpayments and copay bills
 - Burials and memorials
 
-Note: Many categories in Ask VA route to the VBA-ART queue.
+Note: There are many Ask VA stakeholders from VBA. This VBA folder represents the stakeholders from VBA that are not included in their own respective folders (like VR&E, PMC, etc.). Many categories in Ask VA route to the VBA-ART queue.
 
 ### Key stakeholders
 
 |Stakeholder|Business area|
 |:--|:--|
-|Robert Eakman|VBA-OTED (Office of Transition & Economic Development)|
-|Breon Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
+|Robert (Matt) Eakman|VBA-OTED (Office of Transition & Economic Development)|
+|Victor (Breon) Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
 |Scott Hadley|VBA|
 
 ### Engagements
