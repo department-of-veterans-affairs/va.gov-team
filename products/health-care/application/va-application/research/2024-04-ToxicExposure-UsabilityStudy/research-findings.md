@@ -1,14 +1,13 @@
-<br>**This is a template, PLEASE MAKE A COPY**
 
 ---
 
-# [Study] Research Findings 
+# Research Findings for 10-10EZ Toxic Exposure Questions Usability Study 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), [Health Enrollment Team, 10-10EZ] **
 
-Date: MM/DD/YYYY
+Date: April 2024
 
-[Designer 1] [email], [Designer 2] [email]
+Angela Agosto (angela.agosto@adhocteam.us) and Jessica Stump (jessica.stump@adhocteam.us)
 
 _Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
 
@@ -27,7 +26,9 @@ _[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.
 
 _Then, describe your goals for this research_
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
+- Goal 1: Discover areas where the content may not be clear or need additional explanation
+- Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer
+- Goal 3: Discover unknown usability or accessibility issues
 
 
 
@@ -44,7 +45,9 @@ _[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team
 
 ## Methodology 
 
-_Brief description of method chosen_
+**Moderated remote usability study**
+- 10-10EZ Form in Production on VA.gov
+- Unauthenticated or authenticated via the partipants account
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
 
