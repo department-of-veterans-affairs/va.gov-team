@@ -26,8 +26,7 @@ Scope of this UAT is to validate that the requirements for the SlackBot have bee
 | As a developer, I want to check on the status of my data pull so I click on the GitHub issue link in the Slack response. | Developer is able to visit the GitHub issue and see any status updates. |  |  |  |
 | As a developer in the VA, I need help with an issue that is not related to authentication, a pr review or a data pull.  I can go to the vsp-identity SlackBot and type /identity-support, I should be able to request help. | Developer is able to complete the form and a GitHub issue is created. |  |  |  |
 | As a developer, I want to check on the status of my "other" issue so I click on the GitHub issue link in the Slack response. | Developer is able to visit the GitHub issue and see any status updates. |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+
 
 ### Open Questions
 - If people have additional questions or context they want to add to an issue, where should they address that?  GitHub or the Slack thread?
