@@ -31,3 +31,4 @@ Scope of this UAT is to validate that the requirements for the SlackBot have bee
 
 ### Open Questions
 - If people have additional questions or context they want to add to an issue, where should they address that?  GitHub or the Slack thread?
+- What should happen when a ticket is closed?  
