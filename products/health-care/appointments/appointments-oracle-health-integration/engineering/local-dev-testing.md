@@ -14,13 +14,16 @@ This document is intended to provide guidance and a reference list of commands f
 Because vets-api is configured to use one eCaddy provides a reverse proxy for `vetsapi-patient-gateway` and `vaos-service`
 * > brew install caddy
 
-Download the [Caddyfile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-oracle-health-integration/engineering/Caddyfile) and then from the directoy fo the file run caddy
+Download the [Caddyfile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-oracle-health-integration/engineering/Caddyfile) and update the ports to match your local CES stack.
+
+Then from the directory of the file run caddy
+
 * > caddy start
 
 ### Configuring local setup
 Follow the guidance detailed in the Vets-api README for configuring local settings: https://github.com/department-of-veterans-affairs/vets-api?tab=readme-ov-file#configuration
 
-Note that if you are running CES via Caddy, the `va_mobile: url` value must be overriden to use the local url where the CES stack is running.
+Note that if you are running CES via Caddy, the `va_mobile: url` value must be overriden to use your local Caddy URL.
 
 ## Testing Appointments workflow
 ### Logging in
