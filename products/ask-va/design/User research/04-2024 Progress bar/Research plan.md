@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: April 3, 2024
+Last updated by @tygindraux: April 11, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -118,7 +118,6 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |At least 3|Identify as Black, Hispanic, Asian or Native|
 |At least 2|Identify as a gender other than male|
 |At least 2|Identify as LGBTQ+|
-|At least 2|Use screen magnification, like, ZoomText, ZoomText Fusion, Magnifier (Windows), Zoom (Apple)|
 
 ### Screener questions
 
@@ -127,8 +126,6 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no]
 4. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet. [Yes, no]
 5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. [Yes, no]
-6. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device? [Yes, no]
-7. Are you able and willing to join the Zoom session from your mobile or desktop device using the magnification tools you need to see your screen? [Yes, no, does not apply]
 
 ## Timeline
 
@@ -137,22 +134,26 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Friday, April 12|Research review|
 |Thursday, April 18|Prototypes are ready|
 |Thursday, April 18|Team pilot session|
-|Thursday, April 18|CAIA pilot session|
+|TBD April 22, 29 or 30|CAIA pilot session: Screen mag|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
 |From Thursday, May 2|Share findings|
 
 ## Pilot sessions
 
+Perigean does **not** need to set up our pilot sessions. Tyler will schedule and add participants herself.
+
 ### Team pilot
 
-- Pilot participant: [TBD] (Tyler will add to pilot sessions herself)
+- Pilot participant: [TBD]
 - Date and time of pilot session: April 18 at [TBD]
 
 ### CAIA pilot
 
-- Pilot participant: [TBD] (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: April 18 at [TBD]
+Although we aren't recruiting any AT users for this study, we will run a pilot session with CAIA where they test the prototypes using screen magnification. This will inform future research we do in staging, where we'll include screen magnification as well as screen reader users.
+
+- CAIA specialist: 
+- Date and time of pilot session: April 22, 29 or 30 at [TBD]
 
 ## Research sessions
 
@@ -180,7 +181,7 @@ We will provide 20 time slots, with the aim to book 10 sessions.
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
 * Participant for pilot test: [TBD] (Tyler will add to pilot session herself).
-* Accessibility specialist: [TBD]
+* Accessibility specialist: We won't have a specialist for this study, although we will work with Jamie to run a screen magnification pilot.
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 
@@ -188,5 +189,5 @@ Sessions will be limited to no more than 5 people, including 1 participant, 1 mo
 
 ## Approved by:
 
-- [PENDING] Becky Phung, PO on [DATE]
+- Becky Phung, PO on April 10, 2024
 - [PENDING] Shane Strassberg, VA Research Ops on [DATE]
