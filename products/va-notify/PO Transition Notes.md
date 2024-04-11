@@ -22,6 +22,15 @@
 - In-progress [reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/in-progress-reminders.md).  We should analyze the effectiveness of these reminders before creating more
 - In addition to the forms listed above, the team is working on the 1990 MEB form with the Education team.  Some work needs to be completed by the MEB team before we  proceed.  This work is currently slated for August 2024.
 
+**Decision Letter Notification**
+- Benefits team has agreed to integrate with the event bus to produce an event when a decision letter is available 
+- UTM track link in the email that points to download letters in VA.gov
+- Who is going to write the trigger to VA Notify  API?
+- If callbacks are needed will they go to a webhook or will an event be produced on the bus?
+- Slack channel #decision-letter-notification-taskforce
+- Start with email, then sms or push?
+
+
 **MHV on VA.gov**
 * Appointment Reminders
   - Once MHV preference and email contant information is stored in VA Profile, VEText can begin sending email appointment reminders in addition to SMS.
