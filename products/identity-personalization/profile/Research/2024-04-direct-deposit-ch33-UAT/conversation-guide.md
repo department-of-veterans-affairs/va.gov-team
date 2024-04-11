@@ -128,7 +128,7 @@ This task is similar to the last one, but instead of trying to save an invalid r
 Let’s fill the form out in order:
 - `Checking` as the type of account
 - `25 60 74 974` as the routing number
-- `1234` for the short account number 
+- `123` for the short account number 
 
 Click `save` and we should see the system prevent us from putting in an account number that is too short.
 
