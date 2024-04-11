@@ -43,7 +43,6 @@ The tests will be conducted online at the participant’s leisure.
 ### Research Materials
 - [Optimal Workshop Survey Preview link](https://dj540s05.optimalworkshop.com/questions/g)
 - Survey Outline 
-- Recruitment intake ticket
 
 ## Recruitment
 7 cohorts, 9 participants each, total 63 respondents, minimum threshold of 35 completed responses. 
