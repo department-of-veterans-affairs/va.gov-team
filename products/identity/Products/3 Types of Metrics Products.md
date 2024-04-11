@@ -34,7 +34,24 @@ SLO is an acronym for Service Level Objectives, which are related to monitoring 
 
 [Login SLO Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-df6fa7bc92140323ffecbf4e10b16346?refresh_mode=sliding&from_ts=1710276619913&to_ts=1712868619913&live=true)
 
-We will use the SLO in order to create Login SLA -- Service Level Agreements -- published to both Veterans and other VA.gov product teams, as well as determine our responses to incidents service level degradation.
+We will use the SLO in order to create Login SLA -- Service Level Agreements -- published to both Veterans and other VA.gov product teams, as well as determine our responses to incidences of service level degradation.
 
 [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
 [Login SLA Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLA.md)
+
+## Authorization Metrics
+Authorization metrics (AKA "External Data Reporting") are the metrics we are sharing with VA leadership surrounding the full authorization process, which is defined as a person doing the followin: 
+1. Choosing one of our CSP (Credential Service Providers) on the VA.gov sign-in page.
+2. Providing credentials on the CSP's login.
+3. Returning back to VA.gov with their identity verified.
+
+Some of the data we might provide on this page:
+- Total authentications
+- Total authentications by CSP
+- New verified users
+- New verified users by CSP
+- Unique authentications
+- Unique authentiations by CSO
+
+This product is still being defined, but we suspect that we will create an easily understandable dashboard with some of these mstrics
+
