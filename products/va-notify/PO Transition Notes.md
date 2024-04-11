@@ -28,3 +28,5 @@
     + Link to signed MOU for PHI/PII permissions
     + VA Profile ticket to store  PHI/PII permission
     + A separate ticket with VA.gov authenticated experience will be needed to display the PHI permission in the notifications settings page.
+    + In support of the PHI permission work, VA Notify plans to work on personalization redaction...**explain what this is**
+    + 
