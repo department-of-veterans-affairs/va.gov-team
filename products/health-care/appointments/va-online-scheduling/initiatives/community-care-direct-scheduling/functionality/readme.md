@@ -8,4 +8,4 @@
 [Review Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712435187811/f3ab95fd81a0a49af7d20f4629e9fee0356bb8d9)<br>
 [Download PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/14951461/CC.direct.scheduling.high.level.visual.data.flow_2024-04-11_21-26-25.pdf)<br>
 
-<img width="990" alt="CC direct scheduling high level visual data flow (WIP)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/c3b92404-04d3-420d-be41-d70e4fab6c1f">
+<img width="1000" alt="CC direct scheduling high level visual data flow (WIP)" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/c3b92404-04d3-420d-be41-d70e4fab6c1f">
