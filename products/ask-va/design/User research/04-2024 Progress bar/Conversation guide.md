@@ -123,8 +123,6 @@ Thanks! Now I’m able to see your screen too.
 
 > Screen: Home page (Unauthenticated)
 
-`If screen magnification`: And before we get started, will you be using any technology to help you magnify your screen today?
-
 Okay, so we’re not going to click on anything yet. 
 
 I’m going to give you a moment to look at this page.
@@ -161,7 +159,6 @@ And I'll remind you of this scenario as we go along.
 - Is it clear when they need to sign in or when it is optional?
 - Are the benefits of signing in clear?
 - Do they mention the emergency content?
-- Do they mention any assistive technology like screen magnification?
 
 </details>
 
