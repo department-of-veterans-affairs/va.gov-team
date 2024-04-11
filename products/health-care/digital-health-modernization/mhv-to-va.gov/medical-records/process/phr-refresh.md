@@ -50,7 +50,7 @@ sequenceDiagram
 	participant FHIR as MHV HAPI<br />FHIR Server
 	loop Every 2 seconds on 202 response
 		VW->>VA: GET /allergies
-		alt If not called in the last 3600 seconds
+		alt PHR refresh not called in the last 3600 seconds
 			VA->>MHVAPI: POST /refresh/{icn}<br/>async Sidekiq job
 			MHVAPI->>FHIR: Create patient record
 		end
@@ -77,11 +77,17 @@ sequenceDiagram
 	participant VA as vets-api
 	participant MHVAPI as MHV API
 	participant FHIR as MHV HAPI<br />FHIR Server
+	VW->>VA: GET /allergies
+	Note over VW,VA: See other diagram<br />for this interaction
 	loop Every 2 seconds while data is stale
 		VW->>VA: GET /status
 		VA->>MHVAPI: GET /status/{icn}
 		MHVAPI-->>VA: HTTP 200 status obj.
 		VA-->>VW: HTTP 200 status obj.
+	end
+	alt Allergy lastSuccessfulUpdate has changed from stale to current
+		VW->>VA: GET /allergies
+		Note over VW,VA: See other diagram<br />for this interaction
 	end
 ```
 
