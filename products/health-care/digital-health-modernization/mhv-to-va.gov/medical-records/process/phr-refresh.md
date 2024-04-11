@@ -52,17 +52,20 @@ sequenceDiagram
 		VW->>VA: GET /allergies
 		alt If not called in the last 3600 seconds
 			VA->>MHVAPI: POST /refresh/{icn}<br/>async Sidekiq job
+			MHVAPI->>FHIR: Create patient record
 		end
 		alt Patient record doesn't exist in FHIR
 			VA->>FHIR: GET /Patient
-			FHIR->>VA: HTTP 500 "HAPI-1363: Either No patient<br />or multiple patient found"
-			VA->>VW: HTTP 202 ACCEPTED
-		else Patient record found in FHIR
-			VA->>FHIR: GET /Patient
-			FHIR->>VA: HTTP 200 Patient
+			FHIR-->>VA: HTTP 500 "HAPI-1363: Either No patient<br />or multiple patient found"
+			VA-->>VW: HTTP 202 ACCEPTED
+		else Patient record exists in FHIR
+			alt Patient record not loaded in session
+				VA->>FHIR: GET /Patient
+				FHIR-->>VA: HTTP 200 Patient
+			end
 			VA->>FHIR: GET /AllergyIntolerance
-			FHIR->>VA: HTTP 200 AllergyIntolerance
-			VA->>VW: HTTP 200 AllergyIntolerance
+			FHIR-->>VA: HTTP 200 AllergyIntolerance
+			VA-->>VW: HTTP 200 AllergyIntolerance
 		end
 	end
 ```
@@ -77,8 +80,8 @@ sequenceDiagram
 	loop Every 2 seconds while data is stale
 		VW->>VA: GET /status
 		VA->>MHVAPI: GET /status/{icn}
-		MHVAPI->>VA: HTTP 200 status obj.
-		VA->>VW: HTTP 200 status obj.
+		MHVAPI-->>VA: HTTP 200 status obj.
+		VA-->>VW: HTTP 200 status obj.
 	end
 ```
 
