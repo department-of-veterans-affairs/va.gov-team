@@ -1,2 +1,2 @@
-[Research repository ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/512)
-[https://app.enjoyhq.com/projects/woOQp94km/inbox/documents?documentId=509a05dc-24df-4fee-b608-d0d911846878&highlightId=&page=0&query=&sortBy=original_created_at&stats=eyJ0eXBlIjoiIiwicHJvcGVydHkiOiIiLCJuZXN0ZWRQcm9wZXJ0eSI6IiIsImJyZWFrZG93biI6IiIsImNoYXJ0IjoiIiwic2l6ZSI6IjEwIiwic2VyaWVzIjpudWxsLCJyZXBvcnRJZCI6bnVsbH0%253D&statsEnabled=false](EnjoyHQ project)
+[Research repository ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/512)  
+[EnjoyHQ project](https://app.enjoyhq.com/projects/woOQp94km/inbox/documents?documentId=509a05dc-24df-4fee-b608-d0d911846878&highlightId=&page=0&query=&sortBy=original_created_at&stats=eyJ0eXBlIjoiIiwicHJvcGVydHkiOiIiLCJuZXN0ZWRQcm9wZXJ0eSI6IiIsImJyZWFrZG93biI6IiIsImNoYXJ0IjoiIiwic2l6ZSI6IjEwIiwic2VyaWVzIjpudWxsLCJyZXBvcnRJZCI6bnVsbH0%253D&statsEnabled=false)
