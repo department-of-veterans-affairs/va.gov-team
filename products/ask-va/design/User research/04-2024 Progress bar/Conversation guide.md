@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: April 8, 2024
+Last updated by @tygindraux: April 11, 2024
 
 ## Moderator logistics
 
@@ -94,11 +94,16 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
     - How was the support you received?
     - Have you ever heard of Ask VA or AVA?
 
+`If screen magnification`
+
+- And before we get started, will you be using any technology to help you magnify your screen?
+
 <details>
   <summary>Key things to notice</summary>
 
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
+- Do they mention any assistive technology like screen magnification?
 
 </details>
 
