@@ -24,9 +24,8 @@ For this first iteration, success will be determining SLOs for:
     * Seeing information.
     * Logging out.
   * Response Time
-    * How fast should things load?
-      * Definition of "service degradation" in each case.
-      * Creating a monitoring plan to check on service degradation.   
+    * How fast are things loading?
+      
 
 
 
