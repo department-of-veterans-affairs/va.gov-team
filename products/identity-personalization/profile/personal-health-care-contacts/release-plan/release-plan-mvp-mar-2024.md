@@ -23,12 +23,11 @@ This MVP is a read-only addition to the Profile and Profile Hub products. Person
 
 ### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN]
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Number of users: 1
+- Number of bugs identified / fixed: 0
+- Was any downstream service affected by the change?: yes/no, NO
+- Types of errors logged: n/a
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
   - If yes, what: [FILL_IN ticket numbers]
 
 
@@ -43,8 +42,8 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 #### Launch go/no-go:
 - Launch readiness checklist [github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79017)
 
-#### Desired date range: [TBD]
-- Launch ticket [TBD]
+#### Desired date range: April 8, 2024
+- [Launch ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79017)
 
 #### How will you make the product available in production while limiting the number of users who can find/access it: 
 - Set flipper to the appropriate percentage of users.
@@ -63,8 +62,8 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 2 days
+- Percentage of Users (and roughly how many users do you expect this to be): 20% got us 500 users in about 26 hrs
 
 #### Results
 
