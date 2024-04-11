@@ -171,10 +171,10 @@ ________________________________________________________________________________
         - 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
         - ✔️ 🟩 [[FE] Include a parameter for 'timeToComplete' in /travel-claims to indicate time taken for Veteran from auth to submitting travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79739)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
+        - ✔️ 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - ✔️ 🟥 [eCheck-in: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
-        - 🟥 [[Design] Create Final Wireframes for eCheck-in w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78320)        
+        - ✔️ 🟥 [[Design] Create Final Wireframes for eCheck-in w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78320)        
 - **GOAL: Increase PCI Usability**    
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
@@ -187,7 +187,7 @@ ________________________________________________________________________________
         - 🟦 [[BE] Implement VAOS Appointment Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
-        - 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
+        - ✔️ 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
@@ -197,7 +197,7 @@ ________________________________________________________________________________
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - TBD          
 - **GOAL: Address Tech Debt**
-    - 🟥 [[UX] Create new figma file for content and document variations of text messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79459)
+    - ✔️ 🟥 [[UX] Create new figma file for content and document variations of text messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79459)
     - ✔️ 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
     - 🟩 [Remove Un-used Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79391)
     - **Sub Goal: DevOps Improvements**
