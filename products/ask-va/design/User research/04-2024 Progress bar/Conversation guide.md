@@ -600,5 +600,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- [PENDING] Becky Phung, PO on [DATE]
+- Becky Phung, PO on April 10, 2024
 - [PENDING] Shane Strassberg, VA Research Ops on [DATE]
