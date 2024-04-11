@@ -25,7 +25,7 @@ Reference: [Identity SlackBot Documentation](https://github.com/department-of-ve
 | As a developer in the VA, I need help with a PR review.  I can go to the vsp-identity SlackBot and type /identity-support, I should be able to request help. | Developer is able to complete the form and a GitHub issue is created. |  |  |  |
 | As a developer, I want to check on the status of my PR review so I click on the GitHub issue link in the Slack response. | Developer is able to visit the GitHub issue and see any status updates. |  |  |  |
 | As a developer in the VA, I need help with a data pull.  I can go to the vsp-identity SlackBot and type /identity-support, I should be able to request help. | Developer is able to complete the form and a GitHub issue is created. |  |  |  |
-| As a developer, I want to check on the status of my data pull so I click on the GitHub issue link in the Slack response. | Developer is able to visit the GitHub issue and see any status updates. |  |  |  |
+| As a requester, I want to check on the status of my data pull so I revisit the Slack thread that was created upon my ticket submission. | Requuester is able to return to the Slack thread and see any status updates. |  |  |  |
 | As a developer in the VA, I need help with an issue that is not related to authentication, a pr review or a data pull.  I can go to the vsp-identity SlackBot and type /identity-support, I should be able to request help. | Developer is able to complete the form and a GitHub issue is created. |  |  |  |
 | As a developer, I want to check on the status of my "other" issue so I click on the GitHub issue link in the Slack response. | Developer is able to visit the GitHub issue and see any status updates. |  |  |  |
 
