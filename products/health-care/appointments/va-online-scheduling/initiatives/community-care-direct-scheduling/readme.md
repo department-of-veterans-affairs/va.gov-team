@@ -2,7 +2,7 @@
 
 ## Background
 
-### Clevaland-Dole Act
+### Cleland-Dole Act
 
 **What:** Addresses Veteran homelessness, access to care, community care, mental health, research, telehealth, prostate cancer, provider oversight and transparency, long-term care, rural health, benefits, information technology and more.
 
