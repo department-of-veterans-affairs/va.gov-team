@@ -11,7 +11,8 @@
 - Debt for benefit overpayments and copay bills
 - Burials and memorials
 
-Note: There are many Ask VA stakeholders from VBA. This VBA folder represents the stakeholders from VBA that are not included in their own respective folders (like VR&E, PMC, etc.). Many categories in Ask VA route to the VBA-ART queue.
+#### Note about VBA
+There are many Ask VA stakeholders from VBA. This VBA folder represents the stakeholders from VBA that are not included in their own respective folders (like VR&E, PMC, etc.). Many categories in Ask VA route to the VBA-ART queue.
 
 ### Key stakeholders
 
