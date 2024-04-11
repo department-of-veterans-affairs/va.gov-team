@@ -34,33 +34,43 @@ _Then, describe your goals for this research_
 
 ## Research Questions
 
-_Research questions here_
+**Goal 1: Discover areas where the content may not be clear or need additional explanation**
+- Are there any questions where the Veteran says additional info would be helpful?
+- Do Veterans mention the dates missing or that they would be helpful?
+- Is it preferred that questions are optional, can be skipped, or to be given an explicit "I don't know" option?
+- Is something more than content needed to help Veterans answer these service questions? (A link or a map for example)
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
+**Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veteran's behalf to answer**
+- Do Veterans feel they should be providing this information or is this information they feel the VA should already have?
+- What types of information do Veterans expect the VA to have access to?
+- Do Veterans want the option to upload digital documents or proof of their exposures?
+- How difficult or easy will it be for Veterans to recall or look up specific service dates and/or find supporting documentation to upload?
 
+**Goal 3: Discover unknown usability or accessibility issues**
+- Are there any accessibility issues with the bulleted list format of some questions? We're curious specifically for the extensive list on the Gulf War locations page.
+- Do on-field error messages often occur? If so, are Veterans struggling with the messaging to get errors resolved?
 
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
-**Moderated remote usability study**
+We conducted about hour-long **moderated remote usability sessions** from April 1-5, 2024. 
 - 10-10EZ Form in Production on VA.gov
-- Unauthenticated or authenticated via the partipants account
+- Unauthenticated or authenticated via the partipants account and ability
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
+#### We assume... some might have issues recalling the places/dates they served with how the questions are worded.
+- Likeyly True
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
 
-_Hypothesis statement_
+#### We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history information.
+- Maybe True
 
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+#### We assume... some Veterans might want additional explanatory visuals such as maps or links to help them with quicker recall of these service location questions.
+- Likey False
 
 
 ## Key Findings
@@ -167,12 +177,11 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+- [Mural board] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709573584989/d47237729c87fee8ec55db12db994920c6f26f24?sender=uadf1ed7fe7c76f0914967329)
 
 ## Pages and applications used
 
-Link to prototypes or pages that were tested
+- [Figma page](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=450-19244&mode=design&t=7hllFcRZ1zas2P7D-0) capturing ticket of state of production during test
 
 
 ## Other supporting documents created
