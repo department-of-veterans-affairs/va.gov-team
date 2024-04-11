@@ -136,16 +136,23 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |:--|:--|
 |Friday, April 12|Research review|
 |Thursday, April 18|Prototypes are ready|
-|Thursday, April 18|CAIA pilot session|
 |Thursday, April 18|Team pilot session|
+|Thursday, April 18|CAIA pilot session|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
 |From Thursday, May 2|Share findings|
 
-## Pilot session
+## Pilot sessions
+
+### Team pilot
 
 - Pilot participant: [TBD] (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: [TBD]
+- Date and time of pilot session: April 18 at [TBD]
+
+### CAIA pilot
+
+- Pilot participant: [TBD] (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: April 18 at [TBD]
 
 ## Research sessions
 
