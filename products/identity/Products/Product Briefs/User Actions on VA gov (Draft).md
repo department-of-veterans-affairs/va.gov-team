@@ -5,7 +5,7 @@ Show Veterans their actions on VA.gov
 
 
 ## Problem Statement: 
-Currently, Veterans have no way of seeing the actions they've taken on VA.gov
+Currently, Veterans have no way of seeing when they've logged into VA.gov, showing them this could lead to discovery of fraud.
 
 
 ## Relevant Documents:
