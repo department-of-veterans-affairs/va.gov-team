@@ -37,6 +37,7 @@ SLO is an acronym for Service Level Objectives, which are related to monitoring 
 We will use the SLO in order to create Login SLA -- Service Level Agreements -- published to both Veterans and other VA.gov product teams, as well as determine our responses to incidences of service level degradation.
 
 [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
+
 [Login SLA Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLA.md)
 
 ## Authorization Metrics
