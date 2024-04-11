@@ -19,7 +19,7 @@ This research corresponds to the following points of the Veteran journey:
 The purpose of this research is to **get feedback from Veterans on how easy it is to understand the instructions on the multiple facilities selection page of the text “travel” to 54804 tool for Oracle Health facilites** and evaluate if the page clearly conveys how Veterans can use this tool to file travel reimbursement claims for their appointments. 
 
 ### Outcome
-This study will give us insight into whether or not we need to make content changes in order to help Veterans better understand how to file their claims using this mileage-only tool. 
+This study will give us insight into whether or not we need to make content changes in order to help Veterans better understand how to file their mileage-only travel reimbursement claims using this online tool. 
 
 ### Research Questions
 1. Do Veterans understand that this tool can be used for mileage-only travel reimbursement claims and that they need to use the BTSSS portal to file claims with receipts?
