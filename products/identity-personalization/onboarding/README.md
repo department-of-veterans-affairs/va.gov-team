@@ -65,6 +65,7 @@ There are other groups and stakeholders who will likely have an interest in our 
 |[Research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md)|2/26/2024|
 |[Comparative analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md)|3/11/2024|
 |Generative research report| est. April 2024 |
+|[Generative research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md)| | 
 
 ### Key Dates
 
