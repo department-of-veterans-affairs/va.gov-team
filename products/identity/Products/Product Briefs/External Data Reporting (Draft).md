@@ -11,8 +11,8 @@ Data is not instantly understandable and can be misrepresented or misinterpreted
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
-* what more common data can we get into a public-facing dashboard?
-* POs fielding data requests
+* What more common data can we get into a public-facing dashboard?
+* POs fielding data requests insted of Identity Engineers
 * Building up data repository.
 
 ## Out of Scope: (for this iteration)
