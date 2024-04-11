@@ -385,7 +385,7 @@ Below are factors to consider when labeling severity for Decision Review bugs.
 
 -------
 
-<details open>
+<details closed>
 <summary>Depreciated Product Guide</summary>
 <br>
 # Decision Review Requests and Appeals Digital Experience Outline
