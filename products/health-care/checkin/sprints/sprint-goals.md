@@ -99,14 +99,12 @@ ________________________________________________________________________________
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - ✔️ 🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
-        - 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
-        - 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)    
+        - ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
+        - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)    
 - **GOAL: Make Travel Claims Easier** 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Conduct Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - ✔️ 🟥 [eCheck-in: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
         - 🟥 [Travel: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
         - 🟥 [Travel: Create Final Wireframes for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
 - **GOAL: Increase PCI Usability**
@@ -116,6 +114,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)
         - 🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)
         - 🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)
+        - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
@@ -164,6 +163,7 @@ ________________________________________________________________________________
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery - Veteran Direct Community Care Scheduling**
+        - ✔️ 🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
         - 🟥 [Discovery for Community Care ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79927)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
@@ -172,6 +172,7 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
     - **Sub Goal: Discovery - Check Travel Eligibility**
+        - ✔️ 🟥 [eCheck-in: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78321)
         - 🟥 [[Design] Create Final Wireframes for eCheck-in w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78320)        
 - **GOAL: Increase PCI Usability**    
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
