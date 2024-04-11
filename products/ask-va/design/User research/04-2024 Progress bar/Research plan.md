@@ -88,11 +88,12 @@ These are the main components and/or pages, we're testing:
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar/Conversation%20guide.md)
-* Prototypes
-  * [Mobile prototype - Includes progress bar](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=4-3012&t=nsOCIdTPCNYYsL6Y-0&scaling=min-zoom&page-id=3%3A2&starting-point-node-id=4%3A3012)
-  * [Desktop prototype - Includes progress bar](add link)
-  * [Mobile prototype - No progress bar](add link)
-  * [Desktop prototype - No progress bar](add link)
+* Mobile prototypes
+  * [Mobile - Includes progress bar](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=4-3012&t=nsOCIdTPCNYYsL6Y-0&scaling=min-zoom&page-id=3%3A2&starting-point-node-id=4%3A3012)
+  * [Mobile - No progress bar](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=98-4640&t=u2nB7OIS0r3yWJGu-1&scaling=min-zoom&page-id=98%3A4639&starting-point-node-id=98%3A4640&mode=design)
+* Desktop prototypes
+  * [Desktop – Includes progress bar] 
+  * [Desktop - No progress bar](add link)
 	
 ## Recruitment	
 
