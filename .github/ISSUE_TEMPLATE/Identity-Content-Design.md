@@ -31,7 +31,7 @@ _Additional product or business considerations from stakeholders._
 
 
 ## Acceptance criteria
-- [ ] Documentation has been updated
+- [ ] Content is ready to publish
 - [ ] Add finalized research to Github
 - [ ] Reviewed by UX Team
 - [ ] Reviewed by PMs
