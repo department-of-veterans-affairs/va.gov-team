@@ -9,6 +9,7 @@
 - [Roadmap - 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699298034766/785e43fca1230ba217651aff759f161c7315c1b5?sender=u3bc5e86ddc154e1c4ba82066)
 - [Domo Dashboard](https://va-gov.domo.com/page/2040841289)
 - [On-call support](https://docs.google.com/spreadsheets/d/1xWzSqRzYpQmQzQGeTud2HCOICHK_EiQc0lGvnHznsZI/edit?usp=sharing)
+-   
   
 
 **Forms on VA.gov**
@@ -22,4 +23,8 @@
   - Once MHV preference and email contant information is stored in VA Profile, VEText can begin sending email appointment reminders in addition to SMS.
   - The MHV preference selection will still live on MHV, but once the preference selection is moved to VA.gov (notification settings), a Veterans can choose between email and SMS appointment reminders in one location. (VA.gov)
   - Email appointment reminder content [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58378)
-  - 
+  - Link to [MHV intake for VA Profile Preferences](https://jira.devops.va.gov/browse/VAPROPARTC-618)
+  - MHV sends email confirmations that contain PHI/PII.  VA Notify meet with VHA Privacy Officers and the OGC to allow Veterans to choose the include PHI/PII in unsecured notifications.  
+    + Link to signed MOU for PHI/PII permissions
+    + VA Profile ticket to store  PHI/PII permission
+    + A separate ticket with VA.gov authenticated experience will be needed to display the PHI permission in the notifications settings page.
