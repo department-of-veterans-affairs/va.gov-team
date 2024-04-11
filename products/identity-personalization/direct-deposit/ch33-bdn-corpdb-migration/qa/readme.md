@@ -1,6 +1,6 @@
 
 
-## QA Plan - Hub 
+## QA Plan - Ch33 Migration to CorpDB
 **Last updated:** 4/11/2024 - drafted
 
 - [Ch33 Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76202)
@@ -15,7 +15,7 @@
 |accessible qa test page |  |
 
 
-## QA Plan - Ch33 Migration to CorpDB
+## QA Plan 
 See test scenarios linked above 
 
 #### General Version-coverage Strategy
