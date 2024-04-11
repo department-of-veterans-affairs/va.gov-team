@@ -118,5 +118,5 @@ Completed
 Flexible; based on Perigean's schedule to begin email recruitment 
 
 ## Team Roles
-Christina Gednalske (christina.gednalske@adhocteam.us) and Ben Brasso (ben.brasso@agile6.com) will serve as primary researcher and project point of contact for this project.
+Christina Gednalske (christina.gednalske@adhocteam.us) and Ben Brasso (ben.brasso@agile6.com) will serve as primary researchers and project point of contact for this study.
 
