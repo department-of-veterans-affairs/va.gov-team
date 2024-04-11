@@ -3,7 +3,7 @@
 
 # Research Findings for 10-10EZ Toxic Exposure Questions Usability Study 
 
-**Office of the CTO - Digital Experience (OCTO-DE), [Health Enrollment Team, 10-10EZ] **
+**Office of the CTO - Digital Experience (OCTO-DE), [Health Enrollment Team, 10-10EZ]**
 
 Date: April 2024
 
@@ -55,8 +55,6 @@ The moments that matter within the Veteran Journey are when Veterans are selecti
 We conducted about hour-long **moderated remote usability sessions** from April 1-5, 2024. 
 - 10-10EZ Form in Production on VA.gov
 - Unauthenticated or authenticated via the partipants account and ability
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
 
 
 ## Hypotheses and Conclusions
@@ -276,12 +274,14 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-- [Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1810619)_
+- [Link to the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1810619)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
 * Cognitive Disability
 * Race: Hispanic, Biracial, Asian or Native
 * LGBTQ+
+
+<img width="517" alt="TERA-recruitment-tracker" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/dbcb0ef5-2c2f-438e-af18-57383537f8e4">
 
 
