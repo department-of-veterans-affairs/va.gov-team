@@ -51,7 +51,7 @@ Example:
             "guam": {
               "startDate": "1991-02-12",
               "endDate": "1991-06-01"
-            ,
+            },
             "laos": {
               "startDate": "1991-03-15"
             }
@@ -79,7 +79,7 @@ Example:
           }
           "toxicExposureConditions": {
             "deviatedseptum": true
-          },
+          }
       }
     }
 
