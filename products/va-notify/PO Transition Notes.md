@@ -59,3 +59,14 @@
       + Ensure the content is reviewed by by someone on the CAIA team
       + Ask the MR team if they are interested in utm tracking and callbacks
   - VA Profile will have pre-populated preferences from MHV
+
+
+ ### Random Musings and Strong Opinions held Loosely
+
+ **VA Notify is meant to be provider agnostic**
+
+
+ **VA Notify should stay as pass through system**
+
+ 
+
