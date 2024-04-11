@@ -4,7 +4,7 @@
 
 
 ## Problem Statement: 
-Data is not instantly understandable and can be misrepresented.
+Data is not instantly understandable and can be misrepresented or misinterpreted.
 
 
 ## Relevant Documents:
