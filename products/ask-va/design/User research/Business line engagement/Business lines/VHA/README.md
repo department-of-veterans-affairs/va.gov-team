@@ -20,7 +20,7 @@
 
 ### Engagements
 
-* [April 11, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VHA/April%202%2C%202024.md)
+* [April 2, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VHA/April%202%2C%202024.md)
 * [October 30, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VHA/October%2030%2C%202023.md)
 * [September 11, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VHA/September%2011%2C%202023.md)
 * [August 29, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/VHA/August%2029%2C%202023.md)
