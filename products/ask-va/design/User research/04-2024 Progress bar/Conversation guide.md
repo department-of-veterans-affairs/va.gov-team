@@ -137,7 +137,7 @@ Let's say you'd like to learn whether you're eligible for Post-9/11 GI Bill bene
 
 - Are you familiar with the GI Bill?
 
-Okay, great. The GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, may qualify for these benefits.
+Okay, great. The Post-9/11 GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, may qualify for these benefits.
 
 And I'll remind you of this scenario as we go along.
 
