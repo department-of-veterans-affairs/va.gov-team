@@ -38,8 +38,15 @@
   - Email appointment reminder content [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58378)
   - Link to [MHV intake for VA Profile Preferences](https://jira.devops.va.gov/browse/VAPROPARTC-618)
   - MHV sends email confirmations that contain PHI/PII.  VA Notify meet with VHA Privacy Officers and the OGC to allow Veterans to choose the include PHI/PII in unsecured notifications.  
-    + Link to signed MOU for PHI/PII permissions
+    + Link to signed MOU for PHI/PVAII permissions
     + VA Profile ticket to store  PHI/PII permission
     + A separate ticket with VA.gov authenticated experience will be needed to display the PHI permission in the notifications settings page.
     + In support of the PHI permission work, VA Notify plans to work on personalization redaction...**explain what this is**
-    + 
+* Secure Message Notifications
+  - VA Notify currently sends push notifications for secure messaging through the flagship mobile app
+  - Once the secure message preference lives in VA Profile, the SM team can onboard to VA Notify to send email notifications.
+      + Ensure the email content for the notification points to secure messaging on va.gov
+      + Ensure the content is reviewed by by someone on the CAIA team
+      + Ask the SM team if they are interested in utm tracking and callbacks
+      + If I recall correctly, Jenny was working on feedback about MHV on va.gov.  Maybe there should be a custom no-reply inbox for this and appointment reminders to gather unsolicited feedback?
+        
