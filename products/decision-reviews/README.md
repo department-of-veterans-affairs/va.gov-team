@@ -16,8 +16,8 @@ Click the link to navigate to a section.👇
 - [User Logins](#user-logins)
 - [Test Rail](#test-rail)
 - [Defect Triage Process](#defect-triage-process)
-- [Status Codes and Error Messages](#status-codes-and-error-messages)
 - [Analysis Steps](#analysis-steps)
+- [Status Codes and Error Messages](#status-codes-and-error-messages)
 
 # Executive Summary
 
@@ -389,9 +389,9 @@ Below are factors to consider when labeling severity for Decision Review bugs.
 
 # Status Codes and Error Messages
 
-[Supplemental Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/engineering/SC_frontend_backend_interactions.md)
-[Request a Board Appeal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_backend_interactions.md)
-[Higher-Level Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/engineering/HLR_frontend_backend_interactions.md)
+- [Supplemental Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/engineering/SC_frontend_backend_interactions.md)
+- [Request a Board Appeal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_backend_interactions.md)
+- [Higher-Level Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/engineering/HLR_frontend_backend_interactions.md)
 
 -------
 
