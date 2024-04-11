@@ -1,6 +1,6 @@
 # External Data Reporting (Draft)
 
-## Overview: (Provide a high level description of the product/set of features)
+## Overview: 
 
 
 ## Problem Statement: 
