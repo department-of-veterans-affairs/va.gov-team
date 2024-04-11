@@ -13,6 +13,8 @@ mar (announcement for full v1 deprecation)
 - number of widgets to convert
 - vets json schema
 - rewriting unit tests
+  - moving from enzyme to react testing library and modernizing the tests
+  - underlying markup changes break the tests due to moving from react components to web components, shadow dom fun
 
 ## Resources
 
