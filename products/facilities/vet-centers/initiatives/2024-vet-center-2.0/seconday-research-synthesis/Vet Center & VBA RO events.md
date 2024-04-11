@@ -29,7 +29,7 @@ regular Vet Centers?
 started during a [VBA Regional Office audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1660588245137/17e30f1f578bfeb51b90c051e7f5124e57a835e5?sender=u01810f3edbfc878c08be5925).
          - Use Vet Center hours to ask about their event needs
 
-## Next steps
+## Other takeaways to consider
 - Past research supports the following:
      - Consider adding more filters when adding events. Additional filters could be tested
 during usability testing with a prototype. If additional filters test well, they can be added
