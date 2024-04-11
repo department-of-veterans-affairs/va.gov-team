@@ -52,7 +52,7 @@ Some of the data we might provide on this page:
 - New verified users
 - New verified users by CSP
 - Unique authentications
-- Unique authentiations by CSO
+- Unique authentiations by CSP
 
 This product is still being defined, but we suspect that we will create an easily understandable dashboard with some of these mstrics
 
