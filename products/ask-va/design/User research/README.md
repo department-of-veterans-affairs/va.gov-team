@@ -10,7 +10,7 @@ This folder contains our user research documentation.
 |[Business line engagement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/Business%20line%20engagement)|Focus groups|June 2023-Ongoing||
 |[SCO dashboard workshop](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/09-2023%20SCO%20dashboard%20workshop)|Generative workshop|September 2023||
 |[Submit an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry)|Usability testing|January-February 2024|[#453](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/453)|
-|[Progress bar](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar)|Usability testing|April 2024||
+|[Progress bar](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar)|Usability testing|April 2024|[#529](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/529)|
 
 ## Questions?
 
