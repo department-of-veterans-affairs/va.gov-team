@@ -8,7 +8,7 @@ Scope of this UAT is to validate that the requirements for the SlackBot have bee
   - PR reviews
   - Data pulls
   - Other 
-- A user is able to track the status of their request through a GH ticket.
+- A user is able to track the status of their request through a GitHub ticket.
 
 ### Out of Scope for these tests:
 - The support process is not part of this round of user acceptance test (which should be tested at a later time).
