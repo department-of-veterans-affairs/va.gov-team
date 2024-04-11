@@ -32,7 +32,7 @@ We need to meet with business lines to determine which fields are required in or
 * Understand which fields are necessary in order to route queries to the right place
 
 ## Recruitment
-We willmeet with relevant business lines across VA as well as the Ask VA CRM team. 
+We will meet with relevant business lines across VA.
 
 ## Date
 This research is ongoing. It started in June 2023.
