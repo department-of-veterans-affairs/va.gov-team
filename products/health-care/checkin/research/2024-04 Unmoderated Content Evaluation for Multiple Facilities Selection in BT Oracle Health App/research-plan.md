@@ -41,7 +41,7 @@ This research will be conducted as an unmoderated study using Optimal Workshop.
 The tests will be conducted online at the participant’s leisure.
 
 ### Research Materials
-- [Optimal Workshop Survey Preview link](https://dj540s05.optimalworkshop.com/questions/g)
+- [Optimal Workshop Survey Preview link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
 - [Survey Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/2024-04%20Unmoderated%20Content%20Evaluation%20for%20Multiple%20Facilities%20Selection%20in%20BT%20Oracle%20Health%20App/research-outline.md) 
 
 ## Recruitment
