@@ -343,8 +343,8 @@ Scope of this includes:
 
 # Access and Testing
 ### Test User Dashboard (TUD) requires SOCKS access
+
 - [TUD User Logins](https://tud.vfs.va.gov/?page=1)
-![DR High Level Roadmap 1:2024](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90406121/96ec6999-f29e-4abe-a7d0-db643da62aea)
 
 ### Test Rail access is provided by the VFS Platform team
 - [Test Rail](https://dsvavsp.testrail.io/index.php?/suites/view/6&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
