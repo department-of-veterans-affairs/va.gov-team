@@ -28,11 +28,11 @@ This study will give us insight into whether or not we need to make content chan
 
 ### Hypothesis
 1. Do Veterans understand that this tool can be used for mileage-only travel reimbursement, and that they need to use the BTSSS portal to file with receipts?
-  - LIKELY TRUE
-2. Do Veterans understand how many/which claims they are filing when selecting facilities?
-  - LIKELY TRUE
+     - LIKELY TRUE
+3. Do Veterans understand how many/which claims they are filing when selecting facilities?
+     - LIKELY TRUE
 3. Do Veterans understand how to file for the facilities NOT selected?
-  - MAYBE FALSE
+     - MAYBE FALSE
 
 ## Methodology
 This research will be conducted as an unmoderated study using Optimal Workshop.
