@@ -106,6 +106,17 @@ The tests will be conducted online at the participant’s leisure.
 ### Pilot session
 Completed 
 
+### Kickoff with Perigean
+
+- 4/18: 9-1, 3-5 ET
+- 4/19: 9-230 ET
+- 4/22: 9-2, 330-5 ET
+- 4/23: 3-5 ET
+
+### Start date
+
+Flexible; based on Perigean's schedule to begin email recruitment 
+
 ## Team Roles
 Christina Gednalske (christina.gednalske@adhocteam.us) and Ben Brasso (ben.brasso@agile6.com) will serve as primary researcher and project point of contact for this project.
 
