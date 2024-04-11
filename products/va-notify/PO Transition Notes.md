@@ -12,6 +12,10 @@
 -   
   
 
+**Compensation and Pension Notifications**
+- We are soooo close to launcing.  Track our status [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/Comp%20&%20Pen/README.md)
+
+  
 **Forms on VA.gov**
 - [List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/in-progress-reminders.md) of forms  on VA.gov the team has completed.  Other teams are creating form confirmations that are not included in this list.
 - Once a form has been digitized, the  Digitize Form team passes the baton to the Notify Strike team to trigger an email confirmation after form submission.  Handoff [doc](https://docs.google.com/document/d/1w6p_wvQdWL5llf6LCjv1cbPjn_eZySupmVIGdiMzT-o/edit)
