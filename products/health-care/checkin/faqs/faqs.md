@@ -1,5 +1,7 @@
 # Other Product FAQs
 
+NOTE: THE MODERNIZED CHECK-IN TEAM NO LONGER MAINTAINS FAQ DOCUMENTS FOR STAFF OR VETERANS
+
 Created: September 25, 2023 <br/>
 
 - [Documentation Guidance](#documentation-guidance) <br/>
