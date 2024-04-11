@@ -1,6 +1,6 @@
 # Functionality specifications
 
-- [Referral specifications]
+- [Referral specifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/functionality/referral)
 - [CC direct scheduling high level visual data flow](#cc-direct-scheduling-high-level-visual-data-flow)
 
 ## CC direct scheduling high level visual data flow (WIP)
