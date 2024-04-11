@@ -136,7 +136,8 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |:--|:--|
 |Friday, April 12|Research review|
 |Thursday, April 18|Prototypes are ready|
-|Thursday, April 18|Pilot session|
+|Thursday, April 18|CAIA pilot session|
+|Thursday, April 18|Team pilot session|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
 |From Thursday, May 2|Share findings|
