@@ -52,7 +52,7 @@ The tests will be conducted online at the participant’s leisure.
 #### ALL Cohort participants
 - All must have a computer or mobile device and are willing to use it to complete the activity.
 
-#### Experience with travel
+#### Experience with travel reimbursement
 - Cohort A (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must be over 55 years old
@@ -85,8 +85,7 @@ The tests will be conducted online at the participant’s leisure.
   - [cohort link](https://dj540s05.optimalworkshop.com/questions/e)
 
 
-#### NO experience with travel
-
+#### NO experience with travel reimbursement
 - Cohort F (9 Veterans)
   - All must NOT have experience filing for travel reimbursement
   - All must think they’re eligible to receive travel reimbursement
