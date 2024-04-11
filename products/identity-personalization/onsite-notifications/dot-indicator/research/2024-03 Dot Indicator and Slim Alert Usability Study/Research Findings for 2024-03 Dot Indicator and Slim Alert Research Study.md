@@ -152,7 +152,22 @@ Participants were shown a prototype version of the My VA page that included a cl
 
 > "You know, depending on what, you know, it would depend on what the claim was for. It would either have to have maybe a doctor, a doctor's report or a eyewitness to a, to an accident, you know, to what, what happened to you. You know, it depend on what the claim would was in for." (P22)
 
-> 
+
+### **5. The majority of participants expressed desire to know more key information before filing claims (11 of 15 participants).**
+
+Labels: Claim status, PRDT: Claim-status-tool, CLMSTS: Timeline
+
+Most participants indicated the wish to know more information before they had filed claims in the past. Several topics were mentioned that were related: being provided examples of completed forms to look at for reference and directed to viewing them, promoting honesty and full disclosure when filing claims, and simply being informed that they have the right and eligibility to apply. 
+
+> "If they could have provided me some kind of sample of how you would complete the claim, that would've been very helpful." (P12)
+
+> "Other than I didn't know I could file one...my first claim was for tinnitus and I didn't, you know, because I was on a diesel submarine and had three diesel train engines running, and my ears been ringing for years and years. And I ne I never knew that, you know, I could file a claim for it, you know. And then, then with my eyes and eye doc, I was talking with an eye doctor and telling the military history and everything and she said, did you file a claim? And I says, no, I didn't know I could, you know" (P22)
+
+> "Well the big thing with vets is we never tell the whole story right away. I got really lucky because I had a physician that was, that was also a veteran. I had just got out, I served four years in Marine Corps, went on a combat deployment and I went to the appointment saying nothing was wrong, like nothing hurt. And she's like, that's literally impossible. Four years of active duty, physical military experience, she got deployed, there's no way nothing hurts, you're not, you know, iron Man or whatever. So she kind of got it outta me but if I were to tell anybody any tips a hundred percent do not leave any information out. Tell everything that's wrong so when you go through the process you don't have to give more evidence because that's really what they're looking for." (P11)
+
+### **6. The majority of participants indicated they were interested in being informed of VA news, events, alerts, and info about related Veterans organizations (8 of 15 participants). This is a possible opportunity area for personalized content.**
+
+
 
 ## Additional Insights
 
