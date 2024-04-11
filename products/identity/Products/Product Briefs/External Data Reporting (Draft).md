@@ -14,15 +14,15 @@ Define what the data is, get them closest to what they're looking for.
 Simple sets of user data -- agreed-to by the entire team, tell our story, properly
 
 
-## Relevant Documents:  (Joe's note)
-Settle on definitions for data
-Understand the reasons why teams/people want the data they are asking for
-What are the user data requirements of each audience
-We need a single set of definitions around the data we present
-Industry standards surrounding reporting & displaying user data
-Why are they reporting user data they are, what is the impact of the data
-Define data we present in an easy to understand  format
-Focus on VA leadership
+## Relevant Documents:  (Joe's notes)
+- Settle on definitions for data
+- Understand the reasons why teams/people want the data they are asking for
+- What are the user data requirements of each audience
+- We need a single set of definitions around the data we present
+- Industry standards surrounding reporting & displaying user data
+- Why are they reporting user data they are, what is the impact of the data
+- Define data we present in an easy to understand  format
+- Focus on VA leadership
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
