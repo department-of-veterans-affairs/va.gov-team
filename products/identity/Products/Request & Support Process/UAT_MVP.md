@@ -32,4 +32,4 @@ Reference: [Identity SlackBot Documentation](https://github.com/department-of-ve
 
 ### Open Questions
 - If people have additional questions or context they want to add to an issue, where should they address that?  GitHub or the Slack thread?
-- What should happen when a ticket is closed?  
+- What should happen when a ticket is closed?  Does the user get notified in Slack or is the ticket simply closed (and by whom)?
