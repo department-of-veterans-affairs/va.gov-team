@@ -3,7 +3,12 @@
 ## Overview
 The patient check-in (PCI) product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The Modernized Check-in Team created the portion of the ecosystem that enables a Veteran to utilize their smartphone to check in through VA.gov. 
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/e33b12ff-46fd-4ce2-becd-ccf1cf413112)
+
+<details>
+<summary>Original MVP User Flow</summary>
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/93271257/47b7e504-2df9-4307-849e-c7bc84f6912e)
+</details>
 
 ## Problem Statement
 Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran is instructed to check-in with a staff member once they arrive for their appointment.
