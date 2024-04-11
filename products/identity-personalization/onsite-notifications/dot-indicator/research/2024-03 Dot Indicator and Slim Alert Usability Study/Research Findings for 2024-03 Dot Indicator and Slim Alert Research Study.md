@@ -96,9 +96,6 @@ We hypothesize that:
 
 6. The majority of participants indicated they were interested in being informed of VA news, events, alerts, and info about related Veterans organizations (8 of 15 participants). This is a possible opportunity area for personalized content. 
 
-7. Several participants brought up friction between the experiences of the VA website and the VA mobile application (4 of 15 participants).
-
-
 ## Details of Findings 
 
 _For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
@@ -107,7 +104,7 @@ _For each finding, list details with supporting quotes and images when possible.
 _To add images: ![text](link - add image to github folder and link here with .png)_
 
 
-__Finding 1: The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators (9 of 15 participants, but only 11 actually assessed them).__
+### **Finding 1: The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators (9 of 15 participants, but only 11 actually assessed them).**
 
 Labels: My VA - Dot indicator, My VA - Numbered badge indicator 
 
@@ -122,7 +119,7 @@ A strong preference for the numbered badge, which indicated the amount of items 
 
 <br>
 
-**Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).**
+### **Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).**
 
 Labels: My VA, Claim status
 
@@ -135,7 +132,7 @@ Participants indicated the desire for earlier and more substantive communication
 
 <br>
 
-**Finding 3: The majority of participants cited the next appointment card in the Health Care section of My VA as the first thing that stands out to them, not the dot indicator nor the badge indicator (8 of 15 participants, of 11 actually assessing them).**
+### **Finding 3: The majority of participants cited the next appointment card in the Health Care section of My VA as the first thing that stands out to them, not the dot indicator nor the badge indicator (8 of 15 participants, of 11 actually assessing them).**
 
 Labels: My VA - Dot indicator, My VA - Numbered badge indicator, Claim status
 
@@ -147,7 +144,7 @@ Participants were asked to indicate what stood out to them first in the Health C
 
 <br>
 
-**4. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).**
+### **4. The majority of participants correctly identified the meaning of "We need more information from you" as featured on claims card alerts in the research study (9 of 15 participants, but only 11 actually assessed them).**
 
 Labels: Claim status, PRDT: Claim-status-tool, CLMSTS: Timeline
 
@@ -166,7 +163,7 @@ _Any additional insights that aren't "key findings." These can be powerful comme
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation 1
+* Recommendation: badge indicators should be considered as an option for a new notification type to use for health care messaging and updates, and in turn added to the VA Design System so it can be consumed by other teams for additional items that need user attention. 
     * _Supporting evidence_
 * Recommendation 2
     * _Supporting evidence_
@@ -179,7 +176,7 @@ _Next steps here. Include owners if appropriate._
 
 ## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+Screen reader usability was not properly assessed, and further testing is ideal. In addition, more insight into how to best surface important notifications for Veterans beyond the badge indicator or claim status slim alerts - they are not at the forefront for users. 
 
 
 ## Appendix
@@ -193,25 +190,15 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-e.g. mural boards, etc.  
-
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709061562188/1dfb9cdf6dbb59004be7cfff6714b3c704d7fa37?sender=u32ca7987ad64375cb5bb9275)
+Affinity chart
 
 ## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
-
+Codepen:
+- [Two dots](https://bit.ly/3TsleZe)
+- [Badge indicator](https://bit.ly/4anyJ2j)
+- [Slim Alert](https://bit.ly/4a6B7dk)
+- [Badge indicator - AT Specific](https://bit.ly/3wMJtbU)
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
