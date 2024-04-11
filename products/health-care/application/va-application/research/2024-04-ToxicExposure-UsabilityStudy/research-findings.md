@@ -21,14 +21,13 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
+These questions provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty. This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
 
-_Then, describe your goals for this research_
+The moments that matter within the Veteran Journey are when Veterans are selecting the health care coverage according to their needs - whether that is supplemental coverage as things change in their lives or service connected or non-service connected needs.
 
-- Goal 1: Discover areas where the content may not be clear or need additional explanation
-- Goal 2: Discover areas where their service history requires too much mental lift / recall on the Veterans behalf to answer
-- Goal 3: Discover unknown usability or accessibility issues
+- Goal 1: Discover areas where the **content may not be clear or need additional explanation**
+- Goal 2: Discover areas where their **service history requires too much mental lift / recall** on the Veterans behalf to answer
+- Goal 3: Discover **unknown usability or accessibility issues**
 
 
 
@@ -168,16 +167,16 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/research-plan.md#research-plan-for-health-enrollment-team-10-10ez-april-2024---toxic-exposure-questions-usability-study)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/conversation-guide.md)
 
-[Interview transcripts](link here)
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy/transcripts)
 
 
 ## Tools used for Synthesis
 
-- [Mural board] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709573584989/d47237729c87fee8ec55db12db994920c6f26f24?sender=uadf1ed7fe7c76f0914967329)
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709573584989/d47237729c87fee8ec55db12db994920c6f26f24?sender=uadf1ed7fe7c76f0914967329)
 
 ## Pages and applications used
 
@@ -285,5 +284,4 @@ _List all groups in red from the spreadsheet_
 * Race: Hispanic, Biracial, Asian or Native
 * LGBTQ+
 
-![Uploading Screenshot 2024-04-11 at 10.08.45 AM.png…](recruitment checker screen shot)
 
