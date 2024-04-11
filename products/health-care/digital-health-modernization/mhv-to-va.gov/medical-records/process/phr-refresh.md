@@ -90,39 +90,3 @@ sequenceDiagram
 		Note over VW,VA: See other diagram<br />for this interaction
 	end
 ```
-
-```mermaid
-sequenceDiagram
-	autonumber
-	participant VW as vets-website
-    participant VA as vets-api
-    participant MHVAPI as MHV API
-	participant PHR as PHR Refresh
-    participant FHIR as FHIR DB
-    VW->>VA: GET /vitals
-    VW->>VA: GET /status
-    VA->>MHVAPI: POST /status
-    MHVAPI->>PHR: Kick off PHR Refresh <br/>for single patient
-
-
-    alt PHR Refresh Not Complete
-        loop Every Second until data is refreshed
-            VW->>VA: GET /status
-            VA->>MHVAPI: GET /status
-            MHVAPI->>PHR:  is refresh complete? 
-            MHVAPI->>VA: return 500
-            VA->>VW: return 202
-        end
-    else PHR Refresh Complete
-        PHR->>FHIR: Populate FHIR DB
-	VW->>VA: GET /status
-        VA->>MHVAPI: GET /status
-        MHVAPI->>PHR:  is refresh complete? 
-        MHVAPI->>VA: return 200 
-        VA->>MHVAPI: GET /vitals
-        MHVAPI->>FHIR: Get Vitals Resources
-        MHVAPI->>VA: return 200<br/>with  vitals data
-
-        VA->>VW: return 200<br/>with vitals data
-    end
-```
