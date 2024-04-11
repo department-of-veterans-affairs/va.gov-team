@@ -31,13 +31,15 @@ _Continue_
 #### Page 4
 
 What type of claims can you file in this tool?
-- Mileage-only claims
+- Mileage-only claims (then [Page 5](#page-5))
 - Claims with receipts
 - Mileage-only claims and claims with receipts
 - Other
     - _Textbox_
  
- ![Screenshot_2024-04-05_at_3 32 33_PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/6906e41b-b9ac-4ce9-a586-84e72d91bbec)
+ <img width="220" alt="" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/6906e41b-b9ac-4ce9-a586-84e72d91bbec">
 
- <img width="240" alt="" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030">
+ #### Page 5
+
+ 
 
