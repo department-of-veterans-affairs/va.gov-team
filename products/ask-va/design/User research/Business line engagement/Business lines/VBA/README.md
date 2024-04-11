@@ -20,7 +20,7 @@ There are many Ask VA stakeholders from VBA. This VBA folder represents the stak
 |:--|:--|
 |Robert (Matt) Eakman|VBA-OTED (Office of Transition & Economic Development)|
 |Victor (Breon) Johnson|VBA-ART (Veterans Benefits Administration All Response Team)|
-|Scott Hadley|VBA|
+|Scott Hadley|NCC (National Call Center)|
 
 ### Engagements
 
