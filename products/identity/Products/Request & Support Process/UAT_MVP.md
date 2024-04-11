@@ -2,7 +2,7 @@
 ## Description
 Scope of this UAT is to validate that the requirements for the SlackBot have been met.
 
-Reference: [Identity SlackBot Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md)  
+Reference: [Identity SlackBot Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md){:target="_blank"}  
 
 ### Overall intended functionality is:
 - Teams within the VA are able to request help for specific issues.
