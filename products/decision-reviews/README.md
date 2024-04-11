@@ -9,7 +9,7 @@ Click the link to navigate to a section.👇
 - [Mission Critical Challenges](#mission-critical-challenges)
 - [Product Strategy](#product-strategy)
 - [Potential Initiatives](#potential-initiatives)
-- [Outcome-Based Roadmap](#outcome-based-roadmap)
+- [Outcome Driven Roadmap](#outcome-driven-roadmap)
 - [Planning Boards](#planning-boards)
 - [Decision Reviews Service Diagrams](#decision-reviews-service-diagrams)
 - [Access and Testing](#access-and-testing)
@@ -325,8 +325,12 @@ Scope of this includes:
 
 ---
 
-## Outcome-Based Roadmap
-- (Add a link)
+## Outcome Driven Roadmap
+### Last Updated: 1/2024
+
+**Note: The Q3 2024 roadmap is being prioritized in mid-April. Check back soon for an update.**
+
+![DR High Level Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90406121/c44f4a5b-264b-494a-80ac-ff990ededbfd)
 
 ## Planning Boards
 - [Sprint Planning and Prioritization Board](https://github.com/orgs/department-of-veterans-affairs/projects/1026/views/1?filterQuery=)
@@ -382,6 +386,11 @@ Below are factors to consider when labeling severity for Decision Review bugs.
 - Assign the issue to a sprint
 - Confirm priority with the PO as needed for congressional inquiries and special cases
 
+# Status Codes and Error Messages
+
+[Supplemental Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Supplemental-Claims/engineering/SC_frontend_backend_interactions.md)
+[Request a Board Appeal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/engineering/NOD_frontend_backend_interactions.md)
+[Higher-Level Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/engineering/HLR_frontend_backend_interactions.md)
 
 -------
 
