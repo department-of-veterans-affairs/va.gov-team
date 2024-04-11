@@ -98,13 +98,7 @@ We hypothesize that:
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
-### **Finding 1: The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators (9 of 15 participants, but only 11 actually assessed them).**
+### Finding 1: The badge indicator was the preferred method of communicating healthcare updates on My VA, as opposed to dot indicators (9 of 15 participants, but only 11 actually assessed them).
 
 Labels: My VA - Dot indicator, My VA - Numbered badge indicator 
 
@@ -116,10 +110,9 @@ A strong preference for the numbered badge, which indicated the amount of items 
 
 >  "...the number twos and that is more detailed on that, because other one's the red circle and it could be questionable. Hmm. You don't really know how much messages you have." (P18)
 
-
 <br>
 
-### **Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).**
+### Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).
 
 Labels: My VA, Claim status
 
@@ -152,41 +145,51 @@ Participants were shown a prototype version of the My VA page that included a cl
 
 > "You know, depending on what, you know, it would depend on what the claim was for. It would either have to have maybe a doctor, a doctor's report or a eyewitness to a, to an accident, you know, to what, what happened to you. You know, it depend on what the claim would was in for." (P22)
 
+<br>
 
 ### **5. The majority of participants expressed desire to know more key information before filing claims (11 of 15 participants).**
 
 Labels: Claim status, PRDT: Claim-status-tool, CLMSTS: Timeline
 
-Most participants indicated the wish to know more information before they had filed claims in the past. Several topics were mentioned that were related: being provided examples of completed forms to look at for reference and directed to viewing them, promoting honesty and full disclosure when filing claims, and simply being informed that they have the right and eligibility to apply. 
+Most participants indicated the wish to know more information before they had filed claims in the past. Several topics were mentioned that were related: being provided examples of completed forms to look at for reference and directed to viewing them, getting estimates of time taken for claim processing steps, promoting honesty and full disclosure when filing claims, and simply being informed that they have the right and eligibility to apply. 
 
 > "If they could have provided me some kind of sample of how you would complete the claim, that would've been very helpful." (P12)
 
 > "Other than I didn't know I could file one...my first claim was for tinnitus and I didn't, you know, because I was on a diesel submarine and had three diesel train engines running, and my ears been ringing for years and years. And I ne I never knew that, you know, I could file a claim for it, you know. And then, then with my eyes and eye doc, I was talking with an eye doctor and telling the military history and everything and she said, did you file a claim? And I says, no, I didn't know I could, you know" (P22)
 
-> "Well the big thing with vets is we never tell the whole story right away. I got really lucky because I had a physician that was, that was also a veteran. I had just got out, I served four years in Marine Corps, went on a combat deployment and I went to the appointment saying nothing was wrong, like nothing hurt. And she's like, that's literally impossible. Four years of active duty, physical military experience, she got deployed, there's no way nothing hurts, you're not, you know, iron Man or whatever. So she kind of got it outta me but if I were to tell anybody any tips a hundred percent do not leave any information out. Tell everything that's wrong so when you go through the process you don't have to give more evidence because that's really what they're looking for." (P11)
+> "Well the big thing with vets is we never tell the whole story right away. I got really lucky because I had a physician that was, that was also a veteran. I had just got out, I served four years in Marine Corps, went on a combat deployment and I went to the appointment saying nothing was wrong, like nothing hurt. And she's like, that's literally impossible. Four years of active duty, physical military experience, she got deployed, there's no way nothing hurts, you're not, you know, Iron Man or whatever. So she kind of got it outta me but if I were to tell anybody any tips a hundred percent do not leave any information out. Tell everything that's wrong so when you go through the process you don't have to give more evidence because that's really what they're looking for." (P11)
+
+<br>
 
 ### **6. The majority of participants indicated they were interested in being informed of VA news, events, alerts, and info about related Veterans organizations (8 of 15 participants). This is a possible opportunity area for personalized content.**
 
+Labels: *none apply currently, need to create new ones*
 
+Eight of the fifteen participants expressed interest in being updated about general VA news, alerts, and info about more specific news and Veterans organizations that may be relevant to them personally. 
+
+> "Is there a way you could put a, I would say a bulletin board or information board...Is there a way you could pull it like a, when you're going to the site, some kind of bulletin dictate what happened, what coming up?" (P12)
+
+<br>
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+Multiple Veterans complained about issues with their claims and coverage that were related to VA locations and systems not sharing information effectively.
 
 
 ## Recommendations
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation: badge indicators should be considered as an option for a new notification type to use for health care messaging and updates, and in turn added to the VA Design System so it can be consumed by other teams for additional items that need user attention. 
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
-
+* Recommendation: badge indicators should be considered as an option for a new notification type to use for health care messaging and updates, and in turn added to the VA Design System so it can be consumed by other teams for additional items that need user attention.
+   * See Finding 1 for more details
+  
+* Recommendation 2: the slim alert for evidence requests on claim cards should be introduced to My VA, for the sake of better informing Veterans of when they need to act and provide more evidence/details, as well as consistency with the Claim Status Tool.
+   * See Finding 4 for more details
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+1. Determine with Authenticated Experience leadership how to address incorporation of badge indicators for health care notifications
+2. Plan for the future implementation of the slim alert for claim cards
 
 
 ## Further research needed
@@ -288,16 +291,16 @@ Race:
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
+* Cognitive: 0
 * AT beginner: x
 * AT advanced user: x
 * Desktop screen reader: x
 * Mobile screen reader: x
 * Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: UNK
+* Sighted keyboard: UNK
+* Captions: 0
 
 
 ## Underserved groups we haven’t talked to 
