@@ -19,7 +19,7 @@ Before we start, I have a few things that I want to go over with you:
     * If yes: Admit observers.
     * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
     * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-* You'll be interacting with a prototype today. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits. While you are interacting with the prototype, we would like you to share any thoughts with us verbally. Please think out loud throughout the process to help us understand why you are choosing to interact with the prototype in the way you are. This helps us greatly in improving the product, and as stated before, anything you say will not be held against you in any way, and we will not be offended.
+* You'll be interacting with a prototype today while sharing your screen so that we can follow along. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits. While you are interacting with the prototype, we would like you to share any thoughts with us verbally. Please think out loud throughout the process to help us understand why you are choosing to interact with the prototype in the way you are. This helps us greatly in improving the product, and as stated before, anything you say will not be held against you in any way, and we will not be offended.
 * Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
     * Knowing that, are you comfortable if I record my screen and audio as we talk today?
 * One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to understand better what veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know if we will, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
@@ -54,7 +54,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 * Step 1: I will now send you a link to our prototype in the Zoom chat. When you click on it, the screen should open; feel free to adjust it so that you are comfortable and navigating, similar to how you would with most websites. If you have any questions, feel free to ask.
-* Step 2: Please proceed through filling out the form as if you were attempting to apply for benefits. Feel free to fabricate responses that fit the fields if you feel uncomfortable inputting your personal information. As stated previously, however, we will be removing any of your identifying information, and nothing you do here will impact your actual benefits or services in any way. Please vocalize what you are thinking as you proceed. As we mentioned earlier, please ask if you have any questions. Please know that if you do ask questions, I may not answer them because the purpose of the study is to see how you naturally interact with the form and not to guide you through it. Since it’s just a prototype, not everything will look or act as you expect. \
+* Step 2: Please proceed through filling out the form as if you were attempting to apply for benefits for yourself and one other person (this could be a child or other dependant). Feel free to make up (fabricate) responses that fit the fields if you feel uncomfortable inputting your personal information. As stated previously, however, we will be removing any of your identifying information, and nothing you do here will impact your actual benefits or services in any way. Please vocalize what you are thinking as you proceed. As we mentioned earlier, please ask if you have any questions. Please know that if you do ask questions, I may not answer them because the purpose of the study is to see how you naturally interact with the form and not to guide you through it. Since it’s just a prototype, not everything will look or act as you expect. \
  \
  Also, please be aware that none of your information will be shared if you use your own as you interact with the prototype. We would prefer that you make information up; however, if you have trouble doing this, please let us know, and we can provide you with some fabricated information to enter.
     * Facilitator note: If the participant struggles with fabricating information or prefers not to, please give them some placeholder information from below.
@@ -77,6 +77,9 @@ Before we look at the website, let’s start with a few warm-up questions.
     * When the participant reaches the Medicare question, stop them and have them walk through the upload process as if they were submitting their cards. Be sure that they express how they would gather the information and how they believe it would be uploaded and received by the form.
     * Probe more deeply on any comments/observations made regarding usability or content. (e.g., Could you explain more about that remark? | I saw you pause there while looking at X. Could you explain more about what you were thinking? | What would make this easier? | Did X work as you expected?) and stay mindful of contextual inquiry best practices.
     * As testing continues, be aware of additional tasking that may be needed (such as progressing down the living/deceased paths in the flow, what a participant would do if they had no address for the sponsor, how they might go about obtaining documentation in different circumstances) that may need to be directed if the demographic does not seem diverse enough.
+* Questions to ask when the participant completes the prototype:
+    * What do you expect to happen next after you submit the form?
+    * Do you have an additional comments on the experience before we continue on?
 * Step 3:
     * Be prepared to guide the participant through shutting down the prototype and reassure them they are not doing anything wrong.
 
@@ -93,7 +96,19 @@ Before we look at the website, let’s start with a few warm-up questions.
     * Facilitator note: The response to this question should give a general impression of their experience, some pain points, and opportunities for improvement. Amend additional probing questions as necessary.
 * Walk us through the steps you took from learning about the CHAMPVA program until the completion of the process and receipt of benefits to the best of your ability.
     * Facilitator note: This should further inform the user journey map and the other service design artifacts. If the response isn’t sufficient, additional probing may be required.
-* Placeholder for SUS pending discussion
+* Placeholder for SUS given time.
+* All questions on a scale of 1 to 5 (Strongly Disagree -> Strongly Agree)
+* I think that I would like to use this type of form frequently when applying for benefits or filing claims.
+* I found the form unnecessarily complex.
+* I thought the form was easy to use.
+* I think that I would need the support of a technical person to be able to use this form.
+* I found the various functions in this form were well integrated.
+* I thought there was too much inconsistency in this form.
+* I would imagine that most people would learn to use this form very quickly.
+* I found the form very cumbersome to use.
+* I felt very confident using the form.
+* I needed to learn a lot of things before I could get started with this form.
+  
 * Do you have any questions for me?
 
 
