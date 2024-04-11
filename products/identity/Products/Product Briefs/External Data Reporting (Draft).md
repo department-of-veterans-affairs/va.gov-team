@@ -22,10 +22,11 @@ Simple sets of user data -- agreed-to by the entire team, tell our story, proper
 - Industry standards surrounding reporting & displaying user data
 - Why are they reporting user data they are, what is the impact of the data
 - Define data we present in an easy to understand  format
-- Focus on VA leadership
+
 
 ## What's In Scope: 
 For this first iteration, the focus will be on:
+- Focus on VA leadership
 * What more common data can we get into a public-facing dashboard
 * Being able to point people to the data 
 * Building up data repository.
