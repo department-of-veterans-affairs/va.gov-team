@@ -1,9 +1,11 @@
-# Name of Product
+# User Actions on VA.gov (Draft)
 
-## Overview: (Provide a high level description of the product/set of features)
+## Overview: 
+Show Veterans their actions on VA.gov
 
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
+## Problem Statement: 
+Currently, Veterans have no way of seeing the actions they've taken on VA.gov
 
 
 ## Relevant Documents:
