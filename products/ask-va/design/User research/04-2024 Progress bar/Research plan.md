@@ -119,6 +119,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |At least 4|Identify as Black, Hispanic, Asian or Native|
 |At least 2|Identify as a gender other than male|
 |At least 2|Identify as LGBTQ+|
+|At least 2|Are rural|
 
 ### Screener questions
 
