@@ -99,7 +99,7 @@ _Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD
 
 ## URLs and links Links to other pages
 
-- [ ] Links to pages that won't be translated include (in English) as part of the link. **Note:** This is a specific 508 requirement.
+- [ ] Links to pages that won't be translated include the phrase (in English) or (en inglés) as part of the link. **Note:** This is a specific 508 requirement.
 
 | Like this | Not like this |
 |---|---|
