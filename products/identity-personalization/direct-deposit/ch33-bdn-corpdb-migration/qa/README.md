@@ -57,6 +57,8 @@ Ensure the correct feature flipper(s) are enabled.
 |8b | Copy needs to be updated in both UX Design and UI   |  PC  | Windows  | Chrome  | Travis | TBD  |  | 
 |8c | Email works but the copy refers to C&P and should be benefit agnostic |  PC  | Windows  | Chrome  | Travis | TBD  |  |
 |enhancement | we should update the form to provide details on what direct deposit is supported (eg. we don't support travel benefit dd) |  PC  | Windows  | Chrome  | Travis | TBD  |  |
+|8f | the validation works but it should say why the routning number input isn't valid  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/925e21aa-3973-4012-8d0f-6dae3885ce5c) |  PC  | Windows  | Chrome  | Travis | TBD  |  |
+
 
 
 
