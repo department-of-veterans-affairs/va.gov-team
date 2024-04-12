@@ -28,7 +28,7 @@ This research supports the following OCTO FY24 priority:
 
 ### Veteran journey
 
-Ask VA can support Veterans, their family members, and other submitters at many stages of the Veteran journey. They may use Ask VA when they’re separating up until aging.
+Ask VA can support Veterans, their family members, and other submitters at many stages of the Veteran journey. They may use Ask VA when they’re separating through aging.
 
 ## Research goals
 
