@@ -15,10 +15,13 @@ UX will include:
 - Tool breadcrumbs will link back to landing page
 - The MHV landing page will include information about the new functionality on VA.gov
 
-Relevant tickets:
+Primary Github artifacts:
 - Cartographers epic: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80402)
 - Main UX design ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74454)
 - Implementation ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80401)
+
+### Questions log
+- Is any new handling required for Veterans with Oracle facilities?
 
 ## Technical notes on integration and release
 
