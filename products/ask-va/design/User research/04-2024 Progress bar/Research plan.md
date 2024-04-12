@@ -40,7 +40,7 @@ The key goals of this study are to:
 
 ### Outcome
 
-This research will help us determine if and how we need to improve the design and content of Ask VA. It will also inform future research objectives.
+This research will help us determine if and how we need to improve the design and content of Ask VA. We need to decide whether to use a progress indicator or not. If we use one, we need to test whether this version is effective or needs to be improved. This study will also inform future research objectives.
 
 ### Research questions
 
