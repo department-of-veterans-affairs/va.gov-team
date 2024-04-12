@@ -136,9 +136,9 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Friday, April 12|Research review|
 |Thursday, April 18|Prototypes are ready|
 |Thursday, April 18|Team pilot session|
-|TBD April 22, 29 or 30|CAIA pilot session: Screen mag|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
+|April 30|CAIA pilot session: Screen magnification|
 |From Thursday, May 2|Share findings|
 
 ## Pilot sessions
@@ -154,8 +154,9 @@ Perigean does **not** need to set up our pilot sessions. Tyler will schedule and
 
 Although we aren't recruiting any AT users for this study, we will run a pilot session with CAIA where they test the prototypes using screen magnification. This will inform future research we do in staging, where we'll include screen magnification as well as screen reader users.
 
-- CAIA specialist: 
-- Date and time of pilot session: April 22, 29 or 30 at [TBD]
+- CAIA ticket: [Screen Magnification Pilot with Figma Prototype #80535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80535)
+- CAIA specialist: Jamie Klenetsky
+- Date and time of pilot session: April 30 at 10:00am EST
 
 ## Research sessions
 
