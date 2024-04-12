@@ -59,6 +59,8 @@ Ensure the correct feature flipper(s) are enabled.
 |enhancement | we should update the form to provide details on what direct deposit is supported (eg. we don't support travel benefit dd) |  PC  | Windows  | Chrome  | Travis | TBD  |  |
 |8f | the validation works but it should say why the routning number input isn't valid  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/925e21aa-3973-4012-8d0f-6dae3885ce5c) |  PC  | Windows  | Chrome  | Travis | TBD  |  |
 |8g | validation for an account that is too short isn't running ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8c778252-3985-490d-bef9-a6221541451f)  |  PC  | Windows  | Chrome  | Travis | TBD  |  |
+|8h | Validation on account length is running for an account that is too long, but it does not advise the user of the exact problem, it prompts them to load in an account number ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b479c2aa-a698-4998-8683-8d08846559d5)|  PC  | Windows  | Chrome  | Travis | TBD  |  |
+
 
 
 
