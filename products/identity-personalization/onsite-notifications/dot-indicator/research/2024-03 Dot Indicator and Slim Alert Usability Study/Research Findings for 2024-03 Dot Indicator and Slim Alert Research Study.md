@@ -209,7 +209,7 @@ Screen reader usability was not properly assessed, and further testing is ideal.
 ## Tools used for Synthesis
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709061562188/1dfb9cdf6dbb59004be7cfff6714b3c704d7fa37?sender=u32ca7987ad64375cb5bb9275)
-Affinity chart
+EnjoyHQ
 
 ## Pages and applications used
 Codepen:
@@ -250,19 +250,19 @@ Unknown (not a recruitment criteria)
 
 
 Devices used during study: 
-* Desktop:  
+* Desktop: 8
 * Tablet: 3
 * Smart phone: 4 
 * Assistive Technology: 14, with 0 secondary AT devices
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 1
+* 45-54: 1
+* 55-64: 5
+* 65+: 7
+* Unknown: 0
 
 
 Education:
