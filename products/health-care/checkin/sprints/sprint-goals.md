@@ -159,7 +159,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
-    - ❗ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+    - ❗ ✔️ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
     - **Sub Goal: Support the ATO**
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
@@ -178,7 +178,7 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usability**    
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
-        - 🟩 [[FE] Pre-Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72857)
+        - ✔️ 🟩 [[FE] Pre-Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72857)
         - 🟩 [[FE] Pre-Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
@@ -193,18 +193,16 @@ ________________________________________________________________________________
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
-        - 🟪 [We need to find out who to reach out to (Contact Center?); can we get on their calendar for 2-3 weeks out](https://dsva.slack.com/archives/CNCEXNXK4/p1711563524539819?thread_ts=1711545874.924439&cid=CNCEXNXK4)
-    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
-        - TBD          
+        - ✔️ 🟪 [We need to find out who to reach out to (Contact Center?); can we get on their calendar for 2-3 weeks out](https://dsva.slack.com/archives/CNCEXNXK4/p1711563524539819?thread_ts=1711545874.924439&cid=CNCEXNXK4)      
 - **GOAL: Address Tech Debt**
     - ✔️ 🟥 [[UX] Create new figma file for content and document variations of text messages ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79459)
     - ✔️ 🟩 [Re-order Travel Questions for Consistency & Based on Metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
-    - 🟩 [Remove Un-used Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79391)
+    - ✔️ 🟩 [Remove Un-used Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79391)
     - **Sub Goal: DevOps Improvements**
         - ✔️ 🟨 [[DevOps] Enable GHA ecosystem updates for CHIP repository](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79778)
         - ✔️ 🟨 [[DevOps] Pin GHA versions in CHIP repository GHA workflows ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79780)
         - ✔️ 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
-        - 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
+        - ✔️ 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
         - ✔️ 🟨 [[DevOps] Transfer ownership of checkin-devops repository from vnce-avalanche to patient-check-in. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79911)
 
 ______________________________________________________________________________________________________________________________________________________
