@@ -73,17 +73,17 @@ Review whether submitters are clear on when to use Ask VA and how to start:
 
 ## Methodology
 
-This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity. We will present a scenario where the submitter has a question about their **education benefits**. We will test an **authenticated** scenario, so we'll prefill certain parts of the form with mock data.
+This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity. We will present a scenario where the submitter has a question about their **education benefits**.
 
 In half of the sessions, participants will use a prototype that includes a **new** progress indicator. In the other half, participants will use a prototype that **does not include** any progress indicator. We will compare both approaches.
 
-We will let submitters **choose whether to sign in or not without guidance**. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic.
+We will let submitters **choose whether to sign in or not without guidance**. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic. In this scenario, they will need to sign in to continue. We will pre-fill certain parts of the form with mock data.
 
 These are the main components and/or pages, we're testing:
 - Progress bar
 - Homepage (Unauthenticated)
 - Dashboard without cards
-- Sign in modal (Interruption)
+- Sign in interruption
 
 ### Research materials
 
@@ -134,7 +134,8 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Date|Milestone|
 |:--|:--|
 |Friday, April 12|Research review|
-|Thursday, April 18|Prototypes are ready|
+|Friday, April 12|Mobile prototypes are ready|
+|Tuesday, April 16|Desktop prototypes are ready|
 |Thursday, April 18|Pilot session|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
