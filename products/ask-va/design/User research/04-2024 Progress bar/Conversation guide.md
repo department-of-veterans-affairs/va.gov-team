@@ -313,7 +313,7 @@ Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the n
 
 - Can you show me what you would do on this page?
 
-Okay, great. Let's continue.
+Okay, great. Let's choose 'I'm the Veteran' and continue.
 
 <details>
   <summary>Key things to notice</summary>
