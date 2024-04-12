@@ -93,7 +93,7 @@ Please list the people who will be serving in each role.
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD (likely Jamie Klenetsky Fay)
 - Note-takers: TBD
 - Observers:	
-samara.strauss@va.gov
+chante.lantosswett@va.gov
 ana@adhocteam.us
 allison@cityfriends.tech
 daniel.miller@agile6.com
