@@ -54,7 +54,7 @@ Ensure the correct feature flipper(s) are enabled.
 
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-|7 | User 161 doesnt have any DD access with the `profile_show_direct_deposit_single_form` turned off. When I turn on the form the user has access to the unified DD form. The disability compensation endpoint isn't called as far as I can tell ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/f596b9c8-662f-40f6-a5b5-edd62e689893)
+|7 | User 161 doesnt have any DD access with the `profile_show_direct_deposit_single_form` turned off. ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/0970f635-9e05-49b1-8b8d-6c4eaf4d21de)  When I turn on the form the user has access to the unified DD form. The disability compensation endpoint isn't called as far as I can tell ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/f596b9c8-662f-40f6-a5b5-edd62e689893)
   |  PC  | Windows  | Chrome  | Travis | TBD  |  | 
 |8b | Copy needs to be updated in both UX Design and UI   |  PC  | Windows  | Chrome  | Travis | TBD  |  | 
 |8c | Email works but the copy refers to C&P and should be benefit agnostic |  PC  | Windows  | Chrome  | Travis | TBD  |  |
@@ -63,7 +63,7 @@ Ensure the correct feature flipper(s) are enabled.
 |8g | validation for an account that is too short isn't running ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8c778252-3985-490d-bef9-a6221541451f)  |  PC  | Windows  | Chrome  | Travis | TBD  |  |
 |8h | Validation on account length is running for an account that is too long, but it does not advise the user of the exact problem, it prompts them to load in an account number ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b479c2aa-a698-4998-8683-8d08846559d5)|  PC  | Windows  | Chrome  | Travis | TBD  |  |
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/0970f635-9e05-49b1-8b8d-6c4eaf4d21de)
+
 
 
 
