@@ -24,10 +24,6 @@ Date: 04/03/2024
 ## Research Goals
 My VA is now the first destination when a Veteran logs into VA.gov and it is critical that we present the most relevant updates as quickly and clearly as possible on the page. Accomplishing this through the use of indicators, if successful, would fulfill [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202023.md) of solidifying the VA.gov platform and enhancing Veterans’ personalized online experiences.
 
-### Veteran Journey
-Since Veterans can apply for and manage their benefits any time after getting out of the military, this work impacts the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) from Starting Up and beyond.
-
-
 <b> 1. Determine the effectiveness of dot and badge indicators to draw attention to important updates and when it's appropriate to use each kind of indicator. </b>
  - Where on VA.gov do users expect to see these types of notifications?
  - What do users think a dot means in different use cases? What about a badge?
@@ -42,6 +38,8 @@ Since Veterans can apply for and manage their benefits any time after getting ou
 <b> 3. Gain understanding of how slim alert banners embedded in claims cards are interpreted by users in order to assess how we might use/improve them for My VA </b>
 -  How do Veterans with experience in filing claims understanding the messaging displayed? 
 - What additional information might be valuable for Veterans to see on these banners and cards?
+
+<b> 4. Document any other possible notification types or information that are important for Veterans which we could surface as personalized content for authenticated users.
 
 ## Research Questions
 
