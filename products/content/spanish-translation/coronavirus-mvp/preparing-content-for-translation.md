@@ -37,7 +37,7 @@
 - [ ] Each sentence within body is complete. It starts with a capital letter includes:
   - A subject
   - A verb
-  - Ending punctuatioon
+  - Ending punctuation
 
 It begins with a capital letter, includes at least one main clause, and has an ending punctuation. _For discussion: What should we do about our approach to bullets with no periods and sometimes phrases rather than complete sentences?_
 
