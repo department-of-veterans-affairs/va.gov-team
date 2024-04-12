@@ -266,25 +266,25 @@ Age:
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 3
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 5
+* Master's degree: 2
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 
+* Rural: 
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
+* White: 
+* Black: 6
+* Hispanic: 4
 * Biracial: x
 * Asian: x
 * Native: x
@@ -292,11 +292,10 @@ Race:
 
 Disability and Assistive Technology (AT):
 * Cognitive: 0
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
+* AT users: 15 (but not all used tech successfully)
+* Desktop screen reader: 4
+* Mobile screen reader: 2
+* Magnification/Zoom: 9
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
 * Hearing aids: UNK
 * Sighted keyboard: UNK
