@@ -190,7 +190,7 @@ Then the owners of the subdomain may be able to perform the redirect. This requi
 **If the subdmoain _is_ a TeamSite**
 WebOps will not act on this, as they only handle full-site redirects.
 
-The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
+The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. Follow [WebOps KB article](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) steps. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
 
 If the TeamSite admins are unable to update the site, they may request a client-side redirect, via the same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). 
 - Example: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11662. To date (Jan 2023) this approach is theoretically viable but in practice, we have not been able to get it working.
