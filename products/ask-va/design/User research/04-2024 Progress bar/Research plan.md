@@ -146,14 +146,14 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 Perigean does **not** need to set up our pilot sessions. Tyler will schedule and add participants herself.
 
-### Team pilot
+### Pilot
 
 - Pilot participant: [TBD]
 - Date and time of pilot session: April 18 at [TBD]
 
-### CAIA pilot
+### CAIA screen magnification pilot
 
-Although we aren't recruiting any AT users for this study, we will run a pilot session with CAIA where they test the prototypes using screen magnification. This will inform future research we do in staging, where we'll include screen magnification as well as screen reader users.
+Although we aren't recruiting any AT users for this study, we will run a pilot session with CAIA where they test the prototypes using screen magnification. This will inform future research we do in staging, where we'll include screen magnification as well as screen reader users. This pilot will happen after our research sessions with Veterans.
 
 - CAIA ticket: [Screen Magnification Pilot with Figma Prototype #80535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80535)
 - CAIA specialist: Jamie Klenetsky
