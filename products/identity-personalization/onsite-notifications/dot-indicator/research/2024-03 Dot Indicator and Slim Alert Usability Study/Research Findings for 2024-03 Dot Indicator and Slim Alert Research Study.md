@@ -10,7 +10,7 @@ Date: 04/03/2024
 
 [Matt Marino](matt.marino@adhocteam.us)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](link here)
 
 **Jump to:**
 
@@ -240,8 +240,8 @@ Audience segment:
 
 
 Gender:
-* Male: x 
-* Female: x
+* Male: 12
+* Female: 2
 * Non-binary: 1 
 
 
@@ -250,10 +250,10 @@ Unknown (not a recruitment criteria)
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop:  
+* Tablet: 3
+* Smart phone: 4 
+* Assistive Technology: 14, with 0 secondary AT devices
 
 
 Age:
@@ -276,23 +276,23 @@ Education:
 
 
 Geographic location:
-* Urban: 
-* Rural: 
+* Urban: 8
+* Rural: 7
 * Unknown: 0
 
 
 Race:
-* White: 
-* Black: 6
-* Hispanic: 4
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 9
+* Black: 3
+* Hispanic: 2
+* Biracial: 2
+* Asian: 2
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
 * Cognitive: 0
-* AT users: 15 (but not all used tech successfully)
+* AT users: 14 (but not all used tech successfully)
 * Desktop screen reader: 4
 * Mobile screen reader: 2
 * Magnification/Zoom: 9
@@ -304,13 +304,11 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Immigrants (unknown number of participants)
+* LGBTQ+ (unknown number of participants)
+* Native (0 participants recruited)
+* Cognitive disability (0 participants recruited)
+* Other than honorable
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+_Screenshot of full assessment forthcoming_
