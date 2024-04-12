@@ -150,7 +150,8 @@ If all goes well, your various accounts will be granted the appropriate groups a
 Once you've rebooted, you should be able to log into CyberArk (using your PIV and your MEA account), and you should see your NMEA account in the main view, along with a "Connect" dropdown.
 
 To get into AWS, this is the procedure:
-- Click the dropdown and select "Citrix".
+- Login to CyberArk.
+- Click the Connect dropdown and select "Citrix".
 - Wait for everything to happen. If you get the long hang and "licensing failed" failure, reboot again.
 - Eventually, you should be able to access the Citrix Application Store.
 - Select "Main Admin Tools". This will download a Citrix ICA file, which you should click and open.
