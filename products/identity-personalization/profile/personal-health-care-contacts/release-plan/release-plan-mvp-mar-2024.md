@@ -67,11 +67,15 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 1650 calls to API
+- Metrics at this stage (per your "success criteria"): 
+  - GA: as of the first 4 days in prod: 
+    - 1653 unique pageviews
+    - In-page interactions are limited to expansion of the additional-info component (366 uniques); no clicks on telephone component
+  - Qualitative survey feedback gathered ~10 responses for /profile and /profile/contacts - only one response was associated with /contacts, and the person wanted to update their spouse's address under NoK (so, working as expected)
+- Was any downstream service affected by the change?: NO
+- Types of errors logged: 500 (1 request; same user repeated and got a 200); 401 (3 requests)
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? NONE
 
 ### Stage B: 25% of users
 
