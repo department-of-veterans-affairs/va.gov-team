@@ -55,7 +55,7 @@ _Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD
 |---|---|
 | **You're almost finished.** <br> This process should take about 5 more minutes to complete. | **Hang in there.** This process should take about 5 more minutes to complete. |
 
-[ADD LINK TO LIST OF IDIOMS TO AVOID]
+[LIST OF IDIOMS TO AVOID](https://design.va.gov/content-style-guide/plain-language/don-t-use-idioms)
 
 - [ ] Text is written all in English, and avoids common phrases borrowed from other languages.
 
