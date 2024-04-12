@@ -6,6 +6,7 @@ https://vagov.ddog-gov.com/monitors/186811
 **What is:**
 * Monitor that checks for calls to `v0/search` API endpoint every hour for anomalies in average search rate success(200 responses). 
 * Alarms if calls fall below threshold of 10% of the average anomaly bounds
+* Indicates if the overall volume of searches is down.
 
 **Triage:**
 Typically: No op. This is an indicator that Search.gov is returning an increased % of 503s. We can't do anything about that.
@@ -47,10 +48,29 @@ If this test alarms, either Homepage didn't load (in which case Homepage monitor
 * If Search didn't load / returned errors, check https://search.gov/status.html for Search.gov downtime
 * If Search.gov is up, check other search monitors for anomalous traffic and open a Plat support ticket for help as needed
 
-## No calls to v0/search
+## VA Search Uxage - No calls to v0/search
 https://vagov.ddog-gov.com/monitors/189936?view=spans
 
 Metrics monitor that alarms if no calls to v0/search in the last 5 mins.
+Should only be going off if vets-api is completely down. 
+
+## Search.gov - [composit-error] forward proxy OR vets-api '503' OR search.gov Healthcheck
+https://vagov.ddog-gov.com/monitors/214590
+
+**What is:**
+Composite monitor that contains 3 monitors, listed below.
+
+**Triage:**
+* If this goes off, it means search is down. We probably need a downtime alert, if search doesn't recover within X time
+
+### Search.gov - Healthcheck 
+Sends a ping to Search.gov uptime endpoint every minute (search.usa.gov/healthcheck). Negative response = outage. Positive reponse = Search.gov is up. We don't know how much to trust this uptime report.
+
+### Search.gov - va forward Proxy Health Check
+Checks the VA fwd proxy to see if it's up or down. That's the 2nd layer of traffic -- if search.gov is up but the fwdproxy is down, search calls will fail.
+
+### Search.gov - vets-api error due to 503 code returned from search.gov
+Checks error rates from vets-api search calls. 
  
 ## Slack Channels for Alerts
 - #public-websites-monitoring
