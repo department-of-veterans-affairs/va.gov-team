@@ -55,6 +55,8 @@ Ensure the correct feature flipper(s) are enabled.
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
 |8b | Copy needs to be updated in both UX Design and UI   |  PC  | Windows  | Chrome  | Travis | TBD  |  | 
+|8c | Email works but the copy refers to C&P and should be benefit agnostic |  PC  | Windows  | Chrome  | Travis | TBD  |  |
+|enhancement | we should update the form to provide details on what direct deposit is supported (eg. we don't support travel benefit dd) |  PC  | Windows  | Chrome  | Travis | TBD  |  |
 
 
 
