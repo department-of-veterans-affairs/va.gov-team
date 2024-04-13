@@ -52,6 +52,51 @@ Monitors for each product are described within product folders. e.g.
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
+### COPY/PASTABLE product list
+<details><summary>List in accordion. Please update with any product ownership changes</summary>
+### P1 Products
+- [ ] VA.gov homepage
+- [ ] Veterans Crisis Line modal
+- [ ] Global header / footer
+- [ ] Header / footer injection - https://benefits.va.gov
+- [ ] Search / results form in header
+- [ ] Search results page - https://www.va.gov/search/?query=benefits&t=false
+- [ ] Find a Form - https://www.va.gov/find-forms/
+- [ ] Form detail page - e.g. https://www.va.gov/find-forms/about-form-21p-534/
+- [ ] Breadcrumbs
+
+### CMS / Content driven products: 
+- [ ] Benefits Detail Page - e.g. https://www.va.gov/health-care/
+- [ ] Benefits Hub Landing Page - e.g. https://www.va.gov/health-care/about-va-health-benefits/
+- [ ] Campaign Landing Page - Currently published CLPs: https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderation_state=published&owner=All
+- [ ] Events Listing - https://www.va.gov/outreach-and-events/events
+- [ ] Event - Currently published Events (check several): https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All
+- R&S content types
+    - [ ] FAQ page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=faq_multiple_q_a&moderation_state=published&owner=All
+    - [ ] Resources and Support Detail Page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=support_resources_detail_page&moderation_state=published&owner=All
+    - [ ] Reusable Q&A - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=q_a&moderation_state=published&owner=All
+    - [ ] Checklist
+    - [ ] Video list
+    - [ ] Image list
+- [ ] Full width alert - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All
+- [ ] Promo banner - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All
+- [ ] Outreach Hub (Until deprecation) - https://www.va.gov/outreach-and-events/outreach-materials/
+- [ ] Translations widget - e.g. https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/
+- [ ] VA Benefits taxonomy - (backend only) https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
+
+### React Applications: 
+- [ ] CTA widgets
+    - [ ] Get medical records - https://www.va.gov/health-care/get-medical-records/
+    - [ ] Make appointment - https://www.va.gov/health-care/schedule-view-va-appointments/
+    - [ ] Refill/track prescriptions - https://www.va.gov/health-care/refill-track-prescriptions/
+    - [ ] Send secure message - https://www.va.gov/health-care/secure-messaging/
+    - [ ] View test and lab results page - https://www.va.gov/health-care/view-test-and-lab-results/
+- [ ] Discharge upgrade wizard - https://www.va.gov/discharge-upgrade-instructions/questions
+- [ ] Income Limits app - https://www.va.gov/health-care/income-limits/introduction
+- [ ] PACT Act app - Not yet shipped: https://staging.va.gov/pact-act-eligibility/introduction
+  
+</details>
+
 ## Changelog
 * [Transition of Decision Tools Products to Search & Discovery Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5e0f4d3c470ed2f32290ff1a6e2cc7c2c97f7847/teams/vsa/teams/decision-tools/transition.md) - previous doc of tools that were moved from Decision Tools > Search & Discovery and are now under Public Websites purview
 * 11/2023: [Breadcrumbs](#breadcrumbs) - Transitioned to CMS team as of Q4 2024, as a result of Accelerated Publishing work to manage Breadcrumbs for CMS-related content fully within the CMS
