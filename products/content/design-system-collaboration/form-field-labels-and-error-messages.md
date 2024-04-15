@@ -15,7 +15,7 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/dates#content-considerations)
 
 ## Email address
-- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Email_form.patterns_VADS.xlsx?d=wb247dd568ca0401aaa5ba775f75a1dce&csf=1&web=1&e=9H02n9)
+- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Email_form.patterns_VADS.csv?d=w37829f3c3ed743e084069ffe0b47d9af&csf=1&web=1&e=7NDSRg)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/email-address#content-considerations)
 
 ## Names
