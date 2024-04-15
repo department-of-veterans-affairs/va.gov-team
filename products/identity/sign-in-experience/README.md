@@ -1,6 +1,6 @@
 # Sign-in: User-facing experience
 
-**Last Updated: April 15, 2024**
+**Last Updated: April 15, 2024 -- created outline**
      
 ## Table of Contents
 
