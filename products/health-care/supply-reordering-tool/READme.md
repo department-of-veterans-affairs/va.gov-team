@@ -5,9 +5,10 @@
 
 
 ## Problem Statement
-This is part of a larger initiative to move all Veteran transactions around managing their health care to a central portal, rather than having multiple websites and mobile applications to do the same medication transactions. 
+This is part of a larger initiative to move all Veteran transactions around managing their health care to a central portal, rather than having multiple websites and mobile applications to do the same medical supplies transactions. The medical supplies reordering tool can be accessed through MHV on VA.gov, but the link will take Veterans to VA.gov (outside of MHV experience) to continue the reordering process. The medical supplies reordering tool only supports hearing aid batteries and accessories and CPAP supplies; there will be more types of equipment and supplies in the future to incorporate into the reordering tool.  
 
  ### Users should be able to: 
+ - 
 
 
 ## Desired User Outcomes
