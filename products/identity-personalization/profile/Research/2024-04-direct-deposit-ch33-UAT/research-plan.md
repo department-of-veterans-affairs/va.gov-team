@@ -131,8 +131,8 @@ Date and name of a participant for a pilot session to test **education benefits*
 	- Availability: Friday, May 19th from 9am-2pm 
 ### Research sessions
 What dates do you plan to do research? 
-- To meet the requirement for 10 days’ lead time, we’d like to list the date of Monday, May 29th.
-- However, **we’d like to start scheduling participants beforehand if at all possible**, given the pressing deadline of this migration. We’d like to schedule participants **as early as Monday, May 22nd**.
+- To meet the requirement for 10 days’ lead time, we’d like to list the date of Monday, April 29th.
+- However, **we’d like to start scheduling participants beforehand if at all possible**, given the pressing deadline of this migration. We’d like to schedule participants **as early as Monday, April 22nd**.
 
 ### Length of sessions
 Sessions will be 30 minutes with 1 hour in between sessions. Please schedule no more than 5 sessions per day.
