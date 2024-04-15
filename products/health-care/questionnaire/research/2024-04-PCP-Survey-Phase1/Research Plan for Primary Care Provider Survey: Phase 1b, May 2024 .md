@@ -1,4 +1,4 @@
-# 2024-04 Research Plan for Health Questionnaire, Clinical Reminders Pilot – Primary Care Provider Survey: Phase 1b
+# 2024-04 Research Plan for Health Questionnaire, Clinical Reminders Pilot – Primary Care Provider Survey Phase 1b
 
  [Research Repo Ticket #520](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/520)
 
