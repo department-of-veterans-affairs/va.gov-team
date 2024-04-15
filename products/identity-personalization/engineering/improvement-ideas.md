@@ -26,9 +26,11 @@
     - What are the pain points with state management now? Managing feature toggle state, form state, authentication, profile state usable by forms, other application state that could auto-fill form data to reduce burden by users submitting a form.
     - Can some state be abstracted into a better mechanism. Everything doesn't belong in redux and our state store can be pretty bloated with duplicated data.
     - When is a state store too large? How do we slice state and what proctices do we encourage to scale our applications when needed
+  - `react-redux` currently at 7.2.6 released Oct 25, 2021. Current version is 9.1.1
+    - using the updated version in a discovery branch along with redux toolkit as a MVP of updated setup 
 
-  - Profile patterns and technical implementation of reusable patterns / pieces
-    - We have some reusable pieces of form ie: `ProfileInformationFieldController` but it isn't flexible, is tightly coupled to the single 'god' component, and only supports a limited set of fields. There is no support for the direct deposit form.
-      - How can we make reusable pieces of code to enable users to integrate the user's profile information into forms, and know that those pieces exist.
-      - Form page structure, size, and layout differ, so how do we make sure the reusable pieces fit into any form with minimal friction?
-    - Address validation re-work. The address validation flow sucks, and we should make it better
+- Profile patterns and technical implementation of reusable patterns / pieces
+  - We have some reusable pieces of form ie: `ProfileInformationFieldController` but it isn't flexible, is tightly coupled to the single 'god' component, and only supports a limited set of fields. There is no support for the direct deposit form.
+    - How can we make reusable pieces of code to enable users to integrate the user's profile information into forms, and know that those pieces exist.
+    - Form page structure, size, and layout differ, so how do we make sure the reusable pieces fit into any form with minimal friction?
+  - Address validation re-work. The address validation flow sucks, and we should make it better
