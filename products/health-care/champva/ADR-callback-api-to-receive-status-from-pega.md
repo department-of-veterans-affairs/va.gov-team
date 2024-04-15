@@ -7,57 +7,59 @@ The below is my (Bryan Alexander) proposed solution for the callback API.
 ## Context
 As the IVC Forms team works to digitize forms and integrate with VFMP back end processes, we need sufficient communication to be confident that any data we send to PEGA is getting to the proper workflows.
 
-Our digital forms on VA.gov will send submitted forms and supporting documents to an s3 bucket maintained by the DOCMP team. This will allow us to confirm whether forms have reached s3, but does't tell us whether they were imported into PEGA, or whether they can be deleted from s3. In order to get that information, PEGA's workflow will add a step to call a VA.gov endpoint to send confirmation that the files were loaded into PEGA. We don't currently have such an endpoint, so this document reflected the decision making for that implementation.
+Our digital forms on VA.gov will send submitted forms and supporting documents to an s3 bucket maintained by the DOCMP team. This will allow us to confirm whether forms have reached s3, but does't tell us whether they were imported into PEGA, or whether they can be deleted from s3. In order to get that information, PEGA will add a step to their workflow to call a VA.gov endpoint and send confirmation that the files were loaded into PEGA. We don't currently have such an endpoint, so this document reflected the decision making for that implementation.
 
 ## What options were considered?
 1. LightHouse Delivery Infrastructure (LHDI)
-- We originally looked into LHDI because they were already processing forms and we didn't want to reinvent the wheel. After discussing this process with Steve Albers (Benefits Engineer OCTO) he doesn't think leveraging LH makes sense.
-
-   For starters, it's adding pipeline complexity to a process that starts on va.gov and should end on va.gov. Furthermore,
-     LH engineers would need to update the code on their end for each form we send them. Finally, we aren't sending LH any information currently before submitting to PEGA's S3 and we don't know how difficult or how long it will take to accomplish this.
-
+   - We originally looked into LHDI because they were already processing forms and we didn't want to reinvent the wheel. After discussing this process with Steve Albers (Benefits Engineer OCTO) 
+     he doesn't think leveraging LH makes sense. For starters, it's adding pipeline complexity to a process that starts on va.gov and should end on va.gov. Furthermore, LH engineers would need 
+     to update the code on their end for each form we send them. Finally, we aren't sending LH any information currently before submitting to PEGA's S3 and we don't know how difficult or how 
+     long it will take to accomplish this.
 2. Redis
-- This was easily dismissed because it only holds data in it for up to 30 days. Forms take longer to process.
-
+   - This was easily dismissed because it only holds data in it for up to 30 days. Forms take longer to process.
 3. Database Table (Editor's Pick)
-- This option made the most sense since the table should be light weight and we are just doing simple CRUD (Create, Read, Update, Delete) actions to it. Also with having our own table we won't be interfering with any other table or have to rely on another existing table.
-     
+   - This option made the most sense since the table should be light weight and we are just doing simple CRUD (Create, Read, Update, Delete) actions to it. Also with having our own table we 
+     won't be interfering with any other table or have to rely on another existing table.
+   
 
 ## Decision
-What is the change that we're proposing and/or doing?
+### What is the change that we're proposing and/or doing?
 
-I think it makes the most sense to leverage a new va.gov database table to be the source of truth for the form's statuses.
+I think it makes the most sense to leverage a new vets-api database table to be the source of truth for the form's statuses.
 
 ## Implementation Steps
+
 Note: Below is just some pseudo code to get whats in my brain on paper.
 1. Create a DB table like `ivc_forms` with columns [UUID (auto-generated), form_UUID, file_name, email, status, created_at, updated_at]
    - Ex: [AUTO UUID, a0a9682e-04f2-44ad-85ca-99e2d9ff6a21, a0a9682e-04f2-44ad-85ca-99e2d9ff6a21_vha_10_10d.pdf, veteran@aol.com, "pending", AUTO, AUTO]
    - Code for this implementation is here: https://github.com/department-of-veterans-affairs/vets-api/pull/16311
 2. Update the uploads_controller.rb to insert new rows, more if there are multiple files, like below (Don mentioned Burals team is doing something similar and will investigate):
-    ```
-    Class::Model.create!(
-          form_uuid: @form_uuid,
-          file_name: @file_name,
-          status: "Submitted"
-        )
-    ```
-    - Code for this implementation is here: https://github.com/department-of-veterans-affairs/vets-api/pull/16320/files
-3. Add `post 'forms/process', to: 'forms#process'` to routes.rb and then send that endpoint to PEGA to add to their llambda.
-  3a. We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
-    ```
-    {
-      "uuid": "12345678-1234-5678-1234-567812345678",
-      "file_names": ["file1.pdf", "file2.pdf"],
-      "status": "processed"
-    }
-    ```
- b. Define a callback endpoint (ex: config/routes.rb):
-    Rails.application.routes.draw do
-    post '/status_updates', to: 'status_updates#receive' 
-    # ... existing routes
-end
+   ```
+   Class::Model.create!(
+         form_uuid: @form_uuid,
+         file_name: @file_name,
+         status: "Submitted"
+       )
+   ```
+   - Code for this implementation is here: https://github.com/department-of-veterans-affairs/vets-api/pull/16320/files
+3. Add `post 'forms/process', to: 'forms#process'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
+   - We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
+     ```
+     {
+       "uuid": "12345678-1234-5678-1234-567812345678",
+       "file_names": ["file1.pdf", "file2.pdf"],
+       "status": "processed"
+     }
+     ```
+   - Define a callback endpoint (ex: config/routes.rb):
+     ```
+     Rails.application.routes.draw do
+     post '/status_updates', to: 'status_updates#receive' 
+     # ... existing routes
+     end
+     ```
    - TBD
-4. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://va.gov/ivc-pega-updates
+4. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://api.va.gov/ivc-pega-updates
    - TBD
 5. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
     ```
@@ -99,12 +101,13 @@ end
     end
     ```
    - TBD 
-6. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
-After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
-1. Clean Up Job (CRON) - We don't want the data rows to remain in the table after being processed over 60 days based on our ATO. We can use the status and updated_at column to distingush what can be purged from the database.
+6. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
+   send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
+   After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
+1. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
 2. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
 
 ## Consequences
 What becomes easier or more difficult to do because of this change?
 
-I don't think anything becomes more difficult. It definitely will be easier to trigger notifications and check statuses if we have completel control of a data table that doesn't intertwine with anything else.
+I don't think anything becomes more difficult. It definitely will be easier to trigger notifications and check statuses if we have complete control of a data table that doesn't intertwine with anything else.
