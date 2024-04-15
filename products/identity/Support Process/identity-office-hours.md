@@ -2,9 +2,9 @@
 
 ## 🕐 Office hours
 
-Schedule time to meet with the Identity team for flexible office hours every **Monday - Wednesday**. Ask our engineering lead about authentication best practices, metrics, or security. Or meet with our product team to discuss new projects.
+Schedule time to meet with the Identity team for flexible office hours every week. Ask our engineering lead about authentication best practices, metrics, or security. Or meet with our product team to discuss new projects.
 
-**Schedule office hours for drop-in questions:**
+**Schedule office hours for drop-in questions**
 
 - Authentication, metrics, and security: schedule time with [Joe Niquette](https://calendar.app.google/CEq822Myid5xsxwH9)
 - Product office hours:  schedule time with [Mike King](https://calendar.app.google/3S6SfAmvuKcBer3T6) or [Jim Connelly](https://calendar.app.google/HG2iZgqtv4nWmnvT8)
@@ -13,7 +13,7 @@ Schedule time to meet with the Identity team for flexible office hours every **M
 
 We offer regular pairing sessions for both backend and frontend support. Select a time from the availability calendar to book a session. This is a great opportunity to discuss any technical issues or collaborate on improvements.
 
-**Schedule time to pair with an engineer:**
+**Schedule time to pair with an engineer**
 
 - Frontend engineering: schedule time with [Alexander Garcia](https://calendar.app.google/wqo8m541CsAvjvhA7)
 - Backend engineering: schedule time with [Riley Anderson](https://calendar.app.google/a4yGP1qcStNxC1Am8)
