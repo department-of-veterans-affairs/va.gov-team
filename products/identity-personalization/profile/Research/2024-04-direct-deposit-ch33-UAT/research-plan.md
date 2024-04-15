@@ -50,7 +50,7 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-[Conversation Guide]()
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/conversation-guide.md)
 
 ## Recruitment
 Perigean will recruit 1 pilot participant before we meet with the rest of the participants. Perigean will also recruit 9 participants for a total of 6 completed sessions. 
@@ -120,13 +120,13 @@ When will the feature you are testing be finalized? April 16, 2024
 Date and name of a participant for a pilot session to test **compensation payments**:
 - Pilot participant name: Shane Strassberg
 - Pilot participant email: shane.strassberg@va.gov
-- Date and time of pilot session: Wednesday, April 17th from 11:15-11:45am
+- Date and time for this pilot session: Wednesday, April 17th from 11:15-11:45am
 
 Date and name of a participant for a pilot session to test **education benefits**:
 - We need help from Perigean to find a pilot participant that meets the following criteria:
 	- Must use `ID.me` OR `Login.gov` as their VA.gov credential
 	- Must receive direct deposit payments for *just education benefits* (not compensation & pension)
-- Date and time of pilot session: TBD
+- Date and time for this pilot session: TBD
 	- Availability: Thursday, April 18th from 9am-2pm (preferred day)
 	- Availability: Friday, April 19th from 9am-2pm 
 
