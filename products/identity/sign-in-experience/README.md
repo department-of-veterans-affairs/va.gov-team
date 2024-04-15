@@ -74,6 +74,7 @@ TBD
 ## Design and UX
 
 - [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
+- [Design system: Signed out vs. signed in templates](https://design.va.gov/templates/signed-out-vs-signed-in)
 - [Placeholder for mockups]
 - [Placeholder for flows]
 - [Placeholder for use case documentation]
