@@ -19,13 +19,13 @@ Each CSV file on this page contains specific content guidance for these form fie
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/email-address#content-considerations)
 
 ## Names
-- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Names_form.patterns_VADS.xlsx?d=wa2a40a510b904317afa03b6234b3868c&csf=1&web=1&e=NTH4fA)
+- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Names_form.patterns_VADS.csv?d=w9cbeb01c18344825a1b9ea23b8047d12&csf=1&web=1&e=jZ96K5)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/names#content-considerations)
 
 ## Phone numbers
-- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Phone.numbers_form.patterns_VADS.xlsx?d=w1836ce1773794161b3871aa8f678278d&csf=1&web=1&e=srZ2JW)
+- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Phone.numbers_form.patterns_VADS.csv?d=w0c2c311d0e414491a2a7b6e3397ac6ab&csf=1&web=1&e=sq6O9u)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/phone-numbers#content-considerations)
 
 ## Social security or VA file number
-- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Social.security_form.patterns_VADS.xlsx?d=wdd79d44b6fdb4561aac688a9832a0e1e&csf=1&web=1&e=Oy5Rzq)
+- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Social.security_form.patterns_VADS.csv?d=wcc596f79173541a1bf138bf025d8ba49&csf=1&web=1&e=kUTM1S)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/social-security-number#content-considerations)
