@@ -10,9 +10,37 @@ Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
 - The team approaches the release with a content and code freeze implementation. It went okay as there was one launch blocker.
 - Content misalignment with incremental layout, static page is owed by Content but requires Developers to set up/edit the widget.
 
+**Registration**
+- Talked about HEC meeting on 4/10/24 where the MVP user flows Mural and rough mocks were shown
+- Received decision about priority of contacting for registrtion mvp: 1. call, 2. download/mail, 3. facility
+- Have contacts for data gathering
+- Will schedule internal meeting to go over next steps or review in Sprint Planning
+
+**CG Updates**
+- Next up priority to focus on (they are minor design and content updates needed)
+- Needs to be live by June
+
+
 **Looking Ahead**
-- Kristen and Patricks are in dialogue for upcoming items such as documentation attachment, HEC Aduit, and Registration-only next steps.
-- Jessica mentioned Smart Branching
+- Kristen and Patrick are in dialogue for upcoming items such as documentation attachment, HEC Aduit, and Registration-only next steps, and Event Bus integration. 
+- Jessica mentioned smart branching logic exploration per feedback from toxic exposure usability sessions
+
+
+
+
+## 2024-04-08
+
+Attendees: Angela, Hieu, Jessica, & Kristen.
+
+
+- Went over high level take-aways from the toxic exposure research sessions last week - Veterans expressing wanting smart logic in the form flow. An example being, if a Veteran enters their DOB and military service dates, the tera questions they are seen should be relevant to them like skipping questions about Vietnam or Agent Orange if they did not serve in that time
+- 
+- Hieu went over the choose your own adventure flow and talking through the options and engineering chats around that so far. Part of this includes updates to using the multiple responses/card pattern. Kristen mentioned a confirmation flow could have the same Veteran experience impact with less engineering lift, to consider that route.
+
+- Registration.... talked over the MVP Option 1 flow and the outstanding HEC questions that we want to talk through on Wednesday. Mostly around the data we want to get before and after this goes live to track the data for the service-connected 10-40% use case. Kristen mentioned that the Option B prototype testing (aka the digital solution for registration) is probably a lower priority of other items.
+
+- EZ/CG priorities - know the CG updates is next up as we wrap up the EZ toxic exposure research. After that with the registration mvp, Kristen will initiate convos on the UX priorities with the other initiatives coming up
+
 
 ## 2024-04-01
 Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
