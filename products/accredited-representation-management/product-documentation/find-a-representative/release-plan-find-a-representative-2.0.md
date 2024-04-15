@@ -135,8 +135,8 @@ _Link to DOMO dashboards TBD_
 
 ### 1-Month Results (3/11-4/13)
 
-1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
-3. User reports of outdated information: Out of 9,322 total users there were 4 reports of outdated information -- 2 phone numbers reported (for separate representatives), 1 email address reported, 1 other reported with the comment “contact information”
+1. **Errors in Sentry**: no errors on the fetching of rep information for search results, and the reporting of outdated information
+3. **User reports of outdated information**: Out of 9,322 total users there were 4 reports of outdated information -- 2 phone numbers reported (for separate representatives), 1 email address reported, 1 other reported with the comment “contact information”
 12. **Contact Center calls (MyVA411)**: TBD
 13. **Feedback survey submmissions (Medallia)**: TBD 
 
