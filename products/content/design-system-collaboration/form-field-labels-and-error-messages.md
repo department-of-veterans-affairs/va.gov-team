@@ -7,11 +7,11 @@ Each CSV file on this page contains specific content guidance for these form fie
 - Notes on variations
 
 ## Addresses
-- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Addresses_form.patterns_VADS.xlsx?d=w166ffacdac084b578c6d52519bfb46ba&csf=1&web=1&e=NFaaxR)
+- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Addresses_form.patterns_VADS.csv?d=w53d6e73fc6be48d69257e9c004ec17fa&csf=1&web=1&e=WfQxBa)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/addresses#content-considerations)
 
 ## Dates
-- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Dates_form.patterns_VADS.xlsx?d=w6dea8257ca5242d390309bcc9a95a656&csf=1&web=1&e=vrXDwg)
+- [Link to CSV file](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/Shared%20Documents/4.0%20Style%20guide/Form%20fields%20and%20error%20messages%20for%20VADS/Dates_form.patterns_VADS.csv?d=w170a42be9ad64254a2b06863d1374334&csf=1&web=1&e=lF6wjV)
 - [Where this shows up in the design system](https://design.va.gov/patterns/ask-users-for/dates#content-considerations)
 
 ## Email address
