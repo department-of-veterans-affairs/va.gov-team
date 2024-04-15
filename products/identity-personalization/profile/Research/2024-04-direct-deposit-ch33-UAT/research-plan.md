@@ -127,8 +127,9 @@ Date and name of a participant for a pilot session to test **education benefits*
 	- Must use `ID.me` OR `Login.gov` as their VA.gov credential
 	- Must receive direct deposit payments for *just education benefits* (not compensation & pension)
 - Date and time of pilot session: TBD
-	- Availability: Thursday, May 18th from 9am-2pm (preferred day)
-	- Availability: Friday, May 19th from 9am-2pm 
+	- Availability: Thursday, April 18th from 9am-2pm (preferred day)
+	- Availability: Friday, April 19th from 9am-2pm 
+
 ### Research sessions
 What dates do you plan to do research? 
 - To meet the requirement for 10 days’ lead time, we’d like to list the date of Monday, April 29th.
