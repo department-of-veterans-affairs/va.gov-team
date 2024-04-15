@@ -25,6 +25,7 @@ events.
           - Do satellite locations and mobile Vet Centers have different event needs than
 regular Vet Centers?
      - Potential research:
+         - Some discovery work has been started in [Initiative - Events for Vet Centers ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12926)    
          - Audit current events on Vet Center and VBA (legacy site) pages. This work was
 started during a [VBA Regional Office audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1660588245137/17e30f1f578bfeb51b90c051e7f5124e57a835e5?sender=u01810f3edbfc878c08be5925).
          - Use Vet Center hours to ask about their event needs
