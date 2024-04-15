@@ -32,6 +32,7 @@ I think it makes the most sense to leverage a new va.gov database table to be th
 Note: Below is just some pseudo code to get whats in my brain on paper.
 1. Create a DB table like `ivc_forms` with columns [UUID (auto-generated), form_UUID, file_name, email, status, created_at, updated_at]
    - Ex: [AUTO UUID, a0a9682e-04f2-44ad-85ca-99e2d9ff6a21, a0a9682e-04f2-44ad-85ca-99e2d9ff6a21_vha_10_10d.pdf, veteran@aol.com, "pending", AUTO, AUTO]
+   - Code for this implementation is here: https://github.com/department-of-veterans-affairs/vets-api/pull/16311
 2. Update the uploads_controller.rb to insert new rows, more if there are multiple files, like below (Don mentioned Burals team is doing something similar and will investigate):
     ```
     Class::Model.create!(
@@ -40,6 +41,7 @@ Note: Below is just some pseudo code to get whats in my brain on paper.
           status: "Submitted"
         )
     ```
+    - Code for this implementation is here: https://github.com/department-of-veterans-affairs/vets-api/pull/16320/files
 3. Add `post 'forms/process', to: 'forms#process'` to routes.rb and then send that endpoint to PEGA to add to their llambda.
   3a. We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
     ```
@@ -54,9 +56,9 @@ Note: Below is just some pseudo code to get whats in my brain on paper.
     post '/status_updates', to: 'status_updates#receive' 
     # ... existing routes
 end
-
+   - TBD
 4. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://va.gov/ivc-pega-updates
-
+   - TBD
 5. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
     ```
     class FormsController < ApplicationController
@@ -96,6 +98,7 @@ end
       end
     end
     ```
+   - TBD 
 6. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
 After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
 1. Clean Up Job (CRON) - We don't want the data rows to remain in the table after being processed over 60 days based on our ATO. We can use the status and updated_at column to distingush what can be purged from the database.
