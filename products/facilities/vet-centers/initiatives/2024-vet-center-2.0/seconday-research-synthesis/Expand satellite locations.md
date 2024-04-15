@@ -4,6 +4,9 @@ From [Vet Center 2.0 Initiative ticket](https://github.com/department-of-veteran
 staff, daily hours and a full suite of services.
 - Link to Other Locations could be more prominent.
 
+From [Research discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17667#issuecomment-2052410371):
+- Vet Center editors do not have a way to indicate the services available or details about the ways the service is delivered, such as evidence based modalities or support groups for either of these types of locations. In some cases, this could prevent satellite locations from showing on Facility Locator search results. 
+
 ## Past research
 - Veterans understand what satellite locations are but have assumptions about the type of care
 available there.
