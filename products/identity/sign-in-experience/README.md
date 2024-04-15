@@ -50,6 +50,8 @@ As of spring 2024, there is no one managing the end-to-end user-facing sign in e
 - Unify end-to-end sign in flows
 - Ensure that sign-in flows are implemented consistently across VA.gov
 - Work with the design system to establish and codify standards around the sign-in experience
+
+Please note that we work in close collaboration with Content, Accessibility, and Information Architecture (CAIA) on all content and IA-related needs. 
   
 ## Credential Service Providers (CSPs)
 
