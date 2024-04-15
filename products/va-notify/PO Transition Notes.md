@@ -61,6 +61,10 @@
       + Ask the MR team if they are interested in utm tracking and callbacks
   - VA Profile will have pre-populated preferences from MHV
 
+**BVA**
+* Hearing Reminders
+  - Currently hearing reminders are triggered by VEText.  The Caseflow team has plans to integrate directly with VA Notify to send hearing reminder SMS notifications
+  - A preference for this exists in VA.gov
 
 **AWS**
 * Key Rotation
@@ -71,7 +75,16 @@
   - Email quota - 10M in a 24hour period
   - SMS - $500K/month spending limit
 
+**ICS calendar attachements**
+This is supported by the platform, but hasn't been used.  The team would need to a spike to recollect how this works and possibly add this to our Portal.  
 
+**Future Work**
+* SMTP - Internal email sending
+  - At the moment VA Notify emails, received at a va.gov email address, show as "External".  To avoid this we can send emails to va.gov addresses to smtp.va.gov, instead of using AWS.
+  - Chatted with Andew Nesler and he suggested pointing to "partnersmtp.va.gov to test connectivity first.
+  - If that does not pan out, we may have to put in an ESECC request
+ 
+* CC 
 
 
 
