@@ -122,7 +122,7 @@ Date and name of a mock participant for a pilot session:
 
 ### Research sessions
 What dates do you plan to do research? 
-- **8/2 - 8/4**
+- TBD
 
 ### Length of sessions
 Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
