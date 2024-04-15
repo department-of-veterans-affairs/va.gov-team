@@ -46,15 +46,14 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 #### In scope
 
 * **Benefit Name / VA Benefit API ID**
-  * For initial load we want to auto pop with camelCase. Then before releasing, have PW validate to make sure it makes sense to future developer.
+  * For initial load, auto-populate with camelCase. VA Services taxonomy uses lower camelCase, and we could follow suit here. Before releasing, have PW validate to make sure it makes sense to future developers.
     * No hard business requirements are known here, so this could be handled in whatever way makes sense to CAIA + engineering.
-    * VA Services taxonomy uses lower camelCase, and we could follow suit here.
 * **How to Apply Section**
-  *  This is for programs like dental care, filling out the 1010ez
-    *  Per Dave, fits into the How to Apply Section > For programs like dental care where you apply by filling out the 10-10EZ health care form, but that might not be obvious, how do we or do we need to account for that in content? Or what about a benefit like vision care where you don’t apply directly? Should there be more to this section than linking to the other benefits? Or do we need to think through that more in page-level emplates?
+  *  This is for programs like Dental Care, where the Veteran is filling out the 1010ez.
+    *  Per Dave, this fits into the How to Apply Section. For programs like dental care where you apply by filling out the 10-10EZ health care form, but it might not be obvious to the user/Veteran they need to fill out the form, how do we or do we need to account for that in content? Or what about a benefit like vision care where you don’t apply directly? Should there be more to this section than linking to the other benefits? Or do we need to think through that more in page-level templates?
 *  **Exclusionary and Simultaneous Benefits** (Needs Content modeling)
   *  _Exclusionary Benefits:_ Meaning > If you have this you can’t have that
-    *  Example: Question is asked: "Add Exclusionary benefits?" Options could be "Housebound or Aid & Attendance", etc. Note to Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
+    *  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound or Aid & Attendance", etc. Note to Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
   *  _Simultaneous Benefits:_ Meaning > if you have this, you have to have this at the same time, or you’re automatically enrolled at the same time.
     *  Example: Add Simultaneous benefit? Note to Veteran: What we’re talking about here is a benefit that you should or must consider applying for or obtaining at the same time as this benefit.
 * **Benefit Description**
