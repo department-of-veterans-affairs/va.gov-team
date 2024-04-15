@@ -43,6 +43,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 
 ### MVP solution
 #### In scope
+
 #### Explicitly out of scope
 
 ### Product roadmap/phases
