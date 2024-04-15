@@ -206,6 +206,7 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Enable Dependabot updates in checkin-devops repository. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79783)
         - ✔️ 🟨 [[DevOps] Pin GHA versions in checkin-devops GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79785)
         - ✔️ 🟨 [[DevOps] Transfer ownership of checkin-devops repository from vnce-avalanche to patient-check-in. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79911)
+        - ✔️ 🟨 [[DevOps] Deal with secret scanning alerts.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80746)
 
 ______________________________________________________________________________________________________________________________________________________
         
