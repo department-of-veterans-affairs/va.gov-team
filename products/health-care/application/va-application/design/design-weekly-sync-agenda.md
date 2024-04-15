@@ -1,5 +1,19 @@
 # Design Weekly Sync Agenda
 
+## 2024-04-15
+Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
+
+**EZR V2**
+- Hieu presents the confirmation flow with the complexity breakdown
+
+**EZR TERA Launch Recap**
+- The team approaches the release with a content and code freeze implementation. It went okay as there was one launch blocker.
+- Content misalignment with incremental layout, static page is owed by Content but requires Developers to set up/edit the widget.
+
+**EZR TERA Launch Recap**
+- Kristen and Patricks are in dialogue for upcoming items such as documentation attachment, HEC Aduit, and Registration-only next steps.
+- Jessica mentioned Smart Branching
+
 ## 2024-04-01
 Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
 
