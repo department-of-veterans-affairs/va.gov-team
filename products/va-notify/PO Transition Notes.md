@@ -82,9 +82,9 @@ This is supported by the platform, but hasn't been used.  The team would need to
 * SMTP - Internal email sending
   - At the moment VA Notify emails, received at a va.gov email address, show as "External".  To avoid this we can send emails to va.gov addresses to smtp.va.gov, instead of using AWS.
   - Chatted with Andew Nesler and he suggested pointing to "partnersmtp.va.gov to test connectivity first.
-  - Latest note 7/7/22 _I’m not sure what the level of effort is, but this would allow for you to send straight to our relays for email delivery (smtp.va.gov). No EXTERNAL tag is appended to emails. All messages are properly signed as VA.gov and fall in compliance with BOD-1801. The only caveat, is that I don’t believe you can use Amazon’s SES (Simple Email Service) as they don’t allow you to modify their SMTP settings to send to us (smtp.va.gov). We have had other system owners experience similar issues. 
+  - Latest note 7/7/22 *I’m not sure what the level of effort is, but this would allow for you to send straight to our relays for email delivery (smtp.va.gov). No EXTERNAL tag is appended to emails. All messages are properly signed as VA.gov and fall in compliance with BOD-1801. The only caveat, is that I don’t believe you can use Amazon’s SES (Simple Email Service) as they don’t allow you to modify their SMTP settings to send to us (smtp.va.gov). We have had other system owners experience similar issues. 
 
-Another option would be to change the sender address to a non-VA owned domain and registering the required DNS records through Amazon. Continue using Amazon SES (Simple Email Service) from AWS w/ a dedicated IP. TIC Gateway Engineering can explore options on removing the EXTERNAL tag by the sender IP and the “Friendly-From” address.-_
+  Another option would be to change the sender address to a non-VA owned domain and registering the required DNS records through Amazon. Continue using Amazon SES (Simple Email Service) from AWS w/ a dedicated IP. TIC Gateway Engineering can explore options on removing the EXTERNAL tag by the sender IP and the “Friendly-From” address.*
 
  
 * CC 
