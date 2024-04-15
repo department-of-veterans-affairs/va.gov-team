@@ -188,7 +188,7 @@ ________________________________________________________________________________
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
         - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
-              - Pulled in to sprint on 4/15 and targeting completion by EOS
+           - Pulled in to sprint on 4/15 and targeting completion by EOS
         - ✔️ 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - 🟥 [Research] Analyze GA Metrics
