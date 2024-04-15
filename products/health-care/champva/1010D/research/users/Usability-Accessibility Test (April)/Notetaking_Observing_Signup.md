@@ -141,4 +141,4 @@ Notetaker:
 AT: Screen Magnifier
 CAIA: 
 Observer: 
-Zoom: 
+Zoom: https://us02web.zoom.us/j/2514747350?omn=85175924410
