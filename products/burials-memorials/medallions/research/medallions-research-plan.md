@@ -104,7 +104,7 @@ Weâ€™d like to recruit 10 participants for a total of 8 completed sessions. Weâ€
 - Types: 
     * Three to four spouses or surviving spouses of a service member of Veteran (A **spouse** is a person who is or was legally married to a service member or Veteran. A **surviving spouse** is someone who was legally married to the service member or Veteran at the time of their death and includes a surviving spouse who remarried.)
     * Two or three personal representatives (a person filling out the medallions form that is connected to the Veteran, called the applicant.)
-    * One parent of a service member (not the parent of a Veteran so only applicable for parents of service members; considered a Corey Shea Act applicant)
+    * One parent of a service member
     * Six to eight people interested in getting a medallion for a privately purchased marker
     * We would like to emphasize recruiting more from the following underserved communities:
         * Identify as Biracial, Asian, Black, or LGBTQ+ 
