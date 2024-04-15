@@ -32,10 +32,10 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## Out of Scope: (for this iteration)
 * Incident Response
-* Accountability in SLOs - who gets assigned & their impact toward total numbers
-* Automation
-  *  Notify when investigations are happening.
-  *  Slack notifications when SLOs reach a certain level.
+  * Accountability in SLOs - who gets assigned & their impact toward total numbers
+    * Automation
+      * Notify when investigations are happening.
+      * Slack notifications when SLOs reach a certain level.
 
 
 ## Use Cases:
@@ -65,12 +65,13 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 | Issue         | Notes         | 
 | ------------- |:------------- | 
 | Language when publishing the SLA |   Would like UX help in crafting the publishing language          |
+| Veterans who don't speak tech | How do we ensure they understand what they might be seeing? |
 
 
 ## Measuring Success:
 | KPI           | Notes         | 
 | ------------- |:-------------| 
-| How are we meeting the SLA are published on a monthly basis |    |
+| How are we meeting the SLA  |    |
 
 
 ## Baseline KPI Values:
