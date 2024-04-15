@@ -38,24 +38,24 @@
 
 ## Status
 
-| Artifact | Endpoint | Source | AVA CRM | AVA VA.gov | Phase | Notes |
-|---|---|---|:---:|:---:|---|---|
-Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | integration |  | 
-Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | 🟩 | integration |  | 
-Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟩 | 🟩 | integration | | 
-Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | 🟩 | integration | | 
-Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟩 | 🟩 | integration | | 
-Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟩 | 🟨 | development | CRM handed off this endpoint on 02/27 | 
-Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟩 | 🟨 | development | CRM handed off this endpoint on 03/26 |  
-Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟩 | 🟩 | integration | done 03/12 | 
-Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint | 
-Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint on 03/01 |
-Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟩 | 🟩 | integration | CRM hand off 03/14, VA.gov integration 4/8 | 
-Dashboard | [PUT /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.md) | Dynamics | 🟩 | 🟡 | ready for dev | CRM handed off this endpoint on 03/11 | 
-~Form~ | ~[GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete |  | 
-~Form~ | ~[GET /states](lighthouse/Form_States.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete | |  
-~Form~ | ~[GET /countries](lighthouse/Form_GetCountries.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | obsolete | | 
-Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | 🟩 | integration | done 03/12 | 
-Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | GI Bill Comparison Tool (GIBCT) | N/A | 🟡 | ready for dev |  | 
-Form | [GET /profile](va_profile/profile_processes.md) from VA | VA Profile | N/A | 🟡 | ready for dev | ?? | 
+| Artifact | Endpoint | Source | AVA CRM | VA.gov Static | VA.gov Live | Phase | Notes |
+|---|---|---|:---:|:---:|:---:|---|---|
+Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | ⬜ | 🟩 | integration |  | 
+Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | ⬜ | 🟩 | integration |  | 
+Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟩 | ⬜ | 🟩 | integration | | 
+Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | ⬜ | 🟩 | integration | | 
+Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟩 | ⬜ | 🟩 | integration | | 
+Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟩 | ⬜ | 🟨 | development | CRM handed off this endpoint on 02/27 | 
+Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟩 | ⬜ | 🟨 | development | CRM handed off this endpoint on 03/26 |  
+Dashboard | [GET /attachment?{id}](crm_api/Dashboard_GetAttachment.md) | Dynamics | 🟩 | ⬜ | 🟩 | integration | done 03/12 | 
+Form | [GET /inquirystatus?{inquiryNumber}](crm_api/Form_GetInquiryStatus.md) | Dynamics | 🟩 | ⬜ | 🟡 | ready for dev | CRM handed off this endpoint | 
+Dashboard | [GET /inquiry/{id}/replies](crm_api/Dashboard_RetrieveReplies.md) | Dynamics | 🟩 | ⬜ | 🟡 | ready for dev | CRM handed off this endpoint on 03/01 |
+Dashboard | [PUT /inquiry/{id}/reply/new](crm_api/Dashboard_SubmitAReply.md) | Dynamics | 🟩 | ⬜ | 🟩 | integration | CRM hand off 03/14, VA.gov integration 4/8 | 
+Dashboard | [PUT /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.md) | Dynamics | 🟩 | ⬜ | 🟡 | ready for dev | CRM handed off this endpoint on 03/11 | 
+~Form~ | ~[GET /zipcodes?{prefix}](lighthouse/Form_ZipCodes.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | ~N/A~ | obsolete |  | 
+~Form~ | ~[GET /states](lighthouse/Form_States.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | ~N/A~ | obsolete | |  
+~Form~ | ~[GET /countries](lighthouse/Form_GetCountries.md)~ | ~Lighthouse~ | ~N/A~ | ~N/A~ | ~N/A~ | obsolete | | 
+Form | [GET /facilities?{code}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | ⬜ | 🟩 | integration | done 03/12 | 
+Form | [GET /schools?{facilityId}](crm_api/Form_SchoolFacilityCodes.md) | GI Bill Comparison Tool (GIBCT) | N/A | ⬜ | 🟡 | ready for dev |  | 
+Form | [GET /profile](va_profile/profile_processes.md) from VA | VA Profile | N/A | ⬜ | 🟡 | ready for dev | ?? | 
 
