@@ -28,7 +28,7 @@ Technical documentation is broken up, then, into 3 sections:
 
 
 ## Vets-api / Lighthouse Key & rate limits
-* Vets-api: VA  Code: [vets-api/modules/va_forms](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/va_forms)
+* Vets-api: VA  Code: [vets-api/modules/facilities_api](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api)
 * Lighthouse Facilities API Documentation: https://developer.va.gov/explore/api/va-facilities - Documentation for API that indexes data sourced from VA.gov, Lighthouse
 
 ### **API user/key:**
@@ -49,9 +49,18 @@ If/when we request rate limit changes, that rate limit will be set for all APIs 
 More info on [rate limit changes (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase).
 
 ### Error messages
-When API hits a rate limit, an error message will be displayed to end users, "We're sorry. Something went wrong when we tried to load the search widget." That message originates from Drupal in a React widget on the Find-Form node:
-https://staging.cms.va.gov/node/2352/edit
-https://staging.cms.va.gov/find-forms
+When API hits a rate limit... TODO: Verify what happens in FL and document here
+
+### Request API limit increase
+If 429 errors occur in Datadog or Sentry, this indicates that traffic is high and we are being throttled by an API rate limit / requests are being rejected. We can request API limit increases for specific endpoints, and the Lighthouse Facilities team can help expedite approvals. Rate limit changes will affect all users of the API key, across used APIs. 
+
+To request a rate limit increase:
+1. Ping #cms-lighthouse in DSVA slack, and explain the issue / what you're seeing to the Lighthouse Facilities API team.
+2. LH can provide specifics on what endpoint will need to be increased for limit, and what the current limit is. They can also help suggest the new limit. If you already know this info, skip to 3.
+3. Visit https://developer.va.gov/support/contact-us. Fill out the form with endpoint, limit, and limit increase information/
+4. Share with #cms-lighthouse that request is made. Lighthouse team can then help expedite approval.
+
+Typically, we may want to reduce the limit again after traffic spikes end. If that's true, create a ticket to track requesting the lower limit. 
 
 ### Platform Developer docs
 - [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) - Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
