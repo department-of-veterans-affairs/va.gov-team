@@ -7,25 +7,14 @@ There are basically two goals of this project:
 - Display and explain the user data in a way that is easy to understand and report upon.
 
 ## Problem Statement: 
-The data produced by the Identity Team is often not instantly understandable and can be misrepresented or misinterpreted.  We need to find out what kind of data VA Leadership finds useful, and create a way for them to access that data on a regular basis.
-
-Understand what people find useful, our audience is, what data is important to each audience.
-
-Define what the data is, get them closest to what they're looking for.
-
-Simple sets of user data -- agreed-to by the entire team, tell our story, properly
+The data produced by the Identity Team is often not instantly understandable and can be misinterpreted or misrepresented.  We need to find out what kind of data VA Leadership finds useful, and create a way for them to access that data on a regular basis.
 
 
 ## Relevant Documents:  (Joe's notes)
 [Current VA.Gov Identy Stats Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1710610618968&to_ts=1713202618968&live=true)
 
 
-- Settle on definitions for data
 
-- We need a single set of definitions around the data we present
-
-
-- Define data we present in an easy to understand format
 
 
 ## What's In Scope: 
@@ -54,11 +43,9 @@ For this first iteration, the focus will be on user authorization data specifcia
 * There are common pieces of user authorization data that VA Leadership is continually wanting to view.
 
 ## Solution Approach: 
-* Do research to determine what kind of
-* Determine what's useful.
-* Build out the data
-* What are the user data requirements?
-* Probably datadog, maybe public-facing.
+* Do research to determine what kind of data VA Leadership needs.
+* Do research around industry standards for reporting & displaying user data.
+* Build out the data dashboard, making sure that it's simple and easily interpreted.
 
   
 ## Technical Considerations:
