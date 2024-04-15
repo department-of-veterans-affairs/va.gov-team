@@ -137,8 +137,8 @@ _Link to DOMO dashboards TBD_
 
 1. Errors in Sentry: no errors on the fetching of rep information for search results, and the reporting of outdated information
 3. User reports of outdated information: Out of 9,322 total users there were 4 reports of outdated information -- 2 phone numbers reported (for separate representatives), 1 email address reported, 1 other reported with the comment “contact information”
-12. **Contact Center calls (MyVA411)**: none
-13. **Feedback survey submmissions (Medallia)**: 1 submission for the Find a Rep product page on 3/20/2024 -- submitter indicated "no" to the question "Were you able to do your task today?" and for "What task were you trying to do today?" they said "Find a representative."  They also gave a "1" for their overall satisfaction with the site. 
+12. **Contact Center calls (MyVA411)**: TBD
+13. **Feedback survey submmissions (Medallia)**: TBD 
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** nothing at this time
 
