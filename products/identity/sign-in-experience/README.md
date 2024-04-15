@@ -33,6 +33,23 @@ Historically, [the sign-in experience on VA.gov is one of the lowest-rated exper
 - As a veteran, I want to be able to switch between different VA websites without having to sign in more than once.
 - As a veteran, I want to be able to quickly and easily verify my identity to access my personal information with VA.
 - As a veteran, I want to be able to quickly fix any issues I have with sign in.
+
+## Business goals
+
+As of spring 2024, there is no one managing the end-to-end user-facing sign in experience across VA.gov. As such, teams are going rogue and creating their own standards, and CAIA (Content, Accessibility, and Information Architecture) are being left to clean up the mess. With identity at the helm, we can accomplish the following goals:
+
+- Improve the customer support rating for the sign-in experience
+- Be a singular owner of the user-facing sign in experience so teams aren't going rogue
+- Provide guidance on the user-facing sign-in experience to teams implementing authenticated flows on VA.gov
+- Ensure consistency and standards across the user-facing sign-in experience
+
+## Team responsibilities
+
+- Maintain, iterate on, and update the unified sign in page
+- Provide a consistent experience with sign-in widgets found throughout VA.gov
+- Unify end-to-end sign in flows
+- Ensure that sign-in flows are implemented consistently across VA.gov
+- Work with the design system to establish and codify standards around the sign-in experience
   
 ## Credential Service Providers (CSPs)
 
@@ -42,16 +59,6 @@ Currently, the universal sign-in page support four CSPs:
 - Login.gov
 - DS Logon
 - My HealtheVet
-
-## Team responsibilities
-
-This team is responsible for the following:
-
-- Maintaining, iterating on, and updating the unified sign in page
-- Providing a consistent experience with sign-in widgets found throughout VA.gov
-- Unifying end-to-end sign in flows
-- Ensuring that sign-in flows are implemented consistently across VA.gov
-- Working with the design system to establish and codify standards around the sign-in experience
 
 ## Projects
 
