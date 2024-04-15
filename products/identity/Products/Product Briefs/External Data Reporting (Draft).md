@@ -1,11 +1,13 @@
 # External Data Reporting (Draft)
 
 ## Overview: 
-Understand what kind of data our users want, who they are
-Display and explain the data in a user-friendly way
+There are basically two goals of this project:
+
+- Understand what kind of data our users want from us.
+- Display and explain the data in a user-friendly way.
 
 ## Problem Statement: 
-The data produced by the Identity Team is often not instantly understandable and can be misrepresented or misinterpreted.
+The data produced by the Identity Team is often not instantly understandable and can be misrepresented or misinterpreted.  We need to find out what kind of data VA Leadership finds useful, and create a way for them to access that data on a regular basis.
 
 Understand what people find useful, our audience is, what data is important to each audience.
 
@@ -16,27 +18,32 @@ Simple sets of user data -- agreed-to by the entire team, tell our story, proper
 
 ## Relevant Documents:  (Joe's notes)
 - Settle on definitions for data
-- Understand the reasons why teams/people want the data they are asking for
-- What are the user data requirements of each audience
+
 - We need a single set of definitions around the data we present
 - Industry standards surrounding reporting & displaying user data
-- Why are they reporting user data they are, what is the impact of the data
-- Define data we present in an easy to understand  format
+
+- Define data we present in an easy to understand format
 
 
 ## What's In Scope: 
-For this first iteration, the focus will be on:
-- Focus on VA leadership
+For this first iteration, the focus will be on data specifcially for VA Leadership:
+* Determine what kind of data they find useful.
+  * Why are they asking for that data?
+  * What is the impact of the data?
+* 
+  * This includes ensuring that there is a common language: that everybody has the same definition of what X is.
+* Display that data 
+
 * What more common data can we get into a public-facing dashboard
 * Being able to point people to the data 
 * Building up data repository.
 * Explaining the data
 
 ## Out of Scope: (for this iteration)
-*
+* Data not specifically for VA Leadership
 
 ## Use Cases:
-| User          | Problem       | How does this solution address the problem?  |
+| User          | Problem       | Solution  |
 | ------------- |:-------------:| -----:|
 | |   |   |
 
