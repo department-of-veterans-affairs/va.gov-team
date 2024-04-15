@@ -97,7 +97,7 @@ _Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD
 - [ ] In bulleted lists, each list item is a complete sentence wherever possible. There may be exceptions when a phrase or single word makes sense.
 - [ ] Dates are written in non-numeric format.
 
-## URLs and links Links to other pages
+## URLs and links to other pages
 
 - [ ] Links to pages that won't be translated include the phrase (in English) or (en inglés) as part of the link. **Note:** This is a specific 508 requirement.
 
