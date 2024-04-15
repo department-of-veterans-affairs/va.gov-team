@@ -1,4 +1,4 @@
-# Research Plan: Direct deposit payment instruction consolidation UAT, TBD 2024
+# Research Plan: Direct deposit payment instruction consolidation UAT, April TBD, 2024
 
 ## Background  
 
@@ -8,7 +8,7 @@ VBA is migrating many educational benefits from the legacy system to a newer pay
 
 ### OCTO-DE Objectives 
 
-Objective [#1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1): Work collaboratively across the health and benefits portfolios on high-priority FY2024 initiatives.  
+[Objective #1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1): Work collaboratively across the health and benefits portfolios on high-priority FY2024 initiatives.  
 - KR: At least 50% of our initiatives should support the major initiatives in the health and benefits portfolio.
 
 Our team is dedicated to supporting this migration initiative on VA.gov Profile while limiting service disruptions for Veterans and other users who need to view or change their direct deposit information. 
@@ -43,17 +43,19 @@ Based on the outcome of this research study, we will correct any bugs or signifi
 ### Hypothesis
 Direct Deposit will function as expected, answering affirmatively to all four research questions.
 
-## Method
-While sharing their screen in remote (Zoom) interviews, participants will complete specific tasks as part of user acceptance testing to either demonstrate that Direct Deposit payment information is functioning as expected.
+## Method	
+While sharing their screen in remote (Zoom) interviews, participants will complete specific tasks as part of UAT to either demonstrate that Direct Deposit, Profile is functioning as expected.
 
 ### Location
 Remote via Zoom
 
 ### Research materials
-[Conversation Guide]() - **to be updated**
+[Conversation Guide]()
 
 ## Recruitment
-Perigean will recruit 9 participants for a total of 6 completed sessions. We would like to request a recruitment kickoff.
+Perigean will recruit 1 pilot participant before we meet with the rest of the participants. Perigean will also recruit 9 participants for a total of 6 completed sessions. 
+
+**We would like to request a recruitment kickoff with Perigean. We’re able to source a first pilot participant, but we need a second participant to complete the pilot portion of our UAT.**
 
 ### Recruitment criteria
 We will aim for recruiting 9 participants for a total of **6 completed sessions** segmented in the following manner:
@@ -96,7 +98,7 @@ Response options (radio button):  `ID.me`, `Login.gov`, `MyHealtheVet`, `DS Logo
 
 #### Email address
 
-What email address do you use to login to VA.gov?
+**What email address do you use to login to VA.gov?**
 This is a fill in the blank question, no character limit, and is not qualifying or disqualifying. 
 
 #### Direct deposit
@@ -110,32 +112,45 @@ Response options (radio button):
 
 Note: We ask this question because we’ll be asking you to confirm your direct deposit payments are set up correctly.
 
-## Timeline
+## Timeline 
 
 ### Prepare
-When will the feature you are testing be finalized? **TBD**
+When will the feature you are testing be finalized? April 16, 2024
 
-Date and name of a mock participant for a pilot session:
-- Pilot participant name: **TBD**
-- Pilot participant email: **TBD**
-- Date and time of pilot session: **(either Monday, July 31 or Tuesday, August 1)**
+Date and name of a participant for a pilot session to test **compensation payments**:
+- Pilot participant name: Shane Strassberg
+- Pilot participant email: shane.strassberg@va.gov
+- Date and time of pilot session: Wed 11:15-12:30 pm
 
+Date and name of a participant for a pilot session to test **education benefits**:
+- We need help from Perigean to find a pilot participant that meets the following criteria:
+	- Must use `ID.me` OR `Login.gov` as their VA.gov credential
+	- Must receive direct deposit payments for *just education benefits* (not compensation & pension)
+- Date and time of pilot session: TBD
+	- Availability: Thursday, May 18th from 9am-2pm (preferred day)
+	- Availability: Friday, May 19th from 9am-2pm 
 ### Research sessions
 What dates do you plan to do research? 
-- TBD
+- To meet the requirement for 10 days’ lead time, we’d like to list the date of Monday, May 29th.
+- However, **we’d like to start scheduling participants beforehand if at all possible**, given the pressing deadline of this migration. We’d like to schedule participants **as early as Monday, May 22nd**.
 
 ### Length of sessions
-Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
+Sessions will be 30 minutes with 1 hour in between sessions. Please schedule no more than 5 sessions per day.
 
 ### Availability
 
-| Date    | Times (Eastern) |     |
-| ------- | --------------- | --- |
-| **TBD** | 9am - 5pm       |     |
-| **TBD** | 9am - 5pm       |     |
-| **TBD** | 9am - any time  |     |
+| Date                                      | Times (Eastern)      |
+| ----------------------------------------- | -------------------- |
+| Monday, 4/22 (preferred early start date) | 10am - 5pm           |
+| Tuesday, 4/23                             | 10am - 1pm           |
+| Wednesday, 4/24                           | 10am - 1pm           |
+| Thursday, 4/25                            | 10am - 12pm; 3pm-5pm |
+| Friday, 4/26                              | 10am - 1pm; 2pm-4pm  |
+| Monday, 4/29 (stated start date)          | 10am - 4pm           |
+| Tuesday, 4/30                             | 10am - 5pm           |
+| Wednesday, 5/1                            | 10am - 1pm           |
 
-## Team Roles
+## Team Roles	
 - Moderator: Pam Drouin, pamela.drouin@a1msolutions.com
 - Research guide writing and task development: Pam Drouin
 - Participant recruiting & screening: Perigean
