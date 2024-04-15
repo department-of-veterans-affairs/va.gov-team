@@ -183,7 +183,7 @@ The "smart" solution here could be two-fold, depending on technical feasibility:
 
 ### Phase 3: Create My HealtheVet help + support page
 
-Considering some of the draw-backs to the global `/contact-us` page for My HealtheVet users specifically, there could be benefit to introducing a specific health + support page within the /my-health portal specifically. This would allow us to direct users to:
+Considering some of the draw-backs to the global `/contact-us` page for My HealtheVet users specifically, there could be benefit to introducing a specific help + support page within the `/my-health` portal. This would allow us to direct users to:
 * specific help/resources based on the type of question they have about My HealtheVet on VA.gov
 * layout the page page based on users mental models around managing their healthcare specifically (for authenticated users)
 * consider what support unauthenticated users might look for with a quick google search and surface that on the unauth My HealtheVet landing page.
