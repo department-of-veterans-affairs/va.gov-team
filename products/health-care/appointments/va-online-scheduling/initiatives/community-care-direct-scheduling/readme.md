@@ -1,6 +1,6 @@
 # CC Direct Scheduling initaitve brief 
 
-## Background
+## Overview
 
 ### Cleland-Dole Act
 
@@ -14,7 +14,9 @@
 - Community Care Program to self-schedule, modify, and cancel appointments directly online
 - Allows VA to expand capabilities of an existing appointment self-scheduling technology or purchase a new appointment self-scheduling technology 
 
-## CC direct scheduling end state
+### CC direct scheduling end state
+
+[Download the EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
 
 <img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030">
 
@@ -24,7 +26,7 @@
 
 #### CC provider selection usability study research findings
 
-*Research findings from 2020-10*
+*[Research findings from 2020-10 full report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2020-10-cc-provider-selection-usability/research-findings.md#findings-and-recommendations)*
 
 ##### Key takeaways
 
