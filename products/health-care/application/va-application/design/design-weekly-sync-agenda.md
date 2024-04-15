@@ -10,7 +10,7 @@ Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
 - The team approaches the release with a content and code freeze implementation. It went okay as there was one launch blocker.
 - Content misalignment with incremental layout, static page is owed by Content but requires Developers to set up/edit the widget.
 
-**EZR TERA Launch Recap**
+**Looking Ahead**
 - Kristen and Patricks are in dialogue for upcoming items such as documentation attachment, HEC Aduit, and Registration-only next steps.
 - Jessica mentioned Smart Branching
 
