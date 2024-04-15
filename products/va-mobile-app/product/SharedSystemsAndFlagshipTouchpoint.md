@@ -1,6 +1,16 @@
 This meeting is to discuss and address any dependencies between the VA Mobile Shared Systems teams and the Flagship teams that are using their systems.
 
 **Agenda/Notes**
+
+04/16/24
+* **Q2 Planning**
+   * Discuss Dependencies
+   * Ensure we are ready for read-out with POs
+* **Updating Epic cards (Kelly)**
+   * Timing has been determined to be at the end/beginning of each Sprint
+   * Slack reminder?  Calendar invite? How should we remind ourselves
+
+  
 04/2/24
 * **Q2 Planning**
    * Look at Next columns for teams
