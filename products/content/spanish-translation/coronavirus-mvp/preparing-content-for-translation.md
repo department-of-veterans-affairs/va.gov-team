@@ -83,9 +83,9 @@ _Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD
 |---|---|
 |  | |
 
-- [ ] Text avoids demonstrative pronouns (ex. replace "This allows you to" with "This function allows you to").
+- [ ] Text avoids demonstrative pronouns (e.g. replace "This allows you to" with "This function allows you to").
 - [ ] Text avoids or limits compound words wherever possible. [REVIEW THIS ONE MORE]
-- [ ] Text avoids the conditional (ex. replace "This would open the window" with "This will open the window").
+- [ ] Text avoids the conditional (e.g. replace "This would open the window" with "This will open the window").
 - [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
 - [ ] Text avoids "and/or" 
 - [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out on the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
