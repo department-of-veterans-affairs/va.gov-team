@@ -120,7 +120,7 @@ When will the feature you are testing be finalized? April 16, 2024
 Date and name of a participant for a pilot session to test **compensation payments**:
 - Pilot participant name: Shane Strassberg
 - Pilot participant email: shane.strassberg@va.gov
-- Date and time of pilot session: Wed 11:15-12:30 pm
+- Date and time of pilot session: Wednesday, April 17th from 11:15-11:45am
 
 Date and name of a participant for a pilot session to test **education benefits**:
 - We need help from Perigean to find a pilot participant that meets the following criteria:
