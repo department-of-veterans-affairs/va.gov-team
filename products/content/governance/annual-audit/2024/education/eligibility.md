@@ -17,7 +17,7 @@ Live page for context: [GI Bill and other education benefit eligibility](https:/
 - Text links that take the user to an external page (not on VA.gov) have purpose and target, in that order ([Request a transfer of benefits through milConnect](https://milconnect.dmdc.osd.mil/milconnect/))
 - The content is free of ability-focused language (view, walk, see, hear) **Note:** We allow "show" and "appear" when talking about evidence related to disability compensation.
 ## SME review
-**Name:** Cinda Quattrini
+**Name:** Cinda Quattrini  
 **Method of gathering feedback:** Verbal feedback in meetings
 ### Feedback/comments
 [Add feedback from SMEs]
