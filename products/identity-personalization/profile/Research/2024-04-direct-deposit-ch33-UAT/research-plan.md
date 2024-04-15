@@ -33,7 +33,7 @@ Specifically, this research will be looking to validate the following use cases:
 Based on the outcome of this research study, we will correct any bugs or significant usability hurdles and launch this work to veterans.
 
 ### Research questions
-- Is the API showing us the correct flags?
+- Is the API showing us the correct flags for direct deposit?
 - Are eligible participants able to successfully view and save their bank information?
 	- Are users able to open the edit modal, click cancel, and see the previously-saved directly deposit information still saved in their Profile?
 - When participants update their direct deposit information, do they receive the correct confirmation email?
@@ -41,7 +41,7 @@ Based on the outcome of this research study, we will correct any bugs or signifi
 - What expectations and impressions do participants have on the current iteration of the Account Security page?
 
 ### Hypothesis
-Direct Deposit will function as expected, answering affirmatively to all four research questions.
+Direct Deposit will function as expected, answering affirmatively to all direct deposit research questions.
 
 ## Method	
 While sharing their screen in remote (Zoom) interviews, participants will complete specific tasks as part of UAT to either demonstrate that Direct Deposit, Profile is functioning as expected.
@@ -50,7 +50,7 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/conversation-guide.md)
+[Conversation Guide]()
 
 ## Recruitment
 Perigean will recruit 1 pilot participant before we meet with the rest of the participants. Perigean will also recruit 9 participants for a total of 6 completed sessions. 
@@ -59,9 +59,9 @@ Perigean will recruit 1 pilot participant before we meet with the rest of the pa
 
 ### Recruitment criteria
 We will aim for recruiting 9 participants for a total of **6 completed sessions** segmented in the following manner:
-- Recruit 3 veterans for a total of 2 completed sessions who receive direct deposit payments for **only education benefits**
-- Recruit 3 veterans for a total of 2 completed sessions who receive direct deposit payments for **both education benefits AND compensation & pension benefits**
-- Recruit 3 veterans for a total of 2 completed sessions who receive direct deposit payments for **only compensation & pension benefits**
+- Recruit 3 veterans for a total of 2 completed sessions who receive direct deposit payments for **both** Post-9/11 GUI Bill (Chapter 33) education benefits **and** compensation & pension benefits
+- Recruit 3 veterans for a total of 2 completed sessions who receive direct deposit payments for **only** compensation & pension benefits
+- Recruit 3 veterans for a total of 2 completed sessions who receive direct deposit payments for **only** Post-9/11 GUI Bill (Chapter 33) education benefits
 
 **As part of recruitment, selected participants must be notified that we will be looking at the Direct Deposit section of the site, and they will need their direct deposit information readily available so they can enter it at the end of the session.**
 
@@ -72,13 +72,13 @@ We will need participants’ login emails ahead of time to grant their account a
 **All participants**
 - Must be able to screen share via Zoom
 - Must have an identity-verified account
+	- Roughly 50% of participants must use `ID.me` as their VA.gov credential
+	- Roughly 50% of participants must use `Login.gov` as their VA.gov credential
 
 **Some participants**
-- Roughly 50% of participants must use `ID.me` as their VA.gov credential
-- Roughly 50% of participants must use `Login.gov` as their VA.gov credential
-- 33% of participants must receive direct deposit payments for **just education benefits** (not compensation & pension)
-- 33% of participants must receive direct deposit payments for **just compensation & pension** (not education benefits)
-- 33% of participants must receive direct deposit payments for **both education benefits and compensation & pension**
+- 33% of participants must receive direct deposit payments for **both** Post-9/11 GUI Bill (Chapter 33) education benefits **and** compensation & pension benefits
+- 33% of participants must receive direct deposit payments for **only** compensation & pension benefits
+- 33% of participants must receive direct deposit payments for **only** Post-9/11 GUI Bill (Chapter 33) education benefits
 
 ### Additional screener questions
 
@@ -106,50 +106,47 @@ This is a fill in the blank question, no character limit, and is not qualifying 
 Do you currently receive direct deposit payments for any of the following benefits?
 
 Response options (radio button):
-- just education benefits (not compensation & pension)
-- just compensation & pension (not education benefits)
-- both education benefits and compensation & pension
+- *both* Post-9/11 GI Bill (Chapter 33) education benefits *and* compensation & pension
+- *just* compensation & pension (*not* Post-9/11 GI Bill (Chapter 33) education benefits)
+- *just* Post-9/11 GI Bill (Chapter 33) education benefits (*not* compensation & pension)
 
 Note: We ask this question because we’ll be asking you to confirm your direct deposit payments are set up correctly.
 
 ## Timeline 
 
-### Prepare
-When will the feature you are testing be finalized? April 16, 2024
+### Research sessions
 
-Date and name of a participant for a pilot session to test **compensation payments**:
+When will the feature you are testing be finalized? April 17, 2024
+
+What dates do you plan to do research? 
+- We would like to begin UAT on Monday, April 29th.
+- We will conduct two pilot sessions to prepare our UAT (see next section).
+
+### Pilot sessions
+
+The first pilot session will help test **compensation & pension benefits** before April 29th. Date and name of a participant:
 - Pilot participant name: Shane Strassberg
 - Pilot participant email: shane.strassberg@va.gov
-- Date and time for this pilot session: Wednesday, April 17th from 11:15-11:45am
+- Date and time for this pilot session: TBD
 
-Date and name of a participant for a pilot session to test **education benefits**:
+The second pilot session will help test **post-9/11 GI Bill (Chapter 33) education benefits** on Monday, April 29th. Date and name of a participant: **TBD with Perigean**
 - We need help from Perigean to find a pilot participant that meets the following criteria:
 	- Must use `ID.me` OR `Login.gov` as their VA.gov credential
 	- Must receive direct deposit payments for *just education benefits* (not compensation & pension)
-- Date and time for this pilot session: TBD
-	- Availability: Thursday, April 18th from 9am-2pm (preferred day)
-	- Availability: Friday, April 19th from 9am-2pm 
-
-### Research sessions
-What dates do you plan to do research? 
-- To meet the requirement for 10 days’ lead time, we’d like to list the date of Monday, April 29th.
-- However, **we’d like to start scheduling participants beforehand if at all possible**, given the pressing deadline of this migration. We’d like to schedule participants **as early as Monday, April 22nd**.
+- Date and time for this second pilot session: **TBD with Perigean**
+	- Availability: Monday, April 29th from 9:30am - 11:30am
 
 ### Length of sessions
 Sessions will be 30 minutes with 1 hour in between sessions. Please schedule no more than 5 sessions per day.
 
 ### Availability
 
-| Date                                      | Times (Eastern)      |
-| ----------------------------------------- | -------------------- |
-| Monday, 4/22 (preferred early start date) | 10am - 5pm           |
-| Tuesday, 4/23                             | 10am - 1pm           |
-| Wednesday, 4/24                           | 10am - 1pm           |
-| Thursday, 4/25                            | 10am - 12pm; 3pm-5pm |
-| Friday, 4/26                              | 10am - 1pm; 2pm-4pm  |
-| Monday, 4/29 (stated start date)          | 10am - 4pm           |
-| Tuesday, 4/30                             | 10am - 5pm           |
-| Wednesday, 5/1                            | 10am - 1pm           |
+| Date                           | Times (Eastern)       |
+| ------------------------------ | --------------------- |
+| Monday, 4/29 (pilot date only) | 9:30am - 11:30am      |
+| Tuesday, 4/30                  | 9:30am - 1pm; 2pm-5pm |
+| Wednesday, 5/1                 | 9:30am - 1pm; 2pm-5pm |
+| Thursday, 4/25                 | 9:30am - 1pm          |
 
 ## Team Roles	
 - Moderator: Pam Drouin, pamela.drouin@a1msolutions.com
