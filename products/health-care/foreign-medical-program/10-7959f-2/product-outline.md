@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-Following the Foreign Medical Program registration form (10-7959f-1), the online [10-7959f-2](https://www.va.gov/health-care/foreign-medical-program/) would allow Veterans to file a claim to get coverage for a service connected condition while outside of the U.S.
+Following the Foreign Medical Program registration form (10-7959f-1), the online [10-7959f-2]([https://www.va.gov/health-care/foreign-medical-program/](https://www.va.gov/find-forms/about-form-10-7959f-2/)) would allow Veterans to file a claim to get coverage for a service connected condition while outside of the U.S.
 
 ## Problem Statement
 Veterans living or traveling outside the U.S. must mail or fax in paper forms in order to receive coverage for care received for service connected conditions. On the receiving end, these paper forms must be scanned and manually entered into various systems.  
