@@ -62,6 +62,20 @@
   - VA Profile will have pre-populated preferences from MHV
 
 
+**AWS**
+* Key Rotation
+  - IAM key rotation every 60 days. Calendar reminder scheduled every 6 weeks on Tuesdays @ 10:30 ET.  Next reminder is May 7th, 2024
+  - [AWS Keys](https://github.com/department-of-veterans-affairs/vanotify-team/blob/master/Process/aws_keys.md)
+ 
+* Pinpoint/SES
+  - Email quota - 10M in a 24hour period
+  - SMS - $500K/month spending limit
+
+
+
+
+
+
  ### Random Musings and Strong Opinions held Loosely
 
  **VA Notify is meant to be provider agnostic**
