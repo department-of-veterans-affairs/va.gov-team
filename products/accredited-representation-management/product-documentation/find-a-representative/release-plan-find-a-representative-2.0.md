@@ -165,8 +165,8 @@ _Link to DOMO dashboards TBD_
 
 _To be completed once you have gathered your initial set of data, as outlined above._
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-2. What qualitative feedback have you gathered from users or other stakeholders?
-3. Which assumptions you listed in your product outline were/were not validated?
-4. How might your product evolve now or in the future based on these results?
-5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+1. **How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?**
+2. **What qualitative feedback have you gathered from users or other stakeholders?** VBA and OGC request to allow users to sort or filter search results by VSO, CAIA content request to consolidate representative definitions into a single additional component.
+3. **Which assumptions you listed in your product outline were/were not validated?**
+4. **How might your product evolve now or in the future based on these results?** We will take in feature requests and feedback and consider everything comprehensively for a v3 version of Find a Representative (timeline TBD)
+5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?**
