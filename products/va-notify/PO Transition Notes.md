@@ -7,6 +7,7 @@
 
 **Quick Links**
 - [Roadmap - 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699298034766/785e43fca1230ba217651aff759f161c7315c1b5?sender=u3bc5e86ddc154e1c4ba82066)
+- [Business Intake board](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/board)
 - [Domo Dashboard](https://va-gov.domo.com/page/2040841289)
 - [On-call support](https://docs.google.com/spreadsheets/d/1xWzSqRzYpQmQzQGeTud2HCOICHK_EiQc0lGvnHznsZI/edit?usp=sharing)
 - [Find a Privacy Officer](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) 
