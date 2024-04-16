@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: April 11, 2024
+Last updated by @tygindraux: April 16, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -136,7 +136,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Friday, April 12|Research review|
 |Friday, April 12|Mobile prototypes are ready|
 |Tuesday, April 16|Desktop prototypes are ready|
-|Thursday, April 18|Pilot session|
+|Thursday, April 17|Pilot session|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
 |Monday, April 29 - Wednesday, May 1|Synthesis|
 |April 30|CAIA screen magnification pilot|
@@ -148,8 +148,8 @@ Perigean does **not** need to set up our pilot sessions. Tyler will schedule and
 
 ### Pilot
 
-- Pilot participant: [TBD]
-- Date and time of pilot session: April 18 at [TBD]
+- Pilot participant: Anton from Oddabll
+- Date and time of pilot session: April 17 at 12pm EST
 
 ### CAIA screen magnification pilot
 
