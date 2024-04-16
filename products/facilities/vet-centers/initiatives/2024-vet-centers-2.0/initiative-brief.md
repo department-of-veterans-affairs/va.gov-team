@@ -35,11 +35,23 @@ This document will focus on the Vet Center 2.0 iteration.
 _What's in and what's out?_
 
 The following features are most needed in this iteration but may be rolled out as separate enhancements (_prioritization to be informed by design and engineering_)
-- Visual differentiation from VAMC pages
-- Discoverability of satellite locations and the ability to associate services
-- Salesforce integration, limited to the connection to the digital intake form
-- Events
-- Navigation to support these new features
+**In Scope**
+)_updated 4/16/2024_
+- Look/feel distinct from VAMC pages
+- IA/secondary navigation to support individual pages for Satellite locations ( Draft IA for Vet Centers 2.0 #17195)
+- IA/secondary navigation to support discoverability for events (Draft IA for Vet Centers 2.0 #17195)
+- Prominent link to Salesforce intake form
+- Increased visibility of link to Locations page
+- Implementation of reusable Q/A,if possible
+
+**Not in Scope**
+_updated 4/16/2024_
+- Event design/enhancements (owned by PW)
+- Integration with Salesforce platform
+- Reorganization of services
+- Multiple photos
+- CLP content
+- Other suggestions in the Vet Center enhancement epic
 
 ### Not in scope
 We do not expect to act on complete list of requests and ideas listed in [Enhancements/optional features for Vet Centers #15712](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/issues/gh/department-of-veterans-affairs/va.gov-cms/15712). The epic is simply a place to hold ideas and suggestions which did not necessarily have a validated business need or technical feasibility. 
