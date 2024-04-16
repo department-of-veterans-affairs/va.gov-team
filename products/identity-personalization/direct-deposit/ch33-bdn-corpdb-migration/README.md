@@ -196,21 +196,23 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan.
 
-|Week| Tasks | 
-|----|-------|
-|Week 1 (Feb 19 -23)| Planning; Discovery|
-|Week 2 (Feb 26 - Mar 1)|BGS kicks off work; Collab kickoff; VA.gov design begins|
-|Week 3 (Mar 4-8)| BGS work complete; VA.gov design complete|
-|Week 4 (Mar 11 - 15| Lighthouse work begins; VA.gov frontend build begins|
-|Week 5 (Mar 18 - 22)| Lighthouse work complete; VA.gov frontend build complete EXCEPT for connecting frontend to backend|
-|Week 6 (Mar 25 - 29)| VA.gov backend build |
-|Week 7 (Apr 1 - 5)| VA.gov frontend connected to backend|
-|Week 8 (Apr 8 - 12)|VA.gov QA; UAT prep|
-|Week 9 (Apr 15 - 20)| Staging review; UAT recruiting; Security review; BDN migrates to CorpDB on April 20th|
-|Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|
-|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|
-|Week 12 (May 6 - 10)|BGS CI launch May 11th|
-|Week 13 (May 13 - 17)|UAT; VA.gov goes to production|
+
+|Week| Anticipated Tasks | Actual/Changes |
+|----|-------|---|
+|Week 1 (Feb 19 -23)| Planning; Discovery||
+|Week 2 (Feb 26 - Mar 1)|BGS kicks off work; Collab kickoff; VA.gov design begins||
+|Week 3 (Mar 4-8)| BGS work complete; VA.gov design complete||
+|Week 4 (Mar 11 - 15| Lighthouse work begins; VA.gov frontend build begins||
+|Week 5 (Mar 18 - 22)| Lighthouse work complete; VA.gov frontend build complete EXCEPT for connecting frontend to backend|BGS code complete|
+|Week 6 (Mar 25 - 29)| VA.gov backend build ||
+|Week 7 (Apr 1 - 5)| VA.gov frontend connected to backend||
+|Week 8 (Apr 8 - 12)|VA.gov QA; UAT prep|BGS code launched Sunday 4/14|
+|Week 9 (Apr 15 - 20)| Staging review; UAT recruiting; Security review; BDN migrates to CorpDB on April 20th|UAT proposal submitted, turn of EDU section on 4/20|
+|Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|Staging Review 4/23, BDN migrates to CorpDB 4/27|
+|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|Running UAT, can only happen post migration, BIS and LH working on an additional indicator, if all goes well we'll launch as soon as we recieve positive results|
+|Week 12 (May 6 - 10)|BGS CI launch May 11th|BIS to launch additional C&P inidicator in May|
+|Week 13 (May 13 - 17)|UAT; VA.gov goes to production|testing needed again for the C&P indicator|
+
 
 ### Proposed collab cycle touchpoints
 
