@@ -184,14 +184,14 @@ We will provide 20 time slots, with the aim to book 10 sessions.
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
-* Participant for pilot test: [TBD] (Tyler will add to pilot session herself).
+* Participant for pilot test: Anton from Oddball (Tyler will add to pilot session herself).
 * Accessibility specialist: We won't have a specialist for this study, although we will work with Jamie to run a screen magnification pilot.
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 
-Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 3 observers.
+Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker, 2 observers.
 
 ## Approved by:
 
 - Becky Phung, PO on April 10, 2024
-- [PENDING] Shane Strassberg, VA Research Ops on [DATE]
+- Shane Strassberg, VA Research Ops on April 19, 2024
