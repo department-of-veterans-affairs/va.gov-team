@@ -66,8 +66,10 @@
 * Hearing Reminders
   - Currently hearing reminders are triggered by VEText.  The Caseflow team has plans to integrate directly with VA Notify to send hearing reminder SMS notifications
   - A preference for this exists in VA.gov
+
 **Push Notifications**
 * Phase 1
+  - 
 
 * Phase 2
 
