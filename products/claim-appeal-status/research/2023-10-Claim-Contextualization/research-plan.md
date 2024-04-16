@@ -98,10 +98,10 @@ January 22-26
 8 AM - 6 PM ET
 	
 ## Team Roles	
-- Moderator: Skyler Schain (skyler.schain@coforma.io)	
+- Moderator: Skyler Schain (skyler.schain@coforma.io) and Gary Homidas (gary.homidas@adhocteam.us)
 - Research guide writing and task development (usually but not always same as moderator): Skyler Schain	(skyler.schain@coforma.io)
 - Participant recruiting & screening: Perigean
 - Project point of contact: Skyler Schain (skyler.schain@coforma.io)
 - Participant(s) for pilot test: Rocio De Santiago (rocio@coforma.io)
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	David Kennedy(david.kennedy@adhocteam.us)
-- Observers: Gary Homidas (gary.homidas@adhocteam.us), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
+- Observers: Gary Homidas (gary.homidas@adhocteam.us), Skyler Schain (skyler.schain@coforma.io), Lauren Sinreich (lauren.sinreich@coforma.io), Julie Strothman (julie.strothman@va.gov), Sam Cormier (sam.cormier@coforma.io), Jerek Shoemaker (jerek.shoemaker@adhocteam.us), Heather Widmont (heather.widmont@coforma.io), Jacob Worrell (jacob.worrell@adhocteam.us)
