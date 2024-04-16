@@ -1,6 +1,6 @@
 # EPS-VAOS (CC Direct Scheduling) Meeting Agenda 04-16-2024
 
-- [End-to-end CC scheduling journey map](#end--to--end-cc-sheduling-journey-map)
+- [End-to-end CC scheduling journey map](##end-to-end-cc-scheduling-journey-map)
 - [Implementation notes](#implementation-notes)
 - [Other to-do's](#other-to-dos)
 <br><br>  
