@@ -33,7 +33,7 @@ To get in touch with our engineers or product managers, submit a support request
 - Provide your team name.
 - Provide your first and last name.
 
-### Provide additional information
+### Provide additional details
 
 - Provide additional details to describe your request in the open response section.
 - If your support issue impacts Veterans on production servers, select **Yes** to notify the team.
