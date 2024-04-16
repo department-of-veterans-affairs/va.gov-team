@@ -117,7 +117,6 @@ ________________________________________________________________________________
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
-        - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
     - **Sub Goal: Analyze current metrics to see what they tell us**
