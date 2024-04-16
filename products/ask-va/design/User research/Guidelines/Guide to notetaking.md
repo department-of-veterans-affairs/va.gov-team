@@ -1,6 +1,6 @@
 # Notetaking research on the Ask VA VA.gov Team
 
-Last updated by @tygindraux: January 5, 2024
+Last updated by @tygindraux: April 16, 2024
  
 This guide is based on:
 * [VA.gov Platform: Guide to conducting research sessions](https://depo-platform-documentation.scrollhelp.site/research-design/conducting-research-sessions#ConductingResearchSessions-Moderatingtips)
@@ -28,7 +28,9 @@ This guide is based on:
 ## Throughout the session
 
 * Instead of using Zoom chat, use the session 🧵 in `#feedback-backchannel` to communicate with your team. You can write reflections, or even a question you'd like the researcher to try and add in.
-* Take **verbatim** notes, or as close as possible to verbatim. These will be used by the researcher to analyze the sessions, and pull direct quotes from during synthesis.
+* Before the session, the research lead will ask you to **either**:
+  * Take **verbatim** notes, or as close as possible to verbatim. These will be used by the researcher to analyze the sessions, and pull direct quotes from during synthesis.
+  * Take **task** notes. These will be outlined in the Mural board. You will focus on taking note of what a particpiant says or does in relation to certain tasks.
 * For each key moment or idea, use a new sticky note.
 
 ### If something goes wrong
@@ -45,7 +47,7 @@ This guide is based on:
 
 ## After the session
 
-* After each session, we will have an optional 10 minute debrief. Please leave and rejoin the same meeting link.
+* After each session, we will have an optional 10 minute debrief.
 * Write your top 3 key takeaways in Mural.
 * Take a moment to decode any acronyms, fix any mistakes (don't worry about little ones), or add details to your notes.
 * If you have further questions or comments for the moderator, reach out to them directly.
