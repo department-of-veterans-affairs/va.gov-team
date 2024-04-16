@@ -41,8 +41,8 @@ body:
   attributes:
     label: Select issue type (for "other" stop here and provide details)
     options:
-      - Sign-in Service Integration
       - Data Request
+      - Sign-in Service Integration
       - Other
   validations:
     required: true
