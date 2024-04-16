@@ -25,7 +25,7 @@ A compendium of currently open tickets that need to be closed for the Request & 
 - [X] [Comms plan for the slackbot release](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79860) (UX)
 
 ### Release & Communications 
-1. Release IDbot into #vsp-identity
-2. UAT IDbot in #vsp-identity to ensure that it's working properly.
+1. Release Identity Slackbot into #vsp-identity
+2. UAT Identity Slackbot in #vsp-identity to ensure that it's working properly.
 3. Execute comms strategy to let people know that it exists.
 4. Gently nudge people to use it for all requests.
