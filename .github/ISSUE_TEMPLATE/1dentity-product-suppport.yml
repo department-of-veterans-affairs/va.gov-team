@@ -16,8 +16,8 @@ body:
       - [ ] Provide your name and email address
       - [ ] Provide your team’s name
       - [ ] Select issue type (for “other” stop here and provide details)
-        - Sign-In-Service Integration
         - Data Request
+        - Sign-In-Service Integration
         - Other
       - [ ] Complete tasks for your issue type
       - [ ] Add additional details (optional)
@@ -59,7 +59,7 @@ body:
   attributes:
     value: |
       ---
-      <details><summary><h2>Data Request</h2></summary>
+      ## Data Request
 - type: textarea
   id: data_request
   attributes:
@@ -67,10 +67,6 @@ body:
     description: |
       - What data do you need pulled? Please don’t include any Personal Identifying Information (PII)
       - Is this sensitive data that requires special permissions?
-- type: markdown
-  attributes:
-    value: |
-      </details>
 - type: markdown
   attributes:
     value: |
