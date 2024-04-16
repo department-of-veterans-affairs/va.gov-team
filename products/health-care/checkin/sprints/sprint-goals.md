@@ -158,7 +158,7 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
+    - ❗ ✔️ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
     - ❗ ✔️ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
     - **Sub Goal: Support the ATO**
         - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
@@ -168,7 +168,7 @@ ________________________________________________________________________________
         - 🟥 [Discovery for Community Care ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79927)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-        - 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
+        - ✔️ 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
         - ✔️ 🟩 [[FE] Include a parameter for 'timeToComplete' in /travel-claims to indicate time taken for Veteran from auth to submitting travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79739)
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - ✔️ 🟥 [[Research] Set up test in OptimalWorkshop ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79195)
@@ -191,7 +191,7 @@ ________________________________________________________________________________
            - Pulled in to sprint on 4/15 and targeting completion by EOS
         - ✔️ 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
-       - 🟥 [Research] Analyze GA Metrics
+       - ✔️ 🟥 [Research] Analyze GA Metrics
        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
@@ -208,6 +208,8 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Transfer ownership of checkin-devops repository from vnce-avalanche to patient-check-in. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79911)
         - ✔️ 🟨 [[DevOps] Simplify and refactor CHIP repository GHA workflows.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79788)
         - ✔️ 🟨 [[DevOps] Deal with secret scanning alerts.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80746)
+        - ✔️ 🟨 [[DevOps] Simplify and refactor CHIP repository GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79788)
+        - 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
 
 ______________________________________________________________________________________________________________________________________________________
         
