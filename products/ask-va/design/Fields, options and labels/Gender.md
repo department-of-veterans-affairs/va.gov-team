@@ -36,7 +36,7 @@ After conducting usability testing in January 2024, we discovered new insights f
 > I would, if there was an option prefer not to answer. That's what I would [do].
 
 ### Insights from February 2024 data analysis
-From our [previous conversation with the CWV team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Business%20line%20engagement/Center%20for%20Women%20Veterans/January%209,%202024.md), we understand that they still need to have gender data for reporting on the number of women Veterans they’ve helped. 
+From our [previous conversation with the CWV team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/Center%20for%20Women%20Veterans/January%209%2C%202024.md), we understand that they still need to have gender data for reporting on the number of women Veterans they’ve helped. 
 This made us wonder what the response rate for gender in the current form is, so we analyzed inquiry data from November 2023 to January 2024.
 - Data Insight 1: 38% of inquiries have gender data. Of these inquiries, MPI provides 99% of the data in CRM. Submitters provide less than 1% of gender data.
 - Data Insight 2: We could require submitters to answer the gender question to get data for the other 62% of inquiries. But it’s likely that submitters will just choose the “Prefer not to answer” option.
