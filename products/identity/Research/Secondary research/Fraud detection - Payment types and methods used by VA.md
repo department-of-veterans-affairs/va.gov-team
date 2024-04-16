@@ -10,7 +10,8 @@ Version 1- January 12, 2024
 
 
 **Table of Contents**
-## [Summary of payment methods used by VA.gov](#summary-of-payment-methods-used-by-VA.gov)
+
+## [Summary of payment methods used by VA.gov](#summary-of-payment-methods-used-by-va.gov)
 [Table 1. System Architecture for EDU payments. EDU uses eMPWR to make STEM payments](#table)
 ## [Fraud Detection and Prevention](#fraud-detection-and-prevention)
 ## [Investigating Fraud - BDPR](#investigating-fraud---bdpr)
@@ -32,7 +33,7 @@ Version 1- January 12, 2024
 ## [Direct Loans](#direct-loans)
 ## [Overpayments](#overpayments)
 ## [Payroll Overpayments](#overpayments)
-## [Debt Management Center - Overpayments](#debt-management-center)
+## [Debt Management Center - Overpayments](#debt-management-center---overpayments)
 ## [DATA Act PMO](#data-act-pmo)
 ## [Automobile Allowance](#automobile-allowance)
 ## [Educational Payment Fraud](#education-payment-fraud)
@@ -513,6 +514,197 @@ Risk factors evaluated for each group of program loans include historical experi
 VA uses a Notional Foreclosure Proportion Model for generating time-specific default rates for the Loan Guarantee Program.
 [FSC](FSC-VA.gov)
 
+## Overpayments
+
+Payroll Overpayments
+
+The Defense Finance and Accounting Service (DFAS) plays a crucial role in processing payroll transactions for the VA. When the Defense Civilian Payroll System disburses an overpayment, DFAS oversees the debt collection process on behalf of the VA. Here are the key points regarding debt collection and waivers:
+
+Debt Collection Process:
+Under the Debt Collection Improvement Act, the agency is required to give full due process notification for a debt incurred for pay periods older than four pay periods and $50 or more.
+Debts incurred within the most recent four pay periods or less than $50 do not require advance notification prior to collection.
+However, these debts will include a reference to them on the Leave and Earnings Statement.
+
+Waiver Requests:
+Employees have 30 days from the debt letter date to request a waiver.
+If the request is not received by the DFAS payroll office within the 30-day limit and debt collections have begun, they will not be placed on hold, even if the employee requests a waiver later.
+Employees have up to three years to request a waiver.
+If collections have already started and a waiver is requested later and approved, DFAS will refund all collections made prior to that time.
+(“FY 2020 OMB Supplemental Data Call Veterans Affairs (VA)”)
+
+
+### Overpayments and Receivables:
+
+Overpayments to veterans or beneficiaries are a significant cause of compensation, pension, and education receivables.
+While VA is authorized to charge interest and administrative costs on benefit debts, the current practice does not include charging interest on compensation, pension debts, and certain education benefits based on a decision made in July 1992 by the then VA Deputy Secretary.
+
+Advances and Prepayments:
+Intragovernmental advances primarily involve payments to the U.S. Army Corps of Engineers for major construction projects.
+Public advances consist of payments to medical schools, grantees, and beneficiaries.
+Advances and prepayments are gradually reduced as services are performed.
+
+Accounts Payable:
+Accounts payable represent amounts owed by VA for goods and services received.
+When VA accepts title to goods (whether delivered or in transit) or incurs costs for services received, a liability is recognized for the unpaid amount.
+If invoices for these goods and services are unavailable during financial statement preparation, estimated amounts owed are recorded.
+Accounts payable primarily include payables to veterans for scheduled payments related to compensation, pension, and education benefits.
+Variations in accounts payable can occur annually based on the timing of compensation and pension benefit payments.
+Intragovernmental Accounts Payable:
+Intragovernmental accounts payable involve amounts owed to other Federal Government agencies.
+These agencies include the Department of Labor (DOL), Office of Personnel Management (OPM), and Department of Justice (DOJ).
+The remaining accounts payable represent amounts due to the public.
+
+Debt Management Center - Overpayments
+
+Quality Reviews and Overpayments:
+VBA conducts quality reviews to identify possible duplicates and overpayments.
+Monthly and quarterly payment reviews are also used for this purpose.
+The Debt Management Center (DMC) tracks, monitors, and recovers most eligible overpayments.
+DMC collects debts through lump-sum offset from current or future benefit payments or by installment payments agreed upon with the debtor.
+If DMC cannot collect the debt, it is referred to the Treasury Offset Program (TOP) for further collection.
+Local Offices and Debt Establishment:
+VBA local offices handle debts not currently managed by DMC.
+For monetary loss cases, VBA assesses collectability and establishes a debt in the core financial management system.
+
+Waiving Benefit Debts:
+In accordance with 38 U.S.C. § 5302, VBA may waive benefit debts under specific conditions.
+Waivers are considered when collection would be against equity and good conscience, and no evidence of fraud, misrepresentation, or bad faith exists.
+Debtors are informed of their rights, remedies, and the consequences of non-cooperation.
+Debtors can dispute the debt’s existence or amount or request a waiver.
+
+Note: A breakdown of Overpayments is available here FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023
+
+
+
+### DATA Act PMO
+
+The DATA Act PMO works with program owners to develop program activity crosswalks for Treasury Account Symbols that use complex allocations to assign cost to program activities. The PMO explores options for FMS and MinX JV edit checks to ensure data elements are present. 
+
+The Program Activity Code and Program Activity Name data elements are currently not stored in FMS - it is being considered as part of iFAMS – and therefore edit checks cannot be added to FMS without significant software modifications.
+
+It is critical that eCMS, IFCAP and the core financial management system will be integrated to allow for comprehensive reconciliations. 
+
+The current reconciliation process in most cases requires the generation and use of transaction processing status reports and status of fund balances reports to ensure consistency across systems. 
+
+Additionally, contract numbers are not transferred from eCMS to IFCAP in an automated fashion.
+
+https://www.va.gov/finance/docs/va-financialpolicyvolumeviiichapter01a.pdf
+https://public-inspection.federalregister.gov/2020-22929.pdf
+https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201907-2900-003
+
+## Automobile Allowance
+
+Payment for the automobile allowance and adaptive equipment grant will be made as follows:
+One-Time Payment for Specially Equipped Vehicle:
+To receive assistance in purchasing a specially equipped vehicle:
+Complete the Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502).
+Mail the form to the address specified on the form.
+VA will directly pay the vehicle’s seller.
+
+Eligibility:
+Person must have a service-connected condition to qualify for a specially equipped vehicle.
+They must file a claim for disability compensation before qualifying.
+
+Adaptive-Equipment Grant:
+For adaptive equipment related to motor vehicles:
+Fill out the Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394).
+Bring the form to the prosthetic representative at a local VA medical center.
+VA may pay the requestor directly or the equipment seller.
+Eligibility requires a service-connected disability.
+
+## Education Payment Fraud
+
+Every year, families fall victim to fraudulent financial aid schemes. 
+
+With the rising costs of four-year college education outpacing inflation rates, parents understandably worry about paying for education without accumulating heavy debt. 
+
+Scam artists exploit these concerns. (Note: Potential future research topic)
+
+To combat financial aid scams, Congress enacted the College Scholarship Fraud Prevention Act of 2000. 
+This legislation mandated stronger sentencing guidelines for higher education financial assistance fraud. 
+Additionally, it directed the Secretary of Education, in collaboration with the Federal Trade Commission (FTC), to create national awareness initiatives. 
+
+One such initiative is the financial aid fraud awareness site on the Department of Education’s website.
+As part of their responsibilities, the Department of Justice (DOJ), the Department of Education (ED), and the FTC compile an annual report on fraud related to businesses or individuals offering advice or assistance to students and parents seeking financial aid for higher education. This report assesses the nature and extent of financial aid fraud.
+
+
+### Serving as School Certifying Official (SCO) with VA Benefits
+
+When an SCO is also a VA student at the same school where they work, they must designate another SCO at the approved facility to certify their enrollment with the VA. It’s important to note that the VA will not disburse GI Bill benefits for courses certified by the individual who is taking those courses.
+
+
+
+
+## Education Benefit Payments
+
+For students in IHL (Institution of Higher Learning) and NCD (Non-College Degree) programs, monthly benefit payments (or MHA for Chapter 33) are made directly to the students. The payment corresponds to the number of days the student is certified for the month. 
+
+Proration Calculation:
+VA uses a 30-day month for proration purposes.
+To calculate the daily rate, divide the monthly rate by 30.
+If a student is certified from the 1st through the 15th, they are certified for 15 days and entitled to 15/30ths of the full monthly benefit.
+
+Example:
+If the monthly benefit is $100.00.
+If the student is certified 1/1/12 through 1/15/12, they are entitled to $50.00 ($3.33 per day for 15 days).
+Similarly, if the student is certified 1/16/12 through 1/31/12, they are also entitled to $50.00.
+If the student is certified 1/1/12 through 1/31/12, they receive the full month’s benefit of $100.00.
+Note that VA considers 1/16 through 1/30 (or 1/31) as 15 days, and 2/16 through 2/28 (or 2/29) as 15 days, rounding out to a 30-day month.
+
+Additional Kicker:
+Some Chapter 30, 33, and 1606 students may receive an additional kicker along with standard benefits.
+
+
+Education Claim Processing & Communication
+PACT Act funding will be used to set up a Test Environment for DGIB and eMPWR-VA integration testing, Improve Education Claim Processing Automation, and Migrate Education Legacy Systems data to Managed Service Platform. Funding will enhance eligibility verification, and communication from VA in a timely manner and will support increase in claim processing.
+
+
+## Accelerated Payments
+
+An accelerated payment is a lump sum payment of 60% of tuition and fees for certain high-cost, high-tech programs.
+It applies to non-college degree programs that are less than two years (for chapters 1606).
+The payment is made one semester, quarter, or term at a time.
+If a program isn’t offered on a standard basis, the accelerated payment covers the entire program.
+
+High-Cost Requirement:
+Tuition and fees must be more than double the benefit the student would otherwise receive.
+
+Example:
+A typical semester (17 weeks) or quarter (11 weeks).
+If chapter 30 pays $1,368.00 per month full-time, it pays:
+$5,335.20 for the semester.
+$3,328.80 for the quarter.
+To qualify, tuition and fees must exceed:
+$10,640.70 for the semester.
+$6,657.60 for the quarter
+
+
+### Certifying Accelerated Payments
+
+High Technology Requirement:
+Students must enroll in a high-tech program.
+They must certify their intent to seek employment in a high-tech industry as defined by VA.
+VA maintains a list of high-tech programs and industries on the Education Benefits website.
+
+Student Request Process:
+Direct students to the accelerated payment link on VA’s website.
+Certify accelerated payment as usual, with the following exceptions:
+Confirmed certifications: Cannot be signed, dated, and submitted until on or after the beginning date of the certified enrollment period.
+Check the “Accelerated Pay (high-tech courses only)” box on a new Cert.
+EM enters “Student has requested Accelerated Pay” in remarks.
+Obtain the student’s written request for accelerated payment for each term.
+The written request should state: “I request accelerated payment”, followed by the student’s signature and date.
+On the first request, include: “I certify that I intend to seek employment in a high technology industry as defined by VA. I have read VA’s approved list of high technology industries.”
+
+Certification Details:
+Certify one term at a time.
+Include the total charges (tuition and fees) for the certified courses.
+The student must request accelerated payment separately for each term.
+Enrollment Status Changes:
+Adjust or terminate the Cert as needed.
+Ensure to include tuition and fees.
+Consider mitigating circumstances.
+[VA eBenefits](knowva.ebenefits.va.gov/)
 
 
 
