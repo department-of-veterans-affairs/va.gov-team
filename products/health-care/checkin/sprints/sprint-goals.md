@@ -78,7 +78,7 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
-    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
     - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
@@ -87,7 +87,6 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**    
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
-    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
 
 #### PLANNED RELEASES 
 - NONE
