@@ -23,7 +23,7 @@
 - [Key Dates](#key-dates)
 
 ## Overview
-The VA.gov authenticated experience thus far has been primarily focused on the user journey for existing Veterans or other VA beneficiaries - i.e. Veterans or beneficiaries who are already active in and relatively familiar with VA.gov by way of claim submission, applying for health care and engaging with other VA-sponsored benefits. We will be performing research and discovery to gather a baseline understanding of the transition process from active duty military to Veteran status, the impact VA.gov can have on the transition process, how a distinct onboarding experience could improve the transition process what that might look like on VA.gov. 
+The VA.gov authenticated experience thus far has been primarily focused on the user journey for existing Veterans or other VA beneficiaries - i.e. Veterans or beneficiaries who are already active in and relatively familiar with VA.gov by way of claim submission, applying for health care and engaging with other VA-sponsored benefits. We will be performing research and discovery to gather a baseline understanding of the transition process from active duty military to Veteran status, the impact VA.gov can have on the transition process, how a distinct onboarding experience could improve the transition process, and what that might look like on VA.gov. 
 
 This is in alignment with OCTO objective 1 for 2024: Our digital experiences are the best way to access VA health care and benefits.
 
