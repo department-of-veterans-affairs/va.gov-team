@@ -178,9 +178,9 @@ Response options, checkbox list with text box:
 ### Prepare
 * **We would like to request a 25 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-  * **If build is ready 4/23:**
-    * Tue, April 23 anytime between 10am-6pm EST
-    * Wed, April 24 10-11:30am and 2-6pm EST
+  * **If build is ready 5/21:**
+    * Tue, May 21 anytime between 10am-6pm EST
+    * Wed, May 22 anytime between 10am-6pm EST
 
 **We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
 - Screenreader pre-pilot participant email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
@@ -191,7 +191,7 @@ Availability for a kick-off call, in Eastern times:
 
 ### Research sessions
 * Planned dates of research: **TBD** (depends on readiness of build from ENG)  
-If release build is ready 4/23: **May 6-16**  
+If release build is ready 5/21: **Week 1: June 3-7, Week 2: June 17-20**  
 
 ### Length of sessions
 * Sessions will be 90 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
@@ -200,17 +200,17 @@ If release build is ready 4/23: **May 6-16**
 
 
 ### Availability
-* **If build is ready 4/23:**
+* **If build is ready 5/21:**
   * Non-screenreader users
-     * Mon 5/6: 10:30am-6pm EST/9:30am-5pm CST 
-     * Tue 5/7: 10am-6pm EST/9am-5pm CST
-     * Wed 5/8: 10am-6pm EST/9am-5pm CST
-     * Thu 5/9: 10:30am-6pm EST/9:30am-5pm CST
-     * Mon 5/13: 10:30am-6pm EST/9:30am-5pm CST
-     * (if needed) Tue 5/14: 10am-6pm EST/9am-5pm CST
+     * Mon 6/3: 10:30am-6pm EST/9:30am-5pm CST 
+     * Tue 6/4: 10:30am-6pm EST/9am-5pm CST
+     * Wed 6/5: 10:30am-6pm EST/9am-5pm CST
+     * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
+     * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
   * Screenreader users
-     * Wed 5/15: 10am-6pm EST/9am-5pm CST
-     * Thu 5/16: 10:30am-6pm EST/9:30am-5pm CST
+     * Mon 6/17: 10am-6pm EST/9am-5pm CST
+     * Tue 6/18: 10am-6pm EST/9am-5pm CST
+     * Thu 6/20: 10am-6pm EST/9am-5pm CST
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
