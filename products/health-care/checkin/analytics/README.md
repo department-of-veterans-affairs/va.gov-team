@@ -3,7 +3,7 @@
 [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
 
 ## DataDog Dashboards
-- Public (with url) <br/> <br/>
+- Public (with url)
      - [Check In (Travel Claims)](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-3a95d2603bfb8826abb8aa81a04efd03)
      - [Check In (Travel Claims) for Stakeholders](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-a97e86a93c36244163f942ed0859de7b?refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1703524114192&to_ts=1706116114192&live=true)
      - [Travel Claims (Oracle Health)](https://vagov.ddog-gov.com/dashboard/njk-mi6-mxy/travel-claims-oracle-health?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1712594733353&to_ts=1712598333353&live=true)
@@ -13,7 +13,7 @@
      - [45MR Sent for eCheck-in (VeText)](https://app.ddog-gov.com/sb/e92f059a-aa2c-11ec-9c41-da7ad0900007-3b0997c27aff287795ba5d8659125f46?refresh_mode=sliding&from_ts=1707935759563&to_ts=1708540559563&live=true)
      - [Service Level Objectives (SLOs) (Uptime, Downtime, Latency)](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1708884911568&to_ts=1711476911568&live=true)
  
-- Configure (requires log in) <br/> <br/>
+- Configure (requires log in)
      - [Check-In Time in seconds](https://tevi.ddog-gov.com/dashboard/x67-auh-wqv/check-in-time-metrics-in-seconds?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1713100432798&to_ts=1713273232798&live=true)
        
 ## DOMO
