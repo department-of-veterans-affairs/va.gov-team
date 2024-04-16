@@ -46,3 +46,4 @@ There are also one-time/retroactive payments that may warrant a confirmation not
 - [ ] Align timing with the preference go-live date. VA Notify reach out to CAIA team to add opt-in messaging to payments page.  See this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77798)
 - [ ] 10DLC approved and assigned
 - [ ] Short code approved and assigned
+- [ ] Check with Customer Support on what they might need in case Veterans call with questions. *FYI - we have already given them a heads up and a screenshot of the SMS content*
