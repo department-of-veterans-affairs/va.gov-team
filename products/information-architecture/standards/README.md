@@ -74,3 +74,13 @@ User flows | [User Flow Guidance on GH](https://github.com/department-of-veteran
 - Mikki reviews with any other OCTO leads for awareness and approval as needed
 - Erin publishes
 
+
+### Open questions
+
+- Should there be an IA section within the VA.gov design system?  If so, what would it include and what would it be called?
+  - IA guiding principles - or these could be incorporated into overall design principles
+  - Site organization and governance
+  - IA for SEO and a11y
+  - Entry point considerations and guidance
+  - Best bets
+  - Redirects
