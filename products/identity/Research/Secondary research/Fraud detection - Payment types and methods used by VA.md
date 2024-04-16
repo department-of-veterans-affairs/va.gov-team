@@ -1,12 +1,9 @@
-# Fraud Detection & Prevention
-
-# VA.gov Payment Types & Methods
+# Fraud detection & prevention: A review of the payment types & methods used by VA.gov
 
 ## UX Researcher- Joshua.Matulonis@va.gov
-
-Updated - March 25, 2024
+## Date of original work - January 17, 2024
 Updated - March 12, 2024
-Version 1- January 12, 2024
+
 
 
 **Table of Contents**
@@ -43,13 +40,14 @@ Version 1- January 12, 2024
 ##### [Certifying Accelerated Payments](#certifying-accelerated-payments)
 #### [Advance Payments](#advance-payments)
 ### [Scholarship Fraud Awareness and Prevention](#scholarship-fraud-awareness-and-prevention)
-#### [Optional Practical Training (OPT) Training Plan for STEM OPT Students]
 #### [Edith Nourse Rogers STEM Scholarship](#)
 #### [Marine Gunnery Sergeant John David Fry Scholarship]()
 #### [GI Bill Chapter 30 (MGIB-AD) Eligibility and Benefits]()
 #### [Post-9/11 GI Bill and Yellow Ribbon Program]()
 ## [Appendix](#appendix)
-### [Table 1. System Architecture for EDU payments. EDU uses eMPWR to make STEM payments](#table-1)
+### Figure 1. Edu operational resource flow
+### Figure 2. Edu business system architecture
+### Table 1. Confirmed fraud amount with VA services by year
 ## [Glossary of terms](#glossary-of-terms)
 ## [Works Cited](#works-cited)
 
@@ -915,11 +913,11 @@ Funds Usage:
 
 ## Appendix
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4978a8d9-1857-435d-a4f9-d39ec80319ac)
+![Edu Resource Flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4978a8d9-1857-435d-a4f9-d39ec80319ac)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/320906fa-0f3f-4195-aca9-6e0e15734dfa)
+![Edu Business System Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/320906fa-0f3f-4195-aca9-6e0e15734dfa)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/f0cc8090-32ce-4f54-8b08-fe71588e01d9)
+![Confirmed fraud $ by service](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/f0cc8090-32ce-4f54-8b08-fe71588e01d9)
 
 Table 2: Confirmed fraud amounts breakdown by VA Services.
 
