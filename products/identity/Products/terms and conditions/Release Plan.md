@@ -48,7 +48,8 @@ Steps for `Sign up Service (SuS)`
 
 | Application | Phase | Rollout Date | Production URL |
 | --- | --- | --- | --- |
-| My VA Health (Oracle Health) | Phase 1 | Thursday April 4th, 2024 @ 9PM EST | https://va.gov/terms-of-use/myvahealth |
+| My VA Health (Oracle Health) | Phase 1 | Thursday April 4th, 2024 @ 9PM EDT | https://va.gov/terms-of-use/myvahealth |
+| My VA Health (Oracle Health) | Phase 1, 2nd Attempt | Thursday April 25th, 2024 @ 9PM EDT |
 | My HealtheVet | | | |
 | VA Flagship mobile | | | |
 | VA.gov | | | |
