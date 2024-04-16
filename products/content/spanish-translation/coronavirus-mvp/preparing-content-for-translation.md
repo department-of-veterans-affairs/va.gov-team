@@ -29,7 +29,7 @@
 ## Sentences
 
 - [ ] Sentences are more than 25 words in length. Aim for sentences between 5 and 20 words whenever possible.
-- [ ] In general, each sentence conveys 1 thought and contains 1 active verb. There may be exceptions where a sentence with 2 active verbs is better in order to avoid awkward writing. 
+- [ ] In general, each sentence conveys one thought and contains one active verb. There may be exceptions where a sentence with two active verbs is necessary to avoid awkward writing. 
 | Like this | Not like this |
 |---|---|
 |  |  |
