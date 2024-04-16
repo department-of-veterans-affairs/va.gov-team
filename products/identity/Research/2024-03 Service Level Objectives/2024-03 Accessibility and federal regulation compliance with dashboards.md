@@ -21,7 +21,7 @@
 
 ### Federal Standards Matter
 
-- Whether filing tax filings, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
+- Whether filing taxes, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
 - Availability is not an abstract concept; it directly impacts citizens’ lives. 
 - Maintaining high availability demonstrates transparency and accountability.
 - Users return to a website they trust, knowing it won’t fail them during critical moments.
@@ -36,7 +36,7 @@
 - Use an incremental rollout approach to ensure that issues can be addressed in real-time, following industry best practices.
 - A website's sign-in screen may become a bottleneck if it isn’t designed to handle as much traffic as the main site.
 - Provide website support technicians a different sign-in screen to access the site when troubleshooting problems (In case the sign-in screen is unavailable).
-- The significance of having consistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
+- Having consistent operating times for federal sites requires setting availability metrics in each case responsibly and meaningfully.
   - Some sites have a 90% target associated with this measure.
   - This allows for some variance across several products due to unanticipated or external factors.
 - Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
@@ -46,8 +46,7 @@
 
 ## Introduction
 
-Performance.gov selected two services of the Department of Veteran's Affairs as part of 38 of the nation’s High Impact Service Providers (HISPs) to raise
-the standard of government service delivery.
+Performance.gov selected two services of the Department of Veteran's Affairs as part of 38 of the nation’s High Impact Service Providers (HISPs) to raise the standard of government service delivery.
 
 HISPs are selected due to the scale and critical nature of their public-facing services. Annually, HISP teams conduct comprehensive assessments of their high-impact services, measure their customer experience maturity, and identify actions to improve service delivery.
 
@@ -57,8 +56,7 @@ HISPs are selected due to the scale and critical nature of their public-facing s
 | Using the VBA decision review process | Utilizing inpatient medical/acute care |
 | Accessing VBA Disability Compensation benefits | |
 
-It is essential to display uptime, downtime, errors, and other availability information in an effective way that fosters trust, transparency, and a positive customer experience for veterans. Veterans rely on VA.gov to access a wide range of essential services, information, and benefits. Ensuring consistent website availability and providing clear communication regarding outages or maintenance windows are crucial aspects of trust, customer experience, accessibility, and user experience. 
-
+It is essential to display uptime, downtime, errors, and other availability information in an effective way that fosters trust, transparency, and a positive customer experience for veterans. 
 
 
 ### Customer Experience and Trust
@@ -75,9 +73,9 @@ Numerous studies have documented the importance of website responsiveness and mi
 
 - The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
 
-While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. In these instances, the VA website becomes a critical touchpoint for veterans, and ensuring its consistent availability of services is essential for maintaining a positive user experience.
+While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. Ensuring a consistent availability of services is essential for maintaining a positive user experience.
 
-**A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways:**
+**A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways**
 
 **Manage User Expectations**: By informing users about potential downtime or ongoing maintenance, the VA can set realistic expectations and minimize frustration. For instance, the dashboard could clearly communicate the expected duration of maintenance windows or highlight periods of peak usage that might lead to slower response times. This proactive communication can help veterans plan their online interactions and avoid scheduling important tasks during known downtime.
 
