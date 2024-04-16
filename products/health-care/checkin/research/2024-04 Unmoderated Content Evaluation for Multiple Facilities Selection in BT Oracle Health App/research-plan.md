@@ -57,40 +57,40 @@ The tests will be conducted online at the participant’s leisure.
   - All must have experience filing for travel reimbursement
   - All must be over 55 years old
   - All must have a cognitive disability
-  - [cohort A link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort A link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=a)
 
 - Cohort B (9 Veterans) 
   - All must have experience filing for travel reimbursement
   - All must be over 55 years old OR have a cognitive disability
-  - [cohort B link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort B link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=b)
 
 - Cohort C (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must **NOT** have any degree or vocational training after high school
-  - [cohort C link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort C link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=c)
 
 - Cohort D (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must identify as Native or Asian
-  - [cohort D link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort D link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=d)
 
 - Cohort E (9 Veterans)
   - All must have experience filing for travel reimbursement
   - All must identify as **NOT** White
-  - [cohort link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=e)
 
 #### NO experience with travel reimbursement
 - Cohort F (9 Veterans)
   - All must **NOT** have experience filing for travel reimbursement
   - All must think they’re eligible to receive travel reimbursement for health care appointments
   - All must be over 55 years old OR have a cognitive disability
-  - [cohort F link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort F link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=f)
 
 - Cohort G (9 Veterans)
   - All must **NOT** have experience filing for travel reimbursement
   - All must **NOT** know or be unsure if they’re eligible to receive travel reimbursement for health care appointments
   - All must be over 55 years old OR have a cognitive disability
-  - [cohort G link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh)
+  - [cohort G link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=g)
 
 ### Secondary criteria (nice to haves) across all cohorts:
 - At least 20 women
