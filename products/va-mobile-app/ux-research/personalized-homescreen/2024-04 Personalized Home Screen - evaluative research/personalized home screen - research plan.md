@@ -207,10 +207,12 @@ If release build is ready 5/21: **Week 1: June 3-7, Week 2: June 17-20**
      * Wed 6/5: 10:30am-6pm EST/9am-5pm CST
      * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
      * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
+     * Mon 6/17: 10am-6pm EST/9am-5pm CST (if needed)
   * Screenreader users
-     * Mon 6/17: 10am-6pm EST/9am-5pm CST
-     * Tue 6/18: 10am-6pm EST/9am-5pm CST
+     * Tue 6/18: 10am-6pm EST/9am-5pm CST 
      * Thu 6/20: 10am-6pm EST/9am-5pm CST
+     * Fri 6/21: 10am-6pm EST/9am-5pm CST
+
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
