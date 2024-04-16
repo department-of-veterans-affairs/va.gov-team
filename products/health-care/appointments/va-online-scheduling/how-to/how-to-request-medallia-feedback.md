@@ -60,7 +60,7 @@ All in one file, on one tab
 | Week 11 Mar 10–Mar 16 |  Leah De La Costa   | [78601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78601) | Done       |
 | Week 12 Mar 17–Mar 23 |  Leah De La Costa   | [78784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78784), [79140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79140) |Done       |
 | Week 13 Mar 24–Mar 30 |  Leah De La Costa   | [79729](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79729) | Done        |
-| Week 14 Mar 31-Apr 06 | Melissa Lefevre  | [80264](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80264) |  | Done |
+| Week 14 Mar 31-Apr 06 | Melissa Lefevre  | [80264](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80264) |  | Done        |
 
 
 ### Medallia Feedback Requests - Q2 2024
@@ -69,7 +69,7 @@ All in one file, on one tab
 
 | Dates                  | Submitted By | Ticket Link  | Status |
 |------------------------|--------------|--------------|--------|
-| Week 15 Apr 07-Apr 13 | Melissa Lefevre | []() |  |
+| Week 15 Apr 07-Apr 13 | Melissa Lefevre | [80814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80814) |  |
 | Week 16 Apr 14-Apr 20 | Melissa Lefevre | []() |  |
 | Week 17 Apr 21-Apr 27 | Leah De La Costa  | []() |  |
 | Week 18 Apr 28-May 04 | Leah De La Costa | []() |  |
