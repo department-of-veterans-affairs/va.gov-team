@@ -37,12 +37,12 @@
 **Updates to Domo**
 
 **Funding/Billing**
-At the moment, all notifications sent by VA Notify (except for those funded by VHA) are being paid for by VA Notify.  
+At the moment, all notifications sent by VA Notify (except for those funded by VHA) are being paid for by VA Notify.  We DO NOT HAVE FAT POCKETS!!!
 * How we got here
   - At first we had business lines that wanted to use VA Notify purchase AWS credits.
   - They would fill out the Cloud Credit Purchase form, go through the 2237, FITARA process and funds would be allocate to the VA Notify Cloud Key ID
   - VAEC/ESCO no longer allows the purchase of Cloud Credits
-  - We tried to use the Franchise Fund, but since the
+  - We tried to use the Franchise Fund, but ran into a problem with OIT billing OIT
  
     
 **MHV on VA.gov**
@@ -94,9 +94,10 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
   - Templates for push notifications live in VEText's Portal
   - We want to migrate the mobile app push notification channel fully to VA Notify (digital notification delivery) and VA Profile (Veteran profile and notification preference management).
 
-* Phase 2
+* Next Phase
+  - The push notification plan will depend on when work can be done by VA Profile, VEText, VA Notify, and the Mobile App Team. We will be submitting an intake to VA Profile for them to add the push notification channel, which will include preferences and device registration data (this is comparable to recipient contact data for other channels). VA Notify may implement feature-flagged functionality that can be independently worked in preparation for full integration, e.g. push notification templates, push notification delivery, status tracking, etc. Once we know what VA Profile can schedule storage work, then we can schedule integration work, whether that happens all at once or in phases.
 
-* Phase 3
+
 
   
 **AWS**
