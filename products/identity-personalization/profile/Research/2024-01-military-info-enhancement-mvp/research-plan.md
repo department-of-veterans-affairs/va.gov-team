@@ -12,7 +12,8 @@ As a result of this request, we're adding duty status, military occupation speci
 
 ### OCTO Priorities 
 
-`NEEDS UPDATING: 2024 OCTO priorities are forthcoming!`
+Objective #1: Work collaboratively across the health and benefits portfolios on high-priority FY2024 initiatives.
+- KR: At least 50% of our initiatives should support the major initiatives in the health and benefits portfolio.
 
 ### Veteran Journey
 
