@@ -1,6 +1,6 @@
 # Ch33 Direct Deposit Migration to CorpDB
 
-**Updated: 4/16/2024** Draft
+**Updated: 4/16/2024**  `Draft`
 
 ## Table of Contents
 
