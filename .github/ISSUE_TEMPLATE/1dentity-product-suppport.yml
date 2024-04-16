@@ -5,38 +5,39 @@ assignees: jimcconnelly, kingbmike
 body:
 - type: markdown
   attributes:
-  value: |
-    # Identity Product Support Request
+    value: |
+      # Identity Product Support Request
 
-    This is a GitHub issue template for users and teams who need product support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For engineering support, use our [engineer issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joeniquette&labels=Identity%2C+identity-engineer-support&projects=&template=1dentity-engineer-support.md&title=) instead.
+      This is a GitHub issue template for users and teams who need product support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For engineering support, use our [engineer issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joeniquette&labels=Identity%2C+identity-engineer-support&projects=&template=1dentity-engineer-support.md&title=) instead.
 
-    ### **To properly assist with your issue, please complete the following:**
+      ### **To properly assist with your issue, please complete the following:**
 
-    - [ ] **Complete this issue template**
-    - [ ] **Provide your name and email address**
-    - [ ] **Provide your team’s name**
-    - [ ] **Select issue type (for “other” stop here and provide details)**
-      - **Sign-In-Service Integration**
-      - **Data Request**
-      - **Other**
-    - [ ] **Complete tasks for your issue type**
-    - [ ] **Add additional details (optional)**
-    - [ ] **Complete the [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) before closing this ticket**
+      - [ ] **Complete this issue template**
+      - [ ] **Provide your name and email address**
+      - [ ] **Provide your team’s name**
+      - [ ] **Select issue type (for “other” stop here and provide details)**
+        - **Sign-In-Service Integration**
+        - **Data Request**
+        - **Other**
+      - [ ] **Complete tasks for your issue type**
+      - [ ] **Add additional details (optional)**
+      - [ ] **Complete the [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) before closing this ticket**
 - type: input
+  id: name
   attributes:
-    label: Name
-    description: Provide your name
+    label: Provide your name
 - type: input
+  id: email
   attributes:
-    label: Email address
-    description: Provide your email address
+    label: Provide your email address
   validations:
     required: true
 - type: input
+  id: team_name
   attributes:
-    label: Team’s name
-    description: Provide your team’s name
+    label: Provide your team’s name
 - type: dropdown
+  id: issue_type
   attributes:
     label: Select issue type (for "other" stop here and provide details)
     options:
@@ -46,9 +47,9 @@ body:
   validations:
     required: true
 - type: textarea
+  id: details
   attributes:
-    label: Additional details
-    description: Provide additional details about your issue
+    label: Provide additional details about your issue
   validations:
     required: true
 - type: markdown
@@ -56,6 +57,7 @@ body:
     value: |
       ### **Data Request**
 - type: textarea
+  id: data_request
   attributes:
     label: Provide additional details below
     placeholder: |
@@ -77,6 +79,7 @@ body:
     value: |
       ### **Onboarding Questionnaire**
 - type: dropdown
+  id: sis_onboarding_1
   attributes:
     description: |
       - If end users interact with your application, you will most likely need to [configure your integration as a client application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/client_config.md).
@@ -87,6 +90,7 @@ body:
       - Interact with APIs only
       - Interact with both
 - type: dropdown
+  id: sis_onboarding_2
   attributes:
     description: |
       Read more about the [Unified Sign-in Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md)
@@ -95,6 +99,7 @@ body:
       - "Yes"
       - "No"
 - type: dropdown
+  id: sis_onboarding_3
   attributes:
     description: |
       - If "Yes", your application will need [cookie-based authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/cookie_oauth.md).
@@ -104,6 +109,7 @@ body:
       - "Yes"
       - "No"
 - type: dropdown
+  id: sis_onboarding_4
   attributes:
     description: |
       - If "Frontend" reference the appropriate authentication guide in Step #3 and complete the step for PKCE authentication.
@@ -117,12 +123,14 @@ body:
     value: |
       ### Client Configuration
 - type: dropdown
+  id: client_config_1
   attributes:
     label: Is the application used in a web browser?
     options:
       - "Yes"
       - "No"
 - type: dropdown
+  id: client_config_2
   attributes:
     description: |
       Read more about the [Unified Sign-in Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md)
@@ -131,16 +139,19 @@ body:
       - "Yes"
       - "No"
 - type: textarea
+  id: client_config_3
   attributes:
-    label: Briefly describe your application
+    label: Briefly describe your application (Client Configuration)
 - type: markdown
   attributes:
     value: |
       ### Service Configuration
 - type: textarea
+  id: service_config_1
   attributes:
-    label: Briefly describe your application
+    label: Briefly describe your application (Service Configuration)
 - type: textarea
+  id: service_config_2
   attributes:
     label: Provide additional details to describe your request (optional)
 - type: markdown
