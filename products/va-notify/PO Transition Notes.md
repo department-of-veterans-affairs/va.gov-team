@@ -56,7 +56,7 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
     + Link to signed MOU for PHI/PVAII permissions
     + VA Profile ticket to store  PHI/PII permission
     + A separate ticket with VA.gov authenticated experience will be needed to display the PHI permission in the notifications settings page.
-    + In support of the PHI permission work, VA Notify plans to work on personalization redaction...**explain what this is**
+    + In support of the PHI permission work, VA Notify plans to work on personalization redaction to remove any PHI/PII form our DB.  More about that [here](https://app.zenhub.com/workspaces/va-notify-620d21369d810a00146ed9c8/issues/gh/department-of-veterans-affairs/vanotify-team/1107)
 * Secure Message Notifications
   - VA Notify currently sends push notifications for secure messaging through the flagship mobile app
   - Once the secure message preference lives in VA Profile, the SM team can onboard to VA Notify to send email notifications.
