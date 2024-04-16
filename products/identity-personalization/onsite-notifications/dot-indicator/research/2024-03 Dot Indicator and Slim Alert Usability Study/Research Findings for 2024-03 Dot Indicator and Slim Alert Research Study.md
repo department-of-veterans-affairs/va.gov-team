@@ -39,7 +39,7 @@ My VA is now the first destination when a Veteran logs into VA.gov and it is cri
 -  How do Veterans with experience in filing claims understanding the messaging displayed? 
 - What additional information might be valuable for Veterans to see on these banners and cards?
 
-<b> 4. Document any other possible notification types or information that are important for Veterans which we could surface as personalized content for authenticated users.
+<b> 4. Document any other possible notification types or information that are important for Veterans which we could surface as personalized content for authenticated users.</b>
 
 ## Research Questions
 
@@ -217,8 +217,6 @@ Codepen:
 - [Badge indicator - AT Specific](https://bit.ly/3wMJtbU)
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
