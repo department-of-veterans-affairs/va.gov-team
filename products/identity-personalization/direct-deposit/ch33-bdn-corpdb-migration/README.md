@@ -217,8 +217,9 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 Given the short timeline, I propose that we only go through the following collab cycle touchpoints.
 
 - [Kickoff](https://dsva.slack.com/archives/C06JV0KHZNF/p1708460001226429)
-- Staging review
-- Security review
+- [Staging review](https://dsva.slack.com/archives/C06JV0KHZNF/p1713214486307419)
+- Privacy/Security review
+- [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76630) 
 
 #### What about design and research touchpoints?
 
