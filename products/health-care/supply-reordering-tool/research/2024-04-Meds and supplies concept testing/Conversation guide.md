@@ -12,7 +12,7 @@
 
 - _Post p# and "observer instructions" in_ [_#feedback-backchannel_](https://dsva.slack.com/messages/C40B45NJK/details/)
 - _@mention team members_
-- _[Observers' notes board](link here)_
+- _[Observers' notes board]((https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713229206929/0e2f177464d2f7def82be32b89d1e1f7b83fab73?sender=ueeece9e244394145c84e5173))_
 
 **5-10 min before session:** _Sign onto Zoom website via Google as Perigean w/credentials provided and start Zoom meeting_
 
