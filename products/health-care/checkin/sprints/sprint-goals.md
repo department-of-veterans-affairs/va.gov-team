@@ -115,6 +115,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)
         - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - 🟦 [[BE] Implement Facilities API Payload Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71790)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
