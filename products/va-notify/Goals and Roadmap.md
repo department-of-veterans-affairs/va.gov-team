@@ -54,6 +54,8 @@ Proof of concept performance comparison of v2 and v3 endpoints
 | V2 email 3750 | 496ms                 | 813ms             | 496ms                 | 2 seconds             |
 | V3 email 3750 | 195ms                 | 417ms             | 180ms                 | 2 seconds             |
 
+#### Access reviews
+This is not applicable for our teams as we utilize platform and identity managed tools that already have processes in place to monitor user activity and deactivate users as needed. Our Strike team is working with the IAM team to ensure VA offboarding events are integrated with the Self Service Portal. Users can only access Portal if they have a valid PIV card and access to the VA Network.
 
 ## 500 foot view: VA Notify themes
 - Self Service Portal Capabilities
