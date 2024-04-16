@@ -96,6 +96,9 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
 
 * Next Phase
   - The push notification plan will depend on when work can be done by VA Profile, VEText, VA Notify, and the Mobile App Team. We will be submitting an intake to VA Profile for them to add the push notification channel, which will include preferences and device registration data (this is comparable to recipient contact data for other channels). VA Notify may implement feature-flagged functionality that can be independently worked in preparation for full integration, e.g. push notification templates, push notification delivery, status tracking, etc. Once we know what VA Profile can schedule storage work, then we can schedule integration work, whether that happens all at once or in phases.
+ 
+* Push Notifications to all users.
+  - VA Notify and VEText are working on a new way to implement this using SNS topics
 
 
 
