@@ -59,7 +59,7 @@ body:
   attributes:
     value: |
       ---
-      ## **Data Request**
+      <details><summary><h2>Data Request</h2></summary>
 - type: textarea
   id: data_request
   attributes:
@@ -67,6 +67,10 @@ body:
     description: |
       - What data do you need pulled? Please don’t include any Personal Identifying Information (PII)
       - Is this sensitive data that requires special permissions?
+- type: markdown
+  attributes:
+    value: |
+      </details>
 - type: markdown
   attributes:
     value: |
