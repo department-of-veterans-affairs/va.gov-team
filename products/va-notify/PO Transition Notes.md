@@ -15,6 +15,7 @@
 
 **Compensation and Pension Notifications**
 - We are soooo close to launcing.  Track our status [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/Comp%20&%20Pen/README.md)
+- The team is solely focused on this until launch
 
   
 **Forms on VA.gov**
