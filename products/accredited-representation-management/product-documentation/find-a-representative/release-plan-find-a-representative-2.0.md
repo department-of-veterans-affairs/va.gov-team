@@ -136,9 +136,20 @@ _Link to DOMO dashboards TBD_
 ### 1-Month Results (3/11-4/13)
 
 1. **Errors in Sentry**: no errors on the fetching of rep information for search results, and the reporting of outdated information
-3. **User reports of outdated information**: Out of 9,322 total users there were 4 reports of outdated information -- 2 phone numbers reported (for separate representatives), 1 email address reported, 1 other reported with the comment “contact information”
-12. **Contact Center calls (MyVA411)**: TBD
-13. **Feedback survey submmissions (Medallia)**: TBD 
+2. **User reports of outdated information**: Out of 9,322 total users there were 4 reports of outdated information -- 2 phone numbers reported (for separate representatives), 1 email address reported, 1 other reported with the comment “contact information”
+3. **Contact Center calls (MyVA411)**: none
+4. **Feedback survey submmissions (Medallia)**:
+   1. Out of 43,043 users interacting with the landing page, there were 2 survey submissions:
+      1. 1 had a positive experience: “The site provides what I need” _5-star rating of VA.gov Experience_
+      2. 1 indicated they were unable to do their task of “Trying to get hold of somebody to find the status of my claim” _Neither satisfied nor dissatisfied_
+   2. Out of 18,320 users interacting with the Find a Representative page, there were 5 survey submissions:
+      1. 2 had a negative experience:
+         1. “Your information on local Accredited VSO’s in San Angelo TX 76903 is out of date.  Laura Serrano is no longer working as a VSO and you don’t have the 2 new people listed at all.” _2-star rating of VA.gov Experience_
+         2. “It is too difficult to sign in.  I have a government CAC.  Why do I need a CAC and a password.” _1-star rating of VA.gov Experience_
+      2. 3 indicated they were unable to do their task of:
+         1. “Get help filing for VA increase” _Not at all satisfied_
+         2. ”Find a VA Accredited Rep” _Not at all satisfied_
+         3. “I have vet medical benefits now” _Very satisfied_
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** nothing at this time
 
@@ -168,5 +179,5 @@ _To be completed once you have gathered your initial set of data, as outlined ab
 1. **How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?**
 2. **What qualitative feedback have you gathered from users or other stakeholders?** VBA and OGC request to allow users to sort or filter search results by VSO, CAIA content request to consolidate representative definitions into a single additional component.
 3. **Which assumptions you listed in your product outline were/were not validated?**
-4. **How might your product evolve now or in the future based on these results?** We will take in feature requests and feedback and consider everything comprehensively for a v3 version of Find a Representative (timeline TBD)
-5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?**
+4. **How might your product evolve now or in the future based on these results?** We will take in feature requests and feedback and consider everything comprehensively for a v3 version of Find a Representative (timeline TBD).
+5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?** None that we're aware of, the feature toggle has already been removed.
