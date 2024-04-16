@@ -184,7 +184,9 @@ _Put together initial recommendations here based on your findings along with sup
 * Recommendation 2: the slim alert for evidence requests on claim cards should be introduced to My VA, for the sake of better informing Veterans of when they need to act and provide more evidence/details, as well as consistency with the Claim Status Tool.
    * See Finding 4 for more details
  
-* Recommendation 3: notifications that matter most for Veterans should be elevated more than just these methods - something high-level (top of page, alert banners, navigation, etc.) that is displayed immediately to users when they've been authenticated. This could be a persistent presence for users that lives in top-level navigation, appearing on all pages beyond just My VA. This would present a set of challenges for implementation, but this research study has shown that the notification types tested were not what users were saying they noticed first. 
+* Recommendation 3: notifications that matter most for Veterans should be elevated more than just these methods - something high-level (top of page, alert banners, navigation, etc.) that is displayed immediately to users when they've been authenticated. This could be a persistent presence for users that lives in top-level navigation, appearing on all pages beyond just My VA. This would present a set of challenges for implementation, but this research study has shown that the notification types tested were not what users were saying they noticed first.
+
+* Recommendation 4: investigate how Veterans could benefit from regional, location-specific, and personalized VA events, news, and alerts being shown on My VA, as well as determine the measures needed to incorporate such an addition.
 
 ## Next Steps
 
