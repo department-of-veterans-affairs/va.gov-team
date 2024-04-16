@@ -148,7 +148,7 @@ Perigean does **not** need to set up our pilot sessions. Tyler will schedule and
 
 ### Pilot
 
-- Pilot participant: Anton from Oddabll
+- Pilot participant: Anton from Oddball
 - Date and time of pilot session: April 17 at 12pm EST
 
 ### CAIA screen magnification pilot
