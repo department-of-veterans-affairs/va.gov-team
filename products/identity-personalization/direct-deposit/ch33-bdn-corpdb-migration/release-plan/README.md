@@ -63,7 +63,7 @@ PM and PO will monitor DataDog analytics. If the team notices a spike in errors,
 **Launch Go/No-go:** 
 - [Launch go/no-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80858)
 
-**Desired date range:** 10/25/2023
+**Desired date range:** Tentatively 5/1/2024 -depends on UAT
 - [Launch Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80859) 
 
 **What metrics-based criteria will you look at before advancing rollout to the next stage?:**
