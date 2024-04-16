@@ -1,4 +1,4 @@
-# Conversation Guide: Direct deposit payment instruction consolidation UAT, April TBD, 2024
+# Conversation Guide: Direct deposit payment instruction consolidation UAT, April 2024
 
 ### Project-specific setup
 
