@@ -10,18 +10,18 @@ body:
 
       This is a GitHub issue template for users and teams who need product support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For engineering support, use our [engineer issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joeniquette&labels=Identity%2C+identity-engineer-support&projects=&template=1dentity-engineer-support.md&title=) instead.
 
-      ### **To properly assist with your issue, please complete the following:**
+      ### To properly assist with your issue, please complete the following:
 
-      - [ ] **Complete this issue template**
-      - [ ] **Provide your name and email address**
-      - [ ] **Provide your team’s name**
-      - [ ] **Select issue type (for “other” stop here and provide details)**
-        - **Sign-In-Service Integration**
-        - **Data Request**
-        - **Other**
-      - [ ] **Complete tasks for your issue type**
-      - [ ] **Add additional details (optional)**
-      - [ ] **Complete the [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) before closing this ticket**
+      - [ ] Complete this issue template
+      - [ ] Provide your name and email address
+      - [ ] Provide your team’s name
+      - [ ] Select issue type (for “other” stop here and provide details)
+        - Sign-In-Service Integration
+        - Data Request
+        - Other
+      - [ ] Complete tasks for your issue type
+      - [ ] Add additional details (optional)
+      - [ ] Complete the [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) before closing this ticket
 - type: input
   id: name
   attributes:
@@ -41,9 +41,12 @@ body:
   attributes:
     label: Select issue type (for "other" stop here and provide details)
     options:
+      - Select an issue type
       - Data Request
       - Sign-in Service Integration
       - Other
+    multiple: false
+    default: 0
   validations:
     required: true
 - type: textarea
