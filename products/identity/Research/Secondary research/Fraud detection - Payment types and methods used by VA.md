@@ -913,6 +913,1066 @@ Funds Usage:
 - Funds used by the institution for the YRP must be available for unrestricted use.
 - Restricted funds from third parties or internal institution funds cannot be part of the institution’s contribution for the YRP.
 
+Appendix
+
+
+Agency
+Program or Activity
+Fiscal Year
+Confirmed Fraud
+
+
+
+
+VA
+Activities with Other Federal Agencies
+2021
+$  0.19
+
+
+
+
+VA
+Agency Wide
+2021
+$  -  
+
+
+
+
+VA
+Agency Wide
+2022
+$  134.32
+
+
+
+
+VA
+Agency Wide
+2023
+$  177.20
+
+
+
+
+VA
+Alcohol and Drug Treatment Rehabilitation
+2021
+$  -  
+
+
+
+
+VA
+Automobile Adaptive Equipment
+2021
+$  -  
+
+
+
+
+VA
+Beneficiary Travel
+2017
+$  0.16
+
+
+
+
+VA
+Beneficiary Travel
+2018
+$  0.24
+
+
+
+
+VA
+Beneficiary Travel
+2019
+$  0.01
+
+
+
+
+VA
+Beneficiary Travel
+2020
+$  0.01
+
+
+
+
+VA
+Beneficiary Travel
+2021
+$  -  
+
+
+
+
+VA
+Canteen Service
+2021
+$  -  
+
+
+
+
+VA
+Caregiver Support
+2021
+$  -  
+
+
+
+
+VA
+Civilian Health and Medical Program of the VA (CHAMPVA)
+2018
+$  -  
+
+
+
+
+VA
+Civilian Health and Medical Program of the VA (CHAMPVA)
+2019
+$  0.60
+
+
+
+
+VA
+Civilian Health and Medical Program of the VA (CHAMPVA)
+2020
+$  2.35
+
+
+
+
+VA
+Civilian Health and Medical Program of the VA (CHAMPVA)
+2021
+$  1.16
+
+
+
+
+VA
+Clothing Allowance
+2021
+$  -  
+
+
+
+
+VA
+Communications, Utilities, and Other Rent
+2021
+$  -  
+
+
+
+
+VA
+Compensated Work Therapy
+2021
+$  -  
+
+
+
+
+VA
+Compensation
+2017
+$  6.56
+
+
+
+
+VA
+Compensation
+2018
+$  6.62
+
+
+
+
+VA
+Compensation
+2019
+$  2.17
+
+
+
+
+VA
+Compensation
+2020
+$  3.60
+
+
+
+
+VA
+Compensation
+2021
+$  9.70
+
+
+
+
+VA
+COVID-19 Office of Information & Technology
+2021
+$  -  
+
+
+
+
+VA
+COVID-19 Office of Inspector General
+2021
+$  -  
+
+
+
+
+VA
+COVID-19 Station 101 Accounting
+2021
+$  -  
+
+
+
+
+VA
+COVID-19 VA Wide Payroll
+2021
+$  -  
+
+
+
+
+VA
+COVID-19 VA Wide Travel
+2021
+$  -  
+
+
+
+
+VA
+COVID-19 Veterans Benefits Administration (VBA) General Operating Expense
+2021
+$  -  
+
+
+
+
+VA
+COVID-19 Veterans Health Administration (VHA) Supplemental Disbursements
+2021
+$  -  
+
+
+
+
+VA
+Dependency and Indemnity Compensation
+2021
+$  2.22
+
+
+
+
+VA
+DoD/VA Joint Incentive fund
+2021
+$  -  
+
+
+
+
+VA
+Education (Chapter 1607)
+2021
+$  -  
+
+
+
+
+VA
+Education (Reporting Fees)
+2021
+$  -  
+
+
+
+
+VA
+Education Service (Chapter 33)
+2021
+$  36.64
+
+
+
+
+VA
+Education Service (Chapter 1606)
+2017
+$  4.76
+
+
+
+
+VA
+Education Service (Chapter 1606)
+2018
+$  29.45
+
+
+
+
+VA
+Education Service (Chapter 1606)
+2019
+$  1.85
+
+
+
+
+VA
+Education Service (Chapter 1606)
+2020
+$  5.51
+
+
+
+
+VA
+Education Service (Chapter 1606)
+2021
+$  -  
+
+
+
+
+VA
+Education Service (State Approving Agencies)
+2021
+$  -  
+
+
+
+
+VA
+Education Service Survivor and Dependents Education Assistance (Chapter 35)
+2021
+$  -  
+
+
+
+
+VA
+Equal Access to Justice Act
+2021
+$  -  
+
+
+
+
+VA
+Equipment
+2021
+$  -  
+
+
+
+
+VA
+Facility Maintenance and Operations
+2021
+$  -  
+
+
+
+
+VA
+Fee Basis
+2018
+$  0.36
+
+
+
+
+VA
+Fee Basis
+2019
+$  0.05
+
+
+
+
+VA
+Fee Basis
+2020
+$  -  
+
+
+
+
+VA
+Foreign Medical Program
+2021
+$  -  
+
+
+
+
+VA
+Franchise Fund
+2021
+$  -  
+
+
+
+
+VA
+General Post Fund
+2021
+$  -  
+
+
+
+
+VA
+Grants (Construction of State Extended Care Facilities)
+2021
+$  -  
+
+
+
+
+VA
+Grants (Highly Rural Transportation)
+2021
+$  -  
+
+
+
+
+VA
+Grants (Homeless Per Diem)
+2021
+$  -  
+
+
+
+
+VA
+Grants (Support Services for Veteran Families)
+2021
+$  -  
+
+
+
+
+VA
+Healthcare for Homeless Veterans
+2021
+$  0.04
+
+
+
+
+VA
+Indian Health Services/Tribal Health Program
+2021
+$  -  
+
+
+
+
+VA
+Land and Structures
+2021
+$  -  
+
+
+
+
+VA
+Loan Guaranty (Direct Loans)
+2021
+$  -  
+
+
+
+
+VA
+Loan Guaranty (Loan Administration)
+2021
+$  -  
+
+
+
+
+VA
+Loan Guaranty (Loan Production)
+2021
+$  -  
+
+
+
+
+VA
+Loan Guaranty (Loan Sales)
+2021
+$  -  
+
+
+
+
+VA
+Loan Guaranty (Property Management)
+2021
+$  -  
+
+
+
+
+VA
+Medical and Prosthetic Research
+2021
+$  -  
+
+
+
+
+VA
+Medical Care Contracts and Agreements
+2021
+$  -  
+
+
+
+
+VA
+Montgomery GI Bill (Chapter 30)
+2021
+$  -  
+
+
+
+
+VA
+National Cemetery Administration (NCA) Burial
+2021
+$  -  
+
+
+
+
+VA
+National Service Life Insurance
+2021
+$  -  
+
+
+
+
+VA
+Non-Medical Contracts and Agreements
+2021
+$  -  
+
+
+
+
+VA
+Off-Station Provider Services
+2021
+$  0.22
+
+
+
+
+VA
+Office of Acquisition, Logistics and Construction (Major/Minor Construction)
+2021
+$  1.46
+
+
+
+
+VA
+Office of Information & Technology
+2021
+$  -  
+
+
+
+
+VA
+Office of Inspector General
+2021
+$  -  
+
+
+
+
+VA
+Other
+2017
+$  299.48
+
+
+
+
+VA
+Other Contracts, Services, Agreements, and Miscellaneous
+2021
+$  3.44
+
+
+
+
+VA
+Other Programs
+2018
+$  26.65
+
+
+
+
+VA
+Other Programs
+2019
+$  131.85
+
+
+
+
+VA
+Other Programs
+2020
+$  89.02
+
+
+
+
+VA
+Pension
+2017
+$  1.99
+
+
+
+
+VA
+Pension
+2018
+$  0.36
+
+
+
+
+VA
+Pension
+2019
+$  0.31
+
+
+
+
+VA
+Pension
+2020
+$  -  
+
+
+
+
+VA
+Pension
+2021
+$  2.27
+
+
+
+
+VA
+Pharmacy (Consolidated Mail Outpatient Pharmacies)
+2021
+$  -  
+
+
+
+
+VA
+Pharmacy (Medical Facilities)
+2021
+$  -  
+
+
+
+
+VA
+Printing and Reproduction
+2021
+$  -  
+
+
+
+
+VA
+Professional Services Contracts
+2021
+$  -  
+
+
+
+
+VA
+Prosthetics
+2021
+$  -  
+
+
+
+
+VA
+Purchased Long Term Services and Supports
+2021
+$  0.04
+
+
+
+
+VA
+Restored Entitlement Program for Survivors
+2021
+$  -  
+
+
+
+
+VA
+Service-Disabled Veterans Insurance
+2021
+$  -  
+
+
+
+
+VA
+Servicemembers' Group Life Insurance
+2021
+$  0.33
+
+
+
+
+VA
+Shared Services
+2021
+$  -  
+
+
+
+
+VA
+Specially Adaptive Housing
+2021
+$  0.02
+
+
+
+
+VA
+Spina Bifida Health Care
+2021
+$  -  
+
+
+
+
+VA
+State Home Per Diem
+2021
+$  -  
+
+
+
+
+VA
+Station 101 Accounting
+2021
+$  -  
+
+
+
+
+VA
+Supplies and Materials
+2021
+$  6.45
+
+
+
+
+VA
+Supply Fund
+2021
+$  -  
+
+
+
+
+VA
+Transportation of Things
+2021
+$  -  
+
+
+
+
+VA
+United States Government Life Insurance
+2021
+$  -  
+
+
+
+
+VA
+VA Community Care
+2021
+$  179.90
+
+
+
+
+VA
+VA Wide Payroll
+2021
+$  2.27
+
+
+
+
+VA
+VA Wide Travel
+2021
+$  -  
+
+
+
+
+VA
+VACC and PLTSS
+2017
+$  0.69
+
+
+
+
+VA
+Veteran Readiness and Employment
+2021
+$  -  
+
+
+
+
+VA
+Veterans Benefits Administration (VBA) Automobile Grants
+2021
+$  -  
+
+
+
+
+VA
+Veterans Benefits Administration (VBA) Burial
+2021
+$  -  
+
+
+
+
+VA
+Veterans Benefits Administration (VBA) General Operating Expense
+2021
+$  -  
+
+
+
+
+VA
+Veterans Benefits Administration (VBA) Spina Bifida (Chapter 18)
+2021
+$  -  
+
+
+
+
+VA
+Veterans Health Administration (VHA) Disaster Relief Funding (Hurricane Sandy)
+2021
+$  -  
+
+
+
+
+VA
+Veterans Health Administration (VHA) Information Technology Services
+2021
+$  -  
+
+
+
+
+VA
+Veterans Health Administration (VHA) Insurance Claims and Interest Expense
+2021
+$  -  
+
+
+
+
+VA
+Veterans Insurance and Indemnities
+2021
+$  0.05
+
+
+
+
+VA
+Veterans Readiness and Employment (Contract Counseling)
+2021
+$  -  
+
+
+
+
+VA
+Veterans Reopened Insurance
+2021
+$  -  
+
+
+
+
+VA
+Veterans Retraining and Assistance Program
+2021
+$  -  
+
+
+
+
+VA
+Veterans Special Life Insurance
+2021
+$  -  
+
+
+
+
+VA
+VHA Disaster Relief Funding
+2021
+$  -  
+
+
+
+
+
+
+
+
+Table 2: Confirmed fraud amounts breakdown by VA Services.
+FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023
+
+
+
+## Glossary of terms
+
+
+These definitions provide essential context for understanding payment processes and detecting potential fraud within VA.gov.
+
+
+Awards: Awards encompass grants, subgrants, loans, cooperative agreements, and other forms of financial assistance.
+They also include contracts, subcontracts, purchase orders, task orders, and delivery orders.
+
+
+Appropriation: An appropriation is a provision of law that authorizes the expenditure of funds for a specific purpose.
+
+
+Obligations: Obligations represent the legal liability of the Federal government, such as a contract or grant award.
+
+
+Object Class:
+Object class is a way of identifying obligations based on the types of goods or services purchased.
+Examples include personnel compensation, supplies and materials, and equipment.
+
+
+Outlays:
+Outlays refer to the issuance of checks, disbursements of cash, or electronic transfers of funds made to liquidate a federal obligation.
+
+
+Program Activity:
+Program activity refers to a specific activity or project listed in the program and financing schedules of the annual US Government budget.
+The Program Activity section of the President’s Budget shows the new obligations incurred for each principal program activity or project financed.
+
+
+Treasury Account Symbol (TAS):
+The TAS is an identification code assigned by the Treasury, in collaboration with OMB and the owner agency.
+It is used for individual appropriations, receipts, or other fund accounts.
+All financial transactions of the Federal government are classified by TAS for reporting to OMB and Treasury.
+
+
+## Works Cited
+
+BTSSS. “BTSSS Overview.” Home · BTSSS, 2023, https://dvagov-btsss.dynamics365portals.us/. Accessed 29 February 2024.
+eCFR. “8 CFR 214.2 -- Special requirements for admission, extension, and maintenance of status.” eCFR, 2023, https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2#p-214.2(f)(10)(ii)(C). Accessed 17 January 2024.
+ECFR.gov. “48 CFR Part 13 -- Simplified Acquisition Procedures (FAR Part 13).” eCFR, 2024, https://www.ecfr.gov/current/title-48/chapter-1/subchapter-C/part-13#subpart-13.4. Accessed 17 January 2024.
+Education.gov. “The College Scholarship Fraud Prevention Act of 2000: Seventh Annual Report to Congress by the Department of Justice, the Depar.” ERIC, 2008, https://files.eric.ed.gov/fulltext/ED504629.pdf. Accessed 25 January 2024.
+Federal Register. “Update to the Department of Homeland Security STEM Designated Degree Program List.” Federal Register, 21 January 2022, https://www.federalregister.gov/documents/2022/01/21/2022-01188/update-to-the-department-of-homeland-security-stem-designated-degree-program-list. Accessed 17 January 2024.
+FSC-VA.gov. “Payments.” VA-FSC Internet, 2016, https://www.fsc.va.gov/fsc/payments.asp. Accessed 22 January 2024.
+FTC. “College Scholarship Fraud Prevention Act of 2000: Eleventh Annual Report to Congress by the United States Department of Educatio.” Federal Trade Commission, 2011, https://www.ftc.gov/sites/default/files/documents/reports/college-scholarship-fraud-prevention-act-2000-eleventh-annual-report-congress-united-states/1211scholarshipfraudreport.pdf. Accessed 25 January 2024.
+“FY 2020 OMB Supplemental Data Call Veterans Affairs (VA).” FY 2020 OMB Supplemental Data Call Veterans Affairs (VA), 2020, https://www.cfo.gov/wp-content-2/Supplemental-Data-Call-2020/VA.pdf. Accessed 18 January 2024.
+Govinfo. Scholarship Fraud, 9 November 2017, https://www.govinfo.gov/content/pkg/USCODE-2022-title20/pdf/USCODE-2022-title20-chap28-subchapIV-partG-sec1092d.pdf. Accessed 25 January 2024.
+knowva.ebenefits.va.gov/. “School Certifying Official Handbook (On-line).” knowva.ebenefits.va.gov/, 2024, https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line#Enrolling_in_ACH_Direct_Deposit. Accessed 24 January 2024.
+OIT VA. “OIT and VA.gov.” OIT.gov, 2023, https://vaww.ea.oit.va.gov/vba-obi-bsm/. Accessed 29 February 2024.
+oversight.gov. OIG Reports, 2022, https://www.oversight.gov/sites/default/files/oig-reports/VA/VAOIG-22-01155-14.pdf. Accessed 29 February 2024.
+VA.gov. “Change Your VA Direct Deposit Information | Veterans Affairs.” VA.gov, 21 February 2024, https://www.va.gov/change-direct-deposit/. Accessed 25 March 2024.
+VA.gov. “Life Insurance Dividend Payment Options | Veterans Affairs.” VA.gov, 22 January 2024, https://www.va.gov/resources/life-insurance-dividend-payment-options/. Accessed 29 February 2024.
+VA.gov. “Protecting Veterans From Fraud | Veterans Affairs.” VA.gov, 12 February 2024, https://www.va.gov/initiatives/protecting-veterans-from-fraud/. Accessed 29 February 2024.
+VA.gov. “Review And Pay Your VA Copay Bill | Veterans Affairs.” VA.gov, 12 October 2022, https://www.va.gov/health-care/pay-copay-bill/. Accessed 29 February 2024.
+VA.gov. “U.S. Department of Veterans Affairs Fiscal Year 2024 Budget Submission Volume 5 of 5 Information Technology Programs and Electro.” VA.gov, 2024, https://www.va.gov/budget/docs/summary/fy2024-va-budget-volume-v-information-technology-programs-and-electronic-health-record-modernization.pdf. Accessed 22 January 2024.
+VA News. “Protect your benefits: Combatting Payment Redirection Fraud - VA News.” VA News, 10 October 2023, https://news.va.gov/124837/protect-your-benefits-combatting-payment-redirection-fraud/. Accessed 24 January 2024.
+Veterans Administration. “VA Automobile Allowance And Adaptive Equipment | Veterans Affairs.” VA.gov, 2024, https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/. Accessed 24 January 2024.
+eCFR. “8 CFR 214.2 -- Special requirements for admission, extension, and maintenance of status.” eCFR, 2023, https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2#p-214.2(f)(10)(ii)(C). Accessed 17 January 2024.
+ECFR.gov. “48 CFR Part 13 -- Simplified Acquisition Procedures (FAR Part 13).” eCFR, 2024, https://www.ecfr.gov/current/title-48/chapter-1/subchapter-C/part-13#subpart-13.4. Accessed 17 January 2024.
+Education.gov. “The College Scholarship Fraud Prevention Act of 2000: Seventh Annual Report to Congress by the Department of Justice, the Depar.” ERIC, 2008, https://files.eric.ed.gov/fulltext/ED504629.pdf. Accessed 25 January 2024.
+Federal Register. “Update to the Department of Homeland Security STEM Designated Degree Program List.” Federal Register, 21 January 2022, https://www.federalregister.gov/documents/2022/01/21/2022-01188/update-to-the-department-of-homeland-security-stem-designated-degree-program-list. Accessed 17 January 2024.
+FSC-VA.gov. “Payments.” VA-FSC Internet, 2016, https://www.fsc.va.gov/fsc/payments.asp. Accessed 22 January 2024.
+FTC. “College Scholarship Fraud Prevention Act of 2000: Eleventh Annual Report to Congress by the United States Department of Educatio.” Federal Trade Commission, 2011, https://www.ftc.gov/sites/default/files/documents/reports/college-scholarship-fraud-prevention-act-2000-eleventh-annual-report-congress-united-states/1211scholarshipfraudreport.pdf. Accessed 25 January 2024.
+“FY 2020 OMB Supplemental Data Call Veterans Affairs (VA).” FY 2020 OMB Supplemental Data Call Veterans Affairs (VA), 2020, https://www.cfo.gov/wp-content-2/Supplemental-Data-Call-2020/VA.pdf. Accessed 18 January 2024.
+Govinfo. Scholarship Fraud, 9 November 2017, https://www.govinfo.gov/content/pkg/USCODE-2022-title20/pdf/USCODE-2022-title20-chap28-subchapIV-partG-sec1092d.pdf. Accessed 25 January 2024.
+knowva.ebenefits.va.gov/. “School Certifying Official Handbook (On-line).” knowva.ebenefits.va.gov/, 2024, https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line#Enrolling_in_ACH_Direct_Deposit. Accessed 24 January 2024.
+VA.gov. “Life Insurance Dividend Payment Options | Veterans Affairs.” VA.gov, 22 January 2024, https://www.va.gov/resources/life-insurance-dividend-payment-options/. Accessed 29 February 2024.
+VA.gov. “U.S. Department of Veterans Affairs Fiscal Year 2024 Budget Submission Volume 5 of 5 Information Technology Programs and Electro.” VA.gov, 2024, https://www.va.gov/budget/docs/summary/fy2024-va-budget-volume-v-information-technology-programs-and-electronic-health-record-modernization.pdf. Accessed 22 January 2024.
+VA News. “Protect your benefits: Combatting Payment Redirection Fraud - VA News.” VA News, 10 October 2023, https://news.va.gov/124837/protect-your-benefits-combatting-payment-redirection-fraud/. Accessed 24 January 2024.
+Veterans Administration. “VA Automobile Allowance And Adaptive Equipment | Veterans Affairs.” VA.gov, 2024, https://www.va.gov/disability/eligibility/special-claims/automobile-allowance-adaptive-equipment/. Accessed 24 January 2024.
+
+
 
 
 
