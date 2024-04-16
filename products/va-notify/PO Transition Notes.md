@@ -69,8 +69,8 @@
 
 **Push Notifications**
 * Phase 1
-  - VA Notify is using VEText to implement push notifications
-  - 
+  - VA Notify is passing push notification requests from business lines to VEText.
+  - We want to migrate the mobile app push notification channel fully to VA Notify (digital notification delivery) and VA Profile (Veteran profile and notification preference management).
 
 * Phase 2
 
