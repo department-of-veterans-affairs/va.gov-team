@@ -1,4 +1,4 @@
-# Research Plan: Direct deposit payment instruction consolidation UAT, April TBD, 2024
+# Research Plan: Direct deposit payment instruction consolidation UAT, April 2024
 
 ## Background  
 
