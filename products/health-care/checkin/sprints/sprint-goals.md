@@ -191,7 +191,7 @@ ________________________________________________________________________________
         - ✔️ 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
     - **Sub Goal: Analyze current metrics to see what they tell us**               
        - ✔️ 🟥 [Research] Analyze GA Metrics
-       - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
+       - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76046)
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
         - ✔️ 🟪 [We need to find out who to reach out to (Contact Center?); can we get on their calendar for 2-3 weeks out](https://dsva.slack.com/archives/CNCEXNXK4/p1711563524539819?thread_ts=1711545874.924439&cid=CNCEXNXK4)      
