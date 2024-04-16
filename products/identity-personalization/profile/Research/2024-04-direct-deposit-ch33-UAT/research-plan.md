@@ -146,7 +146,7 @@ Sessions will be 30 minutes with 1 hour in between sessions. Please schedule no 
 | Monday, 4/29 (pilot date only) | 9:30am - 11:30am      |
 | Tuesday, 4/30                  | 9:30am - 1pm; 2pm-5pm |
 | Wednesday, 5/1                 | 9:30am - 1pm; 2pm-5pm |
-| Thursday, 4/25                 | 9:30am - 1pm          |
+| Thursday, 5/2                 | 9:30am - 1pm          |
 
 ## Team Roles	
 - Moderator: Pam Drouin, pamela.drouin@a1msolutions.com
