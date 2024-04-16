@@ -34,7 +34,17 @@
 
 **DORA**
 
+**Updates to Domo**
 
+**Funding/Billing**
+At the moment, all notifications sent by VA Notify (except for those funded by VHA) are being paid for by VA Notify.  
+* How we got here
+  - At first we had business lines that wanted to use VA Notify purchase AWS credits.
+  - They would fill out the Cloud Credit Purchase form, go through the 2237, FITARA process and funds would be allocate to the VA Notify Cloud Key ID
+  - VAEC/ESCO no longer allows the purchase of Cloud Credits
+  - We tried to use the Franchise Fund, but since the
+ 
+    
 **MHV on VA.gov**
 * Appointment Reminders
   - Once MHV preference and email contant information is stored in VA Profile, VEText can begin sending email appointment reminders in addition to SMS.
