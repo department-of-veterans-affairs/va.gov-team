@@ -65,7 +65,14 @@
 * Hearing Reminders
   - Currently hearing reminders are triggered by VEText.  The Caseflow team has plans to integrate directly with VA Notify to send hearing reminder SMS notifications
   - A preference for this exists in VA.gov
+**Push Notifications**
+* Phase 1
 
+* Phase 2
+
+* Phase 3
+
+  
 **AWS**
 * Key Rotation
   - IAM key rotation every 60 days. Calendar reminder scheduled every 6 weeks on Tuesdays @ 10:30 ET.  Next reminder is May 7th, 2024
