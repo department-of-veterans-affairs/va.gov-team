@@ -69,6 +69,7 @@
 
 **Push Notifications**
 * Phase 1
+  - VA Notify is using VEText to implement push notifications
   - 
 
 * Phase 2
