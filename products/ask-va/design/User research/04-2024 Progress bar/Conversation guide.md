@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: April 11, 2024
+Last updated by @tygindraux: April 16, 2024
 
 ## Moderator logistics
 
@@ -598,4 +598,4 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 ## Approved by:
 
 - Becky Phung, PO on April 10, 2024
-- [PENDING] Shane Strassberg, VA Research Ops on [DATE]
+- Shane Strassberg, VA Research Ops on April 19, 2024
