@@ -31,7 +31,7 @@ Notify
 Strike
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
-| Q1      |                      |                       |                     |                         |
+| Q1      | High                 | High                  | Elite               | Elite                   |
 | Q2      |                      |                       |                     |                         |
 | Q3      |                      |                       |                     |                         |
 | Q4      |                      |                       |                     |                         |
