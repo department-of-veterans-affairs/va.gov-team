@@ -1,62 +1,56 @@
 name: "Identity Product Support"
-about: "For general Identity support request"
-title: ""
+description: "For general Identity support request"
 labels: "Identity, identity-product-support"
 assignees: jimcconnelly, kingbmike
 body:
 - type: markdown
   attributes:
-    value: |
-      # Identity Product Support Request
+  value: |
+    # Identity Product Support Request
 
-      This is a GitHub issue template for users and teams who need product support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For engineering support, use our [engineer issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joeniquette&labels=Identity%2C+identity-engineer-support&projects=&template=1dentity-engineer-support.md&title=) instead.
+    This is a GitHub issue template for users and teams who need product support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For engineering support, use our [engineer issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joeniquette&labels=Identity%2C+identity-engineer-support&projects=&template=1dentity-engineer-support.md&title=) instead.
 
-      ### **To properly assist with your issue, please complete the following:**
+    ### **To properly assist with your issue, please complete the following:**
 
-      - [ ] **Complete this issue template**
-      - [ ] **Provide your name and email address**
-      - [ ] **Provide your team’s name**
-      - [ ] **Select issue type (for “other” stop here and provide details)**
-        - **Sign-In-Service Integration**
-        - **Data Request**
-        - **Other**
-      - [ ] **Complete tasks for your issue type**
-      - [ ] **Add additional details (optional)**
-      - [ ] **Complete the [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) before closing this ticket**
+    - [ ] **Complete this issue template**
+    - [ ] **Provide your name and email address**
+    - [ ] **Provide your team’s name**
+    - [ ] **Select issue type (for “other” stop here and provide details)**
+      - **Sign-In-Service Integration**
+      - **Data Request**
+      - **Other**
+    - [ ] **Complete tasks for your issue type**
+    - [ ] **Add additional details (optional)**
+    - [ ] **Complete the [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/52low0ey) before closing this ticket**
 - type: input
   attributes:
-    id: name
     label: Name
     description: Provide your name
 - type: input
   attributes:
-    id: email
     label: Email address
     description: Provide your email address
-    validations:
-      required: true
+  validations:
+    required: true
 - type: input
   attributes:
-    id: team_name
     label: Team’s name
     description: Provide your team’s name
 - type: dropdown
   attributes:
-    id: issue_type
     label: Select issue type (for "other" stop here and provide details)
     options:
       - Sign-in Service Integration
       - Data Request
       - Other
-    validations:
-      required: true
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Additional details
     description: Provide additional details about your issue
-    id: details
-    validations:
-      required: true
+  validations:
+    required: true
 - type: markdown
   attributes:
     value: |
@@ -64,7 +58,6 @@ body:
 - type: textarea
   attributes:
     label: Provide additional details below
-    id: data_request
     placeholder: |
       - What data do you need pulled? Please don’t include any Personal Identifying Information (PII)
       - Is this sensitive data that requires special permissions?
@@ -85,7 +78,6 @@ body:
       ### **Onboarding Questionnaire**
 - type: dropdown
   attributes:
-    id: sis_onboarding_1
     description: |
       - If end users interact with your application, you will most likely need to [configure your integration as a client application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/client_config.md).
       - If end users don’t interact with your application, your integration will likely need to be [configured as a service account]() [configured as a service account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/service_account.md).
@@ -96,26 +88,23 @@ body:
       - Interact with both
 - type: dropdown
   attributes:
-    id: sis_onboarding_2
     description: |
       Read more about the [Unified Sign-in Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md)
     label: Do you need to use our Unified Sign-in Page (USiP)?
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
 - type: dropdown
   attributes:
-    id: sis_onboarding_3
     description: |
       - If "Yes", your application will need [cookie-based authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/cookie_oauth.md).
       - If "No", your application will need to [authenticate via API](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/api_oauth.md).
     label: If your application is used by end users, is it used in a web browser?
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
 - type: dropdown
   attributes:
-    id: sis_onboarding_4
     description: |
       - If "Frontend" reference the appropriate authentication guide in Step #3 and complete the step for PKCE authentication.
       - If "Backend", reference the authentication guide, but register a public certificate for [private key JWT authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/private_key_jwt.md).
@@ -129,25 +118,20 @@ body:
       ### Client Configuration
 - type: dropdown
   attributes:
-    id: client_config_1
-    description: |
-      Is the application used in a web browser?
-    label: Do you need to use our Unified Sign-in Page (USiP)?
+    label: Is the application used in a web browser?
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
 - type: dropdown
   attributes:
-    id: client_config_2
     description: |
       Read more about the [Unified Sign-in Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md)
     label: Will your application be using our Unified Sign-in Page (USiP)?
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
 - type: textarea
   attributes:
-    id: client_config_3
     label: Briefly describe your application
 - type: markdown
   attributes:
@@ -155,11 +139,9 @@ body:
       ### Service Configuration
 - type: textarea
   attributes:
-    id: client_config_1
     label: Briefly describe your application
 - type: textarea
   attributes:
-    id: client_config_2
     label: Provide additional details to describe your request (optional)
 - type: markdown
   attributes:
