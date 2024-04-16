@@ -228,6 +228,10 @@ Given the short timeline, I propose that we only go through the following collab
 Given the tight timeline, I think we need to make our best guess on design. We can gather *light* usability feedback during UAT, and implement improvements post-launch. We can also do more comprehensive testing and updates post-launch. The only pre-launch issues we should be concerned with are accessibility or security launch blockers.
 
 ## Measuring Success 
+Since this feature already exists, we're simply modifying from two forms to one, the main thing we're going to monitor is for any adverse performance metrics.  
+
+- [Direct deposit for comp & pen Goggle Analytics (GA) dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/naG_-UneTxy50WvvIH0GGQ/a50123418w177519031p176188361/)
+- [Direct deposit for edu GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/qEpkRFroTOSTpgaBDHXK4A/a50123418w177519031p176188361/)
 
 ## Key Deliverables / Artifacts 
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76202)
