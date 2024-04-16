@@ -1,6 +1,6 @@
 # Project outline: VA.gov onboarding (Discovery & Research) 
 
-**Last updated: March 11, 2024 - adding links to research docs**
+**Last updated: April 8, 2024 - adding links to research docs**
 
 ### Communications
 
