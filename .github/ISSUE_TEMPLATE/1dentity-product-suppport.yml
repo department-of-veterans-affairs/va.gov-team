@@ -55,17 +55,19 @@ body:
 - type: markdown
   attributes:
     value: |
-      ### **Data Request**
+      ---
+      ## **Data Request**
 - type: textarea
   id: data_request
   attributes:
     label: Provide additional details below
-    placeholder: |
+    description: |
       - What data do you need pulled? Please don’t include any Personal Identifying Information (PII)
       - Is this sensitive data that requires special permissions?
 - type: markdown
   attributes:
     value: |
+      ---
       ## **Sign-in Service**
 
       We maintain a [Sign-in Service overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) as well as [engineering documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs) in the va-gov-team GitHub repository. To begin onboarding or register a Client or Service Configuration, continue reading.
@@ -96,8 +98,8 @@ body:
       Read more about the [Unified Sign-in Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md)
     label: Do you need to use our Unified Sign-in Page (USiP)?
     options:
-      - "Yes"
-      - "No"
+      - "Yes, I will need integration with the Unified Sign-in Page"
+      - "No, I do not need integration with the Unified Sign-in Page"
 - type: dropdown
   id: sis_onboarding_3
   attributes:
@@ -106,8 +108,8 @@ body:
       - If "No", your application will need to [authenticate via API](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/api_oauth.md).
     label: If your application is used by end users, is it used in a web browser?
     options:
-      - "Yes"
-      - "No"
+      - "Yes, my application uses a web browser"
+      - "No, my application does not use a web browser"
 - type: dropdown
   id: sis_onboarding_4
   attributes:
@@ -121,14 +123,15 @@ body:
 - type: markdown
   attributes:
     value: |
+      ---
       ### Client Configuration
 - type: dropdown
   id: client_config_1
   attributes:
     label: Is the application used in a web browser?
     options:
-      - "Yes"
-      - "No"
+      - "Yes, the application is used in a web browser or mobile app"
+      - "No, the application is not used in a web browser or mobile app"
 - type: dropdown
   id: client_config_2
   attributes:
@@ -136,8 +139,8 @@ body:
       Read more about the [Unified Sign-in Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md)
     label: Will your application be using our Unified Sign-in Page (USiP)?
     options:
-      - "Yes"
-      - "No"
+      - "Yes, I will need integration with the Unified Sign-in Page"
+      - "No, I do not need integration with the Unified Sign-in Page"
 - type: textarea
   id: client_config_3
   attributes:
@@ -145,6 +148,7 @@ body:
 - type: markdown
   attributes:
     value: |
+      ---
       ### Service Configuration
 - type: textarea
   id: service_config_1
