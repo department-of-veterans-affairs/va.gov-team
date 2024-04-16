@@ -6,8 +6,6 @@
 
 ## Interview - 20 minutes 
 
-**Please note the order of design options the moderator showed in**
-
 ### _Task: Order a mask strap for CPAP and glucose testing strips._ You need to order a mask strap for your CPAP and some glucose testing strips. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
 
 **- Observe what they do first:**
