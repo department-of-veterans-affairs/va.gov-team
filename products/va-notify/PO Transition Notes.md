@@ -67,9 +67,19 @@
   - Currently hearing reminders are triggered by VEText.  The Caseflow team has plans to integrate directly with VA Notify to send hearing reminder SMS notifications
   - A preference for this exists in VA.gov
 
+**Notifications Portal**
+* IAM Provisiong
+
+* Dashboard
+
+* Roles
+
+* Push Notification Templates
+
 **Push Notifications**
 * Phase 1
   - VA Notify is passing push notification requests from business lines to VEText.
+  - Templates for push notifications live in VEText's Portal
   - We want to migrate the mobile app push notification channel fully to VA Notify (digital notification delivery) and VA Profile (Veteran profile and notification preference management).
 
 * Phase 2
