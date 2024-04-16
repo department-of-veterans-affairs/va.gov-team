@@ -34,7 +34,7 @@
 |---|---|
 |  |  |
 
-- [ ] Each sentence within body is complete. It starts with a capital letter includes:
+- [ ] Each sentence within the body text is complete. It starts with a capital letter and includes:
   - A subject
   - A verb
   - Ending punctuation
