@@ -35,7 +35,7 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 **1) H1 of page - New**
 - URL: www.va.gov/education/verify-school-enrollment/mgib-benefits/
 - Breadcrumb: TBD by Sitewide Content
-- Notes: Breadcrumb will not change as folks go through the tool flow, but the sub-URL should. Here is our guidance on creating sub-URLs:
+- Notes: Ensure that the breadcrumb matches the H1. Breadcrumb will not change as folks go through the tool flow, but the sub-URL should. Here is our guidance on creating sub-URLs:
 
   >Teams can choose their own sub-urls, or get help from CAIA in choosing them or vetting them.
     Note some standard sub-urls:
