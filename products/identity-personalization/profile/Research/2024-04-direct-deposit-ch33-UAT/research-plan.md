@@ -8,7 +8,7 @@ VBA is migrating many educational benefits from the legacy system to a newer pay
 
 ### OCTO-DE Objectives 
 
-[Objective #1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1): Work collaboratively across the health and benefits portfolios on high-priority FY2024 initiatives.  
+Objective #1: Work collaboratively across the health and benefits portfolios on high-priority FY2024 initiatives.  
 - KR: At least 50% of our initiatives should support the major initiatives in the health and benefits portfolio.
 
 Our team is dedicated to supporting this migration initiative on VA.gov Profile while limiting service disruptions for Veterans and other users who need to view or change their direct deposit information. 
