@@ -2,9 +2,6 @@
 
 ## Quick Links
 - [Team Members](#team-members)
-- [Contacts](#contacts)
-    - [CAIA Key Contacts Supporting Check In](#caia-key-contacts-supporting-check-in)
-    - [OCTO Health Tools Shared Support SMEs](#octo-health-tools-shared-support-smes)
 - [Terminology](#terminology)
 - [Product](#product)
     - [Product Documentation](#product-documentation)
@@ -21,6 +18,9 @@
     - [Translations](#translations)
     - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 - [Engineering](#engineering)
+- [Contacts](#contacts)
+    - [CAIA Key Contacts Supporting Check In](#caia-key-contacts-supporting-check-in)
+    - [OCTO Health Tools Shared Support SMEs](#octo-health-tools-shared-support-smes)
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
@@ -44,16 +44,6 @@
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
 - DevOps Engineers
   - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
-
-## Contacts
-
-#### CAIA Key Contacts Supporting Check In 
-- [Laura Willwerth](https://dsva.slack.com/team/U03CHM52JBF) - Content
-- [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - A11y
-
-#### OCTO Health Tools Shared Support SMEs
-- [Dan Bivens](https://dsva.slack.com/team/U06J1AMSMC5) - A11y
-- [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Terminology
 - **Pre-Registration:** The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  
@@ -151,6 +141,16 @@
 - [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 - [Error Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/error-types.md)
 - [AWS Key Rotation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/rotating-iam-keys.md)
+
+## Contacts
+
+#### CAIA Key Contacts Supporting Check In 
+- [Laura Willwerth](https://dsva.slack.com/team/U03CHM52JBF) - Content
+- [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - A11y
+
+#### OCTO Health Tools Shared Support SMEs
+- [Dan Bivens](https://dsva.slack.com/team/U06J1AMSMC5) - A11y
+- [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Resources Developed outside the CIE Team
 - [PCI - Enterprise Implementation Team](https://teams.microsoft.com/l/team/19%3awwjxmJilnNQkrSuL1_UDJccHQcMIPF2OnFC73KpNN9s1%40thread.tacv2/conversations?groupId=7b702e1f-7c29-419b-8215-35b0346ca2b5&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
