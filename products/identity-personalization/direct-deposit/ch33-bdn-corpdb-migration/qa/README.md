@@ -12,7 +12,7 @@
 | [PM Ticket for Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77249)|  |
 | [QA Testing Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76720) |  |
 | [QA Scenarios](https://docs.google.com/spreadsheets/d/1rOD8w0YNTlfbefVK7t2RsWoYK_ui1gTkVhCXlJE5VDg/edit#gid=0) | |
-|accessible qa test page |  |
+|[accessible qa test page](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/direct_deposit/ch33-bdn-corpdb-migration/qa/direct-deposit-ch33-test-accounts.md) |  |
 
 
 ## QA Plan 
