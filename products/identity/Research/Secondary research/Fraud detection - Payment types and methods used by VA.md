@@ -301,47 +301,29 @@ Case Details:
 The handling of VA life insurance policies and dividends can be subject to fraud. Fraudulent activities may include misrepresenting eligibility, falsifying information, or attempting to receive excess benefits. It’s crucial for the VA to closely monitor and verify transactions to prevent any fraudulent actions and ensure the security of veterans’ financial interests.
 
 
-### Dividends:
-Not all VA life insurance policies pay dividends.
+### Dividends
 
+Not all VA life insurance policies pay dividends.
 
 In 2024, the following policies pay dividends:
 
-
 - National Service Life Insurance (NSLI) (policies beginning with V) Veterans’ Reopened Insurance (policies beginning with J and JR)
 
+   - Option 1: Pay Annual Policy Premium:
 
-   - Option 1: Pay Your Annual Policy Premium:
+       - If the dividend is less than your annual premium, they’ll receive a bill for the difference.
 
-
-       - If your dividend is less than your annual premium, you’ll receive a bill for the difference.
-
-
-   - Option 2: If your dividend is more than your policy’s annual premium, choose from these options:
-
+   - Option 2: If the dividend is more than your policy’s annual premium, they must choose from these options:
 
        - Request cash payment.
-
-
        - Buy paid-up additional insurance.
 
+- Option: Repay a policy loan or lien.
 
-- Option 5: Repay a policy loan or lien.
+- Option: Pay Premiums in Advance: Use dividends to pay premiums far in advance.
+   - Note: This option is not available if premiums are paid via specific methods (e.g., retirement pay allotment, VA compensation deduction).
 
-
-- Option 6: Pay Premiums in Advance:
-
-
-Use dividends to pay premiums far in advance.
-
-
-Note: This option is not available if premiums are paid via specific methods (e.g., retirement pay allotment, VA compensation deduction).
-
-
-- Option 7: Receive Dividends in Cash:
-On your policy anniversary date, receive dividends via:
-
-
+- Option: Receive Dividends in Cash: On a policy anniversary date, a veteran will receive dividends via:
    - Direct deposit into your bank account.
    - U.S. Treasury check (limited situations) (Note: Area for research?).
 
@@ -349,9 +331,7 @@ On your policy anniversary date, receive dividends via:
 ### Life Insurance Benefits
 
 
-VA administers each of the six life insurance programs (the first four programs below cover Veterans who served during World Wars I and II and the Korean Conflict eras, and are now
-closed to new issues):
-
+VA administers each of the six life insurance programs (the first four programs below cover Veterans who served during World Wars I and II and the Korean Conflict eras, and are now closed to new issues):
 
 1. United States Government Life Insurance (USGLI)
 2. National Service Life Insurance (NSLI)
@@ -360,17 +340,11 @@ closed to new issues):
 5. Service-Disabled Veterans Insurance (S-DVI) provides insurance to Veterans who
 receive a service-connected disability rating
 6. Veterans’ Mortgage Life Insurance (VMLI) covers severely disabled Veterans and is part of the Veterans’ Insurance and Indemnities fund.
-(oversight.gov)
 
 
 ## Claims Processing Business Transformation (CPBT)
 
-
-**Claims Processing Business Transformation (CPBT)**
-
-
 CPBT is a service that streamlines claims processing for veterans. It aims to improve efficiency and accuracy in handling claims related to benefits, compensation, and other services.
-
 
 Payment methods used by CPBT include direct deposits, checks, and electronic fund transfers. (Note: Needs confirmation- Check use was reported to be discontinued in 2023)
 
@@ -383,32 +357,28 @@ It serves as a single source of truth for IVC and other VHA entities that genera
 CDR ensures accurate, normalized data and provides tools for staff.
 Monitoring CDR helps prevent fraudulent activities related to data manipulation or unauthorized access.
 
-
 Planned Enhancements:
 The VA plans to consolidate duplicative Application Programming Interfaces (API) connections.
 Proper funding is essential for timely and accurate analytics in support of Community Care providers’ claims and payments.
 Lack of funding could adversely affect system performance and storage costs, potentially leading to vulnerabilities that fraudsters might exploit.
 
-
 CAPRI Sustainment-Enhancement:
 CAPRI is critical for processing Veteran and service member claims for disabilities.
 Enhancements are needed to ensure quality service for all locations.
 As CAPRI migrates to the EHRM platform, updates are necessary for legacy users.
+
 CLAIMS Sustainment-Modernization:
 CLAIMS ensures reliability, stability, and modernization of legacy systems.
 Security, authorization, and authentication for users across VA Medical Centers and medical records are essential.
-
 
 VistA-CAPRI (AMIE):
 AMIE enhancements cover new requirements, approved business needs, and legislative changes.
 VHA clinicians rely on AMIE to provide VBA with medical evidence for Veteran disability claims.
 
-
 Legacy Claims Processing (VETSNET):
 Modernization efforts aim to reduce duplicative capabilities and streamline claim processing.
 Limiting the number of systems improves efficiency and decreases processing time.
 (VA.gov)
-
 
 Question asked in Slack (March 25, 2024):
 **VEText is used for confirming appointments, right? Could it be used with the claim process?**
@@ -487,7 +457,6 @@ Part IV of the Treasury Financial Manual for Guidance of Departments and Agencie
 Title 7 of the GAO Policy and Procedures Manual for Guidance of Federal Agencies.
 Agency-specific implementing regulations.
 
-
 Responsibilities:
 Designated cashiers and alternates handle imprest funds.
 The Manual of Procedures and Instructions for Cashiers, issued by the Financial Management Service (Department of the Treasury), provides guidance.
@@ -536,6 +505,7 @@ If collections have already started and a waiver is requested later and approved
 ### Overpayments and Receivables:
 
 Overpayments to veterans or beneficiaries are a significant cause of compensation, pension, and education receivables.
+
 While VA is authorized to charge interest and administrative costs on benefit debts, the current practice does not include charging interest on compensation, pension debts, and certain education benefits based on a decision made in July 1992 by the then VA Deputy Secretary.
 
 Advances and Prepayments:
@@ -549,6 +519,7 @@ When VA accepts title to goods (whether delivered or in transit) or incurs costs
 If invoices for these goods and services are unavailable during financial statement preparation, estimated amounts owed are recorded.
 Accounts payable primarily include payables to veterans for scheduled payments related to compensation, pension, and education benefits.
 Variations in accounts payable can occur annually based on the timing of compensation and pension benefit payments.
+
 Intragovernmental Accounts Payable:
 Intragovernmental accounts payable involve amounts owed to other Federal Government agencies.
 These agencies include the Department of Labor (DOL), Office of Personnel Management (OPM), and Department of Justice (DOJ).
@@ -559,9 +530,11 @@ Debt Management Center - Overpayments
 Quality Reviews and Overpayments:
 VBA conducts quality reviews to identify possible duplicates and overpayments.
 Monthly and quarterly payment reviews are also used for this purpose.
+
 The Debt Management Center (DMC) tracks, monitors, and recovers most eligible overpayments.
 DMC collects debts through lump-sum offset from current or future benefit payments or by installment payments agreed upon with the debtor.
 If DMC cannot collect the debt, it is referred to the Treasury Offset Program (TOP) for further collection.
+
 Local Offices and Debt Establishment:
 VBA local offices handle debts not currently managed by DMC.
 For monetary loss cases, VBA assesses collectability and establishes a debt in the core financial management system.
@@ -654,7 +627,6 @@ Note that VA considers 1/16 through 1/30 (or 1/31) as 15 days, and 2/16 through 
 Additional Kicker:
 Some Chapter 30, 33, and 1606 students may receive an additional kicker along with standard benefits.
 
-
 Education Claim Processing & Communication
 PACT Act funding will be used to set up a Test Environment for DGIB and eMPWR-VA integration testing, Improve Education Claim Processing Automation, and Migrate Education Legacy Systems data to Managed Service Platform. Funding will enhance eligibility verification, and communication from VA in a timely manner and will support increase in claim processing.
 
@@ -707,6 +679,239 @@ Consider mitigating circumstances.
 [VA eBenefits](knowva.ebenefits.va.gov/)
 
 
+
+
+## Advance Payments
+
+An advance payment provides students with benefit payments at the beginning of a school term.
+Helps students meet expenses concentrated at the start of the term.
+Pays the student’s monthly benefit for the first and second month of the quarter or semester in advance.
+The first month covers from the start date through the end of the month.
+
+Participation and Certification:
+Schools must certify their ability to carry out the provisions of advance payment.
+Schools handle advance paychecks securely.
+Participation in advance payment is voluntary for schools.
+Eligibility for Advance Payment:
+
+A school can participate in advance payment if:
+The student requests advance pay.
+There are more than 30 days between terms.
+The student is enrolled at least half-time.
+VA receives the advance payment request 30 to 120 days before the enrollment period.
+
+Student Request Process:
+Students complete a form to request advance pay.
+The form is stapled to the file copy of the Cert.
+The Cert is annotated as “Advance Payment Requested and Signature of Student on Record.”
+
+
+## Advance Payments: Key Points
+Submission Timeline:
+Advance pay requests should be submitted 30 to 120 days before the begin date of the enrollment period.
+
+Payment Process:
+The check for advance payment will be sent directly to the school, payable to the student.
+The payment covers the first and second month of the quarter or semester in advance.
+The first month may be a partial month, prorated for the number of days attended.
+
+Example:
+For a student certified from September 20, 2010 through June 10, 2011:
+Advance pay would cover September 20, 2010 through October 30, 2010.
+Subsequent checks would follow the regular payment schedule (e.g., payment for November in December).
+
+Certification of Delivery:
+When an advance paycheck is issued, the next check won’t issue unless the Certification of Delivery (or the chapter 1606 generated letter with the same information) mailed to the school is received and processed by VA.
+If you receive a letter stating that a returned Certification of Delivery wasn’t received:
+Call VA (1-888-442-4551) and explain the issue to the Education Case Manager.
+Request the Education Case Manager to input the certification of delivery.
+
+
+
+
+
+
+### Scholarship Fraud Awareness and Prevention
+
+Annual Report on Scholarship Fraud:
+The Attorney General and the Secretary of Education, in conjunction with the Federal Trade Commission, submit an annual report to Congress.
+The report assesses the nature and quantity of incidents of fraud related to financial assistance for education at institutions of higher education.
+
+National Awareness Activities:
+The Secretary of Education, along with the Federal Trade Commission, maintains a scholarship fraud awareness site on the Department of Education’s website.
+
+The site includes:
+Materials from the Project Scholarscam awareness campaign.
+A list of convicted companies and individuals involved in scholarship fraud.
+An Internet-based message board for public complaints and experiences.
+An electronic comment form for reporting scholarship fraud.
+Internet links to other sources of information on scholarship fraud, including nongovernmental organizations, colleges, universities, and government agencies.
+A link to the Better Business Bureau for assessing business practices.
+Information on communicating with the Federal Student Aid Information Center.
+Promoting awareness and vigilance against scholarship fraud helps protect students and maintain the integrity of educational financial assistance programs
+
+
+#### Fraud Report Findings 
+
+Congress recognizes the prevalence of fraud due to misrepresentation in the realm of college education financial assistance services. (Note: Potential research topic)
+
+Misrepresentations about Sources:
+Providing false information about sources from which consumers can obtain financial assistance (e.g., scholarships, grants, loans).
+
+Tailored Portfolios Misrepresentation:
+Misleading consumers regarding the provision of customized portfolios of assistance to meet their specific needs.
+
+Pre-Selection Misrepresentation:
+Falsely claiming that students have been pre-selected as eligible for financial assistance.
+
+Conditional Assistance Misrepresentation:
+Promising assistance to consumers who purchase specific services from designated entities.
+
+Business Relationship Misrepresentation:
+Providing misleading information about business relationships between entities that award or may award financial assistance.
+
+Refund Misrepresentation:
+- Misrepresenting refund policies, especially related to processing fees.
+
+Despite efforts by organizations and law enforcement, scholarship fraud remains a significant issue due to a lack of awareness among consumers. (Note: Potential research topic on quantifying the # of knowledgeable consumers before and after updated awareness campaigns)
+
+
+### Optional Practical Training (OPT) Training Plan for STEM OPT Students
+
+Form I–983 or Successor Form:
+A student must fully complete an individualized Form I–983 or its successor form.
+Requisite signatures from an appropriate individual in the employer’s organization are necessary, consistent with form instructions.
+The form is essential before the Designated School Official (DSO) can recommend a 24-month OPT extension under specific conditions in SEVIS.
+The student must submit the completed form, including a certification of adherence to the training plan, to their DSO.
+The signed form must also be presented to a DSO at the educational institution of the student’s most recent enrollment.
+Additionally, while in F–1 student status, the student may need to submit the form to ICE and/or USCIS upon request or as per form instructions.
+
+Training Plan Goals:
+The training plan outlined in the Form I–983 or successor form must:
+Identify goals for the STEM practical training opportunity.
+Specify knowledge, skills, or techniques that will be imparted to the student.
+Explain how these goals will be achieved through the work-based learning opportunity with the employer.
+Describe a performance evaluation process.
+Detail methods of oversight and supervision.
+Employers can use existing training programs or policies to meet performance evaluation and oversight requirements.
+
+Direct Relation to STEM Degree:
+The training plan must clearly explain how the training is directly related to the student’s qualifying STEM degree.
+
+
+### Edith Nourse Rogers STEM Scholarship
+
+The Edith Nourse Rogers STEM Scholarship is a valuable provision of the Harry W. Colmery Veterans Educational Assistance Act (Forever GI Bill). It offers additional benefits to students training in the high-demand fields of Science, Technology, Engineering, and Math (STEM). Given that obtaining a degree in these areas often requires more extensive training, this scholarship aims to bridge that gap and incentivize students pursuing critical careers.
+
+Benefits:
+The scholarship provides up to nine months of additional Post-9/11 GI Bill benefits, with a maximum value of $30,000.
+It is available to qualifying Veterans and Fry Scholars seeking an undergraduate STEM degree or those who have already earned a STEM degree and are pursuing a teaching certification.
+
+Expanded Eligibility:
+As of January 5, 2021, section 1001 of Public Law 116-315 expanded eligibility for the Edith Nourse STEM Scholarship.
+Now, scholarships are also available to those enrolled in dual-secondary degrees and health care professionals completing clinical training for state or locality licensure.
+
+Eligibility Criteria:
+To qualify for the Rogers STEM Scholarship, a student must meet one of the following conditions:
+Be enrolled in an undergraduate STEM degree program or a qualifying dual-degree program requiring at least 120 semester credit hours (or 180 quarter credit hours) for completion.
+Hold a Bachelor’s degree in a STEM field and be accepted or enrolled in a Teaching Certification program.
+Hold a Bachelor’s or graduate degree in a STEM field and be enrolled in a covered clinical training program.
+Additionally, the student must have completed at least 60 semester hours (or 90 quarter credit hours) toward the STEM degree.
+Furthermore, they must have exhausted or will exhaust their Post-9/11 GI Bill entitlement within six months based on their current enrollment.
+Students must be enrolled in or have earned a degree in one of the following areas on the STEM Designated Degree Program list.
+
+
+### Marine Gunnery Sergeant John David Fry Scholarship
+
+The Fry Scholarship offers Post-9/11 GI Bill benefits to eligible beneficiaries, including children and surviving spouses of Service members who died after September 10, 2001. Here are the key points:
+
+Eligibility Criteria:
+Children and surviving spouses qualify if the Service member:
+Died while serving on duty other than active duty as a member of the Armed Forces.
+Suffered a service-connected disability while a member of the Selected Reserve.
+
+Benefit Duration:
+Eligible beneficiaries attending school can receive up to 36 months of benefits at the 100% level.
+The Fry Scholarship covers full tuition and fees directly for in-state students at public schools.
+For private or foreign schools, tuition and fees are capped at a statutory maximum per academic year.
+Additional benefits include a monthly housing allowance and a books and supplies stipend.
+
+Surviving Children:
+Eligible children can begin an approved program of education before the age of 18.
+Marital status does not affect eligibility.
+If the qualifying parent’s death occurred before January 1, 2013, the child’s eligibility ends on their 33rd birthday.
+If the qualifying parent’s death occurred on or after January 1, 2013, the child’s eligibility never expires.
+
+Surviving Spouses:
+There is no specific timeline for using the benefit.
+However, a spouse will lose eligibility upon remarriage.
+
+Recent Expansion:
+Effective August 1, 2021, children or spouses of members of the Selected Reserves are also eligible under the Fry Scholarship.
+
+SCOs should identify Fry students as chapter 33 and use their social security number as their file number. Certify Fry students as any other chapter 33 student. Students who are not eligible will be sent a disallowance letter that explains the reason for their disallowance and will explain the appeal process.
+
+
+
+
+### GI Bill Chapter 30 (MGIB-AD) Eligibility and Benefits
+
+Eligibility Categories:
+- Chapter 30 benefits generally apply to Veterans who began active duty service after June 30, 1985.
+
+Eligibility criteria include:
+- Pay reduction of $100 a month for 12 months during active duty.
+- Honorable discharge.
+
+Exclusions:
+- Veterans with a General Under Honorable Conditions discharge or any other discharge other than Honorable are excluded.
+- Officers commissioned after December 31, 1976, through military academies or ROTC scholarship programs (payments exceeding $3,400/year) are also excluded.
+
+Additional Eligibility:
+- Individuals released from active duty with an Honorable discharge by reason of Convenience of the Government (COG) are eligible.
+- Eligible individuals receive 36 months of MGIB-AD at the appropriate rate.
+
+Payment:
+- Chapter 30 benefits are paid monthly directly to the Veteran.
+- Post-9/11 GI Bill and Yellow Ribbon Program
+
+Effective August 1, 2009:
+- The Post-9/11 GI Bill pays the highest public in-state undergraduate tuition and fees.
+- Veterans attending private institutions, graduate schools, or out-of-state schools may have tuition and fees that exceed this amount.
+- If enrolled at a Yellow Ribbon participating institution, additional funds may be available without an additional charge to their entitlement.
+
+Effective August 1, 2011:
+
+U.S. Public Schools:
+- The actual net cost for in-state tuition and fees after applying waivers, scholarships, aid, or assistance (except specific funds) directly to the institution.
+
+U.S. Private Schools:
+- The lesser of the actual net cost or the annual maximum for the academic year.
+- The Yellow Ribbon Program may provide additional funds if tuition and fees exceed the amount payable by VA.
+- The Yellow Ribbon Program will include active-duty Service members and their spouses using transferred entitlement.
+
+Yellow Ribbon Agreement:
+- Institutions voluntarily entering into a Yellow Ribbon Agreement choose the amount of tuition and fees.
+- VA matches that amount and issues payment directly to the institution.
+- These amounts are considered maximums that the school will contribute.
+
+Matching Contribution:
+- Regardless of the agreement, the VA will match a school’s contribution up to 50% of the uncovered tuition and fees.
+- If a school submits an amount exceeding 50% of the uncovered tuition and fees, the VA will pay 50% of the uncovered costs under the Yellow Ribbon Program.
+
+
+Eligibility and Contributions
+
+The Institution of Higher Learning (IHL) must:
+- Provide contributions to eligible individuals on a first-come, first-served basis.
+- Offer contributions during the current academic year and subsequent years.
+- Make contributions in the form of a grant, scholarship, etc.
+- Specify the dollar amount contributed per individual for the academic year.
+- State the maximum number of individuals eligible for contributions in any given academic year.
+
+Funds Usage:
+- Funds used by the institution for the YRP must be available for unrestricted use.
+- Restricted funds from third parties or internal institution funds cannot be part of the institution’s contribution for the YRP.
 
 
 
