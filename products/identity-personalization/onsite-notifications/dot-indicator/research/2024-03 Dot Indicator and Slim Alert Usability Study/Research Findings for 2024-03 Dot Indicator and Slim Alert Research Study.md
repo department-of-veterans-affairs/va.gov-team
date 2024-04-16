@@ -312,7 +312,6 @@ This research does not include the perspectives of the following marginalized Ve
 * Cognitive disability (0 participants recruited)
 * Other than honorable
 
-Participant accessibility assessment (including callout of participants who were no shows and cancellations)
-
-<img width="912" alt="2024-04 dot a11y assessment 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/f2459408-9c5d-4a98-bf9a-26e7fc753590">
+**Participant accessibility assessment (including callout of participants who were no shows and cancellations):**
+<img width="914" alt="2024-04 dot a11y assessment 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/7894f4bd-74ca-424d-ae76-eaf72ceee824">
 <img width="913" alt="2024-04 dot a11y assessment 2" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/42a201aa-33be-4791-b1ef-927575657bbe">
