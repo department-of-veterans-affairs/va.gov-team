@@ -216,7 +216,7 @@ Let's go ahead and click `Ask a new question.`
 Okay, so I mentioned earlier that we’re pretending like you need to ask the VA if you're eligible for Post-9/11 GI Bill benefits. With that in mind…
 
 - Can you show me what you would do first on this page?
-- [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
+- `If they choose incorrectly` It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
 - Before we continue, how long do you think it's going to take for you to ask the VA a question?
 
 Okay great. Let’s choose `Education benefits and work study` and then go to the next page.
@@ -246,7 +246,7 @@ I'll give you a few minutes to read this.
 - Why is it telling you to sign in?
 - What would you do in this scenario?
 
-Let's go ahead and click 'Sign in or create an account'.
+Let's go ahead and click `Sign in`.
 
 > Screen: Sign in
 
