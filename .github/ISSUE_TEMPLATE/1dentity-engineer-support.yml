@@ -1,0 +1,122 @@
+name: Identity Engineer Support
+description: For requesting support from the engineering team
+labels: Identity, identity-engineer-support
+assignees: joeniquette
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Identity Engineer Support Request
+
+      This is a GitHub issue template for users and teams who need engineering support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For product support from the Identity team use [this product support template instead](Team has access to #vsp-identity Slack channel)
+
+      ### To properly assist with your issue, please complete the following:
+
+      - [ ] Complete this issue template
+      - [ ] Provide your name and email address
+      - [ ] Provide your team’s name
+      - [ ] Select issue type (for “Other” stop here and provide details)
+        - [ ] [Authentication Help](auth-help)
+        - [ ] [Pull Request Review](pr)
+        - Data Request
+        - Other
+      - [ ] Complete tasks for your issue type
+      - [ ] Add additional details (optional)
+      - [ ] Please complete our [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/bcc55b13b90a19878b71c28bb3eb359c) before closing this ticket (optional)
+      
+      <details>
+        <summary>
+          <h2 id="auth-help">Authentication help request</h2>
+        </summary>
+        For authentication help requests complete the quick troubleshooting steps and review <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md">troubleshooting documentation</a>.
+
+        <h3>Quick troubleshooting steps</h3>
+        <ul>
+          <li>Have you tried clearing your browser cache?</li>
+          <li>Have you tried clearing your browser cookies?</li>
+          <li>Have you tried signing in incognito?</li>
+        <ul>
+
+        If the quick troubleshooting steps and the troubleshooting documentation does not resolve your issue provide the following information in the additional details section.
+        <ol>
+          <li>
+            Which Environment did you use to sign in? (Localhost, development, staging, review instances, production)
+          </li>
+          <li>
+            Which user email did you use to sign in?
+          </li>
+          <li>
+            Which Credential Service Provider (CSP) did you use? (Login.gov, ID.me, DS Logon, or My HeatheVet)
+          </li>
+          <li>Can you provide a screenshot of the error page? Include the screenshot of the DevTools console. (optional)</li>
+          <li>Include and error codes you see. (optional)</li>
+          <li>Include any relevant timestamps you see. (optional)</li>
+          <li>Include the failed request ID if you have access to it. (optional)</li>
+          <li>Which browser(s) did you try to sign in with?</li>
+        </ol>
+      </details>
+
+      <details>
+        <summary>
+          <h2 id="data">Data request</h2>
+        </summary>
+        For data requests provide the following additional details. As a reminder please don’t include any Personal Identifying Information (PII) or Protected Health Information (PHI). 
+        <ul>
+          <li>What data do you need pulled? Please don’t include any Personal Identifying Information (PII)</li>
+          <li>Is this sensitive data that requires special permissions?</li>
+        </ul>
+      </details>
+      <details>
+        <summary>
+          <h2 id="pr">Pull Request review</h2>
+        </summary>
+        For Pull Request reviews provide the following additional details:
+        <ul>
+          <li>Please provide a URL to link to your PR</li>
+          <li>Have you tested your changes?</li>
+        </ul>
+      </details>
+      <details>
+        <summary>
+          Other
+        </summary>
+        For "Other" provide as much additional details as possible. As a reminder please don’t include any Personal Identifying Information (PII) or Protected Health Information (PHI).
+      </details>
+- type: input
+  id: name
+  attributes:
+    label: Provide your name
+- type: input
+  id: email
+  attributes:
+    label: Provide your email address
+  validations:
+    required: true
+- type: input
+  id: team_name
+  attributes:
+    label: Provide your team’s name
+- type: dropdown
+  id: issue_type
+  attributes:
+    label: Select issue type (for "Other" stop here and provide details)
+    options:
+      - Authentication help request
+      - Pull Request review
+      - Data request
+      - Other
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Provide additional details
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      ## **Additional information**
+
+      - The identity team maintains [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support) for both frontend and backend engineers.
+      - You may reach out to an identity team member on the ```#vsp-identity``` [slack channel](https://dsva.slack.com/archives/CSFV4QTKN) on the Office of the CTO @ va slack workspace.
+      - Please review the ```#vsp-identity``` slack channel [canvas] to reference information about the identity team.
