@@ -3,6 +3,17 @@
 **Last updated 4/16/2024** -- updated timeline
 ## Table of Contents 
 - [Communications](#communications)
+- [Roles](#roles)
+- [Overview](#overview)
+- [Teams and responsibilities](#teams-and-responsibilities)
+- [Outstanding questions](#outstanding-questions)
+- [Comms schedule](#comms-schedule)
+- [Assumptions and risks](#assumptions-and-risks)
+- [Timeline](#timeline)
+- [Measuring Success](#measuring-success)
+- [Key Deliverables / Artifacts](#key-deliverables--artifacts)
+- [Design Links](#design-links)
+- [Key Dates](#key-dates)
 
 
 ## Communications 
