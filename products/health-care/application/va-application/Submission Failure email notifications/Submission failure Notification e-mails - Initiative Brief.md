@@ -94,7 +94,7 @@ Data sources
    
 ## Screenshots
 ### Before - using GovDelivery
-[- Screenshot of email](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0FyQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6beac59b71f6abd850c42092d2c1d36e2372a5e0/Screenshot%202024-04-02%20at%2010.22.04%20AM.png)
+- [Screenshot of email](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0FyQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6beac59b71f6abd850c42092d2c1d36e2372a5e0/Screenshot%202024-04-02%20at%2010.22.04%20AM.png)
 
 ### After - Using VA Notify
 - Template
