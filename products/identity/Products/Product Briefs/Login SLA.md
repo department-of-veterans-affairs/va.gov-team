@@ -23,11 +23,13 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## What's In Scope: 
 * Service Level Objectives
-  * How we will display the SLO dashboards to other teams
-  * How we will display the SLO dashboards to Veterans.
+  * Determining what data to display on SLO dashboards for Veterans.
+  * Determining what data to display on the SLO dashboards for VA.gov teams.
 * Service Level Agreements
-  * How we will publish the agreements to other teams.
-  * How we will publish the agreements to Veterans.
+  * Creating the SLA for Veterans.
+  * Creating the SLA for VA.gov teams
+  * Determining how to publish the agreements to Veterans.
+  * Determining how to publish the agreements to VA.gov teams
 
 
 
