@@ -1,4 +1,4 @@
-# External Data Reporting (Draft)
+# External Auth Data Reporting (Draft)
 
 ## Overview: 
 There are basically two goals of this project:
