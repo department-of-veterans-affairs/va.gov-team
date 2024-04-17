@@ -9,7 +9,6 @@ There are basically two goals of this project:
 ## Problem Statement: 
 The data produced by the Identity Team is often not instantly understandable and can be misinterpreted or misrepresented.  We need to find out what kind of data VA Leadership finds useful, and create a way for them to access that data on a regular basis.
 
-
 ## Relevant Documents: 
 [Current VA.Gov Identity Stats Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1710610618968&to_ts=1713202618968&live=true)
 
