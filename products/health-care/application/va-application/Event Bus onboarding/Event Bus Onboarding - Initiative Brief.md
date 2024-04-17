@@ -6,6 +6,7 @@
 
 **Related/Associated product(s)**
 - 10-10EZ Veteran health care application | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- [10-10EZ Event Bus Onboarding - EPIC](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
 
 ## Problem
 * Veterans do not currently have a way to see the status of their health care application as it goes through the processing steps within VA
