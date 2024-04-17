@@ -161,8 +161,6 @@ Most participants indicated the wish to know more information before they had fi
 
 ### **6. The majority of participants indicated they were interested in being informed of VA news, events, alerts, and info about related Veterans organizations (8 of 15 participants). This is a possible opportunity area for personalized content.**
 
-Labels: *none apply currently, need to create new ones*
-
 Eight of the fifteen participants expressed interest in being updated about general VA news, alerts, and info about more specific news and Veterans organizations that may be relevant to them personally. 
 
 > "Is there a way you could put a, I would say a bulletin board or information board...Is there a way you could pull it like a, when you're going to the site, some kind of bulletin dictate what happened, what coming up?" (P12)
