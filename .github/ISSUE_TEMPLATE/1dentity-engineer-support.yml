@@ -18,8 +18,8 @@ body:
       - [ ] Select issue type (for “Other” stop here and provide details)
         - [ ] [Authentication Help](auth-help)
         - [ ] [Pull Request Review](pr)
-        - Data Request
-        - Other
+        - [ ] [Data Request](data)
+        - [ ] [Other](other)
       - [ ] Complete tasks for your issue type
       - [ ] Add additional details (optional)
       - [ ] Please complete our [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/bcc55b13b90a19878b71c28bb3eb359c) before closing this ticket (optional)
@@ -78,7 +78,7 @@ body:
       </details>
       <details>
         <summary>
-          Other
+          <h2 id="other">Other</h2>
         </summary>
         For "Other" provide as much additional details as possible. As a reminder please don’t include any Personal Identifying Information (PII) or Protected Health Information (PHI).
       </details>
