@@ -3,7 +3,9 @@
 
 ## General grammar, style, and punctuation
 
+- [ ] Determine in which format you'll provide the text for translation, and in which format you'd like it to be returned (Word, PDF, XML.) 
 - [ ] Text is free of spelling, punctuation, and grammatical errors.
+- [ ] Tone of the writing is conversational.
 - [ ] Text is written in sentence casing.
 
 | Like this | Not like this |
