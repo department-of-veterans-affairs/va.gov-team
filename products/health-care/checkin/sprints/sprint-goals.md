@@ -106,7 +106,7 @@ ________________________________________________________________________________
         - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)    
 - **GOAL: Make Travel Claims Easier** 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Conduct Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
+        - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - 🟥 [Travel: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
         - 🟥 [Travel: Create Final Wireframes for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
