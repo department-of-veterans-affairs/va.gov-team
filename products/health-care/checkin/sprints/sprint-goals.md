@@ -39,24 +39,32 @@ ________________________________________________________________________________
         - TBD
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - TBD 
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
-        - TBD 
-    - **Sub Goal: Discovery - Check Travel Eligibility**
-        - TBD 
+        - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
+        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281) 
+    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
+        - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
         - 🟩 [[FE] Add Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64635)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - 🟩 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80942)
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - TBD
+        - 🟩 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80942)
+        - 🟩 [Integrate with the New CES Modality Service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - TBD
+        - 🟦 [[BE] Remove 'check_in_experience_travel_claim_redis_client_refactor' feature flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80792)
+        - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
+        - 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
+        - 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
+        - 🟩 [[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
+        - 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
+        - 🟩 [[FE] - Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
+        - 🟩 [[FE] Details Page: Show Information for a Cancelled Appointment ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
+        - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
+            - Is it too soon to do this?
 - **GOAL: Improve Metrics**
     - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
         - TBD
