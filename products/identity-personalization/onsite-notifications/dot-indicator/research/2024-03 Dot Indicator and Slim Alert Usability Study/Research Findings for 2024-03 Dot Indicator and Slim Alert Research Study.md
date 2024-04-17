@@ -63,7 +63,7 @@ As part of research, some questions varied from test to test due to accessibilit
 
 ## Methodology 
 
-Moderated remote user testing was performed using Zoom, with recruitment of participants through Perigean Technologies. Testing took place March 11th, 2024 through April 1st. Fifteen Veterans participated in the study.
+Moderated remote user testing was performed using Zoom, with recruitment of participants through Perigean Technologies. Testing took place March 11th, 2024 through April 1st. Fifteen Veterans participated in the study. The sessions consisted of a series of questions about VA related experiences, as well as guided run throughs of three different prototypes of My VA created in CodePen. 
 
 ## Hypotheses and Conclusions
 
