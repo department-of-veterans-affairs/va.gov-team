@@ -54,7 +54,6 @@ Product Managers are responsible for keeping these directories up-to-date and we
 - Trevor Bosaw - Backend Lead
 - John Bramley - Backend Engineer
 - Richard Davis - Backend Engineer
-- Daniel da Silva - Backend Engineer
 - Riley Anderson - Backend Engineer
 
 #### Frontend
