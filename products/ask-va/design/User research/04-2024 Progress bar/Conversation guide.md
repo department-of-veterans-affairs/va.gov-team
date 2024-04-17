@@ -143,16 +143,18 @@ Let's say you'd like to learn whether you're eligible for Post-9/11 GI Bill bene
 
 - Are you familiar with the GI Bill?
 
-Okay, great. The Post-9/11 GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, may qualify for these benefits.
+Okay, great. The Post-9/11 GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, might qualify for these education benefits.
 
-And I'll remind you of this scenario as we go along.
+I'll remind you of this scenario as we go along.
 
-- Without clicking anything yet, can you tell me what you would do first?
+- So, without clicking anything yet, can you tell me what you would do first to ask the VA a question?
   - Where would you click?
   - Why?
 - Does it seem like you need to sign in?
   - Why?
 - Is there any scenario where you don't need to sign in?
+
+Let's go ahead and click `option they choose`.
 
 > **Skip** to [Category](#category) if they choose not to sign in.
 
@@ -211,11 +213,11 @@ Let's go ahead and click `Ask a new question.`
 
 > Screen: Category
 
-Okay, so I mentioned earlier that we’re pretending like you need to ask the VA if you're eligible for GI Bill benefits. With that in mind…
+Okay, so I mentioned earlier that we’re pretending like you need to ask the VA if you're eligible for Post-9/11 GI Bill benefits. With that in mind…
 
 - Can you show me what you would do first on this page?
 - [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
-- Before we continue, how long do you think it's going to take for you to ask a question?
+- Before we continue, how long do you think it's going to take for you to ask the VA a question?
 
 Okay great. Let’s choose `Education benefits and work study` and then go to the next page.
 
@@ -232,30 +234,9 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 
 </details>
 
-### Topic
-
-> Screen: Topic
-
-- Can you show me what you would do on this page?
-- [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
-
-Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the next page.
-
-<details>
-  <summary>Key things to notice</summary>
-
-- Do they choose `Post-9/11 GI Bill (Chapter 33)` without being prompted?
-- [If included] Do they notice the progress indicator?
-- [If included] Does the progress indicator give them any additional information?
-- [If not] Do they notice that there's no progress indicator?
-- [If not] Do they mention that they're unsure how much longer the form is?
-- [If not] Do they appear lost or disoriented in the form?
-
-</details>
-
 ### Sign in interruption
 
-> **Skip** and go to [Your relationship to the Veteran](#your-relationship-to-the-Veteran) if they've already signed in.
+> **Skip** and go to [topic](#topic) if they've already signed in.
 
 > Screen: Sign in alert
 
@@ -291,20 +272,13 @@ Let's go ahead and click 'Ask a new question.'
 
 Okay great. Let’s choose `Education benefits and work study` and then go to the next page.
 
-> Screen: Topic
-
-- Okay, tell me about this page.
-- What would you choose here?
-
-Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the next page.
-
 <details>
   <summary>Key things to notice</summary>
 
 - Are they surprised by the sign in alert?
 - Do they move to close the alert right away?
 - Is it still not clear why they need to sign in?
-- What would they choose to do when the sign in alert appears? For example, would they sign in, go back and choose a different topic, etc.
+- What would they choose to do when the sign in alert appears? For example, would they sign in, go back and choose a different category, etc.
 - Does the sign in screen seem familiar?
 - Is it clear where they land after they sign in?
 - How do they react to needing to start over again?
@@ -312,6 +286,27 @@ Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the n
 </details>
 
 ## Through to submission (15 to 25 minutes)
+
+### Topic
+
+> Screen: Topic
+
+- Can you show me what you would do on this page?
+- [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
+
+Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the next page.
+
+<details>
+  <summary>Key things to notice</summary>
+
+- Do they choose `Post-9/11 GI Bill (Chapter 33)` without being prompted?
+- [If included] Do they notice the progress indicator?
+- [If included] Does the progress indicator give them any additional information?
+- [If not] Do they notice that there's no progress indicator?
+- [If not] Do they mention that they're unsure how much longer the form is?
+- [If not] Do they appear lost or disoriented in the form?
+
+</details>
 
 ### Your relationship to the Veteran
 
@@ -418,7 +413,9 @@ Great. Let's pretend like you typed in your subject and question and you decided
 Okay, let’s look at this page now. We're going to pretend this is filled in with your information.
 
 - Why is this information filled in already?
-- If you updated your date of birth on this page, would it update anywhere else on VA.gov?
+  - If you updated your date of birth on this page, would it update anywhere else on VA.gov?
+  - Would you want it to update anywhere else? Why?
+  - For example, if you changed your date of birth on this page, would you also want to update your VA.gov profile?
 - Does anything on this page stand out to you?
 
 Okay, great. So now that we've reviewed this informaiton, we'll say it's correct and click continue.
