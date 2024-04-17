@@ -5,7 +5,7 @@ This folder is to store all artifacts related to the Event Bus onboarding.
 - Slack channel
      - [#ves-event-bus](https://dsva.slack.com/archives/C042ZQ7JUAX)
 
-Initiated with this post:
+**Initiated with this post:**
 >Patrick Bateman 
 >  2:48 PM 2/20/2024
 >
