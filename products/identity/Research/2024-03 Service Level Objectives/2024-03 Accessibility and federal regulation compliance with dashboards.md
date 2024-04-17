@@ -6,15 +6,18 @@
 **March 29, 2024**
 **Epic: SLOs and SLAs**
 
-## [Key Findings](#key-findings)
-## [Introduction](#introduction)
-## [Federal Requirements and Policies](#federal-requirements-and-policies)
-## [Examples of Federal Websites Prioritizing Availability](#examples-of-federal-websites-prioritizing-availability)
-## [Case Studies](#case-studies)
-## [Maintaining Uptime Techniques](#maintaining-uptime-techniques)
-## [Accessible Data Visualization in Dashboards](#accessible-data-visualization-in-dashboards)
-## [Next Steps](#next-steps)
-## [Works Cited](#works-cited)
+Jump to:
+
+- [Key Findings](#key-findings)
+- [Introduction](#introduction)
+- [Federal Requirements and Policies](#federal-requirements-and-policies)
+- [Examples of Federal Websites Prioritizing Availability](#examples-of-federal-websites-prioritizing-availability)
+- [Case Studies](#case-studies)
+- [Maintaining Uptime Techniques](#maintaining-uptime-techniques)
+- [Accessible Data Visualization in Dashboards](#accessible-data-visualization-in-dashboards)
+- [Next Steps](#next-steps)
+- [Terms](#terms)
+- [Works Cited](#works-cited)
 ----------------------------
 
 ## Key Findings
@@ -363,6 +366,34 @@ Scenario: **Imagine you're planning to file a claim online with the VA. You want
  
 ----------------------------------
 
+## Terms 
+
+[ISO/IEC 20000-1:2018](https://www.iso.org/obp/ui/en/#iso:std:iso-iec:20000:-1:ed-3:v1:en)
+
+Information technology — Service management — Part 1: Service management system requirements
+
+3.2.16
+service availability
+ability of a service (3.2.15) or service component (3.2.18) to perform its required function at an agreed time or over an agreed period of time
+Note 1 to entry: Service availability can be expressed as a ratio or percentage of the time that the service or service component is actually available for use compared to the agreed time.
+
+3.2.19
+service continuity
+capability to deliver a service (3.2.15) without interruption, or with consistent availability as agreed
+Note 1 to entry: Service continuity management can be a subset of business continuity management. ISO 22301 is a management system standard for business continuity management.
+
+3.2.20
+service level agreement
+SLA
+documented agreement between the organization (3.1.14) and the customer (3.2.3) that identifies services (3.2.15) and their agreed performance
+Note 1 to entry: A service level agreement can also be established between the organization and an external supplier (3.2.4), an internal supplier (3.2.8) or a customer acting as a supplier.
+Note 2 to entry: A service level agreement can be included in a contract or another type of documented agreement.
+3.2.21
+service level target
+specific measurable characteristic of a service (3.2.15) that an organization (3.1.14) commits to
+
+
+----------------------------
 ## Works Cited
 
 Accenture. “Improving the Government Healthcare Website.” Accenture, 2024, https://www.accenture.com/us-en/case-studies/us-federal-government/enhanching-healthcare-gov. Accessed 4 April 2024.
