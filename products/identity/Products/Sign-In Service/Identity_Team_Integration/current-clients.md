@@ -21,14 +21,20 @@ The [SiS Example App](https://github.com/department-of-veterans-affairs/sign-in-
 ## Identity Dashboard
 
 * Auth types: `PKCE / cookie`, `Service Account`
+* Staging `service_account_id`: `01b8ebaac5215f84640ade756b645f28`
 
 The [VA Identity Dashboard](https://github.com/department-of-veterans-affairs/va-identity-dashboard?tab=readme-ov-file#va-identity-dashboard) is an administrative tool to manage parts of the Identity team's portfolio on VA.gov. It uses cookie PKCE to authenticate end users for its own routes, as well as a Service Account integration to make privileged requests to VA.gov's `vets-api` backend to perform actions, such as requesting sensitive log data or restricting a VA.gov user account.
 
 ## Chatbot
 
 * Auth types: `Service Account`
+* Staging `service_account_id`: `fa7f099f1ea99576fe251c550bca7b76`
 
 The Chatbot application makes use of a Service Account access_token containing the user's ICN to protect the API route requesting a MAP Security token.
+
+## BTSSS Access Token
+* Auth types: `Service Account`
+* Staging `service_account_id`: `a162aaef5fb869aa4ea5a227728a753f`
 
 ## MAP / Sign Up Service
 
