@@ -44,7 +44,10 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
   - They would fill out the Cloud Credit Purchase form, go through the 2237, FITARA process and funds would be allocate to the VA Notify Cloud Key ID
   - VAEC/ESCO no longer allows the purchase of Cloud Credits
   - We tried to use the Franchise Fund, but ran into a problem with OIT billing OIT
- 
+ * The path we are one
+   - I get a lot of questions around the kind of funding we accept, or might accept, to send notifications.  IT vs Non-IT, and others I can't recall at the moment.  This shows that business line want to pay for notifications cost, but we don't have a way to receive funds from any business line.
+   - Mark Junda is working on ways for us to accept funding, but that's mostly for VHA.
+   - It's my hope that whatever ways are chosen, VHA, VBA and other business lines can fully onboard.
     
 **MHV on VA.gov**
 * Appointment Reminders - **OCTO POC for Appointments Kay Lawyer** (on slack)
@@ -136,7 +139,7 @@ This is supported by the platform, but hasn't been used.  The team would need to
  
 
 
- ### Random Musings and Strong Opinions held Loosely
+ ### Not so Random Musings and Strong Opinions held Loosely
 
  **VA Notify is meant to be provider agnostic**
 
@@ -144,5 +147,7 @@ This is supported by the platform, but hasn't been used.  The team would need to
  **VA Notify should stay as pass through system**
 
  **Notification Portal**
-  - It would be great to have Privacy Officers login the portal to review content.  The technical portion of this fairly straightforward,but getting Privacy Officers onboard with this idea might be a little tricky
+* It would be great to have Privacy Officers login the portal to review content.  The technical portion of this fairly straightforward,but getting Privacy Officers onboard with this idea might be a little tricky
 
+**Notification Funding**
+* In an idea world, notifications to Veterans would be free, or VA would absorb the cost.  But alas, that is not where we are.  
