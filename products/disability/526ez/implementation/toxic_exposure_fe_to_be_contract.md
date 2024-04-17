@@ -122,19 +122,21 @@ Read the [README](https://github.com/department-of-veterans-affairs/vets-json-sc
 
 ## vets-api
 1. Modified Aurora's magical [test harness](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526/TREX/DEBUG)
-```
-        def setup_submission
-        # make a saved_claim
-        debugger
+```ruby
+  def setup_submission
+  # make a saved_claim
+  debugger
 
-        form_content = JSON.parse(File.read('spec/support/disability_compensation_form/submissions/with_toxic_exposure.json'))
-        @saved_claim = SavedClaim::DisabilityCompensation::Form526AllClaim.from_hash(form_content)
-        debugger
-        @saved_claim.save ? log_success(@saved_claim) : log_failure(@saved_claim)
+  form_content = JSON.parse(File.read('spec/support/disability_compensation_form/submissions/with_toxic_exposure.json'))
+  @saved_claim = SavedClaim::DisabilityCompensation::Form526AllClaim.from_hash(form_content)
+  debugger
+  @saved_claim.save ? log_success(@saved_claim) : log_failure(@saved_claim)
 ```
-2. Modify `Gemfile` to point to remote feature branch
-`gem 'vets_json_schema', git: 'https://github.com/department-of-veterans-affairs/vets-json-schema', branch: '79278-add-te-gulf-war-and-conditions-2'`
-3. Update to latest revision of feature branch
+2. Modify `Gemfile` to point to remote vets-json-schema feature branch
+```
+gem 'vets_json_schema', git: 'https://github.com/department-of-veterans-affairs/vets-json-schema', branch: '79278-add-te-gulf-war-and-conditions-2'
+```
+4. Update to latest revision of feature branch
 > $ bundle update vets_json_schema
 4. Open a rails console
 > $ bundle exec rails c
@@ -143,3 +145,10 @@ Read the [README](https://github.com/department-of-veterans-affairs/vets-json-sc
 > 3.2.3 :001 > lhd = TREX::DEBUG::LighthouseForm526.new
 6. Now, all breakpoints will be hit that were defined with `debugger` above. I typically would break within the `log_success` and `log_failure` to see if validation passed (and what error message occurred, if any)
    
+## useful tools & links
+
+- [JSON Pretty Print](https://jsonformatter.org/json-pretty-print)
+- [JSON Schema Reference](https://json-schema.org/understanding-json-schema/reference)
+- [JSON Schema Generation](https://www.jsonschema.net/)
+- [Regular Expression testing](https://regex101.com/)
+- [JSON Schema Validator](https://www.liquid-technologies.com/online-json-schema-validator)
