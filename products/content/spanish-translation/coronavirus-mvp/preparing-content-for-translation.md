@@ -3,7 +3,7 @@
 
 ## General grammar, style, and punctuation
 
-- [ ] Text is free of spelling and grammatical errors.
+- [ ] Text is free of spelling, punctuation, and grammatical errors.
 - [ ] Text is written in sentence casing.
 
 | Like this | Not like this |
