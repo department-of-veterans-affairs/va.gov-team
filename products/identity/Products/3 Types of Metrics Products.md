@@ -41,12 +41,13 @@ We will use the SLO in order to create Login SLA -- Service Level Agreements -- 
 [Login SLA Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLA.md)
 
 ## Authorization Metrics
-Authorization metrics (AKA "External Data Reporting") are the metrics we are sharing with VA leadership surrounding the full authorization process, which is defined as a person doing the followin: 
+Authorization metrics (AKA "External Data Reporting") are the metrics we are sharing with VA leadership surrounding the full authorization process, which is defined as a person doing the following: 
 1. Choosing one of our CSP (Credential Service Providers) on the VA.gov sign-in page.
 2. Providing credentials on the CSP's login.
 3. Returning back to VA.gov with their identity verified.
 
-Some of the data we might provide on this page:
+This is still in the initial product brief phase, but some of the kinds of data we might display could be:
+
 - Total authentications
 - Total authentications by CSP
 - New verified users
@@ -54,5 +55,7 @@ Some of the data we might provide on this page:
 - Unique authentications
 - Unique authentiations by CSP
 
-This product is still being defined, but we suspect that we will create an easily understandable dashboard with some of these mstrics
+All of these would be displayed over a period of time
+
+[External Data Reporting Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/Products/Product%20Briefs/External%20Data%20Reporting%20(Draft).md)
 
