@@ -146,10 +146,29 @@ For phase 1, each subhub will feature links and a short description to the follo
         - CHAMPVA FAQs: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA_faq.asp
         - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp
         - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
-- Survivors compensation and accrued benefits
-   - DIC: https://www.va.gov/disability/dependency-i ndemnity-compensation/
-   - VA Survivors Pension: https://www.va.gov/pension/survivors-pension/
-   - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
+    
+-**Survivors compensation and accrued benefits**
+   - **Get - Main (H2)**
+       - DIC: https://www.va.gov/disability/dependency-i ndemnity-compensation/
+       - Survivor DIC rates: https://www.va.gov/disability/survivor-dic-rates/
+       - Parent DIC rates: https://www.va.gov/disability/parent-dic-rates/
+       - VA Survivors Pension: https://www.va.gov/pension/survivors-pension/
+       - Survivors Pension rates: https://www.va.gov/pension/survivors-pension-rates/
+       - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
+   - **Get - Additional benefits or services(H3)**
+       - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
+   - **Manage(H2)**
+       - View payment history: https://www.va.gov/va-payment-history/
+       - Change direct deposit: https://www.va.gov/change-direct-deposit/
+       - Manage or pay overpayments and debt: https://www.va.gov/manage-va-debt/
+       - Change your address: https://www.va.gov/change-address/
+       - Request a decision review: https://www.va.gov/decision-reviews/
+       - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+   - **More(H2)**
+       - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
+       - Pension Management Centers: https://www.va.gov/pension/pension-management-centers/
+       - Tragedy Assistance Program for Survivors: https://www.taps.org/
+
 - Education and career benefits
    - Transfered edu. benefits for family: https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
    - Survivors and dependents educational assistance: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
