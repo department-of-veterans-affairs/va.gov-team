@@ -265,6 +265,9 @@ Okay, so we're pretending like you just finished signing in.
 - Can you tell me what page we're on now?
 - What would you do next if you still wanted to ask the VA as a question about GI Bill benefits?
 - What do you expect to happen when you click 'Ask a new question'?
+- Is there anything else you want to tell me about this page?
+
+Okay great. Throughout the session, feel free to point out things on the screen, even if I don't ask you a question about them.
 
 Let's go ahead and click 'Ask a new question.'
 
