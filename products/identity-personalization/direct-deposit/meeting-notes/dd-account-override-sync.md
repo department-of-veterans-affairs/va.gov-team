@@ -19,6 +19,8 @@ Ideally, account information is included in the confirmation when a Veteran rece
 - We’re not sure of the scale of the problem, but impact could be severe. Imagine the use case of someone involved in a contentious divorce and suddenly their money starts going into the wrong account and they can’t pay rent. Yikes.
 - Currently, we only send an email notification if DD info changes on the front end. 
   - We can explore getting these notifications triggered any time a change is made, but that’s would be a separate effort
+- There is guidance in a handbook (missed the name) given to claims adjudicators to use the account on the claim form over what is in CorpDB
+  - Julie can advocate for a change in that process so that if there's a difference between the account on the form vs CorpDB, someone reaches out to the Veteran to confirm which is correct instead of automatically overriding it.
 
 ## Decisions
 - Profile team will add an alert to the DD page that shows to all users, that tells them about the situation
