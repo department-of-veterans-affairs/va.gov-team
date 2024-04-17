@@ -22,6 +22,8 @@ It is anticipated that we will refine these metrics as we move forward.
 
 [Identity Monthly Metrics Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Identity%20Monthly%20Metrics.md)
 
+Related to SLO and SLO -- but not yet scoped out fully -- are Incident Responses: what happens when a non-emergency issue starts cropping up. How do we respond? How do we communicate our response? These will eventually be baked into the SLAs.
+
 ## Login SLO Metrics
 SLO is an acronym for Service Level Objectives, which are related to monitoring how well our various endpoints working: the goals is that Veterans are able to swiftly login and see their information.  The initial SLOs are:
 
