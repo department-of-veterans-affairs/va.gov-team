@@ -55,7 +55,7 @@ This is still in the initial product brief phase, but some of the kinds of data 
 - Unique authentications
 - Unique authentiations by CSP
 
-All of these would be displayed over a period of time
+All of these would be displayed over a period of time: for example, Total Authentications over the past month, or six months.
 
 [External Data Reporting Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/Products/Product%20Briefs/External%20Data%20Reporting%20(Draft).md)
 
