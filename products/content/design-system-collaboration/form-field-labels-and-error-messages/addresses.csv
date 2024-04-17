@@ -1,11 +1,11 @@
 section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,notes,notes-on-updates
 /patterns,/ask-users-for,/addresses,address,Mailing address,,,,,,,,
-/patterns,/ask-users-for,/addresses,address,Physical address,,,,,,,,"Changing ""home address"" to ""physical address"" to align with USWDS.",
-/patterns,/ask-users-for,/addresses,address,Country,,,No selection,Select a country,,,,"Changing from ""Country is required"" to ""Select a country"" to avoid passive",
-/patterns,/ask-users-for,/addresses,address,Street address,"If form has character limits, add this hint text: [dynamic #] characters left",,No entry,Enter a street address,,,,Slight adjustment to avoid passive voice,
-/patterns,/ask-users-for,/addresses,address,Street address line 2,,,,,,,Apartment or unit number,,
-/patterns,/ask-users-for,/addresses,address,Street address line 3,,,,,,,,,
-/patterns,/ask-users-for,/addresses,address,City,,,No entry,Enter a city,,,,Slight adjustment to avoid passive voice,
-/patterns,/ask-users-for,/addresses,address,"State, province, or region",,,"No entry and user has indicated that they live in the U.S. (If user has indicated that they live outside of the U.S., this field should remain optional.)",Select a state or territory,,,,"Slight adjustment to lowercase province and region. Changed the error message for ""no entry"" to align with standards and be more relevant for U.S. audiences.",
+/patterns,/ask-users-for,/addresses,address,Physical address,,,,,,,"Changing ""home address"" to ""physical address"" to align with USWDS.",
+/patterns,/ask-users-for,/addresses,address,Country,,,No selection,Select a country,,,"Changing from ""Country is required"" to ""Select a country"" to avoid passive",
+/patterns,/ask-users-for,/addresses,address,Street address,"If form has character limits, add this hint text: [dynamic #] characters left",,No entry,Enter a street address,,,Slight adjustment to avoid passive voice,
+/patterns,/ask-users-for,/addresses,address,Street address line 2,,,,,,,Apartment or unit number,
+/patterns,/ask-users-for,/addresses,address,Street address line 3,,,,,,,,
+/patterns,/ask-users-for,/addresses,address,City,,,No entry,Enter a city,,,,Slight adjustment to avoid passive voice
+/patterns,/ask-users-for,/addresses,address,"State, province, or region",,,"No entry and user has indicated that they live in the U.S. (If user has indicated that they live outside of the U.S., this field should remain optional.)",Select a state or territory,,,"Slight adjustment to lowercase province and region. Changed the error message for ""no entry"" to align with standards and be more relevant for U.S. audiences.",
 /patterns,/ask-users-for,/addresses,address,Postal code,,,No entry and user has indicated that they live outside of the U.S.,"Enter a postal code that meets your country’s requirements. If your country doesn’t require a postal code, enter NA.",No entry. Include [5- or 9-digit] in the error message if the user has indicated that they live in the U.S.,Enter a valid [5- or 9-digit] zip code,,"Slight adjustment to make zip lowercase. And include ""5- or 9-digit"" when user has indicated that they live in the U.S.",
 /patterns,/ask-users-for,/addresses,address,"APO, FPO, or DPO",,,No entry and user has selected military base checkbox,"Select a type of post office: APO, FPO, or DPO",,,,,,,
