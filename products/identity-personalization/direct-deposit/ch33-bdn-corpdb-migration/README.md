@@ -220,7 +220,7 @@ Given the short timeline, I propose that we only go through the following collab
 
 - [Kickoff](https://dsva.slack.com/archives/C06JV0KHZNF/p1708460001226429)
 - [Staging review](https://dsva.slack.com/archives/C06JV0KHZNF/p1713214486307419)
-- Privacy/Security review
+- [Privacy/Security review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1625)
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76630) 
 
 #### What about design and research touchpoints?
