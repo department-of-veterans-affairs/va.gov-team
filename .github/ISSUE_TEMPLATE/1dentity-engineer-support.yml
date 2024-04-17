@@ -16,10 +16,10 @@ body:
       - [ ] Provide your name and email address
       - [ ] Provide your team’s name
       - [ ] Select issue type (for “Other” stop here and provide details)
-        - [ ] [Authentication Help](auth-help)
-        - [ ] [Pull Request Review](pr)
-        - [ ] [Data Request](data)
-        - [ ] [Other](other)
+        - [ ] [Authentication Help](#auth-help)
+        - [ ] [Pull Request Review](#pr)
+        - [ ] [Data Request](#data)
+        - [ ] [Other](#other)
       - [ ] Complete tasks for your issue type
       - [ ] Add additional details (optional)
       - [ ] Please complete our [post Identity team support survey](https://dj540s05.optimalworkshop.com/questions/bcc55b13b90a19878b71c28bb3eb359c) before closing this ticket (optional)
@@ -28,16 +28,14 @@ body:
         <summary>
           <h2 id="auth-help">Authentication help request</h2>
         </summary>
-        For authentication help requests complete the quick troubleshooting steps and review <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md">troubleshooting documentation</a>.
-
+        <p>For authentication help requests complete the quick troubleshooting steps and review <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md">troubleshooting documentation</a>.</p>
         <h3>Quick troubleshooting steps</h3>
         <ul>
           <li>Have you tried clearing your browser cache?</li>
           <li>Have you tried clearing your browser cookies?</li>
           <li>Have you tried signing in incognito?</li>
-        <ul>
-
-        If the quick troubleshooting steps and the troubleshooting documentation does not resolve your issue provide the following information in the additional details section.
+        </ul>
+        <p>If the quick troubleshooting steps and the troubleshooting documentation does not resolve your issue provide the following information in the additional details section.</p>
         <ol>
           <li>
             Which Environment did you use to sign in? (Localhost, development, staging, review instances, production)
