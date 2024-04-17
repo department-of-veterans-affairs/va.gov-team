@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: April 16, 2024
+Last updated by @tygindraux: April 17, 2024
 
 ## Moderator logistics
 
@@ -42,6 +42,8 @@ Last updated by @tygindraux: April 16, 2024
 This document also contains [pause or exit strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md#pause-or-exit-strategies).
 
 ## Intro (5 minutes)
+
+> Start transcript: `LIVE TRANSCRIPT` > `ENABLE`.
 
 Thanks for joining us today! My name is [Tyler]. How are you?
 
@@ -119,7 +121,6 @@ In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earli
 * [Desktop – Includes progress bar](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=203-15692&t=PtpWil4syRj0SOTI-1&scaling=min-zoom&page-id=3%3A3&starting-point-node-id=203%3A15692&mode=design)
 * [Desktop - No progress bar](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=304-34611&t=4wr008jJKitxPWX9-1&scaling=min-zoom&page-id=304%3A34270&starting-point-node-id=304%3A34611&mode=design)
 
-
 - Can you open the link in the chat?
 - Have you shared your screen on Zoom before?
   - `IF YES` Great. Can you please share your screen?
@@ -177,7 +178,7 @@ Let's go ahead and click `option they choose`.
 - Does this look familiar to you?
 - Which option do you normally choose?
 
-Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
+Today, we're just going to pretend like you're signing in. Let's click on `Login.gov` and we'll imagine that you put in your email address and password to sign in.
 
 <details>
   <summary>Key things to notice</summary>
@@ -199,7 +200,7 @@ Okay, now we're on this page.
 
 Okay great. Throughout the session, feel free to point out things on the screen, even if I don't ask you a question about them.
 
-Let's go ahead and click `Ask a new question.`
+Let's go ahead and click `Ask a new question`.
 
 <details>
   <summary>Key things to notice</summary>
@@ -256,7 +257,7 @@ Let's go ahead and click `Sign in`.
 - Does this look familiar to you?
 - Which option do you normally choose?
 
-Today, we're just going to pretend like you're signing in. Let's click on Login.gov and we'll imagine that you put in your email address and password to sign in.
+Today, we're just going to pretend like you're signing in. Let's click on `Login.gov` and we'll imagine that you put in your email address and password to sign in.
 
 > Screen: Dashboard (Authenticated)
 
@@ -269,7 +270,7 @@ Okay, so we're pretending like you just finished signing in.
 
 Okay great. Throughout the session, feel free to point out things on the screen, even if I don't ask you a question about them.
 
-Let's go ahead and click 'Ask a new question.'
+Let's go ahead and click `Ask a new question`.
 
 > Screen: Category
 
@@ -323,7 +324,7 @@ Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the n
 
 - Can you show me what you would do on this page?
 
-Okay, great. Let's choose 'I'm the Veteran' and continue.
+Okay, great. Let's choose `I'm the Veteran` and continue.
 
 <details>
   <summary>Key things to notice</summary>
@@ -341,11 +342,11 @@ Okay, great. Let's choose 'I'm the Veteran' and continue.
 
 > Screen: Are you a GI Bill beneficiary?
 
-In this scenario, we're imagining that you're trying to find out whether you're eligible for GI Bill benefits from the VA.
+In this scenario, we're imagining that you're trying to find out whether you're eligible for GI Bill benefits.
 
 - Can you show me what you would do on this page?
 
-Okay, great. Let's choose 'No' and we'll continue.
+Okay, great. Let's choose `No` and we'll continue.
 
 <details>
   <summary>Key things to notice</summary>
@@ -367,7 +368,7 @@ Okay, great. Let's choose 'No' and we'll continue.
 - What is this question asking for?
 - Do you need to share your school state *and* your residency state?
 
-Okay, for today, we're not going to click on anything. We'll just pretend like you chose Virginia as your school state and we'll continue.
+Okay, for today, we're not going to click on anything. We'll pretend like you picked `Virginia` as your residency state and we'll continue.
 
 <details>
   <summary>Key things to notice</summary>
@@ -386,7 +387,7 @@ Okay, for today, we're not going to click on anything. We'll just pretend like y
 > Screen: Your question
 
 - Without clicking on anything, can you describe what you would do on this page?
-- Can you describe what you would write for the subject, in this scenario?
+- Can you describe what you would write for the subject in this scenario?
 
 Okay great. So we can’t actually type into the box using this prototype. 
 
@@ -397,7 +398,7 @@ We’ll pretend like you typed in a subject and a question about how to find out
 - Are you required to upload files?
 - If you wanted to upload a file, can you tell me what you would click?
 
-Great. Let's pretend like you typed in your subject and question and you decided not to upload a file today. You can click continue now.
+Great. Let's pretend like you typed in your subject and question and you decided not to upload a file today. You can click `Continue` now.
 
 <details>
   <summary>Key things to notice</summary>
@@ -422,12 +423,12 @@ Great. Let's pretend like you typed in your subject and question and you decided
 Okay, let’s look at this page now. We're going to pretend this is filled in with your information.
 
 - Why is this information filled in already?
-  - If you updated your date of birth on this page, would it update anywhere else on VA.gov?
+  - Let's say you needed to update your preferred name on this page. Would it update anywhere else on VA.gov?
+  - For example, would you expect your preferr name to also be updated on your VA.gov profile? Why?
   - Would you want it to update anywhere else? Why?
-  - For example, if you changed your date of birth on this page, would you also want to update your VA.gov profile?
-- Does anything on this page stand out to you?
+- Does anything else on this page stand out to you?
 
-Okay, great. So now that we've reviewed this informaiton, we'll say it's correct and click continue.
+Okay, great. So, we'll imagine that you reviewed this informaiton and everything was correct. Let's go ahead and `Continue`.
 
 <details>
   <summary>Key things to notice</summary>
@@ -448,6 +449,7 @@ Okay, great. So now that we've reviewed this informaiton, we'll say it's correct
 > Screen: Your contact information
 
 - Is there anything that stands out to you on this page?
+- Why is this page already filled in?
 
 Okay, great. We’ll say you reviewed your phone number and email address and are ready to continue.
 
@@ -535,17 +537,26 @@ Okay, we’re all finished with the prototype. So you can stop sharing your scre
 I’d love to spend a little time reflecting before we finish.
 
 - What did you think of that process? Is there anything you liked?
-- Is there anything that could be easier?
+- Is there anything that could have been easier?
 - Should this tool be used in an emergency?
   - Why or why not?
-  - [If they think yes, explain what to do in an emergency instead.]
-- While you filled out the form, did you know how much longer you had left?
+  - `If they think yes` Ask VA is actually only for non-urgent needs. If you need confidential help, you should call the Veterans Crisis Line. Or if it's an emergency, you should call 911.
+  - Was that clear to you from what we looked at together?
+
+Another thing I'd like to talk about is how long this proces felt.
+
+- While you were filling out the form, did you know how much longer you had left?
   - `IF YES`
     - How?
     - Is there anything that showed your progress?
+    - Was that helpful for you? Why?
   - `IF NO`
     - Is there anything that showed your progress?
-    - Would something like that be helpful?
+    - Would something like that be helpful? Why?
+   
+`If needed` I'll show you an example of what I mean.
+
+- [Prototype: Start at Category](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=226-17460&t=PtpWil4syRj0SOTI-1&scaling=min-zoom&page-id=3%3A3&starting-point-node-id=203%3A15692)
 
 <details>
   <summary>Key things to notice</summary>
