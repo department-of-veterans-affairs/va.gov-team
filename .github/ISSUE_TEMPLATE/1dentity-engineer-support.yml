@@ -99,10 +99,13 @@ body:
   attributes:
     label: Select issue type (for "Other" stop here and provide details)
     options:
+      - Select an issue type
       - Authentication help request
       - Pull Request review
       - Data request
       - Other
+    default: 0
+    multiple: false
   validations:
     required: true
 - type: textarea
