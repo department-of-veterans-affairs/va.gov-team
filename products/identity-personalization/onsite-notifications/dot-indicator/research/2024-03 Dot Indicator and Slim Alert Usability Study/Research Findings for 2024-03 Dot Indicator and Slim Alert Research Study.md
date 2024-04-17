@@ -176,7 +176,7 @@ Multiple Veterans complained about issues with their claims and coverage that we
 
 _Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
 
-* Recommendation: badge indicators should be considered as an option for a new notification type to use for health care messaging and updates, and in turn added to the VA Design System so it can be consumed by other teams for additional items that need user attention.
+* Recommendation 1: badge indicators should be considered as an option for a new notification type to use for health care messaging and updates, and in turn added to the VA Design System so it can be consumed by other teams for additional items that need user attention.
    * See Finding 1 for more details
   
 * Recommendation 2: the slim alert for evidence requests on claim cards should be introduced to My VA, for the sake of better informing Veterans of when they need to act and provide more evidence/details, as well as consistency with the Claim Status Tool.
