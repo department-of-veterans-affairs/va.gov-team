@@ -1,7 +1,12 @@
 # External Auth Data Reporting (Draft)
 
 ## Overview: 
-There are basically two goals of this project:
+External Auth Data Reporting is coming up with the data we are sharing with VA leadership and others surrounding the full authorization process, which is defined as a person doing the following: 
+1. Choosing one of our CSP (Credential Service Providers) on the VA.gov sign-in page.
+2. Providing credentials on the CSP's login.
+3. Returning back to VA.gov with their identity verified.
+
+There are basically two goals of this initial phase of the project:
 
 - Understand what kind of user data VA Leadership wants from the Identity Team.
 - Display and explain the user data in a way that is easy to understand and report upon.
