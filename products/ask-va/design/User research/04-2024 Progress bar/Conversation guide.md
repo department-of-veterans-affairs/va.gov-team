@@ -139,6 +139,8 @@ I’m going to give you a moment to look at this page.
 - Would you expect the VA to reply to you right away, or, take a few days or weeks to reply with an answer?
 - And how long would you expect it to take for **you** to ask your question?
 
+> Explain scenario.
+
 **For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question.**
 
 **Let's say you'd like to learn whether you're eligible for Post-9/11 GI Bill benefits through the VA.**
