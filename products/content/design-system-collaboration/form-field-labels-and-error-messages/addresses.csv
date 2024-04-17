@@ -1,4 +1,4 @@
-﻿Section,Subsection,Pattern or component,Label,Label text,Hint text (if applicable),Related sub-questions (if applicable),Related error scenario 1,Related error message 1,Related error scenario 2,Related error message 2,Label variations,Notes on recent updates (not for display),,,
+section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,notes,notes-on-updates
 /patterns,/ask-users-for,/addresses,address,Mailing address,,,,,,,,,,,
 /patterns,/ask-users-for,/addresses,address,Physical address,,,,,,,,"Changing ""home address"" to ""physical address"" to align with USWDS.",,,
 /patterns,/ask-users-for,/addresses,address,Country,,,No selection,Select a country,,,,"Changing from ""Country is required"" to ""Select a country"" to avoid passive",,,
