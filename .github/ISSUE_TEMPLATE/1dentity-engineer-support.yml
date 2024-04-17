@@ -10,7 +10,7 @@ body:
 
       This is a GitHub issue template for users and teams who need engineering support services from the [Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity). Please provide the information needed for the issue type you are requesting support for. For “other” please provide additional details. You may view Identity teams documentation for all of our products and services [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products). For product support from the Identity team use [this product support template instead](Team has access to #vsp-identity Slack channel)
 
-      ### To properly assist with your issue, please complete the following:
+      ## To properly assist with your issue, please complete the following:
 
       - [ ] Complete this issue template
       - [ ] Provide your name and email address
@@ -26,7 +26,7 @@ body:
       
       <details>
         <summary>
-          <h2 id="auth-help">Authentication help request</h2>
+          <h3 id="auth-help">Authentication help request</h3>
         </summary>
         <p>For authentication help requests complete the quick troubleshooting steps and review <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md">troubleshooting documentation</a>.</p>
         <h3>Quick troubleshooting steps</h3>
@@ -56,7 +56,7 @@ body:
 
       <details>
         <summary>
-          <h2 id="data">Data request</h2>
+          <h3 id="data">Data request</h3>
         </summary>
         For data requests provide the following additional details. As a reminder please don’t include any Personal Identifying Information (PII) or Protected Health Information (PHI). 
         <ul>
@@ -66,7 +66,7 @@ body:
       </details>
       <details>
         <summary>
-          <h2 id="pr">Pull Request review</h2>
+          <h3 id="pr">Pull Request review</h3>
         </summary>
         For Pull Request reviews provide the following additional details:
         <ul>
@@ -76,7 +76,7 @@ body:
       </details>
       <details>
         <summary>
-          <h2 id="other">Other</h2>
+          <h3 id="other">Other</h3>
         </summary>
         For "Other" provide as much additional details as possible. As a reminder please don’t include any Personal Identifying Information (PII) or Protected Health Information (PHI).
       </details>
@@ -116,7 +116,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## **Additional information**
+      ## Additional information
 
       - The identity team maintains [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Support) for both frontend and backend engineers.
       - You may reach out to an identity team member on the ```#vsp-identity``` [slack channel](https://dsva.slack.com/archives/CSFV4QTKN) on the Office of the CTO @ va slack workspace.
