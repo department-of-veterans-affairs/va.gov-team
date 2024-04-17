@@ -147,7 +147,7 @@ For phase 1, each subhub will feature links and a short description to the follo
         - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp
         - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
     
--**Survivors compensation and accrued benefits**
+- **Survivors compensation and accrued benefits**
    - **Get - Main (H2)**
        - DIC: https://www.va.gov/disability/dependency-i ndemnity-compensation/
        - Survivor DIC rates: https://www.va.gov/disability/survivor-dic-rates/
@@ -169,24 +169,86 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Pension Management Centers: https://www.va.gov/pension/pension-management-centers/
        - Tragedy Assistance Program for Survivors: https://www.taps.org/
 
-- Education and career benefits
-   - Transfered edu. benefits for family: https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
-   - Survivors and dependents educational assistance: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
-   - Fry scholarship: https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/
-   - Fry/DEA application: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
-   - Yellow Ribbon: https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
-   - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
-   - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
-   - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-   - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
-- Home loans for surviving spouses -- this subhub only has one link, so instead of having a subhub page, we're just going to link directly to this page. UNLESS we can coordinate with stakeholder to be able to redirect in phase 1, which is unlikely.
-- Life insurance
-   - Family servicemembers group life insurance: https://www.va.gov/life-insurance/options-eligibility/fsgli
-   - accelerated benefit for terminally ill/disabled: https://www.va.gov/life-insurance/totally-disabled-or-terminally-ill/
-- Burial benefits and memorials
-   - pre-need eligibility: https://www.va.gov/burials-memorials/pre-need-eligibility/
-   - Headstones, markers, inscriptions: https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/
-   - Veterans burial allowance: https://www.va.gov/burials-memorials/veterans-burial-allowance/
+- **Education and career benefits**
+   - **Get - Main (H2)**
+       - Transfered edu. benefits for family: https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
+       - Transfered edu benefit rates: https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/
+       - Survivors and dependents educational assistance: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
+       - DEA rates: https://www.va.gov/education/benefit-rates/chapter-35-rates/
+       - Fry scholarship: https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/
+       - Fry rates: https://www.va.gov/education/benefit-rates/fry-scholarship-rates/
+       - Fry/DEA application: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
+       - Yellow Ribbon: https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
+       - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
+       - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
+       - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
+       - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
+    - **Get - Additional benefits or services(H3)**
+       - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/careers-employment/dependent-benefits/
+    - **Get - Helpful tools(H3)**
+       - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
+       - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
+       - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
+    - **Manage(H2)**
+       - Verify school enrollment: https://www.va.gov/education/verify-school-enrollment/
+       - Change your GI Bill school or program: https://www.va.gov/education/change-gi-bill-benefits/
+       - DEA/Fry form: https://www.va.gov/education/apply-for-education-benefits/application/5495/
+       - transferred benefits form: https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction
+       - Check Post-9/11 GI Bill benefit statement: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+       - View payment history: https://www.va.gov/va-payment-history/
+       - Change direct deposit: https://www.va.gov/change-direct-deposit/
+       - Manage or pay overpayments or debt: https://www.va.gov/manage-va-debt/
+       - Request decision review: https://www.va.gov/decision-reviews/
+       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+    - **More(H2)**
+       - How to choose GI Bill approved schools: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
+
+- **Life insurance**
+   - **Get - Main (H2)**
+       - Family servicemembers group life insurance: https://www.va.gov/life-insurance/options-eligibility/fsgli
+       - accelerated benefit for terminally ill/disabled: https://www.va.gov/life-insurance/totally-disabled-or-terminally-ill/
+   - **Get - Additional benefits or services(H3)**
+       - Beneficiary counseling and online will prep: https://www.benefits.va.gov/insurance/bfcs.asp
+       - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
+   - **Manage(H2)**
+       - File an insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
+       - Request decision review: https://www.va.gov/decision-reviews/
+       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+   - **More(H2)**
+       - Search for unclaimed insurance funds: https://www.insurance.va.gov/UnclaimedFunds/
+ 
+- **Housing**
+   - **Get - Main (H2)**
+       - VA home loan programs for surviving spouses: https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
+   - **Get - Additional benefits or services(H3)**
+       - Financial counseling to avoid foreclosure: https://www.va.gov/housing-assistance/home-loans/trouble-making-payments
+   - **Manage(H2)**
+       - Check the status of your COE: https://www.va.gov/housing-assistance/home-loans/check-coe-status
+       - Get veteran military records: https://www.va.gov/records/get-military-service-records/
+       - Request decision review: https://www.va.gov/decision-reviews/
+       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+   - **More(H2)**
+       - Loan limits: https://www.va.gov/housing-assistance/home-loans/loan-limits
+       - Find VA-acquired properties: https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp
+
+- **Burial benefits and memorials**
+   - **Get - Main (H2)**
+       - pre-need eligibility: https://www.va.gov/burials-memorials/pre-need-eligibility/
+       - Headstones, markers, inscriptions: https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/
+       - Veterans burial allowance: https://www.va.gov/burials-memorials/veterans-burial-allowance/
+       - Apply for veterans burial allowance: https://www.va.gov/burials-and-memorials/application/530/introduction
+  - **Get - Additional benefits or services(H3)**
+       - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
+       - File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
+  - **Manage(H2)**
+      - Schedule a burial for a Veteran: https://www.va.gov/burials-memorials/schedule-a-burial/
+       - Request Veteran military records: https://www.va.gov/records/get-military-service-records/
+       - Request decision review: https://www.va.gov/decision-reviews/
+       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+  - **More(H2)**
+       - Burial in a private cemetery: https://www.va.gov/burials-memorials/eligibility/burial-in-private-cemetery/
+       - Find a cemetery: https://www.cem.va.gov/cems/listcem.asp
+       - Find a grave: https://www.cem.va.gov/nationwide-gravesite-locator/
 
 
 ## <a name="redirects"></a>Redirects <br>
