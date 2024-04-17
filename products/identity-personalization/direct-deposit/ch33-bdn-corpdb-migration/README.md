@@ -2,7 +2,7 @@
 
 **Last updated 4/16/2024** -- updated timeline
 ## Table of Contents 
--[Communications](#communications)
+- [Communications](#communications)
 
 
 ## Communications 
