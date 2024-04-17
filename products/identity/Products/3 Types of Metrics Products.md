@@ -22,7 +22,6 @@ It is anticipated that we will refine these metrics as we move forward.
 
 [Identity Monthly Metrics Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Identity%20Monthly%20Metrics.md)
 
-Related to SLO and SLO -- but not yet scoped out fully -- are Incident Responses: what happens when a non-emergency issue starts cropping up. How do we respond? How do we communicate our response? These will eventually be baked into the SLAs.
 
 ## Login SLO Metrics
 SLO is an acronym for Service Level Objectives, which are related to monitoring how well our various endpoints working: the goals is that Veterans are able to swiftly login and see their information.  The initial SLOs are:
@@ -41,6 +40,8 @@ We will use the SLO in order to create Login SLA -- Service Level Agreements -- 
 [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
 
 [Login SLA Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLA.md)
+
+Related to SLO and SLO -- but not yet scoped out fully -- are Incident Responses: what happens when a non-emergency issue starts cropping up. How do we respond? How do we communicate our response? These will eventually be baked into the SLAs.
 
 ## Authorization Metrics
 Authorization metrics (AKA "External Auth Data Reporting") are the metrics we are sharing with VA leadership surrounding the full authorization process, which is defined as a person doing the following: 
