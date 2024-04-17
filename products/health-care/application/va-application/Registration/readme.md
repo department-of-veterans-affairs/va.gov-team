@@ -1,4 +1,4 @@
-# Initiative Brief - 10-10EZ Registration Path
+# 10-10EZ Registration Path - Initiative Brief
 
 ## Outcome Summary
 Provide a pathway for Active Duty Service Members and Veterans who want to register for VA health care, but do not want to or are unable/ineligible to enroll.
