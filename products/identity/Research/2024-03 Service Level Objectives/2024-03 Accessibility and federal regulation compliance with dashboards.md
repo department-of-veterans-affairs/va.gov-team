@@ -76,15 +76,26 @@ Numerous studies have documented the importance of website responsiveness and mi
 
 - The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
 
-While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. Ensuring a consistent availability of services is essential for maintaining a positive user experience.
+While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. 
+Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. 
+Ensuring a consistent availability of services is essential for maintaining a positive user experience.
 
 **A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways**
 
-**Manage User Expectations**: By informing users about potential downtime or ongoing maintenance, the VA can set realistic expectations and minimize frustration. For instance, the dashboard could clearly communicate the expected duration of maintenance windows or highlight periods of peak usage that might lead to slower response times. This proactive communication can help veterans plan their online interactions and avoid scheduling important tasks during known downtime.
+**Manage User Expectations**
+- By informing users about potential downtime or ongoing maintenance, the VA can set realistic expectations and minimize frustration. 
+- For instance, the dashboard could clearly communicate the expected duration of maintenance windows or highlight periods of peak usage that might lead to slower response times. 
+   - This proactive communication can help veterans plan their online interactions and avoid scheduling important tasks during known downtime.
 
-**Promote Transparency**: Open communication regarding website health builds trust and demonstrates the VA's commitment to user experience. A well-designed dashboard can showcase the VA's investment in website uptime and reliability. By acknowledging potential issues and providing updates, the VA fosters a sense of transparency and accountability.
+**Promote Transparency**
+- Open communication regarding website health builds trust and demonstrates the VA's commitment to user experience.
+- A well-designed dashboard can showcase the VA's investment in website uptime and reliability.
+- By acknowledging potential issues and providing updates, the VA fosters a sense of transparency and accountability.
 
-**Empower Users**: Access to availability information empowers veterans to make informed decisions about their online interactions with the VA. The dashboard can provide veterans with the knowledge to plan their tasks and access services during optimal times. For example, if the dashboard indicates a period of expected heavy traffic, veterans can choose to schedule important tasks for a different time or utilize alternative channels to access VA services.
+**Empower Users**
+- Access to service availability information empowers veterans to make informed decisions about their online interactions with the VA.
+- The dashboard can provide veterans with the knowledge to plan their tasks to access services during optimal uptimes.
+   - For example, if the dashboard indicates a period of expected heavy traffic, veterans can choose to schedule important tasks for a different time or utilize alternative channels to access VA services.
 
 ---------------------------
 
@@ -162,7 +173,6 @@ Federal agencies must adhere to various policies and guidelines related to websi
 - Efficiency, the adherence to scheduled uptime or downtime, is one of their key indicators monitored daily.
 - The facilities program has a 90% target associated with this measure, which allows for some variance across NSF programs due to unanticipated or external factors, in addition to addressing the needs of some facilities to change or modify instruments, update systems, and operate their many systems. 
 - These differences hilight the importance of setting SL's for each case responsibly and meaningfully. 
-
 
 ### IRS.gov
 
@@ -318,7 +328,7 @@ Backup and Redundancy
 
 Effective data visualization is important for presenting uptime, downtime, and availability metrics on federal website dashboards in a way that is clear and understandable for all users. 
 
-## Visualization Technique
+Creating an accessible user dashboard involves thoughtful design choices that cater to users with visual impairments, cognitive limitations, and motor skill variations.
 
 | Visualization Technique | Purpose | Use Case | Best Practices for Accessibility |
 | --- | ---| ---| ---|
@@ -328,24 +338,70 @@ Effective data visualization is important for presenting uptime, downtime, and a
  | Tables | Present detailed data | Response times for critical agency services | Clear headers for rows and columns; Descriptive row and column labels; Accessible formatting (avoid merged cells) |
 | Scatterplots (Consider for Advanced Users) | Analyze relationships between variables | Correlation between website uptime and user traffic (for advanced users) | Data point labels for identification; Clear and labeled axes; Tooltips for detailed information; Note: May not be suitable for all users due to complexity |
 
-Table 1. Outlines accessible data visualization techniques, use cases, and best practices for accessibility.
+**Table 1**. Outlines accessible data visualization techniques, use cases, and best practices for accessibility.
 
-## Additional Considerations for Accessibility:
+## Accessibility
 
-Tooltips and Data Points: Provide informative tooltips or data points associated with charts and graphs. These should be accessible to screen readers and offer clear descriptions of the data points upon hover or focus. Consider using descriptive text that complements the visual representation, and avoid relying solely on color to convey information.
+Tooltips and Data Points
+- Provide informative tooltips or data points associated with charts and graphs.
+   - These should be accessible to screen readers and offer clear descriptions of the data points upon hover or focus.
+- Consider using descriptive text that complements the visual representation, and avoid relying solely on color to convey information.
 
-Color Contrast: Use colors with sufficient contrast to ensure readability for users with low vision or color blindness. Federal websites should adhere to WCAG guidelines for color contrast ratios (minimum of 4.5:1 for small text and 3:1 for large text). Color contrast checkers can be used to evaluate color combinations and identify potential issues.
+Color Contrast
+- Select colors with a contrast ratio of at least 4.5:1 for small text and 3:1 for large text, as mandated by the WCAG (Web Content Accessibility Guidelines). [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- Use color contrast checkers like [WebAIM's Contrast Checker](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=E9F1FC) or [APCA's Contrast Checker](https://www.achecks.org/apca-wcag-3-accessible-colour-contrast-checker/) to assess and improve visual clarity.
+- High contrast benefits users with low vision, color blindness, and those viewing the dashboard in bright sunlight.
 
-Descriptive Text Alternatives: Include meaningful "alt text" descriptions for all non-text content (charts, graphs, images) to allow screen readers to convey the information to visually impaired users. These descriptions should be concise and informative, accurately reflecting the data presented in the visual format.
+*Ineffective Contrast*: A red progress bar on a light pink background can be difficult to read for users with red-green color blindness.
+**Effective Contrast**: Change the progress bar color to dark blue for improved readability.
+
+Font Selection
+- Avoid decorative or overly stylized fonts that can be difficult to read, especially for users with dyslexia or visual processing difficulties.
+- Opt for clear, easy-to-read sans-serif fonts like Verdana, Tahoma, Calibri, or Arial.
+   - These fonts are common across operating systems and tend to be more legible on screens.
+- Consider font size and spacing for comfortable reading. A minimum font size of 16px is recommended for body text.
+- Ensure adequate line spacing to prevent crowding.
+- Use system fonts whenever possible, as they are typically optimized for screen readers used by visually impaired users.
+- If using custom fonts, ensure they can be substituted by user-defined fonts in assistive technologies.
+
+*Ineffective Font*: Script fonts can be difficult to read, especially at small sizes. 
+**Effective Font**: Use a clear sans-serif font like Arial at a minimum of 16px with adequate line spacing.
+
+Simplicity Matters
+- Remove unnecessary visual distractions such as animations, blinking elements, and excessive use of graphics.
+   - These can be disorienting for users with epilepsy, ADHD, or cognitive disabilities.
+- Keep the dashboard clean, uncluttered, and focused on essential information.
+   - Users should be able to locate the information they need quickly and easily.
+
+*Ineffective Design*: A dashboard with animated icons, flashing text, and a busy background image can be overwhelming. 
+**Effective Design**: Use static icons, clear text labels, and a solid background color with minimal graphics.
+
+Responsive Design
+- Ensure the dashboard adapts to different screen sizes and devices (desktops, tablets, smartphones) using responsive design techniques.
+- Responsive layouts allow users with various devices to access the information seamlessly.
+- Consider element arrangement to maintain readability in both portrait and landscape orientations.
+
+*Ineffective Design*: A dashboard designed only for large desktop screens becomes unusable on smaller devices. Text and buttons become too small to interact with. **Effective Design**: The dashboard resizes and reorganizes elements automatically based on the screen size, ensuring optimal readability and functionality across devices.
+
+Color Coding 
+- Avoid relying solely on color to differentiate data points.
+- Implement additional visual cues like shapes or patterns to accommodate users with color blindness.
+
+Text Alternatives
+- Provide meaningful descriptions (alt text) for all non-text content, including images, charts, and graphs to allow screen readers to convey information to visually impaired users.
+- These descriptions should be concise and informative, accurately reflecting the visually presented data.
+
+Keyboard Accessibility
+- Ensure all dashboard functionalities are accessible using just the keyboard for users with motor skill limitations or those who prefer keyboard navigation.
 
 ----------------------------
 --------------------
 
 ## Next Steps
 
-### Test Prototype Dashboards
+**Test Dashboard Prototypes**
 
-- 1:1 Task based interviews of prototype dashboards
+- 1:1 Task based interviews of participants using prototype service availability dashboards
 
 **Tasks**
 Scenario: **Imagine you're planning to file a claim online with the VA. You want to check the website's uptime before you begin.**
