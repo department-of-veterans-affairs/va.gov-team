@@ -173,7 +173,7 @@ ________________________________________________________________________________
         - ✔️ 🟥 [[Design] Create Final Wireframes for eCheck-in w/ Eligibility BG Check ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78320)        
 - **GOAL: Increase PCI Usability**    
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
+        - ✔️ 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
         - ✔️ 🟩 [[FE] Pre-Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72857)
         - ✔️ 🟩 [[FE] Pre-Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
