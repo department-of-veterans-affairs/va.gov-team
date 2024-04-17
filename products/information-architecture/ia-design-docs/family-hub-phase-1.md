@@ -115,7 +115,7 @@ For phase 1, we will have a left nav for the subhubs and PCAFG/Champva. Note the
 4. **Crosslinks - ADD**
 For phase 1, each subhub will feature links and a short description to the following things. This is probably best viewed directly in [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684260449054/7d2a6588b6861b0fb19a31d73cad49fe1a5abd3d?wid=0-1712161880616), but I've also included a list of the links we intend to go to. For phase 1 we will just be linking to these pages (anchor linking to the relevant family member section if possible). In later phases we might create new pages in the family member hub about the family member benefit (Ex: in the future we might have 2 mental health pages, one for veterans and one for family members, that crosslink to eachother). 
 
-- Health care and disability compensation
+- **Health care and disability compensation**
    - **Get - Main (H2)**
       - Champva: https://www.va.gov/health-care/family-caregiver-benefits/champva
       - PCAFC: https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/
@@ -124,15 +124,28 @@ For phase 1, each subhub will feature links and a short description to the follo
       - Camp Lejeune: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#benefits-for-families-who-live
       - Spina Bifida: https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp
       - Children of women vietman veterans: https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp
-  - **Get - Additional benefits or services**
-      - Tricare
-      - CITI Program
+  - **Get - Additional benefits or services(H3)**
+      - Tricare: https://www.va.gov/health-care/family-caregiver-benefits/
+      - CITI Program: 
       - Respite care
       - Program of general caregiver support services
-  - **Get - Helpful tools**
+  - **Get - Helpful tools(H3)**
       - Income Limits 
-  - **Manage**
-  - **More**
+  - **Manage(H2)**
+      - My HealtheVet
+      - Request travel reimbursement
+      - Pay copay bills
+      - File a CHAMPVA claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp
+      - File a SBHCP claim
+      - Request a decision review
+      - Check your claim, decision review, or appeal status
+  - **More(H2)**
+        - Meds by Mail
+        - Fisher House Program
+        - Coaching into care
+        - CHAMPVA FAQs
+        - Finding a CHAMPVA provider
+        - The PACT Act and your benefits
 - Survivors compensation and accrued benefits
    - DIC: https://www.va.gov/disability/dependency-i ndemnity-compensation/
    - VA Survivors Pension: https://www.va.gov/pension/survivors-pension/
