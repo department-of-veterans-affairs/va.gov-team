@@ -1,4 +1,4 @@
-Section,Subsection,Pattern or component,Label,Label text,Hint text (if applicable),Related sub-questions (if applicable),Related error scenario 1,Related error message 1,Related error scenario 2,Related error message 2,Variation notes for display,Notes on recent updates (not for display)
+section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,notes,notes-on-updates
 /patterns,/ask-users-for,/names,first-name,First or given name,,,No entry,Enter a first or given name,Incorrect entry,"You entered a character we can’t accept. Try removing ""[specific characters entered]"" ","If form has character limits, add this hint text: [dynamic #] characters left","Adding ""or given"" and hint text 6.24.23 per USWDS guidelines for inclusive name field.
 "
 /patterns,/ask-users-for,/names,middle-name,Middle name,,,Invalid entry,"You entered a character we can’t accept. Try removing ""[specific characters entered]"" ",,,"If form has character limits, add this hint text: [dynamic #] characters left",
