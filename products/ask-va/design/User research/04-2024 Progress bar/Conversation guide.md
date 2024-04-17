@@ -236,7 +236,7 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 
 ### Sign in interruption
 
-> **Skip** and go to [topic](#topic) if they've already signed in.
+> **Skip** to [Topic](#topic) if they've already signed in.
 
 > Screen: Sign in alert
 
