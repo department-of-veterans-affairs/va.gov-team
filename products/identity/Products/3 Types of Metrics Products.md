@@ -44,7 +44,7 @@ We will use the SLO in order to create Login SLA -- Service Level Agreements -- 
 Related to SLO and SLA -- but not yet scoped out fully -- are Incident Responses: what happens when a non-emergency issue starts cropping up. How do we respond? How do we communicate our response? The answers to those questions should eventually be baked into the SLAs.
 
 ## Authorization Metrics
-Authorization metrics (AKA "External Auth Data Reporting") are the metrics we are sharing with VA leadership surrounding the full authorization process, which is defined as a person doing the following: 
+Authorization metrics (AKA "External Auth Data Reporting") are the metrics we are sharing with VA leadership and others surrounding the full authorization process, which is defined as a person doing the following: 
 1. Choosing one of our CSP (Credential Service Providers) on the VA.gov sign-in page.
 2. Providing credentials on the CSP's login.
 3. Returning back to VA.gov with their identity verified.
