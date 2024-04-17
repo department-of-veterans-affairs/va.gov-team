@@ -80,13 +80,13 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
   - A preference for this exists in VA.gov
 
 **Notifications Portal**
-* IAM Provisiong
+* IAM Provisiong - Notify Portal uses IAM SSOi for access control.  We are working with extending our integration with IAM such that when user credentials are removed from IAM, we automatically remove the user from our system.
 
-* Dashboard
+* Dashboard - We are working on a dashboard in our portal to display metrics that are important to our users.  This is not meant to replace Domo, but augment it.
 
 * Roles
 
-* Push Notification Templates
+* Push Notification Templates - We will working on adding push notifications templates to our portal
 
 **Push Notifications**
 * Phase 1
@@ -99,8 +99,6 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
  
 * Push Notifications to all users.
   - VA Notify and VEText are working on a new way to implement this using SNS topics
-
-
 
   
 **AWS**
@@ -125,7 +123,8 @@ This is supported by the platform, but hasn't been used.  The team would need to
     > Another option would be to change the sender address to a non-VA owned domain and registering the required DNS records through Amazon. Continue using Amazon SES (Simple Email Service) from AWS w/ a dedicated IP. TIC Gateway Engineering can explore options on removing the EXTERNAL tag by the sender IP and the “Friendly-From” address.
 
  
-* CC 
+* CC for Emails
+  - Like any email platform we need to have the ability to cc another email address on an email notifications.  We will need to ensure we come up with guidance so this feature is not misused.  I see this being useful for Veterans who want to cc their representatives or vice versa.
 
 
 
