@@ -53,6 +53,7 @@ body:
             <ul>
               <li><em>If end users interact with your application, you will most likely need to <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/client_config.md">configure your integration as a client application</a>.</em></li>
               <li><em>If end users don’t interact with your application, your integration will likely need to be <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/configuration/service_account.md">configured as a service account</a>.</em></li>
+            </ul>
           </li>
           <li>
             Do you need to use our <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Unified%20Sign%20In%20Pages/README.md">Unified Sign-in Page</a> (USiP)?
