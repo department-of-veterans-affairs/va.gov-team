@@ -204,8 +204,6 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Simplify and refactor CHIP repository GHA workflows. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79788)
         - ✔️ 🟨 [[DevOps] Specify day-end-summary workflow requirements (in checkin-devops) in requirements.txt, rather than GHA workflow.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79787)
         - ✔️ 🟨 [[DevOps] Add error handling to day-end-summary script.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80733)
-        - ✔️ 🟨 [[DevOps] Specify day-end-summary workflow requirements (in checkin-devops) in requirements.txt, rather than GHA workflow. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79787)
-        - ✔️ 🟨 [[DevOps] Add error handling to day-end-summary script. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80733)
 
 ______________________________________________________________________________________________________________________________________________________
         
