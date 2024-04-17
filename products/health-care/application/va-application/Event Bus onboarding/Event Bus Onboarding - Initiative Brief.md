@@ -1,54 +1,31 @@
-# Initiative Brief Template
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
+# Event Bus Onboarding - Initiative Brief
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+- **MVP**: Begin to send 10-10EZ submission events to the Event Bus, so that the submission status can be shared with other consumers who would benefit from this event.
+- **Future**: Support Enrollment System onboarding to Event Bus to send application statuses, so that the VA.gov 10-10EZ can expose really meaningful 10-10EZ status information to Veterans (whether on screen, via a notification, both, or other).
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- 10-10EZ Veteran health care application | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Veterans do not currently have a way to see the status of their health care application as it goes through the processing steps within VA
+* 10-10EZ does not have a way to display the various statuses of an application on VA.gov without directly connecting and interpreting the statuses from the source system
+* 10-10EZ does not have a way to transmit/communicate the submission status of the application from VA.gov to any other systems or applications without direct connections/integrations
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans will be able to see the status of their application on VA.gov as it moves through the processing steps in the Enrollment system
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
+- Veterans will continue to receive and/or view minimal statuses of their application on VA.gov
+- Veterans will continue to be unaware of what step in the process their application is and whether there have been any decisions made or further information needed.
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+## Desired Business Outcomes
+- 10-10EZ will be able to consume application processing events from Enrollment system and display the meaningful statuses of Veterans' applications on VA.gov
+- 10-10EZ will be able to produce the application submission status for other applications and/or systems to consume easily without direct connections or integrations
 
 ## Undesired Business Outcomes
--->
+- Enrollment system cannot onboard to Event Bus in a meaningful manner to share status events
+- 10-10EZ is not able to consume Enrollment system events in a meaningful manner
 
 ---
 ## Measuring Success
@@ -67,22 +44,25 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans will not understand the application status being displayed
+  
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Veterans will not know or understand if any actions are required of them to keep the application moving through the process
+  
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+- **MVP - In scope**
+     - 10-10EZ onboard to Event Bus to produce the application submission event
+
+- **MVP - Out of scope**
+     - Enrollment system onboard to Event Bus
+     - 10-10EZ to consume events from Event Bus
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -98,7 +78,7 @@
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [TBD - Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -121,10 +101,10 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: 10-10 Health Apps (Health Enrollment)
+- GitHub Label(s): 1010-team
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice
 
 </details>
 
@@ -134,8 +114,8 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO
+- Contact(s): Patrick Bateman (Product Owner)
  
 </details>
 
