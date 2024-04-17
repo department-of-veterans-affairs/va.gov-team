@@ -167,7 +167,7 @@ ________________________________________________________________________________
     - ✔️ ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
     - ✔️ ❗ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
     - **Sub Goal: Support the ATO**
-        - ✔️ ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
+        - ✔️ ❗ 🟩 [Create PCI Threat Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery - Veteran Direct Community Care Scheduling**
         - ✔️ 🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
