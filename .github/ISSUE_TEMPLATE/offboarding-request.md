@@ -45,6 +45,7 @@ Please provide the following information about the individual being offboarded:
 _The following steps are performed by the **Platform Support** team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/2097545323/Offboard+Team+Member)_
 
  - [ ] Requested removal from DSVA Slack (if applicable. Search for them in Slack)
+ - [ ] Zenhub license removed (Check for license [here](https://app.zenhub.com/settings/o/department-of-veterans-affairs/users))
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
  - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
  - [ ] Remove from [Platform Atlas](https://www.va.gov/atlas/product_directory/team_members) (if applicable)
