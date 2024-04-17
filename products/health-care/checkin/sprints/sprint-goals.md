@@ -188,7 +188,7 @@ ________________________________________________________________________________
         - ✔️ 🟩 [[FE] Pre-Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
         - ✔️ 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
-        - 🚧 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
+        - ✔️ 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
            - Some work completed in previous sprints, need to determine what's left
         - ✔️ 🟦 [[BE] Implement VAOS Appointment Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
         - ✔️ 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
