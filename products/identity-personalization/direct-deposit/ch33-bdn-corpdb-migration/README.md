@@ -239,6 +239,10 @@ Since this feature already exists, we're simply modifying from two forms to one,
 - [Current User Flow](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-1&mode=design&t=PHWgrsxoEHDjP36q-0)
 - [QA spreadsheet](https://docs.google.com/spreadsheets/d/1rOD8w0YNTlfbefVK7t2RsWoYK_ui1gTkVhCXlJE5VDg/edit#gid=0)
 - [QA folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/ch33-bdn-corpdb-migration/qa)
+- [Pre-migration User Flow](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-1&mode=design&t=PHWgrsxoEHDjP36q-0) 
+- slack channel [#edu-direct-deposit-migration](https://dsva.slack.com/archives/C06JV0KHZNF)
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/ch33-bdn-corpdb-migration/release-plan/README.md)
+- [Privacy and Security Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/1625)
 
 ## Design Links 
 |Figma Page|Description|
