@@ -48,7 +48,7 @@ ________________________________________________________________________________
     - **Sub Goal: Add New Translated Content**
         - 🟩 [[FE] Add Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64635)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - TBD
+        - 🟩 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80942)
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - TBD
     - **Sub Goal: New Landing Page with Upcoming Appointments**
