@@ -136,15 +136,16 @@ I’m going to give you a moment to look at this page.
 
 - Can you tell me what you notice first on this page?
 - What is this page about?
-- How long would you expect it to take to ask a question?
+- Would you expect the VA to reply to you right away, or, take a few days or weeks to reply with an answer?
+- And how long would you expect it to take for **you** to ask your question?
 
-For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question.
+**For the rest of our conversation, I’d like you to pretend that you need to ask the VA a question.**
 
-Let's say you'd like to learn whether you're eligible for Post-9/11 GI Bill benefits through the VA.
+**Let's say you'd like to learn whether you're eligible for Post-9/11 GI Bill benefits through the VA.**
 
-- Are you familiar with the GI Bill?
+- **Are you familiar with the GI Bill?**
 
-Okay, great. The Post-9/11 GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, might qualify for these education benefits.
+**Okay, great. The Post-9/11 GI Bill helps you pay for school or job training. People who served on active duty after September 10, 2001, might qualify for these education benefits.**
 
 I'll remind you of this scenario as we go along.
 
@@ -543,7 +544,7 @@ I’d love to spend a little time reflecting before we finish.
   - `If they think yes` Ask VA is actually only for non-urgent needs. If you need confidential help, you should call the Veterans Crisis Line. Or if it's an emergency, you should call 911.
   - Was that clear to you from what we looked at together?
 
-Another thing I'd like to talk about is how long this proces felt.
+Another thing I'd like to talk about is how long this process felt.
 
 - While you were filling out the form, did you know how much longer you had left?
   - `IF YES`
@@ -557,6 +558,12 @@ Another thing I'd like to talk about is how long this proces felt.
 `If needed` I'll show you an example of what I mean.
 
 - [Prototype: Start at Category](https://www.figma.com/proto/SYvmqLiAKaGtIcePSRRimB/Ask-VA-Prototype-R2?type=design&node-id=226-17460&t=PtpWil4syRj0SOTI-1&scaling=min-zoom&page-id=3%3A3&starting-point-node-id=203%3A15692)
+
+I'm curious, what if something came up for you while you were halfway done...
+
+- Would you be able to save your question and come back to it later?
+- When you were ready to finish, where would you find the question you left off on?
+- Would you trust that your information would be saved if you left it halfway finished?
 
 <details>
   <summary>Key things to notice</summary>
