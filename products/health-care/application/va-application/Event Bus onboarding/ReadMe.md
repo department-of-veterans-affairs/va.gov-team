@@ -2,6 +2,11 @@ This folder is to store all artifacts related to the Event Bus onboarding.
 
 #### Resources
 - [Event Bus Developer Portal](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/get-support/)
+     - [Enterprise Event Bus - Diagram](https://github.com/department-of-veterans-affairs/VES/blob/master/research/Event%20Bus/Diagrams/future%20state%20whole.png)
+     - [Events flow through the Event Bus - Diagram](https://github.com/department-of-veterans-affairs/VES/blob/master/research/Event%20Bus/Diagrams/Data%20Flow.jpeg)
+     - [Steps to become a Consumer of Events](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/consume-events/)
+     - [Steps to become a Producer of Events](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/produce-events/)
+     - [Event Catalog on CODE VA](https://code.va.gov) - MUST be on the VA Network to access)
 - Slack channel
      - [#ves-event-bus](https://dsva.slack.com/archives/C042ZQ7JUAX)
 
