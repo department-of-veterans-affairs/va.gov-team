@@ -352,8 +352,8 @@ Color Contrast
 - Use color contrast checkers like [WebAIM's Contrast Checker](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=E9F1FC) or [APCA's Contrast Checker](https://www.achecks.org/apca-wcag-3-accessible-colour-contrast-checker/) to assess and improve visual clarity.
 - High contrast benefits users with low vision, color blindness, and those viewing the dashboard in bright sunlight.
 
-*Ineffective Contrast*: A red progress bar on a light pink background can be difficult to read for users with red-green color blindness.
-**Effective Contrast**: Change the progress bar color to dark blue for improved readability.
+   - *Ineffective Contrast*: A red progress bar on a light pink background can be difficult to read for users with red-green color blindness.
+   - **Effective Contrast**: Change the progress bar color to dark blue for improved readability.
 
 Font Selection
 - Avoid decorative or overly stylized fonts that can be difficult to read, especially for users with dyslexia or visual processing difficulties.
@@ -364,8 +364,8 @@ Font Selection
 - Use system fonts whenever possible, as they are typically optimized for screen readers used by visually impaired users.
 - If using custom fonts, ensure they can be substituted by user-defined fonts in assistive technologies.
 
-*Ineffective Font*: Script fonts can be difficult to read, especially at small sizes. 
-**Effective Font**: Use a clear sans-serif font like Arial at a minimum of 16px with adequate line spacing.
+   - *Ineffective Font*: Script fonts can be difficult to read, especially at small sizes. 
+   - **Effective Font**: Use a clear sans-serif font like Arial at a minimum of 16px with adequate line spacing.
 
 Simplicity Matters
 - Remove unnecessary visual distractions such as animations, blinking elements, and excessive use of graphics.
@@ -373,15 +373,16 @@ Simplicity Matters
 - Keep the dashboard clean, uncluttered, and focused on essential information.
    - Users should be able to locate the information they need quickly and easily.
 
-*Ineffective Design*: A dashboard with animated icons, flashing text, and a busy background image can be overwhelming. 
-**Effective Design**: Use static icons, clear text labels, and a solid background color with minimal graphics.
+   - *Ineffective Design*: A dashboard with animated icons, flashing text, and a busy background image can be overwhelming. 
+   - **Effective Design**: Use static icons, clear text labels, and a solid background color with minimal graphics.
 
 Responsive Design
 - Ensure the dashboard adapts to different screen sizes and devices (desktops, tablets, smartphones) using responsive design techniques.
 - Responsive layouts allow users with various devices to access the information seamlessly.
 - Consider element arrangement to maintain readability in both portrait and landscape orientations.
 
-*Ineffective Design*: A dashboard designed only for large desktop screens becomes unusable on smaller devices. Text and buttons become too small to interact with. **Effective Design**: The dashboard resizes and reorganizes elements automatically based on the screen size, ensuring optimal readability and functionality across devices.
+   - *Ineffective Design*: A dashboard designed only for large desktop screens becomes unusable on smaller devices. Text and buttons become too small to interact with.
+   - **Effective Design**: The dashboard resizes and reorganizes elements automatically based on the screen size, ensuring optimal readability and functionality across devices.
 
 Color Coding 
 - Avoid relying solely on color to differentiate data points.
