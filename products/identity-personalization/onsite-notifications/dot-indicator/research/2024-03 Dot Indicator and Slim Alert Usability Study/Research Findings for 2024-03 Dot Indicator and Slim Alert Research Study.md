@@ -227,7 +227,7 @@ Codepen:
 
 Originally we wanted 16 participants (with 12 minimum sessions completed) to be the goal. After difficulty with no shows, cancellations, and candidates that didn't meet all our desired criteria, we ended up with 22 participants as the recruitment goal. Ultimately we had 15 participant sessions. 
 
-Time of service, branch, location type, education, age, gender, and sexual orientation were not considerations for recruitment due to much of the focus being on web usability. Recruitment of assistive technology users, as well as users with cognitive impairments and colorblindess, were priorities. The related recruitment goals (which unfortunately were not met): 
+Time of service, branch, location type, education, age, gender, and sexual orientation were not considerations for recruitment due to much of the focus being on web usability. Recruitment of assistive technology users, as well as users with cognitive impairments and colorblindness, were priorities. The related recruitment goals (which unfortunately were not met): 
 - Screen reader: 3+
 - Magnification/zoom and font resizing: 3+
 - Cognitive impairment: 2
