@@ -8,3 +8,9 @@ Our team has documented the steps and guidelines on we have set up DataDog RUM d
 
 ### Definition of the dashboard 
 
+Performance Summmary Dashboard
+
+- Core Web Vitals:
+   - Largest Contenful Paint (LCP) - measures how long it took for the largest image ot text block to appear when the page starts to load.
+   - Cumulative Layout Shift P75 - represents visual stability and how often users adjusts to the unexpected layout shifts.
+   - Interaction to Next Paint P75 - 
