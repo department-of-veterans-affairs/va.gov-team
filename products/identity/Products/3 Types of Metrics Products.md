@@ -41,7 +41,7 @@ We will use the SLO in order to create Login SLA -- Service Level Agreements -- 
 
 [Login SLA Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLA.md)
 
-Related to SLO and SLO -- but not yet scoped out fully -- are Incident Responses: what happens when a non-emergency issue starts cropping up. How do we respond? How do we communicate our response? These will eventually be baked into the SLAs.
+Related to SLO and SLA -- but not yet scoped out fully -- are Incident Responses: what happens when a non-emergency issue starts cropping up. How do we respond? How do we communicate our response? The answers to those questions should eventually be baked into the SLAs.
 
 ## Authorization Metrics
 Authorization metrics (AKA "External Auth Data Reporting") are the metrics we are sharing with VA leadership surrounding the full authorization process, which is defined as a person doing the following: 
