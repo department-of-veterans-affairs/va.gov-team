@@ -47,7 +47,7 @@ It begins with a capital letter, includes at least one main clause, and has an e
 |---|---|
 |  |  |
 
-_Note:_ Phrases are okay in headlines, subheads, and bullets within a list. [ADD EXAMPLE]
+_Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD EXAMPLE]
 
 ## Words and phrases
 
