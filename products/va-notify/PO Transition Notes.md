@@ -46,7 +46,7 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
  
     
 **MHV on VA.gov**
-* Appointment Reminders
+* Appointment Reminders - OCTO POC for Appointments Kay Lawyer (on slack)
   - Once MHV preference and email contant information is stored in VA Profile, VEText can begin sending email appointment reminders in addition to SMS.
   - The MHV preference selection will still live on MHV, but once the preference selection is moved to VA.gov (notification settings), a Veterans can choose between email and SMS appointment reminders in one location. (VA.gov)
   - VA Profile will have pre-populated preferences from MHV
@@ -57,7 +57,7 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
     + VA Profile ticket to store  PHI/PII permission
     + A separate ticket with VA.gov authenticated experience will be needed to display the PHI permission in the notifications settings page.
     + In support of the PHI permission work, VA Notify plans to work on personalization redaction to remove any PHI/PII form our DB.  More about that [here](https://app.zenhub.com/workspaces/va-notify-620d21369d810a00146ed9c8/issues/gh/department-of-veterans-affairs/vanotify-team/1107)
-* Secure Message Notifications
+* Secure Message Notifications - OCTO POC for SM is Janie Tankard-Carnock (on slacl)
   - VA Notify currently sends push notifications for secure messaging through the flagship mobile app
   - Once the secure message preference lives in VA Profile, the SM team can onboard to VA Notify to send email notifications.
       + Ensure the email content for the notification points to secure messaging on va.gov
@@ -67,7 +67,7 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
   - VA Profile will have pre-populated preferences from MHV
   - Sync with VA Profile and Authenticated Experience to launch notifications when the preference is available on VA.gov
   - * Note: * The preference for push notification lives on the app in the mobile device.  The preference for email will live on VA.gov.  Right now we send a push notification for every secure message and most "fall on the floor" as they don't have the app installed.  Is there a smoother way to do this?  
-* Medical Records and Images Notifications
+* Medical Records and Images Notifications  - OCTP POC is Kay Lawyer or Marci McGuire
   - Once this preference lives in VA Profile, the MR team can onboard to VA Notify to send email notifications.
       + Ensure the email content for the notification points to medical records/images on va.gov
       + Ensure the content is reviewed by by someone on the CAIA team
@@ -80,11 +80,11 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
   - A preference for this exists in VA.gov
 
 **Notifications Portal**
-* IAM Provisiong - Notify Portal uses IAM SSOi for access control.  We are working with extending our integration with IAM such that when user credentials are removed from IAM, we automatically remove the user from our system.
+* IAM Provisioning - Notify Portal uses IAM SSOi for access control.  We are working with extending our integration with IAM such that when user credentials are removed from IAM, we automatically remove the user from our system.
 
 * Dashboard - We are working on a dashboard in our portal to display metrics that are important to our users.  This is not meant to replace Domo, but augment it.
 
-* Roles
+* Roles - At the moment we have 4 roles:  Viewer, Editor, Service Admin, and Platform Admin.  
 
 * Push Notification Templates - We will working on adding push notifications templates to our portal
 
@@ -126,7 +126,10 @@ This is supported by the platform, but hasn't been used.  The team would need to
 * CC for Emails
   - Like any email platform we need to have the ability to cc another email address on an email notifications.  We will need to ensure we come up with guidance so this feature is not misused.  I see this being useful for Veterans who want to cc their representatives or vice versa.
 
-
+* Notification Portal Updates
+  - It would be helpful for leadership and businesses to be able to see/search on what notifications are already sending through VA Notify in case there's overlap or lessons to be learned for a similar notification. A way to solve for this would be to have the portal, in production, be searchable for key words in content that may bring up a notification you wouldn't have connected to a particular service name/notification title. This may not be the right solution as it may cause the team to maintain two code bases (staging and prod), but I would like to see team address this problem.
+  - Assigning Service Admins in Portal.  In the coming months we plan to assign Service Admins to Services where it makes sense.  A Service Admin will act as the "admin" (sorry, I had to) for the Service.  They will be able add users to their services, add custom no-reply email addresses, etc.  This will give users greater power to self serve.
+ 
 
 
  ### Random Musings and Strong Opinions held Loosely
@@ -136,5 +139,6 @@ This is supported by the platform, but hasn't been used.  The team would need to
 
  **VA Notify should stay as pass through system**
 
- 
+ **Notification Portal**
+  - It would be great to have Privacy Officers login the portal to review content.  The technical portion of this fairly straightforward,but getting Privacy Officers onboard with this idea might be a little tricky
 
