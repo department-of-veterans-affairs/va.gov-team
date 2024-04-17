@@ -1,20 +1,41 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 30
+Period - 04/24/2024 - 05/07/2024
+### Sprint goals 
+- **Expedited**
+ - **2023 Prioritized Work**
+    - 526ez sync with paper version 
+       - Toxic Exposure
+         - [ ] JSON schema refactor #80718
+         - [ ] Continue build on TE pages - Gulf War 1990 / 2001 / Herbicides Page ???
+         - [ ] generatePdf hook up #80773
+         - [ ] Other work towards first iteration
+         
+- **2024 Prioritized Work**
+   - Improvement in Submission and Post Submission Experience
+      - Ask UXers/Designers
+  - Sync for form 526
+      -  Kate is working identify the highest priority work that can begin and has no tech discovery
+      -  Pick up the highest priority item
+          
+- **Stretch Goal**
+    - Audit for 526ez and ancillary forms for all paper to digital form changes
+          - [ ] Complete technical discovery and review with stakeholders
+          - [ ] Create tickets in the backlog for updates identified
+
+
 ## Sprint 29
 Period - 04/10/2024 - 04/23/2024
 ### Sprint goals 
 - **Expedited**
  - **2023 Prioritized Work**
-     - Lighthouse Migration 
-       - Decommission migrated endpoints to EVSS
-           - [ ] Intent to File
-       - Launch
-           - [ ] BRD
     - 526ez sync with paper version 
        - Toxic Exposure
          - [ ] Continue build on TE pages - Gulf War 1990 / 2001    
          - [ ] Contract for Toxic Exposure fields between FE and BE 
          - [ ] Start work on data transformation for the new Toxic Exposure fields
+         - [ ] generatePdf hook up #80773
       - Audit for 526ez and ancillary forms for all paper to digital form changes
           - [ ] Complete technical discovery and review with stakeholders
           - [ ] Create tickets in the backlog for updates identified
