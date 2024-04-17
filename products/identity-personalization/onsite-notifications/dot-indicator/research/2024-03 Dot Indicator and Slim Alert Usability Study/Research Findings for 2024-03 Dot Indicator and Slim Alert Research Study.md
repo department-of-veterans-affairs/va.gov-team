@@ -100,7 +100,7 @@ We hypothesize that:
 
 Labels: My VA - Dot indicator, My VA - Numbered badge indicator 
 
-A strong preference for the numbered badge, which indicated the amount of items that need user attention, versus the dot indicator (a notification type that applies for 1+ items) was expressed by the majority of participants ((9 of 15 participants, but only 11 actually assessed them). 
+A strong preference for the numbered badge, which indicated the amount of items that need user attention, versus the dot indicator (a notification type that applies for 1+ items) was expressed by the majority of participants (9 of 15 participants, but only 11 actually assessed them). 
 
 > "Well [the badge is better], 'cause it actually tells me how many that I have unread because if I'm using just a red dot system, I may think there's only one...and I'll go to the first one and then I'll think that's it and then I'll get out. But if I know there's two, I'm looking for another one." (P6)
 
