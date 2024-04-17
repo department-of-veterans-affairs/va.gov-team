@@ -1,3 +1,3 @@
-section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,error-scenario-3,error-message-3,notes,notes-on-updates
+section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,error-scenario-3,error-message-3,label-variations,notes-on-updates
 /patterns,/ask-users-for,/social-security-number,social-security-number,Social Security number,You must enter a Social Security number or VA file number,,No entry,Enter a valid 9-digit Social Security number (dashes allowed),,,,,,
 /patterns,/ask-users-for,/social-security-number,va-file-number,VA file number,,,,,,,,,,
