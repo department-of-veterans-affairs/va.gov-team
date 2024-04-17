@@ -195,6 +195,9 @@ Okay, now we're on this page.
 - Can you describe this page to me?
 - What would you do next on this page?
   - How do you ask the VA a question on this page?
+- Is there anything else you want to tell me about this page?
+
+Okay great. Throughout the session, feel free to point out things on the screen, even if I don't ask you a question about them.
 
 Let's go ahead and click `Ask a new question.`
 
