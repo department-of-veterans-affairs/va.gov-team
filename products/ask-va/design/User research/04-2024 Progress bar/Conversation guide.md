@@ -292,7 +292,10 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 > Screen: Topic
 
 - Can you show me what you would do on this page?
-- [If they choose incorrectly] It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
+- `If needed` Would you like me to remind you of the scenario?
+  - We're imagining that you'd like to know if you're eligible for Post 9/11 GI Bill benefits.
+  - Which option would you choose on this page?
+- `If they choose incorrectly` It looks like you tried to choose `option`. I'm curious, what made you decide to choose `option`?
 
 Okay great. Let’s choose `Post-9/11 GI Bill (Chapter 33)` and then go to the next page.
 
