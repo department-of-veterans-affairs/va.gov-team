@@ -1,6 +1,6 @@
 |Number|Form|Section|Question|Answer|
 |---|---|---|---|---|
-|1|FMP2|General|What happens when the provider box is checked?|We go to where the payment is going. Trigger to pay the Veteran or Vendor (remittance address). Manual trigger to manually select (whether it’s on the form or in file)|
+|1|FMP2|General|What happens when the provider box is checked?|We go to where the payment is going. Trigger to pay the Veteran or Vendor (remittance address). Manual trigger to manually select (whether it’s on the form or in file).|
 |2|FMP2|General|What do you do when provider address is hard to read or not there?| It’s in the claim itself -  most people provide when they have a claim (supporting documentation that shows where the bill should be sent). Very rare for there to be a first time provider - One off situation that we don’t have a clear place to send to, if it’s not in mailing address, it’s in the supporting documents|
 |3|FMP2|General|Should we repeat the mailing and home address, or are they redundant?|Veterans will also get an EOB to show they got services. Get confirmation that services were rendered and payment was provided. When hard to read - emailing letter and leveraging email vs rejecting it and starting over from begining|
 |4|FMP2|confirmation page|What is narrative description?| Treatment did you provide? More info the better, include diagnosis - CPT code expedites it, but not everyone uses those|
