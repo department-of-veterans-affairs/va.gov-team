@@ -22,10 +22,12 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 
 ## What's In Scope: 
-
+* Service Level Objectives
+  * How we will display the SLO dashboards to other teams
+  * How we will display the SLO dashboards to Veterans.
 * Service Level Agreements
   * How we will publish the agreements to other teams.
-  * How we will publish the agreements to Veterans
+  * How we will publish the agreements to Veterans.
 
 
 
@@ -39,8 +41,8 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 ## Use Cases:
 - As a Veteran, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
-- As a VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
-- As a Veteran, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
+- As a Veteran, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
+- As a VA Team Member, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
 - As a VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
 
 
@@ -80,6 +82,8 @@ We do not currently have any current SLAs for VA.gov logins, and publishing them
 
 
 ## Milestones:
+* SLA are agreed-upon.
+* 
 
 
 
