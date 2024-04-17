@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 4/17/2024
+- Updated error pages for Pre-Check-in to always display the same accordion content regardless of appointment modality
+    - [Ticket 72859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
+
 ## 4/8/2024
 - Updated CHIP & LoROTA lambdas & layer to node18.
     - [Ticket 79211](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
