@@ -1,7 +1,7 @@
 
-# VA content brief for VA payments, debts, and copay bills
+# VA content brief for VA claims
 
-Created by the sitewide content and IA team for teams working on products related to VA payments, debts, and copay bills.
+Created by the sitewide content and IA team for teams working on products related to VA claims.
 
 **Have questions or feedback on this brief or want to add something?**
 - Send us a slack in #sitewide-content-ia.
