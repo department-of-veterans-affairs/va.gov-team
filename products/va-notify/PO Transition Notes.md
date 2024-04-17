@@ -10,7 +10,8 @@
 - [Business Intake board](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/board)
 - [Domo Dashboard](https://va-gov.domo.com/page/2040841289)
 - [On-call support](https://docs.google.com/spreadsheets/d/1xWzSqRzYpQmQzQGeTud2HCOICHK_EiQc0lGvnHznsZI/edit?usp=sharing)
-- [Find a Privacy Officer](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx) 
+- [Find a Privacy Officer](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx)
+- [Notification Preference Metrics](https://app.powerbigov.us/groups/me/apps/15c73e0e-e434-43b7-8efa-3b46dcd859a2/reports/c857d952-e8af-457a-82bc-95b62340e8cf/ReportSection) Hosted by VA Profile, so you may need to request access.
   
 
 **Compensation and Pension Notifications**
@@ -46,18 +47,16 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
  
     
 **MHV on VA.gov**
-* Appointment Reminders - OCTO POC for Appointments Kay Lawyer (on slack)
+* Appointment Reminders - **OCTO POC for Appointments Kay Lawyer** (on slack)
   - Once MHV preference and email contant information is stored in VA Profile, VEText can begin sending email appointment reminders in addition to SMS.
   - The MHV preference selection will still live on MHV, but once the preference selection is moved to VA.gov (notification settings), a Veterans can choose between email and SMS appointment reminders in one location. (VA.gov)
   - VA Profile will have pre-populated preferences from MHV
   - Email appointment reminder content [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58378)
   - Link to [MHV intake for VA Profile Preferences](https://jira.devops.va.gov/browse/VAPROPARTC-618)
   - MHV sends email confirmations that contain PHI/PII.  VA Notify meet with VHA Privacy Officers and the OGC to allow Veterans to choose the include PHI/PII in unsecured notifications.  
-    + Link to signed MOU for PHI/PVAII permissions
-    + VA Profile ticket to store  PHI/PII permission
     + A separate ticket with VA.gov authenticated experience will be needed to display the PHI permission in the notifications settings page.
     + In support of the PHI permission work, VA Notify plans to work on personalization redaction to remove any PHI/PII form our DB.  More about that [here](https://app.zenhub.com/workspaces/va-notify-620d21369d810a00146ed9c8/issues/gh/department-of-veterans-affairs/vanotify-team/1107)
-* Secure Message Notifications - OCTO POC for SM is Janie Tankard-Carnock (on slacl)
+* Secure Message Notifications - **OCTO POC for SM is Janie Tankard-Carnock** (on slack)
   - VA Notify currently sends push notifications for secure messaging through the flagship mobile app
   - Once the secure message preference lives in VA Profile, the SM team can onboard to VA Notify to send email notifications.
       + Ensure the email content for the notification points to secure messaging on va.gov
@@ -67,12 +66,17 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
   - VA Profile will have pre-populated preferences from MHV
   - Sync with VA Profile and Authenticated Experience to launch notifications when the preference is available on VA.gov
   - * Note: * The preference for push notification lives on the app in the mobile device.  The preference for email will live on VA.gov.  Right now we send a push notification for every secure message and most "fall on the floor" as they don't have the app installed.  Is there a smoother way to do this?  
-* Medical Records and Images Notifications  - OCTP POC is Kay Lawyer or Marci McGuire
+* Medical Records and Images Notifications  - **OCTP POC is Kay Lawyer or Marci McGuire**
   - Once this preference lives in VA Profile, the MR team can onboard to VA Notify to send email notifications.
       + Ensure the email content for the notification points to medical records/images on va.gov
       + Ensure the content is reviewed by by someone on the CAIA team
       + Ask the MR team if they are interested in utm tracking and callbacks
   - VA Profile will have pre-populated preferences from MHV
+ * PHI/PII Permission
+   - OGC, the VA.gov system steward, a few VHA Privacy Officers and MHV agreed to have Veterans give their permission to send notifications including their PHI/PII over unsecure channels.
+   - MOU was signed in July 2023
+   - This allows us to include more information in notifications like, appointment reminders.
+   - VA Profile has agreed to store this permission, but at the moment, they are awaiting ISSO approval.  [Link to VA Profile ticket](https://jira.devops.va.gov/servicedesk/customer/portal/12/CMDMRP-4905)
 
 **BVA**
 * Hearing Reminders
