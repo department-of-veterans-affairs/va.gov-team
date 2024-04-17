@@ -1,4 +1,4 @@
-# VA content brief for VA disability compensation
+# VA content brief for VA email content
 
 Created by the sitewide content team for teams working on email content. This brief focuses on emails using the VA Notify system and templates.
 
