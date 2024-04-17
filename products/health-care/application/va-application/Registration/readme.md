@@ -54,7 +54,7 @@ Provide a pathway for Veterans to Register for health care when they are unable 
 
 - Source: TBD
 
-**Key Result** Introduce Registration application submissions online to reach 10% of overall submissions.
+**Key Result** Introduce Registration application submissions online to reach 5% of overall submissions.
 
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
