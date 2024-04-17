@@ -24,7 +24,7 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
 >     - Patrick Bateman
 >          - thanks @Heather Justice. this looks great, no questions.
 - Shared with HEC Stakeholders on 4/10/2024, receiving verbal excitment and approvals
-- For Veterans with 40% or lower disability rating, we will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits.  If they choose service-connected care only, we will display an on-screen message directing them to call, mail in or visit a facility to register for Service-connected care.
+- For Veterans with 40% or lower disability rating, we will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits.  If they choose service-connected care only, we will display an on-screen message directing them to call, download the PDF form and mail in or visit a facility to register for Service-connected care.
      - Priority of contact methods confirmed with HEC stakeholders on 4/10/2024 (#1 call, #2 mail, #3 visit in-person at facility)
      - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
 
