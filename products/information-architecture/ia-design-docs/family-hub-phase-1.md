@@ -26,13 +26,12 @@ The family member hub will contain 6 subhubs.
 
 One of the subhubs will actually just be the home loans page, which we need to migrate in family hub.
 
-We will also include the pages for Program of Comprehensive Assistance for Family Caregivers (PCAFG) and CHAMPVA in the family member hub structure for phase 1.
+We will also include the pages for Program of Comprehensive Assistance for Family Caregivers (PCAFG) and CHAMPVA in the family member hub structure for phase 1. We may be able to include the surviving spouse home loan program pages pending stakeholder agreement. 
 
-![Phase 1 sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/453b4bda-6dfa-4601-88ec-a3511a62577c)
-
+![page structure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/6b987ae4-46e5-43a1-b594-708ff6e995b5)
 
 ## <a name="url"></a>URLs and breadcrumbs
-![sitemap with urls](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/aac3c208-277f-4eda-b52a-0a08b0c6f107)
+![sitemap with URLs](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b53551b9-706d-4155-b2b5-de1697b16776)
 
 
 **1) Family member hub - CHANGE**
@@ -56,8 +55,8 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 - URL: va.gov/family-and-caregiver-benefits/life-insurance/
 - Breadcrumb: Home > [Family member h1] > H1
 
-**6) Home loan - CHANGE**
-- URL: va.gov/family-and-caregiver-benefits/surviving-spouse-home-loan/
+**6) Housing assistance - CHANGE**
+- URL: va.gov/family-and-caregiver-benefits/housing-assistance/
 - Breadcrumb: Home > [Family member h1] > H1
 
 **7) Burials / memorials - NEW**
@@ -81,6 +80,12 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 - Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
 - NOTE: depending on timing, we will either be adding this new digital form directly to family member hub, or launching in health and then redirecting.
 
+**10) Surviving spouse home loan program - CHANGE**
+- URL: va.gov/family-and-caregiver-benefits/housing-assistance/surviving-spouse-home-loan
+- Breadcrumb: Home > [Family member h1] > [Housng H1] > H1
+- NOTE: this is pending stakeholder approval from Danielle
+
+
 
 ## <a name="nav"></a>Entry points <br>
 
@@ -97,19 +102,23 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 
 
 3. **Left Nav - ADD** -
-For phase 1, we will have a left nav for the subhubs and PCAFG/Champva. Note the suggested order below, but open to coordination with content. These are not the final labels.
+For phase 1, we will have a left nav for the subhubs and PCAFC/Champva/HomeLoan. Note the suggested order below, but open to coordination with content. These are not the final labels.
 
 - Health care and disability compensation
    - CHAMPVA
+      - CHAMPVA application
    - Program for Comprehensive Assistance for Family Caregivers
+      -PCAFC application
 - Survivors compensation and accrued benefits
 - Education and career benefits
-- Home loans for surviving spouses
+- Housing Assistance
+      - Survivi ng spouse home loan
 - Life insurance
 - Burial benefits and memorials
-   
 
-![screenshot of left nav order](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/c9f52772-5c00-4d86-847a-20b641c93fc3)
+![left nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/c31df687-1ab0-45a6-b31a-177d0a8e0d04)
+
+
 
 
 4. **Crosslinks - ADD**
@@ -257,7 +266,7 @@ We'll need to create a redirect ticket after we finalize H1s (and thus urls). Al
 | Current URL                                                                                        | Redirect to                                                                                                                   |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | https://www.va.gov/family-member-benefits/                                                         | https://www.va.gov/family-and-caregiver-benefits/                                                                             |
-| https://www.va.gov/housing-assistance/home-loans/surviving-spouse/                                 | va.gov/family-and-caregiver-benefits/surviving-spouse-home-loan/                                                              |
+| https://www.va.gov/housing-assistance/home-loans/surviving-spouse/                                 | va.gov/family-and-caregiver-benefits/housing-assistance/surviving-spouse-home-loan                                               |
 | https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers/          | va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/                    |
 | https://www.va.gov/family-member-benefits/apply-for-caregiver-assistance-form-10-10cg/introduction | va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/ |
 | https://www.va.gov/health-care/family-caregiver-benefits/champva/                                  | va.gov/family-and-caregiver-benefits/health-and-disability/champva/                                                           |
