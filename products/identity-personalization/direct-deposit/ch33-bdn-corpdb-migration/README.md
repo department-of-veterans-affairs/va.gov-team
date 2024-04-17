@@ -115,7 +115,7 @@ For both 526 (Disability Comp) and 527 (Pension):
   - This should be done after the April 20th launch, as this information isn't true until the edu direct deposit data migrates to CorpDB.
 
 ## Outstanding questions
-
+Answers in italics 
 ### Code
 
 - Exactly what needs to be updated, and how long will this take? _see timeline below, we should be running again by mid May 2024_
@@ -125,16 +125,16 @@ For both 526 (Disability Comp) and 527 (Pension):
 ### Testing/Launch
 
 - How can we adequately test this code end-to-end? _We will have a round of UAT testing with users who have C&P, EDU, both benefits, and neither of these benefits._ 
-- Is there any way to do a phased launch (likely no), or do we have to cut over at 100%?
-     - when shutting down the page we'll have to flip that to 100%
-     - for migrating to the single form, we could do a phased launch 
-- Given that BDN is migrating to CoprDB on a Saturday, how should we handle this on the frontend so we are not updating our interface on a Friday/over a weekend when no one is here to monitor the launch? 
+- Is there any way to do a phased launch (likely no), or do we have to cut over at 100%? _Yes_
+     - when shutting down the page we'll have to flip that to 100% _We're shutting down the entire page on 4/26 given concerns uncovered in our QA testing. We've [documented launch concerns here](https://docs.google.com/document/d/1EQmmak_0xuhhxS7iFp0AxUV2qW07OAGor5aWtUUwusc/edit?usp=sharing)_
+     - for migrating to the single form, we could do a phased launch _Yes_
+- Given that BDN is migrating to CoprDB on a Saturday, how should we handle this on the frontend so we are not updating our interface on a Friday/over a weekend when no one is here to monitor the launch? _This is no longer a concern as we've determined the entire page will need to be turned off starting on the 26th before we can begin UAT testing on the 29th_
 
 ### Contact centers
 
 - What capabilities, if any, will the contact centers have to update edu information after April 20th?
 - As a result, how should we be directing people on VA.gov?
-#### _ANSWERS_ 
+#### _Answers for CC_ 
 - _Contact centers will be able to update the information, we've been instructed to send veterans to the national hotline and the call center will forward the data to the Education Call Centers (ECC)_
 
 
