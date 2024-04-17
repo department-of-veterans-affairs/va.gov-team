@@ -172,9 +172,11 @@ From travel claims page:
 2. Do you think you could **start that appeal process from here**?  
     1. If **yes, how** would you do that?
         1. Probe: What **information would you need** to make that appeal?
-    2. If no: If you **can’t** start it from here, but you still wanted to appeal, **how** would you do that? 
+    2. If no: If you **can’t** start it from here, but you still wanted to appeal, **how** would you do that?
 
-3. Lastly, looking at this page and this prototype as it relates to your experience submitting for travel reimbursement from the VA, do you have any feedback or insight you wanted to share that we haven’t already discussed?
+3. I asked you this when we started, but circling back to it now that we have spent some time on this page, what would you want to be able to do on here that you **can’t do now on this page**?
+
+4. Lastly, looking at this page and this prototype as it relates to your experience submitting for travel reimbursement from the VA, do you have any feedback or insight you wanted to share that we haven’t already discussed?
 
 
 ## **Consent to use video clips**
