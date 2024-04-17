@@ -125,6 +125,8 @@ ________________________________________________________________________________
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
         - 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
+- **GOAL: Address Tech Debt**
+    - 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
 
 </details>
 
@@ -157,14 +159,14 @@ ________________________________________________________________________________
   
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ ✔️ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
-    - ❗ ✔️ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+    - ✔️ ❗ 🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79878)
+    - ✔️ ❗ 🟩 [[CHIP] Update AWS lambdas from node 14 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
     - **Sub Goal: Support the ATO**
-        - ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
+        - ✔️ ❗ 🟩 [Create PCI Thread Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery - Veteran Direct Community Care Scheduling**
         - ✔️ 🟥 [Create agenda for EPS-VAOS meeting on Tuesday ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80196)
-        - 🟥 [Discovery for Community Care ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79927)
+        - ✔️ 🟥 [Discovery for Community Care ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79927)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
         - ✔️ 🟩 [[FE] Changes following functional review of travel workflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79719)
@@ -178,14 +180,13 @@ ________________________________________________________________________________
      - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [[FE] Pre-Check-In CVT & VVC Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72860)
         - ✔️ 🟩 [[FE] Pre-Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72857)
-        - 🟩 [[FE] Pre-Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
+        - ✔️ 🟩 [[FE] Pre-Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
     - **Sub Goal: [New Landing Page with Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390)**
-        - 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
+        - ✔️ 🟩 [[FE] Re-base the Unified Branch ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76604)
         - 🟦 [[BE] Implement get_appointments method in service class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68696)
            - Some work completed in previous sprints, need to determine what's left
-        - 🟦 [[BE] Implement VAOS Appointment Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
-        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
-        - 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
+        - ✔️ 🟦 [[BE] Implement VAOS Appointment Serializer ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71787)
+        - ✔️ 🟦 [[BE] Sanitize identifier from VAOS appointments payload ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71999)
         - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
            - Pulled in to sprint on 4/15 and targeting completion by EOS
         - ✔️ 🟥 [Update Wireframes for Unified Check-in Experience for Additional Supported Modalities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79862)
@@ -212,7 +213,6 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Add error handling to day-end-summary script.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80733)
         - ✔️ 🟨 [[DevOps] Specify day-end-summary workflow requirements (in checkin-devops) in requirements.txt, rather than GHA workflow. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79787)
         - ✔️ 🟨 [[DevOps] Add error handling to day-end-summary script. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80733)
-        - 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
 
 ______________________________________________________________________________________________________________________________________________________
         
