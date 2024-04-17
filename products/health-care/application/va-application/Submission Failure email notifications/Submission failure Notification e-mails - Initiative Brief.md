@@ -93,7 +93,13 @@ Data sources
 ---
    
 ## Screenshots
-No UI Changes.  
+### Before - using GovDelivery
+[- Screenshot of email](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0FyQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6beac59b71f6abd850c42092d2c1d36e2372a5e0/Screenshot%202024-04-02%20at%2010.22.04%20AM.png)
+
+### After - Using VA Notify
+- Template
+     - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/91373561-6b09-4e5c-82aa-76144cfae6a7)
+
 
 
 ---
