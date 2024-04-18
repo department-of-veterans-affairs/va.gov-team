@@ -46,8 +46,9 @@ Monitors for each product are described within product folders. e.g.
 | [VA.gov Homepage](#vagov-homepage) | [Unauthed React healthcare widgets](#unauthed-react-widgets) | . |
 | [Promo Banner](#promo-banner) | [Veterans Crisis Line modal](#veterans-crisis-line-modal) |  .  |
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
-| [Resources & Support detail page](#resources-and-support-detail-page) |  . | . |
+| [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
+| [Support Services](#resources-and-support) | . | .  |
 | [VA Benefits taxonomy](#va-benefits-taxonomy)
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
@@ -78,6 +79,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     - [ ] Checklist
     - [ ] Video list
     - [ ] Image list
+    - [ ] Support Services
 - [ ] Full width alert - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All
 - [ ] Promo banner - Currently published examples: https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All
 - [ ] Outreach Hub (Until deprecation) - https://www.va.gov/outreach-and-events/outreach-materials/
@@ -233,22 +235,6 @@ Events may be single or recurring, and are either:
    * Event recurrences are tricky to manage in terms of listing / filtering logic, and Q3 2022, PW team is working to close out backlog of related bugs.
 
 
-## FAQ page
-
-**What is:**
-
-A Drupal content type that is used to aggregate [Q&A nodes](#qa---single). Often published with a URL path in /resources/, indistinguishable to front-end users from other [Resources & Support](#resources-and-support-detail-page) content.
-
-**Example content:**
-* URL: [https://va.gov/resources/signing-in-to-vagov](https://va.gov/resources/signing-in-to-vagov) 
-* CMS: [https://staging.cms.va.gov/resources/signing-in-to-vagov](https://staging.cms.va.gov/resources/signing-in-to-vagov) 
-
-**Governance / Editor guidance:**
-* Primary editors: Sitewide Content team
-
-**More info:**
-* COPE effort to make Q&A reusable on [Resources & Support](#resources-and-support-detail-page) = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
-
 
 ## Find a form / VA Forms
 
@@ -386,8 +372,33 @@ As of Aug 2023, there is intent to deprecate the Outreach Materials Library: htt
 **Governance / Editor guidance:**
 * Primary editors: Sitewide Content team
 
+## Resources and support
+Resources & Support is a broad category of content managed by CAIA (Sitewide Content Accessibility & IA team). R&S content on VA.gov all appear within the https://www.va.gov/resources/ area of the site, and use the `/resources` path. However, within Drupal, content in this area can be created using multiple different content types, including (in order of usage): 
+* FAQ
+* Resources & Support Detail pages
+* Reusable Q&A
+* Image list
+* Media list
+* Checklist
+* Support service
 
-## Resources and support Detail Page
+### FAQ page
+
+**What is:**
+
+A Drupal content type that is used to aggregate [Q&A nodes](#qa---single). Often published with a URL path in /resources/, indistinguishable to front-end users from other [Resources & Support](#resources-and-support-detail-page) content.
+
+**Example content:**
+* URL: [https://va.gov/resources/signing-in-to-vagov](https://va.gov/resources/signing-in-to-vagov) 
+* CMS: [https://staging.cms.va.gov/resources/signing-in-to-vagov](https://staging.cms.va.gov/resources/signing-in-to-vagov) 
+
+**Governance / Editor guidance:**
+* Primary editors: Sitewide Content team
+
+**More info:**
+* COPE effort to make Q&A reusable on [Resources & Support](#resources-and-support-detail-page) = [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/8630) 
+
+### Resources and support Detail Page
 
 **What is:**
 
@@ -406,7 +417,7 @@ A page that contains in-depth information about a single resource available to V
 * 2022 Sitewide Content research project around clarity of this content and how Editors in other areas might have challenges / need support: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/resources-and-support-author-pilot) 
 * [VFS Product Directory: Resources & Support](https://depo-platform-documentation.scrollhelp.site/getting-started/resources-support)
 
-## Reusable Q&A
+### Reusable Q&A
 
 **What is:**
 
