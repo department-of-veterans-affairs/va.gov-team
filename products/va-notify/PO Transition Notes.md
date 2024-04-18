@@ -68,7 +68,7 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
       + If I recall correctly, Jenny was working on feedback about MHV on va.gov.  Maybe there should be a custom no-reply inbox for this and appointment reminders to gather unsolicited feedback?
   - VA Profile will have pre-populated preferences from MHV
   - Sync with VA Profile and Authenticated Experience to launch notifications when the preference is available on VA.gov
-  - * Note: * The preference for push notification lives on the app in the mobile device.  The preference for email will live on VA.gov.  Right now we send a push notification for every secure message and most "fall on the floor" as they don't have the app installed.  Is there a smoother way to do this?  
+  - **Note:** The preference for push notification lives on the app in the mobile device.  The preference for email will live on VA.gov.  Right now we send a push notification for every secure message and most "fall on the floor" as they don't have the app installed.  Is there a smoother way to do this?  
 * Medical Records and Images Notifications  - **OCTP POC is Kay Lawyer or Marci McGuire**
   - Once this preference lives in VA Profile, the MR team can onboard to VA Notify to send email notifications.
       + Ensure the email content for the notification points to medical records/images on va.gov
