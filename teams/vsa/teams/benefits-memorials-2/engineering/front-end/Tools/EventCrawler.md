@@ -1,3 +1,4 @@
+```js
 const fs = require("fs").promises;
 const path = require("path");
 
@@ -83,3 +84,4 @@ async function writeResultsToFile(results, outputFile) {
   await findRecordEvent(directory, results);
   await writeResultsToFile(results, outputFile);
 })();
+```
