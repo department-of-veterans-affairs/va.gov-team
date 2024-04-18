@@ -9,7 +9,7 @@
 
 ## 3rd party language
 
-If your digital form allows someone else to sign forms (alternate signers, authorized representatives), then include this language in the intro.  
+If your digital form allows someone else to sign on behalf of a claimant (alternate signers, authorized representatives), then include this language in the intro. Note that not all forms allow alternate signers, so this language may vary depending on who is permitted to sign for them. 
 
 ### Like this
 
