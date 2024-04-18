@@ -137,7 +137,7 @@ If you discover that a specific form PDF has a problem (dead link, incorrect inf
 Forms managers provide an administrative function to manage Forms data entry and final approved PDFs per administration in the Forms DB. 
 |Name|Role re: Forms|
 |----|----|
-|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
+|TBD. Missie Vaccaro-Palomaki has retired. Mano, Brian T. <Brian.Mano@va.gov> listed as her POC.|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
 |Bennett, Grant <Grant.Bennett@va.gov>  | VHA Forms manager|
 |Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
 |Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
