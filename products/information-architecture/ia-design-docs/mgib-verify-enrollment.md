@@ -72,7 +72,6 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
   - Link destination: www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/
   - Notes: Replace link destination to the new VYE tool.
 
-4. **
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
@@ -80,7 +79,7 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/ | We recommend working with stakeholders and WAVE team so the WAVE redirects to the new tool.
+https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/ **and all child pages** | We recommend working with stakeholders and WAVE team so the WAVE redirects to the new tool.
  
 
 
