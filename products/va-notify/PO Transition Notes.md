@@ -28,14 +28,16 @@
 **Decision Letter Notification**
 - Benefits team has agreed to integrate with the event bus to produce an event when a decision letter is available 
 - UTM track link in the email that points to download letters in VA.gov
-- Who is going to write the trigger to VA Notify  API?
+- Who is going to write the trigger to VA Notify API?
 - If callbacks are needed will they go to a webhook or will an event be produced on the bus?
 - Slack channel #decision-letter-notification-taskforce
 - Start with email, then sms or push?
 
 **DORA**
+The teams have assessed what level we are for each DORA metric, and how we can to get to "elite" level for each metric.  If there is no benefit to being elite level for a particular metric, we will call that out specifically and state our justiciations.  [Link to our DORA metrics here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/Goals%20and%20Roadmap.md#dora)
 
 **Updates to Domo**
+We plan to request updates to our Domo dashboard to make it more user friendly and accurate.  
 
 **Funding/Billing**
 At the moment, all notifications sent by VA Notify (except for those funded by VHA) are being paid for by VA Notify.  We DO NOT HAVE FAT POCKETS!!!
@@ -151,7 +153,7 @@ This is supported by the platform, but hasn't been used.  The team would need to
  **VA Notify should stay as pass through system**
 
  **Notification Portal**
-* It would be great to have Privacy Officers login the portal to review content.  The technical portion of this fairly straightforward,but getting Privacy Officers onboard with this idea might be a little tricky
+* It would be great to have Privacy Officers login the portal to review content.  The technical portion of this seems fairly straightforward, but getting Privacy Officers onboard with this idea might be a little tricky
 
 **Notification Funding**
-* In an idea world, notifications to Veterans would be free, or VA would absorb the cost.  But alas, that is not where we are.  
+* In an ideal world, notifications to Veterans would be free, or VA would absorb the cost.  But alas, that is not where we are.  
