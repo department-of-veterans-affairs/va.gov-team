@@ -67,20 +67,20 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 |---|---|
 | Call when you're on your way to the hospital. | Call when you're en route to the hospital. |
 
-- [ ] Text uses consistent terms and avoids synonyms
+- [ ] Text uses consistent terms and avoids synonyms.
 
 | Like this | Not like this |
 |---|---|
 | **Sign in to start your application.** <br> When you sign in, you can save your work as you go. | **Sign in to start your application.** <br> When you log in, you can save your work as you go. |
 
-- [ ] Text is succinct and avoids redundancies 
+- [ ] Text is succinct and avoids redundancies. 
 
 | Like this | Not like this |
 |---|---|
 | Wear a mask that covers your mouth and nose. | It is useful to remember to wear a mask that covers your mouth and nose. |
 
-- [ ] Text is as free as possible of ambiguous words (e.g. use "after" or "when" instead of "once")
-- [ ] Text specifies nouns with "the." (exception: "VA" uses just "VA" and not "the VA") [ADD EXAMPLE]
+- [ ] Text is as free as possible of ambiguous words (e.g. use "after" or "when" instead of "once").
+- [ ] Text specifies nouns with "the." (exception: "VA" uses just "VA" and not "the VA"). [ADD EXAMPLE]
 - [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentence rather than using a pronoun. [REVIEW THIS ONE MORE]
 - [ ] Address the Veteran as an individual with second person singular: “you” and “your.”
 
@@ -92,7 +92,7 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 - [ ] Text avoids or limits compound words wherever possible, and contains simple words.
 - [ ] Text avoids the conditional (e.g. replace "This would open the window" with "This will open the window").
 - [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
-- [ ] Text avoids "and/or" 
+- [ ] Text avoids "and/or". 
 - [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out in the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
 
 ## Bulleted lists
