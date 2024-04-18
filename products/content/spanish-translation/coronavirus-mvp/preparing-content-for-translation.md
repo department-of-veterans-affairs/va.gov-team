@@ -89,7 +89,7 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 | Am I eligible for Veterans Pension benefits? You may be eligible if you meet these requirements. | Are Veterans eligible for pension benefits? Veterans who meet these requirements may be eligible. |
 
 - [ ] Text avoids demonstrative pronouns (e.g. replace "This allows you to" with "This function allows you to").
-- [ ] Text avoids or limits compound words wherever possible. [REVIEW THIS ONE MORE]
+- [ ] Text avoids or limits compound words wherever possible, and contains simple words.
 - [ ] Text avoids the conditional (e.g. replace "This would open the window" with "This will open the window").
 - [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
 - [ ] Text avoids "and/or" 
