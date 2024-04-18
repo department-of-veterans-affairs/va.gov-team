@@ -204,7 +204,7 @@ For phase 1, each subhub will feature links and a short description to the follo
     - **Manage(H2)**
        - Verify school enrollment: https://www.va.gov/education/verify-school-enrollment/
        - Change your GI Bill school or program: https://www.va.gov/education/change-gi-bill-benefits/
-       - ~DEA/Fry form: https://www.va.gov/education/apply-for-education-benefits/application/5495/~
+       - ~DEA/Fry form: https://www.va.gov/education/apply-for-education-benefits/application/5495/~
        - ~transferred benefits form: https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction~
        - Check Post-9/11 GI Bill benefit statement: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
        - View payment history: https://www.va.gov/va-payment-history/
