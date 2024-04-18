@@ -166,7 +166,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
    - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
-       - *ADDED: Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/*
+       - **ADDED** Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
    - **Manage(H2)**
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -194,7 +194,9 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
        - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
     - **Get - Additional benefits or services(H3)**
-       - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/careers-employment/dependent-benefits/
+       - Vocational rehabilitation and employment for ppl who qualify: ~https://www.va.gov/careers-employment/dependent-benefits/~
+         - **ADDED** Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
+         - **ADDED** Spina Bifida Health Care Benefits Program: https://www.va.gov/disability/eligibility/special-claims/birth-defects/ 
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
@@ -202,8 +204,8 @@ For phase 1, each subhub will feature links and a short description to the follo
     - **Manage(H2)**
        - Verify school enrollment: https://www.va.gov/education/verify-school-enrollment/
        - Change your GI Bill school or program: https://www.va.gov/education/change-gi-bill-benefits/
-       - DEA/Fry form: https://www.va.gov/education/apply-for-education-benefits/application/5495/
-       - transferred benefits form: https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction
+       - ~DEA/Fry form: https://www.va.gov/education/apply-for-education-benefits/application/5495/~
+       - ~transferred benefits form: https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction~
        - Check Post-9/11 GI Bill benefit statement: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -211,7 +213,8 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Request decision review: https://www.va.gov/decision-reviews/
        - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
     - **More(H2)**
-       - How to choose GI Bill approved schools: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/
+       - How to choose GI Bill approved schools: ~https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/~ https://www.va.gov/education/choosing-a-school
+       - **ADDED** How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
 
 - **Life insurance**
    - **Get - Main (H2)**
@@ -246,10 +249,10 @@ For phase 1, each subhub will feature links and a short description to the follo
        - pre-need eligibility: https://www.va.gov/burials-memorials/pre-need-eligibility/
        - Headstones, markers, inscriptions: https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/
        - Veterans burial allowance: https://www.va.gov/burials-memorials/veterans-burial-allowance/
-       - Apply for veterans burial allowance: https://www.va.gov/burials-and-memorials/application/530/introduction
+       - ~Apply for veterans burial allowance: https://www.va.gov/burials-and-memorials/application/530/introduction~
   - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
-       - File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
+       - ~File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp~
   - **Manage(H2)**
       - Schedule a burial for a Veteran: https://www.va.gov/burials-memorials/schedule-a-burial/
        - Request Veteran military records: https://www.va.gov/records/get-military-service-records/
@@ -259,7 +262,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Burial in a private cemetery: https://www.va.gov/burials-memorials/eligibility/burial-in-private-cemetery/
        - Find a cemetery: https://www.cem.va.gov/cems/listcem.asp
        - Find a grave: https://www.cem.va.gov/nationwide-gravesite-locator/
-
+       - **MOVED** File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
 
 ## <a name="redirects"></a>Redirects <br>
 We'll need to create a redirect ticket after we finalize H1s (and thus urls). All of the redirects should happen on the same day and should be either at the same time as publishing or right after.
