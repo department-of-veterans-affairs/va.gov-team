@@ -1,6 +1,7 @@
 # Descriptive Statistics: Areas of Interest
 <details closed>
 <summary>💡Click to learn more about descriptive statistical analysis.</summary>
+
 1. Questions Descriptive Statistics Can Answer:
     * Central Tendency: Descriptive statistics help in understanding the typical or central value of a dataset. This includes measures like mean, median, and mode.
     * Variability/Dispersion: Descriptive statistics provide insights into the spread or variability of data points. This includes measures like range, variance, standard deviation, and interquartile range.
@@ -16,7 +17,9 @@
     * Outliers: Extreme values in the dataset can significantly affect measures like the mean and standard deviation, potentially misleading interpretations.
     * Misinterpretation of Measures: Misunderstanding or misinterpretation of descriptive statistics can lead to erroneous conclusions. For instance, assuming causation from correlation or misinterpreting the meaning of measures like skewness or kurtosis.
     * Data Transformation Issues: Transformation of data (e.g., log transformation) can impact the interpretation of descriptive statistics if not applied appropriately or if assumptions underlying the transformation are violated.
-    * Overreliance on Summary Statistics: Relying solely on summary statistics without considering the underlying distribution or context of the data can lead to incomplete or misleading insights.</details>
+    * Overreliance on Summary Statistics: Relying solely on summary statistics without considering the underlying distribution or context of the data can lead to incomplete or misleading insights.
+
+</details>
 
 ### Covariance and Correlation Coefficients: What is the relationship between two variables?
 
