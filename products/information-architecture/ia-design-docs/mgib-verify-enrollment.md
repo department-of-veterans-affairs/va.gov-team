@@ -11,8 +11,9 @@
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Best Bets](#bestbets)
-- [Staged Rollout](#stagedrollout)
+- [Best bets](#bestbets)
+- [Staged rollout](#stagedrollout)
+- [Additional notes](#notes)
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -33,7 +34,7 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 
 
 **1) H1 of page - New**
-- URL: www.va.gov/education/verify-school-enrollment/mgib-benefits/
+- URL: www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/
 - Breadcrumb: TBD by Sitewide Content
 - Notes: Ensure that the breadcrumb matches the H1. Breadcrumb will not change as folks go through the tool flow, but the sub-URL should. Here is our guidance on creating sub-URLs:
 
@@ -56,9 +57,22 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 1. **[Verify your school enrollment](https://www.va.gov/education/verify-school-enrollment/)** - Add
   - Placement description: In section titled "For Montgomery GI Bill benefits "
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-benefits/
+  - Link destination: www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/
   - Notes: Connect with Sitewide Content to update language referencing WAVE. Since there will be green sign-in modals, ensure that it is clear which benefit is the one for a Veteran.
 
+2. **[Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)** - Modify
+  - Placement description: Under section titled "How do I get these benefits?" step 3
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/
+  - Notes: Replace link destination to the new VYE tool.
+
+3. **[Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)** - Modify
+  - Placement description: Under section titled "Ask your school or training program to certify your enrollment" step 4
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/
+  - Notes: Replace link destination to the new VYE tool.
+
+4. **
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
@@ -66,8 +80,9 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/montgomery-gi-bill-verification/ | We recommend working with stakeholders and WAVE team so the WAVE redirects to the new tool.
  
+
 
 ## <a name="bestbets"></a>Best Bets<br>
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
@@ -79,7 +94,11 @@ Update existing best bet for [static page](https://www.va.gov/education/verify-s
 
 **[Which static page has the widget, ie the main entry point?]**
 
+## <a name="notes"></a>Additional notes<br>
 
+#### Broken breadcrumb
+When logged into the Post-9/11 VYE tool, the breadcrumb circled below loops back to the VYE tool instead of the static page. This will need to be updated so if someone is on the wrong tool, they're able to go back to the static page.
+<img width="400" alt="Post-9/11 VYE" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/be555c1e-3c76-40be-a79b-cc4bda742ba6">
 
 <hr>
 <hr>
