@@ -103,21 +103,69 @@ _Any additional research needed prior to or after implementation_
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
 
-1. Top-level hub and landing pages
-2. Health care (Health care and disability in family member hub)
-4. Education
-5. Disability
-6. Pension
-7. Life insurance (this does not involve any content moves and can be shifted where needed in the order)
-8. Careers
-9. Housing
-10. Burials
+**Phase 1. Top-level hub and landing pages - Launch 06/13/24**
+- Updates to main family member hub page
+- Launch of all sub-hub pages (6)
+- Move PCAFC content page and application into new placement (no left nav needed yet)
+- Move CHAMPVA content into hub, launch CHAMPVA form in new home (no left nav needed yet)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects
 
-- Establish the overall structure needed in the new family member hub and build out appropriate landing pages and links
-- Build out new content and modified Veteran content by hub
-- Complete any design and development work needed to support moving forms/tools to their new location
-- Move any existing content pages
-- Implement redirects
+Notes:
+- The PCAFC form URL does not need to be updated in order to "hook it up" in this new structure, the breadcrumb will need to be updated however
+- The CHAMPVA content can be moved in either this phase or the next, but needs to be done when the CHAMPVA form is launched
+  
+**Phase 2. Health care - Launch 07/05/24**
+- Create new health content pages (3)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects 
+
+**Phase 3. Education- Launch 07/26/24**
+- Move education content from the Veteran hub (5)
+- Create new education pages (4)
+- Move education forms (1990e, and 5490) from the Veteran hub (2)
+- Create new R&S pages as needed
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects 
+
+Notes: 
+- Connect with IIR team to see if they can do form URL updates
+
+**Phase 4. Disability- Launch 08/02/24**
+- Move disability content from the Veteran hub (2)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects 
+
+**Phase 5 Pension- Launch 08/16/24**
+- Move pension content from the Veteran hub (2)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects
+
+**Phase 6. Careers- Launch 08/30/24**
+- Move career content from the Veteran hub (1)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects
+
+**Phase 7. Housing- Launch 09/06/24**
+- Move housing content from the Veteran hub (1)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects
+
+Notes:
+- Phase may not be needed if the 1 program included is the landing page and completed in phase 1
+
+**Phase 8. Burials- Launch 09/20/24**
+- Move burial content from the Veteran hub (2)
+- Move bural allowance form (530) from Veteran hub (1)
+- Create new R&S pages as needed to support phase
+- Retire pages where appropriate
+- Best bets, entry points, link updates, and redirects
 
 
 ## Stakeholders <a id="stakeholders"></a>
@@ -142,16 +190,16 @@ Content, IA, and design
 - [ ] Incorporate into placement criteria and overall taxonomy definition - Mikki/Danielle
 - [x] Identify additional research needs, pull in Amanda as needed - Reviewed wtih Amanda and documented here
 - [x] Build out landing page drafts in Drupal - Danielle/Mikki
-- [ ] CAIA deep dive - Danielle/Mikki
-- [ ] Build out tickets for CAIA - Mikki/Danielle
+- [x] CAIA deep dive - Danielle/Mikki
+- [x] Build out tickets for CAIA - Mikki/Danielle
 
 Communication to OCTO stakeholders
 - [x] Overview of effort so far and next steps at OCTO team meeting - Done 1/11/24
-- [ ] Research results and next steps at OCTO Monday design meeting - scheduled for 3/18/24
+- [x] Research results and next steps at OCTO Monday design meeting - scheduled for 3/18/24
 - [ ] Talk with to Jeff Barnes/IIR team re: moving education forms
 - [ ] Discussion with Beth/Randi on VBA/NCA contacts - Danielle
 - [x] Share with benefits portfolio - 1/23
-- [ ] Share with Chris - Danielle's 1:1
+- [x] Share with Chris - Danielle's 1:1
 - [x] Share with health portfolio - notified in AMA mtg 2/13
 
 Initial communication to all impacted stakeholders
