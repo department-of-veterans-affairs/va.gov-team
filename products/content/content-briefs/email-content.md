@@ -5,9 +5,9 @@ Created by the sitewide content team for teams working on email content. This br
 **Have questions or feedback on this brief or want to add something?**
 - Send us a slack in #sitewide-content-ia.
 
-## Subject lines
+## Subject line
 
-## Intros
+## Intro and closing
 
 ## Links
 VA Notify supports hyperlinks, but we also spell out the URL so that Veterans can be sure the link is legitimate. This is especially important when the link goes to a tool that deals with personal, health, or financial information. 
