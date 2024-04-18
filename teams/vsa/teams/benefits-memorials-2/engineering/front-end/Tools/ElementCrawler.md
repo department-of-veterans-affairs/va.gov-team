@@ -1,3 +1,4 @@
+```js
 const fs = require('fs').promises;
 import path from  'path/posix'
 
@@ -72,3 +73,4 @@ async function writeResultsToFile(results) {
   await findCustomElementsWithoutUSWDS(__dirname, results);
   await writeResultsToFile(results);
 })();
+```
