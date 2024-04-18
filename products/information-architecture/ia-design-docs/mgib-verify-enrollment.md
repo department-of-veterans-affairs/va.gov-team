@@ -47,7 +47,7 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
     >- /confirmation: use for the confirmation page after form submission
   >
     > Subtask URL slugs should be short, plain language, and drawn from the H1 if possible. 
-    Reminder: Don’t create unnecessary or empty subdirectories when creating sub-URLs!<
+    Reminder: Don’t create unnecessary or empty subdirectories when creating sub-URLs!
 
 
 ## <a name="nav"></a>Entry points <br>
