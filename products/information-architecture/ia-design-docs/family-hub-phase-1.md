@@ -131,10 +131,10 @@ For phase 1, each subhub will feature links and a short description to the follo
       - Mental health care: https://www.va.gov/health-care/health-needs-conditions/mental-health/
       - VA Dental Insurance Program: https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/
       - Camp Lejeune: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#benefits-for-families-who-live
-      - Spina Bifida: https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp
+      - Spina Bifida: ~https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp~ https://www.va.gov/disability/eligibility/special-claims/birth-defects/
       - Children of women vietman veterans: https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp
   - **Get - Additional benefits or services(H3)**
-      - Tricare: https://www.tricare.mil/
+      - Tricare: ~https://www.tricare.mil/~ Build out R&S page to link to on this program
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
@@ -158,14 +158,15 @@ For phase 1, each subhub will feature links and a short description to the follo
     
 - **Survivors compensation and accrued benefits**
    - **Get - Main (H2)**
-       - DIC: https://www.va.gov/disability/dependency-i ndemnity-compensation/
-       - Survivor DIC rates: https://www.va.gov/disability/survivor-dic-rates/
-       - Parent DIC rates: https://www.va.gov/disability/parent-dic-rates/
+       - DIC: https://www.va.gov/disability/dependency-indemnity-compensation/
+       - ~Survivor DIC rates: https://www.va.gov/disability/survivor-dic-rates/~
+       - ~Parent DIC rates: https://www.va.gov/disability/parent-dic-rates/~
        - VA Survivors Pension: https://www.va.gov/pension/survivors-pension/
-       - Survivors Pension rates: https://www.va.gov/pension/survivors-pension-rates/
+       - ~Survivors Pension rates: https://www.va.gov/pension/survivors-pension-rates/~
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
    - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
+       - *ADDED: Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/*
    - **Manage(H2)**
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -181,12 +182,12 @@ For phase 1, each subhub will feature links and a short description to the follo
 - **Education and career benefits**
    - **Get - Main (H2)**
        - Transfered edu. benefits for family: https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
-       - Transfered edu benefit rates: https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/
+       - ~Transfered edu benefit rates: https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/~
        - Survivors and dependents educational assistance: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
-       - DEA rates: https://www.va.gov/education/benefit-rates/chapter-35-rates/
+       - ~DEA rates: https://www.va.gov/education/benefit-rates/chapter-35-rates/~
        - Fry scholarship: https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/
-       - Fry rates: https://www.va.gov/education/benefit-rates/fry-scholarship-rates/
-       - Fry/DEA application: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
+       - ~Fry rates: https://www.va.gov/education/benefit-rates/fry-scholarship-rates/~
+       - ~Fry/DEA application: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/~
        - Yellow Ribbon: https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
