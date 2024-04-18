@@ -18,7 +18,7 @@
 - Sends a ping to the Search.gov uptime endpoint every minute. A negative response indicates an outage, and a positive response indicates uptime. Latency up to 7 seconds observed but should not error the monitor.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/217076?view=spans)
 - [View Synthetics Details](https://vagov.ddog-gov.com/synthetics/details/zs3-wcj-xqy?from_ts=1713444301151&to_ts=1713447901151&live=true)
-- Timeframe: 1 min
+- Timeframe: 5 min
 
 ##### Search.gov - VA Forward Proxy Health Check
 - Checks for errors when the VA forward proxy contacts Search.gov.
