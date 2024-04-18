@@ -83,9 +83,10 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 - [ ] Text specifies nouns with "the." (exception: "VA" uses just "VA" and not "the VA") [ADD EXAMPLE]
 - [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentence rather than using a pronoun. [REVIEW THIS ONE MORE]
 - [ ] Address the Veteran as an individual with second person singular: “you” and “your.”
+
 | Like this | Not like this |
 |---|---|
-|  | |
+| Am I eligible for Veterans Pension benefits? You may be eligible if you meet these requirements. | Are Veterans eligible for pension benefits? Veterans who meet these requirements may be eligible. |
 
 - [ ] Text avoids demonstrative pronouns (e.g. replace "This allows you to" with "This function allows you to").
 - [ ] Text avoids or limits compound words wherever possible. [REVIEW THIS ONE MORE]
