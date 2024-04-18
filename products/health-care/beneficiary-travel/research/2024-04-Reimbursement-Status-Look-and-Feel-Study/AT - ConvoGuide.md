@@ -99,7 +99,9 @@ Just a reminder, we will be using what we call a prototype to accomplish a task 
 
 As we go through this prototype to accomplish the task I'll give you, I'd like you to think aloud.  That inner narrative we all have? I'd like to hear it! Again, you are not being tested in any way - the design is being tested.  And we want your honest feedback about your experience.  
 
-
+Link to start on unauth page - https://shorturl.at/frE15
+Link to start on MHV page -  https://shorturl.at/uxD49
+Link to start of status page - https://shorturl.at/yKWY3
 
 
 ## **Task 1: Navigate to Travel Reimbursement Status page**
@@ -110,16 +112,19 @@ _Task:_ Imagine that you have submitted several requests to be reimbursed for dr
 
 Please remember to think aloud and describe what you are looking for.
 
+If bogged down, ask about logging in 
 
 ## **Task 2: Travel Reimbursement Status page expectations**
 
 From travel claims page: 
 
+Before you click on anything to take action, I'd like for you to explore this page, to 'scan' it and get a sense of it. 
+
 1. How would you **describe** what you see on this page?
 
    a. How would you **summarize** this page to another veteran?
 
-2. Looking at this page, what do you expect to **be able to do here**?
+2. Reviewing this page, what do you expect to **be able to do here**?
 
     b. Looking at this page, what looks like something you can **click or take action on**?
 
