@@ -1,4 +1,6 @@
 # Descriptive Statistics: Areas of Interest
+-----
+
 <details closed>
 <summary>💡Click to learn more about descriptive statistical analysis.</summary>
 
@@ -25,13 +27,27 @@
 
 > _Covariance is ideal for measuring the relationship between two variables maximum. It will not provide insight into the strength of the relationship because it is influenced by the scales of the variables, thus is not ideal for capturing the full complexity of multivariate relationships._
 
-#### What variables tend to increase together?
+#### Positive Correlation: What variables tend to increase together?**
 - Add questions here
 
-#### What variables tend to have a strong inverse relationship?
+#### Negative Correlation: What variables tend to have a strong inverse relationship?**
 - Add questions here
 
 ### Frequency Distribution: How often is a user event, action, or pattern happening?
+
+> _Frequency distribution is ideal for measuring the number of times each value in a dataset occurs, and can be used to demonstrate a pattern of frequencies in a variable. Distributions can fall into four categories: grouped, ungrouped, relative, and cumulative. This is often visualized using a frequency table._
+
+#### Grouped Frequencies: What are the different values or ranges of values in a dataset? 
+- Add questions here
+
+#### Ungrouped Frequencies: What is the frequency of an individual data point or category/segment?
+- Add questions here
+
+#### Relative Frequencies: What proportion or percentage of a dataset does a given category/segment represent?
+- Add questions here
+
+#### Cumulative Frequencies: What percentile or quartile of a dataset does a given category/segment (or set of categories/segments) represent?
+- Add questions here
 
 ### Central Tendency: What is the center point on distribution for a user event or action?
 
