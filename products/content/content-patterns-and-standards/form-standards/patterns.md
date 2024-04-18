@@ -11,7 +11,7 @@
 
 If your digital form allows someone else to sign forms (alternate signers, authorized representatives), then include this language in the intro.  
 
-**Like this: **
+### Like this
 
 [H3] What to know if you're signing on behalf of someone else
 
