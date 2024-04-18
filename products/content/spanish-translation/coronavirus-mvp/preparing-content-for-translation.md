@@ -93,7 +93,7 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 - [ ] Text avoids the conditional (e.g. replace "This would open the window" with "This will open the window").
 - [ ] Text avoids abbreviations (including Latin abbreviations such as "i.e.: and "etc.").
 - [ ] Text avoids "and/or". 
-- [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out in the first instance. </br> **For Spanish content:** The first instance of an acronym in the body copy (not in titles or subheads) on a page appears as the words spelled out, followed by the acronym and "sigla en inglés" in parentheses. For example, "Centers for Disease Control and Prevention (CDC)" becomes "Centros de Control y Prevención de Enfermedades (CDC, sigla en inglés)." For all following instances, just use the acronym. 
+- [ ] Text avoids acronyms as much as possible. When text uses acronyms, they are always spelled out in the first instance. </br> **For Spanish content:** For acronyms, use the spelled-out term on the first mention in the body text (not in titles or subheads) followed by the acronym in parentheses. For example, the Centers for Disease Control and Prevention (CDC) translates to "Centros para el Control y la Prevención de Enfermedades (CDC, por sus siglas en inglés)." Then use just the acronym for all instances on the rest of the page. 
 
 ## Bulleted lists
 
