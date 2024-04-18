@@ -40,7 +40,7 @@ The teams have assessed what level we are for each DORA metric, and how we can t
 We plan to request updates to our Domo dashboard to make it more user friendly and accurate.  
 
 **Funding/Billing**
-At the moment, all notifications sent by VA Notify (except for those funded by VHA) are being paid for by VA Notify.  We DO NOT HAVE FAT POCKETS!!!
+Our plan is to keep email notification free of cost.  The [cost](https://aws.amazon.com/ses/pricing/) is relatively low.  For SMS, the plan was to have business lines reimburse us for messaging costs.  At the moment, all SMS notifications sent by VA Notify (except for those funded by VHA) are being paid for by VA Notify. We DO NOT HAVE FAT POCKETS!!!
 * How we got here
   - At first we had business lines that wanted to use VA Notify purchase AWS credits.
   - They would fill out the Cloud Credit Purchase form, go through the 2237, FITARA process and funds would be allocate to the VA Notify Cloud Key ID
