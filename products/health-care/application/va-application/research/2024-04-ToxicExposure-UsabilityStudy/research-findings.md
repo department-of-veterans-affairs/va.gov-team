@@ -3,7 +3,7 @@
 
 # Research Findings for 10-10EZ Toxic Exposure Questions Usability Study 
 
-**Office of the CTO - Digital Experience (OCTO-DE), [Health Enrollment Team, 10-10EZ]**
+**Office of the CTO - Digital Experience, Health Enrollment Team, 10-10EZ**
 
 April 2024
 
