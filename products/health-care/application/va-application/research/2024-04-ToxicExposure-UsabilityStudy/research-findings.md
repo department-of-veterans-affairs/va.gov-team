@@ -29,8 +29,6 @@ The moments that matter within the Veteran Journey are when Veterans are selecti
 - Goal 2: Discover areas where their **service history requires too much mental lift / recall** on the Veterans behalf to answer
 - Goal 3: Discover **unknown usability or accessibility issues**
 
-
-
 ## Research Questions
 
 **Goal 1: Discover areas where the content may not be clear or need additional explanation**
@@ -56,7 +54,6 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 - 10-10EZ Form in Production on VA.gov
 - Unauthenticated or authenticated via the partipants account and ability
 
-
 ## Hypotheses and Conclusions
 
 #### We assume... some might have issues recalling the places/dates they served with how the questions are worded.
@@ -70,7 +67,7 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 - Likely false.
 
 
-## Key Findings
+## Primary Findings
 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
 
@@ -98,15 +95,46 @@ Key quotes:
 
 >P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield.  Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
-3. Finding three
+3. <b>Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
+- 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
+- 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out
 
-4. Finding four
+Key quotes:
 
-5. Finding five
+> P6: "I don’t know when Agent Orange stopped being used but I feel like this question could be eliminated based on some of the previous ones."
 
-6. Finding six
+> P5: "If I clicked Southwest Asia in Gulf War during that timeframe, Spain and Greenland would have nothing to do with the Southwest Asia [response]. These cleanup response efforts would not coincide with what I clicked."
 
-7. Finding seven
+> P4: "For example, if I tell you that I've only been in Montana my entire career, then you could pretty much stop asking questions after that because it would be very unlikely that I was exposed to any of this stuff."
+
+4. <b>There is some confusion with how to identify exposure dates and why VA is asking for them.</b>
+- 6 out of 7 Veterans expressed some sort of difficulty identifying exposure dates, and 3 out of those 6 specifically said it would be very difficult or impossible for them.
+- A Veteran who was exposed to firefighting foams for a day or two during training didn't know how to enter dates that were for less than a month and got an error when he entered the same month and year for start and end dates.
+
+Key quotes:
+> P6: "If I already entered my SSN why does it need dates that I might not remember?"
+
+> P6: "I'd be looking this up from some old scanned pages. It does say you don't need exact dates, which is nice, but so much is very exact in forms and military stuff. It feels like if it's wrong, it's gonna be a problem."
+
+5. <b>We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.</b>
+- For every participant, when the user advances the page in the form they were not automatically scrolled back up to the top of the page.
+- One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard."
+- Our one participant who uses a screen reader extension in Chrome was not able to use it for the session because the extension (called Read Aloud) was showing text from the intro page no matter where they were in the form. They ended up magnifying the page to complete the session.
+
+  ## Secondary Findings
+
+1. <b>Veterans expressed wanting VA to take on the burden of finding the relevant individuals and/or having their medical history on file.</b>
+- 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
+- One Veteran said if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
+
+Key quotes:
+
+> P10: "I would argue that some of your information should be enough for them to find your military record. First and last name, my social, and my date of birth. They should be able to find my medical records based on that." "It's one of those things where the burden of proof is on the Veteran."
+
+> P4: "I would have expected them to digitize my medical records from when I was in the military. It's one of the reasons I don't file a VA claim."
+  
+
+2. <b>There is still some confusion and/or frustration with providing insurance information in the 10-10EZ.</b>
 
 
 ## Details of Findings 
