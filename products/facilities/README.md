@@ -59,14 +59,14 @@ Products are listed with an example URL, or a link to content in the Drupal CMS.
     - [ ] VAMC System Policies page: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_policies_page&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/policies/
     - [ ] VAMC System Register for Care: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_register_for_care&moderation_state=All&owner=All); https://www.va.gov/miami-health-care/register-for-care/ 
     - [ ] VAMC System VA Police page: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_va_police&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/va-police/ 
-- [ ] Vet Center:  [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_care_region_page&moderation_state=All&owner=All); 
+- [ ] Vet Center:  [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_care_region_page&moderation_state=All&owner=All); https://www.va.gov/temecula-vet-center/
     - [ ] Vet Center - Facility Service: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_facility_health_servi&moderation_state=All&owner=All);
     - [ ] Vet Center - Locations list: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_locations_list&moderation_state=All&owner=All); https://www.va.gov/manchester-vet-center/locations/
     - [ ] Vet Center - Mobile Vet Center: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_mobile_vet_center&moderation_state=All&owner=All); No frontend URL of their own
     - [ ] Vet Center - Outstations: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_outstation&moderation_state=All&owner=All); No frontend URL of their own
     - [ ] Vet Center Community Access Points (CAPs): [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_cap&moderation_state=All&owner=All); No frontend URL of their own
 - [ ] VBA Facility (Currenly comprised of Regional Offices, 4/18/24): [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vba_facility&moderation_state=All&owner=All)
-    - [ ] Service Regions: CMS list; https://prod.cms.va.gov/admin/content?title=&type=service_region&moderation_state=All&owner=All
+    - [ ] Service Regions: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=service_region&moderation_state=All&owner=All); 
     - [ ] VBA Facility Service: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vba_facility_service&moderation_state=All&owner=All); 
 - [ ] NCA Facility (Currently only a data migration, no modernized pages in the VA.gov frontend): [CMS list](https://prod.cms.va.gov/admin/content?title=&type=nca_facility&moderation_state=All&owner=All);
 - [ ] VA Services taxonomy -- https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview
