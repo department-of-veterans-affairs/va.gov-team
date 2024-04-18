@@ -59,6 +59,8 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 
 [LIST OF IDIOMS TO AVOID](https://design.va.gov/content-style-guide/plain-language/don-t-use-idioms)
 
+[PLAIN LANGUAGE](https://design.va.gov/content-style-guide/plain-language/)
+
 - [ ] Text is written all in English, and avoids common phrases borrowed from other languages.
 
 | Like this | Not like this |
