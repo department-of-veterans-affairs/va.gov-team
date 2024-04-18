@@ -31,6 +31,56 @@ Similar to most other types of search tools, Veterans should be able to begin a 
 - [Process for reporting inaccurate data in Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#process-for-reporting-inaccurate-data-in-facility-locator)
 - [Product documentation index](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/product-documentation.md)
 
+### COPY/PASTABLE product list
+<details><summary>List in accordion. Please update with any product ownership changes</summary>
+Products are listed with an example URL, or a link to content in the Drupal CMS. 
+   
+#### CMS / Content driven products: 
+- [ ] Centralized Content: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=centralized_content&moderation_state=All&owner=All) -- applies to VAMCs, Vet Centers, VBA Facilities
+- [ ] VAMC
+    - [ ] Health Services List: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_services_listing&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/health-services
+    - [ ] Leadership list: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=leadership_listing&moderation_state=All&owner=All); https://www.va.gov/battle-creek-health-care/about-us/leadership/
+    - [ ] Staff profile: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=person_profile&moderation_state=All&owner=All); https://www.va.gov/battle-creek-health-care/staff-profiles/michelle-martin/
+    - [ ] News Release list: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=press_releases_listing&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/news-releases/
+    - [ ] News Relese: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=press_release&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/news-releases/a-dynamic-learning-and-collaboration-center-opens-at-the-minneapolis-va-medical-center/
+    - [ ] Stories List: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=story_listing&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/stories/
+    - [ ] Story: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=news_story&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/stories/the-morning-of-change/
+    - [ ] VAMC Detail page (Includes Program pages): CMS list; https://www.va.gov/minneapolis-health-care/work-with-us/
+    - [ ] VAMC Facility Health Service: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_health_service&moderation_state=All&owner=All)
+    - [ ] VAMC Facility Non-clinical Service: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vha_facility_nonclinical_service&moderation_state=All&owner=All)
+    - [ ] VAMC Facility: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_care_local_facility&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/locations/minneapolis-va-medical-center/
+    - [ ] VAMC System: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_care_region_page&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/
+    - [ ] VAMC System banner with situation update: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=full_width_banner_alert&moderation_state=All&owner=All); https://www.va.gov/miami-health-care/register-for-care/ (includes a Facility status banner as of 4/12/24)
+    - [ ] VAMC System Billing & Insurance: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_billing_insurance&moderation_state=All&owner=All); https://www.va.gov/fayetteville-arkansas-health-care/billing-and-insurance/
+    - [ ] VAMC System Health Service:  [CMS list](https://prod.cms.va.gov/admin/content?title=&type=regional_health_care_service_des&moderation_state=All&owner=All);
+    - [ ] VAMC System Locations List: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=locations_listing&moderation_state=All&owner=All); - https://www.va.gov/minneapolis-health-care/locations/
+    - [ ] VAMC System Medical Records office: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_medical_records_offi&moderation_state=All&owner=All); https://www.va.gov/tampa-health-care/medical-records-office/
+    - [ ] VAMC System Operating status: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_operating_status_and_alerts&moderation_state=All&owner=All); https://www.va.gov/boston-health-care/operating-status/
+    - [ ] VAMC System Policies page: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_policies_page&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/policies/
+    - [ ] VAMC System Register for Care: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_register_for_care&moderation_state=All&owner=All); https://www.va.gov/miami-health-care/register-for-care/ 
+    - [ ] VAMC System VA Police page: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vamc_system_va_police&moderation_state=All&owner=All); https://www.va.gov/minneapolis-health-care/va-police/ 
+- [ ] Vet Center:  [CMS list](https://prod.cms.va.gov/admin/content?title=&type=health_care_region_page&moderation_state=All&owner=All); 
+    - [ ] Vet Center - Facility Service: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_facility_health_servi&moderation_state=All&owner=All);
+    - [ ] Vet Center - Locations list: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_locations_list&moderation_state=All&owner=All); https://www.va.gov/manchester-vet-center/locations/
+    - [ ] Vet Center - Mobile Vet Center: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_mobile_vet_center&moderation_state=All&owner=All); No frontend URL of their own
+    - [ ] Vet Center - Outstations: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_outstation&moderation_state=All&owner=All); No frontend URL of their own
+    - [ ] Vet Center Community Access Points (CAPs): [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vet_center_cap&moderation_state=All&owner=All); No frontend URL of their own
+- [ ] VBA Facility (Currenly comprised of Regional Offices, 4/18/24): [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vba_facility&moderation_state=All&owner=All)
+    - [ ] Service Regions: CMS list; https://prod.cms.va.gov/admin/content?title=&type=service_region&moderation_state=All&owner=All
+    - [ ] VBA Facility Service: [CMS list](https://prod.cms.va.gov/admin/content?title=&type=vba_facility_service&moderation_state=All&owner=All); 
+- [ ] NCA Facility (Currently only a data migration, no modernized pages in the VA.gov frontend): [CMS list](https://prod.cms.va.gov/admin/content?title=&type=nca_facility&moderation_state=All&owner=All);
+- [ ] VA Services taxonomy -- https://prod.cms.va.gov/admin/structure/taxonomy/manage/health_care_service_taxonomy/overview
+
+
+#### React Applications: 
+- [ ] Facility Locator - https://www.va.gov/find-locations
+- [ ] Facility Locator detail pages - https://www.va.gov/find-locations/facility/vba_348
+
+#### APIs
+- [ ] Facilities API - https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api
+
+</details>
+
 ### Integrated Facilities & Services Data Products
 
 These products span the entire portfolio of VA facilities and services and aim to create a single source of truth for Veterans 
