@@ -5,11 +5,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), [Health Enrollment Team, 10-10EZ]**
 
-Date: April 2024
+April 2024
 
 Angela Agosto (angela.agosto@adhocteam.us) and Jessica Stump (jessica.stump@adhocteam.us)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](https://docs.google.com/presentation/d/1DeL5mz2sDBc9bDcAgsHeriPmnQPnIRgtmSmz8Dq5klE/edit#slide=id.g892adcb623_0_141)
 
 **Jump to:**
 
@@ -60,23 +60,27 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 ## Hypotheses and Conclusions
 
 #### We assume... some might have issues recalling the places/dates they served with how the questions are worded.
-- Likeyly True
+- Somewhat true.
 
 
 #### We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history information.
-- Maybe True
+- Somewhat true.
 
 #### We assume... some Veterans might want additional explanatory visuals such as maps or links to help them with quicker recall of these service location questions.
-- Likey False
+- Likely false.
 
 
 ## Key Findings
 
-_The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
-
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
 
-1. Finding one
+1. <b>Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."</b>
+- 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure."
+- 6 out of 7 said they would want more information or explanation on something within the toxic exposure questions.
+
+Key quotes:
+ > P3: "I don't know how you would classify that something was toxic or not. In the military you're always running into something that's toxic."
+> P9: "I probably would've specified asbestos if I had more information of where it applied to, like in general facilities where you stayed or anything asbestos-related. [It would be more clear if] maybe they gave examples of where it might be."
 
 2. Finding two
 
