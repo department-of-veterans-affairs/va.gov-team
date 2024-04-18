@@ -23,8 +23,9 @@ Based on learnings from the PACT Act wizard, this effort will improve the abilit
 
 The wizard pattern has been deprecated by DST in favor of the Subtask pattern. The Discharge Upgrade Wizard needs to be converted to a subtask pattern. Designs for this can be found in [this Sketch file](https://www.sketch.com/s/20ea8818-8846-4f47-b341-7dc0ee6fc57e).
 
-## Epic
-https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12043
+## Artifacts
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12043)
+- [Collaborate Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80777)
 
 ## Stakeholders
 TBD -- previous contacts are no longer correct stakeholders
@@ -34,8 +35,10 @@ Sitewide Content team working on stakeholder identification (12/23)
 - Phase 1 goal: Update to Sub-task pattern (1 question per page), and update content that does not require review
 - Phase 2 goal: After modern stakeholders have been identified and updated content provided: update content & logic flow as needed
 
-### Updated logic flow
-https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=u0b235d03cbd64f7f93673243
+### Designs and Logic Flow
+
+- [New/Updated Logic Flow using Subtask Pattern - Example](https://www.figma.com/file/XHQAQ8ZDKKsDcXfBn5ulhh/Discharge-Upgrade-Wizard?type=design&node-id=0-1&mode=design&t=nnB0yTWacZIKSpaU-0)
+- [Legacy Screenshots/Logic Flow Example](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696352911500/80253b1c7200212cbcbcfb940d2cf4a29fed8417?sender=u71e5a9ded413bfa79dd23932)
 
 ### Analytics
 
