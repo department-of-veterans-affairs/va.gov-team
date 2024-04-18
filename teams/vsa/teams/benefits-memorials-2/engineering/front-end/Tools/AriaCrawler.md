@@ -1,3 +1,4 @@
+```js
 const fs = require('fs');
 const glob = require('glob');
 
@@ -69,3 +70,4 @@ glob('./components/**/*.{jsx,js,html}', (err, files) => {
   // eslint-disable-next-line no-console
   console.log(`Results written to ${outputFile}`);
 });
+```
