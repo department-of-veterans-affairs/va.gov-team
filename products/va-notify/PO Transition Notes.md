@@ -85,13 +85,17 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
 * Hearing Reminders
   - Currently hearing reminders are triggered by VEText.  The Caseflow team has plans to integrate directly with VA Notify to send hearing reminder SMS notifications
   - A preference for this exists in VA.gov
+* Troubleshooting Quarterly Notifications
+  - Currently BVA sends quarterly notifications to Veterans that have an appeal in process.  These notifications inform the Veteran that their appeal is still in process and no further action is needed.
+  - There is an issue in one of their systems that is causing the quarterly notification to be sent to mutiple times to Veterans.
+  - The next quarterly notification will go out on July 1, 2024 and the team will be helping Caseflow with testing in our staging environment before then.
 
 **Notifications Portal**
 * IAM Provisioning - Notify Portal uses IAM SSOi for access control.  We are working with extending our integration with IAM such that when user credentials are removed from IAM, we automatically remove the user from our system.
 
 * Dashboard - We are working on a dashboard in our portal to display metrics that are important to our users.  This is not meant to replace Domo, but augment it.
 
-* Roles - At the moment we have 4 roles:  Viewer, Editor, Service Admin, and Platform Admin.  
+* Roles - At the moment we have 4 roles:  Viewer, Editor, Service Admin, and Platform Admin. Before we rollout any new functionality/features with roles, the team will need to take review and enhance our Information Architecture.
 
 * Push Notification Templates - We will working on adding push notifications templates to our portal
 
