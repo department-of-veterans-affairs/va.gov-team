@@ -50,6 +50,9 @@ At the moment, all notifications sent by VA Notify (except for those funded by V
    - I get a lot of questions around the kind of funding we accept, or might accept, to send notifications.  IT vs Non-IT, and others I can't recall at the moment.  This shows that business line want to pay for notifications cost, but we don't have a way to receive funds from any business line.
    - Mark Junda is working on ways for us to accept funding, but that's mostly for VHA.
    - It's my hope that whatever ways are chosen, VHA, VBA and other business lines can fully onboard.
+ * Billing Reports
+   - We did implement billing report in the form of a spreadsheet. I have sent a copy to Mark Junda, Shane Elliot, Chris Johnston, and Jeff Barnes.
+   - Since we didn't onboard with the Franchise Fund, billing in our Portal never made it out of the backlog.
     
 **MHV on VA.gov**
 * Appointment Reminders - **OCTO POC for Appointments Kay Lawyer** (on slack)
