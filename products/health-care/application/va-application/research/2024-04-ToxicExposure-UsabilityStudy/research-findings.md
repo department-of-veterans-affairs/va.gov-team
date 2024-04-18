@@ -79,10 +79,24 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 - 6 out of 7 said they would want more information or explanation on something within the toxic exposure questions.
 
 Key quotes:
- > P3: "I don't know how you would classify that something was toxic or not. In the military you're always running into something that's toxic."
+> P3: "I don't know how you would classify that something was toxic or not. In the military you're always running into something that's toxic."
+
 > P9: "I probably would've specified asbestos if I had more information of where it applied to, like in general facilities where you stayed or anything asbestos-related. [It would be more clear if] maybe they gave examples of where it might be."
 
-2. Finding two
+2. <b>Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.</b>
+- 4 out of 7 Veterans mentioned that they were likely exposed to toxins during training but don't know/don't think that counts.
+- We learned that everyone in the military goes through basic training and repeatedly heard that there may have been some toxins present during training, some of which are included in the "other toxic exposures" page and some that are not, but all of those Veterans expressed hesitancy to enter that information because they weren't sure if it qualified.
+- One participant was confused about the Gulf War question because they knew of multiple Gulf Wars and the dates are not included in the question.
+
+Key quotes:
+
+>P9: "[I was exposed to contaminated water] during training, but that's not considered active duty time. What I've been told through this whole process is it has to be specific active orders. It can't be something such as, you're on training orders at a facility. They told me all of that is not considered part of a claim." ... ""That's why it's so hard for me to even make a claim. <B>If you never got deployed out of the country, you're essentially a nobody.</b>"
+
+>P2: "I'm putting 'tear gas' because just about everyone goes through tear gas training in basic training. When you're going through basic training, you don't ask, 'Hey what's in the tear gas to make me tear and gag and just about throw up?' You know, you don't ask that. You just do as you're told."
+
+>P4: "I was deployed to Haiti and I may not be defining burn pits the way that they're defining them, so I don't know."
+
+>P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield.  Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
 3. Finding three
 
