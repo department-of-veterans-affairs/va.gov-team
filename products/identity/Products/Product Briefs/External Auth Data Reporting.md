@@ -35,11 +35,9 @@ For this first iteration, the focus will be on user authorization data specifcia
 * Data not specifically for VA Leadership
 
 ## Use Cases:
-| User          | Problem       | Solution  |
-| ------------- |:-------------:| -----:|
-| VA Leadership | I want to understand data how Veterans access VA.gov | This dashboard  |
+* As a VA leader, I would like the Identity team to present me with the authorization data that is most useful to me, so I may understand and report upon how Veterans are logging into VA.gov.
+* As a VA Leader, I want the user authorization data produced by the Identity Team to be instantly understandable and not open to misinterpretation so that I may properly report on how Veterans login to VA.gov.
 
-(We'll build out the use cases on a more specific level after we do the research on what kind of data VA leadership is looking for.)
 
 ## Assumptions:
 * There are common pieces of user authorization data that VA Leadership is continually wanting to view.
