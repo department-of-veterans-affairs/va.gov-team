@@ -141,13 +141,11 @@ For phase 1, each subhub will feature links and a short description to the follo
   - **Get - Helpful tools(H3)**
       - Income Limits: https://www.va.gov/health-care/income-limits/introduction
   - **Manage(H2)**
-      - My HealtheVet: https://www.myhealth.va.gov/mhv-portal-web/home
       - Request travel reimbursement: https://www.va.gov/health-care/get-reimbursed-for-travel-pay/
       - Pay copay bills: https://www.va.gov/health-care/pay-copay-bill/
       - File a CHAMPVA claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp
       - File a SBHCP claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp
       - Request a decision review: https://www.va.gov/decision-reviews/
-      - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
   - **More(H2)**
       - Meds by Mail: https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp
       - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
@@ -172,7 +170,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Request a decision review: https://www.va.gov/decision-reviews/
        - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
    - **More(H2)**
-       - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
+       - The PACT Act a   nd your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
        - Pension Management Centers: https://www.va.gov/pension/pension-management-centers/
        - Tragedy Assistance Program for Survivors: https://www.taps.org/
 
@@ -187,7 +185,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
        - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
     - **Get - Additional benefits or services(H3)**
-       - Vocational rehabilitation and employment for ppl who qualify: ~https://www.va.gov/careers-employment/dependent-benefits/~
+       - Vocational rehabilitation and employment for ppl who qualify:
          - Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
          - Spina Bifida Health Care Benefits Program: https://www.va.gov/disability/eligibility/special-claims/birth-defects/ 
     - **Get - Helpful tools(H3)**
@@ -204,7 +202,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Request decision review: https://www.va.gov/decision-reviews/
        - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
     - **More(H2)**
-       - How to choose GI Bill approved schools: ~https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/~ https://www.va.gov/education/choosing-a-school
+       - How to choose GI Bill approved schools: https://www.va.gov/education/choosing-a-school
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
 
 - **Life insurance**
@@ -243,7 +241,7 @@ For phase 1, each subhub will feature links and a short description to the follo
   - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
   - **Manage(H2)**
-      - Schedule a burial for a Veteran: https://www.va.gov/burials-memorials/schedule-a-burial/
+       - Schedule a burial for a Veteran: https://www.va.gov/burials-memorials/schedule-a-burial/
        - Request Veteran military records: https://www.va.gov/records/get-military-service-records/
        - Request decision review: https://www.va.gov/decision-reviews/
        - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
@@ -252,6 +250,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Find a cemetery: https://www.cem.va.gov/cems/listcem.asp
        - Find a grave: https://www.cem.va.gov/nationwide-gravesite-locator/
        - File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
+
 
 ## <a name="redirects"></a>Redirects <br>
 We'll need to create a redirect ticket after we finalize H1s (and thus urls). All of the redirects should happen on the same day and should be either at the same time as publishing or right after.
