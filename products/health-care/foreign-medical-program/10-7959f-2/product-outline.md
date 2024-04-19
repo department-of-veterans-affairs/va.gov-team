@@ -88,7 +88,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-- research and discovery need to be kicked off.
+- research and discovery kicked off, wifreframes in progress.
   
 Key deliverables:
 - design:
