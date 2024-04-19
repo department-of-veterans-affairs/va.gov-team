@@ -55,12 +55,20 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 #### We assume... some might have issues recalling the places/dates they served with how the questions are worded.
 - Somewhat true.
+- We watched participants manually enter dates from memory and were surprised that some remembered them off the top of their head, especially if the exposure was during training.
+- 3 out of those 6 participants said it would be very difficult or impossible for them to identify the exact dates.
+- Most participants said they would look at their DD-214 and one participant said it's a different document for Army Reserve members.
+- We uncovered a usability issue where a Veteran recalled exposure over a day or two but wasn't able to enter the same month and year for start and end dates.
 
 #### We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history information.
 - Somewhat true.
+- 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
+- One Veteran said if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
 
 #### We assume... some Veterans might want additional explanatory visuals such as maps or links to help them with quicker recall of these service location questions.
 - Likely false.
+- This didn't naturally come up from any of the participants. It was more common that the content was unclear or misleading for the TERA questions.
+- 2 participants opened the link to learn more about other toxic exposures and neither found it particularly helpful. 
 
 
 ## Key Findings
