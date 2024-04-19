@@ -12,17 +12,14 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-    - **Sub Goal: Discovery -Stand-alone Travel for  VistA Sites**
-    - **Sub Goal: Discovery - Check Travel Eligibility**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Analyze current metrics to see what they tell us**    
-- **GOAL: Improve Metrics**
-    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: DevOps Improvements**
 
@@ -38,11 +35,11 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - TBD
 - **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
+        - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281) 
-    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
-        - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
         - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
@@ -65,12 +62,9 @@ ________________________________________________________________________________
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
             - Is it too soon to do this?
-- **GOAL: Improve Metrics**
-    - **Sub Goal: Update Dashboards & Custom Events to Google Analytics 4**
-        - TBD
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: DevOps Improvements**
-        - TBD
+        - 🟨 [[DevOps] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
 </details>
 
 ______________________________________________________________________________________________________________________________________________________
