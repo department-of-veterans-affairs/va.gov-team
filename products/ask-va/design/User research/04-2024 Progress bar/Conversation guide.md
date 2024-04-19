@@ -101,6 +101,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
+- Are they familiar with Ask VA?
 
 </details>
 
