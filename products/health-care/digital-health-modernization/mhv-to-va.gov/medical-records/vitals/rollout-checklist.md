@@ -28,7 +28,7 @@ For an application to enter rollout Phase 0, the following must be true:
      
 - [x] Review established definition of done for MVP 
 
-- [ ] Go-no-go meeting(s) scheduled 
+- [X] Go-no-go meeting(s) scheduled 
      - [ ] After readiness & staging review 
      - [ ] Accessibility is included  
 
@@ -174,8 +174,8 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Legal & Policy  
 
-- [ ] Application reviewed for potential legal implications 
+- [X] Application reviewed for potential legal implications 
 
-- [ ] Application reviewed for adherence to policies 
+- [X] Application reviewed for adherence to policies 
 
-- [ ] Application reviewed for information accuracy and patient safety 
+- [X] Application reviewed for information accuracy and patient safety 
