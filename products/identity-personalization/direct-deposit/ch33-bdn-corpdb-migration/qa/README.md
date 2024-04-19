@@ -70,6 +70,13 @@ Ensure the correct feature flipper(s) are enabled.
 
 
 
+Trailing spaces cause the inline validation error to trigger, probably should ignore the space
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/160d855c-20bc-4c40-bf64-6e1e5c101e9a)
+
+better handling for letters? the inline error should say something more specific 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/5e9e06be-8764-4e14-92cd-34569f337f40)
+
+
 
 
 ## Staging Review Prep 
