@@ -68,31 +68,35 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Intended product outcomes are documented and broadly communicated 
 
-- [ ] Technical instrumentation is in place to track GA 
+- [X] Technical instrumentation is in place to track GA
+      Required DD analytics in place, will convert to GA4 as its ready
 
-- [ ] All steps of the collaboration cycle are complete  
+- [X] All steps of the collaboration cycle are complete
+      Required Collab Cycle Phase 0 complete - as all domains are done we will go to final Collab Cycle 
 
-- [ ] All the MUST feedback complete 
+- [X] All the MUST feedback complete
+      See above, all MUST feedback was completed for first domain, remaining domains go prior to Phase 1 launch
 
 - [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
-- [ ] Establish email box for the feedback loop 
+- [X] Establish email box for the feedback loop
+      Email box set up for all Phase 0 domains and products
  
    
 # Confirm with the following teams that they are ready for rollout: 
 
 ### User feedback / research  
 
-- [ ] QA / user acceptance testing completed  
+- [X] QA / user acceptance testing completed  
 
-- [ ] Research documented in Github 
+- [X] Research documented in Github 
 
 
 
 ### Accessibility 
 
-- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
-
+- [X] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed
+      Ongoing accessibility testing is completed (domain by domain) - as mentioned above final staging review will happen as all domains are in Phase 0.
  
 
 ### UX/UI  
@@ -136,17 +140,17 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Downstream services tested at 2x average load for prior 12 months 
 
-- [ ] DataDog monitors exist 
+- [X] DataDog monitors exist 
 
-- [ ] Alerts exist 
+- [X] Alerts exist 
 
-   - PagerDuty 
+   - PagerDuty - *configured for entire product as well as all MHV*
 
-    - Slack 
+    - Slack - *standard alerting ready as with other Phase 0 domains*
 
-- [ ] On-call rotation exists 
+- [X] On-call rotation exists - *Same as with other domains, PI15 we will have work to continue to enhance*
 
-- [ ] Technical support escalation policy exists 
+- [X] Technical support escalation policy exists - *Standard processes with VA.gov*
 
  
 ### Analytics & Metrics  
@@ -157,10 +161,12 @@ For an application to enter rollout Phase 0, the following must be true:
 
     - Access 
 
-    - Dashboard exists 
+    - Dashboard exists
+     
+      *Standard tags exist - will be working to create GA4 dashboards as it is ready.  Using DD in the meantime.*
 
-- [ ] Domo 
-    - Access 
+- [X] Domo 
+    - Access - *using DD currently*
 
     - Dashboard exists 
 - [x] Datadog 
