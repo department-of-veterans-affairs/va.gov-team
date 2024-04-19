@@ -33,7 +33,7 @@
 |31|Yes|Applicant| Can you confirm that this is the form to use to start the process of a family member obtain a "helpless child rating" for a Veteran's child. Does VA require an examination of the child? |no|yes|VBA-21-686c-ARE is only for reporting dependents. That’s the form where they claim dependents (add new spouse, remove, add children, etc). The rating decision process need to start with contacting the regional office. The medical records would be examined… not the child. Rating done by the VBA(only). Done before the age of 18… unless there are special circumstances. This rating is needed for sponsor’s children only, not the sponsor. Premal may have a contact if we need more details on the process. |
 |32|New|Applicant| Is there an age requirement to be a Power of Attorney?|no|yes||
 |33|New|Applicant| Can CHAMPVA accept non VA Power of Attorney forms?|no|yes||
-|34|New|Applicant| would you the phone listed for each applicant to contact them about medical info or just information concerning thier application- this pertians to both the 1010d and 7959c|no|yes||
+|34|New|Applicant| Would you use the phone number listed for each applicant to contact them about medical info or just information concerning thier application- this pertains to both the 1010d and 7959c|no|yes||
 
 
 
