@@ -29,14 +29,15 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
+    - ❗🟦 [[DevOps] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
     - **Sub Goal: Move to New AWS Instance**
-        - TBD
+        - ❗ TBD
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - TBD
+        - ❗ TBD
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
-        - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
+        - ❗ 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281) 
@@ -45,10 +46,8 @@ ________________________________________________________________________________
         - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - 🟩 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80942)
         - 🟩 [Integrate with the New CES Modality Service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Remove 'check_in_experience_travel_claim_redis_client_refactor' feature flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80792)
         - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
         - 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
         - 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
@@ -57,6 +56,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Details Page: Show Information for a Cancelled Appointment ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
+        - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
@@ -64,8 +64,7 @@ ________________________________________________________________________________
             - Is it too soon to do this?
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: DevOps Improvements**
-        - 🟨 [[DevOps] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
-</details>
+        - TBD
 
 ______________________________________________________________________________________________________________________________________________________
 
