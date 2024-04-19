@@ -42,9 +42,11 @@ However, we chose the shared component path. The shared component will need to b
 
 ### Feature Toggles
 
-The MHV tools and landing page all have [feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L105-L120) that affect how different parts of MHV-on-VA.gov appear
+The MHV tools and landing page all have [feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L105-L120) that affect whether different parts of MHV-on-VA.gov appear, or what features are available. 
 
 #### Existing feature toggles (as seen on frontend on 19 April)
+
+The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L204-L231), but is already live on VA.gov and so shouldn't need to add or flip on any feature toggles.
 
 | Feature Toggle | Enable on release? | Comments |
 | - | - | - | 
