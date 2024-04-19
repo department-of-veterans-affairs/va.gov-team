@@ -39,7 +39,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Communication  
 
-- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+- [X] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
 - [ ] Email to trusted users is shared with contact center teams and coordinators  
 
@@ -170,7 +170,6 @@ For an application to enter rollout Phase 0, the following must be true:
 
      - RUM code implemented
 
- 
 
 ### Legal & Policy  
 
