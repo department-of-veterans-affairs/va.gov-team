@@ -97,7 +97,7 @@ Veterans found a separate page for a copy of their submission was redundant to t
 
 On the initial 2 screen prototype, 6 out of 7 Veterans missed the link to the second screen. When prompted, Veterans mentioned that the link language made them believe that the form has yet been submitted. When guided to the second screen, Veterans mentioned that the information is useful, but had the expectation that the information on the two pages to be combined.
 
-> This page sounds good like I was thinking as we could easily take the previous page and merge some of the elements from that page onto this page and get rid of that previous page altogether. Just because that previous page really serves little purpose concerning that you're doing that confirm confirmation 2 pages back, or just somehow. Yeah, this is the more important of the 2 pages we've reviewed. Yeah, can you expand on why you, this is more important just actually is what you have just submitted. - **P7**
+> This page sounds good like I was thinking as we could easily take the previous page and merge some of the elements from that page onto this page and get rid of that previous page altogether. Just because that previous page really serves little purpose concerning that you're doing that confirmation 2 pages back, or just somehow. Yeah, this is the more important of the 2 pages we've reviewed. - **P7**
 
 > I would say it's a probably about a 4 out of 5 for usefulness, and say that only because it seems redundant to the previous page. Okay, there's a bit of redundancy here. It's kind of going through same thing over and over, the other one just said, if you want to view it and then print it or view it, and save it, or whatever that button was on the other page, support you here, which said the same thing. But this one obviously says, more information on your phone numbers and addresses. I think 2 of them could be combining into just one page. - **P8**
 
@@ -108,7 +108,7 @@ Veterans prefer saving a digital or physical copy of their submission. If they s
 
 Veterans expressed interest in saving a copy of their submission for their records, even if they hope to not have to revisit the information again. Instead, they would reference it for the Next Steps information, and ways to contact VA. They aren’t as interested in coming back to the site for this information, citing that they weren’t sure if this information could be kept long-term and it was more difficult to navigate on the site vs within their documents.
 
-> So from an electronic copy, when I go to file and stuff like that. It's on the computer. I get mailed stuff, all that type of stuff. Here's forms that I have to fill out on hand and sign initialize and send in. I have those copies, hard copies. and then I have screenshots on my phone from when I use the app. So I paper trails all over the place. And again, that's from a militaryism that's when I was in the military and then, more importantly, when I started filing this in 2016. I don't know how many times in that first year I got the “we didn't get the form. It was this form, you filled out that form.” And so in the beginning, when I was doing paper copies, I was actually taking pictures with my phone to say, “here's the form that I submitted.” So when they turn around and say that I didn't submit it, I could be like, “here, here's me in the VA center, here's the VA people, here's the form.” - **P13**
+> So from an electronic copy, when I go to file and stuff like that. It's on the computer. I get mailed stuff, all that type of stuff. Here's forms that I have to fill out on hand and sign initialize and send in. I have those copies, hard copies. and then I have screenshots on my phone from when I use the app. So paper trails all over the place. And again, that's from a militaryism that's when I was in the military and then, more importantly, when I started filing this in 2016. I don't know how many times in that first year I got the “we didn't get the form. It was this form, you filled out that form.” And so in the beginning, when I was doing paper copies, I was actually taking pictures with my phone to say, “here's the form that I submitted.” So when they turn around and say that I didn't submit it, I could be like, “here, here's me in the VA center, here's the VA people, here's the form.” - **P13**
 
 > If I had downloaded a copy. Even if I was waiting for the physical version to be mailed, I don't think I would [return to this page]. Just don't want to see a reason to, you know all of the information that would be on this page. I would expect to be in that PDF. - **P15**
 
@@ -116,7 +116,7 @@ Veterans expressed interest in saving a copy of their submission for their recor
 
 >  I'm going to save this in case we need it or have to go over it or resubmit it. Cause I'm not trying to fill out in more information all over again. - **P14**
 
-> You know I would save it. So. So I would have a copy of what's going on that way. I don't have to keep going to the website to do it, you know. that's a pretty secure way of doing it. Because, you know, most people don't shred their information, or whatever you just store it in a garbage. And that's a great way of being hacked. So that's why I save everything on my devices. - **P19**
+> You know I would save it. So I would have a copy of what's going on that way. I don't have to keep going to the website to do it, you know. that's a pretty secure way of doing it. Because, you know, most people don't shred their information, or whatever you just store it in a garbage. And that's a great way of being hacked. So that's why I save everything on my devices. - **P19**
 
 
 ### Finding 3
@@ -126,13 +126,14 @@ Veterans found the 'What to Expect Next' section valuable, and would want to hig
 
 Majority of Veterans called out the note about 7-10 days and use it as a guidance for their immediate next action. If they don’t see their appeal in the status tool within that time range, they would call. Many Veterans also expect the next steps to include more details about how long the entire process should take.
 
-> I’ve known, and I've worked with veterans that don't live in areas where they can access internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get any sort of access. I would want to know that cause it's not always practical for some people. - **P11**
+> I’ve known, and I've worked with Veterans that don't live in areas where they can access internet and phones on a daily basis. So being able to know a timeline that I could expect to have information available because I'm gonna you know, just sit in their shoes. I would have to go into a town or another area more populous to get any sort of access. I would want to know that cause it's not always practical for some people. - **P11**
 
 > We're always left wondering how they're gonna reach out to you and obviously, a paper trail is always good.  - **P16**
 
 > What's going to happen next? And that's always good. Yeah. Cause you don't know. People just don't know. - **P1**
 
-> I would love to for it to say exactly what those 7-10 days are, are those business days? it would be great to have a pop up or calendar link API for the next holiday link so (missed commentary on expectation setting given federal holidays) - **P11**
+> I would love to say, explain to me what those 7 to 10 days are are those business days or those week days, you know. I know government holidays are quite extensive, I would imagine. For example, I don't have President's Day off, but I imagine the Government does. I would really like it was explained, to have like a pop up, you know, some sort of calendar link API.
+ - **P11**
 
 > It's gonna take 7 to 10 busy days. So you don't have to worry, because you know. Oh, well, it's not up there, and it's not up there, you know. You get a basic timeline of when it's going to be up there. - **P19**
 
