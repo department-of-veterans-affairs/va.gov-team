@@ -20,6 +20,12 @@ Primary Github artifacts:
 - Main UX design ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74454)
 - Implementation ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80401)
 
+### Changes required within tool applications
+- Secure messaging app has a bespoke secondary nav that will probably need to change or be removed
+- Bread crumbs within tools should point back to the MHV landing page on VA.gov instead of MHV Classic
+- Any link within a tool that cross-links directly to another tool should point to the tool on VA.gov
+- MHV secondary navigation component should show on all tools and child and their child pages
+
 ### Questions log
 - Is any new handling required for Veterans with Oracle facilities?
 
