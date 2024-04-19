@@ -1,14 +1,16 @@
-# Access to MHV on VA.gov
+# Access to and visibility of thing on MHV on VA.gov
 
 ## Summary
 
-When the MHV-on-VA.gov landing page was created, we knew we needed to restrict access to veterans who might have health information at the VA from being seen at a facility, in addition to using feature flags to roll this page out to a percentage of users. Since the landing page was created while MHV tools were being built on VA.gov, the team wanted to make sure veterans could reach appropriate pages on VA.gov or the My HealtheVet national portal.
+When the MHV-on-VA.gov landing page was created, we knew we needed to restrict access to veterans who might have health information at the VA from being seen at a facility, in addition to using feature flags to roll this page out to a percentage of users (or redirect them to the My HealtheVet national portal). Since the landing page was created while MHV tools were being built on VA.gov, the team wanted to make sure veterans could reach appropriate pages on VA.gov or the My HealtheVet national portal.
 
-After looking at what data was available, the team determined that the MHV landing page should appear only to users who had a facility listed in their profile. Otherwise, the veteran would be redirected to the the My HealtheVet national portal.
+After looking at what data was available, the team determined that the MHV landing page should present different links depending on whether users had a facility listed in their profile. Links can point to My HealtheVet tools or to VA.gov tools based on feature toggles. The page itself requires a user be logged in, and may hide links if a user doesn't have a verified account or if they don't have a facility in their profile.
+
+Users who log in with an account that isn't verified (higher than LOA1) see an `< IdentityNotVerified />` message. Users who are verified but don't have facility data see a `<NoHealthAlert />`.
 
 Other tools, forms, etc. may have different criterion for showing those pages.
 
-## Discussion: who needs to see their data in My HealtheVet
+## Discussion: Who needs to see their data in My HealtheVet?
 
 My HealtheVet needs to be visible to:
 
@@ -22,7 +24,7 @@ My HealtheVet needs to be visible to:
 
 In order to determine access to the MHV Landing Page, we look at a logged-in users's facility information for the presence of one or more facility entries, which means they were seen at a VA facility.
 
-## Discussion: how do tools and forms determine visibility
+## Discussion: How do tools and forms determine visibility?
 
 ### 1010EZ and 1010EZR
 
