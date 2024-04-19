@@ -1,11 +1,11 @@
 # Claim Details V2 Release Plan 
 ## Phase I: UAT 
 ### Planning: 
-Desired date range or test duration: 4/19/24, 1 day 
-Desired number of users: 3 
-How you'll recruit the right production test users: We’ll be using personal and professional networks to recruit production test users.  
-How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
-How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle  
+- Desired date range or test duration: 4/19/24, 1 day 
+- Desired number of users: 3 
+- How you'll recruit the right production test users: We’ll be using personal and professional networks to recruit production test users.  
+- How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle  
 ### Results:  
 - Number of users:   
 - Number of bugs identified / fixed:  
