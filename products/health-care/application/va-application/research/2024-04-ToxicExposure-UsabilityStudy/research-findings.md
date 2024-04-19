@@ -73,24 +73,22 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 ## Key Findings
 
-1. <b>Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."</b>
+<b>1. Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."</b>
 
-2. <b>Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.</b>
+<b>2. Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.</b>
 
-3. <b>Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
+<b>3. Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
 
-4. <b>There is some confusion with how to identify exposure dates and why VA is asking for them.</b>
+<b>4. There is some confusion with how to identify exposure dates and why VA is asking for them.</b>
 
-5. <b>We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.</b>
+<b>5. We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.</b>
 
 
 ## Details of Findings 
 
 **Finding 1: Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."**
 
-Labels: label 1, label 2 
-
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+Labels: AUD: Veterans, 
 
 - 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure."
 - 6 out of 7 said they would want more information or explanation on something within the toxic exposure questions.
