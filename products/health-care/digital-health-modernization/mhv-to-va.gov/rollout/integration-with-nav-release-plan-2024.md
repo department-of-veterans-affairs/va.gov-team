@@ -25,6 +25,7 @@ Primary Github artifacts:
 - Bread crumbs within tools should point back to the MHV landing page on VA.gov instead of MHV Classic
 - Any link within a tool that cross-links directly to another tool should point to the tool on VA.gov
 - MHV secondary navigation component should show on all tools and child and their child pages
+- All three tools on VA.gov need to provide an alert to Oracle patients that they may need My VA Health. (SM and Appts already have it as of 4/17/24)
 
 ### Questions log
 - Is any new handling required for Veterans with Oracle facilities?
