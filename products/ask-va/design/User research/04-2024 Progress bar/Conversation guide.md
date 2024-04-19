@@ -292,6 +292,8 @@ Okay great. Let’s choose `Education benefits and work study` and then go to th
 - What would they choose to do when the sign in alert appears? For example, would they sign in, go back and choose a different category, etc.
 - Does the sign in screen seem familiar?
 - Is it clear where they land after they sign in?
+- Do they understand where they are?
+- Do they understand how to start a new question?
 - How do they react to needing to start over again?
 
 </details>
