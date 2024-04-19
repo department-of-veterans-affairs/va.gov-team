@@ -1,3 +1,5 @@
+**Date and time:**
+
 ## **Instructions**
 
 We will be able to get ok transcripts from EnjoyHQ, so focus notes on observations, clearly defined interpretations, and impactful utterances.
