@@ -56,7 +56,6 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 #### We assume... some might have issues recalling the places/dates they served with how the questions are worded.
 - Somewhat true.
 
-
 #### We assume... Veterans expectations around the toxic expsoure questions is that the VA should already have their service history information.
 - Somewhat true.
 
@@ -64,52 +63,17 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 - Likely false.
 
 
-## Primary Findings
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)_
+## Key Findings
 
 1. <b>Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."</b>
 
 2. <b>Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.</b>
-- 4 out of 7 Veterans mentioned that they were likely exposed to toxins during training but don't know/don't think that counts.
-- We learned that everyone in the military goes through basic training and repeatedly heard that there may have been some toxins present during training, some of which are included in the "other toxic exposures" page and some that are not, but all of those Veterans expressed hesitancy to enter that information because they weren't sure if it qualified.
-- One participant was confused about the Gulf War question because they knew of multiple Gulf Wars and the dates are not included in the question.
-
-Key quotes:
-
->P9: "[I was exposed to contaminated water] during training, but that's not considered active duty time. What I've been told through this whole process is it has to be specific active orders. It can't be something such as, you're on training orders at a facility. They told me all of that is not considered part of a claim." ... ""That's why it's so hard for me to even make a claim. <B>If you never got deployed out of the country, you're essentially a nobody.</b>"
-
->P2: "I'm putting 'tear gas' because just about everyone goes through tear gas training in basic training. When you're going through basic training, you don't ask, 'Hey what's in the tear gas to make me tear and gag and just about throw up?' You know, you don't ask that. You just do as you're told."
-
->P4: "I was deployed to Haiti and I may not be defining burn pits the way that they're defining them, so I don't know."
-
->P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield.  Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
 3. <b>Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
-- 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
-- 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out
-
-Key quotes:
-
-> P6: "I don’t know when Agent Orange stopped being used but I feel like this question could be eliminated based on some of the previous ones."
-
-> P5: "If I clicked Southwest Asia in Gulf War during that timeframe, Spain and Greenland would have nothing to do with the Southwest Asia [response]. These cleanup response efforts would not coincide with what I clicked."
-
-> P4: "For example, if I tell you that I've only been in Montana my entire career, then you could pretty much stop asking questions after that because it would be very unlikely that I was exposed to any of this stuff."
 
 4. <b>There is some confusion with how to identify exposure dates and why VA is asking for them.</b>
-- 6 out of 7 Veterans expressed some sort of difficulty identifying exposure dates, and 3 out of those 6 specifically said it would be very difficult or impossible for them.
-- A Veteran who was exposed to firefighting foams for a day or two during training didn't know how to enter dates that were for less than a month and got an error when he entered the same month and year for start and end dates.
-
-Key quotes:
-> P6: "If I already entered my SSN why does it need dates that I might not remember?"
-
-> P6: "I'd be looking this up from some old scanned pages. It does say you don't need exact dates, which is nice, but so much is very exact in forms and military stuff. It feels like if it's wrong, it's gonna be a problem."
 
 5. <b>We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.</b>
-- For every participant, when the user advances the page in the form they were not automatically scrolled back up to the top of the page.
-- One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard."
-- Our one participant who uses a screen reader extension in Chrome was not able to use it for the session because the extension (called Read Aloud) was showing text from the intro page no matter where they were in the form. They ended up magnifying the page to complete the session.
 
   ## Secondary Findings
 
@@ -143,35 +107,63 @@ Key quotes:
 
 > P9: "I probably would've specified asbestos if I had more information of where it applied to, like in general facilities where you stayed or anything asbestos-related. [It would be more clear if] maybe they gave examples of where it might be."
 
-**Finding 2**
+**Finding 2: Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- 4 out of 7 Veterans mentioned that they were likely exposed to toxins during training but don't know/don't think that counts.
+- We learned that everyone in the military goes through basic training and repeatedly heard that there may have been some toxins present during training, some of which are included in the "other toxic exposures" page and some that are not, but all of those Veterans expressed hesitancy to enter that information because they weren't sure if it qualified.
+- One participant was confused about the Gulf War question because they knew of multiple Gulf Wars and the dates are not included in the question.
 
-Brief description
+Key quotes:
 
-> _Supporting data: Quote here_
+>P9: "[I was exposed to contaminated water] during training, but that's not considered active duty time. What I've been told through this whole process is it has to be specific active orders. It can't be something such as, you're on training orders at a facility. They told me all of that is not considered part of a claim." ... ""That's why it's so hard for me to even make a claim. <B>If you never got deployed out of the country, you're essentially a nobody.</b>"
 
-> _Supporting data: Quote here_
+>P2: "I'm putting 'tear gas' because just about everyone goes through tear gas training in basic training. When you're going through basic training, you don't ask, 'Hey what's in the tear gas to make me tear and gag and just about throw up?' You know, you don't ask that. You just do as you're told."
+
+>P4: "I was deployed to Haiti and I may not be defining burn pits the way that they're defining them, so I don't know."
+
+>P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield.  Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
 
-**Finding 3**
+**Finding 3: Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
 
 Labels: label 1, label 2 
 
-_List all labels that apply to this finding from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc)._
+- 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
+- 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out
 
-Brief description
+Key quotes:
 
-> _Supporting data: Quote here_
+> P6: "I don’t know when Agent Orange stopped being used but I feel like this question could be eliminated based on some of the previous ones."
 
-> _Supporting data: Quote here_
+> P5: "If I clicked Southwest Asia in Gulf War during that timeframe, Spain and Greenland would have nothing to do with the Southwest Asia [response]. These cleanup response efforts would not coincide with what I clicked."
 
+> P4: "For example, if I tell you that I've only been in Montana my entire career, then you could pretty much stop asking questions after that because it would be very unlikely that I was exposed to any of this stuff."
+
+**Finding 4: There is some confusion with how to identify exposure dates and why VA is asking for them.**
+
+Labels: label 1, label 2 
+
+- 6 out of 7 Veterans expressed some sort of difficulty identifying exposure dates, and 3 out of those 6 specifically said it would be very difficult or impossible for them.
+- A Veteran who was exposed to firefighting foams for a day or two during training didn't know how to enter dates that were for less than a month and got an error when he entered the same month and year for start and end dates.
+
+Key quotes:
+> P6: "If I already entered my SSN why does it need dates that I might not remember?"
+
+> P6: "I'd be looking this up from some old scanned pages. It does say you don't need exact dates, which is nice, but so much is very exact in forms and military stuff. It feels like if it's wrong, it's gonna be a problem."
+
+**Finding 5: We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.**
+
+Labels: label 1, label 2 
+
+- For every participant, when the user advances the page in the form they were not automatically scrolled back up to the top of the page.
+- One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard."
+- Our one participant who uses a screen reader extension in Chrome was not able to use it for the session because the extension (called Read Aloud) was showing text from the intro page no matter where they were in the form. They ended up magnifying the page to complete the session.
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+
 
 
 ## Recommendations
