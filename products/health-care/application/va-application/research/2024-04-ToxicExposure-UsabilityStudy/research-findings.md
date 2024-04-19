@@ -170,17 +170,26 @@ Key quotes:
 
 > P5: "Why would you wanna know if I have insurance or not if you're saying that it's your fault that I was exposed and need care?"
 
-> P4: "This I'm a little confused about. It says [insurance] includes Medicare but I just said I have Medicare in the previous section so it seems like a duplication." "I already provided this information on the previous page so maybe I would say no [to ' Do you have health insurance coverage? question]."
+> P4: "This I'm a little confused about. It says [insurance] includes Medicare but I just said I have Medicare in the previous section so it seems like a duplication." "I already provided this information on the previous page so maybe I would say no [to 'Do you have health insurance coverage?' question]."
 
 3. <b>There is still some confusion and/or frustration with providing financial information in the 10-10EZ.</b>
-- 
+- There was some confusion from one participant about what to enter for other income if it didn't apply because the form doesn't let the user leave the fields blank.
+- One participant was confused because he had just entered information about his spouse and then wasn't sure if the form was asking for the entire household's income or just his.
+- 2 out of 7 participants said they would not want to provide their financial info.
+- 4 out of 7 participants expressed confusion about one or more of the financial info questions.
+
+Key quotes:
+
+> P5: "Of course no one ever wants to provide their financial information. ...I know I need medical help but now you're saying some of this might be based upon my income and then you're talking about verifying stuff with the IRS - I find that a little bothersome."
+
+> P3: "It says it's required but I don't have any of that income so I assume I have to answer a zero."
+
+> P4: "Gross income before taxes...and this is just mine, not my wife's? Well it's misleading because it says household financial information at the top but then it says gross income from work. I think it could be more specific. I will put our entire household income in."
 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
-* Recommendation 1
+* Recommendation 1: 
     * _Supporting evidence_
 * Recommendation 2
     * _Supporting evidence_
