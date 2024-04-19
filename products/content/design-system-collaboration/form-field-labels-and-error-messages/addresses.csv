@@ -3,7 +3,7 @@ section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions
 /patterns,/ask-users-for,/addresses,address,Physical address,,,,,,,,,,"Changing ""home address"" to ""physical address"" to align with USWDS"
 /patterns,/ask-users-for,/addresses,address,Country,,,No selection,Select a country,,,,,,"Changing from ""Country is required"" to ""Select a country"" to avoid passive"
 /patterns,/ask-users-for,/addresses,address,Street address,,,No entry,Enter a street address,,,,,,Slight adjustment to avoid passive voice
-/patterns,/ask-users-for,/addresses,address,Street address line 2,,,,,,,,,Apartment or unit number,
+/patterns,/ask-users-for,/addresses,address,Street address line 2,,,,,,,,,,
 /patterns,/ask-users-for,/addresses,address,Street address line 3,,,,,,,,,,
 /patterns,/ask-users-for,/addresses,address,City,,,No entry,Enter a city,,,,,,Slight adjustment to avoid passive voice
 /patterns,/ask-users-for,/addresses,address,"State, province, or region",,,,,,,,,,"Slight adjustment to lowercase province and region. Changed the error message for ""no entry"" to align with standards and be more relevant for U.S. audiences."
