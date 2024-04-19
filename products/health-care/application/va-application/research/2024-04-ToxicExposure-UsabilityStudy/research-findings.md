@@ -88,20 +88,17 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 **Finding 1: Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."**
 
-Labels: AUD: Veterans, 
-
 - 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure."
 - 6 out of 7 said they would want more information or explanation on something within the toxic exposure questions.
 
 Key quotes:
+
 > P3: "I don't know how you would classify that something was toxic or not. In the military you're always running into something that's toxic."
 
 > P9: "I probably would've specified asbestos if I had more information of where it applied to, like in general facilities where you stayed or anything asbestos-related. [It would be more clear if] maybe they gave examples of where it might be."
 
 
 **Finding 2: Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.**
-
-Labels: label 1, label 2 
 
 - 4 out of 7 Veterans mentioned that they were likely exposed to toxins during training but don't know/don't think that counts.
 - We learned that everyone in the military goes through basic training and repeatedly heard that there may have been some toxins present during training, some of which are included in the "other toxic exposures" page and some that are not, but all of those Veterans expressed hesitancy to enter that information because they weren't sure if it qualified.
@@ -120,8 +117,6 @@ Key quotes:
 
 **Finding 3: Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
 
-Labels: label 1, label 2 
-
 - 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
 - 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out
 
@@ -136,8 +131,6 @@ Key quotes:
 
 **Finding 4: There is some confusion with how to identify exposure dates and why VA is asking for them.**
 
-Labels: label 1, label 2 
-
 - 6 out of 7 Veterans expressed some sort of difficulty identifying exposure dates, and 3 out of those 6 specifically said it would be very difficult or impossible for them.
 - A Veteran who was exposed to firefighting foams for a day or two during training didn't know how to enter dates that were for less than a month and got an error when he entered the same month and year for start and end dates.
 
@@ -149,15 +142,13 @@ Key quotes:
 
 **Finding 5: We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.**
 
-Labels: label 1, label 2 
-
 - For every participant, when the user advances the page in the form they were not automatically scrolled back up to the top of the page.
 - One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard."
 - Our one participant who uses a screen reader extension in Chrome was not able to use it for the session because the extension (called Read Aloud) was showing text from the intro page no matter where they were in the form. They ended up magnifying the page to complete the session.
 
 ## Additional Insights
 
-1. <b>Veterans expressed wanting VA to take on the burden of finding the relevant individuals and/or having their medical history on file.</b>
+<b>1. Veterans expressed wanting VA to take on the burden of finding the relevant individuals and/or having their medical history on file.</b>
 - 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
 - One Veteran said if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
 
@@ -168,7 +159,7 @@ Key quotes:
 > P4: "I would have expected them to digitize my medical records from when I was in the military. It's one of the reasons I don't file a VA claim."
 
   
-2. <b>There is still some confusion and/or frustration with providing insurance information in the 10-10EZ.</b>
+<b>2. There is still some confusion and/or frustration with providing insurance information in the 10-10EZ.</b>
 - 2 participants expressed frustration with having to provide insurance information and not knowing why it's necessary.
 - One participant who had Medicare was confused that the form asks about Medicare/Medicaid and then he'd still have to enter Medicare information as insurance in the next step.
 
@@ -178,7 +169,7 @@ Key quotes:
 
 > P4: "This I'm a little confused about. It says [insurance] includes Medicare but I just said I have Medicare in the previous section so it seems like a duplication." "I already provided this information on the previous page so maybe I would say no [to 'Do you have health insurance coverage?' question]."
 
-3. <b>There is still some confusion and/or frustration with providing financial information in the 10-10EZ.</b>
+<b>3. There is still some confusion and/or frustration with providing financial information in the 10-10EZ.</b>
 - There was some confusion from one participant about what to enter for other income if it didn't apply because the form doesn't let the user leave the fields blank.
 - One participant was confused because he had just entered information about his spouse and then wasn't sure if the form was asking for the entire household's income or just his.
 - 2 out of 7 participants said they would not want to provide their financial info.
@@ -195,10 +186,12 @@ Key quotes:
 
 ## Recommendations
 
-* Recommendation 1: 
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* Recommendation 1: Meet with our Health Enrollment Center stakeholders to discuss what's possible in terms of clarifying what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group and are truly worth a Veteran's time to report.
+* Recommendation 2: After meeting with stakeholders, explore content updates for "Other toxic exposures" page to increase clarity for users.
+* Recommendation 2: Make it more clear via content or placement that toxic exposure during training does count and should be reported in the TERA questions.
+    * We repeatedly heard 
+    * _7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure."_
+    * _6 out of 7 said they would want more information or explanation on something within the toxic exposure questions._
 
 
 ## Next Steps
