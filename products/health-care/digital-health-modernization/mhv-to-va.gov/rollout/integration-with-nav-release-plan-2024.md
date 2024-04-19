@@ -40,6 +40,31 @@ We could implement secondary navigation in the sitewide header, near where prima
 
 However, we chose the shared component path. The shared component will need to be added to each app that requries it, and placed within the code at a particular location in the code in order to visually appear to be just below the primary navigation without any visible gap.
 
+### Feature Toggles
+
+The MHV tools and landing page all have [feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L105-L120) that affect how different parts of MHV-on-VA.gov appear
+
+#### Existing feature toggles (as seen on frontend on 19 April)
+
+| Feature Toggle | Enable on release? | Comments |
+| - | - | - | 
+| "mhvLandingPageEnabled" | Yes | Landing page should be enabled in Phase 1 launch and not disabled after. Remove toggle after Phase 1? |
+| "mhvLandingPagePersonalization" |  | Personalization not tied to phase 1 |
+| "mhvSecureMessagingToVaGovRelease" | Yes? |  |
+| "mhvSecureMessagingToPhase1" | Yes? |  |
+| "mhvSecureMessagingCernerPilot" |  |  |
+| "mhvMedicalRecordsAllowTxtDownloads" |  |  |
+| "mhvMedicalRecordsDisplayConditions" |  |  |
+| "mhvMedicalRecordsDisplayDomains" |  |  |
+| "mhvMedicalRecordsDisplayLabsAndTests" |  |  |
+| "mhvMedicalRecordsDisplayNotes" |  |  |
+| "mhvMedicalRecordsDisplaySidenav" |  |  |
+| "mhvMedicalRecordsDisplayVaccines" |  |  |
+| "mhvMedicalRecordsDisplayVitals" |  |  |
+| "mhvMedicalRecordsToVaGovRelease" | No |  |
+| "mhvMedicationsToVaGovRelease" | Yes |  |
+| "mhvMedicationsDisplayRefillContent" | ? |  |
+
 ## Release strategy
 
 ### Smoke test
