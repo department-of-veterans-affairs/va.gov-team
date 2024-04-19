@@ -1,4 +1,4 @@
-# External Auth Data Reporting (Draft)
+# External Auth Data Reporting
 
 ## Overview: 
 External Auth Data Reporting is coming up with the data we are sharing with VA leadership and others surrounding the full authorization process, which is defined as a person doing the following: 
