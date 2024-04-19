@@ -2,7 +2,7 @@
 # VA Notify Things to Know
 
 ## Random Musings and Useful Stuff from the current PO
-
+Please excuse any typos.  Trying to clean this up on my last day was NOT the best idea 
 ### Useful Stuff
 
 **Quick Links**
@@ -154,9 +154,11 @@ This is supported by the platform, but hasn't been used.  The team would need to
  ### Not so Random Musings and Strong Opinions held Loosely
 
  **VA Notify is meant to be provider agnostic**
+ Although VA Notify is heavily integrated with AWS, it's meant to play with multiple providers.  At the moment, Cisco (IMI) is getting FedRamp'd and the provide SMS and voice notifications.
 
 
  **VA Notify should stay as pass through system**
+ The business logic that leads to a notification, should stay with the business.  If VA Notify starts dipping their hand in others code, it will cause problems in the future and it's not a good engineering practice.
 
  **Notification Portal**
 * It would be great to have Privacy Officers login the portal to review content.  The technical portion of this seems fairly straightforward, but getting Privacy Officers onboard with this idea might be a little tricky
