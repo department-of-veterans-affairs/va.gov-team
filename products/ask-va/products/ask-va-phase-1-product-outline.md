@@ -12,7 +12,7 @@ Last updated by @beckyphung on January 8, 2024
 - [Team and Stakeholders](#team-and-stakeholders)
 
 ## Overview
-AVA on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
+Ask VA (AVA) on the modernized VA.gov platform will be a digital support channel that works with other tools and features on VA.gov and VA ecosystems to quickly and accurately answer submitters' questions. Submitters should feel it is easy and intuitive to submit their issues and receive adequate updates and information that results in a final resolution. Ultimately, we want AVA to feel part of a cohesive and submitter-centered approach to support.
 
 ## Problem Statement
 Submitter should easily and intuitively be able to ask a question through Ask VA on VA.gov.
