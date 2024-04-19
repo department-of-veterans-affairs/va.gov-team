@@ -186,17 +186,13 @@ Key quotes:
 
 ## Recommendations
 
-* Recommendation 1: Meet with our Health Enrollment Center stakeholders to discuss what's possible in terms of clarifying what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group and are truly worth a Veteran's time to report.
-* Recommendation 2: After meeting with stakeholders, explore content updates for "Other toxic exposures" page to increase clarity for users.
+* Recommendation 1: After meeting with stakeholders, explore content updates for "Other toxic exposures" page to increase clarity for users.
 * Recommendation 2: Make it more clear via content or placement that toxic exposure during training does count and should be reported in the TERA questions.
-    * We repeatedly heard 
-    * _7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure."_
-    * _6 out of 7 said they would want more information or explanation on something within the toxic exposure questions._
+    * We repeatedly heard Veterans say they may have been exposed during training but didn't know if that counted. GET STAT
 
 
 ## Next Steps
-
-_Next steps here. Include owners if appropriate._
+- Meet with our Health Enrollment Center stakeholders to discuss what's possible in terms of clarifying what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group and are truly worth a Veteran's time to report.
 
 
 ## Further research needed
