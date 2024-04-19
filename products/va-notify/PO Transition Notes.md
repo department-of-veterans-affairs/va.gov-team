@@ -146,7 +146,9 @@ This is supported by the platform, but hasn't been used.  The team would need to
   - It would be helpful for leadership and businesses to be able to see/search on what notifications are already sending through VA Notify in case there's overlap or lessons to be learned for a similar notification. A way to solve for this would be to have the portal, in production, be searchable for key words in content that may bring up a notification you wouldn't have connected to a particular service name/notification title. This may not be the right solution as it may cause the team to maintain two code bases (staging and prod), but I would like to see team address this problem.
   - Assigning Service Admins in Portal.  In the coming months we plan to assign Service Admins to Services where it makes sense.  A Service Admin will act as the "admin" (sorry, I had to) for the Service.  They will be able add users to their services, add custom no-reply email addresses, etc.  This will give users greater power to self serve.
  
-
+**Sunsetted Features**
+* Onsite Notifications
+  This was taken down in October 2023, but [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications) is writeup on it
 
  ### Not so Random Musings and Strong Opinions held Loosely
 
