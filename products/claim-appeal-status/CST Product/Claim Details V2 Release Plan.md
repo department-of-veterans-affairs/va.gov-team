@@ -56,6 +56,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 25%
   <li>Qualitative feedback from social listening (VA Benefits Subreddit)</li>
   <li>Call center feedback</li>
 </ul>
+
 ### Stage C: High 
 #### Planning  
 Length of time: one week  
@@ -70,6 +71,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 50%
   <li>Call center feedback</li>
 </ul>
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
 ### Stage D: Very High 
 #### Planning  
 Length of time: one week  
@@ -84,6 +86,7 @@ Percentage of Users (and roughly how many users do you expect this to be): 75%
   <li>Call center feedback</li>
 </ul>
 What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+
 ## Go Live! 
 ### Planning:
 Desired date: 5/15/2024
