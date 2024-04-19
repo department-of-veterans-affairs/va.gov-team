@@ -131,10 +131,10 @@ For phase 1, each subhub will feature links and a short description to the follo
       - Mental health care: https://www.va.gov/health-care/health-needs-conditions/mental-health/
       - VA Dental Insurance Program: https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/
       - Camp Lejeune: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#benefits-for-families-who-live
-      - Spina Bifida: ~https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp~ https://www.va.gov/disability/eligibility/special-claims/birth-defects/
+      - Spina Bifida: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
       - Children of women vietman veterans: https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp
   - **Get - Additional benefits or services(H3)**
-      - Tricare: ~https://www.tricare.mil/~ Build out R&S page to link to on this program
+      - Tricare: *Build out R&S page to link to on this program*
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
@@ -149,24 +149,21 @@ For phase 1, each subhub will feature links and a short description to the follo
       - Request a decision review: https://www.va.gov/decision-reviews/
       - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
   - **More(H2)**
-        - Meds by Mail: https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp
-        - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
-        - Coaching into care: https://www.mirecc.va.gov/coaching/
-        - CHAMPVA FAQs: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA_faq.asp
-        - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp
-        - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
+      - Meds by Mail: https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp
+      - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
+      - Coaching into care: https://www.mirecc.va.gov/coaching/
+      - CHAMPVA FAQs: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA_faq.asp
+      - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp
+      - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
     
 - **Survivors compensation and accrued benefits**
    - **Get - Main (H2)**
        - DIC: https://www.va.gov/disability/dependency-indemnity-compensation/
-       - ~Survivor DIC rates: https://www.va.gov/disability/survivor-dic-rates/~
-       - ~Parent DIC rates: https://www.va.gov/disability/parent-dic-rates/~
        - VA Survivors Pension: https://www.va.gov/pension/survivors-pension/
-       - ~Survivors Pension rates: https://www.va.gov/pension/survivors-pension-rates/~
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
    - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
-       - **ADDED** Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
+       - Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
    - **Manage(H2)**
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -182,12 +179,8 @@ For phase 1, each subhub will feature links and a short description to the follo
 - **Education and career benefits**
    - **Get - Main (H2)**
        - Transfered edu. benefits for family: https://www.va.gov/education/survivor-dependent-benefits/transferred-benefits/
-       - ~Transfered edu benefit rates: https://www.va.gov/education/benefit-rates/transferred-post-9-11-gi-bill-rates/~
        - Survivors and dependents educational assistance: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/
-       - ~DEA rates: https://www.va.gov/education/benefit-rates/chapter-35-rates/~
        - Fry scholarship: https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/
-       - ~Fry rates: https://www.va.gov/education/benefit-rates/fry-scholarship-rates/~
-       - ~Fry/DEA application: https://www.va.gov/education/survivor-dependent-benefits/dependents-education-assistance/~
        - Yellow Ribbon: https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
@@ -195,8 +188,8 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify: ~https://www.va.gov/careers-employment/dependent-benefits/~
-         - **ADDED** Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
-         - **ADDED** Spina Bifida Health Care Benefits Program: https://www.va.gov/disability/eligibility/special-claims/birth-defects/ 
+         - Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
+         - Spina Bifida Health Care Benefits Program: https://www.va.gov/disability/eligibility/special-claims/birth-defects/ 
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
@@ -204,8 +197,6 @@ For phase 1, each subhub will feature links and a short description to the follo
     - **Manage(H2)**
        - Verify school enrollment: https://www.va.gov/education/verify-school-enrollment/
        - Change your GI Bill school or program: https://www.va.gov/education/change-gi-bill-benefits/
-       - ~DEA/Fry form: https://www.va.gov/education/apply-for-education-benefits/application/5495/~
-       - ~transferred benefits form: https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction~
        - Check Post-9/11 GI Bill benefit statement: https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -214,7 +205,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
     - **More(H2)**
        - How to choose GI Bill approved schools: ~https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/~ https://www.va.gov/education/choosing-a-school
-       - **ADDED** How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
+       - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
 
 - **Life insurance**
    - **Get - Main (H2)**
@@ -249,10 +240,8 @@ For phase 1, each subhub will feature links and a short description to the follo
        - pre-need eligibility: https://www.va.gov/burials-memorials/pre-need-eligibility/
        - Headstones, markers, inscriptions: https://www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/
        - Veterans burial allowance: https://www.va.gov/burials-memorials/veterans-burial-allowance/
-       - ~Apply for veterans burial allowance: https://www.va.gov/burials-and-memorials/application/530/introduction~
   - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
-       - ~File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp~
   - **Manage(H2)**
       - Schedule a burial for a Veteran: https://www.va.gov/burials-memorials/schedule-a-burial/
        - Request Veteran military records: https://www.va.gov/records/get-military-service-records/
@@ -262,7 +251,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Burial in a private cemetery: https://www.va.gov/burials-memorials/eligibility/burial-in-private-cemetery/
        - Find a cemetery: https://www.cem.va.gov/cems/listcem.asp
        - Find a grave: https://www.cem.va.gov/nationwide-gravesite-locator/
-       - **MOVED** File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
+       - File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
 
 ## <a name="redirects"></a>Redirects <br>
 We'll need to create a redirect ticket after we finalize H1s (and thus urls). All of the redirects should happen on the same day and should be either at the same time as publishing or right after.
