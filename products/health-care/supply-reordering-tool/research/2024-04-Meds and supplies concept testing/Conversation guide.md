@@ -91,7 +91,7 @@ A reminder: This is a prototype. It looks like the real website, but doesn't fun
 
 Next, I will give an activity that you may do in your real life, then I will ask you to use 3 different prototypes to do the activity. While you use the prototypes, I would like to hear your thoughts and observe your reactions to each prototype. 
 
-### _Task: Order a mask strap for CPAP and glucose testing strips._ You need to order a mask strap for your CPAP and some glucose testing strips. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. 
+### _Task: Order a mask strap for CPAP and glucose testing strips._ You need to order a mask strap for your CPAP and some glucose testing strips. Using this prototype, can you show me how you'd do that from here? It would really help me if you could talk me through what you are thinking as you figure out how to do this on the website. (Change the order of asking them to order mask straps and testing strips, for example, ask P1 to order mask straps first, and ask P2 to order testing strips first)
 
 **- Observe what they do first:**
 Participants may try to find either mask traps or glucose testing strips first, remember to ask “Which one are you looking for” before they click on something on MHV home (for all 3 options).
