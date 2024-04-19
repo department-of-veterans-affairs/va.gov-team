@@ -40,6 +40,16 @@
           "type": "string",
           "minLength": 1,
           "maxLength": 30
+        },
+        "suffix": {
+          "type": "string",
+          "enum": [
+            "Jr.",
+            "Sr.",
+            "II",
+            "III",
+            "IV"
+          ]
         }
       }
     },
@@ -338,28 +348,6 @@
         "plannedClinic": {
           "type": "string"
         },
-        "lastTreatmentFacility": {
-          "type": "object",
-          "additionalProperties": false,
-          "required": [
-            "name",
-            "type"
-          ],
-          "properties": {
-            "name": {
-              "type": "string",
-              "minLength": 1,
-              "maxLength": 100
-            },
-            "type": {
-              "type": "string",
-              "enum": [
-                "hospital",
-                "clinic"
-              ]
-            }
-          }
-        },
         "signature": {
           "$ref": "#/definitions/signature"
         },
@@ -386,8 +374,7 @@
         "dateOfBirth",
         "address",
         "primaryPhoneNumber",
-        "vetRelationship",
-        "hasHealthInsurance"
+        "vetRelationship"
       ],
       "properties": {
         "fullName": {
@@ -416,9 +403,6 @@
         },
         "vetRelationship": {
           "$ref": "#/definitions/vetRelationship"
-        },
-        "hasHealthInsurance": {
-          "type": "boolean"
         },
         "signature": {
           "$ref": "#/definitions/signature"
