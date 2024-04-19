@@ -64,17 +64,15 @@ Ensure the correct feature flipper(s) are enabled.
 |9f | the validation works but it should say why the routning number input isn't valid  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/925e21aa-3973-4012-8d0f-6dae3885ce5c) |  PC  | Windows  | Chrome  | Travis | [PR 29174](https://github.com/department-of-veterans-affairs/vets-website/pull/29174)  |  |
 |9g | validation for an account that is too short isn't running ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/8c778252-3985-490d-bef9-a6221541451f)  |  PC  | Windows  | Chrome  | Travis | [PR 29174](https://github.com/department-of-veterans-affairs/vets-website/pull/29174)  |  |
 |9h | Validation on account length is running for an account that is too long, but it does not advise the user of the exact problem, it prompts them to load in an account number ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b479c2aa-a698-4998-8683-8d08846559d5)|  PC  | Windows  | Chrome  | Travis | [PR 29174](https://github.com/department-of-veterans-affairs/vets-website/pull/29174)  |  |
+|9f | Trailing spaces cause the inline validation error to trigger, probably should ignore the space ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/160d855c-20bc-4c40-bf64-6e1e5c101e9a) |  PC  | Windows  | Chrome  | Travis |  |  |
+|9f/9g | better handling for letters? the inline error should say something more specific ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/5e9e06be-8764-4e14-92cd-34569f337f40) |  PC  | Windows  | Chrome  | Travis |  |  |
 
 
 
 
 
 
-Trailing spaces cause the inline validation error to trigger, probably should ignore the space
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/160d855c-20bc-4c40-bf64-6e1e5c101e9a)
 
-better handling for letters? the inline error should say something more specific 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/5e9e06be-8764-4e14-92cd-34569f337f40)
 
 
 
