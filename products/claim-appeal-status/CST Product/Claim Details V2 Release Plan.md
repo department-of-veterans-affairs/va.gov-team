@@ -1,4 +1,4 @@
-# Download Decision Letter Release Plan 
+# Claim Details V2 Release Plan 
 ## Phase I: UAT 
 ### Planning: 
 Desired date range or test duration: 4/19/24, 1 day 
