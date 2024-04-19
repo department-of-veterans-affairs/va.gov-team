@@ -336,7 +336,7 @@ function sleep(delay) {
 async function main() {
   try {    
     // generate title for created ticket
-    const { title, body, milestone } = await getGHIssue(ISSUE_NUMBER);
+    const { body, milestone } = await getGHIssue(ISSUE_NUMBER);
     const newTitle = getTitleInfo(body);
 
     // create completed ticket
@@ -346,10 +346,9 @@ async function main() {
     const newTicketId = await getCompletedTicketZHId(newTicketNumber);
 
     // get ids of epics
-    const epicId = await getEpicId(title);
     const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
     await sleep(DELAY);
-    await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
+    await addIssueToEpic(newTicketId, [ccEpicId]);
 
     // add completed ticket to sprint
     await sleep(DELAY);
