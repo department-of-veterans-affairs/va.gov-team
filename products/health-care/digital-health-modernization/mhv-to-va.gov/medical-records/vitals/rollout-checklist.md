@@ -113,19 +113,19 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Engineering  
 
-- [ ] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
+- [X] Sign-in loads over the home page and pass next page parameter to send visitor directly to the tool after completing a successful sign on  
 
-- [ ] All pages/components have latest content: 
+- [X] All pages/components have latest content: _- All content is up-to-date with current designs. As new changes are made to the designs, development is implementing those as well_
 
-- [ ] Unit test coverage is sufficient 
+- [X] Unit test coverage is sufficient _- 88.96%	90.84%	89.33%	76.83%_
 
-- [ ] Accessibility test coverage is sufficient 
+- [X] Accessibility test coverage is sufficient _- All features requiring accessibility checks have been tested accordingly_
 
 - [ ] End-to-end test coverage is sufficient 
 
-- [ ] Functional issues resolved 
+- [X] Functional issues resolved 
 
-- [ ] Engineering information documented and stored in GitHub 
+- [X] Engineering information documented and stored in GitHub 
 
 - [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page
  
