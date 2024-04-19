@@ -22,6 +22,14 @@ My HealtheVet needs to be visible to:
 
 In order to determine access to the MHV Landing Page, we look at a logged-in users's facility information for the presence of one or more facility entries, which means they were seen at a VA facility.
 
+## Discussion: how do tools and forms determine visibility
+
+### 1010EZ and 1010EZR
+
+The 1010 forms relate to applying for or renewing a veteran's health benefits. While we've established that people may be seen at a VA facility without having VA benefits (e.g. when the closest ER is the VA), many veterans won't have been seen at a facility until after they apply for and start receving health benefits.
+
+The 1010EZR is used "if you already receive VA health care benefits, and you need to update your personal, insurance, or financial information." This form is relevant to a certain group of veterans, and so isn't relevant to non-veterans or veterans who don't have health benefits, for example. So a visitor attempting to visit the 1010EZR form online might need to be directed to a different form or page, dependening on who they are or what benefits they receive. Viewing/using the 1010EZR has a different set of uses cases than visiting My HealtheVet or My HealtheVet on VA.gov, and so use different data attributes to guide a veteran appropriately.
+
 
 ## Relevant Links
 
@@ -29,3 +37,4 @@ In order to determine access to the MHV Landing Page, we look at a logged-in use
 - [Discussion of data around `vaPatient` and `CONTACTS.VA_BENEFITS` in va.gov-team/issues/78486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78486)
 - [The `vaPatient` attribute on `/v0/user` API endpoint](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/user.rb#L321:L321)
 - [The `hasHealthData` selector in the landing page code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-landing-page/selectors/hasHealthData.js)
+- [About VA Form 10-10EZR](https://www.va.gov/find-forms/about-form-10-10ezr/)
