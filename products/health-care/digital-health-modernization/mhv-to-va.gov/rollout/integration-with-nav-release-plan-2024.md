@@ -52,6 +52,7 @@ The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://gith
 | - | - | - | 
 | "mhvLandingPageEnabled" | Yes | Landing page should be enabled in Phase 1 launch and not disabled after. Remove toggle after Phase 1? |
 | "mhvLandingPagePersonalization" |  | Personalization not tied to phase 1 |
+| "mhvLandingPageEnableVaGovHealthToolsLinks" | Yes | Controls landing page links on landing page, per department-of-veterans-affairs/vets-website/pull/29259 |
 | "mhvSecureMessagingToVaGovRelease" | Yes? |  |
 | "mhvSecureMessagingToPhase1" | Yes? |  |
 | "mhvSecureMessagingCernerPilot" |  |  |
