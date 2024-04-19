@@ -75,21 +75,6 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 5. <b>We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.</b>
 
-  ## Secondary Findings
-
-1. <b>Veterans expressed wanting VA to take on the burden of finding the relevant individuals and/or having their medical history on file.</b>
-- 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
-- One Veteran said if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
-
-Key quotes:
-
-> P10: "I would argue that some of your information should be enough for them to find your military record. First and last name, my social, and my date of birth. They should be able to find my medical records based on that." "It's one of those things where the burden of proof is on the Veteran."
-
-> P4: "I would have expected them to digitize my medical records from when I was in the military. It's one of the reasons I don't file a VA claim."
-  
-
-2. <b>There is still some confusion and/or frustration with providing insurance information in the 10-10EZ.</b>
-
 
 ## Details of Findings 
 
@@ -106,6 +91,7 @@ Key quotes:
 > P3: "I don't know how you would classify that something was toxic or not. In the military you're always running into something that's toxic."
 
 > P9: "I probably would've specified asbestos if I had more information of where it applied to, like in general facilities where you stayed or anything asbestos-related. [It would be more clear if] maybe they gave examples of where it might be."
+
 
 **Finding 2: Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.**
 
@@ -141,6 +127,7 @@ Key quotes:
 
 > P4: "For example, if I tell you that I've only been in Montana my entire career, then you could pretty much stop asking questions after that because it would be very unlikely that I was exposed to any of this stuff."
 
+
 **Finding 4: There is some confusion with how to identify exposure dates and why VA is asking for them.**
 
 Labels: label 1, label 2 
@@ -153,6 +140,7 @@ Key quotes:
 
 > P6: "I'd be looking this up from some old scanned pages. It does say you don't need exact dates, which is nice, but so much is very exact in forms and military stuff. It feels like if it's wrong, it's gonna be a problem."
 
+
 **Finding 5: We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.**
 
 Labels: label 1, label 2 
@@ -163,7 +151,29 @@ Labels: label 1, label 2
 
 ## Additional Insights
 
+1. <b>Veterans expressed wanting VA to take on the burden of finding the relevant individuals and/or having their medical history on file.</b>
+- 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
+- One Veteran said if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
 
+Key quotes:
+
+> P10: "I would argue that some of your information should be enough for them to find your military record. First and last name, my social, and my date of birth. They should be able to find my medical records based on that." "It's one of those things where the burden of proof is on the Veteran."
+
+> P4: "I would have expected them to digitize my medical records from when I was in the military. It's one of the reasons I don't file a VA claim."
+
+  
+2. <b>There is still some confusion and/or frustration with providing insurance information in the 10-10EZ.</b>
+- 2 participants expressed frustration with having to provide insurance information and not knowing why it's necessary.
+- One participant who had Medicare was confused that the form asks about Medicare/Medicaid and then he'd still have to enter Medicare information as insurance in the next step.
+
+Key quotes:
+
+> P5: "Why would you wanna know if I have insurance or not if you're saying that it's your fault that I was exposed and need care?"
+
+> P4: "This I'm a little confused about. It says [insurance] includes Medicare but I just said I have Medicare in the previous section so it seems like a duplication." "I already provided this information on the previous page so maybe I would say no [to ' Do you have health insurance coverage? question]."
+
+3. <b>There is still some confusion and/or frustration with providing financial information in the 10-10EZ.</b>
+- 
 
 
 ## Recommendations
