@@ -303,7 +303,7 @@ This research does not include the perspectives of the following marginalized Ve
 * Transgender
 * Nonbinary, gender fluid
 
-[Recruitment tracker](/2024-02_Accessible-copy-of-completed-submission-research-recruitment-tracker.pdf)
+[Recruitment tracker](products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/2024-02_Accessible-copy-of-completed-submission-research-recruitment-tracker.pdf)
 
 ### Further research needed
 We suggest additional research on this feature with blind Veterans who are not as experienced with a screen reader, as well as, blind Veterans and their family and/or caretakers.
