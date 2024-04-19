@@ -12,6 +12,7 @@ This is a follow-up to the Login SLO project.
 We do not currently have any current Service Level Agreements for VA.gov logins, and publishing them -- as well as dashboards that visualize key data -- will help us monitor and improve the Veteran login experience.
 
 ## Relevant Documents:
+* [Login SLA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713368063741/aa11d92e4c07e903a16f131550431ad5e5f1a41b?sender=8a524840-01a2-4b0a-b661-95ffcb149e9b)
 * [Login SLO Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md)
 * [Public Facing SLO Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-df6fa7bc92140323ffecbf4e10b16346?refresh_mode=sliding&from_ts=1710016052679&to_ts=1712608052679&live=true)
 * [Branding Exercise](https://docs.google.com/presentation/d/1Q3WnJY-0fJ3HcuYNptZnAbJaWUGK3FGCkvH19AJYFJo/edit#slide=id.g2c630c18cda_1_141)
@@ -22,17 +23,15 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 
 ## What's In Scope: 
 * Service Level Objectives
-  * Determining what data to display on SLO dashboards for Veterans.
   * Determining what data to display on the SLO dashboards for VA.gov teams.
 * Service Level Agreements
-  * Creating the SLA for Veterans.
   * Creating the SLA for VA.gov teams
-  * Determining how to publish the agreements to Veterans.
   * Determining how to publish the agreements to VA.gov teams
 
 
 
 ## Out of Scope: (for this iteration)
+* Dashboards for Veterans
 * Incident Response
   * Accountability in SLOs - who gets assigned & their impact toward total numbers
     * Automation
@@ -41,8 +40,7 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 
 
 ## Use Cases:
-- As a Veteran, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
-- As a Veteran, I would like to see Service Level Agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
+
 - As a VA Team Member, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
 - As a VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
 
