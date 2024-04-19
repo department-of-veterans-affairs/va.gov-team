@@ -97,17 +97,17 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### UX/UI  
 
-- [ ] Key design decisions added to decision log 
+- [x] Key design decisions added to decision log 
 
 - [ ] Design documentation & briefs are up-to-date and linked in product Github 
 
-- [ ] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
+- [x] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
 
-- [ ] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
+- [x] Feedback link is in place in design and engaged, clicking it will open a link to send a feedback email. 
 
-- [ ] Product content approved and QAd/copy edited
+- [x] Product content approved and QAd/copy edited
 
-- [ ] FAQ content reviewed and approved by OCC, business owner, and where appropriate, subject matter experts.
+- [x] FAQ content reviewed and approved by OCC, business owner, and where appropriate, subject matter experts.
 
  
 
