@@ -1,5 +1,5 @@
 section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,error-scenario-3,error-message-3,label-variations,notes-on-updates
-/patterns,/ask-users-for,/addresses,address,Mailing address,,,,,,,,,,
+/patterns,/ask-users-for,/addresses,address,Home address,,,,,,,,,,
 /patterns,/ask-users-for,/addresses,address,Physical address,,,,,,,,,,"Changing ""home address"" to ""physical address"" to align with USWDS"
 /patterns,/ask-users-for,/addresses,address,Country,,,No selection,Select a country,,,,,,"Changing from ""Country is required"" to ""Select a country"" to avoid passive"
 /patterns,/ask-users-for,/addresses,address,Street address,,,No entry,Enter a street address,,,,,,Slight adjustment to avoid passive voice
