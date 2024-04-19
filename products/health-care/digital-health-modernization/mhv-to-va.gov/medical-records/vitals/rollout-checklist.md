@@ -151,7 +151,7 @@ For an application to enter rollout Phase 0, the following must be true:
  
 ### Analytics & Metrics  
 
-- [ ] Google Analytics 
+- [x] Google Analytics 
 
     - Event tags exist 
 
@@ -163,7 +163,7 @@ For an application to enter rollout Phase 0, the following must be true:
     - Access 
 
     - Dashboard exists 
-- [ ] Datadog 
+- [x] Datadog 
      - Access 
 
      - Dashboard exists 
