@@ -121,7 +121,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Accessibility test coverage is sufficient _- All features requiring accessibility checks have been tested accordingly_
 
-- [ ] End-to-end test coverage is sufficient 
+- [X] End-to-end test coverage is sufficient _- e2e tests have been written for all functionality that requires it_
 
 - [X] Functional issues resolved 
 
