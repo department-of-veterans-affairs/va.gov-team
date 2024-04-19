@@ -127,7 +127,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] Engineering information documented and stored in GitHub 
 
-- [ ] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page
+- [X] A temporary redirect is available at va.gov/my-health/ back to the tool until the My health landing page _- all links and redirects consistent with designs and other domains in Phase 0_
  
 
 ### Performance and Monitoring  
