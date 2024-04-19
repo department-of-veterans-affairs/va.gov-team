@@ -45,7 +45,7 @@ ________________________________________________________________________________
         - 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
-        - 🟩 [[FE] Add Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64635)
+        - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80942)
@@ -124,8 +124,7 @@ ________________________________________________________________________________
         - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
             - Dependent on Appts OH team
         - 🟩 [[FE] Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/80942)
-        - 🟩 [[FE] Add Translations ](https://github.com/department-of-veterans-affairs/va.gov-team/64635)
-
+        - 🟩 [[FE] Add Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/64635)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)        
         - 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
