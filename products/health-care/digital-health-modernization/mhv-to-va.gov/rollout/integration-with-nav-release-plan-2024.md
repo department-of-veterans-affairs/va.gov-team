@@ -30,6 +30,11 @@ Primary Github artifacts:
 ### Questions log
 - Is any new handling required for Veterans with Oracle facilities?
 
+### Decisions log
+| Date | Decider | Decision |
+|-|-|-|
+| 4/17/24 | Lauren & Kaitlin | unauth benefit hub pages will not be updated to direct users to MHV-on-VAgov for Phase 1; will revisit for Ph 2 |
+
 ## Technical notes on integration and release
 
 ### Secondary Nav Bar
