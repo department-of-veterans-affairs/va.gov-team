@@ -1,4 +1,4 @@
-# VA content brief template
+# VA content brief for [specific topic]
 
 Created by the sitewide content and IA team for teams working on products related to [specific topic].
 
@@ -28,12 +28,12 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran communications | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| **term** |  |  |  |  |  |
+| **[specific term]** |  |  |  |  |  |
 
 
 ## Content considerations specific to this topic
 
-### [Considerations]
+### [Specific consideration]
 
 ## SEO and VA.gov search
 
