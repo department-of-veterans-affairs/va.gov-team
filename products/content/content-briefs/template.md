@@ -33,7 +33,9 @@ This brief will help your team create content for your product that aligns with 
 
 ## Content considerations specific to this topic
 
-### [Specific consideration]
+### [Takeaway]
+
+[Add headings and insights here that summarize the most important things to consider when communicating about this topic.]
 
 ## SEO and VA.gov search
 
