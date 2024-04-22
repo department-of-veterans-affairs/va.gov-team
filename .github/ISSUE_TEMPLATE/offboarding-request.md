@@ -45,6 +45,8 @@ Please provide the following information about the individual being offboarded:
 _The following steps are performed by the **Platform Support** team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/2097545323/Offboard+Team+Member)_
 
 ### Support Tier 1 🌺
+_The following steps are performed by the **Platform Support Tier 1** team. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/PTST/pages/3105554515/Tier+1+Offboarding+Responsibilities)_
+
 - [ ] Requested removal from DSVA Slack (if applicable. Search for them in Slack)
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
 - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
