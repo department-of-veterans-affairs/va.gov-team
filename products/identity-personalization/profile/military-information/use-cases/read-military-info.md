@@ -15,6 +15,7 @@ This page isn’t editable.
 	* The month, day, and year they completed service with that branch.  
 		* There are some instances where the end date will be blank.
 * The page has an [additional info component](https://design.va.gov/components/additional-info) with information in case the military service information doesn’t look right.
+* The page displays a Proof of Veteran status card ([product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-status))
 *  [Desktop mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-122&mode=design&t=ISGgZpVUB35oOzXb-11) 
 *  [Mobile mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-2&mode=design&t=ISGgZpVUB35oOzXb-11) 
 
