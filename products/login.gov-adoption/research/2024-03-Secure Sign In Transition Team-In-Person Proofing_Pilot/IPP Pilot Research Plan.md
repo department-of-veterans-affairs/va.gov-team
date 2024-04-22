@@ -148,16 +148,19 @@ VA staff
 
 Research will be conducted at the following Virtual Health Resource Center Site:
 
-John L. McClellan Memorial Veterans Hospital
-4300 W. 7th Street Little Rock, AR 
-Contact Information
-501-257-5627
+Fayetteville VA Medical Center
+Building 21
+1100 North College Avenue
+Fayetteville, AR, 72703
 
 *Exact office location TBD* 
 
-The Virtual Health Resource Center was identified as the optimal partner for the in person site given their preparedness to provide in person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role. 
+The Virtual Health Resource Center was identified as the optimal partner for the in-person site given their preparedness to provide in-person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role. 
 
 ### Point of contact
+
+Burchfield, Robin G. (FAV) <Robin.Burchfield@va.gov>
+Svendsen, Helene K. (FAV) <Helene.Svendsen@va.gov>
 
 ### Equipment used for research
 Space signage
@@ -243,18 +246,19 @@ Available during scheduled sessions
 Complete surveys
 
 ### Timeline
-
-April 1-8, 2024 [waiting on VHRC to confirm dates and will shift dates to enable two week recruitment window for Perigean]
-
-### Prepare
-Materials finalized by THIS DATE
+May 20-23, 2024
+Prepare
+Materials finalized by May 10, 2024
 
 Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
 * Date and time of pilot session: 
 
 ### Research sessions
-April 1-8, 2024 [waiting on VHRC to confirm dates and will shift dates to enable two week recruitment window for Perigean]
+May 20-23, 2024
+Length of sessions
+Veterans will be scheduled for 2 hour sessions 
+VA staff will be notified of the scheduled sessions ahead of time to ensure their availability
 
 ### Length of sessions
 Veterans will be scheduled for 2 hour sessions 
