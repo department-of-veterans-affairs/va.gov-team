@@ -1,4 +1,4 @@
-# CC Direct Scheduling initaitve brief 
+# CC Direct Scheduling initiative brief 
 
 ## Overview
 
