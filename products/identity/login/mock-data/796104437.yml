@@ -1,0 +1,32 @@
+---
+:method: :get
+:body:
+  cnp_mailing_address:
+    address_effective_date: '2012-04-03T04:00:00.000+0000'
+    address_one: 123 Main st
+    address_three: Apt B
+    address_two: BEN FRANKLIN VILLAGE
+    city: ''
+    country_name: ''
+    military_post_office_type_code: APO
+    military_state_code: AE
+    type: MILITARY
+    zip_code: 09028
+    zip_suffix: ''
+  control_information:
+    can_update_address: true
+    corp_avail_indicator: true
+    corp_rec_found_indicator: true
+    has_no_bdn_payments_indicator: true
+    indentity_indicator: true
+    index_indicator: true
+    is_competent_indicator: true
+    no_fiduciary_assigned_indicator: true
+    not_deceased_indicator: true
+:headers:
+  Date: Fri, 08 Sep 2017 19:48:05 GMT
+  Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.1e-fips
+  Content-Type: application/json
+  Via: 1.1 csraciapp6.evss.srarad.com
+  Transfer-Encoding: chunked
+:status: 200
