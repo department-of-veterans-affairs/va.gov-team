@@ -112,7 +112,7 @@ Key quotes:
 
 >P4: "I was deployed to Haiti and I may not be defining burn pits the way that they're defining them, so I don't know."
 
->P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield.  Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
+>P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield. Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
 
 **Finding 3: Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
@@ -135,6 +135,7 @@ Key quotes:
 - A Veteran who was exposed to firefighting foams for a day or two during training didn't know how to enter dates that were for less than a month and got an error when he entered the same month and year for start and end dates.
 
 Key quotes:
+
 > P6: "If I already entered my SSN why does it need dates that I might not remember?"
 
 > P6: "I'd be looking this up from some old scanned pages. It does say you don't need exact dates, which is nice, but so much is very exact in forms and military stuff. It feels like if it's wrong, it's gonna be a problem."
@@ -198,7 +199,7 @@ Key quotes:
   * There is content in a few different places of the form that states that toxic exposure during training should be included, but it was missed by every participant.
   <img width="547" alt="Screenshot 2024-04-22 at 10 18 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/984719fb-e5f8-4dc6-b872-6141d63b5d9b">
 <br>
-*This image shows one of the places where training is mentioned as a time when other toxic expoures may have occured.*
+  _This image shows one of the places where training is mentioned as a time when other toxic expoures may have occured._
 
 
 * <b>Recommendation 3: Gain a more detailed understanding of what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group from our stakeholders and make content recommendations based on these findings.</b>
