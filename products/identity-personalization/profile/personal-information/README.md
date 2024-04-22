@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-**Last Updated:** December 26, 2023 (added Figma links)
+**Last Updated:** February 15, 2024 (removed Sketch links)
 
 ## Table of Contents
 
@@ -133,10 +133,9 @@ Needs to be filled out by Adam.
 
 ## Design & UX
 
-- [Personal information sketch files, to be deprecated in early 2024](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565)
-- [Figma files, onboarding in early 2024](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0%3A98&mode=design&t=ZBL2UgsSlzGXuQlA-1)
+- [Design files](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0%3A98&mode=design&t=ZBL2UgsSlzGXuQlA-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/use-cases)
 - [Personal information revision UX decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/personal-information-revision/design/personal-info-ux-decisions.md)
 
 ### Flow diagrams
-- [Mobile page of Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/BE56DBF8-B1BF-4A60-9379-DC9F2C5098BB/canvas) and [Figma file](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0%3A98&mode=design&t=ZBL2UgsSlzGXuQlA-1) show the user flow
+- [Mobile page design file](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0%3A98&mode=design&t=ZBL2UgsSlzGXuQlA-1) shows the user flow

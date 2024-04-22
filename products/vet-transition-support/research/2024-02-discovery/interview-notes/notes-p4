@@ -1,0 +1,25 @@
+Questions for Veterans
+
+Background
+- Could you tell us about your background and military service? *I did 10 years in the Marine Corps. Got out as a Sergeant. I was a Drill instructor. I decided, I always wanted to do it. Lots of core values and lots of good examples of what a Marine should be. So, I kept holding the torch. The training was 3 months and very demanding. I taught the whole Base at Cherry Point. 
+-Can you tell me the reason/impact on you? *They set that example, no double standard. They kept themselves to a standard and it’s okay to be corrected they saw the potential I had and they developed me and gave me tasks to serve a bigger purpose. Be the best you can be. I passed down things, that I had. Be a better leader and person at the end of the day. 
+- What has been your experience with using VA benefits? *I’ve used my VRNE, GI, my therapy benefits, my primary care through My HealtheVet. I use a lot of VA services. 
+  - What VA benefits have you used and why? I the VRNE but I missed working with my hands and then I used My GI bill and studied solar, network communications, and their career counselors and are really tied in and help you get a job. The career specialists will help you get a job, they had everything you needed for the six weeks they were there. I was happy to be there because I know what’s it like to run a successful corporation. I’m using my GI bill again to go to school and go to a tech school. It’s easier on my body and definitely see myself going into that. 
+-
+
+Transition Experience    
+- What was the hardest part of your transition? *I was on the medical retirement board and I was supposed to get in 2021. It’s took two years not 6-9 months. Towards the end, they gave me my findings and I accepted it. I got my first compensation and went for an increase in 2023. I went through third party and that took 3-4 months, I had my cnp exams and checked my range of motion and about 30days after, I got my disability increased to 100%. The process was pretty smooth, and I also used my benefits in Kansas, they were really good. Not like the horror stories you hear about. 
+Transitioning out, there were some difficulties due to COVID and low staffing. Took 2.5 years and I was seeing people get out quickly compared to me. They told me that because of low staffing and I had a lot of claims, it would take longer. Every time I called the VA , I would get a different answer. If it’s the wrong thing, it’s really a delay. The biggest issue is whenever I call, I get a different answer and I ask how can you give this wrong information. That was a big friction point for me. 
+- Is there support that you wish you had when you separated from the military? *Yes, an actual update besides a, hey, we don’t have enough people due to COVID, instead of having me in the dark and for me to not ask for extensions. Something more tangible, like an email. It made it more difficult for me to plan. You get excited to get out and have to plan. I wish they were more transparent about where I was in the process instead of keeping me hanging. 
+    - If so, what type of support?
+-Would you benefit from a personalized experience when getting out? Yes, with a questionnaire for a Veteran and it’s able to flash resources that they might be interested in. 
+
+Learning about VA Benefits
+- Where did you learn about VA benefits? *I found out about the VA benefits, around the first time transitional seminar and also my Mom served in the Army and she told me to make sure to get everything documented. I got 90% and then I would see kids who would not graduate get 100% and I scratched my head and made sure I had all my ducks in a row, YouTube, Reddit to file for an increase. 
+-Was it pretty accurate? *A little bit of both, were some are quick and some take their time. I want to write it as if someone were asking questions, they would know. It was pretty consistent with other people's stories. 
+Talking about VA benefits, VA resumes, skills, things available to Veterans, entrepreneurship, special skills, learning that, and one thing I wished they brought up was that the GI bill expires. 
+- How was your experience with learning about benefits? Very consistent, they were transparent. They had other people there speaking and very knowledgeable. I also did TRS during Covid. Plenty of people there trying to hire on. 
+-Other benefits? No. 
+- What would encourage you to learn more about other VA benefits (that you may not be using)? *Yes, I get emails from the VA but maybe a newsletter, some statistics and a point of contact. Not just for me but also to spread the information. I just want to give and give.  I’m in the process of finding employment and the VA of Massachusetts is helping me. 
+I would want to see a flowchart and frequently asked questions. Even putting YouTube videos about VA.gov would be helpful. 
+ - If you could wave a magic wand, what you do to make the whole benefits process easier? *To allow Veterans to go to other VA facilities as long as they have a referral. When I speak with my friends in Texas its’ the opposite. Long wait lists to be seen. 

@@ -103,7 +103,11 @@ Let's walk through each section together. Our example emails and phone numbers a
 
 _**Email**_
 
-Next to each email it says from your VA profile, from Secure Messaging, and from your My HealtheVet profile.
+_[Desktop]_ Next to each email it says from your VA profile, from your Secure Messaging account, and from your My HealtheVet profile.
+
+- Considering only where these emails are already used, would you select one of these or provide a new one? What makes you say that?
+
+_[Mobile]_ Below each email it says from your VA profile, from Secure Messaging, and from your My HealtheVet profile.
 
 - Considering only where these emails are already used, would you select one of these or provide a new one? What makes you say that?
 
@@ -122,7 +126,7 @@ Please select the first option with the phone number.
 
 _**Home**_
 
-- Do you have a home phone?
+- Do you have a home phone? (Landline)
 
 [_if no]_
 
@@ -190,6 +194,7 @@ _**[Your contact information has been saved page]**_
 It says at the top that 'Your contact information has been updated and shared with the VA and all affiliated services.'
 
 - What do you think that means?
+- Now where do you think the other contact information we saw earlier went? 
 
 The previous page that we completed is all we had to do.
 
@@ -298,6 +303,7 @@ You can stop sharing your screen now.
 - Does the participant understand that the changes here will be on their VA profile?
 - Does the participant know their changes were successful?
 
+
 # **Post-Task Interview - 2 minutes**
 
 What thoughts do you have about what you've reviewed today?
@@ -305,6 +311,24 @@ What thoughts do you have about what you've reviewed today?
 - What was _helpful_ about what you've reviewed today?
 - What was _not_ helpful about what you've reviewed today?
 - What would you like to _change_ about what you've reviewed today?
+
+
+# **Screener Interview – Users with CD**
+
+Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.
+
+Before I let you go, I would like to confirm an answer to one of our screener questions. Please note that this is completely optional, it is up to you to answer these questions or decide not to. We just want to make sure that we accurately represent all the information you presented.
+
+Like I said, this is regarding a response you gave us upon your submission to be a part of this study. May I go ahead and ask these confirmation questions? Again, it is up to you to answer or opt out.
+
+_When confirmed:_
+
+- In your screener, you answered yes when asked about a cognitive disability. Could you confirm if this is correct information?
+
+_If yes_
+
+- Would you mind sharing a little about how your cognitive disability affects your use of My HealtheVet or other websites?
+  - _[possible follow up]_ Can you share an example of a time when you struggled with My HealtheVet because of your disability?
 
 # **Thank-You and Closing - 2 minutes**
 

@@ -3,7 +3,12 @@
 ## Overview
 The patient check-in (PCI) product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The Modernized Check-in Team created the portion of the ecosystem that enables a Veteran to utilize their smartphone to check in through VA.gov. 
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/e33b12ff-46fd-4ce2-becd-ccf1cf413112)
+
+<details>
+<summary>Original MVP User Flow</summary>
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/93271257/47b7e504-2df9-4307-849e-c7bc84f6912e)
+</details>
 
 ## Problem Statement
 Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran is instructed to check-in with a staff member once they arrive for their appointment.
@@ -18,7 +23,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
  
 ## Desired Business Outcomes
  - Staff are freed to perform patient care 
- - Infrasturcture for unified digital healthcare is created
+ - Infrastructure for unified digital healthcare is created
  - Wait times between arrival and completion of check-in decrease
  
 ## Undesired User Outcomes
@@ -41,9 +46,6 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Steady increase of eCheck-in and Pre-Check-in usage as VISN's come online
 - At least 70% completion rate for eCheck-in and Pre-Check-in
 
-### Objectives & Key Results
-[Objectives & Key Results](https://app.mural.co/t/vfscie8528/m/vfscie8528/1654695959441/d90ed2bae0315fa65761373df8362460f2c82b28?sender=ud3aa760e30b39bcf436d4473)
-
 ## Resources
 
 ### Key Decisions
@@ -57,10 +59,6 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 #### [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#pre-check-in)
 
 [Update product guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
-### Production Wireframes in VA Sketch Cloud
-- [In person Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/D830D75A-3B87-4A5F-9EAF-622D2913AF5D) in Sketch Cloud
-- [In person Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/F5EF96F6-7B82-4D03-95F5-7DAB610B8617) in Sketch Cloud
-- [Telephone Pre-Check-in](https://www.sketch.com/s/231af204-0959-46b4-80f0-eebb94922744/prototype/a/EA3E9DDA-30E8-47AB-8335-C31F3A0AFB5C) in Sketch Cloud
 
 ## Launch Strategy
 - Limited availability release to St. Louis in early 2022
@@ -70,7 +68,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 
 - [Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
-## Initiatives
+## Features
 
 #### [Check-in MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/iniative-phase-2.md)
 - Status: Released on 5/2/2022
@@ -113,12 +111,41 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Purpose: Allow Veterans to choose to see Pre-Check-in and Check-in content in Tagalog
 
 #### [Travel Reimbursement - MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/initiative-echeckin-with-travel-claim-submission.md)
-- Status: In development
+- Status: Piloted in July 2023; Released to all VISNs on 12/5/2023
 - Purpose: Allow Veterans to submit a mileage-only travel reimbursement claim request for their trip to a VA health appointment as an alternative to submitting the claim through the kiosk, Beneficiary Travel Self Service System (BTSSS), or travel office
 - Functionality:
      - A Veteran, who has no contact updates and can complete check-in, can choose to file a travel reimbursement claim request when they check-in for an appointment
 
+#### Send Veterans via SMS eCheck-in Link 45-minutes Before Their Appointment
+- Status: Released to all VISNs on 12/5/2023
+- Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
 
+#### [Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
+- Status: Spring 2024 planned pilot
+- Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software to submit a mileage-only travel reimbursement claim on the day of their appointment (one claim per facility)
+- Functionality:
+    - Veteran texts "travel" on the day of their OH appointment
+    - Veteran receives a link back if they have an OH appointment today 
+        - Veteran will receive an error message if (1) they do not have any OH appointments for today, (2) we cannot find their phone number in the VA records, or (3) the feature is not available for their appointment's facility
+    - Veteran clicks the link 
+        - Veteran will receive a "link has expired" message if they click the link after the day of the OH appointment
+        - Veteran sees a "you've already filed a claim" message if they click the link and they have already filed a claim for their OH appointment today (1 claim per facility per day is allowed)
+    - Veteran verifies their identity  
+    - Veteran sees information on
+        - How to check their eligibility to file a claim
+        - How to file a claim now
+        - How to file a claim for other expenses later
+        - How to set up direct deposit
+    - Veteran chooses to file a milesage-only claim
+        - If the Veteran has more than 1 appointment today at different facilities, the Veteran selects for which facility they would like to submit a claim
+    - Veteran answers the question if they travelled in their own vehicle
+        - Veteran see an error message if they answer "no"
+    - Veteran answers the question if they travelled from their home address
+        - Veteran see an error message if they answer "no"  
+    - Veteran agrees to the VA's terms & submits their claim (or chooses to file later)
+    - Veteran sees confirmation that their claim was submitted and information for how to check the status of their claim
+    - Veteran receives an SMS that includes the claim submission status returned from BTSSS
+- Applies to: In-person appointments only
 
 
 

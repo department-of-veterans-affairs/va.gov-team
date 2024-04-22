@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         :wave: **_Instructions_**
-        1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
+        1. Before being granted access, the individual for whom access is requested (the 'target individual') must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started your [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed as a team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)
         2. Change the **Title** to include target individual
         3. Add the label used by the target individual's team (eg: `BAH-526`)
         4. Validate that your E-QIP process has been started with your Vendor Onboarding Representative (listed below in a dropdown) and **attach** a screenshot of your E-QIP Transmittal Confirmation. If you have not started your E-QIP process, do NOT put in a request.
@@ -117,6 +117,7 @@ body:
       value: |
         ---
         :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign: All done! :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+        For Rails console vets-api ArgoCD terminal access, fill out [this access request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Cplatform-tech-team-support%2Cops-access-request&projects=&template=vetsapi-argo-terminal-access.yaml&title=Vets-api+terminal+access+for+%5Bindividual%5D).
         For SOCKS access, open a [SOCKS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=socks-access-request.yml&title=SOCKS+access+for+%5Bindividual%5D).
         If you need additional infrastructure, please use [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
         :x: Don't fill out anything below here :x:
@@ -125,8 +126,8 @@ body:
       label: "User must exist in a roster before AWS access can be granted. See [AWS access documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1792114735/Onboard+New+Team+Members+Granting+Access+to+Internal+Tools#AWS-Access-Request) for the steps involved."
       description: Don't fill this part out, please
       options:
-      - label: "Search for user on the [VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+      - label: "Search for VFS team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)"
       - label: "Or search for user on the [Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
-      - label: "If user is on a VFS team but not in the VFS Team Roster, add the 'NOT YET' label and instruct them to start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
+      - label: "If user is on a VFS team but not a team member in Atlas, add the 'NOT YET' label and instruct them to start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
       - label: "If a user is on a Platform team but not on the Platform Team Roster in Confluence, add the 'NOT YET' label and instruct them to reach out to their Product Manager to be added."
       - label: "Comment in this issue saying which roster the user is listed in."

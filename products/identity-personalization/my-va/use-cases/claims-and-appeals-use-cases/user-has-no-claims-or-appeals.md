@@ -9,8 +9,8 @@ For LOA3 users who sign in and do not have an open claim or appeal or one that h
 - If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see text that reads “You have no claims or appeals to show.” under the “Claims and appeals” header.
 - When a user has no claims or appeals information to show, they will also see links to “Learn how to file a claim” which links to [a page about how to file a disability claim](https://www.va.gov/disability/how-to-file-claim/), as well as "Manage all claims and appeals" which links to the [claims tool](https://www.va.gov/claim-or-appeal-status/) where they can view a list of all past claims.
 - This text is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Claims and appeals header on mobile, and the secondary links always display directly underneath this text.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=ZhUs1Oeae2EQjVFh-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A763&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 ## How to reproduce
 - Find a staging user who does not have an open claim or appeal or one that has closed in the last 60 days in the [claims and appeals staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#claims-and-appeals-section).

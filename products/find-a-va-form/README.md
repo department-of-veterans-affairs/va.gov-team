@@ -5,9 +5,9 @@ All background, historical, discovery, and status/maintenance documentation for 
 ## Product Brief information
 - [Product Brief](#find-forms-product-brief)
 - [KPIs](#kpis)
-- [MVP Problem statement, Status, and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/README.md)
-    - [Go To Market Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/README.md#go-to-market-strategy)
-- [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/post-mvp-status-and-decisions.md)
+- [MVP Problem statement, Status, and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/README.md)
+    - [Go To Market Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/README.md#go-to-market-strategy)
+- [Post-MVP Status and Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/post-mvp-status-and-decisions.md)
 
 
 ## Modern maintenance shortlinks
@@ -47,9 +47,10 @@ Search research indicates that the VA forms page consistently gets high organic 
 #### KPIs
 **Metrics**:
 - Standard Domo Dashboard - https://va-gov.domo.com/page/1964748112?userId=666442134 (filter by Find a VA Form)
-- Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329
-**[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
-**Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
+- ~~Custom Domo Dashboard - https://va-gov.domo.com/page/1785082329~~ This page is no longer available
+- **[Google Analytics Find a Form Dashboard 1.0](https://analytics.google.com/analytics/web/#/dashboard/MHSfv0WxQySyKRB5IYyw1Q/a50123418w177519031p176188361/)**
+
+  **Overarching goal**: improve form (potentially benefit) discoverability in order to get more people to an (the right?) application experience\
 **Signal**: are people downloading form applications or starting a new benefit application\
 - Custom Google Analytics Reports (open Google Analytics
    - Ensure that you're in the All VA.gov Website Data [Production] view and then import the below files into your profile.
@@ -81,15 +82,15 @@ Engagement
 ## Initiatives
 - MVP
 - Post-MVP
-- [PDF audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/pdf_audit_2021/pdf_audit_2021.md) - 2021
-- [VA Form Data Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/form-data-mgmt/data_eval-Feb-2020.md) - Feb 2021
-- [Sort by last updated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/sort-by-last-updated/release-plan.md) - Feb 2021
-- [Language support discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/language-support/meetings/meeting-notes.md) - April 2021
-- [Improve search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/improve-search/README.md) - July 2021
-- [Connect search with details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/connect-search-with-details/README.md)
-- [Docusign POC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/docusign-poc/meetings-decisions.md)
-- [PDF Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/pdf_modal/accessibility/accessibility-staging-prep.md)
-- [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/pdf-cert-warning-alert) - Q4 2022
+- [PDF audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-09-pdf-audit/pdf_audit_2021.md) - 2021
+- [VA Form Data Evaluation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/form-data-mgmt/data_eval-Feb-2020.md) - Feb 2021
+- [Sort by last updated](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/sort-by-last-updated/release-plan.md) - Feb 2021
+- [Language support discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/language-support/meetings/meeting-notes.md) - April 2021
+- [Improve search](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/improve-search/README.md) - July 2021
+- [Connect search with details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/connect-search-with-details/README.md)
+- [Docusign POC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/docusign-poc/meetings-decisions.md)
+- [PDF Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/pdf_modal/accessibility/accessibility-staging-prep.md)
+- [PDF certificate warning alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2022-03-pdf-cert-warning-alert) - Q4 2022
 
 ---
 ## Important technical constraints and dependencies
@@ -124,12 +125,19 @@ As of 8/1/23:
 |Steve Wirt	| Facilities Team, Forms/Drupal subject matter expert, Civic Actions|
 
 ## VA Forms Contacts
-__VA forms stakeholder working group includes:__
+Within VA, all administrations have an internal process to review & approve forms being published. When approved, forms publishing rolls up through the list of **VA forms stakeholder working group contacts** below, per admin / program. Final forms are mastered in the Forms DB, which is managed by OIT. The VA.gov Drupal CMS migrates form data nightly from the Forms DB. Any corrections must be made upstream in the Forms DB.
+
+### Corrections
+If you discover that a specific form PDF has a problem (dead link, incorrect info, problems being fillable, incorrect metadata, etc.), the correct process to mitigate is: 
+* Reach out to the Forms manager for the administration in question (e.g. VBA, VACO, VHA) by email.
+* cc Dave Conlon, the OCTODE Product Owner of the Forms DB integration into Drupal and VA.gov
+* Provide the link to the form on VA.gov, and or the direct link to the PDF in question, and request that the Forms Manager correct the PDF and upload a new version to the Forms DB, or correct the form metadata, etc.
 
 ### Forms managers
+Forms managers provide an administrative function to manage Forms data entry and final approved PDFs per administration in the Forms DB. 
 |Name|Role re: Forms|
 |----|----|
-|Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
+|TBD. Missie Vaccaro-Palomaki has retired. Mano, Brian T. <Brian.Mano@va.gov> listed as her POC.|Business owner of Forms managers (OPAL), VACO & NCA Forms manager|
 |Bennett, Grant <Grant.Bennett@va.gov>  | VHA Forms manager|
 |Kessinger, Nancy J. <nancy.kessinger@va.gov> | VBA Forms manager |
 |Allmond, Yvette M. <yvette.allmond@va.gov> | VBA Forms manager|
@@ -173,9 +181,6 @@ This list was provided during 2022 Public Websites contract transition. Unclear 
 
 ### Publications Control Officer (PCO)  Contacts by Business Line
 **last updated 11/9/22 by Kayce White <Kayce.White@va.gov>**
-
-Within VA, all administrations have an internal process to review & approve forms being published. When approved, forms publishing rolls up through the following list of contacts, per admin / program.
-
 ![contacts-by-business-line](https://user-images.githubusercontent.com/85581471/200931161-13fe43d6-b1de-4b41-8afe-30714c47b3ec.png)
 
 ---

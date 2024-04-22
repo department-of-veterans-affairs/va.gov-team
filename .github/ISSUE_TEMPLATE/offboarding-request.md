@@ -54,23 +54,24 @@ _The following steps are performed by the **Platform Support** team. Detailed in
 - [ ] Pagerduty access removed (if applicable. Check [pd users](https://dsva.pagerduty.com/users-new))
 - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
 - [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview))
+- [ ] Zenhub license removed (If applicable. Check for license [here](https://app.zenhub.com/settings/o/department-of-veterans-affairs/users))
 - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled
 
 ### Support Tier 2 - Devops 🌷
 - [ ] SOCKS access removed (if applicable. Search their email in [config.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml))
    > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml). You'll need the user's email address associated with their public key (found in `config.yml`). Merge the PR.
- - [ ] AWS access removed (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
+- [ ] AWS access removed (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
    > Use the same [SOCKS and AWS access Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to remove user's entry from [iam_users.tf](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf). You'll need the user's AWS username (typically `First.Last`). Merge the PR and apply Terraform.
 - [ ] Datadog (if applicable. Check [Datadog users](https://vagov.ddog-gov.com/organization-settings/users))
-    - [ ] Disable in Datadog UI (must be done by a datadog admin)
-    - [ ] [Submit an ECC request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) (Only necessary if they were in the Datadog UI)
+- [ ] Disable in Datadog UI (must be done by a datadog admin)
+- [ ] [Submit an ECC request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) (Only necessary if they were in the Datadog UI)
 - [ ] Bot (`va-bot`, `va-vfs-bot`, and `va-vsp-bot`) user GitHub account(s) YubiKey(s) removed
    > This is rare. See [documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members) for current users and removal process.
-
 
 ### Other 🌻
  - [ ] Google analytics and Domo access removed (if applicable. Make sure the `analytics-insights` label is on this Issue)
  - [ ] Sketch editor access removed (if applicable. Check [Sketch settings](https://www.sketch.com/workspace/c99d3e96-7c23-4210-b173-92a2b73a8788/settings/people))
+ - [ ] Figma editor access removed (if applicable. Check [Figma settings](https://www.figma.com/files/team-admin-console/1278375444205744118/VA.gov-Platform-Admin-Console/members?fuid=779427834564242065))
  - [ ] Removed from Monday Design Meeting invite
 
  CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/platform-analytics-insights-team , @department-of-veterans-affairs/confluence-admins, @department-of-veterans-affairs/platform-design

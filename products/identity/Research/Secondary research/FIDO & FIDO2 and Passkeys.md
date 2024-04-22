@@ -1,9 +1,9 @@
-# FIDO & FIDO2 and Passkeys.md
+# FIDO & FIDO2 and Passkeys
 
 - Date: 11/29/2023
 - Joshua Matulonis - josh.matulonis@oddball.io
 - [Associated Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697651927978/cca6de94390654cb099d0d394d2863317f9ad1a2?sender=u4dc1c26b5a09e4d460e45806)
-
+- [Associated Demo Slideshow](https://github.com/department-of-veterans-affairs/va.gov-team/files/15012588/Sprint.Demo.-.FIDO.for.Authentication.1-8-2024.pdf)
 
 **Jump to:**
 
@@ -24,7 +24,7 @@ Gartner projects that multiprotocol “mobile MFA” apps will become mainstream
 
 Text-based passwords have long been the dominant method for authenticating users to online services. However, passwords are inherently weak and vulnerable to a variety of attacks, such as phishing, credential stuffing, and social engineering. As a result, there is a growing need for more secure and user-friendly authentication methods. Also, the number of accounts that users have to manage is frustrating as passwords are frequently forgotten and account access is lost.
 
-The FIDO Alliance has created solutions for overcoming the limitations of passwords. FIDO can be used in 1FA and/or MFA to replace passwords with stronger and more convenient authentication methods, such as biometric authentication (e.g., fingerprint or facial recognition) or security keys. This can help to reduce the risk of account takeovers, as biometrics and security keys are more difficult to phish or steal than passwords. FIDO2 is a new open web standard that offers a unique approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
+The FIDO (Fast Identity Online) Alliance has created solutions for overcoming the limitations of passwords. FIDO can be used in 1FA and/or MFA to replace passwords with stronger and more convenient authentication methods, such as biometric authentication (e.g., fingerprint or facial recognition) or security keys. This can help to reduce the risk of account takeovers, as biometrics and security keys are more difficult to phish or steal than passwords. FIDO2 is a new open web standard that offers a unique approach to passwordless authentication. It provides a standardized way for websites to make use of hardware authentication devices. FIDO2 security keys are small, portable devices that can be used to authenticate users to websites and online services. They are more secure than passwords because they cannot be phished, replayed, or stolen.
 
  FIDO2 also offers a number of other benefits over passwords, including: 
  

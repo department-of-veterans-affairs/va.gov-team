@@ -15,7 +15,7 @@ This initiative aims to improve veterans' understanding of the claims process in
 * As a veteran involved in the disability claims process, I often miss opportunities to contribute effectively to my claim due to a lack of understanding about my specific responsibilities at different stages in the process.
 * As a veteran with an open disability claim, my preconceived expectations about the claims process frequently clash with the reality, causing me to become frustrated when the claim stagnates at a particular phase, or unexpectedly reverts to a previous phase.
 * As a veteran engaging with the CST for my open disability claim, I encounter specific evidence requests whose purpose and requirements are unclear to me, leading to delays in response and submissions that may not be as strong as they could be.
-* As a veteran tracking my open disability claim through the CST, I am mislead by the depicted claims process timeline, which incorrectly suggests a linear process and fails to illustrate the common occurrence of claims cycling between phases. This inaccuracy creates false expectations and compounds the difficulty of waiting for results.
+* As a veteran tracking my open disability claim through the CST, I am misled by the depicted claims process timeline, which incorrectly suggests a linear process and fails to illustrate the common occurrence of claims cycling between phases. This inaccuracy creates false expectations and compounds the difficulty of waiting for results.
 
 
 # Desired Outcomes

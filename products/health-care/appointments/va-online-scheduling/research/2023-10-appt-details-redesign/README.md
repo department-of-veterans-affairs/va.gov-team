@@ -19,4 +19,4 @@ The appointments FE team is redesigning all appointment details with the followi
 
 ### Resources
    * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-appt-details-redesign/research-plan.md)
-   * Conversation Guide
+   * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-10-appt-details-redesign/conversation-guide.md)

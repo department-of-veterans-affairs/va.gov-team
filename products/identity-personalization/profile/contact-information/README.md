@@ -1,10 +1,10 @@
 # Contact Information Product Outline
 
-**Last Updated: August 1, 2023**
+**Last Updated: January 23, 2024**
      
 ## Table of Contents
 
-- [POCs](#)
+- [POCs](#pocs)
 - [Overview](#overview)
 - [User Problem Statement](#user-problem-statement)
 - [Projects](#projects)
@@ -87,10 +87,6 @@ As a user, I want to be able to:
 Forms in contact info use the [VA Form Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-form-config-options)
 
 ## Design and UX
-- [Contact information sketch files](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655)
+- [Desktop](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A787&mode=design&t=UiWIZDzH64ulByY7-1) 
+- [Mobile/user flow](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A1&mode=design&t=UiWIZDzH64ulByY7-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/use-cases)
-
-### Flow diagrams
-- [High-level add/edit flow with screenshots](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/573053E0-C66A-4904-B497-C254BCCB59CD/canvas) (includes Address Validation)
-- [Home address updated, mailing address does not match](https://app.mural.co/t/vsa8243/m/vsa8243/1648492872357/ccc5ced279f2062e7336460965ddc8681e6e9722?sender=u28f508d646c449cc1afe4873)
-- [Address is marked as “bad” in VA Profile](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/B9130735-D925-4E07-B163-42644176BD5C/canvas)

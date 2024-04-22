@@ -14,7 +14,7 @@
 |	Facility Locator Assistive Technology	|	Jun 2021	|	To establish foundational knowledge of Veterans' Facility Locator search experience while using assistive technology on desktop and mobile devices.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)	|
 |	Emergency care mashup	|	Jul 2021	|	To validate the usability and design of new facility locator search result cards which combine VA emergency care and community emergency care service types.	|	[Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/emergency-care-mashup/research-findings.md)	|
 | VBA taxonomy research | February 2022 | To evaluate the current VBA taxonomy against the mental models of users: names, scope, and categorization of services | [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
-| Facility locator mobile map | December 2023 | To evaluate coded mobile map prototype with AT users and other Veterans | [Findings]
+| Facility locator mobile map | Spring 2024 | To evaluate coded mobile map prototype | [Findings]
 
 
 ## Related research

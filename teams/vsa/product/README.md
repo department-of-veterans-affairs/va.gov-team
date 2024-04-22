@@ -42,7 +42,7 @@ Initiative Briefs serve as a description of the project a team is pursuing to ac
 - [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)
 - Examples
   - [Prevent unintended MPI updates via 10-10ez](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/health-benefits/healthcare-application/initiatives/avoid-mpi-changes.md#prevent-unintended-mpi-updates-via-10-10ez)
-  - [Intiative Briefing: New VA.gov Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/new-mobile-header/Initiative%20Briefing.md)
+  - [Intiative Briefing: New VA.gov Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md)
   
 ### Problem Brief
 Problem Briefs serve as low-barrier starting point for teams to begin tackling a given issue. These problems are typically process-related or decision-related (vs. product-related that may be better suited by a Product Outline or Initiative Brief).

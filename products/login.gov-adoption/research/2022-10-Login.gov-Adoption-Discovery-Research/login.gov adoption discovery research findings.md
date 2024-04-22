@@ -76,7 +76,7 @@ Through our research, we hoped to explore how the VA can most successfully migra
 |***Which multi-factor authentication options will allow more Veterans to migrate to Login.gov?***| |
 |Current multi-factor authentication options present challenges to Veterans with technology issues or disabilities.|Likely True|
 |Veterans will need help to choose a multi-factor authentication method that is most appropriate for them.|Likely True|
-|Security keys might be easier for Veterans to use.|Not information information|
+|Security keys might be easier for Veterans to use.|Likely True|
 |A security key could be a useful backup option, if Veterans are encouraged to set up more than one multi-factor authentication option.|Definitely True|
 |Security keys can be useful for homeless Veterans, to access services at a library for example.|Not enough information|
 |***How can MFA support non-Veterans who need access to parts of a Veterans’ information?***| |

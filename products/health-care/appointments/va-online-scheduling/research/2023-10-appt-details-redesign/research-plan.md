@@ -127,7 +127,9 @@ Remote, over Zoom.
 
 ## Research materials
 
-Prototype link TBD
+[Desktop Prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=&type=design&node-id=3706-84910&viewport=-1534%2C476%2C0.16&t=BeRNl3a5N7GfhYSb-1&scaling=min-zoom&starting-point-node-id=3706%3A84910&mode=design)
+
+[Mobile Prototype](https://www.figma.com/proto/RcDljBwThbwVDkNrDH2xiA/Appointment-Details-Redesign-%7C-Appointments-FE?page-id=2236%3A60173&type=design&node-id=2447-132766&viewport=457%2C427%2C0.16&t=77eZwwjIykTZ6rPe-1&scaling=min-zoom&starting-point-node-id=2447%3A132766&mode=design)
 
 
 # Recruitment
@@ -135,17 +137,16 @@ Prototype link TBD
 
 ## Recruitment approach
 
-Perigean will recruit 12 participants for this study who are active MyHealtheVet or VA.gov. 
+Perigean will recruit 16 participants for this study who are active MyHealtheVet or VA.gov. 
 
-<!-- I'd recommend recruiting 16 participants to make sure we end up with the end goal of 12 -->
 
 
 ## Recruitment criteria
 
 Primary criteria
 
-* 6 participants who primarily use a desktop/laptop computer.
-* 6 participants who primarily use a mobile device.
+* 8 participants who primarily use a desktop/laptop computer.
+* 8 participants who primarily use a mobile device.
 
 Secondary criteria:
 
@@ -162,24 +163,40 @@ We will ask for Perigean support in recruiting and note-taking.
 
 ## Prepare
 
-Test materials will be finalized by TBD
+Test materials will be finalized by Friday, January 12, 2024
 
-Pilot participant email: TBD Date and time of pilot session: TBD
+Pilot participant email: TBD 
+
+Date and time of pilot session: On or after Wednesday, January 24, 2024
 
 
 ## Research sessions
 
-Research session will begin on ar after TBD
+Research session will begin on ar after Thursday, January 25, 2024
 
 
 ## Length of sessions
 
 60 min
 
+Please allow at least 30 minutes between sessions
+
 
 ## Availability
 
-TBD
+| Day | Date  | Time (EST)  | 
+|---|---|---|
+| Weds | 1/24  | 12:00pm - 4:00pm  | 
+| Thurs | 1/25  | 12:00pm - 5:00pm  |
+| Fri | 1/26  | 12:00pm - 6:00pm  |
+| Mon | 1/29  | 12:00pm - 6:00pm  |
+| Tues | 1/30 |  12:00pm - 6:00pm | 
+| Weds | 1/31  | 12:00pm - 4:00pm  | 
+| Thurs | 2/1  | 12:00pm - 5:00pm  |
+| Fri | 2/2   | 12:00pm - 6:00pm  |
+| Mon | 2/5  | 12:00pm - 6:00pm  |
+| Tues | 2/6  | 12:00pm - 6:00pm  |
+
 
 
 ## Team roles
@@ -187,7 +204,7 @@ TBD
 
 
 * Moderator: Ciera Maddox 
-* Research guide writing and task development (usually but not always same as moderator): Ciera Maddox
+* Research guide writing and task development: Ciera Maddox
 * Participant recruiting & screening: Perigean
 * Project point of contact: Ciera Maddox
 * Participant(s) for pilot test: TBD

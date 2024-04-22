@@ -3,7 +3,7 @@ name: Analytics Edge Case Dashboard - Request Template
 about: To request an edge case KPI dashboard on Domo for your product
 title: Analytics edge case KPI dashboard request for [Team]
 labels: analytics-insights, analytics-request, kpi-dashboard
-assignees: michelle-dooley
+assignees: johnny-jesensky-adhoc
 
 ---
 

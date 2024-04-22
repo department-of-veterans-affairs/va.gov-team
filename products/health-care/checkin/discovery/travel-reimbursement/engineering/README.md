@@ -41,19 +41,27 @@ key: things in green are new additions to the workflow
 
 ### POST for token 
 
-curl --location --request POST 'https://login.microsoftonline.us/f7c49e36-971b-42c7-b244-a88eed6c0bf6/oauth2/v2.0/token' \
---form 'grant_type=" client_credentials"' \
---form 'client_id=" <your SPN client id provided by VAEC>"' \
---form 'client_secret=" <your SPN client secret provided by VAEC>' \
---form 'scope="4a77476c-ceed-45db-ad7e-ac2bbbc4f72a/.default"'
-
+```
+curl \
+  --location \
+  --request POST \
+  'https://login.microsoftonline.us/f7c49e36-971b-42c7-b244-a88eed6c0bf6/oauth2/v2.0/token' \
+  --form 'grant_type=" client_credentials"' \
+  --form 'client_id=" <your SPN client id provided by VAEC>"' \
+  --form 'client_secret=" <your SPN client secret provided by VAEC>' \
+  --form 'scope="4a77476c-ceed-45db-ad7e-ac2bbbc4f72a/.default"'
+```
 
 ### POST for claim
 
-curl --location --request POST 'https://dev.integration.d365.va.gov/EC/dev/ClaimIngestSvc/api/ClaimIngest/submitclaim' \
---header 'Authorization: bearer {{TOKEN}}' \
---header 'Content-Type: application/json' \
---data-raw '{
+```
+curl \
+  --location \
+  --request POST \
+  'https://dev.integration.d365.va.gov/EC/dev/ClaimIngestSvc/api/ClaimIngest/submitclaim' \
+  --header 'Authorization: bearer {{TOKEN}}' \
+  --header 'Content-Type: application/json' \
+  --data-raw '{
     "ClientNumber": "CLI-00001002",
     "ClaimantID": "{{patient ICN}}}",
     "ClaimantIDType": "icn",
@@ -63,4 +71,5 @@ curl --location --request POST 'https://dev.integration.d365.va.gov/EC/dev/Claim
     "MileageExpense": {
         "TripType": "RoundTrip"
     }
-}'
+  }'
+```

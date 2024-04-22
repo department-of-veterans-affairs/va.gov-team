@@ -50,7 +50,7 @@ As a Veteran, I need to learn more about my VA medical facility so that I unders
 
 ## Relevant initiatives
 - Lovell Federal health care
-  - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+  - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-initiative-brief.md)
 - Community Living Centers
   - [README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers)
 - Domiciliaries

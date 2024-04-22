@@ -29,8 +29,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava |
 | Kate Allbee | UX Designer and Research | kate@verdance.co | kate-allbee |
 | Evelyn Davis | UX Research | evelyn@cityfriends.tech | evelynhilbrichdavis |
-| Tommasina Miller | Engineer | tommasinamiller@navapbc.com | tommasina-va |
-| Austin Price | Product Manager | austin.price@coforma.io | austinjprice |
+| MJ Wojcik | Engineer | mjwojcik@navapbc.com | michael-wojcik |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh |
 | Scott Regenthal | Engineer | scott.regenthal@oddball.io | freeheeling |
 | Sam Stuckey | Engineer | sam.stuckey@oddball.io | SamStuckey |

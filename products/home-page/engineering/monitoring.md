@@ -1,11 +1,11 @@
 # VA.gov homepage monitoring
 
 ## [Synthetics] [PLATFORM] VA.gov Homepage Load
-https://vagov.ddog-gov.com/monitors/153110
-https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx?from_ts=1698262600630&to_ts=1698277000630&live=true
+Monitor: https://vagov.ddog-gov.com/monitors/153110 <br/>
+Synthetic test: https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx
 
 **What is:** 
-* Synthetic test that verifies VA.gov homepage loads, driven by the [[PLATFORM] VA.gov Homepage Load synthetic test](https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx?from_ts=1700142575896&to_ts=1700156975896&live=true), which tests https://www.va.gov from 3 locations on 9 devices every 30 minutes.
+* Synthetic test that verifies VA.gov homepage loads, driven by the [[PLATFORM] VA.gov Homepage Load synthetic test](https://vagov.ddog-gov.com/synthetics/details/4p6-pqi-azx), which tests https://www.va.gov from 3 locations on 9 devices every 30 minutes.
 
 **What it means when it fails**
 

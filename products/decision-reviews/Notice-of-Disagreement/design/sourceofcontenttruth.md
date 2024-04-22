@@ -421,9 +421,15 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Sorry, we couldn’t find any eligible issues
+Show this error alert if issues are not loading (backend error):
 
-If you’d like to add an issue for review,  select "Add a new issue" to get started.
+    Header: We can't load your issues right now
+    Body: You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started.  
+
+Show this error alert if account has no eligible issues:
+
+    Header: Sorry, we couldn’t find any eligible issues
+    Body: If you’d like to add an issue for review, select "Add a new issue" to get started.
 
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
@@ -814,7 +820,7 @@ When we’ve completed your review, we will physically mail you a decision packe
 
 You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
 
-If you requested an appeal and haven’t heard back from us yet, please don’t request another appeal. Call us at 800-827-1000.
+If you requested an appeal and haven’t heard back from us yet, please don’t request another appeal. Call us at 800-827-1000 (TTY: 711).
 
 Button: [Check the status of your appeal](#)
 
@@ -909,18 +915,34 @@ No errors
 - "Zip code must be 5 digits"
 - APO/FPO/DPO: "Please select a valid option"
 ### Deadlines
-#No errors
-### Request extension
 No errors
+### Request extension
+No errors (yes/no is optional; defaults to no)
 ### Reason for extension
 - "This field cannot be left blank."
 - (Max. 2300 characters) appears below textarea when at max (not an error)
 ### Denial of VHA
-No errors
+No errors (yes/no is optional; defaults to no)
 ### Contestable issues
-- No issues loaded: "We can’t load your issues right now", "You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started."
-- No issues selected: "You’ll need to select an issue", "You must select at least 1 issue before you can continue filling out your request."
-- Max issues (> 100 selected or added): "You’ve reached the maximum number of allowed selected issues", "You are limited to 100 selected issues for each Notice of Disagreement request. If you would like to select more than 100, submit this request and create a new request for the remaining issues."
+Issues are not loading:
+
+    Header: We can't load your issues right now
+    Body: You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started.  
+
+Account has no issues:
+
+    Header: Sorry, we couldn’t find any eligible issues
+    Body: If you’d like to add an issue for review, select "Add a new issue" to get started.
+
+User did not select an issue:
+
+    Header: You’ll need to select an issue
+    Body: You must select at least 1 issue before you can continue filling out your request.
+
+User tries to add 101 issues:
+
+     Header: You've reached the maximum number of allowed selected issues
+     Body: You're limited to 100 selected issues for each Notice of Disagreement request. If you'd like to select more than 100,  submit this request. Then create a new request for the remaining issues.
 ### Add/Edit an issue
 - Name: "You must add an issue"
 - Name: "You can enter a maximum of 180 characters"
@@ -935,7 +957,7 @@ No errors
 ### Disagreement
 - "Choose or enter a reason for disagreement"
 - Something else: "This field should be less than 90 characters", "This field should be less than 68 characters", "This field should be less than 53 characters"; "This field should be less than 34 characters" - depends on what is selected
-## Summary
+### Summary
 No errors
 ### Board option
 - "Choose a Board review option to proceed"
@@ -960,7 +982,10 @@ No error (yes/no is optional; defaults to no)
   - "Missing zip code"
 - "Missing Board review option"
 - "Missing hearing option"
-- Submit alert: "We’re sorry. Some information in your request is missing or not valid.", "Please check each section of your request to make sure you’ve filled out all the information that is required.
+User tries to submit with missing/invalid information:
+
+     Header: Some information in your request is missing or not valid.
+     Body: Check each section of your request to make sure you’ve filled out all the information that is required.
 
 ## PROPOSED Errors
 
@@ -970,31 +995,6 @@ Not enough PII to proceed with form:
 
     Header: We’re missing some of your personal information
     Body: You’ll need to provide us with the missing information before you can fill out a Notice of Disagreement request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
-
-Issues are not loading:
-
-    Header: We can't load your issues right now
-    Body: You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started.  
-
-Account has no issues:
-
-    Header: Sorry, we couldn’t find any eligible issues
-    Body: If you’d like to add an issue for review, select "Add a new issue" to get started.
-
-User did not select an issue:
-
-    Header: You’ll need to select an issue
-    Body: You must select at least 1 issue before you can continue filling out your request.
-
-User tries to add 101 issues:
-
-     Header: You've reached the maximum number of allowed selected issues
-     Body: You're limited to 100 selected issues for each Notice of Disagreement request. If you'd like to select more than 100,  submit this request. Then create a new request for the remaining issues.
-
-User tries to submit with missing/invalid information:
-
-     Header: Some information in your request is missing or not valid.
-     Body: Check each section of your request to make sure you’ve filled out all the information that is required.
 
 ### In-line errors
 
@@ -1050,7 +1050,7 @@ User tries to submit with missing/invalid information:
 
   `You must accept the privacy policy before continuing`
   
-## Email
+## PROPOSED / Email
 
 Dear ((first_name)),
 

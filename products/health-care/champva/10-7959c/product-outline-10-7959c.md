@@ -3,27 +3,26 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+This effort will follow digitization of form 10-10d for CHAMPVA enrollment so that applicants also have a digital service for providing their Other Health Insurance certification.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Currently, but burden around form 10-7959c lies with applicants who often have to fill out the paper form multiple times, and as well as with thoee who receive the paper forms and then scan them for entry into other systems. Our goal is to reduce the load in the mailroom and subsequently improve the experience and processing time for the applicant.
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Digital form submission so that applicants no longer have to mail in multiple copies of the paper form.
+- Bypassing the mailroom to reduce the processing backlog and intake burden.
 
 ## Undesired User Outcomes
-
+- We should not increase processing time by undertaking this effort.
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- This effort should reduce overall processing time by expediting intake
+- This effort should reduce error rates by removing the dependence on handwritten forms
 
 ## Undesired Business Outcomes
+- This effort should not increase the processing burden in the mailroom or downstream
 
 
 ---
@@ -31,39 +30,40 @@
 
 
 ### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+- number of downloads
+- number of submissions by mail or fax
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
+- Objective: Veterans and their families can easily apply online for health care benefits 
+  - Key result: Increase % of Veterans and families who apply for health care benefits online
+  - Key result: Increase number of form submissions 
+  - Key result: Reduce time it takes to fill out certification
+- Objective: Faster delivery of benefits for Veterans and their families
+  - Key result: Reduce processing and approval time
+  - Key result: Reduce delay due to number of resubmissions 
+  - Key result: Reduce time to notification of submission
+- Objective: Veterans and their families are updated and informed of statuses
+  - Key result: Ensure testing and alert monitoring to catch any errors
+  - Key result: Accurate status is relayed to applicants
 
 
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
+- Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
+- We are currently in the research and design phase. We will speak with users and will be building out a prototype for testing as well.
+- Connect with CAIA on migration effort happening in parallel 
+- In Scope:
+- Out of Scope:
+- 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
@@ -87,6 +87,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Solution Narrative
+- Research and discovery work 
+- User flows 
+- Preparing to set up user interviews
+- ‘Skeleton’ built out for initial dev testing
 
 ### Current Status
 

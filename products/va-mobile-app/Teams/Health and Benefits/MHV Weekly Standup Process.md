@@ -9,12 +9,15 @@
 # Steps 
 **1.) Health PM to collect necessary updates from other Mobile PMs if releveant**
    - Post last update in va-adhoc-mobile-pm 
+   - Ask for updates by EOD Monday
 
 **2.) Health PM to post the MHV Weekly update on DSVA va-mobile-app channel no later than Tuesday EOD prior to Wednesday meeting**
+   - Tried to target noon on Tuesdays so OCTO POs have 24 hours to see and ask questions before the meeting 
 
 **3.) @ the applicable OCTO POs** 
   - Mobile POs - Rachel Han and Ryan Thurwell
    - RX, SM, Appointments - Kay Lawyer
+   - Janie Tankard-Carnock - Secure Messaging 
    - Terms of Use - Patrick Bateman
      If Octo PO is not known reach out to Rachel for identification 
 

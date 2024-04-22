@@ -1,70 +1,75 @@
 ## 2024 Vet Center page data 
-Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
+> for data prior to 2024, please visit [Vet Center data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/analytics/vet-center-data.md)
 
 - [Vet Center editor stats](#vet-center-editor-stats)
-- [Users and interactions](#users-and-interactions)
-- [Top services](#top-services)
+- [Vet Center facility stats](#vet-center-facility-stats)
+- [Summary data](#summary-data)
+- [Service views](#service-views)
 - [Other interactions](#other-interactions)
 - [User surveys](#user-surveys)
   
 ## Vet Center editor stats
-**OKR to measure the success of notifications reminding editors to review and update their webpage content** (_launched 10.01.2023_)
-- % of editors who have logged into CMS in the last 30 days (RCS leadership and team editors excluded)
+OKR to measure the success of notifications reminding editors to review and update their webpage content (_launched 10.01.2023_): % of editors who have logged into CMS in the last 30 days (RCS leadership and team editors excluded)
 
-| Metric | December 2023 | January 2024 | February 2024 | March 2024
-|---|---|---|---|---|
-| Total # of editors | 539 | | | |
-| % which have never logged in |8% (45 - 3 of which are new editors this month) | | | |
-| % which logged in during the 30 days prior | 17% (92) | | | |
+| Metric| December 2023 | January 2024 | February 2024 | March 2024
+|---|:---:|:---:|:---:|:---:|
+| Number of editors | 539 | 539 | 554 | 555|
+| % which have logged in in the last 30 days | 17 | 26 |18 | 20
+| % which have never logged in | 8 | 8| 10 | 9
 
-### Users and interactions
-| 	Metric | Q4 2023 | Q1 2024	| 	Q2 2024	| 	Q3 2024 | Q4 2024
-| --- | ---| ---| --- | ---| ---|
-| Unique users	|161,854 | | | |
-| Total interactions | 307,867 | | | |
-| New users | 59%  | | | |
-| Returning users | 41% | | | |
-| User interaction rate | 34% | | | |
-| Total interaction clicks | 122, 684  | | | |
-| Average clicks per user | 0.76 | | | |
-| Average scroll depth | 62.2%  | | | |
-| Desktop | 50% | | | |
-| Mobile | 48.5% | | | |
 
-### Top services
-(based on clicks on accordions)
-| Accordion | Required?| 4Q 2023 | 1Q 2024| 2Q 2024 | 3Q 2024 | 4Q 2024
-| ---| --- | ---| ---| ---| ---|---|
-Mental health care  	|Required 	|11,408   | | | |
-Veteran connections  	|Required 	|	10,825  | | | |
-Couples and family counseling  	|Required 	|	9,577   | | | |
-PTSD care | 	Required 	|	8,140  | | | |
-Community engagement | Required	|	7,883  | | | |
-Grief and bereavement counseling  	|Required 	|4,321  | | | |
-Military sexual trauma care  	|Required 	|	3,858  | | | |
-Returning service member care	|Required 	|	4,102  | | | |
-Whole health  	|Optional 	|	 3,113  | | | |
-Suicide prevention  	|Required 	|2,726  | | | |
-Addiction and substance use care | Required 	|4,340  | | | |
-Homeless Veteran care |Optional | 1,579  | | | |
-Women Veteran care |Optional | 1,419  | | | |
+## Vet Center facility stats
+| Metric | January 2024 | February 2024 | March 2024
+| --- |:---:|:---:|:---:|
+| Number of Vet Centers | 300 | 300 | 300
+| Number of Outstations |20 | 20| 21
+| Number of Mobile Vet Centers| 83|83 |83
+| Number of CAPs | 519 |525 |528
+| Number of Vet Center services| 3,741 |3,742 |3,742
+
+## Summary data
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/3bf2ce3b-92be-45a2-a708-7f891cbec36a)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/982e9e3b-bd46-4ffe-920f-152e8e422f86)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/39d64cd5-82ee-4217-ac6c-100b6282eddd)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/c8357b9f-75fc-44f9-aaa6-ce3dfbaa475e)
+
+
+
+### Service views
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/d60ee20c-1726-4add-a4c8-637620dea248)
+
+
+
 
 ### Other interactions
-(based on clicks on links)
-| Link | 4Q 2023 | 1Q 2024| 2Q 2024 | 3Q 2024 | 4Q 2024
-| ---| --- | ---| ---| ---| ---|
-| Spotlight link | 855*| | | |
-| Find a VA location | 1,953| | | |
-| Call center phone | 617| | | |
-| Talk to the Veterans Crisis line now | 977| | | |
-* The link to the Vet Center service video was replaced October 30, 2023.
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/8f0e408b-d7c7-49f9-a8a5-22b6531e87fa)
+
+
 
 ### User surveys
-| Metric | 4Q 2023 | 1Q 2024| 2Q 2024 | 3Q 2024 | 4Q 2024
-| ---| --- | ---| ---| ---| ---| 
-| Average experience rating |3.86|
-| 1 star |8% (2)  | | | |
-| 2 stars | 12% (3)| | | |
-| 3 stars |12% (3)| | | |
-| 4 stars | 8% (2)| | | |
-| 5 stars | 48% (12) | | | |
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/959a3039-2fee-416b-a6b2-363844d950dc)
+
+
+| Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024
+| --- | :---:| :---:| :---:| :---: | 
+| Total survey responses | 7| 8 |5 | 6|
+| 1 star | - | - | 2 | 1
+| 2 stars	| 2 | 1 | - |-
+| 3 stars | 1 | 2 |-  | 1
+| 4 stars | 4  |2  |-  | -
+| 5 stars |- |1  |3 | 4
+
+> Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
+> Raw data: [Facilities metrics 2024](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Be0efa151-5e25-49fd-8d4f-8f451a49fb9b%7D&action=editnew)
+
+
+
+
+
+

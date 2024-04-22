@@ -11,6 +11,7 @@ Created by the sitewide content and IA team for teams working on products relate
 - [Related terminology](#related-terminology)
 - [Content considerations specific to payments and debts](#content-considerations-specific-to-payments-and-debts)
 - [Organic SEO and VA.gov search](#organic-seo-and-va.gov-search)
+- [Related form or tool patterns](#related-form-or-tool-patterns) 
 - [Content-specific research findings](#content-specific-research-findings)
 - [Content pages related to this topic](#content-pages-related-to-this-topic)
 - [Other notes](#other-notes)
@@ -72,6 +73,10 @@ Debt is a topic that causes anxiety for many people. So whenever we write about 
 #### Top 20 on-site search terms related to overpayment (9.12.2021 - 9.12.2022)
                                                                                              
 ![image](https://user-images.githubusercontent.com/62957278/189705393-67d7125f-76ac-47b0-9193-93e72459bc90.png)
+
+## Related form or tool patterns 
+
+[Add pattern notes and can link to Figma files and a separate brief on universal patterns that we're working on with different teams.]
 
 ## Content-specific research findings
 

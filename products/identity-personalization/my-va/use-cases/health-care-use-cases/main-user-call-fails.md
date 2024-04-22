@@ -11,8 +11,8 @@ For LOA3 users who sign in and the main user call fails, they will likely see an
 - In rare cases, this error could occur and the page may still load. If this occurs, we display an error that states "**We can't access any health care information right now.** We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. [Visit My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home)"
 - This error is the only thing that displays in the section when it occurs and the page still loads.
 - Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A279&mode=design&t=5F61Y67ZSUQb0Pyb-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A809&mode=design&t=5F61Y67ZSUQb0Pyb-1)
 
 ## How to reproduce
 - In order to reproduce this error, log into VA.gov or staging.va.gov with any user.

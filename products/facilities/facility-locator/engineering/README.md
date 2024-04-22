@@ -26,6 +26,42 @@ Technical documentation is broken up, then, into 3 sections:
 * [Sandbox](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/fwdproxy-vagov-sandbox.yml)
 * [Production](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/fwdproxy-vagov-prod.yml)
 
+
+## Vets-api / Lighthouse Key & rate limits
+* Vets-api: VA  Code: [vets-api/modules/facilities_api](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api)
+* Lighthouse Facilities API Documentation: https://developer.va.gov/explore/api/va-facilities - Documentation for API that indexes data sourced from VA.gov, Lighthouse
+
+### **API user/key:**
+Facility Locator uses an API key that belongs to the **`VADOTGOV_FacilityLocator` consumer**. This key is used when routing through vets-api to get Lighthouse data. 
+
+**As of 12/2023**: The `VADOTGOV_FacilityLocator` consumer has a single API key & rate limit.
+
+**This API key is shared** 
+Right now this API key only accesses the Facilities API. But within Lighthouse, the rate limit for API Keys is shared across all accessed APIs. If this key were used to access multiple APIs, traffic spikes will affect the rate limit for all other APIs using the same key. 
+[Background on shared API keys (Slack)](https://dsva.slack.com/archives/CUB5X5MGF/p1695666665300929), originally related to the Forms product.
+
+### **Rate limits**
+Rate limits are applied _**per consumer**_ to _**all APIs**_ accessed by that consumer.
+As of 12/23, the API rate limit is **2,000 requests/min.** (The 2,000 requests/min. rate limit applies to the collective traffic across all APIs accessed by the consumer/key.)
+
+If/when we request rate limit changes, that rate limit will be set for all APIs accessed by the `VADOTGOV_FacilityLocator` API consumer, even if products are using different API keys. 
+
+More info on [rate limit changes (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase).
+
+### Error messages
+When API hits a rate limit... TODO: Verify what happens in FL and document here
+
+### Request API limit increase
+If 429 errors occur in Datadog or Sentry, this indicates that traffic is high and we are being throttled by an API rate limit / requests are being rejected. We can request API limit increases for specific endpoints, and the Lighthouse Facilities team can help expedite approvals. Rate limit changes will affect all users of the API key, across used APIs. 
+
+To request a rate limit increase:
+1. Ping #cms-lighthouse in DSVA slack, and explain the issue / what you're seeing to the Lighthouse Facilities API team.
+2. LH can provide specifics on what endpoint will need to be increased for limit, and what the current limit is. They can also help suggest the new limit. If you already know this info, skip to 3.
+3. Visit https://developer.va.gov/support/contact-us. Fill out the form with endpoint, limit, and limit increase information/
+4. Share with #cms-lighthouse that request is made. Lighthouse team can then help expedite approval.
+
+Typically, we may want to reduce the limit again after traffic spikes end. If that's true, create a ticket to track requesting the lower limit. 
+
 ### Platform Developer docs
 - [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) - Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
 - [Vets-website feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide)

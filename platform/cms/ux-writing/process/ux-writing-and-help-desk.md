@@ -38,7 +38,7 @@ UX, CMS, and helpdesk will collaborate to meet our shared goals in a variety of 
 - Responsible: Help desk
 - Supporting: UX writer, Product Managers, Accessibility Lead
 
-### CMS announcements (as of 2022, announcements are on hold)
+### CMS announcements
 
 **Identifying announcement items**
 - Responsible: UX writer and product manager meet at the start of the sprint to identify what needs an announcement

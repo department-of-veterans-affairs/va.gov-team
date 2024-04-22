@@ -1,13 +1,14 @@
-### The CST App Map is an overview of the current CST UI.
-
-[App Map in Sketch](https://www.sketch.com/s/d8594ef0-5efd-4a48-aa7a-baa3cb056482)
-
-[Download App Map PDF](https://github.com/department-of-veterans-affairs/va.gov-team/files/12162375/CST.App.Map.pdf)
+# The CST App Map is an overview of the CST UI in various states
 
 
-CST is `va.gov/track-claims` and related pages. 
+[App Map Version 1](https://www.figma.com/file/y27KDDtZLBDSVZmAjXdbJn/CST-App-Map?type=design&node-id=0-1&mode=design) (April 2023)
 
-This is a living, breathing document meant to serve as a "source of truth" for all of CST as it evolves over time. The App Map was created by finding and/or reproducing various user states in staging `staging.va.gov/track-claim`
+[App Map Version 2](https://www.figma.com/file/y27KDDtZLBDSVZmAjXdbJn/CST-App-Map?type=design&node-id=0-344&mode=design) (April 2024)
+
+[CST App Map.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14807084/CST.App.Map.pdf)
 
 
-![TOC](https://user-images.githubusercontent.com/95102058/231773085-3fb7c492-2023-4545-b2de-f39c263581d7.png)
+
+This is an evolving document meant to serve as a "source of truth" for all of CST as it changes over time. The App Map uses screenshots from staging for V1 and mocks produced in Figma for V2 and beyond.
+
+<img width="1877" alt="TOC" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/95102058/a4aaa5a9-9972-4ecf-bdb8-645b4a496694">

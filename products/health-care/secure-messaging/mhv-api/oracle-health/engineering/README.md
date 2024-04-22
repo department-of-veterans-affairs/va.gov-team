@@ -1,24 +1,17 @@
 # [WIP] SM Exchange
 
 
-## TODOs
-
-- [ ] Add Threading to the model
-- [ ] Add Messaging pool handling to the sequence diagrams
-- [ ] Add FHIR APIs
-- [ ] Add teams responsbilities 
-
 ## Assumptions (Need to be validated and Open to challenged)
 
 - ✅ MHV is the source of truth for all Messaging data
-- We need to map OH data into our own model to support capabilities that are not supported by OH
-- Between the FHIR APIs and OH SM APIs we have all the data we need
+- ✅ We need to map OH data into our own model to support capabilities that are not supported by OH
+- ✅ Between the FHIR APIs and OH SM APIs we have all the data we need
 - ✅ The existing MHV SM API (the one used by va.gov today) can be reused for the SM Exchange
   - Or at least that's the goal
 - ✅ OH is sending data to an URL via a webhook in an Atom feed format
 - The only reason we are sending data back to OH is so that the message shows up in the OH clinician UI
-- The correct data is available through the process (example: we can get the facility information at the correct time)
-- ✅ The SM Exchange and MHV and OH communicate using RESTful APIs
+- ✅ The correct data is available through the process (example: we can get the facility information at the correct time)
+- The SM Exchange and MHV and OH communicate using RESTful APIs
 
 ## Technical Measures of Success
 
@@ -27,12 +20,30 @@
 - The SM Exchange does not have any knowledge or dependency on MHV database structure or the OH database structure
 - The architecture is scalable, monitorable and resilent 
 
+## Work in Progress 
+
+
+- OCTO, BCG, BL working to define architecture and requirements
+- BCG working on reference docs + prototypes
+- BL working through  the bones of the SM Exchange
+
 ## MVP Target
 
-- create an endpoint that can be hit with a cURL command and sends a message to OH
-- create an endpoint that can consume OH Atom feed and triggers uploading a message to the MHV store
+- Load patient historical data on first time log in. 
 
 ## Unknowns to work through
+
+### First time
+
+How are we triggering the first time? 
+
+### What API are using? 
+
+There is a timeline vs API problem. What API are using during the roll out of the SM? 
+
+Current plan
+- Using Messaging 2.0 for the Pilot
+- Moving to New Public API when its ready and for the actual roll out 
 
 ###  Auth between MHV and SM Exchange
 
@@ -53,19 +64,13 @@
 
 ### Threads Creation
 
+- How can get the conversation Id? 
 - For a new message when does the thread Id get created?
   - How can get a Thread Id? 
     - MVH API? 
       - API endpoint that accepts a OH Message Id and returns a MHV Core Thread id
     - Asking for it <- preferred ->
     - Sending it in without a thread Id and Core MHV handles that
-
-
-### Historical Data
-
-- For the migration, could we use the same feed processor in the SM Exchange
-  - We should, see [below](#create-session)
-- How are we determining a Patient is new?
 
 
 
@@ -81,15 +86,25 @@
 - Send a message to OH (or a cURL)
 - Send a message from OH to MHV 
 
-### More detailed diagram
+## More detailed diagrams
+
+### Detailed Exchange Diagram 
 
 ![Diagram](./assets/sm%20exchange.v5.drawio.png)
 
+### New Message Received
 
-### Tech stack
+![Diagram](./assets/historical-message-receive.drawio.png)
 
-- AWS Lambdas, using JavaScript
-- Queue: Existing queue technology
+### Create Session
+
+![Create Session](./assets/Create%20Session.png)
+
+### Most Detail Diagram
+
+- Still to coming with reference implementation 
+
+
 
 ### Notes
 
@@ -99,11 +114,11 @@
   - Since this will be a longer running task, a queue provides a resilient way to handle messages
   - Keeps the action of recieving a message light and fast
 - * for the connection between the SM exchange and MHV, there might be a need a queue to retry failures
-- SM Exchange does not know about threads, that is completely handled in the MHV API Data Layer
 - Services that need to be mocked 
   - OH FHIR APIs
-  - OH Messaging API
+  - OH Messaging 2.0 API
   - OH Atom Feed
+  - OH Public Messaging API (The New API)
 
 ## Sequence
 
@@ -118,7 +133,6 @@ sequenceDiagram
 
     box LightCyan MHV
     participant MHVES as Event Source
-    participant MHVSM as SM Message API
     participant MHVMH as SM Message History API
     participant MHVAH as SM Message Attachment API
     end
@@ -127,7 +141,7 @@ sequenceDiagram
     participant MEL as RESTful Event Listener
     participant MEIQ as Incoming Message Queue
     participant MEP as Message Processor
-    participant MEDB as Exchange Database
+    participant MES3 as Attachment Storage
     participant MEOQ as Outgoing Message Queue
     participant MES as Message Sender
     end
@@ -138,19 +152,19 @@ sequenceDiagram
     participant OHCAMM as Cerner CareAware MultiMedia
     end
 
-    MHVES->>MEL: POST { icn, messageId, receivingPoolId }
+    MHVES->>MEL: POST { icn, message, receivingPoolId, inReplyToOhMessageId }
     MEL->>MEIQ: Parse and store message
 
     MEIQ->>MEP: Receive incoming message
-    MEP-->MHVSM: Fetch message data
     MEP-->MHVMH: Retrieve previous messages in thread
-    MEP-->MEDB: Query for most recent OH Message ID in thread
     MEP-->OHF: Retrieve OH Patient ID for ICN
+    MEP-->MHVAH: Retrieve message attachments
+    MEP->>MES3: Store message attachments
     Note over MEP: Unifies retrieved data and translates message format
     MEP->>MEOQ: Store message
 
     MEOQ->>MES: Receive translated message
-    MES-->MHVAH: Retrieve message attachments
+    MES-->MES3: Retrieve message attachments
     MES->>OHCAMM: POST message attachments
     MES->>OHM: POST message to Outbox
 ```
@@ -171,4 +185,8 @@ sequenceDiagram
 - Understanding Messaging API Considerations doc: https://wiki.cerner.com/display/public/reference/Understand+Messaging+REST+2.0+Considerations+for+Consumers
 - Info on translating from VA.gov user `CRNR200` id to OH FHIR Patient Identifier: https://dsva.slack.com/archives/CMT4MFPS6/p1701186719575159?thread_ts=1701184169.148299&cid=CMT4MFPS6
 
-### TODO: Determine FHIR APIs
+###  FHIR APIs
+
+- Patient API 
+- Encounter API
+- Location API 

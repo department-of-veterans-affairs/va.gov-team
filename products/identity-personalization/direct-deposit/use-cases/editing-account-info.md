@@ -1,6 +1,6 @@
 # Direct deposit: user needs to edit bank account information
 
-**Last updated August 28, 2023**
+**Last updated February 14, 2024**
 
 If a user clicks the `edit` button for either direct deposit section, they will enter edit mode for that section.
 
@@ -9,19 +9,19 @@ If a user clicks the `edit` button for either direct deposit section, they will 
 ### Editing
 - For security purposes, all fields are blank when edit mode is entered.
 - Uses the [form control components](https://design.va.gov/components/form/) from the VA design system, including validation patterns
-- [Desktop mock-up, editing](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Jn3mY79)
-- [Mobile mock-up, editing](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/Omxl74R)
+- [Desktop mock-up, editing](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-463&mode=design&t=JeBw2hRh9J5QSuL7-11)
+- [Mobile mock-up, editing](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-19&mode=design&t=JeBw2hRh9J5QSuL7-11)
 
 ### Saving changes
 - Once the form is successfully saved, the user is returned to "read" mode and a background-only success alert should display above the edit button
 - When direct deposit information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case a fraudster has changed the contact email address. These confirmation emails have information on how to report fraud.
-- [Desktop mock-up, save success](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/jgLJlzG)
-- [Mobile mock-up, save success](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ka7vknR)
+- [Desktop mock-up, save success](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-519&mode=design&t=JeBw2hRh9J5QSuL7-11)
+- [Mobile mock-up, save success](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-116&mode=design&t=JeBw2hRh9J5QSuL7-11)
 
 #### Save error: routing number entered is invalid and can't be matched to a bank.
 - Once a user clicks `save`, a call is made to match the routing number to a bank. If no match is found, the form isn't saved and the user is asked to review the information they entered.
-- [Desktop mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/v/n5K3pa/a/Gm3e17D)
-- [Mobile mock-up](https://www.sketch.com/s/1a920e73-1dcb-47c4-aae8-08656756c131/a/ago74wq)
+- [Desktop mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=30-3502&mode=design&t=JeBw2hRh9J5QSuL7-11)
+- [Mobile mock-up](https://www.figma.com/file/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?type=design&node-id=0-156&mode=design&t=JeBw2hRh9J5QSuL7-11)
 
 ### Canceling changes
 - If a user has made changes to any form field, and hits cancel, they'll first see the field validation message. This is a limitation of the form system.

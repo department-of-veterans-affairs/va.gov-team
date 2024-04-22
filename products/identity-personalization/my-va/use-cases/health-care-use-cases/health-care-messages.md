@@ -11,14 +11,14 @@ For LOA3 users who sign in and have VA health care and unread messages, we will 
 ### User has unread message(s)
 
 - When a user has unread messages, they will see a red indicator next to the "Go to your inbox" link to indicate that they have unread messages.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZOP0Rqa)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ACC876AD-8A95-4CF0-BC33-814C674A33D4)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A305&mode=design&t=0sqAEWapTl9rGnyL-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A627&mode=design&t=0sqAEWapTl9rGnyL-1)
 
 ### User does not have any unread messages
 
 - When a user does not have any unread messages, they will see a link in the Health care section to [“Go to your inbox”](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/secure-messaging). When this link applies, it always shows second in the list of links in this section.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=0sqAEWapTl9rGnyL-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=0sqAEWapTl9rGnyL-1)
 
 ### Other health care links
 - When a user does not have any upcoming appointments, they will see a link to [“Schedule and manage your appointments”](https://va.gov/my-health/appointments) in the link list in this section.

@@ -1,5 +1,28 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: Jan 18' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submit Migration
+   -  Current state
+   -  Get Steve upto date with discovery done so far and Aurora's diagram
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access?
+   - Not urgent - Steve to look into this
+- Toxic Exposure
+  - Checbox list and loop function not supported by the forms library
+  - How much is significant effort?
+  - Would forms library adopt these changes if we make the change? Potential maintenance problem?
+- Research shareout with stakeholders
+  
+### Date: Jan 11' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submission Migration
+   - Share work in progress for discussion with Lighthouse next week
+     - Diagram
+     - Usecases
+- Prioritization of what's next  
 
 ### Date: Jan 4' 2024       
 ### Participants: Rakshinda, Austin, Emily, Shannon, Steve 

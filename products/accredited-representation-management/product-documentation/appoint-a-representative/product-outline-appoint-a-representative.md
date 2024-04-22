@@ -37,14 +37,22 @@ There is not currently an experience on VA.gov for Veterans to appoint a represe
         6. Exit rate _What percent of users first interact with or view other pages on VA.gov, before viewing this page and then leaving VA.gov?_
         7. Top previous pages by % _What pages are users coming from?_
         8. Top next pages by % _What pages are users visiting next?_
-2. % of users who end up downloading a form after initiating a search _Are users making it through the entire flow?_
+6. % of completed forms by representative type (VSO, Attorney, Claims Agent) _What representative types are users most interested in appointing?_
+7. % of completed forms with Veteran phone number
+8. % of completed forms with Veteran email 
+9. % of completed forms with claimant information
+    1. % with claimant phone number
+    2. % with claimant email address
+7. % of completed forms with full medical authorization
+8. % of completed forms with address authorization
+9. Drop off for each page of the tool process _Are users exiting our flow on any particular pages?_
+10. % of users who end up downloading a form after initiating a search _Are users making it through the entire flow?_
     1. Authenticated vs. unauthenticated _Do users understand that signing in can improve the experience?_
     2. Representative status breakout (has representation, pending representation, no representation) _Are veterans searching for new representation?_
-    3. Drop off for each page of the tool process _Are users exiting our flow on any particular pages?_
-3. % of completed forms by representative type (VSO, Attorney, Claims Agent) _What representative types are users most interested in appointing?_
-4. Average time (minutes) from form start → form download _How long does it take to complete the entire flow?_
+11. Average time (minutes) from form start → form download _How long does it take to complete the entire flow?_
     1. Break out by pages _Are users spending more time on any particular pages?_
     2. Would be nice to pair the average metric with a bar chart that shows the minutes from starting a form to downloading a form (to understand the average and median, but also the range)
+
   
 ### Baseline KPI Values
 1. Number of form downloads per week/month _measuring growth_

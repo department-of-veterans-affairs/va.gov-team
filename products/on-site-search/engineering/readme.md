@@ -46,6 +46,17 @@ Preference is given to documents that are fresh. Anything published or updated i
 
 Preference is given to pages that users interact with more.
 
+
+## Architecture scribbling (TODO: make this formal)
+
+TODO: Find a way to get an architecture diagram long the lines of [the Forms one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md)
+
+* Search calls come in from veterans
+* We send this out to search.gov, via fwdproxy
+* Responses from Search.gov come back to the fwdproxy. At this stage, if Search.gov returns a 503, sometimes the errors aren't fully parsible or structured enough. So we don't always know exactly what happened between the Search.gov response and our backend API (vets-api / fwdproxy).
+    * There are different types of 503 errors. Right now (March 2024) we can't differentiate the flavors of 503s we get from Search.gov at the fwdproxy level. But also: Search.gov shouldn't be returning 503s. 
+    * Getting a more structured error response at the fwdproxy layer would be a Platform / vets-api structural ask, we think.
+
 ### Open Questions
 
 - Is it possible to fine-tune VA.gov users' search experience with boosts, weights, and synonyms?

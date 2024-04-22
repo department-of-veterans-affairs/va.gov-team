@@ -1,7 +1,7 @@
 
 # Feature Overview: Editing as a Sub-Task 
 
-**Last updated:** 12/28/23 (added links to Figma)
+**Last updated:** February 15, 2024 (removing Sketch links)
 
 ## Table of Contents 
 
@@ -87,11 +87,12 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 ## Design & UX
 
 ### Design files
-- [Mobile Sketch file](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d/p/06F02913-A0E1-4801-9D24-86E8DC71BB17/canvas), will be deprecated in early 2024
-- [Desktop Sketch file](https://www.sketch.com/s/1fd4d140-84ad-4301-9c74-d5cebc4a012d), will be deprecated in early 2024
-- [Figma mobile and desktop](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A2&mode=design&t=AIofPOnozor4flxz-1), will be onboarding early 2024
+- [Mobile](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A1&mode=design&t=05wMDw7LrG2bujmU-1)
+- [Desktop](https://www.figma.com/file/zRlluj4zQgu4yNykyp3LjS/Profile---Editing-sub-task?type=design&node-id=0%3A166&mode=design&t=BPTb5FsUfCHFyYT5-1)
 
 ### Flow diagrams
 - This user flow can be kicked off from anywhere on VA.gov
 - A visualization of the flow is on the Mobile page of the design files linked above.
 
+## Use cases 
+Use case documentation will be placed alongside the feature this is supporting, eg. [notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/partial-or-missing-contact-info.md) 

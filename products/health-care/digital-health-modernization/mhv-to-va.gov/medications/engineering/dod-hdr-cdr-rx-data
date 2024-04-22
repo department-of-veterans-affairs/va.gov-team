@@ -1,0 +1,25 @@
+## Context
+As of 3/25/24 DoD may no longer be providing the VA with any new Outpatient Pharmacy and Allergy data. 
+Question: Will this impact MHV on VA.gov 
+
+## Background
+Historically, DoD and VA developed the means to alert prescribers of drug/drug and drug/allergy reactions at the time a prescription is written. The information is not visible in the Veteran record. However, when a VA prescriber orders a medication that is known to interact with either a DOD prescribed medication or an allergy documented in DOD’s clinical information systems, CPRS will surface an alert to the prescriber (e.g. allergy to Bactrim). The reverse was true in DOD’s legacy systems.
+ 
+The backbone of this capability is the HDR on the VA side and the CDR on the DOD side. Both of the systems do other things in addition to the above. The primary DOD use for the CDR (tricare and community Rx tracking) became obsolete with the full deployment of the OH record. So, it was recently announced that the DOD will be sunsetting CDR in March. The DOD has been clearly communicating for years that CDR will be sunset.
+ 
+When DOD initially launched OH, they made a decision to NOT incorporate the CDR into its internal architecture to support the use of the OH record. Iriptnstead they used OH modern Rx exchange systems (SureScripts). This resulted in a gap on the historical commitment for VA and DOD to be aware of each others drug and allergy information). VA advocated for years to fix the gap. In 2022, this gap was closed. I don’t recall the specifics of how the OH data goes to VA HDR, but it is flowing now so rreVA prescribers do get alerts in CPRS when prescribing a drug that is contradicted based on known info in DOD OH record.
+ 
+VA relies on DOD CDR to identify the “dual consumers,” meaning people known to both VA and DOD systems. This was a critical component of the architecture because it would be a HIPAA (and DOD security) violation to share drug/allergy info on ALL patients. So data only flows to the HDR if the CDR has verified the person is known to both DOD and VA. When DOD shuts down CDR, the dual consumers will no longer be identified and the DOD data will no longer flow to HDR.
+
+Dr. John Scott is knowledgable on this topic. 
+
+## More Details
+Although OH data goes to VA HDR (1) potentially only VA “OH” data, not DoD “MHV Genesis” data, is going to HDR (2) the OH VA data into HDR is problematic (omission of data, inaccurate data).
+ 
+There are NSRs to fix this that have yet to be funded as of March 2024.(Needs to be confirmed with HDR and CDR teams). 
+
+## Notes from Dr. Spahn
+- Will 'HIA (DoD Legacy archive)" be able to support all dependent applications currently interfaced to CDR, DoD CHDR, and AHLTA/CHCS (as the 'potential future state data gaps shows)?
+- Not sure if 'HIA' is part of all or any COAs
+- also shows that (if these slides are accurate), PDTS and TMDS are not impacted from 'current' to 'future')?
+- Just to put this work into perspective, HDR is prominently displayed for a patient safety vulnerability related to EHR in one of the three OIG reports out today: https://www.vaoig.gov/reports/all. The next report could very well be VA patients at risk as DoD cancels HDR transmission of vital patient safety data to VA. One impact to OCC/OCTO is that help desks such as HRC use JLV when on calls with MHV users so if you hear of any impacts to JLV, it could impact HRC support.

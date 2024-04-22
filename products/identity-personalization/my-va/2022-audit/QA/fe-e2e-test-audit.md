@@ -66,7 +66,7 @@ Based on test cases in the va.gov-team-sensitive repo and FE documentation
 ### Nametag
 
 - [Nametag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2.0-redesign/frontend/documentation/nametag.md)
-- [Sketch file (all scenarios)](https://www.sketch.com/s/bca53b50-8797-44fa-8c37-2b13c24c626c)
+- [Figma file (all scenarios)](https://www.figma.com/file/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?type=design&node-id=1-3754&mode=design)
 - [Audit 2022 test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#nametag) (va.gov-team-sensitive)
 
 | Test case | User flow | Test? | Ticket |

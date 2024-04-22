@@ -1,6 +1,6 @@
 # Appointments UX Team
 
-## Team members
+## Team
 
 **Peter Russo**, Design Lead<br>
 peter.russo@adhocteam.us<br>
@@ -14,27 +14,26 @@ ciera.maddox@adhocteam.us<br>
 melissa.lefevre@adhocteam.us<br>
 [@Melissa Lefevre](https://dsva.slack.com/team/U01Q4GJNHHT)
 
+## Process
+
+[Zenhub Board](https://app.zenhub.com/workspaces/appointments-fe-ux-5fff340c2d80a4000fb6f69c/board)
+
+[Accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments)
+
 ## Appointments user flows
 
-[Screen-by-screen user flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267%3A19369) (Figma)
+[Screen-by-screen user flow](https://www.figma.com/file/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?type=design&node-id=1-2716&mode=design&t=ViC9FBuYacH0wFWn-4) (Figma)
 
 ## Research
 
 We follow the (VA Platform's guidance on research)[https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va].
 
-- [Research by the Appointments-FE Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
-
+[Research by the Appointments-FE Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research#readme)
 
 ## UI and Content 
 
 Appointments is built on the [VA.gov design system](https://design.va.gov/).
 
-[Appointments in the VA design system](https://www.figma.com/file/sWiXcrB6sgw1z4F8AtOqfK/?node-id=1203%3A89).
+[Feature documentation](https://www.figma.com/file/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?type=design&node-id=0-1&mode=design)
 
-Feature documentation:
-- [Appointments list](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A50) 
-- [Details pages](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=54%3A11449)
-- [Scheduling flows](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/?node-id=0%3A1911)
-
-Content:
-- [Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content/copy-docs)
+[Content documentation](../content/README.md)

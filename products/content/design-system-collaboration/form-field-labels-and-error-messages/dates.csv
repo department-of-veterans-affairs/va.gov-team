@@ -1,0 +1,5 @@
+section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,error-scenario-3,error-message-3,label-variations,notes-on-updates
+/patterns,/ask-users-for,/dates,date-of-birth,Date of birth,"For example: January 19, 2000",,No entry at all,Provide a date of birth,,,,,,
+/patterns,/ask-users-for,/dates,date-of-birth,Month,,,No selection,Select a month,,,,,,
+/patterns,/ask-users-for,/dates,date-of-birth,Day,,,No entry,Enter a day between 1 and [max number days in selected month],,,,,,
+/patterns,/ask-users-for,/dates,date-of-birth,Year,,,No entry,Enter a year between 1900 and the current year,,,,,,

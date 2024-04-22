@@ -12,7 +12,7 @@ Page draft starts below:
 
 # Accessibility on VA.gov
 
-`version 1.0.0` `last updated 1/4/24`
+`version 1.0.0` `last updated 2/5/24`
 
 This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
 
@@ -32,20 +32,24 @@ This page is meant to help researchers, designers, and developers working within
 <!-- TOC end -->
 
 ## Our mission
-VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). Therefore:
-- We strive to make VA.gov as accessible for Veterans as possible.
-- We aim to do more than pass a Section 508 audit - we focus on usability, not just compliance.
-- We "shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
+VA is here to serve American Veterans, and [approximately 40% of of them have an identified disability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/disability-statistics-veterans.md). 
 
+Our mission is to empower product teams to collaborate with disabled Veterans and caregivers by enhancing the culture and tools used to co-create and maintain services that are accessible beyond compliance. 
 
+Our vision is for every disabled Veteran and caregiver to have guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations.
 
 
 ## Strategy and standards
 - Learn more about our [accessibility strategy](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy).
 - Find out what [experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards) a VA.gov product needs to meet before it launches.
+    - Our standards are informed by the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) (WCAG).
+    - Components in the [VA Design System](https://design.va.gov/components/) document accessibility considerations. 
 - The [accessibility defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) is our common language for determining the seriousness of an accessibility issue.
 
-We aim to follow [inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/) in all of our work.
+We aim to:
+- Follow [inclusive design best practices](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/) in all of our work.
+- Do more than pass a Section 508 audit. While we need to meet the official [federal government accessibility baseline](https://ictbaseline.access-board.gov/), we focus on **usability**, not just compliance.
+- "Shift left," integrating accessibility practices across research, design, and development disciplines, starting as early in the product cycle as possible.
 
 ## Accessibility resources by discipline
 All of us are responsible for the accessibility of our products. And every discipline has a role:
@@ -105,6 +109,8 @@ Don't re-create the wheel! The [VA Design System ](https://design.va.gov/)(VADS)
 - [VA Design System components Sketch library](https://www.sketch.com/s/610156b6-f281-4497-81f3-64454fc72156/symbols)
 - [VA Design System components Figma library](https://www.figma.com/file/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?type=design&mode=design&t=Ld7dhuyaPcerrnPF-0)
 
+Designing a form? Use [VA's common form pattern templates](https://www.figma.com/file/ht0ih1JzdyRGZYvvvN8jxQ/Form-templates---BETA---Veteran-Facing-Forms-team?type=design&node-id=112-13359&mode=design&t=GTU8TV4ONFLifJCs-0) (Figma).
+
 #### Use accessibility annotations
 A lot can be lost in translation when handing off your designs to a developer. Use accessibility annotations to make your intentions clear. It's especially important to annotate information that is semantically important, but not obvious on visual inspection:
 - Heading levels (`H1`, `H2`, etc.)
@@ -157,8 +163,28 @@ Review the [accessibility section of VA Platform](https://depo-platform-document
 
 </details>
 
-`Or we could use this model instead?` [GH page: Expectations Per Discipline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/expectations-per-discipline.md)
+<details><summary>Product managers</summary>
 
+### Resources for product managers
+
+Product managers at VA play a key role in “shifting left” - putting accessibility at the heart of the entire product lifecycle. 
+
+#### Onboard team members
+- Ensure that all new team members go through [accessibility onboarding
+](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation)
+#### Organize your sprints and meetings
+- Invite accessibility specialists to relevant meetings, from the beginning of the project
+- Prioritize and advocate for accessibility reviews, audits, and testing
+- Help the team meet accessibility requirements as part of the Collaboration Cycle
+
+#### Write accessibility-minded tickets
+- Work accessibility into team and scrum ceremonies, e.g., add accessibility into acceptance criteria
+- Pull accessibility defects into sprints, when necessary (learn about the [defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) and [how to write accessibility defect tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-to-write-good-accessibility-tickets.md))
+
+#### Get support for your team
+- Reach out to the <a href="#CAIA">CAIA team</a> for any needed accessibility-related support
+
+</details>
 
 
 ## Get help from accessibility specialists
@@ -170,7 +196,10 @@ There are two routes to access support from accessibility specialists:
 
 
 ### Route 1: Collaboration Cycle support from Governance
-Teams **creating new features or products** are required to go through the Collaboration Cycle, which includes accessibility reviews. The Collaboration Cycle is managed by the Governance team.
+Teams **creating new features or products** are required to go through the Collaboration Cycle, which includes accessibility reviews. Teams **iterating on existing features or products** are encouraged to get feedback through the Cycle as well. 
+
+The Collaboration Cycle is managed by the Governance team.
+
 <details><summary>Learn about the Collaboration Cycle</summary>
 
 
@@ -182,7 +211,7 @@ Teams engage with the Collaboration Cycle throughout their product’s/feature�
 
 </details>
 
-### Route 2: General accessiblity support from CAIA
+<h3 id="CAIA">Route 2: General accessiblity support from CAIA</h3>
 Teams **at any point in the product/feature lifecycle** can get general accessibility support from the Sitewide Content, Accessibility, and Information Architecture (CAIA) team. They can also reach out to specialists on Slack.
 
 ⚠️**Note**: Any ticket(s) given, on either route, will drive your team towards a more accessible product.
@@ -241,7 +270,13 @@ Examples:
 
 <details><summary>Collaboration Cycle tickets</summary>
 
-#### Collaboration Cycle tickets
+#### Collaboration Cycle Design Intent and Midpoint Review Tickets
+
+The Governance team will provide suggestions for how to develop an accessible product based on your user flows, wireframes, and mockups.
+
+Accessibility specialists will document their feedback on the VFS-provided artifacts following the [Must, Should, and Consider Framework](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback). They may also provide additional notes that don’t comment on the artifacts themselves but are important for implementation (eg. engineering/coding notes).
+
+#### Collaboration Cycle Staging Review tickets
 
 During a Collaboration Cycle Staging Review, accessibility specialists will review your product. If they find any accessibility issues, they’ll write a ticket for each issue that outlines:
 - The issue (often with screenshots or video examples)
@@ -265,10 +300,11 @@ If you’re reviewing your product for accessibility issues, you can write your 
 ## Ensure that your work is Section 508 compliant
 
 The VA Section 508 Office validates compliance with federal law mandating accessible information and communication technology. 
-- Product teams are **required** to submit a VA 508 Office Audit Request **before launch**.
-- The Section 508 Office can also **review your documents** (PDF, DOCX) for accessibility issues.
+- Product teams working on authenticated pages and applications are **required** to submit a VA Section 508 Office Audit Request. We prefer that you submit your request **before launch**, if possible. But you may still launch before you receive the audit.
+- The Section 508 Office can also **review your non-HTML documents** (PDF, DOCX) for accessibility issues.
+   - [Learn when and how to create accessible non-HTML documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
 
-Learn how to [request support from the VA 508 office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office).
+[Request support from the VA Section 508 office](https://depo-platform-documentation.scrollhelp.site/developer-docs/request-support-from-the-va-508-office).
 
 ## Improve your skills
 <details><summary>Join a community</summary>
@@ -282,6 +318,10 @@ Rhe VA trauma community is a grassroots, volunteer led multi-disciplinary commun
 </details>
 <details><summary>Learn more about accessibility</summary>
 
+### Accessibility overview
+- [18F’s accessibility guide](https://guides.18f.gov/accessibility/)
+- [Accessibility roles in government](https://www.section508.gov/manage/roles/)
+- 
 ### Cognitive issues / Traumatic Brain Injury (TBI)
 - [Cognitive considerations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations)
 - How to design for Veterans with [Traumatic Brain Injuries](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2177892586/Traumatic+Brain+Injury+TBI)
@@ -294,6 +334,7 @@ Rhe VA trauma community is a grassroots, volunteer led multi-disciplinary commun
 - [Live regions](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2167832577/Educational+Materials#Live-Regions)
 
 ### Assistive technology
+- [Tips for usability testing with people with disabilities](https://www.section508.gov/test/usability-testing-with-people-with-disabilities/)
 - [Getting started with keyboard navigation and screen readers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions/abc02-getting-started-with-keyboard-navigation-and-screen-readers)
 - [Testing with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u)
 </details>

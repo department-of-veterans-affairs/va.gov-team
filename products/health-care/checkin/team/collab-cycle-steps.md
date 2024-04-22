@@ -25,7 +25,7 @@ This is a high-level summary of the Collaboration Cycle process. Please refer to
 
 ## GUIDELINES FOR FOLLOWING THIS PROCESS
 - We should follow this process for new features that are substantial in nature
-- We may choose to follow this process but may not necessarily need or complete every step; in this case, we will explain in the ticket when we do not need a step 
+- We may choose to follow this process but may not necessarily need to complete every step; in this case, we will explain in the ticket when we do not need a step 
 - We may choose to bypass these steps for smaller efforts but still reach out to and collaborate with these individual teams to get their feedback
     - Design team
     - Sitewide team (i.e. content)

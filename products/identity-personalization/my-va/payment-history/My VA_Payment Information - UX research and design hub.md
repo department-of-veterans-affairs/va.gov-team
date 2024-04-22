@@ -3,7 +3,7 @@
 
 <br>
 
->**Feature transition document | March 2022**
+>**Feature transition document | Updated February 2024, Original Version March 2022**
 >
 > The purpose of this transition document is to provide a central starting point for links to UX research and design work products produced for **Payment Information.** Also included are links to other resources and references used.
 
@@ -55,13 +55,11 @@ This table includes links to the individual design work products.
 
 | Screens | Links | Text Sources | Last Rev | Last status |
 | :--- | :--- | :--- | :--- | :--- |
-| Prototype | [UXPIN](https://preview.uxpin.com/45251888896c8dd47ef62aa20d3a89a334726ac1#/pages/145483168/simulate/no-panels?mode=i) | Preliminary text | 01/2022 | Midpoint |
-| Mockups | [Sketch](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/3FB0D20D-D78F-4998-B2F0-1482780C34BB?search=payment) | Final text | 03/2022 | Staging |
-
+Original files no longer accessible - for current state as of Feb. 2024, see the [Figma file](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=9-15723&mode=design)
 
 ### Design system resources used
 - [VA.gov Design System](https://design.va.gov/)
-- [VA Design Library Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
+- [VA Design Library](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
 - [Getting Started with VA.gov Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/getting-started-with-va.gov-forms.md)
 
 ### Content resources used
@@ -75,8 +73,7 @@ This table includes links to the individual design work products.
 ### Tools used
 List your tools; add notes.
   
-- Sketch for Teams - for mockups and design proposals
-- UXPin - for some clickable prototyping
+- Figma as of Dec. 2023, formerly Sketch - for mockups, design proposals, prototypes
 - Mural - for note taking and organization, especially after usability testing
 - Github markdown - main source for storing documents and linking to the epic
 
@@ -106,6 +103,7 @@ GitHub tickets for each Platform process used when this feature was in design an
 - Tressa Furner | tressa.furner@adhocteam.us -- UX designer/researcher
 - Liz Lantz | liz.lantz@adhocteam.us -- UXUX designer/researcher
 - Angela Agosto |angela.agosto@adhocteam.us -- UX designer
+- Matt Marino |matt.marino@adhocteam.us -- UX designer
 
 <br>
 

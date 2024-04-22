@@ -1,5 +1,5 @@
 # Direct Deposit
-Last Updated: 7/26/2023
+Last Updated: 2/20/2024
 
 Direct deposit information lives in two places:
 - [Our public repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit) contains an overview and detailed use case documentation.
@@ -15,14 +15,7 @@ There are several places where things have been documented.
 
 **Outside of the Profile Documentation** (START HERE for LAUCH DETAILS)
 <br>
-[va.gov-team/products/identity-personalization/direct-deposit
-/evss-lighthouse-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration)
-
-
-**Inside Profile Documentation**
-<br>
-[va.gov-team/products/identity-personalization/profile
-/evss-migration/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/evss-migration)
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/
 
 ### Private Directory
-[products/identity-personalization/lighthouse-migration](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/lighthouse-migration)
+https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/lighthouse-migration

@@ -58,11 +58,13 @@ Please click on the description that matches your status to learn more about you
 
 <details>
   <summary>Spouses</summary>
-Spouses or surviving spouses under 65 years old with both Medicare Parts A and B
-Spouses or surviving spouses that turned 65 before June 5, 2001, and you’re entitled to both Medicare Part A or B
-Spouses or surviving spouses with other health insurance
-Surviving spouses who remarried on or after your 55th birthday. If you remarry before age 55, you no longer qualify for CHAMPVA as of midnight on the date of your remarriage.
-Remarried surviving spouses whose remarriage ends by death, divorce, or annulment and previously had CHAMPVA benefits. The first date that you qualify again is the first day of the month after your remarriage ends or December 1, 1999—whichever date is later. You’ll need to provide us with copies of your marriage certificate and death, divorce, or annulment documents (as appropriate).
+
+  
+- Spouses or surviving spouses under 65 years old with both Medicare Parts A and B
+- Spouses or surviving spouses that turned 65 before June 5, 2001, and you’re entitled to both Medicare Part A or B
+- Spouses or surviving spouses with other health insurance
+- Surviving spouses who remarried on or after your 55th birthday. If you remarry before age 55, you no longer qualify for CHAMPVA as of midnight on the date of your remarriage.
+- Remarried surviving spouses whose remarriage ends by death, divorce, or annulment and previously had CHAMPVA benefits. The first date that you qualify again is the first day of the month after your remarriage ends or December 1, 1999—whichever date is later. You’ll need to provide us with copies of your marriage certificate and death, divorce, or annulment documents (as appropriate).
 
 
 Additional guidance on when VA recognizes marriages is available at http://www.va.gov/opa/marriage/.
@@ -70,9 +72,11 @@ Additional guidance on when VA recognizes marriages is available at http://www.v
 </details>
 <details>
   <summary>Children: includes legitimate, adopted, illegitimate, and stepchildren</summary>
-Children or surviving children between the ages of 18 or 23 that are enrolled full-time course of instruction at an approved educational institution - school certification required
-Children or surviving children with other health insurance that live at home with the Veteran they are connected to. 
-Newborns or surviving newborn with social security numbers assigned to them 
+
+  
+- Children or surviving children between the ages of 18 or 23 that are enrolled full-time course of instruction at an approved educational institution - school certification required
+- Children or surviving children with other health insurance that live at home with the Veteran they are connected to. 
+- Newborns or surviving newborn with social security numbers assigned to them 
 
   
 [Find a Social Security office near you](https://secure.ssa.gov/ICON/main.jsp)
@@ -84,11 +88,19 @@ Newborns or with social security numbers assigned to them and set up as a depend
 [Find a VA regional office near you](https://www.va.gov/find-locations/?facilityType=benefits)</details>
 <details>
   <summary>Family member or caretaker</summary>
-Family members caretakers under 65 years old with both Medicare Parts A and B, and otherwise eligible for CHAMPVA.  
-Family members caretakers that turned 65 before June 5, 2001, and you’re entitled to either Medicare Part A or B
-Family member or caretaker not entitled to care or services through another health plan
-Download a fact sheet on CHAMPVA for primary family caregivers (PDF)
+
+  
+- Family members caretakers under 65 years old with both Medicare Parts A and B, and otherwise eligible for CHAMPVA.  
+- Family members caretakers that turned 65 before June 5, 2001, and you’re entitled to either Medicare Part A or B
+- Family member or caretaker not entitled to care or services through another health plan
+
+  
+  Download a fact sheet on CHAMPVA for primary family caregivers (PDF)
+
+
 Get more information about CHAMPVA for primary family caregivers
+
+
 If the Veteran you are caring for sustained or aggravated a serious injury (or illness) in the line of duty in the active military, naval or air service during any service era, you may qualify for health care benefits and other caregiver support through the Program of Comprehensive Assistance to Family Caregivers.
 
 [Find out if you qualify for this program and how to apply](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers)</details>

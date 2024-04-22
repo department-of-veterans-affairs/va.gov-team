@@ -1,8 +1,6 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: September 2023 (Note: actively under construction!)
-
-<img width="409" alt="Screen Shot 2023-09-11 at 12 22 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/126614629/d665eb84-536b-45d0-820a-d70bd378f730">
+Last Updated: January 2024
 
 
 ### Communications
@@ -14,8 +12,8 @@ Last Updated: September 2023 (Note: actively under construction!)
   
 |Name|Role|Email|
 |----|----|-----|
-|Janie Tankard-Carnock |OCTO Product| jane.t.carnock@omb.eop.gov (VA email pending) |
-|Coulton Bunney |OCTO Design Lead| coulton.bunney@va.gov |
+|Janie Tankard-Carnock |OCTO Product| jane.carnock@va.gov (VA email pending) |
+|Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
 |Robyn Singleton| OCTO  Research Lead| - |
 |Mark Dewey | OCTO Engineering Lead |- |
 |----|----|-----|

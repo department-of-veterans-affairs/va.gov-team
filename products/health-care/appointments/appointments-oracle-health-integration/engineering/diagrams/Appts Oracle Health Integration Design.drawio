@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net" modified="2024-03-08T15:24:51.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-sArSHLer6cz0xP2yzGT" version="24.0.2" type="google" pages="2">
+  <diagram name="Phase 1" id="oOngIdAS6x8Q0bwa8xJY">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-11" value="&lt;div&gt;MAP Environment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacingTop=4;spacing=0;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="144" width="620" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-1" value="Cerner FHIR&lt;br&gt;Adapter (CFA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="275" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-2" value="&lt;div&gt;VETSAPI&lt;br&gt;(VAOS, PCIE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="395" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_CzR5vbTdwY7DA0skK6-2" target="qEEqc8nWSd0095ef1qDG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z_CzR5vbTdwY7DA0skK6-1" target="Z_CzR5vbTdwY7DA0skK6-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="140" as="sourcePoint" />
+            <mxPoint x="335" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-9" value="Cerner Location Service (CLS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-10" value="Cerner Scheduling Policy Service (CSPS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-12" value="Cerner EHR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-13" value="VistA EHRs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_CzR5vbTdwY7DA0skK6-1" target="Z_CzR5vbTdwY7DA0skK6-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="410" as="sourcePoint" />
+            <mxPoint x="360" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="285" />
+              <mxPoint x="210" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_CzR5vbTdwY7DA0skK6-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_CzR5vbTdwY7DA0skK6-1" target="Z_CzR5vbTdwY7DA0skK6-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qEEqc8nWSd0095ef1qDG-2" value="VETSAPI Patient Gateway (VPG)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qEEqc8nWSd0095ef1qDG-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEEqc8nWSd0095ef1qDG-2" target="Z_CzR5vbTdwY7DA0skK6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="250" as="sourcePoint" />
+            <mxPoint x="345" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-12" value="VAOS Service v1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="475" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YLndUygrDc0ghYW7cuA_-12" target="Z_CzR5vbTdwY7DA0skK6-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="424" as="sourcePoint" />
+            <mxPoint x="485" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEEqc8nWSd0095ef1qDG-2" target="YLndUygrDc0ghYW7cuA_-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-34" value="Cerner site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-37" value="VistA site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YLndUygrDc0ghYW7cuA_-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YLndUygrDc0ghYW7cuA_-12" target="Z_CzR5vbTdwY7DA0skK6-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="424" as="sourcePoint" />
+            <mxPoint x="680" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="550" />
+              <mxPoint x="335" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p8eSYwJW6OyEI29YMeOQ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEEqc8nWSd0095ef1qDG-2" target="Z_CzR5vbTdwY7DA0skK6-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="215" as="sourcePoint" />
+            <mxPoint x="345" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Phase 2" id="eEHOUjHwq1MnuWSpEV6N">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-0" />
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-1" parent="yoTL0M5f82izOvwUdTdJ-0" />
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-2" value="&lt;div&gt;MAP Environment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacingTop=4;spacing=0;spacingLeft=10;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="40" y="144" width="620" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-3" value="Clinical Encounter Service (CES)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="275" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-4" value="&lt;div&gt;VETSAPI&lt;br&gt;(VAOS, PCIE)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="395" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-4" target="yoTL0M5f82izOvwUdTdJ-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="8MN93F8PGMCBIWLt-70F-1" target="yoTL0M5f82izOvwUdTdJ-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="140" as="sourcePoint" />
+            <mxPoint x="335" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-7" value="Cerner Location Service (CLS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;strokeWidth=1;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-8" value="Cerner Scheduling Policy Service (CSPS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-9" value="Cerner EHR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="310" y="460" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-10" value="VistA EHRs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="480" y="460" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-3" target="yoTL0M5f82izOvwUdTdJ-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-13" value="VETSAPI Patient Gateway (VPG)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="395" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-13" target="yoTL0M5f82izOvwUdTdJ-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="250" as="sourcePoint" />
+            <mxPoint x="345" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-15" value="VAOS Service v1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="475" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-15" target="yoTL0M5f82izOvwUdTdJ-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="424" as="sourcePoint" />
+            <mxPoint x="485" y="486" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-13" target="yoTL0M5f82izOvwUdTdJ-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="yoTL0M5f82izOvwUdTdJ-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="sourcePoint" />
+            <mxPoint x="460" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-19" value="Cerner site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="275" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-20" value="VistA site requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="yoTL0M5f82izOvwUdTdJ-1" vertex="1">
+          <mxGeometry x="540" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yoTL0M5f82izOvwUdTdJ-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-15" target="yoTL0M5f82izOvwUdTdJ-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="424" as="sourcePoint" />
+            <mxPoint x="680" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="550" />
+              <mxPoint x="335" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MN93F8PGMCBIWLt-70F-1" value="Cerner FHIR&lt;br&gt;Adapter (CFA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="yoTL0M5f82izOvwUdTdJ-1">
+          <mxGeometry x="275" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MN93F8PGMCBIWLt-70F-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-3" target="8MN93F8PGMCBIWLt-70F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="410" as="sourcePoint" />
+            <mxPoint x="210" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MN93F8PGMCBIWLt-70F-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="yoTL0M5f82izOvwUdTdJ-1" source="8MN93F8PGMCBIWLt-70F-1" target="yoTL0M5f82izOvwUdTdJ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8MN93F8PGMCBIWLt-70F-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="yoTL0M5f82izOvwUdTdJ-1" source="8MN93F8PGMCBIWLt-70F-1" target="yoTL0M5f82izOvwUdTdJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="355" />
+              <mxPoint x="220" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALRiFvwkvwG1Xc69zOYI-0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="yoTL0M5f82izOvwUdTdJ-1" source="yoTL0M5f82izOvwUdTdJ-13" target="yoTL0M5f82izOvwUdTdJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="215" as="sourcePoint" />
+            <mxPoint x="345" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

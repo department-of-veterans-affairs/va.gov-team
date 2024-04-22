@@ -1,12 +1,12 @@
 # Veteran Support/Contact Center
 
-You can request the Veteran Support/Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+kimberley2019&labels=contact+center%2C+collaboration+cycle%2C+collab-cycle-review&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
+You can request the Veteran Support/Contact Center review with [this issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ATMiddleton%2C+Kimberley2023-CSM%2C+starlow00&labels=VSP-contact-center&projects=&template=request-contact-center-review-template.md&title=Contact+Center+Review+for+%5BTeam+Name+-+Feature+Name%5D).
 
 ## Overview
 
 All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
 
-**Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must file a Veteran Support/Contact Center Review issue that includes a Product Guide. Product Video is optional but encouraged.** The VSP Contact Center team will review these materials and share with the relevant contact centers to ensure that Veteran Support/Contact Center Representatives are prepared to answer questions about the new functionality.
+**Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must file a Veteran Support/Contact Center Review issue that includes a Product Guide. Product Video is optional but encouraged.** The Veteran Support team (VSP-contact-center) will review these materials and share with the relevant contact centers to ensure that Veteran Support/Contact Center Representatives are prepared to answer questions about the new functionality.
 
 **VFS teams should file a Veteran Support/Contact Center Review issue...**
   1. When the complete and final build is on staging and they are confident it's ready to launch,
@@ -32,7 +32,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 *If you're building new features for an existing service*:
 
   1. You'll need to update the existing Product Guide.
-      * If you can't find the existing Product Guide on Github, ask your Contact Center POC to find it for you.
+      * If you can't find the existing Product Guide on Github, ask your Veteran Support POC to find it for you.
   2. Store the updated Product Guide in its original location.
 
 *Examples*:
@@ -56,6 +56,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 1. File an issue in ```va.gov-team repo```.
     * Title: ```Request Contact Center Review for [feature or service name]```
     * Labels:
+      * ```VSP-contact-center```
       * ```contact center```
       * ```external-request```
       * ```[your team's Github label]```, e.g., "BAH-526"
@@ -69,8 +70,8 @@ All applications on the Veteran-facing Services Platform include a phone number 
       * **Product Guide**: ```attached to the issue.```
       * **Product Video**: ```link to the demo video on Github```
 
-2. **Within 3 business days**, the contact center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the contact center team will send the content to the Contact Center for their review.
-    * If you don't hear anything after 5 business days, reach out to your contact center POC.
-3. After sending your team's materials to the Contact Center, they have 5 full business days to review the Product Guide and Product Video and send back any questions and/or feedback.  Once that has occured, the contact center team will follow up accordingly or close the Github issue.
+2. **Within 3 business days**, the Veteran Support/Contact Center POC will begin to review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the contact center team will send the content to the Contact Center for their review.
+    * If you don't hear anything after 5 business days, reach out to your Veteran Support/Contact Center POC.
+3. After sending your team's materials to the Veteran Support/Contact Center team, they have 5 full business days to review the Product Guide and Product Video and send back any questions and/or feedback.  Once that has occured, the contact center team will follow up accordingly or close the Github issue.
     * Github will send the person who created the Github issue a notification. This is your team's signal that this pre-launch activity is complete.4
 4. Requesting team members who participated in this collaboration, please complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey

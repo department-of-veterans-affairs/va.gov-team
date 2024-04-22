@@ -1,5 +1,5 @@
 # 10-10EZR Health benefits update form - Release Plan 
-- Last updated: 12/19/2023
+- Last updated: 1/9/2024
 
 
 ## Step 1: Development
@@ -65,6 +65,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Desired date range:
      - 12/20/23 - 01/11/23
+     - Take two date range: 1/10/24-1/24/24
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -121,7 +122,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 12/20/2023-1/2/2024
+     -  6 days, 1/10/24-1/16/24
+     - (Initially 12/20/2023-1/2/2024)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 10 submissions per day
@@ -141,7 +143,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/2-1/7/2024
+     - 6 days, 1/16/24-1/22/24
+     - (Initially 1/2-1/7/2024, paused and rolled back 1/3/24 due to issues with Veteran DOB and Preferred Facility)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 25 submissions per day
@@ -162,7 +165,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/8-1/10/2024
+     - 3 days, 1/22/24-1/24/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
      - about 75-100 submissions per day
@@ -180,7 +183,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/11/2024
+     - 1/24/24
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
      - about 1,000 per week

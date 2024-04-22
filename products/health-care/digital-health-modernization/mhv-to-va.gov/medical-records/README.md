@@ -29,11 +29,19 @@ Last Updated: Dec 5, 2023
 Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
 
 The development and release of functionality will occur in five 'phases' to align with the release strategy of all MHV products.  After gaining approval via the collaboration cycle, each 'domain' of Medical Records will enter into Phase 0 one at a time.  After all domains are in Phase 0, they will then deploy together to Phases 1-4.
-  --Vaccines
-  --Lab and Test Results, consisting of Chemistry/Hematology, Microbiology, Pathology results, Cardiology images and reports, Radiology images & Reports
-  --Care Summaries and Notes, consisting of VA Notes, Admission & Discharge Summaries, After Visit Summaries
-  --Health Conditions, Vitals, and Allergies
-  --Downloadable Reports (consolidation of all domains into a single report)
+  - Vaccines
+  - Lab and Test Results, consisting of:
+    -  Chemistry/Hematology,
+    -  Microbiology,
+    -  Pathology results,
+    -  Cardiology images and reports,
+    -  Radiology images & Reports
+  - Care Summaries and Notes, consisting of:
+    - VA Notes,
+    - Admission & Discharge Summaries,
+    - After Visit Summaries
+  - Health Conditions, Vitals, and Allergies
+  - Downloadable Reports (consolidation of all domains into a single report)
 
 ## Problem Statement
 Medical Records on MyHealtheVet was researched and developed 20 years ago and remains largely unchanged from UI, IA, accessibility, and technology perspectives.  Furthermore, some of the rationale and decisions that drove the original medical records design may no longer be valid or timely today, and therefore should be re-examined and challenged where appropriate.

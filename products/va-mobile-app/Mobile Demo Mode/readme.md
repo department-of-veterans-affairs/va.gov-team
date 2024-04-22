@@ -7,7 +7,9 @@
 
 * Demo mode is set up with a single user that is not tied to any production test account and allow users to access all of the app’s latest offerings. Users can complete actions such as submitting a secure message or a prescription refill to experience the entire user journey without impacting other systems or teams. 
 
-* Demo users should use the latest version of the app in order to experience the latest version of demo mode. Work in progress items that the VA Health and Benefits App Team is working on will not appear in demo mode until it is released into production. 
+* Demo users should use the latest version of the app in order to experience the latest version of demo mode. Work in progress items that the VA Health and Benefits App Team is working on will not appear in demo mode until it is released into production.
+
+* Google Play store uses demo access to perform their testing; if unable to access they will decline the release 
 
 
 **Password:** Zhuzh-it
@@ -25,10 +27,10 @@ Slack Channel  | #va-mobile-app
 
 **Steps to Access Demo Mode**
  1.    Download or update existing app to the latest version (any device)
- 2.   Apple App Store Link
- 3.    Google Play Store Link
+ 2.   [Apple App Store Link](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596)
+ 3.    [Google Play Store Link](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US&gl=US)
  4.    Open the app
- 5.    Click the VA Logo 21 times
+ 5.    Tap the VA Logo 7 times
  6.    Enter the Password and click demo button
  7.    Screen is updated with a Demo Mode bar on the home screen
  8.    Click Sign In button 
