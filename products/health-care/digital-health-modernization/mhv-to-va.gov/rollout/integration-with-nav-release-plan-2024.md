@@ -22,18 +22,24 @@ Primary Github artifacts:
 
 ### Changes required within tool applications
 - Secure messaging app has a bespoke secondary nav that will probably need to change or be removed
-- Bread crumbs within tools should point back to the MHV landing page on VA.gov instead of MHV Classic
-- Any link within a tool that cross-links directly to another tool should point to the tool on VA.gov
-- MHV secondary navigation component should show on all tools and child and their child pages
-- All three tools on VA.gov need to provide an alert to Oracle patients that they may need My VA Health. (SM and Appts already have it as of 4/17/24)
+- Tool landing pages should add breadcrumbs that connect `< Back to My HealtheVet home` with that specific language
+- Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal)
+- MyHealtheVet secondary navigation component should display on "big four" tools and their child pages
+- All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate over to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24)
 
 ### Questions log
 - Is any new handling required for Veterans with Oracle facilities?
+- Should we suppress functionality on any tools for patients who ONLY have Cerner/OH facilities in their profile?
+  * No, Kaitlin communicated on 4/22 [via Slack](https://dsva.slack.com/archives/C04DRS3L9NV/p1713455728629549) that some facilities migrating to new EHR systems may have historic data on VistA and those patients need to be able to access both systems to retrieve their records. 
 
 ### Decisions log
 | Date | Decider | Decision |
 |-|-|-|
 | 4/17/24 | Lauren & Kaitlin | unauth benefit hub pages will not be updated to direct users to MHV-on-VAgov for Phase 1; will revisit for Ph 2 |
+| 4/17/24 | Lauren & Kaitlin | MyVA links to My HealtheVet National Portal will not be updated at this point, we will revisit after the initial integration and work with those teams more closely |
+| 4/19/24 | Kaitlin | Leave link to "manage folders" under Messages box on landing page until we are able to do a redesign of landing page |
+| 4/19/24 | Kaitlin + Mikki | Breadcrumbs on tool landing pages will link `< Back to My HealtheVet home` on VA.gov landing page, regardless of whether the user bypassed that page (i.e. cross-link or the secondary nav component); we want to drive more people to the landing page to discover additional tools and pages whenever possible). May use dynamic `< Back` link on subtasks and deeper pages of tools |
+| 4/22/24 | Kaitlin | Do not suppress any functionality within tools for patients with ONLY Cerner/OH facilities in their profile, let alerts do their job if there is no data for certain patients |
 
 ## Technical notes on integration and release
 
