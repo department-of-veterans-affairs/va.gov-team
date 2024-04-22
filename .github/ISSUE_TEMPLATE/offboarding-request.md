@@ -70,7 +70,6 @@ _The following steps are performed by the **Platform Support** team. Detailed in
 
 ### Other 🌻
  - [ ] Google analytics and Domo access removed (if applicable. Make sure the `analytics-insights` label is on this Issue)
- - [ ] Sketch editor access removed (if applicable. Check [Sketch settings](https://www.sketch.com/workspace/c99d3e96-7c23-4210-b173-92a2b73a8788/settings/people))
  - [ ] Figma editor access removed (if applicable. Check [Figma settings](https://www.figma.com/files/team-admin-console/1278375444205744118/VA.gov-Platform-Admin-Console/members?fuid=779427834564242065))
  - [ ] Removed from Monday Design Meeting invite
 
