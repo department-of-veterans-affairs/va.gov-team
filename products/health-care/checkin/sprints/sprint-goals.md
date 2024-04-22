@@ -2,6 +2,64 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>FUTURE SPRINT - 5/15/2024 - 5/28/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 6 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+- **GOAL: Support Production**
+    - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
+- **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: Add New Translated Content**
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+    - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+    - **Sub Goal: Analyze current metrics to see what they tell us**    
+- **GOAL: Address Tech Debt**    
+    - **Sub Goal: DevOps Improvements**
+
+#### PLANNED RELEASES 
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
+    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
+    - **Sub Goal: Move to New AWS Instance**
+        - ❗ TBD
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
+        - ❗ TBD
+- **GOAL: Make Travel Claims Easier**
+    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
+        - ❗ TBD
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
+        - TBD
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: Add New Translated Content**
+        - TBD
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+    - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+        - TBD
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - TBD
+    - **Sub Goal: Analyze current metrics to see what they tell us**
+        - 🟥 [Research] Analyze GA Metrics
+        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
+        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
+            - Is it too soon to do this?
+- **GOAL: Address Tech Debt**    
+    - **Sub Goal: DevOps Improvements**
+        - TBD
+</details>
+______________________________________________________________________________________________________________________________________________________
+
+<details>
 <summary>FUTURE SPRINT - 5/1/2024 - 5/14/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
@@ -29,7 +87,6 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
 - **GOAL: Support Congressional Mandate**
