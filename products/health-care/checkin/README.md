@@ -134,6 +134,7 @@
   - [CHIP API](https://github.com/department-of-veterans-affairs/chip)
   - [LoROTA API](https://github.com/department-of-veterans-affairs/lorota)
   - [checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/)
+  - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
 - [System Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
