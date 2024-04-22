@@ -40,7 +40,7 @@ Primary Github artifacts:
 | 4/19/24 | Kaitlin | Leave link to "manage folders" under Messages box on landing page until we are able to do a redesign of landing page |
 | 4/19/24 | Kaitlin + Mikki | Breadcrumbs on tool landing pages will link `< Back to My HealtheVet home` on VA.gov landing page, regardless of whether the user bypassed that page (i.e. cross-link or the secondary nav component); we want to drive more people to the landing page to discover additional tools and pages whenever possible). May use dynamic `< Back` link on subtasks and deeper pages of tools |
 | 4/22/24 | Kaitlin | Do not suppress any functionality within tools for patients with ONLY Cerner/OH facilities in their profile, let alerts do their job if there is no data for certain patients |
-| 4/22/24 | Laura | Link text on MHV landing page for "Compose message" should be updated to "Start a new message"; "Medications and allergies" should be updated to "Review medications" |
+| 4/22/24 | Laura, Kaitlin | Link text on MHV landing page for "Compose message" should be updated to "Start a new message"; "Medications and allergies" should be updated to "Review medications" (remove reference to "Allergies" until this is available on VA.gov, and then it should live under Medical Records) |
 
 ## Technical notes on integration and release
 
