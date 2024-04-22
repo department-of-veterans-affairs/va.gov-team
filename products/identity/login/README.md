@@ -1,4 +1,4 @@
-# Product outline: Logging into VA.gov and the VA Health and Benefits Mobile App
+# Product outline: VA.gov & Mobile App Login
 
 **Last Updated: April 22, 2024 -- created outline**
      
@@ -19,6 +19,14 @@
 
 ## Overview
 
+Signing into VA.gov and the VA Health and Benefits mobile app relies on a robust backend infrastructure, VA-supported user-facing experience, and credential service provider (CSP) support.
+
+### The backend infrastructure
+
+WIP
+
+### User-facing experience
+
 The user-facing sign-in experience covers all elements of the frontend experience of signing into VA.gov and the VA Health and Benefits app, including:
 
 - The unified sign-in page 
@@ -26,6 +34,15 @@ The user-facing sign-in experience covers all elements of the frontend experienc
 - Sign-in widgets found throughout VA.gov
 
 Historically, [the sign-in experience on VA.gov is one of the lowest-rated experiences on VA.gov](https://va-gov.domo.com/page/1030131175?userId=66061986). Over time, our team hopes to mitigate that and drastically improve the experience of signing into VA.gov.
+
+### Credential Service Providers (CSPs)
+
+Currently, the universal sign-in page support four CSPs:
+
+- ID.me
+- Login.gov
+- DS Logon
+- My HealtheVet
 
 ## User Problem Statement
 
@@ -36,14 +53,18 @@ Historically, [the sign-in experience on VA.gov is one of the lowest-rated exper
 
 ## Business goals
 
-As of spring 2024, there is no one managing the end-to-end user-facing sign in experience across VA.gov. As such, teams are going rogue and creating their own standards, and CAIA (Content, Accessibility, and Information Architecture) are being left to clean up the mess. With identity at the helm, we can accomplish the following goals:
-
 - Improve the customer support rating for the sign-in experience
-- Be a singular owner of the user-facing sign in experience so teams aren't going rogue
+- Provide a secure, reliable, and robust infrastructure to support authentication
 - Provide guidance on the user-facing sign-in experience to teams implementing authenticated flows on VA.gov
 - Ensure consistency and standards across the user-facing sign-in experience
 
 ## Team responsibilities
+
+### Backend infrastructure
+
+WIP
+
+### User-facing experience
 
 - Maintain, iterate on, and update the unified sign in page
 - Provide a consistent experience with sign-in widgets found throughout VA.gov
@@ -52,15 +73,6 @@ As of spring 2024, there is no one managing the end-to-end user-facing sign in e
 - Work with the design system to establish and codify standards around the sign-in experience
 
 Please note that we work in close collaboration with Content, Accessibility, and Information Architecture (CAIA) on all content and IA-related needs. 
-  
-## Credential Service Providers (CSPs)
-
-Currently, the universal sign-in page support four CSPs:
-
-- ID.me
-- Login.gov
-- DS Logon
-- My HealtheVet
 
 ## Projects
 
@@ -94,14 +106,6 @@ TBD
 Old outline -- will fold into the new outline as needed
 
 # Login
-
-This directory contains a plethora of historical and current-state information about Login and VA.gov, which includes:
-* Authentication and Authorization
-* Login and Account Registration
-* Integration with MVI (Master Veteran Index) for LOA3 logged-in users
-* User Profile UI & Object with sitewide accessible data
-* User Session maintenance
-
 
 ## Quick Links
 
