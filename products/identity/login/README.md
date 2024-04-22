@@ -81,61 +81,18 @@ TBD
 ## Analytics
 
 - [Datadog: VA.gov Identity Stats](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1710600713657&to_ts=1713192713657&live=true)
+- [Login Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/analytics/readme.md) -- this doc looks outdate. Do we need it anymore?
+
 
 ## Backend
 
+- [Getting Started with Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
 - [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service)
 - [Unified Sign in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Unified%20Sign%20In%20Pages)
 - [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
+- [Identity & Login Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/readme.md)
 
-## Frontend
-
-TBD
-
-## Design and UX
-
-- [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
-- [Design system: Signed out vs. signed in templates](https://design.va.gov/templates/signed-out-vs-signed-in)
-- [Placeholder for mockups]
-- [Placeholder for flows]
-- [Placeholder for use case documentation]
-
-
---------
-
-Old outline -- will fold into the new outline as needed
-
-# Login
-
-## Quick Links
-
-### Product Reference Documents
-* [Getting Started with Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
-* [Authentication and Authorization Product Outline]()
-* [Login Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/loginproductoutline.md)
-* [SSO Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso)
-* [Login Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/analytics/readme.md)
-* [Identity & Login Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/readme.md)
-* [MVI Attributes & Services]()
-* [Understanding LOA]()
-* [Sign-in-FAQ page](https://www.va.gov/sign-in-faq)
-
-
-
-### Technical Reference Documents
-* [Front-End Login and Logout Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/login/fe-login-and-logout.md)
-* [Login Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md)
-* [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
-* [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
-* [ID.me/VA.gov Integration Configuration reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/idme-config.md)
-* [User Data](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) (swagger documentation)
-* [User Serializer](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/user_serializer.rb#L97-L116)
-
-### Design & User Research Reference Documents
-* [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/design/readme.md)
-* [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/research)
-
-## Additional Notes
+### Additional Notes
 
 * For localhost authentication, crypto is disabled by default. If you wish to enable crypto, you must acquire the `saml-rp.vetsgov.localhost` key and certificate which is located in credstash under `vets_api.localhost.idme_key` & `vets_api.localhost.idme_cert` - ask in [#vsp-operations](https://dsva.slack.com/channels/vsp-operations) slack channel for access.
 * If you want to know a heck of a lot of details about MVI (Master Veteran Index), the [MVI Integration]() directory is the place to look.
@@ -151,16 +108,46 @@ Old outline -- will fold into the new outline as needed
   * On the "VA.gov SAML Consumer" page, click "Allow"
   * You should now be logged in as an LOA3 identity proofed Veteran with an entry in MVI that allows you to see information for Veteran-specific items (e.g. secure messaging, Rx refills, etc)
 
- ## Keywords
- When ramping up on this portfolio, the following keywords are helpful in GitHub searches:
- - ID.me
- - MHV
- - DS Logon
- - MVI
- - User
- - Identity
- - Login
- - Sign-in
- - MFA
- - Identity Verification
- - SAML
+## Frontend
+
+- [Front-End Login and Logout Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/login/fe-login-and-logout.md)
+- [Login Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md)
+- [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
+- [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
+- [ID.me/VA.gov Integration Configuration reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/idme-config.md)
+- [User Data](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) (swagger documentation)
+- [User Serializer](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/user_serializer.rb#L97-L116)
+
+## Design and UX
+
+- [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/design/readme.md)
+- [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/research)
+- [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
+- [Design system: Signed out vs. signed in templates](https://design.va.gov/templates/signed-out-vs-signed-in)
+- [Sign-in-FAQ page](https://www.va.gov/sign-in-faq)
+- [Placeholder for mockups]
+- [Placeholder for flows]
+- [Placeholder for use case documentation]
+
+
+--------
+
+Old outline -- will fold into the new outline as needed
+
+# Login
+
+## Quick Links
+
+### Product Reference Documents
+* [MVI Attributes & Services]()
+* [Understanding LOA]()
+
+
+
+### Technical Reference Documents
+
+
+### Design & User Research Reference Documents
+
+
+
