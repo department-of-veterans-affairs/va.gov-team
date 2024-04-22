@@ -5,6 +5,11 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 4/25/24
+*   Feedback Survey results
+*   Design Token strategy
+    *   Invite VADS to System Demo?
+
 ## 3/28/24
 *   Cathulhu team mascot
 *   VADS Design Token updates 
