@@ -90,12 +90,16 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 - 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure."
 - 6 out of 7 said they would want more information or explanation on something within the toxic exposure questions.
+- One Veteran Googled multiple things during the session in order to try to determine whether he qualified. He Googled Operation Enduring Freedom on Google and determined he was not part of that operation, and he also Googled "burn pits" to see if VA was defining it the way he was in his head and determined he had been around burn pits in Haiti.
+- 2 Veterans opened the link to "Learn more about exposures on our Public Health website" but neither of them found that page to be helpful.
 
 Key quotes:
 
 > P3: "I don't know how you would classify that something was toxic or not. In the military you're always running into something that's toxic."
 
 > P9: "I probably would've specified asbestos if I had more information of where it applied to, like in general facilities where you stayed or anything asbestos-related. [It would be more clear if] maybe they gave examples of where it might be."
+
+> P5: [When he clicked on the public health website link,] “I got sent to a general page that doesn’t give me much specific about what I need to know for this form. If I was filling out the form for real I’d probably say this page doesn’t help me fill out the form; I’m closing it.”
 
 
 **Finding 2: Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.**
@@ -189,7 +193,7 @@ Key quotes:
 
 * <b>Recommendation 1: Correct usability issues that were discovered during the study.</b>
   * For every participant, when the user advances the page in the form they were not automatically scrolled back up to the top of the page. We should resurface the past ticket that was created for the Platform team or make a new one to address this.
-  * One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard." We've already determined that this was because commas were not allowed in the form field and our developers have corrected that error in [this ticket](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/80265).
+  * One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard." We've already determined that this was because commas were not allowed in the form field and our developers have implemented some explanatory text to avoid that error in [this ticket](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/80265). The ultimate solution will be to allow commas in this form field but we have to wait until the enrollment system is updated and able to accept that character for that form field.
   * Our one participant who uses a screen reader extension in Chrome was not able to use it for the session because the extension (called Read Aloud) was showing text from the intro page no matter where they were in the form. We should bring this to the attention of our engineers so they can determine why the form isn't compatible with this screen reader extension and see if we have any agency to correct it.
   * One participant who was exposed to toxins only for a day or two wasn't able to enter the same month and year for start and end dates. We need to come up with a solution for exposures that may have taken place for less than a month so users don't have to enter false information to progress to the next page.
   
@@ -205,6 +209,7 @@ Key quotes:
 
 * <b>Recommendation 3: Gain a more detailed understanding of what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group from our stakeholders and make content recommendations based on these findings.</b>
   * 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure." We should make it more clear to Veterans what types of toxic exposure are worth their time ti report and what the benefit to them could be.
+  * One Veteran Googled multiple things during the session in order to try to determine whether he qualified. He Googled Operation Enduring Freedom on Google and determined he was not part of that operation, and he also Googled "burn pits" to see if VA was defining it the way he was in his head and determined he had been around burn pits in Haiti.
   * If common toxins, such as asbestos for example, really could have a significant effect on a Veteran's priority group, use content to make it more clear what types of asbestos exposure may qualify and where this may have occurred. This applies to all generic toxins listed on the "Other toxic exposures" page.
 
  
