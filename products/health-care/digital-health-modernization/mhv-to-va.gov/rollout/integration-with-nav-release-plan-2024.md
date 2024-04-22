@@ -75,6 +75,10 @@ The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://gith
 
 ## Release strategy
 
+### QA approach
+
+_[TBD: Default assumption: each team QAs their own implementation, including secondary nav component and link changes.]_
+
 ### Smoke test
 
 
