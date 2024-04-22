@@ -96,7 +96,9 @@ The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://gith
 
 ### QA approach
 
-_[TBD: Default assumption: each team QAs their own implementation, including secondary nav component and link changes.]_
+Testrail will be used to document the test cases and results from testing. There are two sections that will be used, one for the secondary nav component and another for the link changes. Once development is complete, QA will begin verifying and informing the team of any bugs that may arise from testing. 
+
+Each team will QA their own implementation, including secondary nav component and link changes. 
 
 ### Smoke test
 
