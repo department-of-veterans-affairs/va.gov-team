@@ -29,7 +29,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟦 [[DevOps] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
+    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
 - **GOAL: Support Congressional Mandate**
