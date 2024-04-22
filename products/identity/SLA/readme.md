@@ -3,8 +3,7 @@
 ## Overview: 
 Publishing the Service Level Agreement (SLA) targets we want to hit for Veterans logging into VA.gov. with the ultimate goal of continuously improving the login process to VA.gov. This maps to _O1KR2: VA.gov authentication SLOs are developed._
 
-Target:
-* Other va.gov product teams.
+Target: Other va.gov product teams.
 
 This is a follow-up to the Login SLO project.
 
@@ -48,12 +47,6 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 
 ## Assumptions:
 - We publish around the dashboard created in the Login SLO project.
-
-
-## Solution Approach: 
-
-
-
   
 ## Technical Considerations:
 | Issue         | Notes         | 
@@ -74,15 +67,9 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 | How are we meeting the SLA  |    |
 
 
-## Baseline KPI Values:
-| KPI           | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
-
-
 ## Milestones:
 * SLA are agreed-upon.
-* 
+  
 
 
 
