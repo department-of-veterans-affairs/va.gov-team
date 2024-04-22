@@ -156,19 +156,20 @@ We have covered everything that I have for you today. I appreciate you taking th
 
 Research will be conducted at the following Virtual Health Resource Center Site:
 
-John L. McClellan Memorial Veterans Hospital
+Fayetteville VA Medical Center
+Building 21
+1100 North College Avenue
+Fayetteville, AR, 72703
 
-4300 W. 7th Street Little Rock, AR 
+*Exact office location TBD* 
 
-Contact Information
+The Virtual Health Resource Center was identified as the optimal partner for the in-person site given their preparedness to provide in-person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role. 
 
-501-257-5627
+### Point of contact
 
-*Exact office location TBD*
+Burchfield, Robin G. (FAV) <Robin.Burchfield@va.gov>
+Svendsen, Helene K. (FAV) <Helene.Svendsen@va.gov>
 
-The Virtual Health Resource Center was identified as the optimal partner for the in-person site given their preparedness to provide in-person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role.
-
-Point of contact
 
 -   Equipment used for research
 
@@ -197,29 +198,22 @@ Given we are recruiting onsite, the only criteria we have is someone must be a V
 
 ### Timeline
 
-TENTATIVE
+May 20-23, 2024
+Prepare
+Materials finalized by May 10, 2024
 
-April 1-9, 2024 
-
-### Prepare
-
-Materials finalized by THIS DATE
-
-Please indicate the date and name of a mock participant for a pilot session. 
-
+Please indicate the date and name of a mock participant for a pilot session. 
 * Pilot participant email:
+* Date and time of pilot session: 
 
-* Date and time of pilot session:
+#### Research sessions
+May 20-23, 2024
 
-### Research sessions
-
-March 25-March 29, 2024
-
-### Length of sessions
+#### Length of sessions
 
 15 minutes
 
-### Availability
+#### Availability
 
 Operational hours of site
 
