@@ -189,7 +189,8 @@ Key quotes:
 * Recommendation 1: Make it more clear via content or placement that toxic exposure during training does count and should be reported in the TERA questions.
   * 4 out of 7 Veterans said they may have been exposed to something toxic during training but didn't know if that counted. This was not a question we specifically asked and came up unprompted.
   * There is content in a few different places of the form that states that toxic exposure during training should be included, but it was missed by every participant.
-  <img width="355" alt="Screenshot 2024-04-22 at 10 04 23 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/b76c90d3-ec8e-4137-831e-75f0a08dd45c">
+  <img width="547" alt="Screenshot 2024-04-22 at 10 18 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/984719fb-e5f8-4dc6-b872-6141d63b5d9b">
+<br>
     *This image shows one of the places where training is mentioned as a time when other toxic expoures may have occured.*
 
 * Recommendation 2: 
