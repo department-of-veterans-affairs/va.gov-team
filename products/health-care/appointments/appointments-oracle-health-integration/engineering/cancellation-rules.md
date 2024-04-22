@@ -11,5 +11,7 @@ This section lists the required HTTP request structure for a valid cancellation
 Checks that are conducted using the cancellation request parameters to determine if the cancellation shouldbe evaluated
 * An appointment response must be received from `mobile-appointment-service` for the patient ICN and appointment ID
     * /patients/{icn}/appointments/{id}
-* The appointment response from MAS must contain the value `cancellable: true`
+* The appointment response received from MAS must satisfy ALL of the following conditions:
+   * `cancellable` must be `true`
+   * `status` must be one of `booked` or `proposed`
 
