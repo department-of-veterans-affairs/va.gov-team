@@ -77,26 +77,32 @@ Our PM and PO will monitor user analytics and back-end monitoring. If they see a
 - Types of errors logged: 500 (1 request; same user repeated and got a 200); 401 (3 requests)
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? NONE
 
-### Stage B: 25% of users
+### Stage B: Continued at 20% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: 2 weeks
+- Percentage of Users (and roughly how many users do you expect this to be): 20%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 5,214 unique pageviews
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+  - GA: as of the first 4 days in prod: 
+    - 5214 unique pageviews
+    - In-page interactions are limited to expansion of the additional-info component (366 uniques); no clicks on telephone component
+  - Qualitative survey feedback gathered 17 responses for /profile and /profile/contacts - no actionable feedback, details in [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80525)
+- Was any downstream service affected by the change?:  NO
+- Types of errors logged: mostly 200; a small handful of 401s (explained above), and a group of 5xx due to an outage.
+- What changes (if any) are necessary based on the logs, feedback on user challenges, or VA challenges?  NONE
 
 ### Stage C: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
+
+Decided to ramp up to 50% of users on 4/22, 2 weeks into 20% release above.
 
 #### Planning
 
