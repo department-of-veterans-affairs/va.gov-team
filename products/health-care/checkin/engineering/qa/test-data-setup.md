@@ -190,7 +190,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 350 | Twentynine, Patient | 1935-04-07 | Gaurav | √ | √ |
 | 391 | Thirty, Patient | 1935-04-07 | Lori | √ | √ |
 | 384 | Thirtyone, Patient | 1935-04-07 | Kanchana | √ | √ |
-| 140 | Thirtytwo, Patient | 1935-04-07 | Kelly | √ | √ |
+| 140 | Thirtytwo, Patient | 1935-04-07 | Nathan Douglas | √ | √ |
 | 442 | Thirtythree, Patient | 1935-04-07 | Paras | √ | √ |
 | 267 | Thirtyfour, Patient | 1935-04-07 | NSOC Team | √ | √ |
 | 217 | Nine,Patient | 1935-04-07 | Christina | √ | √ |
