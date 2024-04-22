@@ -24,3 +24,11 @@
   - tests accordions get generated from mock of VBA. Tests that accordions of specific types are created.
     - (suggestion: A more comprehensive service location generator should be created which can test all possible values for field office visits, facility main phone number presence, etc).
   - tests presence and number of accordions with renderHTML
+
+
+
+## Unit Coverage
+|file | statements | branch  | funcs | lines | Uncovered |
+|---|---|---|---|---|---|
+|vbaFacility.js                                                           |     100 |      100 |     100 |     100 |                               |
+|vbaFacility.graphql.js                                                   |   77.78 |        0 |       0 |   77.78 | 337,365 - strings that really shouldn't be tested |
