@@ -265,11 +265,9 @@ Veterans will be scheduled for 2 hour sessions
 VA staff will be notified of the scheduled sessions ahead of time to ensure their availability
 
 ### Availability for Perigean KO Call
-Thursday, March 14: 8am ET-11:30am ET
-Friday, March 15: 8-10am ET, 12-1pm ET, 2:45-3:45pm ET
-Monday, March 18: 8-11am ET
-Tuesday, March 19: 8-11am ET, 3-4pm ET
-Wednesday, March 20: 2-3:30pm ET
+Wednesday, April 24: 12:30-1:15pm ET, 2-3pm ET
+Thursday, April 25: 12:30-1pm ET, 4-5pm ET
+Friday, April 26: 11:30-2pm ET
 
 ### Team Roles	
 
