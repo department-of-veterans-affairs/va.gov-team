@@ -12,7 +12,7 @@ Component/Pattern | Published documentation | Priority & POC | Revisions and wor
 URLs | [URL standards in VADS](https://design.va.gov/content-style-guide/url-standards) | High - Erin | [Additional work needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md)<br> [Issue #81192 in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81192)
 IA governance | [Content placement criteria for unauth experience] | High - Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience
 Header | | Medium - Mikki | Componetize header, incorporate Federal header requirements
-Footer | | Medium - | Componetize footer, incorporate Federal footer requirements
+Footer | | Medium - Mikki | Componetize footer, incorporate Federal footer requirements
 Primary navigation | Not documented in VADS | High - Mikki | OCTO Sitewide Crew currently evaluating along with secondary nav for redesign
 Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | High - Mikki | OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal
 Breadcrumbs | [Breadcrumb component in VADS](https://design.va.gov/components/breadcrumbs) | - | Review of V3 component as well as experimental design of back link with minimal header
