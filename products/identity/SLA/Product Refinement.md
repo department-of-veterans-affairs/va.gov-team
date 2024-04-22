@@ -39,7 +39,6 @@ Once again, anything that wasn't specifically within scope of the User Stories w
   * Ensure all SLAs are written to Datadog
 * Develop document, host in github which explains each SLA
   * SLA Document should include which teams fall under the agreement.
-  * Automate the sending of the SLA compliance report
   * Qualitatively describe the info contained within SL's visualizations
 * Communicate about planned downtime - how much lead time can we give?
 
@@ -66,6 +65,7 @@ Most of these revolved around Incident Response and preventing service outages, 
   * How often should we communicate updates during an issue. (20 minutes)
   * Difference in use/need between internal & external.
   * How will we communicate SLA changes?
+  * Automate the sending of the SLA compliance report
   * Adherence to SL's builds trust & improves CX. Can we show our SLs as part of a VA.gov promotion to the public?
 * Misc
   * What level of compliance with section 508?
