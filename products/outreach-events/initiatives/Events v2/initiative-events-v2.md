@@ -1,6 +1,7 @@
-# Intiative Briefing: Events v2 
+# Events v2 Intiative Briefing
 
 ## Brief Description
+
 
 ## Outcome Summary
 >>>
