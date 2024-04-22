@@ -1,5 +1,5 @@
 # Military information: user wants to access their military information
-**Last updated:** February 15, 2024 (updated mock-up links)
+**Last updated:** April 22, 2024 (updated test users)
 
 For LOA3 users who sign in, go to the profile, and click into the military information section, they can view their service history if they have a Department of Defense (DoD) ID.
 
@@ -44,7 +44,7 @@ N/A
 ## How to reproduce
 ### User has DoD ID
 1. Go staging.va.gov/profile/military-information
-2. Log in with users 41, 54, or 80 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. Log in with user 80 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 
 ### User does not have DoD ID
 1. Go staging.va.gov/profile/military-information
