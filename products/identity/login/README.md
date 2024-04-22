@@ -91,6 +91,11 @@ TBD
 - [Unified Sign in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Unified%20Sign%20In%20Pages)
 - [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
 - [Identity & Login Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/readme.md)
+- [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
+- [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
+- [ID.me/VA.gov Integration Configuration reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/idme-config.md)
+- [User Data](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) (swagger documentation)
+- [User Serializer](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/user_serializer.rb#L97-L116)
 
 ### Additional Notes
 
@@ -111,12 +116,6 @@ TBD
 ## Frontend
 
 - [Front-End Login and Logout Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/login/fe-login-and-logout.md)
-- [Login Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md)
-- [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
-- [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
-- [ID.me/VA.gov Integration Configuration reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/idme/idme-config.md)
-- [User Data](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) (swagger documentation)
-- [User Serializer](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/serializers/user_serializer.rb#L97-L116)
 
 ## Design and UX
 
@@ -128,26 +127,3 @@ TBD
 - [Placeholder for mockups]
 - [Placeholder for flows]
 - [Placeholder for use case documentation]
-
-
---------
-
-Old outline -- will fold into the new outline as needed
-
-# Login
-
-## Quick Links
-
-### Product Reference Documents
-* [MVI Attributes & Services]()
-* [Understanding LOA]()
-
-
-
-### Technical Reference Documents
-
-
-### Design & User Research Reference Documents
-
-
-
