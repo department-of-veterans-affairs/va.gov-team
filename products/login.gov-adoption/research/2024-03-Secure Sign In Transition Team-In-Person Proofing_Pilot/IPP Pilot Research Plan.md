@@ -271,9 +271,9 @@ Friday, April 26: 11:30-2pm ET
 
 ### Team Roles	
 
-OCTO Identity Lead: Thomas Black, thomas.black2@va.gov
+OCTO Identity Product Lead: Samara Strauss, samara.strauss@va.gov
 
-Product Lead: Lauren Morris, lauren@themostudio.com, lauren.morris3@va.gov
+OCTO Identity Engineering Lead: Thomas Black, thomas.black2@va.gov
 
 Research Lead: Sophia Philip, sophia@themostudio.com, sophia.philip@va.gov
 
@@ -288,6 +288,8 @@ Carl Dickerson (Content Strategist), carl@themostudio.com
 Mateo Salinas Clarke (Sr. Software Engineer), mateo@themostudio.com
 
 Anu Das (Software Engineer), anu@themostudio.com
+
+
 
 
 
