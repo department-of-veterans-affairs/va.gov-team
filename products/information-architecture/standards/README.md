@@ -7,25 +7,25 @@
 
 ### IA standards and IA-related components
 
-Component/Pattern | Published documentation | Revisions and work in progress
---- | --- | ---
-URLs | [URL standards in VADS](https://design.va.gov/content-style-guide/url-standards) | [Additional work needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md)<br> [Issue #81192 in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81192)
-IA governance | [Content placement criteria for unauth experience] | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience
-Header | |
-Footer | |
-Primary navigation | Not documented in VADS | OCTO Sitewide Crew currently evaluating along with secondary nav for redesign
-Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal
-Breadcrumbs | [Breadcrumb component in VADS](https://design.va.gov/components/breadcrumbs) | 
-Title tags | Title tags on VADS |
-H1s | [H1s on VADS] |
-On this page | [On this page component in VADS] | Needs guidance added for usage
-Pagination | [Pagination component](https://design.va.gov/components/pagination) | Needs review for IA impacts and usage
-Search best bets | [Search best bets guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) | Review current guidance and identify what should be documented as a standard, what is process, and what is best practice. Identify where each aspect should live and create drafts properly formatted.  Review with OCTO leads for approval. Publish
-IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish
-IA and a11y | | 
-Benefit hub template | [Template: Benefit hub page on VADS] <br> [Template: Benefit hub page on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) | Review current level of documentation, write up needed updates for VADS, get OCTO approvals, publish
+Component/Pattern | Published documentation | Priority & POC | Revisions and work in progress
+--- | --- | --- | ---
+URLs | [URL standards in VADS](https://design.va.gov/content-style-guide/url-standards) | High - Erin | [Additional work needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md)<br> [Issue #81192 in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81192)
+IA governance | [Content placement criteria for unauth experience] | High - Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience
+Header | | | 
+Footer | | | 
+Primary navigation | Not documented in VADS | High - Mikki | OCTO Sitewide Crew currently evaluating along with secondary nav for redesign
+Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | High - Mikki | OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal
+Breadcrumbs | [Breadcrumb component in VADS](https://design.va.gov/components/breadcrumbs) | - | Review of V3 component as well as experimental design of back link with minimal header
+Title tags | Title tags on VADS || 
+H1s | [H1s on VADS] || 
+On this page | [On this page component in VADS] | Medium | Needs guidance added for usage
+Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low | Needs review for IA impacts and usage
+Search best bets | [Search best bets guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) | Low - Jenny | Review current guidance and identify what should be documented as a standard, what is process, and what is best practice. Identify where each aspect should live and create drafts properly formatted.  Review with OCTO leads for approval. Publish
+IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Low | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish
+IA and a11y | | | 
+Benefit hub template | [Template: Benefit hub page on VADS] <br> [Template: Benefit hub page on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/template-guidelines-hub-page.md) | Medium - Kristin | Review current level of documentation, write up needed updates for VADS, get OCTO approvals, publish
 Benefit sub-hub template |
-User flows | [User Flow Guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/user-flow-guidance.md) | Review current guidance and identify what should be documented as a standard (should be evaluated through governance) and what is best practice guidance for creating flows <br> Review original experience standards and identify what is missing from current guidance and needs to be added <br> Identify where standards and best practice info should live
+User flows | [User Flow Guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/user-flow-guidance.md) | Medium - Kristin/Jenny | Review current guidance and identify what should be documented as a standard (should be evaluated through governance) and what is best practice guidance for creating flows <br> Review original experience standards and identify what is missing from current guidance and needs to be added <br> Identify where standards and best practice info should live
 
 
 ### Core IA documentation
