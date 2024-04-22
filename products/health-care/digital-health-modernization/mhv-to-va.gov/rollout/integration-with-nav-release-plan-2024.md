@@ -61,9 +61,9 @@ The MHV tools and landing page all have [feature toggles](https://github.com/dep
 #### Rolling out using feature toggles and/or deploys
 
 1. Chosen 3 MHV-on-VA.gov tools enabled for 100% of users. Tools incorporate UX changes outlined in this doc
- - tools should be able to incorporate Secondary Nav behind an existing feature toggle
  - `mhvSecureMessagingToVaGovRelease`, `mhvMedicationsToVaGovRelease`
- - Appointments is already live, would just need to release "Secondary Nav"
+ - Appointments is already live, would just need to incorporate "Secondary Nav"
+ - "Secondary Nav" will be under its own feature toggle so that component can be enabled wherever its used
 2. MHV Landing pages enables links to the 3 MHV-on-VA.gov tools. Landing pages incorporates UX changes (link names, alerts on links to MHV national portal)
   - The `mhvLandingPageEnableVaGovHealthToolsLinks` can also be used to roll out the Secondary Nav on the landign page 
 3. MHV National portal deploys UX changes directing folks to try the 3 tools on VA.gov
