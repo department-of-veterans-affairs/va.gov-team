@@ -186,18 +186,35 @@ Key quotes:
 
 ## Recommendations
 
-* Recommendation 1: Make it more clear via content or placement that toxic exposure during training does count and should be reported in the TERA questions.
+* <b>Recommendation 1: Make it more clear via content or placement that toxic exposure during training does count and should be reported in the TERA questions.</b>
   * 4 out of 7 Veterans said they may have been exposed to something toxic during training but didn't know if that counted. This was not a question we specifically asked and came up unprompted.
   * There is content in a few different places of the form that states that toxic exposure during training should be included, but it was missed by every participant.
   <img width="547" alt="Screenshot 2024-04-22 at 10 18 19 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/984719fb-e5f8-4dc6-b872-6141d63b5d9b">
 <br>
+
     *This image shows one of the places where training is mentioned as a time when other toxic expoures may have occured.*
 
-* Recommendation 2: 
+* <b>Recommendation 2: Gain a more detailed understanding of what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group from our stakeholders and make content recommendations based on these findings.</b>
+  * 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure." We should make it more clear to Veterans what types of toxic exposure are worth their time ti report and what the benefit to them could be.
+  * If common toxins, such as asbestos for example, really could have a significant effect on a Veteran's priority group, use content to make it more clear what types of asbestos exposure may qualify and where this may have occurred. This applies to all generic toxins listed on the "Other toxic exposures" page.
+ 
+* <b>Recommendation 3: Incorporate more branching logic into the form so Veterans are only asked questions that are potentially relevant to them.
+  * 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
+  * 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
 
+* <b>Recommendation 4: Develop personalized notifications to target Veterans who served during certain time periods in combat to encourage them to fill out toxic exposure questions, either in the 10-10EZ form or 10-10EZR if they already have VA health care.
+  * 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
+  * One Veteran suggested that if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
+ 
+* <b>Recommendation 1: Correct usability issues that were discovered during the study.</b>
+  * For every participant, when the user advances the page in the form they were not automatically scrolled back up to the top of the page. We should resurface the past ticket that was created for the Platform team or make a new one to address this.
+  * One participant kept getting an error when entering other toxic exposures in the free text field that said "Please enter a valid toxin or hazard." We've already determined that this was because commas were not allowed in the form field and our developers have corrected that error in [this ticket](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/80265).
+  * Our one participant who uses a screen reader extension in Chrome was not able to use it for the session because the extension (called Read Aloud) was showing text from the intro page no matter where they were in the form. We should bring this to the attention of our engineers so they can determine why the form isn't compatible with this screen reader extension and see if we have any agency to correct it.
 
 ## Next Steps
 - Meet with our Health Enrollment Center stakeholders to discuss what's possible in terms of clarifying what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group and are truly worth a Veteran's time to report.
+- Make content suggestions based on what we learn from the HEC stakeholders.
+- Work with the CAIA team to make content updates to the TERA questions.
 
 
 ## Further research needed
