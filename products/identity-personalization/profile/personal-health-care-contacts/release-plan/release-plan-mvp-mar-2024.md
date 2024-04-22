@@ -6,7 +6,7 @@ This MVP is a read-only addition to the Profile and Profile Hub products. Person
 ## Important artifacts
 - [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-health-care-contacts/README.md)
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62159)
-- Analytics dashboard [tbd]
+- Analytics dashboard - Datadog: card for Personal health care contacts added to the [Auth Exp Profile dash](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1711143139221&to_ts=1713821539221&live=true)
 - [Collab Cycle issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65892), which has links to all other artifacts
 
 ### Toggle / Flipper
