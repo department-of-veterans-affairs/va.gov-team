@@ -29,7 +29,6 @@ Note: anything that wasn't specfically within scope of the User Stories or would
 * Should we have a communication standard with our SLA to other services?
 * How many SLAs to we want to commit to?
 * What SLAs to we want to commmit to?
-* Assign external service to monitor SLO?
 * Is there possibility for downtime in different regions? Specific events?
 
 
@@ -60,6 +59,7 @@ Most of these revolved around Incident Response and preventing service outages, 
     * Logging & Monitoring
     * Backup and Redundancy
     * Failover Testing
+    * Assign external service to monitor SLO?
 * Communication
   * Are we including service level adjustments? Events our of our control (storms) occur that affect uptime.
   * How often should we communicate updates during an issue. (20 minutes)
