@@ -1,8 +1,8 @@
-## VetsAPI Sprint 8 Planning
-Sprint 8: 4/9/24 - 4/20/24
+## VetsAPI Sprint 9 Planning
+Sprint 8: 4/9/24 - 4/22/24
 
 ## 📅 Upcoming Dates
-Brittany will be OOO 4/1/24 - 4/12/24 and again 4/17/24
+
 
 ## 📣 Announcements
 CTO slack channel: appointments-oracle-health-integrations
@@ -22,7 +22,7 @@ Post any DSU updates if you are unable to attend
 ## 📋 Previous Sprint Summary:
 
 ## 🏆 Sprint Goals and Stories
-🚧 rolled from previous sprint 
+🚧 rolled from previous sprint;🐞bug 
 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
 * 🟩 🟦 SUB-GOAL Eligibility
