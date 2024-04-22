@@ -57,7 +57,7 @@ _The following steps are performed by the **Platform Support** team. Detailed in
 - [ ] Zenhub license removed (If applicable. Check for license [here](https://app.zenhub.com/settings/o/department-of-veterans-affairs/users))
 - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled
 
-### Support Tier 2 - Devops 🌷
+### Support Tier 2 - DevOps 🌷
 - [ ] SOCKS access removed (if applicable. Search their email in [config.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/global/config.yml))
    > Use the [Remove SOCKS and AWS access Github Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml). You'll need the user's email address associated with their public key (found in `config.yml`). Merge the PR.
 - [ ] AWS access removed (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
