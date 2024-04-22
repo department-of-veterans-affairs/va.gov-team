@@ -18,7 +18,7 @@ Angela Agosto (angela.agosto@adhocteam.us) and Jessica Stump (jessica.stump@adho
 
 
 ## Research Goals
-These questions provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their active duty. This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
+These questions provide a place on the 10-10EZ health care application for Veterans to identify whether they have experienced exposure to toxic materials during their time in the military. This can help Veterans who may not qualify for VA health care or those that have a low Priority Group (7 or 8) get into a Priority Group 6 and receive additional care.
 
 The moments that matter within the Veteran Journey are when Veterans are selecting the health care coverage according to their needs - whether that is supplemental coverage as things change in their lives or service connected or non-service connected needs.
 
@@ -68,7 +68,7 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 #### We assume... some Veterans might want additional explanatory visuals such as maps or links to help them with quicker recall of these service location questions.
 - Likely false.
 - This didn't naturally come up from any of the participants. It was more common that the content was unclear or misleading for the TERA questions.
-- 2 participants opened the link to learn more about other toxic exposures and neither found it particularly helpful. 
+- 2 participants opened the link to learn more about other toxic exposures and neither found it helpful. 
 
 
 ## Key Findings
@@ -110,7 +110,7 @@ Key quotes:
 
 Key quotes:
 
->P9: "[I was exposed to contaminated water] during training, but that's not considered active duty time. What I've been told through this whole process is it has to be specific active orders. It can't be something such as, you're on training orders at a facility. They told me all of that is not considered part of a claim." ... ""That's why it's so hard for me to even make a claim. <B>If you never got deployed out of the country, you're essentially a nobody.</b>"
+>P9: "[I was exposed to contaminated water] during training, but that's not considered active duty time. What I've been told through this whole process is it has to be specific active orders. It can't be something such as, you're on training orders at a facility. They told me all of that is not considered part of a claim." ... "That's why it's so hard for me to even make a claim. <B>If you never got deployed out of the country, you're essentially a nobody.</b>"
 
 >P2: "I'm putting 'tear gas' because just about everyone goes through tear gas training in basic training. When you're going through basic training, you don't ask, 'Hey what's in the tear gas to make me tear and gag and just about throw up?' You know, you don't ask that. You just do as you're told."
 
@@ -122,7 +122,7 @@ Key quotes:
 **Finding 3: Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
 
 - 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
-- 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out
+- 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
 
 Key quotes:
 
@@ -208,17 +208,19 @@ Key quotes:
 
 
 * <b>Recommendation 3: Gain a more detailed understanding of what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group from our stakeholders and make content recommendations based on these findings.</b>
-  * 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure." We should make it more clear to Veterans what types of toxic exposure are worth their time ti report and what the benefit to them could be.
-  * One Veteran Googled multiple things during the session in order to try to determine whether he qualified. He Googled Operation Enduring Freedom on Google and determined he was not part of that operation, and he also Googled "burn pits" to see if VA was defining it the way he was in his head and determined he had been around burn pits in Haiti.
+  * 7 out of 7 Veterans expressed confusion about whether certain types of potential toxic exposure count or are what VA would define and classify as "toxic exposure." We should make it more clear to Veterans what types of toxic exposure are worth their time to report and what the benefit to them could be.
+  * One Veteran Googled multiple things during the session in order to try to determine whether he qualified. He looked up Operation Enduring Freedom on Google and determined he was not part of that operation, and he also Googled "burn pits" to see if VA was defining it the way he was in his head and determined he had been around burn pits in Haiti.
   * If common toxins, such as asbestos for example, really could have a significant effect on a Veteran's priority group, use content to make it more clear what types of asbestos exposure may qualify and where this may have occurred. This applies to all generic toxins listed on the "Other toxic exposures" page.
+  * We should consider providing dates for the Gulf War question because one of our participants wasn't sure what time period that was referring to.
 
  
 * <b>Recommendation 4: Incorporate more branching logic into the form so Veterans are only asked questions that are potentially relevant to them.</b>
   * 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
   * 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
+  * We ask for service history before the TERA questions so there's an opportunity to skip certain questions based on service dates.
 
 
-* <b>Recommendation 5: Develop personalized notifications to target Veterans who served during certain time periods in combat to encourage them to fill out toxic exposure questions, either in the 10-10EZ form or 10-10EZR if they already have VA health care.</b>
+* <b>Recommendation 5: Get more information about VA's efforts to reach out to certain groups for toxic exposure and determine what opportunities (if any) exist to develop personalized notifications. The goal of these would be to target Veterans who served during certain time periods in combat to encourage them to fill out toxic exposure questions, either in the 10-10EZ form or 10-10EZR if they already have VA health care.</b>
   * 3 out of 7 Veterans expressed that they would expect VA to know some of the information that they're asking for, such as service dates and overall toxic exposure.
   * One Veteran suggested that if VA is targeting Veterans who served in specific time periods and locations, such as the Vietnam War for Agent Orange, then they should proactively reach out to those people.
 
@@ -227,9 +229,9 @@ Key quotes:
 - Share findings with developers and create tickets to correct usability issues.
 - Meet with our Health Enrollment Center stakeholders to get context on some feedback from Veterans to determine what changes we may be able to make:
   - Can we further clarify what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group and are truly worth a Veteran's time to report?
-  - Do you know of any efforts to target specific groups of Veterans who may be eligible, such as Veterans who were deployed during the Vietnam War?
+  - What efforts do you know of to target specific groups of Veterans who may be eligible, such as Veterans who were deployed during the Vietnam War?
   - Since we heard a lot of feedback about training, what kind of toxic exposures that may have occurred during training are worth a Veteran's time to report?
-  - What are your requirements for the digital form in terms of branching logic? If we asked for service dates first and only asked applicable questions based on those dates, could there be any edge cases or negative consequences?
+  - What are your requirements for the digital form in terms of branching logic? Since we ask for service dates before the TERA questions, we could only asked applicable questions based on those dates. Could there be any edge cases or negative consequences to branching logic based on service dates?
 - Make content suggestions based on what we learn from the HEC stakeholders.
 - Work with the CAIA team to make content updates to the TERA questions.
 - Find out if any teams are or have been working to digitally notify particular groups of Veterans about toxic exposure eligibility, or if communications have been across the entire site up to this point.
