@@ -1,6 +1,6 @@
 # SLA Product Refinement
 
-On Friday, April 15, 2024 the Identity Team had our first product refinement for the Login SLA project.
+On Friday, April 19, 2024 the Identity Team had our first product refinement for the Login SLA project.
 
 
 It was focused around this Problem Statement:
