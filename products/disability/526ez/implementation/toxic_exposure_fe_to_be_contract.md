@@ -63,7 +63,7 @@ Example:
             "asbestos": true,
             "radiation": true,
             "mustardgas": false
-          }
+          },
           "otherExposureDetails": {
             "asbestos": {
               "startDate": "1991-03-01",
@@ -78,7 +78,7 @@ Example:
             "description": "Lead, burn pits",
             "startDate": "1991-03-01",
             "endDate": "1992-01-01"
-          }
+          },
           "toxicExposureConditions": {
             "deviatedseptum": true
           }
