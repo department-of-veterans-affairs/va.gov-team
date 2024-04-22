@@ -1,4 +1,6 @@
-# Intiative Briefing: Outreach & Events MVP (Filtering / Recurring Events)
+# Intiative Briefing: Events v2 
+
+## Brief Description
 
 ## Outcome Summary
 >>>
