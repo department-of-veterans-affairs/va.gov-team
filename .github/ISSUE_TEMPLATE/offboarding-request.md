@@ -63,8 +63,8 @@ _The following steps are performed by the **Platform Support** team. Detailed in
 - [ ] AWS access removed (if applicable. Search their name in [AWS IAM](https://console.amazonaws-us-gov.com/iamv2/home#/home))
    > Use the same [SOCKS and AWS access Workflow](https://github.com/department-of-veterans-affairs/devops/actions/workflows/offboarding.yml) to remove user's entry from [iam_users.tf](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/global/iam_users.tf). You'll need the user's AWS username (typically `First.Last`). Merge the PR and apply Terraform.
 - [ ] Datadog (if applicable. Check [Datadog users](https://vagov.ddog-gov.com/organization-settings/users))
-- [ ] Disable in Datadog UI (must be done by a datadog admin)
-- [ ] [Submit an ECC request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) (Only necessary if they were in the Datadog UI)
+   > Disable in Datadog UI (must be done by a datadog admin)
+   > [Submit an ECC request](https://vfs.atlassian.net/wiki/spaces/OT/pages/2526282894/Offboarding+Users+from+Datadog) (Only necessary if they were in the Datadog UI)
 - [ ] Bot (`va-bot`, `va-vfs-bot`, and `va-vsp-bot`) user GitHub account(s) YubiKey(s) removed
    > This is rare. See [documentation](https://vfs.atlassian.net/wiki/spaces/OT/pages/1908932642/Remove+YubiKeys+of+Offboarded+Operations+Team+Members) for current users and removal process.
 
