@@ -13,12 +13,12 @@
 - We're working to add updates to the sign-in widgets that sit at the beginning of forms or tools that require authentication and verification. That is coming up and hopefully will be updated in VADS soon!
 - There's a core group of identity people who are coming together to help create this language and work on the transition for the sign-in. A big part of this work is on widgets across the board to make sure they're consistent and as helpful as possible. It's a big group team effort!
 
-## VA.gov content updates (Danielle, Randi)
+## VA.gov content updates (Danielle)
 - The partner request form is a centralized way to have VA partners from NCA, VBA, and VHA request edits and updates to the modernized site.
 - There have been 9 partner requests so far in April. This is for existing content on our site that we try to keep up to date, and we rely on our close partnerships to help us with this. Sometimes we notice things, and sometimes this is how SMEs point out changes that need to happen (in theory). This is an effort to help move away from emails and other ways that teams ping us.
 
 ## Recent updates
-- We're launched our Get help from a VA accredited rep landing page and Find a rep page. The redirects are in place!
+- We've launched our Get help from a VA accredited rep landing page and Find a rep page. The redirects are in place!
 - We've brought in more decision review content into the VA.gov modernized experience: Clinical appeals, Family caregiver program appeals, (something else?).
 - There are many other larger updates in progress: Family member hub, Migration of education content, community care family member content, the rolling audit to assess quality of existing pages (In the education section)
 - We're working on updating pages based on what we see in Medalia feedback. We're not seeing a ton of specific feedback that requires updates, but there's some helpful feedback. For example: we're clarifying the urgent care assistance card
