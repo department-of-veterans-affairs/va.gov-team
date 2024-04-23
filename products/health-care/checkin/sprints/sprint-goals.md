@@ -119,7 +119,8 @@ ________________________________________________________________________________
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
             - Is it too soon to do this?
-- **GOAL: Address Tech Debt**    
+- **GOAL: Address Tech Debt**
+    - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
     - **Sub Goal: DevOps Improvements**
         - TBD
 </details>
