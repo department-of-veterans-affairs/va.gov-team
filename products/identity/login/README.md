@@ -23,7 +23,7 @@ Signing into VA.gov and the VA Health and Benefits mobile app relies on a robust
 
 ### The backend infrastructure
 
-WIP
+Our backend infrastructure for authentication is supported by [single sign-on]() and [sign-in service]()
 
 ### User-facing experience
 
@@ -88,8 +88,8 @@ TBD
 
 - [Getting Started with Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
 - [Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service)
-- [Unified Sign in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Unified%20Sign%20In%20Pages)
-- [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
+- [Unified Sign in Pages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/unified-sign-in-pages)
+- [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/sso/)
 - [Identity & Login Error Handling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/readme.md)
 - [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) (primarily technical)
 - [VA.gov API Authentication and Authorization](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization-simplified.md) (less technical, more context)
@@ -121,7 +121,7 @@ TBD
 
 - [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/design/readme.md)
 - [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/research)
-- [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/sso/)
+- [Single Sign-On (SSO)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/sso/)
 - [Design system: Signed out vs. signed in templates](https://design.va.gov/templates/signed-out-vs-signed-in)
 - [Sign-in-FAQ page](https://www.va.gov/sign-in-faq)
 - [Placeholder for mockups]
