@@ -30,7 +30,7 @@ Note: anything that wasn't specfically within scope of the User Stories or would
 * Do customers need to agree to the SLAs?
 * Should we have a communication standard with our SLA to other services?
 * How many SLAs to we want to commit to?
-* What SLAs to we want to commmit to?
+* What SLAs do we want to commmit to?
 * Is there possibility for downtime in different regions? Specific events?
 
 
