@@ -37,7 +37,7 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 - Obtain Veteran contact information (Name, Phone number, Email address)
 - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
      - Explain what has happened (submission failure) and provide the Veteran contact info.
-     - Copy PO (Patrick Bateman) and Crew lead (Lauren Alexanderson)
+     - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
 - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
 - If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
