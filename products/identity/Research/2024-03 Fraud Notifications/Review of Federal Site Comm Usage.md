@@ -24,6 +24,7 @@ We want to make sure we understand best practices and consequences around commun
    - VANotify
    - VA Emergency Alerting and Accountability System (VA EAAS)
    - VA Notification System (VANS)
+   - VEText
 - [Graphs and Tables](#graphs-and-tables)
 - [IRS Notifications](#irs-notifications)
  - [Quick Alerts](#quick-alerts)
