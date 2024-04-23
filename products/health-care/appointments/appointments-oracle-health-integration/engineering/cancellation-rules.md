@@ -34,7 +34,7 @@ policies are defined for each VAOS type of care and are analogous to the VATS po
 
 An OH Appointment request is cancellable by the patient, unless:
 
-1. The Appointment status is not `proposed`.
+1. The Appointment status is not `proposed` (it hasn't been cancelled or booked yet).
 2. The OH Millenium API indicates the Appointment is not cancellable
    ([Millenium reference](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#custom-extensions)). The
    reasons why an OH Appointment would have the `is-cancelable` extension set to true are unknown at this time.
@@ -46,7 +46,7 @@ An OH Appointment request is cancellable by the patient, unless:
 
 A booked OH Appointment is cancellable by the patient, unless:
 
-1. The Appointment status is not `booked`.
+1. The Appointment status is not `booked` (it hasn't been cancelled, checked-in, or completed yet).
 2. The OH Millenium API indicates the Appointment is not cancellable
    ([Millenium reference](https://fhir.cerner.com/millennium/r4/base/workflow/appointment/#custom-extensions)). The
    reasons why an OH Appointment would have the `is-cancelable` extension set to true are unknown at this time.
