@@ -45,6 +45,8 @@ Below is a living document that will be updated with specifics as changes are ma
 6. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://api.va.gov/ivc-pega-updates
    - TBD
 7. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
+   - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication
+   - Example:
     ```
     class FormsController < ApplicationController
       before_action :authenticate_request
