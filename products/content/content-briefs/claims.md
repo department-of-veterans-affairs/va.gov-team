@@ -29,6 +29,9 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran communications | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
+| file | We use file only to refer to the actual file a Veteran is uploading from their device. These may not be “documents” as in .doc. They could be .pdf, .jpg, .png, or other file types. | Button text on file upload screens should say "Upload file," not "Upload document" or "Upload evidence." | | | |
+| document | We use document to refer to the digital or paper item a Veteran is submitting as evidence. | File input screens in form flows should use "document" in the screen header. For example, "Upload your supporting documents." | | | |
+| evidence | We use evidence to refer to all documents and information you submit to support your claim or application. | We define evidence as “supporting documents or information.” A document or information becomes evidence when it gets attached to claim or application. | | | |
 
 ## Content considerations specific to claims
 
