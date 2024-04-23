@@ -20,6 +20,7 @@ For example:
 We encourage you to review your dependent information on VA.gov once each year. This can help you avoid debt from benefit overpayments. And if you have new dependents to add, you may be eligible for increased benefit payments. Review your dependents online now.
 
 If there's no need for a more specific closing, use the general closing "Thank you, VA.gov"
+**Note:** Don't say "Thank you for your service" in the closing or anywhere in the email.
 
 ## Links
 VA Notify supports hyperlinks, but we also spell out the URL so that Veterans can be sure the link is legitimate. This is especially important when the link goes to a tool that deals with personal, health, or financial information. 
