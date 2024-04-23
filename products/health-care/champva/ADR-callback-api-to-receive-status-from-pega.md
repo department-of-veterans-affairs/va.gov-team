@@ -34,6 +34,8 @@ _Schema Flexibility_: Relational databases provide schema flexibility, allowing 
 _Ease of Integration_: Ruby has built-in support for relational databases, simplifying integration efforts to help develop the callback API data storage. This reduces development overhead and streamlines production.
 
 ### Consequences
-1. _Simplified Infrastructure_: The use of a relational database streamlines deployment and maintenance efforts.
-2. _Low Latency Impact_: The lightweight API and periodic data purging minimize latency concerns.
-3. _Minimal Maintenance Overhead_: Routine tasks are straightforward due to the simple database schema. We will also create a Sidekiq job(s) to purge data on a timely basis to avoid data inflation and longevity of PII in the database.
+_Simplified Infrastructure_: The use of a relational database streamlines deployment and maintenance efforts.
+
+_Low Latency Impact_: The lightweight API and periodic data purging minimize latency concerns.
+
+_Minimal Maintenance Overhead_: Routine tasks are straightforward due to the simple database schema. We will also create a Sidekiq job(s) to purge data on a timely basis to avoid data inflation and longevity of PII in the database.
