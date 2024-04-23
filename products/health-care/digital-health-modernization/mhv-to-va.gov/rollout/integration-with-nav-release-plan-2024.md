@@ -24,7 +24,7 @@ Primary Github artifacts:
 - Secure messaging app has a bespoke secondary nav that will probably need to change or be removed
 - Tool landing pages should add breadcrumbs that connect `< Back to My HealtheVet home` with that specific language
 - Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal)
-- MyHealtheVet secondary navigation component should display on "big four" tools and their child pages
+- MyHealtheVet secondary navigation component should display on the tools on VA.gov (SM, Appts, Meds) and their child pages
 - All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate over to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24)
 - Tool "About" pages will get content updates
 - "Try me" banners on MHV national portal will get content updates
@@ -60,13 +60,15 @@ The MHV tools and landing page all have [feature toggles](https://github.com/dep
 
 #### Rolling out using feature toggles and/or deploys
 
-1. Chosen 3 MHV-on-VA.gov tools enabled for 100% of users. Tools incorporate UX changes outlined in this doc
- - `mhvSecureMessagingToVaGovRelease`, `mhvMedicationsToVaGovRelease`
- - Appointments is already live, would just need to incorporate "Secondary Nav"
- - "Secondary Nav" will be under its own feature toggle so that component can be enabled wherever its used
-2. MHV Landing pages enables links to the 3 MHV-on-VA.gov tools. Landing pages incorporates UX changes (link names, alerts on links to MHV national portal)
-  - The `mhvLandingPageEnableVaGovHealthToolsLinks` can also be used to roll out the Secondary Nav on the landign page 
-3. MHV National portal deploys UX changes directing folks to try the 3 tools on VA.gov
+1. Medications Ph1 enabled for 100% of users.
+   - Toggle: `mhvMedicationsToVaGovRelease`
+2. SM, Meds and Appts incorporate integration UX changes outlined in this document (above)
+   - Toggle(s): _TBD_
+3. Secondary nav enabled by its own feature toggle on Appointments, Medications, Secure messages, and the MHV landing page
+   - Toggle: _NEED toggle name_
+4. MHV Landing page incorporates UX changes for integration (links to the tools on VA.gov (SM, Meds), content about Ph1 integration, etc.)
+   - Toggle: `mhvLandingPageEnableVaGovHealthToolsLinks` 
+5. MHV National portal deploys try-me changes
 
 #### Existing feature toggles (as seen on frontend on 19 April)
 
