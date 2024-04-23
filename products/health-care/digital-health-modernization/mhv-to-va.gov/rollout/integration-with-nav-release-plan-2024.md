@@ -26,6 +26,8 @@ Primary Github artifacts:
 - Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal)
 - MyHealtheVet secondary navigation component should display on "big four" tools and their child pages
 - All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate over to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24)
+- Tool "About" pages will get content updates
+- "Try me" banners on MHV national portal will get content updates
 
 ### Questions log
 - Is any new handling required for Veterans with Oracle facilities?
