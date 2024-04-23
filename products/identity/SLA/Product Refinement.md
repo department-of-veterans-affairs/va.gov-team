@@ -35,7 +35,7 @@ Note: anything that wasn't specfically within scope of the User Stories or would
 
 
 ### Tasking
-Once again, anything that wasn't specifically within scope of the User Stories would be moved to __After Party__.  Also, tried to break the tasks up into logical grouping.
+Once again, anything that wasn't specifically within scope of the User Stories would be moved to __After Party__.  Also, tried to break the tasks up into logical grouping, and link out to tasks I created for them in Zenhub.
 * [Create Each SLA either as a metric or as a log](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/81307)
   * Ensure all SLAs are written to Datadog
 * [Develop document, host in github which explains each SLA](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/81310)
