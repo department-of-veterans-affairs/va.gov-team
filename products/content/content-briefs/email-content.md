@@ -6,9 +6,6 @@ Created by the sitewide content team for teams working on email content. This br
 - Send us a slack in #sitewide-content-ia.
 
 ## Subject line
-In VA Notify, the subject line will also appear as the H1 of the email. (Need to confirm this)
-
-Aim for a short subject line—no more than 9 words and 60 characters. (MailChimp suggestion)
 
 If the goal of the email is to prompt the Veteran to take an action, make the subject line a CTA.
 For example:
@@ -16,10 +13,12 @@ For example:
 
 ## Intro and closing
 The intro paragraph should state the most important information and make it clear what the Veteran needs to do.
+
 For example:
 We encourage you to review your dependent information on VA.gov once each year. This can help you avoid debt from benefit overpayments. And if you have new dependents to add, you may be eligible for increased benefit payments. Review your dependents online now.
 
 If there's no need for a more specific closing, use the general closing "Thank you" with no attribution to "VA.gov" or "the VA team."
+
 **Note:** Don't say "Thank you for your service" in the closing or anywhere in the email.
 
 ## Links
