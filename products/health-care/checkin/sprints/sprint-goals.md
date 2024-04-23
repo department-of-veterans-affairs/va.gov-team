@@ -154,7 +154,8 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
-        - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)    
+        - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
+        - ❗ 🟦 [Explore using CDW to access Consult Factors db table to find approved referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81122)
 - **GOAL: Make Travel Claims Easier** 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
