@@ -1,7 +1,11 @@
 This meeting is to discuss and address any dependencies between the VA Mobile Shared Systems teams and the Flagship teams that are using their systems.
 
 **Agenda/Notes**
-
+04/30/24
+* **This Meeting Format**
+   * We'd like to change this back to an SoS type meeting and invite the POs.  
+ 
+     
 04/16/24
 * **Q2 Planning**
    * Discuss Dependencies
