@@ -27,7 +27,8 @@ VA Notify supports hyperlinks, but we also spell out the URL so that Veterans ca
 Hyperlink the CTA link text. For example, "Pay your copay bill on VA.gov" 
 Follow general VA.gov guidance for link text. Include "on VA.gov" in link text, since we need to specify the destination when linking from an email.
 
-Add the full URL after the hyperlink with the text "Or copy and paste this link into your browser: [URL]" Include "https://www." so that the URL will work correctly if a recipient is on the VA network (a Veteran who is also a VA employee).
+- Add the full URL after the hyperlink with the text "Or copy and paste this link into your browser: [URL]" 
+- Include "https://www." so that the URL will work correctly if a recipient is on the VA network (a Veteran who is also a VA employee).
 
 This way, a Veteran can choose to copy and paste the URL into their browser for extra security, or they can select the hyperlink for ease of use. 
 For example:
