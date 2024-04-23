@@ -1,5 +1,10 @@
 # BTSSS on VA.gov Sprint Goals 
 
+## 4/22/2024 - 5/3/2024
+### Goals
+* Engineering: Finish the auth ping endpoint and finalize the Front-end (including the feature flag)
+* UX: Finish research interviews and compile a preliminary synthesis of research interviews
+
 ## 3/11/2024 - 3/22/2024
 ### Goals
 * Engineering: Develop work on the scaffold that reflects a full flow for the API
