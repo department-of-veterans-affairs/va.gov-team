@@ -19,7 +19,7 @@ The intro paragraph should state the most important information and make it clea
 For example:
 We encourage you to review your dependent information on VA.gov once each year. This can help you avoid debt from benefit overpayments. And if you have new dependents to add, you may be eligible for increased benefit payments. Review your dependents online now.
 
-If there's no need for a more specific closing, use the general closing "Thank you, VA.gov"
+If there's no need for a more specific closing, use the general closing "Thank you" with no attribution to "VA.gov" or "the VA team."
 **Note:** Don't say "Thank you for your service" in the closing or anywhere in the email.
 
 ## Links
