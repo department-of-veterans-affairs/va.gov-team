@@ -153,7 +153,7 @@ ________________________________________________________________________________
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
+        - ✔️ ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
         - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
         - ❗ 🟦 [Explore using CDW to access Consult Factors db table to find approved referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81122)
 - **GOAL: Make Travel Claims Easier** 
@@ -188,7 +188,7 @@ ________________________________________________________________________________
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
-        - 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
+        - ✔️ 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
 - **GOAL: Address Tech Debt**
     - 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
 
