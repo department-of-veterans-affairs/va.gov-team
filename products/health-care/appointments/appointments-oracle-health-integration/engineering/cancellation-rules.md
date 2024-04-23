@@ -54,9 +54,13 @@ A booked OH Appointment is cancellable by the patient, unless:
    booked appointments disabled.
 4. If the Appointment contains a Cerner 14249 scheduling appt type code that is configured as not schedulable.
 
-### Accessing Cerner Terminology Policy Service (CTPS)
+## VistA
 
-#### Staging / SQA
+TODO
+
+## Accessing OH Scheduling Policies (CTPS)
+
+### Staging / SQA
 
 Testers and developers can directly access all staging VAOS OH type of care policies from a browser on the VA network:
 https://veteran.apps-staging.va.gov/ctps/v1/serviceTypes/
@@ -78,10 +82,22 @@ Individual type of care policies can be accessed by appending the type of care V
 The staging list of Cerner 14249 scheduling appt type codes that are configured as not schedulable can be found at:
 https://veteran.apps-staging.va.gov/ctps/v1/serviceTypes/notCancellable
 
-#### Production
+### Production
 
 CTPS is not deployed in PROD yet.
 
-## VistA
+## Accessing VistA Scheduling Policies
 
-TODO
+### Staging / SQA
+
+Testers and developers can directly access all staging VAOS VistA type of care policies for a particular facility from a browser on the VA network:
+https://veteran.apps-staging.va.gov/facilities/v2/scheduling/configurations/984GA
+
+Replace 984GA with the desired VHA facility ID.
+
+### Production
+
+Testers and developers can directly access all production VAOS VistA type of care policies for a particular facility from a browser over the open internet:
+https://veteran.apps.va.gov/facilities/v2/scheduling/configurations/984GA
+
+Replace 984GA with the desired VHA facility ID.
