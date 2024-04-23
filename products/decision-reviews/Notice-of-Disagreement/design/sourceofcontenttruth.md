@@ -1026,7 +1026,7 @@ User tries to submit with missing/invalid information:
 Not enough PII to proceed with form:
 
     Header: We’re missing some of your personal information
-    Body: You’ll need to provide us with the missing information before you can fill out a Notice of Disagreement request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+    Body: You’ll need to provide us with the missing information before you can fill out a Notice of Disagreement request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your first and last name, Social Security number, and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ### In-line errors
 
