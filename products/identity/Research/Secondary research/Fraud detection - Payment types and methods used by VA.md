@@ -173,12 +173,6 @@ Source: Cinda Quatrini VBAVACO - email conversation
 
 
 
-
-Figure 1. System Architecture for EDU payments. EDU uses eMPWR to make STEM payments. 
-
-
-
-
 ## Fraud Detection and Prevention
 
 
@@ -913,10 +907,14 @@ Funds Usage:
 ![Edu Resource Flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4978a8d9-1857-435d-a4f9-d39ec80319ac)
 
 ![Edu Business System Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/320906fa-0f3f-4195-aca9-6e0e15734dfa)
+Figure 1. System Architecture for EDU payments. EDU uses eMPWR to make STEM payments. 
 
 ![Confirmed fraud $ by service](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/f0cc8090-32ce-4f54-8b08-fe71588e01d9)
 
 Table 2: Confirmed fraud amounts breakdown by VA Services.
+
+![Pie chart of fraud % breakdown by VA services in 2021](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/b8b74b1d-c5ef-4df9-96b5-dccce1b32bf8)
+
 
 [FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023](http://paymentaccuracy.gov/payment-accuracy-the-numbers/)
 
