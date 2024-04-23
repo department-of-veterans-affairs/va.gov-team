@@ -10,9 +10,11 @@
 
 [Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-19)
 
+[PROPOSED Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#proposed-copy-changes)
+
 [Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#current-nod-errors)
 
-[Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#email)
+[PROPOSED Email](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#proposed--email)
 
 # Board Appeals (Notice of Disagreement) Content Source of Truth
 
@@ -835,31 +837,37 @@ VA Form 10182 (Notice of Disagreement)
 
 Success alert:
 
-    Header: We’ve received your Board Appeal request
-    Body: After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
+    Header: You submitted your Board Appeal request on [date]
+    Body: We're currently processing your request. Intake may take 7 to 10 days. If your request is accurate and complete, your appeal will be in line for review, and your request will show up in your list of claims. 
 
-### Your information for this claim
+### Save a PDF copy of your Board Appeal
 
-#### Your name
-Veteran Name 
+If you'd like a PDF copy of your completed Board Appeal, you can download it now.
 
-#### Date you filed your claim
+Loading indicator: Generating your PDF. This may take a minute.
 
-Month Day, Year
+Download Link: Download a copy of your Board Appeal (PDF)
 
-#### Issue(s) for review
+### Print this confirmation page
 
-• My Issue
+If you'd like to keep a copy of the information on this page, you can print it now. 
 
-• Another Issue
-
-Button: **Print this for your records**
+Button: **Print this page**
 
 ### What to expect next
 
-You'll receive a confirmation email with a link to a copy of your completed form. These documents are for your records only. We ask that you don’t send us another copy of your form. 
+Your completed form will be submitted to the intake team. If your request is accurate and complete, you’ll be in line for review, and your request will show up in the status tool. Intake may take 7 to 10 days.
+
+Link: [Check your claims and appeals status online](https://www.va.gov/claim-or-appeal-status/)
 
 If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam or hearing for you.
+
+After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
+
+If you don’t hear back from us about your Board Appeal, don’t file another claim or request another type of decision review. Contact us online or call us instead.
+
+Link: [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+
 
 ### How to contact us if you have questions
 
@@ -869,13 +877,37 @@ You can ask us a question online through Ask VA.
 
 Or call us at 1-800-827-1000 (TTY:711).
 
-**If you don’t hear back from us about your Board Appeal**, don’t file another claim or request another type of decision review. Contact us online or call us instead. 
+## You submitted the following information for the Board Appeal
+### Personal information
+Name
 
-**Note:** You can request a hearing at any time during the decision review process. 
+VA File Number
 
-Button: [Check your Board Appeal Status online](#)
+Date of birth
 
-**Note:** It may take 7 to 10 days for your Board Appeal request to appear online.
+Are you experiencing homelessness?
+
+Mobile phone number
+
+Email address
+
+Mailing address
+
+### Issues for review
+Are you requesting an extension?
+
+Reason for extension
+
+Are you appealing denial of VA health care benefits?
+
+The issues you’re asking the board to review:
+
+### Board review options
+Select a Board review option:
+
+Uploaded evidence
+
+Action Link: [Go back to VA.gov](https://www.va.gov/)
 
 ---
 ## CURRENT NOD Errors
@@ -1056,11 +1088,9 @@ Dear ((first_name)),
 
 We’ve received your request for a Board Appeal (VA 10182).
 
-To check the status of your Board Appeal online.
+Your completed form will be submitted to the intake team. If your request is accurate and complete, you’ll be in line for review, and your request will show up in the claims and appeals status tool. Intake may take 7 to 10 days.
 
 [Check your Board Appeal status online](https://www.va.gov/claim-or-appeal-status/) 
-
-**Note:** It could take 7 to 10 days for your Board Appeal request to appear online.
 
 **Your Board Appeal details**
 
@@ -1068,23 +1098,22 @@ To check the status of your Board Appeal online.
 
 ((date_submitted))
 
-[Download a copy of your completed Board Appeal request (PDF)](#)
+**Issues for review:**
 
-**Note:** You'll need to sign in to access to this PDF. You can use this link for the next 10 days.
+((issues))
 
-These documents are for your records only. We ask that you don’t send us another copy of your form. 
+You will receive a confirmation by mail that includes a copy of your Board Appeal submission. These documents are for your records only. We ask that you don’t send us another copy of your form.
 
-If we need more information, we'll contact you. We’ll notify you once we've processed your Board Appeal. 
+If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam or hearing for you.
 
-If you have questions, you can contact us online through [Ask VA](ask.va.gov)
-
+If you have questions, you can contact us online through [Ask VA](https://ask.va.gov/)
 Or call us at 1-800-827-1000 (TTY:711).
 
 Thank you for your service, 
 
 VA.gov
 
-You're receiving this email because you filed a Board Appeal with VA. Don't reply to this email.
+You're receiving this email because you submitted a Board Appeal request with VA. Don't reply to this email.
 
 
 
