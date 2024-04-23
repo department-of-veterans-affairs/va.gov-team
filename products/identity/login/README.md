@@ -66,7 +66,11 @@ Historically, [the sign-in experience on VA.gov is one of the lowest-rated exper
 
 ### Backend infrastructure
 
-WIP
+- Development, management, and maintenance of authentication and login infrastructure
+- Support teams building identity and authentication-related integrations on the VA.gov platform
+- Monitoring of authentication services
+- Data reporting around login
+- Support resolution of login issues reported to our team, whether those issues can be solved by or team or need to be triaged to MPI or CSPs
 
 ### User-facing experience
 
