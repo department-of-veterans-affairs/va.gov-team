@@ -54,6 +54,8 @@ The secondary navigation will be implemented by adding a shared component to eac
 
 We considered implementing secondary navigation within the sitewide header component. However, we decided against this option to avoid the risk of broader performance or user experience impacts.
 
+The addition of the secondary nav component will require a single line of code in each loaction where it is added.
+
 ### Feature Toggles
 
 The MHV tools and landing page all have [feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L105-L120) that affect whether different parts of MHV-on-VA.gov appear, or what features are available. 
