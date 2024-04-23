@@ -7,6 +7,9 @@ We want to make sure we understand best practices and consequences around commun
 ## **Date** - March 4, 2024
 ## **Team** - Identity MFA
 
+[multi-channel-comm-research](https://dsva.slack.com/files/U05V3KZB53M/F06LN38NA2Z/va_multi-channel_communication_research_plan_v4__3_.pdf)
+[Comparative Analysis Messaging](https://dsva.slack.com/files/U05AK20G555/F06LT4U3XRS/synthesis-messaging-comparative-analysis.pptx)
+
 --------------
 
 --------------
