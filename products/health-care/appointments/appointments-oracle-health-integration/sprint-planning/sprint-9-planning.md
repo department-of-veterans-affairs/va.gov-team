@@ -25,14 +25,13 @@ This sprint, we implemented VetsAPI support for creating new appointment request
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
   * 🚧 🐞 [#81231 CES-404: Investigate Cerner search occasional test failure](https://issues.mobilehealth.va.gov/browse/CES-404) - in progress
-  * [ces-312: VPG: Allow cancellation of non-VAOS care types](https://issues.mobilehealth.va.gov/browse/CES-312)
   * [#81339 CES-427: VPG: Migrate to Mobile Framework V2](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81339)
-  * [#81349 CES-428 VPG: Update mapping to not set ID for VAOS appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81346)
   * [#81432 CES-318 CES: migrate to mobile-framework v2](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81432) 
 * 🟩 Add support for routing appointment requests to VetsAPI Patient Gateway
   * [#81348 Research options for adding mock appointment data to CES](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81348) 
 * 🟢 Appointment Requests
   * [#81032 CES-415 VPG: add facility classification check to appointment creation ](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81032)
+  * [#81349 CES-428 VPG: Update mapping to not set ID for VAOS appointments](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81346)
 * 🟩 🟦 SUB-GOAL Eligibility
   * [#81431 CES-423 CES: determine patient appointment eligibility at OH facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81431)
   * [#81345 CES-390 VPG: Implement Cerner patient validation for eligibility checks](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81345) 
