@@ -1,5 +1,7 @@
 # Single Sign-On Experience
 
+**Last Updated: 4.23.24**
+
 Single sign-on is reliant on our non-VA.gov partners enabling the functionality so it can work in all directions. Below is a table that shows whether someone will have a single sign-on experience depending on where they start:
 
 |If a person starts on...| and goes to... | are they logged-in (ie. sso)?| Notes|
