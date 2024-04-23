@@ -50,11 +50,9 @@ Primary Github artifacts:
 
 ### Secondary Nav Bar
 
-The secondary navigation could be implemented multiple ways in code to achieve the same user experience, but with different implications. We plan to integrate a shared component, but we should briefly discuss the sitewide header as an option.
+The secondary navigation will be implemented by adding a shared component to each app that requries it. Placed within the code at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
 
-We could implement secondary navigation in the sitewide header, near where primary navigation lives. This implies that code in the sitewide header component would need to control when the secondary nav appears based on feature flags and URL paths (some `/my-health` pages, such as certain form-flows, should _not_ display secondary navigation).
-
-However, we chose the shared component path. The shared component will need to be added to each app that requries it, and placed within the code at a particular location in the code in order to visually appear to be just below the primary navigation without any visible gap.
+We considered implementing secondary navigation within the sitewide header component. However, we decided against this option to avoid the risk of broader performance or user experience impacts.
 
 ### Feature Toggles
 
