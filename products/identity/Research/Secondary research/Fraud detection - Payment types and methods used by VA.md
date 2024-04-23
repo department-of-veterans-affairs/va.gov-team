@@ -705,6 +705,7 @@ The Cert is annotated as “Advance Payment Requested and Signature of Student o
 
 
 ## Advance Payments: Key Points
+
 Submission Timeline:
 Advance pay requests should be submitted 30 to 120 days before the begin date of the enrollment period.
 
@@ -715,18 +716,14 @@ The first month may be a partial month, prorated for the number of days attended
 
 Example:
 For a student certified from September 20, 2010 through June 10, 2011:
-Advance pay would cover September 20, 2010 through October 30, 2010.
-Subsequent checks would follow the regular payment schedule (e.g., payment for November in December).
+- Advance pay would cover September 20, 2010 through October 30, 2010.
+- Subsequent checks would follow the regular payment schedule (e.g., payment for November in December).
 
 Certification of Delivery:
 When an advance paycheck is issued, the next check won’t issue unless the Certification of Delivery (or the chapter 1606 generated letter with the same information) mailed to the school is received and processed by VA.
-If you receive a letter stating that a returned Certification of Delivery wasn’t received:
-Call VA (1-888-442-4551) and explain the issue to the Education Case Manager.
-Request the Education Case Manager to input the certification of delivery.
-
-
-
-
+If a user receives a letter stating that a returned Certification of Delivery wasn’t received:
+They should call VA (1-888-442-4551) and explain the issue to the Education Case Manager.
+ - Request the Education Case Manager to input the certification of delivery.
 
 
 ### Scholarship Fraud Awareness and Prevention
@@ -739,14 +736,14 @@ National Awareness Activities:
 The Secretary of Education, along with the Federal Trade Commission, maintains a scholarship fraud awareness site on the Department of Education’s website.
 
 The site includes:
-Materials from the Project Scholarscam awareness campaign.
-A list of convicted companies and individuals involved in scholarship fraud.
-An Internet-based message board for public complaints and experiences.
-An electronic comment form for reporting scholarship fraud.
-Internet links to other sources of information on scholarship fraud, including nongovernmental organizations, colleges, universities, and government agencies.
-A link to the Better Business Bureau for assessing business practices.
-Information on communicating with the Federal Student Aid Information Center.
-Promoting awareness and vigilance against scholarship fraud helps protect students and maintain the integrity of educational financial assistance programs
+- Materials from the Project Scholarscam awareness campaign.
+- A list of convicted companies and individuals involved in scholarship fraud.
+- An Internet-based message board for public complaints and experiences.
+- An electronic comment form for reporting scholarship fraud.
+- Internet links to other sources of information on scholarship fraud, including nongovernmental organizations, colleges, universities, and government agencies.
+- A link to the Better Business Bureau for assessing business practices.
+- Information on communicating with the Federal Student Aid Information Center.
+- Promoting awareness and vigilance against scholarship fraud helps protect students and maintain the integrity of educational financial assistance programs
 
 
 #### Fraud Report Findings 
@@ -921,7 +918,8 @@ Funds Usage:
 
 Table 2: Confirmed fraud amounts breakdown by VA Services.
 
-FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023
+[FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023](http://paymentaccuracy.gov/payment-accuracy-the-numbers/)
+
 
 
 
@@ -975,6 +973,7 @@ Govinfo. Scholarship Fraud, 9 November 2017, https://www.govinfo.gov/content/pkg
 knowva.ebenefits.va.gov/. “School Certifying Official Handbook (On-line).” knowva.ebenefits.va.gov/, 2024, https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000149088/School-Certifying-Official-Handbook-On-line#Enrolling_in_ACH_Direct_Deposit. Accessed 24 January 2024.
 OIT VA. “OIT and VA.gov.” OIT.gov, 2023, https://vaww.ea.oit.va.gov/vba-obi-bsm/. Accessed 29 February 2024.
 oversight.gov. OIG Reports, 2022, https://www.oversight.gov/sites/default/files/oig-reports/VA/VAOIG-22-01155-14.pdf. Accessed 29 February 2024.
+Payment Accuracy. “Annual Improper Payments Datasets.” PaymentAccuracy.gov, 2023, http://paymentaccuracy.gov/payment-accuracy-the-numbers/. Accessed 23 April 2024.
 VA.gov. “Change Your VA Direct Deposit Information | Veterans Affairs.” VA.gov, 21 February 2024, https://www.va.gov/change-direct-deposit/. Accessed 25 March 2024.
 VA.gov. “Life Insurance Dividend Payment Options | Veterans Affairs.” VA.gov, 22 January 2024, https://www.va.gov/resources/life-insurance-dividend-payment-options/. Accessed 29 February 2024.
 VA.gov. “Protecting Veterans From Fraud | Veterans Affairs.” VA.gov, 12 February 2024, https://www.va.gov/initiatives/protecting-veterans-from-fraud/. Accessed 29 February 2024.
