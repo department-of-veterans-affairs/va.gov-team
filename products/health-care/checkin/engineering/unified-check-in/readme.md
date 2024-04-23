@@ -330,12 +330,12 @@ To show the upcoming appointments in check-in experience pages, we have to call 
 
 The check_in module in vets-api will provide an Appointments resource for a user with a low-auth session to retrieve the upcoming appointments. We currently don't plan to implement any filters for appointment statuses or date range. By default, the endpoint will return all appointments in upcoming 13 months.
 
-`GET /appointments` - returns a list of upcoming appointments for the patient
+`GET /sessions/{uuid}/appointments` - returns a list of upcoming appointments for the patient
 
 - Sample Request
     
     ```
-    GET /check_in/v2/appointments/4dfae151-95f3-4b28-99e3-132caf033a44
+    GET /check_in/v2/sessions/4dfae151-95f3-4b28-99e3-132caf033a44/appointments
     ```
         
 - Sample Response
