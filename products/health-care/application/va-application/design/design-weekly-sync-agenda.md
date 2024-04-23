@@ -1,5 +1,28 @@
 # Design Weekly Sync Agenda
 
+## 2024-04-22
+Attendees: Angela, Hieu, Katelyn, Jessica, Kristen, Alex (briefly), and Emily (briefly).
+
+**OCTO**
+- Lois Luis will take over Kristen position as our main point-of-contact while Kristen takes additional OTCO responsibilities. 
+- Lois will join us for UX Sync, the HEC calls, the PO sync.
+- Emily wants to set up a demo for Lois.
+- Kristen will post an intro and indicate which meeting Lois will join in.
+
+
+**EZ TERA synthesis**
+- All participants think that they’ve been exposed to toxic material but not sure what qualifies. 
+  - Kristen notes that for the clinical reminder research (all the questions during a doctor visit), asbestos was brought up multiple times.
+- Kristen advised putting more information within the “key finding” since that is how others would most likely be skimming information.
+- ES cannot accept special characters in the text input but they’re aiming to roll that out during the summer 2024. Jessica to double check.
+- Kristen noted there is already a Veteran outreach team, reaching out to veterans without healthcare and PACT-like, and wonders if there is a way to integrate this info with the larger effort.
+- Kristen suggests talking to Danielle (Content) about VBA for overarching.
+- Hieu notes that we can be more transparent in the TERA info: say info will help the VA denote potential, definition may expand in the future.
+- Scrolling is a Form Library issue.
+- Jessica notes that at least 2 participants had to Google to clarify their service location and period. Kristen recommends adding a bullet point to the finding. 
+- Jessica/Kristen noted the slide deck used for the stakeholder is the same one with OCTO findings with certain slides turned off. Kristen recommends breaking the presentation into two parts and presenting with pictures.
+
+
 ## 2024-04-15
 Attendees: Angela, Hieu, Katelyn, Jessica, & Kristen.
 
