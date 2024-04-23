@@ -74,10 +74,10 @@ All in one file, on one tab
 | Week 17 Apr 21-Apr 27 | Leah De La Costa  | []() |  |
 | Week 18 Apr 28-May 04 | Leah De La Costa | []() |  |
 | Week 19 May 05-May 11 | Leah De La Costa | []() |  |
-| Week 20 May 12-May 18 |  | []() |  |
-| Week 21 May 19-May 25 |  | []() |  |
-| Week 22 May 26-Jun 01 |  | []() |  |
-| Week 23 Jun 02-Jun 08 |  | []() |  |
+| Week 20 May 12-May 18 | Peter Russo | []() |  |
+| Week 21 May 19-May 25 | Peter Russo | []() |  |
+| Week 22 May 26-Jun 01 | Peter Russo | []() |  |
+| Week 23 Jun 02-Jun 08 | Peter Russo | []() |  |
 | Week 24 Jun 09-Jun 15 |  | []() |  |
 | Week 25 Jun 16-Jun 22 |  | []() |  |
 
