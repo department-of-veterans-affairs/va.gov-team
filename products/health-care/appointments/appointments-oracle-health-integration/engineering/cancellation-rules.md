@@ -6,7 +6,7 @@ request is cancellable by the patient.
 An Appointment may be cancelled by the patient through VPG if it was returned from the service with the `cancellable`
 field set to `true`.
 
-```json
+```
 GET /vpg/v1/patients/{icn}/appointments?...
 
 {
