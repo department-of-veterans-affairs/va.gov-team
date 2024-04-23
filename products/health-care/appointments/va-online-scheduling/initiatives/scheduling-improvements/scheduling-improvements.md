@@ -114,13 +114,21 @@ Patient friendly names:
 ### Resources
 <details>
          
-<summary>Planning/documenting</summary>
+<summary>Planning</summary>
+
+[UX Plan: Scheduling improvements](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)
+
+</details>
+
+<details>
+         
+<summary>Doumentation</summary>
 
 - [Scheduling problem statements](https://docs.google.com/presentation/d/1YtBj0Vs2ne3eH-nz9wRyfEZ0tQ1ns99j3cQSn4xl8Ss/edit?usp=sharing)
-- [UX Plan: Scheduling improvements](https://docs.google.com/document/d/1dliQbhR3IiJqp0qLf43LBjyJKh1Fyq2Ndn0WT71gphU/edit?usp=sharing)
 - [20240304 VAOS OH Policy Discussion.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14670407/20240304.VAOS.OH.Policy.Discussion.pdf)
 - [Cerner Millennium Patient Self-Referral Direct Scheduling SOP - update_05302023- Signed.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14843268/Cerner.Millennium.Patient.Self-Referral.Direct.Scheduling.SOP.-.update_05302023-.Signed.pdf)
 - [FE logic for Choose a location page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/scheduling-improvements/FE-logic-find-a-location-page.md)
+- [OH Cancelation rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-oracle-health-integration/engineering/cancellation-rules.md)
   
 
 
