@@ -18,6 +18,7 @@ As the Identity Team becomes more of a platform team, we want to have more visib
 - [Using the Support Process Satisfaction Survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/support-survey.md)
 - [Identity Project Engagement Survey](https://docs.google.com/document/d/1Z-9dc39at7YhnbvhhIUwdpTQhqnShQLwOUyR8GUe_zg/edit#heading=h.pg22voz8eune)
 - [Identity GitHub Support Ticket Metrics](https://docs.google.com/document/d/1yDp3MgH9CTiU5G7vpH37PlBBOwkS-fug0DqowQL8xbY/edit#heading=h.e5rwxdvzce65)
+- [Identity Support Process Content Metrics Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-01%20Identity%20Support%20Process/research%20on%20content%20metrics.md)
 - [The Actual Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
 - [Optimal Workshop Account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/design/tools/optimal-workshop.md)
 - [Identity Support Survey Overview Page (Mock Data)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Optimal%20Results%20Overview.jpeg)
