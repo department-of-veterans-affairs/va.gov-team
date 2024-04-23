@@ -50,6 +50,7 @@ For this first iteration, the focus will be on:
 
 
 ## Out of Scope: (for this iteration)
+* Content Metrics
 * SLO Metrics
 * Service Level Agreements
 
