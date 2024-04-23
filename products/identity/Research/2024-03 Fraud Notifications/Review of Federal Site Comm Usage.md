@@ -15,39 +15,23 @@ For more information:
 
 --------------
 
-Table of contents
-Site-Wide Communication Tools for Federal Sites	1
-Notification Type Selection for Federal Site Communication	4
-Digital Communications to Veterans	5
-VA Notification Systems	5
-VANotify:	5
-VA Emergency Alerting and Accountability System (VA EAAS):	6
-VA Notification System (VANS):	6
-Can veterans receive notifications from other government agencies through VANotify?	6
-Graphs and Tables	7
-VANotify - Ensuring privacy and security	8
-Automatic Delivery:	8
-Communication Channels:	8
-Open-Source Foundation:	8
-Future Enhancements:	9
-VANotify - Adoption Rate	9
-Veteran Discussion Forums	11
-IRS.gov Communications	12
-IRS Communications - User Sentiment	13
-IRS Communication Methods	13
-QuickAlerts	14
-What Are the Benefits?	14
-QuickAlerts Library	15
-U.S. Department of Labor (DOL)	16
-Email Subscription Service	17
-Personalized Email Subscriptions	17
-UAC Architecture	20
+**Jump to**
+
+[Site-Wide Communication Tools for Federal Sites](#site-wide-communication-tools-for-federal-sites)
+[Notification Type Selection for Federal Site Communication](#notification-type-selection-for-federal-site-communication)
+[Digital Communications to Veterans](#digital-communications-to-veterans)
+[VA Notification Systems](#va-notification-systems)
+- VANotify
+- VA Emergency Alerting and Accountability System (VA EAAS)
+- VA Notification System (VANS)
+[Graphs and Tables](#graphs-and-tables)
+Veteran Discussion Forums	
+## [IRS Notifications](#irs-notifications)
+ - ## [Quick Alerts](#quick-alerts)
+## [Department of Labor](#department-of-labor)
 
 
-
-
-
-Site-Wide Communication Tools for Federal Sites
+## Site-Wide Communication Tools for Federal Sites
 
 Federal sites employ site-wide communication tools in various ways to reach their diverse user base and deliver crucial information effectively. 
 
@@ -74,48 +58,24 @@ Mobile Optimization: With increasing mobile usage, federal sites strive for mobi
 Low Engineering Lift:
 
 - Alerts and Notifications: Implementing basic pop-up alerts, banners, and targeted notifications often utilizes existing content management systems (CMS) features or third-party notification tools, requiring minimal custom development.
-Social Media Integration: Integrating existing social media feeds or widgets usually involves embedding code provided by the platforms, requiring minimal engineering effort.
-Content Management: Utilizing targeted content based on user data might require some development for filtering and personalization, but it can often leverage existing CMS functionalities.
+- Social Media Integration: Integrating existing social media feeds or widgets usually involves embedding code provided by the platforms, requiring minimal engineering effort.
+- Content Management: Utilizing targeted content based on user data might require some development for filtering and personalization, but it can often leverage existing CMS functionalities.
 
--Moderate Engineering Lift:
-Interactive Features: Implementing chatbots or virtual assistants requires significant development effort, including natural language processing (NLP) capabilities and integration with backend systems.
-Feedback Mechanisms: Creating robust feedback forms, surveys, and data analysis dashboards involve moderate development effort, depending on desired functionalities and data integration needs.
-Multilingual Support: Offering multiple languages requires translating content and potentially building language selection features, which can be time-consuming but manageable with existing translation tools.
+Moderate Engineering Lift:
 
-- High Engineering Lift:
-Mobile Optimization: Ensuring a fully responsive and user-friendly mobile experience often requires significant front-end and back-end development, particularly for complex websites with multiple features.
-Accessibility Features: Implementing comprehensive accessibility features like keyboard navigation, screen reader compatibility, and captioning requires in-depth knowledge of accessibility standards and additional development work.
+- Interactive Features: Implementing chatbots or virtual assistants requires significant development effort, including natural language processing (NLP) capabilities and integration with backend systems.
+- Feedback Mechanisms: Creating robust feedback forms, surveys, and data analysis dashboards involve moderate development effort, depending on desired functionalities and data integration needs.
+- Multilingual Support: Offering multiple languages requires translating content and potentially building language selection features, which can be time-consuming but manageable with existing translation tools.
+
+High Engineering Lift:
+
+- Mobile Optimization: Ensuring a fully responsive and user-friendly mobile experience often requires significant front-end and back-end development, particularly for complex websites with multiple features.
+- Accessibility Features: Implementing comprehensive accessibility features like keyboard navigation, screen reader compatibility, and captioning requires in-depth knowledge of accessibility standards and additional development work.
+
 Additional Factors:
-Existing infrastructure: Existing CMS capabilities, third-party integrations, and development team expertise can significantly impact the engineering effort required for each tool.
-Customization needs: The level of customization desired for each tool will influence the development effort.
 
-
-Notification Type Selection for Federal Site Communication
-Communication Type
-Best Notification Type(s)
-Justification
-Emergency Alerts
-Pop-up Alerts + Targeted Notifications (SMS, Mobile Push)
-High urgency, immediate attention required, reach specific user groups if needed
-Service Updates
-Banners + Targeted Notifications (Email, SMS)
-Moderate urgency, keep users informed but avoid overwhelming them
-News & Announcements
-Banners + Social Media Posts + RSS Feeds
-Informative updates, cater to diverse user preferences, offer long-term access
-Grant Opportunities
-Targeted Notifications (Email) + Social Media Posts
-Targeted audience, allow for detailed information and application links
-Public Hearings & Meetings
-Targeted Notifications (Email) + Website Calendar
-Inform specific stakeholders, provide event details and registration options
-
-Table 1: Justifications for best notification method selection for federal site communication types
-
-
-
-
-
+- Existing infrastructure: Existing CMS capabilities, third-party integrations, and development team expertise can significantly impact the engineering effort required for each tool.
+- Customization needs: The level of customization desired for each tool will influence the development effort.
 
 ## Veterans Affairs Notification Systems
 
@@ -147,6 +107,7 @@ An open-source approach allows re-use of foundational code, benefiting both the 
 The VA adapted this codebase to create VANotify, tailored to its specific needs.
 
 Future Enhancements: 
+
 - Currently focused on one-way notifications.
 - Has the potential to facilitate two-way communication between veterans and VA services (such as chatbots) in the future.
 - Major use cases include updates on prescription shipments and application submission confirmations.
@@ -173,21 +134,22 @@ Purpose: An emergency notification system (ENS) for all VA organizations.
 
 Notifications: Used for emergency alert notification requirements.
 
-
 **VEText**
 
-Purpose: An automated, interactive text message system used by the Department of Veterans Affairs (VA) to remind veterans of upcoming VA healthcare appointments. VEText enhances communication by delivering appointment reminders and updates directly to veterans’ mobile devices, allowing them to confirm or cancel appointments conveniently. 
+Purpose: An automated, interactive text message system used by the Department of Veterans Affairs (VA) to remind veterans of upcoming VA healthcare appointments. 
+VEText enhances communication by delivering appointment reminders and updates directly to veterans’ mobile devices, allowing them to confirm or cancel appointments conveniently. 
 
 Notifications: 
-Appointment Reminders:
-Each reminder includes:
-Date and time of appointment.
-Codes to use to confirm or cancel an appointment.
-To confirm or cancel, users can reply using the special codes provided.
-If the user doesn't reply, their appointment will remain scheduled.
-If their VA health facility unexpectedly closes, VEText may send the user a text to cancel their appointment.
 
-Note: VEText is free to use, but a user’s phone company may charge fees for text messages.
+Appointment Reminders:
+- Each reminder includes:
+  - Date and time of appointment.
+  - Codes to use to confirm or cancel an appointment.
+  - To confirm or cancel, users can reply using the special codes provided.
+  - If the user doesn't reply, their appointment will remain scheduled.
+  - If their VA health facility unexpectedly closes, VEText may send the user a text to cancel their appointment.
+
+*Note: VEText is free to use, but a user’s phone company may charge fees for text messages.*
 
 Getting Locations in Reminders:
 
@@ -231,16 +193,9 @@ There are future possibilities for facilitating two-way communication between ve
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/7f2bae4c-2857-4623-a19d-d4fdcc2fc50c)
 
-
-
-
 --------------
 
-## [IRS Notifications](#irs-notifications)
- - ## [Quick Alerts](#quick-alerts)
-## [Department of Labor](#department-of-labor)
 
---------------
 
 --------------
 
@@ -266,23 +221,21 @@ IRS.gov uses various communication methods to notify users about tax-related mat
 Email Notifications:
 
  - Purpose: IRS sends email notifications to inform users about account updates, tax changes, and other relevant information.
- - Example UI: [Email Notification](url)
+
 
 Online Account Alerts:
  - Purpose: Users receive alerts within their online accounts when there are changes or requests related to their tax records.
- - Example UI: [Online Account Alert](url)
+
 
 QuickAlerts for Tax Professionals:
  - Purpose: QuickAlerts provide real-time updates to tax professionals regarding events affecting e-file providers and issuers/payers.
- - Example UI: [QuickAlerts]()
 
 IRS Notices and Letters:
  - Purpose: The IRS sends notices and letters for various reasons, including balance due, refund adjustments, identity verification, and more.
- - Example UI: [IRS Notice]()
- - 
+
 Unemployment Compensation Notifications:
  - Purpose: Users receive notifications regarding unemployment compensation, tax implications, and reporting requirements.
- - Example UI: [Unemployment Compensation Notification]()
+
 
 --------------
 
@@ -306,7 +259,7 @@ QuickAlerts categories provide information on the Subscription Screen:
 
 6. Information Returns Intake System (IRIS) – Electronic specifications and system information needed for Issuers/Payers, Transmitters and Software Developers that electronically file non-Affordable Care Act (ACA) forms to the IRS.
 
-### **QuickAlerts Library**
+**QuickAlerts Library**
 
 - The library stores previously posted messages. 
 
