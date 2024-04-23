@@ -29,6 +29,8 @@ Veteran Discussion Forums
 ## [IRS Notifications](#irs-notifications)
  - ## [Quick Alerts](#quick-alerts)
 ## [Department of Labor](#department-of-labor)
+## [## Veteran Discussion Forums - Data Source](#veteran-discussion-forums---data-source)
+## [Works Cited](#works-cited)
 
 
 ## Site-Wide Communication Tools for Federal Sites
@@ -226,6 +228,11 @@ Email Notifications:
 Online Account Alerts:
  - Purpose: Users receive alerts within their online accounts when there are changes or requests related to their tax records.
 
+**IRS Comms - Tone**
+
+Note the friendly tone used by the IRS to inform account holders of QuickAlerts:
+    	“*Choose the categories that suit your needs, then sit back, relax, and let the news come to you through the convenience of email. Never miss another important notice or event. Be informed of what you need to know, when you need to know it.*”
+
 
 QuickAlerts for Tax Professionals:
  - Purpose: QuickAlerts provide real-time updates to tax professionals regarding events affecting e-file providers and issuers/payers.
@@ -267,6 +274,9 @@ QuickAlerts categories provide information on the Subscription Screen:
 
 - The library is updated once per month and contains the last 12 months of QuickAlerts Messages.
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/20d6e6c1-c27b-4f51-9669-44bcb4be86d2)
+
+
 --------------
 
 --------------
@@ -293,4 +303,44 @@ User Guides:
  - Managing profiles
  - Using the Notification Center.
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/cca28db9-8c90-4b0b-a813-7d21f3d8203e)
+
+## Veteran Discussion Forums - Data Source
+
+Veterans use various online forums and platforms to discuss a range of topics, including digital notifications about their accounts, especially those related to veterans' benefits and services. These may be used to gather information on sentiment toward specific communication methods.
+
+1. Veterans Affairs Official Forums: The U.S. Department of Veterans Affairs (VA) might host official forums or discussion boards for veterans to discuss their accounts and notifications.
+
+2. VetFriends: A community aimed at reconnecting service members. They have forums where discussions about veteran affairs can take place.
+
+3. HadIt.com: A veteran to veteran support website that includes forums where vets discuss a wide range of issues, including VA notifications and account management.
+
+4. Reddit: Subreddits like r/Veterans or r/VeteransBenefits allow for open discussion among veterans on various topics, including the digital aspects of account management.
+
+5. Veterans Benefits Network Forums: An online community where veterans discuss their benefits and experiences with the VA system, including digital notifications.
+
+6. Facebook Groups: There are numerous private and public groups on Facebook for veterans where members might discuss notifications and online account management.
+
+7. VFW (Veterans of Foreign Wars): The VFW may have online forums or digital communities associated with their website where veterans share information and discuss issues.
+
+8. Online Blogs and Comment Sections: Veteran-themed blogs regularly post about veterans' issues, and the comment sections can serve as de facto forums.
+
+
+
+
+
+## Works Cited
+
+Defense Media Network. “Defense and Military News.” Defense Media Network: Defense & Military News and History, 2024, http://defensemedianetwork.com/. Accessed 2 April 2024.
+Digital Veterans Affairs. “Digital VA News.” DigitalVA, 14 February 2024, http://digital.va.gov/. Accessed 2 April 2024.
+DOL.gov. “Email Subscription Service.” U.S. Department of Labor, 2024, https://www.dol.gov/general/email. Accessed 1 March 2024.
+Federal Register. “Federal Register.” Federal Register :: Home - Tuesday, April 2nd, 2024, http://federalregister.gov/. Accessed 2 April 2024.
+Federal Trade Commission. “FTC News.” Consumer Advice, 2024, http://consumer.ftc.gov/. Accessed 2 April 2024.
+IRS. “Unemployment Compensation | Internal Revenue Service.” IRS, 2024, https://www.irs.gov/individuals/employees/unemployment-compensation. Accessed 1 March 2024.
+Microsoft. “How User Account Control works - Windows Security.” Microsoft Learn, 31 May 2023, https://learn.microsoft.com/en-us/windows/security/application-security/application-control/user-account-control/how-it-works. Accessed 5 March 2024.
+Military.com. “Military.com Connections.” Military and Veteran Benefits, News, Veteran Jobs | Military.com, 2024, http://military.com/. Accessed 2 April 2024.
+Nevada Dept of Veterans Services. “Nevada Veterans News.” Nevada Department of Veterans Services - Serving Nevada's Heroes, 2024, http://veterans.nv.gov/. Accessed 2 April 2024.
+New England Healthcare System. “New England Healthcare System News.” VA New England Healthcare System, 2024, http://newengland.va.gov/. Accessed 2 April 2024.
+NextGov.com. “NextGov News.” Nextgov/FCW - Federal Technology News and Analysis for IT Managers & Acquisition Teams, 2024, http://nextgov.com/. Accessed 2 April 2024.
+VA News. “VA News and Info.” VA News and Information, 2024, http://news.va.gov/. Accessed 2 April 2024.
 
