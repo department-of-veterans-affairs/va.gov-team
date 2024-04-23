@@ -7,11 +7,19 @@
     - [ ] `/GetExpenseTypes`
     - [ ] `/GetExpenseItems`
     - [ ] `/AddMileageExpense` - this seems to map to the broader `/api/v1/claims` endpoint, is that right?
-    - [ ] `/GetAnnouncement`
+    - [ ] `/GetAnnouncement` - pulls portal maint announcments
   - [ ] Endpoint clarifications:
     - [ ] `/api/v1/auth/system-access-token` - what is this one used for?
-    - [ ] `/api/v1/claims/by-contact/{contactId}` - this doesn't appear to have one of the fields we were hoping: `clinicName`.
+      - [ ] Mobile check in - supporting low auth
+    - [ ] `/api/v1/claims/by-contact/{contactId}` - this doesn't appear to have one of the fields we were hoping: `clinicName`. API team workign on adding clinic name, working on refactoring to pull contact ID from tokn
 - [ ] Endpoint priorities
 - [ ] Deployed status
-  - [ ]  Is everything in the list Blaise provided deployed to dev and nonprod except the claims summary endpoint (``)?
-  - [ ]  Is everything in the swagger doc deployed to dev and nonprod?
+  - [ ]  Is everything in the list Blaise provided deployed to dev and preprod except the claims summary endpoint (``)?
+    - [ ]  yes, in dev, not yet preprod
+  - [ ]  Is everything in the swagger doc deployed to dev and preprod?
+    - [ ] Sample endpoints and probably tokens - Tim H will check
+
+Notes:
+- List from Blaise is the more recently worked on stuff
+- Swagger doc includes some of endpoint VA.gov team might need goign forward
+- https://va-veis-nprod-apim.nprod.veis.va.gov/api/btsss/travelclaim is preprod
