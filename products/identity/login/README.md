@@ -1,6 +1,6 @@
 # Product outline: VA.gov & Mobile App Login
 
-**Last Updated: April 22, 2024 -- created outline**
+**Last Updated: April 23, 2024 -- added overview and responsibilities for backend**
      
 ## Table of Contents
 
