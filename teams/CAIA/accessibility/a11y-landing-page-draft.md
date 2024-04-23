@@ -12,7 +12,7 @@ Page draft starts below:
 
 # Accessibility on VA.gov
 
-`version 1.0.0` `last updated 2/5/24`
+`version 1.0.0` `last updated 4/23/24`
 
 This page is meant to help researchers, designers, and developers working within OCTO understand how VA approaches accessibility. It’s also a useful evolving resource for new (and existing) VA accessibility specialists in order to understand the context of their work.
 
@@ -41,7 +41,7 @@ Our vision is for every disabled Veteran and caregiver to have guaranteed access
 
 ## Strategy and standards
 - Learn more about our [accessibility strategy](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy).
-- Find out what [experience standards](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/va-gov-experience-standards) a VA.gov product needs to meet before it launches.
+- Find out what [experience standards](https://design.va.gov/about/experience-standards/) a VA.gov product needs to meet before it launches.
     - Our standards are informed by the [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/glance/) (WCAG).
     - Components in the [VA Design System](https://design.va.gov/components/) document accessibility considerations. 
 - The [accessibility defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric) is our common language for determining the seriousness of an accessibility issue.
