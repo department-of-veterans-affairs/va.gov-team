@@ -21,9 +21,9 @@ We want to make sure we understand best practices and consequences around commun
 - [Notification Type Selection for Federal Site Communication](#notification-type-selection-for-federal-site-communication)
 - [Digital Communications to Veterans](#digital-communications-to-veterans)
 - [VA Notification Systems](#va-notification-systems)
- - VANotify
- - VA Emergency Alerting and Accountability System (VA EAAS)
- - VA Notification System (VANS)
+   - VANotify
+   - VA Emergency Alerting and Accountability System (VA EAAS)
+   - VA Notification System (VANS)
 - [Graphs and Tables](#graphs-and-tables)
 - [IRS Notifications](#irs-notifications)
  - [Quick Alerts](#quick-alerts)
