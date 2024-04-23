@@ -14,9 +14,9 @@ A compendium of currently open tickets that need to be closed for the Request & 
 
 ### Other tasks
 
-- [ ] [Fix issue template bug](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79917) (Engineering)
+- [x] [Fix issue template bug](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79917) (Engineering)
 - [ ] [Post-Intake Process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/76824) (Engineering)
-- [ ] [Add slack bot instructions to canvas](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79923) 
+- [x] [Add slack bot instructions to canvas](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79923) 
   (Engineering)
 - [ ] [Add canvas to identity channel](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79921) (Engineering)
 - [x] [Slackbot user documentation for GitHub](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/79906) (UX)
