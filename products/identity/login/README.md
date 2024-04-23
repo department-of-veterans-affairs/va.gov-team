@@ -23,7 +23,20 @@ Signing into VA.gov and the VA Health and Benefits mobile app relies on a robust
 
 ### The backend infrastructure
 
-Our backend infrastructure for authentication is supported by [single sign-on]() and [sign-in service]()
+Our backend infrastructure for authentication is supported by systems and services including the Master Person Index (MPI), [single sign-on](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/sso), [sign-in service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service), and our credential service providers.
+
+For more on identity and authentication, please view our [getting started guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#getting-started-with-identity).
+
+### Credential Service Providers (CSPs)
+
+Currently, the universal sign-in page support four CSPs:
+
+- ID.me
+- Login.gov
+- DS Logon
+- My HealtheVet
+
+CSPs are responsible for managing the actual credentials and identity verification processes that VA uses to match people to their VA records. This allows us to surface personalized information in peoples' VA.gov and mobile app accounts.
 
 ### User-facing experience
 
@@ -34,15 +47,6 @@ The user-facing sign-in experience covers all elements of the frontend experienc
 - Sign-in widgets found throughout VA.gov
 
 Historically, [the sign-in experience on VA.gov is one of the lowest-rated experiences on VA.gov](https://va-gov.domo.com/page/1030131175?userId=66061986). Over time, our team hopes to mitigate that and drastically improve the experience of signing into VA.gov.
-
-### Credential Service Providers (CSPs)
-
-Currently, the universal sign-in page support four CSPs:
-
-- ID.me
-- Login.gov
-- DS Logon
-- My HealtheVet
 
 ## User Problem Statement
 
