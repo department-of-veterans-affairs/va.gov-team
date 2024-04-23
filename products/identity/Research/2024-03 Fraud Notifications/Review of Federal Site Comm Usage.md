@@ -1,4 +1,4 @@
-**A Review of Federal Site Comm Usage - Best practices and consequences around communicating about possible fraud incidents**
+# **A Review of Federal Site Comm Usage - Best practices and consequences around communicating about possible fraud incidents**
 
 ### Description of UX Tasks (Ticket #77394)
 We want to make sure we understand best practices and consequences around communicating about possible fraud incidents, to prepare for drafting language and process flows around new fraud notifications
@@ -7,7 +7,7 @@ We want to make sure we understand best practices and consequences around commun
 ## **Date** - March 4, 2024
 ## **Team** - Identity MFA
 
-For more information:
+### For more information:
 
 [multi-channel-comm-research](https://dsva.slack.com/files/U05V3KZB53M/F06LN38NA2Z/va_multi-channel_communication_research_plan_v4__3_.pdf)
 
@@ -15,7 +15,7 @@ For more information:
 
 --------------
 
-**Jump to**
+## **Jump to**
 
 [Site-Wide Communication Tools for Federal Sites](#site-wide-communication-tools-for-federal-sites)
 [Notification Type Selection for Federal Site Communication](#notification-type-selection-for-federal-site-communication)
@@ -25,12 +25,11 @@ For more information:
 - VA Emergency Alerting and Accountability System (VA EAAS)
 - VA Notification System (VANS)
 [Graphs and Tables](#graphs-and-tables)
-Veteran Discussion Forums	
-## [IRS Notifications](#irs-notifications)
- - ## [Quick Alerts](#quick-alerts)
-## [Department of Labor](#department-of-labor)
-## [## Veteran Discussion Forums - Data Source](#veteran-discussion-forums---data-source)
-## [Works Cited](#works-cited)
+[IRS Notifications](#irs-notifications)
+ - [Quick Alerts](#quick-alerts)
+[Department of Labor](#department-of-labor)
+[## Veteran Discussion Forums - Data Source](#veteran-discussion-forums---data-source)
+[Works Cited](#works-cited)
 
 
 ## Site-Wide Communication Tools for Federal Sites
@@ -81,7 +80,7 @@ Additional Factors:
 
 ## Veterans Affairs Notification Systems
 
-**VANotify**
+### **VANotify**
 
 Purpose: VANotify is a paperless platform that offers veterans, their families, and caregivers a way to receive digital notifications related to their VA health care, benefits, and services.
 
@@ -120,7 +119,7 @@ The exact adoption rate is not explicitly mentioned in the literature.
 The adoption rate may vary by user segments.
 
 
-**VA Emergency Alerting and Accountability System (VA EAAS)**
+### **VA Emergency Alerting and Accountability System (VA EAAS)**
 
 Purpose: Used for alerting and accountability during emergencies.
 
@@ -130,13 +129,13 @@ Safety Status: Collects safety status information during emergencies.
 
 Enterprise-wide: Implemented across the VA.
 
-**VA Notification System (VANS)**
+### **VA Notification System (VANS)**
 
 Purpose: An emergency notification system (ENS) for all VA organizations.
 
 Notifications: Used for emergency alert notification requirements.
 
-**VEText**
+### **VEText**
 
 Purpose: An automated, interactive text message system used by the Department of Veterans Affairs (VA) to remind veterans of upcoming VA healthcare appointments. 
 VEText enhances communication by delivering appointment reminders and updates directly to veterans’ mobile devices, allowing them to confirm or cancel appointments conveniently. 
@@ -196,8 +195,6 @@ There are future possibilities for facilitating two-way communication between ve
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/7f2bae4c-2857-4623-a19d-d4fdcc2fc50c)
 
 --------------
-
-
 
 --------------
 
