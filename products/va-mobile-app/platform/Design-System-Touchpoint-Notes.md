@@ -6,7 +6,6 @@ Agenda:
 *   Discuss progress and risks 
 
 ## 4/25/24
-*   Feedback Survey results
 *   Design Token strategy
     *   Invite VADS to System Demo?
 
