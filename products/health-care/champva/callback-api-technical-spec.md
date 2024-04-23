@@ -5,15 +5,17 @@ Below is a living document that will be updated with specifics as changes are ma
 1. Create a DB table `ivc_champva_forms` with columns [UUID (auto-generated), email, first_name, last_name, form_number, file_name, form_uuid, s3_status, pega_status, created_at, updated_at] :white_check_mark:
    - Ex: [AUTO, "veteran@aol.com", "John", "Smith", "10-10D", "a0a9682e-04f2-44ad-85ca-99e2d9ff6a21_vha_10_10d.pdf", a0a9682e-04f2-44ad-85ca-99e2d9ff6a21, "200", "pending", AUTO, AUTO]
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80349 
-   - Code for this implementation: https://github.com/department-of-veterans-affairs/vets-api/pull/16367
+   - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16367
 
 3. Create a model called `IvcChampvaForm` to handle communication between the controller and database :white_check_mark:
    - Add validation on `email` as it will be unique and required
    - Add tests to ensure CRUD (Create, Read, Update, Delete) is functioning properly
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80872
-   - Code for this implementation is here: https://github.com/department-of-veterans-affairs/vets-api/pull/16387
+   - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16387
  
-4. Update the uploads_controller.rb to insert new rows, more if there are multiple files, like below (Don mentioned Burals team is doing something similar and will investigate):
+4. Update the `uploads_controller.rb` to insert new rows when uploading to PEGA's S3 bucket, more if there are multiple files.      
+   -  This action should happen after we hit S3 so we can properly record the S3 status
+   -  Example of INSERT:
    ```
    ::IvcChampvaForm.create!(
          form_uuid: @form_uuid,
@@ -21,7 +23,8 @@ Below is a living document that will be updated with specifics as changes are ma
          status: "Submitted"
        )
    ```
-   - Code for this TBD
+   - Ticket: TBD
+   - Code: TBD
 5. Add `post 'forms/process', to: 'forms#process'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
    - We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
      ```
