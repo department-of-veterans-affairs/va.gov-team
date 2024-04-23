@@ -17,19 +17,19 @@ We want to make sure we understand best practices and consequences around commun
 
 ## **Jump to**
 
-[Site-Wide Communication Tools for Federal Sites](#site-wide-communication-tools-for-federal-sites)
-[Notification Type Selection for Federal Site Communication](#notification-type-selection-for-federal-site-communication)
-[Digital Communications to Veterans](#digital-communications-to-veterans)
-[VA Notification Systems](#va-notification-systems)
-- VANotify
-- VA Emergency Alerting and Accountability System (VA EAAS)
-- VA Notification System (VANS)
-[Graphs and Tables](#graphs-and-tables)
-[IRS Notifications](#irs-notifications)
+- [Site-Wide Communication Tools for Federal Sites](#site-wide-communication-tools-for-federal-sites)
+- [Notification Type Selection for Federal Site Communication](#notification-type-selection-for-federal-site-communication)
+- [Digital Communications to Veterans](#digital-communications-to-veterans)
+- [VA Notification Systems](#va-notification-systems)
+ - VANotify
+ - VA Emergency Alerting and Accountability System (VA EAAS)
+ - VA Notification System (VANS)
+- [Graphs and Tables](#graphs-and-tables)
+- [IRS Notifications](#irs-notifications)
  - [Quick Alerts](#quick-alerts)
-[Department of Labor](#department-of-labor)
-[## Veteran Discussion Forums - Data Source](#veteran-discussion-forums---data-source)
-[Works Cited](#works-cited)
+- [Department of Labor](#department-of-labor)
+- [Veteran Discussion Forums - Data Source](#veteran-discussion-forums---data-source)
+- [Works Cited](#works-cited)
 
 
 ## Site-Wide Communication Tools for Federal Sites
