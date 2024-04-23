@@ -19,7 +19,7 @@
 
 ## Overview
 
-Signing into VA.gov and the VA Health and Benefits mobile app relies on a robust backend infrastructure, VA-supported user-facing experience, and credential service provider (CSP) support.
+Signing into VA.gov and the VA Health and Benefits mobile app relies on a robust backend infrastructure, user-facing experience, and credential service provider (CSP) support.
 
 ### The backend infrastructure
 
