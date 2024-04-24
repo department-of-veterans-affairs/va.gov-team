@@ -47,7 +47,7 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 ## Use Cases:
 
 - As a VA Team Member, I would like to see high-level data visualizations related to the status and performance of authentication services on VA.gov, so that I am provided with immediate, comprehensive information about the status of services that I am using. 
-- As a VA Team member, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
+- As a VA Team Nember, I would like to see service level agreements related to the status and performance of authentication services on VA.gov, so I can understand what to expect from those services.
 
 
 
