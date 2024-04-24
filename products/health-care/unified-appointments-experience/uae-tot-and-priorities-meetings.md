@@ -1,4 +1,4 @@
-# MONTHLY UX/PM STRATEGY MEETINGS
+# MONTHLY UNIFIED APPOINTMENTS EXPERIENCE TEAM OF TEAMS & PRIORITIES MEETINGS
 
 > Standard Topics (these will be discussed at each meeting)
 > - Teams' sprint status & dependencies
@@ -9,6 +9,11 @@
 > Frequency & Attendees
 > - Once a sprint for 1 hour in the middle of the sprint
 > - Representatives from each team that can speak to status & priorities
+
+> Artifacts
+> - [Appts Priorities]()
+> - [CIE Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
+> - [Cross-team Roadmap]()
 
 ______________________________________________________________________________________________________________________________________________________
 ## 4/24/2024
