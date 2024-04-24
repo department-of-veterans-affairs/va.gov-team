@@ -8,7 +8,8 @@ Target: Other va.gov product teams.
 This is a follow-up to the Login SLO project.
 
 ## Problem Statement: 
-We do not currently have any current Service Level Agreements for VA.gov logins, and publishing them -- as well as dashboards that visualize key data -- will help us monitor and improve the Veteran login experience.
+
+We do not currently have any current Service Level Agreements for VA.gov logins, and publishing them -- as well as dashboards that visualize the corresponding data -- for other VA.gov teams will help us monitor and improve the Veteran login experience on an ongoing basis. This will let other teams understand what to expect from us, as well as show our reliability in providing those services.
 
 ## Relevant Documents:
 * [Login SLA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713368063741/aa11d92e4c07e903a16f131550431ad5e5f1a41b?sender=8a524840-01a2-4b0a-b661-95ffcb149e9b)
@@ -21,8 +22,12 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 
 
 ## What's In Scope: 
-* Service Level Objectives
+* Service Level Data Visualizations
   * Determining what data to display on the SLO dashboards for VA.gov teams.
+    * Logging in
+    * Data Display
+    * Staying Logged in
+    * Logging Out
 * Service Level Agreements
   * Creating the SLA for VA.gov teams
   * Determining how to publish the agreements to VA.gov teams
