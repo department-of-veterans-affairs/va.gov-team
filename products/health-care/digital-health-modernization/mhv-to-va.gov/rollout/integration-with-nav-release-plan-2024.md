@@ -15,7 +15,8 @@ MHV-on-VA.gov UX will include:
 - Tool breadcrumbs will link back to MHV-on-VA.gov landing page
 - The MHV-on-VA.gov landing page will include information about the new functionality on VA.gov
 
-Primary Github artifacts:
+Primary artifacts:
+- [IA (info architecture) Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713450017254/6daf1f320cba1054fdfd840e4a7c881dda87120c?wid=0-1713461062826) covering changes for the integration
 - Cartographers epic: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80402)
 - Main UX design ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74454)
 - Implementation ticket for this release: [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80401)
