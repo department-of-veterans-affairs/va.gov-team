@@ -31,4 +31,9 @@
 - What are your requirements for the digital form in terms of branching logic? Since we ask for service dates before the TERA questions, we could only asked applicable questions based on those dates. Could there be any edge cases or negative consequences to branching logic based on service dates?
 - What efforts do you know of to target specific groups of Veterans who may be eligible, such as Veterans who were deployed during the Vietnam War?
 
+**Documents**
+
+- Can HEC access Veteran documents in eFolder if they've already uploaded them to VA.gov on other forms, like the 526 disability form?
+- Can we have specific document upload pages based on the Veteran's cohort, which can be determined by TERA responses?
+
 ## Decisions made
