@@ -21,9 +21,10 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 
 ## CAIA Resources
 1. [Content source of truth - Sharepoint](https://dvagov.sharepoint.com/:f:/s/SitewideCAIA/EpKqFTllvlxOkDwz2iFgveAB9PjkKVIrJu_TUAkQPbsU0g?e=L92kpF)
-2. [Redirects and Entry Point Plan - Sharepoint](https://dvagov.sharepoint.com/:w:/s/SitewideCAIA/EXzlPiBgEiBKmYFApzlvs2oBxVQhSWag-nxboeMTNRLnNQ?e=I7Rpfu)
+2. [Entry Point Tracker - Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B11D63FFC-ABED-4D32-BBBE-E92FC16428B2%7D&file=2023.12.11%20ARM%20entry%20points%20tracker.xlsx&action=default&mobileredirect=true)
 3. [IA source of truth - Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/manage-accredited-representative.md)
-4. [A11y review log - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility/Deliverables/Benefits%20Representation%20Management)
+4. [IA redirect plan - Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B203EE57C-1260-4A20-9981-40A7396FB36A%7D&file=0.0%20Redirect%20plan.docx&action=default&mobileredirect=true)
+5. [A11y review log - Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility/Deliverables/Benefits%20Representation%20Management)
 
 ## ARM Team Members
 
