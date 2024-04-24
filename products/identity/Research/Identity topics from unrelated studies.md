@@ -67,7 +67,7 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 ### Study name: Ask VA: Submit an inquiry (Round 1)
 - **Team/Researcher:** Ask VA, Tyler Gindraux
 - **Date:** February 2024
-- **Link to study:** [Findings]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Findings.md))
+- **Link to study:** [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Findings.md)
 - **Takeaway**: Many Veterans shared issues they have with signing in. One participant mentioned being 'kicked out' and having to sign back in, sometimes multiple times in a day. Another participant shared that their son, who is under 18, needed to fill out a GI Bill form. But they weren't able to (or didn't think they were able to) create their own sign in credential/account without a state-issued ID:
 
 > "There is never anything that says, 'Remember this device.' There have been times where I've had to log in multiple times during the day and every time I got to wait on that doggone secure access code verification code, whatever you want to call it. I mean, this is a desktop computer. I'm not taking it anywhere. I'm mobility challenged. That kind of stuff, not being able to just click it to sign in. Remember this device."
