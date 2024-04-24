@@ -81,3 +81,20 @@ Below is a living document that will be updated with specifics as changes are ma
    After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
 8. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
 9. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
+10. Example of a payload that DOCMP PEGA will post into our API endpoint:
+    {
+  "Swagger": {
+    "IvcChampvaForm": {
+      "ivc_champva_form_params": {
+        "email": “joe.vet@gi-joe.com",
+        "first_name": “Joe”,
+        "last_name": “Vet”,
+        "form_number": "10-10D",
+        "file_name": “123e4567-e89b-12d3-a456-426614174000_vha_10_10d.pdf",
+        "form_uuid": "123e4567-e89b-12d3-a456-426614174000",
+        "s3_status": 200,
+        "pega_status": “200”
+      }
+    }
+  }
+}
