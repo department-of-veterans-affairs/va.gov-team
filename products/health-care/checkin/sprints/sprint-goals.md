@@ -120,7 +120,7 @@ ________________________________________________________________________________
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
             - Is it too soon to do this?
 - **GOAL: Address Tech Debt**
-    - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
+    - 🟩 [Details Page: Don't Show Labels when Data is Not Available ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81541)
     - **Sub Goal: DevOps Improvements**
         - TBD
 </details>
