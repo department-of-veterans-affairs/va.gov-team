@@ -18,7 +18,6 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 * [Public Facing SLO Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-df6fa7bc92140323ffecbf4e10b16346?refresh_mode=sliding&from_ts=1710016052679&to_ts=1712608052679&live=true)
 * [Branding Exercise](https://docs.google.com/presentation/d/1Q3WnJY-0fJ3HcuYNptZnAbJaWUGK3FGCkvH19AJYFJo/edit#slide=id.g2c630c18cda_1_141)
 * [Accessibility and Maintenance Standards for Federal Site Availability Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/2024-03%20Accessibility%20and%20federal%20regulation%20compliance%20with%20dashboards.md)
-* [Content Research For Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
 * [Authentication status internal communication for VA teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md)
 
 
