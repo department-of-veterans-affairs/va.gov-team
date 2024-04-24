@@ -16,7 +16,7 @@ All the new toxic exposure related fields will be wrapped in a top-level JSON no
  - otherExposures
  - otherExposureDetails
  - specifyOtherExposures
- - toxicExposureConditions
+ - conditions
 
 Example:
 
@@ -79,7 +79,7 @@ Example:
             "startDate": "1991-03-01",
             "endDate": "1992-01-01"
           },
-          "toxicExposureConditions": {
+          "conditions": {
             "deviatedseptum": true
           }
       }
