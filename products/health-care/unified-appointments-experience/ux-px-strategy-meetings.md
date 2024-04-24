@@ -12,24 +12,13 @@
 
 ______________________________________________________________________________________________________________________________________________________
 ## 4/24/2024
-- Attendees
 - Special Topics
     - Review new cross-team roadmap from OCTO
 - Parking Lot Items                
 - Action Items
-- Recording
-______________________________________________________________________________________________________________________________________________________
-## 4/10/2024
-- Attendees
-- Topics
-    - Standard Metrics (single dashboard)
-    - Weekly collaboration on metrics via our new channel [unified-appointment-experience](https://dsva.slack.com/archives/C06RMRJCLHH)
-    - Needs for the Vet EPS iniative
-        - Short research study on low-fi userflow? 
-    - Cross-team research needs    
 ______________________________________________________________________________________________________________________________________________________
 ## 3/27/2024    
-- Topics
+- Special Topics
     - Identify and undo cross-team roadblocks, e.g., shift priorities (and recap the decisions made in Slack to Kay after the meeting, or in some document)
     - Identify research needs cross-team and identify quick plan for who might have the capacity or cross-team capacity (and, again, report out decisions)
 - Action Items
@@ -38,7 +27,7 @@ ________________________________________________________________________________
     - Lori will leave the meeting for every 2 weeks but expand to 1 hour (DONE)
 ______________________________________________________________________________________________________________________________________________________
 ## 3/13/2024
-- Topics
+- Special Topics
     - What do we need this meeting to be (ideas captured in this [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710267783859/5206e79b0dd495b26f773cae3e489e3594489c40?sender=uc584f7fcc9a5090000259578))
 - Next meeting
     - Identify and undo cross-team roadblocks, e.g., shift priorities (and recap the decisions made in Slack to Kay after the meeting, or in some document)
