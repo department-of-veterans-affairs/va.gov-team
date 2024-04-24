@@ -26,10 +26,8 @@ There is not currently an experience on VA.gov for Veterans to understand their 
 ### Key Performance Indicators (KPIs)
 1. % of user logins after widget prompt _Is our widget providing a compelling reason for users to login?_
     1. Broken out by page _Are users more compelled to login to the widget on certain pages/contexts?_
-2. % users with representation who complete a search using our Find a Representative tool _What % of users with appointed or pending representation are interested in new representation?_
-    1. Broken out by appointed vs. pending statuses _Are users interested in replacing existing representation or re-applying for different representation?_
-3. % users with current representation who download a form using our Appoint a Representative tool _What % of users with appointed or pending representation are interested in new representation?_
-    1. Broken out by appointed vs. pending statuses _Are users interested in replacing existing representation or re-applying for different representation?_
+2. % users with representation who complete a search using our Find a Representative tool _What % of users with appointed representation are interested in new representation?_
+3. ~% users with current representation who download a form using our Appoint a Representative tool _What % of users with appointed representation are interested in new representation?_~ Revisit when Appoint MVP is released
 
 ### Baseline KPI Values
 1. Number of user logins after widget prompt per week/month _measuring growth_
@@ -40,10 +38,10 @@ There is not currently an experience on VA.gov for Veterans to understand their 
     1. **Key Result**: Increase in sign-ins based on a widget prompt (KPI #1)
 2. **Objective**: The widget helps authenticated users understand if they have pre-existing representation that they can go to for support
     1. **Key Result**: We see a high bounce and/or exit rate on Find a Representative for authenticated users with existing representation
-    2. **Key Result**: We see a high bounce and/or exit rate on Appoint a Representative for authenticated users with existing representation
+    2. ~**Key Result**: We see a high bounce and/or exit rate on Appoint a Representative for authenticated users with existing representation~ Revisit when Appoint MVP is released
 3. **Objective**: The widget helps authenticated users avoid replacing a current representative or re-applying for an appointment that is already in progress
     1. **Key Result**: Reduced usage of Find a Representative for users that already have existing representation (KPI #2)
-    2. **Key Result**: Reduced usage of Appoint a Representative for users that already have existing representation (KPI #3)
+    2. ~**Key Result**: Reduced usage of Appoint a Representative for users that already have existing representation (KPI #3)~ Revisit when Appoint MVP is released
 
 ---
 
