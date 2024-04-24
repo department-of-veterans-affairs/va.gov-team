@@ -1040,6 +1040,16 @@ Not enough PII to proceed with form:
 
     missingPrimary: You must choose a primary phone number
 
+    Phone Number: "You must enter a 10 digit phone number"
+    
+    Phone Number: "This field should be at least 10 character(s)" (when < 10)
+    
+    Phone Number: "We can’t make this update because we currently only support U.S. area codes. Provide a U.S.-based phone number." (type in all zeros)
+    
+    Extension: "Enter a valid extension up to 6 digits."
+ 
+    Email: "Enter your email address, using this format: X@X.com"
+
 ### Reason for extension
 
     You must provide a reason if you're requesting an extension
