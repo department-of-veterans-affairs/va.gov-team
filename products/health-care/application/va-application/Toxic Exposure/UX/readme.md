@@ -15,10 +15,11 @@
 
 5. We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.
 
-## Decisions made
+## Recommendations
 
 - We should revisit content updates commented in Figma since the release when executing on version 2 of TERA
-- 
+- We should revisit the flow starting with the service dates and branching off using conditional logic
+  - We can show how document upload can vary based on responses placing them into Cohort 1, 2, or 3
 
 ## Questions for stakeholders
 
@@ -29,3 +30,5 @@
 - Since we heard a lot of feedback about training, what kind of toxic exposures that may have occurred during training are worth a Veteran's time to report?
 - What are your requirements for the digital form in terms of branching logic? Since we ask for service dates before the TERA questions, we could only asked applicable questions based on those dates. Could there be any edge cases or negative consequences to branching logic based on service dates?
 - What efforts do you know of to target specific groups of Veterans who may be eligible, such as Veterans who were deployed during the Vietnam War?
+
+## Decisions made
