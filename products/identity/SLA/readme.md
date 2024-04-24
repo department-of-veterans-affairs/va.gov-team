@@ -3,13 +3,13 @@
 ## Overview: 
 Publishing the Service Level Agreement (SLA) targets we want to hit for Veterans logging into VA.gov. with the ultimate goal of continuously improving the login process to VA.gov. This maps to _O1KR2: VA.gov authentication SLOs are developed._
 
-Target: Other va.gov product teams.
+While our audience for these are other VA.gov product teams, the SLA themselves should explain why each one is important to Veterans logging into VA.gov.
 
 This is a follow-up to the [Login SLO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md) project.
 
 ## Problem Statement: 
 
-We do not currently have any current Service Level Agreements for VA.gov logins, and publishing those agreements -- alongside dashboards that visualize the corresponding data -- for other VA.gov teams will help us monitor and improve the Veteran login experience on an ongoing basis. It will also allow other teams understand what to expect from us, as well as show our reliability in providing those services.
+We do not currently have any current Service Level Agreements for VA.gov logins, and publishing those agreements -- alongside dashboards that visualize the corresponding data -- for other VA.gov teams will help us monitor and improve the Veteran login experience on an ongoing basis. It will also allow other teams understand what to expect from us, as well as show our professionalism reliability in providing those services.
 
 ## Relevant Documents:
 * [Product Refinement Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Product%20Refinement.md)
