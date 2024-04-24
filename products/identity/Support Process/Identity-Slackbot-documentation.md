@@ -25,7 +25,7 @@ To get in touch with our engineers or product managers, submit a support request
         - Select **Register service configuration** if you’re building a service authentication integration and you’re ready to start building.
         - Select **Register client configuration** if you’re building a user authentication integration and you’re ready to start building.
     - **Data request:** request user data or authentication metrics.
-    - **Pull review request:** provide a link to your PR, and confirm that your changes have been tested.
+    - **PR review:** provide a link to your PR, and confirm that your changes have been tested.
     - **Other:** select this option for all other types of support requests.
 
 ### Enter your contact information
