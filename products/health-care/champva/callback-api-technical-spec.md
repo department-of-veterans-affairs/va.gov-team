@@ -82,7 +82,8 @@ Below is a living document that will be updated with specifics as changes are ma
 8. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
 9. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
 10. Example of a payload that DOCMP PEGA will post into our API endpoint:
-    {
+    ```
+ {
   "Swagger": {
     "IvcChampvaForm": {
       "ivc_champva_form_params": {
@@ -96,5 +97,6 @@ Below is a living document that will be updated with specifics as changes are ma
         "pega_status": “200”
       }
     }
+   }
   }
-}
+```
