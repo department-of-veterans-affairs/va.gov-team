@@ -37,11 +37,6 @@
   - A verb
   - Ending punctuation
 
-_For discussion: What should we do about our approach to bullets with no periods and sometimes phrases rather than complete sentences?_
-
-| Like this | Not like this |
-|---|---|
-|  |  |
 
 _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD EXAMPLE]
 
