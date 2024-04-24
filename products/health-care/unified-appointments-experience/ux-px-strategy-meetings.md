@@ -10,8 +10,6 @@
 > - Once a sprint for 1 hour in the middle of the sprint
 > - Representatives from each team that can speak to status & priorities
 
-<details>
-<summary>4/24/2024</summary>
 ______________________________________________________________________________________________________________________________________________________
 ## 4/24/2024
 - Attendees
@@ -20,10 +18,6 @@ ________________________________________________________________________________
 - Parking Lot Items                
 - Action Items
 - Recording
-</details>
-
-<details>
-<summary>4/10/2024</summary>
 ______________________________________________________________________________________________________________________________________________________
 ## 4/10/2024
 - Attendees
@@ -33,10 +27,6 @@ ________________________________________________________________________________
     - Needs for the Vet EPS iniative
         - Short research study on low-fi userflow? 
     - Cross-team research needs    
-</details>
-
-<details>
-<summary>3/27/2024</summary>
 ______________________________________________________________________________________________________________________________________________________
 ## 3/27/2024    
 - Topics
@@ -46,10 +36,6 @@ ________________________________________________________________________________
     - Kristen will create a cross-team channel (DONE)
     - Lori will query Anita on our research travel budget for the contract (DONE)
     - Lori will leave the meeting for every 2 weeks but expand to 1 hour (DONE)
-</details>
-
-<details>
-<summary>3/13/2024</summary>
 ______________________________________________________________________________________________________________________________________________________
 ## 3/13/2024
 - Topics
@@ -57,4 +43,4 @@ ________________________________________________________________________________
 - Next meeting
     - Identify and undo cross-team roadblocks, e.g., shift priorities (and recap the decisions made in Slack to Kay after the meeting, or in some document)
     - Identify research needs cross-team and identify quick plan for who might have the capacity or cross-team capacity (and, again, report out decisions)
-</details>
+
