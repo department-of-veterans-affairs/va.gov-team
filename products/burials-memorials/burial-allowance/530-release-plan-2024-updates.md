@@ -176,11 +176,12 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 10
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: No
+- Types of errors logged:
+  -  Selected Tribal Land Does not populate the pdf #81372
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage B: 25% of users
 
