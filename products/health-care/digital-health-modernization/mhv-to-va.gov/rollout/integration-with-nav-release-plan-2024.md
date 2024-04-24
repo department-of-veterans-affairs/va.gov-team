@@ -55,7 +55,7 @@ The MHV-on-VA.gov secondary navigation will be implemented by adding a shared co
 
 We considered implementing secondary navigation within the VA.gov sitewide header component. However, we decided against this option to avoid the risk of broader performance or user experience impacts.
 
-The addition of the secondary nav component will require a single line of code in each loaction where it is added.
+The addition of the secondary nav component will require a single line of code in each location where it is added.
 
 ### Feature Toggles
 
