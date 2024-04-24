@@ -60,8 +60,15 @@ Who sees the information?
 Platform’s Service Design Team (SDT) analyzes the collected data from submissions to present to Platform leadership and Platform teams for measuring progress and guiding improvements.
 /platformfeedback
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/a0a3ce01-04b1-455c-80f7-12e581a66b08)
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/8948d996-eb0e-4990-b46e-cc9d34b716b7)
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/31488c8b-c1f6-4043-a153-e9dba584f169)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/0f460142-6ded-4950-b275-f5dcf788d85f)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/009bb855-fff9-47cc-9d7e-f3dca92d46dd)
 
 https://va-gov.domo.com/page/1729270793
 
