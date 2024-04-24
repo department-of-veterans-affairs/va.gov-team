@@ -75,7 +75,7 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 ## Milestones:
 * SLA are agreed-upon.
 * SLA are published
-* Other teams are notifiec
+* Other teams are notified
   
 
 
