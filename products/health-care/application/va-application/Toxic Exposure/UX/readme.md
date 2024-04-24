@@ -3,7 +3,7 @@
 ## Summary
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2024-04-ToxicExposure-UsabilityStudy)
   
-### April 2024 Research - Key findings:
+## April 2024 Research - Key findings:
 
 1. Most Veterans have been or believe they have been exposed to toxic materials in the military, but they don't know if it qualifies as "toxic exposure."
 
@@ -15,11 +15,11 @@
 
 5. We uncovered some usability issues that were missed since the TERA project timeline didn't allow for a full research study until post-launch.
 
-### Decisions made
+## Decisions made
 
-### Questions for stakeholders
+## Questions for stakeholders
 
-**HEC**
+### HEC
 - Will HEC update the PDF version of the form to reflect the the updated Priority group 6 based on VHA request (week of 3/25)?
 - The [priority group list](https://www.va.gov/health-care/eligibility/priority-groups/) includes "atmospheric testing" and "the occupation of Hiroshima and Nagasaki or Enewetak Atoll." - Should those be added to the cleanup and response efforts question?
 - Can we further clarify what types of potential toxic exposure on the "Other toxic exposures" page would impact a Veteran's priority group and are truly worth a Veteran's time to report?
