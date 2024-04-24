@@ -1,29 +1,20 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
-### Sprint goals 
-- **Expedited**
- - **2023 Prioritized Work**
-    - 526ez sync with paper version 
-       - Toxic Exposure
-         - [ ] JSON schema refactor #80718
-         - [ ] Continue build on TE pages - Gulf War 1990 / 2001 / Herbicides Page ???
-         - [ ] generatePdf hook up #80773
-         - [ ] Other work towards first iteration
-         
-- **2024 Prioritized Work**
-   - Improvement in Submission and Post Submission Experience
-      - Ask UXers/Designers
-  - Sync for form 526
-      -  Kate is working identify the highest priority work that can begin and has no tech discovery
-      -  Pick up the highest priority item
-          
-- **Stretch Goal**
-    - Audit for 526ez and ancillary forms for all paper to digital form changes
-          - [ ] Complete technical discovery and review with stakeholders
-          - [ ] Create tickets in the backlog for updates identified
+### Sprint goals
 
+- **Toxic Exposure**
+  - Veteran can establish a claim and insert a Form526 version 2022 PDF with conditions filled out in column 2 and the checkbox for 15A is checked in their file in VBMS
+  - Stretch goal: conditions validation
+
+- **Paper Form Sync**
+  - Design mocks for missing question and link to digital form
+
+- **Submission  & Post-Submission**
+  - Map future state success path within our domain
+  - Determine technical feasibility for failure paths - Mike & Evelyn
 
 ## Sprint 29
 Period - 04/10/2024 - 04/23/2024
