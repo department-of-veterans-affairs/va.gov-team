@@ -26,11 +26,11 @@ Below is a living document that will be updated with specifics as changes are ma
    ```
    - Ticket: TBD
    - Code: TBD
-5. Add `post 'pega/update_status', to: 'pega#update_status'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
+5. Add `post '/v1/ivc_champva_forms/status_updates', to: 'pega#update_status'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
    - We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
      ```
      {
-       "uuid": "12345678-1234-5678-1234-567812345678",
+       "form_uuid": "12345678-1234-5678-1234-567812345678",
        "file_names": ["file1.pdf", "file2.pdf"],
        "status": "processed"
      }
