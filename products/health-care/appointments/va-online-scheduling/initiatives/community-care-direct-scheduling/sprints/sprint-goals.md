@@ -1,5 +1,5 @@
 # SPRINT GOALS (aka SPRINKLES) 
-🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
+🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over :roller_skate:
 
 <details>
 <summary>FUTURE SPRINT - 5/15/2024 - 5/28/2024 </summary>
