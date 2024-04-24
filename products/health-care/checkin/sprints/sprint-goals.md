@@ -130,6 +130,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
+    - **Sub Goal: Support the ATO**
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
 - **GOAL: Make Travel Claims Easier**
@@ -151,6 +152,8 @@ ________________________________________________________________________________
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
+    - **Sub Goal: Support the ATO**
+        - ❗ 🟩 [Create PCI Threat Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - ✔️ ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
