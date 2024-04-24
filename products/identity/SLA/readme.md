@@ -5,7 +5,7 @@ Publishing the Service Level Agreement (SLA) targets we want to hit for Veterans
 
 Target: Other va.gov product teams.
 
-This is a follow-up to the Login SLO project.
+This is a follow-up to the [Login SLO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md) project.
 
 ## Problem Statement: 
 
