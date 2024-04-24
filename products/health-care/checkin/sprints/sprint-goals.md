@@ -194,6 +194,7 @@ ________________________________________________________________________________
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
         - ✔️ 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
 - **GOAL: Address Tech Debt**
+    - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
     - 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
 
 ______________________________________________________________________________________________________________________________________________________
