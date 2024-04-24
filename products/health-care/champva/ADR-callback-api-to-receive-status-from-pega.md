@@ -2,7 +2,7 @@
 ## Callback API between VA and PEGA
 **Date:** 4/23/2024
 
-**Status:** Accepted(?)
+**Status:** Accepted
 
 ### Context
 The VA (IVC CHAMPVA) and PEGA are collaborating to develop a callback API that facilitates communication between their systems. The callback API will handle asynchronous notifications from PEGA and store the data in `vets-api`.
@@ -25,6 +25,22 @@ The IVC CHAMPVA forms on VA.gov will send forms and supporting documents to an s
 
 ### Decision
 After evaluating the requirements and considering the pros and cons of each option, the engineering team has decided to use a traditional relational database (e.g., PostgreSQL) as the data storage solution for the callback API. This decision also came easily after discussing other solutions with members of the platform team.
+
+#### Database Structure Proposed
+```
+create_table :ivc_champva_forms do |t|
+   t.string :email
+   t.string :first_name
+   t.string :last_name
+   t.string :form_number
+   t.string :file_name
+   t.uuid   :form_uuid
+   t.string :s3_status
+   t.string :pega_status
+
+   t.timestamps
+ end
+```
 
 ### Rationale
 _Data Persistence and Durability_: Relational databases offer strong data persistence and durability guarantees compared to in-memory data stores like Redis (Platform told us there was a limit on how long data would persist). This ensures that callback requests and associated metadata are reliably stored, even in the event of system failures or restarts.
