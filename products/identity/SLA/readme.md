@@ -64,7 +64,7 @@ We do not currently have any current Service Level Agreements for VA.gov logins,
 | Issue         | Notes         | 
 | ------------- |:------------- | 
 | Language when publishing the SLA |   Would like UX help in crafting the publishing language          |
-| Veterans who don't speak tech | How do we ensure they understand what they might be seeing? |
+
 
 
 ## Measuring Success:
