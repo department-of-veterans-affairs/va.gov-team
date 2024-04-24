@@ -27,7 +27,7 @@ Ideally, account information is included in the confirmation when a Veteran rece
      - [design ticket for this work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80985)
 
 ## Next steps
-- Julie will let us know what steps we could offer to a veteran to remedy the situation
+- Julie will let us know what steps we could offer to a veteran to remedy the situation [[answer](https://dsva.slack.com/archives/C909ZG2BB/p1713966702240269?thread_ts=1713366073.342689&cid=C909ZG2BB)]
 - Laura will work on content needs once we know more from Julie
   - Potential content needs here: 
     - Note on this profile screen explaining the scenario and any next steps they can take
