@@ -17,6 +17,9 @@
 
 ## Decisions made
 
+- We should revisit content updates commented in Figma since the release when executing on version 2 of TERA
+- 
+
 ## Questions for stakeholders
 
 ### HEC
