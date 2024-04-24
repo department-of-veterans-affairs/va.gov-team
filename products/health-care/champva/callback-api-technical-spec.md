@@ -18,14 +18,15 @@ Below is a living document that will be updated with specifics as changes are ma
    -  Example of INSERT:
    ```
    ::IvcChampvaForm.create!(
-         form_uuid: @form_uuid,
-         file_name: @file_name,
-         status: "Submitted"
-       )
+      form_uuid: @form_uuid,
+      file_name: @file_name,
+      status: "Submitted"
+      ... 
+    )
    ```
    - Ticket: TBD
    - Code: TBD
-5. Add `post 'forms/process', to: 'forms#process'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
+5. Add `post 'pega/update_status', to: 'pega#update_status'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
    - We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
      ```
      {
@@ -34,60 +35,49 @@ Below is a living document that will be updated with specifics as changes are ma
        "status": "processed"
      }
      ```
-   - Define a callback endpoint (ex: config/routes.rb):
-     ```
-     Rails.application.routes.draw do
-     post '/status_updates', to: 'status_updates#receive' 
-     # ... existing routes
-     end
-     ```
-   - TBD
-6. Define the Callback URL. Within the configuration of our external service for PEGA, we will need to specify the URL of the callback endpoint. Example: https://api.va.gov/ivc-pega-updates
-   - TBD
-7. Create a new controller to handle the request from PEGA. Could look something like this if we want to validate via bearer token. We can also wrap anything we'd like it a DataDog trace.
+   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80948
+   - Code: TBD
+6. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
    - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication
+   - We will want to return `{status: 200}` or `{status: 500}`
    - Example:
     ```
-    class FormsController < ApplicationController
-      before_action :authenticate_request
+    class PegaController < ApplicationController
+      # skip_before_action :authenticate (By default there is auth, uncomment this to make it public)
     
-    def receive
-      request_id = params[:request_id]
-      status = params[:status]
-
-      status_request = StatusRequest.find_by(request_id: request_id)
-      if status_request
-        status_request.update(status: status)
-        render json: { message: 'Status updated successfully' }, status: :ok
-      else
-        render json: { error: 'Status request not found' }, status: :not_found
-      end
-   end
-    
-      private
-    
-      def authenticate_request
-        token = request.headers['Authorization']
-        unless valid_token?(token)
-          render json: { error: 'Unauthorized' }, status: :unauthorized
+      def update_status
+         begin
+          # Parse the JSON data
+          data = JSON.parse(json_data)
+      
+          # Validate JSON structure
+          unless data.is_a?(Hash)
+            return JSON.generate({ status: 500, error: 'Invalid JSON format: Expected a JSON object' })
+          end
+      
+          # Your logic to determine the status code
+          if some_condition(data)
+            response = { status: 200 }
+          else
+            response = { status: 500 }
+          end
+      
+          # Convert the response to JSON format
+          json_response = JSON.generate(response)
+      
+          # Return the JSON response
+          return json_response
+        rescue JSON::ParserError => e
+          # Handle JSON parsing error
+          return JSON.generate({ status: 500, error: "JSON parsing error: #{e.message}" })
         end
-      end
-    
-      def valid_token?(token)
-        # Logic to validate bearer token
-        # For example, you might use JWT gem for token validation
-        # Return true if token is valid, false otherwise
-        # Example:
-        # JWT.decode(token, Rails.application.secrets.secret_key_base, true, algorithm: 'HS256')
-        true # Replace with your validation logic
-      rescue JWT::DecodeError
-        false
       end
     end
     ```
-   - TBD 
-8. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
+   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80948
+   - Code: TBD
+7. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
    send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
    After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
-9. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
-10. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
+8. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
+9. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
