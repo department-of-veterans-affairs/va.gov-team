@@ -28,7 +28,7 @@ This brief will help your team create content for your product that aligns with 
 
 | Word or phrase | How we use this term | Notes | Where to find related language we use to define or describe this term in Veteran communications | Official content style guide status | Date term added/last updated |
 | -------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| VR&E | Veteran Readiness and Employment (VR&E), formerly called VA Vocational Rehabilitation and Employment. This program is also known as Chapter 31. | This term lives primarily in the Career hub, but there's crossover in the Education hub | [VR&E page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | Not in style guide |  |
+| VR&E | Veteran Readiness and Employment (VR&E), formerly called VA Vocational Rehabilitation and Employment. This program is also known as Chapter 31. | This term lives primarily in the Career hub, but there's crossover in the Education hub. In the 2024 education audit, SMEs noted that many Veterans know this term as Chapter 31. | [VR&E page](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply/) | Not in style guide - may need to look at current search data before standardizing and adding it |  |
 
 
 ## Content considerations specific to this topic
