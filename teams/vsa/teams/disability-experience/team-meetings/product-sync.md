@@ -1,5 +1,14 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: April 25th' 2024  
+- Working w team Carbs to distrbute work and further increase collaboration
+-    FF work
+-    ensuring veteran UX continuity in the event of any system update or change (TE rollout, 526 updates, system rollback, etc.)
+- im interested in the update on your meeting regarding team 2 scrubbing in on TE support, and have a question about how we're approaching it
+- It is possible/feasible to test locally with staging endpoints? We call this 'Local submit'
+
+
+
 ### Date: Jan 18' 2024       
 ### Participants: Rakshinda, Austin, Emily, Steve 
 ### Topics Covered:
