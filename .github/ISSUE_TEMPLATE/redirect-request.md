@@ -27,7 +27,7 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 - [ ] We are removing a temporary redirect  (add relevant background and link to original redirect request)
 
 ### Implementation date
-When does this request need to be live?
+When does this request need to be live? **NOTE:** Redirects deploy M-Th. Friday launches should be avoided.
 Choose one:
 - [ ] On a specific date, connected to a program or publishing requirement. **DATE:**
 - [ ] Any day prior to a deadline/latest possible date. **DEADLINE:** 
