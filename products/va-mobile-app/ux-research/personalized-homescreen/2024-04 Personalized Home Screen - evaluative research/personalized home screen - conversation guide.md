@@ -29,7 +29,6 @@ Validate the participant uses the VA Health and Benefits app and get permission 
   * First, we’ll download and install a special version of the VA mobile app on your mobile device to use during our conversation. Then, we’ll talk together before moving to a part where I’ll ask you to use that special version of the VA mobile app. I will help you get it set up. Before we do that, I want to confirm a few things:
     * Were you able to join our session today using Zoom on your iPhone or iPad?
     * Are you still ok with downloading & installing a special version of the VA mobile app on your phone today?
-    * Were you able to check to make sure you had enough room on your phone to download and install it?
     * Last, we are going to need you to be able to log into the VA mobile app using the option you prefer (Login.gov, ID.me or My HealtheVet) with your username and password for our session. Will you be able to do that?
   * Finally, is it ok if I record the audio of our session today? Our team will use this as backup in case we need to refer to something you said. The recordings will be destroyed after.
   * **If for any reason and at any time you want to stop the session, please let me know. Any minutes you spend with us are valuable today. You will not be penalized in any way if we need to stop. Just let me know at any point if you’re uncomfortable continuing, and we will end.**
