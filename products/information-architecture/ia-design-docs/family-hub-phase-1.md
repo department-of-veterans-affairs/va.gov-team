@@ -131,8 +131,7 @@ For phase 1, each subhub will feature links and a short description to the follo
       - Mental health care: https://www.va.gov/health-care/health-needs-conditions/mental-health/
       - VA Dental Insurance Program: https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/
       - Camp Lejeune: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#benefits-for-families-who-live
-      - Spina Bifida: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
-      - Children of women vietman veterans: https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp
+      - Benefits for birth defects linked to Agent Orange: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
   - **Get - Additional benefits or services(H3)**
       - Tricare: *Build out R&S page to link to on this program*
       - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
