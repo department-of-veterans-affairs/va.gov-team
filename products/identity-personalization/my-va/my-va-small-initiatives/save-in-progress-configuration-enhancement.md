@@ -19,6 +19,7 @@
 - [Problems](#problems)
 - [Solution approach](#solution-approach)
 - [User Outcomes](#user-outcomes)
+- [Impact](#impact)
 - [Security](#security)
 - [Measuring Success](#measuring-success)
 - [Key deliverables](#key-deliverables)
@@ -56,6 +57,14 @@ The process to have digital forms configured properly to be able to appear as dr
 
 ### Undesired User Outcomes
 We break the configuration process.
+
+## Impact
+The SiP configuration is critical for any team managing digital forms. We will need to communicate this configuration change widely so that teams will understand the impact.
+
+1. For digital forms that are already configured properly and are appearing as intended as drafts on My VA in the Benefit Application Drafts section, the teams that own/manage those forms do not need to do anything once we implement this enhancement. In other words there is no impact to existing properly configured forms.
+2. For newly digitized forms or forms that are not displaying as intended (as drafts on My VA in the Benefit Application Drafts section), these teams need to be made aware that a change to the configuration process occurred. The [platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) on this config will be updated once implemented, announced in Team of Teams and on Slack.
+
+_More scenarios to come pending further technical discussion._
 
 
 ## Security
