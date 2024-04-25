@@ -10,6 +10,8 @@
  - QA and Release PM has an open door for any concerns, thoughts, needs
  - Monitor Slack / Comment for @ messages and respond timely
  - Unable to attend related meetings please decline the invite
+ - Ticket conversations to be had in public channels like va-mobile-app-qa and not individual DMs
+ - Send back tickets that don't have enough information 
 
 ## Ticket Management 
 - **Proactively be aware of the tickets that are assigned to you** 
@@ -46,7 +48,9 @@
  - **Slack threads need to be in public channels**
    - Please do not use personal DMs when discussing tickets
    - Post questions and have conversations in our va-mobile-app-qa channel
- - **When working off hours / days - post updates before signing off**
+ - **When working off hours / days / before PTO - post updates before signing off**
    - Reduce waiting time on figuring out the latest updates
-   - Post in va-mobile-app QA and tag appropriate teams    
+   - Post in va-mobile-app QA and tag appropriate teams
+ - **Document testing in appropriate tools and or ticket**
+   - Post release need ability to see what was specifically tested  
 
