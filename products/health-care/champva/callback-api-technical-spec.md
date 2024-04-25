@@ -37,6 +37,24 @@ Below is a living document that will be updated with specifics as changes are ma
      ```
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80948
    - Code: TBD
+     
+   - Example of a payload that DOCMP PEGA will post into our API endpoint:
+   Swagger example:
+   ``` {"Swagger": {
+    "IvcChampvaForm": {
+      "ivc_champva_form_params": {
+        "email": “joe.vet@gi-joe.com",
+        "first_name": “Joe”,
+        "last_name": “Vet”,
+        "form_number": "10-10D",
+        "file_name": “123e4567-e89b-12d3-a456-426614174000_vha_10_10d.pdf",
+        "form_uuid": "123e4567-e89b-12d3-a456-426614174000",
+        "s3_status": 200,
+        "pega_status": “200” } }
+   ```
+    -Ticket: https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/80952
+   
+
 6. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
    - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication
    - We will want to return `{status: 200}` or `{status: 500}`
@@ -83,20 +101,5 @@ Below is a living document that will be updated with specifics as changes are ma
 9. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
 10. Example of a payload that DOCMP PEGA will post into our API endpoint:
 
-``` {
-  "Swagger": {
-    "IvcChampvaForm": {
-      "ivc_champva_form_params": {
-        "email": “joe.vet@gi-joe.com",
-        "first_name": “Joe”,
-        "last_name": “Vet”,
-        "form_number": "10-10D",
-        "file_name": “123e4567-e89b-12d3-a456-426614174000_vha_10_10d.pdf",
-        "form_uuid": "123e4567-e89b-12d3-a456-426614174000",
-        "s3_status": 200,
-        "pega_status": “200”
-      }
-    }
-   }
-  }
+
 
