@@ -16,6 +16,7 @@ Live page for context: [Fry scholarship](https://www.va.gov/education/survivor-d
 - The page has no broken links
 - Text links that take the user to an external page (not on VA.gov) have purpose and target, in that order ([Request a transfer of benefits through milConnect](https://milconnect.dmdc.osd.mil/milconnect/))
 - The content is free of ability-focused language (view, walk, see, hear) **Note:** We allow "show" and "appear" when talking about evidence related to disability compensation.
+- Add relevant words to content brief. 
 ## SME review
 **Name:** Cinda Quattrini  
 **Method of gathering feedback:** Verbal feedback in meetings
