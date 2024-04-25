@@ -95,7 +95,7 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 
 ## URLs and links to other pages
 
-- [ ] Links to pages that aren't translated include the phrase "(en inglés)" as part of the link. **Note:** This is a specific 508 requirement.
+- [ ] Links to pages that aren’t translated include (in English) as part of the link. This should then be translated into the language of the page. **Note:** This is a specific 508 requirement.
 
 | Like this | Not like this |
 |---|---|
