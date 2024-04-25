@@ -91,7 +91,8 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 - [ ] Lead-ins to bulleted lists are complete sentences.
 - [ ] In bulleted lists, each list item is parallel in construction.
 - [ ] In bulleted lists, each list item is a complete sentence wherever possible. There may be exceptions when a phrase or single word makes sense.
-- [ ] Dates are written in non-numeric format.
+- [ ] Dates are written in non-numeric format.(e.g. April 16, 2024, or January 2, 1980).
+
 
 ## URLs and links to other pages
 
