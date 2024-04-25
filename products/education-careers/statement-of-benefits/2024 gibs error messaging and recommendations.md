@@ -4,7 +4,7 @@ April 2024
 ---
 
 ## Error / Error Messaging
-Status: In Progress    
+Status: Dev to launch  
 Mockups: [Figma](https://www.figma.com/file/fY52BhHs0EI9ODWrqKZnZV/GI-Bill-Statement-of-Benefits?type=design&node-id=52%3A1612&mode=design&t=K9LfE3IQAM24IuF8-1) “Error Messaging Mockups”
 
 **Summary:**
@@ -14,7 +14,7 @@ Mockups: [Figma](https://www.figma.com/file/fY52BhHs0EI9ODWrqKZnZV/GI-Bill-State
   2) System failure (general)
   3) Benefit tool is not available, based upon 5 parameters (In processing, sign in name mismatch, no application, ineligible, family member or dependent)
 * Mockups were created to match the errors we were able to define. CAIA approved messaging.
-* **Next steps:** IIR in process of implementing designs
+* **Next steps:** IIR in process of launching fixes
 
 ## Content Updates / Restructuring
 Status: Design/Recommendations Complete    
@@ -29,7 +29,7 @@ Mockups: Figma “[Additional Tickets](https://www.figma.com/file/fY52BhHs0EI9OD
   2) TTY Link for deaf and hard of hearing users - [Ticket 79972](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79972)
         * Added to the mockups
         * This is a small adjustment that just needs to be added to the “Need Help” component.
-* **Next steps:** These are minor content and restructuring changes that could be implemented in the interim to a full content audit. IIR does not currently have the capacity to execute on changes. 
+* **Next steps:** These are minor content and restructuring changes that could be implemented in the interim to a full content audit. IIR does not currently have the capacity to execute on changes. Additionally, CAIA noted that the Enrollment History may also supposed to be showing something other than a summary card component (i.e. a list of enrollment history); however, the staging users we were able to use to show the benefits page vs the error only had the summary box. There's a potential for an issue there, but we don't have the visibility.
 
 ## Information Architecture / URLS
 Status: CAIA working on audit; assistance required for some changes    
@@ -50,4 +50,6 @@ Additional Information: “[Staging Screenshots](https://www.figma.com/file/fY52
 
 ---
 
-Updated: Liza McRuer, IIR, April 17, 2024
+Updated:    
+Liza McRuer, IIR, April 25, 2024 - Added information about the Enrollment History summary box as a potential error; updated status on error messaging   
+Liza McRuer, IIR, April 17, 2024 - Creation of file
