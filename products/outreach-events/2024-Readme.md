@@ -2,12 +2,14 @@
 
 ### Problem Statement
 
-In 2024, the IIR team was [tasked to continue improving the Outreach Events calendar with following goals:](https://docs.google.com/presentation/d/1jBBKx4NOKzdF-hy5dHL0xWNh_3Sn3OX0o5F9ndBuIVk/edit#slide=id.g26b980664ac_0_0) 
+In 2024, the IIR team was [tasked to continue improving the Outreach Events calendar with following goals:](https://github.com/department-of-veterans-affairs/va.gov-team/files/15122372/Team.Intro.-.Outreach.and.Events.pdf)
+
 
 - Increase usability of Veteran facing sites with the intention of increasing attendance for Veterans
 - Increase event creation and distribution by improving the event creator user experience
 
-They reviewed past research and designed wireframes to explore new ideas. In preparing for usability testing, a technical review showed [the need to adjust the page's structure](https://docs.google.com/presentation/d/1qbSN0OauCrwmPpGshjtsFH756QNcR2h_FnNT0zQinhY/edit#slide=id.g2bf46f5dfbd_0_81) to support functions like location-based features – requiring a handoff with the Platform team.
+They reviewed past research and designed wireframes to explore new ideas. In preparing for usability testing, a technical review showed
+[the need to adjust the page's structure](https://github.com/department-of-veterans-affairs/va.gov-team/files/15122384/Outreach.Events.Next.Steps.pdf) to support functions like location-based features – requiring a handoff with the Platform team.
 
 ### Background
 
