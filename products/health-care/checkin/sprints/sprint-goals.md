@@ -156,7 +156,7 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
         - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: Support the ATO**
-        - ❗ 🟩 [Create PCI Threat Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
+        - ✔️ ❗ 🟩 [Create PCI Threat Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - ✔️ ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
@@ -168,7 +168,7 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
     - **Sub Goal: Discovery - Check Travel Eligibility**
-        - 🟥 [Travel: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
+        - ✔️ 🟥 [Travel: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
         - 🟥 [Travel: Create Final Wireframes for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
@@ -186,7 +186,8 @@ ________________________________________________________________________________
         - 🟩 [[FE] Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/80942)
         - ✔️ 🟩 [[FE] Add Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/64635)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)           - 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
+        - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
+        - ✔️ 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - ~🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)~
         - 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
@@ -197,7 +198,7 @@ ________________________________________________________________________________
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
         - ✔️ 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
 - **GOAL: Address Tech Debt**
-    - 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
+    - ✔️ 🟨 [[DevOps] Update BTSSS endpoint to use fwdproxy in staging ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72263)
 
 ______________________________________________________________________________________________________________________________________________________
 
