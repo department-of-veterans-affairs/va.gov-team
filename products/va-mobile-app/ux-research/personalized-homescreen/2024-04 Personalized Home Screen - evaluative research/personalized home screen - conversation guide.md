@@ -64,7 +64,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
    * *Participant will be on Sign In screen—confirm that version number at bottom of the screen is #.#.#. If it’s not, try again to get the build installed.* 
  * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. When we get there, we’ll stop and do some warm up questions before using the app.
  * **Log in:** First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
-   * ***If they can’t download successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
+   * ***If they can’t log in successfully, [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes).***
  * **If the next screen is Touch ID:** Tap “Skip” and then stop at the next screen (it will be the first screen of the onboarding carousel). 
  * **If the next screen Onboarding:** Ok, stop here.
 
