@@ -91,7 +91,7 @@ ________________________________________________________________________________
         - ❗ TBD
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - ❗ 
+        - ❗ TBD
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
         - ❗ 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
@@ -103,9 +103,10 @@ ________________________________________________________________________________
         - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - 🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72620)            
         - 🟩 [Integrate with the New CES Modality Service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
+        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
         - 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
         - 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
@@ -114,8 +115,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
-        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
-        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+        = 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
