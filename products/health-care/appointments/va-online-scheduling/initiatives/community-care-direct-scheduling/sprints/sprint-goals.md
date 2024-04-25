@@ -60,7 +60,7 @@ ________________________________________________________________________________
         - [[Content] Draft content for first draft of hi-fi wireframes for scheduling flow (not including Appointment Notifications)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81498)
         - [[Design] Create tablet-size hi-fi mock ups](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81287)
     - **Sub Goal: [Feature] Unmoderated research study #81512**
-        - [[RESEARCH] Spike: determine low-fi or tree test research study]9https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
+        - [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
     - **Sub Goal: [Feature] CC DS Appointment Notifications Hub#812111a**
         - [Revise Access Review based on feedback from Clint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team-sensitive/1631)
         - [[FE] Build out appointment notifications card types](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81213)
