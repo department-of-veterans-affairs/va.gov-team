@@ -31,27 +31,10 @@ Below is a living document that will be updated with specifics as changes are ma
      ```
      {
        "form_uuid": "12345678-1234-5678-1234-567812345678",
-       "file_names": ["file1.pdf", "file2.pdf"],
+       "file_names": ["12345678-1234-5678-1234-567812345678_vha_7959F1.pdf", "12345678-1234-5678-1234-567812345678_vha_7959F2.pdf"],
        "status": "processed"
      }
-     ```
-   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80948
-   - Code: TBD
-     
-   - Example of a payload that DOCMP PEGA will post into our API endpoint:
-   Swagger example:
-   ``` {"Swagger": {
-    "IvcChampvaForm": {
-      "ivc_champva_form_params": {
-        "email": “joe.vet@gi-joe.com",
-        "first_name": “Joe”,
-        "last_name": “Vet”,
-        "form_number": "10-10D",
-        "file_name": “123e4567-e89b-12d3-a456-426614174000_vha_10_10d.pdf",
-        "form_uuid": "123e4567-e89b-12d3-a456-426614174000",
-        "s3_status": 200,
-        "pega_status": “200” } }
-   ```
+  
     -Ticket: https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/80952
    
 
