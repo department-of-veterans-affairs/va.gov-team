@@ -23,6 +23,7 @@ Live page for context: [Fry scholarship](https://www.va.gov/education/survivor-d
 ### Feedback/comments
 [Add feedback from SMEs]
 ## Flesch-Kincaid grade-level scores (with no prep)
+We calculated the Flesch-Kincaid grade level scores by copy-pasting the text of each page, from the H1 down to the end of the text (just above the "Back to top" jump link), into a Microsoft Word document. We used the automated feature in Word's Editing tab to generate the score.
 **Before audit updates:**  
 **After audit updates:**
 ## Some quotes from the OMB memorandum relevant to the purpose of this audit
