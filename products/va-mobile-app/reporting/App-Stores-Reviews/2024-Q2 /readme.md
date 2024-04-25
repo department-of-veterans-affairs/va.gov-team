@@ -1,4 +1,4 @@
-# 2024 Q4 Summary VA Mobile App Store Reviews
+# 2024 Q2 Summary VA Mobile App Store Reviews
 **April 1 - June 30, 2024**
 
 X android, X iOS
