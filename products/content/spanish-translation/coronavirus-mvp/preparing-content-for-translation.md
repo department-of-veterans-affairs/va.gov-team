@@ -31,7 +31,7 @@
 ## Sentences
 
 - [ ] Sentences are no more than 25 words in length. Aim for sentences between 5 and 20 words whenever possible.
-- [ ] In general, each sentence conveys 1 thought and contains 1 active verb. There may be exceptions where a sentence with 2 active verbs is necessary to avoid awkward writing. (Example 1 active verb: Start your application for disability compensation now. Example 2 active verbs: Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence.)
+- [ ] In general, each sentence conveys 1 thought and contains 1 active verb. There may be exceptions where a sentence with 2 active verbs is necessary to avoid awkward writing. (Example 1 active verb: **Start** your application for disability compensation now. Example 2 active verbs: Depending on the type of claim you file, you may gather supporting documents yourself, or you can ask for our help to gather evidence.)
 - [ ] Each sentence within the body text is complete. It starts with a capital letter and includes:
   - A subject
   - A verb
