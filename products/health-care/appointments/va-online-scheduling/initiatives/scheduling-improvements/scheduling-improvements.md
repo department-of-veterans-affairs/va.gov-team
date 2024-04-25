@@ -3,6 +3,9 @@
 ## Objective
 The Appointments team is looking for ways to improve the tool to help the Veteran navigate the tool easily. The user should have a positive experience when they are scheduling, requesting and managing their appointments online. 
 
+### User Stories
+
+
 ## Feature Initiatives 
 
 | Priority | ZenHub #  | Status | 
