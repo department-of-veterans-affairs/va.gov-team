@@ -71,11 +71,11 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283) 
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-         - 🟥 [Content] Draft content for first draft of hi-fi wireframes for scheduling flow (not including Appointment Notifications)
+         - 🟥 [[Content] Draft content for first draft of hi-fi wireframes for scheduling flow (not including Appointment Notifications)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81498)
          - 🟥 [[Design] Create hi-fi mock ups](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81287)
          - ✔️ 🟥 [[Design] Create hi-fi userflow with DS components of "scheduling" portion of userflow](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/79688)
     - **Sub Goal: [Feature] Create Appointment Notifications Hub**
-         - 🟦 [FE] Build out appointment notifications card types
+         - 🟦 [[FE] Build out appointment notifications card types](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81213)
          - 🟦 [[FE] Build out appointment notification list](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81217)
          - ✔️ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80153)
          - ✔️ 🟥 [[Finalize couple userflow options](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80123)
