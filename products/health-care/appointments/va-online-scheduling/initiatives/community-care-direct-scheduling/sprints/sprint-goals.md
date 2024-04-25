@@ -7,14 +7,7 @@ ________________________________________________________________________________
 
 ## SPRINT 7 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
-- **GOAL: Discovery - Veteran Direct Community care Scheduling
-    - **Sub Goal: [Feature] First draft of hi-fi wireframes and content for scheduling flow
-        - [[Content] Draft content for first draft of hi-fi wireframes for scheduling flow (not including Appointment Notifications)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81498)
-        - [[Design] Create tablet-size hi-fi mock ups](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81287)
-    - **Sub Goal: [Feature] Unmoderated research study #81512
-        - [[RESEARCH] Spike: determine low-fi or tree test research study]9https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
-- **GOAL: 2**
-    - **Sub Goal: 2a**
+
 - **GOAL: 3**
     - **Sub Goal: 3a**
 
