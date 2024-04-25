@@ -6,7 +6,7 @@ Following up from Angela's work on the benefit application drafts section docume
 [Additional context](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60510#issuecomment-1658652021)
 
 ## Potential Solutions
-In order to render the [ApplicationsInProgress](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationsInProgress.jsx) component:
+In order to render the [ApplicationsInProgress](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-application-drafts/ApplicationsInProgress.jsx) component:
 
 1. The logged in user's saved forms are retreived from the Redux store.
 2. We iterate over these saved forms and use the metadata defined in the [My VA helpers file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/helpers.jsx) to render the data for that form in the UI.
