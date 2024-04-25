@@ -43,11 +43,7 @@ We do not currently have any data presented to Veterans on how our login systems
 - We publish around the dashboard created in the Login SLO project.
 
 
-## Solution Approach: 
 
-
-
-  
 ## Technical Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------| 
@@ -61,17 +57,6 @@ We do not currently have any data presented to Veterans on how our login systems
 | Veterans who don't speak tech | How do we ensure they understand what they might be seeing? |
 
 
-## Measuring Success:
-| KPI           | Notes         | 
-| ------------- |:-------------| 
-| How are we meeting the SLA  |    |
-
-
-
-
-## Milestones:
-* SLA are agreed-upon.
-* 
 
 
 
