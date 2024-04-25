@@ -113,6 +113,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
+        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
@@ -159,7 +160,7 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
         - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
         - ✔️ ❗ 🟦 [Explore using CDW to access Consult Factors db table to find approved referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81122)
-        - 🟦 [Service level coding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81459)
+        - 🟦 [Service level coding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81459)
             - Added halfway through sprint
 - **GOAL: Make Travel Claims Easier** 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
@@ -183,13 +184,10 @@ ________________________________________________________________________________
         - 🟩 [[FE] Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/80942)
         - ✔️ 🟩 [[FE] Add Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/64635)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)        
-        - 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
+        - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)           - 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
         - ~🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)~
         - 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
-        - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
-            - Swapped this one in and took 71789 out because of dependencies
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
