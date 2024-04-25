@@ -78,7 +78,7 @@ TK
 Not applicable: There will not be any visual changes to My VA when this work is complete.
 
 ### Before
-NA
+Not applicable
 
 ### After
-TK
+Not applicable
