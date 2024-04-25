@@ -34,7 +34,7 @@ Following up from Angela's work on the benefit application drafts section docume
 Veterans have the ability to start a digital form (or application), save it and come back to it at a later time to complete. When a digital form is saved as a draft it should appear in the "Benefit Application Drafts" section on My VA. However, we learned in recent months that the process for a form to be configured properly to appear on My VA is not as straight-forward as it can or should be. 
 
 Currently, the SiP configuration works as follows:
-  In order to render the [ApplicationsInProgress](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/apply-for-benefits/ApplicationsInProgress.jsx) component:
+  In order to render the [ApplicationsInProgress](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/benefit-application-drafts/ApplicationsInProgress.jsx) component:
     1. The logged in user's saved forms are retreived from the Redux store.
     2. We iterate over these saved forms and use the metadata defined in the [My VA helpers file](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/helpers.jsx) to render the data for that form in the UI.
 
