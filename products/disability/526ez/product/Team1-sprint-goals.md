@@ -10,7 +10,7 @@ Period - 04/24/2024 - 05/07/2024
   - Stretch goal: conditions validation
 
 - **Paper Form Sync**
-  - Design mocks for missing question and link to digital form
+  - Design mocks for adding 5103 language to form, and mock up signature component for claim certification.
 
 - **Submission  & Post-Submission**
   - Map future state success path within our domain
