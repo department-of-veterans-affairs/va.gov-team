@@ -14,7 +14,7 @@ Period - 04/24/2024 - 05/07/2024
     - Product Guide - Share with Emily/Shannon
   - Toxic Exposure onboarding and support (Thomas, Scott)
     - Toggling between V1 and V2 of form - Sync with Non-Disability team 
-  - Research In Progress Form (IPF) behavior on failed submissions (Sam Stuckey)
+  - Research In Progress Form (IPF) behavior on failed submissions (Sam Stuckey/Scott)
   - 0781 Work (Jina, Julie)
     - Discuss shifting location of 0781 in the Flow. Julie/Jina to share preview with Shannon
   - Audit/Remediation (Sam Stuckey)
@@ -23,5 +23,6 @@ Period - 04/24/2024 - 05/07/2024
     - Duplicate claim identification
   - Datadog Alerts (Stuckey, Wiley, Thomas)
     - Backup path failure
-    - Automating weekly report into Dashboard (Either published or get David Reis an account) 
+    - Automating weekly report into Dashboard (Either published or get David Reis an account)
+  - Happy Path Failure Research (Scott) 
           
