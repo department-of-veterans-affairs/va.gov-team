@@ -19,7 +19,6 @@
 - [Problems](#problems)
 - [Solution approach](#solution-approach)
 - [User Outcomes](#user-outcomes)
-- [Business Outcomes](#business-outcomes)
 - [Security](#security)
 - [Measuring Success](#measuring-success)
 - [Key deliverables](#key-deliverables)
