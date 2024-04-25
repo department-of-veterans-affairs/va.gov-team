@@ -3,7 +3,9 @@
 
 ## Status
 
-Draft
+DEPRECATED
+
+This ADR is superceded by https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-callback-api-to-receive-status-from-pega.md
 
 ## Context
 
