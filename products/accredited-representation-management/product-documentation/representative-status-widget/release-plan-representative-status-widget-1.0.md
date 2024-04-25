@@ -66,8 +66,8 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 The following metrics will be considered before advancing rollout to the next stage:
 
-1. **Errors in Sentry**:
-2. **Errors in Datadog**:
+1. Errors in Sentry
+2. Errors in Datadog
 
 ### Stage A Results (5/6-5/8)
 
