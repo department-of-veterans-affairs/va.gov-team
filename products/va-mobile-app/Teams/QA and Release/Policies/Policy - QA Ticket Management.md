@@ -42,5 +42,11 @@
  - **Comments are you best friends on tickets**
    - Use comments to put your updates - will be referenced historically
    - Find a method to monitor comments people sent you
-     - Email, Github Notifications  
+     - Email, Github Notifications
+ - **Slack threads need to be in public channels**
+   - Please do not use personal DMs when discussing tickets
+   - Post questions and have conversations in our va-mobile-app-qa channel
+ - **When working off hours / days - post updates before signing off**
+   - Reduce waiting time on figuring out the latest updates
+   - Post in va-mobile-app QA and tag appropriate teams    
 
