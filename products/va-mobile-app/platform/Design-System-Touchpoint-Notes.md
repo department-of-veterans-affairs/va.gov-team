@@ -7,7 +7,7 @@ Agenda:
 
 ## 4/25/24
 *   Design Token strategy
-    *   Invite VADS to System Demo?
+    *   Invite VADS to 1-off Demo?
 
 ## 3/28/24
 *   Cathulhu team mascot
