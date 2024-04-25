@@ -89,31 +89,11 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Review WellHive API documentation**
          - ✔️ 🟦 [[SPIKE] [ENG] Review referral and WellHive API specs](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/79687)
 
-
-
 ______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 4 - 4/3/2024 - 4/16/2024 
 #### SPRINT GOALS
-- **GOAL: 1**
-    - **Sub Goal: 1a**
-- **GOAL: 2**
-    - **Sub Goal: 2a**
-- **GOAL: 3**
-    - **Sub Goal: 3a**
 
-#### PLANNED RELEASES 
-- NONE
-
-#### SPRINT TICKETS
-- **GOAL: 1**
-    - ❗🟦🟩 example: [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟦 example [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
-    - **Sub Goal: 1a**
-        - ❗ TBD
-- **GOAL: 2**
-    - **Sub Goal: Discovery - 2a**
-        - ❗ TBD
 ______________________________________________________________________________________________________________________________________________________
         
 ## SPRINT 3 - 3/20/2024 - 4/2/2024 
