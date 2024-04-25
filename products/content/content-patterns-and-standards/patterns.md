@@ -35,4 +35,15 @@ References:
 - [Slack convo](https://dsva.slack.com/archives/C03MP8MEPCN/p1686574822765079)_
 
 
+-----
+
+
+## Quotation marks 
+
+### References to buttons, screens, or section headers in text
+- just use bold and no quotations
+  
+### User-submitted text (like search input)
+- use quotations
+- It's OK to also bold this type of text in some instances
 
