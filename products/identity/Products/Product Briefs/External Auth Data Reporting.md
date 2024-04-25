@@ -48,27 +48,7 @@ For this first iteration, the focus will be on user authorization data specifcia
 * Build out the data dashboard, making sure that it's simple and easily interpreted.
 
   
-## Technical Considerations:
-| Issue         | Notes         | 
-| ------------- |:-------------:| 
-| |               |
 
-## UX/ Design Considerations:
-| Issue         | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
-
-
-## Measuring Success:
-| KPI           | Notes         | 
-| ------------- |:-------------:| 
-| |               |
-
-
-## Baseline KPI Values:
-| KPI           | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
 
 
 ## Milestones:
@@ -76,4 +56,4 @@ For this first iteration, the focus will be on user authorization data specifcia
 
 
 ## Future Scope:
-* 
+* Other data
