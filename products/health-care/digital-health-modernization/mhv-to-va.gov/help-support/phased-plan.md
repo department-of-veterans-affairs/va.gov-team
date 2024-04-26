@@ -101,6 +101,8 @@ Future Functionality|15|0.01
 * [VA Live Agent research - 2023](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/333), [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/live-agent/research/2023-07-Live%20Agent%20Chatbot_Interviews%20with%20Veterans/research-findings.md)
 
 ### Community research
+* Digital.gov [customer experience toolkit](https://digital.gov/resources/customer-experience-toolkit/#digital-services-2)
+* Department of Labor [CX Principles for online applications](https://www.dol.gov/agencies/eta/ui-modernization/customer-experience/improve-applications/cx-principles)
 * Nielsen Norman Group - [Minimize the Need for Customer Service to Improve the Omnichannel UX](https://www.nngroup.com/articles/customer-service-omnichannel-ux/)
   * Make help easy to find / do not hide it 
 * Nielsen Norman Group - ["Contact Us" page guidelines](https://www.nngroup.com/articles/contact-us-pages/)
