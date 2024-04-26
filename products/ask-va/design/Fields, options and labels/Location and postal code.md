@@ -151,6 +151,10 @@ Skip collecting location of residence and postal code separately. They're collec
 | ----------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
 | A general question | **Collect submitter’s location of residence** | CA, NY, PA, or TX      | **Collect submitter’s postal code** |
 
+### Why do we collect this information?
+
+We don't know why we collect this information. We need to ask the business lines.
+
 ---
 
 ## Education
@@ -288,6 +292,10 @@ Skip collecting location of residence and postal code separately. They're collec
 | ----------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
 | A general question | **Collect Submitter’s location of residence** | CA, NY, PA, or TX      | **Collect Submitter’s postal code** |
 
+### Why do we collect this information?
+
+We don't know why we collect this information. We need to ask the business line.
+
 ---
 
 ## Health care
@@ -341,3 +349,7 @@ Skip collecting location of residence and postal code separately. They're collec
 | `IF TOPIC =`                | `AND VETERAN DECEASED =` | `THEN`                              |
 | ------------------------- | ---------------------- | --------------------------------- |
 | Caregiver support program | NO                     | **Collect Veteran's postal code** |
+
+### Why do we collect this information?
+
+The Caregiver Support Program requires the Veteran's postal code because it helps them provide local resources to submitters.
