@@ -101,9 +101,11 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 
 
 * **Evidence Needed field**
-  * CAIA would like to discuss a potential opportunity for increased standardization. Should we consider an “evidence needed” field that offers some kind of checkbox for the basics (like DD214) + an “other” customizable field for unique evidence for that benefit?
-  * Per Dave & CAIA, for MVP start with a free-form Evidence Needed form (character count?). We can think about taxonomy post-MVP.
-  * CAIA to provide editorial guidance to keep this semi-standardized for future iteration thoughts. ****uild an easily generated report for CAIA to be able to continuously audit this. 
+  * For MVP, we are going to create a limited rich text field for evidence needed.
+   * Not required for MVP.
+  * Post MVP, the ability to generate a report to collect whatever is in this field so we can analyze it better later for possible transition to a taxonomy in a future iteration.
+  * Hypothesis is that the evidence needed for things could be standardized (like DD 214). Would be helpful to have rich text to ensure consistency across all benefits. In the far future, we might already know that we have the Veteran's digital 214, so this is what you need to give to us because we already have everything else.
+ 
 
 #### Explicitly out of scope or MVP
 * **Benefit Description**
