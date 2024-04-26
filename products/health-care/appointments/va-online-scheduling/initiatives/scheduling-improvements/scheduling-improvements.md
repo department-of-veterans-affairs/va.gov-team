@@ -5,6 +5,7 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 
 ### User Stories
 • **Multi-modality functionality:** As a veteran scheduling online using the Appointments tool on va.gov, I want the option to choose between scheduling in-person, telehealth, or phone doctor appointments, so that I can access healthcare services in a manner that best suits my needs and preferences.
+**• Progress indicator:** As a veteran scheduling online using the Appointments tool on va.gov, I want a clickable progress indicator that allows me to navigate back to previous steps in the scheduling process, so that I can review and edit my information if needed. Additionally, I want the progress indicator to visually represent where I am in the scheduling process, providing clear guidance on the steps remaining to complete scheduling my appointment.
 
 ## Feature Initiatives 
 
