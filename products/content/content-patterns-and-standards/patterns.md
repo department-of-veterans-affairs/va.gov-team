@@ -38,11 +38,11 @@ References:
 
 ## Quotation marks 
 
-- Use quotation marks when showing text that users submitted in a form field (like search input). It's OK to also bold this type of text in some instances
+- Use quotation marks when referencing free text that users submit in a form field (like search input). 
 
-Example: Showing 1-10 of 110 search results for **"pancake"**
+Example: Showing 1-10 of 110 search results for **"what are my benefits"**
 
-- Don't use quotation marks in references to buttons, screens, or section headers in text. For those situations, use bold only.
+- Don't use quotation marks in references to buttons, screens, or section headers in text. For these situations, use bold only.
 
 Example: Then click the **Search this area of the map** button. 
 
