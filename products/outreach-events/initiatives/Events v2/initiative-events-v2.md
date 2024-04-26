@@ -21,7 +21,6 @@ EPICS:
 
 
 * How does this initiative help further OCTO-DE's mission and goals?
-     * VA North Star: Increase the 
      * VA North Star: Increase the quality, quantity, and reliability of events published in VA.gov 
     
    
