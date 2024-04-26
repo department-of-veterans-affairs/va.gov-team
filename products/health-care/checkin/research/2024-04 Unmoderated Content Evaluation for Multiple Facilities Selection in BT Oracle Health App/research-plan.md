@@ -120,3 +120,22 @@ Flexible; based on Perigean's schedule to begin email recruitment
 ## Team Roles
 Christina Gednalske (christina.gednalske@adhocteam.us) and Ben Brasso (ben.brasso@agile6.com) will serve as primary researchers and project point of contact for this study.
 
+## Appendix
+
+### Appendix Item A: Email to recruited participants
+
+[subject] Start your VA online research activity
+
+Hello,
+
+Thank you for agreeing to take part in this VA online research activity.
+
+This activity usually takes about 5-8 minutes to complete. You can start anytime from your smartphone, laptop, or any device with an Internet connection. We'll guide you through each task in the activity.
+
+We won't share any information or feedback linked to your name or other personal details.
+
+Here's your participant code: [Add code]
+
+You'll need to enter this at the start of the activity, and after you've completed the last task to receive compensation.
+
+[link] Start the activity now
