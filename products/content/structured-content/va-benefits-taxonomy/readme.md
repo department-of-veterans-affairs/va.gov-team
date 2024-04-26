@@ -46,29 +46,49 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 #### In scope
 
 * **Benefit Name / VA Benefit API ID**
-  * For initial load, auto-populate with camelCase. VA Services taxonomy uses lower camelCase, and we could follow suit here. Before releasing, have PW validate to make sure it makes sense to future developers.
+  * For initial load, auto-populate with camelCase. VA Services taxonomy uses lower camelCase, and we could follow suit here. Before releasing, have PW validate to make sure it makes sense to future developers. We don't have the auto-creation yet.
     * No hard business requirements are known here, so this could be handled in whatever way makes sense to CAIA + engineering.
+      * 
 * **How to Apply Section**
   *  This is for programs like Dental Care, where the Veteran is filling out the 1010ez.
-    *  Per Dave, this fits into the How to Apply Section. For programs like dental care where you apply by filling out the 10-10EZ health care form, but it might not be obvious to the user/Veteran they need to fill out the form, how do we or do we need to account for that in content? Or what about a benefit like vision care where you don’t apply directly? Should there be more to this section than linking to the other benefits? Or do we need to think through that more in page-level templates?
+    *  For programs like dental care where you apply by filling out the 10-10EZ health care form (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran they need to fill out the 1010EZ form for that benefit. For MVP, we will solve this using the text in the How to Apply section
+      *  
+
 * **Exclusionary and Simultaneous Benefits**
-  * (Needs Content modeling)
-  * _Exclusionary Benefits:_ Meaning > If you have this you can’t have that
-    -  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound or Aid & Attendance", etc. Note to Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
-  - _Simultaneous Benefits:_ Meaning > if you have this, you have to have this at the same time, or you’re automatically enrolled at the same time.
-    -  Example: Add Simultaneous benefit? Note to Veteran: What we’re talking about here is a benefit that you should or must consider applying for or obtaining at the same time as this benefit.
+  * We will need some Content modeling aroudn this. Might need to pull in Dave Picket?
+  * _Exclusionary Benefits:_ Meaning > If you have this benefit you can’t have that benefit
+    -  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound **or** Aid & Attendance", etc. Note to Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
+  - _Simultaneous Benefits:_ Meaning > if you have this benefit, you MUST have this benefit at the same time, _or_ you’re automatically enrolled at the same time.
+    -  Example language: Add Simultaneous benefit? Note to Veteran: What we’re talking about here is a benefit that you should or must consider applying for or obtaining at the same time as this benefit.
+   
+    
 * **Benefit Description**
-  * Will consist of three possible fields: long, brief, & teaser
-  * Character count limits will be required on all three fields
-  * If a Long description character count is less than the character counts for Brief description, then the Brief and Teaser fields are Optional (see section below "Explicitly out of scope" for Post-MVP requirements).
-  * Note that CAIA will provide editorial context – e.g. word counts for a long, brief, and teaser descriptions; helper text for these fields.
-  * Note from CAIA: We need to think about how much depth we want to go into for the “longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full description? This is something for us to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
-  * CAIA to provide content for the editorial interface for best practices.
+  * Will consist of three (already existing) fields: longer summary, brief summary (currently has 500 character limit), & teaser summary (one to two sentences - currently 300 character limit).
+  * Character count limits will be required on all three fields.
+    * Long Summary is required. If a Long description character count is more than 500 characters, it can't be reused as the Brief Summary, therefore the Brief summary changes from optional to required. If the Long Description character count is greater than 300 characters, then the teaser summary changes to required, unless the Brief summary is less than 300 characters.  This is MVP.
+    * Brief Summary: If this summary is greater than 300 characters, then the teaser summary is required.
+  * In editorial interface we want to be sure there is feedback for the character counts, and in the descriptions we include what the character counts are.
+  * Work with CAIA to provide content for the editorial interface for best practices.
+    * Note that CAIA will provide editorial context – e.g. word counts for a long, brief, and teaser descriptions; helper text for these fields.
+    * Note from CAIA: We need to think about how much depth we want to go into for the “longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full description? This is something for us to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
+   
+
 * **Benefit Eligibility**
-  * Need to step through use cases to ensure we’re covering the right bases. Walk through this with CAIA. How can we better describe what is eligibility vs. Overview in the overview section?
+  * We want to work with CAIA for what we mean by eligibility vs. the overview sections.
+  * The problem can be alleviated with better help text as opposed to drastic content changes.
+ 
+   
 * **How to Apply**
-  * Per Dave, this should be added to the form detail content model. We can do this as MVP.
-  * In some pages, there’s a fair amount of content that didn’t fit in the pages. There are no fields for how to apply information (like steps you take to apply). There’s just  a link to the form. We had done this intentionally to tie how to apply info to the form rather than the benefit. But when you’re the author inputting information about how to apply, it feels like a disconnect, especially since we do have all of the surrounding  info (eligibility, after you apply). We’ll need to think through the content model for the forms and how this maps to the front-end (needs to be front-end agnostic), and then think through how to best document this to guide authors.
+  * Content modeling needed.
+  * Wrestling with part of the How to Apply... pre-flight, in-flight, post-flight.
+  * When you're applying for a benefit, you may need to do things before you actually fill out the form.
+  * Where does this content live? Does this content live with the form, or with the benefit?
+  * Analysis needed in this area. Look through several of the benefits How to Apply sections to see where the info should live. Maybe both?
+    * Go through benefits use cases/how to apply. Create a small discovery Spike. Look at 10 - 15 How to Apply content sections to decide where: benefit or form?
+  * Wants to normalize the DB to keep the info with what it pertains to.
+  * Decision makers: Dave C and Danielle T.
+ 
+    
 * **Aid & Attendance** (preparing to apply section)
   * Per Dave: Switch to magic header with one required and others can be added. This content lives with the benefit, not the form, because the forms are not unique to the benefit, a benefit may have multiple forms, or there could be unique things.
   * For the Aid & Attendance preparing to apply section: We differentiate between evidence needed for a Veteran vs. a survivor. There’s only 1 rich text field for “Prepare to apply”
