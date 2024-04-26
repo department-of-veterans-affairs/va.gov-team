@@ -85,6 +85,23 @@ Example:
       }
     }
 
+Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field
+
+      "disabilities": [
+        {
+          "name": "hepatitis B",
+          "disabilityActionType": "NEW",
+          "serviceRelevance": "Caused by an in-service event, injury, or exposure\\nasdf asdf asdf asdf ",
+          "cause": "NEW"
+        },
+        {
+          "name": "hepatitis C",
+          "disabilityActionType": "NEW",
+          "serviceRelevance": "Caused by an in-service event, injury, or exposure\\nSecondary to Hepatitis B\\nasdfg asdf asdf asdf",
+          "cause": "NEW"
+        }
+      ]
+
 # Questions/Action Items/Notes (from 4/11/24 internal review)
 
 ## Action Items
