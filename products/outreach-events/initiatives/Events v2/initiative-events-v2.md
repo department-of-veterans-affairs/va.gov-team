@@ -28,12 +28,12 @@ EPICS:
 
 **As a user:**
   
-- I want  so that I know what's happening based on my schedule/availability. 
-- 
+- I want so that I know what events are available based on my schedule/availability. 
+- I want to have better lead-time prior to events so that I can plan accordingly to attend, especially in-person events.
 
 **As an events content editor/publisher:**
 
-- I want 
+- I want to be able to publish events faster so that I can ensure Veterans have access to events coming up
 
 **As the Outreach Events product owner:**
 
