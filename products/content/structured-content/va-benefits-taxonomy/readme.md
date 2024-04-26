@@ -14,7 +14,7 @@ Benefits content is threaded throughout VA.gov, used for multiple purposes. We w
 As a Veteran, I want to see consistent terminology and verbiage when reading about benefits so that I'm not confused and clearly understand what my benefits are, what I need to provide, and what paths to take to apply for benefits.
 
 ### User pain points and opportunities
-Terminology and verbiage that veterans see is not consistent, and they may see different words and phrases used instead of consistent, one-source-of-truth wording which will be easier to understand and follow when learning about or applying for benefits.
+Terminology and verbiage that veterans see is not consistent, and they may see different words and phrases used that actually mean the same thing instead of consistent, one-source-of-truth wording which will be easier to understand and follow when learning about or applying for benefits.
 
 ### Business pain points and opportunities
 
