@@ -85,19 +85,35 @@ Future Functionality|15|0.01
 * ID.me and/or Login.gov questions
 
 ## Discovery & desk research
+### Cartography team research
 * [Cartography team - research about MHV helpdesk from Summer 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/metrics-performance-monitoring/MHV-Helpdesk-data.md)
 * [MURAL with discovery research, competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710792685965/130af5ff20096b650079e36b00db1187172c857f?sender=uf94a77a19aaf687331c09367)
 * [Notes from conversations (Google doc)](https://docs.google.com/document/d/1sPnIlOeUcEjoeY8oYCsonAbYFtETNUEeWXvPcP1Xz0M/edit)
 
-### Analytics
+### VA analytics
 * MHV National Portal feedback dashboard
 * MHV National Portal analytics dashboard
 * My HealtheVet Medallia feedback
 
-### Other research
+### Other VA research
 * [Call center user journey research - 2022](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/research/Q2-2022/VA_Caller/Research%20Readout-VACallerUserJourney-99222022.pdf)
 * [VHA Chatbot research findings - 2022](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-proposals/MCT%20Omnichannel%20Experience/VHA%20Virtual%20Agent/August%202022%20VHA%20Virtual%20Agent%20Research_2022-08-04.pdf)
 * [VA Live Agent research - 2023](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/333), [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/live-agent/research/2023-07-Live%20Agent%20Chatbot_Interviews%20with%20Veterans/research-findings.md)
+
+### Community research
+* Nielsen Norman Group - [Minimize the Need for Customer Service to Improve the Omnichannel UX](https://www.nngroup.com/articles/customer-service-omnichannel-ux/)
+  * Make help easy to find / do not hide it 
+* Nielsen Norman Group - ["Contact Us" page guidelines](https://www.nngroup.com/articles/contact-us-pages/)
+  * Provide phone numbers at a minimum
+  * Tell people if they'll interact with a real person or a bot (depending on type of help)
+  * Offer "smart" help when possible 
+* Nielsen Norman Group - [How to structure Customer Information on Websites](https://www.nngroup.com/articles/customer-service-model/)
+  * Parent "Contact us" or "Customer Service" pages should work like a hub and spoke model, and connect to child "help" or "contact-us" pages. 
+  * Ladder-up specific help to sitewide "Contact us" page in a hub/spoke model, connecting users to broader help if they need it.
+    <img width="865" alt="Screenshot 2024-04-26 at 10 01 26 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/6530cd15-b30e-4a23-b9c0-5458ec907af6">
+  * Provide the narrowest / most relevant help in-context on the page (text below from article)
+    <img width="772" alt="Screenshot 2024-04-26 at 9 56 15 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/d85191ea-e8c4-48c8-9f3c-b4b25e60eede">
+
 
 ## Hypotheses around My HealtheVet preferences for help
 * people want fast access to help (not to wait 3 days for an answer)
