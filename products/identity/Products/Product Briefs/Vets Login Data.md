@@ -1,4 +1,4 @@
-# Vets Login Data
+# Veterans Login Data
 
 ## Overview: 
 Publishing the Login Data we've collected in the SLOs to Veterans as Dashboards. This maps to _O1KR2: VA.gov authentication SLOs are developed._
