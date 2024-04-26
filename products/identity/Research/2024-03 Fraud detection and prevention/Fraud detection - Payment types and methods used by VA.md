@@ -21,7 +21,7 @@ Updated - March 12, 2024
 ### [Life Insurance Benefits](#life-insurance-benefits)
 ## [Claims Processing Business Transformation (CPBT)](#claims-processing-business-transformation-cpbt)
 ### [Claim Payment Methods](#claim-payment-methods)
-## [Beneficiary Travel Self-Service System (BTSSS)](#beneficia)
+## [BTSSS](#btsss)
 ## [Construction Service Payments](#construction-service-payments)
 ### [Fast Pay](#fast-pay)
 ### [Imprest funds and third party drafts](#imprest-funds-and-third-party-drafts)
@@ -212,49 +212,33 @@ Segregating duties, conducting surprise audits, and monitoring cashiers’ activ
 
 The Veteran Benefits Administration’s (VBA) Benefits Delivery Protection and Remediation (BDP&R) team takes the following actions:
 
-Investigation:
-The BDP&R team investigates the incident to confirm the fraudulent activity.
-They determine the necessary actions to protect the Veteran’s benefits.
+- The BDP&R team investigates the incident to confirm the fraudulent activity.
+- They determine the necessary actions to protect the Veteran’s benefits.
 
-Reporting and Accountability:
-The team reports those responsible for the alleged fraud.
-This ensures accountability and helps prevent further incidents.
+- The team reports those responsible for the alleged fraud.
+- This ensures accountability and helps prevent further incidents.
 
-Restoring Benefits:
-The BDP&R team immediately reinstates the Veteran’s benefits.
-Their goal is to make the Veteran whole again by ensuring timely benefit payments.
+- The BDP&R team immediately reinstates the Veteran’s benefits.
+- Their goal is to make the Veteran whole again by ensuring timely benefit payments.
 
 
 ## Payment Redirection Fraud
 
-As part of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act (PACT Act), more Veterans are receiving increased benefits. However, this positive development also attracts criminals who seek to exploit vulnerable individuals. Online scams are rampant, and scammers continually invent new tactics to deceive people and gain access to sensitive information, ultimately stealing money and identities.
+As part of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act (PACT Act), more Veterans are receiving increased benefits. However, this positive development also attracts criminals who seek to exploit vulnerable individuals. 
 
-One specific form of fraud is Payment Redirection Fraud.
-
-Impersonation: Criminals impersonate others, often targeting Veterans.
+Criminals impersonate others, often targeting Veterans.
 They gain access to sensitive Personal Identifiable Information (PII).
+Imposter scams account for up to 40% of the total fraud reported by military members. 
 
-Unlawful Diversion:
 Armed with the stolen information, scammers redirect the victim’s VA benefits payments.
-These payments are rerouted to bank accounts or prepaid debit cards controlled by the fraudsters. (Note: Fraud investigation reports may include a column on # of banks involved.)
-
-Methods Used:
-Scammers exploit vulnerabilities through phishing attempts, email scams, and other tactics.
-They may manipulate publicly available data, social media, and other sources to gather PII.
-With enough demographic details, they can call the National Contact Center and change Veterans’ bank accounts for payment redirection.
-Additionally, stolen passwords and credentials allow them to access Veterans’ information through VA.gov.
-
-Immediate Action:
-The Benefits Delivery Protection and Remediation (BDP&R) team investigates and takes necessary steps to protect benefits.
-Their goal is to make the user whole again by reinstating their benefits.
-Imposter Scams: Imposter scams account for up to 40% of the total fraud reported by military members. 
-
+These payments are rerouted to bank accounts or prepaid debit cards controlled by the fraudsters.
 
 ### Cases of Fraud Attempts
 
 An investigation into the methods used in these cases could be a beneficial future research topic.
 
 #### Student Aid Fraud
+
 Case Details:
 - During the 2003-2004 school year, the defendant applied for student aid at three institutions of higher learning.
 - The applications were submitted in his own name and in the name of two aliases.
@@ -262,6 +246,7 @@ Case Details:
 
 
 #### Educational Grant Fraud
+
 Case Details:
 - Investigation of USA Beauty School in Chinatown, New York City.
 - The school participated in ED’s Federal Pell Grant program from 2006 until 2010, receiving approximately $4.2 million in Pell Grant funds.
@@ -273,6 +258,7 @@ Case Details:
 
 
 #### Student Financial Assistance Fraud
+
 Case Details:
 - Charged with nine counts of wire fraud, federal student financial assistance fraud, and identity theft.
 - Scheme involved serially applying for federal student financial assistance at multiple educational institutions.
@@ -281,12 +267,14 @@ Case Details:
 
 
 #### Student Financial Assistance Fraud
+
 Case Details:
 - Conspired to obtain money from Northwestern State University in Natchitoches, Louisiana.
 - Submitted false applications and documents to obtain federal student aid and student loans.
 - Submitted additional false applications to retain funds.
 - Conspiracy and bank fraud.
 
+--------------------------------
 
 ## VA Life Insurance Policies and Dividends
 
@@ -333,6 +321,8 @@ VA administers each of the six life insurance programs (the first four programs 
 receive a service-connected disability rating
 6. Veterans’ Mortgage Life Insurance (VMLI) covers severely disabled Veterans and is part of the Veterans’ Insurance and Indemnities fund.
 
+--------------------------------
+
 
 ## Claims Processing Business Transformation (CPBT)
 
@@ -370,7 +360,6 @@ VHA clinicians rely on AMIE to provide VBA with medical evidence for Veteran dis
 Legacy Claims Processing (VETSNET):
 Modernization efforts aim to reduce duplicative capabilities and streamline claim processing.
 Limiting the number of systems improves efficiency and decreases processing time.
-(VA.gov)
 
 Question asked in Slack (March 25, 2024):
 **VEText is used for confirming appointments, right? Could it be used with the claim process?**
@@ -396,9 +385,12 @@ This facility should be the one that provides care or approved care for services
 For instance, if a claim is submitted for care approved at a non-VA facility, it should specify the VA facility that authorized it as the responsible payment facility.
 
 
-## Beneficiary Travel Self-Service System (BTSSS)
+--------------------------------
 
-BTSSS Overview:
+## BTSSS
+
+**Beneficiary Travel Self-Service System**
+
 Beneficiary Travel Self-Service System (BTSSS) automates travel claims processing for veterans.
 It handles waiver exceptions, electronically passes vouchers for direct deposit, and enhances the audit process.
 The system streamlines existing work processes related to travel claims.
@@ -407,9 +399,7 @@ Enhancements and Goals:
 The planned enhancements for BTSSS aim to position the Veterans Transportation Program (VTP) for future workflow integration.
 Integration targets include VA’s Office of Rural Health, Homeless Program, Veteran Transportation Network (VTN), and Spinal Cord Injuries (SCI) Centers.
 The goal is to improve the network of transportation services and increase access to VA services.
-Importance of Funding:
-Without adequate funding, the 2024 enhancements to BTSSS will not be executable.
-Proper funding ensures that the system can effectively support veterans’ transportation needs and enhance their access to essential services.
+
 
 Note: (From Slack thread March 25, 2024)
 Question: **What are the payment methods currently used by BTSSS?**
@@ -431,6 +421,8 @@ While the FSC handles construction payments, stations are still responsible for 
 The FSC uses the Online Certification System (OLCS) for construction payments, ensuring user-friendly tools for the field.
 [FSC Construction Payments](https://www.fsc.va.gov/fsc/payments.asp)
 
+--------------------------------
+
 
 ## Fast Pay
 
@@ -439,9 +431,11 @@ These procedures allow for quicker payment processing.
 For more details and specific conditions related to fast payment processes, refer to FAR Subpart 13.4 and [5 C.F.R. § 1315.6](https://public-inspection.federalregister.gov/2021-21805.pdf)
 
 
+--------------------------------
+
+
 ### Imprest funds and third party drafts
 
-Imprest Funds:
 Imprest funds are used to acquire and pay for supplies or services.
 
 Policies and regulations governing imprest funds and third-party drafts are outlined in:
@@ -475,6 +469,9 @@ Risk factors evaluated for each group of program loans include historical experi
 VA uses a Notional Foreclosure Proportion Model for generating time-specific default rates for the Loan Guarantee Program.
 [FSC](FSC-VA.gov)
 
+--------------------------------
+
+
 ## Overpayments
 
 Payroll Overpayments
@@ -492,6 +489,8 @@ If the request is not received by the DFAS payroll office within the 30-day limi
 Employees have up to three years to request a waiver.
 If collections have already started and a waiver is requested later and approved, DFAS will refund all collections made prior to that time.
 (“FY 2020 OMB Supplemental Data Call Veterans Affairs (VA)”)
+
+--------------------------------
 
 
 ### Overpayments and Receivables:
@@ -539,6 +538,7 @@ Debtors can dispute the debt’s existence or amount or request a waiver.
 
 Note: A breakdown of Overpayments is available here FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023
 
+--------------------------------
 
 
 ### DATA Act PMO
@@ -556,6 +556,8 @@ Additionally, contract numbers are not transferred from eCMS to IFCAP in an auto
 https://www.va.gov/finance/docs/va-financialpolicyvolumeviiichapter01a.pdf
 https://public-inspection.federalregister.gov/2020-22929.pdf
 https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201907-2900-003
+
+--------------------------------
 
 ## Automobile Allowance
 
@@ -577,6 +579,8 @@ Bring the form to the prosthetic representative at a local VA medical center.
 VA may pay the requestor directly or the equipment seller.
 Eligibility requires a service-connected disability.
 
+--------------------------------
+
 ## Education Payment Fraud
 
 Every year, families fall victim to fraudulent financial aid schemes. 
@@ -597,8 +601,7 @@ As part of their responsibilities, the Department of Justice (DOJ), the Departme
 
 When an SCO is also a VA student at the same school where they work, they must designate another SCO at the approved facility to certify their enrollment with the VA. It’s important to note that the VA will not disburse GI Bill benefits for courses certified by the individual who is taking those courses.
 
-
-
+--------------------------------
 
 ## Education Benefit Payments
 
@@ -622,6 +625,7 @@ Some Chapter 30, 33, and 1606 students may receive an additional kicker along wi
 Education Claim Processing & Communication
 PACT Act funding will be used to set up a Test Environment for DGIB and eMPWR-VA integration testing, Improve Education Claim Processing Automation, and Migrate Education Legacy Systems data to Managed Service Platform. Funding will enhance eligibility verification, and communication from VA in a timely manner and will support increase in claim processing.
 
+--------------------------------
 
 ## Accelerated Payments
 
@@ -642,6 +646,7 @@ To qualify, tuition and fees must exceed:
 $10,640.70 for the semester.
 $6,657.60 for the quarter
 
+--------------------------------
 
 ### Certifying Accelerated Payments
 
@@ -671,6 +676,7 @@ Consider mitigating circumstances.
 [VA eBenefits](knowva.ebenefits.va.gov/)
 
 
+--------------------------------
 
 
 ## Advance Payments
@@ -697,6 +703,7 @@ Students complete a form to request advance pay.
 The form is stapled to the file copy of the Cert.
 The Cert is annotated as “Advance Payment Requested and Signature of Student on Record.”
 
+--------------------------------
 
 ## Advance Payments: Key Points
 
@@ -719,6 +726,7 @@ If a user receives a letter stating that a returned Certification of Delivery wa
 They should call VA (1-888-442-4551) and explain the issue to the Education Case Manager.
  - Request the Education Case Manager to input the certification of delivery.
 
+--------------------------------
 
 ### Scholarship Fraud Awareness and Prevention
 
@@ -739,6 +747,7 @@ The site includes:
 - Information on communicating with the Federal Student Aid Information Center.
 - Promoting awareness and vigilance against scholarship fraud helps protect students and maintain the integrity of educational financial assistance programs
 
+--------------------------------
 
 #### Fraud Report Findings 
 
@@ -764,6 +773,7 @@ Refund Misrepresentation:
 
 Despite efforts by organizations and law enforcement, scholarship fraud remains a significant issue due to a lack of awareness among consumers. (Note: Potential research topic on quantifying the # of knowledgeable consumers before and after updated awareness campaigns)
 
+--------------------------------
 
 ### Optional Practical Training (OPT) Training Plan for STEM OPT Students
 
@@ -787,6 +797,7 @@ Employers can use existing training programs or policies to meet performance eva
 Direct Relation to STEM Degree:
 The training plan must clearly explain how the training is directly related to the student’s qualifying STEM degree.
 
+--------------------------------
 
 ### Edith Nourse Rogers STEM Scholarship
 
@@ -809,6 +820,7 @@ Additionally, the student must have completed at least 60 semester hours (or 90 
 Furthermore, they must have exhausted or will exhaust their Post-9/11 GI Bill entitlement within six months based on their current enrollment.
 Students must be enrolled in or have earned a degree in one of the following areas on the STEM Designated Degree Program list.
 
+--------------------------------
 
 ### Marine Gunnery Sergeant John David Fry Scholarship
 
@@ -840,8 +852,7 @@ Effective August 1, 2021, children or spouses of members of the Selected Reserve
 
 SCOs should identify Fry students as chapter 33 and use their social security number as their file number. Certify Fry students as any other chapter 33 student. Students who are not eligible will be sent a disallowance letter that explains the reason for their disallowance and will explain the appeal process.
 
-
-
+--------------------------------
 
 ### GI Bill Chapter 30 (MGIB-AD) Eligibility and Benefits
 
@@ -902,6 +913,8 @@ Funds Usage:
 - Funds used by the institution for the YRP must be available for unrestricted use.
 - Restricted funds from third parties or internal institution funds cannot be part of the institution’s contribution for the YRP.
 
+--------------------------------
+
 ## Appendix
 
 ![Edu Resource Flow](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4978a8d9-1857-435d-a4f9-d39ec80319ac)
@@ -919,6 +932,7 @@ Table 2: Confirmed fraud amounts breakdown by VA Services.
 [FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023](http://paymentaccuracy.gov/payment-accuracy-the-numbers/)
 
 
+--------------------------------
 
 
 ## Glossary of terms
@@ -956,6 +970,7 @@ The TAS is an identification code assigned by the Treasury, in collaboration wit
 It is used for individual appropriations, receipts, or other fund accounts.
 All financial transactions of the Federal government are classified by TAS for reporting to OMB and Treasury.
 
+--------------------------------
 
 ## Works Cited
 
