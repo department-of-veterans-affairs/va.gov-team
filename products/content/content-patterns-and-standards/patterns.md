@@ -37,12 +37,12 @@ References:
 
 
 ## Quotation marks 
-  
-### User-submitted text (like search input)
-- Use quotations
-- It's OK to also bold this type of text in some instances
 
-Example: Showing 1-10 of 110 search results for **"VSO"**
+- Use quotation marks when showing text that users submitted in a form field (like search input). It's OK to also bold this type of text in some instances
 
-**Note:** Use bold only, no quotations, in references to buttons, screens, or section headers in text.
+Example: Showing 1-10 of 110 search results for **"pancake"**
+
+- Don't use quotation marks in references to buttons, screens, or section headers in text. For those situations, use bold only.
+
+Example: Then click the **Search this area of the map** button. 
 
