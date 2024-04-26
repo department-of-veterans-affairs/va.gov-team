@@ -85,7 +85,7 @@ Example:
       }
     }
 
-Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field
+Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field. Note that secondary disabilities originally of type "SECONDARY" get changed to "NEW" by the FE's submit transformer and are mapped as primary disabilities by the backend.
 
       "disabilities": [
         {
