@@ -1,6 +1,6 @@
 # Location of residence and postal code
 
-Last updated by @t-michaud: April 26, 2024
+Last updated by @tygindraux: April 26, 2024
  
 The rules are described in the following sections:
 - [Contact preference](#contact-preference)
