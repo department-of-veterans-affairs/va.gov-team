@@ -72,7 +72,7 @@ _Note:_ Phrases are OK in headlines, subheads, and bullets within a list. [ADD E
 
 - [ ] Text is as free as possible of ambiguous words (e.g. use "after" or "when" instead of "once").
 - [ ] Text specifies nouns with "the." (exception: "VA" uses just "VA" and not "the VA"). [ADD EXAMPLE]
-- [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentence rather than using a pronoun. [REVIEW THIS ONE MORE]
+- [ ] Text has as few pronouns as possible (especially avoiding the pronoun "it"). Repeat the noun in a sentence rather than using a pronoun. 
 - [ ] Address the Veteran as an individual with second person singular: “you” and “your.”
 
 | Like this | Not like this |
