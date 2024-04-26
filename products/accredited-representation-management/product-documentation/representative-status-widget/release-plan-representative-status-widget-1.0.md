@@ -1,13 +1,5 @@
 # Release Plan: Representative Status Widget 1.0
 
-
-### Development
-
-Feature Toggle:
-`TBD` will be disabled in Production prior to staged rollout and will be enabled to an increasing % of users during the staged rollout (schedule below). This will control visibility of the Representative Status Widget on our [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
-
-### Validation
-
 #### Platform Preparation
 - [ ] Are all Collaboration Cycle touchpoints complete?
 
@@ -15,41 +7,21 @@ Feature Toggle:
 - [x] Internal team QA
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [x] Unit tests and E2E tests are complete
-- [ ] Any lingering issues that are needed to address prior to rollout?
+- [ ] Launch-blocking issues from Staging Review are resolved
+- [ ] Any other issues that are needed to address prior to rollout?
 
 #### Go/No Go meeting TBD
-- [ ] review the plan with your DEPO/OCTO representative.
-- [ ] review the release plan with your team.
+- [ ] Review the release plan with the core team, VA enablement, and VBA stakeholders
+- [ ] Decide Go or No Go
 
 **Verdict: TBD**
 
 ***
 
-## Rollback Process
-
-While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
-
-**The rollback process is:**
-1. Turn off the frontend feature toggle `TBD`
-   1. Submit a PR
-2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
-   1. Include any details as to what triggered the rollback
-   2. Tag relevant teammates (@benefits-arm-core, @benefits-arm-enablement)
-3. Create a ticket to document:
-   1. A summary of what caused the rollback process
-   2. Confirmation that the feature toggle has been turned off (or that a PR has been submitted)
-   3. Next step ideas for solving the rollback trigger
-   4. Other relevant links/images
-   5. Link to initial Slack alert for reference
-4. Follow up in the Slack alert thread with a link to the ticket
-
-***
-
-
 ## Staged Rollout Details
 
 - Rollout date range: 5/6-5/13
-- Limited production access will be controlled through the frontend feature toggle `TBD` 
+- Feature Toggle: `TBD` will be disabled in Production prior to staged rollout and will be enabled to an increasing % of users during the rollout. This will control visibility of the Representative Status Widget on our [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
 - Errors will be tracked in Sentry and Datadog, and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
 
@@ -61,6 +33,26 @@ While we cannot think of any events that would be critical enough to merit a rol
 4. Stage D: Add the Representative Status Widget to the [Accredited Rep landing page](https://www.va.gov/get-help-from-accredited-representative/)
 
 *** 
+
+## Rollback Process
+
+While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
+
+**The rollback process is:**
+1. Turn off the frontend feature toggle `TBD`
+   1. Submit a PR
+2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
+   1. Include any details as to what triggered the rollback
+   2. Tag relevant teammates (@benefits-arm-core, @benefits-arm-enablement, @benefits-arm-vba)
+3. Create a ticket to document:
+   1. A summary of what caused the rollback process
+   2. Confirmation that the feature toggle has been turned off (or that a PR has been submitted)
+   3. Next step ideas for solving the rollback trigger
+   4. Other relevant links/images
+   5. Link to initial Slack alert for reference
+4. Follow up in the Slack alert thread with a link to the ticket
+
+***
 
 ### Staged Rollout Metrics
 
