@@ -308,5 +308,66 @@ _The location and zip code are collected in the **Address component** and replac
 | It’s a general question | **Collect Submitter’s location of residence** | CA, NY, PA, or TX      | **Collect Submitter’s zip code** |
 
 
+---
+
+
+
+## Health care
+
+### My own or someone else's VA benefits
+
+`IF CATEGORY =` Health care
+ 
+`IF TOPIC =`
+
+- Career opportunities at VA health facilities
+- Caregiver support program
+- Family health benefits
+- Foreign Medical Program
+- Getting care at a local VA medical center
+- Vet Centers and readjustment counseling
+- Women's health services
+
+
+`OR TOPIC =`
+
+- Audiology and hearing aids
+- Eligibility and how to apply
+- Prosthetics
+
+`AND CONTACT PREFERENCE ≠` US MAIL
+
+`AND VETERAN DECEASED =`  NO
+
+`THEN` **Collect Veteran's zip code**
+
+| `IF TOPIC`                                     | `AND CONTACT PREFERENCE ≠` | `AND VETERAN DECEASED =` | `THEN`                              |
+| -------------------------------------------- | ------------------------ | ---------------------- | --------------------------------- |
+| Career opportunities at VA health facilities |                          | NO                     | **Collect Veteran's zip code** |
+| Caregiver support program                    |                          | NO                     | **Collect Veteran's zip code** |
+| Family health benefits                       |                          | NO                     | **Collect Veteran's zip code** |
+| Foreign Medical Program                      |                          | NO                     | **Collect Veteran's zip code** |
+| Getting care at a local VA medical center    |                          | NO                     | **Collect Veteran's zip code** |
+| Vet Centers and readjustment counseling      |                          | NO                     | **Collect Veteran's zip code** |
+| Women's health services                      |                          | NO                     | **Collect Veteran's zip code** |
+| Audiology and hearing aids                   | U.S. MAIL                | NO                     | **Collect Veteran's zip code** |
+| Eligibility and how to apply                 | U.S. MAIL                | NO                     | **Collect Veteran's zip code** |
+| Prosthetics                                  | U.S. MAIL                | NO                     | **Collect Veteran's zip code** |
+
+
+
+### A general question
+ `IF TOPIC =`
+
+ - Caregiver support program
+
+`AND VETERAN DECEASED =` NO
+
+`THEN` **Collect Veteran's zip code**
+
+| `IF TOPIC =`                | `AND VETERAN DECEASED =` | `THEN`                              |
+| ------------------------- | ---------------------- | --------------------------------- |
+| Caregiver support program | NO                     | **Collect Veteran's zip code** |
+
 
 
