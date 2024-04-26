@@ -4,7 +4,7 @@
 The Appointments team is looking for ways to improve the tool to help the Veteran navigate the tool easily. The user should have a positive experience when they are scheduling, requesting and managing their appointments online. 
 
 ### User Stories
-
+• **Multi-modality functionality:** As a veteran utilizing the online scheduling system, I want the option to choose between scheduling in-person, telehealth, or phone doctor appointments, so that I can access healthcare services in a manner that best suits my needs and preferences.
 
 ## Feature Initiatives 
 
