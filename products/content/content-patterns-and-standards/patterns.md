@@ -19,8 +19,6 @@ Like this: We’ll pay the tuition and mandatory fees up to $27,120.05 for this 
 - When using percent with a number, use the percent sign.
 Like this: 10% disability rating 
 
------
-
 *Notes*  
 Proposed placement: 
 - New H2 under "Abbreviations and acronyms" 
@@ -39,11 +37,12 @@ References:
 
 
 ## Quotation marks 
-
-### References to buttons, screens, or section headers in text
-- just use bold and no quotations
   
 ### User-submitted text (like search input)
-- use quotations
+- Use quotations
 - It's OK to also bold this type of text in some instances
+
+Example: Showing 1-10 of 110 search results for **"VSO"**
+
+Note: Use bold only, no quotations, in references to buttons, screens, or section headers in text.
 
