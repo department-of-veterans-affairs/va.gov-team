@@ -89,12 +89,17 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
   * Decision makers: Dave C and Danielle T.
  
     
-* **Aid & Attendance** (preparing to apply section)
-  * Per Dave: Switch to magic header with one required and others can be added. This content lives with the benefit, not the form, because the forms are not unique to the benefit, a benefit may have multiple forms, or there could be unique things.
-  * For the Aid & Attendance preparing to apply section: We differentiate between evidence needed for a Veteran vs. a survivor. There’s only 1 rich text field for “Prepare to apply”
- so we can’t do any hierarchy such as 2 subsections for the different audiences. We can handle this with bold content, but we want to look at this more together and discuss whether we might want to have the ability to have subsections here. We added in intent to file information in the prepare to apply section. 
-* **Veterans Pension and Survivors Pension**
-  * Per Dave: add another fieldset :Does this benefit have an intent to file? "yes/no" - default to "no". If Yes then show additional fields: Limited Rich Text. Link to form?
+* **Preparing to Apply section**
+  * There is only one rich text field. We need to move to magic header because, for example, in Aid and Attendance, they need to differentiate between veteran and survivor, so we need to accommodate hierarchy.
+  * Note: We can currently make at least one magic head required with more to be able to be created. This is a stand-alone required section currently.
+ 
+* **Intent to File**
+  * We are trying to say "is intent to file an option for this benefit? yes/no. What additional contextual info for intent to file, and how do they do it. Tackle through rich text? Link to form?
+    * Need to figure what data needs to ride along.
+    * Start small with rich text field and we can always add additional fields later if we recognize a need.
+    * We can add helpt text to inform editors as to what they need or could put in the field (links/words/etc.)
+
+
 * **Evidence Needed field**
   * CAIA would like to discuss a potential opportunity for increased standardization. Should we consider an “evidence needed” field that offers some kind of checkbox for the basics (like DD214) + an “other” customizable field for unique evidence for that benefit?
   * Per Dave & CAIA, for MVP start with a free-form Evidence Needed form (character count?). We can think about taxonomy post-MVP.
