@@ -4,7 +4,7 @@
 ### Development
 
 Feature Toggle:
-`TBD` will be disabled prior to staged rollout and will be enabled to an increasing % of users during the staged rollout. This will control visibility of the Representative Status Widget on our [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
+`TBD` will be disabled in Production prior to staged rollout and will be enabled to an increasing % of users during the staged rollout (schedule below). This will control visibility of the Representative Status Widget on our [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
 
 ### Validation
 
