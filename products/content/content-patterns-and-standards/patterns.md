@@ -44,5 +44,5 @@ References:
 
 Example: Showing 1-10 of 110 search results for **"VSO"**
 
-Note: Use bold only, no quotations, in references to buttons, screens, or section headers in text.
+**Note:** Use bold only, no quotations, in references to buttons, screens, or section headers in text.
 
