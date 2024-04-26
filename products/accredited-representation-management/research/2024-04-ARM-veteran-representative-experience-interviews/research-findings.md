@@ -8,8 +8,28 @@ Janelle Finnerty, janelle.finnerty\@oddball.io
 
 [Research readout](https://dvagov.sharepoint.com/:f:/s/vaabdvro/Ej67_1EtRCVMhEdK7m8FavwB4Ec-v9dR2uvSjmRwXUZW4A?e=vw14C5)
 
+**Jump to:**
 
-# Research Goals
+- [Research Goals](#research-goals)
+
+- [Research Questions](#research-questions)
+
+- [Methodology](#methodology)
+
+- [Key Findings Summary](#key)
+
+- [Detail of Findings](#details-of-findings)
+
+- [Additional Insights](#additional-insights)
+
+- [Recommendations](#recommendations)
+
+- [Next Steps](#next-steps)
+
+- [Appendix ](#appendix)
+
+
+# Research Goals<a id="research-goals"></a>
 
 ## Veteran & Caregiver Journey
 
@@ -25,7 +45,7 @@ Expand our knowledge of additional tasks, motivations, and challenges Veterans a
 ![](https://lh7-us.googleusercontent.com/mDwfm9B1LKblSxthoJFTDNy9ypRN4HtRKWN3dsdhZf_pWFS5aGv_Mtm5QWrNshvgeBx7x9fMDvkAM7mnI2Qlwez337D-1QAzkmPyKaSqTLOZWN4mkhdQnmkfRex5fMH2D5ulPxsqjZTZgPMLuzloplU)
 
 
-# Research Questions
+# Research Questions<a id="research-questions"></a>
 
 1. What are Veteran / Veteran family and caregiver motivations for seeking representation?
 
@@ -36,7 +56,7 @@ Expand our knowledge of additional tasks, motivations, and challenges Veterans a
 4. Do experiences or approaches differ between Veterans and their family/caregivers?
 
 
-# Methodology
+# Methodology<a id="methodology"></a>
 
 Across three studies we spoke to 24 participants. We asked Veterans and caregivers a **series of questions about their representative selection process and engagements with representatives.**
 
@@ -45,7 +65,7 @@ Participants had to be **actively searching for, or working with, a representati
 Perigean, OCTOs research recruitment company, managed the recruitment efforts of our interviews, which occurred from December 2023 to March 2024. [Link to recruitment site.](https://veteranusability.us/)
 
 
-# Key Findings Summary
+# Key Findings Summary<a id="key"></a>
 
 1. Understanding Representatives
 
@@ -68,7 +88,7 @@ Perigean, OCTOs research recruitment company, managed the recruitment efforts of
    2. The largest challenge with representative engagement was lack of punctual task completion and long wait or travel times. Which often led to delays, or missed claim deadlines.
 
 
-# Details of Findings
+# Details of Findings<a id="details-of-findings"></a>
 
 ## Understanding Representatives
 
@@ -563,7 +583,7 @@ This travel time and wait **is not sustainable for many either due to age, the i
 3. Provide a way for Veterans and caregivers to **report representatives not upholding their accreditation duties** to ensure consistent support?
 
 
-# Additional Insights
+# Additional Insights<a id="additional-insights"></a>
 
 ## Caregiver Considerations
 
@@ -593,12 +613,12 @@ Some commented on challenges with the phone systems. Specifically that they **en
 > _“So contact us if you have questions. Like that's just the main number. So whoever I call might not know what I'm talking about because I've had mixed experiences with calling the number and I might have to wait on hold for two hours. So I probably wouldn't call. I'd probably just suffer through and make an educated guess. And when I call, they can never find the form that my dad filled out to say that I can act on his behalf because he's 95 disabled and blind. So then they have to get him on the phone and it's a whole nightmare. So I would not, I would, I mean it would have to be like a nuclear war before I would call.” P9 Appoint a Representative Caregiver_
 
 
-# Recommendations
+# Recommendations<a id="recommendations"></a>
 
 See ‘How might we …’ sections.
 
 
-# Next Steps
+# Next Steps<a id="next-steps"></a>
 
 1. Continue to investigate and grow Veteran representative engagement and update report.
 
@@ -612,7 +632,7 @@ See ‘How might we …’ sections.
 None
 
 
-# Appendix
+# Appendix<a id="appendix"></a>
 
 This study is a compilation of 5 research reports by Accredited Representative Management (ARM) prior to 2024/03. [Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research)
 
