@@ -31,7 +31,6 @@ For our initial release, we will:
 
 1. include this toxic exposure section only for new conditions (not already-rated conditions or claims for increase)
 2. separate the "service connection" question into two screens (one for the radio button choice and another for the fields that follow it), per the one question per page guidance
-3. only update the second "service connection" screen following from the first "service connection" radio button choice
 
 ![service connection second screen following first radio button choice](https://github.com/department-of-veterans-affairs/va.gov-team/assets/151068099/53c08f8d-d43d-499f-917a-74be4d5816e8)
 
