@@ -1,7 +1,7 @@
 # Location of residence and postal code
 
-Last updated by @tygindraux: April 26, 2024
-
+Last updated by @t-michaud: April 26, 2024
+ 
 The rules are described in the following sections:
 - [Guardianship and VR&E](#guardianship-and-vre)
 - [Education](#education)
@@ -13,6 +13,19 @@ The rules are described in the following sections:
 - Veteran Readiness and Employment
 
 `AND TOPIC ≠` Other
+
+---
+
+### Contact preference
+`IF contact preference =` Phone `OR` Email
+
+Continue to with determining whose location of residence and zip code to collect.
+
+`ELSE IF contact preference =` U.S. Mail
+
+Skip this section.
+
+_The location and zip code are collected in the **Address component** and replace the **location of residence & zip code component** flow._
 
 ---
 
