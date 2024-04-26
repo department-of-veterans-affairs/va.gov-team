@@ -3,7 +3,7 @@
 Last updated by @tygindraux: April 26, 2024
 
 The rules are described in the following sections:
-- [Guardianship and VR&E](#guardianship-and-vr&e)
+- [Guardianship and VR&E](#guardianship-and-vre)
 - [Education](#education)
 - [Health care](#health-care)
 
