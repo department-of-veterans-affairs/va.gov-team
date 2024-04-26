@@ -21,7 +21,7 @@
 ## Staged Rollout Details
 
 - Rollout date range: 5/6-5/13
-- Feature Toggle: `TBD` will be disabled in Production prior to staged rollout and will be enabled to an increasing % of users during the rollout. This will control visibility of the Representative Status Widget on our [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
+- Feature Toggle: `representative_status_enabled` will be disabled in Production prior to staged rollout and will be enabled to an increasing % of users during the rollout. This will control visibility of the Representative Status Widget on our [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
 - Errors will be tracked in Sentry and Datadog, and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed above)
 
 
@@ -39,7 +39,7 @@
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the frontend feature toggle `TBD`
+1. Turn off the frontend feature toggle `representative_status_enabled`
    1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Include any details as to what triggered the rollback
