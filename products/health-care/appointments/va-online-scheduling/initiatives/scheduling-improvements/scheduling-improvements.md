@@ -3,13 +3,7 @@
 ## Objective
 The Appointments team is looking for ways to improve the tool to help the Veteran navigate the tool easily. The user should have a positive experience when they are scheduling, requesting and managing their appointments online. 
 
-### User Stories
-- **Multi-modality functionality:** As a veteran scheduling online using the Appointments tool on va.gov, I want the option to choose between scheduling in-person, telehealth, or phone doctor appointments, so that I can access healthcare services in a manner that best suits my needs and preferences.
-- **Progress indicator:** As a veteran scheduling online using the Appointments tool on va.gov, I want a clickable progress indicator that allows me to navigate back to previous steps in the scheduling process, so that I can review and edit my information if needed. Additionally, I want the progress indicator to visually represent where I am in the scheduling process, providing clear guidance on the steps remaining to complete scheduling my appointment.
-- **Create a path to register:** As a veteran sorting appointments by location, I want to see all nearby facilities displayed, regardless of whether I am currently registered there. If I am not registered at a nearby facility, I need clear information on how to register. This change will better meet my needs as a user, as I am likely not established at nearby facilities and need to easily identify available options for healthcare services.
-- **Scheduling context up front:** As a Veteran scheduling an appointment, I want to see available options in the facility list and see why a I might not be able to schedule at a facility.
-- **Appointment requests:** As a Veteran unable to directly schedule an appointment at an OH facility, I want a clear path to request an appointment, ensuring I can still access healthcare services even if direct scheduling is unavailable.
-- **Surface availability:** As a Veteran searching for appointment availability, I want a streamlined process to compare appointment times across multiple clinics, eliminating the need to navigate back and forth between options.
+
 
 
 ## Feature Initiatives 
@@ -121,6 +115,18 @@ Patient friendly names:
 </details>
 
 ### Resources
+<details>
+         
+<summary>User Stories</summary>
+### User Stories
+- **Multi-modality functionality:** As a veteran scheduling online using the Appointments tool on va.gov, I want the option to choose between scheduling in-person, telehealth, or phone doctor appointments, so that I can access healthcare services in a manner that best suits my needs and preferences.
+- **Progress indicator:** As a veteran scheduling online using the Appointments tool on va.gov, I want a clickable progress indicator that allows me to navigate back to previous steps in the scheduling process, so that I can review and edit my information if needed. Additionally, I want the progress indicator to visually represent where I am in the scheduling process, providing clear guidance on the steps remaining to complete scheduling my appointment.
+- **Create a path to register:** As a veteran sorting appointments by location, I want to see all nearby facilities displayed, regardless of whether I am currently registered there. If I am not registered at a nearby facility, I need clear information on how to register. This change will better meet my needs as a user, as I am likely not established at nearby facilities and need to easily identify available options for healthcare services.
+- **Scheduling context up front:** As a Veteran scheduling an appointment, I want to see available options in the facility list and see why a I might not be able to schedule at a facility.
+- **Appointment requests:** As a Veteran unable to directly schedule an appointment at an OH facility, I want a clear path to request an appointment, ensuring I can still access healthcare services even if direct scheduling is unavailable.
+- **Surface availability:** As a Veteran searching for appointment availability, I want a streamlined process to compare appointment times across multiple clinics, eliminating the need to navigate back and forth between options.
+</details>
+
 <details>
          
 <summary>Planning</summary>
