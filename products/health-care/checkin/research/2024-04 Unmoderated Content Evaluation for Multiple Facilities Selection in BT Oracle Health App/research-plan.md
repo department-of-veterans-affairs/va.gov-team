@@ -101,6 +101,34 @@ The tests will be conducted online at the participant’s leisure.
 - At least 15 participants who don't have any degree or vocational training after high school (to include enlisted Veterans)
 - At least 10 people who live in a rural or remote area
 
+### Screener questions
+
+#### Travel reimbursement screener questions:
+
+```
+1. Have you ever filed for travel reimbursement for a VA or community care medical appointment? (Note: Could be either via paper form, BTSSS portal, or online check-in.)
+
+  - Yes (Meets criteria for Cohorts A - E depending on other requirements)
+  - No - go to question 2
+```
+
+```
+2. (If yes to question 1) Are you eligible receive travel reimbursement for health care appointments?
+
+  - Yes (Meets criteria for Cohort F depending on other requirements)
+  - No (Does not meet criteria for Cohorts F-G)
+  - I'm not sure if I'm eligible (Meets criteria for Cohort G depending on other requirements) 
+```
+
+#### Cognitive disability screener question: 
+
+```
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
+
+  - Yes (Meets criteria for cognitive disability)
+  - No (Does not meet criteria for cognitive disability)
+```
+
 ## Timeline
 
 ### Pilot session
