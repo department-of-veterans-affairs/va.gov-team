@@ -108,16 +108,16 @@ The tests will be conducted online at the participant’s leisure.
 ```
 1. Have you ever filed for travel reimbursement for a VA or community care medical appointment? (Note: Could be either via paper form, BTSSS portal, or online check-in.)
 
-  - Yes (Meets criteria for Cohorts A - E depending on other requirements)
-  - No - go to question 2
+  - YES (meets criteria for Cohorts A - E depending on other requirements)
+  - NO - go to question #2 (Meets criteria for Cohorts F and G depending on other requirements)
 ```
 
 ```
-2. (If yes to question 1) Are you eligible receive travel reimbursement for health care appointments?
+2. (If NO to question 1) Are you eligible receive travel reimbursement for health care appointments?
 
-  - Yes (Meets criteria for Cohort F depending on other requirements)
-  - No (Does not meet criteria for Cohorts F-G)
-  - I'm not sure if I'm eligible (Meets criteria for Cohort G depending on other requirements) 
+  - YES (meets criteria for Cohort F depending on other requirements)
+  - NO (does not meet criteria for Cohorts F or G)
+  - I'M NOT SURE (meets criteria for Cohort G depending on other requirements) 
 ```
 
 #### Cognitive disability screener question: 
@@ -125,8 +125,8 @@ The tests will be conducted online at the participant’s leisure.
 ```
 1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
 
-  - Yes (Meets criteria for cognitive disability)
-  - No (Does not meet criteria for cognitive disability)
+  - YES (meets criteria for cognitive disability)
+  - NO (does not meet criteria for cognitive disability)
 ```
 
 ## Timeline
