@@ -138,10 +138,8 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
-        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281) 
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-    - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
+    - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)** & **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [SPIKE: How Can we Integrate with the New CES Modality Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
         - TBD: need new tickets to implement the integration with the modality service
     - **Sub Goal: New Landing Page with Upcoming Appointments**
@@ -155,7 +153,6 @@ ________________________________________________________________________________
         - 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
         - 🟩 [[FE] Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
-        - 🟩 [[FE] Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
@@ -163,6 +160,7 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
     - 🟩 [Details Page: Don't Show Labels when Data is Not Available ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81541)
     - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
+    - 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81795)
 
 </details>
 ______________________________________________________________________________________________________________________________________________________
@@ -214,19 +212,19 @@ ________________________________________________________________________________
             - ~🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72620)~            
     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
         - ✔️ 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)
-        - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
-            - Dependent on Appts OH team
         - ✔️ 🟩 [[FE] Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/80942)
         - ✔️ 🟩 [[FE] Add Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/64635)
         - - Removed from the sprint, no longer needed
             - ~🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)~
-            - ~🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)~            
+            - ~🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)~
+            - ~🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)~
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
+        - ✔️ 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
         - ✔️ 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
         - 🟦 [[BE] Implement Facilities API Client Class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71788)
-        - ~🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)~
         - 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
+        - Removed from sprint
+            - ~🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)~ 
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - ✔️ 🟥 [Research] Analyze GA Metrics
         - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
