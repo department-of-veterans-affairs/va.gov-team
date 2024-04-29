@@ -2,7 +2,7 @@
 name: "CAIA Follow-up Task Ticket"
 about: Template for product teams requesting additional help on existing/ongoing CAIA project. 
 title: 'CAIA Follow-up Task Ticket'
-labels: 'Sitewide CAIA'
+labels: 'sitewide CAIA'
 assignees: 'strelichl'
 ---
 
