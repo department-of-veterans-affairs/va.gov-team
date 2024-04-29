@@ -52,6 +52,15 @@ Tell us briefly about what you're working on now (such as initial discovery, wir
 
 `Enter your description here`
 
+### Will you release this new product incrementally (for example, release to 25% of users to start)?
+
+- [ ]  Yes
+- [ ]  No
+ 
+ *Note: **If you check yes, we’ll reach out to discuss details about the content in the react widget. We use these widgets to display entry points for new products to a certain percentage of users who visit our static pages. Please refer to this [GitHub reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md) for dynamic content.
+ 
+- [ ]  I acknowledge that if I change the launch to be incremental, or change it from incremental to 100%, I must notify CAIA of this change as there is additional work involved that may impact deadlines.
+
 ## Collaboration cycle 
 
 ### Which phases of the collaboration cycle have you completed?
@@ -86,26 +95,3 @@ Provide links to any supporting artifacts that can help us better understand you
 - [ ] **If you're requesting a11y support for usability research**, submit a research support request next. <br> [Open an a11y research support request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cangelafowler82&labels=508%2FAccessibility%2C+sitewide+CAIA%2C+sitewide+accessibility%2C+CAIA-a11y-research&template=caia-a11y-research.yaml&title=%5BCAIA+A11y+Research%5D%3A+Team+name%2C+product+name)
 - [ ] **If you are requesting content support**, please share your content source of truth (preferably as a SharePoint document).
 ```
-
-```[tasklist]
-### CAIA operations
-- [ ] Initial Review - @coforma-terry and @strelichl 
-```
-
-```[tasklist]
-### CAIA a11y tasks
-```
-
-```[tasklist]
-### CAIA content tasks
-```
-
-```[tasklist]
-### CAIA IA tasks
-```
-
-
-
-
-
-
