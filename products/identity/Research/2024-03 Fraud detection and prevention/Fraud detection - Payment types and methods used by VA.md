@@ -178,7 +178,6 @@ Source: Cinda Quatrini VBAVACO - email conversation
 
 The Department of Veterans Affairs (VA) is actively combating fraud related to department benefits.
 
-
 Rapid expansion of assistance in the last year has raised concerns about potential scams targeting vulnerable veterans.
 
 Common fraudulent activities include:
@@ -224,14 +223,13 @@ The Veteran Benefits Administration’s (VBA) Benefits Delivery Protection and R
 
 ## Payment Redirection Fraud
 
-As part of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act (PACT Act), more Veterans are receiving increased benefits. However, this positive development also attracts criminals who seek to exploit vulnerable individuals. 
+As part of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act (PACT Act), more Veterans are receiving increased benefits and more criminals are trying to exploit vulnerable individuals. 
 
-Criminals impersonate others, often targeting Veterans.
-They gain access to sensitive Personal Identifiable Information (PII).
-Imposter scams account for up to 40% of the total fraud reported by military members. 
-
-Armed with the stolen information, scammers redirect the victim’s VA benefits payments.
-These payments are rerouted to bank accounts or prepaid debit cards controlled by the fraudsters.
+- Criminals impersonate others, often targeting Veterans.
+- They gain access to sensitive Personal Identifiable Information (PII).
+- *Imposter scams account for up to 40% of the total fraud reported by military members.*
+- Armed with the stolen information, scammers redirect the victim’s VA benefits payments.
+- These payments are rerouted to bank accounts or prepaid debit cards controlled by the fraudsters.
 
 ### Cases of Fraud Attempts
 
@@ -278,7 +276,9 @@ Case Details:
 
 ## VA Life Insurance Policies and Dividends
 
-The handling of VA life insurance policies and dividends can be subject to fraud. Fraudulent activities may include misrepresenting eligibility, falsifying information, or attempting to receive excess benefits. It’s crucial for the VA to closely monitor and verify transactions to prevent any fraudulent actions and ensure the security of veterans’ financial interests.
+- The handling of VA life insurance policies and dividends can be subject to fraud. 
+- Fraudulent activities may include misrepresenting eligibility, falsifying information, or attempting to receive excess benefits. 
+- It’s crucial for the VA to closely monitor and verify transactions to prevent fraud and promote account security.
 
 
 ### Dividends
@@ -330,19 +330,14 @@ CPBT is a service that streamlines claims processing for veterans. It aims to im
 
 Payment methods used by CPBT include direct deposits, checks, and electronic fund transfers. (Note: Needs confirmation- Check use was reported to be discontinued in 2023)
 
-Monitoring CPBT is crucial to detect any fraudulent activity related to payments made to veterans.
-
-
 Centralized Data Repository (CDR):
 CDR consolidates information from various platforms into a cohesive view to support Integrated Veterans Care (IVC) business processes.
 It serves as a single source of truth for IVC and other VHA entities that generate reports from Community Care data.
 CDR ensures accurate, normalized data and provides tools for staff.
-Monitoring CDR helps prevent fraudulent activities related to data manipulation or unauthorized access.
 
 Planned Enhancements:
 The VA plans to consolidate duplicative Application Programming Interfaces (API) connections.
-Proper funding is essential for timely and accurate analytics in support of Community Care providers’ claims and payments.
-Lack of funding could adversely affect system performance and storage costs, potentially leading to vulnerabilities that fraudsters might exploit.
+Proper funding is essential for timely and accurate analytics (system performance and storage costs) in support of Community Care providers’ claims and payments.
 
 CAPRI Sustainment-Enhancement:
 CAPRI is critical for processing Veteran and service member claims for disabilities.
@@ -428,7 +423,7 @@ The FSC uses the Online Certification System (OLCS) for construction payments, e
 
 The VA may use “Fast Pay” procedures to pay vendor invoices before fully verifying that supplies have been received and accepted.
 These procedures allow for quicker payment processing.
-For more details and specific conditions related to fast payment processes, refer to FAR Subpart 13.4 and [5 C.F.R. § 1315.6](https://public-inspection.federalregister.gov/2021-21805.pdf)
+For more details and specific conditions related to fast payment processes, see FAR Subpart 13.4 and [5 C.F.R. § 1315.6](https://public-inspection.federalregister.gov/2021-21805.pdf)
 
 
 --------------------------------
@@ -439,9 +434,9 @@ For more details and specific conditions related to fast payment processes, refe
 Imprest funds are used to acquire and pay for supplies or services.
 
 Policies and regulations governing imprest funds and third-party drafts are outlined in:
-Part IV of the Treasury Financial Manual for Guidance of Departments and Agencies.
-Title 7 of the GAO Policy and Procedures Manual for Guidance of Federal Agencies.
-Agency-specific implementing regulations.
+- Part IV of the Treasury Financial Manual for Guidance of Departments and Agencies.
+- Title 7 of the GAO Policy and Procedures Manual for Guidance of Federal Agencies.
+- Agency-specific implementing regulations.
 
 Responsibilities:
 Designated cashiers and alternates handle imprest funds.
@@ -536,7 +531,7 @@ Waivers are considered when collection would be against equity and good conscien
 Debtors are informed of their rights, remedies, and the consequences of non-cooperation.
 Debtors can dispute the debt’s existence or amount or request a waiver.
 
-Note: A breakdown of Overpayments is available here FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023
+Note: A breakdown of [Overpayments is available here FY2023 Payment Accuracy Dataset_Data_As_of 11.21.2023](http://paymentaccuracy.gov/payment-accuracy-the-numbers/)
 
 --------------------------------
 
@@ -564,20 +559,20 @@ https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201907-2900-003
 Payment for the automobile allowance and adaptive equipment grant will be made as follows:
 One-Time Payment for Specially Equipped Vehicle:
 To receive assistance in purchasing a specially equipped vehicle:
-Complete the Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502).
-Mail the form to the address specified on the form.
-VA will directly pay the vehicle’s seller.
+1. Complete the Application for Automobile or Other Conveyance and Adaptive Equipment (VA Form 21-4502).
+2. Mail the form to the address specified on the form.
+3. VA will directly pay the vehicle’s seller.
 
 Eligibility:
-Person must have a service-connected condition to qualify for a specially equipped vehicle.
-They must file a claim for disability compensation before qualifying.
+- Person must have a service-connected condition to qualify for a specially equipped vehicle.
+- They must file a claim for disability compensation before qualifying.
 
 Adaptive-Equipment Grant:
 For adaptive equipment related to motor vehicles:
-Fill out the Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394).
-Bring the form to the prosthetic representative at a local VA medical center.
-VA may pay the requestor directly or the equipment seller.
-Eligibility requires a service-connected disability.
+1. Fill out the Application for Adaptive Equipment—Motor Vehicle (VA Form 10-1394).
+2. Bring the form to the prosthetic representative at a local VA medical center.
+3. VA may pay the requestor directly or the equipment seller.
+4. Eligibility requires a service-connected disability.
 
 --------------------------------
 
@@ -599,7 +594,9 @@ As part of their responsibilities, the Department of Justice (DOJ), the Departme
 
 ### Serving as School Certifying Official (SCO) with VA Benefits
 
-When an SCO is also a VA student at the same school where they work, they must designate another SCO at the approved facility to certify their enrollment with the VA. It’s important to note that the VA will not disburse GI Bill benefits for courses certified by the individual who is taking those courses.
+When an SCO is also a VA student at the same school where they work, they must designate another SCO at the approved facility to certify their enrollment with the VA. 
+
+**Note: The VA will not disburse GI Bill benefits for courses certified by the individual who is taking those courses.**
 
 --------------------------------
 
@@ -673,6 +670,7 @@ Enrollment Status Changes:
 Adjust or terminate the Cert as needed.
 Ensure to include tuition and fees.
 Consider mitigating circumstances.
+
 [VA eBenefits](knowva.ebenefits.va.gov/)
 
 
