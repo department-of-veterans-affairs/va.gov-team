@@ -99,6 +99,21 @@ The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://gith
 | "mhvMedicationsToVaGovRelease" | Yes |  |
 | "mhvMedicationsDisplayRefillContent" | ? |  |
 
+### Datadog
+
+Datadog Real User Monitoring (RUM) allows us to [specify names for click actions](https://docs.datadoghq.com/real_user_monitoring/browser/tracking_user_actions/#declare-a-name-for-click-actions) using the `data-dd-action-name` attributes, and that's useful when auto-detected action name might be unclear or misleading. Similar links may exist in secondary navigation and elsewhere on the page, so custom action names on secondary nav could follow a form like `MHV Secondary Nav - Link Action Name`.
+
+#### Testing/Verifying Datadog
+
+- Enter `window.DD_RUM.getInternalContext()` in browser console to verify Datadog RUM is running
+- Inject styles into the page to visualize elements that have `data-dd-action-name` attributes
+
+We can use the [Stylus browser extension](https://add0n.com/stylus.html) to use inject custom CSS to visualize  `data-dd-action-name` attributes, as [platform docs for RUM recommend](https://github.com/department-of-veterans-affairs/va.gov-team/blob/main/platform/analytics/setup-real-user-monitoring.md#testing-for-exposed-content).
+
+##### Stylus styles
+
+[TBD]
+
 ## Release strategy
 
 ### QA approach
