@@ -153,16 +153,16 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - ✔️ ❗ 🟥 [[DESIGN] Solidify Appointment list page components for surfacing notifications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80153)
-        - ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
+        - ✔️ ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
         - ✔️ ❗ 🟦 [Explore using CDW to access Consult Factors db table to find approved referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81122)
-        - 🟦 [Service level coding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81459)
+        - ✔️ 🟦 [Service level coding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81459)
             - Added halfway through sprint
 - **GOAL: Make Travel Claims Easier** 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
+        - ✔️ 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
     - **Sub Goal: Discovery - Check Travel Eligibility**
         - ✔️ 🟥 [Travel: Create Content for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78322)
-        - 🟥 [Travel: Create Final Wireframes for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
+        - ✔️ 🟥 [Travel: Create Final Wireframes for Eligibility Check](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78319)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - ✔️ 🟥 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80939)
@@ -185,8 +185,8 @@ ________________________________________________________________________________
         - ~🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)~
         - 🟦 [[BE] Implement Response class ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68697)
     - **Sub Goal: Analyze current metrics to see what they tell us**
-        - 🟥 [Research] Analyze GA Metrics
-        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
+        - ✔️ 🟥 [Research] Analyze GA Metrics
+        - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/76034)
 - **GOAL: Improve Metrics**
     - **Sub Goal: Add a Link to the In-App Survey to Travel, Pre-Check-in, and eCheck-in**
         - ✔️ 🟩 [Configure Pre-Check-in, eCheck-in & Travel Applications to Display the Medallia Feedback Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79934)
