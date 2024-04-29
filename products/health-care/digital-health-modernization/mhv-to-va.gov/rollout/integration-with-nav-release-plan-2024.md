@@ -112,7 +112,27 @@ We can use the [Stylus browser extension](https://add0n.com/stylus.html) to use 
 
 ##### Stylus styles
 
-[TBD]
+The following will outline elements that have the `data-dd-action-name` attribute and display the value of the attribute on the page:
+
+```
+@-moz-document url-prefix("http://localhost:3001"), url-prefix("https://staging.va.gov/") {
+:root {
+    --hl-color: lime;
+}
+
+[data-dd-action-name] {
+    outline: 6px double var(--hl-color);
+}
+
+[data-dd-action-name]:after {
+    color: var(--hl-color);
+    content: '[dd-action-name]: ' attr(data-dd-action-name) '';
+    display: block;
+    position: absolute;
+    top: 3rem;
+}
+}
+```
 
 ## Release strategy
 
