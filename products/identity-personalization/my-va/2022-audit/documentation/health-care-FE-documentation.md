@@ -203,7 +203,7 @@ Use VA-icon `forum` (named "messages" in Figma) for icon
 
 ### Schedule and manage your appointments link
 
-<img width="626" alt="Schedule and manage" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c1ca87c8-2e6f-4441-8e51-fd398d5d6899">
+<img width="480" alt="Schedule and manage" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c1ca87c8-2e6f-4441-8e51-fd398d5d6899">
 
 Use VA-icon `event_available` (named "appointments" in Figma) for icon
 
