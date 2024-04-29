@@ -9,7 +9,7 @@ We are performing an audit of our va.gov (vets-api) database with the goal of id
 The following is documented:
 
 - [x] A list of submissions that are 'untouched' **before** deduplication, aka our untouched 'short list'.
-- [ ] A breakdown of the process (logic and code) used to create this 'short list'.
+- [x] A breakdown of the process (logic and code) used to create this 'short list'.
 - [ ] A list of submissions that are 'untouched' **after** deduplication.
 - [ ] A break down of our deduplication process and what we deemed safe to ignore.
 
