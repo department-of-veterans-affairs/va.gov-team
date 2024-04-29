@@ -2,7 +2,7 @@
 name: "CAIA New Content Task"
 about: Template for new content task.
 title: 'New Content Task Ticket'
-labels: 'Sitewide CAIA, Sitewide content'
+labels: 'sitewide CAIA, sitewide content'
 assignees: 'strelichl'
 ---
 
