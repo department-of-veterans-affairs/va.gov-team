@@ -4,7 +4,7 @@
 Attendees: Angela, Hieu, Katelyn, Jessica, Kristen, Alex (briefly), and Emily (briefly).
 
 **OCTO**
-- Lois Luis will take over Kristen position as our main point-of-contact while Kristen takes additional OTCO responsibilities. 
+- Lois Lewis will take over Kristen position as our main point-of-contact while Kristen takes additional OTCO responsibilities. 
 - Lois will join us for UX Sync, the HEC calls, the PO sync.
 - Emily wants to set up a demo for Lois.
 - Kristen will post an intro and indicate which meeting Lois will join in.
