@@ -7,6 +7,8 @@ assignees: 'strelichl'
 ---
 
 # CAIA Follow-up Task Ticket
+> [!WARNING]
+> Do not use this ticket unless directed to do so by the CAIA team.
 
 ## Issue description
 Use this ticket to request follow-up work on existing collaboration with the sitewide content, accessibility, and information architecture (CAIA) team.
