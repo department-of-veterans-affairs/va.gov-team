@@ -6,7 +6,7 @@ There is currently inadequate external-facing status pages for VA.gov authentica
 - We already have maintenance banners, why not them?
   - We need to confirm all downtimes are displaying correctly on the sign-modal & page.
     - Waiting on CoP FE approval.
-    - [Riley added "maintenance_windows"] (https://api.va.gov/v0/backend_statuses)
+    - [Riley added "maintenance_windows"](https://api.va.gov/v0/backend_statuses)
       - PR in Frontend that accompanies this change
   - We can use them, but we need to document our internal process for enabling them.
     - Or automate it.
