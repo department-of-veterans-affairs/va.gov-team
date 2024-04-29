@@ -44,6 +44,38 @@ An explanation of the above chart:
   - The second grouping is what we expect to be the meat of our short list, that is submissions that were some how missed during our remediation efforts.  The how and why of this isn't important to the audit.  What we care about here is simply dog-earing them as something that requires further attention.
  - `ignorable_duplicate` is a state the will primarily (but not necessarily) represent something from the 'slipped through the cracks' grouping.  It is going to be back filled onto our short list submissions in cases where we determine a submission is an exact duplicate, or close enough (More on that below) to be ignored.
 
+Given the above tagging, the following script was used to generate our list of untouched submission ids.
+```ruby
+# subtractive audit to identify untouched submissions
+# requires BenefitsIntakeStatusPoll object from: 
+# https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/failure_reporting/benefits_intake_status_poll.rb
+arel = Form526Submission.arel_table
+# between our primary and backup retries, plus the possible lag in LH status updating, this
+base = Form526Submission.where(arel[:created_at].lt(Date.today - 3.days)); nil
+back_ups = base.where.not(backup_submitted_claim_id: nil); nil
+poll = BenefitsIntakeStatusPoll.new(guids: back_ups.pluck(:backup_submitted_claim_id), tracking_level: :all); nil
+poll.processing_guids.count # should be 0 <- this indicates there is nothing in LH that may change
+
+base.count # 2735264
+remediated = base.where(aasm_state: :in_remediation).pluck(:id); nil
+remediated.count # 168
+batched = base.where(aasm_state: :processed_in_batch_remediation).pluck(:id); nil
+batched.count # 39551
+finalized = base.where(aasm_state: :finalized_as_successful).pluck(:id); nil
+finalized.count # 8863
+accepted_to_primary = base.where.not(submitted_claim_id: nil).pluck(:id); nil
+accepted_to_primary.count # 2568474
+accepted_to_backup = (poll.success_submissions.pluck(:id) + poll.vbms_submissions.pluck(:id)); nil
+accepted_to_backup.count # 8997
+
+touched_ids = (remediated + batched + finalized + accepted_to_primary + accepted_to_backup); nil
+touched_ids.count # 2626053
+all_ids = base.pluck(:id); nil
+untouched_ids = all_ids - touched_ids; nil # trying to do a base.where.not(id: touched_ids) will TO
+untouched_ids.count # 118261
+untouched_subs = Form526Submission.where(id: untouched_ids); nil # dont really need to do this, but i like the sanity check
+untouched_subs.count # 118261 <-should match untouched ids, if not something is very wrong
+```
 
 ## Deduplication
 [todo]
