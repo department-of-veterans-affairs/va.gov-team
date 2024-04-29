@@ -137,9 +137,9 @@ For **any other facility, go to My HealtheVet.**
 
 ### Apply for VA health care link
 
-![Screen Shot 2022-11-17 at 11 07 54 AM](https://user-images.githubusercontent.com/97965610/202497628-f2f6b3d4-81f3-401e-a5e6-f0f6030bdbd3.png)
+<img width="480" alt="Get your VA medical records" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/b667a246-6cfc-4547-8fa4-7bd1a09f3919">
 
-Use font awesome icon `file-medical` for icon
+Use VA-icon icon `note_add` (named "medical records" in Figma) for icon
 
 **Show**
 - For users who do not have health care through VA.
@@ -156,18 +156,22 @@ Use font awesome icon `file-medical` for icon
 ### Go to your inbox link
 
 With unread messages:
-<img width="955" alt="Screenshot 2023-08-23 at 2 13 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/692bd74b-c9c6-4e8e-9a27-1ab2401a3c2b">
+
+<img width="543" alt="Go to Inbox - message" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/8a94c123-cd1f-4b1c-9cf0-a48b32f77434">
+
 [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A305&mode=design&t=2I2vzoW03gTPk52L-1)
 
 [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=2I2vzoW03gTPk52L-1)
 
 Without unread messages:
-<img width="948" alt="Screenshot 2023-08-23 at 2 30 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/07d7cc07-f26a-418e-81fe-8b5fe0d4d119">
+
+<img width="545" alt="Go to Inbox - no messages" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/0dc4eb40-37d7-47c6-b7ed-e3cb465939b4">
+
 [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=2I2vzoW03gTPk52L-1)
 
 [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=2I2vzoW03gTPk52L-1)
 
-Use font awesome icon `comments` for icon
+Use VA-icon icon `forum` (named "messages" in Figma) for icon
 
 **Show link**
 - For users who have VA health care.
