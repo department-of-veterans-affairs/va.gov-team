@@ -16,15 +16,13 @@ The following is documented:
 Our next steps will involve comparison with a similar audit being performed by VBMS.
 
 ## Context
-[todo]
+- [This document describing the historical context of the 526 remediation effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/526_failure_batching_and_triage_handoff.md)
+- [This Github issue tracking our va.gov side audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80624)
 
 ## The short list, aka untouched-un-deduped
-[todo]
+This is our 'short list' of possible untouched submissions.  When it is de-duplicated, what is left will be our final audit result (relative to this effort).
 
-
-```ruby
-# paste ids here
-```
+[The short list is available here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80624#issuecomment-2083431369)
 
 ### How we got this list
 
