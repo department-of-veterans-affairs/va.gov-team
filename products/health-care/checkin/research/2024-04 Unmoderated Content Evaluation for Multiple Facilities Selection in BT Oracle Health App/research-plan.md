@@ -136,10 +136,11 @@ Completed
 
 ### Kickoff with Perigean
 
-- 4/18: 9-1, 3-5 ET
-- 4/19: 9-230 ET
-- 4/22: 9-2, 330-5 ET
-- 4/23: 3-5 ET
+- 5/1: 1:45-2:30pm ET, 3-5pm ET
+- 5/2: 3-3:30pm ET
+- 5/3 (not preferred): 12-12:45pm ET
+- 5/6: 3:30-4pm ET
+
 
 ### Start date
 
