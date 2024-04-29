@@ -222,9 +222,9 @@ Use VA-icon `event_available` (named "appointments" in Figma) for icon
 
 ### Refill and track your prescriptions link
 
-![Screen Shot 2022-09-30 at 1 50 57 PM](https://user-images.githubusercontent.com/97965610/193331635-504abfdc-91c3-45eb-abe1-ecec34b2ad6d.png)
+<img width="480" alt="Refill and track" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/f2e2993f-c5d7-4752-bb00-2cad0b9e8b2f">
 
-Use font awesome icon `prescription-bottle` for icon
+Use VA-icon 'medication` ("prescriptions" in Figma) for icon
 
 **Show**
 - For users who have VA health care.
@@ -241,9 +241,9 @@ Use font awesome icon `prescription-bottle` for icon
 
 ### Request travel reimbursement link
 
-![Screen Shot 2022-09-30 at 1 51 04 PM](https://user-images.githubusercontent.com/97965610/193332543-3f753ce1-5451-46c5-a1e9-5ff14031a8b2.png)
+<img width="480" alt="Request travel reimbursement" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/0168263a-dae1-4b5a-8ba3-d750f2dbe695">
 
-Use font awesome icon `suitcase` for icon
+Use VA-icon `work` ("travel reimbursement" in Figma) for icon
 
 **Show**
 - For users who have VA health care.
@@ -260,9 +260,9 @@ Use font awesome icon `suitcase` for icon
 
 ### Get your VA medical records and lab and test results link
 
-![Screen Shot 2022-09-30 at 1 51 12 PM](https://user-images.githubusercontent.com/97965610/193333627-9a383f84-4fa7-4b98-8786-4bfb81520483.png)
+<img width="480" alt="Get your VA medical records" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/30321063-eaa5-4083-bddf-cd5615d32961">
 
-Use font awesome icon `file-medical` for icon
+Use VA-icon `note_add` ("medical records" in Figma) for icon
 
 **Show**
 - For users who have VA health care.
