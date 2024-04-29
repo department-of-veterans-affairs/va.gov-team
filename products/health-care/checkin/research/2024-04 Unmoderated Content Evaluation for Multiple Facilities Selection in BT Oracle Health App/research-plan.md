@@ -61,7 +61,8 @@ The tests will be conducted online at the participant’s leisure.
 
 - Cohort B (9 Veterans) 
   - All must have experience filing for travel reimbursement
-  - All must be over 55 years old OR have a cognitive disability
+  - All must be under 55 years old
+  - All must have a cognitive disability
   - [cohort B link](https://dj540s05.optimalworkshop.com/questions/facilities-selection-bt-oh?tag=b)
 
 - Cohort C (9 Veterans)
