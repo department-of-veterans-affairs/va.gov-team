@@ -1,4 +1,4 @@
-# SPRINT GOALS (aka SPRINKLES) 
+# CIE SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
