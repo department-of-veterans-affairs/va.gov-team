@@ -20,13 +20,15 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
      - >Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
 ### MVP scope - to implement prior to Enrollment system development
+- For Veterans with 40% or lower disability rating, we will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits.  If they choose service-connected care only, we will display an on-screen message directing them to call, download the PDF form and mail in or visit a facility to register for Service-connected care.
+     - Priority of contact methods confirmed with HEC stakeholders on 4/10/2024 (#1 call, #2 mail, #3 visit in-person at facility)
+     - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
+
 - Decided as a team and shared with PO on 4/8/2024 with verbal approval, confirmed on 4/17/2024 with written approval
 >     - Patrick Bateman
 >          - thanks @Heather Justice. this looks great, no questions.
 - Shared with HEC Stakeholders on 4/10/2024, receiving verbal excitment and approvals
-- For Veterans with 40% or lower disability rating, we will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits.  If they choose service-connected care only, we will display an on-screen message directing them to call, download the PDF form and mail in or visit a facility to register for Service-connected care.
-     - Priority of contact methods confirmed with HEC stakeholders on 4/10/2024 (#1 call, #2 mail, #3 visit in-person at facility)
-     - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
+
 
 
 ## Problem
