@@ -118,6 +118,7 @@ Patient friendly names:
 <details>
          
 <summary>User Stories</summary>
+
 ### User Stories
 - **Multi-modality functionality:** As a veteran scheduling online using the Appointments tool on va.gov, I want the option to choose between scheduling in-person, telehealth, or phone doctor appointments, so that I can access healthcare services in a manner that best suits my needs and preferences.
 - **Progress indicator:** As a veteran scheduling online using the Appointments tool on va.gov, I want a clickable progress indicator that allows me to navigate back to previous steps in the scheduling process, so that I can review and edit my information if needed. Additionally, I want the progress indicator to visually represent where I am in the scheduling process, providing clear guidance on the steps remaining to complete scheduling my appointment.
@@ -125,6 +126,7 @@ Patient friendly names:
 - **Scheduling context up front:** As a Veteran scheduling an appointment, I want to see available options in the facility list and see why a I might not be able to schedule at a facility.
 - **Appointment requests:** As a Veteran unable to directly schedule an appointment at an OH facility, I want a clear path to request an appointment, ensuring I can still access healthcare services even if direct scheduling is unavailable.
 - **Surface availability:** As a Veteran searching for appointment availability, I want a streamlined process to compare appointment times across multiple clinics, eliminating the need to navigate back and forth between options.
+
 </details>
 
 <details>
