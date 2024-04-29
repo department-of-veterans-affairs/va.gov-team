@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: December 1, 2023 - updated Cerner handling
+Last updated: April 29, 2024 - updated icons
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -139,7 +139,7 @@ For **any other facility, go to My HealtheVet.**
 
 <img width="480" alt="Get your VA medical records" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/b667a246-6cfc-4547-8fa4-7bd1a09f3919">
 
-Use VA-icon icon `note_add` (named "medical records" in Figma) for icon
+Use VA-icon `note_add` (named "medical records" in Figma) for icon
 
 **Show**
 - For users who do not have health care through VA.
@@ -171,7 +171,7 @@ Without unread messages:
 
 [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=2I2vzoW03gTPk52L-1)
 
-Use VA-icon icon `forum` (named "messages" in Figma) for icon
+Use VA-icon `forum` (named "messages" in Figma) for icon
 
 **Show link**
 - For users who have VA health care.
@@ -203,9 +203,9 @@ Use VA-icon icon `forum` (named "messages" in Figma) for icon
 
 ### Schedule and manage your appointments link
 
-<img width="474" alt="Screenshot 2023-03-14 at 1 42 37 PM" src="https://user-images.githubusercontent.com/97965610/225092377-f59681f3-bcf2-402d-a76c-7aece775f547.png">
+<img width="626" alt="Schedule and manage" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c1ca87c8-2e6f-4441-8e51-fd398d5d6899">
 
-Use font awesome icon `calendar` for icon
+Use VA-icon `event_available` (named "appointments" in Figma) for icon
 
 **Show**
 - For users who have VA health care but do not have any upcoming appointments.
