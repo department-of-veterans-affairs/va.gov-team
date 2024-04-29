@@ -44,7 +44,8 @@ An explanation of the above chart:
   - The second grouping is what we expect to be the meat of our short list, that is submissions that were some how missed during our remediation efforts.  The how and why of this isn't important to the audit.  What we care about here is simply dog-earing them as something that requires further attention.
  - `ignorable_duplicate` is a state the will primarily (but not necessarily) represent something from the 'slipped through the cracks' grouping.  It is going to be back filled onto our short list submissions in cases where we determine a submission is an exact duplicate, or close enough (More on that below) to be ignored.
 
-Given the above tagging, the following script was used to generate our list of untouched submission ids.
+Given the above tagging, the following script was used to generate our list of untouched submission ids.\
+**NOTE:** we cap our query scope at "time of running minus 3 days".  This is because we want to avoid capturing submissions that may still be running through retries on the primary or backup path, or have not had time to reach a final Lighthouse Benefits Intake status.\
 ```ruby
 # subtractive audit to identify untouched submissions
 # requires BenefitsIntakeStatusPoll object from: 
