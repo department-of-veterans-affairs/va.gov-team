@@ -93,8 +93,8 @@ Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are
 * Read our [authentication troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) to resolve common errors.
 * Learn more about our [Sign-in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) and how to get started.
 * Submit a request to our team directly in Github:
-    * [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Engineer+Support&projects=&template=1dentity-engineer-support.yaml): for authentication help, PR reviews, SiS setup and support, or technical questions.
-    * [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity%2C+Identity+Product+Support&projects=&template=1dentity-product-support.yaml): for data requests, SiS information and onboarding, or new projects.
+    * [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/.github/ISSUE_TEMPLATE/1dentity-engineer-support.yml): for authentication help, PR reviews, SiS setup and support, or technical questions.
+    * [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/.github/ISSUE_TEMPLATE/1dentity-product-support.yml): for data requests, SiS information and onboarding, or new projects.
 * Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
 **Our team**
