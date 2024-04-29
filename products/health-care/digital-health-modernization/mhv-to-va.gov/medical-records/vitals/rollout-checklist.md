@@ -41,9 +41,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [X] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
-- [ ] Email to trusted users is shared with contact center teams and coordinators  
+- [x] Email to trusted users is shared with contact center teams and coordinators  
 
-- [ ] MHV SharePoint page announcing this shift is updated with information about phase 0 
+- [x] MHV SharePoint page announcing this shift is updated with information about phase 0 
 
  
 
@@ -53,20 +53,20 @@ For an application to enter rollout Phase 0, the following must be true:
 
       - [x] Contact Centers 
 
-      - [ ] MHV Coordinators  
+      - [x] MHV Coordinators  
 
-      - [ ] Facility POCs 
+      - [x] Facility POCs 
 
 - [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
 - [ ] Support staff trained
 
-- [ ] Process for handling technical / customer support issues exists 
+- [x] Process for handling technical / customer support issues exists 
 
  
 ### Product 
 
-- [ ] Intended product outcomes are documented and broadly communicated 
+- [x] Intended product outcomes are documented and broadly communicated 
 
 - [X] Technical instrumentation is in place to track GA
       Required DD analytics in place, will convert to GA4 as its ready
@@ -77,7 +77,7 @@ For an application to enter rollout Phase 0, the following must be true:
 - [X] All the MUST feedback complete
       See above, all MUST feedback was completed for first domain, remaining domains go prior to Phase 1 launch
 
-- [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
+- [x] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
 
 - [X] Establish email box for the feedback loop
       Email box set up for all Phase 0 domains and products
@@ -103,7 +103,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [x] Key design decisions added to decision log 
 
-- [ ] Design documentation & briefs are up-to-date and linked in product Github 
+- [x] Design documentation & briefs are up-to-date and linked in product Github 
 
 - [x] Breadcrumb suppressed during this phase, excluding the "Back" links when in sub-tasks
 
