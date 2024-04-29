@@ -46,6 +46,8 @@ Primary artifacts:
 | 4/22/24 | Laura, Kaitlin | Link text on MHV landing page for "Compose message" should be updated to "Start a new message"; "Medications and allergies" should be updated to "Review medications" (remove reference to "Allergies" until this is available on VA.gov, and then it should live under Medical Records) |
 | 4/22/24| Kaitlin | Need to have a return link on My HealtheVet "home" page that sends users back to the National Portal landing page if they want to opt out|
 | 4/22/24| Kaitlin | Focus on implementing secondary navigation on the "big four" tools, with a fast-follow to make decisions around implementation on other apps (i.e. 10-10EZR)|
+| 4/22/24| Kaitlin | Implement a temporary landing page for medical records that will be linked to from the secondary navigation to provide a consistent experience for all four links. The temporary landing page will provide context for users and route them back to the National Portal to view/download their health records|
+| 4/26/24| Kaitlin | Do not need to implement Cerner/OH gating alerts on teh temporary medical records landing page|
 
 ## Technical notes on integration and release
 
