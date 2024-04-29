@@ -1,33 +1,22 @@
 ---
 name: "CAIA New Task"
-about: Template for converted task to issue.
-title: 'New Task Ticket'
+about: Template for product teams requesting additional help on existing/ongoing CAIA project. Do not use this ticket unless directed by a CAIA team member.
+title: 'CAIA Follow-up Task Ticket'
 labels: 'Sitewide CAIA'
 assignees: 'coforma-terry'
 ---
 
-# CAIA Child Ticket
-
-`WIP`
+# CAIA Follow-up Task Ticket
 
 ## Issue description
-Map out the CAIA Content flows during CC for each touch point
+Use this ticket to request follow-up work on existing collaboration with the sitewide content, accessibility, and information architecture (CAIA) team.
 
----
-## Tasks
-- [ ] _What work is necessary for this story to be completed?_
+## About your team
 
-## Acceptance Criteria
-- [ ] Mural board with content flow mapped out to CC tracks
+- **Team name**: 
+- **Product name:** 
+- **Product manager:**  
+- **Link to original CAIA intake related to this work:** 
 
-
-## Ticket Tasks
-_Complete these steps to configure this ticket._
-
-```[tasklist]
-- [ ] Ensure ticket is linked to Epic
-- [ ] Add Originator/Team name
-- [ ] Add Opened Date
-- [ ] Add Estimate
-- [ ] Add label(s) for discipline(s) involved in work
-```
+## Follow-up request
+Describe the additional work needed and the outcomes you’re aiming to achieve.
