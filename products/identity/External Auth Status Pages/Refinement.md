@@ -37,3 +37,31 @@ There is currently inadequate external-facing status pages for VA.gov authentica
 - Alternative methods for Veterans to achieve tasks, if any.
   - Document within the scheduled outage how VA.gov users can perform the same task in an alternate way.
     - Example: making a direct deposit change by calling the Veteran Support Help Desk.
+   
+## Tasks
+
+### Research 
+- Can these be automated?
+  - Process for planned outage
+  - Process for unplanned outage
+  - Issue found by team w/ need to inform & take action
+- The current process to display a downtime banner through sitewide/CAIA
+- Current Identity response roster & schedule.
+- Audit existing banner & alert messages.
+  - Work w/ Engineers to update and/or improve messaging to ensure accuracy.
+- How the current auto set by datadog monitors is working.
+- How the "scheduled through IR bot" maintance is being displayed on VA.gov.
+- Alternate methods for certain tasks uders could still accomplish during outage.
+- Where are we going to host the status page?
+
+### Output
+- UI which allows a person to manually set "Current outage" message on VA.gov login page
+- Determine what we want to publish on dashboard, then do it!
+  - Add service detection mechanisms to status page
+- Document alternative methods to access benefits if folks can't sign in.
+  - This page might be a resource: [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/)
+  - Add these methods to outage messaging
+- Updated Identity response roster & schedule.
+- Add link to status page within an incident notification (on sign in page)
+- Communicate our status page availability
+- Make sure all research & documentation is in github
