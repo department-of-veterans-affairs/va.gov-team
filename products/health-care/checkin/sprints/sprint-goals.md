@@ -89,13 +89,13 @@ ________________________________________________________________________________
         - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72632) 
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
+        - 🟩 [[FE] - Review current past 15 minutes but still in lorota flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
+        - 🟩 [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
+        - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
-        - 🟩 [FE] - Review current past 15 minutes but still in lorota flow
-        - 🟩 [[FE] New Appointment Disclaimer Accordion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
-        - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
         - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
         - 🟦🟩 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
     - **Sub Goal: Analyze current metrics to see what they tell us**
@@ -190,9 +190,9 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
+    - ✔️ ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - **Sub Goal: Move to New AWS Instance**
-        - ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
+        - ✔️ ❗ 🟨 [[DevOps] SPIKE: Discovery work for moving to new AWS instance ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77640)
     - **Sub Goal: Support the ATO**
         - ✔️ ❗ 🟩 [Create PCI Threat Model ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79655)  
 - **GOAL: Support Congressional Mandate**
@@ -201,7 +201,6 @@ ________________________________________________________________________________
         - ✔️ ❗ 🟥 [[RESEARCH] Spike: determine low-fi or tree test research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/80283)
         - ✔️ ❗ 🟦 [Explore using CDW to access Consult Factors db table to find approved referrals ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81122)
         - ✔️ 🟦 [Service level coding](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81459)
-            - Added halfway through sprint
 - **GOAL: Make Travel Claims Easier** 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - ✔️ 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80279)
@@ -211,18 +210,17 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - ✔️ 🟥 [Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80939)
-        - ~🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72620)~
-            - ~Meeting with Mia, Kay, Shawn scheduled for 4/22~ rescheduled for 4/29 so removing this from the sprint
+        - Removed from the sprint
+            - ~🟩 [SPIKE: Determine if Both Veteran & Provider Appointments Must Be Marked as Checked-in when the Veteran Checks In ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72620)~            
     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
-        - 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)
-        - ~🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)~
-            - No longer needed
-        - ~🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)~
-            - No longer needed
+        - ✔️ 🟩 [[FE] eCheck-In CVT Appointment and Icon content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72870)
         - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
             - Dependent on Appts OH team
-        - 🟩 [[FE] Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/80942)
+        - ✔️ 🟩 [[FE] Update the "Where to Attend" Text for VVC Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/80942)
         - ✔️ 🟩 [[FE] Add Spanish Translations](https://github.com/department-of-veterans-affairs/va.gov-team/64635)
+        - - Removed from the sprint, no longer needed
+            - ~🟩 [[FE] Check-In Error Page content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72858)~
+            - ~🟩 [[FE] Check-In Accordion content updates - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72856)~            
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟦 [[BE] Implement Facilities API Payload Serializer#71790](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/71790)
         - ✔️ 🟦 [[BE] Update VAOS::BaseService, Map::TokenService and Map::RedisClient to use check in session uuid ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80854)
