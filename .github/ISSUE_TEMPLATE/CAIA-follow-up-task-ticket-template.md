@@ -1,6 +1,6 @@
 ---
 name: "CAIA Follow-up Task Ticket"
-about: Template for product teams requesting additional help on existing/ongoing CAIA project. Do not use this ticket unless directed by a CAIA team member.
+about: Template for product teams requesting additional help on existing/ongoing CAIA project. 
 title: 'CAIA Follow-up Task Ticket'
 labels: 'Sitewide CAIA, Sitewide content'
 assignees: 'strelichl'
