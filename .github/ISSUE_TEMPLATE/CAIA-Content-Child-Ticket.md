@@ -30,9 +30,8 @@ _What will be created or happen as a result of this story? Examples:_
 - [ ] Feedback has been shared with stakeholders
 
 ## Configure this issue
-```[tasklist]
-- [ ] **Attach to an Epic** (what body of work is this a part of?)
-- [ ] **Label with Originator/Team** (product team or stakeholder requesting support)
-- [ ] **Labeled with Open Date**
-- [ ] **Labeled with Estimate** (level of effort expected for this ticket)
-- [ ] **Assignee name added to each task they will complete (if known)**
+- [ ] _Attach to an Epic (what body of work is this a part of?)_
+- [ ] _Label with Originator/Team (product team or stakeholder requesting support)_
+- [ ] _Label with Open Date_
+- [ ] _Label with Estimate (level of effort expected for this ticket)_
+- [ ] _Add assignee name to each task they will complete (if known)_
