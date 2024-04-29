@@ -101,7 +101,13 @@ The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://gith
 
 ### Datadog
 
-Datadog Real User Monitoring (RUM) allows us to [specify names for click actions](https://docs.datadoghq.com/real_user_monitoring/browser/tracking_user_actions/#declare-a-name-for-click-actions) using the `data-dd-action-name` attributes, and that's useful when auto-detected action name might be unclear or misleading. Similar links may exist in secondary navigation and elsewhere on the page, so custom action names on secondary nav could follow a form like `MHV Secondary Nav - Link Action Name`.
+Datadog Real User Monitoring (RUM) allows us to [specify names for click actions](https://docs.datadoghq.com/real_user_monitoring/browser/tracking_user_actions/#declare-a-name-for-click-actions) using the `data-dd-action-name` attributes, and that's useful when auto-detected action name might be unclear or misleading.
+
+#### Adding data-dd-action-name values
+
+In the secondary nav, the values can follow a `ToolTitle - Link Label` format. So `data-dd-action-name="MHV Secondary Nav - Medications"` would be the attribute for the medications link. 
+
+For breadcrumbs, the format should be `AppTitle - Breadcrumb - Breadcrumb Label`. For the Medications tool, the breadcrumb pointing back to  `data-dd-action-name="Medications - Breadcrumb - Back to My HealtheVet"`
 
 #### Testing/Verifying Datadog
 
