@@ -117,19 +117,28 @@ The following will outline elements that have the `data-dd-action-name` attribut
 ```
 @-moz-document url-prefix("http://localhost:3001"), url-prefix("https://staging.va.gov/") {
 :root {
-    --hl-color: lime;
+    --hl-color: hsl(120, 77%, 39%);
+    --bg-color: hsl(0, 0%, 14%);
 }
 
 [data-dd-action-name] {
     outline: 6px double var(--hl-color);
+    position: relative;
 }
 
-[data-dd-action-name]:after {
+[data-dd-action-name]::after {
     color: var(--hl-color);
-    content: '[dd-action-name]: ' attr(data-dd-action-name) '';
+    font: caption;
+    content: '[dd-action-name]: "' attr(data-dd-action-name) '"';
+    background-color: var(--bg-color);
+    outline: 6px double var(--hl-color);
     display: block;
     position: absolute;
-    top: 3rem;
+    left: 0;
+    top: 6rem;
+    padding: 0.5rem;
+    min-width: 180px;
+    z-index: 100;
 }
 }
 ```
