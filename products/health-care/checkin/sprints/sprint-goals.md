@@ -91,15 +91,13 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
         - ❗ TBD
 - **GOAL: Make Travel Claims Easier**
-    - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
-        - ❗ 🟩 [Test E2E with VeText Team ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80242) 
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281) 
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
-        - 🟩 [Integrate with the New CES Modality Service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
+        - 🟩 [Integrate with the New CES Modality Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
