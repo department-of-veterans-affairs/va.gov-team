@@ -9,8 +9,13 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
-- **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - **Sub Goal: [Feature] Create Appointment Notifications Hub**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: Address Collab Cycle feedback from Design Intent**
+    - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
@@ -66,8 +71,13 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
-- **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - **Sub Goal: [Feature] Create Appointment Notifications Hub**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: Address Collab Cycle feedback from Design Intent**
+    - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
@@ -87,9 +97,8 @@ ________________________________________________________________________________
     - ❗🟨 [[DevOps] Validate staging BTSSS calls work as expected with and without fwdproxy integration. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81640)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
-- **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Discovery -  Veteran Direct Community Care Scheduling**
-        - ❗ TBD
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - [Sprint tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/sprints/sprint-goals.md#sprint-tickets-1)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
