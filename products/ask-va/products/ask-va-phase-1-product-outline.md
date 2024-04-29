@@ -27,8 +27,8 @@ Submitter should easily and intuitively be able to ask a question through Ask VA
 We expect Veterans and other submitters to meet these outcomes after we launch Phase 1: 
 
 ### Desired submitter outcomes
-1. **Better submission experience**: It's easier for Veterans and other submitters to send questions on VA.gov through AVA. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy%3A%20Phase%201.md#design-strategy).)
-2. **Better dashboard experience**: While signed in on VA.gov, it's easier for Veterans and other submitters to view and reply to past AVA questions. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Design%20strategy%3A%20Phase%201.md#design-strategy).)
+1. **Better submission experience**: It's easier for Veterans and other submitters to send questions on VA.gov through AVA. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Strategy))
+2. **Better dashboard experience**: While signed in on VA.gov, it's easier for Veterans and other submitters to view and reply to past AVA questions. (Learn more about [our design strategy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Strategy).](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/Strategy).
 3. **More seamless experience**: Veterans’ and other submitters’ AVA experience and data is more consistent and seamless with other VA channels.
 4. **CRM integration**: Veterans and other submitters continue to reliably communicate with VA through AVA.
 
