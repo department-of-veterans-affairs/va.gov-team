@@ -155,12 +155,12 @@ The following will outline elements that have the `data-dd-action-name` attribut
 
 Testrail will be used to document the test cases and results from testing. There are two sections that will be used, one for the secondary nav component and another for the link changes. Once development is complete, QA will begin verifying and informing the team of any bugs that may arise from testing. 
 
-Each team will QA their own implementation, including secondary nav component and link changes. 
+Each team will QA their own implementation in Staging, including secondary nav component and link changes. 
 
-### Smoke test
+### Smoke test in Prod
 
 
-### Canary release
+### Rollout
 
 
 
