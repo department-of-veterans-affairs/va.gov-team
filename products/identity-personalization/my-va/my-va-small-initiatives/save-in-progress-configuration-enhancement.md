@@ -16,7 +16,7 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [Problems](#problems)
+- [Problem](#problem)
 - [Solution approach](#solution-approach)
 - [User Outcomes](#user-outcomes)
 - [Impact](#impact)
