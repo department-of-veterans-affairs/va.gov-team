@@ -33,6 +33,7 @@ There is currently inadequate external-facing status pages for VA.gov authentica
   - Through CAIA/Partner teams 
   - Each CSP
   - In general
+- Status page
 - Updated content for banner messages to ensure accuracy/consistency
 - Alternative methods for Veterans to achieve tasks, if any.
   - Document within the scheduled outage how VA.gov users can perform the same task in an alternate way.
@@ -56,7 +57,7 @@ There is currently inadequate external-facing status pages for VA.gov authentica
 
 ### Output
 - UI which allows a person to manually set "Current outage" message on VA.gov login page
-- Determine what we want to publish on dashboard, then do it!
+- Determine what we want to publish on status page then do it!
   - Add service detection mechanisms to status page
 - Document alternative methods to access benefits if folks can't sign in.
   - This page might be a resource: [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/)
