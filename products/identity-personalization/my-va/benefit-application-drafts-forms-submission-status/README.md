@@ -8,7 +8,7 @@ This initative is a collabortion between the Authenticated Experience My VA team
 
 - **GitHub Label**: authenticated-exp; my-va-dashboard; forms-status
 - **Slack channel**: veteran-facing-forms or accountexp-authexp
-- **Development Epic**: [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)
+- **Development Epic**: [#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849)
 - **Collab Cycle Epic**: [#58828](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58828)
 - **Veteran Facing Forms [outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Product%20Outline.md)**
 
