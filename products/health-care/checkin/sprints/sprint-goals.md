@@ -42,7 +42,7 @@ ________________________________________________________________________________
         - TBD
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
-        - TBD
+        - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - TBD
@@ -72,13 +72,11 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: Add New Translated Content**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 2 Modalities (in-person, CVT)**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Analyze current metrics to see what they tell us**    
 - **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
 - NONE
@@ -99,8 +97,6 @@ ________________________________________________________________________________
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281) 
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: Add New Translated Content**
-        - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
     - **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [Integrate with the New CES Modality Service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
@@ -115,17 +111,15 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
-        = 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
+        - 🟩 [[CHIP] Pre-Check-In AND Check-In, display Veteran Appointment only - engineering ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72861)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
-            - Is it too soon to do this?
 - **GOAL: Address Tech Debt**
     - 🟩 [Details Page: Don't Show Labels when Data is Not Available ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81541)
     - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
-    - **Sub Goal: DevOps Improvements**
-        - TBD
+
 </details>
 ______________________________________________________________________________________________________________________________________________________
 
