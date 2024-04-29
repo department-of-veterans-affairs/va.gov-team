@@ -31,7 +31,7 @@ This is our 'short list' of possible untouched submissions.  When it is de-dupli
 First we added a rough 'state machine' to our 526 Submission model.  Based on the following logical groupings, we began tagging submissions. This diagram outlines how we are logically grouping
 submissions and what the expected state of these submissions should be.  After our previous tagging work, we expect this to be correct in everycase where we were able to define a submissions state.  In case of missed submissions, e.g. not present in a remediation batch, we will not have a state
 
-<img width="781" alt="Screenshot 2024-04-29 at 1 53 01 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/706a689a-f8e1-442b-9832-068616c6fbd6">
+<img width="779" alt="Screenshot 2024-04-29 at 1 56 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/9a0e8b16-6aff-4783-8def-d5c6d34eea1a">
 
 An explanation of the above chart:
 - Submissions that had a value for `submitted_claim_id` are implicitly successful, because the prescence of this ID indicates that they successfully made their way down our 'happy path' submission process.  Therefor these were tagged as `delivered_to_primary`
