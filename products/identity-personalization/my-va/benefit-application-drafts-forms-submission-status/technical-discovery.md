@@ -1,7 +1,7 @@
 # Technical Discovery: Forms Submission Status 
 **Last updated: Published April 24, 2024**
 
-This document outlines the work needed to be done on My VA for the forms status work in coordination with the Veteran Form Facing team. This initiative will involve changes to My VA (handled by our team), the updates to the confirmation page once a form is submitted (handled by VFF), and potentially changes to notifications (handled by VA Notify & VFF).
+This document outlines the work needed to be done on My VA for the forms status work in coordination with the Veteran Facing Forms team. This initiative will involve changes to My VA (handled by our team), the updates to the confirmation page once a form is submitted (handled by VFF), and potentially changes to notifications (handled by VA Notify & VFF).
 
 For the MVP our goal is to provide a space on My VA to elevate form status during the window of time between when the Veteran clicks "submit" on their digital form/application and when it is actually received (i.e. being processed/reviewed by VA). During this time it's possible for an error occurred and we need a mechanism to let the user know that an error has occurred and how to proceed. This is in alignment with the OCTO initiative of "no silent failures."
 
