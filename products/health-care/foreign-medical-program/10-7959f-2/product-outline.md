@@ -70,6 +70,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - Integration with PEGA for forms and documents
   - Authenticated (and unauthenticated) experience
   - End to end testing with PEGA and status returned by PEGA team
+  - Needs to be able to be supported by existing back end processes
 --- 
 
 ## Launch Strategy
