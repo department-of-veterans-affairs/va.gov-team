@@ -1,4 +1,4 @@
-# General Notes
+# General Notes and Decisions
 General info, notes and miscellaneous 
 
 ### Programs
