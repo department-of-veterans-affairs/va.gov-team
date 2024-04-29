@@ -30,11 +30,24 @@ Reference epic/feature above for key decisions
 - **Prioritization:** #1 OH #2 Irrelevant locations and or CC. #3 Availability 
 
 </details>
- 
+
 ### CES Metting notes
 
 <details>
+         
+<summary>Questions</summary> 
+
+### Questions
+
+1. What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by.
+2. Can we display resources/ providers that were previously booked? 
+3. Is there data that shows if a resource is part of the patient's PACT team? 
+
+</details>
+
+<details>
 <summary>February 22, 2024</summary>
+
 
 In regards to our CES call today about Community Care appointments in Oracle Health, per Anthony Pilozzi, they are sending appointments recorded ini HSRM back to Cerner (aka Oracle Health). If we can distinguish Community Care appointments from VA appointments in Oracle Health we could just filter out those appointments so they aren't displayed to the Veteran.bility 
 
