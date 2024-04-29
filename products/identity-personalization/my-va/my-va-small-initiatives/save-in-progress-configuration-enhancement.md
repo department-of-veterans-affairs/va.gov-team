@@ -46,7 +46,7 @@ In order to render the [ApplicationsInProgress](https://github.com/department-of
 When a developer creates a new SiP form, they have to follow the procedure outlined [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) in order to get that form to show up in My VA. The current process for that engineer is very tedious - requiring them to scroll a lot within the `platform/forms/constants.js` file to hunt down specific info about the form (e.g. if it's SiP enabled, what the common name is, where it should link to).
 
 ## Solution approach
-We came up with three options and settles on the most simple solution to improve this process for all teams.
+We came up with three options and settled on the most simple solution to improve this process for all teams.
 
 A relatively simple solution would be to create a separate object in the [platform constants](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/constants.js) that lists all of the SiP forms along with their metadata. Instead of simply mapping a form name to a string, we could map a form name to an object that contains all of the information that we need on My VA. In other words, the solution is to consolidate all of that information (e.g. if the form is SiP enabled, what the common name is, where it should link to) into one place (i.e. a new object) instead of having the info across multiple objects.
 
