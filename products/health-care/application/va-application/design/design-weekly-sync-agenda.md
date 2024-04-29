@@ -1,5 +1,20 @@
 # Design Weekly Sync Agenda
 
+## 2024-04-29
+Attendees: Angela, Hieu, Katelyn, Jessica, Lois, Kristen, Mitch, and Matt K.
+
+**Team Intro**
+- Lois with USDS, integrated design team care, lots of design research for big companies.
+- How Lois worked with other teams: Primary OCTO stakeholder for research and design, unblock VA barriers; consultant, and inform.
+- Keep track of Apply team (Hub)
+- Lois will join 30 minutes into the meeting
+
+**Other Topic**
+- VA Notify - integration to EZ/EZR is still in the discussion phase
+- The team shows Lois the setup: Slack Channels, slack stand-up, EZ/CG and EZR roadmap, Mural, Github, Figma
+
+
+
 ## 2024-04-22
 Attendees: Angela, Hieu, Katelyn, Jessica, Kristen, Alex (briefly), and Emily (briefly).
 
