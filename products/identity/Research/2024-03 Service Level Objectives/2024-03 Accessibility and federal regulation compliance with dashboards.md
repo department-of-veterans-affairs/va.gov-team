@@ -13,7 +13,7 @@ Jump to:
 - [Federal Requirements and Policies](#federal-requirements-and-policies)
 - [Examples of Federal Websites Prioritizing Availability](#examples-of-federal-websites-prioritizing-availability)
 - [Case Studies](#case-studies)
-- [Maintaining Uptime Techniques](#maintaining-uptime-techniques)
+- [Maintaining Uptime](#maintaining-uptime)
 - [Accessible Data Visualization in Dashboards](#accessible-data-visualization-in-dashboards)
 - [Next Steps](#next-steps)
 - [Terms](#terms)
@@ -103,53 +103,43 @@ Ensuring a consistent availability of services is essential for maintaining a po
 
 Federal agencies must adhere to various policies and guidelines related to website performance, accessibility, and data protection.
 
-### 21st Century Integrated Digital Experience Act (21st Century IDEA)
+### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy/2020-annual-report)
 
-- Enacted in December 2018, this act sets website standards for federal agencies. It emphasizes improving digital experiences for the public, including accessibility, security, and usability.
+- Enacted in December 2018, this act sets website standards for federal agencies.
+- Aimed to modernize and improve the user experience, including accessibility, security, and usability, of government-produced digital products like websites, applications, and online forms.
 - These standards encompass availability, uptime, and responsiveness.
-- Agencies must adhere to these requirements to ensure that citizens can access government services seamlessly, regardless of time or location.
+- Agencies must adhere to its requirements to ensure citizens can access government services seamlessly, regardless of time or location.
 
-### OMB Circular A-130: Managing Information as a Strategic Resource
+### [OMB Circular A-130: Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 
-- This circular, updated in July 2016, promotes the strategic importance of information management.
+- Promotes the strategic importance of information management (updated in 2016).
 - Availability is a core aspect of effective information dissemination, and federal websites play a pivotal role in achieving this goal.
 
-### OMB M-17-06: Policies for Federal Agency Public Websites and Digital Services
-
-- Issued by the Office of Management and Budget (OMB) in November 2016, this policy outlines requirements for federal agency websites and digital services. It covers aspects like accessibility, security, and performance.
-- It emphasizes the need for federal websites to maintain high availability, minimize downtime, and promptly address any disruptions.
-- Agencies must implement monitoring and incident response mechanisms to ensure continuous service.
-
-### Section 508 of the Rehabilitation Act of 1973
-
-- These standards ensures that federal websites are accessible to people with disabilities. Agencies must create content that is “perceivable, operable, understandable, and robust” for all users.
-- Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government. 
-
-### E-Government Act of 2002 
-
-- Promotes the accessibility, usability, security, and privacy of federal government websites. 
-- Establishes requirements for planning, developing, operating, and maintaining websites that are accessible to the public. 
-- Includes ensuring dashboards are user-friendly and easy to understand for all visitors, regardless of their technical expertise. 
-
-### Open Data Policy-Managing Information as an Asset (M-13-13)
+### [Open Data Policy-Managing Information as an Asset (M-13-13)](https://digital.gov/resources/open-data-policy-m-13-13/)
 
 - Released in May 2013, this policy encourages agencies to treat information as a valuable asset.
 - It promotes transparency, data sharing, and open data initiatives.
+- Established a "presumption of openness" principle where government information should be made public by default, with exceptions only for reasons of privacy, security, or other restrictions.
+- Required agencies to develop and publish inventories of their data holdings and make them discoverable through Data.gov, a central government open data portal.
+  
+### [Section 508 of the Rehabilitation Act of 1973](https://www.section508.gov/)
 
-### Next Steps in the Evidence and Innovation Agenda (M-13-17)
+- These standards ensures that federal websites are accessible to people with disabilities. Agencies must create content that is “perceivable, operable, understandable, and robust” for all users.
+- Section 508 standards apply to ICT products and services that are developed, maintained, or used by the Federal government.  
 
-- Issued in July 2013, this memorandum emphasizes evidence-based decision-making and innovation across federal programs.
-
-### Web Content Accessibility Guidelines (WCAG)
+### [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
 - These guidelines provide practical recommendations for creating accessible web content.
 - Federal agencies should align with WCAG standards to enhance availability for all users, regardless of their abilities.
 
-### Federal Information Security Management Act (FISMA) 
+### [Federal Information Security Management Act (FISMA)](https://www.cisa.gov/topics/cyber-threats-and-advisories/federal-information-security-modernization-act)
 
-- Established a framework for protecting government information systems, including websites. 
-- Security considerations should be addressed when designing and maintaining dashboards. 
+- Established a framework for protecting government information systems, including websites, with an emphasis on accountability and transparency.
+   - Transparency: Public SLAs communicate service availability expectations to users.
+- Security considerations should be addressed when designing and maintaining dashboards. [NIST Special Publication 800-30](https://www.nist.gov/privacy-framework/nist-sp-800-30)
 - Includes measures to safeguard sensitive user data, prevent unauthorized access, and ensure the confidentiality, integrity, and availability of website performance data.
+   - Performance Monitoring: Dashboards can be used to monitor and track service availability metrics, which is then used to demonstrate ongoing efforts to improve security and mitigate risks. [NIST Special Publication 800-53](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+   - Note: Also known as E-Government Act of 2002.
 
 ----------------------------
 
@@ -258,9 +248,10 @@ Lessons Learned and Recommendations:
 
 ------------------
 
-## Maintaining Uptime Techniques
+## Maintaining Uptime
 
-Maintaining high uptime involves a combination of proactive testing, monitoring, and continuous improvement. Regularly review and update your testing strategies to adapt to changes in your infrastructure and user behavior.
+- Maintaining high uptime involves a combination of proactive testing, monitoring, and continuous improvement. 
+- Regularly review and update your testing strategies to adapt to changes in your infrastructure and user behavior.
 
 Manual Testing
 
