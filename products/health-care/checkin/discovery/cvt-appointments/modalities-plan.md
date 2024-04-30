@@ -20,6 +20,11 @@ We have not previously supported CVT or VVC for pre-check-in or day-of check-in.
 
 # Proposed solution
 
+Handling CVT appointments in Pre-Check-in & eCheck-in:
+- Display only the patient-side appointment to the Veteran (i.e. do not display the provider-side appointment)
+- When the Veteran completes a pre-check-in workflow, mark both the patient-side and provide-side appointments as having completed pre-check-in
+- When the Veteran completes a check-in workflow, mark both the patient-side and provide-side appointments as having completed check-in
+
 We will utilize a new stopcode endpoint to identify appointment modality. CHIP will use the pairs endpoint for each appointment to assign modality. All non-supported modalities can get filtered out at this level. Supported modalities will use the patientModality value and set that to the `kind` field that gets stored in LoROTA.
 
 For CVT appointments, this endpoint could help determine the group. But I think a more reliable way to identify the group will be to look for appointments scheduled within ~5 minutes of each other. Once we identify the pair of appointments, we can store the provider appointment IEN within the patient appointment object in LoROTA. When setting a new status on  an appointment we can check if there is a relationship in the appointment object and if there is also set the new status on that IEN as well. This will keep the frontend from rendering the display for the provider appointment while giving us the ability to progress that status of both appointments in VISTA.
