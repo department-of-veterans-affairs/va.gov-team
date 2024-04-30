@@ -51,7 +51,7 @@ Given the above tagging, the following script was used to generate our list of u
 # requires BenefitsIntakeStatusPoll object from: 
 # https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/failure_reporting/benefits_intake_status_poll.rb
 arel = Form526Submission.arel_table
-# between our primary and backup retries, plus the possible lag in LH status updating, this
+# 3 Day cap avoids submissions still running through retries on submit workers
 base = Form526Submission.where(arel[:created_at].lt(Date.today - 3.days)); nil
 back_ups = base.where.not(backup_submitted_claim_id: nil); nil
 poll = BenefitsIntakeStatusPoll.new(guids: back_ups.pluck(:backup_submitted_claim_id), tracking_level: :all); nil
