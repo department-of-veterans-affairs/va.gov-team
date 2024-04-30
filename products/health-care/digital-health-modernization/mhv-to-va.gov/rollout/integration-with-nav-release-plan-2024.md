@@ -58,7 +58,7 @@ See Appendix for a list of toggles uncovered during discovery. It would be helpf
 2. SM, Meds and Appts incorporate integration UX changes outlined in this document (above)
    - Toggle(s): _NEED toggle name_
 3. Secondary nav enabled by its own feature toggle on Appointments, Medications, Secure messages, and the MHV-on-VA.gov landing page
-   - Toggle: _NEED toggle name_
+   - Toggle: `mhvSecondaryNavigationEnabled`
 4. MHV-on-VA.gov Landing page incorporates UX changes for integration (links to the tools on VA.gov (SM, Meds), content about Ph1 integration, etc.)
    - Toggle: `mhvLandingPageEnableVaGovHealthToolsLinks` 
 5. MHV Classic deploys try-me changes
