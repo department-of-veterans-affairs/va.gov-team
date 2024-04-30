@@ -38,6 +38,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
     - **Sub Goal: Address Collab Cycle feedback from Design Intent**
     - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
+    - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
 
 #### PLANNED RELEASES 
 - NONE
@@ -63,7 +64,9 @@ ________________________________________________________________________________
          - 🟥 [Design Intent - IA Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81721)
          - 🟥 [Design Intent - Accessibility Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81745)
     - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
-         - 🟥 [Document business rules around calculating drive time, etc.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81776) 
+         - 🟥 [Document business rules around calculating drive time, etc.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81776)
+    - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
+         - 🟦 [Create FE mocks based on WellHive API swagger](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81913)
 </details>
 ______________________________________________________________________________________________________________________________________________________
 
