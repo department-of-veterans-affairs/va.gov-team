@@ -3,18 +3,6 @@
 ## Objective
 The Appointments team is looking for ways to improve the tool to help the Veteran navigate the tool easily. The user should have a positive experience when they are scheduling, requesting and managing their appointments online. 
 
-<details>
-         
-<summary>Questions</summary> 
-
-### Questions
-
-1. What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by.
-2. Can we display resources/ providers that were previously booked? 
-3. Is there data that shows if a resource is part of the patient's PACT team? 
-
-</details>
-
 
 
 ## Feature Initiatives 
@@ -29,7 +17,17 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 ## Key Decisions
 
 Reference epic/feature above for key decisions
-         
+
+
+## Outstandting Questions
+
+1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by.
+2. (For Apothesource) We would like to display a list of resoureces/providers the Veteran previously scheduled using their past appointment data so that they can schedule with that provider again and go straigt to selecting a time versus having to select appointment type, and location. Can we display resources/ providers that were previously booked? 
+3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team? 
+
+
+
+        
 ### Feasibility meeting notes  
 [Agenda: Scheduling Feasibility](https://docs.google.com/document/d/1i2dFmGFazNDUBeynta1IvIBbYSAjscYUNfVTvH-tcXg/edit?usp=sharing) 
 <details>
