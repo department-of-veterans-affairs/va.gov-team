@@ -2,7 +2,7 @@ _NOTE: This refinement was originally done with the thinking that we would be do
 
 ## Problem Statement
 
-~~There is currently inadequate external-facing status pages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise. An external-facing status page would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service.~~
+~~There is currently inadequate external-facing status ~~pages~~ messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise. ~~An~~ External-facing status ~~page~~ banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service.
 
 ### Discussion around the problem statement
 - We already have maintenance banners, why not them?
