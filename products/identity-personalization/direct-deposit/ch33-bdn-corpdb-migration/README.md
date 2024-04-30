@@ -221,10 +221,13 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 |Week 7 (Apr 1 - 5)| VA.gov frontend connected to backend||
 |Week 8 (Apr 8 - 12)|VA.gov QA; UAT prep|BGS code launched Sunday 4/14|
 |Week 9 (Apr 15 - 20)| Staging review; UAT recruiting; Security review; BDN migrates to CorpDB on April 20th|UAT proposal submitted, turn of EDU section on 4/20|
-|Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|Staging Review 4/23, 4/26 va.gov to turn off the entire page, BDN migrates to CorpDB 4/27|
-|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|Running UAT, can only happen post migration, BIS and LH working on an additional indicator, if all goes well we'll launch as soon as we recieve positive results, ideally relaunching the page starting on 5/1 if possible|
-|Week 12 (May 6 - 10)|BGS CI launch May 11th|BIS to launch additional C&P inidicator in May|
-|Week 13 (May 13 - 17)|UAT; VA.gov goes to production|testing needed again for the C&P indicator|
+|Week 10 (Apr 22 - 26)| BGS code complete date for CI is April 25th|Staging Review 4/23, ~4/26 va.gov to turn off the entire page, BDN migrates to CorpDB 4/27~|
+|Week 11 (Apr 29 - May 3)|On hold waiting for BGS CI|~Running UAT, can only happen post migration, BIS and LH working on an additional indicator, if all goes well we'll launch as soon as we recieve positive results, ideally relaunching the page starting on 5/1 if possible~|
+|Week 12 (May 6 - 10)|BGS CI launch May 11th|~BIS to launch additional C&P inidicator in May~|
+|Week 13 (May 13 - 17)|UAT; VA.gov goes to production|~testing needed again for the C&P indicator~|
+|Week 14 (May 20 - 24)| | |
+|Week 15 (May 27 - 31)| | |
+|Week 16 (June 3 - 7)| | |
 
 
 ### Proposed collab cycle touchpoints
