@@ -83,12 +83,14 @@ TK
 
 ## Key deliverables
 
-- Technical discovery - link TK
+- [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/benefit-application-drafts-forms-submission-status/technical-discovery.md)
+- ...
   
 
 ### Key Dates
 
 - April 2024: Kick-off
+- ...
    
 ## Screenshots
 
