@@ -76,6 +76,22 @@ untouched_ids = all_ids - touched_ids; nil # trying to do a base.where.not(id: t
 untouched_ids.count # 118261
 untouched_subs = Form526Submission.where(id: untouched_ids); nil # dont really need to do this, but i like the sanity check
 untouched_subs.count # 118261 <-should match untouched ids, if not something is very wrong
+
+# eliminate anything in progress
+in_progress = []
+subs = untouched_subs.all; nil
+uts = untouched_subs.to_a; nil
+uts.each_with_index do |sub, idx|
+  puts idx if idx % 10 == 0
+  # IF a submission has no job statuses, it hasn't been submitted yet
+  # Additinoally, the presence of an InProgressForm indicates that this is a healthy, active submission
+  if sub.form526_job_statuses.blank? && InProgressForm.where(user_uuid: sub.user_uuid, form_id: '21-526EZ').present?
+    in_progress << sub.id
+  end
+end; nil
+completed_untouched_ids = untouched_ids - in_progress
+completed_untouched_subs = Form526Submission.where(id: completed_untouched_ids); nil # dont really need to do this, but i like the sanity check
+completed_untouched_ids.count # 118213
 ```
 
 ## Deduplication
