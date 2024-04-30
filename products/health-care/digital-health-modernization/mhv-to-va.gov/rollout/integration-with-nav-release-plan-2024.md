@@ -30,9 +30,9 @@ Non-blocking content changes:
 - Tool "About" pages will get content updates
 - "Try me" banners on MHV classic will get content updates
 
-## Technical notes on integration and release
+## Engineering notes on integration and release
 
-### Secondary Nav Bar
+### Secondary nav component
 
 The MHV-on-VA.gov secondary navigation will be implemented by adding a shared component to each app that requries it. Placed within the code at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
 
@@ -42,29 +42,32 @@ The addition of the secondary nav component will require a single line of code i
 
 ### Feature Toggles
 
-The MHV-on-VA.gov tools and landing page all have [feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L105-L120) that affect whether different parts of MHV-on-VA.gov appear, or what features are available. 
+We will use [feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L105-L120) to release this integration.
+
+This document must list all the toggles relevant to this integration release before we can do a final QA in Staging.
 
 #### Rolling out using feature toggles and/or deploys
 
 1. Medications Ph1 enabled for 100% of users.
    - Toggle: `mhvMedicationsToVaGovRelease`
 2. SM, Meds and Appts incorporate integration UX changes outlined in this document (above)
-   - Toggle(s): _TBD_
+   - Toggle(s): _NEED toggle name_
 3. Secondary nav enabled by its own feature toggle on Appointments, Medications, Secure messages, and the MHV-on-VA.gov landing page
    - Toggle: _NEED toggle name_
 4. MHV-on-VA.gov Landing page incorporates UX changes for integration (links to the tools on VA.gov (SM, Meds), content about Ph1 integration, etc.)
    - Toggle: `mhvLandingPageEnableVaGovHealthToolsLinks` 
 5. MHV Classic deploys try-me changes
+   - Toggle: N/A
 
-### Datadog
+### Datadog analytics
 
 Datadog Real User Monitoring (RUM) allows us to [specify names for click actions](https://docs.datadoghq.com/real_user_monitoring/browser/tracking_user_actions/#declare-a-name-for-click-actions) using the `data-dd-action-name` attributes, and that's useful when auto-detected action name might be unclear or misleading.
 
 #### Adding data-dd-action-name values
 
-In the secondary nav, the values can follow a `ToolTitle - Link Label` format. So `data-dd-action-name="MHV Secondary Nav - Medications"` would be the attribute for the medications link. 
+In the secondary nav, the values can follow a `ToolTitle - [Link Label]` format. So `data-dd-action-name="MHV Secondary Nav - Medications"` would be the attribute for the medications link in the MHV secondary nav component. 
 
-For breadcrumbs, the format should be `AppTitle - Breadcrumb - Breadcrumb Label`. For the Medications tool, the breadcrumb pointing back to  `data-dd-action-name="Medications - Breadcrumb - Back to My HealtheVet"`
+For breadcrumbs, the format should be `AppTitle - Breadcrumb - [Breadcrumb Label]`. For the Medications tool, the breadcrumb pointing back to MHV-on-VA.gov home would be  `data-dd-action-name = "Medications - Breadcrumb - Back to My HealtheVet"`.
 
 #### Testing/Verifying Datadog
 
