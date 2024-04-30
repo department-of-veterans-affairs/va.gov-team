@@ -7,9 +7,9 @@
 - How you'll conduct the testing: Live, virtual sessions, giving users assigned tasks to test use cases.  
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle  
 ### Results:  
-- Number of users:   
-- Number of bugs identified / fixed:  
-- Types of errors logged: general usability issues
+- Number of users: 3  
+- Number of bugs identified / fixed:  0/0
+- Types of errors logged: general usability issues: 0
 
  
 Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no If yes, what:
@@ -31,16 +31,16 @@ Links to dashboard(s) showing "success criteria" metrics: <a href = "https://doc
 
 ### Stage A: Canary 
 #### Planning  
-Length of time: 2 business days
-Percentage of Users (and roughly how many users do you expect this to be): 1% (500)
+Length of time: 1 business day
+Percentage of Users (and roughly how many users do you expect this to be): 5% (7500)
 #### Results:  
 <ul>
-  <li>Evidence submission error rate (DataDog)</li>   
-  <li>Conversion rate from evidence request to evidence submission</li>
-  <li>400 LH errors (DataDog)</li>
-  <li>Bounce Rates</li>
-  <li>Qualitative feedback from social listening (VA Benefits Subreddit)</li>
-  <li>Call center feedback</li>
+  <li>Evidence submission error rate (DataDog): 4% (below normal)</li>   
+  <li>Conversion rate from evidence request to evidence submission: 1.5%, within norm</li>
+  <li>400 LH errors (DataDog): 1.4%, (within normal range)</li>
+  <li>Bounce Rates: .5% (normal)</li>
+  <li>Qualitative feedback from social listening (VA Benefits Subreddit): none</li>
+  <li>Call center feedback: none </li>
 </ul>
 
 ### Stage B: moderate  
