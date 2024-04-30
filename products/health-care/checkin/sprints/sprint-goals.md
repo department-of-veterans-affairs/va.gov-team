@@ -92,6 +92,9 @@ ________________________________________________________________________________
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72629)
         - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72632) 
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
+        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+        - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
         - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
         - 🟩 [[FE] - Review current past 15 minutes but still in lorota flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
@@ -100,8 +103,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
-        - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
+        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)        
         - 🟦🟩 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
@@ -146,11 +148,10 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)** & **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [SPIKE: How Can we Integrate with the New CES Modality Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
-        - TBD: need new tickets to implement the integration with the modality service
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
-        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
-        - TBD: New tickets that Gaurav will create for facilities & clinics
+        - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
+        - 🟦 [[BE] Appointments Controller: merge facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81882)
+        - 🟦 [[BE] Implement get_clinic method in facility service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81881)
         - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
         - 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
         - 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
