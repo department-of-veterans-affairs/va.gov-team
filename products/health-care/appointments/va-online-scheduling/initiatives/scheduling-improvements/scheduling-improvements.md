@@ -30,6 +30,8 @@ Reference epic/feature above for key decisions
 > 2. query the API for open "type of care" slots at "location ID" for "provider ID"
 4. (For the business/ Kay) Is PID required?
 5. (For Kristin) 1. Do we know how OH handles appointment notifications? 2. OH offers an option to get an e-mail of your appointent confirmation, while this is something that VAOS does not support, if the option to opting into e-mail confirmations is something that brings value to the Veteran, should we consider adding this to both flows?
+> **Kay 4/30:** All of our appointment notifications will go through VEText/VA Notify.We have a whole list of potential notifications and have done some Veteran research about which ones are the most important.
+I am not sure if My VA Health captures any data that can help us glean what is "valuable" to the Veteran.
 
 
 
