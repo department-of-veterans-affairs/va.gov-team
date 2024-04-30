@@ -1,7 +1,5 @@
 
 # Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
 ---
 
 ## Overview
