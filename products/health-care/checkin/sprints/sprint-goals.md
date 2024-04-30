@@ -83,8 +83,6 @@ ________________________________________________________________________________
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
-        - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
-        - 🟩 [[FE] - Review current past 15 minutes but still in lorota flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
         - 🟩 [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
         - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
@@ -142,6 +140,8 @@ ________________________________________________________________________________
         - 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
         - 🟩 [[FE] Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
+        - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
+        - 🟩 [[FE] - Review current past 15 minutes but still in lorota flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
