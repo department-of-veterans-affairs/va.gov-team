@@ -107,8 +107,8 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 
 ### Our High Level Plan for Phase 1
 1. Discovery Spikes - Conducted quick, timeboxed explorations to determine effort for potential features
-2. **Create Prototype** (Current Status) - Develop coded prototype on staging.va.gov for usability test
-3. Usability Testing - Conduct usability tests with Veterans and dependents 
+2. **Create Prototype** - Develop coded prototype on staging.va.gov for usability test (in progress)
+3. **Usability Testings/ Research** - Conduct usability tests with Veterans and dependents using Figma and Coded Prototype (in progress)
 4. Launch Phase 1 - Launch the Ask VA front-end form and dashboard on VA.gov
   
 ### Additional references
@@ -127,7 +127,7 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
 
 ### Launch Dates
 - *Target Launch Date*
-  - TBD until further conversation with dependent teams
+  - Tennatively January 2025
 - *Actual Launch Date* 
   - TBD
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -135,11 +135,11 @@ Transitioning the Ask VA front-end to VA.gov design, content, and accessibility 
    
 ## Examples of Design Updates
 
-These examples represent our designs as of December 15, 2023.
+These examples represent our designs as of April 30th, 2024.
 
-![Homepage-design-changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Homepage-design-changes-Dec-23.png)
-![Topic-design-changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Topic-design-changes-Dec-23.png)
-![Dashboard-design-changes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/Dashboard-design-changes-Dec-23.png)
+- [Who is Your Question about?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Who-is-your-question-about-design.jpg)
+- [Dashboard with Cards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Dashboard-with-cards.jpg)
+- [Your Question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/04-2024-Your-question-edu-design.jpg)
 
 ## Team and Stakeholders
 ### Communications
