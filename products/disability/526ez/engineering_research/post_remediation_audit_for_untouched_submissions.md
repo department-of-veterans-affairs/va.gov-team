@@ -95,10 +95,34 @@ completed_untouched_ids.count # 118213
 ```
 
 ## Deduplication
+We want to remove duplicate submissions from our short-list, resulting in our 'final list' of submissions that need remediation.  To do this, we have two things consider
+
+1. how do we define a set of duplicates?
+2. Given a set of duplicates, which can we ignore?
+
+### How do we define a set of duplicates?
+To define duplicates, we compare the content of a `Form526Submission` records `form_json` attribute.  Parsed out, this is a hash contaning all the information the veteran provided, as well as some metadata about ancillary forms and uploads.  In some cases, a strict one-to-one comparison of the text in the object will be sufficient to match submissions as duplicates.  However, there
+are some variations that are either not significant, or are misleading. For instance, a misleading difference might be a random hash value that was assigned to the filename of a veteran upload, differing from submission to submission.  
+
+Here is what we have determined to be ignoreable form content when comparing user submissions for duplicates
 [todo]
 
-### What we excluded
-[todo]
 
-### How we excluded it
-[todo]
+### Given a set of duplicates, which can we ignore
+given a set of duplicates, we may find that some of the duplicates have been successfully submitted, while other haven't.  Additionally, even when a set of duplicates contains a success, we can only ignore duplicate submissions created _after_ that successful submission.  Duplicate submissions created _before_ the success become their own sub-set of duplicates, from which we want to pick the earliest.  The following codifies these conditions:
+
+- Given a set of duplicates
+  - Are any of them successful submissions?
+    - IF yes
+      - For every submission created after the success, mark as ignoreable
+      - For the submissions created before the success
+        - the earliest created_at is of intrest
+        - the others can be ignored
+    - IF no
+      - Grab the earliest one and mark the rest as duplicates
+
+Here is the code we use to apply these conditions
+
+```ruby
+[TODO]
+```
