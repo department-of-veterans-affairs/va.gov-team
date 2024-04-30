@@ -1,4 +1,4 @@
-NOTE: This refinemen was originally done with the thinking that we would be doing a status page as well as the maintenance banners. Upon consultation with our OCTO Product Owner, it was decided to strip out the status page and focus upon just the Maintenance & Downtime banners.
+NOTE: This refinement was originally done with the thinking that we would be doing a status page as well as the maintenance banners. Upon consultation with our OCTO Product Owner, it was decided to strip out the status page and focus upon just the Maintenance & Downtime banners. This document will reflect that.
 
 ## Problem Statement
 
