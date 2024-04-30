@@ -1,14 +1,10 @@
-# Conversation Guide 
+# Performance Dashboard Conversation Guide 2 
 
 ## Moderator logistics
 ### 2-3 days before the session
-- Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
 
-- Complete any project-specific setup tasks for this study (List them below)
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Ensure that prototype is working properly
+- [ ] Make any changes to the conversation guide from pilot test
 
 
 ### Day of the session
@@ -30,102 +26,114 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thanks for joining us today! My name is Raquel Eisele and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-Today we're going to talk about [description of your project].
-
+Today we're going to compare the current version of the performance dashboard with a proposed design.
 
 Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
+- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+- I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - If no: Use Slack to kindly ask the observers to leave the Zoom.
    - If yes: Admit observers.
    - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
    - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your VA information or benefits.
+- (If applicable) **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - Knowing that, are you comfortable if I record my screen and audio as we talk today?
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - Knowing this, **would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
    - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
 
-## Warm-up Questions (Optional) - 5 minutes
+## First Task: Review current dashboard (10 minutes)
 
-Before we look at the website, let’s start with a few warm-up questions.
+To start we would like to review the current performance dashboard with you.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+**Display the current Performance Dashboard**
 
-## First Task: [TASK NAME] - X minutes
+[Link to current Performance Dashboard](https://www.va.gov/performance-dashboard/)
 
-- Step 1
-- Step 2
+- Do you ever use this dashboard? 
+
+- If yes please describe when you use it and what information on this dashboard is relevant for your use.
+
+- What would you say the purpose of this page is?
+
+- Is there any content on this page that is unclear to you?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-- [Etc]
+- What things does the participant **use the dashboard for**?
+- What things on the page (if any) does the participant **indicate are important**?
+- Does the participant express that **they would like to see something that isn't there**?
+- **How long** does it take the participant to describe the purpose of the page? Do they seem **confident** or **unsure**?
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Review future state dashboard (20 minutes)
 
-- Step 1
-- Step 2
+**We will now share a prototype of an iteration of the performance dashboard**
+
+[Link to Performance Dashboard Prototype](https://www.figma.com/proto/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?page-id=512%3A55032&type=design&node-id=512-55033&viewport=779%2C532%2C0.11&t=yLUJLXgNFu8BdZro-1&scaling=scale-down&starting-point-node-id=512%3A55033&mode=design)
+
+- Looking at this page, what would you say the purpose of this page is?
+
+- Take some time to explore the page and share your thoughts as you go.
+
+- Is there any content on this page that is confusing or unclear?
+
+- Does this design provide the value you get from the performance dashboard currently?
+
+- Are there any tasks you could perform with this dashboard that you would not be able to do with the current performance dashboard?
+
+- Do any of the metrics or other content on this page stand out to you?
+
+- Are there any metrics or other content that you would like to see on this page that is not on this page?
+
+- If the graphs were removed and there was only numerical content would that make you more or less interested in the page?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- What things on the page **pull the participant’s attention**?
+- Does the participant express that anything is **missing**?
 
-## Third Task: [TASK NAME] - X minutes
+- Does the participant notice that they can change the **date filter**? What do they say about it?
 
-- Step 1
-- Step 2
+- Does the participant notice that they can **copy a link to the page** or **download a PDF**? What do they say about that?
 
-### Things to watch for:
+- Does the participant **notice the tab to the metric details**? 
+- If they navigate to the metrics details page, what are their **thoughts about that page**?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant understand the meaning of **“activity”**? 
+- Do they comment on the **activity metrics** being shown?
 
-## Post-Task Interview - X minutes
+- Does the participant understand the meaning of **“traffic”**? 
+- Do they comment on the **traffic metrics** being shown?
 
-- Question 1
-- Question 2
-- Any questions for me? 
-
-## Consent to use video clips
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - If yes: Is there any part of our discussion you would NOT want shared in a video clip?
+- Does the participant understand the meaning of **“customer satisfaction”**? 
+- Do they comment on the **customer satisfaction metrics** being shown?
 
 
-## Thank-You and Closing - X minutes
+## Post-Task Interview (5 minutes)
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+**Magic Wand (5 minutes)**
+- My last question for you is my favorite. Imagine if you had a magic wand, and could wave it around and make this page absolutely perfect for you. What might you change?
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
-Thank you so much again, and enjoy the rest of your day!
+## Thank-You and Closing (10 minutes)
 
-##
+**Thank you (2 min)**
+- We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for all those using it.
 
-## Emergency Exit
+**Final Opportunity for Questions or Comments (4 min)**
+- Open the floor for any last-minute questions or comments from the participant.
 
-[In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
+**Request for Referrals (4 min)**
+- Are there other people you work with who use VA.gov metrics or the Performance Dashboard who you think would like to share their insights with us?
 
-## Sample Conversation Guide _(note: this link points 
+Thank you so much again, and enjoy the rest of your day! 
