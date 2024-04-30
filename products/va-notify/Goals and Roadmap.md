@@ -154,6 +154,12 @@ Since we have moved toward a Viewer only experience in Production, users can now
 
 Because our Portal sits behind the network, we cannot always review Contact Us requests in real-time. In order to rectify that, we have implemented a Slack Alert to be sent to our internal team, so that Portal users can receive a faster response to their Contact Us submissions.
 
+#### Information Architecture Revamp
+##### OCTO OKR: N/A
+##### Theme: Self Service Portal Capabilities
+
+Due to the rate that we have been implementing features, we are needing to take a step back and re-evaluate, so we can redesign an intuitive Information Architecture that is scalable, so that we have the space and ability to add new features/functionality and iterate effectively, as opposed to needing to reinvent the wheel and find space each time.
+
 #### Roles
 ##### OCTO OKR: N/A
 ##### Theme: Quality Veteran Experience
