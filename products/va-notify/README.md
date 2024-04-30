@@ -18,9 +18,8 @@ Email us at **VA Notify**(oitoctovanotify@va.gov)
 
 # Point of Contacts
 **Product**
-- Chris Johnston, (Temp) VA Product Owner - VA Notify, please note Beverly Nelson's last day is 4/19/2024
-- Melanie Jones, Program Manager - VA Notify
-- Julie Martin, Product Manager - Notifications Platform
+- Chris Johnston and Jeff Barnes are currently supporting VA Notify, please note Beverly Nelson's last day was 4/19/2024
+- Melanie Jones, Program Manager & Product Manager - VA Notify
 - Samantha Jennings, Product Manager - Forms Strike Team
 
 **Engineering**
