@@ -31,7 +31,7 @@
      - What level of trust do you have with these logins?
         >  - [DS Logon] is not one that we’re super trusting of. When we were supposed to be setting it up so that both of us could use it he was having a lot of paranoia and he was in and out of hospitals. Just this week we tried to get the doctor to send me something but I didn’t have access, even though the coordinator told me I was supposed to
 
-- More quotes from P4 of this study. There's a big paragraph early in the session that might be useful to see in it's entirety ([transcript](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ds-logon/research/user_session_transcripts/04_transcript.md)):
+- More quotes from P4 of this study. There's a big paragraph early in the session that might be useful to see in it's entirety ([transcript](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/ds-logon/research/user_session_transcripts/04_transcript.md)):
   > You know, the DS Logon and all of that, it’s been awfully confusing quite frankly.
 
   > Trying to log on is extremely frustrating using that DS Logon, which I guess is for DoD and VA things
