@@ -28,15 +28,15 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Unauthenticated Users: Users will complete the old version (v1) of the form.
       - Authenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%/100%).
    - After 100% release:
-      - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info in the v2 form. Their v1 data will appear in the v2 form.
       - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the intro page of the form and see an info alert noting that updates have been made. They will start over with v2 of the form -- none of their v1 data will appear in v2 of the form.
+     - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info in the v2 form. Their v1 data will appear in the v2 form.
 2. Applications Not Started
    - Before full release:
       - Unauthenticated Users: Users will complete the old version (v1) of the form.
       - Authenticated Users: Users may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%)
    - After 100% release
-      - Authenticated Users: Users will complete v2.
       - Unauthenticated Users: Users will complete v2.
+      - Authenticated Users: Users will complete v2.
 
 | User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
 |---|---|---|---|---|---|
