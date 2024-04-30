@@ -56,7 +56,8 @@ ________________________________________________________________________________
          - 🟥 [[Design] Create wireframes for Appointment Notifications list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81768)
          - 🟨 [Discovery on latest MHV notifications work](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81765)
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-         - TBD 
+         - Short term: Waiting on MFS team to create API endpoint
+         - Long term: Waiting on API endpoint from CCRA or EPS tenet 
     - **Sub Goal: Address Collab Cycle feedback from Design Intent**
          - 🟥 [Design Feedback - Design Intent - Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81698)
          - 🟥 [Design Intent - IA Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81721)
