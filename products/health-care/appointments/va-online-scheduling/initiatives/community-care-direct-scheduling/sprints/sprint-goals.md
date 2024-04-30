@@ -36,6 +36,7 @@ ________________________________________________________________________________
     - **Sub Goal: Address Collab Cycle feedback from Design Intent**
     - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
 
 #### PLANNED RELEASES 
 - NONE
@@ -64,6 +65,8 @@ ________________________________________________________________________________
          - 🟥 [Document business rules around calculating drive time, etc.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81776)
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
          - 🟦 [Create FE mocks based on WellHive API swagger](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81913)
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+         - 🟦 [Create CC app within vets-website](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81933) 
 ______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 5 - 4/17/2024 - 4/30/2024  
