@@ -8,6 +8,8 @@ The paper form added an option to select a benefit type to apply for on the 10-1
 The problem is to add this option to the online EZ in a way that is not confusing and does not result in many Veterans selecting both options and not understanding the implications to their health care beneifts situation. 
 
 
+- [Mural folder](https://app.mural.co/t/departmentofveteransaffairs9999/r/1670613238628?folderUuid=eb1cd9df-3cca-4008-9d32-29c42520a4ba)
+
 ## Recent Work
 **MVP - Pre-Enrollment System Option - April 2024**
 - [Registration User Flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711487582087/34c3dab41845b8a2ca33afa97e05671703ca8395?sender=uadf1ed7fe7c76f0914967329)
