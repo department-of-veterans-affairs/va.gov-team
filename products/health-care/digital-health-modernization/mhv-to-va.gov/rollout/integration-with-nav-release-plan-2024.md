@@ -46,6 +46,8 @@ We will use [feature toggles](https://github.com/department-of-veterans-affairs/
 
 This document must list all the toggles relevant to this integration release before we can do a final QA in Staging.
 
+See Appendix for a list of toggles uncovered during discovery. It would be helpful for teams to update that table with information about any toggles relevant to this work.
+
 #### Rolling out using feature toggles and/or deploys
 
 1. Medications Ph1 enabled for 100% of users.
@@ -149,7 +151,7 @@ Cartogrphers artifacts:
 | 4/22/24| Kaitlin | Implement a temporary landing page for medical records that will be linked to from the secondary navigation to provide a consistent experience for all four links. The temporary landing page will provide context for users and route them back to the National Portal to view/download their health records|
 | 4/26/24| Kaitlin | Do not need to implement Cerner/OH gating alerts on teh temporary medical records landing page|
 
-#### Existing feature toggles (as seen on frontend on 19 April)
+### Existing feature toggles (as seen on frontend on 19 April)
 
 The Appoinments tool has [27 `vaOnlineScheduling*` feature toggles](https://github.com/department-of-veterans-affairs/vets-website/blob/cd3c891ea9fd80fb0023048dc24e3de3265b05d7/src/platform/utilities/feature-toggles/featureFlagNames.json#L204-L231), but is already live on VA.gov and so shouldn't need to add or flip on any feature toggles.
 
