@@ -1,6 +1,7 @@
 # Implementation Steps
 
 Below is a living document that will be updated with specifics as changes are made.
+There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-callback-api-to-receive-status-from-pega.md) for this project.
 
 1. Create a DB table `ivc_champva_forms` with columns [UUID (auto-generated), email, first_name, last_name, form_number, file_name, form_uuid, s3_status, pega_status, created_at, updated_at] :white_check_mark:
    - Ex: [AUTO, "veteran@aol.com", "John", "Smith", "10-10D", "a0a9682e-04f2-44ad-85ca-99e2d9ff6a21_vha_10_10d.pdf", a0a9682e-04f2-44ad-85ca-99e2d9ff6a21, "200", "pending", AUTO, AUTO]
@@ -26,7 +27,11 @@ Below is a living document that will be updated with specifics as changes are ma
    ```
    - Ticket: TBD
    - Code: TBD
-5. Add `post 'ivc_champva/v1/forms/status_updates', to: 'pega#update_status'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
+5. Add Swagger doc for DOCMP/PEGA
+   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80952
+   - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16567
+   
+6. Add `post 'ivc_champva/v1/forms/status_updates', to: 'pega#update_status'` to routes.rb and then send that endpoint to PEGA to add to their lambda. 
    - We should have PEGA send us JSON formatted payload like below (PM Note: consider including timestamp, PEGA batch ID and PEGA case id(s)):
      ```
      {
@@ -34,15 +39,14 @@ Below is a living document that will be updated with specifics as changes are ma
        "file_names": ["12345678-1234-5678-1234-567812345678_vha_7959F1.pdf", "12345678-1234-5678-1234-567812345678_vha_7959F2.pdf"],
        "status": "processed"
      }
-  
-    -Ticket: https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/80952
+   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80482
    
-
-6. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
+7. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
    - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication
    - JWT Bearer Token should be the best path forward as stated by Adrian:
      - "the pattern you gave is pre-existing and I don't see any issue following it. The best example I found was the sign-in service service account authentication. ([README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/service_account.md), [controller](https://github.com/department-of-veterans-affairs/vets-api/blob/b21142e0073df8c20169086db732e9b9b05e9365/app/controllers/sign_in/service_account_application_controller.rb#L13), [concern](https://github.com/department-of-veterans-affairs/vets-api/blob/b21142e0073df8c20169086db732e9b9b05e9365/app/controllers/concerns/sign_in/service_account_authentication.rb#L13), [access token jwt decoder](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/services/sign_in/service_account_access_token_jwt_decoder.rb#L4)) Note that you'll want to need to add `skip_before_action :authenticate` in your controller to override the default user auth."
-   - We will want to return `{status: 200}` or `{status: 500}`
+   - We will want to return `{status: 200}` or `{status: 500, error: "Invalid..."}`
+   - Add logic to validate JSON keys
    - Example:
     ```
     class PegaController < ApplicationController
@@ -77,14 +81,14 @@ Below is a living document that will be updated with specifics as changes are ma
       end
     end
     ```
-   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80948
+   - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80482
    - Code: TBD
-7. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
+8. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
    send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
    After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
-8. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
-9. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
-10. Example of a payload that DOCMP PEGA will post into our API endpoint:
+9. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
+10. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
+11. Example of a payload that DOCMP PEGA will post into our API endpoint:
 
 
 
