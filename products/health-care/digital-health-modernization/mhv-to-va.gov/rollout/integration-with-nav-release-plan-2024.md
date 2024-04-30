@@ -34,11 +34,11 @@ Non-blocking content changes:
 
 ### Secondary nav component
 
-The MHV-on-VA.gov secondary navigation will be implemented by adding a shared component to each app that requries it. Placed within the code at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
+The MHV-on-VA.gov secondary navigation will be implemented by adding a shared component to each app that requries it. Cartographers will build this component. Placed at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
 
-We considered implementing secondary navigation within the VA.gov sitewide header component. However, we decided against this option to avoid the risk of broader performance or user experience impacts.
+Tool teams can add the secondary nav component with a single line of code in each location where it is needed.
+<img width="197" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/4054752/30469bae-0134-45b6-8643-ae74f44f683d">
 
-The addition of the secondary nav component will require a single line of code in each location where it is added.
 
 ### Feature Toggles
 
