@@ -22,7 +22,7 @@ Reference epic/feature above for key decisions
 ## Questions
 
 1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by. 
-> **Brad C 4/30:** Right now VPG (and vaos-service) only return the slot ID, start time, and end time. We could also return the VHA facility ID of the slot location (Slot location: It's going to be a VHA facility ID, like 757GC. VETSAPI can then resolve that against MFS/LH to get the facility name ("Marion VA Clinic") and address.) as well the provider name if the slot schedule has an assigned provider.
+> **Brad C 4/30:** Right now VPG (and vaos-service) only return the slot ID, start time, and end time. We could also return the VHA facility ID of the slot location (Slot location: Is a VHA facility ID, like 757GC. VETSAPI can then resolve that against MFS/LH to get the facility name ("Marion VA Clinic") and address.) as well the provider name if the slot schedule has an assigned provider.
 Looking forward to the future provider based scheduling use cases, we are planning to also provide an endpoint to return the patient's provider relationships as well (each relationship will have a designated facility and type of care). That would give you some options:
 > 1. query the API for open "type of care" slots at "location ID", and then optionally sort/filter by provider in the UI
 > 2. query the API for open "type of care" slots at "location ID" for "provider ID"
