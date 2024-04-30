@@ -48,10 +48,10 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - 🟥 [[Content] Review content draft](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81767)
          - 🟥 [[Design] Identify list of error pages we need](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81775)
-         - 🟥 [[DESIGN] Solidify UI for linking to notifications page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81808)
     - **Sub Goal: [Feature] Create Appointment Notifications Hub**
          - 🟦 [Copy of [FE] Build out appointment notifications card types](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81770)
          - 🟦 [Copy of [FE] Build out appointment notification list](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81772)
+         - 🟥 [[DESIGN] Solidify UI for linking to notifications page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81808)
          - 🟥 [[Design] Create wireframes for Appointment Notifications card statuses](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81769)
          - 🟥 [[Design] Create wireframes for Appointment Notifications list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81768)
          - 🟨 [Discovery on latest MHV notifications work](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81765)
