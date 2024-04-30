@@ -5,7 +5,7 @@
 <summary>FUTURE SPRINT - 5/29/2024 - 6/11/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 6 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 8 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
@@ -46,7 +46,7 @@ ________________________________________________________________________________
 <summary>FUTURE SPRINT - 5/15/2024 - 5/28/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 6 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 7 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
