@@ -21,11 +21,10 @@ Reference epic/feature above for key decisions
 
 ## Questions
 
-1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by.
-**Brad C 4/30: ** Right now VPG (and vaos-service) only return the slot ID, start time, and end time. We could also return the VHA facility ID of the slot location (e.g., 442GB) as well the provider name if the slot schedule has an assigned provider.
+1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by. **Brad C 4/30:** Right now VPG (and vaos-service) only return the slot ID, start time, and end time. We could also return the VHA facility ID of the slot location (e.g., 442GB) as well the provider name if the slot schedule has an assigned provider.
 2. (For Apothesource) We would like to display a list of resoureces/providers the Veteran previously scheduled using their past appointment data so that they can schedule with that provider again and go straigt to selecting a time versus having to select appointment type, and location. Can we display resources/ providers that were previously booked? 
 3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team?
-**Brad C 4/30: ** Looking forward to the future provider based scheduling use cases, we are planning to also provide an endpoint to return the patient's provider relationships as well (each relationship will have a designated facility and type of care). That would give you some options:
+**Brad C 4/30:** Looking forward to the future provider based scheduling use cases, we are planning to also provide an endpoint to return the patient's provider relationships as well (each relationship will have a designated facility and type of care). That would give you some options:
 query the API for open <type of care> slots at <location ID>, and then optionally sort/filter by provider in the UI
 query the API for open <type of care> slots at <location ID> for <provider ID>
 4. (For the business/ Kay) Is PID required?
