@@ -26,8 +26,8 @@ Reference epic/feature above for key decisions
 2. (For Apothesource) We would like to display a list of resoureces/providers the Veteran previously scheduled using their past appointment data so that they can schedule with that provider again and go straigt to selecting a time versus having to select appointment type, and location. Can we display resources/ providers that were previously booked? 
 3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team?
 > **Brad C 4/30:** Looking forward to the future provider based scheduling use cases, we are planning to also provide an endpoint to return the patient's provider relationships as well (each relationship will have a designated facility and type of care). That would give you some options:
-query the API for open "type of care" slots at "location ID", and then optionally sort/filter by provider in the UI
-query the API for open "type of care" slots at "location ID" for "provider ID"
+1. query the API for open "type of care" slots at "location ID", and then optionally sort/filter by provider in the UI
+2. query the API for open "type of care" slots at "location ID" for "provider ID"
 4. (For the business/ Kay) Is PID required?
 5. (For Kristin) 1. Do we know how OH handles appointment notifications? 2. OH offers an option to get an e-mail of your appointent confirmation, while this is something that VAOS does not support, if the option to opting into e-mail confirmations is something that brings value to the Veteran, should we consider adding this to both flows?
 
