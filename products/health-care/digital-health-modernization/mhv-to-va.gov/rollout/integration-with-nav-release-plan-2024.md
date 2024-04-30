@@ -36,8 +36,11 @@ Non-blocking content changes:
 
 The MHV-on-VA.gov secondary navigation will be implemented by adding a shared component to each app that requries it. Cartographers will build this component. Placed at a particular location in the code, it will visually appear to be just below the primary navigation without any visible gap.
 
-Tool teams can add the secondary nav component with a single line of code in each location where it is needed.
 <img width="197" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/4054752/30469bae-0134-45b6-8643-ae74f44f683d">
+
+Tool teams can add the secondary nav component with a single line of code in each location where it is needed.
+- Import the following: `import { MhvSecondaryNav } from '@department-of-veterans-affairs/mhv/exports';`
+- Add the following element to add the secondary nav. This element should be added to the top of your application where it can take the entire width of the page: `<MhvSecondaryNav />`
 
 
 ### Feature Toggles
