@@ -32,7 +32,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
     - **Sub Goal: [Feature] Create Appointment Notifications Hub**
-    - **Sub Goal: [Feature] Get authorized referrals from CDW**
     - **Sub Goal: Address Collab Cycle feedback from Design Intent**
     - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
@@ -55,9 +54,6 @@ ________________________________________________________________________________
          - 🟥 [[Design] Create wireframes for Appointment Notifications card statuses](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81769)
          - 🟥 [[Design] Create wireframes for Appointment Notifications list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81768)
          - 🟨 [Discovery on latest MHV notifications work](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81765)
-    - **Sub Goal: [Feature] Get authorized referrals from CDW**
-         - Short term: Waiting on MFS team to create API endpoint
-         - Long term: Waiting on API endpoint from CCRA or EPS tenet 
     - **Sub Goal: Address Collab Cycle feedback from Design Intent**
          - 🟥 [Design Feedback - Design Intent - Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81698)
          - 🟥 [Design Intent - IA Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81721)
