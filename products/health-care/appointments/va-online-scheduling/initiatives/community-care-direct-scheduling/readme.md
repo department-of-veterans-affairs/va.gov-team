@@ -6,12 +6,14 @@
 
 **What:** Addresses Veteran homelessness, access to care, community care, mental health, research, telehealth, prostate cancer, provider oversight and transparency, long-term care, rural health, benefits, information technology and more.
 
-**More information:** https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf (Cleland Dole Act PDF)>br>
+**More information:** [Cleland Dole Act PDF](https://www.congress.gov/117/bills/hr2617/BILLS-117hr2617enr.pdf)<br>
 Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2023 | Congress.gov | Library of Congress (Section 121, 125, 132, 133)
+
+**[Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)**
 
 ### CC direct scheduling end state
 
-[Download the EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
+- [Download the EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
 
 <img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030">
 
