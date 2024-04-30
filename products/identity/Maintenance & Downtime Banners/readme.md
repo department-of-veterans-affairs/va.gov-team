@@ -12,7 +12,7 @@ This maps to _O1KR2: VA.gov authentication SLOs are developed._
 
 
 ## Problem Statement
-~~There is currently inadequate external-facing status ~~pages~~ messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise. ~~An~~ External-facing status ~~page~~ banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service. A full overhaul of the process is needed. 
+There is currently inadequate external-facing status messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise.  External-facing status  banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service. A full overhaul of the process is needed. 
 
 ## Relevant Documents:
 
