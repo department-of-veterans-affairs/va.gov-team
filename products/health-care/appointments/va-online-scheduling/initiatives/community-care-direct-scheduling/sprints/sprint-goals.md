@@ -24,12 +24,9 @@ ________________________________________________________________________________
     - **Sub Goal: Discovery - 2a**
         - ❗ TBD
 </details>
-
-<details>
-<summary>FUTURE SPRINT - 5/1/2024 - 5/14/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 6 - 5/1/2024 - 5/14/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 6 - 5/1/2024 - 5/14/2024 - CURRENT SPRINT
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
@@ -67,10 +64,9 @@ ________________________________________________________________________________
          - 🟥 [Document business rules around calculating drive time, etc.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81776)
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
          - 🟦 [Create FE mocks based on WellHive API swagger](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81913)
-</details>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 5 - 4/17/2024 - 4/30/2024  CURRENT SPRINT
+## SPRINT 5 - 4/17/2024 - 4/30/2024  
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
