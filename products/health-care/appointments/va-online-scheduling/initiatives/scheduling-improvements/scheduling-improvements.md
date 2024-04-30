@@ -19,11 +19,13 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 Reference epic/feature above for key decisions
 
 
-## Outstandting Questions
+## Questions
 
 1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by.
 2. (For Apothesource) We would like to display a list of resoureces/providers the Veteran previously scheduled using their past appointment data so that they can schedule with that provider again and go straigt to selecting a time versus having to select appointment type, and location. Can we display resources/ providers that were previously booked? 
-3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team? 
+3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team?
+4. (For the business/ Kay) Is PID required?
+5. 
 
 
 
