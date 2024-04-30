@@ -18,7 +18,7 @@ Considerations
 - Form volume is typically 25 authenticated submissions and 30 unauthenticated submissions per day
 
 ## Overview
-As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md), the online 21P-530EZ for is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
+As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md), the online 21P-530EZ form is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
 
 [Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707410059042/66a7863edcd579a5bc8b4bd720f685a5d0724a49?wid=0-1707412077064)
 
@@ -26,10 +26,10 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 1. Applications In-Progress
    - Before full release:
       - Unauthenticated Users: Users will complete the old version (v1) of the form.
-      - Uuthenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%).
+      - Authenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%/100%).
    - After 100% release:
-      - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info. Their v1 data will appear in the v2 form.
-      - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the intro page of the form and see an info alert noting that updates have been made. They will start over with the new version of the form -- none of their v1 data will appear in v2 of the form.
+      - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info in the v2 form. Their v1 data will appear in the v2 form.
+      - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the intro page of the form and see an info alert noting that updates have been made. They will start over with v2 of the form -- none of their v1 data will appear in v2 of the form.
 2. Applications Not Started
    - Before full release:
       - Unauthenticated Users: Users will complete the old version (v1) of the form.
