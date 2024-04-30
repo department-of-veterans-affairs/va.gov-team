@@ -1,5 +1,5 @@
-# Accessibility and Maintenance Standards for Federal Site Availability Dashboards 
-## The role of accessible VA.gov availability dashboards in Veteran CX and Trust
+# Accessibility and Federal Standards for Service Availability Dashboards
+## The role of accessible VA.gov service availability in improving Veteran CX and Trust
 
 **UX Researcher**: Joshua.Matulonis@va.gov
 
@@ -26,7 +26,7 @@ Jump to:
 
 - Whether filing taxes, enrolling in healthcare, or legal inquiries, users rely on federal websites for accurate and timely information.
 - Availability is not an abstract concept; it directly impacts citizens’ lives. 
-- Maintaining high availability demonstrates transparency and accountability.
+- Federal guidelines state the importance of maintaining public access to secure digital services where transparency and accountability are ensured.
 - Users return to a website they trust, knowing it won’t fail them during critical moments.
 - A consistently available website signals preparedness, efficiency, and commitment.
    - Positive interactions build confidence.
