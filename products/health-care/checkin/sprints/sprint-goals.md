@@ -74,6 +74,7 @@ ________________________________________________________________________________
         - ❗ TBD
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
+        - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
         - 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
@@ -145,7 +146,6 @@ ________________________________________________________________________________
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
-        - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)** & **Sub Goal: eCheck-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)**
         - 🟩 [SPIKE: How Can we Integrate with the New CES Modality Service](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80944)
