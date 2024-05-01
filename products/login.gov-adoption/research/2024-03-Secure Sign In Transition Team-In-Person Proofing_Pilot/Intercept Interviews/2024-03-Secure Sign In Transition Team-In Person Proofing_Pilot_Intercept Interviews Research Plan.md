@@ -215,7 +215,7 @@ May 20-23, 2024
 
 #### Availability
 
-Operational hours of site, 9am-5pm ET
+Operational hours of site, 9am-5pm CT
 
 Team Roles
 ----------
