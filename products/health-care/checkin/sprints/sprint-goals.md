@@ -99,11 +99,9 @@ ________________________________________________________________________________
         - TBD
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 5/1/2024 - 5/14/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 6 - 5/1/2024 - 5/14/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 6 - 5/1/2024 - 5/14/2024   CURRENT SPRINT
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
@@ -149,10 +147,9 @@ ________________________________________________________________________________
     - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
     - 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81795)
 
-</details>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 5 - 4/17/2024 - 4/30/2024  CURRENT SPRINT
+## SPRINT 5 - 4/17/2024 - 4/30/2024 
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
