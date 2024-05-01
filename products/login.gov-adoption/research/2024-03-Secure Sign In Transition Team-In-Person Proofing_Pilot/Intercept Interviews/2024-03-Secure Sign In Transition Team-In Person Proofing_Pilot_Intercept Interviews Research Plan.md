@@ -203,8 +203,8 @@ Prepare
 Materials finalized by May 10, 2024
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: candance@themostudio.com
+* Date and time of pilot session: 5/8/24: 1:30pm-2:00pm ET
 
 #### Research sessions
 May 20-23, 2024
@@ -215,7 +215,7 @@ May 20-23, 2024
 
 #### Availability
 
-Operational hours of site
+Operational hours of site, 9am-5pm ET
 
 Team Roles
 ----------
