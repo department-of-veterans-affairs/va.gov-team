@@ -207,7 +207,7 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 ## Timeline
 
-This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan.
+This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan. Given Ch33 changes are in flux and CorpDB has had issues migrating as things change we'll update to document when actual changes are taking place. 
 
 
 |Week| Anticipated Tasks | Actual/Changes |
