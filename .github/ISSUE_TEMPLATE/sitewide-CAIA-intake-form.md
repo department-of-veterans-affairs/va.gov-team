@@ -8,9 +8,7 @@ assignees: strelichl,coforma-terry
 ---
 # Content, accessibility, information architecture (CAIA) new initiative collaboration request
 
-Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
-
-**Note:** If you’re already partnering with us on an initiative, you don't need to fill out this request form. If you don’t have access to your initiative’s CAIA epic, post a message in the [#sitewide-content-accessibility-ia](https://dsva.slack.com/channels/sitewide-content-acessibility-ia) slack channel and tag `@Terry Nichols` and `@Lily Strelich`.
+Use this ticket to request collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
 
 ## About your team
 
