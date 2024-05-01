@@ -27,6 +27,12 @@ Looking forward to the future provider based scheduling use cases, we are planni
 > 1. query the API for open "type of care" slots at "location ID", and then optionally sort/filter by provider in the UI
 > 2. query the API for open "type of care" slots at "location ID" for "provider ID"
 2. (For Apothesource) We would like to display a list of resoureces/providers the Veteran previously scheduled using their past appointment data so that they can schedule with that provider again and go straigt to selecting a time versus having to select appointment type, and location. Can we display resources/ providers that were previously booked? 
+> **Brad C 4/30:** Absolutely. This is the "patient relationship" endpoint we are planning to build that I mentioned above. In napkin/crayon-level details, the intent is to implement something like this:
+request: GET /patient/relationships
+response:
+  1. provider=Dr House, location=757, type of care=primaryCare
+  2. provider=Dr Cuddy, location=757GC, type of care=audiology
+Knowing the appointment/encounter data, this does raise a questions: should we return a relationship for an appointment/encounter if we don't have a VAOS type of care mapping (e.g., a past acupuncture appt/encounter)?
 3. (For Apothesource) Is there data that shows if a resource is part of the patient's PACT team?
 > **Brad C 4/30:** No. Once we have the OH CareTeam blocker resolved we'll be able to retrieve/expose the patient PACTs (in theory there may be different PACTs for different types of care though we only use PC PACTs today). Once all of this is complete you could conceivably cross-reference the slot practitioner with the PACTs for that location to know if the practitioner is in one of the patient's PACTs.
 4. (For the business/ Kay) Is PID required?
