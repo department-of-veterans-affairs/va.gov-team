@@ -48,16 +48,16 @@ There are currently inadequate downtime & maintenance communications for VA.gov 
 ## Solution Approach: 
 
 ### Research the problems
-- Can these be automated?
-  - Process for planned outage
-  - Process for unplanned outage
-  - Issue found by team w/ need to inform & take action
 - The current process to display a downtime banner through sitewide/CAIA
 - Current Identity response roster & schedule.
 - Audit existing banner & alert messages.
   - Work w/ Engineers to update and/or improve messaging to ensure accuracy.
 - How the current auto set by datadog monitors is working.
 - How the "scheduled through IR bot" maintance is being displayed on VA.gov.
+- Can these be automated?
+  - Process for planned outage
+  - Process for unplanned outage
+  - Issue found by team w/ need to inform & take action
 - Alternate methods for certain tasks uders could still accomplish during outage.
 
 
