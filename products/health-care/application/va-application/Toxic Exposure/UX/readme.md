@@ -30,6 +30,7 @@
 - Since we heard a lot of feedback about training, what kind of toxic exposures that may have occurred during training are worth a Veteran's time to report?
 - What are your requirements for the digital form in terms of branching logic? Since we ask for service dates before the TERA questions, we could only asked applicable questions based on those dates. Could there be any edge cases or negative consequences to branching logic based on service dates?
 - What efforts do you know of to target specific groups of Veterans who may be eligible, such as Veterans who were deployed during the Vietnam War?
+- Can we narrow down the dates of the Gulf War to match other forms' approach to that question like the 526 for example? For two reasons: To potentially help with branching logic and to clear up confusion about exactly what that question refers to that came up in testing.
 
 **Documents**
 
