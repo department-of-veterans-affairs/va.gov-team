@@ -199,18 +199,21 @@ Participants with caregivers are able to participate but must be able to complet
 
 #### Screener Questions
 
+
 Do you have a Login.gov account?
 Yes (if yes, please include no more than 4 participants with a Login.gov account)
 No
+
 
 Have you tried verifying your Login.gov account? This means, did you ever have to provide identification documents to say you are the person on your account when logging into Login.gov.
 Yes and I have a verified Login.gov account. (if “Yes”, please exclude)
 Yes and was unsuccessful in creating a verified Login.gov account. 
 No
 
-Can you come in person to ___ VA Medical Center for a 2 hour research session between XX/XX/XXXX and XX/XX/XXXX?
+Can you come in person to ___ VA Medical Center for a 2 hour research session between 05/20/2024 and 05/23/2024?
 Yes
 No (if “No”, please exclude)
+
 
 Can you bring one of the following identification documents and ensure that it is not expired?
 State-issued driver’s license
@@ -218,15 +221,27 @@ State-issued identification card
 Yes
 No (if “No”, please exclude)
 
+
 Can you bring a personal smart device on which you can access your personal email?
 Yes
 No (if “No”, please exclude)
 
-Do you consent to provide your email address and access your personal email on a computer provided to you at the VA site that is connected to a public network?
 
-You will be asked for your personal information, such as email address, name, and social security number. This information will be shared with an authorized VA staff and input into a VA application to confirm your information matches. The sharing of this information will not impact your current VA benefits or services. After the research session is complete, your personal information will be wiped from the application and will not be accessible or able to be recovered in any way by the researchers and pilot participants. Do you consent to provide your personal information with the understanding that your information will be wiped at the end of the session? 
+Do you consent to provide your email address and access your personal email on a computer provided to you at the VA site that is connected to a public network? You will receive emails during the research session that you will be asked to open.
+Yes
+No (if “No”, please exclude)
 
-You will be asked to create a test account and the researchers will help you delete it at the end of the session. This test account will not impact your current VA benefits and services. Do you consent to create this test account? 
+
+You will be asked for your personal information, such as email address, name, and social security number. This information will be shared with an authorized VA staff and input into a VA application to confirm your information matches. The sharing of this information will not impact your current VA benefits or services. After the research session is complete, your personal information will be wiped from the VA application and will not be accessible or able to be recovered in any way by the researchers and pilot participants. Do you consent to provide your personal information with the understanding that your information will be wiped at the end of the session? 
+Yes
+No (if “No”, please exclude)
+
+
+You will be asked to create a test Login.gov account and the researchers will help you delete it at the end of the session. This test Login.gov account will not impact your current VA benefits and services. Do you consent to create this test account? 
+Yes
+No (if “No”, please exclude)
+
+
 
 #### VA Staff Recruitment Criteria
 
@@ -251,11 +266,12 @@ Prepare
 Materials finalized by May 10, 2024
 
 Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: iman@themostudio.com, martina@themostudio.com
+* Date and time of pilot session: May 10, 2024: 12-1pm ET
 
 ### Research sessions
 May 20-23, 2024
+Available hours for scheduling: 9am-5pm ET
 Length of sessions
 Veterans will be scheduled for 2 hour sessions 
 VA staff will be notified of the scheduled sessions ahead of time to ensure their availability
