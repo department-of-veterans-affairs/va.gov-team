@@ -138,9 +138,11 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Tuesday, April 16|Desktop prototypes are ready|
 |Thursday, April 17|Pilot session|
 |Tuesday, April 23 - Friday, April 26|Research sessions|
-|Monday, April 29 - Wednesday, May 1|Synthesis|
 |April 30|CAIA screen magnification pilot|
-|From Thursday, May 2|Share findings|
+|Monday, April 29 - Tuesday, April 30|Analysis|
+|Wednesday, May 1 - Thursday, May 2|Synthesis|
+|From Friday, May 3|Discuss recommendations|
+|From Tuesday, May 7|Share findings and recommendations|
 
 ## Pilot sessions
 
