@@ -6,7 +6,7 @@ Date: 04/2024
 
 Janelle Finnerty, janelle.finnerty\@oddball.io
 
-Once you've presented your research readout to your team, if you have a deck, insert a link to it here \[Research readout]\(link here)
+[Research readout](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EqR0JZojEMBGkszviY2ZzYkBDiWUT5vl66asl7hxhYvAxw?e=WqCZ60)
 
 Jump to:
 
