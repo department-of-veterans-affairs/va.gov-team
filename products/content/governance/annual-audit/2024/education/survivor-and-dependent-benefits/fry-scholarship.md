@@ -21,6 +21,8 @@ Live page for context: [Fry scholarship](https://www.va.gov/education/survivor-d
 ## SME review
 **Name:** Cinda Quattrini  
 **Method of gathering feedback:** Verbal feedback in meetings
+[Edits tracked in this Sharepoint file](https://dvagov-my.sharepoint.com/:w:/g/personal/megan_zehnder_va_gov/EcZvIH0BbAxJn-OW4Xr01oIB85iWnYu4s7OOl1R2DsMkpQ?e=JWeMu6)
+
 ### Feedback/comments
 [Add feedback from SMEs]
 ## Flesch-Kincaid grade-level scores (with no prep)  
