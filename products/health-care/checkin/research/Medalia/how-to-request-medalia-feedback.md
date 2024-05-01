@@ -37,11 +37,12 @@ Using the template below, submit a ticket in GitHub to the Contact Center to col
    - **Date Range** - 2 week range that starts with the end of the last request
    - **Product Name(s)** - eCheck-in, Pre-Check-in
        - NOTE: Add Travel in once we release it
-   - **Product Description** - Applications that allow Veterans to verify their contact information prior to a VA health appointment, check in upon arrival for a VA health appoiuntment, and submit a mileage-only travel reimbursement claim on the day of their VA health appointment.
+   - **Product Description** - Applications that allow Veterans to verify their contact information prior to a VA health appointment, check in upon arrival for a VA health appointment, and submit a mileage-only travel reimbursement claim on the day of their VA health appointment.
    - **Survey URL(s), key term(s), case category or type** - All comments under and including these URLS and all of their sub-URLs:
        - https://www.va.gov/health-care/appointment-check-in
        - https://www.va.gov/my-health/appointment-pre-check-in
        - https://www.va.gov/my-health/appointment-travel-claim
+          - NOTE: only include travel after we release it
    - **File delivery format** - All in one file, on one tab
    - **Word Cloud** - Yes
    - **VA Email Address(es)** - [Your VA email address]
