@@ -12,10 +12,10 @@ This maps to _O1KR2: VA.gov authentication SLOs are developed._
 
 
 ## Problem Statement
-There are currently inadequate external-facing status messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise.  External-facing status  banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service. A full overhaul of the process is needed. 
+There are currently inadequate downtime & maintenance communications for VA.gov authentication services. This can lead to confusion and frustration for VA.gov users when the site is down for either scheduled maintenance or unexpected reasons.  A full overhaul of the process is needed, so that we may fully communicate downtime to our customers.
 
 ## Relevant Documents:
-
+* [Product Refinement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Maintenance%20%26%20Downtime%20Banners/Product%20Refinement%20Excerpts.md)
 * [Content Research For Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
 
 ## What's In Scope: 
@@ -39,7 +39,7 @@ There are currently inadequate external-facing status messages for VA.gov authen
 ## Use Cases:
 
 - As a Veteran I would like to know when planned maintenance is going to happen, so that I may work around the scheduled downtime.
-- As a Veteran, I would like to see informative banners apprising me of when the login to the site is down, and when it might be back up, in order to properly do my business on VA.gov
+- As a Veteran, I would like to see informative banners apprising me of when the login to the site is down, and when it might be back up in order to properly do my business on VA.gov.
 - As a Veteran, when the site is down, I would like to know alternative means of doing my business so downtime doesn't keep me from accessing my benefits.
 
 ## Assumptions:
