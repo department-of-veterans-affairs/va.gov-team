@@ -30,6 +30,10 @@ Non-blocking content changes:
 - Tool "About" pages will get content updates
 - "Try me" banners on MHV classic will get content updates
 
+### Critical path analysis
+
+The MHV-on-VA.gov secondary navigation will have to go through the final stages of the Collab Cycle after it has been implemented by all teams: Staging Review, Contact Center Review, and Security & Readiness Review. Therefore, aside from a "go" decision on Medications Ph 1, the addition of secondary nav to the tool applications is the biggest dependency that will drive the release date for Medications Ph 1 and the MHV-on-VA.gov portal integration.
+
 ## Engineering notes on integration and release
 
 ### Secondary nav component
