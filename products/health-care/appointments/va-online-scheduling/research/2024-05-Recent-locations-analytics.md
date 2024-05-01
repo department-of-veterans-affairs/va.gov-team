@@ -14,7 +14,8 @@ We'll use this data to:
 
 
 ### Research questions
-- Are users clicking on one of facilities surfaced with the default set at recent locations?
+- Are users clicking on one of facilities surfaced with the default set at recent locations? OR are they selecting a differnt way to sort the list?
+- How long are users spending on the page? (compare this with time spent on page prior to the change)
 - Are users leaving comments about the facility selection page?
     - Is the feedback generally positive or negative?
 
