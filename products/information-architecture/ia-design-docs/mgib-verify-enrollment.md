@@ -13,7 +13,6 @@
 - [Redirects](#redirects)
 - [Best bets](#bestbets)
 - [Staged rollout](#stagedrollout)
-- [Additional notes](#notes)
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -93,11 +92,6 @@ Update existing best bet for [static page](https://www.va.gov/education/verify-s
 
 **[Which static page has the widget, ie the main entry point?]**
 
-## <a name="notes"></a>Additional notes<br>
-
-#### Broken breadcrumb
-When logged into the Post-9/11 VYE tool, the breadcrumb circled below loops back to the VYE tool instead of the static page. This will need to be updated so if someone is on the wrong tool, they're able to go back to the static page.
-<img width="400" alt="Post-9/11 VYE" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/be555c1e-3c76-40be-a79b-cc4bda742ba6">
 
 <hr>
 <hr>
