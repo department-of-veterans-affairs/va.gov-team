@@ -21,10 +21,10 @@ Live page for context: [Fry scholarship](https://www.va.gov/education/survivor-d
 ## SME review
 **Name:** Cinda Quattrini  
 **Method of gathering feedback:** Verbal feedback in meetings
-[Edits tracked in this Sharepoint file](https://dvagov-my.sharepoint.com/:w:/g/personal/megan_zehnder_va_gov/EcZvIH0BbAxJn-OW4Xr01oIB85iWnYu4s7OOl1R2DsMkpQ?e=JWeMu6)
 
 ### Feedback/comments
-[Add feedback from SMEs]
+[Edits tracked in this Sharepoint file](https://dvagov-my.sharepoint.com/:w:/g/personal/megan_zehnder_va_gov/EcZvIH0BbAxJn-OW4Xr01oIB85iWnYu4s7OOl1R2DsMkpQ?e=JWeMu6)
+
 ## Flesch-Kincaid grade-level scores (with no prep)  
 We calculated the Flesch-Kincaid grade level scores by copy-pasting the text of each page, from the H1 down to the end of the text (just above the "Back to top" jump link), into a Microsoft Word document. We used the automated feature in Word's Editing tab to generate the score.  
 **Before audit updates:**  
