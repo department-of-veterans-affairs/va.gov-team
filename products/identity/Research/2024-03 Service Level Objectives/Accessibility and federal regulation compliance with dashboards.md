@@ -74,6 +74,8 @@ Numerous studies have documented the importance of website responsiveness and mi
 
 - Less than 20% of federal websites use code from the U.S. Web Design System (USWDS), leading to inconsistent user experiences.
 
+- Research by OMB revealed 45% of federal websites are not mobile friendly.
+
 - The [Uptime Institute](https://uptimeinstitute.com/) reports that unplanned downtime can cost businesses millions of dollars per hour. 
 
 While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. 
@@ -103,12 +105,17 @@ Ensuring a consistent availability of services is essential for maintaining a po
 
 Federal agencies must adhere to various policies and guidelines related to website performance, accessibility, and data protection.
 
-### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy/2020-annual-report)
+### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy/2020-annual-report)  (December 2018)
 
-- Enacted in December 2018, this act sets website standards for federal agencies.
-- Aimed to modernize and improve the user experience, including accessibility, security, and usability, of government-produced digital products like websites, applications, and online forms.
-- These standards encompass availability, uptime, and responsiveness.
+- To modernize and improve user experience of government-produced digital products, IDEA sets standards encompassing service availability, responsiveness, accessibility, security, and usability like websites, applications, and online forms.
 - Agencies must adhere to its requirements to ensure citizens can access government services seamlessly, regardless of time or location.
+- GSA uses site-scanning tools to automatically determine whether sites have search capabilities on par with IDEA.
+
+### [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)
+
+- Created to accomplish the standards listed in IDEA.
+- As oversight, OMB has created “digital experience indicators” to keep track of where agencies are making progress in implementing key elements. 
+- Once the indicators are widely used, OMB will move towards optimization.
 
 ### [OMB Circular A-130: Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 
