@@ -15,7 +15,13 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 - [Download the EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
 
-<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030">
+**High-level**
+
+<img width="980" alt="Screenshot 2024-04-08 at 11 34 25 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/61887bd5-3b13-48d3-9537-6e2659db9030"><br><br>
+
+**Sequence diagram**
+
+<img width="980" alt="Frame 1" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/3c7925aa-f393-4972-aa44-b926b5c21569">
 
 ## Research findings
 
