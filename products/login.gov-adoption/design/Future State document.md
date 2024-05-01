@@ -1,0 +1,31 @@
+# Future State document
+## Context
+In Person Proofing is an in person verification service that will be piloted in two phases: first at the Fayetteville VA Medical Center in Fayetteville, AR on May 20-23,204 and then at Long Beach VA Medical Center in Long Beach, California on a date yet to be finalized. During our pilot phase, we aim to test the feasibility of the main flow of the service which is considered to be a “happy path.” On the happy path, a Veteran will learn about what in person proofing is, discover what they need to bring to their walk in appointment, select a preferred proofing site (with limited options for pilot), confirm their selection, and receive confirmation details via email. Once the Veteran arrives at their proofing site, a Proofing Agent will meet them and verify their identity using the forms of identification and the confirmation case number that the Veteran provides. The Proofing Agent will validate the Veteran’s information against information on the Master Person Index database (MPI) which they will access via the Identity Management Toolkit (IAM Toolkit).
+
+## Purpose
+We have thoroughly considered the optimal pathway for Veterans and Proofing Agents to follow for our pilot, but we are aware of alternative pathways that will not be tested for feasibility or quality due to time constraints, limited resources, and dependencies on other VA services that we have yet to collaborate with. In this document, we will capture the future state of our service. We will demonstrate understanding of how alternative and additional pathways may be integrated with the current service to improve the overall robustness and inclusivity. We prioritized pathways that we discovered through our user research, but we also include pathways that show how our service can grow beyond the needs of VA. 
+
+For now, this is a living document that will be iterated on up until August 2024. Keep this document iterative ensures that we stay up to date on the best ways to make these future state pathways possible.
+
+
+## Walk in User Flow
+After conducting SME interviews and Proofing Agent Usability Tests with MHV Coordinators, we learned that VA Staff are used to Veterans walking in to verify their identity. In fact, Proofing Agents expect that the majority of Veterans would walk in without an appointment even if an appointment option is offered. Veterans need a way to learn about In Person Proofing as an option even if they are already onsite at a VA Medical Center. Our team thought through a flow that would allow Veterans to discover In Person Proofing, complete their intake process, and see a Proofing Agent all within the same day if they are already onsite. We present the following use case: 
+
+Darryl is a male 87 year old Veteran who has been using DS Logon to access VA.gov. He hears about In Person Proofing from his doctor while he is at his local VA Medical Center. His doctor recommends him to create a modern credential and verify his identity so that he can maintain his access to his healthcare and benefits on VA.gov. Darryl is confused by the shift to modern credentials and wants to talk to another person to guide him through the process. His doctor refers him to the front desk who can help him get started with the proofing process.
+
+As Darryl checks out from his appointment, the front desk refers to a note from the doctor and tells Darryl how he may set up a modern credential. They hand him a pamphlet which contains steps and information for gaining a modern credential and verifying it. Darryl doesn’t use a smart phone, but fortunately he is with his son, Jamie, helps him on his own smart phone. Once Jamie finishes creating a basic modern credential, Jamie asks for directions from the front desk to the Proofing Agent within the facility, but he sees there is signage that points to where he needs to go to meet the proofing agent.
+
+Darryl has brought his driver’s license with him but he relies on Jamie to help him retrieve his social security number which fortunately only needs to be recalled verbally and not shown. Jamie is relieved because Darryl has all of the documents he needed to get verified on the day of, but he is also reassured by the Proofing Agent that they could help Darryl verify remotely as a backup option. Darryl is pleased because he was able to take care of a crucial process with the help of his son and a trained professional whom he trusts. 
+
+[insert photo of flow]
+
+## Reschedule User Flow
+During our Veteran Usability tests, we heard many Veterans ask about what they would need to do if they had made a walk in appointment through the In Person Proofing application but they later realized they could not make the appointment. The appointment change could be due to a sudden emergency, illness, or other time conflict. Veterans need a pathway where they can reschedule their walk in and receive a new confirmation email with their updated details. To respond to this need we present the following use case as a solution:
+
+Hunter is a female 50 year old Veteran who had a Login.gov account, but she never verified it because she was used to using MHV to sign in to VA.gov. After learning from friends and VA news that MHV would be going away, she tried using her Login.gov account to sign in. She encountered a prompt that told her she needed to verify her account and she clicked on a link that sent her to Login.gov where she was presented with several verification options. She chose in person because she was skeptical of identity fraud. She used the in person proofing application to set up a walk in appointment at her closest VA Medical Center. 
+
+A few days later, Hunter realized that she needed to go out of town on business so she would not be able to make her walk in appointment within the next 10 business days. She wanted to make sure that she would not lose her ability to come in again, so she goes back to the In Person Proofing Application to find out what she needs to do.
+
+On the application, she sees there is an option to reschedule her appointment. When she clicks on that button, she is taken to the page where she may select the date she would like to come in. She successfully chooses a new date and receives a new email that contains the details for her new upcoming walk in.
+
+[insert photo of flow]
