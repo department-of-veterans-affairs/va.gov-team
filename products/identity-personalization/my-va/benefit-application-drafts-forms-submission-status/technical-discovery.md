@@ -93,9 +93,11 @@ I can work with Allison to help build whatever works best for DX and UI.
 
 GET /v0/user
 
-GET /uploads/{id}
+GET /uploads/{id} -- ticket to establish connection with this endpoint from vets api and expose new vets api endpoint to the frontend, update/create swagger documentation - 5pts 
 
-POST /uploads/report
+POST /uploads/report -- ticket to establish connection with this endpoint from vets api and expose new vets api endpoint to the frontend, update/create swagger documentation - 5pts
+
+
 
 
 ## Concerns
