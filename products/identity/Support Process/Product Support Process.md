@@ -8,6 +8,6 @@
     * Post a message in the Github ticket thread describing the context of the redaction - "You included a veteran's social security number, which is PII, so I edited the post to remove it.".
     * Post a message in the linked Slack thread tagging the requestor & alerting them to the PII inclusion and subsequent redaction.
 4. **Delegation:** If necessary, tickets are delegated to the appropriate crew lead within the Identity team for work completion.
-5. **Tracking:** Product Managers will track all requests on Zenhub by filtering for the label identity-engineering-support.
-6. **Monitoring:** Product Managers also monitorsthe #vsp-identity Slack channel, where these requests are normally initiated, to ensure no requests are missed.
+5. **Tracking:** Product Managers will track all requests on Zenhub by filtering for the label identity-product-support.
+6. **Monitoring:** Product Managers will also monitor the #vsp-identity Slack channel, where these requests are normally initiated, to ensure no requests are missed.
 7. **Escalation:** If a request is not responded to within the agreed-upon time, the request must be escalated to the Identity Product Leadership Team.
