@@ -6,7 +6,7 @@
 - This product is located in the footer and can be accessed by both authenticated and unauthenticated users.
 - This is an iteration on an existing tool. Veterans are not the primary user of this tool.
 
-[Link to product brief](https://docs.google.com/document/d/1ufvprKy4dVO8pGFn-5rhZiXkgrKmJeOV8bSx3242kik/edit#heading=h.zcwdhopz14el).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/product-outline.md).
 
 ### OCTO Priorities 
 
