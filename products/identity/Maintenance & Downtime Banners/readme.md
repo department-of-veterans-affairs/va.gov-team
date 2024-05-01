@@ -12,7 +12,7 @@ This maps to _O1KR2: VA.gov authentication SLOs are developed._
 
 
 ## Problem Statement
-There is currently inadequate external-facing status messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise.  External-facing status  banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service. A full overhaul of the process is needed. 
+There are currently inadequate external-facing status messages for VA.gov authentication services. This lack of transparency can lead to confusion and frustration for VA.gov users when issues arise.  External-facing status  banner messages would help mitigate these problems by providing real-time updates on the status of these services, leading to clearer communication and better overall service. A full overhaul of the process is needed. 
 
 ## Relevant Documents:
 
@@ -63,32 +63,27 @@ There is currently inadequate external-facing status messages for VA.gov authent
 
 ### Create the dashboard and document the processes
 - UI which allows a person to manually set "Current outage" message on VA.gov login page
-- Determine what we want to publish on status page then do it!
-  - Add service detection mechanisms to status page
 - Document alternative methods to access benefits if folks can't sign in.
   - This page might be a resource: [Helpful VA phone numbers](https://www.va.gov/resources/helpful-va-phone-numbers/)
   - Add these methods to outage messaging
 - Updated Identity response roster & schedule.
-
 - Make sure all research & documentation is in github
 
 
 ## Technical Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------| 
-| VA Policy |  Is there VA policy surrounding availability & response times?     |
-| Industry Standards |  Are there industry standards surrounding availability & response times?     |
+|  |      |
+|  |       |
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
 | ------------- |:------------- | 
-| Explaining what the dashboards mean |   Would like UX help in crafting the publishing language          |
-| Veterans who don't speak tech | How do we ensure they understand what they might be seeing? |
+|  |   |
 
 
 
 
 
 ## Future Scope:
-* Determining our response to observed service degradation.
-* As the Identity Team adds new products and takes on new responsibilities, it is anticipated that new pieces of information will need to be established and published.
+
