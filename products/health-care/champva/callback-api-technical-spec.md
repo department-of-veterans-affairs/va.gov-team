@@ -42,10 +42,8 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80482
    
 7. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
-   - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication
-   - JWT Bearer Token should be the best path forward as stated by Adrian:
-     - "the pattern you gave is pre-existing and I don't see any issue following it. The best example I found was the sign-in service service account authentication. ([README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/auth_flows/service_account.md), [controller](https://github.com/department-of-veterans-affairs/vets-api/blob/b21142e0073df8c20169086db732e9b9b05e9365/app/controllers/sign_in/service_account_application_controller.rb#L13), [concern](https://github.com/department-of-veterans-affairs/vets-api/blob/b21142e0073df8c20169086db732e9b9b05e9365/app/controllers/concerns/sign_in/service_account_authentication.rb#L13), [access token jwt decoder](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/services/sign_in/service_account_access_token_jwt_decoder.rb#L4)) Note that you'll want to need to add `skip_before_action :authenticate` in your controller to override the default user auth."
-   - We will want to return `{status: 200}` or `{status: 500, error: "Invalid..."}`
+   - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication for testing
+   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service will be used 
    - Add logic to validate JSON keys
    - Example:
     ```
