@@ -46,7 +46,7 @@ We will be conducting remote zoom meetings for these usability tests.
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide](https://docs.google.com/document/d/1ygEEg9lOJqrsMQNmjayET3kUZfHOPGk8Bz4hLtGro50/edit?usp=sharing)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/performance-dashboard/research/2024-04-Research-PerformanceDashboardRedesign/usability-conversation-guide.md)
 - [Link to prototype](https://www.figma.com/proto/2PtOg1H5h5obJUFg7DJpc8/Performance-Dashboard-Larger-Updates?page-id=512%3A55032&type=design&node-id=512-55033&viewport=779%2C532%2C0.11&t=yLUJLXgNFu8BdZro-1&scaling=scale-down&starting-point-node-id=512%3A55033&mode=design)
 
 ### Recruitment approach
