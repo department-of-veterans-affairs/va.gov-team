@@ -15,6 +15,7 @@
  
 - Configure (requires log in)
      - [Check-In Time in seconds](https://tevi.ddog-gov.com/dashboard/x67-auh-wqv/check-in-time-metrics-in-seconds?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1713100432798&to_ts=1713273232798&live=true)
+     - [Check In (Travel Claims) for Stakeholders](https://vagov.ddog-gov.com/dashboard/eax-4m7-3de/check-in-travel-claims-stakeholder?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1682971494000&to_ts=1714593894000&live=true)
        
 ## DOMO
 - [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
