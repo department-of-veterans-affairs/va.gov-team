@@ -3,6 +3,7 @@
 - [Research Repo Ticket - Ineligible](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/103)
 - [Research Repo Ticket - Eligible](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/87)
 - [Research notes in Mural - Eligible](https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1648742126640/8111b2a71890eb10c3457b2cf54c0f2e3a390f8a?sender=u6c46f747a0483ea836054483)
+- [Figma design file](https://www.figma.com/file/p8GkEx3nIkDye1TxbUcfQz/MHV-Inherited-Proofing?type=design&node-id=992-8988&mode=design&t=zQ1amA02y31gRLIz-0)
 
 
 ## Background

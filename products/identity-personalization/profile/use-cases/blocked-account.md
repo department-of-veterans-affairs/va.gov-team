@@ -1,6 +1,6 @@
 # Profile: User with a blocked account attempts to access any section of profile
 
-**Last updated**: February 9, 2023
+**Last updated**: February 14, 2024
 
 Currently, we block access to sections other than Account Security if a person has a flag on their account.  We get these flags from the endpoint. A flag could be present if a person:
 - has a fiduciary
@@ -14,8 +14,8 @@ When an account is blocked, we show an alert on the account security page. The o
 - If they click a URL that leads directly to any specific page under `/profile/` they're redirected to `/profile/account-security`.
 - Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system
 - Phone numbers should be linked and include aria attributes ([Storybook docs for phone numbers](https://design.va.gov/storybook/?path=/docs/components-va-telephone--three-digit-number#aria-described-by))
-- [Desktop mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/v/vqA79n/a/PG4Pm2j)
-- [Mobile mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/g09lryk)
+- [Desktop mock-up](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-372&mode=design&t=BTY4b2zX0VfLfY3Y-11)
+- [Mobile mock-up](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-32&mode=design&t=BTY4b2zX0VfLfY3Y-11)
 
 ## Codes
 

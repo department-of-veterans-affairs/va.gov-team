@@ -3,6 +3,35 @@
 Logic and requirements for tools and services that VAOS pulls data from.
 
 
+## Determining appointment type
+
+VAOS displays various types of appointments. See also [appointment types](./appointment-types/).
+
+The `kind` attribute is used to determine how each type should be displayed, along with some other data for community care and telehealth appointments.
+
+### Appointment types
+Booked appointments through VA or CC facilities.
+
+| Type |  Display attributes|
+|---|---|
+| [VA In-person](./appointment-types/va-in-person.md)  | `appointment.kind` = `clinic` |
+| [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | `appointment.serviceType` = `covid` |
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | `appointment.kind` = `telehealth` and `appointment.telehealth.atlas` does not exist and (`appointment.videoData.kind` = `ADHOC` or `appointment.videoData.kind` = `MOBILE_ANY`) |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appointment.kind` = `telehealth` and (`appointment.videoData.kind` = `CLINIC_BASED` or `appointment.videoData.kind` = `STORE_FORWARD`)  |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appointment.kind` = `telehealth` and  `appointment.videoData.kind` = `MOBILE_GFE`|
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appointment.kind` = `telehealth` and  `appointment.telehealth.atlas` exists |
+| [VA Phone](./appointment-types/va-phone.md) | `kind` = `phone` |
+| [Community care](./appointment-types/community-care.md) | `kind` = `cc` AND there is data in the `appointment.start` attribute |
+| [Claim exam appointment](./appointment-types/claim-exam.md) | `appointment.serviceCategory[0].text` = `COMPENSATION & PENSION` |
+
+### Request types
+Appointments that Veterans have requested but VA has not booked.
+
+| Feature | Description |
+|---|---|
+| [VA appointment request](./appointment-types/va-request.md)  | `appointment.kind` is not `cc` and it has data in the `appointment.requestedPeriods` |
+| [Community care appointment request](./appointment-types/community-care-request.md) | `appointment.kind` = `cc` AND there is data in the `appointment.requestedPeriods`|
+
 ## Determining available types of care for scheduling
 
 - The types of care are tied to clinics via stop codes that are [determined by the VA](./vista-appointments-facilities-clinics.md#clinic-stop-codes)
@@ -102,7 +131,8 @@ The default flow displayed must be as follows and must display  with appropriate
 | FALSE:<br><br>CCM set to No             | FALSE:<br><br>request limit exceeded    | N/A                                                | Message must display to veteran informing request limit met.                                                                                                                                           |
 | FALSE<br><br>CCM set to No              | FALSE<br><br>past appt criteria not met | N/A                                                | Message must display to veteran informing request can’t be submitted because past appointment criteria not met.                                                                                        |
 
-
+Notes:
+1. 12/13/2023 - a Veteran should have the ability to have 1 active request at the Parent and 1 active request at a CBOC but only one care type active overall. Ex - Veteran has active request at Parent for PC, they cannot select the PC care type and enter a request located at a CBOC.
 
 ## Determining community care eligibliity
 - VAOS calls a Lighthouse CCE Eligibility API for Community care eligibility.  
@@ -139,7 +169,7 @@ How the API determines CC eligibility:
    - VistA Request Type = Other than Not avail
    - VistA Next Avail Type = Not indicated toa be next avail
    - VistA PID/Preferred Date of Appointment must be set to the date selected as entered on When do you want to schedule page
-   -  VistA Patient Comments must be set as entered in the comment section on the Choose Reason for Appointment page.
+   - VistA Patient Comments must be set as entered in the comment section on the Choose Reason for Appointment page.
    - VistA Patient Comments must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS.  
    - VistA Clinic wait time 1 must be set to the difference b/w the date the appointment was processed and the date of the appointment
    - VistA Clinic wait time 2 must be set to the difference b/w the preferred date of the appointment (as entered in VAOS on the WHEN DO YOU WANT TO SCHEDULE page) and the date of the appointment.  
@@ -154,14 +184,14 @@ How the API determines CC eligibility:
    - VistA PID/Preferred Date of Appointment must be set to the first date enter as entered on Choose date for appointment
    - VistA Priority must be set to ASAP
    - VistA Modality must be set as entered in VAOS on the Choose a type of appointment page.  
-        - VAOS Office Visit = Face to Face
-        - VAOS Telephone  = Phone Call
-        - VAOS Telehealth = Video
+       - VAOS Office Visit = Face to Face
+       - VAOS Telephone  = Phone Call
+       - VAOS Telehealth = Video
 - VistA Patient Comments must include the following:
-      - Location Selected in VAOS
-      - The second and third date preferences if entered on the Choose an appointment day and time page
-      - Email and phone number.  
-      - Comments must be set as entered on the Choose Reason for Appointment page must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS. 
+    - Location Selected in VAOS
+    - The second and third date preferences if entered on the Choose an appointment day and time page
+    - Email and phone number.
+    - Comments must be set as entered on the Choose Reason for Appointment page must have the reason code (ROUTINEVISIT, MEDICALISSUE, QUESTIONMEDS, OTHER_REASON) appended to the comments as entered in VAOS. 
 
 ### Community Care Requests in HSRM
 - All community care requests must write the following data to the Health Systems Referral Management System (HSRM)

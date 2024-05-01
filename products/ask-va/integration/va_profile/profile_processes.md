@@ -20,36 +20,38 @@ No information can be prefilled for unauthenticated users of the AVA Form.
   * Inquiry information can be updated implicitly when the submitter submits their inquiry
 
 ## Identity ID sourcing
-| Prefilled field | Source | Source field | Description |
-|:--|:--|:--:|:--|
-| Submitter CSP UUID | VA.gov Profile - identity | uuid | Generated when a user registers at one of the IDPs |
-| Submitter ICN | VA.gov Profile - MPI | icn | Generated when a user verifies their identity with one of the IDPs | 
-| Submitter EDIPI | VA.gov Profile - MPI | edipi | DoD number used for veterans, contractors, and govt civilians |
+Note: Where the source is VA.gov Profile, we will get data through the api.va.gov/user endpoint through vets-api. [See the outlined process later in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/integration/va_profile/profile_processes.md#pre-defined-process-for-login-and-va-profile-data-retrieval). The source of this data is still technically VA Profile or MPI though.
+
+| Prefilled field | Source | Source field | Mapping to AVA field | Description |
+|:--|:--|:--:|:--|:--|
+| Submitter CSP UUID | VA.gov Profile - identity | uuid | ... | Generated when a user registers at one of the IDPs |
+| Submitter ICN | VA.gov Profile - MPI | icn | ... | Generated when a user verifies their identity with one of the IDPs | 
+| Submitter EDIPI | VA.gov Profile - MPI | edipi | Patient.EDIPI  | DoD number used for veterans, contractors, and govt civilians |
 
 ## Prefilled field sourcing
-| Prefilled field | Source | Source field |
-|:--|:--|:--:|
-| Submitter First Name | VA.gov Profile - identity | first_name |
-| Submitter Middle Name | VA.gov Profile - identity | middle_name |
-| Submitter Last Name | VA.gov Profile - identity | last_name |
-| Submitter Suffix | VA.gov Profile - identity | suffix |
-| Submitter Email  | VA.gov Profile - identity | email | 
-| Submitter Gender | VA.gov Profile - identity | gender |
-| Submitter DoB | VA.gov Profile - identity | birth_date |
-| Submitter SSN | VA.gov Profile - MPI | ssn |
-| Submitter Home Address | VA.gov Profile  - MPI | address.street & address.street2| 
-| Submitter Home City | VA.gov Profile  - MPI | address.city | 
-| Submitter Home State | VA.gov Profile  - MPI | address.state | 
-| Submitter Home Zip  | VA.gov Profile  - MPI | address.zip | 
-| Submitter Phone  | VA.gov Profile  - MPI | home_phone | 
-| Preferred Name | VA.gov Profile  - MPI | preferredName | 
-| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName |
-| Submitter Branch of Service  | AVA Profile | * | 
-| Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number | 
-| Submitter School Facility Code  | AVA Profile | patient.school_facility_code | 
-| Submitter State of School  | AVA Profile | patient.iris_schoolstate | 
-| Business phone | AVA Profile | patient.telephone1 |
-| Business email | AVA Profile | patient.emailaddress2 |
+| Prefilled field | Source | Source field | Mapping to AVA field | Notes |
+|:--|:--|:--:|:--|:--|
+| Submitter First Name | VA.gov Profile | first_name | Patient.First Name | |
+| Submitter Middle Name | VA.gov Profile | middle_name | Patient.Middle Name | |
+| Submitter Last Name | VA.gov Profile | last_name | Patient.Last Name | |
+| Submitter Suffix | VA.gov Profile | suffix | Patient.Suffix (AVA) | |
+| Submitter Email  | VA.gov Profile | email | Patient.Email |  |
+| Submitter Gender | VA.gov Profile | gender | Patient.Submitter Provided Gender | |
+| Submitter DoB | VA.gov Profile | birth_date | IF Submitter = Veteran, then Patient.Date of Birth| |
+| Submitter SSN | VA.gov Profile | ssn | Patient.SSN | |
+| Submitter Home Address | VA.gov Profile | address.street & address.street2| Patient.Address1:Street 1 | |
+| Submitter Home City | VA.gov Profile | address.city | Patient.Address1:City | |
+| Submitter Home State | VA.gov Profile | address.state | Patient.State |  |
+| Submitter Home Zip  | VA.gov Profile | address.zip | Patient.Address 1: ZIP/Postal Code | |
+| Submitter Phone  | VA.gov Profile | home_phone | Patient.Address 1: Telephone 3 | |
+| Preferred Name | VA.gov Profile | preferredName | Patient.Preferred Name | |
+| Pronouns | VA Profile | genderIdentityTraits.pronoun.pronounName | Patient.Pronouns I Use | waiting on court ruling to make it available on va.gov profile page<br/><br/>Can pull this information from AVA Profile until then |
+| Submitter Branch of Service  | VA Profile | militaryServiceHistory | Patient.Submitter Provided Branch of Service | This information is available in VA Profile and is read only because it comes straight from DoD.<br/><br/>  There can be many results so need to consider that when defaulting to one |
+| Submitter Service Number  | AVA Profile | patient.submitter_provided_service_number | | |
+| Submitter School Facility Code  | AVA Profile | patient.school_facility_code | | | 
+| Submitter State of School  | AVA Profile | patient.iris_schoolstate | | | 
+| Business phone | AVA Profile | Patient.Business Phone | | | 
+| Business email | AVA Profile | Patient.Email Address 2  | | | 
 
   * Denotes, the path to this data hasn't been determined yet 
 
@@ -105,11 +107,19 @@ flowchart TB
 ### Pre-Defined Process for Login and VA Profile Data Retrieval
 ```mermaid
 sequenceDiagram
-    VA-gov->>IDP: Initiate Login Process
-    IDP->>VA-gov: UUID
-    VA-gov->>MPI: Initiate retrieval of user profile information
-    MPI->>VA-gov: Authenticated User's Profile Information
-    VA-gov->>AVA_Form: User directs to AVA_Form
+    VA.gov->>IDP: Initiate Login Process
+    IDP->>VA.gov: UUID
+    VA.gov->>api.va.gov/user: UUID
+    api.va.gov/user->>VA.gov-Accounts: Initiate retrieval of user information
+    api.va.gov/user->>MPI: Initiate retrieval of user information
+    api.va.gov/user->>VA-Profile: Initiate retrieval of user information
+    api.va.gov/user->>Other-Sources: Initiate retrieval of user information
+    VA.gov-Accounts->>api.va.gov/user: Returns Information
+    MPI->>api.va.gov/user: Returns Information
+    VA-Profile->>api.va.gov/user: Returns Information
+    Other-Sources->>api.va.gov/user: Returns Information
+    api.va.gov/user->>VA.gov: Consolidated User Profile returned
+    VA.gov->>AskVA: User navigates to AskVA Form
 ```
 
 ### Pre-Defined Logic For Merging Data Only Found in AVA Profile
@@ -130,19 +140,16 @@ flowchart TB
     end
 ```
 
-## VA Profile vs VA.gov Profile
+## VA.gov Profile vs VA Profile vs AVA Profile
+### What
+*  **VA.gov Profile:**  This is a consolidation service that relies on multiple VA systems that are considered sources of truth for specific kinds of data. Access is via VA.gov API and [VA.gov Profile Page](https://www.va.gov/profile).
+*  **VA Profile:** This is a datastore that contains multiple tables that store information for users that interact with the VA.  Access is via VA Profile API
+*  **AVA Profile:** This is a datastore that contains user information specific to the AskVA form.  Currently there is no API available, however you can [track progress](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/integration/README.md) of the one being built.
 
-Questions: 
-1. What is the purpose for each system? 
-2. Does everybody get an ICN who logs into VA.gov?
-3. Is VA Profile available to ALL people that will try to access AskVA (veteran and non-veteran)?
-
-| Criteria | VA Profile | VA.gov Profile |
-|---|---|---|
-| When you authenticate to one of the supported IDPs, is a record in this system created? | | |
-| Is the information in this system accessible to AskVA (in VetsAPI)? | | |
-| POC for the system | | |
-
+### How
+* A VA.gov profile is generated for every verified user.
+* Anybody with an ICN in MPI who has provided contact information is eligible to be in VA Profile
+    * EXCEPTION: excludes VA employees unless they are veterans - the authoritative system for VA employees are HR Smarts
 
 ## Resources
 * [VA Profile Spike](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/spikes/va_profile_spike.md)

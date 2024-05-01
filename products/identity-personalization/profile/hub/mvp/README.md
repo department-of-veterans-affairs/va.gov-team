@@ -1,6 +1,6 @@
 # Project outline: Profile hub MVP
 
-**Last Updated: September 12, 2023 -- Updated KPIs**
+**Last Updated: January 17, 2024** updated metrics
 
 ### Communications
 
@@ -81,13 +81,18 @@ To solve for these problems, we are building a profile hub page, which resolves 
 
 [Domo dashboard for profile searches by search term](https://va-gov.domo.com/page/1834995012/kpis/details/203579416)
 
-|KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 100% | 1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|:-:|:-:|:-:|:-:|
-|dd214|||||
-|direct deposit|||||
+Each cell in the chart is populated in the same format: Ranke (searches) 
+|KPI/metric|Baseline: 1 month pre-launch [11/18 - 12/18/2023]| 1 week post-launch to 100% [12/19-12/26/2023]| 2 weeks post-launch to 100% [12/27/2023-1/2/2024]| 3 weeks post-launch to 100% [1/3-1/9/2024]| 4 weeks post-launch to 100% [1/10-1/16/2024]| 1 month cummulative 12/19-1/16|
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|
+| dd214	| # 3rd	(167 searches) |	# 13th	(16 searches)|	# 13th	(16 searches)|	# 5th	(19 searches)|	# 16th	(16 searches)|	# 12th	(76 searches)|
+| direct deposit	|  # 1st	(188 searches)	| # 4th	(27 searches)|	# 2nd	(31 searches)|	# 12th	(14 searches)|	# 3rd	(31 searches)|	# 3rd 	(119 searches)|
+
+
 
 ## Analytics 
 Analytics for hub vs menu nav clicks can be found on [this board](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128/)
+
+For more complete list [see this report](https://analytics.google.com/analytics/web/?authuser=0#/analysis/a50123418w177519031p176188361/edit/_K1zzMjpQ2qxlfcC--aNiw) 
 
 <details>
   <summary>example screen grab of the relevant section</summary>
@@ -95,8 +100,13 @@ not maintained
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/63d4760b-3136-4f84-bc33-ef7624df91ea)
 
-
 </details>
+
+### Baseline Metrics for Hub vs Side Nav
+
+See [google sheets](https://docs.google.com/spreadsheets/d/1PtzSG0q-pCdVi_yNs5My62ZCY_JlHh8pMHGqHsq3YSA/edit#gid=1625007903)
+Alternatively, see the excel version uploaded to GitHub [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/hub/mvp/ProfileHubLaunchMetrics.xlsx)
+
 
 ## Key deliverables
 
@@ -113,7 +123,7 @@ not maintained
 - September 2023: Build
 - October 2023: Usability Testing
 - November 2023: Build corrections
-- December 2023: Launch
+- December 18, 2023: Launched to 100%
 
 ## Design
 <details>
@@ -129,8 +139,8 @@ not maintained
 <details open>
   <summary>Current Design and User Flow</summary>
 
-- [Desktop](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd/p/EFCD1C39-A0C1-4A07-8510-1C0A7713FA1A/canvas)
-- [Mobile/user flow](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd)
+- [Desktop](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0%3A184&mode=design&t=ovtGP9kHDxSP8KRd-1)
+- [Mobile/user flow](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0%3A1&mode=design&t=ovtGP9kHDxSP8KRd-1)
 
 </details>
    

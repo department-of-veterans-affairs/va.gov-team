@@ -1,3 +1,651 @@
+## Meeting Notes for CRM Sync on 04/02/2024
+
+Discuss field removal with CCB; Topic metadata added
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. ~Discuss upcoming business line working sessions and if we can have some time to discuss the field removal recommendation (Sharepoint)~
+   * This has been handled via side bars. CC added BP to the agenda for next CCB meeting.
+2. Kyle added metadata fr topics to Jira, slated for next sprint
+  
+### Action Items:
+
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JOE user testing story for E2E in lower environments; plan for
+
+
+
+
+## Meeting Notes for CRM Sync on 03/26/2024
+
+Topic metadata; E2E test planing; 
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Revisited topic metadata for data-driven implementations for LoB features and options
+2. User testing story, lower environments, needs to be planned out for E2E testing. Need to get our anticipated deploy dates (coded prototype, R2 testing, final application including features outside of R2 tests, plus changes from R2 findings) ... need to do E2E now that we have submit inquiry and retrieve sooner than at the end. [ACTION ITEM NEEDED]
+3. Time to complete? Last closed date, new issue from open date to datetime.now(), (status update change, e.g. date reopened until closed. Business days calc. Calculated daily) BP/CC to follow up. [NEED ACTION ITEM??]
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [X] ~Joe/Kylle/Chris/Eddie: Discuss add correspondence type to topic, to hide snail mail; perhaps other LoB-specific scenarios as well~
+
+
+
+
+## Meeting Notes for CRM Sync on 03/19/2024
+
+Data-driven behavior, topic-based
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Topic field to show/hide US Mail, based on LoB; Data-driven solution
+   * CRM manages the flags
+   * AVA VA.gov writes logic to use those values
+   * e.g. phone/us-mail assume without feedback from LoB, set phone to true
+   * CRM can go ahead and implement the metadata, AVA VA.gov will use when able
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Joe/Kylle/Chris/Eddie: Discuss add correspondence type to topic, to hide snail mail; perhaps other LoB-specific scenarios as well
+
+
+
+
+## Meeting Notes for CRM Sync on 03/12/2024
+
+Topic metadata for show/hide and LoB-specific logic
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Enabling/disabling contact preference options by category and/or topic:
+   * Should this be data-driven, where the topic has metadata that tells the front-end logic to display (or not) the option?
+   * Similar for other show/hide, run/don't-run scenarios?
+   * Or ... continue to write code for this?
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Joe/Kylle/Chris/Eddie: Discuss add correspondence type to topic, to hide snail mail; perhaps other LoB-specific scenarios as well
+
+
+
+
+## Meeting Notes for CRM Sync on 03/05/2024
+
+Category/Topic/Subtopic metadata;
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Khoa and Chris discussed adding the type column to the response for categories/topics/subtopics endpoint
+2. Rank order is on category only. Topics and subtopics can only be sorted alphabetically
+3. e.g. `ORDER BY ISNULL(RankOrder, 0), Display`
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+
+
+
+
+## Meeting Notes for CRM Sync on 02/27/2024
+
+Standup; Environment Mappings; /announcements; VEIS -> EIS
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Brian confirmd that ATO update not needed. Natalie to discuss with Shelby.
+2. Environment Mappings between AVA CRM and AVA VA.gov
+
+<a href="#" name="environment-mappings"></a>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| AVA VA.gov | AVA CRM |
+|-|------------|---------|
+| | DEV | DEV<br/>INT |
+| | STAGING | QA<br/>PRE-PROD |
+| | PROD | PROD |
+> **NOTE:** Handy to know for E2E testing.
+
+3. KYLE: VEIS -> EIS URLs will be tweaked. Heads up! When we know more, Kyle will pass it along.
+4. KHOA: /announcement endpoint
+   * End datetime in future, Start datetime in the past - refresh if server is pinged
+   * No cache, will rely on most recent call to CRM
+5. SHELBY: Go-Live activities to Natalie ... E2E hinges on date that AVA VA.gov has shared code freeze in June.
+
+  
+### Action Items:
+
+- [ ] Chris/Kyle: Ensure no certificate impacts, offline.
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+
+
+
+
+## Meeting Notes for CRM Sync on 02/20/2024
+
+Standup; Medical Facilities; Khoa and Kyle progress
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. Review Action Items
+3. Status Updates
+4. Topics
+   * Khoa and Kyle - getting example responses frmo endpoints
+5. Open Floor
+  
+### Action Items:
+
+- [X] ~JOE: Update status page with Kyle's latest work~
+- [X] ~JOE: Update `/attachment` endpoint with example response~
+- [X] ~JOE to follow up with CC to discuss what's included in Medical Facilities~
+      * __Kyle and Joe dscussed. AVA on VA.gov will pass facility details, AVA CRM will update their list based on those details__
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JAMES to call Brian, RE: Medallia, to see what the hitch is, Intake (likely done/moot), needs, next steps
+
+
+
+
+## Meeting Notes for CRM Sync on 02/15/2024
+
+Standup; Medallia; R1 imact to CRM; Facilities details
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. Review Action Items
+3. Status Updates
+4. Topics
+   * Discuss potantial scope of edits to CRM APIs, post R2 testing, pre-MVP
+      * SHELBY: R2 research that may affect design, like adding gender/pronoun/...
+      * BECKY:
+         * R1 has scope of changes, gender & pronouns may be removed;
+         * Category/Topic/Subtopic should be good to go.
+         * We'll revisit the 5-slide deck that Tyler prepared and Joe/Tyler presented earlier
+      * SHELBY: Medallia ask was for a few months before go-live. Should it be prioritized above API work?
+         * CHANTE: potential issue with number of surveys collected; mo immeditate, API-blocking urgency; sooner better than later; Shouldn't be a heavy lift, inject script ont pages; no impact to API work
+      * KATHLEEN: More discussion needed; timeline need revisions?; Brian's team heavier lift, June date; what does CRM need to do to support this? Coordinate with scheduled releases
+      * CHANTE: schedule more discussion to explore LoE; Brian's team has what they need (questions/approvals/...) just need to generate the survey
+      * Schools/Mediacal Facilities (All? Subset? Which for each?)
+5. Open Floor
+  
+### Action Items:
+
+- [X] ~JOE to add Chante to invite for Tuesday CRM Sync~
+- [X] ~SHELBY: add Chante to daily(ish) standup meetings~
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JAMES to call Brian, RE: Medallia, to see what the hitch is, Intake (likely done/moot), needs, next steps
+- [ ] JOE to follow up with CC to discuss what's included in Medical Facilities
+
+
+
+
+## Meeting Notes for CRM Sync on 02/06/2024
+
+Standup; Status Updates; Medallia on ask.va.gov
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. Review Action Items
+3. Status Updates
+4. Open Floor
+  
+### Action Items:
+
+- [X] ~JOE/TYLER to get with SHELBY/CHRIS/KYLE, RE: LoE for status changes, on 1/31/2024~
+- [X] ~BECKY to help escalate NATALIE's issue with accessing ZenHub~
+- [ ] JOE to add Chante to invite for Tuesday CRM Sync
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] JAMES to call Brian, RE: Medallia, to see what teh hitch is, Intake (likely done/moot), needs, next steps
+
+
+
+
+## Meeting Notes for CRM Sync on 01/30/2024
+
+Short Meeting; Standup; Stand Down; Lionel Richie
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. New format for meeting, standup at start:
+   * [API Integration Status document](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) updated
+2. The agenda called for a discussion about LoE for CRM field changes. But meeting was already scheduled for 1/31 to cover this topic.
+3. Some housekeeping for Teams was discussed, agreed upon, no impact on the AVA on VA.gov team.
+  
+### Action Items:
+
+- [ ] NATALIE provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] BECKY to help escalate NATALIE's issue with accessing ZenHub (**BLOCKED** - licenses)
+- [ ] JOE/TYLER to get with SHELBY/CHRIS/KYLE, RE: LoE for status changes, on 1/31/2024
+- [ ] HOLLY to sing covers of _Say You, Say Me_; _Hello_; and _Stuck on You_ at next meeting
+
+
+
+
+## Meeting Notes for CRM Sync on 01/25/2024
+
+ATO, 508, Streamlined Meetings, Housekeeping
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. James: Platform has some 508 work to complete before addressing AVA's changes
+   * Becky to re-send email w/summary of our status
+2. Meetings for both teams streamlined, updates made to calendars
+3. Joe/Tyler to get with Chris/Shelby/Kyle RE: LoE for status changes, ...
+  
+### Action Items:
+
+- [ ] Natalie provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Becky to help escalate Natalie's issue with accessing ZenHub
+- [ ] Add James Blaine to the invite list for this meeting (JOE - add to both meetings)
+- [ ] Joe/Tyler to get with Chris/Shelby/Kyle RE: LoE for status changes, ...
+
+
+
+
+## Meeting Notes for CRM Sync on 01/23/2024
+
+Zero Tokens, GI Bill for Ed. Facility Search
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Updates on AVA on VA.gov's zero token status
+2. New app will use GI Bill's data service for school facility code lookups.
+3. Cleaned up Action Items
+  
+### Action Items:
+
+- [ ] Natalie provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Becky to help escalate Natalie's issue with accessing ZenHub
+- [ ] Natalie + team to provide name of research observers from CRM team by EOD 1/17
+- [ ] Add James Blaine to the invite list for this meeting (JOE - add to both meetings)
+
+
+
+
+## Meeting Notes for CRM Sync on 01/18/2024
+
+Timeline
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Holly presented the ZenHub-based timeline for the AVA on VA.gov project.
+  
+### Action Items:
+
+- [ ] Natalie provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Becky to help escalate Natalie's issue with accessing ZenHub
+- [ ] Natalie + team to provide name of research observers from CRM team by EOD 1/17
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+- [ ] Shelby: Check in with dev team & aiming for next sync call (1/16) for answers on form changes
+- [ ] Adding field to form (“Missing field in CRM” slide)
+- [ ] Adding an option to a list (“Relationship lists” slide)
+- [ ] Update gender field with optionset or could be a new field (“Changed Gender value” slide)
+
+
+
+## Meeting Notes for CRM Sync on 01/16/2024
+
+Medallia Updates
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Natalie updated on Medallia ATO
+   * potential inquest may take 6-9 months to access data on Medallia portal (according to experience)
+   * Natalie needs to confirm this though by talking to ISSO.
+  
+### Action Items:
+
+- [X] ~Becky to connect Natalie with Medallia team to answer questions~
+- [ ] Natalie provide update to Medallia after speaking with ISSO and Medallia team
+- [ ] Becky to help escalate Natalie's issue with accessing ZenHub
+- [ ] Natalie + team to provide name of research observers from CRM team by EOD 1/17
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+- [X] ~Chris: Send reroute data to Joe/Jacob/Becky~
+- [ ] Shelby: Check in with dev team & aiming for next sync call (1/16) for answers on form changes
+- [ ] Adding field to form (“Missing field in CRM” slide)
+- [ ] Adding an option to a list (“Relationship lists” slide)
+- [ ] Update gender field with optionset or could be a new field (“Changed Gender value” slide)
+- [X] ~Chris & Joe: Discuss empty string or a null string~ (empty string)
+
+
+
+## Meeting Notes for CRM Sync on 01/11/2024
+
+Brief brief; Access Status; API Status
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Training / 0-token / resource-access status in progress for both teams
+   * For CRM, access is needed for API work, blocking
+   * For FE, access is needed for analytics, specifically baseline metrics
+2. API docs review, `/profile` documentation needs tweaks from CC.
+  
+### Action Items:
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+
+
+
+## Meeting Notes for CRM Sync on 01/09/2024
+
+Rerouting Data in App Insights; UX Change CRM Impact Slides
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Approach for Pulling Rerouting Data from Existing App
+   * PowerBI dashboard cites reroute data. How is that data summarized?
+2. UX Slides Presented [Commments in Deck](https://docs.google.com/presentation/d/11C53YOx5APOuG9_0j-0bGlIhxPnUSP339IRwcHK-2Yc/edit#slide=id.p) copy in AVA Teams
+  
+### Action Items:
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+- [ ] Beck and Holly provide roadmap from zenhub 1/17/24
+- [ ] Chris: Send reroute data to Joe/Jacob/Becky
+- [ ] Shelby: Check in with dev team & aiming for next sync call (1/16) for answers on form changes
+- [ ] Adding field to form (“Missing field in CRM” slide)
+- [ ] Adding an option to a list (“Relationship lists” slide)
+- [ ] Update gender field with optionset or could be a new field (“Changed Gender value” slide)
+- [ ] Chris & Joe: Discuss empty string or a null string
+
+## Meeting Notes for CRM Sync on 01/04/2024
+
+Reviewed Action Items; Reminder of UX Slides
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Short meeting
+2. Reviewed Agenda Items
+3. UX Slides for CRM Impact coming
+  
+### Action Items:
+
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+- [ ] Beck and Holly provide roadmap from zenhub 1/17/24
+
+## Meeting Notes for CRM Sync on 01/02/2024
+
+Profile discussed; UX CRM Impact; 0-Tokens; ZenHub Timeline
+
+### Attendees:
+
+* **AVA FE Team:** Khoa, Joe Hall, Eddie, Becky Phung, Hemesh, Holly, Jacob Cheriathundam
+* **AVA CRM Team:** Bharat Parihar, Tina, Shelby, Chris, JD, ...
+
+### Key Takeaways:
+
+1. UX Changes Review for CRM Impact is coming
+2. Wrapped up discussion on `GET /profile` endpoint. Endpoint will include all data, FE will use the subset it needs.
+3. Kyle will be PoC for App Insights data when he gains access.
+4. FE and CRM teams are in the process of getting 0-token and access to resources.
+5. FE Team working on Timeline, converting to ZenHub, will share more in a future sync.
+  
+### Action Items:
+
+- [ ] JOE: Update all API endpoints to include the message_id, etc. (ETA 1/4)
+- [ ] JOE: Rename Tuesday Sync to FE/CRM rather than AVA/AVA CRM (in Google & VA Calendars)
+   * Blocked - still working on final naming that better reflects our teams’ roles
+
+## Meeting Notes for CRM Sync on 12/21/2023
+
+OptionSet wrapped; Profile pushed
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Eddie, Khoa, Hemesh, Becky,
+* **AVA CRM Team:** Shelby, Kyle, Tina, Chris, JD, 
+
+### Key Takeaways:
+
+1. New agenda flow announced: non-tech up front, tech at end, so folks can drop off sooner if desired
+2. Wrapped up discussion on `GET /optionset?{name}` endpoint (12/21)
+3. Pushed `/profile?{id}` endpoint to (01/02)
+  
+### Action Items:
+
+- [ ] Joe: Integrate JD's Teams chat notes into the `/optionset?{name}` docs
+- [ ] Joe: verify that `message_id` is common to all API endpoints; document
+- [ ] Joe: Tweak Tuesday Sync Team Names in Invite (VA and gmail)
+    * Blocked, waiting on naming decision that better represents our teams' roles
+- [ ] Joe: Send links to:
+     - [ ] Flow Diagrams
+     - [ ] Endpoints Status and Specs
+     - [ ] Sync Meeting Notes
+     - [ ] Design screenshots of the new UX
+
+---
+
+## Meeting Notes for CRM Sync on 12/19/2023
+
+Intros, Intake, and Updates
+
+### Attendees:
+
+* **AVA FE Team:** Becky, Holly, Hemesh, Jacob, Khoa, Joe, 
+* **AVA CRM Team:** Joanne, Shelby, Arisa, Kyle, Chris, 
+
+### Key Takeaways:
+
+1. Introductions from FE and (our new) CRM members
+2. Becky reviewed VA Profile intake form with team
+3. Quick review of `/optionset?{name}` endpoint and updates to status doc
+  
+### Action Items:
+
+- [X] Joe: Update comments/dates in status doc
+- [X] Jacob: Capture profile flow visually
+- [ ] Joe: Send links to:
+     - [ ] Flow Diagrams
+     - [ ] Endpoints Status and Specs
+     - [ ] Sync Meeting Notes
+     - [ ] Design screenshots of the new UX
+
+---
+
+## Meeting Notes for CRM Sync on 12/14/2023
+
+Review of `/profile` and `/optionset` endpoints
+
+### Attendees:
+
+* **AVA FE Team:** 
+* **AVA CRM Team:** 
+
+### Key Takeaways:
+
+1. Reviewed `/optionset?{name}` endpoint, incl. list of valid names
+2. JD mentioned the `message_id` correlation id for messages; Joe to integrate
+  
+### Action Items:
+
+- [ ] Jacob: Capture profile flow, visually
+- [ ] Joe: Update `/optionset?{name}` status and docs, based on review
+
+---
+
+## Meeting Notes for CRM Sync on 12/12/2023
+
+Profile(s) sourcing; Facility codes; Attachments; The Flow
+
+### Attendees:
+
+* **AVA FE Team:** 
+* **AVA CRM Team:** 
+
+### Key Takeaways:
+
+1. Discussed AVA Profile & VA Profile Data Sourcing for Business and Personal Inquiries
+	1. Pull rom VA Profile, gaps from AVA Profile
+	2. Profile data travels with inquiry payload
+	3. AVA CRM will need to decide when/if to update AVA Profile fields
+	4. 
+2. Discussed Facility Codes
+	1. Multiple medical facilities may be associated with a submitter (ex: visit one facility today, another in 2 weeks)
+	2. There is a "home" medical facility that the agents reference
+	3. Medical facility not traditionally pre-filled, but school facility is
+3. Discussed possibility of using a separate tool for Educational uploads
+	1. Not on Ed team's radar now
+	2. Uploads can trigger questions in normal flow, so may be beneficial to have in same system (AVA)
+	3. To see how big an impact this would be, discussed analytics
+	4. Data is there (in App Insights), but will take work to mine that data
+4. Natalie proposed separate meeting for Thursday to review visual flow
+  
+### Action Items:
+
+- [ ] AVA FE: Capture Profile(s) flow visually; Present Thursday
+
+---
+
+## Meeting Notes for CRM Sync on 12/07/2023
+
+Lookups, AVA CRM LOE, Country Corrections
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Jacob, Khoa, Natalie, Becky
+* **AVA CRM Team:** Chris, Shelby,
+
+### Key Takeaways:
+
+1. Captured in the Action Items, below
+  
+### Action Items:
+
+- [ ] AVA FE: Verify list of states from VA side includes: states, provinces, military bases, ...
+- [ ] Shelby to share email update on LOE with Ruchi, Holly, Joe, Natalie
+	- Relevant tickets are #375, along with #397, #372, #376
+- [ ] Look into suggesting corrections to the VA list of countries as some are incorrect
+	- [ ] Chris to research the final changes . decisions to be made, hand off to FE team for follow up
+	- [ ] FE to track down decision makers for VA data, submit requests
+
+---
+
+## Meeting Notes for CRM Sync on 12/05/2023
+
+CRM Estimated LOE, Review Instances, Listing and Referencing Countries
+
+### Attendees:
+
+* **AVA FE Team:** Joe, Khoa, Eddie, Jacob, Holly, Ruchi
+* **AVA CRM Team:** Chris, JD, Tina, Shelby, Jaime, Tim Robinson, Wayne Eberly (New), Wandy Espana (New), Oroni George (New), Maria King (New), Catherine Morrison (New),
+
+### Key Takeaways:
+
+1. Shelby updated Natalie with the estimated LOE documentation
+2. Khoa shared how we're using Review Instance servers for faster code iteration
+3. Favor VA country list, patch missing with CRM's list, values for VA will be mapped to CRM values BEFORE submitting the inquiry
+  
+### Action Items:
+
+- [ ] Shelby to share email update on LOE with Ruchi, Holly, Joe, Natalie
+	- Relevant tickets are #375, along with #397, #372, #376
+- [ ] Look into suggesting corrections to the VA list of countries as some are incorrect
+	- [ ] Chris to research the final changes . decisions to be made, hand off to FE team for follow up
+	- [ ] FE to track down decision makers for VA data, submit requests
+
+---
+
 ## Meeting Notes for CRM Sync on 11/30/2023
 
 Worked through Get Topics and Submit Inquiry

@@ -146,7 +146,6 @@ Note: Increaseing pageviews was not originally part of our goals. We decided to 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
 - [EPIC | Profile | Authenticated Menu Modifications #62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)
-- [Sketch files](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas)
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/release-plan.md)
 
 ## Key dates
@@ -158,7 +157,8 @@ Note: Increaseing pageviews was not originally part of our goals. We decided to 
 
 ## Design
 
-- Add link to Sketch files
+- [Design Intent Sketch files](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas)
+- [Final Sketch files](https://www.sketch.com/s/b1dacba9-064d-4a24-bfa4-ae0da5790f08)
    
 ### Before
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/76d5cd22-fab0-4c53-a69e-4d80bb82797a)

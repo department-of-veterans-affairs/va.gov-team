@@ -1,6 +1,6 @@
 # Product outline: My VA
 
-**Last updated: December 1, 2023 - Removing notifications as a feature**
+**Last updated: April 26, 2024 - updated projects**
 
 ### Communications
 
@@ -44,7 +44,7 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 |Nametag - Military info|The [nametag](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/nametag) pulls in someone's military branch, if applicable.|[Military information section of the VA.gov profile](https://staging.va.gov/profile/military-information)| VA Profile | Go through the profile team, or contact VA Profile ([#va-profile](https://dsva.slack.com/channels/va-profile); main contact is Mike Richard) directly|
 |~Notifications~ We decomissioned our MVP and have put notifications work on hold as of Fall 2023| ~This section displays recent notifications.~| ~Email/text notifications managed through VANotify~ | ~VANotify~| ~[#va-notifty-public](https://dsva.slack.com/channels/va-notifty-public); Bev Nelson (beverly.nelson@va.gov) or Melanie Jones (melanie.jones@oddball.io)~|
 |Claim status| This shows someone's most recent claim status update and links to the claim status tool.| [Claim status](https://staging.va.gov/track-claims/your-claims) | Lighthouse | Go through [#benefits-claim-appeal-status](https://dsva.slack.com/channels/benefits-claim-appeal-status) |
-|Health care -- Appointment info | This section shows someone's next upcoming appointment info, if applicable, and links to the appointment tool.| [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) | VAOS | Go through  [#vaos-team](https://dsva.slack.com/channels/vaos-team)|
+|Health care -- Appointment info | This section shows someone's next upcoming appointment info, if applicable, and links to the appointment tool.| [VA Online Scheduling (VAOS)](https://staging.va.gov/health-care/schedule-view-va-appointments/appointments/) | VAOS | Go through  [#appointments-team](https://dsva.slack.com/channels/appointments-team) (fka VAOS)|
 |Health care -- Unread messages| This section shows if someone has unread messages, and links to the secure messaging tool.| N/A - Unread messages are currently in My Healthevet| MHV| Go through [#mhv-secure-messaging](https://dsva.slack.com/channels/mhv-secure-messaging)|
 |Outstanding debts| This section shows someone's most recent debts and copays. | [Manage your VA debt](https://staging.va.gov/manage-va-debt/summary/)|DMDC for debts; Not sure for copays | Go through [#benefits-debt-resolution](https://dsva.slack.com/channels/benefits-debt-resolution)|
 |Benefit payments |This section shows someone's most recent payment. |[View payment history](https://staging.va.gov/va-payment-history/payments/)| BGS | There is no VA.gov team managing this currently. Triage issues through Matt Self, OR contact BGS through an old email thread or by contacting Linda Ciston (linda.ciston@va.gov)|
@@ -134,9 +134,10 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Status|
 |----|----|---|
-| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | In development | 
-|[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | In development |
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
+|[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement.md) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
+|[Forms status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/benefit-application-drafts-forms-submission-status#project-outline-benefit-application-drafts--forms-submission-status-wip) (in partnership with Veteran Facing Forms) |[#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
+|Notifications: badge indicator| [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)| In development |
 
 ### Completed projects & enhancements
 
@@ -146,6 +147,8 @@ _Why would your business want this to exist?_
 
 |Project|Epic|Launch/Completion date|
 |----|----|----|
+| [Link to MHV landing page from My VA + Cerner simplification](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#linking-to-mhv-from-my-va--simplifying-the-cerner-experience) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | On hold | 
+|[White card component implementation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component) | [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | November 2023 |
 |[Remove "notifications" section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp#project-outline-on-site-notifications-mvp)|[#30611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30611) | October 3, 2023|
 |[LOA1 updates to My VA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/LOA1-experience-updates)| [#63424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63424)|October 3, 2023|
 |[Updates to appointments links + Cerner alert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-support-of-MHV-on-va.gov-migration#updates-to-appointment-links-and-cerner-alert) | [#62258](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62258) | September 2023 |
@@ -173,15 +176,16 @@ _Why would your business want this to exist?_
 ## Design
 
 - [My VA use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases)
-- [My VA Sketch files](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
-- My VA flows
-  - [Claims and appeals](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4444BC2A-797F-4000-A125-31B83F7E817F/canvas)
-  - [Health care](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)
-  - [Outstanding debts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/DPmvLk4)
-  - [Benefit payments](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/YGgwY0O)
-  - [Education and training](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4D97AF62-70A3-4455-9ED2-96051880E836/canvas)
-  - [Benefit application drafts](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/E3464BF1-33D0-4FE6-8B5A-35CD5B7AC594/canvas)
+- [My VA Figma files](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=9-15723&mode=design)
+- [My VA flows (starting with LOA1 user)](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7050&mode=design)
+  - [Claims and appeals]
+  - [Health care]
+  - [Outstanding debts]
+  - [Benefit payments]
+  - [Education and training]
+  - [Benefit application drafts]
 
+    
 ### Screenshots
 
 <details><summary>Version 1.0</summary> 

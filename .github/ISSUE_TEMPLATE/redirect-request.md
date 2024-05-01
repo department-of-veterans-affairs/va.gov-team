@@ -4,7 +4,7 @@ about: Submit a request to change a URL and/or implement a redirect for a URL. A
   for vanity URL requests.
 title: Redirect Request
 labels: sitewide CAIA, Sitewide IA, Public Websites, VA.gov frontend, Redirect request
-assignees: jennymayoco, kristinoletmuskat, strelichl, FranECross
+assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 
 ---
 
@@ -13,14 +13,21 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, FranECross
 - This issue will be used from initial request through implementation to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
 - It is your responsibility to notify VA stakeholders as appropriate.  
 
+| POC | Github alias(es) |
+--- | --- 
+| Product team point(s) of contact: | @ |
+| Content point of contact: | `CAIA will enter` |
+| IA point of contact: | `IA will enter` |
+
 
 ### Type of request
 - [ ] We are retiring or taking down a page and need to redirect the URL (complete redirect section)
 - [ ] We are changing the URL of an existing page (complete redirect section)
 - [ ] We need a custom vanity URL (complete vanity URL section)
+- [ ] We are removing a temporary redirect  (add relevant background and link to original redirect request)
 
 ### Implementation date
-When does this request need to be live?
+When does this request need to be live? **NOTE:** Redirects deploy M-Th. Friday launches should be avoided.
 Choose one:
 - [ ] On a specific date, connected to a program or publishing requirement. **DATE:**
 - [ ] Any day prior to a deadline/latest possible date. **DEADLINE:** 

@@ -46,11 +46,35 @@ They can legally represent a Veteran, service member, dependent, or survivor bef
 
 Accredited representatives include Veteran Service Officers, attorneys, and claims agents.
 
-### 3. [Veteran Service Organization (VSO)](https://www.benefits.va.gov/vso/)
+### 3. [Veteran Service Organization / Veteran Service Officers (VSO)](https://www.benefits.va.gov/vso/)
 
-Can help Veterans gather evidence and file their claims, decision reviews, and appeals. They can also communicate with VA about the case on the Veterans behalf.
+Veteran Service Officers work for Veteran Service Organizations and share the acryonym of VSO.
+
+#### [Veteran Service Organizations](https://crsreports.congress.gov/product/pdf/R/R46412#:~:text=A%20VSO%20is%20%E2%80%9Ccongressionally%20chartered,Association%20of%20America%20in%202009.)
+
+Veterans Service Organizations (VSOs) are organizations that aid and serve Veterans, servicemembers, dependents, and survivors.
+
+VSOs may fall into one or more of the following categories:
+
+- congressionally chartered organizations;
+- organizations recognized by VA;
+- national organizations;
+- state, county, or tribal governmental organizations;
+- regional or local organizations; or
+- nonprofit organizations.
+
+VSOs serve Veterans, and their activities may encompass a range of services, such as
+- providing programming for Veterans in their communities, such as job fairs;
+- organizing events to raise money for a subset of Veterans, such as housing for homeless Veterans; or
+- providing access to accredited Veterans service representatives who can help Veterans when they apply for VA benefits.
 
 Examples of VSOs include the American Legion, County Veteran Service Offices, Disabled American Veterans, and Veterans of Foreign Wars.
+
+[Veteran Service Organization information from Congressional Research Service, 11/1/2022, VSO Frequently Asked Questions.](https://crsreports.congress.gov/product/pdf/R/R46412#:~:text=A%20VSO%20is%20%E2%80%9Ccongressionally%20chartered,Association%20of%20America%20in%202009.)
+
+#### Veteran Service Officers
+
+Can help Veterans gather evidence and file their claims, decision reviews, and appeals. They can also communicate with VA about the case on the Veterans behalf.
 
 VSO representatives have completed training and passed tests about VA claims and benefits. They provide services to Veterans and their families at no cost.
 
@@ -77,7 +101,18 @@ Veteran submissions for VA support. Includes several benefits including:
 - Life Insurance
 - Pension
 
-### 2. [Decision Reviews](https://www.va.gov/resources/decision-reviews-faqs)
+### 2. [Fully Developed Claims program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/)
+
+Guidelines on how to submit a Fully Developed Claim are provided on VA.gov, which provides Veterans guideance on how to receive a faster decision on their benefits.
+
+To submit a Fully Developed Claim Veterans must complete the following:
+
+- Submit their completed Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ), and
+- Submit all the evidence (supporting documents) they have along with their claim, and
+- Certify that there’s no more evidence VA might need to decide their claim, and
+- Go to any VA medical exams that VA schedules, if VA decides these exams are needed to make a decision on their claim.
+
+### 3. [Decision Reviews](https://www.va.gov/resources/decision-reviews-faqs)
 
 For most VA benefits Veterans have 1 year from the date of their decision letter to request a decision review. The decision letter will provide a deadline. There are 3 decision review options available:
 
@@ -85,15 +120,15 @@ For most VA benefits Veterans have 1 year from the date of their decision letter
 2. Higher-Level Review
 3. Board Appeal
 
-### 3. [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim/#how-do-i-file-a-supplemental-c)
+### 4. [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim/#how-do-i-file-a-supplemental-c)
 
 If a Veteran has new and relevant evidence it is recommended they file a supplemental claim (VA Form 20-0995). Examples of evidence include a new medical report or Statement of Support of Claim from a peer.
 
-### 4. [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/#how-do-i-request-a-higher-leve)
+### 5. [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/#how-do-i-request-a-higher-leve)
 
 If a Veteran believes there’s an error in their case, and don’t have new evidence it is recommended they file a higher-level review (VA Form 20-0996).
 
-### 5. [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/)
+### 6. [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/)
 
 If a Veteran wants a Veterans Law Judge to review their case. The Veteran can request:
 1. A direct review, if they don’t want to submit evidence or have a hearing
@@ -102,6 +137,6 @@ If a Veteran wants a Veterans Law Judge to review their case. The Veteran can re
 
 To request a board appeal Veterans submit a Notice of Disagreement (VA Form VA10182).
 
-### 6. [Legacy VA Appeals Process](https://www.va.gov/decision-reviews/legacy-appeals/)
+### 7. [Legacy VA Appeals Process](https://www.va.gov/decision-reviews/legacy-appeals/)
 
 Replaced by Decision reviews in February 2019. Still in effect for decisions dated before February 19, 2019.

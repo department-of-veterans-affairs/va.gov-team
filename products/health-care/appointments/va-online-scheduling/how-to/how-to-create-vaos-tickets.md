@@ -39,29 +39,30 @@ Beyond the 508 and VSP audits, our team may identify accessibility issues or rec
 
 ### UX Ticket
 
-1. Click `Create new GitHub Issue`
-2. Click the `Template` dropdown
-3. Select `VAOS UX Ticket/Task Template`. Confirm that you want to change the template.
+1. Click `Create new GitHub Issue`.
+2. Click the `Template` dropdown.
+3. Select `VAOS UX Task Template`. Confirm that you want to change the template.
 4. Change Pipeline:
-   - UX - Icebox: work that was started then put on indefinite hold (not for new tickets)
-   - UX - Backlog: new, unprioritiezed work
-   - UX - In Progress: work in progress
-   - UX - In Review / Blocked: work in collab cycle, stakeholder, or product review, or waiting for other tickets before it can be done
-   - UX - In Dev: Work actively being developed that may change during the process
-   - UX - Needs Validation
+   - Backlog: work that's not ready to start, or prioritized.
+   - Ready: work that's ready for a team member to start.
+   - In Progress: work in progress.
+   - In Review: work in collab cycle, stakeholder, or product review, or waiting for other tickets before it can be done.
+   - UX - In Dev: Work actively being developed that may change during the process.
 5. Add Labels:
-   - ux - all tickets (added by default)
-   - discovery - if ticket supports research
-   - design - if ticket does not include research
-   - documentation - if ticket involves updating documentation
-6. Assign someone
-7. Add to an Epic. Ask Product to identify the appropriate epic
-8. Add a Title
-9. Add a Description
-    - Task Description: A short explanation of the task
-    - Notes and references: Link any documents that provide context
-    - Acceptance criteria: Create a list of tasks to complete for this to be considered done
-    - Deliverables: Link any design files, research studies, or anything else that points to this work being done.
-10. Click `Submit new issue`
+   - `appointments-fe-ux` - adds ticket to our Zenhub board. (added automatically if you're using the template)
+   - `discovery` - if ticket supports research.
+   - `design` - if ticket does not include research.
+   - `documentation` - if ticket involves updating documentation.
+   - `strategy` - if ticket is about improving processes or strategies.
+6. Assign someone (optional).
+7. Add to an Epic. Ask Product to help identify the appropriate epic.
+8. Add a Title.
+9. Add a Task Description - a short explanation of the task to be completed.
+10. (Optional) Complete other sections as needed.
+  - Notes and references: Link any documents that provide context.
+  - Acceptance criteria: Create a list of tasks to complete for this to be considered done.
+  - Deliverables: Link any design files, research studies, or anything else that points to this work being done.
+11. Review and delete the "Config" section at the bottom.
+12. Click `Submit new issue`.
 
 

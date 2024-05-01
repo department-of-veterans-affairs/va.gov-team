@@ -3,7 +3,7 @@
 ---
 
 - [VA Mural flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687376928311/303a0fbb8ffe1353eedf695ac86a6e069cd2003f?sender=uadf1ed7fe7c76f0914967329)
-- [Sketch wireflows](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/DPjA4ba)
+- [Figma wireflow - PENDING UPDATE](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=0-6&mode=design&t=DlVyBuMijvoU6rw6-0)
 
 --- 
 
@@ -66,16 +66,17 @@ Pages listed below
 [p] Here’s what you’ll need to apply:
 
 [ul]
-- **Social Security numbers** for you, your spouse, and your qualified dependents
-- **Your military discharge information.** If you sign in to apply, we may be able to fill in this information for you. If you don’t sign in to apply, we’ll ask you to upload a copy of your DD214 or other separation documents.**
-- **Insurance cards** for all health insurance companies that cover you. This includes any coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer. 
+- **Social security numbers** for you, your spouse (if you're married), and any dependents you may have.
+- **Insurance card information** for all health insurance companies that cover you. This includes coverage that you get through a spouse or significant other. This also includes Medicare, private insurance, or insurance from your employer.
 [end ul]
 
-[p] We’ll also ask you for this optional information:
+[p] You can also provide this information:
 
 [ul]
-- **Last year's gross household income** for you, your spouse, and your dependents. This includes income from a job and any other sources. Gross household income is your income before taxes and any other deductions.
-- **Your deductible expenses for the past year.** These include certain health care and education costs. These expenses will lower the amount of money we count as your income.
+- **Your military service history information** and details about exposure to toxins or hazards. 
+- **A copy of your DD214 or other separation documents.** If you sign in to apply, may be able to fill in your military service history information for you. If you don’t sign in to apply, you can upload a copy of your DD214 or other separation documents. 
+- **Income information** for you, your spouse, or any dependents you may have. This includes income from a job and any other sources.
+- **Deductible expenses** (expenses that you can subtract from your income) for you and your spouse. These expenses will lower the amount of money we count as income.
 [end ul]
 
 
@@ -106,7 +107,7 @@ Pages listed below
 
 
 [h3 class h4] 3. Start your application
-[p] We’ll take you through each step of the process. It should take about 30 minutes.
+[p] We’ll take you through each step of the process. It should take about 35 minutes.
 
 [component additional info]
 [title] What happens after I apply? 
@@ -131,7 +132,7 @@ Pages listed below
 [END component alert info]
 
 [component OMB info]
-How much time we think you'll need to apply (called respondent burden): **30 minutes**
+How much time we think you'll need to apply (called respondent burden): **35 minutes**
 OMB Control #: 2900-0091
 Expiration date: 06/30/2024
 [END component OMB info]
@@ -188,6 +189,7 @@ Expiration date: 06/30/2024
 ## Introduction Page Content Variations - ES Status
 ---
 
+[Need to update per 3/5/2024 changes]
 ### Status Codes to FAQ Blocks
 
 | Status                                                              | FAQ Block IDs                           |
@@ -625,16 +627,236 @@ Expiration date: 06/30/2024
 - Served in combat theater of operations after November 11, 1998
 - Discharged or retired from the military for a disability incurred in the line of duty
 - Served in Southwest Asia during the Gulf War between August 2, 1990, and Nov 11, 1998
-- Served in Vietnam between January 9, 1962, and May 7, 1975
-- Exposed to radiation while in the military
-- Received nose/throat radium treatments while in the military
-- Served on active duty at least 30 days at Camp Lejeune from January 1, 1953, through December 31, 1987
-
 
 [button pair] [<< Back] [Continue >>]
 
 
+### Page: Toxic Exposure Opt in/out
 
+#### URL: health-care/apply/application/military-service/toxic-exposure
+
+[title h3] Toxic exposure
+
+Next we’ll ask you more questions about your military service history.
+
+It’s your choice whether you want to answer these questions. Before you decide, here’s what you should know about how we’ll use this information.
+
+This will help us determine if you may have had exposure to any toxins or other hazards in either of these ways:
+
+- While deployed to certain areas linked to exposures like Agent Orange, burn pits, radiation, or contaminated water
+- By working with chemicals, pesticides, lead, asbestos, certain paints, nuclear weapons, x-rays, or other toxins during training or active duty service
+  
+We’ll also determine if you’re more likely to get VA health care benefits. We call this "enhanced eligibility status."
+
+[additional info component] 
+[title] Learn more about enhanced eligibility status for VA health care
+[content] 
+You may qualify for enhanced eligibility status if you receive any of these benefits:
+
+- VA pension
+- VA service-connected disability compensation
+- Medicaid benefits
+
+You may also qualify for enhanced eligibility status if you fit one of these descriptions:
+
+- You’re a former Prisoner of War (POW).
+- You received a Purple Heart.
+- You received a Medal of Honor.
+- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998.
+- You were exposed to toxins or hazards by working with chemicals, pesticides, lead, asbestos, certain paints, nuclear weapons, x-rays, or other toxins. This exposure could have happened while training or serving on active duty, even if you were never deployed.
+- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987.
+- You served in a location where you had exposure to Agent Orange during the Vietnam War era.
+
+[label] Do you want to answer questions about your military service history and exposure to any toxins or other hazards?(*Required)
+
+[radio buttons]
+- Yes
+- No
+
+
+### Page: Toxic Exposure Radiation
+
+#### URL: health-care/apply/application/military-service/radiation-cleanup-efforts
+
+[title h3] Cleanup or response efforts
+
+[label] Did you take part in any of these cleanup or response efforts?
+- The cleanup of Hiroshima and Nagasaki or Enewetak Atoll
+- The cleanup of an Air Force B-52 bomber carrying nuclear weapons off the coast of Palomares, Spain
+- The response to the fire onboard an Air Force B-52 bomber carrying nuclear weapons near Thule Air Force Base in Greenland
+
+
+[radio buttons]
+- Yes
+- No
+
+
+### Page: Toxic Exposure Gulf War Service
+
+#### URL: health-care/apply/application/military-service/gulf-war-service
+
+[title h3] Service in Gulf War locations
+
+[label] Did you serve in any of these Gulf War locations?
+- Afghanistan
+- Arabian Sea
+- Bahrain
+- Djibouti
+- Egypt
+- Gulf of Aden
+- Gulf of Oman
+- Iraq
+- Israel
+- Jordan
+- Kuwait
+- Lebanon
+- Neutral zone between Iraq and Saudi Arabia
+- Oman
+- Persian Gulf
+- Qatar
+- Red Sea
+- Saudi Arabia
+- Somalia
+- Syria
+- Turkey
+- United Arab Emirates
+- Uzbekistan
+- Yemen
+
+[radio buttons]
+- Yes
+- No
+
+
+### Page: Toxic Exposure Gulf War Service Dates
+
+#### URL: health-care/apply/application/military-service/gulf-war-service-dates
+ 
+[title h3] Service dates for Gulf War locations
+[p] Enter any date range you served in a Gulf War location. You don’t need to have exact dates.
+
+[label] Service start date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
+
+[label] Service end date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
+
+[additional info component]
+[title] What if I have more than one date range?
+[content] 
+You only need to enter one date range. We’ll use this information to find your record.
+
+
+### Page: Toxic Exposure Operations
+
+#### URL: health-care/apply/application/military-service/operation-support
+
+
+[title h3] Operations
+[label] Were you deployed in support of any of these operations?
+- Enduring Freedom
+- Freedom’s Sentinel
+- Iraqi Freedom
+- New Dawn
+- Inherent Resolve
+- Resolute Support Mission
+
+[radio buttons]
+- Yes
+- No
+
+
+### Page: Toxic Exposure Agent Orange
+
+#### URL: health-care/apply/application/military-service/agent-orange-exposure
+
+[title h3] Agent Orange locations
+
+[label] Did you serve in any of these locations where the military used the herbicide Agent Orange?
+- Cambodia at Mimot or Krek, Kampong Cham Province
+- Guam, American Samoa, or their territorial waters
+- In or near the Korean demilitarized zone
+- Johnston Atoll or on a ship that called at Johnston Atoll
+- Laos
+- Any location where you had contact with C-123 airplanes while serving in the Air Force or the Air Force Reserves
+- A U.S. or Royal Thai military base in Thailand
+- Vietnam or the waters in or off of Vietnam
+
+[radio buttons]
+- Yes
+- No
+
+
+
+### Page: Toxic Exposure Other
+
+#### URL: health-care/apply/application/military-service/other-toxic-exposure
+
+[title] Other toxic exposures
+
+[label] Have you been exposed to any of these toxins or hazards? Check any that you’ve been exposed to.
+
+[checkboxes]
+- Air pollutants (like burn pits, sand, oil wells, or sulfur fires)
+- Asbestos
+- Chemicals (like pesticides, herbicides, or contaminated water)
+- Contaminated Water at Camp Lejeune
+- Mustard gas
+- Occupational hazards (jet fuel, industrial solvents, lead, firefighting foams)
+- Radiation
+- SHAD (Shipboard Hazard and Defense)
+- Warfare agents (like nerve agents or chemical and biological weapons)
+- Other toxins or hazards not listed here
+
+
+### Page: Toxic Exposure Other Specify [Conditional Page, if Other selected]
+
+#### URL: health-care/apply/application/military-service/other-toxins-or-hazards
+
+[title h3] Other toxic exposure
+
+[p]You selected that you were exposed to other toxins or hazards.
+
+[link]Learn more about exposures on our Public Health website (opens in new tab)
+[url] https://www.publichealth.va.gov/exposures/index.asp
+
+
+[label] Enter any toxins or hazards you’ve been exposed to
+
+
+
+
+### Page: Toxic Exposure Other Dates [Conditional Page, if any selected]
+
+#### URL: health-care/apply/application/military-service/other-toxic-exposure-dates
+
+
+
+[title h3] Dates of exposure
+[p] Enter any date range when you were exposed to other toxins or hazards. You don’t need to have exact dates.
+
+
+[label] Exposure start date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
+
+[label] Exposure end date
+[hint text] If you don’t know the exact date, enter your best guess
+[input select] Month [input text] Year
+
+[additional info component]
+[title] What if I have more than one date range?
+[content] 
+You only need to enter one date range. We’ll use this information to find your record.
+
+
+
+
+
+
+  
 ---
 ## Step 4 Household information 
 
@@ -685,11 +907,14 @@ Expiration date: 06/30/2024
 
 [p] **You may also qualify for enhanced eligibility status if you fit one of these descriptions:**
 [ul]
-- You’re a former Prisoner of War (POW)  
-- You received a Purple Heart 
-- You received a Medal of Honor  
-- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998 
-- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987. 
+- You’re a former Prisoner of War (POW).
+- You received a Purple Heart.
+- You received a Medal of Honor.
+- You served in Southwest Asia during the Gulf War between August 2, 1990, and November 11, 1998.
+- You were exposed to toxins or hazards by working with chemicals, pesticides, lead, asbestos, certain paints, nuclear weapons, x-rays, or other toxins. This exposure could have happened while training or serving on active duty, even if you were never deployed.
+- You served at least 30 days at Camp Lejeune between August 1, 1953, and December 31, 1987.
+- You served in a location where you had exposure to Agent Orange during the Vietnam War era.
+
 
 [END ul]
 [End Additional Info Component]

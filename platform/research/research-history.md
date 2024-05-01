@@ -74,7 +74,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### July 27-30: Find a Form PDF Downloading Usability Research
 *Decision Tools, Lead Researcher: Cindy Merrill*
 - Number of participants: 11 (10 Veterans, 1 family member of a Veteran; 4 screen reader users)
-- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/post-mvp-releases/research)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research)
 - List of keywords: alert boxes, hint text, instructions, forms, download, digital signature, accessibility, search results, headings
 
 #### July 21-23:  Comparison Tool Redesign - Profile Page
@@ -86,7 +86,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### June 15 - July 12: Facility Locator - VAMC VHA Mobile Redesign - Stakeholder interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 16 VA employees (Public Affairs Officers, Emergency Managers, Clinic Managers, Physicians, Nurse Managers)
-- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/discovery)
+- [Link to research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2021-vamc-vha-mobile-redesign/discovery)
 - List of keywords: Mobile clinics, Mobile Medical Units, Critical deployable resources, MMU, MUV, CDR, rural health, telehealth, telemedicine, PAOs, VAMC location pages, emergency response
 
 #### July 1 - July 1: VA Health Care Copayment Tool MVP Usability Study - Mobile
@@ -224,7 +224,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### March 18 - April 9 2021 : Vet Center Services Unmoderated Taxonomy Study
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 41
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy/taxonomy-study)
 - List of keywords: Vet Centers, mental health care, PTSD, health services, counseling, transition care, keywords
 
 ### February 2021
@@ -247,7 +247,7 @@ Note: this document does not include research history for Appeals projects, whic
 *VSA Facilities, Lead Researchers: Christian Valla + Laurel Lawrence(Ad Hoc)*
 
 - Number of participants: TBD
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/initiatives/mobile-experience)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research)
 - Mobile, facility, locations
 
 #### Feb 9 - 12:  Comparison Tool Redesign Research
@@ -269,7 +269,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### Januray 29 - Feb 4, 2021 : Vet Center Product - Usability V2
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 11 (10 Veterans, 4 Vet Center clients, 1 Army reservist)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/client-usability-tests)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 #### Jan 21 - Feb 05: VAOS Appointments List Usability Study
@@ -318,7 +318,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### December 9-16 : Vet Center Product - Usability V1
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - Number of participants: 9 (All Veterans, 2 Vet Center clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-usability-tests)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-usability-tests)
 - List of keywords: Vet Centers, mental health care, facility detail page, locations
 
 
@@ -359,7 +359,7 @@ Note: this document does not include research history for Appeals projects, whic
 
 -7 participants (6 CCRMs / 1 CCRM Supervisor)
 
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/community-care)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2020-community-care)
 
 #### November 3 - 6:  Comparison Tool Redesign Research / School Ratings
 *Booz Allen: Amy Knox, Jen Jones, Emma Waters*
@@ -397,7 +397,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### September 30 - October 16 : Vet Center - Veteran Client - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 15 participants (8 clients)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/veteran-interviews)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews)
 
 ### August 2020
 
@@ -418,7 +418,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
 *VSA Facilities, Lead Researcher: Leyda Hughes (Ad Hoc)*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/outreach-specialist-interviews)
 
 #### August 19-20: VA.gov mobile study (mobile month)
 *VSA: Shawna Hein and Liz Lantz*
@@ -632,7 +632,7 @@ Note: this document does not include research history for Appeals projects, whic
 #### January 30 - February 3: Yellow Ribbon - Find Participating Schools MVP
 *Public Websites, Liz Lantz*
 - 12 participants (12 scheduled, 2 no show)
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/yellow-ribbon-mvp/research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-yellow-ribbon-school/yellow-ribbon-mvp/research)
 
 **Keywords:** Yellow Ribbon program, benefits comprehension, user search behaviors, search results, education benefits, understanding of benefits, awareness of benefits, tabular data, tables, cards, comparison lists.
 
@@ -791,7 +791,7 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 _VA.gov CMS team: Eric Chiu_
 
 * 7 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20operating%20status%20discovery%20-%20August%202019/operating%20status%20-%20veteran%20experience)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20operating%20status%20discovery%20-%20August%202019/operating%20status%20-%20veteran%20experience)
 
 
 #### August 22 - 23, 2019: Facility - operating status - author experience
@@ -799,7 +799,7 @@ _VA.gov CMS team: Eric Chiu_
 _VA.gov CMS team: Lapedra Tolson_
 
 * 2 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20operating%20status%20discovery%20-%20August%202019/operating%20status%20-%20author%20experience)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20operating%20status%20discovery%20-%20August%202019/operating%20status%20-%20author%20experience)
 
 #### August 21 - 28: Higher-Level Review Usability Testing **
 *DSVA: Carola Ponce*
@@ -819,7 +819,7 @@ _VA.gov CMS team: Lapedra Tolson_
 
 #### August 5 - 16: Personalization 2.0 Separating Service Member Interviews **
 - 5 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Service%20Member%20Interviews)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research/service-member-interviews)
 
 #### August 5 - 12: VSP Onboarding - Round 2 (VSA) **
 *VSP Platform Support: Layla Soileau*
@@ -872,7 +872,7 @@ _VA.gov CMS team: Lapedra Tolson_
 _VA.gov CMS team: Eric Chiu, Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
 
 * 22 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
 
 #### June 25 - 27, 2019: AX usability testing in Pittsburgh
 
@@ -947,7 +947,7 @@ _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, R
 _VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
 
 * 17 participants via intercept testing, 255 participants for tree testing
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20health%20services%20IA%20-%20May%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20health%20services%20IA%20-%20May%202019)
 
 #### April 16-19: Dignified Burials Discovery
 *Team Special Forces, Research Lead: Zach Goldfine*
@@ -1044,7 +1044,7 @@ _VA.gov CMS team: Jodi Leo_
 _VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
 
 * 10 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20remote%20-%20February%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20remote%20-%20February%202019)
 
 #### February 1-25: 526 Modernization Add a New Condition
 *Unicorns, Research Lead: Katelyn Caillouet & Alex Taylor*
@@ -1067,7 +1067,7 @@ _VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
 _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 
 * 211 participants for tree testing the navigation (8-11 February), 348 participants for the close card sort for services listing (26 February - 1 March)
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20facility%20IA%20-%20February%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20facility%20IA%20-%20February%202019)
 
 #### February 5-8: BAH VetTec Discovery
 *BAH Platform Team, Research Leads: Amy Knox & Theresa McMurdo*
@@ -1111,7 +1111,7 @@ _VA.gov CMS team: Megan Casey, Kevin Walsh_
 _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 
 * 20 participants
-* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20discovery%20-%20January%202019)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/initiatives/2019-pittsburgh-pilot/research/Facility%20research%20-%20discovery%20-%20January%202019)
 
 ### November 2018
 
@@ -1383,7 +1383,7 @@ Majority synthesis done post-its
 #### Week of November 6, 2017: Discharge Upgrade Wizard
 *Kudos Team, research lead: Natalie Moore*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-upgrade-wizard)
 
 ### October 2017
 
@@ -1532,7 +1532,7 @@ Majority synthesis done post-its
 #### March 7-8 - Facility Locator Usability Research
 *Research Leads: Em Tav & Natalie Moore*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/archive)
 
 #### March 2-10 - Site Baseline
 *Research Leads: Mary Ann Brody, Mikki Northuis, Laura Elena*
@@ -1615,7 +1615,7 @@ Majority synthesis done post-its
 - 4 Veterans
 - Branding/ navigation
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Navigation%2C%20IA%2C%20Facility%20Locator_09.29.2016.md)
-- [Summary Findings 1](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Nav-FacilityFinder-SummaryFindings.md) and [Summary Findings 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive)
+- [Summary Findings 1](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Nav-FacilityFinder-SummaryFindings.md) and [Summary Findings 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/archive)
 
 #### September 21-27 - Education 1990 Usability Test
 *Research Lead: Alex Taylor?*

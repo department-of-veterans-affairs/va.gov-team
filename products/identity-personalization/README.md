@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: November 29, 2023 -- updating team members**
+**Last updated: April 8, 2024 -- updating team members**
 
 ## Where to find us 
 
@@ -13,7 +13,7 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
+|Chante Lantos-Swett |OCTO Lead| chante.lantosswett@va.gov |
 |Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
 |Alex Parker| Delivery manager | alexandria.parker@agile6.com |

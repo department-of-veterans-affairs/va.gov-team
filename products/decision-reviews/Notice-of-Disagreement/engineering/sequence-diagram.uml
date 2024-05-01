@@ -1,0 +1,78 @@
+title Request a Board Appeal (Notice of Disagreement) Form
+
+// Veteran starts the form
+note over vets-website,vets-api:Veteran with LOA3 access and an SSN logs in to VA.gov and starts NOD form.
+vets-website->vets-api: Check whether in-progress form exists\n<align:center>GET /v0/in_progress_forms/10182</align>
+vets-website<--vets-api:In-progress form data or prefill data
+vets-website->vets-api:<align:center>Fetch Veteran's contestable issues\nGET /v0/notice_of_disagreements/contestable_issues</align>
+vets-api->Lighthouse:GET /v0/notice_of_disagreements/contestable_issues
+
+vets-api<--Lighthouse:[Array of contestable issues]
+vets-website<--vets-api:[Array of contestable issues, to be rendered later]
+
+vets-website->vets-api:<align:center>Contact information\nPUT /v0/in_progress_forms/10182</align>
+note over vets-api:For this, and subsequent PUTs to this endpoint,\n in-progress form data is saved to DB.
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>Whether Veteran is requesting an extension\nPUT /v0/in_progress_forms/10182</align>
+vets-website<--vets-api: Response
+
+alt If Veteran requesting an extension
+  vets-website->vets-api:<align:center>Veteran's reason for extension\nPUT /v0/in_progress_forms/10182</align>
+  vets-website<--vets-api: Response  
+end
+
+vets-website->vets-api:<align:center>Whether Veteran is appealing a VHA denial\nPUT /v0/in_progress_forms/10182</align>
+vets-website<--vets-api: Response
+
+vets-website->vets-api:<align:center>The contestable issues Veteran wants to contest\nPUT /v0/in_progress_forms/10182</align>
+vets-website<--vets-api: Response
+
+alt If Veteran doesn't see the issue they want to contest
+  vets-website->vets-api:<align:center>Veteran-added issue to contest\nPUT /v0/in_progress_forms/10182</align>
+  vets-website<--vets-api: Response
+end
+
+loop For each contested issue
+  vets-website->vets-api:<align:center>Disagreement details\nPUT /v0/in_progress_forms/10182</align>
+  vets-website<--vets-api: Response
+end
+
+vets-website->vets-api:<align:center>Board review option\nPUT /v0/in_progress_forms/10182</align>
+vets-website<--vets-api: Response
+
+alt If Veteran wants to submit additional evidence now
+  loop For each piece of evidence
+    vets-website->vets-api:<align:center>Veteran-uploaded PDF\nPOST /v0/decision_review_evidence</align>
+    vets-api->S3:Upload PDF
+    note over vets-api:<align:center>Reference to S3 document stored as \ndecision_review_evidence_attachment</align>
+
+    vets-website<--vets-api: Response
+  end
+end
+
+vets-website->vets-api:<align:center>Submit NOD form data\nPOST /v1/notice_of_disagreements</align>
+note over vets-api:<align:center>Record of NOD submission stored in DB \nas appeal_submission.</align>
+vets-api->Lighthouse:<align:center>NOD form data\nPOST /services/appeals/v2/decision_reviews/notice_of_disagreement</align>
+note over Lighthouse:<align:center>Lighthouse enqueues job to create NOD form PDF and\nupload it to Central Mail (who then upload it to VBMS).</align>
+vets-api<--Lighthouse:Lighthouse uuid
+note over vets-api:<align:center>Store Lighthouse uuid on appeal_submission \nas `submitted_appeal_uuid`</align>
+note over vets-api:<align:center>Get list of S3 uuids for Veteran's evidence uploads \nfrom the in-progress form's metadata.</align>
+note over vets-api:Upon success, destroy in-progress form.
+
+
+loop For each evidence upload's S3 uuid
+  note over vets-api:Fetch associated decision_review_evidence_attachment record from DB
+  note over vets-api:Store record of impending evidence submission to Lighthouse as appeal_submission_upload.
+  vets-api->Sidekiq Job:Enqueue evidence submission Sidekiq job with appeal_submission_upload ID.
+  Sidekiq Job->S3:Fetch PDF using S3 uuid
+  S3-->Sidekiq Job:PDF
+  
+  Sidekiq Job->Lighthouse:<align:center>POST /services/appeals/v2/decision_reviews/notice_of_disagreements/evidence_submissions\n[submitted_appeal_uuid]</align>
+  Lighthouse-->Sidekiq Job:Unique Upload URL
+  Sidekiq Job->Lighthouse:<align:center>PDF\nPUT [Unique Upload URL]</align>
+  Lighthouse-->Sidekiq Job:Lighthouse uuid
+  note over Sidekiq Job:<align:center>Store Lighthouse uuid on appeal_submission_upload\n as `lighthouse_upload_id`.</align>
+  note over Lighthouse:Lighthouse then sends PDF to EMMS who sends it to VBMS.
+end
+

@@ -14,7 +14,7 @@ Please schedule a short chat with each of these folks, either individually or in
 More details about the team and our business partners can be found in the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md#team). 
 
 ## Initial access request info
-Following the [instructions listed on the Platform](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools) is imperitive to getting access to the applications and systems you will need in a timely manner.  Please make these requests in the order listed on the Platform website, and note that the Slack request and GitHub write access should be requested by your _Program_ Manager. 
+Following the [instructions listed on the Platform](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools) is imperitive to getting access to the applications and systems you will need in a timely manner.  Please make these requests in the order listed on the Platform website, and note that the Slack request and GitHub access should be requested by your _Delivery_ Manager. 
 
 ## Learn more about our team
 - [ ] Our [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/cto-health-team/team-charter.md) provides information on our mission, vision, who we are, and how we work.

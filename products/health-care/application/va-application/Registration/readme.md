@@ -1,4 +1,4 @@
-# Initiative Brief - 10-10EZ Registration Path
+# 10-10EZ Registration Path - Initiative Brief
 
 ## Outcome Summary
 Provide a pathway for Active Duty Service Members and Veterans who want to register for VA health care, but do not want to or are unable/ineligible to enroll.
@@ -7,32 +7,35 @@ Provide a pathway for Active Duty Service Members and Veterans who want to regis
 - [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 - [Epic - Registration Path #43221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
 - [Mural - Discovery board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684348883203/49fc4ff1bf31f3cabe200663708c1002645b447f?sender=u5ad49c107baa41137f271007)
+- [Figma Designs](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=86-36817&mode=design&t=CC8P8lyEeGsdJei8-0)
 - [VHA Directive (amended January 10, 2023)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Registration/Registration%20and%20Enrollment%20directive%20-%201601A_01(1)_D_2020-07-07.pdf)
      - Definitions:
           - **Registration**: Adding a Veteran or Patient into ES or the VA's electronic health record for the purpose of receiving services at a VA medical facility.  Registration in ES must be completed prior to enrollment.
           - **Veteran**: A person who Served in the active military, naval, or air service and was discharged or released from service under conditions other than dishonorable.
 - Stakeholder request:
-     - >**Desired Functionality:** The online form will be a short form to collect the Veterans information Name, SSN, DOB, Address, Phone Number, Military Service Dates and Reason for Registration Only. This information will feed into VES and place the Veteran in a Registration Only status if they do not wish to enroll. If the Veteran is already known to the system we will capture and update existing information if it is different.
+     - >Desired Functionality:** The online form will be a short form to collect the Veterans information Name, SSN, DOB, Address, Phone Number, Military Service Dates and Reason for Registration Only. This information will feed into VES and place the Veteran in a Registration Only status if they do not wish to enroll. If the Veteran is already known to the system we will capture and update existing information if it is different.
        >
      - >Capture and retain a 1010EZ Registration application when received online.
        >
      - >Create service to receive online form data from VA.gov for Veterans who do not wish to enroll and provide that data to VistA/Millennium. In alignment with PACT Act, COMPACT, SERVICE Act and 38 CFR 17.37 this enables Veterans to request an appointment and register for those not wishing to enroll.
 
-### Iteration (not finalized)
-- Allow Active Duty Service Members with a discharge date within 365 days of the current date to "register" for care
-     - The current 10-10EZ online form allows applicants to enter a future discharge date within 365 days of current date.
-     - We do not inform the applicant that this is not an enrollment path, but a registration only.
-     - Need to understand how best to communicate this and what processes happen once the discharge date has been reached
-- Allow Veterans, who want to seek care for their service-connected disability/injury only, to "register" for care
-     - If the Veteran has a 40% or lower disability rating, they may want to receive care for their service connected disability only.
-     - The Veteran may have other means to obtain private health care outside of their service-connection
+### MVP scope - to implement prior to Enrollment system development
+- For Veterans with 40% or lower disability rating, we will prompt them within the application asking whether they want to seek care for their service-connected disability/injury only or enroll in VA health care for full benefits.  If they choose service-connected care only, we will display an on-screen message directing them to call, download the PDF form and mail in or visit a facility to register for Service-connected care.
+     - Priority of contact methods confirmed with HEC stakeholders on 4/10/2024 (#1 call, #2 mail, #3 visit in-person at facility)
+     - The Veteran will have the option to go back within the application and make a different selection to proceed through the application for VA health care enrollment
+
+- Decided as a team and shared with PO on 4/8/2024 with verbal approval, confirmed on 4/17/2024 with written approval
+>     - Patrick Bateman
+>          - thanks @Heather Justice. this looks great, no questions.
+- Shared with HEC Stakeholders on 4/10/2024, receiving verbal excitment and approvals
+
 
 
 ## Problem
 There is an interest from the HEC (Health Eligibilty Center) and VEO (Veteran Experience Office) stakeholders to include a registration-only pathway for the online 10-10EZ application.
 
 ## Desired User Outcomes
-- Provide Active-Duty Service members and Veterans the ability to register for and receive VA medical care without enrolling in VA Health Care
+- Provide Veterans the ability to register for and receive VA medical care without enrolling in VA Health Care
 
 ## Undesired User Outcomes
 - Confusion between what it means to register vs. enroll, and whether the online application should be used for one or the other.
@@ -55,7 +58,7 @@ Provide a pathway for Veterans to Register for health care when they are unable 
 
 - Source: TBD
 
-**Key Result** Introduce Registration application submissions online to reach 10% of overall submissions.
+**Key Result** Introduce Registration application submissions online to reach 5% of overall submissions.
 
 |Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)|
 |-------| --------- | --------- | --------- |
@@ -95,7 +98,7 @@ These are the following confirmed use cases for registration over enrollment.
 - Veterans requesting an eligibility assessment
 - Veterans requesting an clinical evaluation PP (Presumptive Psychosis) and/or MST (Military Sexual Trauma)
 - Veterans requesting an care or treatment pursuant to a special treatment authority
-- Veteran that only wants to be seen for service-connected condition and doesn't want to enroll in VA healthcare.
+- **Veteran that only wants to be seen for service-connected condition and doesn't want to enroll in VA healthcare - MVP!!**
 - HUD-VASH, some Veterans who might not be eligible because of character of discharge, but can be seen.
 - Mental health evaluation/services within a year of separation (OTH MENTAL HEALTH).
 - Employees (Veterans and non-Veterans)
@@ -124,7 +127,17 @@ These are the following confirmed use cases for registration over enrollment.
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### What're you building
-**In Scope:**
+**MVP - In Scope:**
+- Reorganized pages for authenticated and unauthenticated user flows to bring forward Compensation and Registration decision sooner within the application
+- Target audience for Veterans with 40% or lower service-connected disability rating
+- Create an alert with details on how to register for VA health care
+
+**MVP - Out of Scope:**
+- Target audience outside of Veterans with 40% or lower service-connected disability rating
+- Passing any "Registration" data through to Enrollment system
+- Changing the schema in any way
+- Prefill
+- Systematic decisions or prompting based on any other criteria other than disability rating (such as having private insurance)
 
 
 
@@ -137,12 +150,12 @@ These are the following confirmed use cases for registration over enrollment.
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Content (CAIA) ticket - #67133](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67133)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [TBD - Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*

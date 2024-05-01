@@ -3,8 +3,8 @@ Last updated: November 8, 2023
 
 Welcome to the Authenticated Experience team! You're in good hands. Here's some things you might want to know outside of your onboarding ticket that are specific to your role on the team. Feel free to reach out to me any time on Slack @angela agosto.
 
-## [My VA Sketch file](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9)
-* This is the main (and only) Sketch file for the My VA page. Unlike Profile which has several Sketch documents, all current and past My VA designs live in this one doc.
+## [My VA Figma file](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=9%3A15723&mode=design&t=wEZ3egLDtW4VPDJo-1) (replacing the original Sketch file)
+* This is the main (and only) ~~Sketch~~ Figma file for the My VA page. Unlike Profile which has several Figma documents, all current and past My VA designs live in this one doc.
 * Pages contain:
   * Current **desktop** and **mobile** designs, mocked up to show various scenarios
   * **Symbols** contains a symbol for each scenario for each section on desktop and mobile, as well as a few other symbols specific to My VA. If there were any changes to the design, I first updated them here and then adjusted the spacing in the Desktop and Mobile pages (because Sketch doesn't have auto-layout). There may be a better way to do this once we all switch to Figma but it's been the quickest way to update a section on multiple artboards at once.

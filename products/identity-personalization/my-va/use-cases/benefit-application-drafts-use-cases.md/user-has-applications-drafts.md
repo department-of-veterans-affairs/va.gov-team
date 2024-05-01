@@ -1,6 +1,6 @@
 # My VA Benefit Application Drafts Use Case: User has a benefit application draft saved but not yet submitted
 
-**Last updated:** October 26, 2023
+**Last updated:** February 15, 2024 - added Figma links
 
 For LOA3 users who sign in and have a benefit application draft saved (or multiple), we will show a card (or cards) for their saved application(s) in the Benefit application drafts section on My VA that provides a link for them to continue their application.
 
@@ -11,8 +11,8 @@ For LOA3 users who sign in and have a benefit application draft saved (or multip
 - This card is always displayed on the left hand side of the page on desktop when there is only one card to show.
 - If a user has multiple benefit application drafts saved, they will see a card for each of them in this section and they are displayed side by side on desktop with two max per row.
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/8AB87684-AE2C-42F4-BC9D-60E4B26AE1BB)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A370&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A820&mode=design&t=CREOF8xG3jKa75nz-1)
 
 ## How to reproduce
 - Find a staging user who has a benefit application draft in the [benefit application drafts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#saved-applications-section).

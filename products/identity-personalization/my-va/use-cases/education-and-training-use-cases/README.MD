@@ -1,6 +1,6 @@
 # My VA: Education and Training Use Cases
 
-**Last updated:** April 13, 2023
+**Last updated:** February 15, 2024
 
 ## Overview of Education and Training:
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
@@ -20,4 +20,4 @@ There are no flags associated with this feature.
 There are no system errors associated with this feature.
 
 ## Flow diagrams
-- [User flow for education and training on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/4D97AF62-70A3-4455-9ED2-96051880E836/canvas)
+- [User flow for education and training on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7591&mode=design)

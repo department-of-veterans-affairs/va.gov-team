@@ -12,6 +12,72 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 4/17/2024
+- Updated error pages for Pre-Check-in to always display the same accordion content regardless of appointment modality
+    - [Ticket 72859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
+
+## 4/8/2024
+- Updated CHIP & LoROTA lambdas & layer to node18.
+    - [Ticket 79211](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79211)
+
+## 4/5/2024
+- Updated eCheck-in to re-order the travel questions for consistency with the stand-alone travel application (not yet released) and based on metrics data; order is now
+    - Claiming only mileage?
+    - Own vehicle?
+    - From home address?
+    - [Ticket 79221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79221)
+- CHIP Release v3.5.0
+    - Added documentation for initiate travel
+    - Updated github actions to run in node 20
+    - Updated lambda functions and layers to node v18
+    - Pins github action versions
+
+## 3/19/2024
+- Updated eCheck-in to add a link to the travel reimbursement claim review page that will display the content for the VA beneficiary travel agreement in its own page
+    - [Ticket 78733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78733)
+
+### 3/25/2024
+- Fixed a bug where the "Back to last screen" link no longer appeared on the contact verification page
+    - [Ticket 78803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78803)
+
+### 3/20/2024 
+- Veterans are now asked, at the beginning of the check-in workflow, if they have arrived at the facility; if the answer is no, the Veteran is encouraged to see an MSA upon arrival to ensure they have not already been called back 
+    - [Ticket 75938](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75938)
+- Removed the display for Type of Care because the field used did not contain data for Type of Care (eCheck-in & Pre-Check-in)
+    - [Ticket 78662](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78662)
+
+### 2/29/2024
+- Fixed typos on the eCheck-in completion page
+    - [Ticket 77315](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77315)
+
+### 2/22/2024 - CHIP Release v3.4.4
+- Create CodeQL workflow
+- Mocks & Tests updated
+- Stopcodes updated for future release of CVT and VVC appointments check-ins
+- Dependabot & DD-trace security updates
+- Added station 500GF, 500GB (pacific time zone for testing)
+
+### 1/23/2024
+- Updated eCheck-in to let the Veteran know when BTSSS is down (based on a manually-triggered travel feature flag)
+    - [Epic 72876](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72876) 
+
+### 1/22/2024
+- Changed wording for wait time after checking in to let Veterans know that they could be called back once the check-in process is complete and to check-in with staff if they wait more than 15 minutes or have not been called back by their appointment time
+    - [Epic 72248](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72248)
+      
+### 1/9/2024
+- Updated primary buttons to use version 3 of the Design System
+    - [Ticket 65597](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65597)
+
+### 1/2/2024
+- Updated slim alerts and their icons to use version 3 of the Design System
+    - [Ticket 65493](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65493)
+
+### 12/22/2023
+- Disabled Pre-Check-in and eCheck-in for all phone, CVT, and VVC appointments based on this stop code list
+   - [Ticket 72261](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72261)
+   - ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/499b36ad-3231-48a6-9324-082270f5de3a)
+
 ### 12/7/2023
 - Added a review page to eCheck-in that contains the VA's terms of agreement that a Veteran must agree to in order to file a mileage-only travel reimbursement claim
     - [Epic 68073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68073)

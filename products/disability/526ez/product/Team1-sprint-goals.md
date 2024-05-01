@@ -1,5 +1,292 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+
+## Sprint 30
+Period - 04/24/2024 - 05/07/2024
+### Sprint goals
+
+- **Toxic Exposure**
+  - Veteran can establish a claim and insert a Form526 version 2022 PDF with conditions filled out in column 2 and the checkbox for 15A is checked in their file in VBMS
+  - Stretch goal: conditions validation
+
+- **Paper Form Sync**
+  - Design mocks for adding 5103 language to form, and mock up signature component for claim certification.
+
+- **Submission  & Post-Submission**
+  - Map future state success path within our domain
+  - Determine technical feasibility for failure paths - Mike & Evelyn
+
+## Sprint 29
+Period - 04/10/2024 - 04/23/2024
+### Sprint goals 
+- **Expedited**
+ - **2023 Prioritized Work**
+    - 526ez sync with paper version 
+       - Toxic Exposure
+         - [ ] Continue build on TE pages - Gulf War 1990 / 2001    
+         - [ ] Contract for Toxic Exposure fields between FE and BE 
+         - [ ] Start work on data transformation for the new Toxic Exposure fields
+         - [ ] generatePdf hook up #80773
+      - Audit for 526ez and ancillary forms for all paper to digital form changes
+          - [ ] Complete technical discovery and review with stakeholders
+          - [ ] Create tickets in the backlog for updates identified
+          
+- **2024 Prioritized Work**
+   - Improvement in Submission and Post Submission Experience
+      - Desk Research
+        - Existing research and design on va.gov - part 2
+        - Current state of submission and post submission experience
+        - Present findings from the desk research
+          
+- **Stretch Goal**
+   - [ ] Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
+
+## Sprint 28
+Period - 03/27/2024 - 04/09/2024
+### Sprint goals 
+- **Expedited**
+  - [ ] single direct deposit content - design and front-end - complete
+  - [ ] Front-end - Widgets to Web components upgrade - radio buttons and checkboxes - **The Design System Team is removing all V1 web components that have a V3 upgrade available, completely, EXCEPT: va-file-input  and va-table on May 3rd** 
+   - [ ] Front-end - Widgets to Web components upgrade - Test if the Design System switch to V3 will break 526 form if the upgrades are not done - **Pulled in mid sprint**
+ - **2023 Prioritized Work**
+   - 526ez sync with paper version 
+       - **Toxic Exposure**
+           - [ ] Engineering - Continue build on TE pages - Create end to end tests   
+           - [ ] Tech Discovery - Investigate how release Toxic Exposure with the new pdf version with sticky feature flag
+           - [ ] Add Toxic Exposure fields to Form526 vets JSON schema - Spike
+           - [ ] Start work on data transformation for the new Toxic Exposure fields
+       - Audit for 526ez and ancillary forms for all paper to digital form changes
+          - Complete technical discovery and review with stakeholders
+- **2024 Prioritized Work**
+   - Improvement in Submission and Post Submission Experience
+      - Desk Research
+        - Existing research and design on va.gov - part 1
+        - Current state of submission and post submission experience
+        - Present findings from the desk research
+          
+- **Stretch Goal**
+   - [ ] Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
+
+
+
+## Sprint 27
+Period - 03/13/2024 - 03/26/2024
+### Sprint goals 
+- **Expedited**
+  - [ ] single direct deposit content - design and front-end
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - PCIU 
+        - [ ] Address prefill investigation - check if it blocks claim completion or submission
+        - [ ] If the issue is not a blocker for submission, start launch
+      - BRD (seperation locations endpoint)
+        -  Canary launch, followed by staggered release
+   - 526ez sync with paper version 
+       - Toxic Exposure 
+           - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)
+           - [ ] Tech Discovery - Investigate if TE can be launched with migration to LH /generatePDF without /submit migration
+       - Audit for 526ez for all paper to digital form changes
+          - Complete technical discovery to determine next steps for discrepancies for ancillary forms 4142, 4142a 
+
+- **Other**
+   - [ ] Create a Testing Matrix for all forms within 526 flow - action item from postmortem of recent production issue
+   - [ ] Start breaking down prioritized work to layout the road-map for next two quarters
+   - [ ] UX and Design - Start work on the next initiative picked up by Team 1
+     
+- **Stretch Goals**
+   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+   - /generatePDF
+        - [ ] Start migration - abstract provider
+   - 526 Architecture Diagram
+
+
+## Sprint 26
+Period - 02/28/2024 - 03/12/2024
+### Sprint goals 
+- **Expedited**
+   - [ ] Back-end - Remediate failed 4142 signature submission failures
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - PCIU 
+        - [ ] Address prefill investigation - contd.
+      - BRD (seperation locations endpoint)
+        -  Update DD Dashboard for monitoring release - change what we are logging or where we flag it
+      - Submit
+        - Discovery into special issues being sent from 526 via EVSS
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [X] Design - Update mock-ups/content for radio buttons 2,3 and 4
+           - [ ] Design - [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226)
+           - [ ] [Design - Update documentation from mid-point review](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/75927)
+           - [ ] Engineering - Continue build on pages for Gulf War Hazards(1990 date pages)  
+       - Audit for 526ez for all paper to digital form changes
+          - Complete technical discovery to determine next steps for discrepancies for ancillary forms 4142, 4142a 
+
+- **Other**
+   - [ ] Team goal - Piroritization for what's next
+   - [ ] Analytics - continued
+   - [ ] Research - Presentation on Shadow Research for Benefits Portfolio design team 
+     
+- **Stretch Goals**
+   - [ ] Front-end - Widgets to Web components upgrade - radio buttons
+   - [ ] Front-end - upgrading widgets to web components - checkbox
+   - [ ] Architecture Diagram for 526
+   - [ ] Design - Delete button removes upload without user confirmation #59263
+   - Rated Disabilities
+       -  Sanity check with the new LH version
+       -  Restart staggered release
+
+## Sprint 25
+Period - 02/14/2024 - 02/27/2024
+### Sprint goals 
+- **Expedited**
+   - [ ] Discovery on Flashes not reaching VBMS from va.gov
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - PCIU 
+        - [ ] Launch for 10% and up depending on monitoring results
+      - BRD (seperation locations endpoint)
+        -  Update DD Dashboard for monitoring release
+        -  Start canary launch if the Dashoboard is ready for monitoring
+      - Rated Disabilities
+        -  Sanity check with the new LH version
+        -  Restart staggered release
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Design - Mid-point review and resulting work - complete
+           - [ ] Design - Update documentation from mid-point review
+           - [ ] Engineering - Start build on first set of pages for Gulf War Hazards  
+       - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies - Continue
+       - Audit for ancillary form - 8940 
+
+- **Other**
+   - Team goal - Piroritization for what's next
+     
+- **Stretch Goals**
+ - [ ] Audit for ancillary form - 4192 - Determine next steps for discrepancies
+ - [ ] Architecture Diagram for 526
+ - [ ] Front-end - upgrading widgets to web components
+
+## Sprint 24
+Period - 01/31/2024 - 02/13/2024
+### Sprint goals 
+- **Expedited**
+   -  Front-end - Web components v3 upgrade
+   -  Fix broken timestamp spec #74912
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Launch 50% and next based on the progress 
+      - Benefits Claims Service 
+        - [ ] Launch 50% and next based on the progress 
+      - PCIU 
+        - [ ] Release planning and canary launch
+      - BRD
+        -  Release planning
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Mid-point review and resulting work
+       - Audit for 526ez for all paper to digital form changes - Determine next steps for discrepancies
+       - Audit for ancillary form - 4192
+
+- **Stretch Goals**
+  - Shadow Research
+    - [ ] Piroritization for what's next
+  - Toxic Exoposure 
+    - [ ] Front-end - continue build
+  - /submit -  
+        - [ ] Discovery on submit migration options for sync and async response for established claims if unblocked
+  
+## Sprint 23
+Period - 01/17/2024 - 01/30/2024
+### Sprint goals 
+- **Expedited**
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Launch 25% and next based on the progress 
+      - Benefits Claims Service 
+        - [ ] Launch 25% and next based on the progress 
+      - Submit endpoint
+        - [ ] Discovery on submit migration options for sync and async response for established claims
+      - PCIU 
+        - [ ] Start removing EVSS calls from 526 for PCIU
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Front-end - continue build
+           - [ ] Finalize design for date entries for 15 B, C, and D
+       - Audit for 526ez for all paper to digital form changes - Start discovery
+- **Research**
+  - Shadow Research
+    - [ ] Additional shareout with additional stakeholders
+- **Misc**
+  - Migrate sketch files to Figma 
+
+- **Design Debt**
+    - Front-end - Discovery on scope of the change for v3 components
+      
+- **Stretch Goals**
+  - Shadow Research
+    - [ ] Look at what's  next from the research findings
+  - Migrate sketch files to Figma
+    
+## Sprint 22
+Period - 01/03/2024 - 01/16/2024
+### Sprint goals 
+- **Expedited**
+ - [ ] Add date stamps on form 0781 - Complete testing
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+       - PPIU - Direct Debit 
+         - [ ] Launch 1% and next based on the progress 
+      - Benefits Claims Service 
+        - [ ] Launch 1% and next based on the progress 
+      - Submit endpoint
+        - [ ] Discovery on IDs in claim submission
+        - [ ] Discovery on rerouting submit with async polling
+      - PCIU 
+        - [ ] Discovery - continued
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Front-end - start build
+           - [ ] Design
+             - [ ] Accessibility updates for MVP
+             - [ ] New Toxic Exposure validation/error screen mocks
+             - [ ] Complete document clean up
+- **Research**
+  - Shadow Research
+    - [ ] Draft report
+- **Misc**
+  - Migrate sketch files to Figma - Identify scope and create tickets for migration
+    
+- **Stretch Goals**
+     - Migrate sketch files to Figma - continued
+     - Audit for 526ez for all paper to digital form changes - Start discovery
+
+## Sprint 21
+Period - 12/20/2023 - 01/02/2024
+### Sprint goals 
+- **Expedited**
+ - [ ] Add date stamps on form 0781 
+- **Non-negotiable**
+   - eVSS to Lighthouse Migration - Engineering
+      - Submit endpoint
+        - [ ] Integration testing with LH release in sandbox - continued
+      - PCIU 
+        - [ ] Discovery - continued
+   - 526ez sync with paper version 
+       - Toxic Exoposure 
+           - [ ] Finalize copy edits based on CAIA feedback
+           - [ ] Create FE tickets and start build
+      - Audit for 526ez for all paper to digital form changes - Start discovery
+- **Research**
+  - Shadow Research
+    - [ ] Synthesis and draft report outline
+- **Stretch Goals**
+     - Design and Content updates - Service History changes from mid-point, if capacity
+     - Migrate sketch files to Figma
+
+
 ## Sprint 20
 Period - 12/06/2023 - 12/19/2023
 ### Sprint goals 

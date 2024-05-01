@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 ## Tasks
-- [ ] Create design options (team chooses fidelity of the design options based on situation)
+- [ ] Create design options (team chooses fidelity based on situation)
 - [ ] Get feedback from appropriate stakeholder(s). E.g., content or a11y SMEs, platform design, UX team, check in team, VA OCTO PO's, check in PO, Angela Fowler (a11y) or Sara Sterkenburg (IA).
 - [ ] Incorporate feedback into solution(s) 
-- [ ] Choose the target design solution
+- [ ] Determine optimal option after peer reviews.  
 - [ ] Check to see if tickets exist to implement the final design decision and are accurate (or create them, if necessary)
 
 ## Acceptance Criteria

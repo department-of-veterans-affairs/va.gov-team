@@ -1,29 +1,24 @@
-# Refill prescriptions feature
+# Renew prescriptions feature
 
 ## Overview
 
-Ability to refill prescriptions
+Ability to renew prescriptions
 ## User stories
 
-- As a Veteran, I can submit refill requests in line for VA prescriptions that are currently active and have refills left, understand whether they are in the process of being refilled, and when the medication has been dispensed.
-- As a Veteran, I can submit a refill-all active prescription with refills left, confirm that is the transaction needed, and submit,
-- As a Veteran, I know when recently dispensed VA prescriptions have been shipped by CMOP or local VA facility, and I can track their shipment progress and any changes that may occur with the shipment.
+- As a Veteran, I will be notified when a prescription is about to expire and eligible for renewal.
+- As a Veteran, I can complete the action of submitting a secure message to request that my prescription be renewed. 
 
 ## Requirements
 
 ### Functional
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- When a med is active, a refill is not in process, and there are refills left, a user should be able to request a refill by pressing a button. 
-- For the first version of this tool, a user must click refill on each individual meds. There is no bulk med refill functionality.
-- When a prescription refill is in process, remove the ability to refill and provide a pithy explainer that the refill is in process. The button should be replaced by the estimated fill date. 
-- Once a med has been dispensed, start the process over again.
 ### Non-functional
 
 
 ## Specifications
 
-[User flow](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/a/GoqqApY) 
+[User flow](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/a/aMnebzp) 
 
 [Page template](https://www.sketch.com/s/c117249d-4845-4740-a3e2-78ebde262de3/p/21DEC478-8C80-4CE4-8412-DBBCE5F17DEA/canvas)
 

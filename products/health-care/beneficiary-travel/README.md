@@ -2,21 +2,13 @@
 
 The goal of our team is to develop a Veteran-facing user experience that enables users to complete travel reimbursement tasks across VA.gov. As part of our project, we'll review the legacy BTSSS portal and partner with teams to integrate relevant features and functionality with BTSSS services.
 
-The legacy BTSSS portal is a stand alone web application that allows Veterans to submit and manage claims to be paid back for mileage and other travel expenses to and from approved health care appointments, and to manage associated data.
+The legacy Travel Claims Portal is a stand alone web application that allows Veterans to submit and manage claims to be paid back for mileage and other travel expenses to and from approved health care appointments, and to manage associated data.
 
 ## About the Product
 
 ### Vision
 
-Deliver a seamless and positive experience for any Veteran who needs to submit or manage travel claims, with a focus on automated processing of most claims.
-
-There is a bunch of noise from the staff that the whole experience needs updated. We are focusing on 
-
-```
-Creating better claims will create a smoother system
-```
-
-Currently the claims that are created are causing the system to get `backed up`. Data points the reason that the system is creating a backlog is paperclaims. Knowing this, we are focusing on improving Veteran Tooling, focusing on findability, accessibility, and usability.
+Deliver a seamless and positive experience for any Veteran or Caregiver who wants to submit or manage beneficiary travel claims online.
 
 
 ## About the Team
@@ -26,9 +18,10 @@ Currently the claims that are created are causing the system to get `backed up`.
 - Engineering: Mark Dewey
 - Design/Research: Kristen McConnell
 
-### Delivery Team
+### Product Team
 - Kevin Duensing, Engineering Lead
 - Dan Hinze, Engineering
+- Athif Wulandana, Engineering
 - Micah Taylor, UX Design
 - Cara Frissell, Research
 
@@ -58,9 +51,13 @@ GitHub label = `beneficiary-travel`
 
 
 ## Product
-- [Roadmap](./product/roadmap.md) 
-- [Objectives & Key Results](./product/OKRS.MD)
-- TODO: Product Guide 
+- [Product Outline](./product-outline-btsss.md)
+- Roadmap
+  ![VA  BTSSS on VA gov Roadmap_2024-01-18_18-52-39](https://github.com/laurenernest/va.gov-team/assets/72046525/b287c732-1ff7-4268-a7ba-50fd4d3353b3)
+
+
+
+
 
 ## Research
 - [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)

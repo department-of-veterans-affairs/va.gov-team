@@ -1,6 +1,6 @@
 # Hub MVP Release Plan
 
-**Updated:** 11/1/2023 draft
+**Updated:** 1/29/2023 
 
 ## Table of Contents
 
@@ -83,26 +83,10 @@ For metrics see the product outline as each phase has metrics tracked there.
 Since this is a cosmetic shift without complex logic unique to individual users. We s
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 100% | 12/19/2023 |  |
+| Launch to 100% | 12/19/2023 | 12/19/2023 |
 
-### 1-week results at 100%
-||Results|
-|---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
-
-
-### 1-month results at 100%
-||Results|
-|---|---|
-|Number of unique users:||
-|Any issues with VA handling/processing?||
-|Types of errors logged:||
-|Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?||
-|If yes, what:||
+### results at 100%
+[see metrics on the mvp page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
 
 ## Post-launch Questions 
 

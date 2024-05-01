@@ -1,6 +1,6 @@
 # Facility Locator: Solution Narrative
 
-Please see also [Legacy Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product-archive/legacy-solution-narrative.md) for historical decisions that might be relevant. 
+Please see also [Legacy Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/archive/legacy-solution-narrative.md) for historical decisions that might be relevant. 
 
 ## Technical Decisions
 **Mapbox**

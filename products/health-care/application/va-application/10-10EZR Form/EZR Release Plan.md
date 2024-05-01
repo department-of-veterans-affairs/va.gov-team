@@ -1,5 +1,5 @@
 # 10-10EZR Health benefits update form - Release Plan 
-- Last updated: 12/19/2023
+- Last updated: 1/9/2024
 
 
 ## Step 1: Development
@@ -18,9 +18,9 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
   - [x] [Link to Test cases/Test Rail](https://dsvavsp.testrail.io/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-   - [ ] Confirm with Joshua Faulkner and team on End to End testing
-   - [ ] Link to confirmation of successful transmission/processing
+- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+   - [x] Confirm with Joshua Faulkner and team on End to End testing
+   - [x] Link to confirmation of successful transmission/processing
 - [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [x] review the plan with your DEPO/OCTO representative.
   - [x] review the release plan with your team.
@@ -65,6 +65,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Desired date range:
      - 12/20/23 - 01/11/23
+     - Take two date range: 1/10/24-1/24/24
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting % of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -73,27 +74,31 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
 
 - Data source
-     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard - TBD (NEW)
+     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - [Google Analytics submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231220&_u.date01=20231221&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22ezr--submission%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart/)
 
+**Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
 | Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Paper Submissions |15,000 |4,000 (25%) | TBD |TBD |
+|Paper Submissions |15,000 (estimated) |4,000 (25%) | TBD |TBD |
 |Online Submissions |NEW |11,000 (75%) | TBD |TBD |
 |Submission Failures |NEW |None | TBD |TBD |
 |Veteran Validation errors |NEW |None | TBD |TBD |
+
 
 #### **Key Result #2:** Capture 75% of form submissions in a single session
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Google Analytics Dashboard
+     - [Google Analytics PDF Downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231217&_u.date01=20231221&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart&_r.drilldown=analytics.eventAction:PDF%20Downloaded%20-%20Download%20VA%20Form%2010-10EZR/)
 
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
-|Single-session submissions |NEW |75% of submitted forms (8,250) | TBD |TBD |
+|Single-session submissions |NEW |75% of submitted forms (8,250)| TBD |TBD |
+
 
 #### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
+
 | Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |-------------- |
 |EZR PDF Downloads |avg 10,400 monthly |2,600 monthly (25%) | TBD |TBD |
@@ -102,6 +107,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
      - Product Manager - Alex Seelig, Heather Justice
@@ -116,7 +122,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 12/20/2023-1/2/2024
+     -  6 days, 1/10/24-1/16/24
+     - (Initially 12/20/2023-1/2/2024)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 10 submissions per day
@@ -136,7 +143,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/2-1/7/2024
+     - 6 days, 1/16/24-1/22/24
+     - (Initially 1/2-1/7/2024, paused and rolled back 1/3/24 due to issues with Veteran DOB and Preferred Facility)
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 25 submissions per day
@@ -157,7 +165,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/8-1/10/2024
+     - 3 days, 1/22/24-1/24/2024
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
      - about 75-100 submissions per day
@@ -175,7 +183,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/11/2024
+     - 1/24/24
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
      - about 1,000 per week

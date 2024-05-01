@@ -103,7 +103,7 @@ Hypothesis statement: ("Maybe True", “Likely True”, “Definitely True”, �
 
 - The way we write terms for the suggested conditions list can have an impact on findability for Veterans and actionability for claims processors. 
 
-  - LIKELY TRUE:  If the condition existed in the list, participants could find their condition in most cases. In cases where a Veteran could not find a relevant term, the issue appeared to be less about how the term was written and more related to weaknesses in the algorithm driving autosuggestions. We could nevaluate actionability for claims processors through this study.
+  - LIKELY TRUE:  If the condition existed in the list, participants could find their condition in most cases. In cases where a Veteran could not find a relevant term, the issue appeared to be less about how the term was written and more related to weaknesses in the algorithm driving autosuggestions. We could not evaluate actionability for claims processors through this study.
 
 * Veterans with the most common conditions will be able to find their condition.
 

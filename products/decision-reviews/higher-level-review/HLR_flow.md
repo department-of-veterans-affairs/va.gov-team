@@ -3,33 +3,34 @@ flowchart TB
     Title(Higher-Level Review v2 flow)
 
     subgraph one [Wizard]
-    A{Compensation claim}
-    A -. Yes .-> B[Introduction page]
-    A -. No .-> C[Download form]
+    ClaimType{Claim type}
+    ClaimType -. Compensation .-> Intro[Introduction page]
+    ClaimType -. Other .-> DownloadForm[Download form]
     end
 
-    B --> D[Veteran Information]
-    D --> E[Homeless]
-    E --> F[Contact Info]
+    Intro --> VetInfo[Veteran Information]
+    VetInfo --> Homeless[Homeless]
+    Homeless --> ContactInfo[Contact Info]
 
-    F -.-> G[Update address] -.-> F
-    F -.-> H[Update phone] -.-> F
-    F -.-> I[Update email] -.-> F
+    ContactInfo -.-> UpdateAddress[Update address] --> ContactInfo
+    ContactInfo -.-> UpdatePhone[Update phone] --> ContactInfo
+    ContactInfo -.-> UpdateEmail[Update email] --> ContactInfo
 
-    F --> J[Contestable Issues]
+    ContactInfo --> ContestableIssues[Contestable Issues]
 
-    J -.-> K[Add or edit issue] -.-> J
+    ContestableIssues -.-> AddOrEditIssue[Add or edit issue] --> ContestableIssues
 
-    J --> L[Area of Disagreement followup]
-    L -. Each \n selected \n issue .-> L
-    L --> M[Opt-in]
-    M --> N[Issue Summary] -. Go back and add more .-> J
+    ContestableIssues --> AreaOfDisagreement[Area of Disagreement followup]
+    AreaOfDisagreement -. Each \n selected \n issue .-> AreaOfDisagreement
+    AreaOfDisagreement --> OptIn[Opt-in]
+    OptIn --> IssueSummary[Issue Summary]
+    IssueSummary -. Go back and add more .-> ContestableIssues
 
-    N --> O[Informal conference]
-    O -. No .-> T[Review & submit]
-    O -. Call me .-> S[Availability]
-    O -. Call rep .-> R[Representative Info]
-    R --> S
-    S --> T
-    T --> U[Confirmation]
+    IssueSummary --> InformalConference[Informal conference]
+    InformalConference -. No .-> ReviewAndSubmit[Review & submit]
+    InformalConference -. Call me .-> Availability[Availability]
+    InformalConference -. Call rep .-> RepInfo[Representative Info]
+    RepInfo --> Availability
+    Availability --> ReviewAndSubmit
+    ReviewAndSubmit --> Confirmation
 ```

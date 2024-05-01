@@ -23,6 +23,7 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | Status: Confirmed                                          | ✅         |          |      |          |
 | Status: Past                                               |           |          | ✅    |          |
 | Status: Canceled                                           |           |          |      | ✅        |
+| Provider Name                                              | 1         | 1        | 1     | 1         |
 | Type of Care                                               | ✅         | ✅        | ✅    | ✅        |
 | Facility Name                                              | ✅         | ✅        | ✅    | ✅        |
 | Facility Address                                           | ✅         | ✅        | ✅    | ✅        |
@@ -33,6 +34,8 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅        | ✅   | ✅        |
 
+Notes:
+1. 02/23/2024 - Requirement not yet met
 
 ## Specifications
 

@@ -57,12 +57,6 @@ Using Optimal Workshop, we will conduct an unmoderated study in which participan
 
 ## Details of Findings 
 
-_For each finding, list details with supporting quotes and images when possible. Please **add relevant keywords/labels to your findings** selected from the [research repository label list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/labels?page=1&sort=name-asc). Adding keywords/labels to your findings will help others find research relevant to their work._
-
-
-_To add images: ![text](link - add image to github folder and link here with .png)_
-
-
 **Finding 1: Participants primarily navigated to and selected answers in the family member hub when looking for benefits for themselves**
 
 Labels: label 1, label 2 
@@ -206,134 +200,108 @@ _List all labels that apply to this finding from the [research repository label 
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+- Proceed with building a more robust family member and caregiver benefit hub focused on information related to applying for benefits
+- Do not move manage benefits related content into the new family member hub, but heavily cross link to those options within the related benefit sections
+- Keep the survivor and caregiver segments in the family member hub by either keeping the sub-sections or utilizing labels/tags to call those out – recommend A/B testing these options
+- Consider relabeling the “Common tasks to manage your health and benefits” if kept to make it more scannable for the key words “manage health and benefits”
+- Consider how manage health and benefits tasks can be best linked within the survivor and caregiver sections
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+Recommendations for specific content
+- Accrued benefits should live within the new family member hub but be visibly cross-linked within the Veteran benefit hubs that involve regular payments. Do additional research on how to best label this in the experience to improve understanding and findability. 
+- Ensure the Transferred GI Bill benefits content is visibly cross-linked so that Veterans access the right page and family members receiving the benefit access the correct page 
+- Fiduciary content should continue to be tested for placement within the IA, but should also be visibly cross-linked within any benefit area that involves payments
+- Rename and move the “Complete list of discharge documents” out of the records hub
+- Ensure payment history is crosslinked with each benefit that involves regular payments
+- Keep prescription refills link within the family member hub along with other health tasks, but ensure the entry points within the Veteran health care hub properly speak to family members as well as Veterans
+- Fiduciary services should continue to be tested for placement within the VA.gov IA and planned to be crosslinked within any benefit that involves payments
+
+
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+1. Finalize the family and caregiver hub IA and labeling 
+2. Document content needs, including content that will be moved out of the Veteran benefit hub and new content to be created
+3. Identify impacts to other teams
+4. Kick-off hub page design work
+5. Define the roll-out plan
+6. Draft a communications plan
 
 
-## Further research needed
 
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
 ## Appendix
 
-[Research plan](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/research/11-2023-family-hub-research-plan.md))
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
-
-## Tools used for Synthesis
-
-e.g. mural boards, etc.  
-
-
-## Pages and applications used
-
-Link to prototypes or pages that were tested
-
-
-## Other supporting documents created
-
-e.g. user flows, personas, etc.
-
-
-## Secondary research
-
-Include any secondary research you may have. 
-
-E.g. web analytics, ForeSee data, SME interviews, competitive analysis, or other relevant research studies.
+[Existing data and research review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/family-member-hub/research/existing-data-and-research-review.md)
 
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
+- Only family members and caregivers were recruited for this research
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+**41 people completed the tree test.**
 
-We talked to **x participants.**
-
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
+Audience segment - self-identified
+- 80% spouse, child, or parent of a living Veteran
+- 5% surviving spouse, child, or parent of a Veteran
+- 10% family caregiver of a Veteran
+- 5% non-family caregiver of a Veteran
 
 Gender:
-* Male: x 
-* Female: x 
-
+* Male: 18
+* Female: 23 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
+* Transgender: unknown/not tracked
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: unknown
+* Gay, lesbian, or bisexual: unknown
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
+* Desktop: unknown 
+* Tablet: unknown
+* Smart phone: unknown
+* Assistive Technology: unknown
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
+* 25-34: unknown
+* 35-44: unknown
+* 45-54: unknown
+* 55+: 19
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* High school degree or equivalent, or some college (no degree) or equivalent: 14
+* Associate's degree, trade certificate or vocational training: unknown
+* Bachelor's degree: unknown
+* Master's degree: unknown
+* Doctorate degree: unknown
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+* Urban: unknown
+* Rural: unknown
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
+* White: 27
+* Black: 5
+* Hispanic: 2
+* Biracial: 3
+* Asian: 1
+* Native: 3
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: unknown
+* AT beginner: unknown
+* AT advanced user: unknown
+* Desktop screen reader: unknown
+* Mobile screen reader: unknown
+* Magnification/Zoom: unknown
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: unknown
+* Hearing aids: unknown
+* Sighted keyboard: unknown
+* Captions: unknown
 
 
 ## Underserved groups we haven’t talked to 
@@ -341,10 +309,6 @@ Disability and Assistive Technology (AT):
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Assistive tech users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20994159/43fd86fc-7ab0-469b-b04c-bd979069eef2)

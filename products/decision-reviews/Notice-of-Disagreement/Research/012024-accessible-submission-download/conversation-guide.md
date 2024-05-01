@@ -6,7 +6,7 @@ Product: Sade Ragsdale
 
 Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 
-# Conversation Guide for Benefits Decision Reviews - Accessible record of an appeal submission, Jan 2024
+# Conversation Guide for Benefits Decision Reviews - Accessible record of an appeal submission, Feb 2024
 ## Starting the session
 * Keep observers in the waiting room to ask the participant if they still consent to having observers in the session. Tell them to have their camera on with full name displayed for a brief introduction to the participant when they are admitted to the session. 
 * In the Attendees section, make sure everyone except the participant is on mute.
@@ -17,24 +17,24 @@ Observers: Sade Ragsdale, Ruben Sun, David Kennedy, Julie Strothman
 Thanks for joining us today. I’m Eileen, and I’m part of a team working on decision review forms on the VA.gov website.
 
 Before we start, a few things I want to mention:
-I have some colleagues in the waiting room who would like to observe and take notes. Perigean did ask for your consent to allow observers, but I wanted to confirm before we get going. Are you okay with letting them in for this session?
+I have 4 colleagues in the Zoom waiting room–we often include a couple of people to observe and take notes. Are you okay with having them join us for this session?
 * If the participant does not consent, ask the observers to kindly leave the Zoom via Slack.
-* If a participant consents, let other observers into the room and allow a short pause to say hello. Here are some other members from our website team - if you'd all like to say a quick hello. And now for those of you who just joined, if you could please turn off your cameras to save bandwidth, that would be great.
+* If a participant consents, let other observers into the room and allow a short pause to say hello. Here are some other members from our website team - if you'd all like to say a quick hello, and then mute, that would be great.
 
 This entire session should take about 60 minutes. I want to be sure not to keep you any longer, so I may occasionally prompt you with the next question or topic to keep us on schedule.
 
 In this session, we want to hear your honest opinions. We are not testing your ability; we are testing our work so you cannot do anything wrong here. I will not be offended by any opinions you express, and I welcome your feedback. As you go through the exercise, it'll be really helpful if you can think out loud as much as possible.
 
-As you’ve been briefed by Perigean, for this session, we want to understand what you would do right after you submit a claim or decision review (aka appeal) form.
+As you’ve been briefed by Perigean, the company that recruited for this session, we want to understand what you would do right after you submit a claim or decision review (aka appeal) form.
 
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we complete analysis, and none of your comments will be attributed to you directly.
+Before we get started, I want to ask for your permission to record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we complete analysis, and none of your comments will be attributed to you directly.
 * If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 * We like to use transcription to improve our notes. However, this Zoom setting turns on Closed Captions in Zoom, which can be a problem for screen readers. Would it be disruptive do have Closed Captions on?
   * If no, turn on transcription.
 
 Start recording. Turn on transcription.
 
-I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+I have started recording. I'd like to confirm: Do I have your permission to record my screen and the audio as we talk today?
 ## Warm up
 _Goal: Confirm they qualify for the study, and understand how they currently keep or access a record of their submission._
 
@@ -53,6 +53,7 @@ Next, I want to get our tech set up.
   * [Android screen share instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
 * Would you prefer that I send the link to Zoom chat, to your email, or by another method?
   * If another method, confirm their contact number/email address.  [Ask Perigean to send email, check Subject line to make sure it’s clear]
+  * Staging link: https://staging.va.gov/decision-reviews/submitted-appeal/
 
 ### Dolphin prompt
 * We understand that there might be a limitation with Dolphin that won’t allow you to use Zoom and view the webpage at the same time. 
@@ -61,9 +62,7 @@ Next, I want to get our tech set up.
   * Can we send it to your email address?
 
 ## Task 1: Review the confirmation page 
-Scenario: Today we’ll be reviewing a few pages regarding the Board Appeal form VA-10182. A Board Appeal is one of the decision review pathways you can go through if you don’t agree with a decision on your claim. We’ll be going through a mock scenario where you just filled out and submitted a Board Appeal form, and have reached the confirmation page. We want to understand your expectations for that experience.
-
-Staging link: TBD
+Scenario: Today we’ll be reviewing a few pages regarding the Board Appeal form VA-10182. A Board Appeal is one of the decision review pathways you can go through if you don’t agree with a decision on your claim. We’ll be going through a mock scenario where you just filled out and submitted a Board Appeal form, and have reached the confirmation page. We want to understand your expectations for this experience.
 
 As you move through the steps, please do your best to think out loud and let us know what is particularly clear or particularly unclear or challenging about the way the form is structured. I will mostly be observing, and I may ask you to pause at certain points and ask you questions.
 Spend some time reviewing this page. Let us know when you’re ready to continue.
@@ -83,7 +82,9 @@ Spend some time reviewing this page. Let us know when you’re ready to continue
 * Would you want to return to this page? Why or why not?
 * If you had to save this page, what would you do?
 * What would you most likely do with the saved page?
+* How would you expect to access this page?
 * If you were to come back to VA.gov at a later date, how would you expect to access this page?
+* How long would you expect to have access to this page?
 
 ## Post-Task Interview
 * On a scale of 1-5, with 5 being the most useful, how would you rate this page? Why?

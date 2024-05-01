@@ -1,16 +1,20 @@
-# DRAFT /  Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Jan 2024
+# Research Plan for Decision Review Team, Accessible Copy of Completed Submission, Feb 2024
 ## Background
 In previous studies, we found that Veterans have a desire to save a copy of their submitted forms. As the submission PDF currently exists, it is not accessible to Veterans with visual impairments that are using screen readers. We are proposing providing an HTML page that allows Veterans who are using screen readers to review their submission, as well as an optional download.
 
 In this exploratory study, we seek to understand how Veterans who use screen readers would review and save a copy of their completed form. We hope the results from the study will help inform accessibility best practices for our team going forward.
 
-We believe it is important to help Veterans using screen readers to access a record of their online submissions.
+We believe it is important to support Veterans using screen readers to access a record of their online submissions.
 
 Participants will walk through a code prototype on staging.
 
-Staging link: TBD
+[Prototype staging link](https://staging.va.gov/decision-reviews/submitted-appeal/)
 
 ### OCTO Priorities
+This research supports 2 of the 2024 OCTO Objectives:
+Our digital experiences are the best way to access VA health care and benefits.
+Our platforms are the best way to deliver products at VA.
+
 This research supports OCTO 2023 priorities 2 and 6:
 - Solidify the VA.gov platform
 - Enhance Veterans’ personalized online experience
@@ -33,7 +37,7 @@ This research also touches on aging and managing new needs for those that develo
 What are you trying to learn from this research?
 1.  Evaluate the effectiveness and value of the accessible submitted appeal page for Veterans using screen readers.
 2.  Understand how Veterans using screen readers are currently accessing and storing a copy of their appeal submission.
-3.  Understand where Veterans using screen readers expect to access records of their submitted appeals. 
+3.  Understand where Veterans using screen readers expect to access, and how they expect to use  a copy of their submission.
 
 ### Outcome
 - We believe the results from the study will help inform accessibility best practices for our team going forward.
@@ -47,7 +51,7 @@ What are you trying to learn from this research?
 - How do Veterans using screen readers access a copy of their submission?
 - How do Veterans using screen readers save a copy of their submission?
 
-#### GOAL 3: Understand where Veterans using screen readers expect to access records of their submitted form.
+#### GOAL 3.  Understand where Veterans using screen readers expect to access, and how they expect to use  a copy of their submission.
 - Where do Veterans using screen readers expect to access a record of their submitted form?
 - What do Veterans using screen readers want to do with a copy of their submission?
 
@@ -69,11 +73,11 @@ What are you trying to learn from this research?
 Note: your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
 For moderated usability tests:
--   [Link to conversation guide](#) In Progress
--   [Link to staging URL](#) In Progress
+-   [Link to conversation guide]([#](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download/conversation-guide.md))
+-   [Link to staging URL](https://staging.va.gov/decision-reviews/submitted-appeal/)
 
 ## Recruitment
-[Link to recruitment request](#) In Progress
+[Link to recruitment request](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/467)
 
 ### Recruitment approach
 Inclusive recruitment prioritizing a full sample of **Veterans that use screen readers due to low vision or blindness**.
@@ -125,19 +129,12 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
    b) Yes, with some help  
    c) No (disqualify)  
 
-6.  **List the name of the screen readers or software you will use during the session. (Fill in)**
-    
-8.  **Please check the statement) that best applies to you:**  
- a) I am very comfortable using screen readers   
- b) I am comfortable using screen readers  
- c) I am still learning how to use screen readers  
-
-9. **Select the statement(s) that apply to you: (Check all that apply)**  
+6. **Select the statement(s) that apply to you: (Check all that apply)**  
   a) I have submitted a benefits claim  
   b) I have submitted a decision review / appeal  
   c) I have not submitted a benefits claim (disqualify)
 
-10. **Select the statement(s) that apply to you: (Check all that apply)**  
+7. **Select the statement(s) that apply to you: (Check all that apply)**  
    a) I submitted a form on VA.gov by myself  
    b) I submitted a form on VA.gov with the help of others
    c) I have never submitted a form on VA.gov
@@ -146,9 +143,10 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 Please follow up by phone with prospective participants with these (4) questions and please let us know what they say. 
 1. We want to confirm that you use a screen reader due to low vision or blindness
 2. What is the name of the screen reader technology you are using?
-3. Are you comfortable joining a Zoom call using your screen reader technology?
-4. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?
-5. (If participant uses Dolphin) Are you able to join the study on two devices, one for Zoom, and one to navigate to the webpages for this session?
+3. What is your comfort level with using screenreaders, very comfortable, comfortable, or still learning?
+4. Are you comfortable joining a Zoom call using your screen reader technology?
+5. We’ll have an accessibility specialist on the call. Are there any other accommodations that would be helpful during this session?
+6. (If participant uses Dolphin) Are you able to join the study on two devices, one for Zoom, and one to navigate to the webpages for this session?
 
 **Secondary criteria (nice-to-haves) What criteria would strengthen your results?**
 Note: The following demographic criteria is our goal, but we understand that historically it's been challenging to recruit participants who use screenreaders.
@@ -160,28 +158,28 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screnner questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria and how the criteria are prioritized when recruiting replacements for participants who cancel in advance.
 
-Eileen is available for a kickoff call during any of these times:
-- 1/4 4PM ET
-- 1/4 2-5PM ET
+The team is available for a kickoff call during any of these times:
+- 1/22 3:30PM ET, 4:00PM ET, 4:30PM ET
+- 1/23 1:30PM ET, 4:30PM ET
+- 1/24 3:00PM ET, 3:30PM ET, 4:30PM ET
 
-Please invite Eileen (eileen.chi@coforma.io) and Sade (sade.ragsdale@coforma.io) to the kickoff call.
+Please invite Eileen (eileen.chi@coforma.io), Sade (sade@coforma.io), and Lauren (lauren.sinreich@coforma.io) to the kickoff call.
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study so we can review it beforehand.
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
--   Pilot participant email: 
--   Date and time of pilot session: 
+-   Pilot participant email: TBD
+-   Date and time of pilot session: TBD
 
 ### Research sessions
 Planned dates of research: 
-- 1/9 - 1/17
 
-    
+2/6-2/12
+
 ### Length of sessions
 Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours):
 -   60 minutes
     
-
 Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
 -   60 minutes buffer
 
@@ -193,24 +191,24 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-- 1/9 Tuesday 9-1, 2-4, 5-6
-- 1/10 Wednesday 9-1, 2-4, 5-6
-- 1/11 Thursday 9-1, 2-4, 5-6
-- 1/12 Friday 9-1, 2-4, 5-6
-- 1/16 Tuesday 9-1, 2-4, 5-6
-- 1/17 Wednesday 9-1, 2-4, 5-6
+2/6 9AM-6PM ET
+2/7 9AM-6PM ET
+2/8 9AM-6PM ET
+2/9 9AM-6PM ET
+2/12 9AM-6PM ET
+2/13 9AM-6PM ET
 
 ## Team Roles
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker
--   Moderator: Eileen Chi / Ruben Sun   
--   Research guide writing and task development (usually but not always same as moderator): Eileen Chi / David Kennedy
+-   Moderator: Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io) / Ruben Sun [ruben.sun@coforma.io](ruben.sun@coforma.io)
+-   Research guide writing and task development (usually but not always same as moderator): Eileen Chi [eileen.chi@coforma.io](eileen.chi@coforma.io) / David Kennedy [david.kennedy@adhocteam.us](david.kennedy@adhocteam.us)
 -   Participant recruiting & screening: Perigean
 -   Project point of contact: Eileen Chi
 -   Participant(s) for pilot test: TBD
 -   Accessibility specialist (for sessions where support for screen readers may be needed): TBD
--   Note-takers: Ruben Sun / Eileen Chi, Sade Ragsdale  
+-   Note-takers: Ruben Sun / Eileen Chi, Sade Ragsdale  [sade@coforma.io](sade@coforma.io)
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side)
-  - Sade Ragsdale
-  - Ruben Sun
-  - David Kennedy
-  - Julie Strothman
+  - Sade Ragsdale [sade@coforma.io](sade@coforma.io)
+  - Ruben Sun [ruben.sun@coforma.io](ruben.sun@coforma.io)
+  - David Kennedy [david.kennedy@adhocteam.us](david.kennedy@adhocteam.us)
+  - Julie Strothman [julie.strothman@va.gov](julie.strothman@va.gov)

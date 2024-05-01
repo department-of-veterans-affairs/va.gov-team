@@ -1,10 +1,13 @@
 # Identity Team Charter
 
+[DRAFT MFA Extended Roadmap.pptx.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/14591197/DRAFT.MFA.Extended.Roadmap.pptx.pdf)
+
+
 # Identity
 
 Welcome to the Identity folder. This directory contains information about user identity on [Va.gov](http://va.gov/). You'll find documentation on things like login, personalization, profile, and more.
 
-**New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/gettingstartedidentity.md)
+**New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/gettingstartedidentity.md)
 
 ## What we're doing:
 
@@ -36,10 +39,52 @@ Product Managers are responsible for keeping these directories up-to-date and we
 ### VA Product Owners
 
 - Tom Black
+- Samara Strauss
+  
+### Program Management
 
-### Product and Program Management
+- Parker Baranowski
+  
+### Product Management
 
-- Mike King, Amber Parsley - Product Leadership
+- Mike King
+- Jim Connelly
+
+### Delivery Manager
+
+- Lisa Lindsay
+
+### Engineering lead & Security
+
+- Joe Niquette
+
+### Backend Engineering Team
+
+- Trevor Bosaw - team lead
+- Riley Anderson
+- John Bramley
+- Dick Davis
+
+### Frontend Engineering Team
+
+- Alexander Garcia - team lead
+- Caitlin Neathawk
+- Ian Magenta
+- Afia Caruso
+- Antonette Caldwell
+
+### DevOps Engineering Team
+
+- Josh Houston
+- Vid Jovanovic
+- Zac Yellowhorse
+
+## UX Team
+
+- Clayton Zook
+- Charley Tran
+- Josh Matulonis
+- Megan Driscoll
 
 ## Communications
 

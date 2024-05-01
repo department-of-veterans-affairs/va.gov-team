@@ -1,8 +1,3 @@
-# ❗Important End of Year Scheduling Info for New Notifications
-As we reach the end of the year please be aware that VA Notify will not be starting any new notification intakes in December as we focus on supporting those in progress and wrapping up 2023 initiatives. Kick-off meetings for new intake forms submitted during December will be scheduled in January.
-
-Please be mindful of launching new notifications in December before the holidays unless there is a business critical deadline. There is a [VA platform code freeze 12/22 - 1/2/2024](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Holidayreleasefreezeschedule), which also includes limited support.
-
 # VA Notify, Enterprise Notification Platform
 
 **Mission**
@@ -23,8 +18,8 @@ Email us at **VA Notify**(oitoctovanotify@va.gov)
 
 # Point of Contacts
 **Product**
-- Beverly Nelson, VA Product Owner - VA Notify
-- Melanie Jones, Product Manager - Notifications Platform
+- Chris Johnston and Jeff Barnes are currently supporting VA Notify, please note Beverly Nelson's last day was 4/19/2024
+- Melanie Jones, Program Manager & Product Manager - VA Notify
 - Samantha Jennings, Product Manager - Forms Strike Team
 
 **Engineering**
@@ -59,7 +54,7 @@ VA Notify does not…
 Currently we support email, text messaging (SMS), push notifications with the Flagship Mobile App, and onsite notifications on VA.gov, My VA dashboard. You can find the VA Standard Operating Procedures for SMS [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
 
 ## Onboarding to VA Notify
-Welcome! Please submit an [intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=bevnobev%2C+mjones-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.
+Welcome! Please submit an [intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mjones-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.
 
 ## Getting access to our Self Service Portals
 The VA Notify self service portal empowers your team to create and manage notification templates, while also providing helpful documentation and tips for your notification journey.
@@ -109,9 +104,34 @@ VA Notify charges for SMS text messages to cover phone number and messaging cost
 ## Reviewing our API docs
 Your technical team can review the [API documentation](https://staging.notifications.va.gov/developer/api_docs) and other technical information on our Self Service Portal.
 
-Callbacks can provide status updates per notification sent. Please reach out to VA Notify with a webhook url and long lived bearer token to get started in Staging.
-
 To send a notification, you must first create a template in our Self Service Portal. There are different template types available (email/SMS). Once created, you can find a template ID under template details. This will be used in the API call to trigger the notification. Please note, if you use personalisations (dynamic content) in your template(s) you must include them in the notification request body.
+
+### vets-api
+For teams using vets-api to trigger notification requests, please see https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/va_notify/README.md
+
+## Delivery Status Callbacks
+Callbacks provide status updates per notification sent, so your team can track individual successes and failures. 
+
+### Callback Requirements
+- Provide a webhook URL for Staging and Production
+- VA Notify uses bearer tokens for authenticating with services when making a callback. The bearer token can be any form that the called service endpoint accepts. These should be long-lived, but not permanent, bearer tokens.
+    - This should be sent to VA Notify via encrypted VA email
+    - Each service will have their own policy for updating a long-lived bearer token. Contact VA Notify if an updated bearer token is required to meet security policies.
+    - We recommend not hardcoding acceptance of only a single bearer token, so bearer token updates are not disruptive.
+
+### Sample Information Included in Callbacks
+```
+"id":"6ba01111-f3ee-4a45-9d04-234asdfb6abbb9a",  -- this is the notification id
+"reference":null,  
+"to":"",  -- this is the recipient's contact info
+"status":"delivered",  -- this will specify the delivery status of the notification
+"created_at":"2023-01-10T00:04:25.273410Z",  
+"completed_at":"2023-01-10T00:05:33.255911Z",  
+"sent_at":"2023-01-10T00:04:25.775363Z",  
+"notification_type":"SMS",   -- this is the channel/type of notification
+"status_reason": "", -- populated if there's additional context on the delivery status
+"provider":"pinpoint"
+```
 
 ### Technical FAQ
 **What type of API is VA Notify?**
@@ -163,21 +183,7 @@ Tech Stack
 - Template id(s), Service id, and API Key differ by environment.
 
 **Is there anything our team can use for local testing to get familiar with VA Notify prior to building the notification trigger code?**
-- We have [postman collections](https://github.com/department-of-veterans-affairs/notification-api/tree/master/scripts/postman) that can be used for testing
-
-### Tips for using Postman
-
-You must populate the following variables:
-- service-api-key = [api key we provided via encrypted email]
-- service-id = [id for your service in the Self Service Portal, we can provide this to you]
-- sms-sender-id = [this will be provided to you if you are using SMS]
-    - Helps identify what phone number to send from along with other relevant metadata
-- template-id = [template id, which you can find in the Self Service Portal]
-    - Check which variable is referenced in the applicable POST
-- email-template-id = [template id, which you can find in the Self Service Portal]
-    - Check which variable is referenced in the applicable POST
-- sms-template-id = [template id, which you can find in the Self Service Portal]
-    - Check which variable is referenced in the applicable POST
+- See our [postman collection](https://github.com/department-of-veterans-affairs/notification-api/tree/master/documents/postman).
 
 **Sample Email request with personalisation**
 `{{notification-api-url}}/v2/notifications/email`
@@ -189,7 +195,6 @@ You must populate the following variables:
            "Name": "Jane"
        }
     }
-
 
 **Sample SMS request with personalisation**
 `{{notification-api-url}}/v2/notifications/sms`

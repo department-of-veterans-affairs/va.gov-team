@@ -13,7 +13,7 @@ As a [role], I want to [what] so that I can [do something].
 ## Tasks
 - [ ] Create prototype
 
-### Who needs to review? Check all that apply.   
+### Who needs to review? Remove rows that aren't needed for this work.   
 - [ ] CAIA (or content and a11y SME)
 - [ ] Shared support, e.g., Angela Fowler (a11y) and Sara Sterkenburg (IA)
 - [ ] Platform design (e.g., office hours or post in #platform-design-system)
@@ -22,7 +22,7 @@ As a [role], I want to [what] so that I can [do something].
 - [ ] Check in team (e.g., PO, DM, engineers)  
 - [ ] VA OCTO PO's (e.g., Kay, Kristen, Mark, Stephen)
 
-### Does Check-in PO need links or content for f/u tickets? 
+### Does Check-in PO need links or content for f/u tickets? If Yes, provide details in comments. 
 - [ ] Yes
 - [ ] No
       

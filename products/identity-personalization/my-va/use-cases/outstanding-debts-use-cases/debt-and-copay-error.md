@@ -1,5 +1,5 @@
 # My VA Outstanding Debts Use Case: Debts and Copays API Error
-**Last updated: July 17, 2022**
+**Last updated: February 16, 2024 - added Figma link**
 
 If a LOA3 user signs in and there is an error with *both* the debt and copay APIs, we will show an error in the Outstanding Debts section on My VA.
 
@@ -9,8 +9,8 @@ If a LOA3 user signs in and there is an error with *both* the debt and copay API
 * If this error occurs, we display a single error that states "**We can't access some of your financial information.** We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later."
 * When this error occurs, the user will also see a link to "Learn about VA debt". This links to the [VA debt management page](va.gov/resources/va-debt-management/). This link will be displayed directly below the error on desktop and mobile.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
-* [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
-* [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C52E7D43-E206-491B-AF3D-EFE11220AF05)
+* [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A224&mode=design&t=ACz9YR6bpwDeZvbB-1)
+* [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A706&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 ## How to reproduce
 * This is not reproducible in staging given that we can’t force errors from the backend.

@@ -1,6 +1,6 @@
 # Editor-facing research Plan for [Team, Product, Date]
 
-Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research) and add a link in the [UX research airtable](https://airtable.com/appmAWA5qxKq9qxFX/tbldzfPsD87QtCmQK/viwFTiq16RNmlQ3GM?blocks=hide).
+Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research).
 
 ## Background
 Briefly describe the background of your editorial experience initiative. 
@@ -77,9 +77,8 @@ Before writing your recruitment criteria, be sure to review the following resour
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
 - For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
+- Perigean cannot recruit VA employees or VSOs. Work with your VA UX lead or product owner to recruit these groups. Review the [Getting Started with Editor Recruitment](https://dvagov.sharepoint.com/:w:/r/sites/CMSTeam/Shared%20Documents/General/UX%20Research/Getting%20Started%20with%20Editor%20Recruitment.docx?d=w4648177aedb143e6bc9d481ddc1dd3ee&csf=1&web=1&e=BnLTKI) document on Sharepoint and remember that all editor recruitment must be kept on Sharepoint.
 - Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
 
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.

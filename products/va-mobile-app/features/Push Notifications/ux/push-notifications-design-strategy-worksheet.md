@@ -135,5 +135,5 @@ We will know we’re **right** when we see:
 
 ### References for this doc:
 [VA Mobile App - Comparative Analysis: Push Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/discovery/push-notification-comparative-analysis-2023.md) (2023)  
-[VA Mobile app - Discovery/Desk Research: Push Notification Best Practices](https://docs.google.com/document/d/1Scx3S-KtxGBQ-xamxPmmAZ9g1UK_26yqarZcHoPwpiQ/edit?pli=1#heading=h.3xsp1jk9di3i) (2023)  
+[VA Mobile app - Discovery/Desk Research: Push Notification Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Push%20Notifications/discovery/push-notification-best-practices.md) (2023)  
 [VA Mobile app - Notifications UX Deep Dive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/comparative-feature-analysis/notifications-deep-dive.md#notifications-ux-deep-dive) (2020)    

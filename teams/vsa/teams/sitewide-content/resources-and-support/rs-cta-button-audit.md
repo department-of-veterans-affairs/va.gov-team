@@ -80,3 +80,4 @@
 | Health care | [Does VA cover Indian Health Service or Tribal Health Programs care?](https://www.va.gov/resources/does-va-cover-indian-health-service-or-tribal-health-programs-care) | Send your VA provider a secure message | Find your nearest VA health facility |
 | Health care | [Getting emergency care at non-VA facilities](https://www.va.gov/resources/getting-emergency-care-at-non-va-facilities) | Find urgent care locations|   |
 | Health care | [Military sexual trauma and disability compensation](https://www.va.gov/resources/getting-emergency-care-at-non-va-facilities) | File for disability compensation online| Get care for MST  |
+| Decision reviews and appeals | [VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/)                                           | Get help from a representative or VSO                         |                 |  

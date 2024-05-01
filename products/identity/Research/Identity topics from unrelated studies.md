@@ -3,11 +3,34 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 
 ## Copy this section
 ### Study name:
-- **Team/Researcher:**
+- **Team/Researcher:** 
 - **Date:**
 - **Link to study:**
 - **Takeaway**:
 ----
+### Study name: Federal Header Authenticated Menu Usability
+- **Team/Researcher:** Liz Lantz, Authentciated Experience
+- **Date:** 1/31/2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/discovery-research/authenticated-menu-usability)
+- **Takeaway**: A screenreader participant, who had very little experience using the web or signing into websites, listened to the sign-in modal. After listening to the dialog box, they assumed they needed to call in to create an account. The rest of the content in the modal made no sense to them and they weren't sure how to proceed.  It's probably appropriate for them to call and get help, given the lack of familiarty with signing into websites.
+
+
+### Study name: MHV on VA.gov secondary navigation comparison research
+- **Team/Researcher:** My HealtheVet on VA.gov Cartography Team
+- **Date:** 1/25/2024
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study)
+- **Takeaway**: At the beginning of their session, P6 talked about how confusing it is to have multiple sign-in options. ([session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/session-notes/2024-1-25-p6.md#p6))
+
+  > That’s a good question because when I sign in, there’s like 3 or 4 different access points, and I have been trying to use, and it keeps coming up, the newest one that’s there, although I think I’m using ID.me lately. But, frankly, it’s al little bit confusing which one to use. Sometimes they pass you to another place where you have to enter the password again to get in. I have used other sites for other research and interest I have about faiciltes and recreational opportunities but pretty much I go tot he top one. And life would be so much easier for me if there was only one.
+
+### Study name: Federal HF usability testing--Phase 1
+- **Team/Researcher:** Sitewide, Cindy Merrill
+- **Date:** 12/20/20203
+- **Link to study:** [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT)
+- **Takeaway**: When asked if there was anything else they'd like to share, P8 shared frustrations with 2FA:
+  
+> I always have to do two factor authentication on the website. I would like the option of don’t require 2FA each time I log in with this specific computer and this IP address. It gets a little annoying. I think it actualy does give me that option but it never remembers it...As soon as the page times out, I have to do it again.
+
 ### Study name: Veteran Status, Use Case Discovery
 - **Team/Researcher:** Veteran Status, Cara Frissell
 - **Date:** 12/18/2023
@@ -40,3 +63,13 @@ If anything comes up related to Identity Team work (e.g. sign in, sign out, MFA,
 - **Link to study:** [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md)
 - **Takeaway**: [Relevant finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md#participants-were-most-confused-that-two-different-sites-list-their-appointments)
 
+
+### Study name: Ask VA: Submit an inquiry (Round 1)
+- **Team/Researcher:** Ask VA, Tyler Gindraux
+- **Date:** February 2024
+- **Link to study:** [Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Findings.md)
+- **Takeaway**: Many Veterans shared issues they have with signing in. One participant mentioned being 'kicked out' and having to sign back in, sometimes multiple times in a day. Another participant shared that their son, who is under 18, needed to fill out a GI Bill form. But they weren't able to (or didn't think they were able to) create their own sign in credential/account without a state-issued ID:
+
+> "There is never anything that says, 'Remember this device.' There have been times where I've had to log in multiple times during the day and every time I got to wait on that doggone secure access code verification code, whatever you want to call it. I mean, this is a desktop computer. I'm not taking it anywhere. I'm mobility challenged. That kind of stuff, not being able to just click it to sign in. Remember this device."
+
+> "To be able to sign up and register your own account online - besides being 18 – you need to give the VA a proof of ID, a state ID. Usually I guess they're thinking about driving license. Well, my son [...] doesn't have any driving license. [...] So he doesn't have any state ID. His only ID is a US passport. [...] And the VA doesn't take it on the list of acceptable ID, they only take state ID. That doesn't make any sense. So we couldn't apply for its benefits for these main two reasons, he is not 18 yet and he doesn't have a state ID only a passport."

@@ -10,7 +10,7 @@
 - [Roadmap](#roadmap)
 - [Scope](#scope)
 - [Artifacts](#artifacts)
-- [Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#team)
+- [Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-product-brief.md#team)
 
 # Product overview
 Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families, and caregivers. The pages provide the location details needed to prepare a Veteran to visit and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. 
@@ -50,7 +50,7 @@ As a Veteran, I need to learn more about my VA medical facility so that I unders
 
 ## Relevant initiatives
 - Lovell Federal health care
-  - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell/lovell-initiative-brief.md)
+  - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-initiative-brief.md)
 - Community Living Centers
   - [README](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/community-living-centers)
 - Domiciliaries

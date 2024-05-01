@@ -255,8 +255,8 @@
 ## Appendix
 
 ### Vet Center Research
-1. [Outreach Specialist Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/outreach-specialist-interviews/research-findings.md) - 09/2020
-2. [Veteran Client Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-interviews/research-findings.md) - 10/2020
-3. [Usability Tests - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/veteran-usability-tests/research-findings.md) - 1/2021
-4. [Usability Tests - Round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/discovery/client-usability-tests/research-findings.md) - 2/2021
-5. [Vet Center Services Taxonomy Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/services-taxonomy/taxonomy-study/research-findings.md) - 4/2021
+1. [Outreach Specialist Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/outreach-specialist-interviews/research-findings.md) - 09/2020
+2. [Veteran Client Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-interviews/research-findings.md) - 10/2020
+3. [Usability Tests - Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-usability-tests/research-findings.md) - 1/2021
+4. [Usability Tests - Round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/client-usability-tests/research-findings.md) - 2/2021
+5. [Vet Center Services Taxonomy Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2021-03-services-taxonomy/taxonomy-study/research-findings.md) - 4/2021

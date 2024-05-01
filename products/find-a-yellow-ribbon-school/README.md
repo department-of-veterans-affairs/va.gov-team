@@ -1,18 +1,18 @@
 # Yellow Ribbon MVP Product Outline
 
-Staging: https://staging.va.gov/education/yellow-ribbon-participating-schools/
+https://va.gov/education/yellow-ribbon-participating-schools/
 
 
 ## POCs
 
-- Slack channel: [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
+- Slack channel: [#iir-product-teams-public](https://dsva.slack.com/channels/iir-product-teams-public)
 
   
 
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
-| Dave Conlon   | Public Websites Product Owner                 |
-| Wes Rowe      | Public Websites Product manager               |
+| Jeff Barnes   | VA Product Owner                              |
+| Pete Egan     | IIR Product manager                           |
 | Luke Tickner  | Education/GI Bill Comparison Tool SME Contact |
 | Tammy Hurley  | Yellow Ribbon SME Contact                     |
 | Darrell Neel  | GI Data Service Tech SME Contact              |

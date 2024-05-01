@@ -1,5 +1,71 @@
 # Benefits Disability Experience - Product sync 
 
+### Date: April 25th' 2024  
+- Working w team Carbs to distrbute work and further increase collaboration
+-    FF work
+-    ensuring veteran UX continuity in the event of any system update or change (TE rollout, 526 updates, system rollback, etc.)
+- im interested in the update on your meeting regarding team 2 scrubbing in on TE support, and have a question about how we're approaching it
+- It is possible/feasible to test locally with staging endpoints? We call this 'Local submit'
+
+
+
+### Date: Jan 18' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submit Migration
+   -  Current state
+   -  Get Steve upto date with discovery done so far and Aurora's diagram
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access?
+   - Not urgent - Steve to look into this
+- Toxic Exposure
+  - Checbox list and loop function not supported by the forms library
+  - How much is significant effort?
+  - Would forms library adopt these changes if we make the change? Potential maintenance problem?
+- Research shareout with stakeholders
+  
+### Date: Jan 11' 2024       
+### Participants: Rakshinda, Austin, Emily, Steve 
+### Topics Covered:
+- Submission Migration
+   - Share work in progress for discussion with Lighthouse next week
+     - Diagram
+     - Usecases
+- Prioritization of what's next  
+
+### Date: Jan 4' 2024       
+### Participants: Rakshinda, Austin, Emily, Shannon, Steve 
+### Topics Covered:
+- Submission Polling
+   - Is there an option of asking Lighthouse to change the polling implementation?
+     - Emily, Steve to reach out to Janet, Micheal Harlow on this
+     - Team 1 and 2 to look at options other than polling
+     - Look at best practices for sync responses
+   - Concerns around scalability and questions around "how many times/how often/when do we stop/what then?"
+   - Team 1 is currently in discovery mode for polling solution for 526 submission
+   - Team 1 and 2 to look at all the use cases to see if different components need to be built for back-up submission (batch) or document upload ( different service)
+- Dev access to SHARE/BGS to delete pending claims
+   - Can contractors get this access? 
+### Date: Dec 21' 2023       
+### Participants: Rakshinda, Austin, Emily, Shannon 
+### Topics Covered:
+- Toxic Exposure
+  - Concern around not offering TE for Claims for Increase in the MVP
+    
+- Polling Block'o'palooza
+  - Polling solution for each pathway for document upload
+  - batch process for 4.2 needs to be done before migration
+  - Document pre-reqs for submit migration - team 2
+  - Block submit canary launch for a polling solution and success response with VBMS ID
+  - Submit, Backup submission , Document Upload, ancillary forms
+    -  What's the time period for polling and receiving actual request response
+    -  Simple Form has already implemented this for Benefits Intake - they handle a package vs 526 claims, documents and forms
+  - Pair Team 1/2 for this development
+    - Start a discovery ticket on polling and display solution
+    - Sam is already involved
+- EVSS sends success, retriable and non-retriable error
+- Austin creating a summary document
+       
 ### Date: Dec 14' 2023       
 ### Participants: Rakshinda, Austin, Emily, Shannon 
 ### Topics Covered:

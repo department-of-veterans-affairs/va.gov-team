@@ -12,22 +12,18 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 ### Program Management
 - Seth Eheart - Program Manager
 
-### Project Management
-- Jennifer Brown - Project Manager
-
 ### Product & Data
 - Matt Hall - Product Leadership
-- Adam Bischoff - Product
+- Adam Kasmier - Product
 - Stacy Blackwood - Product
-- Meko Hong - Product
+- Alayna Abel - Product
 - Kelly Lein - Product
-- Greta Opzt - Data
+- Victor Ezeamama - Data
 
 ### UX
 - Jennifer Ecker - UX Leadership
 - Brea Blackwelder - Accessibility Design
 - Holly Collier - Design
-- Melissa Lefevre - Design
 - Lauren Russell - Design
 - Jessica Woodin - Design
 - Liz Straghalis - Research
@@ -49,6 +45,7 @@ Nearly 40% of all traffic to VA.gov comes from users on their mobile devices. Th
 - Rachel Bontrager - Engineer, QA
 - Therese Dickson - Engineer, QA
 - Tom Gammons - Engineer, QA
+- Charnelle Domguia - Engineer, Dev Ops
 
 ## Communications
 - DSVA Slack: #va-mobile-app

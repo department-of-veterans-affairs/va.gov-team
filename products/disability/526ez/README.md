@@ -54,12 +54,12 @@
  Team 1: 
 - Product manager: Rakshinda Aslam
 - Design and Research: Mike Eng, Kate Allbee, Evelyn Davis
-- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommasina Miller
+- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, MJ Wojcik
 - Delivery: Anneliese LaTempa
 
  Team 2:
-- Product manager: Austin Price
+- Product manager: TBD
 - Design and Research: Julie Pedtke, Nichole Nicholas
-- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal
+- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal, Shaun Burdick
 - Delivery: Sarah Ortiz Shields
 

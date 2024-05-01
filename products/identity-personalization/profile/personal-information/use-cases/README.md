@@ -1,6 +1,6 @@
 # Personal Information Use Cases
 
-**Last updated:** August 1, 2023
+**Last updated:** February 15, 2024
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
@@ -14,7 +14,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 ## Edge cases
 
 ### Flags
-There are no flags associated with this feature.
+There are no direct flags associated with this feature. However indirectly, if a user's account is flagged they will be unable to see this section of the profile. [For more details on blocking see the account security FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/account_security/frontend_documentation.md#fiduciary-flag--blocked-profile-logic).
 
 ### Validation
 There are no validation use cases for this feature.
@@ -24,4 +24,4 @@ There are no validation use cases for this feature.
 - [Something has gone wrong and VA.gov can't display legal name and/or disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/system-cant-display-disability-rating-or-legal-name.md)
 
 ## Flow diagrams
-- [Mobile page of Sketch file](https://www.sketch.com/s/ba254d92-3c3d-4eba-825d-d7f5bda35565/p/BE56DBF8-B1BF-4A60-9379-DC9F2C5098BB/canvas) has user flow
+- [Mobile page of design file](https://www.figma.com/file/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?type=design&node-id=0%3A1&mode=design&t=3BjAesVLktQXS6X2-1) has user flow

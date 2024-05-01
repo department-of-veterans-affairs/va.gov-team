@@ -1,6 +1,6 @@
 # IA Design for After Visit Summary
 **STATUS: In Progress**
-Last Updated: 8/16/23 by KO after AVS study findings finalized
+Most recently updated: 3/18/2024 by SS; previously updated on 8/16/23 by KO after AVS study findings finalized
 
 **Team:** Appointments and Medical Records Joint initiative
 - appointments will be writing and releasing the code
@@ -54,8 +54,7 @@ Users can access the AVS from both the Appointments and Medical records sections
 ## <a name="redirects"></a>Redirects <br>
 | URL with empty directory                                                  | Redirect to                                                                                                                                   | Notes                                                                                                                                                                                                                                                                                                                                            |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| www.va.gov/my-health/medical-records/summaries-and-notes/visit-summary | www.va.gov/my-health/appointments/past or if that's not yet available, www.va.gov/health-care/schedule-view-va-appointments/appointments/past | The purpose of this redirect is to make sure users don't land on empty directories.                                                                                                                                                                                                                                                              |
-| www.va.gov/my-health/medical-records/summaries-and-notes               | va.gov/my-health/medical-records/   or if that's not yet available, va.gov/my-health                                                          | If the medical records landing page (/medical-records/) is released, then we will redirect /summaries-and-notes/ there. We believe that the landing page should be released in time.  If the medical records landing page (/medical-records/) does not exist, then /medical-records/ and /summaries-and-notes/ will redirect to the MHV landing page (/my-health/) |
+| www.va.gov/my-health/medical-records/summaries-and-notes/visit-summary | www.va.gov/my-health/medical-records/summaries-and-notes | The purpose of this redirect is to make sure users don't land on empty directories.                                                                                                                                                                                                                                                              |
 
 <hr>
 <hr>

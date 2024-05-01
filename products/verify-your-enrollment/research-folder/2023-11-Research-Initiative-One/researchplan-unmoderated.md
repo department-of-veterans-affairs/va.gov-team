@@ -1,4 +1,4 @@
-# Research Plan for VFS, VYE-Verify Your Enrollment, November 2023
+# Research Plan for VFS, VYE-Verify Your Enrollment, March 2024
 
 ## Background
 [VYE Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/product-outline.md)
@@ -64,17 +64,10 @@ Additional generative research will help inform future solutions and enhancement
 - Existing processes are sufficient to bring Veterans needing to verify enrollment to the VYE tool (e.g., email prompts, Google search, onsite search, etc.).
 - Veterans might prefer IVR or text-based verification processes for managing enrollment. 
 
-**There are things we don't know about our Veterans.**
-- We do not have documented research on our users and are anticipating learnings to come from open-ended conversation.  
-
 ## Methodology	
-We will use a variety of methods to accomplish our research goals:
-
-- Remote, moderated usability test and semi-structured interview
+We will use two unmoderated tools to accomplish our research goals:
 - Chalkmark (unmoderated)
 - OptimalSort (unmoderated)
-
-A remote, moderated usability test and semi-structured interview will be the primary vehicle for gathering feedback during this research process. A single conversation guide will be produced to gather both evaluative and generative feedback. 
 
 We will utilize Chalkmark to provide evaluative results and first-click analysis for the prototype. Participants will be given a few simple tasks and will be asked where they would go to accomplish the task. 
 
@@ -82,49 +75,33 @@ OptimalSort will be used for an open card sort to ensure our labeling structure 
 
   
 ### Location
-All interviews will be conducted online on mobile or desktop devices via Zoom. Usability test sessions will ask participants to review a Sketch-based prototype. Participants may be asked to share their screen.
+The tests will be conducted online at the participants leisure. Chalkmark users will review a Figma-based prototype. Participants may be asked to share their screen.
 
 ### Research materials
-For moderated usability tests: 
-- [Conversation guide](https://va.gov) - _Coming soon_
-- [Prototype](https://va.gov) - _Coming soon_
-
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](https://va.gov) - _Coming soon_
-- [Link to prototype or OptimalSort session for group A](https://va.gov) - _Coming soon_
-- [Link to prototype or OptimalSort session for group B](https://va.gov) - _Coming soon_
-
+- [Link to OptimalSort outline](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/card-sort.md)
+- [Link to Chalkmark outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/research-folder/2023-11-Research-Initiative-One/chalkmark.md)
 	
 ## Recruitment	
 
 ### Recruitment approach
-Our intended audience for this study is Veterans who have an active award for:
+Our intended audience for this study is Veterans who are currently utilizing the following programs or will be in the future:
 - MGIB-Active Duty (Chapter 30)
 - MGIB Selected Reserve (Chapter 1606)
 - Reserve Educational Assistance Program (REAP, Chapter 1607)
 - Veterans Retraining Assistance Program (VRAP)
+
+We would like to _exclude_ Veterans who currently use or plan to use Post 9/11 education benefits. 
 
 We will use Perigean to recruit participants. As such, we’d like to schedule a kickoff call with Perigean as soon as the research plan is approved, to review the survey and email content that will be sent to participants.
 
 We will be utilizing a lean maximum variation strategy for our studies, if possible. 
 
 ### Recruitment criteria
-For remote, moderated usability interviews we would like 24 participants (assuming 16 completions). 
-
-For unmoderated Chalkmark and OptimalSort tests, we would like 27 participants each, according to the following cohorts (in groups of 9, according to [PRA "Fewer than 10" rule](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)): 
-- Veterans on Active Duty (Chapter 30)
-- Veterans in Selected Reserve (Chapter 1606)
-- Veterans with active award (for any above program) with disabilities
-
-Participants should meet VA MVS (Maximum Variation Sampling) criteria of:
-- 50% aged 55-64+
-- 50% with an identified cognitive disability
-- 50% primarily mobile users
-- 30% people of color
-- 25% in a rural area
-- 25% without a degree
-- 17% with immigrant origins
-- 10% women
+We would like 18 participants each for Chalkmark and OptimalSort (total of 36), according to the following cohorts (in groups of 9, according to [PRA "Fewer than 10" rule](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)): 
+- Chalkmark - Males currently on active duty
+- Chalkmark - Females currently on active duty
+- OptimalSort - Males _not_ currently on active duty
+- OptimalSort - Females _not_ currently on active duty
 
 **Primary criteria (must-haves)**
 Participants must have an active award for one of the following programs:
@@ -133,50 +110,26 @@ Participants must have an active award for one of the following programs:
 - Reserve Educational Assistance Program (REAP, Chapter 1607)
 - Veterans Retraining Assistance Program (VRAP)
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+Please note that users of Post 9/11 GI Bill benefits are not eligible for this activity unless also utilizing one of the above programs.
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+**Recruitment Criteria**
+1. Do you currently use education benefits or plan to use education benefits under the following programs:
+- MGIB-Active Duty (Montgomery GI Bill - Chapter 30)
+- MGIB Selected Reserve (Montgomery GI Bill - Chapter 1606)
+- Reserve Educational Assistance Program (REAP, Chapter 1607)
+- Veterans Retraining Assistance Program (VRAP)
 
+Please note that users of Post 9/11 GI Bill benefits are not eligible for this activity unless also utilizing one of the above programs.
+
+2. Please select the program(s) under which you currently use education benefits or plan to use education benefits:
+- MGIB-Active Duty (Montgomery GI Bill - Chapter 30)
+- MGIB Selected Reserve (Montgomery GI Bill - Chapter 1606)
+- Reserve Educational Assistance Program (REAP, Chapter 1607)
+- Veterans Retraining Assistance Program (VRAP) 
 
 ## Timeline
-- 12/? 
-
-### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
-
-### Research sessions
-* Planned dates of research: 12/18/2023-12/31/2023
-
-### Length of sessions
-Each research session will be 45-minutes long with a buffer time of 15 mins between sessions. We’d like a maximum of two sessions per day.
-
-For sessions with AT, sessions should be scheduled for 75 minutes with a buffer of 15 minutes between sessions and a maximum of two sessions per day. 
-
-### Availability
-12/18 - 8am - 11am, 12pm - 1:30pm, 2pm - 530pm
-12/19 - 8am - 1:30pm, 2pm - 5:30pm
-12/20 - 8am - 1pm, 2pm - 3:30pm, 4pm - 5:30pm
-12/21 - 8am - 1pm, 1:30pm - 5:30pm
-12/22 - 10am - 1pm, 2pm - 5:30pm
-12/27 - 8am - 3:30pm, 4pm - 5:30pm
-12/28 - 8am - 1pm, 1:30pm - 5:30pm
-12/29 - 8am - 1pm, 2pm - 5:30pm
-
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+- 03/11 - Recruitment and testing begins
+- 03/30 - Testing ends 
 	
 ## Team Roles		
-- **Moderator**: Ryan Gray ryan.gray1@va.gov
-- **Research guide writing and task development**: Ryan Gray ryan.gray1@va.gov	
-- **Participant recruiting & screening**: Ryan Gray ryan.gray1@va.gov
-- **Project point of contact**: Cassidy Beach cassidy.beach@va.gov, Ryan Gray ryan.gray1@va.gov
-- **Participant(s) for pilot test**: Ryan Gray ryan.gray1@va.gov
-- **Accessibility specialist**: TBD	
-- **Note-takers**: Ilyas Iman ilyas.iman@va.gov, Cassidy Beach cassidy.beach@va.gov, Naway Hussein nawar.hussein@va.gov
-- **Observers**: The team will manage invites for observers.
+Ryan Gray (ryan.gray1@va.gov) will serve as primary researcher and project point of contact for this project. 

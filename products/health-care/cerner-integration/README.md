@@ -1,5 +1,5 @@
 # DRAFT 
-Last updated 8/24/2023
+Last updated 3/4/2024
 
 This is a folder for the Cerner integration work. 
 
@@ -9,7 +9,7 @@ This is a folder for the Cerner integration work.
 
 | Product  | Status |  Note(s) |
 | ------------- | ------------- | ------------- |
-| VEText 2.0 (for Patient Check-in)  |  2 year ATO granted | Task Order awarded. |
+| [VEText 2.0](https://github.com/department-of-veterans-affairs/vetext/wiki/VEText-2.0-Cerner-MVP) | Build, Testing | ------------- |
 | Applications for Visit Summaries (AVS) | Future Phase  |  |
 | MyHealtheVet (MHV) |  | ------------- |
 | [Covid-19 Patient Manager](https://github.com/department-of-veterans-affairs/covid-patient-manager/) (CPM) | Deployed in P0630 | ------------- |

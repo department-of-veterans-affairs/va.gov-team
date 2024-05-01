@@ -1,7 +1,16 @@
-`[WIP]`
 
+> [!CAUTION]
+> This page is no longer current and is being merged with [Anatomy of a CAIA Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/Ops/Anatomy%20of%20a%20CAIA%20ticket.md#anatomy-of-a-caia-ticket) which lives here: teams/CAIA/Ops/Anatomy of a CAIA ticket.md Please refer to the Anatomy of a CAIA Ticket as the :new: source of truth on tickets from CAIA.
+ 
 # CAIA Ticket Processes
+
 _The purpose of this documentation is to establish a clear way of work for the CAIA ticked work processes. Sets out involvement and ownership of CAIA processes, ceremonies, and meetings related to ticketed work._
+
+> [!WARNING]
+> STOP! You are about to read a page that is no longer current. See the note at the top of this page, to access current information. 
+    
+
+<details><summary>Toggle to view the old version of this page that is no longer valid</summary>
 
 ## Documentation Purpose
 
@@ -130,9 +139,9 @@ VFS teams can request assistive technology research support through CAIA, where 
 - Similar assigning and labeling rules apply to SUPER EPICS that also apply to EPICS.
 - Labels and assignees are tied to tickets.
 ### Labels
-4 main labels are used to indicate the CAIA work stream involved with the work:
--  ‘sitewide CAIA’ Used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
--  `sitewide CAIA` used to denote CAIA content involvement with the work.
+5 main labels are used to indicate the CAIA work stream involved with the work:
+-  `sitewide CAIA` - used to associate tickets within GitHub with the CAIA team. Also used as an automation trigger for adding newly created tickets to GHProjects. Default label for intake request.
+-  `sitewide content` used to denote CAIA content involvement with the work.
  - `sitweide accessibility` used to denote that CAIA a11y has involvement with the work.
  - `sitewide IA`- used to denote that the CAIA Information Architecture team has work involvement.
  - `CAIA-a11y-research` - used to denote CAIA research involvement for Assistive Technology support.
@@ -155,14 +164,12 @@ The following fields are currently being used in GitHub Projects, and should be 
 | **Closed Date**                   | The date the ticket was closed out by a CAIA team member.         |
 | **Target Date**                  | If the ticket has a requested deadline or date the CAIA work needs to be completed by, enter that date here.         |
 | **Start Date**                  | The date that work on the ticket started, or was moved into `In Progress`         |
-| **Quick Fix**                   | This is a yes/no question, in order to identify if this can be closed quickly or not.         |
 | **Estimate**                   | The estimate of the work to be done, as a whole, by CAIA based on fib.         |
 | **Actual**                   | Once the ticket is closed, compare the estimate with the actual amount of work that was done. Add this number here.         |
 | **Priority**                   | Choose the drop-down that best applies to the work being requested. This helps to segment and sort CAIA's workload. **High**: Work should be tackled asap. **Medium**: Work is standard or regular priority. **Normal**: Default label until evaluation has been completed.**Low**: Low priority or non-urgent work. **Chipper**: A project available to work on as time allows.         |
 | **Sprint**                   | Add the sprint that the work is done in. If it spans more than one sprint, this will need to be updated.         |
 | **Copy Edit Date**                   | Date copy edit is required by.         |
 | **Originator**                   | Select one of the following options: CAIA Internal; Email Request; Slack Request;OCTO Priority; Intake Form; or PO Ticket.         |
-| **OCTO Priority**                   | This is a yes/no question, that is used in reporting to identify the percentage of work that is OCTO related.         |
 | **Last Checked**                   | This field should be updated when the ticket is reviewed.         |
 
 </details>
@@ -192,14 +199,14 @@ _This is a sample scenario for a high priority ticket created by a VFS team usin
 </details>
 
 ## Closing Tickets
-If  CAIA work on a ticket has been completed, the person working on that ticket can move the ticket to `validate`, or if no validation is required, a ticket can be moved directly to closed.
-### Who can close out tickets? 
+If  CAIA work on a ticket has been completed, the person working on that ticket can move the ticket to `validate`, or if no validation is required, a ticket can be moved directly to closed and recorded in the capacity tracker.
+
 <details><summary>Toggle to learn how to close a CAIA ticket</summary>
 
-**Simple answer - YOU CAN!** 
-- If you believe the work you have done on a ticket has been satisfactorily concluded, you can move the ticket to `validate` or `closed`.
+- If the work on a ticket is complete (for example, an updated page is live or a deliverable has been sent to a stakeholder), you can move the ticket to `closed`.
 - Tickets that are closed should have all of their fields completed, prior to closing out the ticket.
-- Tickets that are closed should be reported by the CAIA team member on the capacity tracker, for the assignees involved. 
+- Tickets that are closed should be added to the [capacity tracker]([url](https://docs.google.com/spreadsheets/d/1D1gNZlAIYbOIL9epKA_AadT5rdDCIu5IweRbRxDf288/edit#gid=623845405)), for the assignees involved.
+- A ticket should only be moved to `validate` if there is specific validation criteria (for example, a when launching a new tool that needs a short window of time post-launch for the product team to spot bugs or review live pages). In this case, please revisit and close once followup is complete.
 </details>
 
 ## Refinement Meetings
@@ -208,3 +215,4 @@ If  CAIA work on a ticket has been completed, the person working on that ticket 
 - Terry & Lily refinement
 
 
+</details>

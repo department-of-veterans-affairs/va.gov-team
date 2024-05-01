@@ -1,4 +1,4 @@
-## **Personalized Home screen**
+# Personalized Home screen
 
 
 ### Living documentation of measurement purpose & plan
@@ -13,7 +13,6 @@ See [archive folder](https://github.com/department-of-veterans-affairs/va.gov-te
 This data project is being undertaken by the VA Health & Benefits Mobile App team. We aim to center perspectives of **<span style="text-decoration:underline;">Veterans who are already using the app</span>** when making decisions and defining success.
 
 **_Our core motivation is_** to measure if <span style="text-decoration:underline;">personalized home screen content</span>:
-
 
 
 1. Helps <span style="text-decoration:underline;">new</span> and <span style="text-decoration:underline;">existing users</span> <span style="text-decoration:underline;">keep up with</span>/ <span style="text-decoration:underline;">manage</span> their <span style="text-decoration:underline;">VA interactions</span> <span style="text-decoration:underline;">with the app</span>
@@ -228,70 +227,70 @@ For all of the metrics, there are potential confounding factors, such as:
 
 #### Task completion rate
 
-**Calculation:** Per task type and grouped by the number of possible tasks of that type for a given user.
+* **Calculation:** Per task type and grouped by the number of possible tasks of that type for a given user.
 
 
 
-* **Numerator:** Tasks attempted
-* **Denominator:** Possible tasks as indicated by active items on personalized home screen
+  * **Numerator:** Tasks attempted
+  * **Denominator:** Possible tasks as indicated by active items on personalized home screen
 
-**Target:** Post-implementation rate > Pre-implementation rate
+* **Target:** Post-implementation rate > Pre-implementation rate
 
 
 
-* To establish a pre-implementation baseline, front end code to make the new API calls for the personalized home screen content and analytics to capture metadata about those calls must be put in place. 
+  * To establish a pre-implementation baseline, front end code to make the new API calls for the personalized home screen content and analytics to capture metadata about those calls must be put in place. 
 
-**Proxy rationale:** This metric would be our main **proxy for user knowledge** based on the following logic.
+* **Proxy rationale:** This metric would be our main **proxy for user knowledge** based on the following logic.
 
-* **If**:
+  * **If**:
     * personalization increases users’ knowledge of what they can do with the app in the present moment
     * increased knowledge leads to increased utilization
-* **Then**:
+  * **Then**:
     * A relative increase in the amount of tasks attempted implies that users are gaining knowledge from personalization.
 
 
 #### Retention longevity
 
-**Calculation:** At 30, 60, 90, 180, and 365 days after first interaction with the personalized home screen and segmented by task types and by new versus existing users.
+* **Calculation:** At 30, 60, 90, 180, and 365 days after first interaction with the personalized home screen and segmented by task types and by new versus existing users.
 
-* **Numerator:** users who complete a task(s)
-* **Denominator:** all users who saw the personalized home screen
+  * **Numerator:** users who complete a task(s)
+  * **Denominator:** all users who saw the personalized home screen
 
-**Target:** Versions with personalized home screen > Versions without
-
-
-
-* This comparison will need to account for other differences between versions as well as login issues. There will also be variation depending on the primary purpose of a Veteran’s use of the app at a given time. Longer-term comparisons may require looking back in time before the personalized home screen existed as not many users may be left on version without it as time passes.
-
-**Proxy rationale: **This metric would be our main **proxy for user valuation** based on the following logic.
+* **Target:** Versions with personalized home screen > Versions without
 
 
 
-* **If**:
+  * This comparison will need to account for other differences between versions as well as login issues. There will also be variation depending on the primary purpose of a Veteran’s use of the app at a given time. Longer-term comparisons may require looking back in time before the personalized home screen existed as not many users may be left on version without it as time passes.
+
+* **Proxy rationale:** This metric would be our main **proxy for user valuation** based on the following logic.
+
+
+
+  * **If**:
     * Users who value the app are more likely to use it
     * What users know about what the app can do for them in the current moment affects their valuation of it
     * Personalization can increase a user’s knowledge of the app
-* **Then**:
+  * **Then**:
     * Improved retention (use of the app over time) implies that users are gaining knowledge from personalization that increases their valuation of the app. 
 
 
 #### Navigation path preference
 
-**Calculation:** For a given screen that can be navigated to from the personalized home screen segmented by new versus existing users.
+* **Calculation:** For a given screen that can be navigated to from the personalized home screen segmented by new versus existing users.
 
 
 
-* **Numerator:** Number of distinct visits to that screen from clicks on personalized home screen
-* **Denominator:** Number of distinct visits to that screen via any method except for back navigation from child screens or deep linking push notifications.
+  * **Numerator:** Number of distinct visits to that screen from clicks on personalized home screen
+  * **Denominator:** Number of distinct visits to that screen via any method except for back navigation from child screens or deep linking push notifications.
 
-**Target:** Home screen navigation > organic navigation
+* **Target:** Home screen navigation > organic navigation
 
-**Proxy rationale:** This metric would be our main **proxy for user satisfaction** based on the following logic.
+* **Proxy rationale:** This metric would be our main **proxy for user satisfaction** based on the following logic.
 
 
 
-* **If**:
+  * **If**:
     * Users who have multiple navigation paths will prefer and use more the way that is most satisfying 
     * Navigating via the personalized home screen is more satisfying than organically navigating
-* **Then**:
+*   **Then**:
     * Personalized home screen navigation will outpace organic navigation.

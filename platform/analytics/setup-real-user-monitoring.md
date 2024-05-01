@@ -186,8 +186,20 @@ These are exposures of PII/PHI (in staging) we've encountered while setting up R
 
   <img width="450" alt="What is your primary phone with 2 radios showing mobile & home phone with the actual number in the radio description" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/62b7d907-da86-4d22-aa88-131917419418">
 
-- In the RUM events side panel, if a Veteran clicks on PII (even non-interactive elements), the text inside that element will display in the event text. To fix this, make sure to include a `data-dd-action-name` for every instance.
-    <img src="https://user-images.githubusercontent.com/136959/262451382-1c467eec-1d30-4c3f-b553-775a8e82986e.png" alt="RUM dashboard showing a click on date of birth: February 14, 1... event">
+- In the RUM events side panel, if a Veteran clicks on PII (even non-interactive elements), the text inside that element will display in the event text. To fix this, either:
+   - make sure to include a `data-dd-action-name` for _every_ element.
+       <img src="https://user-images.githubusercontent.com/136959/262451382-1c467eec-1d30-4c3f-b553-775a8e82986e.png" alt="RUM dashboard showing a click on date of birth: February 14, 1... event">
+   - If you do not need to see information about which element is clicked, you may globally override all element names by adding the following property to the RUM configuration:
+      ```
+      beforeSend: event => {
+        // Prevent PII from being sent to Datadog with click actions.
+        if (event.action?.type === 'click') {
+          // eslint-disable-next-line no-param-reassign
+          event.action.target.name = 'Clicked item';
+        }
+        return true;
+      },
+      ```
 
 - On the review & submit page some content may be automatically rendered. This can be fixed by including a `ui:reviewWidget` function in the uiSchema:
 

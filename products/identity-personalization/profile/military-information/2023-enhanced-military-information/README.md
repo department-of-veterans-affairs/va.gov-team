@@ -1,8 +1,6 @@
 # Initiative outline: Enhanced Military Information
 
-`DRAFT`
-
-**Last Updated: 12/6/2023** updated ToC
+**Last Updated: 2/1/24** Added specifics of the original request
 
 
 ## Table of Contents 
@@ -51,6 +49,20 @@ Expansion of the military information available on VA.gov will focus on the thre
 - Linking to ILER Records
 - Allowing for edits/updates to ILER records
 
+### Original request
+
+These are the details of the original request from Trish Dang and Melissa Rebstock, on behalf of the VA/DoD folks who are working to figure out how we can meet the letter of the law with PACT Act requirements:
+
+1. Expose the following additional data points on VA.gov: 
+  - Dates of deployment and branch(es) of service (note: we already show this)
+  - Units with which the veteran served
+  - Deployment locations, and start/end dates
+  - Military occupational specialties
+  - Training courses
+  - Military awards and decorations
+2. Link to a PDF copy of someone's ILER record.
+3. Provide guidance on how to update the record if it is incomplete. The exact flow for this is still being determined, but MVP is likely providing a number for folks to call.
+Over time, we can work to expand/improve this experience, but this should meet legal requirements so VA is in compliance with the congressional mandates set forth in the 2019 NDAA and PACT Act.
 
 ## MVP 
 The scope of those three things is expansive. With that in mind we're using the 526EZ form to inform our initial focus to the items that will most likely assist veterans when completing the 526EZ. 
@@ -78,7 +90,7 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 |Phase|Short Description (w/link)|Details|
 |:-:|---|---|
-|1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)||
+|1 / MVP|[Read Access for 526EZ Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-mvp.md)|we're in this phase, a readout to veo was presented where we detailed the lack of data quality|
 |2 |[Read Access for Additional Data Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-additional-read-access.md)||
 |3 |[ILER Read Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enhanced-military-info-iler-read-access.md)||
 |4 |[ILER Edit/Update Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/military-information/2023-enhanced-military-information/enahnced-military-info-iler-edit.md)|Thinking of this as not updating ILER but a link to a form for initiating an DoD data correction|
@@ -102,8 +114,6 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Key deliverables / artifacts
 
-(This is just a starting list. Feel free to add whatever is relevant here.)
-
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64861)
 - [Mural refinement ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695126310753/6ab8c3953d2eeaa067f666d5a03a754c5ded3d82?sender=uaa72d11015d3f7c704a64191)
 - [sensitive repo directory (contains stakeholder artifacts)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/identity-personalization/profile/military_info/2023-enhanced-military-information)
@@ -120,5 +130,5 @@ To meet the congressional mandates around elevating toxic exposure data in a way
 
 ## Design
 
-[Profile military information Sketch files](https://sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775)
+[Profile military information Figma files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=10%3A6355&mode=design&t=ITOJ8kb0R5q1NIdj-1)
    

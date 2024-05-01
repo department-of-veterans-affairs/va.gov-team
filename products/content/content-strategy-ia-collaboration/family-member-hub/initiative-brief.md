@@ -56,12 +56,34 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ### Key Performance Indicators (KPIs)
 
-- Increased traffic to the family member hub
-  - Baseline: 240,415 avg views/month as of 8/16/23 
-- Same or increased traffic to key family member pages moved from Veteran benefit hubs to the family member hu
-- No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
-- Improved overall satisfaction rating in the feedback survey of the family member hub page
+**1. Equivalent or increased traffic to the new family hub pages compared to current pages**
+- _past data from 8/17/22-8/16/23_
 
+Old page | Avg views/month 
+--- | --- 
+Family member hub | 240,770 
+Health care > Family health benefits | 73,144
+Disability > Dependent Indemnity Comp | 104,816 
+Education > Survivor dependent benefits | 96,709 
+Pension > Survivors Pension | 92,167 
+
+
+**2. Increased feedback score for able to complete task**
+**3. Increased overall average CSAT scores for family member hub and family-specific pages**
+- _past data from 8/17/22-8/16/23_
+
+Old page | CSAT | Trust | Able to complete task | 
+--- | --- | --- | ---
+Family member hub | 69.1% | 65% | 62%
+Health care > Family health benefits | 56.8% | 56.9% | 17%
+Disability > Dependent Indemnity Comp | 62.3% | 55% | 23%
+Education > Survivor dependent benefits | 58.9% | 61.8% | 20%
+Pension > Survivors Pension | 60.5%  | 60.7% | 34%
+
+https://va-gov.domo.com/page/825663825
+
+**Additional data points to watch**
+- No detriment to SEO of Veteran content due to similar family member content (i.e. same benefit has content in Veteran hub and family hub)
 
 
 ---

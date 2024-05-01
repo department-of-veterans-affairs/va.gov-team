@@ -1,0 +1,2293 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "va-carma-1010cg-papi",
+    "description": "Process API for 1010CG Submission Integration",
+    "version": "v2.0"
+  },
+  "paths": {
+    "/api/v2/application/1010CG/submit": {
+      "post": {
+        "operationId": "HTTPRequestHeaders_0",
+        "description": "Create a new 1010CG application with associated documents.",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "Accept",
+            "required": true,
+            "in": "header",
+            "default": "application/json",
+            "type": "string"
+          },
+          {
+            "name": "Content-Type",
+            "required": true,
+            "in": "header",
+            "default": "application/json",
+            "type": "string"
+          },
+          {
+            "x-amf-mediaType": "application/json",
+            "in": "body",
+            "name": "generated",
+            "schema": {
+              "$ref": "#/definitions/ApplicationAndDocumentRequest"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/ApplicationAndDocumentResponse"
+            }
+          },
+          "202": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/QueuedResponse"
+            }
+          }
+        },
+        "x-amf-security": [
+          {
+            "client-id-secret": []
+          }
+        ]
+      }
+    },
+    "/api/v1/application/1010CG/submit": {
+      "post": {
+        "operationId": "HTTPRequestHeaders_1",
+        "description": "Create a new 1010CG application.",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "Accept",
+            "required": true,
+            "in": "header",
+            "default": "application/json",
+            "type": "string"
+          },
+          {
+            "name": "Content-Type",
+            "required": true,
+            "in": "header",
+            "default": "application/json",
+            "type": "string"
+          },
+          {
+            "x-amf-mediaType": "application/json",
+            "in": "body",
+            "name": "generated",
+            "schema": {
+              "$ref": "#/definitions/ApplicationRequest"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/ApplicationResponse"
+            }
+          },
+          "400": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "404": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "405": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "406": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "415": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "500": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "501": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          }
+        },
+        "x-amf-security": [
+          {
+            "client-id-secret": []
+          }
+        ]
+      }
+    },
+    "/api/v1/application/1010CG/addDocument": {
+      "post": {
+        "operationId": "HTTPRequestHeaders_2",
+        "description": "Upload associated documents for a 1010CG application.",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "name": "Accept",
+            "required": true,
+            "in": "header",
+            "default": "application/json",
+            "type": "string"
+          },
+          {
+            "name": "Content-Type",
+            "required": true,
+            "in": "header",
+            "default": "application/json",
+            "type": "string"
+          },
+          {
+            "x-amf-mediaType": "application/json",
+            "in": "body",
+            "name": "generated",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/DocumentRequest"
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/DocumentResponse"
+              }
+            }
+          },
+          "400": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "404": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "405": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "406": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "415": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "500": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          },
+          "501": {
+            "description": "",
+            "x-amf-mediaType": "application/json",
+            "schema": {
+              "$ref": "#/definitions/type"
+            }
+          }
+        },
+        "x-amf-security": [
+          {
+            "client-id-secret": []
+          }
+        ]
+      }
+    }
+  },
+  "definitions": {
+    "ApplicationAndDocumentRequest": {
+      "title": "ApplicationAndDocumentRequest",
+      "description": "Request for submission a 1010CG application.",
+      "example": {
+        "data": {
+          "veteran": {
+            "fullName": {
+              "first": "John",
+              "last": "Doe",
+              "middle": "X.",
+              "suffix": "IV"
+            },
+            "ssnOrTin": "123-45-6789",
+            "dateOfBirth": "2000-09-11",
+            "gender": "M",
+            "address": {
+              "street": "1600 Pennsylvania Ave",
+              "street2": "Suite",
+              "city": "Washington",
+              "state": "DC",
+              "postalCode": "98765-4321",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "888-888-8888",
+            "alternativePhoneNumber": "777-777-7777",
+            "email": "john.doe@va.gov",
+            "vaEnrolled": false,
+            "plannedClinic": "635GF",
+            "lastTreatmentFacility": {
+              "name": "UCHealth Medical Center",
+              "type": "HOSPITAL"
+            }
+          },
+          "primaryCaregiver": {
+            "fullName": {
+              "first": "Joan",
+              "last": "Jerde",
+              "middle": "Bednar"
+            },
+            "ssnOrTin": "202901417",
+            "dateOfBirth": "1978-07-03",
+            "gender": "F",
+            "address": {
+              "street": "111 2nd St S",
+              "street2": "#501",
+              "city": "Seattle",
+              "state": "WA",
+              "postalCode": "98101",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "111-292-9933",
+            "alternativePhoneNumber": "999-023-9330",
+            "email": "primaryCaregiverEmail@email.com",
+            "vetRelationship": "Spouse",
+            "medicaidEnrolled": false,
+            "medicareEnrolled": true,
+            "champvaEnrolled": false,
+            "tricareEnrolled": true,
+            "otherHealthInsuranceName": "MyHealth Global"
+          },
+          "secondaryCaregiverOne": {
+            "fullName": {
+              "first": "Pauline",
+              "last": "Moen"
+            },
+            "ssnOrTin": "994328447",
+            "dateOfBirth": "1981-03-29",
+            "gender": "F",
+            "address": {
+              "street": "1022 East Dedraburgh",
+              "street2": "Unit 101",
+              "city": "Seattle",
+              "state": "WA",
+              "postalCode": "98101",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "111-829-3993",
+            "alternativePhoneNumber": "000-293-8484",
+            "email": "secondaryOneCaregiverEmail@email.com",
+            "vetRelationship": "Daughter"
+          },
+          "secondaryCaregiverTwo": {
+            "fullName": {
+              "first": "Derrick",
+              "last": "Jaskolski",
+              "middle": "J."
+            },
+            "ssnOrTin": "091449499",
+            "dateOfBirth": "1980-09-06",
+            "gender": "M",
+            "address": {
+              "street": "1946 Bahringer Way",
+              "city": "Seattle",
+              "state": "WA",
+              "postalCode": "98101",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "878-484-4999",
+            "alternativePhoneNumber": "878-889-4300",
+            "email": "secondaryTwoCaregiverEmail@email.com",
+            "vetRelationship": "Friend/Neighbor"
+          }
+        },
+        "metadata": {
+          "claimGuid": "67890",
+          "veteran": {
+            "icn": "1008596379V859838",
+            "isVeteran": true
+          },
+          "secondaryCaregiverTwo": {
+            "icn": "1008710092V112476"
+          }
+        },
+        "records": [
+          {
+            "attributes": {
+              "type": "ContentVersion",
+              "referenceId": "1010CG"
+            },
+            "Title": "Application for John Doe (Jan 2021)",
+            "PathOnClient": "John_Doe_1010CG_20210101.pdf",
+            "CARMA_Document_Type__c": "10-10CG",
+            "CARMA_Document_Date__c": "2020-03-30",
+            "VersionData": "IlRpdGxlIjogIlBPQV9WZXRlcmFuRmlyc3ROYW1lX1ZldGVyYW5MYXN0TmFtZV9TdWJtaXR0ZWREYXRlTU0tREQtWVlZWSI="
+          }
+        ]
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "data",
+        "metadata",
+        "records"
+      ],
+      "properties": {
+        "data": {
+          "title": "ApplicationData",
+          "description": "Veteran information.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "primaryCaregiver",
+            "veteran"
+          ],
+          "properties": {
+            "secondaryCaregiverOne": {
+              "title": "SecondaryCaregiver",
+              "description": "Veteran's first secondary caregiver.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "type": "string"
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the categiver.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "type": "string"
+                },
+                "dateOfBirth": {
+                  "description": "Caregiver date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "vetRelationship": {
+                  "description": "Relationship to the veteran.",
+                  "type": "string"
+                },
+                "gender": {
+                  "description": "Caregiver's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "type": "string"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "type": "string"
+                }
+              }
+            },
+            "primaryCaregiver": {
+              "title": "PrimaryCaregiver",
+              "description": "Veteran's primary caregiver.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "type": "string"
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the caregiver.",
+                  "type": "string"
+                },
+                "otherHealthInsuranceName": {
+                  "description": "Any other health insurance available.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "type": "string"
+                },
+                "dateOfBirth": {
+                  "description": "Caregiver date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "medicareEnrolled": {
+                  "description": "Whether enrolled in Medicare.",
+                  "type": "boolean"
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "tricareEnrolled": {
+                  "description": "Whether enrolled in TRICARE.",
+                  "type": "boolean"
+                },
+                "vetRelationship": {
+                  "description": "Relationship to the veteran.",
+                  "type": "string"
+                },
+                "champVaEnrolled": {
+                  "description": "Whether enrolled in ChampVA.",
+                  "type": "boolean"
+                },
+                "gender": {
+                  "description": "Caregiver's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "type": "string"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "type": "string"
+                },
+                "medicaidEnrolled": {
+                  "description": "Whether enrolled in Medicaid.",
+                  "type": "boolean"
+                }
+              }
+            },
+            "secondaryCaregiverTwo": {
+              "title": "SecondaryCaregiver",
+              "description": "Veteran's first secondary caregiver.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "type": "string"
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the categiver.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "type": "string"
+                },
+                "dateOfBirth": {
+                  "description": "Caregiver date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "vetRelationship": {
+                  "description": "Relationship to the veteran.",
+                  "type": "string"
+                },
+                "gender": {
+                  "description": "Caregiver's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "type": "string"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "type": "string"
+                }
+              }
+            },
+            "veteran": {
+              "title": "Veteran",
+              "description": "Veteran information.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the veteran.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "dateOfBirth": {
+                  "description": "Veteran date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the veteran.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "lastTreatmentFacility": {
+                  "title": "Facility",
+                  "description": "Most recent facility where veteran received treatment.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "name",
+                    "type"
+                  ],
+                  "properties": {
+                    "name": {
+                      "description": "Name of the facility.",
+                      "type": "string"
+                    },
+                    "type": {
+                      "description": "Facility type.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the veteran.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "plannedClinic": {
+                  "description": "Clinic the veteran plans to visit.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "gender": {
+                  "description": "Veteran's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "vaEnrolled": {
+                  "description": "Whetherveteran is enrolled at VA.",
+                  "type": "boolean"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "metadata": {
+          "title": "metadata",
+          "description": "Metadata for a post request.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "claimGuid",
+            "veteran"
+          ],
+          "properties": {
+            "secondaryCaregiverOne": {
+              "title": "application-request-secondary-caregiver",
+              "description": "",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "IC number for a secondary caregiver",
+                  "type": "string"
+                }
+              }
+            },
+            "primaryCaregiver": {
+              "title": "application-request-primary-caregiver",
+              "description": "An object representing the primary caregiver of a veteran.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "IC Number for the primary caregiver to a veteran.",
+                  "type": "string"
+                }
+              }
+            },
+            "claimGuid": {
+              "description": "Id number for the claim being submitted.",
+              "x-amf-union": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "secondaryCaregiverTwo": {
+              "title": "application-request-secondary-caregiver",
+              "description": "",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "IC number for a secondary caregiver",
+                  "type": "string"
+                }
+              }
+            },
+            "veteran": {
+              "title": "veteran",
+              "description": "An object representing the veteran in an application.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn",
+                "isVeteran"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "The IC number of the veteran",
+                  "type": "string"
+                },
+                "isVeteran": {
+                  "description": "Boolean value if applicant is a veteran or not",
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        },
+        "records": {
+          "description": "Formatted filename that is displayed in Salesforce.",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/items"
+          }
+        }
+      }
+    },
+    "ApplicationAndDocumentResponse": {
+      "title": "ApplicationAndDocumentResponse",
+      "description": "Response upon submission of a 1010CG application along with document.",
+      "example": {
+        "data": {
+          "id": "aB9r00000004GW9CAM",
+          "type": "form1010cg_submissions",
+          "attributes": {
+            "confirmationNumber": "aB935000000F7JxCAK",
+            "submittedAt": "2020-06-24 12:07:25"
+          }
+        },
+        "record": {
+          "hasErrors": false,
+          "results": [
+            {
+              "id": "aB9r00000004GW9CAM",
+              "referenceId": "1010CG",
+              "errors": []
+            }
+          ]
+        }
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "data",
+        "record"
+      ],
+      "properties": {
+        "data": {
+          "title": "ApplicationResponseData",
+          "description": "Veteran information.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "id",
+            "attributes",
+            "type"
+          ],
+          "properties": {
+            "id": {
+              "description": "Id value of record inserted into Salesforce",
+              "type": "string"
+            },
+            "attributes": {
+              "title": "ApplicationResponseAttributes",
+              "description": "Other data related to the transaction",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "submittedAt",
+                "confirmationNumber"
+              ],
+              "properties": {
+                "submittedAt": {
+                  "description": "Date time value of creation of application",
+                  "type": "string"
+                },
+                "confirmationNumber": {
+                  "description": "Confirmation code for application",
+                  "type": "string"
+                }
+              }
+            },
+            "type": {
+              "description": "Type of application record created in Salesforce",
+              "type": "string"
+            }
+          }
+        },
+        "record": {
+          "title": "DocumentResponse",
+          "description": "Document information.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "results",
+            "hasErrors"
+          ],
+          "properties": {
+            "results": {
+              "description": "Flag to indicate if any errors while creating",
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/items_1"
+              }
+            },
+            "hasErrors": {
+              "description": "Flag to indicate if any errors while creating",
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    },
+    "QueuedResponse": {
+      "title": "QueuedResponse",
+      "description": "Response if 1010CG application is queued.",
+      "example": {
+        "queueid": "aB9r00000004GW9CAM"
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "queueid"
+      ],
+      "properties": {
+        "queueid": {
+          "description": "Id value of record inserted into Salesforce",
+          "type": "string"
+        }
+      }
+    },
+    "ApplicationRequest": {
+      "title": "ApplicationRequest",
+      "description": "Request for submission a 1010CG application.",
+      "example": {
+        "data": {
+          "veteran": {
+            "fullName": {
+              "first": "John",
+              "last": "Doe",
+              "middle": "X.",
+              "suffix": "IV"
+            },
+            "ssnOrTin": "123-45-6789",
+            "dateOfBirth": "2000-09-11",
+            "gender": "M",
+            "address": {
+              "street": "1600 Pennsylvania Ave",
+              "street2": "Suite",
+              "city": "Washington",
+              "state": "DC",
+              "postalCode": "98765-4321",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "888-888-8888",
+            "alternativePhoneNumber": "777-777-7777",
+            "email": "john.doe@va.gov",
+            "vaEnrolled": false,
+            "plannedClinic": "635GF",
+            "lastTreatmentFacility": {
+              "name": "UCHealth Medical Center",
+              "type": "HOSPITAL"
+            }
+          },
+          "primaryCaregiver": {
+            "fullName": {
+              "first": "Joan",
+              "last": "Jerde",
+              "middle": "Bednar"
+            },
+            "ssnOrTin": "202901417",
+            "dateOfBirth": "1978-07-03",
+            "gender": "F",
+            "address": {
+              "street": "111 2nd St S",
+              "street2": "#501",
+              "city": "Seattle",
+              "state": "WA",
+              "postalCode": "98101",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "111-292-9933",
+            "alternativePhoneNumber": "999-023-9330",
+            "email": "primaryCaregiverEmail@email.com",
+            "vetRelationship": "Spouse",
+            "medicaidEnrolled": false,
+            "medicareEnrolled": true,
+            "champvaEnrolled": false,
+            "tricareEnrolled": true,
+            "otherHealthInsuranceName": "MyHealth Global"
+          },
+          "secondaryCaregiverOne": {
+            "fullName": {
+              "first": "Pauline",
+              "last": "Moen"
+            },
+            "ssnOrTin": "994328447",
+            "dateOfBirth": "1981-03-29",
+            "gender": "F",
+            "address": {
+              "street": "1022 East Dedraburgh",
+              "street2": "Unit 101",
+              "city": "Seattle",
+              "state": "WA",
+              "postalCode": "98101",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "111-829-3993",
+            "alternativePhoneNumber": "000-293-8484",
+            "email": "secondaryOneCaregiverEmail@email.com",
+            "vetRelationship": "Daughter"
+          },
+          "secondaryCaregiverTwo": {
+            "fullName": {
+              "first": "Derrick",
+              "last": "Jaskolski",
+              "middle": "J."
+            },
+            "ssnOrTin": "091449499",
+            "dateOfBirth": "1980-09-06",
+            "gender": "M",
+            "address": {
+              "street": "1946 Bahringer Way",
+              "city": "Seattle",
+              "state": "WA",
+              "postalCode": "98101",
+              "country": "USA"
+            },
+            "primaryPhoneNumber": "878-484-4999",
+            "alternativePhoneNumber": "878-889-4300",
+            "email": "secondaryTwoCaregiverEmail@email.com",
+            "vetRelationship": "Friend/Neighbor"
+          }
+        },
+        "metadata": {
+          "claimGuid": "67890",
+          "veteran": {
+            "icn": "1008596379V859838",
+            "isVeteran": true
+          },
+          "secondaryCaregiverTwo": {
+            "icn": "1008710092V112476"
+          }
+        }
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "data",
+        "metadata"
+      ],
+      "properties": {
+        "data": {
+          "title": "ApplicationData",
+          "description": "Veteran information.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "primaryCaregiver",
+            "veteran"
+          ],
+          "properties": {
+            "secondaryCaregiverOne": {
+              "title": "SecondaryCaregiver",
+              "description": "Veteran's first secondary caregiver.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "type": "string"
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the categiver.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "type": "string"
+                },
+                "dateOfBirth": {
+                  "description": "Caregiver date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "vetRelationship": {
+                  "description": "Relationship to the veteran.",
+                  "type": "string"
+                },
+                "gender": {
+                  "description": "Caregiver's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "type": "string"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "type": "string"
+                }
+              }
+            },
+            "primaryCaregiver": {
+              "title": "PrimaryCaregiver",
+              "description": "Veteran's primary caregiver.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "type": "string"
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the caregiver.",
+                  "type": "string"
+                },
+                "otherHealthInsuranceName": {
+                  "description": "Any other health insurance available.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "type": "string"
+                },
+                "dateOfBirth": {
+                  "description": "Caregiver date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "medicareEnrolled": {
+                  "description": "Whether enrolled in Medicare.",
+                  "type": "boolean"
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "tricareEnrolled": {
+                  "description": "Whether enrolled in TRICARE.",
+                  "type": "boolean"
+                },
+                "vetRelationship": {
+                  "description": "Relationship to the veteran.",
+                  "type": "string"
+                },
+                "champVaEnrolled": {
+                  "description": "Whether enrolled in ChampVA.",
+                  "type": "boolean"
+                },
+                "gender": {
+                  "description": "Caregiver's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "type": "string"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "type": "string"
+                },
+                "medicaidEnrolled": {
+                  "description": "Whether enrolled in Medicaid.",
+                  "type": "boolean"
+                }
+              }
+            },
+            "secondaryCaregiverTwo": {
+              "title": "SecondaryCaregiver",
+              "description": "Veteran's first secondary caregiver.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "type": "string"
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the categiver.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "type": "string"
+                },
+                "dateOfBirth": {
+                  "description": "Caregiver date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the caregiver.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "vetRelationship": {
+                  "description": "Relationship to the veteran.",
+                  "type": "string"
+                },
+                "gender": {
+                  "description": "Caregiver's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "type": "string"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "type": "string"
+                }
+              }
+            },
+            "veteran": {
+              "title": "Veteran",
+              "description": "Veteran information.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "ssnOrTin",
+                "dateOfBirth",
+                "fullName"
+              ],
+              "properties": {
+                "emailAddress": {
+                  "description": "Email address.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "ssnOrTin": {
+                  "description": "SSN or TIN of the veteran.",
+                  "type": "string"
+                },
+                "primaryPhoneNumber": {
+                  "description": "Primary phone number.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "dateOfBirth": {
+                  "description": "Veteran date of birth.",
+                  "type": "string",
+                  "format": "date"
+                },
+                "address": {
+                  "title": "Address",
+                  "description": "Address of the veteran.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "state",
+                    "country",
+                    "city",
+                    "postalCode",
+                    "street"
+                  ],
+                  "properties": {
+                    "state": {
+                      "description": "US State.",
+                      "type": "string"
+                    },
+                    "country": {
+                      "description": "Country.",
+                      "type": "string"
+                    },
+                    "street2": {
+                      "description": "Additional address info.",
+                      "type": "string"
+                    },
+                    "city": {
+                      "description": "City or municipality.",
+                      "type": "string"
+                    },
+                    "postalCode": {
+                      "description": "Zipcode for the address.",
+                      "type": "string"
+                    },
+                    "street": {
+                      "description": "Street address.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "lastTreatmentFacility": {
+                  "title": "Facility",
+                  "description": "Most recent facility where veteran received treatment.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "name",
+                    "type"
+                  ],
+                  "properties": {
+                    "name": {
+                      "description": "Name of the facility.",
+                      "type": "string"
+                    },
+                    "type": {
+                      "description": "Facility type.",
+                      "type": "string"
+                    }
+                  }
+                },
+                "fullName": {
+                  "title": "FullNames",
+                  "description": "Full names of the veteran.",
+                  "type": "object",
+                  "additionalProperties": true,
+                  "required": [
+                    "first",
+                    "last"
+                  ],
+                  "properties": {
+                    "suffix": {
+                      "description": "Name suffix.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "first": {
+                      "description": "First or given name.",
+                      "type": "string"
+                    },
+                    "last": {
+                      "description": "Last name or surname.",
+                      "type": "string"
+                    },
+                    "middle": {
+                      "description": "Middle name or initial.",
+                      "x-amf-union": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                },
+                "plannedClinic": {
+                  "description": "Clinic the veteran plans to visit.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "gender": {
+                  "description": "Veteran's gender.",
+                  "enum": [
+                    "M",
+                    "F"
+                  ],
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "vaEnrolled": {
+                  "description": "Whetherveteran is enrolled at VA.",
+                  "type": "boolean"
+                },
+                "alternativePhoneNumber": {
+                  "description": "Alternative phone number.",
+                  "x-amf-union": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "metadata": {
+          "title": "metadata",
+          "description": "Metadata for a post request.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "claimGuid",
+            "veteran"
+          ],
+          "properties": {
+            "secondaryCaregiverOne": {
+              "title": "application-request-secondary-caregiver",
+              "description": "",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "IC number for a secondary caregiver",
+                  "type": "string"
+                }
+              }
+            },
+            "primaryCaregiver": {
+              "title": "application-request-primary-caregiver",
+              "description": "An object representing the primary caregiver of a veteran.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "IC Number for the primary caregiver to a veteran.",
+                  "type": "string"
+                }
+              }
+            },
+            "claimGuid": {
+              "description": "Id number for the claim being submitted.",
+              "x-amf-union": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ]
+            },
+            "secondaryCaregiverTwo": {
+              "title": "application-request-secondary-caregiver",
+              "description": "",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "IC number for a secondary caregiver",
+                  "type": "string"
+                }
+              }
+            },
+            "veteran": {
+              "title": "veteran",
+              "description": "An object representing the veteran in an application.",
+              "type": "object",
+              "additionalProperties": true,
+              "required": [
+                "icn",
+                "isVeteran"
+              ],
+              "properties": {
+                "icn": {
+                  "description": "The IC number of the veteran",
+                  "type": "string"
+                },
+                "isVeteran": {
+                  "description": "Boolean value if applicant is a veteran or not",
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ApplicationResponse": {
+      "title": "ApplicationResponse",
+      "description": "Response upon submission of a 1010CG application.",
+      "example": {
+        "recordId": "aB9r00000004GW9CAM"
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "recordId"
+      ],
+      "properties": {
+        "recordId": {
+          "description": "Salesforce ID of the application.",
+          "type": "string"
+        }
+      }
+    },
+    "type": {
+      "title": "ErrorResponse",
+      "description": "Error response message",
+      "x-amf-examples": {
+        "example_2": {
+          "code": "HTTP:UNSUPPORTED_MEDIA_TYPE",
+          "message": "Unsupported media type"
+        },
+        "amf_example_1": {
+          "code": "HTTP:INTERNAL_SERVER_ERROR",
+          "message": "Internal server error"
+        },
+        "example_1": {
+          "code": "HTTP:NOT_FOUND",
+          "message": "Not Found"
+        },
+        "amf_example_2": {
+          "code": "HTTP:BAD_REQUEST",
+          "message": "Bad Request"
+        },
+        "example_0": {
+          "code": "HTTP:METHOD_NOT_ALLOWED",
+          "message": "Method Not Allowed"
+        },
+        "amf_example_3": {
+          "code": "HTTP:NOT_ACCEPTABLE",
+          "message": "Content is not acceptable"
+        },
+        "example_3": {
+          "code": "HTTP:NOT_IMPLEMENTED",
+          "message": "Method is not implemented"
+        }
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "code",
+        "message"
+      ],
+      "properties": {
+        "code": {
+          "description": "Error code",
+          "type": "string"
+        },
+        "message": {
+          "description": "Error message",
+          "type": "string"
+        }
+      }
+    },
+    "DocumentRequest": {
+      "title": "DocumentRequest",
+      "description": "Request for submission of an associated document for a 1010CG application.",
+      "example": {
+        "title": "Application for John Doe (Jan 2021)",
+        "fileName": "John_Doe_1010CG_20210101.pdf",
+        "documentType": "1010CG",
+        "applicationId": "aB9r00000004GW9CAM",
+        "content": "IlRpdGxlIjogIlBPQV9WZXRlcmFuRmlyc3ROYW1lX1ZldGVyYW5MYXN0TmFtZV9TdWJtaXR0ZWREYXRlTU0tREQtWVlZWSI="
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "title",
+        "fileName",
+        "documentType",
+        "applicationId",
+        "content"
+      ],
+      "properties": {
+        "title": {
+          "description": "Formatted filename that is displayed in Salesforce.",
+          "type": "string"
+        },
+        "fileName": {
+          "description": "Original filename of the document.",
+          "type": "string"
+        },
+        "documentType": {
+          "description": "Type of document.",
+          "enum": [
+            "1010CG",
+            "POA"
+          ],
+          "type": "string"
+        },
+        "applicationId": {
+          "description": "Application Salesforce ID to associate document with.",
+          "type": "string"
+        },
+        "content": {
+          "description": "Base64 encoded text of the binary document.",
+          "type": "string"
+        }
+      }
+    },
+    "DocumentResponse": {
+      "title": "DocumentResponse",
+      "description": "Response upon submission of an associated document for a 1010CG application.",
+      "example": {
+        "hasErrors": false,
+        "results": [
+          {
+            "id": "aB9r00000004GW9CAM",
+            "referenceId": "1010CG",
+            "errors": []
+          }
+        ]
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "hasErrors",
+        "results"
+      ],
+      "properties": {
+        "hasErrors": {
+          "description": "Flag to indicate if any errors while creating",
+          "type": "boolean"
+        },
+        "results": {
+          "description": "Flag to indicate if any errors while creating",
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/items_1"
+          }
+        }
+      }
+    },
+    "items": {
+      "title": "DocumentApplicationRequest",
+      "description": "Request for submission of an associated document for a 1010CG application.",
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "attributes",
+        "Title",
+        "PathOnClient",
+        "CARMA_Document_Type__c",
+        "CARMA_Document_Date__c",
+        "VersionData"
+      ],
+      "properties": {
+        "attributes": {
+          "title": "DocumentRequestAttributes",
+          "description": "Formatted filename that is displayed in Salesforce.",
+          "type": "object",
+          "additionalProperties": true,
+          "required": [
+            "referenceId",
+            "type"
+          ],
+          "properties": {
+            "referenceId": {
+              "description": "A string that will be returned in the response that can be correlated to the salesforce unique id of the created file",
+              "type": "string"
+            },
+            "type": {
+              "description": "Static string to reference the target object in salesforce for files",
+              "type": "string"
+            }
+          }
+        },
+        "Title": {
+          "description": "Formatted file name that shows up in Salesforce",
+          "type": "string"
+        },
+        "PathOnClient": {
+          "description": "Name of the pdf file uploaded with file extension.",
+          "type": "string"
+        },
+        "CARMA_Document_Type__c": {
+          "description": "Static string literal for the type of the document.",
+          "type": "string"
+        },
+        "CARMA_Document_Date__c": {
+          "description": "Date when the document is uploaded.",
+          "x-amf-union": [
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "VersionData": {
+          "description": "Base64 encoded text of the binary document.",
+          "type": "string"
+        }
+      }
+    },
+    "items_1": {
+      "title": "DocumentResponseResults",
+      "description": "Results of document response",
+      "example": {
+        "id": "aB9r00000004GW9CAM",
+        "referenceId": "1010CG",
+        "errors": []
+      },
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "id",
+        "referenceId",
+        "errors"
+      ],
+      "properties": {
+        "id": {
+          "description": "Salesforce ID of the document.",
+          "type": "string"
+        },
+        "referenceId": {
+          "description": "Type of document",
+          "type": "string"
+        },
+        "errors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": true
+          }
+        }
+      }
+    }
+  },
+  "x-amf-securitySchemes": {
+    "client-id-secret": {
+      "type": "x-custom",
+      "x-amf-displayName": "client-id-secret",
+      "description": "Client ID/Secret Policy Enforcement",
+      "x-amf-describedBy": {
+        "headers": {
+          "client_id": {
+            "description": "Client ID",
+            "required": true,
+            "type": "string"
+          },
+          "client_secret": {
+            "description": "Client secret",
+            "required": true,
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
