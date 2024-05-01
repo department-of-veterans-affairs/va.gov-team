@@ -290,7 +290,7 @@ Please indicate the date and name of a mock participant for a pilot session.
 
 ### Research sessions
 May 20-23, 2024
-Available hours for scheduling: 9am-5pm ET
+Available hours for scheduling: 9am-5pm CT
 Length of sessions
 Veterans will be scheduled for 2 hour sessions 
 VA staff will be notified of the scheduled sessions ahead of time to ensure their availability
