@@ -1,5 +1,20 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 31
+Period - 05/08/2024 - 05/21/2024
+### Sprint goals
+
+- **Toxic Exposure**
+   - (iteration 3 goal) Gulf War 1990 and 9/11 pages data is populated in 15 B and 15 E in the 2022 526 pdf
+   - As a Veteran I want to submit a disability compensation claim inclusive of any time I spent in the Gulf War or after 9/11/01 so that I can ensure any TE conditions I have that resulted from my time in these locations is considered during review of my application.
+
+
+- **Paper Form Sync**
+  - 
+
+- **Submission  & Post-Submission**
+  - Mocks done - design assets
+  - CAIA review / look at content
 
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
