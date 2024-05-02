@@ -3,7 +3,7 @@
 ## Communications
 - Team GitHub Label: my-health-CTO-HEALTH-TEAM 
 - Product GitHub Label: my-health-INTEGRATION
-- Slack channel: [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R)
+- Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
 - Product POCs: 
   - Lauren Alexanderson - OCTO Sponsor
   - Patrick Bateman - OCTO Product Owner
