@@ -5,7 +5,7 @@ Last updated by @tygindraux: April 26, 2024
 The rules are described in the following sections:
 - [Contact preference](#contact-preference)
 - [Guardianship and VR&E](#guardianship-and-vre)
-- [Education](#education)
+- [Education > VR&E](#education)
 - [Health care](#health-care)
 
 ## Contact preference
@@ -157,7 +157,7 @@ We don't know why we collect this information. We need to ask the business lines
 
 ---
 
-## Education
+## Education > VR&E
 
 `IF CATEGORY` = Education benefits and work study
 
