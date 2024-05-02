@@ -40,6 +40,8 @@ VA Notify does not support header levels below H2.
 
 Use H2 styling for the main headers in the email body content, to help screen reader users navigate the text. 
 
+## "Don't reply" message
+
 ## Other content considerations
 
 ## Templates
