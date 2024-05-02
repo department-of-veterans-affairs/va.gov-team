@@ -13,8 +13,9 @@ Period - 05/08/2024 - 05/21/2024
   - 
 
 - **Submission  & Post-Submission**
-  - Mocks done - design assets
-  - CAIA review / look at content
+   - Determine technical feasibility for failure paths - Mike & Evelyn
+   - Mocks done - design assets
+   - CAIA review / look at content
 
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
@@ -29,7 +30,7 @@ Period - 04/24/2024 - 05/07/2024
 
 - **Submission  & Post-Submission**
   - Map future state success path within our domain
-  - Determine technical feasibility for failure paths - Mike & Evelyn
+  - Start discovery of technical feasibility for failure paths - Mike & Evelyn
 
 ## Sprint 29
 Period - 04/10/2024 - 04/23/2024
