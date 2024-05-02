@@ -4,11 +4,11 @@
 
 ## Landing Page/Home Team
 ### Current as of 6/21/2023
-- Patrick Bateman - Product Owner
 - Lauren Alexanderson - Sponsor
-- Coulton Bunney - OCTO Design Lead
+- Kaitlin Fink - Patient Portal Design Lead
 - Ryan Thurlwell - OCTO Design Lead
-- Patrick Bateman - OCTO Digital Service Expert
+- Patrick Bateman - OCTO Product Lead
+- Robyn Singleton - OCTO Research Lead 
 - Danielle Thierry - OCTO Content & Translation Lead
 - Mikki Northius - OCTO Lead Information Architect
 - Mark Dewey - OCTO Engineer
