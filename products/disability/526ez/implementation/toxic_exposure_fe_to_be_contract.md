@@ -23,9 +23,23 @@ Example:
     {
       "toxicExposure": {
           "gulfWar1990": {
-            "iraq": true,
-            "kuwait": true,
-            "qatar": true
+              "afghanistan": true,
+              "bahrain": true,
+              "egypt": true,
+              "iraq": true,
+              "israel": true,
+              "jordan": true,
+              "kuwait": true,
+              "neutralzone": true,
+              "oman": true,
+              "qatar": true,
+              "saudiarabia": true,
+              "somalia": true,
+              "syria": true,
+              "uae": true,
+              "turkey": true,
+              "waters": true,
+              "airspace": true
           },
           "gulfWar1990Details": {
             "iraq": {
@@ -39,6 +53,25 @@ Example:
             "kuwait": {
               "startDate": "1991-03-15"
             }
+          },
+          "gulfWar2001": {
+              "djibouti": true,
+              "lebanon": true,
+              "uzbekistan": true,
+              "yemen": true,
+              "airspace": true
+          },
+          "gulfWar2001Details": {
+             "airspace": {
+                 "endDate": "1992-09-01"
+             },
+             "uzbekistan": {
+                 "startDate": "1993-06-01"
+             },
+             "djibouti": {
+                 "startDate": "1992-01-01",
+                 "endDate": "1992-11-01"
+             }
           },
           "herbicide": {
             "cambodia": true,
