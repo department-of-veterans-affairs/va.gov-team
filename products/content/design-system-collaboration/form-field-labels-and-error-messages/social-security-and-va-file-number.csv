@@ -1,3 +1,5 @@
+This page may be outdated. Go here for the content source of truth: https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/main/src/_data/content/patterns/ask-users-for
+
 section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,error-scenario-3,error-message-3,label-variations,notes-on-updates
 /patterns,/ask-users-for,/social-security-number,social-security-number,Social Security number,You must enter a Social Security number or VA file number,,No entry,Enter a valid 9-digit Social Security number (dashes allowed),,,,,,
 /patterns,/ask-users-for,/social-security-number,va-file-number,VA file number,,,,,,,,,,
