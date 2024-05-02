@@ -84,7 +84,7 @@ _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
 People expect a quick way to ask a question, so they look for an input field right away.
 
-They also look for information about what to use the tool for – content about emergencies is noticed and appreciated.
+They also look for information about what to use the tool for. So, content about emergencies is noticed and appreciated.
 
 After sign in, they will click on the 'Ask a new question' link which is a clear call-to-action.
 
