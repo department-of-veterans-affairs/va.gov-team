@@ -5,9 +5,8 @@ Period - 05/08/2024 - 05/21/2024
 ### Sprint goals
 
 - **Toxic Exposure**
-   - (iteration 3 goal) Gulf War 1990 and 9/11 pages data is populated in 15 B and 15 E in the 2022 526 pdf
-   - As a Veteran I want to submit a disability compensation claim inclusive of any time I spent in the Gulf War or after 9/11/01 so that I can ensure any TE conditions I have that resulted from my time in these locations is considered during review of my application.
-   - Mockups for how to message Veterans with an in-progress form that new TE fields are available
+    - Veteran can establish a claim and insert a Form526 version 2022 PDF with conditions filled out in column 2 and the checkbox for 15A is checked in their file in VBMS. Additionally, field 15B shows yes/no appropriately. If yes is selected, date range is empty in 15B and the dates are populated in field 15E.
+   - Mockups for how to message Veterans with an in-progress form that new TE fields are availablefield
 
 
 - **Paper Form Sync**
