@@ -18,6 +18,7 @@ Get Notifications for @ MentionsHuddle
 - Sidekiq Admin UI
 	- [example request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59573)
 - Argo (Staging and Prod)
+	- [Argor Docs](../argo.md)
 	- [example request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60449)
 - VA Notify
 	- Reach out on the [va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) channel and request  to be "added to the self service portal under the dmc service"
