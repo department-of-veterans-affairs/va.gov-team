@@ -25,8 +25,6 @@ Some emails may need a closing that's specific to the person or program sending 
 ## Links
 VA Notify supports hyperlinks, but we also spell out the URL so that Veterans can feel sure the link is legitimate. This is especially important when the link goes to a tool that deals with personal, health, or financial information. 
 
-
-
 Follow general VA.gov guidance for link text. Include "on VA.gov" in link text, since we need to specify the destination when linking from an email.
 
 - Hyperlink the CTA link text
@@ -43,3 +41,24 @@ VA Notify does not support header levels below H2.
 Use H2 styling for the main headers in the email body content, to help screen reader users navigate the text. 
 
 ## Other content considerations
+
+## Templates
+
+### Confirmation of online form submission
+
+Subject line: We’ve received your [ plain language name of form like "application for burial benefits" ]
+
+Dear [NAME],
+Thank you for submitting your [Form name (VA Form Number)].
+
+[featured content gray box]
+[H2] Your application details
+Your name
+Date submitted
+[Optional data fields for other key info from this submission]
+
+[H2] (Optional section with instructions to submit additional documents)
+
+[H2] What to expect next
+
+[H2] How to contact us if you have questions
