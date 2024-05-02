@@ -10,6 +10,8 @@ All the new toxic exposure related fields will be wrapped in a top-level JSON no
 
  - gulfWar1990
  - gulfWar1990Details
+ - gulfWar2001
+ - gulfWar2001Details
  - herbicide
  - herbicideDetails
  - otherHerbicideLocations
