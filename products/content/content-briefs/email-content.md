@@ -60,5 +60,6 @@ Date submitted
 [H2] (Optional section with instructions to submit additional documents)
 
 [H2] What to expect next
+[Provide info about how to check status of this form/request online, if there's a way to do so. Explain how long it will take for this form to show up in the online system, if there's a delay. If you're linking to the claim status tool, confirm that this form actually shows up there.]
 
 [H2] How to contact us if you have questions
