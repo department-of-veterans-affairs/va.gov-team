@@ -18,12 +18,12 @@
 - Wesley Rowe - Product Manager
 - Florence McCafferty - Design Lead
 - Jonathan Nelson - Designer
-- Keith Cheung - Designer
+- Kat Brinkley - Researcher/Designer
 - Carlos Felix - Technical Architect
 - Daniel Cloud - Full stack Developer
 - Richard Davis - Full stack Developer
 - Jim Zaccardo - Full stack Developer
-- Angela Fowler - Accessibilty Specialist
+- Vacant - Accessibilty Specialist
 - Sara Sterkenburg - Information Architect
 
 ## Projects
