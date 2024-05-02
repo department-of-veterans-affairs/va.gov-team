@@ -6,9 +6,8 @@
 - Slack channel: [#mhv-on-vagov-portal-home](https://dsva.slack.com/archives/C04GDQSHD1R)
 - Product POCs: 
   - Lauren Alexanderson - OCTO Sponsor
-  - Leila Rassi - OCTO Product Owner
-  - Patrick Bateman - OCTO Technology Expert
-  - Coulton Bunney - OCTO UX Lead
+  - Patrick Bateman - OCTO Product Owner
+  - Kaitlin Fink - OCTO UX Lead
  
 - Stakeholders: 
    - Theresa Hancock
