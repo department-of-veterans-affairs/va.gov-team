@@ -276,9 +276,9 @@ In our next round of research, we'll focus on testing the end-to-end experience 
 
 ## Appendix
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md)
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Conversation%20guide.md)
-- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Transcripts)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Research%20plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Conversation%20guide.md)
+- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Transcripts)
 
 ## Tools used for synthesis
 
@@ -293,7 +293,7 @@ In our next round of research, we'll focus on testing the end-to-end experience 
 
 ## Secondary research
 
-All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/research).
+All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research).
 
 ## Who we talked to 
 
