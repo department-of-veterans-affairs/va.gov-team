@@ -1,4 +1,8 @@
-# About form field labels and error message content guidance
+This page may be outdated. Go here for the content source of truth for form field and error message content guidance: https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/main/src/_data/content/patterns/ask-users-for
+
+_______________________
+
+# About form field labels and error message content guidance (outdated) 
 
 Each CSV file in this folder contains specific content guidance for these form fields:
 - Label text
