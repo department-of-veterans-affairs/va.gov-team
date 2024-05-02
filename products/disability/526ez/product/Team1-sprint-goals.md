@@ -12,12 +12,10 @@ Period - 05/08/2024 - 05/21/2024
 - **Paper Form Sync**
 
 - **[Submission  & Post-Submission](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179)**
-   - Ancillary job failure path
-       - [Determine technical feasibility for solution options](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/81523) - Mike & Evelyn
-   - Happy path / successful backup path 
-       - [Mockups for updated touchpoints complete](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78183)
-       - CAIA review / look at content of updated touchpoints
-
+   - Design mockups for submission experiences that don't require Veterans to take action
+       - CAIA review of design mockups
+   - Map design options for submission experiences that require Veteran action 
+   
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
 ### Sprint goals
