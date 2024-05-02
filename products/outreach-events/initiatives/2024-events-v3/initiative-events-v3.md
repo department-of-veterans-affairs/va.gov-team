@@ -1,4 +1,4 @@
-# Events v2 Intiative Briefing
+# Events v3 Intiative Briefing
 
 ## Brief Description
 
