@@ -2,19 +2,26 @@
 # Unauthenticated page experience ratings: April 2024
 
 ## Related overall scores
-- **Total customer satsifaction score:** XX.X (X% change from last period)
+- **Total customer satsifaction score:** 57.4 (0% change from last period)
 - **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
 
 ## Experience ratings (1 to 5 scale)
 
 ### 5 pages with the highest experience ratings 
 All pages have ratings of 4 or above.
-- 
-  
+- [Print out your VA welcome kit](https://www.va.gov/welcome-kit/)
+- [Appointment pre-check-in](https://www.va.gov/health-care/appointment-pre-check-in/error?error=no-token) (Note: Authenticated page that's a collaboration with appointments product team)
+- [Coronavirus FAQs](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/)
+- [VA Payment history/Payments](https://www.va.gov/va-payment-history/payments/) (Note: Authenticated page)
+- [Disability/About disability ratings](https://www.va.gov/disability/about-disability-ratings/)
   
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
-- 
+- Auth/login Note: Authenticated experience)
+- [Secure messaging](https://www.va.gov/my-health/secure-messages/new-message/) (Note: Many of these are past the static landing page)
+- [Post-9/11 GI Bill statement of benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/) (Note: Most of these are after sign-in)
+- [Profile/Account security](https://www.va.gov/profile/account-security) (Note: Authenticated experience)
+- [View your VA payment history](https://www.va.gov/va-payment-history/)
   
 ### Resources and support ratings ("good" or "bad")
 
