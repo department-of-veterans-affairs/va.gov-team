@@ -26,9 +26,7 @@ Slack for real-time feedback from observers.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Raquel Eisele and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
-
-Today we're going to compare the current version of the performance dashboard with a proposed design.
+Thanks for joining us today! My name is Raquel Eisele and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. 
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -49,6 +47,12 @@ Before we start, I have a few things that I want to go over with you:
 
 - **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
+## Introductions (5 minutes)
+Today we're going to compare the current version of the performance dashboard with a proposed design. 
+
+Before we dive into that we would like to learn a little more about you and your role with the VA. What is your title, and who do you generally interface with?
+
+In your role have you used the Performance Dashboard? Can you share a little about that experience?
 
 ## First Task: Review current dashboard (10 minutes)
 
