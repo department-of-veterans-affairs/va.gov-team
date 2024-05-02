@@ -22,6 +22,9 @@ We believe that bringing personalized content to the VA mobile app’s home scre
 ### Content
 - [Content decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/content/content%20decision%20log.md)
 
+### User Acceptance Testing
+* [VA Mobile App Home Screen - UAT Plan & Protocol]  [doc](https://docs.google.com/document/d/1OlewJIlMhzSR_iuJbBgOZeFeIeyX84fkT55m9C0v5ik/edit#heading=h.hjn27s5ja1wz)
+
 ### User Research
 * [Personalized Home Screen - Evaluative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/personalized-homescreen) (2024)
 
