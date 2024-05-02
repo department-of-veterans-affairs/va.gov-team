@@ -82,37 +82,121 @@ These are the main components and/or pages, we're testing:
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
-[Details]
+People expect a quick way to ask a question, so they look for an input field right away.
+
+They also look for information about what to use the tool for – content about emergencies is noticed and appreciated.
+
+After sign in, they will click on the 'Ask a new question' link which is a clear call-to-action.
+
+When they read the list of category options, they're more clear on what subjects you can ask about. Still, some people reach the end of the form surprised to not have an answer yet.
+
+> "So first, I would definitely read through this to find out if this is where I should submit my question."
+
+> "It says all questions about education benefits, work study and debt [...] Would this be a venue that I would be asking questions about disability as well?"
+
+> "I do wonder whether it might be beneficial to [describe] the types of information that you might be able to get from this type of platform."
+
+> "That is the most important thing [...] Because, it's gonna take a while to get an answer. And if you're in an emergency situation, you need help immediately."
 
 ### Finding 2: People are motivated to sign in for a more personalized response, not necessarily because it's more secure.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`, `PRDT: Login`, `PRDT: VA.gov Profile`_
 
-[Details]
+People are unlikely to read the details about why to sign in, and no one mentions security.
+
+Instead, most people are motivated to sign in because they believe they'll get a more personalized response. Some mention pre-fill.
+
+Those who choose not to sign in are aware VA recommends they do. They want to avoid the hurdle, or, are unclear that Ask VA isn't a list of FAQs or search function.
+
+So, although it's not surprising being told to sign in later on,  it still feels like a "gotcha." Why'd you let me not sign in, in the first place?
+
+> "[In] my experience, it's usually better if you have an account [...] you're going to get more specific response usually. And that way you have a place that you can go to, should you wanna see that same response again."
+
+> "[It] notes personal questions about your benefits or someone else's benefits. And to me, that indicates that it's going to be a response more tailored to my experience."
+
+> "I would probably come back to signing in or creating an account, if I didn't find my answer readily available."
+
+> "I feel like it was a little bit of trickery going on [...] I knew I had to sign in, it was just a matter of time."
 
 ### Finding 3: Although the percentage is daunting at first, it's later motivating and helps you know when you're done.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Progress bars`_
 
-[Details]
+Excluding a progress indicator ensures people won't be frustrated or distracted by it.
+
+However, without it, people are unsure of when they're finished submitting their question. Particularly, when the order of questions doesn't feel intuitive.
+
+Those who were initially deterred by the progress indicator found it motivating as they progressed in the form. It became less noticeable as they went along.
+
+And, although they didn't get a perfect idea of how long they had left, it showed them they were making progress.
+
+> "My first reaction to this [is], 'Oh my god! I'm only 5% complete with this process.' [...] I have a long way to get an answer to this question."
+
+> "[At the end] I would be congratulating myself on actually following through and clicking all of the buttons afterwards. Otherwise I likely wouldn't have submitted it, [but would have] thought that I submitted it."
+
+> "It's kind of surprising in the beginning, but in hindsight I guess it's good to know how far along you are."
+
+> "I think if there's no indication, I'm going to get frustrated, because it was already more screens than I was expecting to go through. [... I need to] know that I'm moving towards the end."
 
 ### Finding 4: School information fields are interpreted inconsistently without more details.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`
 
-[Details]
+It's clear that personal information is pre-filled because you signed in.
+
+People expect to edit pre-filled details by clicking into the field and making changes.
+
+But, there's uncertainty about whether those changes will be reflected across VA.gov or just the form they're working on.
+
+Many people continue to expect personal information to be come first after they sign in, before they get into the bulk of the form.
+
+> "That's pretty helpful that I wouldn't have to go through and input all this stuff, especially since I had already logged in.
+
+> "That's my assumption. That if I fix it here, it's gonna reflect [everywhere]."
+
+> "I would honestly have no idea what to think [...] There's nothing indicating to me that if I update my information here, it will update anywhere else."
+
+> "This would have been good after I signed in. So I signed in and VA says, okay, this is who we think you are. Are we right? [...] You're [Hector James], right? And you were born on [...] That's all accurate, and then go into the process of asking the question."
 
 ### Finding 5: It's clear why information is pre-filled, but there's uncertainty about what's impacted if you edit pre-fill.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
-[Details]
+People tend to notice their question being saved and find it reassuring.
+
+However, the text, 'Finish this question later' is confusing if you interpret 'question' as the page, rather than the entire submission.
+
+Most people expect to find their unfinished question under 'Your questions' when they sign in to their dashboard.
+
+But some people expect a prompt or aren't sure how to get back to an unfinished question, if they leave the form.
+
+> "So if you get disconnected and you'll sign back in [and] it will allow you to start where you stopped."
+
+> "Finish this question later – does that mean that I could [click] that on all of them, and just get to the end and submit my question?"
+
+> "I would hope that I would be able to go to that initial page sign in, and then I should be able to find questions in progress..."
+
+> "I guess you would click that green box there, we saved your progress [...] I don't know if you can click on that part and it would bring you back [here]?"
 
 ### Finding 6: Most people notice their progress being saved and expect to find their unfinished question in their dashboard.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
-[Details]
+There's various ways to interpret whether you're a GI bill beneficiary. 'Yes' could mean you're receiving benefits, you're eligible, or, you think you may be eligible.
+
+People think school state is required and residency state isn't.
+
+School state is confusing if you're not already in school. And residency state is complex for many Veterans who think it needs to match their DD24.
+
+Although people know files aren't required, they try to think of things that could be helpful, but may not be necessary.
+
+> "I'm not sure how to answer this, because beneficiary, to me, means I'm taking advantage of it. [But] another meaning could be, I can potentially receive it."
+
+> "I guess the school state is required and residency state is not necessarily. But I feel like I should give it, even if it's not required."
+
+> "Sometimes they still want [your hometown state] from your DD214 to make sure it matches."
+
+> "What am I supposed to upload? Why would I upload something? My natural thought says it would be my DD214."
 
 ## Additional insights
 
