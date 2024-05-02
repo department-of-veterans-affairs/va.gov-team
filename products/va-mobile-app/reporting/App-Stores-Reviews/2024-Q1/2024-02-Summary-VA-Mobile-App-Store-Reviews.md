@@ -1,4 +1,4 @@
-# 2024 Q2 Summary VA Mobile App Store Reviews
+# February 2024 Summary VA Mobile App Store Reviews
 
 **February 1 - February 29, 2024**
 	
