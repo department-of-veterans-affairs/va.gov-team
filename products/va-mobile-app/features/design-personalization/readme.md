@@ -10,7 +10,7 @@ We believe that bringing personalized content to the VA mobile app’s home scre
 
 
 ### Product
-* [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md) (https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
+* [Personalized Home Screen - Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md)  [doc](https://docs.google.com/document/d/1qPUDihOxzkiNqK96ZPFlX4wTTHov033n5bOXgt1jmvU/edit) (2023)
 
 ### Data
 - [Home Screen Quantitative Measures of Success Tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/Home%20Screen%20Quantitative%20Success%20Tracking.md)(2023)
