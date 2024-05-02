@@ -5,7 +5,7 @@ I'm going to do my best to provide context posthumously 🤞
 ### Useful Starting Points
 - [Backend Engineer Responsibilities](back-end-responsibilities.md)
 - [Getting access to critical tools](up-and-running.md)
-- [Team Contacts](Team Contacts.md)
+- [team-contacts](team-contacts.md)
 - [FAQ](FAQ.md)
 
 
