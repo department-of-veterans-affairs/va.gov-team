@@ -1,6 +1,6 @@
 ## This document outlines the process for intake and handling of tickets that require Product Support and assistance.
 
-1. **Ticket Creation:** When a ticket requiring product assistance is created, it is assigned to tan Identity Team Product Manager.
+1. **Ticket Creation:** When a ticket requiring product assistance is created, it is assigned to an Identity Team Product Manager.
 2. **Analysis:** The Product Manager conducts an analysis to determine the work needed, the expected timeframe, and any concerns regarding the request. Typically, this analysis occurs within one business day of the request submission, although the timeframe may vary depending on the nature of the request. 
 
    **Personal Identifiable Information Review:** As part of their analysis, the Product Manager will detect and redact any personal identifiable information (PII). Examples of PII may include production credential emails, test credential passwords, or veteran-identifying attributes such as a veteran's SSN or date of birth. Should PII be discovered in a request, the Product Manager shall:
