@@ -1,4 +1,4 @@
-## This document outlines the process for intake and handling of tickets that require Product Support and assistance.
+## This document outlines the process for intake and handling of tickets that require Product Management Support and assistance.
 
 1. **Ticket Creation:** When a ticket requiring product assistance is created, it is assigned to an Identity Team Product Manager.
 2. **Analysis:** The Product Manager conducts an analysis to determine the work needed, the expected timeframe, and any concerns regarding the request. Typically, this analysis occurs within one business day of the request submission, although the timeframe may vary depending on the nature of the request. 
