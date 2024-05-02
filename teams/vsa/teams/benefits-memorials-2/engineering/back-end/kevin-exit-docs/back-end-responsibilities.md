@@ -1,7 +1,7 @@
 The Backend really only has a couple of features it needs to maintain. This document exists to outline those features and point to the relevant code.
 
 ## The Financial Status Report
-See the [what-is-a-financial-status-report](what-is-a-financial-status-report.md) docs for details.
+See the [financial status report](what-is-a-financial-status-report.md) docs for details.
 #### Related Files
 - `modules/debts_api/app/controllers/debts_api/v0/financial_status_reports_controller.rb`
 - `modules/debts_api/lib/debts_api/v0/financial_status_report_service.rb`
