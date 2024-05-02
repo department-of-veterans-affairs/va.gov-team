@@ -1,4 +1,6 @@
-These are the tools required to do you regular work as Back End Engineer. In the even that my instructions are less than clear on a given access request, first consult the [VA Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) and then reach out to the # vfs-platform-support Slack channel (use `/support` command to open a ticket)
+## Backend Engineer Tooling
+
+These are the tools required to perform regularly occurring tasks as Back End Engineer. In the even that my instructions are less than clear on a given access request, first consult the [VA Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) and then reach out to the # vfs-platform-support Slack channel (use `/support` command to open a ticket)
 
 Get Notifications for @ MentionsHuddle
 - SOCKS access
