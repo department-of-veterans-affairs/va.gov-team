@@ -4,20 +4,19 @@ To kick off our meeting, we reviewed the current landscape of each team's enviro
 
 ### VA.gov Environments
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/f5201eeb-a85d-4b0c-8296-50faf6ff6eda)
+<img width="511" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/80f68fe8-3632-49e5-a224-2bb0d226ab73">
 
 ### VA.gov Workflow
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/4fffb88b-1eb5-4845-bbb7-ef34a1b972e4)
+<img width="858" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/dd2274f2-2672-4b6b-8b1b-acc8cb0dae0d">
 
 ### CRM Environments
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/47627d59-569d-41b0-a35a-dc12ecdfae1c)
+<img width="264" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/699be390-254c-4ae2-830d-0a2113a1b87f">
 
 ### CRM Workflow
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/a5d75b95-8e9e-4bfc-b167-80b142907c6a)
-
+<img width="509" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/6474428b-becf-4523-8034-9afd35a2ed13">
 
 ## Meeting Notes
 
@@ -25,11 +24,11 @@ We did some white-boarding, considering several configurations.
 
 ### Environment Mappings (Brainstorming)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/e42a4ff1-8626-446e-80cf-276e655113ea)
+<img width="955" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/8d43b498-caba-4f3e-8c2e-c80ec6f7fd30">
 
 #### OLD DIAGRAM
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/3817ff2c-30f7-4139-89ab-56c5e60a7454)
+<img width="1164" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/89649306/84222e1a-2ff8-4a52-82fa-c0412631e296">
 
 ### Random Notecard Notes
 
