@@ -20,7 +20,7 @@ At the highest level, the core disability experience team is here to own, from t
 |----|----|-----|---------|
 | Emily Theis | OCTO Product Owner | emily.theis@va.gov | emilytheis |
 | Shannon Ford | OCTO Design Lead | shannon.ford1@va.gov | shannonkford |
-| Rakshinda Aslam | Product Manager | rakshinda.aslam@agile6.com | RakshindaAslam |
+| Jared Pace | Product Manager | jared.pace@agile6.com | pacerwow |
 | Mike Eng | UX Researcher and Designer | mike.eng@agile6.com | mengA6 |
 | Aurora Hampton | Engineer | aurora.hampton@agile6.com | ahay-agile6 |
 | Seth Darr | Engineer | seth.darr@agile6.com | sethdarragile6 |
