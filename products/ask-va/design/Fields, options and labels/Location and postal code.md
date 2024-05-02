@@ -153,7 +153,7 @@ Skip collecting location of residence and postal code separately. They're collec
 
 ### Why do we collect this information?
 
-We don't know why we collect this information. We need to ask the business lines.
+We collect location of residence and postal code so we can route to the correct queue.
 
 ---
 
@@ -294,7 +294,7 @@ We don't know why we collect this information. We need to ask the business lines
 
 ### Why do we collect this information?
 
-We don't know why we collect this information. We need to ask the business line.
+We collect location of residence and postal code so we can route to the correct queue.
 
 ---
 
@@ -353,3 +353,5 @@ We don't know why we collect this information. We need to ask the business line.
 ### Why do we collect this information?
 
 The Caregiver Support Program requires the Veteran's postal code because it helps them provide local resources to submitters.
+
+We're currently confirming why this is required for other VHA business lines.
