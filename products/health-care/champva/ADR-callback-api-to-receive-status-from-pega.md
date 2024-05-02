@@ -1,5 +1,5 @@
 # Architecture Decision Record (ADR)
-## Callback API between VA and PEGA
+## Callback API between VA and DOCMP/PEGA
 **Date:** 4/23/2024
 
 **Status:** Accepted
