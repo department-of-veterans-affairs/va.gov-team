@@ -1,5 +1,5 @@
 # VA Mobile App - Personalization - UX 
-This work explores potential apporaches for brining personalized experiences to the VA Mobile app. It includes overarching "North Star" strategy work, as well as feature-based approaches.
+This work explores potential approaches for brining personalized experiences to the VA Mobile app. It includes overarching "North Star" strategy work, as well as feature-based approaches.
 
 
 ## Personalization: North Star 
