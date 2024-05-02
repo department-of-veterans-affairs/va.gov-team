@@ -122,6 +122,7 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - 🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
+        - 🟨 [[BE] Update BTSSS endpoint to use fwdproxy in prod ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73257)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
