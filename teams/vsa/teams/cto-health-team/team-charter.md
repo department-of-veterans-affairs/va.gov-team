@@ -77,7 +77,7 @@ As of 4/1/2024, the current columns on our sprint board columns are:
 <br/>
 
 #### Program Increment Planning
-Since our work is closely related, we may attend PI planning with the My HealtheVet National Portal teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
+Since our work is closely related, the DM and PM may attend PI planning with the My HealtheVet National Portal teams doing work for OCC.  These are 3.5 day sessions typically held in March, June, September, and December.  The organizer for that activity will send out invitations several weeks prior.  As our team members shift, the PO or PM should let the organizer know to add/remove people.
 
 #### Roadmap
 - [MHV on VA.gov roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698864295789/df06ec660f12babff6b6853333e1e02ac7c280d9?wid=0-1698874401184&sender=48ab5afe-fa6e-43bd-b956-400f9ca2c627)
