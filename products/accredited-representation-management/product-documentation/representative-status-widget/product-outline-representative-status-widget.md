@@ -1,4 +1,4 @@
-# Product Representative Status Widget
+# Product Outline: Representative Status Widget
 Team: Accredited Representation Management
 
 ---
