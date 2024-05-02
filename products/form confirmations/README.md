@@ -13,7 +13,7 @@
 |Form Number  |Form Name |User State |Email Used |Launch Date | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 20-10207 | Request priority processing for an existing claim | Authenticated | Form | TBD |
-| 21-0966 | Submit an intent to file | Authenticated | Form | TBD |
+| 21-0966 | Submit an intent to file | Authenticated | ICN (Profile) | TBD |
 | 20-10206 | Freedom of Information Act (FOIA) or Privacy Act (PA) Request | Authenticated | Form | TBD |
 | 26-4555 | Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant | Authenticated | Form | TBD |
 | 40-0247 | Request a Presidential Memorial Certificate | Unauthenticated | Form | March 2024 | 
