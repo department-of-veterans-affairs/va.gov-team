@@ -27,6 +27,7 @@ Team Name - Cartographers
 - [ ] Lauren Alexanderson (OCTO Product Sponsor) - please work with [Alicia Proctor](https://dsva.slack.com/team/U022MUJ2NAJ), Lauren's executive assistant to schedule meetings.
 - [ ] Patrick Bateman (OCTO Product Lead)
 - [ ] Kaitlin Fink (OCTO Design Lead)
+- [ ] Kaitlin Fink (OCTO Design Lead)
 - [ ] Lynne Johnson (Delivery Manager)
 - [ ] Wes Rowe (Product Manager)
 - [ ] Florence McCafferty (Design Lead)
