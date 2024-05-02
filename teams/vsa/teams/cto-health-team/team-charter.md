@@ -31,7 +31,7 @@ Team Name - Cartographers
 - [ ] Wes Rowe (Product Manager)
 - [ ] Florence McCafferty (Design Lead)
 - [ ] Jonathan Nelson (Designer)
-- [ ] Kat Brinkley (Designer)
+- [ ] Kat Brinkley (Researcher/Designer)
 - [ ] Carlos Felix (Technical Architect)
 - [ ] Jim Zaccardo (Full stack developer)
 - [ ] Richard Davis (Full stack developer)
