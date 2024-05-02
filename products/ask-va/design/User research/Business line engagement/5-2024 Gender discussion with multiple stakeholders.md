@@ -20,5 +20,5 @@ Ask VA VA.gov Team
    - Using gender identity: The CWV needs this data to understand the populations by gender that they help through Ask VA. We shouldn't collect data we don't use.
      
 ## Actions
-- [x] Becky schedule follow up meeting
+- [x] Becky schedule follow up meeting to align on next steps/goals
 - [ ] Becky send meeting notes 
