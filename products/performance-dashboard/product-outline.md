@@ -1,22 +1,22 @@
-[Performance Dashboard](https://www.va.gov/performance-dashboard/)
+## [Performance Dashboard](https://www.va.gov/performance-dashboard/)
 
 
 ## Overview
 
-The IIR team is implementing a new iteration of the [Performance Dashboard](https://www.va.gov/performance-dashboard/) that will include two parts: 1) an overhaul of the backend to modernize the codebase and connect the data to the actual data source 2) updating the frontend designs to be more aligned with design and accessibility standards and to provide more context/meaning to the data points.
+The IIR team is implementing a new iteration of the [Performance Dashboard](https://www.va.gov/performance-dashboard/) that will include two parts: 1) an overhaul of the backend to modernize the codebase and connect the data to the actual data source 2) updating the frontend designs to be more aligned with design and accessibility standards and to provide more context and meaning to the data points.
 
 
 ## Problem Statement(s)
 
-- VA Stakeholders (and the public), don’t currently have a publically accessible and centralized place to view and share key insights about actions being taken on VA.gov. 
+- VA Stakeholders don't have a trusted, accurate, and public-facing data source to view va.gov performance. (v1)
 
-  - Trust and verify the accuracy of the data
+- VA Stakeholders don’t have enough context and meaning to the data displayed on the dashboard i.e. benchmarking, comparison, etc. (v2)
 
-- VA Stakeholders don’t have enough context and meaning to the data displayed on the dashboard i.e. Are these good numbers? Are we hitting our goals?
+- The dashboard does not follow the latest VA design system and accessibility requirements. (v2)
 
-- The dashboard does not follow the latest VA design system and accessibility requirements.
+- The performance dashboard codebase is greatly outdated and is not modernized for easy iteration updates (v1.5).
 
-- The performance dashboard codebase is greatly outdated and is not modernized for easy iteration updates.
+- The performance dashboard is manually updated which leaves room for unreliable data (v1).
 
 
 ## User(s)
@@ -75,10 +75,8 @@ The IIR team is implementing a new iteration of the [Performance Dashboard](http
 |                                                  |                         |            |
 | ------------------------------------------------ | ----------------------- | ---------- |
 | **Description**                                  | **30 Days Post Launch** | **Target** |
-| 100% of Veteran Actions Represented              |                         | 100%       |
 | Adherence to Design System Standardization       |                         | Yes        |
 | 100% of data displayed on dashboard is automated |                         | 100%       |
-
 
 ### Diagnostic Metrics
 
@@ -114,37 +112,32 @@ The only metric that we can gauge pre and post launch is Page Views. The others 
 - Transactions should be the primary focal point
 
 
-## Launch Strategy - TBD
+## Launch Strategy
 
-_How are users going to know it exits?_
-
-_What marketing, outreach, or comms are necessary for this product to be successful?_
-
-_Link to release plan_
+Michelle Correll, Communications Lead for OCTO, uses the Performance Dashboard to disseminate information on a monthly basis. We will be working with her to ensure our release is shared in one of her monthly reports.
 
 
 ## Launch Dates
 
-Part 1 | Connecting the data source & Modernizing the codebase
+v1 | Connecting the data source
+
+- Target Launch Date: November 2023
+
+- Actual Launch Date: November 1, 2023
+
+v1.5 | Moderning the codebase
 
 - Target Launch Date: May 31, 2024
 
 - Actual Launch Date: TBD
 
-Part 2 | Implementing FE designs
+v2 | Implementing FE designs
 
 - Target Launch Date: Jun 30, 2024
 
 - Actual Launch Date: TBD
 
 Post Launch Evaluation | 30, 60, & 90 Days
-
-
-## Solution Narrative - TBD
-
-_Current Status_
-
-_Key Decisions_
 
 
 ## Screenshots
@@ -157,10 +150,10 @@ Before
 
 ![](https://lh7-us.googleusercontent.com/l1VHdzvrAJQCsy2N2yQ-vzHVZbbzbRXK-ikFPpPtV1l1ZT8bXtxNMLH4jQbnpcnw_7SgGKk10fF170_IYtyEylCVaXbBCza1z9ikzCr35Vt-fmIWo14pZeUzKShVWvHG_LXlaByOvH2Z69TJWLorwxU)
 
+![](https://lh7-us.googleusercontent.com/AK-ftMMgsDj1LCeQ9S2fq2M1I1xO2JSBuKFqzEKP6u1o-edPMHRvMSHxA223LqPRkjzgIQrSxz9LUw_i633m4wd30nIqQVYrD62gGwx8lyCtYIggxWyqdTrHt_ZXDouuZoUn55aTb9flc4UsyH0_kEk)
 
-## ![](https://lh7-us.googleusercontent.com/AK-ftMMgsDj1LCeQ9S2fq2M1I1xO2JSBuKFqzEKP6u1o-edPMHRvMSHxA223LqPRkjzgIQrSxz9LUw_i633m4wd30nIqQVYrD62gGwx8lyCtYIggxWyqdTrHt_ZXDouuZoUn55aTb9flc4UsyH0_kEk)
+After- In Progress
 
-## After- TBD
 
 ## Communications
 
@@ -169,10 +162,6 @@ Team Name: Innovate, Iterate, & Run
 GitHub Label: [performance-dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/performance-dashboard)
 
 Slack Channel: [#iir-product-teams-public](https://dsva.slack.com/archives/C05RJS5DANT)
-
-Product POCs: 
-
-Stakeholders:
 
 
 ## Team Members
@@ -190,6 +179,12 @@ Engineering: <john.rodriguez@adhocteam.us> [Kyle Henson](mailto:kyle.henson@oddb
 Research/Design: <raquel.eisele@adhocteam.us>
 
 
-## Stakeholders - TBD
+## Stakeholders
 
-What offices/departments are critical to make this initiative successful?
+The internal VA product stakeholders we did usability tests with:
+
+- Michelle Correll, Communications Lead for OCTO
+  
+- Jonathan Katora
+
+- Melissa Rebstock
