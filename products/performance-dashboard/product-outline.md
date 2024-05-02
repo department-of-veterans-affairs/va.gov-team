@@ -8,15 +8,15 @@ The IIR team is implementing a new iteration of the [Performance Dashboard](http
 
 ## Problem Statement(s)
 
-- VA Stakeholders don't have a trusted, accurate, and public-facing data source to view va.gov performance. (v1)
+- VA Stakeholders don't have a trusted, accurate, and public-facing data source to view va.gov performance (v1)
+
+- The performance dashboard is manually updated which leaves room for unreliable data (v1)
+
+- The performance dashboard codebase is greatly outdated and is not modernized for easy iteration updates (v1.5)
+  
+- The dashboard does not follow the latest VA design system and accessibility requirements (v2)
 
 - VA Stakeholders don’t have enough context and meaning to the data displayed on the dashboard i.e. benchmarking, comparison, etc. (v2)
-
-- The dashboard does not follow the latest VA design system and accessibility requirements. (v2)
-
-- The performance dashboard codebase is greatly outdated and is not modernized for easy iteration updates (v1.5).
-
-- The performance dashboard is manually updated which leaves room for unreliable data (v1).
 
 
 ## User(s)
@@ -114,7 +114,9 @@ The only metric that we can gauge pre and post launch is Page Views. The others 
 
 ## Launch Strategy
 
-Michelle Correll, Communications Lead for OCTO, uses the Performance Dashboard to disseminate information on a monthly basis. We will be working with her to ensure our release is shared in one of her monthly reports.
+- Work with Michelle Correll, Communications Lead for OCTO, to disseminate dashboard link to VA committee members during monthly presentation.
+
+- Chris Johnston, Deputy CTO for OCTO, to send out an email to additional stakeholders who have not seen or referenced the dashboard previously. 
 
 
 ## Launch Dates
@@ -125,7 +127,7 @@ v1 | Connecting the data source
 
 - Actual Launch Date: November 1, 2023
 
-v1.5 | Moderning the codebase
+v1.5 | Modernizing the codebase
 
 - Target Launch Date: May 31, 2024
 
@@ -188,3 +190,5 @@ The internal VA product stakeholders we did usability tests with:
 - Jonathan Katora
 
 - Melissa Rebstock
+
+- Lauren Alexanderson
