@@ -89,13 +89,17 @@ On April 26, 2023, the rollout moved to Phase 2, and access was expanded to 10% 
 ## Team
 
 - OCTO PO: Patrick Bateman
-- Product Manager: Tom Anderson (Agile Six)
+- Delivery Manager: Lynne Johnson (Agile Six)
+- Product Manager: Wes Rowe (Agile Six)
 - UX Design: Jonathan Nelson (Ad Hoc)
 - UX Design: Florence McCafferty (Agile Six)
-- Research: Cara Frissell (Ad Hoc)
+- Research: Kat Brinkley (Agile Six)
 - Technical Architect: Carlos Felix (Agile Six)
 - Information Architect: Sara Sterkenburg (Ad Hoc)
-- Engineer: Eric Voshall (Ad Hoc)
+- Engineer: Daniel Cloud (Ad Hoc)
+- Engineer: Jim Zaccardo (Ad Hoc)
+- Engineer: Richard Davis (Ad Hoc)
+- QA Engineer: Allan To (Ad Hoc)
    
 ## Screenshots
 
