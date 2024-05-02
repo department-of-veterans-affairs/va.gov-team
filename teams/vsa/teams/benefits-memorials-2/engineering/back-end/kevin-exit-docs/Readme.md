@@ -3,7 +3,7 @@ These documents are intended to provide the best possible context for an enginee
 I'm going to do my best to provide context posthumously 🤞
 
 ### Useful Starting Points
-- [Backend Engineer Responsibilities](BE Responsibilities.md)
+- [Backend Engineer Responsibilities](back-end-responsibilities.md)
 - [Getting access to critical tools](Up and Running.md)
 - [Team Contacts](Team Contacts.md)
 - [FAQ](FAQ.md)
