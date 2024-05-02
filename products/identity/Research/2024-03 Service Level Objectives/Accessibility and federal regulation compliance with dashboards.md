@@ -111,10 +111,13 @@ Federal agencies must adhere to various policies and guidelines related to websi
 - Agencies must adhere to its requirements to ensure citizens can access government services seamlessly, regardless of time or location.
 - GSA uses site-scanning tools to automatically determine whether sites have search capabilities on par with IDEA.
 
-### [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)
+### [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)    (September 2023)
 
 - Created to accomplish the standards listed in IDEA.
-- As oversight, OMB has created “digital experience indicators” to keep track of where agencies are making progress in implementing key elements. 
+- Agencies should routinely analyze websites and digital services for load speed and continually strive to optimize for performance (e.g., high page speeds, low page load times, small load page size).
+   - Agencies are encouraged to use techniques such as minification and image optimization, and eliminate any unnecessary plugins.
+- Agencies should give special consideration to low-bandwidth users whose mobile devices and cellular connectivity are often their only means to interact with the government online.  
+- OMB created “digital experience indicators” as oversight of where agencies are making progress in implementing key elements. 
 - Once the indicators are widely used, OMB will move towards optimization.
 
 ### [OMB Circular A-130: Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
