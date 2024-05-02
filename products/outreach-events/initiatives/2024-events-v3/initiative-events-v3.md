@@ -1,16 +1,18 @@
 # Events v3 Intiative Briefing
 
 ## Brief Description
-
+How might we enhance a Veteran's experience when they're searching for and viewing events, allowing them to easily find events pertinent to their needs with plenty of lead-time to attend either online or in-person.
 
 ## Outcome Summary
->>>
   
 For this initiative, we will implement ...
 
 
-EPICS: 
-* 
+### EPICS: 
+- [[SUPER EPIC] Events v3](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17871)
+- [[EPIC] [Events v3] Create an Events API & Data Model](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911)
+- 
+- 
 
 ## The Problem to be Solved
 
