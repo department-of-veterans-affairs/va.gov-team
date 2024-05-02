@@ -1,2 +1,4 @@
+This page may be outdated. Go here for the content SOT: https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/main/src/_data/content/patterns/ask-users-for
+
 section,subsection,pattern-or-component,label,label-text,hint-text,sub-questions,error-scenario-1,error-message-1,error-scenario-2,error-message-2,error-scenario-3,error-message-3,label-variations,notes-on-updates
 /patterns,/ask-users-for,/email,email,Email,,,No entry,Enter a valid email address without spaces using this format: email@domain.com,Invalid character,"You entered a character we can’t accept. Try removing ""[specific characters entered]""",,,,
