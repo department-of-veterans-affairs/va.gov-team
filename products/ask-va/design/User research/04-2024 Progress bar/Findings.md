@@ -327,4 +327,4 @@ This research does not include the perspectives of the following marginalized Ve
 * Asian participants
 * Hispanic participants
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Notes/Images/02-2024-Research-Equality-Checker.png)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/05-2024-Research-equality-checker.png)
