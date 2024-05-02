@@ -5,7 +5,7 @@ Last updated by @tygindraux: April 26, 2024
 The rules are described in the following sections:
 - [Contact preference](#contact-preference)
 - [Guardianship and VR&E](#guardianship-and-vre)
-- [Education > VR&E](#education)
+- [Education > VR&E](#education--vre)
 - [Health care](#health-care)
 
 ## Contact preference
