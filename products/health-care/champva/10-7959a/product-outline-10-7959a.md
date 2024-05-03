@@ -84,6 +84,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Current Status
 
+Key Deliverables:
+- [design](https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a?type=design&node-id=13-80&mode=design&t=YuafvBbuKozoXYFY-0)
+- research
+- testing plan
+
 ### Key Decisions
 
 ---
