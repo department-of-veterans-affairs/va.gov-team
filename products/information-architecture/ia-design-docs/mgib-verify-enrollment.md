@@ -52,7 +52,7 @@ As mentiond above, the sub-URL should update as users move through the flow and 
   > Subtask URL slugs should be short, plain language, and drawn from the H1 if possible. 
     Reminder: Don’t create unnecessary or empty subdirectories when creating sub-URLs!
 
-We are recommending the following URLs:
+This a shorter flow and doesn't follow the typical form flow that starts with `/introduction`. We are recommending the following URLs:
 
 - `/enrollment-information `: step 1 in the form flow
 - `/confirmation`: successfully submitted form
