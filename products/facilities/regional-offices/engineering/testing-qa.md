@@ -74,7 +74,7 @@ Since VBA Nearby Location and Vet Center Nearby Locations share significant code
 |file | statements | branch  | funcs | lines | Uncovered |
 |---|---|---|---|---|---|
 |vbaFacility.js                                                           |     100 |      100 |     100 |     100 |                               |
-|vbaFacility.graphql.js                                                   |   77.78 |        0 |       0 |   77.78 | 337,365 - strings that really shouldn't be tested |
+|vbaFacility.graphql.js                                                   |   80 |        0 |       0 |   80 | 340,368 - strings that really shouldn't be tested |
 
 ## Unit Coverage images
 Banner Tests
