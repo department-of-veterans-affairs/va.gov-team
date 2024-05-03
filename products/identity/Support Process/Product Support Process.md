@@ -5,6 +5,7 @@
 
    **Personal Identifiable Information Review:** As part of their analysis, the Product Manager will detect and redact any personal identifiable information (PII). Examples of PII may include production credential emails, test credential passwords, or veteran-identifying attributes such as a veteran's SSN or date of birth. Should PII be discovered in a request, the Product Manager shall:
     * Edit the identity-slackbot's Github post to remove the PII and replace it with `[redacted]`.
+        * The Product Manager shall also delete the previous, original revision of the post that contained the PII. If they do not have the access to do so then they shall contact a `va.gov-team-sensitive` repository admin to perform the deletion on their behalf.
     * Post a message in the Github ticket thread describing the context of the redaction - "You included a veteran's social security number, which is PII, so I edited the post to remove it.".
     * Post a message in the linked Slack thread tagging the requestor & alerting them to the PII inclusion and subsequent redaction.
 4. **Delegation:** If necessary, tickets are delegated to the appropriate crew lead within the Identity team for work completion.
