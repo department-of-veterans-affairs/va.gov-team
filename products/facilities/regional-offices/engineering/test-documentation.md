@@ -82,3 +82,6 @@ Accordion Tests
 Unit Test Coverage
 <img width="1726" alt="Page 1 - unit tests" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5606931/7757a126-aed1-4345-bc99-73e2af917895">
 <img width="1728" alt="Page 2 - unit tests" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5606931/d79ea321-8c6b-4d59-b7d4-fff4e6d21551">
+Component Test coverage
+<img width="1652" alt="Screenshot 2024-05-02 at 5 16 21 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5606931/fa3e38d7-94d7-4197-a6de-fdddd4293674">
+
