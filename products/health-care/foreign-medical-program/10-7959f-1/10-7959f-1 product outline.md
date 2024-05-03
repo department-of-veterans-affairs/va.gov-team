@@ -120,8 +120,7 @@ Collaboration Cycle
 ### Current Status
 - Conversations with stakeholders scheduled through 2/9 completed.
 - Stakeholder interview analysis complete along with prototype creation and research readout.
-- Research into uxpin for usability testing
-  - (Figma has limited capabilities with the license the VA is on, and CodePen requires a heavier lift/coding
+- User interviews complete.
 
 Key deliverables:
 - design: 
