@@ -8,6 +8,8 @@
 
 [Presenting Data](#presenting-data)
 
+[Import Survey to Domo](#import-survey-to-domo)
+
 --------------
 
 ## Purpose
@@ -168,3 +170,17 @@ This question allows users to volunteer for follow-up discussions.
 ![Metrics Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2c1b4095-2a1d-4797-987e-4d5994100759)
 
 - Metrics Dashboard Mockup
+
+## Import Survey to Domo
+
+This is the home page of the dataset:
+- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/de1f8799-7d10-401d-9dc5-8d8061bc272b)
+From here, click on settings.
+
+Once in the settings area you'll want to drag the new file (in the form of an excel document) into the center of the details area, you can also click to upload it.
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/30ce9874-20ac-4d9f-8113-6e5c905f45d1)
+
+Once it has uploaded you will get a preview of the dataset, once you check that all the new data has been uploaded you hit save and the dashboard will automatically update!
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/dad9f92f-b7d2-49f6-8d46-629434a9226b)
