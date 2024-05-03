@@ -76,7 +76,7 @@ Out of scope:
 Risks or dependencies:
 - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
 - Integration with PEGA is still being developed
-- 
+
 Other considerations:
 - Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
 - VA notify(?) and notifications in general
