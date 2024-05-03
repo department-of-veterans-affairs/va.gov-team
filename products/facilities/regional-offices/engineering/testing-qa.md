@@ -36,8 +36,10 @@ Unchanging elements on the page are limited to **spotlight cards**, **Benefits H
 3. A mocha test uses the `renderHTML` method that replicates the metalsmith process of building pages from drupal content. This allows us to build tests that verify the HTML structure of the page that would be the same as one built from downloaded CMS data.
     1. For example: since we wanted to make sure multiple banner types can appear on a page, we build a CMS node of a VBA facility with a banner alert and take a segment of the generated JSON from Drupal. We repeat this for all banner types. Then we use renderHTML to build the template pieces and 'expect' that each banner type appears when the mock data is present for it. Since banner templates are built on `<va-banner>` components, we are only able to test props of the Design System Components.
 4. There is a limitation to testing via renderHTML because it does not pull in or load react components and it does not allow us to test deep in the shadow DOM. So for all Design System Components (which we rely on) we expect that the Design System Team has tested for certain accessibility  features. Our manual checks also verify the Design System Components are acting as expected.
-5. To facilitate processing the drupal content into templated pages, we often use liquid filters. Whenever we create a liquid filter we add tests to the CI pipeline for that filter. We always cover null conditions and valid object types (because all data from Drupal comes as objects). You will see below the list of liquid filters added and the tests created. 
-6. 
+5. To facilitate processing the drupal content into templated pages, we often use liquid filters. Whenever we create a liquid filter we add tests to the CI pipeline for that filter. We always cover null conditions and valid object types (because all data from Drupal comes as objects). You will see below the list of liquid filters added and the tests created.
+
+## Regression Testing
+Regression testing is built into the automated testing and the CI will not succeed in building and deploying the content if it does not comply with the automated testing. However, if CMS content is changed and is not congruent with the structure of the GraphQL the CI will not succeed. Testing should ensure for all potential options that an editor is presented with for the particular component in the VBA Regional Benefit Office pages.
 
 ## Testing currently existing as of 4/19/24
 ### Liquid filters
