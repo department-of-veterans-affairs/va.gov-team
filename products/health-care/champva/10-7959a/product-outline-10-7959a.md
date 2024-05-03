@@ -50,13 +50,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
 
 ## Solution Approach
 
 Provide stand alone FMP registration form online with forms sent to PEGA for further processing.
 
 In scope:
+- Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
 - General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
 - Fillable fields with pre fill for signed in users
 - Digital signature with date stamp accepted by CHAMPVA team
