@@ -99,9 +99,9 @@ Collaboration Cycle
 - [x] Design Intent: 1/29/24
 - [x] [Content, Accessibility and IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74190)
 - [x] Midpoint: 2/29/24
-- [ ] Research 
+- [x] Research 
 - [ ] Contact Center guide
-- [ ] Analytics
+- [x] Analytics: [implementation request](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/77616)
 - [ ] Staging 
 - [ ] Infrastructure, Privacy & Security
  
