@@ -9,8 +9,8 @@ Generally, the simplicity of the page comes from:
 4. Uses design system components as much as possible
 
 The complexity of the page comes from:
-1. React Component with API Calls (mapbox and vets-api) for Nearby VA Locations and Dynamic Content (i.e. if vets-api returns no close locations, we show the user a message indicating that fact rather than a list of far locations.)
-2. Branching logic whether to display certain content on the page (i.e. if editor does not provide "Prepare for your visit" content we do not show the section)
+1. React Component with API Calls (mapbox and vets-api) for Nearby VA Locations and Dynamic Content (e.g. if vets-api returns no close locations, we show the user a message indicating that fact rather than a list of far locations.)
+2. Branching logic whether to display certain content on the page (e.g. if editor does not provide "Prepare for your visit" content we do not show the section)
 
 React Component complexity:
 The interactive complexity is simple, but the API dependence adds to its comprehensive complexity. Component testing with mock data is added for all scenarios.
