@@ -11,8 +11,9 @@ How might we help family members of Veterans get the coverage they need for thei
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans are able to fill out the registration form online on VA.gov
+- Veterans spend less time, effort and money filling out and mailing paperwork
+- Veterans spend less time spent waiting to hear back on their application status
 
 ## Undesired User Outcomes
 
