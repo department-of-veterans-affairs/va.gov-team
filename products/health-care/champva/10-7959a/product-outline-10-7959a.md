@@ -54,10 +54,33 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+Provide stand alone FMP registration form online with forms sent to PEGA for further processing.
+
+In scope:
+- General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
+- Fillable fields with pre fill for signed in users
+- Digital signature with date stamp accepted by CHAMPVA team
+- PDF output of completed form with required meta data and unique identifier
+- Integration with PEGA for forms and documents
+- Authenticated and unauthenticated experience
+- End to end testing with PEGA
+- monitoring
+  
+Out of scope:
+- Integration with VES (this will need to be addressed in the future)
+- Checking for eligibility requirements
+- Interoperability
+- new list and loop pattern
+- no known address/houseless
+
+Risks or dependencies:
+- PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
+- Integration with PEGA is still being developed
+- 
+Other considerations:
+- Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
+- VA notify(?) and notifications in general
+- handling for mobile app
 
 --- 
 
