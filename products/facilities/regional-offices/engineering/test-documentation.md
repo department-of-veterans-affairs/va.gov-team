@@ -1,5 +1,30 @@
 # Testing
-# Test Plan
+## Overview of VBA Regional Benefit Offices product and complexity
+The product is a page generated from CMS editor content using templates in content-build with one widget being brought in from vets-website. The page is made up of several templates from other products as well as some new pieces. Much of the beginning of the VBA Regional Benefit Office page is centralized content in a departure from VAMC, e.g. the intro text is centralized and uniformed across all facilities, leading to more certainty in testing. Shared content like the top task links (e.g. make an appointment), the On-this-page contents, operating hours display, Medallia survey button, back-to-top component etc. make the product less complex to test. 
+
+Generally, the simplicity of the page comes from:
+1. Unauthenticated content
+2. Unidirectional flow of content
+3. Uses shared templates from other products as much as possible
+4. Uses design system components as much as possible
+
+The complexity of the page comes from:
+1. React Widget with API Calls for Nearby VA Locations and Dynamic Content (i.e. if vets-api returns no close locations, we show the user a message indicating that fact rather than a list of far locations.)
+2. Branching logic whether to display certain content on the page (i.e. if editor does not provide "Prepare for your visit" content we do not show the section)
+
+React widget complexity:
+The interactive complexity is simple, but the API dependence adds to its comprehensive complexity. Component testing with mock data is added for all scenarios 
+
+The interactive elements on the page are limited to **accordions**, **links** and occasionally **operating status notifications**:
+There are two forms of accordion sets on the page, one for "Prepare for your visit" (very limited complexity) and a few sets of "Service" accordions (moderate complexity). The "Prepare for your visit" accordion items represent a list of content that comes from WYSIWYG CMS editor content without any processing in content-build. The "Service" accordions are migrating to a centralized design with VAMC which now also have adopted the pattern of using the Service Location Paragraph type from CMS. While this makes them more complex than the WYSIWYG content from CMS, they contain logic is tested (see below about accordion testing). As we migrate VAMC to the shared Service Location Paragraph types we are consolidating automated testing and ensuring correctness with manual UX testing.
+
+Links can be found throughout the page and, when possible, are using va-link components ensuring their reliability. However, in general, most links come from CMS content and make it difficult to test in an automated way, therefore it is the responsibility of the editor to ensure links are correct.
+
+Unchanging elements on the page are limited to **spotlight cards**, **Benefits Hotline alert**, **Updates links container**, **Office hours**, are components when possible (e.g. alerts), and generally are just containers for links. These elements are fairly simple, but do often depend on content from the CMS as well.
+
+
+
+## Test Plan
 1. Since the contents of the VBA Regional Office Pages are dynamic (they can be created, removed, updated of all content, etc. by CMS editors), the contents of the pages cannot be tested by e2e tests.
 2. Since the majority of the contents of the VBA Regional Office Pages are generated at build time using content-build, cypress e2e tests with mocking data cannot be used to test.
 3. We use a combination of manual content-releases of VBA content on tugboats and automated Continuous Integration-based unit and component testing to verify that the segments of liquid templates render into correct HTML pages (does not allow for rendering React components). For React components we use regular component testing in the vets-website repository.
