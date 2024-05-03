@@ -1,10 +1,10 @@
 WIP
 # 'Complex' de-duping (de-duping submission groups by multiple variants)
 
-'Complex de-duping' herin describes the process of translating a 'duplicate Report' into actionable subsets of submission IDs.  The simple 'duplicate Report' is sufficient for de-duping sumissions with only one variation per form.  However, when there are multiple variations we need a bit of further processing to break our 'Duplicate Report' down into smaller duplicate sets based on all duplicate values.
+'Complex de-duping' herin describes the process of translating a 'duplicate Report' into actionable subsets of submission IDs.  The simple 'duplicate Report' is sufficient for de-duping submissions with only one variation per form.  However, when there are multiple variations we need a bit of further processing to break our 'Duplicate Report' down into smaller duplicate sets based on all duplicate values.
 
 ## Axioms
-- GIVIN a set of sumissions, scoped to a single user
+- GIVIN a set of submissions, scoped to a single user
 - IF one submission is identical to another across all values it can be said to be a true duplicate of that submission
 - WHEN muptiple submission are identical across *all* form values, they can be said to be a true duplicate set.
 
@@ -152,13 +152,13 @@ In the contrived example below, you can see how we will break down a multi submi
 Note neither that the content of a given variant nor the keychain within which it was identified isn't imporant here. We can think of this data as nothing more than sets of dupe sets. Given this scope, we can simplify our data to a 3 level array.
 
 #### If we cared about the meaning of variant / key chain (we don't)
-|-------------|-----------|---------|---------|---------|---------|---------|---------|---------|
+
 |             | variant   | variant | variant | variant | variant | variant | variant | variant |
 |-------------|-----------|---------|---------|---------|---------|---------|---------|---------|
 | key chain 1 | [1,2,3,4] | [5,6]   |         |         |         |         |         |         |
 | key chain 2 |           |         | [2,3,5] | [1]     | [4,6]   |         |         |         |
 | key chain 3 |           |         |         |         |         | [1,4]   | [2,3]   | [5,6]   |
-|-------------|-----------|---------|---------|---------|---------|---------|---------|---------|
+
 
 #### Simplified for our purpose
 ```
