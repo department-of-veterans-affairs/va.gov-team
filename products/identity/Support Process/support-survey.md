@@ -173,8 +173,10 @@ This question allows users to volunteer for follow-up discussions.
 
 ## Import Survey to Domo
 
-This is the home page of the dataset:
-- ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/de1f8799-7d10-401d-9dc5-8d8061bc272b)
+This is the home page of the [dataset](https://va-gov.domo.com/datasources/617732e9-3202-4842-9f9e-149eda8ac293/details/settings?userId=1565237008)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/de1f8799-7d10-401d-9dc5-8d8061bc272b)
+
 From here, click on settings.
 
 Once in the settings area you'll want to drag the new file (in the form of an excel document) into the center of the details area, you can also click to upload it.
