@@ -16,7 +16,10 @@ How might we help family members of Veterans get the coverage they need for thei
 - Veterans spend less time spent waiting to hear back on their application status
 
 ## Undesired User Outcomes
-
+- Veterans are unaware that they can apply online
+- Veterans encounter errors during the online application process
+- Veterans have low confidence in the online process or have concerns around online security
+- The response burden is increased for the user
 
 ## Desired Business Outcomes
 
