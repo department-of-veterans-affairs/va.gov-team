@@ -1,4 +1,4 @@
-# User Acceptance Testing
+# VA Mobile App - Personalized Home Screen: User Acceptance Testing
 
 ## Goals of pre-launch UAT
 The personalized home screen includes information from Health and Benefits features as well as personal information. Our primary goal in conducting pre-launch UAT is to ensure data is displaying accurately and the home screen elements are working as expected. 
