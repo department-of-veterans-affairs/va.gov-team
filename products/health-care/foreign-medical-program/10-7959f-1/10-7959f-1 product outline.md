@@ -127,7 +127,6 @@ Key deliverables:
   - [user flows](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-18&mode=design)
   - [wireframes](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-19&mode=design)
   - [service map (WIP)](https://www.figma.com/file/is5cbY5lM3HjTT0GcXhDT7/CHAMPVA-Service-Map-(WIP)?type=whiteboard&node-id=0-1&t=2h13odIsLW9EPMql-0)
-  - [source of truth on github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/content-source-of-truth.md)
 - research: [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
 - testing: plan
 
