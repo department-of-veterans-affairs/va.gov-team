@@ -79,7 +79,6 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
   - Interoperability
   - new list and loop pattern
   - no known address/houseless
-  - LOA1
 - **Risks or dependencies**:
   - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
   - Integration with PEGA is still being developed and need better understanding of how files will be handled with this solution (more details [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/ADR-PEGA%20integration%20for%20CHAMPVA.md))
