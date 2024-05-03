@@ -2,7 +2,7 @@
 # Product Outline: 10-7959a CHAMPVA Claim Form
 
 ## Overview
-For beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online would be quicker and more efficient than going through the current paper process.
+For beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online would be faster and easier than going through the current paper process.
 
 ## Problem Statement
 For *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
