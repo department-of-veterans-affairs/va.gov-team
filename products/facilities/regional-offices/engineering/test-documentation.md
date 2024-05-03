@@ -1,6 +1,6 @@
 # Testing
 ## Overview of VBA Regional Benefit Offices product and complexity
-The product is a page generated from CMS editor content using templates in content-build with one widget being brought in from vets-website. The page is made up of several templates from other products as well as some new pieces. Much of the beginning of the VBA Regional Benefit Office page is centralized content in a departure from VAMC, e.g. the intro text is centralized and uniformed across all facilities, leading to more certainty in testing. Shared content like the top task links (e.g. make an appointment), the On-this-page contents, operating hours display, Medallia survey button, back-to-top component etc. make the product less complex to test. 
+The product is a page generated from CMS editor content using templates in content-build with one component being brought in from vets-website. The page is made up of several templates from other products as well as some new pieces. Much of the beginning of the VBA Regional Benefit Office page is centralized content in a departure from VAMC, e.g. the intro text is centralized and uniformed across all facilities, leading to more certainty in testing. Shared content like the top task links (e.g. make an appointment), the On-this-page contents, operating hours display, Medallia survey button, back-to-top component etc. make the product less complex to test. 
 
 Generally, the simplicity of the page comes from:
 1. Unauthenticated content
@@ -9,11 +9,11 @@ Generally, the simplicity of the page comes from:
 4. Uses design system components as much as possible
 
 The complexity of the page comes from:
-1. React Widget with API Calls for Nearby VA Locations and Dynamic Content (i.e. if vets-api returns no close locations, we show the user a message indicating that fact rather than a list of far locations.)
+1. React Component with API Calls (mapbox and vets-api) for Nearby VA Locations and Dynamic Content (i.e. if vets-api returns no close locations, we show the user a message indicating that fact rather than a list of far locations.)
 2. Branching logic whether to display certain content on the page (i.e. if editor does not provide "Prepare for your visit" content we do not show the section)
 
-React widget complexity:
-The interactive complexity is simple, but the API dependence adds to its comprehensive complexity. Component testing with mock data is added for all scenarios 
+React Component complexity:
+The interactive complexity is simple, but the API dependence adds to its comprehensive complexity. Component testing with mock data is added for all scenarios.
 
 The interactive elements on the page are limited to **accordions**, **links** and occasionally **operating status notifications**:
 There are two forms of accordion sets on the page, one for "Prepare for your visit" (very limited complexity) and a few sets of "Service" accordions (moderate complexity). The "Prepare for your visit" accordion items represent a list of content that comes from WYSIWYG CMS editor content without any processing in content-build. The "Service" accordions are migrating to a centralized design with VAMC which now also have adopted the pattern of using the Service Location Paragraph type from CMS. While this makes them more complex than the WYSIWYG content from CMS, they contain logic is tested (see below about accordion testing). As we migrate VAMC to the shared Service Location Paragraph types we are consolidating automated testing and ensuring correctness with manual UX testing.
@@ -64,7 +64,9 @@ Unchanging elements on the page are limited to **spotlight cards**, **Benefits H
     - (suggestion: A more comprehensive service location generator should be created which can test all possible values for field office visits, facility main phone number presence, etc).
   - tests presence and number of accordions with renderHTML
 
-
+### Testing of React Component (vets-website)
+- src/applications/static-pages/facilities/tests/NearbyLocations.unit.spec.jsx
+Since VBA Nearby Location and Vet Center Nearby Locations share significant code, the testing was expanded to include conditions of failure or lack of data from the 3 vets-api calls the VBA code makes.
 
 ## Unit Coverage
 |file | statements | branch  | funcs | lines | Uncovered |
