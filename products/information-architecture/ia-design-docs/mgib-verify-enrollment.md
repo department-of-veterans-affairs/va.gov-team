@@ -35,19 +35,27 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 **1) H1 of page - New**
 - URL: www.va.gov/education/verify-school-enrollment/mgib-verification/
 - Breadcrumb: TBD by Sitewide Content
-- Notes: Ensure that the breadcrumb matches the H1. Breadcrumb will not change as folks go through the tool flow, but the sub-URL should. Here is our guidance on creating sub-URLs:
+- Notes: Ensure that the breadcrumb matches the H1. Breadcrumb will not change as folks go through the form flow, but the sub-URL should. 
 
-  >Teams can choose their own sub-urls, or get help from CAIA in choosing them or vetting them.
+### Form Flow URLs
+
+As mentiond above, the sub-URL should update as users move through the flow and will build off the The canonical URL. Here is our guidance on creating sub-URLs:
+
+  > Teams can choose their own sub-urls, or get help from CAIA in choosing them or vetting them.
     Note some standard sub-urls:
   >
-    > - /introduction: use on the first page of the actual form (not the static page in drupal)
-    > - /review OR /review-and-submit: use for review steps in forms or tools
-    > - /results: use to display the results of a tool (not usually used in a form)
-    >- /confirmation: use for the confirmation page after form submission
+  > - /introduction: use on the first page of the actual form (not the static page in drupal)
+  > - /review OR /review-and-submit: use for review steps in forms or tools
+  > - /results: use to display the results of a tool (not usually used in a form)
+  > - /confirmation: use for the confirmation page after form submission
   >
-    > Subtask URL slugs should be short, plain language, and drawn from the H1 if possible. 
+  > Subtask URL slugs should be short, plain language, and drawn from the H1 if possible. 
     Reminder: Don’t create unnecessary or empty subdirectories when creating sub-URLs!
 
+We are recommending the following URLs:
+
+- `/enrollment-information `: step 1 in the form flow
+- `/confirmation`: successfully submitted form
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
