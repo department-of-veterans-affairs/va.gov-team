@@ -18,9 +18,6 @@ The Primary persona of this initiative is a leader at the VA who is responsible 
 ## Research Goals	
 - Does the proposed design tell the story our primary persona wants to tell?
 - Does the proposed design show the right data to tell that story?
-- Does the proposed design show the graphs and other data (trend and timeframe information) to support that story?
-- Do users want to see a list of all tools?
-- What insight do they want to see about tools?
 - Do users prefer the Performance Dashboard as it currently exists, the new Dashboard, or do they have no preference
 
 
@@ -29,10 +26,15 @@ This research will help us know if we have properly identified our primary perso
 
 ### Research questions
 
-- Review the definitions on the page. Describe what they are communicating.
-- Which aspects of the presented design will help you in your work?
-- Do you find any of the information on this page distracting or unimportant?
-- Is there information you wish was on this page but isn't?
+- Does the proposed design tell the story our primary persona wants to tell?
+	- Which aspects of the presented design will help you in your work?
+- Does the proposed design show the right data to tell that story?
+	- Share your thoughts about the graphs and other data (trend and timeframe information) displayed in this prototype?
+	- Would seeing all tools help you? How?
+ 	- What are your thoughts about the insights being shown about the tools? 
+ 	- Do you find any of the information on this page distracting or unimportant?
+  	- Is there information you wish was on this page but isn't? 
+- Do users prefer the Performance Dashboard as it currently exists, the new Dashboard, or do they have no preference
 
 ### Hypothesis
 
