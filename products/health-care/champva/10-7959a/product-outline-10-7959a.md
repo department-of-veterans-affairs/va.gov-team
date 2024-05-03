@@ -91,6 +91,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+[PDF](https://www.va.gov/vaforms/medical/pdf/vha-10-7959a-fill.pdf)
 
 ### After
 
