@@ -85,8 +85,8 @@ This issue is generally caused by LH downstream services having latency spikes.
 
 1. Check that the spike is temporary, note any duration over 5 minutes
 2. If over 5 minutes, check LH service for outages or maintenance work
-   - You can usually check [#lighthous-status](https://dsva.slack.com/archives/C066SRV1N80) for service reports
-   - [LighHouse Dashboard](https://vagov.ddog-gov.com/dashboard/zcp-cra-6hd/benefits---cst---v0benefitsclaimscontroller-latencies)
+   - You can usually check [#lighthouse-status](https://dsva.slack.com/archives/C066SRV1N80) for service reports
+   - [LightHouse Dashboard](https://vagov.ddog-gov.com/dashboard/zcp-cra-6hd/benefits---cst---v0benefitsclaimscontroller-latencies)
 
 ### [Claim Status Tool] Latency is high
 
