@@ -34,7 +34,13 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
-1. 
+1. [Does VA cover nursing home, assisted living, or other long-term care](www.va.gov/resources/does-va-cover-nursing-home-assisted-living-or-other-long-term-care) (100% good out of 23 total responses)
+2. [Getting care through the Foreign Medical Program](www.va.gov/resources/getting-care-through-the-foreign-medical-program/
+) (100% good out of 18 total responses)
+3. [How to get community care referrals and schedule appointments](www.va.gov/resources/how-to-get-community-care-referrals-and-schedule-appointments/) (100% good out of 17 total responses)
+4. [What does burial in a VA national cemetery include](www.va.gov/resources/what-does-burial-in-a-va-national-cemetery-include/) (98% good out of 60 total responses)
+5. [In-state tuition rates under the Veterans Choice Act](www.va.gov/resources/in-state-tuition-rates-under-the-veterans-choice-act/) (97% good out of 34 total responses)
+
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
 1. 
