@@ -66,15 +66,12 @@ In scope:
 - Integration with PEGA for forms and documents
 - Authenticated and unauthenticated experience
 - End to end testing with PEGA
-- monitoring
   
 Out of scope:
 - Integration with VES (this will need to be addressed in the future)
 - Checking for eligibility requirements
-- Interoperability
 - new list and loop pattern
-- no known address/houseless
-
+  
 Risks or dependencies:
 - PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
 - Integration with PEGA is still being developed
