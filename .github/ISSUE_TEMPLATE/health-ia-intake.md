@@ -22,19 +22,14 @@ assignees: sterkenburgsara
 >Links to any epic/stories that provide context
 - 
 
-### Timeline
->When does IA review need to be completed by?
-
-
----
-
-## IA Support
 
 ### Work needed
 
 >What outcome do you anticipate the fulfillment of this request to deliver?
 - 
 
+### Timeline
+>When does IA review need to be completed by?
 
 ## Acceptance Criteria
 - [ ] 
