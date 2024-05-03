@@ -23,8 +23,8 @@
                - Working with VA LGBTQ+ contacts & MPI for advisement
                - Eventually being standardized across VA
                - Workaround until standard update is implemented - Veteran and Caregivers can provide SIGI with CG staff
-     - **Link from Jaffar**
-          - https://www.patientcare.va.gov/LGBT/docs/FAQ-BirthSex-SelfIdentifiedGenderIdentityFactSheet.pdf
+          - **Link from Jaffar**
+               - https://www.patientcare.va.gov/LGBT/docs/FAQ-BirthSex-SelfIdentifiedGenderIdentityFactSheet.pdf
 - Addresses
      - On collecting multiple addresses and where information gets sent.
           - How are the addresses used for the applicants?
