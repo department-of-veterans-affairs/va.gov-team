@@ -15,21 +15,21 @@ assignees: sterkenburgsara
 - Team Name: 
 
 ### Description
->What details are necessary for understanding the specific work or request tracked by this issue?
+> What details are necessary for understanding the specific work or request tracked by this issue?
 
 ### Links
 
->Links to any epic/stories that provide context
+> Links to any epic/stories that provide context
 - 
 
 
 ### Work needed
 
->What outcome do you anticipate the fulfillment of this request to deliver?
+> What outcome do you anticipate the fulfillment of this request to deliver?
 - 
 
 ### Timeline
->When does IA review need to be completed by?
+> When does IA review need to be completed by?
 
 ## Acceptance Criteria
 - [ ] 
