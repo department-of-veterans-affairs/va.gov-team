@@ -128,7 +128,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Stakeholders
 
 <details>
+ 
  - OIT
  - CHAMPVA
+   
 </details>
 
