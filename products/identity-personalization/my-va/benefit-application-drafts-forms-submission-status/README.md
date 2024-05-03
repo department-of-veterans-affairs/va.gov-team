@@ -37,8 +37,6 @@ Over the past several months there have been issues with Veterans seemingly subm
 The Authenticated Experience My VA team is partnering with the Veteran Facing Forms team to address the challenges Veterans face in not knowing there is an error with their form. It is out of scope for our team to address problems with Central Mail.
 
 This work in alignment with [OCTO-DE 2024 priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) and supports Objective 1: Our digital experiences are the best way to access VA health care and benefits. This initiative is also in alignment with the [OCTO Benefits Portfolio prioritization framework](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705375308356/7e8c7aa4102f88511e577cf51f9092cc1f8bba8a?sender=u5423c3b2d59df3d2f5882779) by supporting category 2: Silent submission failure: _A Veteran believes an online transaction (form, evidence, etc.) has been successfully sent to VA, but it silently desappeared instead._ 
-![Screenshot 2024-05-03 at 10 29 56 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/1c530f62-56c2-4520-91f0-4da781b0c9e8)
-
 
 ## Problems
 
