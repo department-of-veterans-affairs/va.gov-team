@@ -70,6 +70,11 @@ As we work towards this MVP, we will also be considering how this widget may sup
 1. MVP target launch date: June 2024
    
 ---
+## Product Playbook / Incident Response Plan
+
+[Representative Status Widget Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/launch-materials/product-playbook-incident-response-plan.md)
+
+---
 
 ## Solution Narrative
 
