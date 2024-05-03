@@ -93,7 +93,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   
 Key deliverables:
 - design:
-- user flows:
 - research:
 - testing plan:
   
