@@ -27,7 +27,9 @@ This research will help us know if we have properly identified our primary perso
 
 ### Research questions
 
-- Which aspects of the presented design will help you in your communication. What is detracting from it?
+- Review the definitions on the page. Describe what they are communicating.
+- Which aspects of the presented design will help you in your work?
+- Do you find any of the information on this page distracting or unimportant?
 - Is there additional data that would help you tell that story?
 - Is there data here that should be removed?
 
