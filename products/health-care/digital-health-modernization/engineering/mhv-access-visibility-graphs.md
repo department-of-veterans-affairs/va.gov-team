@@ -3,27 +3,29 @@
 ```mermaid
 graph TD
 
-MHVLanding.Access[Can I access the MHV Landing Page?]
-MHVLanding.LoggedIn[Are you logged in?]
+MHVLanding.AccessQ[Can I access the MHV Landing Page?]
+MHVLanding.LoggedInQ[Are you logged in?]
 MHVLanding.AuthReq[You must be logged in <br>to view this page]
-MHVLanding.Viewable[You can see this page/tool]
-MHVLanding.MessagesDot[Will I see the unread messages indicator?]
-MHVLanding.ShowToolLinks?[Will I see links to MHV tools?]
-MHVLanding.ShowUnverified?["`Will I see a _Not verified_ alert?`"]
-MHVLanding.ShowUnregistered?["`Will I see an _Unregistered_ alert?`"]
-MHVLanding.isLOA1[Is your account LOA1?]
-MHVLanding.isUnverified["`You will see a _Not verified_ alert`"]
+MHVLanding.Viewable[You can see the landing page]
+MHVLanding.MessagesDotQ[Will I see the unread <br>messages indicator?]
+MHVLanding.ToolLinksQ[Will I see links to <br>MHV tools?]
+MHVLanding.UnverifiedQ[Will I see a <br><i>Not verified</i> alert?]
+MHVLanding.UnregisteredQ[Will I see an <br><i>Unregistered</i> alert?]
+MHVLanding.FacilitiesQ[Have you been seen at a facility or registered with one?]
+MHVLanding.LOA1Q[Is your account LOA1?]
+MHVLanding.ShowUnverified[You will see a <br><i>Not verified</i> alert]
+MHVLanding.ToolLinksVisible[Links to MHV tools <br>will be visible]
 
-MHVLanding.Access --> MHVLanding.LoggedIn
-MHVLanding.LoggedIn -->|No| MHVLanding.AuthReq
-MHVLanding.LoggedIn -->|Yes| MHVLanding.Viewable
-MHVLanding.Viewable -.- MHVLanding.MessagesDot
-MHVLanding.Viewable -.- MHVLanding.ShowUnverified
-MHVLanding.Viewable -.- MHVLanding.ShowToolLinks
-MHVLanding.ShowToolLinks --> MHVLanding.isLOA1
-MHVLanding.ShowUnverified --> MHVLanding.isLOA1
-MHVLanding.isLOA1 -->|Yes| MHVLanding.isUnverified
-MHVLanding.isLOA1 -->|No| MHVLanding.isUnverified
+MHVLanding.AccessQ -.-> MHVLanding.LoggedInQ
+MHVLanding.LoggedInQ -->|No| MHVLanding.AuthReq
+MHVLanding.LoggedInQ -->|Yes| MHVLanding.Viewable
+MHVLanding.Viewable -.- MHVLanding.MessagesDotQ
+MHVLanding.Viewable -.- MHVLanding.UnverifiedQ
+MHVLanding.Viewable -.- MHVLanding.ToolLinksQ
+MHVLanding.ToolLinksQ --> MHVLanding.LOA1Q
+MHVLanding.UnverifiedQ --> MHVLanding.LOA1Q
+MHVLanding.LOA1Q -->|Yes| MHVLanding.ShowUnverified
+MHVLanding.LOA1Q -->|No| MHVLanding.ToolLinksVisible
 ```
 
 ```mermaid
