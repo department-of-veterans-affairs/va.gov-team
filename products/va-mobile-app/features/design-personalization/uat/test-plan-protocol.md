@@ -1,4 +1,4 @@
-# VA Mobile App - Personalized Home Screen UAT Plan & Protocol
+# VA Mobile App - Personalized Home Screen: UAT Plan & Protocol
 
 Based on [Standard Work - Mobile App UAT 020123](https://docs.google.com/document/d/1_TGZ3W4d7DbLfNAkbaSvv5GAHZUnkTA4_izlJWxgR0I/edit) 
 
