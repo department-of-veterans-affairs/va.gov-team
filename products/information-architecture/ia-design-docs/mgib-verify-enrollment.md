@@ -86,8 +86,9 @@ This a shorter flow and doesn't follow the typical form flow that starts with `/
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/mgib-verification/ **and all child pages** | We recommend working with stakeholders and WAVE team so the WAVE redirects to the new tool.
- 
+https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/mgib-verification/ **and all child pages** | Work with stakeholders and WAVE team so the WAVE redirects to the new tool.
+https://www.va.gov/resources/gi-bill-wave-faqs/ | www.va.gov/education/verify-school-enrollment/mgib-verification/ | IA can create a redirect ticket for this
+
 
 
 ## <a name="bestbets"></a>Best Bets<br>
