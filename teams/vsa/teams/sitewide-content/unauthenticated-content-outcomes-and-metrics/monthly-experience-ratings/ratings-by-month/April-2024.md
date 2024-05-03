@@ -3,7 +3,7 @@
 
 ## Related overall scores
 - **Total customer satsifaction score:** 57.4 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XXXX out of XXXX total)
+- **Average resources and support good/bad experience score:** 76% "good" experience rating overall (6,376 out of 8,426 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -55,7 +55,7 @@ All pages have ratings of 2 or below.
 [Resources and support ratings spreadsheet]
 - As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a XX% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with XX% scoring at less than 10% "good" 
+  - 21% of pages are scoring at 90% or higher "good"
+  - 47% of pages are meeting our goal of 75% or higher "good," while 51% of pages are scoring 70% or higher
+  - 20% of pages are scoring at less than 50% "good," with 2% scoring at less than 10% "good" 
 - 
