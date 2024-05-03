@@ -31,24 +31,22 @@ Debt Letter Detail Page: https://github.com/department-of-veterans-affairs/vets-
 - Diary Code: 483, Message: We're reviewing your account
 - Diary Code: 484, Message: We're reviewing your account
 
-## Payment Requests is coming from debts.json
+## Payment Requests 
+If the date is missing, we will display this verbiage: **by 30/60 days from when you received this notice**
 
-- Diary Code: 100, Message: Pay your 100.00 balance now or request help by October 18, 2012.
-- Diary Code: 117, Message: Pay your 100.00 past due balance in full or request help before May 31, 2017
-- Diary Code: 123, Message: Pay your 100.00 past due balance now or request help by October 7, 2018
-
-## Payment Requests
-
-- Diary Code: 439, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice
-- Diary Code: 449, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice
-- Diary Code: 459, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice
-- Diary Code: 109, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice to avoid more interest charges
-- Diary Code: 102, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice.
-- Diary Code: 130, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice.
-- Diary Code: 140, Message: Pay your 100.00 balance now or request help by 30 days from the date you received this notice.
+- Diary Code: 439, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice
+- Diary Code: 449, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice
+- Diary Code: 459, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice
+- Diary Code: 109, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice to avoid more interest charges
+- Diary Code: 102, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice.
+- Diary Code: 100, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice
+- Diary Code: 117, Message: Pay your 100.00 past due balance in full or request help before 60 days from when you received this notice
+- Diary Code: 123, Message: Pay your 100.00 past due balance now or request help by 60 days from when you received this notice
+- Diary Code: 130, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice.
+- Diary Code: 140, Message: Pay your 100.00 balance now or request help by 30 days from when you received this notice.
 - Diary Code: 680, Message: Pay your 100.00 balance now or request help
-- Diary Code: 603, Message: Make a payment on your 100.00 balance or request help by 30 days from the date you received this notice
-- Diary Code: 613, Message: Make a payment on your 100.00 balance or request help by 30 days from the date you received this notice
+- Diary Code: 603, Message: Make a payment on your 100.00 balance or request help by 30 days from when you received this notice
+- Diary Code: 613, Message: Make a payment on your 100.00 balance or request help by 30 days from when you received this notice
 
 ## Collection Paused
 
@@ -99,7 +97,7 @@ Debt Letter Detail Page: https://github.com/department-of-veterans-affairs/vets-
 ## Compromise Offer
 
 - Diary Code: 811, Message: Continue making monthly payments while we review your compromise offer
-- Diary Code: 815, Message: Pay your one time payment as part of your compromise agreement by 30 days from the date you received this notice
+- Diary Code: 815, Message: Pay your one time payment as part of your compromise agreement by 30 days from when you received this notice
 - Diary Code: 816, Message: We're processing your compromise offer payment
 
 ## Waiver Request
