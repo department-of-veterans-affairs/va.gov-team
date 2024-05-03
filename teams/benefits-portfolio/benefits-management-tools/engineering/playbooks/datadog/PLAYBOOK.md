@@ -1,20 +1,22 @@
 # DataDog Alert Remediation Playbook
 
-These are the instructions on how to research and remediate alerts from DataDog.
+These are the instructions on how to research and remediate alerts from DataDog for Benefits Management.
 
 ## Information
 
 Slack Channel: [#benefits-management-tools-notifications](https://dsva.slack.com/archives/C0600QN7CFJ)
+
 Data Dog Alerts:
 
 - [DataDog Watchtower Links](https://vagov.ddog-gov.com/monitors/manage?q=team%3Abenefits%20tag%3A%28%22watchtower%22%20AND%20%22team-group%3Amanagement-tools%22%29&order=asc&sort=status)
 - [All DataDog Links](https://vagov.ddog-gov.com/monitors/manage?q=team%3Abenefits%20tag%3A%22team-group%3Amanagement-tools%22&order=asc&sort=status)
-  OCTO Watchtower Issues: [GH OCTO Watchtower](https://github.com/department-of-veterans-affairs/octo_watchofficer/issues)
+- [GH OCTO Watchtower](https://github.com/department-of-veterans-affairs/octo_watchofficer/issues)
 
 ## Initial Steps
 
 1. Whomever investigates should mark the message with a set of eyes (👀)
 2. Check the [Playbooks](#Playbooks) below to see if there are individual steps
+   - If you do not find steps, record the steps you take to research alert and add them
 3. Once all steps are complete, mark the message with a white checkmark (✅)
 
 ## Playbooks
@@ -25,7 +27,7 @@ These playbooks are specific to individual alerts.
 
 This alert happens when a document fails to upload to EVSS. There are many possible causes including service timeouts or accounts missing information.
 
-### Example Message
+#### Example Message
 
 > Triggered: EVSS::DocumentUpload has exhausted its sidekiq queue
 > A EVSS::DocumentUpload sidekiq job has exhausted it's queue retries attempt.
@@ -53,3 +55,50 @@ This alert happens when a document fails to upload to EVSS. There are many possi
      > Hello Bonnie, we had an issue with an EVSS Document upload. I emailed you the EDIPI
      >
      > cc. @Steve Albers | @Jerek Shoemaker
+
+### BenefitsClaimsController API Lighthouse service rate limit hit
+
+This issue can happen for a few reasons. One known reason is the mechanism to renew Light House OAuth tokens. Currently if the token is about to expire, the Redis entry with the token is evicted. This causes the request of a new token. If there are multiple requests from the time the token is evicted and the new token is stored, it will cause one token request per api request. This can cause the API to spam that endpoint and get rate-limited.
+
+#### Example Message
+
+> The Lighthouse API used for BenefitsClaimsController has hit the rate limit.
+> In the case of a 429, email [api@va.gov](mailto:api@va.gov "mailto:api@va.gov") with your va.gov email > and attach a screenshot of the error. Include a brief explanation and a request to increase the rate limit
+
+#### Steps to Research/Remediate
+
+1. TODO
+
+### [Claim Status Tool] LH Claims latency
+
+This issue is generally caused by LH downstream services having latency spikes.
+
+#### Example Message
+
+> ALERT LH Claims is having higher than expected latency.
+> The current p95 API response time is 9.039 seconds
+> Dashboard
+> Widget
+> Group
+
+#### Steps to Research/Remediate
+
+1. Check that the spike is temporary, note any duration over 5 minutes
+2. If over 5 minutes, check LH service for outages or maintenance work
+   - You can usually check [#lighthous-status](https://dsva.slack.com/archives/C066SRV1N80) for service reports
+   - [LighHouse Dashboard](https://vagov.ddog-gov.com/dashboard/zcp-cra-6hd/benefits---cst---v0benefitsclaimscontroller-latencies)
+
+### [Claim Status Tool] Latency is high
+
+This issue is generally caused by LH downstream services having latency spikes. Usually seen at the same time as `[Claim Status Tool] LH Claims latency`
+
+#### Example Message
+
+> ALERT Claim Status Tool is having higher than expected latency.
+> The current p95 API response time is 8.496 seconds
+
+#### Steps to Research/Remediate
+
+1. Check that the spike is temporary, note any duration over 5 minutes
+2. If over 5 minutes, check services for outages or maintenance work
+   - [#platform-cop-backend](https://dsva.slack.com/archives/C0460N83Y9G)
