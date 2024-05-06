@@ -52,15 +52,15 @@ ________________________________________________________________________________
          - 🟦 [Copy of [FE] Build out appointment notification list](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81772)
          - 🟥 [[DESIGN] Solidify UI for linking to notifications page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81808)
          - 🟥 [[Design] Create wireframes for Appointment Notifications card statuses](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81769)
-         - 🟨 [Discovery on latest MHV notifications work](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81765)
+         - ✔️ 🟨 [Discovery on latest MHV notifications work](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81765)
     - **Sub Goal: Address Collab Cycle feedback from Design Intent**
          - 🟥 [Design Feedback - Design Intent - Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81698)
          - 🟥 [Design Intent - IA Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81721)
          - 🟥 [Design Intent - Accessibility Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81745)
     - **Sub Goal: [Feature] Discovery on Access Standards and drive time calc**
-         - 🟥 [Document business rules around calculating drive time, etc.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81776)
+         - ✔️ 🟥 [Document business rules around calculating drive time, etc.](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81776)
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
-         - 🟦 [Create FE mocks based on WellHive API swagger](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81913)
+         - 🟦 [Mock wellHive Appointment endpoints](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81913)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [Create CC app within vets-website](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81933) 
 ______________________________________________________________________________________________________________________________________________________
