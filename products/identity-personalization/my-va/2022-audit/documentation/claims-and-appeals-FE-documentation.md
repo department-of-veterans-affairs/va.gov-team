@@ -1,5 +1,5 @@
 # My VA Claims and Appeals Frontend Documentation
-Last updated: August 1, 2023
+Last updated: May 6, 2024
 
 ## When to show the ‘Claims and appeals’ section
 We show this section for every LOA3 user.
@@ -65,7 +65,7 @@ A max of **one** status card should be showing at any given time for a user.
 
 ### Learn how to file a claim link
 
-![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
+<img width="539" alt="Screenshot 2024-05-06 at 4 23 06 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/f8b3a74e-4a92-4244-bc6d-2b5cbbb58514">
 
 Use VA-icon `description` (as of 5/2024)
 
@@ -83,8 +83,7 @@ Use VA-icon `description` (as of 5/2024)
 
 ### Manage all claims and appeals link
 
-![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
-
+<img width="539" alt="Screenshot 2024-05-06 at 4 23 06 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/f8b3a74e-4a92-4244-bc6d-2b5cbbb58514">
 - Use VA-icon `assignment_turned_in` (as of 5/2024)
 
 **Show**
