@@ -112,7 +112,6 @@ This one-time process takes about 5-10 minutes.
 - This section has two states: a user has benefit applications in progress to show, and a user does not have any benefit applications in progress to show.
 
 ---
-
 ### If a user does not have any applications in progress to show
 
 - [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=CREOF8xG3jKa75nz-1)
@@ -137,7 +136,7 @@ This section should appear directly below the "Education and training" section.
 - [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A239&mode=design&t=CREOF8xG3jKa75nz-1)
 - [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A905&mode=design&t=CREOF8xG3jKa75nz-1)
 
-<img width="427" alt="Screenshot 2023-08-28 at 12 49 37 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/3083529a-6266-4015-9c52-6348c9b35a67">
+<img width="546" alt="Screenshot 2024-05-06 at 6 30 18 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c6bfcff9-1cf7-4f3d-885a-7d782aed4360">
 
 **Show card**
 
