@@ -13,21 +13,22 @@ How might we help family members of Veterans get the coverage they need for thei
 
 - Veterans are able to fill out the claim form online on VA.gov
 - Veterans spend less time, effort and money filling out and mailing paperwork
-- Veterans spend less time spent waiting to hear back on their application status
+- Veterans spend less time spent waiting to hear back on the status of their claims
 
 ## Undesired User Outcomes
-- Veterans are unaware that they can apply online
-- Veterans encounter errors during the online application process
+- Veterans are unaware that they can file claims online
+- Veterans encounter errors during the online filing process
 - Veterans have low confidence in the online process or have concerns around online security
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Reduce amount of time spent processing paper forms
+- Replace outdated and legacy DAPER system with PEGA for document upload and management
 
 ## Undesired Business Outcomes
 
-
+- The information entered online by Veterans is not successfully submitted to the VA
+Online forms processing adds confusion and complicates workflows further
 ---
 ## Measuring Success
 
