@@ -25,6 +25,8 @@ IA created a [VYE flow Mural](https://app.mural.co/t/departmentofveteransaffairs
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
+![Image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/d972734c-64dc-4d60-9da5-a422a181232c)
+
 
 The tool to verify enrollment for Montgomery GI Bill Benefits will live on the same static page as Post-9/11 VYE, but will have it's own URL. We recommend having both tools on the same page, www.va.gov/education/verify-school-enrollment/enrollment-verifications/. Ideally, this page would only show the relevant benefit to the Veteran so folks don't have to choose between benefits. Due to where the team is at development, it's out of scope at this time to coordinate with the other VYE team about integrating MGIB tool on the same URL, but the team is open to adding this to the backlog for a later version.
 
