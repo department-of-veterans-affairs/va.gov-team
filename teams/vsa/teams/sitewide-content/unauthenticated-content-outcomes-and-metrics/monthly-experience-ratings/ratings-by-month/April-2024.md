@@ -59,7 +59,12 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1. 
+1.  [Signiing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (40% good out of 364 total responses)
+2.  [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 280 total responses)
+3. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (39% good out of 129 total responses)
+4. [How to change your legal name on file with VA](www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) (41% good out of 76 total responses)
+5. [About our VA community care network and covered services](www.va.gov/resources/about-our-va-community-care-network-and-covered-services/) (48% good out of 50 total responses)
+
 ## Analysis
 [Resources and support ratings spreadsheet]
 - As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a XX% "good" average rating.
