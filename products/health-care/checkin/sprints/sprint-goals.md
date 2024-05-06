@@ -157,7 +157,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟨 [[DevOps] Validate staging BTSSS calls work as expected with and without fwdproxy integration. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81640)
+    - ✔️❗🟨 [[DevOps] Validate staging BTSSS calls work as expected with and without fwdproxy integration. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81640)
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - 🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
@@ -171,9 +171,9 @@ ________________________________________________________________________________
         - 🟦 [[BE] Appointments Controller: merge facilities ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81882)
         - 🟦 [[BE] Implement get_clinic method in facility service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81881)
         - 🟩 [[FE] - Update frontend to use real VAOS data ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71995)
-        - 🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
-        - 🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
-        - 🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
+        - ✔️🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
+        - ✔️🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
+        - ✔️🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
         - 🟩 [[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
         - 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
         - 🟩 [[FE] Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
