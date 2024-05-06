@@ -43,7 +43,7 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
    - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16605
    
 7. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
-   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service will be used
+   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service will be used see below on how to generate the bearer token locally.
    - Add logic to validate JSON keys
    - Example:
     ```
@@ -84,7 +84,34 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
    After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
 9. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
 10. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
-11. Example of a payload that DOCMP PEGA will post into our API endpoint:
 
+
+## Generating the bearer token
+1. Generate the `jwt` with this script. Will likely have to adjust `scope` when in higher environments
+```
+current_time = Time.now.to_i
+never_expire_timestamp = current_time + (100 * 365 * 24 * 60 * 60)
+token = {
+  'iss' => 'docmp-champva-forms-aws-lambda',
+  'sub' => 'AWS Lambda',
+  'aud' => 'http://127.0.0.1:3000/v0/sign_in/token',
+  'iat' => current_time,
+  'exp' => never_expire_timestamp,
+  'scopes' => ['http://localhost:3000/ivc_champva/v1/forms/status_updates'],
+  'service_account_id' => '6747fb5e6bdb18b2f6f0b890ff584b07',
+  'jti' => '2ed8a21d207adf50eb935e32d25a41ff'
+}
+
+private_key = OpenSSL::PKey::RSA.new(File.read('spec/fixtures/sign_in/sts_client.pem'))
+jwt = JWT.encode(token, private_key, 'RS256')
+```
+
+2. Copy the `jwt` and replace the XXXX it in the assertion below:
+
+`curl -X POST 'http://localhost:3000/v0/sign_in/token?grant_type=urn:ietf:params:oauth:grant-type:jwt-bearer&assertion=XXXX’`
+
+3. Lastly you can test it against this if you don't use Postman:
+
+`curl -X POST 'http://localhost:3000/ivc_champva/v1/forms/status_updates' -H 'Authorization: Bearer '`
 
 
