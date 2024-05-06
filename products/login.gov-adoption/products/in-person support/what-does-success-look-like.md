@@ -23,4 +23,11 @@ Regardless of how we frame success going forward, it would be incredibly helpful
 - Who we talked to and worked with
 - Results of the usability test
 - Lessons learned across the entire engagement
-  
+
+## What success looks like
+
+This section is a WIP that will evolve with discussion. At the very least, I think success looks like the following:
+
+- (1) in-person proofing pilot to test the usability of the flows designed by the team.
+- A synthesis of the proofing pilot.
+- A broader report that documents the larger effort (outlined above).
