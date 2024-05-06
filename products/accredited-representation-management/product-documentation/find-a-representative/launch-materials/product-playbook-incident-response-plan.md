@@ -75,6 +75,31 @@ Here's a list of useful queries against the `flagged_veteran_representative_cont
 
 #### Queries
 
+##### Create .csv File of All Records
+Run the following script to create a `.csv` file of all records in the `flagged_veteran_representative_contact_data` table.
+
+```
+require 'csv'
+
+data = RepresentationManagement::FlaggedVeteranRepresentativeContactData.all.map do |record|
+  [record.id, record.ip_address, record.representative_id, record.flag_type, record.flagged_value, record.created_at, record.updated_at, record.flagged_value_updated_at]
+end
+
+headers = ['ID', 'IP Address', 'Representative ID', 'Flag Type', 'Flagged Value', 'Created At', 'Updated At', 'Flagged Value Updated At']
+
+CSV.open('flagged_data.csv', 'wb') do |csv|
+  csv << headers
+  data.each do |row|
+    csv << row
+  end
+end
+
+file_path = File.expand_path('flagged_data.csv')
+puts "CSV file created successfully. Download it from: #{file_path}"
+```
+
+To view the `.csv` file, exit the Rails Console session, and run the following command: `cat flagged_data.csv`
+
 #### List All Records
 Use the following ActiveRecord query to get a list of all records.
 
