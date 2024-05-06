@@ -89,7 +89,7 @@ Type: [paycheck type]
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
-Use font awesome icon `dollar` for icon in link list
+Use VA-icon `attach_money` for icon in link list
 
 **Show**
 - If a user has direct deposit set up.
@@ -109,7 +109,7 @@ Use font awesome icon `dollar` for icon in link list
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
 
-- Use font-awesome icon “file-invoice-dollar”
+- Use VA-icon “request_quote”
 
 **Show**
 - If a user has never had debt or their current debt balance is 0.
@@ -125,7 +125,7 @@ Use font awesome icon `dollar` for icon in link list
 
 ### View your payment history link
 
-- Use font awesome icon “user-check”
+- Use VA-icon “how_to_reg”
 
 **Show in payment card**
 - If a user has a payment in the last 30 days
