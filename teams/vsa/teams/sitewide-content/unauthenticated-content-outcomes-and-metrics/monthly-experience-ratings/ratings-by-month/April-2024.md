@@ -43,11 +43,20 @@ All pages have ratings of 2 or below.
 
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
-1. 
+1. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 280 total responses)
+2. [How to get help with concerns at a VA health facility](www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (26% good out of 42 total responses)
+3. [Can I get a replacement GI Bill benefit certificate of eligibility](www.va.gov/resources/can-i-get-a-replacement-gi-bill-benefit-certificate-of-eligibility/) (30% good out of 44 total responses)
+4. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (39% good out of 129 total responses)
+5. [Should I create a login.gov or id.me account to sign in to va.gov](www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/) (40% good out of 10 total responses)
    
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
-1. 
+1. [The PACT Act and your VA benefits](www.va.gov/resources/the-pact-act-and-your-va-benefits/) (88% good out of 1,341 total responses)
+2. [How to check in with your smartphone for some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (94% good out of 1,154 total responses)
+3. [Reimbursed VA travel expenses and mileage rate](www.va.gov/resources/reimbursed-va-travel-expenses-and-mileage-rate/) (82% good out of 889 total responses)
+4. [Vetext for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (95% good out of 415 total responses)
+5. [Commissary and exchange priviliges for Veterans](www.va.gov/resources/commissary-and-exchange-privileges-for-veterans/) (91% good out of 255 toal responses)
+   
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
 1. 
