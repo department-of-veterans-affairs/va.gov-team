@@ -55,7 +55,7 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- New Landing Page with Upcoming Appointments
+- NONE
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -72,8 +72,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
-        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
-        - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)       
+        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)    
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
@@ -107,7 +106,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
+    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
 - **GOAL: Make Travel Claims Easier**
@@ -121,14 +120,13 @@ ________________________________________________________________________________
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟥 [[Audit and Update the Figma Files for Priority 1 (New Landing Page w/ Upcoming Appointments) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82358)
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
+        - 🟩 [[FE] Add Accordions to the Appointments Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
         - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
         - 🟩 [[FE] - Review current past 15 minutes but still in lorota flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
-        - 🟩 [[FE] New Appointment Disclaimer Accordion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
         - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)   
-        - 🟦🟩 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟦 [[Analytics] Enable travel claim by station widget to show past 1 year of metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82313)
