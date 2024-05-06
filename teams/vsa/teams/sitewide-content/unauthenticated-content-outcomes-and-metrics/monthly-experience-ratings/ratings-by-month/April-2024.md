@@ -1,4 +1,3 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: April 2024
 
 ## Related overall scores
@@ -63,17 +62,18 @@ All pages have ratings of 2 or below.
    
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
-1.  [Signiing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (40% good out of 364 total responses)
-2.  [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 280 total responses)
+1. [Signiing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (40% good out of 364 total responses)
+2. [Verifying your identity on VA.gov](www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 280 total responses)
 3. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (39% good out of 129 total responses)
 4. [How to change your legal name on file with VA](www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) (41% good out of 76 total responses)
 5. [About our VA community care network and covered services](www.va.gov/resources/about-our-va-community-care-network-and-covered-services/) (48% good out of 50 total responses)
 
 ## Analysis
-[Resources and support ratings spreadsheet]
-- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a XX% "good" average rating.
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20rating%20tracking%20April%202024.xlsx?d=wbac5fff2f2514d7784536c823fe0cf70&csf=1&web=1&e=rLY56J)
+
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 76% "good" average rating.
 - Performance isn't as high when broken down to individual pages:
   - 21% of pages are scoring at 90% or higher "good"
   - 47% of pages are meeting our goal of 75% or higher "good," while 51% of pages are scoring 70% or higher
   - 20% of pages are scoring at less than 50% "good," with 2% scoring at less than 10% "good" 
-- 
+- Sign-in and verification pages continue to be some of the lowest scoring pages. We should continue to monitor Medallia feedback to determine if users have issues with the page or the process.
