@@ -26,10 +26,14 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  
+  - 47% (50 of 107) R&S pages have a 75% or higher "good" score
+  - 30% (32 of 107) R&S pages have a 51% - 74% "good" score
+  - 23% (25 of 107) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:**
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/4c091977-f297-46c0-9b79-fffd7419c9d1)
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/59ba2e12-d596-4295-9c78-98d173c9bac6)
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
