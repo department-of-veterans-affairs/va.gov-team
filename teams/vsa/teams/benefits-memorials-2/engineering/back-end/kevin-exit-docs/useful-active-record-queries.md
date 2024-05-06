@@ -81,7 +81,7 @@ See our [user relational structure](../user-relational-structure.md) documentati
 
 ## MISC.
 ```
-# Pull the most recent FSR submission
+# Pull the most recent FSR submission for copays
 sub = DebtsApi::V0::Form5655Submission
 .with_debt_type("COPAY")
 .order(:created_at)

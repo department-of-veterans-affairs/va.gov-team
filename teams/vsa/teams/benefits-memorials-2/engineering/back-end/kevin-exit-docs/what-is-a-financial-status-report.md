@@ -8,7 +8,7 @@ The FSR has a couple variants you should be aware of. Veterans submitting an FSR
 #### Streamlined FSR
 When filling out an FSR form for only copays, veterans that meet certain financial criteria will get an expedited experience with fewer questions. Basically, if a veteran is poor enough we don't want or need to waste their time asking if they have any jewels or expensive works of art. This shorter version of the FSR is called 'streamlined' and we have a bunch of logic on both the front & back ends to accommodate it.
 #### The InProgressForm Model
-All VA forms, including this one, persist their data via the [InProgressForm](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/in_progress_form.rb) model. If you were to get on a Rails console for the environment you're using you could see your form data getting persisted with this ActiveRecord Query- ```
+All VA forms, including this one, persist their data via the [InProgressForm](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/in_progress_form.rb) model. If you were to get on a Rails console for the environment you're using, you could see your form data getting persisted with this ActiveRecord Query- ```
 ```
 InProgressForm.where(form_id: '5655', user_uuid: *your user uuid*).last.form_data
 ```
