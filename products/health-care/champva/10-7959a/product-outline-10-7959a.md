@@ -2,16 +2,16 @@
 # Product Outline: 10-7959a CHAMPVA Claim Form
 
 ## Overview
-For beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online would be faster and easier than going through the current paper process.
+For Veterans and beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online would be faster and easier than going through the current paper process.
 
 ## Problem Statement
-For *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+Veterans and their beneficiaries need a way to file claims through CHAMPVA online, so they can get coverage for the services they need.
 
 How might we help family members of Veterans get the coverage they need for their claims?
  
 ## Desired User Outcomes
 
-- Veterans are able to fill out the registration form online on VA.gov
+- Veterans are able to fill out the claim form online on VA.gov
 - Veterans spend less time, effort and money filling out and mailing paperwork
 - Veterans spend less time spent waiting to hear back on their application status
 
@@ -19,7 +19,6 @@ How might we help family members of Veterans get the coverage they need for thei
 - Veterans are unaware that they can apply online
 - Veterans encounter errors during the online application process
 - Veterans have low confidence in the online process or have concerns around online security
-- The response burden is increased for the user
 
 ## Desired Business Outcomes
 
