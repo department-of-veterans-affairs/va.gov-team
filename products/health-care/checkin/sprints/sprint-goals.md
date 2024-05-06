@@ -79,6 +79,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
         - 🟪 [[UX] Submit Screenshots to the State Department for Translation QA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63253)    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟥 [[Audit and Update the Figma Files for Priority 1 (New Landing Page w/ Upcoming Appointments) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82358)
         - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
