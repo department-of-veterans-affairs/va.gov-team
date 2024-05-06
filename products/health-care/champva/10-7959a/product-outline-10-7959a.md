@@ -28,7 +28,7 @@ How might we help family members of Veterans get their claims filed and processe
 ## Undesired Business Outcomes
 
 - The information entered online by Veterans is not successfully submitted to the VA
-Online forms processing adds confusion and complicates workflows further
+
 ---
 ## Measuring Success
 
@@ -65,7 +65,7 @@ In scope:
 - General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
 - Fillable fields with pre fill for signed in users
 - Digital signature with date stamp accepted by CHAMPVA team
-- PDF output of completed form with required meta data and unique identifier
+- PDF output of completed form with required meta data and unique identifier sent to PEGA
 - Integration with PEGA for forms and documents
 - Authenticated and unauthenticated experience
 - End to end testing with PEGA
@@ -80,8 +80,7 @@ Risks or dependencies:
 - Integration with PEGA is still being developed
 
 Other considerations:
-- Content migration effort to va.gov and expansion of family member benefits hub - coordinate on timing
-- VA notify(?) and notifications in general
+- VA notify
 - handling for mobile app
 
 --- 
