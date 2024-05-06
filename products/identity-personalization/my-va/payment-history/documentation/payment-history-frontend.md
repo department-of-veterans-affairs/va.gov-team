@@ -1,5 +1,5 @@
 # Benefit payments and debt documentation
-Last updated: July 6, 2023 - added Background
+Last updated: May 6, 2024 - added VA-icon names, updated screenshots
 
 ### Background
 This is FE documentation for the MVP iteration of "payment info" on My VA. The MVP displayed benefit payments and debts as a single section on My VA.
@@ -87,7 +87,7 @@ Type: [paycheck type]
 
 ### Manage direct deposit link
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+<img width="997" alt="Screenshot 2024-05-06 at 4 32 24 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/03a0d03c-6c9a-4269-a0d8-6b32440d67b9">
 
 Use VA-icon `attach_money` for icon in link list
 
@@ -97,7 +97,7 @@ Use VA-icon `attach_money` for icon in link list
 **Do NOT Show**
 - If a user does not have direct deposit set up.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-direct-deposit.png" width="50%" />
+<img width="644" alt="Screenshot 2024-05-06 at 4 34 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/43bdaf58-b924-496e-a6f5-f57f5a3537d3">
 
 #### Content
 
@@ -107,7 +107,7 @@ Use VA-icon `attach_money` for icon in link list
 
 ### Learn more about VA debt link
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+<img width="649" alt="Screenshot 2024-05-06 at 4 35 22 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/e2e4de79-8132-4247-b7bc-c7cd56d86d0e">
 
 - Use VA-icon “request_quote”
 
@@ -129,11 +129,13 @@ Use VA-icon `attach_money` for icon in link list
 
 **Show in payment card**
 - If a user has a payment in the last 30 days
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/deposit-made-card.png" width="50%" />
+<img width="672" alt="Screenshot 2024-05-06 at 4 36 34 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/d3ddb11a-5fe2-4c84-af16-b82fe65300a6">
 
 **Show in link list**
 - If a user has not had a payment in the last 30 days but has in the past
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/payment-history/documentation/images/no-debt-no-payment.png" width="50%" />
+<img width="537" alt="Screenshot 2024-05-06 at 4 37 34 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/6aaf8d1a-8071-4e96-8b86-f7eecd49f56f">
+
+- Use VA-icons "how_to_reg" and "attach_money"
 
 **Do NOT show in link list**
 - If a user has never received a payment
