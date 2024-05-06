@@ -49,7 +49,7 @@ Jump to:
 
 ## Introduction
 
-Performance.gov selected two services of the Department of Veteran's Affairs as part of 38 of the nation’s High Impact Service Providers (HISPs) to raise the standard of government service delivery.
+Performance.gov selected two services of the Department of Veteran's Affairs as part of the nation’s High Impact Service Providers (HISPs) to raise the standard of government service delivery.
 
 HISPs are selected due to the scale and critical nature of their public-facing services. Annually, HISP teams conduct comprehensive assessments of their high-impact services, measure their customer experience maturity, and identify actions to improve service delivery.
 
@@ -63,6 +63,8 @@ It is essential to display uptime, downtime, errors, and other availability info
 
 
 ### Customer Experience and Trust
+
+There is a growing body of research that suggests a primary driver of trust in government are peoples’ individual experiences with public services. HISPs are increasingly collecting feedback from customers, with a particular focus on post-transaction surveys during customer interactions with priority designated services. 
 
 Transparency regarding website availability is crucial for building trust with VA website users, particularly veterans seeking critical information and services. 
 
@@ -80,7 +82,6 @@ Numerous studies have documented the importance of website responsiveness and mi
 
 While the VA is not a for-profit business, unplanned outages can have a significant negative impact on veterans' ability to access essential services. 
 Downtime can lead to significant consequences, frustration, and impede veterans from applying for benefits, scheduling appointments, or refilling prescriptions online. 
-Ensuring a consistent availability of services is essential for maintaining a positive user experience.
 
 **A well-designed dashboard displaying real-time availability metrics can address these concerns in several ways**
 
@@ -122,8 +123,9 @@ Federal agencies must adhere to various policies and guidelines related to websi
 
 ### [OMB Circular A-130: Managing Information as a Strategic Resource](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/OMB/circulars/a130/a130revised.pdf)
 
-- Promotes the strategic importance of information management (updated in 2016).
+- Promotes the strategic importance of information management.
 - Availability is a core aspect of effective information dissemination, and federal websites play a pivotal role in achieving this goal.
+- The August 2023 update to [OMB Circular A-11 Section 280](https://www.whitehouse.gov/wp-content/uploads/2018/06/s280.pdf) streamlines survey guidelines and reporting requirements for agencies and further underscores trust in government as the focal measure of the American public’s experience with government. 
 
 ### [Open Data Policy-Managing Information as an Asset (M-13-13)](https://digital.gov/resources/open-data-policy-m-13-13/)
 
@@ -172,7 +174,7 @@ Federal agencies must adhere to various policies and guidelines related to websi
 - Some of the NSF’s core functions are to offer digital services and programs to construct, upgrade, maintain, and operate research facilities in a wide range of scientific and engineering fields. 
 - Efficiency, the adherence to scheduled uptime or downtime, is one of their key indicators monitored daily.
 - The facilities program has a 90% target associated with this measure, which allows for some variance across NSF programs due to unanticipated or external factors, in addition to addressing the needs of some facilities to change or modify instruments, update systems, and operate their many systems. 
-- These differences hilight the importance of setting SL's for each case responsibly and meaningfully. 
+- These differences highlight the importance of setting SLs for each case responsibly and meaningfully. 
 
 ### IRS.gov
 
