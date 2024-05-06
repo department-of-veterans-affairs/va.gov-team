@@ -1,0 +1,48 @@
+- **DMC (Debt Management Center)**
+	- Pamela Corbin-jones  (Project Manager) pamela.corbin-jones@va.gov
+	- Pavan Sarangalwar (Engineer)
+	- Satishkumar Harikrishnan (Engineer)
+	- Daniel Wildman - daniel.wildman@va.gov Senior Java Developer
+- **VBS (Veteran Billing Services)**
+	- *(will only communicate via email)*
+	- John Skarvelis (Project Manager) JOHN.SKARVELIS@va.gov
+	- Michael Mcdougall (Lead Engineer) Michael.McDougall@va.gov
+	- Manish Nevrekar (Engineer) Manish.Nevrekar@va.gov
+	- Russell Funderburk (Engineer) [RUSSELL.FUNDERBURK@VA.GOV](mailto:RUSSELL.FUNDERBURK@VA.GOV)
+	- Logan Smith (OIT) Logan.Smith1@va.gov
+- **Huron**
+	- Varun Uppu vuppu@hcg.com (Developer)
+	- Ashlie Roy (Healthcare Associate)
+- **VA Notify**
+	- Melanie Jones (Project Manager)
+	- Beverly Nelson (Product Owner)
+	- Kyle MacMillan (Tech Lead)
+	- Ian Hilton (UX Design)
+- **VA Identity**
+	- #vsp-identity channel on OCTO slack
+	- Joe Niquette (Lead Engineer)
+	- Trevor Bosaw (Engineer)
+	- Damien DeAntonio (Architect)
+	- Alexander Garcia (Frontend Engineer)
+	- Riley Anderson (Engineer)
+- **VA Security**
+	- Clint Little (Lead Engineer)
+	- Gary Fallon (Engineer)
+- **Devops**
+	- Jeremy Britt (Engineer)
+	- Kyle Matheny (Team Lead)
+- **Platform**
+	- Lainey Trahan (Project Manager)
+	- Lindsey Hattamer (Lead Engineer)
+	- Rachal Cassity (Engineer)
+	- Eric Boehs (Reliability Lead)
+	- Rebecca Tolmach (Engineer)
+	- Ryan Johnson (Engineer)  
+- **Lighthouse**
+	- Brian Tomlin
+	- Jessica Sexton (Project Manager)
+	- Chintan Patel (Engineer)
+- **Sharepoint**
+	- Andrea Hugo [andrea.hugo@va.gov](mailto:andrea.hugo@va.gov) 
+	- Brian Fuller [brian.fuller9@va.gov](mailto:brian.fuller9@va.gov) 
+	- Richard Crist [richard.crist@va.gov](mailto:richard.crist@va.gov)
