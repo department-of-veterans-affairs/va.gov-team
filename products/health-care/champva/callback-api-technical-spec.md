@@ -40,16 +40,14 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
        "status": "processed"
      }
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80482
+   - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16605
    
 7. Create `pega_controller.rb` to handle the request from PEGA. We can also wrap anything we'd like it a DataDog trace.
-   - Likely auth path https://depo-platform-documentation.scrollhelp.site/developer-docs/authentication#Authentication-OverridingAuthentication for testing
-   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service will be used 
+   - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service will be used
    - Add logic to validate JSON keys
    - Example:
     ```
-    class PegaController < ApplicationController
-      skip_before_action :authenticate
-    
+    class PegaController < SignIn::ServiceAccountApplicationController
       def update_status
          begin
           # Parse the JSON data
@@ -80,7 +78,7 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
     end
     ```
    - Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/80482
-   - Code: TBD
+   - Code: https://github.com/department-of-veterans-affairs/vets-api/pull/16605
 8. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
    send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
    After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
