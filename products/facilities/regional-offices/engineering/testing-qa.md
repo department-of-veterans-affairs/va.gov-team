@@ -1,6 +1,6 @@
 # Testing
 ## Overview of VBA Regional Benefit Offices product and complexity
-The product is a page generated from CMS editor content using templates in content-build with one component being brought in from vets-website. The page is made up of several templates from other products as well as some new pieces. Much of the beginning of the VBA Regional Benefit Office page is centralized content in a departure from VAMC, e.g. the intro text is centralized and uniformed across all facilities, leading to more certainty in testing. Shared content like the top task links (e.g. make an appointment), the On-this-page contents, operating hours display, Medallia survey button, back-to-top component etc. make the product less complex to test. 
+The product is a page generated from CMS editor content using templates in content-build with one component being brought in from vets-website. The page is made up of several partial templates from other products as well as some new pieces. Much of the beginning of the VBA Regional Benefit Office page is centralized content in a departure from VAMC, e.g. the intro text is centralized and uniform across all facilities, leading to more certainty in testing. Shared content like the top task links (e.g. make an appointment), the On-this-page contents, operating hours display, Medallia survey button, back-to-top component etc. make the product less complex to test. 
 
 Generally, the simplicity of the page comes from:
 1. Unauthenticated content
@@ -18,9 +18,9 @@ The interactive complexity is simple, but the API dependence adds to its compreh
 The interactive elements on the page are limited to **accordions**, **links** and occasionally **operating status notifications**:
 There are two forms of accordion sets on the page, one for "Prepare for your visit" (very limited complexity) and a few sets of "Service" accordions (moderate complexity). The "Prepare for your visit" accordion items represent a list of content that comes from WYSIWYG CMS editor content without any processing in content-build. The "Service" accordions are migrating to a centralized design with VAMC which now also have adopted the pattern of using the Service Location Paragraph type from CMS. While this makes them more complex than the WYSIWYG content from CMS, they contain logic that is tested (see below about accordion testing). As we migrate VAMC to the shared Service Location Paragraph types we are consolidating automated testing and ensuring correctness with manual UX testing.
 
-Links can be found throughout the page and, when possible, are using va-link components ensuring their reliability. However, in general, most links come from CMS content and make it difficult to test in an automated way, therefore it is the responsibility of the editor to ensure links are correct.
+Links can be found throughout the page and, when possible, are using va-link components ensuring their reliability. However, in general, most links come from CMS content. WYSIWYG-generated links cannot be processed to use the DS va-link component, and make it difficult to test in an automated way (because of shadow roots), therefore it is the responsibility of the editor to ensure links are correct.
 
-Unchanging elements on the page are limited to **spotlight cards**, **Benefits Hotline alert**, **Updates links container**, **Office hours**, are components when possible (e.g. alerts), and generally are just containers for links. These elements are fairly simple, but do often depend on content from the CMS as well.
+Unchanging elements on the page are limited to **spotlight cards**, **Benefits Hotline alert**, **Get Updates from the Veteran Benefits Administration container**, **Office hours**, are components when possible (e.g. alerts), and generally are just containers for links. These elements are fairly simple, but do often depend on content from the CMS as well.
 
 
 
@@ -63,7 +63,7 @@ Regression testing is built into the automated testing and the CI will not succe
 #### Accordions
 - src/site/tests/vba/vba.unit.spec.js
   - tests accordions get generated from mock of VBA. Tests that accordions of specific types are created.
-    - (suggestion: A more comprehensive service location generator should be created which can test all possible values for field office visits, facility main phone number presence, etc).
+    - CONSIDER: Our team is considering creating a more comprehensive service location generator which can generate all possible values for field office visits, facility main phone number presence, etc. This will allow us to process all possible values in the service location accordions.
   - tests presence and number of accordions with renderHTML
 
 ### Testing of React Component (vets-website)
