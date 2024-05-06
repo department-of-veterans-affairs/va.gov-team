@@ -1,6 +1,7 @@
 ### Feature toggle updates
 | Percentage | Date       |
 | ---------: | ---------: |
+|         0% | 05/06/2024 |
 |        10% | 04/05/2024 |
 |         0% | 03/28/2024 |
 |        10% | 03/28/2024 |
@@ -9,6 +10,9 @@
 |         1% | 02/28/2024 |
 
 ## Updates
+#### 04/05/2024
+Found an issue where Lighthouse sometimes returns ratings that don't have effective dates (beginDt). EVSS filters those ratings out and Lighthouse is will update their service to remove them as well
+
 #### 04/05/2024
 The latest revision of the discrepancy logging was deployed on 04/03/2024. Turned the feature toggle back on to 10% and am going to let it run over the weekend and see if it produces any results.
 
