@@ -16,7 +16,7 @@ MHVLanding.Viewable[You can see the landing page]
 MHVLanding.MessagesDotQ[Will I see the unread <br>messages indicator?]
 MHVLanding.ToolLinksQ[Will I see links to <br>MHV tools?]
 MHVLanding.FacilitiesQ[Have you been seen at a facility or registered with one?]
-MHVLanding.LOA1Q[Is your account LOA1?]
+MHVLanding.IdVerifiedQ[Is your account ID-verified?]
 MHVLanding.ShowUnverified[You will see a <i>Not verified</i> alert. <br>Links to MHV tools will be hidden.]
 MHVLanding.ShowUnregistered[You will see an <i>Unregistered</i> alert. <br>Links to MHV tools will be hidden.]
 MHVLanding.ToolLinksVisible[Links to MHV tools <br>will be visible]
@@ -26,9 +26,9 @@ MHVLanding.LoggedInQ -->|No| MHVLanding.AuthReq
 MHVLanding.LoggedInQ -->|Yes| MHVLanding.Viewable
 MHVLanding.Viewable -.- MHVLanding.MessagesDotQ
 MHVLanding.Viewable -.- MHVLanding.ToolLinksQ
-MHVLanding.ToolLinksQ --> MHVLanding.LOA1Q
-MHVLanding.LOA1Q -->|Yes| MHVLanding.ShowUnverified
-MHVLanding.LOA1Q -->|No| MHVLanding.FacilitiesQ
+MHVLanding.ToolLinksQ --> MHVLanding.IdVerifiedQ
+MHVLanding.IdVerifiedQ -->|No| MHVLanding.ShowUnverified
+MHVLanding.IdVerifiedQ -->|Yes| MHVLanding.FacilitiesQ
 MHVLanding.FacilitiesQ -->|No| MHVLanding.ShowUnregistered
 MHVLanding.FacilitiesQ -->|Yes| MHVLanding.ToolLinksVisible
 ```
