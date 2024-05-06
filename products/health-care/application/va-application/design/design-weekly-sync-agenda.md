@@ -1,5 +1,13 @@
 # Design Weekly Sync Agenda
 
+## 2024-05-06
+Attendees: Angela, Hieu, Katelyn, and Lois.
+
+- Angela consider TERA-related questions for HEC following the Research Readout this Wednesday (May 8). She wants the HEC’s opinion on the proposed changes and branching logic.
+- Katelyn wants to ask HEC some Support Doc questions (HEC document review time).
+- The team notes the confusion around the Gulf War question. A veteran mentioned there is a ‘second’ Gulf War (Iraq War) and the list of locations includes countries not from the 1990 Gulf War.
+- Hieu informs Lois of the VES team’s idea around a Healthcare Hub.
+
 ## 2024-04-29
 Attendees: Angela, Hieu, Katelyn, Jessica, Lois, Kristen, Mitch, and Matt K.
 
