@@ -6,12 +6,16 @@ Figuratively speaking, the train has left the station as far as the in-person pi
 
 ## Conversations we should have
 
+Getting a better understanding of the engagement before I joined the team will help me figure out what level of reframing we might do (or not) around success for the project.
+
 - What was the original mandate this team was given re: in-person proofing?
 - Were more MVP approaches ever discussed, or were these determined to be out of scope?
   - Eg. Training existing staff on how to support people through existing channels
 - How is the team defining success for this project (prior to any reframing we might do)?
 
 ## Things it would be helpful to have fully documented before the end of this effort
+
+Regardless of how we frame success going forward, it would be incredibly helpful for the team to document the following before the end of the contract. These learnings may be something we want to document little by little over the course of a few sprints, and we can get started on this any time.
 
 - Original mandate
 - Solutions considered
