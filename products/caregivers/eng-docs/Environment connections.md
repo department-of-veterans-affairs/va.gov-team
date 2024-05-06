@@ -1,10 +1,10 @@
 The table below identifies the DEV and STAGING environments that VA.gov 10-10CG form is connected for calling MPI (Veteran validation) and Mulesoft/CARMA for sending data downstream.
 - Last updated by @hdjustice 5/6/2024
 
-|CARMA|Mule|MPI|VA.gov|Start Date|Finish Date|
-|---------|-----|----------|--------|---------|-----------|
-|Dev|Dev|INT|Dev – Spin-up|4/29/2024|5/3/2024|
-|Staging|Preprod|iSQA|Staging|TBD (end June)|TBD (end June)|
+|CARMA|Mule|MPI|VA.gov|
+|---------|-----|----------|--------|
+|Dev|Dev|INT|Dev – Spin-up|
+|Staging|Preprod|iSQA|Staging|
 
 - DEV: dev.vapi.va.gov
 
