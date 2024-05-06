@@ -7,7 +7,7 @@ For Veterans and beneficiaries enrolled in CHAMPVA (Civilian Health and Medical 
 ## Problem Statement
 Veterans and their beneficiaries need a way to file claims through CHAMPVA online, so they can get coverage for the services they need.
 
-How might we help family members of Veterans get the coverage they need for their claims?
+How might we help family members of Veterans get their claims filed and processed quickly and easily?
  
 ## Desired User Outcomes
 
