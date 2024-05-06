@@ -1,12 +1,12 @@
 # [Study] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Medications and Devices Pod, Medical Supplies Reorder**
 
-Date: MM/DD/YYYY
+Date: 05/06/2024
 
-[Designer 1] [email], [Designer 2] [email]
+[Jenny Wang] [yizhen.wang@va.gov], [Kristen McConnell] [kristen.mcconnell@va.gov]
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout](link here)
+[Research readout](link here)
 
 **Jump to:**
 
@@ -18,42 +18,48 @@ _Once you've presented your research readout to your team, if you have a deck, i
 
 
 ## Research Goals
-_First, set the context of this research by explaining how it fits into the Veteran’s journey. Explain what a Veteran might do before and after using this tool. What moments does this tool live in? Are there moments that matter to keep in mind? What are Veteran’s familiarity with tools like this? (do they use tools like this, or is this something new)._
-_[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)_
 
-_Then, describe your goals for this research_
+In a [previous study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-findings.md), there is an indication that Veterans think there's a connection between medical supplies and medications. As our team continues to iterate on the medical supplies reordering functionality to MHV on VA.gov, we need to understand where Veterans expect to find and order medical supplies on the auth MHV home page, and how similar or different Veterans think about medications and medical supplies. 
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals)_
+The purpose of this study is to:
 
-
+- Understand how Veterans categorize medications and medical supplies.
+- Understand whether Veterans expect to view and order all medical supplies and medications as subsections within
+- the same section, within a fully integrated list, or in separate sections.
+- Establish which I.A. is easier to use.
+- Gather insights into the advantages and disadvantages of each design option.
+  
 
 ## Research Questions
 
-_Research questions here_
+- Using which IA option did most Veterans easily locate and order medical supplies?
+- Do Veterans expect medical supplies and medications to be completely different tools on MHV on VA.gov (design option 1), OR do they expect them to be in the same category of tools with different characteristics (design option 2), OR do they expect them to be the same (design option 3), OR something else?
+- Where do Veterans have difficulty navigating?
+- What advantages and disadvantages do Veterans identify for each concept?
 
-_[See an example ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)_
-
-
-* Question 
-* Question
-* Question
 
 ## Methodology 
 
-_Brief description of method chosen_
+We conducted 40-50 mins long remote moderated research sessions via Zoom. Participants were asked to order glucose testing strips and mask straps for CPAP using 3 Figma prototypes with different designs. We showed 3 prototypes in various orders and asked them to order glucose testing strips and mask straps in different orders to avoid biases.
 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)_
+- [Design option 1 prototype](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1)
+- [Design option 2 prototype](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1)
+- [Design option 3 prototype](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1)
 
 
 ## Hypotheses and Conclusions
 
-_Hypotheses or tasks for this research along with the conclusions you found If you conducted a usability test, list the success or task completion rate._
-
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)_
-
-_Hypothesis statement_
-
-_("Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”) Why?_
+1. Veterans may think medical supplies and medications are in the same category because they both need to be prescribed.
+   - LIKELY FALSE. In term of usages, most participants (11/15) think medications and medical supplies are completely different. 3 mentioned that they all need to be prescribed. With that being that, most participants still preferred medications and medical supplies to be in the same category even though they think they are different.
+     
+2. Veterans may have difficulties finding and ordering medical supplies if they are on the same list as medications because the list can get very long.
+   - LIKELY TRUE. Out of the 11 who prefered to have medications and supplies items on the same screen, 7 participants mentioned that the list should have some type of seperations between medications and supplies or organizations to help them find things easily.
+     
+3. Veterans may expect medical supplies and medications to be in the same category on MHV home but expect to view and order them separately, which is option 2.
+   - Half LIKELY TRUE and half LIKELY FALSE. 10 out of 15 participants prefers to have medical supplies and medications in the same category on MHV home (option 3 prototype). They like that medications and supplies are all in one place, and they don't have to go to different places to look for them. 
+     
+4. Veterans may be confused about categorizing supplies like testing strips and wound care supplies as medications or medical supplies.
+   - LIKELY TRUE. 
 
 
 ## Key Findings
