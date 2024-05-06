@@ -50,7 +50,6 @@ How might we improve the experience of Veterans living or traveling overseas who
 
 - Objective: Veterans can easily register for FMP online
   - Key result: Measure number of Veterans who register for FMP online
-  - Key result: Reduce time it takes to fill out registration form
   - Key result: Reduce processing time 
 - Objective: Veterans are updated and informed of statuses
   - Key result: Ensure testing and alert monitoring is in place to catch any errors
