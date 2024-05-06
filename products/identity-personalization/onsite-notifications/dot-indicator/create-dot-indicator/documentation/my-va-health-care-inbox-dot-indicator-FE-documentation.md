@@ -1,6 +1,6 @@
 # My VA Health Care Inbox Link (with dot indicator) Frontend Documentation
 
-**Last updated:** August 29, 2023 (first published)
+**Last updated:** May 6, 2024 - added VA-icon name
 
 This document outlines specs for the link to access the health care secure messaging inbox within the Health Care section on My VA. For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
@@ -18,7 +18,7 @@ Without unread messages:
 
 [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/WK72gqw)
 
-Use font awesome icon `comments` for icon
+Use VA-icon `forum` for icon
 
 **Show link**
 - For users who have VA health care.
