@@ -71,7 +71,7 @@ Location
 
 ### If a user has VA health care but does not have any upcoming appointments scheduled
 (_needs updating to include MHV link_)
-- [Desktop]**Needs updated Figma link**
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A423&mode=design&t=2WZaQsuz8oy0Sr3k-1)
 - [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=ACz9YR6bpwDeZvbB-1)
 
 **Show**
