@@ -37,7 +37,7 @@ How might we help family members of Veterans get their claims filed and processe
 
 ### Objectives and Key results (OKRs)
 
-- Objective: Measure number of people applying online for CHAMPVA claims
+- Objective: Measure number of people filing claims online through CHAMPVA
   - Key result: Increase number of beneficiaries who file CHAMPVA claims
   - Key result: Increase number of people who obtain approvals for claims filed 
 
