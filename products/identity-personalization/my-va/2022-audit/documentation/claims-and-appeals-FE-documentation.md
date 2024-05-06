@@ -67,7 +67,7 @@ A max of **one** status card should be showing at any given time for a user.
 
 ![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
 
-Use font awesome icon `file-lines` for icon
+Use VA-icon `description` (as of 5/2024)
 
 **Show**
 - For all LOA3 users.
@@ -85,7 +85,7 @@ Use font awesome icon `file-lines` for icon
 
 ![Screen Shot 2022-09-29 at 2 27 18 PM](https://user-images.githubusercontent.com/97965610/193113475-9ecfbcb2-8a04-4e83-8959-4c1c9e4af9df.png)
 
-- Use font awesome icon `clipboard-check`
+- Use VA-icon `assignment_turned_in` (as of 5/2024)
 
 **Show**
 - For all LOA3 users.
