@@ -31,7 +31,6 @@ How might we improve the experience of Veterans living or traveling overseas who
 - Reduce the amount of resubmissions due to missing information or documents
 
 ## Undesired Business Outcomes
-- Veterans are unaware they can fill out the application online
 - The information entered online by Veterans is not successfully submitted to the VA
 - Online forms processing adds confusion and complicates workflows further
 
