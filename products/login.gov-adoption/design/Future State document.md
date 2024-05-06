@@ -30,6 +30,9 @@ Option for more accepted forms of identification
 
 [insert photo of flow]
 
+Proposed plan for implementation:
+
+
 ## Reschedule User Flow
 
 During usability testing with Veterans, we heard many Veterans ask about what they would need to do if they had made a walk-in appointment through the In-Person Proofing application, but they later realized they could not make the appointment. The appointment change could be due to a sudden emergency, illness, or other time conflicts. Veterans need a pathway where they can reschedule their walk in and receive a new confirmation email with their updated details. To respond to this need we present the following use case as a solution:
@@ -43,5 +46,8 @@ New page accessible from the application landing page that  allows Veterans to r
 A date range feature that allows Veterans to pick a date range that works best for them rather than immediately starting the 10 day window from the present time and/or a date range field that allows Veterans to manually type in a preferred 10 day window of time. 
 
 [insert photo of flow]
+
+Proposed plan for implementation:
+
 
 ## Bundling Appointment Flow (In Progress)
