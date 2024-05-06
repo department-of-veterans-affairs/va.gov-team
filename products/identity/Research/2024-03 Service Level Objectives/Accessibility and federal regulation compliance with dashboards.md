@@ -106,13 +106,15 @@ Downtime can lead to significant consequences, frustration, and impede veterans 
 
 Federal agencies must adhere to various policies and guidelines related to website performance, accessibility, and data protection.
 
-### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy/2020-annual-report)  (December 2018)
+### [21st Century Integrated Digital Experience Act (21st Century IDEA)](https://www.congress.gov/115/plaws/publ336/PLAW-115publ336.htm) (2018)
+
+### [DOI Report on Implementing IDEA](https://www.doi.gov/sites/doi.gov/files/21st-century-idea-implementation-guidance-final-09242021.pdf) (2021) 
 
 - To modernize and improve user experience of government-produced digital products, IDEA sets standards encompassing service availability, responsiveness, accessibility, security, and usability like websites, applications, and online forms.
 - Agencies must adhere to its requirements to ensure citizens can access government services seamlessly, regardless of time or location.
 - GSA uses site-scanning tools to automatically determine whether sites have search capabilities on par with IDEA.
 
-### [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)    (September 2023)
+### [Delivering a Digital-First Public Experience](https://www.whitehouse.gov/wp-content/uploads/2023/09/M-23-22-Delivering-a-Digital-First-Public-Experience.pdf)    (2023)
 
 - Created to accomplish the standards listed in IDEA.
 - Agencies should routinely analyze websites and digital services for load speed and continually strive to optimize for performance (e.g., high page speeds, low page load times, small load page size).
