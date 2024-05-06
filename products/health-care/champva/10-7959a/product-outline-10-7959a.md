@@ -25,10 +25,6 @@ How might we help family members of Veterans get their claims filed and processe
 - Reduce amount of time spent processing paper forms
 - Replace outdated and legacy DAPER system with PEGA for document upload and management
 
-## Undesired Business Outcomes
-
-- The information entered online by Veterans is not successfully submitted to the VA
-
 ---
 ## Measuring Success
 
