@@ -143,9 +143,9 @@ For **any other facility, go to My HealtheVet.**
 
 ### Apply for VA health care link
 
-![Screen Shot 2022-11-17 at 11 07 54 AM](https://user-images.githubusercontent.com/97965610/202497628-f2f6b3d4-81f3-401e-a5e6-f0f6030bdbd3.png)
+<img width="733" alt="Screenshot 2024-05-06 at 5 34 19 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/6919faae-5b8f-4e9e-ba86-b5f9e0b21d93">
 
-Use font awesome icon `file-medical` for icon
+Use VA-icon `note_add` for icon (as of 5/2024)
 
 **Show**
 - For users who do not have health care through VA.
@@ -178,18 +178,22 @@ TK
 ### Go to your inbox link
 
 With unread messages:
-<img width="955" alt="Screenshot 2023-08-23 at 2 13 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/692bd74b-c9c6-4e8e-9a27-1ab2401a3c2b">
+
+<img width="717" alt="Screenshot 2024-05-06 at 5 24 04 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/cce74c4c-eab2-4b07-bbe6-df4f79cdf111">
+
 [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A305&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 Without unread messages:
-<img width="948" alt="Screenshot 2023-08-23 at 2 30 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/07d7cc07-f26a-418e-81fe-8b5fe0d4d119">
+
+<img width="722" alt="Screenshot 2024-05-06 at 5 24 09 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/297b8ef9-d275-40a4-a21c-e028482a9d34">
+
 [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A4148&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
-Use font awesome icon `comments` for icon
+Use VA-icon `forum` for icon
 
 **Show link**
 - For users who have VA health care.
