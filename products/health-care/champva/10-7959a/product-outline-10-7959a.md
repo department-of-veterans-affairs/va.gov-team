@@ -58,7 +58,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-Provide stand alone FMP registration form online with forms sent to PEGA for further processing.
+Provide CHAMPVA claim form online with forms sent to PEGA for processing.
 
 In scope:
 - Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
@@ -93,7 +93,7 @@ Other considerations:
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - tbd (dependent on PEGA integration timing)
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
