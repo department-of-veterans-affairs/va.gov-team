@@ -21,7 +21,7 @@ MHV-on-VA.gov UX will include:
 ### Changes required within VA.gov tool applications
 Required for integration go-live:
 - Secure messaging side/secondary nav will need to change or be removed
-- Tool landing pages have breadcrumbs with `< Back to My HealtheVet home` linking to the MHV-on-VA.gov landing page
+- Tool landing pages have breadcrumbs with `< Back to My HealtheVet home` linking to the MHV-on-VA.gov landing page. ~~Child pages within apps should use dynamic < Back [to previous page H1] links.~~  
 - Any link within a tool that cross-links directly to another tool in Phase 1 should point to VA.gov build (remove links to tools on the National Portal)
 - MyHealtheVet secondary navigation component should display on the tools on VA.gov (SM, Appts, Meds) and their child pages
 - All three tools on VA.gov need to provide an alert to patients with Oracle Health/Cerner facilities in their profiles that they may need to navigate to My VA Health to manage that care. (SM and Appts already have it as of 4/17/24)
