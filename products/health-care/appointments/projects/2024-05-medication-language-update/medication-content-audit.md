@@ -4,6 +4,7 @@ We need to review all of below places with similar content, then create a final 
 
 ## [Veteran Health Library wording](https://www.veteranshealthlibrary.va.gov/RelatedItems/3,40992)
 
+```
 What to bring to your healthcare provider visit
 Suggestions of what to bring include:
 
@@ -20,19 +21,30 @@ Suggestions of what to bring include:
 - Copies of records and tests from other hospitals or providers 
 
 - A pen and paper to take notes. You may also ask your provider if it is OK to record your visit.
-
+```
 
 ## [Caregiver program wording](https://www.caregiver.va.gov/pdfs/Questions_to_Ask_a_Veterans_Health_Care_Providers.pdf)
 
+Note: No wording here is specific to medication reviews.
 
 ## [Joint commission wording](https://www.jointcommission.org/resources/for-consumers/take-charge/prepare-for-doctor-visits-and-make-a-list-of-questions/)
 
+From [this page](https://www.jointcommission.org/resources/for-consumers/take-charge/keep-a-record-of-your-medical-history-and-current-medications/):
+
+> Keep a detailed record of your medical history and all past and current medications, vitamins, and herbs. Bring this information with you to every medical appointment. Tell them about any drug allergies you have.
+
 ## [NIH Council on Aging wording](https://www.nia.nih.gov/health/medical-care-and-appointments/how-prepare-doctors-appointment)
+
+> Also tell the doctor about any recent changes in any medications you take or the effects they have had on you.
 
 
 ## Wording [VA.gov](http://va.gov/) appointments already displays for some video appointments:
 
-> **Medication review**
+> **Medication review**  
+>
 > During your video appointment, your provider will want to review all the medications, vitamins, herbs, and supplements you're taking — no matter if you got them from another provider, VA clinic, or local store.
+>
 > Please be ready to talk about your medications during your video visit to ensure you're getting the best and safest care possible.
+
+
 
