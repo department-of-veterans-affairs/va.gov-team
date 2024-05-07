@@ -174,7 +174,7 @@ Note neither that the content of a given variant nor the keychain within which i
 | key chain 2 |           |         | [2,3,5] | [1]     | [4,6]   |         |         |         |
 | key chain 3 |           |         |         |         |         | [1,4]   | [2,3]   | [5,6]   |
 
-Better, but still weird because tables imply column values.  Since there is no logical connection across keychains, this still isn't super useful.  The best way to represent or data independent of unnecessary context is as an array of arrays, or a set of dupe sets
+Better, but still weird because tables imply column values.  Since there is no logical connection across keychains, this still isn't super useful.  The best way to represent or data independent of unnecessary context is as an array of arrays, or a group of dupe sets
 
 ```ruby
 [
@@ -207,7 +207,7 @@ The first deep itteration of our loop would be something like this
   - Largest subset of D and B = []
   - Largest subset of E and A = [4]
   - Largest subset of E and B = [6]
-2. We've now created smaller dupe sets!  The result of this itteration is our new 'best guess so far' set of dupe sets: `[[2,3], [5], [1], [4], 6]]`. With only one itteration we've reduced the nubmer of dupe sets to 1.  For our next itteration, we will do the same thing, using this 'best guess so far' set as our new 'comparative set'. The loop itterates to the next keychain set, marking it as our 'itterative focus'
+2. We've now created smaller dupe sets!  The result of this itteration is our new 'best guess so far' group of dupe sets: `[[2,3], [5], [1], [4], 6]]`. With only one itteration we've reduced the nubmer of dupe sets to 1.  For our next itteration, we will do the same thing, using this 'best guess so far' set as our new 'comparative set'. The loop itterates to the next keychain set, marking it as our 'itterative focus'
 
 ```ruby
 [
