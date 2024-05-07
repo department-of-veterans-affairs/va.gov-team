@@ -169,7 +169,7 @@ The Home Screen accurately displays the Veterans’ personal information and in-
 
 To post in the #Veterans Ad Hoc Slack channel: 
 
-> Hello! I’m a designer & researcher on the VA mobile app team. I’m running research for the new personalized VA mobile app home screen. **I’m looking for 3-5 Veterans who are iOS users to participate in UAT as soon as possible.** I can be flexible about day and time and am looking to schedule this in the next day or two. The guided session will take no more than 30 minutes. 
+> Hello! I’m a designer & researcher on the VA mobile app team. I’m running research for the new personalized VA mobile app home screen. **I’m looking for 3-5 Veterans who are iOS users to participate in UAT this week, May 8-10.** We can be flexible about day and time and am looking to schedule this ASAP. The guided session will take no more than 30 minutes. 
 > You must: 
 > 
 > * Use an iOS device for the session
