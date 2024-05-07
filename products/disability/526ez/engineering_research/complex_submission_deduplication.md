@@ -184,7 +184,7 @@ Better, but still weird because tables imply column values.  Since there is no l
 ]
 ```
 
-This is exactly what SimpleDuplicateSetBuilder would return.  However, a closer look reveals that some of these dupe sets contain submissions that aren't true top-to-bottom duplicates!  For instance, the very first set `[1,2,3,4]` is telling us that `1` and `2` are the same form.  However, in the next set-of-dupe sets (from keychain 2) we see `2` in the first dupe set (`[2,3,5]`) and `1` in the next as a single-element dupe set.  This tells us that `1` and `2`, when considered wholistically are not actually duplicates.
+This is exactly what the `SimpleDuplicateSetBuilder` would return, and is what we used to generate our inital best-guess number of submissions requiring remediation.  However, a closer look reveals that some of these dupe sets contain submissions that aren't true top-to-bottom duplicates!  For instance, the very first set `[1,2,3,4]` is telling us that `1` and `2` are the same form.  However, in the next group of dupe sets (from keychain 2) we see `2` in the first dupe set (`[2,3,5]`) and `1` in the next as a single-element dupe set.  This tells us that `1` and `2`, when considered wholistically are not actually duplicates.
 
 Visually sorting this out into true dupe sets takes a human a few minutes, but we need to codify it.  There are many ways to do this, but the most logically simple is probably itterative. Let's can step through, itteratively comparing dupe sets and trying to break them down.  In the following example I've added letter tags (e.g. `A:[set A], B: [set B]`) so we can talk about them in pseudo code.
 
