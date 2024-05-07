@@ -23,7 +23,7 @@ Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov
 
 [This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
 
-[The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/login) provides a fuller overview on login.
+[The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login) provides a fuller overview on login.
 
 ## Connecting to MPI
 
