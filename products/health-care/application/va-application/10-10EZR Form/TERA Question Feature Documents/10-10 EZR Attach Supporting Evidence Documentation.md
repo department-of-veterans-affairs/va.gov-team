@@ -70,18 +70,22 @@ In order to faster and more effectively adjudicate Veterans' Toxic Exposure clai
 
 - **Value Risks** (will people use it): 
   - The 10-10EZ saw ~2% of applications have documents attached prior to launching the TERA questions on March 5, 2024, will the EZR see a similar low usage?
+  - Will HEC/MS be able to use any of the deocuments Veterans upload?
   
 - **Usability Risks** (can people figure out how to use it):
   - Will Veterans understand that they can upload documents to be added their VHA record?
   - Will Veterans understand that they can only upload certain support document types, and will they be able to make sure their documentation is in that file type (PDF, PNG, RTF)?
   - Will Veterans understand the types of documents the VA are seeking for TERA claims?
-  - Will Veterans understand that (in theory) they do not need to upload official Military documents that VA has access to (e.g. DD214)?
-  - 
+  - Will Veterans understand that (in theory) they do not need to upload official Military documents that VA has access to (e.g. DD214)? And will Veterans spend their time uploading documents that aren't necessary? 
+ 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
+- Will the VA Enrollment System (VES) be able to receive and process accordingly the attached documentation?
+- 
+
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
