@@ -31,7 +31,7 @@ Followed by:
 
 10 respondents said they were able to complete their tasks.
 
-Although the overall satisfaction with the site is low, we do see a marked positive trend to the feedback for the month of April that stands out amongst prior months with 10 respondents leaving positive comments: 
+Although the overall satisfaction with the site is low from month to month, we do see a marked positive trend to the feedback for the month of April that stands out amongst prior months with 10 respondents leaving positive comments: 
 
 > Worked with practice.
 > 
@@ -217,7 +217,7 @@ Average: 3.7
 
 Mode: 5
 
-Overall, the trust in VA commitment to Veterans across the sample of respondents to the survey in both the FSR and debt portal suggests Veterans trust in the VA (5 is the most commonly occurring value). This value should compared across other VA.gov teams to corroborate this finding.
+Overall, the trust in VA commitment to Veterans across the sample of respondents to the survey in both the FSR and debt portal suggests Veterans have high trust in the VA (5 is the most commonly occurring value). This value should compared across other VA.gov teams to corroborate this finding.
 
 **Only 6 Veterans left qualitative feedback, all under <What task were you trying to do today?> and it is listed here:**
 
