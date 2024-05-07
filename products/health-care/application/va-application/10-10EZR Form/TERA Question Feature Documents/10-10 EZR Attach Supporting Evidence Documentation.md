@@ -69,7 +69,8 @@ In order to faster and more effectively adjudicate Veterans' Toxic Exposure clai
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - The 10-10EZ saw ~2% of applications have documents attached prior to launching the TERA questions on March 5, 2024, will the EZR see a similar low usage?
+  
 - **Usability Risks** (can people figure out how to use it):
   - .
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
