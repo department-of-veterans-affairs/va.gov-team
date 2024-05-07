@@ -5,9 +5,8 @@ Period - 05/08/2024 - 05/21/2024
 ### Sprint goals
 
 - **Toxic Exposure**
-    - Veteran can establish a claim and insert a Form526 version 2022 PDF with conditions filled out in field 15B shows yes/no appropriately. If yes is selected, date range is empty in 15B and the dates are populated in field 15E.
-   - Mockups for how to message Veterans with an in-progress form that new TE fields are available
-
+    - (15b) Veteran can establish a claim inclusive of dates they spent in the Gulf War and/or 9/11. Calendar dates are populated in Overflow (15e).
+    - Mockups for how to message Veterans with an in-progress form that new TE fields are available.
 
 - **Paper Form Sync**
 
