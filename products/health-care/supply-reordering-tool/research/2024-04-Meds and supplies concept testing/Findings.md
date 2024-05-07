@@ -50,7 +50,7 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 ## Hypotheses and Conclusions
 
 1. Veterans may think medical supplies and medications are in the same category because they both need to be prescribed.
-   - LIKELY FALSE. In terms of usage, most participants (11/15) think medications and medical supplies are completely different. 3 mentioned that they all need to be prescribed. With that being that, most participants still preferred medications and medical supplies to be in the same category even though they thought they were different.
+   - LIKELY FALSE. In terms of usage, most participants (11/15) think medications and medical supplies are completely different. 3 mentioned that they all need to be prescribed for the similarities. With that being that, most participants still preferred medications and medical supplies to be in the same category even though they thought they were different.
      
 2. Veterans may have difficulties finding and ordering medical supplies if they are on the same list as medications because the list can get very long.
    - LIKELY TRUE. Out of the 10 who preferred to have medications and supplies items on the same screen, 7 participants mentioned that the list should have some type of separation between medications and supplies or organizations to help them find things easily.
@@ -59,7 +59,7 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
    - Half LIKELY TRUE and half LIKELY FALSE. 10 out of 15 participants prefer to have medical supplies and medications in the same category on the MHV landing page (option 3 prototype). They like that medications and supplies are all in one place, and they don't have to go to different places to look for them. Even though they expect medications and medical supplies to be in the same place/list, as mentioned in the 2nd bullet point, 7 participants mentioned that the list should have some type of separation between medications and supplies or organizations to help them find things easily.
      
 4. Veterans may be confused about categorizing supplies like testing strips and wound care supplies as medications or medical supplies.
-   - LIKELY TRUE. We asked participants to order mask straps and glucose testing strips. Everyone knew they needed to go to the medical supplies section to find mask straps. However, no one expected to find testing strips in the prescriptions/medications section. 5 participants knew they could find testing strips in prescriptions, only because they had prescribed testing strips and knew it's in prescriptions in MHV Classic today. 
+   - LIKELY TRUE. We asked participants to order mask straps and glucose testing strips. Everyone knew they needed to go to the medical supplies section to find mask straps. However, no one expected to find testing strips in the prescriptions/medications section. 5 participants knew they could find testing strips in prescriptions, only because they had prescribed testing strips and learned it's in the prescriptions section of the MHV Classic today. 
 
 
 ## Key Findings
@@ -67,7 +67,10 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form"._
 
 - Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use.
-- 
+  - 7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization between medications items and medical supplies items on the refill and reorder page.
+- They think they are different, but still expect to see the in one place
+- not sure about the differences between list page and order page
+- Every participant thought glucose testing strips should be in medication supplies, even participants who they had been prescribed testing strips and learned it's in the prescriptions section of the MHV Classic today. 
 
 
 
