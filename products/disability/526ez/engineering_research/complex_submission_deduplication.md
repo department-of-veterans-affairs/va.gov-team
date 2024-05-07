@@ -166,7 +166,7 @@ In the contrived example below, you can see how we will break down a multi-submi
 }
 ```
 
-Note neither that the content of a given variant nor the keychain within which it was identified is imporant here. We can think of this dupe report as nothing more than sets of dupe sets with a bit of visual kruft.  For example, if we wanted to reorganize this data into a table:
+Note neither that the content of a given variant nor the keychain within which it was identified is imporant here. We can think of this dupe report as nothing more than groups of dupe sets with a bit of visual kruft (dupe groups?).  For example, if we wanted to reorganize this data into a table:
 
 |             | variant   | variant | variant | variant | variant | variant | variant | variant |
 |-------------|-----------|---------|---------|---------|---------|---------|---------|---------|
