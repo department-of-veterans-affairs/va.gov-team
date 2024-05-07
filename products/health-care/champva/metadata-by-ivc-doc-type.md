@@ -11,14 +11,14 @@
 | DD 214                         | Certificate of Release or Discharge from Active Duty         | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | DEA Rating decision            |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | Death Certificate              |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Divorce Decree                 |                                                              |                                                              |
+| Divorce Decree                 |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | FMP Enrollment                 | 10-7959f-1                                                   | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | FMP Dental                     |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | FMP Rating Decision            |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
-| Marriage Document              |                                                              |                                                              |
+| Marriage Document              |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | Medicare                       |                                                              |                                                              |
-| Miscellaneous Documents        |                                                              |                                                              |
+| Miscellaneous Documents        |                                                              | documenttype<br>sponsorlastname<br>sponsorfirstname<br>sponsormiddlename<br>sponsorssn |
 | OHI Certificate                | 10-7959c                                                     | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
 | POA (Power of Attorney)        |                                                              |                                                              |
 | ROI (Release of Information)   |                                                              |                                                              |
-| School Certificate             |                                                              |                                                              |
+| School Certificate             |                                                              | documenttype<br>beneficiarylastname<br>beneficiaryfirstname<br>beneficiarymiddlename<br>beneficiaryssn |
