@@ -126,7 +126,7 @@ Excluding a progress indicator ensures people won't be frustrated or distracted 
 
 However, without it, people are unsure of when they're finished submitting their question. Particularly, when the order of questions doesn't feel intuitive.
 
-Those who were initially deterred by the progress indicator found it motivating as they progressed in the form. It became less noticeable as they went along.
+Those who were initially deterred by the progress indicator found it motivating as they progressed in the form. The orange seemed to help it stand out. And it became less noticeable as people went along.
 
 And, although they didn't get a perfect idea of how long they had left, it showed them they were making progress.
 
@@ -213,8 +213,85 @@ Although people know files aren't required, they try to think of things that cou
 
 ## Recommendations
 
-We're working on finalizing recommendations.
-  
+1. Make the call-to-action on the home page more clear and focus on type of response.
+2. Include the progress bar and set general expectations for length of time to complete the form.
+3. Explore other ways of asking for and/or reviewing personal information when authenticated.
+4. Let people edit pre-filled information in the form to make temporary, local updates.
+5. Consider feasibility to prioritize whether and/or how to include saved progress feature.
+6. Review school information fields to assess need and add clarifying content.
+7. Move 'Your question' to be the last page and make it easy to review before your submit.
+
+## Details of recommendations 
+
+### Recommendation 1: Make the call-to-action on the home page more clear and focus on type of response.
+
+How Ask VA works and which topics it covers should be more clear from the homepage. Also, we should reframe the difference between general and personal questions.
+
+This recommendation involves:
+- explaining which topics Ask VA covers, instead of only naming those that always require sign in
+- reframing the difference between a personal and general question, so it's about personalized or general information
+- strongly encouraging people to use the chatbot, FAQ or elsewhere if they need general information
+- making it more clear what Ask VA is and how it works, eg. "We will get information from you, review and send back a response."
+
+### Recommendation 2: Include the progress bar and set general expectations for length of time to complete the form.
+
+Percentage motivates people and offers clarity about whether they're finished yet. Still, it may not give the full picture on how much longer you have left.
+
+This recommendation involves:
+- setting expectations for how long it should take to fill out the form
+- making it clear that the percentage complete is how much of the form you've completed
+- adjusting the percentage so it starts at 0% on the category page and finishes at 100% (without showing the progress bar) on the confirmation page
+
+### Recommendation 3: Explore other ways of asking for and/or reviewing personal information when authenticated.
+
+When people authenticate, it should be easy for them to review and submit information we already know, such as their name, DOB and phone number. People expect this to happen after they sign in, rather than in the middle of the form.
+
+This recommendation involves:
+- letting people review their personal information after they click 'Ask a new question'
+- or, not including personal information within the form, and asking people to review it on the review and submit page
+- or, not asking people to review their information at all, similar to My HealtheVet Secure Messaging
+
+### Recommendation 4: Let people edit pre-filled information in the form to make temporary, local updates.
+
+If people update their pre-filled information in the form, it's unclear whether it will impact their profile information. We should agree an approach and make it clear what the impact is when (or if you can) edit your information.
+
+This recommendation involves:
+- letting people make a temporary, local change, in other words, they can edit their information on the page and it doesn't impact their profile
+- making it clear how your information is not impacted if you make an edit on the page
+
+### Recommendation 5: Consider feasibility to prioritize whether and/or how to include saved progress feature.
+
+If people don't finish their question, they could have the option to come back and submit it later. We need to understand feasibility and decide scope.
+
+Things to consider:
+- when returning to Ask VA, there could be a prompt to finish your question (not a card)
+- or, when returning to Ask VA, there could be a draft card within your dashboard
+- or, when signing in to VA.gov, there could be an unfinished application in your My VA dashboard
+- whether the link to finish your question (or application) later is necessary
+- what information to include in the saved progress alert
+- whether this feature is in scope
+
+### Recommendation 6: Review school information fields to assess need and add clarifying content.
+
+Some school information fields are not consistently clear. We need to review and refine these, so they make sense.
+
+This recommendation involves:
+- reviewing fields with GI Bill team
+- checking our assumption that most people have a residency state and not everyone has a school state
+- understanding why we ask for school or residency state and how to describe both more clearly
+- understanding what GI Bill beneficiary means and how to describe it more clearly
+- understanding current issues with and needs for file uploads and how to describe these clearly
+- changing required label behavior
+
+### Recommendation 7: Move 'Your question' to be the last page and make it easy to review before your submit.
+
+We've consistently found that people expect 'Your question' to be the last question in the form. Or, it should be closely connected to category and topic. 
+
+This recommendation involves:
+- making 'Your question' the last page in the form, across the board
+- removing 'Reason you contacted us' from the form
+- defaulting all accordions 'open' on the review page
+
 ## Next steps
 
 We're working on finalizing next steps.
