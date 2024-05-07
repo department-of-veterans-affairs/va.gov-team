@@ -85,6 +85,19 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
 9. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
 10. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
 
+## Creating Service Account
+```
+# Create Service Account Config for IVC_Champva
+btsss = SignIn::ServiceAccountConfig.find_or_initialize_by(service_account_id: '6747fb5e6bdb18b2f6f0b890ff584b07')
+btsss.update!(
+  description: 'DOCMP/PEGA Access Token',
+  scopes: ['http://localhost:3000/ivc_champva/v1/forms/status_updates'],
+  access_token_audience: 'docmp-champva-forms-aws-lambda',
+  access_token_user_attributes: [],
+  access_token_duration: SignIn::Constants::ServiceAccountAccessToken::VALIDITY_LENGTH_LONG_MINUTES, # 30 minutes (only other option is 5 minutes)
+  certificates: [File.read('spec/fixtures/sign_in/sts_client.crt')]
+)
+```
 
 ## Generating the bearer token
 1. Generate the `jwt` with this script. Will likely have to adjust `scope` when in higher environments
