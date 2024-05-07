@@ -5,7 +5,7 @@
 For Veterans and beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online (form 10-7959a) follows the digitization of enrollment (form 10-10d) and Other Health Insurance certification (form 10-7959c).
 
 ## Problem Statement
-Veterans and their beneficiaries need a way to file claims through CHAMPVA online, so they can get coverage for the services they need.
+Veterans and their beneficiaries need a way to file claims through CHAMPVA quickly and easily, so they can get coverage for the services they need. Currently they are sending these in via mail and fax, which lead to long processing times.
 
 How might we help family members of Veterans get their claims filed and processed quickly and easily?
  
