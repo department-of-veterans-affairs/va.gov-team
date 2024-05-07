@@ -18,8 +18,8 @@ ________________________________________________________________________________
 - **GOAL: 1**
     - ❗🟦🟩 example: [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
-    - **Sub Goal: 1a**
-        - ❗ TBD
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+        - ❗🟥 [[Design] Identify list of error pages we need](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81775)
 - **GOAL: 2**
     - **Sub Goal: Discovery - 2a**
         - ❗ TBD
@@ -45,7 +45,6 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [[Research] Draft research plan](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81766)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-         - 🟥 [[Design] Identify list of error pages we need](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81775)
          - 🟥 [Create two wireframe prototypes](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81969)
     - **Sub Goal: [Feature] Create Appointment Notifications Hub**
          - 🟦 [Copy of [FE] Build out appointment notifications card types](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81770)
@@ -62,7 +61,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
          - 🟦 [Mock wellHive Appointment endpoints](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81913)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
-         - 🟦 [Create CC app within vets-website](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81933) 
+         - 🟦 [Create CC app within vets-website](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81933)
+         - 🟦 [FE] Review your approved referral and start scheduling page  -Lee to recreate the ticket.
 ______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 5 - 4/17/2024 - 4/30/2024  
