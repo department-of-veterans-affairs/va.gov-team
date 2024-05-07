@@ -68,7 +68,7 @@ Examples might be "Most participants used the Search field to find the form, and
 
 **1. Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use.**
 
-  **- 7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization between medications items and medical supplies items on the refill and reorder page.**
+    **- 7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization between medications items and medical supplies items on the refill and reorder page.**
     
 **2. They think they are different, but still expect to see the in one place**
 - not sure about the differences between list page and order page
