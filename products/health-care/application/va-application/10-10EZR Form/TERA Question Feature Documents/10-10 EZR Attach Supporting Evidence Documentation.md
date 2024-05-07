@@ -27,7 +27,7 @@ Allow Veterans to attach supporting documentation to their EZR, particularly doc
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* .Allow Veterans to attach supporting documentation to their EZR, particularly documentation concerning Toxic Exposure. There are a borad array of documents the VA would like from Veterans for Toxic Exposure claims which may or may not be a part of their particular record. These documents should help imrpove the speed and effectiveness of Toxic Exposure claims.
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
