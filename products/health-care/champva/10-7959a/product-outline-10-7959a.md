@@ -62,6 +62,7 @@ In scope:
 - Integration with PEGA for forms and documents
 - Authenticated and unauthenticated experience
 - End to end testing with PEGA
+- Confirmation and tracking/monitoring (to and from PEGA)
   
 Out of scope:
 - Integration with VES (this will need to be addressed in the future)
