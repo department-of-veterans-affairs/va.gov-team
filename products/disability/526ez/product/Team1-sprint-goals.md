@@ -12,7 +12,7 @@ Period - 05/08/2024 - 05/21/2024
     - 5103 link and claim certification - Implement feedback from collab cycle for any launch blocking issues
 
 - **[Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179)**
-   - Design mockups for submission scenarios on the success path 
+   - Design mockups for submission scenarios on the success path (including successful backup paths)
        - CAIA review of design mockups
    - Map design options for failure submission scenarios in order to reduce or eliminate Veteran burden
        - This solutioning includes resubmission and In Progress Forms
