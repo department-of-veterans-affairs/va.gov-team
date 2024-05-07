@@ -35,6 +35,7 @@ A variety of existing VA tools provide locators for different types of facilitie
 
 
 ## TODO: verify & cleanup
+Ticketed: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18068
 Jan 2024: the notes below, including the teable, may all be out of date. Need to update as necessary for modern truth.
 Mar 2024: The table is most certainly out of date. We no longer use ArcGIS for anything within faciliaty locator or even in Lighthouse and have removed any mention of it from the products as of March 2024.
 
