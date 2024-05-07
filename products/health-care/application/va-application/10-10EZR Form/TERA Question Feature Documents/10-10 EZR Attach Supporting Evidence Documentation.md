@@ -17,6 +17,8 @@
  - *Product: Disability Claims*
    - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*Allow Veterans to attach supporting documentation to their EZR, particularly documentation concerning Toxic Exposure. There are a borad array of documents the VA would like from Veterans for Toxic Exposure claims which may or may not be a part of their particular record. These documents should help imrpove the speed and effectiveness of Toxic Exposure claims.
  
+Allow Veterans to attach supporting documentation to their EZR, particularly documentation concerning Toxic Exposure. There are a borad array of documents the VA would like from Veterans for Toxic Exposure claims which may or may not be a part of their particular record. These documents should help imrpove the speed and effectiveness of Toxic Exposure claims.
+
  </details>
  
  > 💡 Helpful guidance/tips
