@@ -136,3 +136,65 @@ Assistive technology users rely on proper semantics to access web content. They 
 ### Last updated
 
 3/6/24
+
+***
+
+## When to use ARIA (draft)
+
+What's ARIA? The W3C defines it like this:
+
+> "WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make web content and web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with HTML, JavaScript, and related technologies."
+
+- The WAI group
+
+### Accessibility problem being solved
+
+ARIA enables us to create rich experiences on the web for people with disabilities. Using it responsibly can be the difference between a usable or unusable website or application. The overuse or misuse of ARIA comes up as one of the most common issues in accessibility code audits. But how do you know when to use ARIA and when to not use it?
+
+### Ideal state
+
+Refer to this article on [using ARIA](https://www.w3.org/TR/using-aria/) as a starting point if you have questions about ARIA use. It has five rules for ARIA that can guide your decision making:
+
+**"First Rule of ARIA Use: If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."**
+
+Always lean on HTML first. Applying ARIA generally means more complexity for decision making and outcomes for assistive technologies.
+
+**"Second Rule of ARIA Use: Do not change native semantics, unless you really have to."**
+
+Changing the native semantics of an element, means it won't work as expected, and the team that's changed it needs to take responsibility for ensuring it works properly. This creates the need for extra testing, user research and engineering time. There can be good reasons to do this, but tread carefully.
+
+**"Third Rule of ARIA Use: All interactive ARIA controls must be usable with the keyboard."**
+
+Basic keyboard functionality provides essential compatibility between any interactive component on the web and assistive technology. Without it, the interactive component won't work.
+
+**"Fourth Rule of ARIA Use: Do not use role="presentation" or aria-hidden="true" on a focusable element."**
+
+Similar to keyboard functionality, removing the ability to move focus to an interactive element makes it useless to assistive technology. That's what `role="presentation"` or `aria-hidden="true"` do.
+
+**"Fifth Rule of ARIA Use: All interactive elements must have an accessible name."**
+
+An Accessible Name for an interactive control helps assistive technology users understand what the control is and does. Without it, users have to make guesses about what controls do.
+
+### Implementation notes
+
+Another way to think about this through the lens of our work on VA.gov and associated mobile applications:
+
+1. Use design system components first. If you need to make a custom component, seek guidance from accessibility specialists.
+2. Use the existing properties provided by components, and only add custom markup and attributes when necessary.
+3. The most difficult ARIA challenges happen when two or more common components get combined into a new component, and create a complex experience that's harder to translate without the use of sight or other senses.
+4. Pay attention to accessibility guidance in both the VA Design System and US Web Design System. It will often add boundaries around what's possible and more difficult to accomplish with a certain component.
+5. Use [accessibility annotations](https://design.va.gov/about/accessibility/accessibility-annotations) during the design process to think through any ARIA customizations.
+
+### Resources
+
+- [Accessibility in the VA Design System](https://design.va.gov/about/accessibility/)
+- [Accessibility annotations for VA.gov applications](https://design.va.gov/about/accessibility/accessibility-annotations)
+
+### Further reading
+
+- [Using ARIA](https://www.w3.org/TR/using-aria/)
+- [ARIA and HTML](https://web.dev/learn/accessibility/aria-html)
+
+### Last updated
+
+May 6, 2024
