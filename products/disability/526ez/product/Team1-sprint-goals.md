@@ -9,6 +9,7 @@ Period - 05/08/2024 - 05/21/2024
     - Mockups for how to message Veterans with an in-progress form that new TE fields are available.
 
 - **Paper Form Sync**
+    - 5103 link and claim certification - Implement feedback from collab cycle for any launch blocking issues
 
 - **[Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179)**
    - Design mockups for submission scenarios on the success path 
