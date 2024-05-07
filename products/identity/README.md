@@ -21,13 +21,13 @@ Users can sign in on [VA.gov](http://va.gov/) using one of four Identity Provide
 
 Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov](http://va.gov/) page and should be made available in-page on any product that requires or benefits from adding sign-in. You can see an [in-page CTA example shown on one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/). If the user runs into issues, they can visit the [Login FAQ page here](https://staging.va.gov/sign-in-faq/) or submit a [login help request form here](https://www.accesstocare.va.gov/sign-in-help) which sends submitted information to the [VA.gov](http://va.gov/) Microsoft Dynamics instance.
 
-[This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
+[This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
 
 [The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/login) provides a fuller overview on login.
 
 ## Connecting to MPI
 
-Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Person Index (MPI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ssoe/ssoe_saml_response_attributes.md). In order for us to attempt a connection to MPI, the user's account level must be LOA3 ([see more on LOA below](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)).
+Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Person Index (MPI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md). In order for us to attempt a connection to MPI, the user's account level must be LOA3 ([see more on LOA below](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)).
 
 If we are able to successfully connect a user to a record in MPI, we get back a [list of attributes](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa) that can be leveraged throughout [VA.gov](http://va.gov/) to provide access to additional digital services. This allows the user to access products such as the profile and dashboard, which display personal information and actions in flight with the VA, as well as pre-fill information on an application directly from their Veteran Record in MPI.
 
@@ -39,7 +39,7 @@ People using one of our CSPs (Credential Service Providers) will have a credenti
 
 We can only connect a user to a Veteran Record in MPI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure [VA.gov](http://va.gov/) that the user's identity is trustworthy.
 
-A user may sign in with an LOA1 account, which means they have not verified their identity. In this case, they have the option to verify their identity (LOA3) through [ID.me](http://id.me/), [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/idme/idv-flow-updated-20170821.pdf). They can also verify their identity through Login.gov.
+A user may sign in with an LOA1 account, which means they have not verified their identity. In this case, they have the option to verify their identity (LOA3) through [ID.me](http://id.me/), [even if they logged in with a DS Logon or MHV account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/idv-flow-updated-20170821.pdf). They can also verify their identity through Login.gov.
 
 Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of LOA as shown below:
 
@@ -82,7 +82,7 @@ LOA3 users are more trusted, and will often have more information and access to 
 
 LOA1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
 
-Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/error-messages/sign-in-error-handling.md).
+Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/sign-in-error-handling.md).
 
 ## Requesting support from the Identity Team
 
