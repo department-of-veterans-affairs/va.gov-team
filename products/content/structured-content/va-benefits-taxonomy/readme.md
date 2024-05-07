@@ -1,20 +1,19 @@
 # VA Benefits Taxonomy Product Brief
 
 ## Overview
-The VA Benefits Taxonomy is a single-source of truth taxonomy that captures Benefits metadata, for use throughout VA.gov. 
+The VA Benefits Taxonomy is a single-source of truth taxonomy that captures Benefits metadata for use throughout VA.gov. 
 
 VA Benefits taxonomy in the Drupal CMS:  
 https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview (Drupal Admin or Content Publisher role required)
 
-
 ## Problem statement
-Benefits content is threaded throughout VA.gov, used for multiple purposes. We want a single source of truth for Benefits content, that can be harnessed and used throughout the site for "create once, publish everywhere" (COPE) purposes. 
+Benefits content is threaded throughout VA.gov and used for multiple purposes. We want a single source of truth for Benefits content that can be harnessed and used throughout the site for "create once, publish everywhere" (COPE) purposes. 
 
 ### User Stories / User Cases
-As a Veteran, I want to see consistent terminology and verbiage when reading about benefits so that I'm not confused and clearly understand what my benefits are, what I need to provide, and what paths to take to apply for benefits.
+As a Veteran, I want to see consistent terminology and verbiage when reading about benefits so that I'm not confused and can clearly understand what my benefits are, what I need to provide to get my benefits, what paths to take to apply for benefits, and where to go to ask questions and get clarification.
 
 ### User pain points and opportunities
-Terminology and verbiage that veterans see is not consistent, and they may see different words and phrases used that actually mean the same thing instead of consistent, one-source-of-truth wording which will be easier to understand and follow when learning about or applying for benefits.
+Terminology and verbiage that veterans see is not consistent. They are confused by seeing different words and phrases used that actually mean the same thing, instead of consistent, one-source-of-truth wording which will be easier to understand and follow when learning about or applying for benefits.
 
 ### Business pain points and opportunities
 
@@ -22,13 +21,12 @@ Terminology and verbiage that veterans see is not consistent, and they may see d
 ## Background
 This taxonomy was created in 2023, as part of an effort to harden the content model for Benefit Detail Pages.
 * Product documentation: https://github.com/department-of-veterans-affairs/va.gov-team/products/content/structured-content/benefits-content-model
-* epic: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9628
+* Epic: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9628
 
-As of September 2023, the VA Benefits taxonomy is launched to production in the CMS, CAIA has created initial content, but the content of the taxonomy is not exposed to the front-end of VA.gov. 
+As of September 2023, the VA Benefits taxonomy is launched to production in the CMS. CAIA has created initial content, but the content of the taxonomy is not exposed to the front-end of VA.gov. 
 
 ## Light roadmap
-[Epic: Benefit Detail page hardening using VA Benefit Taxonomy: va.gov-cms #13752
-](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13752)
+[Epic: Benefit Detail page hardening using VA Benefit Taxonomy: va.gov-cms #13752](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13752)
 
 
 ### Prioritized OKRs for MVP (one objective, 2-3 key results)
@@ -46,31 +44,32 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 #### In scope
 
 * **Benefit Name / VA Benefit API ID**
-  * For initial load, auto-populate with camelCase. VA Services taxonomy uses lower camelCase, and we could follow suit here. Before releasing, have PW validate to make sure it makes sense to future developers. We don't have the auto-creation yet.
+  * For initial load of the Benefit Name/VA Benefit API ID, auto-populate with camelCase. VA Services taxonomy uses lower camelCase, and we could follow suit here. Before releasing, have Public Websites engineers validate to make sure it makes sense to future developers.
+    * Note that we don't have the auto-creation yet.
     * No hard business requirements are known here, so this could be handled in whatever way makes sense to CAIA + engineering.
-      * 
+      
 * **How to Apply Section**
-  *  This is for programs like Dental Care, where the Veteran is filling out the 1010ez.
-    *  For programs like dental care where you apply by filling out the 10-10EZ health care form (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran they need to fill out the 1010EZ form for that benefit. For MVP, we will solve this using the text in the How to Apply section
+  *  This is for programs like Dental Care, where the Veteran is filling out Form 10-10ez.
+    *  For programs like dental care, where you apply by filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit. For MVP, we will solve this using the text in the How to Apply section.
       *  
 
 * **Exclusionary and Simultaneous Benefits**
-  * We will need some Content modeling aroudn this. Might need to pull in Dave Picket?
-  * _Exclusionary Benefits:_ Meaning > If you have this benefit you can’t have that benefit
-    -  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound **or** Aid & Attendance", etc. Note to Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
-  - _Simultaneous Benefits:_ Meaning > if you have this benefit, you MUST have this benefit at the same time, _or_ you’re automatically enrolled at the same time.
+  * We will need some Content modeling around this. Might need to pull in Dave Picket?
+  * _Exclusionary Benefits Definition:_ Meaning > If you have _this_ benefit, you can’t have _that_ benefit.
+    -  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound **or** Aid & Attendance", etc. The note to the Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
+  - _Simultaneous Benefits Definition:_ Meaning > if you have this benefit, you MUST have this other benefit at the same time, _or_ you’re automatically enrolled in this other benefit at the same time.
     -  Example language: Add Simultaneous benefit? Note to Veteran: What we’re talking about here is a benefit that you should or must consider applying for or obtaining at the same time as this benefit.
    
     
 * **Benefit Description**
-  * Will consist of three (already existing) fields: longer summary, brief summary (currently has 500 character limit), & teaser summary (one to two sentences - currently 300 character limit).
+  * Will consist of three (already existing) fields: Longer summary, Brief summary (currently has 500 character limit), & Teaser summary (one to two sentences - currently 300 character limit).
   * Character count limits will be required on all three fields.
-    * Long Summary is required. If a Long description character count is more than 500 characters, it can't be reused as the Brief Summary, therefore the Brief summary changes from optional to required. If the Long Description character count is greater than 300 characters, then the teaser summary changes to required, unless the Brief summary is less than 300 characters.  This is MVP.
-    * Brief Summary: If this summary is greater than 300 characters, then the teaser summary is required.
-  * In editorial interface we want to be sure there is feedback for the character counts, and in the descriptions we include what the character counts are.
+    * Longer summary is required. If a Longer summary description character count is more than 500 characters, it can't be reused as the Brief Summary, therefore the Brief summary changes from optional to required. If the Longer summary description character count is greater than 300 characters, then the Teaser summary changes to required, unless the Brief summary is less than 300 characters.  Note that this is MVP.
+    * Brief summary: If this summary is greater than 300 characters, then the teaser summary is required.
+  * In the editorial interface, we want to be sure there is feedback (error message/warning) for the character counts, and in the descriptions we include what the character counts are.
   * Work with CAIA to provide content for the editorial interface for best practices.
-    * Note that CAIA will provide editorial context – e.g. word counts for a long, brief, and teaser descriptions; helper text for these fields.
-    * Note from CAIA: We need to think about how much depth we want to go into for the “longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full description? This is something for us to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
+    * Note that CAIA will provide editorial context e.g. word counts for the Longer, Brief, and Teaser summary descriptions and helper text.
+    * Note from CAIA: We need to think about how much depth we want to go into for the “Longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full (Longer summary) description? This is something for us (CAIA) to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
    
 
 * **Benefit Eligibility**
