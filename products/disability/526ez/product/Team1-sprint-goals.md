@@ -11,9 +11,10 @@ Period - 05/08/2024 - 05/21/2024
 - **Paper Form Sync**
 
 - **[Submission  & Post-Submission](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179)**
-   - Design mockups for submission scenarios that **don't** require Veterans to take action
+   - Design mockups for submission scenarios on the success path 
        - CAIA review of design mockups
-   - Map design options for submission scenarios that **do** require Veterans to take further action 
+   - Map design options for failure submission scenarios in order to reduce or eliminate Veteran burden
+       - This solutioning includes resubmission and In Progress Forms
    
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
