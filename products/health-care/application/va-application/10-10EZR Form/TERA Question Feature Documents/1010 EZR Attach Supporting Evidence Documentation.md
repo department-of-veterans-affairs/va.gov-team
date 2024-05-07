@@ -36,6 +36,8 @@
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
+In order to faster and more effectively adjudicate Veterans' Toxic Exposure claims, HEC/Member Services sometimes use documents provided by Veterans to help establish the locations and timeframes where a Veterans was exposed to toxins. At times these documents are things not otherwise found in a Veteran's official Military record, such as orders or testimonials. The VA has made it a priority to have as many Veterans as possible submit Toxic Exposure information if the Veterans believes they were exposed to toxcins while serving. 
+
 <!--
 ## Desired User Outcomes
 - *Why would a user want to use this?*
