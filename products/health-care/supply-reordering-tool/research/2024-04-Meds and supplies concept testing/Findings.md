@@ -50,16 +50,16 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 ## Hypotheses and Conclusions
 
 1. Veterans may think medical supplies and medications are in the same category because they both need to be prescribed.
-   - LIKELY FALSE. In term of usages, most participants (11/15) think medications and medical supplies are completely different. 3 mentioned that they all need to be prescribed. With that being that, most participants still preferred medications and medical supplies to be in the same category even though they think they are different.
+   - LIKELY FALSE. In terms of usage, most participants (11/15) think medications and medical supplies are completely different. 3 mentioned that they all need to be prescribed. With that being that, most participants still preferred medications and medical supplies to be in the same category even though they thought they were different.
      
 2. Veterans may have difficulties finding and ordering medical supplies if they are on the same list as medications because the list can get very long.
-   - LIKELY TRUE. Out of the 11 who prefered to have medications and supplies items on the same screen, 7 participants mentioned that the list should have some type of seperations between medications and supplies or organizations to help them find things easily.
+   - LIKELY TRUE. Out of the 10 who preferred to have medications and supplies items on the same screen, 7 participants mentioned that the list should have some type of separation between medications and supplies or organizations to help them find things easily.
      
 3. Veterans may expect medical supplies and medications to be in the same category on MHV home but expect to view and order them separately, which is option 2.
-   - Half LIKELY TRUE and half LIKELY FALSE. 10 out of 15 participants prefers to have medical supplies and medications in the same category on MHV home (option 3 prototype). They like that medications and supplies are all in one place, and they don't have to go to different places to look for them. 
+   - Half LIKELY TRUE and half LIKELY FALSE. 10 out of 15 participants prefer to have medical supplies and medications in the same category on the MHV landing page (option 3 prototype). They like that medications and supplies are all in one place, and they don't have to go to different places to look for them. Even though they expect medications and medical supplies to be in the same place/list, as mentioned in the 2nd bullet point, 7 participants mentioned that the list should have some type of separation between medications and supplies or organizations to help them find things easily.
      
 4. Veterans may be confused about categorizing supplies like testing strips and wound care supplies as medications or medical supplies.
-   - LIKELY TRUE. 
+   - LIKELY TRUE. We asked participants to order mask straps and glucose testing strips. Everyone knew they needed to go to the medical supplies section to find mask straps. However, no one expected to find testing strips in the prescriptions/medications section. 5 participants knew they could find testing strips in prescriptions, only because they had prescribed testing strips and knew it's in prescriptions in MHV Classic today. 
 
 
 ## Key Findings
