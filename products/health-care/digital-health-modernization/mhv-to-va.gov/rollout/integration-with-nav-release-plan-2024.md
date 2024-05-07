@@ -12,7 +12,7 @@ Medical records will continue to be available on MHV National Portal.
 MHV-on-VA.gov UX will include:
 - Secondary nav bar with 5 links (Home/landing page plus 4 tools)
 - MHV-on-VA.gov Landing page links directly to VA.gov versions of tools
-- Tool breadcrumbs will link back to MHV-on-VA.gov landing page
+- Breadcrumbs on tool landing pages (only) will link back to MHV-on-VA.gov landing page
 - The MHV-on-VA.gov landing page will include information about the new functionality on VA.gov
 
 **Artifacts**:
