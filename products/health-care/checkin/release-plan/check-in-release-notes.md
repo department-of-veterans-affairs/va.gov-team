@@ -12,6 +12,11 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 5/7/2024
+- Updated details page for Pre-Check-in & eCheck-in to increase clarity for Veterans
+    - Do not display label or default value for Provider data when not available
+    - Do not display label or value for Type of Care as the applications do not have access to the correct information
+
 ## 4/17/2024
 - Updated error pages for Pre-Check-in to always display the same accordion content regardless of appointment modality
     - [Ticket 72859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72859)
