@@ -85,13 +85,13 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] QA / user acceptance testing completed  
 
-- [ ] Research documented in Github 
+- [X] Research documented in Github 
 
 
 
 ### Accessibility 
 
-- [ ] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
+- [X] Testing with complex cases (assistive tech users, cognitive disabilities, etc.) completed 
 
  
 
@@ -151,7 +151,7 @@ For an application to enter rollout Phase 0, the following must be true:
  
 ### Analytics & Metrics  
 
-- [ ] Google Analytics 
+- [X] Google Analytics 
 
     - Event tags exist 
 
@@ -163,7 +163,7 @@ For an application to enter rollout Phase 0, the following must be true:
     - Access 
 
     - Dashboard exists 
-- [ ] Datadog 
+- [X] Datadog 
      - Access 
 
      - Dashboard exists 
