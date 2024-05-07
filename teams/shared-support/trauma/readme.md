@@ -75,6 +75,10 @@ Attended a Community of Practice meeting or Practice Circle? Lurk on our Slack c
 - charlotte@cityfriends.tech, [LinkedIn](https://www.linkedin.com/in/charlottecesana/)
 - Interviews are an opportunity to connect with Veterans, to listen, and to learn. I'm interested in growing our community of practice to ensure that we cultivate an environment of safety and comfort for our participants at all times. 
 
+**Christine Rose Steiffer**, Designer / Researcher, Disability Benefits Employee Experience Team
+- csteiffer@gmail.com, [LinkedIn](https://www.linkedin.com/in/christinesteiffer/)
+- I am here to learn from this group of passionate individuals about how to speak with and design for those who have experienced trauma. I am also pursuing my Masters degree in Social Work as a means of deepening my understanding of what trauma-informed care looks like in a parallel field of community-based changemaking.
+
 <hr/>
 
 ### Facilitators 👐
