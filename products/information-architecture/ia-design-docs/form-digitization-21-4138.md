@@ -1,7 +1,7 @@
 # IA Design for Form 21-4138
 **STATUS: In progress**
 
-**Team:** [Veteran facing forms]
+**Team:** Veteran facing forms team
 
 **IA Request:** [Link to Sitewide Content and IA intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75607)
 
