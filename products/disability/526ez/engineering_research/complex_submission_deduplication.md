@@ -140,7 +140,7 @@ Now our duplicate report will look like this:
 
 In this barely-complex example, the logic breaking these submissions into three single-member dupe sets is pretty straight forward. However, when we are looking at 5, 10, even 20 submissions for a user, often many differences across many different overlapping subsets, grouping submissions by sameness quickly becomes complex. 
 
-**NOTE:** Something to keep in mind as we ratchet up the complexity is that **dupe sets only ever get smaller**.  If we create dupe sets based on a single difference, then those already differentiated submissions will never become *more* similar by introducing new differences across forms. Using this Axiom we can begin to develop an algorithm that itterataivly breaks down dupe-sets into smaller dupe-sets into smaller dupe-sets.  
+**NOTE:** Something to keep in mind as we ratchet up the complexity is that **dupe sets only ever get smaller**.  If we create dupe sets based on a single difference, then those already differentiated submissions will never become *more* similar by introducing new differences across forms. Using this Axiom we can begin to develop an algorithm that iterataivly breaks down dupe-sets into smaller dupe-sets into smaller dupe-sets.  
 
 In the contrived example below, you can see how we will break down a multi-submission, multi-variation submission set into dupe sets.
 
@@ -186,36 +186,35 @@ Better, but still weird because tables imply column values.  Since there is no l
 
 This is exactly what the `SimpleDuplicateSetBuilder` would return, and is what we used to generate our inital best-guess number of submissions requiring remediation.  However, a closer look reveals that some of these dupe sets contain submissions that aren't true top-to-bottom duplicates!  For instance, the very first set `[1,2,3,4]` is telling us that submissions `1` and `2` have the exact same form data.  However, in the next group of dupe sets (from keychain 2) we see `2` in the first dupe set (`[2,3,5]`) and `1` in the next as a single-element dupe set.  This tells us that `1` and `2`, when considered wholistically are not actually duplicates.
 
-Visually sorting this out into true dupe sets takes a human a few minutes, but we need to codify it.  There are many ways to do this, but the most logically simple is probably itterative. Let's step through, itteratively comparing groups of dupe sets and trying to break them down into true dupe sets.  Another way to think of it is combining our groups of dupe sets into a single, honest dupe set.  In the following example I've added letter tags (e.g. `A:[set A], B: [set B]`) so we can talk about them in pseudo code.
+Visually sorting this out into true dupe sets takes a human a few minutes, but we need to codify it.  There are many ways to do this, but the most logically simple is probably iterative. Let's step through, iteratively comparing groups of dupe sets and trying to break them down into true dupe sets.  Another way to think of it is combining our groups of dupe sets into a single, honest dupe set.  In the following example I've added letter tags (e.g. `A:[set A], B: [set B]`) so we can talk about them in pseudo code.
 
-Since we are comparing submissions across keychiains, we can split them at the top level into 3 'keychain sets'.  We can start by comparing the first 2.  Do to this we mark the first as our 'best guess so far' aka 'the set we will compare with in our loop', aka our 'comparative set'.  Our itteration begins with our next keychain array, so we've marked that as our 'itterative focus', aka 'the point in the loop we are at'.
+Since we are comparing submissions across key chains, In the following example I'll refer to 'keychain sets'. These are the same three groups of dupe sets (I really want to say dupe groups) we have already identified.  We start by comparing the first 2. To do this we will mark the first keychain set as our 'best guess so far' aka 'the set we will compare with in our loop', aka our 'comparative set'. Afterall, a single group of dupe sets / key chain set / dupe group is what we are after, so we can just arbitraily assign this one as 'closest guess' and refine from there.  Our iteration then begins with our next keychain array, so we've marked that as our 'iterative focus', aka 'the point in the loop we are at'.
 
 ```ruby
 [
 comparative set -->  [A:[1,2,3,4], B:[5,6]],
-itterative foucs --> [C:[2,3,5], D:[1], E:[4,6]],
+iterative foucs --> [C:[2,3,5], D:[1], E:[4,6]],
                      [F:[1,4], G:[2,3], H:[5,6]]
 ]
 ```
 
-The first deep itteration of our loop would be something like this
-
-1. Itteration begins through the itterative focus set, and we find the largest subsets of each dupe set
+The first deep iteration of our loop would proceed as follows like this
   - Largest subset of C and A = [2,3]
   - Largest subset of C and B = [5]
   - Largest subset of D and A = [1]
   - Largest subset of D and B = []
   - Largest subset of E and A = [4]
   - Largest subset of E and B = [6]
-2. We've now created smaller dupe sets!  The result of this itteration is our new 'best guess so far' group of dupe sets: `[[2,3], [5], [1], [4], 6]]`. With only one itteration we've reduced the nubmer of dupe sets to 1.  For our next itteration, we will do the same thing, using this 'best guess so far' set as our new 'comparative set'. The loop itterates to the next keychain set, marking it as our 'itterative focus'
+
+We've now created smaller dupe sets!  The refinement of our initial best guess is our new 'best guess so far'. Here is what it looks like; `[[2,3], [5], [1], [4], 6]]`. With only one iteration we've reduced the nubmer of dupe sets to 1.  For our next iteration, we will do the same thing, using this 'best guess so far' set as our new 'comparative set'. The loop iterates to the next keychain set, marking it as our 'iterative focus'
 
 ```ruby
 [
 comparative set -->  [A:[2,3], B:[5], C:[1], D:[4], E:[6]],
-itterative focus --> [F:[1,4], G:[2,3], H:[5,6]]
+iterative focus --> [F:[1,4], G:[2,3], H:[5,6]]
 ]
 ```
-Our second deep itteration proceeds thusly:
+Our second deep iteration proceeds thusly:
 
   - Largest subset of F and A = []
   - Largest subset of F and B = []
@@ -235,8 +234,10 @@ Our second deep itteration proceeds thusly:
 
 Our result is `[[1], [2,3], [4], [5], [6]`.  Our dupe set of submission `[2,3]` survived, meaning it is a true duplicate! We now have a group of true dupe sets for our user, which we can pass on to our rules engine, which will return 0 or 1 submissions from each dupe set that requires investigation.  More on that here [TODO - add this document]
 
-**Note** that if we cared to, we could optimize this to not do so many worthless itterations.  However, these duplicate reports tend to only have a few key chains, and submission sets tend to top out in the teens. For this reason, we are sacrificing performance development time and grokability.
+**Note** that if we cared to, we could optimize this to not do so many worthless iterations.  However, these duplicate reports tend to only have a few key chains, and submission sets tend to top out in the teens. For this reason, we are sacrificing performance development time and grokability.
 
 **Note** that the hard work done here is happening in application memory. small DB queries are fired, but nothing that risks locking our database, even if this script takes days to run.
+
+**Note** if a submission has a nil value for a keychain, then it and other nil values at that keychain form their own dupe set. See the script for more details [TODO - link script]
 
 [TODO - link the actual code]
