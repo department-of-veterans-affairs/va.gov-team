@@ -1,4 +1,3 @@
-WIP
 # 'Complex' de-duping (or grouping by sameness when it's hard)
 
 'De-duping' is the catch-all term we are using to describe our high level goal of [removing duplicate 526 submissions from consideration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80624) relative to our 'untouched submission audit'. Within this document, what is actually being discussed is a subset of that problem, wherein we want to group submissions, scoped to a single veteran, by 'sameness'. More specifically, grouping submissions by sameness in the event of multiple, inconsistant differences across those submissions, i.e. 'complex' differences. These duplicate sets (**dupe-sets** for short) will then be put through a rule engine to determine which require remediation and which can be ignored.
@@ -7,6 +6,8 @@ WIP
 - GIVIN a set of submissions, scoped to a single user
 - IF one submission is identical to another across all values it can be said to be a true duplicate of that submission
 - WHEN muptiple submission are identical across *all* form values, they can be said to be a true duplicate set.
+- A 'dupe set' can be as small as a single submission.
+- 'dupe sets' can only ever get smaller when we introduce more differences. 
 
 **In this document, when I talk about "sameness", this is what I'm talking about.**
 
@@ -60,7 +61,7 @@ submissionID 3
 }
 ```
 
-The duplicate report would return the following keychain and data:
+The diff report would return the following keychain and data:
 
 ```ruby
 { 
@@ -71,14 +72,14 @@ The duplicate report would return the following keychain and data:
 }
 ```
 
-The values are hashes where the variation (String) points to an array of submissions, from the relevant set, that contain that variant. The Deduper finds these deeply nested variations by flattening the form json and simply comparing key chains and the strings they return.
+The values are hashes where the variation (String) points to an array of submissions, from the relevant set, that contain that variant. The Diff generator finds these deeply nested variations by flattening the form json and simply comparing key chains and the strings they return.
 
 ## 'Simple' de-duping (sameness grouping)
-Our 'simple sameness grouper' was a first pass at processing a duplicate report and grouping the scoped submissions into groups of sameness. [TODO - link this].  
+Our 'simple sameness grouper' was a first pass at processing a duplicate report and grouping the scoped submissions into groups of sameness. [TODO - link this].  This works great if there is only one variation accross all submissions of the set. However, its common for 3 or more submissions to diverge on multiple values, and in unique ways from submission to submission. 
 
-### Why it isn't enough
+### 'Complex' de-duping (sameness grouping when the differences are more complex)
 
-This works great if there is only one variation accross all submissions of the set.  For more information on how it works, see comments in the script [TODO]. However, its common for 3 or more submissions to diverge on multiple values, and in unique ways from submission to submission.  In the example below you can see that our previous grouping of `[<submission 2 id>, <submission 3 id>]` based on `variant B` is no longer accurate.  This duplicate set needs to be futher broken down based on the secondary variant.
+In the example below you can see that our previous grouping of `[<submission 2 id>, <submission 3 id>]` based on `variant B` is no longer accurate.  This duplicate set needs to be futher broken down based on the secondary variant.
 
 ```ruby
 submissionID 1
@@ -136,11 +137,11 @@ Now our duplicate report will look like this:
 }
 ```
 
-It's still pretty easy to see that these three submissions must be treated as indidual 'sets'.  There are no more ignoreable duplicates.  You can probably also see how quickly this difference can become 'complex' as the number of forms and variations increase.
+It's still pretty easy to see quickly that these three submissions must be each treated as single-member dupe-sets. However, when we are looking at 5, 10, even 20 submissions for a user, often many differences across many different overlapping subsets, grouping submissions by sameness quickly becomes complex. 
 
-## 'Complex' de-duping (sameness grouping)
+Something to keep in mind as we ratchet up the complexity is that dupe-sets only ever get smaller.  If create dupe sets based on a single difference, then those already differentiated submissions will never become *more* similar by introducing new differences. Using this Axiom we can begin to develop an algorythm that itterataivly breaks down dupe-sets into smaller dupe-sets.  
 
-In the contrived example below, you can see how we will break down a multi-submission, multi-variation submission set into actionable dupe sets (groups of duplicates).
+In the contrived example below, you can see how we will break down a multi-submission, multi-variation submission set into dupe sets.
 
 ```ruby
 # given submissions [1,2,3,4,5,6]
