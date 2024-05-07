@@ -45,7 +45,7 @@ The MHV-on-VA.gov secondary navigation will be implemented by adding a shared co
 Tool teams can add the secondary nav component with a single line of code in each location where it is needed.
 - Import the following: `import { MhvSecondaryNav } from '@department-of-veterans-affairs/mhv/exports';`
 - Add the following element to add the secondary nav. This element should be added to the top of your application where it can take the entire width of the page: `<MhvSecondaryNav />`
-- You will also need to include the following SASS file in your application's entry point: `import '~/platform/mhv/secondary-nav/sass/mhv-sec-nav.scss';`
+- You will also need to include the following SASS file in your application's entry point (e.g. in your `app-entry.jsx` file): `import '~/platform/mhv/secondary-nav/sass/mhv-sec-nav.scss';`
 
 
 ### Feature Toggles
