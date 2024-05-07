@@ -175,7 +175,7 @@ ________________________________________________________________________________
         - ✔️🟩 [[FE] DS v3 #5: Update buttons for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73122)
         - ✔️🟩 [[FE] Add Refresh Button ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70720)
         - ✔️🟩 [[FE] Display Message when there are no Appointments that were found in MAP for the Veteran ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67257)
-        - 🟩 [[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
+        - ✔️🟩 [[FE] Pre-Check-in - No Longer Available Page: Update Content & Accordion Behavior ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62123)
         - 🟩 [[FE] Update Appointment List to New Day-of-Week Order ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69903)
         - 🟩 [[FE] Add new appointment kind icon and labels in upcoming list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72163)
         - 🟩 [[FE] Show Information for a Cancelled Appointment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73331)
