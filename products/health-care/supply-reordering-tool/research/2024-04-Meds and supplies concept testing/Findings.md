@@ -80,15 +80,21 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 
 Moderators showed all 3 prototypes to each participant in different orders. Participants were able to use all 3 options to order mask straps, but most had trouble finding glucose testing strips with option 1 and option 2, which were mentioned in the next finding. Overall, option 3 was picked as the easiest to use to order mask straps and glucose testing strips by most participants (10/15). Those participants expressed that they liked everything being consolidated in one place and didn't have to go through different screens to find things. 
 
-> _Supporting data: "I didn't have to go through different screens to find what I'm looking for._
+> _Supporting data: "I didn't have to go through different screens to find what I'm looking for."_
 
-> _Supporting data: "Easily the first one (option 3). They were in one place. Having everything I need to order in one place. For the other options, I had to figure out where they were. Fewer clicks is always the easiest._
+> _Supporting data: "Easily the first one (option 3). They were in one place. Having everything I need to order in one place. For the other options, I had to figure out where they were. Fewer clicks is always the easiest."_
 
-> _Supporting data: "Everything was combined so it was easier to find everything is one place._
+> _Supporting data: "Everything was combined so it was easier to find everything in one place."_
 
-Most participants thought medications and supplies were different. They still expressed the same feeling when asked if they still liked medications and supplies being in one place since they are different. 
+When asked about the similarities and differences between medications and medical supplies, all participants thought they were different with little similarities. With that being said, the participants who picked option 3 as the easiest to use still liked medications and supplies being in one place. 
 
-> _Supporting data: "The ability to go to one place is just easier for me._
+> _Supporting data: "Similarity is they are all doctors' orders."_
+
+> _Supporting data: "Medications have different types, dosages, and usages. Supplies are only one type of use. They are completely different in my opinion."_
+
+> _Supporting data: "Medications are pills. Supplies are something you use."_
+
+> _Supporting data: "I don't find it confusing to see prescriptions (with supplies). The ability to go to one place is just easier for me."_
 
 **7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page.**
 
