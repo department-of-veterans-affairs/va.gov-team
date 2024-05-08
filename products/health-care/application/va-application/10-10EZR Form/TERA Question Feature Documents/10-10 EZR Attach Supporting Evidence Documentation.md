@@ -90,10 +90,25 @@ In order to faster and more effectively adjudicate Veterans' Toxic Exposure clai
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
+- HEC/MS provide examples of forms and approval of content for TERA supporting evidence    
+
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+
+**In scope**
+- Ability for user to upload documents as part of the online EZR
+- Document types to be limited to what can currently be uploaded for the 10-10EZ (believed to be PDF, PNG, and RTF)
+- File size limit the same as what 10-10EZ currently has
+- Content explaining to the user what they can upload, and what can be helpful, particularly for TERA
+- Uploaded documents are sent to VES and processed by VES in the anticipated manner
+
+**Not in scope**
+
+- Ability to upload document file types not currently supported by 10-10EZ
+- Breakdown of the different types of documents resquested for different TERA Cohorts 
+- Ability to upload file(s) in size that exceed current EZ restrictions
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
