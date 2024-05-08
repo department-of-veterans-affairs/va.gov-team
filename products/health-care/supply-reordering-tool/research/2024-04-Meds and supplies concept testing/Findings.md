@@ -105,7 +105,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-#### Finding 2: Every participant thought glucose testing strips were medical supplies.
+### Finding 2: Every participant thought glucose testing strips were medical supplies.
 
 **5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.**
 
@@ -119,7 +119,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 3: Some (7 out of 15) participants found it confusing to have a list page and an order page.**
+### Finding 3: Some (7 out of 15) participants found it confusing to have a list page and an order page.
 
 Brief description
 
