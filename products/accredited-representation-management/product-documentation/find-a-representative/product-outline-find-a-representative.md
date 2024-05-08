@@ -118,6 +118,7 @@ We may also redirect the [legacy OGC representative search](https://www.va.gov/o
    2. The team explored working directly with OGC to really representatives for updated contact information, but OGC does not have the bandwidth to manage the intake of updated information.
    3. Research findings from our MVP will also be incorporated into v2.0
 2. Version 2.0 was released in March 2024 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
+3. Other activity impacting traffic (including marketing communications and navigation updates) are documented in this [ARM Supporting Research & Analytics Info](https://dsva.slack.com/docs/T03FECE8V/F070UJAAB6F) canvas.
    
 ---
    
