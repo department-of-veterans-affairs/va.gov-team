@@ -8,7 +8,7 @@
 | Jan 2024 | Sign in Service | workshop and interviews with internal VA team members | [Demo slides](sis-onboarding-deliverables-demo-feb-30-24.pdf)|
 | Feb 2024 | Service Level Objectives (SLOs) | contextual and content research, secondary research | [Report on internal teams' needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md), [Report on veteran's needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)| 
 | Mar 2024 | Fraud Notifications | quantitative data collection, workshop and interviews with internal VA team members | [see sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/research) |
-| April 2024 | Sign in flows | secondaray research to familiarize as taking ownership in this product | |
+| April 2024 | FE Sign in flows | secondaray research to familiarize ourselves to this product as we take ownership | |
 | on hold | MFA Security Key| diary study | |
 | | | | |
 
