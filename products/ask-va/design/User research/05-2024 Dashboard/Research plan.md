@@ -34,9 +34,9 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 The key goals of this study are to:
 
-* Placeholder
-* Placeholder
-* Placeholder
+* Understand how submitters find a question in their dashboard
+* Understand what submitters need to learn when they review their question's details
+* Understand whether submitters can learn the status of their inquiry without signing in
 
 ### Outcome
 
@@ -44,20 +44,43 @@ This research will help us determine if and how we need to improve the design an
 
 ### Research questions
 
-Placeholder
-* Placeholder
-* Placeholder
+Understand how submitters find a question in their dashboard:
+* How do people find a question in their dashboard?
+* Which labels or details are useful in identifying a specific question? For example, category, reference number, or date.
+* Do people expect to be able to 'search' their dashboard?
+* Can people find the question they're looking for?
+* How does this differ if you have a few or a lot of questions in your dashboard? And/or, if you're a business submitter?
+* Do the statuses and icons make sense in this context?
+* Can people find the link to review the details of their inquiry?
+* What do people expect to happen when they click 'Check details'?
+
+Understand what submitters need to learn when they review their question's details:
+* Can submitters successfully navigate to their question details?
+* What do people notice first when they review their question details?
+* Which labels or details are useful when people check their question details?
+* Do people scroll down to check the reply from VA, and can they find it?
+* Do submitters understand how or if they can reply back to VA?
+* If they can't reply to VA, what would submitters do if they have an issue or follow-up question?
+
+Understand whether submitters can learn the status of their inquiry without signing in:
+* Can people find where to search to check their question's status without signing in?
+* Do people know where to find their reference number?
+* Why might people choose to check their question's status without or before signing in?
+* Do the statuses, icons and descriptions make sense in this context?
+* Are people aware they can sign in to review the details, if they authenticated originally?
+* If available, can people make the jump from checking the status of their question (before sign in) to signing in?
 
 ### Hypotheses
 
 1. Placeholder
 2. Placeholder
+3. Placeholder
 
 ## Methodology
 
 This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
 
-We will present a scenario where the submitter has a question about their **education benefits**.
+We will present a scenario where the submitter has asked VA a question and is ready to check if they have a reply.
 
 We will let submitters **choose whether to sign in or not without guidance**. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic. In this scenario, they will need to sign in to continue. We will pre-fill certain parts of the form with mock data.
 
