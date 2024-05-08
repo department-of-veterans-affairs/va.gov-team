@@ -6,6 +6,12 @@ VA’s goal is for our products to be accessible to all who use them, including 
 
 The CAIA Accessibility team can help by running a pilot session with you before your study. The goal of a pilot is to evaluate your product, point out issues, and give you a taste of what a session with AT users may be like. We’ll let you know what to look out for, and what to avoid.
 
+## Benefits to running a pilot
+- Ensure that your product is usable by the very participants you want to test with - those using assistive technology
+- Get recommendations on how to address issues like sharing prototype links and managing Zoom
+- Observe assistive technology in use before interacting with actual participants
+- Get valuable feedback about your prototype and conversation guide, which you can then adjust before your study begins 
+
 ## First steps
 - Review this guide, as part of your Assistive Technology Research Request ticket
 - After beginning to collaborate with CAIA, let us know that you want to do a pilot
