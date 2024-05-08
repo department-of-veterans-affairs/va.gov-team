@@ -2,42 +2,33 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan: 526 Toxic Exposure
 
-## Release Plan Overview
+## Release Plan Overview [DRAFT]
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Staging testing |5 days|TBD| June 24-28, 2024  |
-|Phase 2: Canary production testing |3 hours|10 claims| April 19, 2024  |
-|Phase 2A: 25% of users |7 days|25% of users (auth users only)|April 24, 2024|
-|Phase 2B: 50% of users |7 days|50% of users (auth users only)|May 1, 2024|
-|Phase 23: 75% of users |7 days|75% of users (auth users only)|May 8, 2024|
-|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |TBD|
-|Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
+|Phase 1: TBD |TBD|TBD| TBD
+|Phase 2: TBD |TBD|TBD| TBD
+|Phase 3: TBD |TBD|TBD| TBD
+|Phase 4: TBD |TBD|TBD| TBD
+|Phase 5: TBD |TBD|TBD| TBD
 
 Considerations
-- Form volume is typically 25 authenticated submissions and 30 unauthenticated submissions per day
+- Lighthouse synchronous /submit enpoint is still in development. LH team is targeting early June for Staging release.
 
 ## Overview
-As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md), the online 21P-530EZ form is out of alignment with the most recent version (or several versions) of the paper form. The updates associated with this release will add missing fields to the online form, remove depreciated fields, update form components, and address critical accessibility issues within the pages that are getting updated. Updates to the static pages that lead into the form flow may also be needed.
+We are adding a toxic exposure section to the 526 ez disability benefits claim form, allowing Veterans to specify some aspects of their service history that might qualify them for additional disability benefits related to toxic exposure. This brings the digital form into parity with the paper 526 ez form on these exposure questions.
 
 [Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707410059042/66a7863edcd579a5bc8b4bd720f685a5d0724a49?wid=0-1707412077064)
 
 ### The release plan will need to consider the following use cases:
-1. Applications In-Progress
-   - Before full release:
-      - Unauthenticated Users: Users will complete the old version (v1) of the form.
-      - Authenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%/100%).
-   - After 100% release:
-      - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the intro page of the form and see an info alert noting that updates have been made. They will start over with v2 of the form -- none of their v1 data will appear in v2 of the form.
-     - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info in the v2 form. Their v1 data will appear in the v2 form.
-2. Applications Not Started
-   - Before full release:
-      - Unauthenticated Users: Users will complete the old version (v1) of the form.
-      - Authenticated Users: Users may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%)
-   - After 100% release
-      - Unauthenticated Users: Users will complete v2.
-      - Authenticated Users: Users will complete v2.
+1. New applications
+- Authenticated Users will be directed to fill out the 2022 version of the 526 form. Veterans may be directed to fill out the 2022 526ez depending on the level of incremental traffic set for the form (10%/25%/50%/75%/100%).
 
+
+2. In Progress Forms
+- Authenticated Users will be directed to fill out the 2022 version of the 526 form. Veterans may be directed to fill out the 2022 526ez depending on the level of incremental traffic set for the form (10%/25%/50%/75%/100%).
+
+TBD
 | User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
 |---|---|---|---|---|---|
 | Authenticated Users | Disabled | No | v1 Form | No | No |
@@ -46,23 +37,58 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 | Authenticated Users | Enabled | No | v2 Form | No | Yes |
 | Authenticated Users | Enabled | Yes, v1 | v2 Form | Yes | Yes |
 | Authenticated Users | Enabled | Yes, v2 | v2 Form | Yes | No |
-| No-Auth Users (Pre-100% Release) | N/A | No | v1 Form | No | No |
-| No-Auth Users (Post-100% Release)| N/A | No | v2 Form | Yes | No |
 
-### This release will include the following components:
-1. Form field updates on some pages (add new fields, remove old fields)
-2. Form component updates on the pages already receiving form field updates
-3. Accessibility updates on the pages already receiving form field updates
-4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
-5. Toggle for inforamtion page to show old vs new form instructions.
-6. New confirmation email sent to users confirming their claim submission through VA.gov
+### This release will include the following capabilities:
+1. Implement Section IV of the 2022 paper form 526 including
+2. 15a claiming conditions related to 
+3. 15b gulf war
+4. 15c herbicide
+5. 15d hazards pages
+6. 15e overflow (an attached page)
+
+### This release will include the following changes:
+1. migrate the submit endpoint
+2. update JSON schema on FE and BE
+3. Update pages on 526 to include TE questions
+4. Implement new checkbox and loop pattern
+5. transform the data to be accepted in the Lighthouse format
+6. handle multiple exposures data
+7. /generate PDF migration for the backup submission path
+8. end to end testing of section 4 questions and display on PDF
+9. Implement toxic exposure feature flag
+10. UI changes for IPF notifications
+11. implement updated logic for the new LH sync submit endpoint
+
+
 ---
+## Release Steps for TE
+ 
+1. Canary launch for LH Submit endpoint (also repeat for LH generatePDF)
+2. Staggered live prod release of Submit for N Veterans
+3. Monitor DD for errors & issues
+4. if this goes well...
+5. enable FF for TE for Veterans without an IPF
+7. test in staging env before it goes to prod in daily deploy
+8. let 10 records come through
+9. turn it off, and inspect the data to ensure it's working
+10. if it works
+11. we continue incremental plan for the staggered release
+12. 20%, 30%, 40%, etc.
+
+POST
+1. add TE pages to Google analytics in Domo (can we do this sooner?)
+2. look at the count of sucessfull claim submissions
+
+
+
 
 ## Step 1: Development
 
+[use this section to name the pieces of code we are touching and new capabilities we're delivering]
+
 You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
-List the features toggles here.
+List the TE feature toggles here. (TBD)
 
 | Toggle name | Description |
 | ----------- | ----------- |
@@ -295,3 +321,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 1. Which assumptions you listed in your product outline were/were not validated?
 1. How might your product evolve now or in the future based on these results?
 1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+
+## Open Quesdtions for Post MVP
+2. Open Questions: If users are in an active session, they will complete the v1 version of the form.
+3. should we separate the MVP release and the IPF release on this page?
+4. is there a specfic DD dashboard we could use to monitor the product performance of the release
+5. Do we need to re-pipe LH to EVSS before the release? What is the decision on that?
