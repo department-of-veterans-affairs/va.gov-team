@@ -1,4 +1,4 @@
-# Assistive Technology Pilot Guide - DRAFT
+# Assistive Technology Pilot Guide
 - Jamie Klenetsky Fay, CAIA
 - Last updated May 8, 2024
 
