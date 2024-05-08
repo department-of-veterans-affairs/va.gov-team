@@ -1,12 +1,12 @@
 
 <!-- markdownlint-disable MD024 -->
-# Release Plan: 2024 21P-530EZ Online Form Updates
+# Release Plan: 526 Toxic Exposure
 
 ## Release Plan Overview
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Staging testing |2 days|TBD| April 2-12, 2024  |
+|Phase 1: Staging testing |5 days|TBD| June 24-28, 2024  |
 |Phase 2: Canary production testing |3 hours|10 claims| April 19, 2024  |
 |Phase 2A: 25% of users |7 days|25% of users (auth users only)|April 24, 2024|
 |Phase 2B: 50% of users |7 days|50% of users (auth users only)|May 1, 2024|
