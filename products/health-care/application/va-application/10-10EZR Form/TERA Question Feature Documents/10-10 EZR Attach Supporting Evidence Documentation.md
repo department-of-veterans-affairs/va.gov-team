@@ -109,6 +109,7 @@ In order to faster and more effectively adjudicate Veterans' Toxic Exposure clai
 - Ability to upload document file types not currently supported by 10-10EZ
 - Breakdown of the different types of documents resquested for different TERA Cohorts 
 - Ability to upload file(s) in size that exceed current EZ restrictions
+- Anything not listed in the above section
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
