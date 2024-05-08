@@ -1,4 +1,4 @@
-# Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+# Sprint goals for Benefits Disability Experience Team 2 (DBEX-CARBS)
 
 ## Sprint 29
 Period - 05/08/2024 to 05/21/2024
