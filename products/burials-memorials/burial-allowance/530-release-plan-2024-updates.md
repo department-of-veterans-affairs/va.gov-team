@@ -9,9 +9,9 @@
 |Phase 1: Staging testing |2 days|TBD| April 2-12, 2024  |
 |Phase 2: Canary production testing |3 hours|10 claims| April 19, 2024  |
 |Phase 2A: 25% of users |7 days|25% of users (auth users only)|April 24, 2024|
-|Phase 2B: 50% of users |7 days|50% of users (auth users only)|April 29, 2024|
-|Phase 23: 75% of users |7 days|75% of users (auth users only)|May 2, 2024|
-|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) | Week of May 6 |
+|Phase 2B: 50% of users |7 days|50% of users (auth users only)|May 1, 2024|
+|Phase 23: 75% of users |7 days|75% of users (auth users only)|TBD|
+|Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |TBD|
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
 Considerations
@@ -76,12 +76,12 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [x] review the plan with your DEPO/OCTO representative.
+  - [x] review the release plan with your team.
 
 ## Step 3: Production rollout
 <!--
@@ -160,8 +160,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Abandonment rate:
   - Submission volume:
+    - Canary: 10 submissions
+    - 25%/50%/75%: >10 submissions
   - Error rate: <1%
-- Links to the dashboard(s) showing "success criteria" metrics: Domo Dashboard request submitted
+  - Pageviews
+- Links to the dashboard(s) showing "success criteria" metrics:
+  - Domo Dashboard request submitted
+  - [DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)
+  - [Pageviews](https://analytics.google.com/analytics/web/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240418&_u.date01=20240507&explorer-table.filter=~2Fburials-and-memorials-v2~2Fapplication~2F530~2Fintroduction&explorer-table.plotKeys=%5B%5D/)
 - Who is monitoring the dashboard(s)?: Product Manager (Laura Steele) and OCTO PO (Emily Theis)
 
 
@@ -172,7 +178,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: 10 submissions (estimated 4 hours)
-- Percentage of Users (and roughly how many users do you expect this to be): 20% of daily submission
+- Percentage of Users (and roughly how many users do you expect this to be): 20% of daily submission, 10-15 users
 
 #### Results
 
@@ -189,16 +195,17 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days (actual: 7)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 40
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: [PICK_ONE]: No
+- Types of errors logged:
+   - Facility name not appearing in overflow #81791 
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
 
 ### Stage C: 50% of users
 
@@ -206,16 +213,18 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 2 days (actual: 7 days)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Was any downstream service affected by the change?: [PICK_ONE]: No
+- Types of errors logged:
+   - Date stamp format did not include time stamp and date stamp should stamp date the claim was submitted rather than the date the pdf was generated #82382
+   - Broken link for form pdf within the react widget on the form intro page #82383
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
 
 ### Stage D: 75% of users
 
