@@ -10,7 +10,7 @@
 |Phase 2: Canary production testing |3 hours|10 claims| April 19, 2024  |
 |Phase 2A: 25% of users |7 days|25% of users (auth users only)|April 24, 2024|
 |Phase 2B: 50% of users |7 days|50% of users (auth users only)|May 1, 2024|
-|Phase 23: 75% of users |7 days|75% of users (auth users only)|TBD|
+|Phase 23: 75% of users |7 days|75% of users (auth users only)|May 8, 2024|
 |Phase 2D: 100% of users| indefinite | 100% users (auth and non-auth) |TBD|
 |Phase 3: Retire V1| permanent | 100% users (auth and non-auth) | TBD |
 
