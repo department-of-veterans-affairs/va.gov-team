@@ -325,7 +325,8 @@ We really appreciate you taking the time to share your thoughts with us. Your fe
 Thank you so much again, and enjoy the rest of your day!
 
  
-
+## **Revisions to plan**
+5/8/24 Updated to allow Android users
 
 ## **Analysis**
 
