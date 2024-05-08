@@ -17,7 +17,7 @@ Period - 05/08/2024 - 05/21/2024
 
 - Map design options for submission experiences that require Veterans to take further action:
    - Map solution for failure paths in the submission experience #81418
-   - Map solution for reducing duplicate submissions #82511
+   - Understand current state of user experience of an in progress form becoming a submitted claim
    
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
