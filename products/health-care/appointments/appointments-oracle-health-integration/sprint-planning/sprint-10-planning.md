@@ -19,7 +19,17 @@ DSU will now be on slack T/Th and on zoom WMF at 11 am EST
 * 🟣 Testing/Admin
  
 ## 📋 Previous Sprint Summary:
-NEEDS TO BE UPDATED 
+In Sprint 9, the team provided support for multiple features and initiatives, outlined as follows::
+* #### Backend support for Oracle Health appointment requests to create backend architecture that will enable veterans to be able to request  appointments within Oracle Health:
+  * Added facility validations to appointment request creations to ensure that requests can only be created at Facilities that have an appropriate classification and operating status.
+  * Updated mapping to not set the ID for VAOS appointments to ensure that VPG properly sets the Id field of a newly created Cerner site Appointment
+* #### Backend support to enable patient eligibility verification at Oracle Health sites for appointment requests and direct scheduling:
+  * We determined patient appointment eligibility at Oracle Health facilities in Clinical Encounter Service
+  * We implemented Oracle Health patient validation for eligibility checks in VetsAPI Patient Gateway
+* #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities
+  * Investigated Oracle Health search occasional test failures
+
+
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
