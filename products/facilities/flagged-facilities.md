@@ -1,12 +1,27 @@
 # Flagged Facilities
-The Lighthouse Facilities API is the source of truth for Facilities data. When the Facilities API reports certain kinds of data changes, Drupal CMS will add a Flag on that node, for followup. 
+Last updated: 5/8/2024
 
-Flagged items then appear in Drupal's [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged) for moderation. 
+The Facilities Team is responsible for ensuring that VA.gov presents the latest correct data available about a Facility. 
+The Drupal CMS Helpdesk is responsible for communicating with Editors about changed Facilities, where relevant. 
 
-## Managing Flagged Facilities
-The [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged) should be maintained with an "inbox zero" goal. 
-* In preparation for every new sprint, tickets are created for any new flags that have appeared since last sprint planning cycle.
-* Each new sprint, tickets related to flagged facilities will be prioritized, at the discretion of the Facilities PO, relative to other sprint priorities.
+The Facilities team and Drupal CMS Helpdesk work together to process information about changed Facilities, aka Flagged Facilities. The Lighthouse Facilities API is the source of truth for Facilities data. When the Facilities API reports certain kinds of data changes, Drupal CMS will add a Flag on that node, for followup. This document describes the process of handling / resolving those Flagged Facilities.
+
+## High level process flow
+* **Upstream databases:** Editors can make changes / change requests to update the status, naming, and other data about their facilities, in the relevant upstream database. That data is then pulled into the Lighthouse Facilities API.
+  * VHA (VAMCs, Vet Centers) = facility data comes from VAST
+  * VBA = facility data comes from Sandy's Database
+* **Drupal** migrates upstream data into the CMS every night via the Lighthouse Facilities API. 
+  * On migration, Flags will be added to Facilities that are removed from source, added, or changed. 
+  * Those flagged facilities will appear here for moderation: https://prod.cms.va.gov/admin/content/facilities/flagged.
+  * The [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged) should be maintained with an "inbox zero" goal. 
+* **Helpdesk**: needs to review that queue and create Github tickets using the appropriate [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/flagged-facilities.md#runbooks) below, based on the type of facility, and type of flag.  
+  * If Helpdesk does not have bandwidth, alert Facilities team and ask for help creating Github tickets.
+  * https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13624 will eventually create a Flag to track which Flagged facilities don't have Github tickets. Until then: Helpdesk can keep track of the process for creating Github tickets however they like, using "Stefanie's spreadsheet" or otherwise.
+* Then: **Helpdesk and Facilities** all follow the Github runbook tickets. 
+  * Within each runbook ticket, the steps required by Helpdesk (specifically), Drupal engineering, or "Drupal Admin" (which could be either engineers or Helpdesk) are articulated, in order. 
+  * Each new sprint, tickets related to flagged facilities will be prioritized, at the discretion of the Facilities PO, relative to other sprint priorities.
+  * Each type of facility/flag has different steps, necessarily, so read the ticket for steps, and @ mention each other (Facilities engineers and Helpdesk) in the comments when the ticket is ready for next steps by the other party. 
+
 
 ## Flagging logic - engineering
 Flags are determined via Drupal CMS config files, e.g.
