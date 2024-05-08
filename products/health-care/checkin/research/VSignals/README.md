@@ -26,8 +26,9 @@
     3. Update the list of Notable Comments to include a few important comments you highlighted this reporting period. 
 8. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
 
-
-## Process followed prior to Feb. 2023
+<details>
+    <summary>OLD PROCESSES</summary>
+    ## Process followed prior to Feb. 2023
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
@@ -83,3 +84,5 @@
 7. Post a link to the GitHub summary on the #check-in-experience channel. Tag Shawn Adams in the post.
 
 *We need to still talk to Research Ops about adding these summaries to the research repo and the process that will involve. They want us to help create a taxonomy for the tags associated with VSignals summaries.*
+
+</details>
