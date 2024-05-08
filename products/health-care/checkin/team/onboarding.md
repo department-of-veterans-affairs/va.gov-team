@@ -139,7 +139,7 @@ As of April 2024, this is the process:
 - Click "Save and Submit" at the **top** of the screen.
 - Wait for approval.
 
-### Final Steps
+### PAS 2.0 Access
 
 **Prerequisites**: All of above, plus the "Welcome to PAS 2.0" email.
 
@@ -162,4 +162,22 @@ To get into AWS, this is the procedure:
 - From there, you can sign in and then select a specific application, e.g. AWS WebGov Cloud.
 - You can select whichever account you want to access, e.g. `vaec-cms` or `vaec-cie`.
 
- 
+### GFE Admin Privileges
+
+**Prerequisites**: GFE, Zero account
+
+As a developer, you probably need administrator privileges on your GFE so that you can use the AWS CLI, etc.
+
+To get admin access to your GFE, this is the procedure:
+- Open `cmd.exe` and run `ipconfig /all`.
+  - Copy down the value for "Host Name" (e.g. `CLE-LT02482093FW`)
+- Navigate to the MyVA Elevated Privileges Site (https://epas.r02.med.va.gov/apps/myva/)
+- Click "Submit Request"
+- Fill out the first tab as you have before
+- In the "Roles" tab:
+  - Under "Administration Role for a workstation/machine" (middle column)
+  - Select "Infrastructure Operations"
+  - Provide the host name of your machine from above.
+  - Click "Add Machine"
+- Scroll down and ensure that the Account for the local machine is your NMEA (i.e. Zero) account.
+- In "Justification/Details", write "I'm a developer and I need administrator privileges to install developer tools."
