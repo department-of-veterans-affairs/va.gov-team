@@ -12,10 +12,12 @@
      - [Check ins completed vs. initiated](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-22977a93743227c4a10bc22e38be5531)
      - [45MR Sent for eCheck-in (VeText)](https://app.ddog-gov.com/sb/e92f059a-aa2c-11ec-9c41-da7ad0900007-3b0997c27aff287795ba5d8659125f46?refresh_mode=sliding&from_ts=1707935759563&to_ts=1708540559563&live=true)
      - [Service Level Objectives (SLOs) (Uptime, Downtime, Latency)](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1708884911568&to_ts=1711476911568&live=true)
+     - [Check In (vets-api)](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-c10c66c6f09b417039c4512bf4d83047)
  
 - Configure (requires log in)
      - [Check-In Time in seconds](https://tevi.ddog-gov.com/dashboard/x67-auh-wqv/check-in-time-metrics-in-seconds?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1713100432798&to_ts=1713273232798&live=true)
      - [Check In (Travel Claims) for Stakeholders](https://vagov.ddog-gov.com/dashboard/eax-4m7-3de/check-in-travel-claims-stakeholder?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1682971494000&to_ts=1714593894000&live=true)
+     - [Check In (vets-api)](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1683563580000&to_ts=1715185980000&live=true)
        
 ## DOMO
 - [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
