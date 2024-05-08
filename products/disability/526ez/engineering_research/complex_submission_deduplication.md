@@ -1,5 +1,7 @@
 # 'Complex' de-duping (or grouping by sameness when it's hard)
 
+[This document is codified in this script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/duplicate_set_builder.rb)
+
 'De-duping' is the catch-all term we are using to describe our high level goal of [removing duplicate 526 submissions from consideration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80624) relative to our 'untouched submission audit'. Within this document, what is actually being discussed is a subset of that problem, wherein we want to group submissions, scoped to a single veteran, by 'sameness'. More specifically, grouping submissions by sameness in the event of multiple, inconsistant differences across those submissions, i.e. 'complex' differences. These duplicate sets (**dupe-sets** for short) will then be put through a rule engine to determine which require remediation and which can be ignored.
 
 ## Axioms
