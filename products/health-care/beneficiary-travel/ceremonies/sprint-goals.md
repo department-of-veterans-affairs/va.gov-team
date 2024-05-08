@@ -1,5 +1,11 @@
 # BTSSS on VA.gov Sprint Goals 
 
+## 5/6/2024 - 5/17/2024
+### Goals
+* Engineering: Integrate claims status endpoint in staging
+* Engineering: Frontend test coverage >= 80%
+* UX: 
+
 ## 4/22/2024 - 5/3/2024
 ### Goals
 * Engineering: Finish the auth ping endpoint and finalize the Front-end (including the feature flag)
