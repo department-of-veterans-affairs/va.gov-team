@@ -64,19 +64,14 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 
 ## Key Findings
 
-**1. Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use, and liked medications and medical supplies are all in one place.**
-  - 7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page. 
+**1. Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use and liked that medications and medical supplies are all in one place.**
+  - 7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page.
     
 **2. Every participant thought glucose testing strips were medical supplies.**
-  - 5 participants who had been prescribed glucose testing strips and knew it's in the prescriptions section of the MHV Classic today thought the same.
+  - 5 participants who had been prescribed glucose testing strips and knew it's in the prescriptions section of the MHV Classic thought the same.
+  - Most participants (10 out of 15) struggled to find glucose testing strips with [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1). 
 
-**3. 
-
-**4. Participants didn't have difficulties navigating, only when they didn't find where to find testing strips 
-list vs. order page
-
-5 picked option 1 - medications are separated from supplies, have not prescribed glutoce testing strips 
-
+**3. Some (7 out of 15) participants found it confusing to have a list page and an order page.**
 
 
 
