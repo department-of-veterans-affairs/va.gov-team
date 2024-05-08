@@ -48,12 +48,12 @@ The OAuth service comprises services provided by VA.gov authentication that are 
 
 [OAuth is documented here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/sign_in_controller.rb) and includes the following components:
 
-- /v0/sign_in/authorize
-- /v0/sign_in/callback
-- /v0/sign_in/refresh
-- /v0/sign_in/revoke
-- /v0/sign_in/token
-- /v0/sign_in/logout
+- `/v0/sign_in/authorize`
+- `/v0/sign_in/callback`
+- `/v0/sign_in/refresh`
+- `/v0/sign_in/revoke`
+- `/v0/sign_in/token`
+- `/v0/sign_in/logout`
 
 ## 4.3. Service outage response
 
@@ -93,7 +93,7 @@ The OCTO Identity team will assist VA.gov application teams during the initial c
 
 | Version | Date | Summary |
 | --- | --- | --- |
-|  |  |  |
+| 1.0 | May 8 2024 | Initial SLA template creation |
 
 # 7. Agreeing parties
 
