@@ -6,7 +6,6 @@ Period - 05/08/2024 - 05/21/2024
 
 - **Toxic Exposure**
     - (15b) Veteran can establish a claim inclusive of dates they spent in the Gulf War and/or 9/11. Calendar dates are populated in Overflow (15e).
-    - Mockups for how to message Veterans with an in-progress form that new TE fields are available.
 
 - **Paper Form Sync**
     - 5103 link and claim certification - Implement feedback from collab cycle for any discovered issues.
@@ -26,6 +25,7 @@ Period - 04/24/2024 - 05/07/2024
 
 - **Toxic Exposure**
   - Veteran can establish a claim and insert a Form526 version 2022 PDF with conditions filled out in column 2 and the checkbox for 15A is checked in their file in VBMS
+  - Mockups for how to message Veterans with an in-progress form that new TE fields are available.
   - Stretch goal: conditions validation
 
 - **Paper Form Sync**
