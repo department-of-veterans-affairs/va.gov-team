@@ -12,6 +12,7 @@ This folder contains our user research documentation.
 |[Submit an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry)|Usability testing|January-February 2024|[#453](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/453)|
 |[Progress bar](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar)|Usability testing|April 2024|[#529](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/529)|
 |[Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/05-2024%20Dashboard)|Usability testing|May-June 2024||
+|Assistive tech|Usability testing|Est. August 2024||
 
 ## Questions?
 
