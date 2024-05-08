@@ -10,7 +10,7 @@
 - [ ] Launch-blocking issues from Staging Review are resolved
 - [ ] Any other issues that are needed to address prior to rollout?
 
-#### Go/No Go meeting 5/13 at 1:30p ET
+#### Go/No Go meeting 5/13 at 1:35p ET
 - [ ] Review the release plan with the core team, VA enablement, and VBA stakeholders
 - [ ] Decide Go or No Go
 
@@ -26,7 +26,7 @@
 
 
 ## Staged Rollout Schedule
-**Go/No Go meeting 5/13 at 1:30p ET**
+**Go/No Go meeting 5/13 at 1:35p ET**
 1. Stage A: 10% of users on 5/13 (Monday)
 2. Stage B: 50% of users on 5/15 (Wednesday)
 3. Stage C: 100% of users on 5/20 (Monday)
