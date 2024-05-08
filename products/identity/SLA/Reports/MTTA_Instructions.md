@@ -8,5 +8,5 @@ This document details the process of generating a monthly report from PagerDuty 
 2. Adjust the date range to reflect the previous month.
 3. Select the “OCTO Identity” team. This should update the Escalation Policy filter to only show the Identity Team escalation policy. 
 4. Take a screen capture of the top 5 graphs of the dashboard. Convert to PDF.
-5. Add the report to the reports folder in Github.
+5. Add the report to the [reports folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/SLA/Reports) in Github.
 6. Review the report for compliance and action items during the next leadership meeting.
