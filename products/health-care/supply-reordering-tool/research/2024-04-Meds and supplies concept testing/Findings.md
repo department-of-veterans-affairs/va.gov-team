@@ -78,6 +78,19 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 
 **Finding 1: Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use and liked that medications and medical supplies are all in one place.**
 
+Moderators showed all 3 prototypes to each participant in different orders. Participants were able to use all 3 options to order mask straps, but most had trouble finding glucose testing strips with option 1 and option 2, which were mentioned in the next finding. Overall, option 3 was picked as the easiest to use to order mask straps and glucose testing strips by most participants (10/15). Those participants expressed that they liked everything being consolidated in one place and didn't have to go through different screens to find things. 
+
+> _Supporting data: "I didn't have to go through different screens to find what I'm looking for._
+
+> _Supporting data: "Easily the first one (option 3). They were in one place. Having everything I need to order in one place. For the other options, I had to figure out where they were. Fewer clicks is always the easiest._
+
+> _Supporting data: "Everything was combined so it was easier to find everything is one place._
+
+Most participants thought medications and supplies were different. They still expressed the same feeling when asked if they still liked medications and supplies being in one place since they are different. 
+
+> _Supporting data: "The ability to go to one place is just easier for me._
+
+**7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page.**
 
 Brief description
 
@@ -86,7 +99,12 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 2**
+**Finding 2: Every participant thought glucose testing strips were medical supplies.**
+
+**5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.**
+
+
+**Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1).**
 
 Brief description
 
@@ -95,7 +113,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 3**
+**Finding 3: Some (7 out of 15) participants found it confusing to have a list page and an order page.**
 
 Brief description
 
