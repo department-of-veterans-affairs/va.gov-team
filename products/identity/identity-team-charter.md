@@ -77,7 +77,6 @@ Product Managers are responsible for keeping these directories up-to-date and we
 
 - Josh Houston
 - Vid Jovanovic
-- Zac Yellowhorse
 
 ## UX Team
 
