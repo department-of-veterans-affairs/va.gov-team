@@ -222,7 +222,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: [PICK_ONE]: No
 - Types of errors logged:
-   - Date stamp format did not include time stamp and date stamp should stamp date the claim was submitted rather than the date the pdf was generated #82382
+   - Date stamp format did not include time zone (UTC) and date stamp should stamp date the claim was submitted rather than the date the pdf was generated #82382
    - Broken link for form pdf within the react widget on the form intro page #82383
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
 
