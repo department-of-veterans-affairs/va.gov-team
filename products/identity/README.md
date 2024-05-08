@@ -102,7 +102,7 @@ Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are
 * Product managers: Mike King ([Mike.King@oddball.io](Mike.King@oddball.io)) and Jim Connelly ([jim.connelly@oddball.io](jim.connelly@oddball.io)).
 * VA point of contact: Tom Black ([thomas.black2@va.gov](thomas.black2@va.gov)) and Samara Strauss ([samara.strauss@va.gov](samara.strauss@va.gov)).
 
-**Resources:** [Support Process Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Support%20Process)
+**Resources:**
 The OCTO Identity team will assist VA.gov application teams during the initial client application integration and provide support as detailed [in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md).
 
 Have you worked with the Identity team before? [Share your feedback](https://dj540s05.optimalworkshop.com/questions/52low0ey) :pray:
