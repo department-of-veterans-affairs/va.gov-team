@@ -5,7 +5,7 @@ Period - 05/08/2024 - 05/21/2024
 ### Sprint goals
 
 - **Toxic Exposure**
-    - (15b) Veteran can establish a claim inclusive of dates they spent in the Gulf War and/or 9/11. Calendar dates are populated in Overflow (15e).
+    - Veteran can specify Gulf War exposures in their 526 claim (15b). Locations and dates are populated in overflow (for 15e).
 
 - **Paper Form Sync**
     - 5103 link and claim certification - Implement feedback from collab cycle for any discovered issues.
