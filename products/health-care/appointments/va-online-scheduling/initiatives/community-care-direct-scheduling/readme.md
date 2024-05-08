@@ -11,6 +11,10 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 **[Business and legislative requirements tracker (SharePoint)](https://dvagov-my.sharepoint.com/:x:/g/personal/robert_meehan3_va_gov/EdTXJw53krNIt1qysxRDLwABl1cbCz0Hi4fYhzyxSoEVmA?e=8R3ypc)**
 
+### CC scheduling current state
+
+- [Review Community Care Appointments service blueprint (Mural)](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=761-6444&t=Jf1WJ4OgStd1sByq-4)
+
 ### CC direct scheduling end state
 
 - [Download the EPS-VAOS Integration Vision Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/files/14924023/VAOS.Discovery.Review.with.VAOS.03122024.Edited.1.1.pptx)<br><br>
