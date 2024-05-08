@@ -105,6 +105,7 @@ body:
     options:
       - label: Post a link to this ticket in the accessibility-help Slack channel and tag Terry Nichols.
       - label: Your team's researchers and observers read through platform guidance on research with assistive technology users
+      - label: Review our [assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) and request a pilot, if desired
       - label: CAIA Specialists are assigned to your research, be sure to add the respective a11y specialist(s) to your session invites (include the Zoom or Teams link). 
       - label: CAIA Specialists review your conversation guide and research plan
       - label: Provide specialists your participant details like skill level, operating system, assistive tech used, browser
