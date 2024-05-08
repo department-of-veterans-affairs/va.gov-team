@@ -156,23 +156,24 @@ The Home Screen accurately displays the Veterans’ personal information and in-
 
 
 * We will recruit **3 participants** (between known contacts) to test data in Production - 
-    * Only iOS users
+    * iOS or Android users
     * Non screen reader users
     * Veteran has an active claim or VA health care
     * If possible, recruit a Veteran with Cerner health care
     * If possible, test in low connectivity
 * Veterans will be recruited from?
     * Ask the Veterans Ad Hoc slack channel
+    * Contact folks from [Veterans willing to help VA teams with pilot sessions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) list on github
+    * Other Veterans we know
 
 
 #### Recruitment Message 
 
 To post in the #Veterans Ad Hoc Slack channel: 
-
-> Hello! I’m a designer & researcher on the VA mobile app team. I’m running research for the new personalized VA mobile app home screen. **I’m looking for 3-5 Veterans who are iOS users to participate in UAT this week, May 8-10.** We can be flexible about day and time and am looking to schedule this ASAP. The guided session will take no more than 30 minutes. 
+> Hello! I’m a designer & researcher on the VA mobile app team. I’m running research for the new personalized VA mobile app home screen. **I’m looking for 3-5 Veterans who have an active claim or actively use VA health care users to participate in UAT this week, May 8-10.** We can be flexible about day and time and am looking to schedule this ASAP. The guided session will take no more than 30 minutes. 
 > You must: 
 > 
-> * Use an iOS device for the session
+> * Use a mobile device for the session
 > * Have Zoom installed on your phone, a working microphone, and be willing to share your phone screen over Zoom.
 > * Be willing to install Testflight + a special build of the VA mobile app for the session (we will help remove it)
 > * Have VA login credentials you can use to log out of & into the app on your own (a username and password, not biometrics)
@@ -181,6 +182,20 @@ To post in the #Veterans Ad Hoc Slack channel:
 >  If you’re interested, please **reply in a thread**
 > 
 >  Thank you so much!
+
+Participation email invite w Zoom:
+> Thank you for helping us out with with testing the VA mobile app!  We're going to be testing a new personalized VA mobile app home screen.
+> 
+> For our session:
+>  * Please use a mobile device to join this Zoom (you'll share your phone screen over Zoom).
+>  * We're going to install Testflight + a special build of the VA mobile app (we will help you remove it at the end)
+>  * Make sure you have VA login credentials you can use to log out of & into the app on your own (a username and password, not biometrics)
+> 
+> Please reach out with any questions or to let me know if this doesn't doesn't work for you.
+> 
+> Thanks!
+> Holly & Brea
+> VA Mobile UR/UX team
 
 
 
