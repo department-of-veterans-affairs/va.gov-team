@@ -86,28 +86,41 @@ Moderators showed all 3 prototypes to each participant in different orders. Part
 
 > _Supporting data: "Everything was combined so it was easier to find everything in one place."_
 
+> _Supporting data: "You don't always know if it's a medication or prescription. You no have to look in 2 different places instead of going to one place."_
+
 When asked about the similarities and differences between medications and medical supplies, all participants thought they were different with little similarities. With that being said, the participants who picked option 3 as the easiest to use still liked medications and supplies being in one place. 
 
 > _Supporting data: "Similarity is they are all doctors' orders."_
-
-> _Supporting data: "Medications have different types, dosages, and usages. Supplies are only one type of use. They are completely different in my opinion."_
 
 > _Supporting data: "Medications are pills. Supplies are something you use."_
 
 > _Supporting data: "I don't find it confusing to see prescriptions (with supplies). The ability to go to one place is just easier for me."_
 
+> _Supporting data: "It doesn't matter that medications and supplies are different. It's just nice to have them on the same page."_
+
 **7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page.**
+
+Most participants wanted to see a separation or a better organization between medications and medical supplies on the refill and reorder page. One participant mentioned that it might be hard to find what they need to refill/reorder if the list gets long. 
+
+> _Supporting data: "I think they should be separated on one page. Sorted in alphabetical order, but all on the same page._
+
+> _Supporting data: "Having tabs on the page would help navigation (referred to finding medications vs. supplies)."_
+
+> _Supporting data: "Want to filter/sort orr alphabetical orders on the order page."_
+
+> _Supporting data: "Likes the first screen, but still separate medications and supplies on the order page."_
+
+
+### Finding 2: Every participant thought glucose testing strips were medical supplies.
+
+
+**5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.**
 
 Brief description
 
 > _Supporting data: Quote here_
 
 > _Supporting data: Quote here_
-
-
-### Finding 2: Every participant thought glucose testing strips were medical supplies.
-
-**5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.**
 
 
 **Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1).**
@@ -125,7 +138,7 @@ Brief description
 
 > _Supporting data: Quote here_
 
-> _Supporting data: Quote here_
+> _Supporting data: "Not sure the differences between list and order links are."_
 
 
 ## Additional Insights
