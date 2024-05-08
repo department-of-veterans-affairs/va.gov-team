@@ -101,8 +101,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 
 * **Evidence Needed field**
   * For MVP, we are going to create a limited rich text field for evidence needed.
-   * Not required for MVP.
-  * Post MVP, the ability to generate a report to collect whatever is in this field so we can analyze it better later for possible transition to a taxonomy in a future iteration.
+   * Not required for MVP - Post MVP, the ability to generate a report to collect whatever is in this field so we can analyze it better later for possible transition to a taxonomy in a future iteration.
   * Hypothesis is that the evidence needed for things could be standardized (like DD 214). Would be helpful to have rich text to ensure consistency across all benefits. In the far future, we might already know that we have the Veteran's digital 214, so this is what you need to give to us because we already have everything else.
  
 
