@@ -34,14 +34,15 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) H1 of page - New**
+**1) H1 of page (authenticated landing page with list of verifications) - New**
 - URL: www.va.gov/education/verify-school-enrollment/mgib-verification
 - Breadcrumb: TBD by Sitewide Content
-- Notes: Ensure that the breadcrumb matches the H1. Breadcrumb will not change as folks go through the form flow, but the sub-URL should. 
+- Notes: Ensure that the breadcrumb matches the H1
 
-### Form Flow URLs
-
-As mentiond above, the sub-URL should update as users move through the flow and will build off the The canonical URL. Here is our guidance on creating sub-URLs:
+**2) H1 of page (form flow to verify enrollment) - New**
+- URL: www.va.gov/education/verify-school-enrollment/mgib-verification/verify - confirming with our OCTO lead if this needs to follow the same pattern as Post-9/11 tool or if it needs
+- Breadcrumb: TBD by Sitewide Content
+- Notes: Breadcrumb will not change as folks go through the form flow, but the sub-URL should. This form flow only has one page so this might not apply at this time, but something to think about if additional screens are ever added. Here is our guidance on creating sub-URLs for future reference:
 
   > Teams can choose their own sub-urls, or get help from CAIA in choosing them or vetting them.
     Note some standard sub-urls:
@@ -54,10 +55,6 @@ As mentiond above, the sub-URL should update as users move through the flow and 
   > Subtask URL slugs should be short, plain language, and drawn from the H1 if possible. 
     Reminder: Don’t create unnecessary or empty subdirectories when creating sub-URLs!
 
-This a shorter flow and doesn't follow the typical form flow that starts with `/introduction`. We are recommending the following URLs:
-
-- `/enrollment-information `: step 1 in the form flow
-- `/confirmation`: successfully submitted form
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
