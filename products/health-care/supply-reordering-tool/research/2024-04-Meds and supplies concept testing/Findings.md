@@ -76,7 +76,7 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 
 ## Details of Findings 
 
-**Finding 1: Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use and liked that medications and medical supplies are all in one place.**
+### Finding 1: Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use and liked that medications and medical supplies are all in one place.
 
 Moderators showed all 3 prototypes to each participant in different orders. Participants were able to use all 3 options to order mask straps, but most had trouble finding glucose testing strips with option 1 and option 2, which were mentioned in the next finding. Overall, option 3 was picked as the easiest to use to order mask straps and glucose testing strips by most participants (10/15). Those participants expressed that they liked everything being consolidated in one place and didn't have to go through different screens to find things. 
 
@@ -105,7 +105,7 @@ Brief description
 > _Supporting data: Quote here_
 
 
-**Finding 2: Every participant thought glucose testing strips were medical supplies.**
+#### Finding 2: Every participant thought glucose testing strips were medical supplies.
 
 **5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.**
 
