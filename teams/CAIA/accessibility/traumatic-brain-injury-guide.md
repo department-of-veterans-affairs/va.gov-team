@@ -1,4 +1,4 @@
-# Traumatic Brain Injury Guide
+# Designing for people with Traumatic Brain Injuries
 - Josh Kim ([originally on Confluence](https://vfs.atlassian.net/wiki/spaces/ACP/pages/2177892586/Traumatic+Brain+Injury+TBI))
 
 ## Introduction
