@@ -166,7 +166,8 @@ ________________________________________________________________________________
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
-- **Sub Goal: Add New Translated Content**
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: Add New Translated Content**
         - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
 - **GOAL: Increase PCI Usability**    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
