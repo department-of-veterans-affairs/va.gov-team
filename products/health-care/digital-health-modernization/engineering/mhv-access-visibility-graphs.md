@@ -47,12 +47,17 @@ WIP
 ```mermaid
 graph TD
 
-Meds.Access[Can I access the Medications tool?]
-Meds.LoggedIn[Are you logged in?]
+Meds.AccessQ[Can I access the Medications tool?]
+Meds.LoggedInQ[Are you logged in?]
+Meds.ReleaseToggleQ[Is the <i>release</i> toggle on?]
+Meds.AboutPage[You will see the <i>About</i> page]
 Meds.AuthReq[You must be logged in <br>to view this page]
+Meds.AcessAllowed[You will be able to see the primary medicaitons page]
 
-Meds.Access --> Meds.LoggedIn
-Meds.LoggedIn -->|No| Meds.AuthReq
+Meds.AccessQ --> Meds.ReleaseToggleQ
+Meds.ReleaseToggleQ -->|No| Meds.AboutPage
+Meds.ReleaseToggleQ -->|Yes| Meds.LoggedInQ 
+Meds.LoggedInQ -->|No| Meds.AuthReq
 ```
 
 
