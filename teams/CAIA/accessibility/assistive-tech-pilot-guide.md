@@ -39,7 +39,7 @@ Your team will:
 - Be open
 
 CAIA will:
-- Let you know if the specialist is a Vet or not, which may impact which questions you ask during the pilot
+- Let you know if the specialist is a Veteran or not, which may impact which questions you ask during the pilot
 - Answer your questions as they come up
 - Stay in ‘character’ most of the time…
 - But break ‘character’ to point out technical issues or make observations
