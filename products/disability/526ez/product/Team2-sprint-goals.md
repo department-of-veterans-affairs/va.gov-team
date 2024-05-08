@@ -1,5 +1,25 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 29
+Period - 05/08/2024 to 05/21/2024
+  - ITF Stop gap solution
+  - Support 526 TE 2 versions
+  - Document Upload Failure Communications
+    - Implementation Approved and Merged (behind flipper)
+    - Close loop on training
+    - Testing
+  - Developer Experience (Local Submission of 526)
+  - 0781 Research Plan
+  - Finalized Untouched Submission Count (Audit)
+  - Contact Center Messaging
+  - Finalize FontAwesome removal
+  - Stretch Goals
+    - v1 to v3 Radio Button Migration
+    - Doc Upload Failure
+      - Release Plan
+      - Monitoring Setup
+    - ITF Dashboard and Monitors Cleanup
+
 ## Sprint 28
 Period - 04/24/2024 - 05/07/2024
 ### Sprint goals 
