@@ -11,11 +11,14 @@ Period - 05/08/2024 - 05/21/2024
 - **Paper Form Sync**
     - 5103 link and claim certification - Implement feedback from collab cycle for any discovered issues.
 
-- **[Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179)**
-   - Design mockups for submission scenarios on the success path (including successful backup paths)
-       - CAIA review of design mockups
-   - Map design options for failure submission scenarios in order to reduce or eliminate Veteran burden
-       - This solutioning includes resubmission and In Progress Forms
+- **Submission Experience**
+- Complete detailed design for submission experiences that are successful without additional Veteran action:
+    - Review UI and messaging from OCTO products for submit design work #79269
+    - Design mockups for these submission experiences #78183
+
+- Map design options for submission experiences that require Veterans to take further action:
+   - Map solution for failure paths in the submission experience #81418
+   - Map solution for reducing duplicate submissions #82511
    
 ## Sprint 30
 Period - 04/24/2024 - 05/07/2024
