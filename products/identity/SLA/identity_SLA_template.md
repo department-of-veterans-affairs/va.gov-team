@@ -38,9 +38,9 @@ The SAML offering comprises services provided by VA.gov authentication that tie 
 
 [SAML is documented here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v1/sessions_controller.rb) and includes the following components:
 
-- /v1/sessions/:type/new
-- /v1/sessions/callback
-- /v1/sessions/ssoe_slo_callback
+- `/v1/sessions/:csp_type/new`
+- `/v1/sessions/callback`
+- `/v1/sessions/ssoe_slo_callback`
 
 ## 4.2. OAuth
 
