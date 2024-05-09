@@ -37,25 +37,24 @@ In addition to Veteran-facing changes mentioned above, the following capabilitie
 1. Migration of the submit endpoint from EVSS to Lighthouse
 2. User Interface notifications for Veterans who have an IPF
 3. A new checkbox and loop pattern for the front end form logic
-5. Transformed the vets-website JSON data structure to be compatible with Lighthouse
+5. Transformation of the vets-website JSON data structure to be compatible with Lighthouse
 6. Implementation of a Flipper feature flag that controls access to the TE feature
-7. 
-8. handle multiple exposures data (? is this referring to how we overflow?)
-9. /generate PDF migration for the backup submission path (EVSS? does this also refer to the manual backup path we have when everytihng fails?)
-10. end to end testing of section 4 questions and display on PDF 
-12. implement updated logic for the new LH sync submit endpoint
+7. Handling of multiple exposures data to populate on the PDF in 15e
+8. Migration of the /generatePDF endpoint to Lighthouse for the backup submission path 
+9. End to end testing of section 4 questions and display on PDF 
+10. Implementation of updated logic for the new Lighthouse /submit endpoint
 
 ## Risks & Challenges
-1. Lighthouse synchronous /submit endpoint is still in development. While the Lighthouse team is targeting early June '24 for Staging release, the exact production release date is unknown. This release plan assumes that the Lighthouse /submit endpoint is available in production by end of June. If for any reason this endpoint isn't available in production by end of June, and a business decision is made to release TE by end of June, DBEX teams would need to re-pipe the solution to use the EVSS submit endpoint. The TREX team estimates that this will take at least 4 weeks to accomplish, meaning this work needs to begin by at least the first week of June, if the end of June target is still desirable. Once the Lighthouse submit endpoint is available, DBEX teams would need to re-pipe TE to use Lighthouse's submit endpoint once it's available in production.
+1. Lighthouse synchronous /submit endpoint is still in development. While the Lighthouse team is targeting early June '24 for Staging release, the exact production release date is unknown. This release plan assumes that the Lighthouse /submit endpoint is available in production by end of June. If for any reason this endpoint isn't available in production by end of June, and a business decision is made to release Toxic Exposure by end of June, DBEX teams would need to re-pipe the solution to use the EVSS submit endpoint with the minimal /generatePDF Lighthouse endpoint. The TREX team estimates that this will take at least 4 weeks to accomplish, meaning this work needs to begin by at least the first week of June, if the end of June target is still desirable. Once the Lighthouse submit endpoint is available, DBEX teams would need to again re-pipe TE to use Lighthouse's submit endpoint once it's available in production.
 
 ## Use Cases
 Respective to the release plan, there are two use cases that we are considering. For each of these, we plan to follow an incremental release strategy using established traffic percentages to incrementally route Veterans to the 2022 526 form. We plan to use Flipper to control availabity for each use case.
 
 ### 1. New Applications
-- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new TE section. These Veterans will not have an IPF, but may have an Intent To File (ITF). Exact traffic targets have yet to be determined.
+- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans will not have an IPF, but may have an Intent To File (ITF). Exact traffic targets have yet to be determined.
 
 ### 2. Veterans With an In Progress Form
-- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, including the new TE section. Unlike New Applications, these Veterans do have an IPF and an ITF. Exact traffic targets have yet to be determined.
+- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. Unlike New Applications, these Veterans do have an IPF and an ITF. Exact traffic targets have yet to be determined.
 
 
 ## Timelines and Activities
