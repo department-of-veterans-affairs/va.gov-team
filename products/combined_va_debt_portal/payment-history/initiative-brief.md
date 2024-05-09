@@ -1,40 +1,47 @@
 # Initiative Brief Template
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
+Providing Veterans with timely and accurate information on their payment history is a crucial need that is underscored by the feedback Veterans have left on the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/medallia_reports">Debt Portal Medallia feedback</a>.
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
+Related tickets: 
+<a href="https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/18859">#18859</a>
+
  
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+- Improved clarity (measure through usability testing)
+- Provides confirmation and reassurance that their copay bill and overpayment has been resolved once they have made a payment 
+- Reduced confusion and anger that Veterans feel (as seen in Medallia feedback)
+- Reduced possibility of inaccurate information or outdated information (as seen in Medallia feedback)
+
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Combined Debt Portal  | <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md">Link to product outline</a>
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+- What is the problem and who is affected? And, what evidence do we have of the problem?
+- Why do you think the problem is occurring? Other reasons why this might be occurring?
+- How does this initiative help further OCTO-DE's mission and goals?
+
+**What**
+
+- As of May 2024, Veterans do not receive timely confirmation of payments made on the debt portal, resulting in confusion, frustration, and possibly mistrust. - Veterans may not see their payment confirmation reflected in the debt portal for months. 
+- They receive an immediate confirmation when the payment is made * 
+- They can’t revisit the debt portal to review this payment history
+- They have to wait for the next statement a month later to see their payment
+- Inconsistent messaging about payments made can be a distressing experience for Veterans seeking to resolve and address their debt.
+  
+**Why**
+
+- The payment history data messaging discrepancy is due to the payment history being batched on a monthly basis, resulting in untimely information on the debt portal. 
+- Veterans rely on consistent messaging across the different channels of official communication with VA (email, debt portal, call center) to have confidence that their payments went through. Inconsistencies can reinforce mistrust of VA. 
+
+**How**
+
+Payment history improvements support the following: 
+- All new products have a faster transaction time than those they replaced.
+- Veterans share more positive feedback on Medallia
 
 <!--
 ## Desired User Outcomes
@@ -66,23 +73,39 @@
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+**Value Risks (will people use it):**
+
+**Payment History**
+- The feature will be integrated with the debt portal and it will solve an existing major issue with the debt portal that is resulting in high frustration and anger. 
+- If we use both CDW and Lighthouse data, alignment with these 2 data sources
+ 
+**PDF**
+- We recommend delivering a printable PDF as in the current experience. 
+- The risk of providing a printable PDF that is generated by VA.gov teams is the need to provide a mechanism for verifying the accuracy of such PDFs that match with the letters that Veterans receive.
+- There will need to be an updated backend API that links with Lighthouse instead of CDW.
+- Best case scenario: PDFs provide the Veteran with a printable document of their payment history.
+
+**Usability Risks (can people figure out how to use it):**
+- We will confirm the usability of new payment history designs in an evaluative usability study
+
+**[Technical] Feasibility Risks (can we build it with available tech/data):**
+Examples:
+Upstream/Downstream API/Data availability and reliability
+Site performance impacts (see Google Lighthouse, WebPageTest, #-daily-lighthouse-scan)
+
+(For Kevin Suarez to fill out)
+
+Organizational Viability Risks/Constraints (will there be a positive organizational impact):
+Examples:
+VA stakeholder testing, marketing, compliance requirements
+We are confident that an improvement in the timeliness of payment history messaging will result in a positive user experience for Veterans on the debt portal. 
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
+>
+> **TBD: Discuss unknowns**
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
