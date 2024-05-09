@@ -130,21 +130,21 @@
   - Search for the form number you want to look up statistics for in Google Analytics
   - Go to “About” form you are searching for 
   - Select “Go to the online tool” 
-           - Select Continue 
-           - Select “Start the education application”
-           - Note the URL of the first page of the form (Ex: staging.va.gov/education/apply-for-education-benefits/application/5490/applicant/information)
-           - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
-           - On the left menu, select “Behavior”
-           - Select Pages
-           - In the Primary Dimension section, select “Page”
-           - To the right of the search bar, select “Advanced”
-           - Include Event Label Containing number of form you want to get analytics for, ex: 5490. (Note that when searching for a form, it’s important to include the form number found in the URL. (Ex: for 22-5490, the URL of the form only shows 5490, so this is what you would enter)
-           - Select Apply
-           - In the table, look for the URL noted above (Ex:  staging.va.gov/education/apply-for-education-benefits/application/5490/applicant/information), but without “staging” in the URL.  Note the corresponding number in the “Total Events” column
-           - If you are looking for statistics within a date range, on the top right of the page, select the date
-           - Input a custom date range
-           - Select Apply
-           - The table will refresh
+  - Select Continue 
+  - Select “Start the education application”
+  - Note the URL of the first page of the form (Ex: staging.va.gov/education/apply-for-education-benefits/application/5490/applicant/information)
+  - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
+  - On the left menu, select “Behavior”
+  - Select Pages
+  - In the Primary Dimension section, select “Page”
+  - To the right of the search bar, select “Advanced”
+  - Include Event Label Containing number of form you want to get analytics for, ex: 5490. (Note that when searching for a form, it’s important to include the form number found in the URL. (Ex: for 22-5490, the URL of the form only shows 5490, so this is what you would enter)
+  - Select Apply
+  - In the table, look for the URL noted above (Ex:  staging.va.gov/education/apply-for-education-benefits/application/5490/applicant/information), but without “staging” in the URL.  Note the corresponding number in the “Total Events” column
+  - If you are looking for statistics within a date range, on the top right of the page, select the date
+  - Input a custom date range
+  - Select Apply
+  - The table will refresh
 
 
 ## Additional Points
