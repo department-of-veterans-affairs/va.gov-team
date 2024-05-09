@@ -1,63 +1,87 @@
 
 <!-- markdownlint-disable MD024 -->
-# Release Plan: 526 Toxic Exposure
+# Release Plan: 526 Toxic Exposure [DRAFT]
 
-## Release Plan Overview [DRAFT]
+# Purpose
+The purpose of this document is to describe and align development teams and stakeholders on what will be delivered and when. It describes the features, enhancements, and fixes that will be included in each Toxic Exposure (TE) release along with identified timelines. It is a living document and serves as a communication tool for keeping stakeholders informed about the progress of TE.
 
-| Phase | Duration | Users | Dates |
-|---|---|---|---|
-|Phase 1: TBD |TBD|TBD| TBD
-|Phase 2: TBD |TBD|TBD| TBD
-|Phase 3: TBD |TBD|TBD| TBD
-|Phase 4: TBD |TBD|TBD| TBD
-|Phase 5: TBD |TBD|TBD| TBD
+# Background
+In 2022, The Sergeant First Class Heath Robinson Promise to Address Comprehensive Toxics (PACT) Act was signed into law. The PACT Act is a new law that expands VA health care and benefits for Veterans exposed to burn pits and other toxic substances. This law helps the VA provide generations of Veterans—and their survivors— with the care and benefits they’ve earned and deserve.
 
-Considerations
-- Lighthouse synchronous /submit enpoint is still in development. LH team is targeting early June for Staging release.
+The PACT Act 
+* Expands and extends eligibility for VA health care for Veterans with toxic exposures and Veterans of the Vietnam, Gulf War, and post-9/11 eras
+* Adds 20+ more presumptive conditions for burn pits, Agent Orange, and other toxic exposures
+* Adds more presumptive-exposure locations for Agent Orange and radiation
+* Requires VA to provide a toxic exposure screening to every Veteran enrolled in VA health care
+* Helps us improve research, staff education, and treatment related to toxic exposures
 
-## Overview
-We are adding a toxic exposure section to the 526 ez disability benefits claim form, allowing Veterans to specify some aspects of their service history that might qualify them for additional disability benefits related to toxic exposure. This brings the digital form into parity with the paper 526 ez form on these exposure questions.
+Today, while Veterans can file disability compensation for conditions believed to be caused by toxic exposure on the paper version of the 21-526ez, they’re not able to file a TE claim at va.gov. This creates an unnecessary burden for the Veteran, who may have mental, physical, or other environmental challenges or disabilities that prevent or otherwise make it difficult for them to file a claim using the paper version of the 526 form.
+
+# Release Overview
+We are adding a toxic exposure section to the 21-526ez Veterans Disability Compensation and Related Compensation Benefits form on VA.gov., allowing Veterans to specify aspects of their service history that might qualify them for disability benefits related to toxic exposure. This brings the digital form at VA.gov into parity with the paper 526ez form on these exposure questions. 
+
+Veterans will be able to complete the paper form equivalent of Section IV; questions 15a-15e 
+- 15a: "Are you claiming any conditions related to toxic exposures?
+- 15b: "Did you serve in any of the following gulf war hazard locations?"
+- 15c: "Did you serve in any of the following Herbicide locations?"
+- 15d: "Have you been exposed to any of the following?" and;
+- 15e: "If you were exposed multuiple times, please provide all additional dates and locations of potential exposure."
+
+We aim to make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov. We expect this change to increase the number of TE claims filed, increase Veteran self-service, reduce the Veteran Service Operator (VSO) burden, and reduce the number of errors or issues that result from filing the TE paper claim.
 
 [Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707410059042/66a7863edcd579a5bc8b4bd720f685a5d0724a49?wid=0-1707412077064)
 
-### The release plan will need to consider the following use cases:
-1. New applications
-- Authenticated Users will be directed to fill out the 2022 version of the 526 form. Veterans may be directed to fill out the 2022 526ez depending on the level of incremental traffic set for the form (10%/25%/50%/75%/100%).
+## New Capabilities and Changes
+In addition to Veteran-facing changes mentioned above, the following capabilities and changes are included have impacts on the release.
+
+1. Migration of the submit endpoint from EVSS to Lighthouse
+2. User Interface notifications for Veterans who have an IPF
+3. A new checkbox and loop pattern for the front end form logic
+5. Transformed the vets-website JSON data structure to be compatible with Lighthouse
+6. Implementation of a Flipper feature flag that controls access to the TE feature
+7. 
+8. handle multiple exposures data (? is this referring to how we overflow?)
+9. /generate PDF migration for the backup submission path (EVSS? does this also refer to the manual backup path we have when everytihng fails?)
+10. end to end testing of section 4 questions and display on PDF 
+12. implement updated logic for the new LH sync submit endpoint
+
+## Risks & Challenges
+1. Lighthouse synchronous /submit endpoint is still in development. While the Lighthouse team is targeting early June '24 for Staging release, the exact production release date is unknown. This release plan assumes that the Lighthouse /submit endpoint is available in production by end of June. If for any reason this endpoint isn't available in production by end of June, and a business decision is made to release TE by end of June, DBEX teams would need to re-pipe the solution to use the EVSS submit endpoint. The TREX team estimates that this will take at least 4 weeks to accomplish, meaning this work needs to begin by at least the first week of June, if the end of June target is still desirable. Once the Lighthouse submit endpoint is available, DBEX teams would need to re-pipe TE to use Lighthouse's submit endpoint once it's available in production.
+
+## Use Cases
+Respective to the release plan, there are two use cases that we are considering. For each of these, we plan to follow an incremental release strategy using established traffic percentages to incrementally route Veterans to the 2022 526 form. We plan to use Flipper to control availabity for each use case.
+
+### 1. New Applications
+- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new TE section. These Veterans will not have an IPF, but may have an Intent To File (ITF). Exact traffic targets have yet to be determined.
+
+### 2. Veterans With an In Progress Form
+- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, including the new TE section. Unlike New Applications, these Veterans do have an IPF and an ITF. Exact traffic targets have yet to be determined.
 
 
-2. In Progress Forms
-- Authenticated Users will be directed to fill out the 2022 version of the 526 form. Veterans may be directed to fill out the 2022 526ez depending on the level of incremental traffic set for the form (10%/25%/50%/75%/100%).
+## Timelines and Activities
 
-TBD
+| Phase | Description | Duration | Users | Dates |
+|---|---|---|---|---|
+|1 |New TE Applications|TBD| TBD | TBD
+|2 |Veterans with an In Progress Form (IPF)|TBD| TBD | TBD
+|3 | TBD |TBD|TBD| TBD
+|4 | TBD |TBD|TBD| TBD
+|5 | TBD |TBD|TBD| TBD
+
+
+
 | User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
 |---|---|---|---|---|---|
-| Authenticated Users | Disabled | No | v1 Form | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 Form | No | No |
+| New TE Applications | Disabled | No | v1 Form | No | No |
+| Veterans with an IPF | Disabled | Yes, v1 | v1 Form | No | No |
 | Authenticated Users | Disabled | Yes, v2 | v2 Form | Yes | No |
 | Authenticated Users | Enabled | No | v2 Form | No | Yes |
 | Authenticated Users | Enabled | Yes, v1 | v2 Form | Yes | Yes |
 | Authenticated Users | Enabled | Yes, v2 | v2 Form | Yes | No |
 
-### This release will include the following capabilities:
-1. Implement Section IV of the 2022 paper form 526 including
-2. 15a claiming conditions related to 
-3. 15b gulf war
-4. 15c herbicide
-5. 15d hazards pages
-6. 15e overflow (an attached page)
 
-### This release will include the following changes:
-1. migrate the submit endpoint
-2. update JSON schema on FE and BE
-3. Update pages on 526 to include TE questions
-4. Implement new checkbox and loop pattern
-5. transform the data to be accepted in the Lighthouse format
-6. handle multiple exposures data
-7. /generate PDF migration for the backup submission path
-8. end to end testing of section 4 questions and display on PDF
-9. Implement toxic exposure feature flag
-10. UI changes for IPF notifications
-11. implement updated logic for the new LH sync submit endpoint
+
+
 
 
 ---
@@ -321,6 +345,12 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 1. Which assumptions you listed in your product outline were/were not validated?
 1. How might your product evolve now or in the future based on these results?
 1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
+
+## Phase One questions
+Will we include or exclude Veterans who have an Intent To File (ITF)? What are the risks (if any) to this?
+
+Phase Two Questions
+- will we ship TE to Veterans who have an active session?
 
 ## Open Quesdtions for Post MVP
 2. Open Questions: If users are in an active session, they will complete the v1 version of the form.
