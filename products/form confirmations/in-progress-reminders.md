@@ -77,10 +77,8 @@
   - Currently there is not a way to close out these applications. 
   - We are unsure if the ability to remove the application may be the responsibility of a different team.
 - Multiple applications for various benefits might be in progress for the Veteran.
-  - We are focusing on one form to start with as MVP
-  - The 686-c form reminders will be the first form.
   - When we tackle multiple forms we will need to deliver a "summary" of all pending applications. It is something we want to do eventually but will tackle later.
-           - Authenticate Experience team is also looking to re-design the "My VA" page that includes the location for the "Applications in Progress" which is where we would like to send a user who has multiple forms in progress. 
+           - Authenticated Experience team is also looking to re-design the "My VA" page that includes the location for the "Applications in Progress" which is where we would like to send a user who has multiple forms in progress. 
            - We would like to have an anchor link to the "Application in Progress" title to allow for auto scrolling. Since the page is up for design work we will hold off on linking to it until that work is completed. 
 - Cadence will be 7 days after the application was started then another 7 days if the application is resumed but not completed again.
   - We launched with a cadence of 7 days, 21, 35, and 49. 
