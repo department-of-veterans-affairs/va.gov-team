@@ -33,60 +33,24 @@ Date  ___________________________________
 
 #### Information for Incentive
 
-|
 
 First Name
 
- |\
- |
-|
-
 Last Name
-
- |\
- |
-|
 
 Email
 
- |\
- |
-|
-
 Phone Number
-
- |\
- |
-|
 
 Address Line 1
 
- |\
- |
-|
-
 Address Line 2
-
- |\
- |
-|
 
 City
 
- |\
- |
-|
-
 State
 
- |\
- |
-|
-
 Zip Code
-
- |\
- |
 
 #### Demographic Questions
 
@@ -102,7 +66,7 @@ Zip Code
 
 -   Coast Guard
 
-1.  What is your age range?
+2.  What is your age range?
 
 -   Under 25 years of age 
 
@@ -112,7 +76,7 @@ Zip Code
 
 -   66+ years of age
 
-1.  What is your racial or ethnic identity? (Please select all that apply)
+3.  What is your racial or ethnic identity? (Please select all that apply)
 
 -   Black
 
@@ -132,7 +96,7 @@ Zip Code
 
 -   Prefer not to answer
 
-1.  What is your gender identity?
+4.  What is your gender identity?
 
 -   Man
 
@@ -148,7 +112,7 @@ Zip Code
 
 -   Prefer not to answer
 
-1.  What is your sexual orientation?
+5.  What is your sexual orientation?
 
 -   Heterosexual
 
@@ -162,7 +126,7 @@ Zip Code
 
 -   Prefer not to answer
 
-1.  What is the highest level of education you have completed? (Please select one)
+6.  What is the highest level of education you have completed? (Please select one)
 
 -   No high school diploma
 
@@ -176,13 +140,13 @@ Zip Code
 
 -   Graduate or professional degree
 
-1.  What state do you currently reside in?
+7.  What state do you currently reside in?
 
 -   _______________
 
 -   I do not reside in the United States
 
-1.  Which best describes the type of setting you currently reside in?
+8.  Which best describes the type of setting you currently reside in?
 
 -   Rural: Areas characterized by low population density, large open spaces, and often focused on agriculture or natural landscapes.
 
@@ -190,7 +154,7 @@ Zip Code
 
 -   Suburban: Areas that exhibit characteristics of both rural and urban settings, typically featuring moderate population density, a mix of residential and commercial areas, and often a balance between natural and built environments.
 
-1.  Are you or have you experienced being unhoused?
+9.  Are you or have you experienced being unhoused?
 
 -   Yes
 
@@ -198,7 +162,7 @@ Zip Code
 
 -   Prefer not to answer
 
-1.  Cognitive Considerations; Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
+10.  Cognitive Considerations; Have you been diagnosed by a medical professional in the past with a diagnosis like TBI, PTSD, etc.?
 
 -   Yes 
 
@@ -206,7 +170,7 @@ Zip Code
 
 -   Prefer not to answer
 
-1.  Do you currently work for the VA?
+11.  Do you currently work for the VA?
 
 -   Yes 
 
