@@ -26,10 +26,11 @@ On Friday, May 3, the Identity Team held a Product Refinement for External Auth 
    - mobile vs. desktop
 6. Which pages see the most auths
    - Initiated login from.
-   - [DOMO link](https://va-gov.domo.com/page/1545882322)
 7. Feedback from users
-   - [DOMO Link](https:​​/​/va​-gov​.domo​.com​/page​/1964748112)
-   - [DOMO Link](https:​​/​/va​-gov​.domo​.com​/page​/1587068891)
+8. DOMO Links
+   - [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322)
+   - [VA.gov Search KPIs](https://va-gov.domo.com/page/1964748112)
+   - [Monthly - OMB Dashboard](https://va-gov.domo.com/page/1587068891)
 
 ### Sample User Survey
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/8985801e-8a4f-4488-bdb0-93407d46efa2)
