@@ -14,10 +14,10 @@ Bring a list of all *your medications*, including these types:
 
 Include the doses (amounts) you take of *each medication* and how often you take them.
 
-Tell your provider about these things:  
-- Changes in the medications you're taking *or how often you're taking them*
-- Changes in how your medications affect you
-- Allergies or reactions you have to medications (also called adverse drug reactions)
+Tell your provider about these things:
+- Changes in the medications you're taking or how often you're taking them
+- Changes in how your medications affect you, _including any new side effects_
+- _Any allergies or reactions you've had to your current or past medications_
 - Other health care you're receiving from other VA facilities or from providers outside VA
 
 ## Project Resources
