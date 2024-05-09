@@ -5,12 +5,6 @@
 
 
 
-### Content Tickets
-Open a content ticket if this is part of the Collab Cycle or not
-
-- [Sitewide Content, Accessibility, and IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2Ccoforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)
-- NEW - Created end of April, Content 
-
 
 ## Figma file setup:
 1. Create the “Content Source of Truth” Section in Figma for the native form content symbols
@@ -19,11 +13,18 @@ Open a content ticket if this is part of the Collab Cycle or not
 5. Create a Section in Figma for each part of the form involved in the work
 6. For **each** screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
 
+<img width="681" alt="Content-FigmaSetup" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/09d6c92e-e9f0-4087-bc8a-65bd75673e00">
 
-### Content Status Component
-10-10 EZ & EZR FormContent > MISC > Content Status
 
-<img width="397" alt="Screenshot 2024-04-24 at 2 59 59 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/ad0a1b49-b530-4d89-9442-59bddcdcc5da">
+
+## Content Status Component
+Native component source: 
+Figma File: 10-10 EZ & EZR FormContent  
+Page: MISC > 
+Component> Content Status
+
+
+<img width="397" alt="Content Status Figma Component Variations" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/ad0a1b49-b530-4d89-9442-59bddcdcc5da">
 
 ￼
 
@@ -40,7 +41,7 @@ Use the Notes component in VADS Web Annotation Kit
 
 
 
-## Process experiment: 
+## Process experiment (v2, revised 5.9.24): 
 
 1. Designer setup Figma page with all components and notes to start content collab 
 2. Designer/PM open CAIA ticket 
@@ -51,3 +52,14 @@ Use the Notes component in VADS Web Annotation Kit
 7. When in Pending used details section to add reasoning why
 8. Change to ready to development as pages are approved
 9. Tag engineer in FE ticket once designs/content are approved
+
+
+----
+
+### Content Tickets
+Open a content ticket if this is part of the Collab Cycle or not
+
+- [Sitewide Content, Accessibility, and IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2Ccoforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)
+- NEW - Created end of April, Content
+
+
