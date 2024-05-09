@@ -3,7 +3,7 @@ description: Please use this form to request qualitative (textual) data for tier
 title: "Qualitative Data Request"
 labels: [ "VSP-contact-center", "cc-data-request" ]
 assignees:
-  - Kimberley2023-CSM, ATMiddleton, newworld2616, aubreyarcangel
+    - Kimberley2023-CSM, ATMiddleton, newworld2616, aubreyarcangel
 body:
   - type: markdown
   attributes:
