@@ -90,12 +90,12 @@
 - Do you have a mock-up or screenshot of what the email would look like with multiple applications in progress?
 
 ## Assessing the Need for In Progress Notifications for Forms
-- Use the delta for the number of forms submitted and number of forms in progress to find out how many users are starting, but not finishing forms.
-  - Collect the total events for the number of forms submitted per month for at least 3 consecutive months
+### Use the delta for the number of forms submitted and number of forms in progress to find out how many users are starting, but not finishing forms.
+ - Collect the total events for the number of forms submitted per month for at least 3 consecutive months
   - Collect the total events for the number of forms in progress per month for the same time spans as forms submitted
   - For each month, subtract forms submitted from forms started
   - The resulting numbers should give you an indication of how many people are starting the corresponding form, but not finishing it
-- DOMO - If a form is in DOMO, this is the best way to assess the need for an In-Progress Notification
+### DOMO - If a form is in DOMO, this is the best way to assess the need for an In-Progress Notification
   - Navigate to https://va-gov.domo.com/ and login
   - On the left menu, select VA.gov Forms KPIs
   - Below the top nav bar, select form_name in Click to filter
@@ -105,7 +105,7 @@
   - Note the number of forms not submitted, the number of forms successful, and the number of forms failed
   - If successful form submissions are significantly less than forms not submitted, you might want to consider proposing an In Progress notification to form owners to remind Veterans to complete their forms and direct them back to where they can do so.
   - If you want more insight into which steps of the form users are not completing, you can scroll further down the page and view the “Completion rate by step” section.
-- Google Analytics - If a form you are looking for is not in DOMO, the next best way to assess the need for In Progress Notifications for forms is using Google Analytics.
+### Google Analytics - If a form you are looking for is not in DOMO, the next best way to assess the need for In Progress Notifications for forms is using Google Analytics.
   - Finding the number of forms submitted
           - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
           - On the left menu, select “Behavior”
