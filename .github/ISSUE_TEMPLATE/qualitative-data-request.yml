@@ -80,7 +80,7 @@ body:
     id: Sub-URLs
     attributes:  
       label: Sub URLs
-      description: Include Sub URLs?
+      description: Include Sub URLs
       options:
         - "Yes"
         - "No"
