@@ -24,6 +24,8 @@
 
 - [Decision 11: Do we need to conduct load testing?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-11-do-we-need-to-conduct-load-testing)
 
+- [Decision 12: Become a VFS Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-12-become-a-vfs-team)
+
 ## Background
 
 Principle 6 of VA’s Digital Modernization Strategy states: “Every service will be equally available in desktop and mobile environments.” The vision for this principle included developing a “flagship” VA mobile app. This raised the following questions:
@@ -519,9 +521,41 @@ The other option was to conduct load testing./
 ### When, or under what conditions, would you recommend revisiting this design decision?
 As our user base grows, we will certainly revisit the decision to not do load testing. Specifically, if usage grows by an order of magnitude more than expected, we will begin preparations to do load testing.
 
+
+## Decision 12: Become a VFS Team
+
+### Background
+In September 2020, it was decided that Flagship Mobile App (VA: Health and Benefits) would not be considered a VFS. Although Flagship’s backend was built as a module in vets-api, the collaboration cycle was still in its infancy; it was not at all clear how the mobile team would participate. It was also not at all clear whether the mobile app would be a short term experiment or a longer-lived success.
+
+Fast forward to today (2022): Flagship Mobile App is used by almost 150k Veterans per week. The number of Veterans using the app is increasing daily, and OCTO leadership has made a commitment to building on this success. It is time to reconsider Flagship Mobile App’s status as a VFS.
+
+### Describe any design, technology, and/or policy constraints that impact the problem and/or its possible solutions.
+- Due to platform policies, non-VFS teams do not get the same level of support as VFS teams.
+- Because of the Flagship Mobile App's growing userbase, it's important that the app and its backend receive the same level of support as other VFS teams.
+
+### What did you decide on?
+
+- Moving forward, consider the Flagship Mobile App a VFS. Platform will provide regular support for the Flagship Mobile App backend, and tailored support for the Flagship Mobile App frontend.
+- Onboard the Flagship Mobile App team as a VFS. This may require some tailoring, since the mobile app is not a new project or a new team. There are team members who have participated in collaboration cycle previously.
+- Tailor the VFS process for a mobile app: because the backend is built in vets-api, the backend will be treated as a VFS and participate in collaboration cycle. Because there are no processes in place for collaboration cycle to support mobile apps, the mobile app frontend will be exempt.
+
+### Document the people who agreed to the design decision (and their roles on the project).
+
+- Leanna Miller (VA Mobile Product Owner)
+- Travis Newby (VA Mobile Engineer)
+- Mike Chelen (VA Platform Crew Lead)
+
+
+### When, or under what conditions, would you recommend revisiting this design decision? E.g., after usability testing, after launch when metrics or analytics equal X, etc.
+
+- If collaboration cycle is modified to support mobile apps, revisit the decision on the Flagship Mobile App frontend participating.
+- If vets-api architecture is reconfigured or Flagship moves away from being a module in vets-api, reconsider Flagship as a standalone project.
+- Revisit in 6 months to make sure all of this makes sense and is working for Platform and Flagship.
+
+
 # Open Questions, with decisions pending:
 
-## Decision 12: Should we co-brand parts of the app?
+## Decision 13: Should we co-brand parts of the app?
 We are trying to address user expectations around what features in the app look like, and looking at how we can leverage app branding to shape expectations in partnering with MyHealtheV#et (MHV). Due to a lack of data, we are not clear on what users might feel regarding co-barding the VA Mobile App's health features with MHV. We are leveraging unmoderated card sort activities to learn more about user behaviors and expectations in this area.
 
 ### What did you decide on?
