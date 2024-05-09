@@ -99,33 +99,6 @@
 
 -https://github.com/department-of-veterans-affairs/va.gov-team/issues/23609
 
-## Solution Approach
-
-- As of 2/2022, we're going to focus on:
-  - Creating a reminder system that sends at specific intervals
-  - Reminders will be delivered via email
-  - Providing content for the email reminders
--As of 3/2022, we're going to focus on:
-  -Getting Privacy Officer sign off on email content
-  -Handling the 686-c form as the first use case
-  -Sending reminders after 7 days then every 2 weeks
--As of 9/2022, we have adjusted the cadence to only send after 7 days of inactivity.
-  
---- 
-
-## Go-to-market Strategy
-- [Coming soon: Link to Release Plan]
-
-## Launch Dates
-- *Initial Launch Date*
-  - May 2nd, 2022
-- *Itteration Launch Date* 
-  - Sept 13, 2022
-- *What date will you evaluate impact after launch?*
-  - Sept 22, 2022
----
-
-
 ## Screenshots
 [Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va.gov-strike-team/10-10%20EZ%20Reminders%20Workflow.JPG)
 
@@ -163,26 +136,3 @@
            - We also plan to evaulate the affect on submission rates  
           
 
-#### Communications
-
-<details>
-
-- Team Name: VA.gov Strike Team
-- GitHub Label: #Strike 
-- Slack channel: #va-notify-forms-strike-team
-- Product POCs: Megan Siddle
-- Stakeholders: Beverly Nelson
-
-</details>
-
-#### Team Members
-
-<details>
- 
- - PM: Megan Siddle
- - DM: Zachary Law
- - Engineering: Nathan Wright, Olaf Minkowicz, Andrew Mauricio
- - Research/Design: Ian Hilton, Elissa Folk
- - QA: Jake Uhteg
- 
-</details>
