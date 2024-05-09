@@ -99,7 +99,7 @@ Remote sessions via Zoom
 
 #### Research materials
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
-* Pre-release build of the VA mobile app [INTERIM LINK](https://testflight.apple.com/join/65PnVx09), NOT FOR STUDY, distributed via Testflight link
+* Pre-release build of the VA mobile app
 * [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1xdPYQwgvFWCoo0gOtNta8MsB_PyZ1Mxzp9GiQ4OZKbQ/edit#gid=0)
 	
 ## Recruitment	
@@ -178,11 +178,10 @@ Response options, checkbox list with text box:
 ### Prepare
 * **We would like to request a 25 minute kick-off call with Perigean: before recruiting begins.**
 Availability for a kick-off call, in Eastern times:
-  * **If build is ready 5/21:**
-    * Tue, May 21 anytime between 10am-6pm EST
-    * Wed, May 22 anytime between 10am-6pm EST
+    * Mon, May 13 anytime between 10am-6pm EST
+    * Tue, May 24 anytime between 10am-530pm EST
 
-**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **TBD/April**).  
+**We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **May 13**).  
 - Screenreader pre-pilot participant email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
 - Date and time of screenreader pilot session: **Week of March 18**
 
@@ -190,8 +189,8 @@ Availability for a kick-off call, in Eastern times:
 - Date and time of non-screenreader pilot session: **TBD**  
 
 ### Research sessions
-* Planned dates of research: **TBD** (depends on readiness of build from ENG)  
-If release build is ready 5/21: **Week 1: June 3-7, Week 2: June 17-20**  
+* Planned dates of research: **Week 1: May 28-31, Week 2: June 3-7**
+
 
 ### Length of sessions
 * Sessions will be 90 minutes in length for non-screenreader participants, 120 minutes for screenreader participants.
@@ -202,16 +201,17 @@ If release build is ready 5/21: **Week 1: June 3-7, Week 2: June 17-20**
 ### Availability
 * **If build is ready 5/21:**
   * Non-screenreader users
+     * (Monday is memorial day)
+     * Tue 5/28: 10am-430pm EST/9am-530pm CST 
+     * Wed 5/29: 10:30am-6pm EST/9:30am-5pm CST
+     * Thu 5/30: 1230-6pm EST/1130am-5pm CST
+     * Fri 5/31: 10:30am-6pm EST/9:30am-5pm CST
      * Mon 6/3: 10:30am-6pm EST/9:30am-5pm CST 
-     * Tue 6/4: 10:30am-6pm EST/9am-5pm CST
-     * Wed 6/5: 10:30am-6pm EST/9am-5pm CST
-     * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
-     * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
-     * Mon 6/17: 10am-6pm EST/9am-5pm CST (if needed)
   * Screenreader users
-     * Tue 6/18: 10am-6pm EST/9am-5pm CST 
-     * Thu 6/20: 10am-6pm EST/9am-5pm CST
-     * Fri 6/21: 10am-6pm EST/9am-5pm CST
+     * Tue 6/4: 10am-430pm EST/9am-530pm CST
+     * Wed 6/5: 10am-6pm EST/9am-5pm CST
+     * Thu 6/6: 10:30am-6pm EST/9:20am-5pm CST
+     * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
 
 	
 ## Team Roles	
