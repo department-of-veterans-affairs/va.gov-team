@@ -19,7 +19,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 | :white_check_mark: What we do support | :pushpin: Resources that can help |
 | --- | --- |
 | Authentication errors | [Troubleshooting documentation about authentication errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) |
-| Consulting on best practices for frontend and backend engineering | [Shedule a pairing session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Support%20Process/identity-office-hours.md) |
+| Consulting on best practices for frontend and backend engineering | [Schedule a pairing session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Support%20Process/identity-office-hours.md) |
 | Master Persons Index (MPI) integration with [VA.gov](http://va.gov/) | [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/mvi) |
 |  | [MPI Service Description documentation](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Documents/MPI/VA_MPI_Service_Description.pdf) (requires PIV card) |
 | Mocked authentication | [Mocked authentication user guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d4640bb7398e8b7de94dac54af4273ff27475c46/products/identity/Products/Mocked%20Authentication/readme.md#L4) |
@@ -40,7 +40,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 | Authentication certificate rotation for MPI, SAML, and SiS | [Certificate expiration overview and tracking](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Security/Rotate_certs.md) |
 | Policies for LOA required for direct deposit | [Details on the policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/Require_MFA_VAgov.md) |
 | Consulting on best practices or questions about security or metrics | [Schedule office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Support%20Process/identity-office-hours.md) |
-| :no_entry: What we don’t support | :pushpin: Resources that can help |
+| :no_entry: **What we don’t support** | :pushpin: **Resources that can help** |
 | Direct deposit tool | [Auth experience team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#readme) |
 | Security review for applications | [Platform security review process](https://depo-platform-documentation.scrollhelp.site/developer-docs/security-review) |
 |  | [Github issue template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new?assignees=kaipyroami&labels=security-review,platform-security,platform-security-review&projects=&template=privacy-and-security-review.md&title=Readiness+Review+%5BTeam-Name,+Feature-Name%5D) |
@@ -54,7 +54,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 |  | [LOA by Credential Service Provider (CSP)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md) |
 |  | [List of user attributes returned for authenticated endpoints](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) |
 | SSOe on [VA.gov](http://va.gov/) | [SSOe outage policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/SSOe_Outage_Response.md) |
-| :no_entry: What we don’t support | :pushpin: Resources that can help |
+| :no_entry: **What we don’t support** | :pushpin: **Resources that can help** |
 | Local environment setup | [Frontend local enviroment setup](https://depo-platform-documentation.scrollhelp.site/developer-docs/setting-up-your-local-frontend-environment) |
 |  | [Backend local enviroment setup](https://depo-platform-documentation.scrollhelp.site/developer-docs/developer-setup) |
 |  | [Mock data setup](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/a523e46183625ea11bb3ebde02813976cd2dd472/products/identity-personalization/developer/mock_data.md) |
@@ -68,7 +68,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 | Dashboards that monitor performance by browser type | [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/3tc-7xs-77j/identity-tots?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1714501880442&to_ts=1714505480442&live=true) |
 | Public stats by CSP and [VA.gov](http://va.gov/) authentication service | [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats---public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1711913682931&to_ts=1714505682931&live=true) |
 | Dashboards that monitor Identity SLOs | [Link to SLO dashboard](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1712053821461&to_ts=1712068221461&live=true) |
-| :no_entry: What we don’t support | :pushpin: Resources that can help |
+| :no_entry: **What we don’t support** | :pushpin: **Resources that can help** |
 | Getting access to Datadog | [Platform documentation on how to get access](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog) |
 | Datadog training | [Platform resources for using Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-acquainted-with-datadog) |
 
@@ -80,7 +80,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 | Triaging issues that can’t be resolved with CSP documentation | [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN) |
 | Errors redirecting to [VA.gov](http://va.gov/) from CSP) |  |
 | Providing feedback to CSPs |  |
-| :no_entry: Managed by CSPs | :pushpin: Resources that can help |
+| :no_entry: **Managed by CSPs** | :pushpin: **Resources that can help** |
 | Individual account management, password reset, errors signing into DS Logon | [Platform documentation about DS Logon integration and incident responses](https://depo-platform-documentation.scrollhelp.site/developer-docs/ds-logon) |
 | Individual account management, password reset, errors signing into http://login.gov/ | [Loging.gov test identity proofing](https://developers.login.gov/testing/#testing-identity-proofing) |
 |  | [Login.gov developers documentation](https://developers.login.gov/) |
@@ -94,7 +94,7 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 | --- | --- |
 | Authentication-related issues with test users | [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/mock-users-and-data-helper-functions) |
 |  | [Test user account creation guide](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/memos/test-accounts-creation.md) |
-| :no_entry: What we don’t support | :pushpin: Resources that can help |
+| :no_entry: **What we don’t support** | :pushpin: **Resources that can help** |
 | All test users | [Test user dashboard](https://tud.vfs.va.gov/) (requires PIV card or SOCKS access) |
 | Finding test users who meet specific criteria | [Information on how to work with local mock data for test users](https://github.com/department-of-veterans-affairs/vets-api-mockdata?tab=readme-ov-file#add-credential-mocked-data-for-a-new-user---sign-in-service-login) |
 | Test user data in downstream systems |  |
