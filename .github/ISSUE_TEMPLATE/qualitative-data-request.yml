@@ -76,6 +76,16 @@ body:
       placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider  (The shared data may contain PII/PHI information, we are only able to share the qualitative data on the VA network, VA.gov email ONLY.)" 
     validations:
       required: true
+   - type: dropdown
+    id: Sub-URLs
+    attributes:  
+      label: Sub URLs
+      description: Include Sub URLs?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
   - type: dropdown
     id: data-delivery
     attributes:
