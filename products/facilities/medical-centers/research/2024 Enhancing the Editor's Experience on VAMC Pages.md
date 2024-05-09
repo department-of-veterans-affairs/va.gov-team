@@ -29,16 +29,20 @@ VAMC websites are comprehensive facility pages designed to meet the needs of Vet
 
 ## Next Steps
 
-### Review Existing Research
+### Access Existing Research
 
-- [ ]  Review all resources to understand product history
-- [ ]  Review live examples pages
-- [ ]  Review editor top tasks via [CMS content list](https://prod.cms.va.gov/admin/content?title=&type=All&moderation_state=All&owner=All)
+- [x]  Access CMS Help Desk reports
+- [X]  Clean up CMS Help Desk reports
+- [x]  Review live examples pages
+- [X]  Access CMS
+- [x]  Review editor top tasks via [CMS content list](https://prod.cms.va.gov/admin/content?title=&type=All&moderation_state=All&owner=All)
 
-### Request Async Data
+### Data Analysis
 
-- [ ]  Review CMS Help Desk reports
-- [ ]  Review Medallia feedback from Veterans (need to request report)
+- [ ]  Analyze CMS Help Desk reports
+- [ ]  Analyze CMS How-To Guides
+- [ ]  Conduct Usability Audit on CMS Editor
+- [ ]  Identify key opportunities for improvement
 
 ### Request Interview Data
 
@@ -83,3 +87,5 @@ VAMC websites are comprehensive facility pages designed to meet the needs of Vet
 https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17748
 
 https://github.com/department-of-veterans-affairs/va-iir/issues/630
+
+https://github.com/department-of-veterans-affairs/va-iir/issues/631
