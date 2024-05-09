@@ -6,7 +6,7 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 
 **How we can help**
 
-We help teams set up and monitor a secure signed in experience for VA.gov applications and services. Schedule [flexible office hours or engineering pairing sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to collaborate anytime.
+We help teams set up and monitor a secure signed in experience for VA.gov applications and services. Schedule [flexible office hours or engineering pairing sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) with us to collaborate anytime.
 
 ## **Recommended troubleshooting steps**
 
