@@ -29,7 +29,7 @@ Veterans will be able to complete the paper form equivalent of Section IV; quest
 
 We aim to make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov. We expect this change to increase the number of TE claims filed, increase Veteran self-service, reduce the Veteran Service Operator (VSO) burden, and reduce the number of errors or issues that result from filing the TE paper claim.
 
-[Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707410059042/66a7863edcd579a5bc8b4bd720f685a5d0724a49?wid=0-1707412077064)
+Release plan user flow (coming soon).
 
 ## New Capabilities and Changes
 In addition to Veteran-facing changes mentioned above, the following capabilities and changes are included have impacts on the release.
