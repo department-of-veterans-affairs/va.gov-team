@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Medication Wording 
 #### Overview
 
 <details>
@@ -24,17 +24,28 @@
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+We had an OIG/Congressional request come in to add some medication-related content to appointment notifications and detail pages for all appointment types on all channels. The objective is to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.
 
-**Related/Associated product(s)**
-- Product | Link to product outline 
+
+**Impacts Related/Associated product(s)**
+- Mobile app
+- VA.gov web appointments
+- Email reminders
+- Text message reminders/pre-check-in
+- MHV Classic
+- My VA Health portals
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+The problem were addressing is the need to improve medication-related communication with veterans across various channels. The challenge lies in ensuring that veterans are adequately informed and prepared to discuss their medications during their appointments.
+
+The affected parties include:
+
+Veterans: They may face difficulties in remembering or accurately communicating their medications during appointments, which can impact the quality of their healthcare.
+Healthcare Providers: Inadequate information about a patient's medications can lead to potential errors in diagnosis, treatment, or medication management.
+Administrative Staff: They may encounter issues related to scheduling, reminders, and updating patient information across multiple platforms.
+The evidence of this problem is evident from the request you received, indicating a need to add medication-related content to appointment notifications and detail pages across various channels.
+
+This initiative help further OCTO-DE's mission and goals by improving the quality of care for veterans and ensuring that their healthcare providers have accurate and comprehensive information about their medications.
 
 <!--
 ## Desired User Outcomes
