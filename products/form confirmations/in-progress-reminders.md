@@ -105,31 +105,31 @@
   - Note the number of forms not submitted, the number of forms successful, and the number of forms failed
   - If successful form submissions are significantly less than forms not submitted, you might want to consider proposing an In Progress notification to form owners to remind Veterans to complete their forms and direct them back to where they can do so.
   - If you want more insight into which steps of the form users are not completing, you can scroll further down the page and view the “Completion rate by step” section.
-### Google Analytics - If a form you are looking for is not in DOMO, the next best way to assess the need for In Progress Notifications for forms is using Google Analytics.
+### Google Analytics (Finding the number of forms submitted) - If a form you are looking for is not in DOMO, the next best way to assess the need for In Progress Notifications for forms is using Google Analytics and staging.va.gov
   - Finding the number of forms submitted
-          - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
-          - On the left menu, select “Behavior”
-           - Select Top Events
-           - In the Primary Dimension section, select “Event Label”
-           - To the right of the search bar, select “Advanced”
-           - Include Event Label Containing (number of form you want to get analytics for, Ex: 5490)
-           - Note that when searching for a form, it’s important to include the form number found in the URL. (Ex: for 22-5490, the URL of the form only shows 5490, so this is what you would enter)
-           - Select Apply
-           - In the table, look for the “submission-successful” event (Ex: edu-5490-submission-successful) and note the corresponding number in the “Total Events” column
-           - If you are looking for statistics within a date range, on the top right of the page, select the date
-           - Input a custom date range
-           - Select Apply
-           - The table will refresh
-- Not in DOMO - Finding the number of forms in progress
-           - Navigate to staging.va.gov
-           - Login to staging.va.gov 
-           - Select ID.me
-           - Enter an email and password from: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv (You may need to try a few users since some may have already been used to test the same form)
-           - Select Sign In
-           - Select Continue
-           - Search for the form number you want to look up statistics for in Google Analytics
-           - Go to “About” form you are searching for 
-           - Select “Go to the online tool” 
+  - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
+  - On the left menu, select “Behavior”
+  - Select Top Events
+  - In the Primary Dimension section, select “Event Label”
+  - To the right of the search bar, select “Advanced”
+  - Include Event Label Containing (number of form you want to get analytics for, Ex: 5490)
+  - Note that when searching for a form, it’s important to include the form number found in the URL. (Ex: for 22-5490, the URL of the form only shows 5490, so this is what you would enter)
+  - Select Apply
+  - In the table, look for the “submission-successful” event (Ex: edu-5490-submission-successful) and note the corresponding number in the “Total Events” column
+  - If you are looking for statistics within a date range, on the top right of the page, select the date
+  - Input a custom date range
+  - Select Apply
+  - The table will refresh
+### Not in DOMO - Finding the number of forms in progress (Use Google Analytics for the number of Forms submitted)
+  - Navigate to staging.va.gov
+  - Login to staging.va.gov 
+  - Select ID.me
+  - Enter an email and password from: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv (You may need to try a few users since some may have already been used to test the same form)
+  - Select Sign In
+  - Select Continue
+  - Search for the form number you want to look up statistics for in Google Analytics
+  - Go to “About” form you are searching for 
+  - Select “Go to the online tool” 
            - Select Continue 
            - Select “Start the education application”
            - Note the URL of the first page of the form (Ex: staging.va.gov/education/apply-for-education-benefits/application/5490/applicant/information)
