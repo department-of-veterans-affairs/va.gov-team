@@ -156,7 +156,7 @@ The Home Screen accurately displays the Veterans’ personal information and in-
 
 
 * We will recruit **3 participants** (between known contacts) to test data in Production - 
-    * iOS or Android users
+    * or Android users
     * Non screen reader users
     * Veteran has an active claim or VA health care
     * If possible, recruit a Veteran with Cerner health care
@@ -245,7 +245,7 @@ There are a few things I'd like to mention:
 
 
 
-* Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build]
+* Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [Android build]  [iOS build](https://testflight.apple.com/join/65PnVx09)
 * If Testflight is not installed:
     * Scroll to the first button that says “View in App Store”
     * Tap to Install Testflight
@@ -256,7 +256,7 @@ There are a few things I'd like to mention:
     * If they can’t download successfully, end session.
 * Ok, tap Open to open the app.
     * Tap the Next button, then tap Start Testing.
-    * Participant will be on Sign In screen—**confirm that version number at bottom of the screen is #.#.#.** If it’s not, try again to get the build installed.
+    * Participant will be on Sign In screen—**confirm that version number at bottom of the screen is  2.27.1 (1542)** If it’s not, try again to get the build installed.
 * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. 
 * Log in: First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
     * If they can’t log in successfully, end session.
