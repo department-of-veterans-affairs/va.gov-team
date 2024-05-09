@@ -38,7 +38,7 @@ The data produced by request from the Identity Team is often not instantly under
    - mobile vs. desktop
 6. Which pages see the most auths
    - Initiated login from.
-7. Feedback from users
+7. Feedback from users on whether they're able to do what they wanted
 
 ## Out of Scope: (for this iteration)
 - SAML vs Oauth success metrics
