@@ -67,6 +67,11 @@ Meds.AuthReq[You must be logged in <br>to view this page]
 Meds.DowntimeQ[Is there an active <br>downtime #quot;maintenance window#quot;?]
 Meds.ShowDowntime[You will see an alert that <br>the tool is undergoing maintenance]
 Meds.AccessAllowed[You will be able to see <br>pages within the tool]
+Meds.SeePrescriptionsQ[Will I see a list of prescriptions and/or allergies on the main page?]
+Meds.EmptyPrescriptionsAlert[You will see a message:<br> #quot;You don’t have any VA prescriptions or medication records#quot;]
+Meds.HavePrescriptionsQ[Do you have prescriptions through the VA?]
+Meds.ShowPrescriptions[You should see a list of your <br>medications and allergies, if any are recorded in MHV systems]
+Meds.LinkedMHVIdQ[Do you have an MHV ID linked <br>to your account?]
 
 Meds.AccessQ -.-> Meds.ReleaseToggleQ
 Meds.ReleaseToggleQ -->|No| Meds.AboutPage
@@ -75,13 +80,20 @@ Meds.LoggedInQ -->|No| Meds.AuthReq
 Meds.LoggedInQ -->|Yes| Meds.DowntimeQ
 Meds.DowntimeQ --> |Yes| Meds.ShowDowntime
 Meds.DowntimeQ --> |No| Meds.AccessAllowed
+Meds.AccessAllowed -.- Meds.SeePrescriptionsQ
+Meds.SeePrescriptionsQ --> Meds.LinkedMHVIdQ
+Meds.LinkedMHVIdQ --> |No| Meds.EmptyPrescriptionsAlert
+Meds.LinkedMHVIdQ --> |Yes| Meds.HavePrescriptionsQ
+Meds.HavePrescriptionsQ --> |No| Meds.EmptyPrescriptionsAlert
+Meds.HavePrescriptionsQ --> |Yes| Meds.ShowPrescriptions
 ```
 
 ### Notes 
 
 - Much of the access logic lives in `src/applications/mhv/medications/containers/App.jsx`
 - `isAuthenticatedWithSSOe` is called in a few places. The app's `Alert` component accepts an `ssoe` prop, but doesn't use it currently
-
+- Calls to MHV API appear to be made regardless of `mhvAccountState`
+    
 ## Appointments
 
 WIP
