@@ -151,9 +151,17 @@ What's ARIA? The W3C defines it like this:
 
 ARIA enables us to create rich experiences on the web for people with disabilities. Using it responsibly can be the difference between a usable or unusable website or application. The overuse or misuse of ARIA comes up as one of the most common issues in accessibility code audits. But how do you know when to use ARIA and when to not use it?
 
+**Note**: If you're developing a native mobile application on iOS or Android, Accessibility Labels are the equivalent to ARIA on the web.
+
 ### Ideal state
 
-Refer to this article on [using ARIA](https://www.w3.org/TR/using-aria/) as a starting point if you have questions about ARIA use. It has five rules for ARIA that can guide your decision making:
+Refer to this article on [using ARIA](https://www.w3.org/TR/using-aria/) as a starting point if you have questions about ARIA use. Before you dive into the rules, you'll want to understand what semantic HTML means.
+
+The [A11y Project defines semantic HTML as](https://www.a11yproject.com/posts/what-is-semantic-html/):
+
+> The word "semantic" has a few meanings. In computer science, semantics provides the rules for interpreting expressions of code. In this case, semantics lays out the rules for how HTML (the code) gets interpreted. Those rules govern structure and meaning.
+
+The article from W3C on using ARIA has five rules for ARIA that can guide your decision making:
 
 **"First Rule of ARIA Use: If you can use a native HTML element or attribute with the semantics and behavior you require already built in, instead of re-purposing an element and adding an ARIA role, state or property to make it accessible, then do so."**
 
@@ -180,10 +188,11 @@ An Accessible Name for an interactive control helps assistive technology users u
 Another way to think about this through the lens of our work on VA.gov and associated mobile applications:
 
 1. Use design system components first. If you need to make a custom component, seek guidance from accessibility specialists.
-2. Use the existing properties provided by components, and only add custom markup and attributes when necessary.
+2. Use the existing properties provided by components. If you need to add custom markup or attributes in a component, file an issue on GitHub with the design system, or ask about it in the team's Slack channel.
 3. The most difficult ARIA challenges happen when two or more common components get combined into a new component, and create a complex experience that's harder to translate without the use of sight or other senses.
 4. Pay attention to accessibility guidance in both the VA Design System and US Web Design System. It will often add boundaries around what's possible and more difficult to accomplish with a certain component.
 5. Use [accessibility annotations](https://design.va.gov/about/accessibility/accessibility-annotations) during the design process to think through any ARIA customizations.
+6. Using ARIA or Accessibility Labels on mobile platforms helps with Veterans know what's happening on a page, what something means and how they can interact. If you're not using ARIA for this, consider altering your design.
 
 ### Resources
 
