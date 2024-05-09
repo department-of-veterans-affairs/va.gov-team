@@ -107,8 +107,8 @@
   - If you want more insight into which steps of the form users are not completing, you can scroll further down the page and view the “Completion rate by step” section.
 - Google Analytics - If a form you are looking for is not in DOMO, the next best way to assess the need for In Progress Notifications for forms is using Google Analytics.
   - Finding the number of forms submitted
-           - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
-           - On the left menu, select “Behavior”
+          - Navigate to https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361
+          - On the left menu, select “Behavior”
            - Select Top Events
            - In the Primary Dimension section, select “Event Label”
            - To the right of the search bar, select “Advanced”
