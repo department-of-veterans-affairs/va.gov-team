@@ -2,6 +2,8 @@
 
 This is an attempt to diagram whether various pages/tools/apps under `/my-health/` are viewable or not, or if some features/sections are viewable or now.
 
+**Completeness and accuracy not guaranteed.** Work on this is ongoing.
+
 ## General Notes/Context
 
 - "ID-verified" relates to the Level of Assurance (LOA) for that account. LOA3 indicates a user's account is verified/proved by identification
