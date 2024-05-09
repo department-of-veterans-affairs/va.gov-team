@@ -116,6 +116,8 @@ To make it easier to determine content that has already been masked, you can inj
 
 You can highlight these DataDog privacy classes using one of two methods:
 - [VA page checker browser extension](https://chromewebstore.google.com/detail/va-page-checker/bohcdnelkeimoooidokojkcjdaahjbkb?authuser=1), <strong>or</strong>
+
+  <img alt="highlight datadog example from browser extension" src="https://github.com/department-of-veterans-affairs/vets-website/assets/136959/bb384cc3-c6d0-4733-bcd7-1e482ab24d49" width="300" />
 - Use the Stylus browser extension to inject CSS into the page <details><summary>Using Stylus</summary>
 
   Install the [Stylus](https://add0n.com/stylus.html) browser app for [Chrome-based browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). This extension allows you to inject CSS into any page.
