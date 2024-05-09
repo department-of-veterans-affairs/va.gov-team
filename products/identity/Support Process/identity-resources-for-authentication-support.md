@@ -1,8 +1,12 @@
 # **Resources for identity and VA.gov authentication support**
 
-*:warning: Draft summary*
+**Who we are**
 
-[The OCTO Identity team manages the authentication integration between [VA.gov](http://va.gov/) and our partners, including VA Identity and Access Management (IAM) and Credential Service Providers (CSPs) like Login.gov and ID.me. This team is a resource for VA.gov authentication setup, the unified sign-in experience, and the issuance, validation, and serialization of security tokens.]
+The OCTO Identity team manages the authentication integration for VA.gov. We work with identity partners to confirm who’s signing in and provide secure access to VA.gov resources. Our team understands how identity and security works across the entire platform.
+
+**How we can help**
+
+We help teams set up and monitor a secure signed in experience for VA.gov applications and services. Schedule [flexible office hours or engineering pairing sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to collaborate anytime.
 
 ## **Recommended troubleshooting steps**
 
