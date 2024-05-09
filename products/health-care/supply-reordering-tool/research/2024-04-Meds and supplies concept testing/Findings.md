@@ -66,10 +66,9 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 
 **1. Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use and liked that medications and medical supplies are all in one place.**
   - 7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page.
+  - 5 participants still found option 3 the easiest, despite their learned experiences with the MHV Classic, and had no trouble finding glucose testing strips.
     
-**2. Every participant thought glucose testing strips were medical supplies.**
-  - 5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.
-  - Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1). 
+**2. Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1) because they thought glucose testing strips were medical supplies.**
 
 **3. Some (7 out of 15) participants found it confusing to have a list page and an order page.**
 
@@ -110,33 +109,31 @@ Most participants wanted to see a separation or a better organization between me
 
 > _Supporting data: "Likes the first screen, but still separate medications and supplies on the order page."_
 
+**5 participants still found option 3 the easiest, despite their learned experiences with the MHV Classic, and had no trouble finding glucose testing strips.**
 
-### Finding 2: Every participant thought glucose testing strips were medical supplies.
+There were 5 participants who knew where to find glucose testing strips on the MHV Classic, so they went to the prescriptions section to order glucose testing strips using option 1 and option 2. However, they still thought testing strips should be a supply. 
 
-
-**5 participants who had been prescribed glucose testing strips and knew it was in the prescriptions section of the MHV Classic thought the same.**
-
-Brief description
-
-> _Supporting data: Quote here_
-
-> _Supporting data: Quote here_
+> _Supporting data: "I looked in prescriptions first for the testing strips because that's where I see them now. They are under Pharmacy on the current MHV. I would put testing strips under the supplies._
 
 
-**Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1).**
+### Finding 2: Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1) because they thought glucose testing strips were medical supplies.
 
-Brief description
+Most participants had struggled to find glucose testing strips. Because they thought glucose testing strips were medical supplies, they went straight to the medical supplies section when asked to order glucose testing strips. 
 
-> _Supporting data: Quote here_
+> _Supporting data: "Why weren't glucose testing strips a supply? That would be confusing for me._
 
-> _Supporting data: Quote here_
+> _Supporting data: "I'd move testing strips under the supplies section._
+
+> _Supporting data: "(one participant who is experienced in MHV Classic) I looked in prescriptions first for the testing strips because that's where I see them now. They are under Pharmacy on the current MHV. I would put testing strips under the supplies._
+
+> _Supporting data: "You don't always know if it's a medication or prescription._
 
 
 ### Finding 3: Some (7 out of 15) participants found it confusing to have a list page and an order page.
 
 Brief description
 
-> _Supporting data: Quote here_
+> _Supporting data: "The supplies list doesn't have any value to me. Why not have print and download on the order page?_
 
 > _Supporting data: "Not sure the differences between list and order links are."_
 
