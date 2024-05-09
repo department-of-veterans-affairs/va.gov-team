@@ -61,11 +61,8 @@ Respective to the release plan, there are two use cases that we are considering.
 
 | Phase | Description | Duration | Users | Dates |
 |---|---|---|---|---|
-|1 |New TE Applications|TBD| TBD | TBD
-|2 |Veterans with an In Progress Form (IPF)|TBD| TBD | TBD
-|3 | TBD |TBD|TBD| TBD
-|4 | TBD |TBD|TBD| TBD
-|5 | TBD |TBD|TBD| TBD
+|1 |New TE Applications|TBD| TBD | TBD |
+|2 |Veterans with an In Progress Form (IPF)|TBD| TBD | TBD |
 
 
 
@@ -111,13 +108,10 @@ POST
 
 You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
-List the TE feature toggles here. (TBD)
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| burial_form_enabled | Enable the burial form |
-| burial_form_v2 | vets-website v2 toggle |
-| va_burial_v2 | vets-api v2 toggle |
+| disability_526_toxic_exposure | Enables new pages, processing, and submission of toxic exposure claims |
 
 ## Step 2: Validation
 
@@ -125,12 +119,12 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [x] review the plan with your DEPO/OCTO representative.
-  - [x] review the release plan with your team.
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [ ] review the plan with your DEPO/OCTO representative.
+  - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
 <!--
@@ -173,51 +167,47 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 Our PM and PO will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form.
 
 Rollback plan:
-1. PM and PO monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
-2. Engineering disables flipper which hides v2 of the form.
-   - Users with in-progress v2 sessions will finish out their v2 session. If they start a new session, they will be redirected to v1.
-   - New users will be directed to v1 of the form.
+1. Team will monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
+2. Engineering disables flipper which hides the 2022 version of the form.
+   - Users with in-progress v2022 sessions will finish out their v2022 session. If they start a new session, they will be redirected to the old version.
+   - New users will be directed to the old of the form.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will be doing extensive E2E testing in a staging environment.
+Production testing poses a risk, due to the downstream actions that submitting an application for disability benefits triggers. To migtigate the risk this poses, we will be doing extensive E2E testing in a staging environment.
 
 #### Planning
 
-- Desired date range or test duration: April 3-12, 2024
-- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
-- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test
-- How you'll conduct the testing: using test users and validating the staging form payload submissions with downstream stakeholders
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
+- Desired date range or test duration: TBD
+- Desired number of users: TBD
+- How you'll recruit the right production test users: TBD
+- How you'll conduct the testing: TBD
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: TBD
 
 #### Results
 
-- Number of users: 6
-- Number of bugs identified / fixed: See [this sheet](https://docs.google.com/spreadsheets/d/1pKE5rvUgoJe0vkh06W4EVCKL5ygXxgajCRa3nVTLARQ/edit?usp=sharing). Several issues were identified as Platform-level issues that are outside the scope of our team to fix. We will work with the Platform Team to fix.
-- Was any downstream service affected by the change?: Yes, as part of this form update, we also migrated the form payload from the depreciated Central Mail API to the Benefits Intake API.
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Number of users: TBD
+- Number of bugs identified / fixed: TBD
+- Was any downstream service affected by the change?: TBD
+- Types of errors logged: TBD
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: TBD
+- If yes, what: TBD
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
+We recommend that the rollout plan has X stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
 
 #### Rollout Planning
 
-- Desired date range: April 15 - May 10, 2024
+- Desired date range: TBD
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Abandonment rate:
   - Submission volume:
-    - Canary: 10 submissions
-    - 25%/50%/75%: >10 submissions
-  - Error rate: <1%
+  - Error rate: 
   - Pageviews
 - Links to the dashboard(s) showing "success criteria" metrics:
-  - Domo Dashboard request submitted
-  - [DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)
-  - [Pageviews](https://analytics.google.com/analytics/web/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240418&_u.date01=20240507&explorer-table.filter=~2Fburials-and-memorials-v2~2Fapplication~2F530~2Fintroduction&explorer-table.plotKeys=%5B%5D/)
-- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele) and OCTO PO (Emily Theis)
+  - TBD
+- Who is monitoring the dashboard(s)?: DBEX Teams 1 and 2
 
 
 ### Stage A: Canary
@@ -226,63 +216,62 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 10 submissions (estimated 4 hours)
-- Percentage of Users (and roughly how many users do you expect this to be): 20% of daily submission, 10-15 users
+- Length of time: TBD
+- Percentage of Users (and roughly how many users do you expect this to be): TBD
 
 #### Results
 
-- Number of unique users: 10
+- Number of unique users: TBD
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: No
 - Types of errors logged:
-  -  Selected Tribal Land Does not populate the pdf #81372
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
+  -  TBD
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? TBD
 
-### Stage B: 25% of users
+### Stage B: X% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days (actual: 7)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: TBD
+- Percentage of Users (and roughly how many users do you expect this to be): TBD
 
 #### Results
 
-- Number of unique users: 40
+- Number of unique users: TBD
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: No
+- Was any downstream service affected by the change?: [PICK_ONE]: TBD
 - Types of errors logged:
-   - Facility name not appearing in overflow #81791 
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
+   - TBD
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? TBD
 
-### Stage C: 50% of users
+### Stage C: X% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days (actual: 7 days)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
+- Length of time: TBD
+- Percentage of Users (and roughly how many users do you expect this to be): TBD
 
 #### Results
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: No
+- Was any downstream service affected by the change?: [PICK_ONE]: TBD
 - Types of errors logged:
-   - Date stamp format did not include time zone (UTC) and date stamp should stamp date the claim was submitted rather than the date the pdf was generated #82382
-   - Broken link for form pdf within the react widget on the form intro page #82383
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
+   - TBD
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? TBD
 
-### Stage D: 75% of users
+### Stage D: X% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
+- Length of time: TBD
+- Percentage of Users (and roughly how many users do you expect this to be): TBD
 
 #### Results
 
@@ -296,7 +285,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: TBD
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
