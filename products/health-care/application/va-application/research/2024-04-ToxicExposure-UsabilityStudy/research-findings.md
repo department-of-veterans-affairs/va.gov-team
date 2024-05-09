@@ -77,7 +77,7 @@ We conducted about hour-long **moderated remote usability sessions** from April 
 
 <b>2. Veterans would like more information about what time periods during their service are eligible to note any toxic exposure.</b>
 
-<b>3. Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
+<b>3. Veterans would like to see more customization in the toxic exposure questions based on what VA already knows about them or what they answered previously.</b>
 
 <b>4. There is some confusion with how to identify exposure dates and why VA is asking for them.</b>
 
