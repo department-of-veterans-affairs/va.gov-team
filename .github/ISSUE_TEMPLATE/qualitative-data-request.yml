@@ -1,4 +1,4 @@
-- name: Qualitative Data Requests
+- name: Qualitative Data Request
 description: Please use this form to request qualitative (textual) data for tier II/tier III support as well as Medallia User Surveys
  title: "Qualitative Data Request"
 labels: [ "VSP-contact-center", "cc-data-request" ]
