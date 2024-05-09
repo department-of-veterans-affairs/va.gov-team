@@ -72,9 +72,9 @@ Future iterations of the Representative Status Widget could include:
 1. The Find a Representative tool will include the Representative Status Widget, encouraging Veterans to sign in and view any current or pending representation
 
 ### Future
-3. The Appoint a Representative tool will include the Representative Status Widget, encouraging Veterans to sign in and view any current or pending representation
-4. The Profile page will include the Representative Status Widget, enabling Veterans to see any current or pending representation
-5. Make the Representative Status Widget code available to other teams, so they can embed this widget in their products if the context makes sense
+1. The Appoint a Representative tool will include the Representative Status Widget, encouraging Veterans to sign in and view any current or pending representation
+2. The Profile page will include the Representative Status Widget, enabling Veterans to see any current or pending representation
+3. Make the Representative Status Widget code available to other teams, so they can embed this widget in their products if the context makes sense
 
 ## Launch Dates
 1. MVP launch date: May 2024
