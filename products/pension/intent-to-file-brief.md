@@ -1,6 +1,6 @@
 # Intent to File for 527EZ - Product Outline 
 ## Overview
-Enable Veterans to receive the earliest possible pension benefits effective date by calculating the ITF from the date a pension application was started online. 
+Enable Veterans to receive a pension benefits effective date by calculating the ITF from the date a pension application was started online. 
 Intent to file sets a potential start date (or effective date) for Veteran benefits by notifying the VA that they plan to file a claim. 
 This can enable the Veteran to receive retroactive payments (payments from the time between when they submitted an intent to file and when the VA approves the claim).
 The Veteran has one year from the time they submit an intent to file their claim to receive the earliest possible effective date.
@@ -8,9 +8,9 @@ The Veteran has one year from the time they submit an intent to file their claim
 ### How might we statement: How might we ease the burden on Veterans to set  an Intent to File date that requires fewer steps to obtain and reduces the need to fill out multiple forms? 
 
 ## Desired Outcomes
-Enable Veterans to receive the earliest possible pension benefits effective date by calculating the ITF from the date a pension application was started online. 
+Enable Veterans to receive a pension benefits effective date by calculating the ITF from the date a pension application was started online. 
 ITF functionality is currently implemented in the disability benefit (526EZ).  
-Solve for pain points in the current 526 online experience while building the pension solution, in particular recurring downtime for ITF API requests that blocked application progress.
+Incorporate learnings from pain points in the current 526 online experience while building the pension solution, in particular recurring downtime for ITF API requests that blocked application progress.
 
 ## Business goals
 * Ease the burden of Veterans applying for pension benefits to set an intent to file.
