@@ -1,13 +1,13 @@
 # Release Plan: Representative Status Widget 1.0
 
 #### Platform Preparation
-- [ ] Are all Collaboration Cycle touchpoints complete?
+- [x] Are all Collaboration Cycle touchpoints complete?
 
 #### Technical Preparation
 - [x] Internal team QA
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [x] Unit tests and E2E tests are complete
-- [ ] Launch-blocking issues from Staging Review are resolved
+- [x] Launch-blocking issues from Staging Review are resolved
 - [ ] Any other issues that are needed to address prior to rollout?
 
 #### Go/No Go meeting 5/13 at 1:35p ET
