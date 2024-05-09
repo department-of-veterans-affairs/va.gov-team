@@ -29,6 +29,32 @@ Veterans will be able to complete the paper form equivalent of Section IV; quest
 
 We aim to make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov. We expect this change to increase the number of TE claims filed, increase Veteran self-service, reduce the Veteran Service Operator (VSO) burden, and reduce the number of errors or issues that result from filing the TE paper claim.
 
+We expect this change to
+improve parity between the online form and the paper form by adding Section IV (i.e. Toxic Exposure)
+Reduce the number of letters sent to Veterans with requests for more information
+Help VSRs/RVSRs with claims processing
+
+(/submit migration)
+Reduce submission errors
+% that use normal vs. backup vs. failsafe path
+
+Other
+maintain or reduce abandonment rates
+
+
+online form is up-to-date with the most recent version of the forms
+weeks/months to be up to date with the paper form
+Veterans can provide all the relevant information
+less likely receive letters asking them for more information
+help VSRs/RVSRs with claims processing.
+
+general metrics
+% that use normal vs. backup vs. failsafe path
+Submissions error percentage
+
+
+
+
 Release plan user flow (coming soon).
 
 ## New Capabilities and Changes
@@ -45,7 +71,7 @@ In addition to Veteran-facing changes mentioned above, the following capabilitie
 10. Implementation of updated logic for the new Lighthouse /submit endpoint
 
 ## Risks & Challenges
-1. Lighthouse synchronous /submit endpoint is still in development. While the Lighthouse team is targeting early June '24 for Staging release, the exact production release date is unknown. This release plan assumes that the Lighthouse /submit endpoint is available in production by end of June. If for any reason this endpoint isn't available in production by end of June, and a business decision is made to release Toxic Exposure by end of June, DBEX teams would need to re-pipe the solution to use the EVSS submit endpoint with the minimal /generatePDF Lighthouse endpoint. The TREX team estimates that this will take at least 4 weeks to accomplish, meaning this work needs to begin by at least the first week of June, if the end of June target is still desirable. Once the Lighthouse submit endpoint is available, DBEX teams would need to again re-pipe TE to use Lighthouse's submit endpoint once it's available in production.
+1. DBEX teams have developed this solution with the assumption that Lighthouse's Submit endpoint will be used for the production deployment of TE. If the Lighthouse /submit endpoint isn’t available by the end of June, DBEX teams will not re-pipe the TE solution to use EVSS async Submit endpoint. VA’s expectation is that TE solution is complete and ready by end of June. TE will leverage LH’s Submit endpoint when it's released into production.
 
 ## Use Cases
 Respective to the release plan, there are two use cases that we are considering. For each of these, we plan to follow an incremental release strategy using established traffic percentages to incrementally route Veterans to the 2022 526 form. We plan to use Flipper to control availabity for each use case.
