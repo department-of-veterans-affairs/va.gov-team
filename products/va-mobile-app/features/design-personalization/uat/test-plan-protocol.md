@@ -264,7 +264,7 @@ There are a few things I'd like to mention:
 * If the next screen is Onboarding: Ok, stop here.
 
 
-### Section 2: User Acceptance Tasks (10 minutes)
+### Section 2: User Acceptance Tasks (5 minutes)
 
 
 
@@ -299,7 +299,7 @@ There are a few things I'd like to mention:
     - [ ] Tap into Benefits. Does the Benefits screen display the same data for each feature as the home screen?
 
 
-### **Section 3: App + Testflight uninstall (5 minutes)**
+### **Section 3: App + Testflight uninstall (2 minutes)**
 
 
 
