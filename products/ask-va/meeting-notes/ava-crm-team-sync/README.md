@@ -1,3 +1,138 @@
+## Meeting Notes for CRM Sync on 05/07/2024
+
+
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Need printer-friendly/PDF view of the inquiry/corresponddence
+2. AppInsights will need to be filtered; Multi-tenant instance of PowerApps
+  
+### Action Items:
+
+- [ ] JOE: Create a SPIKE for printer-friendly inquiry+correspondence details view
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+  * Becky reported the following update in our 4/30 sync:
+    * By end of May, should have a concrete timeline of creating the survey for AVA.
+    * By end of quarter (June) at the latest, survey should be live.
+    * Becky will keep her finger on the pulse and alert us to updates to this timeline.
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+
+
+
+
+## Meeting Notes for CRM Sync on 04/30/2024
+
+Closer to E2E testing; Medallia update
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Submit Inquiry and Retrieve Inquiries are complete from the CRM side
+2. Posting attachment API integratioon on VA.gov side is underway
+  
+### Action Items:
+
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+  * Becky reported the following update in our 4/30 sync:
+    * By end of May, should have a concrete timeline of creating the survey for AVA.
+    * By end of quarter (June) at the latest, survey should be live.
+    * Becky will keep her finger on the pulse and alert us to updates to this timeline.
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+
+
+
+
+## Meeting Notes for CRM Sync on 04/23/2024
+
+Medalia coding windows; Platform team meeting
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Shelby: two more coding windoes to get Medalia survey done (July/August/September)
+  * Becky: Helpful to know the coding windows; worst case is getting surveys at launch 
+2. Holly: (Re)scheduling platform team meeting, to include Shelby and Kyle
+  
+### Action Items:
+
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+- [X] ~JOE: Coordinate discussion after exploring the option of adding more "environments" to our workflow.~
+
+
+
+
+## Meeting Notes for CRM Sync on 04/16/2024
+
+Environment mismatch; ICN consistency between calls; SSN collection
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Kyle's notes on ICN/meta consistency
+  * ICN/First/Last/SSN/SN must be consistent between calls
+  * May not match what's in CRM since it's coming from VA Profile
+  * CRM may need to decide if they want to update their copy
+    * CHRIS: Update AVA Profile from VA Profile as source of truth for cited data
+2. Khoa's concerns around collecting SSN in the app (revisited)
+  * Doc was circulated mentioning a move away from SSN collection
+  * Some exceptions were carved out
+  * Plan to stay the course
+    * It's provided to us for authenticated users
+    * It's needed for unauthenticated users in many cases
+    * Agents will still use it
+    * LoBs will have to determine need (agent may use it for ID proofing, each LoB is distinct)
+    * On the surface, this shouldn't affect the AVA application
+3. Decide on plan of attack for E2E testing in lower environments. Document / discuss
+  
+### Action Items:
+
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+- [ ] JOE: Coordinate discussion after exploring the option of adding more "environments" to our workflow.
+
+
+
+
+## Meeting Notes for CRM Sync on 04/09/2024
+
+Show/Hide US Mail; Pre-Select Phone; Passing Metadata from CRM
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Topic field to show/hide US Mail, based on LoB. Data-driven solution. CRM manages the flags, and AVA VA.gov will write logic to rely on those values. 2 flags: phone/us-mail assume without feedback from LoBs, set phone to true. (Should we have the existing flags passed back to AVA VA.gov, then implement if/when ready?) 
+2. Kyle added metadata for topics to Jira, slated for next sprint
+  
+### Action Items:
+
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+
+
+
+
 ## Meeting Notes for CRM Sync on 04/02/2024
 
 Discuss field removal with CCB; Topic metadata added
