@@ -5,7 +5,7 @@ labels: [ "VSP-contact-center", "cc-data-request" ]
 assignees:
   - Kimberley2023-CSM, ATMiddleton, newworld2616, aubreyarcangel
 body:
-  - type: Heading
+  - type: Markdown
     attributes:
       value: |
           ## What this form is for
