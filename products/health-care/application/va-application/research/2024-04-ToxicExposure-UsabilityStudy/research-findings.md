@@ -119,7 +119,7 @@ Key quotes:
 >P5: "Is Afghanistan part of the Gulf War? I guess when I hear the word Gulf War I think like 1990, 1991. Maybe that's technically called the Persian Gulf War or Operation Desert Storm or Desert Shield. Maybe there was stuff happening in Afghanistan then but it's just unexpected to me. ...Does Gulf War mean both 1990, 1991, and 2003 Gulf War? There's some ambiguity to me."
 
 
-**Finding 3: Veterans would like to see more branching logic in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
+**Finding 3: Veterans would like to see more customization in the toxic exposure questions based on what VA already knows about them or what they answered previously.**
 
 - 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
 - 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
