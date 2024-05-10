@@ -37,7 +37,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - 🟥 [[Content] Review and finish content draft](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81767)
          - 🟥 [[Design] Create template & spacing page in Figma and Screenreader spec page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82898)
-         - Attend Design Office Hours and get feedback from Platform 
+         - Attend Design Office Hours and get feedback from Platform
+         - TBD - Design updates based on Office Hours
 
    
 </details>
