@@ -56,7 +56,7 @@ MHVLanding.LinkedMHVIdQ --> |Yes| MHVLanding.MessagesDotAvailable
 
 ## Medications
 
-WIP: While mapping this out, I didn't find a check for an active MHV identifier
+**Work In Progress**: While mapping this out, I didn't find a check for an active MHV identifier
 
 ```mermaid
 graph TD
@@ -110,6 +110,36 @@ Appts.AuthReq[You must be logged in <br>to view this page]
 Appts.Access --> Appts.LoggedIn
 Appts.LoggedIn -->|No| Appts.AuthReq
 ```
+
+## Secure Messages
+
+**Work In Progress**
+
+```mermaid
+graph TD
+
+SM.AccessQ[Can I access the Secure Messages tool?]
+SM.LoggedInQ[Are you logged in?]
+SM.ReleaseToggleQ[Is the <i>release</i> toggle on?]
+SM.AboutPage[You will see the <i>Info</i> page]
+SM.AuthReq[You must be logged in <br>to view this page]
+SM.DowntimeQ[Is there an active <br>downtime #quot;maintenance window#quot;?]
+SM.ShowDowntime[You will see an alert that <br>the tool is undergoing maintenance]
+SM.AccessAllowed[You will be able to see <br>pages within the tool]
+
+SM.AccessQ -.-> SM.ReleaseToggleQ
+SM.ReleaseToggleQ -->|No| SM.AboutPage
+SM.ReleaseToggleQ -->|Yes| SM.LoggedInQ 
+SM.LoggedInQ -->|No| SM.AuthReq
+SM.LoggedInQ -->|Yes| SM.DowntimeQ
+SM.DowntimeQ --> |Yes| SM.ShowDowntime
+SM.DowntimeQ --> |No| SM.AccessAllowed
+```
+
+### Notes 
+
+- Much of logic is in `src/applications/mhv-secure-messaging/containers/App.jsx`
+- There is Cerner Pilot logic that is not enabled in code as of 2024 May 10.
 
 ## Technical Details
 
