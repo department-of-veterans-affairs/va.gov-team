@@ -1,6 +1,10 @@
+## [May 10, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2024-05-10.md)
+`Big Meeting` `Reflections`
+- Reflected on our conversation with our guest, Victor Udoewa, at our last practice circle
+
 ## [November 13, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-11-13.md)
 `Big Meeting` `Strategy`
-- Discussed tips on how to do active listening with veterans
+- Discussed tips on how to do active listening with Veterans
 
 ## [August 7, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-08-07.md)
 `Big Meeting` `Strategy`
