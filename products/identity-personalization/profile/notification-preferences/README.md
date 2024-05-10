@@ -28,7 +28,7 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 |Name|Role|Email|
 |----|----|-----|
-|Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
+|| OCTO lead for VANotify|  |
 |Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
 
