@@ -20,6 +20,7 @@ ________________________________________________________________________________
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [[Research] Socialize research plan and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82836)
+         - 🟥 TBD - Create prototype(s)
     - **Sub Goal: [Feature] Create KPIs**
          - 🟩 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894) 
 
