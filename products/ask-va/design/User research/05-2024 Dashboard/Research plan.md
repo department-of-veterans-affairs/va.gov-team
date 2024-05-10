@@ -143,12 +143,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Recruitment criteria – Business submitters
 
-We will recruit 5 business submitters for a total of 5 completed sessions.
+We will recruit 5 business submitters for a total of 5 completed sessions. They should join from the device the usually use when they submit Ask VA inquiries.
 
 |# of participants|Criteria|
 |:--|:--|
-|Exactly 10|Have submitted an Ask VA inquiry in a business role|
-|Exactly 5|Are willing to join from the device they usually use at work|
+|Exactly 5|Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran|
+|At least 3|Submit more than 2 Ask VA inquiries per month|
 |At least 1|Is also a Veteran, who may submit an Ask VA inquiry in a personal capacity|
 
 ## Timeline
