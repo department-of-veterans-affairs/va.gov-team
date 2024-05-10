@@ -35,12 +35,9 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 * ITF functionality is currently implemented in the disability benefit (526EZ). Incorporate learnings from pain points in the current 526 online experience while building the pension solution, in particular recurring downtime for ITF API requests that blocked application progress - [ITF Research Summary by 526EZ team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md)
 * A standalone ITF web form is in the works - [Figma](https://www.figma.com/file/EFJLJ7W4yBbujH1yVD122s/WIP---21-0966---Intent-to-file?type=design&node-id=0%3A59&mode=design&t=NhvhdjCE7qtCMbOH-1), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689261093555/6c03d0c5d9d3f5ee875295e6ee444c3420f9ad3b?wid=0-1705943457925&sender=u8c3a54d4503675214e055918)
 
-
-## V1.0 Solution Approach - Introduce ITF functionality
+# Solution Approaches
+## V1.0 - Introduce ITF functionality to pension form
 ### Integrate intent to file functionality with the 527EZ application on VA.com that is only available to authenticated users.
-
-**`TO BE ADDRESSED / BLOCKERS:`**
-* Aggrement on specs, review and sign offs are needed.
   
 **Status (as of 5/8/24)**
 * OCTO: in review
@@ -49,6 +46,9 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 * Collab Cycle: TBD
 * CAIA: started
 * Development: not started (scaffolding started)
+
+**`TO BE ADDRESSED / BLOCKERS:`**
+* Aggrement on specs, review and sign offs are needed.
 
 **1. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
@@ -70,13 +70,44 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 * TBC by engineering - The pension app will not store ITF information and treate the ITF API as the source of truth for ITF.
 
 
-## V1.x Solution Approach - Extending the validity period of an in-progress form and/or ITF
 
-**Manage expiration dates in a way that:**
+## V1.x - Include dates in PDF as a backup (TBC)
+### Writing ITF or application start date to PDF as supplementary information for VSRs to aid in processing pension applications
+This will replace the submission date currently included in the PDF footer.
+
+**Status (as of 5/8/24)**
+* OCTO: in review
+* VBA: TBD
+* Design: TBD
+* Collab Cycle: TBD
+* CAIA: TBD
+* Development: TBD
+  
+**`TO BE ADDRESSED / BLOCKERS:`**
+* Establish if, when, how VSRs will access and use this information to ensure that this feature is useful and will be used.
+
+**1. When ITF is successfully established and form is submitted**
+* Write messaging to convey 'Pension ITF <date>' to footer of PDF.
+
+**2. When ITF is not established and form is submitted**
+* Write messaging to convey 'Pension ITF not established. Application was started <date>' to footer of PDF.
+
+
+
+## V1.x - Extending the validity period of an in-progress form and/or ITF (TBC)
+### Manage expiration dates in a way that:
 * Helps Veterans to recieve backdated pensions benefits based on when they started an application, within 'reasonable' time limits 
 * Doesn't confuse Veterans using the form
 * Doesn't create a system/service that is costly but doesn't benefit most
 
+**Status (as of 5/8/24)**
+* OCTO: in review
+* VBA: TBD
+* Design: TBD
+* Collab Cycle: TBD
+* CAIA: TBD
+* Development: TBD
+  
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Verify that no policies are violated by saving Veterans form data for longer than one year.
 * Verify that no policies violated by the system automatically renewing ITF on behalf of Veterans, without permission/action by the Veteran.
@@ -99,23 +130,17 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 
 
 
-## V1.x Solution Approach - Include dates in PDF as a backup
-### Writing ITF or application start date to PDF as supplementary information for VSRs to aid in processing pension applications
-This will replace the submission date currently included in the PDF footer.
+## V1.x - Renew ITF using past dates (TBC)
+### When a user has logged in and a prior ITF has expired and a reasonable time has lapsed, establish a new backdated ITF that's reasonable.
 
-**`TO BE ADDRESSED / BLOCKERS:`**
-* Establish if, when, how VSRs will access and use this information to ensure that this feature is useful and will be used.
-
-**1. When ITF is successfully established and form is submitted**
-* Write messaging to convey 'Pension ITF <date>' to footer of PDF.
-
-**2. When ITF is not established and form is submitted**
-* Write messaging to convey 'Pension ITF not established. Application was started <date>' to footer of PDF.
-
-
-## V1.x Solution Approach - Enable date parameter in LH ITF API
-When a user has logged in and a prior ITF has expired and a reasonable time has lapsed, the system will automatically establish a new backdated ITF with reasonable validity.
-
+**Status (as of 5/8/24)**
+* OCTO: TBD
+* VBA: TBD
+* Design: TBD
+* Collab Cycle: TBD
+* CAIA: TBD
+* Development: TBD
+  
 **`TO BE ADDRESSED / BLOCKERS:`**
 * LH ITF API is updated to accept a date variable that enables pension app to create new ITFs using a start date that's adjacent to an expired ITF.
 * Agree on what durations are 'reasonable'
