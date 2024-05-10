@@ -1,5 +1,5 @@
 # SPRINT GOALS
-🟦 ENG 🟨 RE 🟥 DE 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
+🟦 ENG 🟨 RE 🟥 DE 🟪 PM 🟩 Analytics ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
 
 <details>
 <summary>FUTURE SPRINT - 5/15/2024 - 5/28/2024 </summary>
@@ -9,6 +9,7 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
+    - **Sub Goal: [Feature] Create KPIs**
 
 
 
@@ -19,7 +20,9 @@ ________________________________________________________________________________
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [[Research] Socialize research plan and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82836)
-         - 
+    - **Sub Goal: [Feature] Create KPIs**
+         - 🟩 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894) 
+
    
 </details>
 ______________________________________________________________________________________________________________________________________________________
