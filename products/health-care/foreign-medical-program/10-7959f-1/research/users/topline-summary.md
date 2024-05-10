@@ -1,7 +1,7 @@
 # **10-7959f-1 Content and FMP Experience Topline Summary**
 
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Research%20Plan.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md))
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Conversation%20Guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/conversation-guide.md))
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/conversation-guide.md)
 - [Transcripts](https://dvagov.sharepoint.com/:f:/r/sites/vaivc/Shared%20Documents/Forms%20Modernization/10-7959f-1%20(FMP%20registration)/Research/Scrubbed%20Transcripts?csf=1&web=1&e=8SZOSM)
 
 
