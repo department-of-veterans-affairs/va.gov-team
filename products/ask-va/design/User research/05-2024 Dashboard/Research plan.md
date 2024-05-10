@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 8, 2024
+Last updated by @tygindraux: May 10, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -89,27 +89,23 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 
 We will present a scenario where the submitter has asked VA a question and is ready to check if they have a reply.
 
-We will let submitters **choose whether to sign in or not without guidance**. If they don't choose to sign in up front, they'll be prompted by a modal or alert to sign in after they choose their category and topic. In this scenario, they will need to sign in to continue. We will pre-fill certain parts of the form with mock data.
-
-These are the main components and/or pages, we're testing:
-- Progress bar
-- Homepage (Unauthenticated)
-- Dashboard without cards
-- Sign in interruption
+These are the main features we're testing:
+- Check the status of your question (Unauthenticated)
+- Find a question in your dashboard (Authenticated)
+- Check question details (Authenticated)
 
 ### Research materials
 
 * [Conversation guide](add link)
-* [Mobile prototype](add link)
-* [Desktop prototype](add link)
+* Prototypes
+  * [Mobile prototype](add link)
+  * [Desktop prototype](add link)
 
-## Recruitment	
-
-This section has **not** been updated yet FYI.
+## Recruitment
 
 ### Recruitment approach
 
-We will work with Perigean to recruit Veterans for this research.
+We will work with Perigean to recruit Veterans and with the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
 
 ### Recruitment criteria
 
