@@ -109,9 +109,7 @@ We will work with Perigean to recruit Veterans.
 
 We will also work the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
 
-### Recruitment criteria
-
-#### Veterans
+### Recruitment criteria – Veterans
 
 We will recruit 10 Veterans for a total of 7-8 completed sessions.
 
@@ -142,6 +140,16 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no]
 4. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet. [Yes, no]
 5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. [Yes, no]
+
+### Recruitment criteria – Business submitters
+
+We will recruit 5 business submitters for a total of 5 completed sessions.
+
+|# of participants|Criteria|
+|:--|:--|
+|Exactly 10|Have submitted an Ask VA inquiry in a business role|
+|Exactly 5|Are willing to join from the device they usually use at work|
+|At least 1|Is also a Veteran, who may submit an Ask VA inquiry in a personal capacity|
 
 ## Timeline
 
