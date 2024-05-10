@@ -222,35 +222,35 @@ Some of the users explained to us that they were not interacting with FMP direct
 
 
 
-1. **Recommendation 1: Provide Veterans with more self-service or automated outlets to receive the status of their interactions with the VA, information about the program, and how to communicate.**
-    * It can take 3-6 months before Veterans hear anything about their claim or receive a check, and they only receive that communication if they reach out to the VA.
-    * Consider allowing Veterans to access information on the status of their claims and registration through MyHealtheVet - some expect to look there anyway.
-    * Implement email, phone calls, and/or text notifications when Veterans’ claims and registrations have been received or move on to a new stage of processing.
-2. **Recommendation 2: Continue exploring options to expedite processing and working closely with stakeholders to ensure the digitization effort is utilized to the fullest extent possible to improve the overall experience.**
-    * Notably, the only participant with FMP benefits who didn’t express this frustration receives all their care at HCA (explored in Additional Insight 3), and HCA handles all of the care and payments for them. That participant said that if they moved somewhere where HCA wasn’t available to them, they wouldn’t know how to go about using FMP.
-    * When Veterans submit their own claims, they feel they must be very meticulous in their documentation to make sure their claim is paid. Reimbursement for medication can also be difficult because many overseas pharmacies don’t provide the information that the VA requires to process the claim. This can lead to Veterans giving up entirely on reimbursement in those scenarios.
-    * Mailing delays are built into Veterans’ expectations about reimbursement timeframes, but they are still frustrated by the turnaround time. Some Veterans have reimbursement checks sent to their foreign addresses, but mail can be unreliable and take months to arrive. Others have their checks sent to friends or family members based in the US, who send the Veterans photos of the checks so the Veteran can cash them.
-    * Consider some of the recommended content and flow changes to the form that help make claim requirements clearer and immediately available when the veteran interacts with the form.
-3. **Recommendation 3: Communicate findings and scenarios with stakeholders, continue moving the form in a Veteran-centric direction, and help the business understand the dynamics of the user experience with FMP as it pertains to providers so that they can take appropriate action.**
-    * One additional participant mentioned they wished they could find providers that would do so.
-    * The participants who interacted with providers to register for the program and handle claims seemed to have a much more favorable impression of the program overall. This is likely due to the additional burden of filing and the risk of lengthy reimbursement time being taken on by these providers.
-4. **Recommendation 4: Move forward with content improvements to the form and flow that will help to better inform users about the FMP. Look for opportunities in the VA.gov ecosystem that provide additional outlets to share information about FMP and connect other potential touchpoints to that information when the Veteran encounters them.**
-    * Frustrations were expressed concerning the misunderstandings about program benefits and eligibility, often leading to scenarios where the Veteran decided to stop pursuing care or never attempted to in the first place. The perceived lack of communication from the FMP exacerbated these problems.
-    * When Veterans register themselves, they don’t know how long it will take to hear back. One participant based in the UK mentioned that they tried to register for FMP in 2020 but never heard back. They are unsure if they have FMP benefits, but they haven’t pursued them because they receive care on a nearby base.
-    * Consider changes to the content page to outline the FMP benefits more concisely.
-    * Consider adding content about FMP’s coverage and exceptions when working on the claims form.
-5. **Recommendation 5: Provide clarification around what addresses and phone numbers will be used for.**
-    * Veterans understood that a home address was their current residence and a mailing address was where they wanted to receive mail - for FMP, specifically, their reimbursement checks.
-    * Veterans mentioned having at least two mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. They wouldn’t know how to go back and retrieve their submitted form.
-    * Some Veterans mentioned having at least two different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. They wouldn’t know how to go back and retrieve their submitted form.
-6. **Form improvements**
-    * Explain what the VA will use phone number, address, and email address for so users are able choose the right ones for them; many Veterans overseas have more than one of each.
-    * Add helper text to the VA file number field explaining what it is and who has one. This will reduce confusion for Veterans who do not have VA file number.
-    * On the review page, expand all the accordions or just lay out all the information on one page with no accordions.
-    * Continue allowing users to edit in-line on the review page.
-    * Add country code to the phone number, and remove limits on the number of numbers and the format.
-    * If possible, customize addresses for each country or include extra lines for foreign  countries.
-    * Add copy explaining that information input on the FMP forms will only affect their information with the FMP, and not the VA at large.
+**Recommendation 1: Provide Veterans with more self-service or automated outlets to receive the status of their interactions with the VA, information about the program, and how to communicate.**
+   * It can take 3-6 months before Veterans hear anything about their claim or receive a check, and they only receive that communication if they reach out to the VA.
+   * Consider allowing Veterans to access information on the status of their claims and registration through MyHealtheVet - some expect to look there anyway.
+   * Implement email, phone calls, and/or text notifications when Veterans’ claims and registrations have been received or move on to a new stage of processing.
+**Recommendation 2: Continue exploring options to expedite processing and working closely with stakeholders to ensure the digitization effort is utilized to the fullest extent possible to improve the overall experience.**
+   * Notably, the only participant with FMP benefits who didn’t express this frustration receives all their care at HCA (explored in Additional Insight 3), and HCA handles all of the care and payments for them. That participant said that if they moved somewhere where HCA wasn’t available to them, they wouldn’t know how to go about using FMP.
+   * When Veterans submit their own claims, they feel they must be very meticulous in their documentation to make sure their claim is paid. Reimbursement for medication can also be difficult because many overseas pharmacies don’t provide the information that the VA requires to process the claim. This can lead to Veterans giving up entirely on reimbursement in those scenarios.
+   * Mailing delays are built into Veterans’ expectations about reimbursement timeframes, but they are still frustrated by the turnaround time. Some Veterans have reimbursement checks sent to their foreign addresses, but mail can be unreliable and take months to arrive. Others have their checks sent to friends or family members based in the US, who send the Veterans photos of the checks so the Veteran can cash them.
+   * Consider some of the recommended content and flow changes to the form that help make claim requirements clearer and immediately available when the veteran interacts with the form.
+**Recommendation 3: Communicate findings and scenarios with stakeholders, continue moving the form in a Veteran-centric direction, and help the business understand the dynamics of the user experience with FMP as it pertains to providers so that they can take appropriate action.**
+   * One additional participant mentioned they wished they could find providers that would do so.
+   * The participants who interacted with providers to register for the program and handle claims seemed to have a much more favorable impression of the program overall. This is likely due to the additional burden of filing and the risk of lengthy reimbursement time being taken on by these providers.
+**Recommendation 4: Move forward with content improvements to the form and flow that will help to better inform users about the FMP. Look for opportunities in the VA.gov ecosystem that provide additional outlets to share information about FMP and connect other potential touchpoints to that information when the Veteran encounters them.**
+   * Frustrations were expressed concerning the misunderstandings about program benefits and eligibility, often leading to scenarios where the Veteran decided to stop pursuing care or never attempted to in the first place. The perceived lack of communication from the FMP exacerbated these problems.
+   * When Veterans register themselves, they don’t know how long it will take to hear back. One participant based in the UK mentioned that they tried to register for FMP in 2020 but never heard back. They are unsure if they have FMP benefits, but they haven’t pursued them because they receive care on a nearby base.
+   * Consider changes to the content page to outline the FMP benefits more concisely.
+   * Consider adding content about FMP’s coverage and exceptions when working on the claims form.
+**Recommendation 5: Provide clarification around what addresses and phone numbers will be used for.**
+   * Veterans understood that a home address was their current residence and a mailing address was where they wanted to receive mail - for FMP, specifically, their reimbursement checks.
+   * Veterans mentioned having at least two mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. They wouldn’t know how to go back and retrieve their submitted form.
+   * Some Veterans mentioned having at least two different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. They wouldn’t know how to go back and retrieve their submitted form.
+**Form improvements**
+   * Explain what the VA will use phone number, address, and email address for so users are able choose the right ones for them; many Veterans overseas have more than one of each.
+   * Add helper text to the VA file number field explaining what it is and who has one. This will reduce confusion for Veterans who do not have VA file number.
+   * On the review page, expand all the accordions or just lay out all the information on one page with no accordions.
+   * Continue allowing users to edit in-line on the review page.
+   * Add country code to the phone number, and remove limits on the number of numbers and the format.
+   * If possible, customize addresses for each country or include extra lines for foreign  countries.
+   * Add copy explaining that information input on the FMP forms will only affect their information with the FMP, and not the VA at large.
 
 
 ## **Next Steps**
