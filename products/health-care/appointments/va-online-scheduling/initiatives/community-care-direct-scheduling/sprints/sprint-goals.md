@@ -7,22 +7,20 @@ ________________________________________________________________________________
 
 ## SPRINT 7 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
 
-- **GOAL: 3**
-    - **Sub Goal: 3a**
+
 
 #### PLANNED RELEASES 
 - NONE
 
 #### SPRINT TICKETS
-- **GOAL: 1**
-    - ❗🟦🟩 example: [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
-    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
-    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-        - ❗🟥 [[Design] Identify list of error pages we need](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81775)
-- **GOAL: 2**
-    - **Sub Goal: Discovery - 2a**
-        - ❗ TBD
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+         - 🟨 [[Research] Socialize research plan and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82836)
+         - 
+   
 </details>
 ______________________________________________________________________________________________________________________________________________________
 
