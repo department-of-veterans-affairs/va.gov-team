@@ -256,7 +256,7 @@ There are a few things I'd like to mention:
     * If they can’t download successfully, end session.
 * Ok, tap Open to open the app.
     * Tap the Next button, then tap Start Testing.
-    * Participant will be on Sign In screen—**confirm that version number at bottom of the screen is iOS=2.27.1 (1642), Android=2.27.0 (1575)** If it’s not, try again to get the build installed.
+    * Participant will be on Sign In screen
 * Now I’m going to guide you quickly through the first couple of screens to get you where you need to be for our conversation today. 
 * Log in: First, we’ll need you to log into the app with the option you prefer (Login.gov, ID.me or My HealtheVet) using your username and password.
     * If they can’t log in successfully, end session.
