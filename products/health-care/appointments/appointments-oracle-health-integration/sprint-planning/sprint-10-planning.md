@@ -31,7 +31,7 @@ In Sprint 9, the team provided support for multiple features and initiatives, ou
 
 
 ## 🏆 Sprint Goals and Stories
-🚧 rolled from previous sprint;🐞bug; 🚫 blocked
+🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
   * [#82556 CES-460:CFA: Implement Patient/$relationships operation](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82556)
   * [#82548 CES-457 CES: Use mobile-mvi-service cache-control headers to retrieve cached patient identifiers](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82548)
@@ -45,7 +45,9 @@ In Sprint 9, the team provided support for multiple features and initiatives, ou
 * 🟩 🟦 SUB-GOAL Eligibility
   * 🚧 [#81431 CES-423 CES: Determine patient Appointment eligibility at OH facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81431)
 * 🔴 Appointment Cancellation
-  * 🚧 [#81438 ces-312: VPG: Allow cancellation of non-VAOS care types](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81438) 
+  * 🚧 [#81438 ces-312: VPG: Allow cancellation of non-VAOS care types](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81438)
+  * 🧗‍♀️ [#82886 Testing cancellations](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82886)
+  * 🧗‍♀️🐞[#82750 Bug: PATCH cancellations sent to VPG have no request body](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82750)
   
 ## ✈️ Planned Releases
 None
