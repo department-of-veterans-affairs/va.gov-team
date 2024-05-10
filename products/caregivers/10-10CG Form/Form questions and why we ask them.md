@@ -3,6 +3,8 @@
 
 Below is a chart of all the 10-10CG form questions, why we ask them and a resource for the information (notes, Mural, Stakeholder name, etc), if available.  This can be updated by anyone at anytime when a reason is provided or a field is being removed or added.
 
+---
+
 <details>
   <Summary>Veteran Info</Summary>
 
@@ -69,7 +71,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 </details>
 
 <details>
-  <Summary>Primary Cargiver Home address/Summary>
+  <Summary>Primary Caregiver Home address</Summary>
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
@@ -120,7 +122,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 </details>
 
 <details>
-  <Summary>Secondary Caregiver Home address/Summary>
+  <Summary>Secondary Caregiver Home address</Summary>
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
@@ -169,5 +171,6 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 |Review & Agree| I certify the information above is correct and true to the best of my knowledge and belief.|Y|**TBD** | **TBD**|
 |Signature|Secondary Family Caregiver (2) applicant’s full name|Y|e-signature is required for the document |**TBD**
 |Review & Agree| I certify the information above is correct and true to the best of my knowledge and belief.|Y|**TBD** | **TBD**|
+
 </details>
 
