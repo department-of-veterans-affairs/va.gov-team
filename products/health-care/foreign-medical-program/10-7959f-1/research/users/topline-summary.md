@@ -2,7 +2,7 @@
 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Research%20Plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Conversation%20Guide.md)
-- Transcripts (WIP)
+- [Transcripts](https://dvagov.sharepoint.com/:f:/r/sites/vaivc/Shared%20Documents/Forms%20Modernization/10-7959f-1%20(FMP%20registration)/Research/Scrubbed%20Transcripts?csf=1&web=1&e=8SZOSM)
 
 
 ## **Initial Findings**
