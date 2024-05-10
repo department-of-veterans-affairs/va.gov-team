@@ -3,6 +3,8 @@
 
 Below is a chart of all the 10-10EZ form questions, why we ask them and a resource for the information (notes, Mural, Stakeholder name, etc), if available.  This can be updated by anyone at anytime when a reason is provided or a field is being removed or added.
 
+---
+
 <details>
   <Summary>Veteran Info</Summary>
 
