@@ -5,7 +5,7 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 
 |10-10EZ Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------|---------------|-----------------|
-| First Name | Y | We need to know the Veteran's name for ID verification| Seems obvious? |
+| **Veteran** First Name | Y | We need to know the Veteran's name for ID verification| Seems obvious? |
 | Middle Name | N | Assists with differentiating from other Veterans with similar first & last names | Seems obvious? |
 | Last Name | Y | We need to know the Veteran's name | Seems obvious? |
 | Suffix | N | Assists with differentiating from other Veterans with similar names | Seems obvious? |
@@ -35,14 +35,14 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Email Address | N | We will use email as another means of communication, especially for application submission statuses (success & failure)| **TBD**|
 |Home telephone number | N | We will use home phone as another means of communication | **TBD**|
 |Mobile telephone number | N | We will use mobile phone as another means of communication | **TBD**|
-|Do you recive VA disability compensation?| Y | Determine Short form flow, benefits eligibility/priority group, copays | **TBD**|
+|**Compensation** Do you recive VA disability compensation?| Y | Determine Short form flow, benefits eligibility/priority group, copays | **TBD**|
 |Do you receive a Veterans pension from the VA?| Y | Determine benefits eligibility/priority group, copays | **TBD**|
-|Last branch of service | Y | **TBD** | **TBD** |
+|**Svc History** Last branch of service | Y | **TBD** | **TBD** |
 |Service start date | Y | **TBD** | **TBD** |
 |Service end date | Y | **TBD** | **TBD** |
 |Character of service | Y | **TBD** | **TBD** |
 |Service History (check boxes) | N | Determine benefits eligibility/priority group, copays | **TBD**|
-|Do you want to answer questions about your military service history and exposure to any toxins or other hazards?| Y | Determine benefits eligibility/priority group, copays | **TBD**|
+|**TERA** Do you want to answer questions about your military service history and exposure to any toxins or other hazards?| Y | Determine benefits eligibility/priority group, copays | **TBD**|
 |Did you take part in any of these cleanup or response efforts | N | Determine benefits eligibility/priority group, copays | **TBD**|
 |Did you serve in any of these Gulf War locations?| N | Determine benefits eligibility/priority group, copays | **TBD**|
 |(GW Locations) Service start date| N | Determine benefits eligibility/priority group, copays | **TBD**|
@@ -53,8 +53,8 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Enter any toxins or hazards you’ve been exposed to | N | Determine benefits eligibility/priority group, copays | **TBD**|
 |(Other toxins) Exposure start date |N | Determine benefits eligibility/priority group, copays | **TBD**|
 |(Other toxins) Exposure end date |N | Determine benefits eligibility/priority group, copays | **TBD**|
-|Upload your discharge papers | N | Helps staff to verify military service and speed up application process | **TBD**|
-
+|**Upload** Upload your discharge papers | N | Helps staff to verify military service and speed up application process | **TBD**|
+|**Household** Do you want to share your household financial information?|Y|Determine benefits eligibility/priority group, copays | **TBD**|
 
 
 
