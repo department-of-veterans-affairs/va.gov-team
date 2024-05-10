@@ -1,5 +1,9 @@
 # Content decision log - Personalization
-We started this decision log as of December 2023. We'll continue to update content decisions moving forward.
+One of the goals of personalization is to surface a Veteran's most important VA interactions on the Home screen. In the absence of robust notifications, this reduces the need for Veterans to tap further down into the mobile app for valuable information, such as if they have prescriptions ready to refill.
+
+It's important to remember that the mobile app is an authenticated experience and shows data that's only relevant to the Veteran. For example, content explaining that data from My VA Health portal isn't integrated into the app is only shown to Veterans associated with Cerner/Oracle facilities (i.e., content is dynamic).
+
+Below is a log of decisions made related to content for this project.
 
 | Content need                 | Decision         | Explanation        | Decision made by | Date                 |
 | :-------------              | :-------------              |:-------------         |:-------------         |:-------------|
