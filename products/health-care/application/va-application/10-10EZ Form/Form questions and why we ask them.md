@@ -55,6 +55,6 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Toxic Exposure|(Other toxins) Exposure end date |N | Determine benefits eligibility/priority group, copays | **TBD**|
 |File Upload|Upload your discharge papers | N | Helps staff to verify military service and speed up application process | **TBD**|
 |Household|Do you want to share your household financial information?|Y|Determine benefits eligibility/priority group, copays | **TBD**|
-|Household|Do you want to share your household financial information?|Y|Determine benefits eligibility/priority group, copays | **TBD**|
+|Household|What is your marital status?|Y|**TBD** | **TBD**|
 
 
