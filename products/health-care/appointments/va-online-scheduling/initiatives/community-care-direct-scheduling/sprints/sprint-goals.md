@@ -23,6 +23,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [[Research] Socialize research plan and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82836)
          - 🟥 TBD - Create prototype(s)
+         - 🟨 [[Research] Draft convo guide for research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82900)
     - **Sub Goal: [Feature] Create KPIs**
          - 🟩 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894) 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
