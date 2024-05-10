@@ -143,12 +143,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Recruitment criteria – Business submitters
 
-We will recruit 5 business submitters for a total of 5 completed sessions. They should join from the device the usually use when they submit Ask VA inquiries.
+We will recruit 5 business submitters for a total of 5 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
 
 |# of participants|Criteria|
 |:--|:--|
 |Exactly 5|Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran|
-|At least 3|Submit more than 2 Ask VA inquiries per month|
+|At least 3|Submit more than 5 Ask VA inquiries per month|
 |At least 1|Is also a Veteran, who may submit an Ask VA inquiry in a personal capacity|
 
 ## Timeline
@@ -157,54 +157,52 @@ This section has **not** been updated yet FYI.
 
 |Date|Milestone|
 |:--|:--|
-|Friday, April 12|Research review|
-|Friday, April 12|Mobile prototypes are ready|
-|Tuesday, April 16|Desktop prototypes are ready|
-|Thursday, April 17|Pilot session|
-|Tuesday, April 23 - Friday, April 26|Research sessions|
-|April 30|CAIA screen magnification pilot|
-|Monday, April 29 - Tuesday, April 30|Analysis|
-|Wednesday, May 1 - Thursday, May 2|Synthesis|
-|From Friday, May 3|Discuss recommendations|
-|From Tuesday, May 7|Share findings and recommendations|
+|Friday, May 17|Research review|
+|Friday, May 17|Desktop prototype is ready|
+|Tuesday, May 21|Mobile prototype is ready|
+|Thursday, May 23|Pilot session|
+|Monday, June 3-Friday, June 7|Research sessions|
+|Monday, June 8-Wednesday, June 10|Analysis|
+|Tuesday, June 25-Thursday, June 27|Synthesis|
+|From May 1|Discuss findings and recommendations|
+|From May 8|Share findings and recommendations|
 
 ## Pilot sessions
-
-This section has **not** been updated yet FYI.
 
 Perigean does **not** need to set up our pilot sessions. Tyler will schedule and add participants herself.
 
 ### Pilot
 
-- Pilot participant: Anton from Oddball
-- Date and time of pilot session: April 17 at 12pm EST
+- Pilot participant: TBD
+- Date and time of pilot session: TBD
 
 ## Research sessions
 
-This section has **not** been updated yet FYI.
-
 - Length of sessions: 1 hour
 - Buffer between sessions: 30 minutes
-- Maximum sessions per day: 4 sessions
+- Maximum sessions per day: 3 sessions
 
 ### Availability
 
-We will provide 20 time slots, with the aim to book 10 sessions.
+We will provide 20 time slots, with the aim to book 10 sessions. 
+
+These time slots are for Perigean. We will schedule sessions with business submitters separately (ourselves).
 
 **We’d also like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. Please include the session time in each participant's respective time zone (from their address).**
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday, April 23|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
-|Wednesday, April 24|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
-|Thursday, April 25|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
-|Friday, April 26|9-10am, 10:30am-11:30am, 12-1pm, 2-3pm, 3:30-4:30pm|
+|Monday, June 3|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Tuesday, June 4|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Wednesday, June 5|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Thursday, June 6|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Friday, June 7|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
 
 ## Team roles
 
 * Moderator: Tyler Gindraux (tyler@bluetiger.digital)
 * Research guide writing and task development: Tyler Gindraux
-* Participant recruiting & screening: Perigean
+* Participant recruiting & screening: Perigean (Veterans) and GI Bill team (business submitters)
 * Project point of contact: Tyler Gindraux
 * Participant for pilot test: TBD (Tyler will add to pilot session herself.)
 * Accessibility specialist:
