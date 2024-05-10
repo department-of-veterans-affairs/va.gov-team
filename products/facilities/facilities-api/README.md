@@ -1,4 +1,5 @@
 # Facilities API
+Last updated: May 10, 2024
 
 ## Code
 https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api
