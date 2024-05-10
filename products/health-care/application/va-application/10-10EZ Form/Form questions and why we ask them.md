@@ -55,6 +55,52 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Toxic Exposure|(Other toxins) Exposure end date |N | Determine benefits eligibility/priority group, copays | **TBD**|
 |File Upload|Upload your discharge papers | N | Helps staff to verify military service and speed up application process | **TBD**|
 |Household|Do you want to share your household financial information?|Y|Determine benefits eligibility/priority group, copays | **TBD**|
-|Household|What is your marital status?|Y|**TBD** | **TBD**|
+|Household-Spouse| First name|Y|**TBD** | **TBD**|
+|Household-Spouse| Middle name|N|**TBD** | **TBD**|
+|Household-Spouse| Last name|Y|**TBD** | **TBD**|
+|Household-Spouse| suffix|N|**TBD** | **TBD**|
+|Household-Spouse| Date of birth|Y|**TBD** | **TBD**|
+|Household-Spouse| Date of marriage|Y|**TBD** | **TBD**|
+|Household-Spouse|Did you live with your spouse for all or part of 2023?|Y|Determine whether the Spouse is a dependent in the previous year, which can have an impact on income thresholds and copays | **TBD**|
+|Household-Spouse|Do you currently have the same address as your spouse?|Y|Determine whether the Spouse is a dependent in the previous year, which can have an impact on income thresholds and copays | **TBD**|
+|Household-Spouse|Did you provide financial support to your spouse in 2023 even though you didn’t live together?|Y|Determine whether the Spouse is a dependent in the previous year, which can have an impact on income thresholds and copays | **TBD**|
+|Household-Spouse|Country | Y | To send decision letters, enrollment handbook and any other important health related information| **TBD**
+|Household-Spouse| Street Address | Y | **TBD** | **TBD**|
+|Household-Spouse| Street Address Line 2 | N | **TBD** | **TBD**|
+|Household-Spouse| Street Address Line 3 | N | **TBD** | **TBD**|
+|Household-Spouse| City | Y | **TBD** | **TBD**|
+|Household-Spouse| State/Province/Region | Y | **TBD** | **TBD**|
+|Household-Spouse| Postal Code | Y | **TBD** | **TBD**|
+|Household-Spouse| Phone number | Y | **TBD** | **TBD**|
+|Household-Dependent| Do you have any dependents to report? | Y | **TBD** | **TBD**|
+|Household-Dependent| First name|Y|**TBD** | **TBD**|
+|Household-Dependent| Middle name|N|**TBD** | **TBD**|
+|Household-Dependent| Last name|Y|**TBD** | **TBD**|
+|Household-Dependent| suffix|N|**TBD** | **TBD**|
+|Household-Dependent| What is the dependent’s relationship to you?|Y|**TBD** | **TBD**|
+|Household-Dependent| Social Security Number|Y|**TBD** | **TBD**|
+|Household-Dependent| Date of birth|Y|**TBD** | **TBD**|
+|Household-Dependent| When did they become your dependent?|Y|**TBD** | **TBD**|
+|Household-Dependent| Is your dependent living with a permanent disability that happened before they turned 18 years old?|Y|**TBD** | **TBD**|
+|Household-Dependent| Did your dependent live with you in 2023?|Y|**TBD** | **TBD**|
+|Household-Dependent| Did your dependent earn income in 2023?|Y|**TBD** | **TBD**|
+|Household-Dependent| If your dependent didn’t live with you in 2023, did you provide any financial support?|N|**TBD** | **TBD**|
+|Household-Dependent Income| Enter your dependent’s gross annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Dependent Income| Enter your dependent’s net annual income from a farm, ranch, property or business from 2023|Y|**TBD** | **TBD**|
+|Household-Dependent Income| Enter your dependent’s other annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Dependent| Do you have another dependent to report?|Y|**TBD** | **TBD**|
+|Household-Veteran Income| Enter your gross annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Veteran Income| Enter your net annual income from a farm, ranch, property or business from 2023|Y|**TBD** | **TBD**|
+|Household-Veteran Income| Enter your other annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Spouse Income| Enter your gross annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Spouse Income| Enter your net annual income from a farm, ranch, property or business from 2023|Y|**TBD** | **TBD**|
+|Household-Spouse Income| Enter your other annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Deductibles| Enter the amount you or your spouse (if you’re married) paid in non-reimbursable medical expenses in 2023|Y|**TBD** | **TBD**|
+|Household-Deductibles| Enter the amount you paid for your own college or vocational education in 2023|Y|**TBD** | **TBD**|
+|Household-Deductibles| Enter the amount you paid in funeral or burial expenses in 2023|Y|**TBD** | **TBD**|
+
+
+
+
 
 
