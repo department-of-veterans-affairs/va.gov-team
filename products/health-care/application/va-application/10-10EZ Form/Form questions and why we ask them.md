@@ -88,6 +88,8 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Household-Dependent Income| Enter your dependent’s gross annual income from 2023|Y|**TBD** | **TBD**|
 |Household-Dependent Income| Enter your dependent’s net annual income from a farm, ranch, property or business from 2023|Y|**TBD** | **TBD**|
 |Household-Dependent Income| Enter your dependent’s other annual income from 2023|Y|**TBD** | **TBD**|
+|Household-Dependent Education expense| If your dependent is between 18 and 23 years old, were they enrolled as a full-time or part-time student in 2023?|N|**TBD** | **TBD**|
+|Household-Dependent Education expense| Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, books, or supplies)|N|**TBD** | **TBD**|
 |Household-Dependent| Do you have another dependent to report?|Y|**TBD** | **TBD**|
 |Household-Veteran Income| Enter your gross annual income from 2023|Y|**TBD** | **TBD**|
 |Household-Veteran Income| Enter your net annual income from a farm, ranch, property or business from 2023|Y|**TBD** | **TBD**|
@@ -98,7 +100,20 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Household-Deductibles| Enter the amount you or your spouse (if you’re married) paid in non-reimbursable medical expenses in 2023|Y|**TBD** | **TBD**|
 |Household-Deductibles| Enter the amount you paid for your own college or vocational education in 2023|Y|**TBD** | **TBD**|
 |Household-Deductibles| Enter the amount you paid in funeral or burial expenses in 2023|Y|**TBD** | **TBD**|
-
+|Insurance| Are you eligible for Medicaid?|Y|**TBD** | **TBD**|
+|Insurance| Are you enrolled in Medicare Part A (hospital insurance)?|Y|**TBD** | **TBD**|
+|Insurance|What is your Medicare Part A effective date?|Y|**TBD** | **TBD**|
+|Insurance| What is your Medicare claim number?|Y|**TBD** | **TBD**|
+|Insurance| Do you have health insurance coverage?|Y|**TBD** | **TBD**|
+|Insurance| Name of insurance provider|Y|**TBD** | **TBD**|
+|Insurance| Name of policyholder (the person whose name the policy is in)|Y|**TBD** | **TBD**|
+|Insurance| Policy Number|Y|**TBD** | **TBD**|
+|Insurance| Group Code|Y|**TBD** | **TBD**|
+|Preferred Facility| I’m enrolling to get minimum essential coverage under the Affordable Care Act. (check box)|N|**TBD** | **TBD**|
+|Preferred Facility| State (select)|Y|**TBD** | **TBD**|
+|Preferred Facility| Center or Clinic (select) |Y|**TBD** | **TBD**|
+|Preferred Facility| Do you want VA to contact you to schedule your first appointment? |N|**TBD** | **TBD**|
+|Review & Agree| I confirm that I agree to the statements listed here. The information is true and correct to the best of my knowledge and belief. I’ve read and accept the privacy policy.|Y|**TBD** | **TBD**|
 
 
 
