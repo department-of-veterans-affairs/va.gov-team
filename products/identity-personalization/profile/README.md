@@ -102,14 +102,6 @@ We don’t want the profile to become such a de facto place for Veteran informat
 
 Current projects are actively managed in the AE Profile Github project, the chart below is not as actively managed. See [this page of the project for the roadmap by phase](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/39), or see [this page for a classic gantt chart roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/926/views/10). 
 
-|Project|Status|
-|----|----|
-|Alert Consistency|Discovery|
-|Enhanced Military Information|Design Intent (1/5/2024)/Dev|
-|MHV Migration / Email as a Channel|Dev|  
-|Maintenance Period Alerts|Dev|
-|USWDS V3 Component Updates (technical debt)|Dev|
-|Migrate to Figma (design technical debt)|Dev|
 
 
 ### Completed projects & enhancements
