@@ -27,33 +27,17 @@ Veterans will be able to complete the paper form equivalent of Section IV; quest
 - 15d: "Have you been exposed to any of the following?" and;
 - 15e: "If you were exposed multuiple times, please provide all additional dates and locations of potential exposure."
 
-We aim to make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov. We expect this change to increase the number of TE claims filed, increase Veteran self-service, reduce the Veteran Service Operator (VSO) burden, and reduce the number of errors or issues that result from filing the TE paper claim.
+We aim to make it easy for Veterans to file disability compensation claims resulting from the PACT Act via va.gov. 
 
-We expect this change to
-improve parity between the online form and the paper form by adding Section IV (i.e. Toxic Exposure)
-Reduce the number of letters sent to Veterans with requests for more information
-Help VSRs/RVSRs with claims processing
-
-(/submit migration)
-Reduce submission errors
-% that use normal vs. backup vs. failsafe path
-
-Other
-maintain or reduce abandonment rates
-
-
-online form is up-to-date with the most recent version of the forms
-weeks/months to be up to date with the paper form
-Veterans can provide all the relevant information
-less likely receive letters asking them for more information
-help VSRs/RVSRs with claims processing.
-
-general metrics
-% that use normal vs. backup vs. failsafe path
-Submissions error percentage
-
-
-
+We expect this change to:
+- Bring the online 526 form into compliance by being up to date with the 2022 paper form
+- Reduce the number of letters sent to Veterans with requests for more information
+- Reduce the amount of time to determine if the applicant is elegible for presumptive service connection based on toxic exposure
+- Mantain or reduce abandonment rates
+- Sucessfully migrate 526 submission infrastructure off EVSS
+- Reduce or maintain existing submission errors
+- Maintain % of submissions that use normal path
+- Maintain or reduce uses of backup and failsafe path
 
 Release plan user flow (coming soon).
 
