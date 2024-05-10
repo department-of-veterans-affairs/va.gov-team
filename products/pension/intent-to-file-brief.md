@@ -36,7 +36,7 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 * A standalone ITF web form is in the works - [Figma](https://www.figma.com/file/EFJLJ7W4yBbujH1yVD122s/WIP---21-0966---Intent-to-file?type=design&node-id=0%3A59&mode=design&t=NhvhdjCE7qtCMbOH-1), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689261093555/6c03d0c5d9d3f5ee875295e6ee444c3420f9ad3b?wid=0-1705943457925&sender=u8c3a54d4503675214e055918)
 
 # Solution Approaches
-## V1.0 - Introduce ITF functionality to pension form
+## V1 - Introduce ITF functionality to pension form
 ### Integrate intent to file functionality with the 527EZ application on VA.com that is only available to authenticated users.
   
 **Status (as of 5/8/24)**
@@ -71,7 +71,7 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 
 
 
-## V1.x - Include dates in PDF as a backup (TBC)
+## V2 - Include dates in PDF as a backup (TBC)
 ### Writing ITF or application start date to PDF as supplementary information for VSRs to aid in processing pension applications
 This will replace the submission date currently included in the PDF footer.
 
@@ -94,7 +94,7 @@ This will replace the submission date currently included in the PDF footer.
 
 
 
-## V1.x - Extending the validity period of an in-progress form and/or ITF (TBC)
+## V3 - Extending the validity period of an in-progress form and/or ITF (TBC)
 ### Manage expiration dates in a way that:
 * Helps Veterans to recieve backdated pensions benefits based on when they started an application, within 'reasonable' time limits 
 * Doesn't confuse Veterans using the form
@@ -130,7 +130,7 @@ This will replace the submission date currently included in the PDF footer.
 
 
 
-## V1.x - Renew ITF using past dates (TBC)
+## V4 - Renew ITF using past dates (TBC)
 ### When a user has logged in and a prior ITF has expired and a reasonable time has lapsed, establish a new backdated ITF that's reasonable.
 
 **Status (as of 5/8/24)**
