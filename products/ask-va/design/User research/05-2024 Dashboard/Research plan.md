@@ -87,7 +87,7 @@ Understand whether submitters can learn the status of their inquiry without sign
 
 This will be a moderated usability study conducted remotely over Zoom. We will use Figma prototypes with limited interactivity.
 
-We will present a scenario where the submitter has asked VA a question and is ready to check if they have a reply.
+We will present a scenario where the submitter has already asked VA a question and is ready to check if they have a reply.
 
 These are the main features we're testing:
 - Check the status of your question (Unauthenticated)
@@ -105,9 +105,13 @@ These are the main features we're testing:
 
 ### Recruitment approach
 
-We will work with Perigean to recruit Veterans and with the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
+We will work with Perigean to recruit Veterans.
+
+We will also work the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
 
 ### Recruitment criteria
+
+#### Veterans
 
 We will recruit 10 Veterans for a total of 7-8 completed sessions.
 
@@ -122,10 +126,14 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |Exactly 5|Are willing to join from a desktop device|
 |At least 5|Have a cognitive disability or consideration|
 |At least 5|Are over 55 years old|
-|At least 4|Identify as Black, Hispanic, Asian or Native|
+|At least 3|Identify Asian or Hispanic*|
+|At least 2|Identify as Black or Native|
 |At least 2|Identify as a gender other than male|
 |At least 2|Identify as LGBTQ+|
 |At least 2|Are rural|
+|At least 2|Don't have a degree|
+
+*We have specifically called out Asian or Hispanic demographics because we have not gotten participants from these demographics in our last two studies. We want to make sure we recruit these underserved Veterans.
 
 ### Screener questions
 
