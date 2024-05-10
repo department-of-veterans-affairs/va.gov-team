@@ -1,10 +1,10 @@
-# Product Outline: Certificate of (Loan) Eligibility (COE) (Form 26-1800)
+# Product Outline: Certificate of (Loan) Eligibility (COE) (Form 26-1880)
 <!--*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*-->
 
 The online COE form was released in 2023. See this [feature brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/feature-brief-COE-launch.md).
 
 ## Overview
-A COE is the first step in getting a VA-backed home loan or Native American Direct Loan. It confirms for the Veteran's lender that they qualify for the VA home loan benefit. The online COE 26-1800 form allows a Veteran to request a COE from the VA.
+A COE is the first step in getting a VA-backed home loan or Native American Direct Loan. It confirms for the Veteran's lender that they qualify for the VA home loan benefit. The online COE 26-1880 form allows a Veteran to request a COE from the VA.
 
 - [How to request a COE](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe/) 
 - [Online form tool](https://www.va.gov/housing-assistance/home-loans/request-coe-form-26-1880/introduction)
@@ -62,7 +62,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- [2024 Online 26-1800 Updates]()
+- [2024 Online 26-1880 Updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/initiative-brief-2004-COE-updates.md)
 
 ---
 
