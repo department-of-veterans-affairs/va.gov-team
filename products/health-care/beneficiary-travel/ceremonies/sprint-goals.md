@@ -4,7 +4,10 @@
 ### Goals
 * Engineering: Integrate claims status endpoint in staging
 * Engineering: Frontend test coverage >= 80%
-* UX: 
+* UX: Engage with CAIA over content changes to TP supporting pages
+* UX: Implement design changes based off user feedback and business response
+* UX: Finalize research report and housekeeping
+* UX: Conduct research for rollout
 
 ## 4/22/2024 - 5/3/2024
 ### Goals
