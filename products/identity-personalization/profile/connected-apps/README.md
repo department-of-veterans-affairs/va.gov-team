@@ -1,6 +1,6 @@
 # Connected Apps Product Outline
 
-**Last updated:** February 15, 2024
+**Last updated:** May 10, 2024 - added an additional slack channel
      
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 
 ## POCs
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps)
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); there are two private channels for connected apps, one that includes Lighthouse [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps), and a 'legacy' channel that does not include Lighthouse contacts [#connected_apps](https://dsva.slack.com/archives/C0136FJV5R9)
 - [The frontend for this feature is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 - The backend for this feature is maintained by the Lighthouse team, with POs being Dave Mazik and Carey Otto. They can be reached in Slack via [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps).
 
