@@ -245,7 +245,7 @@ There are a few things I'd like to mention:
 
 
 
-* Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [Android build](https://appdistribution.firebase.google.com/testerapps/1:226948484727:android:263dbb909e9849d1cd8072/releases/4lknvjol12fog)  [iOS build](https://testflight.apple.com/v1/app/1559609596?build=139797323) 
+* Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [Android build](https://appdistribution.firebase.google.com/testerapps/1:226948484727:android:263dbb909e9849d1cd8072/releases/4lknvjol12fog)  [iOS build](https://testflight.apple.com/join/65PnVx09) 
 * If Testflight is not installed:
     * Scroll to the first button that says “View in App Store”
     * Tap to Install Testflight
