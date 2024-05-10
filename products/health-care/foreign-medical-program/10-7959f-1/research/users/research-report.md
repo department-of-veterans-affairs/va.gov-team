@@ -244,13 +244,13 @@ Some of the users explained to us that they were not interacting with FMP direct
     * Veterans mentioned having at least two mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. They wouldn’t know how to go back and retrieve their submitted form.
     * Some Veterans mentioned having at least two different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. They wouldn’t know how to go back and retrieve their submitted form.
 6. **Form improvements**
-    18. Explain what the VA will use phone number, address, and email address for so users are able choose the right ones for them; many Veterans overseas have more than one of each.
-    19. Add helper text to the VA file number field explaining what it is and who has one. This will reduce confusion for Veterans who do not have VA file number.
-    20. On the review page, expand all the accordions or just lay out all the information on one page with no accordions.
-    21. Continue allowing users to edit in-line on the review page.
-    22. Add country code to the phone number, and remove limits on the number of numbers and the format.
-    23. If possible, customize addresses for each country or include extra lines for foreign  countries.
-    24. Add copy explaining that information input on the FMP forms will only affect their information with the FMP, and not the VA at large.
+    * Explain what the VA will use phone number, address, and email address for so users are able choose the right ones for them; many Veterans overseas have more than one of each.
+    * Add helper text to the VA file number field explaining what it is and who has one. This will reduce confusion for Veterans who do not have VA file number.
+    * On the review page, expand all the accordions or just lay out all the information on one page with no accordions.
+    * Continue allowing users to edit in-line on the review page.
+    * Add country code to the phone number, and remove limits on the number of numbers and the format.
+    * If possible, customize addresses for each country or include extra lines for foreign  countries.
+    * Add copy explaining that information input on the FMP forms will only affect their information with the FMP, and not the VA at large.
 
 
 ## **Next Steps**
