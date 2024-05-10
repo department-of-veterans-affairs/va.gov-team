@@ -468,14 +468,9 @@ Back button: Yes, `< Back to medical records`
   * Test name
      *  If specific test name not available, use test category such as Microbiology
   * Date
-     * Chem/Hem, Microbiology, Pathology: Date specimen was collected
+     * Chem/Hem, Microbiology, Pathology: Date and time collected
      * Imaging: Date imaging test was performed
-  * Test category
-     * Chemistry and hematology
-     * Pathology (if not used as test name)
-     * Microbiology (if not used as test name)
-     * X-ray and imaging results (Radiology)
-  * Provider who ordered the lab or test
+  * Chem/Hem, Microbiology: Provider who ordered the lab or test
 
 #### Functionality
 * List should be paginated, with 10 results per page
@@ -508,7 +503,6 @@ Back button: Yes, `< Back to lab and test results`
    * Date and time that the specimen for this test was collected
    * The location at which the specimen was collected
    * The provider who ordered the test
-   * The location of the provider who ordered the test
    * Site or sample tested
    * Comments entered by the lab
 * Information about understanding your results, presented within an additional info component
@@ -547,11 +541,10 @@ Back button: Yes, `< Back to lab and test results`
    * Date and time that the specimen for this test was collected
    * The location at which the specimen was collected
    * The provider who ordered the test
-   * The location of the provider who ordered the test
    * Site or sample tested
    * Collection sample - e.g. swab
    * Performing lab location - where the sample was tested/evaluated
-   * Date and time that the sample evaluation was completed
+   * Date that the sample evaluation was completed
    * The actual resulting microbiology report - presented in monospaced font to preserve spacing
    * Information about understanding your results, presented within an additional info component
 
@@ -583,7 +576,7 @@ Back button: Yes, `< Back to lab and test results`
    * Type of test - e.g. Surgical pathology _(backup for H1)_
    * Date and time that the specimen for this test was collected
    * Performing lab location - where the sample was tested/evaluated
-   * Date and time that the sample evaluation was completed
+   * Date that the sample evaluation was completed
    * The actual resulting pathology report - presented in monospaced font to preserve spacing
    * Information about understanding your results, presented within an additional info component
 
