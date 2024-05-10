@@ -41,7 +41,8 @@ Example:
               "uae": true,
               "turkey": true,
               "waters": true,
-              "airspace": true
+              "airspace": true,
+              "none": false
           },
           "gulfWar1990Details": {
             "iraq": {
@@ -61,7 +62,8 @@ Example:
               "lebanon": true,
               "uzbekistan": true,
               "yemen": true,
-              "airspace": true
+              "airspace": true,
+              "none": false
           },
           "gulfWar2001Details": {
              "airspace": {
@@ -120,7 +122,7 @@ Example:
       }
     }
 
-Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field. Note that secondary disabilities originally of type "SECONDARY" get changed to "NEW" by the FE's submit transformer and are mapped as primary disabilities by the backend.
+- Additionally, some information at the disability level must be carried over for mapping purposes later (in the `Form526ToLighthouseTransformer` class)- namely the `cause` field. Note that secondary disabilities originally of type "SECONDARY" get changed to "NEW" by the FE's submit transformer and are mapped as primary disabilities by the backend.
 
       "disabilities": [
         {
@@ -136,6 +138,8 @@ Additionally, some information at the disability level must be carried over for 
           "cause": "NEW"
         }
       ]
+
+- The `"none": false` field under gulfWar1900 and gulfWar2001 represent the "None of these" option from the front end. Presence of the `"none": true` field/value pair overrides any other location field/value pair in the collection and effectively renders this question on the form unchecked.
 
 # Questions/Action Items/Notes (from 4/11/24 internal review)
 
