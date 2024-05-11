@@ -92,7 +92,7 @@ Component Test coverage
 
 `-` = testing could be added to identify where error is (5)
 
-`!` = manual testing needed to show where an error is - editor needed (2)
+`!` = manual testing needed to show where an error is - editor needed (4)
 
 The unspecified are no test needed or untestable additions
 
