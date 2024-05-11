@@ -89,7 +89,9 @@ Component Test coverage
 
 ## Traceability
 `+` = testing would catch and identify where error is
+
 `-` = testing could be added to identify where error is
+
 `!` = manual testing needed to show where an error is - editor needed
 
 - 14948 - no test needed
