@@ -88,11 +88,13 @@ Component Test coverage
 <img width="1652" alt="Screenshot 2024-05-02 at 5 16 21 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/5606931/fa3e38d7-94d7-4197-a6de-fdddd4293674">
 
 ## Traceability
-`+` = testing would catch and identify where error is
+`+` = testing would catch and identify where error is (7)
 
-`-` = testing could be added to identify where error is
+`-` = testing could be added to identify where error is (5)
 
-`!` = manual testing needed to show where an error is - editor needed
+`!` = manual testing needed to show where an error is - editor needed (2)
+
+The unspecified are no test needed or untestable additions
 
 - 14948 - no test needed
 - 15315 - tests covered processing data from graphql via liquid (if not processed correctly could not build) +
@@ -110,7 +112,7 @@ Component Test coverage
 - 16921 - Prepare for your visit is purely looping over CMS content with pure DST components (tested). No specific test -
 - 17103 - partial added for operating status is just a DST component. No specific test. Removed old usage of shared partial that was custom code. -
 - 17162 - decision to use DST component instead of custom code
-- 14933 - use CMS content no specific test due to CMS dependence. Fixes spacing on copy of partial from Vet Centers. 
+- 14933 - use CMS content no specific test due to CMS dependence. Fixes spacing on copy of partial from Vet Centers. !
 - 16311 - analytics additions - no testing
 - 17382 - Vet Centers and VBA ROs add spotlights in different order - manual testing since content is from CMS !
 - 14929 - React component - adds component tests and consolidates Vet Center testing into NearbyVA Locations testing +
