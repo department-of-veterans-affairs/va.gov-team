@@ -91,32 +91,33 @@ Component Test coverage
 `+` = testing would catch and identify where error is
 `-` = testing could be added to identify where error is
 `!` = manual testing needed to show where an error is - editor needed
-14948 - no test needed
-15315 - tests covered processing data from graphql via liquid (if not processed correctly could not build) +
-14940 - testing covered processing data from graphql via liquid (if not processed correctly could not build) +
-14941 - testing of queries is not possible
-15956 - testing of queries is not possible
-16243 - decision to use renderHTML
-14937 - banner testing covers all alert banner types +
-14947 - testing of queries is not possible
-14938 - covererd in 14937 +
-16254 - testing meta content would only really be possible in cypress tests that we can't use - manual 
-14942 - testing covered processing data from graphql via liquid (if not processed correctly could not build) +
-14936 - Service Location accordion testing (separates SL into separate partial - phase 1- then later moves to shared partial - tests still cover representation both renderHTML and liquid filters) +
-14957 - Mostly about testing consolidation of information from Facility Service SL and Regional Service SL paragraphs +
-16921 - Prepare for your visit is purely looping over CMS content with pure DST components (tested). No specific test -
-17103 - partial added for operating status is just a DST component. No specific test. Removed old usage of shared partial that was custom code. -
-17162 - decision to use DST component instead of custom code
-14933 - use CMS content no specific test due to CMS dependence. Fixes spacing on copy of partial from Vet Centers. 
-16311 - analytics additions - no testing
-17382 - Vet Centers and VBA ROs add spotlights in different order - manual testing since content is from CMS !
-14929 - React component - adds component tests and consolidates Vet Center testing into NearbyVA Locations testing +
-17511 - Modified Service Location testing to match desired outputs from CMS data !
-17414 - Header added in absence of CMS content - manual testing since dependent on CMS presence absence of content !
-17843 - Service Location delivery option values to match CMS content - CMS dependent - manual test (could add automated testing if we split the delivery options into partials) -
-17710 - Online link separation from VAMC which uses the same template - manual testing (could add automated testing) -
-17599 - testing of queries is not possible
-17598 - Manage your benefits online link - could add testing if split into a partial (would need to include logic) -
+
+- 14948 - no test needed
+- 15315 - tests covered processing data from graphql via liquid (if not processed correctly could not build) +
+- 14940 - testing covered processing data from graphql via liquid (if not processed correctly could not build) +
+- 14941 - testing of queries is not possible
+- 15956 - testing of queries is not possible
+- 16243 - decision to use renderHTML
+- 14937 - banner testing covers all alert banner types +
+- 14947 - testing of queries is not possible
+- 14938 - covererd in 14937 +
+- 16254 - testing meta content would only really be possible in cypress tests that we can't use - manual 
+- 14942 - testing covered processing data from graphql via liquid (if not processed correctly could not build) +
+- 14936 - Service Location accordion testing (separates SL into separate partial - phase 1- then later moves to shared partial - tests still cover representation both renderHTML and liquid filters) +
+- 14957 - Mostly about testing consolidation of information from Facility Service SL and Regional Service SL paragraphs +
+- 16921 - Prepare for your visit is purely looping over CMS content with pure DST components (tested). No specific test -
+- 17103 - partial added for operating status is just a DST component. No specific test. Removed old usage of shared partial that was custom code. -
+- 17162 - decision to use DST component instead of custom code
+- 14933 - use CMS content no specific test due to CMS dependence. Fixes spacing on copy of partial from Vet Centers. 
+- 16311 - analytics additions - no testing
+- 17382 - Vet Centers and VBA ROs add spotlights in different order - manual testing since content is from CMS !
+- 14929 - React component - adds component tests and consolidates Vet Center testing into NearbyVA Locations testing +
+- 17511 - Modified Service Location testing to match desired outputs from CMS data !
+- 17414 - Header added in absence of CMS content - manual testing since dependent on CMS presence absence of content !
+- 17843 - Service Location delivery option values to match CMS content - CMS dependent - manual test (could add automated testing if we split the delivery options into partials) -
+- 17710 - Online link separation from VAMC which uses the same template - manual testing (could add automated testing) -
+- 17599 - testing of queries is not possible
+- 17598 - Manage your benefits online link - could add testing if split into a partial (would need to include logic) -
 
 
 
