@@ -40,7 +40,6 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 **The rollback process is:**
 1. Turn off the frontend feature toggle `representative_status_enabled`
-   1. Submit a PR
 2. Alert the team in [#benefits-representation-management](https://slack.com/archives/C05L6HSJLHM) that the rollback process has been initiated
    1. Include any details as to what triggered the rollback
    2. Tag relevant teammates (@benefits-arm-core, @benefits-arm-enablement, @benefits-arm-vba)
