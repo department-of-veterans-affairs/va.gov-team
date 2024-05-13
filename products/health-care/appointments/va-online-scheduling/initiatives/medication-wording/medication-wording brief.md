@@ -73,7 +73,8 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
     - Alignment with Stakeholder Objectives
 
 ### What're you building
-- Medication notifications with desired wording from higher level stakeholders 
+- Medication notifications with desired wording from higher level stakeholders
+- Reminders for Veterans to be ready to talk about any medication they are taking
 #### Go-to-market 
 - Notifications push/communications to larger teams/groups  
 
