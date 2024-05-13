@@ -3,7 +3,7 @@
 
 <details>
  
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
+We've been tasked with integrating medication-related content into appointment notifications and detail pages across all channels following an OIG/Congressional request. Our objective is to remind veterans to discuss their medications during appointments, ensuring they are prepared to talk about any prescriptions, supplements, or vitamins from any provider. This initiative aims to improve communication and support veterans in managing their medication effectively.
  
 </details>
 
@@ -18,8 +18,6 @@
    - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
  
  </details>
- 
- > 💡 Helpful guidance/tips
  
 ---
 
