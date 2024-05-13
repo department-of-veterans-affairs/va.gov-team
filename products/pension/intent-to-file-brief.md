@@ -38,7 +38,7 @@ The Veteran has one year from the time they submit an intent to file  to complet
 
 # Solution Approaches
 ## V1 - Introduce ITF functionality to pension form
-### Integrate intent to file functionality with the 527EZ application on VA.com that is only available to authenticated users.
+### Integrate intent to file functionality with the 527EZ application on VA.gov that is only available to authenticated users.
   
 **Status (as of 5/13/24)**
 * OCTO: in review
