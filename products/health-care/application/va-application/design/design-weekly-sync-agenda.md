@@ -1,5 +1,20 @@
 # Design Weekly Sync Agenda
 
+## 2024-05-13
+Attendees: Angela, Jessica, Hieu, Katelyn, Luis, Kristen and Lois
+
+- It was Kristen’s last time joining the UX sync 
+- Jessica talked about the address order on the CG - what is in production, the new changes and CAIA wanted to confirm with VADS folks. Kristen recommended going to Office Hours over async in slack to explain the business reasons and needs surrounding the break in design system guidance.
+- Hieu went over contact info on the EZR and how that could be impacted by the list-and-loop becoming an official form library component. Meeting with Forms Team designer to talk about the pattern, more to come.
+- Jessica talked through the content process on the CG updates - native components, content making edits right in Figma and ideas around the most efficient way to go about this.
+- Team chatted about some ideas: One idea was to unattach all components and have a working area, then have to essentially rebuild once content review done. Seeing if lessons learned on CG with editing native components helps alleviate some of the initial issues.
+- Angela went over the start of the Mural board for the HEC workshops for the toxic exposure question next steps. Walked through organization of board and the three areas that we will focus on during the meeting.
+- Had to call it right at 10 to make it to the OCTO presentation on time :)
+- TBD - Want to discuss async of a new time for UX sync so it works better for everyone.
+
+
+
+
 ## 2024-05-06
 Attendees: Angela, Hieu, Katelyn, and Lois.
 
