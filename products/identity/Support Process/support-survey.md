@@ -10,6 +10,8 @@
 
 [Import Survey to Domo](#import-survey-to-domo)
 
+[Schedule Report in Domo](#schedule-report-in-domo)
+
 --------------
 
 ## Purpose
