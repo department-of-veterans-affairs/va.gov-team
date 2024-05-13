@@ -33,7 +33,7 @@ Thanks for filling in that context
 - Now we’d like for you to take us through how you might request support in the new process.
 - At this point we’ll ask that you share your screen, and in particular we are interested in seeing your Slack window. You can bring up the VSP-Identity channel if you want to make sure you don’t have any private or sensitive channels showing.
    - [if would search Canvas or team docs, then use that as the prompt:]
-      - Let's say you saw slackbot in our Canvas, and it says for support from Identtiy to use the /identity-support command
+      - Let's say you saw slackbot in our Canvas, and it says for support from Identtiy to use the `/identity-support` command
          - Is that a clear instruction?
          - What would make it more understandable?
    - [if would post right in channel without searching our docs or Canvas, then use the following]
