@@ -99,9 +99,17 @@ Remote sessions via Zoom
 
 #### Research materials
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
-* Pre-release build of the VA mobile app
+* Pre-release build of the VA mobile app, distributed via Testflight
 * [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1xdPYQwgvFWCoo0gOtNta8MsB_PyZ1Mxzp9GiQ4OZKbQ/edit#gid=0)
-	
+
+<img width="250" alt="VA mobile app - Personalized home screen - loading" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/3bb18541-1700-4960-8b0c-cb8ca3777c7f">  
+<img width="250" alt="VA mobile app - Personalized home screen " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/bf87ce0e-4cf8-4542-8d36-cf9895cc7c62">
+<img width="250" alt="VA mobile app - Claims category screen" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/9ed4d6ca-9c12-46e1-818d-51160f8e3552">
+
+
+
+Screenshots from [the Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
+ 
 ## Recruitment	
 
 ### Recruitment approach
