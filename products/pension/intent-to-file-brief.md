@@ -38,10 +38,6 @@ The Veteran has one year from the time they submit an intent to file  to complet
 # Solution Approaches
 ## V1 - Introduce ITF functionality to pension form
 ### Integrate intent to file functionality with the 527EZ application on VA.com that is only available to authenticated users.
-
-**`TO BE ADDRESSED / BLOCKERS:`**
-* Agreement on scope of v1
-* Review and sign offs
   
 **Status (as of 5/13/24)**
 * OCTO: in review
@@ -51,6 +47,17 @@ The Veteran has one year from the time they submit an intent to file  to complet
 * CAIA: started
 * Development: not started (scaffolding started)
 
+**`TO BE ADDRESSED / BLOCKERS:`**
+* Agreement on scope of v1
+* Review and sign offs
+
+### Assumptions
+* The Veteran must authenticate on VA.gov to set an Intent to File date.
+* The ITF API is functional and available most of the time.
+* The ITF API cannot set ITF start dates in the past.
+* TBC by engineering - The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
+
+### Scope
 **1. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
 * When an ITF exists, the system will use the ITF date returned by the ITF API and display messaging to the user based on the date and status returned.
@@ -67,12 +74,6 @@ The Veteran has one year from the time they submit an intent to file  to complet
 **External items to prioritize:**
 * Update DOMO dashboard with Analytics team to include any new ITF related pages.
 * Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
-
-### Assumptions
-* The Veteran must authenticate on VA.gov to set an Intent to File date.
-* The ITF API is functional and available most of the time.
-* The ITF API cannot set ITF start dates in the past.
-* TBC by engineering - The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
 
 
 
@@ -91,6 +92,7 @@ This will replace the submission date currently included in the PDF footer.
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Establish if, when, how VSRs will access and use this information to ensure that this feature is useful and will be used.
 
+### Scope
 **1. When ITF is successfully established and form is submitted**
 * Write messaging to convey 'Pension ITF <date>' to footer of PDF.
 
@@ -123,6 +125,7 @@ This will replace the submission date currently included in the PDF footer.
 * If a system is taking action, consider how much unused data might be created.
 * Teams processing applications understand how to process these accurately.
 
+### Scope
 **Based on user-based triggers, when a user logs in..**
 * while in-progress form is valid: then update the saved in-progress pension form expiry date to match ITF expiry date.
 * after in-progress form has expired but ITF is still valid: user has to start a new pension app.
@@ -151,6 +154,7 @@ This will replace the submission date currently included in the PDF footer.
 * LH ITF API is updated to accept a date variable that enables pension app to create new ITFs using a start date that's adjacent to an expired ITF.
 * Agree on what durations are 'reasonable'.
 
+### Scope
 **When an user starts or resumes a form and an ITF has expired less than a year ago**
 * Create a new ITF with a start date of (prior ITF expiry date + 1 day).
 
