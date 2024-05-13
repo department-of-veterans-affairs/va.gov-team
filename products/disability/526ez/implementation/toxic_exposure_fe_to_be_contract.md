@@ -42,7 +42,8 @@ Example:
               "turkey": true,
               "waters": true,
               "airspace": true,
-              "none": false
+              "none": false,
+              "notsure": false
           },
           "gulfWar1990Details": {
             "iraq": {
@@ -63,7 +64,8 @@ Example:
               "uzbekistan": true,
               "yemen": true,
               "airspace": true,
-              "none": false
+              "none": false,
+              "notsure": false
           },
           "gulfWar2001Details": {
              "airspace": {
@@ -140,6 +142,7 @@ Example:
       ]
 
 - The `"none": false` field under gulfWar1900 and gulfWar2001 represent the "None of these" option from the front end. Presence of the `"none": true` field/value pair overrides any other location field/value pair in the collection and effectively renders this question on the form unchecked.
+- The `notsure: false` field under gulfWar1900 and gulfWar2001 represent the "Not sure" option from the front end. This field is an artifact of the FE and used only as a guide to the user. In the back end, we filter this option out before any other processing, i.e. it is ignored
 
 # Questions/Action Items/Notes (from 4/11/24 internal review)
 
