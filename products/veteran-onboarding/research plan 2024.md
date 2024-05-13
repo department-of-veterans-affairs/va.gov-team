@@ -126,8 +126,24 @@ Demographics and inclusion
 What criteria would strengthen your results? 
 TBD
 
-## Timeline - TBD
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+## Timeline - Proposed
+Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.   
+
+1. Design intent - Scheduled for 5/14
+2. Accessibility consult: Initiate request 5/14
+3. Conversation guide and additional research materials: To be completed by 5/24
+4. Mid-fi prototype: To be completed by 5/24
+5. Development on MVP: To be potentially start on 5/28 and completed by 6/7
+6. Research submitted and added to repo board: 5/27
+7. Estimated research approval: 5/30
+8. Kickoff Call with Perigean: 6/5
+9. Estimated midpoint: On or before 6/12
+10. Recruitment: Starting the week of 6/10
+11. Pilot session: 6/14
+12. Usability testing: Week of 6/17 onward as needed
+
+A [calendar of the proposed timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715094488820/4bf4fbc61074803b5a44b79973852b1c68106d44?sender=u82254af9423cfa236f383306) can be found in Mural
+
 
 ### Prepare - TBD
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
@@ -136,18 +152,28 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Pilot participant email:
 * Date and time of pilot session: 
 
-### Research sessions - TBD
-* Planned dates of research:
+### Research sessions - Not Yet Finalized
+* Planned dates of research: Currently we're estimating that our research will take place the week of June 17th.   
+* Proposed dates:
+	- 6/17, 6/18, 6/19, 6/20 (national holiday), 6/21
+	- We can add on dates the following week to assist with available times
 
 ### Length of sessions
 * Session length: 45 minutes
 * Buffer time between sessions: 30 minutes   
 * Maximum Sessions per day: 3   
 
-### Availability - TBD
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
+### Availability - Not Yet Finalized
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*  
+* June 17: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
+* June 18: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
+* June 19: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
+* June 20: Blocked off for holiday
+* June 21: Starting time - 8 a.m. EST, ending time 7 p.m. EST
 
-Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+If additional times are required for participants, we have some flexibility to extend. 
+
+Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***).    
 	
 ## Team Roles	
 - Moderator: Liza McRuer
