@@ -49,17 +49,10 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 <!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Enhance existing content and add medication wording to appointment notifications 
 
 ## Undesired User Outcomes
-## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
--->
+- Unrelatable notifications/
 
 ---
 ## Measuring Success
@@ -74,21 +67,16 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - User Adoption and Engagement
+  - Effectivness of communication
+  - Integration and Consistency Across Channels
+
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact): 
+    - Technical Integration and Scalability
+    - Regulatory Compliance and Data Security
+    - Alignment with Stakeholder Objectives
 
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
@@ -96,7 +84,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 > *How does this solution address your Assumptions & Risks?
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+- Notifications push/communications to larger teams/groups  
 
 --- 
 
@@ -132,24 +120,19 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 <details>
 
-- Team Name: 
+- Team Name: Appointments team 
 - GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Slack channel: #appointments-team
+- Product POCs: Adam Oyenuga 
 
 </details>
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
+Higher level Stakeholders 
 
 <details>
   
 - Office/Department:
-- Contact(s): 
+- Contact(s): Kay Lawyer
  
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
