@@ -11,4 +11,4 @@ We will not be testing the completion of tasks (i.e. things like sending a Secur
 - We conducted sessions with # people at VA and Ad Hoc who had their own identity proofed (LOA3) credentials. We ran sessions from [dates]. 
   - [Test plan & protocol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/uat/test-plan-protocol.md)
   - [Analysis spreadsheet](https://docs.google.com/spreadsheets/d/1HSL0SJRwomx4dwDioufKgfQbYSpkYVZvO4F379H5GQw/edit#gid=831278958)
-  - [UAT Summary]()
+  - [UAT findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/uat/findings.md)
