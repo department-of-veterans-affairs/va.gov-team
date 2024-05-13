@@ -13,7 +13,7 @@ Date: 05/06/2024
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Further research needed](#further-research-needed)
+- [Next steps](#next-steps)
 - [Who we talked to](#who-we-talked-to)
 
 
@@ -168,11 +168,6 @@ _Put together initial recommendations here based on your findings along with sup
 ## Next Steps
 
 _Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
 
 
 ## Appendix
