@@ -28,17 +28,21 @@ Understanding customer satisfaction is crucial for continuous improvement.
 
 ## Accessing Data
 
+- The following 
+
 1. To obtain Optimal Workshop sign-in credentials, enter the sensitive [GitHub Repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/practices/design/tools/optimal-workshop.md)
 
-2. Use the "Platform Research" credentials (copy & paste) to sign in to [OptimalWorkshop.com](https://app.optimalworkshop.com)
+    - Copy the "Platform Research" Optimal Workshop credentials (copy & paste)
+    
+2. Paste the credentials to sign in to [OptimalWorkshop.com](https://app.optimalworkshop.com)
 
 3. Go to Identity MFA Folder
 
 4. Find the survey "Identity Support Survey V1"
 
-5. Select Results tab
+5. Select the Results tab
 
-- You'll see the Overview page
+- You'll see the "Overview" page
 
 ![Optimal Results Overview](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/933abeb7-da16-4c38-a892-90dd91ec6583)
 
@@ -46,13 +50,13 @@ Understanding customer satisfaction is crucial for continuous improvement.
   
 ![Optimal Results Questionnaire](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2f7ceae0-638a-4557-932c-b2007df7257b)
 
-7. Go to Downloads
+7. Go to "Downloads"
 
      - "All included participants" should be selected by default
 
       - For Participants data, select "Uncut"
   
-      - You'll be prompted to accept an Excel file download (*.XLSX)
+      - In the pop-up, accept the Excel file download (*.XLSX)
   
       - The following image shows the file open in Numbers on a Mac 
 
@@ -164,37 +168,31 @@ Analysis:
 
 ## Presenting Data
 
-![Satisfaction Ratings Pie Chart in Excel](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/9135cec6-5f0b-4d6f-b9d7-153a4931193c)
-
-Satisfaction Ratings Pie Chart in Excel
-
-![Qualitative Fields Word Cloud](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/385798ed-3054-4870-9de7-150ccc013db5)
-
-Qualitative Fields Word Cloud
+**Satisfaction Survey Domo Dashboard Mockups**
 
 ![Satisfaction Survey Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/20992d66-3b14-471d-a7b7-a747a4d0236c)
 
 ![Satisfaction Survey Dashbpard Mockup 2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/e6cdc903-5561-42cd-abf7-fc4f24a49f79)
 
-Satisfaction Survey Dashbpard Mockups
+**Satisfaction Survey Dashboard Mockups**
 
 ![Metrics Dashboard Mockup](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2c1b4095-2a1d-4797-987e-4d5994100759)
 
-Metrics Dashboard Mockup
+**Metrics Dashboard Mockup**
 
 ## Import Survey to Domo
 
-1. To import the Optimal Workshop Support Survey results into the Domo Dashboard, you will need to go Domo's Dataset Homepage.
+1. To import the Optimal Workshop Support Survey results into the Domo Dashboard, go to Domo's Dataset Homepage.
 
-- This is the link to the home page of the [dataset](https://va-gov.domo.com/datasources/617732e9-3202-4842-9f9e-149eda8ac293/details/settings?userId=1565237008).
+- Here is the link to the [Dataset Homepage](https://va-gov.domo.com/datasources/617732e9-3202-4842-9f9e-149eda8ac293/details/settings?userId=1565237008).
 
-- Access to the Support Dashboard in Domo's Dataset Homepage must be requested from a member of Analytics.
+- **Note**: Request access to Domo's Dataset Homepage from a member of Analytics.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/de1f8799-7d10-401d-9dc5-8d8061bc272b)
 
 - From here, click on `Settings` tab.
 
-2. In `Settings` tab, use Finder to drag the newest downloaded Uncut Support Satisfaction Survey file (in the form of an excel file type *.xlsx) into the center of the `Details` area.
+2. In `Settings` tab, use Finder to drag the recently downloaded Optimal Workshop Support Satisfaction Survey file (excel file type *.xlsx) into the center of the `Details` area.
 
 - You can also click to import the file from your directory.
 
@@ -217,4 +215,31 @@ Metrics Dashboard Mockup
 4. Check that the Support Dashboard automatically updated with the new survey data!
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2961954a-c7c6-468d-8474-5f10bb313320)
+
+------------------
+
+## Schedule Report in Domo
+
+1. Select the `Share menu' icon while on the Identity Support Dashboard 
+2. Select `Schedule as report` from the list
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4b5987b5-2211-453a-b2f0-fd655ca5b91c)
+
+3. Change the information as needed within the pop up
+4. For consistency, send the report on the first business day of the month, after the previous month's Optimal Workshop Satisfaction Survey data has been uploaded to Domo
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/0f737009-44e4-44c2-bd0e-c28c0fad6f92)
+
+
+------------------
+
+## Graphing Ideas
+
+![Satisfaction Ratings Pie Chart in Excel](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/9135cec6-5f0b-4d6f-b9d7-153a4931193c)
+
+Satisfaction Ratings Pie Chart in Excel
+
+![Qualitative Fields Word Cloud](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/385798ed-3054-4870-9de7-150ccc013db5)
+
+Qualitative Fields Word Cloud
 
