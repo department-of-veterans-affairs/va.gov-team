@@ -140,11 +140,19 @@ This finding applied to all 3 options (see the screenshot below for the list pag
 > _Supporting data: "Not sure the differences between list and order links are."_
 
 > _Supporting data: "List and order supplies are repetitive on MHV home."_
-> 
+
+> _Supporting data: "It doesn't make sense to me that I need a list of what I have and a separate screen to order."_
+
 
 ## Additional Insights
 
-_Any additional insights that aren't "key findings." These can be powerful comments from users that don’t represent a pattern in this study, but may be part of one outside this study._
+### 5 participants chose [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) as the easiest to use and liked medications and medical supplies are completely separate. 
+
+The participants (5 out of 15) who didn't choose option 3 picked option 1. They liked that medications and medical supplies are separate on MHV home and have different order pages. The general concern is that they might be overwhelmed by the large number of medications and medical supplies in one place and might not want to see medications if they only want to order supplies. One participant mentioned that they liked that option 1 is a small and easy change from the MHV Classic for them to adapt. 
+
+> _Supporting data: "I can click on medical supplies when I'm not ordering medications."_
+
+> _Supporting data: "If I want medications, I go to that section. If I want medical supplies, I go to that section. That's what I like better (about option 1)."_
 
 
 ## Recommendations
@@ -178,7 +186,7 @@ _If there are demographics that were not included in this study or you discovere
 
 ## Tools used for Synthesis
 
-[Mural board] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713229206929/0e2f177464d2f7def82be32b89d1e1f7b83fab73?sender=ueeece9e244394145c84e5173)
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713229206929/0e2f177464d2f7def82be32b89d1e1f7b83fab73?sender=ueeece9e244394145c84e5173)
 
 
 ## Pages and applications used
