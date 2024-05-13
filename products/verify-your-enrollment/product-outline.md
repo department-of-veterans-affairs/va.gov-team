@@ -165,12 +165,17 @@ tbd
 <details>
  
  - DEPO Lead: Emily Theis (Emily.Theis@va.gov) 
- - PM: Jason Wolf (Jason.Wolf1@va.gov)
+ - PM: Jason Wolf (Jason.Wolf1@va.gov)/Cassidy Beach (Cassidy.Beach@va.gov)
  - Engineering: Jarred Simon (Jarred.Simon@va.gov)
  - Research/Design: Ryan Gray (Ryan.Gray1@va.gov)
  
 </details>
 
+## Indicents Response Information
+
+Points of contact for your system and dependent VA backends:
+
+Links to dashboards that help identify and debug application issues:
 
 #### Stakeholders
 
