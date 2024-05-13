@@ -181,26 +181,37 @@ Metrics Dashboard Mockup
 
 ## Import Survey to Domo
 
-To import Optimal Workshop Support Survey results into the Domo Dashboard, you will need to go Domo's Dataset Homepage.
+1. To import the Optimal Workshop Support Survey results into the Domo Dashboard, you will need to go Domo's Dataset Homepage.
 
-This is the link to the home page of the [dataset](https://va-gov.domo.com/datasources/617732e9-3202-4842-9f9e-149eda8ac293/details/settings?userId=1565237008)
+- This is the link to the home page of the [dataset](https://va-gov.domo.com/datasources/617732e9-3202-4842-9f9e-149eda8ac293/details/settings?userId=1565237008).
+
+- Access to the Support Dashboard in Domo's Dataset Homepage must be requested from a member of Analytics.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/de1f8799-7d10-401d-9dc5-8d8061bc272b)
 
-From here, click on `Settings`.
+- From here, click on `Settings` tab.
 
-In `Settings`, drag the new file (in the form of an excel document) into the center of the `Details` area.
+2. In `Settings` tab, use Finder to drag the newest downloaded Uncut Support Satisfaction Survey file (in the form of an excel file type *.xlsx) into the center of the `Details` area.
 
-You can also click to upload it.
+- You can also click to import the file from your directory.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/30ce9874-20ac-4d9f-8113-6e5c905f45d1)
 
-Once it has uploaded, you will see a preview of the dataset. 
+3. Once it has uploaded, in the next row `Select tables`, you will see a preview of the dataset. 
 
-Check that all the new data has been uploaded correctly!
+- Check that all the new data has been uploaded correctly.
 
-If it is correct, click save. 
+- There won't be anything that needs to be changed in this section.
 
-The dashboard will automatically update with the new data!
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/dad9f92f-b7d2-49f6-8d46-629434a9226b)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/dad9f92f-b7d2-49f6-8d46-629434a9226b)
+3. In the next row `Update Mode`, check that `Update Method` is set to `Replace`.
+
+- Check that the new data has been uploaded correctly.
+
+- If it is correct, click `save`. 
+
+4. Check that the Support Dashboard automatically updated with the new survey data!
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/2961954a-c7c6-468d-8474-5f10bb313320)
+
