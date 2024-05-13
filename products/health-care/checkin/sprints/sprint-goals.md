@@ -164,9 +164,9 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - 🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
-        - 🟨 [[BE] Update BTSSS endpoint to use fwdproxy in prod ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73257)
+        - ✔️ 🟨 [[DevOps] Request CMS-service-account-3 be deleted from vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82001)
+        - ✔️ 🟨 [[BE] Update BTSSS endpoint to use fwdproxy in prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73257)
         - ✔️ 🟨 [[DevOps] Determine and document key personnel for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82616)
-        - ✔️ 🟨 [DevOps] Determine and document key personnel for Check-In Experience
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - ✔️ 🟥 [[Research] Monitor Unmoderated Study ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81792)
