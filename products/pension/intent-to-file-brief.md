@@ -23,7 +23,7 @@ The Veteran has one year from the time they submit an intent to file  to complet
 * ITF functionality (when the API is available and unavailable) that prevents a Veteran from starting or completing the pension app
 
 ## Measuring Success
-* The total number of Veterans applying for Pension benefits online that fill out a separate 0966 Intent to File form through another medium are reduced.
+* The total number of Veterans applying for Pension benefits online that fill out a separate 0966 Intent to File form through another medium is reduced.
 * Drop offs at ITF screens are at a minimum (for when the API is available and unavailable) - the ITF experience should not hamper the Veteran's pension application journey.
 
 ## Working documents
