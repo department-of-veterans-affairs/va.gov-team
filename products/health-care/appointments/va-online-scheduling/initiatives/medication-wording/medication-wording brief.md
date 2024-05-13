@@ -48,6 +48,8 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 ## Undesired User Outcomes
 - Unrelatable notifications/
 
+-->
+
 ---
 ## Measuring Success
 
@@ -73,10 +75,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
     - Alignment with Stakeholder Objectives
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
-
+- Medication notifications with desired wording from higher level stakeholders 
 #### Go-to-market 
 - Notifications push/communications to larger teams/groups  
 
@@ -115,7 +114,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 <details>
 
 - Team Name: Appointments team 
-- GitHub Label(s): 
+- GitHub Label(s): appointments 
 - Slack channel: #appointments-team
 - Product POCs: Adam Oyenuga 
 
@@ -128,5 +127,5 @@ Higher level Stakeholders
 <details>
   
 - Office/Department:
-- Contact(s): Kay Lawyer
+- Contact(s):
  
