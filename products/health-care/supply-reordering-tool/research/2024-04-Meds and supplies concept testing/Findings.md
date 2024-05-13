@@ -146,7 +146,7 @@ This finding applied to all 3 options (see the screenshot below for the list pag
 
 ## Additional Insights
 
-### 5 participants chose [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) as the easiest to use and liked medications and medical supplies are completely separate. 
+### 5 participants chose [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) as the easiest to use and liked medications and medical supplies are separate on MHV on VA.gov landing page and reorder page. 
 
 The participants (5 out of 15) who didn't choose option 3 picked option 1. They liked that medications and medical supplies are separate on MHV home and have different order pages. The general concern is that they might be overwhelmed by the large number of medications and medical supplies in one place and might not want to see medications if they only want to order supplies. One participant mentioned that they liked that option 1 is a small and easy change from the MHV Classic for them to adapt. 
 
