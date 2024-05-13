@@ -222,7 +222,7 @@ Duplicate submissions were previously one of the biggest sources of delays for B
 **Core Bet**: If Veterans can assess their eligibility for decision reviews based on existing data about decisions, we'll significantly reduce the guesswork in choosing an option, making them more likely to submit a decision review that is aligned with their filing goals and doesn't result in claim delays caused by suboptimal filing actions. 		
 
 **Solution Approach Nuggets**
-Use disability rating data available in the Veteran Service History and Eligibility API, Appeals API, and Caseflow's Eligibility API to:
+Use disability rating data available in the Veteran Service History and Eligibility API, Appeals API, and [Caseflow's Eligibility API](https://cest-api-dev.dev.bip.va.gov/swagger-ui.html) to:
 - Help Veterans understand if an issue qualifies for an appeal or a rating increase
 - Compare decision review options to issues with decisions they want to have reviewed or appealed
 - Work with Lighthouse and Caseflow to surface data in Caseflow's Eligibility API to reduce duplicate submissions and in-eligible submissions.
