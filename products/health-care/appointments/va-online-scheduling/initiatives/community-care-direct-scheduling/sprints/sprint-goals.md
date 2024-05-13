@@ -12,6 +12,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+
 
 
 
@@ -41,6 +43,9 @@ ________________________________________________________________________________
          - 🟥 Attend Design Office Hours and get feedback from Platform
          - 🟥 TBD - Design updates based on Office Hours
          - 🟥 [[UX] Share out, get feedback, and implement changes to updated service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82899)
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+         - 🟥 [[SPIKE] For MVP, brainstorm how we might want to show all referrals to Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81410)
+
 
    
 </details>
