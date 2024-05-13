@@ -66,10 +66,10 @@ The Veteran has one year from the time they submit an intent to file  to complet
 
 **2. When a Veteran starts or resumes a 527EZ application online and the API is unavailable:**
 * The system will display appropriate messaging to the user that their application start date has been saved and they can proceed to fill and submit their application.
-* The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated.
+* The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated. >>>Sanja B. Note, during retry, we are still limited to only start ITF with current date, not form start date. This may become issue, if retries go over several days. May not be a big issue (i.e. losing only a day or two), but worth noting. 
 
 _**Once above is implemented, noting interaction between new ITF behavior and existing saved in-progress form behavior:**_
-* A saved in-progress form can expire while an ITF is still active. When the user logs in next, they will have to start a new form.
+* A saved in-progress form can expire while an ITF is still active. When the user logs in next, they will have to start a new form.   
 * An ITF can expire while a saved in-progress is still active. When the user logs in next, a new ITF will be created on that day.
 
 **3. External items to prioritize:**
@@ -104,7 +104,7 @@ This will replace the submission date currently included in the PDF footer.
 
 ## V3 - Extending the validity period of an in-progress form and/or ITF (TBC)
 ### Manage expiration dates in a way that:
-* Helps Veterans to receive backdated pensions benefits based on when they started an application, within 'reasonable' time limits.
+* Helps Veterans to receive backdated pensions benefits based on when they started an application, within 'reasonable' time limits. >>>Sanja B. Note. Don't we need V4 implemented for backdated ITF? Any way user-driven ITF extension and in-progress form extension to be moved to V1. That way we'd cover majority of use cases. 
 * Doesn't confuse Veterans using the form.
 * Doesn't create a system/service that is costly but doesn't benefit most.
 
