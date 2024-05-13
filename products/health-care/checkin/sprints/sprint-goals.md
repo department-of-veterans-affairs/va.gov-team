@@ -91,6 +91,8 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Add Medication Review Content to Appointment Information**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
@@ -102,14 +104,18 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- Pre-Check-in: Handle 4 Modalities (i.e. CVT, VVC, phone, in-person)
-- eCheck-in: Handle 2 Modalities (in-person, CVT)
+- NONE
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Add Medication Review Content to Appointment Information**
+        - 🟥 [[[Design] Create Final Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - 🟩 [Add Medication Review Content to Appts Product ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82908)
+        - 🟩 [Add Medication Review Content to PCI Product(s) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
@@ -133,8 +139,6 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**    
     - 🟩 [Review & Update our Production Support & Incident Response Documentation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82430)
     - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
-    - **Sub Goal: DevOps Improvements**
-        - TBD
 </details>
 
 ______________________________________________________________________________________________________________________________________________________
