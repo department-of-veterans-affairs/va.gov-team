@@ -6,7 +6,7 @@
 
 Veterans can notify the VA by filing an ITF (paper form, phone etc) and set a potential start date (or effective date) for their pension benefits. This can enable the Veteran to receive retroactive payments (payments from the time between when they submitted an intent to file and when the VA approves the claim).
 
-The Veteran has one year from the time they submitted an intent to file  to complete and submit their claim to receive the earliest possible effective date (provided their application is successful).
+The Veteran has one year from the time they submit an intent to file  to complete and submit their claim to receive the earliest possible effective date (provided their application is successful).
 
 
 ### How might we ease the burden on Veterans to understand and set an Intent to File date that requires fewer steps to obtain?
@@ -23,7 +23,7 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 * ITF functionality (when the API is available and unavailable) that prevents a Veteran from starting or completing the pension app
 
 ## Measuring Success
-* The total number of Veterans applying for Penson benefits online that fill out a separate 0966 Intent to File form through another medium are reduced.
+* The total number of Veterans applying for Pension benefits online that fill out a separate 0966 Intent to File form through another medium are reduced.
 * Drop offs at ITF screens are at a minimum (for when the API is available and unavailable) - the ITF experience should not hamper the Veteran's pension application journey.
 
 ## Working documents
@@ -48,7 +48,8 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 * Development: not started (scaffolding started)
 
 **`TO BE ADDRESSED / BLOCKERS:`**
-* Aggrement on specs, review and sign offs are needed.
+* Agreement on scope of v1
+* Review and sign offs
 
 **1. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
@@ -57,17 +58,21 @@ The Veteran has one year from the time they submitted an intent to file  to comp
 
 **2. When a Veteran starts or resumes a 527EZ application online and the API is unavailable:**
 * The system will display appropriate messaging to the user that their application start date has been saved and they can proceed to fill and submit their application.
-* The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remidated.
+* The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated.
 
 **Once above is implemented, noting interaction between new ITF behavior and existing saved in-progress form behavior:**
 * A saved in-progress form can expire while an ITF is still active. When the user logs in next, they will have to start a new form.
 * An ITF can expire while a saved in-progress is still active. When the user logs in next, a new ITF will be created on that day.
 
+**External items to prioritize:**
+* Update DOMO dashboard with Analytics team to include any new ITF related pages.
+* Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
+
 ### Assumptions
 * The Veteran must authenticate on VA.gov to set an Intent to File date.
 * The ITF API is functional and available most of the time.
 * The ITF API cannot set ITF start dates in the past.
-* TBC by engineering - The pension app will not store ITF information and treate the ITF API as the source of truth for ITF.
+* TBC by engineering - The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
 
 
 
@@ -96,9 +101,9 @@ This will replace the submission date currently included in the PDF footer.
 
 ## V3 - Extending the validity period of an in-progress form and/or ITF (TBC)
 ### Manage expiration dates in a way that:
-* Helps Veterans to recieve backdated pensions benefits based on when they started an application, within 'reasonable' time limits 
-* Doesn't confuse Veterans using the form
-* Doesn't create a system/service that is costly but doesn't benefit most
+* Helps Veterans to receive backdated pensions benefits based on when they started an application, within 'reasonable' time limits.
+* Doesn't confuse Veterans using the form.
+* Doesn't create a system/service that is costly but doesn't benefit most.
 
 **Status (as of 5/8/24)**
 * OCTO: in review
@@ -112,21 +117,21 @@ This will replace the submission date currently included in the PDF footer.
 * Verify that no policies are violated by saving Veterans form data for longer than one year.
 * Verify that no policies violated by the system automatically renewing ITF on behalf of Veterans, without permission/action by the Veteran.
 * Is this improvement to be triggered by user interaction or timed system behavior?
-* As of 4/30 - 2032 (45%) pension forms were submitted, 3026 (55%) were in progress. What % of users are likely to get to completion? Is it worth creating a backend service that automatically renews forms/ITFs or we rely on Veterans who return and provide them with a good experience?
+* As of 4/30 - 2032 (45%) pension forms were submitted, 3026 (55%) were in progress. What % of users are likely to get to completion? Is it worth creating a backend service that automatically renews forms/ITFs or do we rely on Veterans who return and provide them with a good experience?
 * Assess communications that go out when a saved in-progress form and ITF is about to expire and when it's renewed. Does anything need to change or be implemented? (Avoid spamming users)
 * If a system is taking action, after an ITF or saved in-progress form is renewed once, and a Veteran does not return to the form, will it be renewed a second time?
-* If a system is taking action, consider how much unused data might be created
-* Teams processing applications understand how to process these accurately
+* If a system is taking action, consider how much unused data might be created.
+* Teams processing applications understand how to process these accurately.
 
-**Based on user-based triggers, when an user logs in..**
-* while in-progress form is valid: then update the saved in-progress pension form expiry date to match ITF expiry date
-* after in-progress form has expired but ITF is still valid: user has to start a new pension app
-* after form and ITF have expired: user has to start a new form and file a new ITF on the same day
-* after in-progress form is valid and ITF has expired: create a new ITF
+**Based on user-based triggers, when a user logs in..**
+* while in-progress form is valid: then update the saved in-progress pension form expiry date to match ITF expiry date.
+* after in-progress form has expired but ITF is still valid: user has to start a new pension app.
+* after form and ITF have expired: user has to start a new form and file a new ITF on the same day.
+* after in-progress form is valid and ITF has expired: create a new ITF.
 
 **Based on system-based triggers..**
-* When a form is about to expire, and a user has logged in since this form was created/renewed, extend it for one year
-* When an ITF is about to expire, and a user has logged in since this form was created/renewed, extend it for one year
+* When a form is about to expire, and a user has logged in since this form was created/renewed, extend it for one year.
+* When an ITF is about to expire, and a user has logged in since this form was created/renewed, extend it for one year.
 
 
 
@@ -143,17 +148,17 @@ This will replace the submission date currently included in the PDF footer.
   
 **`TO BE ADDRESSED / BLOCKERS:`**
 * LH ITF API is updated to accept a date variable that enables pension app to create new ITFs using a start date that's adjacent to an expired ITF.
-* Agree on what durations are 'reasonable'
+* Agree on what durations are 'reasonable'.
 
 **When an user starts or resumes a form and an ITF has expired less than a year ago**
-* Create a new ITF with a start date of (prior ITF expiry date + 1 day)
+* Create a new ITF with a start date of (prior ITF expiry date + 1 day).
 
 
 
 ## Post-Launch Considerations
 Areas to explore:<br>
-* Incorporating improvements in messaging and technical approach made in the 527EZ implementation of intent to file to the 526EZ process
-* Usability research to explore improvements
+* Incorporating improvements in messaging and technical approach made in the 527EZ implementation of intent to file to the 526EZ process.
+* Usability research to explore improvements.
 
 
 
