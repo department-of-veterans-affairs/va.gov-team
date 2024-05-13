@@ -1,16 +1,18 @@
 # Incident Response (Draft)
 
 ## Overview: 
-Creating a process for the Identity Team to respond to incidents affecting our ongoing service to Veterans and VA.gov product teams.
+Now that we have created our [Service Level Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md) and published our [Service Level Agreements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md), it is time to create procedures surrounding what happens when we don't meet those Agreements.
 
 
 ## Problem Statement: (Describe what problem we’re going to address with this product)
 We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and VA.gov, we need to implement and communicate an Incident Response process.
 
 ## Relevant Documents:
+- [SLO & SLI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md)
 - [Incident Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Incident%20Management.md)
 - [Authentication status internal communication for VA Teams (Research)](https://docs.google.com/document/d/1-ZN_csS6uuT-c6DymBNe5up_LR4tX6_3ntUNjjn_jrE/edit#heading=h.5c3b2fdqm6qz)
 - [Authentication status external communication to Veterans (Research)](https://docs.google.com/document/d/14ekf2-kyqAPJYdjK_CfHaiaV1HuJYJxM8r4tIyx_zqo/edit#heading=h.6nfp8v1e4nb1)
+
 ## What's In Scope: 
 For this first iteration, the focus will be on:
 * What is an incident, anyways?
@@ -26,9 +28,23 @@ For this first iteration, the focus will be on:
 *
 
 ## Use Cases:
-| User          | Problem       | How does this solution address the problem?  |
-| ------------- |:-------------:| -----:|
-| |   |   |
+
+### From SLA
+The OCTO Identity team responds to service outages as follows:
+
+| Severity level | Description | Response time |
+| --- | --- | --- |
+| Severity 1 | Impacting more than 1,000 VA.gov users per hour | 1 hour |
+| Severity 2 | Impacting more than 50 VA.gov users per hour | 4 hours |
+| Severity 3 | Impacting less than 50 VA.gov users per hour. Includes non-production issues. | 1 business day |
+
+### Urgent requests outside of business hours
+
+Urgent requests are defined as issues impacting VA.gov users on production servers.
+
+If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email: [component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com](mailto:component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com).
+
+The OCTO Identity team monitors system performance and inbound communications 24x7 via Pager Duty and responds within 30 minutes to any alerts.
 
 ## Assumptions:
 * 
