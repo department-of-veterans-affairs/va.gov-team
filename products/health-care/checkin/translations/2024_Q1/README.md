@@ -14,7 +14,7 @@
 ### Spanish (sent on 4/24/2024)
 [Q1 2024 - English_and_Spanish_QA_Screenshots_2024-04-24_13-21-02.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/15094863/Q1.2024.-.English_and_Spanish_QA_Screenshots_2024-04-24_13-21-02.pdf)
 
-### Tagalog (sent on 5/13/2024
+### Tagalog (sent on 5/13/2024)
 [Q1 2024 - English and Tagalog Screenshots 2024-05-13.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/15300174/Q1.2024.-.English.and.Tagalog.Screenshots.2024-05-13.pdf)
 
 
