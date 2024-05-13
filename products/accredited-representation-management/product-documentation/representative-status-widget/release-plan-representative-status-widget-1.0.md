@@ -8,13 +8,13 @@
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing)
 - [x] Unit tests and E2E tests are complete
 - [x] Launch-blocking issues from Staging Review are resolved
-- [ ] Any other issues that are needed to address prior to rollout?
+- [ ] Any other issues that are needed to address prior to rollout? - not launch-blocking, but would like to setup [Datadog monitoring for the POA endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82963)
 
 #### Go/No Go meeting 5/13 at 1:35p ET
-- [ ] Review the release plan with the core team, VA enablement, and VBA stakeholders
-- [ ] Decide Go or No Go
+- [x] Review the release plan with the core team, VA enablement, and VBA stakeholders
+- [x] Decide Go or No Go
 
-**Verdict: TBD**
+**Verdict: Go**
 
 ***
 
@@ -60,13 +60,13 @@ The following metrics will be considered before advancing rollout to the next st
 1. Errors in Sentry
 2. Errors in Datadog
 
-### Stage A Results (5/13-5/15)
+### Stage A Results (5/13-5/15) - 10% of users
 
 1. **Errors in Sentry**:
 2. **Errors in Datadog**:
 3. **What changes (if any) need to be implemented before proceeding to the next rollout stage?** 
 
-### Stage B Results (5/15-5/20)
+### Stage B Results (5/15-5/20) - 50% of users
 
 1. **Errors in Sentry**:
 2. **Errors in Datadog**:
