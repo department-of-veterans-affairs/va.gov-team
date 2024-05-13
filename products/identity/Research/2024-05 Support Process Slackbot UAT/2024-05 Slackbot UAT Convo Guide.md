@@ -17,12 +17,12 @@ A couple of points before we get started
 
 - Can you take me through your thinking about when you made a request in VSP-Identity
    - Anythign from where you went, who you asked, what you asked and such?
-- It doesn’t have to be perfectly chronological, but I’d especially like to hear anything that starts with you and your team discovering you needed some Identity support to having that support request resolved or fulfilled.
+   - It doesn’t have to be perfectly chronological, but I’d especially like to hear anything that starts with you and your team discovering you needed some Identity support to having that support request resolved or fulfilled.
    - [follow-ups as needed]
-      - Would you ever search Google? a team's Slack Docs? for that type of question?
+   - Would you ever search Google? a team's Slack Docs? for that type of question?
 - If you need help or support from another team how do you figure out how to initiate that?
    - Before posting in VSP-Idenetity did you seek support in any other way?
-      - Like did you search for an answer before posting in VSP-Identity?
+      - searching goolge, looking at GH docs?
    - How often do you go to the Canvas page on another team’s slack channel?
 
 
@@ -32,10 +32,11 @@ Thanks for filling in that context
 [UAT test cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Request%20&%20Support%20Process/UAT_MVP.md)
 - Now we’d like for you to take us through how you might request support in the new process.
 - At this point we’ll ask that you share your screen, and in particular we are interested in seeing your Slack window. You can bring up the VSP-Identity channel if you want to make sure you don’t have any private or sensitive channels showing.
-
-
-   - [if would, then use that as the prompt - saw slackbot in our Canvas]
-   - [if wouldn’t, then use the following]
+   - [if would search Canvas or team docs, then use that as the prompt:]
+      - Let's say you saw slackbot in our Canvas, and it says for support from Identtiy to use the /identity-support command
+         - Is that a clear instruction?
+         - What would make it more understandable?
+   - [if would post right in channel without searching our docs or Canvas, then use the following]
       - Let say that you started in the same way you did last time - going to VSP-Identity channel and message a request. Someone then asks you to use the slash command to request through the slackbot. 
          - Is that a clear instruction?
          - What would make it more understandable?
