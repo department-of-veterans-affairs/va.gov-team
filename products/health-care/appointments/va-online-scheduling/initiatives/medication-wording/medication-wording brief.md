@@ -5,11 +5,7 @@
  
 We've been tasked with integrating medication-related content into appointment notifications and detail pages across all channels following an OIG/Congressional request. Our objective is to remind veterans to discuss their medications during appointments, ensuring they are prepared to talk about any prescriptions, supplements, or vitamins from any provider. This initiative aims to improve communication and support veterans in managing their medication effectively.
  
-</details>
 
-<details>
- <Summary>Examples:</Summary>
- 
  - *Product: On-site Search* 
    - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
  - *Product: VA.gov Profile*
