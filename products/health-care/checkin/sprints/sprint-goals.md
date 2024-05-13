@@ -116,7 +116,8 @@ ________________________________________________________________________________
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
     - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
     - **Sub Goal: Move to New AWS Instance**
-        - ❗ TBD
+        - ❗🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
+        - ❗🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
@@ -159,11 +160,11 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
+    - ✔️ ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79879)
     - ✔️ ❗🟨 [[DevOps] Validate staging BTSSS calls work as expected with and without fwdproxy integration. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81640)
     - **Sub Goal: Move to New AWS Instance**
-        - 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
-        - 🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
+        - ⛔ 🚧 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
+        - 🚧 🟨 [[DevOps] Plan rewrite of CHIP IaC as Terraform](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79797)
         - ✔️ 🟨 [[DevOps] Request CMS-service-account-3 be deleted from vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82001)
         - ✔️ 🟨 [[BE] Update BTSSS endpoint to use fwdproxy in prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73257)
         - ✔️ 🟨 [[DevOps] Determine and document key personnel for Check-In Experience.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82616)
@@ -189,7 +190,7 @@ ________________________________________________________________________________
         - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80222)
         - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
     - **Sub Goal: Add New Translated Content**
-        - 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
+        - ✔️ 🟩 [[FE] Add Tagalog Translations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61443)
 - **GOAL: Address Tech Debt**
     - ✔️ 🟩 [Details Page: Don't Show Labels when Data is Not Available ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81541)
     - ✔️ 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81795)
