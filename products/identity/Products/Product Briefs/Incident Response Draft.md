@@ -51,7 +51,7 @@ The OCTO Identity team monitors system performance and inbound communications 24
 * 
 
 ## Solution Approach: 
-### Process using both Datadog and Pager Duty for incident management
+### Possible process using both Datadog and Pager Duty for incident management
 
 This process reflects the new process if we used both Datadog and Pager Duty:
 
