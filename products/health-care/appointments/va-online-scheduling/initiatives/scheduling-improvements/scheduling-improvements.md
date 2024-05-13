@@ -21,6 +21,13 @@ Reference epic/feature above for key decisions
 
 ## Questions
 
+For Tia:
+1. What Types of care will we support fro thr request flow?
+2. What Types of care will be support for the direct schedule flow?
+3. [Here is a walkthrough](https://github.com/department-of-veterans-affairs/va.gov-team/assets/79866060/e1a6d3c5-ad2c-41ab-8e31-e9e52d04eb19) of the wire flow for the Oracle Health integration along with the [figma file](https://www.figma.com/design/XqlvMB7Z6WJNfFYVGxD4O9/OH-MVP-%7C-Appointments-FE-(Copy)?node-id=2548%3A13783&t=qb2iHXaRbLUAW9fk-1). Is there anything in this flow you have questions about or that seem problematic?
+
+
+___
 1. (For Apothesource) What data is returned for the time slot availability? Knowing this will help us to understand if a filter or sorting option would be helpful and what we might be able to sort and filter by. 
 > **Brad C 4/30:** Right now VPG (and vaos-service) only return the slot ID, start time, and end time. We could also return the VHA facility ID of the slot location (Slot location: Is a VHA facility ID, like 757GC. VETSAPI can then resolve that against MFS/LH to get the facility name ("Marion VA Clinic") and address.) as well the provider name if the slot schedule has an assigned provider.
 Looking forward to the future provider based scheduling use cases, we are planning to also provide an endpoint to return the patient's provider relationships as well (each relationship will have a designated facility and type of care). That would give you some options:
