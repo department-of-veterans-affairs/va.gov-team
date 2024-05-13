@@ -6,24 +6,23 @@ Thank you for taking some time with us today!
 
 [Intro self and team]
 
-We asked you to chat and test out a flow for requesting identity support, because you’d recently posted in the VSP-Identity slack channel asking for support from our team. Our team has been working on a more formal process to fielding support requests to help make sure all are addressed in a timely manner.
+We asked you to chat and test out a flow for requesting identity support, because you’d recently posted in the VSP-Identity slack channel asking for support from our team. Our team has been working on a more formal process to field support requests to help make sure all are addressed in a timely manner.
 
 A couple of points before we get started
-- We aren’t testing you or your abilities, but you are helping us test a possible solution
+- We'll ask you to do a task, but we aren’t testing you or your abilities. You're helping us test a possible solution
 - We want to hear your honest opinions. We welcome and appreciate your candid feedback.
-- In case we have any questions with our notes we need to check, we’d like to record this session today. Are you ok if we start recording?
+- In case we have any questions with our notes we need to check, we’d like to record our chat today. Are you ok if we start recording?
 
 ## Intention setting Q’s | 5 min
 
-- Can you take me through your thinking about when you made a request in VSP-Identity
-   - Anythign from where you went, who you asked, what you asked and such?
+- I'd like to start off by getting an understanding of your thoughts as you needed to make a request to my team. Can you take me through your thinking about when you made a request in VSP-Identity
+   - Anything from where you went, what you looked at or looked for, who you asked, what you asked and such?
+      - Would you ever search Google? a team's Slack Docs? for that type of question?
+      - Do you ever seek information on a teams Canvas page?
    - It doesn’t have to be perfectly chronological, but I’d especially like to hear anything that starts with you and your team discovering you needed some Identity support to having that support request resolved or fulfilled.
-   - [follow-ups as needed]
-   - Would you ever search Google? a team's Slack Docs? for that type of question?
+   - [other follow-ups as needed]
 - If you need help or support from another team how do you figure out how to initiate that?
-   - Before posting in VSP-Idenetity did you seek support in any other way?
-      - searching goolge, looking at GH docs?
-   - How often do you go to the Canvas page on another team’s slack channel?
+   - [if need more discussion can talk about Platform process]
 
 
 Thanks for filling in that context
@@ -41,7 +40,7 @@ Thanks for filling in that context
          - Is that a clear instruction?
          - What would make it more understandable?
 
-Ok, so now you are typing in the slash command. Let’s say you are need the same support as the last time you requested support from Identity. <br>
+Ok, so go ahead and use VSP-Identtiy channel to type in the slash command. Let’s say you are need the same support as the last time you requested support from Identity. <br>
 [if don’t remember, then any type of support that would make sense for their team]
 
 [As they look through the first drop down]<br>
