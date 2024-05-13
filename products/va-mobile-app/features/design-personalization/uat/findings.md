@@ -7,3 +7,6 @@ UAT interviews were conducted May 9-10, 2024. We spoke to 4 participants (1 Andr
 - Average loadtime was 2.7 seconds — we didn't see any terrible load times (1-4 seconds, on a mix of wifi & cellular—but no "one bar" situations). 
 
 We feel confident moving forward to evaluative testing with Veterans using the build as-is.
+
+[Analysis spreadsheet](https://docs.google.com/spreadsheets/d/1HSL0SJRwomx4dwDioufKgfQbYSpkYVZvO4F379H5GQw/edit#gid=831278958)
+
