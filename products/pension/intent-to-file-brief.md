@@ -128,6 +128,7 @@ This will replace the submission date currently included in the PDF footer.
 * after in-progress form has expired but ITF is still valid: user has to start a new pension app.
 * after form and ITF have expired: user has to start a new form and file a new ITF on the same day.
 * after in-progress form is valid and ITF has expired: create a new ITF.
+* Option: if data policy allows saved form extension for a year everytime users login and resume a saved form, above suggestions can we adjusted.
 
 **Based on system-based triggers..**
 * When a form is about to expire, and a user has logged in since this form was created/renewed, extend it for one year.
