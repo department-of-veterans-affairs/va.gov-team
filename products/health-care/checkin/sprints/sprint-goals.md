@@ -49,6 +49,8 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Add Medication Review Content to Appointment Information**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Analyze current metrics to see what they tell us**    
@@ -65,6 +67,11 @@ ________________________________________________________________________________
     - ❗🟨 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Add Medication Review Content to Appointment Information**
+        - 🟥 [[[Design] Create Final Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - 🟩 [Add Medication Review Content to Appts Product ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82908)
+        - 🟩 [Add Medication Review Content to PCI Product(s) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Increase PCI Usability**    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
@@ -91,8 +98,6 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
-- **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Add Medication Review Content to Appointment Information**
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Stand-alone Travel for  VistA Sites**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
@@ -111,11 +116,6 @@ ________________________________________________________________________________
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
-- **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Add Medication Review Content to Appointment Information**
-        - 🟥 [[[Design] Create Final Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
-        - 🟩 [Add Medication Review Content to Appts Product ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82908)
-        - 🟩 [Add Medication Review Content to PCI Product(s) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
