@@ -215,9 +215,9 @@ Although people know files aren't required, they try to think of things that cou
 
 1. Make the call-to-action on the home page more clear and focus on type of response.
 2. Include the progress bar and set general expectations for length of time to complete the form.
-3. Explore other ways of asking for and/or reviewing personal information when authenticated.
-4. Let people edit pre-filled information in the form to make temporary, local updates.
-5. Consider feasibility to prioritize whether and/or how to include saved progress feature.
+3. Ask submitters to review non-editable personal information up front when authenticated.
+4. Let people make temporary, local updates to their contact information.
+5. Revisit saved progress feature in future.
 6. Review school information fields to assess need and add clarifying content.
 7. Move 'Your question' to be the last page and make it easy to review before your submit.
 
