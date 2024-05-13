@@ -1,6 +1,7 @@
 # About this Research
 
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Request%20%26%20Support%20Process%20MVP.md)
+- [UAT info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Request%20&%20Support%20Process/UAT_MVP.md)
 
 ## Planned Timeline
 
