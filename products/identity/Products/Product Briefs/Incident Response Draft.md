@@ -50,7 +50,21 @@ The OCTO Identity team monitors system performance and inbound communications 24
 * 
 
 ## Solution Approach: 
-* 
+### Process using both Datadog and Pager Duty for incident management
+
+This process reflects the new process if we used both Datadog and Pager Duty:
+
+- Monitor alert triggered.
+- Slack notification sent.
+- Pager Duty alert sent to on-call developer.
+- On-call developer acknowledges alert in Pager Duty.
+- On-call developer clicks alert in Slack to pull up Datadog event.
+- On-call developer assesses event.
+- If event is a service outage, the on-call developer declares an incident via the Datadog incident management user interface.
+- Team works to resolve service outage.
+- Team adds notes to incident as details emerge and investigation progresses.
+- Once the service has been restored, the on-call developer resolves the incident in both Datadog and Pager Duty.
+
   
 ## Technical Considerations:
 | Issue         | Notes         | 
