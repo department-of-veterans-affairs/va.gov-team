@@ -54,10 +54,8 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
-
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+> 💡 Medication Disclosure Rate
+> 💡User Engagement with Medication Content
 
 ---
 
