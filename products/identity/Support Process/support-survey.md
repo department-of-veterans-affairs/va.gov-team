@@ -52,9 +52,12 @@ Understanding customer satisfaction is crucial for continuous improvement.
 
       - For Participants data, select "Uncut"
   
-      - You'll be prompted to accept an Excel file download
+      - You'll be prompted to accept an Excel file download (*.XLSX)
   
- ![Excel Survey Data](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/4ccf5199-c821-4f31-9d68-2f82103fd6a0)
+      - The following image shows the file open in Numbers on a Mac 
+
+
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/63532d4c-dd2b-432b-abd4-2d1f7b709983)
 
 ----------------
 
