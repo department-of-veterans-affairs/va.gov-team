@@ -85,4 +85,5 @@ This process reflects the new process if we used both Datadog and Pager Duty:
 
 
 ## Future Scope:
-* 
+
+## Joe Notes
