@@ -60,13 +60,13 @@ The following metrics will be considered before advancing rollout to the next st
 1. Errors in Sentry
 2. Errors in Datadog
 
-### Stage A Results (5/13-5/15) - 10% of users
+#### Stage A Results (5/13-5/15) - 10% of users
 
 1. **Errors in Sentry**:
 2. **Errors in Datadog**:
 3. **What changes (if any) need to be implemented before proceeding to the next rollout stage?** 
 
-### Stage B Results (5/15-5/20) - 50% of users
+#### Stage B Results (5/15-5/20) - 50% of users
 
 1. **Errors in Sentry**:
 2. **Errors in Datadog**:
