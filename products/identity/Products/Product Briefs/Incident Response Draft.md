@@ -4,7 +4,7 @@
 Now that we have created our [Service Level Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md) and published our [Service Level Agreements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md), it is time to create procedures surrounding what happens when we don't meet those Agreements.
 
 
-## Problem Statement: (Describe what problem we’re going to address with this product)
+## Problem Statement: 
 We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and VA.gov, we need to implement and communicate an Incident Response process.
 
 ## Relevant Documents:
