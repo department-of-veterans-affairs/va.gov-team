@@ -105,9 +105,9 @@ This will replace the submission date currently included in the PDF footer.
 
 ## V3 - Extending the validity period of an in-progress form and/or ITF (TBC)
 ### Manage expiration dates in a way that:
-* Helps Veterans to receive backdated pensions benefits based on when they started an application, within 'reasonable' time limits. >>>Sanja B. Note. Don't we need V4 implemented for backdated ITF? Any way user-driven ITF extension and in-progress form extension to be moved to V1. That way we'd cover majority of use cases. 
-* Doesn't confuse Veterans using the form.
-* Doesn't create a system/service that is costly but doesn't benefit most.
+* Extend in-progress forms and ITF life in a way that's beneficial to Veterans and doesn't create any additional burden for users or business teams.
+* Reduce confusion/simplify communication of form expiry and ITF expiry dates that Veterans have to understand/remember. 
+* Avoid creating a system/service that is costly but doesn't benefit most.
 
 **Status (as of 5/8/24)**
 * OCTO: in review
@@ -143,7 +143,8 @@ This will replace the submission date currently included in the PDF footer.
 
 ## V4 - Renew ITF using past dates (TBC)
 ### When a user has logged in and a prior ITF has expired and a reasonable time has lapsed, establish a new backdated ITF that's reasonable.
-
+* Helps Veterans to receive backdated pensions benefits based on when they started an application, within 'reasonable' time limits.
+  
 **Status (as of 5/8/24)**
 * OCTO: TBD
 * VBA: TBD
