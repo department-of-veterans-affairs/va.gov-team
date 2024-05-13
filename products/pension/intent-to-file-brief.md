@@ -66,7 +66,8 @@ The Veteran has one year from the time they submit an intent to file  to complet
 
 **2. When a Veteran starts or resumes a 527EZ application online and the API is unavailable:**
 * The system will display appropriate messaging to the user that their application start date has been saved and they can proceed to fill and submit their application.
-* The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated. >>>Sanja B. Note, during retry, we are still limited to only start ITF with current date, not form start date. This may become issue, if retries go over several days. May not be a big issue (i.e. losing only a day or two), but worth noting. 
+* The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated.
+* Re-try mechanism behavior: Retries will be limited to only start ITF with current date, not form start date. This may become an issue, if retries go over several days, hence retries will be limited to [a reasonable number, 7?] days.
 
 _**Once above is implemented, noting interaction between new ITF behavior and existing saved in-progress form behavior:**_
 * A saved in-progress form can expire while an ITF is still active. When the user logs in next, they will have to start a new form.   
