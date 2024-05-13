@@ -29,7 +29,7 @@ For this first iteration, the focus will be on:
 
 ## Use Cases:
 
-### From SLA
+### From SLA: 
 The OCTO Identity team responds to service outages as follows:
 
 | Severity level | Description | Response time |
