@@ -242,34 +242,27 @@ This recommendation involves:
 - making it clear that the percentage complete is how much of the form you've completed
 - adjusting the percentage so it starts at 0% on the category page and finishes at 100% (without showing the progress bar) on the confirmation page
 
-### Recommendation 3: Explore other ways of asking for and/or reviewing personal information when authenticated.
+### Recommendation 3: Ask submitters to review non-editable personal information up front when authenticated.
 
-When people authenticate, it should be easy for them to review and submit information we already know, such as their name, DOB and phone number. People expect this to happen after they sign in, rather than in the middle of the form.
-
-This recommendation involves:
-- letting people review their personal information after they click 'Ask a new question'
-- or, not including personal information within the form, and asking people to review it on the review and submit page
-- or, not asking people to review their information at all, similar to My HealtheVet Secure Messaging
-
-### Recommendation 4: Let people edit pre-filled information in the form to make temporary, local updates.
-
-If people update their pre-filled information in the form, it's unclear whether it will impact their profile information. We should agree an approach and make it clear what the impact is when (or if you can) edit your information.
+When people authenticate, it should be easy for them to review and submit information we already know and that they can't change, such as their legal name, DOB and SSN. People expect this to happen after they sign in, rather than in the middle of the form.
 
 This recommendation involves:
-- letting people make a temporary, local change, in other words, they can edit their information on the page and it doesn't impact their profile
-- making it clear how your information is not impacted if you make an edit on the page
+- letting people review their personal information at the start of the form
+- making it quick to review information that you can't edit
+- making it clear when you can't edit information that you're reviewing
 
-### Recommendation 5: Consider feasibility to prioritize whether and/or how to include saved progress feature.
+### Recommendation 4: Let people make temporary, local updates to their contact information.
 
-If people don't finish their question, they could have the option to come back and submit it later. We need to understand feasibility and decide scope.
+If people update their pre-filled information in the form, it's unclear whether it will impact their profile information. We should make it clear which information they can edit, such as, their contact information. And how it doesn't impact their profile.
 
-Things to consider:
-- when returning to Ask VA, there could be a prompt to finish your question (not a card)
-- or, when returning to Ask VA, there could be a draft card within your dashboard
-- or, when signing in to VA.gov, there could be an unfinished application in your My VA dashboard
-- whether the link to finish your question (or application) later is necessary
-- what information to include in the saved progress alert
-- whether this feature is in scope
+This recommendation involves:
+- letting people edit their contact information in the form, without it impacting their profile
+- making it clear how your profile will not change if you edit a field in the form
+- adding a flag so the CRM team knows not to update their database when information has been 'manipulated'
+
+### Recommendation 5: Revisit saved progress feature in future.
+
+If people don't finish their question, they could have the option to come back and submit it later. We assessed the feasibility, effort and purpose of this feature. We also discussed how submitters are prompted to return to their unfinished question. This feature will be put on hold right now, because it's not a current feature on ask.va.gov and is not in scope for Phase 1.
 
 ### Recommendation 6: Review school information fields to assess need and add clarifying content.
 
@@ -294,11 +287,16 @@ This recommendation involves:
 
 ## Next steps
 
-We're working on finalizing next steps.
+- Draft and handover homepage content and flow –– [#990](https://github.com/department-of-veterans-affairs/ask-va/issues/990)
+- Submit an experimental design ticket for the progress bar –– [#1002](https://github.com/department-of-veterans-affairs/ask-va/issues/1002)
+- Update designs for pre-filled information – [#989](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/989)
+- Put the saved question feature on hold.
+- Plan a review with the GI Bill team – [#862](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/989)
+- Move 'Your question' to the end of the form – [#992](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/992)
 
 ## Further research needed
 
-We're working on defining further research that's needed.
+We are planning research with assistive technology users in the near future. We'll reassess changes we've made to the user experience at that point, and also understand how they work for people who use assistive technology.
 
 ## Appendix
 
@@ -388,7 +386,7 @@ Disability and Assistive Technology (AT):
 * AT advanced user: 0
 * Desktop screen reader: 0
 * Mobile screen reader: 0
-* Magnification/Zoom: 1
+* Magnification/Zoom: 0
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
 * Hearing aids: 0
 * Sighted keyboard: 0
