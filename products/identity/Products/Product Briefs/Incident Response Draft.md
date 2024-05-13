@@ -37,7 +37,7 @@ For this first iteration, the focus will be on:
 ## Technical Considerations:
 | Issue         | Notes         | 
 | ------------- |:-------------:| 
-| |               |
+| Update the downtime banners to fire based on authentication method, either SiS or SSOe. Today the banner shows if the SSOe service is down even if a user is trying to login with SiS (oauth=true param set)| We need to add a PD integration within PD, we need to figure out how to handle backend statuses, potentially need to update the frontend banner settings, need to update the datadog monitor for SiS              |
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
