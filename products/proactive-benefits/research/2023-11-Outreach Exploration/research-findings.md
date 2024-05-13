@@ -1,4 +1,4 @@
-# Research Plan for Proactive Benefits, November 2023
+# Research Findings for Proactive Benefits, November 2023
 
 Office of the CTO - Digital Experience (OCTO-DE), Proactive Benefits Team, Benefits Portfolio
 
