@@ -42,7 +42,7 @@ The Veteran has one year from the time they submit an intent to file  to complet
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Agreement on scope of v1
 * Review and sign offs
-* 
+  
 **Status (as of 5/13/24)**
 * OCTO: in review
 * VBA: in review
