@@ -182,11 +182,11 @@ Availability for a kick-off call, in Eastern times:
     * Tue, May 14 anytime between 10am-530pm EST
 
 **We will use a special build of the VA Health and Benefits mobile app** (to be provided by VA mobile app team), and distribute it to participants using a link (prototype scheduled to be ready **May 13**).  
-- Screenreader pre-pilot participant email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
-- Date and time of screenreader pilot session: **Week of March 18**
+- Pre-pilot participant (Screenreader & non-screenreader) email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
+- Date and time of pre-pilot session: **Week of March 18**
 
-- Non-screenreader pilot participant email: **TBD**  
-- Date and time of non-screenreader pilot session: **TBD**  
+- Pilot participant (non-screenreader) email: **TBD**  
+- Date and time of pilot session: **TBD**  
 
 ### Research sessions
 * Planned dates of research: **Week 1: May 28-31, Week 2: June 3-7**
