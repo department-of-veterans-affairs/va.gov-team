@@ -68,7 +68,7 @@ The Veteran has one year from the time they submit an intent to file  to complet
 * The system will display appropriate messaging to the user that their application start date has been saved and they can proceed to fill and submit their application.
 * The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated.
 
-**Once above is implemented, noting interaction between new ITF behavior and existing saved in-progress form behavior:**
+_Once above is implemented, noting interaction between new ITF behavior and existing saved in-progress form behavior:_
 * A saved in-progress form can expire while an ITF is still active. When the user logs in next, they will have to start a new form.
 * An ITF can expire while a saved in-progress is still active. When the user logs in next, a new ITF will be created on that day.
 
