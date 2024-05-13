@@ -1,4 +1,4 @@
-# VA Mobile App - Personalized Home Screen: Summary of findings 
+# VA Mobile App - Personalized Home Screen: UAT Summary of Findings 
 
 UAT interviews were conducted May 9-10, 2024. We spoke to 4 participants (1 Android, 3 iOS).
 
