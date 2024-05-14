@@ -134,23 +134,24 @@ For phase 1, each subhub will feature links and a short description to the follo
       - Benefits for birth defects linked to Agent Orange: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
   - **Get - Additional benefits or services(H3)**
       - Tricare: *Build out R&S page to link to on this program*
-      - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp
+      - CITI Program: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CITI.asp [MIGHT BE REMOVING, TBD CONVO WITH MIKKI 5/15]
       - Respite care: https://www.caregiver.va.gov/support/Respite.asp
       - Program of general caregiver support services: https://www.caregiver.va.gov/Care_Caregivers.asp
   - **Get - Helpful tools(H3)**
-      - Income Limits: https://www.va.gov/health-care/income-limits/introduction
+      - Income Limits: https://www.va.gov/health-care/income-limits/introduction [MIGHT BE REMOVING, TBD CONVO WITH MIKKI 5/15]
   - **Manage(H2)**
       - Request travel reimbursement: https://www.va.gov/health-care/get-reimbursed-for-travel-pay/
       - Pay copay bills: https://www.va.gov/health-care/pay-copay-bill/
       - File a CHAMPVA claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp
       - File a SBHCP claim: https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp
       - Request a decision review: https://www.va.gov/decision-reviews/
+      - Get help from accredited rep: https://www.va.gov/get-help-from-accredited-representative/
   - **More(H2)**
       - Meds by Mail: https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp
       - Fisher House Program: https://www.socialwork.va.gov/fisher.asp
-      - Coaching into care: https://www.mirecc.va.gov/coaching/
+      - Coaching into care: https://www.mirecc.va.gov/coaching/ [MIGHT BE REMOVING, TBD CONVO WITH MIKKI 5/15]
       - CHAMPVA FAQs: https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA_faq.asp
-      - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp
+      - Finding a CHAMPVA provider: https://www.va.gov/COMMUNITYCARE/programs/dependents/locate-provider.asp [MIGHT BE REMOVING, TBD CONVO WITH MIKKI 5/15]
       - The PACT Act and your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
     
 - **Survivors compensation and accrued benefits**
