@@ -15,7 +15,7 @@ During the session, participants shared their screen via Zoom, installed a pre-r
 - Task 3: (if applicable) Click on the Veteran Status Card
 - Task 4: Navigate to the corresponding Category Screen for each visible home screen module, review category screen for accuracy
 
-After the activity, we helped participants uninstall the pre-release version of the app as awell as Testflight.
+After the activity, we helped participants uninstall the pre-release version of the app as well as Testflight.
 
 
 ## Results
