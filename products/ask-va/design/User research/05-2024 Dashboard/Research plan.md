@@ -164,7 +164,7 @@ We will recruit 5 business submitters for a total of 5 completed sessions. They 
 |Monday, July 15-Wednesday, July 17|Analysis|
 |Thursday, July 18-Friday, July 19|Synthesis|
 |From July 22|Discuss findings and recommendations|
-|From July 25|Share findings and recommendations|
+|From July 26|Share findings and recommendations|
 
 ## Pilot sessions
 
