@@ -1,3 +1,37 @@
+## Meeting Notes for CRM Sync on 05/14/2024
+
+
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. We will add a flag in the form payload that indicates whether or not the user has modified any of their personal data.
+  * Allow in-form edits.
+  * Edits only affect the form payload.
+  * To make permanent profile changes, user will need to visit VA Profile.
+  * Denote edits-by-user state for CRM in payload to skip updates.
+  * Next Steps
+    1. CRM will add an item to the backlog to track this change
+    2. The teams will create a new boolean field in the form payload (i.e. not a field-by-field boolean)
+2. Becky and Natalie are meeting with the Enterprise Demographics Team tomorrow afternoon (2pm ET). That team is involved with gender stakeholders. Business requirements still need some clarity, Jaime will join. There may be a need for a technical resource on this call as well; Becky and Natalie will reach out to AVA CRM and AVA VA.gov devs as needed.
+  
+### Action Items:
+
+- [X] ~JOE: Create a SPIKE for printer-friendly inquiry+correspondence details view~
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+  * Becky reported the following update in our 4/30 sync:
+    * By end of May, should have a concrete timeline of creating the survey for AVA.
+    * By end of quarter (June) at the latest, survey should be live.
+    * Becky will keep her finger on the pulse and alert us to updates to this timeline.
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+
+
+
+
 ## Meeting Notes for CRM Sync on 05/07/2024
 
 
