@@ -1,6 +1,7 @@
+# Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
+Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
 ## 5/14/24 Biweekly VBA-BDEX Check-in
-Attendees: 
 ### Notes
 - 0781 Design [screenshare Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715641897177/87fab1b22d2833fc50d79c68313efc63115c8cd0?sender=u3672f0ffd2d02de8b0885285)
   - Question 10B - additional info about behavior change
@@ -27,6 +28,7 @@ Attendees:
       - Look at document type dropdown that’s in the current 526 for other evidence types
       - What if they check three things and only upload two documents? Would want all checkboxes to be visible in case they’re planning to upload some later
     - Open question: if this is in section 2, when they get to section 3 there will be another opportunity to upload supporting documents. Thinking through how to message that so the Veteran doesn’t upload things twice
+   
 
 
 
