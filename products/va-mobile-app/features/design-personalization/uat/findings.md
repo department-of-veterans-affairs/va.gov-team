@@ -1,11 +1,11 @@
 # VA Mobile App - Personalized Home Screen: UAT Summary of Findings 
+UAT interviews were conducted May 9-13, 2024.
 
-- UAT interviews were conducted May 9-13, 2024.
+## Approach
 - We spoke to 4 participants (1 Android, 4 iOS).
 - UX/UR, A11y specialist, and ENG lead attended.
 - We did not record the sessions.
 
-## Method & Protocol
 During the session, we provided and participants installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and they logged in with their VA credentials to the production server. Veterans then participated in a remote, moderated, guided activity covering the following tasks:
 - Task 1: Review Home Screen for accuracy (inlcuding counting the number of seconds it took for the screen to finish loading)
 - Task 2: Navigate to and from the Home Screen using Activity modules
@@ -17,11 +17,11 @@ After the activity, we helped participants uninstall the pre-release version of 
 
 ## Results
 - 96% of [tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/uat/test-plan-protocol.md) passed
-    - Only one participant for one task didn't pass (Veteran Status did not appear when it should have), and it's due to a data issue with disability rating (not the app) - ENG is filing a bug for this
+    - Only one participant for one task didn't pass (Veteran Status did not appear when it should have), and it's due to a data issue with disability rating (not the app) - **ENG is filing a bug for this**
 - Average loadtime
   - Folks who had modules in their Activity section and who had a disability rating waited an average of 2.7 seconds for the whole homescreen to load (1-4 seconds, on a mix of wifi & cellular—but no "one bar" situations)
-  - One participant who had minimum data (did not have a disability rating, was not enrolled in VA healthcare, did not have an open claim, and had no modules in their Activity section) waited for 10-14 seconds for the "About you" section to full load.  ENG is filing a bug for this.
-- We caught a few little readability/contrast things that were not blockers - exploring enhancements.
+  - One participant who had minimum data (did not have a disability rating, was not enrolled in VA healthcare, did not have an open claim, and had no modules in their Activity section) waited for 10-14 seconds for the "About you" section to full load.  **ENG is filing a bug for this.**
+- We caught a few little readability/contrast things that were not blockers - **UX is exploring enhancements**.
 
 ### Results
 We feel confident moving forward to evaluative testing with Veterans using the build as-is.
