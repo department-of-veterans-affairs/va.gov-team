@@ -153,8 +153,6 @@ We will recruit 5 business submitters for a total of 5 completed sessions. They 
 
 ## Timeline
 
-This section has **not** been updated yet FYI.
-
 |Date|Milestone|
 |:--|:--|
 |Friday, May 17|Research review|
