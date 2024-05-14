@@ -48,8 +48,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Add “none of these locations” to the Gulf War 1990 questions. 
  - [X] Implement checkbox and loop for Gulf War and 9/11 summary pages.
  - [X] Add “I’m not sure” to the Gulf War 1990 pages.
- - [ ] Heading content and URL changes.
- - [ ] Transform service on the first of each location in 15B and put these behind the Toxic Exposure feature flag.
+ - [X] Heading content and URL changes.
+ - [X] Transform service on the first of each location in 15B and put these behind the Toxic Exposure feature flag.
  - [ ] Handle multiple exposure durations 15B.
  - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, adding 15B and 15E are populated.
 
