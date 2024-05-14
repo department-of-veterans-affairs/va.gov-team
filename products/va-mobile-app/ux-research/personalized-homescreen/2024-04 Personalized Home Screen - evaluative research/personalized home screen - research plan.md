@@ -210,12 +210,12 @@ Availability for a kick-off call, in Eastern times:
 ### Availability
 * Non-screenreader users
    * (Monday is memorial day)
-   * Tue 5/28: 11am-430pm EST/10am-530pm CST
+   * Tue 5/28: 11am-530pm EST/10am-430pm CST
    * Wed 5/29: 10:30am-6pm EST/9:30am-5pm CST
    * Thu 5/30: 1230-6pm EST/1130am-5pm CST
    * Fri 5/31: 10:30am-6pm EST/9:30am-5pm CST
    * Mon 6/3: 10:30am-6pm EST/9:30am-5pm CST 
-   * Tue 6/4: 10am-430pm EST/9am-530pm CST
+   * Tue 6/4: 10am-530pm EST/9am-430pm CST
 * Screenreader users
    * Wed 6/5: 12-6pm EST/11am-5pm CST
    * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
