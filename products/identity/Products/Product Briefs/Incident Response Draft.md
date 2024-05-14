@@ -3,9 +3,15 @@
 ## Overview: 
 Now that we have created our [Service Level Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md) and published our [Service Level Agreements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md), it is time to create procedures surrounding what happens when we don't meet those Agreements.
 
+This m
+
 
 ## Problem Statement: 
-We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and VA.gov, we need to implement and communicate an Incident Response process.
+We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov, we need to implement and communicate a formalized Incident Response process which includes the following:
+* Ticketing System for tracking incidents
+* Outage Communication strategy for Veterans and other teams.
+* System recovery process.
+* Internal reporting on incidents.
 
 ## Relevant Documents:
 - [SLO & SLI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md)
@@ -19,7 +25,7 @@ For this first iteration, the focus will be on:
 * What is an incident, anyways?
   * Failing to meet SLA
   * Service Outages
-  * ??
+  * Anything that
 * How do we track the work we are doing to resolve an incident?
 * How do we communicate an incident is happening to stakeholders?
 * Documenting steps to resolve various types of incidents
