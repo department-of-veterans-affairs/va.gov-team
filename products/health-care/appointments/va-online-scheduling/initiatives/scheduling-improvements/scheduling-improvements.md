@@ -24,7 +24,7 @@ Reference epic/feature above for key decisions
 For Tia:
 1. What Types of care will we support fro thr request flow?
 2. What Types of care will be support for the direct schedule flow?
-3. [Here is a walkthrough](https://github.com/department-of-veterans-affairs/va.gov-team/assets/79866060/e1a6d3c5-ad2c-41ab-8e31-e9e52d04eb19) of the wire flow for the Oracle Health integration along with the [figma file](https://www.figma.com/design/XqlvMB7Z6WJNfFYVGxD4O9/OH-MVP-%7C-Appointments-FE-(Copy)?node-id=2548%3A13783&t=qb2iHXaRbLUAW9fk-1). Is there anything in this flow you have questions about or that seem problematic?
+3. Given the of the wire flow for the Oracle Health integration along with the [figma file](https://www.figma.com/design/XqlvMB7Z6WJNfFYVGxD4O9/OH-MVP-%7C-Appointments-FE-(Copy)?node-id=2548%3A13783&t=qb2iHXaRbLUAW9fk-1). Is there anything in this flow you have questions about or that seem problematic?
 
 
 ___
