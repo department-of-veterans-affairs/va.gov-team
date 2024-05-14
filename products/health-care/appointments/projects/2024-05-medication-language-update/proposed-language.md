@@ -7,7 +7,7 @@ The medication review language will appear on most (possibly all) scheduled appo
 
 **Prepare for your appointment**
 
-Bring a list of all *your medications*, including these types:  
+Make a list of all *your medications*, including these types:  
 - Prescriptions from VA and non-VA providers
 - Over-the-counter medications
 - Vitamins, supplements, and herbal remedies
@@ -28,7 +28,7 @@ See example here - [Figma](https://www.figma.com/design/zdLjBmeymTyHALf5lBzVgI/M
 
 {h2} Prepare for your appointment
 
-Bring a list of your medications to review with your provider. 
+Make a list of your medications and drug allergies to review with your provider. 
 
 {Additional Info Link} What to include in your list
 
