@@ -217,7 +217,7 @@ Availability for a kick-off call, in Eastern times:
    * Mon 6/3: 10:30am-6pm EST/9:30am-5pm CST 
    * Tue 6/4: 10am-530pm EST/9am-430pm CST
 * Screenreader users
-   * Wed 6/5: 12-630pm EST/11am-530pm CST
+   * Wed 6/5: 12-7pm EST/11am-6pm CST
    * Thu 6/6: 10:30am-6pm EST/9:30am-5pm CST
    * Fri 6/7: 10:30am-6pm EST/9:30am-5pm CST
 
