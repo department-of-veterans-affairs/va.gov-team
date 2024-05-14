@@ -56,7 +56,47 @@ These instructions outline how to generate and send an analytics report to our V
 - Submissions: [27-Travel via Check-in submissions](#27-travel-via-check-in-submissions)
 - Submission failures: [28-Travel via Check-in submission failues](#28-travel-via-check-in-submission-failues) total "vets-api call to BTS3" call failures; % of [28-Travel via Check-in submission failues](#28-travel-via-check-in-submission-failues) total "vets-api call to BTS3" call failures divided by [29-Travel via Check-in submission started](#29-travel-via-check-in-submission-started)
 
+
 ##  Where to Get Each Metric 
+
+> [!NOTE]  
+> **NOTE: Dashboards should be filtered for the quarter for which metrics are being reported**
+
+| Metrics   | Value(s)/Calculation | Source Dashboard |
+|-----------|--------------|------------------|
+| 1-Downtime | 100 - **Veteran facing - Mobile check-in: Uptime (Actual, not Objective)** | [SLO Dashboard](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1713117063321&to_ts=1715709063321&live=true)|
+| 2-Customer Satisfaction Score |  | Medallia |
+| 3-Check-in completion count | API Request - check-in-user.*success | [PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 4-Check-in error rate | API Request - check-in-user.*failed divided by API Request - check-in-user.*success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 5-Check-in Latency | **Check Veteran In - Duration from when a Veteran clicks 'Check in' and receives confirmation (p95) (Acutal, not Objective)** | [SLO Dashboard](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1713117063321&to_ts=1715709063321&live=true)|
+| 6-Pre-Check-in completion count | API Request - pre-check-in-user - success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 7-Pre-Check-in error rate | API Request - pre-check-in-user - failed divided by API Request - pre-check-in-user - success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 8-Pre-Check-in Latency | **Pre Check In - Duration from when a Veteran completes 'pre-check-in' and receives confirmation (p95) (Acutal, not Objective)** | |
+| 9-Travel via Check-in completion count| API Request - submit-travel-pay-claim.*success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 10-Travel via Check-in error rate | Sum of API Request - submit-travel-pay-claim.*failed divided by API Request - submit-travel-pay-claim.*success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 11-Travel via Check-in Latency | **Check Veteran In - Duration from when a Veteran clicks 'Check in' and receives confirmation (p95) (Acutal, not Objective)** | [SLO Dashboard](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1713117063321&to_ts=1715709063321&live=true)|
+| 12-Check-in audience | API Request - day-of-validating-user-dob - success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 13-Check-in verification rate | API Request - day-of-validating-user-dob - success divided by API Request - day-of-validating-user-dob - started multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 14-Check-in conversion rate | API Request - day-of-validating-user-dob - success divided by API Request - check-in-user.*success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 15-Check-in submissions |  *API Request - check-in-user.*success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 16-Check-in submission failues | API Request - check-in-user.*failed |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 17-Check-in failure rate | API Request - check-in-user.*failed divided by API Request - check-in-user.*success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 18-Pre-Check-in audience | API Request - preCheckIn-validating-user-.* - success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 19-Pre-Check-in verification rate | API Request - preCheckIn-validating-user-.* - started divided by API Request - preCheckIn-validating-user-.* - success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 20-Pre-Check-in conversion rate | API Request - pre-check-in-user - success divided by API Request - preCheckIn-validating-user-.* - started multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 21-Pre-Check-in submissions | API Request - pre-check-in-user - success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 22-Pre-Check-in submission failues | API Request - pre-check-in-user - failed |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 23-Pre-Check-in failure rate |API Request - pre-check-in-user - failed divided by API Request - pre-check-in-user - success multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 24-Travel via Check-in audience | nav-check-in.*to-travel-question.*clicked |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 25-Travel via Check-in verification rate | **TOTAL # of "Yes" was answered to "Do you want to file a BT claim?"** divided by **TOTAL # of pageviews of "Do you want to file a BT claim?" page** multiplied by 100 | |
+| 26-Travel via Check-in conversion rate | API Request - submit-travel-pay-claim.*success divided by nav-check-in-yes-to-travel-question.*clicked multiplied by 100 |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 27-Travel via Check-in submissions | API Request - submit-travel-pay-claim.*success |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 28-Travel via Check-in submission failues | API Request - submit-travel-pay-claim.*failed |[PCI Metrics GA Dashboard](https://analytics.google.com/analytics/web/#/dashboard/HGz2gQKxStaxOOyKrbDT1Q/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240325/) |
+| 29-Travel via Check-in submission started | Sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** | |
+
+<details>
+    <summary>OLD Where to Get Metric</summary>
+    ##  Where to Get Each Metric 
 
 **NOTE: Dashboards should be filtered for the quarter for which metrics are being reported**
 
@@ -183,6 +223,8 @@ These instructions outline how to generate and send an analytics report to our V
 - NOTE: Always use column **Unique Events**
 - Value = Sum of **API Request - submit-travel-pay-claim-45MR - started** and **API Request - submit-travel-pay-claim - started** 
 - Source = [GA filter for API Requests for PCI](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20240101&_u.date01=20240331&explorer-segmentExplorer.segmentId=analytics.eventAction&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.eventAction%22,%22RE%22,%22submit-travel-pay-claim%20-%20started%7Csubmit-travel-pay-claim-45MR%20-%20started%22,0%5D%5D/)
+
+</details>
 
 
 
