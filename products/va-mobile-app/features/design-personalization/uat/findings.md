@@ -2,7 +2,18 @@
 
 UAT interviews were conducted May 9-13, 2024. We spoke to 4 participants (1 Android, 4 iOS).
 
-- 96% of tasks passed
+## Method
+During the session, we provided and participants installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and they logged in with their VA credentials to the production server. Veterans then participated in a remote, moderated, guided activity covering the following tasks:
+- Task 1: Review Home Screen for accuracy (inlcuding counting the number of seconds it took for the screen to finish loading)
+- Task 2: Navigate to and from the Home Screen using Activity modules
+- Task 3: (if applicable) Click on the Veteran Status Card
+- Task 4: Navigate to the corresponding Category Screen for each visible home screen module
+
+After the activity, we helped participants uninstall the pre-release version of the app as awell as Testflight.
+
+
+## Results
+- 96% of [tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/uat/test-plan-protocol.md) passed
     - Only one participant for one task didn't pass (Veteran Status did not appear when it should have), and it's due to a data issue with disability rating (not the app) - ENG is filing a bug for this
 - Average loadtime
   - Folks who had modules in their Activity section and who had a disability rating waited an average of 2.7 seconds for the whole homescreen to load (1-4 seconds, on a mix of wifi & cellular—but no "one bar" situations)
