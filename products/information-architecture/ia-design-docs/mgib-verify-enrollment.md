@@ -22,6 +22,8 @@
 
 IA created a [VYE flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711750816135/b561b61b07b246ced1462aa92265079d26571034?sender=u79ee90295fdb006d7f463212) to document what the flow could like if both tools are integrated in www.va.gov/education/verify-school-enrollment/enrollment-verifications/ 
 
+In addition, current user flow is the tool landing page > verification step > back to tool landing page. Users will see a green successful submission message. What would this look like if verification isn't successful?
+
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
