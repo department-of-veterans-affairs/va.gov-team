@@ -62,7 +62,7 @@ These instructions outline how to generate and send an analytics report to our V
 > [!NOTE]  
 > **NOTE: Dashboards should be filtered for the quarter for which metrics are being reported**
 
-| Metrics   | Value(s)/Calculation | Source Dashboard |
+| Metrics   | Value/Calculation | Source Dashboard |
 |-----------|--------------|------------------|
 | 1-Downtime | 100 - Veteran facing - Mobile check-in: Uptime (Actual, not Objective) | [SLOs](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1713117063321&to_ts=1715709063321&live=true)|
 | 2-Customer Satisfaction Score |  | Medallia |
