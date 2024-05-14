@@ -15,15 +15,6 @@ Thanks for joining us today! May I call you \[first name\]?
 - What magnifier will you be using?
 - What percentage will you be zooming in today?
 
-
-
-\[if they are a Voice command user\] I understand you will be using voice command today.  
-
-- Can you confirm that?
-- What voice command software will you be using?
-
-
-
 Before we start, I want to give you an idea of what this session will be like:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
@@ -147,7 +138,7 @@ _\[Refill prescriptions page\]_
 
 
   - \[If they find it on the med list\]
-    - \[if they struggle to find it in the list\] Besides scrolling, what would you expect could help you find Atorvastatin? \[Provide additional guidance if needed\]
+    - \[if they struggle to find it in the list\] Besides scrolling, what would you expect could help you find Amlodipine? \[Provide additional guidance if needed\]
     - \[if they don’t click the link in the card\] What would you do next?
 
 
