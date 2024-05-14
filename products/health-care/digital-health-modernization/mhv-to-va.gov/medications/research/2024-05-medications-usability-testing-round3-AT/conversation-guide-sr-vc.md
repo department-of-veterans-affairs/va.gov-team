@@ -9,37 +9,29 @@ Thanks for joining us today! May I call you \[first name\]?
 
  My name is \[name\]. I'm a researcher, and I work as part of a team that is improving VA's websites and other resources for Veterans. We reach out to Veterans as we design these resources to get their input so we can help make sure we meet their needs.
 
-\[if they are a Mag user\] I understand you will be using a screen magnifier today.  
+I understand you will be using a screen reader/ voice command today.  
 
 - Can you confirm that?
-- What magnifier will you be using?
-- What percentage will you be zooming in today?
-
-
-
-\[if they are a Voice command user\] I understand you will be using voice command today.  
-
-- Can you confirm that?
-- What voice command software will you be using?
-
-
+- What screen reader/ voice command software will you be using?
+- How long have you been using this screen reader/ voice command software?
 
 Before we start, I want to give you an idea of what this session will be like:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 90 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veterans’ needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be selectable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a live website today.** However, because it is a testing site, there may be some of the data may not match your expectations. Since it's a testing site, none of your actions will affect your actual VA information or benefits. 
 - **If for any reason and at any time you want to stop the session, please let me know.**
 
-I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
+I want to make sure that you're comfortable with a few of my teammates assisting me on this call. 
+ - I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information.
+ - I have another teammate who is our accessibility specialist. They are here to help us get set up with screen sharing and to troubleshoot any tech issues we may experience.
+ - The others are just here to observe. Do I have your permission to let them into the session?
 
 _\[If yes: \]_ Thank you. When they are connected, I will ask them to make a quick introduction.
 
 _\[If no:\]_  I appreciate you letting me know. Please give me a quick moment to let them know.
 
 _\[When observers are connected to audio, ask them to introduce themselves\]_
-
-
 
 - Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 - _\[If yes: \]_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
@@ -48,55 +40,48 @@ _\[Start recording.\]_
 
 - I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
-## **Screen share/Remote share  - 2 minutes**
+## **Screen share  - 5 minutes**
 
+I will now ask [CAIA team member] to walk you through sharing your screen. 
 
-_\[If on Desktop/Laptop/Tablet:\]_ I am going to have you take over the mouse on my screen. As soon as I get set up, I will give you instructions on what to do.  _\[when ready\]_ I am going to hand over control in just a second. When I do, you will see a notification pop up on your screen and then you will be able to control my screen. Ready?
-
-_\[If on mobile: \]_ Have you shared your screen over Zoom with your phone?
-
-_\[If yes: \]_ I dropped the link to the prototype in the chat. Go ahead and pull it up and when you are ready to share, please do so.
-
-_\[If no, follow protocol for particular OS (Android/iOS)\]_
-
-**Participant Coaching**
+### **Participant Coaching**
 
 Today we are trying to learn how a Veteran might use this product if they were on their own.  
 
-Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
+Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. I understand that your screen reader will be doing quite a bit of talking, so don’t feel like you need to talk over it. 
 
 If you are ready, we can begin.  
 
 ## **Warm-up Questions - 2 minutes**
 
-I would like you to take a moment to acquaint yourself with this prototype. Please do not refill any medications as we will do that together during the session.
+I would like you to take a moment to acquaint yourself with this prototype. Please do not refill any medications as we will do that together during the session. As a live site, we also need to make sure there are medications for our next participant to fill. 
+ 
+Let me know when you are ready to get started. 
+ 
+[if participant is not on landing page] 
 
-Let me know when you are ready to get started.
-
-_\[if participant is not on landing page\]_
-
-Please click on the VA logo in the header.
+Please return to “About Medications” 
 
 
 ## **First Task: REFILL - 5 minutes**
 
 _\[Landing page\]_
 
-1. I would like you to order a medication. It is called Tacrolimus, it starts with T like tango, A like alpha, C like Charlie, R like Romeo.
+[Medications will change as they are consumed by participants] 
+1. I would like you to order one medication. It is called Amoxicillin, it starts with A like alpha, M like Mike, O like Oscar, X like X-ray. 
 
 \[do not interrupt participant, collecting ToT\]
 
 
-
-\[If the participant gets confused on Ready to Refill page:\] Remember, we are just refilling Tacrolimus.
+\[If the participant gets confused on Ready to Refill page:\] Remember, we are just refilling Amoxicillin.
 
 \[After refill submitted\]
 
   - Was your submission successful? How do you know?
 
+[Medications will change as they are consumed by participants] 
 
-
-2. Let’s say you realize you needed to order remaining medications. How would you do that?
+2. Please refill the Benzonatate and Calamine lotion. Benzonatate starts with B like bravo, E like echo, N like November, Z like Zulu. Calamine starts with C like Charlie, A like Alpha, L like lima, O like Oscar. 
 
 \[do not interrupt participant, collecting ToT\]
 
@@ -104,13 +89,11 @@ _\[Landing page\]_
 \[After refill submitted\]
 
   - Was your submission successful? How do you know?
-  - What would you do next?
 
 
 3. Let’s go back to refill again, but we are going to pause on the page.
 
   - Please share your thoughts on how the refill process worked for you.
-
 
 
 \[if they notice the ‘Prescriptions you may need to renew’ section\]
@@ -137,13 +120,13 @@ _\[Refill prescriptions page\]_
 
 
 
-1. What would you do if you were expecting to refill a medication called Amlodipine? It starts with A like alpha, M like Mike, L like Lima, O like Oscar.
+1. What would you do if you were expecting to refill a medication called Atorvastatin? It starts with A like alpha, T like tango, O like Oscar, R like Romeo. 
 
 
 
   - \[If they find it on the refill page\]
     - \[If they are seeing the renew section for the first time\] Let’s pause for just a moment. Can you tell me in your own words what this section is about?
-    - Back to Amlodipine. We were expecting to refill it. What would you do next?
+    - Back to Atorvastatin. We were expecting to refill it. What would you do next?
 
 
   - \[If they find it on the med list\]
@@ -151,7 +134,7 @@ _\[Refill prescriptions page\]_
     - \[if they don’t click the link in the card\] What would you do next?
 
 
-_\[Amlodipine detail page\]_
+_\[Atorvastatin detail page\]_
 
 
 
@@ -163,13 +146,10 @@ _\[Amlodipine detail page\]_
  - \[if they go into “What does this status mean\] What would you do next?
 
 
-
 \[If the participant doesn’t see the “Learn to renew” link, guide them\]
 
 
-
 _\[Landing page – Renew accordion\]_
-
 
 
 3. Which of these options would you choose? Why?
@@ -181,7 +161,6 @@ _\[Landing page – Renew accordion\]_
 - Does the participant find Amlodipine on the Refill prescriptions page?
 - Does the participant notice the ‘Learn to renew’ link?
 - What renewal option would the participant choose?
-
 
 
 ## **Third Task: FIND - 10 minutes**
@@ -201,14 +180,12 @@ _\[Landing page\]_
   - What would you do to get more information about that?
 
 
-2. The last medication we looked at, Amlodipine, was expired. This one is discontinued. What do you think the difference is between “expired” and “discontinued?”
+2. The next medication on the list after Tramadol is Amlodipine Besylate, is expire expired. This one is discontinued. What do you think the difference is between “expired” and “discontinued?” 
 
 
-
-3. Before we move on, I would like to ask you about how you found this medication.
+3. Before we move on, I would like to ask you about how you found Tramadol.
 
   - Is there something that would have made finding this medication easier?
-
 
 
 4. Let’s pretend you didn’t just refill those medications and you just logged in. Can you tell me what medications were recently refilled?
@@ -217,9 +194,7 @@ _\[Landing page\]_
   - \[possible prompt\] Does this work for you? Is there anything you would change?
 
 
-
 _\[Medications List page\]_
-
 
 
 5. Please go to the top and sort alphabetically by name.  
@@ -231,7 +206,7 @@ _\[Medications List page\]_
 
 I would like to ask you about Metformin. It starts with M like Mike, E like Echo, T like tango, F like Foxtrot.
 
-  - Why do you think Metformin is on here twice?
+  - Why do you think Metformin is on here four times?
   - What are your thoughts on that?
 
 
@@ -252,13 +227,13 @@ I would like to ask you about Metformin. It starts with M like Mike, E like Echo
 _\[Medications list page\]_
 
 
-1. Could you please tell me what the medication Tacrolimus is for? Tacrolimus starts with T like tango, A like alpha, C like Charlie, R like Romeo.
+1. Could you please tell me what the medication Acitretin is for? Acitretin starts with A like alpha, C like Charlie, I like India, T like tango.
 
 \[do not interrupt participant, collecting ToT\]
 
 
 
-_\[Tacrolimus detail page\]_
+_\[Acitretin detail page\]_
 
 
 Please share your thoughts on the information provided on this page.
@@ -289,7 +264,7 @@ Was your submission successful? How do you know?
 
 
 
-## **Fifth Task: PRINT - 5 minutes**
+## **Fifth Task: PRINT/DOWNLOAD - 5 minutes**
 
 
 _\[Refill prescriptions page\]_
@@ -308,7 +283,7 @@ _\[Refill prescriptions page\]_
   - Why would you need to print/download your list rather than view it on the website?
 
 
-2. What if you just wanted to print Atorvastatin? How would you do that?
+2.What if you just wanted to print or download a single medication? How would you do that? You can choose any one.
 
 \[do not interrupt participant, collecting ToT\]
 
@@ -317,30 +292,6 @@ _\[Refill prescriptions page\]_
   - How many pages would you expect it to be?
   - Why did you choose \[format\] over \[format\]?
   - Why would you need to print/download a medication rather than view it on the website?
-
-
-_\[Atorvastatin detail page\]_
-
-3. Please find the name Pat at the very top and click it for me.
-
-This is what you would see if you were to download a PDF of this medication.
-
-  - What are your thoughts on this document?
-  - \[if they don’t mention Allergies\] What are your thoughts on allergies being included?
-  - Is there anything you would change here?
-
-
-Please click on Pat at the top of this page to take us back.
-Let’s go back to the list of medications that we were at earlier.
-
-4. Please find the name “Pat” at the very top and click it for me.
-
-This is what you would see if you were to download a PDF of this list.
-
-  - What are your thoughts on this document?
-  - \[if they don’t mention Allergies\] What are your thoughts on allergies being included?
-  - Is there anything you would change here?
-
 
 
 ### **Things to watch for:**
@@ -353,7 +304,7 @@ This is what you would see if you were to download a PDF of this list.
 
 ## **Sixth Task: OTHER TASKS - 5 minutes**
 
-_\[Atorvastatin detail page\]_
+_\[Medication detail page\]_
 
 
 1. Let’s say you are allergic to Penicillin. Is that information you would expect to find in My HealtheVet?
@@ -361,13 +312,22 @@ _\[Atorvastatin detail page\]_
   - Where would you expect that information to be?
 
 
-2. These last few questions are not about the prototype, but let’s leave it up in case you want to review anything you saw today.
+2. These last few questions are not about this website, but let’s leave it up in case you want to review anything we discussed today.
 
   - Tell me about a time you became frustrated trying to manage your medications.
   - What happened? What frustrated you?  
   - What did you do?  
   - What would have made your life easier?  
   - What would you change or add to this prototype to achieve that?
+
+
+## **Staging Log out - <1 minute**
+
+Please navigate to the top right where you will find the username, “Jamie.” 
+
+Select the dropdown and choose “Sign out” at the bottom. 
+
+I will stop your screen sharing from my end. 
 
 
 ## **Post-Task Interview - 2 minutes**
