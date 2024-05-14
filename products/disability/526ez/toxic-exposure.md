@@ -51,7 +51,6 @@ The Figma file: [526 toxic exposure](https://www.figma.com/file/dBKlB23Hs2oa53eu
 
 The Zenhub ticket [Update content and components on "how is your condition related to your service?" and follow-up question for all radio button options #77226](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/77226) shows the content feedback.
 
-Note [the background on this scope decision](#scope-of-content-to-update).
 
 ## Project background
 
