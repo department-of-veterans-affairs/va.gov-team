@@ -80,7 +80,7 @@ Understand whether submitters can learn the status of their inquiry without sign
 6. It will be straightforward to find the link to check details, but some people will think they can click on the entire card.
 7. On the details page, people will scroll past details to look for a reply from VA.
 8. People who can't respond to VA will be unsure what to do if they have a follow up question or issue.
-9. People will assume they should sign in order to check the status of their question.
+9. People will assume they should sign in to check the status of their question.
 10. If people check their status without signing in, they will only choose to sign in if they have received a reply.
 
 ## Methodology
