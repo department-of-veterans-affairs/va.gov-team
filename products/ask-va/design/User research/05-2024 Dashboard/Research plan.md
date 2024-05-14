@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 10, 2024
+Last updated by @tygindraux: May 14, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -153,17 +153,18 @@ We will recruit 5 business submitters for a total of 5 completed sessions. They 
 
 ## Timeline
 
+**Note:** These dates may shift slightly as we get closer.
+
 |Date|Milestone|
 |:--|:--|
-|Friday, May 17|Research review|
-|Friday, May 17|Desktop prototype is ready|
-|Tuesday, May 21|Mobile prototype is ready|
-|Thursday, May 23|Pilot session|
-|Monday, June 3-Friday, June 7|Research sessions|
-|Monday, June 8-Wednesday, June 10|Analysis|
-|Tuesday, June 25-Thursday, June 27|Synthesis|
-|From May 1|Discuss findings and recommendations|
-|From May 8|Share findings and recommendations|
+|Tuesday, June 4|Prototype(s) are ready|
+|Monday, June 10|Research review|
+|Tuesday, June 25|Pilot session|
+|Monday, July 8-Friday, July 12|Research sessions|
+|Monday, July 15-Wednesday, July 17|Analysis|
+|Thursday, July 18-Friday, July 19|Synthesis|
+|From July 22|Discuss findings and recommendations|
+|From July 25|Share findings and recommendations|
 
 ## Pilot sessions
 
@@ -184,17 +185,19 @@ Perigean does **not** need to set up our pilot sessions. Tyler will schedule and
 
 We will provide 20 time slots, with the aim to book 10 sessions. 
 
-These time slots are for Perigean. We will schedule sessions with business submitters separately (ourselves).
+These time slots are for Perigean. We will schedule sessions with business submitters ourselves, separately.
 
 **We’d also like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. Please include the session time in each participant's respective time zone (from their address).**
 
+**Note:** These dates may shift slightly as we get closer.
+
 |Date|Timeslots (EST)|
 |:--|:--|
-|Monday, June 3|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Tuesday, June 4|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Wednesday, June 5|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Thursday, June 6|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Friday, June 7|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Monday, July 8|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Tuesday, July 9|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Wednesday, July 10|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Thursday, July 11|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Friday, July 12|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
 
 ## Team roles
 
