@@ -1,17 +1,24 @@
-# Research Plan for [Team, Product, Date]
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
+# Research Plan for Oracle Health appointment scheduling usability study
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
-[Link to product brief](url goes here).
+- Ensure that the UI is accessible to all users without exposing backend complexities.
+- Unified scheduling portal for both Vista and Oracle Health Facilities.
+- Single interface streamlines appointment booking process.
+- Users can easily find and book appointments without switching between platforms.
+- Consistency in interface enhances usability and reduces confusion.
+
+Value:
+- Consolidating scheduling for Vista and Oracle Health Facilities into a single portal saves time and reduces frustration.
+- Users benefit from a consistent interface and streamlined process, making it easy to find and book appointments without navigating between multiple platforms.
+
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/scheduling-improvements/scheduling-improvements.md).
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+The research on the new scheduling flow aligns most closely with Objective 1 of OCTO-DE Priorities 2024: "Our digital experiences are the best way to access VA health care and benefits." Specifically, it supports Key Result 1: "CSAT for our web products have increased by 5 points."
+
+By creating a unified scheduling portal that enhances usability and accessibility for Veterans, the research aims to improve their satisfaction with the digital experience of scheduling appointments. This directly contributes to the goal of increasing CSAT for VA web products.
 
 ### Veteran Journey
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
