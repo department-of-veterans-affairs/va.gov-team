@@ -13,12 +13,12 @@ Our work has focused on 5 core priorities:
 
 
 #### Current Work
-* [In Person Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/in-person%20support)
+* [In Person Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing)
 
 #### Previous work
-* [Proactive Login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/login.gov)
-* [Non-Veteran User Types at VA (NVUR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/nvur)
-* [Deferred Identity Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
+* [Proactive Login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign/)
+* [Non-Veteran User Types at VA (NVUR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/nvur)
+* [Deferred Identity Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/deferred-identity-proofing)
 
 
 ### Where to find us 
