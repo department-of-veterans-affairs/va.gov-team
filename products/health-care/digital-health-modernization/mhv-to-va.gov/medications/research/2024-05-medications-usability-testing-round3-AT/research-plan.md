@@ -67,7 +67,9 @@ Data collection will be remote. We will use Zoom.
 
 ### **Research materials**
 
-Link to conversation guide
+[Link to conversation guide - sighted cohort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-05-medications-usability-testing-round3-AT/conversation-guide-sighted.md)
+
+[Link to conversation guide - screen reader/voice command cohort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-05-medications-usability-testing-round3-AT/conversation-guide-sr-vc.md)
 
 [Link to mobile prototype](https://www.figma.com/proto/UGHasFKuKENvKz8AgSmxtI/Medications?node-id=5043-43477&t=mZHSHL3EJTX74I3e-1&scaling=scale-down&page-id=5043%3A43476&starting-point-node-id=5043%3A43477)
 
