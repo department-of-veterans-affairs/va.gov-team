@@ -1,7 +1,7 @@
 # 10-10EZ form URLs in production
 - As of 05/14/2024 - updated by @hdjustice
 
-[URLs in production prior to 5/6/2024, before root URL change](#urls-in-production-prior-to-562024-before-root-url-change)
+- Reference [URLs in production prior to 5/6/2024, before root URL change](#urls-in-production-prior-to-562024-before-root-url-change)
 
 |URL|
 |----|
