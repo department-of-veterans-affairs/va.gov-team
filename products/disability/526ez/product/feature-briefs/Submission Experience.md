@@ -38,8 +38,6 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 
 # In Scope
 This initiative focuses on all paths for the submission and post submission experience. 
-
-- /submit endpoint migration is part of VA services platform migration from legacy EVSS services to Lighthouse platform and must be completed.
 - Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
 - Post-submission notifications, including confirmation email and message on confirmation page, SMS, web and mobile app notifications, paper mail, etc.
 - Outline of information and list of documents submitted (note [concern about filenames potentially containing PII](https://dsva.slack.com/archives/C04KW0B46N5/p1712088148463829?thread_ts=1711557666.821949&cid=C04KW0B46N5)) 
@@ -56,7 +54,6 @@ This initiative focuses on all paths for the submission and post submission expe
 - Note that Team 2 is doing work on addressing small and important issues in the non-happy submission paths, and we will need coordinate with them on future-facing work.
 
 # Success
-- Lighthouse /submit endpoint migration complete
 - Improved clarity in the outcome of claim submission on the UI post submission 
 - Prevention of submission of duplicate claims via va.gov
 - Confirmation/acknowledgement email of successful submission
@@ -64,7 +61,7 @@ This initiative focuses on all paths for the submission and post submission expe
 - Veterans have access to an outline of copy of their information and list of documents submitted
   
 # Risks & Challenges
-1. This work is dependent on the migration from EVSS to Lighthouse's Submit endpoint
+1. This work is dependent on the /submit endpoint migration from legacy EVSS services to Lighthouse platform and must be completed
 2. Technical complexity of /submit endpoint migration
 3. Some unknowns with email confirmations
     1. Content guidance and landscape of existing email confirmations on va.gov
