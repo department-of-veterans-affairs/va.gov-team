@@ -25,24 +25,25 @@ IA created a [VYE flow Mural](https://app.mural.co/t/departmentofveteransaffairs
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-![Image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/d972734c-64dc-4d60-9da5-a422a181232c)
+
+![Sitemap for Verify School Enrollment](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/d706d45e-5326-408e-a4d0-f54182bcc7a8)
 
 
-The tool to verify enrollment for Montgomery GI Bill Benefits will live on the same static page as Post-9/11 VYE, but will have it's own URL. We recommend having both tools on the same page, www.va.gov/education/verify-school-enrollment/enrollment-verifications/. Ideally, this page would only show the relevant benefit to the Veteran so folks don't have to choose between benefits. Due to where the team is at development, it's out of scope at this time to coordinate with the other VYE team about integrating MGIB tool on the same URL, but the team is open to adding this to the backlog for a later version.
+The tool to verify enrollment for Montgomery GI Bill Benefits will live on the same static page as Post-9/11 VYE (outlined in black), but will have it's own URL (outlined in an orange dotted line at level 3). We recommend having both tools on the same page. Ideally, this page would only show the relevant benefit to the Veteran so folks don't have to choose between benefits. Due to where the team is at development, it's out of scope at this time to coordinate with the other VYE team about integrating MGIB tool on the same URL, but the team is open to adding this to the backlog for a later version.
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
 
 
-**1) H1 of page (authenticated landing page with list of verifications) - New**
-- URL: www.va.gov/education/verify-school-enrollment/mgib-verification
+**1) H1 of page (authenticated landing page with list of enrollment verification) - New**
+- URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments
 - Breadcrumb: TBD by Sitewide Content
 - Notes: Ensure that the breadcrumb matches the H1
 
 **2) H1 of page (form flow to verify enrollment) - New**
-- URL: www.va.gov/education/verify-school-enrollment/mgib-verification/verify - confirming with our OCTO lead if this needs to follow the same pattern as Post-9/11 tool or if it needs
+- URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments/verify-information
 - Breadcrumb: TBD by Sitewide Content
-- Notes: Breadcrumb will not change as folks go through the form flow, but the sub-URL should. This form flow only has one page so this might not apply at this time, but something to think about if additional screens are ever added. Here is our guidance on creating sub-URLs for future reference:
+- Notes: Breadcrumb will not change as folks go through the form flow, but the sub-URL should. This form flow only has one page so this might not apply, but something to think about if additional screens are ever added. Here is our guidance on creating sub-URLs for future reference:
 
   > Teams can choose their own sub-urls, or get help from CAIA in choosing them or vetting them.
     Note some standard sub-urls:
@@ -63,21 +64,26 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 1. **[Verify your school enrollment](https://www.va.gov/education/verify-school-enrollment/)** - Add
   - Placement description: In section titled "For Montgomery GI Bill benefits "
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-verification
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments
   - Notes: Connect with Sitewide Content to update language referencing WAVE. Since there will be green sign-in modals, ensure that it is clear which benefit is the one for a Veteran.
 
 2. **[Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)** - Modify
   - Placement description: Under section titled "How do I get these benefits?" step 3
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-verification
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments
   - Notes: Replace link destination to the new VYE tool.
 
 3. **[Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)** - Modify
   - Placement description: Under section titled "Ask your school or training program to certify your enrollment" step 4
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-verification
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments
   - Notes: Replace link destination to the new VYE tool.
 
+4. **[About VA Form 22-8979](https://staging.va.gov/find-forms/about-form-va-form-22-8979/)** - Add
+  - Placement description: Below "Downloadable PDF"
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/education/verify-school-enrollment
+  - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. This list of entry points is iterative so let us know if the form isn't related to either VYE tool.
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
@@ -85,8 +91,8 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 
 Current URL | Redirect to | Notes
 --- | --- | ---
-https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/mgib-verification/ **and all child pages** | Work with stakeholders and WAVE team so the WAVE redirects to the new tool.
-https://www.va.gov/resources/gi-bill-wave-faqs/ | www.va.gov/education/verify-school-enrollment/mgib-verification/ | IA can create a redirect ticket for this
+https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/mgib-enrollments/ | Work with stakeholders and WAVE team so the WAVE redirects to the new tool.
+https://www.va.gov/resources/gi-bill-wave-faqs/ | www.va.gov/education/verify-school-enrollment/mgib-enrollments/ | IA can create a redirect ticket for this
 
 
 
