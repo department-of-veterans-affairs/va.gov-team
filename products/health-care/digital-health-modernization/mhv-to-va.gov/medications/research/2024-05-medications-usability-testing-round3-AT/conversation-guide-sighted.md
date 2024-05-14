@@ -1,7 +1,6 @@
 # **Conversation Guide: MHV on VA.gov, Medications, May 2024 – Sighted Participants**
 
 
-
 ## **Intro - 5 minutes**
 
 Thanks for joining us today! May I call you \[first name\]?
