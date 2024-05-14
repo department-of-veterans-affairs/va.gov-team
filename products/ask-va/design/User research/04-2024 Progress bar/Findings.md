@@ -262,7 +262,9 @@ This recommendation involves:
 
 ### Recommendation 5: Revisit saved progress feature in future.
 
-If people don't finish their question, they could have the option to come back and submit it later. We assessed the feasibility, effort and purpose of this feature. We also discussed how submitters are prompted to return to their unfinished question. This feature will be put on hold right now, because it's not a current feature on ask.va.gov and is not in scope for Phase 1.
+If people don't finish their question, they could have the option to come back and submit it later. We assessed the feasibility, effort and purpose of this feature. We also discussed how submitters are prompted to return to their unfinished question.
+
+This feature will be put on hold right now, because it's not a current feature on ask.va.gov and is not in scope for Phase 1.
 
 ### Recommendation 6: Review school information fields to assess need and add clarifying content.
 
