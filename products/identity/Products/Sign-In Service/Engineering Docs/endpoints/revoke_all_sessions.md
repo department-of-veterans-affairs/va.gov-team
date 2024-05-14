@@ -2,7 +2,7 @@
 
 ## Description
 
-Uses the `session_handle` stored in the `access_token` that is included in the call to look up the user's current session, then uses the attached UsedrAccount to locate all of the user's sessions and destroy them - revoking all of the tokens tied to those sessions.
+Uses the `session_handle` stored in the `access_token` that is included in the call to look up the user's current session, then uses the session's attached user account to locate all of the user's sessions and destroy them - revoking the tokens tied to those sessions.
 
 ## Revoke All Sessions Endpoint - GET
 
