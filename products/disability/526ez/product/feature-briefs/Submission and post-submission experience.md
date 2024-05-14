@@ -6,13 +6,15 @@ This initiative focuses on the experience of submission and after submission of 
 # Problem or Opportunity
 1. How might we provide Veterans timely and truthful information about their claim?
     - Veterans want to track their claim and ensure it doesn't get stuck, but they don't know how to do this.
-    - VA Contact Center has a high volume of calls asking about disability claim status. Can we reduce the volume and help reduce wait time for Contact Center calls?
+    - Veterans feel that they have to call the Contact Center to get recent information about the status of their claim
+2. Some Veterans don't have a "receipt" of what they submitted
+   - Some Veterans can't track the status of their claim, so they can't get updated information
 3. We want to reduce burden to Veterans after they attempt to submit a disablity claim, in terms of:
-    - Having to resubmit material, especially having to re-start forms from scratch
+    - Having to resubmit documents or forms for ancillary jobs
+    - Veterans have to recomplete forms from scratch when 4142 or 781 fails
     - Having long delays before their claim is successfully submitted
-4. How might we help Veterans feel confident that we have all their claim material?
-5. Veterans sometimes submit duplicate claims. This requires additional effort on the part of VSRs and the organization to identify and manage and respond, and it will delay the Veteran's claim processing.     
-6. Veterans want to access "receipts" of what they submitted in case they need to contact VA or resubmit something to move their claim forward.
+4. When Veterans resubmit the failed component of their claim they don't know if the VA has all their claim material
+5. Veterans sometimes submit duplicate claims because Veterans aren't sure if the claim went through. This requires additional effort on the part of VSRs and the organization to identify and manage and respond, and it will delay the Veteran's claim processing.    
 
 # Why
 This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission and track the status of their claim. 
