@@ -117,3 +117,6 @@ Your annotations don't have to be anything fancy, and you don't need to annotate
     -   Verify through user research!
 -   Think about focus management (but not too much).
 -   Annotate your prototypes.
+
+## Additional resources
+- [Focus management presentation](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Focus.pptx)
