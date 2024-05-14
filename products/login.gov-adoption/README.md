@@ -5,11 +5,11 @@ Last Updated: May 14, 2024
 Secure Sign in Transition (SSiT), formerly known as Login.gov Adoption (LGA) aims to streamline the sign-in process on VA.gov by offering Login.gov and ID.me as preferred credential options, while phasing out duplicative and non-compliant legacy credentials, expanding access channels, and enhancing pathways for Veterans to verify their identity in person.
 
 Our work has focused on 5 core priorities:
-**Priority 1:** My HealtheVet (MHV) coordinator led in-person proofing (and remote video) pathway for Veterans
-**Priority 2:** Non-Veteran User Roles (NVUR) focusing on caregivers, beneficiaries, and delegates
-**Priority 3:** Inherited proofing/migration of MHV users to Login.gov
-**Priority 4:** Security Keys as an MFA option distributed during in-person proofing
-**Priority 5:** TAP curriculum evaluation
+* **Priority 1:** My HealtheVet (MHV) coordinator led in-person proofing (and remote video) pathway for Veterans
+* **Priority 2:** Non-Veteran User Roles (NVUR) focusing on caregivers, beneficiaries, and delegates
+* **Priority 3:** Inherited proofing/migration of MHV users to Login.gov
+* **Priority 4:** Security Keys as an MFA option distributed during in-person proofing
+* **Priority 5:** TAP curriculum evaluation
 
 
 #### Current Work
