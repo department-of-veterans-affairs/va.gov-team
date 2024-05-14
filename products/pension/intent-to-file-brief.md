@@ -31,7 +31,7 @@ The opportunity to start receiving benefits payments from the date they started 
 * Deliver incremental value to Veterans in a timely fashion.
 
 ### Avoid
-* Confusing Veterans about ITF for pension online and hamper their benefits application experience.
+* Confusing Veterans about ITF for pension online and hampering their benefits application experience.
 * ITF functionality (when the API is available and unavailable) that prevents a Veteran from starting or completing the pension app
 
 
@@ -61,7 +61,7 @@ When a pension application is submitted online, submission date is used as the e
 #### Hypothesis / Proposed Behavior:
 * By informing Veterans about pension ITF, users can kick off their application process sooner than later, and maximize ITF-based effective dates (ie: they don't wait to start their application).
 * By introducing an ITF step in the pension application, Veterans will be provided clarity on the ITF process and what they need to do to by when to benefit from it. 
-* By communicating ITF dates to VBA, enable Veterans to recieve an effective date earlier than their online submission date.
+* By communicating ITF dates to VBA, enable Veterans to receive an effective date earlier than their online submission date.
 
 
 #### Assumptions:
@@ -79,7 +79,7 @@ When a pension application is submitted online, submission date is used as the e
 * The total number of Veterans applying for Pension benefits online that fill out a separate 0966 Intent to File form through another medium is reduced. [via VBA data]
 * Drop offs at ITF screens are at a minimum (for when the API is available and unavailable) - the ITF experience does not hamper the Veteran's pension application journey. [via DOMO/GA]
 * Users clearly understand ITF screens and understand what they need to do to benefit from it. [via Research studies]
-* Users start their application soon without necessarily waiting til they have all info to start applying, so that they can benefit from ITF dates. For users that apply quickly (ie: within a day or two) ITF benefits will be neglible. [via Research studies]
+* Users start their application soon without necessarily waiting til they have all info to start applying, so that they can benefit from ITF dates. For users that apply quickly (ie: within a day or two) ITF benefits will be negligible. [via Research studies]
 * ITF API related issues are at a minimum. [via DataDog]
 
 
@@ -90,7 +90,7 @@ When a pension application is submitted online, submission date is used as the e
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Policy question on keeping saved forms for longer than a year
 * Agreement on scope of v1
-* Retry machanism limits? what happens if retrying fails ? What's communicated at submission to user and VBA?
+* Retry mechanism limits? What happens if retrying fails? What's communicated at submission to user and VBA?
 * Decide on if notifications are sent about expiry
 * Sanja's proposal to auto-renew
 
@@ -187,7 +187,7 @@ This will replace the submission date currently included in the PDF footer.
 * after in-progress form has expired but ITF is still valid: user has to start a new pension app.
 * after form and ITF have expired: user has to start a new form and file a new ITF on the same day.
 * after in-progress form is valid and ITF has expired: create a new ITF.
-* Option: if data policy allows saved form extension for a year everytime users login and resume a saved form, above suggestions can we adjusted.
+* Option: if data policy allows saved form extension for a year everytime users login and resume a saved form, above suggestions can be adjusted.
 
 **Based on system-based triggers..**
 * When a form is about to expire, and a user has logged in since this form was created/renewed, extend it for one year.
@@ -230,7 +230,7 @@ Areas to explore:<br>
 * Policy topics
 >Honor any started form as an ITF. Ideally use auto-ITF paradigm on Disability ITF form on 527 but there are some issues. Get 12 months, then expires. Day after expiry would have to start a new one. Or if submitted by mail, day mail was received is the potential start date. Not channel specific. Save the files locally. Meaningless until VBA has it.
 
-* How make sure to get it to VBA meaningfully?
+* How to make sure to get it to VBA meaningfully?
 > Retry. Address issues around writing duplicates to the system.
 
 **April 2024 Meeting 2:**
@@ -246,8 +246,8 @@ Would need to figure out how to cancel the sidekick job once they submit.
 
 > Meaningful distinction - accurate ITF is better. Having it updated in VBMS would be helpful, sometimes that’s the only place people will look. 
 If they call in an ITF, there might not be other documentation.
-On Pension, they look at every step if it’s granted of denied. ITF date determines how they consider income and assets. EG they use the date the moment the first person picks it up.
-Income and assets gets entered right before it’s decided. ITF governs what they count and when they count it.
+On Pension, they look at every step if it’s granted or denied. ITF date determines how they consider income and assets. EG they use the date the moment the first person picks it up.
+Income and assets get entered right before it’s decided. ITF governs what they count and when they count it.
 Could updating it in the middle of the process be confusing? Yes, but sounds like things like that aren’t uncommon and VBA is still willing to fix it.
 
 * _Would you honor an ITF date if printed on a PDF?  (For example, a Veteran starts the 527 EZ application online but an ITF date cannot be established as the API is down. If the system wrote the ITF to the PDF generated through the 527EZ online submission, could a procedure be established to honor that printed ITF?)_
