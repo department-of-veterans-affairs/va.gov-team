@@ -1,6 +1,6 @@
 ## Identity Team
 
-Identity management, or identity and access management is a framework of policies and technologies to ensure the right users have appropriate access. The Identity team controls the Authentication and Authorization of users of [VA.gov](VA.gov), its services and tools. 
+The OCTO Identity teammanages the authentication integration for VA.gov. We help teams set up and monitor a secure signed in experience for VA.gov applications and services. 
 
 [Learn more about Identity and our team contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/identity-team-charter.md)
 
