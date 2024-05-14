@@ -21,7 +21,7 @@ In 2021, [usability research](https://github.com/department-of-veterans-affairs/
 
 In 2024, the IIR team was tasked with continuing to explore opportunities for improvement on the Outreach Events calendar page. Building upon the foundation laid by previous research, the team embarked on a comprehensive review of existing findings to identify additional areas for enhancement. This iterative process involved designing wireframes that incorporated new insights and potential solutions, paving the way for further development.
 
-During preparation for usability testing, the IIR team participated in a technical feasibility review, which revealed a fundamental need to adapt the page's development structure to support required functionality, such as location-based features. As of mid-April, the project will transition from the IIR team to the Platform team, ensuring continuity and alignment with broader development initiatives within the organization.
+During preparation for usability testing, the IIR team participated in a technical feasibility review, which revealed a fundamental need to adapt the page's development structure to support required functionality, such as location-based features. As of mid-April, the project will transition from the IIR team to the Sitewide team, ensuring continuity and alignment with broader development initiatives within the organization.
 
 ### Existing Research Artifacts
 
@@ -48,4 +48,4 @@ The primary objective of this handoff is to preserve critical information, inclu
 
 ### Change log
 
-David Pearl: April 24th, 2024 – wrote up a read me for handoff to Platform team.
+David Pearl: April 24th, 2024 – wrote up a read me for handoff to Sitewide team.
