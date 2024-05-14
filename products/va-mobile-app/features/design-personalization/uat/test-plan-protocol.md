@@ -328,6 +328,7 @@ Thank you so much again, and enjoy the rest of your day!
 ## **Revisions to plan**
 5/8/24 Updated to allow Android users
 
-## **Analysis**
+## **Analysis & Findings**
 
-[2024 - VA Mobile App Home Screen - UAT - Analysis](https://docs.google.com/spreadsheets/d/1HSL0SJRwomx4dwDioufKgfQbYSpkYVZvO4F379H5GQw/edit#gid=831278958)
+- [2024 - VA Mobile App Home Screen - UAT - Analysis](https://docs.google.com/spreadsheets/d/1HSL0SJRwomx4dwDioufKgfQbYSpkYVZvO4F379H5GQw/edit#gid=831278958)
+- [VA Mobile App - Personalized Home Screen: UAT Summary of Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/uat/findings.md)
