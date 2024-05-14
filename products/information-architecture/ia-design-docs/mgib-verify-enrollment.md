@@ -36,12 +36,12 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 
 
 **1) H1 of page (authenticated landing page with list of enrollment verification) - New**
-- URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments
+- URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
 - Breadcrumb: TBD by Sitewide Content
 - Notes: Ensure that the breadcrumb matches the H1
 
 **2) H1 of page (form flow to verify enrollment) - New**
-- URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments/verify-information
+- URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments/verify-information/
 - Breadcrumb: TBD by Sitewide Content
 - Notes: Breadcrumb will not change as folks go through the form flow, but the sub-URL should. This form flow only has one page so this might not apply, but something to think about if additional screens are ever added. Here is our guidance on creating sub-URLs for future reference:
 
@@ -64,25 +64,25 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
 1. **[Verify your school enrollment](https://www.va.gov/education/verify-school-enrollment/)** - Add
   - Placement description: In section titled "For Montgomery GI Bill benefits "
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Connect with Sitewide Content to update language referencing WAVE. Since there will be green sign-in modals, ensure that it is clear which benefit is the one for a Veteran.
 
 2. **[Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)** - Modify
   - Placement description: Under section titled "How do I get these benefits?" step 3
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Replace link destination to the new VYE tool.
 
 3. **[Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)** - Modify
   - Placement description: Under section titled "Ask your school or training program to certify your enrollment" step 4
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Replace link destination to the new VYE tool.
 
 4. **[About VA Form 22-8979](https://staging.va.gov/find-forms/about-form-va-form-22-8979/)** - Add
   - Placement description: Below "Downloadable PDF"
   - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment
+  - Link destination: www.va.gov/education/verify-school-enrollment/
   - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. This list of entry points is iterative so let us know if the form isn't related to either VYE tool.
 
 ## <a name="redirects"></a>Redirects <br>
