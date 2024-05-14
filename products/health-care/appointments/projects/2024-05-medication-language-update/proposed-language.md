@@ -3,7 +3,7 @@
 The medication review language will appear on most (possibly all) scheduled appointments. It should be short, to the point,and easy to scan. Veterans will not need to read this content every time they open an appointment. It should be available as needed.
 
 
-## Proposal - 05/09/2024
+## Proposal
 
 **Prepare for your appointment**
 
@@ -19,6 +19,28 @@ Tell your provider about these things:
 - Changes in how your medications affect you, _including any new side effects_
 - _Any allergies or reactions you've had to your current or past medications_
 - Other health care you're receiving from other VA facilities or from providers outside VA
+
+### How it appears in the UI
+
+See example here - [Figma](https://www.figma.com/design/zdLjBmeymTyHALf5lBzVgI/Medication-Review-Language-%7C-UAE?node-id=1-2)
+
+```
+
+{h2} Prepare for your appointment
+
+Bring a list of your medications to review with your provider. 
+
+{Additional Info Link} What to include in your list
+
+{Start Add'l Info Content}
+
+  >> Medication review final content <<
+
+{End Add'l Info Content}
+
+```
+
+Appointments web
 
 ## Project Resources
 
