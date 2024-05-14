@@ -1,5 +1,7 @@
 # Benefits Disability Experience - Product sync 
 
+### Notes have moved to [DSVA Slack Canvas here](https://dsva.slack.com/canvas/C04KW0B46N5).
+
 ### Date: April 25th' 2024  
 - Working w team Carbs to distrbute work and further increase collaboration
 -    FF work
