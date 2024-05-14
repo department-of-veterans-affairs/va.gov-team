@@ -5,6 +5,7 @@ Fill out every section of this document, if there is no content for a particular
 ## Summary
 
 The redirect from the old 1010ez application URL, it's only matching /health-care/apply/application and /health-care/apply/application/, not anything under the path. 
+
 ## Impact
 
  The link to the 1010ez from find a form (and potentially other places) is giving a 404 error.
@@ -19,7 +20,9 @@ The redirect from the old 1010ez application URL, it's only matching /health-car
 ## Ownership
 
 Team: 10-10 Health Apps team
+
 PO: Patrick Bateman
+
 Crew: Health Tools crew
 
 ## Stakeholders
@@ -29,8 +32,8 @@ List _all_ stakeholders that are or were involved and include at the very least 
 Ensure that the list of stakeholders involved are recorded in the post-mortem and must include at the very least (but may not be limited to):
 
 - Patrick Bateman
-- Brandon Dech
-- Ken Mayo
+- Aparna Nittala - OOB Approver
+- 
 - Adrian Rollett
 
 Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
@@ -82,12 +85,23 @@ Describe cases where, ordinarily, you would have expected to or could have encou
 
 Include the step that describes when and how the issue was identified (i.e. how you detected that the issue existed).
 
-- `2020-01-02 @ 12:34 PM`: The [build](https://build.reference.url/details) ran
-- `2020-01-03 @ 02:34 PM`: The problem was identified by Team T1 through X & Y, and [issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was created to track it
-- `2020-01-03 @ 02:40 PM`: [Issue #123](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/123) was fully understood by team T1
-- `2020-01-03 @ 02:40 PM`: The incident rose to the level requiring a post-mortem due to factors X and Y.
-- `2020-01-03 @ 02:45 PM`: Team T1 produced [Pull Request #124](https://github.com/department-of-veterans-affairs/${REPO_NAME}/pull/124) to resolve the issue
-- `2020-01-03 @ 02:50 PM`: The PR was approved by a member of Team T1 and a member of Team T2 because T2 has interests 'I' in this
+- `2024-05-13 @ 11:03 AM`: Adrian Rollett found an issue with the 10-10EZ redirect causing a `404` error when accessing the form via the Find a Form page.  This was brought to the 10-10 team's attention as well as a request to review the [PR #14311](https://github.com/department-of-veterans-affairs/devops/pull/14311) that Adrian had submitted to resolve the redirect issue.
+- `2024-05-13 @ 11:09 AM`: the [PR #14311](https://github.com/department-of-veterans-affairs/devops/pull/14311) was reviewed by one of the 10-10 team's engineers Joshua Drumm, and approved
+- `2024-05-13 @ 11:11 AM`: Adrian Rollett requested an [OOB deployment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82928) for the redirect fix
+- `2024-05-13 @ 11:16 AM`: Anthony Flowers acknowledged the OOB request
+- `2024-05-13 @ 12:07 PM`: Aparna Nittala approved the OOB deployment, and also requested that there be time to test in staging 
+- `2024-05-13 @ 01:08 PM`: Brandon Dech reached out to the platform-security-team and in their channel for a security review
+- `2024-05-13 @ 01:23 PM`: Patrick Black triggered the build
+- `2024-05-13 @ 01:45 PM`: Dev deployment is successful
+- `2024-05-13 @ 01:49 PM`: Adrian tested and confirmed fix is implemented in Dev environment successfully
+- `2024-05-13 @ 02:50 PM`: Ken Mayo from the Platform Security team reviewed and approved [PR #14311](https://github.com/department-of-veterans-affairs/devops/pull/14311) deployment, with the direction to ensure testing is continued as each environment is deployed
+- `2024-05-13 @ 02:08 PM`: Adrian Rollett validated and confirmed fix is deployed successfully in Staging environment
+- `2024-05-13 @ 02:09 PM`: Patrick Black triggered the Production deployment
+- `2024-05-13 @ 02:17 PM`: Adrian Rollett validated and confirmed fix is deployed successfully in Production environment
+- `2024-05-13 @ 02:22 PM`: Adrian Rollett informed 10-10 team of successful deployment of the fix, and advised to complete a Postmortem document.
+- `2024-05-13 @ 02:34 PM`: Heather Justice tagged PO Patrick Bateman for awareness
+
+
 - ...
 
 ## Contributors
