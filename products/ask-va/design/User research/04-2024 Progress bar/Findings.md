@@ -219,7 +219,7 @@ Although people know files aren't required, they try to think of things that cou
 4. Let people make temporary, local updates to their contact information.
 5. Revisit saved progress feature in future.
 6. Review school information fields to assess need and add clarifying content.
-7. Move 'Your question' to be the last page and make it easy to review before your submit.
+7. Move 'Your question' to be the last page and make it easy to review before you submit.
 
 ## Details of recommendations 
 
@@ -276,7 +276,7 @@ This recommendation involves:
 - understanding current issues with and needs for file uploads and how to describe these clearly
 - changing required label behavior
 
-### Recommendation 7: Move 'Your question' to be the last page and make it easy to review before your submit.
+### Recommendation 7: Move 'Your question' to be the last page and make it easy to review before you submit.
 
 We've consistently found that people expect 'Your question' to be the last question in the form. Or, it should be closely connected to category and topic. 
 
