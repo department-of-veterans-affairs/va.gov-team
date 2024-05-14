@@ -158,7 +158,6 @@ We will recruit 5 business submitters for a total of 5 completed sessions. They 
 |Date|Milestone|
 |:--|:--|
 |Monday, May 27|Prototype(s) are ready|
-|Monday, May 27|Research plan and guide are ready|
 |Monday, June 10|Research review|
 |Tuesday, June 25|Pilot session|
 |Monday, July 8-Friday, July 12|Research sessions|
