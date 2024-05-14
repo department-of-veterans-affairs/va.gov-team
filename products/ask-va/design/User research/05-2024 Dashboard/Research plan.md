@@ -76,7 +76,7 @@ Understand whether submitters can learn the status of their inquiry without sign
 2. People with few or many inquiries in their dashboard will use the date to identify the question they're looking for.
 3. People will expect to be able to search in their dashboard using keywords in the question or category.
 4. The statuses and icons will be distinguishable and understood.
-5. People may confuse the date submitted (H3) with the date last updated.
+5. People may confuse the date submitted (H3, primary date) with the date last updated (secondary date).
 6. It will be straightforward to find the link to check details, but some people will think they can click on the entire card.
 7. On the details page, people will scroll past details to look for a reply from VA.
 8. People who can't respond to VA will be unsure what to do if they have a follow up question or issue.
