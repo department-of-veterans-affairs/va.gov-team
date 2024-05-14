@@ -1,3 +1,5 @@
+This is a live document / the current source of truth that we keep updated.
+
 # Background
 This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of the status of their 526 submission. 
 
