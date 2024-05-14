@@ -1,17 +1,18 @@
-This is a live document / the current source of truth that we keep updated.
+# Purpose
+The purpose of this document is to describe and align development teams and stakeholders on what will be delivered, how, and when. It is a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the progress.
 
 # Background
-This feature addresses the combined space of Services platform migration to Lighthouse for /submit endpoint and how the Veterans are informed of the status of their 526 submission. 
-
-This initiative focuses on the experience of submission and after submission of a disability benefits claim, across all channels. The scope of this is starting at the point when the Veteran clicks "submit" on a disability benefits application on va.gov and ending when the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).   
+All Veterans do not have a positive experience when submitting a claim for disability compensation, there are multuiple issues detailed below that describe errors, confusion, a lack of clarity, missing information, and cognitive load that isn't conducive to the level of quality we aspire to provide for Veterans. This feature focuses on the submission experience starting at the point when the Veteran clicks "submit" on a disability benefits application on va.gov and ending when the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).   
 
 # Problem or Opportunity
-1. How might we provide Veterans timely and truthful information about their claim?
+In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md), we discovered the following problems:
+
+1. Veterans lack timely and truthful information about their claim
     - Veterans want to track their claim and ensure it doesn't get stuck, but they don't know how to do this.
     - Veterans feel that they have to call the Contact Center to get recent information about the status of their claim
 2. Some Veterans don't have a "receipt" of what they submitted
    - Some Veterans can't track the status of their claim, so they can't get updated information
-3. We want to reduce burden to Veterans after they attempt to submit a disablity claim, in terms of:
+3. Veterans experience a burden after they attempt to submit a disability claim, in terms of:
     - Having to resubmit documents or forms for ancillary jobs
     - Veterans have to recomplete forms from scratch when 4142 or 781 fails
     - Having long delays before their claim is successfully submitted
@@ -19,9 +20,7 @@ This initiative focuses on the experience of submission and after submission of 
 5. Veterans sometimes submit duplicate claims because Veterans aren't sure if the claim went through. This requires additional effort on the part of VSRs and the organization to identify and manage and respond, and it will delay the Veteran's claim processing.    
 
 # Why
-This initiative is created to complete the migration and give Veterans more clarity in the outcome of their claim submission and track the status of their claim. 
-
-This work will not only give the Veterans clear indication of submission status and means of tracking claims, but also reduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
+This work will give Veterans more clarity in the outcome of their claim submission, clear status, and means of tracking their claim status. It will also reduce duplicate claims, thereby reducing the time and effort spent by the organization on unnecessary work and direct the effort towards processing on valid claims.
 
 # Proposed Solution
 Under this initiative, all Veterans filing a 526 claim via va.gov will be able to
@@ -64,17 +63,18 @@ This initiative focuses on all paths for the submission and post submission expe
 - Veterans better understand how to track their claims (Claims Status Tool)
 - Veterans have access to an outline of copy of their information and list of documents submitted
   
-# Risks
-1. Technical complexity of /submit endpoint migration
-2. Some unknowns with email confirmations
+# Risks & Challenges
+1. This work is dependent on the migration from EVSS to Lighthouse's Submit endpoint
+2. Technical complexity of /submit endpoint migration
+3. Some unknowns with email confirmations
     1. Content guidance and landscape of existing email confirmations on va.gov
     2. Technical implementation
-3. Uncertain what we can get back about claim status in all cases immediately after submission
-4. User research will require planning around some challenges
+4. Uncertain what we can get back about claim status in all cases immediately after submission
+5. User research will require planning around some challenges
     1. Might want to have Veterans submit actual claims, which we know is difficult to recruit for and usually involves sensitive info
     2. Otherwise, how might we understand whether our attempts to mitigate duplicate submissions will work?  
-5. Any changes to the Claims Status Tool that impact how the Veteran access their claim information or what they are able to track as related to submission may need a copy/link changes
-6. Will need careful collaboration with back-up path and document failures to identify all use cases for full submission flow to make sure there are no missing or inaccurate notifications
+6. Any changes to the Claims Status Tool that impact how the Veteran access their claim information or what they are able to track as related to submission may need a copy/link changes
+7. Will need careful collaboration with back-up path and document failures to identify all use cases for full submission flow to make sure there are no missing or inaccurate notifications
 
 # Plan
 
