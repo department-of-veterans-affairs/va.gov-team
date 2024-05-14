@@ -91,7 +91,8 @@ When a pension application is submitted online, submission date is used as the e
 * Policy question on keeping saved forms for longer than a year
 * Agreement on scope of v1
 * Retry machanism limits? what happens if retrying fails ? What's communicated at submission to user and VBA?
-
+* Decide on if notifications are sent about expiry
+* Sanja's proposal to auto-renew
 
 **Status (as of 5/13/24)**
 * OCTO: in review
