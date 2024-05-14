@@ -4,7 +4,7 @@ May 14, 2024
 ## Approach
 - UAT interviews were conducted May 9-13, 2024
 - Sessions were conducted remotely, via Zoom, on their participants' mobile device.
-- We spoke to 4 participants (1 Android, 4 iOS), all were internal VA contractors, employees or family members we recruited using the list of volunteers or #veterans Ad Hoc channel.
+- We spoke to 5 participants (1 Android, 4 iOS), all were internal VA contractors, employees or family members we recruited using the list of volunteers or #veterans Ad Hoc channel.
 - UX/UR, A11y specialist, and ENG lead attended each session.
 - We did not record the sessions.
 
