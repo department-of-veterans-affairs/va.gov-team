@@ -7,7 +7,7 @@ May 14, 2024
 - UX/UR, A11y specialist, and ENG lead attended each session.
 - We did not record the sessions.
 
-During the session, we provided and participants installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and they logged in with their VA credentials to the production server. Veterans then participated in a remote, moderated, guided activity covering the following tasks:
+During the session, we provided and participants installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and they logged in with their VA credentials to the production server. Veterans then participated in a remote, moderated, guided activity covering the following tasks to ensure everything wass working as expected and data was accurate:
 - Task 1: Review Home Screen for accuracy & completeness
    - Count the number of seconds it took for the screen to finish loading
 - Task 2: Navigate to and from the Home Screen using Activity modules
