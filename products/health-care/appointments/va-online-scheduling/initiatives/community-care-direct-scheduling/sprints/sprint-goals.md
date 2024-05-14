@@ -3,9 +3,8 @@
 
 <details>
 <summary>FUTURE SPRINT - 5/15/2024 - 5/28/2024 </summary>
-        - 🟦 [Mock wellHive Referral endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82393)
     
-    ______________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 7 - 5/15/2024 - 5/28/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
