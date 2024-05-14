@@ -20,11 +20,13 @@ After the activity, we helped participants uninstall the pre-release version of 
 
 ## Results
 - 96% of [tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/uat/test-plan-protocol.md) passed
-    - Only one participant for one task didn't pass (Veteran Status did not appear when it should have), and it's due to a data issue with disability rating (not the app) - **ENG is filing a bug for this**
+    - Only one participant for one task didn't pass (Veteran Status did not appear when it should have), and it's due to a data issue with disability rating (not the app) - **ENG is adding analytics to track this**
 - Average loadtime
   - Folks who had modules in their Activity section and who had a disability rating waited an average of 2.7 seconds for the whole homescreen to load (1-4 seconds, on a mix of wifi & cellular—but no "one bar" situations)
   - One participant who had minimum data (did not have a disability rating, was not enrolled in VA healthcare, did not have an open claim, and had no modules in their Activity section) waited for 10-14 seconds for the "About you" section to full load.  **ENG is filing a bug for this.**
-- We caught a few little readability/contrast things that were not blockers - **UX is exploring enhancements**.
+- We caught a few little readability/contrast things that are not blockers - **UX/A11y to keep an eye on this during evaluative testing.**
+  - 2/4 participants commented that VCL text is hard to read in dark mode; Appears to “vibrate," had trouble reading / focusing 
+  - 2 participants commented that the blue in the modules is very bright / hard to see (When compared to light mode, light mode was much easier to see, read, and focus on).
 
 ### Results
 We feel confident moving forward to evaluative testing with Veterans using the build as-is.
