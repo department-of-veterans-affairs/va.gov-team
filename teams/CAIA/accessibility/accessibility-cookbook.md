@@ -54,12 +54,13 @@ How might we create a heading structure on pages and forms that help everyone, p
 
 ### Further reading
 
+- [Headings presentation (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Headings.pptx)
 - [W3C page structure tutorial](https://www.w3.org/WAI/tutorials/page-structure/headings/)
 - [Accessible heading structure](https://www.a11yproject.com/posts/how-to-accessible-heading-structure/)
 
 ### Last updated
 
-3/6/24
+5/14/24
 
 ***
 
@@ -131,11 +132,11 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 ### Further reading
 
-- [Buttons and links (presentation)](https://docs.google.com/presentation/d/1hv7kENiPuXGcZDwQSM5hItnbyXezu4nY9lFksMQpSK4/edit?usp=sharing)
+- [Buttons and links and action links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Buttons%20and%20Links%20and%20Action%20Links.pptx)
 
 ### Last updated
 
-3/6/24
+5/14/24
 
 ***
 
@@ -198,6 +199,7 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 
 - [Accessibility in the VA Design System](https://design.va.gov/about/accessibility/)
 - [Accessibility annotations for VA.gov applications](https://design.va.gov/about/accessibility/accessibility-annotations)
+- [Live regions (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/CAIA/accessibility/presentations/Live%20Regions.pptx)
 
 ### Further reading
 
@@ -206,4 +208,4 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 
 ### Last updated
 
-May 6, 2024
+May 14, 2024
