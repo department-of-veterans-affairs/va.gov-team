@@ -8,18 +8,23 @@ This document lists first-impression quick fixes to Form 10-10d discovered durin
 
 
 1. The dropdown to select a state works fine on the first page where it appears, but it turns into a text input box that only accepts two capitalized letters on subsequent pages.
-    * **Recommendation**: Ensure the input to select a state is a drop-down on all pages. 
+    * **Recommendation**: Ensure the input to select a state is a drop-down on all pages.
+    * Bug created here: https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/80987
 2. Different pages are jumping all over after interacting with elements or clicking buttons. 
     * **Recommendation:** The user should consistently land in the same place after interacting with an input (either at the top of the page or with the thing they just changed centered).
+    * Needs examples and steps to reproduce
 3. Error messaging is triggered while users input information rather than after they’ve finished.
     * **Recommendation:** Ensure error messaging is only triggered when the user leaves the input (i.e., after they’ve put in their information).
+    * Needs examples and steps to reproduce
 4. The Medicare card upload shows “complete” even if the user uploaded only the front or only the back (CHAMPVA needs both the front and the back of the card to process the application).
     * **Recommendation:** Separate Medicare upload confirmation messages for the front and back of the card. Only show “complete” if they upload that side of the card.
     * Place data validation on the page that requires users to select an item with both the “front” and “back” labels before they can advance to the next page.
 5. On the review page, content in the accordions still reads “Gender” rather than “Sex listed at birth.”
     * **Recommendation:** Ensure the content on the review screen matches the content on the form itself.
+    * Move to content section and include in updates
 6. The form initiates data validation errors that may not be necessary.
     * **Recommendation:** Verify that all error messages are appropriate and triggered at the right time.
+    * Needs examples and steps to reproduce
 7. The address pages currently have three address lines. This may have been a spillover from changes to the address section for FMP.
     * **Recommendation:** Remove the third address line from the address fields.
 8. There seems to be some issue with populating the dynamic content on some upload pages. In particular, we noticed some content was being cut off once the marriage certificate was uploaded.
