@@ -37,7 +37,8 @@ When pension benefits are granted for an online pension application, payments wi
 * [ITF use cases (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715010150706/acb644c56fe8432819c62e7a9c886679c6555978?wid=0-1715116626489)
 *  [ITF technical flow (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1714050769683/e4dffd0f80fc8aca04a773dbe53c0d40fd5f2dde?wid=0-1714497805333&sender=u8c3a54d4503675214e055918)
 *  [ITF designs (Figma)](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?node-id=2181-5007&t=wqDUeTnxf70vQEqj-0)
-*  Q&A with VBA (below) 
+*  [Q&A, Learnings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/pension/intent-to-file-brief.md#qa-learnings) from calls (below)
+*  [Pension ITF Workshops notes](https://docs.google.com/document/d/1bgpEWIFdYOwPci2dhenVVjvuF8IJTy0nqfRbWy6PrRU/edit) - points have been extracted from this doc to this page and Q&A
 
 ## Policy Documents
 *  [ITF VBA Manual](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF%3FarticleViewContext=article_view_related_article#4)
@@ -84,6 +85,8 @@ The Veteran has one year from the time they submit an intent to file  to complet
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Policy question on keeping saved forms for longer than a year
 * Agreement on scope of v1
+* Retry limits? what happens if retrying fails too? What's communicated at submission to user and VBA?
+
 
 **Status (as of 5/13/24)**
 * OCTO: in review
@@ -101,7 +104,7 @@ The Veteran has one year from the time they submit an intent to file  to complet
 **2. When a Veteran starts or resumes a 527EZ application online and the API is unavailable:**
 * The system will display appropriate messaging to the user that their application start date has been saved and they can proceed to fill and submit their application.
 * The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated.
-* Re-try mechanism behavior: Retries will be limited to only start ITF with current date, not form start date. This may become an issue, if retries go over several days, hence retries will be limited to [a reasonable number, 7?] days.
+* Re-try mechanism behavior: Retries will be limited to only start ITF with current date, not form start date. <br>
 
 **3. When an ITF or online form is about to expire:**
 * Inform users and guide them to take action (Email? SMS?)
@@ -113,7 +116,8 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 **4. External items to prioritize:**
 * Update DOMO dashboard with Analytics team to include any new ITF related pages.
 * Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
-* Communications on 'don't wait, start today!'
+* Communications on 'don't wait, start today!' so users can get maximum benefits from ITF
+* Update processing team documentation where needed
 
 
 
@@ -138,7 +142,7 @@ This will replace the submission date currently included in the PDF footer.
 
 **2. When ITF is not established and form is submitted**
 * Write messaging to convey 'Pension ITF not established. Application was started <date>' to footer of PDF.
-
+* Update VSRs on how to utilize pension PDF footer dates
 
 
 ## V3 - Extending the validity period of an in-progress form and/or ITF (TBC)
@@ -178,7 +182,6 @@ This will replace the submission date currently included in the PDF footer.
 * When an ITF is about to expire, and a user has logged in since this form was created/renewed, extend it for one year.
 
 
-
 ## V4 - Renew ITF using past dates (TBC)
 ### When a user has logged in and a prior ITF has expired and a reasonable time has lapsed, establish a new backdated ITF that's reasonable.
 * Helps Veterans to receive backdated pensions benefits based on when they started an application, within 'reasonable' time limits.
@@ -199,6 +202,8 @@ This will replace the submission date currently included in the PDF footer.
 **When an user starts or resumes a form and an ITF has expired less than a year ago**
 * Create a new ITF with a start date of (prior ITF expiry date + 1 day).
 
+**When a logged in user has an application start date on file (post Jan launch) and no ITF set and it's been less than a year**
+* Create a new ITF with a start date = application start date on file.
 
 
 ## Post-Launch Considerations
@@ -206,6 +211,53 @@ Areas to explore:<br>
 * Incorporating improvements in messaging and technical approach made in the 527EZ implementation of intent to file to the 526EZ process.
 * Usability research to explore improvements.
 
+
+## Q&A, Learnings
+
+**April 2024 4/17 Meeting 1:**
+* Policy topics
+>Honor any started form as an ITF. Ideally use auto-ITF paradigm on Disability ITF form on 527 but there are some issues. Get 12 months, then expires. Day after expiry would have to start a new one. Or if submitted by mail, day mail was received is the potential start date. Not channel specific. Save the files locally. Meaningless until VBA has it.
+
+* How make sure to get it to VBA meaningfully?
+> Retry. Address issues around writing duplicates to the system.
+
+**April 2024 Meeting 2:**
+* if they get to submission and we still haven’t retrieved it, what is our solution
+Veteran-facing error?
+> VBA honoring printing ITF on the form.
+Could we continue to retry after they submit? Adjudicator will set it as the date of claim receipt if there’s no ITF, unsure if we can change it later.
+Emily thinks printing ITF date on the form is more straightforward than retrying later.
+Would need to figure out how to cancel the sidekick job once they submit.
+
+**April 2024 VBA Check-in:**
+* _What happens if you receive an ITF with an older date AFTER you already created one? (For example, a Veteran starts the 527 EZ application online but an ITF date cannot be established as the API is down.  A VSR establishes an ITF based on application submission date BUT the system is later able to retrieve the ITF created when the online application was started.  Should we update?)_
+
+> Meaningful distinction - accurate ITF is better. Having it updated in VBMS would be helpful, sometimes that’s the only place people will look. 
+If they call in an ITF, there might not be other documentation.
+On Pension, they look at every step if it’s granted of denied. ITF date determines how they consider income and assets. EG they use the date the moment the first person picks it up.
+Income and assets gets entered right before it’s decided. ITF governs what they count and when they count it.
+Could updating it in the middle of the process be confusing? Yes, but sounds like things like that aren’t uncommon and VBA is still willing to fix it.
+
+* _Would you honor an ITF date if printed on a PDF?  (For example, a Veteran starts the 527 EZ application online but an ITF date cannot be established as the API is down. If the system wrote the ITF to the PDF generated through the 527EZ online submission, could a procedure be established to honor that printed ITF?)_
+
+> It should technically be enough.
+Ideas on how to communicate this? Daniel says the manual would have a CFR reference for ITF, that starting an online application counts
+
+Do we want to remediate past ITFs?  Should we systematically look back and populate the ITF for online pension applications that were created since the online 527EZ launched? 
+They’d want a list of file numbers, could be a quality issue for VSRs if it got updated in the background without context
+VBA would need to figure out how to communicate to the field offices about this
+
+* Do we want to remediate past ITFs?  Should we systematically look back and populate the ITF for online pension applications that were created since the online 527EZ launched? 
+> They’d want a list of file numbers, could be a quality issue for VSRs if it got updated in the background without context.
+VBA would need to figure out how to communicate to the field offices about this
+
+**May 14th VBA Check-in:**
+* What happens to an ITF after an application is submitted?
+>When there is an active ITF, once 527 is submitted, the ITF status reflects "Claims Received" (Dylan Dubbs)
+
+* Re: Pension PDF overflow section (additional info section at end of PDF that gets created when there's more info than what fits in the form fields) - is it OCRd into VBMS? Or how do you know to look for it (in the efolder)?
+We are thinking about using a similar format for the 0969, wondering if there's anything we need to consider/do differently.
+> ..
 
 
   
