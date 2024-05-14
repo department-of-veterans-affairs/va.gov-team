@@ -107,7 +107,7 @@ These are the main features we're testing:
 
 We will work with Perigean to recruit Veterans.
 
-We will also work the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
+We will also work with the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
 
 ### Recruitment criteria – Veterans
 
