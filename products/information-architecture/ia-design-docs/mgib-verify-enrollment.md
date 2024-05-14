@@ -56,6 +56,10 @@ The tool to verify enrollment for Montgomery GI Bill Benefits will live on the s
   > Subtask URL slugs should be short, plain language, and drawn from the H1 if possible. 
     Reminder: Don’t create unnecessary or empty subdirectories when creating sub-URLs!
 
+From Ryan in Figma: 
+
+> With BDN, we can only update all or none, unfortunately. Gladly, this will change in the future when we're away from BDN.
+
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
