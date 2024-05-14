@@ -2,8 +2,8 @@
 UAT interviews were conducted May 9-13, 2024.
 
 ## Approach
-- We spoke to 4 participants (1 Android, 4 iOS).
-- UX/UR, A11y specialist, and ENG lead attended.
+- We spoke to 4 participants (1 Android, 4 iOS), all were internal VA contractors, employees or family members we recruited using the list of volunteers or #veterans Ad Hoc channel.
+- UX/UR, A11y specialist, and ENG lead attended each session.
 - We did not record the sessions.
 
 During the session, we provided and participants installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and they logged in with their VA credentials to the production server. Veterans then participated in a remote, moderated, guided activity covering the following tasks:
