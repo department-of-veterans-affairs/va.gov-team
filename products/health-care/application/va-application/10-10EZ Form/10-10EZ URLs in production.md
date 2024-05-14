@@ -9,7 +9,6 @@
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/personal-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/birth-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/demographic-information|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/american-indian|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/veteran-address|
 |www.va.gov/health-care/aapply-for-health-care-form-10-10ez/veteran-information/veteran-home-address|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/veteran-information/contact-information|
@@ -51,7 +50,6 @@
 |www.va.gov/health-care/apply/application/veteran-information/personal-information|
 |www.va.gov/health-care/apply/application/veteran-information/birth-information|
 |www.va.gov/health-care/apply/application/veteran-information/demographic-information|
-|www.va.gov/health-care/apply/application/veteran-information/american-indian|
 |www.va.gov/health-care/apply/application/veteran-information/veteran-address|
 |www.va.gov/health-care/apply/application/veteran-information/veteran-home-address|
 |www.va.gov/health-care/apply/application/veteran-information/contact-information|
