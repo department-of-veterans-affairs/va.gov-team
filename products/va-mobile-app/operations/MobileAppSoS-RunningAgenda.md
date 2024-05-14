@@ -18,7 +18,8 @@
 * **New Meeting Format**
   * Confirm most important info to cover from POs perspective
   * Review Epic status from [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)?
-
+* **Process Retro**
+  * As we've split into separate teams, what processes are working well at the team level and where are there areas where we need standardization across teams?
 
 
 
