@@ -162,7 +162,7 @@ Response options: yes or no
 - Yes, two or more times per month
 - Yes, one time per month or less 
 - No, I don’t use the VA Health and Benefits mobile app
-*(Answering d or e would qualify the participant as an 'active monthly user')*
+*(Answering a,b or c would qualify the participant as an 'active monthly user')*
 
 **4. Do you currently have an open disability claim or appeal?**  
 Response options: yes or no  
