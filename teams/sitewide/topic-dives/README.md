@@ -62,7 +62,7 @@ Please add any potential future topics you would like covered below:
 
 ### 5/15/23 - CMS User Permission Model (Roles, Permissions, Workflows & Sections)
 - Dave Pickett
-- [CMS User Permission Model video](https://drive.google.com/file/d/1kM_WClSL15z3JX1EAHJ5f-QG8f0n_lyL/view)
+- [CMS User Permission Model video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/CMS%20User%20Permission%20-%20Dave%20P%20-%205.15.2023.mp4)
 - [CMS User Permission Model slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-governance/CMS-user-permission-model.pdf)
 
 ### 4/17/2023 - Diagrams in Github / Markdown with Mermaid
