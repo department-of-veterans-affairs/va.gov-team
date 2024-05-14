@@ -11,7 +11,6 @@ This initiative focuses on the experience of submission and after submission of 
 4. We also do not know if the lack of clear outcome encourages and allows Veterans to submit the same claim multiple times. Duplicate claims will require additional effort on the part of VSRs and the organization to identify and manage and respond, and it will delay the Veteran's claim processing.     
 5. After submitting a disability claim, Veterans expect to **promptly** receive an email confirmation, as is standard with most similar online transactions. Without this, Veterans lack confidence that their claim was received. This may also lead to duplicate submissions. Veterans may also want to use this email as evidence in case they need to contact VA to move their claim forward.
 6. Veterans want to track their claim and ensure it doesn't get stuck, but they don't know how to do this. There is the Claims Status Tool, but we suspect Veterans often don't know about it or don't know how to get there. When they do arrive there, can we improve their experience for tracking a disability claim?
-8. /submit endpoint migration is part of VA services platform migration from legacy EVSS services to Lighthouse platform and must be completed.
 
 
 # Why
@@ -36,13 +35,12 @@ This initiative also includes completion of migration of /submit endpoint to Lig
 # In Scope
 This initiative focuses on all paths for the submission and post submission experience. 
 
-- Lighthouse /submit endpoint migration
+- /submit endpoint migration is part of VA services platform migration from legacy EVSS services to Lighthouse platform and must be completed.
 - Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
 - Post-submission notifications, including confirmation email and message on confirmation page, SMS, web and mobile app notifications, paper mail, etc.
 - Outline of information and list of documents submitted (note [concern about filenames potentially containing PII](https://dsva.slack.com/archives/C04KW0B46N5/p1712088148463829?thread_ts=1711557666.821949&cid=C04KW0B46N5)) 
 - Reevaluating how the 526 introduces the Claim Status Tool and connects Veterans to it
 - Avoid duplicates (rethink when we clear the in-progress form)
-- Completion of migration of /submit endpoint to Lighthouse
 
   
 # Out of Scope
