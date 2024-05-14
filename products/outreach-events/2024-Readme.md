@@ -36,6 +36,7 @@ The IIR team started their review by examining existing research artifacts, incl
 
 The IIR team analyzed key findings from previous research by using affinity mapping. They conducted a usability audit to identify potential usability issues hindering task completion. Additionally, they performed a design scan to find examples of events and calendars for inspiration on how to handle similar tasks in the UI. Wireframes were then created to test improvement ideas without constraints from the design system. Finally, the wireframes were converted into mockups within the design system, annotated for clarity and easy understanding.
 
+- [Preliminary Investigation - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706122464572/1ad5b7df4e900bc4eaa40d1a5ab33c24058c353f?sender=u82254af9423cfa236f383306)
 - [Research Affinity Map](https://www.figma.com/file/12OWWnCWDUYsNoIEc5E9Sk/Outreach-and-Events?type=design&node-id=59%3A2&mode=design&t=meN0IvEQQndlkFgb-1)
 - [Usability Audit](https://www.figma.com/file/12OWWnCWDUYsNoIEc5E9Sk/Outreach-and-Events?type=design&node-id=399%3A2304&mode=design&t=meN0IvEQQndlkFgb-1)
 - [Design Scan](https://www.figma.com/file/12OWWnCWDUYsNoIEc5E9Sk/Outreach-and-Events?type=design&node-id=401%3A3466&mode=design&t=meN0IvEQQndlkFgb-1)
@@ -48,4 +49,5 @@ The primary objective of this handoff is to preserve critical information, inclu
 
 ### Change log
 
+Liza McRuer: May 14, 2024 - added link to the initial investigation Mural
 David Pearl: April 24th, 2024 – wrote up a read me for handoff to Sitewide team.
