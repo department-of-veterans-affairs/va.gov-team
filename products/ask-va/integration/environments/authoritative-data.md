@@ -23,5 +23,5 @@ With the 3rd option, CRM should only trust data if it has not been manipulated b
 The following action items need to be completed.
 
 - [x] Joe to share with Kyle as a heads up of whhat the design team is considering.
-- [ ] Design team to synthesize their research, decide on one of the given options.
+- [x] Design team to synthesize their research, decide on one of the given options.
 - [ ] Joe to coordinate with CRM to get changes (if any) into their backlog.
