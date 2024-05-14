@@ -5,8 +5,8 @@ This document outlines how we went about identifying a sub-set of all of our `Fo
 
 ## What is an Untouched Submission
 An 'untouched' submission is another way of saying 'we have not fullied our end of the bargain here'. Some examples might be;
-- A submission failed to deliver to the any of the external APIs that VBMS uses for ingestion and subsequently review.  E.G.  A submission failed it's initial attempts at submitting on the 'happy path' because of bad data.  It was then sent to the backup path where it retried for 24 hours, but the backup path API was experiencing a prolonged outage.  This submission never made it out of our app and now requires (or has received) remediation
-- A submission was successfully sent to the backup path, but was transitioned to an `error` status by the backup paths internal validation mechanisms.  This should not be happening any more, but for a time our validations were not in sync.
+- A submission failed to deliver to the any of the external APIs that VBMS uses for ingestion and subsequently review.  E.G.  A submission failed it's initial attempts at submitting on the 'happy path' because of bad data.  It was then sent to the backup path where it retried for 24 hours, but the backup path API was experiencing a prolonged outage.  This submission never made it out of our app and now requires manual intervention.
+- A submission was successfully sent to the backup path, but was transitioned to an `error` status by the external APIs validation mechanisms.  This should not be happening any more, but for a time our validations were not in sync.
 
 For more information on the untouched submissions and the Audit as a whole, see these sources
 - [Github issue for finding untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80624)
@@ -16,19 +16,18 @@ For more information on the untouched submissions and the Audit as a whole, see 
 ## Our Goal
 Identify every `Form526Submission` record in our database for which we have not finished our job.  These are henceforth known as 'untouched' (as in they are just sitting there waiting to be fixed) submissions. To accomplish this goal, we've put every `Form526Submission` in our database through a series of filters, herin known as our 'funnel'.
 
-
 ## The Funnel
 
 Our journey from 'every submission in our database' to 'just the untouched' ones requires three sequential layers:
 
-1. the tagging layer
+1. the query layer
 2. the deduplicating layer
 3. the rule application layer
 
 Each of these ingests a set of data and passes it's result to the next.  At a high level
-- **The query layer** checks the following state conditions and applies a tag in the `aasm_state` value of the submission. Using these tags we can quickly eliminate successful or ignorable submissions, leaving behind submissions 'of interest'.  From these submissions we extract the associated user uuids and pass these to the deduplicating layer
-- **The deduplicating layer** This layer accepts a list of potentially affected users in the form of their `user_uuid` values.  For each user we examine their submissions as a set for 'sameness', and sort them accordingly. These are passed as nested arrays (groups of submission ids per user) to the rule application layer.
-- **The Rule application layer** You may have noticed that the last layer pulled in submissions that were not identified in the query layer. This is good, as we now want to inspect each duplicate set to see if any of it's memebers were successful, and if so when they were submitted relative to it's identical twins.  This layer identifies 0 or 1 submissions from a duplicate set to investigate.
+- **The query layer** checks various datapoints on and around the submission record, determining (and applying) a state. State is held in the `aasm_state` value of the submission. Using these tags we can quickly eliminate successful submissions, leaving behind submissions 'of interest'.  From these submissions we extract the associated user uuids (not submission IDs) and pass these to the deduplicating layer. 
+- **The deduplicating layer** This layer accepts a list of potentially affected users in the form of their `user_uuid` values.  For each user we examine all of their submissions. This user set is broken down into duplicate sets (dupe-sets) based on 'sameness'. The result of this layer is a nested arrays (dupe-sets of submission ids per user) which is passed to the rule application layer.
+- **The Rule application layer** You may have noticed that the last layer pulled in submissions that were not identified in the query layer. This is good, as the rules we apply are more complicated than "was there a success". Specifically, we care about when a success happened relative to a failure, and so this layer applies this logic, dupe-set by dupe-set, returning 0 or 1 submissions from each to investigate.
 
 At this point we have a list of submissions that should be investigated, and implicitly a list that should be ignored.  This is where we can do things like tag submissions as `ignoreable_duplicate`, count the number of 'untouched submissions', as well as the number of affected users.
 
@@ -38,7 +37,7 @@ What follows is a break down of the logic, step by step, that is applied in each
 
 #### Determining State 
 
-Beginning with every single Form526Submission record, our goal was to exclude the ones we knew to be successfully handled.  This exclusive methodology ensures that when in doubt, a submission will get a second look. We have 3 ways of identifying the state of a submission
+Beginning with every single Form526Submission record, our goal is to exclude the ones we knew to be some falvor of successfully handled.  This exclusive methodology ensures that when in doubt, a submission will get a second look. We have 3 definitions of 'success' with which to filter our submissoins.
 
 - presence of a `submitted_claim_id`. This value is only populated when a submission is *successfully submitted* via the happy path. These submissions can be excluded.
 - presence of a `backup_submitted_claim_id` paired with a `success` or `vbms` status in the Benefits Intake API (aka our backup path).*
