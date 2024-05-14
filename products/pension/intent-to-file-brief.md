@@ -1,45 +1,90 @@
-# Intent to File (ITF) for 527EZ - Product Outline 
+# Intent to File (ITF) for 527EZ - Product Outline (DRAFT)
 ## Overview
-**Proposed:** Enable Veterans to receive a pension benefits effective date based on when they started a pension application online. 
 
-**Existing behavior:** application submission date is used as the effective date, as there isn't an Intent to File feature for the pension web form. If users submitted an ITF through another non-web channel, that would still be valid.
+**What is ITF?
+[From Intent to File page on va.gov](https://www.va.gov/resources/your-intent-to-file-a-va-claim/):**<br>
+An intent to file sets a potential start date (or effective date) for your benefits. If you notify us of your intent to file and we approve your claim, you may be able to get retroactive payments. Retroactive payments are payments for the time between when we processed your intent to file and when we approved your claim. 
+You can notify us of your intent to file if you plan to file a claim or a Supplemental Claim for these types of benefits:
+* Disability compensation
+* Pension benefits
+* Dependency and Indemnity Compensation (DIC)
+
+## Background
+ITF for pension is available to Veterans via non-web means (paper form, phone etc) and this initiative intends to bring ITF to pension web so that Veterans applying online can easily benefit from ITF without having to fill in a separate form.
+
+The ITF feature was earmarked in late 2023 as a post-launch (Jan 2024) item. In the meantime, application start dates are being saved as a backup for use when ITF is implemented.
+
+The 526 disability compensation web form has an implementation of ITF that we were able to learn from as we shaped the 527 ITF experience.
+Note: there are functional differences between how pension ITF and compensation ITF behave so one approach cannot directly be applied to the other. Some adjustments would be necessary.
+
+### Problem Statement
+When pension benefits are granted for an online pension application, payments will begin from the application submission date. The opportunity to start receiving payments from the date they started the application is currently not available.
+
+**How might we provide Veterans with the earliest possible access to Pension benefits?** 
+
+## Desired Outcomes
+* Enable Veterans to receive pension benefits from the earliest possible effective date when they apply online, within regulation.
+* Ease the burden of Veterans applying for pension benefits to set an intent to file.
+* Provide a consistent experience that enables Veterans to proceed in the Pension application when the ITF API is unavailable.
+* Deliver incremental value to Veterans in a timely fashion.
+
+### Avoid
+* Confusing Veterans about ITF for pension online and hamper their benefits application experience.
+* ITF functionality (when the API is available and unavailable) that prevents a Veteran from starting or completing the pension app
+
+
+## Working Documents
+* [ITF use cases (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715010150706/acb644c56fe8432819c62e7a9c886679c6555978?wid=0-1715116626489)
+*  [ITF technical flow (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1714050769683/e4dffd0f80fc8aca04a773dbe53c0d40fd5f2dde?wid=0-1714497805333&sender=u8c3a54d4503675214e055918)
+*  [ITF designs (Figma)](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?node-id=2181-5007&t=wqDUeTnxf70vQEqj-0)
+*  Q&A with VBA (below) 
+
+## Policy Documents
+*  [ITF VBA Manual](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF%3FarticleViewContext=article_view_related_article#4)
+
+## Discovery Research References
+* [ITF Research Summary by 526EZ team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md)
+* A standalone ITF web form is in the works - [Figma](https://www.figma.com/file/EFJLJ7W4yBbujH1yVD122s/WIP---21-0966---Intent-to-file?type=design&node-id=0%3A59&mode=design&t=NhvhdjCE7qtCMbOH-1), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689261093555/6c03d0c5d9d3f5ee875295e6ee444c3420f9ad3b?wid=0-1705943457925&sender=u8c3a54d4503675214e055918)
+
+# Solution Approaches
+## V1 - Introduce ITF functionality to pension form
+### Goal: Introduce intent to file functionality for 527EZ application so that Veterans who login to apply can benefit from it
+**Why V1**: Implement foundational functionality so that Veterans can begin to benefit from pension ITF online soon. <br>
+
+**Risks**: 
+* ITF API can be shaky, based on learnings from 526 team. By getting started with a simpler scope, we also get to de-risk as we learn to work with a new API in the simplest way.<br>
+
+**Hypothesis**:
+* By introducing an ITF step in the pension application flow, Veterans will be provided clarity on the ITF process and what they need to do continue with their application and benefit from ITF
+* By introducing ITF start and expiration date, some Veterans could be overwhelmed by yet another date to process/understand.
+
+**Measuring Success**:<br>
+* The total number of Veterans applying for Pension benefits online that fill out a separate 0966 Intent to File form through another medium is reduced.
+* Drop offs at ITF screens are at a minimum (for when the API is available and unavailable) - the ITF experience does not hamper the Veteran's pension application journey.
+* Research studies show that users clearly understand ITF screens and understand what they need to do to benefit from it.
+* Research studies show that users start their application soon without necessarily waiting til they have all info to start applying, so that they can benefit from ITF dates. For users that apply quickly (ie: within a day or two) ITF benefits will be neglible.
+
+**Proposed behavior:** Enable Veterans to receive a pension benefits effective date based on when they started a pension application online. 
+
+**Existing behavior:** Application submission date is used as the effective date, as there isn't an Intent to File feature for the pension web form. If users submitted an ITF through another non-web channel, that would still be valid.
 
 Veterans can notify the VA by filing an ITF (paper form, phone etc) and set a potential start date (or effective date) for their pension benefits. This can enable the Veteran to receive retroactive payments (payments from the time between when they submitted an intent to file and when the VA approves the claim).
 
 The Veteran has one year from the time they submit an intent to file  to complete and submit their claim to receive the earliest possible effective date (provided their application is successful).
 
+**Assumptions:**
+* The Veteran must authenticate on VA.gov to set an Intent to File date.
+* The ITF API is functional and available most of the time.
+* The ITF API cannot set ITF start dates in the past.
+* TBC by engineering - The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
 
-### How might we ease the burden on Veterans to understand and set an Intent to File date that requires fewer steps to obtain?
 
-## Desired Outcomes
-* Enable Veterans to receive a pension benefits effective date by calculating the ITF from the date a pension application was started online.
-* Ease the burden of Veterans applying for pension benefits to set an intent to file.
-* Reduce Veteran confusion around the benefit and purpose of intent to file.
-* Provide a consistent experience that enables Veterans to proceed in the Pension application when the ITF API is unavailable.
-* Deliver incremental value to Veterans in a timely fashion.
+### Scope
 
-## Avoid
-* Confusing Veterans about ITF for pension online and hamper their benefits experience
-* ITF functionality (when the API is available and unavailable) that prevents a Veteran from starting or completing the pension app
+**`TO BE ADDRESSED / BLOCKERS:`**
+* Policy question on keeping saved forms for longer than a year
+* Agreement on scope of v1
 
-## Measuring Success
-* The total number of Veterans applying for Pension benefits online that fill out a separate 0966 Intent to File form through another medium is reduced.
-* Drop offs at ITF screens are at a minimum (for when the API is available and unavailable) - the ITF experience should not hamper the Veteran's pension application journey.
-
-## Working documents
-* [ITF use cases (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715010150706/acb644c56fe8432819c62e7a9c886679c6555978?wid=0-1715116626489)
-*  [ITF technical flow (Mural)](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1714050769683/e4dffd0f80fc8aca04a773dbe53c0d40fd5f2dde?wid=0-1714497805333&sender=u8c3a54d4503675214e055918)
-*  [ITF designs (Figma)](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?node-id=2181-5007&t=wqDUeTnxf70vQEqj-0)
-*  [ITF VBA Manual](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF%3FarticleViewContext=article_view_related_article#4)
-
-## Discovery Research References
-* ITF functionality is currently implemented in the disability benefit (526EZ). Incorporate learnings from pain points in the current 526 online experience while building the pension solution, in particular recurring downtime for ITF API requests that blocked application progress - [ITF Research Summary by 526EZ team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md)
-* A standalone ITF web form is in the works - [Figma](https://www.figma.com/file/EFJLJ7W4yBbujH1yVD122s/WIP---21-0966---Intent-to-file?type=design&node-id=0%3A59&mode=design&t=NhvhdjCE7qtCMbOH-1), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689261093555/6c03d0c5d9d3f5ee875295e6ee444c3420f9ad3b?wid=0-1705943457925&sender=u8c3a54d4503675214e055918)
-
-# Solution Approaches
-## V1 - Introduce ITF functionality to pension form
-### Integrate intent to file functionality with the 527EZ application on VA.gov that is only available to authenticated users.
-  
 **Status (as of 5/13/24)**
 * OCTO: in review
 * VBA: in review
@@ -48,17 +93,6 @@ The Veteran has one year from the time they submit an intent to file  to complet
 * CAIA: started
 * Development: not started (scaffolding started)
 
-**`TO BE ADDRESSED / BLOCKERS:`**
-* Agreement on scope of v1
-* Review and sign offs
-
-### Assumptions
-* The Veteran must authenticate on VA.gov to set an Intent to File date.
-* The ITF API is functional and available most of the time.
-* The ITF API cannot set ITF start dates in the past.
-* TBC by engineering - The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
-
-### Scope
 **1. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
 * When an ITF exists, the system will use the ITF date returned by the ITF API and display messaging to the user based on the date and status returned.
@@ -69,13 +103,17 @@ The Veteran has one year from the time they submit an intent to file  to complet
 * The system will store the user's form start date and kick off a retry mechanism to establish if an ITF already exists (then use it) or if an ITF doesn't exist (then set a new one using the form start date). If this mechanism fails too, it will be logged and remediated.
 * Re-try mechanism behavior: Retries will be limited to only start ITF with current date, not form start date. This may become an issue, if retries go over several days, hence retries will be limited to [a reasonable number, 7?] days.
 
+**3. When an ITF or online form is about to expire:**
+* Inform users and guide them to take action (Email? SMS?)
+
 _**Once above is implemented, noting interaction between new ITF behavior and existing saved in-progress form behavior:**_
 * A saved in-progress form can expire while an ITF is still active. When the user logs in next, they will have to start a new form.   
 * An ITF can expire while a saved in-progress is still active. When the user logs in next, a new ITF will be created on that day.
 
-**3. External items to prioritize:**
+**4. External items to prioritize:**
 * Update DOMO dashboard with Analytics team to include any new ITF related pages.
 * Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
+* Communications on 'don't wait, start today!'
 
 
 
