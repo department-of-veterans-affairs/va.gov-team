@@ -117,7 +117,8 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
         - ❗🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - ❗🟨 [[DevOps] Eric Oliver's Magical PAS Mystery Tour ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82439)
-        - ❗🟨 [DevOps] Review/provide existing authorization to use Datadog #82615
+        - ❗🟨 [[DevOps] Review/provide existing authorization to use Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82615)
+        - ❗🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
