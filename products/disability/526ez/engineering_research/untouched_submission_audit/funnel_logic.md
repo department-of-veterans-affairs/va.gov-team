@@ -16,20 +16,27 @@ For more information on the untouched submissions and the Audit as a whole, see 
 ## Our Goal
 Identify every `Form526Submission` record in our database for which we have not finished our job.  These are henceforth known as 'untouched' (as in they are just sitting there waiting to be fixed) submissions. To accomplish this goal, we've put every `Form526Submission` in our database through a series of filters, herin known as our 'funnel'.
 
+## Key Terms
+- **untouched submission:** A submission that requires remediation in order to fullfil our obligation to the veteran and our partners
+- **success type submission / state:** A submission known to have successfully been passed to the appropriate partner via our 'happy path', 'backup path', or 'remediation path'.
+- **success**: herein when we talk about 'success', we are not implying anything about the adjudication process.  We mean that we 'successfully' got the submission from the veteran to the appropriate next step.
+- **duplicate**: a submission that, based on the content of it's `form_json` value is either exactly the same as another submission from the same user, or close enough based on the rules we will outline in our funnel.
+
 ## The Funnel
 
 Our journey from 'every submission in our database' to 'just the untouched' ones requires three sequential layers:
 
 1. the query layer
-2. the deduplicating layer
+2. the de-duplicating layer
 3. the rule application layer
 
-Each of these ingests a set of data and passes it's result to the next.  At a high level
-- **The query layer** checks various datapoints on and around the submission record, determining (and applying) a state. State is held in the `aasm_state` value of the submission. Using these tags we can quickly eliminate successful submissions, leaving behind submissions 'of interest'.  From these submissions we extract the associated user uuids (not submission IDs) and pass these to the deduplicating layer. 
-- **The deduplicating layer** This layer accepts a list of potentially affected users in the form of their `user_uuid` values.  For each user we examine all of their submissions. This user set is broken down into duplicate sets (dupe-sets) based on 'sameness'. The result of this layer is a nested arrays (dupe-sets of submission ids per user) which is passed to the rule application layer.
-- **The Rule application layer** You may have noticed that the last layer pulled in submissions that were not identified in the query layer. This is good, as the rules we apply are more complicated than "was there a success". Specifically, we care about when a success happened relative to a failure, and so this layer applies this logic, dupe-set by dupe-set, returning 0 or 1 submissions from each to investigate.
+Each of these ingests a set of data and passes it's result to the next.  At a high level:
 
-At this point we have a list of submissions that should be investigated, and implicitly a list that should be ignored.  This is where we can do things like tag submissions as `ignoreable_duplicate`, count the number of 'untouched submissions', as well as the number of affected users.
+- **The query layer** checks various datapoints on and around the submission record, determining (and applying) a state. State is held in the `aasm_state` value of the submission. Using these tags we can quickly eliminate successful submissions, leaving behind submissions 'of interest'.  From these submissions we extract the associated user uuids (not submission IDs) and pass these to the de-duplicating layer.
+- **The de-duplicating layer** This layer accepts a list of potentially affected users in the form of their `user_uuid` values.  For each user we examine all of their submissions. This user submission set is broken down into duplicate sets (dupe-sets) based on 'sameness'. The result of this layer is a nested arrays (dupe-sets of submission ids per user) which is passed to the rule application layer.
+- **The Rule application layer** For each dupe-set, we apply a set of rules, resulting in 0 or 1 submissions per dupe set that need to be investigated as 'untouched'.
+
+At this point we have a list of submissions that should be investigated, and implicitly a list that should be ignored.  This is where we can do things like tag submissions as `ignoreable_duplicate`, count the number of 'untouched submissions', as well as the number of affected users, or simply report the untouched submission IDs and their associated user values.
 
 What follows is a break down of the logic, step by step, that is applied in each layer.
 
@@ -43,21 +50,21 @@ Beginning with every single Form526Submission record, our goal is to exclude the
 - presence of a `backup_submitted_claim_id` paired with a `success` or `vbms` status in the Benefits Intake API (aka our backup path).*
 - presence of a submissions `id` in the "intake list" given back to us by VBMS.**
 
-* *The presence of this `backup_submitted_claim_id` indicates a successful handing off of the submission to the backup API, but unlike our happy path, this alone does not guarnatee success.  The Benefit Intake API has internal validation that runs on a submission *after* successful receipt of the HTTP request delivering the data.  In order to know the true state of a submission that has gone down the backup path, we need to give the Benefits Intake API time to run it's validation (usually a few seconds) and then query (or poll) it to get a submissions status.  Currently, if the Benefits Intake API marks a submission as an `error`, it becomes untouched, since there is no way (currently) for us to automatically correct this.  Many of these `error` submissions have already been remediated, but the rest are part of our untouched submission list.*
+* *The presence of this `backup_submitted_claim_id` indicates a successful handing off of the submission to the backup API, but unlike our happy path, this alone does not guarnatee success.  The Benefit Intake API has internal validation that runs on a submission *after* successful receipt of the HTTP request delivering the data.  In order to know the true state of a submission that has gone down the backup path, we need to give the Benefits Intake API time to run it's internal validation (usually a few seconds) and then query (aka poll) it to get a submissions status.  Currently, if the Benefits Intake API marks a submission as an `error`, it becomes instantly 'untouched', since there is no way (currently) for us to automatically correct this.  Many of these `error` submissions have already been remediated, but the rest are part of our untouched submission list.*
 
 ** *The "intake list" is a list of all the submissions that we previously have sent to VBMS for remediation, via our batching process or one of our other failsafes. [This list is available here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80624#issuecomment-2061883846)*
 
 #### Tagging / aasm_state
 
-Based on the above determinations, we began work to 'tag' our submissions.  This was implemented as a state machine using the AASM gem, but is really more of a tagging system to represent the last, best information we have about a submissions place in our pipeline.  [The original technical design document for this work can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/implementation/form_526_state_machine.md), however it's worth noting that this 'state machine' has changed alot since it's inception.  For the most up to day information on how it works, it's best to look at the [Form526Submission model code](https://github.com/department-of-veterans-affairs/vets-api/blob/d017c2391a2d44de38d06507a447a8f0434a852d/app/models/form526_submission.rb#L15) or [the collection of scripts that leverage this tagging for our audit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526/untouched_submission_audit).  
+**TL;DR: don't trust aasm_state unless you just set it yourself using [this script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/apply_success_states.rb)**
 
-The state machine is mostly redundant; as mentioned above presence of IDs can be used for most of our submissions, but in the case of remediated submissions (from the intake list) it's a valuble way of marking submissions as 'ok to exclude'.  Some light code has been added to our submission workers to try and keep submission states up to date, but ultimately this information is not used outside of the audit.  
+Based on the rules outlined in the previous section, we began work to 'tag' our submissions.  Tagging was implemented as a state machine using the AASM gem, but due to technical limitations and rapid itteration on our rule set, it's ended up as more of an async tagging system.  [The original technical design document for this work can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/implementation/form_526_state_machine.md). for the most up to day information on how it works, it's best to look at the [Form526Submission model code](https://github.com/department-of-veterans-affairs/vets-api/blob/d017c2391a2d44de38d06507a447a8f0434a852d/app/models/form526_submission.rb#L15) or [the collection of scripts that leverage this tagging for our audit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits/scripts/526/untouched_submission_audit).  
 
-**TL;DR - state & tagging**: Submissions are either some version of successful (nothing to fix), safe to ignore (e.g. a duplicate of a successful submission), or 'untouched'.  
+Initially we made an attempt to implement real time application tagging via our submission workers and a [Benefits Intake Polling Job](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_status_polling_job.rb) (for the backup path). At the time of writting this, the submission-worker transitions seem to be working well, but there are a non-zero number of submissions being missed by the Benefits Intake Polling Job. Thankfully, `aasm_state` is not used to make decisions anywhere outside of this audit funnel, so we can ignore state until we are ready to set and use it for our funnel. Additionally, many of our submissions are tagged as `ignoreable_duplicate`. This, like all non-success-type states, is pretty much meaningless. While itterating on our rules (duplicates / time frame) we tried to tag / untag duplicates several times in long running jobs... ulitmately this work became more of a hinderance than a helper and was abandoned. Someday we should homogenize state and only keep what is useful, or remove it altogether, but until that time it should not be trusted outside of the funnel process describe in this document. If you want to truely find 'ignoreable duplicates', you need to run the full funnel, starting with success tagging.  **The only thing the `aasm_state` machine is currently good for is tagging and eliminating success type submissions at the mouth of this funnel.**
 
-#### The actual Query
+#### The cAtual Query
 
-Now that we have our submissions 'tagged' with the appropriate state, we can query our database for those that have been left 'untouched'.  [This query is oulined in this script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/query_runner.rb).  Here is a description of this logic without code:
+Now that we have our succes-type-submissions 'tagged' with the appropriate state, we can query our database for those that have been left 'untouched'.  [This query is oulined in this script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/query_runner.rb).  Here is a description of this logic without code:
 
 - For every submission from the beginning of time, up until 3 days ago (trying to filter stuff that is still running retries on a submission worker)
 - From the above, find every submission that does not have a success-type state
