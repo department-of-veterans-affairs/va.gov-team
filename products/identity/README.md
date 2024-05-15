@@ -82,8 +82,9 @@ Any product involving identity should review the relevant [identity error handli
     - [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/.github/ISSUE_TEMPLATE/1dentity-product-support.yml): for data requests, SiS information and onboarding, or new projects.
 - Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
-**Our team:**
+**Contact our team:**
 
+- Slack channel: [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN)
 - Product managers:
     - Mike King ([Mike.King@oddball.io](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Mike.King@oddball.io))
     - Jim Connelly ([jim.connelly@oddball.io](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/jim.connelly@oddball.io)).
