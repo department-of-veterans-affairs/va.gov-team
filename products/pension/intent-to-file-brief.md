@@ -114,8 +114,8 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 * An ITF can expire while a saved in-progress is still active. When the user logs in next and resumes the saved form, a new ITF will be created on that day. 
 * For users who started a form since 527EZ relaunch and have no ITF, an ITF will be created when they login.
 
-**4. When a user has an ITF and arrives at the submission confirmation screen**
-* Indicate their ITF date when available along with appropriate context.
+**4. When a user has an ITF, re-iterate what it could mean for them as they are about to submit or after they submit**
+* Indicate their ITF date when available along with appropriate context on the review screen or submission confirmation screen
 
 **5. Other items to prioritized:**
 * Setup DataDog to track ITF - ITF API success and failure, claim lag time.
