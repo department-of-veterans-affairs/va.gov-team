@@ -90,6 +90,7 @@ When a pension application is submitted online, submission date is used as the e
 
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Agree on v1 scope
+* Given that content changes to the intro page are likely in-scope, is there an opportunity to surface ITF before starting/resuming pension application?
 * Retry mechanism limits - what happens if retrying fails? What's communicated at submission to user and VBA? We could start with manual remidiation for V1
 * Decide on if we need to send expiry (ITF and/or saved form) notificaitons to users / understand if VBA sends any. Based on stats, these are not a priority as most users are completing the form within 100 days.
 * Based on VSR interview - when there's an ITF, the timeframe respondents refer to need to be re-contextualized for certain financial questions. Veterans state the amount of expenses they pay based on their understanding of the application timeframe, which is affected based on ITF. Currently, VSRs need to reach back out to Veterans to ask for more information once they receive such an application, slowing down the process.
@@ -103,11 +104,11 @@ When a pension application is submitted online, submission date is used as the e
 * Development: not started (scaffolding started)
 
 **1. When a Veteran intending to learn about and apply for pension benefits arrives at the pension page on VA.gov**
-* Educate and nudge them to start their pension application ASAP. e.g clarify language/CTAs on intro page https://www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez/introduction, or https://www.va.gov/pension/how-to-apply/ 
+* Educate and nudge them to start their pension application ASAP. e.g clarify language/CTAs on intro page https://www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez/introduction, or https://www.va.gov/pension/how-to-apply/
 
 **2. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
-* When an ITF exists, the system will use the ITF date returned by the ITF API and display messaging to the user based on the date and status returned.
+* When an ITF exists, the system will use the ITF date returned by the ITF API and display messaging to the user based on the date and status returned. This information will appear in different places depending on if they are starting a new application or resuming a prior application they saved.
 * When an ITF does not exist or an ITF has expired, the system will set a new ITF date equating to 'today' via ITF API and display messaging to the user based on the date and status returned.
 * Consider addressing any Veteran concerns on an unused expired ITF that was preceeded by a new one 'I thought I already had an ITF from last year, why did I just get a new date?'.
 
@@ -125,6 +126,9 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 **4. When a user has an ITF, re-iterate what it could mean for them as they are about to submit or after they submit**
 * Indicate their ITF date when available along with appropriate context on the review screen or submission confirmation screen.
 * If users didn't see there ITF in the initial screen, this is an opportunity to display it after retrying and establishing it.
+
+**5. When an aunthenticated user arrives at the Pension app and intends to apply**
+* Indicate ITF as yet another benefit they can access by signing up or signing in only
 
 **5. Other items to prioritized:**
 * Setup DataDog to track ITF - ITF API success and failure, claim lag time.
