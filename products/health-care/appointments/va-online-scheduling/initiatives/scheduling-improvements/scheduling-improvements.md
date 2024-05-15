@@ -22,9 +22,7 @@ Reference epic/feature above for key decisions
 ## Questions
 
 For Tia:
-1. What Types of care will we support fro thr request flow?
-2. What Types of care will be support for the direct schedule flow?
-3. Given the of the wire flow for the Oracle Health integration along with the [figma file](https://www.figma.com/design/XqlvMB7Z6WJNfFYVGxD4O9/OH-MVP-%7C-Appointments-FE-(Copy)?node-id=2548%3A13783&t=qb2iHXaRbLUAW9fk-1). Is there anything in this flow you have questions about or that seem problematic?
+1. Given the of the wire flow for the Oracle Health integration along with the [figma file](https://www.figma.com/design/XqlvMB7Z6WJNfFYVGxD4O9/OH-MVP-%7C-Appointments-FE-(Copy)?node-id=2548%3A13783&t=qb2iHXaRbLUAW9fk-1). Is there anything in this flow you have questions about or that seem problematic?
 
 
 ___
