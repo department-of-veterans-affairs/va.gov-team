@@ -11,7 +11,11 @@ The redirect from the old 1010ez application URL is not working with URLs adding
  The link to the 1010ez from Find a Form (and potentially other places) is giving a 404 error.
 
 - How many users were affected?
-     - Averageing the number of searches from the previous month, potentially 116 users could have been affected by the error
+     - Potentially 800-1000 users could have been affected by this issue
+          - Averageing the number of Find-a-Form searches from the previous month, about 116 users could have been affected by the error
+          - The term "1010EZ" came up in 393 searches on VA.gov
+          - The term "10-10ez" came up in 172 searches on VA.gov
+          - The term "10-10EZ" came up in 293 searches on VA.gov
 - What time period were users impacted?
      - 05/06/2024 11:20am ET to 05/13/2024 2:20pm ET
 - What impact did this have on the SLO?
