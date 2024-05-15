@@ -92,7 +92,7 @@ When a pension application is submitted online, submission date is used as the e
 * Agree on v1 scope
 * Retry mechanism limits - what happens if retrying fails? What's communicated at submission to user and VBA? We could start with manual remidiation for V1
 * Decide on if we need to send expiry (ITF and/or saved form) notificaitons to users / understand if VBA sends any. Based on stats, these are not a priority as most users are completing the form within 100 days.
-* Based on VSR interview - when there's an ITF, the timeframe respondents refer to need to be re-contextualized for certain financial questions. Else VSRs need to reach back out to Veterans to ask for more information.
+* Based on VSR interview - when there's an ITF, the timeframe respondents refer to need to be re-contextualized for certain financial questions. Veterans state the amount of expenses they pay based on their understanding of the application timeframe, which is affected based on ITF. Currently, VSRs need to reach back out to Veterans to ask for more information once they receive such an application, slowing down the process.
 
 **Status (as of 5/15/24)**
 * OCTO: in review
@@ -103,7 +103,7 @@ When a pension application is submitted online, submission date is used as the e
 * Development: not started (scaffolding started)
 
 **1. When a Veteran intending to learn about and apply for pension benefits arrives at the pension page on VA.gov**
-* Educate and nudge them to start their pension application ASAP
+* Educate and nudge them to start their pension application ASAP. e.g clarify language/CTAs on intro page https://www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez/introduction, or https://www.va.gov/pension/how-to-apply/ 
 
 **2. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
