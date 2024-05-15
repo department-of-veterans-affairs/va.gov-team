@@ -40,7 +40,7 @@ Internal dependency: endpoint migration prioritization against other priority fe
 |Endpoint|Lighthouse Update               | DBEX Update|Notes|
 |--------|--------------------------------|------------|-----|
 |Intent to file |In production|100% in production| Endpoint remains stable. |
-|Submit | Work in progress - ETA June 2024|Release Planning| Endpoint is needed to complete release of the 2022 version of the 526ez. |
+|Submit | Work in progress - ETA June 2024|Release Planning| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response. Logic updates likely needed and revisit to the transformation service. |
 |Benefits claims service| In production|100% in production| Rolled back April 2024 for Employee Experience release. |
 |Generate PDF|In LH Staging|Not started| Team 2 |
 |Rated Disabilities| Bug in development pending re-release|On hold, ready to resume release after bug is fixed.||
@@ -58,6 +58,7 @@ Recommended approach:
 - Submit Migration (Team 1)
   - Release Plan
   - DataDog Dashboard Setup
+  - Logic updates if needed to the new endpoint
   - Canary Launch
   - Staggered release monitoring 
 - Generate PDF Migration (Team 2)
