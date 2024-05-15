@@ -8,7 +8,7 @@ External Auth Data Reporting is determining the data we are sharing with VA lead
 
 There are basically two goals of this initial phase of the project:
 
-- Identify the data we want to report to the VA.
+- Define the data we want to report to the VA.
 - Display and explain that data in a way that is easy to understand and report upon.
 
 This is a part of the book of work that maps to _O1KR2: VA.gov authentication SLOs are developed._
