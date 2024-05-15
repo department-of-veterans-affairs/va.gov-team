@@ -1,12 +1,13 @@
 ---
-name: "CAIA New Content Task"
-about: Template for new content task.
+name: "Internal CAIA New Content Task"
+about: Template for new content task, for CAIA internal use.
 title: 'New Content Task Ticket'
 labels: 'sitewide CAIA, sitewide content'
 assignees: 'strelichl'
 ---
 
-# CAIA Content Child Ticket
+> [!WARNING]
+> Do not use this ticket unless directed to do so by the CAIA team.
 
 ## Issue description
 _What details are necessary for understanding the specific work or request tracked by this issue?_
