@@ -87,7 +87,7 @@ The MVP will target the following forms:
 
 ### Desired Business Outcomes
 
-- Reduce silent failures, in alignment with the OCTO Benefits Portfolio Prioritization Framework.
+- Reduce silent submission failures, in alignment with the OCTO Benefits Portfolio Prioritization Framework.
 
 ### Undesired Business Outcomes
 
@@ -97,7 +97,7 @@ The MVP will target the following forms:
 [Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-security-playbook.md)
 
 ## Measuring Success
-The primary goal of this MVP is to reduce silent failures in the form/application submission process.
+The primary goal of this MVP is to reduce silent submission failures in the form/application submission process.
 
 ### Objectives & Key Results
 TK TK
