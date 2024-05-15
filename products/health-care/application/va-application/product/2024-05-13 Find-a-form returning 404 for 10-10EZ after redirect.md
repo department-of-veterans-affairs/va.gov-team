@@ -47,7 +47,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Collaborate with Platform, CAIA and PW teams to create an outline of review and testing steps to successfully validate the URL redirect | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
+| Collaborate with Platform, CAIA and PW teams to update guidance on successfully implementing and validating the URL redirect | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
 
 ## Root Cause Analysis
 
@@ -72,7 +72,7 @@ On 5/14/2024, Adrian Rollett discovered that the redirect was matching only /hea
 
 ### What will we change to ensure this doesn't happen again?
 
-The 10-10 team will collaborate with the Platform, CAIA and Public Websites team to improve the current guidance on URL changes, especially around regex.  We can create an outline of testing and code review steps that must be completed in all environments when a URL is being changed and a redirect is implemented.  
+The 10-10 team will collaborate with the Platform, CAIA and Public Websites team to improve the current guidance on implementing URL redirects, code reviews and comprehensive testing.  We can create/improve on the process of implementing the redirect, as well as testing and code review steps that must be completed in all environments when a URL is being changed and a redirect is implemented.  
 
 
 ## Resolution
