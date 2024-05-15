@@ -1,6 +1,6 @@
 
 <!-- markdownlint-disable MD024 -->
-# Release Plan: 526 Toxic Exposure [DRAFT]
+# Release Plan: 526 Toxic Exposure
 
 # Purpose
 The purpose of this document is to describe and align development teams and stakeholders on what will be delivered and when. It describes the features, enhancements, and fixes that will be included in each Toxic Exposure (TE) release along with identified timelines. It is a living document and serves as a communication tool for keeping stakeholders informed about the progress of TE.
@@ -43,7 +43,6 @@ We expect this change to:
 - Maintain % of submissions that use normal path
 - Maintain or reduce uses of backup and failsafe path
 
-Release plan user flow (coming soon).
 
 ## New Capabilities and Changes
 In addition to adding TE sections to the digital form, this release also includes the following changes:
@@ -83,12 +82,32 @@ There are two use cases that we are considering for this release. For each, we p
 # Release Process
 
 
+## Release plan user flow (Update with submit steps or move to submit plan)
+
+Login to your va.gov account in prod
+- Navigate to va.gov/disability/file-disability-claim-form-21-526ez/start
+- Answer the questions as follows: "Are you on active duty right now?" > "No" "I'm filing a new claim"
+- Alternatively, skip the form by navigating to the "If you know X form is right, click here"
+- On the /introduction screen, select "Start the Disability Compensation Application"
+- On the first /veteran-information screen, please note for us
+ - The current time, date, and timezone
+ - Whether you have an existing Intent to File (Info block will say "You already have an Intent to File")
+ - The city your browser is making the request from
+- Press ‘Continue’
+- Under the “Step 1 of 5: Veteran Details” header, there should be a line with your Application ID number
+- Please note your Application ID for us
+- Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
+- Close your browser and repeat steps 2-4
+- On the first /veteran-information screen, please note the current time and date
+
+## Feature Flags
+
 | Phase | Description | Flipper Status | Form in Progress | Visible Form |
 |---|---|---|---|---|
 |4 | New TE Applications |On | No | 2022 |
 |5 | Veterans with an IPF |On | Yes | 2022 |
 
-
+## Timeline
  
 1. Canary launch for LH Submit endpoint
 2. Canary launch for LH generatePDF
@@ -106,8 +125,6 @@ There are two use cases that we are considering for this release. For each, we p
 POST
 1. add TE pages to Google analytics in Domo (can we do this sooner?)
 2. look at the count of sucessfull claim submissions
-
-
 
 
 ## Step 1: Development
@@ -169,6 +186,22 @@ Currently, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 
 DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 -->
+### Metrics
+How will you make the product available in production while limiting the number of users who can find/access it: [Flipper Dashboard](https://api.va.gov/flipper/features)
+<br>
+What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:  
+- Ensure relative traffic lines up between eVSS and LH to the given allotment in Flipper
+- Ensure Sentry errors remain constant across batches
+- Ensure DataDog-reported HTTP status codes remain constant across batches
+- Monitor for new Call Center complaints
+- Monitor logs for any qualitative anomalies
+- Monitor latency
+
+Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Intent to File](https://vagov.ddog-gov.com/dashboard/ipg-v6d-c59/benefits---dbex---evss-to-lh-intent-to-file?from_ts=1690907664207&to_ts=1690911264207&live=true)
+    - Traffic is redirected to LH through the v0 (EVSS) controller
+    - The expected behavior is that LH traffic should be **proportionate** to v0 traffic
+    - v0 will act as a control as we progress through the rollout phases
+
 
 ### Define the Rollback process
 
@@ -179,6 +212,26 @@ Rollback plan:
 2. Engineering disables flipper which hides the 2022 version of the form.
    - Users with in-progress v2022 sessions will finish out their v2022 session. If they start a new session, they will be redirected to the old version.
    - New users will be directed to the old of the form.
+
+- Rollback if any of the following is encountered
+    - Qualitative anomalies that affect a significant number of users
+    - Any new severe or widespread errors identified
+    - 429 error indicating rate limit has been reached
+    - Volume of 404s do not match up with number of POST request (should be seeing 1 POST per GET 404)
+    - High volume of 500 errors
+    - High volume of Call Center complaints
+    - Abnormally high latency
+    - Traffic metrics deviate abnormally from the Flipper allotment
+- In most cases, a face-value assessment and follow-up ticket should be created
+- In the case of a 429, email api@va.gov with your va.gov email and attach a screenshot of the error. Include a brief explanation and a request to increase the rate limit
+- Paste to the bottom of the current stage if a rollback to a previous stage needed to happen:
+
+        Rollback reason:
+            Date:
+            Severity/Impact:
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
+<br>
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 Production testing poses a risk, due to the downstream actions that submitting an application for disability benefits triggers. To migtigate the risk this poses, we will be doing extensive E2E testing in a staging environment.
