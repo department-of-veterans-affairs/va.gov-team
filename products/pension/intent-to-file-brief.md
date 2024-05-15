@@ -13,6 +13,8 @@ ITF for pension is available to Veterans via non-web means (paper form, phone et
 The 526 disability compensation web form has an implementation of ITF that we are able to learn from as we shape the 527 ITF experience.
 Note: there are functional differences between how pension ITF and compensation ITF behave so one approach cannot directly be applied to the other. Some adjustments would be necessary.
 
+The 526 team found that Veterans are blocked by intent to file messaging when submitting their claim and that they do not have a clear understanding of how intent to file could maximize their benefits. Therefore, in order to unblock users, we can communicate the value of intent to file more clearly and consistently at two key moments for 527: 1) in the early steps of the form and 2) when a Veteran resumes an in-progress claim.
+
 ### Opportunity
 **How might we provide Veterans with the earliest possible effective date for Pension benefits?** 
 
@@ -104,7 +106,11 @@ When a pension application is submitted online, submission date is used as the e
 * Development: not started (scaffolding started)
 
 **1. When a Veteran intending to learn about and apply for pension benefits arrives at the pension page on VA.gov**
-* Educate and nudge them to start their pension application ASAP. e.g clarify language/CTAs on intro page https://www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez/introduction, or https://www.va.gov/pension/how-to-apply/
+* Educate and nudge them to start the ITF process ASAP. e.g clarify language/CTAs on intro page https://www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez/introduction, or https://www.va.gov/pension/how-to-apply/
+
+**2. When a Veteran returns to a pension application they previously started**
+* When they return soon after this feature is launched, they can be educated on ITF and how that can happen when they resume a form
+* Later on, when they return to resume a form, expiry dates (form and ITF) would be in place, and focus can be around guiding them to complete the application within expiration.
 
 **2. When a Veteran starts or resumes a 527EZ application online and the API is available:**
 * Check the ITF endpoint for an existing active pension ITF.
