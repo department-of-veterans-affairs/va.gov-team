@@ -134,9 +134,9 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 * If users didn't see there ITF in the initial screen, this is an opportunity to display it after retrying and establishing it.
 
 **5. When an aunthenticated user arrives at the Pension app and intends to apply**
-* Indicate ITF as yet another benefit they can access by signing up or signing in only
+* Indicate ITF as yet another benefit they can access by signing up or signing in only on https://www.va.gov/pension/apply-for-veteran-pension-form-21p-527ez/introduction
 
-**5. Other items to prioritized:**
+**6. Other items to prioritized:**
 * Setup DataDog to track ITF - ITF API success and failure, claim lag time.
 * Update DOMO dashboard with Analytics team to include any new ITF related pages.
 * Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
