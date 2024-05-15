@@ -3,7 +3,7 @@
 ## Benefits - Disability Experience Team 2
 - **Figma Prototype(s):** `Pending Notification of Updates` Version will be updated for the design review with annotations.
 - **Team Slack Channel:** #benefits-disability-design
-- **CAIA A11y Ticket:** #83191
+- **CAIA A11y Ticket:** [#83191](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83191)
 - **Date of Audit:** `TBD`
 - **Timing:** CAIA's Content Team is at full capacity, so the Design Review by CAIA A11Ys can take place prior to the content team providing feedback.
 
