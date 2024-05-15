@@ -99,7 +99,7 @@ When asked about the similarities and differences between medications and medica
 
 > _Supporting data: "It doesn't matter that medications and supplies are different. It's just nice to have them on the same page."_
 
-**7 out of the 10 participants who found option 3 the easiest to use expressed that they wanted some type of separation or organization for medications items and medical supplies items on the refill and reorder page.**
+**_On the refill and order page of option 3:_ Most participants (7 out of the 10) communicated that they wanted to change how medications and medical supplies are organized. 3 participants wanted medications to be separate from medical supplies, and 4 wanted medications and medical supplies to be in one list with the ability to filter or sort.**
 
 Most participants wanted to see a separation or a better organization between medications and medical supplies on the refill and reorder page. One participant mentioned that it might be hard to find what they need to refill/reorder if the list gets long. 
 
@@ -111,22 +111,13 @@ Most participants wanted to see a separation or a better organization between me
 
 > _Supporting data: "Likes the first screen, but still separate medications and supplies on the order page."_
 
-**5 participants still found option 3 the easiest, despite their learned experiences with the MHV Classic, and had no trouble finding glucose testing strips.**
+**With previous experience ordering glucose testing strips on MHV Classics, 5 participants still chose option 3.**
 
 There were 5 participants who knew where to find glucose testing strips on the MHV Classic, so they went to the prescriptions section to order glucose testing strips using option 1 and option 2. However, they still thought testing strips should be a supply. 
 
 > _Supporting data: "I looked in prescriptions first for the testing strips because that's where I see them now. They are under Pharmacy on the current MHV. I would put testing strips under the supplies._
 
-**5 participants chose [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) as the easiest to use and liked medications and medical supplies are separate on MHV on VA.gov landing page and reorder page.**
-
-The participants (5 out of 15) who didn't choose option 3 picked option 1. They liked that medications and medical supplies are separate on MHV home and have different order pages. The general concern is that they might be overwhelmed by the large number of medications and medical supplies in one place and might not want to see medications if they only want to order supplies. One participant mentioned that they liked that option 1 is a small and easy change from the MHV Classic for them to adapt. 
-
-> _Supporting data: "I can click on medical supplies when I'm not ordering medications."_
-
-> _Supporting data: "If I want medications, I go to that section. If I want medical supplies, I go to that section. That's what I like better (about option 1)."_
-
-
-### Finding 2: Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1) because they thought glucose testing strips were medical supplies.
+**Most participants (10 out of 15) struggled to find glucose testing strips using [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1) because they thought glucose testing strips were medical supplies.**
 
 Most participants had struggled to find glucose testing strips. Because they thought glucose testing strips were medical supplies, they went straight to the medical supplies section when asked to order glucose testing strips. 
 
@@ -138,8 +129,17 @@ Most participants had struggled to find glucose testing strips. Because they tho
 
 > _Supporting data: "You don't always know if it's a medication or prescription._
 
+**5 participants chose [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) as the easiest to use and liked medications and medical supplies are separate on MHV on VA.gov landing page and reorder page.**
 
-### Finding 3: Some (7 out of 15) participants found it confusing to have both a list page and an order page.
+The participants (5 out of 15) who didn't choose option 3 picked option 1. They liked that medications and medical supplies are separate on MHV home and have different order pages. The general concern is that they might be overwhelmed by the large number of medications and medical supplies in one place and might not want to see medications if they only want to order supplies. One participant mentioned that they liked that option 1 is a small and easy change from the MHV Classic for them to adapt. 
+
+> _Supporting data: "I can click on medical supplies when I'm not ordering medications."_
+
+> _Supporting data: "If I want medications, I go to that section. If I want medical supplies, I go to that section. That's what I like better (about option 1)."_
+
+### Finding 2: Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much of a difference between them.
+
+<img width="276" alt="Screenshot 2024-05-15 at 3 50 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/41d9a9c0-b1b6-4eae-a5b9-4b33124a5eef">
 
 This finding applied to all 3 options (see the screenshot below for the list page link and order page link on the MHV landing page). Some participants looked at the list link and order link on the MHV home page and were not sure what the differences were. 4 participants clicked on the list link when asked to order, and then they either tracked back to the home page to click on the order link or took a while to click on the order link on the list page. 
 
