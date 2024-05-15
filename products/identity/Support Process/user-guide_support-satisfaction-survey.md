@@ -44,7 +44,7 @@ Understanding customer satisfaction is crucial for continuous improvement.
 
 5. Select the Results tab
 
-- You'll see the "Overview" page
+- You'll see the ["Overview"](https://app.optimalworkshop.com/a/dj540s05/questions/results/33caf95d-7ef5-4fe4-a9b4-de562ce7e92b#/t/results/overview) page
 
 ![Optimal Results Overview](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/933abeb7-da16-4c38-a892-90dd91ec6583)
 
