@@ -56,6 +56,7 @@ In addition to adding TE sections to the digital form, this release also include
 7. Handling of multiple exposures data to populate on the PDF in 15e
 10. Implementation of updated logic for the new Lighthouse /submit endpoint
 
+
 ## Risks & Challenges
 1. DBEX teams have developed this solution with the assumption that Lighthouse's Submit endpoint will be used for the production deployment of TE. If the Lighthouse /submit endpoint isn’t available by the end of June, DBEX teams will not re-pipe the TE solution to use EVSS async Submit endpoint. VA’s expectation is that TE solution is complete and ready by end of June. TE will leverage LH’s Submit endpoint when it's released into production.
 
