@@ -81,13 +81,13 @@ The moderator assigned two tasks to participants: ordering CPAP Mask straps and 
 
 > _Supporting data: "I didn't have to go through different screens to find what I'm looking for."_
 
-> _Supporting data: "Easily the first one (option 3). They were in one place. Having everything I need to order in one place. For the other options, I had to figure out where they were. Fewer clicks is always the easiest."_
+> _Supporting data: "Easily the first one (option 3). They were in one place. Having everything I need to order in one place. For the other options, I had to figure out where they were. Fewer clicks are always the easiest."_
 
 > _Supporting data: "Everything was combined so it was easier to find everything in one place."_
 
 > _Supporting data: "You don't always know if it's a medication or prescription. You no have to look in 2 different places instead of going to one place."_
 
-When asked about the similarities and differences between medications and medical supplies, all participants thought they were different with little similarities. With that being said, the participants who picked option 3 as the easiest to use still liked medications and supplies being in one place. 
+When asked about the similarities and differences between medications and medical supplies, all participants thought by definitions they were mostly different with little similarities. Considering the differences, the participants who picked option 3 as the easiest to use still liked medications and supplies in one place. 
 
 > _Supporting data: "Similarity is they are all doctors' orders."_
 
