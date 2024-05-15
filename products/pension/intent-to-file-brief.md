@@ -8,7 +8,7 @@ _[From Intent to File page on va.gov](https://www.va.gov/resources/your-intent-t
 Veterans have one year from the time they submit an intent to file to complete and submit their claim to benefit from the ITF-based effective date (provided their application is successful).
 
 ### ITF for Pension
-ITF for pension is available to Veterans via non-web means (paper form, phone etc) and this initiative intends to bring ITF to pension web so that Veterans applying online can easily benefit from ITF without having to fill a separate form.
+ITF for pension is available to Veterans via non-web means (paper form, phone etc) and this initiative intends to bring ITF to pension web so that Veterans applying online can easily benefit from ITF without having to fill out a separate form.
 
 The 526 disability compensation web form has an implementation of ITF that we are able to learn from as we shape the 527 ITF experience.
 Note: there are functional differences between how pension ITF and compensation ITF behave so one approach cannot directly be applied to the other. Some adjustments would be necessary.
@@ -72,7 +72,7 @@ When a pension application is submitted online, submission date is used as the e
 * The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
 
 #### Risks: 
-* If we cannot shift Veteran behavior to start earlier, the benefit of this feature maybe marginal (ie: if behavior remains similar to what's shown in stats above). How beneficial is ITF in the grander scheme of problems and opportunities Veterans face in gaining pension benefits?
+* If we cannot shift Veteran behavior to start earlier, the benefit of this feature may be marginal (ie: if behavior remains similar to what's shown in stats above). How beneficial is ITF in the grander scheme of problems and opportunities Veterans face in gaining pension benefits?
 * ITF API can be flaky, based on learnings from 526 team. By getting started with a simpler scope, we get to de-risk as we learn to work with a new API in the simplest way.
 * Miscommunication of ITF dates could happen when the API is not accessible in a timely manner (when a Veteran does have an ITF) or when data isn't yet available to the API based on a ITF a Veteran posted offline.
 * By introducing ITF start and expiration date, some Veterans could be overwhelmed by yet another date to process/understand.
