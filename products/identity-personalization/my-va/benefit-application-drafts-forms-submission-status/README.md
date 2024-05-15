@@ -64,6 +64,7 @@ The MVP will target the following forms:
 
 **In Scope**
 - Updated confirmation page for the specific forms outlined for MVP (see above)
+- Updated name/heading for the Benefit Applications section
 - Status card in Benefit Applications (name TBD) section on My VA: submitted/pending, error, received
 - Updated copy for submitted/pending confirmation notification; stretch goal to include new notification for error (dependpent on VA Notify scheduling)
 
