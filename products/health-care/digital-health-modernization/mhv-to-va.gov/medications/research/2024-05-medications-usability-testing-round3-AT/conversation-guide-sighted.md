@@ -87,7 +87,7 @@ _\[Landing page\]_
 
 
 
-2. Let’s say you realize you needed to order remaining medications. How would you do that?
+2. Let’s say you realize you needed to order the remaining medications. How would you do that?
 
 \[do not interrupt participant, collecting ToT\]
 
@@ -151,7 +151,7 @@ _\[Amlodipine detail page\]_
 - Is there information about why it wasn’t in your refill list?
 
  - \[if they notice “If you need more” statement\] What would you do next?
- - \[if they go into “What does this status mean\] What would you do next?
+ - \[if they go into “What does this status mean"\] What would you do next?
 
 
 
