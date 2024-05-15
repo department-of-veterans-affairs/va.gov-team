@@ -47,7 +47,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 ## Root Cause Analysis
 
-The redirect was missing regex 
+The issue resulted from missing some regex that handles child paths in the URL redirect.
 
 ### What happened?
 
