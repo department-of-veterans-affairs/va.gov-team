@@ -26,7 +26,7 @@ Based on backend data since the relaunch of the online 527 form (end Jan-end Apr
 * The average time to complete a form: 12 days
 * Maximum time to complete a form: 309 days
 
-While 12 days may not sound like a worthy difference to shift forward and effective date by, if the ITF feature is understood and used as intended by more Veterans who decide to start their applications ASAP, we may observe an increase in the average time to complete an online form.
+While an average of 12 days may not sound like a worthy difference to shift forward an effective date by, if the ITF feature is understood and used as intended by more Veterans who decide to start their applications ASAP, we may observe an increase in the average time to complete an online form. This means that more Veterans _may_ benefit from payments starting earlier than they would've initially expected.
 
 
 ### Desired Outcomes
@@ -49,7 +49,7 @@ Implement foundational functionality so that Veterans can benefit from pension I
 When a pension application is submitted online, submission date is used as the effective date once application is successful, as there isn't an Intent to File feature for the pension web form. If users submitted a pension ITF through another non-web channel before they submitted an online pension, that ITF would be used when VBA processes an online application.
 
 #### Hypothesis / Proposed Behavior:
-* By informing Veterans who intend to apply, about pension ITF and nudging them to shift behavior to start their application process sooner than later, they can benefit from an earlier ITF-based effective date.
+* By informing Veterans who intend to apply, about pension ITF and nudging them to shift behavior to start their application process sooner than later, they can benefit from an earlier ITF-based effective date for payments.
 * By introducing an ITF step in the pension application flow, Veterans will be educated on the ITF process and what they need to do to by when to benefit from it. 
 * By communicating ITF dates to VBA, enable Veterans to receive an effective date earlier than their online submission date.
 
