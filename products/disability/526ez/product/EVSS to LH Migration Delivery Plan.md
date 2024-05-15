@@ -58,7 +58,7 @@ Recommended approach:
 - Submit Migration (Team 1)
   - Release Plan
   - DataDog Dashboard Setup
-  - Logic updates if needed to the new endpoint
+  - Logic updates needed to the synchronous response version of the endpoint / updates to transformation service
   - Canary Launch
   - Staggered release monitoring 
 - Generate PDF Migration (Team 2)
