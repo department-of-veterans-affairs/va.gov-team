@@ -67,7 +67,7 @@ Recommended approach:
 
 ### Next (July - September 2024) 
 - Rated Disabilities
-  - Validate bug fix
+  - Validate Lighthouse bug fix
   - Staggered release monitoring
 - Benefits Reference Data (BRD)
   - Increase monitoring in DataDog
