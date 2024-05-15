@@ -112,6 +112,7 @@ ________________________________________________________________________________
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
     - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
+    - ❗🟥 [Create Content for BTSSS API Timeout Workaround ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83210)
     - **Sub Goal: Move to New AWS Instance**
         - ❗🟨 [[DevOps] Eric Oliver's Magical PAS Mystery Tour ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82439)
         - ⛔ 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
@@ -142,6 +143,7 @@ ________________________________________________________________________________
     - 🟩 [Review & Update our Production Support & Incident Response Documentation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82430)
     - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
     - 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83002)
+    
 ______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 6 - 5/1/2024 - 5/14/2024   
