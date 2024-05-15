@@ -33,7 +33,6 @@ Ensure that the list of stakeholders involved are recorded in the post-mortem an
 
 - Patrick Bateman
 - Aparna Nittala - OOB Approver
-- 
 - Adrian Rollett
 
 Ensure that the [timeline](#event-timeline) includes timestamps of when each individual, listed stakeholder was notified of the event.
@@ -48,17 +47,24 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 ## Root Cause Analysis
 
-This section provides a detailed analysis of the event and provides this analysis from a systemic vantage point. Post-mortems are not intended as a "self-criticism" event, but rather as an opportunity to document, learn and improve. This section focuses on providing that input into the learning and adaptation process.
+The redirect was missing regex 
 
 ### What happened?
 
-Describe in detail what actually happened and what the downstream effect of the event was outside of the information provided in the "Impact" section. Provide insight into the dependencies between the different moving parts of the problem-space. Start from earliest known trigger and work your way through the cascading events.
+The 10-10EZ URL was changed from /health-care/apply/application/ to /health-care/apply-for-health-care-form-10-10ez/.  The [redirect request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80756) was submitted on 4/15/2024. 
+The 10-10 team coordinated with IA to implement the redirect. On 5/2/2024, Matt Long (10-10 team engineer) commented in the Redirect request ticket that there was one redirect that was not working in the Review Instance we were testing in.  The finding was that if you search for "10ez" on VA.gov, the returned results on the 2nd option would be a `404`.  The issue was reviewed with Fran Cross and Jill Adams on Public Websites team.  On 5/3/2024, this is where Jill Adams mentions that "If this were a standard redirect, usually that would mean we're missing some regex that handles child paths. I think your PR should already be handling that".  Jill then refers to other engineers on the Public Websites team to take a look.  One of the engineers, Randi Mays, commented on 5/6/2024 that this looked to be common to the Review Instance behavior and happens with other URLs.
+Matt Long merged the code on 5/6/2024.  Once the code was merged, the search steps were duplicated and produced a successful redirect, causing an assumption that there was no issue and that the Review Instance behavior was isolated.
+
+On 5/14/2024, Adrian Rollett discovered that the redirect was matching only /health-care/apply/application and /health-care/apply/application/, but not any other child pages under the path.
 
 ### Why did it happen?
 
 - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
+     - Testing in the Review Instance uncovered the issue prior to deploying to Staging and Production. The issue was discussed and reviewed by multiple people on teams that are responsible for the redirect and search page successful functions.
 - What should ordinarily have been done to prevent this, but wasn't done?
+     - XXXXXXXXXX
 - What could have been done to prevent this, but isn't part of our modus operandi right now.
+     - 10-10 team could have gone further to open a Platform ticket to validate the Review Instance behavior.
 
 ### What will we change to ensure this doesn't happen again?
 
@@ -66,7 +72,7 @@ Provide recommendations and concrete plans of action of how you will provide a s
 
 ## Resolution
 
-Which steps were taken to resolve the incident. Include the link to the #oncall channel for conversation if a thread in #oncall exists.
+Update was needed to change the redirect from /health-care/apply/application/ to /health-care/apply-for-health-care-form-10-10ez/ to match all child pages under /health-care/apply/application/
 
 ### What went well
 
