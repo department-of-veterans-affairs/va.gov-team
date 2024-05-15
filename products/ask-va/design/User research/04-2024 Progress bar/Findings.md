@@ -140,7 +140,27 @@ And, although they didn't get a perfect idea of how long they had left, it showe
 
 ### Finding 4: School information fields are interpreted inconsistently without more details.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`
+_Labels: `AUD: Veterans`, `PRDT: AVA`_
+
+There's various ways to interpret whether you're a GI bill beneficiary. 'Yes' could mean you're receiving benefits, you're eligible, or, you think you may be eligible.
+
+People think school state is required and residency state isn't.
+
+School state is confusing if you're not already in school. And residency state is complex for many Veterans who think it needs to match their DD24.
+
+Although people know files aren't required, they try to think of things that could be helpful, but may not be necessary.
+
+> "I'm not sure how to answer this, because beneficiary, to me, means I'm taking advantage of it. [But] another meaning could be, I can potentially receive it."
+
+> "I guess the school state is required and residency state is not necessarily. But I feel like I should give it, even if it's not required."
+
+> "Sometimes they still want [your hometown state] from your DD214 to make sure it matches."
+
+> "What am I supposed to upload? Why would I upload something? My natural thought says it would be my DD214."
+
+### Finding 5: It's clear why information is pre-filled, but there's uncertainty about what's impacted if you edit pre-fill.
+
+_Labels: `AUD: Veterans`, `PRDT: AVA`_
 
 It's clear that personal information is pre-filled because you signed in.
 
@@ -158,7 +178,7 @@ Many people continue to expect personal information to be come first after they 
 
 > "This would have been good after I signed in. So I signed in and VA says, okay, this is who we think you are. Are we right? [...] You're [Hector James], right? And you were born on [...] That's all accurate, and then go into the process of asking the question."
 
-### Finding 5: It's clear why information is pre-filled, but there's uncertainty about what's impacted if you edit pre-fill.
+### Finding 6: Most people notice their progress being saved and expect to find their unfinished question in their dashboard.
 
 _Labels: `AUD: Veterans`, `PRDT: AVA`_
 
@@ -177,26 +197,6 @@ But some people expect a prompt or aren't sure how to get back to an unfinished 
 > "I would hope that I would be able to go to that initial page sign in, and then I should be able to find questions in progress..."
 
 > "I guess you would click that green box there, we saved your progress [...] I don't know if you can click on that part and it would bring you back [here]?"
-
-### Finding 6: Most people notice their progress being saved and expect to find their unfinished question in their dashboard.
-
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
-
-There's various ways to interpret whether you're a GI bill beneficiary. 'Yes' could mean you're receiving benefits, you're eligible, or, you think you may be eligible.
-
-People think school state is required and residency state isn't.
-
-School state is confusing if you're not already in school. And residency state is complex for many Veterans who think it needs to match their DD24.
-
-Although people know files aren't required, they try to think of things that could be helpful, but may not be necessary.
-
-> "I'm not sure how to answer this, because beneficiary, to me, means I'm taking advantage of it. [But] another meaning could be, I can potentially receive it."
-
-> "I guess the school state is required and residency state is not necessarily. But I feel like I should give it, even if it's not required."
-
-> "Sometimes they still want [your hometown state] from your DD214 to make sure it matches."
-
-> "What am I supposed to upload? Why would I upload something? My natural thought says it would be my DD214."
 
 ## Additional insights
 
