@@ -86,7 +86,7 @@ The moderator assigned two tasks to participants: ordering CPAP Mask straps and 
 
 > _Supporting data: "You don't always know if it's a medication or prescription. You no have to look in 2 different places instead of going to one place."_
 
-When asked about the similarities and differences between medications and medical supplies, all participants thought by definitions they were mostly different with little similarities. They mentioned Considering the differences, the participants who picked option 3 as the easiest to use still liked medications and supplies in one place. 
+When asked about the similarities and differences between medications and medical supplies, all participants thought they were mostly different by definitions with little similarities. They mentioned that medications are for internal use and supplies are for external. Considering the differences, the participants who picked option 3 as the easiest to use still liked medications and supplies in one place. 
 
 > _Supporting data: "Similarity is they are all doctors' orders."_
 
