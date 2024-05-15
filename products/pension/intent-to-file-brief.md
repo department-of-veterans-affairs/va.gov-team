@@ -118,7 +118,7 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 * Indicate their ITF date when available along with appropriate context.
 
 **5. Other items to prioritized:**
-* Setup DataDog to track ITF feature/ITF API success and failure.
+* Setup DataDog to track ITF - ITF API success and failure, claim lag time.
 * Update DOMO dashboard with Analytics team to include any new ITF related pages.
 * Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
 * Update VBA processing team documentation where needed to ensure ITF information coming from pension web form is handled accordingly.
