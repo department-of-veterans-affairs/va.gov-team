@@ -20,7 +20,7 @@ _Ask VA VA.gov Team_
 - MPI is the authoritative source for sexual orientation and gender identity (SOGI) traits.
 
 ## References
-See [our Mural board}(https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714598976808/01ff576d168bac06daae0efc18216d1cef3c2bc5?sender=u44efa807e992cacf10cf3697) where we took notes.
+See [our Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714598976808/01ff576d168bac06daae0efc18216d1cef3c2bc5?sender=u44efa807e992cacf10cf3697) where we took notes.
      
 ## Actions
 - [x] Becky schedule follow up meeting to align on next steps/goals
