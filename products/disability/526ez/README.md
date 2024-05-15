@@ -5,7 +5,7 @@
 # Product Outline: Disability Compensation Application (Form 526)
 
 - GitHub Label: disability-experience
-- Slack channel: #benefits-disability-experience
+- Slack channel: #benefits-disability
 - VA.gov link: /disability/file-disability-claim-form-21-526ez/introduction
 - Product Roadmap: [link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1680617210045)
 - Demo video link: n/a
@@ -13,7 +13,6 @@
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 - Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience)
-- Zenhub board: Workspace - [Disability experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
 - Quick reference to product related information - [links here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/quick-links.md)
 - Onboarding and Orientation - [Link to doc on team repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/onboarding#readme)
 ---
@@ -52,14 +51,18 @@
 - ITSC (IT Strategic Comms) liaison: n/a
   
  Team 1: 
-- Product manager: Rakshinda Aslam
+ [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
+ GitHub team label: DBEX-TREX
+- Product manager: Jared Pace
 - Design and Research: Mike Eng, Kate Allbee, Evelyn Davis
 - Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, MJ Wojcik
 - Delivery: Anneliese LaTempa
 
  Team 2:
-- Product manager: TBD
+ [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-benefits-experience-team-carbs-6470c8bfffee9809b2634a52/board)
+ GitHub team label: DBEX-CARBS
+- Product manager: Lisa Capaccioli
 - Design and Research: Julie Pedtke, Nichole Nicholas
-- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal, Shaun Burdick
+- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal, Dewayne VanHoozer
 - Delivery: Sarah Ortiz Shields
 
