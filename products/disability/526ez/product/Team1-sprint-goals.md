@@ -1,5 +1,18 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
+## Sprint 32
+Period - 05/22/2024 - 06/04/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - 
+
+- **Paper Form Sync**
+    - 
+
+- **Submission Experience**
+    - 
+
 ## Sprint 31
 Period - 05/08/2024 - 05/21/2024
 ### Sprint goals
