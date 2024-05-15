@@ -53,39 +53,40 @@ The redirect was missing regex
 
 The 10-10EZ URL was changed from /health-care/apply/application/ to /health-care/apply-for-health-care-form-10-10ez/.  The [redirect request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80756) was submitted on 4/15/2024. 
 The 10-10 team coordinated with IA to implement the redirect. On 5/2/2024, Matt Long (10-10 team engineer) commented in the Redirect request ticket that there was one redirect that was not working in the Review Instance we were testing in.  The finding was that if you search for "10ez" on VA.gov, the returned results on the 2nd option would be a `404`.  The issue was reviewed with Fran Cross and Jill Adams on Public Websites team.  On 5/3/2024, this is where Jill Adams mentions that "If this were a standard redirect, usually that would mean we're missing some regex that handles child paths. I think your PR should already be handling that".  Jill then refers to other engineers on the Public Websites team to take a look.  One of the engineers, Randi Mays, commented on 5/6/2024 that this looked to be common to the Review Instance behavior and happens with other URLs.
-Matt Long merged the code on 5/6/2024.  Once the code was merged, the search steps were duplicated and produced a successful redirect, causing an assumption that there was no issue and that the Review Instance behavior was isolated.
+Matt Long merged the code on 5/6/2024.  Once the code was merged, the search steps were duplicated and produced a successful redirect, giving an assumption that there was no issue and that the Review Instance behavior was isolated.
 
-On 5/14/2024, Adrian Rollett discovered that the redirect was matching only /health-care/apply/application and /health-care/apply/application/, but not any other child pages under the path.
+On 5/14/2024, Adrian Rollett discovered that the redirect was matching only /health-care/apply/application and /health-care/apply/application/, but not any other child pages under the path.  This was due to 
 
 ### Why did it happen?
 
 - Which mitigations were in place that should have prevented this, but failed to prevent it? How and why did these mitigations fail?
-     - Testing in the Review Instance uncovered the issue prior to deploying to Staging and Production. The issue was discussed and reviewed by multiple people on teams that are responsible for the redirect and search page successful functions.
+     - Testing in the Review Instance uncovered the issue, of a redirect not working from the Search function and selecting the 2nd option on the page, prior to deploying to Staging and Production. The issue was discussed and reviewed by multiple people on teams that are responsible for the redirect and search page successful functions.  The advisement was that this issue was that this was "Review instance behavior", having seen it on other URLs with similar child page setup.
 - What should ordinarily have been done to prevent this, but wasn't done?
-     - XXXXXXXXXX
+     - There does not seem to be any action that was not done that could have prevented this issue.  The testing was performed by several people in multiple environments, the impacted teams were engaged appropriately.  The redirect was reported as working as expected upon deployment to staging and production and there were no other indicators that an issue existed until 5/13/2024 when Adrian Rollett brought it to the 10-10 team's attention.
 - What could have been done to prevent this, but isn't part of our modus operandi right now.
-     - 10-10 team could have gone further to open a Platform ticket to validate the Review Instance behavior.
+     - 10-10 team could have gone further to ask about the potential of a regex issue, as mentioned by Jill Adams.  The team could have also opened a Platform ticket to validate the Review Instance behavior.
 
 ### What will we change to ensure this doesn't happen again?
 
-Provide recommendations and concrete plans of action of how you will provide a systemic defense against this type of issue happening again in the future, including how will you ensure these recommendations are implemented & measured? How will you know if these new activities fail(ed)? In most cases, steps listed here should have corresponding action items.
+The team will create an outline of testing scenarios that must be performed in all environments when a URL is being changed and a redirect is implemented.  This will be especially helpful since the team will be updating another URL in the coming month. The 10-10 team will continue to ensure a variety of testing within and out of VA.gov and engage the Public Websites and CAIA teams to assist with code reviews, testing and confirmation of successful implementation. 
+The 10-10 team will learn from this issue, and ensure we are reviewing the regex changes that are needed.
 
 ## Resolution
 
-Update was needed to change the redirect from /health-care/apply/application/ to /health-care/apply-for-health-care-form-10-10ez/ to match all child pages under /health-care/apply/application/
+Update was needed to change the redirect (from /health-care/apply/application/ to /health-care/apply-for-health-care-form-10-10ez/) to match all child pages under /health-care/apply/application/.
 
 ### What went well
 
-What went better than expected and deserves a call-out? Think more broadly than just "we got a fix out quickly", instead think about "what were the _enablers_ for X, Y going well".
+XXXXXXXXXXXX What went better than expected and deserves a call-out? Think more broadly than just "we got a fix out quickly", instead think about "what were the _enablers_ for X, Y going well".
 
 ### What went wrong
 
-Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
+XXXXXXXXXXXXXXXX Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
 Explicitly list 'N/A' if there are no such instances.
 
 ### Where we got lucky
 
-Describe cases where, ordinarily, you would have expected to or could have encountered a roadblock, or a hurdle in getting to the resolution, but this _accidentally_ didn't happen (i.e. we got _lucky_). Do not include items that are part of standard operating procedure. In other words, describe instances where the process failed successfully. You can also use this to describe where safeguards did kick in, provided those safeguards prevented much worse from precipitating.
+XXXXXXXXXXXXXXXX Describe cases where, ordinarily, you would have expected to or could have encountered a roadblock, or a hurdle in getting to the resolution, but this _accidentally_ didn't happen (i.e. we got _lucky_). Do not include items that are part of standard operating procedure. In other words, describe instances where the process failed successfully. You can also use this to describe where safeguards did kick in, provided those safeguards prevented much worse from precipitating.
 
 ## Event Timeline
 
@@ -112,5 +113,5 @@ Include the step that describes when and how the issue was identified (i.e. how 
 
 ## Contributors
 
-- [@contributor_a](https://github.com/@contributor_a)
+- [@hdjustice](https://github.com/@contributor_a)
 - [@contributor_b](https://github.com/@contributor_b)
