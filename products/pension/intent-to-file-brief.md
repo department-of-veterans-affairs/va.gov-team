@@ -28,12 +28,12 @@ Based on backend data for logged in users submitting 2351 claims since the relau
 * The average time to complete a form: 12 days
 * Maximum time to complete a form: 309 days
 * More than 300 days: 2 claims
-* 201-300 days: 39
-* 101-200 days: 80
-* 0-100 days: 2230 (94%)
-* Less than 1 day: 1808 (76%)
-* More than 1 day, less than 1 week: 217
-* 1-2 weeks: 65
+* 201-300 days: 39 claims
+* 101-200 days: 80 claims
+* 0-100 days: 2230 claims (94%)
+* Less than 1 day: 1808 claims (76%)
+* More than 1 day, less than 1 week: 217 claims
+* 1-2 weeks: 65 claims
   
 While an average of 12 days may not sound like a worthy difference to shift forward an effective date by, if the ITF feature is understood and used as intended by more Veterans who decide to start their applications ASAP, we may observe an increase in the average time to complete an online form. More Veterans _may_ benefit from payments starting earlier than they would've initially expected. Can we cause a shift in the behavior of those who submit their claim within a day (76%) and are in the broader 0-100 days group?
 
