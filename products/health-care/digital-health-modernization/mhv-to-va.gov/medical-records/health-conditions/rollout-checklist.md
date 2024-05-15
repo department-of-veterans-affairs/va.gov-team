@@ -57,26 +57,26 @@ For an application to enter rollout Phase 0, the following must be true:
 
       - [ ] Facility POCs 
 
-- [ ] Demo of new tool for audiences who will be affected by Phase 0 completed  
+- [X] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
-- [ ] Support staff trained
+- [X] Support staff trained
 
-- [ ] Process for handling technical / customer support issues exists 
+- [X] Process for handling technical / customer support issues exists 
 
  
 ### Product 
 
 - [ ] Intended product outcomes are documented and broadly communicated 
 
-- [ ] Technical instrumentation is in place to track GA 
+- [X] Technical instrumentation is in place to track GA - *N/A - using DD for now*
 
-- [ ] All steps of the collaboration cycle are complete  
+- [X] All steps of the collaboration cycle are complete - *Staging review for this domain to be completed late May 2024 per agreement with VA Platform team*
 
-- [ ] All the MUST feedback complete 
+- [X] All the MUST feedback complete 
 
-- [ ] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date 
+- [X] Product documentation is reviewed by OCTO/OCC product managers & leads and determined to be complete and up-to-date - *product guide uploaded into GH*
 
-- [ ] Establish email box for the feedback loop 
+- [X] Establish email box for the feedback loop - *same as other MHV Phase 0 products*
  
    
 # Confirm with the following teams that they are ready for rollout: 
@@ -136,22 +136,22 @@ For an application to enter rollout Phase 0, the following must be true:
 
 - [ ] Downstream services tested at 2x average load for prior 12 months 
 
-- [ ] DataDog monitors exist 
+- [X] DataDog monitors exist 
 
-- [ ] Alerts exist 
+- [X] Alerts exist 
 
    - PagerDuty 
 
     - Slack 
 
-- [ ] On-call rotation exists 
+- [X] On-call rotation exists - *standard on call/support - same as other Phase 0 products*
 
-- [ ] Technical support escalation policy exists 
+- [X] Technical support escalation policy exists  - *same as other Phase 0 products*
 
  
 ### Analytics & Metrics  
 
-- [X] Google Analytics 
+- [X] Google Analytics - *N/A - using DD for now*
 
     - Event tags exist 
 
@@ -159,7 +159,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
     - Dashboard exists 
 
-- [ ] Domo 
+- [X] Domo - *N/A - using DD for now*
     - Access 
 
     - Dashboard exists 
