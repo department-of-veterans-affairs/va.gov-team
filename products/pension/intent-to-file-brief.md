@@ -74,7 +74,6 @@ When a pension application is submitted online, submission date is used as the e
 * ITF API can be flaky, based on learnings from 526 team. By getting started with a simpler scope, we get to de-risk as we learn to work with a new API in the simplest way.
 * Miscommunication of ITF dates could happen when the API is not accessible in a timely manner (when a Veteran does have an ITF) or when data isn't yet available to the API based on a ITF a Veteran posted offline.
 * By introducing ITF start and expiration date, some Veterans could be overwhelmed by yet another date to process/understand.
-* 
   
 #### Measuring Success:
 * The average lag time between the start and completion of a form increases [via backend] Note: not to be confused with active time using the form - we do not wish to increase that as that would indicate a UX problem.
