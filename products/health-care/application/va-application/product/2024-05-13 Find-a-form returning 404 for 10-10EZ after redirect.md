@@ -19,7 +19,7 @@ The redirect from the old 1010ez application URL is not working with URLs adding
 - What time period were users impacted?
      - 05/06/2024 11:20am ET to 05/13/2024 2:20pm ET
 - What impact did this have on the SLO?
-     - I don't know what the SLO is.
+     - N/A
 
 ## Ownership
 
@@ -72,8 +72,8 @@ On 5/14/2024, Adrian Rollett discovered that the redirect was matching only /hea
 
 ### What will we change to ensure this doesn't happen again?
 
-The team will create an outline of testing scenarios that must be performed in all environments when a URL is being changed and a redirect is implemented.  This will be especially helpful since the team will be updating another URL in the coming month. The 10-10 team will continue to ensure a variety of testing within and out of VA.gov and engage the Public Websites and CAIA teams to assist with code reviews, testing and confirmation of successful implementation. 
-The 10-10 team will learn from this issue, and ensure we are reviewing the regex changes that are needed.
+The 10-10 team will collaborate with the Platform, CAIA and Public Websites team to improve the current guidance on URL changes, especially around regex.  We can create an outline of testing and code review steps that must be completed in all environments when a URL is being changed and a redirect is implemented.  
+
 
 ## Resolution
 
@@ -81,16 +81,15 @@ Update was needed to change the redirect (from /health-care/apply/application/ t
 
 ### What went well
 
-XXXXXXXXXXXX What went better than expected and deserves a call-out? Think more broadly than just "we got a fix out quickly", instead think about "what were the _enablers_ for X, Y going well".
+The regex issue was easily found and remedied quickly, due to the expertise and experience of the Platform team, specifically Adrian Rollett
 
 ### What went wrong
 
-XXXXXXXXXXXXXXXX Describe instances where our standard operating procedure around how getting to a resolution for this issue failed. This is a meta-question and deals with the process of this specific incident (not the process in general).
-Explicitly list 'N/A' if there are no such instances.
+N/A
 
 ### Where we got lucky
 
-XXXXXXXXXXXXXXXX Describe cases where, ordinarily, you would have expected to or could have encountered a roadblock, or a hurdle in getting to the resolution, but this _accidentally_ didn't happen (i.e. we got _lucky_). Do not include items that are part of standard operating procedure. In other words, describe instances where the process failed successfully. You can also use this to describe where safeguards did kick in, provided those safeguards prevented much worse from precipitating.
+N/A
 
 ## Event Timeline
 
