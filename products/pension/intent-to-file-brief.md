@@ -20,13 +20,22 @@ Today, when pension benefits are granted for an online pension application, bene
 
 This feature can enable Veterans to receive benefits based on when they _started_ their online pension application instead of when they _submitted_ it. They are able to get an earlier effective date via ITF functionality (provided their application is successful).
 
-Although the respondent burden for the paper form is stated as 30 minutes, the pension form can be a time and effort consuming form depending on a Veteran's situation. Some Veterans may wait to gather all their documents before they start applying, and others may start applying and gather what's needed as they progress through the form. While the second group would naturally benefit from ITF, the first group would need to be prompted to start their application earlier to benefit from ITF functionality. Note: we do not have data to quantify this behavior and the sizes of each group.
+Although the respondent burden for the paper form is stated as 30 minutes, the pension form can be a time and effort consuming form depending on a Veteran's situation. Some Veterans may wait to gather all their documents before they start applying, and others may start applying and gather what's needed as they progress through the form. While the second group would naturally benefit from ITF, the first group would need to be prompted to start their application earlier to benefit from ITF functionality. 
 
-Based on backend data since the relaunch of the online 527 form (end Jan-end Apr 2024):
+To make use of ITF, a Veteran needs to start their application ASAP and eventually get to filling the 527 web form itself, regardless of if they fill it in sooner or later. This is a non-obvious behavior when it comes to filling forms, hence would be important to address this and educate users.
+
+Based on backend data for logged in users submitting 2351 claims since the relaunch of the online 527 form (end Jan-end Apr 2024):
 * The average time to complete a form: 12 days
 * Maximum time to complete a form: 309 days
-
-While an average of 12 days may not sound like a worthy difference to shift forward an effective date by, if the ITF feature is understood and used as intended by more Veterans who decide to start their applications ASAP, we may observe an increase in the average time to complete an online form. This means that more Veterans _may_ benefit from payments starting earlier than they would've initially expected.
+* More than 300 days: 2 claims
+* 201-300 days: 39
+* 101-200 days: 80
+* 0-100 days: 2230 (94%)
+* Less than 1 day: 1808 (76%)
+* More than 1 day, less than 1 week: 217
+* 1-2 weeks: 65
+  
+While an average of 12 days may not sound like a worthy difference to shift forward an effective date by, if the ITF feature is understood and used as intended by more Veterans who decide to start their applications ASAP, we may observe an increase in the average time to complete an online form. More Veterans _may_ benefit from payments starting earlier than they would've initially expected. Can we cause a shift in the behavior of those who submit their claim within a day (76%) and are in the broader 0-100 days group?
 
 
 ### Desired Outcomes
@@ -82,9 +91,9 @@ When a pension application is submitted online, submission date is used as the e
 
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Agree on v1 scope
-* Retry mechanism limits - what happens if retrying fails? What's communicated at submission to user and VBA?
+* Retry mechanism limits - what happens if retrying fails? What's communicated at submission to user and VBA? We could start with manual remidiation for V1
 * Decide on if we need to send expiry notificaitons to users / understand if VBA sends any
-* Sanja's proposal to auto-renew - how does that impact this scope?
+* Based on VSR interview - when there's an ITF, the timeframe respondents refer to need to be re-contextualized for certain financial questions. Else VSRs need to reach back out to Veterans to ask for more information.
 
 **Status (as of 5/15/24)**
 * OCTO: in review
@@ -115,7 +124,8 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 * For users who started a form since 527EZ relaunch and have no ITF, an ITF will be created when they login.
 
 **4. When a user has an ITF, re-iterate what it could mean for them as they are about to submit or after they submit**
-* Indicate their ITF date when available along with appropriate context on the review screen or submission confirmation screen
+* Indicate their ITF date when available along with appropriate context on the review screen or submission confirmation screen.
+* If users didn't see there ITF in the initial screen, this is an opportunity to display it after retrying and establishing it.
 
 **5. Other items to prioritized:**
 * Setup DataDog to track ITF - ITF API success and failure, claim lag time.
