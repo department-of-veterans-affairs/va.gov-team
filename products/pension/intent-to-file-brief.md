@@ -114,15 +114,19 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 * An ITF can expire while a saved in-progress is still active. When the user logs in next and resumes the saved form, a new ITF will be created on that day. 
 * For users who started a form since 527EZ relaunch and have no ITF, an ITF will be created when they login.
 
-**4. When a user arrives at the submission confirmation screen**
+**4. When a user has an ITF and arrives at the submission confirmation screen**
 * Indicate their ITF date when available along with appropriate context.
 
-**5. Other items to prioritize:**
+**5. Other items to prioritized:**
 * Setup DataDog to track ITF feature/ITF API success and failure.
 * Update DOMO dashboard with Analytics team to include any new ITF related pages.
 * Update Pension product guide to inform and educate support teams on ITF functionality and behavior.
-* Communications on 'don't wait, start today!' so users can get maximum benefits from ITF.
-* Update VBA processing team documentation where needed to ensure  ITF information is handled accordingly.
+* Update VBA processing team documentation where needed to ensure ITF information coming from pension web form is handled accordingly.
+
+
+## THANKS FOR READING! :) 
+## PLEASE PAUSE HERE.
+Content below this line will be detailed further once V1 is sufficiently documented.
 
 
 
