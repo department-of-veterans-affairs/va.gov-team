@@ -2,43 +2,39 @@
 🟦 ENG 🟨 RE 🟥 DE 🟪 PM 🟩 Analytics ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
 
 <details>
-<summary>FUTURE SPRINT - 5/29/2024 - 6/11/2024 </summary>
-_________________________________________________________________________________________________________________________    
+<summary>FUTURE SPRINT - 6/12/2024 - 6/25/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 8 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
-
+## SPRINT 9 - 6/12/2024 - 6/25/2024  ------- FUTURE FUTURE / TENTATIVE ------
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create KPIs**
-    - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Surface referrals for Veterans**
+      
+</details>
 
-#### PLANNED RELEASES 
-- NONE
+<details>
+<summary>FUTURE SPRINT - 5/29/2024 - 6/11/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
 
-#### SPRINT TICKETS
+## SPRINT 8 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-         - 🟨 [[Research] 
     - **Sub Goal: [Feature] Create KPIs**
-         - 
-    - **Sub Goal: [Feature] Get CC app within vets-website set up**
-         - 🟦 
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
-         - 🟦 [Mock wellHive Referral endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82393)
-
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-         - 🟥 
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-         - 🟨🟥 
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Surface referrals for Veterans**
 
+</details>
 
-   
-</details>   
-
-</details>   
 ________________________________________________________________________________________________________________
 
 ## SPRINT 7 - 5/15/2024 - 5/28/2024 - CURRENT SPRINT
