@@ -4,7 +4,6 @@ _Ask VA VA.gov Team_
 ## Attendees
 - Ask VA VA.gov: Becky Phung
 - Ask VA CRM: Jaime Rocha, Natalie Morales, Kathleen Reavy
-- VA.gov: Christopher Johnston
 - Center for Women Veterans: Shannon Middleton, Tiglao Lourdes, Mary Bradford
 - LGBTQ+ Health Program: Alexis (Lexi) Matza, Ryan Mackie, Anna Donovan
 
