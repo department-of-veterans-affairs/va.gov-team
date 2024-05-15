@@ -131,7 +131,7 @@ Most participants had struggled to find glucose testing strips. Because they tho
 
 ### Finding 3: Some (7 out of 15) participants found it confusing to have both a list page and an order page.
 
-This finding applied to all 3 options (see the screenshot below for the list page link and order page link on the MHV landing page). 4 participants clicked on the list link when asked to order, and then they either tracked back to the home page to click on the order link or took a while to click on the order link on the list page. 
+This finding applied to all 3 options (see the screenshot below for the list page link and order page link on the MHV landing page). Some participants looked at the list link and order link on the MHV home page and were not sure what the differences were. 4 participants clicked on the list link when asked to order, and then they either tracked back to the home page to click on the order link or took a while to click on the order link on the list page. 
 
 ![Frame 3](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/90383173-9e7b-4db9-9670-1bb92681f760)
 
