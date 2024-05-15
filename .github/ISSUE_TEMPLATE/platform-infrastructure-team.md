@@ -2,7 +2,7 @@
 name: Platform Infrastructure Services Issue
 about: For VA.gov Platform Infrastructure Services Team
 title: '[Product] Thing to be done'
-labels: platform-lights-team, Infrastructure-Services, needs-refinement
+labels: Infrastructure-Services, needs-refinement
 assignees: ''
 
 ---
