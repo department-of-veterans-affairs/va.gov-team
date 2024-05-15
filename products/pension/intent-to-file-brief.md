@@ -1,5 +1,5 @@
 # Pension Intent to File (ITF) functionality for 527EZ Pension Web Form (DRAFT)
-## Purpose of this Product Outline document
+## Purpose of this Product Outline
 Outline how ITF functionality can benefit Veterans who apply for pension benefits online and agree on how this functionality can be sequenced and implemented.
 
 ### What is ITF?
