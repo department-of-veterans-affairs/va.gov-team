@@ -4,11 +4,11 @@ Fill out every section of this document, if there is no content for a particular
 
 ## Summary
 
-The redirect from the old 1010ez application URL, it's only matching /health-care/apply/application and /health-care/apply/application/, not anything under the path. 
+The redirect from the old 1010ez application URL is not working with URLs adding any of the child pages in the path.  It's only matching /health-care/apply/application and /health-care/apply/application/, not anything under the path such as /health-care/apply/application/introduction. 
 
 ## Impact
 
- The link to the 1010ez from find a form (and potentially other places) is giving a 404 error.
+ The link to the 1010ez from Find a Form (and potentially other places) is giving a 404 error.
 
 - How many users were affected?
      - Averageing the number of searches from the previous month, potentially 116 users could have been affected by the error
@@ -43,7 +43,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Enforce Branch Code Coverage to 'X% per file' in CI | Engineering Work | [@owning-team](https://github.com/orgs/department-of-veterans-affairs/teams/owning-team) | [REPO_NAME - ISSUE_ID](https://github.com/department-of-veterans-affairs/${REPO_NAME}/issues/1) |
+| Create an outline of review and testing steps to validate the URL redirect | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
 
 ## Root Cause Analysis
 
