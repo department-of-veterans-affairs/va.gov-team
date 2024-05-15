@@ -1,10 +1,10 @@
-#  [Transition Experience Interview] Research Findings 
+#  Transition Experience Interview Research Findings 
  
-**Office of the CTO - Digital Experience (OCTO-DE), TBD, Transition Experience **
+**Office of the CTO - Digital Experience (OCTO-DE), TBD, Transition Experience**
  
-Date: MM/DD/YYYY – will finalize the date when we post to GitHub
+Date: 05/15/2024
  
-[Victoria Sun Esparza] [victoria.sun1@va.gov], [Cora Goldston] [cora.goldston@va.gov]
+Victoria Sun Esparza [victoria.sun1@va.gov], Cora Goldston [cora.goldston@va.gov]
  
 **Jump to:**
  
@@ -61,7 +61,7 @@ Due to the logistics of recruiting participants and the distributed geographical
  
  
 ## Details of Findings   
-** Finding 1: Different participants had different preferences for viewing benefit information.**
+**Finding 1: Different participants had different preferences for viewing benefit information.**
  
 Labels: AUD: Veterans, AUD: Service Members, DSP: Content presentation
  
@@ -74,6 +74,7 @@ When asked what outputs would be useful, our interviewees fell into two differen
 > _”A module or URL or website attached to the VA portal [would be helpful]; it would have a list of different benefits. Have categories and within each, list the individual benefits. Healthcare in bold, education in bold, etc. Provide short description and have option to click into link for more details. Include points of contact, eligibility, explanation of process, what to do, timeline, etc. Start simple and increase as you go deeper into the options.”_ 
  
 
+
 **Finding 2  : Many participants had pre-conceived notions about whether the VA will help them, whether they are eligible for benefits, or whether they “deserve” to receive benefits.**
  
 Labels: AUD: Veterans, AUD: Service Members, DSP: Content presentation
@@ -83,6 +84,7 @@ Our interviewees discussed several barriers that discouraged them from exploring
 > _”I had a moral dilemma on using VA disability benefits. I’m certain I would rate and be able to take advantage of the disability from the VA. I know I could access those benefits, but it’s more of a ‘do I feel worthy of using those benefits?’ ”_
 
 > _”I didn’t know I could get unemployment for 6 months. Your unemployment starts the day after you get out. It’s [a] benefit that you use or lose. I forgot how I found out.”_ 
+
  
 **Finding 3: Participants sought benefits for a variety of reasons.**
  
@@ -93,6 +95,7 @@ Participants cited several reasons for exploring and applying for benefits. Two 
 > _”Even in TAP, maybe splitting people up based on what [benefits] they want to focus on [would be helpful]. People had different things they were interested in.”_
 
 > _”I am always looking for discounts. ‘If its free, it's for me’ is one of my models.”_ 
+
 
 
 **Finding 4: Most participants wanted the ability to ask for help while exploring or applying for benefits.**
@@ -106,6 +109,7 @@ Several participants indicated the need for some support, whether it is a live a
 > _”I wish [the VA] could have someone on standby to help out. Either an employee or fellow Veteran. It would be beneficial for those filing a claim.”_
  
 
+
 **Finding 5: While participants did want information about “big” benefits like disability compensation and healthcare, many participants also wanted to learn about lesser-known benefits.**
  
 Labels: AUD: Veterans, AUD: Service Members, DSP: Content presentation
@@ -117,6 +121,7 @@ The VA website organizes resources around a set of large categories (e.g., housi
 > _”What I envisioned, like when I deployed, there’s a big building and there was a table, like medical, one office for your ID, room B for travel [benefits], [so you can learn about] all these separate things.” _
  
 
+
 **Finding 6: Participants wanted a system that helps them take action (e.g., starting a benefit application), not just provide information.**
  
 Labels: AUD: Veterans, AUD: Service Members, DSP: Benefit applications
@@ -125,6 +130,7 @@ Transition and benefit discovery can be difficult processes, so an effective sol
  
 > _”There were a few moments I was discouraged to file [my disability claim] because it was so tedious. [The claim process] wasn’t something I was used to and difficult to learn.”_
 > _”I was stationed in [redacted] and things were lost in translation there. So many people come and go [from that base], and it was stressful to get out of there. [The separation process] was a lot of things to check off the list.”_
+
  
 
 **Finding 7: Participants wanted their existing service records and data to be automatically pulled in; that way, users do not need to enter information that is already on file.**
