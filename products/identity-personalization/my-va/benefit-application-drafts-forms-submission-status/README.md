@@ -1,6 +1,6 @@
-# Project outline: Benefit Application Drafts & Forms Submission Status MVP (WIP)
+# Project outline: Benefit Application Drafts & Forms Submission Status MVP
 
-**Last updated: April 19, 2024 - first published**
+**Last updated: May 15, 2024 - updates to Solution approach, Outcomes, Measuring Success, Key Deliverables, Key Dates, & screenshots**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -53,49 +53,86 @@ There are two (potentially three) major components of work to address these prob
 2. Conveying the current status, which we can obtain by polling the Benefits Intake API post-submission, to the user on My VA. -- _to be handled by Auth Exp My VA team_
 3. TBD - updates to notifications via and in partnership with VA Notify so that updates are triggered to Veterans with these status changes as well.
 
+The MVP will target the following forms:
+1. 21-4142 & 21-4142 (These are combined together) - Request Private Medical Facilities
+2. 21-0966 - Intent to file
+3. 21-10210 - Laywitness
+4. 21-0845 - Authorization to Release third party information
+5. 21-0972 - Alternate Signer
+6. 21P-0847 - Request to be a substitute claimant
+7. 20-10207 - Priority Processing
+
+**In Scope**
+- Updated confirmation page for the specific forms outlined for MVP (see above)
+- Status card in Benefit Applications (name TBD) section on My VA: submitted/pending, error, received
+- Updated copy for submitted/pending confirmation notification; stretch goal to include new notification for error (dependpent on VA Notify scheduling)
+
+**Out of Scope**
+- Conditional formatting of confirmation page with specific content for forms not tracked in the MVP forms submission status
+- Changes to the Claims and Appeals section on My VA
+- Download functionality (TBD, depends on technical feasibility)
+- Explainer text around which documents are part of MVP vs not
+
 ## User Outcomes
 
 ### Desired User Outcomes
 
-- TK
-- TK
+- Veterans are more aware of the status of their forms after they have clicked "submit."
 
 ### Undesired User Outcomes
  
-- TK
+- Veterans are confused about the status of their forms before they are received for review and processing by VA.
 
 ## Business Outcomes
 
 ### Desired Business Outcomes
 
-- TK
+- Reduce silent failures, in alignment with the OCTO Benefits Portfolio Prioritization Framework.
 
 ### Undesired Business Outcomes
 
-- TK
+- Create more confusion around form status and failures/errors.
 
 ## Security
 [Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/launch-materials/claim-status-lighthouse-migration-security-playbook.md)
 
 ## Measuring Success
+The primary goal of this MVP is to reduce silent failures in the form/application submission process.
 
-TK
+### Objectives & Key Results
+TK TK
 
 ## Key deliverables
 
 - [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/benefit-application-drafts-forms-submission-status/technical-discovery.md)
-- ...
+- Usability study artifacts and findings (TK)
+- Figma designs
   
 
 ### Key Dates
 
 - April 2024: Kick-off
-- ...
+- April 18, 2024: Design Intent
+- May 21, 2024: Midpoint Review
+- ____: Usability Study
+- ____: QA
+- ____: Staging Review
+- ____: UAT
+- ____: Begin phased launch
+- ____: Launch to 100%
    
 ## Screenshots
 
 ### Before
+**Benefit Application Drafts section on My VA**
+![Screenshot 2024-05-07 at 10 43 12 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/5a368769-c25a-4b25-b1eb-ed4ba9089f9d)
+
+**VFF confirmation page**
 TK
 
 ### After
+**TBD NAME section on My VA**
+TK
+
+**VFF confirmation page**
 TK
