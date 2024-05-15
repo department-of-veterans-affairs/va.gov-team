@@ -10,7 +10,7 @@ Veterans have one year from the time they submit an intent to file to complete a
 ### ITF for Pension
 ITF for pension is available to Veterans via non-web means (paper form, phone etc) and this initiative intends to bring ITF to pension web so that Veterans applying online can easily benefit from ITF without having to fill out a separate form.
 
-The 526 disability compensation web form has an implementation of ITF that we are able to learn from as we shape the 527 ITF experience.
+The 526 disability compensation team has done [extensive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md) on ITF that we can learn from as we shape the 527 ITF experience.
 Note: there are functional differences between how pension ITF and compensation ITF behave so one approach cannot directly be applied to the other. Some adjustments would be necessary.
 
 The 526 team found that Veterans are blocked by intent to file messaging when submitting their claim and that they do not have a clear understanding of how intent to file could maximize their benefits. Therefore, in order to unblock users, we can communicate the value of intent to file more clearly and consistently at two key moments for 527: 1) in the early steps of the form and 2) when a Veteran resumes an in-progress claim.
@@ -22,7 +22,7 @@ Today, when pension benefits are granted for an online pension application, bene
 
 This feature can enable Veterans to receive benefits based on when they _started_ their online pension application instead of when they _submitted_ it. They are able to get an earlier effective date via ITF functionality (provided their application is successful).
 
-Although the respondent burden for the paper form is stated as 30 minutes, the pension form can be a time and effort consuming form depending on a Veteran's situation. Some Veterans may wait to gather all their documents before they start applying, and others may start applying and gather what's needed as they progress through the form. While the second group would naturally benefit from ITF, the first group would need to be prompted to start their application earlier to benefit from ITF functionality. 
+Although the respondent burden for the paper form is stated as 30 minutes, the pension form can be a time and effort consuming form depending on a Veteran's situation. As we learned through [research with Veterans](https://docs.google.com/document/d/1s3S_NDMHmlooY2SlLWFDq6vtRW-2Pl5u0kbjpd1dBb8/edit#heading=h.2kxjrayrwyho), ome Veterans may wait to gather all their documents before they start applying, and others may start applying and gather what's needed as they progress through the form. While the second group would naturally benefit from ITF, the first group would need to be prompted to start their application earlier to benefit from ITF functionality. 
 
 To make use of ITF, a Veteran needs to start their application ASAP and eventually get to filling the 527 web form itself, regardless of if they fill it in sooner or later. This is a non-obvious behavior when it comes to filling forms, hence would be important to address this and educate users.
 
@@ -246,6 +246,7 @@ This will replace the submission date currently included in the PDF footer.
 
 ## Discovery Research References
 * [ITF Research Summary by 526EZ team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md)
+* [Intent to file Discovery Research Summary](https://docs.google.com/document/d/1s3S_NDMHmlooY2SlLWFDq6vtRW-2Pl5u0kbjpd1dBb8/edit)
 * A standalone ITF web form is in the works - [Figma](https://www.figma.com/file/EFJLJ7W4yBbujH1yVD122s/WIP---21-0966---Intent-to-file?type=design&node-id=0%3A59&mode=design&t=NhvhdjCE7qtCMbOH-1), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689261093555/6c03d0c5d9d3f5ee875295e6ee444c3420f9ad3b?wid=0-1705943457925&sender=u8c3a54d4503675214e055918)
 
 
