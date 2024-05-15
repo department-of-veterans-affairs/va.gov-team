@@ -19,7 +19,7 @@ Before we start, I want to give you an idea of what this session will be like:
 
 - **This entire session should take about 90 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veterans’ needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a live website today.** However, because it is a testing site, there may be some of the data may not match your expectations. Since it's a testing site, none of your actions will affect your actual VA information or benefits. 
+- **You'll be interacting with a live website today.** However, because it is a testing site, some of the data may not match your expectations. Since it's a testing site, none of your actions will affect your actual VA information or benefits. 
 - **If for any reason and at any time you want to stop the session, please let me know.**
 
 I want to make sure that you're comfortable with a few of my teammates assisting me on this call. 
@@ -54,7 +54,7 @@ If you are ready, we can begin. 
 
 ## **Warm-up Questions - 2 minutes**
 
-I would like you to take a moment to acquaint yourself with this prototype. Please do not refill any medications as we will do that together during the session. As a live site, we also need to make sure there are medications for our next participant to fill. 
+I would like you to take a moment to acquaint yourself with this website. Please do not refill any medications as we will do that together during the session. As a live site, we also need to make sure there are medications for our next participant to fill. 
  
 Let me know when you are ready to get started. 
  
@@ -108,8 +108,6 @@ _\[Landing page\]_
 - Does the participant understand if the refill is successful?
 - Does the participant notice the “May need to renew” section?
 - Do Veterans understand the difference between renew and refill?
-- Does the participant understand that the Atorvastatin is not filled?
-
 
 
 ## **Second Task: RENEW - 5 minutes**
@@ -158,7 +156,7 @@ _\[Landing page – Renew accordion\]_
 
 ### **Things to watch for:**
 
-- Does the participant find Amlodipine on the Refill prescriptions page?
+- Does the participant find Atorvastatin on the Refill prescriptions page?
 - Does the participant notice the ‘Learn to renew’ link?
 - What renewal option would the participant choose?
 
@@ -180,7 +178,7 @@ _\[Landing page\]_
   - What would you do to get more information about that?
 
 
-2. The next medication on the list after Tramadol is Amlodipine Besylate, is expire expired. This one is discontinued. What do you think the difference is between “expired” and “discontinued?” 
+2. There is a medication on the list [if they are on "sort by status" it will be right below it] called Amlodipine Besylate that is expired. Tramadol is discontinued. What do you think the difference is between “expired” and “discontinued?” 
 
 
 3. Before we move on, I would like to ask you about how you found Tramadol.
@@ -235,7 +233,6 @@ _\[Medications list page\]_
 
 _\[Acitretin detail page\]_
 
-
 Please share your thoughts on the information provided on this page.
 
   - What information do you think is most helpful to you?
@@ -243,25 +240,12 @@ Please share your thoughts on the information provided on this page.
   - How did you find that information?
   - Is there anything you need that isn’t here?
 
-
-
-2. Please refill this medication.
-
-
-
-\[do not interrupt participant, collecting ToT\]
-
-
-\[After refill submitted\]
-
-Was your submission successful? How do you know?
-
+- Would you expect to be able to refill the medication from this page?
 
 ### **Things to watch for:**
 
-- Is the participant able to refill from the detail page?
 - Is the participant able to find the reason for use?
-
+- Do they expect to be able to refill from this page?
 
 
 ## **Fifth Task: PRINT/DOWNLOAD - 5 minutes**
@@ -282,6 +266,13 @@ _\[Refill prescriptions page\]_
   - Why did you choose \[format\] over \[format\]?
   - Why would you need to print/download your list rather than view it on the website?
 
+[If time allows and participant is on Desktop]
+
+Would you mind downloading this list and opening it for me?
+
+  - What are your thoughts on this document?
+  - \[if they don’t mention Allergies\] What are your thoughts on allergies being included?
+  - Is there anything you would change here?
 
 2.What if you just wanted to print or download a single medication? How would you do that? You can choose any one.
 
@@ -299,8 +290,7 @@ _\[Refill prescriptions page\]_
 - Is the participant able to print/download a list of medications?
 - Is the participant able to print/download a single medication?
 - What information does the participant expect to see on the printouts/PDFs?
-
-
+- Is the participant able to open and navigate the PDF?
 
 ## **Sixth Task: OTHER TASKS - 5 minutes**
 
