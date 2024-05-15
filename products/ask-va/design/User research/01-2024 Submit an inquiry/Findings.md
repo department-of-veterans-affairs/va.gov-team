@@ -239,6 +239,7 @@ And some Veterans suggested concepts that are similar to other VA services, such
 ## Additional insights
 
 - Some people want to choose multiple contact preferences. Some people want text. Other Veterans don't believe the VA will follow it anyways.
+- Veterans understood that they can provide either their Social Security number or their Service number.
 - Most Veterans find entering their mailing address straightforward. For address verification, Veterans usually choose the suggested address.
 - Most Veterans know what to expect after they submit a question.
 - Some people are unsure what to do with their reference number, after submitting a question.
