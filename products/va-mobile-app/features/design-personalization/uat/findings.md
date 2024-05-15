@@ -8,12 +8,12 @@ May 14, 2024
 - UX/UR, A11y specialist, and ENG lead attended each session.
 - We did not record the sessions.
 
-During the session, participants shared their screen via Zoom, installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and logged in with their VA credentials to the production server. Veterans then participated in a moderated, guided activity covering the following tasks to ensure everything wass working as expected and data was accurate:
-- Task 1: Review Home Screen for accuracy & completeness
+During the session, participants shared their screen via Zoom, installed a pre-release version of the VA mobile app with the personalized home screen on their personal device using Testflight, and logged in with their VA credentials to the production server. Veterans then participated in a moderated, guided activity covering the following tasks to ensure everything was working as expected and data was accurate:
+- **Task 1:** Review Home Screen for accuracy & completeness
    - Count the number of seconds it took for the screen to finish loading
-- Task 2: Navigate to and from the Home Screen using Activity modules
-- Task 3: (if applicable) Click on the Veteran Status Card
-- Task 4: Navigate to the corresponding Category Screen for each visible home screen module, review category screen for accuracy
+- **Task 2:** Navigate to and from the Home Screen using Activity modules
+- **Task 3:** (if applicable) Click on the Veteran Status Card
+- **Task 4:** Navigate to the corresponding Category Screen for each visible home screen module, review category screen for accuracy
 
 After the activity, we helped participants uninstall the pre-release version of the app as well as Testflight.
 
@@ -23,12 +23,12 @@ After the activity, we helped participants uninstall the pre-release version of 
     - Only one participant for one task didn't pass (Veteran Status did not appear when it should have), and it's due to a data issue with disability rating (not the app) - **ENG is adding analytics to track this [#8620](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8620)**
 - Average loadtime
   - Folks who had modules in their Activity section and who had a disability rating waited an average of 2.7 seconds for the whole homescreen to load (1-4 seconds, on a mix of wifi & cellular—but no "one bar" situations)
-  - One participant who had minimum data (did not have a disability rating, was not enrolled in VA healthcare, did not have an open claim, and had no modules in their Activity section) waited for 10-14 seconds for the "About you" section to full load.  **ENG is doing some work related to this [#8584](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8584)**
+  - One participant who had minimum data (did not have a disability rating, was not enrolled in VA healthcare, did not have an open claim, and had no modules in their Activity section) waited for 10-14 seconds for the "About you" section to full load.  **ENG is doing some work related to this that should improve load time [#8584](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8584)**
 - We caught a few little readability/contrast things that are not blockers - **UX/A11y to keep an eye on this during evaluative testing.**
   - 2/4 participants commented that VCL text is hard to read in dark mode; Appears to “vibrate," had trouble reading / focusing 
   - 2/4 participants commented that the blue in the Activity modules is very bright / hard to see (When compared to light mode, light mode was much easier to see, read, and focus on).
 
-### Results
+### Recommendation
 We feel confident moving forward to evaluative testing with Veterans using the build as-is.
 
 ## Appendix
