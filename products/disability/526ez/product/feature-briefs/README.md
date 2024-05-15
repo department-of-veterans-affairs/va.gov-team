@@ -1,4 +1,4 @@
-This folder stores feature briefs for new initiatives. 
+This folder stores feature briefs for new initiatives. These feature briefs should be considered the source of truth for what is expected to be delivered as a result of completing these efforts.
 
 
 Template:
