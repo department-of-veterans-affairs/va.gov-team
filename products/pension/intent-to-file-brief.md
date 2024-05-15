@@ -91,7 +91,7 @@ When a pension application is submitted online, submission date is used as the e
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Agree on v1 scope
 * Retry mechanism limits - what happens if retrying fails? What's communicated at submission to user and VBA? We could start with manual remidiation for V1
-* Decide on if we need to send expiry notificaitons to users / understand if VBA sends any
+* Decide on if we need to send expiry (ITF and/or saved form) notificaitons to users / understand if VBA sends any. Based on stats, these are not a priority as most users are completing the form within 100 days.
 * Based on VSR interview - when there's an ITF, the timeframe respondents refer to need to be re-contextualized for certain financial questions. Else VSRs need to reach back out to Veterans to ask for more information.
 
 **Status (as of 5/15/24)**
