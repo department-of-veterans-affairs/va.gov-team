@@ -86,11 +86,13 @@ The moderator assigned two tasks to participants: ordering CPAP Mask straps and 
 
 > _Supporting data: "You don't always know if it's a medication or prescription. You no have to look in 2 different places instead of going to one place."_
 
-When asked about the similarities and differences between medications and medical supplies, all participants thought by definitions they were mostly different with little similarities. Considering the differences, the participants who picked option 3 as the easiest to use still liked medications and supplies in one place. 
+When asked about the similarities and differences between medications and medical supplies, all participants thought by definitions they were mostly different with little similarities. They mentioned Considering the differences, the participants who picked option 3 as the easiest to use still liked medications and supplies in one place. 
 
 > _Supporting data: "Similarity is they are all doctors' orders."_
 
 > _Supporting data: "Medications are pills. Supplies are something you use."_
+
+> _Supporting data: "Medications are things you take into your body (orally or injection), and supplies are things to put outside of my body."_
 
 > _Supporting data: "I don't find it confusing to see prescriptions (with supplies). The ability to go to one place is just easier for me."_
 
