@@ -224,8 +224,8 @@ Thank you so much again, and enjoy the rest of your day!
 
 
 ## Emergency Exit Strategy
-We will be using the ‘out of questions’ exit strategy if an emergency arises:
-Exit strategy: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+We will be using the ‘out of questions’ exit strategy if an emergency arises:  
+**Exit strategy: **We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
 ## Appendix
 [Conversation guide questions mapped to research goals](https://docs.google.com/document/d/1_m6N0dQHscgyzOskgWBEVUyfHEO8nZdHq1TsaE3kE40/edit?pli=1#heading=h.wqx2tuo99scu)
