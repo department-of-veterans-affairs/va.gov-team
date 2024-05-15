@@ -191,7 +191,6 @@ For phase 1, each subhub will feature links and a short description to the follo
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
-       - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
     - **Manage(H2)**
        - Verify school enrollment: https://www.va.gov/education/verify-school-enrollment/
        - Change your GI Bill school or program: https://www.va.gov/education/change-gi-bill-benefits/
@@ -204,6 +203,7 @@ For phase 1, each subhub will feature links and a short description to the follo
     - **More(H2)**
        - How to choose GI Bill approved schools: https://www.va.gov/education/choosing-a-school
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
+       - Submit GI Bill school feedback: https://www.va.gov/education/submit-school-feedback/
 
 - **Life insurance**
    - **Get - Main (H2)**
