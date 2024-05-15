@@ -1,9 +1,9 @@
 # IA Design for MHV on VA.gov: Medical Records
-**STATUS: Moving to phase 0 in October**
+**STATUS: Moving to Phase 0 part 4** 
 
-Last updated 9/5/23 -- SS finalizing decisions for staging review
+Last updated 5/15/24
 
-**Team:** Health apps - Medical Records
+**Team:** My HealtheVet - Medical Records
 
 **On this page:**
 - [Medical Records launch plan](#launch-plan)
@@ -15,12 +15,12 @@ Last updated 9/5/23 -- SS finalizing decisions for staging review
 - [Archived information](#archived)
 
 ## <a name="launch-plan"></a>Medical Records launch plan<br>
-Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023. The proposed launch order is as follows: 
-1. Allergies (October 2023)
-2. Vaccines (fast follow 2-3 weeks later)
-3. Health Conditions, Vitals
-4. Care summaries & notes
-5. Lab and test results
+Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023-Spring 2024. The proposed launch order is as follows: 
+1. Allergies (October 2023) - DONE
+2. Vaccines (December 2023) - DONE
+3. Care summaries & notes, Vitals (March 2024) - DONE
+4. Health conditions - STAGING REVIEW
+5. Lab and test results - eta Fall 2024
 
 ## <a name="flows"></a>User/page flows <br>
 Most up-to-date user flow can be found on VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1686659937807
