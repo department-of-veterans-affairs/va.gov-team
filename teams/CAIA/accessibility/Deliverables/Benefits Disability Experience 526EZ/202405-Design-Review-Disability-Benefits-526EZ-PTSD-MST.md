@@ -1,9 +1,11 @@
 # [Design Review a11y findings] Review of 21-526EZ PTSD and MST Form Updates
-## Benefits - Dependent Experience Team
-- **Figma Prototype(s):**  [AUTHENTICATED AND UNAUTHENTICATED VIEWS](https://www.figma.com/file/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?type=design&node-id=319-47346&mode=design&t=B1YUTqeRaQ7McZnF-0)
-- **Team Slack Channel:** #benefits-dependents-management
-- **CAIA A11y Ticket:** [#76841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76841)
-- **Date of Audit:** 2/22/2024
+
+## Benefits - Disability Experience Team 2
+- **Figma Prototype(s):** `Pending Notification of Updates` Version will be updated for the design review with annotations.
+- **Team Slack Channel:** #benefits-disability-design
+- **CAIA A11y Ticket:** #83191
+- **Date of Audit:** `TBD`
+- **Timing:** CAIA's Content Team is at full capacity, so the Design Review by CAIA A11Ys can take place prior to the content team providing feedback.
 
 
 ## Product team
