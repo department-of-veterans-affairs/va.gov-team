@@ -8,11 +8,11 @@ External Auth Data Reporting is determining the data we are sharing with VA lead
 
 There are basically two goals of this initial phase of the project:
 
-- Understand what kind of user data VA Leadership wants from the Identity Team.
-- Display and explain the user data in a way that is easy to understand and report upon.
+- Identify the data we want to report to the VA.
+- Display and explain that data in a way that is easy to understand and report upon.
 
 ## Problem Statement: 
-The data produced by request from the Identity Team is often not instantly understandable and can be misinterpreted or misrepresented.  We need to find out what kind of data VA Leadership finds useful, and create a way for them to access that data on a regular basis.
+The data produced by request from the Identity Team is often not instantly understandable and can be misinterpreted or misrepresented.  We want to create reporting on the data that VA will find useful, and create a way for them to access that data on a regular basis.
 
 ## Relevant Documents: 
 - [Current VA.Gov Identity Stats Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1710610618968&to_ts=1713202618968&live=true)
@@ -23,10 +23,12 @@ The data produced by request from the Identity Team is often not instantly under
 
 
 ## What's In Scope (MVP): 
+Here are the things we propose to report upon in the MVP:
+
 1. Monthly/Daily Active Users
    - Satisfaction/trust rating (experience)
-   - What does "good" look like?
-   - What does "bad" look like
+     - What does "good" look like?
+     - What does "bad" look like
 2. User Intervention Required Errors
    - Report on errors where a users sign in error cannot be resolved with a self service solution
      - An example of these types of errors are ones where a user has multiple active corp ids from the MPI response. MPI is the user information source of truth. They give us all the user attributes we need to determine if a user should be able to access something on va.gov. If MPI responds back to us with multiple active corp ids, we cannot allow the user to login to va.gov. The reason for this is that we have forms on va.gov that expect only one corp id to be present. If we allow the user object to contain two values then the form submission may get messed up downstream.
@@ -35,12 +37,14 @@ The data produced by request from the Identity Team is often not instantly under
 4. Credential Preference
    - Which CSP are people using to login per month?
 5. Device Type Preference
-   - mobile vs. desktop
+   - Mobile vs. desktop
 6. Which pages see the most auths
-   - Initiated login from.
+   - Where are people initiating logins from?
 7. Feedback from users on whether they're able to do what they wanted
 
 ## Out of Scope: (for this iteration)
+Other things we might want to measure in the future:
+
 - SAML vs Oauth success metrics
 - Downtime per CSP
 - MAP STS token requests
@@ -54,6 +58,8 @@ The data produced by request from the Identity Team is often not instantly under
   - Demonstrates the team's commitment to inclusive design for veterans with disabilities.
 - Decrease in Password Reset Requests
   - Indicates a more secure and reliable authentication process, reducing user frustration.
+
+In addition
 - Conduct regular security assessments and testing
   - Agencies should regularly assess the risk to websites and provide commensurate security testing of those sites based on that assessment. The assessment should consider the potential impact of a security incident on vital transactions or core services provided to the public, access to timely information, government and vital external operations, and public trust. 
   - Agencies should perform manual penetration testing, where appropriate, based on threat analysis and the criticality of the underlying system.
