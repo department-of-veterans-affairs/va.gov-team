@@ -54,7 +54,7 @@ Internal dependency: endpoint migration prioritization against other priority fe
 Timeline: Exact dates TBD based on priorities.
 
 Recommended approach:
-### Now - May - July 2024
+### Now  (May - July 2024) 
 - Submit Migration (Team 1)
   - Release Plan
   - DataDog Dashboard Setup
@@ -65,7 +65,7 @@ Recommended approach:
 - Resume Benefits Claims Service (turned off April 2024 for Employee Experience team release)
   - Update monitoring in DataDog
 
-### Next July - September 2024
+### Next (July - September 2024) 
 - Rated Disabilities
   - Validate bug fix
   - Staggered release monitoring
@@ -79,7 +79,7 @@ Recommended approach:
 - Document Service (Team 2)
   - Scope TBD
 
-### Later - September 2024+ 
+### Later (September 2024+ )
 - Decommission migrated endpoints
   - Intent to File
   - Benefits Claims Service
