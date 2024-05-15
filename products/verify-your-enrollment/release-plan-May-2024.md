@@ -87,21 +87,17 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
+[FILL_IN]: Our PM and Dev Lead will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.  We will also reach out to Chris MArina at PITC to re-enable WAVE.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: June 11-13
+- Desired number of users: 10-25
+- How you'll recruit the right production test users: invited whitelist from the business
+- How you'll conduct the testing: post-auth, users will click "Verify" and ensure their data is populating from BDN, TIMS.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: test users can utilize the staging environment.
 
 #### Results
 
@@ -121,14 +117,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
+- Desired date range: June 18-21
 - How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
+- Success criteria
+  - KPI1 : reported contact center calls < 2 calls
+  - KPI2 : error rate < 5%
+  - KPI3 : 10+ happy path users
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- Who is monitoring the dashboard(s)?: PM and Engineering team
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
@@ -138,8 +134,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Length of time: 24 hours (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 5% 
 
 #### Results
 
@@ -155,7 +151,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 24 hours (*minimum 2 hours*)
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -172,7 +168,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 48 hours (*minimum 2 hours*)
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -189,7 +185,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 72 hours (*minimum 2 hours*)
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -204,7 +200,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 96 (*minimum 2 hours*)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
