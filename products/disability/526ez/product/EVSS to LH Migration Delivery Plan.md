@@ -23,10 +23,10 @@ Out of Scope:
 Delivery deadline: Original sunset date for EVSS August 2023 - new date TBD
 
 ## Relevant Links
-[Release plans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)
-[Lighthouse Migration Status Page](https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=VA.gov+Consumer+API+Integration+to+Lighthouse+API+Status+Tracking+-+EVSS+Modernization)
-[Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/evss-to-lighthouse-migration)
-[EVSS: Va.gov Consumer Playbook - Lighthouse](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-05-EVSS-Playbooks-Draft/Draft%20EVSS%20Playbook%20Template.md)
+[Release plans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)    
+[Lighthouse Migration Status Page](https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=VA.gov+Consumer+API+Integration+to+Lighthouse+API+Status+Tracking+-+EVSS+Modernization)     
+[Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/evss-to-lighthouse-migration)     
+[EVSS: Va.gov Consumer Playbook - Lighthouse](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2023-05-EVSS-Playbooks-Draft/Draft%20EVSS%20Playbook%20Template.md)     
 
 ## Risks / Impediments
 External dependency: Lightouse endpoint availability in Lighthouse staging & production environments
