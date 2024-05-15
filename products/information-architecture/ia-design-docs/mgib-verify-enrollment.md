@@ -89,7 +89,7 @@ From Ryan in Figma:
   - Placement description: Below "Downloadable PDF"
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/
-  - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. This list of entry points is iterative so let us know if the form isn't related to either VYE tool.
+  - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. Team confirmed that this form applies to Post-9/11 as well.
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
