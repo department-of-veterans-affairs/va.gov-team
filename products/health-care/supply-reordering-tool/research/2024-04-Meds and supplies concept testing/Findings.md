@@ -65,11 +65,11 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
 ## Key Findings
 
 **1. Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to use and liked that medications and medical supplies are all in one place.**
-  - _On the refill and order page of option 3:_ 7 out of the 10 participants communicated that they wanted some type of separation or organization for medications items and medical supplies items. 3 wanted separation, and 4 wanted better organization
+  - _On the refill and order page of option 3:_ Most participants (7 out of the 10) communicated that they wanted to change how medications and medical supplies are organized. 3 participants wanted medications to be separate from medical supplies, and 4 wanted medications and medical supplies to be in one list with the ability to filter or sort. 
   - With previous experience ordering glucose testing strips on MHV Classics, 5 participants still chose option 3.
   - With [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1), most participants (10 out of 15) struggled to find glucose testing strips because they thought glucose testing strips were medical supplies. 
 
-**2. Some (7 out of 15) participants found it confusing to have a list page and an order page.**
+**2. Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much of a difference between them.**
 
 
 ## Details of Findings 
