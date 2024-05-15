@@ -47,7 +47,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Create an outline of review and testing steps to validate the URL redirect | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
+| Collaborate with Platform, CAIA and PW teams to create an outline of review and testing steps to successfully validate the URL redirect | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
 
 ## Root Cause Analysis
 
