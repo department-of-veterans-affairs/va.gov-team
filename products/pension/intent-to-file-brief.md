@@ -62,7 +62,6 @@ When a pension application is submitted online, submission date is used as the e
 * By introducing an ITF step in the pension application flow, Veterans will be educated on the ITF process and what they need to do to by when to benefit from it. 
 * By communicating ITF dates to VBA, enable Veterans to receive an effective date earlier than their online submission date.
 
-
 #### Assumptions:
 * There is a (sizeable?) group of Veterans who want to apply and could start their application sooner, but do not due to a multitude of reasons. We are able to nudge them to start their application ASAP, so they may get to benefit from an earlier effective date.
 * The Veteran must authenticate on VA.gov to use ITF feature.
@@ -71,10 +70,11 @@ When a pension application is submitted online, submission date is used as the e
 * The pension app will not store ITF information and treat the ITF API as the source of truth for ITF.
 
 #### Risks: 
-* If we cannot shift Veteran behavior to start earlier, the benefit of this feature maybe marginal.
+* If we cannot shift Veteran behavior to start earlier, the benefit of this feature maybe marginal (ie: if behavior remains similar to what's shown in stats above). How beneficial is ITF in the grander scheme of problems and opportunities Veterans face in gaining pension benefits?
 * ITF API can be flaky, based on learnings from 526 team. By getting started with a simpler scope, we get to de-risk as we learn to work with a new API in the simplest way.
 * Miscommunication of ITF dates could happen when the API is not accessible in a timely manner (when a Veteran does have an ITF) or when data isn't yet available to the API based on a ITF a Veteran posted offline.
 * By introducing ITF start and expiration date, some Veterans could be overwhelmed by yet another date to process/understand.
+* 
   
 #### Measuring Success:
 * The average lag time between the start and completion of a form increases [via backend] Note: not to be confused with active time using the form - we do not wish to increase that as that would indicate a UX problem.
