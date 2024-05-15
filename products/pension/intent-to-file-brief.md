@@ -83,7 +83,7 @@ When a pension application is submitted online, submission date is used as the e
 **`TO BE ADDRESSED / BLOCKERS:`**
 * Agree on v1 scope
 * Retry mechanism limits - what happens if retrying fails? What's communicated at submission to user and VBA?
-* Decide on if notifications are sent about expiry
+* Decide on if we need to send expiry notificaitons to users / understand if VBA sends any
 * Sanja's proposal to auto-renew - how does that impact this scope?
 
 **Status (as of 5/15/24)**
