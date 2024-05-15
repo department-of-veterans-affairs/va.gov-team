@@ -3,7 +3,7 @@
 ## Overview: 
 Now that we have created our [Service Level Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md) and published our [Service Level Agreements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md), it is time to create procedures surrounding what happens when we don't meet those Agreements.
 
-This m
+This is a part of the book of work that maps to _O1KR2: VA.gov authentication SLOs are developed._
 
 
 ## Problem Statement: 
@@ -25,18 +25,25 @@ For this first iteration, the focus will be on:
 * What is an incident, anyways?
   * Failing to meet SLA
   * Service Outages
-  * Anything that
+  * Any other incident that interrupts service 
 * How do we track the work we are doing to resolve an incident?
 * How do we communicate an incident is happening to stakeholders?
+  * Realtime downtime banners
+* Planned outage banners
 * Documenting steps to resolve various types of incidents
 * Automating as much as we possibly can.
   
 ## Out of Scope: (for this iteration)
-*
+* External Reporting on Incidents
 
 ## Use Cases:
+* As a VA.gov team member, I would like the Identity team to create a process for incident response, so that I may know what to expect when there are service outages.
+* As a Va.gov user, I would like to see banners that tell me there is a current issue with logging into VA.gov, so I understand why I cannot login
+* As a VA.gov user, I would like to see banners that alert me as to when logging into VA.gov will be unavailable, so that I might plan to login during another time.
 
-### From SLA: 
+## Assumptions:
+We build upon what we we put in the SLA:
+
 The OCTO Identity team responds to service outages as follows:
 
 | Severity level | Description | Response time |
@@ -52,9 +59,6 @@ Urgent requests are defined as issues impacting VA.gov users on production serve
 If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email: [component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com](mailto:component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com).
 
 The OCTO Identity team monitors system performance and inbound communications 24x7 via Pager Duty and responds within 30 minutes to any alerts.
-
-## Assumptions:
-* 
 
 ## Solution Approach: 
 ### Possible process using both Datadog and Pager Duty for incident management
@@ -83,7 +87,11 @@ This process reflects the new process if we used both Datadog and Pager Duty:
 | ------------- |:-------------:| 
 |  |               |
 
-
+## Measuring Success:
+| KPI           | Notes         | 
+| ------------- |:-------------:| 
+| MTTA (Mean Time To Acknolwedge |  [MTTA Monthly Review Procedure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Reports/MTTA_Instructions.md)             |
+| Time to Remediate | Will need to figure out how to properly measure this | 
 
 
 ## Milestones:
@@ -92,4 +100,4 @@ This process reflects the new process if we used both Datadog and Pager Duty:
 
 ## Future Scope:
 
-## Joe Notes
+
