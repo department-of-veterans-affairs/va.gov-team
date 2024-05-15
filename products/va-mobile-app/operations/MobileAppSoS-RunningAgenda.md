@@ -17,7 +17,8 @@
 ## 5/15/24
 * **New Meeting Format**
   * Confirm most important info to cover from POs perspective
-  * Review Epic status from [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)?
+  * Confirm meeting start time (3:05 ET, 3:30 ET?)
+  * Review Epic status from [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Process Retro**
   * As we've split into separate teams, what processes are working well at the team level and where are there areas where we need standardization across teams?
   * [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1715720774099/f5818b6c94c7e3ccddb54b63c419de2e2753a69c?sender=matthall4429)
