@@ -9,7 +9,8 @@ This document lists first-impression quick fixes to Form 10-10d discovered durin
 
 1. The dropdown to select a state works fine on the first page where it appears, but it turns into a text input box that only accepts two capitalized letters on subsequent pages.
     * **Recommendation**: Ensure the input to select a state is a drop-down on all pages.
-    * Bug created here: https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/80987
+    * ~~Bug created here: https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/80987~~
+    * Not a bug. Component is behaving the same for sponsor and each applicant.
 2. Different pages are jumping all over after interacting with elements or clicking buttons. 
     * **Recommendation:** The user should consistently land in the same place after interacting with an input (either at the top of the page or with the thing they just changed centered).
     * Needs examples and steps to reproduce
