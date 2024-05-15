@@ -14,7 +14,7 @@ There are basically two goals of this initial phase of the project:
 This is a part of the book of work that maps to _O1KR2: VA.gov authentication SLOs are developed._
 
 ## Problem Statement: 
-The data produced by request from the Identity Team is often not instantly understandable and can be misinterpreted or misrepresented.  We want to create reporting on the data that VA will find useful, and create a way for them to access that data on a regular basis.
+The data produced by request from the Identity Team is often not instantly understandable and can be misinterpreted or misrepresented.  We want to create reporting on the data that VA will find useful and easily understandable, and ensure that there is a way for them to access that data on a regular basis.
 
 ## Relevant Documents: 
 - [Current VA.Gov Identity Stats Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1710610618968&to_ts=1713202618968&live=true)
