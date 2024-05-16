@@ -142,6 +142,7 @@
 - [Developer Guide](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/check-in/README.md)
 - [Error Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/error-types.md)
 - [AWS Key Rotation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/rotating-iam-keys.md)
+- [DevOps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/devops/)
 
 ## Contacts
 
