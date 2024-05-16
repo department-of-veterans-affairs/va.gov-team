@@ -101,6 +101,8 @@ When asked about the similarities and differences between medications and medica
 
 **_On the refill and order page of option 3:_ Most participants (7 out of the 10) communicated that they wanted to change how medications and medical supplies are organized. 3 participants wanted medications to be separate from medical supplies, and 4 wanted medications and medical supplies to be in one list with the ability to filter or sort.**
 
+<img width="276" alt="Screenshot 2024-05-15 at 3 50 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/41d9a9c0-b1b6-4eae-a5b9-4b33124a5eef">
+
 Most participants wanted to see a separation or a better organization between medications and medical supplies on the refill and reorder page. One participant mentioned that it might be hard to find what they need to refill/reorder if the list gets long. 
 
 > _Supporting data: "I think they should be separated on one page. Sorted in alphabetical order, but all on the same page._
@@ -138,8 +140,6 @@ The participants (5 out of 15) who didn't choose option 3 picked option 1. They 
 > _Supporting data: "If I want medications, I go to that section. If I want medical supplies, I go to that section. That's what I like better (about option 1)."_
 
 ### Finding 2: Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much of a difference between them.
-
-<img width="276" alt="Screenshot 2024-05-15 at 3 50 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/41d9a9c0-b1b6-4eae-a5b9-4b33124a5eef">
 
 This finding applied to all 3 options (see the screenshot below for the list page link and order page link on the MHV landing page). Some participants looked at the list link and order link on the MHV home page and were not sure what the differences were. 4 participants clicked on the list link when asked to order, and then they either tracked back to the home page to click on the order link or took a while to click on the order link on the list page. 
 
