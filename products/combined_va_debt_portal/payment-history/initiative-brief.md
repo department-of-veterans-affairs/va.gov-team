@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief Payment History
 #### Overview
 
 Providing Veterans with timely and accurate information on their payment history is a crucial need that is underscored by the feedback Veterans have left on the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/research/medallia_reports">Debt Portal Medallia feedback</a>.
