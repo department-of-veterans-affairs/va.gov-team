@@ -4,7 +4,7 @@
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
-### Communications
+### Communications & Resources
 
 - **GitHub Label**: authenticated-exp; my-va-dashboard; forms-status
 - **Slack channel**: veteran-facing-forms or accountexp-authexp
