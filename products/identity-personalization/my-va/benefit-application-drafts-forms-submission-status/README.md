@@ -53,7 +53,7 @@ There are two (potentially three) major components of work to address these prob
 2. Conveying the current status, which we can obtain by polling the Benefits Intake API post-submission, to the user on My VA. -- _to be handled by Auth Exp My VA team_
 3. TBD - updates to notifications via and in partnership with VA Notify so that updates are triggered to Veterans with these status changes as well.
 
-The MVP will target the following forms:
+**The MVP will target the following forms:**
 |Form ID| Form Title | Definition | What happens post submission?|
 |---|----|----|---|
 |21-4142 & 21-4142 (These are combined together)| Request Private Medical Facilities | Use this form if you want to give VA permission to request your medical records and information from non-VA sources to support your benefit claim.|  |
