@@ -72,6 +72,7 @@ The MVP will target the following forms:
 - Updated copy for submitted/pending confirmation notification; stretch goal to include new notification for error (dependpent on VA Notify scheduling)
 
 **Out of Scope**
+- Changes to Central Mail
 - Conditional formatting of confirmation page with specific content for forms not tracked in the MVP forms submission status
 - Changes to the Claims and Appeals section on My VA
 - Download functionality (TBD, depends on technical feasibility)
