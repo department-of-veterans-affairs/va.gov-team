@@ -74,13 +74,13 @@ There are two use cases that we are considering for this release. For each, we p
 
 [DBEX Toxic Exposure Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Delivery%20Plan.md) for reference
 
-| Phase | Milestone | Target Dates | Notes |
-|---|---|---|---|
-|1 |Gulf War exposures|May 21, 2024|On Track|
+| Phase | Milestone | Target Dates | Resolution Dates | Notes |
+|---|---|---|---|---|
+|1 |Gulf War exposures|May 21, 2024|   | On Track|
 |2 |Herbicide & Hazards|June 04 2024|
 |3 |Launch Preparation|June 18 2024|
-|4 |Migrate /getPDF functionality to LH|   |Pending fixes from LH|
-|5 |Migrate submit functionality to LH|early June 2024|Pending LH implementation (est. staging early June)|
+|4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH|
+|5 |Migrate submit functionality to LH|early June 2024|   |Pending LH implementation (est. staging early June)|
 |6 |New TE Applications|June 27 - 27 2024|
 |7 |Veterans with an IPF|TBD||
 
