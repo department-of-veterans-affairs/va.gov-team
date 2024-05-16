@@ -2,6 +2,8 @@
 
 ## V2 decisions
 
+[V2 content GH ticket 8420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8420)
+<br>[Section in Figma with V2 designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=1243-4986&t=iL0XLO00lmAHNMHR-4)
 
 | Screen name            | Before            | After (or net new)         | Explanation        | Decision made by | Date                 |
 | :-------------      | :-------------      | :-------------              |:-------------         |:-------------         |:-------------|
@@ -11,8 +13,8 @@ The following screens have no changes from V1 decisions: Face ID, Notification s
 
 ## V1 decisions
 In February/March 2024, we began our initial thinking around the end-to-end experience for Veterans when (1) they're first asked to turn on notifications and (2) there are subsequent encounters with push notification capabilities. These decisions were based on an opt-in flow that only accounts for the current push notifications we had at the time (appointments and messages). 
-<br>[Content GH ticket 8037](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8037)
-<br>[Section in Figma with designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=993-8290&t=iL0XLO00lmAHNMHR-4)
+<br>[V1 content GH ticket 8037](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8037)
+<br>[Section in Figma with V2 designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=993-8290&t=iL0XLO00lmAHNMHR-4)
 
 | Screen name            | Before            | After (or net new)         | Explanation        | Decision made by | Date                 |
 | :-------------      | :-------------      | :-------------              |:-------------         |:-------------         |:-------------|
