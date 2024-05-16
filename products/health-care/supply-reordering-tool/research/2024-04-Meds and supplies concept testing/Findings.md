@@ -87,7 +87,7 @@ The moderator assigned two tasks to participants: ordering CPAP Mask straps and 
 
 > _Supporting data: "You don't always know if it's a medication or prescription. You no have to look in 2 different places instead of going to one place."_
 
-When asked about the similarities and differences between medications and medical supplies, all participants thought they were mostly different by definitions with little similarities. They mentioned that medications are for internal use and supplies are for external. Considering the differences, the participants who picked option 3 as the easiest to use still liked medications and supplies in one place. 
+When asked about the similarities and differences between medications and medical supplies, all participants said they were mostly different by definitions with little similarities. They mentioned that medications are for internal use and supplies are for external. The moderator asked this question in between prototypes or at the end of all prototypes. Considering the differences these participants mentioned, they still preferred to see medications and supplies in one place because it's easier and has fewer clicks. 
 
 > _Supporting data: "Similarity is they are all doctors' orders."_
 
@@ -99,7 +99,7 @@ When asked about the similarities and differences between medications and medica
 
 > _Supporting data: "It doesn't matter that medications and supplies are different. It's just nice to have them on the same page."_
 
-**_On the refill and order page of option 3:_ Most participants (7 out of the 10) communicated that they wanted to change how medications and medical supplies are organized. 3 participants wanted medications to be separate from medical supplies, and 4 wanted medications and medical supplies to be in one list with the ability to filter or sort.**
+**_On the refill and order page of option 3:_ Most participants (7 out of the 10) communicated that they wanted to change how medications and medical supplies are organized. 4 participants wanted medications and medical supplies to be in one list with the ability to filter or sort, and 3 wanted medications to be separate from medical supplies.**
 
 <img width="276" alt="Screenshot 2024-05-15 at 3 50 56 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/41d9a9c0-b1b6-4eae-a5b9-4b33124a5eef">
 
