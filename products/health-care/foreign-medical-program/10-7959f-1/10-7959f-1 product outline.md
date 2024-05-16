@@ -127,6 +127,7 @@ Key deliverables:
   - [service map (WIP)](https://www.figma.com/file/is5cbY5lM3HjTT0GcXhDT7/CHAMPVA-Service-Map-(WIP)?type=whiteboard&node-id=0-1&t=2h13odIsLW9EPMql-0)
 - research: [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
 - testing: plan
+- [IA doc](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705521134491/52690602ad9bb3ef8f9cbc82d48bd9698e63e83f?sender=u5b5b283ad7d33e12ab259320) (need to coordinate rollout/update with CAIA)
 
 ### General Questions
 - For stakeholders: What is the current process/flow? Pain points? Which teams are involved?
