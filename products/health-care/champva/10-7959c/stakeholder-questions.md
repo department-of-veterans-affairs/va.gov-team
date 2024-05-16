@@ -14,4 +14,5 @@
 |9|New|Health Insurance|For the other Health insurance screens are you looking for Primary and Secondary insurance only? Can they submit supplemental insurance info?<br/>Is there a limit to how many other insurances they can add? |yes|yes||
 |10|New|Health Insurance|Is there a limit to how many other insurances they can add? |yes|yes||
 |11|New|Health Insurance|What information are you intending to collect with the comments field on the other health insurance questions.<br/>Is there is specific information they'd like to collect? |yes|yes||
+|12|New|File Upload|If a person chosses to mail or fial there supporting docs in what is the best address and Fax number to do so. |yes|yes||
 
