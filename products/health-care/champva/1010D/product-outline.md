@@ -100,9 +100,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
 ### Current Status
 - Research and discovery work 
-- Workflow creation in Figma
-- Preparing to set up user interviews
-- ‘Skeleton’ built out for initial dev testing
+- user interviews complete - analysis in progress
 
 ### Questions
 
@@ -128,8 +126,8 @@ Veterans and family members of Veterans must currently download and fill out the
 
  
 - DEPO Lead: Premal Shah
- - PM: Mary Wang, Bo Altes
- - Engineering: Don Shin, Michael Clement, Rachel Eiting
+ - PM: Bo Altes, Mary Wang
+ - Engineering: Don Shin, Michael Clement, Rachel Eiting, Bryan Alexander
  - Research/Design: Rachael Penfil, Steven Straily, Brian Wilke, Jamie Fiore, Syd Hoeper
  
  
