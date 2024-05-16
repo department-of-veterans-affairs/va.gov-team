@@ -4,15 +4,16 @@
 ---
 
 ## Overview
-Veterans are required to update their dependents every 8 years through a paper 21-686c form that is mailed to them with a letter explaining the requirement. Veterans can also view, add, and remove their dependents on VA.gov by utilizing an online version of the 686c form. Veterans can also fill out an online 21-674 form to Request Approval of School Attendance when claiming benefits for a child who is at least 18 years old, but under 23, and attending school. The 686c and 674 online forms appear as one integrated experience, but VA.gov generates two seperate pdf forms when the online data is submitted.
+Veterans are required to update their dependents every 8 years through a paper "Mandatory Verification of Dependents" 21-0538 form that is mailed to them with a letter explaining the requirement. Veterans can also view their dependents on VA.gov and add or remove them by utilizing an online version of the 21-686c form. Veterans can also fill out an online 21-674 form to Request Approval of School Attendance when claiming benefits for a child who is at least 18 years old, but under 23, and attending school. The 686c and 674 online forms appear as one integrated experience, but VA.gov generates two seperate pdf forms when the online data is submitted.
 
+- [21-0538 Paper Form](https://www.va.gov/find-forms/about-form-21-0538/)
 - [21-686c Online Form](https://www.va.gov/find-forms/about-form-21-686c/): Application Request to Add and/or Remove Dependents
 - [21-686c pdf](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
 - [21-674 Online Form](https://www.va.gov/find-forms/about-form-21-674/): Request for Approval of School Attendance
 - [21-674 pdf](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
 
 ## Problem Statement
-Currently, updating dependency information outside of the 8-year requirement is voluntary, and the burden to remember to make dependency updates falls on the Veteran. This results in a very low quality feedback loop of what dependents are intended to be on award, which has contributed to $250 million in annual benefit overpayments.
+Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. Updating dependency information outside of the 8-year requirement is voluntary, and the burden to remember to make dependency updates falls on the Veteran. Vertifying dependents through a paper form is also burdensome for many Veterans. These problems results in a very low-quality feedback loop for maintaining an accurate list of of what dependents are intended to be on award.
 
 ## Desired User Outcomes
 
@@ -22,7 +23,7 @@ Currently, updating dependency information outside of the 8-year requirement is 
 - Veterans receive the benefits they are entitled to.
 
 ## Undesired User Outcomes
-- Veterans ignore communications (email and letter) prompting them to update their dependency email and they are under or over paid benefits.
+- Veterans ignore communications (email and letter) prompting them to update their dependency email and they are under- or over-paid benefits.
 - Veterans find the process of updating their dependency information on VA.gov confusing or too time-consuming.
 
 ## Desired Business Outcomes
@@ -47,7 +48,7 @@ Currently, updating dependency information outside of the 8-year requirement is 
 |-----------------------------|------------|--------------|--------------|
 | Annual Overpayment Amount   |            |              |              |
 | Online Form CSAT Score      |            |              |              |
-| # of online form submissions|            |              |              |
+| # of online 0538 submissions|            |              |              |
 
 
 ### Objectives and Key results (OKRs)
@@ -84,5 +85,5 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Team Members
  - DEPO Lead: Emily Theis
  - PM: Laura Steele
- - Engineering: Thomas Blackwell (lead), Evan Smith, Tyler Fink, Zack Youngren 
+ - Engineering: Thomas Blackwell (lead), Evan Smith, Tyler Fink
  - Research/Design: Ajia Wallace, Julie Pedtke
