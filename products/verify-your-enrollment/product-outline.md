@@ -18,15 +18,16 @@
  
 ## Desired User Outcomes
 > *Describe the desired user outcomes:*
-* *Why would a user want to use this?* A Veteran would want to use this because the streamlined application allows them quicker and easier access to their Chapter 33 education benefits. It will also be located in a centralized location that has supporting functionality within VA.gov.
-* *With this problem solved, what should users be able to do/achieve that they couldn't before?* In VYE, users should be able to confirm their enrollment information without having to wade through unnecessary pages, like the one that asks for change of address or change of login information, that already live on other parts of VA.gov. This will allow users a streamlined experience that excludes unnecessary questions. 
+* *Why would a user want to use this?* A Veteran would want to use this because the streamlined application allows them quicker and easier access to their Chapter 30/1606/1607 education benefits. It will also be located in a centralized location that has supporting functionality within VA.gov. Aside from calling a live agent or through IVR, once it works, VYE is the only way Veterans are able to verify their school enrollment and access their MGIB education benefits. 
+* *With this problem solved, what should users be able to do/achieve that they couldn't before?* VYE is simpler and more accessible web-application than WAVE, allowing claimants to quicker and easier access to verify their school enrollment and recieve their benefits. 
 
 ## Undesired User Outcomes
 > *Describe the undesired user outcomes:* 
-* Lack of accessability for disabled Veterans/non-508 compliant
-* Lack of access to data analytics information for the EDU Team
-* Inability to confirm enrollment
-* Incorrect enrollment/benefit information
+* Lack of accessability for disabled Veterans/non-508 compliant. Update: This problem has been solved by working with CAIA, using VA approved design components, and ensuring our design and frontend code meets 508 requirments. 
+* Lack of access to data analytics information for the EDU Team. Update: The EDU will have access to data analytics via Google Analytics, which will provide them with more information than they had before. 
+* Inability to confirm enrollment. Update: VYE connects to the same databases as WAVE (TIMS/BDN/NEWMAN), so all enrollment information will be available as it was prior to the move to VA.gov.
+* Incorrect enrollment/benefit information. Update: VYE connects to the same databases as WAVE (TIMS/BDN/NEWMAN), so all enrollment information will be available as it was prior to the move to VA.gov.
+* One issue the VYE Team ran into with information architecture is the existence of the _Manage your benefits_ page on VYE. They thought having a benefits page within VYE (in addition to VA Profile on VA.gov) may be confusing for users. Since Chapter 30/1606/1607 recipients already use this funciton on WAVE and the issue was brought up close to our launch date, VYE and Platform agreed to take on the issue after production. 
 
 ## Desired Business Outcomes
 > *Describe the desired business outcomes:*
@@ -36,6 +37,7 @@
 * Feedback from Veterans considered/used in final product
 * Increased automation/less manual labor to verify enrollment
 * More information provided to Veterans so they can make informed decisions regarding their enrollment
+* Accessibility and 508 Compliance requirements met 
 
 - *Why would your business want this to exist?* Each of these aspects are essential to a successful and efficient end-product.
 
@@ -82,35 +84,34 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - Moving locations may impact Veterans' ability to find the application.
+  - Moving locations may impact Veterans' ability to find the application. Update: Everything mentioning WAVE on VA.gov is being changed to "Verify your enrollment" with a link leading to the VYE landing page. 
 - **Usability Risks** (can people figure out how to use it):
-  - Veterans may have difficulty finalizing their enrollment because the application will look and operate differently. 
+  - Veterans may have difficulty finalizing their enrollment because the application will look and operate differently. Update: Design and flow through the application has been optimized through VA design components and through collaboration with EDU, OIT, and CAIA. 
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - VYE Team will want to leverage technology and data available through VA.gov.
-  - VYE Team will need to connect to BDN, TIMS, and NEWMAN.
+  - VYE Team will want to leverage technology and data available through VA.gov. Update: VYE is using Google Analytics, DataDog, Domo, etc. through VA.gov to measure data analytics. 
+  - VYE Team will need to connect to BDN, TIMS, and NEWMAN. Update: VYE is using a SFTP server to connect to BDN, TIMS, NEWMAN to access all necessary claimant data. 
   - VYE Team will need to tie API call and route updates into NEWMAN for the chapters relevant to this project. This will require the VYE Team to coorinate with BDN to write the logic.
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - tbd
+  - VYE is fully accessible according to accessibility standards, it lives on the VA.gov network so it will be easier to navigate to, is no longer a security risk. The primary constraint in pushing VYE into production is that WAVE and VYE cannot be in operation at the same time because of how the databases operate. WAVE will need to be completely shut down 24 hours before VYE is able to go into production. This means some claimants who want to access their Chapter 30/1606/1607 benefits will not be able to until we are able to fully launch VYE on VA.gov
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
 ## Solution Approach
 * By having VYE findable on VA.gov in a modern environment we can manage VYE with VA.gov support for a better user experience.
 
-- *What are you going to build now, and why have you decided to start there?* The VYE Team is building Verify Your Enrollment on VA.gov. We are starting here because the EDU asked it of us. The WAVE application needs to be updated and have its information in a centralized location. 
-- *Why this solution / approach over other solutions / approaches?* This approach is best because it protects the PII of Veterans and creates easier access for Veterans to verify their enrollment by streamlining the process. 
-- *What have you explicitly decided to not include in this initial set of functionality, and why?* The VYE Team decided not the include the administrative portion of WAVE because most of it is not functional or provides unnecessary/impertinent information to the business.
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?* This approach will allow WAVE, now VYE, to be easily accessible and editable by the VA for future changes to the application. 
+- *What are you going to build now, and why have you decided to start there?* The VYE Team is building Verify Your Enrollment on VA.gov. We are starting here because the EDU asked it of us. The WAVE application needs to be updated and have its information in a centralized, secure location. 
+- *Why this solution / approach over other solutions / approaches?* This approach is best because it protects the PII of claimantas and creates easier access for claimants to verify their enrollment by streamlining the process. 
+- *What have you explicitly decided to not include in this initial set of functionality, and why?* The VYE Team decided not the include the administrative portion of WAVE because most of it is not functional or provides unnecessary/impertinent information to the business. This functinality will be available through the use of tools such as Google Analytics; therefore, it is not necessary. Additionally, deleting the administrative portion of WAVE makes navigating VYE more efficient. 
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?* This approach will allow WAVE, now VYE, to be easily accessible and editable by the VA for future changes to the application. After VYE launches on VA.gov the team will undergo merging _Mange your benefits_ (that houses direct deposit and address information) on the VYE applicaiton with VA Profile to eliminate the need for claimants to input their direct deposit and address information in multiple places. 
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-* tbd
 
-- Initiative | [Link to Initiative Brief](#)
+- VYE will not undertake new initiatives until after it launches on VA.gov.
 
 --- 
 
