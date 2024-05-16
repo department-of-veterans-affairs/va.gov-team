@@ -1,6 +1,7 @@
 ### Feature toggle updates
 | Percentage | Date       |
 | ---------: | ---------: |
+|        10% | 05/16/2024 |
 |         0% | 05/06/2024 |
 |        10% | 04/05/2024 |
 |         0% | 03/28/2024 |
@@ -10,8 +11,11 @@
 |         1% | 02/28/2024 |
 
 ## Updates
+#### 05/16/2024
+Lighthouse deployed the fix to update their service to not return ratings with no begin date. They also added a field to indicate whether a rating was static or not
+
 #### 04/05/2024
-Found an issue where Lighthouse sometimes returns ratings that don't have effective dates (beginDt). EVSS filters those ratings out and Lighthouse is will update their service to remove them as well
+Found an issue where Lighthouse sometimes returns ratings that don't have effective dates (beginDt). The BGS service EVSS uses filters those ratings out and Lighthouse will update their service to remove them as well
 
 #### 04/05/2024
 The latest revision of the discrepancy logging was deployed on 04/03/2024. Turned the feature toggle back on to 10% and am going to let it run over the weekend and see if it produces any results.
