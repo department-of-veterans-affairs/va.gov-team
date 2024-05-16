@@ -100,7 +100,8 @@ Collaboration Cycle
 - [x] Research 
 - [ ] Contact Center guide
 - [x] Analytics: [implementation request](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/77616)
-- [ ] Staging 
+- [ ] Staging
+- [ ] Release plan
 - [ ] Infrastructure, Privacy & Security
  
 ## Launch Dates
