@@ -280,7 +280,7 @@ Was your submission successful? How do you know?
 
 
 
-## **Fifth Task: PRINT - 5 minutes**
+## **Fifth Task: PRINT/DOWNLOAD - 5 minutes**
 
 
 _\[Refill prescriptions page\]_
