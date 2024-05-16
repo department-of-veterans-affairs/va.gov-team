@@ -4,9 +4,8 @@
 
 ### Review 
 
-#### After Visit Summary 
-
-### Display Clinic Location on the Appointment Details page 
-
-#### Appointment Details and Cancelation UI Redesign 
-
+- Display Clinic Location on the Appointment Details page 
+- After Visit Summary
+- VA and Community Care Request Flow Content Changes 
+- Appointment Details and Cancelation UI Redesign
+- 1Q2024 Medallia Feedback
