@@ -1,4 +1,4 @@
-### Last updated: 4/11/2024
+### Last updated: 5/16/2024
 ----
 # Table of Contents
 
@@ -326,11 +326,11 @@ Scope of this includes:
 ---
 
 ## Outcome Driven Roadmap
-### Last Updated: 1/2024
+### Last Updated: 5/16/2024
 
-**Note: The Q3 2024 roadmap is being prioritized in mid-April. Check back soon for an update.**
+**Note: ⚠️ This is a WIP Draft. Please reach out to the product manager via Slack in #benefits-decision-reviews.**
 
-![DR High Level Roadmap 1:2024](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90406121/1f6e9773-e790-442b-abf4-ae23ec4b1eea)
+- [Decision Reviews Quarterly Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714756346541/688a698f0df77ca7303ef9c45e24006faaa05a62?sender=ud80be02ce240061eb0f35352)
 
 ## Planning Boards
 - [Sprint Planning and Prioritization Board](https://github.com/orgs/department-of-veterans-affairs/projects/1026/views/1?filterQuery=)
@@ -341,12 +341,12 @@ Scope of this includes:
 - [Supplemental Claims](https://app.mural.co/t/departmentofveteransaffairs9999/m/adhoccorporateworkspace2583/1654096034291/25f4086b638b48828941c4d6aa330f1df1c9527a?sender=66cfcd80-684f-490f-a034-1540c801ca34)
 - [Higher-Level Review](https://app.mural.co/t/departmentofveteransaffairs9999/m/lighthouseapiplatform7991/1631736307705/31e23e9b9754a0ffceecdc2f037dc86976553b08?sender=u0d70ac6e87daa7c066838517)
 
-# Access and Testing
+# User Logins
 ### Test User Dashboard (TUD) requires SOCKS access
 
 - [TUD User Logins](https://tud.vfs.va.gov/?page=1)
 
-### Test Rail access is provided by the VFS Platform team
+# Test Rail
 - [Test Rail](https://dsvavsp.testrail.io/index.php?/suites/view/6&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
 
 # Defect Triage Process
