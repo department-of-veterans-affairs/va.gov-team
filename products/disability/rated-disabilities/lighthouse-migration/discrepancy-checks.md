@@ -1,6 +1,7 @@
 ### Feature toggle updates
 | Percentage | Date       |
 | ---------: | ---------: |
+|         0% | 05/16/2024 |
 |        10% | 05/16/2024 |
 |         0% | 05/06/2024 |
 |        10% | 04/05/2024 |
@@ -11,6 +12,9 @@
 |         1% | 02/28/2024 |
 
 ## Updates
+#### 05/16/2024
+Found an issue where 'Not Service Connected' ratings were no longer being returned by Lighthouse. This is most likely because they didn't account for the fact that 'Not Service Connected' ratings will not have a begin date.
+
 #### 05/16/2024
 Lighthouse deployed the fix to update their service to not return ratings with no begin date. They also added a field to indicate whether a rating was static or not
 
