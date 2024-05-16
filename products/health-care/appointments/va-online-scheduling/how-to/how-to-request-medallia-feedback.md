@@ -73,7 +73,7 @@ All in one file, on one tab
 | Week 16 Apr 14-Apr 20 | Melissa Lefevre | [81233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81233) |  Done  |
 | Week 17 Apr 21-Apr 27 | Leah De La Costa  | [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424) |In progress  |
 | Week 18 Apr 28-May 04 | Leah De La Costa | [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424) |In progress  |
-| Week 19 May 05-May 11 | Leah De La Costa | []() |  |
+| Week 19 May 05-May 11 | Leah De La Costa | [83233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83233) |In progress |
 | Week 20 May 12-May 18 | Peter Russo | []() |  |
 | Week 21 May 19-May 25 | Peter Russo | []() |  |
 | Week 22 May 26-Jun 01 | Peter Russo | []() |  |
