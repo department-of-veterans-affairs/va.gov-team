@@ -28,7 +28,7 @@ For an application to enter rollout Phase 0, the following must be true:
      
 - [x] Review established definition of done for MVP 
 
-- [ ] Go-no-go meeting(s) scheduled 
+- [x] Go-no-go meeting(s) scheduled 
      - [ ] After readiness & staging review 
      - [ ] Accessibility is included  
 
@@ -39,9 +39,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Communication  
 
-- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+- [x] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
-- [ ] Email to trusted users is shared with contact center teams and coordinators  
+- [x] Email to trusted users is shared with contact center teams and coordinators  
 
 - [ ] MHV SharePoint page announcing this shift is updated with information about phase 0 
 
