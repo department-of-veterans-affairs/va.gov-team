@@ -240,6 +240,7 @@ This will replace the submission date currently included in the PDF footer.
 *  [ITF designs (Figma)](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/Pension-Claim-Form-21P-527EZ?node-id=2181-5007&t=wqDUeTnxf70vQEqj-0)
 *  [Q&A, Learnings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/pension/intent-to-file-brief.md#qa-learnings) from calls (below)
 *  [Pension ITF Workshops notes](https://docs.google.com/document/d/1bgpEWIFdYOwPci2dhenVVjvuF8IJTy0nqfRbWy6PrRU/edit) - points have been extracted from this doc to this page and Q&A
+*  [Pension usability study 2.0 planning](https://docs.google.com/document/d/12OAWzkrPtDQV6JMYslbDWFC7PQJw8GP1Mg4CWz-Y0D8/edit)
 
 ## Policy Documents
 *  [ITF VBA Manual](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000174873/M21-1-Part-II-Subpart-iii-Chapter-2-Section-A-Intent-to-File-ITF%3FarticleViewContext=article_view_related_article#4)
