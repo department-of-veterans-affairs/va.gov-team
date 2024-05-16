@@ -24,11 +24,11 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Go/No-Go Team 
 
-- [ ] Go-no-go team established 
+- [X] Go-no-go team established 
      
-- [ ] Review established definition of done for MVP 
+- [X] Review established definition of done for MVP 
 
-- [ ] Go-no-go meeting(s) scheduled 
+- [X] Go-no-go meeting(s) scheduled 
      - [ ] After readiness & staging review 
      - [ ] Accessibility is included  
 
@@ -39,7 +39,7 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Communication  
 
-- [ ] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
+- [X] “Try this feature” email to “trusted users” is written, approved by leadership, and set up in Gov delivery 
 
 - [ ] Email to trusted users is shared with contact center teams and coordinators  
 
