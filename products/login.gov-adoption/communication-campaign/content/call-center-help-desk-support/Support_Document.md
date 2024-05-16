@@ -2,6 +2,8 @@ Last updated on January 17, 2023
 
 Blocked due to communication campaign
 
+Illustrations by Sofia Kirkman (sofia.kirkman@va.gov | sofia@themostudio.com)
+
 ![Cover Page](https://lh7-us.googleusercontent.com/OjFFVTNykJ2H_7DX455wxQe3xvMDAErpRy56JlrcKEVsd090BfcE0h3cFinThM15GxcSNVyLgr18pc2krTGGNIzK93-vaIEg6_NvsLIEb_lAPgM4UyWyGFWQ5afpxb4-zQQnWsP9Y5XTxUHsAOKGOg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
