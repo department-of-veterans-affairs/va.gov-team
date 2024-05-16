@@ -1,4 +1,4 @@
-# Project outline: Benefit Application Drafts & Forms Submission Status MVP
+# Project outline: Benefit Applications & Forms & Forms Submission Status MVP
 
 **Last updated: May 15, 2024 - updates to Solution approach, Outcomes, Measuring Success, Key Deliverables, Key Dates, & screenshots**
 
