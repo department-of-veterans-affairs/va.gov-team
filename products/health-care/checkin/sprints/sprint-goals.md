@@ -125,6 +125,8 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Review/provide existing authorization to use Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82615)
         - ✔️ 🟨 [[DevOps] Nate needs admin access to his GFE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82632)
         - ✔️ 🟨 [[DevOps] Add SSM Parameters for DevOps Slack Channel webhooks.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83260)
+        - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend S3 bucket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83312)
+        - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend DynamoDB table.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83314)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
