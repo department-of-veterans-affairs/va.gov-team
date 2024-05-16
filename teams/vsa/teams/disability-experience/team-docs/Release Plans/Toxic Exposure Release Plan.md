@@ -79,6 +79,9 @@ There are two use cases that we are considering for this release. For each, we p
 |3 |Launch Preparation|June 18 2024|
 |4 |New TE Applications|June 27 - 27 2024|
 |5 |Veterans with an IPF|TBD||
+- Note to add link to in-progress submit release plan to discuss mechanics of this rollout
+- Add high level summary and details of submit release
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md
 
 # Release Process
 
@@ -108,6 +111,8 @@ Login to your va.gov account in prod
 |4 | New TE Applications |On | No | 2022 |
 |5 | Veterans with an IPF |On | Yes | 2022 |
 
+
+- Make a note to maybe remove this section
 ## Timeline
  
 1. Canary launch for LH Submit endpoint
