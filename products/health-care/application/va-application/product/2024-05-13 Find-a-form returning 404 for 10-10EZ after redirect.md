@@ -47,7 +47,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Collaborate with Platform, CAIA and PW teams to update guidance on successfully implementing and validating the URL redirect | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
+| Update the [README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md) for Redirects in DevOps folder | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
 
 ## Root Cause Analysis
 
@@ -74,8 +74,8 @@ On 5/14/2024, We got a couple of almost simultaneous reports that the healthcare
 
 ### What will we change to ensure this doesn't happen again?
 
-The 10-10 team will collaborate with the Platform, CAIA and Public Websites team to improve the current guidance on implementing URL redirects, code reviews and comprehensive testing.  We can create/improve on the process of implementing the redirect, as well as testing and code review steps that must be completed in all environments when a URL is being changed and a redirect is implemented.  
-
+The 10-10 team collaborated with the Public Websites team to update the current guidance ([DevOps README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md)) on implementing URL redirects.  This update includes adding a reference on how to handle child pages, how to handle URLs with & without trailing slash, and retaining the original page to be hit then redirect (advisement: don't delete it!) 
+Another potential addition is guidance for the Redirect PR to indicate whether child pages are included in the redirect, so that the code can be properly reviewed and subsequently tested.
 
 ## Resolution
 
