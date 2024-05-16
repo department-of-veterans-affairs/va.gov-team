@@ -92,11 +92,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - research and discovery kicked off, wifreframes in progress.
   
 Key deliverables:
-- design:
+- [design](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/10-7959f-2?t=JFuJ5HNLfI80Cfef-0)
 - research:
 - testing plan:
   
 ### Key Decisions
+- 1 payer per form
 
 ---
    
