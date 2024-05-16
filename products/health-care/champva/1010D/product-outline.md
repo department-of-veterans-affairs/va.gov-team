@@ -101,6 +101,7 @@ Veterans and family members of Veterans must currently download and fill out the
 ### Current Status
 - Research and discovery work 
 - user interviews complete - analysis in progress
+- [IA doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/champva-online-form.md)
 
 ### Questions
 
