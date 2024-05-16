@@ -55,7 +55,9 @@ For an application to enter rollout Phase 0, the following must be true:
 
       - [ ] MHV Coordinators  
 
-      - [ ] Facility POCs 
+      - [ ] Facility POCs
+
+        - _Updated product guide link (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/product/MR%20on%20VA.gov_Product%20Guide_update_050624.docx)_
 
 - [X] Demo of new tool for audiences who will be affected by Phase 0 completed  
 
