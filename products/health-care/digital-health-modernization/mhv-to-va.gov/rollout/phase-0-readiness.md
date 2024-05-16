@@ -24,11 +24,11 @@ For an application to enter rollout Phase 0, the following must be true:
 
 ### Go/No-Go Team 
 
-- [X] Go-no-go team established 
+- [] Go-no-go team established 
      
-- [X] Review established definition of done for MVP 
+- [] Review established definition of done for MVP 
 
-- [X] Go-no-go meeting(s) scheduled 
+- [] Go-no-go meeting(s) scheduled 
      - [ ] After readiness & staging review 
      - [ ] Accessibility is included  
 
