@@ -49,7 +49,8 @@ Examples of mid-flow **and** end of flow file upload:
 ### Question 2: One-file-per-page upload screens vs. multi-file upload screens?
 
 ### Question 3: How can we present optional vs. required document uploads?
-
+- Use "optional" and "required"?
+- Use "It's your choice whether you want to [answer or upload]"?
 
 ### Other open questions:
 - When to use "file" vs "document" vs "evidence" vs "records." Consider adding guidance to style guide describing each scenario. For example, "Records and documents turn into evidence when they're attached to a claim"
