@@ -28,7 +28,7 @@ One of the subhubs will actually just be the home loans page, which we need to m
 
 We will also include the pages for Program of Comprehensive Assistance for Family Caregivers (PCAFG) and CHAMPVA in the family member hub structure for phase 1. We may be able to include the surviving spouse home loan program pages pending stakeholder agreement. 
 
-![page structure](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/6b987ae4-46e5-43a1-b594-708ff6e995b5)
+![Screenshot 2024-05-16 at 1 11 03 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/295386ae-5e38-4a50-960d-cbbd0a36bdd1)
 
 ## <a name="url"></a>URLs and breadcrumbs
 ![sitemap with URLs](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b53551b9-706d-4155-b2b5-de1697b16776)
