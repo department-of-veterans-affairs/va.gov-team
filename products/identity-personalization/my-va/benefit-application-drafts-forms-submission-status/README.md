@@ -55,7 +55,7 @@ There are two (potentially three) major components of work to address these prob
 
 The MVP will target the following forms:
 |Form ID| Form Title | Definition | What happens post submission?|
-|---|----|----|---|---|
+|---|----|----|---|
 |21-4142 & 21-4142 (These are combined together)| Request Private Medical Facilities | Use this form if you want to give VA permission to request your medical records and information from non-VA sources to support your benefit claim.|  |
 |21-0966 | Intent to file | Use this form if you plan to file a disability or pension claim. If you notify VA of your intent to file and they approve your claim, you may be able to get retroactive payments. Retroactive payments are payments for the time between when VA processed your intent to file and when VA approved your claim. An intent to file sets a potential start date (or effective date) for your benefits.|  |
 | 21-10210 | Lay/witness Statement | Use this form to submit a formal statement to support your VA claim—or the claim of another Veteran or eligible family member. People also sometimes call this statement a “buddy statement.” | |
