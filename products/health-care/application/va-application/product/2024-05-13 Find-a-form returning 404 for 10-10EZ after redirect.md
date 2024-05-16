@@ -51,7 +51,9 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 ## Root Cause Analysis
 
-The issue resulted from missing some regex that handles child paths in the URL redirect.
+Working from find a form, Adrian Rollett noticed that the link was to https://www.va.gov/health-care/apply/application/introduction and gave a `404` error.  At first, it was suspected to be a misconfigured react route, but while looking at that config realized that the base path had been moved.
+Adrian then started looking at the revproxy redirects, and found that the redirect to the new URL only matched /health-care/apply/application or /health-care/apply/application/ and not any sub-paths
+The change made in [PR #14258](https://github.com/department-of-veterans-affairs/devops/pull/14258) a couple weeks ago changed the redirect so it would match /health-care/apply/application as well as /health-care/apply/application/, but unfortunately stopped it matching paths beneath /health-care/apply/application/.
 
 ### What happened?
 
@@ -59,7 +61,7 @@ The 10-10EZ URL was changed from /health-care/apply/application/ to /health-care
 The 10-10 team coordinated with IA to implement the redirect. On 5/2/2024, Matt Long (10-10 team engineer) commented in the Redirect request ticket that there was one redirect that was not working in the Review Instance we were testing in.  The finding was that if you search for "10ez" on VA.gov, the returned results on the 2nd option would be a `404`.  The issue was reviewed with Fran Cross and Jill Adams on Public Websites team.  On 5/3/2024, this is where Jill Adams mentions that "If this were a standard redirect, usually that would mean we're missing some regex that handles child paths. I think your PR should already be handling that".  Jill then refers to other engineers on the Public Websites team to take a look.  One of the engineers, Randi Mays, commented on 5/6/2024 that this looked to be common to the Review Instance behavior and happens with other URLs.
 Matt Long merged the code on 5/6/2024.  Once the code was merged, the search steps were duplicated and produced a successful redirect, giving an assumption that there was no issue and that the Review Instance behavior was isolated.
 
-On 5/14/2024, Adrian Rollett discovered that the redirect was matching only /health-care/apply/application and /health-care/apply/application/, but not any other child pages under the path.  This was due to 
+On 5/14/2024, We got a couple of almost simultaneous reports that the healthcare application link from Choose VA was broken and the 1010EZ link from find a form was broken.  
 
 ### Why did it happen?
 
