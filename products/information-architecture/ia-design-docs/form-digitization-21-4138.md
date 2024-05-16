@@ -28,22 +28,39 @@
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) [Page name] - [Existing/New]**
-- URL:
-- Breadcrumb: 
-- Notes: 
+**1) H1 of page - New**
+- URL: www.va.gov/supporting-forms-for-claims/submit-statement-form-21-4138
+- Breadcrumb: VA.gov home > Supporting forms for VA claims > H1 of page
 
 ### Sub-URLs
+
+H1 | Page description	| URL slug for the page
+What kind of statement do you want to submit?	Select statement type	/statement-type
+There's a better way to submit your statement to us	Suggests alternative, VA Form 21-10210, Lay/Witness Statement.	/lay-witness
+What to know before you request a decision review	Asks about the claim's decision date	/decision-review
+There's a better way to ask for a decision review	The decision is older than a year, so we suggest filing a supplemental claim	/decision-review-over-one-year
+Which description is true?	Select disagreement reason	/decision-review-type
+There's a better way for you to ask for a decision review	They have new evidence, so we suggest filing a Supplemental Claim	/decision-review-supplemental-claim
+There's a better way for you to ask for a decision review	Suggests requesting a Higher-Level Review	/decision-review-higher-level-review
+There's a better way for you to ask for a decision review	Suggests requesting a Board Appeal	/decision-review-board-appeal
+What to know before you request priority process	Priority processing introduction	/priority-processing
+Which of these statements best describes your living situation?	Select a housing situation	/priority-processing-living-situation
+Other housing risks	Other housing risks	/priority-processing-housing-risks
+Are there any of these descriptions true for you?	Other hardships	/priority-processing-hardships
+You may not qualify for priority processing	Not qualified for priority processing, so we suggest submitting a 4138 statement	/priority-processing-statement
+There's a better way to request priority processing	Suggests requestion priority processing	/priority-processing-request
+There's a better way to request your personal records	Suggests requesting personal records	/records-request
+There's a better way to submit new evidence	Suggests claim status tool	/submit-evidence
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
 1. **[Supporting forms for VA claims](https://www.va.gov/supporting-forms-for-claims/)** - Add
-  - Placement description: 
+  - Placement description:
   - Link label: TBD by Sitewide Content
   - Link destination: 
-  - Notes: 
+  - Notes: Connecting with Tricia to confirm placement
 
 2. **[About VA Form 21-4138](https://www.va.gov/find-forms/about-form-21-4138/)** - Add
   - Link label: TBD by Sitewide Content
