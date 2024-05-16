@@ -130,7 +130,7 @@ ________________________________________________________________________________
         - 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
-        - 🟪 [[UX] Submit Screenshots to the State Department for Translation QA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63253)    
+        - ✔️ 🟪 [[UX] Submit Screenshots to the State Department for Translation QA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63253)    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 [[FE] Add Accordions to the Appointments Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
         - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
