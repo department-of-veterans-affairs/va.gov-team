@@ -130,10 +130,4 @@ There are two use cases that we are considering for this release. For each, we p
  - Maintain % of submissions that use normal path
  - Maintain or reduce uses of backup and failsafe path
 
-
-## Open Questions for Post MVP
-1. Will we include or exclude Veterans who have an IPF (In Progress Form)? What are the risks (if any) to this?
-2. Open Questions: If users are in an active session, they will complete the v1 version of the form.
-3. should we separate the MVP release and the IPF release on this page?
-4. is there a specfic DD dashboard we could use to monitor the product performance of the release
-5. Do we need to re-pipe LH to EVSS before the release? What is the decision on that?
+ - 
