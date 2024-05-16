@@ -72,7 +72,7 @@ There are two use cases that we are considering for this release. For each, we p
 
 ## Timelines and Key Components
 
-DBEX Toxic Exposure Timeline Mural for reference: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703177959763/f487e27fa155474b4d1295707ac8a5550ceebe8a?wid=0-1712864670095&sender=u772b464a60dfa2963de51409
+[DBEX Toxic Exposure Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Delivery%20Plan.md) for reference
 
 | Phase | Milestone | Target Dates | Notes |
 |---|---|---|---|
