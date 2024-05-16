@@ -84,7 +84,7 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 - Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
 
 **11) File champva Claim 10-7959a - ADD**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-form-10-7959a/
+- URL: va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/
 - Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
 
 **12) Surviving spouse home loan program - CHANGE**
