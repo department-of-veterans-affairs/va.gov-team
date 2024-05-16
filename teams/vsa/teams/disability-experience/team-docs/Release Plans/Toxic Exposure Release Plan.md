@@ -88,12 +88,11 @@ There are two use cases that we are considering for this release. For each, we p
 
 ## Feature Flags
 
-| Phase | Description | Flipper Status - Percentage | Form in Progress | Visible Form |
+| Phase | Description | Flipper Status - Percentage | Visible Form |
 |---|---|---|---|---|
-|4 | Submit |Off - 0% | No | 2022 |
-|5 | GetPDF |Off - 0% | No | 2022 |
-|6 | New TE Applications |On | No | 2022 |
-|7 | Veterans with an IPF |On | Yes | 2022 |
+|4 | Submit |Off - 0% | 2022 |
+|5 | GetPDF |Off - 0% | 2022 |
+|7 | Veterans with an IPF |Off| 2022 |
 
 ## Rollouts 
 #### Submit: 
