@@ -59,6 +59,7 @@ In addition to adding TE sections to the digital form, this release also include
 
 ## Risks & Challenges
 1. DBEX teams have developed this solution with the assumption that Lighthouse's Submit endpoint will be used for the production deployment of TE. If the Lighthouse /submit endpoint isn’t available by the end of June, DBEX teams will not re-pipe the TE solution to use EVSS async Submit endpoint. VA’s expectation is that TE solution is complete and ready by end of June. TE will leverage LH’s Submit endpoint when it's released into production.
+2. The target delivery date, while identified, is variable depending on Lighthouse availability and any other time sensitive, urgent work that needs to be done. Prioritizing urgent work will impact the delivery target date.
 
 ## Use Cases
 There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to incrementally route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. As Flipper controls access to the new form (via a conditional flag) the moment a Veteran starts a new claim, Veterans with an active session will not be directed to the new form.
@@ -81,9 +82,10 @@ There are two use cases that we are considering for this release. For each, we p
 |3 |Launch Preparation|June 18 2024|
 |4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH|
 |5 |Migrate submit functionality to LH|early June 2024|   |Pending LH implementation (est. staging early June)|
-|6 |New TE Applications|June 27 - 27 2024|
+|6 |New TE Applications|June 27 2024*|
 |7 |Veterans with an IPF|TBD||
 
+*Dates may vary
 # Release Process
 
 ## Feature Flags
