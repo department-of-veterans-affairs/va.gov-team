@@ -1,4 +1,4 @@
-# Cancel Oracle Health Appointments on VA.gov 
+# Cancel Oracle Health Appointments on VA.gov - Release Plan 
 
 ---
 
@@ -7,9 +7,9 @@
 ### Planning:
 - Desired date range or test duration: 1 week
 - Desired number of users: 3
-- How you'll recruit the right production test users: lorem ipsum
-- How you'll conduct the testing: lorem ipsum
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: lorem ipsum
+- How you'll recruit the right production test users: Find staff Veterans to help us validate the appointments on VA.gov 
+- How you'll conduct the testing: We will work with our test users and make sure the application is working correctly. 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: We will turn on the feature toggle for specific user(s) in production. 
 
 ### Results:
 - Number of users: x
@@ -24,13 +24,14 @@
 ### Do I need a staged rollout?
  - Yes
 
-Feature Toggle: `TBD`
+Feature Toggle: `va_online_scheduling_enable_OH_cancellations` and 
+`va_online_scheduling_use_vpg`
 
 | Feature type | Possible with feature toggles? |
 | --- | --- |
 | New feature in existing application | Yes |
 | New application | No |
-| Static content changes | N/A |
+| Static content changes | No |
 | URL redirects | No |
 
 Other exceptions to this requirement can be approved by DEPO VSP leads.
@@ -40,9 +41,10 @@ Other exceptions to this requirement can be approved by DEPO VSP leads.
 - Desired date range: 
    - 06/15/24 - 07/15/24
 - How will you make the product available in production while limiting the number of users who can find/access it: 
-   - VA.gov feature flag `va_online_scheduling_appointment_list`
+   - VA.gov feature flags:  `va_online_scheduling_enable_OH_cancellations` and 
+`va_online_scheduling_use_vpg`
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
-   - Increase number of users viewing their appointments in VAOS 
+   - Increase number of users viewing their appointments in the tool.  
 - Links to dashboard(s) showing "success criteria" metrics: 
    - KPI Dashboard: https://va-gov.domo.com/page/1769944412
    - Performance Dashboard: https://va-gov.domo.com/page/1315231862
@@ -70,7 +72,7 @@ _Test a larger population of users to make sure there are no issues exposed by l
 #### Planning
 
 - Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 20% (46,037 users)
+- Percentage of Users (and roughly how many users do you expect this to be): 20% (XX,XXX users)
 
 #### Results:
 - Number of unique users: x
@@ -84,7 +86,7 @@ _More stages? Sure! If it makes sense for your product! Plan them out with the s
 ## Go Live!
 
 ### Planning:
-- Desired date: 06/15/23
+- Desired date: 06/15/24
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
