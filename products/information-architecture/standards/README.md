@@ -65,15 +65,29 @@ User flows | [User Flow Guidance on GH](https://github.com/department-of-veteran
 
 ### Process for establishing IA standards
 
-- IA identifies gap in standard or opportunity to improve documentation
-  - Item is added to standards list along with info on impact and urgency in order to define priorities
-- IA picks up work, does preliminary discovery on current state 
-  - How is this handled today? Does documentation exist currently? What do we know about what is working well and what is not? Does this pattern exist within VADS or USWDS?
-- IA works to define what the standard should be, and collaborates with Mikki and Erin to refine and finalize
-- Erin works to determine where the new standard or guidance documentation should live - design system, Figma, Mural, GH, other
-- Erin creates final documentation, formatted appropriately for where it will live 
-- Mikki reviews with any other OCTO leads for awareness and approval as needed
-- Erin publishes
+1. Review the [Github table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards) and choose an IA standard – put your name next in the POC column
+2. Create a ticket in your board WITHIN the epic called: [IA Standards and Documentation](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/53920)
+- Put a link to your ticket in the [github table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards)
+- Ticket template: [IA Standards - Homepage](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82570#event-12734461942)
+3. Write up a draft of the standard
+- Make sure you find/review existing documentation
+- Establish the scope
+   - What are you covering
+   - What are you not going to cover?
+- Decide where the guidance will live - VADS vs github
+4. Add a link of your draft to the [github table](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/information-architecture/standards)
+5. Get standard draft approved by Mikki
+- Mikki may take questions or things to OCTO
+- We should remind Mikki about wrapping her task and not let it fall off
+6. Untag yourself, tag Erin in your ticket
+- Erin can add whatever labels they want
+7. Erin confirms where the guidance should go
+- If changes to existing component, may need to fill out a ticket for design council
+8. Erin makes any needed edits to guidance
+9. Erin publishes to wherever
+10. Erin adds the link to the final standards to the github table and updates the status as COMPLETE
+11. Erin writes and sends Slack announcement about change in #design
+
 
 
 ### Open questions
