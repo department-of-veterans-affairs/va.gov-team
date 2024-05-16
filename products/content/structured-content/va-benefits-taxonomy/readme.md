@@ -37,13 +37,9 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 
 ### Evaluation criteria 
 
-## Project plan
+## Project Plan for MVP In scope
 
-### MVP solution
-
-#### In scope
-
-##### 👉🏼 Benefit Name / VA Benefit API ID
+### 👉🏼 Benefit Name / VA Benefit API ID
   * **Requirements**
     * For initial load of the Benefit Name/VA Benefit API ID, auto-populate with camelCase. VA Services taxonomy uses lower camelCase, and we could follow suit here. Before releasing, have Public Websites engineers validate to make sure it makes sense to future developers.
       * Note that we don't have the auto-creation yet.
@@ -51,7 +47,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
   * **Tickets**
     *  Engineering task ticket: auto-populate the VA Benefit API ID with camelCase of ?? (Benefit name)??
             
-##### 👉🏼 How to Apply Section
+### 👉🏼 How to Apply Section
   * **Requirements**
     *  This is for programs like Dental Care, where the Veteran is filling out Form 10-10ez.
       *  For programs like dental care, where you apply by filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit. For MVP, we will solve this using the text in the How to Apply section.
@@ -59,7 +55,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
     *  Engineering task ticket: Update the help text in the How to Apply section to help the Veteran understand their choices for applying for benefits. e.g. filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit.
         - CAIA to provide the verbiage.
 
-##### 👉🏼 Exclusionary and Simultaneous Benefits
+### 👉🏼 Exclusionary and Simultaneous Benefits
   * **Requirements**
     * We will need some Content modeling around this. Might need to pull in Dave Picket?
     * _Exclusionary Benefits Definition:_ Meaning > If you have _this_ benefit, you can’t have _that_ benefit.
@@ -71,7 +67,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
       * Ticket: UX: design of the forms in the CMS for the editors. Will need help text. 
       * Ticket: Engineering ticket: build this.
        
-##### 👉🏼 Benefit Description
+### 👉🏼 Benefit Description
   * **Requirements**
     * Will consist of three (already existing) fields: Longer summary, Brief summary (currently has 500 character limit), & Teaser summary (one to two sentences - currently 300 character limit).
     * Character count limits will be required on all three fields.
@@ -91,7 +87,7 @@ Note: there is already on-screen feedback for character counts.
 Note from CAIA: We need to think about how much depth we want to go into for the “Longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full (Longer summary) description? This is something for us (CAIA) to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
   * **Product conversation**: Need to talk to CAIA to understand how they want to handle the descriptions above - how to cascade feild requirements the per the info above.
    
-##### 👉🏼 Requirements
+### 👉🏼 Requirements
     * We want to work with CAIA for what we mean by eligibility vs. the overview sections.
     * The problem can be alleviated with better help text as opposed to drastic content changes.
   * **Task**
@@ -99,7 +95,7 @@ Note from CAIA: We need to think about how much depth we want to go into for the
   *  **Tickets**
     *  Potential ticket: change help text based on CAIA feedback.
      
-##### 👉🏼 How to Apply
+### 👉🏼 How to Apply
   * **Information**: How to apply might contain multiple steps. Before you apply, while you're applying, after you apply. Wants to normalize the DB to keep the info with what it pertains to.
   * **Requirements**
     * Content modeling needed.
@@ -117,14 +113,14 @@ Note from CAIA: We need to think about how much depth we want to go into for the
         * Ticket? Content modeling
         * Ticket? Maybe engineering tasks depending on decision outcome.
         
-##### 👉🏼 Preparing to Apply section
+### 👉🏼 Preparing to Apply section
   * **Requirements**
     * There is only one rich text field. We need to move to magic header because, for example, in Aid and Attendance, they need to differentiate between veteran and survivor, so we need to accommodate hierarchy.
     * Note: We can currently make at least one magic head required with more to be able to be created. This is a stand-alone required section currently.
   * **Tickets**
     * Engineering task ticket: Make the existing rich text field into a magic header ... because, for example, in Aid and Attendance, they need to differentiate between veteran and survivor, so we need to accommodate hierarchy.
  
-##### 👉🏼 Intent to File
+### 👉🏼 Intent to File
   * **Requirements**
     * We are trying to say "is intent to file an option for this benefit? yes/no. What additional contextual info for intent to file, and how do they do it. Tackle through rich text? Link to form?
       * Need to figure what data needs to ride along.
@@ -138,7 +134,7 @@ Note from CAIA: We need to think about how much depth we want to go into for the
       * Note: We can always add additional fields later if we recognize a need.
      
 
-##### 👉🏼 Evidence Needed field
+### 👉🏼 Evidence Needed field
   * * **Requirements**
     * For MVP, we are going to create a limited rich text field for evidence needed.
      * Not required for MVP - Post MVP, the ability to generate a report to collect whatever is in this field so we can analyze it better later for possible transition to a taxonomy in a future iteration.
@@ -149,21 +145,21 @@ Note from CAIA: We need to think about how much depth we want to go into for the
     - Ticket - UX
     - Fran: Ask CAIA for help text for the editors.
  
-#### Explicitly out of scope or MVP
-##### 👉🏼 Benefit Description
+## Explicitly out of scope or MVP
+### 👉🏼 Benefit Description
   * Long Description Post-MVP: If a Long description character count is more than the character count of the Brief description, but less than the character count of the Teaser description, the Brief description will then be required.
   * Brief Description Post-MVP: Post-MVP: If a Brief character count is more than the character count of the Teaser description, then the Teaser description will be required.
 
-##### 👉🏼 Approval fields: add more backend fields to help us track approvals and audits for this core reusable content. Fields such as “Approving SMEs,” “Date last reviewed by approving SMEs,” and “Associated
+### 👉🏼 Approval fields: add more backend fields to help us track approvals and audits for this core reusable content. Fields such as “Approving SMEs,” “Date last reviewed by approving SMEs,” and “Associated
  program office(s).  
 
-##### 👉🏼 Front-end Work: Per Dave, work through some POC wireframes for this. For discussion and thought as we map this model to the page templates for core benefit pages. In our pages now, we often have a brief one-liner about a benefit and then a “Read more to learn…” How will we account for that with reusable content? Perhaps we just allow for page template to have an intro and then we pull in reusable content as needed. 
+### 👉🏼 Front-end Work: Per Dave, work through some POC wireframes for this. For discussion and thought as we map this model to the page templates for core benefit pages. In our pages now, we often have a brief one-liner about a benefit and then a “Read more to learn…” How will we account for that with reusable content? Perhaps we just allow for page template to have an intro and then we pull in reusable content as needed. 
 
-### Product roadmap/phases
+## Product roadmap/phases
 
-### Testing Approach
+## Testing Approach
 
-### Document significant decisions
+## Document significant decisions
 
 
 
