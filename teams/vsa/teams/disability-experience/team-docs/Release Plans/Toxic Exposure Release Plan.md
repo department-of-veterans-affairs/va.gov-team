@@ -98,7 +98,7 @@ DBEX Toxic Exposure Timeline Mural for reference: https://app.mural.co/t/departm
 ## Rollouts 
 #### Submit: 
 - [ ] LH Implementation
-- [ ] Planning
+- [x] Planning
  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md
 - [ ] Internal Testing and Review
 - [ ] Pre-release Testing
@@ -108,6 +108,7 @@ DBEX Toxic Exposure Timeline Mural for reference: https://app.mural.co/t/departm
 #### GetPDF (GeneratePDF):
 - [ ] LH Implementation
 - [ ] Planning
+ - [Link]
 - [ ] Internal Testing and Review
 - [ ] Pre-release Testing
 - [ ] Canary
