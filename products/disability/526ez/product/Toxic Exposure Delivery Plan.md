@@ -50,7 +50,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Add “I’m not sure” to the Gulf War 1990 pages.
  - [X] Heading content and URL changes.
  - [X] Transform service on the first of each location in 15B and put these behind the Toxic Exposure feature flag.
- - [ ] Handle multiple exposure durations 15B.
+ - [X] Handle multiple exposure durations 15B.
  - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, adding 15B and 15E are populated.
 
 #### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E; herbicide & hazards pages data is populated in 15 C, D, E.
