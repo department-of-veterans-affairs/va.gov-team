@@ -11,6 +11,7 @@
 |1/9/24 | Coulton Bunney | Added conditions information, Added lab results information|
 |1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
 |2/23/24 | Kaitlin Fink | Added care summaries and notes|
+|5/16/24 | Kaitlin Fink | Added vitals and updated health conditions|
 
 
 
@@ -320,15 +321,14 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 ### Vitals
 
-> [!NOTE]
-> To be completed by Kaitlin Fink
-
 <details>
 <summary>List view requirements</summary>
  
 ---
 #### IA
-
+URL: `/my-health/medical-records/vitals`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
 #### Content
 
 #### Functionality
@@ -353,8 +353,10 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
   
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------|
-| | |
-</details>
+|We will only show the following vitals: blood pressure, heart rate, breathing rate, blood oxygen level (pulse oximetry), temperature, weight, and height, weight. | Reason why|
+|We will not the following vitals: show pain, BMI| Reason why|
+|The following fields will not be shown to users:  | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
+|The following fields will not be shown to users at first, but may be if verified: | SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
 
 ### Care summaries and notes
 Launched to Phase 0 on 2/26/24
