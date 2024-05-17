@@ -116,17 +116,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?* The VYE Team will collaboration and coordinate with VA communication centers to market this product so Veterans will know it exists. 
-- *What marketing, outreach, or communications are necessary for this product to be successful?* tbd
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- *How are Veterans and others using this product going to know it exists?* The VYE Team will collaborate and coordinate with VA communication centers to market this product so Veterans will know it exists. 
+- *What marketing, outreach, or communications are necessary for this product to be successful?* Information about the transition from WAVE to VYE put into SCO in the Know starting April 10, 2024; Communications Team will handle award letters; Carousel will update the EDU webpage; information sent out in the GI Bill student email newsletter; WAVE webpage will have a direct link to VYE landing page.
+- [Link to VYE Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/verify-your-enrollment/release-plan-May-2024.md)
 
 ## Launch Dates
 - *Target Launch Date*
-  - March 2024
+  - mid-June 2024
 - *Actual Launch Date* 
-  - tbd
+  - TBD
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Two months after launch on VA.gov. 
 
 ---
 
@@ -146,8 +146,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ![71359376-3d1f-450f-a0c6-5e1625c41cc8](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/c06b3ef7-0917-49a4-9ab0-c540dd3720d7)
 
 ### After
-tbd
+![VYE S1](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/76df05fa-15b1-441a-8191-21037b2e9168)
+![VYE S2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/d12fe101-59ae-46f2-b432-59508b74bc96)
+![VYE S3](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/3bb89f83-7a7a-4225-b4be-2df67e1a1214)
+![VYE S4](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/2ed3d7eb-2383-4bac-8554-da949d9ead71)
+![VYE S5](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/fcdc2ad1-5a0c-4da0-8928-40ff52d7cc6a)
+![VYE S6](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/83912f5a-81e7-4b4a-a534-a02ca5bd8050)
+
 ---
+
+### Updated architecture diagram that shows the involved systems and how they connect 
+[Full Architecture Diagram.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/15355298/Full.Architecture.Diagram.pdf)
+![Diagram 1](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/d6c0158f-4961-4504-9fb3-402f90b29a95)
+![Diagram 3](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/8001e51c-80d4-4492-8ca2-e36b06004672)
+![Diagram 2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/83556992-546f-446a-954e-2c14b3829aef)
 
 #### Communications
 
@@ -174,7 +186,12 @@ tbd
 
 ## Indicents Response Information
 
-Points of contact for your system and dependent VA backends:
+Points of contact for your system and dependent VA backends: 
+- TIMS Business Pierre Brown, pierre.brown@va.gov 
+- TIMS IT Timothy M. Allgeier, timothy.allgeier@va.gov 
+- BDN (TITSA) Primary James (Jim) Sotzen, james.sotzen@va.gov
+- IVR Ramesh Pitchumani, ramesh.pitchumani@va.gov
+- NEWMAN Cynthia Ross, cynthia.ross1@va.gov 
 
 Links to dashboards that help identify and debug application issues:
 
