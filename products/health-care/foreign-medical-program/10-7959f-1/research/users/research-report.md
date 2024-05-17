@@ -12,11 +12,11 @@ Jump to:
 
 
 
-* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md#hypothesesandconclusions)
-* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
-* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
-* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
-* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
+* [Hypotheses and conclusions](##Hypotheses-and-Conclusions)
+* [Key findings]()
+* [Recommendations]()
+* [Further research needed]()
+* [Who we talked to]()
 
 
 ## **Research Goals**
