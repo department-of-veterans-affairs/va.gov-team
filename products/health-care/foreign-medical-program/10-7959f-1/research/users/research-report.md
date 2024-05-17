@@ -56,7 +56,7 @@ The overarching research goals for this project were:
 
 ## **Methodology**
 
-We conducted hour-long remote moderated research sessions via Zoom from March 18 - 29, 2024. Participants were asked to think aloud while navigating a [Figma prototype](https://www.figma.com/proto/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?page-id=732%3A40895&type=design&node-id=732-41541&viewport=-1546%2C-54%2C0.25&t=5E0jHhR2ptW6Vm4D-1&scaling=scale-down&starting-point-node-id=732%3A41541) of the unauthenticated experience and were then asked a series of open-ended questions regarding their experience with FMP.
+Conducted hour-long remote moderated research sessions via Zoom from March 18 - 29, 2024. Participants were asked to think aloud while navigating a [Figma prototype](https://www.figma.com/proto/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?page-id=732%3A40895&type=design&node-id=732-41541&viewport=-1546%2C-54%2C0.25&t=5E0jHhR2ptW6Vm4D-1&scaling=scale-down&starting-point-node-id=732%3A41541) of the unauthenticated experience and were then asked a series of open-ended questions regarding their experience with FMP.
 
 
 ## **Hypotheses and Conclions**
