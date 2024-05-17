@@ -166,7 +166,7 @@ Where auto-capture was too sensitive for participants, they had trouble lining u
 Where the auto-captured photo was too blurry, participants had to try multiple times to get the photo right. The flow was generally that the participant would line up their ID in the four corners, get the 3-2-1 counter, the auto-capture tool would take the photo, and then the participant would get a “too blurry” error back on the page showing where to upload front and back photos of the ID. Many times, the participant had no idea why their first attempt failed:
 > Just want to take the damn photo... I'm busy!...[Took another photo and it worked.]... I had to try twice, but I have no idea why because I didn't do anything different than the first time. Maybe I was a little shaky so it was a little bit blurry? - p12
 
-Auto-capture was generally inaccessible for participants using screenreaders. These issues are discussed more in [Login.gov not usable for screenreader participants](#login.gov-not-usable-for-screenreader-participants).
+Auto-capture was generally inaccessible for participants using screenreaders. These issues are discussed more in section: Login.gov not usable for screenreader participants.
 
 ##### Difficulty with manual upload
 5 of the 21 study participants had an issue with manually taking and uploading photos. These participants struggled to meet all the requirements for a successful manual upload (e.g., dark background, ID is 80% of the photo, etc). Participants generally did not read the guidance on the page, opting to just jump into upload photos. 
@@ -175,10 +175,18 @@ The root cause is that the photos looked good to the participants, even if they 
 
 #### Login.gov is not usable for screenreader participants
 3 of the 6 screenreader participants were unsuccessful for reasons related to their being dependent on a screenreader. One screenreader participant (p14) was able to make it to the “Verify phone or address” step, but the session ran out of time. That participant did have some vision, relying primarily on magnification and a little on their screenreader. These findings are consistent with findings from VPAT Blind and/or Low-Vision Disability Testing Report 2022.
-Listen to a clip of a participant trying to use the photo ID auto-capture.
 
+[Listen to a clip of a participant trying to use the photo ID auto-capture.](https://drive.google.com/file/d/1JuWP7tBb5K0lAsnTr9ieDVfKgddQPith/view?usp=share_link)
 
->>> Table
+###### Table 4. Result and session description of each screenreader participant
+| Participant | Result | Result Description |
+| --- | --- | --- |
+| 10 | Abandoned | Did not get beyond the sign-in screen. Assistive tech user. |
+| 14 | Blocked | Phone number not verified with Phone Finder. Issues with photo ID upload. |
+| 16 | Abandoned | Assistive tech user. Unable to get beyond the auto-capture ID upload. |
+| 17 | Rate limited | Rate limited on upload photo ID. Assistive tech user. |
+| 20 | Incomplete | Ran out of time. Stopped at Phone Finder. |
+| 21 | Bug | Issue with staging. Bug that prevented state id upload from desktop. Did not even try to upload from phone. Only wanted to upload from desktop. |
 
 #### No fallback options to verify personal details or phone number 
 > I don't know what else to try. - p14
@@ -295,8 +303,8 @@ At this point in the flow, starting over is actually not that big of a deal. Tha
 - Give users a clear way to go back to the previous screen (“How would you like to add your state-issued ID?”) or opt to switch over to the phone-handoff flow. There are two improvements that have been considered:
    - Implement a link to switch to the hybrid flow on the desktop “Add your state-issued ID” screen (design complete and low development effort, currently in Team Ada’s icebox): LG-5959 
    - Make the browser back button work on the “Add your state-issued ID” step and throughout the IdP. Team Joy has explored the idea that we could:
-   - Implement the concept of “milestones” – decide when going back in the flow would be destructive, and at those steps, show a warning screen stopping the user from losing their progress.
-   - Currently the system forces the user back to the current step that they are on, so browser back overall does not work. Once we have guardrails in place to prevent users from taking a destructive action unintentionally, we could easily remove this forced redirect functionality for all other steps on the IdP.
+      - Implement the concept of “milestones” – decide when going back in the flow would be destructive, and at those steps, show a warning screen stopping the user from losing their progress.
+      - Currently the system forces the user back to the current step that they are on, so browser back overall does not work. Once we have guardrails in place to prevent users from taking a destructive action unintentionally, we could easily remove this forced redirect functionality for all other steps on the IdP.
 
 #### Not clear what to expect with the desktop-to-phone handoff
 3 participants manually took pictures of their ID before they clicked on the “Use your phone” button on the “How would you like to add your state-issued ID?” screen. The participants were preparing for the next step, not realizing that there was this cool automated experience waiting for them.
@@ -329,7 +337,7 @@ A few participants used auto-capture to upload their photo ID. After properly al
 - Explore how Login.gov can make ID upload guidance more visual. Can we add an illustration or sample ID photo to help people understand what kind of picture they need to upload?
 
 #### InstantVerify & Puerto Rico
-InstantVerify is terrible with Puerto Rican addresses and dates of birth. The bulk of the errors are IdentityOccupancyVerified, AddrDeliverable, and DOCFUllVerified:
+InstantVerify is terrible with Puerto Rican addresses and dates of birth. The bulk of the errors are IdentityOccupancyVerified, AddrDeliverable, and DOCFUllVerified
 ##### Recommendations
 - Report InstantVerify’s poor performance to LexisNexis and start a conversation with them about improving the service for PR addresses. Use Identity Transaction Results – Oct 25 - Nov 1, 2022 to support that conversation.
 - Investigate whether InstantVerify has a normalized address format for Puerto Rico.
@@ -343,8 +351,8 @@ Participants that sought out customer support information preferred phone over e
 > I like to talk to people instead of email, text - p14
 
 > I guess I would probably call [customer support] if I was having a real life issue. - p15
-Address on ID not actual address
 
+### Address on ID not actual address
 2 participants (p2 and p9) had an address on their photo ID that was not their actual address. Both participants recently moved but did not update their address. In both cases, the participant changed their address to their current address and did not have any issues getting the address verified. Although the participants were a little confused on how to handle the situation, this was not a blocker.
 
 ## Final thoughts
