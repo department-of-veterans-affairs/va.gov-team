@@ -158,9 +158,9 @@ This finding applied to all 3 options (see the screenshot below for the list pag
 
 * Recommendation 1
 
-Here's [a list of medical supplies-related research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md) with highlights on Veterans feedback and behaviors and expectations around medications and medical supplies. 
+Here's [a list of medical supplies-related research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md) with highlights on Veterans feedback and behaviors and expectations around medications and medical supplies. Combining the past studies and what we found in this study (a total of 2 behavior-focused studies and 2 feedback/sayings-focused studies), there is a split between medications and medical supplies when asked to order non-medications or types of supplies. 
 
-
+_Supporting data: Finding 1 and [other medical supplies-related studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md)_
 
 
 ## Next Steps
