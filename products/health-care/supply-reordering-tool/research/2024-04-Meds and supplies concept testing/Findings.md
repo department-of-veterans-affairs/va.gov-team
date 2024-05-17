@@ -70,12 +70,12 @@ We conducted 40-50 mins long remote moderated research sessions via Zoom. Partic
   - With [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) and [option 2](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-54298&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A54298&show-proto-sidebar=1), most participants (10 out of 15) struggled to find glucose testing strips because they thought glucose testing strips were medical supplies.
   - 5 participants chose [option 1](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-53043&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A53043&show-proto-sidebar=1) as the easiest to use and liked medications and medical supplies are completely separate on MHV on VA.gov landing page and reorder page.
 
-**2. Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much of a difference and value in having both pages.**
+**2. Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much difference and value in having both pages.**
 
 
 ## Details of Findings 
 
-### Finding 1: Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to find and order glucose testing strips and mask straps, but mentioned that medications and medical supplies are difference when asked to define them.
+### Finding 1: Most participants (10 out of 15) found the [option 3](https://www.figma.com/proto/o9zkSuKTzHm9eQqHTEN1iz/Medical-supplies-reorder?page-id=505%3A53042&type=design&node-id=505-55328&viewport=315%2C661%2C0.34&t=v2HTVy1zki0uT7TU-9&scaling=min-zoom&starting-point-node-id=505%3A55328&show-proto-sidebar=1) the easiest to find and order glucose testing strips and mask straps and liked everything in one place, but mentioned that medications and medical supplies are difference when asked to define them.
 
 The moderator assigned two tasks to participants: ordering CPAP Mask straps and ordering glucose testing strips. The task and order that the prototypes were shown to the participants varied to remove bias. Participants were able to use all 3 options to order mask straps, but most had trouble finding glucose testing strips with option 1 and option 2. Overall, option 3 was picked as the easiest to use to order mask straps and glucose testing strips by most participants (10/15). Those participants expressed that they liked everything being consolidated in one place and didn't have to go through different screens to find things. 
 
@@ -139,9 +139,9 @@ The participants (5 out of 15) who didn't choose option 3 picked option 1. They 
 
 > _Supporting data: "If I want medications, I go to that section. If I want medical supplies, I go to that section. That's what I like better (about option 1)."_
 
-### Finding 2: Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much of a difference between them.
+### Finding 2: Some (7 out of 15) participants found it confusing to have both a list page and an order page because they didn't see much difference and value in having both pages.
 
-This finding applied to all 3 options (see the screenshot below for the list page link and order page link on the MHV landing page). Some participants looked at the list link and order link on the MHV home page and were not sure what the differences were. 4 participants clicked on the list link when asked to order, and then they either tracked back to the home page to click on the order link or took a while to click on the order link on the list page. 
+This finding applied to all 3 options (see the screenshot below for the list page link and order page link on the MHV landing page). Some participants looked at the list link and order link on the MHV home page and were not sure what the differences were. 4 participants clicked on the list link when asked to order, and then they either tracked back to the home page to click on the order link or took a while to click on the order link on the list page. There is value in having a list page for medications, but this needs more research to see if there's a use case for a view-only list for medical supplies. 
 
 ![Frame 3](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/90383173-9e7b-4db9-9670-1bb92681f760)
 
