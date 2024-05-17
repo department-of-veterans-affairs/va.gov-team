@@ -1,5 +1,21 @@
 On Thursday, May 16, 2024, the Identity Team held a refinement for Incident Repsonse. Here's what we came up with.
 
+## Definition of Incident Response
+What steps will we take to respond and remediate outages to our services.
+
+### Directly Responsible
+- Unified Sign-in Page (USiP)
+- Single Sign-On External (SSOe)
+- Sign-in Service (SiS)
+- Terms of Use (ToU)
+
+### External (but still responsible) (to a point)
+- Credential Service Providers (CSP)
+- Master Person Index (MPI)
+
+### Out of Scope
+- Status IO Page
+
 ## Problem Statement
 We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov, we need to implement and communicate a formalized Incident Response process which includes the following:
 - Incident Management System
@@ -7,7 +23,26 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 - System Recovery Process
 - Internal Reporting on Incidents
 
+### Visions
+- Minimize manual communication of degraded service so I as an engineer can focus on resolving the issue.
+- I never want our consumers or users to wonder if we know about an issue they are currently seeing
+
 ## Considerations
 - ATO Requirement: steps to recover service.
 - All the the datadog alerts have links to old response docs, need to be updated.
 - Document where our lines of resposibilites begin and end.
+- How might we prioritize/triage alerts based on severity?
+- Revisit levels of response within our current off hour alerts (in datadog).
+- List out sources of incident reporting and what the response will be.
+
+## Current Reporting Process/Solutions/Documentation
+### Summary of Current State & Recommendations
+- [Authentication Status Internal Communication for VA Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md)
+- [Content Research for Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
+### Urgent Request Definition & Process
+- [Meet with the Identity Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md#-on-call-support)
+### What Platform Does
+- [Incident Response Documentation for Application Teams](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
+### Identity Processes Previously Established
+- [SSOe Outage on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/SSOe_Outage_Response.md)
+- [Update Monitors Alerts Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) (very old, should be deleted after mined for use)
