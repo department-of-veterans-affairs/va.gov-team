@@ -221,7 +221,7 @@ Some of the users explained to us that they were not interacting with FMP direct
 ## **Recommendations**
 
 
-### **Recommendation 1: Consider implementing or exploring design solutions for the following:
+### **Recommendation 1: Consider implementing or exploring design solutions for the following:**
    * Explain what the VA will use phone number, address, and email address for so users are able choose the right ones for them; many Veterans overseas have more than one of each.
    * Add helper text to the VA file number field explaining what it is and who has one. This will reduce confusion for Veterans who do not have VA file number.
    * On the review page, expand all the accordions or just lay out all the information on one page with no accordions.
