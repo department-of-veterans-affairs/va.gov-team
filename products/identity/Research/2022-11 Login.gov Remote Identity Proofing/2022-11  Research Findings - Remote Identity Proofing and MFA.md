@@ -97,6 +97,7 @@ We talked to 21 participants. 3 came from a USDS-recruited trial run. The remain
 ### Results of the sessions
 A little under half (10 of 21 sessions) of the participants successfully created an account and proved their identity. We had two sessions that ended early because of a staging.login.gov bug or we ran out of time. The remaining 9 sessions (of 21) were Rate Limited, Blocked, or Abandoned.
 
+###### Table 1. Count and rates of each possible session result
 | Result | Count | Percentacge | Definition|
 | --- | --- | --- | --- |
 | Success |  5 | 24% | Participant successfully created account and verified ID without any errors or issues |
@@ -110,6 +111,7 @@ A little under half (10 of 21 sessions) of the participants successfully created
 ### Reasons for Abandoned, Blocked, Rate Limited, or Success with Bumps
 Most participants that had an issue with Login.gov had an issue at the “Upload state photo ID” step. Most participants were able to succeed despite these issues. Some were blocked or abandoned. Other participants abandoned or were blocked for reasons related to Login.gov’s accessibility or gaps in data.
 
+###### Table 2. Analysis of each participant that had an issue
 | Participant | Result | Step issue occurred | Issue theme|
 | --- | --- | --- | --- |
 | 2 | Success with bumps | 11 [Phone] Upload state photo ID | Uploaded wrong photo of photo ID |
@@ -131,6 +133,7 @@ Most participants that had an issue with Login.gov had an issue at the “Upload
 ### Multi-factor authentication
 14 of 21 participants chose one MFA option. SMS and Face/Touch were basically the only options people picked, with backup codes being a distant third (and never the first option). Nobody had a security key. None of the participants had a PIV. People either didn’t know what an authenticator app was or they knew what it was but didn’t want another app on their phone.
 
+###### Table 3. Breakdown of participant choices for multi-factor authentication
 | MFA Combos | Count | Percentacge |
 | --- | --- | --- |
 | SMS + Skip | 10 | 48% |
@@ -139,9 +142,6 @@ Most participants that had an issue with Login.gov had an issue at the “Upload
 | Face/touch + Skip | 3 | 14% |
 | NA + NA | 1 | 5% |
 | Voice + Skip | 1 | 5% |
-
-
-
 
 
 ## Product-level issues
