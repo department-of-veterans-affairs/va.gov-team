@@ -9,16 +9,16 @@
 **AJ and Tricia: Have we completed Midpoint review and addressed any tier 1 issues?**
 - Answer: 
 
-**Matt & Jeana: Are the research plan and conversation guide for usability study complete?**
+**Matt & Jeana: Are the research plan, conversation guide and any other supporting documentation for the usability study complete?**
 - Answer:
+
+**Allison, Matt and Jeana: Is the prototype ready and approved by POs?**
+- Answer: 
 
 **Matt and Jeana: Are you prepared to run the usability sessions as early as next week?**
 - Answer: 
 
 **Matt and Jeana: Do you have a backup to sessions should something come up and you are unable to facilitate?**
-- Answer: 
-
-**Allison, Matt and Jeana: Is the prototype ready and approved by POs?**
 - Answer: 
 
 **Matt & Jeana: Do we have support lined up for assistive tech?**
