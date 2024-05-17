@@ -59,6 +59,11 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
   - Note: Laura anticipates that this content will have migrated to modernized site, so we may not need to crosslink or update this. But we might, so just putting it here for now.
 ![champva legacy pages](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/71b6ad55-39e5-4ca1-bad9-fd3dd92a6a4d)
 
+4. **MODIFY [Find a Form page](https://www.va.gov/find-forms/about-form-10-10d/)**
+   - Placement description: we’ll need to add a link to the new form from this page.
+  - Link label: TBD by content
+  - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
+
 
 
 
