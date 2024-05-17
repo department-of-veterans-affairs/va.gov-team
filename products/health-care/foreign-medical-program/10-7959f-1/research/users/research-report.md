@@ -81,7 +81,7 @@ We conducted hour-long remote moderated research sessions via Zoom from March 18
 
 
 1. There were various usability issues found through testing that should be taken under consideration.
-2. Veterans want more transparency into the state of their FMP registration and their FMP claims.
+2. Veterans want more transparency into the status of their FMP registration and their FMP claims.
 3. Veterans experience a number of difficulties receiving reimbursement for their overseas care as a result of confusion over responsibility for certain forms of compensation within the VA, stringent documentation requirements, and slow mailing times.
 4. Veterans strongly prefer providers who will bill FMP directly, but depending on where they are located, there may not be any providers that do so.
 5. Many participants had misconceptions about the availability or coverage offered through the FMP. 
@@ -166,7 +166,7 @@ At least 5 out of 7 participants without FMP benefits didn’t know or misunders
 
 ### Finding 6: Veterans often had different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
 
-We heard feedback from some participants who had multiple homes or changed residence depending on the time of year that this can sometimes cause confusion when interacting with forms and programs like the registration form and FMP.
+There was feedback from some participants who had multiple homes or changed residences depending on the time of year that keeping their addresses and contact information up to date can sometimes cause confusion. This feeling seems to be exacerbated when interacting with programs like the FMP.
 
 
 
@@ -199,24 +199,23 @@ In this scenario, the Veteran is completely delaying their plans, potentially be
 P4: “Yeah. And I need to make sure it's solid. You know, I can't go over there and them saying things are working. And then, all of a sudden, things don't work. And there I am. It's you know. I've gotta know they're gonna work.”
 
 
-### Additional Insight 3: Provider Interactions: HCA
+### Additional Insight 3: Provider Interactions
 
 Some of the users explained that they were not interacting with FMP directly at all and were instead using the organization's services to register and file claims on their behalf. Concern had been expressed in the past about this situation, which prompted a desire for additional investigation and preservation of the information in order to pass it on to stakeholders so they can better understand how providers are interacting with Veterans regarding the FMP.
 
 
 
 * P5: I try to see doctors - We're in a unique situation with FMP - that, you know, all of my doctors where I live directly bill FMP for the most part.
-* P13: Yeah, they're (HCA) the ones that made me aware of it (FMP). You know, I wasn't really aware of the foreign medical program before them.
+* P13: Yeah, they're (provider) the ones that made me aware of it (FMP). You know, I wasn't really aware of the foreign medical program before them.
 * To provide some context P13 elaborates on what HCA is and the services they provide in Colombia: 
-    * They (HCA) initiate and submit claims for service and connected disabilities.
+    * They (provider) initiate and submit claims for service and connected disabilities.
     * They coordinate medical appointments related to the claims process.
-    * They (HCA) assist veterans and dependents in the enrollment process for eligible educational benefits.
+    * They (provider) assist veterans and dependents in the enrollment process for eligible educational benefits.
     * They assist in the fiduciary application process.
     * They assist in housebound or aid and attendance application process.
     * assist survivors and access accessing entitled benefits
     * provide detailed guidance and assistance with burial benefits.
     * Have VSOs on staff to assist Veterans
-* For further context, HCA is one of the largest for-profit healthcare conglomerates in the US. Based in Nashville, TN, ranked #66 on the Fortune 500, with 60 billion in revenue in 2022. They seem to have found a profitable niche in providing services to Veterans in overseas locations like Colombia in this case (which has a population of over 500 Veterans according to the participant). This information could be good to pass along to stakeholders for awareness if they aren’t already informed about some of the details. Understanding what is happening on the ground floor with these programs could help them coordinate better and adapt their services and processes to be more secure and beneficial to the Veterans involved in the program through these entities.
 
 ## **Recommendations**
 
