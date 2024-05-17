@@ -6,7 +6,7 @@ Date: 05/15/2024
 
 Cara Frissell [cara.frissell@adhocteam.us]
 
-RECOMMENDED REVIEW: [Research readout](link here)
+RECOMMENDED: [Travel Pay Status Page Findings Expanded.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/15358247/Travel.Pay.Status.Page.Findings.Expanded.pdf)
 
 ## **Research Goals**
 
@@ -185,7 +185,7 @@ All of the participants who signed in at the start needed direction to find the 
 
 **Recommendation 1:** Decide what capabilities to implement on status page
 
-_To add images: ![text](link - add image to github folder and link here with .png)_
+<img width="1404" alt="Screenshot 2024-05-17 at 4 10 05 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/9e98a1e1-f86c-4334-b2b3-1a1cd7d63259">
 
 
 **Recommendation 2:** Absent another way to start appeal, reconsider Help section
