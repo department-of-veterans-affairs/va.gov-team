@@ -54,7 +54,10 @@
 
 
 ### Key Performance Indicators (KPIs)
-- WAVE does not currently have KPIs | Baseline | Target | VYE Team plans to leverage Google Analytics and Domo through VA.gov to capture data and implement future KPIs.
+
+<details>
+
+ - WAVE does not currently have KPIs | Baseline | Target | VYE Team plans to leverage Google Analytics and Domo through VA.gov to capture data and implement future KPIs.
   
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
@@ -133,8 +136,18 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Narrative
 
 ### Current Status
-
+May 17, 2024: VYE is preparing to schedule Staging Review and Privacy, security, infrastructure readiness review 
 ### Key Decisions
+August 2023: Web Automated Verification of Enrollment (WAVE) changed to Verify Your Enrollment (VYE) to more closely align with the system's enhanced functionality but also represents the feature on VA.gov known as “Verify Your Enrollment.” 
+September 2023: VYE decided to keep using BDN/TIMS/NEWMAN and spool files for VYE backend because there is no other way to get claimant data until DGIB is completed. 
+October 2023: Creation of VYE Benefits Profile page (now called _Manage your benefits_) because VYE backend does not have the functionality to connect to VA Profile.
+October 2023: VYE and EDU decided to eliminate the administrative portion of WAVE to reduce noise in the web-applicaiton and because the functionality of the administrative page can be accomplished using VA data analytics integrations.
+February 2024: Creation of direct deposit form.
+February 2024: Creation of address change form. 
+March 2024: VYE decided to set up SFTP server to connect WAVE/VYE backend to VA.gov to keep claimant data secure. 
+March 2024: Creation of JSON schema. 
+March 2024: Start of creation of SFTP server. 
+May 2024: VYE Team and Platform decided to wait until after VYE launch on VA.gov to integrate VYE _Manage your benefits_ page with VA Profile. 
 
 ---
    
