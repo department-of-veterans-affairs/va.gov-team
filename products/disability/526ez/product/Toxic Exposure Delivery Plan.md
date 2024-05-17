@@ -66,16 +66,22 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
  
 
-#### Milestone: Migrate /submit endpoint
+#### Milestone: Migrate /submit endpoint and /generatePDF endpoint
 **Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)*       
 **Environment**: Production   
 **Building Blocks:**   
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
-   - [ ] Submit release plan
+   - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)
    - [ ] Submit dashboard
    - [ ] Submit Canary Launch
    - [ ] Submit staggered release
   - [ ] Revisit submit transformation & make any needed changes based on new LH submit endpoint schema
+  - [ ] Migrate Lighthouse generatePDF endpoint and release
+    - [ ] GeneratePDF release plan
+    - [ ] GeneratePDF dashboard
+    - [ ] GeneratePDF Canary Launch
+    - [ ] GeneratePDF release
+
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
 **Duration**: Sprint 34 (6/19 - 7/2/24)*    
