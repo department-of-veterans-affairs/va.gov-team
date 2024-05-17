@@ -19,7 +19,7 @@
 
 
 
-* Veterans want more transparency into the status of the registration and claims process at the FMP.
+* Veterans want more transparency into the status of their registration and claims at the FMP.
     * 4 out of 4 participants with FMP benefits expressed a desire for an easier way to keep track of their claims. 
 
 P8: “I would really like a website that would give me some visibility into this process so I don’t have to keep comprehensive notes about every contact, every bill, every $100. [I could] just send it off and not worry about whether or not it’s coming back and if I have to follow up. That would save me a lot of stress.”
@@ -58,8 +58,7 @@ P7: “I said, well, that's not what FMP is for. It's for anything because I'm r
 
 
 
-* Veterans often had more than two mailing addresses and phone numbers (These were often participants who spent part of the year at a second property) but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
-    * Veterans mentioned having at least two mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
+* Veterans often had more than two mailing addresses and phone numbers (e.g., those who spent part of the year at a second property) but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
 
 
 ### Opportuntities for improvement on the form
