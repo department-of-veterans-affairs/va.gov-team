@@ -58,6 +58,61 @@ Goal of the meeting series: addressing policy related or other open questions fo
 - Signature step
   - Is the date necessary to capture on the digital form?
     - No, we automatically generate the date based on when you submit
+   
+## 4/16/24 Biweekly VBA-DBEX Check-in
+### Notes
+- 0781 discovery work update & questions (Julie P, Nichole, Jina) [We’ll screenshare Mural to walk through](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710425395956/4f0a397015bbcaadd1a421ed60e8d8e185cf1b12?wid=0-1711129310221)
+  - How are the event type categories used? Is it important to include an event type with each event? Right now the new paper form does not attach an event type to each event.
+    - COMBAT TRAUMATIC EVENT(S) 
+    - PERSONAL TRAUMATIC EVENT(S) (not involving military sexual trauma (MST) 
+    - PERSONAL TRAUMATIC EVENT(S) (involving MST) (if checked review Section VI)
+    - OTHER TRAUMATIC EVENT(S) 
+  - Makes more sense to select the event type for each event description you put in, but ultimately we’ll need to map what Veteran selects to the paper form, so it probably makes sense to ask “what types of events do you have?” and keep it separate for now 
+    - Should we allow selecting multiple event types if we have one event?  
+      - Don’t assume event types would be mutually exclusive
+      - Event types don’t really help VBA confirm event, it’s really based on the event description
+    - “It’s important however we display the form online, it maps out to the paper form”
+  - Traumatic event dates - How does VBA use the Event date (i.e. 'we look a few months before and after the date you provide here')? 
+    - How would we like the Veteran to respond to cases where it isn't a single event, but a series of events or a pervasive culture across multiple locations?
+    - Present as text field instead of date field, so they can follow the examples for event dates in the new form
+      - If need be, we can always reach out to Veteran for additional info. Don’t make it a required field. Make everything optional. We don’t want to stop them from filing the claim 
+      - However, include messaging “The more info you give us and the more accurate it is, and the sooner you give it to us, the chances of your claim being processed faster are higher.” 
+  - “It helps us narrow down the time frame to look for markers we can use to validate the event / pervasive culture. Also possibly comparing it to other periods of time to find those markers”
+  - (only if time) New phone number included in the instructions which is different from the general hotline. Does this route folks to a specific helpdesk with folks trained on these types of claims?
+    - Previously 800-827-1000, now 800-698-2411
+    - Not familiar with this new number…  this isn’t a MST specific phone number either 
+    - Julie S. and Shante might know more about the call center numbers
+  - Paper mail communications sent after claim submission - per [Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712326990191919)
+    - There is a letter sent after a claim is established 
+      - but could be sent before it is fully established (ancillary job failures?)
+      - David has an example but needs to redact PII from it before sending 
+    - There are also other letters (when a claim is awarded, etc.)
+- 526 Paper Audit - outstanding items
+  - Question - Have you ever filed a claim before?
+    - Way we are saying yes or no is if there is a valid va file number, sounds like this isn’t the right way to infer data, should we add this question to the form?
+      - #4 isn't explicitly asked, it’s inferred right now. They could have file number without having filed a claim
+      - Is this any claim or disability claim?
+      - If it’s on the paper version its on the pdf we’re generating. 
+      - Just asking the question is okay to get it properly generated on the pdf, make it a yes/no
+    - Section VII Service pay #25 “Retired Status” does not appear as a question online, but could be baked into other parts of the UI
+      - Sounds like the recommendation here is to add in box 25 
+      - IF they say no to 24A and we give them 25, there should be an option to say none of those exist, which isn’t useful on the pdf
+      - If 24 A is marked yes, you should have to answer 24-25
+      - If 24 A is no, skip over 25
+  - Row 23
+    - Would like ssn is confirmed coming from VA Profile
+      - We need to confirm that the SSN we think is related to that veteran is associated with them, and have them confirm it's correct.
+      - Could make it uneditable in the UI but take another action to edit in the record database. 
+        - Would need to link them wherever they can change it. 
+  - Row 21
+    - Missing select claim type
+      - On paper form theres 4 options they have, we should ask them the same 4 options 
+  - Are any of these prioritized higher than others?
+    - Highest - TE
+    - Higher- Something missing from the form entirely (no technical discovery)
+    - Medium- Content
+
+
 
 
 
