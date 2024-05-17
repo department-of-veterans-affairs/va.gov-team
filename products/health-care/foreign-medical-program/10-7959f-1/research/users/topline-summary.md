@@ -19,7 +19,7 @@
 
 
 
-* Veterans want more transparency into the state of the registration and claims process at the FMP.
+* Veterans want more transparency into the status of the registration and claims process at the FMP.
     * 4 out of 4 participants with FMP benefits expressed a desire for an easier way to keep track of their claims. 
 
 P8: “I would really like a website that would give me some visibility into this process so I don’t have to keep comprehensive notes about every contact, every bill, every $100. [I could] just send it off and not worry about whether or not it’s coming back and if I have to follow up. That would save me a lot of stress.”
