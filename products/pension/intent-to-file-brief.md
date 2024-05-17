@@ -51,6 +51,12 @@ While an average of 12 days may not sound like a worthy difference to shift forw
 
 
 # Solution Approaches - PAUSED 5/16 (V0 is being defined)
+
+## V0 - Set ITF in the background
+### Goal - Establish ITF sooner for Veterans
+
+## V0.5 - Mirror 526?
+
 ## V1 - Introduce ITF functionality to pension web form
 ### Goal: Introduce intent to file functionality to enable more Veterans to receive an earlier effective date
 #### Why V1:
