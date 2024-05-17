@@ -164,7 +164,7 @@ At least 5 out of 7 participants without FMP benefits didn’t know or misunders
     * The above quote represents a misconception of FMP coverage. FMP does not cover all care in foreign countries - it only covers care related to service-connected conditions.
 
 
-### Finding 6: Veterans often had different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
+### Finding 6: Veterans sometimes had multiple mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
 
 There was feedback from some participants who had multiple homes or changed residences depending on the time of year that keeping their addresses and contact information up to date can sometimes cause confusion. This feeling seems to be exacerbated when interacting with programs like the FMP.
 
@@ -205,17 +205,17 @@ Some of the users explained that they were not interacting with FMP directly at 
 
 
 
-* P5: I try to see doctors - We're in a unique situation with FMP - that, you know, all of my doctors where I live directly bill FMP for the most part.
-* P13: Yeah, they're (provider) the ones that made me aware of it (FMP). You know, I wasn't really aware of the foreign medical program before them.
-* To provide some context P13 elaborates on what services they provide in Colombia: 
-    * They (provider) initiate and submit claims for service and connected disabilities.
+* P5: "I try to see doctors - We're in a unique situation with FMP - that, you know, all of my doctors where I live directly bill FMP for the most part."
+* P13: Yeah, [my provider is] the one that made me aware of [FMP]. You know, I wasn't really aware of the Foreign Medical Program before them."
+* To provide some context P13 elaborates on what services their preferred provider offers in Colombia: 
+    * The provider initiates and submits claims for service and connected disabilities.
     * They coordinate medical appointments related to the claims process.
-    * They (provider) assist veterans and dependents in the enrollment process for eligible educational benefits.
+    * They assist veterans and dependents in the enrollment process for eligible educational benefits.
     * They assist in the fiduciary application process.
     * They assist in housebound or aid and attendance application process.
-    * assist survivors and access accessing entitled benefits
-    * provide detailed guidance and assistance with burial benefits.
-    * Have VSOs on staff to assist Veterans
+    * They assist survivors and access accessing entitled benefits
+    * They provide detailed guidance and assistance with burial benefits.
+    * They ave VSOs on staff to assist Veterans
 
 ## **Recommendations**
 
