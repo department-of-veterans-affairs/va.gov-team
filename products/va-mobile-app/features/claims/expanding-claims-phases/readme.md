@@ -21,13 +21,15 @@
 * The [mobile] CST provides a more accurate depiction of the claims process, better aligning veterans' expectations with the reality of claim progression.
 
 ## Who's Who
+<details>
+
 ### VA Mobile
 * OCTO Product Owner - Rachel Han
 * Mobile Product Lead - Matt Hall
 * Product Management - Alayna Abel
 * UX/Design - Lauren Russell
 * Content - Misty Milliron-Grant
-* FE Engineering - Chris Alexanderson, Dylan Nienberg
+* FE Engineering - Chris Alexander, Dylan Nienberg
 * BE Engineering - Jayson Perkins
 
 ### Claims (Web Team)
@@ -36,5 +38,5 @@
 * UX/Design - Gary Homidas, Skyler Schain
 * Engineering - Jerek Shoemaker
 
-
+</details>
 
