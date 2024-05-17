@@ -13,10 +13,10 @@ Jump to:
 
 
 * [Hypotheses and conclusions](#Hypotheses-and-Conclusions)
-* [Key findings]()
-* [Recommendations]()
-* [Further research needed]()
-* [Who we talked to]()
+* [Key findings](#Key-Findings)
+* [Recommendations](#Recommendations)
+* [Further research needed](#Further-research-needed)
+* [Who we talked to](#Who-we-talked-to)
 
 
 ## **Research Goals**
