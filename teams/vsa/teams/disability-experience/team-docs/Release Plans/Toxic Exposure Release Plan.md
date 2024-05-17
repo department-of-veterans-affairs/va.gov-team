@@ -101,11 +101,9 @@ There are two use cases that we are considering for this release. For each, we p
 
 #### GetPDF (GeneratePDF):
 - [ ] LH Implementation
-- [ ] Planning - GeneratePDF Endpoint Release Plan - TBD
 - [ ] Internal Testing and Review
 - [ ] Pre-release Testing
 - [ ] Canary
- - Rollbacks:  
 
 #### Submit: 
 - [ ] LH Implementation
