@@ -213,10 +213,12 @@ _\[Medications List page\]_
 
 
 
-5. Please go to the top and sort alphabetically by name.  
+5. How do you think this list is ordered?
+
+  Please go to the top and sort alphabetically by name.  
 
   - \[If not already shared\] What are your thoughts on this sort feature?
-  - \[If not already shared\] Which of these options do you think you would use most often?
+  - \[If not already shared\] Which of these options do you think you would use most often? Why?
   - \[If not already shared\] Is there an option that is not listed here that you feel would work better for you?
 
 
