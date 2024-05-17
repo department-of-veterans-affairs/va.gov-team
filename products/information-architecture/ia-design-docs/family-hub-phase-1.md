@@ -79,11 +79,11 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
 - Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
 
-**10) CHAMPVA OHI 10-7959c - ADD**
+**10) CHAMPVA OHI 10-7959c - ADD** 
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/other-insurance-form-10-7959c/
 - Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
 
-**11) File champva Claim 10-7959a - ADD**
+**11) File champva Claim 10-7959a - ADD** KRISTIN THINKS THIS IS WRONG SO NOT FINAL!
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/
 - Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
 
