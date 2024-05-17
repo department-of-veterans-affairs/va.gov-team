@@ -10,4 +10,8 @@
 
 **[Medications Usability Testing Round1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1)**
 - The question was "What other types of supplies or non-medication items would you expect to find on this list?"
-- Many supplies were mentioned by participants when asked what types of supplies or non-medication items they expected to find on the medications list page. Keywords are aid, alcohol, bandage, brace, CPAP, device, diabetic, glucose, hear(ing), insulin, machine, monitor, non (medical), pad(s), strip(s), supply, and syringe. 
+- Many supplies were mentioned by participants when asked what types of supplies or non-medication items they expected to find on the medications list page. Keywords are aid, alcohol, bandage, brace, CPAP, device, diabetic, glucose, hear(ing), insulin, machine, monitor, non (medical), pad(s), strip(s), supply, and syringe.
+  
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/65574620/a69b844d-999b-4a7e-bcf0-b8a5ae0a38a1)
+
+
