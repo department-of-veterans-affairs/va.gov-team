@@ -116,7 +116,7 @@ All received mail is routed with bubble sheets, and there are errors all the tim
 
 
 
-* To reduce error rates and processing time, look for more opportunities to eliminate or work around swivel chair interactions or paper processes. Based on the research, these are the areas in which the forms digitization effort could potentially have the most impact.
+* To reduce error rates and processing time, look for more opportunities to eliminate or work around swivel chair interactions (processes that require manual input from one system to another) or paper processes. Based on the research, these are the areas in which the forms digitization effort could potentially have the most impact.
 * One example of the type of potential opportunities we are looking for results from the character limits for VISTA. In the future, we recommend that the information we push from the form to PEGA be the new source of truth for addresses, service-connected disabilities, etc., to circumvent the confusion that VISTA causes with abbreviations. To do this, we will need to ensure that the information we collect meets the business’ standards and communicate successfully to PEGA where it needs to go or what additional functionality will be needed to facilitate their process (In this example, we are going to need to make sure that PEGA can produce the letter with the pre-populated information or pass that info over to the printer application). 
 
 
@@ -169,7 +169,6 @@ Leaders have done a podcast, and there are also existing YouTube videos. They wa
 
 
 * Consider adding the Veteran’s email to the form and emailing Veterans when their registration has been added or claim has been processed.
-* This is another collaboration opportunity with stakeholders and other teams that are working on the related portal.
 
 
 ### Finding 6: Stakeholders are concerned about fraud, particularly from providers.
