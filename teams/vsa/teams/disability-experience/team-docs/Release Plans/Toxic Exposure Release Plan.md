@@ -77,9 +77,9 @@ There are two use cases that we are considering for this release. For each, we p
 
 | Phase | Milestone | Target Dates | Status | Notes |
 |---|---|---|---|---|
-|1 |Gulf War exposures|May 21, 2024|   | On Track|
+|1 |Gulf War exposures|May 21, 2024|In Progress | On Track|
 |2 |Herbicide & Hazards|June 04 2024| | Potential delay by 5103 FDC update 5/16/24 |
-|3 |Launch Preparation|June 18 2024| | | |
+|3 |Launch Preparation|June 18 2024|In Progress |   |   |
 |4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH|
 |5 |Migrate submit functionality to LH|June 2024|   |Pending LH implementation (est. staging early June)|
 |6 |New TE Applications|June 27 2024*| | Dependent on complete submit migration completion| 
