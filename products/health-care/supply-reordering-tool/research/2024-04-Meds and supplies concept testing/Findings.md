@@ -156,12 +156,11 @@ This finding applied to all 3 options (see the screenshot below for the list pag
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
-
 * Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+
+Here's [a list of medical supplies-related research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md) with highlights on Veterans feedback and behaviors and expectations around medications and medical supplies. 
+
+
 
 
 ## Next Steps
