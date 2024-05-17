@@ -10,6 +10,7 @@
 | va_online_scheduling_booking_exclusion | Allows the exclusion of sites from appointment scheduling | n/a | n/a | n/a | assists in the cutover of sites to Oracle Health (Cerner) |
 | va_online_scheduling_cancellation_exclusion | Allows the cancellation exclusion of appointments | n/a | n/a | n/a | assists in the cutover of sites to Oracle Health (Cerner) |
 | va_online_scheduling_datadog_RUM | Enables datadog Real User Monitoring. | [#78115](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/78115) | n/a | n/a |
+| va_online_scheduling_cc_direct_scheduling | Enables CC direct scheduling. | [#83383](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/83383) | n/a | n/a |
 | va_online_scheduling_cancel | Allows veterans to cancel VA appointments
 | va_online_scheduling_GA4_migration |  A feature toggle to update the tracking events to Google Analytics 4
 | ~~va_online_scheduling_clinic_filtering~~ | Enables toggling of clinic stop code filtering and coordination with VAOS service team | [#74659](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/74659) |n/a | n/a 
