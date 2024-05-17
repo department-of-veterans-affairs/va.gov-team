@@ -55,8 +55,6 @@
 
 ### Key Performance Indicators (KPIs)
 
-<details>
-
  - WAVE does not currently have KPIs | Baseline | Target | VYE Team plans to leverage Google Analytics and Domo through VA.gov to capture data and implement future KPIs.
   
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
