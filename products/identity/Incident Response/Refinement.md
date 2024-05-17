@@ -46,3 +46,42 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 ### Identity Processes Previously Established
 - [SSOe Outage on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/SSOe_Outage_Response.md)
 - [Update Monitors Alerts Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) (very old, should be deleted after mined for use)
+
+## Incident Management System
+### Definition
+A tool which allows for the centralized location of in progress and closed incident information.
+- Identity can review, assign, prioritize and track tickets through their lifecycle.
+
+### Things to solve
+- Who is triaging incoming issues?
+- Who creates & assigns initial tickets?
+
+## Outage Communication
+### Definition
+- Information about an incident -- planned outages out of scope --is posted to:
+  - VA.gov sign-in page
+  - Public Identity slack channel
+  - Email distro for internal customers not on slack
+
+### Guidelines
+- Communication should make sense: not overwhelming, but not Pony Express, either.
+- Externally if Vets logging in need to know
+- Internally to the team (to assign, metrics, tracking)
+- Timely notification
+- Clear and concise messaging
+- Regular updates
+- Estimated time to resolution
+
+### Things to solve
+- How do we navigate incident comms when fault is not ours but depends on other agency’s response?
+- How is blame approached during unknowns?
+- Or when both Identity and other are responsible?
+
+### What Platform Does
+- Veterans
+  - Use appropriate tooling and communication channels to ensure Veterans are aware of the issue as necessary and do not spend time doing work that will be lost. This may include:
+    - Adding a downtime notification
+    - Disabling a given app or feature
+    - Direct communications such as emails, other alerting, etc.
+- Stakeholders
+  - Ensure that your VA points of contact are informed and aware of the issue, its impact and expected resolution timeline. Please include a link to issues and/or slack conversations so that they may keep up to date on progress.
