@@ -1,4 +1,4 @@
-On Thursday, May 16, 2024, the Identity Team heald a refinement for Incident Repsonse. Here's what we came up with.
+On Thursday, May 16, 2024, the Identity Team held a refinement for Incident Repsonse. Here's what we came up with.
 
 ## Problem Statement
 We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov, we need to implement and communicate a formalized Incident Response process which includes the following:
