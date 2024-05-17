@@ -2,7 +2,7 @@
 
 All the touchpoints where the medication language will appear
 
-## Appointments FE
+## Appointments Web (MHV on VA.gov)
 
 Slack channel: #appointments-team
 
@@ -18,6 +18,8 @@ Slack channel: #appointments-team
 
 ## Check-in Experience
 
+[Add reason]
+
 ## Pre-check-in confirmation and details
 
 - VA In-person
@@ -30,14 +32,21 @@ Same as Appointments FE.
 
 TBD
 
+MAS - not going to worry about that
+MHV - Moving over to VA notify - 
+
 ## Text reminders
 
-TBD
+[Add reason - they already get this in PCI]
 
 ## MHV Classic
 
-TBD (likely the same as Appointments FE)
+TBD (likely the same as Appointments Web)
 
-## My VA Health portals
+Need to talk to Brescia Lipscomb about this
 
-TBD
+## VA Video Care
+Need to work with team to determine how to deal with existing messaging in Emails and (other locations?)
+
+## My VA Health (OH) porta
+Same as appointments web. Need to talk to that team.
