@@ -4,6 +4,7 @@
 **[MHV on VA.gov Secondary Navigation Comparison Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-findings.md)**
 - The majority thought they'd find CPAP supplies under Medications. This was both when participants were looking at the secondary navigation (top anchor links) and when they were looking at the landing page.
 - Participants seem very committed to their assessment that CPAP would fall under Medications, to the point that they thought they'd find it in the Medications box (Link: refill) on the landing page (even though a clear CPAP re-ordering link is lower on that same page).
+- There are other factors that affect this behavior (e.g. only medications link on the new design and it's difficult to scroll on mobile)
 
 **[My Health I.A. Tree Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-01-my-health-ia-tree-test)**
 - Only 1 person went to medications to order hearing aid batteries. The task of ordering hearing aid batteries (in the top level menu - medical supplies) was 94% successful and mostly all direct success. 
