@@ -79,7 +79,7 @@ There are two use cases that we are considering for this release. For each, we p
 |---|---|---|---|---|
 |1 |Gulf War exposures|May 21, 2024|In Progress | On Track|
 |2 |Herbicide & Hazards|June 04 2024|In Progress | Potential delay by 5103 FDC update 5/16/24 |
-|3 |Launch Preparation|June 18 2024*|Planned |   |   |
+|3 |Launch Preparation|June 18 2024*|Planned |   | Staging review intended to start on 6/18/24, assuming UI updates complete|
 |4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH|
 |5 |Migrate submit functionality to LH|June 2024|   |Pending LH implementation (est. staging early June)|
 |6 |New TE Applications|June 27 2024*| | Dependent on complete submit migration completion| 
@@ -93,11 +93,20 @@ There are two use cases that we are considering for this release. For each, we p
 | Phase | Description | Flipper Status - Percentage | Visible Form | Notes |
 |---|---|---|---|---|
 |4 | Submit |Off - 0% | 2022 |
-|5 | GetPDF |Off - 0% | 2022 |
+|5 | GetPDF | N/A | 2022 | GenPDF pre-launch and Canarying are a dependency for Submit, however both will share a rollout
 |6 | New TE Applications |On | 2022 | Per ToT 5/16 this will be combined with Submit |
 |7 | Veterans with an IPF |Off | 2022 |
 
 ## Rollouts 
+
+#### GetPDF (GeneratePDF):
+- [ ] LH Implementation
+- [ ] Planning - GeneratePDF Endpoint Release Plan - TBD
+- [ ] Internal Testing and Review
+- [ ] Pre-release Testing
+- [ ] Canary
+ - Rollbacks:  
+
 #### Submit: 
 - [ ] LH Implementation
 - [x] Planning [Submit Endpoint Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)
@@ -106,15 +115,6 @@ There are two use cases that we are considering for this release. For each, we p
 - [ ] Canary
 - [ ] Staged Rollout
  - Rollbacks:
- 
-#### GetPDF (GeneratePDF):
-- [ ] LH Implementation
-- [ ] Planning - GeneratePDF Endpoint Release Plan - TBD
-- [ ] Internal Testing and Review
-- [ ] Pre-release Testing
-- [ ] Canary
-- [ ] Staged Rollout
- - Rollbacks:  
 
 #### Post-Release:
 1. add TE pages to Google analytics in Domo (can we do this sooner?)
