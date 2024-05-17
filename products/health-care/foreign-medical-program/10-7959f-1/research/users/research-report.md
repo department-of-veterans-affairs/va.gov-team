@@ -12,7 +12,7 @@ Jump to:
 
 
 
-* [Hypotheses and conclusions](##Hypotheses-and-Conclusions)
+* [Hypotheses and conclusions](#Hypotheses-and-Conclusions)
 * [Key findings]()
 * [Recommendations]()
 * [Further research needed]()
