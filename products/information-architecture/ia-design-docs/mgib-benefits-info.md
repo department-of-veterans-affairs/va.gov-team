@@ -32,8 +32,8 @@ This page will live on the same level as verifying enrollments page.
 
 **1) H1 of page - New**
 - URL: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
-- Breadcrumb: VA.gov home > Education and training > H1 of page (/mgib-enrollments page) > H1 of page
-- Notes: This page will live within the MGIB Verify your Enrollment tool, but will eventually be integrated into the global va.gov Profile.
+- Breadcrumb: VA.gov home > Education and training > H1 of page (`/mgib-enrollments page`) > H1 of page
+- Notes: This page will live within the MGIB Verify your Enrollment tool, but will eventually be integrated into the global va.gov Profile. Ensure breadcrumb matches H1.
 
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
