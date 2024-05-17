@@ -45,13 +45,13 @@ The overarching research goals for this project were:
 
 
 
-* Will users understand the content on the 10-7959f-1 digital form?
-    * Are there any sections in the content of this form that Veterans find confusing?
+* Will ers understand the content on the 10-7959f-1 digital form?
+    * Are there any sections in the content of this form that Veterans find confing?
     * Is there anywhere where additional content could provide clarity for Veterans?
-* What are major pain points users encounter with the 10-7959f-1 digital form or with the FMP?
+* What are major pain points ers encounter with the 10-7959f-1 digital form or with the FMP?
     * What are the opportunities to improve the form flow?
     * What are the opportunities to improve individual components?
-*  What are major pain points users encounter with the FMP?
+*  What are major pain points ers encounter with the FMP?
 
 
 ## **Methodology**
@@ -59,16 +59,16 @@ The overarching research goals for this project were:
 We conducted hour-long remote moderated research sessions via Zoom from March 18 - 29, 2024. Participants were asked to think aloud while navigating a [Figma prototype](https://www.figma.com/proto/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?page-id=732%3A40895&type=design&node-id=732-41541&viewport=-1546%2C-54%2C0.25&t=5E0jHhR2ptW6Vm4D-1&scaling=scale-down&starting-point-node-id=732%3A41541) of the unauthenticated experience and were then asked a series of open-ended questions regarding their experience with FMP.
 
 
-## **Hypotheses and Conclusions**
+## **Hypotheses and Conclions**
 
 
 
-* **Users will be able to easily understand the content on the 10-7959f-1 digital form.**
+* **ers will be able to easily understand the content on the 10-7959f-1 digital form.**
     * Mostly true.
     * Participants were able to move quickly and easily through the registration form. 
-    * 7 out of 11 participants experienced some confusion when asked for their home and mailing addresses. Though most were able to clearly articulate the difference when asked, they generally skimmed the content and didn’t initially understand why they were being asked for two different addresses.  
-    * 1 participant mentioned they had two different mailing addresses and wouldn’t know how to properly indicate to the FMP which one to use when.
-* **Participants will mention pain points with FMP such as lengthy processing time for claims, lack of electronic funds transfer, frustration with the lack of online submission options, and lack of visibility into registration and claims status.**
+    * 7 out of 11 participants experienced some confion when asked for their home and mailing addresses. Though most were able to clearly articulate the difference when asked, they generally skimmed the content and didn’t initially understand why they were being asked for two different addresses.  
+    * 1 participant mentioned they had two different mailing addresses and wouldn’t know how to properly indicate to the FMP which one to e when.
+* **Participants will mention pain points with FMP such as lengthy processing time for claims, lack of electronic funds transfer, frtration with the lack of online submission options, and lack of visibility into registration and claims stat.**
     * Definitely true.
     * All participants mentioned one or more of these pain points.
 * **For Veterans participating in the Veteran Readiness and Employment (VR&E) (also known as Chapter 31; formerly known as the VA Vocational Rehabilitation Program), we hypothesize that they will be frustrated by not knowing what might be covered.**
@@ -178,7 +178,7 @@ We heard feedback from some participants who had multiple homes or changed resid
 
 ### Additional Insight 1: Misunderstanding FMP coverage
 
-P7 explained to us a scenario where they were unable to get care due to a misunderstanding of what the program covers, and when that coverage becomes available. They had a cardiac condition for which they had filed a disability claim and were trying to seek preventative care while the claim was ongoing. We are aware that the disability claims process can often take an extended period of time, and they didn’t understand why they were not able to get coverage in the interim. \
+P7 explained a scenario where they were unable to get care due to a misunderstanding of what the program covers, and when that coverage becomes available. They had a cardiac condition for which they had filed a disability claim and were trying to seek preventative care while the claim was ongoing. We are aware that the disability claims process can often take an extended period of time, and they didn’t understand why they were not able to get coverage in the interim. \
  \
 P7: “I said, well, that's not what FMP is for. It's for anything because I'm residing in a foreign country. So, anyway, not having to blame belabor the point, it was just very frustrating to get a straight answer from anybody.” \
  \
@@ -201,7 +201,7 @@ P4: “Yeah. And I need to make sure it's solid. You know, I can't go over there
 
 ### Additional Insight 3: Provider Interactions: HCA
 
-Some of the users explained to us that they were not interacting with FMP directly at all and were instead using the organization's services to register and file claims on their behalf. Concern had been expressed to us in the past about this situation, and we wanted to look further into this and preserve the information in order to pass it on to stakeholders so they can better understand how providers are interacting with Veterans regarding the FMP.
+Some of the users explained that they were not interacting with FMP directly at all and were instead using the organization's services to register and file claims on their behalf. Concern had been expressed in the past about this situation, which prompted a desire for additional investigation and preservation of the information in order to pass it on to stakeholders so they can better understand how providers are interacting with Veterans regarding the FMP.
 
 
 
@@ -216,7 +216,7 @@ Some of the users explained to us that they were not interacting with FMP direct
     * assist survivors and access accessing entitled benefits
     * provide detailed guidance and assistance with burial benefits.
     * Have VSOs on staff to assist Veterans
-* For further context, HCA is one of the largest for-profit healthcare conglomerates in the US. Based in Nashville, TN, ranked #66 on the Fortune 500, with 60 billion in revenue in 2022. They seem to have found a profitable niche in providing services to Veterans in overseas locations like Colombia in this case (which has a population of over 500 Veterans according to our participant). This information could be good to pass along to stakeholders for awareness if they aren’t already informed about some of the details. Understanding what is happening on the ground floor with these programs could help them coordinate better and adapt their services and processes to be more secure and beneficial to the Veterans involved in the program through these entities.
+* For further context, HCA is one of the largest for-profit healthcare conglomerates in the US. Based in Nashville, TN, ranked #66 on the Fortune 500, with 60 billion in revenue in 2022. They seem to have found a profitable niche in providing services to Veterans in overseas locations like Colombia in this case (which has a population of over 500 Veterans according to the participant). This information could be good to pass along to stakeholders for awareness if they aren’t already informed about some of the details. Understanding what is happening on the ground floor with these programs could help them coordinate better and adapt their services and processes to be more secure and beneficial to the Veterans involved in the program through these entities.
 
 ## **Recommendations**
 
@@ -296,7 +296,7 @@ Research should continue moving forward to address the usability of the form ove
 
 Recruitment criteria
 
-Our intended audience for this research was Veterans who are eligible for FMP. We placed additional emphasis on expats due to the nature of the program.
+The intended audience for this research was Veterans who are eligible for FMP. We placed additional emphasis on expats due to the nature of the program.
 
 We talked to 13 participants. Two were excluded from analysis for a total of 11 participants.
 
