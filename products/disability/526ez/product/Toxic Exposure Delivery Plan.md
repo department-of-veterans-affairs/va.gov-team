@@ -89,7 +89,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
     - [ ] GeneratePDF release plan     
     - [ ] GeneratePDF dashboard     
     - [ ] GeneratePDF Canary Launch    
-    - [ ] GeneratePDF release     
+    - [ ] GeneratePDF release
+- [ ] Schedule staging review
 
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
