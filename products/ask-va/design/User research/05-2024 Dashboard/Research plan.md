@@ -36,7 +36,6 @@ The key goals of this study are to:
 
 * Understand how submitters find a question in their dashboard
 * Understand what submitters need to learn when they review their question's details
-* Understand whether submitters can learn the status of their inquiry without signing in
 
 ### Outcome
 
@@ -61,14 +60,6 @@ Understand what submitters need to learn when they review their question's detai
 * Do people scroll down to check the reply from VA, and can they find it?
 * Do submitters understand how or if they can reply back to VA?
 * If they can't reply to VA, what would submitters do if they have an issue or follow-up question?
-
-Understand whether submitters can learn the status of their inquiry without signing in:
-* Can people find where to search to check their question's status without signing in?
-* Do people know where to find their reference number?
-* Why might people choose to check their question's status without or before signing in?
-* Do the statuses, icons and descriptions make sense in this context?
-* Are people aware they can sign in to review the details, if they authenticated originally?
-* If available, can people make the jump from checking the status of their question (before sign in) to signing in?
 
 ### Hypotheses
 
@@ -215,3 +206,15 @@ Sessions will be limited to no more than 5 people, including 1 participant, 1 mo
 
 - Becky Phung, PO on [DATE]
 - Shane Strassberg, VA Research Ops on [DATE]
+
+## Archive
+
+We decided to remove a goal from this research study, after discussing scope with our PO. However, it's captured here in case we need to reference it in the future.
+
+Understand whether submitters can learn the status of their inquiry without signing in:
+* Can people find where to search to check their question's status without signing in?
+* Do people know where to find their reference number?
+* Why might people choose to check their question's status without or before signing in?
+* Do the statuses, icons and descriptions make sense in this context?
+* Are people aware they can sign in to review the details, if they authenticated originally?
+* If available, can people make the jump from checking the status of their question (before sign in) to signing in?
