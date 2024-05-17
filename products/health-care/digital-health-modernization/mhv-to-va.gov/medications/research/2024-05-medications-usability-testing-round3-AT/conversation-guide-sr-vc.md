@@ -81,7 +81,7 @@ _\[Landing page\]_
 
 [Medications will change as they are consumed by participants] 
 
-2. Please refill the Benzonatate and Calamine lotion. Benzonatate starts with B like bravo, E like echo, N like November, Z like Zulu. Calamine starts with C like Charlie, A like Alpha, L like lima, O like Oscar. 
+2. Please refill the Benzonatate and Calamine lotion. Benzonatate starts with B like bravo, E like echo, N like November, Z like Zulu. Calamine starts with C like Charlie, A like Alpha, L like lima, A like Alpha. 
 
 \[do not interrupt participant, collecting ToT\]
 
