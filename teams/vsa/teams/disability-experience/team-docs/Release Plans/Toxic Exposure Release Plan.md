@@ -62,13 +62,13 @@ In addition to adding TE sections to the digital form, this release also include
 2. The target delivery date, while identified, is variable depending on Lighthouse availability and any other time sensitive, urgent work that needs to be done. Prioritizing urgent work will impact the delivery target date.
 
 ## Use Cases
-There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to incrementally route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. As Flipper controls access to the new form (via a conditional flag) the moment a Veteran starts a new claim, Veterans with an active session will not be directed to the new form.
+There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to incrementally route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. As Flipper controls access to the new form (via a conditional flag) the moment a Veteran starts a new claim, Veterans with an InProgressForm will not be directed to the new form initially.
 
 ### 1. New Applications
-- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans will not have an IPF, and may or may not have a previous Intent To File (ITF). Exact traffic targets have yet to be determined.
+- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans will not have an IPF, and may or may not have a previous Intent To File (ITF).
 
 ### 2. Veterans With an In Progress Form
-- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. Unlike New Applications, these Veterans will have an IPF and an ITF. Exact traffic targets have yet to be determined. 
+- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, initially exnluding the new Toxic Exposure section. Unlike New Applications, these Veterans will have an IPF and an ITF.
 
 
 ## Timelines and Key Components
