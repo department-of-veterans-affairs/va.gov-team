@@ -207,7 +207,7 @@ Some of the users explained that they were not interacting with FMP directly at 
 
 * P5: I try to see doctors - We're in a unique situation with FMP - that, you know, all of my doctors where I live directly bill FMP for the most part.
 * P13: Yeah, they're (provider) the ones that made me aware of it (FMP). You know, I wasn't really aware of the foreign medical program before them.
-* To provide some context P13 elaborates on what HCA is and the services they provide in Colombia: 
+* To provide some context P13 elaborates on what services they provide in Colombia: 
     * They (provider) initiate and submit claims for service and connected disabilities.
     * They coordinate medical appointments related to the claims process.
     * They (provider) assist veterans and dependents in the enrollment process for eligible educational benefits.
