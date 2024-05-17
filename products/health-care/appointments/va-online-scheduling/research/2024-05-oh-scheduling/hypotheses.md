@@ -8,13 +8,23 @@ We'll use these when developing the research plan. Our main goal is to test the 
 ### Hypotheses 
 
 Veterans will want to choose a specific provider for most types of care.
+- Do their needs change between Primary care and specialty?
+- Do their needs change between established care and new care?
 
 Veterans will want to choose a provider by whoever has the soonest availability
 
-### Tasks
+### Scenarios
 
-- Select a provider
-- Select a time
+1. A Veteran wants to schedule an appointment for primary care with their established provider.
+
+2. A Veteran wants to schedule an appointment for specialty care (like audiology) and doesn't have an established provider.
+- Is the information provided helpful? What would be more useful?
+- (Might be answered in the cc study) What sorting/filtering options would be helpful?
+
+3. A Veteran scheduling an appointment for specialty care (like weight management) at an OH facility selects the "any provider" option.
+
+4. A Veteran scheduling an appointment for specialty care (like eye care) at an OH facility selects "I need a different provider"
+
 
 ## Scheduling Improvements
 
