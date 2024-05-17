@@ -1,8 +1,7 @@
 # Running Design and Research Share-out Agenda
 
 
-## Notes
-
+## May 13, 2024: Notes
 
 
 * Facilitator: Syd 
@@ -19,18 +18,15 @@
         * Flow/wire changes to select 1 payment destination per submission
             * Matches current PDF experience
             * Editable within separate accordion on review page
-            * Removes item by item complexity \
+            * Removes item by item complexity 
 
-    * Approval status for adding the email address field on the OHI and CHAMPVA Claim form: \
+    * Approval status for adding the email address field on the OHI and CHAMPVA Claim form: 
 Premal to continue conversation about this. Will also have to think about if we should add those additional Third Party Signer questions in the OHI and Claims form 
     * LL: Please update Figma and Mural with names of forms - [see this example](https://www.figma.com/files/project/175597680/Healthcare-Benefits-Applications?fuid=1316453733215858250) and [this example](https://app.mural.co/t/departmentofveteransaffairs9999/r/1670613238628) - let me know if you can’t access
         * Premal: start referring to the name of the form instead of the form number
 
 
-## |
-
-
-## Notes
+## May 6, 2024: Notes
 
 
 
@@ -42,7 +38,7 @@ Premal to continue conversation about this. Will also have to think about if we 
             * Overview of Collab Cycle process
             * Process of getting ready for Design Intent
             * Sharing the actual items used in Design Intent
-            * Premal: Keep the sprint review relevant to the intended audience. \
+            * Premal: Keep the sprint review relevant to the intended audience. 
 
     * 10-7959f-2 alignment on Design Intent changes (**_Brian_**)
         * Add page for repeat address functionality (yes/no) - Yes
@@ -53,9 +49,9 @@ Premal to continue conversation about this. Will also have to think about if we 
         * Re-order page on uploads - talking about what to send before upload (yes/no) - Yes
             * Brian will continue to work on the order of this information in the designs.
         * Clarify entry points (WHO…)
-            * 
+          
         * Display thumbnails… seen before? (yes/no) - No
-        * ~~Use v3 of upload file components (yes/no)~~ \
+        * ~~Use v3 of upload file components (yes/no)~~ 
 
     * User Journey Map for combined 10-7959f-1 and f-2? (**_Brian_**)
         * Think this would support understanding of current experience
@@ -66,7 +62,7 @@ Premal to continue conversation about this. Will also have to think about if we 
             * Jamie put out an ask to schedule a Mid-point.
         * Power of Attorney topic 
             * Jamie to follow up on Slack with this conversation topic.
-            * Bo: What do we expect to have to show as a deliverable on our side? \
+            * Bo: What do we expect to have to show as a deliverable on our side? 
 Jamie: Not much we can deliver, this would be waiting on CAIA for now.
             * 
     * Parking Lot: Making Research Durable; prioritizing research; service design work
@@ -77,15 +73,11 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
         * Premal: Would like to potentially do a workshop to determine how valuable different paths would be.
         * Going to continue at the research meeting tomorrow.
         * ~~Capture information in Premal’s Mural board around what could be done and what needs to be worked on.~~
-        * Rachael/Steven to create the same type of prioritization workshop on the roadmap Mural. \
- \
+        * Rachael/Steven to create the same type of prioritization workshop on the roadmap Mural. 
+ 
 
 
-
-## |
-
-
-## Notes
+## April 29, 2024: Notes
 
 
 
@@ -96,7 +88,7 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
         * Updated user flow: 
             * Remove checkbox and add if it is provider paid or not. 
             * Keeping it simple and reduce burden by only requiring the receipt upload and not adding additional input. 
-            * Discussed future scope of building out an enhance experience for repeat provider info \
+            * Discussed future scope of building out an enhance experience for repeat provider info 
 
         * Updated screens
             * May need to revisit the “who to pay” dropdown. Maybe a good thing to research but shouldn’t keep us from going to Design Intent
@@ -127,10 +119,7 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
         * OHI decided to go with single flow.
 
 
-## |
-
-
-## Notes
+## April 22, 2024: Notes
 
 
 
@@ -201,10 +190,7 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
     * Rachael, Syd, Steven go to user interview
 
 
-## |
-
-
-## Notes
+## April 15, 2024 Notes
 
 
 
@@ -232,11 +218,7 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
         * For AT users, please do not come late or leave early.
 
 
-## |
-
-
-## Notes
-
+## April 8, 2024: Notes
 
 
 * Facilitator: Brian
@@ -244,8 +226,7 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
 * Agenda topics:
     * 10-7959f-2 
         * Stakeholder interviews
-            * Completed 3 of 4, Final interview scheduled for 4/10 \
--closing this sprint’s ticket
+            * Completed 3 of 4, Final interview scheduled for 4/10 - closing this sprint’s ticket
         * User flow selection
             * Going with option A (resources and dependencies
             * NOT Vendor/Provider specific versions
@@ -254,21 +235,17 @@ Jamie: Not much we can deliver, this would be waiting on CAIA for now.
             * Will reach out to CAIA at OH to ask for review prior to DI
 * Stakeholder question “insight”
     * Perhaps show context of why the answer/input might matter to the design process
-    * And adding visually may help add context (to get the right answer). \
- \
+    * And adding visually may help add context (to get the right answer). 
+ 
 
-* Is there a better process to give a general traffic indication on forms that are in-flight \
- \
-More top-level indication? \
- \
- \
+* Is there a better process to give a general traffic indication on forms that are in-flight 
+  
+More top-level indication? 
+
 NOTE: A lot of off-sites are upcoming for both team members and stakeholders.
 
 
-## |
-
-
-## Notes
+## April 1, 2024: Notes
 
 
 
@@ -277,14 +254,14 @@ NOTE: A lot of off-sites are upcoming for both team members and stakeholders.
 * Agenda topics:
     * Update on [f-1 user testing](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710433090315/7e8ea973b4ac3315c1e20d5c70799e326863f9f5?sender=u3844370d13a440a7859d3526)
         * More participants are coming this week, we are on 3 of 5.
-        * Did we need more notetakers for today? No, we are good \
+        * Did we need more notetakers for today? No, we are good 
 
     * 10-7959f-1 Staging review discussion (Edits/Backlog to ready?)
         * Brian making notes on f-1 prototype to staging differences
         * What is the right format to hand over to the Eng? Should it be an epic or something larger than ticket? Should we wait for user testing results to hand over? Discuss with Rachael E during the engineering sync on preference
-        * Middle initial vs Middle name: Design System has initial, users expecting initial as well \
+        * Middle initial vs Middle name: Design System has initial, users expecting initial as well 
 
-        * Rachael has [a11y testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) she needs to conduct as part of staging review, which needs to be** completed 4 days before we schedule staging review**
+        * Rachael has [a11y testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) she needs to conduct as part of staging review, which needs to be **completed 4 days before we schedule staging review**
             * May need a dev partner - TBD
             * If I find bugs, should I go ahead and make the ticket myself? Template?
             * Need a better time estimate on how long this will take. It will depend on the size of the screen. F1 is too far out to be thinking about this, more concerned with 1010D a11y testing
@@ -295,10 +272,10 @@ NOTE: A lot of off-sites are upcoming for both team members and stakeholders.
         * Since we’re testing in staging, Rachael would like to do some a11y testing before we go to AT users
         * For 1010D lets do a11y testing before AT user testing. Don’t want to make changes during testing. May have to push out 1010d testing submission. 
         * Let’s do a baseline before we submit for research review 
-        * Might be able to send the request for user testing to Shane before a11y testing. We will have to ask Shane if this is ok because it means there may be iterations/ rescheduling AT sessions. Rachael will ping Shane and ask. Steven and Rachael to write AT user screener questions.  \
+        * Might be able to send the request for user testing to Shane before a11y testing. We will have to ask Shane if this is ok because it means there may be iterations/ rescheduling AT sessions. Rachael will ping Shane and ask. Steven and Rachael to write AT user screener questions.  
 It we need to do a11y testing before submitting we may have push off submission review for Shane, maybe by 4/9 depending if the PR gets approved today
         * Need to make updates to convo guide and research plan and pass it off to Lois for review
-        * Rachael will be out Fri and Mon can prioritize a11y testing, Jamie and Steven for support \
+        * Rachael will be out Fri and Mon can prioritize a11y testing, Jamie and Steven for support 
 
     * 10-7959f-2 Stakeholder interviews
         * Completed 1 of 4 
@@ -310,10 +287,7 @@ It we need to do a11y testing before submitting we may have push off submission 
         * Approaching 7959a in conjunction: can we be smart about user-testing both and make this a combined initiative? 
 
 
-## |
-
-
-## Notes
+## March 25, 2024: Notes
 
 
 
@@ -332,50 +306,38 @@ It we need to do a11y testing before submitting we may have push off submission 
     * Email addresses & phone numbers across products -Steven
 
 
-## |
-
-
-## Notes
+## March 18, 2024: Notes
 
 
 
 * Facilitator: Brian
 * Next meeting facilitator: Steven
 * Agenda topics:
-    * F-1 user testing - [notetaker signups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710433090315/7e8ea973b4ac3315c1e20d5c70799e326863f9f5?sender=u50b7e26ebf5d18d7d4312080) \
- \
-_Please fill in if you are interested in note taking… we only need 2 note takers each instance. We do not need to overwhelm the users. And don’t feel obligated to attend sessions that are outside of working hours._ \
- \
-
+    * F-1 user testing - [notetaker signups](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710433090315/7e8ea973b4ac3315c1e20d5c70799e326863f9f5?sender=u50b7e26ebf5d18d7d4312080)
+    * Please fill in if you are interested in note taking… we only need 2 note takers each instance. We do not need to overwhelm the users. And don’t feel obligated to attend sessions that are outside of working hours.
     * Also how many people are too many? (Lot of people on the invites)
-        * I can answer this one now: the best practice is to keep notetakers and observers to 5 or less. We set up the Mural with that in mind: four notetakers and one passive observer. See [Research Checklist: Observers. ](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#5-conduct-sessions)-Steven \
- \
-
+        * I can answer this one now: the best practice is to keep notetakers and observers to 5 or less. We set up the Mural with that in mind: four notetakers and one passive observer. See [Research Checklist: Observers.](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#5-conduct-sessions) -Steven 
     * F-1 copy adjustments (submit and “contact” info questions)
-        * No further adjustments while in User Research Mode.  \
+        * No further adjustments while in User Research Mode.  
 All additional changes to be captured and considered post the research effort.
     * F-1 “expiration date” 
         * emailed Andy/Andrea (waiting for response - he’s OOO until 3/25)
     * 10-7959c Userflow and wireframe walkthrough (Jamie)
         * Featuring the ability to re-use addresses (to cover off on new WCAG guidance)
         * Leverages a lot of the previous work from within the 10-10d
-        * **Next steps? Comment questions/feedback into Figma file **
-        * Question for stakeholders: Do we need to both manually input information from, and scan forms? \
+        * **Next steps? Comment questions/feedback into Figma file**
+        * Question for stakeholders: Do we need to both manually input information from, and scan forms? 
 _Thought is now to include manual input so PEGA can access immediately_
-        * **Could we “skip” Design Intent for this form?** \
+        * **Could we “skip” Design Intent for this form?** 
 Potentially, as we are following existing patterns… and there isn’t a lot of value in Design Intent.
+            Our team is collaborating closely with CAIA and this is not a wholly new set of work (as we did a lot on 10-10d) 
+Still want to make sure we are ready for Midpoint. 
 
-            Our team is collaborating closely with CAIA and this is not a wholly new set of work (as we did a lot on 10-10d) \
-Still want to make sure we are ready for Midpoint. \
-Folll
 
     * 10-7959f-2 Mural [location](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710424818495/6a2147b47f67fb2a663a8cb677834d9203647b48?sender=ub5dc086a14b6f943de142963) (Discovery)
 
 
-## |
-
-
-## Notes
+## March 11, 2024: Notes
 
 
 
@@ -419,20 +381,15 @@ Folll
             * At the end, here is what’s happening next
         * Premal will get us an outline today. Should be natural, show our processes. Don’t want extra work.
     * Premal - ask stakeholders about business questions, but UX recommendations should be left up to us (e.g, embedding 7959c in 10-10d)
-    * 
 
 
-##  | 
 
-Attendees:     
-
-
-## Notes
+## March 4, 2024: Notes
 
 
 
 * Facilitator: Brian
-* Next meeting facilitator: Rachael  \
+* Next meeting facilitator: Rachael  
 
 * Agenda topics:
     * 10-7959f-1 - Handoff to Engineering - Brian
@@ -440,11 +397,10 @@ Attendees:
         * [Link](https://www.figma.com/file/LWfLUckNkxEz3fxXsxde93/10-10d---%5BDoc-Uploads%5D-Updates?type=design&node-id=127-88123&mode=design&t=0sT4ixBI0CkhXOmt-11) for reference from Syd (as a pattern for hand-off)
     * UXPin updates / next steps for user testing (outside of staging) - Jamie
         * “Cheat sheet” coming to help designers be more efficient in building conditional elements for User testing. 
-        * This is a back-up or alternate way to provide testing options outside of staging \
-
+        * This is a back-up or alternate way to provide testing options outside of staging 
     * Prototype Platform Matrix ([Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709218659350/85e1a2c931eafd52734bc66235165d15bf08d582?sender=ud64d6310f5d321d8542a2119)) - Lois
         * Could this be collaborative (designers/researchers to add input)? 
-            * We think so. Would like confirmation from Lois.  \
+            * We think so. Would like confirmation from Lois.  
 
     * Update on 10-7959c - Jamie
         * In progress user flow, getting ready for Design Intent (near term)
@@ -452,21 +408,16 @@ Attendees:
         * May help influence 10-7959f-2
         * Almost ready for internal review and discussion with CAIA (not yet)
         * As a standalone form, this may cause a change for the IA within 10-10d
-        * **_? Are we asking too much if they are uploading the document as well. I.e. is the burden too much to fill and scan input, too.? \
- \
-Steven thinks that the swivel is strong, and is part of the process… ie, eliminating the input is not possible at the moment. \
- \
-We may create 2 versions… one integrated, one as a direct to the form. As an iteration._**
+        * ? Are we asking too much if they are uploading the document as well. I.e. is the burden too much to fill and scan input, too.? 
+ 
+Steven thinks that the swivel is strong, and is part of the process… ie, eliminating the input is not possible at the moment. 
+ 
+We may create 2 versions… one integrated, one as a direct to the form. As an iteration.
     * Does PRA look at each form individually or as a set? (Rachael to investigate further)
     * Coverage.. KT plan for Syd… during the design huddles this week.
 
 
-##  | 
-
-Attendees:     
-
-
-## Notes
+## Feb 26, 2024: Notes
 
 
 
@@ -495,12 +446,7 @@ Attendees:
     * FMP potential flow changes, Auth vs non auth. Need to confirm with Engineering  but some flow changes may happen. Almost ready for Midpoint. Mary is aware of the status. 
 
 
-##  | 
-
-Attendees:     
-
-
-## Notes
+## Feb 21, 2024: Notes
 
 
 
@@ -529,12 +475,7 @@ Attendees:
         * Premal mentioned sitting in a congressional hearing about CHAMPVA, the need for file upload being brought up by a congressperson, and individuals being able to explain that it was already being worked on as a major win.
 
 
-##  | 
-
-Attendees:     
-
-
-## Notes
+## Feb 12, 2024: Notes
 
 
 
@@ -564,12 +505,7 @@ Attendees:
 * Rachael is going to move the time for next week because of the holiday
 
 
-##  | 
-
-Attendees:     
-
-
-## Notes
+## Feb 5, 2024: Notes
 
 
 
@@ -578,48 +514,30 @@ Attendees:
 * Agenda topics:
     * Let’s provide an overview of the prototype and outstanding questions we have to ID blockers for user research
         * Who do we need to answer these questions?
-
-             \
-Question list: https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/champva/1010D/1010d-program-questions.md
-
-
-            > Action item: Identify which are blocking user testing (done collaboratively in this meeting) \
- \
-Any additional uploads are a challenge, but not necessarily a blocker.
-
-
-What is left to get the prototype ready to hand off to dev in order to expedite the staging being ready for testing?
-
-
-    Design team feels confident enough to estimate 2-3 days until hand off to dev  \
-
-
+        * Question list: https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/champva/1010D/1010d-program-questions.md
+        * Action item: Identify which are blocking user testing (done collaboratively in this meeting)
+    * Any additional uploads are a challenge, but not necessarily a blocker.
+    * What is left to get the prototype ready to hand off to dev in order to expedite the staging being ready for testing?
+    * Design team feels confident enough to estimate 2-3 days until hand off to dev  
 
 
     * When/How should we involve CAIA with 10-7959f-1?
-        * I.e. As veteran’s fill this out should it be “your”  \
- \
+        * I.e. As veteran’s fill this out should it be “your”  
+ 
 In the bi-weekly meeting 
 * Action Item:
     * Check in with CAIA re: homeless challenges for copy (required addresses of sponsors) - 10-10d UXR
     * Remove caretakers as a possibility in testing (other programs may address) - 10-10d UXR
-    * Open up number of applicants beyond 3 - no technical limitation why  \
- \
+    * Open up number of applicants beyond 3 - no technical limitation why  
+ 
 
-* Parking lot: \
-Confirm which space to use for note taking with stakeholder today \
- \
-May generate more questions on OHI (parking lot for now) \
- \
+* Parking lot: 
+Confirm which space to use for note taking with stakeholder today 
 
+May generate more questions on OHI (parking lot for now) 
+ 
 
-
-##  | 
-
-Attendees:     
-
-
-## Notes
+## Jan 29, 2024: Notes
 
 
 
@@ -651,12 +569,7 @@ Attendees:
     * Stakeholder interview board - Steven, did you need help writing up the note taking instructions?
 
 
-##  | 
-
-Attendees:     
-
-
-## Notes
+## Jan 22, 2024: Notes
 
 
 
@@ -692,7 +605,7 @@ Attendees:
     * Time for daily standup
 
 
-## Action items
+### Action items
 
 
 
@@ -710,7 +623,7 @@ Attendees:
 * Premal to send us instructions on signing up for mobile app, and think about if we want our stuff on there. Not pressing.
 
 
-## 
+## Dec 4, 2023: Notes
 
 
 ### What did we talk about?
@@ -738,7 +651,7 @@ Attendees:
 * IF there is a chance, review Rachael’s WIP [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/research_plan.md)
 
 
-## 
+## Nov 27, 2023: Notes
 
 
 ### What did we talk about?
@@ -767,7 +680,7 @@ Attendees:
 *  to find a meeting time for Wednesday - show & tell Figma prototypes
 
 
-## 
+## Nov 13, 2023: Notes
 
 
 ### What did we talk about?
