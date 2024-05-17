@@ -58,10 +58,10 @@ A tool which allows for the centralized location of in progress and closed incid
 
 ## Outage Communication
 ### Definition
-- Information about an incident -- planned outages out of scope --is posted to:
-  - VA.gov sign-in page
-  - Public Identity slack channel
-  - Email distro for internal customers not on slack
+Information about an incident -- planned outages out of scope --is posted to:
+- VA.gov sign-in page
+- Public Identity slack channel
+- Email distro for internal customers not on slack
 
 ### Guidelines
 - Communication should make sense: not overwhelming, but not Pony Express, either.
@@ -85,3 +85,34 @@ A tool which allows for the centralized location of in progress and closed incid
     - Direct communications such as emails, other alerting, etc.
 - Stakeholders
   - Ensure that your VA points of contact are informed and aware of the issue, its impact and expected resolution timeline. Please include a link to issues and/or slack conversations so that they may keep up to date on progress.
+ 
+### Current Comms
+**Internal**
+- Slack Alerts 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/e21e0ebf-a3f6-4ff6-90a2-125608acf388)
+
+**External**
+- [Design System Downtime Style Guide](https://design.va.gov/content-style-guide/error-messages/system)
+
+ 
+## System Recovery Process
+### Definition
+The exact steps taken to restore authentication on va.gov if everything were completely deleted at the infrastructure level. This can be a multi-scenario document but the first one simply needs to account for pods destroyed/compromised
+- How will we address and fix/remediate the issue/issues
+
+### What Platform Does
+Incident Recovery Process: Determine the root cause
+- The incident commander should create a document to capture notes, discussions, and other items (screenshots, log messages, etc.) that can act as a part of the record of the incident for later reporting to stakeholders, and to assist the team when a retrospective is conducted.
+- Don’t be afraid to enlist help from Platform support and/or OCTO engineering points of contact.
+- External: For P1 incidents: work with your OCTO point of contact to ensure that the Major Incident Management process has been triggered. In general, communicate with the service owners and work together to ensure that the root cause is addressed or has a plausible plan & timeline to be addressed.
+- Internal: Create a support request with category “http://VA.gov incident” in #vfs-platform-support – trigger Pagerduty if necessary.
+
+## Internal Reporting on Incidents
+### Definition
+Post-mortems and communications to our internal customers about the incident.
+
+### Things to solve
+- How do we improve our processes based upon the incident?
+- How do we track the work that comes from the incident?
+- How do we establish a process that balances accountability with agency/ ability / autonomy/ empowerment to respond?
+- What metrics/measurements do we need to know about this incident in the grander scheme of our incidences? (patterns)
