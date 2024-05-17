@@ -26,7 +26,7 @@
   - The minimal /generatePDF endpoint migration is still required for the overall Toxic Exposure effort, as it’s needed for the backup submission path. DBEX Team 2 is working on this part.
   - The workaround to use /generatePDF only for the primary (happy) path adds additional scope of work and does not enable the team to meet the delivery deadline. Additionally, implementing the new form using the minimal /generatePDF endpoint prevents a synchronous PDF response, and adds additional risk to the pipeline by introducing additional failure points. Furthermore, the implementation of the /submit endpoint would be desired when available, so there is significant investment in tech debt for a (potentially) short term solution.
     - Current status from Lighthouse 5/17/24: /submit in Lighthouse staging early June, in production late June.
-- Internal dependency: completion of /submit endpoint migration
+- Internal dependency: completion of /submit endpoint migration (team 1)
   - When the new /submit endpoint is made available by Lighthouse in the staging environment, previous migration work should be reviewed for changes and updates made where appropriate. The new endpoint will need to undergo Canary launch and staggered release with monitoring. Logic will also need to be implemented to handle the Toxic Exposure questions.
 - Internal dependency: completion of /generatePDF endpoint migration (team 2)
 
