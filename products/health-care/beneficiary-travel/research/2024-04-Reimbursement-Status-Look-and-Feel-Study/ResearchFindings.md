@@ -232,11 +232,9 @@ Finding: As seen in the tree test, expected entry locations were scattered acros
 
 ## **Who we talked to**
 
-Recruitment criteria
-
 As outlined in the Research Plan, we focused on users who had a range of experience submitting for and amending travel claims.  We talked to 9 veteran participants.
 
-_[insert screenshot of completed recruitment checker]_ ![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="1361" alt="Screenshot 2024-05-17 at 4 15 31 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/129799592/4dbef89d-d5df-4948-bc2b-6869c3d48c68">
 
 Education:
 
