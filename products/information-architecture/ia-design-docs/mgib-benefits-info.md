@@ -22,7 +22,7 @@
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
 
-![Image of sitemap](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/a1ba9566-c3ba-4dd0-b07a-fbcb38721ba8)
+<img width="650" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/a1ba9566-c3ba-4dd0-b07a-fbcb38721ba8">
 
 This page will live on the same level as verifying enrollments page.
 
@@ -42,40 +42,42 @@ This page will live on the same level as verifying enrollments page.
 1. **VYE for MGIB benefits** - Add
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
-  - Notes: This will be the home for this for the meantime
+  - Notes: This will be the home for this in the meantime
 
-### Note for the entry points below: 
+### Note for the crosslinks below:
+We'll want to distinguish the global va.gov Profile from the info that will only be used to manage MGIB benefits.
 
 2. **[VA.gov Profile](https://staging.va.gov/profile)** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
   - Notes: Include content 
+-------
 
-4. **Change your address on file with VA(https://www.va.gov/resources/change-your-address-on-file-with-va/)** - Add
-  - Placement description: 
+3. **[Change your address on file with VA](https://www.va.gov/resources/change-your-address-on-file-with-va/)** - Add
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
+
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/550fcada-8f61-4b72-bef0-91122d048d6c">
+
+-------
+
+4. **[Change your direct deposit information](https://www.va.gov/change-direct-deposit/)** - Add
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
   - Notes: Include content
-  - 
-![Image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/550fcada-8f61-4b72-bef0-91122d048d6c)
 
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9868b71c-ed9c-4bce-9620-3b425df9ff6a">
 
-4. **[Change your direct deposit information](https://www.va.gov/change-direct-deposit/)**
-  - Placement description: 
-  - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
-  - Notes: Include content
+------
 
-![Screenshot 2024-05-17 at 4 19 15 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/9868b71c-ed9c-4bce-9620-3b425df9ff6a)
-
-5. **[Change your address on file with VA](https://www.va.gov/resources/change-your-address-on-file-with-va/)** - Add
+5. **[Change your address on file with VA](https://www.va.gov/resources/change-your-address-on-file-with-va/)** - Modify
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/benefits-information/
   - Notes: Include content 
 
- ![Image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dca3b3f3-3d2e-4594-bab1-54da0e604302)
+<img width="500" alt="Image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dca3b3f3-3d2e-4594-bab1-54da0e604302">
 
  
 ## <a name="redirects"></a>Redirects <br>
