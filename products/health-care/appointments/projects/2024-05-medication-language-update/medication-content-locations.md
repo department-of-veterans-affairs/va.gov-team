@@ -1,52 +1,52 @@
 # Medication Language Locations
 
-All the touchpoints where the medication language will appear
+All the touchpoints considered for the medication language to appear.
 
-## Appointments Web (MHV on VA.gov)
+## Will display the language - already on team roadmaps
 
-Slack channel: #appointments-team
+### Appointments Web (MHV on VA.gov)
 
-### Appointment details pages
+Will display on the appointment details page for the following types of appointments:
 
 - VA In-person
 - VA Video Care at Home
 - VA Video Care at a VA location
 - VA Video Care at an ATLAS location
 - VA Phone
-- Community care (TBD)
-- Claim exam appointment (TBD)
+- Community care (TBD, but assumed yes)
+- Claim exam appointment (TBD, but assumed no)
 
-## Check-in Experience
+### Pre-check-in web
 
-[Add reason]
-
-## Pre-check-in confirmation and details
+Will display on the confirmation page and appointment details page for the following types of appointments
 
 - VA In-person
 
-## Mobile App Appointments
+### Mobile App Appointments
 
-Same as Appointments FE.
+Same as Appointments Web (MHV on VA.gov)
 
-## Email reminders
+## Will display the language - still need to be added to team roadmaps
 
-TBD
+### Email reminders
 
-MAS - not going to worry about that
-MHV - Moving over to VA notify - 
+Will explore adding this to the updated appointment reminders that will be sent from VA Notify (which are migrating from MHV). Other emails may be part of a later phase. Next steps: talk to VA Notify team.
 
-## Text reminders
+### MHV Classic
 
-[Add reason - they already get this in PCI]
+TBD, but likely to have a similar design and content to Appointments Web. Next step is to talk to Bresha Lipscomb to share the VA.gov content and evaluate addition to MHV Classic.
 
-## MHV Classic
+### VA Video Care
+Need to work with VCC to determine how to update their existing emails and (other VVC locations?)
 
-TBD (likely the same as Appointments Web)
+### My VA Health (Oracle Health)
+TBD, but likely to have a similar design and content to Appointments Web. Need to talk to that team to share the VA.gov content and evaluate next steps.
 
-Need to talk to Brescia Lipscomb about this
+## Will NOT display the language
 
-## VA Video Care
-Need to work with team to determine how to deal with existing messaging in Emails and (other locations?)
+### Check-in Experience
 
-## My VA Health (OH) porta
-Same as appointments web. Need to talk to that team.
+- Will not add this wording because the Veteran is onsite for their appointment and did their preparation already.
+
+### Text reminders
+- Text message reminders allow a Veteran to confirm that they will be attending their appointment. Once a Veteran confirms, they have the option to complete the pre-check-in experience. Since pre-check-in will have this wording, we won't add it to the appointment reminders text messages. Text messages also have a very short character limit and cost extra for additional messages. Next steps: talk to VeText to evaluate if there are some edge case scenario to add this langauge to.
