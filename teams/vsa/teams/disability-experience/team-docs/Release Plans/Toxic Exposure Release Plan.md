@@ -78,11 +78,11 @@ There are two use cases that we are considering for this release. For each, we p
 | Phase | Milestone | Target Dates | Resolution Dates | Notes |
 |---|---|---|---|---|
 |1 |Gulf War exposures|May 21, 2024|   | On Track|
-|2 |Herbicide & Hazards|June 04 2024|
-|3 |Launch Preparation|June 18 2024|
+|2 |Herbicide & Hazards|June 04 2024| | Potential delay by 5103 FDC update 5/16/24 |
+|3 |Launch Preparation|June 18 2024| | | |
 |4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH|
-|5 |Migrate submit functionality to LH|early June 2024|   |Pending LH implementation (est. staging early June)|
-|6 |New TE Applications|June 27 2024*|
+|5 |Migrate submit functionality to LH|June 2024|   |Pending LH implementation (est. staging early June)|
+|6 |New TE Applications|June 27 2024*| | Dependent on complete submit migration completion| 
 |7 |Veterans with an IPF|TBD||
 
 *Dates may vary
@@ -100,17 +100,16 @@ There are two use cases that we are considering for this release. For each, we p
 ## Rollouts 
 #### Submit: 
 - [ ] LH Implementation
-- [x] Planning
- - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md
+- [x] Planning [Submit Endpoint Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)
 - [ ] Internal Testing and Review
 - [ ] Pre-release Testing
 - [ ] Canary
 - [ ] Staged Rollout
- - Rollbacks:  
+ - Rollbacks:
+ 
 #### GetPDF (GeneratePDF):
 - [ ] LH Implementation
-- [ ] Planning
- - [Link]
+- [ ] Planning - GeneratePDF Endpoint Release Plan - TBD
 - [ ] Internal Testing and Review
 - [ ] Pre-release Testing
 - [ ] Canary
@@ -131,5 +130,3 @@ There are two use cases that we are considering for this release. For each, we p
  - Reduce or maintain existing submission errors
  - Maintain % of submissions that use normal path
  - Maintain or reduce uses of backup and failsafe path
-
- - 
