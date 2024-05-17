@@ -15,7 +15,7 @@ Public Websites team is responsible for supporting teams who want to inject the 
 
 [DEPO teamsite overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview) - explains the cookie mechanisms, and has notes on testing. 
 
-1. **Requesting team: domains -** Team should provide the domain or list of domains where the users will land and see the header/footer injected. Once provided, our team can create tickets and schedule our work. 
+1. **Requesting team: domains -** Team should provide the domain or list of domains where the users will land and see the header/footer injected. Once provided, the Public Websites team will generate a [(PW) Injected Header/Footer - prep for testing ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams&labels=Injected+header%2C+Needs+refining%2C+Public+Websites%2C+VA.gov+frontend&projects=&template=pw-injected-header.md&title=Injected+header%2Ffooter%3A+%3Cdomain%28s%29%3E).
 
 2. **Requesting team: JS/CSS -** Add the listed set of scripts to TeamSite’s &lt;head> tag, described here: [https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview#TeamSiteoverview-ScriptsandTeamSiteAdministration](https://depo-platform-documentation.scrollhelp.site/developer-docs/teamsite-overview#TeamSiteoverview-ScriptsandTeamSiteAdministration) 
     1. Do _not_ include settings.js - that file is deprecated but docs are out of date 
@@ -30,7 +30,7 @@ To test:
   3. Type `document.cookie = "proxyRewrite=true;"`, and hit Enter. This creates a cookie that you will then find under Application cookies in dev tools until you clear cookies.
   4. Refresh the page, and injected header should load. 
 
-5. **PW: Production update** - When your testing / changes are complete & you're ready to launch: notify us. We'll make an additional code update to permanently set the cookie that controls injection. When that code change deploys, the header/footer will be live on your site.
+5. **PW: Production update** - When your testing / changes are complete & you're ready to launch: notify us. We will create a [(PW) Injected Header/Footer - publish to prod ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams&labels=Injected+header%2C+Needs+refining%2C+Public+Websites%2C+VA.gov+frontend&projects=&template=pw-injected-header-publish.md&title=Injected+header%2Ffooter%3A+Publish+to+prod%3A+%3Cdomain%28s%29%3E) and prioritize into an upcoming sprint. When complete, an additional code update will be made to permanently set the cookie that controls injection. When that code change deploys, the header/footer will be live on your site.
 
 **Example content:**
 * URL: [https://ea.oit.va.gov/](https://ea.oit.va.gov/) - uses injected header/footer
