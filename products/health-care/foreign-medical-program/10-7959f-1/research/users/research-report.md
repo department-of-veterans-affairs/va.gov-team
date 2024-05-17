@@ -253,7 +253,15 @@ Some of the users explained that they were not interacting with FMP directly at 
 
 ## **Next Steps**
 
-Move forward with the changes to the form that were obvious from the research to improve the user experience. Continue conversations with stakeholders around the known pain points and opportunities for the FMP and how/if we could best address them with the digitization effort. Surface any new pain points or opportunities with stakeholders and help determine how the team's digitization effort may be able to impact them. Share information with stakeholders about user behavior and scenarios that may help better inform their processes and policies.
+*Provide details of findings to the team and discuss next actions.
+*Share information relevant to the program and potentially actionable with stakeholders.
+   *Give stakeholders information on provider interactions and continue the discussion on how best to interface with or manage provider interactions to improve the Veteran's experience.
+   *Does the FMP have a process in place for handling beneficiaries that change their location frequently?
+   *Are you comfortable providing a rough timeline to expect a response in the confirmation?
+*Make content modifications based on the observed interactions.
+*Investigate potential solutions for problems that need design input once they are prioritized.
+*Continue to work with stakeholders on interim solutions to give beneficiaries more visibility into the status of their claims and registration.
+*Continue pursuing opportunities to enhance the outreach capabilities, eligibility requirements clarity, and required claims submission documentation through OCTOs capabilities and VA.gov.
 
 
 ## **Further research needed**
