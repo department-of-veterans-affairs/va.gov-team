@@ -116,3 +116,18 @@ Post-mortems and communications to our internal customers about the incident.
 - How do we track the work that comes from the incident?
 - How do we establish a process that balances accountability with agency/ ability / autonomy/ empowerment to respond?
 - What metrics/measurements do we need to know about this incident in the grander scheme of our incidences? (patterns)
+
+## Tracking the Work by Area of Responsibility and Deliverable
+
+| Area         | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
+| :------------- |:------------- | :----- | :----- |  :----- |  :----- |
+| USiP | | | | | |
+| SSOe | | | | | |
+| SiS | | | | | |
+| ToU | | | | | |
+| Login.gov | | | | | |
+| ID.Me | | | | | |
+| MHV | | | | | |
+| DS Logon | | | | | |
+| MPI | | | | | |
+
