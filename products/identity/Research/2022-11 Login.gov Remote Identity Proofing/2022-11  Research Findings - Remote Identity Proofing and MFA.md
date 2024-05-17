@@ -97,17 +97,52 @@ We talked to 21 participants. 3 came from a USDS-recruited trial run. The remain
 ### Results of the sessions
 A little under half (10 of 21 sessions) of the participants successfully created an account and proved their identity. We had two sessions that ended early because of a staging.login.gov bug or we ran out of time. The remaining 9 sessions (of 21) were Rate Limited, Blocked, or Abandoned.
 
->>> Table
+| Result | Count | Percentacge | Definition|
+| --- | --- | --- | --- |
+| Success |  5 | 24% | Participant successfully created account and verified ID without any errors or issues |
+| Success with bumps | 5 | 24% | Participant successfully created account and verified ID but encountered some errors or issues (e.g., had to upload photo ID more than once) |
+| Abandoned | 4 | 19% | Participant gave up or said they would give up in real life. |
+| Blocked | 3 | 14% | A close cousin of "Abandoned" and “Rate Limited.” Participant was blocked at a step but did not hit the rate limit and sought customer support help. |
+| Rate Limited | 2 | 10% | Participant received message saying that they attempted a step too many times and must wait X hours to try again. |
+| Bug | 1 | 5% | Login.gov staging had a bug that prevented the participant from going through the full flow. |
+| Incomplete | 1 | 5% | Time was up before the participant could complete the full account creation and identity proofing flow. |
 
 ### Reasons for Abandoned, Blocked, Rate Limited, or Success with Bumps
 Most participants that had an issue with Login.gov had an issue at the “Upload state photo ID” step. Most participants were able to succeed despite these issues. Some were blocked or abandoned. Other participants abandoned or were blocked for reasons related to Login.gov’s accessibility or gaps in data.
 
->>> Table
+| Participant | Result | Step issue occurred | Issue theme|
+| --- | --- | --- | --- |
+| 2 | Success with bumps | 11 [Phone] Upload state photo ID | Uploaded wrong photo of photo ID |
+| 4 | Success with bumps | 11 [Phone] Upload state photo ID | Auto-capture produced blurry photo |
+| 8 | Success with bumps | 11 [Phone] Upload state photo ID | Auto-capture too sensitive |
+| 11 | Success with bumps | 11 [Phone] Upload state photo ID | Auto-capture produced blurry photo |
+| 12 | Success with bumps | 11 [Phone] Upload state photo ID | Manual upload. Unclear to participant what the problem was with the photo. |
+| 3 | Rate limited | 11 [Phone] Upload state photo ID & 15 "Verify your information"| Bump: light background for uploaded photo & Rate limited: PR address, not clear which |
+| 17 | Rate limited | 11 [Phone] Upload state photo ID | Auto-capture produced blurry photo & Manual upload. Unclear to participant what the problem was with the photo. |
+| 14 | Blocked | 16 - “Enter a phone number with your name on the plan” | Could not verify phone number |
+| 15 | Blocked | 16 - “Enter a phone number with your name on the plan” | Could not verify phone number |
+| 18 | Blocked | 11 [Phone] Upload state photo ID | No state-issued photo ID |
+| 6 | Abandoned | 11 [Phone] Upload state photo ID | Not comfortable uploading ID |
+| 10 | Abandoned | 1 Sign-in | Could not find "Create an account" button |
+| 13 | Abandoned | 11 [Phone] Upload state photo ID | Manual upload. Unclear to participant what the problem was with the photo |
+| 16 | Abandoned | 11 [Phone] Upload state photo ID | Could not use auto-capture |
+
 
 ### Multi-factor authentication
 14 of 21 participants chose one MFA option. SMS and Face/Touch were basically the only options people picked, with backup codes being a distant third (and never the first option). Nobody had a security key. None of the participants had a PIV. People either didn’t know what an authenticator app was or they knew what it was but didn’t want another app on their phone.
 
->>> Table
+| MFA Combos | Count | Percentacge |
+| --- | --- | --- |
+| SMS + Skip | 10 | 48% |
+| SMS + Backup codes | 3 | 14% |
+| Face/touch + SMS | 3 | 14% |
+| Face/touch + Skip | 3 | 14% |
+| NA + NA | 1 | 5% |
+| Voice + Skip | 1 | 5% |
+
+
+
+
 
 ## Product-level issues
 During the study, the team saw a variety of participant experiences. Some participants sailed through without issue. Others abandoned out of frustration or were blocked. For the issues that blocked or caused abandonment, Login.gov will need more than UI/content refinements. These issues include:
