@@ -153,7 +153,7 @@ We will recruit 2 business submitters for a total of 2 completed sessions. They 
 |Friday, June 7 - Wednesday, June 12|Analysis|
 |Wednesday, June 12 - Monday, June 24|_Pause for PTO_|
 |Tuesday, June 25 - Thursday, June 27|Synthesis|
-|From Monday, July 1|Discuss findings and recommendations as a team|
+|Monday, July 1 - Friday, July 5|Discuss findings and recommendations as a team|
 |From Monday, July 8|Share findings and recommendations more widely|
 
 ## Pilot sessions
