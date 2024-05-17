@@ -45,13 +45,13 @@ The overarching research goals for this project were:
 
 
 
-* Will ers understand the content on the 10-7959f-1 digital form?
+* Will users understand the content on the 10-7959f-1 digital form?
     * Are there any sections in the content of this form that Veterans find confing?
     * Is there anywhere where additional content could provide clarity for Veterans?
-* What are major pain points ers encounter with the 10-7959f-1 digital form or with the FMP?
+* What are the major pain points users encounter with the 10-7959f-1 digital form or with the FMP?
     * What are the opportunities to improve the form flow?
     * What are the opportunities to improve individual components?
-*  What are major pain points ers encounter with the FMP?
+*  What are the major pain points users encounter with the FMP?
 
 
 ## **Methodology**
@@ -63,12 +63,12 @@ Conducted hour-long remote moderated research sessions via Zoom from March 18 - 
 
 
 
-* **ers will be able to easily understand the content on the 10-7959f-1 digital form.**
+* **Uers will be able to easily understand the content on the 10-7959f-1 digital form.**
     * Mostly true.
     * Participants were able to move quickly and easily through the registration form. 
-    * 7 out of 11 participants experienced some confion when asked for their home and mailing addresses. Though most were able to clearly articulate the difference when asked, they generally skimmed the content and didn’t initially understand why they were being asked for two different addresses.  
-    * 1 participant mentioned they had two different mailing addresses and wouldn’t know how to properly indicate to the FMP which one to e when.
-* **Participants will mention pain points with FMP such as lengthy processing time for claims, lack of electronic funds transfer, frtration with the lack of online submission options, and lack of visibility into registration and claims stat.**
+    * 7 out of 11 participants experienced some confusion when asked for their home and mailing addresses. Though most were able to clearly articulate the difference when asked, they generally skimmed the content and didn’t initially understand why they were being asked for two different addresses.  
+    * 1 participant mentioned they had two different mailing addresses and wouldn’t know how to properly indicate to the FMP which one to use and when.
+* **Participants will mention pain points with FMP such as lengthy processing time for claims, lack of electronic funds transfer, frustration with the lack of online submission options, and lack of visibility into registration and claims stat.**
     * Definitely true.
     * All participants mentioned one or more of these pain points.
 * **For Veterans participating in the Veteran Readiness and Employment (VR&E) (also known as Chapter 31; formerly known as the VA Vocational Rehabilitation Program), we hypothesize that they will be frustrated by not knowing what might be covered.**
@@ -99,15 +99,15 @@ Conducted hour-long remote moderated research sessions via Zoom from March 18 - 
     * A number connected to claims in MyHealtheVet
     * An identifier for Veterans who don't have social security number
     * An identifier for dependents
-    * A number that would be associated with this specific application, and should have been given to them after filing.
-* Most participants expected the review page to have the accordions pre-expanded. They explained that they wouldn’t go through the extra steps of expanding each accordion to check their information, but would likely look it over if the information were displayed all at once.
-* Most participants didn’t expect the in-line edit experience, but they were pleasantly surprised by it. 
-* Participants who lived abroad have trouble correctly entering their phone numbers and addresses if the inputs aren’t flexible enough.
+    * A number that would be associated with this specific application and should have been given to them after filing.
+* Most participants expected the review page to have the accordions pre-expanded. They explained that they wouldn’t go through the extra steps of expanding each accordion to check their information but would likely look it over if the information were displayed all at once.
+* Most participants didn’t expect the in-line edit experience but were pleasantly surprised by it. 
+* Participants who live abroad have trouble correctly entering their phone numbers and addresses if the inputs aren’t flexible enough.
 * If Veterans update their information on an FMP application or claim, they expect it to update in the entire VA system (but it doesn’t).
 
 
 
-### Finding 2: Veterans want more transparency into the state of their FMP registration and their FMP claims. 
+### Finding 2: Veterans want more transparency into the status of their FMP registration and their FMP claims. 
 
 4 out of 4 participants with FMP benefits expressed a desire for an easier way to keep track of their claims.
 
@@ -117,7 +117,7 @@ Conducted hour-long remote moderated research sessions via Zoom from March 18 - 
 * P8: “I like [an email] when I submit stuff electronically. That’s kind of the modern receipt, right?”
 
 
-### Finding 3: Veterans experience a number of difficulties receiving reimbursement for their overseas care as a result of confusion within the VA, stringent documentation requirements, and slow mailing times. 
+### Finding 3: Veterans experience a number of difficulties receiving reimbursement for their overseas care as a result of confusion or poor communication about who covers certain benefits within the VA, stringent documentation requirements, and slow mailing times. 
 
 3 out of 4 participants with FMP benefits expressed frustration with the difficulties they experience with receiving overseas care.
 
