@@ -13,6 +13,7 @@ Last updated by @tygindraux: May 14, 2024
 - [Research sessions](#research-sessions)
 - [Team roles](#team-roles)
 - [Approved by](#approved-by)
+- [Appendix](#appendix)
 
 ## Background
 
@@ -71,8 +72,6 @@ Understand what submitters need to learn when they review their question's detai
 6. It will be straightforward to find the link to check details, but some people will think they can click on the entire card.
 7. On the details page, people will scroll past details to look for a reply from VA.
 8. People who can't respond to VA will be unsure what to do if they have a follow up question or issue.
-9. People will assume they should sign in to check the status of their question.
-10. If people check their status without signing in, they will only choose to sign in if they have received a reply.
 
 ## Methodology
 
@@ -81,9 +80,8 @@ This will be a moderated usability study conducted remotely over Zoom. We will u
 We will present a scenario where the submitter has already asked VA a question and is ready to check if they have a reply.
 
 These are the main features we're testing:
-- Check the status of your question (Unauthenticated)
 - Find a question in your dashboard (Authenticated)
-- Check question details (Authenticated)
+- Review question's details (Authenticated)
 
 ### Research materials
 
@@ -98,31 +96,31 @@ These are the main features we're testing:
 
 We will work with Perigean to recruit Veterans.
 
-We will also work with the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs).
+We will also work with the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs). However, if we're unable to do this within our timeline, this will not be a blocker to completing this study.
 
 ### Recruitment criteria – Veterans
 
-We will recruit 10 Veterans for a total of 7-8 completed sessions.
+We will recruit 8 Veterans for a total of 6 completed sessions.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
 |# of participants|Criteria|
 |:--|:--|
-|Exactly 10|Are Veterans|
-|Exactly 10|Have contacted VA online or over the phone in the past year|
-|Exactly 10|Have signed in to VA.gov in the past year|
-|Exactly 5|Are willing to join from a mobile device|
-|Exactly 5|Are willing to join from a desktop device|
-|At least 5|Have a cognitive disability or consideration|
-|At least 5|Are over 55 years old|
-|At least 3|Identify Asian or Hispanic*|
+|Exactly 8|Are Veterans|
+|Exactly 8|Have contacted VA online or over the phone in the past year|
+|Exactly 8|Have signed in to VA.gov in the past year|
+|Exactly 4|Are willing to join from a mobile device|
+|Exactly 4|Are willing to join from a desktop device|
+|At least 4|Have a cognitive disability or consideration|
+|At least 4|Are over 55 years old|
+|At least 2|Identify Asian or Hispanic*|
 |At least 2|Identify as Black or Native|
-|At least 2|Identify as a gender other than male|
-|At least 2|Identify as LGBTQ+|
 |At least 2|Are rural|
 |At least 2|Don't have a degree|
+|At least 1|Identify as a gender other than male|
+|At least 1|Identify as LGBTQ+|
 
-*We have specifically called out Asian or Hispanic demographics because we have not gotten participants from these demographics in our last two studies. We want to make sure we recruit these underserved Veterans.
+*We're aiming to fill gaps in our previous studies. We've specifically called out Asian or Hispanic demographics because we have been able to recruit participants from these demographics in our last two studies. We want to ensure we recruit these underserved Veterans.
 
 ### Screener questions
 
@@ -134,28 +132,29 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Recruitment criteria – Business submitters
 
-We will recruit 5 business submitters for a total of 5 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
+We will recruit 2 business submitters for a total of 2 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
 
 |# of participants|Criteria|
 |:--|:--|
-|Exactly 5|Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran|
-|At least 3|Submit more than 5 Ask VA inquiries per month|
+|Exactly 2|Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran|
+|At least 2|Submit at least 5 Ask VA inquiries per month|
 |At least 1|Is also a Veteran, who may submit an Ask VA inquiry in a personal capacity|
 
 ## Timeline
 
-**Note:** These dates may shift slightly as we get closer.
-
 |Date|Milestone|
 |:--|:--|
-|Monday, May 27|Prototype(s) are ready|
-|Monday, June 10|Research review|
-|Tuesday, June 25|Pilot session|
-|Monday, July 8-Friday, July 12|Research sessions|
-|Monday, July 15-Wednesday, July 17|Analysis|
-|Thursday, July 18-Friday, July 19|Synthesis|
-|From July 23|Discuss findings and recommendations|
-|From July 26|Share findings and recommendations|
+|Monday, May 21|Research plan is approved|
+|Tuesday, May 21|Prototype(s) ready|
+|Tuesday, May 21|Conversation guide is approved|
+|Wednesday, May 22|Research review|
+|Thursday, May 23|Pilot session|
+|Monday, June 3 - Thursday, June 6|Research sessions|
+|Friday, June 7 - Wednesday, June 12|Analysis|
+|Wednesday, June 12 - Monday, June 24|_Pause for PTO_|
+|Tuesday, June 25 - Thursday, June 27|Synthesis|
+|From Monday, July 1|Discuss findings and recommendations as a team|
+|From Monday, July 8|Share findings and recommendations more widely|
 
 ## Pilot sessions
 
@@ -164,31 +163,30 @@ Perigean does **not** need to set up our pilot sessions. Tyler will schedule and
 ### Pilot
 
 - Pilot participant: TBD
-- Date and time of pilot session: TBD
+- Date and time of pilot session: Thursday, May 23 at TBD
 
 ## Research sessions
 
 - Length of sessions: 1 hour
 - Buffer between sessions: 30 minutes
-- Maximum sessions per day: 3 sessions
+- Maximum sessions per day: 4 sessions
 
 ### Availability
 
-We will provide 20 time slots, with the aim to book 10 sessions. 
+We will provide 16 time slots, with the aim to book 8 sessions.
+
+If possible, we'd like to prioritize filling earlier sessions in the schedule, first.
 
 These time slots are for Perigean. We will schedule sessions with business submitters ourselves, separately.
 
 **We’d also like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. Please include the session time in each participant's respective time zone (from their address).**
 
-**Note:** These dates may shift slightly as we get closer.
-
 |Date|Timeslots (EST)|
 |:--|:--|
-|Monday, July 8|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Tuesday, July 9|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Wednesday, July 10|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Thursday, July 11|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
-|Friday, July 12|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Monday, June 3|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Tuesday, June 4|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Wednesday, June 5|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
+|Thursday, June 6|9-10am, 10:30am-11:30am, 2-3pm, 3:30-4:30pm|
 
 ## Team roles
 
@@ -197,17 +195,17 @@ These time slots are for Perigean. We will schedule sessions with business submi
 * Participant recruiting & screening: Perigean (Veterans) and GI Bill team (business submitters)
 * Project point of contact: Tyler Gindraux
 * Participant for pilot test: TBD (Tyler will add to pilot session herself.)
-* Accessibility specialist:
+* Accessibility specialist: -
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker, 2 observers.
 
-## Approved by:
+## Approved by
 
 - Becky Phung, PO on [DATE]
 - Shane Strassberg, VA Research Ops on [DATE]
 
-## Archive
+## Appendix
 
 We decided to remove a goal from this research study, after discussing scope with our PO. However, it's captured here in case we need to reference it in the future.
 
