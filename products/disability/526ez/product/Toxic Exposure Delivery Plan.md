@@ -14,6 +14,11 @@
 ## Relevant Links
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Release%20Plan.md)
 - [Design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure.md)
+- Meeting recordings between teams 1 and 2 for handling the feature flag:
+  - https://coformaco.zoom.us/rec/share/NXjIziBXAebZD2adg4QWApak5QJafqu3t26I2-9edjT7CqNajGJ5kNv1DN_qRdJG.tYRlVFcgHcoVMvKH
+    Passcode: &=h7HiKH
+  - https://coformaco.zoom.us/rec/share/ug_3WYVuIdRWWdoLGuqTS78KmoQgkc461TbGCFGiwzagx69pzj8-yWVpqfBJW1c8.2OpcBzNGjnkT5VIr
+    Passcode: S3!v9guG
 
 ## Risks / Impediments
 - External dependency: Lighthouse /submit endpoint
