@@ -12,11 +12,11 @@ Jump to:
 
 
 
-* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#hypotheses-and-conclusions)
-* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
-* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
-* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
-* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to)
+* [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md#hypothesesandconclusions)
+* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
+* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
+* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
+* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-report.md)
 
 
 ## **Research Goals**
