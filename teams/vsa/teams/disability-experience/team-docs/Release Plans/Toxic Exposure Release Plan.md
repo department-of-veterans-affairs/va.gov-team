@@ -75,7 +75,7 @@ There are two use cases that we are considering for this release. For each, we p
 
 [DBEX Toxic Exposure Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Delivery%20Plan.md) for reference
 
-| Phase | Milestone | Target Dates | Resolution Dates | Notes |
+| Phase | Milestone | Target Dates | Status | Notes |
 |---|---|---|---|---|
 |1 |Gulf War exposures|May 21, 2024|   | On Track|
 |2 |Herbicide & Hazards|June 04 2024| | Potential delay by 5103 FDC update 5/16/24 |
