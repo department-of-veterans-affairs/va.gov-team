@@ -27,7 +27,7 @@ Veterans will be able to complete the paper form equivalent of Section IV; quest
 - 15d: "Have you been exposed to any of the following?" and;
 - 15e: "If you were exposed multuiple times, please provide all additional dates and locations of potential exposure."
 
-## Success Criteria to consider monitoring:
+## Success Criteria
 
 [relative to form 526]: #
 
