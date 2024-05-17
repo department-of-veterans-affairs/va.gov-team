@@ -1,4 +1,4 @@
-**[MHV on VA.gov Landing Page Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research)**
+**[MHV on VA.gov Landing Page Research - not very relevant, but good to know](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research)**
 - The researcher recalled a handful of participants flagging medical supplies specifically as something that excited them about the new landing page design. However, the medical supplies section was not specifically tested during the research, and it's unclear what they were excited about (e.g. it could simply be the fact they see the feature of ordering supplies as new and available). 
 
 **[MHV on VA.gov Secondary Navigation Comparison Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/Comparison-study/research-findings.md)**
