@@ -1,7 +1,7 @@
 # About this research
 
 ## Study
-There is no associated issue in the [Research Repository](https://github.com/orgs/department-of-veterans-affairs/projects/880) yet.
+[2024-05 Ask VA: Dashboard #540](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/540)
 
 ## Background
 Ask VA (AVA) is an online portal that allows Veterans, caregivers and others to submit questions to VA and receive a secure response. Currently, AVA resides within a stand-alone Microsoft portal that is inconsistent with VA design standards, is not mobile-friendly, and has accessibility issues. 
