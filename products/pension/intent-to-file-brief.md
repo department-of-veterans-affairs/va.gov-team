@@ -50,7 +50,7 @@ While an average of 12 days may not sound like a worthy difference to shift forw
 * ITF functionality (when the API is available and unavailable) that prevents a Veteran from starting or completing the pension app.
 
 
-# Solution Approaches
+# Solution Approaches - PAUSED 5/16 (V0 is being defined)
 ## V1 - Introduce ITF functionality to pension web form
 ### Goal: Introduce intent to file functionality to enable more Veterans to receive an earlier effective date
 #### Why V1:
@@ -143,9 +143,7 @@ _**Once above is implemented, noting interaction between new ITF behavior and ex
 * Update VBA processing team documentation where needed to ensure ITF information coming from pension web form is handled accordingly.
 
 
-## THANKS FOR READING! :) 
-## PLEASE PAUSE HERE.
-Content below this line will be detailed further once V1 is sufficiently documented.
+
 
 
 
