@@ -82,10 +82,10 @@ We conducted hour-long remote moderated research sessions via Zoom from March 18
 
 1. There were various usability issues found through testing that should be taken under consideration.
 2. Veterans want more transparency into the state of their FMP registration and their FMP claims.
-3. Veterans experience a number of difficulties receiving reimbursement for their overseas care as a result of confusion within the VA, stringent documentation requirements, and slow mailing times.
+3. Veterans experience a number of difficulties receiving reimbursement for their overseas care as a result of confusion over responsibility for certain forms of compensation within the VA, stringent documentation requirements, and slow mailing times.
 4. Veterans strongly prefer providers who will bill FMP directly, but depending on where they are located, there may not be any providers that do so.
 5. Many participants had misconceptions about the availability or coverage offered through the FMP. 
-6. Veterans often had different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
+6. Veterans often had more than two mailing addresses and phone numbers (These were often participants who spent part of the year at a second property) different mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
 
 
 ## **Details of Findings**
