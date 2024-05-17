@@ -53,9 +53,41 @@ While an average of 12 days may not sound like a worthy difference to shift forw
 # Solution Approaches - PAUSED 5/16 (V0 is being defined)
 
 ## V0 - Set ITF in the background
-### Goal - Establish ITF sooner for Veterans
+### Goal: Establish ITF sooner for Veterans
+#### Why V1:
+Low lift. Deliver quick value without delaying ITF launch as this would be lost time for Veterans/
+
+#### Existing behavior:
+No ITF is set for online pension applications. Submission date is the effective date.
+
+#### Hypothesis / Proposed Behavior:
+* By using a Veterans application start date and establishing ITF if they don't already have one, Veterans can gain an earlier ITF date.
+* By establishing ITF for Veterans who have in-progress pension applications, they get to benefit from ITF, even if it won't be the date they started their application.
+
+#### Assumptions:
+* That we can set ITF for the Veteran, without their explicit permission
+  
+#### Risks/Limitation: 
+* API cannot set ITFs in the past. This will effect 'backfilling ITFs' and the 're-try ITFs'. In both cases, ITF will be set to current day.
+* Veterans can answer certain questions in an incomplete manner as they are not aware of effective date that is potentially earlier than the day they are filling the form.
+  
+#### Measuring Success:
+* Every new or resumed pension application has an ITF set while there is no change to user experience.
+* That VSRs can understand how to translate ITFs received. They may see one or many in VBMS. They are able to figure out which one to use that benefits the Veteran most.
+  
 
 ## V0.5 - Mirror 526?
+### Goal: 
+#### Why V0.5:
+#### Existing behavior:
+#### Hypothesis / Proposed Behavior:
+#### Assumptions:
+#### Risks: 
+* 526 and 527 have different architectures
+* Comp ITF and pension ITF have different behavior hence may need to be developed differently
+  
+#### Measuring Success:
+* Every new or resumed pension application has an ITF set while there is no change to user experience
 
 ## V1 - Introduce ITF functionality to pension web form
 ### Goal: Introduce intent to file functionality to enable more Veterans to receive an earlier effective date
