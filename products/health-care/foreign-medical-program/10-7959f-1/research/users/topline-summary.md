@@ -12,7 +12,7 @@
 
 
 
-* There were various usability issues found through testing that should be taken under consideration.
+* There were [various usability issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/preliminary-research-findings.md) found through testing that should be taken under consideration.
 
 
 ### Finding #2
@@ -62,12 +62,13 @@ P7: “I said, well, that's not what FMP is for. It's for anything because I'm r
     * Veterans mentioned having at least two mailing addresses and phone numbers but didn't know how to inform FMP which one to use in a specific scenario without filing an entirely new form or calling FMP. 
 
 
-### Form Improvements
+### Opportuntities for improvement on the form
 
 
 
 * A number of improvements can be made to the form to ease the Veteran experience.
     * Most Veterans don’t understand what a “VA file number” is unless they have one.
-    * Most participants expected the review page to have the accordions pre-expanded.** **They explained that they wouldn’t go through the extra steps of expanding each accordion to check their information, but would likely look it over if the information were displayed all at once.
+    * Most participants expected the review page to have the accordions pre-expanded.
+    * They explained that they wouldn’t go through the extra steps of expanding each accordion to check their information, but would likely look it over if the information were displayed all at once.
     * Participants who lived abroad have trouble correctly entering their phone numbers and addresses if the inputs aren’t flexible enough.
     * If Veterans update their information on an FMP application or claim, they expect it to update in the entire VA system, but it doesn’t. 
