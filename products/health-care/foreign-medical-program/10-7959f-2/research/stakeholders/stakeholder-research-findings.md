@@ -297,3 +297,6 @@ During research, we found that some Veterans are submitting multiple claims for 
 
 * When the portal goes live in the future, consider making it easier for Veterans to submit multiple claims for the same providers over multiple service dates.
 * Continue to consider potential technical solutions as new capabilities emerge.
+
+##Appendix
+Research Plan(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/stakeholders/stakeholder-research-plan-and-conversation-guide.md)
