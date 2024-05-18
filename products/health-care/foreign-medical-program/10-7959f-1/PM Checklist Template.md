@@ -50,12 +50,6 @@
 
 
 - [ ] Discovery
-     - [ ] What is the problem to be solved
-     - [ ] What solutions have been made (internal or external) to resolve this problem
-     - [ ] What are the possible solutions
-     - [ ] How would we solve the problem
-     - [ ] What are the efforts involved (time, design, technical)
-     - [ ] What is the ROI potential for each solution
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
 - [x] **Create Epic to identify the problem and solution**
