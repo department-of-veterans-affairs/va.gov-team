@@ -4,14 +4,13 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: 
-- FE Engineer: 
-- BE Engineer: 
-- Designer:
-- Researcher:
-- Slack channel: #1010-health-apps
-- GitHub tag:
+- OCTO-DE Product Lead: Premal Shah
+- Product Manager: Mary Wang
+- FE Engineer: Rachel Eiting
+- BE Engineer: Bryan Alexander
+- Designer: Brian Wilke
+- Researcher: Rachael Penfil, Steven Straily
+- Slack channel: #ivc-forms
 
 </details>
 
@@ -20,19 +19,16 @@
 <details>
 
 - Project epic #
-- [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
-- Initiative brief
-- Whiteboard sketch or other lo-fi prototypes or wireframes
+- [Product outline]()
 - User flows
 - Research plan 
 - Conversation guide
 - North Star and KPIs for the product
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - va.gov/health-care/apply/application/introduction
+     - va.gov/health-care/
 - Use cases
 - Finalized design prototype or mockup
-- Content brief
 - Regression test plans
 - TestRail 
      - Test cases
@@ -50,39 +46,27 @@
 
 <details>
 
-- [ ] **Create Initiative Brief with the Problem Statement and as many details known**
-     - [ ] **Update the Initiative Brief after each step with links to the artifacts and more details known**
 - [ ] Discovery
-     - [ ] What is the problem to be solved
-     - [ ] What solutions have been made (internal or external) to resolve this problem
-     - [ ] What are the possible solutions
-     - [ ] How would we solve the problem
-     - [ ] What are the efforts involved (time, design, technical)
-     - [ ] What is the ROI potential for each solution
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
-- [ ] **Create Epic to identify the problem and solution**
-- [ ] Optional - **Sign up for a Product Review session to present the initiative (~after Design Intent)**
-- [ ] Create corresponding stories to align with the work needed (start with this list!)
-- [ ] Initial design
-     - [ ] Lo-Fi design ideas
-     - [ ] Presentation and agreement with the team on direction
-          - [ ] Confirm Frontend and Backend efforts
+- [x] **Create Epi**
+- [x] Create corresponding stories to align with the work needed (start with this list!)
+- [x] Initial design
+     - [x] Lo-Fi design ideas
      - [ ] Presentation to Stakeholders and downstream system representatives
-- [ ] **Submit Collaboration Cycle request ticket**
-     - [ ] **Review Collaboration Cycle site**
-     - [ ] **Start gathering artifacts (list above)**
-     - [ ] **Maintain this checklist of artifacts, updating as they are shared**
-- [ ] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
-     - [ ] Present design and obtain feedback
-- [ ] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Submit Collaboration Cycle request ticket**
+     - [x] **Review Collaboration Cycle site**
+     - [x] **Start gathering artifacts (list above)**
+     - [x] **Maintain this checklist of artifacts, updating as they are shared**
+- [x] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
+     - [x] Present design and obtain feedback
+- [x] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
-- [ ] Create prototype or basic working functionality in environments
-     - [ ] The team can determine the best path, used for research
-- [ ] Create Research Plan and Conversation Guide
-- [ ] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Create prototype or basic working functionality in environments
+- [x] Create Research Plan and Conversation Guide
+- [x] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
      - [ ] Synthesize research findings
@@ -95,7 +79,6 @@
      - [ ] Engineers work with Designers on any questions/clarifications
      - [ ] Present to team for validation
      - [ ] Present to Stakeholders for validation
-- [ ] **Submit QA ticket and schedule with Tze (based on Dev ETA)**
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
