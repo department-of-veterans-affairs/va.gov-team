@@ -31,7 +31,6 @@
      - va.gov/
 - Use cases
 - Finalized design prototype or mockup
-- Content brief
 - Regression test plans
 - TestRail 
      - Test cases
@@ -49,8 +48,7 @@
 
 <details>
 
-- [ ] **Create Initiative Brief with the Problem Statement and as many details known**
-     - [ ] **Update the Initiative Brief after each step with links to the artifacts and more details known**
+
 - [ ] Discovery
      - [ ] What is the problem to be solved
      - [ ] What solutions have been made (internal or external) to resolve this problem
@@ -60,31 +58,27 @@
      - [ ] What is the ROI potential for each solution
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
-- [ ] **Create Epic to identify the problem and solution**
-- [ ] Optional - **Sign up for a Product Review session to present the initiative (~after Design Intent)**
+- [x] **Create Epic to identify the problem and solution**
 - [ ] Create corresponding stories to align with the work needed (start with this list!)
-- [ ] Initial design
-     - [ ] Lo-Fi design ideas
-     - [ ] Presentation and agreement with the team on direction
-          - [ ] Confirm Frontend and Backend efforts
+- [x] Initial design
+     - [x] Lo-Fi design ideas
+     - [x] Presentation and agreement with the team on direction
+          - [x] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
-- [ ] **Submit Collaboration Cycle request ticket**
-     - [ ] **Review Collaboration Cycle site**
-     - [ ] **Start gathering artifacts (list above)**
-     - [ ] **Maintain this checklist of artifacts, updating as they are shared**
-- [ ] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
-     - [ ] Present design and obtain feedback
-- [ ] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Submit Collaboration Cycle request ticket**
+- [x] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
+     - [x] Present design and obtain feedback
+- [x] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
-- [ ] Create prototype or basic working functionality in environments
+- [x] Create prototype or basic working functionality in environments
      - [ ] The team can determine the best path, used for research
-- [ ] Create Research Plan and Conversation Guide
-- [ ] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
-- [ ] Schedule research sessions with Perigean
-- [ ] Conduct research sessions
-     - [ ] Synthesize research findings
+- [x] Create Research Plan and Conversation Guide
+- [x] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Schedule research sessions with Perigean
+- [x] Conduct research sessions
+     - [x] Synthesize research findings
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets/changes for design
 - [ ] **Create Use Cases**
