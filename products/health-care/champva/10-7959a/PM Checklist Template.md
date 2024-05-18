@@ -52,9 +52,9 @@
           - [ ] Is there a data change, and can the downstream system accept the data?
 - [x] **Create Epic to identify the problem and solution**
 - [ ] Create corresponding stories to align with the work needed (start with this list!)
-- [ ] Initial design
-     - [ ] Lo-Fi design ideas
-     - [ ] Presentation and agreement with the team on direction
+- [x] Initial design
+     - [x] Lo-Fi design ideas
+     - [x] Presentation and agreement with the team on direction
           - [ ] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
 - [x] **Submit Collaboration Cycle request ticket**
