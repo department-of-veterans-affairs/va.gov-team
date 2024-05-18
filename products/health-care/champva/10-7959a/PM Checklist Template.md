@@ -4,14 +4,13 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: 
-- FE Engineer: 
-- BE Engineer: 
-- Designer:
-- Researcher:
-- Slack channel: #1010-health-apps
-- GitHub tag:
+- OCTO-DE Product Lead: Premal Shah
+- Product Manager: Mary Wang
+- FE Engineer: Rachel Eiting
+- BE Engineer: Bryan Alexander
+- Designer: Brian Wilke
+- Researcher: Rachael Penfil, Steven Straily
+- Slack channel: #ivc-forms
 
 </details>
 
@@ -20,9 +19,7 @@
 <details>
 
 - Project epic #
-- [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
-- Initiative brief
-- Whiteboard sketch or other lo-fi prototypes or wireframes
+- [Product outline]()
 - User flows
 - Research plan 
 - Conversation guide
@@ -49,37 +46,28 @@
 ## List of process steps
 
 <details>
-
-- [ ] **Create Initiative Brief with the Problem Statement and as many details known**
-     - [ ] **Update the Initiative Brief after each step with links to the artifacts and more details known**
+     
 - [ ] Discovery
-     - [ ] What is the problem to be solved
-     - [ ] What solutions have been made (internal or external) to resolve this problem
-     - [ ] What are the possible solutions
-     - [ ] How would we solve the problem
-     - [ ] What are the efforts involved (time, design, technical)
-     - [ ] What is the ROI potential for each solution
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
-- [ ] **Create Epic to identify the problem and solution**
-- [ ] Optional - **Sign up for a Product Review session to present the initiative (~after Design Intent)**
+- [x] **Create Epic to identify the problem and solution**
 - [ ] Create corresponding stories to align with the work needed (start with this list!)
 - [ ] Initial design
      - [ ] Lo-Fi design ideas
      - [ ] Presentation and agreement with the team on direction
           - [ ] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
-- [ ] **Submit Collaboration Cycle request ticket**
-     - [ ] **Review Collaboration Cycle site**
-     - [ ] **Start gathering artifacts (list above)**
-     - [ ] **Maintain this checklist of artifacts, updating as they are shared**
+- [x] **Submit Collaboration Cycle request ticket**
+     - [x] **Review Collaboration Cycle site**
+     - [x] **Start gathering artifacts (list above)**
+     - [x] **Maintain this checklist of artifacts, updating as they are shared**
 - [ ] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
      - [ ] Present design and obtain feedback
-- [ ] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
-- [ ] Create prototype or basic working functionality in environments
-     - [ ] The team can determine the best path, used for research
+- [x] Create prototype or basic working functionality in environments
+     - [x] The team can determine the best path, used for research
 - [ ] Create Research Plan and Conversation Guide
 - [ ] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
