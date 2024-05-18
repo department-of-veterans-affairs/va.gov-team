@@ -6,7 +6,7 @@
 ### Product Team
 - OCTO-DE Product Lead: Premal Shah
 - Product Manager: Mary Wang
-- FE Engineer: Rachel Eiting
+- FE Engineer: Michael Clement
 - BE Engineer: Bryan Alexander
 - Designer: Brian Wilke
 - Researcher: Rachael Penfil, Steven Straily
