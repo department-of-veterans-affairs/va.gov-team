@@ -4,14 +4,14 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: 
-- FE Engineer: 
-- BE Engineer: 
-- Designer:
-- Researcher:
-- Slack channel: #1010-health-apps
-- GitHub tag:
+- OCTO-DE Product Lead: Premal Shah
+- Product Manager: Mary Wang
+- FE Engineer: Rachel Eiting
+- BE Engineer: Bryan Alexander
+- Designer: Brian Wilke
+- Researcher: Rachael Penfil, Steven Straily
+- Slack channel: #ivc-forms
+- GitHub tag: 
 
 </details>
 
@@ -20,8 +20,7 @@
 <details>
 
 - Project epic #
-- [10-10EZ Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
-- Initiative brief
+- [Product outline]
 - Whiteboard sketch or other lo-fi prototypes or wireframes
 - User flows
 - Research plan 
@@ -29,7 +28,7 @@
 - North Star and KPIs for the product
 - Authenticated test-user logins, when applicable. **_Do not put staging credentials in your va.gov-team ticket; store or reference them in a .md file in the va.gov-team-sensitive repository_**
 - Product URL(s)
-     - va.gov/health-care/apply/application/introduction
+     - va.gov/
 - Use cases
 - Finalized design prototype or mockup
 - Content brief
