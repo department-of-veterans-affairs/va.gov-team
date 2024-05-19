@@ -38,7 +38,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-         - 🟥 🟨 [[DESIGN] Create CodePen Prototype(s) for Research](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83297)
+         - 🟥 🟨 🟦 [Create CodePen Prototype(s) for Research](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83297)
     - **Sub Goal: [Feature] Create KPIs**
          - TBD   
     - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
