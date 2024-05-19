@@ -55,7 +55,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 ### Key Performance Indicators (KPIs)
 > 💡 Medication Disclosure Rate
-> 💡User Engagement with Medication Content
+> 💡 User Engagement with Medication Content
 
 ---
 
@@ -114,7 +114,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 - Team Name: Appointments team 
 - GitHub Label(s): appointments 
-- Slack channel: #appointments-team
+- Slack channel: #-appointments-instructions
 - Product POCs: Adam Oyenuga 
 
 </details>
