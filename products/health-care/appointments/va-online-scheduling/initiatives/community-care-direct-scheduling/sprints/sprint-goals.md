@@ -99,7 +99,7 @@ ________________________________________________________________________________
          - ✔️ 🟥 Attend Design Office Hours and get feedback from Platform
          - 🟥 [[DESIGN] Design updates to filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83141)
          - ✔️ 🟥 [[UX] Share out, get feedback, and implement changes to updated service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82899)
-         - 🟥 [[Design] Update Intro page to communicate that we're showing you more providers than just your preferences, if provided in the referral](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83298)
+         - ✔️ 🟥 [[Design] Update Intro page to communicate that we're showing you more providers than just your preferences, if provided in the referral](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83298)
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
          - 🟨 🟥 [[SPIKE] For MVP, brainstorm how we might want to show all referrals to Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81410)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
