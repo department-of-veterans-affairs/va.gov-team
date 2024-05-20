@@ -1,20 +1,33 @@
-## Background
+## What is In Person Proofing
 
-The VA has prioritized investment in the adoption of Login.gov as the primary sign-in method for Veterans accessing their benefits, because it is built on secure, modern technology and integrates easily with other government applications, requiring only one set of login credentials to be used across many sites. Login.gov currently offers remote identity verification along with an in-person option at United States Post Offices, however, these sites are not always prepared to accommodate the needs of Veterans. Consider that:
- - Login.gov relies primarily on remote identity verification, currently. 
-  - The current USPS in-person support is offered as a backup, not a primary method of identity proofing.
-During our discovery phase, we learned that Veterans are seeking a channel where they can rely on attendants to help them through identity verification.
-The number of controls required in NIST 800-63 when identity proofing remotely presents significant challenges. As of the May 2023 Login.gov identity verification report:
-Of the applicants that tried to submit documentation, less than 53% successfully completed the process;
-Further, ~27% of applicants abandon the process without even attempting to upload their documents.
-The draft revision 4 of NIST 800-63 is indicating that an in-person proofing option is required to meet IAL2.
+In Person Proofing (IPP) is a service that provides an in person method for validating a login.gov account. A Veteran must have a validated account in order to access their benefits on VA.gov (as well as services at other federal and state agencies). This project provides an alternative, physical process as an alternative to login.gov or id.me’s virtual proofing process, in which a participant uploads a photo of their face and photo ID.
 
-How might we meet Veterans where they are and create a means for Veterans to complete identity verification in person?
+For more information about this product, view the product brief (link)
 
-## Current Status
+### Current Status
 
-We are building an application from the ground up that supports Login.gov users to opt into in person proofing after they are prompted to verify. For our pilot, our target population include veterans who have had a Login.gov account but who have not yet verified their accounts. In addition to the veteran facing application, we are also building screens so that proofing agents may take Veterans through all verifications steps needed to upgrade to an IAL2 account. 
+Last updated: May 20, 2024
 
-We have created a prototype of our application in Figma using USWDS and Login.gov components since long term this will be a proofing solution for all Login.gov users. We are planning out usability studies in advance of pilot implementation and an observational onsite study.
+This service is currently in Pilot phase, with a pilot scheduled for June xx at a VA Medical Center in Baltimore MD.
 
+View the application repository or the pilot application (hosted on LHDI)
 
+### Previous Phases
+* **March 2024 - Present**: Application build out and Pilot
+* **August 2023 - March 2024**: Usability testing of the IPP service
+* **April 2023 - August 2023**: Service design and iteration
+* **December 2022 - April 2023**: Discovery and early research
+
+Read the [Historical Context]() document for more information about these phases.
+
+### Sub Directories and Notable Documents
+* [Product](/in-person-proofing/product/README.md)
+    * [Product Outline/Brief](/in-person-proofing/product/product-brief.md)
+    * [Historical Context](/in-person-proofing/product/historical-context.md)
+    * [How do we know we’re successful](/in-person-proofing/what-does-success-look-like.md)
+* Research (link)
+    * 
+* Design (link)
+    * Service blueprint 
+    * Figma prototype
+    * Future state documentation
