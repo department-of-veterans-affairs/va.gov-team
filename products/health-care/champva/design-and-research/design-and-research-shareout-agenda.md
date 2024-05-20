@@ -7,7 +7,13 @@
 * Facilitator: Devi 
 * Next meeting facilitator: Rachael
 * Agenda topics:
-     * FMP registration and FMP claim updates   
+     * FMP registration and FMP claim updates
+          * use the same 'same as' address pattern on both FMP forms
+          * phone number: how is this being used? 
+          * FMP claim form: add ‘mailing address’ clarification to the payment screen copy
+
+Update copy for 
+
      * 10-10 Health & IVC UX Sync on 5/31 to identify opportunities between the UX teams.
          * Meeting Purpose: Coordination and collaboration on design and to review designs in progress so far.
          * Identify design and research opportunities moving forward
