@@ -14,16 +14,16 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * Internal reporting on incidents.
 
 ## Relevant Documents:
-### From the SLO & SLA Projects
+**From the SLO & SLA Projects**
 - [SLO & SLI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md)
 - [SLA Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md)
 - [Incident Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Incident%20Management.md)
-### UX Communication Recommendations
+**UX Communication Recommendations**
 - [Authentication Status Internal Communication for VA Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md)
 - [Content Research for Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)
-### What Platform Does
+**What Platform Does**
 - [Incident Response Documentation for Application Teams](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
-### Identity Processes Previously Established
+**Identity Processes Previously Established**
 - [SSOe Outage on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Policies%20and%20Procedures/SSOe_Outage_Response.md)
 - [Update Monitors Alerts Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/Monitoring%20and%20Alerting/Monitors_Alerts_Datadog.md) (very old, should be deleted after mined for use)
 
