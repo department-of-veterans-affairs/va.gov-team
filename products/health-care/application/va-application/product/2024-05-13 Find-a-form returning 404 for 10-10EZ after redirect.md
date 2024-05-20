@@ -48,6 +48,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
 | Update the [README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md) for Redirects in DevOps folder | PM - Jill Adams | [vfs-cms-team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-cms-team) | [va.gov-team - PR #14328](https://github.com/department-of-veterans-affairs/devops/pull/14328) |
+| Additional CAIA iterations/process enhancements | Sitewide CAIA team | Sitewide CAIA team | Tickets TBD |
 
 ## Root Cause Analysis
 
