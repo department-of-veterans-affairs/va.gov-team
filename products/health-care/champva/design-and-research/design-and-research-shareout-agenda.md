@@ -9,7 +9,7 @@
 * Agenda topics:
      * FMP registration and FMP claim updates
           * use the 'same as' address pattern on both FMP forms
-          * phone number: how is this being used? Need to do some more research
+          * phone number: how is this being used/stored? Need to do some more research
           * accordion on review page: consider doing some more research/investigation
           * FMP claim form: add ‘mailing address’ clarification to the payment screen copy
 
