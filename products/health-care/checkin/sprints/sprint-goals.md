@@ -3,6 +3,35 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>FUTURE SPRINT - 6/26/2024 - 7/6/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 10 - 6/26/024 - 7/6/2024  ------- FUTURE FUTURE / TENTATIVE ------
+#### SPRINT GOALS
+- **GOAL: Support Production**
+    - **Sub Goal: Move to New AWS Instance**
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+    - **Sub Goal: Analyze current metrics to see what they tell us**    
+
+- **GOAL: Support Production**
+    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
+    - **Sub Goal: Move to New AWS Instance**
+        - ❗ TBD
+- **GOAL: Increase PCI Usability**    
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
+        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)  
+        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)        
+        - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)  
+    - **Sub Goal: Analyze current metrics to see what they tell us**
+        - 🟥 [Research] Analyze GA Metrics
+        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/83490)
+        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
+
+</details>
+
+<details>
 <summary>FUTURE SPRINT - 6/12/2024 - 6/25/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
@@ -13,8 +42,6 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Analyze current metrics to see what they tell us**    
-- **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
 - New Landing Page **WITH** Upcoming Appointments
@@ -22,13 +49,12 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
+    - ❗🟦 [Implement Solution to Handle BTSSS API Timeouts ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83026)
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
 - **GOAL: Increase PCI Usability**    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Add configuration to devops repos ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68699)
-        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)     
-        - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
+         - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)    
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80232)
@@ -57,24 +83,22 @@ ________________________________________________________________________________
     - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
-- New Landing Page **WITHOUT** Upcoming Appointments
+- NONE
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79883)
     - ❗🟨 [Rotate AWS Keys - May 30, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76343)
-    - ❗🟦 [Implement Solution to Handle BTSSS API Timeouts ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83026)
+    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)    
     - **Sub Goal: Move to New AWS Instance**
         - ❗ TBD
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
-        - 🟥 [[[Design] Create Final Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - 🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - 🟩 [Add Medication Review Content to Appts Product ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82908)
         - 🟩 [Add Medication Review Content to PCI Product(s) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Increase PCI Usability**    
-    - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
-        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)        
+    - **Sub Goal: New Landing Page with Upcoming Appointments**      
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
         - 🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
@@ -86,7 +110,7 @@ ________________________________________________________________________________
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)     
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)   
-        - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)      
+        - Schedule staging review
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
@@ -119,7 +143,7 @@ ________________________________________________________________________________
     - Added after sprint planning
         - ❗🟥 [Create Content for BTSSS API Timeout Workaround ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83210)        
         - ❗🟦 [Implement New SMS Message when BTSSS API Timesout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83466)
-    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)    
+    - ~❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)~
     - **Sub Goal: Move to New AWS Instance**
         - ⛔ 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
