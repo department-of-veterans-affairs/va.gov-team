@@ -1,6 +1,7 @@
 # Content decision log - Push notifications
 
 ## V2 decisions
+We took our V1 of push notifications consent and opt-in experience and made edits to account for potential additions to notifications. Not all screens had changes from V1 to V2.
 
 [V2 content GH ticket 8420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8420)
 <br>[Section in Figma with V2 designs/content](https://www.figma.com/design/LKmqgew3L2nSBl0qF6YOwI/%F0%9F%94%8D-Home-2.0---Working---VAMobile?node-id=1243-4986&t=iL0XLO00lmAHNMHR-4)
@@ -12,8 +13,8 @@
 
 
 
-The following screens have no changes from V1 decisions: Face ID, Notification setting enabled, and Notification setting disabled.
-
+_*The following screens have no changes from V1 decisions: Face ID, Notification setting enabled, and Notification setting disabled.*_</br>
+<br>
 
 ## V1 decisions
 In February/March 2024, we began our initial thinking around the end-to-end experience for Veterans when (1) they're first asked to turn on notifications and (2) there are subsequent encounters with push notification capabilities. These decisions were based on an opt-in flow that only accounts for the current push notifications we had at the time (appointments and messages). 
