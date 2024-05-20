@@ -1,23 +1,23 @@
 ## Attendees (Bold in attendance):
-- **(Remote) "Regenscheid, Andrew R. (Fed)" <andrew.regenscheid@nist.gov>**
-- Cale Rubenstein - QUEABC <cale.rubenstein@gsa.gov>,
-- **(Remote) carrie.mcgrath@gsa.gov**
-- **"LaSalle, Connie (Fed)" <connie.lasalle@nist.gov>**
-- **Daniel Lopez-Braus - QQ2 <daniel.g.lopez@gsa.gov>**
-- **"Temoshok, David M. (Fed)" <david.temoshok@nist.gov>**
-- **Dawn Muñoz <dawn@themostudio.com>**
-- **Jeffrey Bordogna - QUEABB <jeff.bordogna@gsa.gov>**
-- **(Remote) Jesse James <jesse.james@themostudio.com>**
-- **"Rahaghi, John" <john.rahaghi@va.gov>**
-- **Jonathan Hooper <jonathan.hooper@gsa.gov>**
-- **Micah Saul - QQ2B <micah.saul@gsa.gov>**
-- **mossadeq.zia@gsa.gov**
-- **"Galluzzo, Ryan J. (Fed)" <ryan.galluzzo@nist.gov>**
-- **Sofia Kirkman <sofia@themostudio.com>**
-- **(Remote) Sophia Philip <sophia@themostudio.com>**
-- **(Remote) Svenja Leggewie <svenja@themostudio.com>**
-- **"Black, Thomas M." <thomas.black2@va.gov>**
-- Tiffany Andrews - QQ2D <tiffanyj.andrews@gsa.gov>
+- Regenscheid, Andrew R. 
+- Cale Rubenstein
+- Carrie McGrath
+- LaSalle, Connie 
+- Daniel Lopez-Braus
+- Temoshok, David M.
+- Dawn Muñoz 
+- Jeffrey Bordogna
+-Jesse James 
+- Rahaghi, John
+- Jonathan Hooper 
+- Micah Saul 
+- mossadeq.zia
+- Galluzzo, Ryan J
+- Sofia Kirkman
+- *Sophia Philip 
+- Svenja Leggewie 
+- Black, Thomas M
+- Tiffany Andrews 
 
 ## Agenda:
 1. Introductions
