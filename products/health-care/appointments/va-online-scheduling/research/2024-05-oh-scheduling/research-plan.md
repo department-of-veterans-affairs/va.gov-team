@@ -139,17 +139,25 @@ We are leveraging a lean maximum variation strategy for this study to ensure a d
 ### Recruitment Criteria
 
 #### Total Number and Type of Participants
-- **Total Participants:** 4-6
+- **Total Participants:** 10-12
+- 50% Mobile 50% Desktop
 - **Type of Participants:** Veterans
 
 #### Primary Criteria (Must-Haves)
 Participants must meet the following criteria to effectively participate in the study:
-1. **Veterans who have scheduled an appointment through the Oracle Health VA scheduling portal.**
+1. **Veterans who have scheduled an appointment at an Oracle Health Facility .**
 
 **Screener Questions:**
-1. Have you scheduled an appointment using the Oracle Health VA scheduling portal? (Yes/No)
+1. Have you used the My VA Health Portal to review your Health appointments? (Yes/No)
    - **Qualifying Response:** Yes
-2. Do you currently receive care at an Oracle Health VA facility? (Yes/No)
+2. Do you have upcoming appointments at any of the following facilities? (Yes/No)
+
+Mann-Grandstaff VA Medical Center in Spokane, Washington
+Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
+VA Central Ohio Healthcare System in Columbus, Ohio
+Roseburg VA Health Care System in Roseburg, Oregon
+VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
+
    - **Qualifying Response:** Yes
 
 #### Secondary Criteria (Nice-to-Haves)
