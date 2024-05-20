@@ -45,8 +45,4 @@ _What to expect during the pilot_
 Below are the in-person identity proofing steps we’ll be testing. Each session with a Veteran should take about 20 minutes. We expect to have 9 Veterans over a 4 day period.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+Include [graphic](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716230692746/f51a3382b1803af524a38af30a24854b3351bbb0?sender=u1b0df595924572baa8a94764)
