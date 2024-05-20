@@ -55,34 +55,27 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * Status IO Page
 * Planned Outage Communications
 
-## Use Cases:
+## High-Level Use Cases:
 * As a VA.gov team member, I would like the Identity team to create a process for incident response, so that I may know what to expect when there are service outages.
-* As a Va.gov user, I would like to see banners that tell me there is a current issue with logging into VA.gov, so I understand why I cannot login
+* As a Va.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot login
 
 
 ## Assumptions:
-We build upon what we we put in the SLA:
+- We build upon what we we put in the [SLA Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md) for the definition of Incident.
+- We update the current Datadog alert links, which are currently broken.
+- We determine and document where our lines of responsibilites begin and end.
+- We automate as much of the communication as is possible.
+- The System Recovery piece will help fulfill our ATO responsibilities (two for the price of one!)
+- We come up with a prioritization / triage process for alerts based upon severity. (Possibly starting with that SLA doc.)
+- We revisit our levels of response within our current off-hour alerts (in datadog).
+- We come with with a list of sources of incident reporting and what the response will be. (Or maybe a table?)
 
-The OCTO Identity team responds to service outages as follows:
 
-| Severity level | Description | Response time |
-| --- | --- | --- |
-| Severity 1 | Impacting more than 1,000 VA.gov users per hour | 1 hour |
-| Severity 2 | Impacting more than 50 VA.gov users per hour | 4 hours |
-| Severity 3 | Impacting less than 50 VA.gov users per hour. Includes non-production issues. | 1 business day |
-
-### Urgent requests outside of business hours
-
-Urgent requests are defined as issues impacting VA.gov users on production servers.
-
-If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email: [component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com](mailto:component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com).
-
-The OCTO Identity team monitors system performance and inbound communications 24x7 via Pager Duty and responds within 30 minutes to any alerts.
 
 ## Solution Approach: 
 In order to track each Deliverable by each Area of Responsibility, we've created this table:
 
-| Area         | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
+|Deliverable ->   Area     | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
 | :------------- |:------------- | :----- | :----- |  :----- |  :----- |
 | USiP | | | | | |
 | SSOe | | | | | |
@@ -94,7 +87,7 @@ In order to track each Deliverable by each Area of Responsibility, we've created
 | DS Logon | | | | | |
 | MPI | | | | | |
 
-It may not be be that every single field will be filled out.
+The early thinking is that each field will contain a link to where our documentation for that solution exists. It may not be be that every single field will be filled out, but if a field doesn't need to be filled out, as simple "n/a" will suffice.
   
 ## Technical Considerations:
 | Issue         | Notes         | 
