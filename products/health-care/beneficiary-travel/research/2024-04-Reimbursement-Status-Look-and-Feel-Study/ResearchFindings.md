@@ -240,23 +240,28 @@ Education:
 
 
 
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 5
+* Bachelor's degree: 2
+* Master's degree: 1
+* Doctorate degree: 0
+* Unknown: 0
 
-Geographic location:
+Submitted for Travel Pay in Past 5 years:
+* Never: 2
+* 1 - 5 times: 2
+* 6+ times: 5
+
+Amended a Travel Claim (of 7)
+* Yes: 5
+* No: 4
+
+Cognitive impairement 
+* Yes: 3
+* No: 6
 
 
-
-* Urban: x
-* Rural: x
-* Unknown: x
-* Asian: x
-* Native: x
 
 
 ## **Underserved groups we haven’t talked to**
