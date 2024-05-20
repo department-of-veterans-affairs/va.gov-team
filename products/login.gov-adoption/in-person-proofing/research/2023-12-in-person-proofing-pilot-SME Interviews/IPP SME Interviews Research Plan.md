@@ -58,7 +58,7 @@ Remote, Zoom
 
 ### Research materials
 
-[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/IPP%20SME%20Interviews/IPP%20SME%20Interview%20Conversation%20Guide)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2023-12-in-person-proofing-pilot-SME%20Interviews/IPP%20SME%20Interview%20Conversation%20Guide)
 
 [IPP User Journey](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715873173305/58b1d54bedb189a9f6f7242e1b689cd2a31f869e?sender=u1b0df595924572baa8a94764)
 
