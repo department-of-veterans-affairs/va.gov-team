@@ -140,7 +140,7 @@ Assistive technology users rely on proper semantics to access web content. They 
 
 ***
 
-## When to use ARIA (draft)
+## When to use ARIA
 
 What's ARIA? The W3C defines it like this:
 
@@ -208,4 +208,4 @@ Another way to think about this through the lens of our work on VA.gov and assoc
 
 ### Last updated
 
-May 14, 2024
+May 20, 2024
