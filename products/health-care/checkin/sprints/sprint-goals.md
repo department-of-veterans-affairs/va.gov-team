@@ -129,7 +129,7 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend DynamoDB table.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83314)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
+        - ✔️ 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
         - 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Add New Translated Content**
@@ -137,7 +137,7 @@ ________________________________________________________________________________
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 [[FE] Add Accordions to the Appointments Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
         - 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
-        - 🟩 [[FE] - Review current past 15 minutes but still in lorota flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
+        - ✔️ 🟩 [[FE] - Review current past 15 minutes but still in lorota flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
         - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
         - 🟩 [[FE] - Details check-in button skips flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/82974)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
@@ -147,10 +147,10 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80224)
-        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
 - **GOAL: Address Tech Debt**    
     - 🟩 [Review & Update our Production Support & Incident Response Documentation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82430)
-    - 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
+    - ✔️ 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
     - 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83002)
     
 ______________________________________________________________________________________________________________________________________________________
