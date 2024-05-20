@@ -9,7 +9,7 @@ What steps will we take to respond and remediate outages to our services.
 - Sign-in Service (SiS)
 - Terms of Use (ToU)
 
-### External (but still responsible) (to a point)
+### Indirectly Responsibile (to a point)
 - Credential Service Providers (CSP)
 - Master Person Index (MPI)
 
