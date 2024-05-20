@@ -45,15 +45,15 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
       * Note that we don't have the auto-creation yet.
       * No hard business requirements are known here, so this could be handled in whatever way makes sense to CAIA + engineering.
   * **Tickets**
-    *  Engineering task ticket: auto-populate the VA Benefit API ID with camelCase of benefitName
+    * Engineering task ticket: auto-populate the VA Benefit API ID with camelCase of benefitName
       * [[VA Benefits Taxonomy] Auto-populate the VA Benefit API ID with camelCase of benefitsName #18162](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18162)
             
 ### 👉🏼 How to Apply Section
   * **Requirements**
-    *  This is for programs like Dental Care, where the Veteran is filling out Form 10-10ez.
-      *  For programs like dental care, where you apply by filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit. For MVP, we will solve this using the text in the How to Apply section.
-  *  **Tickets**
-    *  Engineering task ticket: Update the help text in the How to Apply section to help the Veteran understand their choices for applying for benefits. e.g. filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit.
+    * This is for programs like Dental Care, where the Veteran is filling out Form 10-10ez.
+      * For programs like dental care, where you apply by filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit. For MVP, we will solve this using the text in the How to Apply section.
+  * **Tickets**
+    * Engineering task ticket: Update the help text in the How to Apply section to help the Veteran understand their choices for applying for benefits. e.g. filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit.
         - CAIA to provide the verbiage.
         - [[VA Benefits Taxonomy] Update text in the 'How to Apply' sections with more descriptive verbiage provide by CAIA #18163](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18163)
 
@@ -64,10 +64,11 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
       -  Example: Question is asked of the Veteran: "Add Exclusionary benefits?" Example of options "Housebound **or** Aid & Attendance", etc. The note to the Veteran will be something like: "You can have one of these or the other, but not both (if you choose this benefit, you can’t select this linked benefit)."
     * _Simultaneous Benefits Definition:_ Meaning > if you have this benefit, you MUST have this other benefit at the same time, _or_ you’re automatically enrolled in this other benefit at the same time.
       -  Example language: Add Simultaneous benefit? Note to Veteran: What we’re talking about here is a benefit that you should or must consider applying for or obtaining at the same time as this benefit.
-  *  **Tickets**
-      *  Content modeling Ticket... involve Dave Picket. Creating a linked tree, where one things has a reference to another. And we call that exclusionary. If an editor is looking at editing a benefit they would see a way to add/check exclusionary benefits. A separate field for simultaneous. Questions: Can a benefit have both exclusionary and simultaneous linked benefits? Dave will need to collaborate with UX/Daniel for field names.
-      * Ticket: UX: design of the forms in the CMS for the editors. Will need help text. 
-      * Ticket: Engineering ticket: build this.
+  * **Tickets**
+    * Ticket: Content modeling: involve Dave Picket. Creating a linked tree, where one things has a reference to another. And we call that exclusionary. If an editor is looking at editing a benefit they would see a way to add/check exclusionary benefits. A separate field for simultaneous. Questions: Can a benefit have both exclusionary and simultaneous linked benefits? Dave will need to collaborate with UX/Daniel for field names.
+      * [[VA Benefit Taxonomy] Content modeling for Exclusionary and Simultaneous Benefits #18165](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18165)
+    * Ticket: UX: design of the forms in the CMS for the editors. Will need help text. 
+    * Ticket: Engineering ticket: build this.
        
 ### 👉🏼 Benefit Description
   * **Requirements**
