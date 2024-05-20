@@ -9,10 +9,10 @@
 * Agenda topics:
      * FMP registration and FMP claim updates   
      * 10-10 Health & IVC UX Sync on 5/31 to identify opportunities between the UX teams.
-              * Meeting Purpose: Coordination and collaboration on design and to review designs in progress so far.
-              * Identify design and research opportunities moving forward
-              * Share learnings and findings between the UX teams.
-              * Maybe the meeting can become a working session? We will want to understand purpose/goals for additional meetings between the teams.
+         * Meeting Purpose: Coordination and collaboration on design and to review designs in progress so far.
+         * Identify design and research opportunities moving forward
+         * Share learnings and findings between the UX teams.
+         * Maybe the meeting can become a working session? We will want to understand purpose/goals for additional meetings between the teams.
      * OHI Cert Midpoint Updates (if time permits)
 
 
