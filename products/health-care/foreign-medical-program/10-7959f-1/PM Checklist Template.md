@@ -1,4 +1,4 @@
-# Checklist for [Initiative Name]
+# Checklist for FMP Registration
 
 ## List your team, project contributors, and reviewers
 <details>
