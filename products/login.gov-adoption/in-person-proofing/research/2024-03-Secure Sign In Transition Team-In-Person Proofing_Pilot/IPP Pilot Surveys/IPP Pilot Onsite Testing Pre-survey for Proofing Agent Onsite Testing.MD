@@ -6,6 +6,7 @@ Thank you for your participation in the In-Person Identity Proofing Pilot! Your 
 - [ ] Moderately familiar
 - [ ] Very familiar
 - [ ] Extremely familiar
+
 Please explain your response below:
 
 
@@ -19,6 +20,7 @@ Please explain your response below:
 - [ ] Very Confident
 - [ ] Extremely Confident
 - [ ] Not applicable
+
 Please explain your response below:
 
 
@@ -30,6 +32,7 @@ Please explain your response below:
 - [ ] Moderately Confident
 - [ ] Very Confident
 - [ ] Extremely Confident
+
 Please explain your response below:
 
 
@@ -43,6 +46,7 @@ Please explain your response below:
 - [ ] Easy
 - [ ] Very Easy
 - [ ] Not Applicable
+
 Please explain your response below:
 
 
@@ -55,6 +59,7 @@ Please explain your response below:
 - [ ] Moderately Confident
 - [ ] Very Confident
 - [ ] Extremely Confident
+
 Please explain your response below:
 
 
@@ -66,6 +71,7 @@ Please explain your response below:
 - [ ] Moderately Confident
 - [ ] Very Confident
 - [ ] Extremely Confident
+
 Please explain your response below:
 
 
