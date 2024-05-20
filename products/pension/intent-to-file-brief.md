@@ -62,7 +62,7 @@ ITF is currently not available for online pension applicants. Submission date is
 * When Veterans resume an in-progress form, by establishing ITF they get an ITF on the day they return (if they don't already have an ITF). Note: API cannot set ITFs in the past. This will effect 'backfilling ITFs' when forms are resumed and the 're-try ITFs' mechanism. ITF will be set to current day, based on when a succesful API call is made.
 
 #### Assumptions:
-* That we can set ITF for the Veteran, without their explicit permission.
+* That we can set ITF for the Veteran, without their explicit permission. This is currently being explored with policy teams. If this is not possible, then we decide if we jump to V0.5 or V1.
   
 #### Risks/Limitations: 
 * As V0 has no UI, by setting ITF in the background with no user awareness, it might confuse certain users and their benefits/ITF experience.
