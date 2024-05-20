@@ -214,7 +214,7 @@ Key quotes:
   * We should consider providing dates for the Gulf War question because one of our participants wasn't sure what time period that was referring to.
 
  
-* <b>Recommendation 4: Incorporate more branching logic into the form so Veterans are only asked questions that are potentially relevant to them.</b>
+* <b>Recommendation 4: Incorporate more customization into the form so Veterans are only asked questions that are potentially relevant to them.</b>
   * 4 out of 7 Veterans mentioned wanting the questions to be dynamic based on their DOB, service dates, or previous answers.
   * 2 Veterans mentioned that the questions seem very generic and could be more tailored to the person filling them out.
   * We ask for service history before the TERA questions so there's an opportunity to skip certain questions based on service dates.
