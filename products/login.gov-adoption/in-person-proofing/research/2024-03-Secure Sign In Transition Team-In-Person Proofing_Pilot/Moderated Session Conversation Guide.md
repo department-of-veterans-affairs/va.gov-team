@@ -1,4 +1,4 @@
-## IPP PIlot Moderated Application Session Conversation Guide
+## IPP Pilot Moderated Application Session Conversation Guide
 ### Research Session Prep
 - Signage will have been put up
 - VA staff informed of testing and instructed to direct Veterans to testing area
