@@ -1,4 +1,4 @@
-# Conversation Guide for Unified Scheduling Portal Usability Study
+# Conversation Guide for Unified Scheduling Usability Study
 
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
