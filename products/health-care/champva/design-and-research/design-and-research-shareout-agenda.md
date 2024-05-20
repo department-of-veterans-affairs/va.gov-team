@@ -1,6 +1,15 @@
 # Running Design and Research Share-out Agenda
 
 
+## May 20, 2024: Notes
+
+
+* Facilitator: Devi 
+* Next meeting facilitator: Rachael
+* Agenda topics:
+     * 10-10 Health & IVC UX Sync on 5/31 to identify opportunities between the UX teams.
+
+
 ## May 13, 2024: Notes
 
 
