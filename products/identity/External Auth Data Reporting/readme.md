@@ -27,22 +27,25 @@ The data produced by request from the Identity Team is often not instantly under
 ## What's In Scope (MVP): 
 Here are the things we propose to report upon in the MVP:
 
-1. Monthly/Daily Active Users
-   - Satisfaction/trust rating (experience)
-     - What does "good" look like?
-     - What does "bad" look like
-2. User Intervention Required Errors
+**Quantitative Data**
+- Monthly/Daily Active Users
+- Latency / Time to Login
+- Credential Preference
+   - Which CSP are people using to login per month?
+- Device Type Preference
+   - Mobile vs. desktop
+- Which pages see the most auths
+   - Where are people initiating logins from?
+
+**Qualitative Data**
+- User Intervention Required Errors
    - Report on errors where a users sign in error cannot be resolved with a self service solution, requiring the user to call the help desk or fill out a ticket.
      - An example of these types of errors are ones where a user has multiple active corp ids from the MPI response. MPI is the user information source of truth. They give us all the user attributes we need to determine if a user should be able to access something on va.gov. If MPI responds back to us with multiple active corp ids, we cannot allow the user to login to va.gov. The reason for this is that we have forms on va.gov that expect only one corp id to be present. If we allow the user object to contain two values then the form submission may get messed up downstream.
      - These types of errors have been called “catastrophic errors” in other circles. These types of errors require that a person call the help desk or fill out ticket in order to have something manually edited by a human to allow them to login to va.gov
-3. Latency / Time to Login
-4. Credential Preference
-   - Which CSP are people using to login per month?
-5. Device Type Preference
-   - Mobile vs. desktop
-6. Which pages see the most auths
-   - Where are people initiating logins from?
-7. Feedback from users on whether they're able to do what they wanted
+- Satisfaction/trust rating
+  - Determine what "good" looks like
+  - Determine what "bad" looks like
+- Feedback from users on whether they're able to do what they wanted
 
 ## Out of Scope: (for this iteration)
 Other things we might want to measure in the future:
