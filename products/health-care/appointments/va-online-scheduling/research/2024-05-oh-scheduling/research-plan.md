@@ -62,12 +62,27 @@ This research will provide critical insights into the effectiveness of the unifi
   - **Action**: Incorporate viable suggestions into the idea board to continuously improve the scheduling flow.
 
 
-### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+### Simplified Hypotheses
+
+#### Oracle Health Integration
+
+1. **Veterans will prefer to choose a specific provider for most types of care.**
+
+2. **Veterans' preferences for providers will change based on the type of care (Primary vs. Specialty) and whether they have an established provider.**
+
+3. **Veterans will prioritize scheduling with providers who have the soonest availability.**
+
+#### Scheduling Improvements
+
+1. **Veterans will want to see all nearby locations when searching for a new appointment, not just where they are registered.**
+
+2. **Veterans will prefer to choose locations where they have recently scheduled appointments.**
+
+3. **Veterans will want shortcuts to quickly schedule similar appointments to those they've had before.**
+
+4. **Scheduling similar appointments to past ones will help Veterans schedule more quickly.**
+
+5. **Veterans need reminders that the scheduling tool is not for emergencies.**
 
 ## Methodology
 
