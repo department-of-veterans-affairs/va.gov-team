@@ -9,6 +9,7 @@
 * Agenda topics:
      * FMP registration and FMP claim updates   
      * 10-10 Health & IVC UX Sync on 5/31 to identify opportunities between the UX teams.
+     * OHI Cert Midpoint Updates (if time permits)
 
 
 ## May 13, 2024: Notes
