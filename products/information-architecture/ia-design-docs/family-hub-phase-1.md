@@ -189,7 +189,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - STEM scholarship: https://www.va.gov/education/other-va-education-benefits/stem-scholarship/
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
-       - Ch 36: https://www.va.gov/careers-employment/education-and-career-counseling/
+       - Ch 36: https://www.va.gov/careers-employment/dependent-benefits/
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify:
          - Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
