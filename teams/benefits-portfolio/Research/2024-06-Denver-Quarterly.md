@@ -23,7 +23,7 @@ Research questions include:
 - How do Veterans describe their benefits journey? Which aspects stand out as the biggest pain points or bright spots?
 - How do Veteran's interactions with the VA, and VA tools like va.gov, engender or degrade their sense of trust in the VA?
 - What evidence did they provide with their claim? What was their experience with gathering and sending or uploading their evidence?
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/Research/2024-02-San-Diego-Quarterly-ConversationGuide) 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/Research/2024-06-Denver-Quarterly-DiscussionGuide.md) 
 
 ### Hypothesis
 This is open-ended research, so we are not testing any specific hypotheses. However, we expect to find that confidence and trust are built in part by the following:
