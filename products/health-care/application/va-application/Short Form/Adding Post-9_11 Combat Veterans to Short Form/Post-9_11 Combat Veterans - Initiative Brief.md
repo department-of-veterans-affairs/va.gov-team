@@ -1,7 +1,7 @@
 # Initiative - Short Form flow for Post-9/11 Combat Veterans
 
 ## Outcome Summary
-By adding Post-9/11 Combat Veterans to the Short Form flow, they will get through the application process faster, without having to provide financial information that is not required to qualify for up to 10 years of free VA health care to which they are entitled.
+- By adding Post-9/11 Combat Veterans to the Short Form flow, they will get through the application process faster, without having to provide financial information that is not required to qualify for up to 10 years of free VA health care to which they are entitled.
 
 **Related/Associated product(s)**
 - Product | [10-10EZ Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
@@ -9,11 +9,11 @@ By adding Post-9/11 Combat Veterans to the Short Form flow, they will get throug
 ## Problem
 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-There is a subset of Veterans who are eligible for VA health care without providing financial information.  This group can be directed through the existing Short Form flow and complete the application process quicker and easier with less cognitive load.
+     - There is a subset of Veterans who are eligible for VA health care without providing financial information.  This group can be directed through the existing Short Form flow and complete the application process quicker and easier with less cognitive load.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-There are Veterans who are experiencing an undue hardship/burden of providing financial information when they are eligible for benefits that do not require that information.  There are several Veterans who stated they would not provide their financial information if asked, and would prefer not to.
+     - There are Veterans who are experiencing an undue hardship/burden of providing financial information when they are eligible for benefits that do not require that information.  There are several Veterans who stated they would not provide their financial information if asked, and would prefer not to.
 * How does this initiative help further OCTO-DE's mission and goals?
-By providing quick and easy access to VA health benefits, and ensuring that eligible Veterans are getting the benefits to which they are entitled, we are aligning with the mission and goals
+     - By providing quick and easy access to VA health benefits, and ensuring that eligible Veterans are getting the benefits to which they are entitled, we are aligning with the mission and goals
 
 
 ## Desired User Outcomes
@@ -23,16 +23,16 @@ By providing quick and easy access to VA health benefits, and ensuring that elig
 
 
 ## Undesired User Outcomes
-Veterans will be unsure of their eligibility
-Veterans will be confused about what information they need to provide
+- Veterans will be unsure of their eligibility
+- Veterans will be confused about what information they need to provide
 
 ## Desired Business Outcomes
-More eligible Veterans will apply for VA health care online
-More eligible Veterans will have access to their entitled care
-Staff will be able to process these applications faster and easier
+- More eligible Veterans will apply for VA health care online
+- More eligible Veterans will have access to their entitled care
+- Staff will be able to process these applications faster and easier
 
 ## Undesired Business Outcomes
-Applications abandoned because Veterans were unsure and not confident in their eligibility
+- Applications abandoned because Veterans were unsure and not confident in their eligibility
 
 ---
 ## Measuring Success
@@ -41,7 +41,7 @@ Applications abandoned because Veterans were unsure and not confident in their e
 
 ### Objective: More health care applications submitted.
 
-Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
+- Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 
 **Key Result 1:** Target increase from 30% to XX% of total application submissions through Short Form flow
@@ -100,14 +100,15 @@ Data source - [10-10EZ Domo Dashboard](https://va-gov.domo.com/page/447193050)
 
 --- 
 
-## Launch Planning
+## Launch Planning & Artifacts
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket - TBD
+- Design files
+- Engineering docs
+- QA docs
 
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+### Timeline
 
 * [Link to Release Plan for this Initiative - TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
