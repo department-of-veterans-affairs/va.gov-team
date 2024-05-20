@@ -36,7 +36,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * [Outage Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Outage%20Communication.md)
   * Internal
   * External (when applicable)
-* System Recovery Process
+* [System Recovery Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
 * Internal Reporting on Incidents
 
 ### For these areas of responsibility:
