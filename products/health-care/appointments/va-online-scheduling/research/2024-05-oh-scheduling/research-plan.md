@@ -62,7 +62,7 @@ This research will provide critical insights into the effectiveness of the unifi
   - **Action**: Incorporate viable suggestions into the idea board to continuously improve the scheduling flow.
 
 
-### Simplified Hypotheses
+### Hypotheses
 
 #### Oracle Health Integration
 
@@ -112,75 +112,58 @@ Moderated usability testing is appropriate for the goals of this research and th
    - Throughout the session, participants will be encouraged to think aloud, sharing their thoughts, expectations, and any difficulties they encounter.
 
 
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
 
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-05-oh-scheduling/conversation-guide.md))
 - [Link to prototype](url goes here)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment	
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
 Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
 
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
 Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
-### Recruitment criteria
-List the total number and type (Veterans, caregivers, etc.) of participants for this study. 
+## Recruitment Approach
 
-**Primary criteria (must-haves)**
-What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
+### Intended Audience
+Our intended audience for this research includes Veterans who utilize Oracle Health VA facilities and have experience using the scheduling portal. 
 
-Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants. Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+### Inclusive Research Strategies
+We are leveraging a lean maximum variation strategy for this study to ensure a diverse range of participants. This approach helps us capture a wide array of experiences and perspectives.
 
-> Tip: The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria. Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Go to an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/research/generative-research-study-1/2020-12.research-plan1.md#participants-and-recruitment)
+### Recruitment Criteria
 
-**Secondary criteria (nice-to-haves)**
-What criteria would strengthen your results? 
+#### Total Number and Type of Participants
+- **Total Participants:** 4-6
+- **Type of Participants:** Veterans
+
+#### Primary Criteria (Must-Haves)
+Participants must meet the following criteria to effectively participate in the study:
+1. **Veterans who have scheduled an appointment through the Oracle Health VA scheduling portal.**
+
+**Screener Questions:**
+1. Have you scheduled an appointment using the Oracle Health VA scheduling portal? (Yes/No)
+   - **Qualifying Response:** Yes
+2. Do you currently receive care at an Oracle Health VA facility? (Yes/No)
+   - **Qualifying Response:** Yes
+
+#### Secondary Criteria (Nice-to-Haves)
+Participants who meet the primary criteria and also fit one or more of the following secondary criteria will strengthen our study results:
+1. **Veterans with cognitive disabilities.**
+2. **Veterans from underserved communities.**
+
+**Screener Questions:**
+1. Do you identify as having a cognitive disability? (Yes/No)
+   - **Qualifying Response:** Yes (looking for 2 participants)
+2. Do you identify as being part of an underserved community (e.g., LGBTQ+, rural area, minority group)? (Yes/No)
+   - **Qualifying Response:** Yes (looking for 2 participants)
+
+By targeting these criteria, we ensure that our participant pool is both relevant to the study objectives and inclusive of diverse user experiences.
 
 ## Timeline
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
