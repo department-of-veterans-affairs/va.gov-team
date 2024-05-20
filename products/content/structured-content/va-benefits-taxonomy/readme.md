@@ -67,8 +67,10 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
   * **Tickets**
     * Ticket: Content modeling: involve Dave Picket. Creating a linked tree, where one things has a reference to another. And we call that exclusionary. If an editor is looking at editing a benefit they would see a way to add/check exclusionary benefits. A separate field for simultaneous. Questions: Can a benefit have both exclusionary and simultaneous linked benefits? Dave will need to collaborate with UX/Daniel for field names.
       * [[VA Benefit Taxonomy] Content modeling for Exclusionary and Simultaneous Benefits #18165](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18165)
-    * Ticket: UX: design of the forms in the CMS for the editors. Will need help text. 
+    * Ticket: UX: design of the forms in the CMS for the editors. Will need help text.
+      * [[VA Benefit Taxonomy] [UX] Provide editors the ability to indicate/add exclusionary or simultaneous benefits #18166](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18166)
     * Ticket: Engineering ticket: build this.
+      * [[VA Benefit Taxonomy] [Drupal] Editors creating or editing benefit details can indicate exclusionary or simultaneous benefits #18167](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18167)
        
 ### 👉🏼 Benefit Description
   * **Requirements**
