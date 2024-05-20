@@ -76,8 +76,15 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
   * **Requirements**
     * Will consist of three (already existing) fields: Longer summary, Brief summary (currently has 500 character limit), & Teaser summary (one to two sentences - currently 300 character limit).
     * Character count limits will be required on all three fields.
-     * Longer summary is required. If a Longer summary description character count is more than 500 characters, it can't be reused as the Brief Summary, therefore the Brief summary changes from optional to required. If the Longer summary description character count is greater than 300 characters, then the Teaser summary changes to required, unless the Brief summary is less than 300 characters.  Note that this is MVP.
-      * Brief summary: If this summary is greater than 300 characters, then the teaser summary is required.
+     * Longer summary:
+       * Character count limit = 500
+       * Always required.
+     * Brief summary:
+       * Character count limit = 300
+       * Optional, UNLESS the Longer summary description character count is more than 300 characters. If so, then the Brief summary changes from optional to required.
+     * Teaser summary:
+       * Character count limit = 200
+       * Optional, UNLESS the Brief summary is greater than 200, then the teaser summary is required.
     * In the editorial interface, we want to be sure there is feedback (error message/warning) for the character counts, and in the descriptions we include what the character counts are.
     * Work with CAIA to provide content for the editorial interface for best practices.
       * Note that CAIA will provide editorial context e.g. word counts for the Longer, Brief, and Teaser summary descriptions and helper text.
