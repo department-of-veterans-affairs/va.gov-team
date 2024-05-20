@@ -110,9 +110,9 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 Thanks, it’s helpful to learn about your experience with the VA.
 
-Now, we're going to shift gear. And I'd like to share something with you to get your feedback.
+Now, we're going to shift gears. And I'd like to share something and get your feedback.
 
-In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more people.
 
 > Send link in Zoom chat.
 
@@ -129,13 +129,13 @@ Thanks! Now I’m able to see your screen too.
 
 Okay, so before we look at this, I want to explain the scenario.
 
-We're going to pretend like you've signed in on VA.gov to use Ask VA. You want to check on some recent inquiries you submitted.
+We're going to pretend like you've signed into VA.gov to check on a recent Ask VA inquiry you submitted.
 
 And so, take a look at your screen now. We see that we're on Ask VA and we're pretending like you're signed in. This is your account.
 
 - How does that sound? Does everything feel clear at this point?
 
-Okay, great. So now I'm going to ask you some questions about this page. If the scenario is confusing to you, just let me know.
+Okay, great. If you have any questions as we go along, just let me know.
 
 ## Dashboard (20 minutes)
 
@@ -146,15 +146,17 @@ So, first off...
 - Is there anything you look for in particular?
 - As a `ROLE`, do you often go back into your dashboard to look at the VA's reply?
 
-Great. So, let's say you got an email from the VA, letting you know that they replied to your question. So, you signed into your account and you're ready to look for their reply.
+Great. I'll let you know when we can click on things, but for now let's stay on this page.
 
-- Without clicking anything yet, can you tell me what you would look for? You want to find the VA's reply to your question.
-- How would you find the right question to click on?
-- What does the date mean?
+So, let's say you received an email from the VA letting you know that they've replied to your question. And so, you've signed into your account today in order to read their response.
+
+- So, you know from your email, that the VA has replied to one of your questions. Which question have they replied to?
+  - Describe to me what you're looking for. How would you find which question to click on?
+- What does the date mean? What day is that referring to?
 - What does this mean, where it says, "Education benefits and work study"?
 - What does 'new' mean?
 - What does 'solved' mean?
-- What is different about this homepage compared to the current Ask VA homepage?
+- What's different about this, compared to the current Ask VA?
 - Why does it say business at the top?
   - What is the difference between business and personal inquiries?
 
@@ -162,10 +164,24 @@ Great. So, let's say you got an email from the VA, letting you know that they re
 - Is there anything you want to point out here?
 - Okay, let's return to the business tab.
 
-Okay, so at this point, you want to click on the inquiry that's been Solved.
+Okay, so at this point, you think you've found the question you're looking for. Which is the `Solved` question you asked on May 8th.
 
 - Without clicking yet, can you tell me where you would click next?
 - What do you expect to happen when you click 'Check details'?
+
+<details>
+  <summary>Key things to notice</summary>
+  
+- How do they find a question in their dashboard?
+- Which labels or details are useful in identifying a specific question?
+- Do they expect to be able to 'search' their dashboard?
+- Can they find the question they're looking for?
+- Do the statuses and icons make sense?
+- How does this compare to the current version that they're used to?
+- Can they find the link to review the details of their inquiry?
+- What do they expect to happen when they click 'Check details'?
+
+</details>
 
 ## Question details (20 minutes)
 
@@ -184,11 +200,21 @@ Remembering our scenario...
 
 I'll give you a minute to read their reply.
 
-- What are your thoughts, after reading that?
-- Is this what you expected?
-- If you had a follow question, can you reply to the VA?
-- If you couldn't reply back to the VA – let's say it didn't let you reply – what would you do to follow up?
-- Is there anything else you want to tell me about this page?
+- What are your thoughts, after reading this?
+- Is their reply what you expected?
+- If you had a follow-up question, can you reply back to the VA?
+- Let's say for a minute that you couldn't reply back to the VA, what would you do to follow up?
+
+<details>
+  <summary>Key things to notice</summary>
+  
+- What do they notice first when they review their question details?
+- Which labels or details are useful when they check their question details?
+- Do they scroll down to check the reply from VA, and can they find it?
+- Do they understand how or if they can reply back to VA?
+- If they can't reply to VA, what would they do if they have an issue or follow-up question?
+
+</details>
 
 ## Cool down (5 minutes)
 
@@ -202,6 +228,7 @@ I’d love to spend a little time reflecting before we finish.
 - How does this compare to the current Ask VA that you use?
 - Is there anything you like better about this version?
 - Is there anything missing from this version?
+- Do you ever need to reply back to the VA when you send an inquiry?
 - Is there anything else you want to share with me, about this process?
 
 <details>
@@ -218,9 +245,7 @@ Thanks again for sharing your time with me. It’s been so helpful to learn from
 
 **Do you have any questions for me?**
 
-Okay, well thank you so much for the time.
-
-Perigean will send you a thank you note with some information that you can pass along to other Veterans if they’d like to participate in future research sessions. 
+Okay, well thank you so much for the time. We really value the feedback we receive from users and you've given us a lot to think about.
 
 I hope you have a lovely rest of the day.
 
