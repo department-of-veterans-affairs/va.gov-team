@@ -33,7 +33,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 ## What's In Scope: 
 ### These deliverables:
 * [Incident Management System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Management%20System.md)
-* Outage Communication
+* [Outage Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Outage%20Communication.md)
   * Internal
   * External (when applicable)
 * System Recovery Process
