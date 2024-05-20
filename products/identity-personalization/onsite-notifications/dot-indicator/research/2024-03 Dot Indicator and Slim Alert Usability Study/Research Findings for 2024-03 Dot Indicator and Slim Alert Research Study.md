@@ -108,6 +108,8 @@ A strong preference for the numbered badge, which indicated the amount of items 
 
 >  "...the number twos and that is more detailed on that, because other one's the red circle and it could be questionable. Hmm. You don't really know how much messages you have." (P18)
 
+In addition, our one colorblind participant who was able to go through the prototypes stated that they had trouble noticing the dot indicators, **while being able to see the badge easily.** (P4)
+
 <br>
 
 ### Finding 2: Veterans want more proactive communication about what impacts them personally - healthcare, claims, benefits, and events (12 of 15 participants).
