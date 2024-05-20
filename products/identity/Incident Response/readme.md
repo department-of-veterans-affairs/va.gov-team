@@ -75,7 +75,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 ## Solution Approach: 
 In order to track each Deliverable by each Area of Responsibility, we've created this table:
 
-|Deliverable ->   Area     | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
+| Deliverable --->    Area     | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
 | :------------- |:------------- | :----- | :----- |  :----- |  :----- |
 | USiP | | | | | |
 | SSOe | | | | | |
