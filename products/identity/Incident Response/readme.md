@@ -37,7 +37,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
   * Internal
   * External (when applicable)
 * [System Recovery Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
-* Internal Reporting on Incidents
+* [Internal Reporting on Incidents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Internal%20Reporting.md)
 
 ### For these areas of responsibility:
 **Directly Responsible**
