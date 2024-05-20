@@ -79,8 +79,8 @@
      - [ ] **Identify test users**
 - [ ] **Create Release Plan**
 - [ ] Complete development
-     - [ ] Engineers work with Designers on any questions/clarifications
-     - [ ] Present to team for validation
+     - [x] Engineers work with Designers on any questions/clarifications
+     - [x] Present to team for validation
      - [ ] Present to Stakeholders for validation
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
