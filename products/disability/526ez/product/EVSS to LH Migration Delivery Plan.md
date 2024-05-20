@@ -45,7 +45,7 @@ Internal dependency: endpoint migration prioritization against other priority fe
 |Generate PDF|In production|Not started| Team 2 |
 |Rated Disabilities| Bug fix re-release to LH staging and production 5/16/24|On hold, ready to resume release after bug is fixed.||
 |PPIU (Direct Deposit) |In production|100% in production| Endpoint remains stable. |
-|PCIU (Prefill) |Migrate to VA Profile, not to LH|Development complete, release paused.| Address error rate too high to proceed with confidence, on hold.|
+|PCIU (Prefill) |Original notes were to migrate to VA Profile, not to LH. However, there are some 526-specific calls that VA Profile does not support so migration still needed. |Development complete, release paused.| Address error rate too high to proceed with confidence, on hold.|
 |Document Service|In development| In development| Team 2 |
 |Benefits Reference Data(BRD) API|In production|On hold, ready to resume release| Validation of monitoring and canary launch next |
 
