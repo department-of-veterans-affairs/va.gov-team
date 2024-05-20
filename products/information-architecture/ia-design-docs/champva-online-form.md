@@ -21,7 +21,7 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 
 
 ## <a name="map"></a>Page structure<br>
-![Screenshot 2024-05-17 at 1 59 32 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/4772aeb8-96b2-4a90-98e5-02b056e518f0)
+![Screenshot 2024-05-20 at 11 06 22 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/b08c42f3-ad42-43bc-a09f-1c69cc283556)
 
 
 
@@ -37,11 +37,9 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
-
 
 1. **MODIFY [CHAMPVA benefits static page](https://www.va.gov/health-care/family-caregiver-benefits/champva/)**
-  - Placement description: we’ll need to add a link to the new form from this page.
+  - Placement description: we’ll need to add a link to the new form in the content of this page
   - Link label: TBD by content
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
   - Note: this page will also be moved to the family member hub as part of that work. See IA spec for family member hub: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/family-hub-phase-1.md
@@ -60,7 +58,7 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 ![champva legacy pages](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/71b6ad55-39e5-4ca1-bad9-fd3dd92a6a4d)
 
 4. **MODIFY [Find a Form page](https://www.va.gov/find-forms/about-form-10-10d/)**
-   - Placement description: we’ll need to add a link to the new form from this page.
+   - Placement description: we’ll need to add a link to the new form from the content of this page
   - Link label: TBD by content
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
 
@@ -72,15 +70,12 @@ There will likely be a redirect of these 2 pages, but the champva form wont need
 - https://www.va.gov/health-care/family-caregiver-benefits/champva/
 - https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-04.pdf#
 
-These are very TBD based on the migration work
-
 
 ## <a name="bestbets"></a>Best Bets<br>
 
 | URL                                                               | Title                                                            | Description                                                                                                                                                                                 | Keywords                                               | Notes                                                                                                                           |
 |-------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | https://www.va.gov/find-forms/about-form-10-10d/                  | Apply for CHAMPVA Benefits (VA Form 10-10d)                      | If you’re the spouse or child of a Veteran with disabilities, or the surviving spouse or child of a Veteran who has died, use VA Form 10-10d to apply for health insurance through CHAMPVA. | 10-10d, form 10-10d, va 10-10d, va form 10-10d         | Should we change this to the new online form, or remove it entirely and just keep the one set up for the CHAMPVA benefits page? |
-| https://www.va.gov/find-forms/about-form-10-7959c/                | Reporting Changes for Your 10-10d Application (VA Form 10-7959c) | Use VA Form 10-7959c when you are applying for CHAMPVA and need to declare changes as part of your VA Form 10-10d application.                                                              | 10-7959c, form 10-7959c, va 10-7959c, va form 10-7959c | I’m guessing we don’t need to change this best bet, but perhaps we should make sure to link to this from the CHAMPVA page?      |
 | https://www.va.gov/health-care/family-caregiver-benefits/champva/ | CHAMPVA Benefits                                                 | CHAMPVA benefits cover the cost of health care for the spouse, surviving spouse, or child of a Veteran who has disabilities or who is deceased.                                             | champ va                                               | Def keep this one                                                                                                               |
 
 ## <a name="stagedrollout"></a>Staged Rollout<br>
