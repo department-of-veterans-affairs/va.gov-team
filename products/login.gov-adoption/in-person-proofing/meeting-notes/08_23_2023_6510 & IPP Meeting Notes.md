@@ -1,9 +1,11 @@
 ## Topic: 6510 and IPP Follow Up
 ### Date: 08/23/23
 ### Attendees:
-Porta, Head of Digital Solutions, porta@themostudio.com
-Tom Black, Product Owner, Veteran digital identity, VA OCTO, Thomas.Black2@va.gov
-Sophia Philip, Design Lead, sophia@themostudio.com
+Porta, Head of Digital Solutions
+
+Tom Black, Product Owner, Veteran digital identity, VA OCTO
+
+Sophia Philip, Design Lead,
 
 ### Agenda: 
 Meeting Notes
