@@ -146,9 +146,7 @@ So, first off...
 
 - Can you describe this page to me? What are you noticing?
 
-Great. So, let's say you got an email from the VA, letting you know that they replied to your question. And in order to read their reply, you need to sign in.
-
-So, now you're signed in.
+Great. So, let's say you got an email from the VA, letting you know that they replied to your question. You can read your reply once you sign in to Ask VA.
 
 - Without clicking anything yet, can you tell me what you would look for? You want to find the VA's reply to your question.
 - How would you find the right question to click on?
@@ -157,7 +155,7 @@ So, now you're signed in.
 - What does 'new' mean?
 - What does 'solved' mean?
 
-Okay, so at this point, you've found the question you want to click on.
+Okay, so at this point, you want to click on the Solved question.
 
 - Without clicking yet, can you tell me where you would click next?
 - What do you expect to happen when you click 'Check details'?
