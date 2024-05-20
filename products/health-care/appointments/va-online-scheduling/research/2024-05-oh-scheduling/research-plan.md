@@ -21,8 +21,7 @@ The research on the new scheduling flow aligns most closely with Objective 1 of 
 By creating a unified scheduling portal that enhances usability and accessibility for Veterans, the research aims to improve their satisfaction with the digital experience of scheduling appointments. This directly contributes to the goal of increasing CSAT for VA web products.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Starting up, taking care of myself and aging. 
 
 ### Research Goals
 
@@ -70,16 +69,33 @@ What do you intend to learn and measure from this study? Think through these pro
 - Write a generalized statement that combines what you know + what you think will happen during the study. 
 - Remember to constrain the hypothesis to the goals of your study!
 
-## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
+## Methodology
 
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
+### Overview
+
+For this usability study, we will employ a **moderated usability testing** method. This approach involves live, one-on-one sessions where a facilitator guides participants through a series of tasks using a prototype of the unified scheduling flow. The facilitator will observe participants' interactions, collect their feedback, and probe for deeper insights into their experiences.
+
+### Why Moderated Usability Testing?
+
+Moderated usability testing is appropriate for the goals of this research and the maturity of the design for several reasons:
+
+1. **Direct Interaction**: It allows for real-time interaction between the facilitator and participants, enabling immediate clarification and deeper probing into specific user behaviors and feedback.
+2. **Detailed Observations**: The facilitator can observe non-verbal cues and behaviors that might indicate confusion or frustration, which are crucial for understanding the nuances of usability issues.
+3. **Flexibility**: The facilitator can adjust the session flow based on participants' needs, exploring unexpected issues or delving deeper into particularly interesting areas.
+4. **Quality Feedback**: Participants can provide immediate, contextual feedback while interacting with the prototype, offering insights that might be missed in unmoderated sessions.
+
+### Study Design
+
+ **Participant Recruitment**:
+   - A diverse group of Veterans will be recruited, including those with various levels of digital proficiency and different types of care needs.
+   - We will ensure representation of users with cognitive disabilities to assess accessibility barriers, although we are not focusing on screen reader users at this stage.
+
+ **Session Structure**:
+   - Each session will last approximately 60 minutes.
+   - The session will begin with a brief introduction and consent process.
+   - Participants will be asked to complete a series of tasks related to booking and managing appointments using the prototype.
+   - Throughout the session, participants will be encouraged to think aloud, sharing their thoughts, expectations, and any difficulties they encounter.
+
 
 Additional resources:
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
