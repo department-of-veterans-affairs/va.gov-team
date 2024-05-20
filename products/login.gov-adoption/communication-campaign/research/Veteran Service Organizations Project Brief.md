@@ -75,4 +75,16 @@ Paul Shute
 
 * Enable VSOs to implement the communication campaign independently and provide a farther reach to users through VSOs and the VA.
 * Establish standard procedure for VSO engagement for future projects.
-* Provide guidance for future projects on how to design communication campaign toolkits
+* Provide guidance for future projects on how to design communication campaign toolkit
+
+## Stakeholders of interest:
+
+- Josh Kim
+- Kevin Hoffman
+- John Rahagi
+- Matt Self
+- Paul Shute
+- Emily Theis
+- Lesley Ropp
+- Alex Prokop
+- Kimberly Mitchell
