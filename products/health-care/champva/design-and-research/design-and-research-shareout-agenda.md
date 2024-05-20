@@ -8,8 +8,9 @@
 * Next meeting facilitator: Rachael
 * Agenda topics:
      * FMP registration and FMP claim updates
-          * use the same 'same as' address pattern on both FMP forms
+          * use the 'same as' address pattern on both FMP forms
           * phone number: how is this being used? 
+          * accordion on review page: consider doing some more research/investigation
           * FMP claim form: add ‘mailing address’ clarification to the payment screen copy
 
 Update copy for 
