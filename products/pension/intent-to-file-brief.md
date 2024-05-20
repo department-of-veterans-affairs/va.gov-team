@@ -83,17 +83,21 @@ ITF is currently not available for online pension applicants. Submission date is
 
 
 
-## V0.5 TBD (If V0 isn't possible) - Mimic 526 ITF approach
-### Goal: As 526 team has a user-tested approach, base 527 on it
+## V0.5 TBD (If V0 isn't possible) 
+### Goal: Lean on ITF research done by 526 team to propose an ITF solution for 527 that benefits Veterans
 #### Why V0.5:
+The 526 team conducted extensive research to come up with several [Findings and Recommendations.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md#findings--recommendations)
+It was decided that the 527 pension team would continue this work and the 526 team would follow on (Emily Theis).
+
 #### Existing behavior:
 #### Hypothesis / Proposed Behavior:
 #### Assumptions: 
-We can easily borrow and apply concepts from 526 team which can help us deliver sooner
-#### Risks: 
-* 526 and 527 have different architectures
-* Comp ITF and pension ITF have different behavior hence may need to be developed differently
 
+#### Risks: 
+* When solutioning, consider that 526 and 527 have different form architectures.
+* Comp ITF and pension ITF have different behavior hence may have differences in how they are engineered.
+  
+#### Scope:
 The 526 team found that Veterans are blocked by intent to file messaging when submitting their claim and that they do not have a clear understanding of how intent to file could maximize their benefits. Therefore, in order to unblock users, we can communicate the value of intent to file more clearly and consistently at two key moments for 527: 1) in the early steps of the form and 2) when a Veteran resumes an in-progress claim.
 
   
