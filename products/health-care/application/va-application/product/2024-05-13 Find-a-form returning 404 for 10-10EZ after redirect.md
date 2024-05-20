@@ -47,7 +47,7 @@ Ensure the listed owners are the _teams_ that own the action item, every action 
 
 | Description | Type | Owning Team | Issue # |
 | --- | --- | --- | --- |
-| Update the [README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md) for Redirects in DevOps folder | QA and Engineering Work | [@vfs-10-10](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-10-10) and [@1010-health-apps-frontend](https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend) | [va.gov-team - #83172](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83172) |
+| Update the [README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md) for Redirects in DevOps folder | PM - Jill Adams | [vfs-cms-team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-cms-team) | [va.gov-team - PR #14328](https://github.com/department-of-veterans-affairs/devops/pull/14328) |
 
 ## Root Cause Analysis
 
@@ -74,8 +74,15 @@ On 5/14/2024, We got a couple of almost simultaneous reports that the healthcare
 
 ### What will we change to ensure this doesn't happen again?
 
-The 10-10 team collaborated with the Public Websites team to update the current guidance ([DevOps README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md)) on implementing URL redirects.  This update includes adding a reference on how to handle child pages, how to handle URLs with & without trailing slash, and retaining the original page to be hit then redirect (advisement: don't delete it!) 
-Another potential addition is guidance for the Redirect PR to indicate whether child pages are included in the redirect, so that the code can be properly reviewed and subsequently tested.
+- The 10-10 team collaborated with the Public Websites team to update the current guidance ([DevOps README file](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/README.md)) on implementing URL redirects.  This update includes adding a reference on how to handle child pages and how to handle URLs with & without trailing slash.
+- After the ReadMe file was updated, the [update was posted](https://dsva.slack.com/archives/C5HP4GN3F/p1716211171892929) in the #vfs-frontend Slack channel.
+- CAIA IAs will always vet the redirect request and ensure there is reference to child pages or casing variations when applicable. This is already part of the CAIA redirect request ticket template. They will also ensure that pages are being redirected to appropriate places and URLs are accurate.
+- Process enhancements the CAIA team will be working on:
+     - Modified process to reference shift of responsibility off PW team and onto requesting team with emphasis of IA approval and validation, and PW PR review
+     - Updates to links across the modernized experience to ensure our links are accurate - this includes identifying links within React pages, core drupal pages, and facility pages - process details are TBD
+     - Communications process to digital media partners and business line stakeholders informing them of the change and requesting they update the links within their TeamSite pages
+     - Refined acceptance criteria and process documentation
+     - Communication of the redirect process
 
 ## Resolution
 
