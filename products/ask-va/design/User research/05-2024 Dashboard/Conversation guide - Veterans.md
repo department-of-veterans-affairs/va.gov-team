@@ -171,7 +171,7 @@ Okay, so at this point, you think you've found the question you're looking for. 
 - Can they find the question they're looking for?
 - Do the statuses and icons make sense?
 - Can they find the link to review the details of their inquiry?
-- What do people expect to happen when they click 'Check details'?
+- What do they expect to happen when they click 'Check details'?
 
 </details>
 
@@ -221,14 +221,6 @@ So, now we see your reply has been drafted.
 - What would you do next?
 
 Great. Let's go ahead and click send.
-
-<details>
-  <summary>Key things to notice</summary>
-  
-- Is it clear that they can reply to VA?
-- If they couldn't reply to VA, what would they do?
-
-</details>
 
 > Screen: Reply sent
 
