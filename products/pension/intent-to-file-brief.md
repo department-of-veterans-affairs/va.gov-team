@@ -126,6 +126,7 @@ The 526 team found that Veterans are blocked by intent to file messaging when su
 * [ITF Research Summary by 526EZ team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Intent%20to%20file%20Research/ITF%20Research%20Summary.md)
 * [Intent to file Discovery Research Summary](https://docs.google.com/document/d/1s3S_NDMHmlooY2SlLWFDq6vtRW-2Pl5u0kbjpd1dBb8/edit)
 * A standalone ITF web form is in the works - [Figma](https://www.figma.com/file/EFJLJ7W4yBbujH1yVD122s/WIP---21-0966---Intent-to-file?type=design&node-id=0%3A59&mode=design&t=NhvhdjCE7qtCMbOH-1), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689261093555/6c03d0c5d9d3f5ee875295e6ee444c3420f9ad3b?wid=0-1705943457925&sender=u8c3a54d4503675214e055918)
+* [Proactive Benefits research findings on ITF](https://docs.google.com/presentation/d/1fpwtB4M2D-RBIe7PiF27qEr6Mn5AtMKqDzICiMbiQm4/edit#slide=id.g26459dba8f9_0_72)
 
 
 ## Q&A, Learnings
