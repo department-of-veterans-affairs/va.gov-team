@@ -95,7 +95,7 @@
 - [ ] Create Usability and/or UAT research plan and conversation guide
 - [ ] **Request Research Plan review**
 - [ ] Schedule Usability/UAT sessions with Perigean
-- [ ] Conduct Usability/UAT sessions
+- [x] Conduct Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets/changes for design and/or development
@@ -110,7 +110,6 @@
 - [ ] **Schedule or close all remaining tickets**
      - **Some tickets may be backlogged for future work, as they were not required to launch**
 - [ ] **Review this checklist for any missing artifacts**
-- [ ] **Review the [Product Development Checklist](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/product-development-checklist)**
 - [ ] **Conduct Launch Go/No Go with the team**
      - [ ] **Review this checklist**
      - [ ] **Review Release Plan**
