@@ -11,9 +11,7 @@
           * use the 'same as' address pattern on both FMP forms
           * phone number: how is this being used/stored? Need to do some more research
           * accordion on review page: consider doing some more research/investigation
-          * FMP claim form:
-                * add ‘mailing address’ clarification to the payment screen copy
-                * work with CAIA on file upload screen - can we shorten copy here?
+          * FMP claim form: add ‘mailing address’ clarification to the payment screen copy, work with CAIA on file upload screen - can we shorten copy here?
      * 10-10 Health & IVC UX Sync on 5/31 to identify opportunities between the UX teams.
          * Meeting Purpose: Coordination and collaboration on design and to review designs in progress so far.
          * Identify design and research opportunities moving forward
