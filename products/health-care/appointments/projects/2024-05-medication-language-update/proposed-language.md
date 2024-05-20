@@ -6,7 +6,9 @@ The medication review language will appear on most (possibly all) scheduled appo
 ## Proposal
 
 **Prepare for your appointment**
-[Note: other related instructions show in this section]
+
+[Note: other related instructions show in this section. See the Figma file below for examples in context.]
+
 Bring a list of all your medications and anything else you need to share with your provider.
 
 What to share with your provider [expand]
