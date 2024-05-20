@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 17, 2024
+Last updated by @tygindraux: May 20, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -202,7 +202,7 @@ Sessions will be limited to no more than 5 people, including 1 participant, 1 mo
 
 ## Approved by
 
-- Becky Phung, PO on [DATE]
+- Becky Phung, PO on May 20, 2024
 - Shane Strassberg, VA Research Ops on [DATE]
 
 ## Appendix
