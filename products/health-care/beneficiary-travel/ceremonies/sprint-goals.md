@@ -1,5 +1,13 @@
 # BTSSS on VA.gov Sprint Goals 
 
+## 5/20/2024 - 5/31/2024
+### Goals
+* Engineering: Finalize status page so that it is launch-ready 
+* Engineering: Support staging review and rollout planning
+* Engineering: Improve test coverage
+* UX: Support staging review and rollout planning
+* UX: Finalize priority for research and design work
+
 ## 5/6/2024 - 5/17/2024
 ### Goals
 * Engineering: Integrate claims status endpoint in staging
