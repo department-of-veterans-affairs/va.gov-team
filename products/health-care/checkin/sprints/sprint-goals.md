@@ -116,8 +116,10 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79882)
-    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)
-    - ❗🟥 [Create Content for BTSSS API Timeout Workaround ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83210)
+    - Added after sprint planning
+        - ❗🟥 [Create Content for BTSSS API Timeout Workaround ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83210)        
+        - ❗🟦 [Implement New SMS Message when BTSSS API Timesout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83466)
+    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)    
     - **Sub Goal: Move to New AWS Instance**
         - ⛔ 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
