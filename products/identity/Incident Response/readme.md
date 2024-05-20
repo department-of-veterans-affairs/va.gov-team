@@ -75,17 +75,17 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 ## Solution Approach: 
 In order to track each Deliverable by each Area of Responsibility, we've created this table:
 
-| Deliverable --->    Area     | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
+| Deliverable →   Area  ↓   | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
 | :------------- |:------------- | :----- | :----- |  :----- |  :----- |
-| USiP | | | | | |
-| SSOe | | | | | |
-| SiS | | | | | |
-| ToU | | | | | |
-| Login.gov | | | | | |
-| ID.Me | | | | | |
-| MHV | | | | | |
-| DS Logon | | | | | |
-| MPI | | | | | |
+| **USiP** | | | | | |
+| **SSOe** | | | | | |
+| **SiS** | | | | | |
+| **ToU**| | | | | |
+| **Login.gov** | | | | | |
+| **ID.Me** | | | | | |
+| **MHV**| | | | | |
+| **DS Logon** | | | | | |
+| **MPI** | | | | | |
 
 The early thinking is that each field will contain a link to where our documentation for that solution exists. It may not be be that every single field will be filled out, but if a field doesn't need to be filled out, as simple "n/a" will suffice.
   
@@ -96,12 +96,12 @@ The early thinking is that each field will contain a link to where our documenta
 
 ## UX/ Design Considerations:
 | Issue         | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
+| ------------- |:------------- | 
+| Language & placements for outage messages for Vets |  Review current outage messages   |
 
 ## Measuring Success:
 | KPI           | Notes         | 
-| ------------- |:-------------:| 
+| ------------- |:------------- | 
 | MTTA (Mean Time To Acknolwedge |  [MTTA Monthly Review Procedure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/Reports/MTTA_Instructions.md)             |
 | Time to Remediate | Will need to figure out how to properly measure this | 
 
