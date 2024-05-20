@@ -76,11 +76,11 @@ In addition
 
 ## Assumptions:
 * There are common pieces of user authorization data that VA Leadership is continually wanting to view.
-* Could use a survey like this to gather some of the qualitative data:
+* Could use a survey result page like this to
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/8985801e-8a4f-4488-bdb0-93407d46efa2)
 
 ## Solution Approach: 
-* Do research to determine what kind of data VA Leadership needs.
+* Make sure we are on the same page with our VA partners on what data they are looking for.
 * Do research around industry standards for reporting & displaying user data.
 * Build out the data dashboard, making sure that it's simple and easily interpreted.
 
