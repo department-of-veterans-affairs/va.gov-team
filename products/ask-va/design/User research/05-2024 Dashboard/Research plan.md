@@ -120,7 +120,7 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 |At least 1|Identify as a gender other than male|
 |At least 1|Identify as LGBTQ+|
 
-*We're aiming to fill gaps in our previous studies. We've specifically called out Asian or Hispanic demographics because we have been able to recruit participants from these demographics in our last two studies. We want to ensure we recruit these underserved Veterans.
+*We're aiming to fill gaps in our previous studies. We've specifically called out Asian or Hispanic demographics because we haven't been able to recruit participants from these demographics in our last two studies. We want to ensure we recruit these underserved Veterans.
 
 ### Screener questions
 
