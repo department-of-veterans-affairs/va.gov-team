@@ -6,41 +6,25 @@ The medication review language will appear on most (possibly all) scheduled appo
 ## Proposal
 
 **Prepare for your appointment**
+[Note: other related instructions show in this section]
+Bring a list of all your medications and anything else you need to share with your provider.
 
-Make a list of all *your medications* and drug allergies, including these types:  
+What to share with your provider [expand]
+
+Share all medications you're taking now, including the doses (amounts) you take of each medication and how often you take them. Include these medications types:
 - Prescriptions from VA and non-VA providers
 - Over-the-counter medications
 - Vitamins, supplements, and herbal remedies
 
-Include the doses (amounts) you take of *each medication* and how often you take them.
-
-Tell your provider about these things:
+Share anything that might help your provider work with you to make treatment decisions, including these things:
 - Changes in the medications you're taking or how often you're taking them
-- Changes in how your medications affect you, _including any new side effects_
-- _Any allergies or reactions you've had to your current or past medications_
-- Other health care you're receiving from other VA facilities or from providers outside VA
+- Changes in how your medications affect you, including any new side effects
+- Any allergies or reactions you've had to your current or past medications
+- Any health care you're receiving from other VA facilities or from providers outside VA
 
 ### How it appears in the UI
 
-See example here - [Figma](https://www.figma.com/design/zdLjBmeymTyHALf5lBzVgI/Medication-Review-Language-%7C-UAE?node-id=1-2)
-
-```
-
-{h2} Prepare for your appointment
-
-Make a list of your medications and drug allergies to review with your provider. 
-
-{Additional Info Link} What to include in your list
-
-{Start Add'l Info Content}
-
-  >> Medication review final content <<
-
-{End Add'l Info Content}
-
-```
-
-Appointments web
+See examples here - [Figma](https://www.figma.com/design/zdLjBmeymTyHALf5lBzVgI/Medication-Review-Language-%7C-UAE?node-id=1-2)
 
 ## Project Resources
 
