@@ -24,19 +24,44 @@ By creating a unified scheduling portal that enhances usability and accessibilit
 Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
 Are there moments that matter? 
 
-## Research Goals	
-What are you trying to learn from this research? 
+### Research Goals
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. **Evaluate Usability and Accessibility**:
+   - Understand how easily users can navigate the unified scheduling portal.
+   - Identify any barriers to accessibility for users with disabilities.
+
+2. **Assess User Satisfaction**:
+   - Measure users' satisfaction with the new scheduling flow.
+   - Determine if the unified portal reduces confusion and frustration compared to the previous separate systems.
+
+3. **Identify Areas for Improvement**:
+   - Gather user feedback on specific pain points or challenges within the scheduling process.
+   - Collect suggestions for enhancements to further streamline and improve the user experience.
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
-### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+This research will provide critical insights into the effectiveness of the unified scheduling portal in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of all users, particularly veterans. By addressing any identified issues and incorporating user feedback, the development team will be able to enhance the portal’s functionality and user experience, thereby contributing to the goal of increasing Customer Satisfaction (CSAT) for VA web products.
+
+### Research Questions
+
+**Goal 1: Evaluate Usability**
+- **How easily can users complete the appointment booking process using the unified portal?**
+  - **Action**: Use this information to identify and address usability issues.
+- **What accessibility barriers do users with disabilities encounter when using the portal?**
+  - **Action**: Ensure compliance with accessibility standards and improve the portal’s inclusivity.(While we are not testing with screen reader users, we plan to test with individuals with cognitive disabilities. 
+
+**Goal 2: Assess User Satisfaction**
+- **How do users rate their overall satisfaction with the new scheduling flow compared to the previous systems?**
+  - **Action**: Measure CSAT scores and identify areas where user satisfaction can be improved.
+- **What specific aspects of the unified portal do users find most and least satisfying?**
+  - **Action**: Focus on enhancing the most critical areas to increase overall satisfaction.
+
+**Goal 3: Identify Areas for Improvement**
+- **What pain points or challenges do users experience during the scheduling process?**
+  - **Action**: Prioritize and address these issues in the next design iteration.
+- **What suggestions do users have for enhancing the scheduling portal?**
+  - **Action**: Incorporate viable suggestions into the idea board to continuously improve the scheduling flow.
+
 
 ### Hypothesis
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
