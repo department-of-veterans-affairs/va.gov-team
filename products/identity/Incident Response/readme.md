@@ -80,7 +80,21 @@ If you need assistance with an urgent request during weekends, holidays, or outs
 The OCTO Identity team monitors system performance and inbound communications 24x7 via Pager Duty and responds within 30 minutes to any alerts.
 
 ## Solution Approach: 
-In order to track the work by A
+In order to track each Deliverable by each Area of Responsibility, we've created this table:
+
+| Area         | Incident Response System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
+| :------------- |:------------- | :----- | :----- |  :----- |  :----- |
+| USiP | | | | | |
+| SSOe | | | | | |
+| SiS | | | | | |
+| ToU | | | | | |
+| Login.gov | | | | | |
+| ID.Me | | | | | |
+| MHV | | | | | |
+| DS Logon | | | | | |
+| MPI | | | | | |
+
+It may not be be that every single field will be filled out.
   
 ## Technical Considerations:
 | Issue         | Notes         | 
