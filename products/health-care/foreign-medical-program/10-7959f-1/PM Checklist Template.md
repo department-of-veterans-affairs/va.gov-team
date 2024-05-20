@@ -82,7 +82,6 @@
      - [ ] Engineers work with Designers on any questions/clarifications
      - [ ] Present to team for validation
      - [ ] Present to Stakeholders for validation
-- [ ] **Submit QA ticket and schedule with Tze (based on Dev ETA)**
 - [ ] **Engage downstream system team for End-to-End QA coordination**
      - [ ] **Create E2E use cases and document results**
      - [ ] **Obtain signoff from downstream system team**
@@ -121,7 +120,7 @@
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets for design and/or development
-- [ ] **PM to sign up for an Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)**
+- [ ] Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)
 
 
 </details>
