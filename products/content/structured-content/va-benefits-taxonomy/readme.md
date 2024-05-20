@@ -45,7 +45,8 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
       * Note that we don't have the auto-creation yet.
       * No hard business requirements are known here, so this could be handled in whatever way makes sense to CAIA + engineering.
   * **Tickets**
-    *  Engineering task ticket: auto-populate the VA Benefit API ID with camelCase of ?? (Benefit name)??
+    *  Engineering task ticket: auto-populate the VA Benefit API ID with camelCase of benefitName
+      * [[VA Benefits Taxonomy] Auto-populate the VA Benefit API ID with camelCase of benefitsName #18162](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18162)
             
 ### 👉🏼 How to Apply Section
   * **Requirements**
@@ -54,6 +55,7 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
   *  **Tickets**
     *  Engineering task ticket: Update the help text in the How to Apply section to help the Veteran understand their choices for applying for benefits. e.g. filling out the health care Form 10-10EZ (which is the full healthcare form, not just for dental), we understand it might not be obvious to the user/Veteran that they need to fill out the 10-10EZ form for that benefit.
         - CAIA to provide the verbiage.
+        - [[VA Benefits Taxonomy] Update text in the 'How to Apply' sections with more descriptive verbiage provide by CAIA #18163](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18163)
 
 ### 👉🏼 Exclusionary and Simultaneous Benefits
   * **Requirements**
