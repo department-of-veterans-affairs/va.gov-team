@@ -48,7 +48,7 @@ Instructions for entry: Please go to the lobby and look for a sign that says "OC
 ### Research materials
 
 For moderated interviews:
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/Research/2024-02-San-Diego-Quarterly-ConversationGuide) 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/Research/2024-06%20Denver%20Quarterly-DiscussionGuide.md) 
 	
 ## Recruitment	
 
