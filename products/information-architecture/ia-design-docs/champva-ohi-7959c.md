@@ -20,7 +20,7 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 
 
 ## <a name="map"></a>Page structure<br>
-![Screenshot 2024-05-17 at 1 59 32 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/4772aeb8-96b2-4a90-98e5-02b056e518f0)
+![Screenshot 2024-05-20 at 10 59 02 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/826d244c-ccba-4f56-aff1-98df0ace4031)
 
 
 
@@ -33,11 +33,9 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 
 
 ## <a name="nav"></a>Entry points <br>
-*A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
-
 
 1. **MODIFY end of 1010d form**
-  - Placement description: we’ll need to add a link to the new form from this page
+  - Placement description: we’ll need to add a link to the new form from the confirmation page of the 1010d
   - Link label: TBD by content
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/other-insurance-form-10-7959c/
     
