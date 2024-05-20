@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 5/22/24
+*   Submitting a PR to add our stuff to VADS documentation
+
 ## 4/25/24
 *   Design Token strategy
     *   Invite VADS to 1-off Demo/discussion meeting?  Use that to set up a recurring touchpoint with them.
