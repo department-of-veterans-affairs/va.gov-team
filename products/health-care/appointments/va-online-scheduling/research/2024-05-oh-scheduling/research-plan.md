@@ -40,7 +40,7 @@ Are there moments that matter?
 
 ### Outcome
 
-This research will provide critical insights into the effectiveness of the unified scheduling portal in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of all users, particularly veterans. By addressing any identified issues and incorporating user feedback, the development team will be able to enhance the portal’s functionality and user experience, thereby contributing to the goal of increasing Customer Satisfaction (CSAT) for VA web products.
+This research will provide critical insights into the effectiveness of the unified scheduling flow in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of Veterans. By addressing any identified issues and incorporating user feedback, we will be able to enhance functionality and user experience.
 
 ### Research Questions
 
