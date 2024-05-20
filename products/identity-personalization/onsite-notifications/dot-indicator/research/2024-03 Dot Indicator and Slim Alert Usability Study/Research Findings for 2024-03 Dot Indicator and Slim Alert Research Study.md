@@ -10,7 +10,8 @@ Date: 04/03/2024
 
 [Matt Marino](matt.marino@adhocteam.us)
 
-[Research readout](link here)
+[Research presentation/readout](https://github.com/department-of-veterans-affairs/va.gov-team/files/15378658/2024-03.Dot.Indicator.and.Slim.Alert.Research.Findings.pdf)
+
 
 **Jump to:**
 
