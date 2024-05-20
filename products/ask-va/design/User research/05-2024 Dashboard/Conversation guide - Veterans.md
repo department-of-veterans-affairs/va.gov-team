@@ -110,7 +110,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 Thanks, it’s helpful to learn about your experience with the VA.
 
-Now, we're going to shift gear. And I'd like to share something with you to get your feedback.
+Now, we're going to shift gears. And I'd like to share something and get your feedback.
 
 In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
 
@@ -130,15 +130,15 @@ Thanks! Now I’m able to see your screen too.
 
 Okay, so before we look at this, I want to explain the scenario.
 
-Ask VA is an online tool that Veterans and can use to ask the VA a question. You can ask questions about all different topics, like health care or housing assistance, for example.
+Ask VA is an online tool that Veterans can use to ask the VA a question. You can ask questions about all different topics, like health care or housing assistance, for example.
 
-And in this scenario, let's pretend like you're kind of familiar with Ask VA. Last year, you used Ask VA to ask a question about homa loans. And recently, you've submitted 2 more questions to the VA.
+In this scenario, let's pretend like you're kind of familiar with Ask VA. Last year, you used Ask VA to ask a question about home loans. And recently, you submitted 2 more questions.
 
 And so, take a look at your screen now. We see that we're on Ask VA and we're pretending like you're signed in. This is your account.
 
 - How does that sound? Does everything feel clear at this point?
 
-Okay, great. So now I'm going to ask you some questions about this page. If the scenario is confusing to you, just let me know.
+Okay, great. If you have any questions as we go along, just let me know.
 
 ## Dashboard (20 minutes)
 
@@ -146,19 +146,34 @@ So, first off...
 
 - Can you describe this page to me? What are you noticing?
 
-Great. So, let's say you got an email from the VA, letting you know that they replied to your question. You can read your reply once you sign in to Ask VA.
+Great. I'll let you know when we can click on things, but for now let's stay on this page.
 
-- Without clicking anything yet, can you tell me what you would look for? You want to find the VA's reply to your question.
-- How would you find the right question to click on?
-- What does the date mean?
+So, let's say you received an email from the VA letting you know that they've replied to your question. And so, you've signed into your account today in order to read their response.
+
+- So, you know from your email, that the VA has replied to one of your questions. Which question have they replied to?
+  - Describe to me what you're looking for. How would you find which question to click on?
+- What does the date mean? What day is that referring to?
 - What does this mean, where it says, "Health care"?
 - What does 'new' mean?
 - What does 'solved' mean?
 
-Okay, so at this point, you want to click on the Solved question.
+Okay, so at this point, you think you've found the question you're looking for. Which is the `Solved` question you asked on `May 21st`.
 
 - Without clicking yet, can you tell me where you would click next?
 - What do you expect to happen when you click 'Check details'?
+
+<details>
+  <summary>Key things to notice</summary>
+  
+- How do they find a question in their dashboard?
+- Which labels or details are useful in identifying a specific question?
+- Do they expect to be able to 'search' their dashboard?
+- Can they find the question they're looking for?
+- Do the statuses and icons make sense?
+- Can they find the link to review the details of their inquiry?
+- What do people expect to happen when they click 'Check details'?
+
+</details>
 
 ## Question details (20 minutes)
 
@@ -167,24 +182,35 @@ Okay, so at this point, you want to click on the Solved question.
 Alright, so now we're on this page.
 
 - First, can you describe this page to me? What are you noticing?
-- Is this what you expect to find on this page?
+- Is this what you expected to find on this page?
 - Is anything missing?
 
 Remembering our scenario...
 
 - What would you do first on this page?
-- Can you find the reponse from the VA?
+- Can you find the response from the VA?
 
 I'll give you a minute to read their reply.
 
-- What are your thoughts, after reading that?
-- Is this what you expected?
-- If you had a follow question, can you reply to the VA?
-- If you couldn't reply back to the VA – let's say it didn't let you reply – what would you do to follow up?
+- What are your thoughts, after reading this?
+- Is their reply what you expected?
+- If you had a follow-up question, can you reply back to the VA?
+- Let's say for a minute that you couldn't reply back to the VA, what would you do to follow up?
 
-Okay, let's say you wanted to write the VA a reply to follow up.
+<details>
+  <summary>Key things to notice</summary>
+  
+- What do they notice first when they review their question details?
+- Which labels or details are useful when they check their question details?
+- Do they scroll down to check the reply from VA, and can they find it?
+- Do they understand how or if they can reply back to VA?
+- If they can't reply to VA, what would they do if they have an issue or follow-up question?
 
-- Without clicking anything yet, can you describe how you would reply to the VA?
+</details>
+
+Okay, so it does seem like you can reply to the VA...
+
+- Without clicking anything yet, can you describe how you would reply here?
 
 Great. Well, we can't actually type in the prototype today. But let's click on that box where you would type, and we'll pretend like you typed in your reply.
 
@@ -196,6 +222,14 @@ So, now we see your reply has been drafted.
 
 Great. Let's go ahead and click send.
 
+<details>
+  <summary>Key things to notice</summary>
+  
+- Is it clear that they can reply to VA?
+- If they couldn't reply to VA, what would they do?
+
+</details>
+
 > Screen: Reply sent
 
 I'll give you a minute to read this page.
@@ -206,10 +240,26 @@ I'll give you a minute to read this page.
 
 Okay, awesome. Let's go ahead and click 'Return to Ask VA.'
 
+<details>
+  <summary>Key things to notice</summary>
+  
+- Is any information missing from the reply confirmation?
+- Can they find the link to return to the dashboard?
+
+</details>
+
 > Screen: Dashboard
 
 - What page are we on now?
 - Has anything on this page changed, since you sent your reply to the VA?
+- Why do you think the status of this question changed from 'Solved' to 'Reopened'?
+
+<details>
+  <summary>Key things to notice</summary>
+  
+- Do they notice the status changed from 'Solved' to 'Reopened'?
+
+</details>
 
 ## Cool down (5 minutes)
 
@@ -229,7 +279,6 @@ I’d love to spend a little time reflecting before we finish.
   <summary>Key things to notice</summary>
   
 - What did they like and what would they change?
-- [Add additional key things to notice]
 
 </details>
    
