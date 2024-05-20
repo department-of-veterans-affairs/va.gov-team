@@ -117,7 +117,7 @@ Moderated usability testing is appropriate for the goals of this research and th
 ### Research materials
 
 For moderated usability tests: 
-- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-05-oh-scheduling/conversation-guide.md))
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2024-05-oh-scheduling/conversation-guide.md)
 - [Link to prototype](url goes here)
 
 
