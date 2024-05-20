@@ -1,4 +1,5 @@
 # CEDAR Identity login.gov/ID.me Adoption Campaign Pilot and Co-Creation Study
+# Paused due to re-prioritization and team bandwidth
 
 
 ## Background
@@ -42,6 +43,10 @@ These research outcomes will be unique to a) self service, including remote help
 ## Research Methodology:
 Co-creation, generative research
 We will mostly engage in a group format (up to 9 participants). Within this study, we have designated series (comprised of 3 sessions within a month) where we will engage with the same participants. In order to ensure that individual voices are heard, we may either ask for pre-work (not longer than 15 minutes or reflection/capture) or have individual heads-down time during the group sessions, preparing for discussions. The sessions will be a combination of exploring current state experiences with conversation prompts or creative activities; and envisioning desired solutions through brainstorms informed by prototypes and role play. During the sessions, we will pay attention to the inputs from participants as well as how they interact with each other, namely, who and what influences individuals and the group to change their attitudes and perspectives. Because of the longitudinal nature of these interactions, we also plan on asking for feedback on the session design, and bringing in learning from previous sessions and reporting on what they informed us.
+
+[Research Activities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716223783954/8db8059e04fc62de339c6075f46f221711f31d07?sender=u1b0df595924572baa8a94764)
+
+[Research Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715872488389/bbe18d332bc53e3452b99c1e98d73d7c3f7e3e78?sender=u1b0df595924572baa8a94764)
 
 ## Trauma informed approach
 To ensure the research experience for participants is respectful and supportive, a trauma informed approach will be used for both pilot and the longitudinal study. During research review through Veteran Affairs, collaboration sessions will be held in pre-research planning to review workshop design and identity structures and resources to provide trauma informed practice throughout the research process.
