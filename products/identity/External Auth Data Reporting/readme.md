@@ -76,6 +76,8 @@ In addition
 
 ## Assumptions:
 * There are common pieces of user authorization data that VA Leadership is continually wanting to view.
+* Could use a survey like this to gather some of the qualitative data:
+  ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/8985801e-8a4f-4488-bdb0-93407d46efa2)
 
 ## Solution Approach: 
 * Do research to determine what kind of data VA Leadership needs.
