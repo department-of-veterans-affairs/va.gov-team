@@ -26,7 +26,7 @@ Are there moments that matter?
 
 ### Research Goals
 
-1. **Evaluate Usability and Accessibility**:
+1. **Evaluate Usability**:
    - Understand how easily users can navigate the unified scheduling portal.
    - Identify any barriers to accessibility for users with disabilities.
 
