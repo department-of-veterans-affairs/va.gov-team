@@ -2,10 +2,10 @@ Thank you for your participation in the In-Person Identity Proofing Pilot! Your 
 
 1. Are you familiar with identity verification? 
 - [ ] Not at all familiar
--[ ] Slightly familiar
--[ ] Moderately familiar
--[ ] Very familiar
--[ ] Extremely familiar
+- [ ] Slightly familiar
+- [ ] Moderately familiar
+- [ ] Very familiar
+- [ ] Extremely familiar
 Please explain your response below:
 
 
@@ -13,23 +13,23 @@ Please explain your response below:
 
 
 2. What is your level of confidence using the In-Person Identity Proofing application to help a Veteran complete in-person identity verification? 
--[ ] Not Confident
--[ ] Somewhat Confident
--[ ] Moderately Confident
--[ ] Very Confident
--[ ] Extremely Confident
--[ ] Not applicable
+- [ ] Not Confident
+- [ ] Somewhat Confident
+- [ ] Moderately Confident
+- [ ] Very Confident
+- [ ] Extremely Confident
+- [ ] Not applicable
 Please explain your response below:
 
 
 
 
 3. What is your level of confidence explaining the purpose to Veterans of in-person identity verification?
--[ ] Not Confident
--[ ] Somewhat Confident
--[ ] Moderately Confident
--[ ] Very Confident
--[ ] Extremely Confident
+- [ ] Not Confident
+- [ ] Somewhat Confident
+- [ ] Moderately Confident
+- [ ] Very Confident
+- [ ] Extremely Confident
 Please explain your response below:
 
 
@@ -37,12 +37,12 @@ Please explain your response below:
 
 
 4. What was the level of ease using the In-Person Identity Proofing application?
--[ ] Very Difficult
--[ ] Difficult
--[ ] Moderate
--[ ] Easy
--[ ] Very Easy
--[ ] Not Applicable
+- [ ] Very Difficult
+- [ ] Difficult
+- [ ] Moderate
+- [ ] Easy
+- [ ] Very Easy
+- [ ] Not Applicable
 Please explain your response below:
 
 
@@ -50,22 +50,22 @@ Please explain your response below:
 
 
 5. How confident are you that you would be able to help a Veteran complete this service again? 
--[ ] Not Confident
--[ ] Somewhat Confident
--[ ] Moderately Confident
--[ ] Very Confident
--[ ] Extremely Confident
+- [ ] Not Confident
+- [ ] Somewhat Confident
+- [ ] Moderately Confident
+- [ ] Very Confident
+- [ ] Extremely Confident
 Please explain your response below:
 
 
 
 
 6. How confident are you that other VA staff could use this application and help a Veteran complete in-person identity verification?
--[ ] Not Confident
--[ ] Somewhat Confident
--[ ] Moderately Confident
--[ ] Very Confident
--[ ] Extremely Confident
+- [ ] Not Confident
+- [ ] Somewhat Confident
+- [ ] Moderately Confident
+- [ ] Very Confident
+- [ ] Extremely Confident
 Please explain your response below:
 
 
