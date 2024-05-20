@@ -1,7 +1,7 @@
 Thank you for your participation in the In-Person Identity Proofing Pilot! Your participation and input are invaluable as we strive to improve our services. We ask that you complete a survey before and after the pilot to help us. Your feedback is anonymous and no individual responses will be shared with your supervisor or anyone else in a way that identifies you. Thank you for taking the time to share your thoughts with us today. 
 
 1. Are you familiar with identity verification? 
--[ ] Not at all familiar
+- [ ] Not at all familiar
 -[ ] Slightly familiar
 -[ ] Moderately familiar
 -[ ] Very familiar
