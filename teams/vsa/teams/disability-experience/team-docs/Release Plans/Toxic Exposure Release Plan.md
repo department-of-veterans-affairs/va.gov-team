@@ -33,12 +33,12 @@ Veterans will be able to complete the paper form equivalent of Section IV; quest
 
 - Bring the online 526 form into compliance by being up to date with the 2022 paper form
 - Reduce the number of letters sent to Veterans with requests for more information
-- Reduce the amount of time to determine if the applicant is elegible for presumptive service connection based on toxic exposure
+- Reduce the amount of time to determine if the applicant is eligible for presumptive service connection based on toxic exposure
 - Mantain or reduce abandonment rates
 
 [relative to form EVSS to Lighthouse]: #
 
-- Sucessfully migrate 526 submission infrastructure off EVSS
+- Successfully migrate 526 submission infrastructure off EVSS
 - Reduce or maintain existing submission errors
 - Maintain % of submissions that use normal path
 - Maintain or reduce uses of backup and failsafe path
