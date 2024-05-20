@@ -1,8 +1,8 @@
-# Conversation guide
+# Conversation guide - Veterans
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 17, 2024
+Last updated by @tygindraux: May 20, 2024
 
 ## Moderator logistics
 
@@ -72,7 +72,7 @@ There are a few other things I want to mention before we start:
 - **This session should take about an hour.** I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
 - **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
 - **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure writing is clear.
-- **I’m going to share a prototype with you today.** This is like a test version of the website, so it may not work exactly how you expect. For example, you’ll be able to click some buttons, but not all of them.
+- **I’m going to share a prototype with you today.** This is like a test version of the website, so it may not work exactly how you expect. For example, you’ll be able to click some buttons, but not all of them. Also, if the prototype says something like, "you have a 70% disability rating," that's pretend information. I don't want it to alarm you if you read anything, because it's all just made up for the purpose of this session.
 - **If for any reason and at any time you want to stop the session, you just have to let me know.** And that might be a pause to get some water or to stop the session completely. You'll be paid even if we don't complete the full session.
 - Last thing is about recordings. We can record the session to help us confirm we captured your opinions accurately and sometimes share video clips with our colleagues at VA. If we do this, we don’t link anything you share in the session to any information that could identify you. We remove your face and your name from the videos. **Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - `IF NO` Don't record
@@ -108,15 +108,110 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 ## Set up (5 minutes)
 
-[Add section that helps provide context for Ask VA, introduces today's scenario, and gets the prototype set up.]
+Thanks, it’s helpful to learn about your experience with the VA.
+
+Now, we're going to shift gear. And I'd like to share something with you to get your feedback.
+
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
+
+> Send link in Zoom chat.
+
+* [VETERAN - Desktop prototype](add link)
+* [VETERAN - Mobile prototype](add link)
+
+- Can you open the link in the chat?
+- Have you shared your screen on Zoom before?
+  - `IF YES` Great. Can you please share your screen?
+  - `IF NO` I’ll walk you through how to do that…
+
+Thanks! Now I’m able to see your screen too.
+
+> Screen: Dashboard
+
+Okay, so before we look at this, I want to explain the scenario.
+
+Ask VA is an online tool that Veterans and can use to ask the VA a question. You can ask questions about all different topics, like health care or housing assistance, for example.
+
+And in this scenario, let's pretend like you're kind of familiar with Ask VA. Last year, you used Ask VA to ask a question about homa loans. And recently, you've submitted 2 more questions to the VA.
+
+And so, take a look at your screen now. We see that we're on Ask VA and we're pretending like you're signed in. This is your account.
+
+- How does that sound? Does everything feel clear at this point?
+
+Okay, great. So now I'm going to ask you some questions about this page. If the scenario is confusing to you, just let me know.
 
 ## Dashboard (20 minutes)
 
-[Add section that asks questions about findability on the dashboard, exploring content and hierarchy on the cards.]
+So, first off...
+
+- Can you describe this page to me? What are you noticing?
+
+Great. So, let's say you got an email from the VA, letting you know that they replied to your question. And in order to read their reply, you need to sign in.
+
+So, now you're signed in.
+
+- Without clicking anything yet, can you tell me what you would look for? You want to find the VA's reply to your question.
+- How would you find the right question to click on?
+- What does the date mean?
+- What does this mean, where it says, "Health care"?
+- What does 'new' mean?
+- What does 'solved' mean?
+
+Okay, so at this point, you've found the question you want to click on.
+
+- Without clicking yet, can you tell me where you would click next?
+- What do you expect to happen when you click 'Check details'?
 
 ## Question details (20 minutes)
 
-[Add section that asks questions about the details of a specific inquiry, exploring what's missing and hierarchy on the page.]
+> Screen: Question details
+
+Alright, so now we're on this page.
+
+- First, can you describe this page to me? What are you noticing?
+- Is this what you expect to find on this page?
+- Is anything missing?
+
+Remembering our scenario...
+
+- What would you do first on this page?
+- Can you find the reponse from the VA?
+
+I'll give you a minute to read their reply.
+
+- What are your thoughts, after reading that?
+- Is this what you expected?
+- If you had a follow question, can you reply to the VA?
+- If you couldn't reply back to the VA – let's say it didn't let you reply – what would you do to follow up?
+
+Okay, let's say you wanted to write the VA a reply to follow up.
+
+- Without clicking anything yet, can you describe how you would reply to the VA?
+
+Great. Well, we can't actually type in the prototype today. But let's click on that box where you would type, and we'll pretend like you typed in your reply.
+
+> Screen: Reply drafted
+
+So, now we see your reply has been drafted.
+
+- What would you do next?
+
+Great. Let's go ahead and click send.
+
+> Screen: Reply sent
+
+I'll give you a minute to read this page.
+
+- Can you summarize this page for me?
+- Is anything missing from this page?
+- How do you get back to the Ask VA homepage from here?
+
+Okay, awesome. Let's go ahead and click 'Return to Ask VA.'
+
+> Screen: Dashboard
+
+- What page are we on now?
+- Has anything on this page changed, since you sent your reply to the VA?
 
 ## Cool down (5 minutes)
 
@@ -128,7 +223,9 @@ I’d love to spend a little time reflecting before we finish.
 
 - What did you think of that process? Is there anything you liked?
 - Is there anything that could have been easier?
-- [Add additional questions to wrap up]
+- Let's say you wanted to tell another Veteran about Ask VA. How would you describe it to them?
+- If they needed help finding their reply from the VA, what would you tell them?
+- Is there anything else you want to share with me, about this process?
 
 <details>
   <summary>Key things to notice</summary>
