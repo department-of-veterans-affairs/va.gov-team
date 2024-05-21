@@ -4,6 +4,8 @@ This document lists first-impression quick fixes to form 10-7959f-1 discovered d
 
 This document is not intended to serve as a research report and does not cover all research findings. It is not the result of full analysis but rather documents gut-feeling best guesses by researchers.
 
+[Prioritization matrix](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716217052586/a2bc86c566749036601fe4d68331e62cf475e983?sender=u3844370d13a440a7859d3526)
+
 ## Things we don’t need to go through the design system for
 
 
