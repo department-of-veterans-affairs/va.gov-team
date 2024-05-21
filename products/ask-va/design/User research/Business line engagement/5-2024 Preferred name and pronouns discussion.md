@@ -8,7 +8,7 @@ _Ask VA VA.gov Team_
 
 ## Summary
 ### Pronouns/Preferred name
-- Data Demographics Work Group (DDWG)/Data Governance Council (DGC) proposed and approved Sexual Orientation Gender Identity (SOGI) traits
+- Data Demographics Work Group (DDWG)/Data Governance Council (DGC) proposed and approved Sexual Orientation Gender Identity (SOGI) traits.
 - Pronouns and Preferred name are both self-identified only, meaning only the submitter could provide this data. However, Nancy will follow-up with John Williams if our use case makes sense (only asking for the subject to refer to someone in the third-person). 
 - The design component for Pronouns needs to be updated based on these different standards. For now, we can continue to use this component from VADS though. 
 
