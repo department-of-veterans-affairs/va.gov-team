@@ -112,8 +112,12 @@ A strong preference for the numbered badge, which indicated the amount of items 
 In addition, our one colorblind participant who was able to go through the prototypes stated that they had trouble noticing the dot indicators, **while being able to see the badge easily.** (P4)
 
 Veterans expressed understanding of what the badge and dot signified, as far as what the notification may mean.
+
 > "...it might mean that I've recently had lab work and there are results to be seen" (P8).
+
 > "...you either got two prescriptions that need to be filled, you have two prescriptions that been filled and you need and you can track it." (P12)
+
+> "It means I have 2 medicines on the way." (P18) 
 
 <br>
 
