@@ -23,7 +23,7 @@ Systems used by Application Processing teams
      - Used to obtain documents such as DD-214 and DD-215
 
 ### Development
-- x/xx/23 - Placeholder Text.
+- 5/21/2024 - According to Joshua Faulkner, document attachment data is not exposed to the EE API and therefore cannot be accessed via a request.
 
 
 ### Testing
