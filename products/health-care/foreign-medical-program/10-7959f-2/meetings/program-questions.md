@@ -6,6 +6,7 @@
 |4|FMP claim|Overview|What is narrative description?| What treatment did you provide? More info the better, include diagnosis - CPT code expedites it, but not everyone uses those|
 |5|FMP reg|Confirmation|Thoughts around confirmation page?| Give assurance they can still file a claim - if you need to file a claim before you receive your auth letter, it won’t preclude you - will still be processed. Review/adjudicate it|
 |6|both|Contact info|How is the phone number used? stored (format)? Are both international and domestic accepted/supported?||
+|---|FMP Claim|file upload|Do we include OHI here?|
 |---|FMP Claim|confirmation|Are the contact details and other info ok here? Or is there a quicker way to contact someone (other than mail)||
 |---|both|general|Are we able to tell people how long before they can receive a response on their application? Is this usually by mail or email? What information can we include if they don't hear back by a certain date? (Would issues go to the IVC escalation team or general VA contact center)||
 |---|both|general|Can people update their information after they've submitted their application? (How do they do this today?)||
