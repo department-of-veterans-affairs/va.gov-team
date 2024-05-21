@@ -175,7 +175,10 @@ Pre-survey for VA Staff
 Post-survey for VA Staff
 Survey for Veterans; to be completed upon completion of session
 Anti-Fraud Letter for Veterans
-Educational Materials for Veterans
+Educational Materials for Veterans/[IPP Pamphlet](https://www.figma.com/design/HdYyoAYefTSyHNjVuUdT2I/IPP-Pilot-Materials?m=auto&t=8qOoHOLqDlmr9X2x-6)
+[IPP Pilot Signage](https://www.figma.com/file/sWaKEav2QibZZKxAkbULG7/IPP-Pilot-Material?type=design&node-id=145%3A11&mode=design&t=j3n8W8XClioBMxgv-1)
+[IPP Flyer](https://www.figma.com/design/HdYyoAYefTSyHNjVuUdT2I/IPP-Pilot-Materials?m=auto&t=8qOoHOLqDlmr9X2x-6)
+
 	
 ### Recruitment	
 Veteran Recruitment Criteria
