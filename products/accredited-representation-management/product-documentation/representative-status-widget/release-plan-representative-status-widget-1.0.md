@@ -64,13 +64,15 @@ The following metrics will be considered before advancing rollout to the next st
 
 1. **Errors in Sentry**: None
 2. **Errors in Datadog**: None
-3. **What changes (if any) need to be implemented before proceeding to the next rollout stage?** There was an environment check preventing the Widget from displaying in Production.  This was removed and after remaining at 10% for a bit, we're ready to bump to 50%.
+3. **What changes (if any) need to be implemented before proceeding to the next rollout stage?**
+   1. There was an environment check preventing the Widget from displaying in Production.  This was removed and after remaining at 10% for a bit, we're ready to bump to 50%.
+   2. Set up a warning notification due to 7 non-200 responses in the last 4 hours. 15 or above will trigger an alert notification.  All notifications routed to Slack channel #benefits-representation-management-notifications.
 
 #### Stage B Results (5/15-5/20) - 50% of users
 
-1. **Errors in Sentry**:
-2. **Errors in Datadog**:
-3. **What changes (if any) need to be implemented before proceeding to the next rollout stage?** 
+1. **Errors in Sentry**: None
+2. **Errors in Datadog**: Some 404 and 422 errors from the backend, staying close with Lighthouse.
+3. **What changes (if any) need to be implemented before proceeding to the next rollout stage?** None.
 
 ## Post Launch Metrics
 
