@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 20, 2024
+Last updated by @tygindraux: May 21, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -45,7 +45,6 @@ This research will help us determine if and how we need to improve the design an
 ### Research questions
 
 Understand how submitters find a question in their dashboard:
-* How do people find a question in their dashboard?
 * Which labels or details are useful in identifying a specific question? For example, category, reference number, or date.
 * Do people expect to be able to 'search' their dashboard?
 * Can people find the question they're looking for?
@@ -64,14 +63,16 @@ Understand what submitters need to learn when they review their question's detai
 
 ### Hypotheses
 
-1. People with few inquiries in their dashboard will be able to quickly identify the question they're looking for.
-2. People with few or many inquiries in their dashboard will use the date to identify the question they're looking for.
-3. People will expect to be able to search in their dashboard using keywords in the question or category.
-4. The statuses and icons will be distinguishable and understood.
-5. People may confuse the date submitted (H3, primary date) with the date last updated (secondary date).
-6. It will be straightforward to find the link to check details, but some people will think they can click on the entire card.
-7. On the details page, people will scroll past details to look for a reply from VA.
-8. People who can't respond to VA will be unsure what to do if they have a follow up question or issue.
+1. People will generally understand the content within the cards without labels, like, 'Date submitted.'
+2. People may confuse the date submitted (H3, primary date) with the date last updated (secondary date).
+3. Certain statuses and icons will be difficult to understand without more description.
+4. It will be hard to identify which questions have a reply from VA.
+5. People will expect to be able to search in their dashboard using keywords in the question or category.
+6. People may only use the sorting feature when they have many cards.
+7. It will be straightforward to find the link to check details, but some people will think they can click on the entire card.
+8. On the details page, people will scroll past details to look for a reply from VA.
+9. When they want to write a reply to VA, it will unintuitive to scroll back up to the reply.
+10. People who can't respond to VA will be unsure what to do if they have a follow up question or issue.
 
 ## Methodology
 
