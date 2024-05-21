@@ -63,8 +63,8 @@ Reduce communication issues by 25% within the first year.
 
 ## Solution Approach
 ### Assumptions
-Risky Assumption: Users will be willing to provide their contact information.
-Validation Plan: Monitor user engagement and feedback to assess willingness and address privacy concerns.
+- Risky Assumption: Users will be willing to provide their contact information.
+- Validation Plan: Monitor user engagement and feedback to assess willingness and address privacy concerns.
 
 
 - **Initial Build:** Develop profile prompts for mailing address, mobile phone number, and email address with an option to dismiss.
