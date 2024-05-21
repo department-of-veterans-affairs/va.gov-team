@@ -126,8 +126,8 @@ In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earli
 
 > Send link in Zoom chat.
 
-* [VETERAN - Desktop prototype](add link)
-* [VETERAN - Mobile prototype](add link)
+* [VETERAN - Desktop prototype](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=86-113153&t=iofC6kYKXWHuPxCY-1&scaling=min-zoom&page-id=44%3A97142&starting-point-node-id=86%3A113153)
+* [VETERAN - Mobile prototype](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=86-103005&t=m7chNSIuvBg5Ov3i-1&scaling=min-zoom&page-id=4%3A3&starting-point-node-id=86%3A103005)
 
 - Can you open the link in the chat?
 - Have you shared your screen on Zoom before?
