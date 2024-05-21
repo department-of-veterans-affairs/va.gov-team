@@ -5,7 +5,7 @@ Last updated by @tygindraux: May 21, 2024
 This document is for our design team to communicate field rules. The primary audience is engineering and product folks on our team.
 
 **Jump to:**
-- [Gender identity](#gender-identity)
+- [Gender](#gender)
 - [Pronouns](#pronouns)
 - [Preferred name](#preferred-name)
 - [Social security number or service number](#social-security-number-or-service-number)
@@ -18,12 +18,10 @@ This document is for our design team to communicate field rules. The primary aud
 - [Contact options](#when-contact-options-are-enableddisabled)
 - [Reason you're contacting us](#reason-youre-contacting-us)
 
-## `Gender identity`
+## `Gender`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Require submitter's `Gender identity`||
-
-- Submitter can be the Veteran, a family member, or another third party.
+|All categories|Require Veteran's `Gender identity`||
 
 ## `Pronouns`
 |If|Then|Unless|
