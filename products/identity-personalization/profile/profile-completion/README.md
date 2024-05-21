@@ -73,8 +73,8 @@ Reduce communication issues by 25% within the first year.
 - **Evolution:** Post-MVP will include prompts for direct deposit setup and annual data refresh reminders based on user feedback and engagement metrics.
 
 ## Launch Strategy
-Phased launch with initial round of UAT testing. 
-C&S Page???: Provide FAQs to help users understand the benefits of completing their profile.
+- Phased launch with initial round of UAT testing. 
+- C&S Page???: Provide FAQs to help users understand the benefits of completing their profile.
 
 ### Launch Dates
 Target Launch Date: TBD
