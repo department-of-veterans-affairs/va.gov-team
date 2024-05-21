@@ -26,10 +26,10 @@ This document is for our design team to communicate field rules. The primary aud
 ## `Pronouns`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Require submitter's and whomever the inquiry is about's `Pronouns`||
+|All categories|Require `Pronouns` for whomever the inquiry is about||
 
-- Submitter can be the Veteran, a family member, or another third party.
 - Who the inquiry is about can be the Veteran or a family member.
+- We will only ask for the pronouns of the subject of the inquiry if they are not the submitter. We will not ask for the submitter's pronouns.
 
 ## `Preferred name`
 |If|Then|Unless|
