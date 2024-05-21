@@ -31,7 +31,7 @@
     - Current status from Lighthouse 5/17/24: /submit in Lighthouse staging early June, in production late June.
 - Internal dependency: completion of /submit endpoint migration (team 1)
   - When the new /submit endpoint is made available by Lighthouse in the staging environment, previous migration work should be reviewed for changes and updates made where appropriate. The new endpoint will need to undergo Canary launch and staggered release with monitoring. Logic will also need to be implemented to handle the Toxic Exposure questions.
-- Internal dependency: completion of /generatePDF endpoint migration (team 2)
+- Internal dependency: completion of /generatePDF endpoint migration in backup submissions (team 2) 
 
 
 ## Planned Delivery Timeline April 2024 - June 2024
