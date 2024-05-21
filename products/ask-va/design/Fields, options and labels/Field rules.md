@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: January 2, 2024
+Last updated by @tygindraux: May 21, 2024
 
 This document is for our design team to communicate field rules. The primary audience is engineering and product folks on our team.
 
@@ -12,6 +12,7 @@ This document is for our design team to communicate field rules. The primary aud
 - [Date of birth](#date-of-birth)
 - [Branch of service](#branch-of-service)
 - [DoD/EDIPI number](#dodedipi-number)
+- [Location and postal code](#location-and-postal-code)
 - [School fields](#school-fields)
 - [Medical facility](#medical-facility)
 - [Contact options](#when-contact-options-are-enableddisabled)
@@ -68,6 +69,9 @@ This document is for our design team to communicate field rules. The primary aud
 
 ## `DoD/EDIPI number`
 - This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
+
+## Location and postal code
+- Review this [Location of residence and postal code documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md)
 
 ## School fields
 |If|Then|Unless|
