@@ -83,10 +83,19 @@ _Link to DOMO dashboards TBD_
 3. [User engagement](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20240312&_u.date01=20240318&_.useg=user0ChHUWxaSUWm-5ocHKwm0Q,user_5CvEnKiSOmYYMHT8kTpQQ,builtin1&overview-dimensionSummary.selectedGroup=system&overview-dimensionSummary.selectedDimension=analytics.browser/) (segmented by Find a Rep users vs. all users of VA.gov)
 4. [Event Tracking](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/_u.date00=20240311&_u.date01=20240413&_.useg=&_r.drilldown=analytics.pagePath:www.va.gov~2Fget-help-from-accredited-representative~2Ffind-rep~2F,analytics.eventCategory:Interactions&explorer-table.plotKeys=%5B%5D&explorer-table.rowCount=50&explorer-graphOptions.selected=analytics.nthDay/)
 
+### 1-Day Results (5/21)
+
+**Statuses from [Datadog](https://vagov.ddog-gov.com/logs?query=%40payload.controller%3A%22RepresentationManagement%3A%3AV0%3A%3APowerOfAttorneyController%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1716302570635&to_ts=1716316970635&live=true)**:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/eaa14cc1-3d8e-4043-879d-984ae73d2bf8)
+
+**Statuses from Lighthouse**:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/608c75bf-e0b9-4639-b20a-9911cbfffba8)
+
 ### 1-Week Results (5/20-5/27)
 
-1. **Errors in Sentry**:
-2. **Errors in Datadog**:
+1. **Errors**:
 3. **Contact Center calls (MyVA411)**: 
 4. **Feedback survey submmissions (Medallia)**:  
 
@@ -94,8 +103,7 @@ _Link to DOMO dashboards TBD_
 
 ### 1-Month Results (5/20-6/20)
 
-1. **Errors in Sentry**:
-2. **Errors in Datadog**:
+1. **Errors**:
 3. **Contact Center calls (MyVA411)**: 
 4. **Feedback survey submmissions (Medallia)**:
 
