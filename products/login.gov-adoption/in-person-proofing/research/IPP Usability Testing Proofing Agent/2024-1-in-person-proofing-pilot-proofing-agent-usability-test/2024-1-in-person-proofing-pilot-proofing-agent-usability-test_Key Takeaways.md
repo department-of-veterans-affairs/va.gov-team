@@ -15,6 +15,8 @@ Seven feedback sessions completed, each session was 50 minutes
 
 ### [Prototype](https://va-in-person-identity-proofing.vercel.app/)
 
+### [Link to Figma where notes, analysis and synthsis were done](https://www.figma.com/design/zByOO6fHv5FJswiQtUYxia/02-2024-In-Person-Proofing-Proofing-Agent-Usability-Test?m=auto&t=mNVLrhhx9JzVljVH-6)
+
 ### Goal
 
 In order to support Veterans who may be unable to verify their identity remotely, Office of the Chief Technology Officer has tasked the Secure Sign In Transition team with creating a custom service that meets NIST Identity Assurance Level 2 (IAL2) guidelines, [800-63](https://pages.nist.gov/800-63-3-Implementation-Resources/63A/ial2remote/), and enables Veterans to complete identity verification in person at VA facilities. The service consists of an In-Person Identity Proofing custom application and an appointment at a VAMC with a designated proofing agent. The custom application is a new product that will allow proofing agents to validate proofing documents and use the Identity Toolkit to help Veterans complete identity verification at VA sites. Secure Sign In Transition is a team within OCTO Identity and is working in partnership with Login.gov.\

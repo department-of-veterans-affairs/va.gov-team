@@ -189,7 +189,9 @@ On a scale of 1-5, with 1 being a beginner and 5 being an expert, how experience
 
 - [Link to conversation guide](https://docs.google.com/document/d/1vdOd8fo5kL1Lb364sWdIU52dlYi5X-D01lv-jSMySmA/edit)
 
-- [Link to prototype](https://www.figma.com/proto/PfrWKmxiQ5RjChwx6I18QE/IPP-Prototypes?page-id=&type=design&node-id=972-15464&viewport=2227%2C557%2C0.25&t=iW2nDxnEUSnTXrCp-1&scaling=scale-down&starting-point-node-id=972%3A15464&mode=design)
+- [Link to prototype](https://www.figma.com/file/8NZqFwgVI5RScTAnUjB1u0/12-2023-In-Person-Proofing-Veteran-Usability-Test?type=design&t=qZorICrE871834zE-6)
+
+- [Link to prototype for screen reader](https://www.figma.com/file/8NZqFwgVI5RScTAnUjB1u0/12-2023-In-Person-Proofing-Veteran-Usability-Test?type=design&t=qZorICrE871834zE-6)
 
 ### Timeline
 

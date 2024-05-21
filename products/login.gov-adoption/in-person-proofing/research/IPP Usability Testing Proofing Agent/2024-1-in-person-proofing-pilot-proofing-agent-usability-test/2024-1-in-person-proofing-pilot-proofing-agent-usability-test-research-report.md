@@ -16,7 +16,6 @@ Carl Dickerson
 
 Josie Griffith
 
-Table of Contents
 
 
 Research Goals
@@ -28,7 +27,9 @@ Research Goals
 
 3.  Conduct the usability test and complete the analysis within one month to inform design changes before on-site testing. 
 
-[Link to Prototype](https://va-in-person-identity-proofing.vercel.app/)
+### [Link to Prototype](https://va-in-person-identity-proofing.vercel.app/)
+
+### [Link to Figma where notes, analysis and synthsis were done](https://www.figma.com/file/zByOO6fHv5FJswiQtUYxia/02-2024-In-Person-Proofing-Proofing-Agent-Usability-Test?type=design&t=qZorICrE871834zE-6)
 =======================================================================
 
 Participants interacted with the prototype flow under the "Proofing Agent" button. "Proofing Agent" refers to the role of the authorized VA staff member who will help the Veteran complete in-person identity verification. 
