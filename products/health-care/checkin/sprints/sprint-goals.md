@@ -99,8 +99,10 @@ ________________________________________________________________________________
         - 🟩 [Add Medication Review Content to PCI Product(s) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-        - 🟩 [Update Travel for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
-- **GOAL: Increase PCI Usability**    
+        - 🟥 [Travel OH: Update Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
+        - 🟩 [Update Travel for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: 
     - **Sub Goal: New Landing Page with Upcoming Appointments**      
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
@@ -117,7 +119,9 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
-        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)   
+        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
+    - **Sub Goal: Handle Tech Debt**
+        - 🟩 [eCheck-in: Update Logic for Multiple Station Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
 
 </details>
 
