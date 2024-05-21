@@ -15,7 +15,7 @@ The updated profile completion process should help us set the foundation for a t
 
 
 ## Problem Statement
-New users to VA.gov are sometimes at risk of missing out on updates due to incomplete contact information. For longtime users they may have outdated information. 
+New users to VA.gov are sometimes at risk of missing out on updates due to incomplete contact information. For longtime users, they may have outdated information. 
 
 How might we encourage veterans to complete their profile information to ensure they receive timely benefits and updates while respecting their preference to opt-out? 
 
