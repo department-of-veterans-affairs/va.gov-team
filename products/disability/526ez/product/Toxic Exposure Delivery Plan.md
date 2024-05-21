@@ -79,10 +79,10 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
-**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)* 
-**Actual Delivery Date**:          
-**Environment**: Production         
-**Building Blocks:**   
+**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)*      
+**Actual Delivery Date**:            
+**Environment**: Production          
+**Building Blocks:**      
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
    - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
    - [ ] Submit dashboard    
