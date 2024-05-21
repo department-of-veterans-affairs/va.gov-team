@@ -80,8 +80,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
 **Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)* 
-**Actual Delivery Date**:      
-**Environment**: Production   
+**Actual Delivery Date**:          
+**Environment**: Production         
 **Building Blocks:**   
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
    - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
@@ -99,7 +99,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
 **Estimated Duration**: Sprint 35 (7/3 - 7/16/24)*    
-**Actual Delivery Date**:       
+**Actual Delivery Date**:          
 **Environment**: MVP Ship - Production     
 **Building Blocks:**    
  - [ ] Staging review.
