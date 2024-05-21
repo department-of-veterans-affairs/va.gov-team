@@ -102,7 +102,6 @@ ________________________________________________________________________________
         - 🟥 [Travel OH: Update Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
         - 🟩 [Update Travel for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: 
     - **Sub Goal: New Landing Page with Upcoming Appointments**      
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
