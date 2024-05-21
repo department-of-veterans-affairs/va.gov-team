@@ -27,6 +27,8 @@ A Veteran user will have more seamless and secure access to VA services as well 
 - As a person who accesses VA.gov, I want to be informed and educated about the need to change my credentials or start using Login.gov credentials so I understand why I have to switch.
 - As a VA.gov user, I want to know who I can go to for help in order to answer questions or create a Login.gov credential so I can complete the task with minimal frustration.
 
+## [User Stories](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716211670751/05a5621ef04573365614a90a56d295a4b2ca52f7?sender=u1b0df595924572baa8a94764)
+
 ## Standards of Practice
 Ensure adherence to the following directives and guidelines for identity verification:
  [VA’s 6510 directive](https://www.va.gov/vapubs/viewPublication.asp?Pub_ID=824&FType=2)
