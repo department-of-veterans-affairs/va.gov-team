@@ -3,11 +3,18 @@
 
 **Last Update:** 5/21/2024 drafting the initial document 
 
+## Communications
+- **Github labels**: authenticated-experience; profile-completion
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
+
 ## Overview
 
 We want to enhance the veteran user profile completion process to collect essential contact information ensuring efficient communication and accurate benefits delivery. This includes gathering a mailing address, phone numbers, and email address, while allowing users to dismiss the prompt if they choose. 
 
 The updated profile completion process should help us set the foundation for a tutorial or website introduction to guide users through VA.gov. This should be thought of the first piece in what would be a larger structure that we could allow other teams to introduce new website features or updates.  
+
+## Important Artifacts 
+- [Profile Completion Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83258) 
 
 ## Problem Statement
 New users to VA.gov are sometimes at risk of missing out on updates due to incomplete contact information. For longtime users they may have outdated information. 
@@ -91,4 +98,4 @@ Profile completion prompts for mailing address, mobile phone number, and email a
 - incorporate Direct Deposit
 - For an expansion of this we would want to build a framework that requests refreshed contact information on a predetermined cadence (every year?) 
 
-## Communications
+
