@@ -12,7 +12,7 @@ Current versions:
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
 
 ## Data sources
-Lighthouse Facilities API (endpoint?)
+Lighthouse Facilities API (/va endpoint)
 PPMS / Community Care (/ccp endpoint)
 
 ### vets-API Facilities API v1
