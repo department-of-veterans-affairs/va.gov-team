@@ -29,7 +29,7 @@ A Veteran user will have more seamless and secure access to VA services as well 
 
 ## [User Stories](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716211670751/05a5621ef04573365614a90a56d295a4b2ca52f7?sender=u1b0df595924572baa8a94764)
 
-##[Initial Migration Strategy](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716212156492/ce3927c86b7e8580657b85199503319209ac1dcc?sender=u1b0df595924572baa8a94764)
+## [Initial Migration Strategy](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716212156492/ce3927c86b7e8580657b85199503319209ac1dcc?sender=u1b0df595924572baa8a94764)
 
 ## Standards of Practice
 Ensure adherence to the following directives and guidelines for identity verification:
