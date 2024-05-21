@@ -69,7 +69,7 @@ This document is for our design team to communicate field rules. The primary aud
 - This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
 
 ## Location and postal code
-- Review this [Location of residence and postal code documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md)
+- Review this [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
 
 ## School fields
 |If|Then|Unless|
@@ -88,7 +88,7 @@ This document is for our design team to communicate field rules. The primary aud
 |All other categories|Don't include `Medical facility`||
 
 ## When contact options are enabled/disabled
-- Review [List of contact options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/List%20of%20contact%20options.md)
+- Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
 
 ## Reason you're contacting us
 - This field is required. We're currently exploring whether we can remove this.
