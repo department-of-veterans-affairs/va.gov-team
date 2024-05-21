@@ -214,6 +214,8 @@ I'll give you a minute to read their reply.
 - Do they understand how or if they can reply back to VA?
 - If they can't reply to VA, what would they do if they have an issue or follow-up question?
 
+</details>
+
 ## Cool down (5 minutes)
 
 Okay, we’re all finished with the prototype. So you can stop sharing your screen now.
