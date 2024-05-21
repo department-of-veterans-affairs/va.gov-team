@@ -18,11 +18,12 @@ PPMS / Community Care (/ccp endpoint)
 ### vets-API Facilities API v1
 ```mermaid
 flowchart LR
+    O(VAST) -->|Most VA facility names, addresses etc.| V
     P(CARMA) --> |Health services - Caregiver Support| V
     R(Legacy data source) -->|Health services - most others| V
-    S(Sandy's DB)-->|Benefit services| V
-    U(PPMS) -->|Community providers| X
-    V[Lighthouse Facility API v0] --> X
+    S(Sandy's DB)-->|Benefit services and benefit facility data| V
+    U(PPMS) -->|Non-VA facility and service data| X
+    V[Lighthouse Facility API v0] -->|VA facility and service data| X
     X[vets-api Facility API v1]
 
 ```
@@ -30,12 +31,13 @@ flowchart LR
 ### vets-API Facilities API v2
 ```mermaid
 flowchart LR
+    O(VAST) -->|Most facility names, addresses etc.| W
     P(CARMA) --> |Health services - Caregiver Support| W
     S(Sandy's DB)-->|Benefit services| W
-    U(PPMS) -->|Community providers| Y
+    U(PPMS) -->|Non-VA facility and service data| Y
     T(Drupal) -->|Health services - most others| W
     T -.->|Benefit services| W
     Q(???) -->|Health services - Mental health| W 
-    W[Lighthouse Facility API v1] --> Y
+    W[Lighthouse Facility API v1] -->|VA facility and service data| Y
     Y[vets-api Facility API v2]
 ```
