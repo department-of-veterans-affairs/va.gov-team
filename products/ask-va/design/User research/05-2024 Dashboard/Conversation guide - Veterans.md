@@ -21,6 +21,7 @@ Last updated by @tygindraux: May 21, 2024
 - [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Check Zoom settings and make sure participants have permission to share
 - [ ] Open conversation guide
+- [ ] Open [Ask VA](https://ask.va.gov/) (be ready to screenshare)
 - [ ] Open prototype (be ready to screenshare if needed)
 - [ ] Copy link to the prototype into Zoom chat
 - [ ] Mute your Slack notifications
