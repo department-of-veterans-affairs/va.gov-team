@@ -100,7 +100,7 @@ Remote sessions via Zoom
 #### Research materials
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
 * Pre-release build of the VA mobile app, distributed via Testflight
-* [Research session sign up sheet](https://docs.google.com/spreadsheets/d/1xdPYQwgvFWCoo0gOtNta8MsB_PyZ1Mxzp9GiQ4OZKbQ/edit#gid=0)
+* [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
 
 <img width="250" alt="VA mobile app - Personalized home screen - loading" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/3bb18541-1700-4960-8b0c-cb8ca3777c7f">  
 <img width="250" alt="VA mobile app - Personalized home screen " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/bf87ce0e-4cf8-4542-8d36-cf9895cc7c62">
@@ -194,8 +194,8 @@ Availability for a kick-off call, in Eastern times:
 - Pre-pilot participant (Screenreader & non-screenreader) email: **[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)**
 - Date and time of pre-pilot session: **Week of March 18**
 
-- Pilot participant (non-screenreader) email: **TBD**  
-- Date and time of pilot session: **TBD**  
+- Pilot participant (non-screenreader) email: **[Therese Dickson](mailto:therese.dickson@adhocteam.us)**
+- Date and time of pilot session: **May 23, 3:30-4:30pm**
 
 ### Research sessions
 * Planned dates of research: **Week 1: May 28-31, Week 2: June 3-7**
@@ -224,14 +224,14 @@ Availability for a kick-off call, in Eastern times:
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator: [Holly Collier](mailto:holly.collier@adhocteam.us), 202-246-0333
+- Moderator: [Holly Collier](mailto:holly.collier@adhocteam.us), 202-818-8710 x1059
 - Research guide writing and task development (usually but not always same as moderator):[Holly Collier](mailto:holly.collier@adhocteam.us)	
 - Participant recruiting & screening: Perigean
-- Project point of contact:	[Holly Collier](mailto:holly.collier@adhocteam.us)
-- Participant(s) for pilot test: TBD
+- Project point of contact: [Holly Collier](mailto:holly.collier@adhocteam.us)
+- Participant(s) for pilot test: [Therese Dickson](mailto:therese.dickson@adhocteam.us)
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	[Brea Blackwelder](mailto:brea.blackwelder@adhocteam.us)
-- Note-takers:	TBD
-- Observers:	TBD
+- Note-takers: see [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
+- Observers: see [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
 
 ## Analysis & Findings
 * Analysis spreadsheet & session notes
