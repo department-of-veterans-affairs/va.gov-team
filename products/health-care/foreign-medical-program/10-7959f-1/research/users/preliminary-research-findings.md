@@ -1,7 +1,8 @@
 # Preliminary Form Improvements: Form 10-7959f-1 (FMP Registration)
 
-This document lists first-impression quick fixes to form 10-7959f-1 discovered during user research. It is not intended to serve as a research report and does not cover all research findings. It is not the result of full analysis but rather documents gut-feeling best guesses by researchers.
+This document lists first-impression quick fixes to form 10-7959f-1 discovered during user research. The purpose is to identify opportunities for improvment to the form that can be made by design and developers while full analysis is ongoing.
 
+This document is not intended to serve as a research report and does not cover all research findings. It is not the result of full analysis but rather documents gut-feeling best guesses by researchers.
 
 ## Things we don’t need to go through the design system for
 
