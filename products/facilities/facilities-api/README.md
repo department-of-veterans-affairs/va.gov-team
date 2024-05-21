@@ -15,20 +15,27 @@ Current versions:
 Lighthouse Facilities API (endpoint?)
 PPMS / Community Care (/ccp endpoint)
 
+### vets-API Facilities API v1
 ```mermaid
 flowchart LR
-    
-    R(Legacy data source) -->|Health services| V
+    P(CARMA) --> |Health services - Caregiver Support| V
+    R(Legacy data source) -->|Health services - most others| V
     S(Sandy's DB)-->|Benefit services| V
-    S -->|Benefit services| W
     U(PPMS) -->|Community providers| X
-    U -->|Community providers| Y
-    T(Drupal) -->|most Health services| W
-    T -.->|Benefit services| W
-    Q(???) -->|Mental health| W 
     V[Lighthouse Facility API v0] --> X
+    X[vets-api Facility API v1]
+
+```
+
+### vets-API Facilities API v2
+```mermaid
+flowchart LR
+    P(CARMA) --> |Health services - Caregiver Support| W
+    S(Sandy's DB)-->|Benefit services| W
+    U(PPMS) -->|Community providers| Y
+    T(Drupal) -->|Health services - most others| W
+    T -.->|Benefit services| W
+    Q(???) -->|Health services - Mental health| W 
     W[Lighthouse Facility API v1] --> Y
-    X[vets-api Facility API v1] --> |Current path| Z
-    Y[vets-api Facility API v2] -.-> |Future path| Z
-    Z[Facility Locator]
+    Y[vets-api Facility API v2]
 ```
