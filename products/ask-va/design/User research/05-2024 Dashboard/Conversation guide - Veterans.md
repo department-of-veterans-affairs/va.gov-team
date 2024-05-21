@@ -163,6 +163,8 @@ Okay, so I think it's clear now that these are 3 questions that we're pretending
 Okay, and let's say you remembered that the VA gave you some information about home loans and you signed in to re-read their response.
 
 - How would you find that question about home loans?
+- Are you able to search? How?
+- Are you able to sort the order of these cards? How?
 
 Okay, so at this point, let's say that you want to check whether there's a reply for this `Solved` question you asked on `May 21st`.
 
