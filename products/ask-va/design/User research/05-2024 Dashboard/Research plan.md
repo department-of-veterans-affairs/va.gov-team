@@ -105,7 +105,7 @@ We will also work with the GI Bill team to recruit business submitters, such as 
 
 ### Recruitment criteria – Veterans
 
-We will recruit 8 Veterans for a total of 6 completed sessions.
+We will recruit 8 Veterans for a total of 5-6 completed sessions.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
