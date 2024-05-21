@@ -81,8 +81,8 @@ Actual Launch Date: TBD
 Impact Evaluation Date: TBD
 
 ## Key Decisions
-Profile completion prompts will include an option to dismiss.
-Focus on critical contact information first; additional features will follow post-MVP.
+- Profile completion prompts will include an option to dismiss.
+- Focus on critical contact information first; additional features will follow post-MVP.
 
 ## Important Artifacts 
 - [Profile Completion Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83258) 
