@@ -76,6 +76,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] Handle multiple exposure locations 15C.
  - [ ] Handle multiple exposure locations 15D.
  - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
+ - [ ] Consolidate Submit and Toxic Exposure feature flags.
  
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
