@@ -213,6 +213,7 @@ Screen reader usability was not properly assessed, and further testing is ideal.
 
 [Screen reader guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/dot-indicator/research/2024-03%20Dot%20Indicator%20and%20Slim%20Alert%20Usability%20Study/dot-indicator-convo-guide-for-screen-readers.md)
 
+[Mural board capturing findings, as well as Affinity Mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709061562188/1dfb9cdf6dbb59004be7cfff6714b3c704d7fa37?sender=u32ca7987ad64375cb5bb9275)
 
 ## Tools used for Synthesis
 
