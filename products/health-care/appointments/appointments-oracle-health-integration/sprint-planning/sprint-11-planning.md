@@ -19,15 +19,15 @@ DSU will now be on slack T/Th and on zoom WMF at 11 am EST
 * 🟣 Testing/Admin/Operational Support
  
 ## 📋 Previous Sprint Summary:
-In Sprint 10, the team provided support for multiple features and initiatives, outlined as follows::
+In Sprint 10, the team provided support for multiple features and initiatives, outlined as follows:
 * #### Backend support for Oracle Health appointment cancellation to create backend architecture that will enable veterans to be able to cancel appointments within Oracle Health:
-  * Testing occurred to ensure that appointments could be cancelled. Two bugs were found and work is ongoing to remedy the issues.  We have already patched cancellations sent to VetsAPI Patient Gateway that do not have a request body. Additionall we enabled cancellation of non-VAOS care types. 
+  * Testing occurred to ensure that appointments could be cancelled. Two bugs were found and work is ongoing to remedy the issues.  We have already patched cancellations sent to VetsAPI Patient Gateway that do not have a request body. Additionally we enabled cancellation of non-VAOS care types. 
 *  #### Backend support for Oracle Health appointment requests to create backend architecture that will enable veterans to be able to request  appointments within Oracle Health:
-   * In VetsAPI Patient gateway we added validation for Cerner site appointment.kid as well ass serviceType validation to support new Oracle Health appointment requests. 
+   * In VetsAPI Patient gateway we added validation for Cerner site appointment.kid as well as serviceType validation to support new Oracle Health appointment requests. 
 * #### Backend support to enable patient eligibility verification at Oracle Health sites for appointment requests and direct scheduling:
   * We determined patient appointment eligibility at Oracle Health facilities. If any of the required parameters are missing or have invalid values then a HTTP 400 error is returned. 
 * #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities: 
-  * We updated Cerner Fhir Adapater to implment Patient/$relattionship operation which was neeed prior to the determining patient appointment eligibility at Oracle Health facilites. Additionally we removed CDW and FCDW references in VetsAPI Patient Gateway to make it more performant as they are non-essential service dependencies. 
+  * We updated Cerner Fhir Adapater to implment Patient/$relationship operation which was neeed prior to the determining patient appointment eligibility at Oracle Health facilites. Additionally we removed CDW and FCDW references in VetsAPI Patient Gateway to make it more performant as they are non-essential service dependencies. 
 
 
 ## 🏆 Sprint Goals and Stories
