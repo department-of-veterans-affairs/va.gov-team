@@ -1,14 +1,11 @@
 # External Auth Data Reporting
 
 ## Overview: 
-External Auth Data Reporting is a project designed to determine the data we are sharing with VA leadership and others surrounding the full authentication process, which is defined as a person doing the following: 
-1. Choosing one of our CSP (Credential Service Providers) on the VA.gov sign-in page.
-2. Providing credentials on the CSP's login.
-3. Returning back to VA.gov with their identity verified.
+External Auth Data Reporting is a project designed to create a standing data report to share with VA leadership and others surrounding the full authentication process.
 
 There are basically two goals of this initial phase of the project:
 
-- Define the data we want to report to the VA.
+- Define the data we want to report.
 - Display and explain that data in a way that is easy to understand and report upon.
 
 This is a part of the book of work that maps to _O1KR2: VA.gov authentication SLOs are developed._
