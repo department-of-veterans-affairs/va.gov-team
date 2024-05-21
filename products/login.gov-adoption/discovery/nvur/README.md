@@ -1,4 +1,7 @@
 # Non-Veteran user roles outline
+> [!Warning]
+> After initial discovery work ending in December 2022, MFA Security Keys pilot and Non-Veteran User Roles research were deprioritized in favor of [adoption-focused work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign/).
+> The content below is an initial draft.
 
 ---
 
