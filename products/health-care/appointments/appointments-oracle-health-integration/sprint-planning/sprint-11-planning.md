@@ -16,7 +16,7 @@ DSU will now be on slack T/Th and on zoom WMF at 11 am EST
   * 🟦 Support Oracle Health slot search
   *  🟩 🟦 Implement Patient Eligibility verification at Oracle Health sites
 * 🟠 Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
-* 🟣 Testing/Admin
+* 🟣 Testing/Admin/Operational Support
  
 ## 📋 Previous Sprint Summary:
 In Sprint 10, the team provided support for multiple features and initiatives, outlined as follows::
@@ -41,6 +41,8 @@ In Sprint 10, the team provided support for multiple features and initiatives, o
 * 🔴 Appointment Cancellation
   * [#83557 CES-488 VPG: Some Cerner appointmenst are incorrectly flagged as cancellable](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83557)
   * [#83550 CES-396 CPG: Return all OH Providers seen by patient at facility](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83550) 
-  * [#83349 VetsAPI: Route Appointment read and fetch request to VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83349) 
+  * [#83349 VetsAPI: Route Appointment read and fetch request to VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83349)
+* 🟣 Testing/Admin/Operational Support
+  * [#82546 CES-510: VPG: Enable prometheus metric scraping](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82546)
 ## ✈️ Planned Releases
 None
