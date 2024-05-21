@@ -11,7 +11,7 @@ Because there are separate initiatives focused on the transitioning service memb
 This is a new product; our MVP version is a page focused on providing Veterans with 1) a brief welcome message 2) 3-6 actions they can begin their journey with (not personalized; based upon site analytics for popular actions) and 3) directions toward assistance, should they need it.
 
 
-[Link to product brief](https://docs.google.com/document/d/1gbBknW1NDSGFqCZLEQrrlrCCwhTHolrTw6Ef3Vfg_R0/edit#heading=h.b4736c82g0bk)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/product-outline.md)
 
 ### OCTO Priorities    
 This research supports the 2024 goal of “Our digital experiences are the best way to access VA health care and benefits.”   
