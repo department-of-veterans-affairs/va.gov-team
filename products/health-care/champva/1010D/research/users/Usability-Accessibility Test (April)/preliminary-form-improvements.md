@@ -1,6 +1,10 @@
 # Preliminary Form Improvements: CHAMPVA Registration (VA Form 10-10d)
 
-This document lists first-impression quick fixes to Form 10-10d discovered during user research. **It is not intended to serve as a research report and does not cover all research findings**. It is not the result of full analysis but rather documents gut-feeling best guesses by researchers.
+This document lists first-impression quick fixes to Form 10-10d discovered during user research. The purpose is to identify opportunities for improvment to the form that can be made by design and developers while full analysis is ongoing.
+
+This document is not intended to serve as a research report and does not cover all research findings. It is not the result of full analysis but rather documents gut-feeling best guesses by researchers.
+
+[Impact/effort matrix (UX only)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715951140109/d758e4e23ffc505d822726cd4ca660ea4c2a1d67?sender=u3844370d13a440a7859d3526)
 
 
 ## Bug Fixes
