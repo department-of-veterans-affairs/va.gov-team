@@ -41,7 +41,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 
 
 #### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked.
-**Duration**: Sprint 28 (3/27 - 4/9/24) - Sprint 30 (4/24 - 5/7/24)     
+**Estimated Duration**: Sprint 28 (3/27 - 4/9/24) - Sprint 30 (4/24 - 5/7/24)   
+**Actual Delivery Date**: Sprint 30 (4/24 - 5/7/24)
 **Environment**: Staging    
 **Building Blocks:**    
  - [X] JSON Schema refactored
@@ -50,7 +51,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 
 
 #### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E.
-**Duration**: Sprint 29 (4/10 - 4/23/24) - Sprint 31 (5/8 - 5/21/24)    
+**Estimated Duration**: Sprint 29 (4/10 - 4/23/24) - Sprint 31 (5/8 - 5/21/24) 
+**Actual Delivery Date**: Sprint 31 (5/8 - 5/21/24) 
 **Environment**: Staging    
 **Building Blocks:**     
  - [X] Create the summary page for Gulf War 1990 questions.
@@ -60,10 +62,11 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Heading content and URL changes.
  - [X] Transform service on the first of each location in 15B and put these behind the Toxic Exposure feature flag.
  - [X] Handle multiple exposure durations 15B.
- - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, adding 15B and 15E are populated.
+ - [X] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, adding 15B and 15E are populated.
 
 #### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E; herbicide & hazards pages data is populated in 15 C, D, E.
-**Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 33 (6/5 - 6/18/24)*     
+**Estimated Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 33 (6/5 - 6/18/24)*     
+**Actual Delivery Date**:
 **Environment**: Staging    
 **Building Blocks:**   
  - [ ] Create herbicide pages.
@@ -76,7 +79,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
-**Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)*       
+**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)* 
+**Actual Delivery Date**:
 **Environment**: Production   
 **Building Blocks:**   
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
@@ -94,7 +98,8 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
-**Duration**: Sprint 34 (6/19 - 7/2/24)*    
+**Estimated Duration**: Sprint 35 (7/3 - 7/16/24)*    
+**Actual Delivery Date**:
 **Environment**: MVP Ship - Production     
 **Building Blocks:**    
  - [ ] Staging review.
