@@ -10,6 +10,7 @@
 Component/Pattern | Published documentation | Priority/Effort | POC | Revisions and work in progress
 --- | --- | --- | --- | ---
 URLs | [URL standards in VADS](https://design.va.gov/content-style-guide/url-standards) | High/Small | Erin | [Additional work needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/url-standards.md)<br> [Issue #81192 in progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81192)
+Redirects | --- | High/Med | Kristen/Jenny | Update documentation to enable teams other than PW to implement redirects, solidify process and acceptance criteria.
 IA governance | [Content placement criteria for unauth experience] | High/Large | Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience
 Header | | Med/Med | | Componetize header, incorporate Federal header requirements
 Footer | | Med/Med | | Componetize footer, incorporate Federal footer requirements
