@@ -113,7 +113,7 @@ Thanks, it’s helpful to learn about your experience with the VA.
 
 Now, we're going to shift gears. And I'd like to share something and get your feedback.
 
-In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website.It might not work perfectly and we're going to be pretending like the information in the prototype is yours. 
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly and we're going to be pretending like the information in the prototype is yours. 
 
 > Send link in Zoom chat.
 
