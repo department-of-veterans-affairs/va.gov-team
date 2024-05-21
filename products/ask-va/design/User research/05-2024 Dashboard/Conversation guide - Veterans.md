@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 20, 2024
+Last updated by @tygindraux: May 21, 2024
 
 ## Moderator logistics
 
@@ -95,7 +95,6 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
     - Can you tell me about a time when you contacted the VA?
     - How do you usually contact the VA? Why?
     - How was the support you received?
-    - Have you ever heard of Ask VA or AVA?
 
 <details>
   <summary>Key things to notice</summary>
@@ -108,11 +107,23 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 ## Set up (5 minutes)
 
-Thanks, it’s helpful to learn about your experience with the VA.
+- Have you ever heard of Ask VA?
 
-Now, we're going to shift gears. And I'd like to share something and get your feedback.
+`IF YES` Okay, great. Can you tell me about a time when you used Ask VA?
 
-In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more Veterans.
+`IF NO` Okay, no problem. I'm going to show you Ask VA on my screen for a moment.
+
+> Share screen with [Ask VA](https://ask.va.gov/ask-a-question/).
+
+**IMPORTANT: EXPLAIN ASK VA**
+
+This is Ask VA. Ask VA is an online tool that Veterans can use to ask a question. You can ask questions about all different topics, like health care or housing assistance, for example.
+
+Today, we're going to pretend like you're kind of familiar with Ask VA. Let's say, you've used Ask VA to ask a couple questions at this point.
+
+So, now I'm going to stop sharing my screen. And we're going to shift gears.
+
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly and we're going to be pretending like the information in the prototype is yours. 
 
 > Send link in Zoom chat.
 
@@ -128,40 +139,28 @@ Thanks! Now I’m able to see your screen too.
 
 > Screen: Dashboard
 
-Okay, so before we look at this, I want to explain the scenario.
-
-Ask VA is an online tool that Veterans can use to ask the VA a question. You can ask questions about all different topics, like health care or housing assistance, for example.
-
-In this scenario, let's pretend like you're kind of familiar with Ask VA. Last year, you used Ask VA to ask a question about home loans. And recently, you submitted 2 more questions.
-
-And so, take a look at your screen now. We see that we're on Ask VA and we're pretending like you're signed in. This is your account.
-
-- How does that sound? Does everything feel clear at this point?
-
-Okay, great. If you have any questions as we go along, just let me know.
+And so, taking a look at your screen. We see that we're on Ask VA and we're pretending like you're signed in. Pretend like this is your account.
 
 ## Dashboard (20 minutes)
 
 So, first off...
 
 - Can you describe this page to me? What are you noticing?
-- What does the date mean? What day is that referring to?
+- What are these boxes?
+- What do these dates mean? What days are those referring to?
 - What does this mean, where it says, "Health care"?
-- What does 'new' mean?
-- What does 'solved' mean?
-- [ADD ANYTHING THAT IS MISSING]
-- Do any of these have a reply from VA yet?
+- What does 'New' mean?
+- What does 'Solved' mean?
+- What is this text here, that says, "How do I access Secure Messaging on the VA website?" What is that text?
 
----REMOVE---
-So, let's say you received an email from the VA letting you know that they've replied to your question. And so, you've signed into your account today in order to read their response.
+Okay, so I think it's clear now that these are 3 questions that we're pretending like you submitted to the VA.
 
-- So, you know from your email, that the VA has replied to one of your questions. Which question have they replied to?
-  - Describe to me what you're looking for. How would you find which question to click on?
----/REMOVE---
+- Do any of these questions have a reply from VA yet?
+- Which question might have a reply? Why?
+- If there's not an easy way to tell which one has a reply, what would you do?
+- Does the Status help you understand whether there's a reply?
 
-[LEAD THEM TO CHOOSE THE SOLVED CARD]
-
-Okay, so at this point, you think you've found the question you're looking for. Which is the `Solved` question you asked on `May 21st`.
+Okay, so at this point, let's say that you want to check whether there's a reply for this `Solved` question you asked on `May 21st`.
 
 - Without clicking yet, can you tell me where you would click next?
 - What do you expect to happen when you click 'Check details'?
