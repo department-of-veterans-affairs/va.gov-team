@@ -129,11 +129,12 @@ For more details about our criteria, refer to our [Recruitment ticket](add link)
 
 ### Screener questions
 
-1. Have you contacted the VA online or over the phone in the past year? [Yes, no]
-2. Have you signed in to VA.gov in the past year? [Yes, no]
-3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no]
-4. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet. [Yes, no]
-5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these. [Yes, no]
+1. Have you contacted the VA online or over the phone in the past year? [Yes, no: Must answer Yes to qualify]
+2. Have you used Ask VA before? Share link to [Ask VA](https://ask.va.gov/). [Yes, no: Their answer won't have any impact on whether they qualify]
+3. Have you signed in to VA.gov in the past year? [Yes, no: Must answer Yes to qualify]
+4. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet. [Yes, no: Exactly half of participants must answer Yes to qualify]
+5. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.  [Yes, no: Exactly half of participants must answer Yes to qualify]
+6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  [Yes, no: At least half of participants must answer Yes to qualify]
 
 ### Recruitment criteria – Business submitters
 
