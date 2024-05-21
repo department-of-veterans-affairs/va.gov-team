@@ -145,17 +145,21 @@ Okay, great. If you have any questions as we go along, just let me know.
 So, first off...
 
 - Can you describe this page to me? What are you noticing?
-
-Great. I'll let you know when we can click on things, but for now let's stay on this page.
-
-So, let's say you received an email from the VA letting you know that they've replied to your question. And so, you've signed into your account today in order to read their response.
-
-- So, you know from your email, that the VA has replied to one of your questions. Which question have they replied to?
-  - Describe to me what you're looking for. How would you find which question to click on?
 - What does the date mean? What day is that referring to?
 - What does this mean, where it says, "Health care"?
 - What does 'new' mean?
 - What does 'solved' mean?
+- [ADD ANYTHING THAT IS MISSING]
+- Do any of these have a reply from VA yet?
+
+---REMOVE---
+So, let's say you received an email from the VA letting you know that they've replied to your question. And so, you've signed into your account today in order to read their response.
+
+- So, you know from your email, that the VA has replied to one of your questions. Which question have they replied to?
+  - Describe to me what you're looking for. How would you find which question to click on?
+---/REMOVE---
+
+[LEAD THEM TO CHOOSE THE SOLVED CARD]
 
 Okay, so at this point, you think you've found the question you're looking for. Which is the `Solved` question you asked on `May 21st`.
 
