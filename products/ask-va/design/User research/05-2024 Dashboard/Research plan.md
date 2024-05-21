@@ -86,10 +86,14 @@ These are the main features we're testing:
 
 ### Research materials
 
-* [Conversation guide](add link)
+* Conversation guides
+  * [Conversation guide - Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/05-2024%20Dashboard/Conversation%20guide%20-%20Veterans.md)
+  * [Conversation guide - Business](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/05-2024%20Dashboard/Conversation%20guide%20-%20Business.md)
 * Prototypes
-  * [Mobile prototype](add link)
-  * [Desktop prototype](add link)
+  * [Prototype - Veterans, Desktop](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=86-113153&t=iofC6kYKXWHuPxCY-1&scaling=min-zoom&page-id=44%3A97142&starting-point-node-id=86%3A113153)
+  * [Prototype - Veterans, Mobile](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=86-103005&t=m7chNSIuvBg5Ov3i-1&scaling=min-zoom&page-id=4%3A3&starting-point-node-id=86%3A103005)
+  * [Prototype - Business, Desktop](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=95-155315&t=ODmwq4bssm9Grwd6-1&scaling=min-zoom&page-id=95%3A133903&starting-point-node-id=95%3A155315)
+  * [Prototype - Business, Mobile](https://www.figma.com/proto/QiGqccQi4jIFXuQ9AMh0Sx/Ask-VA-Prototype-R3?node-id=95-165205&t=0YLSMOGWiMbiJaC1-1&scaling=min-zoom&page-id=26%3A42405&starting-point-node-id=95%3A165205)
 
 ## Recruitment
 
