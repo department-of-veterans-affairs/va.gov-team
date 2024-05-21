@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: May 20, 2024
+Last updated by @tygindraux: May 21, 2024
 
 ## Moderator logistics
 
@@ -17,10 +17,11 @@ Last updated by @tygindraux: May 20, 2024
 
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Start a thread in Teams, General channel for CRM folks
-- [ ] Sign into Perigean’s Zoom and start the meeting
+- [ ] Sign into ~Perigean’s~ my Zoom account and start the meeting
 - [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Check Zoom settings and make sure participants have permission to share
 - [ ] Open conversation guide
+- [ ] Open [Ask VA](https://ask.va.gov/) (be ready to screenshare)
 - [ ] Open prototype (be ready to screenshare if needed)
 - [ ] Copy link to the prototype into Zoom chat
 - [ ] Mute your Slack notifications
@@ -28,7 +29,7 @@ Last updated by @tygindraux: May 20, 2024
 ### Start of the session
 
 - [ ] Turn camera on
-- [ ] If participant doesn’t arrive after 2 minutes, Slack Perigean in study channel
+- [ ] If participant doesn’t arrive after 5 minutes, ~Slack Perigean in study channel~ send them an email
 - [ ] If participant is a no-show, Slack team in #feedback-backchannel
 
 ## Agenda (60 minutes)
@@ -89,7 +90,7 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 - First off, can you tell me about your title and role at VA?
 - Have you used Ask VA before?
     - Can you tell me some reasons you use Ask VA?
-    - Why do you use Ask VA vs. another tool or task?
+    - Why do you use Ask VA vs another tool or task?
     - How often do you submit inquiries?
     - Do you use Ask VA on your computer or phone?
 - Are you a Veteran yourself?
@@ -112,7 +113,7 @@ Thanks, it’s helpful to learn about your experience with the VA.
 
 Now, we're going to shift gears. And I'd like to share something and get your feedback.
 
-In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website. It might not work perfectly, but this way we can learn what we need to improve before we share it with more people.
+In the Zoom chat, I'm going to send you a link to a prototype. I mentioned earlier a prototype is like a test version of a website.It might not work perfectly and we're going to be pretending like the information in the prototype is yours. 
 
 > Send link in Zoom chat.
 
@@ -127,44 +128,51 @@ Thanks! Now I’m able to see your screen too.
 
 > Screen: Dashboard
 
-Okay, so before we look at this, I want to explain the scenario.
-
-We're going to pretend like you've signed into VA.gov to check on a recent Ask VA inquiry you submitted.
-
-And so, take a look at your screen now. We see that we're on Ask VA and we're pretending like you're signed in. This is your account.
-
-- How does that sound? Does everything feel clear at this point?
-
-Okay, great. If you have any questions as we go along, just let me know.
+And so, taking a look at your screen. We see that we're on Ask VA and we're pretending like you're signed in. Pretend like this is your account.
 
 ## Dashboard (20 minutes)
 
 So, first off...
 
 - Can you describe this page to me? What are you noticing?
-- How do you usually use your Ask VA dashboard?
-- Is there anything you look for in particular?
-- As a `ROLE`, do you often go back into your dashboard to look at the VA's reply?
-
-Great. I'll let you know when we can click on things, but for now let's stay on this page.
-
-So, let's say you received an email from the VA letting you know that they've replied to your question. And so, you've signed into your account today in order to read their response.
-
-- So, you know from your email, that the VA has replied to one of your questions. Which question have they replied to?
-  - Describe to me what you're looking for. How would you find which question to click on?
-- What does the date mean? What day is that referring to?
-- What does this mean, where it says, "Education benefits and work study"?
-- What does 'new' mean?
-- What does 'solved' mean?
-- What's different about this, compared to the current Ask VA?
+- What are these boxes?
+- What do these dates mean? What days are those referring to?
+- What does this mean, where it says, "Health care"?
+- What does 'New' mean?
+- What does 'Solved' mean?
+- What is this text here, that says, "How do I access Secure Messaging on the VA website?" What is that text?
 - Why does it say business at the top?
   - What is the difference between business and personal inquiries?
+  - `IF VETERAN` Since you're a Veteran, let's go ahead and click on the personal tab.
+     - Is there anything you want to point out here?
 
-`IF VETERAN` Since you're a Veteran, let's go ahead and click on the personal tab.
-- Is there anything you want to point out here?
-- Okay, let's return to the business tab.
+`IF VETERAN` Okay, let's return to the business tab.
 
-Okay, so at this point, you think you've found the question you're looking for. Which is the `Solved` question you asked on May 8th.
+- What's different about this dashboard, compared to the current version of Ask VA?
+
+I'm curious to learn more about how you currently use your dashboard on Ask VA.
+
+- How often do you sign in to Ask VA to check on a past inquiry?
+- What are you looking for when you check on a past inquiry? Is there anything you look for in particular?
+- As a `ROLE`, do you often go back into your dashboard to look at the VA's reply?
+- Do you often read the response from VA, when you submit a `Time card`, for example?
+- Do you have any issues with the current dashboard?
+
+So, looking back at this screen. We're pretending that you submitted these questions to VA.
+
+- Do any of these questions have a reply from VA yet?
+- Which question might have a reply? Why?
+- In the current version of Ask VA, how do you know when you have a reply?
+- If there's not an easy way to tell which one has a reply, what would you do?
+- Does the status help you understand whether there's a reply?
+
+Okay, and let's say you wanted to check on an inquiry you submitted about contracts.
+
+- How would you find that question about contracts?
+- Are you able to search? How?
+- Are you able to sort the order of these cards? How?
+
+Okay, so at this point, let's say that you want to check whether there's a reply for this `Solved` question you asked on `May 8th`.
 
 - Without clicking yet, can you tell me where you would click next?
 - What do you expect to happen when you click 'Check details'?
