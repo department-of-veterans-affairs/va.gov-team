@@ -82,7 +82,12 @@ Example:
           "herbicide": {
             "cambodia": true,
             "guam": true,
-            "laos": true
+            "koreandemilitarizedzone": true,
+            "johnston": true,
+            "laos": true,
+            "c123": true,
+            "thailand": true,
+            "vietnam": true
           },
           "herbicideDetails": {
             "cambodia": {
