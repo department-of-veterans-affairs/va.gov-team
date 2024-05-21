@@ -101,7 +101,6 @@ It seems like we’re ready to get started. I'd like to begin by learning more a
 
 - Why do they choose to contact VA (instead of going elsewhere or doing another task)?
 - How do they decide which channel to use when they contact the VA?
-- Are they familiar with Ask VA?
 
 </details>
 
@@ -140,6 +139,13 @@ Thanks! Now I’m able to see your screen too.
 > Screen: Dashboard
 
 And so, taking a look at your screen. We see that we're on Ask VA and we're pretending like you're signed in. Pretend like this is your account.
+
+<details>
+  <summary>Key things to notice</summary>
+
+- Are they familiar with Ask VA?
+
+</details>
 
 ## Dashboard (20 minutes)
 
