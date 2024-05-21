@@ -33,6 +33,7 @@ How might we encourage veterans to complete their profile information to ensure 
 - Data Accuracy: Up-to-date information enhances the overall quality of the VA's database.
 ## Undesired Business Outcomes
 - User Frustration: If the feature is perceived as intrusive, it may negatively impact user satisfaction.
+- Asking too many details leads folks to give up on filling out the profiles (or the applications) entirely
 
 ## Measuring Success
 
