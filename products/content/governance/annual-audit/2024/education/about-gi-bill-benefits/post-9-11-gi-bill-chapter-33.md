@@ -4,8 +4,8 @@
 This work is part of the rolling accuracy and content standards audit of our webpages. It's tied to requirements outlined in the **21st Century Integrated Digital Experience Act (21st Century IDEA)** from 2018. The Office of Management and Budget issued a memorandum in 2023 with guidance on how agencies should implement the 21st Century IDEA. According to the memorandum, agencies need to review their content regularly "to ensure that outdated, inaccurate, or duplicative information does not negatively impact the public."
 ## Webpage reviewed and updated
 Preview of edited page: [Draft page to review](https://prod.cms.va.gov/education/about-gi-bill-benefits/post-9-11)  
-Live page for context: [Post-9/11 GI Bill (Chapter 33)](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) 
- **Date updates published to VA.gov:**
+Live page for context: [Post-9/11 GI Bill (Chapter 33)](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
+**Date updates published to VA.gov:**
 ## OCTO lead's updates
 - Shorten the intro paragraph so that it has no more than 2-4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.).
 - Assess the blue eligibility box: if it has content not related to eligibility, move that content elsewhere.
