@@ -186,8 +186,8 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 #### Team Members  
 
 **OCTO**
-- Product Leads: Kay Lawyer and Lauren Alexanderson
-- Design: Coulton Bunney
+- Product Leads: Kay Lawyer 
+- Design: Kaitlin Fink
 - Research: Robyn Singleton
 - Engineering: Adrian Rollett 
 
