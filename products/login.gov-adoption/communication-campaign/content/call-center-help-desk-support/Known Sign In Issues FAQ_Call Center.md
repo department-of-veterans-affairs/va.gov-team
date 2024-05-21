@@ -1,6 +1,8 @@
 Last modified 12/28/23
 Blocked by pause in communication campaign
 
+[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716210740837/0057077bc375fa8907ff8349d63a21fa9aff1b9a?sender=u1b0df595924572baa8a94764) used to identify relevant information for known sign-in issues
+
 What if I have trouble uploading my ID to verify my identity?
 -------------------------------------------------------------
 
