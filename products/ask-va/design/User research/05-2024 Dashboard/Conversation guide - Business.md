@@ -202,9 +202,9 @@ Alright, so now we're on this page.
 - Is this what you expect to find on this page?
 - Is anything missing?
 
-Remembering our scenario...
+If you'd like whether there's a reply...
 
-- What would you do first on this page?
+- Can you show me what you would do first?
 - Can you find the reponse from the VA?
 
 I'll give you a minute to read their reply.
