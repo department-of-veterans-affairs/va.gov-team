@@ -51,8 +51,8 @@ Steps for `Sign up Service (SuS)`
 | My VA Health (Oracle Health) | Phase 1 | Thursday April 4th, 2024 @ 9PM EDT | https://va.gov/terms-of-use/myvahealth |
 | My VA Health (Oracle Health) | Phase 1, 2nd Attempt | Thursday April 25th, 2024 @ 9PM EDT |
 | My HealtheVet | Phase 1 | Wednesday May 15th, 2024 @ 9PM EDT | |
-| VA Flagship mobile | | | |
-| VA.gov | | | |
+| VA Flagship mobile | Phase 1 | Wednesday May 29th, 2024 @ 9PM EDT | |
+| VA.gov | Phase 1 | Wednesday June 12th, 2024 @ 1PM EDT | |
 
 
 > Phase 1 - My VA Health (Oracle Health)
