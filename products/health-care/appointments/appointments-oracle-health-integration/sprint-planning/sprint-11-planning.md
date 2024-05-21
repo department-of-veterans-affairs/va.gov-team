@@ -4,8 +4,7 @@ Sprint 11: 5/21/24 - 6/4/24
 ## 📅 Upcoming Dates
 
 ## 📣 Announcements
-CTO slack channel: appointments-oracle-health-integrations
-DSU will now be on slack T/Th and on zoom WMF at 11 am EST
+Brittany will be at PMR during the next sprint planning. Drew will ensure everything from Jira is represented in Zenhub. 
 
 ## 🏆 Overarching Goals
 * 🔴 Appointment Cancellation
