@@ -165,7 +165,7 @@ ________________________________________________________________________________
     - **Sub Goal: Add New Translated Content**
         - ✔️ 🟪 [[UX] Submit Screenshots to the State Department for Translation QA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63253)    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟩 [[FE] Add Accordions to the Appointments Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
+        - ✔️ 🟩 [[FE] Add Accordions to the Appointments Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63914)
         - ✔️ 🟩 [[FE] - Pre-check-in content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71266)
         - ✔️ 🟩 [[FE] - Review current past 15 minutes but still in lorota flow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71786)
         - 🟩 [[FE] Display Message when there was an Error Retrieving Appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/65825)
