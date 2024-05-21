@@ -41,7 +41,7 @@ The team will be conducting **in-person** interviews in the Denver regional offi
 Sessions will be **in-person**, at the *Denver Regional Office*.
 - Address: 155 Van Gordon Street, Lakewood, CO 80228
 - Point of contact: Shannon Ford, shannon.ford1@va.gov, 847-372-4519
-- Equipment used for research: TBD
+- Equipment used for research: none
 
 Instructions for entry: Please go to the lobby and look for a sign that says "OCTO Research" and has an octopus on it. You will be escorted to our training room for the research session and will need to go through a metal detector at security. Bring an ID just-in-case. You should expect to spend about 45-60 minutes total talking with VA's research team. 
 
@@ -87,7 +87,10 @@ All participants must answer Yes to at least one of the questions to qualify.
 - Mix of gender
 
 ## Timeline
-We would like a kick-off meeting with Perigean.
+We would like a kick-off meeting with Perigean. Possible times are:
+- 5/22: 8am-11:30am PT or 3pm ET
+- 5/23 8-9am PT, 9:30-10:30am PT, 11:30-12 PT1-3pm PT
+-5/24 9am-noon PT, 1-3pm ET
 
 ### Prepare
 * Date and time of pilot session: TBD;
