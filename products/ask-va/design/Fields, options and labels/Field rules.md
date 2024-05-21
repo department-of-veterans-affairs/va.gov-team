@@ -34,7 +34,7 @@ This document is for our design team to communicate field rules. The primary aud
 ## `Preferred name`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Include submitter's `Preferred name` in as optional||
+|All categories|Optional field for submitter's `Preferred name`||
 
 - Submitter can be the Veteran, a family member, or another third party.
 
