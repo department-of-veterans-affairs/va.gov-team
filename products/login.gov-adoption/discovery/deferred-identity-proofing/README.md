@@ -1,4 +1,7 @@
 # Deferred identity proofing outline
+> [!Warning]
+> The deferred identity proofing project has been deprioritized due to technical limitations. Last updated around July 2023.
+> Additional resources can be found in the [data dictionary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/deferred-identity-proofing/data-dictionary.md), [data lineage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery//deferred-identity-proofing/data-lineage.md), and [usage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/deferred-identity-proofing-usage.md) documents.
 
 ## Overview
 
