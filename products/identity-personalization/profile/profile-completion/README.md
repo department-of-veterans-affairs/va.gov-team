@@ -66,7 +66,7 @@ Reduce communication issues by 25% within the first year.
 - Risky Assumption: Users will be willing to provide their contact information.
 - Validation Plan: Monitor user engagement and feedback to assess willingness and address privacy concerns.
 
-
+## Scope
 - **Initial Build:** Develop profile prompts for mailing address, mobile phone number, and email address with an option to dismiss.
 - **Justification:** Ensures critical contact information is gathered without forcing user compliance, respecting user autonomy.
 - **Exclusions:** Advanced features like direct deposit prompts will be postponed to post-MVP to focus on initial profile completion.
