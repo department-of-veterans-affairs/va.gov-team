@@ -143,7 +143,7 @@ We will recruit 2 business submitters for a total of 2 completed sessions. They 
 |# of participants|Criteria|
 |:--|:--|
 |Exactly 2|Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran|
-|At least 2|Submit at least 5 Ask VA inquiries per month|
+|Exactly 2|Submit at least 5 Ask VA inquiries per month|
 |At least 1|Is also a Veteran, who may submit an Ask VA inquiry in a personal capacity|
 
 ## Timeline
