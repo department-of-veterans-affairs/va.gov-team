@@ -20,7 +20,7 @@ Our work has focused on 5 core priorities:
 * [Non-Veteran User Types at VA (NVUR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/nvur)
 * [Deferred Identity Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/deferred-identity-proofing)
 
-#### [Cross Product Research Strategy](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715872402007/838255bb0d4c665d463eebc6a5728c6aa24e6d1f?sender=u1b0df595924572baa8a94764)
+#### [Cross Product Research Strategy](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715872402007/838255bb0d4c665d463eebc6a5728c6aa24e6d1f?sender=u1b0df595924572baa8a94764); last updated April 2023
 
 ### Where to find us 
 
