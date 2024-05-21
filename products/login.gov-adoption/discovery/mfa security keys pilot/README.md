@@ -1,3 +1,6 @@
+> [!Warning]
+> Post initial discovery work ending in December 2022, MFA Security Keys pilot and Non-Veterna User Roles research were deprioritized in favor of  [adoption-focused work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign/).
+> The content contained below is an intial draft of this work.
 # Outline
 
 ---
