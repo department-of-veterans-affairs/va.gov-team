@@ -38,7 +38,7 @@ Here are the things we propose to report upon in the MVP:
 
 **Qualitative Data**
 - User Intervention Required Errors
-   - Report on errors where a users sign in error cannot be resolved with a self service solution, requiring the user to call the help desk or fill out a ticket.
+   - Report on how often users receive sign in error cannot be resolved with a self service solution, requiring the user to call the help desk or fill out a ticket.
 - Satisfaction/trust rating
   - Determine what "good" looks like
   - Determine what "bad" looks like
