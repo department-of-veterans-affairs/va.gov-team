@@ -13,8 +13,6 @@ We want to enhance the veteran user profile completion process to collect essent
 
 The updated profile completion process should help us set the foundation for a tutorial or website introduction to guide users through VA.gov. This should be thought of the first piece in what would be a larger structure that we could allow other teams to introduce new website features or updates.  
 
-## Important Artifacts 
-- [Profile Completion Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83258) 
 
 ## Problem Statement
 New users to VA.gov are sometimes at risk of missing out on updates due to incomplete contact information. For longtime users they may have outdated information. 
@@ -86,6 +84,8 @@ Impact Evaluation Date: TBD
 Profile completion prompts will include an option to dismiss.
 Focus on critical contact information first; additional features will follow post-MVP.
 
+## Important Artifacts 
+- [Profile Completion Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83258) 
 
 ## Screenshots
 ### Before
