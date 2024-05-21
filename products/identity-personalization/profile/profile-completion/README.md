@@ -77,9 +77,9 @@ Reduce communication issues by 25% within the first year.
 - C&S Page???: Provide FAQs to help users understand the benefits of completing their profile.
 
 ### Launch Dates
-Target Launch Date: TBD
-Actual Launch Date: TBD
-Impact Evaluation Date: TBD
+- Target Launch Date: TBD
+- Actual Launch Date: TBD
+- Impact Evaluation Date: TBD
 
 ## Key Decisions
 - Profile completion prompts will include an option to dismiss.
