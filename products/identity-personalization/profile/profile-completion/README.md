@@ -1,5 +1,5 @@
 `Draft`
-# Product Outline: User Profile Completion
+# Project Outline: User Profile Completion
 
 **Last Update:** 5/21/2024 drafting the initial document 
 
