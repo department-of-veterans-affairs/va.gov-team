@@ -95,8 +95,3 @@ No profile completion flow
 ### After
 Profile completion prompts for mailing address, mobile phone number, and email address, with a dismiss option.
 
-## Future enhancements to consider 
-- incorporate Direct Deposit
-- For an expansion of this we would want to build a framework that requests refreshed contact information on a predetermined cadence (every year?) 
-
-
