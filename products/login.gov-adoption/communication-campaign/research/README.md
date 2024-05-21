@@ -23,32 +23,3 @@ This directory contains design documentation related to the communication campai
 | [Modal Prototype](https://www.figma.com/file/hRn7aMTMJcL7f1GWIWP8C9/04-2023-Deferred-Identity-Proofing-Usability-Test?type=design&node-id=1%3A4095&mode=design&t=jnVDLOnTjnlSBJmP-1) | Test messaging (via modal) with Veterans for creating a Login.gov account; did not ship | February 2023
 
 
-
-Discovery sprints and Readout | Completed | Readout
-
-Deferred identity proofing | Paused | (Next Step)
-
-MFA Security Keys | Paused | (Next Step)
-
-Non-veteran User Roles | Paused | (Next Step)
-
-**Previous Phases**
-
-
-
-* **August 2022 - December 2022:** Research into OCTO Identity priorities
-* December 2022 - June 2023: Research, product work around Deferred Identity Proofing and 
-
-**Sub Directories and Notable Documents**
-
-
-
-* Product (link)
-    * Important document(link)
-    * Important document(link)
-* Research (link)
-    * Important document(link)
-    * Important document(link)
-* Design (link)
-    * Important document(link)
-    * Important document(link)
