@@ -67,10 +67,10 @@ Risky Assumption: Users will be willing to provide their contact information.
 Validation Plan: Monitor user engagement and feedback to assess willingness and address privacy concerns.
 
 
-**Initial Build:** Develop profile prompts for mailing address, mobile phone number, and email address with an option to dismiss.
-**Justification:** Ensures critical contact information is gathered without forcing user compliance, respecting user autonomy.
-**Exclusions:** Advanced features like direct deposit prompts will be postponed to post-MVP to focus on initial profile completion.
-**Evolution:** Post-MVP will include prompts for direct deposit setup and annual data refresh reminders based on user feedback and engagement metrics.
+- **Initial Build:** Develop profile prompts for mailing address, mobile phone number, and email address with an option to dismiss.
+- **Justification:** Ensures critical contact information is gathered without forcing user compliance, respecting user autonomy.
+- **Exclusions:** Advanced features like direct deposit prompts will be postponed to post-MVP to focus on initial profile completion.
+- **Evolution:** Post-MVP will include prompts for direct deposit setup and annual data refresh reminders based on user feedback and engagement metrics.
 
 ## Launch Strategy
 Phased launch with initial round of UAT testing. 
