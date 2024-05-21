@@ -1,6 +1,6 @@
 ## TAP Curriculum Revisions
 
-## Download the latest TAP revisions [here] (https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTdDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75474678c6b81a8a0d53dc6374fdf802876ba4be/TAPUpdates_03082024.pdf)
+## Download the latest TAP revisions [here](https://api.zenhub.com/attachedFiles/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTdDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75474678c6b81a8a0d53dc6374fdf802876ba4be/TAPUpdates_03082024.pdf)
 
 ## [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1716211734624/7456b35099d6ecc25e2f3b8d35dcb3f969d5f16b?sender=u1b0df595924572baa8a94764) used to review work
 
