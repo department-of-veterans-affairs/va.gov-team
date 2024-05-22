@@ -91,12 +91,13 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
       * Note from CAIA: We need to think about how much depth we want to go into for the “Longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full (Longer summary) description? This is something for us (CAIA) to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
   * **Tickets**
     * Ticket: Engineering: Set character limits for the Longer summary/brief summary/teaser summary fields.
-     * [[VA Benefit Taxonomy] Benefit Description character limits need to be set #18170](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18170)
+      * [[VA Benefit Taxonomy] Benefit Description character limits need to be set #18170](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18170)
     * Ticket: Engineering: 
-      - Longer summary is required. If a Longer summary description character count is more than 500 characters, it can't be reused as the Brief Summary, therefore the Brief summary changes from optional to required. If the Longer summary description character count is greater than 300 characters, then the Teaser summary changes to required, unless the Brief summary is less than 300 characters. Note that this is MVP. Brief summary: If this summary is greater than 300 characters, then the teaser summary is required. 
-Note: there is already on-screen feedback for character counts. 
-       - Note: In the editorial interface, we want to be sure there is feedback (error message/warning) for the character counts, and in the descriptions we include what the character counts are.
-         - Separate ticket: Work with CAIA to provide content for the editorial interface for best practices. Note that CAIA will provide editorial context e.g. word counts for the Longer, Brief, and Teaser summary descriptions and helper text.
+      * Longer summary is required. If a Longer summary description character count is more than 500 characters, it can't be reused as the Brief Summary, therefore the Brief summary changes from optional to required. If the Brief summary description character count is greater than 300 characters, then the Teaser summary changes to required, unless the Brief summary is less than 300 characters.
+ * Notes:
+   * this is MVP.
+   * in the editorial interface, we want to be sure there is feedback (error message/warning) for the character counts, and in the descriptions we include what the character counts are (there might already be on-screen feedback for character counts).
+     - Separate ticket: Work with CAIA to provide content for the editorial interface for best practices. Note that CAIA will provide editorial context e.g. word counts for the Longer, Brief, and Teaser summary descriptions and helper text.
 Note from CAIA: We need to think about how much depth we want to go into for the “Longer summary.” For example, for health care benefit programs, would we include what’s covered and what’s not in the full (Longer summary) description? This is something for us (CAIA) to do. We’ll think through this more and document it, but we want to capture it here as part of our overall findings as we began to use this taxonomy.
   * **Product conversation**: Need to talk to CAIA to understand how they want to handle the descriptions above - how to cascade feild requirements the per the info above.
    
