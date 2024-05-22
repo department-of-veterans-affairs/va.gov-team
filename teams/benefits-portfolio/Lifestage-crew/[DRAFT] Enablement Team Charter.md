@@ -1,6 +1,6 @@
 # OCTO Benefits Portfolio Lifestage Enablement Team Charter
 ---
-Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to align as an Enablement team and with the product delivery teams we work with.  Our aim is that this is a living document that provides a reference point of what to expect when working with us. As always, feel free to ask us questions. 
+Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to align as an Enablement team and with the product delivery teams we work with.  Our aim is that this is a living document that provides a reference point of how we see our role, responsibilities, and ways of working. As always, feel free to ask us questions. 
 
 
 
@@ -41,34 +41,6 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 - We guide high level strategy and support decision-making that takes into consideration the greater VA ecosystem. Especially VA.gov.
 - We support the relationship with VBA with a focus on using requirements as guideposts, but recognize that it's our responsibility to modernize NOT digitize.
 - We recognize that the VA is HUGE and we're here to help navigate it.
-
-**Communication & documentation**
-
-In general, default to text-based tools for internal communications for ease of finding and updating (ie. choose github markdown over Word files and PPTs; only use slack posts for temporary or private docs)
-
-Aim for a medium level of documentation (not exhaustive and not minimal). Document key information that will be useful to our future selves and our wonderful future team members who may need to look back to understand project goals, key research findings, what areas need additiona attention, why we made some weird decision, etc. 
-
-Leave things better than how you found them (it’s everyone’s responsibility to improve documentation).
-
-Communication goals: transparancy now, paper trail for future version of the team
-
-All communication about the work should be done in OCTO slack, defaulted to public channels. This greatly helps teams keep a pulse on the work.
-
-- Slack
-  - join channels as you desire (team, design, extras)
-  - use for conversations (threads for micro convos)
-  - Only use DMs when it truly needs to be private or you’re just working out logistics for a meeting or something no one else needs to see
-  - Channels shouldn't be private 
-- Github
-  - most of your work (or requests to others for work) should be connected to an issue or product folder
-  - Decisions made in slack conversations should be documented in GH
-  - Planning, notes, documentation should be in an md file
-  - Research documentation and design decisions should be stored in appropriate research folder within product folder. 
-  - Cross-link any research to the research history
-- Email
-  - Ideally only used when communicating with people outside the OCTO team, such as VBA
-
-*** **Note: all 3 above communication tools are subject to FOIA**
 
 
 **Vision, strategy** 
@@ -133,7 +105,35 @@ All communication about the work should be done in OCTO slack, defaulted to publ
 
   * Continuously ask yourself, “What problem are we trying to solve?” and then ensure the team is focused on delivering a minimum viable product 
 
-  * Don’t make the perfect the enemy of the good 
+  * Don’t make the perfect the enemy of the good
+ 
+**Communication & documentation**
+
+In general, default to text-based tools for internal communications for ease of finding and updating (ie. choose github markdown over Word files and PPTs; only use slack posts for temporary or private docs)
+
+Aim for a medium level of documentation (not exhaustive and not minimal). Document key information that will be useful to our future selves and our wonderful future team members who may need to look back to understand project goals, key research findings, what areas need additiona attention, why we made some weird decision, etc. 
+
+Leave things better than how you found them (it’s everyone’s responsibility to improve documentation).
+
+Communication goals: transparancy now, paper trail for future version of the team
+
+All communication about the work should be done in OCTO slack, defaulted to public channels. This greatly helps teams keep a pulse on the work.
+
+- Slack
+  - join channels as you desire (team, design, extras)
+  - use for conversations (threads for micro convos)
+  - Only use DMs when it truly needs to be private or you’re just working out logistics for a meeting or something no one else needs to see
+  - Channels shouldn't be private 
+- Github
+  - most of your work (or requests to others for work) should be connected to an issue or product folder
+  - Decisions made in slack conversations should be documented in GH
+  - Planning, notes, documentation should be in an md file
+  - Research documentation and design decisions should be stored in appropriate research folder within product folder. 
+  - Cross-link any research to the research history
+- Email
+  - Ideally only used when communicating with people outside the OCTO team, such as VBA
+
+*** **Note: all 3 above communication tools are subject to FOIA**
 
 **Contract Management** 
 
