@@ -8,8 +8,7 @@ This directory contains documentation and content related to the communication c
 
 -   Reactivation: communications targeted at users who have both legacy and modern credentials, pushing them to use their modern credentials as their primary sign-in method.
 
-For more information about this product, view the product brief (link)
-
+For more information about this product, view the [product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/communication-campaign/product/product-outline.md)
 ## Current Status 
 
 Last updated: May 21, 2024
