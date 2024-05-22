@@ -4,7 +4,7 @@ These are resources created while working on the `vaec-cie` migration through th
 
 ## CloudFormation
 
-- `project-checkin-devops`: IAM Role and Policies for 
+- `project-checkin-devops`: IAM Role and Policies assumable by the `checkin-devops` repository.
 
 ## DynamoDB
 
