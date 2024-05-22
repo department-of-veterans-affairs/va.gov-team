@@ -71,6 +71,8 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 
 **Managing up, stakeholders (enablement team and at times, VBA)** 
 
+*Practice leads should take responsibility for aligning high level strategy with enablement team and the greater delivery team.
+
 * Resolve or escalate blockers that impede the success of the team, involving (or deferring) the team as needed 
 
 * Defend product decisions using evidence gained from research or analysis 
