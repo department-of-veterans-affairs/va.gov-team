@@ -1,21 +1,29 @@
 # **Yellow Ribbon Succession Plan & IIR Project Completion**
 
-## Agenda:**Introductions**|                                |                                                                     |
-| ------------------------------ | ------------------------------------------------------------------- |
-| Attendee                       | Role/Title                                                          |
-| Em Allan (IIR)- not present    | Program Manager                                                     |
-| Darla van Nieukerk, (VA)       | * Project Manager for GCIO contract
+## Agenda:**Introductions
 
-  - Targeting April to kickoff |
-| Brian Grubb   (VA)             | SME Education ServiceGIDSYR                                         |
-| Jeff Barnes  (VA)              | VAPO                                                                |
-| Tabinda Syed  (IIR)            | Delivery Manager                                                    |
-| Pete Egan (IIR)                | Product Manager                                                     |
-| Lisa Kahler (IIR)              | Product Manager                                                     |
-| Raquel Eisele (IIR)            | UX Designer                                                         |
-| Mason Crane (IIR)              | Data architect/design                                               |
-| Kyle Henson (IIR)              | Software Engineer                                                   |
-| Steve Long (IIR) - not present | Software Engineer                                                   |**Overview of IIR*** IIR on Yellow Ribbon
+
+
+**Attendee                       | Role/Title                                                          
+- Em Allan (IIR)- not present    | Program Manager                                                     
+- Darla van Nieukerk, (VA)       | - Project Manager for GCIO contract
+
+  
+- Brian Grubb   (VA)             | SME Education ServiceGIDSYR                                         
+- Jeff Barnes  (VA)              | VAPO                                                                
+- Tabinda Syed  (IIR)            | Delivery Manager                                                    
+- Pete Egan (IIR)                | Product Manager                                                     
+- Lisa Kahler (IIR)              | Product Manager                                                     
+- Raquel Eisele (IIR)            | UX Designer                                                         
+- Mason Crane (IIR)              | Data architect/design                                               
+- Kyle Henson (IIR)              | Software Engineer                                                   
+- Steve Long (IIR) - not present | Software Engineer                                                   
+
+
+
+
+
+**Overview of IIR*** IIR on Yellow Ribbon
 
   - **Front End Improvements**
 
