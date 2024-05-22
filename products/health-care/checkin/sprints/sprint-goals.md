@@ -112,6 +112,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
         - 🟩 [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
+        - 🟩 [[FE] Alert content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83781)
         - 🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
         - 🟩 [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)   
