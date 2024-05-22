@@ -95,14 +95,19 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
         - 🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
-        - 🟩 [Add Medication Review Content to Appts Product ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82908)
-        - 🟩 [Add Medication Review Content to PCI Product(s) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
+        - 🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Stand-alone Travel Application for OH Sites**  
-        - 🟥 [Travel OH: Update Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
-        - 🟩 [Update Travel for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
+        - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
+        - 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
+        - 🟩 [Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
+    - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
+        - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
+        - 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
+        - 🟩 [Update eCheck-in Application for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: New Landing Page with Upcoming Appointments**      
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - **NOTE: We need to schedule staging review**
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
         - 🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
@@ -114,13 +119,10 @@ ________________________________________________________________________________
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)     
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)   
-        - Schedule staging review
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
-    - **Sub Goal: Handle Tech Debt**
-        - 🟩 [eCheck-in: Update Logic for Multiple Station Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
 
 </details>
 
@@ -151,7 +153,7 @@ ________________________________________________________________________________
         - ❗🟦 [Implement New SMS Message when BTSSS API Timesout ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83466)
     - ~❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)~
     - **Sub Goal: Move to New AWS Instance**
-        - ⛔ 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
+        - 🟨 [[DevOps] Create service accounts for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81885)
         - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
         - ✔️ 🟨 [[DevOps] Eric Oliver's Magical PAS Mystery Tour ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82439)
         - ✔️ 🟨 [[DevOps] Review/provide existing authorization to use Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82615)
