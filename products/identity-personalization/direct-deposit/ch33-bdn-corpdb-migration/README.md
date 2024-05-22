@@ -28,6 +28,9 @@
 |Sarah Haddock|VBA VACO|
 |Steve Wayland|VBA VACO|
 |John Dell|BIS (formerly BGS) technical contact|
+|Jinmay Patel|BIS|
+|Mary Slaveck|BIS|
+|Cory Easley|BIS|
 |Janey Coutinho| Lighthouse|
 |Andrew Ramos|LightHouse|
 |Lori Glover|LightHouse|
