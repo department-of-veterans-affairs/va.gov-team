@@ -19,8 +19,8 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 
 ## Vet Center facility stats
-| Metric | January 2024 | February 2024 | March 2024
-| --- |:---:|:---:|:---:|
+| Metric | January 2024 | February 2024 | March 2024 | April 2024
+| --- |:---:|:---:|:---:|:---:|
 | Number of Vet Centers | 300 | 300 | 300 | 302
 | Number of Outstations |20 | 20| 21 | 22
 | Number of Mobile Vet Centers| 83|83 |83 | 83
