@@ -41,15 +41,7 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
 ![Screenshot 2024-05-20 at 11 14 07 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/82f9a413-94a6-4742-9bd4-cb37cb90ff67)
 
-
-1.**Replace link in family member health+disability subhub**
-  - Placement description: The third link in the 'manage' section of the health and disability subhub
-  - Link label: [TBD based on H1]
-  - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
-![Screenshot 2024-05-20 at 11 15 21 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/be09311b-a961-47a9-965e-3788fef25ab1)
-
-
-3. **MODIFY Find-a-Form page**
+2. **MODIFY Find-a-Form page**
   - Placement description: we’ll need to add a link to the new online form from this page.
   - Link label: TBD by content
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
