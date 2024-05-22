@@ -87,7 +87,8 @@ Example:
             "laos": true,
             "c123": true,
             "thailand": true,
-            "vietnam": true
+            "vietnam": true,
+              "none": false,
           },
           "herbicideDetails": {
             "cambodia": {
