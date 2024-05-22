@@ -103,7 +103,11 @@ Example:
               "startDate": "1991-03-15"
             }
           },
-          "otherHerbicideLocations": "freeform text field. holla.",
+          "otherHerbicideLocations": {
+            "description": "other location 1, other location 2 etc",
+            "startDate": "1991-03-01",
+            "endDate": "1992-01-01"
+          },
           "otherExposures": {
             "asbestos": true,
             "radiation": true,
