@@ -126,7 +126,6 @@ We hope you feel ownership of your work and products. We expect of ourselves and
 * All communication about the work should be done in OCTO slack, defaulted to public channels. This greatly helps teams keep a pulse on the work.
 
   * Slack
-   - join channels as you desire (team, design, extras)
   -  use for conversations (threads for micro convos)
   -  Only use DMs when it truly needs to be private or you’re just working out logistics for a meeting or something no one else needs to see
   -  Channels shouldn't be private 
@@ -160,16 +159,17 @@ The problem we name is the problem we solve. As such, we aim to:
 1. We work async and in two week sprints. We do not want "reactive" work and as such we work better if meetings are planned at least a week in advance (we recognize that's not always possible).
 2. Meetings have clear goals, facilitation, and documentation of decisions.
 3. It is important to remember that the Enablement team isn't a member of the delivery team, and since we function as the client:
--  We should be clear on if we are looking at a final product or a work in progress.
+-  Strategies should be approved with enablement team before work begins.
 -  Final work products should be reviewed internally first.
--  We can work with you at any stage, but there should be a shared understanding of what stage we are at.
--  If we say something to one team member, we expect that is communicated to the team. Again, defaulting to public channels.
+-  We can work with you at any stage, but there should be a shared understanding of what stage we are at. We should be clear on if we are looking at a final product or a work in progress.
+-  If we say something to one team member, we expect that is communicated to the team. Again, defaulting to public channels makes this easy.
 
 
 ### VBA Relationships
 We greatly value and respect our VBA counterparts. They have a wealth of knowledge about the Benefits services, policies, and processees. 
-- We respect their time and do as much background research as we can on our own.
+- We respect their time and do as much background research as we can on our own, and we faciliate meetings with clear goals, agendas, and decision-making.
 - We provide high level expertise and don't directly implement requirements without proper research, data, and strategy. This is why we are here, and our responsibility.
+- We keep them informed of our roadmap and we have a clear understanding of their priorities. 
 
 ## How we Product
 **Product strategy, vision** 
