@@ -67,12 +67,12 @@ In addition
   - Agencies should perform manual penetration testing, where appropriate, based on threat analysis and the criticality of the underlying system.
 
 ## Use Cases:
-* As a VA leader, I would like the Identity team to present me with the authorization data that is most useful to me, so I may understand and report upon how Veterans are logging into VA.gov.
-* As a VA Leader, I want the user authorization data produced by the Identity Team to be instantly understandable and not open to misinterpretation so that I may properly report on how Veterans login to VA.gov.
+* As a VA leader, I would like the Identity team to present me with the authentication data that is most useful to me, so I may understand and report upon how Veterans are logging into VA.gov.
+* As a VA Leader, I want the user authentication data produced by the Identity Team to be instantly understandable and not open to misinterpretation so that I may properly report on how Veterans login to VA.gov.
 
 
 ## Assumptions:
-* There are common pieces of user authorization data that VA Leadership is continually wanting to view.
+* There are common pieces of user authentication data that VA Leadership is continually wanting to view.
 * Could use a survey result page like this to
   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/8985801e-8a4f-4488-bdb0-93407d46efa2)
 
