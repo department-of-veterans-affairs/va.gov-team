@@ -62,9 +62,7 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 
 
 ## <a name="redirects"></a>Redirects <br>
-There will likely be a redirect of these 2 pages, but the champva form wont need a redirect since it doesn't exist digitally yet
-- https://www.va.gov/health-care/family-caregiver-benefits/champva/
-- https://www.va.gov/COMMUNITYCARE/docs/pubfiles/factsheets/FactSheet_01-04.pdf#
+There will be no redirects as part of this since the form doesn't exist yet. 
 
 
 ## <a name="bestbets"></a>Best Bets<br>
