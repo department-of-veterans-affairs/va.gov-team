@@ -43,5 +43,6 @@ In Sprint 10, the team provided support for multiple features and initiatives, o
   * [#83349 VetsAPI: Route Appointment read and fetch request to VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83349)
 * 🟣 Testing/Admin/Operational Support
   * [#82546 CES-510: VPG: Enable prometheus metric scraping](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82546)
+  * *🐞🧗‍♀️[#83754 Broken VAOS test breaking build](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83754) - related to cancellations
 ## ✈️ Planned Releases
 None
