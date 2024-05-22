@@ -1,7 +1,7 @@
 # Mobile Claims Phase Expansion, Q2 2024
 
-## Executive Summary
-* We're going to expand the claims phases the mobile [disability claims feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/claims-discovery/Claims%20Reimagined%20Product%20Brief.md), to create affinity with the [Improved Claims Process Understanding Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md) that the web team is working on.
+## Project Summary
+* We're going to expand the claims phases within the mobile [disability claims feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/claims-discovery/Claims%20Reimagined%20Product%20Brief.md), to provide more context for veterans and to create affinity with the [Improved Claims Process Understanding Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md) that the web team is working on.
 
 ## Why (Borrowed from [web](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md))
 ### Problem Statement(s)
