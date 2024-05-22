@@ -11,16 +11,16 @@ Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632)
 - [Satisfaction scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#satisfaction-scores)
   - [Experience ratings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#experience-ratings)
   - [Overall CSAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#overall-csat)
-  - [Page level CSATs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/analytics/2024-vamc-data.md#page-level-csats)
+  
 ## VAMC editor and facility stats
-| Metric | January 2024 | February 2024	| March 2024
-|---|:---:|:---:|:---:|
-| Total # of active editors | 366 |368 |362 |
-| Number of new editors this month |3 |5 | 4|
-| Total # of VAMC systems |141 | 141 |141 |
-| Total # of VAMC facilities | 1,458 |1,461 |1,462 |
-| Total # of VAMC system health services | 6,550 |6,559 |6,567 |
-| Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |
+| Metric | January 2024 | February 2024	| March 2024 | April 2024
+|---|:---:|:---:|:---:|:---:|
+| Total # of active editors | 366 |368 |362 |392
+| Number of new editors this month |3 |5 | 4| 8
+| Total # of VAMC systems |141 | 141 |141 | 141
+| Total # of VAMC facilities | 1,458 |1,461 |1,462 |1,464
+| Total # of VAMC system health services | 6,550 |6,559 |6,567 |6,567
+| Total # of VAMC facility health services | 15,856 | 15,901 |15,995 |16,067
 
 ## Summary data
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/ce6c8c57-bb80-4954-ba94-2efdd7c81944)
@@ -92,56 +92,11 @@ Source: [DOMO - filtered by -health-care/location urls](https://va-gov.domo.com/
 | 5 stars |65 | 58|65 |61 | 69
 
 ### Overall CSAT
-- Scores are given as an average across all VAMC system sites. Note that locations have a variable number of responses
-- < 25 is considered a low sample size
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/a2b3e55e-76c9-44a1-ad1c-3c78a9f2c48f)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/f028786b-b95a-436a-86d2-c39d55335a45)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/27b5dc28-2a91-4219-a7b2-9dd8876337fe)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/912e548c-82fc-44b8-b295-2ec668e46cbd)
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/16814090-e6f9-49df-aaf8-1e36b0ee9829)
 
 
 
-| CSAT score | December 2023 |  January 2024 | February 2024	| March 2024
-| --- | :---:|:---: |:---:|:---:
-| Total # of responses |736 | 953 |821| 830|
-| # of health care system with >25 responses (_not considered small sample_) |0| 2|0 | 0| 
-
-### Page level CSATs
-- Scores are given as an average across all VAMC system sites with feedback scores. Note that locations have a variable number of responses and may not be represented.
-
-**Facility pages**
-| CSAT: Facility pages	|	Jan-24	|	Feb-24	|	Mar-24
-| ---	|---|	---	|	---| 
-| # of responses - VAMC overall benchmark	|	953	|	821	|	830
-| # of responses - specific page	|	294	|	240	|	264
-| Overall score - VAMC overall benchmark	|	3.2	|	3.2	|	3.4
-| Overall Score - specific page	|	3.4	|	3.2	|	3.4
-| VA.gov Experience	|	3.3	|	3	|	3.3
-| VA.gov Understanding	|	3.6	|	3.6	|	3.6
-| General VA Trust	|	3	|	3	|	3.2
-| Trust in VA Commitment to Veterans	|	3.4	|	3.3	|	3.4
-| Ease of Understanding	|	3.4	|	3.4	|	3.4
-
-**Health service pages**
-| CSAT: Health services pages	|	Jan-24	|	Feb-24	|	Mar-24
-| ---	|---|	---	|	---| 
-| # of responses - VAMC overall benchmark	|	953	|	821	|	830
-| # of responses - specific page	|	28	|	25	|	29
-| Overall score - VAMC overall benchmark	|	3.2	|	3.2	|	3.4
-| Overall Score - specific page	|	3.1	|	2.8	|	2.8
-| VA.gov Experience	|	2.6	|	2.4	|	2.7
-| VA.gov Understanding	|	3.2	|	2.6	|	3.3
-| General VA Trust	|	2.9	|	2.5	|	2.6
-| Trust in VA Commitment to Veterans	|	3.4	|	3.2	|	3.2
-| Ease of Understanding	|	3.1	|	2.7	|	2.7
-
-**Contact us pages**
-| CSAT: Contact us 	|	Jan-24	|	Feb-24	|	Mar-24
-| ---	|---|	---	|	---| 
-| # of responses - VAMC overall benchmark	|	953	|	821	|	830
-| # of responses - specific page	|	73	|	49	|	44
-| Overall score - VAMC overall benchmark	|	3.2	|	3.2	|	3.4
-| Overall Score - specific page	|	2.6	|	2.8	|	2.6
-| VA.gov Experience	|	2.3	|	2.4	|	2.1
-| VA.gov Understanding	|	3	|	3	|	3.3
-| General VA Trust	|	2.4	|	2.5	|	2.2
-| Trust in VA Commitment to Veterans	|	3.1	|	2.8	|	2.5
-| Ease of Understanding	|	2.5	|	2.9	|	2.8
