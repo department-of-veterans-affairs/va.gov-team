@@ -135,21 +135,6 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 
 *** **Note: all 3 above communication tools are subject to FOIA**
 
-**Contract Management** 
-
-* Coordinate vendor management with OCTO acquisition team 
-
-* Identify and escalate staffing gaps or performance issues with the vendor and then, if not resolved, to OCTO leadership and the OCTO acquisition team 
-
-* Review and recommend that the Contracting Officer's Representative (COR) accepts or rejects that work (REQUIRED) 
-
-* This looks like 
-
-  * Plan for contract period of performance timelines 
-
-  * Approve sprint goals and recommend that the COR accepts or rejects deliverables 
-
-  * Help onboard new contractors and write justifications for computers or software
 
 ### How we prioritize
 - We set priorities based on Veteran impact. 
