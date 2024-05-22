@@ -45,8 +45,8 @@ This document is for our design team to communicate field rules. The primary aud
 |Category = `Education benefits and work study` and topic = `VR&E`|Follow same rules as all other categories|||
 |Category = `Benefits issues outside the U.S.` and topic = `Education benefits and work study`|Require Veteran's `Social Security Number or Service Number`|Relationship to the Veteran = Business relationship|
 |Category = `Benefits issues outside the U.S.` and topic ≠ `Education benefits and work study`|Follow same rules as all other categories|||
-|All other categories|Require Veteran's `Social Security Number or Service Number` if |`What's your question about` = `It's a general question`|
-|All other categories; if question is about the family member|Require family member's `Social Security Number or Service Number`|`What's your question about` = `It's a general question`|
+|All other categories|Require Veteran's `Social Security Number or Service Number`|`What's your question about` = `It's a general question`|
+|All other categories; if question is about the family member|Require family member's `Social Security Number`|`What's your question about` = `It's a general question`|
 
 - We need to collect SSN (or Service Number) because some business lines need SSN to look up a person's record in other systems that use SSN as an identifier.
 - Agents can also use SSN to look up a person's record in MPI, however, they could use DOB for this instead of SSN.
