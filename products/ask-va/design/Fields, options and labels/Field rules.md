@@ -23,6 +23,8 @@ This document is for our design team to communicate field rules. The primary aud
 |:--|:--|:--|
 |All categories|Require Veteran's `Gender identity`||
 
+- We're exploring whether to remove this field.
+
 ## `Pronouns`
 |If|Then|Unless|
 |:--|:--|:--|
