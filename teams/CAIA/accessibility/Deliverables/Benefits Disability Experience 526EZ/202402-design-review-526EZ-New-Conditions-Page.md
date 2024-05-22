@@ -8,7 +8,7 @@
 
 ## CODEPEN VERSION
 ### Audit: Disability Benefits: Contention Classification Team
-- **CodePen Prototype(s):** `Will become available as of 3/13/2024`
+- **CodePen Prototype(s):** [CodePen Prototype](https://codepen.io/ccteam/live/ZEZeMPR) `3/13/2024`
 - **Team Slack Channel:**  [#benefits-contention-classification](https://join.slack.com/share/enQtNjYwMDExOTQyMDc1Ny1iOGNlYTE4ZjY4OGM2YmUzOWE3YmY3MTMwMzA4MzRkMzQyNWVjMzE3NDQ0ODk4NDMzYmJhNjNmNGRiN2FjM2Vj)
 - **CAIA A11y Ticket:** [#76766](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76766)
 - **Date of Audit:**  March 26, 2024
@@ -87,7 +87,7 @@ Review version(s) of a new conditions page, coded in CodePen, that will be used 
 ### Audit: Disability Benefits: Contention Classification Team
 - **Staging Prototype(s):** `Link needed`
 - **Team Slack Channel:**  [#benefits-contention-classification](https://join.slack.com/share/enQtNjYwMDExOTQyMDc1Ny1iOGNlYTE4ZjY4OGM2YmUzOWE3YmY3MTMwMzA4MzRkMzQyNWVjMzE3NDQ0ODk4NDMzYmJhNjNmNGRiN2FjM2Vj)
-- **CAIA A11y Ticket:** [#76766](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76766)
+- **CAIA A11y Ticket:** [#83767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83767)
 - **Date of Audit:** May 22, 2024
 
 > [!NOTE]
