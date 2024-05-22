@@ -163,6 +163,7 @@ ________________________________________________________________________________
         - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend S3 bucket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83312)
         - ✔️ 🟨 [[DevOps] Create `vaec-cie` Terraform state backend DynamoDB table.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83314)
         - ✔️ 🟨 [[DevOps] Look at refactoring checkin-devops Terraform-related GHA workflows.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79867)
+        - ✔️ 🟨 [[DevOps] Create terragrunt-based GHA workflow in checkin-devops.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83467)
 - **GOAL: Make Travel Claims Easier**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - ✔️ 🟥 [[Research] Synthesize Research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80280)
