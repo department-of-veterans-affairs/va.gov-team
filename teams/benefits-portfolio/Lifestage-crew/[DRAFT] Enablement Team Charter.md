@@ -43,6 +43,8 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 - We recognize that the VA is HUGE and we're here to help navigate it.
 
 ### What we expect from contract delivery teams
+We hope you feel ownership of your work and products. Do your homework and be proactive about asking questions.
+
 **Vision, strategy** 
 
 * Determine the product direction and goals in collaboration with the enablement team. 
