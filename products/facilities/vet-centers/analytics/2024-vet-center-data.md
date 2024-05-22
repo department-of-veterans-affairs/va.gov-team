@@ -11,21 +11,21 @@
 ## Vet Center editor stats
 OKR to measure the success of notifications reminding editors to review and update their webpage content (_launched 10.01.2023_): % of editors who have logged into CMS in the last 30 days (RCS leadership and team editors excluded)
 
-| Metric| December 2023 | January 2024 | February 2024 | March 2024
-|---|:---:|:---:|:---:|:---:|
-| Number of editors | 539 | 539 | 554 | 555|
-| % which have logged in in the last 30 days | 17 | 26 |18 | 20
-| % which have never logged in | 8 | 8| 10 | 9
+| Metric| December 2023 | January 2024 | February 2024 | March 2024 | April 2024
+|---|:---:|:---:|:---:|:---:| :---:|
+| Number of editors | 539 | 539 | 554 | 555| 557
+| % which have logged in in the last 30 days | 17 | 26 |18 | 11 | 11
+| % which have never logged in | 8 | 8| 10 | 9 | 9
 
 
 ## Vet Center facility stats
 | Metric | January 2024 | February 2024 | March 2024
 | --- |:---:|:---:|:---:|
-| Number of Vet Centers | 300 | 300 | 300
-| Number of Outstations |20 | 20| 21
-| Number of Mobile Vet Centers| 83|83 |83
-| Number of CAPs | 519 |525 |528
-| Number of Vet Center services| 3,741 |3,742 |3,742
+| Number of Vet Centers | 300 | 300 | 300 | 302
+| Number of Outstations |20 | 20| 21 | 22
+| Number of Mobile Vet Centers| 83|83 |83 | 83
+| Number of CAPs | 519 |525 |528 | 534
+| Number of Vet Center services| 3,741 |3,742 |3,742 | 3,746
 
 ## Summary data
 
@@ -53,20 +53,16 @@ OKR to measure the success of notifications reminding editors to review and upda
 
 ### User surveys
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/959a3039-2fee-416b-a6b2-363844d950dc)
+> Source: [VA.gov CSAT Score Dashboard domo](https://va-gov.domo.com/page/1545882322) (all urls)
 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/eabad675-d701-4a78-9fcf-f8ba93282987)
 
-| Experience rating | # December 2023 | # January 2024	| # February 2024	| # March 2024
-| --- | :---:| :---:| :---:| :---: | 
-| Total survey responses | 7| 8 |5 | 6|
-| 1 star | - | - | 2 | 1
-| 2 stars	| 2 | 1 | - |-
-| 3 stars | 1 | 2 |-  | 1
-| 4 stars | 4  |2  |-  | -
-| 5 stars |- |1  |3 | 4
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/b0ad18c3-08df-46e6-82a2-e2ec9ca70652)
 
-> Source: [VA.gov Content domo](https://va-gov.domo.com/page/426422632?userId=1456263200) (all urls)
-> Raw data: [Facilities metrics 2024](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7Be0efa151-5e25-49fd-8d4f-8f451a49fb9b%7D&action=editnew)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/db199865-0a91-45c0-8135-f3e992ce2b07)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/55411834/b626e5b9-6c32-41b0-bd73-df404055dabb)
+
 
 
 
