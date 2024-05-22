@@ -1,6 +1,11 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 5/28/24 Biweekly VBA-DBEX Check-in
+### Notes
+- Asking Veterans online about life-threatening illness
+  - Currently, we have a question asking Veterans online if they have a life-threatening illness and then send a flash from the 526. With the new Lighthouse synchronous endpoint, we will not be setting flashes. Should we remove this from the online form?
+
 ## 5/14/24 Biweekly VBA-DBEX Check-in
 ### Notes
 - 0781 Design [screenshare Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715641897177/87fab1b22d2833fc50d79c68313efc63115c8cd0?sender=u3672f0ffd2d02de8b0885285)
