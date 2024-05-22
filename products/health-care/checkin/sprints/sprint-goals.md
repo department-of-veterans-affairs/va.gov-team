@@ -44,7 +44,7 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**    
 
 #### PLANNED RELEASES 
-- New Landing Page **WITH** Upcoming Appointments
+- New Landing Page **WITH** Upcoming Appointments????????????
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -54,7 +54,7 @@ ________________________________________________________________________________
         - ❗ TBD
 - **GOAL: Increase PCI Usability**    
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-         - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)    
+         - 🟩🟪🟥 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431) ???????????????
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80232)
@@ -62,8 +62,7 @@ ________________________________________________________________________________
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
         - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
 - **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
-        - TBD
+
 </details>
 
 <details>
@@ -76,11 +75,12 @@ ________________________________________________________________________________
     - **Sub Goal: Move to New AWS Instance**
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
+    - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
     - **Sub Goal: Analyze current metrics to see what they tell us**    
-- **GOAL: Address Tech Debt**    
-    - **Sub Goal: DevOps Improvements**
 
 #### PLANNED RELEASES 
 - NONE
@@ -108,6 +108,7 @@ ________________________________________________________________________________
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - **NOTE: We need to schedule staging review**
+        - **NOTE: Once we are done with the new landing page minus the upcoming appointments, we need to schedule a demo for Kay/Kristen/Stephen to see if they want us to release it**
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
         - 🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
