@@ -42,10 +42,19 @@
 
 ### Technical notes
 * Where are there dependencies between team?
-    *  We'll want to make sure our release plans are alligned, and that there's a communication plan to Veterans
+    *  We'll want to make sure our release plans are alligned
 * Are test users available to the mobile team?
 * Are there any breaking changes expected in upstream APIs?
     * No, we should already have the new phase data from Lighthouse
+ 
+### Risks
+* Making sure the release plans are aligned
+    * Is web planning a staged/phased rollout? If so, how would we accomodate that?
+* Will there be any press releases? If so, should we prepare for an influx of traffic?
+* Will we updating any of the static content pages related to claims phases?
+   * [What your claim status means](https://www.va.gov/resources/what-your-claim-status-means/)
+   * [How to check your VA claim, appeal, or decision review status online](https://www.va.gov/resources/how-to-check-your-va-claim-appeal-or-decision-review-status-online/)
+  
 
 ### Links to resources
 * [Github epic](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8688)
