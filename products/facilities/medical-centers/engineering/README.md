@@ -8,7 +8,10 @@ https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/m
 https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/vamc-facilities.md
 
 
-## Lovell: How Lovell FE Pages are Processed
+## Lovell: What / Why / How
+What: Lovell is a unique Medical Center, with much custom code to accommodate its business case. For more on the business case:  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2022-2023-lovell/lovell-initiative-brief.md
+
+### How Lovell FE Pages are Processed
 
 This is a large-scale overview of how Lovell pages are processed and created from Drupal data in [process-lovell-pages.js.](https://github.com/department-of-veterans-affairs/content-build/blob/main/src/site/stages/build/drupal/process-lovell-pages.js)
 
