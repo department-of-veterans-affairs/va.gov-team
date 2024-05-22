@@ -70,7 +70,7 @@ Reduce communication issues by 25% within the first year.
 - **Initial Build:** Develop profile prompts for mailing address, mobile phone number, and email address with an option to dismiss.
 - **Justification:** Ensures critical contact information is gathered without forcing user compliance, respecting user autonomy.
 - **Exclusions:** Advanced features like direct deposit prompts will be postponed to post-MVP to focus on initial profile completion.
-- **Evolution:** Post-MVP will include prompts for direct deposit setup and annual data refresh reminders based on user feedback and engagement metrics.
+- **Evolution:** Post-MVP will include prompts for direct deposit setup and annual data refresh reminders based on user feedback and engagement metrics. Should be an expandable framework that could be triggered if a user opens MyVA and we want to point out a new feature. 
 
 ## Launch Strategy
 - Phased launch with initial round of UAT testing. 
