@@ -1,6 +1,6 @@
 # Future State document In-Person Identity Proofing Future State Flow 
 
-Date Last Modified May 5, 2024 
+Date Last Modified May 22, 2024 
 Designed by: 
 Sofia Kirkman, Service Designer 
 Josie Griffith, UX Designer 
@@ -8,7 +8,9 @@ Josie Griffith, UX Designer
  
 ## Context
 
-In-Person Identity Proofing (IPP) is a prototype  in person identity verification service that will be piloted in two phases: first at the Fayetteville VA Medical Center in Fayetteville, AR on May 20-23,204 and then at Long Beach VA Medical Center in Long Beach, California on a date yet to be finalized. During our pilot phase, we aim to test the feasibility of the main flow of the service which is considered to be a “happy path.” On the happy path, a Veteran will learn about what in person proofing is, discover what they need to bring to their walk-in appointment, select a preferred proofing site (with limited options for pilot), confirm their selection, and receive confirmation details via email. Once the Veteran arrives at their proofing site, an authorized VA staff member, referred to as aProofing Agent, will meet them and verify their identity using the forms of identification and the confirmation case number that the Veteran provides. The Proofing Agent will validate the Veteran’s information against information on the Master Person Index database (MPI) which they will access via the Identity Management Toolkit (IAM Toolkit).
+In-Person Identity Proofing (IPP) is an in person identity verification prototype service that will be piloted in June 2024. During our pilot phase, we aim to test the feasibility of the main flow of the service which is considered to be a “happy path.” On the happy path, a Veteran will learn about what in person proofing is, discover what they need to bring to their walk-in appointment, select a preferred proofing site (with limited options for pilot), confirm their selection, and receive confirmation details via email. Once the Veteran arrives at their proofing site, an authorized VA staff member, referred to as a Proofing Agent, will meet them and verify their identity using the forms of identification and the confirmation case number that the Veteran provides. The Proofing Agent will validate the Veteran’s information against information on the Master Person Index database (MPI) which they will access via the Identity Management Toolkit (IAM Toolkit). 
+
+As we developed our solution, we referred to NIST guidelines and made design decisions that would provide the most secure verification experience for Proofing Agents and Veterans. One of these design decisions was to incorporate the Identity Management Toolkit which connects to MPI but currently it is primarily used to search for and  manage VA employee profiles. More details on this decision can be found in our Product Brief [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/product/product-brief.md). Our team broke down the user flows into action items using a tool called Story Mapping. We detail our story maps in a Mural [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715871781552/6d9cc1c8669b08860709eb6b3cc2cebef240796f?sender=u1b0df595924572baa8a94764). Our team also detailed these additional flows in a future state service blueprint [here](https://www.figma.com/board/g0vfLb9zKpvf1O5wPqKl6q/Future-State-User-Flows-and-Service-Blueprint?node-id=0%3A1&t=zqEIiCNBfRtJWv6Y-1) to show the anticipated front stage and backstage interactions in addition to the necessary technology and infrastructure to support flow. 
 
 ## Purpose
 
@@ -28,10 +30,10 @@ Signage guiding the applicant to the Proofing Agent
 Training for VA staff to educate and assist Veterans in creating verified modern credentials 
 Option for more accepted forms of identification
 
-[insert photo of flow]
+<img width="1478" alt="Screenshot 2024-05-22 at 4 10 50 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/8af2f60e-6d55-4546-bf99-0a385af32b26">
+
 
 Proposed plan for implementation:
-
 
 ## Reschedule User Flow
 
@@ -45,9 +47,33 @@ New additions:
 New page accessible from the application landing page that  allows Veterans to reschedule their appointment without having to go through the entire In-Person Identity Proofing process again 
 A date range feature that allows Veterans to pick a date range that works best for them rather than immediately starting the 10 day window from the present time and/or a date range field that allows Veterans to manually type in a preferred 10 day window of time. 
 
+<img width="929" alt="Screenshot 2024-05-22 at 4 10 12 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/bec6fe4f-05ac-45c1-a194-036882149304">
+
+
+Proposed plan for implementation:
+
+
+## Bundling Appointment Flow
+
+While conducting usability testing with Veterans, we learned that Veterans wanted to set up their proofing appointment with another appointment at VA to cover two appointments in one trip.  This feature can help the Veteran maintain attendance to their proofing appointment. We also learned from testing that some Veterans currently use the MyHealtheVet to create and manage in-person appointments, and MyHealtheVet sends Veterans appointment reminders via email: once 14 days prior to the appointment and than another one 2 days prior. To respond to this need we present the following use case as a solution:
+
+Julie is a 38 year old Veteran who currently uses MyHealtheVet to access her benefits and she also uses VA medical services for recurring doctors appointments. Juile had a Login.gov account, but she never verified it because she was used to using My HealtheVet (MHV) to sign in to VA.gov. Julie regularly goes to her closest VAMC for routine appointments, and receives an appointment reminder to ensure that she can keep her appointment. 
+
+Julie goes in every six months for a routine medical appointment at her local VAMC. A couple of days prior to her appointment, Julie receives a reminder email. While reading through the email, she notices that she is required to create a modern credential by a designated deadline. She reads that if she creates a new modern credential, she will need to verify her identity, and there is an option to verify in person at her VAMC. She clicks on a link which takes her to a page with more information about creating a modern credential and verification. She decides that it would be much easier for her to travel to the VA only once, rather than schedule a separate appointment for the verification.She knows that if she sets up her verification appointment the same day as her appointment, then she can finish setting up her modern credential securely. In her email, she clicks on a link that allows her to sign up for a modern credential via Login.gov. After creating her Login.gov account, she goes back to the email and clicks on a link that takes her to the IPP intake application where she selects her date and site before receiving confirmation for her verification walk appointment.
+
+
+New Additions 
+Add IPP content within an email confirmation via existing links on VA
+Add a clickable link that will direct the user to the IPP intake application landing page 
+
 [insert photo of flow]
 
 Proposed plan for implementation:
 
 
-## Bundling Appointment Flow (In Progress)
+
+
+
+
+
+
