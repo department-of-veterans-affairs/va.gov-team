@@ -69,7 +69,7 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 
   * Participate in team workshops as requested
 
-**Managing up, stakeholders** 
+**Managing up, stakeholders (enablement team and at times, VBA)** 
 
 * Resolve or escalate blockers that impede the success of the team, involving (or deferring) the team as needed 
 
