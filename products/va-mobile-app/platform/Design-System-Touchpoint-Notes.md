@@ -7,7 +7,7 @@ Agenda:
 
 ## 5/22/24
 *   Submitting a PR to add our stuff to VADS documentation
-*   Inviting Matt Dingee to any on-site activities?
+*   Inviting Matt Dingee to happy hour when on-site?
 
 ## 4/25/24
 *   Design Token strategy
