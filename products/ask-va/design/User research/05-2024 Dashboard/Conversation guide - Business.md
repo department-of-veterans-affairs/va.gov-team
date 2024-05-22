@@ -178,6 +178,8 @@ Okay, so at this point, let's say that you want to check whether there's a reply
 - Without clicking yet, can you tell me where you would click next?
 - What do you expect to happen when you click 'Check details'?
 
+Alright. Let's go ahead and click 'Check details' now.
+
 <details>
   <summary>Key things to notice</summary>
   
