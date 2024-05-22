@@ -118,7 +118,7 @@ We discussed the details of various artifacts and findings with a couple stakeho
       - **Recommendation 1B.2**: Update these pages extensively, including following the most current VA design system guidance in UI and content elements (like using “sign in” over “log in”), and for error page best practices (like ensuring instructions are helpful and there are link(s) to get back on track).
       - **Recommendation 1B.3**: Consider eliminating links to the AccessVA page and replace those with VA.gov or the USiP pages. At at least add links to VA.gov or the USiP.
 
-## 2. IA and technical issues 
+### 2. IA and technical issues 
    - A. It’ll be important to have the information from all the forms and tools pages. Mikki’s team had to focus on other work before finishing their audit, but she welcomed us to complete it if it was helpful for us.
       - **Recommendation 2A**.1: We should complete the IA audit. The forms tab only has about half of the forms audited
    - B. The AI audit findings suggest that there may still be an infinite sign in loop, specifically on the disability form 256 page and with Login.gov
@@ -137,13 +137,13 @@ This might be an issue better suited for the SST (fka LGA) team, but we could ta
    - G. Some veterans are confused about there being so many ways to sign in to VA. This is further discussion in section 5 about content enhancements can decrease confusion around CSPs, but there is a solution on the IA side to list here.
       - **Recommendation 2G.1**: A solution that’s been most on our mind the last couple years as the best possible solution to decrease confusion is to decrease the number of CSP options. There does need to be balance for folks whose preferred option goes away.
 
-## 3. Verification issues with CSPs
+### 3. Verification issues with CSPs
    A. The verification experience is still difficult and fraught with pain points. It may not be a surprise that the extra steps required to verify a modern account take a toll on the user experience. This is a long recorded problem with veterans, and VA teams have worked with Login.gov over the past several years in order to make their process better for our veterans. They recently implemented in person proofing. Still we expect this to continually be an issue with the LOA3/IAL2 requirements, although we can continue to press CSPs and work with them on easing this process.
    - Anecdotally, one of these researchers recently had their first images rejected from the Login.gov verification process and had to retake them. This happened while using a late model iPhone with upgraded image capture features. Then had the first phone number, which Login.gov had auto populated, rejected and had to try a different one.
    - **Recommendation 3A.1**: There are some issues around out of data personal information. With the survey data we have, it’s a bit unclear if these are with the CSPs or on the VA side. We may want to dive deeper into this to better understand if and when veteran information on file with the VA (or in the MPI) is out of date. Further, if there are difficulties with updating this information and if there is a need for veterans to update their information at more than one place with the VA, or if each part of the VA shares updates with others. 
 Note: this may be a task better suited for the Secure Sign in Transition (SST) team (fka Login.gov adoption team) and/or the Authenticated Experience team
 
-## 4. Multi factor authentication issues and complaints
+### 4. Multi factor authentication issues and complaints
    - A. Folks with limited cell phone or data access (like with DoD jobs), certain disabilities (like blindness, physical or cognitive disability) or who had recently changed phone numbers (but MFA still sending to wrong number), felt locked out of their account at least at those given times
       - **Recommendation 4A.1**: It may be helpful for folks who can’t access their phones while at work for VA to promote alternative MFA methods. While this may help in some cases it’s unclear if any other than backup codes will work in a situation where a veteran doesn’t have access to phone, data, or the ability to connect an external device to GFE.
       - **Recommendation 4A.2**: It may be helpful if we increase the time from when veterans have to MFA from every authentication to something longer, like once a month, when signing in from the same device and IP. 
@@ -157,7 +157,7 @@ Note: this may be a task better suited for the Secure Sign in Transition (SST) t
    - E. You can actually skip setting up MFA when setting up a LOA1/IAL1 ID.me account, even though we use the ID.me wrapper to enforce MFA for legacy CSPs.
       - No change is needed. After talking with Identity engineers, the consensus is that this isn’t a major issue for security.
 
-## 5. Content enhancements can decrease confusion around CSPs
+### 5. Content enhancements can decrease confusion around CSPs
    - A. Some folks think the different CSP options will take them to different places and/or accounts. Some also feel like they are required to give too much personal information to verify, and feel like the VA should already know all this information about them. They feel put out by having to submit it all again - likely not realizing that the CSPs are a separate service from VA.This is reinforced by signing in on different pages and by MHV being both a CSP and a place to go. Having 4 CSP options seems to confuse and frustrate many veterans, even though many websites and apps do offer multiple ways to sign in, for example to sign in via your Facebook or Google or Apple account. Other than Recommendation xx above, the best solutions to these issues may be with content enhancements. 
       - **Recommendation 5A.1**: Update content on VA.gov around verification and especially around VA’s relationship with the CSPs could clarify this for veterans.. Some language across VA.gov can be updated to better reflect that these accounts are only how you sign in, but no matter how you choose to sign in that the VA is still managing your care and benefits.
 Here’s one page where we could begin
@@ -165,10 +165,70 @@ Here’s one page where we could begin
       - **See Recommendation 5A.2**: Update the USiP with language that better reflects the relationship. Example of how this might look below. We should work with this, further refine, usability test it, and then implement based on research findings.: https://www.figma.com/board/0YKeTCwBJKc47UU5WBliIL/Sign-in-experience?node-id=2-324&t=2VSxgH16vv8kKqxs-0
       - **Recommendation 5A.3**:  Encourage CSPs to add language that better explains this relationship
 
+### 6. UI updates to the sign in and verification alerts
+   - A. Many forms and tools use the yellow colored alert, and a couple use blue, for directing folks who are signed in with LOA1/IAL1 to verify their account.
+      - **Recommendation 6A.1**: Make sure these are consistent across the site unless there is a substantial reason otherwise.
+   - B. Forms and tools pages place the verification alerts in different locations on the page: top, middle, bottom. 
+      - **Recommendation 6B.1**: We should consider whether there should be rules or guidelines about placement on page.
+   - C. Some alerts on forms pages and on tools pages use different alert titles. 
+      - **Recommendation CA.1**: If consistency of title isn’t being addressed in the DS updates, we should consider how we can contribute here.
+   - D. Our team must plan how best to work with all these other teams around this work
+      - See more in section 8
+   - E. When folks need to sign in or have a verified account to access a form or tool, we can create a better experience by telling folks everything they need upfront. 
+      - **Recommendation 6E.1**: In some cases we can better call out the need to verify before folks get into the form or tool for which verification is required. On some pages we may need to consider the best placement for sign in widgets, ie before the form is started.
+      - **Recommendation 6E.2**: Work with Platform on this. If design standards exist for this, we can help call out divergences and/or enforce those. Otherwise we can help Platform come up with VA standards for this based on best practices and/or bespoke usability testing. 
+      - **Recommendation 6E.3**: Consider if there is a way to better direct folks to verify their account when they sign up
 
+### 7. AccessVA page likely causes confusion
+   - A. AccessVA is an authentication page that sits on VA.gov but doesn’t even include a link to get back to VA.gov, or to sign in via the USiP. While we understand that this is likely to continue to exist for the near to mid term, we also consider it important to make sure veterans are able to get to VA.gov, the new front door for VA, and can easily get to the USiP, by name the “universal” sign in page. Some IAM error pages also point to the AccessVA page, even for folks who get to the error page from VA.gov
+      - This page’s address is https://eauth.va.gov/accessva
+      - **Recommendation 7A.1**: At minimum we or the team who owns this should spend a sprint or two to add links to VA.gov and to the USiP to this page
 
+### 8. Considerations for how our team integrates into this work 
+   - A. With this product, we’ll be working with many teams. We’ll also want to make sure that we are kept aware when other teams what to add or make changes to the sign in flows from their pages. 
+      - **Recommendation 8A.1**: Figure out if we want to have MOU’s to delineate how our team works with other teams.
+      - **Recommendation 8A.2**: Figure out how can integrate into the Collab Cycle to be present for meetings where sign in or verification information or flows are being changed. Or at least be able to async review in those circumstances.
+      - **Recommendation 8A.3**: Figure out how we should or when we approach teams who aren’t following the new/updated version of the sign in widgets
+      - **Recommendation 8A.4**: Better define how we work with IAM and CPSs where we have suggestions for them. Will that be different from how we work with other VA.gov teams?
 
-
+## Appendix A literature review sources
+ - Auth  Exp Team
+    - 2024-03 onboarding generative research
+    - 2024-03 onboarding generative research
+    - 2024-01 Authenticated Menu Usability
+    - New veteran onboarding research
+    - Research Review
+ - Accredited Rep Management Team
+    - 2024-03 ARM findarep live user test
+    - 2024-03 ARM find a representative live  user test
+    - Various research quotes
+ - Appointments FE team
+    - 2023 Appointments list screen reader usability research
+    - 2022-01 MHV and VAOS appts list discovery
+ - Ask VA team
+    - 04-2024 Progress bar
+    - 01-2024 Submit an inquiry
+    - Login.gov Adoption team
+    - 2022-10 Login.gov Adoption Discovery Research
+    - 2023-03 Deferred Identity Proofing Round 1 Usability
+ - MHV and MHV on VA.gov team
+    - 2024-01 Secondary Nav Comparison
+    - MHV coordinator's survey July 2023
+    - Medallia sign in feedback- Secure Messaging changes
+    - VSignals survey research on MHV
+ - Mobile App Team
+    - Team-collected app store reviews from 2023
+ - OCTO Identity team
+    - 2023-04 Proactive CSP Migration
+ - Sitewide team
+    - 2023-12 Federal Header/Footer usability testing--Phase 1
+    - 2023-03 Logged-in IA and Navigation Wayfinding
+ - Veteran Status team
+    - Veteran Status Use Case Discovery
+ - Contact Center Data
+    - Opt-in survey data - 2077 responses (Jan 1 to April 30, 2024)
+    - Intercept survey data - 548 responses (Jan 1 to April 30, 2024)
+    - Note - about 500 responses across both types were filtered out where no significant data was input into the survey (ie all options were left blank)
 
 
 
