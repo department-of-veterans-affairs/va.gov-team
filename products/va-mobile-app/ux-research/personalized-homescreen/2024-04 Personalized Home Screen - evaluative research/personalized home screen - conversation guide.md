@@ -192,7 +192,8 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 
 * Looking over this screen again, do you think this first screen would be helpful to you in your life or not?
   * *If yes:* Can you walk us through a situation in your life right now where you can imagine using it, and explain how this screen would help you?
-  * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express. 
+  * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express.
+* Do you think you might use it in the future?
 * *If they don’t mention the activity section:* Looking at that Activity section again, is there anything that you think would be helpful to see here in this section that you don’t see now?
 
 ## Section 4: Thank-You and Closing (5 minutes)
