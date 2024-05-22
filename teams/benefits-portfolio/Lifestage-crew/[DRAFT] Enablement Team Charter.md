@@ -109,29 +109,29 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
  
 **Communication & documentation**
 
-In general, default to text-based tools for internal communications for ease of finding and updating (ie. choose github markdown over Word files and PPTs; only use slack posts for temporary or private docs)
+* In general, default to text-based tools for internal communications for ease of finding and updating (ie. choose github markdown over Word files and PPTs; only use slack posts for temporary or private docs)
 
-Aim for a medium level of documentation (not exhaustive and not minimal). Document key information that will be useful to our future selves and our wonderful future team members who may need to look back to understand project goals, key research findings, what areas need additiona attention, why we made some weird decision, etc. 
+* Aim for a medium level of documentation (not exhaustive and not minimal). Document key information that will be useful to our future selves and our wonderful future team members who may need to look back to understand project goals, key research findings, what areas need additiona attention, why we made some weird decision, etc. 
 
-Leave things better than how you found them (it’s everyone’s responsibility to improve documentation).
+* Leave things better than how you found them (it’s everyone’s responsibility to improve documentation).
 
-Communication goals: transparancy now, paper trail for future version of the team
+* Communication goals: transparancy now, paper trail for future version of the team
 
-All communication about the work should be done in OCTO slack, defaulted to public channels. This greatly helps teams keep a pulse on the work.
+* All communication about the work should be done in OCTO slack, defaulted to public channels. This greatly helps teams keep a pulse on the work.
 
-- Slack
-  - join channels as you desire (team, design, extras)
-  - use for conversations (threads for micro convos)
-  - Only use DMs when it truly needs to be private or you’re just working out logistics for a meeting or something no one else needs to see
-  - Channels shouldn't be private 
-- Github
-  - most of your work (or requests to others for work) should be connected to an issue or product folder
-  - Decisions made in slack conversations should be documented in GH
-  - Planning, notes, documentation should be in an md file
-  - Research documentation and design decisions should be stored in appropriate research folder within product folder. 
-  - Cross-link any research to the research history
-- Email
-  - Ideally only used when communicating with people outside the OCTO team, such as VBA
+  * Slack
+   - join channels as you desire (team, design, extras)
+  -  use for conversations (threads for micro convos)
+  -  Only use DMs when it truly needs to be private or you’re just working out logistics for a meeting or something no one else needs to see
+  -  Channels shouldn't be private 
+  *  Github
+  -  most of your work (or requests to others for work) should be connected to an issue or product folder
+  -  Decisions made in slack conversations should be documented in GH
+  -  Planning, notes, documentation should be in an md file
+  -  Research documentation and design decisions should be stored in appropriate research folder within product folder. 
+  -  Cross-link any research to the research history
+  * Email
+  -  Ideally only used when communicating with people outside the OCTO team, such as VBA
 
 *** **Note: all 3 above communication tools are subject to FOIA**
 
@@ -164,14 +164,30 @@ The problem we name is the problem we solve. As such, we aim to:
 - Ensure we are solving the right problem- signals are backed by multiple sources (Veteran research, analytics, SMEs, etc)
 - We make testable hypotheses, measure the results, and iterate.
 
+
+### Workflow + Cadence
+1. We work async and in two week sprints. We do not want "reactive" work and as such we work better if meetings are planned at least a week in advance (we recognize that's not always possible).
+2. Meetings have clear goals, facilitation, and documentation of decisions.
+3. It is important to remember that the Enablement team isn't a member of the delivery team, and since we function as the client.
+- We should be clear on if we are looking at a final product or a work in progress.
+- Final work products should be reviewed internally first.
+- We can work with you at any stage, but there should be a shared understanding of what stage we are at.
+- If we say something to one team member, we expect that is communicated to the team. Again, defaulting to public channels.
+
+
+### VBA Relationships
+We greatly value and respect our VBA counterparts. They have a wealth of knowledge about the Benefits services, policies, and processees. 
+- We respect their time and do as much background research as we can on our own.
+- We provide high level expertise and don't directly implement requirements without proper research, data, and strategy. This is why we are here, and our responsibility.
+
 ## How we Product
 **Product strategy, vision** 
 
-* Transform Product Lead’s high-level vision into detailed action plans 
+* Transform Enablement Team’s high-level vision into detailed action plans 
 
 * Ensure the team understands the direction and goals of the product or service so they can deliver towards it 
 
-* Provide feedback to the Enablement team about the viability and accuracy of their strategy, measures of success, when additional user research is needed, and long-term roadmap 
+* Provide feedback to the Enablement team about the viability and accuracy of strategy, measures of success, when additional user research is needed, and long-term roadmap 
 
 * This looks like 
 
@@ -270,7 +286,6 @@ https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application
 - One major obstacle to research is [PRA & things you may not expect](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md)
 
 #### Secondary research
-- VE materials
 - Read user voice submissions
 - Veteran forums and Facebook groups
 - Contact centers
@@ -297,15 +312,3 @@ We design for all Veterans.
 - Consult your friendly 508 office
 - Usability test for accessibility
 - More info here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility
-
-
-
-### Workflow + Cadence
-1. We work async and in two week sprints. We do not want "reactive" work and as such we work better if meetings are planned at least a week in advance (we recognize that's not always possible).
-2. Meetings have clear goals, facilitation, and documentation of decisions. 
-
-
-### VBA Relationships
-We greatly value and respect our VBA counterparts. They have a wealth of knowledge about the Benefits services, policies, and processees. 
-- We respect their time and do as much background research as we can on our own.
-- We provide high level expertise and don't directly implement requirements without proper research, data, and strategy. This is why we are here, and our responsibility.
