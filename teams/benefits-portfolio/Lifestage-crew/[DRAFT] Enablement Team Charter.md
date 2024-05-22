@@ -45,17 +45,19 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 ### What we expect from contract delivery teams
 **Vision, strategy** 
 
-* Determine the product direction and goals in collaboration with the product manager, team, and stakeholders. Review and update them at least quarterly. 
+* Determine the product direction and goals in collaboration with the enablement team. 
 
 * Work with the team to create a high-level, agile, roadmap that is manageable and realistic 
 
 * This looks like 
 
-  * Collaborate regularly with stakeholders and team members to define roadmap priorities 
+  * Collaborate regularly with stakeholders (enablement team) and team members to define roadmap priorities 
 
   * Define and document OKRs with the team 
 
-  * Review OKRs against product direction and goals to determine if the product needs to pivot strategy or direction 
+  * Review OKRs against product direction and goals to determine if the product needs to pivot strategy or direction
+ 
+  * Keep VBA informed of strategy and ensure that their needs are reflected on the roadmap. 
 
 **Prioritization** 
 
