@@ -75,7 +75,7 @@ We hope you feel ownership of your work and products. We expect of ourselves and
 
 **Managing up, stakeholders (enablement team and at times, VBA)** 
 
-* Practice leads should take responsibility for aligning high level strategy with enablement team and the greater delivery team.
+* Practice leads should take responsibility for ensuring alignment of high level strategy with enablement team and the greater delivery team.
 
 * Resolve or escalate blockers that impede the success of the team, involving (or deferring) the team as needed 
 
