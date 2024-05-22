@@ -85,7 +85,7 @@ Remote on Zoom
 
 ### Research materials<a id="research-materials"></a>
 
-- Link to conversation guide
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-06-ARM-appointarep-digitalsubmit-usertest/conversation-guide.md)
 
 - [Link to mobile prototype](https://www.figma.com/proto/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?page-id=0%3A19109\&type=design\&node-id=120-67785\&viewport=-3971%2C5276%2C0.25\&t=JxphdTevq62L2PR3-8\&scaling=min-zoom\&starting-point-node-id=120%3A67785\&hide-ui=1)
 
