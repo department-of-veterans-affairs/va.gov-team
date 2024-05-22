@@ -1,14 +1,6 @@
 # Secure Sign in Transition Team (formerly Login.gov adoption team) roadmap
 
-[Roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/836/views/1)
-
 ## Current projects
-
-|Project|Status|
-|Secure Sign in Transition|Paused - waiting on OPIA press release|
-|In-person proofing|Development|
-|Legacy Credential Service Provider (CSP) account migrations|Paused - waiting on press release|
-|TAP curriculum review & recommendations|Updates to ID.me worksheet completed|
 
 ### Projected timelines for current projects
 
@@ -27,19 +19,6 @@
 |**Non-Veteran User Roles (NVUR) - shared access platform**|-|Research;UX & Design explorations |TBD|TBD|
 |**MFA security keys pilot**|-|Research;UX & Design explorations |TBD|TBD|
 |**TAP curriculum review & recommendations**|-|Research;UX & Design explorations |Recommendations to TAP curriculum|TBD|
-
-
-|Project|Launch/Completion date|
-|----|----|
-|-| -|
-
-
-## Priorities
-
-1. Increase login.gov and ID.me adoption
-2. Develop in-person identity verification service for Veterans within VA facilities
-3. Non-Veteran user roles and shared access
-4. CSP account migrations
 
 ## Requests from other teams
 
