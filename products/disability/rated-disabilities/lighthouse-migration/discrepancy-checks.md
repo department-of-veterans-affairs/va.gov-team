@@ -1,6 +1,8 @@
 ### Feature toggle updates
 | Percentage | Date       |
 | ---------: | ---------: |
+|        25% | 05/22/2024 |
+|        10% | 05/21/2024 |
 |         0% | 05/16/2024 |
 |        10% | 05/16/2024 |
 |         0% | 05/06/2024 |
@@ -12,6 +14,12 @@
 |         1% | 02/28/2024 |
 
 ## Updates
+#### 05/22/2024
+No issues at 10%, bumping to 25%
+
+#### 05/21/2024
+Lighthouse pushed their hotfix out; went back to 10%. No issues yet as of 05/22/2024
+
 #### 05/16/2024
 Found an issue where 'Not Service Connected' ratings were no longer being returned by Lighthouse. This is most likely because they didn't account for the fact that 'Not Service Connected' ratings will not have a begin date.
 
