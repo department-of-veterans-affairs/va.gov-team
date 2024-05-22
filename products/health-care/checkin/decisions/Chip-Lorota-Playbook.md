@@ -62,7 +62,7 @@ Make sure you have access to the VNCE team G-drive, which will give you access t
 - [Previous Post Mortems](https://dvagov.sharepoint.com/sites/PCIAPI)
 
 Make sure your on-call shift is configured in [PagerDuty](https://veterans-affairs.pagerduty.com/teams/PZ9XJHY)
-- Request to be added to DSVA Pagerduty by the platform team (Allison can add if response time is delayed)
+- Request to be added to DSVA Pagerduty by the platform team [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
 
 Once you have VA Access, make sure you have access to the:
 - [PCI API SNOW queue](https://yourit.va.gov/nav_to.do?uri=%2Ftask_list.do%3Fsysparm_clear_stack%3Dtrue%26sysparm_query%3Dassignment_group%253Djavascript:getMyGroups()%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog) 
