@@ -31,10 +31,6 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
 - Breadcrumb: Home > Family and caregiver benefits > [Health and disability H1] > CHAMPVA benefits > [1010d form H1]
 
-**2) MOVE CHAMPVA static page**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/
-- Breadcrumb: Home > Family and caregiver benefits > [Health and disability H1] > CHAMPVA benefits
-
 
 ## <a name="nav"></a>Entry points <br>
 
