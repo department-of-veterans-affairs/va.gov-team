@@ -174,7 +174,7 @@ We greatly value and respect our VBA counterparts. They have a wealth of knowled
 ## How we Product
 **Product strategy, vision** 
 
-* Transform Enablement Team’s high-level vision into detailed action plans 
+* Proactively understand Enablement Team’s high-level vision and transform it into detailed action plans 
 
 * Ensure the team understands the direction and goals of the product or service so they can deliver towards it 
 
@@ -186,7 +186,7 @@ We greatly value and respect our VBA counterparts. They have a wealth of knowled
 
    * Facilitate workshops, Product Lead check-ins, and other discussions to align the team around priorities, goals, scope, and strategies 
 
-   * Include the Product Lead in agile ceremonies so they can provide their perspectives
+   * Include the Enablement team in agile ceremonies so they can provide their perspectives
 
 **Prioritization, planning** 
 
