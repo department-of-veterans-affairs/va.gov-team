@@ -168,11 +168,11 @@ The problem we name is the problem we solve. As such, we aim to:
 ### Workflow + Cadence
 1. We work async and in two week sprints. We do not want "reactive" work and as such we work better if meetings are planned at least a week in advance (we recognize that's not always possible).
 2. Meetings have clear goals, facilitation, and documentation of decisions.
-3. It is important to remember that the Enablement team isn't a member of the delivery team, and since we function as the client.
-- We should be clear on if we are looking at a final product or a work in progress.
-- Final work products should be reviewed internally first.
-- We can work with you at any stage, but there should be a shared understanding of what stage we are at.
-- If we say something to one team member, we expect that is communicated to the team. Again, defaulting to public channels.
+3. It is important to remember that the Enablement team isn't a member of the delivery team, and since we function as the client:
+-  We should be clear on if we are looking at a final product or a work in progress.
+-  Final work products should be reviewed internally first.
+-  We can work with you at any stage, but there should be a shared understanding of what stage we are at.
+-  If we say something to one team member, we expect that is communicated to the team. Again, defaulting to public channels.
 
 
 ### VBA Relationships
