@@ -42,7 +42,7 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 - We support the relationship with VBA with a focus on using requirements as guideposts, but recognize that it's our responsibility to modernize NOT digitize.
 - We recognize that the VA is HUGE and we're here to help navigate it.
 
-
+### What we expect from contract delivery teams
 **Vision, strategy** 
 
 * Determine the product direction and goals in collaboration with the product manager, team, and stakeholders. Review and update them at least quarterly. 
