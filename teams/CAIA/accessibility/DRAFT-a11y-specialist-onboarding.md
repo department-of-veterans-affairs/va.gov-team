@@ -171,6 +171,8 @@ If you want to keep abreast of accessibility happenings across VA.gov, you can s
 - Keywords are not case sensitive. 
    - **Examples:** Accessibility, accessible, audit, user research, ux, CAIA, user experience, a11y
 
+### Calling all CAIA a11ys!
+Use `@sitewide-caia-accessibility` in Slack to ping all CAIA accessibility specialists.
 
 ## Contacts
 If you want to learn more about how accessibility works at VA.gov, reach out to:
