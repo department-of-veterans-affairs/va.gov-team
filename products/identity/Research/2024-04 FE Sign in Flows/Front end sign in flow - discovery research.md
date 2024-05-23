@@ -70,8 +70,8 @@ Most of this data spoke more generally to sign in and verification likely bringi
    - Some of this might be due to Single Sign On issues between certain subsites
    - Speculating, but some of this might also be when accessing certain sensitive parts of the site like Direct Deposit change that include the extra step for security and folks are understanding this as another sign in.
 - Mobile authentication brings a whole host of its own issues, some of which our team doesn’t own, including biometric authentication. The parts which our team does own parallel the previously mentioned items
-- Particular items of note in the Medallia survey data
-   - We only pulled survey responses that included keywords or that originated on a page that had to do with authentication or verification
+- Medallia survey data - items of note 
+   - We pulled survey responses that included keywords or that originated on a page that had to do with authentication or verification. About 500 responses across both types were filtered out where no significant data was input into the survey (ie all options were left blank)
    - With 31,520,000 authentications over Jan to April and 548 respondents for the intercept survey, we get a margin of error of +/-4.5% with a confidence level of 95%
       - BIG CAVEAT: while this is technically statistically significant, folks who take surveys can be a particular type with particular feelings in the moment, so still may not be truly representative. The error rate or confidence doesn’t take this into account. This is especially true of opt-in surveys, so while we took account of the qualitative data for both, we’re only pulling out quantitative data for the intercept survey.
       - To illustrate this point of the 2077 respondents to the opt-in survey 1744 marked no to the question were you “able to do your task today” and an additional 27 left that blank but left a poor rating for “satisfaction with site” and also mentioned issues in another open comment field. On the other hand 165 were able to accomplish their task and another 134 left all open comment areas blank. The average rating from the opt-ins was 1.66 out of 5
@@ -216,38 +216,34 @@ WIP - links being added
  - Auth Exp Team
     - [2024-03 onboarding generative research](Transitioning Service Member Engagement with VA, Generative Research, Findings Summary)
     - [2024-01 Authenticated Menu Usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md)
-    - Research Review
+    - [Research Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md)
  - Accredited Rep Management Team
-    - 2024-03 ARM findarep live user test
-    - 2024-03 ARM find a representative live  user test
-    - Various research quotes
+    - [2024-03 ARM findarep live user test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest)
+    - Various research quotes across studies
  - Appointments FE team
-    - 2023 Appointments list screen reader usability research
-    - 2022-01 MHV and VAOS appts list discovery
+    - [2023 Appointments list screen reader usability research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md)
+    - [2022-01 MHV and VAOS appts list discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2022-01-mhv-and-vaos-appts-list-discovery/research-findings.md)
  - Ask VA team
-    - 04-2024 Progress bar
-    - 01-2024 Submit an inquiry
-    - Login.gov Adoption team
-    - 2022-10 Login.gov Adoption Discovery Research
-    - 2023-03 Deferred Identity Proofing Round 1 Usability
+    - [04-2024 Progress bar](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar/Findings.md)
+    - [01-2024 Submit an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry/Findings.md)
+- Login.gov Adoption team
+    - [2022-10 Login.gov Adoption Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/research/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20findings.md)
+    - [2023-03 Deferred Identity Proofing Round 1 Usability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md)
  - MHV and MHV on VA.gov team
-    - 2024-01 Secondary Nav Comparison
+    - [2024-01 Secondary Nav Comparison](https://docs.google.com/spreadsheets/d/1JjRhVTOSkFpXkgTkA725lTryzmuR1IpG/edit#gid=749780363)
     - MHV coordinator's survey July 2023
-    - Medallia sign in feedback- Secure Messaging changes
+    - [Medallia sign in feedback- Secure Messaging changes](https://docs.google.com/spreadsheets/d/1JjRhVTOSkFpXkgTkA725lTryzmuR1IpG/edit#gid=749780363)
     - VSignals survey research on MHV
  - Mobile App Team
     - [Team-collected app store reviews from 2023](https://docs.google.com/spreadsheets/d/1CTaHqqlBSYbT-eI-Ji7cEIuz9mRQatC9MSWAL4xCIYA/edit#gid=1863066866)
  - OCTO Identity team
-    - 2023-04 Proactive CSP Migration
+    - [2023-04 Proactive CSP Migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md)
  - Sitewide team
-    - 2023-12 Federal Header/Footer usability testing--Phase 1
-    - 2023-03 Logged-in IA and Navigation Wayfinding
+    - [2023-12 Federal Header/Footer usability testing--Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT/topline.md)
+    - [2023-03 Logged-in IA and Navigation Wayfinding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/research-and-analytics/2023-generative-logged-in-research/2023-logged-in-user-interviews/findings-summary.md)
  - Veteran Status team
-    - Veteran Status Use Case Discovery
- - Contact Center Data
+    - [Veteran Status Use Case Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f97a2589dd3ed8352bff4edf37401a583cb46897/products/veteran-status/Research/2023-12-VetStatus-Use-Case-Discovery/2023-12-Research-Plan.md)
+ - Contact Center Data for sign in
     - Opt-in survey data - 2077 responses (Jan 1 to April 30, 2024)
     - Intercept survey data - 548 responses (Jan 1 to April 30, 2024)
-    - Note - about 500 responses across both types were filtered out where no significant data was input into the survey (ie all options were left blank)
-
-
 
