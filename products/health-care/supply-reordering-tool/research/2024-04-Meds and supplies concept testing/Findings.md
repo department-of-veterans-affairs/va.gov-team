@@ -156,16 +156,26 @@ This finding applied to all 3 options (see the screenshot below for the list pag
 
 ## Recommendations
 
-* Explore design and I.A. options for combining medications and medical supplies on MHV on VA.gov, and conduct technical discovery with the medications team's developers and medical supply team's developers to understand the backend and the feasibility of combining medications and medical supplies. 
+**Explore design and I.A. options for combining medications and medical supplies on MHV on VA.gov, and conduct technical discovery with the medications team's developers and medical supply team's developers to understand the backend and the feasibility of combining medications and medical supplies.** 
 
-Here's [a list of medical supplies-related research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md) with highlights on Veterans feedback and behaviors and expectations around medications and medical supplies. Combining the past studies and what we found in this study (a total of 2 behavior-focused studies and 2 feedback/sayings-focused studies), 
+In this research, we didn't fully understand why they preferred option 3 when they thought medical supplies and medications were different and concerned the list might get long and hard to find things to order. We know that they prefer all-in-one and fewer clicks and a simple ordering experience when it comes to both, but we have gotten fixed behaviors and feedback from past studies. Here's [a list of medical supplies-related research studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md) with highlights on Veterans feedback and behaviors and expectations around medications and medical supplies. 
+- In medications usability testing,  most users mentioned they expected to see various supplies in the medications list.
+- In the secondary navigation comparison study,  most users were sure that they'd find CPAP supplies in medications on the MHV landing page and new secondary navigation menu.
+- In the I.A. tree test, most users went to medical supplies to order hearing aid supplies (unmoderated, no combined path). 
+- In the MHV landing page study, users were excited about medical supplies.
+- In this study, users preferred medications and supplies to be on one page for them to order everything at once. 
+
+Despite some of the fixed feedback, users did find option 3 the easiest and expected the same in 2 other studies. It's important to explore design and I.A. options for combining medications and medical supplies on MHV on VA.gov. Do we put them all in one list or have a page for medications and a page for medical supplies? Do we separate those concepts? Do users hit “order” on each page, or do they just add stuff to a shopping cart, and we have a shopping cart page where users actually place the order? There are a lot of designs we could explore. 
+
+In parallel, we should conduct technical discovery for medications and medical supplies and assess the technical feasibility of combining. 
 
 _Supporting data: Finding 1 and [other medical supplies-related studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing/A%20list%20of%20supplies%20related%20research%20data.md)_
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
+- Brainstorm and create sketches for possible options for combining medications and medical supplies.
+- Conduct technical discovery for medications and medical supplies and assess the technical feasibility of combining.
 
 
 ## Appendix
