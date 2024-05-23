@@ -32,6 +32,15 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 | User account creation | [User account creation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Products/Design%20Documents/UserAccount_Creation_Flow.md) |
 | User attribute rules for authenticated endpoints | [User attribute rules documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Products/Design%20Documents/UserAttribute_Rules.md) |
 |  | [List of user attributes returned for authenticated endpoints](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser) |
+| :no_entry: **What we don’t support** | :pushpin: **Resources that can help** |
+| Authorization rules defined for a specific integration  | [Authorization design Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/authorization-design-doc) |
+| Master Persons Index (MPI)  | [IAM team playbook and documentation](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Pages/IAM%20Playbook%20Home.aspx)  |
+|   | [MPI Service Description documentation (requires PIV card)](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Documents/MPI/VA_MPI_Service_Description.pdf)  |
+| My VA  | [Auth Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#readme)  |
+| Notifications | [Auth Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#readme)  |
+| Profile section of VA.gov  | [Auth Experience Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization#readme)  |
+| VA profile (backend) | [#va-profile](https://dsva.slack.com/archives/C7TE0PFTL)  |
+|  | [BE Documentation for profile](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/personal_information/backend_documentation.md) |
 
 ## **Security**
 
