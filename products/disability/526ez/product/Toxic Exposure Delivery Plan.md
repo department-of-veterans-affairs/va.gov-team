@@ -92,14 +92,9 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
      - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
      - [ ] Submit dashboard    
-     - [ ] Submit Canary Launch     
-     - [ ] Submit staggered release     
-  - [ ] Revisit submit transformation & make any needed changes
-  - [ ] Migrate Lighthouse generatePDF endpoint and release
-    - [ ] GeneratePDF release plan     
-    - [ ] GeneratePDF dashboard     
-    - [ ] GeneratePDF Canary Launch    
-    - [ ] GeneratePDF release
+     - [ ] Submit Canary Launch        
+- [ ] Revisit submit transformation & make any needed changes
+- [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
 - [ ] Schedule staging review
 
 
