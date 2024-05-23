@@ -3,7 +3,7 @@ name: Sitewide Content, Accessibility, and IA Intake Form
 about: Use this ticket to start collaboration on a new initiative with the sitewide content, accessibility, and information architecture (CAIA) team.
 title: "[CAIA Intake] <Team Name>: <Initiative Name>"
 labels: sitewide CAIA
-assignees: strelichl,coforma-terry,NaomiPMC
+assignees: strelichl,NaomiPMC
 
 ---
 # Content, accessibility, information architecture (CAIA) new initiative collaboration request
@@ -78,7 +78,7 @@ Provide links to any supporting artifacts that can help us better understand you
 - [Supporting artifact <name>](https://va.gov) `placeholder link`
 
 ## Next steps
-- [ ] Post a link to this issue in the [#sitewide-content-sitewide-content-accessibility-ia](https://dsva.slack.com/channels/sitewide-content-accessibility-ia) slack channel and tag `@Terry Nichols`, and we’ll then acknowledge receipt. We'll then review the artifacts in more detail and work with you to determine timing for collaboration. Depending on the work, we may schedule a kickoff meeting to better understand how we'll partner together.
+- [ ] Post a link to this issue in the [#sitewide-content-sitewide-content-accessibility-ia](https://dsva.slack.com/channels/sitewide-content-accessibility-ia) slack channel and tag `@Naomi Eke`, and we’ll then acknowledge receipt. We'll then review the artifacts in more detail and work with you to determine timing for collaboration. Depending on the work, we may schedule a kickoff meeting to better understand how we'll partner together.
 - [ ] Review the remaining next steps in the **VFS team tasks** section here.
 - [ ] **If you also need engineering support from the public websites team**, fill out their intake request form as well: [Open a public websites intake request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Public+Websites%2C+Sitewide+content&labels=vsa-public-websites%2C+vsa%2C+vsa-public-websites-intake%2C+sitewide-content%2C+needs-grooming&template=public-websites-intake.md&title=%3CType+of+Request%3E+from+%3CTeam%3E)
 - [ ] **If you're requesting a page/URL redirect, a URL change, or a vanity URL**, submit an additional request for this work: [Open a redirect, URL change, or vanity URL request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request)
