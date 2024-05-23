@@ -234,6 +234,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Observers: see [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
 
 ## Analysis & Findings
-* Analysis spreadsheet & session notes
+* [Mural: session notes & analysis](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1715976305728/2ce62b44a890cd76fe3675f9782c3d833a323925?wid=323-1716474556797)
 * VA Mobile App: Personalized Home Screen - Evaluative Research Findings
 	
