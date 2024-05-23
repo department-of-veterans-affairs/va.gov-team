@@ -36,60 +36,48 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 
 **1) Family member hub - CHANGE**
 - new URL: va.gov/family-and-caregiver-benefits/
-- Breadcrumb: Home > [H1]
+- Breadcrumb: VA.gov home > Family and caregiver benefits
 - Notes: note this is a change in URL so we'll also need a redirect for folks that might have bookmarked the old url
 
 **2) Health/disability subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/health-and-disability/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers
 
 **3) Survivors comp and accrued benfits subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/survivor-compensation/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **4) Education and careers subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/education-careers/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **5) Life Insurance subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/life-insurance/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **6) Housing assistance subhub - CHANGE**
 - new URL: va.gov/family-and-caregiver-benefits/housing-assistance/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **7) Burials / memorials subhub - NEW**
 - URL: va.gov/family-and-caregiver-benefits/burials-memorials/
-- Breadcrumb: Home > [Family member h1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
-**7) PCAFC static page - CHANGE**
+**8) PCAFC static page - CHANGE**
 - new URL: va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > H1
 
-**8) PCAFC Form 1010cg - CHANGE**
+**9) PCAFC Form 1010cg - CHANGE**
 - new URL: va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [PCAFC H1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [PCAFC H1] > H1
 
-**9) CHAMPVA static page - CHANGE**
+**10) CHAMPVA static page - CHANGE**
 - new URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > H1
 
-**9) CHAMPVA form 1010d - ADD**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
-
-**10) CHAMPVA OHI 10-7959c - ADD** 
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/other-insurance-form-10-7959c/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
-
-**11) File champva Claim 10-7959a - ADD** 
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
-- Breadcrumb: Home > [Family member h1] > [Health and disability H1] > [CHAMPVA H1] > H1
-
-**12) Surviving spouse home loan program - CHANGE**
+**11) Surviving spouse home loan program - CHANGE**
 - new URL: va.gov/family-and-caregiver-benefits/housing-assistance/surviving-spouse-home-loan
-- Breadcrumb: Home > [Family member h1] > [Housing H1] > H1
+- Breadcrumb: VA.gov home > Family and caregiver benefits > [Housing H1] > H1
 - NOTE: this is pending stakeholder approval from Danielle
 
 
