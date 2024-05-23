@@ -240,6 +240,3 @@ Accessibility specialists have created guides on the following technical topics:
 
 ### Mobile testing
 Learn how to [test websites on mobile devices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/mobile-accessibility-testing-guidance.md).
-
-### any other resources??
-BUT WHAT?
