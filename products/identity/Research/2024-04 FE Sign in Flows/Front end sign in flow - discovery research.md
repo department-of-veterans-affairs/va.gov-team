@@ -15,14 +15,14 @@
    - [Stakeholder discussions](#Stakeholder-discussions)
 - [Key findings paired with recommendations](#Key-findings-paired-with-recommendations)
    - [1. Error messaging](#1-Error-messaging)
-   - [2. IA and technical issues](#2.-IA-and-technical-issues)
-   - [3. Verification issues with CSPs](#3.-Verification-issues-with-CSPs)
-   - [4. Multi factor authentication difficulties](#4.-Multi-factor-authentication-difficulties)
-   - [5. Content enhancements can decrease confusion around CSPs](#5.-Content-enhancements-can-decrease-confusion-around-CSPs)
-   - [6. UI updates to existing sign in and verification alerts](#6.-UI-updates-to-existing-sign-in-and-verification-alerts)
-   - [7. AccessVA page likely causes confusion](#7.-AccessVA-page-likely-causes-confusion)
-   - [8. Considerations for how our team integrates into this work](#8.-Considerations-for-how-our-team-integrates-into-this-work)
-- [Appendix A literature review sources](#Appendix-A-literature-review-sources)
+   - [2. IA and technical issues](#2-IA-and-technical-issues)
+   - [3. Verification issues with CSPs](#3-Verification-issues-with-CSPs)
+   - [4. Multi factor authentication difficulties](#4-Multi-factor-authentication-difficulties)
+   - [5. Content enhancements can decrease confusion around CSPs](#5-Content-enhancements-can-decrease-confusion-around-CSPs)
+   - [6. UI updates to existing sign in and verification alerts](#6-UI-updates-to-existing-sign-in-and-verification-alerts)
+   - [7. AccessVA page likely causes confusion](#7-AccessVA-page-likely-causes-confusion)
+   - [8. Considerations for how our team integrates into this work](#8-Considerations-for-how-our-team-integrates-into-this-work)
+- [Appendix A: literature review sources](#Appendix-A-literature-review-sources)
 
 ## Background
 There is a lack of consistency across the site on content and IA related to sign in flows. There are also general IA and UX issues with sign in flows. OCTO Identity, this team, is stepping in as an owner to help manage the front end experience of sign in flows across the VA.gov. As a first step into this work, our goal is to become more familiar with it, some definite, and potential issues that we can research further and work on in future sprints. 
@@ -216,7 +216,7 @@ Here’s one page where we could begin
       - **Recommendation 8A.3**: Figure out how we should or when we approach teams who aren’t following the new/updated version of the sign in widgets
       - **Recommendation 8A.4**: Better define how we work with IAM and CPSs where we have suggestions for them. Will that be different from how we work with other VA.gov teams?
 
-## Appendix A literature review sources
+## Appendix A: literature review sources
  - Auth  Exp Team
     - 2024-03 onboarding generative research
     - 2024-03 onboarding generative research
