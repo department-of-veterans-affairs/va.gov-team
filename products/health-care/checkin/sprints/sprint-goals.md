@@ -95,6 +95,7 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
         - 🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
         - 🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
