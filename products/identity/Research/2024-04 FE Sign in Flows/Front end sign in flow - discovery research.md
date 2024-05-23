@@ -14,7 +14,7 @@
    - [VA DS future state review](#VA-DS-future-state-review)
    - [Stakeholder discussions](#Stakeholder-discussions)
 - [Key findings paired with recommendations](#Key-findings-paired-with-recommendations)
-   - [1. Error messaging](#1.-Error-messaging)
+   - [1. Error messaging](#1-Error-messaging)
    - [2. IA and technical issues](#2.-IA-and-technical-issues)
    - [3. Verification issues with CSPs](#3.-Verification-issues-with-CSPs)
    - [4. Multi factor authentication difficulties](#4.-Multi-factor-authentication-difficulties)
