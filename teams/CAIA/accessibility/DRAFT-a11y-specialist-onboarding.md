@@ -79,7 +79,11 @@ This is going to take time. It can take a month, or even longer, to get fully on
 VA's [accessibility vision statement](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy#ModernizedVA.govAccessibilityStrategy-Vision) is clear:
 > "That every disabled Veteran and caregiver has guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations."
 
-To do this, VA aims to account for accessibility concerns at all stages of the development lifecycle - "accessibility beyond compliance." We do research with people with disabilities, annotate our designs, use and develop a robust design system, perform end-to-end testing, and provide means of accessiblility support for product teams. By doing this, we hope to create products that do more than conform to WCAG 2.2 success criteria - instead, making products with a solid user experience for _all_ users.
+To do this, VA aims to account for accessibility concerns at all stages of the development lifecycle - "accessibility beyond compliance." 
+
+We do research with people with disabilities, annotate our designs, use and develop a robust design system, perform end-to-end testing, and provide means of accessiblility support for product teams. And we follow a set of robust [experience standards](https://design.va.gov/about/experience-standards/) that we apply to all products before launch.
+
+By doing this, we hope to create products that do more than conform to WCAG 2.2 success criteria - instead, making products with a solid user experience for _all_ users.
 
 Before going any further, read about how we do [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov).
 
