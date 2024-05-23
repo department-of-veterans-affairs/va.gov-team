@@ -1,4 +1,28 @@
 # Front end sign in flow - secondary research
+**Office of the CTO - Digital Experience (OCTO-DE), Sign in, Identity Team**
+- Date: May 22, 2024
+- Researchers
+   - Clayton Zook clayton.zook@oddball.io
+   - Charlye Tran charlye@bluetiger.digital
+   - Megan Driscoll megan@bluetiger.digital
+
+**Jump to:**
+- [Data sources](#Data-sources)
+   - [Literature review and Contact Center Medallia survey data](#literature-review-and-contact-center-medallia-survey-data)
+   - [Error message review](#Error-message-review)
+   - [IA artifact review](#IA-artifact-review)
+   - [VA DS future state review](#VA-DS-future-state-review)
+   - [Stakeholder discussions](#Stakeholder-discussions)
+- [Key findings paired with recommendations](#Key-findings-paired-with-recommendations)
+   - [1. Error messaging](#1.-Error-messaging)
+   - [2. IA and technical issues](#2.-IA-and-technical-issues)
+   - [3. Verification issues with CSPs](#3.-Verification-issues-with-CSPs)
+   - [4. Multi factor authentication difficulties](#4.-Multi-factor-authentication-difficulties)
+   - [5. Content enhancements can decrease confusion around CSPs](#5.-Content-enhancements-can-decrease-confusion-around-CSPs)
+   - [6. UI updates to existing sign in and verification alerts](#6.-UI-updates-to-existing-sign-in-and-verification-alerts)
+   - [7. AccessVA page likely causes confusion](#7.-AccessVA-page-likely-causes-confusion)
+   - [8. Considerations for how our team integrates into this work](#8.-Considerations-for-how-our-team-integrates-into-this-work)
+- [Appendix A literature review sources](#Appendix-A-literature-review-sources)
 
 ## Background
 There is a lack of consistency across the site on content and IA related to sign in flows. There are also general IA and UX issues with sign in flows. OCTO Identity, this team, is stepping in as an owner to help manage the front end experience of sign in flows across the VA.gov. As a first step into this work, our goal is to become more familiar with it, some definite, and potential issues that we can research further and work on in future sprints. 
@@ -106,6 +130,7 @@ The Platform CAIA content team has been working on updates to the design system 
 We discussed the details of various artifacts and findings with a couple stakeholders to better understand the work they’d done and the artifacts they’d put together.
 
 ## Key findings paired with recommendations
+This study found several areas that are potentially creating dissatisfaction with authentication (sign-in). Addressing some of these could help to increase veteran satisfaction with the product. Some of these are areas that we’ve long known to be issues. Some are with products that are owned outside of the OCTO Identity team, or even outside of the control of VA. The recommendations included here are not necessarily the only options to alleviate these areas of dissatisfaction.
 
 ### 1. Error messaging
    - A. VA.gov error messages should be updated or changed. In some cases they are not showing information that can be the most helpful, in at least one case an error may be routing to the wrong error page.
@@ -143,7 +168,7 @@ This might be an issue better suited for the SST (fka LGA) team, but we could ta
    - **Recommendation 3A.1**: There are some issues around out of data personal information. With the survey data we have, it’s a bit unclear if these are with the CSPs or on the VA side. We may want to dive deeper into this to better understand if and when veteran information on file with the VA (or in the MPI) is out of date. Further, if there are difficulties with updating this information and if there is a need for veterans to update their information at more than one place with the VA, or if each part of the VA shares updates with others. 
 Note: this may be a task better suited for the Secure Sign in Transition (SST) team (fka Login.gov adoption team) and/or the Authenticated Experience team
 
-### 4. Multi factor authentication issues and complaints
+### 4. Multi factor authentication difficulties
    - A. Folks with limited cell phone or data access (like with DoD jobs), certain disabilities (like blindness, physical or cognitive disability) or who had recently changed phone numbers (but MFA still sending to wrong number), felt locked out of their account at least at those given times
       - **Recommendation 4A.1**: It may be helpful for folks who can’t access their phones while at work for VA to promote alternative MFA methods. While this may help in some cases it’s unclear if any other than backup codes will work in a situation where a veteran doesn’t have access to phone, data, or the ability to connect an external device to GFE.
       - **Recommendation 4A.2**: It may be helpful if we increase the time from when veterans have to MFA from every authentication to something longer, like once a month, when signing in from the same device and IP. 
@@ -165,7 +190,7 @@ Here’s one page where we could begin
       - **See Recommendation 5A.2**: Update the USiP with language that better reflects the relationship. Example of how this might look below. We should work with this, further refine, usability test it, and then implement based on research findings.: https://www.figma.com/board/0YKeTCwBJKc47UU5WBliIL/Sign-in-experience?node-id=2-324&t=2VSxgH16vv8kKqxs-0
       - **Recommendation 5A.3**:  Encourage CSPs to add language that better explains this relationship
 
-### 6. UI updates to the sign in and verification alerts
+### 6. UI updates to existing sign in and verification alerts
    - A. Many forms and tools use the yellow colored alert, and a couple use blue, for directing folks who are signed in with LOA1/IAL1 to verify their account.
       - **Recommendation 6A.1**: Make sure these are consistent across the site unless there is a substantial reason otherwise.
    - B. Forms and tools pages place the verification alerts in different locations on the page: top, middle, bottom. 
