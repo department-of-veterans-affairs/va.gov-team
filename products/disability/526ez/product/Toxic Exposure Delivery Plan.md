@@ -72,7 +72,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 **Actual Delivery Date**:      
 **Environment**: Staging    
 **Building Blocks:**   
- - [ ] Create herbicide pages.
+ - [X] Create herbicide pages.
  - [ ] Create hazard pages.
  - [ ] Transform service on the first of each hazard in 15C and put these behind the Toxic Exposure feature flag.
  - [ ] Transform service on the first of each hazard in 15D and put these  behind the Toxic Exposure feature flag.
