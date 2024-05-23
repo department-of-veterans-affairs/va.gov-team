@@ -1,5 +1,24 @@
 # Sprint goals for Benefits Disability Experience Team 2 (DBEX-CARBS)
 
+## Sprint 30
+Period - 05/22/2024 to 06/04/2024
+  - Toxic Exposure Support
+    - Implement Flipper/Param on Front End
+    - IPF Update Requests support for includeTE attribute
+    - Rake Migration
+    - Validate Endpoint
+      - Validate Script (Stretch Goal)
+    - Backup Submissions
+  - Veteran Submitted Document Upload Silent Failure
+    - Send Email To Veteran on Failures
+    - Add list of documents to submission
+  - Missing ID Errors - Coordinated with Vet and Turned on in Prod
+  - Reporting Dashboard for 526 Failures (Stretch Goal)
+  - Remediation for Untouched Submissions
+  - Research - Discussion Guide for 0781
+  - Design - CAIA & VBA Review on 0781 wireframs
+  
+
 ## Sprint 29
 Period - 05/08/2024 to 05/21/2024
   - ITF Stop gap solution
