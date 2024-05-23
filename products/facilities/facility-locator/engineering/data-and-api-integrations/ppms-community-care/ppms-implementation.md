@@ -20,10 +20,12 @@ Facility Locator integrates with Community Care data, to display Community Care 
 ## Owners / Support
 PPMS team own the PPMS data / endpoints. 
 
-PPMS hosts PPMS Integration Office Hours:
-* Weekly on Tuesdays
-* 1pm ET
-* [MS Teams call link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA4M2RkOTItM2E4OS00MzY4LWFhZjctYjM1MTdhYTQ5NjI1%40thread.v2/0?context=%7b%22Tid%22%3a%22e95f1b23-abaf-45ee-821d-b7ab251ab3bf%22%2c%22Oid%22%3a%220af18ed8-f144-4baf-ae78-4bb0789af688%22%7d)
+[May 2024]
+* PPMS hosts **PPMS Integration Office Hours**:
+  * Meeting owner: ornella.gomez1@va.gov
+  * Weekly on Tuesdays, 1pm ET
+  * [MS Teams call link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWE3NjBmNTAtNDlhYS00ZTdjLWI1MWEtNzhiNzMwM2EzNmE0%40thread.v2/0?context=%7b%22Tid%22%3a%22e95f1b23-abaf-45ee-821d-b7ab251ab3bf%22%2c%22Oid%22%3a%222d38b465-c51a-412c-8e6b-a9d4843eff2b%22%7d)
+* **MS Team chat** for questions / updates: [Provider Profile Management System (PPMS) Community | General | Microsoft Teams](https://teams.microsoft.com/l/team/19%3A2zu7xoewCffgNQryaIqmG03z9SUhsGoJUPUSWa2vZUE1%40thread.tacv2/conversations?groupId=68e7db21-a328-4d8c-8275-78f4e736b046&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 
 
 ## Provider Core Training
