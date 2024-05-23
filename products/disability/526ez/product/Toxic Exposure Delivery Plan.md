@@ -54,7 +54,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 
 
 #### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E.
-**Estimated Duration**: Sprint 29 (4/10 - 4/23/24) - Sprint 31 (5/8 - 5/21/24) 
+**Estimated Duration**: Sprint 29 (4/10 - 4/23/24) - Sprint 31 (5/8 - 5/21/24)        
 **Actual Delivery Date**: Sprint 31 (5/8 - 5/21/24)       
 **Environment**: Staging    
 **Building Blocks:**     
