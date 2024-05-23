@@ -101,9 +101,12 @@ The CoP is a group of accessibility specialists and accessibility-minded designe
 Join us!
 
 ### Meetings
-- VA A11y Specialist Weekly Sync - all a11y specialists meet for community support and to discuss group topics (Thursdays at 12:30 ET) - Request to join.
-- VA A11y Specialist Office Hours - optional a11y specialist only calls for us to support one another on Fridays at 11 a.m. ET.
-- VA.gov 508 Monthly - opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans (3rd Wednesday at 4:00 ET) - [Request to join by reaching out to Martha](https://dsva.slack.com/archives/D04NHP2FGEP).
+- **VA A11y Specialist Weekly Sync** - all a11y specialists meet for community support and to discuss group topics (Thursdays at 12:30 ET).
+   - You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09).
+- **VA A11y Specialist Office Hours** - optional a11y specialist only calls for us to support one another on Fridays at 11 a.m. ET.
+   - You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09). 
+- **VA.gov 508 Monthly** - opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans (3rd Wednesday at 4:00 ET) 
+   - [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP).
 
 ### Slack channels
 These channels are a must-join for accessibility specialists at VA.gov:
