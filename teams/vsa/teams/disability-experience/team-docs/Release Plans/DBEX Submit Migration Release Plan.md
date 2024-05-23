@@ -140,19 +140,14 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase 
 #### Planning  
-- Date Started: 1/4/2024
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/70826
+- Date Started:
+- ZH Tracking:
 - Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
 - Anomalies
 - Rollbacks:
-    -       Rollback reason: Window of no traffic recorded, slightly higher overall error rate than expected based on EVSS side
-            Date: 1/5/24
-            Severity/Impact: Low
-            Ticket(s) created to address:
-            - [x] Has the issue been resolved?
-            - Found this was due to a calculation error for LH error volume. Composite error volume has not changed
+
 
 <br>
 
@@ -160,16 +155,11 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 ### Stage B: Moderate ramp up
 #### Planning  
 - Date Started:
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63660
-- Length of time: 3 days
+- ZH Tracking:
+- Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - Anomalies:
-    - AE team noted PPIU activity directing to EVSS via the v0 controller. Notably, we currently don't direct anything through the controller, nor does the AE team. Need to investigate.
-        -  The referrer for these logs is the 526 form, possible we may have missed a controller call.
-        -  Determined not to be caused by our migration, but will investigate separately via the IIR team
-    - Noting a drop in activity on 1/14, checking if there was maintenance or an outage
-        - It appears that activity wasn't entirely blocked as a few requests made it through
 - Rollbacks:
 
 
@@ -178,8 +168,8 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage C: Another moderate ramp up
 #### Planning
-- Date Started: Skipped
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64555
+- Date Started:
+- ZH Tracking:
 - Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
 #### Results  
@@ -191,42 +181,27 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-- Date Started: 1/16/24
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64556
-- Length of time: 1 week
+- Date Started:
+- ZH Tracking:
+- Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
 - Anomalies:
 - Rollbacks:
-    -       Rollback reason: 
-            Date: 1/17/24
-            Severity/Impact: Medium
-            Ticket(s) created to address:
-            - [x] Has the issue been resolved?
-            - Composite errors rose ~1%, notably with a volume of `#initialize_payment_information Failed to retrieve PPIU data from LighthousePPIUProvider: undefined method `gsub' for nil:NilClass`
-                - Determined not to be caused by our migration; appears to have always been a silent issue. Will investigate separately from rollout
-
 
 <br>
 
 
 ### Stage E: High traffic
 #### Planning
-- Date Started: 1/25
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
-- Length of time: 1 week
+- Date Started:
+- ZH Tracking:
+- Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
 #### Results  
 - Anomalies:
-    - Abnormally high volume of errors (~11%), almost all the known `gsub` error
 - Rollbacks:
-    -       Rollback reason: Though the gsub error occurs for both sides of the migration, the volume this time is concerning. Let's talk to platform and determine what we can do
-            Date: 1/29/24
-            Severity/Impact: Low
-            Ticket(s) created to address:
-            - [] Has the issue been resolved?
-                - Determined not to be caused by our migration; appears to have always been a silent issue. Will investigate separately from rollout
-
+   
 <br>
 
 
