@@ -342,6 +342,6 @@ We collect location of residence and postal code so we can route to the correct 
 
 ### Why do we collect this information?
 
-These VHA offices are national, versus being a medical facility. When they need to direct someone to a medical facility, the postal code helps them locate which facility would be best.
+These VHA offices are national, versus being a medical facility. When they need to direct someone to a medical facility, the postal code helps them locate which facility would be best. Also, the Caregiver Support Program requires the Veteran's postal code because it helps them provide local resources.
 
-Also, the Caregiver Support Program requires the Veteran's postal code because it helps them provide local resources.
+In the future we should seek to understand why we're always collecting Veteran postal code instead of the subject of the inquiry, who could be or not be the same as the Veteran.
