@@ -41,7 +41,7 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [ ] Post-launch questions
 
 ## Notes
-- Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25%
+- 
 
 - Potential Risks:
   - If LH breaks or our implementation is wrong, the user might not be able to submit because the translate action happens on the controller side. We would see it right away because we'd see user feedback right away because they wouldn't be able to submit. This is going to be part 2 of our dashboard (the #submit_all_claim dashboard would see that it's failed, and we could look to see if it's the direct_deposit call that's failing.) We'd see it right away because it's part of the foreground controller level rather than in a background job or prefill, etc. Mitigation would depend on the issue. Our only mitigation is our dashboards to see if a controller-level submission is failing. The code doesn't have any exception handling. 
@@ -55,16 +55,14 @@ TODO:
 
 ### Pre-release Testing
 - [x] Complete pre-launch tasks: N/A
-- [x] Inform Lighthouse about increased traffic for the direct deposit endpoint
-- [x] Complete manual testing with production credentials in Argo and ensure that our provider and factory are working
-- [x] Confirm K8 manifest repository has references to correct environment variable paths in AWS Parameter Store (dsvagovcloud)
+- [ ] Complete manual testing with production credentials in Argo and ensure that our provider and factory are working
 - [x] Create and execute a Testrail test plan
-    - Pre-test link: https://dsvavsp.testrail.io/index.php?/cases/view/52565
-    - Canary link: https://dsvavsp.testrail.io/index.php?/cases/view/52579
+    - Pre-test link: https://dsvavsp.testrail.io/index.php?/cases/view/76870
+    - Canary link: https://dsvavsp.testrail.io/index.php?/cases/view/52579 
 - [x] Complete Review Case below
 
 ### Review Cases
-- [x] Does the existing DataDog monitoring have sufficient coverage?
+- [ ] Does the existing DataDog monitoring have sufficient coverage?
 - [x] Have a successful TestRail test plan been executed?
 - [x] Do we have a point of contact on LH to coordinate with?
 - [x] Has the team reviewed and timeboxed the release intervals?
@@ -73,28 +71,28 @@ TODO:
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/69391
 - Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: PPIU/Direct Deposit](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4?refresh_mode=sliding&from_ts=1700158863442&to_ts=1700162463442&live=true)
-- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles (below list TBD):
     - Robin Garrison, @Robin Garrison
     - Rocio De Santiago @Rocio De Santiago - Coforma
-- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
     - If opting for asynchronous time:
-        - [x] Note individual scheduled dates and times next to each identified user
-        - [x] Note testing steps
+        - [ ] Note individual scheduled dates and times next to each identified user
+        - [ ] Note testing steps
             - [ ] Make sure your testing steps include recording useful information and when to record them. At a minimum , this is usually:
                 - Their current time, date, and timezone
                 - Whether they have an existing submission, ITF, RDs, etc.
                 - The city your browser is making the request from (useful for helping to identify them in qualitative logs)
                 - An example recording step would be:
                     10. On the first `/veteran-information` screen, please note the current time and date
-        - [x] Record testing steps in TestRail
-        - [x] Share testing steps with each user
-- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+        - [ ] Record testing steps in TestRail
+        - [ ] Share testing steps with each user
+- [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
 - [ ] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
 - [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
-- [x] Ensure qualitatively that the feature works as intended for users
+- [ ] Ensure qualitatively that the feature works as intended for users
 - [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
 - [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
