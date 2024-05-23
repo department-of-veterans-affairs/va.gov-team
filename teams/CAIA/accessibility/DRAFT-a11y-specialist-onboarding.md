@@ -105,6 +105,8 @@ Before going any further, read about how we do [Accessibility on VA.gov](https:/
 
 You should also watch our [Accessibility Orientation video](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation).
 
+Finally, [opt out of VA.gov analytics](https://www.va.gov/analytics-opt-out.html) on your work computer.
+
 ## Your role
 At VA.gov, accessibility responsibilities are split between product and support teams. Your role will differ depending on what team you're on.
 
@@ -180,7 +182,7 @@ These channels aren't required, but we recommend you join them. They'll give you
 
 And if you're embedded on a product team, you might want to follow channels from other teams in your Crew. For example, if you're on a Benefits team, you might want to follow other Benefits teams' channels! This will give you insight into what those teams are up to, and open up more possibilities for cross-team collaboration.
 
-### Slack notifications
+#### Notifications
 If you want to keep abreast of accessibility happenings across VA.gov, you can setup keyword flags such as “accessibility,” “a11y,” etc.
 - Navigate to: Preferences > Notifications
 - Use commas to separate each keyword. 
