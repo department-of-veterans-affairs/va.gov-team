@@ -48,6 +48,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
  * Great, I’m seeing your screen. Now I’m going to help you get the app ready.
 
 ### App Install & log in
+ * First thing we want to do is—if you're app user—is to remove the current version from your phone. (help them do that)
  * Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build](https://testflight.apple.com/join/65PnVx09)
  * If Testflight is not installed: 
    * Scroll to the first button that says “View in App Store”
