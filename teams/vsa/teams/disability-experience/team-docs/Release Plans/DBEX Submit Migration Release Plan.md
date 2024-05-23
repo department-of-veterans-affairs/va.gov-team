@@ -25,7 +25,6 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 Lighthouse has been made aware of these risks. Our focus for this test plan will be to raise our baseline confidence as much as we can with thorough testing and mock data in the preparation phase, followed by close monitoring and prompt incident responses during the rollout phase.
 
 ## Overview Checklist
-- Notes
 - [x] Phase I: Internal Testing and Review
     - [ ] Internal Testing and Review
     - [ ] Pre-release Testing
