@@ -24,8 +24,6 @@ Use your keyboard to move focus between interactive elements.
 
 Sighted mouse users often experience the page as a **continuous plane**. Imagine the path that your mouse takes as you're scanning the page looking for what you want. It's probably not a straight-line efficient path! Your mouse might wander, hover over something as you decide whether or not to click, or change directions in any direction.
 
-Open lGzK3jbL7tj8HdhJvBs9JWKyNO--99N-nxJbmRBxrEb7kdby33UMhpeo3o2bLWU4phheXkI8lMgo9kdwm4OW62mApt8UBakgJ8MuRBCl4NnYjkIs7nPR1RpeHYaOjGs9jeebDdsDTJZDdlBe
-
 ![VA Benefits and Health Care navigation menu open, with a meandering mouse path from Education and training to the Check your Post-9-11 GI Bill benefits link.](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135633989/e987be68-8993-4b4c-a157-8b78e6fd2d46)
 
 Keyboard users often experience the page as a **discrete linear path**. Each interactive element---links, buttons, form fields, etc.---is available as part of an ordered sequence. To get to a specific link in the navigation menu, there's a minimum number of times you have to press [Tab], moving through each item in the sequence.
