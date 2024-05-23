@@ -13,9 +13,6 @@ If you don't fit this description, this isn't the guide for you. Instead, visit 
 ## Welcome to VA.gov!
 We're thrilled to welcome you to VA.gov. VA cares deeply about accessibility, and the work you do here will help Veterans nationwide.
 
-### Onboarding (this needs a new title)
-something about...you'll get an onboarding ticket, you'll have to get set up in GH, Slack, might get GFE, it's a whole darn thing
-
 ### Just breathe.
 As you start your journey at VA, you may feel overwhelmed. _This is normal._ Accessibility is vital, but often difficult, work.
 
@@ -58,6 +55,25 @@ Remember, it's ok to...
 
 > Source: [GOV.UK Government Digital Service Blog](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/)
 
+## Get on board!
+Whether you're VA staff or a contractor, getting access to the VA systems and tools you need can take time. 
+
+_anything to add about staff? i don't know from that POV_
+
+As a **contractor**, you'll be in touch with a contracting officer (or "COR"), who'll help you get the process started. You'll need to create a GitHub account using your work email address too.
+
+Eventually, you'll be assigned to a Platform Orientation Template ticket in GitHub (see a [ticket example](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61472)). This ticket will take you through all the steps you need to onboard!
+
+At ths end of this process, you'll get:
+- A VA.gov email address
+- A way to connect to VA's VPN
+- Access to the VA GitHub organization
+- Access to the Office of CTO @ VA Slack workspace (also known as DSVA, or "Digital Services at VA")
+- Access to practice-specific tools that you may need to do your job
+
+This is going to take time. It can take a month, or even longer, to get fully onboarded. Your COR and product lead team will do everything they can to make the process go as smoothly and quickly as possible.
+
+**Note:** Some accessibility specialists use government-furnished equipment, or "GFE", to access VA systems or use Windows-only applications like JAWS. If you need GFE, talk to your product owner. It may already be included in your company's contract. And many VA contractors use their company computers for all, or the vast majority, of their work.
 
 ## VA.gov's approach to accessibility
 VA's [accessibility vision statement](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy#ModernizedVA.govAccessibilityStrategy-Vision) is clear:
