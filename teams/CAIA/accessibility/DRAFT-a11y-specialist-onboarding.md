@@ -177,7 +177,7 @@ Anyone working at the VA, with access to the DSVA slack channel, can become an a
 ### Tooling
 Learn what [tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md) to audit products on VA.gov. The list includes various plugins, extensions, and applications.
 
-(**Note:** If you have a GFE PC, you can install JAWS with a VA 508 Office license. Open a [ServiceNow ticket](https://yourit.va.gov/sp?id=va_sc_subcat%E2%8A%82id=a7ff40ec1b352850a25d0d08ec4bcb6f) to create a JAWS installation request.)
+(**Note:** If you have a GFE Windows PC, you can install JAWS with a VA 508 Office license. Open a [ServiceNow ticket](https://yourit.va.gov/sp?id=va_sc_subcat%E2%8A%82id=a7ff40ec1b352850a25d0d08ec4bcb6f) to create a JAWS installation request.)
 
 ### Figma
 If you use Figma, make sure to use our [accessibility annotations library](https://design.va.gov/about/accessibility/accessibility-annotations).
@@ -189,11 +189,15 @@ If you've been tasked with creating or remediating a PDF, check out CAIA's [guid
 
 [Section508.gov's Content Creation page](https://www.section508.gov/create/) has detailed information about making accessible documents, presentations, spreadsheets, and PDFs.
 
-### Accessibility Cookbook
-Accessibility specialists are creating handy "recipes" for our [Acessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md)! Review the proper use of headings, buttons, links, and ARIA.
+### Tricky accessibility issues
+Accessibility specialists have created guides on the following technical topics:
+- [Focus tracking](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/focus-tracking.md)
+- [Headings and accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md#headings-and-accessibility-best-practices)
+- [Buttons vs. links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md#choose-the-right-element-buttons-vs-links)
+- [When to use ARIA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md#when-to-use-aria)
 
-### mobile testing? tbi guide? AT pilot guide?
-hmmm
+### Mobile testing
+Learn how to [test websites on mobile devices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/mobile-accessibility-testing-guidance.md).
 
 ### any other resources??
-hmmm
+BUT WHAT?
