@@ -1,6 +1,7 @@
 ### Feature toggle updates
 | Percentage | Date       |
 | ---------: | ---------: |
+|         0% | 05/23/2024 |
 |        10% | 05/22/2024 |
 |         0% | 05/16/2024 |
 |        10% | 05/16/2024 |
@@ -13,6 +14,9 @@
 |         1% | 02/28/2024 |
 
 ## Updates
+#### 05/23/2024
+Found an issue where '1151 Denied' ratings are no longer being returned by Lighthouse. This is probably similar to the 'Not Service Connected' rating issue where these are being filtered out because they don't have an effective date
+
 #### 05/22/2024
 Lighthouse pushed their hotfix out on 05/20; going back to 10%
 
