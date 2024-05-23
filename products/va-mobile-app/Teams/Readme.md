@@ -1,8 +1,8 @@
-## VAHB PTEMS org Chart as of 05/27/23
+# VA Health and Benefits team organizational chart as of 05/27/23
 
-<img width="1169" alt="VA Health & Benefits Team Org Chart" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/1401704/e2cedb8d-bed9-44ff-930f-335a252dfbf1">
+<img width="1169" alt="VA Health and Benefits Team Org Chart" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/1401704/e2cedb8d-bed9-44ff-930f-335a252dfbf1">
 
-## VAHB Team Details 
+## VAHB Team Details
 
 | Mobile Team | Team Category| PM | Team | Focus | Team Ticket Label | Ceremonies | Slack Channel 
 | ------------| ----| ----| -----| -----| -------------| -----------|--------| 
@@ -11,9 +11,9 @@
 | Design System  | Shared Services |Kelly Lein | Narin (FE), Tim R (FE), Jessica (UX) | Define and standardize visual elements to be used by teams engaging in the VAHB App  | design-system  | Standup: Mon - Thurs 4pm |  va-mobile-app-design-system |
 | API  |Shared Services | Stacy Blackwood | Jayson (BE), Kris (BE) , Andrew (BE), Jason C (BE)| Team focuses on back-end engineering needs for other Mobile teams including integration, updating existing APIs due to upstream changes, etc  | | | va-mobile-api-engineering
 | QA and Release   | Shared Services| Adam Kasmier |Therese (QA for Global), Tom (QA for Health and Benefits), Rachael (QA for Design System / API/ floater), DevOps (not yet hired) | Bug ticket scrubbing, release management, release testing, ticket testing and validation  | QA and Release | Standup Monday / Wednesday 4pm  , Grooming - as needed for dept process debt, Retro - 4pm 3rd Thursday of the month , QA agents to attend all of their team’s ceremonies | va-mobile-app-qa| 
-| Veteran Status Contract Team | External |  Matt Reilly | Cara Frissell, Courtney Stubbert, Liz Townsend, | Veteran Status Contract work managed by Seth with PO's Rachel and Ryan. Dev work managed by Tim Wright|  veteran-status| Mobile team not provided direction on how to support this team when instructed to break into teams. Re-followed up with Seth / Tim on 12/6 via slack and no update | va-mobile-veteran-status-id | 
-
+| Veteran Status Contract Team | External |  Matt Reilly | Cara Frissell, Courtney Stubbert, Liz Townsend, | Veteran Status Contract work managed by Seth with PO's Rachel and Ryan. Dev work managed by Tim Wright|  veteran-status| Mobile team not provided direction on how to support this team when instructed to break into teams. Re-followed up with Seth / Tim on 12/6 via slack and no update | va-mobile-veteran-status-id |
 
 ## Cross Functional Team Meetings
-* Flagship / Shared Service - Every 2 Weeks on Tuesday at 3pm
-* Shared Service Team Sync - Every 2 Weeks on Thursdays at noon
+
+- Flagship / Shared Service - Every 2 Weeks on Tuesday at 3pm
+- Shared Service Team Sync - Every 2 Weeks on Thursdays at noon
