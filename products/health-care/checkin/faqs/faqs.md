@@ -23,4 +23,5 @@ Created: September 25, 2023 <br/>
 | **Does eCheck-in work if the same phone number is associated with more than 1 Veteran?** | Yes, it does work, but only if the two or more Veterans don't both have appointments on the same day. If they do, VEText will error out and they will be told via VEText upon texting "check in" to 53079 to check in at the desk with an MSA. |
 | **How are Pre-Check-in & Check-in links associated with an appointment?** | Pre-check-in links are associated with a specific appt or appt group, but check-in links do not have a specific appt association, there just has to be at least one appt eligible for check-in for a uuid/link to be created under the current business rules |
 | **What do you 3-digit & 5-digit station codes mean?** | Station with 3 digits would mean a VAMC and all sites that fall under that VAMC; Station with 5 digits is the unique facility either just the VAMC or a specific CBOC. |
+| **Why doesn't PCI display time zones eith appointment times?** | xx |
 
