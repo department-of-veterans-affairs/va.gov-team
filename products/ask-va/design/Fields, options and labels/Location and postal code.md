@@ -342,13 +342,11 @@ We collect location of residence and postal code so we can route to the correct 
 
  - Caregiver support program
 
-`AND VETERAN DECEASED =` NO
-
 `THEN` **Collect Veteran's postal code**
 
-| `IF TOPIC =`                | `AND VETERAN DECEASED =` | `THEN`                              |
-| ------------------------- | ---------------------- | --------------------------------- |
-| Caregiver support program | NO                     | **Collect Veteran's postal code** |
+| `IF TOPIC =`               | `THEN`                              |
+| ------------------------- | --------------------------------- |
+| Caregiver support program | **Collect Veteran's postal code** |
 
 ### Why do we collect this information?
 
