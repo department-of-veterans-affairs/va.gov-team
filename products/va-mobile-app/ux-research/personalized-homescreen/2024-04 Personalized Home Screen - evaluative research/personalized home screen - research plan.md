@@ -99,7 +99,7 @@ Remote sessions via Zoom
 
 #### Research materials
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md)
-* Pre-release build of the VA mobile app, distributed via Testflight
+* Pre-release build of the VA mobile app, distributed via Testflight: [link to iOS App build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#:~:text=link%20to%20iOS%20App%20build)
 * [Research session sign up sheet (DSVA Slack - Canvas)](https://dsva.slack.com/docs/T03FECE8V/F074PC9849F)
 
 <img width="250" alt="VA mobile app - Personalized home screen - loading" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/45246038/3bb18541-1700-4960-8b0c-cb8ca3777c7f">  
