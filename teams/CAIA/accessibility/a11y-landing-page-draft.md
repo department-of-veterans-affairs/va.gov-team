@@ -4,7 +4,7 @@ The goal of this page is to provide a well-organized clearinghouse of informatio
 
 The structure and content of this page is based on:
 - [CAIA's documentation content inventory](https://docs.google.com/spreadsheets/d/1YsMFmvgD4hEc93KTaTPJwvR5heHsCNgC3cwj53Eu3Ys/edit#gid=737007164)  
-- [CAIA's modeling exercise](https://airtable.com/app0xn5tf3PzkmRgN/tblRWeBHtjv1iaJbf/viwXbamm2X62BkHL5?blocks=hide)
+- [CAIA's modeling exercise](https://docs.google.com/spreadsheets/d/1oguxGyaTsvrvRdziPI50PQwQ2irLAs5OxNIy8fFdT_c/edit#gid=1908407637)
 
 Page draft starts below:
 
