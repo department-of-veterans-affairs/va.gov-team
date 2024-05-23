@@ -76,7 +76,7 @@ This study will give us insight into
 - How easy or difficult is it for Veterans to schedule their community care appointments using the new CC scheduling flow?
     - HYPOTHESIS: We expect Veterans to be able to easily find a provider and schedule an appointment.
   - **Referral page:** Do Veterans understand the information included on the Referral page and what it means for their scheduling options?
-    - HYPOTHESIS: We expect Veterans to understand the information included on their referral page, but they may not know what it means for scheduling options until arriving on the provider list.
+    - HYPOTHESIS: We expect Veterans to understand the information included on their referral page but may not know what this information means for scheduling options until arriving on the provider list. 
   - **Sort and filter:** How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
     - HYPOTHESIS: We hypothesize that Veterans will find it easy to use the sort/filter options, though they may not always notice the filter possibility without prompting.
   - **Review page:** Do Veterans understand the Review page information as it relates to their scheduling choices, and how to edit those choices?
