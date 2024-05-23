@@ -84,7 +84,7 @@ This study will give us insight into
 - What, if any, scheduling needs or preferences do Veterans have that are not currently addressed in the CC scheduling flow?
     - HYPOTHESIS: We anticipate that Veterans will expect more filtering options and additional provider information.
 
-
+--------
 
 ## Methodology
 
@@ -103,7 +103,7 @@ The study will be conducted online via Zoom.
 - Conversation guide
 - Recruitment ticket
 
-
+--------
 
 ## Recruitment
 
@@ -209,7 +209,7 @@ Screener Q7: Are there any additional accommodations we can provide to assist yo
 - No
 ```
 
-
+--------
 
 ## Timeline
 Planned dates of research: TBD (Approx: June 10-14)
@@ -257,7 +257,7 @@ Availability for sessions: TBD
 - Date
   - Time
 
-
+--------
 
 ## Team Roles
 - Moderators:
@@ -286,6 +286,6 @@ Availability for sessions: TBD
 
 Observers:
 
-
+--------
 
 ## Appendix
