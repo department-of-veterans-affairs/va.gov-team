@@ -21,7 +21,10 @@
   - https://coformaco.zoom.us/rec/share/NXjIziBXAebZD2adg4QWApak5QJafqu3t26I2-9edjT7CqNajGJ5kNv1DN_qRdJG.tYRlVFcgHcoVMvKH
     Passcode: &=h7HiKH
   - https://coformaco.zoom.us/rec/share/ug_3WYVuIdRWWdoLGuqTS78KmoQgkc461TbGCFGiwzagx69pzj8-yWVpqfBJW1c8.2OpcBzNGjnkT5VIr
-    Passcode: S3!v9guG
+    Passcode: S3!v9guG         
+- Meeting recording with Ligthhouse to discuss progress of synchronous submit endpoint:       
+  - https://us06web.zoom.us/rec/share/1R3KWDbfwI9MG9Ghgm1bXwbv63uyd61SYjItE8YDaCN_cv6OeQIeHb0v1fWTN8aw.4c20SnZ2xyuqD8Yi       
+    Passcode: d%Y&6hfh       
 
 ## Risks / Impediments
 - External dependency: Lighthouse /submit endpoint
