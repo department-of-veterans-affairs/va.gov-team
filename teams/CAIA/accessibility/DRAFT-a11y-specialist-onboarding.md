@@ -1,5 +1,20 @@
 # VA.gov accessibility specialist onboarding guide (WIP)
-Jamie Klenetsky Fay `last updated May 22, 2024`
+Jamie Klenetsky Fay `last updated May 23, 2024`
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+   * [Is this guide for me?](#is-this-guide-for-me)
+   * [Welcome to VA.gov!](#welcome-to-vagov)
+   * [Get on board!](#get-on-board)
+   * [VA.gov's approach to accessibility](#vagovs-approach-to-accessibility)
+   * [Your role](#your-role)
+   * [Join the Accessibility Community of Practice (CoP)](#join-the-accessibility-community-of-practice-cop)
+   * [Contacts](#contacts)
+   * [Improve your skills](#improve-your-skills)
+
+<!-- TOC end -->
+
+
 
 ## Is this guide for me?
 You're at the right place if you work on VA.gov (as an employee of VA or a contracting agency/consultancy), and:
