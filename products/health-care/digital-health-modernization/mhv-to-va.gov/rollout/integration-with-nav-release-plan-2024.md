@@ -65,7 +65,10 @@ See Appendix for a list of toggles uncovered during discovery. It would be helpf
 3. Secondary nav enabled by its own feature toggle on Appointments, Medications, Secure messages, and the MHV-on-VA.gov landing page
    - Toggle: `mhvSecondaryNavigationEnabled`
 4. MHV-on-VA.gov Landing page incorporates UX changes for integration (links to the tools on VA.gov (SM, Meds), content about Ph1 integration, etc.)
-   - Toggle: `mhvLandingPageEnableVaGovHealthToolsLinks` 
+   - Toggles:
+      - `mhvLandingPageEnableVaGovHealthToolsLinks`
+      - `mhvHelpdeskInformationEnabled` (Help Desk component)
+      - `mhvTransitionalMedicalRecordsLandingPage` (Medical records transitional page)
 5. MHV Classic deploys try-me changes
    - Toggle: N/A
 
