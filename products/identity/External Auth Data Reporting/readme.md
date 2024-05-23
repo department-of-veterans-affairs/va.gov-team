@@ -28,6 +28,7 @@ Here are the things we propose to report upon in the MVP:
 
 **Quantitative Data**
 - Monthly/Daily Active Users
+- Total Authentications
 - Latency / Time to Login
 - Credential Preference
    - Which CSP are people using to login per month?
@@ -35,6 +36,7 @@ Here are the things we propose to report upon in the MVP:
    - Mobile vs. desktop
 - Which pages see the most auths
    - Where are people initiating logins from?
+- True return % (maybe)
 
 **Qualitative Data**
 - User Intervention Required Errors
@@ -42,8 +44,6 @@ Here are the things we propose to report upon in the MVP:
      - An example of these types of errors are ones where a user has multiple active corp ids from the MPI response. MPI is the user information source of truth. They give us all the user attributes we need to determine if a user should be able to access something on va.gov. If MPI responds back to us with multiple active corp ids, we cannot allow the user to login to va.gov. The reason for this is that we have forms on va.gov that expect only one corp id to be present. If we allow the user object to contain two values then the form submission may get messed up downstream.
      - These types of errors have been called “catastrophic errors” in other circles. These types of errors require that a person call the help desk or fill out ticket in order to have something manually edited by a human to allow them to login to va.gov
 - Satisfaction/trust rating
-  - Determine what "good" looks like
-  - Determine what "bad" looks like
 - Feedback from users on whether they're able to do what they wanted
 
 ## Out of Scope: (for this iteration)
