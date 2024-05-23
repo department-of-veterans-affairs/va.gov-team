@@ -64,15 +64,15 @@ Understand what submitters need to learn when they review their question's detai
 ### Hypotheses
 
 1. People will generally understand the content within the cards without labels, like, 'Date submitted.'
-2. People may confuse the date submitted (H3, primary date) with the date last updated (secondary date).
+2. People may confuse the date submitted (H3, primary date) with the date last updated (secondary date) especially with date sorting.
 3. Certain statuses and icons will be difficult to understand without more description.
 4. It will be hard to identify which questions have a reply from VA.
 5. People will expect to be able to search in their dashboard using keywords in the question or category.
 6. People may only use the sorting feature when they have many cards.
-7. It will be straightforward to find the link to check details, but some people will think they can click on the entire card.
+7. It will be straightforward to find the link to check details, but some people will think they can click on the entire card or that it will open additional details on the same page.
 8. On the details page, people will scroll past details to look for a reply from VA.
-9. When they want to write a reply to VA, it will unintuitive to scroll back up to the reply.
-10. People who can't respond to VA will be unsure what to do if they have a follow up question or issue.
+10. The sequence of the page will feel unintuitive, with people scrolling around to read VA's reply, their question and their reply to VA.
+11. People who can't respond to VA will call or submit a new question if they have a follow up question or issue.
 
 ## Methodology
 
