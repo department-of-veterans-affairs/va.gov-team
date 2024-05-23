@@ -49,24 +49,24 @@
 - [ ] Discovery
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
-- [x] **Create Epi**
+- [x] Create Epic
 - [x] Create corresponding stories to align with the work needed (start with this list!)
 - [x] Initial design
      - [x] Lo-Fi design ideas
      - [ ] Presentation to Stakeholders and downstream system representatives
-- [x] **Submit Collaboration Cycle request ticket**
-     - [x] **Review Collaboration Cycle site**
-     - [x] **Start gathering artifacts (list above)**
-     - [x] **Maintain this checklist of artifacts, updating as they are shared**
-- [x] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x]Submit Collaboration Cycle request ticket
+     - [x] Review Collaboration Cycle site
+     - [x] Start gathering artifacts (list above)
+     - [x] Maintain this checklist of artifacts, updating as they are shared
+- [x] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [x] Present design and obtain feedback
-- [x] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x]bRequest Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
 - [x] Create prototype or basic working functionality in environments
 - [x] Create Research Plan and Conversation Guide
-- [x] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
-- [x] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Request Research Review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
      - [ ] Synthesize research findings
@@ -86,11 +86,11 @@
 - [ ] Complete QA and Accessibility QA
      - [ ] Complete QA with feature toggle enabled and disabled to confirm toggle effectiveness (Reference [Testing process notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Testing%20with%20the%20Feature%20Toggle.md))
      - [ ] [Accessbility QA ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)
-- [ ] **Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket**
-     - [ ] **Review findings with the team**
-     - [ ] **Create tickets for work to be completed before launch**
+- [ ] Request Staging Review - Refer back to the initial Collaboration Cycle Request ticket
+     - [ ] Review findings with the team
+     - [ ] Create tickets for work to be completed before launch
 - [ ] Create Usability and/or UAT research plan and conversation guide
-- [ ] **Request Research Plan review**
+- [ ] Request Research Plan review
 - [ ] Schedule Usability/UAT sessions with Perigean
 - [ ] Conduct Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
@@ -117,7 +117,6 @@
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets for design and/or development
-- [ ] **PM to sign up for an Impact review session to present the impact that the change has had on the product (~1 month after 100% launch)**
 
 
 </details>
