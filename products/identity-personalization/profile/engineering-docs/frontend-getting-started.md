@@ -1,6 +1,6 @@
-# Profile Application - Getting Started and General Overview
+# Profile Application - General Overview Getting Started Guide
 
-Update: November 21, 2023
+Update: May 22, 2024
 
 - [Purpose](#purpose)
 - [Overview](#overview)
@@ -14,23 +14,13 @@ Update: November 21, 2023
 The purpose of this document is to help a new Frontend software understand how to get started writing code for the Profile application and to give a general overview on how the application works. This document is a living work that will need updating, so feel free to contribute.
 
 
-
-
-
-
 ## Overview
-
-![Screen Shot 2022-12-12 at 12 46 36 PM](https://user-images.githubusercontent.com/8332986/207139860-ffa731e8-1407-4bed-9968-ad613f14c043.png)
-
 
 The Profile is an application that lives at va.gov/profile and serves user specific information like addresses, phone numbers, preferred name, direct deposit banking and more.
 
 From a technical standpoint it is a Single Page Application that utilizes features and libraries like the VA form system, Redux, Feature Toggles, and Lodash, to name a few.
 
 Each section or page of the profile has its own respective documentation which aims at giving a brief overview of how each page works, what api calls are made, and where in the files certain things like analytics events, error handling, and unique UI components can be found.
-
-
-
 
 
 
