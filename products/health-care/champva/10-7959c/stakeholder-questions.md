@@ -15,4 +15,6 @@
 |10|New|Health Insurance|Is there a limit to how many other insurances they can add? |yes|yes||
 |11|New|Health Insurance|What information are you intending to collect with the comments field on the other health insurance questions.<br/>Is there is specific information they'd like to collect? |yes|yes||
 |12|New|File Upload|If a person chooses to mail or fax their supporting docs in what is the best address and fax number to do so?|yes|yes||
+|12|New|Health insurance|We noticed that the the VA 1010EZ doesn't ask for a copy of the health insurance card. Is it absolutely neccessary to include one for the OHI cert or would providing an insurance name, effective date, policy holder name and the policy number (as it does on the 1010ez) suffice? |yes|yes||
+|12|New|Medicare|We noticed that the the VA 1010EZ doesn't ask for a copy of the medicare card. Is it absolutely neccessary to include one for the OHI cert or would providing an effective date and the Medicare claim number (as it does on the 1010ez) suffice? |yes|yes||
 
