@@ -124,7 +124,7 @@ ________________________________________________________________________________
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)   
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
-        - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
+        - 🟪 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
 
 </details>
