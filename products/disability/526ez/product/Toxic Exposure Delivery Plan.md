@@ -37,7 +37,7 @@
 - Internal dependency: completion of /generatePDF endpoint migration in backup submissions (team 2) 
 
 
-## Planned Delivery Timeline April 2024 - June 2024
+## Planned Delivery Timeline MVP Release April 2024 - July 2024
 This delivery plan is segmented into pieces of functionality that are available to view in staging as a cohesive end to end user experience. Based on the way the data is structured, it has been broken out to segment the different questions of column 4 of the 526ez as key milestones.  
 
 Sprints noted with an asterisk (*) will have flexible delivery completion, depending on the availability of the Lighthouse /submit endpoint. The official production release to users cannot occur without the /submit endpoint available in the production environment.
