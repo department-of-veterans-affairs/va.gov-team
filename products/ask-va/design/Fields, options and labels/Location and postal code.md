@@ -126,15 +126,15 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `AND question is about` The Veteran
 
-`THEN` **collect submitter’s location of residence**
+`THEN` **collect Veteran’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter’s postal code**
+`THEN` **collect Veteran’s postal code**
 
 | `AND`                        | `AND`                                            | `AND`       | `AND question IS about`         | `THEN`                                      | `&& ALSO IF Residence =` | `THEN`                         |
 | -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
-| Someone else’s VA benefits | I'm a connected to the Veteran through my work | work_role | The Veteran | **Collect submitter’s location of residence** | CA, NY, PA, or TX      | **Collect submitter’s postal code** |
+| Someone else’s VA benefits | I'm a connected to the Veteran through my work | work_role | The Veteran | **Collect Veteran’s location of residence** | CA, NY, PA, or TX      | **Collect Veteran’s postal code** |
 
 ### A general question
 
