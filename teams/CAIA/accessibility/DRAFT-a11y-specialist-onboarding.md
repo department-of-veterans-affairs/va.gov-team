@@ -58,43 +58,55 @@ Remember, it's ok to...
 
 > Source: [GOV.UK Government Digital Service Blog](https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/)
 
+
+## VA.gov's approach to accessibility
+VA's [accessibility vision statement](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy#ModernizedVA.govAccessibilityStrategy-Vision) is clear:
+> "That every disabled Veteran and caregiver has guaranteed access to equitable, easy to use, self-service tools without needing to request accommodations."
+
+To do this, VA aims to account for accessibility concerns at all stages of the development lifecycle - "accessibility beyond compliance." We do research with people with disabilities, annotate our designs, use and develop a robust design system, perform end-to-end testing, and provide means of accessiblility support for product teams. By doing this, we hope to create products that do more than conform to WCAG 2.2 success criteria - instead, making products with a solid user experience for _all_ users.
+
+Before going any further, read about how we do [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov).
+
 ## Your role
 At VA.gov, accessibility responsibilities are split between product and support teams. Your role will differ depending on what team you're on.
 
 ### Embedded on a product team
-If you're embedded on a product team (a "Veteran-facing service," or "VFS," team), your job is to ensure that your product(s) are as accessible as possible. You should aim to bake accessibility into the design and development process from the beginning ("shift left").
+If you're embedded on a **product team** (a "Veteran-facing service," or "VFS," team), your job is to ensure that your product(s) are as accessible as possible. You should aim to bake accessibility into the design and development process from the beginning ("shift left").
 
 Some embedded team members accessibility specialists, focusing purely on accessibility work. Others are accessibility-minded researchers, designers, developers, or product managers. 
  In all cases, you have a pivotal role to play in the accessibility of your team's work.
 
 ### Support: the CAIA team
-The Content, Accessibility, and Information Architecture team ("CAIA") is a sitewide support team. If you're on CAIA, your role is to support product teams as they build their products. To do this, you will:
+The **Content, Accessibility, and Information Architecture team** ("CAIA") is a sitewide support team. If you're on CAIA, your role is to support product teams as they build their products. To do this, you will:
 - Review products in the design phase for accessibility concerns
 - Conduct accessibility audits of products on staging and in production
 - Run assistive technology research pilots
 - Assist teams with assistive technology research sessions with participants with disabilities
 
 ### Support: the Governance team
-i need to write a description
- 
-## VA.gov's approach to accessibility
-some intro stuff from the landing page, then a link to the landing page for more detail?
+The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview) is where teams building products/features on VA.gov get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Any new tool, product, or page or substantial change to the user experience of an existing tool/product or page should go through the Collaboration Cycle. 
+
+The **Governance Team** owns the overall Collaboration Cycle process.
+
+If you're on the Governance team, you help ensure VFS teams build products that meet standards, are accessible, and align to create a consistent overall VA.gov experience. You'll review products at [touchpoints](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/touchpoints) across the development lifecycle and provide [feedback](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback) to VFS teams.
 
 
 
 ## Join the Accessibility Community of Practice (CoP)
 
-something about who we are
+We may be decentralized, but we're not alone! Together, VA's accessibility specialists form the **Accessibility Community of Practice (CoP)**. 
 
-then something about a11y champs
+The CoP is a group of accessibility specialists and accessibility-minded designers, researchers, and developers from across VA.gov. Members are from CAIA, Governance, and product teams alike. We support each other by answering questions, meeting on a regular basis, and sharing resources. We also help others by answering their accessibility questions on public Slack channels.
+
+Join us!
 
 ### Meetings
 - VA A11y Specialist Weekly Sync - all a11y specialists meet for community support and to discuss group topics (Thursdays at 12:30 ET) - Request to join.
 - VA A11y Specialist Office Hours - optional a11y specialist only calls for us to support one another on Fridays at 11 a.m. ET.
-- VA.gov 508 Monthly - opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans (3rd Wednesday at 4:00 ET) - Request to join by reaching out to Martha.
+- VA.gov 508 Monthly - opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans (3rd Wednesday at 4:00 ET) - [Request to join by reaching out to Martha](https://dsva.slack.com/archives/D04NHP2FGEP).
 
 ### Slack channels
-These channels are a must-join for accessibility specialist at VA.gov:
+These channels are a must-join for accessibility specialists at VA.gov:
 - [#a11y-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for a11y specialists) ⭐♿
 - [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other a11y fans)
 - [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for a11y help, join post accessibility training)
@@ -115,18 +127,50 @@ These channels aren't required, but we recommend you join them. They'll give you
 And if you're embedded on a product team, you might want to follow channels from other teams in your Crew. For example, if you're on a Benefits team, you might want to follow other Benefits teams' channels! This will give you insight into what those teams are up to, and open up more possibilities for cross-team collaboration.
 
 ### Slack notifications
-If you want to keep abreast of accessibility happenings across VA.gov, you can setup keyword flags such as “accessibility” “a11y” etc.,  so that you are alerted when these words are used in channels, DMs, etc. 
+If you want to keep abreast of accessibility happenings across VA.gov, you can setup keyword flags such as “accessibility,” “a11y,” etc.
 - Navigate to: Preferences > Notifications
 - Use commas to separate each keyword. 
 - Keywords are not case sensitive. 
    - **Examples:** Accessibility, accessible, audit, user research, ux, CAIA, user experience, a11y
 
-### Contacts
+
+## Contacts
 If you want to learn more about how accessibility works at VA.gov, reach out to:
 - [Martha Wilkes](https://dsva.slack.com/archives/D04NHP2FGEP)  OCTO - Accessibility Strategist/Designer [VA]
 - [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - CAIA - 508 Accessibility Specialist [Oddball]
 - [Brian DeConinck](mailto:brian.deconinck@adhocteam.us) - Platform/Governance - Accessibility Lead [Ad Hoc]
 - [Jeana Clark](https://dsva.slack.com/team/U049MQKDTT3) - Veteran Facing Forms, Accessibility Specialist (UX) [Ad Hoc]
 
-## Brush up your skills
-links out to resources of various types
+## Improve your skills
+
+### A11y Champs
+If you are new to the accessibility space, or know someone that is, check out the [Accessibility Champions Community ("A11y Champs")](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)! We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
+- co-design, curiosity, and community
+- centering the diverse voices of disabled Veterans, caretakers, and family members
+- asking questions first and learning from others
+
+Anyone working at the VA, with access to the DSVA slack channel, can become an accessibility champion through this curriculum.
+
+### Tooling
+Learn what [tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md) to audit products on VA.gov. The list includes various plugins, extensions, and applications.
+
+(**Note:** If you have a GFE PC, you can install JAWS with a VA 508 Office license. Open a [ServiceNow ticket](https://yourit.va.gov/sp?id=va_sc_subcat%E2%8A%82id=a7ff40ec1b352850a25d0d08ec4bcb6f) to create a JAWS installation request.)
+
+### Figma
+If you use Figma, make sure to use our [accessibility annotations library](https://design.va.gov/about/accessibility/accessibility-annotations).
+
+You can also use various [plugins](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/2023-Figma-Accessibility-Overview.md#accessibility-tool-comparison) to help check color contrast, readability, zoom, etc.
+
+### PDFs
+If you've been tasked with creating or remediating a PDF, check out CAIA's [guide to creating accessible PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
+
+[Section508.gov's Content Creation page](https://www.section508.gov/create/) has detailed information about making accessible documents, presentations, spreadsheets, and PDFs.
+
+### Accessibility Cookbook
+Accessibility specialists are creating handy "recipes" for our [Acessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/accessibility-cookbook.md)! Review the proper use of headings, buttons, links, and ARIA.
+
+### mobile testing? tbi guide? AT pilot guide?
+hmmm
+
+### any other resources??
+hmmm
