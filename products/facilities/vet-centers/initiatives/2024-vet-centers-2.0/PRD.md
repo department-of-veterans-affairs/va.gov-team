@@ -1,0 +1,16 @@
+# Vet Centers 2.0 Initiative PRD
+## Summary
+### Overview
+The Vet Centers 2.0 Initiative aims to enhance the digital presence and functionality of Vet Center pages on the VA website. Building on the foundational work of the 2020-2021 modernization initiative, Vet Centers 2.0 seeks to address feedback from editors and leadership by implementing new features and improvements that were previously out of scope. This initiative focuses on creating a more engaging, user-friendly experience for veterans while providing Vet Center staff with the tools they need to manage content effectively. Key goals include updating the look and feel of the pages, improving navigation, and integrating new functionalities to better serve the veteran community.
+### Priority
+TBD
+### Links and Files
+- [Initiative Brief](initiative-brief.md)
+- [Zenhub Project Roadmap](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/roadmap?project=z2lkoi8vcmfwdg9yl1byb2ply3qvnzyxmjg)
+- [Figma Design File](https://www.figma.com/design/EVd3q06ukAbVS61Q8MwRAT/Vet-Centers?node-id=1-900&t=WwD10sfXM6k6aZ32-1)
+## Stakeholders
+### Core Team
+- Product Manager - Michael Skinner ([@Agile6MSkinner](https://github.com/Agile6MSkinner))
+- VA Product Owner - Michelle Middaugh
+- Delivery Manager - Jill Adams
+- Design Lead - Dave Pickett
