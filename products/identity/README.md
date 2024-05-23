@@ -45,9 +45,8 @@ If a user logging into VA.gov has not verified their identity, we won’t get th
 
 Users signing in will have a Level of Assurance (LOA) based on whether they've [verified their identity](https://staging.va.gov/resources/verifying-your-identity-on-vagov/) with their CSP. Each CSP has its own [identity verification system](https://staging.va.gov/resources/verifying-your-identity-on-vagov/). The Identity team documents [policies for whether the user meets VA.gov requirements to access signed in attributes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Products/Design%20Documents/UserAttribute_Rules.md).
 
-Note: the way the government defines and talks about identity verification changes over time with new guidance. VA.gov currently uses Level of Assurance (LOA) terminology to talk about identity verification. You can find the [latest information from the National Institute of Standards and Technology (NIST) here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf).
-
----
+> [!NOTE] 
+> The way the government defines and talks about identity verification changes over time with new guidance. VA.gov currently uses Level of Assurance (LOA) terminology to talk about identity verification. You can find the [latest information from the National Institute of Standards and Technology (NIST) here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf).
 
 A user signing in with an LOA1 account can save information that isn’t sensitive. A common use case for LOA1 is an application that only requires saving in-progress forms. Users logging into applications that deal with sensitive information would require LOA3 accounts. Common use cases for LOA3 would be VA.gov applications that deal with financial or health data.
 
@@ -72,7 +71,7 @@ Any product involving identity should review the relevant [identity error handli
 
 ## **Requesting support from the Identity Team**
 
-**Support resources:**
+### Support resources
 
 - Read our [authentication troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) to resolve common errors.
 - Check out [self-service documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md) from our team and our partners.
@@ -82,7 +81,7 @@ Any product involving identity should review the relevant [identity error handli
     - [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/.github/ISSUE_TEMPLATE/1dentity-product-support.yml): for data requests, SiS information and onboarding, or new projects.
 - Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
-**Contact our team:**
+### Contact our team
 
 - Slack channel: [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN)
 - Product managers:
@@ -92,6 +91,8 @@ Any product involving identity should review the relevant [identity error handli
     - Tom Black ([thomas.black2@va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/thomas.black2@va.gov))
     - Samara Strauss ([samara.strauss@va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/samara.strauss@va.gov)).
 
-**Additional resources:** The Identity team will assist VA.gov application teams during the initial client application integration and provide support as detailed [in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md).
+### Additional resources
+The Identity team will assist VA.gov application teams during the initial client application integration and provide support as detailed [in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md).
 
-**Feedback:** Have you worked with the Identity team before? [Share your feedback](https://dj540s05.optimalworkshop.com/questions/52low0ey) 🙏
+### Feedback 
+Have you worked with the Identity team before? [Share your feedback](https://dj540s05.optimalworkshop.com/questions/52low0ey) 🙏
