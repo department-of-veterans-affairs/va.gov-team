@@ -68,9 +68,10 @@ No best bets for these, we will have a best bet for the CHAMPVA static page.    
 ## <a name="stagedrollout"></a>Staged Rollout<br>
 *Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
 
-Not sure yet, asked the team and will update here.
+Yes, will be doing staged rollout.
 
 **[Which static page has the widget, ie the main entry point?]**
+- the static champva page
 
 
 
