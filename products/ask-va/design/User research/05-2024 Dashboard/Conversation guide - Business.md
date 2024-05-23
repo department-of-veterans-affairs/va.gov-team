@@ -298,5 +298,5 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ## Approved by:
 
-- [PENDING] Becky Phung, PO on [TBD]
-- [PENDING] Shane Strassberg, VA Research Ops on [TBD]
+- Becky Phung, PO on May 21, 2024
+- Shane Strassberg, VA Research Ops on May 22, 2024
