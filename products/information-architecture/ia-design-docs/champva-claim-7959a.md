@@ -41,6 +41,8 @@ See most up-to-date user flow in mural [here](https://app.mural.co/t/departmento
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
 ![Screenshot 2024-05-20 at 11 14 07 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/82f9a413-94a6-4742-9bd4-cb37cb90ff67)
 
+THE LEFT NAV IS CURRENTLY BEING DEBATED as of 5/23/24, so this is not final.
+
 2. **MODIFY Find-a-Form page**
   - Placement description: we’ll need to add a link to the new online form from this page.
   - Link label: TBD by content
