@@ -89,6 +89,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 **Actual Delivery Date**:            
 **Environment**: Production          
 **Building Blocks:**      
+- [ ] Schedule weekly Lighthouse touchpoints through release.
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
      - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
      - [ ] Submit dashboard    
