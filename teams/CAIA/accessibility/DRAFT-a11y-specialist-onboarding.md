@@ -100,7 +100,10 @@ We do research with people with disabilities, annotate our designs, use and deve
 
 By doing this, we hope to create products that do more than conform to WCAG 2.2 success criteria - instead, making products with a solid user experience for _all_ users.
 
-Before going any further, read about how we do [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov).
+### Read this first 
+Before going any further, read about how we do [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov) and how to follow accessibility standards while using the [VA Design System](https://design.va.gov/about/accessibility/).
+
+You should also watch our [Accessibility Orientation video](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation).
 
 ## Your role
 At VA.gov, accessibility responsibilities are split between product and support teams. Your role will differ depending on what team you're on.
@@ -109,22 +112,28 @@ At VA.gov, accessibility responsibilities are split between product and support 
 If you're embedded on a **product team** (a "Veteran-facing service," or "VFS," team), your job is to ensure that your product(s) are as accessible as possible. You should aim to bake accessibility into the design and development process from the beginning ("shift left").
 
 Some embedded team members accessibility specialists, focusing purely on accessibility work. Others are accessibility-minded researchers, designers, developers, or product managers. 
- In all cases, you have a pivotal role to play in the accessibility of your team's work.
+
+In all cases, you have a pivotal role to play in the accessibility of your team's work!
+
+Learn more about what different product teams do:
+- The [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) lists all products VFS teams work on and includes information about each product, its product owner, and what Crew it belongs to.
+- There's a weekly "Team of Teams" meeting, where all product teams share brief updates. You can join the [#team-of-teams-slide-collection](https://dsva.slack.com/archives/C031S5G29LP) Slack channel to review teams' updates.
+- This [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712621865931/3fea15c7e9e02e067a628b1384dac54f4006bbdb?sender=u1c2b512a71f68e7b5a5c0324) shows how VFS teams are organized. It's a bit out of date, but should give you a good place to start! 
 
 ### Support: the CAIA team
 The **Content, Accessibility, and Information Architecture team** ("CAIA") is a sitewide support team. If you're on CAIA, your role is to support product teams as they build their products. To do this, you will:
 - Review products in the design phase for accessibility concerns
 - Conduct accessibility audits of products on staging and in production
-- Run assistive technology research pilots
+- Run [assistive technology research pilots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md)
 - Assist teams with assistive technology research sessions with participants with disabilities
+Review CAIA's full [menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/README.md#services-we-offer) to learn more.
 
 ### Support: the Governance team
 The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview) is where teams building products/features on VA.gov get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Any new tool, product, or page or substantial change to the user experience of an existing tool/product or page should go through the Collaboration Cycle. 
 
 The **Governance Team** owns the overall Collaboration Cycle process.
 
-If you're on the Governance team, you help ensure VFS teams build products that meet standards, are accessible, and align to create a consistent overall VA.gov experience. You'll review products at [touchpoints](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/touchpoints) across the development lifecycle and provide [feedback](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback) to VFS teams.
-
+If you're on the Governance team, you help ensure VFS teams build products that meet standards, are accessible, and align to create a consistent overall VA.gov experience. You'll review products at [touchpoints](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/touchpoints) across the development lifecycle and provide [feedback](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/must-should-and-consider-framework-for-feedback) to VFS teams using our [defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric).
 
 
 ## Join the Accessibility Community of Practice (CoP)
@@ -142,8 +151,15 @@ Join us!
    - You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09). 
 - **VA.gov 508 Monthly** - opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans (3rd Wednesday at 4:00 ET) 
    - [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP).
+- **CAIA Office Hours** - the CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!
+   - [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
 
-### Slack channels
+### Slack
+
+#### Profile
+Please keep your Slack profile up to date. It helps us know who you are, what you do, and what team you work on. Follow these [Slack profile guidelines](https://depo-platform-documentation.scrollhelp.site/getting-started/slack-profile).
+
+#### Channels
 These channels are a must-join for accessibility specialists at VA.gov:
 - [#a11y-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for a11y specialists) ⭐♿
 - [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other a11y fans)
@@ -194,17 +210,24 @@ Anyone working at the VA, with access to the DSVA slack channel, can become an a
 ### Tooling
 Learn what [tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/tools-we-use.md) to audit products on VA.gov. The list includes various plugins, extensions, and applications.
 
+We also recommend installing the new [VA page checker Chrome extension](https://github.com/Mottie/va-page-checker), which highlights design system components and accessibility issues on VA.gov pages.
+
 (**Note:** If you have a GFE Windows PC, you can install JAWS with a VA 508 Office license. Open a [ServiceNow ticket](https://yourit.va.gov/sp?id=va_sc_subcat%E2%8A%82id=a7ff40ec1b352850a25d0d08ec4bcb6f) to create a JAWS installation request.)
 
 ### Figma
 If you use Figma, make sure to use our [accessibility annotations library](https://design.va.gov/about/accessibility/accessibility-annotations).
 
-You can also use various [plugins](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/2023-Figma-Accessibility-Overview.md#accessibility-tool-comparison) to help check color contrast, readability, zoom, etc.
+You can also use Figma [plugins](https://www.figma.com/community/tag/a11y/plugins/free) to help check color contrast, readability, zoom, etc.
 
 ### PDFs
 If you've been tasked with creating or remediating a PDF, check out CAIA's [guide to creating accessible PDFs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/create-accessible-PDF.md).
 
 [Section508.gov's Content Creation page](https://www.section508.gov/create/) has detailed information about making accessible documents, presentations, spreadsheets, and PDFs.
+
+### Forms
+Use these resources to create accessible forms on VA.gov:
+- [Mock form patterns](https://staging.va.gov/mock-form-patterns/introduction)
+- [Design system form components](https://design.va.gov/components/form/)
 
 ### Tricky accessibility issues
 Accessibility specialists have created guides on the following technical topics:
