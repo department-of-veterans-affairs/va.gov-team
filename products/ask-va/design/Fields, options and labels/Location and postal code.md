@@ -1,6 +1,6 @@
 # Location of residence and postal code
 
-Last updated by @tygindraux: April 26, 2024
+Last updated by @tygindraux: May 23, 2024
  
 The rules are described in the following sections:
 - [Contact preference](#contact-preference)
@@ -73,7 +73,7 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN`** collect Veteran’s postal code**
+`THEN` **collect Veteran’s postal code**
 
 | `AND`                        | `AND`             | `THEN`                                    | `&& ALSO IF Residence =` | `THEN`                       |
 | -------------------------- | --------------- | --------------------------------------- | ---------------------- | -------------------------- |
