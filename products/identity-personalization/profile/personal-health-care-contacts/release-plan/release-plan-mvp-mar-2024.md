@@ -111,61 +111,20 @@ Decided to ramp up to 50% of users on 4/22, 2 weeks into 20% release above.
 
 #### Results
 
-- Number of unique users: [FILL_IN]
+- Number of unique users: 20k unique pageviews
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+  - we monitored user feedback via survey responses
+  - the one issue uncovered was that the phone number we provided couldn't actually change contact info. We changed the product to tell users to contact their medical facility instead.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: very small handful of 4xx and 5xx, well within expected range
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? 
+  - As anticipated based on research, users want to edit their contacts directly within the product instead of having to call or visit VA
 
 ### Stage D: 100% of users
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: 5/15/2024 forward (indefinite)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-## Post Launch metrics
-
-Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
-
-### 1-week results
-
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
-
-### 1-month results
-
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
-
-## Post-launch Questions
-
-*To be completed once you have gathered your initial set of data, as outlined above.*
-
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-1. What qualitative feedback have you gathered from users or other stakeholders?
-1. Which assumptions you listed in your product outline were/were not validated?
-1. How might your product evolve now or in the future based on these results?
-1. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
 
 
