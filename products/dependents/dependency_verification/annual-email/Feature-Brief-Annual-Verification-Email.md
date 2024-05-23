@@ -76,7 +76,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- [Figma file]([https://www.sketch.com/s/149b2ccf-af21-4c71-9ca8-2ef2ae8af9fc](https://www.figma.com/file/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?type=design&node-id=0%3A471&mode=design&t=ZI4OYosb4SgJfNhs-1))
+- [Figma file](https://www.figma.com/file/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?type=design&node-id=0%3A471&mode=design&t=ZI4OYosb4SgJfNhs-1)
 - Once a year, email all Veterans with dependents on their benefits
 - Test messaging and gather feedback to adjust email copy as needed
 - Develop additional email messages to fit other use cases (e.g., reminder to update dependent when they turn 18)
