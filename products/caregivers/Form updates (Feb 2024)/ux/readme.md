@@ -69,5 +69,9 @@ Content standards are to avoid gendered language whenever possible. We discussed
 ------
 
 
-### Tickets
+### UX Tickets
 
+- [UX] 10-10CG - Form Update: Update Designs with agreed changes #78497
+- [CAIA intake] Updates to 10-10CG Caregiver Application #81190
+- [UX] 10-10CG Content Review Process for Form Updates #81922
+- [UX] 10-10CG June Form Updates - Stakeholder Content Check Docs #83393
