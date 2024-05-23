@@ -16,7 +16,7 @@ Period - 05/22/2024 to 06/04/2024
   - Reporting Dashboard for 526 Failures (Stretch Goal)
   - Remediation for Untouched Submissions
   - Research - Discussion Guide for 0781
-  - Design - CAIA & VBA Review on 0781 wireframs
+  - Design - CAIA & VBA Review on 0781 wireframes
   
 
 ## Sprint 29
