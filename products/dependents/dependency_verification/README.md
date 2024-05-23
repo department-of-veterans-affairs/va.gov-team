@@ -66,20 +66,23 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - [Pop-Up Modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/dependency-verification/modal/modal-README.md)
    - Launched: Cancelled in 2021 
 - [Annual Reminder Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/annual-email/Feature-Brief-Annual-Verification-Email.md)
-   - Launched: Target February 2024 
+   - Launched: Target February 2024, rework in progress to expand the solution to provide [an option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md) to submit a "no" response and auto-generate an 0538 form via VA.gov
+- [Dependent Verification Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
+   - Launched: Target July 2024 
 
 --- 
 ### Key Decisions
-- A [pop-up modal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/modal) to prompt Veterans to update their dependent information was developed for VA.gov in 2021, but it was considered too disruptive to the VA.gov experience, so it not launched. 
+- 2021: A [pop-up modal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/modal) to prompt Veterans to update their dependent information was developed for VA.gov in 2021, but it was considered too disruptive to the VA.gov experience, so it not launched.
+- March 2024: The annual reminder email was postponed after feedback from David Reis and others that VA.gov needed a mechanism to capture if a Veteran had no changes to their dependent info by auto-generating and submitted a 21-0538 form. 
 
 ---
 
 #### Communications
 - Team Name: Benefits Non-Disability Experience
-- GitHub Label: #tree
-- Slack channel: #benefits-ce-non_disability_exp
+- GitHub Label: #tree, #dependents-benefits
+- Slack channel: #benefits-dependents-management
 - Product POCs: 
-- Stakeholders: Brandi Traylor (VBA Dependent Team)
+- Stakeholders: Brandi Traylor (OBA), David Reis (OBA), Kayce White (Comp Service)
 
 
 #### Team Members
