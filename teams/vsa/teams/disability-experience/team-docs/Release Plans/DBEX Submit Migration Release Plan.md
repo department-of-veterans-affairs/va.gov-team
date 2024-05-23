@@ -66,8 +66,8 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - [x] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/69391
-- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: PPIU/Direct Deposit](https://vagov.ddog-gov.com/dashboard/pfj-tf3-mb4?refresh_mode=sliding&from_ts=1700158863442&to_ts=1700162463442&live=true)
+- ZH Tracking:
+- Links to dashboard showing "success criteria" metrics: [Benefits DBex EVSS-to-LH: Submit Dashboard](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1713893055262&to_ts=1716485055262&live=true)
 - [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles (below list TBD):
     - Robin Garrison, @Robin Garrison
