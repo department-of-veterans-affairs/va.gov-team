@@ -284,9 +284,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability<a id="availability"></a>
 
-- Monday 10 AM – 4 PM EST
-
-- Wednesday - Friday 10 AM – 4 PM EST
+Monday - Friday 10 AM – 4 PM EST
+- Unavailable Tuesday 06/11, please do not schedule this day.
 
 
 ## Team Roles<a id="team-roles"></a>
