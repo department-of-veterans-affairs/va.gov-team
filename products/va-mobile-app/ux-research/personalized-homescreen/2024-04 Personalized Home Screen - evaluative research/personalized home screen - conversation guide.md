@@ -90,7 +90,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * For the next part of our conversation, we’re going to use the VA mobile app we just installed. 
 * Go ahead and do what you would do on this screen, and when you get to the screen with the letters “VA” at the top, stop and wait for instructions. 
 ### Task 0: First impressions (5 minutes)
-* Go ahead and explore this first screen.
+* Without touching/tapping anything, please go ahead and explore this first screen.
   * **Non-screenreader user:** You can scroll up and down, but don’t touch anything yet. And please remember to think aloud as you go.
   * **Screenreader user:** You can swipe through, but don’t tap or activate anything that you hear yet. When you’re finished, please let me know and I’ll have you give a brief summary of what you heard. 
 * What stands out to you first on this screen?
@@ -194,7 +194,7 @@ Validate the participant uses the VA Health and Benefits app and get permission 
 * Looking over this screen again, do you think this first screen would be helpful to you in your life or not?
   * *If yes:* Can you walk us through a situation in your life right now where you can imagine using it, and explain how this screen would help you?
   * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express.
-* Do you think you might use it in the future?
+* Is there something that you don't yet use the app to do, but that you think this first screen might help you do in the future?
 * *If they don’t mention the activity section:* Looking at that Activity section again, is there anything that you think would be helpful to see here in this section that you don’t see now?
 
 ## Section 4: Thank-You and Closing (5 minutes)
