@@ -109,6 +109,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] Product guide updated.
  - [ ] Contact center review.
  - [ ] Rollback plan in place.
+ - [ ] Submit & generatePDF release will update Veterans to using the 2022 PDF with Toxic Exposure questions.
 
 
 ## Next: In Progress Form (IPF) Post-MVP
