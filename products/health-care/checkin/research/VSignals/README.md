@@ -35,7 +35,20 @@
     1. Update the analysis dates.
     2. Update the Mobile Check-in and General Check-in graphs with the latest versions.
     3. Update the list of Notable Comments to include a few important comments you highlighted this reporting period. 
-8. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
+8. Create a GitHub summary that follows the format of the last one
+    - If you want to use the VSignalsCommentCopier spreadsheet macro to auto-generate the flagged comments into markdown, see [How to use the VSignalsCommentCopier macro](#how-to-use-the-vsignalscommentcopier-macro)
+10. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
+
+## How to use the VSignalsCommentCopier macro
+- Download the VSignalsCommentCopier spreadsheet
+- Download the main VSignals spreadsheet to which you added the new data
+- Copy the new data from the main VSignals spreadsheet to the VSignalsCommentCopier spreadsheet
+    - NOTE: if you attempt to copy from the online copy, the cells will get messed us because a lot of comments have line breaks in them
+- Run the macro in the VSignalsCommentCopier spreadsheet that copies comments
+    - Choose a location to save the txt file
+    - Click OK when you get the message that the process is complete
+- Ooen the txt file and copy all of the txt to your new GitHub document
+    - Make sure any PHI/PII is masked with for example PII_NAME or PII_PHONE
 
 <details>
     <summary>OLD PROCESSES</summary>
