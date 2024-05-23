@@ -24,6 +24,12 @@
     - Need to filter on these templates
      ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/9ba56a3d-a978-4f45-a63f-c355aa647556)
 
+## GA 4
+- [Metric Reporting for Stakeholders](https://docs.google.com/spreadsheets/d/1dj3CpR-wLljqydLhwO4GEgvmzLBOUSHIqxM1LIYmHTc/edit#gid=934915008)
+- [PCI Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
+     - NOTE: In Progress, GA4 not fully migrated
+- [PCI Funnels](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8tsu4m2kR5eLtCmD9xzRcA)
+     - NOTE: In Progress, GA4 not fully migrated- 
 
 ## Google Analytics
 - Requires Google Analytics account. [Request access to Google Analytics](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/new-users-to-google-analytics#NewUserstoGoogleAnalytics-HowtogetaccesstoGoogleAnalytics). <br/> <br/>
