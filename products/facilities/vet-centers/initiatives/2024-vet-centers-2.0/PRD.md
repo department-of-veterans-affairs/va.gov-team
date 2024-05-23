@@ -9,8 +9,33 @@ TBD
 - [Zenhub Project Roadmap](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/roadmap?project=z2lkoi8vcmfwdg9yl1byb2ply3qvnzyxmjg)
 - [Figma Design File](https://www.figma.com/design/EVd3q06ukAbVS61Q8MwRAT/Vet-Centers?node-id=1-900&t=WwD10sfXM6k6aZ32-1)
 ## Stakeholders
+### Users
 ### Core Team
 - Product Manager - Michael Skinner ([@Agile6MSkinner](https://github.com/Agile6MSkinner))
 - VA Product Owner - Michelle Middaugh
 - Delivery Manager - Jill Adams
 - Design Lead - Dave Pickett
+### Adjascent Units
+| Team | Functions |
+|------|-----------|
+| CAIA |  |
+| IIR |  |
+| RCS |  |
+## Epic-Level Requirements
+| Name                    | User Story                                                                                                                            | PRD Link | Epic Link                                                                                                                                        |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Distinct Design         | As a visitor to a Vet Center page, I would like the page to have a distinct look so that I do not mistake it for a health center page |          | [17893](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/issues/gh/department-of-veterans-affairs/va.gov-cms/17893)|
+| Satellite Location Pages |  |  | |
+| Events Support | | | |
+| Link Visibility | | | |
+| Reusable Q&A | | | |
+## Constraints and Risks
+### Assumptions
+- Thing 1
+- Thing 2
+### Dependencies
+- Thing 1
+- Thing 2
+### Risks
+- Thing 1
+- Thing 2
