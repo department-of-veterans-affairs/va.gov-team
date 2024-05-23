@@ -12,11 +12,11 @@ We help teams set up and monitor a secure signed in experience for VA.gov applic
 
 **Table of Contents**
 
-1. [Signing in](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.gn8fjcwpw3je) to VA.gov
-2. [Connecting to Veteran records](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.mbepeopa0ld)
-3. [Understanding verified identity](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.wzumt188cz7u)
-4. [Planning and testing identity](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.w6ep776k4okl)
-5. [Requesting support from the Identity team](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.ojwegxhrqaav)
+1. [Signing in](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#signing-in-to-vagov) to VA.gov
+2. [Connecting to Veteran records](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#connecting-to-veteran-records)
+3. [Understanding verified identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#understanding-verified-identity)
+4. [Planning and testing identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#planning-and-testing-identity)
+5. [Requesting support from the Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#requesting-support-from-the-identity-team)
 
 ## **Signing in to VA.gov**
 
@@ -37,7 +37,7 @@ Sign-in CTAs for all of our CSPs appear in the upper-right corner of the header 
 
 The [Master Persons Index (MPI) is a VA database](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Documents/MPI/VA_MPI_Service_Description.pdf) managed by our VA partners in Identity and Access Management (IAM). For example, MPI connects the user signing in to their VA profile and dashboard. This displays personal information and actions in flight with the VA.
 
-For [verified users](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.wzumt188cz7u), we’ll get back a [list of attributes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md) from MPI that you can use in your VA.gov application. You can view [reference documentation for authenticated endpoints here](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser).
+For [verified users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#understanding-verified-identity), we’ll get back a [list of attributes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md) from MPI that you can use in your VA.gov application. You can view [reference documentation for authenticated endpoints here](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser).
 
 If a user logging into VA.gov has not verified their identity, we won’t get these responses. It’s important to plan for both scenarios when [testing your authentication integration](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.w6ep776k4okl). Learn more about identity verification and testing identity below.
 
