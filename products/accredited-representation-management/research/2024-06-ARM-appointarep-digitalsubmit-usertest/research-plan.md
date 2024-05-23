@@ -242,11 +242,11 @@ Study Description: We’re conducting interviews to understand your experience s
 
 - [ ] TBD / Complete pilot session
 
-- [ ] 06/05 - 06/14 / Conduct interviews
+- [ ] 06/05 - 06/18 / Conduct interviews
 
-- [ ] 06/17 - 07/04 / Analysis and reporting
+- [ ] 06/20 - 07/10 / Analysis and reporting
 
-- [ ] 07/05 / Final presentation
+- [ ] 07/12 / Final presentation
 
 Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
 
@@ -270,7 +270,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions<a id="research-sessions"></a>
 
-- Planned dates of research: 06/05 - 06/14
+- Planned dates of research: 06/05 - 06/18
 
 
 ### Length of sessions<a id="length-of-sessions"></a>
