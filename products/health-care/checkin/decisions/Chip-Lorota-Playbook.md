@@ -1,6 +1,8 @@
 
 # On call patient check-in and Chip & Lorota Response Playbook
 
+## DEPRECATED Using [Tier 3 team Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/docs/PCI%20API%20Tier%203%20Team%20Playbook.md) instead
+
 
 ### Table of Contents
 1. [CHIP & Lorota API Incident Response Overview](#overview)
