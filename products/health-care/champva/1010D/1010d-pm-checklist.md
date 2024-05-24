@@ -4,13 +4,13 @@
 <details>
 
 ### Product Team
-- OCTO-DE Product Lead: Patrick Bateman
-- Product Manager: 
+- OCTO-DE Product Lead: Premal Shah
+- Product Manager: Bo Altes
 - FE Engineer: 
 - BE Engineer: 
 - Designer:
 - Researcher:
-- Slack channel: #1010-health-apps
+- Slack channel: #ivc-forms
 - GitHub tag:
 
 </details>
