@@ -2,7 +2,7 @@
 name: Health IA Tracker
 about: For documenting IA work specifically in the authenticated Health space
 title: '[Health IA intake:] TASK OR FEATURE NAME'
-labels: sitewide CAIA, Sitewide IA, my-health, Cartographers
+labels: sitewide CAIA, sitewide IA, my-health, Cartographers
 assignees: sterkenburgsara
 
 ---
