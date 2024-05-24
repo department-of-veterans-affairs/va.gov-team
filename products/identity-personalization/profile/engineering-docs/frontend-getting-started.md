@@ -1,6 +1,6 @@
 # Profile Application - General Overview Getting Started Guide
 
-Update: May 22, 2024
+Update: May 24, 2024
 
 - [Purpose](#purpose)
 - [Overview](#overview)
