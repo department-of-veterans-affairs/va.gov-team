@@ -167,7 +167,7 @@ Study Description: We’re conducting interviews to understand your experience s
 
    - _2+ representatives_
 
-   - _1 representatives_
+   - _1 representative_
 
    - _I have never worked with a representative_
 
