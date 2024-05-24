@@ -110,6 +110,7 @@ ________________________________________________________________________________
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - **NOTE: We need to schedule staging review**
         - **NOTE: Once we are done with the new landing page minus the upcoming appointments, we need to schedule a demo for Kay/Kristen/Stephen to see if they want us to release it**
+             - **SUB-NOTE: Prior to OCTO review, meet as CIE team to demo and review if release has added value to Veterans, knowing that interdependent features were removed, e.g., upcoming appointments**
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
         - 🟩 [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
