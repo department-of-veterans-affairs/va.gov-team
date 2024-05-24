@@ -1,5 +1,14 @@
 ## In-Person Identity Proofing Pilot Stakeholders
 
+### VA Medidcal Centers
+
+Baltimore VA Medical Center selected by recommendation of Jeannette Bruno
+
+Simon Doquang, MHV Coordinator
+
+Luis M. Kranwinkel
+
+
 ### Office of Connected Care (Virtual Health Resource Centers)
 
 #### Initial POC
