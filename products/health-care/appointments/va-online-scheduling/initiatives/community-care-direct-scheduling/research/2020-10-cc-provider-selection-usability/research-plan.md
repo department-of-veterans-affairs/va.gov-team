@@ -49,6 +49,7 @@ This study will give us insight into
   - **Referral page:** Do Veterans understand the information included on the Referral page and what it means for their scheduling options?
   - **Sort and filter:** How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
   - **Review page:** Do Veterans understand the Review page information as it relates to their scheduling choices, and how to edit those choices?
+- Do Veterans expect to find information in this tool for providers that DO NOT offer online scheduling (in order to schedule by phone)?
 - What, if any, scheduling needs or preferences do Veterans have that are not currently addressed in the CC scheduling flow?
 
 ### Hypotheses
@@ -81,6 +82,8 @@ This study will give us insight into
     - HYPOTHESIS: We hypothesize that Veterans will find it easy to use the sort/filter options, though they may not always notice the filter possibility without prompting.
   - **Review page:** Do Veterans understand the Review page information as it relates to their scheduling choices, and how to edit those choices?
     - HYPOTHESIS: We hypothesize that Veterans will understand the information on the Review page and know how to edit their choices.
+- Do Veterans expect to find information in this tool for providers that DO NOT offer online scheduling (in order to schedule by phone)?
+  - HYPOTHESIS:We hypothesize that, even if they cannot select a date and time for the provider, Veterans expect to find information on all eligible providers they can choose from, regardless of if they need to schedule via phone.  
 - What, if any, scheduling needs or preferences do Veterans have that are not currently addressed in the CC scheduling flow?
     - HYPOTHESIS: We anticipate that Veterans will expect more filtering options and additional provider information.
 
