@@ -148,19 +148,25 @@ VA staff
 
 Research will be conducted at the following Virtual Health Resource Center Site:
 
-Fayetteville VA Medical Center
-Building 21
-1100 North College Avenue
-Fayetteville, AR, 72703
+Baltimore VA Medical Center
 
-*Exact office location TBD* 
+10 North Greene Street
 
-The Virtual Health Resource Center was identified as the optimal partner for the in-person site given their preparedness to provide in-person support for digital services. Virtual Health Resource Centers also have MHV coordinators on staff at select sites, ensuring we have the optimal candidates for the proofing agent role. 
+Baltimore, MD 21201-1524
+
+Phone numbers
+
+Main phone: 410-605-7000
+
+Mental health care: 410-605-7417
+
+Fourth Floor Office
+
 
 ### Point of contact
 
-Burchfield, Robin G. (FAV) <Robin.Burchfield@va.gov>
-Svendsen, Helene K. (FAV) <Helene.Svendsen@va.gov>
+Doquang, Simon
+Kranwinkel, Luis M.
 
 ### Equipment used for research
 Space signage
@@ -284,7 +290,7 @@ Available during scheduled sessions
 Complete surveys
 
 ### Timeline
-May 20-23, 2024
+June 10-13
 Prepare
 Materials finalized by May 10, 2024
 
@@ -293,31 +299,21 @@ Please indicate the date and name of a mock participant for a pilot session.
 * Date and time of pilot session: May 10, 2024: 12-1pm ET
 
 ### Research sessions
-May 20-23, 2024
-Available hours for scheduling: 
+June 10-13
 
-Monday, May 20:
+#### Available hours for scheduling: 
 
-11am-2pm ET
+Monday, June 10th: 8am-4pm ET
 
-3-5pm ET
+Tuesday, June 11th: 8am-4pm ET
 
-Tuesday, May 21:
+Wednesday, June 12th: 8am-4pm ET
 
-9am-1pm ET
-
-Wednesday, May 22:
-
-9-11am ET
-
-12-2pm ET
-
-Thursday, May 23:
-
-9am-12pm ET
+Thursday, June 13th: 8am-4pm ET
 
 
-Length of sessions
+
+### Length of sessions
 Veterans will be scheduled for 2 hour sessions 
 VA staff will be notified of the scheduled sessions ahead of time to ensure their availability
 
