@@ -25,6 +25,7 @@
 
 ### Engagements
 
+* [June 10, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/June%2010%2C%202024.md)
 * [April 1, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/April%201%2C%202024.md)
 * [December 18, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/December%2018%2C%202023.md)
 * [October 3, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/Business%20lines/GI%20Bill/October%203%2C%202023.md)
