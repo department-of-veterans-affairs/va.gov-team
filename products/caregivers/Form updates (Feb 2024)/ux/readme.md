@@ -65,6 +65,10 @@ Content standards are to avoid gendered language whenever possible. We discussed
 - SIGI field in CARMA, but MPI uses Birth Sex field for legal identity traits - If this inforamtion is not provided, it prevents a health record from being created - A health record is created for all Caregivers (Primary and both Secondary) - Working with VA LGBTQ+ contacts & MPI for advisement - Eventually being standardized across VA - Workaround until standard update is implemented - Veteran and Caregivers can provide SIGI with CG staff
 - Link provided in chat - https://www.patientcare.va.gov/LGBT/docs/FAQ-BirthSex-SelfIdentifiedGenderIdentityFactSheet.pdf
 
+**Multiple Responses List-and-loop Pattern**
+
+- This just recently became a pattern available in the forms library vs a custom experimental pattern
+- There are slight differences between the custom solution and what is available, will determine in ticket #83290 next steps
 
 ------
 
@@ -75,3 +79,4 @@ Content standards are to avoid gendered language whenever possible. We discussed
 - [CAIA intake] Updates to 10-10CG Caregiver Application #81190
 - [UX] 10-10CG Content Review Process for Form Updates #81922
 - [UX] 10-10CG June Form Updates - Stakeholder Content Check Docs #83393
+- [UX, FE] 10-10CG - Improvements: Exploration on adding List & Loop pattern on Secondary Caregiver section #83290
