@@ -185,7 +185,7 @@ ________________________________________________________________________________
         - ✔️ 🟩 [[FE] - Details check-in button skips flow](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/82974)
         - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
         - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
+        - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
         - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
         - ✔️ 🟩 [[FE][bug] - Setting and getting pre-check-in complete is broke for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83223)
     - **Sub Goal: Analyze current metrics to see what they tell us**
