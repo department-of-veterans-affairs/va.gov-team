@@ -119,6 +119,7 @@ TK TK
 - April 2024: Kick-off
 - April 18, 2024: Design Intent
 - May 21, 2024: Midpoint Review
+- May 29, 2024: CAIA a11y Pilot
 - ____: Usability Study
 - ____: QA
 - ____: Staging Review
