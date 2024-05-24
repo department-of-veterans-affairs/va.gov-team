@@ -37,14 +37,14 @@ Strike
 | Q4      |                      |                       |                     |                         |
 
 #### Platform Satisfaction
-We send out a survey to our portal and API users quarterly to measure satisfaction
+We send out a survey to our portal and API users quarterly to measure satisfaction: Very Satisfied (5) Satisfied (4) Neutral (3) Unsatisfied (2) Very Unsatisfied (1)
 
-| Quarter | Score |
-|---------|-------|
-| Q1      |       |
-| Q2      |       |
-| Q3      |       |
-| Q4      |       |
+| Quarter | Average Score |
+|---------|---------------|
+| Q1      | 4.36          |
+| Q2      |               |
+| Q3      |               |
+| Q4      |               |
 
 #### API Throughput
 Proof of concept performance comparison of v2 and v3 endpoints
