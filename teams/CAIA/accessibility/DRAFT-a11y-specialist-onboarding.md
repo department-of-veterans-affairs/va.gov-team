@@ -1,9 +1,19 @@
 # VA.gov accessibility specialist onboarding guide (WIP)
-Jamie Klenetsky Fay `last updated May 23, 2024`
+Jamie Klenetsky Fay `last updated May 24, 2024`
+
+
+> [!IMPORTANT]
+> This guide is for you if:
+> - You work on VA.gov (as an employee of VA or a contracting agency/consultancy), AND
+> - You are an accessibility specialist, OR
+> - You spend at least 50% of your time on accessibility-related work
+> 
+> If you don't fit this description, visit [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov).
+
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+## Table of contents
 
-   * [Is this guide for me?](#is-this-guide-for-me)
    * [Welcome to VA.gov!](#welcome-to-vagov)
    * [Get on board!](#get-on-board)
    * [VA.gov's approach to accessibility](#vagovs-approach-to-accessibility)
@@ -13,17 +23,6 @@ Jamie Klenetsky Fay `last updated May 23, 2024`
    * [Improve your skills](#improve-your-skills)
 
 <!-- TOC end -->
-
-
-
-## Is this guide for me?
-You're at the right place if you work on VA.gov (as an employee of VA or a contracting agency/consultancy), and:
-- You are an accessibility specialist, OR
-- You spend at least 50% of your time on accessibility-related work
-
-We'll call both groups "accessibility specialists" collectively throughout this document.
-
-If you don't fit this description, this isn't the guide for you. Instead, visit [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov).
 
 ## Welcome to VA.gov!
 We're thrilled to welcome you to VA.gov. VA cares deeply about accessibility, and the work you do here will help Veterans nationwide.
