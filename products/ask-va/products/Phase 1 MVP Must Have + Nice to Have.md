@@ -21,14 +21,14 @@ Last updated by @beckyphung on October 30, 2023
 |Update UI to reflect the VA Design System|x|||
 |Make it mobile-friendly|x|||
 |Make it desktop-friendly|x|||
-|Conduct initial research with submitters to test form sequence, design and content with Sketch prototype|||x|
-|Conduct research with submitters to usability and accessibility with coded prototype in staging (dependency on engineering)|x|||
+|Conduct research with submitters to test form sequence, usability, design and content with Figma prototypes||x||
+|Conduct research with assistive technology users, including screen reader users, in staging |x|||
 |Additional iterative research based on findings||x||
 |508 Compliant (Acceptance criteria: Go through collab cycle)|x|||
 |When inquiry data is collected on VA.gov, the implementation will send this data to Dynamics CRM for the agents to work on the inquiry|x|||
 |Understand current routing rules|x|||
-|Removal of fields||x||
-|Update link to new Ask VA from existing VA.gov pages and other VA applications refer users to Ask VA|x|||
+|Removing “Reason you’re contacting us” and “Gender” Fields||x||
+|Update link to new Ask VA from existing VA.gov pages. Other VA applications refer users to Ask VA |x|||
 |Add new Ask VA link to pages that currently don’t contain Ask VA link but have their category in the Ask VA form||x||
 |Add new Ask VA link to pages that currently don’t contain Ask VA link and don’t have their category in Ask VA|||x|
 
@@ -46,17 +46,18 @@ Last updated by @beckyphung on October 30, 2023
 
 |Feature or task|Must have|Nice to have|Not in scope|
 |:--|:--:|:--:|:--:|
-|Bringing the existing AVA Dashboard up to VA.gov design standards on a page in VA.gov using the card component|x|||
+|Bringing the existing AVA Dashboard up to VA.gov design standards|x|||
 |Sunset the existing AVA Dashboard|||x|
-|Changing the content provided in the existing AVA Dashboard when we go live with new AVA Dashboard on VA.gov page|x|||
-|Review designs with School Certifying Officials (SCOs)|x|||
-|Be able to filter/sort the inquiries|x|||
+|Changing the content provided in the existing AVA Dashboard when we go live with new AVA Dashboard on VA.gov page |x|||
+|Conduct research to review the usability, searchability and content in the dashboard |x|||
+|Be able to filter/sort the inquiries (current functionality)|x|||
 |Be able to view replies to inquiries from agents (current functionality)|x|||
 |Be able to separate (and hide) business and personal inquiries|x|||
-|NEW: Be able to view archived inquiries|||x|
-|NEW: Be able to search submitter questions (replies, response)|||x|
-|NEW: Notification in card UI when you have a new reply|x|||
-|NEW: Be able to view conversation (question and replies) on one page|x|||
+|Be able to view archived inquiries|||x|
+|Be able to search submitter questions (replies, response)|||x|
+|Label in card UI when you have a new reply |x|||
+|Be able to view conversation (question and replies) on one page and print||x||
+|Be able to save in-progress submissions||x||
 
 ## Profile
 
@@ -65,7 +66,7 @@ Last updated by @beckyphung on October 30, 2023
 |Pull submitter’s data from VA Profile to pre-fill information for a section of AVA|x|||
 |Submitters are able to click a button to go to VA Profile to update their information and then return to the same spot on AVA||x||
 |Submitters should able to temporarily update the fields in AVA but this should NOT update information in VA Profile|x|||
-|Sunset the existing AVA Profile: No migration of data, no comparison between this and VA Profile)|x|||
+|Sunset the existing AVA Profile: No migration of data, no comparison between this and VA Profile)(NOTE THIS WILL BE UPDATED - based on input from Chris C. ) |x|||
 
 ## Notify
 
