@@ -59,11 +59,12 @@ Opening a details page is considered a mini subtask, and will take on <- Back to
  **4) Refill prescriptions - NEW**
 - URL: www.va.gov/my-health/medications/refill
 - Breadcrumb:
-  - desktop: VA.gov home > My HealtheVet > Medications > Refill prescriptions
-  - mobile: < Medications
+  - desktop: VA.gov home > My HealtheVet > About medications > Refill prescriptions
+  - mobile: < About medications
 - Title tag: Refill prescriptions - Medications | Veterans Affairs
 
 ## <a name="nav"></a>Entry points <br>
+_See also user flow and breadcrumb documents linked above in this document_
 
 * My HealtheVet link in global sitewide header > My HealtheVet home page > Medications tool
 * My HealtheVet link in global sitewide header > My HealtheVet home page > Medications link in secondary navigation
