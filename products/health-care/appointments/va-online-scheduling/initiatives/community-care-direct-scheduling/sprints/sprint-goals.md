@@ -18,11 +18,11 @@ ________________________________________________________________________________
       
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 5/29/2024 - 6/11/2024 </summary>
+
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 8 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 8 - 5/29/2024 - 6/11/2024 - CURRENT SPRINT
+
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
@@ -57,11 +57,11 @@ ________________________________________________________________________________
          - 🟦 [[FE] Choose a date & time (page)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611)
 
 
+   
 </details>
+______________________________________________________________________________________________________________________________________________________
 
-________________________________________________________________________________________________________________
-
-## SPRINT 7 - 5/15/2024 - 5/28/2024 - CURRENT SPRINT
+## SPRINT 7 - 5/15/2024 - 5/28/2024
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
@@ -113,7 +113,7 @@ ________________________________________________________________________________
 </details>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 6 - 5/1/2024 - 5/14/2024 - CURRENT SPRINT
+## SPRINT 6 - 5/1/2024 - 5/14/2024
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
