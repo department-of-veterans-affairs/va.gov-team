@@ -93,8 +93,8 @@ ________________________________________________________________________________
          - ✔️ 🟦 [Mock wellHive Network endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82390)
          - ✔️ 🟦 [Mock wellHive SpecialtyGroup endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82396)
          - ✔️ 🟦 [Mock wellHive ProviderOrganization endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82392)
-         - 🟦 [Mock wellHive ProviderService endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82394)
-         - 🟦 [Mock wellHive Referral endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82393)
+         - ✔️ 🟦 [Mock wellHive ProviderService endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82394)
+         - ✔️ 🟦 [Mock wellHive Referral endpoint](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82393)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - ~🟥 [[Content] Review and finish content draft](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/81767)~
          - ✔️ 🟥 Attend Design Office Hours and get feedback from Platform
