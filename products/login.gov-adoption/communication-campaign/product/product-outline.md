@@ -36,7 +36,6 @@ Ensure adherence to the following directives and guidelines for identity verific
  [VA’s 6510 directive](https://www.va.gov/vapubs/viewPublication.asp?Pub_ID=824&FType=2)
 [NIST 800-63](https://csrc.nist.gov/pubs/sp/800/63/4/ipd)
 
-- Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision).
 - Our work will put Veterans first.
 - Our work will consider the full Veteran experience — from logged out to logged in, from online to offline.
 - When we know information concerning Veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
