@@ -6,7 +6,7 @@
 
 ## Calendar
 
-[Public URL to UAE UX Google Calendar](https://calendar.google.com/calendar/embed?src=uae-ux-calendar%40agile6.com&ctz=America%2FNew_York)
+[Public URL to View UAE UX Google Calendar](https://calendar.google.com/calendar/embed?src=uae-ux-calendar%40agile6.com&ctz=America%2FNew_York)
 
 ### What should go on the calendar
 
@@ -15,7 +15,7 @@
 
 ### How to subscribe
 
-- Go to the [Subscribable Google Calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20)
+- Go to the [Subscribable Google Calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20) for Google Calendar users 
 - Select Subscribe
   
 ### How to add an OOO
