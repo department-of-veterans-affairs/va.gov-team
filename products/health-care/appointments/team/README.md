@@ -12,6 +12,7 @@
 
 - OOO's
 - Meetings where not all UAE UXers are required to attend (because of the subject matter), but surfacing for/if any interested UAE UXers or other VFS, OCTO team members
+- Cross UAE-product meetings
 
 ### How to subscribe (using Google Calendar)
 
