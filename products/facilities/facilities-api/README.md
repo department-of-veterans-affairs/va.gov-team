@@ -12,7 +12,12 @@ Current versions:
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
 
 ## Data sources
-- Lighthouse Facilities API (/va endpoint)
+- Lighthouse Facilities API (/va endpoint) -- Lighthouse centralizes data from a variety of other upstream sources, including: 
+  - [**VHA**] VAST: source of truth for VHA facility locations, hours, status (open vs. closed), including VA Medical Centers, VA Clinics, and all types of Vet Centers. 
+  - [**VBA**] Sandy's DB: source of truth for VBA facility locations, hours, status (open vs. closed). Sandy's DB is manually maintained by Michelle Middaugh. Long-term: Sandy's DB will be deprecated when VBA facility information is fully migrated to Drupal, modernized facilities are launched, and Drupal becomes source of truth.
+  - [**NCA**] cem.va.gov: The NCA TeamSite, cem.va.gov, hosts two XML files that Lighthouse scrapes for NCA records, below, and LH augments that data with some fields pulled from CDW via the table SQL40.BISL_GIS_SpatialData.[DOEx].[v_FacilityLocator_NCA]:
+    - national.xml which contains all National VA Cemeteries 
+    - cems.xml which has State, Local, and Tribal Cemeteries
 - PPMS / Community Care (/ccp endpoint)
 
 ### vets-API Facilities API v1
