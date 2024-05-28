@@ -15,7 +15,7 @@ TBD
 - VA Product Owner - Michelle Middaugh
 - Delivery Manager - Jill Adams
 - Design Lead - Dave Pickett
-### Adjascent Units
+### Impacted Teams
 | Team | Functions |
 |------|-----------|
 | CAIA |  |
