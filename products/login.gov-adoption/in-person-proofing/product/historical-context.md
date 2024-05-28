@@ -80,4 +80,4 @@ Usability test results
 - [Subject Matter Expert Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing/research/2023-12-in-person-proofing-pilot-SME%20Interviews) (December 2023)
 - [Usability testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Veterans/2023-12-in-person-proofing-pilot-Veteran-usability-test) (December 2023)
 - [Usability testing with MHV Coordinators](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Proofing%20Agent/2024-1-in-person-proofing-pilot-proofing-agent-usability-test) (January 2024)
-- ([Mid January sprint demo](https://docs.google.com/presentation/d/1u1Z8_eI9GDZv0QcVYkQvZCAj0xVz6rLY/edit#slide=id.g2b013ced771_0_11))
+- [Mid January sprint demo](https://docs.google.com/presentation/d/1u1Z8_eI9GDZv0QcVYkQvZCAj0xVz6rLY/edit#slide=id.g2b013ced771_0_11)
