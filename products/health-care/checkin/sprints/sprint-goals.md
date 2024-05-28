@@ -61,7 +61,9 @@ ________________________________________________________________________________
         - 🟦 [[Analytics] Enable travel claim by station widget to show past 1 year of metrics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82313)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
         - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
-- **GOAL: Address Tech Debt**    
+- **GOAL: Address Tech Debt**
+
+Write up tickets per page for mocks 
 
 </details>
 
