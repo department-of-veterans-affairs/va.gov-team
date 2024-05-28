@@ -169,6 +169,7 @@ May 2024: VYE Team and Platform decided to wait until after VYE launch on VA.gov
 ### Updated architecture diagram that shows the involved systems and how they connect 
 [Full Architecture Diagram.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/15355298/Full.Architecture.Diagram.pdf)
 ![Full diagram screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/c3b8cd67-4e5b-4b60-bffb-a90682fec1be)
+![DataDog info](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/8132ca95-3003-42a5-9492-ba4865e6f3d0)
 
 
 #### Communications
