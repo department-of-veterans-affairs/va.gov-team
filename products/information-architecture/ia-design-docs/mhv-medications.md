@@ -42,7 +42,7 @@ The launch of medications to Phase 1 will coincide with all tools that are in Ph
 - URL: www.va.gov/my-health/medications/
 - Breadcrumb: 
   - desktop: VA.gov home > My HealtheVet > About Medications > Medications
-  - mobile: < My HealtheVet
+  - mobile: < About medications
 - Title tag: Medications | Veterans Affairs
 - Notes: [On 6/30 in Slack](https://dsva.slack.com/archives/C04DRS3L9NV/p1688070170040299) we decided that the breadcrumbs will act as if the 'about' landing page page is a parent of medications list, but the page will not be an official parent of medications from a URL standpoint. 
 
