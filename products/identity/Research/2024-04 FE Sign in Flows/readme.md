@@ -19,6 +19,7 @@ We are conducting secondaray research in order to familiarize ourselves and orie
 - [troubleshooting error messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a080cd1dd0794ad802780ea59cdf68c6cf8edadf/products/identity/Troubleshooting_logging/troubleshooting_signin.md)
 - [sign in widget content updates made by CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76785)
 - [VA Design system for alerts](https://design.va.gov/components/alert#sign-in-or-tool-prompt)
+- [USiP and Sign in Modal histroy](https://www.figma.com/design/yGC1vsspe41pSFSUBOto8s/VA.gov-Sign-in-Modal-Redesign?node-id=0-1&t=xSTk1cmEpto4CTwy-0)
 
 
 ## Research Goals:
