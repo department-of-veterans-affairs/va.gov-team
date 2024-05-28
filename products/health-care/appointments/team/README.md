@@ -11,7 +11,7 @@
 ### What should go on the calendar
 
 - OOO's
-- Meetings where not all UAE UXers are required to attend, but surfacing for any interested UAE UXers or other VFS, OCTO team members
+- Meetings where not all UAE UXers are required to attend (because of the subject matter), but surfacing for/if any interested UAE UXers or other VFS, OCTO team members
 
 ### How to subscribe
 
