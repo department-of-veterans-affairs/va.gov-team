@@ -20,4 +20,4 @@
 - Set status to Free
 - Set time to all-day event
 - Add uae-ux-calendar@agile6.com
-- With UAE-UX-CALENDAR selected in My Calendars, find the event and accept the invite
+- With UAE-UX-CALENDAR selected in My Calendars, find the event and accept the tentative meeting invite
