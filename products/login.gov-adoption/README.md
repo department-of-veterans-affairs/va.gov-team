@@ -94,4 +94,4 @@ August 2023 - Present
 
 ### How we work
 
-* [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md)
+* [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/onboarding/team-charter.md)
