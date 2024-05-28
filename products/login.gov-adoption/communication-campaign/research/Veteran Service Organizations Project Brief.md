@@ -1,5 +1,9 @@
 
-# Veteran Service Organizations Project Brief | DEPRIORITIZED, focus on VA staff and Veteran stakeholders at VAMCs
+# Veteran Service Organizations Project Brief 
+
+>[!WARNING]
+>  Deprioritized, focus on VA staff and Veteran stakeholders at VAMCs
+
 
 ## Background 
 
