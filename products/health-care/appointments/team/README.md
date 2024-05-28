@@ -13,12 +13,12 @@
 - OOO's
 - Meetings where not all UAE UXers are required to attend (because of the subject matter), but surfacing for/if any interested UAE UXers or other VFS, OCTO team members
 
-### How to subscribe
+### How to subscribe (using Google Calendar)
 
 - Go to the [Subscribable Google Calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20) for Google Calendar users 
 - Select Subscribe
   
-### How to add an OOO
+### How to add an OOO (using Google Calendar)
 
 - Create a new event
 - Title the event as First Name OOO
