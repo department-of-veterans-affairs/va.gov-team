@@ -28,6 +28,8 @@ ________________________________________________________________________________
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/83490)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
+        -     - **Sub Goal: Discovery - Multiple Selection of Appts**
+        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 
 </details>
 
@@ -69,6 +71,7 @@ Write up tickets per page for mocks
 
         - 🚧 (Overcommitted) 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
         - 🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
+        - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)     
 
 </details>
 
@@ -115,8 +118,7 @@ ________________________________________________________________________________
         - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
         - 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
         - 🟩 [Update eCheck-in Application for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
-    - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
+
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - **NOTE: We need to schedule staging review**
@@ -130,8 +132,6 @@ ________________________________________________________________________________
         - 🟩 [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
         - 🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)
-
-        - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)     
 
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
