@@ -81,7 +81,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-         - 🟨 [[Research] Socialize research plan and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82836)
+         - ✔️ 🟨 [[Research] Socialize research plan and address feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82836)
          - ✔️ 🟥 [[DESIGN] Finalize Figma Prototype(s) for Research](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83566)
          - :roller_skate: 🟨 [[Research] Draft convo guide for research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82900)
          - ✔️ 🟥 [[[DESIGN] Finalize Figma Wireframesfor Research](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82902)
@@ -102,11 +102,11 @@ ________________________________________________________________________________
          - ✔️ 🟥 [[UX] Share out, get feedback, and implement changes to updated service blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82899)
          - ✔️ 🟥 [[Design] Update Intro page to communicate that we're showing you more providers than just your preferences, if provided in the referral](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83298)
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-         - 🟨 🟥 [[SPIKE] For MVP, brainstorm how we might want to show all referrals to Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81410)
+         - ✔️ 🟨 🟥 [[SPIKE] For MVP, brainstorm how we might want to show all referrals to Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81410)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - ✔️ 🟦 [[FE] Review your approved referral and start scheduling page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82555)
          - 🟦 [[FE] Choose a community care provider (page)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82612)
-         - 🟦 [[FE] Confirm & Review appointment (page)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82610)
+         - ✔️ 🟦 [[FE] Confirm & Review appointment (page)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82610)
 
 
    
