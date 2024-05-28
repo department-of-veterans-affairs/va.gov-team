@@ -68,6 +68,7 @@ ________________________________________________________________________________
 Write up tickets per page for mocks
 
         - 🚧 (Overcommitted) 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
+        - 🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 
 </details>
 
@@ -104,7 +105,7 @@ ________________________________________________________________________________
         - 🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - moved to the next sprint
         - 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
-        - 🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
+
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
         - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
