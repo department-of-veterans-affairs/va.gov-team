@@ -186,14 +186,14 @@ ________________________________________________________________________________
         - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 1 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70323)
         - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 2 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70324)
         - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 3 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70325)
-        - 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
+        - ✔️ 🟩 [[FE] - Unified e2e tests - pre-check-in - group 4 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/70326)
         - ✔️ 🟩 [[FE][bug] - Setting and getting pre-check-in complete is broke for unified](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83223)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - ✔️ 🟥 [Research] Analyze GA Metrics
         - ✔️ 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80224)
         - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79918)
 - **GOAL: Address Tech Debt**    
-    - 🟩 [Review & Update our Production Support & Incident Response Documentation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82430)
+    - ✔️ 🟩 [Review & Update our Production Support & Incident Response Documentation ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82430)
     - ✔️ 🟥 [[Design] Redo the Card component in the MHV UAE Library in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81462)
     - ✔️ 🟥 [[Design] Replace appt detail card components in Production Figma file ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83002)
     
