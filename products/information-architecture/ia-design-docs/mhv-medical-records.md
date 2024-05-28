@@ -1,5 +1,5 @@
 # IA Design for MHV on VA.gov: Medical Records
-**STATUS: Moving to Phase 0 part 4** 
+**STATUS: Moving to Phase 0 part 4 (of 5)** 
 
 Last updated 5/15/24
 
@@ -56,16 +56,16 @@ Most up-to-date page structure can be found in VA public mural: https://app.mura
 Page | URL | Breadcrumb | Notes
 | Page                      | URLs                                                           | P0 breadcrumbs                           | P1+ mobile breadcrumbs     | P1+ desktop breadcrumbs                          | Title tags                                 |
 |---------------------------|----------------------------------------------------------------|------------------------------------------|----------------------------|--------------------------------------------------|--------------------------------------------|
-| Landing page              | /my-health/medical-records/                                    | None                                     | < My HealtheVet            | < Back to [previous page] | Medical Records| Veterans Affairs        |
-| Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | < Back to [previous page]   | [H1] - Medical Records \| Veterans Affairs |
-| >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back to Lab and test results           | < Lab and test results     | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
-| >>Image listing           | /my-health/medical-records/labs-and-tests/123456/images/       | < Back to [H1 of test detail page]       | < Test detail              | < Back to [previous page]  | [H1] - Medical Records \| Veterans Affairs |
-| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images:[H1 of test detail page] | < Image listing            | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
-| Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | < Medical records          | < Back to [previous page]  | [H1] - Medical Records \| Veterans Affairs |
-| >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | < Care summaries and notes | < Back to [previous page]| [H1] - Medical Records \| Veterans Affairs |
-| Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | < Medical records          | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
-| >Vaccine detail           | /my-health/medical-records/vaccines/1234/                      | < Back to Vaccines                       | < Vaccines                 | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
-| Allergy listing           | /my-health/medical-records/allergies/                          | < Back to Medical records                | < Medical records          | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
+| Landing page              | /my-health/medical-records/                                    | None                                     | < My HealtheVet            | VA.gov home > My HealtheVet > Medical records | Medical Records| Veterans Affairs        |
+| Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Lab and test results  | [H1] - Medical Records \| Veterans Affairs |
+| >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back to Lab and test results           | < Back to lab and test results    | < Back to lab and test results | [H1] - Medical Records \| Veterans Affairs |
+| >>Image listing           | /my-health/medical-records/labs-and-tests/123456/images/       | < Back to [H1 of test detail page]       | < Back            | < Back  | [H1] - Medical Records \| Veterans Affairs |
+| >>>Image zoom             | /my-health/medical-records/labs-and-tests/123456/images/67890/ | < Back to Images:[H1 of test detail page] | < Back            | < Back | [H1] - Medical Records \| Veterans Affairs |
+| Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Care summaries and notes  | Care summaries and notes - Medical Records | Veterans Affairs |
+| >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | < Back to care summaries and notes | < Back to care summaries and notes
+| Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | < Medical records          | VA.gov > My HealtheVet > Medical records > Vaccines | Vaccines - Medical Records | Veterans Affairs |
+| >Vaccine detail           | /my-health/medical-records/vaccines/1234/                      | < Back to Vaccines                       | < Back to vaccines                 | < Back to vaccines | [H1] - Medical Records \| Veterans Affairs |
+| Allergy listing           | /my-health/medical-records/allergies/                          | < Back to Medical records                | < Medical records          | < VA.gov home > My HealtheVet > Medical records > Allergies | Allergies - Medical Records \| Veterans Affairs |
 | >Allergy detail           | /my-health/medical-records/allergies/1234/                     | < Back to Allergies                      | < Allergies                | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
 | Health conditions list    | /my-health/medical-records/conditions/                         | < Back to Medical records                | < Medical records          | < Back to [previous page]| [H1] - Medical Records \| Veterans Affairs |
 | > Health conditions > [H1]        | /my-health/medical-records/conditions/1234/            | < Back to Health conditions              | < Health Conditions         | < Back to [previous page] | [H1] - Medical Records \| Veterans Affairs |
