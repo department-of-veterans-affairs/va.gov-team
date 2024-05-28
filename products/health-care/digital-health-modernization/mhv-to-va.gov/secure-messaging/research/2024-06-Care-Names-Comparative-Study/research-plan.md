@@ -60,9 +60,7 @@ This unmoderated study will consist of
 Data collection will be remote and conducted using Optimal Workshop's Chalkmark: First-click testing tool. 
 
 ### Research materials
-[Cohort 1 images](link)
-
-[Cohort 2 images](link)
+[Images to be tested](link)
 
 [Post-test questions](link)
 
@@ -73,20 +71,20 @@ Data collection will be remote and conducted using Optimal Workshop's Chalkmark:
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
 
 ## Recruitment criteria
-Each cohort will consist of 68 Veterans, for a total sample of 136. Recruitment will be ongoing until all cohorts are filled. 
+The first seven cohorts will consist of 9 Veterans and the eight will contain 5 Veterans, for a total sample of 68 Veterans. Recruitment will be ongoing until all cohorts are filled. 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       136      |         NA       |    136  |     0       |    0    |        0      | 
+|       68      |         NA       |    68  |     0       |    0     |        0      | 
 
 ### Criteria Table
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    16      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |   9    |        |        |        |        |        |        |        |        |         |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
-|Female          |    8       |        |        |        |        |        |        |        |        |        |         |
+|Female          |           |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Gay             |            |        |        |        |        |        |        |        |        |        |         |
