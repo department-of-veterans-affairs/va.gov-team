@@ -6,3 +6,6 @@
   - https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc1217[…]=sliding&from_ts=1708709380356&to_ts=1716485380356&live=true
 - MR on VA.gov
   - https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-534a71ec89b6305ad34d[…]=sliding&from_ts=1708624627711&to_ts=1716400627711&live=true
+
+**Appointments team analytics**
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/vaos-analytics-links.md
