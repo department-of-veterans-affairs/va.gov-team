@@ -72,7 +72,7 @@ Given restrictions on alternative options, VA PO John Rahagi and MO decided to p
 
 This plan and service blueprint were workshopped with NIST, Login.gov, and VA POs (John Rahagi and Tom Black) on July 27th, 2023 to verify compliance with IAL2 and expectations for what the service would encompass.
 
-After this initial workshop, the concept of In Person Proofing was further refined into the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md) that is the current source of truth for the IPP Pilot.
+After this initial workshop, the concept of In Person Proofing was further refined into the [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/product/product-brief.md) that is the current source of truth for the IPP Pilot.
 
 Usability test results
 
