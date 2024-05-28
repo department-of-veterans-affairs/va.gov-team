@@ -17,7 +17,7 @@ Footer | | Med/Med | | Componetize footer, incorporate Federal footer requiremen
 Primary navigation | Not documented in VADS | Low/Med | | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating along with secondary nav for redesign | 
 Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | Low/Med || Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal | 
 Breadcrumbs | [Breadcrumb component in VADS](https://design.va.gov/components/breadcrumbs) | High/Low | Kristin | Review of V3 component as well as experimental design of back link with minimal header [CAIA Ticket #73451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73451) | 
-Title tags | Title tags on VADS | | Kristin | [CAIA Ticket #73451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73451) | 
+Title tags | Title tags on VADS | | Kristin | [CAIA Ticket #84040](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84040) and [WIP documentation](https://docs.google.com/document/d/1EA9iEw1mCE8P7-JxEwX5r7yFnz1xxyG-dCviPoh_oSA/edit)| Pending Erin, Mikki review
 H1s | [H1s on VADS] | | Kristin | [CAIA Ticket #73451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73451) | 
 On this page | [On this page component in VADS] | Med/Low | Kristin | Needs guidance added for usage, utilize USWDS to start | 
 Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low/High | | Discovery of current usage, any V3 plans, USWDS guidance.  | 
