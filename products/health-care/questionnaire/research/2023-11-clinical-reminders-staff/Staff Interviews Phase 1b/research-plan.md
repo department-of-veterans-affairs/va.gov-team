@@ -29,7 +29,7 @@ The volume of clinical reminders has been impacting the quality of the time the 
 - What was the final process for sending, receiving, and reviewing these questionnaires implemented at each location? 
 
 ### Hypothesis
-- The tool will reduce overall clinical reminder burden for providers, including data entry and notification fatigue. 
+-  One tool will be preferred over the other tool to reduce overall clinical reminder burden for providers, including data entry and notification fatigue.
 - Providers will perceive digital questionnaires to be a safe way to gather this information from Veterans. 
 - Provider will identify areas to improve the ease of use within the tool. 
 
