@@ -10,7 +10,7 @@
 
 ### How to subscribe
 
-- Go to the [Shareable calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20)
+- Go to the [Subscribable Google Calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20)
 - Select Subscribe
   
 ### How to add an OOO
