@@ -1,9 +1,15 @@
 # Research Plan for Secure Messaging team, June 2024
 
 ## Background
-Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) will be moved to VA.gov. MHV provides Veterans with access to their medical records, including the ability to download said records. 
+Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) is being moved to VA.gov. MHV provides Veterans with the ability to securely message and access previous messages with their healthcare teams. 
 
-Discovery research was carried out in September, 2022 (see [this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) for more information). This research has helped us to identify and prioritize gaps that we must address via primary research with Veterans to ensure that the Medical Records experience on the redesigned MHV will enable Veterans to complete their top tasks with minimal pain points.  
+A well known pain point for Veterans in the current secure messaging experience lies in the ways in which healthcare providers and teams are named (see previous [discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2022-11-triage-group-naming-discovery) and [feedback from MHV Coordinators](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/mhv-coordinator-feedback/quarterly-survey-results)). The Secure Messaging OCTO/OCC team created an updated experience to address this pain point; this experience will be vetted by MHV Coordinators and piloted in July/August. 
+
+Prior to piloting the new experience, we want to confirm with Veterans that the updated experience outperforms the previous in relation to: 
+- Task success
+- Time to complete task
+- Improved satisfaction
+- Improve trust with VA digital health services
 
 You can read more about the Digital Health Modernization strategy [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/product).
 
@@ -22,55 +28,56 @@ This research fits into these points of a Veteran's Journey:
 - Aging
 
 ## Research Goals 	
-The purpose of this research is to gain insight into user needs and goals related to medical records, users' emic understandings of medical records-related terms, and how these needs, goals, and understandings influence their behaviors. 
+The purpose of this research is to compare the old and new care team selection flows within the secure messaging experience to assess the degree to which the new experience is easier, more efficient, and more intuitive to use for Veterans. 
 
 ### Outcome
-This research will inform the low fidelity prototype for the medical records redesign on VA.gov. 
+This research will inform the updated care team selection flow in the secure messaging experience on VA.gov and VAHB. 
 
 ### Research questions
 
-1. What terms do Veterans and Caregivers use to describe: medical records, laboratory results, medical test results, medical imaging, radiology, pathology, service-related records from the Department of Defense, admissions & discharge summaries, pre-visit and after-visit summaries, and procedures? 
-
-2. How do Veterans and Caregivers understand the existing medical records-related terminology on MHV and how does that understanding shape their behavior on the website (e.g., where they look for specific information)? 
-
-3. What actions do Veterans and Caregivers need to take with their medical records and for what purposes? 
+1. Which care team selection option enables Veterans to find the correct provider more quickly?
+2. Which care team selection option do Veterans find to be more intuitive and less difficult to use?
+3. Which care team selection option builds greater trust in the VA with Veterans?
+4. Which care team selection option increases satisfactions amongst Veterans in the digital patient portal experience?  
 
 
 ### Hypotheses
-_Hypothesis 1:_ Some Veterans and Caregivers will use different terms than those displayed via Blue Button reports for at least some of the medical records-related terms. 
+_Hypothesis 1:_ A higher proportion of Veterans will select the incorrect care team in the old experience than the new experience. 
 
-_Hypthesis 2:_ Some Veterans and Caregivers will not understand all of the medical records-related terms without support. 
+_Hypothesis 2:_ The average time to complete tasks will be lower on the new experience. 
 
-_Hypothesis 3:_ Some Veterans and Caregivers will not know what Blue Button, VA Health Summary, and Department of Defense medical records include, nor will know where to find specific information across the three options. 
+_Hypothesis 3:_ A higher proportion of Veterans will find the new experience to be more intuitive and satisfying than the old experience. 
 
-_Hypothesis 4:_ Some Veterans and Caregivers will want to be able to view and share their medical records, while others will want to identify key information to use for other purposes (e.g., to support a disability claim). 
+_Hypothesis 4:_ The old experience will produce higher rates of distrust in VA digital services than the new experience. 
 
 ## Method
 
-### Interviews
-We will conduct remote interviews with Zoom. These interviews will include questions about their needs and goals related to medical records, what they expect medical records should include, what terms they use and how they understand existing terms found in the legacy MHV. The interviews will also include a moderated card sorting activity. 
+### Unmoderated study: First-click testing with post-test questions
+This unmoderated study will consist of 
 
 
 ### Location
-Data collection will be remote and conducted using Zoom. 
+Data collection will be remote and conducted using Optimal Workshop's Chalkmark: First-click testing tool. 
 
 ### Research materials
-[Conversation guide for Veteran participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-10-conversation-guide-Veterans.md)
+[Cohort 1 images](link)
 
-[Conversation guide for Caregiver participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research/2022-10-conversation-guide-Caregivers.md)
+[Cohort 2 images](link)
+
+[Post-test questions](link)
 
 
 ## Recruitment
 
 ### Recruitment approach
-We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Google Sheet that will be stored on the Ad Hoc Google Drive. 
+We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
 
 ## Recruitment criteria
-We will schedule a total of 24 Veterans for an expected completion rate of 18-20 interviews. 
+Each cohort will consist of 68 Veterans, for a total sample of 136. Recruitment will be ongoing until all cohorts are filled. 
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       24      |         20       |    16  |     0       |    8    |        0      | 
+|       136      |         NA       |    136  |     0       |    0    |        0      | 
 
 ### Criteria Table
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
@@ -240,87 +247,29 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener for all participants
 
-1. Please make sure that ALL participants are willing to complete their interview **on the device they specified when recruited** and:
-    - During the session, are willing to share over Zoom a web browser window on their device
-    - Have a working microphone on their device
-    - Have Zoom downloaded to their device prior to the session and know how to share their screen
-
-2. Have you used an online patient portal in the past 12 months? A patient portal is a secure website that gives you access to information about your health, such as past doctor visits, treatments, or medications. For example, MyChart or MyHealtheVet are patient portals. 
-    - Yes, I have used an online patient portal in the past 12 months *(go onto additional screener questions)* 
-    - No, I have not used an online patient portal in the past 12 months *(not eligible)* 
-
-3. Do you have experience using VA health care, either for yourself or on behalf of another person? *(Don't need to ask because can just check if screener questionnaire shows they have CHECKED or NOT CHECKED "Health care benefits")*
-    - Yes *(go onto additional screener questions, follow instructions there to recruit a total of 16 participants. Of these 16, 10 will be Veterans and 6 will be Caregivers)* 
-    - No *(recruit 8; Of these 8, 6 will be Veterans and 2 will be Caregivers)*
-
-
-### Screener for Veterans
-
-4. *(If answered yes to Screener question 3 for all participants)* Do you have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 5)*
-    - No *(recruit 2)*
-
-5. *(If yes to Screener question 4)* Is your account a basic or premium account? Your account level can be seen next to the welcome message once you are signed in.
-    - Premium *(go onto Screener question 6)
-    - Basic *(recruit 4)*
-
-6.  *(If answered "Premium" to Screener question 4)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health information or records. 
-    - Yes *(recruit 4)*
-    - No *(not eligible)*
-
-### Screener for Caregivers
-
-4. *(If answered yes to Screener question 3 for all participants)* Do you or the Veteran you support have a My HealtheVet (MHV) account? 
-    - Yes *(go on to additional Screener question 5)*
-    - No *(recruit 2)*
-
-5. *(If yes to Screener question 4)* Is this account a basic or premium account? The account level can be seen next to the welcome message once you are signed in.
-    - Yes *(go onto Screener question 6)
-    - No *(recruit 2)*
-
-6. *(If yes to Screener question 5)* Have you used any features on My HealtheVet (MHV) within the last 12 months? Features include messaging your healthcare provider, refilling prescriptions, or looking at or downloading your health records. 
-    - Yes *(recruit 2)*
-    - No *(not eligible)*
 
 
 ## Timeline
 
-### Prepare
-- Pilot #1: week of October 17-21, participant TBD
-- Pilot #2: week of October 24-28, participant TBD
+### Data collection completed by: 
+We would like all data to be collected by end of June, 2024. However, recruitment should be ongoing until the desired sample size of 136 is complete and all cohorts have been filled. 
 
-### Research sessions
-* Planned dates of research: **Oct 31 - Nov. 11** 
-
-### Length of sessions
-* Session length: 1 hour
-* Buffer time between sessions: 30 minutes
 
 ### Availability
 
 Team Availability | Time Slots (ET)
 ------------------|--------------
-Oct 31, 2022 | 10-11 am; 3-4 pm; 4:30-5:30 pm; 6-7 pm
-Nov. 1, 2022 | 10-11 am; 11:30 am - 12:30 pm; 2-3 pm; 4:30-5:30 pm; 6-7 pm
-Nov. 2, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 3:30-4:30 pm; 5-6 pm
-Nov. 3, 2022 | 3-4 pm; 5:30-6:30 pm
-Nov. 4, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm 
-Nov. 7, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 6-7 pm
-Nov. 8, 2022 | 10-11 am; 11:30 am - 12:30 pm; 2-3 pm; 3:30-4:30 pm; 5-6 pm
-Nov. 9, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm
-Nov. 11, 2022 | 10-11 am; 11:30 am - 12:30 pm; 1-2 pm; 2:30-3:30 pm; 4-5 pm; 5:30-6:30 pm
+NA
 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
-- Moderator:	Robyn Singleton (robyn.singleton@adhocteam.us)
-- Research guide writing and task development:	Robyn Singleton 
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	Robyn Singleton 
-- Participants for pilot test:	TBD
-- Note-takers: TBD
-- Observers:	Jonathan Nelson (jonathan.nelson@adhocteam.us); Coulton Bunney (coulton.bunney@va.gov); Marci McGuire (marci.mcguire@adhocteam.us), Jenny Wang (Yizhen.Wang@va.gov), Alexia Wunder (alexia.wunder@bylight.com), Lauren Alexanderson (Lauren.Alexanderson@va.gov), all others to sign up via sign up list. 
+- Project point of contact: Robyn Singleton (robyn.singleton@va.gov); Janie Tankard-Carnock (Jane.carnock@va.gov)
+- Participant recruiting & screening: Perigean
+- Participants for pilot test: NA
+- Note-takers: NA
+- Observers: NA
 
 ## Approvals
-- Reviewed and approved by Coulton Bunney (PO) on Oct. 17, 2022
-- Reviewed and approved by Shane Strassberg on Oct. 17, 2022
+- Reviewed and approved by Janie Tankard-Carnock (PO) on 
+- Reviewed and approved by Shane Strassberg on 
