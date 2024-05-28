@@ -37,6 +37,11 @@ ________________________________________________________________________________
 #### PLANNED RELEASES 
 - NONE
 
+#### NOTES
+- If time permits, create integrate mocks per page tickets.
+- If time permits, create add functional notes using Figma Annotation Library per page tickets (to support integration of mocks per page). 
+
+
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
