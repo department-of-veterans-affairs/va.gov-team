@@ -10,7 +10,7 @@
 
 ### How to subscribe
 
-- Go to the [Public URL to UAE UX Google Calendar](https://calendar.google.com/calendar/embed?src=uae-ux-calendar%40agile6.com&ctz=America%2FNew_York)
+- Go to the [Shareable calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20)
 - Select Subscribe
   
 ### How to add an OOO
