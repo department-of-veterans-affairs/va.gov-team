@@ -65,7 +65,9 @@ ________________________________________________________________________________
 - **GOAL: Address Tech Debt**
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
-Write up tickets per page for mocks 
+Write up tickets per page for mocks
+
+        - 🚧 (Overcommitted) 🟥 [[Research] Create Research Study Report ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 
 </details>
 
