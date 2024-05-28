@@ -3,8 +3,9 @@
 ## May 28, 2024
 ### Topics
 - [P] - Walk through scheduling flow in staging and ask her to flag anything that will be an issue.
-- [M] - Ask how we plan to support each TOC in OH use this spreadsheet to help with alignment.
-- [M] - PID, We will be collecting it, where can we send the data in OH? (edited)
+- [M] - PID, We will be collecting it. 
+- [M] - Discuss how we plan to support each TOC in OH. Use the spreadsheet if it would be helpful.
+
 
 ### Dependecies 
 - 
