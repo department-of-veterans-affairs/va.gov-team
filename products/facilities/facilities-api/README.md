@@ -48,3 +48,8 @@ flowchart LR
     W[Lighthouse Facility API v1] -->|VA facility and service data| Y
     Y[vets-api Facility API v2]
 ```
+
+## Drupal
+Drupal calls the Lighthouse API directly, both to pull data, and to push data. Drupal does **not** route through the vets-api facilities-api. However: in cases where Drupal is the source of truth and provides data to Lighthouse, the facilities-api then also receives/ contains that info via the Lighthouse Facilities API. 
+
+More information on Drupal content models that interact with the Lighthouse Facilities API is available within Drupal's content model documentation: https://prod.cms.va.gov/admin/structure/cm_document?title=&documented_entity_op=contains&for=&stakeholder=All&pulled=All&pushed=1112&notes=
