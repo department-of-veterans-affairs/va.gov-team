@@ -22,6 +22,7 @@ flowchart LR
     P(CARMA) --> |Health services - Caregiver Support| V
     R(Legacy data source) -->|Health services - most others| V
     S(Sandy's DB)-->|Benefit services and benefit facility data| V
+    T(NCA: cem.va.gov XML files) --> |NCA facilities | V
     U(PPMS) -->|Non-VA facility and service data| X
     V[Lighthouse Facility API v0] -->|VA facility and service data| X
     X[vets-api Facility API v1]
@@ -34,6 +35,7 @@ flowchart LR
     O(VAST) -->|Most facility names, addresses etc.| W
     P(CARMA) --> |Health services - Caregiver Support| W
     S(Sandy's DB)-->|Benefit services| W
+    M(NCA: cem.va.gov XML files) --> |NCA facilities | W
     U(PPMS) -->|Non-VA facility and service data| Y
     T(Drupal) -->|Health services - most others| W
     T -.->|Benefit services| W
