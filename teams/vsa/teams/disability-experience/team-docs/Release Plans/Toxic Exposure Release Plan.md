@@ -125,6 +125,12 @@ There are two use cases that we are considering for this release. For each, we p
  - Reduce the amount of time to determine if the applicant is elegible for presumptive service connection based on toxic exposure
  - Mantain or reduce abandonment rates
  - Sucessfully migrate 526 submission infrastructure off EVSS
+   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822849&to_ts=1716910822849&live=false&tile_focus=4766684880115406
+   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822569&to_ts=1716910822569&live=false&tile_focus=6719002960639492
  - Reduce or maintain existing submission errors
+   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822859&to_ts=1716910822859&live=false&tile_focus=6127103963619920
+   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822569&to_ts=1716910822569&live=false&tile_focus=6719002960639492
  - Maintain % of submissions that use normal path
+   - https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true
  - Maintain or reduce uses of backup and failsafe path
+   - https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true
