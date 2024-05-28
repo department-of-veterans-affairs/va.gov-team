@@ -57,6 +57,7 @@ ________________________________________________________________________________
          - TBD
      - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [[FE] Choose a date & time (page)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611)
+         - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
      - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
          - 🟪 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
 
