@@ -39,8 +39,8 @@ Please log key MHV to VA.gov Landing Page decisions related to the below practic
 ## Content & IA
 | Date | Decision Maker(s) | Description of Decision | Rationale |
 |------|-------------------|-------------------------|-----------|
-|  |  |  |  |
-|  |  |  |  |
+| March 2024 | CAIA | Supply re-ordering benefit hub page will get a "simple" sign-in widget | As we move the supply reorder app under /my-health/, users should be authenticated already for a good experience |
+| 5/28/2024 | Patrick + tool POs | Pending tool team approval, users will be routed ("route guard") to the MHV landing page to receive account-based alerts (eg "Verify your identity" | Rules are the same for most health tools; so reduce the number of places in codebase that where any new language around these alerts would need to be implemented |
 |  |  |  |  |
 |  |  |  |  |
 
