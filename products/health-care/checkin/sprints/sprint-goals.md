@@ -62,7 +62,8 @@ ________________________________________________________________________________
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
         - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
 - **GOAL: Address Tech Debt**
-
+        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
+        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
 Write up tickets per page for mocks 
 
 </details>
@@ -124,8 +125,7 @@ ________________________________________________________________________________
         - 🟩 [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
         - 🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)
-        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
-        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
+
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)     
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)   
     - **Sub Goal: Analyze current metrics to see what they tell us**
