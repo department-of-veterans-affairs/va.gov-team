@@ -8,6 +8,11 @@
 
 [Public URL to UAE UX Google Calendar](https://calendar.google.com/calendar/embed?src=uae-ux-calendar%40agile6.com&ctz=America%2FNew_York)
 
+### What should go on the calendar
+
+- OOO's
+- Meetings where not all UAE UXers are required to attend, but surfacing for any interested UAE UXers or other VFS, OCTO team members
+
 ### How to subscribe
 
 - Go to the [Subscribable Google Calendar link](https://calendar.google.com/calendar/u/0?cid=dWFlLXV4LWNhbGVuZGFyQGFnaWxlNi5jb20)
