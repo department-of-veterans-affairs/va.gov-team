@@ -26,6 +26,10 @@ assignees: jennymayoco, kristinoletmuskat, strelichl, franecross
 - [ ] We need a custom vanity URL (complete vanity URL section)
 - [ ] We are removing a temporary redirect  (add relevant background and link to original redirect request)
 
+### Do you need Public Websites to implement this redirect?
+- [ ] Yes
+- [ ] No - Please note: Redirect still needs approval from IA and PW will do PR review
+
 ### Implementation date
 When does this request need to be live? **NOTE:** Redirects deploy M-Th. Friday launches should be avoided.
 Choose one:
