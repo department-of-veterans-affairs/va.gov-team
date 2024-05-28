@@ -3,8 +3,16 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 ## 5/28/24 Biweekly VBA-DBEX Check-in
 ### Notes
-- Asking Veterans online about life-threatening illness
-  - Currently, we have a question asking Veterans online if they have a life-threatening illness and then send a flash from the 526. With the new Lighthouse synchronous endpoint, we will not be setting flashes. Should we remove this from the online form?
+- 0781    
+  - [1.1] Event type checkboxes - do the options look good? Is “other” intentionally vague?     
+    - Is it ok if a veteran has one event, but checks multiple boxes here?     
+  - What questions are required for this form to be considered complete?      
+    - Ex. Is 8, 9A-9C optional? Would you still be able to process it and follow up with veteran if this section wasn’t filled out?      
+  - Supporting documents - rape crisis and counseling center what specific types of documents are these referring to?       
+  - [4.4-4.6] What if multiple official reports were filed? Change to checkbox? Is the only additional detail we need from this location of police report?      
+    - Official report question - do we need to know type of “other”? Or is checking “other” good enough?      
+- Asking Veterans online about life-threatening illness      
+  - Currently, we have a question asking Veterans online if they have a life-threatening illness and then send a flash from the 526. With the new Lighthouse synchronous endpoint, we will not be setting flashes. Should we remove this from the online form?      
 
 ## 5/14/24 Biweekly VBA-DBEX Check-in
 ### Notes
