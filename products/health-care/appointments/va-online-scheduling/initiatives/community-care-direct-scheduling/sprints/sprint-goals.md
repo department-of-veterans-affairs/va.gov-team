@@ -28,8 +28,10 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
 
 
 #### PLANNED RELEASES 
@@ -46,15 +48,18 @@ ________________________________________________________________________________
          - TBD  
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - 🟥 Schedule Midpoint review
-         - 🟥 Complete Midpoint review
-         - 🟥 Address Midpoint review feedback/tickets
          - 🟥 [[Design] Create desktop and tablet size frames in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83373)
          - 🟥 [[Design] Create template & spacing page in Figma and Screenreader spec page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82898)
          - 🟥 [[Design] Zero results, search again, select different filters](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83442)
+     - **Sub Goal: [Feature] Get connected with WellHive**
+         - 🟦 [Test WellHive API connection](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84022
      - **Sub Goal: [Feature] Get authorized referrals from CDW**
          - TBD
      - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [[FE] Choose a date & time (page)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611)
+     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+         - 🟪 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
+
 
 
    
