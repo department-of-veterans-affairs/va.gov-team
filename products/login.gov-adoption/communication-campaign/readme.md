@@ -47,8 +47,8 @@ This work has been paused since January 2024 and is under evaluation for re-prio
 
 -   [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign/design)
 
-    -   [Organic Adoption Modal Prototype](https://www.figma.com/design/dUAamdYT8RGXAeA695wbwp/Organic-Adoption-Prototypes?m=auto&t=XbiYBQ1I7ZWc5hTe-6)
+    -   [Organic Adoption Prototypes](https://www.figma.com/design/dUAamdYT8RGXAeA695wbwp/Organic-Adoption-Prototypes?m=auto&t=XbiYBQ1I7ZWc5hTe-6)
 
-    -   [Reactivation Email prototype](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?m=auto&t=8qOoHOLqDlmr9X2x-6)
+    -   [Reactivation Prototypes](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?m=auto&t=8qOoHOLqDlmr9X2x-6)
 
 [Account Transition Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1698872819129/0c58398a4327810cd3b354c3f268421dbd40a6e1?sender=u1b0df595924572baa8a94764)
