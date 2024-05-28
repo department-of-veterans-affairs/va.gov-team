@@ -76,8 +76,8 @@ After this initial workshop, the concept of In Person Proofing was further refin
 
 Usability test results
 
-- [Literature Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/In-Person%20Identity%20Proofing%20Literature%20Review_11.9.2023.md)
-- [Subject Matter Expert Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-12-in-person-proofing-pilot-SME%20Interviews) (December 2023)
-- [Usability testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/IPP%20Usability%20Testing/2023-12-in-person-proofing-pilot-Veteran-usability-test) (December 2023)
-- [Usability testing with MHV Coordinators](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/IPP%20Usability%20Testing/2024-1-in-person-proofing-pilot-proofing-agent-usability-test) (January 2024)
+- [Literature Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/product/product-brief.md) (November 2023)
+- [Subject Matter Expert Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing/research/2023-12-in-person-proofing-pilot-SME%20Interviews) (December 2023)
+- [Usability testing with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Veterans/2023-12-in-person-proofing-pilot-Veteran-usability-test) (December 2023)
+- [Usability testing with MHV Coordinators](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Proofing%20Agent/2024-1-in-person-proofing-pilot-proofing-agent-usability-test) (January 2024)
 - ([Mid January sprint demo](https://docs.google.com/presentation/d/1u1Z8_eI9GDZv0QcVYkQvZCAj0xVz6rLY/edit#slide=id.g2b013ced771_0_11))
