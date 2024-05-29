@@ -51,7 +51,7 @@ We combed through past VA research from our and other teams that relate to the s
 Most of this data spoke more generally to sign in and verification likely bringing up the most offensive issues folks face. Further, much of the data from these sources reinforce points that our team has long considered known. This data points to some long-term issues still existing, like:
 
 - Some veterans prefer a balance that leans less towards security and more towards usability, while others appreciate a balance towards data security.
-   - It’s going to be impossible to make everyone happy in this regard without offering individuals the ability to choose their own level of security, which is not likely a good situaction for VA
+   - It’s going to be impossible to make everyone happy in this regard without offering individuals the ability to choose their own level of security, which is not likely a good situation for VA
 - Some veterans feel the account creation process, including verification, is cumbersome, overly confusing and fraught with issues.
    - Some veterans have significant issues verifying their identity for their modern CSP account. Some seem to be completely unable to verify with at least one of the modern CSPs.
    - The most cited issue is with the system accepting an image of their ID. However, incorrect phone number and address issues with living OCONUS are also brought up as blockers to verification.
