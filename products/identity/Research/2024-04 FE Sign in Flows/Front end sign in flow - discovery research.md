@@ -258,7 +258,7 @@ This study found several areas that are potentially creating dissatisfaction wit
    - **Recommendation 8A.1**: Figure out if we want to have MOU’s or some other way to guide how our team works with other VFS teams.
    - **Recommendation 8A.2**: Figure out how can integrate with Platform teams. Do we insert into the Collab Cycle to be present for meetings where sign in or verification information or flows are being changed? Or at least be able to async review in those circumstances. Define how our ownership of this product interacts with CAIA, and what are the best venues to collaborate with their team (the monthly content COP meeting, something else?)
    - **Recommendation 8A.3**: Figure out how we should or when we should approach VFS teams who aren’t following the new/updated version of the sign in widgets
-   - **Recommendation 8A.4**: Better define how we work with IAM and CPSs where we have suggestions for them. Will that be different from how we work with other VA.gov teams? What is our rhubric for data we should include when making suggestions.
+   - **Recommendation 8A.4**: Better define how we work with IAM and CSPs where we have suggestions for them. Will that be different from how we work with other VA.gov teams? What is our rhubric for data we should include when making suggestions?
 
 
 ## Appendix A: literature review sources
