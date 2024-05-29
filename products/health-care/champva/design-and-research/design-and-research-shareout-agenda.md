@@ -1,4 +1,4 @@
-# Running Design and Research Share-out Agenda
+# Running Design and Research Agenda
 
 
 ## May 20, 2024: Notes
