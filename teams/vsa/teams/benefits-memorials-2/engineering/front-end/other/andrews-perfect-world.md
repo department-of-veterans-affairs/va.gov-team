@@ -142,7 +142,7 @@ The downside of using the default forms system is mainly the final review & subm
             "grossMonthlyIncome": "2000.00",
             "deductions": [
               {
-                "type": "State tax",
+                "name": "State tax",
                 "amount": "20.00"
               }
             ]
@@ -157,7 +157,7 @@ The downside of using the default forms system is mainly the final review & subm
         ],
         "otherIncome": [
           {
-            "type": "Renter income",
+            "name": "Renter income",
             "amount": "1000.00"
           }
         ]
@@ -177,7 +177,7 @@ The downside of using the default forms system is mainly the final review & subm
             "grossMonthlyIncome": "2000.00",
             "deductions": [
               {
-                "type": "State tax",
+                "name": "State tax",
                 "amount": "20.00"
               }
             ]
@@ -192,7 +192,7 @@ The downside of using the default forms system is mainly the final review & subm
         ],
         "otherIncome": [
           {
-            "type": "Social Security",
+            "name": "Social Security",
             "amount": "1000.00"
           }
         ]
@@ -255,7 +255,7 @@ The downside of using the default forms system is mainly the final review & subm
       ],
       "utililtyExpenses": [
         {
-          "type": "Electricity",
+          "name": "Electricity",
           "amount": "100.00"
         }
       ]
