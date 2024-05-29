@@ -18,11 +18,12 @@
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Discussion Topics**
-  * [tbd]
   * RQ next steps
     * H&B work is at a stopping point
     * Global can focus on QA for RQ work that is in PROD
     * Global should also decide the priority of any additional RQ work and plan it as a project
+  * staggering releases for Homescreen and Appts so we can avoid/plan for 2 big things going out in same release
+    * Adam, Ameet, and Alayna to discuss
 
 ## 5/15/24
 * **New Meeting Format**
