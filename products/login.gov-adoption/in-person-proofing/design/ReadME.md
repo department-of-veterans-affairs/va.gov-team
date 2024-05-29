@@ -20,9 +20,56 @@ This directory contains design artifacts related to in-person proofing for login
 
 ---
 ## Design Log
+
+### In-Person Identity Proofing Pamphlet 
+
+#### Deliverables
+
+[In-Person Identity Proofing Pamphlet ](https://www.figma.com/design/HdYyoAYefTSyHNjVuUdT2I/IPP-Pilot-Materials?node-id=0%3A1&t=Mku0YQmuuBGqCMns-1)
+
+#### Date Presented
+
+Sprint 45
+05/06/2024
+
+#### Summary 
+
+Pamphlet designed to inform and educate Veterans on creating and signing in to access their benefits with[ ID.me](http://id.me/) or[ Login.gov](http://login.gov/)
+
+#### Value Add 
+
+Without designing this educational pamphlet to share with Veterans who participate in the pilot, there could be a potential gap in knowledge and understanding about verifying their identities and verification options. This original print design provides information that Veterans need to feel comfortable and confident making the transition concerning their sign-in options when they learn about it through the pilot. 
+
+---
+
+### Future State Flows 
+
+#### Deliverables
+
+[Bundling User Flow ](https://www.figma.com/design/OKnM2rn0Oyw5UhCUQ41VTi/Future-State-Flows?node-id=9-1079&t=Yw4Pg81NRDNR5oG3-1)
+
+[Rescheduling User Flow ](https://www.figma.com/design/OKnM2rn0Oyw5UhCUQ41VTi/Future-State-Flows?node-id=9-923&t=Yw4Pg81NRDNR5oG3-1)
+
+#### Date Presented
+
+05/06/2024
+
+Sprint 45
+
+#### Summary
+
+1. Future state flow for IPP that would allow a Veteran to bundle the walk-in IPP appointment with other appointments
+2. Future state flow of IPP that would allow a Veteran to reschedule their walk-in IPP appointment
+
+#### Value Add
+
+Without exploring the future state of In-Person Identity Proofing, it would be difficult to ensure that In-Person Identity Proofing provides pathways beyond the happy path. The future state flows ensure that we address expectations and assumptions uncovered during both rounds of usability testing and SME interviews and provide support for multiple user pathways. 
+
+---
+
 ### In Person Proofing Flyer
 
-### Deliverables
+#### Deliverables
 
 [In Person Proofing Flyer ](https://www.figma.com/design/HdYyoAYefTSyHNjVuUdT2I/IPP-Pilot-Materials?node-id=2%3A324&t=SzeF3HCTFsWfJCng-1)
 
