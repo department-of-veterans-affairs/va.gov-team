@@ -68,7 +68,7 @@ There are two use cases that we are considering for this release. For each, we p
 - Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans will not have an IPF, and may or may not have a previous Intent To File (ITF).
 
 ### 2. Veterans With an In Progress Form
-- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, initially exnluding the new Toxic Exposure section. Unlike New Applications, these Veterans will have an IPF and an ITF.
+- Veterans who have a 526 form in progress will be directed to complete the 2022 version of the 526 form, initially excluding the new Toxic Exposure section. Unlike New Applications, these Veterans will have an IPF and an ITF.
 
 
 ## Timelines and Key Components
