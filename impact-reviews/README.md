@@ -21,7 +21,7 @@ _Presentations occur at noon ET_
 |----|----|----|----|----|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | June 6, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | June 6, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4th holiday)|
+| Benefits Management Tools | Jacob Worrell | _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4th holiday)|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4th holiday)|
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | August 1, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | August 1, 2024 |
