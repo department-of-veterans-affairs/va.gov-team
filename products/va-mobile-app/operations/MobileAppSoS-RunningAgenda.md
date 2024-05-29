@@ -14,6 +14,12 @@
 
 ## Agenda
 
+## 5/29/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Discussion Topics**
+  * [tbd]
+
 ## 5/15/24
 * **New Meeting Format**
   * Confirm most important info to cover from POs perspective
