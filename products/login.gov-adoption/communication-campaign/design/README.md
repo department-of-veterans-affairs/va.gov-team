@@ -26,4 +26,158 @@ This directory contains design documentation related to the communication campai
 | [Reactivation Flyer](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?m=auto&t=8qOoHOLqDlmr9X2x-8) | Flyer featuring information on setting up and verifying identity for Login.gov, did not ship | February 2023 |
 | [Service Blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research/service%20blueprint_login.gov%20migration%20pathways.pdf)| Establish the intial pathways for CEDAR Identity Contract. Explored the access points and interactions for Veterans with various use cases, caretakers, and VA staff | June 2023 | 
 
+---
+## Design Activity Log
 
+### Organic Adoption Email
+
+#### Deliverables 
+
+[Organic Adoption Email Mockup with Content](https://www.figma.com/design/dUAamdYT8RGXAeA695wbwp/Organic-Adoption-Prototypes?node-id=0%3A1&t=7kDBHxfKYeFr8TqC-1)
+
+#### Date Presented
+
+Sprint 22
+
+06/21/2023
+
+#### Summary
+
+Test messaging (via email) with Veterans for creating a Login.gov account; did not ship
+
+#### Value Add
+
+We designed an email that would inform Veterans about the transition from DS Logon and MHV to Login.gov and ID.me. The purpose of this email was to target Veterans who have never had an account with VA.gov or who have used MHV or DS Logon to sign in previously. This email serves as an example for future communications since we learned Veterans need repetitive and personalized communication to ensure that they are aware and active during periods of change. 
+
+
+---
+
+### Organic Adoption Modal
+
+#### Deliverables
+
+[Organic Adoption Modal Mockup](https://www.figma.com/design/dUAamdYT8RGXAeA695wbwp/Organic-Adoption-Prototypes?node-id=3%3A117&t=7kDBHxfKYeFr8TqC-1)
+
+#### Date Presented
+
+Sprint 25
+
+08/02/2023
+
+#### *Summary
+
+Test messaging (via modal) with Veterans for creating a Login.gov account; _did not ship_
+
+#### Value Add
+
+We designed a modal that would inform Veterans about the transition from DS Logon and MHV to Login.gov and ID.me. The purpose of this modal was to target Veterans who have never had an account with VA.gov or who have used MHV or DS Logon to sign in previously. We designed this modal before conducting our deferred proofing research where we learned that modals are not the best form of communication for critical information and deadlines. We kept this modal as a source of our learning and as a model for how low impact messaging may be communicated to Veterans.
+
+---
+
+### Organic Adoption Mobile
+
+#### Deliverables
+
+[Organic Adoption Mobile ](https://www.figma.com/design/dUAamdYT8RGXAeA695wbwp/Organic-Adoption-Prototypes?node-id=3%3A195&t=7kDBHxfKYeFr8TqC-1)
+
+#### Date Presented
+
+Not presented
+
+#### Summary
+
+Test messaging of mobile view with Veterans for creating a Login.gov account; did not ship
+
+#### Value Add
+
+We created a mobile flow to understand how a Veterans experience may differ between different devices (i.e. mobile versus desktop). We built this flow as a backup in case the identity team wanted to test the flow for creating a Login.gov account in addition to the Proactive CSP modal. This prototype helps us visualize how components need to be adjusted for mobile view.
+
+---
+
+### Reactivation Email 
+
+#### Deliverables
+
+[Reactivation Email ](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?node-id=0%3A1&t=OUl8XKreIsyEjokA-1)
+
+#### Date Presented
+
+Sprint 23
+
+07/05/2023
+
+#### Summary
+
+Test messaging (via email) with Veterans for reactivating a Login.gov account; did not ship
+
+#### Value Add
+
+In our deferred proofing research, we learned that Veterans want content that feels customized to their circumstances. We created a mockup of an email that could identify Veterans who have not used their modern credential for a long time and encourage them to use it next time they sign in to VA.gov. This email is important because we heard in our research that Veterans like to stick with the sign in credentials they are most familiar with. Many Veterans are comfortable with using DS Logon or MHV, which will eventually go away, so we want to encourage them to start using their modern credentials early if they already have one. Without this email, Veterans may continue to use their legacy credentials or they may forget they had a Login.gov or ID.me account and create a new account which can be time consuming.
+
+---
+
+### Reactivation Modal
+
+#### Deliverables 
+
+[Reactivation Modal ](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?node-id=1%3A579&t=OUl8XKreIsyEjokA-1)
+
+#### Date Presented 
+
+Sprint 25
+
+08/02/2023
+
+#### Summary 
+
+Test messaging (via email) with Veterans for creating a Login.gov account; *did not ship*
+
+#### Value Add
+
+We created a modal that could identify Veterans who have a modern credential but who just used their legacy credential to sign in to VA.gov. The modal would encourage Veterans to use their modern credential next time they sign in to VA.gov because legacy credentials (i.e. MHV and DS Logon) are going away. Even though Veterans are likely to click out of modals, this modal is an important reminder for Veterans who have modern credentials but are not in the habit of using them. Without this modal, Veterans may continue to use their legacy credentials or they may forget they had a Login.gov or ID.me account and create a new account which can be time consuming.
+
+---
+
+### Reactivation Flyer
+
+#### Deliverables 
+
+[Reactivation Flyer](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?node-id=1%3A609&t=OUl8XKreIsyEjokA-1)
+
+#### Date Presented 
+
+Sprint 29
+
+09/27/2023
+
+#### Summary 
+
+Flyer featuring information on setting up and verifying identity for Login,gov
+
+#### Value Add
+
+Without creating the informational material to present to Veterans to inform them about upcoming changes, there would have been a disruption of the Veterans expectation in services, understanding, and offerings. 
+
+---
+
+### Unified Sign In Page
+
+#### Deliverables
+
+[Unified Sign In Page ](https://www.figma.com/design/G32IPqyd3bPHMBbGdyQLwo/Sign-in-page?node-id=0%3A1&t=gLi20581MZrKYxQs-1)
+
+#### Date Presented 
+
+Sprint 38
+
+01/31/2024
+
+#### Summary
+
+Mock up's of adjusted Unified Sign In Page that feature alternative MHV and DSL button placement, recoloring of Login.gov and[ ID.me](http://id.me/) buttons and removal of DSL and MHV buttons; _did not ship_
+
+#### Value Add
+
+Without the proposed design changes and iterations, the Sign In Page would have remained the same and would have not properly communicated to the Veterans about upcoming changes to their accounts and Veterans would have not understood the upcoming changes and how they would be affected. 
+
+---
