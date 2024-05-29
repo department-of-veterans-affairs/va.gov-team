@@ -62,13 +62,13 @@ In addition to adding TE sections to the digital form, this release also include
 2. The target delivery date, while identified, is variable depending on Lighthouse availability and any other time sensitive, urgent work that needs to be done. Prioritizing urgent work will impact the delivery target date.
 
 ## Use Cases
-There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case. As Flipper controls access to the new form (via a conditional flag) the moment a Veteran starts a new claim, Veterans with an InProgressForm will not be directed to the new form initially.
+There are two use cases that we are considering for this release. For each, we plan to follow an incremental release strategy using established traffic percentages to route Veterans to the 526 form. We plan to use Flipper to control availabity for each use case.
 
 ### 1. New Applications
-- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans will not have an IPF, and may or may not have a previous Intent To File (ITF).
+- Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans do not have an IPF, and may or may not have a previous Intent To File (ITF).
 
 ### 2. Veterans With an In Progress Form
-- Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans will have an IPF and an ITF.
+- Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans do have an IPF and an ITF.
 
 ## Timelines and Key Components
 
@@ -93,7 +93,7 @@ There are two use cases that we are considering for this release. For each, we p
 |---|---|---|---|---|
 |4 | Submit |Off - 0% | 2022 |
 |5 | GetPDF | N/A | 2022 | GenPDF pre-launch and Canarying are a dependency for Submit, however both will share a rollout
-|6 | New TE Applications |On | 2022 | Per ToT 5/16 this will be combined with Submit |
+|6 | New TE Applications |On | 2022 | Per ToT 5/16: This will be combined with Submit; ToT: 5/23 this will be based on the presence of an IPF |
 |7 | Veterans with an IPF |Off | 2022 |
 
 ## Rollouts 
