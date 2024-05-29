@@ -41,8 +41,8 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
-|Preferred Facility| State (select)|Y|**TBD** | **TBD**|
-|Preferred Facility| VA medical center (select) |Y|**TBD** | **TBD**|
+|Preferred Facility| State (select)|Y| Preferred Facility where the Veteran will receive care is used to determine the facility (that one or a parent facility) that has Caregiver support staff | **TBD**|
+|Preferred Facility| VA medical center (select) |Y|Preferred Facility where the Veteran will receive care is used to determine the facility (that one or a parent facility) that has Caregiver support staff | **TBD**|
 
 </details>
 
@@ -51,7 +51,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
-|Primary CG|Would you like to apply for benefits for a Primary Family Caregiver? | Y | **TBD** | **TBD** |
+|Primary CG|Would you like to apply for benefits for a Primary Family Caregiver? | Y | The applicant can identify whethere this application should include a new Primary Caregiver | **TBD** |
 
 </details>
 
