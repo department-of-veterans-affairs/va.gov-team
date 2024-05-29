@@ -3,6 +3,12 @@
 ## Purpose 
 This document outlines how we went about identifying a sub-set of all of our `Form526Submission` records that we belive to be 'untouched'. 
 
+## TL;DR
+To get untouched submissions we
+- exclude successful ones
+- group the remainders by sameness (duplicates)
+- pick 1 or 0 to consider 'untouched' from each duplicate set
+
 ## What is an Untouched Submission
 An 'untouched' submission is another way of saying 'we have not fullied our end of the bargain here'. Some examples might be;
 - A submission failed to deliver to the any of the external APIs that VBMS uses for ingestion and subsequently review.  E.G.  A submission failed it's initial attempts at submitting on the 'happy path' because of bad data.  It was then sent to the backup path where it retried for 24 hours, but the backup path API was experiencing a prolonged outage.  This submission never made it out of our app and now requires manual intervention.
@@ -43,6 +49,8 @@ What follows is a break down of the logic, step by step, that is applied in each
 
 #### Determining State 
 
+[Primary Script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/apply_success_states.rb)
+
 Beginning with every single Form526Submission record, our goal is to exclude the ones we knew to be some flavor of successfully handled.  This exclusive methodology ensures that when in doubt, a submission will get a second look. We have 3 definitions of 'success' with which to filter our submissoins.
 
 - presence of a `submitted_claim_id`. This value is only populated when a submission is *successfully submitted* via the happy path. These submissions can be excluded.
@@ -63,6 +71,8 @@ At the end of this layer, remember we want a list of user uuids, not just submis
 
 ## The de-duplicating layer
 
+[Primary Script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/duplicate_set_builder.rb)
+
 Here we take all of a users submissions and sort them into dupe-sets.  This process uses two code resources
 - The [SubmissionDifferenceReport script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/submission_difference_report.rb), the result of which is passed to...
 - The [DuplicateSetBuilder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/duplicate_set_builder.rb).
@@ -73,7 +83,9 @@ This layer returns an array of arrays.  The top level array represents all of th
 
 **NOTE: if you want a detailed diff of the submissions, check out the aforementioned `SubmissionDifferenceReport`.  It can create granular diffs, similar to a "git diff" between code versions.**
 
-## The Rule application layer
+## The Rule Application Layer
+
+[Primary Script](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/untouched_submission_audit/time_and_status_sorter.rb)
 
 For every user, we will run 'rule application' on each of their duplicate sets.  The goal here is to return 0 or 1 submissions that require attention.  The reason there can be 0 or 1 (but no more than 1) is the natural result of the following rules
 
@@ -85,4 +97,4 @@ Given a set of duplicate submissions (a dupe-set, as defined previously)
     - INVESTIGATE the earliest duplicate in the set (by `created_at`
     - IGNORE the rest
 
-[WIP]
+The code that applies this logic lives here in the Primary Script above.
