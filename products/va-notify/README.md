@@ -34,13 +34,13 @@ Email us at **VA Notify**(oitoctovanotify@va.gov)
 # Playbook
 
 ## Who we are
-VA Notify is a notifications platform dedicated to improving the veteran’s notification experience by providing actionable, unified communications on the VA services they utilize. Our notification service is available to any business line/team inside the VA or with an ATO.
+VA Notify is a notifications platform dedicated to improving the Veteran’s notification experience by providing actionable, unified communications on the VA services they utilize. Our notification service is available to any business line/team inside the VA or with an ATO.
 ## What we are
-VA Notify is designed to be a passthrough system. We do not store veteran information, but we do store your notification templates and settings. We partner with VA Profile and va.gov to provide communication preferences that the veteran can see and manage. VA Notify checks these preferences before notifying a veteran.
+VA Notify is designed to be a passthrough system. We do not store Veteran information, but we do store your notification templates and settings. We partner with VA Profile and va.gov to provide communication preferences that the Veteran can see and manage. VA Notify checks these preferences before notifying a Veteran.
 
 VA Notify is located within the VAEC. We provide a REST OpenAPI, which your system can call each time a notification is needed. We also provide a Self Service web application so you can directly create and maintain your notification templates. Aggregated message metrics are provided. Google Analytics (UTM trackers) can and should be used for all message links that point to va.gov, so clicks can be captured. 
 
-If you have forms on va.gov and need help developing a notification trigger (ex., submission confirmation, reminders to complete forms, etc.), our [Forms Strike Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/form%20confirmations) can help!
+If you have forms on va.gov and need help developing a notification trigger (ex., submission confirmation, reminders to complete forms, etc.), our [Forms Strike Team](https://github.com/department-of-Veterans-affairs/va.gov-team/tree/master/products/form%20confirmations) can help!
 
 ## What we aren’t
 
@@ -48,14 +48,14 @@ VA Notify does not…
 - Pull data to trigger notification events
 - Provide notification scheduling services, though we may throttle or queue notifications based on volume concerns
 - Support newsletter notifications
-- Store veteran data
-- Track analytics per veteran
+- Store Veteran data
+- Track analytics per Veteran
 
 ## Supported notification channels (types)
-Currently we support email, text messaging (SMS), push notifications with the Flagship Mobile App, and onsite notifications on VA.gov, My VA dashboard. You can find the VA Standard Operating Procedures for SMS [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
+Currently we support email, text messaging (SMS), push notifications with the Flagship Mobile App, and onsite notifications on VA.gov, My VA dashboard. You can find the VA Standard Operating Procedures for SMS [here](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
 
 ## Onboarding to VA Notify
-Welcome! Please submit an [intake form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=christy-tongty%2C+mjones-oddball%2C+GitSamJennings&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.
+Welcome! Please submit an [intake form](https://github.com/department-of-Veterans-affairs/va.gov-team/issues/new?assignees=christy-tongty%2C+mjones-oddball%2C+GitSamJennings&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) to kick off the process. This lets us know a little bit more about you and what you’re trying to accomplish to ensure VA Notify is a good fit. From there we may schedule a kick-off meeting to learn more and guide you through next steps.
 
 ## Getting access to our Self Service Portals
 The VA Notify self service portal empowers your team to create and manage notification templates, while also providing helpful documentation and tips for your notification journey.
@@ -77,7 +77,7 @@ Please note: to access a lower environment with PIV, i.e. Staging, your user mus
 ## Timeframe
 The exact timing depends on your team’s schedule and the type of notification.
 
-Email is much quicker to launch than SMS because there are less steps. SMS requires us to acquire sender phone number(s) for your use case (short codes or 10DLCs), which can take up to 12 weeks. If communication preferences are needed, we must account for scheduling with the VA Profile and Authenticated Experience teams to add this. Outside of these tasks, the timeline really comes down to your engineering effort and how quickly a Privacy Officer can do a content review. Please note we collaborate with all of our users on their content to ensure it meets VA standards. For SMS, please review our [standard operating procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
+Email is much quicker to launch than SMS because there are less steps. SMS requires us to acquire sender phone number(s) for your use case (short codes or 10DLCs), which can take up to 12 weeks. If communication preferences are needed, we must account for scheduling with the VA Profile and Authenticated Experience teams to add this. Outside of these tasks, the timeline really comes down to your engineering effort and how quickly a Privacy Officer can do a content review. Please note we collaborate with all of our users on their content to ensure it meets VA standards. For SMS, please review our [standard operating procedures](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf).
 
 If your notification requires VA Notify engineering work, we will review and provide a schedule.
 
@@ -92,7 +92,7 @@ Please note, this may differ based on your use case.
 - Budget approval for notifications *
 - Create your notification content (Privacy Officer review required) *
 - VA Notify submits a communication preference intake for your team (if applicable)
-    - Please note, if you have a new communication preference your team will need to determine a plan to communicate this to veterans so they know a new notification is available to opt into.
+    - Please note, if you have a new communication preference your team will need to determine a plan to communicate this to Veterans so they know a new notification is available to opt into.
 - SMS only: VA Notify requests applicable phone number(s)
 - Build your notification code to call the VA Notify API *
 - Test your notification *
@@ -108,7 +108,7 @@ Your technical team can review the [API documentation](https://staging.notificat
 To send a notification, you must first create a template in our Self Service Portal. There are different template types available (email/SMS). Once created, you can find a template ID under template details. This will be used in the API call to trigger the notification. Please note, if you use personalisations (dynamic content) in your template(s) you must include them in the notification request body.
 
 ### vets-api
-For teams using vets-api to trigger notification requests, please see https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/va_notify/README.md
+For teams using vets-api to trigger notification requests, please see https://github.com/department-of-Veterans-affairs/vets-api/blob/master/modules/va_notify/README.md
 
 ## Delivery Status Callbacks
 Callbacks provide status updates per notification sent, so your team can track individual successes and failures. 
@@ -184,7 +184,7 @@ Tech Stack
 - Template id(s), Service id, and API Key differ by environment.
 
 **Is there anything our team can use for local testing to get familiar with VA Notify prior to building the notification trigger code?**
-- See our [postman collection](https://github.com/department-of-veterans-affairs/notification-api/tree/master/documents/postman).
+- See our [postman collection](https://github.com/department-of-Veterans-affairs/notification-api/tree/master/documents/postman).
 
 **Sample Email request with personalisation**
 `{{notification-api-url}}/v2/notifications/email`
