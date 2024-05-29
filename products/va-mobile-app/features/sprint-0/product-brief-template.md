@@ -31,7 +31,7 @@
 
 * Who within VA do we need to ensure we work with?  Who has ‘veto’ power?
 
-## Open Questions
+### Open Questions
 
 * What do we need to learn before moving forward?
 
