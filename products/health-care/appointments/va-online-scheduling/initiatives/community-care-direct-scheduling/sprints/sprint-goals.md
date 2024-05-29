@@ -16,6 +16,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
 
 
 
@@ -41,6 +42,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
 
 
 
