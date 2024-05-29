@@ -16,7 +16,7 @@ Last updated by @SophiaPhilipMO: May 16, 2024
 
 
 
-## Activity Log
+## In-Person-Proofing Research Activity Log
 
 ### Subject Matter Expert (SME) Interviews 
 
