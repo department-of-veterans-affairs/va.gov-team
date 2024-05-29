@@ -1,5 +1,5 @@
 # Key Terms
-Key terms related to the Accredited Representation Management team's work.
+_Key terms related to the Accredited Representation Management team's work._
 
 accredited, representative, representation, power of attorney, poa
 
