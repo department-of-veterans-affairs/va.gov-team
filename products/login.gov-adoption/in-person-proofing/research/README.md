@@ -17,7 +17,7 @@ Last updated by @SophiaPhilipMO: May 16, 2024
 
 
 ## In-Person-Proofing Research Activity Log
----
+
 
 ### Subject Matter Expert (SME) Interviews 
 
@@ -37,74 +37,79 @@ SME Interviews of MHV coordinators were conducted in order to better understand 
 
 Without conducting these SME interviews, there would be little to no understanding of the barriers that VA staff currently face when attempting to verify a Veterans identity in person. Based on the insights that were gained during these interviews, the design team was able to properly design the Proofing Agent screens within the custom application. 
 
+---
+
+
 ### In-Person Identity Proofing Veteran Usability Testing
 
-### Deliverables
+#### Deliverables
 
 [In-Person Identity Proofing Veteran Facing Figma Prototype ](https://www.figma.com/design/8NZqFwgVI5RScTAnUjB1u0/12-2023-In-Person-Proofing-Veteran-Usability-Test?node-id=0%3A1&t=EhFWDudjA4eDtMDC-1)
 
 [Research Report ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Veterans/2023-12-in-person-proofing-pilot-Veteran-usability-test/2023-12-in-person-proofing-Veteran-usability-test%20Research%20Report.MD)
 
-### Date Presented
+#### Date Presented
 
 Sprint 39
 
 February 2024  
 
-### Summary 
+#### Summary 
 
 We conducted this work to gain deeper insights and inform design iterations on the current version of In-Person Identity Proofing. Testing was conducted remotely on Zoom using the Figma prototype of Veteran facing In-Person Identity Proofing screens. 
 
-### Value Add
+#### Value Add
 
 Testing the custom application further supported the solution that the design and research team presented. 
 
+---
 
-## In-Person Identity Proofing Proofing Agent Usability Testing 
+### In-Person Identity Proofing Proofing Agent Usability Testing 
 
-### Deliverables 
+#### Deliverables 
 
 [In-Person Identity Proofing Proofing Agent Facing Figma Prototype ](https://www.figma.com/design/zByOO6fHv5FJswiQtUYxia/02-2024-In-Person-Proofing-Proofing-Agent-Usability-Test?node-id=0%3A1&t=4VejCg1OHMzfXvZQ-1)
 
 [Research Report ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Proofing%20Agent/2024-1-in-person-proofing-pilot-proofing-agent-usability-test/2024-1-in-person-proofing-pilot-proofing-agent-usability-test-research-report.md)
-
-### Date Presented 
+#### Date Presented 
 
 Sprint 42
 
 March 2024
 
-### Summary 
+#### Summary 
 
 To gain deeper insights and inform design iterations on the current version of In-Person Identity Proofing. Testing was conducted remotely on Zoom using the Figma prototype of proofing agent In-Person Identity Proofing screens. Proofing agents are the authorized VA staff that would facilitate in-person proofing.
 
-### Value Add
+#### Value Add
 
 Without conducting Proofing Agent usability testing, the design team would have been unable to conclude that the custom application design would meet future proofing agent requirements and address common pain points that they currently experience when verifying Veterans identities In person. 
 
-## Screen Reader Prototype for Veteran Usability Testing 
+---
 
-### Deliverables 
+### Screen Reader Prototype for Veteran Usability Testing 
+
+#### Deliverables 
 
 [Screen Reader Prototype for Veteran Usability Testing Testing ](https://www.figma.com/file/PfrWKmxiQ5RjChwx6I18QE/IPP-Prototypes?type=design&node-id=0%3A1&mode=design&t=Xq5CarzZJjfYcBM4-1)
 
 [Research Report ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/IPP%20Usability%20Testing%20Veterans/2023-12-in-person-proofing-pilot-Veteran-usability-test/2023-12-in-person-proofing-Veteran-usability-test%20Research%20Report.MD)
 
-### Date Presented
+#### Date Presented
 
 01/03/2024
 
 Sprint 36
 
-### Summary
+#### Summary
 
 To gain deeper insights and inform design iterations on the current version of In-Person Identity Proofing for participants using screen readers. Testing was conducted using a Figma prototype of Veteran facing In-Person Identity Proofing screens. 
 
-### Value Add
+#### Value Add
 
 Without conducting this test, the design and research team would have been unable to ensure that our custom application meets accessibility requirements and that the application could be used by those individuals requiring assistive technology. 
 
-
+---
 
 
 <br>
