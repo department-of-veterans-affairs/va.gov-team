@@ -45,6 +45,7 @@ body:
         - Magnum Opus - Paula G. Mendoza
         - Liberty IT -  Michael G. Lovejoy
         - Accenture Federal Services - Alexa Elliot
+        - Coforma - Jeff Langworthy
         - Other - please specify in 'Additional Notes'
     validations:
      required: true
