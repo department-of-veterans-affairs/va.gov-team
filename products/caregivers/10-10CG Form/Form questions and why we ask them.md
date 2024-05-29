@@ -26,10 +26,10 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
 |Home Address| Street Address | Y | Veteran home address is required, as the CG program conducts home visits on occassion | [CG Fact Sheet](https://www.caregiver.va.gov/pdfs/FactSheets/PCAFC-Roles-Responsibilities-Requirements-FactSheet.pdf#)|
-|Home Address| Street Address Line 2 | N |same as above|same as above|
-|Home Address| City | Y | same as above|same as above|
-|Home Address| State/Province/Region | Y | same as above|same as above|
-|Home Address| Postal Code | Y |same as above|same as above|
+|Home Address| Street Address Line 2 | N |Veteran home address is required, as the CG program conducts home visits on occassion | [CG Fact Sheet](https://www.caregiver.va.gov/pdfs/FactSheets/PCAFC-Roles-Responsibilities-Requirements-FactSheet.pdf#)|
+|Home Address| City | Y | Veteran home address is required, as the CG program conducts home visits on occassion | [CG Fact Sheet](https://www.caregiver.va.gov/pdfs/FactSheets/PCAFC-Roles-Responsibilities-Requirements-FactSheet.pdf#)|
+|Home Address| State/Province/Region | Y | Veteran home address is required, as the CG program conducts home visits on occassion | [CG Fact Sheet](https://www.caregiver.va.gov/pdfs/FactSheets/PCAFC-Roles-Responsibilities-Requirements-FactSheet.pdf#)|
+|Home Address| Postal Code | Y |Veteran home address is required, as the CG program conducts home visits on occassion | [CG Fact Sheet](https://www.caregiver.va.gov/pdfs/FactSheets/PCAFC-Roles-Responsibilities-Requirements-FactSheet.pdf#)|
 |Contact Info|Primary telephone number | Y | We will use home phone as another means of communication | [CG Program Fact Sheets](https://www.caregiver.va.gov/support/support_benefits.asp#:~:text=More%20Information%20about%20the%20program)|
 |Contact Info|Alternate telephone number | N | We will use mobile phone as another means of communication | **TBD**|
 |Contact Info|Email Address | N | We will use email as another means of communication, especially for application submission statuses (success & failure)| **TBD**|
