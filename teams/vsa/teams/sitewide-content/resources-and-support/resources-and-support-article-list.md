@@ -104,6 +104,7 @@
 | 102 | [Getting care through the Foreign Medical Program](https://www.va.gov/resources/getting-care-through-the-foreign-medical-program/) | Health care | 11/30/23 |
 | 103 | [How to file a VA Foreign Medical Program claim](https://www.va.gov/resources/how-to-file-a-va-foreign-medical-program-claim/) | Health care | 11/30/23 |
 | 104 | [How does multifactor authentication differ from identity verification](https://www.va.gov/resources/how-does-multifactor-authentication-differ-from-identity-verification/) | VA account and profile | 1/17/24 |
-| 105 |[VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/) | Decision reviews           | 4/19/24              |       | 
-| 106 |[Regional processing office addresses for GI Bill applications](https://www.va.gov/resources/regional-processing-office-addresses-for-gi-bill-applications) | Education           | 5/16/24              |       | 
-| 107 |[Mental health copay exemptions](https://www.va.gov/resources/menta-health-copay-exemptions) | Health care           | 5/29/24              |       | 
+| 105 |[Veterans Affairs Servicing Purchase (VASP) program FAQs](https://www.va.gov/resources/veterans-affairs-servicing-purchase-vasp-program-faqs) | Housing assistance           | 4/12/24              |       | 
+| 106 |[VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/) | Decision reviews           | 4/19/24              |       | 
+| 107 |[Regional processing office addresses for GI Bill applications](https://www.va.gov/resources/regional-processing-office-addresses-for-gi-bill-applications) | Education           | 5/16/24              |       | 
+| 108 |[Mental health copay exemptions](https://www.va.gov/resources/menta-health-copay-exemptions) | Health care           | 5/29/24              |       | 
