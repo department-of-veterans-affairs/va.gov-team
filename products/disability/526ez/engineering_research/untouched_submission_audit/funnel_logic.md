@@ -32,7 +32,7 @@ Our journey from 'every submission in our database' to 'just the untouched' ones
 
 Each of these ingests a set of data and passes it's result to the next.  At a high level:
 
-- **The query layer** checks various datapoints on and around the submission record, determining (and applying) a state. State is held in the `aasm_state` value of the submission. Using these tags we can quickly eliminate successful submissions, leaving behind submissions 'of interest'.  From these submissions we extract the associated user uuids (not submission IDs) and pass these to the de-duplicating layer.
+- **The query layer** checks various datapoints on and around the submission record, determining (and applying) a state. State is held in the `aasm_state` value of the submission. Using these tags we can quickly eliminate successful submissions, leaving behind submissions 'of interest'.  From these submissions we extract the associated user uuids (not submission IDs) and pass these to the de-duplicating layer. Note that we do not *need* to record state in the `aasm_state` value, if we are running the entire funnel in a single script we can simply pass the results on.
 - **The de-duplicating layer** This layer accepts a list of potentially affected users in the form of their `user_uuid` values.  For each user we examine all of their submissions. This user submission set is broken down into duplicate sets (dupe-sets) based on 'sameness'. The result of this layer is a nested arrays (dupe-sets of submission ids per user) which is passed to the rule application layer.
 - **The Rule application layer** For each dupe-set, we apply a set of rules, resulting in 0 or 1 submissions per dupe set that need to be investigated as 'untouched'.
 
