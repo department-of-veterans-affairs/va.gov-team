@@ -204,7 +204,7 @@ This study found several areas that are potentially creating dissatisfaction wit
 ### 7. AccessVA page likely causes confusion
    - A. AccessVA is an authentication page that sits on VA.gov but doesn’t even include a link to get back to VA.gov, which is the front door to VA. While we understand that this page is likely to continue to exist for the near to mid term, we also consider it important to make sure veterans are able to get to VA.gov, and can easily get to the USiP or the sign in modal there, especially when they originated from there before they ran into an error. Some IAM error pages also point to the AccessVA page, even for folks who get to the error page from VA.gov, creating a dead end where folks can't get back to where they started from.
       - This page’s address is https://eauth.va.gov/accessva
-      - **Recommendation 7A.1**: At minimum we or IAM, who ones the AccessVA page, should spend a sprint to add links to VA.gov and/or to the USiP
+      - **Recommendation 7A.1**: At minimum we or IAM, who owns the AccessVA page, should spend a sprint to add links to VA.gov and/or to the USiP
 
 ### 8. Considerations for how our team integrates into this work 
    - A. With this product, we’ll be working with many teams. We’ll also want to make sure that we are kept aware when other teams what to add or make changes to the sign in flows from their pages. 
