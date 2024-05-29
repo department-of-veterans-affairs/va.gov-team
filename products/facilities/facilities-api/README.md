@@ -20,6 +20,8 @@ Current versions:
     - cems.xml which has State, Local, and Tribal Cemeteries
 - PPMS / Community Care (/ccp endpoint)
 
+Facility Locator documentation includes additional info on the [Process for reporting inaccurate data in Facility Locator ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md).
+
 ### vets-API Facilities API v1
 ```mermaid
 flowchart LR
