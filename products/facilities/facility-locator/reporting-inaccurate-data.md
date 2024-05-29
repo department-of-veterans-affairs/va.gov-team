@@ -56,7 +56,7 @@ Community care providers and pharmacies (usually non-VA facilities)	| N/A
 ## Facilities & CMS Team workflows
 
 ### Facilities team
-If Facilities team learns about any incorrect Facility data, contact VHA DM for follow up with the relevant Editor.
+If Facilities team learns about any incorrect VHA Facility data, contact VHA DM for follow up with the relevant Editor.
 
 ### Helpdesk (CMS Team)
 If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, flag with Editors to follow the runbook above.
