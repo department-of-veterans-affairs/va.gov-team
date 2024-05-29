@@ -42,6 +42,21 @@ Veterans with pending disability compensation claims.
 
 Our core bet is that if we provide veterans with a clearer understanding of their unique responsibilities versus the VA's at each stage of the claims process, they will be able to more effectively contribute to their own claims. By redefining how the claims process is depicted in the CST, not just as a linear timeline, but as a process that may cycle between stages, we can align veterans' expectations with the reality of the claims process. This increased understanding should lead to veterans submitting more accurate and relevant evidence in a timely fashion, thereby facilitating a smoother and more efficient claims process.
 
+# MVP
+
+## Approach
+
+ * Expand the claim phases to the eight provided by Lighthouse, unpacking the evidence gathering review phase into multiple steps
+
+## In Scope
+
+* Disability compensation claims
+
+## Out of scope
+
+* Non-disability compensation claims
+* Supplemental claims, appeals, and HLRs. 
+
 
 ## How we will know if we are right (KPIs)
 
