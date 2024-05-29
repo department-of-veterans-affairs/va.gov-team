@@ -24,7 +24,10 @@
     Passcode: S3!v9guG         
 - Meeting recording with Ligthhouse to discuss progress of synchronous submit endpoint:       
   - https://us06web.zoom.us/rec/share/1R3KWDbfwI9MG9Ghgm1bXwbv63uyd61SYjItE8YDaCN_cv6OeQIeHb0v1fWTN8aw.4c20SnZ2xyuqD8Yi       
-    Passcode: d%Y&6hfh       
+    Passcode: d%Y&6hfh
+- Meeting recording with Teams 1 & 2 to discuss delivery plan:
+  - https://us06web.zoom.us/rec/share/SMoqdUKyXnKpzKqU7FPr0lUrjclqAFkO3N4or8sfdX9V49KqcZ2bgYvsp64yk-Jt.U_e1OwIUDgTtd0JA
+    Passcode: $3CazkrD          
 
 ## Risks / Impediments
 - External dependency: Lighthouse /submit endpoint
