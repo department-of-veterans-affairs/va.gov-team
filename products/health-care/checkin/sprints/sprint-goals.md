@@ -125,12 +125,11 @@ ________________________________________________________________________________
              - **SUB-NOTE: Prior to OCTO review, meet as CIE team to demo and review if release has added value to Veterans, knowing that interdependent features were removed, e.g., upcoming appointments**
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
-        - 🟩 [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
-        - 🟩 [[FE] Alert content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83781)
-        - 🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
-        - 🟩 [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
+        - 🟩 ✔️ [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
+        - 🟩 ✔️ [[FE] Alert content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83781)
+        - 🟩 ✔️ [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
+        - 🟩 ✔️ [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
         - 🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
-        - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)
 
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
