@@ -99,10 +99,13 @@ Without this design mockup, VA staff would not know the purpose of the pilot and
 
 07/27/2023
 
-**Summary **
+#### Summary 
 
 Prototype of In-Person Identity Proofing service prepped for workshop conducted with OCTO, NIST, and[ Login.gov](http://login.gov/) to evaluate the security assurance of the service.
 
-**Value Add**
+#### Value Add
 
 This workshop was the first meeting between the Office of the Chief Technology Officer, National Institute of Standards and Technology, and Login.gov to establish a common understanding for why an in person verification service is needed and how this service can be developed to uphold NIST security guidelines. In this meeting, we were able to identify the most effective and secure pathway, the necessary technologies, and the key players of the service. We also set up monthly check-in’s with Login.gov to ensure smooth and transparent collaboration. Without this workshop, we would not have established important relationships and common understanding to kick off the work on a brand new service.
+
+---
+
