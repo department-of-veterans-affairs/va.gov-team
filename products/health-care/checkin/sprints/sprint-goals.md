@@ -81,7 +81,8 @@ Write up tickets per page for mocks
 <summary>FUTURE SPRINT - 5/29/2024 - 6/11/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 8 - 5/29/2024 - 6/11/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 8 - 5/29/2024 - 6/11/2024 CURRENT SPRINT
+
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
@@ -138,11 +139,10 @@ ________________________________________________________________________________
         - 🟪 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
 
-</details>
 
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 7 - 5/15/2024 - 5/28/2024  CURRENT SPRINT
+## SPRINT 7 - 5/15/2024 - 5/28/2024  
 #### SPRINT GOALS
 - **GOAL: Support Production**
     - **Sub Goal: Move to New AWS Instance**
