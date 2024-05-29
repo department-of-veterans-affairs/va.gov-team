@@ -99,7 +99,7 @@ _Link to DOMO dashboards TBD_
 3. **Contact Center calls (MyVA411)**: 
 4. **Feedback survey submmissions (Medallia)**:  
 
-**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** 
+**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** The team is looking into the scenarios behind the error statuses that are being received from the Lighthouse Benefits Claims API.  From there, we will consider improving our error messaging to better guide this subset of users.
 
 ### 1-Month Results (5/20-6/20)
 
