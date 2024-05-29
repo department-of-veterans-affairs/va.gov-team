@@ -98,3 +98,12 @@ Given a set of duplicate submissions (a dupe-set, as defined previously)
     - IGNORE the rest
 
 The code that applies this logic lives here in the Primary Script above.
+
+## Summary
+
+It might be more accurate to describe this as a sieve than a funnel. We are simply whittling down *all* submissions to the ones that require remediation.  The layers could be accurately rebranded...
+- Exclude successful submissions
+- group the remainders by sameness
+- from each group of duplicates, pick the one that needs attention, if it exists
+
+[The result of this funnel / sieve is a list of submissions that will be remediated via the process outlined here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/526-submission-failure-manual-submission.md)
