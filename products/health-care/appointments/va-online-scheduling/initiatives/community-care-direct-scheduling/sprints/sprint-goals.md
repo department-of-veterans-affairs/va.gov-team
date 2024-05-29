@@ -6,15 +6,22 @@
 ______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 9 - 6/12/2024 - 6/25/2024  ------- FUTURE FUTURE / TENTATIVE ------
+
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create KPIs**
-    - **Sub Goal: [Feature] Create FE mocks to mitigate risk after WellHive connection work begins**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
-    - **Sub Goal: [Feature] Surface referrals for Veterans**
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+
+
+
+#### PLANNED RELEASES 
+- NONE
+
       
 </details>
 
@@ -40,8 +47,7 @@ ________________________________________________________________________________
 
 #### NOTES
 - If time permits, create integrate mocks per page tickets.
-- If time permits, create add functional notes using Figma Annotation Library per page tickets (to support integration of mocks per page). 
-
+- If time permits, create add functional notes using Figma Annotation Library per page tickets (to support integration of mocks per page).
 
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
