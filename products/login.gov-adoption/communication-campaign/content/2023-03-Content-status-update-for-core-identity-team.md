@@ -27,7 +27,7 @@ Last updated by @CarlDickerson @tygindraux: March 14, 2023
 |Blog|Initial awareness post went out in early January; plans in comms strategy for at least 2 more posts leading into launch; Collected feedback from blog & social to inform opportunities for future content; Work with VEO to define next posts & timing|
 |Newsletter|Awareness feature went out in early January; plans in comms strategy for at least 2 more posts leading into launch; Work with VEO to define next posts & timing|
 |Pre-login modal|We cannot target users pre-login, so there will be no modal; Have discussed and plans for pre-login urgency banner- “DS Login is going away xx date”, closer to sunsetting of DS Logon.|
-|Post-login modal|Content drafted; Reviewing in [Round 1 of Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability)|
+|Post-login modal|Content drafted; Reviewing in [Round 1 of Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/research/2023-04-Proactive-CSP-Migration-Usability)|
 |Post-login required acknowledgement (Ask user to confirm if they understand that the sunset is happening)|Can you explain what you mean here?|
 |Aug: Begin blocking (modal to remind the user who is logging in with DS Logon to use ID.ME/Login.gov to login)|This isn’t something we’d been considering, it does mean that the Veteran would lose the opportunity to grandfather their account before DS Logon is actually sunset.|
 |Sept: Remove DSL Button|No work done yet. But this will be something that happens. (Deadline is TBD)|
