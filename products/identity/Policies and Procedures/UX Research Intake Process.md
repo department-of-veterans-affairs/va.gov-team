@@ -12,6 +12,16 @@
      - Foundation of a future Product Brief or added to an existing Epic.
    - The task is fully deprioritized, and will never be worked upon.
   
+## SIPOC Chart
+**Goal: Intake New Work from UX**
+
+| Supplier  | Inputs     | Process | Outputs | Customers | 
+| :------------- |:------------- | :----- | :----- |  :----- |
+| UX Team | UX Research Findings   | UX creates findings doc | Feedback  | Veterans | 
+|  | Team Meetings  | Team discusses findings | Tasks  | VA.gov Product Teams | 
+|  |  | Tasks are created | Prioritizations |  | 
+|  |  | Tasks are prioritized |  |  | 
+  
 ## Expectations
 - **Feedback:** each crew lead and product managers will provide feedback either verbally or in written form for each of the recommendations and findings (where a recommendation is not formulated) provided by the UX research.
 
