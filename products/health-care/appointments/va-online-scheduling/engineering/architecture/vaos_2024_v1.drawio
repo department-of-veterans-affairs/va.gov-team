@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T16:36:43.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Zw7bYPTmQlL6sWw8agu2" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T16:40:33.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7H0RhZqAZ233TaN_EHRx" version="24.4.8" type="github">
   <diagram id="J299OrNDrJW-YTR5PU5g" name="Page-1">
-    <mxGraphModel dx="2815" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="1296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.5" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,10 +33,13 @@
         <mxCell id="KmuFEiy8gwxwUrOHWcom-3" value="Flagship mobile app" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-102" y="135" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KmuFEiy8gwxwUrOHWcom-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.999;exitY=0.426;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KmuFEiy8gwxwUrOHWcom-4" target="KmuFEiy8gwxwUrOHWcom-22" edge="1">
+        <mxCell id="KmuFEiy8gwxwUrOHWcom-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.994;exitY=0.453;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KmuFEiy8gwxwUrOHWcom-4" target="KmuFEiy8gwxwUrOHWcom-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="480" y="157" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="480" y="173" />
+              <mxPoint x="480" y="173" />
+            </Array>
+            <mxPoint x="470" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KmuFEiy8gwxwUrOHWcom-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r6deMkh1V9EVogIIxijR-24" target="KmuFEiy8gwxwUrOHWcom-60" edge="1">
@@ -127,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KmuFEiy8gwxwUrOHWcom-22" value="mobile facility&lt;div&gt;service v2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="753" y="129" width="120" height="60" as="geometry" />
+          <mxGeometry x="753" y="128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KmuFEiy8gwxwUrOHWcom-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KmuFEiy8gwxwUrOHWcom-24" target="KmuFEiy8gwxwUrOHWcom-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -166,8 +169,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="983" y="-45" />
-              <mxPoint x="1053" y="-45" />
-              <mxPoint x="1053" y="-105" />
+              <mxPoint x="1040" y="-45" />
+              <mxPoint x="1040" y="-105" />
             </Array>
           </mxGeometry>
         </mxCell>
