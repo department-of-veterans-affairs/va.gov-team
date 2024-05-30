@@ -11,4 +11,17 @@
    - The task will be worked on in the future.
      - Foundation of a future Product Brief or added to an existing Epic.
    - The task is fully deprioritized, and will never be worked upon.
+  
+## Expectations
+- **Feedback:** each crew lead and product managers will provide feedback either verbally or in written form for each of the recommendations and findings (where a recommendation is not formulated) provided by the UX research.
+
+- **Prioritizations:** Product Managers will document the research recommendations with the output feedback within the appropriate product folders inside github. Links to the research will be referenced within the feedback documents.
+
+- **Tasks:** Product Managers will create the appropriate user stories for each of the agreed upon planned work items. These user stories will remain in the product brief as “future work” until it’s ready to be worked on and documented within an epic. For the sake of keeping our boards clean, work should not be added until as a user story, it should only be added once the work has been refined and approved by all necessary parties.
+
+## Notes
+- Not all research findings require a robust review and approval process. For example, bugs that are discovered with current products that the engineers determine can be fixed without major changes, would be completed as soon as engineers are available. 
+- Bugs should still go through the PMs and crew leads, however they should be expedited to ensure we minimize the impact of the newly discovered bug.
+- Not all findings require work to be done, however they all require a response as to why the work will not be completed.
+
 
