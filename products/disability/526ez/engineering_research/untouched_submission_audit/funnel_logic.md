@@ -99,6 +99,18 @@ Given a set of duplicate submissions (a dupe-set, as defined previously)
 
 The code that applies this logic lives in the Primary Script above.
 
+### Why are these the rules?
+
+Experts from a slack converation about this...
+
+**Question:**
+I'm curious why only the earliest duplicate, in a set where duplicates were created before a successful submission, is investigated. Why not any of the later duplicates? Because they're a duplicate of the earliest and successful submission? Shouldn't we only be concerned with submissions and duplicates of submissions that never resulted in some sort of success state? Wouldn't an "untouched" duplicate of a successful submission be considered successful by analogy?
+
+**Answer**
+Yes, correct. we have the earliest duplicate, everything after can be eliminated from consideration. The reason we want the earliest duplicate is to ensure the vet isn't missing out on benefits back-paid to that date. However, in the case where the earliest duplicate is also the successful duplicate, then yes we can consider the rest successful by analogy / aka safe to ignore 
+
+At a high level, our goal is to have 1 submission per set of duplicates.  We want the earliest one because that ensures the veterans benefits will be paid back to the appropriate time period.  So to think of it another way, we are simply taking the earliest submission from a set of duplicates, regardless of wether or not there are successes in the duplicate set.  In the case where there is a later dupe that was successful, we offload that decision / complexity to an adjudicator down the pipe.
+
 ## Summary
 
 It might be more accurate to describe this as a sieve than a funnel. We are simply whittling down *all* submissions to the ones that require remediation.  The layers could be accurately rebranded...
