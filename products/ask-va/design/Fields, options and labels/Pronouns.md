@@ -1,6 +1,11 @@
 # Recommendation to remove pronouns from Ask VA
 Last updated by @tygindraux: April 4, 2024
 
+## Update on May 30, 2024
+We will continue to ask for pronouns in the form, but only for the submitter. This is because pronouns are self identifying. The submitter cannot provide someone else's pronouns.
+
+We met with John Williams and Nancy Clarkson to confirm when we the Ask VA form should ask for pronouns. See complete meeting notes [in this GotHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/meeting-notes/pronoun-collection/pronoun-collection-meeting-May-30.md). Nancy Clarkson is the lead enterprise data architect for the Enterprise Demographics Implementation and Integration (EDII) effort.
+
 ## Update on April 3, 2024
 
 As of April 3, 2024, **we have decided we will keep pronouns in the form**. They will be optional. We will only ask for the pronouns of the subject of the inquiry if they are not the submitter. We will not ask for the submitter's pronouns.
