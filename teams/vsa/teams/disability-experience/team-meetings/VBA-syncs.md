@@ -3,6 +3,9 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 ## 5/28/24 Biweekly VBA-DBEX Check-in
 ### Notes
+- 5103 Claim Certification
+  - We want to try revising some of the claim certification piece to put it into more plain language. Is there a team within VBA (Office of policy of oversight?) that we could work with on approving this?
+  - Alternative approach to the bottom paragraph could be to dynamically populate the content shown there regarding evidence (figma)
 - 0781    
   - [1.1] Event type checkboxes - do the options look good? Is “other” intentionally vague?     
     - Is it ok if a veteran has one event, but checks multiple boxes here?     
@@ -13,9 +16,7 @@ Goal of the meeting series: addressing policy related or other open questions fo
     - Official report question - do we need to know type of “other”? Or is checking “other” good enough?      
 - Asking Veterans online about life-threatening illness      
   - Currently, we have a question asking Veterans online if they have a life-threatening illness and then send a flash from the 526. With the new Lighthouse synchronous endpoint, we will not be setting flashes. Should we remove this from the online form?
-- 5103 Claim Certification
-  - We want to try revising some of the claim certification piece to put it into more plain language. Is there a team within VBA (Office of policy of oversight?) that we could work with on approving this?
-  - Alternative approach to the bottom paragraph could be to dynamically populate the content shown there regarding evidence (figma)
+
 
 ## 5/14/24 Biweekly VBA-DBEX Check-in
 ### Notes
