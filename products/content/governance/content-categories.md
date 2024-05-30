@@ -20,6 +20,8 @@ Basic information Veterans and other beneficiaries need to quickly and easily di
 
 Supplemental information to empower Veterans and other beneficiaries to fully understand their VA benefits and related tools or services
 
+- How-to type content
+
 **Home:** Modernized VA.gov resources and support section
 
 #### 1.1.3 Location-specific benefit and service content
@@ -48,6 +50,7 @@ Information that Veterans and other beneficiaries need to understand and manage 
 ##### 2.1.1.2 VA researchers
 ##### 2.1.1.3 Other VA medical personnel
 ##### 2.1.1.4 Non-health care employees
+##### 2.1.1.5 Contact center representatives, My HealtheVet coordinators, and other staff who directly support Veterans in navigating tools and benefits
 
 #### 2.1.2 Prospective VA employees and volunteers
 
