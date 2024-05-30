@@ -62,7 +62,7 @@ Information that Veterans and other beneficiaries need to understand and manage 
 
 ### 2.4 VSO content
 
-### 2.5 School administrator content
+### 2.5 School certifying officials
 
 ### 2.6 Contractors and businesses that do business with VA
 
