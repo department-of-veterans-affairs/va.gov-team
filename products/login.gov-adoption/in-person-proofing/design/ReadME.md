@@ -91,7 +91,7 @@ Without this design mockup, VA staff would not know the purpose of the pilot and
 
 #### Deliverables
 
-[Lo-Fi Workshop ](https://www.figma.com/design/zVHX0aBO0eC0sYvqW39zUG/In-Person-Proofing-Lo-Fi-Workshop-(7%2F26%2F23)?node-id=0%3A1&t=3PPVbWeDhEan2NmN-1)
+[Lo-Fi Wireframes for Workshop ](https://www.figma.com/design/zVHX0aBO0eC0sYvqW39zUG/In-Person-Proofing-Lo-Fi-Workshop-(7%2F26%2F23)?node-id=0%3A1&t=3PPVbWeDhEan2NmN-1)
 
 [Workshop Meeting Notes](https://www.google.com/url?q=https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/meeting-notes/07_27_2023_IPP_Workshop.md&sa=D&source=docs&ust=1716995535203508&usg=AOvVaw3wX9qLW7QAXomyVxhblEgG)
 
