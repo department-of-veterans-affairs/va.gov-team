@@ -1,6 +1,7 @@
 # Running Design and Research Agenda
 
 ## May 30, 2024
+### Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Bo Altes, Mary Wang, Premal Shah, Devi Hill
 ### Agenda topics
 - 10-10d update - [analysis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712766096062/a4141cf44d7867853fb69698ea6003aa2216d5d4?wid=0-1717015651965&sender=u3844370d13a440a7859d3526)
 - July 8 FMP readout at Monday meeting / currently unscheduled stakeholder readout
