@@ -49,7 +49,19 @@ ________________________________________________________________________________
 #### PLANNED RELEASES 
 - NONE
 
-      
+#### SPRINT TICKETS
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+         - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
+    - **Sub Goal: [Feature] Create KPIs**
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - **Sub Goal: [Feature] Get connected with WellHive**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Integrate mocks with FE pages**      
+
+
 </details>
 
 
