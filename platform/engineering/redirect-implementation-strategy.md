@@ -34,6 +34,7 @@ As a veteran, I want to my old www.subdomain.va.gov or www.va.gov/something book
 |[4b](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/o injected header <br>(Client-side )| subdomain.va.gov/* (TeamSite not loading proxy-rewrite) | www.va.gov/* | TeamSite admins must execute. Follow [WebOps KB article](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) steps. |
 |[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#5-redirects-from-subdomains-subdomainvagov-to-subdomains-subdomainvagov) | Subdomain > Subdomain redirect | subdomain.va.gov/* | subdomain.va.gov/* | TBD nature of the subdomain, details at the jump link. | 
 |[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#6-other) | Any subdomain redirect that is not a TeamSite loading proxy-rewrite | | | ESECC, details  at the jump link |
+|[7]| Page-level cross-domain redirect w/o injected header <br>(Client-side )| www.va.gov/*  | subdomain.va.gov/* (TeamSite not loading proxy-rewrite) | Public Websites Team can handle this through their revproxy deploy (Example [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84196) |
 
 
 
