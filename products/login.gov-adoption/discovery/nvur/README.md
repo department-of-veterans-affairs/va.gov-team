@@ -69,7 +69,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- Initiatives in Product Outline | [Link to Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/product/product-outline.md)
 
 --- 
 
