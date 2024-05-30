@@ -18,6 +18,7 @@
    - [2. IA and technical issues](#2-IA-and-technical-issues)
    - [3. Verification issues with CSPs](#3-Verification-issues-with-CSPs)
    - [4. Multi factor authentication difficulties](#4-Multi-factor-authentication-difficulties)
+      - For further context, [see a deep dive of MFA difficulties](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20deep%20dive%20KF4%20MFA.md)
    - [5. Content enhancements can decrease confusion around CSPs](#5-Content-enhancements-can-decrease-confusion-around-CSPs)
    - [6. UI updates to existing sign in and verification alerts](#6-UI-updates-to-existing-sign-in-and-verification-alerts)
    - [7. AccessVA page likely causes confusion](#7-AccessVA-page-likely-causes-confusion)
@@ -168,6 +169,7 @@ This study found several areas that are potentially creating dissatisfaction wit
    - **Recommendation 3A.1**: Dive deeper on the issues around out-of-data personal information especailly where and why this is happening. With the survey data we have, it’s a bit unclear if these are with the CSPs or on the VA side or both. Note: this may be a task better suited for the Secure Sign in Transition (SST) team (fka Login.gov adoption team) and/or the Authenticated Experience team or whoever else might deal with folks profiles and personal information.
 
 ### 4. Multi factor authentication difficulties
+Note: for further context on this topic [see the deep dive of MFA difficulties](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20deep%20dive%20KF4%20MFA.md)
    - A. Folks with limited cell phone or data access (like with DoD jobs), certain disabilities (like blindness, physical or cognitive disability) or who had recently changed phone numbers (but MFA still sending to wrong number), felt locked out of their account at least at those given times
       - **Recommendation 4A.1**: Promote alternative MFA methods in cases where that could be helpful, understanding that most veterans are most comfortable with a phone call, SMS, or email (which is a method our CSPs don't offer). Backup codes or a security key may aleviate painpoints in some circumstances
       - **Recommendation 4A.2**: Increase the time from when veterans have to do the MFA step from every authentication to something longer, like once a month, when signing in from the same device and IP. This could manifest on the FE with a “remember this device” option.
