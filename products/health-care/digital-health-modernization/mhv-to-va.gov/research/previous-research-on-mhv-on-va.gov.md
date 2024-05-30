@@ -35,7 +35,7 @@ Below is a list of research that has been carried out to develop and support the
 - [Medical Records Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) (September 2022)
 
 ## Medications research
-- [Medications Usability Testing - Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-05-medications-usability-testing-round3-AT)
+- [Medications Usability Testing - Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-05-medications-usability-testing-round3-AT) (May 2024)
 - [Medications Findability Generative Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-02-findability-study) (February 2024)
 - [Medications Usability Testing - Complex Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT) (November 2023)
 - [Medications Usability Testing Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1) (July/ August 2023)
