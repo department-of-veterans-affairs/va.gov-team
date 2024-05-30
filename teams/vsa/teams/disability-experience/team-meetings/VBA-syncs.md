@@ -1,7 +1,7 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
-## 5/28/24 Biweekly VBA-DBEX Check-in
+## 5/30/24 Biweekly VBA-DBEX Check-in
 ### Notes
 - 5103 Claim Certification
   - We want to try revising some of the claim certification piece to put it into more plain language. Is there a team within VBA (Office of policy of oversight?) that we could work with on approving this?
