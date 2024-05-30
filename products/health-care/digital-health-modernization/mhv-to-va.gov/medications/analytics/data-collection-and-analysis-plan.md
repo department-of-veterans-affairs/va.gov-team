@@ -2,7 +2,7 @@
 
 ## **Hypothesis**
 
-If we have designed a strong user experience for Phase 1 Medications, then we will see steady or increased usage each month suggesting that they understand and are able to use the new version.
+If we have designed a strong user experience for Phase 1 Medications on VA.gov, then we will see steady or increased usage each month suggesting that they understand and are able to use the new version.
 
 ## **Primary Metrics**
 
