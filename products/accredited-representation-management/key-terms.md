@@ -8,3 +8,5 @@ Key terms related to the Accredited Representation Management team's work.
 **Form**: 21-22, 2122, 21-22a, 2122a
 
 **Related**: claims support
+
+**FAQ**: faq, frequently asked questions
