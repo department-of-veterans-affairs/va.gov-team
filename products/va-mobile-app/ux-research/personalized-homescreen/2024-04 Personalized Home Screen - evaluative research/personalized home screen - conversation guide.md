@@ -195,7 +195,9 @@ Validate the participant uses the VA Health and Benefits app and get permission 
   * *If yes:* Can you walk us through a situation in your life right now where you can imagine using it, and explain how this screen would help you?
   * *If no:* Can you tell us why not? Be as specific as you can, and please be honest. We won’t be offended by any opinions you express.
 * Is there something that you don't yet use the app to do, but that you think this first screen might help you do in the future?
-* *If they don’t mention the activity section:* Looking at that Activity section again, is there anything that you think would be helpful to see here in this section that you don’t see now?
+* Looking at that Activity section again, You have an open Claim here. What (if anything) do you think would happen in this area if you didn't have an open claim?
+* *If they don’t mention the activity section:* Is there anything that you think would be helpful to see here in this section that you don’t see now?
+
 
 ## Section 4: Thank-You and Closing (5 minutes)
 ### App + Testflight uninstall 
