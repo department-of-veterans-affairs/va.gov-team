@@ -57,6 +57,7 @@ Information that Veterans and other beneficiaries need to understand and manage 
 #### 2.2.2 Non-VA insurers/payers
 #### 2.2.3 Non-VA clinical research partners
 #### 2.2.4 Tribal health clinics
+#### 2.2.5 Academic affiliates
 
 ### 2.3 Fiduciary content
 
