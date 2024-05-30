@@ -12,6 +12,8 @@
 
 [Schedule Report in Domo](#schedule-report-in-domo)
 
+[Using Spreadsheets for Qualitative Analysis](#using-spreadsheets-for-qualitative-analysis)
+
 --------------
 
 ## Purpose
@@ -88,7 +90,7 @@ Analysis:
        -  Very Dissatisfied = 1
     
     - Add the number of satisfied customers (those who rated us a 4 or 5)
-    - Divide by the total number of answers
+    - Divide by the total number of responses
     - For example, if 62 of 100 responses have a rating of 4 or 5, your score would be 62.
   
     - In Excel:
@@ -100,6 +102,7 @@ Graphing:
 
 - Create a bar chart or pie chart showing the distribution of responses.
 - Highlight the percentage of Very Satisfied and Satisfied responses.
+- In the Domo Dashboard, this graph will update automatically upon importing the survey file.
 
 
 ### Q2. *Add a comment about the quality of service you received.*
@@ -112,10 +115,6 @@ Analysis:
 - Identify recurring issues or positive aspects.
 - Use sentiment analysis methods to gauge overall sentiment (positive, negative, neutral).
 
-Graphing Ideas:
-
-- Word cloud: Visualize frequently mentioned words.
-- Sentiment analysis chart: Show the balance of positive and negative sentiments.
 
 ### Q3. *If you answered anything other than Very Satisfied, what could our team do to make your experience one that warrants a Very Satisfied response?*
 
@@ -125,9 +124,6 @@ Analysis:
 
 - Group responses into categories (e.g., process improvement, faster resolution times, better communication).
 - Prioritize based on frequency and impact.
-
-Graphing:
-
 - Use a Pareto analysis (80:20 rule) to highlight the most common improvement areas.
 
 ### Q4. *Is there any additional feedback you would like to share?* 
@@ -235,13 +231,50 @@ Analysis:
 
 ------------------
 
-## Graphing Ideas
+## Using Spreadsheets for Qualitative Analysis  
 
-![Satisfaction Ratings Pie Chart in Excel](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/9135cec6-5f0b-4d6f-b9d7-153a4931193c)
+1. Understanding the Data
 
-Satisfaction Ratings Pie Chart in Excel
+- There are several columns in the spreadsheet (Columns A - T) representing additional pieces of data collected alongside the Support Satisfaction survey questions.
+- Quantitative data (Column P) will be analyzed using the CSAT formula.
+- Qualitative data (Columns Q, R, S) responses will require more attention.
+  
+2. Cleaning, Organizing, Coding, and Categorization of Data
 
-![Qualitative Fields Word Cloud](https://github.com/department-of-veterans-affairs/va.gov-team/assets/146007477/385798ed-3054-4870-9de7-150ccc013db5)
+- Read through each qualitative response (Columns Q, R, S).
+- Remove any irrelevant or duplicate responses.
+- Create a new column where you’ll summarize or categorize qualitative answers.
+- Identify common themes or recurring phrases.
+- Create codes or categories to group similar responses together (e.g., “Product Issues,” “Communication,” “Suggestions”).
 
-Qualitative Fields Word Cloud
+3. Create a Summary Table
+- In a separate sheet within the same file, create a summary table.
+- List your codes or categories in one column.
+- In the adjacent column, summarize the key points from the qualitative responses related to each code.
+- To provide context and support your findings, look for representative quotes.
+
+4. Thematic Analysis
+
+- Extract meaningful insights from the qualitative responses.
+- Dive deeper into each code or category by looking for patterns, outliers, and unexpected findings.
+
+5. Quantitative Metrics
+
+- Calculate the CSAT score.
+    - Add the number of responses with a “Very satisfied” or “Satisfied” rating. 
+    - Divide this number by the total number of responses. 
+- Use pie charts to visualize this metric each month.
+- Use bar graphs to visualize the score over several months.
+
+
+6. Recommendations and Action Items
+
+- Compile your findings into a monthly Support Satisfaction report.
+- Show the CSAT score for the month, numerically and graphically.
+- Use the qualitative categories and themes as discussion points for what went well and areas for improvement.
+- Propose actionable recommendations based on your qualitative analysis by considering short-term fixes and long-term improvements.
+- Highlight areas where the team can enhance the support experience.
+    - Provide context through the use of quotes from survey takers.
+- Include visualizations for quantitative data and qualitative excerpts.
+
 
