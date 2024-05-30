@@ -77,7 +77,7 @@ There are two use cases that we are considering for this release. For each, we p
 | Phase | Milestone | Target Dates | Status | Notes |
 |---|---|---|---|---|
 |1 |Gulf War exposures|May 21, 2024|In Progress | On Track|
-|2 |Herbicide & Hazards|June 04 2024|In Progress | Potential delay by 5103 FDC update 5/16/24 |
+|2 |Herbicide & Hazards|June 18 2024|In Progress | Delay by 5103 FDC update 5/16/24 |
 |3 |Launch Preparation|June 18 2024*|Planned |   | Staging review intended to start on 6/18/24, assuming UI updates complete|
 |4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Continuing to monitor|
 |5 |Migrate submit functionality to LH|June 2024|   |Pending LH implementation (est. staging early June)|
