@@ -24,7 +24,7 @@ This directory contains design documentation related to the communication campai
 | [Organic Adoption Modal Prototype](https://www.figma.com/design/dUAamdYT8RGXAeA695wbwp/Organic-Adoption-Prototypes?m=auto&t=XbiYBQ1I7ZWc5hTe-6) | Test messaging (via modal) with Veterans for creating a Login.gov account; on page 'Modal'; did not ship | February 2023 |
 | [Reactivation Modal Prototype](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?m=auto&t=8qOoHOLqDlmr9X2x-7) | Test messaging (via modal) with Veterans to start using a Login.gov account; on page 'Modal'; did not ship | February 2023 |
 | [Reactivation Flyer](https://www.figma.com/design/l7JktjPGZGxWYMSMdulzI4/Reactivation-Prototypes?m=auto&t=8qOoHOLqDlmr9X2x-8) | Flyer featuring information on setting up and verifying identity for Login.gov; on page 'Flyer'; did not ship | February 2023 |
-| [Service Blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2022-10-Login.gov-Adoption-Discovery-Research/service%20blueprint_login.gov%20migration%20pathways.pdf)| Establish the intial pathways for CEDAR Identity Contract. Explored the access points and interactions for Veterans with various use cases, caretakers, and VA staff | June 2023 | 
+| [Service Blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/design/service%20blueprint_login.gov%20migration%20pathways.pdf)| Establish the intial pathways for CEDAR Identity Contract. Explored the access points and interactions for Veterans with various use cases, caretakers, and VA staff | June 2023 | 
 
 ---
 ## Design Activity Log
