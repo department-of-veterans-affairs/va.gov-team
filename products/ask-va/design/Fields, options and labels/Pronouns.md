@@ -1,5 +1,5 @@
 # Recommendation to remove pronouns from Ask VA
-Last updated by @tygindraux: April 4, 2024
+Last updated by @beckyphung: May 30, 2024
 
 ## Update on May 30, 2024
 We will continue to ask for pronouns in the form, but only for the submitter. This is because pronouns are self identifying. The submitter cannot provide someone else's pronouns.
