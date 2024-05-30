@@ -3,7 +3,7 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 ## 5/30/24 Biweekly VBA-DBEX Check-in
 ### In attendance
-Jared Pace, Andrew Gray, Kate Allbee, Matt Larson, Jina Ryu, Mike Eng
+Jared Pace, Andrew Gray, Kate Allbee, Matt Larson, Jina Ryu, Mike Eng, David Reis
 
 ### Notes
 - 5103 Claim Certification
