@@ -16,6 +16,7 @@
 
 ## <a name="flows"></a>User/page flows <br>
 See most up-to-date user flow in mural [here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1702677961676/13148d7aadd948a857eaa8fe5e04f6a9b09c3f9e?sender=ua67f17f1c416a96ea04d2476). 
+![Screenshot 2024-05-30 at 12 17 39 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/27fa43d5-6e75-47cb-8a53-1d8fcf6c38aa)
 
 
 ## <a name="map"></a>Page structure<br>
