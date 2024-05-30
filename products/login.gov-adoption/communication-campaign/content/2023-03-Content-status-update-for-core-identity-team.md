@@ -22,7 +22,7 @@ Last updated by @CarlDickerson @tygindraux: March 14, 2023
 ## Replying to queries from the Core team
 |Touchpoint|Status or question|
 |:--|:--|
-|Email|Grandfathering email entry path defined and initial draft email under review; Content has not been tested; Some additional email scenarios drafted during discovery; Reviewing in [Round 1 of Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/research/2023-02-Grandfathering-Migration-Round-1-Usability)|
+|Email|Grandfathering email entry path defined and initial draft email under review; Content has not been tested; Some additional email scenarios drafted during discovery; Reviewing in [Round 1 of Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability)|
 |Physical mail (USPS)|No work done|
 |Blog|Initial awareness post went out in early January; plans in comms strategy for at least 2 more posts leading into launch; Collected feedback from blog & social to inform opportunities for future content; Work with VEO to define next posts & timing|
 |Newsletter|Awareness feature went out in early January; plans in comms strategy for at least 2 more posts leading into launch; Work with VEO to define next posts & timing|
