@@ -34,14 +34,14 @@ The launch of medications to Phase 1 will coincide with all tools that are in Ph
 **1)About medications (forced entry point/landing page)**
 - URL: www.va.gov/my-health/medications/about
 - Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > About Medications
+  - desktop: VA.gov home > My HealtheVet > About medications
   - mobile: < My HealtheVet
 - Title tag: About Medications | Veterans Affairs
 
 **2) Medications list view - NEW**
 - URL: www.va.gov/my-health/medications/
 - Breadcrumb: 
-  - desktop: VA.gov home > My HealtheVet > About Medications > Medications
+  - desktop: VA.gov home > My HealtheVet > About medications > Medications
   - mobile: < About medications
 - Title tag: Medications | Veterans Affairs
 - Notes: [On 6/30 in Slack](https://dsva.slack.com/archives/C04DRS3L9NV/p1688070170040299) we decided that the breadcrumbs will act as if the 'about' landing page page is a parent of medications list, but the page will not be an official parent of medications from a URL standpoint. 
@@ -50,8 +50,8 @@ The launch of medications to Phase 1 will coincide with all tools that are in Ph
 - URL: www.va.gov/my-health/medications/prescription/[ID]/
 - Breadcrumb:
 Opening a details page is considered a mini subtask, and will take on <- Back to[name of page] breadcrumbs:
-  - desktop: <- Back to Medications
-  - mobile: <- Back to Medications
+  - desktop: <- Back to medications
+  - mobile: <- Back to medications
 - Title tag: [H1] - Medications | Veterans Affairs
 - Notes: 
   - URL will be based on unique ID for the individual's specific medication.  It will not be the name of the medication.
