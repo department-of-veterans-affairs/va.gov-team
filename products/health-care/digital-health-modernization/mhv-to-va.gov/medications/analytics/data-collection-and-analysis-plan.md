@@ -45,6 +45,7 @@ If we have designed a strong user experience for Phase 1 Medications on VA.gov, 
   - Is a Veteran able to sort their medications list?
   - Is a Veteran able to view their medications list?
   - Is a Veteran able to find information on renewing their medications?
+  - Is a Veteran able to find information in Medications to review their allergies and reactions?
 
 ### **Data Collection and Reporting**
 
