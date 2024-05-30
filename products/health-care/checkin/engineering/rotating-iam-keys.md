@@ -17,7 +17,7 @@ As per VAEC policy, AWS IAM Access Keys should be rotated every 60 days. Warning
     - Update `tevi/cms_service_account_2/aws_access_key_id`
     - Update `tevi/cms_service_account_2/aws_secret_access_key`
 
-1. Reach out in #vetext-engineering channel on slack when rotating `CMS-service-account-2`. VeTEXT Datadog uses that keypair for tracking vista-api.
+1. Reach out in `#vetext-engineering channel` on slack when rotating `CMS-service-account-2`. VeTEXT Datadog uses that keypair for tracking vista-api.
 1. Update Datadog
     - Log in to Datadog
     - Modify the [Amazon Web Services Inegration Configuration](https://tevi.ddog-gov.com/integrations?accountId=7f66207a-2e15-4496-b9fb-0572a40c2008&integrationId=amazon-web-services)
