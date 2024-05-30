@@ -54,8 +54,8 @@ Our core bet is that if we provide veterans with a clearer understanding of thei
 
 ## Out of scope
 
-* Non-disability compensation claims
-* Supplemental claims, appeals, and HLRs. 
+* Non-disability compensation claims and pension
+* Supplemental claims, appeals and HLRs. 
 
 
 ## How we will know if we are right (KPIs)
