@@ -45,8 +45,9 @@ Information that Veterans and other beneficiaries need to understand and manage 
 
 #### 2.1.1 Current VA employees and volunteers
 ##### 2.1.1.1 VA health care providers
-##### 2.1.1.2 Other VA medical personnel
-##### 2.1.1.3 Non-health care employees
+##### 2.1.1.2 VA researchers
+##### 2.1.1.3 Other VA medical personnel
+##### 2.1.1.4 Non-health care employees
 
 #### 2.1.2 Prospective VA employees and volunteers
 
