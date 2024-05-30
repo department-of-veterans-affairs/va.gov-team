@@ -5,7 +5,8 @@ Sprint 12: 6/5/24 - 6/17
 
 ## 📣 Announcements & 🏖️ PTO
 * Brittany will be at PMR 6/3 - 6/6
-* Drew & Clayton will ensure everything from Jira is represented in Zenhub. 
+* Drew & Clayton will ensure everything from Jira is represented in Zenhub.
+* Before we do prod deployments we need to let the SRE team know so they can be prepared to monitor 
 
 ## 🏆 Overarching Goals
 * 🔴 Appointment Cancellation
