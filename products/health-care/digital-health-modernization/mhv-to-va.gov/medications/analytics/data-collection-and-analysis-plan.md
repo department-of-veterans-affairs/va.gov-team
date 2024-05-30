@@ -1,168 +1,68 @@
-# **Medications on VA.gov Data Collection and Analysis**
+# **Medications on VA.gov Data Collection Plan for Phase 1**
 
-## **OKRs**
+## **Hypothesis**
 
-**Objectives**
+If we have designed a strong user experience for Phase 1 Medications, then we will see steady or increased usage each month suggesting that they understand and are able to use the new version.
 
--   Increase Veterans’ satisfaction with Secure Messaging
+## **Primary Metrics**
 
--   Increase Veterans’ engagement in managing their healthcare
+**Product usage**
 
-**Key Results**
+- Total fills/refills on VA.gov
+- Total Veterans who filled at least one medication on VA.gov
 
--   Increased product use
+## **Secondary Metrics**
 
--   Increased product Veteran feedback
+**Use of ‘Go back to pharmacy on the My HealtheVet website’ link**
 
--   Decreased negative Veteran feedback
+- Datadog: Top Actions
 
-## **KPIs**
+**Sentiment analysis of qualitative feedback data**
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Theme</strong></th>
-<th><strong>Question</strong></th>
-<th><strong>Metric</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Findability</td>
-<td>This is beyond the scope of our project.</td>
-<td>N/A</td>
-</tr>
-<tr class="even">
-<td>Ease of Use</td>
-<td>Do Veterans return to MHV?</td>
-<td>Use of 'Go back to previous version of secure messaging' link</td>
-</tr>
-<tr class="odd">
-<td>Ease of Use</td>
-<td>Do Veterans provide negative feedback?</td>
-<td><p>Sentiment analysis from qualitative survey feedback</p>
-<p>Sentiment analysis from qualitative call center feedback</p>
-<p>Sentiment analysis from qualitative feedback emails</p></td>
-</tr>
-<tr class="even">
-<td>Ease of Use</td>
-<td>Do Veterans provide negative feedback?</td>
-<td><p>Sentiment analysis from qualitative survey feedback</p>
-<p>Sentiment analysis from qualitative call center feedback</p>
-<p>Sentiment analysis from qualitative feedback emails</p></td>
-</tr>
-<tr class="odd">
-<td>Ease of Use</td>
-<td>Do Veterans follow the expected flow?</td>
-<td>Funnel %</td>
-</tr>
-<tr class="even">
-<td>Ease of Use</td>
-<td>Do Veterans spend excessive time in Medications?</td>
-<td><p>Time between actions/steps/pages</p>
-<p>Time to complete (per CTA)</p>
-<p>User Segments per page/section</p></td>
-</tr>
-<tr class="odd">
-<td>Ease of Use</td>
-<td>Do Veterans frequently return to the Medications landing page?</td>
-<td>Page views per session</td>
-</tr>
-<tr class="even">
-<td>Service Completion</td>
-<td>Are Veterans able to manage their healthcare with Medications?</td>
-<td><p>Recurring users</p>
-<p>Bounce rate/Engagement rate</p>
-<p>Top dropoff/page exits</p></td>
-</tr>
-<tr class="odd">
-<td>Service Completion</td>
-<td>Is a Veteran able to refill medications?</td>
-<td><p>Completion % (‘Refill’ CTA)</p>
-<p>Time between actions/steps/pages</p></td>
-</tr>
-<tr class="even">
-<td>Service Completion</td>
-<td>Is a Veteran able to view medication details?</td>
-<td><p>Completion % ([MEDICATION NAME] link)</p>
-<p>Funnel %</p></td>
-</tr>
-<tr class="odd">
-<td>Service Completion</td>
-<td>Is a Veteran able to view an image of their medication?</td>
-<td>Completion % (‘Review image’ CTA)</td>
-</tr>
-<tr class="even">
-<td>Service Completion</td>
-<td>Is a Veteran able to learn how to renew their medications?</td>
-<td>Completion % (‘How to renew prescriptions’ accordion)</td>
-</tr>
-<tr class="odd">
-<td>Service Completion</td>
-<td>Is a Veteran able to call their pharmacy?</td>
-<td>Completion % ([PHONE NUMBER] link)</td>
-</tr>
-<tr class="even">
-<td>Service Completion</td>
-<td>Is a Veteran able to track their shipment?</td>
-<td>Completion % ('Track your package with UPS' link)</td>
-</tr>
-<tr class="odd">
-<td>Service Completion</td>
-<td>Is a Veteran able to download their medication list?</td>
-<td>Completion % (‘Download your medication list as a PDF’ CTA)</td>
-</tr>
-<tr class="even">
-<td>Service Completion</td>
-<td>Is a Veteran able to download individual medications?</td>
-<td>Completion % (‘Download your medication list as a PDF’ CTA)</td>
-</tr>
-<tr class="odd">
-<td>Service Completion</td>
-<td>Is a Veteran able to get information to help them use this tool?</td>
-<td>Completion % (‘Questions about this tool’ accordions)</td>
-</tr>
-<tr class="even">
-<td>Trust</td>
-<td>Do Veterans return to MHV?</td>
-<td>Use of 'Go back to previous version of secure messaging' link</td>
-</tr>
-<tr class="odd">
-<td>Trust</td>
-<td>Do Veterans provide negative feedback?</td>
-<td><p>Sentiment analysis from qualitative survey feedback</p>
-<p>Sentiment analysis from qualitative call center feedback</p>
-<p>Sentiment analysis from qualitative feedback emails</p></td>
-</tr>
-<tr class="even">
-<td>Trust</td>
-<td>Do Veterans provide negative feedback?</td>
-<td><p>Sentiment analysis from qualitative e survey feedback</p>
-<p>Sentiment analysis from qualitative call center feedback</p>
-<p>Sentiment analysis from qualitative feedback emails</p></td>
-</tr>
-</tbody>
-</table>
+- Medallia: Intercept and Feedback survey data
+- MyVA411: Salesforce phone data
+- Helpdesk: Tier II/Tier III Salesforce data
 
-## **Data Analysis Cadence**
+## **Performance Metrics**
 
-Data analysis will be conducted each sprint with highlights shared as
-part of the update at the End of Sprint Demo with more comprehensive
-reporting done per Program Increment.
+**Dropoff/Page Exits**
 
-## **Data Source Point People**
+- Datadog: Funnel analysis
+  - Do Veterans follow the expected flow?
+  - Is a Veteran able to fill one or more prescriptions?
 
-| **Tool**           | **Team Members**           |
-|--------------------|----------------------------|
-| Google Analytics   | Bryan Riley, Anne Costello |
-| Medallia           | Bryan Riley, Anne Costello |
-| Domo               | Bryan Riley, Anne Costello |
-| My VA411           | Bryan Riley, Anne Costello |
-| MHV feedback email | Lichelle Bain, Bryan Riley |
-| VSignals           | Bryan Riley, Anne Costello |
-| Datadog            | Bryan Riley, Anne Costello |
+**Conversion events**
+
+- Datadog: Top Actions, Click events
+  - Is a Veteran able to refill medication(s)
+  - Is a Veteran able to view medication details?
+  - Is a Veteran able to download their medication list?
+  - Is a Veteran able to download an individual medication?
+  - Is a Veteran able to print their medication list?
+  - Is a Veteran able to print an individual medication?
+  - Is a Veteran able to sort their medications list?
+  - Is a Veteran able to view their medications list?
+  - Is a Veteran able to find information on renewing their medications?
+
+### **Data Collection and Reporting**
+
+| Metric | Collection Cadence | Collection Format | Reporting Cadence | Reporting Format | Audience |
+| --- | --- | --- | --- | --- | --- |
+| Total Fills/Refills | Weekly | Oracle SQL | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
+| Total Veterans who filled at least one Rx | Weekly | Oracle SQL | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
+| Use of ‘Go back to Pharmacy on the My HealtheVet website’ link | Weekly | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true) | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
+| Sentiment analysis of qualitative feedback data | Daily | Excel Spreadsheet + [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717100337676/5ce86a1002efa00d8a8a6e1d1aa265c002bb2d0b?sender=u8633abbc30765ec4537308010) | As patterns develop | Post in #mhv-medications-rx Slack channel | Kay, Kaitlin, Robyn, By Light UCD team |
+| Dropoff/Page exits | Weekly | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true) | Monthly | Post in #mhv-medications-rx Slack channel | Kay, Kaitlin, Robyn, By Light UCD team |
+| Conversion Events | Weekly | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true) | Monthly | Post in #mhv-medications-rx Slack channel | Kay, Kaitlin, Robyn, By Light UCD team |
+| Session Count, Duration, Page Views | Weekly | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true) | Monthly | Post in #mhv-medications-rx Slack channel | Kay, Kaitlin, Robyn, By Light UCD team |
+
+### **Data Collection Tools**
+
+| Tool | Data Type | Access | Status |
+| --- | --- | --- | --- |
+| Datadog | Web traffic/ User behavior | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true)  | Running |
+| Domo | Dashboard to aggregate various sources | N/A | Analytics team cannot have ready in time, Medallia and Salesforce will only be current to the end of the previous month |
+| Google Analytics | Web traffic/ User behavior | Google Analytics | Tagging ticket submitted 5/31/2024 |
+| Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to [anne.costello@va.gov](mailto:anne.costello@va.gov), [Katherine.lawyer@va.gov](mailto:Katherine.lawyer@va.gov), [melissa.ashton@va.gov](mailto:melissa.ashton@va.gov), [tanner.bird@va.gov](mailto:tanner.bird@va.gov), <robyn.singleton@va.gov> | Ticket #84227 and #84178 submitted 5/29/2024 |
+| MHV feedback email | Trusted user feedback | Tanner Bird processes, Anne Kennedy has access | Running |
+| Oracle SQL Developer | Total fills/refills and Total Veterans who filled at least one Rx | Anne Kennedy | Running |
