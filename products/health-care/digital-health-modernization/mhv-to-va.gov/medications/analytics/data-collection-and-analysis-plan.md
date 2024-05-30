@@ -10,6 +10,8 @@ If we have designed a strong user experience for Phase 1 Medications on VA.gov, 
 
 - Total fills/refills on VA.gov
 - Total Veterans who filled at least one medication on VA.gov
+- Total medications tracked
+- Total Veterans who tracked at least one medication on VA.gov
 
 ## **Secondary Metrics**
 
@@ -50,6 +52,8 @@ If we have designed a strong user experience for Phase 1 Medications on VA.gov, 
 | --- | --- | --- | --- | --- | --- |
 | Total Fills/Refills | Weekly | Oracle SQL | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
 | Total Veterans who filled at least one Rx | Weekly | Oracle SQL | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
+| Total medications tracked | Weekly | Oracle SQL | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
+| Total Veterans who tracked at least one medication on VA.gov | Weekly | Oracle SQL | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
 | Use of ‘Go back to Pharmacy on the My HealtheVet website’ link | Weekly | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true) | Monthly | Post in #mhv-medications-rx Slack channel | MHV Stakeholders |
 | Sentiment analysis of qualitative feedback data | Daily | Excel Spreadsheet + [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717100337676/5ce86a1002efa00d8a8a6e1d1aa265c002bb2d0b?sender=u8633abbc30765ec4537308010) | As patterns develop | Post in #mhv-medications-rx Slack channel | Kay, Kaitlin, Robyn, By Light UCD team |
 | Dropoff/Page exits | Weekly | [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p4s-ppk-kpw/rx-on-vagov?fromUser=false&refresh_mode=monthly&view=spans&from_ts=1714536000000&to_ts=1717100181580&live=true) | Monthly | Post in #mhv-medications-rx Slack channel | Kay, Kaitlin, Robyn, By Light UCD team |
