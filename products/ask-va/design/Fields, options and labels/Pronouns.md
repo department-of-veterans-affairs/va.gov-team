@@ -6,7 +6,7 @@ We will continue to ask for pronouns in the form, but only for the submitter. Th
 
 We met with John Williams and Nancy Clarkson to confirm when we the Ask VA form should ask for pronouns. See complete meeting notes [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/meeting-notes/pronoun-collection/pronoun-collection-meeting-May-30.md). 
 
-John Williams is the business lead for the Enterprise Demographics Implementation and Integration (EDII) effort from the Multi-Channel Technology (MCT) team in the Veterans Experience Office (VEO). Nancy Clarkson is the technical lead for (EDII) effort from the Architecture and Engineering Services (AES) team also in VEO.
+John Williams is the business lead for the Enterprise Demographics Implementation and Integration (EDII) effort from the Multi-Channel Technology (MCT) team in the Veterans Experience Office (VEO). Nancy Clarkson is the technical lead for EDII from the Architecture and Engineering Services (AES) team also in VEO.
 
 ## Update on April 3, 2024
 
