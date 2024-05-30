@@ -24,12 +24,15 @@ TBD:
 Do not display. There is no need to prepare for appointments in the past.
 
 **Canceled**
+
 Do not display. There is no need to prepare for appointments that have been canceled.
 
 **VA Requests (pending or canceled)**
+
 Do not display. Requests have not been scheduled yet, so there is no appt to prepare for.
 
 **CC Requests (pending or canceled)**
+
 Do not display. Requests have not been scheduled yet, so there is no appt to prepare for.
 
 ### Pre-check-in web
@@ -37,7 +40,7 @@ Do not display. Requests have not been scheduled yet, so there is no appt to pre
 Display on the details page for:
 - VA In-person appointments
 
-Display in pre-check-in confirmation page
+Display on pre-check-in confirmation page.
 
 ### Mobile App Appointments
 
