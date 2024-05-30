@@ -2,12 +2,18 @@
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
 ## 5/30/24 Biweekly VBA-DBEX Check-in
+### In attendance
+Jared Pace, Andrew Gray, Kate Allbee, Matt Larson, Jina Ryu, Mike Eng, Unknown User
+
 ### Notes
 - 5103 Claim Certification
   - We want to try revising some of the claim certification piece to put it into more plain language. Is there a team within VBA (Office of policy of oversight?) that we could work with on approving this?
-  - Alternative approach to the bottom paragraph could be to dynamically populate the content shown there regarding evidence (figma)
+      - top paragraph: is it possible to plain-language this, or does it need to be verbatim from paper form?
+          - Matt: it makes sense to adjust content with page number, but very hesitant to change from what's on the paper form. Think it should match.
+          - Andrew: agree, since it's a legal certification. Don't want to present different content online versus in paper form. 
+  - Alternative approach to the bottom paragraph could be to dynamically populate the content shown there regarding evidence (figma) (skipped this)
 - 0781    
-  - [1.1] Event type checkboxes - do the options look good? Is “other” intentionally vague?     
+  - [1.1] Event type checkboxes - do the options look good? Is “other” intentionally vague?  
     - Is it ok if a veteran has one event, but checks multiple boxes here?     
   - What questions are required for this form to be considered complete?      
     - Ex. Is 8, 9A-9C optional? Would you still be able to process it and follow up with veteran if this section wasn’t filled out?      
