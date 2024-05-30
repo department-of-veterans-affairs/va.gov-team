@@ -95,9 +95,24 @@ _Link to DOMO dashboards TBD_
 
 ### 1-Week Results (5/20-5/27)
 
-1. **Errors**:
-3. **Contact Center calls (MyVA411)**: 
-4. **Feedback survey submmissions (Medallia)**:  
+**Statuses from [Datadog](https://vagov.ddog-gov.com/logs?query=%40payload.controller%3A%22RepresentationManagement%3A%3AV0%3A%3APowerOfAttorneyController%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1716302570635&to_ts=1716316970635&live=true)**:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/e8f38e79-38a4-45e0-aa08-2da3cc9a79b5)
+
+**Statuses from Lighthouse**:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/594b20c7-a3dd-4edc-91a9-2ee26db6109e)
+
+**Contact Center calls (MyVA411)**: None
+
+**Feedback survey submmissions (Medallia)**:  
+- Out of [12,661 users interacting with the landing page](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20240520&_u.date01=20240527&_.useg=user0ChHUWxaSUWm-5ocHKwm0Q,user_5CvEnKiSOmYYMHT8kTpQQ,builtin1&overview-dimensionSummary.selectedGroup=system&overview-dimensionSummary.selectedDimension=analytics.browser/), there were 2 survey submissions:
+   - 1 indicated they were able to do their task.
+   - 1 left a response "The screen changed to the survey so fast" that seems unrelated to our product.  This was accompanied by a 4 rating of the VA.gov experience.
+- Out of [5,900 users interacting with the Find a Representative page](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p176188361/_u.date00=20240520&_u.date01=20240527&_.useg=user0ChHUWxaSUWm-5ocHKwm0Q,user_5CvEnKiSOmYYMHT8kTpQQ,builtin1&overview-dimensionSummary.selectedGroup=system&overview-dimensionSummary.selectedDimension=analytics.browser/), there were 2 survey submissions:
+   - 2 indicated they were unable to do their task with the comments:
+      - "Find a vso for PAC. Web site not user friendly."
+      - "disability benefits"
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** The team is looking into the scenarios behind the error statuses that are being received from the Lighthouse Benefits Claims API.  From there, we will consider improving our error messaging to better guide this subset of users.
 
