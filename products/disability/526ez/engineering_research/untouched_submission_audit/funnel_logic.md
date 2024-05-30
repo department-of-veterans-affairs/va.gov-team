@@ -20,7 +20,7 @@ For more information on the untouched submissions and the Audit as a whole, see 
 - [A document on 'Complex submission de-duplication' (more on this later)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/complex_submission_deduplication.md)
 
 ## Our Goal
-Identify every `Form526Submission` record in our database for which we have not finished our job.  These are henceforth known as 'untouched' (as in they are just sitting there waiting to be fixed) submissions. To accomplish this goal, we've put every `Form526Submission` in our database through a series of filters, herin known as our 'funnel'.
+Identify every `Form526Submission` record in our database for which we have not finished our job.  These are henceforth known as 'untouched' (as in they are just sitting there waiting to be fixed) submissions. To accomplish this goal, we've put every `Form526Submission` in our database through a series of filters, herein known as our 'funnel'.
 
 ## Key Terms
 - **untouched submission:** A submission that requires remediation in order to fullfil our obligation to the veteran and our partners
