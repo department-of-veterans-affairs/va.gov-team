@@ -6,21 +6,38 @@ All the touchpoints considered for the medication language to appear.
 
 ### Appointments Web (MHV on VA.gov)
 
-Will display on the appointment details page for the following types of appointments:
+How this content display on the details page for the following types of appointments/requests:
 
+**Upcoming/confirmed**
+Display on:
 - VA In-person
 - VA Video Care at Home
 - VA Video Care at a VA location
 - VA Video Care at an ATLAS location
 - VA Phone
+
+TBD:
 - Community care (TBD, but assumed yes)
 - Claim exam appointment (TBD, but assumed no)
 
+**Past**
+Do not display. There is no need to prepare for appointments in the past.
+
+**Canceled**
+Do not display. There is no need to prepare for appointments that have been canceled.
+
+**VA Requests (pending or canceled)**
+Do not display. Requests have not been scheduled yet, so there is no appt to prepare for.
+
+**CC Requests (pending or canceled)**
+Do not display. Requests have not been scheduled yet, so there is no appt to prepare for.
+
 ### Pre-check-in web
 
-Will display on the confirmation page and appointment details page for the following types of appointments
+Display on the details page for:
+- VA In-person appointments
 
-- VA In-person
+Display in pre-check-in confirmation page
 
 ### Mobile App Appointments
 
