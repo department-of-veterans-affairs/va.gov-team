@@ -64,9 +64,10 @@ Last updated by @beckyphung on October 30, 2023
 |Feature or task|Must have|Nice to have|Not in scope|
 |:--|:--:|:--:|:--:|
 |Pull submitter’s data from VA Profile to pre-fill information for a section of AVA|x|||
+|Pull some submitter’s data from AVA Profile (but not all) to pre-fill information for a section of AVA|x|||
 |Submitters are able to click a button to go to VA Profile to update their information and then return to the same spot on AVA||x||
 |Submitters should able to temporarily update the fields in AVA but this should NOT update information in VA Profile|x|||
-|Sunset the existing AVA Profile: No migration of data, no comparison between this and VA Profile)(NOTE THIS WILL BE UPDATED - based on [input from Chris C.](https://dsva.slack.com/archives/C06LN37RT47/p1716889076961719?thread_ts=1715272662.596699&cid=C06LN37RT47) ) |x|||
+|Sunset the existing AVA Profile: No migration of data, no comparison between this and VA Profile)|||x|
 
 ## Notify
 
