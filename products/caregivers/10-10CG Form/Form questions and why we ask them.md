@@ -41,8 +41,8 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
-|Preferred Facility| State (select)|Y| Preferred Facility where the Veteran will receive care is used to determine the facility (that one or a parent facility) that has Caregiver support staff | **TBD**|
-|Preferred Facility| VA medical center (select) |Y|Preferred Facility where the Veteran will receive care is used to determine the facility (that one or a parent facility) that has Caregiver support staff | **TBD**|
+|Preferred Facility| State (select)|Y| Preferred Facility where the Veteran will receive care is used to determine the facility (that one or a parent facility) that has Caregiver support staff | [9/23/2022 Meeting notes](https://github.dev/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Meeting%20Notes/2022-04-29%20CG%20Stakeholder%20Touchbase.md)|
+|Preferred Facility| VA medical center (select) |Y|Preferred Facility where the Veteran will receive care is used to determine the facility (that one or a parent facility) that has Caregiver support staff | [9/23/2022 Meeting notes](https://github.dev/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Meeting%20Notes/2022-04-29%20CG%20Stakeholder%20Touchbase.md)|
 
 </details>
 
