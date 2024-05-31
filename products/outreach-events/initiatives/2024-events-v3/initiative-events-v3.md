@@ -68,7 +68,32 @@ For this initiative, we will implement ...
 
 ### Analytic Insights:
 * 
- 
+
+#### CSAT Scores
+
+| Month/Quarter | CSAT Score % 
+| --- |:---:|
+| Aug 2024 | # |
+| Jul 2024 | # |
+| Jun 2024 | # |
+| May 2024 | # |
+| Apr 2024 | # |
+|**Q1 Rollup 2024** | **77.85%** |
+| Mar 2024 | 76.38% |
+| Feb 2024 | 70.97% |
+| Jan 2024 | 86.21% |
+|**Q4 2023 Rollup** | **74.64%** |
+| Dec 2023 | 70.37% |
+| Nov 2023 | 75.76% |
+| Oct 2023 | 77.78% |
+
+
+**CSAT Scores retrieval:**
+* Domo > CSAT Score Dashboard 
+* Filter by Directory
+* Enter outreach-and-events (note that this includes outreach tools) and click Apply
+* Define date range and apply
+* Look at the first graph "Average User Experience & Count of Survey Responses by Directory"
 ---
 
 ## Discovery
@@ -88,10 +113,6 @@ For this initiative, we will implement ...
 
 Outreach & Events | User flows & inbound links
 ![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png)
-
-### CSAT Scores
-
-
 
 ### Technical Analysis 
 - 
