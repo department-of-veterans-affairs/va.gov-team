@@ -32,7 +32,7 @@ We'll improve the first touchpoints after submission, particularly when the Vete
 6. As a Veteran I want VA.gov to use straighforward, honest, and understandable language when describing my claim status, so I feel I understand it correctly
 
 ## Success
-*The following 18 items is a list of the same 6 items rephrased using 3 different frameworks*
+
 #### As Themes [Ensure *result* for *stakeholder*]
 1. Ensure the current status of a claim is always available to Veterans
 2. The steps and timeline for claim submission are set truthfully for the Veteran
@@ -40,10 +40,6 @@ We'll improve the first touchpoints after submission, particularly when the Vete
 4. Make getting a claim record easy for Veterans
 5. Ensure that tracking a claim is simple and easy for Veterans
 6. Ensure the language we use is straighforward and understandable so that understanding claim status is trivial
-
-
-
-
 
 ## In Scope
 - Revised "submission model" including changes to language, status types
