@@ -1,38 +1,41 @@
 # Timely and Truthful Information and Tracking
 
 ## Purpose
-The purpose of this document is to describe and align development teams and stakeholders on what will be delivered, how, and when. It is a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the progress.
-
-## Background
-Many Veterans do not have a positive experience when submitting a claim for disability compensation. There are multiple issues detailed below that describe errors, confusion, a lack of clarity, missing information, and cognitive load that isn't conducive to the level of quality we aspire to provide for Veterans.
+The purpose of this document is to describe and align development teams and stakeholders on what will be delivered and why we need this now. It is a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the progress.
 
 ## Problem or Opportunity
-In user research conducted in 2023, we discovered that **Veterans lack timely and truthful information about their claim.** They want a way to track their claim and ensure it doesn't get "stuck", but they don't know how to do this. Today, when Veterans want recent information about the status of their claim, some of them are calling the Contact Center to get that information. Veterans also feel that sometimes VBA makes things confusing or opaque and this leads to a level of distrust of the VBA.
+An insight we discovered during user research conducted in 2024, is that **Veterans lack timely and truthful information about their claim.** Veterans want a way to track their claim and ensure it doesn't get "stuck", but they don't know how to do this online. Today, when Veterans want up to date information about the status of their claim, some of them call the Contact Center and ask an agent for that information. Veterans also feel that sometimes VBA makes things confusing or opaque and this leads to a level of distrust of the VBA.
 
 ## Proposed Solution
-We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the user journey via multuiple touchpoints where we know the Veteran is, leveraging UI changes, alterations to copy, and email as a means to display, update, and deliver information. As we continue to ideate, prototype, and test the solution the list below may change.
+We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran. As we continue to ideate, prototype, and test the solution, the list below may change.
 
 We will:
-- Set Veteran expectations for what is currently happening after they Submit their claim
-- Help Veterans understand exactly what the VBA is doing to submit their claim
-- Provide the Veteran "honest" communication, that the claim has suceeded or failed, using the UI and email to provide up to date information
-- Provide the Veteran a realistic timeline for successful submission
-- Provide the Veteran accurate and basic claim details ASAP
-- Notify the Veteran if there is a delay
-- Send the Veteran an email once the claim is received
+- Improve the language we use to communicate to Veterans across the touchpoints in scope, making understanding our communications trivial
+- Correctly set Veteran expectations for what happens after they submit their claim
+- Inosfar as Veterans find it valuable, help Veterans understand exactly what the VBA is doing while the claim is being submitted
+- Provide the Veteran truthful communication on status or progress, even if that means the claim has failed
+- Set reasonable expectations on how long it takes for a claim to be submitted/processed
+- Provide the Veteran accurate and basic claim details in a timely manner
+- Notify Veterans of delays in recieving or processing their claim
 - Provide an email confirmation of their claim immediately after it's submitted
+- Send the Veteran an email once the claim is received
 - Use the Claims Status Tool (CST) to view pending claims status
 - Provide the Veteran a more detailed claim overview (e.g. evidence document list)
-- When Veterans don't have a ClaimID, provide them a human-centered reference number
+- When Veterans don't have a ClaimID, provide them a human-centered reference number they can use to get their claims status
 - Provide the Veteran a pdf of their full claim
 
 ## Success
-We'll know we've solved the Veteran's problem when
+We'll know we're successful when:
 - Veterans feel they have clear expectations of claim status
 - Veterans no longer feel it's necessary to call to the Contact Center for information, thus reducing call volume for claim status to the Contact Center
 - Veterans always know the current status of their claim
 - Veterans can get help tracking their claim if they need it
-
+-
+- Ensure the current status of a claim is always known by Veterans
+- Ensure expectations for submission and processing duration are set truthfully for the Veteran
+- Make calling the Contact Center for claims status only something Veterans do when they want information that isn't available to them online
+- Ensure that the claim's current status is always known by the Veteran
+- Make tracking a claim online 
 
 ## In Scope
 - Revised "submission model" including changes to language, status types
