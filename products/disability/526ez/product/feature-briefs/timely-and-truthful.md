@@ -10,36 +10,36 @@ An insight we discovered during user research conducted in 2024, is that **Veter
 We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran. As we continue to ideate, prototype, and test the solution, the list below may change.
 
 We will:
-- Improve the language we use to communicate to Veterans across the touchpoints in scope, making understanding our communications trivial
+- Improve the language and model we use to communicate submission status to Veterans across the touchpoints in scope
 - Provide the Veteran truthful communication on submission status, even if that means a submission job has failed
-- Notify Veterans of delays in recieving or processing their claim
+- Notify Veterans of delays in submitting their claim 
 - Set reasonable expectations on how long it takes for a claim to be submitted/processed
-- Set Veteran expectations for what happens after they submit their claim
-- **EHD proposal: Remove this. VBA isn't doing anything we would share out until submission is complete** Inosfar as Veterans find it valuable, help Veterans understand exactly what the VBA is doing while the claim is being submitted
-
-
-- Provide the Veteran accurate and basic claim details in a timely manner
+- Set Veteran expectations for what happens after they submit their claim 
 - Send the Veteran email confirmation of their claim immediately after it's submitted
-- Send the Veteran an email once the claim is received
-  
-- Use MyVA and Claims Status Tool (CST) to view pending claims status
+- Send the Veteran an email once the claim is received    
+- Provide the Veteran accurate and basic claim details at the time of submission
 - Provide the Veteran a more detailed claim overview (e.g. evidence document list)
-- When Veterans don't have a ClaimID, provide them a human-centered reference number they can use to get their claims status
 - Provide the Veteran a pdf of their full claim
+- Design the submission experience so Veterans encounter consistent language/concepts about submission throughout VA.gov (eg new designs from MyVA, CST)
+- Use MyVA and Claims Status Tool (CST) to view pending claims status
+- When Veterans don't have a Claim ID, provide them a human-centered reference number they can use to get their claims status
 
-## Success
-We'll know we're successful when:
+- **EHD proposal: Remove this. VBA isn't doing anything we would share out until submission is complete** Inosfar as Veterans find it valuable, help Veterans understand exactly what the VBA is doing while the claim is being submitted
+  
+## Success (EHD: I can see us reformulating this langauge to be Veteran first. ie Veterans know the current status of their claim)
+We'll know we're successful when: 
 - Ensure the current status of a claim is always available to Veterans
-- Ensure expectations for submission and processing duration are set truthfully for the Veteran
-- Make calling the Contact Center for claims status only something Veterans do when they want information that isn't available to them online EHD proposal: 
+- Ensure the timeline for claim submission is set truthfully for the Veteran
 - Make tracking a claim online something Veterans feel comfortable doing
+**EHD: Let's talk about what it would mean to measure this before we commit to it** Make calling the Contact Center for claims status only something Veterans do when they want information that isn't available to them online 
 
 ## In Scope
 - Revised "submission model" including changes to language, status types
-- Creation of new emails sent at specific times in the Submission
+- Creation of new emails sent at specific times during submission
 - **EHD ADD:** Improved human-centered reference number for Veterans who don't receive a Claim ID
+- **EHD ADD** A more detailed claim summary for Veterans to keep for their record
 - Changes to UI
-- Copy changes in UI and email
+- Revised content in UI and email
 
 ## Out of Scope
 - Changes to MyVA
