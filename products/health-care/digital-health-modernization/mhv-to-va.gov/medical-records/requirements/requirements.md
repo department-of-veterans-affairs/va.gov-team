@@ -4,9 +4,9 @@
 
 | Date           | Changed By       | Description of Change |
 |----------------| ---------------- | ----------------------|
-| 1/2/24       | Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
-|1/2/24        | Coulton Bunney   | Set up structure |
-|1/3/24        | Coulton Bunney   | Updated allergies and vaccines information |
+| 1/2/24| Marci Mcguire  |Created document as an update to [old requirements document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8293da406b1fd0beedd23db81823012a2415831f/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/requirements/requirements-archive.md)    |
+|1/2/24| Coulton Bunney   | Set up structure |
+|1/3/24| Coulton Bunney   | Updated allergies and vaccines information |
 |1/4/24 | Coulton Bunney | Added key research and data documents|
 |1/9/24 | Coulton Bunney | Added conditions information, Added lab results information|
 |1/11/24 | Coulton Bunney | Added download all medical reocrds, landing page, and medical records settings|
@@ -266,10 +266,6 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 #### Functionality
 * List should be paginated, with 10 health conditions per page
 * For each condition, a user should be able to click on the first line of the card (condition name) to view detailed information about that condition
-* Ability to download a full list of conditions as a PDF
-   * PDF should include detailed information about each conditions
-* Ability to print all conditions
-   * Print out should include detailed information about each condition
 ---
 
 </details>
