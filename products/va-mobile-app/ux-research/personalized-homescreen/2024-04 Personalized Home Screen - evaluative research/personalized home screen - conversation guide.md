@@ -15,8 +15,8 @@ March 2024
 * Check your [screensharing setup] and share permissions for participants.
 ### When the participant joins:
 Validate the participant uses the VA Health and Benefits app and get permission for observers to join.
-* Thanks so much for joining today. My name is Holly, very nice to meet you.
-  * *If session is with a screenreader user:* Also with me today is our Accessibility Specialist, Brea.
+* Thanks so much for joining today. My name is Holly, very nice to meet you. Also with me today is my note taker, [Name].
+  * *If session is with a screenreader user:* Also with me today is our my note taker and Accessibility Specialist, Brea.
 * Today we're going to talk about the VA mobile app. Our discussion will help the team understand how to improve the app for Veterans in the future. 
 * Before we begin: I have a few people on the team who are interested in listening in to our session as observers. They’re in the virtual waiting room right now. It’s completely fine if you choose to have the session without observers, so let me know what you’d prefer. If it’s ok by you, I’ll have them join. 
 *(If the participant agrees, let observers join with their video on. Each observer should come off mute and introduce themselves, and then go back on mute with video off.)*
