@@ -19,9 +19,16 @@ The fragmented sign-in experience is confusing for Veterans and non-Veterans fac
 
 ## What we work on
 
-### [Product Outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products)
+#### Current Work
+* [In Person Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing)
 
-### [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/roadmap) 
+#### Previous work
+* [Consolidated Dashboards for Credentials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign/dashboards)
+* [Modern Credential Communication Campaign](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign/)
+* [Non-Veteran User Types at VA (NVUR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/nvur)
+* [Deferred Identity Proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/deferred-identity-proofing)
+
+### [Roadmaps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/roadmap.md) 
 
 ## Workflow and cadences
 
