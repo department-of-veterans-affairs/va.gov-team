@@ -68,7 +68,7 @@ The Secure Sign in Transition team aims to consolidate the pathways to sign in t
 
 ### Requirements
 
-- Our work will be guided by our [team charter]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/onboarding/team-charter.md).
+- Our work will be guided by our [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/onboarding/team-charter.md).
 - Our work will put Veterans first.
 - Our work will consider the full Veteran experience — from logged out to logged in, from online to offline.
 - When we know information about Veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
