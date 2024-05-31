@@ -1,4 +1,4 @@
-# VA.gov accessibility specialist onboarding guide (WIP)
+# Onboarding Guide: Accessibility Specialist for VA.gov
 `Last updated May 31, 2024`
 
 
@@ -80,6 +80,13 @@ Whether you're VA staff or a contractor, getting access to the VA systems and to
 - As a **contractor**, you'll be in touch with a contracting officer (or "COR"), who'll help you get the process started.
 - You'll need to create a GitHub account using your work email address too.
 
+**This section includes information about:**
+- Platform Orientation Ticket
+- Timeframe for onboarding and access
+- Technology utilization
+
+<details><summary>Toggle to reveal important onboarding information :accessibility:</summary>
+  
 ### Platform Orientation Ticket
 Eventually, you'll be assigned to a `New VFS Team Member Template ticket` in GitHub (see a [ticket example](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74103)). This ticket will take you through all the steps you need to onboard!
 
@@ -98,6 +105,7 @@ Some accessibility specialists use government-furnished equipment, or "GFE", to 
 
 Be sure to [opt out of VA.gov analytics](https://www.va.gov/analytics-opt-out.html) on your work computer.
 
+</details>
 
 ## VA.gov's approach to accessibility
 VA's [accessibility vision statement](https://depo-platform-documentation.scrollhelp.site/getting-started/modernized-va-gov-accessibility-strategy#ModernizedVA.govAccessibilityStrategy-Vision) is clear:
@@ -109,19 +117,19 @@ We do research with people with disabilities, annotate our designs, use and deve
 
 By doing this, we hope to create products that do more than conform to WCAG 2.2 success criteria - instead, making products with a solid user experience for _all_ users.
 
+
 > [!TIP]
 > ## Read this first
 > - Before going any further, read about how we do [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov) and how to follow accessibility standards, while using the [VA Design System](https://design.va.gov/about/accessibility/).
 > - You should also watch our [Accessibility Orientation video](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation).
 
-<hr>
 
-## Your role
+## Your Accessibility Role
 At VA.gov, accessibility responsibilities are split between product and support teams. Your role will differ depending on what team you're on.
 
 ### Embedded on a product team
 
-<details><summary>Toggle to learn more about embedding on a team</summary>
+<details><summary>Toggle to learn more about embedding on a team :accessibility:</summary>
 
 If you're embedded on a **product team** (a "Veteran-facing service," or "VFS," team), your job is to ensure that your product(s) are as accessible as possible. You should aim to bake accessibility into the design and development process from the beginning ("shift left").
 
@@ -150,7 +158,7 @@ Review CAIA's full [menu of services](https://github.com/department-of-veterans-
 
 ### Supporting the Platform Governance team
 
-<details><summary>Toggle to learn about supporting the Governance team</summary>
+<details><summary>Toggle to learn about supporting the Governance team :accessibility:</summary>
 
 The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/overview) is where teams building products/features on VA.gov get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Any new tool, product, or page or substantial change to the user experience of an existing tool/product or page should go through the Collaboration Cycle. 
 
@@ -170,7 +178,7 @@ Join us!
 
 ### Meetings
 
-<details><summary>Toggle to view meeting details</summary>
+<details><summary>Toggle to view meeting details :accessibility:</summary>
 
 Meeting Name | About | Frequency | Joining
 ------------------|------------------|--------------|--------------|
@@ -191,7 +199,7 @@ Meeting Name | About | Frequency | Joining
 - Notifications
 - Tagging
 
-<details><summary>Toggle to view details for Slack</summary>
+<details><summary>Toggle to view details for Slack :accessibility:</summary>
 
 #### Profile
 - Please keep your Slack profile up to date. It helps us know who you are, what you do, and what team you work on.
@@ -249,7 +257,7 @@ If you want to learn more about how accessibility works at VA.gov, reach out to:
 - Tricky accessibility issues
 - Mobile Testing
 
-<details><summary>Toggle to view detail in the areas where you can strengthen your skillsets</summary>
+<details><summary>Toggle to view detail in the areas where you can strengthen your skillsets :accessibility:</summary>
 
 ### A11y Champs
 If you are new to the accessibility space, or know someone that is, check out the [Accessibility Champions Community ("A11y Champs")](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs)! We're a grassroots, volunteer-led educational program intent on scaling up VA.gov's focus on the disabled Veteran experience through:
