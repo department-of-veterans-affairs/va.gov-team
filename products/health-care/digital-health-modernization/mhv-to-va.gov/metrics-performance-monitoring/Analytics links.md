@@ -9,3 +9,6 @@
 
 **Appointments team analytics**
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/analytics/vaos-analytics-links.md
+
+**Flagship mobile monthly report**
+- https://lookerstudio.google.com/u/0/reporting/e28cd59a-b2e5-4f29-8ae4-a4eea6d23f9c/page/p_7hxeqg1k9c
