@@ -6,44 +6,51 @@ The purpose of this document is to describe and align development teams and stak
 ## Problem or Opportunity
 Through recent Veteran shadowing research and discovery, we learned that **Veterans lack timely and truthful information and tracking about their claim.**
 
-Once a Veteran hits “submit,” the messaging they receive  does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans. 
+Once a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans. 
 
-Veterans told us that they want a record that shows they completed and submitted an application– in part because they do not trust VA. However, only Veterans on the happy path receive brief claim summaries and Claim IDs they can use to follow up on their claim. The Veterans most in need of help due to failure do not receive a “receipt” or usable reference number they can use to call VBA or the Contact Center. 
+Veterans told us that they want a record that shows they completed and submitted an application– in part because they do not trust VA. However, only Veterans with successful claim submissions receive brief claim summaries and Claim IDs they can use to follow up on their claim. The Veterans most in need of help due to failure do not receive a “receipt” or usable reference number they can use to call VBA or the Contact Center. 
+
+#### As Jobs to Be Done ([When [*situation/motivation*] I need [*desire*] so I can [*result*])
+1.  When I want to know my claim's status, I need it to always be available so it's accessible at any time.
+2.  When I submit my claim, I need VA.gov to set realistic expectations of how long it will take to be submitted so I can not feel worried that VA.gov forgot about me, or that I missed an important email about my claim's status.
+3.  When I want to know my claim status, I need the VA to provide me different ways to get it, so I can make a choice that's most accomodating with my physical condition, environment, or preference.
+4.  When I want a record of my claim, I need the VA to make this easy to do, so I can save it for my records
+5.  When I want to track my claim, I need the VA to make this easy to do, so I can do this quickly
+6.  When I want to know my claim status, I need VA.gov to use straightforward, honest, and understandable language when describing it so I feel that I understand it correctly.
 
 ## Proposed Solution
-We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran. As we continue to ideate, prototype, and test the solution, the list below may change.
+We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran.
 
-We will: **EHD:This is a comprehensive delivery list-- I could see us breaking it into subcategories Timely Truthful Information / Tracking to structure the data more. Will leave it up to you.**
-- Improve the language and model we use to communicate submission status to Veterans across the touchpoints in scope
-- Provide the Veteran truthful communication on submission status, even if that means a submission job has failed
-- Notify Veterans of delays in submitting their claim 
-- Set reasonable expectations on how long it takes for a claim to be submitted/processed
-- Set Veteran expectations for what happens after they submit their claim 
-- Send the Veteran email confirmation of their claim immediately after it's submitted
-- Send the Veteran an email once the claim is received    
-- Provide the Veteran accurate and basic claim details at the time of submission
-- Provide the Veteran a more detailed claim overview (e.g. evidence document list)
-- Provide the Veteran a pdf of their full claim
-- Design the submission experience so Veterans encounter consistent language/concepts about submission throughout VA.gov (eg new designs from MyVA, CST)
-- Use MyVA and Claims Status Tool (CST) to view pending claims status
-- When Veterans don't have a Claim ID, provide them a human-centered reference number they can use to get their claims status
+We'll improve the first touchpoints after submission, particularly when the Veteran is waiting for their claim to be prepared for submission by setting clear expectations and improving the language we use to communicate status. We'll contact the Veteran more quickly via email with a confirmation of their claim submission, tracking information, and instructions on how to track their claim. We'll also provide the Veteran a completed copy of their claim, a list of their evidence documents, and leverage MyVA to display current claim status.
 
-- **EHD proposal: Remove this. VBA isn't doing anything we would share out until submission is complete** Inosfar as Veterans find it valuable, help Veterans understand exactly what the VBA is doing while the claim is being submitted
-  
+#### As User Stories (As a [*user or persona*] I want [*need/desire*] so I can [*result*])
+1. As a Veteran I want the status of my current claim always available to me so that I can know the status of my claim at any time.
+2. As a Veteran I want va.gov to set my expectations for how long it will take to submit my claim, so that I am not disappointed or confused
+3. As a Veteran I want calling the Contact Center for claims status to be a choice, not a requirement, so that I have agency in how I interact with the VA.
+4. As a Veteran I want getting a claim record to be easy, so I can save it for my records
+5. As a Veteran I want tracking my claim to be simple and easy so that I can do this quickly
+6. As a Veteran I want VA.gov to use straighforward, honest, and understandable language when describing my claim status, so I feel I understand it correctly
+
 ## Success
-We'll know we're successful when: 
-- Ensure the current status of a claim is always available to Veterans
-- The timeline for claim submission is set truthfully for the Veteran
-- Make tracking a claim online something Veterans feel comfortable doing
-**EHD: Let's talk about what it would mean to measure this before we commit to it** Make calling the Contact Center for claims status only something Veterans do when they want information that isn't available to them online 
+*The following 18 items is a list of the same 6 items rephrased using 3 different frameworks*
+#### As Themes [Ensure *result* for *stakeholder*]
+1. Ensure the current status of a claim is always available to Veterans
+2. The steps and timeline for claim submission are set truthfully for the Veteran
+3. Ensure that Veterans have accessible ways to access their claim status
+4. Make getting a claim record easy for Veterans
+5. Ensure that tracking a claim is simple and easy for Veterans
+6. Ensure the language we use is straighforward and understandable so that understanding claim status is trivial
+
+
+
+
 
 ## In Scope
 - Revised "submission model" including changes to language, status types
 - Creation of new emails sent at specific times during submission
 - Improved human-centered reference number for Veterans who don't receive a Claim ID
 - A more detailed claim summary for Veterans to keep for their record
-- Changes to UI
-- Revised content in UI and email
+- Revised content and design in both UI and email
 - Recommended changes to My VA, if needed to ensure consistency
 - Recommended changes to Claim Status Tool, if needed to ensure consistency
 - Recommended changes to mobile app, if needed to ensure consistency
