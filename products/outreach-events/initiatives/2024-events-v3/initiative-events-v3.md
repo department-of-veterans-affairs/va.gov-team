@@ -62,7 +62,7 @@ For this initiative, we will implement ...
 
 -   
 
-Analytic Insights:
+### Analytic Insights:
 * 
  
 ---
@@ -70,13 +70,14 @@ Analytic Insights:
 ## Discovery
 ### Assumptions/Risks
 
-- **Value Risks** (will people use it): 
+* #### Value Risks (will people use it)
   - 
-- **Technical Risks**   
+* #### Technical Risks 
   - 
-- **Usability Risks** (can people figure out how to use it):
+* #### Usability Risks (can people figure out how to use it)
+  - Noting feedback from Amanda regardog a study, via Slack thread [here](https://dsva.slack.com/archives/C03LFSPGV16/p1715637703887209): In today's weekly design meeting, Matt Marino (he/him), shared an unexpected finding during a MyVA study that relates to the Sitewide Events product. The number of folks that mentioned this surprised me. It was unclear of where Veterans expected to find this information, MyVA or on a Facility page. The majority of participants indicated they were interested in being informed of VA news, events, alerts, and info about related Veterans organizations. (8 of 15 participants).
   - 
--  **Viability Risks/Constraints** (will there be a positive organizational impact):
+* #### Viability Risks/Constraints (will there be a positive organizational impact)
    -
 ### Current User Path
 ![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png)
