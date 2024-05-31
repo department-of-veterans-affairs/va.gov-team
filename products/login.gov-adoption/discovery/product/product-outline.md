@@ -19,7 +19,7 @@ Top-level strategic priorities:
 3. Enabling data insights related to credential usage to inform campaign strategy in realt time.
 4. Creation and adoption of national verification system across the VA service ecosystem through virtual and in person support channels.
 
-For more on our product vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision). 
+For more on our product vision and mission, see the [team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/onboarding/team-charter.md). 
 
 ## Initiatives
 
