@@ -106,7 +106,7 @@ Creating a cohesive logged-in experience will:
 
 
 ## Archived 
-### [The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/nvur)  
+### [The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/nvur)
 Currently there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA. VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
 ### Vision
 - Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
