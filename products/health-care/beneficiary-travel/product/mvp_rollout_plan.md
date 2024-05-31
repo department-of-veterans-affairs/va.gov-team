@@ -30,7 +30,21 @@ Yes
 
 ### Define the Rollback process
 
-Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that the toggle needs to be disabled.
+Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that there is a problem. The engineering team will do the following:
+#### If a critical severity issue
+1. The feature toggle will be disabled for all users
+2. Debugging will start immediately
+3. The fix will be tested and deployed through normal CI/CD practices
+4. The feature toggle will be re-enabled, possibly at a lower percentage of logged-in users
+#### If a high-severity issue
+1. The feature toggle will remain enabled, possibly at a reduction of availability (e.g. lowered percentage of logged in users)
+2. The offending commit will be reverted through normal `git` operations
+3. A fix will be highly prioritized and worked on
+4. The fix will be tested and deployed through normal CI/CD practices
+#### If a low-severity issue
+1. The toggle will remain enabled with no reduction in availability
+2. A fix will be prioritized and worked on
+3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
