@@ -15,7 +15,7 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Interim Product Owner (OCTO), Designer|Becky Phung|becky.phung@va.gov|
+|Product Owner (OCTO), Designer|Becky Phung|becky.phung@va.gov|
 |Product Owner (VES)|Natalie Morales|natalie.morales@va.gov|
 |Product Owner (VES)|Andrea Schneider|andrea.schneider3@va.gov|
 |Program Manager|Emily Allan|emily@oddball.io|
