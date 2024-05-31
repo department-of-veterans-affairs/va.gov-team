@@ -51,7 +51,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
-|Primary CG|Would you like to apply for benefits for a Primary Family Caregiver? | Y | The applicant can identify whethere this application should include a new Primary Caregiver | **TBD** |
+|Primary CG|Would you like to apply for benefits for a Primary Family Caregiver? | Y | The applicant can identify whethere this application should include a new Primary Caregiver | Systematically prompt for Primary CG fields |
 
 </details>
 
@@ -102,7 +102,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
-|Secondary CG|Would you like to apply for benefits for a Secondary Family Caregiver?| Y | **TBD** | **TBD** |
+|Secondary CG| Would you like to apply for benefits for a Secondary Family Caregiver?| Y | The applicant can identify whethere this application should include a new Secondary Caregiver | Systematically prompt for Secondary CG fields |
 
 </details>
 
@@ -136,7 +136,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 |Contact Info|Alternate telephone number | N | We will use mobile phone as another means of communication | **TBD**|
 |Contact Info|Email Address | N | We will use email as another means of communication| **TBD**|
 |Secondary CG Relationship| What is the Primary Family Caregiver’s relationship to the Veteran? | Y | **TBD** | **TBD**|
-|Secondary CG Apply |Would you like to apply for benefits for another Secondary Family Caregiver?| Y | **TBD** | **TBD** |
+|Secondary CG Apply |Would you like to apply for benefits for another Secondary Family Caregiver?| Y | The applicant can identify whethere this application should include another Secondary Caregiver | Systematically prompt for Secondary CG fields |
 
 </details>
 
@@ -145,7 +145,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 
   | Form Subsection | Form Question| Required? | Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|
-|Legal Rep|Select who will sign for the Veteran today: (Veteran or Legal rep)|Y|**TBD**| **TBD**|
+|Legal Rep|Select who will sign for the Veteran today: (Veteran or Legal rep)|Y|Staff can ensure the appropriate person is signing the application as or for the Veteran| **TBD**|
 
 </details>
 
@@ -165,7 +165,7 @@ Below is a chart of all the 10-10CG form questions, why we ask them and a resour
 |---------------------|---------------------|---------------|---------------|-----------------|
 |Signature|Veteran’s full name [OR Enter your name to sign as the Veteran’s representative] |Y|e-signature is required for the document from the Veteran or their Legal Representative|**TBD**
 |Review & Agree| I certify the information above is correct and true to the best of my knowledge and belief.|Y|**TBD** | **TBD**|
-|Signature|Primary Family Caregiver applicant’s full name|Y|e-signature is required for the document |**TBD**
+|Signature|Primary Family Caregiver applicant’s full name|Y|e-signature is required for the document |**TBD** |
 |Review & Agree| I certify the information above is correct and true to the best of my knowledge and belief.|Y|**TBD** | **TBD**|
 |Signature|Secondary Family Caregiver applicant’s full name|Y|e-signature is required for the document |**TBD**
 |Review & Agree| I certify the information above is correct and true to the best of my knowledge and belief.|Y|**TBD** | **TBD**|
