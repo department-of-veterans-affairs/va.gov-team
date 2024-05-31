@@ -53,25 +53,20 @@
 - [x] Create corresponding stories to align with the work needed (start with this list!)
 - [x] Initial design
      - [x] Lo-Fi design ideas
-     - [ ] Presentation to Stakeholders and downstream system representatives
+     - [x] Presentation to Stakeholders and downstream system representatives
 - [x]Submit Collaboration Cycle request ticket
      - [x] Review Collaboration Cycle site
      - [x] Start gathering artifacts (list above)
      - [x] Maintain this checklist of artifacts, updating as they are shared
 - [x] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [x] Present design and obtain feedback
-- [x]bRequest Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
 - [x] Create prototype or basic working functionality in environments
 - [x] Create Research Plan and Conversation Guide
 - [x] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
 - [x] Request Research Review - Refer back to the initial Collaboration Cycle Request ticket
-- [ ] Schedule research sessions with Perigean
-- [ ] Conduct research sessions
-     - [ ] Synthesize research findings
-     - [ ] Review findings with the team
-     - [ ] Make any necessary tickets/changes for design
 - [ ] Create Use Cases
      - [ ] Identify test users
 - [ ] Create Release Plan
