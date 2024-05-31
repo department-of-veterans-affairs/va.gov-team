@@ -4,7 +4,9 @@
 The purpose of this document is to describe and align development teams and stakeholders on what will be delivered and why we need this now. It is a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the progress.
 
 ## Problem or Opportunity
-An insight we discovered during user research conducted in 2024, is that **Veterans lack timely and truthful information about their claim.** Veterans want a way to track their claim and ensure it doesn't get "stuck", but they don't know how to do this online. Today, when Veterans want up to date information about the status of their claim, some of them call the Contact Center and ask an agent for that information. Veterans also feel that sometimes VBA makes things confusing or opaque and this leads to a level of distrust of the VBA.
+During our Veteran shadowing research in 2023, we learned that **Veterans lack timely and truthful information about their claim.** 
+Veterans told us that they want a record that shows they completed and submitted an application– in part because they do not trust VA.
+**EHD note: I'm unsure where this content came from. I'd like to rewrite it highlighting the gaps of the experience that we learned in discovery** Veterans want a way to track their claim and ensure it doesn't get "stuck", but they don't know how to do this online. Today, when Veterans want up to date information about the status of their claim, some of them call the Contact Center and ask an agent for that information. Veterans also feel that sometimes VBA makes things confusing or opaque and this leads to a level of distrust of the VBA.
 
 ## Proposed Solution
 We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran. As we continue to ideate, prototype, and test the solution, the list below may change.
