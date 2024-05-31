@@ -13,7 +13,7 @@ Bring a list of all your medications and anything else you need to share with yo
 
 What to share with your provider [expand]
 
-Share all medications you're taking now, including the doses (amounts) you take of each medication and how often you take them. Include these medications types:
+Share all medications you're taking now, including the doses (amounts) you take of each medication and how often you take them. Include these medication types:
 - Prescriptions from VA and non-VA providers
 - Over-the-counter medications
 - Vitamins, supplements, and herbal remedies
