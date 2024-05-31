@@ -9,7 +9,7 @@ From "start scheduling" clicks to appointment submission
 - GA: https://analytics.google.com/analytics/web/template?uid=iFy1B26wQrG78jY9CPTXAA
 
 ### Users
-- GA: https://analytics.google.com/analytics/web/template?uid=Hula7nxGTz-3fUIZRGZn1w
+- GA: https://analytics.google.com/analytics/web/template?uid=6ps2Y5dATkuqW_ZSmdu1_Q
 
 ### Static Landing Page Conversion
 Unauthenticated content page before entering the authenticated app.
