@@ -12,3 +12,6 @@
 
 **Flagship mobile monthly report**
 - https://lookerstudio.google.com/u/0/reporting/e28cd59a-b2e5-4f29-8ae4-a4eea6d23f9c/page/p_7hxeqg1k9c
+
+**How users find SM on VA.gov - GA report**
+- https://analytics.google.com/analytics/web/?authuser=1#/analysis/p419143770/edit/VAnfsbSCSvaJALpKt0dILw 
