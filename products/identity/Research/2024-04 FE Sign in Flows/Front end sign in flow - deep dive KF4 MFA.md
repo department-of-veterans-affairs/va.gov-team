@@ -56,7 +56,7 @@ Some health and financial institutions, especially on their app experiences, aut
    - hypothesis 5 “most Veterans will choose to set up text or voice message as their multi-factor authentication method” found to be “definitely true”
 2. [2023-04 Proactive CSP Migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md) 
    - finding 7 “Participants largely understand MFA, although several found SMS to be a hassle and a couple participants expressed extreme dislike of or anxiety around SMS MFA.”
-3. Medallia survey link Medallia intercept survey data - Jan 01, 2024 to April 30, 2024
+3. Medallia intercept survey data - Jan 01, 2024 to April 30, 2024
    - The overall themes of these responses were issues with authentication (including MFA), issues with verification (including ID images), frustrations with complexity (mostly too many CSP options), technical issues (like error messages or complaints of sign in looping).
 4. Mobile App Team - app store reviews, 2023
 5. [2022-10 Login.gov Adoption Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/research/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20findings.md)
@@ -65,6 +65,6 @@ Some health and financial institutions, especially on their app experiences, aut
 7. [2023-03 Appointment list redesign screenreader research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md)
    - finding 5 “Logging in was the biggest navigation challenge for participants”
 8. [2023-12 VetStatus Use Case Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/f97a2589dd3ed8352bff4edf37401a583cb46897/products/veteran-status/Research/2023-12-VetStatus-Use-Case-Discovery/2023-12-Research-Plan.md)
-9. 2023-12 Federal Header/Footer usability testing--Phase 1 (non-AT participants)
-10. Gonzales, A. (2016). The contemporary US digital divide: from initial access to technology maintenance. Information, Communication & Society, 19(2), 234–248. https://doi.org/10.1080/1369118X.2015.1050438
-11. [2024-03 ARM findarep live usertest](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest)
+9. [2023-12 Federal Header/Footer usability testing--Phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase1-no-AT#:~:text=2%20months%20ago-,topline.md,-updated%203%20p%27s)
+11. Gonzales, A. (2016). The contemporary US digital divide: from initial access to technology maintenance. Information, Communication & Society, 19(2), 234–248. https://doi.org/10.1080/1369118X.2015.1050438
+12. [2024-03 ARM findarep live usertest](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest)
