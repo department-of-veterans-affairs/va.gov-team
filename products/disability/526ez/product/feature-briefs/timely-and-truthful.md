@@ -9,7 +9,7 @@ An insight we discovered during user research conducted in 2024, is that **Veter
 ## Proposed Solution
 We're driven by the goal of providing Veterans timely and truthful information about their claim after the claim is submitted. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran. As we continue to ideate, prototype, and test the solution, the list below may change.
 
-We will:
+We will: **EHD:This is a comprehensive delivery list-- I could see us breaking it into subcategories Timely Truthful Information / Tracking to structure the data more. Will leave it up to you.**
 - Improve the language and model we use to communicate submission status to Veterans across the touchpoints in scope
 - Provide the Veteran truthful communication on submission status, even if that means a submission job has failed
 - Notify Veterans of delays in submitting their claim 
