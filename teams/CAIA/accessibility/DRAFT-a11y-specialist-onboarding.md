@@ -172,18 +172,20 @@ Join us!
 
 <details><summary>Toggle to view meeting details</summary>
 
-- **VA A11y Specialist Weekly Sync** - all a11y specialists meet for community support and to discuss group topics (Thursdays at 12:30 ET).
-   - You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09).
-- **VA A11y Specialist Office Hours** - optional a11y specialist only calls for us to support one another on Fridays at 11 a.m. ET.
-   - You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09). 
-- **VA.gov 508 Monthly** - opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans (3rd Wednesday at 4:00 ET) 
-   - [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP).
-- **CAIA Office Hours** - the CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!
-   - [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
+Meeting Name | About | Frequency | Joining
+------------------|------------------|--------------|--------------|
+**VA A11y Specialist Weekly Sync** | All a11y specialists meet for community support and to discuss group topics | Thursdays at 12:30 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
+**VA A11y Specialist Office Hours** |`Optional` a11y specialist only calls for us to support one another | Fridays at 11:00 a.m. ET. | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
+**VA.gov 508 Monthly** |Opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans | 3rd Wednesday at 4:00 ET | [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP) 
+**CAIA Office Hours** |The CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!| Tuesdays at 4 p.m. ET | [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
+
+-  - 
+   -  
 
 </details>
 
 ### Slack
+**This section includes information about:**
 - Profile
 - Channels
 - Notifications
@@ -217,22 +219,18 @@ These channels aren't required, but we recommend you join them. They'll give you
 
 And if you're embedded on a product team, you might want to follow channels from other teams in your Crew. For example, if you're on a Benefits team, you might want to follow other Benefits teams' channels! This will give you insight into what those teams are up to, and open up more possibilities for cross-team collaboration.
 
-</details>
-
 #### Notifications
-If you want to keep abreast of accessibility happenings across VA.gov, you can setup keyword flags such as “accessibility,” “a11y,” etc.
-
-<details><summary>Toggle to view setup instructions</summary>
-  
+If you want to keep abreast of accessibility happenings across VA.gov, you can setup keyword flags such as “accessibility,” “a11y,” etc.  
 - **Navigate to:** Preferences > Notifications
 - **Use** **commas** to separate each keyword. 
 - **Keywords** are not case sensitive. 
    - **Examples:** Accessibility, accessible, audit, user research, ux, CAIA, user experience, a11y
 
-   </details>
-
 #### Tagging
 Calling all CAIA a11ys! Use `@sitewide-caia-accessibility` in Slack to ping all CAIA accessibility specialists.
+
+</details>
+
 
 ## Primary Contacts
 If you want to learn more about how accessibility works at VA.gov, reach out to:
@@ -242,7 +240,7 @@ If you want to learn more about how accessibility works at VA.gov, reach out to:
 - [Jeana Clark](https://dsva.slack.com/team/U049MQKDTT3) - Veteran Facing Forms, Accessibility Specialist (UX) [Ad Hoc]
 
 ## Improve your skills
-
+**This section includes information about:**
 - A11y Champs
 - Tooling
 - Figma
