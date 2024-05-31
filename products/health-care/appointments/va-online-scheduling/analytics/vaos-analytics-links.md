@@ -20,7 +20,7 @@ Exit links from within the app
 - GA: https://analytics.google.com/analytics/web/template?uid=6PVfZ2b8QiK08p5i94Gmmw
 
 ### Phone Number Clicks
-- GA: https://analytics.google.com/analytics/web/template?uid=2_3XpdQURWmy_8KzqR9PpQ
+- GA: https://analytics.google.com/analytics/web/template?uid=F12XDPN9Tq-DcBLOEuRDeA
 
 ---
 
