@@ -5,16 +5,26 @@ How might we enhance a Veteran's experience when they're searching for and viewi
 
 ## Outcome Summary
   
-For this initiative, we will implement ...
+For this initiative, we will implement in multiple phases, with MVP being the first, and then a fast-follow of a combo of backend and Veteran- & Editor-facing design work.
 
+#### MVP:
+- Engineering/Backend: The first iteration will focus on backend functionality, rebuilting events from static HTML into a dynamic React app.
+
+#### Fast-follow:
+(in order of priority)
+- Design Drupal CMS editorial flows and run usability testing with editors
+- Provide Veterans the ability to find events near them (one of the long-time top-requested features).
+- Provide Editors the ability to confirm lat/long are correct for locations.
 
 ### EPICS: 
 - [[SUPER EPIC] Events v3](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17871)
 - [[EPIC] [Events v3] Create an Events API & Data Model](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911)
-- 
+- [IIR's work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/initiatives/2024-events-v3/2024-IIR-Handoff.md) included FE designs
 - 
 ### Artifacts
 - List of already existing [Events tickets in Sharepoint/Excel](https://dvagov.sharepoint.com/:x:/r/sites/SitewidePublicWebsites/_layouts/15/Doc.aspx?sourcedoc=%7B1d81bc4d-d972-4e1b-aa55-1523d419e9fd%7D&action=edit&wdenableroaming=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1717177303908&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=4fbb0378-03c7-ac19-5f26-30f8c7b84877&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel)
+- [Previous work](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9617) was done by Public Websites in 2022 to design Drupal CMS editorial flows
+- 
 
 
 
