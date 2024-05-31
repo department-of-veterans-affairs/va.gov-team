@@ -4,12 +4,13 @@
 
 | Date            | Subject                 | Description          | Findings     |
 | :-------------  | :-------------          | :-------------       | :----------- |
-| Jan 2024| Identity Support Process | content inventory, secondary research, survey and workshop with internal VA team members | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-01%20Identity%20Support%20Process/2024-01%20Identity%20Support%20Process%20-%20Research%20Share%20Out.md) |
+| Jan 2024| Identity support process | content inventory, secondary research, survey and workshop with internal VA team members | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-01%20Identity%20Support%20Process/2024-01%20Identity%20Support%20Process%20-%20Research%20Share%20Out.md) |
 | Jan 2024 | Sign in Service | workshop and interviews with internal VA team members | [Demo slides](sis-onboarding-deliverables-demo-feb-30-24.pdf)|
-| Feb 2024 | Service Level Objectives (SLOs) | contextual and content research, secondary research | [Report on internal teams' needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md), [Report on veteran's needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)| 
-| Mar 2024 | Fraud Notifications | quantitative data collection, workshop and interviews with internal VA team members | [see sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/research) |
-| April 2024 | FE Sign in flows | secondaray research to familiarize ourselves to this product as we take ownership | |
-| on hold | MFA Security Key| diary study | |
+| Feb 2024 | Service level objectives (SLOs) | contextual and content research, secondary research | [Report on internal teams' needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content-research-internal-teams.md), [Report on veteran's needs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-03%20Service%20Level%20Objectives/Content%20research%20for%20Veterans.md)| 
+| Mar 2024 | Fraud notifications | quantitative data collection, workshop and interviews with internal VA team members | [see sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsp/teams/Identity/research) |
+| April 2024 | FE sign in flows | secondaray research to familiarize ourselves to this product as we take ownership | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20discovery%20research.md)|
+| May 2024 | Identity support process | usability/UAT of a new Slackbot our team plans to release to standardize support request intake | [Demo slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-05%20Support%20Process%20Slackbot%20UAT/2024-05%20Slackbot%20UAT%20research%20readout%20slides.md) |
+| on hold | MFA security key| diary study | |
 | | | | |
 
 
