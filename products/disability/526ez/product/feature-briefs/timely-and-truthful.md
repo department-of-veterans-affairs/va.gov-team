@@ -46,6 +46,7 @@ We'll know we're successful when:
 - Revised content in UI and email
 - Recommended changes to My VA, if needed to ensure consistency
 - Recommended changes to Claim Status Tool, if needed to ensure consistency
+- Recommended changes to mobile app, if needed to ensure consistency
 
 ## Out of Scope
 - Changes to MyVA
