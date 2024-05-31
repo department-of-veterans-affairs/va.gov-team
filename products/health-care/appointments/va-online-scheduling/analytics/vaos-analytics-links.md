@@ -13,7 +13,7 @@ From "start scheduling" clicks to appointment submission
 
 ### Static Landing Page Conversion
 Unauthenticated content page before entering the authenticated app.
-- GA: https://analytics.google.com/analytics/web/template?uid=heanj0ISTmeEdlqM6wAMGw
+- GA: https://analytics.google.com/analytics/web/template?uid=AQ1bUr1URRm6pH85yVKdTA
 
 ### Exit Links
 Exit links from within the app
