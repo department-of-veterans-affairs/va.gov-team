@@ -69,7 +69,7 @@
 - [x] Create prototype or basic working functionality in environments
      - [x] The team can determine the best path, used for research
 - [ ] Create Research Plan and Conversation Guide
-- [ ] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
 - [ ] Schedule research sessions with Perigean
 - [ ] Conduct research sessions
