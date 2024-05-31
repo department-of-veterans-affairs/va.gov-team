@@ -1,11 +1,17 @@
-## Supporting Artifacts for 10-7959f-1 (WIP)
+## Supporting Artifacts for 10-7959f-2 (WIP)
 
 
-- design: 
-  - [user flows](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-18&mode=design)
-  - [wireframes](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-19&mode=design) 
-  - [source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/content-source-of-truth.md)
-- research: [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
+- design:
+- userflow:
+https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=1-18
+- annotations:
+https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=3419-83589
+- mobile breakpoint:
+https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=726-21596
+- desk/tablet breakpoint:
+https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet-(10-7959f-2)?node-id=732-40895
+  
+- research
 
 
 ## QA
