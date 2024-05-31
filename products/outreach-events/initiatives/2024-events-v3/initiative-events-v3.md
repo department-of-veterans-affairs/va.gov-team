@@ -13,6 +13,10 @@ For this initiative, we will implement ...
 - [[EPIC] [Events v3] Create an Events API & Data Model](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911)
 - 
 - 
+### Artifacts
+- List of already existing [Events tickets in Sharepoint/Excel](https://dvagov.sharepoint.com/:x:/r/sites/SitewidePublicWebsites/_layouts/15/Doc.aspx?sourcedoc=%7B1d81bc4d-d972-4e1b-aa55-1523d419e9fd%7D&action=edit&wdenableroaming=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1717177303908&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=4fbb0378-03c7-ac19-5f26-30f8c7b84877&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel)
+
+
 
 ## The Problem to be Solved
 
@@ -68,6 +72,7 @@ For this initiative, we will implement ...
 ---
 
 ## Discovery
+
 ### Assumptions/Risks
 
 * #### Value Risks (will people use it)
@@ -80,7 +85,13 @@ For this initiative, we will implement ...
 * #### Viability Risks/Constraints (will there be a positive organizational impact)
    -
 ### Current User Path
+
+Outreach & Events | User flows & inbound links
 ![Screen Shot 2021-10-28 at 10 55 42 AM](https://user-images.githubusercontent.com/70410912/139301132-8c3ddf53-ed54-47d6-aa6e-6f85da90e1ec.png)
+
+### CSAT Scores
+
+
 
 ### Technical Analysis 
 - 
@@ -111,7 +122,7 @@ For this initiative, we will implement ...
 
 ### Timeline 
 
-- Link to release plan: 
+- Link to release plan: TBD
 
 
 
@@ -125,6 +136,12 @@ For this initiative, we will implement ...
    
 ## Screenshots
 
+### Existing Veteran-Facing Screenshots
+
+
+
+
+### Existing Editor-Facing Screenshots
 
 ---
 
