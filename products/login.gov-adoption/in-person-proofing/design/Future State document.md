@@ -65,7 +65,8 @@ New Additions
 Add IPP content within an email confirmation via existing links on VA
 Add a clickable link that will direct the user to the IPP intake application landing page 
 
-<img width="473" alt="Screenshot 2024-05-31 at 8 42 06 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/c14a04e1-e920-4d7b-9d0d-0e15b166fd8e">
+
+<img width="1126" alt="Screenshot 2024-05-31 at 8 47 27 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/fa7e7566-282b-4536-bc3e-07a3a6e39a06">
 
 
 Proposed plan for implementation: Paused as of 5/31
