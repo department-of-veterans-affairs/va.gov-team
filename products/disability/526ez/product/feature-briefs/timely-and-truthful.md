@@ -44,6 +44,8 @@ We'll know we're successful when:
 - A more detailed claim summary for Veterans to keep for their record
 - Changes to UI
 - Revised content in UI and email
+- Recommended changes to My VA, if needed to ensure consistency
+- Recommended changes to Claim Status Tool, if needed to ensure consistency
 
 ## Out of Scope
 - Changes to MyVA
