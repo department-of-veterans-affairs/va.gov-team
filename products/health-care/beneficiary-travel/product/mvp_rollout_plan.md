@@ -7,7 +7,7 @@ Feature Toggles
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| [travel_pay_power_switch](https://api.va.gov/flipper/features/travel_pay_power_switch) | Main switch for the Travel Pay feature on VA.gov using the new BTSSS (travel pay) API. Enabled - Requests are handled as normal. Disabled - Requests are not handled. Server returns a 503 (Service Unavailable) until re-enabled. |
 
 ## Step 2: Validation
 
