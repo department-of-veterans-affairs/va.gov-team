@@ -28,18 +28,18 @@ We will: **EHD:This is a comprehensive delivery list-- I could see us breaking i
 
 - **EHD proposal: Remove this. VBA isn't doing anything we would share out until submission is complete** Inosfar as Veterans find it valuable, help Veterans understand exactly what the VBA is doing while the claim is being submitted
   
-## Success (EHD: I can see us reformulating this langauge to be Veteran first. ie Veterans know the current status of their claim)
+## Success
 We'll know we're successful when: 
 - Ensure the current status of a claim is always available to Veterans
-- Ensure the timeline for claim submission is set truthfully for the Veteran
+- The timeline for claim submission is set truthfully for the Veteran
 - Make tracking a claim online something Veterans feel comfortable doing
 **EHD: Let's talk about what it would mean to measure this before we commit to it** Make calling the Contact Center for claims status only something Veterans do when they want information that isn't available to them online 
 
 ## In Scope
 - Revised "submission model" including changes to language, status types
 - Creation of new emails sent at specific times during submission
-- **EHD ADD:** Improved human-centered reference number for Veterans who don't receive a Claim ID
-- **EHD ADD** A more detailed claim summary for Veterans to keep for their record
+- Improved human-centered reference number for Veterans who don't receive a Claim ID
+- A more detailed claim summary for Veterans to keep for their record
 - Changes to UI
 - Revised content in UI and email
 
