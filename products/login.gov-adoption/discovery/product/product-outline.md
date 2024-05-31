@@ -23,10 +23,10 @@ For more on our product vision and mission, see the [team charter](https://githu
 
 ## Initiatives
 
-## [#1 - Proactive login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
-## [#2 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/in-person%20support/product-brief.md)
+## [#1 - Modern Credential Communication Campaign](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign)
+## [#2 - In-person proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/in-person-proofing)
 
-### [Pro-active login.gov adoption](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/login.gov)
+### [Modern Credential Communication Campaign](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/communication-campaign)
 The Secure Sign in Transition team aims to consolidate the pathways to sign in to VA.gov and provide Login.gov and ID.me as credential options while eliminating duplicative and non-compliant legacy credentials. Veterans will be informed of the Login.gov and ID.me credential options as well as educated through multi-channel communication on how to create a Login.gov or ID.me credential. The consolidation of login credential options ensures a more secure process for Veterans, as well as reduces roadblocks and pain points for Veterans trying to access their benefits and services. 
 
 ### Vision
@@ -68,7 +68,7 @@ The Secure Sign in Transition team aims to consolidate the pathways to sign in t
 
 ### Requirements
 
-- Our work will be guided by our [vision, mission, and north star objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision).
+- Our work will be guided by our [team charter]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/team-charter.md#product-vision](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/onboarding/team-charter.md).
 - Our work will put Veterans first.
 - Our work will consider the full Veteran experience — from logged out to logged in, from online to offline.
 - When we know information about Veterans, we'll elevate it and present it to them in a way that helps them understand their experience and complete tasks.
@@ -106,7 +106,7 @@ Creating a cohesive logged-in experience will:
 
 
 ## Archived 
-### [The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/products/nvur)  
+### [The NVURending story](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/nvur)  
 Currently there is not a unified definition for each of the non-Veteran customer types at the VA. Each administration — VHA, VBA, and NCA — has their own unique definitions and nuances, which increases the complexity of implementing non-Veteran user roles on VA.gov. Delegates, beneficiaries, caregivers, and dependents are a few terms used interchangeably that encompass many different user types relying on many different products and services across VA. VA.gov will need to transition from exclusively serving Veterans to serving a wider audience, such as caregivers, spouses, partners, POAs, VSOs, etc.
 ### Vision
 - Non-Veteran users will be able to sign-in and access the products and services they need for their specific roles.
@@ -117,7 +117,7 @@ Currently there is not a unified definition for each of the non-Veteran customer
 - As a Veteran, I want to be able to give others differing levels of access to my account, so I can empower them to provide greater care and support to me.
 ###
 
-### [Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/products/deferred-identity-proofing)
+### [Deferred identity proofing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/login.gov-adoption/discovery/deferred-identity-proofing)
 As we continue to evolve the VA.gov ecosystem, legacy Credential Service Providers (CSP's) do not meet customer experience and security objectives prioritized by the administration in the EO on improving customer experience. We need to migrate users to newer CSP's that do meet these objectives. In this specific instance, we are working to move select DS Logon users to Login.gov without the need to reverify their identities.
 
 Deferred identity proofing lets Veterans migrate without requiring them to re-proof right away.
