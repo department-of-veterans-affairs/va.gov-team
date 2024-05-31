@@ -5,7 +5,9 @@ The purpose of this document is to describe and align development teams and stak
 
 ## Problem or Opportunity
 Through recent Veteran shadowing research and discovery, we learned that **Veterans lack timely and truthful information and tracking about their claim.**
+
 Once a Veteran hits “submit,” the messaging they receive  does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans. 
+
 Veterans told us that they want a record that shows they completed and submitted an application– in part because they do not trust VA. However, only Veterans on the happy path receive brief claim summaries and Claim IDs they can use to follow up on their claim. The Veterans most in need of help due to failure do not receive a “receipt” or usable reference number they can use to call VBA or the Contact Center. 
 
 ## Proposed Solution
