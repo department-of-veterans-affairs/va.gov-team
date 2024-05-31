@@ -1,11 +1,9 @@
-## Supporting Artifacts for 10-7959f-1 (WIP)
+## Supporting Artifacts for 10-7959a (WIP)
 
 
-- design: 
-  - [user flows](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-18&mode=design)
-  - [wireframes](https://www.figma.com/file/PzB1F5TYuBK5KQgPbuhAwH/10-7959f-1?type=design&node-id=1-19&mode=design) 
-  - [source of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/content-source-of-truth.md)
-- research: [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-1/research/users/research-plan.md)
+- [design](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims-(10-7959a)?node-id=566-133471)
+- research:
+- [IA doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/champva-claim-7959a.md)
 
 
 ## QA
