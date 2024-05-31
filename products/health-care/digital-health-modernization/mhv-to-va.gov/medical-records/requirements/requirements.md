@@ -32,6 +32,7 @@ Medical records v1.0 consists of 6 data domains, as well as a way to download al
 * Care summaries and notes
   * Progress notes
   * Discharge summaries
+  * Consult results
 * Lab and test results
   * Lab results (Chem/Hem)
   * Pathology reports
