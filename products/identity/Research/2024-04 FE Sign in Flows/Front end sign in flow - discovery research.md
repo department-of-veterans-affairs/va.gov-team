@@ -297,4 +297,4 @@ Note: for further context on this topic [see the deep dive of MFA difficulties](
  - Contact Center Data for sign in
     - Opt-in survey data - 2077 responses (Jan 1 to April 30, 2024)
     - Intercept survey data - 548 responses (Jan 1 to April 30, 2024)
-
+- Some details and quotes from some of the above references, can also be found in the document [Identity topics from unrelated studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Identity%20topics%20from%20unrelated%20studies.md)
