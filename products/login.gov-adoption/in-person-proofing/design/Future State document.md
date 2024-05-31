@@ -1,6 +1,6 @@
 # Future State document In-Person Identity Proofing Future State Flow 
 
-Date Last Modified May 22, 2024 
+Date Last Modified May 31, 2024 
 Designed by: 
 Sofia Kirkman, Service Designer 
 Josie Griffith, UX Designer 
@@ -33,7 +33,7 @@ Option for more accepted forms of identification
 <img width="1478" alt="Screenshot 2024-05-22 at 4 10 50 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/8af2f60e-6d55-4546-bf99-0a385af32b26">
 
 
-Proposed plan for implementation:
+Proposed plan for implementation: Paused as of 5/31
 
 ## Reschedule User Flow
 
@@ -50,7 +50,7 @@ A date range feature that allows Veterans to pick a date range that works best f
 <img width="929" alt="Screenshot 2024-05-22 at 4 10 12 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/bec6fe4f-05ac-45c1-a194-036882149304">
 
 
-Proposed plan for implementation:
+Proposed plan for implementation: Paused as of 5/31
 
 
 ## Bundling Appointment Flow
@@ -61,14 +61,14 @@ Julie is a 38 year old Veteran who currently uses MyHealtheVet to access her ben
 
 Julie goes in every six months for a routine medical appointment at her local VAMC. A couple of days prior to her appointment, Julie receives a reminder email. While reading through the email, she notices that she is required to create a modern credential by a designated deadline. She reads that if she creates a new modern credential, she will need to verify her identity, and there is an option to verify in person at her VAMC. She clicks on a link which takes her to a page with more information about creating a modern credential and verification. She decides that it would be much easier for her to travel to the VA only once, rather than schedule a separate appointment for the verification.She knows that if she sets up her verification appointment the same day as her appointment, then she can finish setting up her modern credential securely. In her email, she clicks on a link that allows her to sign up for a modern credential via Login.gov. After creating her Login.gov account, she goes back to the email and clicks on a link that takes her to the IPP intake application where she selects her date and site before receiving confirmation for her verification walk appointment.
 
-
 New Additions 
 Add IPP content within an email confirmation via existing links on VA
 Add a clickable link that will direct the user to the IPP intake application landing page 
 
-[insert photo of flow]
+<img width="473" alt="Screenshot 2024-05-31 at 8 42 06 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/125686639/58be5cdc-be82-4441-9810-602df135ac54">
 
-Proposed plan for implementation:
+
+Proposed plan for implementation: Paused as of 5/31
 
 
 
