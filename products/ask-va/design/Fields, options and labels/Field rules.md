@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: May 22, 2024
+Last updated by @tygindraux: May 31, 2024
 
 This document is for our design team to communicate field rules. The primary audience is engineering and product folks on our team.
 
@@ -28,10 +28,10 @@ This document is for our design team to communicate field rules. The primary aud
 ## `Pronouns`
 |If|Then|Unless|
 |:--|:--|:--|
-|All categories|Require `Pronouns` for whomever the inquiry is about||
+|All categories|Optional field for `Pronouns` of the submitter||
 
-- Who the inquiry is about can be the Veteran or a family member.
-- We will only ask for the pronouns of the subject of the inquiry if they are not the submitter. We will not ask for the submitter's pronouns.
+- Submitter can be the Veteran, a family member, or another third party.
+- Review this [documentation about our decision to collect submitter Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Pronouns.md).
 
 ## `Preferred name`
 |If|Then|Unless|
