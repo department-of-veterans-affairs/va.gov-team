@@ -26,16 +26,11 @@ We will:
 
 ## Success
 We'll know we're successful when:
-- Veterans feel they have clear expectations of claim status
-- Veterans no longer feel it's necessary to call to the Contact Center for information, thus reducing call volume for claim status to the Contact Center
-- Veterans always know the current status of their claim
-- Veterans can get help tracking their claim if they need it
--
 - Ensure the current status of a claim is always known by Veterans
 - Ensure expectations for submission and processing duration are set truthfully for the Veteran
 - Make calling the Contact Center for claims status only something Veterans do when they want information that isn't available to them online
 - Ensure that the claim's current status is always known by the Veteran
-- Make tracking a claim online 
+- Make tracking a claim online something Veterans feel comfortable doing
 
 ## In Scope
 - Revised "submission model" including changes to language, status types
