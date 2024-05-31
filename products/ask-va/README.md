@@ -19,8 +19,8 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 |Product Owner (VES)|Natalie Morales|natalie.morales@va.gov|
 |Product Owner (VES)|Andrea Schneider|andrea.schneider3@va.gov|
 |Program Manager|Emily Allan|emily@oddball.io|
-|Interim Product Manager|Holly Hansen|holly.hansen@thoughtworks.com|
-|Product Manager|Ruchi Shah|ruchi.shah@thoughtworks.com|
+|Program Manager|Megan Siddle|megan.siddle@oddball.io|
+|Interim Product Manager|Terri Hollar|tbhollar@thoughtworks.com|
 |Lead Engineer|Joseph Hall|joe.hall@thoughtworks.com|
 |Engineer|Eddie Otero|eddie.otero@oddball.io|
 |Engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
