@@ -1,4 +1,4 @@
-# VAOS Incident Response Playbook
+# MHV Appointments Incident Response Playbook
 
 This playbook assumes that you are one of the primary developers responsible for the VAOS redesign application. It contains a series of instructions that you should follow in the event of an incident affecting production.
 
