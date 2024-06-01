@@ -5,7 +5,7 @@ The next step is to gather information from our logging tools. Currently, these 
 
 Once the problem is understood, the next step would be to check Slacks **VA PPG Workspace** to see if the backend group has already identified the problem and is working on it. 
 
-If the problem is from the VAMF backend and the backend groups (MACM, CKM) are not aware of it the next steps are to create a MAPSUP ticket with the information gathered.  In order to create a MAPSUP ticket an Atlassian account is needed. Open the Issues browsing page in Jira, [Issues](https://issues.mobilehealth.va.gov/) and click on the Create link found on the right in the upper menu:
+If the problem is from the MAP backend and the backend groups (MACM, CKM) are not aware of it the next steps are to create a MAPSUP ticket with the information gathered.  In order to create a MAPSUP ticket an Atlassian account is needed. Open the Issues browsing page in Jira, [Issues](https://issues.mobilehealth.va.gov/) and click on the Create link found on the right in the upper menu:
 
 ![Jira Issue Browse](images/vaos-mapsup-jira1.png)
 
