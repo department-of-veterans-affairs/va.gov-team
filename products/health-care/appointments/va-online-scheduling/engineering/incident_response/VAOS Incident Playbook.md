@@ -9,7 +9,7 @@ The first step is identifying that an incident has occurred. Anyone submitting c
 ### Passive Monitoring and Alerting
 
 As a developer on the MHV Appointments team please join the [#appointments-alerts](https://dsva.slack.com/channels/vaos-alerts) channel in DSVA slack if you have not already. We have setup a number of dashboard in Datadog and these dashboards trigger alerts based on SLI to help identify disruptions in application.
-In addition, you should join the #oncall channel in DSVA slack and be prepared to notify the folks in platform operations in the event of an incident. Particularly, and most notably if you suspect this incident to pose a security or PII concern.
+In addition, you should join the [#oncall](https://dsva.slack.com/archives/C30LCU8S3) and channel in the Office of CTO @VA slack and be prepared to notify the folks in platform operations in the event of an incident. Particularly, and most notably if you suspect this incident to pose a security or PII concern.
 
 The alerts in [#appointments-alerts](https://dsva.slack.com/channels/vaos-alerts) channel are triggered based on the following criteria and subject to change:
 
