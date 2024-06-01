@@ -47,19 +47,6 @@ you are still responsible for taking whatever means necessary to escalate the is
     - How many total events occurred during a given a time frame?
     - How many unique IP addresses were affected by this incident?
   
-3. Login to CAG and attempt to find the root cause of the incident in Kibana
-
-    1. First change the time range for the query from "last 15 minutes" to "last 24 hours" or whatever is appropriate.
-    2. Next copy and paste one of the error ids you found in Sentry in the search query.
-    3. The results returned will most likely not provide a stack trace, but they will provide a pod-name for the next query.
-    4. First adjust the time range to be within 1 minute of the last incident you identified in the previous query.
-    5. Next search for "pod.name=<whatever the pod name was>"
-    6. This should hopefully either point you to a new pod name, in which case you repeat steps 4-5, or you should see a stack trace.
-    7. Open a VAOS-R JIRA ticket documenting everything you found from Sentry and Kibana. 
-    8. Identify the criticality of the issue. 
-    9. Assign the issue to Larry Norcross in Production Support.
-    10. Open a corresponding Github in va.gov-team and link to the issue you opened in JIRA.
-    11. Tag any appropriate people who should be aware in [#vaos-eng](https://dsva.slack.com/channels/vaos-eng) channel.
 
 #### VA Platform Issue Escalation Playbook
 
