@@ -49,7 +49,7 @@
 
 - [MAP Security Token Service](https://vagov.ddog-gov.com/dashboard/8j2-b5n-kic/identity---map-securitytoken-service?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&view=spans&from_ts=1717163773933&to_ts=1717250173933&live=true)
 
-   Problems with the MAP Security Token Service are hard to diagnose. One symptom that stands out, is a drop in the request rate to other MAP Services along with an increase in Vets API errors. This page will show problems with the STS service.
+   Diagnosing MAP Security Token Service (STS) issues can be challenging. One symptom that stands out, is a drop in the request rate to other MAP Services along with an increase in Vets API errors. This page will show problems with the STS service.
 
 ### Appointment Calls to External MAP Endpoints:
 These pages prove useful in diagnosing Vets API to external MAP services requests.
