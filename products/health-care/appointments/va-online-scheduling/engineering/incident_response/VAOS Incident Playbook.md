@@ -8,23 +8,23 @@ The first step is identifying that an incident has occurred. Anyone submitting c
 
 ### Passive Monitoring and Alerting
 
-As a developer on the VAOS-R team please join the [#vaos-alerts](https://dsva.slack.com/channels/vaos-alerts) channel in DSVA slack if you have not already. We have setup a number of dashboard in Grafana and these dashboards trigger alerts based on SLI to help identify disruptions in application.
+As a developer on the VAOS-R team please join the [#appointments-alerts](https://dsva.slack.com/channels/vaos-alerts) channel in DSVA slack if you have not already. We have setup a number of dashboard in Datadog and these dashboards trigger alerts based on SLI to help identify disruptions in application.
 In addition, you should join the #oncall channel in DSVA slack and be prepared to notify the folks in platform operations in the event of an incident. Particularly, and most notably if you suspect this incident to pose a security or PII concern.
 
-The alerts in [#vaos-alerts](https://dsva.slack.com/channels/vaos-alerts) channel are triggered based on the following criteria and subject to change:
+The alerts in [#appointments-alerts](https://dsva.slack.com/channels/vaos-alerts) channel are triggered based on the following criteria and subject to change:
 
 1. A Circuit Breakers Outage
 2. Latency exceeding 8 seconds
 3. Request Rate or Errors exceededing a predefined % of total request rate. (this one has yet to be implemented).
 
-In addition, the Platform team monitoring the performance of the overall platform might reach out to folks on the [#vaos-eng](https://dsva.slack.com/channels/vaos-eng) channel in the event of issues they have identified as potentially dangerous and problematic.
+In addition, the Platform team monitoring the performance of the overall platform might reach out to folks on the [#appointments-fe-eng](https://dsva.slack.com/channels/vaos-eng) channel in the event of issues they have identified as potentially dangerous and problematic.
 A formal oncall schedule for the VAOS team might ultimately be implemented to help address a deficiency here if it is needed.
 
 ### Active Monitoring
 
-As a developer on the VAOS-R team we are each responsible for our contributions. This means that shortly after a production deploy we monitor Sentry closely to see if there is an issues associated with recent coding changes. This should be standard operating procedure when you have merged code that is deployed on a given day.
+As a developer on the MHV Appointments team we are each responsible for our contributions. This means that shortly after a production deploy we monitor Sentry closely to see if there is an issues associated with recent coding changes. This should be standard operating procedure when you have merged code that is deployed on a given day.
 
-In addition to monitoring Sentry, its important to be vigilant in monitoring threads and conversations happening on VA PPG Slack and to ask questions if you suspect that something being discussed might cause adverse issues to either the VAOS application or VA.gov platform.
+Its important to be vigilant in monitoring threads and conversations happening on VA PPG Slack and Office of CTO @VA, and to ask questions if you suspect that something being discussed might cause adverse issues to either the VAOS application or VA.gov platform.
 
 ### Incident Escalation
 
