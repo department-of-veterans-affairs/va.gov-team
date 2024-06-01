@@ -1,4 +1,4 @@
-Usually, the first indication that we have a problem comes from Slack's **[#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340)** channel on the **DSVA Service @VA** workspace.  The alert will look something like this: 
+Usually, the first indication that we have a problem comes from Slack's **[#appointments-alerts](https://dsva.slack.com/archives/C016QB6T340)** channel on the **Office of CTO @VA** workspace.  The alert will look something like this: 
 
 ![Alert from Slacks #vaos-alerts](images/vaos-mapsup-alert.png)
 The next step is to gather information from our logging tools. Currently, these consist of the VAOS alerts page on Datadog, [VAOS Alerts](https://vagov.ddog-gov.com/dashboard/7t4-7fw-pgj/vaos-alerts?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1717117684558&to_ts=1717204084558&live=true); vets-api server logs on Datadog, [Logs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/application-monitoring/monitoring-urls.md#appointment-calls-to-external-map-endpoints).
