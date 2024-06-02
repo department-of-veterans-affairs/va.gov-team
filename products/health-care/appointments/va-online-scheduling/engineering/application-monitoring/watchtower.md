@@ -1,6 +1,6 @@
 # Watch Officer / Watch Tower
 
-To ensure the reliability of the Department of Veterans Affairs website (va.gov), two programs were established in response to concerns raised by Congress: the Watch Officer program and the Watch Tower program. 
+To ensure the reliability of the Department of Veterans Affairs website (va.gov), two programs were established in response to concerns raised to Congress: the Watch Officer program and the Watch Tower program. 
 
 The Watch Officer, representing the CTO, reviews va.gov alerts daily and requests more information or actions from relevant teams.
 The daily process involves the watch officer reviewing alerts, checking for existing discussions (for appointments that would be in the [#appointment-alerts](https://dsva.slack.com/archives/C016QB6T340) channel, searching for open issues on GitHub, and filing new issues requesting more details from teams as needed.
