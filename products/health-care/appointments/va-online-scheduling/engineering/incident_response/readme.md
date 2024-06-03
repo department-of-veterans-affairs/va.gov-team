@@ -1,4 +1,4 @@
-# VAOS Incident Response
+# Appointments Incident Response
 
 This is still a WIP but will provide instruction on standard operating protocol for managing incidents as part of the Appointments development team.
 
