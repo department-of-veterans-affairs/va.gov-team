@@ -54,7 +54,7 @@ In addition to adding TE sections to the digital form, this release also include
 5. Transformation of the vets-website JSON data structure to be compatible with Lighthouse
 6. Implementation of a Flipper feature flag that controls access to the TE feature
 7. Handling of multiple exposures data to populate on the PDF in 15e
-10. Implementation of updated logic for the new Lighthouse /submit endpoint
+8. Implementation of updated logic for the new Lighthouse /submit endpoint
 
 
 ## Risks & Challenges
@@ -91,7 +91,8 @@ There are two use cases that we are considering for this release. For each, we p
 
 | Phase | Description | Flipper Status - Percentage | Visible Form | Notes |
 |---|---|---|---|---|
-|4 | Submit |Off - 0% | 2022 |
+|4 | Submit |Off - 0% | 2022 | When adding canary users for testing, we need to add their `user_account` id or their `user_uuid` to the flipper feature page. This is because the backend does not have access to their email address when determining if the feature is on for them or not
+we need to check if the frontend can use this as well, or if we need to also add their email address|
 |5 | GetPDF | N/A | 2022 | GenPDF pre-launch and Canarying are a dependency for Submit, however both will share a rollout
 |6 | New TE Applications |On | 2022 | Per ToT 5/16: This will be combined with Submit; ToT: 5/23 this will be based on the presence of an IPF |
 |7 | Veterans with an IPF |Off | 2022 |
