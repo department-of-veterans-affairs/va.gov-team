@@ -26,6 +26,8 @@ As a developer on the MHV Appointments team we are each responsible for our cont
 
 It's important to be vigilant in monitoring threads and conversations happening on VA PPG Slack and Office of CTO @VA, and to ask questions if you suspect that something being discussed might cause adverse issues to either the VAOS application or VA.gov platform.
 
+If you discover a severe issue with a MAP service that is not being addressed, send a notification (@here) to the VA PPG Slack [#formerly-vaos-engineering](https://vappgteam.slack.com/archives/C023EFZPX4K) channel. This will alert the team, and someone will begin investigating the problem. Additionally, you may need to create a MAPSUP (MAP Support) ticket to document and track the identified issue.
+
 ### Incident Escalation
 
 If you cannot address an issue yourself either because 
