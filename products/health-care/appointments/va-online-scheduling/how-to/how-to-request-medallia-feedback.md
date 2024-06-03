@@ -71,12 +71,12 @@ All in one file, on one tab
 | Week 14 Mar 31-Apr 06 | Melissa Lefevre  | [80264](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80264) | Done        |
 | Week 15 Apr 07-Apr 13 | Melissa Lefevre | [80814](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80814) | Done   |
 | Week 16 Apr 14-Apr 20 | Melissa Lefevre | [81233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81233) |  Done  |
-| Week 17 Apr 21-Apr 27 | Peter Russo  |[83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |In progress  |
-| Week 18 Apr 28-May 04 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |In progress  |
-| Week 19 May 05-May 11 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [83233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83233)) |In progress |
-| Week 20 May 12-May 18 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) | In progress |
-| Week 21 May 19-May 25 | Peter Russo | []() |  |
-| Week 22 May 26-Jun 01 | Peter Russo | []() |  |
+| Week 17 Apr 21-Apr 27 | Peter Russo  |[83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |Done  |
+| Week 18 Apr 28-May 04 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [82424](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82424)) |Done  |
+| Week 19 May 05-May 11 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [83233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83233)) |Done |
+| Week 20 May 12-May 18 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) | Done |
+| Week 21 May 19-May 25 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428) | In Progress |
+| Week 22 May 26-Jun 01 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428)  | In Progress |
 | Week 23 Jun 02-Jun 08 | Peter Russo | []() |  |
 | Week 24 Jun 09-Jun 15 |  | []() |  |
 | Week 25 Jun 16-Jun 22 |  | []() |  |
