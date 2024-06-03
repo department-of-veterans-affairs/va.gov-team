@@ -39,17 +39,13 @@ The CHAMPVA claim form will live under 'healthcare and disability', NOT under CH
 ## <a name="nav"></a>Entry points <br>
 On 5/29 we confirmed with Mikki and Danielle that we WILL NOT be adding this form to the left nav for the launch. This is because the strategy for the family member hub left nav is to only include pages related to getting benefits. The ultimate destination for the claim form is within a cohesive authenticated experience (ex: think about the portal you use for health insurance -- filing an out-of-network claim is in that portal, not the general unauth website for the insurer). However, if we determine from 1) analytics or 2) feedback from users or the call center that users are unable to find the claim form, we can reconsider left nav placement.
     
-1.**Add to CHAMPVA static drupal page**
-  - Placement description: TBD by content
-  - Link label: [TBD based on H1]
-  - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/
 
-2.**Add to 'Do I need to file a claim' R+S page**
+1.**Add to 'Do I need to file a claim / how to file a claim' R+S page**
   - Placement description: TBD by content
   - Link label: [TBD based on H1]
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
 
-3. **MODIFY Find-a-Form page**
+2. **MODIFY Find-a-Form page**
   - Placement description: we’ll need to add a link to the new online form from this page.
   - Link label: TBD by content
   - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/
