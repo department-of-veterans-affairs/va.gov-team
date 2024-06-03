@@ -94,7 +94,7 @@ This study will give us insight into
 
 ## Methodology
 
-This research will be conducted as a moderated study using Zoom. After some initial questions, we will have participants go through a prototype (prototype 1) for the scheduling flow. The moderator will then show the participant another set of screens (prototype 2) and ask questions about them.
+This research will be conducted as a moderated study using Zoom. After some initial questions, we will have participants go through a prototype for the scheduling flow. The moderator will then have the participant review an initial concept for housing referrals in the pending section in Appointments.
 
 ### Location
 The study will be conducted online via Zoom. 
