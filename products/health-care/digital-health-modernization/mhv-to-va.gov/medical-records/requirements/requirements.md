@@ -314,47 +314,6 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 
 * [Phase 0 launch Figma file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Subject matter expert review details](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Primary%20care/Primary%20Care%20Information%20on%20VA.gov.docx?d=w36e12bce2ee347eead9d9bd109f32a5d&csf=1&web=1&e=F548Gc&nav=eyJoIjoiODE5OTM2Njc4In0)
-
-
-### Vitals
-
-<details>
-<summary>List view requirements</summary>
- 
----
-#### IA
-URL: `/my-health/medical-records/vitals`  
-Breadcrumb: No  
-Back button: Yes, `< Back to medical records`
-#### Content
-
-#### Functionality
----
-</details>
-
-<details>
-<summary>Details view requirements</summary>
- 
----
-#### IA
-
-#### Content
-
-#### Functionality
----
-</details>
-
-<details>
-<summary>Design decisions</summary>
-</br>
-  
-| Decision | Reasoning |
-|-----------------------------------------------------------------------------------------------|-----------------|
-|We will only show the following vitals: blood pressure, heart rate, breathing rate, blood oxygen level (pulse oximetry), temperature, weight, and height, weight. | Reason why|
-|We will not the following vitals: show pain, BMI| Reason why|
-|The following fields will not be shown to users:  | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
-|The following fields will not be shown to users at first, but may be if verified: | SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
-
 ### Care summaries and notes
 Launched to Phase 0 on 2/26/24
 
@@ -635,6 +594,46 @@ Back button: Yes, `< Back to lab and test results`
 * [Subject matter expert review - Lab results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Lab%20results/Lab%20results%20information%20on%20VA.gov.docx?d=wfedc587c450b4d79afeda296ac1cc29a&csf=1&web=1&e=PwDTCE)
 * [Subject matter expert review - Imaging results](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/SME%20Reviews/Imaging%20results/Imaging%20results%20information%20on%20VA.gov.docx?d=w0887da3bbedb4994b48d7f90c9d93461&csf=1&web=1&e=e2JHoM)
 
+### Vitals
+
+<details>
+<summary>List view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/vitals`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+#### Content
+
+#### Functionality
+---
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+ 
+---
+#### IA
+
+#### Content
+
+#### Functionality
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|We will only show the following vitals: blood pressure, heart rate, breathing rate, blood oxygen level (pulse oximetry), temperature, weight, and height, weight. | Reason why|
+|We will not the following vitals: show pain, BMI| Reason why|
+|The following fields will not be shown to users:  | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
+|The following fields will not be shown to users at first, but may be if verified: | SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
+
+</br>
 ### Download all medical records (Blue Button Reports)
 <details>
 <summary>Requirements</summary>
@@ -723,8 +722,50 @@ Shipped product should reflect [Phase 0 content document](https://dvagov.sharepo
 * [Phase 0 launch design file](https://www.figma.com/file/mGZRdLypKGaFsHo5xp2kaZ/Medical-Records?type=design&node-id=65-17315&mode=design&t=jZJVIL5EphhcLSCf-0)
 * [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medical%20Records/Content%20documents/MR%20sharing%20settings%20content%20(VHIE).docx?d=wac25c016d3b24e649e0c607ff8cc33f9&csf=1&web=1&e=nfXSFv)
 
+### Vitals
 
+<details>
+<summary>List view requirements</summary>
+ 
+---
+#### IA
+URL: `/my-health/medical-records/vitals`  
+Breadcrumb: No  
+Back button: Yes, `< Back to medical records`
+#### Content
+
+#### Functionality
+---
+</details>
+
+<details>
+<summary>Details view requirements</summary>
+ 
+---
+#### IA
+
+#### Content
+
+#### Functionality
+---
+</details>
+
+<details>
+<summary>Design decisions</summary>
+</br>
+  
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------|
+|We will only show the following vitals: blood pressure, heart rate, breathing rate, blood oxygen level (pulse oximetry), temperature, weight, and height, weight. | Reason why|
+|We will not the following vitals: show pain, BMI| Reason why|
+|The following fields will not be shown to users:  | SMEs gave input that these fields are not necessary to show to patients and may not be reliable.|
+|The following fields will not be shown to users at first, but may be if verified: | SMEs gave input that this field may be helpful, but since it is not shown in MHV today, needs to be verified.|
+
+</br>
 ## Phase 1
 
 ## Phase 2
+
+
+
 
