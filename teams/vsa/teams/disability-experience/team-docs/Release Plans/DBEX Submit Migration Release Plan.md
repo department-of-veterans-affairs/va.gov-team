@@ -44,7 +44,11 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
 - As of 5/20, the LH implementation of Submit is not yet complete, anticipated to be complete end of June
 - Potential Risks:
   - If LH breaks or our implementation is wrong, the user might not be able to submit because the translate action happens on the controller side. We would see it right away because we'd see user feedback right away because they wouldn't be able to submit. This is going to be part 2 of our dashboard (the #submit_all_claim dashboard would see that it's failed, and we could look to see if it's the direct_deposit call that's failing.) We'd see it right away because it's part of the foreground controller level rather than in a background job or prefill, etc. Mitigation would depend on the issue. Our only mitigation is our dashboards to see if a controller-level submission is failing. The code doesn't have any exception handling. 
-  - In the in-progress part, the prefill wouldn't be prefilled and we wouldn't know there's an error because it gets swallowed before that point. We could see this on our dashboard (we're tracking this one.) Users might not know something has failed. We'd have to look at our dashboard to see if there was a failure and what caused it. Data is our only mitigation right now. 
+  - In the in-progress part, the prefill wouldn't be prefilled and we wouldn't know there's an error because it gets swallowed before that point. We could see this on our dashboard (we're tracking this one.) Users might not know something has failed. We'd have to look at our dashboard to see if there was a failure and what caused it. Data is our only mitigation right now.
+
+- **When adding canary users for testing, we need to add their `user_account` id or their `user_uuid` to the flipper feature page**
+    - This is because the backend does not have access to their email address when determining if the feature is on for them or not
+we need to check if the frontend can use this as well, or if we need to also add their email address
 
 <br>
 
