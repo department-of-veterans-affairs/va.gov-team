@@ -2,7 +2,9 @@
 
 This is still a WIP but will provide instruction on standard operating protocol for managing incidents as part of the Appointments development team.
 
-[VAOS Specific Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md)
+[Appointments Specific Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md)
+
+[Watch Tower Program](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/application-monitoring/watchtower.md)
 
 [MAPSUP Ticket Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/mapsup-ticket-creation.md)
 
