@@ -35,7 +35,7 @@ The need to audit and potentially update sign-in related errors comes from a few
 
 - Logging in to VA.gov is one of the most poorly rated experiences on the website. Part of this is due to when things go wrong. Issues can be confusing or frustrating to resolve, and this can keep people from managing their benefits online.
 - Current error messaging may not provide the right or helpful info, as [found in a recent review completed by the Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20discovery%20research.md#1-error-messaging). Additionally, errors are split between VA.gov and AccessVA, which provide very different experiences and messaging.
-- We have heard from our CSP partners that they've seen drastic increases in calls that need to be routed back to VA. We've determined the root of this is from select AccessVA pages that send people through the HRC call center IVR.
+- We have heard from our Credential Service Providers (CSPs) that they've seen drastic increases in calls that need to be routed back to VA. We've determined the root of this is from select AccessVA pages that send people through the HRC call center IVR.
 
 As a result, we need to do the following:
 
