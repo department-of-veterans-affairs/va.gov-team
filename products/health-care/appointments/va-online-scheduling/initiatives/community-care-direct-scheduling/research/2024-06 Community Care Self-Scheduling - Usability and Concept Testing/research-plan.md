@@ -100,13 +100,10 @@ This research will be conducted as a moderated study using Zoom. After some init
 The study will be conducted online via Zoom. 
 
 ### Research materials
-- Prototype 1 (CC Self-Scheduling Usability Testing)
+- Prototype (CC Self-Scheduling Usability Testing)
   - Figma
   - CodePen
-- Prototype 2 (Referral Concept Testing)
-  - Figma
-  - CodePen
-- Conversation guide
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/conversation-guide.md)
 - Recruitment ticket
 
 --------
