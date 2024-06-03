@@ -8,6 +8,9 @@ Self-scheduling appointments
 - Allows Veterans seeking for primary care, specialty care, and mental health care under the Veteran’s Community Care Program to self-schedule, modify, and cancel appointments directly online
 - Allows VA to expand capabilities of an existing appointment self-scheduling technology or purchase a new appointment self-scheduling technology
 
+The pilot program MVP will allow Veterans at specified pilot sites in the Greater Los Angeles area to self-schedule physical therpay appointments on Appointments on va.gov once their referral is approved.
+
+
 ### OCTO Priorities
 The Community Care Self-Scheduling feature aligns with the following OCTO-DE Priorities:
 - Objective 1: Our digital experiences are the best way to access VA health care and benefits.
