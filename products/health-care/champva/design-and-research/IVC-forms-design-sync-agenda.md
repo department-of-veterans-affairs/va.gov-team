@@ -2,32 +2,63 @@
 
 ## June 3, 2024
 ### Notes
-- Attendees:
+- Attendees: Lois Lewis, Premal Shah, Rachael Penfil, Jamie Fiore, Syd Hoeper, Steven Straily, Brian Wilke, Devi Hill, Mary Wang, Bo Altes
 - Facilitator: Rachael
 - Next meeting facilitator:
 - Agenda topics [(per Slack thread)](https://dsva.slack.com/archives/C068Q9DQACX/p1717182000690129):
     - Checkin on new change log documentation - does this achieve our goals?
-        - [Option 1](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification-(10-7959c)-Form?node-id=1592-103113&t=LQZjT7l6KqvkdkeO-0): Jamie on OHI form
-        - [Option 2](https://www.figma.com/design/PzB1F5TYuBK5KQgPbuhAwH/FMP-Registration-10-7959f-1?node-id=1588-113894): Brian on FMP Registration form 
+        - [Option 1](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/CHAMPVA-Application-(10-10d)-User-Testing-Prep?node-id=1962-75558&t=D59tNENErZgGJQgW-4): Jamie on CHAMPVA Application form
+            - Lois: Might be harder for other folks who pick it up, but want to do whatever works for the team. Likes that it's a different screen. MHV also includes what stakeholder told us to do specific things.
+        - [Option 2](https://www.figma.com/design/PzB1F5TYuBK5KQgPbuhAwH/FMP-Registration-10-7959f-1?node-id=1588-113894): Brian on FMP Registration form
+            - Lois: Likes the rationale, but it wondering about scalability. Brian is not worried about it though, since it's form by form. GH template has "who is the decider" - may be good to regcord this.
+        -   Lois wants to see: decision made, rationale, who decided.
+        -   Likes the idea of a page in Figma, wants to align with the Healthcare experience team.  
     - [OHI (7959c)](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification-(10-7959c)-Form?node-id=1592-103113&t=LQZjT7l6KqvkdkeO-0) - can we add an "additional comments" or "additional uploads"? Per CAIA conversation on 5/30, seems like we might be able to.
+        - There are a lot of edge cases we can't account for. We think an "additional comments" or "additional documents" section might cover it, and might be okay for PRA because there's no reason people can always include a note in the envelope now.
+        - Another way around this is letting people upload more than one thing on the health insurance card page - "do you want to upload any additional supporting documents?"
+        - The paper form already has one comment box, but we are proposing adding a second one.
+        - Lois: how much do we really need to know? Do we basically only need to know that they have Medicare?
+        - Steven: They need to know more than if they have it - they need to know about other benefits to process a claim. There are lots of edge cases, and it was giving us the potential of ballooning the form. A second text bots lets us capture edge cases without growing the form.
+        - Lois: Techincal question - this doesn't exist on the form, so where would this go on the backend? Would need to talk to engineers.
+        - Premal: We need to have more info on what happens behind the scenes. We need to know how they use this information and how it would get entered into the backend. We want to make sure they'll actually use it. I don't want to change a form, but may not count as additional information for PRA. We have a lot of product questions we can't solve yet.
+        - Steven: probably not a lot of burden, and may cut time for the Veteran.
+        - Premal: we need to understand this better. Maybe we need to more stakeholder research. 
+        - Lois: Less is more.
+        - Jamie: We are still planning on running through this with the OHI team. Need to understand if we need more information on Medicare.
+        - Lois: Maybe revist 10-10EZ OHI questions.
     - Review outstanding questions for CHAMPVA claims (7959a) and forums for sharing
-        - Per Syd, outstanding question: What documents do you require from the beneficiary if it’s an auto accident? (specific name of form(s), and specific requirements)
+        - Per Syd, outstanding question:
+            - What documents do you require from the beneficiary if it’s an auto accident? (specific name of form(s), and specific requirements)
             - Would they typically have that info at the same time as the itemized billing statement, or does beneficiary acquire it later in the process? (Wondering about order of operations and beneficiary's ability to acquire documentation in time to submit with the rest of their claim)
             - Can you give us a high level overview of how you deal with auto accident claims?
-        - With this in mind, should we start reaching out to stakeholders to schedule interviews (hopefully beginning next week)?
-            - Lois: I'd like to discuss method/approach for the sessions and the analysis to ensure we're aligned on the goals and the outputs. It feels like if we know that it will be easier to explain to stakeholders what we are trying to do.
+        - We need to understand what they need to know to answer the questions above. Bringing above questions to stakeholders.
+        - With this in mind, should we start reaching out to stakeholders to schedule interviews (hopefully beginning next week)? Lois recommends grounding them in the paper and digital form.
+        - Syd: There is discrepancy between what's on the form and how they use information. We need to make sure that the intent isn't lost and there are no gaps.
+        - Lois: Unless you can highlight that to stakeholders, they might not understand that. And we may have way more to look at after midpoint. Otherwise, stakeholders might get lost.
+        - Premal: if we have big business questions, should we delay midpoint?
+        - Lois: I'd like to discuss method/approach for the sessions and the analysis to ensure we're aligned on the goals and the outputs. It feels like if we know that it will be easier to explain to stakeholders what we are trying to do.
+            - Delayed discussion until Thursday meeting. Will come to Thursday meeting with research plan and conversation guide, which will affect who and how we schedule. Lois is thinking something more workshoppy.
         - Syd, do you have their names/roles?
             - Angela Dixson
             - Erick Maes
             - Kristine Becka
             - Keoni Escobido
+        - Lois: maybe we should be showing them the digital form.
    - [CHAMPVA Claims (7959a)](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims-(10-7959a)?node-id=615-173818&t=ToQ9xTOHKMwbXCXw-11) working time
+       - Syd went over the outstanding questions that they had answered.
+       - Will triple check there are no fields on the form tha don't exist on the PDF.
+       - Need to hash out how many OHIs people can input
+       - Let's not get too worried for now about "relationship to beneficiary"
+       - Let's be careful about POA.
 
 ### Decisions and action items
-- Placeholder
+- Get with Health Experience team to create unified design decision documentation.
+- Will bring stakeholder interview research plan and conversation guide to Thursday research sync.
+- Need to clarify business need for Medicare information on OHI form (10-7959c). We can figure out design and technical solution from  there.
+- Jamie will post changes to Medicare section so Lois and Premal can review async. Jamie will provide context on what needs reviewed.
+- Lois doesn't love the upload pattern,let's bring it up either at Midpoint or design office hours
 
 ## May 20, 2024: Notes
-
 
 * Facilitator: Devi 
 * Next meeting facilitator: Rachael
