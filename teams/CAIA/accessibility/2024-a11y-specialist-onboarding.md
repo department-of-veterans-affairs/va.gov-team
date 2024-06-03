@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated May 31, 2024`
+`Last updated June 3, 2024`
 
 
 > [!TIP]
@@ -117,7 +117,6 @@ We do research with people with disabilities, annotate our designs, use and deve
 
 By doing this, we hope to create products that do more than conform to WCAG 2.2 success criteria - instead, making products with a solid user experience for _all_ users.
 
-
 > [!TIP]
 > ## Read this first
 > - Before going any further, read about how we do [Accessibility on VA.gov](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-on-va-gov) and how to follow accessibility standards, while using the [VA Design System](https://design.va.gov/about/accessibility/).
@@ -186,9 +185,6 @@ Meeting Name | About | Frequency | Joining
 **VA A11y Specialist Office Hours** |`Optional` a11y specialist only calls for us to support one another | Fridays at 11:00 a.m. ET. | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
 **VA.gov 508 Monthly** |Opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans | 3rd Wednesday at 4:00 ET | [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP) 
 **CAIA Office Hours** |The CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!| Tuesdays at 4 p.m. ET | [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
-
--  - 
-   -  
 
 </details>
 
