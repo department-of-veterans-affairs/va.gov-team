@@ -3,18 +3,44 @@
 ## Brief Description
 How might we enhance a Veteran's experience when they're searching for and viewing events, allowing them to easily find events pertinent to their needs with plenty of lead-time to attend either online or in-person.
 
+How might we ensure that content build times do not exceed 60 minutes when more events are being published?
+
+## The Problem to be Solved
+
+* Problem Defined:
+  * How might we enable editors the ability to publish all VA events in order to make them available to Veterans in Outreach & Events?
+  * How do we quickly get more editors to publish events without negatively affecting the FE build time? Content build times shouldn't exceed 60 minutes.
+
+* Evidence to support the Problem: 
+
+
+
+* How does this initiative help further OCTO-DE's mission and goals?
+     * VA North Star: Increase the quality, quantity, and reliability of events published in VA.gov 
+
 ## Outcome Summary
   
 For this initiative, we will implement in multiple phases, with MVP being the first, and then a fast-follow of a combo of backend and Veteran- & Editor-facing design work.
 
 #### MVP:
-- Engineering/Backend: The first iteration will focus on backend functionality, rebuilting events from static HTML into a dynamic React app.
-
+- Engineering/Backend: The first iteration will focus on backend functionality:
+  - Rebuild events from static HTML into a dynamic React app driven by an API, thus allowing more events to be published without negatively affecting content publish time.
+  - Ability to capture/store lat/long of event location.
+    
 #### Fast-follow:
 (in order of priority)
 - Design Drupal CMS editorial flows and run usability testing with editors
-- Provide Veterans the ability to find events near them (one of the long-time top-requested features).
-- Provide Editors the ability to confirm lat/long are correct for locations.
+  - Consider:
+    - if an event has more than one location, including one being physical and one being virtual
+    - if an event spans across multiple days
+    - if an event is a month-long event
+- Provide Veterans the ability to find/search for events near them (one of the long-time top-requested features).
+- Provide Editors the ability to validate lat/long are correct for locations.
+- What do events look like for each of the products?
+
+#### Questions:
+- Is there already a MapBox plugin available?
+- Do we need to build a MapBox forward lookup for Drupal capability?
 
 ### EPICS: 
 - [[SUPER EPIC] Events v3](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17871)
@@ -24,21 +50,7 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 ### Artifacts
 - List of already existing [Events tickets in Sharepoint/Excel](https://dvagov.sharepoint.com/:x:/r/sites/SitewidePublicWebsites/_layouts/15/Doc.aspx?sourcedoc=%7B1d81bc4d-d972-4e1b-aa55-1523d419e9fd%7D&action=edit&wdenableroaming=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1717177303908&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=4fbb0378-03c7-ac19-5f26-30f8c7b84877&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel)
 - [Previous work](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9617) was done by Public Websites in 2022 to design Drupal CMS editorial flows
-- 
-
-
-
-## The Problem to be Solved
-
-* Problem Defined: How might we make the 
-
-* Evidence to support the Problem: 
-
-
-
-* How does this initiative help further OCTO-DE's mission and goals?
-     * VA North Star: Increase the quality, quantity, and reliability of events published in VA.gov 
-    
+   
    
 #### User stories
 
@@ -57,7 +69,7 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
     
 <!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
+- Build times do not exceed 60 minutes.
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Undesired User Outcomes
