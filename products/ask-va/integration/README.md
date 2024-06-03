@@ -43,7 +43,7 @@
 Status | [GET /ping](crm_api/Status_Ping.md) | Dynamics | 🟩 | 🟩 | 🟩 | N/A | N/A |  | 
 Form | [GET /topics?{id}](crm_api/Form_GetTopics.md) | Dynamics | 🟩 | 🟩 | 🟩 | 🟩 | ⬜ |  | 
 Form | [GET /optionset?{name}](crm_api/Form_GetOptionSet.md) | Dynamics | 🟩 | 🟩 | 🟩 | 🟩 | ⬜ | | 
-**&raquo;Form** | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | 🟩 | 🟩 | 🟡 | ⬜ | Needed after all; Adding back in 6/3 | 
+Form | [GET /profile](crm_api/AVA_Profile.md) from AVA | Dynamics | 🟩 | 🟩 | 🟩 | 🟡 | ⬜ | Needed after all; Adding back in 6/3 | 
 Form | [GET /announcements](crm_api/Form_RetrieveAnnouncements.md) | Dynamics | 🟩 | 🟩 | 🟩 | 🟡 | ⬜ | | 
 Dashboard | [GET /inquiries](crm_api/Dashboard_RetrieveInquiries.md) | Dynamics | 🟩 | 🟩 | 🟩 | 🟡 | ⬜ | CRM handed off this endpoint on 02/27 | 
 Form | [PUT /inquiry/new](crm_api/Form_SubmitInquiry.md)  | Dynamics | 🟩 | 🟩 | 🟩 | 🟡 | ⬜ | integration into UI is in backlog |  
