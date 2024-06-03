@@ -1,5 +1,12 @@
 # BTSSS on VA.gov Sprint Goals 
 
+## 6/3/2024 - 6/14/2024
+### Goals
+* Engineering: Complete filtering and prepare for staging review 
+* Engineering: Feedback-based updates to status page MVP (Adding pagination and moving help section) 
+* UX: Building research plan for status language
+* UX: Ensuring filter designs are approved
+
 ## 5/20/2024 - 5/31/2024
 ### Goals
 * Engineering: Finalize status page so that it is launch-ready 
