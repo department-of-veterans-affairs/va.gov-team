@@ -1,5 +1,30 @@
 # Running Design and Research Agenda
 
+## June 3, 2024
+### Notes
+- Attendees:
+- Facilitator: Rachael
+- Next meeting facilitator:
+- Agenda topics [(per Slack thread)](https://dsva.slack.com/archives/C068Q9DQACX/p1717182000690129):
+    - Checkin on new change log documentation - does this achieve our goals?
+        - [Option 1](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification-(10-7959c)-Form?node-id=1592-103113&t=LQZjT7l6KqvkdkeO-0): Jamie on OHI form
+        - [Option 2](https://www.figma.com/design/PzB1F5TYuBK5KQgPbuhAwH/FMP-Registration-10-7959f-1?node-id=1588-113894): Brian on FMP Registration form 
+    - [OHI (7959c)](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification-(10-7959c)-Form?node-id=1592-103113&t=LQZjT7l6KqvkdkeO-0) - can we add an "additional comments" or "additional uploads"? Per CAIA conversation on 5/30, seems like we might be able to.
+    - Review outstanding questions for CHAMPVA claims (7959a) and forums for sharing
+        - Per Syd, outstanding question: What documents do you require from the beneficiary if it’s an auto accident? (specific name of form(s), and specific requirements)
+            - Would they typically have that info at the same time as the itemized billing statement, or does beneficiary acquire it later in the process? (Wondering about order of operations and beneficiary's ability to acquire documentation in time to submit with the rest of their claim)
+            - Can you give us a high level overview of how you deal with auto accident claims?
+        - With this in mind, should we start reaching out to stakeholders to schedule interviews (hopefully beginning next week)?
+            - Lois: I'd like to discuss method/approach for the sessions and the analysis to ensure we're aligned on the goals and the outputs. It feels like if we know that it will be easier to explain to stakeholders what we are trying to do.
+        - Syd, do you have their names/roles?
+            - Angela Dixson
+            - Erick Maes
+            - Kristine Becka
+            - Keoni Escobido
+   - [CHAMPVA Claims (7959a)](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims-(10-7959a)?node-id=615-173818&t=ToQ9xTOHKMwbXCXw-11) working time
+
+### Decisions and action items
+- Placeholder
 
 ## May 20, 2024: Notes
 
