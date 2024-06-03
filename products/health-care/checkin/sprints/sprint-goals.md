@@ -2,6 +2,49 @@
 # CIE SPRINT GOALS (aka SPRINKLES) 
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
+<details>
+<summary>SPRINT 9 - 6/12/2024-6/25/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 9 - 6/12/2024-6/25/2024
+
+#### SPRINT GOALS
+- **GOAL: Support Production**
+- **GOAL: Support Congressional Mandate**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+- **GOAL: Increase PCI Usability**
+- **GOAL: Address Tech Debt**
+  
+#### PLANNED RELEASES
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - **Sub Goal: Production Support**
+        - ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
+        - ❗🟦 [Implement Solution to Handle BTSSS API Timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83026)
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
+        - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910) 
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
+        - 🟩 Brian to create tickets after SPIKE
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
+        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟩 Brian to create tickets for "new" MVP
+        - 🟦 [[BE] Appointments Controller: merge clinics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
+        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
+    - **Sub Goal: CIE Analytics**
+        - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
+        - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
+- **GOAL: Address Tech Debt**    
+    - **Sub Goal: CIE Tech & Design Debt & Bugs**
+        - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
+        - 🟩 [[FE] - Removed old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
+</details>
+
 ______________________________________________________________________________________________________________________________________________________
 
 ## SPRINT 8 - 5/29/2024 - 6/11/2024 CURRENT SPRINT
@@ -38,7 +81,7 @@ ________________________________________________________________________________
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
         - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
         - 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
-        - 🟩 [Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
+        - 🟩 [SPIKE: Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
         - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
         - ✔️ 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
