@@ -1,5 +1,7 @@
 # Conversation guide
 
+_[DRAFT]_
+
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
@@ -192,10 +194,17 @@ _**Participant is on referral page:**_
 - Ok, go ahead and continue.
 
 ---
-_**Participant is on provider page:**_
+_**Participant is on provider page:**_ (NEEDS WORK)
 - Is there anything confusing about this page and the information included here?
 
 - If the provider you were looking for did not have the option to schedule online, would you expect to find information on that provider here? What information would you expect?
+- If there are providers near you that you can't schedule with directly online here, what information, if any, would you be interested in having here?
+- Would you also be interesting in seeing information from providers that 
+  
+- How would you prefer to search for a provider?
+
+- What would you want to sort based on?
+- And what else would you want to use to search?
 
 - Walk me through what you would do if you wanted to find a female provider available on July 11, 2024?
   - _If needed:_
@@ -212,18 +221,24 @@ _**Participant is on filter page:**_
 - Is there anything missing you’d expect to find on this page?
 
 ---
+_**Participant is on 2nd provider page:**_
+- Tell me about this page now and how it has changed.
+  
+- What's your understanding of what happened to the list after you selected those choices?
+
+- And how does this match up to what you expected to find on this page?
+
+
+---
+
+---
 _**Participant is on choose time and date page:**_
 - Is there anything confusing about this page and the information included here?
 
 - Walk me through how you would continue from here.
 
 ---
-_**Participant is on 2nd provider page:**_
-- Tell me about this page now and how it has changed. 
 
-- And how does this match up to what you expected to find on this page?
-
----
 _**Participant is on review/confirm choices page:**_
 - I’ll stop you here for a second. Can you tell me about this page?
 
