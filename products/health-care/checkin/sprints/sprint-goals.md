@@ -28,7 +28,7 @@ ________________________________________________________________________________
         - 🟥 [Research] Analyze GA Metrics
         - 🟥 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/83490)
         - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
-        -     - **Sub Goal: Discovery - Multiple Selection of Appts**
+    - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
 
 </details>
@@ -107,7 +107,6 @@ ________________________________________________________________________________
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
         - 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
-
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
         - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
@@ -115,9 +114,8 @@ ________________________________________________________________________________
         - 🟩 [Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
         - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
-        - 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
+        - ✔️ 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
         - 🟩 [Update eCheck-in Application for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
-
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - ~**NOTE: We need to schedule staging review**~
@@ -126,11 +124,11 @@ ________________________________________________________________________________
                   - Met with Kristen and then met with CIE team; design is making a quick change, then FE will make a few tickets to implement those changes to mitigate concerns around, 1) losing unintended functionality due to incremental release approach 
         - 🟩 [[FE] Add privacy act statement modal to appointments page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83281)
         - 🟩 [[FE] - Canceled appointments in upcoming list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83225)
-        - 🟩 ✔️ [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
-        - 🟩 ✔️ [[FE] Alert content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83781)
-        - 🟩 ✔️ [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
-        - 🟩 ✔️ [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
-        - 🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
+        - ✔️🟩 [[FE] Accordion heading content change ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83769)
+        - ✔️🟩 [[FE] Alert content updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83781)
+        - ✔️🟩 [[FE] - Remove chevrons from mixed modality message](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83224)
+        - ✔️🟩 [[FE] pre-check-in - Remove your appointment is on [timestamp] on confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83222)
+        - ✔️🟩 [[FE] Pilot rollout for new landing page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81831)
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟪 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
