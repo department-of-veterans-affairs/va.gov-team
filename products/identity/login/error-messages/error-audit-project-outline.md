@@ -1,4 +1,4 @@
-# Project outline: Sign-in errors -- audit and updates
+# Project outline: Sign-in errors | Audit and updates
 
 **Last updated: June 3, 2024**
 
