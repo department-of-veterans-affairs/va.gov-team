@@ -33,8 +33,7 @@ In Sprint 10, the team provided support for multiple features and initiatives, o
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
   * [#83585 Update VetsAPI appointment_controller logging to reference VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83585)
-  * [#82548 CES-457 CES: Use mobile-mvi-service cache-control headers to retrieve cached patient identifiers](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82548)
-  * [#81432 CES-318 CES: Migrate to mobile framework V2](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81432) 
+   * [#81432 CES-318 CES: Migrate to mobile framework V2](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81432) 
 *  🟦 Support Oracle Health slot search
    * [#83515 CES-501 VPG: Optimized facility and clinic retrieval when mappling slots](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83515)  
 * 🔴 Appointment Cancellation
