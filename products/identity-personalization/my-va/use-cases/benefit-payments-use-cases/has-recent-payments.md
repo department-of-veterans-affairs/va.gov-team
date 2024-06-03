@@ -1,5 +1,5 @@
 # My VA Benefit Payments Use Case: User received a payment from VA in the last 60 days
-**Last updated: December 14, 2022**
+**Last updated: June 3, 2024 - added Figma links**
 
 For LOA3 users who sign in and have received a payment from VA in the last 60 days via direct deposit or paper check, we will show a card for their most recent payment in the Benefit Payments section on My VA.
 
@@ -10,10 +10,10 @@ For LOA3 users who sign in and have received a payment from VA in the last 60 da
 * When a user has a benefit payment card to show regardless of wheher they have direct deposit set up, they will also see a link to "Manage your direct deposit information" which links to the [direct deposit page](https://www.va.gov/profile/direct-deposit) of their profile.
 * This card is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Benefit payments header on mobile.
 * Uses the [card component](https://design.va.gov/components/card) from the VA design system.
-* [Desktop mockup of direct deposit payment](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/222D00A6-3BFD-4D99-9FCB-A9CE2766E78A)
-* [Mobile mockup of direct deposit payment](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1CA9530C-0A0F-4CF6-9597-D76F83143B45)
-* [Desktop mockup of mailed paper check payment](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/1FEFF140-7526-42A2-9D64-959E152ED415)
-* [Mobile mockup of mailed paper check payment](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/38CB47EF-6A94-44CD-B0F8-F6FE999C933D)
+* [Desktop mockup of direct deposit payment](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-115&t=HXtlyGq8cjvXaMOC-1)
+* [Mobile mockup of direct deposit payment](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-646&t=HXtlyGq8cjvXaMOC-1)
+* [Desktop mockup of mailed paper check payment](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-102&t=HXtlyGq8cjvXaMOC-1)
+* [Mobile mockup of mailed paper check payment](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-719&t=HXtlyGq8cjvXaMOC-1)
 
 ## How to reproduce
 * Find a staging user who has recent direct deposit or paper check payments in the [benefit payments staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-benefit-payments-section).
