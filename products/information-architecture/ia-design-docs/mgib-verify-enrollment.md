@@ -98,7 +98,7 @@ From Ryan in Figma:
 Current URL | Redirect to | Notes
 --- | --- | ---
 https://www.gibill.va.gov/wave/index.do | www.va.gov/education/verify-school-enrollment/mgib-enrollments/ | Work with stakeholders and WAVE team so the WAVE redirects to the new tool.
-https://www.va.gov/resources/gi-bill-wave-faqs/ | www.va.gov/education/verify-school-enrollment/mgib-enrollments/ | IA can create a redirect ticket for this
+https://www.va.gov/resources/gi-bill-wave-faqs/ | www.va.gov/education/verify-school-enrollment/ - redirecting to static page as per feedback from Beth and Randi | IA can create a redirect ticket for this
 
 
 
