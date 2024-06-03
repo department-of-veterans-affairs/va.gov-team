@@ -27,4 +27,4 @@ Learn more about the [history of Ask VA](https://github.com/department-of-vetera
 |Engineer|Hemesh Patel|hemesh.patel@docme360.com|
 |Engineer|Jacob Cheriathundam|jacob@docme360.com|
 |UX Designer|Thomas Michaud|thomas.michaud@oddball.io|
-|UX Researcher|Tyler Gindraux|tyler@bluetiger.digital|
+|UX Researcher/Designer|Tyler Gindraux|tyler@bluetiger.digital|
