@@ -1,6 +1,9 @@
 # Debt Diary Codes Error Handling
 These are the expected messages for each diary code including for messages when a date is not defined. 
 
+Statuses and Diary Codes in Debt Portal Excel:
+https://docs.google.com/spreadsheets/d/1h8CYQH9W7ka2llPsHX50MQ7Qy5uoKFsLmMtNlQ6eLfk/edit#gid=1850756794
+
 Here are the relevant files:
 
 Debt Summary Page: https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/const/diary-codes/debtSummaryCardContent.js
