@@ -12,7 +12,6 @@
 |Tammy Hurley|Education|
 |Dawn Arnold|Education|
 |Matthew Ziolkowski|Education|
-|Michael Napper|Education|
 |Eddie Keefe|Education|
 |Preston Sanders|Education|
 |Louiseza Sanderson|Education|
