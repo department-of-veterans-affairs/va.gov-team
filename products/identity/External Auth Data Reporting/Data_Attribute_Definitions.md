@@ -7,7 +7,7 @@ Below are the consumer-friendly definitions (along with examples) for each of th
 - Example: If a user signs in three times in a month, they are counted as one Monthly Active User for the reporting period.
 
 ### 2. Total Authentications
-- Refers to the total number of successful sign ins for VA.gov and the VA: Health and Benefits mobile app within a given month.
+- Refers to the total number of sign ins for VA.gov and the VA: Health and Benefits mobile app within a given month.
 - Example: If a user signs in five times during a month, this counts as five Total Authentications.
 
 ### 3. Credential Usage
