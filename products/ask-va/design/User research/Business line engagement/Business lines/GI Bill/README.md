@@ -11,6 +11,7 @@
 |:--|:--|
 |Tammy Hurley|Education|
 |Dawn Arnold|Education|
+|Sarabeth Dean|Education|
 |Matthew Ziolkowski|Education|
 |Eddie Keefe|Education|
 |Preston Sanders|Education|
