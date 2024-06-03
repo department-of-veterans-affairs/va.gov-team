@@ -105,6 +105,7 @@ ________________________________________________________________________________
       - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
       - 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
       - ✔️ 🟨 [[DevOps] Add account tag to checkin-devops for vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84164)
+      - ✔️ 🟨 [[DevOps] Add Account tag to CHIP resources for vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84331)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
         - 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
