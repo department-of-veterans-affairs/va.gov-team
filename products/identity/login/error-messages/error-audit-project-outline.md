@@ -15,6 +15,8 @@
 - [Frontend](#frontend)
 - [Design](#design)
 
+## POCs
+
 ### OCTO teams
 
 This work involves the following teams:
@@ -44,38 +46,53 @@ As a result, we need to do the following:
 
 ## User problem statements
 
-- 
+- As a Veteran, I want to be able to quickly and easily sign in through the VA.gov unified sign-in page to manage my health and benefits.
+- As a Veteran, I want to be able to quickly resolve any issues that might arise while signing in through the VA.gov unified sign-in page.
 
 ## User outcomes
 
 ### Desired User Outcomes
 
-- 
+- Users can more quickly and easily resolve sign in issues.
 
 ### Undesired User Outcomes
 
-- 
+- Updates to messaging don't help and only continue to send users in the wrong direction.
 
 ## Business outcomes
 
 ### Desired Business Outcomes
 
--
+- Users are more easily able to resolve sign in issues on their own through better guidance to appropriate help channels.
+- Users are sent to the right help channels the first time -- whether that is an online resource or a call center.
+- We see a reduction in calls through the HRC IVR.
+- We see a decrease in CSP's % of calls that need to be routed back to VA.
 
 ### Undesired Business Outcomes
 
-- 
+- Updates to messaging don't help and only continue to send users in the wrong direction.
+- We see no decrease in call volume through the HRC IVR.
+- We see no decrease in CSP's % of calls that need to be routed back to VA.
 
 ## Measuring success
 
-TBD
+### Objective: People signing into VA.gov are routed to more effective help when they receive an error.
 
-### Objective: TBD
-
-**KPI**: TBD
+- **KPI**: CSPs see a decrease in the % of calls they are routing back to VA.
+- **KPI**: We see an increase in the customer satisfaction score for sign-in.
 
 ## Solution approach
 
+Potential path forward:
+
+- Review the existing error documentation to determine what is up-to-date and what needs to be modified.
+- Create an audit of all sign-in errors, expanding the existing documentation as needed.
+- Determine areas for improvement:
+  - We should prioritize biggest impact first.
+  - Contact Center Support, CSPs, and HRC folks can help us determine where we should be routing people.
+  - CAIA will determine language, tone, and can work with us on rollout strategy.
+ - Start drafting and implementing improvements, working across teams (including IAM) as necessary.
+ - Update documentation on GitHub to reflect improved errors.
 
 ### Key dates
 
