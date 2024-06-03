@@ -212,9 +212,8 @@ Session length: up to 10 mins
 Maximum Sessions per day: Unlimited 
 
 ## Availability
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.
 
-Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+ Monday Thru Friday - 24 hrs for 10 days 
 
 ## Team Roles
 
