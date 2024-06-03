@@ -117,6 +117,7 @@ Perigean will:
 - Schedule a brief kickoff call to run through the recruitment criteria before recruiting.
 
 ### Part 1: Non-AT users
+Recruit 12 total participants for a total of at least 8 completed sessions
 
 #### Primary criteria
 - All participants must be able to attend sessions on a mobile device
@@ -151,7 +152,7 @@ Screener Q2: Do you find it difficult to remember or learn new things, focus on 
 ```
 
 ### Part 2: AT users
-AT users - recruit 8 total participants for a total of at least 5 completed sessions
+Recruit 8 total participants for a total of at least 5 completed sessions
 #### Primary criteria
 - All participants must be able to attend sessions on a mobile device
 - All participants (or their caregiver) must have used Appointments on va.gov before to manage their appointments
