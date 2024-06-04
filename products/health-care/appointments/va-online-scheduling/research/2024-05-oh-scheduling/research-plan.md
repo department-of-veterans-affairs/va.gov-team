@@ -39,13 +39,7 @@ Starting up, taking care of myself and aging.
 
 ### Outcome
 
-This research will provide critical insights into the effectiveness of the unified scheduling flow in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of Veterans. By addressing any identified issues and incorporating user feedback, we will be able to enhance functionality and user experience.
-
-Thank you for the clarification. Here's the revised research plan without the test for prioritizing scheduling with providers who have the soonest availability.
-
----
-
-This research will provide critical insights into the effectiveness of the unified scheduling flow in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of Veterans. By addressing any identified issues and incorporating user feedback, we will be able to enhance functionality and user experience.
+This research will provide insights into the effectiveness of the unified scheduling flow and general improvements in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of Veterans. 
 
 ### Research Questions
 
