@@ -41,48 +41,47 @@ Starting up, taking care of myself and aging.
 
 This research will provide critical insights into the effectiveness of the unified scheduling flow in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of Veterans. By addressing any identified issues and incorporating user feedback, we will be able to enhance functionality and user experience.
 
+Thank you for the clarification. Here's the revised research plan without the test for prioritizing scheduling with providers who have the soonest availability.
+
+---
+
+This research will provide critical insights into the effectiveness of the unified scheduling flow in terms of usability, accessibility, and user satisfaction. The findings will guide the refinement of the design to ensure it meets the needs of Veterans. By addressing any identified issues and incorporating user feedback, we will be able to enhance functionality and user experience.
+
 ### Research Questions
 
 **Goal 1: Evaluate Usability**
-- **How easily can users complete the appointment booking process using the unified portal?**
-  - **Action**: Use this information to identify and address usability issues.
+- **How easily can users complete the appointment booking process using the unified portal, considering they can only select providers they have seen before?**
 - **What accessibility barriers do users with disabilities encounter when using the portal?**
-  - **Action**: Ensure compliance with accessibility standards and improve the portal’s inclusivity.(While we are not testing with screen reader users, we plan to test with individuals with cognitive disabilities. 
+Ensure compliance with accessibility standards and improve usability. (While we are not testing with screen reader users, we plan to test with individuals with cognitive disabilities.)
 
 **Goal 2: Assess User Satisfaction**
-- **How do users rate their overall satisfaction with the new scheduling flow compared to the previous systems?**
-  - **Action**: Measure CSAT scores and identify areas where user satisfaction can be improved.
-- **What specific aspects of the unified portal do users find most and least satisfying?**
-  - **Action**: Focus on enhancing the most critical areas to increase overall satisfaction.
+- **How do users rate their overall satisfaction with the new scheduling flow compared to the previous systems, given the constraint on provider selection?**
+- **What specific aspects of the unified portal do users find most and least satisfying, considering the provider selection limitation?**
 
 **Goal 3: Identify Areas for Improvement**
-- **What pain points or challenges do users experience during the scheduling process?**
-  - **Action**: Prioritize and address these issues in the next design iteration.
-- **What suggestions do users have for enhancing the scheduling portal?**
-  - **Action**: Incorporate viable suggestions into the idea board to continuously improve the scheduling flow.
-
+- **What pain points or challenges do users experience during the scheduling process, especially regarding the limitation on selecting new providers?**
+- **What suggestions do users have for enhancing the scheduling portal within the current constraints?**
 
 ### Hypotheses
 
 #### Oracle Health Integration
 
-1. **Veterans will prefer to choose a specific provider for most types of care.**
+1. **Veterans will easily be able to schedule an appointment with a provider they have seen in the past 12 months.**
 
-2. **Veterans' preferences for providers will change based on the type of care (Primary vs. Specialty) and whether they have an established provider.**
+#### General Scheduling Improvements
 
-3. **Veterans will prioritize scheduling with providers who have the soonest availability.**
+1. **Veterans will have distinct preferences when using the “express lane” flow compared to the Type of care route.**
 
-#### Scheduling Improvements
 
-1. **Veterans will want to see all nearby locations when searching for a new appointment, not just where they are registered.**
+2. **Veterans will prefer to choose locations where they have recently scheduled appointments. They will appreciate and find value in the default "Sort by Recent locations"**
 
-2. **Veterans will prefer to choose locations where they have recently scheduled appointments.**
 
-3. **Veterans will want shortcuts to quickly schedule similar appointments to those they've had before.**
+3. **Tailored and timely urgent medical need alerts will improve the responsiveness and appropriateness of care for Veterans.**
+   - Specifically, when Mental Health TOC (Type of Care) is selected from either the TOC page or the express lane, and when the reason for the appointment includes severe or alarming signs and symptoms, particularly if the indicated date is today. 
 
-4. **Scheduling similar appointments to past ones will help Veterans schedule more quickly.**
+4. **Improvements to the Patient Indicated Date (PID) functionality will be positively received by users.**
 
-5. **Veterans need reminders that the scheduling tool is not for emergencies.**
+5. **Notifications are viewed as helpful**
 
 ## Methodology
 
