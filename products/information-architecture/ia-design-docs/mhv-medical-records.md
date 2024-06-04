@@ -51,6 +51,16 @@ We are moving toward launching **health conditions** to Phase 0 (shown in green 
 | >Vital history            | /my-health/medical-records/vitals/[vital-name]-history/      | < Back to Vitals                         | < Back to vitals                   | < Back to vitals  | [H1] - Medical Records \| Veterans Affairs |
 | Medical Records Settings  | /my-health/medical-records/settings                            | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Settings | Settings - Medical Records \| Veterans Affairs |
 
+### Vitals types
+Details pages for historical records of each vital type are linked from the Vitals list view page. Each of these vitals should have a corresponding URL keyword that matches the H1 of the page: 
+* Blood pressure
+* Heart rate
+* Breathing rate
+* Blood oxygen level (pulse-oximetry)
+* Temperature
+* Weight
+* Height
+
 ## <a name="nav"></a>Secondary navigation <br>
 
 * Phase 0 initial launch (Allergies only) will not have a secondary navigation. Navigation will only be exposed once 2+ subdomains are launched. 
