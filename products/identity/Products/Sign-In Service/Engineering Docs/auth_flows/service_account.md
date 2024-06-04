@@ -40,7 +40,7 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 
 | attribute | data type | description | sample value |
 | --- | --- | --- | --- |
-| `iss` | string | issuer of Service Account assertion, must matched the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
+| `iss` | string | issuer of Service Account assertion, must match the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
 | `sub` | string | email of the user requesting the action | `vets.gov.user+0@gmail.com` |
 | `aud` | string | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token |
 | `iat` | integer | current time in Unix/Epoch (10 digit) format | 1691702191 |
@@ -48,11 +48,12 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 | `scopes` | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
 | `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
 | `jti` | string | a random identifier that can be used by the client to log & audit their Service Account interactions | '2ed8a21d207adf50eb935e32d25a41ff' |
-| `user_attributes` | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes`. | icn, type, credential_id |
+| `user_attributes` (optional) | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes` array | icn, type, credential_id |
 
 - Create a Service Account assertion payload:
 
   ```ruby
+  # ruby
   current_time = Time.now.to_i
   token = {
     'iss' => 'http://localhost:4000',
@@ -68,9 +69,11 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
   ```
   
 - Use a [JWT encoding program](https://dinochiesa.github.io/jwt/) or your Rails console to create and encode a JWT assertion signed with the private key that matches the saved ServiceAccountConfig's public key.
+- If you are testing locally and your client application has been added to the `vets-api` [development seed file](https://github.com/department-of-veterans-affairs/vets-api/blob/master/db/seeds/development.rb) with the default `spec/fixtures/sign_in/sts_client.crt` public certificate, use the corresponding `spec/fixtures/sign_in/sts_client.pem` to sign the assertion.
 
   ```ruby
-    private_key = OpenSSL::PKey::RSA.new(File.read('private_key.pem'))
+  # ruby
+    private_key = OpenSSL::PKey::RSA.new(File.read('spec/fixtures/sign_in/identity_dashboard_service_account.pem'))
     JWT.encode(token, private_key, 'RS256')
     => "eyJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHrw..."
   ```
