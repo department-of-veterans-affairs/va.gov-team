@@ -134,3 +134,45 @@ we need to check if the frontend can use this as well, or if we need to also add
    - https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true
  - Maintain or reduce uses of backup and failsafe path
    - https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true
+  
+## Proposed Release Plan for 1.0 (Veterans without existing IPF)
+### Prerequisites:
+ - Approval from VA (Emily)
+ - Approved PDFs from ??? Team (Emily knows which team)
+ - Validation Rake task results approved by team
+ - Monitoring configured
+
+ - vets-api Deployed, Toggled Off
+ - vets-website Deployed
+
+#### Day 0:
+ - 11am EDT <individual> Toggles Feature ON for all Users
+ - Noon EDT <individual> Toggle Feature OFF for all Users
+
+#### Day 0-A:
+ - Monitor submissions over next ? days. 
+   - Daily task: <individual> executes production script to generate PDF for any claim submitted using TE flow
+   - <individual> Send PDF bundle to ??? Team (in S3?) 
+   - <individuals> Manually remediate any claim that was not accepted by Claims or Benefits Intake API
+   - <team> Fix defects
+
+#### Day 1: 
+- <individual> Toggle on for 25% of Users
+#### Days 1-6: 
+- Repeat monitoring tasks for 20 claims daily
+
+#### Day 7: 
+- <individual> Toggle on for 50% of Users
+#### Day 7-13: 
+- Repeat monitoring tasks for 20 claims daily
+
+#### Day 14: 
+- <individual> Toggle on at 100%
+
+## Remediation Steps:
+ - If a claim fails Primary submission, passes Backup submission, no further effort required
+ - If a claim fails both Primary and Backup submission processes, team researches root cause, <individual> repairs claim in production and re-triggers primary submission
+
+## Version 1.1 Requirements & Release Plan TBD
+
+ 
