@@ -31,6 +31,7 @@
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
         - 🟩 Brian to create tickets after SPIKE
+        - 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
