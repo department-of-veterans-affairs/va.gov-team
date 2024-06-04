@@ -44,6 +44,7 @@
         - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
+        - 🟥 [Update Priority 3 Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84554)
         - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
         - 🟩 [[FE] - Removed old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
 </details>
