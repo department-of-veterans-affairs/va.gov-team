@@ -1,18 +1,32 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+## Sprint 33
+Period - 06/05/2024 - 06/18/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - Complete Hazards
+    - Start preparing staging review artifacts
+
+- **Paper Form Sync**
+    - Midpoint review
+
+- **Submission Experience**
+    - Finalize design for "Give Veteran clear expectation on claim status."
+    - Get engineering feasibility for TTN&T
 
 ## Sprint 32
 Period - 05/22/2024 - 06/04/2024
 ### Sprint goals
 
 - **Toxic Exposure**
-    - Complete Herbicide & Hazards
-    - Feature flag consolidation - submit & TE
+    - Complete Herbicides & start Hazards on Front End
 
 - **Paper Form Sync**
     - Mocks for claim certification/signature component
 
 - **Submission Experience**
-    - Ideation & planning for Reducing Veteran Burden and Duplicate Submissions
+    - Removed from sprint - Ideation & planning for Reducing Veteran Burden and Duplicate Submissions
+    - Timely & Truthful information and tracking planning - feature brief and research plan
 
 ## Sprint 31
 Period - 05/08/2024 - 05/21/2024
