@@ -15,12 +15,12 @@ Last updated 5/15/24
 - [Archived information](#archived)
 
 ## <a name="launch-plan"></a>Medical Records launch plan<br>
-Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023-Spring 2024. The proposed launch order is as follows: 
+Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023-Fall 2024. The proposed launch order is as follows: 
 1. Allergies (October 2023) - DONE
 2. Vaccines (December 2023) - DONE
 3. Care summaries & notes, Vitals (March 2024) - DONE
 4. Health conditions - **In-process (ETA late May)**
-5. Lab and test results - (ETA Fall 2024)
+5. Lab and test results & settings - (ETA Fall 2024)
 
 ## <a name="flows"></a>User/page flows <br>
 Most up-to-date user flow can be found on VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=0-1686659937807
@@ -44,9 +44,8 @@ Open questions:
 
 
 ## <a name="map"></a>Page structure<br>
-Most up-to-date page structure can be found in VA public mural: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1671138122441/c6eae887e8c0467e616d61002f14085580dfb59c?wid=65-1686344795557
-
-<img width="926" alt="Screenshot 2023-07-21 at 10 20 34 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/a6f578fd-5b8f-485e-a21d-50c593dd0f40">
+Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
+<img width="746" alt="Screenshot 2024-06-04 at 11 52 41 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/115033532/d4df8308-1b7e-4b8d-92a7-8cf9787850e0">
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -80,7 +79,7 @@ Page | URL | Breadcrumb | Notes
 
 * Phase 0 initial launch (Allergies only) will not have a secondary navigation. Navigation will only be exposed once 2+ subdomains are launched. 
 
-* Full phase 0 secondary/left navigation order:
+* Full phase 0 secondary/left navigation order below. Secondary navigation will be removed before Medical Records reaches phase 1, and will rely on the landing page to serve as a the navigation means for child domain experiences.
 
   - Medical Records
     - Lab and test results
@@ -91,9 +90,7 @@ Page | URL | Breadcrumb | Notes
     - Vitals
     - Medical records settings
     - Download all records
- 
-<hr>
-<hr>
+
 
 ## <a name="notes"></a>Meetings notes and background info
 
