@@ -25,7 +25,7 @@
 ## Expectations
 - **Feedback:** each crew lead and product managers will provide feedback either verbally or in written form for each of the recommendations and findings (where a recommendation is not formulated) provided by the UX research.
 
-- **Prioritizations:** Product Managers will document the research recommendations with the output feedback within the appropriate product folders inside github. Links to the research will be referenced within the feedback documents.
+- **Prioritizations:** Product Managers will document the research recommendations with the output feedback within the appropriate product folders inside github. Links to the research will be referenced within the feedback documents. Product Managers will work with the VA.gov Product Owners to determine prioritization.
 
 - **Tasks:** Product Managers will create the appropriate user stories for each of the agreed upon planned work items. These user stories will remain in the product brief as “future work” until it’s ready to be worked on and documented within an epic. For the sake of keeping our boards clean, work should not be added until as a user story, it should only be added once the work has been refined and approved by all necessary parties.
 
