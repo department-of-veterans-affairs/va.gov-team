@@ -1,18 +1,54 @@
 # Medallia Report: May 2024
 
-## Debt Portal: Summary
+## Debt Portal & Financial Status Report Form (eFSR): Summary
 
-152  Veterans left qualitative and/or quantitative feedback on the debt portal pages in May 2024 - more than double the amount of feedback left in April 2024.
+152  Veterans left qualitative and/or quantitative feedback on the debt portal pages and FSR pages in May 2024 - consistent with the amount of feedback left in April 2024.
 
 The majority of the issues and concerns described by Veterans in May corroborate previous findings, including but not limited to:
 
-**Needs debt accounting details, 
-Findability and navigation issues,  
-Unable to download debt letters or statements,  
-Payment update discrepancy,
+**Needs debt accounting details
+Findability and navigation issues 
+Unable to download debt letters or statements 
+Payment update discrepancy (an issue described in previous reports)
 Sign in difficulties**
 
 The feedback also reinforces the importance of the service design and digital principle of consistency across the different channels of VA communication which is a top priority and serves to reinforce trust in VA (mail, digital, and in person/call center).
+
+## Veterans left feedback on the following pages:
+
+    /manage-va-debt/request-debt-help-form-5655/confirmation 
+
+**92** left feedback
+
+    /manage-va-debt/request-debt-help-form-5655/introduction
+
+**27** left feedback
+
+
+    /manage-va-debt/summary
+
+**12** left feedback
+
+    /manage-va-debt/
+
+**5** left feedback
+
+    /manage-va-debt/summary/copay-balances
+
+**6** left feedback
+
+    /manage-va-debt/summary/debt-balances/letters
+
+**3** left feedback
+
+
+    /manage-va-debt/summary/debt-balances
+
+**1** left feedback
+
+
+**Note that the majority of the feedback is coming from the eFSR pages, however the majority of the qualitative feedback is coming from the debt portal pages.**
+
 
 ## Quantitative Findings
 
