@@ -23,8 +23,9 @@ Delivery deadline: TBD
 
 ## Relevant Links
 - [High Level Submission Experience Model Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md)
+- [High Level Submission Experience Mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715268744654/29695ef6a1327d51f1b2daaa0f26a3f09cb7fedd?wid=54-1716498413540)
 - [Timely & Truthful Information and Tracking Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/timely-and-truthful.md)
-- High Level Submission Experience Mapping
+- Submission Experience Story Map
 - Design Assets
 - [User Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
 
