@@ -5,10 +5,10 @@
 
 
 ## Scope
-- MVP release only to Veterans who begin a new 526 form
+- Release 1.0 only to Veterans who begin a new 526 form
   - This includes the primary (happy) path and backup submission path.
   - Delivery deadline for DBEX: end of June 2024
-- Next release to Vets who have an In Progress Form (IPF)
+- Release 1.1 to Veterans who have an In Progress Form (IPF)
   - Delivery deadline: TBD
 
 ## Relevant Links
