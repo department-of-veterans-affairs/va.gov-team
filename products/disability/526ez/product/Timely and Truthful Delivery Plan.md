@@ -32,15 +32,27 @@ Delivery deadline: TBD
 ## Risks / Impediments
 - This work is dependent on the /submit endpoint migration from legacy EVSS services to Lighthouse platform and must be completed. This migration also updates the 526ez online form to the 2022 version, as part of the [Toxic Exposure Delivery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Delivery%20Plan.md) intiative.
 - Engineering capacity to implement ideas is limited April - June 2024 for the 2022 526ez Form Rollout / Toxic Exposure delivery initiative.
+ - Because of this, the delivery plan is phased by discovery, design, and then implementation milestones.
 
 ## Delivery Plan for Timely & Truthful Information and Tracking
 
-#### Milestone: Design Phase MVP Solution
-**Estimated Duration**: TBD  
-**Actual Delivery Date**: TBD   
+#### Milestone: Discovery and Planning Phase
+**Estimated Duration**: Sprint 29 (4/10 - 4/23/24) - Sprint 31 (5/8 - 5/21/24)      
+**Actual Delivery Date**: TBD        
 **Environment**: N/A    
 **Building Blocks:**    
- - [ ] TBD
+ - [X] Desk research to understand 526ez submission experience    
+ - [X] High level submission mapping    
+ - [X] High level technical feasibility for various solution types for all pathways to submission     
+
+#### Milestone: Design Phase for MVP Solution
+**Estimated Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 33 (6/5 - 6/18/24)      
+**Actual Delivery Date**: TBD       
+**Environment**: N/A      
+**Building Blocks:**    
+ - [X] Deeper level designs for solution options     
+ - [ ] Understanding of technical tradeoffs for approaches     
+ - [ ] Decision on MVP improvement to Timely & Truthful Information and Tracking     
 
 #### Milestone: Timely & Truthful MVP Implementation
 **Estimated Duration**: TBD  
