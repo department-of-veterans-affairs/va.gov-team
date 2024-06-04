@@ -35,7 +35,7 @@ Delivery deadline: TBD
 
 ## Delivery Plan for Timely & Truthful Information and Tracking
 
-### Milestone: Design Phase MVP Solution
+#### Milestone: Design Phase MVP Solution
 **Estimated Duration**: TBD  
 **Actual Delivery Date**: TBD   
 **Environment**: N/A    
