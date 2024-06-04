@@ -54,9 +54,9 @@ Delivery deadline: TBD
  - [X] Deeper level designs for solution options     
  - [ ] Understanding of technical tradeoffs for approaches     
  - [ ] Decision on design that includes:
-  - [ ] Set expectations for what is currently happening    
-  - [ ] Understand what VA is doing to submit your claim     
-  - [ ] Receive "honest" confirmation that claim has succeeded or failed in UI and email      
+   - [ ] Set expectations for what is currently happening    
+   - [ ] Understand what VA is doing to submit your claim     
+   - [ ] Receive "honest" confirmation that claim has succeeded or failed in UI and email      
 
 #### Milestone: Vet has clear expectations of claim status implementation
 **Estimated Duration**: TBD  
