@@ -1,6 +1,13 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 6/11/24 Biweekly VBA-DBEX Check-in
+### In attendance
+
+### Notes
+- PTSD and MST contention classification. From past VEO research and chats with the CC team, we heard that Veterans may be thinking of MST as a condition, rather than an event that results in PTSD. We're hoping to get more insight on this in our upcoming 0781 study. Is there a reason behind the languaged used (PTSD, the "type" of which can be "personal involving MST"), and could we explore changing the language to align with Veterans' expecations? Does the condition claimed need to align with the medical diagnosis / DSM standards? Why were just two types of PTSD included in the condition drop-down list?
+
+
 ## 5/30/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 Jared Pace, Andrew Gray, Kate Allbee, Matt Larson, Jina Ryu, Mike Eng, David Reis
