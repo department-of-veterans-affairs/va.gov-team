@@ -6,8 +6,9 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 ### Notes
 - PTSD and MST contention classification. From past VEO research and chats with the CC team, we heard that Veterans may be thinking of MST as a condition, rather than an event that results in PTSD. We're hoping to get more insight on this in our upcoming 0781 study. Is there a reason behind the languaged used (PTSD, the "type" of which can be "personal involving MST"), and could we explore changing the language to align with Veterans' expecations? Does the condition claimed need to align with the medical diagnosis / DSM standards? (For context, two types of PTSD were included in the conditions list because there are two classifications for PTSD. We also know it's important for RVSRs to know if MST was involved for claim processing.)
-- <img width="682" alt="Screenshot 2024-06-04 at 8 15 41 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/130166646/ec853fe3-14bb-4212-a18e-ebf0e017b457">
-<img width="514" alt="Screenshot 2024-06-04 at 8 14 36 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/130166646/c8bac860-4c43-4aa3-b481-775c1906cd36">
+- <img width="682" alt="Screenshot 2024-06-04 at 8 15 41 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/130166646/ec853fe3-14bb-4212-a18e-ebf0e017b457"> <img width="514" alt="Screenshot 2024-06-04 at 8 14 36 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/130166646/c8bac860-4c43-4aa3-b481-775c1906cd36">
+
+- How common is it for a Veteran to submit both a 0781 and a 0781a? We're deciding how to approach the failure emails for these forms in the interim before the new combined version is launched. 
 
 
 
