@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 6/4/24
+*   On-site next week
+
 ## 5/22/24
 *   Submitting a PR to add our stuff to VADS documentation
 *   Inviting Matt Dingee to happy hour when on-site?
