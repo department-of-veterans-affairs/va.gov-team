@@ -1,4 +1,4 @@
-# Submission Model Delivery Plan for 526ez
+# Timely & Truthful Information and Tracking Delivery Plan for 526ez
 Through recent Veteran shadowing research and discovery, we learned that Veterans lack timely and truthful information and tracking about their claim.
 
 Once a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans.
