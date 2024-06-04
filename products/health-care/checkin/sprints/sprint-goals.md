@@ -22,6 +22,7 @@
     - **Sub Goal: Production Support**
         - ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
         - ❗🟦 [Implement Solution to Handle BTSSS API Timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83026)
+        - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
@@ -30,8 +31,8 @@
         - ❗🟦🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
-        - 🟩 Brian to create tickets after SPIKE
-        - 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
+        - 🟩 [SPIKE [FE] Update OH Travel Application for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
+        
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
@@ -84,7 +85,9 @@ ________________________________________________________________________________
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
         - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
         - ✔️ 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
-        - 🟩 [SPIKE: Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
+        - ~🟩 [SPIKE: Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)~
+          - Removed from sprint because need to wait for UX wireframes
+        - 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
         - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
         - ✔️ 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
