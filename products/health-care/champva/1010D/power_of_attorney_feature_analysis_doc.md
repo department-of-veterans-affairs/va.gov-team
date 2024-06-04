@@ -9,7 +9,10 @@
 - Stakeholders were unaware of the alternate signer forms. As of now they don't ask for any additional forms to be filed by Alt signers or additional docs to be uploaded. \
 In a March update luke had mentioned that If you include a POA as an optional form and state if you do not have a POA in with the VBA please attach one with your 10 10 D application
 - There may be a case that they need to contact the signer if the applicant is incapacitated and the signer is the Power of Authority.
-- Only a spouse can fill out for another spouse or child under 23. Anyone else would need a POA
+- For the 1010D form, only a spouse can fill out for another spouse or child under 23. Anyone else would need a POA. 
+- For the Claims, only a parent can fill it out for children under 18. Spouses or children over 18 would need a PoA. 
+- If the beneficiary has docs on file with CHAMPVA for a PoA they can complete the claim.
+- If CHAMPVA does not see a PoA on file they will send the claim back to the beneficiary.
 - Need to be at least 18 to be a PoA
 - CHAMPVA can accept non-VA PoA forms
 
