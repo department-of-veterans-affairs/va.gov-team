@@ -178,9 +178,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
        - Ch 36: https://www.va.gov/careers-employment/dependent-benefits/
     - **Get - Additional benefits or services(H3)**
-       - Vocational rehabilitation and employment for ppl who qualify:
-         - Children of Women Vietnam Veterans Health Care Benefits Program: https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/
-         - Spina Bifida Health Care Benefits Program: https://www.va.gov/disability/eligibility/special-claims/birth-defects/ 
+       - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
     - **Get - Helpful tools(H3)**
        - GI Bill School Comparison tool: https://www.va.gov/gi-bill-comparison-tool/
        - Yellow Ribbon school finder: https://www.va.gov/education/yellow-ribbon-participating-schools/
@@ -192,7 +190,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
        - Manage or pay overpayments or debt: https://www.va.gov/manage-va-debt/
        - Request decision review: https://www.va.gov/decision-reviews/
-       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
     - **More(H2)**
        - How to choose GI Bill approved schools: https://www.va.gov/education/choosing-a-school
        - How to verify school enrollment for DEA: https://www.va.gov/resources/verify-school-enrollment-for-dea-benefits
@@ -208,7 +205,6 @@ For phase 1, each subhub will feature links and a short description to the follo
    - **Manage(H2)**
        - File an insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
        - Request decision review: https://www.va.gov/decision-reviews/
-       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
    - **More(H2)**
        - Search for unclaimed insurance funds: https://www.insurance.va.gov/UnclaimedFunds/
        - Tragedy Assistance Program for Survivors: https://www.taps.org/
@@ -222,10 +218,8 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Check the status of your COE: https://www.va.gov/housing-assistance/home-loans/check-coe-status
        - Get veteran military records: https://www.va.gov/records/get-military-service-records/
        - Request decision review: https://www.va.gov/decision-reviews/
-       - Check claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
    - **More(H2)**
        - Loan limits: https://www.va.gov/housing-assistance/home-loans/loan-limits
-       - Find VA-acquired properties: https://www.benefits.va.gov/homeloans/realtors_property_mgmt.asp
 
 - **Burial benefits and memorials**
    - **Get - Main (H2)**
