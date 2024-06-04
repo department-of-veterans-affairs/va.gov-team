@@ -83,7 +83,7 @@ ________________________________________________________________________________
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
         - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
-        - 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
+        - ✔️ 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
         - 🟩 [SPIKE: Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
         - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
@@ -105,7 +105,7 @@ ________________________________________________________________________________
     - **Sub Goal: Analyze current metrics to see what they tell us**
         - 🟥 [Research] Analyze GA Metrics
         - 🟪 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
-        - 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
  - **GOAL: Address tech debt and bugs**
    - 🟩 [[FE] - switch to new minimal header](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/84342)
 
