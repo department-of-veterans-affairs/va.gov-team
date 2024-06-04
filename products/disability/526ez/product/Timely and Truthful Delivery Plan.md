@@ -46,7 +46,7 @@ Delivery deadline: TBD
  - [X] High level submission mapping    
  - [X] High level technical feasibility for various solution types for all pathways to submission     
 
-#### Milestone: Design Phase for MVP Solution
+#### Milestone: Design Phase for Vet has clear expectations of claim status
 **Estimated Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 33 (6/5 - 6/18/24)      
 **Actual Delivery Date**: TBD       
 **Environment**: N/A      
@@ -55,7 +55,7 @@ Delivery deadline: TBD
  - [ ] Understanding of technical tradeoffs for approaches     
  - [ ] Decision on MVP improvement to Timely & Truthful Information and Tracking     
 
-#### Milestone: Timely & Truthful MVP Implementation
+#### Milestone: Vet has clear expectations of claim status implementation
 **Estimated Duration**: TBD  
 **Actual Delivery Date**: TBD   
 **Environment**: Staging    
