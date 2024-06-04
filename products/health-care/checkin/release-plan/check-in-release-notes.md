@@ -12,6 +12,14 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 5/30/2024
+- Update eCheck-in to allow Veterans to only submit one travel reimbursement claim per day (Logic to calculate travel claim reimbursements for Veterans when they have appointments at multiple facilities on the same day is complicated. It was decided that we should refer the Veteran to the BTSSS portal to file claims when this scenario (edge case) arises.)
+    - [Ticket 83664](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
+
+## 5/28/2024
+- Updated eCheck-in to send a new SMS message to the Veteran when the call to the BTSSS API to submit a travel reimbursement claim times out; new SMS message will let the Veteran know that they should check the BTSSS portal to determine the status of their claim
+    - [Ticket 83466](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83466)
+
 ## 5/7/2024
 - Updated details page for Pre-Check-in & eCheck-in to increase clarity for Veterans
     - Do not display label or default value for Provider data when not available
