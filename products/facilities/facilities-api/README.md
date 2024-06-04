@@ -52,7 +52,38 @@ flowchart LR
     Y[vets-api Facility API v2]
 ```
 
-## Drupal
-Drupal calls the Lighthouse API directly, both to pull data, and to push data. Drupal does **not** route through the vets-api facilities-api. However: in cases where Drupal is the source of truth and provides data to Lighthouse, the facilities-api then also receives/ contains that info via the Lighthouse Facilities API. 
+## Lighthouse Facilities API product dependencies / scope
+In the event that Lighthouse Facilities API releases a new version or is deprecating an old endpoint, the following interactions need to be kept in mind and tested / updated accordingly:
+
+### Products/features using facilities-api calls with LH Facilities API data
+
+- Facility pages (VAMC, Vet Center, VBA Regional Offices):
+  - Other locations list 
+  - Mini map - LH request returns the lat/long used to generate the maps
+- Facility Locator UI
+  - Facilities returned from searches
+  - Facility detail page contents for non-modernized facilities (currently: Cemeteries, Benefits offices), e.g. https://www.va.gov/find-locations/facility/nca_907
+  - Urgent care > Service type filter options. These options are combined with PPMS data from outside LH API & presented as a single list.
+  - Emergency care > Service type filter options. These options are combined with PPMS data from outside LH API & presented as a single list.
+
+### Products/features integrated directly with LH Facilities API data (_not_ via facilities-api):
+
+- Facility pages data (VAMC, Vet Center, VBA Regional Office): e.g. name, location info, geocoding (pull)
+- Facilities CMS migration (cms-overlay). Drupal does **not** route through the vets-api facilities-api. However: in cases where Drupal is the source of truth and provides data to Lighthouse, the facilities-api then also receives/ contains that info via the Lighthouse Facilities API.Includes:
+  - Health services (push)
+  - Mental health phone numbers (push)
+  - Facility statuses (push)
 
 More information on Drupal content models that interact with the Lighthouse Facilities API is available within Drupal's content model documentation: https://prod.cms.va.gov/admin/structure/cm_document?title=&documented_entity_op=contains&for=&stakeholder=All&pulled=All&pushed=1112&notes=
+
+### Products/features NOT YET dependent on LH Facilities API data but roadmapped
+
+- Facility Locator UI
+  - Contents of the Service Type filter for any Facliity type - [#15541](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15541)
+
+### Products/features NOT dependent on LH Facilities API data 
+
+- Facility Locator UI
+  - Contents of the Facility Type filter
+- PPMS Community care, Community pharmacy, and provider training data, including Service type typeahead
+
