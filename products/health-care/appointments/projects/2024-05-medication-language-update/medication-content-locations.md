@@ -9,6 +9,7 @@ All the touchpoints considered for the medication language to appear.
 How this content display on the details page for the following types of appointments/requests:
 
 **Upcoming/confirmed**
+
 Display on:
 - VA In-person
 - VA Video Care at Home
@@ -25,7 +26,7 @@ Do not display. There is no need to prepare for appointments in the past.
 
 **Canceled**
 
-Do not display. There is no need to prepare for appointments that have been canceled.
+Same as Upcoming/confirmed
 
 **VA Requests (pending or canceled)**
 
