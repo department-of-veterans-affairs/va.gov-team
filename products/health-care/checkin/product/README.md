@@ -1,19 +1,14 @@
-# Product Outline - Patient Check-in: Pre-Check-in & eCheck-in 
+# Product Outline - Patient Check-in: Pre-Check-in, eCheck-in, & Travel Reimbursement
 
 ## Overview
 The patient check-in (PCI) product is reimagining the ecosystem that allows a Veteran to check in for a medical appointment. The Modernized Check-in Team created the portion of the ecosystem that enables a Veteran to utilize their smartphone to check in through VA.gov. 
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/e33b12ff-46fd-4ce2-becd-ccf1cf413112)
 
-<details>
-<summary>Original MVP User Flow</summary>
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/93271257/47b7e504-2df9-4307-849e-c7bc84f6912e)
-</details>
-
-## Problem Statement
+## Problems Solved
 Pre-Check-in allows Veterans to use their mobile device to determine if their contact information needs updating prior to their VA health appointment. In the event their contact information is out-of-date, the Veteran is instructed to check-in with a staff member once they arrive for their appointment.
 
-eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which starts 45 minutes before and ends 15 minutes after the scheduled appointment time. The eCheck-in application is intended to replace the check-in functionality on the kiosks currently used at VA facilities. 
+eCheck-in allows Veterans, who have arrived for their appointment and whose contact information is up-to-date, to check-in for their appointment using their mobile device. eCheck-in is available for a Veteran's appointment during the check-in window, which starts 45 minutes before and ends 15 minutes after the scheduled appointment time. The eCheck-in application was intended to replace the check-in functionality on the kiosks devices used by facilities. 
 
 ## Desired User Outcomes
  - Veterans can easily and quickly check in for their appointments using their mobile device
@@ -49,23 +44,18 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 ## Resources
 
 ### Key Decisions
-- All data for the product will be available via a single API (vets-api)
-- Work to aggregate data from disparate systems will be completed by the PCI/API team
-- VetText has existing functionality that will be leveraged - at this time the technical integration is the biggest unknown and risk. The risk will decrease as Vets API migration gets underway.
-
+- All data for the product would be available via a single API (vets-api)
+- Work to aggregate data from disparate systems would be completed by the PCI/API team
+- VetText had existing functionality that would be leveraged
+  
 ### Product Guides
-#### [eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#day-of-check-in-or-patient-check-in)
-
-#### [Pre-Check-In](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#pre-check-in)
-
-[Update product guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/update-product-guides.md)
+- [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/product-guides/README.md#day-of-check-in-or-patient-check-in)
 
 ## Launch Strategy
 - Limited availability release to St. Louis in early 2022
 - General availability rollout to 1 VISN per week to support training needs
 
 ## Incident Response Plan (Production Support)
-
 - [Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 
 ## Features
@@ -121,7 +111,7 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
 - Purpose: Send an SMS to Veterans 45 minutes before their VA health appointment if the appointment is eligible for eCheck-in 
 
 #### [Mileage-only Travel Claim Submissions for VA Facilities that use Oracle Health EHR Software](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/Initiatives/check-in-for-oracle-health.md)
-- Status: Spring 2024 planned pilot
+- Status: Fall 2024 planned pilot
 - Purpose: Allow Veterans who have health appointments at VA facilities that use Oracle Health EHR software to submit a mileage-only travel reimbursement claim on the day of their appointment (one claim per facility)
 - Functionality:
     - Veteran texts "travel" on the day of their OH appointment
@@ -137,7 +127,8 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
         - How to file a claim for other expenses later
         - How to set up direct deposit
     - Veteran chooses to file a milesage-only claim
-        - If the Veteran has more than 1 appointment today at different facilities, the Veteran selects for which facility they would like to submit a claim
+        - Veteran is only allowed to submit one travel claim per day
+        - If the Veteran has more than 1 appointment today, the Veteran selects for which appointment they would like to submit a claim
     - Veteran answers the question if they travelled in their own vehicle
         - Veteran see an error message if they answer "no"
     - Veteran answers the question if they travelled from their home address
@@ -147,7 +138,9 @@ eCheck-in allows Veterans, who have arrived for their appointment and whose cont
     - Veteran receives an SMS that includes the claim submission status returned from BTSSS
 - Applies to: In-person appointments only
 
-
+#### Medication Review
+- Status: In development
+- Purpose: Remind Veterans to, at their VA health appointment, be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.
 
    
 
