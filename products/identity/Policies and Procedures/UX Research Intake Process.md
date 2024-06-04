@@ -10,6 +10,7 @@
      - Either a new Epic is created or – more likely – the task added to an existing Epic.
    - The task will be worked on in the future.
      - Foundation of a future Product Brief or added to an existing Epic.
+     - Prioritized with the Product Owners.
    - The task is fully deprioritized, and will never be worked upon.
   
 ## SIPOC Chart
