@@ -55,11 +55,11 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 
 <li> Team PM approval assume pre or implied approval from involved non-Mobile POs - no need for non-Mobile OCTO POs to be involved with the Release Process or Steps 
 	
-<li> App Store for Va.gov image and content updates - outside of Release ticket </a>
+<li> App Store for Mobile.VA.Gov App Store image and content updates - outside of Release ticket <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Va.Gov%20APp%20Store">Mobile.Va.Gov App Store Processc </a>  </a>
   
 <li> App Store (Apple, Android) image updates - outside of Release ticket <a href="https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores">App Store Image Proces Doc </a>
 
-<li> App Store (Apple, Android) Whats New content - Team PMs to create a separate ticket to determine content that will be included in the Release ticket process.  </a>
+<li> App Store (Apple, Android) Whats New and App Description - Team PMs to create a separate ticket to determine content that will be included in the Release ticket process.  </a>
  
 <li> Call Center Guide Updates if applicable - Outside of Release Ticket  <a href="https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs">Call Center Process Doc</a>
 
