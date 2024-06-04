@@ -292,56 +292,103 @@ We collect location of residence and postal code so we can route to the correct 
 
 ## Health care
 
-### Myself or someone else
+`IF CATEGORY`
+- Health care
 
-`IF CATEGORY =` Health care
- 
-`IF TOPIC =`
+### About myself
 
-- Career opportunities at VA health facilities
-- Caregiver support program
-- Family health benefits
-- Foreign Medical Program
-- Getting care at a local VA medical center
-- Vet Centers and readjustment counseling
-- Women's health services
-- Audiology and hearing aids
-- Eligibility and how to apply
-- Prosthetics
+#### Flow 1.1
+`AND` About myself
 
-`AND CONTACT PREFERENCE ≠` US MAIL
+`AND` I'm the Veteran
 
-`AND VETERAN DECEASED =`  NO
+`THEN` **collect submitter's (Veteran's) postal code**
 
-`THEN` **collect Veteran's postal code**
+| `AND`                | `AND`            | `THEN`                                 |
+| ------------------ | --------------- | --------------------------------------- | 
+| About myself | I'm the Veteran | **Collect submitter's (Veteran's) postal code** |
 
-| `IF TOPIC`                                     | `AND CONTACT PREFERENCE ≠` | `AND VETERAN DECEASED =` | `THEN`                              |
-| -------------------------------------------- | ------------------------ | ---------------------- | --------------------------------- |
-| Career opportunities at VA health facilities | --                       | NO                     | **collect Veteran's postal code** |
-| Caregiver support program                    | --                       | NO                     | **collect Veteran's postal code** |
-| Family health benefits                       | --                       | NO                     | **collect Veteran's postal code** |
-| Foreign Medical Program                      | --                       | NO                     | **collect Veteran's postal code** |
-| Getting care at a local VA medical center    | --                       | NO                     | **collect Veteran's postal code** |
-| Vet Centers and readjustment counseling      | --                       | NO                     | **collect Veteran's postal code** |
-| Women's health services                      | --                       | NO                     | **collect Veteran's postal code** |
-| Audiology and hearing aids                   | U.S. MAIL                | NO                     | **collect Veteran's postal code** |
-| Eligibility and how to apply                 | U.S. MAIL                | NO                     | **collect Veteran's postal code** |
-| Prosthetics                                  | U.S. MAIL                | NO                     | **collect Veteran's postal code** |
+#### Flow 1.2
+`AND` About myself
+
+`AND` I'm a family member
+
+`THEN` **collect submitter (family member’s) postal code**
+
+| `AND`                | `AND`                              | `THEN`                          |
+| ------------------ | -------------------------------- | --------------------------------------------- |
+| About myself | I'm a family member | **Collect submitter (family member’s) postal code** |
+
+### About someone else
+
+#### Flow 2.1
+`AND` About someone else
+
+`AND` I'm the Veteran
+
+`THEN` **collect family member’s postal code**
+
+| `AND`                        | `AND`             | `THEN`                                    |
+| -------------------------- | --------------- | --------------------------------------- |
+| About someone else | I'm the Veteran | **Collect family member’s postal code** |
+
+#### Flow 2.2.1
+
+`AND` About someone else
+
+`AND` I'm a family member
+
+`AND` `family_relationship`
+
+`AND question is about` The Veteran
+
+`THEN` **collect Veteran’s postal code**
+
+| `AND`                   | `AND`               | `AND`             | `AND question is about` | `THEN`                      | 
+| --------------| -------------------- | --------------------------- | --------------------- | ------------------------------- |
+| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | **Collect Veteran’s postal code** |
+
+#### Flow 2.2.2
+`AND` About someone else
+
+`AND` I'm a family member
+
+`AND` `family_relationship`
+
+`AND question is about` Other family member (not the Veteran or me)
+
+`THEN` **collect other family member’s postal code**
+
+| `AND`                        | `AND`                              | `AND`                                 | `AND question is about` | `THEN`                                          |
+| -------------------------- | -------------------------------- | ----------------------------------- | --------------------- | --------------------------------------------- |
+| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | **Collect other family member’s postal code** |
+
+#### Flow 2.3
+`AND` About someone else
+
+`AND` I'm a connected to the Veteran through my work
+
+`AND` `work_role` 
+
+`AND question is about` The Veteran
+
+`THEN` **collect Veteran’s postal code**
+
+| `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `THEN`                                      
+| -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | -----------------------------------------|
+| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | **Collect Veteran’s postal code** |
 
 ### A general question
 
-`IF TOPIC =`
+#### Flow 3.1
+`AND` A general question
 
- - Caregiver support program
+`THEN` **collect submitter’s postal code**
 
-`THEN` **collect Veteran's postal code**
-
-| `IF TOPIC =`               | `THEN`                              |
-| ------------------------- | --------------------------------- |
-| Caregiver support program | **Collect Veteran's postal code** |
+| `AND`                     | `THEN`                                      |
+| ----------------------- | ----------------------------------------- | 
+| A general question  | **Collect submitter’s postal code** |
 
 ### Why do we collect this information?
 
-These VHA offices are national, versus being a medical facility. When they need to direct someone to a medical facility, the postal code helps them locate which facility would be best. Also, the Caregiver Support Program requires the Veteran's postal code because it helps them provide local resources.
-
-In the future we should seek to understand why we're always collecting Veteran postal code instead of the subject of the inquiry, who could be or not be the same as the Veteran.
+These VHA offices are national. They may need to direct someone to a local medical facility or share local resources, in which case they need the postal code for the person who the inquiry is about.
