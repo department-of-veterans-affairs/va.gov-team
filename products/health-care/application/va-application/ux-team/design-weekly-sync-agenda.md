@@ -1,5 +1,37 @@
 # Design Weekly Sync Agenda
 
+## 2024-06-03
+Attendees: Angela, Jessica, Hieu, Katelyn, Lois, and Matt K.
+
+**Figma Clean-up**
+- team agrees to add Note at the bottom of mockup for misalligments and to-do. Anyone can add notes to any product.
+
+**Decision Log** 
+- Angela will attempt the UX’s first decision log.
+- The formal Github log will include major decision decision with names of everyone involved. It will be like a table-of-table with high-level view with link tickets.
+- Heather has a timeline of decisions including development and product.
+- For making tables in github: https://tabletomarkdown.com/convert-spreadsheet-to-markdown/ 
+
+**Analytics**
+- Lois can provide MHV resources that from the broader team. 
+- Lois asked about C-set and Medalia, consider if we need to store some of the information ourselves. 
+- At a later meeting, Luis notes that the changed in URL may be why showing is impacted. Domo ingested mostly Google Data and Medalia data. The dashboard has VA KPI forms and has Medalia info at the bottom. And we only pull raw data every 3-4 months since since 1 month of data is hard to analyze. 
+- Luis as no information on C-set, he will ask Platform Analytics team during their open office hours.
+
+**EZR v2 Research Plan**
+- Lois notes the need for a hypothesis, Hieu notes it is around validation the team’s decision with evidence to go with the Confirmation flow.
+- Lois has Prototype matrix to share.
+- Quality vs quantitive (how can we get a benchmark then a released product, can we get a large number of test users?)
+
+**CG**
+- CG stakeholder wants to change it to 1-to-1
+
+**TERA questions**
+- HEC allows for the division of the gulf war date (2 questions)
+
+
+
+
 ## 2024-05-13
 Attendees: Angela, Jessica, Hieu, Katelyn, Luis, Kristen and Lois
 
