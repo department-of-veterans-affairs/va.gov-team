@@ -44,6 +44,7 @@
   - [Kanchana Suriyamoorthy](https://dsva.slack.com/team/U02EFEF4ZB2)
 - DevOps Engineers
   - [Nathan Douglas](https://dsva.slack.com/team/U01DADWHLM6)
+  - [Eric Oliver](https://dsva.slack.com/archives/D06M78EK1JM)
 
 ## Terminology
 - **Pre-Registration:** The verification of up to date insurance information, contact information, next of kin, and emergency contact information for VA medical appointments. As a VHA Directive, pre-registration must be completed at least once within 7 days of an appointment and does not need to be completed again if another appointment is within 7 days of its completion.  
@@ -59,12 +60,17 @@
 - [Product Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-guides)
 - [Other Product FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/faqs/faqs.md)
 - [Product Demo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/product/product-demos#product-demo)
-- PCI Service Blueprint with 45MR, filing BT claim and "Are you at the facility?" page [[Review Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286) [[Download PDF]]https://github.com/department-of-veterans-affairs/va.gov-team/files/15504772/PCI.Service.Blueprint_2024-05-30_19-13-58.pdf) [[Download from SharePoint]](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/Ec8XLnzURmlBkvUn0uGs2xIBs_wvb9M_NrUHMULmwGKvjg?e=ZlSzUL)
-- Review BT app at OH sites service blueprint in [Sharepoint](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EauN-T6HLZZDmLfjGpUW7OkBtcPngYEHDD94AErO0SIsWA?e=dkMYaf) or [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
+- PCI Service Blueprint with 45MR, filing BT claim and "Are you at the facility?" page
+    - [[Review Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696788763395/d3aa60a7420ece422a6f6b84659c33350279b782?sender=u37bb983bd3fc3cc00c7d3286)
+    - [[Download PDF]](https://github.com/department-of-veterans-affairs/va.gov-team/files/15504772/PCI.Service.Blueprint_2024-05-30_19-13-58.pdf)
+    - [[Download from SharePoint]](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/Ec8XLnzURmlBkvUn0uGs2xIBs_wvb9M_NrUHMULmwGKvjg?e=ZlSzUL)
+- Review BT app at OH sites service blueprint in
+    - [Sharepoint](https://dvagov-my.sharepoint.com/:b:/g/personal/benjamin_brasso_va_gov/EauN-T6HLZZDmLfjGpUW7OkBtcPngYEHDD94AErO0SIsWA?e=dkMYaf) or
+    - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707427471672/75fb6b9eea27c7b854e8b31c0e9017e2a54bb95a?sender=u37bb983bd3fc3cc00c7d3286)
 
 #### Priorities, Backlog, Sprints
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531667299/7e7c858244db550198c2f8f29f6e2919eec44d9e?sender=uc584f7fcc9a5090000259578)
-- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/check-in-experience-61fc23a2cb8a14001132e102/roadmap)
+- [Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714403412177/fd1fb43d5dc2f567e69bba8d25fb7daa1e5667e2?sender=uc584f7fcc9a5090000259578)
 - [Scrum Board](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/board?repos=133843125)
 - [Sprint Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprints/sprint-goals.md)
 - [Sprint Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/sprintdemo/readme.md) 
