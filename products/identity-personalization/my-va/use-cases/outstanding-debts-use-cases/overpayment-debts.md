@@ -1,5 +1,5 @@
 # My VA Outstanding Debts Use Case: Overpayment Debts
-**Last updated: December 14, 2022**
+**Last updated: June 4, 2024 - replaced links**
 
 For LOA3 users who sign in and have outstanding overpayment debts, we will show a card for overpayment debts in the Outstanding Debts section on My VA.
 
@@ -10,7 +10,7 @@ For LOA3 users who sign in and have outstanding overpayment debts, we will show 
 * This card is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Outstanding debts header on mobile.
 * Uses the [card component](https://design.va.gov/components/card) from the VA design system.
 * [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E5951AEA-0F34-4DE1-9C1F-EFD06B89483B)
-* [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/FE1C40BC-5688-46E8-8E23-982C2BC71CE3)
+* [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-135&t=c2OqcG9WOavV8QTN-1)
 
 ## How to reproduce
 * Find a staging user who has overpayment debts in the [overpayment debts staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myva-payment-info-v2.md#test-cases-for-outstanding-debts-section), or inquire with **benefits team 2** in slack (`#benefits-team-2`) for test users with outstanding overpayment debts.
