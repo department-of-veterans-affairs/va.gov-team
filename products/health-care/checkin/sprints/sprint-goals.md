@@ -31,8 +31,7 @@
         - ❗🟦🟩🟥🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
-        - 🟩 [SPIKE [FE] Update OH Travel Application for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)
-        
+        - 🟩 [SPIKE [FE] Update OH Travel Application for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)        
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Discovery - Multiple Selection of Appts**
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
