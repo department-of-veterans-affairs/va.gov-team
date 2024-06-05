@@ -4,9 +4,30 @@
 
 This document is meant to record ideas and strategies for our next steps on the My HealtheVet landing page. 
 
+**Jump to:**
+
+
+[Landing page feature ideas Mural - Actionable HMWs](#Landing-page-feature-ideas-Mural)
+
+
+[Key findings](#key-findings)
+
+
+[Recommendations](#recommendations)
+
+
+[Who we talked to](#who-we-talked-to)
+
+
+[Further research needed](#further-research-needed)
+
+<br>
+
 ## Relevant Links and takeaways 
 
-### [Landing page feature ideas Mural - Actionable HMWs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710953657694/ddfcad42ffa0af5e22ebeee9db17867436513217?sender=u24af215c7d9bf806b8545488)
+### Landing page feature ideas Mural
+
+[Landing page feature ideas Mural - Actionable HMWs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710953657694/ddfcad42ffa0af5e22ebeee9db17867436513217?sender=u24af215c7d9bf806b8545488)
 
   - **Non-4 tool links eaesier to find**
     - Surface links on the LP for harder to find tools
