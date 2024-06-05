@@ -139,7 +139,7 @@ _**Participant starts at Text message:**_
 
 - Now, imagine you just received this text message from VA about a referral. 
 
-- Go ahead and review it. (and please think out loud as you go)
+- Go ahead and review it.
 
 - Is there anything that's confusing about this information?
 
@@ -180,12 +180,12 @@ _**Participant is at Appointment list:**_
   - Did you notice anything about a referral? 
   - Did you notice the box at the top of the page? What does that mean to you?
 
-- Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to ______.
+- Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message.
 
 ---
 
 _**Participant is on referral page:**_
-- Is there anything confusing about this page and the information included here?
+- Is there anything confusing about the information on this page?
 
 - Is there anything missing you’d expect to find on this page?
 
@@ -194,6 +194,7 @@ _**Participant is on referral page:**_
 - Ok, go ahead and continue.
 
 ---
+
 _**Participant is on provider page:**_ 
 - Great. Before you do anything here, I have a few questions: 
 
@@ -203,27 +204,31 @@ _**Participant is on provider page:**_
 
 - And without doing it yet, what would you do next on this page?
 
-- Walk me through what you would do if you had specific criteria for when a provider was available? 
+- Ok thanks, and what would you do if you wanted to search for providers with specific criteria or availability?
+
+- Go ahead and walk me through that.
+  
   - _If needed:_
     - Did you notice any way to choose information about the provider you want?
     - Did you notice the link that says filter? Go ahead and click on that.
+   
 
 ---
 
 _**Participant is on filter page:**_ 
 
-_Instruct participant to select FEMALE, and SPANISH._
-
-- Ok could you walk me through and tell me about this page?
+- Tell me about this page?
   _- If needed:_ Is there anything confusing about this page and the information included here?
 
-- _If calendar selection is not mentioned:_ Tell me about the first selection option there. 
+- _If calendar selection is not mentioned:_
+  - Tell me about the first selection option there.
+  - Go ahead and select June 26.
 
-- _If online shcheduling option is not mentioned:_ What about the second option there, what does that mean to you?
+- _If online shcheduling option is not mentioned:_ And what about the second option there, what does that mean to you?
  
 - _(If not yet mentioned)_ If the provider you were looking for did NOT have the option to schedule online, would you expect to find information on that provider here? 
-    - If yes: What information would you expect?
-    - If not: Could you tell me more about that?
+    - _If yes:_ What information would you expect?
+    - _If not:_ Could you tell me more about that?
 
 - Is there anything missing you’d expect to find on this page?
 
@@ -233,6 +238,7 @@ _Instruct participant to select FEMALE, and SPANISH._
 
 
 ---
+
 _**Participant is on 2nd provider page:**_
 - Tell me about this page now.
   
@@ -247,7 +253,6 @@ _**Participant is on 2nd provider page:**_
 
 ---
 
----
 _**Participant is on choose time and date page:**_
 - Is there anything confusing about this page and the information included here?
   
