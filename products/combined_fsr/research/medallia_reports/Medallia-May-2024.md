@@ -195,3 +195,9 @@ The VFS Debt Team is currently working with VHA and VBA to implement payment his
 
 `None of the phone numbers listed work`
 
+# Visualizations (in progress):
+
+![How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?-2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/123019973/f14cf0c6-8285-45ba-92b0-118f2ddd7743)
+
+
+
