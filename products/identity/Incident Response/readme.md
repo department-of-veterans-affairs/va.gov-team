@@ -3,7 +3,7 @@
 ## Overview: 
 Now that we have created our [Service Level Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Login%20SLO/SLIs_and_SLOs.md) and published our [Service Level Agreements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/SLA/identity_SLA_template.md), it is time to create procedures surrounding what happens when incidents arise relating to those agreements.
 
-This is a part of the book of work that maps to _O1KR2: VA.gov authentication SLOs are developed._
+This is a part of the book of work that maps to _O1-KR2: VA.gov authentication SLOs are developed._
 
 
 ## Problem Statement: 
