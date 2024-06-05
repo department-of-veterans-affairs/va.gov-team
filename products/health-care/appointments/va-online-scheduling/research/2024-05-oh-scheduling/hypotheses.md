@@ -2,18 +2,81 @@
 
 We'll use these when developing the research plan. Our main goal is to test the OH integration. 
 
+## As a Veteran, I can schedule an appointment at an Oracle Health facility.
 
-## Oracle Health Integration
+### Scenario to test
 
-### Hypotheses 
+A Veteran schedules an appointment without selecting a provider or a clinic.
+
+### Hypothesis
+
+Veterans will not expect to choose a clinic or provider when choosing a time slot.
+
+## As a Veteran, I can easily schedule at locations I've recently attended.
+
+### Scenario to test
+
+A Veteran chooses from a list of their recent locations when scheduling an appointment.
+
+### Hypotheses
+
+- Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
+- Veterans will want to be able to choose from their recently scheduled appointments
+
+## As a Veteran, I can quickly schedule from previous appointments
+
+### Scenario to test
+
+When scheduling, a Veteran is offered the option skip directly to choosing a time by scheduling into previously attended appointments.
+
+### Hypotheses
+
+- Veterans will want a shortcut to schedule appointments similar to those they've had in the past. 
+- Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly. 
+
+## As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies
+
+### Scenarios to test
+
+A Veteran encounters the urgent need warning:
+- When selecting a type of care
+- When the reason for appointment includes sever or alarming signs and symptoms
+- When the PID is today
+
+### Hypotheses
+
+- Veterans will find these warnings necessary
+- Veterans will find these warnings helpful
+
+## As a Veteran, I want to be alerted when appointments events happen so I know exactly what I need to do next
+
+### Scenario to test
+
+A Veteran receives a new notification
+A Veteran reviews their list of notifications including:
+- They have received a new referral for community care
+- Staff has canceled their appointment
+- Others TBD
+
+### Hypothesis
+
+- Veterans will be able to find their notifications without prompting
+- Veterans will understand how to review their notifications
+- Veterans will find their notifications helpful
+
+## Not testing
+
+### As a Veteran, I can choose my provider when scheduling at an OH facility
+
+#### Hypotheses 
 
 Veterans will want to choose a specific provider for most types of care.
 - Do their needs change between Primary care and specialty?
 - Do their needs change between established care and new care?
 
-Veterans will want to choose a provider by whoever has the soonest availability
+Veterans will want to choose a provider by whoever has the soonest availability.
 
-### Scenarios
+#### Scenarios to test
 
 1. A Veteran wants to schedule an appointment for primary care with their established provider.
 
@@ -24,25 +87,6 @@ Veterans will want to choose a provider by whoever has the soonest availability
 3. A Veteran scheduling an appointment for specialty care (like weight management) at an OH facility selects the "any provider" option.
 
 4. A Veteran scheduling an appointment for specialty care (like eye care) at an OH facility selects "I need a different provider"
-
-
-## Scheduling Improvements
-
-Note - all are TBD
-
-### Hypotheses
-
-When searching for a new location, Veterans will expect to see all locations near them, not just where they are registered.
-
-Veterans will want to choose a location where they've recently scheduled an appointment.
-
-Veterans want to be a shortcut to schedule appointments similar to those they've had in the past. 
-
-Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly. 
-
-Veterans need reminders that the scheduling tool is not for emergencies.
-
-
 
 
 
