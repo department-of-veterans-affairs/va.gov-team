@@ -48,10 +48,9 @@ When scheduling, a Veteran is offered the option skip directly to choosing a tim
 
 ### Scenarios to test
 
-A Veteran encounters the urgent need warning:
-- When selecting a type of care
+A Veteran encounters the urgent need warning: 
 - When the reason for appointment includes sever or alarming signs and symptoms
-- When the PID is today
+- When they select TOC" I need immediate care" 
 
 ### Hypotheses
 
