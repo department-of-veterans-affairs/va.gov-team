@@ -10,7 +10,7 @@ This document is meant to record ideas and strategies for our next steps on the 
 [Landing page feature ideas Mural - Actionable HMWs](#Landing-page-feature-ideas-Mural)
 
 
-[Key findings](#key-findings)
+[Story mapping exercise](#Story-mapping-exercise)
 
 
 [Recommendations](#recommendations)
@@ -40,7 +40,9 @@ This document is meant to record ideas and strategies for our next steps on the 
     - Let Veterans know on the LP when they're eligible for more med supplies and meds
     - Remind Veteran of upcoming appointment(s)
  
-### [Story mapping exercise Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717089151048/931c1950a57f2e6c5a7bb3f826dc729950bbb966?sender=u24af215c7d9bf806b8545488)
+### Story mapping exercise
+
+[Story mapping exercise Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717089151048/931c1950a57f2e6c5a7bb3f826dc729950bbb966?sender=u24af215c7d9bf806b8545488)
 
  - **Ideas**
    - Recently seen care provider(s)
