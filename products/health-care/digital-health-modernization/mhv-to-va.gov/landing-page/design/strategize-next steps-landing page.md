@@ -13,13 +13,8 @@ This document is meant to record ideas and strategies for our next steps on the 
 [Story mapping exercise](#Story-mapping-exercise)
 
 
-[Recommendations](#recommendations)
+[My HealtheVet onsite notification desk research](#My-HealtheVet-onsite-notification-desk-research)
 
-
-[Who we talked to](#who-we-talked-to)
-
-
-[Further research needed](#further-research-needed)
 
 <br>
 
@@ -60,4 +55,6 @@ This document is meant to record ideas and strategies for our next steps on the 
    - Notification settings
    - Get reimbursed
 
-### [My HealtheVet onsite notification research] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695832058564/28ef4d0bdc3c62e6fe45714639efceefe554c8b5?sender=u24af215c7d9bf806b8545488)
+### My HealtheVet onsite notification desk research
+
+[My HealtheVet onsite notification research] (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1695832058564/28ef4d0bdc3c62e6fe45714639efceefe554c8b5?sender=u24af215c7d9bf806b8545488)
