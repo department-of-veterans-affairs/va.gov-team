@@ -23,4 +23,4 @@ These are resources created while working on the `vaec-cie` migration through th
 
 ## Systems Manager
 
-- `/checkin/vpc/(dev|int|stg|prod)_vpc_endpoint_id`: VPC endpoint ID for a givne ID.
+- `/checkin/vpc/(dev|int|stg|prod)_vpc_endpoint_id`: VPC endpoint ID for a given ID.
