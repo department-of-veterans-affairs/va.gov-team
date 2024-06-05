@@ -112,6 +112,7 @@ Example:
             "asbestos": true,
             "chemical": true,
             "mos": true,
+            "mustardgas": true,
             "radiation": true,
             "water": true,
             "none": false,
