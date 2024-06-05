@@ -62,11 +62,12 @@ A Veteran encounters the urgent need warning:
 
 ### Scenario to test
 
-A Veteran receives a new notification
-A Veteran reviews their list of notifications including:
-- They have received a new referral for community care
-- Staff has canceled their appointment
-- Others TBD
+- A Veteran receives a new notification
+
+- A Veteran reviews their list of notifications including:
+    - They have received a new referral for community care
+    - Staff has canceled their appointment
+    - Others TBD
 
 ### Hypothesis
 
