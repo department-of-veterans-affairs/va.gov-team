@@ -80,17 +80,15 @@ Thanks!
 
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
-## 1: Type of Care - Food and nutrition (Request Flow)
-I need a different type of care>Nutrition and food>Grove City, OH> 
-Prompt: You need a food and nutrition appointment. How would you schedule that?
+## 1: Type of Care - Food and nutrition 
+I need a different type of care>Nutrition and food>Grove City, OH>PID
+Prompt: You need to schedule an appointmen, how would you do that?
+On the Schedule an appointment page: What do you think you can do on this page? Would scheduling with a clinc or provider you have seen in the past be helpful for you?  
+You need a food and nutrition appointment. How would you schedule that?
 On the Choose a location page: Do you see how these locations are sorted? What do you think that means? Is sorting by recent location something you would want or would you change how it is sorted to something else? Go ahead and change it to sort by home address and find grove city, OH andcontinue.
-On the PID page: 
+On the PID page: You need an appointment for ___ date show me how you would schedule that.
 
 
-
-**Follow up:**
-- What are your thoughts on this page?
-- What other tasks do you notice on this page?
 
 #### Things to watch for:
 
