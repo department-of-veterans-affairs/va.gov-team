@@ -20,3 +20,7 @@ These are resources created while working on the `vaec-cie` migration through th
 - `global/github_bot_token`: GitHub personal access token for the [Check-In Experience GitHub Bot](https://github.com/VAeCheckinAPIGHA-bot).
 - `(dev|int|stg|prod)/lorota/jwt_key`: JWT signing/verification key.
 - `(dev|int|stg|prod)/lorota/hash_salt`: Hash salt.
+
+## Systems Manager
+
+- `/checkin/vpc/(dev|int|stg|prod)_vpc_endpoint_id`: VPC endpoint ID for a givne ID.
