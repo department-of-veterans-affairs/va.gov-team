@@ -1,6 +1,6 @@
 # Forms Status on My VA Usability Study Readiness Checklist
 
-### Go/No-Go: _______
+### Go/No-Go: 6/5/2024
 
 ### Decision: ________ 
 
