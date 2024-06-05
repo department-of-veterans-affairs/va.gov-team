@@ -18,3 +18,5 @@ These are resources created while working on the `vaec-cie` migration through th
 
 - `global/datadog/tevi/api_key`: Datadog API key for the Tevi Datadog instance.
 - `global/github_bot_token`: GitHub personal access token for the [Check-In Experience GitHub Bot](https://github.com/VAeCheckinAPIGHA-bot).
+- `(dev|int|stg|prod)/lorota/jwt_key`: JWT signing/verification key.
+- `(dev|int|stg|prod)/lorota/hash_salt`: Hash salt.
