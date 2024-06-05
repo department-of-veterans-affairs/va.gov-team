@@ -111,7 +111,7 @@ The numbers above are equivalent to the amount of qualitative feedback and wheth
 
 A few Veterans left feedback describing significant life stressors  that have led to the accumulation of their debt:
 
-Veteran Feedback:
+**Veteran Feedback:**
 
 `Unable to access debt record and respond to debt letter. As a Gold Star surviving spouse receiving this debt letter and then having to go through this process is horrible. My family has a much bigger debt taken by the loss of my husband rather than a seven hundred dollar education benefit debt. The website was not helpful and unable to provide information that is directly mentioned in the letter as a point of reference.`
 
@@ -120,13 +120,13 @@ This Veterans points out a discrepancy in information provided in the debt lette
 - This feedback highlights the importance of the principle of consistency across all channels of communication with the Veteran (information contained in VA debt letters, on the debt portal, and in call center communications should match and be consistent to avoid confusion and inspire trust)
 
 
-Veteran Feedback:
+**Veteran Feedback:**
 
 A Veteran describes difficulty with balance and debt details findability, and the impact of not receiving housing allowance which resulted in them being unable to finish an education program.
 
 `Trying to check the balance and details on a debt that I shouldn't even be paying. Someone please explain this to me. I am paying a debt because I only went to [redacted] school for two months before I stopped but during those two months I never received any housing allowance which is over $2000. Which is the main reason I quit because I couldn't afford childcare Without housing allowance. Yet Somehow I am the one that owes you all money, but you never paid me my housing allowance and that is bull crap. Not to mention the fact it was during Covid. The mother of my children just up and left me with my two sons three and four years old at the time but I guess that's not good enough reason to help a unemployable veteran in a horrible situation. You guys really [expletive] me with VA G.I. Bill Benefits. Since I've struggled to go to school, I've owed and paid more money to you all than you all have paid to any school. I actually paid for a school that you approved in my letter of eligibility. I paid cash out of my hand for that school and you never paid me back. No housing allowance while I was in that [redacted] school no money back for tuition. It's disgusting.`
 
-Veteran Feedback:
+**Veteran Feedback:**
 
 A Veteran describes how a new claim decision took too long to resolve which resulted in a debt.
 
@@ -135,7 +135,7 @@ A Veteran describes how a new claim decision took too long to resolve which resu
 
 `new claim decision took too long resulting in a debt. it was semi easy to begin a claim.`
 
-Veteran Feedback:
+**Veteran Feedback:**
 
 **We note that Veterans are cross-referencing information contained in the different VA channels of communication for validity and reassurance, further highlighting the importance of consistency across channels noted above.**
 
