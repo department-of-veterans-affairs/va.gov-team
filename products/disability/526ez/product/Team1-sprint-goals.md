@@ -13,6 +13,7 @@ Period - 06/05/2024 - 06/18/2024
 - **Submission Experience**
     - Finalize design for "Give Veteran clear expectation on claim status."
     - Get engineering feasibility for TTN&T
+        - Prioritize "Give Veteran clear expectation on claim status.", work through feasibility of future iterations as time allows.
 
 ## Sprint 32
 Period - 05/22/2024 - 06/04/2024
