@@ -21,14 +21,17 @@
 - **GOAL: Support Production**
     - **Sub Goal: Production Support**
         - ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
-        - ❗🟦 [Implement Solution to Handle BTSSS API Timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83026)
+        - ❗🟥 [[UX] Create new text message to inform veteran about claim submission and some issues processing the claim ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84767)
+        - ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
+        - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+        - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
         - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
-        - ❗🟦🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
+        - ❗🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
         - 🟩 [SPIKE [FE] Update OH Travel Application for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)        
@@ -37,8 +40,6 @@
         - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 Brian to create tickets for "new" MVP
-        - 🟦 [[BE] Appointments Controller: merge clinics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
-        - 🟦 [[BE] Implement Controller](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
     - **Sub Goal: Translate Content**
       - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
