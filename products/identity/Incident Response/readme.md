@@ -57,7 +57,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 
 ## High-Level Use Cases:
 * As a VA.gov team member, I would like the Identity team to create a process for incident response, so that I may know what to expect when there are service outages.
-* As a Va.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot login
+* As a Va.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot currently login.
 
 
 ## Assumptions:
