@@ -3,14 +3,6 @@
 We'll use these when developing the research plan. Our main goal is to test the OH integration. 
 
 
-3. **Tailored and timely urgent medical need alerts will improve the responsiveness and appropriateness of care for Veterans.**
-   - When the reason for the appointment includes severe or alarming signs and symptoms
-   - When the user selects "I need immediate care"  
-
-4. **Improvements to the Patient Indicated Date (PID) functionality will be positively received by users.**
-
-5. **Notifications are viewed as helpful**## As a Veteran, I can schedule an appointment at an Oracle Health facility.
-
 ### Scenario to test
 
 A Veteran schedules an appointment without selecting a provider or a clinic.
