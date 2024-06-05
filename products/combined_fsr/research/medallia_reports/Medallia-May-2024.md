@@ -6,11 +6,15 @@
 
 The majority of the issues and concerns described by Veterans in May corroborate previous findings, including but not limited to:
 
-**Needs debt accounting details
-Findability and navigation issues 
-Unable to download debt letters or statements 
-Payment update discrepancy (an issue described in previous reports)
-Sign in difficulties**
+**Needs debt accounting details**
+
+**Findability and navigation issues**
+
+**Unable to download debt letters or statements**
+
+**Payment update discrepancy (an issue described in previous reports)**
+
+**Sign in difficulties**
 
 The feedback also reinforces the importance of the service design and digital principle of consistency across the different channels of VA communication which is a top priority and serves to reinforce trust in VA (mail, digital, and in person/call center).
 
