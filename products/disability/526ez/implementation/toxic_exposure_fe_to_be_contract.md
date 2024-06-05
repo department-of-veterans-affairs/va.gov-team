@@ -110,8 +110,12 @@ Example:
           },
           "otherExposures": {
             "asbestos": true,
+            "chemical": true,
+            "mos": true,
             "radiation": true,
-            "mustardgas": false
+            "water": true,
+            "none": false,
+            "notsure": false
           },
           "otherExposureDetails": {
             "asbestos": {
