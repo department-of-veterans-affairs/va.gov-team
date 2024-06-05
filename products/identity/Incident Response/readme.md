@@ -7,7 +7,7 @@ This is a part of the book of work that maps to _O1-KR2: VA.gov authentication S
 
 
 ## Problem Statement: 
-We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov, we need to implement and communicate a formalized Incident Response process which includes the following:
+We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov teams, we need to implement and communicate a formalized Incident Response process which includes the following:
 * Incident Management System
 * Outage Communication strategy for Veterans and other VA.gov teams.
 * System recovery process.
