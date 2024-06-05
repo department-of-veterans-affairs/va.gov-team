@@ -2,7 +2,14 @@
 
 We'll use these when developing the research plan. Our main goal is to test the OH integration. 
 
-## As a Veteran, I can schedule an appointment at an Oracle Health facility.
+
+3. **Tailored and timely urgent medical need alerts will improve the responsiveness and appropriateness of care for Veterans.**
+   - When the reason for the appointment includes severe or alarming signs and symptoms
+   - When the user selects "I need immediate care"  
+
+4. **Improvements to the Patient Indicated Date (PID) functionality will be positively received by users.**
+
+5. **Notifications are viewed as helpful**## As a Veteran, I can schedule an appointment at an Oracle Health facility.
 
 ### Scenario to test
 
@@ -21,7 +28,7 @@ A Veteran chooses from a list of their recent locations when scheduling an appoi
 ### Hypotheses
 
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
-- Veterans will want to be able to choose from their recently scheduled appointments
+– The Veterans will appreciate and find value in the default "Sort by Recent locations"
 
 ## As scheduling staff, I know what date a Veteran preferred to schedule their appointment
 
@@ -41,10 +48,11 @@ When scheduling, a Veteran is offered the option skip directly to choosing a tim
 
 ### Hypotheses
 
-- Veterans will want a shortcut to schedule appointments similar to those they've had in the past. 
+– Veterans will want a shortcut to schedule appointments similar to those they've had in the past. 
+- Veterans will have a distinct preference to scheduling using the past provider or clinic flow compared to the "type of care" route.
 - Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly. 
 
-## As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies
+## As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance. 
 
 ### Scenarios to test
 
@@ -56,6 +64,7 @@ A Veteran encounters the urgent need warning:
 
 - Veterans will find these warnings necessary
 - Veterans will find these warnings helpful
+- Veterans will find that the alert is timely and appropriate
 
 ## As a Veteran, I want to be alerted when appointments events happen so I know exactly what I need to do next
 
