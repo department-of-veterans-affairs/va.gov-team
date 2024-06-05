@@ -1,16 +1,4 @@
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 4.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 **Signing in to VA.gov**
 
 In order to access and manage your VA benefits and health care online, you need to create an account with one of our sign-in partners, Login.gov or ID.me. Login.gov is an account created, maintained, and secured by the U.S. government. It is built on modern security standards to protect your data. Similarly, ID.me is a commercially-owned account that also meets modern security standards. Using either of these sign-in partners, you’ll have access to all of VA’s online services, such as VA.gov, My HealtheVet, VA/DoD eBenefits, VA’s mobile app, and more, all under one username and password.
