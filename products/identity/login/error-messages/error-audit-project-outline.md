@@ -1,6 +1,6 @@
 # Project outline: Sign-in errors | Audit and updates
 
-**Last updated: June 3, 2024**
+**Last updated: June 5, 2024**
 
 ## Table of Contents
 
