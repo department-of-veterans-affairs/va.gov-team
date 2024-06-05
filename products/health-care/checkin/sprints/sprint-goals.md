@@ -15,7 +15,7 @@
 - **GOAL: Address Tech Debt**
   
 #### PLANNED RELEASES
-- Medication Wording for Appointments - Pre-Check-in
+- NONE
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -29,9 +29,10 @@
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - ❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
-        - ❗🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
+        - We will need to go through staging review with Appts team before we release
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
         - 🟩 [SPIKE [FE] Update OH Travel Application for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)        
