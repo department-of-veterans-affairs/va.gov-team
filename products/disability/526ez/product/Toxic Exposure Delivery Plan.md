@@ -109,9 +109,10 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 **Environment**: MVP Ship - Production     
 **Building Blocks:**    
  - [ ] Staging review.
+     - [ ] Product guide updated.
+     - [ ] TestRail updated
  - [ ] Bug Bash.
  - [ ] Security review.
- - [ ] Product guide updated.
  - [ ] Contact center review.
  - [ ] Rollback plan in place.
  - [ ] Submit & generatePDF release will update Veterans to using the 2022 PDF with Toxic Exposure questions.
