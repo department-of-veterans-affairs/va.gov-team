@@ -23,6 +23,16 @@ A Veteran chooses from a list of their recent locations when scheduling an appoi
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
 - Veterans will want to be able to choose from their recently scheduled appointments
 
+## As scheduling staff, I know what date a Veteran preferred to schedule their appointment
+
+### Scenario to test
+
+A Veteran chooses their preferred date from an improved date picker.
+
+### Hypothesis
+
+Veterans will be able to select a preferred date faster and more easily than in the current flow.
+
 ## As a Veteran, I can quickly schedule from previous appointments
 
 ### Scenario to test
