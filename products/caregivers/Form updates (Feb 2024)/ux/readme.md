@@ -4,11 +4,11 @@
 - [Figma working ticket file](https://www.figma.com/file/TxXD5bGUOhbHHWLb85GPjK/10-10CG?type=design&node-id=376-15166&mode=design&t=Mr2muMTvCsSXtxmr-0)
 - [Mural user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711491442696/6c33e417dbfd2cb893452606262192fcb79a579b?sender=uadf1ed7fe7c76f0914967329)
 - [Figma link to content changes SME document](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=1214-25163&t=U4D0aixhCfiTe1Ht-0)
+- [Figma design decision visuals](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=1069-27287&t=y1s0pUO3YbfvRdDQ-4)
+- [Mobile Prototype](https://www.figma.com/proto/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=1492-24291&t=y1s0pUO3YbfvRdDQ-0&scaling=scale-down&page-id=376%3A15166&starting-point-node-id=1492%3A24291&prev-org-id=external-teams)
 
 ### Summary
 - Updates to the online CG form to a) align with the paper form updates, CARMA processing fields and schema update; and b) align with the latest VADS pattern and component guidance.
-
-
 
 
 ### Design Decisions
@@ -49,6 +49,11 @@
 
 #### Future Notes
 
+**Primary and Secondary Caregiver Clarification**
+- Received non-urgent SME feedback to include more clarification around caregiver roles, eligibility and benefits on the intro page and within the form
+- Have old epic [ON-HOLD - 10-10CG - Primary/Secondary Caregiver clarification #37541]()
+
+
 **Relationship to Veteran question**
 Content standards are to avoid gendered language whenever possible. We discussed updating with the business and the work to update and align their database fields are not an initiative at this time but they did mention it being on their radar to align with VA-wide standards.
 
@@ -70,13 +75,16 @@ Content standards are to avoid gendered language whenever possible. We discussed
 - This just recently became a pattern available in the forms library vs a custom experimental pattern
 - There are slight differences between the custom solution and what is available, will determine in ticket #83290 next steps
 
+
+
 ------
 
 
 ### UX Tickets
-
 - [UX] 10-10CG - Form Update: Update Designs with agreed changes #78497
-- [CAIA intake] Updates to 10-10CG Caregiver Application #81190
+- [[CAIA intake] Updates to 10-10CG Caregiver Application #81190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81190)
 - [UX] 10-10CG Content Review Process for Form Updates #81922
-- [UX] 10-10CG June Form Updates - Stakeholder Content Check Docs #83393
-- [UX, FE] 10-10CG - Improvements: Exploration on adding List & Loop pattern on Secondary Caregiver section #83290
+- [[UX] 10-10CG June Form Updates - Stakeholder Content Check Docs #83393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83393)
+- [[UX]10-10CG Caregiver application post-SME feedback content/design file adjustments #84352](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84352)
+- [[UX, FE] 10-10CG - Improvements: Exploration on adding List & Loop pattern on Secondary Caregiver section #83290](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83290)
+- 
