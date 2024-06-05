@@ -1,4 +1,4 @@
-# Medication Language Locations
+# Medication Language Locations - WIP
 
 All the touchpoints considered for the medication language to appear.
 
@@ -18,8 +18,10 @@ Display on:
 - VA Phone
 
 TBD:
-- Community care (TBD, but assumed yes)
-- Claim exam appointment (TBD, but assumed no)
+- Community care
+     - Unclear if the language would appear here. Asking stakeholders
+- Claim exam appointment
+     - Current instructions say not to bring anything to appointment
 
 **Past**
 Do not display. There is no need to prepare for appointments in the past.
