@@ -1,4 +1,4 @@
-## Research Plan for [Veteran Support, Technical Support (Screensharing), 5/29/2024]
+## Research Plan for [Reimagining Technical Support (Screensharing), 5/29/2024]
 
 
 ## Background
