@@ -1,7 +1,7 @@
+# [Design Review a11y findings] Review of 21-526EZ PTSD and MST Form Updates
+
 > [!NOTE]
 > **Design Review Status:** `Complete`
-
-# [Design Review a11y findings] Review of 21-526EZ PTSD and MST Form Updates
 
 ## Benefits - Disability Experience Team 2
 - **Figma Prototype(s):** `Pending Notification of Updates` Version will be updated for the design review with annotations.
