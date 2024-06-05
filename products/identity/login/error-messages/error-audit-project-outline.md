@@ -85,7 +85,12 @@ As a result, we need to do the following:
 
 ## Solution approach
 
-Potential path forward:
+### Next steps coming out of 6.5.24 meeting between identity and contact center support teams
+
+- Contact center support team is going to meet to figure out what the most common error codes are that refer people to support. We'll use this to determine high priority errors that we might want to update first.
+- In the next sprint, the identity team will review existing VA.gov error documentation, and begin to audit and document AccessVA errors.
+
+### General approach
 
 - Review the existing error documentation to determine what is up-to-date and what needs to be modified.
 - Create an audit of all sign-in errors, expanding the existing documentation as needed.
