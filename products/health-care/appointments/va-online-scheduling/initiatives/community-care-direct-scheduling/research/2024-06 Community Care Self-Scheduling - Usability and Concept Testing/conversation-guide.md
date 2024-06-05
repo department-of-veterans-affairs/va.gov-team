@@ -194,39 +194,55 @@ _**Participant is on referral page:**_
 - Ok, go ahead and continue.
 
 ---
-_**Participant is on provider page:**_ (NEEDS WORK)
-- Is there anything confusing about this page and the information included here?
+_**Participant is on provider page:**_ 
+- Great. Before you do anything here, I have a few questions: 
 
-- If the provider you were looking for did not have the option to schedule online, would you expect to find information on that provider here? What information would you expect?
-- If there are providers near you that you can't schedule with directly online here, what information, if any, would you be interested in having here?
-- Would you also be interesting in seeing information from providers that 
-  
-- How would you prefer to search for a provider?
+- What are the top factors you consider when choosing a provider?
 
-- What would you want to sort based on?
-- And what else would you want to use to search?
+- How would you normally go through finding a provider?
 
-- Walk me through what you would do if you wanted to find a female provider available on July 11, 2024?
+- And without doing it yet, what would you do next on this page?
+
+- Walk me through what you would do if you had specific criteria for when a provider was available? 
   - _If needed:_
     - Did you notice any way to choose information about the provider you want?
-    - Did you notice the link that says filter? (Go ahead and click on that)
+    - Did you notice the link that says filter? Go ahead and click on that.
+
 ---
 
 _**Participant is on filter page:**_ 
-- What would you do next on this page?
-  - If needed: And what about if you wanted an appointment on July 11, 2024.
 
-- Before you move on, Is there anything confusing about this page and the information included here?
+_Instruct participant to select FEMALE, and SPANISH._
+
+- Ok could you walk me through and tell me about this page?
+  _- If needed:_ Is there anything confusing about this page and the information included here?
+
+- _If calendar selection is not mentioned:_ Tell me about the first selection option there. 
+
+- _If online shcheduling option is not mentioned:_ What about the second option there, what does that mean to you?
+ 
+- _(If not yet mentioned)_ If the provider you were looking for did NOT have the option to schedule online, would you expect to find information on that provider here? 
+    - If yes: What information would you expect?
+    - If not: Could you tell me more about that?
 
 - Is there anything missing you’d expect to find on this page?
 
+- What would you do next on this page?
+  
+- Ok, for the purposes of this study, you can go ahead and select [FEMALE] and [SPANISH] and submit those choices.
+
+
 ---
 _**Participant is on 2nd provider page:**_
-- Tell me about this page now and how it has changed.
+- Tell me about this page now.
   
-- What's your understanding of what happened to the list after you selected those choices?
+- What's your understanding of the provider list now that you selected those filter choices?
+  - _If needed:_ How has the page changed?
+  - _If needed:_ How do you know that those choices were applied?
 
 - And how does this match up to what you expected to find on this page?
+
+- Ok, thank you. Let's pretend that the first provider matched what you were looking for. Go ahead and choose that provider.
 
 
 ---
@@ -234,6 +250,9 @@ _**Participant is on 2nd provider page:**_
 ---
 _**Participant is on choose time and date page:**_
 - Is there anything confusing about this page and the information included here?
+  
+- Is there anything missing you’d expect to find on this page?
+ - _Things to watch for:_ Is there any provider information that is not included?
 
 - Walk me through how you would continue from here.
 
@@ -246,7 +265,7 @@ _**Participant is on review/confirm choices page:**_
 
 - What would you do if you wanted to change some of your answers here?
 
-- (And what would you expect to happen when you select edit?)
+- And what would you expect to happen when you select edit?)
 
 - Ok, go ahead and continue.
 
