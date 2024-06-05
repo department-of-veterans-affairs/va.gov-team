@@ -52,7 +52,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 
   
 ## Out of Scope: (for this iteration)
-* Status IO Page
+* Status Page
 * Planned Outage Communications
 
 ## High-Level Use Cases:
