@@ -44,6 +44,7 @@
     - **Sub Goal: Translate Content**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
+        - 🟪 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
