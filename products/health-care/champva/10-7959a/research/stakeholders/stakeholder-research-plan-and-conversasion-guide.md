@@ -2,8 +2,8 @@
 
 ## Research Goals:
 
-* Inform the user journey map for CHAMPVA - specifically within the claim submission portion of their journey.
 * Inform the service blueprint for CHAMPVA - specifically, understand how claims move through the CHAMPVA system, from receipt to reimbursement.
+* Inform the user journey map for CHAMPVA - specifically within the claim submission portion of their journey.
 * Identify known pain points and opportunities for improvement that the digital form could positively impact.
 * Identify gaps in knowledge and communication that the digital form could positively impact.
 * Identify KPIs/OKRs and define the success of digitization from a stakeholder perspective.
