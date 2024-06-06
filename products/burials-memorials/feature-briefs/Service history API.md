@@ -14,22 +14,35 @@ Associated tickets: [#68092](https://github.com/department-of-veterans-affairs/v
 For Burial, Ch 36 PCPG, and COE, the claimants have to manually enter the Veteran/service member's military history, except (in some cases) Burial as mentioned above. The Burial form can upload a DD214 and skip manually entering the deceased Veteran's information. 
 
 We need to determine the best approach for pre-filling a Veteran's Service History through the Service History API to reduce the time it takes to complete each form. 
-We've also heard through other research efforts Veterans complaining why they need to add this information when VA should have this information. 
+We've also heard through other research efforts Veterans are complaining about why they need to add this information when the VA should have it. 
 
 ## Proposed Solution
 
 Learn what information resides in Vet's API and the minimum data required to find a Veteran/service member's military history. Then prefill all information, when military information is found. 
 
-## In of Scope
+## Outstanding questions
+- Can and should we save information to a Veteran's profile or back to Vet's API when they update their military history? How about when non-veteran/service members update it?
+- How can we prevent fraud?
+- What minimum key information do we need to know to search and find a Veteran's service history?
+- What should we do if a non-veteran/service member enters a Veteran's identifying information to find we don't have any military history for that Veteran?
+     - Would we ever not have a Veteran's military history?
+     - For Ch 36, should we allow them to upload their DD214 (if they are discharged) and skip all Service history questions?
+     - What other form can they upload if they are on active duty so that they get to skip some of the service history questions?
 
+## In of Scope
+- Collaborate with OCTO and VBA stakeholders throughout the design process
+- Collaborate with the Profile / Authenticated Experience team
+     - Can and should we save information to a Veteran's profile when they update their military history?
+- Review content changes with CAIA, including any changes needed to the benefits hub content related to the form change
+- Review new designs with the Platform team through the Collaboration Cycle
+- Implement updates
 
   
 ## Out of Scope
 
 
-
 ## Success
-- All online forms prefill the Veteran/service member's military history
+- All non-disability online forms prefill the Veteran/service member's military history
   
 ## Risks
 - Non-Veteran/service member error. Pulling the wrong Veteran's information
