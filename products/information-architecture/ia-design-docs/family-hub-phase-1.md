@@ -155,7 +155,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Aid and attendance or housebound allowance: https://www.va.gov/pension/aid-attendance-housebound/
    - **Get - Additional benefits or services(H3)**
        - Bereavement counseling: https://www.va.gov/burials-memorials/bereavement-counseling/
-       - Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
    - **Manage(H2)**
        - View payment history: https://www.va.gov/va-payment-history/
        - Change direct deposit: https://www.va.gov/change-direct-deposit/
@@ -163,6 +162,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Change your address: https://www.va.gov/change-address/
        - Request a decision review: https://www.va.gov/decision-reviews/
        - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
+       - Find an accredited representative: https://www.va.gov/get-help-from-accredited-representative/
    - **More(H2)**
        - The PACT Act a   nd your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
 
