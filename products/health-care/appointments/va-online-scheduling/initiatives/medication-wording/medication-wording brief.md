@@ -110,7 +110,8 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
    
 ## Screenshots
 
-<img width="313" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/154380850/241bd9b3-f94a-4538-a549-998843e5f8b8">
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/154380850/37f8382b-a758-4c07-bed7-c484e9942c7f)
+
 
 <img width="610" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/154380850/804f0a3e-841b-4277-9d11-8506d1d2af5f">
 
