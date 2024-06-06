@@ -100,11 +100,17 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
   - API
 
 ### Key Decisions
-- Pilot solution
-  -   TBD
-  -   TBD
+- Potential solution
+  - Implementing a hard coded version as soon as the content is approved
+    
+- Pilot Solution
+  - There's research where we pull data from somewhere else. We have a pattern that already exist
+  - Hard code text then go to API [more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-reference/data-reference/data-definitions.md#instructions-prepare-for-telehealth-visit)
+    
+		
+   
 - Future solution
-  -  TBD
+  -  
   -  TBD 
    
 ## Screenshots
