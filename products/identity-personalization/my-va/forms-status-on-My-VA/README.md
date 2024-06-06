@@ -10,7 +10,7 @@ This initative is a collabortion between the Authenticated Experience My VA team
 - **Slack channel**: veteran-facing-forms or accountexp-authexp
 - **Development Epic**: [#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849)
 - **Collab Cycle Epic**: [#80272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80272)
-- **Veteran Facing Forms [outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Product%20Outline.md)**
+- **Veteran Facing Forms [outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Product%20Outline%20Confirmation.md)**
 
 
 ### Roles
