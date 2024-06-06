@@ -12,17 +12,17 @@ Date: 05/2024
 [Findings report](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/032024_usertesting_report.pdf?csf=1&web=1&e=im1vC5), deck, and recording of share out
 
 Jump to:
-- Research Goals
-- Research Questions
-- Methodology
-- Key Findings
-- Details of Findings
-- Tasks and Conclusions
-- Additional Insights
-- Recommendations
-- Next Steps
-- Further Research Needed
-- Appendix
+- [Research Goals](#research-goals)
+- [Research Questions](#research-questions)
+- [Methodology](#methodology)
+- [Key Findings](#key-findings)
+- [Details of Key Findings](#details-of-key-findings)
+- [Tasks and Conclusions](#tasks-and-conclusions)
+- [Additional Insights](#additional-insights)
+- [Recommendations](#recommendations)
+- [Next Steps](#next-steps)
+- [Further Research Needed](#further-research-needed)
+- [Appendix](#appendix)
 
 ## Research Goals
 The Accredited Representative Facing Team is seeking to re-envision the Accredited Representative experience so that they can more seamlessly and accurately help Veterans with their VA interactions, including helping Veterans apply for, manage, and update their VA benefits.
