@@ -176,6 +176,7 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Work-study: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/
        - Testing fee reimbursement: https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/test-fees/
        - Ch 36: https://www.va.gov/careers-employment/dependent-benefits/
+       - Career opportunities for spouses: https://www.va.gov/careers-employment/family-resources/
     - **Get - Additional benefits or services(H3)**
        - Vocational rehabilitation and employment for ppl who qualify: https://www.va.gov/disability/eligibility/special-claims/birth-defects/
     - **Get - Helpful tools(H3)**
