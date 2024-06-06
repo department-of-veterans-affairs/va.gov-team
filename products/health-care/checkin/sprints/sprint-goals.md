@@ -50,6 +50,7 @@
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
         - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
+        - 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
         - 🟩 [[FE] - Removed old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
 </details>
 
