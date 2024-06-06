@@ -45,7 +45,7 @@ This page will live on the same level as verifying enrollments page.
   - Notes: This will be the home for this in the meantime
 
 ### Note for the crosslinks below:
-We'll want to distinguish the global va.gov Profile from the info that will only be used to manage MGIB benefits. Work closely with Sitewide Content to make this clear to Veterans, something along the lines of "updating your info in this tool will not change the info in VA.gov Profile." I defer to Sitewide Content on what that would look like!
+We'll want to distinguish the global va.gov Profile from the info that will only be used to manage MGIB benefits. Work closely with Sitewide Content to make this clear to Veterans, something along the lines of "updating your info in this tool will not change the info in VA.gov Profile." I defer to Sitewide Content's expertise on what that would look like!
 
 2. **[VA.gov Profile](https://www.va.gov/profile)** - Add
   - Placement description:
