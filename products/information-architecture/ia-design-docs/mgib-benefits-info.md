@@ -13,6 +13,7 @@
 - [Redirects](#redirects)
 - Best Bets
 - Staged Rollout
+- [Additional notes](#notes)
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -87,7 +88,11 @@ Current URL | Redirect to | Notes
 
  No redirects needed at this time, but I think we can touch base as we get closer to the integration into Profile so we can connect on what will happen to this page.
 
+## <a name="notes"></a>Additional Notes <br>
 
+#### June 6, 2024
+There is a section on this page titled "pending documents". We recommend the team works with auth experience and forms teams to collaborate on how forms shown here can sync up on upcoming MyVA forms status feature instead.
+![Screenshot 2024-06-06 at 12 11 01 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/49076f65-2b9b-4489-b467-3fb62569953e)
 
 
 <hr>
