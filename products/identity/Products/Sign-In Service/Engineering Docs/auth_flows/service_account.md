@@ -42,12 +42,12 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
 | --- | --- | --- | --- |
 | `iss` | string | issuer of Service Account assertion, must match the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
 | `sub` | string | email of the user requesting the action | `vets.gov.user+0@gmail.com` |
-| `aud` | string | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token |
+| `aud` | string/array | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token, ['http://localhost:3000/v0/sign_in/token'] |
 | `iat` | integer | current time in Unix/Epoch (10 digit) format | 1691702191 |
 | `exp` | integer | assertion should have a 5 minute (300 second) duration | 1691702791 |
-| `scopes` | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
+| `scopes` (optional) | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
 | `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
-| `jti` | string | a random identifier that can be used by the client to log & audit their Service Account interactions | '2ed8a21d207adf50eb935e32d25a41ff' |
+| `jti` (optional) | string | a random identifier that can be used by the client to log & audit their Service Account interactions | 2ed8a21d207adf50eb935e32d25a41ff |
 | `user_attributes` (optional) | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes` array | icn, type, credential_id |
 
 - Create a Service Account assertion payload:
@@ -79,9 +79,10 @@ The VSP Identity team maintains a [Postman collection](https://github.com/depart
   ```
 
 - This Assertion JWT will be validated to ensure
+  - The required attributes are present.
   - The JWT is properly signed by the expected Service Account using the ServiceAccountConfig stored public certificates.
-  - The token is not expired.
-  - The requested permissions are appropriate - *all* scopes in the assertion are a subset of the scopes in the saved ServiceAccountConfig.
+  - The token is not expired and was instantiated in the past.
+  - The requested permissions are appropriate - *all* scopes in the assertion are a subset of the scopes in the saved ServiceAccountConfig. If the saved ServiceAccountConfig does not have any scopes saved the `scopes` attribute is not required.
 
 ### Example Request
 
@@ -142,6 +143,8 @@ Content-Type: application/json
 | ----- | ---- | ---- | ---- |
 | `grant_type` | `urn:ietf:params:oauth:grant-type:jwt-bearer` | 400 | `Grant Type is not valid` |
 | JWT signature | ServiceAccountConfig `certificates` | 400 | `Assertion body does not match signature` |
+| JWT `iat` | presence, Current Time | 400 | `Assertion issuance timestamp is not valid` |
+| JWT `exp` | presence | 400 | `Assertion expiration timestamp is not valid` |
 | JWT `exp` | Current Time | 400 | `Assertion has expired` |
 | JWT encoding | ruby `JWT.decode` | 400 | `Assertion is malformed` |
 | JWT `service_account_id` | ServiceAccountConfig `service_account_id` | 400 | `Service account config not found` |
@@ -149,6 +152,7 @@ Content-Type: application/json
 | JWT `aud` | `<SiS-environment>/sign_in/token` | 400 | `Assertion audience is not valid` |
 | JWT `scopes` | ServiceAccountConfig `scopes` (must include all asserted) | 400 | `Assertion scopes are not valid` |
 | JWT `user_attributes` | ServiceAccountConfig `access_token_user_attributes` | 400 | `Assertion user attributes are not valid` |
+| JWT `sub` | presence | 400 | `Assertion subject is not valid` |
 
 ## Service Account Access Token Validation
 
