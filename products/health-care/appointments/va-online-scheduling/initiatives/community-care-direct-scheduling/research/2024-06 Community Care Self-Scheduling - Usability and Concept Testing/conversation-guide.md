@@ -49,12 +49,12 @@ _*Start recording.*_
 
 - I will be sharing a web page link with you during this session. How would you prefer to receive the url? For example, I could send it through the Zoom (messages) chat or email it to you.
 
-  _If the participant is using a screen reader:_
+_If the participant is using a screen reader:_
   - Are you using a screen reader or other assistive technology today? If so, what type? (For example, VoiceOver.)
   - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
   - How long have you been using that technology?
 
-- _If the participant is using screen magnification:_
+_If the participant is using screen magnification:_
   - Are you using a screen magnification tool today? If so, what type? (For example, Zoom.)
   - And, how would you rate your level of experience with using that technology - beginner, intermediate, advanced or expert?
   - How long have you been using that technology?
