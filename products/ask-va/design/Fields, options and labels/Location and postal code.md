@@ -5,7 +5,7 @@ Last updated by @tygindraux: June 6, 2024
 **Jump to:**
 - [Contact preference rules](#contact-preference)
 - [Guardianship and VR&E rules](#guardianship-and-vre)
-- [Education > VR&E rules](#education--vre)
+  - [Education > VR&E rules](#education--vre)
 - [Health care rules](#health-care)
 - [Pages in Figma](#pages-in-figma)
 
@@ -151,6 +151,8 @@ When we require the location of residence and postal code of the **submitter**, 
 We require location of residence and postal code so we can route to the correct queue.
 
 ## Education > VR&E
+
+This works the same as above, because the VR&E topic should be treated just like the VR&E category.
 
 `IF CATEGORY` = Education benefits and work study
 
