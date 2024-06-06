@@ -14,7 +14,8 @@ Associated tickets: [#68092](https://github.com/department-of-veterans-affairs/v
 For Burial, Ch 36 PCPG, and COE, the claimants have to manually enter the Veteran/service member's military history, except (in some cases) Burial as mentioned above. The Burial form can upload a DD214 and skip manually entering the deceased Veteran's information. 
 
 We need to determine the best approach for pre-filling a Veteran's Service History through the Service History API to reduce the time it takes to complete each form. 
-We've also heard through other research efforts Veterans are complaining about why they need to add this information when the VA should have it. 
+
+We've also heard through other research efforts that Veterans are complaining about why they need to add their military history when the VA should have it. 
 
 ## Proposed Solution
 
