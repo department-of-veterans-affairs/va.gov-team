@@ -28,6 +28,7 @@ Learn what information resides in Vet's API and the minimum data required to fin
      - Would we ever not have a Veteran's military history?
      - For Ch 36, should we allow them to upload their DD214 (if they are discharged) and skip all Service history questions?
      - What other form can they upload if they are on active duty so that they get to skip some of the service history questions?
+- How do processors verify legitimate connection to the Veteran? (pair with Burial VBA folks)
 
 ## In of Scope
 - Collaborate with OCTO and VBA stakeholders throughout the design process
