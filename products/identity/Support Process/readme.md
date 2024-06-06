@@ -28,6 +28,10 @@ The Identity team has products that other teams require our assistance with to d
 - [Requesting Support From The Identity Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/requesting-support-from-Identity.md)
 - [GitHub Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=Identity&projects=&template=1identity-help.yaml)
 - [Satisfaction Survey](https://dj540s05.optimalworkshop.com/questions/52low0ey)
+- [Identity Support Dashboard in Domo](https://va-gov.domo.com/page/680596002)
+- [Figma with Dashboard Screenshots and feedback about the DOMO dashboard](https://www.figma.com/board/UfSdYLDCEj8gsIJMGxf3UJ/Identity-Support-Service-GitHub-Metrics-and-Satisfaction-Survey?node-id=43-524&t=hHGltKzvpqVFaSvk-0)
+- [Communications plan for slackbot release ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/slackbot%20release%20comms%20plan.md)
+- [Using the Support Process Satisfaction Survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/user-guide_support-satisfaction-survey.md)
 
 ## Potential deliverables:
 - Research findings
