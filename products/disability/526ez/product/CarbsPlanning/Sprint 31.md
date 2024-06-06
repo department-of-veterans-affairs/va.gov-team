@@ -1,4 +1,4 @@
-DBEX-Carbs Sprint 31 Goals	
+#DBEX-Carbs Sprint 31 Goals	
 (Wednesday, June 5, 2024- Tuesday, June 18, 2024) 
 It was decided that this sprint would be used for getting organized. Instead of working on random tickets that don’t meet priority, we’ll focus on making tickets that meet the priority and define the work that is needed to complete our Epics. It will be a sprint of meetings, planning, and documenting.
 Eng 
