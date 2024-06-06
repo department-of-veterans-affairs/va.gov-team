@@ -1,12 +1,13 @@
 # Location of residence and postal code
 
-Last updated by @tygindraux: May 23, 2024
+Last updated by @tygindraux: June 6, 2024
  
-The rules are described in the following sections:
-- [Contact preference](#contact-preference)
-- [Guardianship and VR&E](#guardianship-and-vre)
-- [Education > VR&E](#education--vre)
-- [Health care](#health-care)
+Contents:
+- [Contact preference rules](#contact-preference)
+- [Guardianship and VR&E rules](#guardianship-and-vre)
+- [Education > VR&E rules](#education--vre)
+- [Health care rules](#health-care)
+- [Page in Figma](#pages-in-figma)
 
 ## Contact preference
 
@@ -16,8 +17,6 @@ When we require the location of residence and postal code of the **submitter**, 
   - Then: Continue to require location of residence and/or postal code.
 - `ELSE IF contact preference =` U.S. Mail
   - Skip collecting location of residence and postal code separately. They're collected in the **Address component** instead.
-
----
 
 ## Guardianship and VR&E
 `IF CATEGORY`
@@ -151,8 +150,6 @@ When we require the location of residence and postal code of the **submitter**, 
 
 We require location of residence and postal code so we can route to the correct queue.
 
----
-
 ## Education > VR&E
 
 `IF CATEGORY` = Education benefits and work study
@@ -285,8 +282,6 @@ We require location of residence and postal code so we can route to the correct 
 
 We require location of residence and postal code so we can route to the correct queue.
 
----
-
 ## Health care
 
 `IF CATEGORY`
@@ -389,3 +384,19 @@ We require location of residence and postal code so we can route to the correct 
 ### Why do we collect this information?
 
 We require postal code because these VHA offices are national but they may need to direct someone to a local medical facility or share local resources.
+
+## Pages in Figma
+
+### Submitter
+- If they choose contact by mail: [Your mailing address](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1224-120750)
+- If they choose contact by phone or email:
+  - [Your location of residence](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1234-154978)
+  - [Your postal code](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1234-154979)
+
+### Veteran
+- [Veteran location of residence](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1406-73060)
+- [Veteran postal code](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1411-151231)
+
+### Family member
+- [Family member location of residence](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1411-173956)
+- [Family member postal code](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=1411-183922)
