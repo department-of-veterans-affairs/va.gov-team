@@ -1,8 +1,8 @@
 # Location of residence and postal code
 
 Last updated by @tygindraux: June 6, 2024
- 
-Contents:
+
+**Jump to:**
 - [Contact preference rules](#contact-preference)
 - [Guardianship and VR&E rules](#guardianship-and-vre)
 - [Education > VR&E rules](#education--vre)
