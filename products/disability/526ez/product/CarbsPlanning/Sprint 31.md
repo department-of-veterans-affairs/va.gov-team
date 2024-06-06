@@ -5,10 +5,9 @@ Wednesday, June 5, 2024- Tuesday, June 18, 2024
 It was decided that this sprint would be used for getting organized. Instead of working on random tickets that don’t meet priority, we’ll focus on making tickets that meet the priority and define the work that is needed to complete our Epics. It will be a sprint of meetings, planning, and documenting.
 
 ## Engineering
-  - Nathan Burgess  - Continue to work on document upload failures (OOO Conference) 
+  - Nathan Burgess  - Continue to work on document upload failures (OOO for 1 week) 
   - Sam Stuckey  - Review backlog and wholistic state problem, come up with problem statement (OOO for a few days) 
-  - Scott Regenthal  - Complete the work for TE and tech debt item, support the work for code yellow (TBD) 
-  - Dewayne  - Complete the work for TE 
+  - Scott Regenthal  - Complete the work for TE and tech debt item, support the work for code yellow (TBD), complete Validation Endpoint tickets
   - Thomas Blackwell  - help Lisa with cleaning up the backlog (OOO for a few days)
 
 ## Research and Design
