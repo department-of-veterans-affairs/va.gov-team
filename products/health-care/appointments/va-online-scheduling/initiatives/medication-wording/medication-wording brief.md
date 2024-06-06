@@ -95,23 +95,20 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 ## Solution Narrative
 
 ### Current Status
-- Potential Solution:
-  - Drupal
-  - API
+- Pilot solution
+  - Implementing a hard coded version as soon as the content is approved. 
 
-### Key Decisions
+### Key Decisions  
 - Potential solution
-  - Implementing a hard coded version as soon as the content is approved
-    
-- Pilot Solution
-  - There's research where we pull data from somewhere else. We have a pattern that already exist
-  - Hard code text then go to API [more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-reference/data-reference/data-definitions.md#instructions-prepare-for-telehealth-visit)
-    
-		
+  -  Utilize an existing pattern to hard code the text and subsequently fetch updates via API.[more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-reference/data-reference/data-definitions.md#instructions-prepare-for-telehealth-visit)
    
 - Future solution
-  -  
-  -  TBD 
+  - Leverage Drupal's content-as-config feature:
+  	- Reuse existing design system components to maintain consistency.	
+  - Implement content using a Design System component:
+  	- Integrate content into the design system as a reusable component that teams can incorporate. 
+   	- Depend on specific components in the design system, such as the OMB info component, to be used with Drupal as the backend for content management.
+    
    
 ## Screenshots
 
