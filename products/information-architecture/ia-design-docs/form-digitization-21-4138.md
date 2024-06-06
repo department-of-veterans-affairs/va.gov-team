@@ -61,7 +61,7 @@ Identification information |	Identification information | `/identification-infor
 Mailing address |	Mailing address | `/mailing-address`
 Phone and email address |	Phone and email address | `/contact-information`
 Provide your statement |	Statement | `/statement`
-Review |	Review | `/review`
+Review |	Review | `/review-and-submit`
 Submission | confirmation | `/confirmation`
 
 ## <a name="nav"></a>Entry points <br>
