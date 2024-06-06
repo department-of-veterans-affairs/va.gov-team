@@ -91,7 +91,7 @@ Feedback about the unauthenticated and authenticated ARP tool will inform conten
 
 ### Key finding 1 
 **What we know about singly accredited Veterans Service Organization Representatives.**
-We asked participants about their current role, work context and case load in an effort to update our persona to reflect nuances within VSOR subgroups (See updated persona). 
+We asked participants about their current role, work context and case load in an effort to update our persona to reflect nuances within VSOR subgroups (See [updated persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)). 
 
 Singly accredited VSO Representatives we spoke to:
 - Primarily work at the state, regional, or national level; may have assignments at the sub-state level only if they work for state government (See Appendix).
@@ -118,7 +118,7 @@ We also asked our participants about their current process establishing contact 
   - May have the Veteran sign an agreement to work with the organization before commencing work.
 - We heard several examples of working with Veteran populations to get the POA filled out:
   - VSORs working in states areas with large rural Veteran populations may fill out and send the 21-22 by mail or email for the Veteran to sign and mail back, rather than relying on the Veteran to fill out the form themselves. 
-- Some VSORs will submit an ITF and the POA simultaneously to reduce processing times, which is consistent with what we heard during our user interviews. 
+- Some VSORs will submit an ITF and the POA simultaneously to reduce processing times, which is consistent with what we heard during our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews/02-2024-user-interviews.md#research-findings-for-arf-team-accredited-representative-user-interviews-022024). 
 - Quotes about establishing communication with the Veteran first
   - “For [VSO], we have our own statement of policy letter. We have the Veteran sign…if it’s an email and initial contact, we have an email that gets sent out to ‘em to tell ‘em exactly what the forms are for and how to fill them out. [...] First thing we ask them is if they’re represented by us. If they’re not, at that point in time, we start printing out the documents, filling out the document for them, and then explaining what this [form] is for and then they sign it and we submit it from there.” -P3
   - “We send them a statement of policy…through email[.]” -P4
@@ -134,7 +134,7 @@ We also asked our participants about their current process establishing contact 
 
 ### Key Finding 2 
 **Perceived usability for ARP was high, but observed usability was mixed.**
-- Participants rated the ARP tool a 4.63 (out of 5), which corresponds to an observed usability score of 51. Anything below a 68 is considered below average (source). Explanations for the low SUS score include:
+- Participants rated the ARP tool a 4.63 (out of 5), which corresponds to an observed usability score of 51. Anything below a 68 is considered below average ([source](https://measuringu.com/sus/#:~:text=The%20average%20SUS%20score%20from,through%20a%20process%20called%20normalizing.)). Explanations for the low SUS score include:
   - Participants’ could not complete two tasks without the moderator prompting.
    - Task 2 (sign in) involved a sign-in flow that was not common for PIV card users. 9 of 9 participants in this study use PIV to log into representative-facing tools.
    - Task 6 not conforming to a common use case for singly accredited VSO Representatives.
@@ -149,7 +149,7 @@ We also asked our participants about their current process establishing contact 
 
 ### Key Finding 4
 **Singly accredited VSO Representatives do not associate accreditation (or OGC) with their daily work.**
-- As part of the long-term roadmap for the Accredited Representative Portal, some representatives will be able to use the tool to apply for and manage their accreditation as well as manage POA and handle tasks related to claims. The homepage design and global menu for ARP feature references to applying for and managing accreditation. 
+- As part of the long-term roadmap for the Accredited Representative Portal, some representatives will be able to use the tool to apply for and manage their accreditation as well as manage POA and handle tasks related to claims. The [homepage design and global menu](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=0-146) for ARP feature references to applying for and managing accreditation. 
   - Participants were confused why accreditation was part of the tool’s navigation and questioned whether it would be relevant to a tool used for power of attorney requests and claims management.
   - Two participants expressed confusion about why their OGC number would be relevant in their user profile when logged in. Some of this confusion may be a result of an unclear audience for ARP, as these users assumed that Veterans would also be able to access the authenticated experience. 
 - Singly accredited VSO Representatives do not associate OGC with the VA. 
@@ -159,7 +159,7 @@ We also asked our participants about their current process establishing contact 
 
 ### Key Finding 5
 **Hypothesis confirmed: file/claim number and Social Security number are the most desired Veteran search functions for ARP.**
-- Consistent with findings from our user interviews, file/claim number, SSN, and Date of Birth are important search criteria for VSO Representatives to find a Veteran they are supporting.
+- Consistent with findings from our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews/02-2024-user-interviews.md#critical-recommendations-for-mvp), file/claim number, SSN, and Date of Birth are important search criteria for VSO Representatives to find a Veteran they are supporting.
 - These search fields would eliminate the need for VSO Representatives to review multiple pending requests, especially in instances where the Veteran has a common name, or lives in an area with a large Veteran population. 
   - Several participants spoke of the potential for VSOR error, when Veterans share identifying information such as name or location. This led to cases where the VSOR started POA or claims work for the incorrect Veteran and later had to correct it.
   - Unique identifiers are therefore important to improve accuracy of search data, reduce time to review search results, and reduce inaccurate or fraudulent claims, and should be prioritized in ARP Pilot. 
@@ -183,7 +183,7 @@ Since most VSOs use third party tools to prepare, file, and manage Veterans’ c
 ### Task 1 / Unauthenticated landing page
 *9 of 9 participants completed this task*
 
-- 5 of 9 participants were confused who the users for ARP would be based on the unauthenticated landing page’s design. The primary sources of confusion were a call to action (CTA) directing Veterans to Find a Representative on VA.gov, as well as a content box and navigation component referring to accreditation and applying for accreditation.
+- 5 of 9 participants were confused who the users for ARP would be based on the unauthenticated landing page’s design. The primary sources of confusion were a call to action (CTA) directing Veterans to [Find a Representative](https://www.va.gov/get-help-from-accredited-representative/find-rep/) on VA.gov, as well as a content box and navigation component referring to accreditation and applying for accreditation.
 - Quotes expressing confusion about who the site is for
   - “[This website is for] Veterans…they would have to sign in or create an account and then it would immediately take them to requesting [a VSO for power of attorney].” -P1
   - “I mean, it reminds me of myself if I’m a Veteran logging on to initially file my claim…I’m not sure about the ‘Apply to be an Accredited Representative.’ Is that for somebody who wants to be accredited, who’s not? [..] This is for VSOs only or is this for the public?” -P2
@@ -194,7 +194,7 @@ Since most VSOs use third party tools to prepare, file, and manage Veterans’ c
   - “The initial impression I have is that it looks like it’s more of just an accept and deny [tool for VSORs]. It’s called the accredited representative portal. If I’m looking at a portal, I would want to know that it’s like a dashboard that I can work the status of claims, you know, accept POAs, run reports.” -P6
   - “When I click on ‘Power of Attorney’ [I assume] I’m able to add from there, create a form, something like that.” -P8
  
-- Because of participant confusion over the content on the unauthenticated landing page, we iterated on the homepage design partway through the test and had some participants complete a short preference test between multiple mockups. 5 of 9 participants completed the preference testing task. 
+- Because of participant confusion over the content on the unauthenticated landing page, we iterated on the homepage design partway through the test and had some participants complete a short preference test between [multiple mockups](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578626). 5 of 9 participants completed the preference testing task. 
   - 3 of 5 participants preferred option A, which they saw throughout the test session. Reasons why included its simplicity and the fact that it was “classic” and familiar.
   - 2 of 5 participants preferred option B, which differentiated VSO Representatives from other types of accredited representatives. These participants said they liked that it called them out as VSO Representatives in the splash, but questioned if other types of accredited representatives would like the content. 
 - Quotes about option A
@@ -206,7 +206,7 @@ Since most VSOs use third party tools to prepare, file, and manage Veterans’ c
   - “What I don’t like about [option B] ‘VSOs and accredited representatives,’ because all VSOs should be accredited representatives. So it’s kind of like double talk to me.” -P5
 
 - Based on the unauthenticated landing page design, VSO Representatives expect the ARP tool to be an all-in-one platform for their needs.
-  - Further validating our participatory design findings, participants wanted to see integrations with their own Client Management Systems (CMS), integration with VBMS, VA and Veteran chat features, and auto-populated or auto-filed forms. 
+  - Further validating our [participatory design findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews/02-2024-user-interviews.md#research-findings-for-arf-team-accredited-representative-user-interviews-022024), participants wanted to see integrations with their own Client Management Systems (CMS), integration with VBMS, VA and Veteran chat features, and auto-populated or auto-filed forms. 
 - Quotes about expected ARP functionality
   - “I would assume that I log in as an accredited representative through this [site]. [...] [A]nd I would be able to hopefully accept [a] power of attorney [request], or my idea would be to send a link to the Veteran live, have them accept a link and I see it and I can click accept and it goes to VBMS.” -P4
   - “It would be kind of cool if there were resources available to seamlessly…track people in VBMS and we can look people up. [...] The tool needs to speak directly to VBMS live so that when we do something in the portal, it reflects the same thing in VBMS. It would be nice if it can start filling out forms for us because VBMS already has a profile on the Veteran so they’ll be able to capture whatever, you know, even if it’s just the name, social, address, date of birth.” -P2
@@ -245,7 +245,12 @@ Since most VSOs use third party tools to prepare, file, and manage Veterans’ c
 ### Task 2 / Signing in and authentication experience
 *8 of 9 participants completed this task*
 
-ADD TABLE
+| Usability measures | Score |
+| ----------- | ----------- |
+| Task success | 0.56/1 |
+| Single Ease Question (SEQ) | N/A |
+| Expected path | Splash **or** utility header “Sign In” button > Login.gov > “Sign in with government ID” |
+| Most common path | Utility header “Sign In” button > Unable to move past sign in options without prompting |
 
 - ARF Design wanted to test the location of a “Sign In” versus “Create an Account” button on the homepage. Most participants were comfortable with using the “Sign In” button in the utility header rather than a “sign in or create an account” button located on the hero image on the unauthenticated landing page. 
   - 5 of 8 participants used the “Sign In” button in the utility header.
@@ -295,7 +300,7 @@ ADD TABLE
 - Quotes about contact button
   - “I like the ‘Contact Us’ so if something’s wrong, like the name spelled wrong. I don’t know if there’s expiration dates [on accreditation] or I think [my VSO] just automatically submitting them. I forget, I haven’t done it in a while. I think it’s every five years for the reaccreditation process. So it would be helpful if it shows an expiration date next to [each organization], especially if you have multiple [accreditations], because it might be hard to keep track.” -P7
 
-- 8 of 9 participants were confused by the message about Veterans being able to find and appoint a representative on VA.gov, linking them to Find a Representative. This was seen as Veteran-facing information not relevant  on a VSO Representative tool.
+- 8 of 9 participants were confused by the message about Veterans being able to find and appoint a representative on [VA.gov](https://www.va.gov/get-help-from-accredited-representative/find-rep/), linking them to [Find a Representative](https://www.va.gov/get-help-from-accredited-representative/find-rep/). This was seen as Veteran-facing information not relevant  on a VSO Representative tool.
 - Quotes about Find a Rep and ARM v2 calls to action
   - “If this is meant to be just for VSOs, then why is this here for [Veterans] to find a VSO?” -P1
   - “This would tell me that I’m the Veteran because I’m not gonna search [for myself].” -P2
@@ -318,7 +323,12 @@ ADD TABLE
 ### Task 4 / Single Veteran POA search 
 *8 of 9 participants completed this task*
 
-ADD TABLE
+| Usability measures | Score |
+| ----------- | ----------- |
+| Task success | 0.75/1 |
+| Single Ease Question (SEQ) | 6.88/7 |
+| Expected path | Last/first name search fields > Search button > Table view |
+| Most common path | _Same as expected path_ |
 
 - Searching for and finding a single Veteran’s POA request had a high success rate, was rated very easy, and followed the expected task path. 
 - SEQ quotes
@@ -413,7 +423,12 @@ ADD TABLE
 ### Task 5 / Accepting POA request
 *8 of 9 participants completed this task*
 
-ADD TABLE
+| Usability measures | Score |
+| ----------- | ----------- |
+| Task success | 1/1 |
+| Single Ease Question (SEQ) | 1/1 |
+| Expected path | (From table view) Veteran name > POA request detail view > Accept button > Accept confirmation |
+| Most common path | _Same as expected path_ |
 
 - 8 of 8 participants were able to find the POA request detail page, understand the nature of the POA request and accept it. The path to view and accept a POA request was the simplest flow in the ARP v1 prototype.
 - SEQ quotes
@@ -478,7 +493,12 @@ ADD TABLE
 ### Task 6 / Bulk select and approve POA requests
 *8 of 9 participants completed this task*
 
-ADD TABLE
+| Usability measures | Score |
+| ----------- | ----------- |
+| Task success | 0.63/1 |
+| Single Ease Question (SEQ) | 6.25/7 |
+| Expected path | (From table view) Sort city column (A-Z) > Sort city column (Z-A) > Select Wichita requests > Click Accept > Confirm Accept |
+| Most common path | (From search fields) City, state > Search > Table > Sort city column (Z-A) with moderator prompting > Sort city column (Z-A)) with moderator prompting > Select Wichita requests > Click Accept > Confirm Accept |
 
 - 7 of 8 participants struggled to bulk select and accept Veteran POA requests from Wichita, Kansas without prompting from the moderator. This is because:
   - Participants  do not bulk accept or decline requests, preferring to review each request individually before making a decision. This differs from responses from our user interviews, where some singly accredited VSO 
@@ -518,7 +538,12 @@ Representatives said they have members of their team whose job is to monitor and
 ## Task 7 / Decline Veteran POA request
 *8 of 9 participants completed this task*
 
-ADD TABLE
+| Usability measures | Score |
+| ----------- | ----------- |
+| Task success | 0.94/1 |
+| Single Ease Question (SEQ) | 6.13/7 |
+| Expected path | (From table view) Veteran name > POA request detail view > Decline button > Click decline reason text box > Decline confirmation |
+| Most common path | _Same as expected path_ |
 
 - While 8 of 8 participants were able to complete the decline flow without prompting from the moderator, 1 participant was concerned that the “accept” and “decline” buttons would not have consistent interactions. 
  - This is because declining a Veteran in ARP v1 is a 3-step flow: clicking the “Decline” button, inputting a reason for declining in a text box, clicking “Decline” again, and then agreeing when a “confirm decline” popup appears.
@@ -563,7 +588,7 @@ ADD TABLE
 
 - 7 of 8 participants gave positive feedback on their overall ARP experience. 
 - The outlier on NPS said they did not see value in ARP as an everyday tool. This participant’s organization uses a Tyler Technology tool that combines client management features with the ability to populate and submit forms. 
-  - A participant from our user interviews and participatory design study using the same tool had similar feedback, suggesting that widespread adoption by third party tool users may require more than SEP parity; such as the ability to sync to a CMS or auto-populate form fields. 
+  - A participant from our [user interviews and participatory design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews/02-2024-user-interviews.md#research-findings-for-arf-team-accredited-representative-user-interviews-022024) study using the same tool had similar feedback, suggesting that widespread adoption by third party tool users may require more than SEP parity; such as the ability to sync to a CMS or auto-populate form fields. 
 - NPS Quotes (High scores)
   - “Five [out of 5], totally. That’s the kind, it’s added the kind of functionality I think we’ve kind of always wanted to see in little ways here and there, and I think it’s a lot more useful than [SEP was] before. It’s so limited right now. You just can’t really do much. You can’t count on it. It’s constantly wonky.. Sometimes it won’t even let you log in, like there’s always problems…so to have something like this that provides much more detail, gives you the ability to give it one more thought to bulk approve or bulk decline. You know, to customize a note that actually gets kicked to the claimant so they understand why.” -P1
   - “It’s just the easier [tool]. If we’re doing everything digital and everything is just sliding right into place where it should be, it’s gonna make our day faster. We’ve got appointments, walk-ins, everybody out there waiting. The faster we get one Veteran done, we can get the next one in.” -P2
@@ -597,7 +622,7 @@ We recommend further exploration into a mobile-ready ARP with cross-accredited V
   - “I don’t know where [I’d use ARP on mobile], so I would use the laptop, and the reason is, because I would be able to see everything much better than on a mobile device. I could see the use of a mobile device, especially if we’re traveling and we’re at [a] conference and I wanna check it out. But I, you know, that would be, for me, it’d be few and far between to do that. Because when we accept the POA we usually call [the Veteran] and that’s where it’d be nice to do that through the laptop.” -P5
 
 ### Cross-accredited VSO Representatives may have a different mental model for their accreditation and work than previously thought. 
-One of the participants of this study signed up in error, assuming they were a singly accredited VSO Representative for the state of Georgia, when they in fact hold 8 cross-accreditations. This is because, to the participant, they are employed through and primarily accredited with the Georgia Department of Veterans Services, and their cross-accreditations are organizations with whom they agree to support. Some design considerations the participant raised include:
+[One of the participants](https://app.enjoyhq.com/projects/LknDOXWOX/content/document/93562700-9928-449a-b36c-9d8f2e67754c?project_id=LknDOXWOX) of this study signed up in error, assuming they were a singly accredited VSO Representative for the state of Georgia, when they in fact hold 8 cross-accreditations. This is because, to the participant, they are employed through and primarily accredited with the Georgia Department of Veterans Services, and their cross-accreditations are organizations with whom they agree to support. Some design considerations the participant raised include:
 - This participant felt that their user profile in ARP once logged in should indicate their accreditation with the Georgia Department of Veterans Services before listing other organizations through whom they are accredited.
 - The participant did not think it was appropriate for them to approve or decline incoming POA requests regardless of the VSO requested on the 21-22, because they answer to management at the state level as well as from their cross-accredited VSOs at the national level.
 - The participant did not see the value in filtering POA requests by VSO and would default to filling out new 21-22s with the state of Georgia or American Legion, who has a Memorandum of Understanding with the GDVS. 
@@ -607,7 +632,7 @@ Overall, this participant’s feedback should help inform changes to the ARP UI 
   - “I wanna see all of the POAs that I am currently accredited with [in the pending POA requests table], all the VSOs that I’m accredited with under my OGC number [in the user profile]. Especially if I’m a county VSO. And in that way the system is also designed to…acknowledge that they’re allowed to see information for each one of the organizations they’re accredited with. [...] I want to maintain quality controls of [my] work.” -P9
 
 ### VSOR Find a Representative feedback was mixed.
-In collaboration with the Accredited Representation Management team, ARF Design showed the live Find a Representative experience on VA.gov to 5 of 9 participants.
+In collaboration with the [Accredited Representation Management](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research) team, ARF Design showed the live [Find a Representative](https://www.va.gov/get-help-from-accredited-representative/find-rep/) experience on VA.gov to 5 of 9 participants.
 - 4 of 5 participants were able to find themselves using the tool, with moderator prompting. 
 - 1 participant struggled to find themselves with the tool because their address was 11 years out of date. This participant made a comment assuming that roughly 90% of VSOR information in the OGC database is incorrect, so searching for representatives by location and contact information is irrelevant.
 - 3 participants could not find themselves because all representatives at their organization are listed under the same address
@@ -668,7 +693,7 @@ On both the unauthenticated homepage and the POA requests page, participants str
   - Deprioritize secondary task functions, including moving resources for help and contacting IT or OGC to relevant locations (footer, profile drop-down)
 
 #### 4. Make the sign-in and authentication process clearer for PIV users. 
-To date, VSO Representatives who use PIV to log into VA and 3rd party systems have made up the majority of our participant panel, and evidence suggests they will continue to represent the majority of ARP users moving forward. The current sign in and authentication flow in the VA Design System does not make clear that PIV users should select login.gov. We recommend making it clearer to users who are not familiar with login.gov and who want to use PIV - as opposed to ID.me - where they should go to log in.
+To date, VSO Representatives who use PIV to log into VA and 3rd party systems have made up the majority of our participant panel, and evidence suggests they will continue to represent the majority of ARP users moving forward. The current sign in and authentication flow in the [VA Design System](https://design.va.gov/) does not make clear that PIV users should select login.gov. We recommend making it clearer to users who are not familiar with login.gov and who want to use PIV - as opposed to ID.me - where they should go to log in.
 
 #### 5. Provide clear, repeated checks into the ARP system’s status to reduce steps in VSO Representatives’ workflow. 
 VSO Representatives need to be able to document and verify the steps they (or their colleagues) took on a Veteran’s case. ARF Design and Engineering should collaborate to consider how to design for the below user stories:
@@ -771,34 +796,34 @@ When discussing the messaging sent about declining a POA request, VSORs expresse
 - Plan to incorporate standard decline messaging into the decline flow for cross-accredited VSOR user testing.
 
 ## Appendix
-- Research plan (Sharepoint)
-- Conversation guide (Sharepoint)
-- Recruitment plan (Sharepoint)
+- [Research plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/User%20Testing_%20Research%20Plan.pdf?csf=1&web=1&e=Tj2v5y) (Sharepoint)
+- [Conversation guide](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/User%20Testing_%20Conversation%20Guide.pdf?csf=1&web=1&e=ig1Xgr) (Sharepoint)
+- [Recruitment plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/User%20Testing_%20Recruitment%20Plan.pdf?csf=1&web=1&e=OPpAti) (Sharepoint)
 
 ### Tools used for synthesis
-- EnjoyHQ
-- User testing notes and debrief (Mural)
-- Task success and usability metrics (Sharepoint)
-- Key takeaways from test sessions (Sharepoint)
+- [EnjoyHQ](https://app.enjoyhq.com/sh/pj/b021641a-7708-49ea-9d29-bf4f312d8783)
+- [User testing notes and debrief](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711575270185/83b03fe96dcafe9f42b206e0dc3efbfd2457c1f2?wid=0-1712943681350&sender=u503219bf4e47eab9c75d3838) (Mural)
+- [Task success and usability metrics](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/Task%20Success%20Measures.xlsx?d=wbe086d2f13364316aed7491c828055de&csf=1&web=1&e=GD3dDg) (Sharepoint)
+- [Key takeaways from test sessions](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/Key%20takeaways.docx?d=w1161f34583fd47de8da84a5539af4a2b&csf=1&web=1&e=qTr3w7) (Sharepoint)
 
 ### Pages and applications used
-- ARP mockup (Figma)
+- [ARP mockup](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=0-146) (Figma)
 - Homepage mockups for preference testing (Figma)
-  - Option A
-  - Option B
-  - Option C
-  - Option D
-- Find a Representative (VA.gov)
+  - [Option A](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578776&t=uL7vCeO7QycKflBC-1)
+  - [Option B](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578764&t=uL7vCeO7QycKflBC-1)
+  - [Option C](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578752&t=uL7vCeO7QycKflBC-1)
+  - [Option D](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=2381-578740&t=uL7vCeO7QycKflBC-1)
+- [Find a Representative](https://www.va.gov/get-help-from-accredited-representative/find-rep/) (VA.gov)
 
 ### Other supporting documents created
-- Veterans Service Officer persona (Mural)
-- ARP Information Architecture (Mural)
+- [Veterans Service Officer persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u503219bf4e47eab9c75d3838) (Mural)
+- [ARP Information Architecture](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710857598969/32219746df15eb2602a01b1b3b1b3ccf9fa8760d?sender=u503219bf4e47eab9c75d3838) (Mural)
 
 ### Secondary research
-- 09/2023 Secondary Research Findings (GitHub)
-- Comparative analysis of accredited representative tools (Sharepoint)
-- 01/2024 VSO Listening Session (GitHub)
-- 02/2024 VSO User Interviews (GitHub)
+- [09/2023 Secondary Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-09-secondary-research/2023-09-secondary-research-accredited-representation-management.md) (GitHub)
+- [Comparative analysis of accredited representative tools](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=dKYGQx&cid=8d41c7a2%2D4c40%2D4d41%2Db6b1%2Df996cfe708c0&FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representative%20Facing%2FResearch%2FCurrent%20State%2FComparative%20Analysis%2Epdf&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72&parent=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representative%20Facing%2FResearch%2FCurrent%20State) (Sharepoint)
+- [01/2024 VSO Listening Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md) (GitHub)
+- [02/2024 VSO User Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews) (GitHub)
 
 ### Who we talked to
 Our target audience was 5-8 Veterans Service Organization Representatives who are accredited with **one** Veterans Service Organization. We spoke to 9 representatives, 8 of whom were singly accredited. One representative (marked with an asterisk below) thought they were singly accredited but ended up being cross-accredited with 8 Veterans Service Organizations. We asked this participant a subset of the planned questions.
