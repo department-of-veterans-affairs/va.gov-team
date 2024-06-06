@@ -96,7 +96,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 ### Current Status
 - Pilot solution
-  - Implementing a hard coded version as soon as the content is approved. 
+  - Implementing a hard coded version immediately upon content approval. 
 
 ### Key Decisions  
 - Potential solution
@@ -111,6 +111,11 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
     
    
 ## Screenshots
+
+<img width="313" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/154380850/241bd9b3-f94a-4538-a549-998843e5f8b8">
+
+<img width="610" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/154380850/804f0a3e-841b-4277-9d11-8506d1d2af5f">
+
 
 ### Before
 
