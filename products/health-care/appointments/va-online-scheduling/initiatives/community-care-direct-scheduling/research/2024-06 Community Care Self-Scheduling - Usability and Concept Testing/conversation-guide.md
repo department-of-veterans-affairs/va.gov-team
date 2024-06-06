@@ -187,20 +187,22 @@ _**Participant is on referral page:**_
 
 - How clear are the steps for what you should do next?
 
+- Ok, and before you do anything here, I have a few more questions: 
+
+- What are the top factors you consider when choosing a provider for something like physical therapy?
+
+- And what about if you're choosing a provider for something like a major surgery?
+
 - Ok, go ahead and continue.
 
 ---
 
 _**Participant is on provider page:**_ 
-- Great. Before you do anything here, I have a few questions: 
-
-- What are the top factors you consider when choosing a provider?
-
-- How would you normally go through finding a provider?
+- Tell me about this page.
 
 - _If preferred provider wasn't mentioned:_ What's your understanding of the box at the top of the page?
   
-- And without doing anything, I'm curious, what would you do next on this page if I wasn't guiding you?
+- And without doing anything, I'm curious -- from here, how would you continue through finding a provider if I wasn't guiding you?
 
 - Ok thanks, and what would you do if you wanted to search for providers with specific criteria or availability?
 
