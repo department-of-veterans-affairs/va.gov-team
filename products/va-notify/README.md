@@ -18,18 +18,13 @@ Email us at **VA Notify**(oitoctovanotify@va.gov)
 
 # Point of Contacts
 **Product**
-- Chris Johnston, Jeff Barnes, and Christy Tong are currently supporting Enterprise Notifications Platform, please note Beverly Nelson's last day was 4/19/2024
-- Melanie Jones, Program Manager - Enterprise Notifications Platform
+- Chris Johnston, Jeff Barnes, and Christy Tong are currently supporting Enterprise Notifications Platform - VA Notify, please note Beverly Nelson's last day was 4/19/2024
 - Ksenia Belikova, Product Manager - VA Notify
 - Samantha Jennings, Product Manager - Forms Strike Team
 
 **Engineering**
 - Kyle Macmillan, Tech Lead - Notifications Platform
 - Nathan Wright, Tech Lead - Forms Strike Team
-
-**QA**
-- Cris Stoddard, QA Test Engineer - Notifications Platform
-- Jake Uhteg, QA Test Engineer - Forms Strike Team
 
 # Playbook
 
