@@ -632,10 +632,224 @@ This section is divided into two parts: Critical Recommendations for Pilot and F
 
 ### Critical recommendations for Pilot
 
-Do not pilot ARP with VSO Representatives who use and are currently happy with third-party tools.
-ARF Design strongly recommends a pilot of ARP with both current users of SEP, and users with no prior experience in SEP. However, based on repeated feedback from users of Tyler Technology representative-facing tools, we believe they should be excluded from the ARP Pilot. These users:
+#### 1. Do not pilot ARP with VSO Representatives who use and are currently happy with third-party tools.
+- ARF Design strongly recommends a pilot of ARP with both current users of SEP, and users with no prior experience in SEP. However, based on repeated feedback from users of Tyler Technology representative-facing tools, we believe they should be excluded from the ARP Pilot. These users:
+  - Operate at the state level
+  - Have limited cross-accreditation (2 or less) or are singly accredited
+  - Have software needs that exceed VA-facing functionality, such as social services or other wraparound supports.
+- These users have suggested use cases for ARP in their workflows in the future as an “occasional” or rare instance where its functionality exceeds that of Tyler Technologies’ offerings. As such, we believe that they would be better suited to using the tool once it is available to the general population of accredited representatives.
 
-Operate at the state level
-Have limited cross-accreditation (2 or less) or are singly accredited
-Have software needs that exceed VA-facing functionality, such as social services or other wraparound supports.
-These users have suggested use cases for ARP in their workflows in the future as an “occasional” or rare instance where its functionality exceeds that of Tyler Technologies’ offerings. As such, we believe that they would be better suited to using the tool once it is available to the general population of accredited representatives.
+#### 2. Update both the authenticated and unauthenticated ARP global navigation and site structure.
+- Streamline the About menu to include content that was previously in a content box on the POA requests page to improve findability. About should include:
+  - Information about who ARP is for
+  - Help guides, including a “quick start” tutorial and longform documentation with Frequently Asked Questions 
+Contact information
+- Move Resources content to the footer for quick access. Resources should include:
+  - Regulatory documentation from the VA
+  - VA forms most commonly used by accredited representatives
+    - Explore how to communicate to VSORs that the forms at up-to-date
+  - OGC POA code lists
+- Add 21-22 links to the authenticated Power of Attorney menu:
+  - View power of attorney requests
+  - Access 21-22 form -> digital version of 21-22
+  - Download 21-22 -> direct download link of form
+- Confirm Accreditation menu content with OGC.
+- Remove links to Veteran resources from the POA request page, as it proved confusing and distracting to VSO Representatives.
+
+#### 3. Refine ARP content strategy and calls to action for core audience, tasks and actions.
+On both the unauthenticated homepage and the POA requests page, participants struggled to understand messaging around Veteran-facing VA.gov tools. They were also unclear on whether not-yet accredited representatives should use the portal. Some of this uncertainty was around a fear that unauthorized users would access ARP maliciously, or that Veterans would take action on their claims that would negatively affect their outcome. 
+- Unauthenticated homepage recommendations:
+  - Remove Veteran-facing content entirely, or move it to a less prominent location on the homepage, so as not to confuse users around the purpose and core audience of the ARP tool.
+  - Clarify who can apply to become accredited and how ARP and OGC are related, with a goal of promoting ARP as a one-stop location for all things accredited representative, reduce the siloing of representative-facing tools, and clarify that not everyone can become an accredited representative.
+    - Decide whether “OGC number” or “Accreditation number” is the appropriate label for the user profile moving forward.
+- POA requests page recommendations:
+  - Move the link to 21-22 digital submission to the Power of Attorney global menu
+  - Remove the link to Find a Representative
+  - Deprioritize secondary task functions, including moving resources for help and contacting IT or OGC to relevant locations (footer, profile drop-down)
+
+#### 4. Make the sign-in and authentication process clearer for PIV users. 
+To date, VSO Representatives who use PIV to log into VA and 3rd party systems have made up the majority of our participant panel, and evidence suggests they will continue to represent the majority of ARP users moving forward. The current sign in and authentication flow in the VA Design System does not make clear that PIV users should select login.gov. We recommend making it clearer to users who are not familiar with login.gov and who want to use PIV - as opposed to ID.me - where they should go to log in.
+
+#### 5. Provide clear, repeated checks into the ARP system’s status to reduce steps in VSO Representatives’ workflow. 
+VSO Representatives need to be able to document and verify the steps they (or their colleagues) took on a Veteran’s case. ARF Design and Engineering should collaborate to consider how to design for the below user stories:
+- As a VSO Representative, I need to know **when** the list of POA requests was populated and how to check if any new requests have come in.
+- As a VSO Representative, I need confirmation that once a POA request has been accepted or declined, record of that action has been recorded in ARP.
+- As a VSO Representative, I need to see the full SSN, DOB or other PII after accepting POA so that I can create the Veteran’s profile in our CMS, verify we do not already have information, and begin searching for the Veteran in VBMS. 
+
+#### 6. Update ARP POA search capability to accommodate common use cases.
+The search function should be persistent and not collapsible. Additional search fields need to be considered to accommodate searching for Veterans with common names and in high population areas
+- Explore technical feasibility of last 4 SSN/claim number and/or DOB as search fields.
+- Make “Clear search” and “refresh” or redo search functions easy to locate in the UI.
+  - Consider auto-clearing a search after a VSOR accepts/declines a POA request and clicks “Return to homepage” to bring to future user testing.
+
+#### 7. Improve the readability and flexibility of the POA request list and POA request page.
+Consider alternate presentations of POA data in the table, such as cards, which would allow more data to be shown in the UI.
+- Explore the technical feasibility to expand the POA requests list  length from 10 results to 25, 50, 100 and “all.”
+  - Evaluate how current representative-facing systems like VBMS expand lists.
+- Explore what additional data to display in the POA list, such as SSN, DOB, and contact information.
+- Deprioritize filtering the list of POA search results so that it accommodates basic filtering (recent/oldest requests) over complex filtering.
+
+#### 8. Explore the technical feasibility of populating more non-PII Veteran data on the POA request detail page to facilitate faster decision-making.
+Participants were asked if there was any additional information they would like to see on the detailed POA request page to facilitate decision making and next steps with handling a Veteran’s case. Requests included:
+- POA history, current POA code, and other information currently available in Share (5)
+- Date of birth or last 4 of SSN to distinguish between Veterans with  common names (3)
+- Ability to export or easily copy name and basic contact information into the VSO’s CMS to begin tracking actions taken on behalf of the Veteran (3)
+- Ability to download a PDF of the filled out 21-22 (1)
+- Ability to select commonly submitted forms so that immediately on acceptance the forms would autopopulate with the Veteran’s information (1)
+
+#### 9. Continue to explore the technical feasibility of accepted and declined POA history.
+Participants saw the value of the Pending, Accepted and Declined tabs of the table as a way to confirm the status of a case, validate their work, and manage other VSO Representatives. Given low trust in VA tools by VSO Representatives, this can be seen as a failsafe to Representatives that the VA has confirmed their power of attorney and they can move forward with assisting the Veteran. Seeing accepted POA requests is also necessary for the VSO Representative to input the Veteran's data into their CMS, a common next step after establishing POA.
+- As a VSO Representative, I need confirmation that once a POA request has been accepted or declined, record of that action has been recorded in ARP.
+
+#### 10. Reduce steps in the POA decline flow to reduce friction.
+ARF Design intends to reduce the decline flow from a 3-step to a 2-step process that would eliminate confusion over the Accept/Decline buttons.
+- Test the 2-step decline flow in subsequent rounds of user testing
+- Explore standardized decline messaging and VSORs’ reactions to lack of customization.
+- Support ARM team with any testing of standardized decline messaging with Veterans.
+
+## Future considerations
+
+#### 1. Explore expanded geographic search options for POA search.
+We know that state and national VSO Representatives, such as those we spoke to in this study, are less likely to conduct complex geographic searches for Veterans. In future research, we will need to better understand complex geographic searches and whether ARP POA search needs to accommodate customized or savable search parameters, such as a multi-zip code area or a region.
+
+Possible use cases include:
+- Service members located on a base (requires a different address code)
+- Veterans and service members who live overseas 
+- VSOs that support multiple zip codes in their region
+
+#### 2. Develop tools for VSO Representative managers who need the ability to view and report on the actions taken by other VSORs.
+User story: As a VSO Representative, I need documentation that I accepted a POA. I need this documentation for myself, my manager, and the Veteran. 
+User story: As a manager, I need to see what my VSO Representatives have done on a POA request and what actions have been taken post-acceptance.
+- ARF Design should collaborate with Engineering to consider a POA submission number, ability to download the 21-22 or have a “snapshot” of actions taken on a specific request.
+
+#### 3. Explore ways to speed up tasks that happen concurrent to accepting POA.
+Based on the our current understanding of VSO Representative workflows, there are several key actions taken at the same time or immediately following acceptance of power of attorney:
+- Explore options to sync or export data to a VSO’s CMS to more easily populate a Veteran profile.
+- Offer pre-populated digital or downloadable forms with the Veteran’s information.
+- Offer links directly to Veteran-specific pages in other VA systems, like VBMS.
+
+#### 4. Provide transparency and customization options within VA communication with Veterans
+When discussing the messaging sent about declining a POA request, VSORs expressed that they want to use their accredited organization’s boilerplate language. In some cases, they want to send additional communication to soften the decline message sent by VA, which VSORs worry will imply that the Veteran themselves is being rejected (rather than a form needing re-submission with some modifications). 
+- Explore how we can provide VSORs with transparency into the exact language Veterans are receiving from VA, and provide them with opportunities to customize the language to fit their organization’s needs. 
+
+## Next Steps
+1. Update top tasks, user stories and persona to reflect insights
+1. Update MVP screens to include top tasks
+1. Prepare to test updated task flows with cross-accredited VSO Representatives
+
+## Further Research Needed
+
+### 1. Utilize repeated measures across additional usability studies on ARP to determine a benchmark usability score.
+- In order to ensure a successful launch of ARP’s 21-22 functionality, it will be necessary to benchmark the usability of key tasks and flows. 
+- Repeating SEQ, NPS and task prompts across future iterations of usability testing will provide a baseline from which we will be able to measure the impact of ARP once it goes to Pilot and MVP.
+
+### 2. Understand more broadly whether representatives associate their accreditation process, and by extension OGC, with their Veteran-facing work with VA.
+- By now, we understand that singly accredited VSORs do not associate their work supporting Veterans with the VA with their accreditation, or OGC. 
+- Since ARP will have multiple accredited representative-facing functions, which will include some connections with accreditation and OGC, additional research will be necessary to validate whether this theory extends to other types of VSO Representatives and accredited representative types.
+  - Continue to research how cross-accredited VSORs view their accreditation, whether they see themselves having a “home” organization or whether they view all of their accreditations equally. 
+
+### 3. Determine what geographic search parameters are useful for cross-accredited VSORs.
+- ARF Design now has a clear understanding of how singly accredited representatives want to search for and filter data. We will need to determine additional geographic search fields with cross-accredited representatives, such as county representatives.
+
+### 4. Which VSO Representative types use a bulk accept flow in ARP? Is this a use case that needs to be accommodated in ARP?
+- Plan SME interviews with individuals at several VSOrgs who may be able to explain how their organization accommodates high volumes of requests in the Stakeholder Enterprise Portal (SEP). 
+- Include bulk accept flow in any cross-accredited user testing to see if that use case fits their workflow.
+
+### 5. Understand use cases for sorting POA requests
+- The task presented to participants that required sorting the table was counter to their mental model. Additional research is needed to understand how frequently, in which scenarios, and by which data a user might sort POA requests.
+
+### 6. Understand the case for a mobile-ready platform.
+- We theorize that cross-accredited VSO Representatives, such as county VSO Representatives, will be more likely to have use cases for mobile or tablet-ready ARP tools, who frequently work in the field.
+- ARF will plan to confirm mobile/tablet use cases with cross-accredited VSO Representatives in upcoming user testing, and then decide whether the use case is significant enough to warrant a round of mobile user testing.
+
+### 7. Explore ARP-VBMS connectivity for the 21-22 accept flow. 
+- Partner with ARF Engineering to discover whether the VBMS button can link directly to a Veteran’s profile or a Veteran search feature in VBMS, rather than the homepage. We currently have reason to believe that this is not feasible in the short-term.
+- Assuming that it’s not immediately possible to link directly to a Veteran’s profile in VBMS: Test an accept flow that includes clicking through the “POA has been accepted” popup to VBMS to gauge whether users accept landing on the VBMS homepage rather than the Veteran’s profile/e-Folder.
+
+### 8. Understand the adoption of standardized decline messages to the Veteran with VSO Representatives.
+- It will not be feasible to have a free text box for decline messaging in the pilot, which our research shows some VSORs would prefer. Additional research is required to understand what type(s) of standardized decline messaging VSORs like and would use.
+- Plan to incorporate standard decline messaging into the decline flow for cross-accredited VSOR user testing.
+
+## Appendix
+- Research plan (Sharepoint)
+- Conversation guide (Sharepoint)
+- Recruitment plan (Sharepoint)
+
+### Tools used for synthesis
+- EnjoyHQ
+- User testing notes and debrief (Mural)
+- Task success and usability metrics (Sharepoint)
+- Key takeaways from test sessions (Sharepoint)
+
+### Pages and applications used
+- ARP mockup (Figma)
+- Homepage mockups for preference testing (Figma)
+  - Option A
+  - Option B
+  - Option C
+  - Option D
+- Find a Representative (VA.gov)
+
+### Other supporting documents created
+- Veterans Service Officer persona (Mural)
+- ARP Information Architecture (Mural)
+
+### Secondary research
+- 09/2023 Secondary Research Findings (GitHub)
+- Comparative analysis of accredited representative tools (Sharepoint)
+- 01/2024 VSO Listening Session (GitHub)
+- 02/2024 VSO User Interviews (GitHub)
+
+### Who we talked to
+Our target audience was 5-8 Veterans Service Organization Representatives who are accredited with **one** Veterans Service Organization. We spoke to 9 representatives, 8 of whom were singly accredited. One representative (marked with an asterisk below) thought they were singly accredited but ended up being cross-accredited with 8 Veterans Service Organizations. We asked this participant a subset of the planned questions.
+
+### Study recruitment criteria
+Veterans Service Organization:
+- Big 6 (7)
+  - Disabled American Veterans: 4
+  - Veterans of Foreign Wars: 1
+  - Wounded Warrior Project: 2
+- State (2)
+  - Nevada Department of Veterans Services: 1
+  - Georgia Department of Veterans Services: 1*
+
+VSO Representative sub-type:
+- National Service Officer: 6
+- Transitioning Service Officer: 1
+- State Veterans Service Officer: 2*
+
+Field experience
+- 1-3 years: 1
+- 4-6 years: 2*
+- 7-9 years: 0
+- 10+ years: 5
+
+Location
+- Georgia: 1*
+- Maine: 1
+- Missouri: 1
+- Nevada: 1
+- Pennsylvania: 3
+- Washington, D.C.: 1
+- Virginia: 1
+
+Support type
+- In-person: 3
+- Hybrid: 4*
+- Online-only: 2
+
+Office location
+- Urban: 6
+- Suburban: 2*
+- Rural: 1
+
+Service record
+- Veteran: 9*
+
+### Underserved groups we haven’t talked to
+- This research does not include perspectives of the following groups:
+- Non-Veteran accredited VSO Representatives
+- Small- and midsize national VSO Organizations
+- Regional accredited VSO Representatives
+- Tribal accredited VSO Representatives
+- Assistive technology (any)
