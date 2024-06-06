@@ -1,6 +1,6 @@
 # Research Findings for ARF Team, Accredited Representative Portal, County VSO Representatives, NACVSO Intercept Studies, 05/2024
-**Office of the CTO - Digital Experience (OCTO-DE), Accredited Representative Platform, Benefits Accredited Representative Facing Team
-**
+
+**Office of the CTO - Digital Experience (OCTO-DE), Accredited Representative Platform, Benefits Accredited Representative Facing Team**
 
 Date: 05/2024
 
@@ -8,6 +8,7 @@ Lead researchers:
 - Rebecca Blakiston, rebecca.blakiston@adhocteam.us
 - Kristen Faiferlick, kristen.faiferlick@adhocteam.us 
 - Renata Keck, renata.keck@agile6.com 
+
 Collaborators/contributors:
 - Courtney Stubbert, Designer, courtney.stubbert@adhocteam.us 
 - Mike Marinos, Product Manager, mike@agile6.com 
@@ -117,3 +118,71 @@ Research on each of the 4 days focused on a different preference test and offere
 
 ## Details of Key Findings
 
+### Key finding 1
+**What we know about county Veterans Service Organization Representatives.**
+We asked participants about their current role, work context and case load in an effort to update our persona to reflect nuances within VSOR subgroups (See updated persona).  
+
+County VSO Representatives we spoke to:
+- Are accredited, at minimum, through their state’s Department of Veterans Services or NACVSO (See Accreditation and cross-accreditation).
+- Support a large Veteran population. (See Veterans’ experiences and CVSO contexts)
+- Assist Veterans with more than just VA disability compensation claims, such as housing and education benefits, as well as other wraparound services offered through the VA, state or county.
+- May be limited to which Veterans they can support (See [Key finding 2](#key-finding-2)).
+- Have a variety of work contexts; while most CVSORs we spoke to work in-office, they may also work out in the field, including at Regional Offices, VA hospitals and Vet Centers, claims clinics, hospices, and in-home care.
+
+### Key finding 2
+**The county-to-state relationship influences a CVSOR’s workflows and geographic service area.**
+After speaking with over a hundred CVSORs, there is no singular workflow or model for county Veteran Services and support. 
+- All of the CVSORs we spoke to support substantially larger Veteran populations than other VSOR sub-groups we’ve interacted with. 
+  - CVSORs cited a ratio of 1 CVSOR to 5-10k Veterans, and dozens to hundreds of appointments and claims weekly
+
+The way a state centralizes their Veterans Services has a substantial impact on how county VSOs operate and permissions they have when supporting Veterans. 
+- In states with a centralized Department of Veterans Services, such as Tennessee, CVSOs may be required to forward all POA and claims to the state for final approval and submission.
+- Some counties restrict their VSORs to supporting Veterans within that county only. 
+  - A CVSOR from Michigan we spoke with said he provides “counseling” to Veterans in other counties, even if he is not allowed to provide in-office support or represent those Veterans with the VA. 
+- In some states, such as Colorado, POA is granted at the state-level, where any VSO Representative in the state can support the Veteran. 
+- In other instances, CVSOR may be tasked with supporting a larger geographic area. 
+  - We spoke to a CVSOR from the 4-corners area of New Mexico who supports Veterans from the other three states.
+- Quote
+  - “In Tennessee, our CVSOs have restricted access. Things are managed at the state level. The CVSOs get access to VetraSpec where they submit forms but they then go to the state for approval from their quality control team. This includes POAs. Only the state can approve POA requests.”
+
+### Key finding 3
+**Some third-party CMS tools provide quick establishment of POA already.**
+In our analysis of [representative-facing tools](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/Current%20State/Comparative%20Analysis.xlsx?d=wb03e2748544544e09f5bad8c57dbdf02&csf=1&web=1&e=CcdbJ1) and [prior research](#secondary-research), we heard from representatives that many tools, including third-party tools, are unreliable and do not provide a fast or efficient way to submit the 21-22 or claims. 
+
+At NACVSO, we heard from many CVSOR who use third-party tools (see CSVO tool and technology usage). 
+- For some, VetraSpec allows a quick POA process using Direct Submit (fast) or D2D (instantaneous). 
+- VetPro already offers a fast POA process, and is planning to pilot auto-establishment this summer.
+Fast POA submission and e-Folder access has been flagged as a pervasive pain point for representatives, and our prior research into representative-facing tools had not surfaced any comparable functionality in third-party tools. For example, in [prior research](#secondary-research), representatives told us that D2D is either unreliable or nonfunctional for submissions, and has required VSORs from at least one organization to resort to using QuickSubmit.
+- As a follow up, we asked Lighthouse for data on usage of the Benefits Claims API power of attorney services. 
+  - Tyler Tech is using the API and POA submissions and in May 2024, POA submissions through ETK Veterans' Benefits was 1439 and through VetraSpec was 256. 
+  - Looking at data from the last year, submissions were 1300-1500 per month or nearly 17,000 annually, which is comparable to eBenefits submissions though much less than QuickSubmit which receives approximately 30,000 submissions annually.
+- Quote
+  - “I use VetraSpec to submit and accept POAs and immediately get access.”
+
+### Key finding 4
+**CVSO Representatives want familiar search functionality, including the ability to search by the last 4 digits of the Veteran’s Social Security number.**
+- During preference testing, many participants said they'd need to search by SSN (or at least the last 4 digits). They confirmed that this is currently what they searched for, and would expect in a new tool.
+  - CVSORs use VBMS daily, and expanded search fields match that experience.
+- Representatives want links to relevant tools, forms and valuable resources linked within ARP. Suggestions included:
+  - The related [21-0845 form](https://www.va.gov/find-forms/about-form-21-0845/) to authorize disclosure of personal information to an individual or organization.
+  - [Code of Federal Regulations (CFR) - Title 38](https://www.ecfr.gov/current/title-38)
+  - [M21-1 Adjudication Procedures Manual](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/topic/554400000004049/M21-1-Adjudication-Procedures-Manual)
+  - Defense Personnel Records Image Retrieval System (DPRIS)
+- The tool needs to be easy to use and understand, especially for CVSORs who are less tech savvy. 
+- Quote:
+  - “When Vets come in, I search by the last 4 of the SSN pretty much exclusively. In VetPro and in VBMS, that's all you search by.”
+
+### Key finding 5
+**While CVSOs are eager to adopt digital tools and improve efficiencies with the VA, Veterans’ preferred interactions could affect ARP adoption.**
+Most CSVORs we spoke with at NACVSO support older Veteran populations. These Veterans’ needs have an impact on how CVSOs work and how they use digital tools.
+- Many Veterans don’t have or want a VA.gov account or ID.me login. This is consistent with feedback from other VSOR subgroups we’ve spoken with.
+  - In some instances, CVSORs will help Veterans make a VA.gov account in order to more efficiently support them. One participant explained that they turn their monitor towards the Veteran and ask them for their information to create an account on their behalf.
+  - ID.me is hard for older Veterans to set up and use.
+- Veterans may prefer a paper process and physical copies of forms over using digital tools.
+When preparing and submitting 21-22s digitally, CVSORs want an option for Veterans to validate their identity that does not require a computer or an account to log in. 
+- Quotes
+  - “Fewer than 1% of Veterans have a VA.gov account.”
+  - “For the Veteran who can't do VA.gov, is incapable or too old, would there be a way to use phones to validate identity without creating an account?”
+
+## Intercept Findings
+The following findings are synthesized from participants’ responses to our intercepts. Researchers submitted data to a Google Form at the time of interaction, which resulted in 105 rows of data. We then used affinity mapping to visualize responses and group the data into themes in a [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713979562420/698d59b035888d2c8ffd1248276f0f132f9db3d1?sender=u503219bf4e47eab9c75d3838).
