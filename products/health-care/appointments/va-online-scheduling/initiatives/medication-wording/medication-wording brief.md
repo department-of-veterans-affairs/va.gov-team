@@ -1,7 +1,5 @@
 # Medication Wording 
 
-#### Overview
-
 ## Outcome Summary
 
 An OIG/Congressional request came in to add content helping Veterans understand how to review their medications ahead of an appointment to various points where Veterans encounter their appointments. The objective is to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store. This initiative aims to improve communication and support veterans in managing their medication effectively.
