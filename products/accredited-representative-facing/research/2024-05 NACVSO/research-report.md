@@ -370,3 +370,175 @@ Our participant panel now includes 123 VSORs total, from 33 states and territori
 CVSO Representatives expressed excitement for our work. In particular, some called POA auto-establishment a “game changer” and one said, “shut the front door.” This indicates there is great potential for ARP to support CVSORs. 
 
 While we didn’t identify specific individuals or organizations to pilot with, given enthusiasm about the project and number of sign-ups to our participant panel, we will be easily able to tap into the CVSO population for the pilot.
+
+## Recommendations for ARP Pilot
+### 1. Adjust the unauthenticated homepage to align with user feedback.
+We recommend proceeding with [Homepage 4](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=169-203070&t=GgE0LX3xENrrjTv0-1), with key changes:
+- Shift headings to black text (as used in [H2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=56-26429&t=GgE0LX3xENrrjTv0-1)) to improve readability.
+- Reconcile and avoid poor color contrast
+- Improve content strategy to make it more clear who the portal is for and that it is not intended for Veterans.
+- Maintain VA branding and continue with clean, simple design that representatives prefer.
+
+### 2. Refine the POA request list and search/filter UI.
+Despite overwhelming preference for the [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-72051&t=GgE0LX3xENrrjTv0-1) list table, the amount of information about POA requestees will not scale well in a table format. We recommend the following design, which incorporates information needs of users along with their search/filter preferences:
+- Proceed with [A2](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-72051&t=GgE0LX3xENrrjTv0-1) left sidebar search/filter fields, expanded and displayed, but with the presentation of POA requests in cards from [E1](https://www.figma.com/design/Cj48OstdxhxbnMoEb4pQmv/ARF---NACVSO-Assets?node-id=58-90007&t=GgE0LX3xENrrjTv0-1). Additional user validation will be necessary.
+- With ARF Engineering, explore the feasibility of adding SSN search functionality, or at least last 4 SSN search functionality, as well as the ability to show the last 4 of SSN in the POA list view and/or POA details page.
+
+### 3. Continue to explore instant-access to VBMS.
+With 10 upvotes on talk-back boards, instant access to VBMS remains a high priority for users in a future tool. 
+- Participant feedback at NACVSO suggested that “instant” in VA tools isn’t necessary as fast as we think, and that users’ expectations are already tempered. However, ARF Design needs to think through how to indicate when results are ready, and where the accepted POA notification takes VSORs when they click to VBMS.
+
+### 4. Proceed with standardized drop-down decline functionality.
+- Explore a version of the drop-down that allows standardized decline messages, while also allowing the VSOR to customize the content when needed/wanted.
+- Update specific aspects of the standardized messaging:
+  - Add a standard message to the list of options: “Not accepting new clients.”
+  - We recommend modifying the standardized messaging to remove negative language around declining and instead direct Veterans to contact the VSO to find out what steps they need to take to get their POA approved.
+
+### 5. Give users the ability to find and refer back to their POA activity.
+- With ARF Engineering, explore the feasibility of viewing previously accepted and declined POA requests.
+
+### 6. Improve global navigation and information architecture around users’ needs.
+- In the global navigation, continue with drops-down labels and menu content as they are. 
+  - Once we have content on these pages, ARF Design will test that the content matches what users expect to find on these pages.
+- Continue to explore what resources should go under the “External Resources” link.
+
+## Next Steps
+1. Document ARP Pilot design in Product Decision Review (PDR).
+1. Update mockups for Midpoint Review.
+1. Update the VSO Representative persona to reflect new insights.
+1. Plan usability testing with VSO Representatives on updated mockups and to address open research questions and unresolved hypotheses.
+
+## Further Research Needed
+In future rounds of usability testing, include:
+1. ARP homepage
+  - Updated written content that outlines who the portal is for and that it’s not intended for Veterans.
+  - Completed pages available from global navigation.
+1. POA requests page
+  - Search fields expanded and displayed on the left, with the ability to search requests by last 4 of SSN
+  - Cards for displaying results.
+  - Consider A/B testing POA information in cards versus a table.
+  - Ability to view previously accepted and declined POA requests.
+1. POA request detail page
+  - Ability to view the last four of SSN in the requester's information.
+  - Additional standardized decline message copy.
+1. Mobile ARP
+  - There is still insufficient data to support the need for a mobile version of ARP. While we are building ARP mobile-first, it remains to be seen whether mobile usability testing should be undertaken. 
+  - We recommend including questions around potential mobile use cases in future testing with cross-accredited VSORs, who we theorize are more likely to work in the field and need mobile-first tools.
+
+In future rounds of testing, the following hypotheses that could not be proven or disproven in intercept testing should be addressed:
+1. Users will want to customize elements of the decline message, such as contact information, rather than select from a list of pre-populated decline messages.
+1. Users will feel the POA request card UI improves readability of search results over table list UI.
+1. When asked to find a POA request for a non-Veteran claimant, such as a Dependency and Indemnity Compensation (DIC) case, users will search for the Veteran name or information, rather than the claimant’s name or information.
+1. On mobile, users will prefer designs that save space and prevent scrolling (E1).
+1. Users will prefer “Results per page” below the list of POA requests, rather than above.
+
+Additional research questions surfaced in this study:
+1. Is the ability to filter by multiple zip codes a common use case?
+1. What is the current process for revoking POA, and is this something to put on the ARP roadmap for future development?
+1. Should we learn more about the 21-0845 form and make it available through ARP?
+1. How can we support digital submission of the 21-22 for Veterans who don’t have (nor want) a VA.gov account?
+1. How do VSOs maintain accreditation for their representatives? Who does this at a VSO, and what is the process like? How can ARP support those users?
+1. How are VSOs updating their information with OGC?
+
+## Appendix
+- [Research plan](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Intercept%20Testing_%20Research%20Plan.pdf?csf=1&web=1&e=7iF0Bb) (Sharepoint)
+- [Conversation guide](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/052024_NACVSO%20Conversation%20Guide.pdf?csf=1&web=1&e=zphvgx) (Sharepoint)
+
+### Tools used for synthesis
+- [Raw data from intercepts](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Raw%20data/NACVSO%20Intercept%20Data%20Entry%20(Responses).xlsx?d=wbb4fd1ce16b14ba0806312f2170d2587&csf=1&web=1&e=WZpGCh) (Sharepoint)
+- [Raw data from talk-back boards](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Raw%20data/NACVSO%20Talk-Back%20Board%20Data.xlsx?d=w58478add4f8049139c70e6cb38f0c2b9&csf=1&web=1&e=FBkEFc) (Sharepoint)
+- [Visualizing findings and affinity mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713979562420/698d59b035888d2c8ffd1248276f0f132f9db3d1?sender=u8cf3f08a008c2b61ad621433) (Mural)
+- [Claims Clinic notes](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/Claims%20Clinics%20Insights.docx?d=wb2d1bf7af2264435ac4f05a2d602892c&csf=1&web=1&e=XkaYyr) and [debrief recording](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/NACVSO_claimsclinic_debrief_recording.mp4?csf=1&web=1&e=wPYCcU) (Sharepoint)
+
+### Pages and applications used
+Homepage prototypes (Figma)
+H1
+H2
+H3
+H4 
+Navigation/IA
+ARP Header
+ARP global menu drop downs
+POA request page prototypes (Figma)
+A2
+E1
+E2
+Decline message prototypes (Figma)
+Free-form
+Drop-down
+Mobile testing (Figma)
+A2 (mobile)
+E1 (mobile)
+E2 (mobile + tablet)
+Photos of talk-back boards (Sharepoint)
+What are your biggest challenges supporting Veterans?
+What would make the 21-22 (power of attorney) process easier?
+Tell us how you feel about…
+Find a Representative (VA.gov)
+
+### Other supporting documents created
+The following artifacts were updated to reflect the findings presented in this report:
+- [Veterans Service Officer persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u503219bf4e47eab9c75d3838) (Mural)
+- [Current state map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1701101229797/15c7e1a5a9d426a998eb634408ff1dd3f4f9bdd1) (Mural)
+- [ARP Information Architecture](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710857598969/32219746df15eb2602a01b1b3b1b3ccf9fa8760d?sender=u503219bf4e47eab9c75d3838) (Mural)
+- [Comparative analysis](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/Current%20State/Comparative%20Analysis.xlsx?d=wb03e2748544544e09f5bad8c57dbdf02&csf=1&web=1&e=CcdbJ1) (Sharepoint)
+
+Notes taken at NACVSO sessions (Sharepoint):
+- [QuickSubmit enhancements](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/QuickSubmit%20Enhancements.docx?d=w69f846b93f01438c817a4569628fa8fd&csf=1&web=1&e=WM8IVH)
+- [VBA update with Joshua Jacobs](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/VBA%20update%20with%20Joshua%20Jacobs_.docx?d=w16b42fa734d044d1bafcf8e7deb6bf6c&csf=1&web=1&e=euePa2)
+- [VA Office of Automated Benefits Delivery](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/VA%20Office%20of%20Automated%20Benefits%20Delivery.docx?d=wa7b00ad9482142c086e62b2d773a0671&csf=1&web=1&e=vuL25i)
+
+### Secondary research
+
+#### Supporting studies
+- [09/2023 Secondary Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-09-secondary-research/2023-09-secondary-research-accredited-representation-management.md) (GitHub)
+- [11/2023 Find a Representative User Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2023-11-ARM-findarep-nav-usertest) (GitHub)
+- [03/2024 Find a Representative LIVE User Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/45e6ae651cb6ba417e17ce63204069fb53fe0618/products/accredited-representation-management/research/2024-03-ARM-findarep-live-usertest) (GitHub)
+- [01/2024 VSO Listening Session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md) (GitHub)
+- [02/2024 VSO User Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews) (GitHub)
+- [04/2024 Veteran and Caregiver Representative Experience Interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2024-04-ARM-veteran-representative-experience-interviews) (GitHub)
+
+### Tools used by VSOs
+- [Comparative analysis spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/Current%20State/Comparative%20Analysis.xlsx?d=wb03e2748544544e09f5bad8c57dbdf02&csf=1&web=1&e=CcdbJ1), which includes these and more tools. 
+- VA tools (may require special permissions to access from the VA network):
+  - [eBenefits](https://www.ebenefits.va.gov/ebenefits/homepage)
+  - [Stakeholder Enterprise Portal (SEP)](https://www.sep.va.gov/sep/web/guest/sep)
+  - [QuickSubmit](https://eauth.va.gov/accessva/?cspSelectFor=quicksubmit)
+    - Notes about [QuickSubmit presentation](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/QuickSubmit%20Enhancements.docx?d=w69f846b93f01438c817a4569628fa8fd&csf=1&web=1&e=WM8IVH) from NACVSO (Sharepoint)
+  - Direct Submit (no link available) 
+  - [Digits 2 Digits](https://www.data.va.gov/dataset/Digits-to-Digits-D2D-/ewx6-sb25/about_data) (D2D)
+- Third party CMS tools:
+  - [VetraSpec](https://www.tylertech.com/solutions/health-human-services/disability-benefits/veterans-benefits), created by Tyler Technologies
+  - [VetPro](https://vetpro.us/) 
+    - Notes from [meeting with VetPro](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/052024%20NACVSO%20Intercept%20Testing/Recordings%20and%20notes/Notes%20about%20VetPro.docx?d=w43164ce8f4504ccb811d3945ed498620&csf=1&web=1&e=9YiWAN) at NACVSO (Sharepoint)
+  - eVet (used by Ohio; no link available)
+
+### Who we talked to
+Our audience was county accredited Veterans Service Organization Representatives either currently accredited with the National Association of County Veterans Service Officers (NACVSO), or in the process of obtaining accreditation and membership to NACVSO. We spoke to over 100 CVSORs from:
+- California
+- Colorado
+- Delaware
+- Iowa
+- Illinois
+- Indiana
+- Michigan
+- Minnesota
+- Mississippi
+- Nebraska
+- New Mexico
+- North Carolina
+- North Dakota
+- Ohio
+- Oregon
+- Pennsylvania
+- South Carolina
+- Tennessee
+- Texas
+- Wisconsin
+
+### Groups we haven’t talked to
+This research does not include perspectives from the following groups:
+- Singly-accredited VSO Representatives
+- Non-county cross-accredited VSO Representatives
+- Tribal VSO Representatives
+- County VSO Representatives not accredited with NACVSO 
