@@ -95,14 +95,12 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 ## Solution Narrative
 
 ### Current Status
-- Pilot solution
-  - Implementing a hard coded version immediately upon content approval. 
+- Pilot solution: Implementing a hard coded version immediately upon content approval. 
 
-### Key Decisions  
-- Potential solution
+### Potential solution  
   -  Utilize an existing pattern to hard code the text and subsequently fetch updates via API.[more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-reference/data-reference/data-definitions.md#instructions-prepare-for-telehealth-visit)
    
-- Future solution
+#### Future solution
   - Leverage Drupal's content-as-config feature:
   	- Reuse existing design system components to maintain consistency.	
   - Implement content using a Design System component:
@@ -150,7 +148,8 @@ Appointment details:
 #### Stakeholders
 Higher level Stakeholders 
 
-TBD. The medication review language will need to be reviewed by stakeholders before it can be finalized/implemented.
+- NAPMIS
+The medication review language will need to be reviewed by stakeholders before it can be finalized/implemented.
 
 <details>
   
