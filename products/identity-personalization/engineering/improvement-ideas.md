@@ -1,5 +1,23 @@
 # Engineering Improvement Ideas
 
+
+- Developer Tools / Powertools for working locally or in non-prod environements (In Progress)
+  - Easily manipulate feature toggle values on the fly and see the results in the UI immediately
+  - Change the state of a user (LOA1/3, MFA status, login service, branch of military, etc)
+  - Provide a secondary functionality where a plugin or module could be provided to the devtool and it would render in a tab, that way a specific app team could make thier own mini set of tabs or functionalities to use in their app if they wanted.
+  - Would need to mount the devtools on the root of the app or in the startApp function so that it could be provided to the entry point of the application.
+
+- State management modernization (In progress)
+  - Currently going through approval process: https://github.com/department-of-veterans-affairs/vets-website/pull/29867   
+  - The way that the vets-website FE works with application state is very dated
+  - The official react redux docs point towards using redux toolkit (RTK), along with managing async state with RTK query
+  - Is this the best way to support application state within our applications?
+    - What are the pain points with state management now? Managing feature toggle state, form state, authentication, profile state usable by forms, other application state that could auto-fill form data to reduce burden by users submitting a form.
+    - Can some state be abstracted into a better mechanism. Everything doesn't belong in redux and our state store can be pretty bloated with duplicated data.
+    - When is a state store too large? How do we slice state and what proctices do we encourage to scale our applications when needed
+  - `react-redux` currently at 7.2.6 released Oct 25, 2021. Current version is 9.1.1
+    - using the updated version in a discovery branch along with redux toolkit as a MVP of updated setup
+
 - React router upgrade
   - How do we upgrade to the current version and not break existing applications?
   - Within the current experiments in TypeScript could we use a different router like Tanstack Router
@@ -18,16 +36,6 @@
   - Where do shared types come from?
     - TRPC style? Use server code to generate types in some way. A clent sdk is generated from the ruby based types if possible, or maybe from the vets-json-schema
     - Openapi client generator? The openapi docs for vets-api
-
-- State management modernization
-  - The way that the vets-website FE works with application state is very dated
-  - The official react redux docs point towards using redux toolkit (RTK), along with managing async state with RTK query
-  - Is this the best way to support application state within our applications?
-    - What are the pain points with state management now? Managing feature toggle state, form state, authentication, profile state usable by forms, other application state that could auto-fill form data to reduce burden by users submitting a form.
-    - Can some state be abstracted into a better mechanism. Everything doesn't belong in redux and our state store can be pretty bloated with duplicated data.
-    - When is a state store too large? How do we slice state and what proctices do we encourage to scale our applications when needed
-  - `react-redux` currently at 7.2.6 released Oct 25, 2021. Current version is 9.1.1
-    - using the updated version in a discovery branch along with redux toolkit as a MVP of updated setup
 
 - Finite state machines for application state tracking - XState
   - https://stately.ai/docs/xstate
@@ -54,8 +62,3 @@
   - Current validation service does not validate military base addresses, and will always prompt the users to confirm their address since no matches were found. Maybe this step could be removed when the user indicates living on an overseas military base, or it could be improved in some way.
   - Live address suggestion? Lots of web applications use a live search feature that pulls in the correct address as someone types, that would be a better user experience I think that waiting for a suggestion after submitting the form. There would probably be accessibility concerns that would need to be accounted for, but the current flow is admitedly less than idea. 
 
-- Developer Tools / Powertools for working locally or in non-prod environements
-  - Easily manipulate feature toggle values on the fly and see the results in the UI immediately
-  - Change the state of a user (LOA1/3, MFA status, login service, branch of military, etc)
-  - Provide a secondary functionality where a plugin or module could be provided to the devtool and it would render in a tab, that way a specific app team could make thier own mini set of tabs or functionalities to use in their app if they wanted.
-  - Would need to mount the devtools on the root of the app or in the startApp function so that it could be provided to the entry point of the application.
