@@ -65,7 +65,7 @@ _*Start recording.*_
 ## Referral questions - 10 minutes
 - We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about getting authorization for a specialist appointment or community care.
 
-- First off, have you received care from a community care provider before? You don’t need to talk about what it was for.
+- First off, have you received care from a community care provider before? (You don’t need to talk about what it was for.)
   - _If yes:_ Could you talk me through how you got that appointment scheduled?
 
   - _If no:_ No, problem. Have you ever received care from a VA specialist that you needed authorization for?
