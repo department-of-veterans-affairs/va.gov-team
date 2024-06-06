@@ -22,7 +22,7 @@ RA - Remote Access_
 - [ ] Obtain PIV card
 Note: AWS access can be granted once the EQIP has been submitted _before the PIV card is received_
 - [ ] Set up [TMS](https://www.tms.va.gov/secureauth35/SecureAuth.aspx) account and take required trainings
-- [ ] Ensure COR submits a request on your behalf for RA to the VA network 
+- [ ] Ensure your HR representative submits a request on your behalf for RA to the VA network 
 
 ### Communications 
 
