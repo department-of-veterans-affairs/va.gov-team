@@ -10,15 +10,12 @@ The rules are described in the following sections:
 
 ## Contact preference
 
-When we collect the location of residence and postal code of the submitter, we first check which contact preference they choose.
+When we require the location of residence and postal code of the **submitter**, we **first** check which contact preference they choose.
 
-`IF contact preference =` Phone `OR` Email
-
-Continue to determine whether to collect location of residence and postal code.
-
-`ELSE IF contact preference =` U.S. Mail
-
-Skip collecting location of residence and postal code separately. They're collected in the **Address component** instead.
+- `IF contact preference =` Phone `OR` Email
+  - Then: Continue to require location of residence and/or postal code.
+- `ELSE IF contact preference =` U.S. Mail
+  - Skip collecting location of residence and postal code separately. They're collected in the **Address component** instead.
 
 ---
 
@@ -36,30 +33,30 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `AND` I'm the Veteran
 
-`THEN` **collect submitter's (Veteran's) location of residence**
+`THEN` **require submitter's (Veteran's) location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter's (Veteran's) postal code**
+`THEN` **require submitter's (Veteran's) postal code**
 
 | `AND`                | `AND`            | `THEN`                                    | `&& ALSO IF Residence =` | `THEN`                       |
 | ------------------ | --------------- | --------------------------------------- | ---------------------- | -------------------------- |
-| About myself | I'm the Veteran | **Collect submitter's (Veteran's) location of residence** | CA, NY, PA, or TX      | **Collect submitter's (Veteran's) postal code** |
+| About myself | I'm the Veteran | **require submitter's (Veteran's) location of residence** | CA, NY, PA, or TX      | **require submitter's (Veteran's) postal code** |
 
 #### Flow 1.2
 `AND` About myself
 
 `AND` I'm a family member
 
-`THEN` **collect submitter (family member’s) location of residence**
+`THEN` **require submitter (family member’s) location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter (family member’s) postal Code**
+`THEN` **require submitter (family member’s) postal Code**
 
 | `AND`                | `AND`                              | `THEN`                          | `&& ALSO IF Residence =` |`THEN`                                |
 | ------------------ | -------------------------------- | --------------------------------------------- | ---------------------- | -------------------------------------- |
-| About myself | I'm a family member | **Collect submitter (family member’s) location of residence** | CA, NY, PA, or TX      | **Collect submitter (family member’s) postal code** |
+| About myself | I'm a family member | **require submitter (family member’s) location of residence** | CA, NY, PA, or TX      | **require submitter (family member’s) postal code** |
 
 ### About someone else
 
@@ -68,15 +65,15 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `AND` I'm the Veteran
 
-`THEN` **collect family member’s location of residence**
+`THEN` **require family member’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect family member’s postal code**
+`THEN` **require family member’s postal code**
 
 | `AND`                        | `AND`             | `THEN`                                    | `&& ALSO IF Residence =` | `THEN`                       |
 | -------------------------- | --------------- | --------------------------------------- | ---------------------- | -------------------------- |
-| About someone else | I'm the Veteran | **Collect family member’s location of residence** | CA, NY, PA, or TX      | **Collect family member’s postal code** |
+| About someone else | I'm the Veteran | **require family member’s location of residence** | CA, NY, PA, or TX      | **require family member’s postal code** |
 
 #### Flow 2.2.1
 `AND` About someone else
@@ -87,15 +84,15 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `AND question is about` The Veteran
 
-`THEN` **collect Veteran’s location of residence**
+`THEN` **require Veteran’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect Veteran’s postal code**
+`THEN` **require Veteran’s postal code**
 
 | `AND`                   | `AND`               | `AND`             | `AND question is about` | `THEN`                      | `&& ALSO IF Residence =` | `THEN`                |
 | --------------| -------------------- | --------------------------- | --------------------- | ------------------------------- | ---------------------- | -------------------------- |
-| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | **Collect Veteran’s location of residence** | CA, NY, PA, or TX | **Collect Veteran’s postal code** |
+| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | **require Veteran’s location of residence** | CA, NY, PA, or TX | **require Veteran’s postal code** |
 
 #### Flow 2.2.2
 `AND` About someone else
@@ -106,15 +103,15 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `AND question is about` Other family member (not the Veteran or me)
 
-`THEN` **collect other family member’s location of residence**
+`THEN` **require other family member’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect other family member’s postal code**
+`THEN` **require other family member’s postal code**
 
 | `AND`                        | `AND`                              | `AND`                                 | `AND question is about` | `THEN`                                          | `&& ALSO IF Residence =` | `THEN`                             |
 | -------------------------- | -------------------------------- | ----------------------------------- | --------------------- | --------------------------------------------- | ---------------------- | -------------------------------- |
-| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | **Collect other family member’s location of residence** | CA, NY, PA, or TX      | **Collect other family member’s postal code** |
+| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | **require other family member’s location of residence** | CA, NY, PA, or TX      | **require other family member’s postal code** |
 
 #### Flow 2.3
 `AND` About someone else
@@ -125,34 +122,34 @@ Skip collecting location of residence and postal code separately. They're collec
 
 `AND question is about` The Veteran
 
-`THEN` **collect Veteran’s location of residence**
+`THEN` **require Veteran’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect Veteran’s postal code**
+`THEN` **require Veteran’s postal code**
 
 | `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `THEN`                                      | `&& ALSO IF Residence =` | `THEN`                         |
 | -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
-| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | **Collect Veteran’s location of residence** | CA, NY, PA, or TX | **Collect Veteran’s postal code** |
+| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | **require Veteran’s location of residence** | CA, NY, PA, or TX | **require Veteran’s postal code** |
 
 ### A general question
 
 #### Flow 3.1
 `AND` A general question
 
-`THEN` **collect submitter’s location of residence**
+`THEN` **require submitter’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter’s postal code**
+`THEN` **require submitter’s postal code**
 
 | `AND`                     | `THEN`                                      | `&& ALSO IF Residence =` | `THEN`                         |
 | ----------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
-| A general question | **Collect submitter’s location of residence** | CA, NY, PA, or TX  | **Collect submitter’s postal code** |
+| A general question | **require submitter’s location of residence** | CA, NY, PA, or TX  | **require submitter’s postal code** |
 
 ### Why do we collect this information?
 
-We collect location of residence and postal code so we can route to the correct queue.
+We require location of residence and postal code so we can route to the correct queue.
 
 ---
 
@@ -169,31 +166,31 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND` I'm the Veteran
 
-`THEN` **collect submitter's (Veteran's) location of residence**
+`THEN` **require submitter's (Veteran's) location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter's (Veteran's) postal Code**
+`THEN` **require submitter's (Veteran's) postal Code**
 
 
 | `AND`                | `AND`                              | `THEN`                                          | `&& ALSO IF Residence =` | `THEN`                                   |
 | ------------------ | -------------------------------- | --------------------------------------------- | ---------------------- | -------------------------------------- |
-| About myself| I'm the Veteran | **Collect submitter's (Veteran's) location of residence** | CA, NY, PA, or TX   | **Collect submitter's (Veteran's) postal code** |
+| About myself| I'm the Veteran | **require submitter's (Veteran's) location of residence** | CA, NY, PA, or TX   | **require submitter's (Veteran's) postal code** |
 
 #### Flow 1.2
 `AND` About myself
 
 `AND` I'm a family member
 
-`THEN` **collect submitter (family member’s) location of residence**
+`THEN` **require submitter (family member’s) location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter (family member’s) postal code**
+`THEN` **require submitter (family member’s) postal code**
 
 | `AND`                | `AND`                              | `THEN`                                          | `&& ALSO IF Residence =` | `THEN`                                   |
 | ------------------ | -------------------------------- | --------------------------------------------- | ---------------------- | -------------------------------------- |
-| About myself | I'm a family member | **Collect submitter (family member’s) location of residence** | CA, NY, PA, or TX      | **Collect submitter (family member’s) postal code** |
+| About myself | I'm a family member | **require submitter (family member’s) location of residence** | CA, NY, PA, or TX      | **require submitter (family member’s) postal code** |
 
 ### About someone else
 
@@ -202,15 +199,15 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND` I'm the Veteran
 
-`THEN` **collect family member's location of residence**
+`THEN` **require family member's location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN`**collect family member's postal code**
+`THEN`**require family member's postal code**
 
 | `AND`                        | `AND`             | `THEN`                                    | `&& ALSO IF Residence =` | `THEN`                       |
 | -------------------------- | --------------- | --------------------------------------- | ---------------------- | -------------------------- |
-| About someone else | I'm the Veteran | **Collect family member's location of residence** | CA, NY, PA, or TX      | **Collect family member's postal code** |
+| About someone else | I'm the Veteran | **require family member's location of residence** | CA, NY, PA, or TX      | **require family member's postal code** |
 
 #### Flow 2.2.1
 `AND` About someone else
@@ -221,15 +218,15 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND question is about` The Veteran
 
-`THEN` **collect Veteran’s location of residence**
+`THEN` **require Veteran’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect Veteran’s postal code**
+`THEN` **require Veteran’s postal code**
 
 | `AND`                        | `AND`                              | `AND`                         | `AND question is about` | `THEN`                            | `&& ALSO IF Residence =` | `THEN`                       |
 | -------------------------- | -------------------------------- | --------------------------- | --------------------- | ------------------------------- | ---------------------- | -------------------------- |
-| About someone else | I'm a family member | `family_relationship` | The Veteran | **Collect Veteran’s location of residence** | CA, NY, PA, or TX      | **Collect Veteran’s postal code** |
+| About someone else | I'm a family member | `family_relationship` | The Veteran | **require Veteran’s location of residence** | CA, NY, PA, or TX      | **require Veteran’s postal code** |
 
 #### Flow 2.2.2
 `AND` About someone else
@@ -240,15 +237,15 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND question is about` Other family member (not the Veteran or me)
 
-`THEN` **collect other family member’s location of residence**
+`THEN` **require other family member’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect other family member’s postal code**
+`THEN` **require other family member’s postal code**
 
 | `AND`                        | `AND`                              | `AND`                                 | `AND question is about` | `THEN`                                          | `&& ALSO IF Residence =` | `THEN`                             |
 | -------------------------- | -------------------------------- | ----------------------------------- | --------------------- | --------------------------------------------- | ---------------------- | -------------------------------- |
-| About someone else | I'm a family member| `family_relationship` | Other family member (not the Veteran or me)  | **Collect other family member’s location of residence** | CA, NY, PA, or TX      | **Collect other family member’s postal code** |
+| About someone else | I'm a family member| `family_relationship` | Other family member (not the Veteran or me)  | **require other family member’s location of residence** | CA, NY, PA, or TX      | **require other family member’s postal code** |
 
 #### Flow 2.3
 `AND` About someone else
@@ -259,34 +256,34 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND question is about` The Veteran
 
-`THEN` **collect Veteran’s location of residence**
+`THEN` **require Veteran’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect Veteran’s postal code**
+`THEN` **require Veteran’s postal code**
 
 | `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `THEN`                                      | `&& ALSO IF Residence =` | `THEN`                         |
 | -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
-| Someone else’s VA benefits | I'm a connected to the Veteran through my work | `work_role` | The Veteran  | **Collect Veteran’s location of residence** | CA, NY, PA, or TX      | **Collect Veteran’s postal code** |
+| Someone else’s VA benefits | I'm a connected to the Veteran through my work | `work_role` | The Veteran  | **require Veteran’s location of residence** | CA, NY, PA, or TX      | **require Veteran’s postal code** |
 
 ### A general question
 
 #### Flow 3.1
 `AND` A general question
 
-`THEN` **collect submitter’s location of residence**
+`THEN` **require submitter’s location of residence**
 
 `&& ALSO IF residence is =` CA, NY, PA, or TX
 
-`THEN` **collect submitter’s postal code**
+`THEN` **require submitter’s postal code**
 
 | `AND`                     | `THEN`                                      | `&& ALSO IF Residence =` | `THEN`                         |
 | ----------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
-| A general question | **Collect submitter’s location of residence** | CA, NY, PA, or TX      | **Collect submitter’s postal code** |
+| A general question | **require submitter’s location of residence** | CA, NY, PA, or TX      | **require submitter’s postal code** |
 
 ### Why do we collect this information?
 
-We collect location of residence and postal code so we can route to the correct queue.
+We require location of residence and postal code so we can route to the correct queue.
 
 ---
 
@@ -302,22 +299,22 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND` I'm the Veteran
 
-`THEN` **collect submitter's (Veteran's) postal code**
+`THEN` **require submitter's (Veteran's) postal code**
 
 | `AND`                | `AND`            | `THEN`                                 |
 | ------------------ | --------------- | --------------------------------------- | 
-| About myself | I'm the Veteran | **Collect submitter's (Veteran's) postal code** |
+| About myself | I'm the Veteran | **require submitter's (Veteran's) postal code** |
 
 #### Flow 1.2
 `AND` About myself
 
 `AND` I'm a family member
 
-`THEN` **collect submitter (family member’s) postal code**
+`THEN` **require submitter (family member’s) postal code**
 
 | `AND`                | `AND`                              | `THEN`                          |
 | ------------------ | -------------------------------- | --------------------------------------------- |
-| About myself | I'm a family member | **Collect submitter (family member’s) postal code** |
+| About myself | I'm a family member | **require submitter (family member’s) postal code** |
 
 ### About someone else
 
@@ -326,11 +323,11 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND` I'm the Veteran
 
-`THEN` **collect family member’s postal code**
+`THEN` **require family member’s postal code**
 
 | `AND`                        | `AND`             | `THEN`                                    |
 | -------------------------- | --------------- | --------------------------------------- |
-| About someone else | I'm the Veteran | **Collect family member’s postal code** |
+| About someone else | I'm the Veteran | **require family member’s postal code** |
 
 #### Flow 2.2.1
 
@@ -342,11 +339,11 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND question is about` The Veteran
 
-`THEN` **collect Veteran’s postal code**
+`THEN` **require Veteran’s postal code**
 
 | `AND`                   | `AND`               | `AND`             | `AND question is about` | `THEN`                      | 
 | --------------| -------------------- | --------------------------- | --------------------- | ------------------------------- |
-| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | **Collect Veteran’s postal code** |
+| About someone else | I'm a family member of a Veteran | `family_relationship` | The Veteran | **require Veteran’s postal code** |
 
 #### Flow 2.2.2
 `AND` About someone else
@@ -357,11 +354,11 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND question is about` Other family member (not the Veteran or me)
 
-`THEN` **collect other family member’s postal code**
+`THEN` **require other family member’s postal code**
 
 | `AND`                        | `AND`                              | `AND`                                 | `AND question is about` | `THEN`                                          |
 | -------------------------- | -------------------------------- | ----------------------------------- | --------------------- | --------------------------------------------- |
-| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | **Collect other family member’s postal code** |
+| About someone else | I'm a family member | `family_relationship` | Other family member (not the Veteran or me) | **require other family member’s postal code** |
 
 #### Flow 2.3
 `AND` About someone else
@@ -372,23 +369,23 @@ We collect location of residence and postal code so we can route to the correct 
 
 `AND question is about` The Veteran
 
-`THEN` **collect Veteran’s postal code**
+`THEN` **require Veteran’s postal code**
 
 | `AND`                        | `AND`                                            | `AND`       | `AND question is about`         | `THEN`                                      
 | -------------------------- | ---------------------------------------------- | --------- | ----------------------------- | -----------------------------------------|
-| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | **Collect Veteran’s postal code** |
+| About someone else | I'm a connected to the Veteran through my work | `work_role` | The Veteran | **require Veteran’s postal code** |
 
 ### A general question
 
 #### Flow 3.1
 `AND` A general question
 
-`THEN` **collect submitter’s postal code**
+`THEN` **require submitter’s postal code**
 
 | `AND`                     | `THEN`                                      |
 | ----------------------- | ----------------------------------------- | 
-| A general question  | **Collect submitter’s postal code** |
+| A general question  | **require submitter’s postal code** |
 
 ### Why do we collect this information?
 
-These VHA offices are national. They may need to direct someone to a local medical facility or share local resources, in which case they need the postal code for the person who the inquiry is about.
+We require postal code because these VHA offices are national but they may need to direct someone to a local medical facility or share local resources.
