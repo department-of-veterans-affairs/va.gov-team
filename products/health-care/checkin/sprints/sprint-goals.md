@@ -118,7 +118,7 @@ ________________________________________________________________________________
         - ✔️ 🟪 [[Research] Analyze VSignals Data](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/80223)
         - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80233)
  - **GOAL: Address tech debt and bugs**
-   - 🟩 [[FE] - switch to new minimal header](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/84342)
+   - ✔️ 🟩 [[FE] - switch to new minimal header](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/84342)
 
 
 
