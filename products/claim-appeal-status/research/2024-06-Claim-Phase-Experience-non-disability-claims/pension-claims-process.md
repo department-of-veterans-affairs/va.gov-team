@@ -54,20 +54,15 @@ It’s in the team’s folder. There’s a folder for benefits created by a pers
 
 ## Resources
 
-* Github ticket: _[Discovery epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84260)_ 
+Github ticket: _[Discovery epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84260)_ 
 
-* [Pension team research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/24c2588860e8f32b2415addf0a81be8a2687f09e/products/pension/research/2024%2002%20Pension%20Usability%20Evaluation) 
-
-* [Pension 527EZ Online form: Logic Flow Diagram (MVP)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703103128492/30dc0956f99482beffb457eb2ae884430cc2d3f4?sender=1e4fc969-f9b0-43ca-b561-893204936b9d) - Flow diagram for the pension online form
-
-* [Eligibility for Veterans Pension](https://www.va.gov/pension/eligibility/)  
-
-* [VSR steps to process pension claim](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708629678413/23448c79bc4bdd9e0651c7cdce459a57715a8066?fromVisitorModal=true&sender=u606d6bea4af40ec4fe659363) - Details steps VSRs take during the pension claims process. 1 Initial review, 2 Gathering evidence, 3 Review evidence, 4 Prepare evidence
-
-* [FDC pension](https://www.va.gov/pension/how-to-apply/fully-developed-claim/) - Fully developed claim for a VA pension and the requirement
-
-* [How to apply for VA Pension](https://www.va.gov/pension/how-to-apply/) 
-
-* [VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) - The forms have helpful content about the claims process, e.g. what you need to do, how VA obtains evidence, what evidence to send etc.
-
-* [SubReddit Pension](https://www.reddit.com/r/VeteransBenefits/comments/1ayokrp/what_is_a_pension_and_is_it_worth_it/) - Your VA benefits claim will determine if you are eligible for a pension. If you are given 70% or higher you will not be eligible for pension. Again the pension is to offset low income veterans.
+| **Names** |  **Notes**  |
+|----------| -------------|
+| [Pension team research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/24c2588860e8f32b2415addf0a81be8a2687f09e/products/pension/research/2024%2002%20Pension%20Usability%20Evaluation) |  Team folder containing research docs |
+| [Pension 527EZ Online form: Logic Flow Diagram (MVP)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703103128492/30dc0956f99482beffb457eb2ae884430cc2d3f4?sender=1e4fc969-f9b0-43ca-b561-893204936b9d) | Flow diagram for the pension online form   |
+| [Eligibility for Veterans Pension](https://www.va.gov/pension/eligibility/) | &nbsp; |
+| [VSR steps to process pension claim](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708629678413/23448c79bc4bdd9e0651c7cdce459a57715a8066?fromVisitorModal=true&sender=u606d6bea4af40ec4fe659363) | Details steps VSRs take during the pension claims process.|
+| [FDC pension](https://www.va.gov/pension/how-to-apply/fully-developed-claim/) | Fully developed claim for a VA pension and the requirement |
+| [How to apply for VA Pension](https://www.va.gov/pension/how-to-apply/) | &nbsp; |
+| [VA Form 21P-527EZ](https://www.va.gov/find-forms/about-form-21p-527ez/) | The forms have helpful content about the claims process, e.g. what you need to do, how VA obtains evidence, what evidence to send etc. |
+| [SubReddit Pension](https://www.reddit.com/r/VeteransBenefits/comments/1ayokrp/what_is_a_pension_and_is_it_worth_it/) | Your VA benefits claim will determine if you are eligible for a pension. If you are given 70% or higher you will not be eligible for pension. Again the pension is to offset low income veterans. |
