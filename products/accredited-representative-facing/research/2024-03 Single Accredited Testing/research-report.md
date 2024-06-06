@@ -64,9 +64,7 @@ Feedback about the unauthenticated and authenticated ARP tool will inform conten
 
 ## Methodology
 **Semi-structured interviews** / The interviewer will ask the representative a series of questions to understand users’ current 21-22 process, from filling it out to submission and acceptance, with a focus on understanding current pain points and mental models. 
-
 **Usability testing** / Accredited representatives will be asked to engage with a prototype of the Accredited Representative Portal (ARP) to test usability, understandability of content, and desirability of features.
-
 **Preference testing** / Partway through the study, we noticed a disconnect between the content on the unauthenticated landing page for ARP and users’ understanding of what the tool could do and who was meant to use it. We made 4 mockups of the unauthenticated landing page’s splash and asked 4 of 9 participants for their feedback.
 
 ### Usability test prompts
@@ -136,7 +134,7 @@ We also asked our participants about their current process establishing contact 
 **Perceived usability for ARP was high, but observed usability was mixed.**
 - Participants rated the ARP tool a 4.63 (out of 5), which corresponds to an observed usability score of 51. Anything below a 68 is considered below average ([source](https://measuringu.com/sus/#:~:text=The%20average%20SUS%20score%20from,through%20a%20process%20called%20normalizing.)). Explanations for the low SUS score include:
   - Participants’ could not complete two tasks without the moderator prompting.
-   - [Task 2 (sign in)](#task-2-signing-in-and-authentication-experience) involved a sign-in flow that was not common for PIV card users. 9 of 9 participants in this study use PIV to log into representative-facing tools.
+   - [Task 2 (sign in)](#task-2---signing-in-and-authentication-experience) involved a sign-in flow that was not common for PIV card users. 9 of 9 participants in this study use PIV to log into representative-facing tools.
    - [Task 6](#task-6-bulk-select-and-approve-poa-requests) not conforming to a common use case for singly accredited VSO Representatives.
 - It should be noted that the sample size for this usability test was small, which disproportionately skews low observed usability and task success measures.
 
