@@ -42,13 +42,12 @@
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 Brian to create tickets for "new" MVP
     - **Sub Goal: Translate Content**
-      - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
+        - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
-        - 🟥 [Update Priority 3 Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84554)
         - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
         - 🟩 [[FE] - Removed old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
 </details>
