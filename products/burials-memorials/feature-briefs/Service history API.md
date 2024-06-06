@@ -55,8 +55,8 @@ The new paper form is estimated to be released around the end of June, but this 
 
 Discovery 
 - ✅ Identify information stored on Vet's API [#68092](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68092)
-- Learn how the Vet's API process works (pair with engineered) and create flow on how to handle the Vet's API for each form
-- Learn and create a flow to understand what happens back-end and after a claim is submitted (SME session)
+- Learn how the Vet's API process works (pair with the engineering team) and create flow on how to handle the Vet's API for each form
+- Learn and create a flow to understand what happens back-end and after a claim is submitted (Burial SME session)
 
 Design
 
@@ -65,6 +65,7 @@ Design
 - CAIA review and Collab Cycle
 
 Research
+- Burial SME interview to learn about processing of forms
 
 
 ## Guiding Principles
