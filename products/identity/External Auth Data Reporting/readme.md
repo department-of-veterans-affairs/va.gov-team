@@ -20,6 +20,7 @@ We want to create reporting on the data that VA will find useful and easily unde
 - [CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322)
 - [VA.gov Search KPIs](https://va-gov.domo.com/page/1964748112)
 - [Monthly - OMB Dashboard](https://va-gov.domo.com/page/1587068891)
+- [External Auth Data Reporting Notebook](https://vagov.ddog-gov.com/notebook/6285/external-auth-data-reporting)
 
 
 
