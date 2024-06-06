@@ -12,7 +12,7 @@
 - [Entry points](#nav)
 - [Redirects](#redirects)
 - Best Bets
-- [Staged Rollout](#stagedrollout)
+- Staged Rollout
 
 
 ## <a name="flows"></a>User/page flows <br>
@@ -86,11 +86,6 @@ Current URL | Redirect to | Notes
  |  | 
 
  No redirects needed at this time, but I think we can touch base as we get closer to the integration into Profile so we can connect on what will happen to this page.
-
-## <a name="stagedrollout"></a>Staged Rollout<br>
-*Is the team planning a staged rollout? Pages/sections that can't have a widget: find a form pages, within accordions, hub pages*
-
-**[Which static page has the widget, ie the main entry point?]**
 
 
 
