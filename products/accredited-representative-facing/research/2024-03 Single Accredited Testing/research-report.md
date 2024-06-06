@@ -475,4 +475,167 @@ ADD TABLE
   - “You [should] have that symbol for [copying text] and it just says, should say ‘copy file number,’ click the copy, then gimme a little indication that it’s copied. I think VBMS does that. The system we have doesn’t, so you click it, but you’re not always sure. Did it go through? So a little, just a quick copy ‘cause then I just pull up the search bar in VBMS [and] paste.” -P7
   - “So, the [accepted POA] is in the accepted ones now. Takes them out of [the pending POA requests] section. Cool. So that’s great, but again…if it says ‘Do you want to export these to Word document’ or whatever. If there’s an ability to have their name and social security number, you know, then we can…add all those things in [our CMS] or send that to somebody to add those people into our system.” -P8
 
+### Task 6 / Bulk select and approve POA requests
+*8 of 9 participants completed this task*
 
+ADD TABLE
+
+- 7 of 8 participants struggled to bulk select and accept Veteran POA requests from Wichita, Kansas without prompting from the moderator. This is because:
+  - Participants  do not bulk accept or decline requests, preferring to review each request individually before making a decision. This differs from responses from our user interviews, where some singly accredited VSO 
+Representatives said they have members of their team whose job is to monitor and bulk clear incoming requests.
+  - Our task flow involved filtering the table of pending POA requests using the column sorting, rather than using city and state search fields above the table. This flow was counter to participants’ mental model.
+- SEQ quotes
+  - “It’s just a massive selection without looking at the Veterans’ information. (So would that change your score at all, that you’re not able to review all of the Veterans’ information before accepting?) Well, I mean, that’s two different questions. Was it easy to accept them? Yes…Should I accept all of them? No, because I haven’t reviewed any of them.” -P3
+  - “You could make it easy also by showing the arrows on the Veteran’s name, limitations and all. I mean it’s right there, I was able to understand just visually that it’s not a header and I can sort [through the requests].” -P5
+  - “This is closer to a three or four [out of 7]. Having the check box as opposed to a ‘select all.’  That would save me keystrokes or clicks.” -P7
+  - “It’s a seven [out of seven] but it needs, it definitely needs an additional workaround.” -P8
+- Quotes about bulk accept not being useful
+  - “You still have to go through each and every one of [the POA requests] and click [to review them before accepting]. Then maybe there’s hundreds that could take you a really long time if you did it that way.” -P1
+  - “I would go page by page [to review requests]. I don’t know how often I would select all, though. I would probably want to do these individually.” -P2
+  - “I would definitely go line by line and open up every single Veteran [POA request] to review their information and then accept from their [POA request detail] page.” -P3
+  - “[W]hat we typically do is I would call [the Veteran] first to make sure there’s no POA, no appeal that is pending. So that we wouldn’t accept it and then have to call ‘em up later and go ‘I’m sorry but you’ve got an appeal pending and we’re not gonna be able to accept your POA.’”  -P5
+  - “There’s nobody at [VSO] whose job is to [bulk accept POA] in SEP. The [VSO Representative] will usually engage and check, and if we do see that there is POAs in there that have limitations or haven’t, they’re gonna engage with that [Veteran] directly to make sure that, okay, we’ve received a request, we can’t approve it, this is why.” -P6
+  - “I would not approve any of those [POA requests] until I click on each one of them and be able to add them [to our CMS]. [...] There’s two reasons why people would [bulk accept] and it’s ‘cause they’re lazy or stupid.” -P8
+- Quotes about searching by city and mental model
+  - “I’d go to [VSO], then I could go to Wichita, Kansas search and then it would hopefully pull up a list of all the [VSO] requests outta Wichita, Kansas.” -P2
+  - “I would think, I would guess…everything would just automatically populate and I could just hit Kansas or hit state to go straight to Kansas.” -P4
+  - “I would go to the city, Wichita, and then Kansas. And then I would do a search.” -P5
+  - “I’d click on, of course, the state, and then of course VSO[rg] and then I’d search. [...] I’d never use city ‘cause I don’t care where they live.” -P8
+
+- Once prompted to sort columns in the POA request table, participants found the functionality of the table useful. Participants requested additional functionality to make the bulk accept useful for their current workflow:
+ - Make clear search button easier to locate, or automatically clear search when returning to the POA requests page (2)
+ - Ability to deselect requests with limitations of consent (2)
+ - Display POA history (1)
+- Quotes about sort feature in POA requests table
+ - “You can itemize [the requests] here.” -P1
+ - “Oh the columns, you can click the column [to] change!” -P3
+- Quotes about additional functionality required to make bulk accept flow usable for singly accredited VSO Representatives
+ - “All right, well [the search fields] should be blank.” -P1 (In reference to automatically clearing search fields)
+ - “I’d probably unselect the one that says health and the health and address [limitations of consent], but the other ones with no issues, I could [accept]. [...] I like [the accept popup] because then it allows me to understand that I do have some that are limited and by our standard we would have to drill into that before we accepted [those POAs]. So then I’d cancel out, find those Veterans and then contact them and ask ‘em why.” -P5
+ - “I would go back, uncheck those [POA requests with limitations of consent] and then accept those that are, don’t have any limitations. [...] Maybe a button that says, ‘accept only those without limitations of consent.’” -P6
+ - “I don’t like things disappearing from a screen, ‘cause I don’t want to ever like forget where I’m at, you know. So if I accept [the POA requests] and then they are no longer viewable, I want to go in [and find them]. I wouldn’t want to create a duplicate, if we’ve already accepted some people.” -P8
+
+## Task 7 / Decline Veteran POA request
+*8 of 9 participants completed this task*
+
+ADD TABLE
+
+- While 8 of 8 participants were able to complete the decline flow without prompting from the moderator, 1 participant was concerned that the “accept” and “decline” buttons would not have consistent interactions. 
+ - This is because declining a Veteran in ARP v1 is a 3-step flow: clicking the “Decline” button, inputting a reason for declining in a text box, clicking “Decline” again, and then agreeing when a “confirm decline” popup appears.
+ - Participants were concerned about how decline messaging would be delivered to the Veteran and how the Veteran would understand the message.
+ - ARF Design intends to test a 2-step decline flow that would eliminate confusion over the Accept/Decline buttons.
+- Decline flow SEQ quotes
+ - “That was super easy.” -P1
+ - “Streamlined [and] quick.” -P4
+- Quotes about communicating the decline message to the Veteran
+ - “It’s a six [out of seven]...If you are a Veteran, what does [a decline] mean to you? ‘Please resubmit 21-22 and grant access for health records.’ [...] It just needs to be easier [for Veterans to understand].” -P2
+ - “One [out of seven]...I did like the narrative reason why we’re declining right then and there and it saves me having to call ‘em and say ‘this is why we can’t accept it, you need to redo it.’ Whereas now they’re gonna get that notification in their email or whatever. I’m guessing in VA.gov, there’s a message center saying ‘hey you got a new message, [your POA request] was declined, here’s the reason.’” -P7
+- Quotes about confusion over 3-step decline flow
+ - “I don’t like that when now we’re going to accept and decline, because I’m like well, am I accepting that or…so now I’m confused about which button I would hit…because I don’t know if I hit decline, I’m declining this [POA] and now I’m back to…I’d really be concerned. I don’t know which one to hit.” -P7
+
+- 6 of 8 participants would decline a Veteran’s POA request if it limited consent to health records.
+  - The 2 participants who said they would accept the request were both from the same VSO, which has a policy of accepting any and all POA requests. These participants said they would reach out to the Veteran to explain the limitations of consent and have them resubmit the 21-22 after explaining why consent has to be given. 
+  - No participants said they would decline a request purely on restricting access to change a Veteran’s address.
+  - This pattern is consistent with findings from our prior research.
+
+- Participants liked the ability to write a decline message to the Veteran as part of the decline flow.
+  - 6 of 8 would rely on boilerplate language written by their VSO in communications with the Veteran.
+  - 2 of 8 participants wanted the ability to customize the message fully to tailor to the individual Veteran’s request.
+  - 4 of 8 participants would still email or call the Veteran after declining their POA request, despite the ARP system sending the decline message to the Veteran automatically.
+  - 2 of 8 participants were concerned that the messaging sent to Veterans would be too negative if it used the term “decline,” which they interpreted as an outright rejection of the Veteran by the VSO. They asked that messaging to the Veteran use neutral or positive language to encourage them to reach out and communicate with the VSO to correct any limitations of consent so that representation would be accepted.
+- Quotes about boilerplate decline language
+  - “Our boilerplate is pretty good. It’s not, you know, anti-anything. It’s just letting [the Veteran] know we just need them to take certain actions before they come to us.” -P1
+  - “I would put limitations or something here. Maybe just copy and paste that [from my VSO manual], put it in there and decline.” -P3
+  - “We have some text we would use already.” -P9
+- Quotes about contacting the Veteran
+  - “I’m gonna email him, I’m gonna give him a phone call. If he doesn’t answer, leave a message. If I can email him with that email [in the POA detail view]...if all else fails, we have the address and name there so I can mail the information to them.” -P3
+  - (Where do you think Veterans will receive the decline message?) “I don’t, to be honest with you. I think that I mainly don’t care just because [we will be] reaching out to ‘em directly.” -P4
+- Quotes about decline language
+  - “There needs to be a term for rework, maybe ‘rework claim’ or…not readjudicate, but I guess rework that’s the only thing that’s coming to my mind. Because at the end of the day, we’re not gonna decline any Veteran at all. We, we’ll try our best to reach out and get their approval…The decline word is kind of harsh for me. I would inform the Veteran what we do to fully assist them with their claim. I have to have medical records.” -P3
+  - “Our wording is a little bit different to make it more understanding why we’re not accepting [the POA request] or that we can’t accept it. We put more of the blame on VA.” -P4
+
+- Consistent with findings from other flows within ARP, 1 participant wanted a snapshot of the decline request and language saved in ARP or available to download for their VSO’s CMS to have a record of actions taken on the POA request.
+- Quotes about having copies of actions taken on declined POA requests
+  - “[Is clicking decline] assuming I already have all of this [recorded] in my system?” -P4
+ 
+### Task 8 / Net Promoter Score (NPS)
+*8 of 9 participants completed this task*
+
+- 7 of 8 participants gave positive feedback on their overall ARP experience. 
+- The outlier on NPS said they did not see value in ARP as an everyday tool. This participant’s organization uses a Tyler Technology tool that combines client management features with the ability to populate and submit forms. 
+  - A participant from our user interviews and participatory design study using the same tool had similar feedback, suggesting that widespread adoption by third party tool users may require more than SEP parity; such as the ability to sync to a CMS or auto-populate form fields. 
+- NPS Quotes (High scores)
+  - “Five [out of 5], totally. That’s the kind, it’s added the kind of functionality I think we’ve kind of always wanted to see in little ways here and there, and I think it’s a lot more useful than [SEP was] before. It’s so limited right now. You just can’t really do much. You can’t count on it. It’s constantly wonky.. Sometimes it won’t even let you log in, like there’s always problems…so to have something like this that provides much more detail, gives you the ability to give it one more thought to bulk approve or bulk decline. You know, to customize a note that actually gets kicked to the claimant so they understand why.” -P1
+  - “It’s just the easier [tool]. If we’re doing everything digital and everything is just sliding right into place where it should be, it’s gonna make our day faster. We’ve got appointments, walk-ins, everybody out there waiting. The faster we get one Veteran done, we can get the next one in.” -P2
+  - “I’d say it’d be leaps and bounds above SEP as it is right now.” -P4
+  - “It’s really good. It’s visually appealing, I mean, you know, it’s straightforward. I don’t particularly see a use for the ‘Veterans can now digitally submit a 21-22’ because you know, that’s why we’re in [ARP] for, but besides [that], that’s not a big deal. But everything else is straightforward.” -P5
+  - “I would say a five [out of five] ‘cause it’s easy access into the system and I know most VSO [Representatives], if you have a digital link where it’s updated quickly and they can get access to the file to help someone, they’re gonna like the tool.” -P6
+  - “I want to use [ARP] so much that we make it awesome or break it. We need to make sure the full scope of what we’re getting into so we can be [utilizing] it to its full potential.” -P8
+- NPS Quotes (Low score)
+  - “Honestly, probably a two [out of five] because you need to know when it’s an appropriate time to use this tool. Because yeah, I’ve been doing this a while. I have a lot of friends all over the country, so for them, I would be like ‘hey man, do this. Send it to me and I can take care of it.’ Because now I’m just like here’s a form, fill it out, sign it, scan it, or email it or something back to me. So for, in that case, again, because I’m more knowledgeable and I know when it would be appropriate, I would [use ARP]. But there could just be a lot of issues and it could overwhelm people. Again, using a whole other system on a regular basis. Like I would use this occasionally just for those one-offs that they can’t get to our office for whatever reason.” -P7
+
+## Additional Insights
+
+### Consider additional functionality to enhance the VSO Representative experience. 
+Participants were asked what additional features - in addition to feedback already given for each feature and flow tested - would enhance their experience using ARP to manage power of attorney requests. Feedback fell into 3 categories: 
+- **1. Make it easier for Representative-Veteran interactions in-person.**
+  - 2 of 9 participants would like the ability to walk a Veteran through the 21-22 digitally in the office to submit through ARP, potentially without the Veteran needing ID.me or a VA.gov login.
+- **2. Customize the ARP experience to accommodate a variety of workflows, and facilitate next steps in the claims management process as soon as a POA request is accepted.**
+  - 4 of 9 participants asked for the ability to expand the list of pending POA requests instead of relying solely on pagination.
+  - 3 of 9 participants requested the ability to change the order of columns in the pending POA requests table, save searches, or customize search parameters.
+  - 2 of 9 participants wanted ARP to automatically populate Intent to File upon accepting POA, or attach and submit other forms to the POA before you finish the Accept flow.
+- **3. Build trust in the ARP system by providing visibility.**
+  - 3 of 9 participants want clear assurance that VA forms are current and up-to-date within ARP.
+  - 1 of 9 participants wanted documentation from the VA acknowledging that VA accepts digital signatures from the Veteran and the VSO Representative when a POA goes through ARP.
+  - 1 of 9 participants asked that VSO Representatives receive an email or notification within ARP to confirm that a POA they accepted or declined has been acknowledged and received by the VA.
+
+### There is not a clear use case for mobile ARP…yet.
+Participants were asked what equipment they use to do their job and whether there was any use case where they would like a mobile-ready version of the ARP tool. 
+1 of 9 participants said a mobile-ready ARP tool would be useful for instances where they are traveling and need to quickly approve a request, but that use case would be extremely rare.
+We recommend further exploration into a mobile-ready ARP with cross-accredited VSO Representatives, who are more likely to work in the field.
+- Quotes about mobile ARP
+  - “I don’t know where [I’d use ARP on mobile], so I would use the laptop, and the reason is, because I would be able to see everything much better than on a mobile device. I could see the use of a mobile device, especially if we’re traveling and we’re at [a] conference and I wanna check it out. But I, you know, that would be, for me, it’d be few and far between to do that. Because when we accept the POA we usually call [the Veteran] and that’s where it’d be nice to do that through the laptop.” -P5
+
+### Cross-accredited VSO Representatives may have a different mental model for their accreditation and work than previously thought. 
+One of the participants of this study signed up in error, assuming they were a singly accredited VSO Representative for the state of Georgia, when they in fact hold 8 cross-accreditations. This is because, to the participant, they are employed through and primarily accredited with the Georgia Department of Veterans Services, and their cross-accreditations are organizations with whom they agree to support. Some design considerations the participant raised include:
+- This participant felt that their user profile in ARP once logged in should indicate their accreditation with the Georgia Department of Veterans Services before listing other organizations through whom they are accredited.
+- The participant did not think it was appropriate for them to approve or decline incoming POA requests regardless of the VSO requested on the 21-22, because they answer to management at the state level as well as from their cross-accredited VSOs at the national level.
+- The participant did not see the value in filtering POA requests by VSO and would default to filling out new 21-22s with the state of Georgia or American Legion, who has a Memorandum of Understanding with the GDVS. 
+Overall, this participant’s feedback should help inform changes to the ARP UI to accommodate cross-accredited workflows. Additional research will be necessary to understand how prevalent these workflows and conceptions of accreditation are. 
+- Quotes about cross-accredited workflows
+  - (If you are switching between Veterans who you support through the Georgia Department of Veterans Services and American Legion, are you logging out and logging back in [to SEP and Tyler Tech], into a different homepage?) “No, I’m not logging in and logging out of different accounts or different pages or anything. I’m just logging in and, you know, either [...] it'll say POA is Georgia Department of Veterans Services, or POA is American Legion, or it’ll just tell me who the POA [VSO] is.” -P9
+  - “I wanna see all of the POAs that I am currently accredited with [in the pending POA requests table], all the VSOs that I’m accredited with under my OGC number [in the user profile]. Especially if I’m a county VSO. And in that way the system is also designed to…acknowledge that they’re allowed to see information for each one of the organizations they’re accredited with. [...] I want to maintain quality controls of [my] work.” -P9
+
+### VSOR Find a Representative feedback was mixed.
+In collaboration with the Accredited Representation Management team, ARF Design showed the live Find a Representative experience on VA.gov to 5 of 9 participants.
+- 4 of 5 participants were able to find themselves using the tool, with moderator prompting. 
+- 1 participant struggled to find themselves with the tool because their address was 11 years out of date. This participant made a comment assuming that roughly 90% of VSOR information in the OGC database is incorrect, so searching for representatives by location and contact information is irrelevant.
+- 3 participants could not find themselves because all representatives at their organization are listed under the same address
+  - 2 of these participants were from the same Big 6 VSO
+  - 1 participant was a State VSOR
+- Participants liked the informational content on the Find a Representative page, including the definitions of each representative type.
+  - 1 participant wanted bulleted versions of each representative definition, because the content was too “wordy.”
+- 2 of 5 participants requested the ability to search by organization rather than location. These participants worked for VSOs that have a centralized organizational model where location of the VSOR is irrelevant to the type and level of care provided to the Veteran.
+  - 1 of these participants attempted to use the name search field to search by organization.
+- 4 of 5 participants would not use the report button for various reasons:
+  - 3 participants were concerned that reporting their information would impact their accreditation status.
+  - 2 participants wanted to update their information, but wanted to know how the “report” button would be used first.
+  - 1 participant would not report outdated information, because their VSO has a centralized model, and individual VSOR do not handle accreditation issues with OGC.
+- 1 participant was surprised to see their accreditations listed when they found their information in the tool.
+  - This representative was cross-accredited, and wanted to see their “home” organization listed at the top of the list of accreditations.
+
+### VSO Representatives are eager to be included in other VA.gov research efforts.
+VSO Representatives repeatedly said they felt like their feedback has been ignored in the development and redesign of VA.gov products. Participants said they had experience handling and greatly desired the opportunity to provide feedback on pension, DIC, and dependency claims, as well as the 21-526 form. While testing on these elements is outside of the scope of the ARF team, we can recommend VSO Representative points of contact to other VA.gov teams working on these products, should they desire VSO Representative input in future research. 
+
+## Recommendations
+This section is divided into two parts: Critical Recommendations for Pilot and Future Considerations. The first part highlights our suggestions that should be incorporated in the coming months as part of our initial user experience. The second part highlights suggestions that are larger in scope and will require more exploration, yet are important to consider as the Accredited Representative Portal evolves over time.
+
+### Critical recommendations for Pilot
+
+Do not pilot ARP with VSO Representatives who use and are currently happy with third-party tools.
+ARF Design strongly recommends a pilot of ARP with both current users of SEP, and users with no prior experience in SEP. However, based on repeated feedback from users of Tyler Technology representative-facing tools, we believe they should be excluded from the ARP Pilot. These users:
+
+Operate at the state level
+Have limited cross-accreditation (2 or less) or are singly accredited
+Have software needs that exceed VA-facing functionality, such as social services or other wraparound supports.
+These users have suggested use cases for ARP in their workflows in the future as an “occasional” or rare instance where its functionality exceeds that of Tyler Technologies’ offerings. As such, we believe that they would be better suited to using the tool once it is available to the general population of accredited representatives.
