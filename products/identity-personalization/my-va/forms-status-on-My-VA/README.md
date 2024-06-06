@@ -120,7 +120,7 @@ TK TK
 - April 18, 2024: Design Intent
 - May 21, 2024: Midpoint Review
 - May 29, 2024: CAIA a11y Pilot
-- ____: Usability Study
+- June 2024: Usability Study
 - ____: QA
 - ____: Staging Review
 - ____: UAT
