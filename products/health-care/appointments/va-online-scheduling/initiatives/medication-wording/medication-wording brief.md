@@ -86,11 +86,26 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - 6/14/24
 - *Actual Launch Date* 
   - tbd
 
 ---
+
+## Solution Narrative
+
+### Current Status
+- Potential Solution:
+  - Drupal
+  - API
+
+### Key Decisions
+- Pilot solution
+  -   TBD
+  -   TBD
+- Future solution
+  -  TBD
+  -  TBD 
    
 ## Screenshots
 
