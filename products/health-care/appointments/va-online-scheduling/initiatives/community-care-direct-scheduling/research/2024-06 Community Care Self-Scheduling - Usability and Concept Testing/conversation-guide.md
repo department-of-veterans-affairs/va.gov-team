@@ -71,20 +71,22 @@ _*Start recording.*_
   - _If no:_ No, problem. Have you ever received care from a VA specialist that you needed authorization for?
     - _If yes:_ How did you get that appointment set up?
 
-  - _If no to all:_ If you needed to see a community care provider, how would you get approval for that appointment? (use specialty care if they don’t know)
+  - _If no to all:_ If you needed to see a community care provider, how would you get approval for that appointment? _(moderater note: ask about specialty care if not sure about CC)_
 
-- And what would you call these types of requests/authorizations? (OR How would you refer to the process of getting this type of appointment set up? / How would you refer to the thing you get from your provider that allows you to schedule this type of appointment?)
+- What would you call the thing you get from your provider that allows you to schedule this type of appointment? OR How would you refer to the process of getting this type of appointment set up?
 
-- If these (authorizations/approvals/referrals - whatever the participant calls referrals) were kept in a digital format somewhere for you,
-  - Where would you expect to find new items you could schedule an appointment for?
-    - And what information would you expect to be included?
-  - Where would you expect to find older items?
+- Ok, and if these _____ _(whatever the participant calls referrals)_ were kept in a digital format somewhere for you,
+  - Where would you expect to find new ones you could schedule an appointment for?
     - And what information would you expect to be included?
 
+  - Where would you expect to find older ones?
+    - And what information would you expect to be included?
 
 
 - Ok, thanks. And if you could complete the scheduling process yourself online for a community care appointment, how would you expect to do that?
-  - If needed: What would you expect that process to be like? Where would you go to do that?
+  - _If needed:_
+    - What would you expect that process to be like?
+    - Where would you go to do that?
 
 
    
@@ -92,7 +94,7 @@ _*Start recording.*_
 
 ## Task #1 - Usability Testing - 20 minutes
 
-- Ok, thank you! So now I'll have you try a prototype for filing a travel reimbursement claim where you or a caregiver drove your own vehicle, from your home address, directly to your medical appointment, and then back home. 
+- Ok, thank you! So now I'll have you try a prototype for scheduling a community care appointment you previously requested. 
 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 
@@ -137,7 +139,7 @@ _Send [Prototype link](LINK)_
 
 _**Participant starts at Text message:**_
 
-- Now, imagine you just received this text message from VA about a referral. 
+- Now, imagine you just received this text message from VA. 
 
 - Go ahead and review it.
 
@@ -146,10 +148,6 @@ _**Participant starts at Text message:**_
 - How does this compare to what you’d expect to be in a text like this?
 
 - Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here.
-  - _If needed:_
-    - I noticed you selected ___ / paused at ___ / . Could you tell me more about that?
-    - Is there anything confusing about this?
-
 
 ---
 
@@ -162,9 +160,7 @@ _**Participant is at mock sign in page:**_
 
 _**Participant is at Appointment list:**_
 
-- Ok, I’ll have you stop here. Was there anything confusing about that process? 
-
-- Where were you expecting to end up?
+- Ok, I’ll have you stop here. Where were you expecting to end up?
 
 - Now let’s take a look at what’s on this page. Can you briefly review the page and tell me about it?
 
@@ -180,7 +176,7 @@ _**Participant is at Appointment list:**_
   - Did you notice anything about a referral? 
   - Did you notice the box at the top of the page? What does that mean to you?
 
-- Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message.
+- Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message you received.
 
 ---
 
@@ -202,14 +198,16 @@ _**Participant is on provider page:**_
 
 - How would you normally go through finding a provider?
 
-- And without doing it yet, what would you do next on this page?
+- _If preferred provider wasn't mentioned:_ What's your understanding of the box at the top of the page?
+  
+- And without doing anything, I'm curious, what would you do next on this page if I wasn't guiding you?
 
 - Ok thanks, and what would you do if you wanted to search for providers with specific criteria or availability?
 
 - Go ahead and walk me through that.
   
   - _If needed:_
-    - Did you notice any way to choose information about the provider you want?
+    - Did you notice any way to choose information about the provider?
     - Did you notice the link that says filter? Go ahead and click on that.
    
 
@@ -217,7 +215,7 @@ _**Participant is on provider page:**_
 
 _**Participant is on filter page:**_ 
 
-- Tell me about this page?
+- Tell me about this page.
   - _If needed:_ Is there anything confusing about this page and the information included here?
 
 [AVAILABILITY FILTER]
@@ -225,17 +223,17 @@ _**Participant is on filter page:**_
 - _If calendar selection was not mentioned:_ Let's review the first filter option. What's your understanding of that?
   - _If needed:_ What can you do there?
   
-- Can you demonstrate how you would use that first filter option? (Date picker)
+- Can you demonstrate how you would use that first filter option? _(Date picker)_
 
-- Is there anything about this that is not what you expected?
+- Is there anything about this that's not what you expected?
 
 - Go ahead and select any date.
 
 [SHOW ONLY ONLINE SCHEDULING FILTER]
 
-- _If online shcheduling option was not mentioned:_ And what about the second kind of filter there, what does that mean to you?
+- _If online scheduling option was not mentioned:_ And what about the second kind of filter there, what does that mean to you?
  
-- _If not yet mentioned:_ If the provider you were looking for did NOT have the option to schedule online, would you expect to find information on that provider here? 
+- _If not yet mentioned:_ If the provider you were looking for did NOT have online scheduling, would you still expect to find information on that provider here? 
     - _If yes:_ What information would you expect?
     - _If not:_ Could you tell me more about that?
 
@@ -261,7 +259,7 @@ _**Participant is on 2nd provider page:**_
 
 - And how does this match up to what you expected to find on this page?
 
-- Ok, thank you. Let's pretend that the first provider matched what you were looking for. Go ahead and choose that provider.
+- Ok, thank you. Let's pretend that the first provider matches what you're looking for. Go ahead and choose that provider.
 
 
 ---
@@ -272,7 +270,7 @@ _**Participant is on choose time and date page:**_
 - Is there anything missing you’d expect to find on this page?
  - _Things to watch for:_ Is there any provider information that is not included?
 
-- Walk me through how you would continue from here.
+- Walk me through how you would continue from here. _(Stop participant to ask about any usability hurdles)_
 
 ---
 
@@ -301,16 +299,16 @@ _**Participant is on success/detail page:**_
 
 - Thank you! I just have one more thing for you to review.
   
-- Now I’ll have you go back to your list of appointments by selecting ____. (guide them back if needed)
+- Now I’ll have you go back to your list of appointments by selecting ____. _(guide them back if needed)_
 
 
 _**Participant is on appointment list page (no task card):**_
 
 - Earlier we talked about where you would expect to find referrals. I’d like to get your feedback on an early concept for where those referrals might be.  
 
-- You mentioned _______. (RECAP where the participant expected to find referrals). So first of all, from here, where would you look for new referrals?
+- You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. From here, where would you go to get to those new referrals?
 
-- And where would you look for old referrals?
+- And where would you go to review old referrals?
 
 - Ok, thank you. Now, I’ll have you navigate to your Pending appointments list. 
 
