@@ -93,3 +93,386 @@ Feedback about the unauthenticated and authenticated ARP tool will inform conten
 **What we know about singly accredited Veterans Service Organization Representatives.**
 We asked participants about their current role, work context and case load in an effort to update our persona to reflect nuances within VSOR subgroups (See updated persona). 
 
+Singly accredited VSO Representatives we spoke to:
+- Primarily work at the state, regional, or national level; may have assignments at the sub-state level only if they work for state government (See Appendix).
+- Support fewer Veterans than other VSOR sub-types, with caseload ranging from tens to a few hundred active claims at a time.
+  - So far, we have observed that Big 6 and VSOR assigned at the state- or county-level carry a higher workload than VSORs who operate at the national-level.
+- Quotes about work context 
+  - “I interview Veterans daily, either in-person, on [the] phone, and assist them with their VA disability claims process.” -P3
+  - “I…do claims for Transitioning Service Members. In fact, I was just finishing up one a little while ago, but it’s not as taxing as if I were [a National Service Officer]. [...] We have defined Transitioning Service Members as anyone from 180 days to one day prior to separation, and then also our Veterans who are within the first year they’re out. So our folks on military installations will be able to assist all those folks [up to one year], after the first year…we hand them off, give them a warm handoff to our, what we call department service officers. Those are the Service Officers who are in the communities who can best serve them.” -P5
+  - “[T]he benefits training and operations team, we help the entire Benefits team with complex cases. We track everything through a claims assistance tracker. So I think so far this year we probably provided about 200 hours of support, helping adjudicate claims. [...]So not only do [I] do training, but [I] also support the team.” -P6
+- Quotes about caseload (Big 6 VSORs)
+  - “I primarily serve a non – let’s say – advocate role in terms of filing claims to the VA on a day-in and day-out basis. I’m mostly operational with my director, but I do maintain a niche subset of cases for mostly special forces and other high-priority needs from our board of directors. So I do access VA systems every day just to make sure…but I do maintain a much smaller caseload. [...] It could be anywhere from 25 to 50 [Veterans].” -P1
+  - “Right now I probably have 90 active claims just on my book, but that number is obviously significantly higher across the whole [VSO].” (And that’s individual Veterans or is that active claims?) “That is individual Veterans.” -P2
+  - “So the month of March I had 1,401 file reviews, 254 phone calls, 115 in-person [Veteran] interviews, 521 direct uploads. That’s when we submit claims and evidence…and then [my] quarter total is going to be 2,940 [Veteran] interactions.” -P3
+  - “We probably get anywhere between 30-40 phone calls a day. Anywhere between 20 and 30 emails a day. 5 to 10 pieces of mail. But it’s not always the same Veterans, obviously. It…could be everybody’s different, every day. It could be frequent flier-type people, whatever.” -P4
+  - “Our [Transitioning Service Officers] typically could do about 20, 25 claims a week for transitioning service members and…that’s their full-time job.” -P5
+- Quotes about caseload (State VSORs)
+  - “A lot [of cases]. Probably currently monitoring 4[00] to 500 in various stages of development between very beginnings to the ends, to the appeals and all that. But probably in the 2,000s by now.” -P7 
+  - “So we’re a rural state, so we did like 600 phone calls last month, but we only had probably a hundred [Veteran] interviews.” -P8
+(So in a typical day or week, how many Veterans are you supporting?) “Wow, Jesus. 20…40, say 80-100 [per week].” -P9
+
+We also asked our participants about their current process establishing contact with and power of attorney for a Veteran, as well as the steps taken around establishing POA. 
+- Singly accredited VSORs may not accept a POA without communicating with the Veteran first.
+  - This may go through a VSO’s unique intake team and intake process to triage a Veteran’s needs, or it may be a conversation between the VSO Representative and the Veteran.
+  - May have the Veteran sign an agreement to work with the organization before commencing work.
+- We heard several examples of working with Veteran populations to get the POA filled out:
+  - VSORs working in states areas with large rural Veteran populations may fill out and send the 21-22 by mail or email for the Veteran to sign and mail back, rather than relying on the Veteran to fill out the form themselves. 
+- Some VSORs will submit an ITF and the POA simultaneously to reduce processing times, which is consistent with what we heard during our user interviews. 
+- Quotes about establishing communication with the Veteran first
+  - “For [VSO], we have our own statement of policy letter. We have the Veteran sign…if it’s an email and initial contact, we have an email that gets sent out to ‘em to tell ‘em exactly what the forms are for and how to fill them out. [...] First thing we ask them is if they’re represented by us. If they’re not, at that point in time, we start printing out the documents, filling out the document for them, and then explaining what this [form] is for and then they sign it and we submit it from there.” -P3
+  - “We send them a statement of policy…through email[.]” -P4
+  - “So what I normally do is … first give ‘em a call and … say ‘I’ve got a POA request, wanna make sure that’s still good, what do you wanna do?’ And then I would [accept the POA request].” -P5
+  - “[The statement of representation] they don’t have to sign it, we just provide it upfront to them, so they have, you know, what are the expectations, what they can expect from us as an organization, and then what we will need or expect from them as well.” -P6
+  - “In order for our benefits services team to represent anyone to the VA, [the Veteran has] to register to become an alumnus with [our VSO]. Not necessarily have to, but there are those, one-offs where we’ll take care of somebody. That’s other eras. But our alumni requirements is that [the Veteran] served on or after 9/11/2001. And so once they’re registered and approved completely free through our database and our registration folks have acknowledged it, then we can formally assist [the Veteran] with VA benefits and a number of other things outside the VA.” -P6
+- Quotes about 21-22 process
+  - “What’ll happen is [my Veterans] send me an email…I will email them a blank 21-22. Well it’s not blank, it’s filled out with [my VSO’s] information, and then I highlight what they need [to fill out].” -P2
+  - (How often are you doing a paper form versus emailing and submitting digitally?) “It depends. We’re the Regional Office, so me personally, I could get a walk-in or an appointment upwards of maybe 10 Veterans a day, I would say. But at a national level, we also work with the Chapter Service Officers and Department Service Officers. So they are constantly sending us power of attorneys [electronically] from throughout the state.” -P3   - “So we actually mail them, an actual form, a Power of Attorney form, to say ‘hey just fill out your contact information, sign your part, I’ll input it.’ It takes about a day or two for me to get access to your records, though, through QuickSubmit. And then I give them a call and do a full cursory file review with them over the phone, or they come in and schedule an appointment [after POA is established]. [...] It’s just, you know, it’s different. So paper based, it’s a phone call and then pretty must, a a mail state. Slow, three-to-five days, gets to their house, they fill it out, they fax it, email it, or however they want to get it back to us, whatever.” -P8
+- Quotes about filing the POA with other forms
+  - “We print out three [forms to file]: the 21-22, 21-0966, the Intent to File.” -P3
+  - “We have found the best way [to file] is just to have the Service Member while they’re there in front of us, will out the 21-22, sign it along with the claim in either QuickSubmit or our claims management system.” -P5
+
+### Key Finding 2 
+**Perceived usability for ARP was high, but observed usability was mixed.**
+- Participants rated the ARP tool a 4.63 (out of 5), which corresponds to an observed usability score of 51. Anything below a 68 is considered below average (source). Explanations for the low SUS score include:
+  - Participants’ could not complete two tasks without the moderator prompting.
+   - Task 2 (sign in) involved a sign-in flow that was not common for PIV card users. 9 of 9 participants in this study use PIV to log into representative-facing tools.
+   - Task 6 not conforming to a common use case for singly accredited VSO Representatives.
+- It should be noted that the sample size for this usability test was small, which disproportionately skews low observed usability and task success measures.
+
+### Key Finding 3 
+**Bulk accepting POA requests is not a use case for singly accredited VSO Representatives.** 
+- Based on our prior research, we understood VSO Representatives to work in two modes: 
+  - A VSO Representative is often working with an individual and therefore seek out that person’s request, or 
+  - Someone within the VSO whose responsibility it is to field incoming POA requests will access the system regularly to scan through all the new requests and make a decision on them
+- References were made in prior research to a dedicated VSO Representative whose role within the organization was to monitor incoming requests at a regional or national level, taking bulk-actions. During this study, we were able to determine that large VSOs who participated in this study do not use a bulk-accept workflow, with VSO Representatives saying that bulk work was prone to errors that would negatively affect the outcomes for the Veteran.
+
+### Key Finding 4
+**Singly accredited VSO Representatives do not associate accreditation (or OGC) with their daily work.**
+- As part of the long-term roadmap for the Accredited Representative Portal, some representatives will be able to use the tool to apply for and manage their accreditation as well as manage POA and handle tasks related to claims. The homepage design and global menu for ARP feature references to applying for and managing accreditation. 
+  - Participants were confused why accreditation was part of the tool’s navigation and questioned whether it would be relevant to a tool used for power of attorney requests and claims management.
+  - Two participants expressed confusion about why their OGC number would be relevant in their user profile when logged in. Some of this confusion may be a result of an unclear audience for ARP, as these users assumed that Veterans would also be able to access the authenticated experience. 
+- Singly accredited VSO Representatives do not associate OGC with the VA. 
+  - VSORs we spoke to for this study saw their work supporting Veterans with VA and OGC as entirely separate entities. 
+  - We theorize this is because large VSOs handle accreditation for all of their representatives through administrative staff responsible for this work, and therefore an individual VSO Representative is not likely to engage with VA regarding their accreditation much, if ever. 
+- ARF will need to address accreditation application and management as part of the overall content strategy for the site, but with a particular emphasis on unauthenticated landing page calls to action, so it is clear how representative.va.gov and OGC are related.
+
+### Key Finding 5
+**Hypothesis confirmed: file/claim number and Social Security number are the most desired Veteran search functions for ARP.**
+- Consistent with findings from our user interviews, file/claim number, SSN, and Date of Birth are important search criteria for VSO Representatives to find a Veteran they are supporting.
+- These search fields would eliminate the need for VSO Representatives to review multiple pending requests, especially in instances where the Veteran has a common name, or lives in an area with a large Veteran population. 
+  - Several participants spoke of the potential for VSOR error, when Veterans share identifying information such as name or location. This led to cases where the VSOR started POA or claims work for the incorrect Veteran and later had to correct it.
+  - Unique identifiers are therefore important to improve accuracy of search data, reduce time to review search results, and reduce inaccurate or fraudulent claims, and should be prioritized in ARP Pilot. 
+
+### Key Finding 6
+**Hypothesis confirmed: because of a history of unreliable tools in the VA ecosystem, VSO Representatives need high visibility into the ARP system, such as confirmation an accepted 21-22 has been processed and they now have access to the e-Folder.**
+- VSO Representatives have a notable distrust in the VA tools they use, because of a history of unreliable submission, and claims getting lost, “stuck,” or simply disappearing. As a result, the VSO Representatives we spoke to have added additional steps in their workflows to meticulously document their work. Reasons included:
+  - Placating angry Veterans blaming VSO Representatives when a claim is misplaced or not submitted on time
+  - Wanting proof to provide the VA that the Representative was not responsible for the error, and
+  - Ensuring institutional memory of Veterans’ cases, given high turnover within a VSO.
+- Building upon prior user feedback, this study attempted to pinpoint specific nudges, notifications and prompts that would help boost user confidence and satisfaction with ARP as a reliable VSOR tool. 
+  - Users want confirmation of the system’s status at each step of the POA process, from searching for a Veteran’s 21-22, to viewing the request, to accepting or declining, and being able to find evidence of the work they completed later. Specific nudges are documented in the Recommendations section of this report.
+ 
+## Tasks and Conclusions
+The following findings are synthesized from participants’ responses to usability test prompts. Participants were scored on task success (0 = failure, 0.5 = indirect or partial success, 1 = success) and task paths were recorded if they deviated from the expected path. All participants were given a [Single Ease Question (SEQ)](https://measuringu.com/seq-prediction/) at the end of tasks, because SEQ helps to explain the perception of ease relative to users’ observed behavior. 
+
+Since most VSOs use third party tools to prepare, file, and manage Veterans’ claims, we wanted to understand the product’s overall perceived usefulness and value and how to position the ARP MVP to prospective users. Participants answered a Net Promoter Score (NPS) question at the end of the study; this is because [NPS is correlated with the System Usability Scale (SUS)](https://measuringu.com/usability-loyalty/#:~:text=Improving%20the%20perception,a%20promoter%20(9%2B).), an observational usability measure. NPS helps us understand the nexus of user loyalty and usability without cumbersome post-task and post-test questionnaires. Calculations for all usability metrics can be found on [Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/Task%20Success%20Measures.xlsx?d=wbe086d2f13364316aed7491c828055de&csf=1&web=1&e=GD3dDg). 
+
+**A note about task completions:** One participant in our study was a cross-accredited VSO Representative and therefore not eligible to complete task-based flows. As a result, some tasks are calculated for 8 participants versus 9. Where applicable, we have noted when all 9 participants completed the task and provided answers to qualitative questions. More information about participant demographics for this study can be found in the Appendix.
+
+### Task 1 / Unauthenticated landing page
+*9 of 9 participants completed this task*
+
+- 5 of 9 participants were confused who the users for ARP would be based on the unauthenticated landing page’s design. The primary sources of confusion were a call to action (CTA) directing Veterans to Find a Representative on VA.gov, as well as a content box and navigation component referring to accreditation and applying for accreditation.
+- Quotes expressing confusion about who the site is for
+  - “[This website is for] Veterans…they would have to sign in or create an account and then it would immediately take them to requesting [a VSO for power of attorney].” -P1
+  - “I mean, it reminds me of myself if I’m a Veteran logging on to initially file my claim…I’m not sure about the ‘Apply to be an Accredited Representative.’ Is that for somebody who wants to be accredited, who’s not? [..] This is for VSOs only or is this for the public?” -P2
+  - “I’m just concerned with new processes, how [the site] is gonna be more geared towards Veterans [...] and how it’s gonna be difficult for Veterans.” -P4
+  - “I’m thinking [ARP] is for someone who wants to be an accredited representative, signing up and creating an account to become [one].” -P9
+- Quotes expressing clarity about who the site is for
+  - “So I really like that it says ‘Welcome to the accredited representative portal’ because we are fighting the claim sharks issue. I like this because it says up front it’s an accredited representative portal, not for the Veterans or the non-accredited representative.” -P5
+  - “The initial impression I have is that it looks like it’s more of just an accept and deny [tool for VSORs]. It’s called the accredited representative portal. If I’m looking at a portal, I would want to know that it’s like a dashboard that I can work the status of claims, you know, accept POAs, run reports.” -P6
+  - “When I click on ‘Power of Attorney’ [I assume] I’m able to add from there, create a form, something like that.” -P8
+ 
+- Because of participant confusion over the content on the unauthenticated landing page, we iterated on the homepage design partway through the test and had some participants complete a short preference test between multiple mockups. 5 of 9 participants completed the preference testing task. 
+  - 3 of 5 participants preferred option A, which they saw throughout the test session. Reasons why included its simplicity and the fact that it was “classic” and familiar.
+  - 2 of 5 participants preferred option B, which differentiated VSO Representatives from other types of accredited representatives. These participants said they liked that it called them out as VSO Representatives in the splash, but questioned if other types of accredited representatives would like the content. 
+- Quotes about option A
+  - “I’m such a…I guess a traditional person that [option A] looked really good.” -P5 
+  - “I think the first one is the clearest in terms of who’s supposed to be using this [website].” -P6
+- Quotes about option B
+  - “I just like that it says ‘welcome VSOs and accredited representatives, ‘cause there’s a difference.” -P1
+  - “I would say if you are gonna be able to do [accreditation] stuff, ‘Welcome to the accredited representative portal’ is gonna be kind of weird to somebody that’s trying to come here to get their accreditation. So if you’re coming here to get your accreditation, you might think you’re in the wrong place” -P4
+  - “What I don’t like about [option B] ‘VSOs and accredited representatives,’ because all VSOs should be accredited representatives. So it’s kind of like double talk to me.” -P5
+
+- Based on the unauthenticated landing page design, VSO Representatives expect the ARP tool to be an all-in-one platform for their needs.
+  - Further validating our participatory design findings, participants wanted to see integrations with their own Client Management Systems (CMS), integration with VBMS, VA and Veteran chat features, and auto-populated or auto-filed forms. 
+- Quotes about expected ARP functionality
+  - “I would assume that I log in as an accredited representative through this [site]. [...] [A]nd I would be able to hopefully accept [a] power of attorney [request], or my idea would be to send a link to the Veteran live, have them accept a link and I see it and I can click accept and it goes to VBMS.” -P4
+  - “It would be kind of cool if there were resources available to seamlessly…track people in VBMS and we can look people up. [...] The tool needs to speak directly to VBMS live so that when we do something in the portal, it reflects the same thing in VBMS. It would be nice if it can start filling out forms for us because VBMS already has a profile on the Veteran so they’ll be able to capture whatever, you know, even if it’s just the name, social, address, date of birth.” -P2
+  - “I would almost see [ARP] like a VSO dashboard. So you’d be able to [have it be] linked to VBMS. LIke once you get the approval, it is accepted, you can go in[to VBMS] and see where the claim is in the status, you can check and see in a status that it’s pending, you know.” -P6
+ 
+- Participants were also asked what they would expect to find in the “About,” “Resources” and “Accreditation” categories in the global navigation. 
+  - Expectations around the “About” navigation category focused on who the portal is for and what can be done on the authenticated experience. 
+   - Participants also voiced expectations for Veteran-facing content in the “About” section. These expectations came from users who were unclear who the ARP tool was for, and reflected that misunderstanding. The content cited by these users was not useful for consideration in the ARP IA or global navigation.
+  - Participants were unsure if the “Accreditation” category in the navigation would be for people applying to become accredited, those who already have accreditation, or a Veteran-facing resource. 
+  - Participant responses regarding the “Resources” navigation category had several clear themes:
+   - 5 of 9 participants wanted regulatory resources that help them do their job, as well as links to places to stay informed about updates to regulations and guidelines (e.g., 21 CFR, title 38, NOVA, Veteran Benefits manual)
+   - 4 of 9 participants expressed interest in a Wizard, quickstart guide, or FAQ to help them set up ARP and make sure they used it correctly
+   - 3 of 9 participants wanted quick access to VA forms
+   - 1 participant wanted access to the OGC’s POA code list, since they regularly use that when establishing POA with a Veteran who had prior representation
+  - Participants wanted Veteran-facing resources on the unauthenticated landing page, even if Veterans were directed off the ARP site to related resources. 
+   - 3 of 9 participants wanted links to relevant Veteran-facing websites, benefits resources, and a Find a Representative tool, either in the “About” or “Resources” category
+- Quotes about what participants expect under the “About” navigation category
+  - “Information about what the portal is meant to do.” -P1
+  - “An explanation of the website, like what is an accredited representative, what is this portal about? What is it for?” -P3
+  - “I think it would define at a high level of what the portal, you know, can and cannot do. Like it would outline each of the…I guess I would say about managing expectations of what the portal or site can do, you know, and what it’s used for.” -P6
+  - “It could tell me everything that I need to know about this portal, what I could do with the power of attorney, accreditation, the different resources. I think it’ll give me a scenario of everything that happens in this particular portal.” -P9
+- Quotes about the “Accreditation” navigation category
+  - “When you think about the current manner in which we submit re-accreditation annually for our Service Officers that they’ve done their 40 hours of…CLEs, you have to send them to OGC, to a [point of contact] at OGC via email. [A]n online platform would be a lot cooler.” -P1
+  - “I don’t know who would need to apply to be an accredited representative because…if [ARP] is a portal for VSOs, anybody accessing the portal would already be a VSO. If they’re looking to apply to be an accredited representative, they should go to the VA OGC website.” -P6
+  - “I’m not sure about the accreditation [category]. I mean, is that verifying that I’m an accredited representative?” (Well what would you expect to find there?) “Well, a lot of people don’t even know if you go to va.gov/ogc, you’re actually able to [verify accreditation]. A lot of people don’t even know they can check their own accreditation and their number and that kind of stuff. So that’s…the only thing I would ever think of under ‘Accreditation’...[Veterans] trying to verify who in their state is an accredited representative and then they can click on and say ‘I want you to represent me.’” -P8
+  - “Right there where it says ‘Accreditation’ I [want to] go right there and look up who’s accredited.” (So you’d be able to look up people who are accredited as well?) “Right, because there’s so many people [that call] themselves helping Veterans and really are not qualified to help Veterans and are charging Veterans and shouldn’t be doing that.” -P9
+- Quotes about what participants expect under the “Resources” navigation category
+  - “Everything VA disability claim-oriented such as the VA forms links, all the links to the exposure lists, especially links to the 38 CFR and the M21 stuff that we use on a daily basis to assist Veterans...the disability calculator, that’s pretty much it. That’s what I use on a daily basis.” -P3
+  - “What I need…is going to be like a quick guide for [ARP]. Because I don’t really want to know the history or how we got here or anything like that. I really don’t need to know who the secretary of VA is and things like that, or VBA, but I would be looking for something that would help me navigate the portal.” -P5
+  - “A wizard or something like that, something that goes from step 1 to step 50 and you’re not going through multiple screens…there’s no going back and forth.” -P8
+- Quotes about what participants expect under the “About” and “Resources” navigation for Veterans
+  - “Recently the VA did a ‘15 things about what a VSO is and what does it mean and what they are all about.’ So I think a generic about a Veteran Service Officer or a power of attorney, just what it is and what they do would be cool.” -P2 
+  - “Maybe links to local service officers within an area [for Veterans].” -P3
+  - “I do believe that state resources such as, you know how every state has their own benefit. Number two is of course all the, any VA websites.” -P8
+
+### Task 2 / Signing in and authentication experience
+*8 of 9 participants completed this task*
+
+ADD TABLE
+
+- ARF Design wanted to test the location of a “Sign In” versus “Create an Account” button on the homepage. Most participants were comfortable with using the “Sign In” button in the utility header rather than a “sign in or create an account” button located on the hero image on the unauthenticated landing page. 
+  - 5 of 8 participants used the “Sign In” button in the utility header.
+  - Only 1 of 8 participants found the “Sign in with government ID” hyperlink within the Login.gov flow without prompting from the moderator. This option felt less familiar to the normal PIV login process for other VA tools that VSORs regularly use, like VBMS and QuickSubmit.
+- Quotes about login flow
+  - “I would almost think that if it’s me as an accredited representative I’d have a third option down here to be able to use my PIV credentials…or I mean like ‘Access the accreditation portal via PIV credentials’ [button], something like that.” -P1
+  - “I don’t have any of those [login credentials] so I would be confused on which one to push.” -P3
+
+- 8 of 8 participants use PIV to login to at least one of the tools they use on a regular basis. Participants preferred PIV to non-PIV login options.  
+  - One participant asked if non-accredited staff would have view-only or limited access to the tool, since it offered non-PIV login options.
+  - Participants were more familiar with ID.me than login.gov, but did not necessarily think that ID.me was a better option to PIV, since ID.me can be linked to personal accounts. There was some confusion among participants about the implications of authenticating as an accredited representative with non-PIV sign-in options.
+- Quotes about non-PIV login and support staff access
+  - “Would my support staff have access? [...] If [support staff] are able to go in here and view, let’s say hypothetically, the accepted [POAs], I can then give her the list of accepted ones and then she can go ahead and view her part, you know, adding them into CMS, and then it would stop me from having to view that.” -P8
+- Quotes about ID.me and login.gov as alternatives to PIV
+  - “I think ID.me is good for, you know, folks who maybe don’t have a PIV card because ID.me doesn’t…I don’t even think it verifies you, it just verifies that I’m a Veteran. I guess I’d have to learn more about the process in order to verify accreditation and access those types of privacy. I don’t know. I’ve only seen ID.me on QuickSubmit.” -P2
+  - “Because I started off SEP with ID.me, I’d probably go ID.me, because I don’t know my login.gov…because some sites it works and some sites it doesn’t, but I know ID.me works.” -P5
+  - “Okay, so this is one of the points of contention we've been having, especially with…Veteran benefits, like you said PIV card, I have one, I went through the background check, fingerprint, all that good stuff. I don't want to use any of those, especially ID me login.gov. I use those for my own personal things and they're two factor authentication. So I know if you use ID.me, cool, you log in with your username password and then it's gonna either text you or call you with a code. So where I work…one of my coworkers… [he] can't get any cell phone signal. So if he were to get the code on the cell phone, it might take a while. If he can get it all, he might have to wander over by the window to get the code, which kind of looks a little unprofessional and then you have to type it in or it goes to his phone, you know the call and 'cause those are connected [...]. Oh but now you're at home but it's gonna call your office number so now you can't use it for your own personal things. Right. And that is, you know, one of those things no one really thought about is this is something I use for both. Same thing with the login.gov. I use that for MyHealtheVet if I need to ask for a refill on my medication or get an appointment or anything like that. Again, if I'm at home and something's bothering me on a weekend or something, I don't wanna have to wait till Monday to come into the office so I can use my phone to log in. I'd rather use my own personal cell phone on my own time with my own personal login.” -P7
+
+### Task 3 / POA requests page
+- Overall feedback on the visual design of the POA requests page was positive, and participants could understand the purpose of the portal and next actions to take based on the UI.
+  - 2 of 9 participants felt that the UI looked “familiar” to other VA and third party accredited representative tools they use.
+  - Detailed feedback on search functionality and the design of the POA requests table is located under Task 4 in this report.
+- Quotes about overall POA requests page visual design
+  - “[ARP] would make [POA] a lot easier on us.” -P3
+  - “It’s convenient.” -P4
+  - “I think everything [about ARP] is useful.” -P5
+- Quotes about the familiarity of ARP UI
+  - “It looks just like SEP…just the layout, the ability to, the search feature, looks a lot like SEP. [...] It is a bit nicer layout in terms of ability to quickly identify people I previously declined, [the] ones I’ve already accepted and ones that are still waiting to be looked at.” -P1
+  - “It is something we’re used to seeing, so it would be something that a lot of people would be ready to use. I think that’s a positive, because like I said, I know a lot of people are scared of change.” -P8
+ 
+- 7 of 9 participants felt confident they were signed in based on the design of the POA requests page; specifically, participants knew they were logged in when they saw the user profile in the top right corner of the screen.
+  - 6 of 9 participants saw their OGC number as a unique identifier that told them they were logged into their own account. 
+  - VSO Representatives said they do not have their OGC accreditation number memorized, so having that information in the profile view was useful to have on hand. 
+    - Some VSORs referred to this as their “Accreditation number” and others as their “OGC number.” 
+    - Several participants said they put their OGC accreditation number on their business card or in their email signature line so that Veterans can look them up and verify they are accredited through OGC. 
+  - 2 of 9 participants liked having a contact button if they noticed their OGC number or accredited organizations was incorrect.
+   - One cross-accredited user gave feedback on this experience and was confused about the order in which their accredited organizations appeared, preferring their “home” organization to be at the top, rather than alphabetical order with that accreditation appearing mid-screen.
+ - 1 of 9 participants said they would have understood they were logged in sooner if the table of pending POA requests had been more visible on his screen. 
+   - The location of the Call to Action about Find a Representative, combined with the prominent search feature, meant that users’ eyes were not immediately drawn to the table populated with pending POA requests. 
+   - On smaller screens, ARP v1’s POA requests table was “below the fold” and required scrolling to find. Having the POA request search fields at the top of the page alone was not an indication to participants that they had successfully logged in.
+- Quotes about OGC number being linked to their profile in ARP
+  - “I’d have my OGC number, [so] I know I’m signed in based on that. This is a unique feature.” -P2
+  - “Oh look at that! Oh look, you’ve got the OGC number and everything. OK, I like that. It says who you’re accredited with and everything.” (Can you talk about that?) “Yeah so it’s, I assume when I’m logged in that it’s me. [...] So then when I click into it and then see that, yeah, that is me, OGC number and who I’m with. [...] I know how to find my [OGC number] and I’ve got it in my signature block because I don’t remember those numbers.” -P5
+  - “[It tells] me that I am logged in and it looks like it actually tells me my OGC number. That’s good. That would tell me I’m a Veteran Representative, right now, for the DAV. So yes, I do feel confident that I am [logged in].” -P8
+- Quotes OGC accreditation number confusion
+  - “What is an O-G-C number? [...] I’ve never heard of OGC, but I utilize my accreditation number and I put it on every single POA that I submit.” -P3
+- Quotes about contact button
+  - “I like the ‘Contact Us’ so if something’s wrong, like the name spelled wrong. I don’t know if there’s expiration dates [on accreditation] or I think [my VSO] just automatically submitting them. I forget, I haven’t done it in a while. I think it’s every five years for the reaccreditation process. So it would be helpful if it shows an expiration date next to [each organization], especially if you have multiple [accreditations], because it might be hard to keep track.” -P7
+
+- 8 of 9 participants were confused by the message about Veterans being able to find and appoint a representative on VA.gov, linking them to Find a Representative. This was seen as Veteran-facing information not relevant  on a VSO Representative tool.
+- Quotes about Find a Rep and ARM v2 calls to action
+  - “If this is meant to be just for VSOs, then why is this here for [Veterans] to find a VSO?” -P1
+  - “This would tell me that I’m the Veteran because I’m not gonna search [for myself].” -P2
+  - “Ok so the Veteran gets to choose…will this be on the Veteran or is this on a Service Officer choosing the Veteran Service Organization?” -P3
+  - “I don’t know why this would be on here for me. Something that I would more expect to see on a site that a Veteran’s looking at, looking for help.” -P4
+  - “The language ‘find a VSO’...so if you’re an accredited representative, why would you wanna find a VSO?” -P6
+ 
+- 5 of 9 participants saw the value of having user documentation and feedback information located on the POA requests page.
+  - While this content was valuable to participants, it was less important than core search/filter functionality. 
+  - Users with prior experience in the Stakeholder Enterprise Platform wanted clear delineation between a help guide, and support for OGC or IT-related issues. 
+- Quotes about user guides and documentation
+  - “I like that you can email your thoughts. I don’t know who’s gonna maintain oversight of this inbox, or who's gonna go to and how they’re gonna action each one of those. Like contacting the VA helpline. What VA helpline? The only thing I could think of is a paralegal in OGC or something that can answer questions related to, well…yeah that might not be [in ARP] though.” -P1
+    - Note that this participant had already discussed OGC and accreditation when looking at the user profile dropdown, and so may have been primed to mention OGC as a resource.
+  - “I like that. I guess that would just be, you know, if you weren’t sure how to use something, you could click on it and figure it out.” -P2
+  - “Would the user guide have a FAQ section? I just always found those to be nice so you don’t have to read the whole thing” -P4
+  - “User guide would be a good one. Maybe instead of a VA helpful put the service organizations or a link [of who] to get in contact with. Maybe frequently asked questions thrown in there, definitely the file number what’s the difference and what you should put.” -P3
+  - “Look at the reader user guide there. That's very helpful. Contact the VA helpline…why would I contact the VA helpline unless I have an issue that I need to chat with somebody about? I’d [prefer] a chat function and we’ll sort out the issue.” -P5
+  - “Is that [connected to] the VSO helpline? If you’re looking at SEP, they have ‘contact the VSO helpline.’ [...] If it has the VSO hotline here, that’s great. But then also if they have an issue, like I know they were matching profiles and SEP had to match profiles to names and there was an issue with that they had to correct. If there’s an IT-related issue, maybe if something with the site or there’s an issue logging in, you know, where would that [help] be?” -P6
+
+### Task 4 / Single Veteran POA search 
+*8 of 9 participants completed this task*
+
+ADD TABLE
+
+- Searching for and finding a single Veteran’s POA request had a high success rate, was rated very easy, and followed the expected task path. 
+- SEQ quotes
+  - “That’s easy to find.” -P2
+  - “Very, very easy. Just the name and the social [security number], that’s gonna be key for searching for POA.” -P3
+  - “This was really easy to do, to go in there, search name, find it, and if it wasn’t in pending, I could go to Accepted or Decline because it’s right there.” -P5
+ 
+- 4 of 8 participants were able to search for and locate a specific Veteran’s POA request in ARP without prompting from the moderator. Reasons why participants required prompting included: 
+  - 4 of 8 cited a lack of search fields for Social Security number, Date of Birth, or contact information, which are more commonly used to find a Veteran in other representative-facing tools.
+  - 2 of 8 participants said they would not search by a Veteran’s name or personally identifying information. They wanted the VSO search field pre-populated so they would feel confident they were only searching for requests for their organization. This would allow them to simply search by VSO and scroll through the requests list until they found the specific Veteran.
+- We asked participants what search functionality would improve their experience searching for a specific Veteran’s POA request. 
+  - Singly accredited participants want the VSO search field to be pre-populated so they are confident that they would automatically see requests to their organization.
+   - ARF Design will need to determine how to modify this search field to accommodate users with multiple accreditations.
+  - 1 participant wanted a fuzzy search to be able to locate a Veteran’s request without inputting the entire name. This request assumed that the search would filter for the correct VSO as well as the location where the VSO Representative operated.
+- Quotes about existing POA search fields
+  - “I would do last name and then first name and click search.” -P1
+  - “I’d be looking for the Veteran’s last name, and maybe the first name too. And then just do search. That’s exactly what I would do.” -P5
+  - “We represent foreign [Veterans] so anything with our power of attorney code where we represent, then we click [I would expect] comes up.” -P4
+  - “I would assume that I wouldn’t need to do Veteran Service Organization because I would assume that it’s already registering me as [a VSO Representative of] VFW. So I wouldn’t get American Legion or DAV stuff.” -P5
+- Quotes about fuzzy search
+  - “To be honest, I wouldn’t even put in the full [name]. I’m a little lazy to be honest. I’m trying to save keystrokes [if the name] is unique enough. Smith, Jones, Brown, you know? Those are real common names.” -P7
+
+- All participants were asked which search fields were missing from the prototype. The most commonly requested fields are listed below by frequency: 
+  - File number, claim number, or Social Security number (7)
+  - Veterans Service Organization or POA code (3)
+  - Domestic location (e.g., assigned region, state or states, city or cities, zip code) (3)
+  - Veteran’s date of birth (2)
+  - Veteran’s email address or phone number (2)
+  - Foreign location (e.g., base, postal code and country) (1)
+- 3 of 8 participants cited Veterans with common names creating confusion when establishing POA or filing claims. Having file number, claim number, SSN and/or date of birth search fields would allow the VSO Representative to narrow down the Veteran without opening each individual POA request within the system.
+- Of the geographic location search fields suggested, singly accredited VSO Representatives primarily want state search. This is because they are primarily working at a state or multi-state level within their VSO and do not require more granular geographic search fields. 
+- Quotes about search fields
+  - "Other than [name], email address is one that I mean, that’s what I use to find my people in my database. But that’s not always the same email address that they give to VA. But email address is a nice way to search people out too, or telephone or Social Security number versus a million different Griffiths or a million different Gonzalezes. It makes it a little bit easier.” -P1
+  - “That’s how we search for Veterans on our CMS and VBMS, is gonna be [their] name, claim/file number, and everything you have here: the email, phone number, the address, we use all of those to try to find that Veteran. It narrows the search for that Veteran.” -P3
+  - “I’d ask [the Veteran] for their file number. File, social…as soon as he gave me the file number or social I’d put it in, search it. If nothing came up, then I would ask him for his first and last name. Put that in there. Maybe a state along with that.” -P4
+  - “I mean we’re national reps on the transitioning service member side. I’d probably just go to the state and look up, you know…all the pending [POAs] in Virginia.” -P5
+  - “A lot of the time I would put the file or social security number if they have it…If you do Veteran’s first and last name and they’re…a John Smith, it’s harder to find [but] if they would give me their file number then I would search it that way.” -P6
+  - “[I would search by] last four [of Social Security number]. I actually have a couple Veterans with the same name, so I would just be like, ‘all right Mike Jones’ because if I search Mike Jones and all of the sudden 8 of them pop up…I wouldn’t be able to figure out which Mike Jones I’m looking for.  [...] People have always tried to get away from using social security numbers as identifiers, but we keep going back to it just because the Veteran knows it. Or even the dependents, I keep seeing people and they know their spouse’s entire social. So the last four [digits of the social security number].” -P7
+  - “I work for the state of Maine, so I only really care about state of Maine Veterans unless, I’m getting a call, let’s say, someone asked me to help a Marine out from Maryland.” -P8
+
+- ARF asked participants about claimant-specific search functionality for non-Veteran claimant cases. 
+  - Only 1 of 8 participants asked for a non-Veteran claimant name search in addition to Veteran name search fields. This is because VSO Representatives associate non-Veteran claimants with the Veteran’s file number, SSN or name.
+- Quotes about searching for non-Veteran claimants
+  - “Veteran name would be much more applicable.” -P1
+  - “If it was a surviving spouse [POA] I guess it would be [searching by] claimant name instead of Veteran name.” -P4
+  - “It’s six one half a dozen the other. It’d be helpful to have both [Veteran and claimant name] because not all claimants have the same last name or it might be the widow has a unique name, but if it was Bob Jones the Veteran. So now you’re pulling up a bunch of [Bob Jones]. It would be helpful if you had both.” -P7
+
+- The table of POA requests was intuitive for participants. They were able to easily understand the POA requests populated in the table, how to filter those requests, and what actions to take next.
+  - 7 of 9 participants said they liked the Limitations of Consent column, corresponding to VA 21-22 lines 19-21. Participants said they would work on those requests first, as they would either need to contact the 
+  - Veteran to proactively work with them to resubmit the 21-22, or decline them.
+  - Participants wanted additional columns in the table for the last 4 of SSN, email address, or phone, but understood that if they clicked into a request that they could surface that information quickly.
+- 5 of 9 participants wanted to be able to expand the table view from 10 POA requests to 25, 50, 100 or “all requests.”
+- Quotes about overall design of the POA requests table
+  - “I like the filters, I think it looks fine.” -P2
+  - “I can see that we’re in pending [requests], it says the POA has been received, gives a date, which is really good.” -P3
+  - “Well it’s nice, it gives you right up front any limitations that were put in [the 21-22], where they’re located, when the POA came in, name.” -P4
+  - “I would look at pending and at the date received, if there’s any limitations of consent.” -P6
+  - “As long as you have the date received in there, what’s pending, what’s accepted, I think that’s a lot easier than having all the categories [in SEP] before.” -P7
+  - “It’s waiting for me to do my job. So if I click on that, then of course it’s going to give me the ability to accept or decline.” -P8
+  - “To be able to itemize [POA requests] in here, with their last name versus received date. Yeah, I like that.” -P9
+- Quotes about limitation of consent
+  - “The limitations of consent, I would like to have this somehow [up] front.“ -P2
+(Would you take action to contact the Veterans who limited consent?) “Yes, definitely. We need to know that Veterans understand that we have to have that access to assist them.” -P3
+  - “I like where you can automatically see the limitations of consent right off the bat. If they have an issue with health or the address, I really do like that because that would help if I were looking for a particular person…I know that I’d have to address before I could click the box and accept them for POA.” -P5
+  - “We would actually make a phone call to contact these Veterans because we would not be able to accept their power of attorney, but we would send them a new one that allows us, you know, to access their records.” -P8
+  - “Those [requests] with the hazardous signs [indicating limitations of consent], I would work on that. I would definitely do those first.” -P9
+
+- Participants liked the Pending, Accepted and Declined tabs in the POA Requests table, as it made them confident they could find requests they worked on, or that other VSO Representatives in their organization had worked on. 
+  - Participants did not distinguish between “new” and “pending” requests in any meaningful way, with both meaning “all requests that are not yet accepted or declined.”
+  - Participants expected that as requests were accepted or declined that they would disappear from the pending list so other VSO Representatives within the organization would not attempt to action them. 
+    - Participants had varying requests for how long a request should be visible in the Accepted or Declined tabs, ranging from a week to “forever.”
+  - Not all participants have permission to decline requests within their organization. One participant said it would not be appropriate for them to have a “Declined” tab in the table if they were logged in.
+  - One participant requested a Withdrawn or Resubmission column or tab within the table for cases where a Veteran limited consent to their medical records and the VSO Representative asked them to resubmit their 21-22.
+- Quotes about “Pending” versus “New” label
+  - “Pending means pending, you know, that we need to take action….I don’t think having a new-pending or an old-pending or a pending would make a difference. Once they’re accepted, they’re…accepted, once they’re declined, they’re declined.” -P2
+  - “Pending to me would mean that you’ve already accepted [POA] and it’s processing.” -P3
+  - “If [a POA request] was new, it hasn’t been accepted, hasn’t been declined yet. So it’s the same thing as pending. Pending means it was submitted, waiting on a decision by us.” -P4
+  - “I assume pending and new [are] the same thing.” -P5
+- Quotes about “Accepted” and “Declined” tabs
+  - “Well, being a manager, I would want to be able to see what my folks are doing. So I would filter declined [requests] to see why they were declined. And all I should see are these highlighted [requests], why they were declined. If I started seeing folks we should have accepted, then I would know that there’s an error on our part.” -P2
+  - “I would come in and verify what [requests] we’ve accepted and what we’ve declined. If somebody says they put something in and it’s not in Pending, I can check to see if we’ve accepted or declined it in the past.” -P4
+  - “I was just thinking I might wanna see - every now and then you might have somebody who has kind of burned some bridges with an agency, you know, if they’re very disrespectful, they’ve threatened, someone cussed them out, obviously they’re being declined. But it would be nice, you know, if they keep trying to force [POA requests] by if there was something like [the Declined tab]. I mean you can’t ban them forever because things could change. But it would be helpful to know if this is a repeat or switching or never done anything before.” -P7
+- Quotes about how long POAs should sit in any tab
+  - (How long should things stay in the pending tab?) “I mean, I guess it depends on the organization you work at. Some of [the POA requests] could get really, really old. [...] I think there should be a date by which they become canceled out and [the Veteran] would be prompted to submit one again.” -P1
+  - “Once [a VSO Representative] clicks [the pending POA request], it either disappears [from Pending requests] or it’s marked or flagged or there’s a box or something so we know that someone’s working on it.” -P2
+  - (How long would you expect requests to sit in the Accepted tab?) “You wouldn’t want that for a long period of time, what, 30 days maybe? Something like that. [...] The importance of the Accepted and Decline because like I said, if I’m looking for Roger Saunders and OK, it’s not in Pending anymore, but it’s not in Accepted and it’s in Declined, then, alright, well now I need to find out who declined it and why they declined it.” -P5  - (How long should a request sit in the pending column?) “Forever. Well, until it’s done, until it’s been accepted.” -P8
+- Quotes about permissions
+  - “I don’t understand [the Declined tab]. I can’t decline at my level. I’m not allowed to decline a power of attorney, that would be at a higher level.” -P3
+- Quotes about Withdrawn or Resubmission tabs
+  - “SEP had a withdrawn status, that relates to if someone, you call [the Veteran] up and you say, ‘please resubmit a POA that gives us access so we can access your records’ and then it moves to Withdrawn.” -P8
+ 
+### Task 5 / Accepting POA request
+*8 of 9 participants completed this task*
+
+ADD TABLE
+
+- 8 of 8 participants were able to find the POA request detail page, understand the nature of the POA request and accept it. The path to view and accept a POA request was the simplest flow in the ARP v1 prototype.
+- SEQ quotes
+  - “If anyone’s selecting less than [very easy] then they’re way too critical, because that’s just so easy to do right there.” -P1
+  - “It’s easy…just compared to what we have now, it’s very simple.” -P4
+  - “This was really easy to do, to go in here, search a name, find it [...]. But accepting it, that was very easy to do.” -P5
+  - “It’s pretty straightforward. [...] I like when it popped up that ‘are you sure?’ little kind of confirmation box. I appreciate that.” -P7
+  - “If it worked, it’d be amazing.” -P8
+
+- Participants found the detailed POA request page straightforward and informative. They understood the information presented based on the Veteran’s 21-22 and had sufficient information to decide whether they were going to accept or decline the request.
+- Quotes on overall impressions of the detail POA request page
+  - “That’s all of her information, which is what we would need from the file. [...] We could also, from this page, input this data into our case management system.” -P2
+  - “It has all the information that we’re gonna be asking for the 21-22.” -P3
+  - “I see all the great information here. Phone number that I can call [the Veteran] or email…I’d probably call.” -P5
+  - “It’s just standard stuff.” -P7
+  - “That’s awesome right here. If I’m able to see this information before I even accept [POA]...that there is amazing, right?” -P8
+
+- Participants were asked if there was any additional information they would like to see on the detailed POA request page to facilitate decision making and next steps with handling a Veteran’s case. Requests included:
+  - POA history and other information currently available in Share (5)
+  - Date of birth or last 4 of SSN to confirm common names (3)
+  - Ability to export or easily copy name and basic contact information into the VSO’s CMS to begin tracking actions taken on behalf of the Veteran (3)
+  - Ability to download a PDF of the filled out 21-22 (1)
+  - Ability to select commonly submitted forms so that immediately on acceptance the forms would auto-populate with the Veteran’s information (1)
+- Quotes about Share functionality
+  - “They’re gonna sunset Share, and it’s all gonna go into VBMS. If there was a VBMS feature showing it pulled up [here next to the] POA, it would be helpful. It could be a link to VBMS directly.” -P6
+  - “I would assume if I were to click on somebody, it would give me a little synopsis of the Veteran. That’s something we’ve always said we wanted, we call it the ‘POA peekaboo.’ Sometimes you wanna see all that’s been done [for a Veteran]. Like how big of a mess is this again, are you trying to file an appeal for an earlier effective date that there’s no bearing or standing? We don’t necessarily wanna, you know, jump onto that. So it’d be nice to see because Veterans will be like ‘oh no, I never filed before.’  And then you can see that [the Veteran] was rated a zero back in 1974…or ‘no I don’t have any open claims’ [and] you have two open appeals, and that’s one of those things you don’t find out until after you took POA. [...] So VA obviously is gonna have all of [the Veteran’s] ratings, have them click a button that allows [us] to review open claims information, ratings information, things of that nature, characterization of discharge, things like that. That would be helpful because sometimes [Veterans] didn’t know [they] have to bring [their] DD-214.” -P7
+- Quotes about including date of birth or last 4 of SSN in the detailed POA request page
+  - “I like date of birth because of course, that duplicate [name]...If we get a John Smith and yeah, there’s 14 of them in Florida, but one of them was born in 1936 and the other one’s in 1986, I mean, that would help me out.” -P8
+  - “Date of birth because that’s another part of our [CMS] that we are able to search with. Again, the full process of when we go in and look for any representation request, the first thing I’m gonna do is go into my [CMS], look up to see if we already have the Veteran in our system because I don’t want to create a duplicate account.” -P4
+- Quotes about exporting a Veteran’s request into a VSO’s CMS
+  - “[If] we could go from this page, input this data into our case management system, or at least put some of it [and] we could pull social, we can verify [the Veteran].” -P2
+  - “We can transfer [the Veteran’s information] over into our CMS system, which we can build a profile right then and there, put them in our system and then we already have them in the VBMS system [too], so that makes things a lot easier.” -P3
+ 
+- The accepted POA request popup was highly valued by participants, since it assured the POA data was transmitted properly, and provided confirmation of their access to the Veteran’s eFolder in VBMS.
+  - Participants said their current process involved waiting for VBMS access, so they do not immediately check the Veteran’s e-Folder. The suggestion that ARP could provide near-instant access made participants consider how the tool would change their workflow to more quickly assist Veterans.
+  - Participants had questions where the “Go to VBMS” button would take them within VBMS, preferring not to land on their homepage, but rather a Veteran search feature, or the Veteran’s profile within VBMS. An alternative was proposed where VSO Representatives could copy the Veteran’s name and full social security number and upon landing on the search feature in VBMS, easily paste in the information to pull the Veteran’s profile up.
+- Quotes about accept popup and instant access
+  - “Oh, that’s sweet. Go to VBMS. That’s cool, I dig that.” -P1
+  - “This is perfect. Yeah, I like that.” -P2
+  - (Is this what you expected to happen?) “So is that saying that if I accept POA that I automatically have access to their VBMS profile?...So, right now our process is to receive the 21-22 and then submit it to the VA and that process takes 3-5 days. So if I could have the Veteran submit this and I approve it right then and go directly into their VBMS, that would save a lot of time. A lot of time.” -P3
+  - “I would like this much more [than what we currently have] because now I know that as soon as I accept your request that VBMS is open to me, which is not always the case in SEP. Sometimes it takes a minute for them to update. So, I like this better. The regular process now would be, you clicked accept and then you would have any of the missing information [for the Veteran] that would be…basically just a full claim number and then a button to click back to go to the request list. So from there I would then go into VBMS and mainly put [the Veteran’s information] in. So I like that ‘go directly to VBMS’ [button]. That’d be good.” -P4
+  - “Oh, I can go to VBMS now. Would that really send me to VBMS?” (What would you like to happen here?) “I mean, if that would be really cool to be able to go right into VBMS and then confirm that the POA was accepted. Because then I could see for sure that everything’s good. And so now I can start working a claim for [the Veteran], getting in touch with her, setting up an appointment…yeah I think that’s good” -P5
+  - (Was this what you expected when you clicked Accept?) “No, especially ‘go to VBMS.’ That’s good, it’s really good.” -P6
+  - “If I’m able to go in, create [a Veteran’s] accounts, accept [POA] right there, and then hey, we already have access to VBMS, here we go. It would be seamless.” -P8
+- Quotes about how VBMS integrates with ARP
+  - “Now I do have a question here, based on this wording. Where in VBMS does that button take you to? [...] So does it go to a [Veteran] specific page or part of VBMS?” (If it just brought you to like the home or landing page at VBMS, what are you feeling?) “I don’t need that. It’s not good or bad, like all right, fine. If I use VBMS the way I should use it then if there’s a claim already pending for this [Veteran]...it would only make sense for it to go to their actual [profile] page inside VBMS. Like, there’d be no other place that you need to be sent to.” -P1
+  - “Will I have to log into VBMS on each go to VBMS? Or will it just take me seamlessly back and forth if I have multiple folks in there? [...] I mean, I have two monitors, so I’ll have VBMS open on one side and then my regular one on the other side. This would assume I’m behind the VA firewall. So I would assume it would just make sense to go right into it once I’m logged in, so that I can go back and forth and just keep helping folks.” -P2
+  - “The link…to go directly into VBMS. That’s cool. So that we can just go right into helping [the Veteran] while we have her on the phone, or we can return to the [pending POA requests] list if she’s not ready [and] we can go back to our business of accepting other folks.” -P8
+ 
+- Visibility into the system is important for VSO Representatives, especially tracking the quality of data when a step has been taken with the VA that might require documentation to substantiate later.
+  - While participants said they would immediately go to VBMS upon gaining access to the Veteran’s e-Folder, they had questions about what would happen to the POA request once it was accepted within ARP. 
+  - Participants requested easy access to export a POA request or obtain a “POA request number” to verify it was accepted by the VA.
+  - Participants also requested a “POA history” or dashboard to confirm which requests they had accepted or handled on behalf of their organization.
+- Quotes about steps taken after a POA request is accepted
+  - “[When a Veteran] hits my plate as their current advocate, [Accepted POA Requests] would be a place I’d want to go. Like when in fact did we accept their representation request? How long ago was it? Because we may one day wake up and go into VBMS and try and look them up, and all of the sudden it’s declined. We’re not allowed to see them. So then we’re thinking to ourselves, well wait a minute, I thought we represented this person in our software database with our organization. It shows we represent them, but VA is saying something different. Let me go check this [ARP] portal. And oh yeah, I see where it’s been accepted. So either for some reason it got removed, or that claimant has now gone to somebody else for help and submitted a new POA request. So I would want to…see that. That’d be one of probably a few different instances in which I’d want to see accepted [POA] history.” -P1
+  - “Once I select [your POA request], you disappear, I have no idea where you went or what you’re doing and how do I follow up with you or am I just waiting for you to reach out again? Do [the Veterans] know we selected it? I mean all these questions start entering my mind…I would go to Accepted [POA requests] to find out who I accepted.” -P2
+  - “Probably just for my own safety, I would probably go to the decline and I’d do a snapshot [of the decline reason]...and then put it in [my CMS].” -P5
+  - “Now ‘Go to VBMS’ - that’s gonna log directly into the VA system supposedly, correct?...Looking at [ARP], is there a dashboard or anything you’re gonna have set up, like a snapshot, like the claims status?” (What would you want that to look like?) “[...]If [I] accepted a requested POA, you can go back to the dashboard, the organization that shows all the claims pending and where they are. Or the second button would be to go to VBMS so they go directly to the electronic file.” -P6
+  - “You [should] have that symbol for [copying text] and it just says, should say ‘copy file number,’ click the copy, then gimme a little indication that it’s copied. I think VBMS does that. The system we have doesn’t, so you click it, but you’re not always sure. Did it go through? So a little, just a quick copy ‘cause then I just pull up the search bar in VBMS [and] paste.” -P7
+  - “So, the [accepted POA] is in the accepted ones now. Takes them out of [the pending POA requests] section. Cool. So that’s great, but again…if it says ‘Do you want to export these to Word document’ or whatever. If there’s an ability to have their name and social security number, you know, then we can…add all those things in [our CMS] or send that to somebody to add those people into our system.” -P8
+
+
