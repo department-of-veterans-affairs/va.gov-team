@@ -165,7 +165,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Check your claim, decision review, or appeal status: https://www.va.gov/claim-or-appeal-status/
    - **More(H2)**
        - The PACT Act a   nd your benefits: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
-       - Tragedy Assistance Program for Survivors: https://www.taps.org/
 
 - **Education and career benefits**
    - **Get - Main (H2)**
@@ -207,7 +206,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Request decision review: https://www.va.gov/decision-reviews/
    - **More(H2)**
        - Search for unclaimed insurance funds: https://www.insurance.va.gov/UnclaimedFunds/
-       - Tragedy Assistance Program for Survivors: https://www.taps.org/
  
 - **Housing**
    - **Get - Main (H2)**
@@ -238,7 +236,6 @@ For phase 1, each subhub will feature links and a short description to the follo
        - Find a cemetery: https://www.cem.va.gov/cems/listcem.asp
        - Find a grave: https://www.cem.va.gov/nationwide-gravesite-locator/
        - File a life insurance claim: https://www.benefits.va.gov/INSURANCE/file_death_claim.asp
-       - Tragedy Assistance Program for Survivors: https://www.taps.org/
 
 ## <a name="redirects"></a>Redirects <br>
 We'll need to create a redirect ticket after we finalize H1s (and thus urls). All of the redirects should happen on the same day and should be either at the same time as publishing or right after.
