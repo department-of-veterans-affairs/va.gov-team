@@ -10,7 +10,7 @@ The following overview demonstrates the changes we'll be implementing for versio
     2. Required fields
         1. Rep Type
             1. ~Veteran Service Organization~
-            2. Veteran Service Officer 🆕
+            2. VSO Representative 🆕
             3. Attorney
             4. Claims agent
         2. Location 
