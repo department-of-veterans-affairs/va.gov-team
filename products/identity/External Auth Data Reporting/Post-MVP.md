@@ -54,6 +54,9 @@ The External Auth Data Reporting MVP launched in early June 2024, featuring a no
 - Not really sure what I'm looking at here, and how it's different from the Total Authentications breakdown displayed above.
 
 
-- Also, not 100% 
+<img width="906" alt="Screenshot 2024-06-06 at 2 30 12 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/2db24728-8661-4850-9883-fc8398daf343">
+
+- This one is very self-explanatory in terms of breaking down the data. Love the pie chart as well as the list. And I like that the numbers for each CSP on the list map to the numbers in the "Sum" column for each CSP in the **VA.gov and VA Mobile Total Authentications **module.
+- What I'm not sure is how this maps to the "Value Over Time" in the **Credential Usage - Total Authentications **module it lives in. 
 
 
