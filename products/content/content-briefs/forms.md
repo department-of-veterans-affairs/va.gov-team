@@ -71,6 +71,9 @@ VADS doesn't currently connect guidance for prefill alerts to the the ["Know how
 
 **Questions:**
 - Should prefill alert **always** be paired with content stating how info is updated in VA profile?
+- Forms that add or change questions in online version — how and where do we tell users with in progress forms about this?
+    - Will users with saved in-progress forms be included in the incremental launch? Or will they be presented with the updated form only after it's released to 100% of users?
+    - What happens for users who are completing an in-progress form when the updated form is released to 100% of users? Will they be able to submit the older version of the form?
 
 ## Alternate signer
 
