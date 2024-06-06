@@ -69,13 +69,42 @@ Questions:
 ## Prefill alerts, save in progress, and updating info
 VADS doesn't currently connect guidance for prefill alerts to the the ["Know how information is updated"](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated) pattern.
 
-**Questions:**
+**Questions**
+- Do we need alerts on the static page, within the form flow, or both?
 - Should prefill alert **always** be paired with content stating how info is updated in VA profile?
 - Forms that add or change questions in online version — how and where do we tell users with in progress forms about this?
     - Will users with saved in-progress forms be included in the incremental launch? Or will they be presented with the updated form only after it's released to 100% of users?
     - What happens for users who are completing an in-progress form when the updated form is released to 100% of users? Will they be able to submit the older version of the form?
- 
-Maybe a pattern? Help users to understand how online form updates affect their in-progress form.
+
+**Case studies**
+- 526EZ (for toxic exposure update)
+    - Updated the online form to include optional questions
+    - Didn't include alert on static page, since questions were optional
+    - Dropped in-progress users into their last saved step
+    - Presented an alert to in-progress users (prompting to answer new questions in an upcoming section or go back to answer new questions)
+- 526EZ (for MST and PTSD updates)
+- 527EZ
+- 530EZ
+    - "For the 530, they allowed those users to continue their form without interruption. But they initially wanted to show an error message that would prompt them to go back to the beginning. We also explored/talked about taking the form offline for a few hours before the updates went live, but we ultimately decided against that because of the larger amount of unauth users who use the form."
+- 1010EZ
+
+**Content recommendation**
+> [Alert]
+> 
+> [Header] Your application is in progress and was last saved on [date] at [tine]
+> 
+> You should know that we updated our online form. **If you started applying online before [date],** we have some new questions for you to answer. And we changed some questions, so you may need to provide certain information again.
+> 
+> Select **Continue your application** to use our updated form, or come back later to finish your application.
+>
+> Your application with expire on **[date] at [time]**.
+>
+> [Button] Continue your application
+> 
+> [Link] Start a new application
+
+**Design system recommendation**
+- Maybe a pattern? Help users to understand how online form updates affect their in-progress form.
 
 ## Alternate signer
 
