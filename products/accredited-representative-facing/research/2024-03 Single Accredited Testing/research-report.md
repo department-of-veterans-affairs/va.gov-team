@@ -94,7 +94,7 @@ Feedback about the unauthenticated and authenticated ARP tool will inform conten
 We asked participants about their current role, work context and case load in an effort to update our persona to reflect nuances within VSOR subgroups (See [updated persona](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709236473099/7a69ce07dbe58af30f1954470bebbe59b7bf1160?sender=u8cf3f08a008c2b61ad621433)). 
 
 Singly accredited VSO Representatives we spoke to:
-- Primarily work at the state, regional, or national level; may have assignments at the sub-state level only if they work for state government (See Appendix).
+- Primarily work at the state, regional, or national level; may have assignments at the sub-state level only if they work for state government (See [Appendix](#appendix)).
 - Support fewer Veterans than other VSOR sub-types, with caseload ranging from tens to a few hundred active claims at a time.
   - So far, we have observed that Big 6 and VSOR assigned at the state- or county-level carry a higher workload than VSORs who operate at the national-level.
 - Quotes about work context 
@@ -136,8 +136,8 @@ We also asked our participants about their current process establishing contact 
 **Perceived usability for ARP was high, but observed usability was mixed.**
 - Participants rated the ARP tool a 4.63 (out of 5), which corresponds to an observed usability score of 51. Anything below a 68 is considered below average ([source](https://measuringu.com/sus/#:~:text=The%20average%20SUS%20score%20from,through%20a%20process%20called%20normalizing.)). Explanations for the low SUS score include:
   - Participants’ could not complete two tasks without the moderator prompting.
-   - Task 2 (sign in) involved a sign-in flow that was not common for PIV card users. 9 of 9 participants in this study use PIV to log into representative-facing tools.
-   - Task 6 not conforming to a common use case for singly accredited VSO Representatives.
+   - [Task 2 (sign in)](#task-2-signing-in-and-authentication-experience) involved a sign-in flow that was not common for PIV card users. 9 of 9 participants in this study use PIV to log into representative-facing tools.
+   - [Task 6](#task-6-bulk-select-and-approve-poa-requests) not conforming to a common use case for singly accredited VSO Representatives.
 - It should be noted that the sample size for this usability test was small, which disproportionately skews low observed usability and task success measures.
 
 ### Key Finding 3 
@@ -145,12 +145,12 @@ We also asked our participants about their current process establishing contact 
 - Based on our prior research, we understood VSO Representatives to work in two modes: 
   - A VSO Representative is often working with an individual and therefore seek out that person’s request, or 
   - Someone within the VSO whose responsibility it is to field incoming POA requests will access the system regularly to scan through all the new requests and make a decision on them
-- References were made in prior research to a dedicated VSO Representative whose role within the organization was to monitor incoming requests at a regional or national level, taking bulk-actions. During this study, we were able to determine that large VSOs who participated in this study do not use a bulk-accept workflow, with VSO Representatives saying that bulk work was prone to errors that would negatively affect the outcomes for the Veteran.
+- References were made in prior research to a dedicated VSO Representative whose role within the organization was to monitor incoming requests at a regional or national level, taking bulk-actions. During this study, we were able to determine that large VSOs who participated in this study do not use a bulk-accept workflow, with [VSO Representatives saying that bulk work was prone to errors that would negatively affect the outcomes for the Veteran](#task-6-bulk-select-and-approve-poa-requests).
 
 ### Key Finding 4
 **Singly accredited VSO Representatives do not associate accreditation (or OGC) with their daily work.**
 - As part of the long-term roadmap for the Accredited Representative Portal, some representatives will be able to use the tool to apply for and manage their accreditation as well as manage POA and handle tasks related to claims. The [homepage design and global menu](https://www.figma.com/design/C3sdnDf8anVqXVdmiCWwq8/ARF---April-2024-usability-test?node-id=0-146) for ARP feature references to applying for and managing accreditation. 
-  - Participants were confused why accreditation was part of the tool’s navigation and questioned whether it would be relevant to a tool used for power of attorney requests and claims management.
+  - Participants were [confused why accreditation was part of the tool’s navigation](#key-finding-1) and questioned whether it would be relevant to a tool used for power of attorney requests and claims management.
   - Two participants expressed confusion about why their OGC number would be relevant in their user profile when logged in. Some of this confusion may be a result of an unclear audience for ARP, as these users assumed that Veterans would also be able to access the authenticated experience. 
 - Singly accredited VSO Representatives do not associate OGC with the VA. 
   - VSORs we spoke to for this study saw their work supporting Veterans with VA and OGC as entirely separate entities. 
@@ -161,24 +161,24 @@ We also asked our participants about their current process establishing contact 
 **Hypothesis confirmed: file/claim number and Social Security number are the most desired Veteran search functions for ARP.**
 - Consistent with findings from our [user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/2024-02%20User%20Interviews/02-2024-user-interviews.md#critical-recommendations-for-mvp), file/claim number, SSN, and Date of Birth are important search criteria for VSO Representatives to find a Veteran they are supporting.
 - These search fields would eliminate the need for VSO Representatives to review multiple pending requests, especially in instances where the Veteran has a common name, or lives in an area with a large Veteran population. 
-  - Several participants spoke of the potential for VSOR error, when Veterans share identifying information such as name or location. This led to cases where the VSOR started POA or claims work for the incorrect Veteran and later had to correct it.
+  - Several participants spoke of [the potential for VSOR error](#task-4-single-veteran-poa-search), when Veterans share identifying information such as name or location. This led to cases where the VSOR started POA or claims work for the incorrect Veteran and later had to correct it.
   - Unique identifiers are therefore important to improve accuracy of search data, reduce time to review search results, and reduce inaccurate or fraudulent claims, and should be prioritized in ARP Pilot. 
 
 ### Key Finding 6
 **Hypothesis confirmed: because of a history of unreliable tools in the VA ecosystem, VSO Representatives need high visibility into the ARP system, such as confirmation an accepted 21-22 has been processed and they now have access to the e-Folder.**
-- VSO Representatives have a notable distrust in the VA tools they use, because of a history of unreliable submission, and claims getting lost, “stuck,” or simply disappearing. As a result, the VSO Representatives we spoke to have added additional steps in their workflows to meticulously document their work. Reasons included:
+- VSO Representatives have a notable distrust in the VA tools they use, because of a history of unreliable submission, and claims getting lost, “stuck,” or simply disappearing. As a result, the VSO Representatives we spoke to have [added additional steps in their workflows](#task-5-accepting-poa-request) to meticulously document their work. Reasons included:
   - Placating angry Veterans blaming VSO Representatives when a claim is misplaced or not submitted on time
   - Wanting proof to provide the VA that the Representative was not responsible for the error, and
   - Ensuring institutional memory of Veterans’ cases, given high turnover within a VSO.
 - Building upon prior user feedback, this study attempted to pinpoint specific nudges, notifications and prompts that would help boost user confidence and satisfaction with ARP as a reliable VSOR tool. 
-  - Users want confirmation of the system’s status at each step of the POA process, from searching for a Veteran’s 21-22, to viewing the request, to accepting or declining, and being able to find evidence of the work they completed later. Specific nudges are documented in the Recommendations section of this report.
+  - Users want confirmation of the system’s status at each step of the POA process, from searching for a Veteran’s 21-22, to viewing the request, to accepting or declining, and being able to find evidence of the work they completed later. Specific nudges are documented in the [Recommendations](#recommendations) section of this report.
  
 ## Tasks and Conclusions
 The following findings are synthesized from participants’ responses to usability test prompts. Participants were scored on task success (0 = failure, 0.5 = indirect or partial success, 1 = success) and task paths were recorded if they deviated from the expected path. All participants were given a [Single Ease Question (SEQ)](https://measuringu.com/seq-prediction/) at the end of tasks, because SEQ helps to explain the perception of ease relative to users’ observed behavior. 
 
 Since most VSOs use third party tools to prepare, file, and manage Veterans’ claims, we wanted to understand the product’s overall perceived usefulness and value and how to position the ARP MVP to prospective users. Participants answered a Net Promoter Score (NPS) question at the end of the study; this is because [NPS is correlated with the System Usability Scale (SUS)](https://measuringu.com/usability-loyalty/#:~:text=Improving%20the%20perception,a%20promoter%20(9%2B).), an observational usability measure. NPS helps us understand the nexus of user loyalty and usability without cumbersome post-task and post-test questionnaires. Calculations for all usability metrics can be found on [Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/Task%20Success%20Measures.xlsx?d=wbe086d2f13364316aed7491c828055de&csf=1&web=1&e=GD3dDg). 
 
-**A note about task completions:** One participant in our study was a cross-accredited VSO Representative and therefore not eligible to complete task-based flows. As a result, some tasks are calculated for 8 participants versus 9. Where applicable, we have noted when all 9 participants completed the task and provided answers to qualitative questions. More information about participant demographics for this study can be found in the Appendix.
+**A note about task completions:** One participant in our study was a cross-accredited VSO Representative and therefore not eligible to complete task-based flows. As a result, some tasks are calculated for 8 participants versus 9. Where applicable, we have noted when all 9 participants completed the task and provided answers to qualitative questions. More information about participant demographics for this study can be found in the [Appendix](#appendix).
 
 ### Task 1 / Unauthenticated landing page
 *9 of 9 participants completed this task*
@@ -272,7 +272,7 @@ Since most VSOs use third party tools to prepare, file, and manage Veterans’ c
 ### Task 3 / POA requests page
 - Overall feedback on the visual design of the POA requests page was positive, and participants could understand the purpose of the portal and next actions to take based on the UI.
   - 2 of 9 participants felt that the UI looked “familiar” to other VA and third party accredited representative tools they use.
-  - Detailed feedback on search functionality and the design of the POA requests table is located under Task 4 in this report.
+  - Detailed feedback on search functionality and the design of the POA requests table is located under [Task 4](#task-4-single-veteran-poa-search) in this report.
 - Quotes about overall POA requests page visual design
   - “[ARP] would make [POA] a lot easier on us.” -P3
   - “It’s convenient.” -P4
