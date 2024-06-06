@@ -1,5 +1,7 @@
 # External Auth Data Reporting
 
+_(Currently on hold, as per VA.gov PO)_
+
 ## Overview: 
 External Auth Data Reporting is a project designed to create a standing data report to share with VA leadership and others surrounding the full authentication process.
 
