@@ -22,25 +22,26 @@ Learn what information resides in Vet's API and the minimum data required to fin
 
 ## Outstanding questions
 - Can and should we save information to a Veteran's profile or back to Vet's API when they update their military history? How about when non-veteran/service members update it?
-- How can we prevent fraud?
 - What minimum key information do we need to know to search and find a Veteran's service history?
 - What should we do if a non-veteran/service member enters a Veteran's identifying information to find we don't have any military history for that Veteran?
-     - Would we ever not have a Veteran's military history?
+     - Would we ever not have a Veteran's or service member's military history?
      - For Ch 36, should we allow them to upload their DD214 (if they are discharged) and skip all Service history questions?
      - What other form can they upload if they are on active duty so that they get to skip some of the service history questions?
+- How can we prevent fraud?
 - How do processors verify legitimate connection to the Veteran? (pair with Burial VBA folks)
+- Should we update Burial's list and loop pattern to the [latest multi-page pattern](https://design.va.gov/patterns/ask-users-for/multiple-responses#how-to-design-and-build---multi-page) in the Military history step?
 
 ## In of Scope
 - Collaborate with OCTO and VBA stakeholders throughout the design process
-- Collaborate with the Profile / Authenticated Experience team
-     - Can and should we save information to a Veteran's profile when they update their military history?
+- Collaborate with the Profile / Authenticated Experience team (if it's in-scope to update the military information to the Veteran/service member's profile)
 - Review content changes with CAIA, including any changes needed to the benefits hub content related to the form change
 - Review new designs with the Platform team through the Collaboration Cycle
-- Implement updates
+- Implement updates to all 3 forms
 
   
 ## Out of Scope
-
+- Update Vet's API information?
+- 
 
 ## Success
 - All non-disability online forms prefill the Veteran/service member's military history
