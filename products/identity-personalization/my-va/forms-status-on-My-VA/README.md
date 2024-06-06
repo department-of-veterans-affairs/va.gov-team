@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: May 15, 2024 - updates to Solution approach, Outcomes, Measuring Success, Key Deliverables, Key Dates, & screenshots**
+**Last updated: June 6, 2024 - updates to Key Dates**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
