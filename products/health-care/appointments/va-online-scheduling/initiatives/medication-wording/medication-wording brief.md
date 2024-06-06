@@ -1,43 +1,34 @@
 # Medication Wording 
+
 #### Overview
 
-<details>
- 
-We've been tasked with integrating medication-related content into appointment notifications and detail pages across all channels following an OIG/Congressional request. Our objective is to remind veterans to discuss their medications during appointments, ensuring they are prepared to talk about any prescriptions, supplements, or vitamins from any provider. This initiative aims to improve communication and support veterans in managing their medication effectively.
- 
-
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
----
-
 ## Outcome Summary
-We had an OIG/Congressional request come in to add some medication-related content to appointment notifications and detail pages for all appointment types on all channels. The objective is to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.
 
+An OIG/Congressional request came in to add content helping Veterans understand how to review their medications ahead of an appointment to various points where Veterans encounter their appointments. The objective is to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store. This initiative aims to improve communication and support veterans in managing their medication effectively.
 
 **Impacts Related/Associated product(s)**
-- Mobile app
 - VA.gov web appointments
-- Email reminders
-- Text message reminders/pre-check-in
 - MHV Classic
 - My VA Health portals
+- Pre-check-in
+- Mobile app
+- Email reminders
+- Text message reminders/pre-check-in
+- Others TBD
+
+[Full list of products and touchpoints.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/projects/2024-05-medication-language-update/medication-content-locations.md)
 
 ## Problem
+
 The problem were addressing is the need to improve medication-related communication with veterans across various channels. The challenge lies in ensuring that veterans are adequately informed and prepared to discuss their medications during their appointments.
 
 The affected parties include:
 
-Veterans: They may face difficulties in remembering or accurately communicating their medications during appointments, which can impact the quality of their healthcare.
-Healthcare Providers: Inadequate information about a patient's medications can lead to potential errors in diagnosis, treatment, or medication management.
-Administrative Staff: They may encounter issues related to scheduling, reminders, and updating patient information across multiple platforms.
-The evidence of this problem is evident from the request you received, indicating a need to add medication-related content to appointment notifications and detail pages across various channels.
+- Veterans: They may face difficulties in remembering or accurately communicating their medications during appointments, which can impact the quality of their healthcare.
+- Healthcare Providers: Inadequate information about a patient's medications can lead to potential errors in diagnosis, treatment, or medication management.
+- Administrative Staff: They may encounter issues related to scheduling, reminders, and updating patient information across multiple platforms.
+
+The evidence of this problem is evident from the congressional request, which indicates a need to add medication-related content to appointment notifications and detail pages across various channels.
 
 This initiative help further OCTO-DE's mission and goals by improving the quality of care for veterans and ensuring that their healthcare providers have accurate and comprehensive information about their medications.
 
@@ -60,6 +51,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 ---
 
 ## Discovery
+
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
@@ -73,23 +65,26 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
     - Alignment with Stakeholder Objectives
 
 ### What're you building
-- Medication notifications with desired wording from higher level stakeholders
-- Reminders for Veterans to be ready to talk about any medication they are taking
+
+- Collecting information on how Veterans can prepare for their appointment in details pages and pre-check-in
+- Adding a new section explaining how to review their medications
+- Working with [other teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/projects/2024-05-medication-language-update/medication-content-locations.md) to add this content to relevant appointment touchpoints.
+
 #### Go-to-market 
 - Notifications push/communications to larger teams/groups  
 
 --- 
 
 ## Launch Planning
+
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -103,7 +98,18 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 ### Before
 
+Appointment details:
+- [User flows](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-2925&t=OIEbtEV8mKYZd2Iz-4)
+- [Detail pages](https://www.figma.com/design/q1lq0bwvDMCg6RADZddYMX/Details-Pages-Specs-(WIP)-%7C-Appointments-FE?node-id=0-1)
+- Content will be added to Upcoming and Canceled appts, not Past appts or any requests.
+
+[Pre-check-in](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=937-28573)
+
 ### After
+
+[Appointment detail pages](https://www.figma.com/design/zdLjBmeymTyHALf5lBzVgI/Medication-Review-Language-%7C-UAE?node-id=13-32911&t=T01MiIR72FzJaeLO-4)
+
+[Pre-check-in](https://www.figma.com/design/zdLjBmeymTyHALf5lBzVgI/Medication-Review-Language-%7C-UAE?node-id=13-32909&t=T01MiIR72FzJaeLO-4)
 
 ---
 
@@ -114,7 +120,7 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 - Team Name: Appointments team 
 - GitHub Label(s): appointments 
-- Slack channel: #-appointments-instructions
+- Slack channels: #-appointments-instructions, #appointments-team
 - Product POCs: Adam Oyenuga 
 
 </details>
@@ -123,8 +129,10 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 #### Stakeholders
 Higher level Stakeholders 
 
+TBD. The medication review language will need to be reviewed by stakeholders before it can be finalized/implemented.
+
 <details>
   
-- Office/Department:
+- Office/Department: 
 - Contact(s):
  
