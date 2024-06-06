@@ -29,10 +29,19 @@ Here are the things we propose to report upon in the MVP:
 **Quantitative Data**
 - Monthly/Daily Active Users
 - Total Authentications
-- Latency / Time to Login
 - Credential Preference
    - Which CSP are people using to login per month?
-- Device Type Preference
+
+
+
+
+## Out of Scope: (for this iteration)
+
+### Moved to Out of Scope After Initial Team Meetings ###
+
+**Quantitative Datae**
+- Latency / Time to Login
+- - Device Type Preference
    - Mobile vs. desktop
 - Which pages see the most auths
    - Where are people initiating logins from?
@@ -46,8 +55,8 @@ Here are the things we propose to report upon in the MVP:
 - Satisfaction/trust rating
 - Feedback from users on whether they're able to do what they wanted
 
-## Out of Scope: (for this iteration)
-Other things we might want to measure in the future:
+
+### Other things we might want to measure in the future ###
 
 - SAML vs Oauth success metrics
 - Downtime per CSP
@@ -63,7 +72,7 @@ Other things we might want to measure in the future:
 - Decrease in Password Reset Requests
   - Indicates a more secure and reliable authentication process, reducing user frustration.
 
-In addition
+### In addition ###
 - Conduct regular security assessments and testing
   - Agencies should regularly assess the risk to websites and provide commensurate security testing of those sites based on that assessment. The assessment should consider the potential impact of a security incident on vital transactions or core services provided to the public, access to timely information, government and vital external operations, and public trust. 
   - Agencies should perform manual penetration testing, where appropriate, based on threat analysis and the criticality of the underlying system.
