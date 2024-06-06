@@ -218,23 +218,36 @@ _**Participant is on provider page:**_
 _**Participant is on filter page:**_ 
 
 - Tell me about this page?
-  _- If needed:_ Is there anything confusing about this page and the information included here?
+  - _If needed:_ Is there anything confusing about this page and the information included here?
 
-- _If calendar selection is not mentioned:_
-  - Tell me about the first selection option there.
-  - Go ahead and select June 26.
+[AVAILABILITY FILTER]
 
-- _If online shcheduling option is not mentioned:_ And what about the second option there, what does that mean to you?
+- _If calendar selection was not mentioned:_ Let's review the first filter option. What's your understanding of that?
+  - _If needed:_ What can you do there?
+  
+- Can you demonstrate how you would use that first filter option? (Date picker)
+
+- Is there anything about this that is not what you expected?
+
+- Go ahead and select any date.
+
+[SHOW ONLY ONLINE SCHEDULING FILTER]
+
+- _If online shcheduling option was not mentioned:_ And what about the second kind of filter there, what does that mean to you?
  
-- _(If not yet mentioned)_ If the provider you were looking for did NOT have the option to schedule online, would you expect to find information on that provider here? 
+- _If not yet mentioned:_ If the provider you were looking for did NOT have the option to schedule online, would you expect to find information on that provider here? 
     - _If yes:_ What information would you expect?
     - _If not:_ Could you tell me more about that?
 
+[GENERAL]
+
+- And what about the rest of the filters here? Is there anything confusing about those?
+  
 - Is there anything missing you’d expect to find on this page?
 
-- What would you do next on this page?
+- Ok, without doing anything yet, what would you do next on this page?
   
-- Ok, for the purposes of this study, you can go ahead and select [FEMALE] and [SPANISH] and submit those choices.
+- For the purposes of this study, you can go ahead and select [FEMALE] and [SPANISH] and submit those choices.
 
 
 ---
@@ -264,13 +277,12 @@ _**Participant is on choose time and date page:**_
 ---
 
 _**Participant is on review/confirm choices page:**_
-- I’ll stop you here for a second. Can you tell me about this page?
 
 - Is there anything confusing about this page?
 
 - What would you do if you wanted to change some of your answers here?
 
-- And what would you expect to happen when you select edit?)
+- And what would you expect to happen after selecting edit?
 
 - Ok, go ahead and continue.
 
@@ -282,33 +294,40 @@ _**Participant is on success/detail page:**_
 - How is this similar to or different from what you expected?
 
 - Thank you. And lastly, how would you expect to be able to cancel or reschedule this appointment?
+
 ----
 
 ## Task #2: Referral concept test - 5 minutes
 
-- Thank you! Now I’ll have you go back to your list of appointments by selecting ____ at the bottom of the page. (guide them back if needed)
+- Thank you! I just have one more thing for you to review.
+  
+- Now I’ll have you go back to your list of appointments by selecting ____. (guide them back if needed)
+
 
 _**Participant is on appointment list page (no task card):**_
+
 - Earlier we talked about where you would expect to find referrals. I’d like to get your feedback on an early concept for where those referrals might be.  
 
-- So first of all, before doing anything, where would you look for new referrals?
+- You mentioned _______. (RECAP where the participant expected to find referrals). So first of all, from here, where would you look for new referrals?
 
 - And where would you look for old referrals?
 
-- Ok, I’ll have you navigate to your Pending appointments list. 
+- Ok, thank you. Now, I’ll have you navigate to your Pending appointments list. 
 
 ---
+
 _**Participant is on Pending page:**_
+
 - Talk to me about this page and what’s included here.
 
 - How is this similar to or different from what you expected?
-
-- Ok, that’s everything we need to go through in the prototype. Do you have any other questions for me, or comments about what we’ve gone through today?
+  
+- Do you have any other comments or questions about this? Please don't hesitate to give us your feedback; this is a very early concept that might not be used.
 
 -------
 
 ## Post-Task Interview - 1-2 minutes
-- Ok, thank you! That concludes that activity and is everything we need to go through today.
+- Ok, thank you! That concludes that activity and is everything we need to go through today. Do you have any other questions for me, or comments about what we’ve gone through today?
 
 - Lastly, I'd like to confirm: **Are you still okay if we use any video or audio clips from this session?"**
 
