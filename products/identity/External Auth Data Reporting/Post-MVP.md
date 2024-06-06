@@ -1,7 +1,9 @@
 ## Post-MVP Suggestions For the Datadog Notebook
 
-### Background
+## Background
 The External Auth Data Reporting MVP launched in early June 2024, featuring a notebook created in Datadog, but with a very barebones user interface.  Here are some suggestions / questions about making it better.
+
+### Monthly Active Users Module
 
 <img width="979" alt="Screenshot 2024-06-06 at 1 26 48 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/2628ba9b-31fd-463b-8215-b7bc7fa6f27b">
 
