@@ -56,5 +56,5 @@ Dashboard | [POST /attachment/new?{inquiryNumber}](crm_api/Dashboard_UploadFile.
 Form | [GET /health_facilities/{id}](lighthouse/Form_MedicalFacilities.md)  | Lighthouse | N/A | 🟩 | 🟩 | 🟩 | ⬜ |  | 
 Form | [GET /education_facilities](crm_api/Form_SchoolFacilityCodes.md) | GI Bill Comparison Tool (GIBCT) | N/A | N/A | 🟩 | 🟩 | ⬜ |  | 
 Form | GET /branch_of_service | VA APIs | N/A | N/A | 🟩 | 🟩 | ⬜ |  | 
-Form | ~[GET /profile](va_profile/profile_processes.md) from VA~ | ~VA Profile~ | ~N/A~ | ~N/A~ | 🟡 | ~N/A~ | ~N/A~ | login provides profile data, no need to separate call to API | 
+Form | ~[GET /profile](va_profile/profile_processes.md) from VA~ | ~VA Profile~ | ~N/A~ | ~N/A~ | ~N/A~ | ~N/A~ | ~N/A~ | login provides profile data, no need to separate call to API | 
 
