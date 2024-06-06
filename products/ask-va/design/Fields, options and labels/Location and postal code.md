@@ -146,7 +146,7 @@ When we require the location of residence and postal code of the **submitter**, 
 | ----------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
 | A general question | **require submitter’s location of residence** | CA, NY, PA, or TX  | **require submitter’s postal code** |
 
-### Why do we collect this information?
+### Why do we require this information?
 
 We require location of residence and postal code so we can route to the correct queue.
 
@@ -278,7 +278,7 @@ We require location of residence and postal code so we can route to the correct 
 | ----------------------- | ----------------------------------------- | ---------------------- | ---------------------------- |
 | A general question | **require submitter’s location of residence** | CA, NY, PA, or TX      | **require submitter’s postal code** |
 
-### Why do we collect this information?
+### Why do we require this information?
 
 We require location of residence and postal code so we can route to the correct queue.
 
@@ -381,7 +381,7 @@ We require location of residence and postal code so we can route to the correct 
 | ----------------------- | ----------------------------------------- | 
 | A general question  | **require submitter’s postal code** |
 
-### Why do we collect this information?
+### Why do we require this information?
 
 We require postal code because these VHA offices are national but they may need to direct someone to a local medical facility or share local resources.
 
