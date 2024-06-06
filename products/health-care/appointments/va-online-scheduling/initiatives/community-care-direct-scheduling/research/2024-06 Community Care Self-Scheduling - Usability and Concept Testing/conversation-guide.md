@@ -193,7 +193,7 @@ _**Participant is on referral page:**_
 
 - And what about if you're choosing a provider for something like a major surgery?
 
-- Ok, go ahead and continue.
+- Ok, thank you. Go ahead and continue with what you'd do next.
 
 ---
 
