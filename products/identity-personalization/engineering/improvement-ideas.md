@@ -6,6 +6,7 @@
   - Change the state of a user (LOA1/3, MFA status, login service, branch of military, etc)
   - Provide a secondary functionality where a plugin or module could be provided to the devtool and it would render in a tab, that way a specific app team could make thier own mini set of tabs or functionalities to use in their app if they wanted.
   - Would need to mount the devtools on the root of the app or in the startApp function so that it could be provided to the entry point of the application.
+  - Add the ability to un-block a user's profile by way of the control information data that is returned from direct deposit
 
 - State management modernization (In progress)
   - Currently going through approval process: https://github.com/department-of-veterans-affairs/vets-website/pull/29867   
