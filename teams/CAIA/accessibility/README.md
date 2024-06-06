@@ -17,8 +17,6 @@ Note that CAIA can assist teams going through the Collaboration Cycle, but **CAI
 ## Services we offer
 What follows is a menu of the services we offer. **No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.**
 
-You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
-
 ### Research support
 We can help you plan your research sessions, ensuring that they are equitable and account for important accessibility factors. We recommend a pilot session with a CAIA accessibility specialist before running your research sessions, to mitigate any potential accessibility-related issues. When it comes time to run research sessions, we can also provide limited technical support for research participants who use screen readers. We can also observe your assistive technology sessions through an accessibility-focused lens, documenting accessibility-related issues the user encounters. **Note that we cannot provide extensive, on call, technical support during research sessions -- if you are worried about technical issues we recommend running a pilot session or two with CAIA specialists so that we can discuss ways to best support your needs.**
 
@@ -47,3 +45,12 @@ We can provide training and resources for you and your team on accessibility bes
 
 ### Spot checks, general guidance
 We are always here for more general, off-the-cuff questions! Never hesitate to reach out to us on the DSVA Slack in either the `#accessibility-help` or the `#sitewide-content-accessibility-ia` channels.
+
+## How to contact us
+Reach out to CAIA accessibility specialists through our [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH) Slack channel, or tag us in your channel, using any of the following Slack handles:
+- @sitewide-caia (all CAIA team members)
+- @sitewide-caia-accessibility (CAIA's accessibility specialists)
+
+To start formally working with CAIA accessibility specialists, submit a [Sitewide Content, Accessibility, and IA intake form ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E) in GitHub.
+
+You can also reach us by attending our weekly office hours on Tuesdays at 4 PM Eastern on [Zoom](https://coformaco.zoom.us/j/83992174780?pwd=Tk1jZ0o3MWxLcHFMWTM1S3ZrcytqUT09).
