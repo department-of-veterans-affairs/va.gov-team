@@ -7,7 +7,7 @@ Contents:
 - [Guardianship and VR&E rules](#guardianship-and-vre)
 - [Education > VR&E rules](#education--vre)
 - [Health care rules](#health-care)
-- [Page in Figma](#pages-in-figma)
+- [Pages in Figma](#pages-in-figma)
 
 ## Contact preference
 
