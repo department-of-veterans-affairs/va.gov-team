@@ -52,24 +52,24 @@
 - [ ] Discovery
      - [ ] Does the solution require engagement with downstream system
           - [ ] Is there a data change, and can the downstream system accept the data?
-- [x] **Create Epic to identify the problem and solution**
+- [x] Create Epic to identify the problem and solution
 - [ ] Create corresponding stories to align with the work needed (start with this list!)
 - [x] Initial design
      - [x] Lo-Fi design ideas
      - [x] Presentation and agreement with the team on direction
           - [x] Confirm Frontend and Backend efforts
      - [ ] Presentation to Stakeholders and downstream system representatives
-- [x] **Submit Collaboration Cycle request ticket**
-- [x] **Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Submit Collaboration Cycle request ticket
+- [x] Schedule Design Intent review - Refer back to the initial Collaboration Cycle Request ticket
      - [x] Present design and obtain feedback
-- [x] **Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Request Content & IA review - Refer back to the initial Collaboration Cycle Request ticket
 - [ ] Finalize design with feedback
      - [ ] Present to team, stakeholders and any other interested parties
 - [x] Create prototype or basic working functionality in environments
      - [ ] The team can determine the best path, used for research
 - [x] Create Research Plan and Conversation Guide
-- [x] **Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket**
-- [x] **Request Research Review - Refer back to the initial Collaboration Cycle Request ticket**
+- [x] Schedule Midpoint Review - Refer back to the initial Collaboration Cycle Request ticket
+- [x] Request Research Review - Refer back to the initial Collaboration Cycle Request ticket
 - [x] Schedule research sessions with Perigean
 - [x] Conduct research sessions
      - [x] Synthesize research findings
@@ -107,9 +107,9 @@
 - [ ] **Submit Contact Center guide review ticket**
 - [ ] **Update Release Plan**
      - [ ] **Include E2E test results & signoff**
-- [ ] **Schedule or close all remaining tickets**
-     - **Some tickets may be backlogged for future work, as they were not required to launch**
-- [ ] **Review this checklist for any missing artifacts**
+- [ ] Schedule or close all remaining tickets
+     - Some tickets may be backlogged for future work, as they were not required to launch
+- [ ] Review this checklist for any missing artifacts
 - [ ] **Conduct Launch Go/No Go with the team**
      - [ ] **Review this checklist**
      - [ ] **Review Release Plan**
