@@ -1,6 +1,6 @@
 
 <!-- markdownlint-disable MD024 -->
-# FMP Release Plan Template
+# FMP Registration Release Plan Template
 
 ## How to use this release plan
 
