@@ -82,5 +82,6 @@ Most of the suggestions are made from the standpoint of "what happens if we get 
 This is a great start, and if we want to add more, perhaps we should look at
 - Device Type preference
   - Would help us understand how users are accessing VA.gov, and if there are any trends over time.
+  - Question: if someone logs in using the web, and then also logs in using the app, is that two logins?
 - Which pages are seeing the most auths
   - This might help us understand which pages to focus on in terms of the Sign-in widgets/CTAs work.
