@@ -131,10 +131,21 @@ Site performance impacts (see Google Lighthouse, WebPageTest, #-daily-lighthouse
 ---
    
 ## Screenshots
+Current Debt Summary Page:
+https://staging.va.gov/manage-va-debt/summary/debt-balances (log in to User81)
+![debt-summary](https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/80f41667-27ac-4a37-9dbf-8c84463814c2)
 
-### Before
 
-### After
+Debt Summary Mock up:
+![Overpayment summary page](https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/91ff93b4-b3dd-4968-80b3-a4486bdaaa21)
+
+
+Current Debt Detail Page:
+https://staging.va.gov/manage-va-debt/summary/debt-balances/details/79612301872 (log in to User81)
+![debt-detail](https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/31710c63-abe2-45ba-b627-6faa751b998d)
+
+Debt Detail Page Mock up:
+![debt-detail-06-07](https://github.com/department-of-veterans-affairs/va.gov-team/assets/5553542/750cdfa7-7df6-46e6-833d-ce21bbf23f52)
 
 ---
 
