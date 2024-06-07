@@ -45,11 +45,11 @@ We are using version 1 of the forms library, Formation. This is a straight forwa
 
 The data ends up in the ESR (Enrollment).
 
-Not sure what Vets-API endpoints are used.
+[Endpoints document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
 
 ### Feature toggles
 
-We have a feature toggle for multiple address field, `multiple_address_10_10ez`, Its currently enabled in all environments.
+
 
 ### How to test new features?
 
