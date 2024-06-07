@@ -1,4 +1,4 @@
-# VAMC CMS
+# VAMC CMS Editor Experience
 
 ## About this project
 
