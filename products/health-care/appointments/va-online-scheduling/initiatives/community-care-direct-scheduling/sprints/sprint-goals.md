@@ -56,16 +56,18 @@ ________________________________________________________________________________
          - 🟨 Submit research materials to Shane
          - 🟨 Schedule A11y walkthrough of CodePen prototype (e.g., Brian, Jeana, Jami, etc.)
          - 🟥 🟨 [[CodePen] Make adjustments based on A11y and Midpoint Review feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
-    - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-         - 🟥 Address Midpoint Review feedback 
+         - 🟥 Address Midpoint Review feedback
     - **Sub Goal: [Feature] Get connected with WellHive**
+         - TBD 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [[FE] Build out zero results page when no providers are found using filters](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85466)
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+         - 🟥 Cancelation wireframe(s) 
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages**      
-
+         - Check in with Kay ([Slack thread](https://dsva.slack.com/archives/C06SQ48B205/p1715634052731809?thread_ts=1713973982.697579&cid=C06SQ48B205)) about access to referrals via CDW      
+    - **Sub Goal: [Feature] Integrate mocks with FE pages**
+         - TBD       
 
 </details>
 
