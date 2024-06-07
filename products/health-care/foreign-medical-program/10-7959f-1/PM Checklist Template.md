@@ -94,9 +94,9 @@
      - [ ] **Create tickets for work to be completed before launch**
 - [ ] Create Usability and/or UAT research plan and conversation guide
 - [x] Request Research Plan review
-- [x] Schedule Usability/UAT sessions with Perigean
-- [x] Conduct Usability/UAT sessions
-     - [x] Synthesize research findings, if needed (not usually needed for UAT)
+- [ ] Schedule Usability/UAT sessions with Perigean
+- [ ] Conduct Usability/UAT sessions
+     - [ ] Synthesize research findings, if needed (not usually needed for UAT)
      - [ ] Review findings with the team
      - [ ] Make any necessary tickets/changes for design and/or development
 - [ ] Complete any Design and/or Development work from Usability/UAT sessions
