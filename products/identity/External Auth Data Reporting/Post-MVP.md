@@ -42,7 +42,7 @@ The External Auth Data Reporting MVP launched in early June 2024, featuring a no
 
 <img width="990" alt="Screenshot 2024-06-06 at 2 15 07 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/bc77e08e-0b9c-484b-91e2-e514db158936">
 
-- While exploring the Value over Time chart, I accidentally brought up this, and changed the view. Luckily I changed it back. But once again, this is too much interactivity for a consumer of this data.
+- While exploring the Value over Time chart, I accidentally brought up this, and changed the view. Luckily I changed it back. But once again, this might be much interactivity for a consumer of this data.
 
 ------------------------------------------------------------------------------------------------------------------
 
