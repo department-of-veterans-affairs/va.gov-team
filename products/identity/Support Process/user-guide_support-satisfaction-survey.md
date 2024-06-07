@@ -14,6 +14,8 @@
 
 [Using Spreadsheets for Qualitative Analysis](#using-spreadsheets-for-qualitative-analysis)
 
+[Domo help](#domo-help)
+
 --------------
 
 ## Purpose
@@ -278,3 +280,6 @@ Analysis:
 - Include visualizations for quantitative data and qualitative excerpts.
 
 
+## Domo Help
+
+**Analytics Contact** - Basil Livatidis blivaditis@thesocompany.com
