@@ -163,6 +163,15 @@ The state machine is vastly more simple and robust. The funnel was orginaly desi
 
 In this option we need to ensure that our Lighthouse Benefits Intake polling job *never* misses a submission.  Remember that This is currently a chron job that seems to be having some trouble. Theoretically, we should be able to rely on the job to poll any submission that isn't successful, making this relatively simple and robust.
 
+We will also want to simplify the state machine. It should be removed from the happy path altogether. We would want to track when a submission
+- failed happy path
+- was sent to backup path     <- needs polling
+- was approved by backup path <- based on polling
+- was rejected by backup path <- based on polling
+- was remediated
+
+Anything other than these 
+
 [WIP]
 
 ### Option 3: Get synchonus responses for backup submission
