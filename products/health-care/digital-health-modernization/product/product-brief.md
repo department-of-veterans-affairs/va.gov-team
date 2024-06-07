@@ -121,7 +121,7 @@ Crew chief: Dave Conlon
 -	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
 -	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
 -	Management analyst/engineering oracle: Carnetta Scruggs
--	Secure messaging product owner: Patti Henry
+-	Secure messaging product owner: Patty Henry
 -	Medical records product owner: Bresha Lipscomb
 
 **Bylight contract team**
