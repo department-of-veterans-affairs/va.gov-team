@@ -155,9 +155,9 @@ Debt Detail Page Mock up:
 <details>
 
 - Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- GitHub Label(s): Debt Portal
+- Slack channel: #debt-resolution
+- Product POCs: Denise Coveyduc, Tom Davis, Heather Rienks
 
 </details>
 
@@ -167,7 +167,7 @@ Debt Detail Page Mock up:
 
 <details>
   
-- Office/Department:
+- Office/Department: VBA, DMC
 - Contact(s): 
  
 </details>
