@@ -97,7 +97,7 @@ ________________________________________________________________________________
          - 🟥 🟨 🟦 [Create CodePen Prototype(s) for Research](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83297)
          - ✔️ ❗ 🟨 [[Research] Draft convo guide for research study](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82900)
     - **Sub Goal: [Feature] Create KPIs**
-         - 🟩 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)      
+         - :roller_skate: 🟩 [Create KPIs and ensure business alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82894)      
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - ✔️ 🟥 Schedule Midpoint review
          - 🟥 [[Design] Create desktop and tablet size frames in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83373)
