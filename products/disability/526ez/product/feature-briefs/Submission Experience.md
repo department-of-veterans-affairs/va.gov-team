@@ -73,6 +73,63 @@ This initiative focuses on all paths for the submission and post submission expe
 6. Any changes to the Claims Status Tool that impact how the Veteran access their claim information or what they are able to track as related to submission may need a copy/link changes
 7. Will need careful collaboration with back-up path and document failures to identify all use cases for full submission flow to make sure there are no missing or inaccurate notifications
 
-# Plan
-
 # Guiding Principles
+
+# Working solution
+
+The design is based on a couple of different project plans, documented below for the sake of being able to pick them up again when relevant.
+
+## Designing to future state of other products (June 3, 2024) - on hold
+
+### Plan
+
+In this project plan, we are designing to a future point when the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) is complete and other products including My VA, Claim Status Tool, and the mobile app, along with us (the 526 disability benefits application) have aligned on an agreed-upon Veteran-facing submission model and incorporated it into their products. This allows us to address particular known painpoints in a way that is centered on the Veteran journey regardless of team boundaries in the product. Those painpoints (extending the [Problem or Opportunity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) statements with more detail) include:
+
+1. Veterans have inaccurate expectations for what happens after they submit a claim.
+    2. [The VA claim process after you file your claim](https://www.va.gov/disability/after-you-file-claim/) page shows the first step of "What happens after I file a VA disability claim" as "Claim received", but this does not reflect reality in some scenarios. If the claim includes a private medical records request (4142 / 4142a), if there are retries, or if the claim goes down the backup path, it can take a few days for the claim to be received.
+3. Veterans expect a "receipt" (claim details) of what they submitted (available from multiple parts of the product)
+4. "Veterans lack timely and truthful information about their claim" > Veterans are unclear on the status of a claim immediately after they click submit. Currently:
+    3. A claim does not show up in My VA / Claim Status Tool for over a day after submission
+    4. We send a link to the Claim Status Tool in a confirmation email before the claim is available there, creating a temporary dead end
+  
+### Design work - not yet complete
+
+See [Figma: Submission Experience](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=0-411&t=uzTuyZlBGx8mcw3q-1)
+
+We have been through two cycles of diverging and converging on design work so far. Currently we have alternatives along two variables: 
+1. Design approaches: "standalone confirmation page" or "process list")
+2. Submission models: "option 5" or "option 6"
+
+#### Design approaches
+
+Visual language for how we convey submission status, mainly the 526 confirmation screen.
+
+##### Standalone confirmation page
+
+This is close to our current visual language, with a loading screen and confirmation screen. It adds emails at key points and modifies content of an existing email. 
+
+##### Process list
+
+This approach uses the Process List pattern that replaces the loading screen and confirmation screen. The goal is to have a clear indication of what is happening and what will happen next from the time of clicking "submit" until the step that would be the confirmation screen. 
+
+#### Submission models
+
+What we mean by key terms used to describe certain steps or statuses in the submission process. These terms include "submitting", "submitted", "initiated", "processing", "sending", "preparing", "in progress", "pending", "received"
+
+##### Option 5
+
+1. Adds a submitting claim step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
+1. "date initiated" is the date the claim CESTs
+
+##### Option 6
+
+1. does not add a step and uses that flag-icon (in progress) state on step 1 of 8: claim received
+1. "date initiated" is the date the Veteran clicked "submit"
+
+## Eliminating dependencies on other products
+
+### Plan
+
+In this project plan, we deliver iteratively while eliminating dependencies on the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) and design to the current (in production) states of other products like My VA, Claim Status Tool, and the moblie app. This focuses more narrowly on the [problem statement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) of:
+
+1. Veterans lack timely and truthful information about their claim
