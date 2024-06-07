@@ -70,9 +70,14 @@ In the event that Lighthouse Facilities API releases a new version or is depreca
 
 - Facility pages data (VAMC, Vet Center, VBA Regional Office): e.g. name, location info, geocoding (pull)
 - Facilities CMS migration (cms-overlay). Drupal does **not** route through the vets-api facilities-api. However: in cases where Drupal is the source of truth and provides data to Lighthouse, the facilities-api then also receives/ contains that info via the Lighthouse Facilities API.Includes:
-  - Health services (push)
-  - Mental health phone numbers (push)
   - Facility statuses (push)
+  - Operating Status
+  - Detailed Health Services (push)
+  - Health Care System
+    - health connect phone
+  - Core Fields
+    - Mental Health phone numbers (push)
+    - Facility URL (not yet used)
 
 More information on Drupal content models that interact with the Lighthouse Facilities API is available within Drupal's content model documentation: https://prod.cms.va.gov/admin/structure/cm_document?title=&documented_entity_op=contains&for=&stakeholder=All&pulled=All&pushed=1112&notes=
 
