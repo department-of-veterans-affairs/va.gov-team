@@ -108,8 +108,71 @@ These are some options. we may not need to do all of them, and there may be bett
 ### The best option IMHO
 Ask Lighthouse Benefits Intake to give us a synchronous response when we submit to them via the backup path. This would eliminate our need for brittle polling, and with it the vast majority of our complexity. IMHO this is the best option, as it would also mirror what happens on the happy path. If we were able to get this, we could use the existing paradigm of `backup_submitted_claim_id` presence to indicate success on the backup path, leaving only remediation to be considered.
 
+
 ### The complex, brittle option
 - IF the above cannot happen, we need to do a few things to expand our existing State Machine (OR come up with a different solution altogether, as long as it satisfies our mission statement).
   - then we should close the backup path / Lighthouse Benefits Intake polling loop. This is debugging of current code.
   - Simplify the 526 State Machine. Right now there are many verbose tags, we should probably whittle it down to the key data-points
   - Sync with team 1 on 'wholistic state'. How would they like to see backup state jive with what they have?  Remember, happy path is handled, and that's primarily what they are doing.
+ 
+--------------------------------
+
+
+
+## WIP
+
+Feedback to incorporate:
+
+I kind of would like to know if there are any dependencies or risks that would keep us from starting this work or even finishing it? It sounds like Lighthouse is one of them, but I need that to be more specific. What exactly do we need and why (the benefits).
+
+You also mentioned two options. I would like more details (technical approach) on these. Tell me more about what the (currently two, but as you mentioned there might be more) options are by adding the pros and cons of each option and then (eventually after you have reviewed them ) the team’s recommendation for which option we should go with. Think about scalability, dependencies, unknowns, risks, etc. Anything that might help you identify just how much work this will involve. You will eventually have to “map” this out for a high level estimate.
+
+Our goal for this sprint will be to show this planned Epic to Emily and Sam. How we have outlined the need (problem statement) and the benefits of doing the Epic (why), and most importantly what it would take to get it done (high level requirements). We should all work on this together with you. You know it best, so your input is needed the most.
+
+What you want to use for your discovery tool is up to you. We can create a mural board for visioning and mapping if that is easier. Google Document if that is faster, or even if you want to keep working in Github. If you need to create a diagram or chart I leave that up to you on the tool (does VA use Lucid chart?). (FYI Product people love diagrams by the way.) Once we feel comfortable with the scope of work we’ll create an Epic and the features, and tasks to go with them. It’s easier to do that when you feel more confident you have enough information to start so you don’t have to do it over again.
+
+### The problem, redux
+We do not have a simple, codified mechanism for finding damaged submissions in our database.
+
+In any of these options, we need to simplify the aasm_state machine. This is very easy (a few days). We just want to get it down to bare bones. Each option outlines exactly what the state should be doing, and how much work it is to get there.
+
+NOTE: something to keep in mind; the 'audit funnel' and the state machine are two different ways of solving the same problem, that is to have an automated mechanism for taking a set of submissions and identifying the ones that are not in an exlicitly good state. The state machine solves this problem by saving tags on the submission, which can later be queried. The audit funnel solves it by running a set of filters on the submissions. 
+
+NOTE: I anticipate there will be pushback on simplifying the state machine from Emily. She made a good case for using it to save details about how / when a submission was remediated during the audit. However, our goal here is to build something simple, sustainable, and robust. In it's current form, the state machine is none of those. My response here would be / is that we should simply the state machine and keep records about how / when / why submissions were remediated in either logs or documentation. That data is not part of code execution, and therefore should not live in the codebase. When it's in the codebase, it's more likely to get obfuscated or overwritten. It's also more likely to break the logical flow of operating code. 
+
+### Option 1: Codify the 'audit funnel' as a reusable tool
+
+In this option, we take the scripts that I've already written, wrap them up in one big service object, and put it on a worker. Then, we have the option to run it as an adhoc job, or as a scheduled job for reporting.
+
+#### Pros
+- the code is already mostly written
+
+#### Cons
+- this has the most moving parts, and is therefor the most brittle
+- this would be very slow running, and therefor never useable in realtime user facing interactions, if we ever wanted to do that.
+- this is probably the most brittle, since there are no definitive state markers to check
+- Despite most of the code already being written, this option still will probably require the most actual coding. We will need to wrap up the scripts into a single object and give it a full compliment of tests
+- This option *still* uses the aasm state machine to eliminate remediated tags, which is *still* brittle in this option.
+
+#### Time Estimate: 2 - 4 sprints
+
+#### Recomendation: too slow and brittle
+The state machine is vastly more simple and robust. The funnel was orginaly designed to facilitate tagging of submission state, but ended up being the primary vehicle for the audit because of the rapidly evolving requirements. While we may use it in setting tags, ultimately this is an overly complex, brittle, slow solution.
+
+### Option 2: Repair and simplify the 526 aasm_state machine
+
+In this option we need to ensure that our Lighthouse Benefits Intake polling job *never* misses a submission.  Remember that This is currently a chron job that seems to be having some trouble. Theoretically, we should be able to rely on the job to poll any submission that isn't successful, making this relatively simple and robust.
+
+[WIP]
+
+### Option 3: Get synchonus responses for backup submission
+
+NOTE: would this come from Benefits Intake or Central Mail?
+
+In this option, we don't need to make any modifications to our code. We simply ask then when a backup submissin is accepted, we get a pass / fail status back right there and then. That way, the presence of a `backup_submitted_claim_id` is sufficent to consider a backup submission 'done'.  While this doesn't address tagging submissions that have been remediated, that complexity becomes trivial. We simply make the aasm_state a flag to indicate wether or not a submission was manually remediated, allowing us to remove all of the lifecycle transition code.
+
+TODO: 
+- figure out what team to ask about this
+- ask them how big a lift it would be
+
+[WIP]
