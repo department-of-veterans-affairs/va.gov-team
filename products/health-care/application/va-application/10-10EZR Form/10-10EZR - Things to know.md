@@ -28,7 +28,9 @@ Systems used by Application Processing teams
 
 ### Testing
 - 4/4/2024 - Do not use test address data if you want to update a user's mailing address via the EZR. VA profile actually tests the validity of addresses, so a valid address should be used.
-     - Confirmed by Joshua Drumm when he used a Tampa Bay area Pizza Hut's address. 
+     - Confirmed by Joshua Drumm when he used a Tampa Bay area Pizza Hut's address.
+- 6/7/2024 - REVIEW INSTANCE/STAGING ONLY: In order to force the rendering of the `FormSaveErrorMessage` component, first open the dev tools in your browser whilst on the review page. Then, find `Application/local` `storage/csrfToken` and change it. Finally, submit the form. Component info: https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/components/review/FormSaveErrorMessage.jsx
+- 6/7/2024 - REVIEW INSTANCE ONLY: In order to display the error for when the `LOAD_STATUSES.clientFailure` (can't connect to the server) value is true, fill out a form until you reach the review page. Then, SSH into the review instance (instructions here: https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes#Usingreviewinstancestopreviewchanges-SSH), bash into the container by running `docker exec -it vetsapi_web_1 bash` , `docker ps`, and `docker stop vetsapi_web_1`. You can run `docker ps` again to ensure the container was stopped. Finally, submit the form.
 
 ### Business Processes
 - 9/7/2023 - Confirmation received from Joshua Faulkner
