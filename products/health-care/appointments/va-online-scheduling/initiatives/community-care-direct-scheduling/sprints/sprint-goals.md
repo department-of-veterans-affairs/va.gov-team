@@ -53,6 +53,7 @@ ________________________________________________________________________________
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
+         - 🟨 Submit research materials to Shane
     - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - 🟥 Address Midpoint Review feedback 
