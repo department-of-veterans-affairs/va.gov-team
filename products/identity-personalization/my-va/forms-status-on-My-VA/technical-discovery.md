@@ -57,14 +57,14 @@ For the following tasks, we need to determine if it is feasible to grab the date
 
 ## Backend
 
-# Technical Discovery: Form Status - API Integration and Backend Implementation
+### Technical Discovery: Form Status - API Integration and Backend Implementation
 
-## Background
+#### Background
 On BE, we need to ensure that FE can reliably fetch up-to-date form status for each form associated with the vet's user account.
 
 Prior slack conversation: https://dsva.slack.com/archives/C044AGZFG2W/p1712765758519989
 
-## Design Notes
+#### Design Notes
 
 Looks like we may be able to leverage existing endpoints and redux cache for the "status" values that we can use to display the new Status Tags on MyVA UI.
 
@@ -82,14 +82,14 @@ We should also ensure FE can refresh form statuses appropriately when navigating
 
 I can work with Allison to help build whatever works best for DX and UI.
 
-## Relevant Docs
+#### Relevant Docs
 
 - https://developer.va.gov/explore/api/benefits-intake/docs?version=current
 - https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user
 - https://github.com/department-of-veterans-affairs/vets-api/blob/52066e25660bf4a7c10d9e72fff973125a16c3ec/app/sidekiq/benefits_intake_status_job.rb
 - https://github.com/department-of-veterans-affairs/vets-api/blob/52066e25660bf4a7c10d9e72fff973125a16c3ec/app/models/form_submission_attempt.rb
 
-## Relevant Endpoints
+#### Relevant Endpoints
 
 GET /v0/user
 
@@ -100,7 +100,7 @@ POST /uploads/report -- ticket to establish connection with this endpoint from v
 
 
 
-## Concerns
+#### Concerns
 
 I'm still not clear on all of the "Error" cases we need to watch out for.  We should at least be prepared to cover the known cases:
 - Network Request fails; no status is available
@@ -109,7 +109,7 @@ I'm still not clear on all of the "Error" cases we need to watch out for.  We sh
 
 Will any of these endpoints be changing after we begin UI integration (aside from non-breaking bug fixes)? Sounded like there were still questions in the air after our last meeting about this.
 
-## Tasks
+#### Tasks
 
 - [ ] Align on data requirements and FE design with team. (~3 pts)
 - [ ] Align with Benefit Forms team on purpose of "Error" status and finalized list of statuses we should expect (we can grow list over time if necessary) (~? pts)
