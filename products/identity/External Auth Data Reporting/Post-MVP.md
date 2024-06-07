@@ -11,7 +11,7 @@ Most of the suggestions are made from the standpoint of "what happens if we get 
 
 
 
-- Is it the total number of sign-ins for "Va.gov _and_ the VA: Health and Benefits mobile app" or the total number of sign ins for "VA.gov _or_ the VA: Health and Benefits mobile app"
+- Is it the total number of sign-ins for "Va.gov _and_ the VA: Health and Benefits mobile app" or the total number of sign ins for "VA.gov _or_ the VA: Health and Benefits mobile app"???
 - Can we add commas to the display, so it's easily understandable? I'd hate somebody to think that 2021620 was either 202,160 or 20,021,620 instead of 2,021,620 because they misread it.
 - What does "within a given month" mean? If I'm accessing the report on June 6, 2024, does it mean:
   - We had 2,021,620 sign-ins during May 2024?
