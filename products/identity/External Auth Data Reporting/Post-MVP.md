@@ -63,6 +63,7 @@ Most of the suggestions are made from the standpoint of "what happens if we get 
 
 - Same observations about definition of sign-ins across web & app, definition of a month, worries about interactivity and the vertical scrollbar as before.
 - Not really sure what I'm looking at here, and how it's different from the Total Authentications breakdown displayed above.
+- Once again, defining what the Metric is, as well as what "Avg," "Min," "Max," "Sum," and "Value" are should go a long way towards mitigating any confusion.
 
 
 <img width="906" alt="Screenshot 2024-06-06 at 2 30 12 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/145713877/2db24728-8661-4850-9883-fc8398daf343">
@@ -78,3 +79,8 @@ Most of the suggestions are made from the standpoint of "what happens if we get 
 
 ## Adding More
 
+This is a great start, and if we want to add more, perhaps we should look at
+- Device Type preference
+  - Would help us understand how users are accessing VA.gov, and if there are any trends over time.
+- Which pages are seeing the most auths
+  - This might help us understand which pages to focus on in terms of the Sign-in widgets/CTAs work.
