@@ -42,7 +42,7 @@ Here are the things we propose to report upon in the MVP:
 
 **Quantitative Datae**
 - Latency / Time to Login
-- - Device Type Preference
+   - Device Type Preference
    - Mobile vs. desktop
 - Which pages see the most auths
    - Where are people initiating logins from?
