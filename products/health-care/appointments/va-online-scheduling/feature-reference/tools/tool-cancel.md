@@ -20,6 +20,13 @@ Veterans can cancel appointments through VAOS.
 
 1. 01/25/24 There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
 2. 10/13/23 VA phone appointments will/should always show the cancel button because `vaos-service` is always returning cancelable as true. It is possible that users then click on the "cancel" button and are sometimes not able to cancel due to other requirements. Currently there's no way for us to tell if an appointment is cancelable or not until the user clicks the cancel button and we make a req to `vaos-service`. We're working with `vaos-service` on this to improve user experience.
+   -  6/7/24 There is no specific logic that made phone appointments not-cancellable so they would be cancellable as long as they don't hit any of the other checks. Some of those other checks are:
+       - If after the merge, there is more than 1 VistA appointment that was merged together
+       - If the appointment has a prohibited status for cancellation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
+       - If the appointment was already cancelled (a Cancelled status)
+       - If the appointment was checked-in (so a Checked-in status)
+       - If it's a cerner appointment
+       - If it's an HSRM request that has already had a cancellation request submitted
  
 ### Status Message
 - The canceled appointment displays a status indicating who canceled it.
