@@ -2,12 +2,6 @@
 <!-- markdownlint-disable MD024 -->
 # FMP Registration Release Plan Template
 
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
-
 ---
 
 ## Step 1: Development
