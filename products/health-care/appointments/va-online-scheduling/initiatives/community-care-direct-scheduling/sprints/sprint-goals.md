@@ -94,7 +94,7 @@ ________________________________________________________________________________
 
 #### NOTES
 - If time permits, create integrate mocks per page tickets and assign to [[Feature] Integrate mocks with FE pages Epic](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84195). 
-- If time permits, create add functional notes using Figma Annotation Library per page tickets (to support integration of mocks per page).
+     - If time permits, create functional notes using Figma Annotation Library per page tickets (to support integration of mocks per page) and assign to [[Feature] Integrate mocks with FE pages Epic](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84195). 
 
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
