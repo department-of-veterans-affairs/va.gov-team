@@ -17,7 +17,7 @@ Mission: Make it easier for Veterans and Caregivers to apply for, track, and man
 
 ## Project Documentation
 
-- [Sketch File](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6)
+- [Figma File](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-1)
 - [Content Source or Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10EZ/10-10EZ-application-copy.md)
 - [Project Documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
