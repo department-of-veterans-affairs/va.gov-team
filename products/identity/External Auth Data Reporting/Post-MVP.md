@@ -42,7 +42,7 @@ Most of the suggestions are made from the standpoint of "what happens if we get 
 -  Same question about whether it's the total number of sign-ins for "Va.gov _and_ the VA: Health and Benefits mobile app" or the total number of sign ins for "VA.gov _or_ the VA: Health and Benefits mobile app"
 -  Same question about what "monthly" means (though this makes it a bit more clear) what that means.
 -  It looks like the daily chart includes hourly fluctations, giving us that "up and down up and down" view. Is there a way just show it daily?
--  We need to explain what "Avg," "Min," "Max" "Sum" and especially "Value" mean on this one.
+-  We should maybe explain what "Avg," "Min," "Max" "Sum" and especially "Value" mean on this one.
 -  Is there any way to get rid of that vertical scrollbar on the right?
 
 -----------------------------------------------------------------------------------------------------------------
