@@ -93,7 +93,7 @@
      - [ ] **Review findings with the team**
      - [ ] **Create tickets for work to be completed before launch**
 - [ ] Create Usability and/or UAT research plan and conversation guide
-- [x] Request Research Plan review
+- [ ] Request Research Plan review
 - [ ] Schedule Usability/UAT sessions with Perigean
 - [ ] Conduct Usability/UAT sessions
      - [ ] Synthesize research findings, if needed (not usually needed for UAT)
@@ -109,7 +109,6 @@
      - [ ] **Include E2E test results & signoff**
 - [ ] Schedule or close all remaining tickets
      - Some tickets may be backlogged for future work, as they were not required to launch
-- [ ] Review this checklist for any missing artifacts
 - [ ] **Conduct Launch Go/No Go with the team**
      - [ ] **Review this checklist**
      - [ ] **Review Release Plan**
