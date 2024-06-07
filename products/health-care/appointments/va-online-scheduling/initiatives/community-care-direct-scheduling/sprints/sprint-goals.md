@@ -54,6 +54,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
          - 🟨 Submit research materials to Shane
+         - 🟨 Schedule A11y walkthrough of CodePen prototype (e.g., Brian, Jeana, Jami, etc.)
+         - 🟥 🟨 [[CodePen] Make adjustments based on A11y and Midpoint Review feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - 🟥 Address Midpoint Review feedback 
