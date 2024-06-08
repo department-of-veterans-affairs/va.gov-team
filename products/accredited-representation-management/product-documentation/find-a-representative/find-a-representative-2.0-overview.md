@@ -21,7 +21,7 @@ This experience is available at https://www.va.gov/get-help-from-accredited-repr
    3. Optional fields
       1. Search area 
          1. Default to 50 miles
-         2. Drop down for user to slect additional options (50, 100, 150, 200, 250, 300, 350, 400, 450 miles + show all) 🆕
+         2. Drop down for user to slect additional options (5, 10, 25, 50, 100, 200 miles + show all) 🆕
       2. Name of representative
 2. Display search results
    1. Filter results by
