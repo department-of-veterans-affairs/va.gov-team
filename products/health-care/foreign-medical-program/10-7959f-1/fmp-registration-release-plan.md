@@ -47,7 +47,7 @@ Even though your feature has been tested and ready, production is still a differ
 - Desired number of users: [FILL_IN]
 - How you'll recruit the right production test users: [FILL_IN]
 - How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle
 
 #### Results
 
