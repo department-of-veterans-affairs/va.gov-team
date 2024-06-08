@@ -1,12 +1,12 @@
-# Submission Experience Feature Brief
+# Feature Brief: Submission Experience 
 
 # 1. Purpose
 The purpose of this document is to describe and build alignment for what problems we aim to solve, why we’vre solving them, and how we plan to improve the Veteran submission experience. It is a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the progress.
 
 # 2. Background
-In early 2024 we took the approach of improving Veteran’s submission experience across a broad range of Veteran touchpoints such as pages, static content, email, and copy. Some of the changes we believed would improve the submission experience touched other apps such as My VA, Claims Status Tool, and the mobile app. However, these apps are out of our control and attempts to enact change in these Veteran touchpoints would create dependencies on external teams, widen the problem area, and complicate solutioning. This would lead to a slower delivery timeline that left Veterans with a suboptimal experience. 
+In early 2024, we took the approach of improving Veterans' submission experience across a broad range of Veteran touchpoints, such as pages, static content, email, and copy. Some of the changes we believed would improve the submission experience touched other apps, such as My VA, Claims Status Tool, and the mobile app. However, these apps are out of our control, and attempts to enact change in these Veteran touchpoints would create dependencies on external teams, widen the problem area, and complicate solutioning. This would lead to a slower delivery timeline that left Veterans with a suboptimal experience.
 
-Feeling it was best to deliver value more quickly, we decided it was more effective to focus more narrowly on one problem, in parts of the Veteran experience that we can control. Additionally, we decided to design solutions to the current state of VA.gov as opposed to possible future states. In May 2024 we decomposed this the submission experience work into five smaller phases, each with seperate delivery milestones that we plan to deliver iteratively. This resulted in some in-progress design work to be temporarily paused, but not wasted (see appendix). By delivering smaller pieces of functionality more often, we reduce technology risk and dependencies on external teams while enabling UX Researchers to test and refine our solutions, and operate more nimbly as a delivery team.
+To more quickly meet the needs of the Veterans we serve and increase opportunities for learning, we decided to deliver in an iterative manner, focusing on small and simple interventions in areas of VA.gov that we control. To reduce dependencies and unknowns on external teams and systems, we'll design solutions based on the current state of VA.gov as opposed to unknown future states. Where possible, we'll work with external teams to propose changes that we believe will improve the Veteran's submission experience but won't rely on those teams to solve problems for us. To consider the Veteran's entire user journey and the technology systems that comprise their user experience, we separated the work into five smaller phases, each with separate delivery milestones that we will deliver iteratively. This planning resulted in pausing some in-progress design work to be continued at a later phase (see Appendix A).
 
 # 3. Problem or Opportunity
 In [user research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md) conducted in Q1 2024, we discovered that many Veterans do not have a positive experience when submitting a claim for disability compensation. After a Veteran clicks “submit” on a disability benefits application on va.gov they experience errors, confusion, a lack of clarity, missing information, and cognitive load that overburdens the Veteran during a time where they are asked to recall traumatic events. The problems we discovered are:
@@ -24,10 +24,10 @@ In [user research](https://github.com/department-of-veterans-affairs/va.gov-team
 5. Veterans sometimes submit duplicate claims because Veterans aren't sure if the claim went through. This requires additional effort on the part of VSRs and the organization to identify and manage and respond, and it will delay the Veteran's claim processing.    
 
 # 4. Proposed Solution
-We aim to give Veterans more clarity in the status and outcome of their claim submission, with a means of tracking their claim status that is timely and intuitive. At the time of submission, the Veteran will get a confirmation or acknowledgement that the claim was accepted leading to increased trust and a reduced possibility that Veterans create duplicate claims. In scenarios where a system failure causes the Veteran’s claim to not be submitted, we’ll tell the Veteran in plain language what to expect and will make efforts to reduce the burden of resubmission or eliminate it altogether. Veterans will recieve on-screen messaging indicating the outcome of their claim submission and where to go for more details so that the Veteran is more confident and trusting of the VA. After a submission, the Veteran will recieve an email confirmation with details on their claim and plain language instruction on how to track it. Veterans will receive an outline or copy of the information submitted in their claim so they can keep it for their records. In general, we’ll improve the fidelity and understandability of communication so Veterans feel confident knowing the status of their claim.
+We aim to give Veterans more clarity on the status and outcome of their claim submissions, with a means of tracking their claim status that is timely and intuitive. At the time of submission, the Veteran will receive a confirmation or acknowledgement that the claim was accepted, leading to increased trust and a reduced possibility of Veterans creating duplicate claims. In scenarios where a system failure causes the Veteran's claim not to be submitted, we'll inform the Veteran in plain language about what to expect and will make efforts to reduce the burden of resubmission or eliminate it altogether. Veterans will receive on-screen messaging indicating the outcome of their claim submission and where to go for more details, so that they feel more confident and trusting of the VA. After a submission, the Veteran will receive an email confirmation with details on their claim and plain language instructions on how to track it. Veterans will also receive an outline or copy of the information submitted in their claim, which they can keep for their records. In general, we'll improve the fidelity and understandability of communication so that Veterans feel confident knowing the status of their claims.
 
 # 5. Delivery Phases
-Delivery is broken up in to five phases. Using plain, Veteran-focused language to describe delivery phases maintains focus on Veteran needs and simplifies stakeholder communications. These are prioritized using a balance of usability, feasibility, viability, and Veteran value. Each phase includes Design, Testing, Implementation, and Research. In keeping with an agile delivery approach, more information is known about earlier phases than later ones. We expect some change to occur as a result of new information, outcomes of research, testing, and pilot programs.
+Using plain, Veteran-focused language to describe the five delivery phases helps maintain focus on Veteran needs and simplifies stakeholder communications. Each phase includes Design, Testing, Implementation, and Research, which are prioritized using a balance of usability, feasibility, viability, and Veteran value. Phase one is prioritized because it addresses one of the most painful parts of the Veteran experience, where much is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team.
 
 1. Veterans lack timely and truthful information about the claim
 2. Veterans need a record of their claim and a way to track it
@@ -133,33 +133,13 @@ What we mean by key terms used to describe certain steps or statuses in the subm
 
 ##### Option 5
 
-###### key distinctions
-
-1. Adds a "submitting claim" step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
+1. Adds a submitting claim step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
 2. "date initiated" is the date the claim CESTs
-
-###### submission terms
-
-1. "preparing" to submit claim - the 30 second period when we show the loading screen while we wait for a synchronous response to attempting to CEST the claim
-1. "submitting" claim - a broad term for all the processes the system does to get all pieces of the claim, including supporting / ancillary docs and forms into their final destination in VBMS. 
-   1. shown as a distinct step in the CST
-1. "date initiated" - date the claim CESTs
-1. "claim received" - all pieces of the claim, including supporting / ancillary docs and forms have arrived in their final destination in VBMS
 
 ##### Option 6
 
-###### Key distinctions
-
-1. does not add a step and uses the flag-icon (in progress) state on step 1 of 8: "claim received"
+1. does not add a step and uses that flag-icon (in progress) state on step 1 of 8: claim received
 2. "date initiated" is the date the Veteran clicked "submit"
-
-###### submission terms
-
-1. "preparing" to submit claim - the 30 second period when we show the loading screen while we wait for a synchronous response to attempting to CEST the claim
-1. "submitting" claim - a broad term for all the processes the system does to get all pieces of the claim, including supporting / ancillary docs and forms into their final destination in VBMS
-   1. CST shows "claim received" as the in-progress (not completed) step at this point. 
-1. "date initiated" - date the Veteran clicked "submit"
-1. "claim received" - all pieces of the claim, including supporting / ancillary docs and forms have arrived in their final destination in VBMS
 
 ## Eliminating dependencies on other products
 
@@ -168,7 +148,4 @@ What we mean by key terms used to describe certain steps or statuses in the subm
 In this project plan, we deliver iteratively while eliminating dependencies on the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) and design to the current (in production) states of other products like My VA, Claim Status Tool, and the moblie app. This focuses more narrowly on the [problem statement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) of:
 
 1. Veterans lack timely and truthful information about their claim
-
-
-
 
