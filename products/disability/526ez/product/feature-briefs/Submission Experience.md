@@ -84,11 +84,14 @@ We’ll know we’re sucessfull when the following are true.
 
 
 # 8. FAQ
-#### Where can I follow along with this work?
+### Where can I follow along with this work?
 The [Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179) Epic in Zenhub is used to track this work.
 
-#### When does the submission experience “end”?
+### When does the submission experience “end”?
 When the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).
+
+### What is the detailed delivery plan?
+Each delivery phase of the Submission Experience is detailed in the [Submission Experience Delivery Plan for 526z.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Submission%20Experience%20Delivery%20Plan.md)
 
 # Appendix
 
@@ -148,4 +151,7 @@ What we mean by key terms used to describe certain steps or statuses in the subm
 In this project plan, we deliver iteratively while eliminating dependencies on the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) and design to the current (in production) states of other products like My VA, Claim Status Tool, and the moblie app. This focuses more narrowly on the [problem statement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) of:
 
 1. Veterans lack timely and truthful information about their claim
+
+
+
 
