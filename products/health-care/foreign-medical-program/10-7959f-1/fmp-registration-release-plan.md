@@ -29,39 +29,6 @@ Before enabling your feature toggle in production, you'll need to:
 
 ## Step 3: Production rollout
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
-
 ### Define the Rollback process
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
