@@ -8,7 +8,7 @@ The MVP is available on:
 
 Representative Status Widget states:
 1. Unauthenticated
-2. Authenticaated, no reprsentative
+2. Authenticated, no reprsentative
 3. Authenticated, organization appointed (VSO)
 4. Authenticated, individual appointed (attorney or claims agent)
 5. Error state 
