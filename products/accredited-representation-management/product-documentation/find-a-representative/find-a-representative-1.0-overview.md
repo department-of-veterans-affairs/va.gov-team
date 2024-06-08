@@ -2,8 +2,6 @@
 
 Developed by the Accredited Representation Management team, the Find a Representative product will allow Veterans to search for an accredited representative on VA.gov.
 
-The MVP will include desktop & mobile experiences and the pathway is `/src/applications/representative-search`
-
 ⚠️ Due to concerns around the data powering our search results being only ~50% accurate, the team has decided not to release at 1.0 and move right into [version 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/find-a-representative-2.0-overview.md).
 
 #### Find a Representative
