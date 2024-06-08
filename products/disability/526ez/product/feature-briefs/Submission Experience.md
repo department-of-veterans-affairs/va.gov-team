@@ -140,20 +140,31 @@ What we mean by key terms used to describe certain steps or statuses in the subm
 
 ###### key distinctions
 
-1. Adds a submitting claim step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
+1. Adds a "submitting claim" step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
 2. "date initiated" is the date the claim CESTs
 
 ###### submission terms
 
 1. "preparing" to submit claim - the 30 second period when we show the loading screen while we wait for a synchronous response to attempting to CEST the claim
-1. "submitting" claim - a broad term for all the processes the system does to get all pieces of the claim, including supporting / ancillary docs and forms into their final destination in VBMS
+1. "submitting" claim - a broad term for all the processes the system does to get all pieces of the claim, including supporting / ancillary docs and forms into their final destination in VBMS. 
+   1. shown as a distinct step in the CST
 1. "date initiated" - date the claim CESTs
 1. "claim received" - all pieces of the claim, including supporting / ancillary docs and forms have arrived in their final destination in VBMS
 
 ##### Option 6
 
-1. does not add a step and uses that flag-icon (in progress) state on step 1 of 8: claim received
+###### Key distinctions
+
+1. does not add a step and uses the flag-icon (in progress) state on step 1 of 8: "claim received"
 2. "date initiated" is the date the Veteran clicked "submit"
+
+###### submission terms
+
+1. "preparing" to submit claim - the 30 second period when we show the loading screen while we wait for a synchronous response to attempting to CEST the claim
+1. "submitting" claim - a broad term for all the processes the system does to get all pieces of the claim, including supporting / ancillary docs and forms into their final destination in VBMS
+   1. CST shows "claim received" as the in-progress (not completed) step at this point. 
+1. "date initiated" - date the Veteran clicked "submit"
+1. "claim received" - all pieces of the claim, including supporting / ancillary docs and forms have arrived in their final destination in VBMS
 
 ## Eliminating dependencies on other products
 
