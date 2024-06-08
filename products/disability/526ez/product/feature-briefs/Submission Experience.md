@@ -118,13 +118,31 @@ What we mean by key terms used to describe certain steps or statuses in the subm
 
 ##### Option 5
 
+###### key distinctions
+
 1. Adds a submitting claim step to the beginning of the CST / "[what happens after I file a VA disability claim?](https://www.va.gov/disability/after-you-file-claim/)" steps
 1. "date initiated" is the date the claim CESTs
 
+###### submission terms
+
+1. "preparing" to submit claim - shown on the loading screen in the 30 seconds when the site attempts to CEST the claim and awaits a synchronous response
+2. "submitting" claim - an expansive process involving everything the system needs to do to get the claim and supporting docs / forms to their final destinations in VBMS.
+1. "date initiated" is the date the claim CESTs
+2. "claim received" - the claim and supporting docs / forms have made it to their final destinations in VBMS.
+
 ##### Option 6
+
+###### key dostinctions 
 
 1. does not add a step and uses that flag-icon (in progress) state on step 1 of 8: claim received
 1. "date initiated" is the date the Veteran clicked "submit"
+
+###### submission terms
+
+1. "preparing" to submit claim - shown on the loading screen in the 30 seconds when the site attempts to CEST the claim and awaits a synchronous response
+2. "submitting" claim - an expansive process involving everything the system needs to do to get the claim and supporting docs / forms to their final destinations in VBMS.
+1. "date initiated" is the date the Veteran clicked "submit"
+2. "claim received" - the claim and supporting docs / forms have made it to their final destinations in VBMS.
 
 ## Eliminating dependencies on other products
 
