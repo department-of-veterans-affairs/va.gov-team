@@ -2,7 +2,9 @@
 
 Developed by the Accredited Representation Management team, the Find a Representative product will allow Veterans to search for an accredited representative on VA.gov.
 
-The following overview demonstrates the changes we'll be implementing for version 2.0, based on research findings and our discovery of inaccurate representative data.  This experience will continue to include desktop & mobile experiences and the pathway is `/src/applications/representative-search`
+The following overview demonstrates the changes implemented for version 2.0, based on research findings and our discovery of inaccurate representative data.  
+
+This experience is available at https://www.va.gov/get-help-from-accredited-representative/find-rep/.
 
 #### Find a Representative
 1. Search
