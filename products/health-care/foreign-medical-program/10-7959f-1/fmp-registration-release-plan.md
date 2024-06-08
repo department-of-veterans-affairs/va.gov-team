@@ -43,7 +43,7 @@ Even though your feature has been tested and ready, production is still a differ
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
+- Desired date range or test duration: 1 week
 - Desired number of users: [FILL_IN]
 - How you'll recruit the right production test users: [FILL_IN]
 - How you'll conduct the testing: [FILL_IN]
