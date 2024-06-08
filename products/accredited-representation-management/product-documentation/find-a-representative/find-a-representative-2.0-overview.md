@@ -34,13 +34,3 @@ The following overview demonstrates the changes we'll be implementing for versio
 3. Include transparency around data accuracy 🆕
    1. Disclaimer/alert up top that our listings are a work in progress
    2. Option for users to flag inaccurate data in the search results 
-    
-
-## Future Iteration
-
-1. Partner with OGC and ARF to consider additional search parameters (email, website, remote support, gender, service area, capacity, ratings, attorney specialization)
-2. Satisfaction survey to assess the user perceptions of our product experience
-3. Consider adding [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/mvp-representative-status-widget.md) to the experience
-4. Integrate with OGC APIs for direct access to accredited representative data
-5. Examine user-reports of inaccurate data and consider hiding information if it's been reported by x amount of users
-6. Consider adding organizations back in (perhaps search for an organization and see all representatives within that organization, in the search radius)
