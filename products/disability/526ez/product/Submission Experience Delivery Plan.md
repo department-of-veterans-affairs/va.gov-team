@@ -3,7 +3,7 @@
 Through recent Veteran shadowing research and discovery, we learned that many Veterans do not have a positive experience when submitting a claim for disability compensation. After a Veteran clicks “submit” on a disability benefits application on va.gov they experience errors, confusion, a lack of clarity, missing information, and cognitive load that overburdens the Veteran during a time where they are asked to recall traumatic events.
 
 ## 1. Delivery Phases
-Using plain, Veteran-focused language to describe the five delivery phases helps maintain focus on Veteran needs and simplifies stakeholder communications. Each phase includes Design, Testing, Implementation, and Research, which are prioritized using a balance of usability, feasibility, viability, and Veteran value. Phase one is prioritized because it addresses one of the most painful parts of the Veteran experience, where much is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team.
+Using plain, Veteran-focused language to describe the five delivery phases helps maintain focus on Veteran needs and simplifies stakeholder communications. Each phase includes Design, Testing, Implementation, and Research, which are prioritized using a balance of usability, feasibility, viability, and Veteran value.
 
 1. Veterans lack timely and truthful information about their claim
 2. Veterans need a record of their claim and a way to track it
@@ -30,9 +30,9 @@ Using plain, Veteran-focused language to describe the five delivery phases helps
 | When Veterans resubmit the failed component of their claim they don’t know if the VA has all their claim material |                 |
 
 ## 4. Phase One: Veterans lack timely & truthful information about their claim
-Once a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans.
+Once a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans. Veterans told us that they want a record that shows they completed and submitted an application– in part because they do not trust VA. However, only Veterans with successful claim submissions receive brief claim summaries and Claim IDs they can use to follow up on their claim. The Veterans most in need of help due to failure do not receive a “receipt” or usable reference number they can use to call VBA or the Contact Center.
 
-Veterans told us that they want a record that shows they completed and submitted an application– in part because they do not trust VA. However, only Veterans with successful claim submissions receive brief claim summaries and Claim IDs they can use to follow up on their claim. The Veterans most in need of help due to failure do not receive a “receipt” or usable reference number they can use to call VBA or the Contact Center.
+This phase is prioritized first because it addresses one of the most painful parts of the Veteran experience, where much is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team. 
 
 ## 4.1 Goals
 1. Ensure the current status of a claim is always available to Veterans
