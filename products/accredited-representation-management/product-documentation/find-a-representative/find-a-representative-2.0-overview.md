@@ -8,9 +8,9 @@ This experience is available at https://www.va.gov/get-help-from-accredited-repr
 
 #### Find a Representative
 1. Search
-    1. Rep definitions
+    1. Representative definitions
     2. Required fields
-        1. Rep Type
+        1. Representative Type
             1. ~Veteran Service Organization~
             2. VSO Representative 🆕
             3. Attorney
@@ -19,20 +19,21 @@ This experience is available at https://www.va.gov/get-help-from-accredited-repr
             1. Single consolidated field that accepts address 1, city, state, zip code
             2. `Use my location` feature to populate this location field
    3. Optional fields
-      1. Name of accredited representative (accepts individual representative first/last names and organization names)
+      1. Search area 
+         1. Default to 50 miles
+         2. Drop down for user to slect additional options (50, 100, 150, 200, 250, 300, 350, 400, 450 miles + show all) 🆕
+      2. Name of representative
 2. Display search results
-   1. List display
+   1. Filter results by
+      1. Distance (Closest to farthest)
+      2. Name (First/last name A to Z and Z to A)
+   2. Search result details
       1. Distance in miles
       2. Name
-      3. Address
-      4. Phone number
-      5. Email 🆕
-   3. Filter results by
-      1. Distance (Closest to farthest)
-      2. Representative Name / Organization Name (First/last name A to Z and Z to A)
-   4. Search Radius 
-      1. Default to 50 miles
-      2. Drop down for user to slect additional options (50, 100, 150, 200, 250, 300, 350, 400, 450 miles + show all) 🆕
+      3. Associated organizations (VSO Representatives only) 🆕
+      4. Address
+      5. Phone number
+      6. Email 🆕
 3. Include transparency around data accuracy 🆕
-   1. Disclaimer/alert up top that our listings are a work in progress
-   2. Option for users to flag inaccurate data in the search results 
+   1. Alert above search results
+   2. Report Outdated Information feature
