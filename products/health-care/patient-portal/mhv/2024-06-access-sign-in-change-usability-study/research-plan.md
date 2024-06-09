@@ -54,8 +54,11 @@ Data collection will be remote. We will use Zoom.
 
 ### **Research materials**
 
-- \[Link to conversation guide\](url goes here)
-- \[Link to prototype\](url goes here)
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/mhv/2024-06-access-sign-in-change-usability-study/conversation-guide.md)
+  
+[Link to desktop prototype](https://xd.adobe.com/view/ad9d2a77-35b3-4431-a4a7-9f7193a19237-f8ce/?fullscreen&hints=off)
+
+[Link to mobile prototype](https://xd.adobe.com/view/bd995580-93ca-408f-a0ae-485f37f44b63-e8ca/?fullscreen&hints=off)
 
 ## **Recruitment**
 
