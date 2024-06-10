@@ -99,6 +99,16 @@ We're going to experiment with t-shirt size estimates. Effectively this is just 
 - 5 = large
 - 7 = x-large
 
+## UX Team
+
+### Weekly Planning
+
+- Weekly on Mondays
+- Review high priority tickets
+- Round-robin review and update team member tickets
+- Review any parking lot items
+
+[How to create and update UX tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-create-vaos-tickets.md#appointments-ux-team-board)
 
 ## Communication
 
