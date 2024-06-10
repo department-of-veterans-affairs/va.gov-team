@@ -2,13 +2,17 @@
 
 ## Background   
 - What problem is your product trying to solve?   
-As Veterans create accounts and login to VA.gov, we want to provide a more welcoming experience that establishes VA as a source of support and assistance as Veterans navigate applying for their first benefits. Previous research focused on transitioning service members indicates that “people new to VA are generally having a positive experience,” but that “service members would find it helpful to receive structured and specific resources about VA and benefit eligibility” ([TSM Engagement with VA: Findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md); [TSM: Research Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md)). While personalized eligibility is difficult to assess immediately upon onboarding due to the necessity for data we may not have yet, we can simplify existing information and direct Veterans toward VA’s most-used benefits while welcoming them to VA.
+As Veterans create accounts and login to VA.gov, we want to provide a more welcoming experience that establishes VA as a source of support and assistance as Veterans navigate the site and authenticated experience for the first time. Previous research focused on transitioning service members indicates that “people new to VA are generally having a positive experience,” but that “service members would find it helpful to receive structured and specific resources about VA and benefit eligibility” ([TSM Engagement with VA: Findings Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/2024-03-onboarding-generative-research/findings-summary.md); [TSM: Research Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md)). While personalized eligibility is difficult to assess immediately upon onboarding due to requirements for personal data we may not have yet, we can simplify existing information and direct Veterans toward VA’s actionable first steps while welcoming them to VA.
+While working with the Authenticated Experience Team, we also discovered an opportunity to partner on initiatives and direct new users to a review and verify their contact information, once they have verified their idenity. By welcoming users and then encouraging them to complete their profile, we can prevent inaccuracies with their contact information at a later time.
+
+	Additional documentation   
+	[Research notes for Authenticated Experience, Profile Completion, Summer 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/profile-completion/discovery-research/research-plan.md)   
 
 - Where is your product situated on VA.gov? (ex: auth vs. unauth)   
-Because there are separate initiatives focused on the transitioning service member experience prior to authentication, we are focused on a product that exists within the authenticated experience, once a Veteran has created a new account, logged in, and verified their identity (so that we can establish their status as a Veteran).
+Because there are separate initiatives focused on the transitioning service member experience prior to authentication, we are focused on a product that exists within the authenticated experience, once a Veteran has created a new account and logged in.
 
 - What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?   
-This is a new product; our MVP version is a page focused on providing Veterans with 1) a brief welcome message 2) 3-6 actions they can begin their journey with (not personalized; based upon site analytics for popular actions) and 3) directions toward assistance, should they need it.
+This is a new product; our MVP version is a message on My VA focused on providing Veterans with 1) a brief welcome message 2) 2 actions they can use to begin learning about VA.gov. For users who are not verified, we have a message with actions that can be taken prior to identity verification, such as finding a representative or reviewing the new Getting Started at VA (this page is soon to launch by the VES Transition Team). When users have verified, we can address them by name in a welcome message and direct them to actions that are available once they have completed LOA 3, such as reviewing their contact information and accessing their Veteran status card.
 
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/product-outline.md)
@@ -24,36 +28,33 @@ Starting up: Attending to health needs (moment that matters)
 ## Research Goals	
 **What are you trying to learn from this research?**   
 
-Our primary goal for this research is to test our proposed onboarding landing page to determine if Veterans feel welcomed, supported, and guided by succinct, actionable resources to get to their first benefit application. Our secondary goal is to identify any further opportunities to support Veterans when they first create an account, verify their identity, and begin their journey with VA.
+Our primary goal for this research is to test our proposed welcome message and action to determine if Veterans feel welcomed, supported, and guided by succinct, actionable steps. Our secondary goal is to review the profile completion flow to better understand what Veterans think about providing contact information to VA, and identify any further opportunities to support Veterans when they first create an account, verify their identity, and begin their journey with VA.
 
 
 ### Outcome
 **How will this research advance your product to the next phase in the design process? What will you do with your learnings?**   
 
-This research will help us determine if an onboarding landing page (and specifically which parts of our onboarding page, such as messaging and resources) will assist Veterans as they begin their exploration into VA benefits. We’re testing an MVP and proof of concept that will provide direction for further onboarding initiatives. 
+This research will help us determine if an onboarding message and guidance will assist Veterans when they first log in to VA.gov. We want to understand how Veterans view and manage their contact information during their onboarding epxerience. We’re testing an MVP and proof of concept that will provide direction for further onboarding initiatives. 
 
 ### Research questions
 1. What do Veterans expect the first time they create an account on VA.gov?    
 2. What kind of onboarding experience will help Veterans feel welcome and supported as they explore their benefits?   
 3. What changes, if any, can we make to improve the onboarding experience to help Veterans determine their first actions on VA.gov?   
-4. What are the challenges Veterans face when first engaging with VA.gov and setting up their account?   
-
+4. What are the challenges Veterans face when first engaging with VA.gov and setting up their account?
+5. How do Veterans engage with their profile and information upon first logging in to their account?   
 
 ### Hypothesis
 Based on the previous research, we hypothesize that we’ll confirm that:
-1. **Veterans want specific and personalized eligibility recommendations** (which is likely out of scope until the creation of a tool like BDS).
+1. **Veterans want specific and personalized eligibility recommendations** (which is likely out of scope until the creation of a tool like BDS. In the meantime, we are communicating and sharing updates with the VES Transition Team and will look for opportunities to integrate new tools during onboarding).
 2. **However, we hypothesize that the onboarding experience can be improved by a more human-centered approach, such as:**
 
     **a. Messaging that welcomes Veterans and reaffirms that they are entitled to their benefits** ([TSM: Research Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md), which references additional supporting studies, as well, indicates that Veterans “feel hesitation or shame about using VA benefits because people feel they are undeserving or taking away from others”) and **establishes VA as a trusted support system early on in a Veteran’s journey** ([TSM: Research Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md) notes that “It is a major adjustment for service members to acclimate to civilian life; a significant factor in this is the lack of structure and direction, and the departure from their military community and support system.”)
    
-    **b. Focused actions around popular benefits.** Veterans reported that the “complexity of VA discourages people from applying for benefits, especially for people with cognitive considerations” (TSM: Research Review). While we cannot simplify eligibility requirements and application process within the scope of this project, we can reduce the cognitive load of account creation and identity verification with a condensed benefit recommendation list, helpful resources, and guidance.
-
-
+    **b. Focused actions that will improve their overall experience.** Veterans reported that the “complexity of VA discourages people from applying for benefits, especially for people with cognitive considerations” (TSM: Research Review). While we cannot simplify eligibility requirements and application process within the scope of this project, we can reduce the cognitive load of account creation by providing quick actions, like reviewing contact information, that will support the Veterans' overall experience when they do begin to apply for benefits.
 
 
 ## Methodology	
-We will do remote testing on a Figma prototype to test the concept of our proposed page. This initial study may be only focused on a Figma prototype to test the idea of a welcome page, but the intention is to do a second round of testing in code to ensure our product is accessible.
-
+We will do remote testing on a Figma prototype to test the concept of our proposed page and the profile completion flow. This initial study may be only focused on a Figma prototype to test the onboarding and contact information flow concepts.
 
 ### Location
 We will do remote testing using Zoom.   
@@ -183,5 +184,8 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
 - Note-takers:	Team signup Sheet (Link TBD)
-- Observers:	Signup Sheet (Link TBD)
+- Observers:	Sign-up via Slack Canvasa (Link TBD)
 
+------
+Update Log:   
+* Liza McRuer, 6/10/2024, adjusted goals and added in secondary research of testing a profile completion flow
