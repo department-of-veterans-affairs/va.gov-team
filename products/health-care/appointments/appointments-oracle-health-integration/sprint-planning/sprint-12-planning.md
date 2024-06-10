@@ -34,7 +34,7 @@ In Sprint 11, the team provided support for multiple features and initiatives, o
   * *🐞🧗‍♀️[#83754 Broken VAOS test breaking build](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83754) - related to cancellations
 * #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities: 
   * CHECK THESE
-  * [#83585 Update VetsAPI appointment_controller logging to reference VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83585)
+  
    * [#81432 CES-318 CES: Migrate to mobile framework V2](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81432) 
 
 
@@ -42,11 +42,19 @@ In Sprint 11, the team provided support for multiple features and initiatives, o
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
    * [#82548 CES-457 CES: Use mobile-mvi-service cache-control headers to retrieve cached patient identifiers](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/82548)
+   * [#81339 CES-427: VPG: Migrate to Mobile Framework V2](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/81339)
+   * 🐞🧗‍♀️[#85130 CS-569 VPG: error handling requests without statuses input value](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/85130)
+   * 🚧[#83585 Update VetsAPI appointment_controller logging to reference VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83585)
+   * [#54357 CES-565: Identify and add supporting user data for VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84357)
+   * [#84516 CES-564 VPG: replace VAOS proxy calls with dedicated client](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84516)
 *  🟦 Support Oracle Health slot search
-   *   
+   * [#84622 CES-398 CES: Support reading cerner slots](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84622)
 * 🔴 Appointment Cancellation
-   *
+   * [#84519 CES-528: VPG: execute cerner and VAOS operations in parallel](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84519)
+   * [#84520 CES-525 VPG: replace calls to deprecated CFA serviceType field](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84520)
+   * [#84592 VetsAPI: add user scope to Appointment read feature flag eval](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84592) 
 * 🟣 Testing/Admin/Operational Support
-  * 
+  * [#84612 VetsAPI: Requesting Judy Morrison's appointments in staging returns 500](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84612)
+  * [#84517 CES-546 VPG: address constraints on SRVDD](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84517)
 ## ✈️ Planned Releases
 None
