@@ -50,6 +50,7 @@
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
         - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
+        - 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
         - 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
         - 🟩 [SPIKE: Can we use the new DS simplified footer component? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)
         - 🟩 [SPIKE: Can we use the new Design System's minimal header component? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69082)
