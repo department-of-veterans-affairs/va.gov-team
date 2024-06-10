@@ -36,7 +36,6 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-    - **Sub Goal: [Feature] Create KPIs**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
     - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
