@@ -1,3 +1,56 @@
+## Meeting Notes for CRM Sync on 06/04/2024
+
+AVA/VA Profile, Inquiry was authenticated flag, Current queue name in inquiry details
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+1. Add `level_of_authentication` to status endpoint?
+   * Becky/Khoa: In dash, neeeded every time
+   * In search for inquiry, link to login is shown IF they were authenticated when the inquiry was submitted
+   * Would be handy to know if the submitter was logged in at the time the inquiry was submitted
+1. Include `current_queue_name` with retrieve inquiry details?
+   * Kyle: Should be doable
+   * Joe: We'll use it to validate the routing in automation
+1. Mock data for test user?
+   * Chris/Kyle: Just enter it in the portal, reach out if you have any roadblocks
+1. Staging data and APIs in Pre-Prod?
+   * Kyle/Chris: NNoo timeline or Pre-Prod, point (VA.gov) STAGING to (CRM) DEV for now.
+1. Following up on Slack threads on Profile (VA vs AVA)?
+   * Chris/Becky: How are we using AVA Profile and VA Profile?
+   * Changes to SSN/SN/DOB/Name, ... form will direct you to call a number to correct
+   * Phase1, we do NOT redirect to VA Profile edit screen
+   * Contat Information is a prime example of what can be edited - email/phone/...,
+     * We won't update VA Profile
+     * We will note in the payload that the fields have been edited
+     * Business vs. Personal contacts are separate pages
+     * Businss from AVA, Personal from VA
+     * BECKY: follow up with design team, language for temp/inquiry-only edits, how businss fields are presented
+
+### Action Items:
+
+- [ ] BECKY/Design: Review how temp/inquiry-only edits and business fields are presented
+- [ ] AMANDA/BECKY/NATALIE: Clear up confusion on roles and responsibilities. Shooting for the 11Jun2024. Deliverable is a GitHub doc, assuming there’s not something already.
+- [ ] VA.gov: Review inquiry details print with CRM by 10Jun2024 for sprint planning
+- [x] ...
+- [ ] HOLLY/BECKY: Return to CRM with our schedule. ETA? 4June2024?
+- [ ] VA.gov DEVS: time needed for testing/remediation
+- [ ] KYLE: Topic combo sheet for VA.gov, shared format so we can run thru the same checklist (the 120+ flows)
+- [ ] VA.gov: Relay our post-launch plan to CRM (Joe+Devs+Becky+Natalie?)
+- [ ] BECKY: Follow up with Chante, RE: Medallia team to see when they will start creating surveys again. vsignals team has a large backlog, Becky is still following up.  (Becky followed up 4/9, awaiting Chante)
+  * Becky reported the following update in our 4/30 sync:
+    * By end of May, should have a concrete timeline of creating the survey for AVA.
+    * By end of quarter (June) at the latest, survey should be live.
+    * Becky will keep her finger on the pulse and alert us to updates to this timeline.
+- [ ] JOE/SHELBY/et.al.: User testing story, lower environments, E2E test plan, start as soon as retrieve inquiries and submit inquiry endpoints are integrated by AVA VA.gov frontend. (Moving parts / when each is available, drives the discussion – ideally once the UX is ready for some E2E testing round trips.)
+
+
+
+
 ## Meeting Notes for CRM Sync on 05/28/2024
 
 Allow Replies; Print Inquiry Details; E2E Roles Definition
