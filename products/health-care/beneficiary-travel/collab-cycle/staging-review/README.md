@@ -22,4 +22,4 @@
 - [Code Coverage Reports (`Ctrl-f travel-pay`)](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
 ## Accessibility artifacts
-- [Accessiblity Testing Issue (NEED)]()
+- [Accessiblity Testing Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85077)
