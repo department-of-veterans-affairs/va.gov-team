@@ -10,9 +10,10 @@ How might we ensure that content build times do not exceed 60 minutes when more 
 * Problem Defined:
   * How might we enable editors the ability to publish all VA events in order to make them available to Veterans in Outreach & Events?
   * How do we quickly get more editors to publish events without negatively affecting the FE build time? Content build times shouldn't exceed 60 minutes.
+  * How do we provide better ability for Veterans to filter events, as well as 'find events near me'?
 
-* Evidence to support the Problem: 
-
+* Evidence to support the Problem:
+  * TBD
 
 
 * How does this initiative help further OCTO-DE's mission and goals?
