@@ -140,26 +140,7 @@ NOTE: something to keep in mind; the 'audit funnel' and the state machine are tw
 
 NOTE: I anticipate there will be pushback on simplifying the state machine from Emily. She made a good case for using it to save details about how / when a submission was remediated during the audit. However, our goal here is to build something simple, sustainable, and robust. In it's current form, the state machine is none of those. My response here would be / is that we should simply the state machine and keep records about how / when / why submissions were remediated in either logs or documentation. That data is not part of code execution, and therefore should not live in the codebase. When it's in the codebase, it's more likely to get obfuscated or overwritten. It's also more likely to break the logical flow of operating code. 
 
-### Option 1: Codify the 'audit funnel' as a reusable tool
-
-In this option, we take the scripts that I've already written, wrap them up in one big service object, and put it on a worker. Then, we have the option to run it as an adhoc job, or as a scheduled job for reporting.
-
-#### Pros
-- the code is already mostly written
-
-#### Cons
-- this has the most moving parts, and is therefor the most brittle
-- this would be very slow running, and therefor never useable in realtime user facing interactions, if we ever wanted to do that.
-- this is probably the most brittle, since there are no definitive state markers to check
-- Despite most of the code already being written, this option still will probably require the most actual coding. We will need to wrap up the scripts into a single object and give it a full compliment of tests
-- This option *still* uses the aasm state machine to eliminate remediated tags, which is *still* brittle in this option.
-
-#### Time Estimate: 2 - 4 sprints
-
-#### Recomendation: too slow and brittle
-The state machine is vastly more simple and robust. The funnel was orginaly designed to facilitate tagging of submission state, but ended up being the primary vehicle for the audit because of the rapidly evolving requirements. While we may use it in setting tags, ultimately this is an overly complex, brittle, slow solution.
-
-### Option 2: Repair and simplify the 526 aasm_state machine
+### Best Option: Repair and simplify the 526 aasm_state machine
 
 In this option we need to ensure that our Lighthouse Benefits Intake polling job *never* misses a submission.  Remember that This is currently a chron job that seems to be having some trouble. Theoretically, we should be able to rely on the job to poll any submission that isn't successful, making this relatively simple and robust.
 
@@ -170,11 +151,32 @@ We will also want to simplify the state machine. It should be removed from the h
 - was rejected by backup path <- based on polling
 - was remediated
 
-Anything other than these 
+[See the Technical Design Document for this work here]()
 
-[WIP]
 
-### Option 3: Get synchonus responses for backup submission
+
+## Other Options considered
+
+### Codify the 'audit funnel' as a reusable tool
+
+In this option, we take the scripts that I've already written, wrap them up in one big service object, and put it on a worker. Then, we have the option to run it as an adhoc job, or as a scheduled job for reporting.
+
+#### Pros
+- it uses existing scripts
+
+#### Cons
+- this has the most moving parts, and is therefor the most brittle
+- this would be very slow running, and therefor never useable in realtime user facing interactions, if we ever wanted to do that.
+- this is probably the most brittle, since there are no definitive state markers to check
+- Despite most of the code already being written, this option still will probably require the most actual coding. We will need to wrap up the scripts into a single object and give it a full compliment of tests
+- This option *still* uses the aasm state machine to eliminate remediated tags, which is *still* brittle in this option.
+
+#### Time Estimate: 2 - 4 sprints
+
+#### Evaluation: too slow and brittle
+The state machine is vastly more simple and robust. The funnel was orginaly designed to facilitate tagging of submission state, but ended up being the primary vehicle for the audit because of the rapidly evolving requirements. While we may use it in setting tags, ultimately this is an overly complex, brittle, slow solution.
+
+### Alternative 2: Get synchonus responses for backup submission
 
 NOTE: would this come from Benefits Intake or Central Mail?
 
@@ -184,4 +186,5 @@ TODO:
 - figure out what team to ask about this
 - ask them how big a lift it would be
 
-[WIP]
+#### Evaluation: not possible
+The architecture of the Benefits Intake API can take days to transition submissions to an approval state. That makes this impossible without asking them and possibly their dependent teams to gut their architecture.
