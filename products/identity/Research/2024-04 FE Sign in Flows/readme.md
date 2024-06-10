@@ -1,6 +1,6 @@
 # About this Research
 
-- Product Brief (not currently available)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sign-in-ctas/README.md)
 
 ## Planned Timeline
 
@@ -11,7 +11,9 @@
 | Summarize | May 2024 |
 
 ## Background
-We are conducting secondaray research in order to familiarize ourselves and orient to this product that our team is taking ownership in. Some of the items we are reviewing include:
+We are conducting secondaray research in order to familiarize ourselves and orient to this product that our team is taking ownership in. As part of this we are also revisiting all parts of the authentication process, to update our  comprehensive, understanding of where we can enhance the sign in (authentication) experience
+
+Some of the items we are reviewing include:
 - OCTO IA inventory
    - [IA Inventrory artifact - Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707497060514/1b011002bf25fbfe1f1c832c0566296ed86c0bb9?sender=u2aba00c97ab77c6ec1573123)
    - [IA Inventory artifact - Google Sheet](https://docs.google.com/spreadsheets/d/1p0LV9q0hv8RCE-6r6PuiA454RE8PqC-K1QIt8QNsduQ/edit?usp=sharing)
@@ -24,4 +26,4 @@ We are conducting secondaray research in order to familiarize ourselves and orie
 
 ## Research Goals:
 - become familiar with the product
-- document any related findings, especailly themes found across sources and studies
+- document any related findings to the wider sign in process
