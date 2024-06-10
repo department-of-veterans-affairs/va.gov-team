@@ -22,23 +22,44 @@ How might we ensure that content build times do not exceed 60 minutes when more 
   
 For this initiative, we will implement in multiple phases, with MVP being the first, and then a fast-follow of a combo of backend and Veteran- & Editor-facing design work.
 
-#### MVP:
+#### In Scope
+
 - Engineering/Backend: The first iteration will focus on backend functionality:
   - Rebuild events from static HTML into a dynamic React app driven by an API, thus allowing more events to be published without negatively affecting content publish time.
   - Ability to capture/store lat/long of event location.
-    
-#### Fast-follow:
-(in order of priority)
+  - Ability to write unit tests to cover at least 80% of the code (collaboration cycle requirement)
 - Design Drupal CMS editorial flows and run usability testing with editors
   - Consider:
     - if an event has more than one location, including one being physical and one being virtual
     - if an event spans across multiple days
     - if an event is a month-long event
+    - if an event has multiple locations (more than one VAMC, or includes Vet Centers, VBA Facilities, etc.)
+- Explore feasibility of automating event data files for every event list (something similar to KISS, but automated for every event list (event_listing) node.
+- Breadcrumb updates based on testing (9439)
+- Update display of events so that only future events display to Veterans et al
+- Add disclaimer on all O&E pages that events featured do not constitute an endorsement from the VA.
+- Determine (with CAIA's aid) which metatdata should display when an event is shared by a Veteran on social media.
+- Adjust styles, moving content away from edges, on lower page widths
+- Research to support design system request to make year into dropdown year list instead of text field
+  - Engineering implementation of the above, along with defaulting to current year
 - Provide Veterans the ability to find/search for events near them (one of the long-time top-requested features).
 - Provide Editors the ability to validate lat/long are correct for locations.
-- What do events look like for each of the products?
+- What do events look like for each of the products, and how might we individualize UX/display for the products?
+- Discovery of Veteran experience for the event page on VAMC at facility level
+  - What is the best experience for Veterans related to the display of facility events? e.g. Current events are displayed at the healthcare system level
 
 #### Out of Scope
+- Allow editors to add multiple images to events
+  - We can understand multiple images for stories, but not for events, especially at the risk of negatively affecting Veterans with low internet bandwidth, causing slow display of events if multiple (or any) images are attached.
+- Integrate events into the enterprise tool currently in discovery
+  - This will be a separate decision, and then possibly separate effort, from the Events rebuild
+- Addition of Outreach video help information to reflect how to uplaod a video (this isn't Events; it's Outreach)
+- Ability to create an event that occurs on multiple days and times for a single event
+- Calendar view of events (similar to what's on Teamsites)
+- Ability for an editor to create more than one repeating pattern for an event
+- Content managers' ability to reivew address and geodata for events
+- Outreach Hub Representative's ability to view how many events were posted to the Outreach Hub with a set date range
+- 
 
 #### Questions:
 - Is there already a MapBox plugin available?
@@ -46,8 +67,7 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 
 ### EPICS: 
 - [[SUPER EPIC] Events v3](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17871)
-- [[EPIC] [Events v3] Create an Events API & Data Model](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911)
-- [IIR's work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/outreach-events/initiatives/2024-events-v3/2024-IIR-Handoff.md) included FE designs
+- 
 - 
 ### Artifacts
 - List of already existing [Events tickets in Sharepoint/Excel](https://dvagov.sharepoint.com/:x:/r/sites/SitewidePublicWebsites/_layouts/15/Doc.aspx?sourcedoc=%7B1d81bc4d-d972-4e1b-aa55-1523d419e9fd%7D&action=edit&wdenableroaming=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1717177303908&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=4fbb0378-03c7-ac19-5f26-30f8c7b84877&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel)
