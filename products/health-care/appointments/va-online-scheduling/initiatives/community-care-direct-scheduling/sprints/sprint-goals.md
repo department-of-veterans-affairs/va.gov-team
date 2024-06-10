@@ -42,7 +42,8 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
+    - **Sub Goal: [Feature] Integrate mocks with FE pages**
+    - **Sub Goal: [Feature] Pull in patient preferences for user**
 
 
 
@@ -71,7 +72,10 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
          - Check in with Kay ([Slack thread](https://dsva.slack.com/archives/C06SQ48B205/p1715634052731809?thread_ts=1713973982.697579&cid=C06SQ48B205)) about access to referrals via CDW      
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
-         - TBD       
+         - TBD
+    - **Sub Goal: [Feature] Pull in patient preferences for user**
+         - 🟦 [[BE] [SPIKE] 4 hours - Discuss or find out how to access to patient preferences (preferred provider)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84026) 
+
 
 </details>
 
