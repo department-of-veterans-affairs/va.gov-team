@@ -6,7 +6,7 @@
 - Next meeting facilitator: Syd
 - Agenda topics
     - OHI Primary vs Secondary insurance
-        - Lois: Stick with simple content. Consider more os a statement rather than asking a question: "Provide or update any medical health insurance coverage." Comments box makes sense after the file uploads. Ok with the new placement of the insurance type. 
+        - Lois: Stick with simple content. Consider more is a statement rather than asking a question: "Provide or update any medical health insurance coverage." Comments box makes sense after the file uploads. Ok with the new placement of the insurance type. 
     - OHI additional info questions to stakeholders
           - Lois: Don't think we need to ask the first question: "Would it help you to know more details..." We want to instead find out when are they calling people back or what makes this process stop.
 
@@ -16,7 +16,7 @@
         - Jamie to add Lois and Premal in the calls
         - We don't have a limit to how many people we have on the call but plan to come within the first five minutes of the meeting do limit distractions. Can drop when they need to.
     - Addtional Questions or Topics
-        - Lois need to cancel the Research meeting this week.
+        - Lois isn't available for the Research meeting on Thursday. We will cancel it because working time would be helpful.
         - Premal working with the team configuring VES (on 1010d) for the next iteration of this system.
             -  The team wants to know why we allow for a fill-in on the relationship to the sponsor questions. That team is concerned because they only have specific selections that they can add in that field in VES. From Design: We need to allow for other relatives (caregivers) to complete the form for the beneficary from a UX/Research perspective.
             - Premal suggests Product to start attending these calls with the VES team and subbing in for him when he is not available. There's a need for support from research to reinform why we are doing what.
@@ -27,7 +27,7 @@
 ### Decisions and action items
 - Jamie to update the OHI Health Insurance screens based on the Lois' recomendations and pass these next changes to engineering. Use the simpler text on the first health insurance screen and workshop another way to ask that question. Keep the commetns box at the end of the uploads and the health insurance types at as the 2nd question in the health insurance flow.
 - Jamie to update the OHI stakeholder questions. 
-- Jamie add Premal and Lois to the Stakeholder calls. 
+- Jamie will add Premal and Lois to the upcoming Stakeholder calls. 
 
 ## June 3, 2024
 ### Notes
