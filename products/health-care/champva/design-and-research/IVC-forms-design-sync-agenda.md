@@ -6,8 +6,24 @@
 - Next meeting facilitator:
 - Agenda topics
     - OHI Primary vs Secondary insurance
+        - Lois: Stick with simple content. Consider more os a statement rather than asking a question: "Provide or update any medical health insurance coverage." Comments box makes sense after the file uploads. Ok with the new placement of the insurance type. 
     - OHI additional info questions to stakeholders
-    - Stakeholder interviews for CHAMPVA claims 
+          - Lois: Don't think we need to ask the first question: "Would it help you to know more details..." We want to instead find out when are they calling people back or what makes this process stop.
+
+    - Stakeholder interviews for CHAMPVA claims
+        - Provided updates on scheduling the stakeholder interviews. 3 out of 4 scheduled.
+        - Premal: If we are having problems with scheduling let him know. Premal may have more people we can ask.
+        - Jamie to add Lois and Premal in the calls
+        - We don't have a limit to how many people we have on the call but plan to come within the first five minutes of the meeting do limit distractions. Can drop when they need to.
+    - Addtional Questions or Topics
+        - Lois need to cancel the Research meeting this week.
+        - Premal working with the team configuring VES (on 1010d) for the next iteration of this system.
+            -  The team wants to know why we allow for a fill-in on the relationship to the sponsor questions. That team is concerned because they only have specific selections that they can add in that field in VES. From Design: We need to allow for other relatives (caregivers) to complete the form for the beneficary from a UX/Research perspective.
+            - Premal suggests Product to start attending these calls with the VES team and subbing in for him when he is not available. There's a need for support from research to reinform why we are doing what.
+            - Premal will share minutes and transcipts from these meetings with research
+            - VES team is proposing to validate the sponsor in some way. Premal will provide some research on why we are choosing not to validate.
+            - Premal will continue to keep us updated on any other questions or info that are shared on this intitative. 
+
 - 
 ## June 3, 2024
 ### Notes
