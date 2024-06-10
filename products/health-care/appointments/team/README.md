@@ -1,4 +1,4 @@
-# Appointments UAE UX Team
+# UAE UX Team
 
 ## Team members
 
