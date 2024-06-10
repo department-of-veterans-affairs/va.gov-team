@@ -103,38 +103,9 @@ If we break it down the work required for each event:
   recorded in the database. There are a few ways to handle this, more on that later.
 
 ## Next Steps
-These are some options. we may not need to do all of them, and there may be better solutions revealed upon closer inspection
-
-### The best option IMHO
-Ask Lighthouse Benefits Intake to give us a synchronous response when we submit to them via the backup path. This would eliminate our need for brittle polling, and with it the vast majority of our complexity. IMHO this is the best option, as it would also mirror what happens on the happy path. If we were able to get this, we could use the existing paradigm of `backup_submitted_claim_id` presence to indicate success on the backup path, leaving only remediation to be considered.
-
-
-### The complex, brittle option
-- IF the above cannot happen, we need to do a few things to expand our existing State Machine (OR come up with a different solution altogether, as long as it satisfies our mission statement).
-  - then we should close the backup path / Lighthouse Benefits Intake polling loop. This is debugging of current code.
-  - Simplify the 526 State Machine. Right now there are many verbose tags, we should probably whittle it down to the key data-points
-  - Sync with team 1 on 'wholistic state'. How would they like to see backup state jive with what they have?  Remember, happy path is handled, and that's primarily what they are doing.
- 
---------------------------------
-
-
-
-## WIP
-
-Feedback to incorporate:
-
-I kind of would like to know if there are any dependencies or risks that would keep us from starting this work or even finishing it? It sounds like Lighthouse is one of them, but I need that to be more specific. What exactly do we need and why (the benefits).
-
-You also mentioned two options. I would like more details (technical approach) on these. Tell me more about what the (currently two, but as you mentioned there might be more) options are by adding the pros and cons of each option and then (eventually after you have reviewed them ) the team’s recommendation for which option we should go with. Think about scalability, dependencies, unknowns, risks, etc. Anything that might help you identify just how much work this will involve. You will eventually have to “map” this out for a high level estimate.
-
-Our goal for this sprint will be to show this planned Epic to Emily and Sam. How we have outlined the need (problem statement) and the benefits of doing the Epic (why), and most importantly what it would take to get it done (high level requirements). We should all work on this together with you. You know it best, so your input is needed the most.
-
-What you want to use for your discovery tool is up to you. We can create a mural board for visioning and mapping if that is easier. Google Document if that is faster, or even if you want to keep working in Github. If you need to create a diagram or chart I leave that up to you on the tool (does VA use Lucid chart?). (FYI Product people love diagrams by the way.) Once we feel comfortable with the scope of work we’ll create an Epic and the features, and tasks to go with them. It’s easier to do that when you feel more confident you have enough information to start so you don’t have to do it over again.
-
-### The problem, redux
-We do not have a simple, codified mechanism for finding damaged submissions in our database.
-
-In any of these options, we need to simplify the aasm_state machine. This is very easy (a few days). We just want to get it down to bare bones. Each option outlines exactly what the state should be doing, and how much work it is to get there.
+After considering and disucssing several options, I've laid out below the 3 main paths we considered, starting with the one we belive to be the only good option of these 3. Note that this work will unblock 2 priorities
+1. closing the code yellow remediation
+2. adding monitoring around 526 failures
 
 NOTE: something to keep in mind; the 'audit funnel' and the state machine are two different ways of solving the same problem, that is to have an automated mechanism for taking a set of submissions and identifying the ones that are not in an exlicitly good state. The state machine solves this problem by saving tags on the submission, which can later be queried. The audit funnel solves it by running a set of filters on the submissions. 
 
