@@ -1,8 +1,8 @@
 # How to close, once and for all, the 526 submission failure black hole
 
 ## TL;DR
-1. we need to know, with certainty, at anytime what submissions in our system require remediation. < (first step)
-2. we need to have a plan for surfacing these. < (blocked by #1)
+1. we need to know, with certainty, at anytime what submissions in our system require remediation. (first step)
+2. we need to have a plan for surfacing these. (blocked by #1)
 3. we need a playbook for fixing them so anyone with the proper access is able to. (blocked by #1)
 
 This document focuses on how we can address #1. This work will unblock #2, which will in turn give us something upon which to focus the efforts of #3.
