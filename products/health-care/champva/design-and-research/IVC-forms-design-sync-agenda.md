@@ -5,7 +5,9 @@
 - Facilitator: Jamie
 - Next meeting facilitator:
 - Agenda topics
-    - OHI Primary vs Secondary insurance 
+    - OHI Primary vs Secondary insurance
+    - OHI additional info questions to stakeholders
+    - Stakeholder interviews for CHAMPVA claims 
 - 
 ## June 3, 2024
 ### Notes
