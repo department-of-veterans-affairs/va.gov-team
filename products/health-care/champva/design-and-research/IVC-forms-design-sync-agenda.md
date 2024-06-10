@@ -3,7 +3,7 @@
 ### Notes
 - Attendees: Lois Lewis, Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Brian Wilke, Devi Hill, Mary Wang, Bo Altes
 - Facilitator: Jamie
-- Next meeting facilitator:
+- Next meeting facilitator: Syd
 - Agenda topics
     - OHI Primary vs Secondary insurance
         - Lois: Stick with simple content. Consider more os a statement rather than asking a question: "Provide or update any medical health insurance coverage." Comments box makes sense after the file uploads. Ok with the new placement of the insurance type. 
