@@ -64,6 +64,7 @@ ________________________________________________________________________________
          - 🟥 Address Midpoint Review feedback
               - 🟥 [Midpoint - **Content** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85519)
               - 🟥 [Midpoint Review - **IA Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85523)
+         - 🟥 [Review feedback and make updates to business process flow (Mural(s))](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85555) 
     - **Sub Goal: [Feature] Get connected with WellHive**
          - TBD 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
