@@ -1,5 +1,13 @@
 # Running Design and Research Agenda
 
+## June 20, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Premal Shah, Bo Altes
+
+### Agenda topics
+
+## June 13, 2024
+This meeting has been canceled.
+
 ## June 6, 2024
 Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Premal Shah, Devi Hill
 
