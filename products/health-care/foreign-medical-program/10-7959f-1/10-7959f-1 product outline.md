@@ -104,7 +104,7 @@ Collaboration Cycle
 - [ ] Release plan
 - [ ] Infrastructure, Privacy & Security
 
-Incident Response info
+###Incident Response info###
  
 Rollback & Fix plan (1-3 days to triage and implement fix)
 - In the event of a security vulnerability incident, we will:
