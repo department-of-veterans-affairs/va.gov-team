@@ -38,6 +38,8 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 - Provide Editors the ability to validate lat/long are correct for locations.
 - What do events look like for each of the products?
 
+#### Out of Scope
+
 #### Questions:
 - Is there already a MapBox plugin available?
 - Do we need to build a MapBox forward lookup for Drupal capability?
