@@ -27,26 +27,27 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 - Engineering/Backend: The first iteration will focus on backend functionality:
   - Rebuild events from static HTML into a dynamic React app driven by an API, thus allowing more events to be published without negatively affecting content publish time.
   - Ability to capture/store lat/long of event location.
-  - Ability to write unit tests to cover at least 80% of the code (collaboration cycle requirement)
-- Design Drupal CMS editorial flows and run usability testing with editors
+  - Ability to write unit tests to cover at least 80% of the code (collaboration cycle requirement).
+- Design Drupal CMS editorial flows and run usability testing with editors.
   - Consider:
-    - if an event has more than one location, including one being physical and one being virtual
-    - if an event spans across multiple days
-    - if an event is a month-long event
-    - if an event has multiple locations (more than one VAMC, or includes Vet Centers, VBA Facilities, etc.)
+    - if an event has more than one location, including one being physical and one being virtual.
+    - if an event spans across multiple days.
+    - if an event is a month-long event.
+    - if an event has multiple locations (more than one VAMC, or includes Vet Centers, VBA Facilities, etc.).
 - Explore feasibility of automating event data files for every event list (something similar to KISS, but automated for every event list (event_listing) node.
-- Breadcrumb updates based on testing (9439)
-- Update display of events so that only future events display to Veterans et al
+- Breadcrumb updates based on testing (9439).
+- Update display of events so that only future events display to Veterans et al.
 - Add disclaimer on all O&E pages that events featured do not constitute an endorsement from the VA.
 - Determine (with CAIA's aid) which metatdata should display when an event is shared by a Veteran on social media.
-- Adjust styles, moving content away from edges, on lower page widths
-- Research to support design system request to make year into dropdown year list instead of text field
-  - Engineering implementation of the above, along with defaulting to current year
+- Adjust styles, moving content away from edges, on lower page widths.
+- Research to support design system request to make year into dropdown year list instead of text field.
+  - Engineering implementation of the above, along with defaulting to current year.
 - Provide Veterans the ability to find/search for events near them (one of the long-time top-requested features).
+- Provide Veterans the ability to filter events by certain criteria (to be determined by research effort).
 - Provide Editors the ability to validate lat/long are correct for locations.
 - What do events look like for each of the products, and how might we individualize UX/display for the products?
-- Discovery of Veteran experience for the event page on VAMC at facility level
-  - What is the best experience for Veterans related to the display of facility events? e.g. Current events are displayed at the healthcare system level
+- Discovery of Veteran experience for the event page on VAMC at facility level.
+  - What is the best experience for Veterans related to the display of facility events? e.g. Current events are displayed at the healthcare system level.
 
 #### Out of Scope
 - Allow editors to add multiple images to events
@@ -59,7 +60,7 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 - Ability for an editor to create more than one repeating pattern for an event
 - Content managers' ability to reivew address and geodata for events
 - Outreach Hub Representative's ability to view how many events were posted to the Outreach Hub with a set date range
-- 
+- Add social media sharing options for events (closed because we already provide sharing options for all major social media sites)
 
 #### Questions:
 - Is there already a MapBox plugin available?
