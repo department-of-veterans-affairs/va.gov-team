@@ -151,9 +151,7 @@ We will also want to simplify the state machine. It should be removed from the h
 - was rejected by backup path <- based on polling
 - was remediated
 
-[See the Technical Design Document for this work here]()
-
-
+[See the Technical Design Document for this work here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md)
 
 ## Other Options considered
 
