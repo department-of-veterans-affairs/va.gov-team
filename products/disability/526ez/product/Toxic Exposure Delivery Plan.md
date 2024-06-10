@@ -78,7 +78,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Create herbicide pages.
  - [X] Create hazard pages.
  - [X] Transform service on the first of each hazard in 15C and put these behind the Toxic Exposure feature flag.
- - [ ] Transform service on the first of each hazard in 15D and put these  behind the Toxic Exposure feature flag.
+ - [X] Transform service on the first of each hazard in 15D and put these  behind the Toxic Exposure feature flag.
  - [X] Handle multiple exposure locations 15C.
  - [ ] Handle multiple exposure locations 15D.
  - [X] Discovery on async document status upload for form 526 after claim is established.
