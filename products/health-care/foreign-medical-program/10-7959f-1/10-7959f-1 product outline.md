@@ -87,7 +87,7 @@ Provide stand alone FMP registration form online with forms sent to PEGA for fur
 
 --- 
 
-## Launch Strategy
+## Launch Strategy 
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
@@ -104,7 +104,7 @@ Collaboration Cycle
 - [ ] Release plan
 - [ ] Infrastructure, Privacy & Security
 
-###Incident Response info###
+### Incident Response info
  
 Rollback & Fix plan (1-3 days to triage and implement fix)
 - In the event of a security vulnerability incident, we will:
