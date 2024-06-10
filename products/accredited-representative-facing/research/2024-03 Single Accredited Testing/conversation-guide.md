@@ -92,13 +92,13 @@ _Start recording in CAG. Enable record to cloud._
 
 5. Can you talk us through how you work with Veterans to fill out and submit a Form 21-22 for power of attorney?
 6. What is your current process for accepting POA requests, either individually or as an organization?
-    - Do you or your organization currently use the Stakeholder Enterprise Portal (SEP) to accept POA requests? 
-    - Why/why not?
+    1. Do you or your organization currently use the Stakeholder Enterprise Portal (SEP) to accept POA requests? 
+    2. Why/why not?
 7. [OPTIONAL, skip for DAV] Do you ever decline power of attorney requests?
-    - If so, how recently have you done this?
-    - Why?
-    - Did you let the Veteran know you were declining their request?
-    - How did you communicate with them?
+    1. If so, how recently have you done this?
+    2. Why?
+    3. Did you let the Veteran know you were declining their request?
+    4. How did you communicate with them?
 
 ## Second Task: 21-22 Accept/Decline - 40 minutes
 
@@ -124,12 +124,12 @@ To get started:
 **_Signing in and authentication experience_**
 
 7. Do you have a PIV card that you use to log in to VA systems?
-    - _If not, explain that a PIV card is used to authenticate people to get access into some VA systems._
+    1. _If not, explain that a PIV card is used to authenticate people to get access into some VA systems._
 8. Let’s pretend you already have an account set up using your PIV card and assume that you have your PIV card connected to your computer. Go ahead and find the sign in and click it. Please stop before you enter your credentials.
-    - [_From sign-in page_] Which sign-in option would you use? Why?
-    - If they did not click on the Login.gov opt PIV login option: 
-        - Prompt them to click on it (it’s the only one that’s interactive in this prototype)
-        - Did you know that the PIV card login was available under login.gov?
+    1. [_From sign-in page_] Which sign-in option would you use? Why?
+    2. If they did not click on the Login.gov opt PIV login option: 
+        1. Prompt them to click on it (it’s the only one that’s interactive in this prototype)
+        1. Did you know that the PIV card login was available under login.gov?
 
 **_Authenticated homepage impressions_**
 
@@ -142,16 +142,16 @@ To get started:
 **_POA content and features_**
 
 4. If you were looking for a specific POA request or set of requests, what criteria would you use to find them in this system?
-    - [_If user does not reference Search feature_] Are there scenarios where search would come in handy? What would you want to search by? 
-        - When you’re accepting a PoA request, would you have a file number, or do you only get that information after you’ve accepted the request? 
-        - Would you want/expect to search by “Veteran name” or “Claimant name”?
+    1. [_If user does not reference Search feature_] Are there scenarios where search would come in handy? What would you want to search by? 
+        1. When you’re accepting a PoA request, would you have a file number, or do you only get that information after you’ve accepted the request? 
+        2. Would you want/expect to search by “Veteran name” or “Claimant name”?
 5. [_Skip if participant has already given feedback from Q4_] I’d like to draw your attention to the table at the bottom of the page. Tell me what this means to you. What do you expect to see in this table?
-    - What does the phrase “Pending” mean to you? Do you have any thoughts about how long a POA request would sit under the “Pending” tab? What if this tab said “New” instead of “Pending”?
-    - [_If they do not mention the tabs_] What do the terms “Accepted” and “Declined” mean to you in this context? Do you think you would use them, and if so, what for?
+    1. What does the phrase “Pending” mean to you? Do you have any thoughts about how long a POA request would sit under the “Pending” tab? What if this tab said “New” instead of “Pending”?
+    2. [_If they do not mention the tabs_] What do the terms “Accepted” and “Declined” mean to you in this context? Do you think you would use them, and if so, what for?
 6. Tell me your thoughts about the different columns of information presented in the table of requests.
 7. Let’s imagine you’ve logged into this tool for the day to manage any incoming POA requests. Is there any information missing on this page that you’d like to see? 
 8. [_If not covered earlier_] Scrolling back up a bit, what do the “**Need help**” and “**Provide feedback**” areas on the top right hand side of the screen mean to you?
-    - What would you expect to find in them?
+    3. What would you expect to find in them?
 
 _If cross-accredited, end session now._
 
@@ -164,23 +164,23 @@ _If cross-accredited, end session now._
     1. [Moderator or Note taker: put Veteran name in chat for participants to use]
     2. Success criteria: participant uses search feature to find the specific Veteran and opens their request.
 2. [On task completion or abandonment] Overall, on a scale of 1-7, where 1 is very difficult and 7 is very easy, how difficult or easy was this task (searching by name) to complete?
-    - Why did you rate this task a _#_?
+    1. Why did you rate this task a _#_?
 
 **_Search criteria desirability_**
 
 3. Is the search feature you just used valuable to you? Why?
-    - You might notice there’s a dash in the top right corner of the search bar. That allows you to hide the search feature. Do you prefer it to be open or collapsed by default?
+    1. You might notice there’s a dash in the top right corner of the search bar. That allows you to hide the search feature. Do you prefer it to be open or collapsed by default?
 4. What are other ways you’d like to search for a specific power of attorney requests?
-    - What if the Veteran was someone you already had power of attorney for? How would you like to search for them in this portal if you were, let’s say, able to work on their claims directly from this portal?
+    1. What if the Veteran was someone you already had power of attorney for? How would you like to search for them in this portal if you were, let’s say, able to work on their claims directly from this portal?
 
 **_Claimant details page and accepting request_**
 
 1. [From the Veteran details page]. Without clicking anything, tell me what you think of this page. Is this enough information or the right information for you to know if you would accept or decline this request? 
     1. If not, what other information would be valuable? 
 2. Go ahead and accept Paula’s request.
-    2. Is this what you expected to happen?
+    1. Is this what you expected to happen?
 3. [_On task completion or abandonment_] Overall, on a scale of 1-7, where 1 is very difficult and 7 is very easy, how difficult or easy was this task (accepting the request) to complete?
-    3. Why did you rate this task a _#_?
+    1. Why did you rate this task a _#_?
 
 **_Accepting request completion_**
 
@@ -195,40 +195,40 @@ _If cross-accredited, end session now._
     2. How would you select all the requests from Wichita and approve them?
     3. Success criteria: participant uses table sort by city and uses the check marks to select all requests from Wichita, KS and approves. If participant uses the zip code field, upon completion, mark partial success and direct their attention to the table sort.
 2. [On task completion or abandonment] Overall, on a scale of 1-7, where 1 is very difficult and 7 is very easy, how difficult or easy was this task (sorting and then accepting multiple requests at once) to complete?
-    - Why did you rate this task a _#_?
+    1. Why did you rate this task a _#_?
 
 **_Bulk select and requests table desirability_**
 
 1. [_Warning about limitations of consent_] I want you to think back to the popup that appeared once you selected all the Wichita requests. On that popup it told you some of the 21-22s had limitations of consent. Is this what you expected to see? What do you think about this message? 
 2. What do you think the upper-left checkbox does? If you select it, does it select results only on this page, or on subsequent pages?
 3. If you were to search, which of the location options: city, state, and zip code, do you think you’d find most useful and why? 
-    - _Moderator: look for references to fields in the search box or alternative table views_
+    1. _Moderator: look for references to fields in the search box or alternative table views_
 4. Are there other ways you’d like to be able to sort requests?
 
 **_Viewing Veteran details and declining request_**
 
 1. Please return to your power of attorney requests. From the table, please find and select **Gordon Diaz**, a Veteran from Valley Center, Kansas, to review their request in more detail. I will paste their information in the chat for you to reference. Without accepting or declining, what do you notice?
-    - [Moderator: Drop Veteran’s data into the chat]
-    vSuccess criteria: participant clicks on the name to open their details page and notices that the Veteran’s POA request does not allow access to medical records.
+    1. [Moderator: Drop Veteran’s data into the chat]
+    2. Success criteria: participant clicks on the name to open their details page and notices that the Veteran’s POA request does not allow access to medical records.
 2. Based on the information you see here and assuming you haven’t had any direct contact with the Veteran, would you accept or decline this request? 
-    - Why?
-    - Would you contact the Veteran before acting on their request? 
+    1. Why?
+    2. Would you contact the Veteran before acting on their request? 
 3. Let’s imagine you are going to decline this request. How would you do this?
 
 **_Decline flow desirability_**
 
 4. What do you think about the text box [reason for declining] here?
-    - How would you expect the Veteran to find out that their POA request had been declined?
-    - Would this note be something you or your organization would use? In what way do you imagine you might use this?
+    1. How would you expect the Veteran to find out that their POA request had been declined?
+    2. Would this note be something you or your organization would use? In what way do you imagine you might use this?
 1. Overall, on a scale of 1-7, where 1 is very difficult and 7 is very easy, how difficult or easy was this task [declining an individual request] to complete?
-    - Why did you rate this task a _#_?
+    1. Why did you rate this task a _#_?
 
 ## Post-Task Interview - 5 minutes
 1. Anything else you’d like to tell us about these screens that we didn’t talk about?
 2. Are there any critical features that are missing?
 3. How would you describe your overall experience using this portal today? 
 4. On a scale of 1 to 5, with 1 being “not at all likely” and 5 being “very likely, how likely would you be to recommend this tool to a VSO colleague?
-    - Would you mind telling me why you chose a _#_?
+    1. Would you mind telling me why you chose a _#_?
 
 Preference test:
 - [https://www.figma.com/proto/JpQxsY8thlIxxtkRI3aHAP/ARP-homepage-explorations?type=design&node-id=1-2086&t=TLfs59duzIjlts1c-0&scaling=min-zoom&page-id=0%3A1](https://www.figma.com/proto/JpQxsY8thlIxxtkRI3aHAP/ARP-homepage-explorations?type=design&node-id=1-2086&t=TLfs59duzIjlts1c-0&scaling=min-zoom&page-id=0%3A1)
