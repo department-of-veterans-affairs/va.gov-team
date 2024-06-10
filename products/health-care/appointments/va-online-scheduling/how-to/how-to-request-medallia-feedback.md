@@ -76,10 +76,10 @@ All in one file, on one tab
 | Week 19 May 05-May 11 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) (Note - this replaces [83233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83233)) |Done |
 | Week 20 May 12-May 18 | Peter Russo | [83488](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83488) | Done |
 | Week 21 May 19-May 25 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428) | In Progress |
-| Week 22 May 26-Jun 01 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428)  | In Progress |
-| Week 23 Jun 02-Jun 08 | Peter Russo | []() |  |
-| Week 24 Jun 09-Jun 15 |  | []() |  |
-| Week 25 Jun 16-Jun 22 |  | []() |  |
+| Week 22 May 26-Jun 01 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428)  | Done |
+| Week 23 Jun 02-Jun 08 | Peter Russo | [85551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85551) | In Progress |
+| Week 24 Jun 09-Jun 15 | Peter Russo | []() |  |
+| Week 25 Jun 16-Jun 22 | Peter Russo | []() |  |
 
 ### Older requests
 
