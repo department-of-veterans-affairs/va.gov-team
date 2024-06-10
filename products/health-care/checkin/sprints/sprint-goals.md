@@ -26,6 +26,9 @@
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
         - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
         - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
+    - **Sub Goal: Move to New AWS Instance**
+        - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
+        - 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
@@ -76,19 +79,19 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79883)
+    - ✔️ ❗🟦🟩 [Support Applications in Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79883)
     - ❗🟨 [Rotate AWS Keys - May 30, 2024 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76343)
-    - ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)    
+    - ✔️ ❗🟦 [[BE] SPIKE: Research the claim status endpoint; How might better us it to handle the timeouts](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81128)    
     - **Sub Goal: Move to New AWS Instance**
-      - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
-      - 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
+      - 🚧 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
+      - 🚧 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
       - ✔️ 🟨 [[DevOps] Add account tag to `checkin-devops` for `vaec-cie`.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84164)
       - ✔️ 🟨 [[DevOps] Add Account tag to `chip` resources for `vaec-cms`.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84331)
       - ✔️ 🟨 [[DevOps] Create Datadog Log Forwarder in `checkin-devops`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84414)
       - ✔️ 🟨 [[DevOps] Discovery on network configurations in `vaec-cms` AWS account](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77662)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Add Medication Review Content to Appointment Information**
-        - 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
+        - ✔️ 🟩 [Changes to pre-check-in confirmation pages when demos don't need to be reviewed ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83890)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**  
         - 🟥 [Update OH Travel Wireframes for Single and Multiple Station Scenarios ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83619)
