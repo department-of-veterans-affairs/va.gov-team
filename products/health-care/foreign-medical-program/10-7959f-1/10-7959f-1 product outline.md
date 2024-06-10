@@ -134,6 +134,7 @@ Rollback & Fix plan (1-3 days to triage and implement fix)
 - Conversations with stakeholders scheduled through 2/9 completed.
 - Stakeholder interview analysis complete along with prototype creation and research readout.
 - User interviews complete.
+- Stakeholder research readout 7/3, CoP presentation - 7/8
 
 Key deliverables:
 - design: 
