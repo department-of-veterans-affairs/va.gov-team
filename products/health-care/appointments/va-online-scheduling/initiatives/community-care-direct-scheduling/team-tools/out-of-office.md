@@ -8,3 +8,6 @@ If you're going to be out of office for the entire day, follow these steps to ma
 * Ensure "Free" availability is set
 * Add "uae-ux-calendar@agile6.com" as a Guest
 * Select "Save" button
+
+Note: [How to subscribe to the UAE UX Calendar (using Google Calendar)
+](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/team#how-to-subscribe-using-google-calendar)
