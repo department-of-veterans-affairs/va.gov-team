@@ -25,7 +25,6 @@
         - ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
         - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
-        - ❗🟦 [BE] Move statsd metrics & vanotify template ids to common constants class #84752
         - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
@@ -43,7 +42,6 @@
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 Brian to create tickets for "new" MVP
     - **Sub Goal: CIE Analytics**
-        - 🟪 [[UX][Research] Migrate echeckin GA Custom Dashboard to GA4 Dashboard ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
