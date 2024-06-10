@@ -55,7 +55,7 @@ Tell us briefly about what you're working on now (such as initial discovery, wir
 - [ ]  Yes
 - [ ]  No
  
- **Note** If you checked yes: Incremental launches require dynamic content. Your developer will build a React widget and provide CAIA with the ID code. CAIA will provide widget content and add the widget to your product’s static page. Please refer to this [GitHub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md) for more information.
+ **Note** If you checked yes: Incremental launches require dynamic content. You'll need to ask your developer to build a React widget and provide CAIA with the ID code. CAIA will provide widget content and add the widget to your product’s static page. Please refer to this [GitHub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md) for more information.
  
 - [ ]  I acknowledge that if I change the launch to be incremental, or change it from incremental to 100%, I must notify CAIA of this change as these additional steps will impact deadlines.
 
