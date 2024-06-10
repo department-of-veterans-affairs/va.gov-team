@@ -1,4 +1,4 @@
-# Project outline: Save in Progress (SiP) Configuration Enhancement (WIP)
+# Project outline: Save in Progress (SiP) Configuration Enhancement
 
 **Last updated: April 25, 2024 - first published**
 
