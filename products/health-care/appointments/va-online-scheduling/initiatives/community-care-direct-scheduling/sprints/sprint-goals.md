@@ -59,6 +59,7 @@ ________________________________________________________________________________
          - 🟥 🟨 [[CodePen] Make adjustments based on A11y and Midpoint Review feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - 🟥 Address Midpoint Review feedback
+              - 🟥 [Midpoint - **Content** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85519)
     - **Sub Goal: [Feature] Get connected with WellHive**
          - TBD 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
