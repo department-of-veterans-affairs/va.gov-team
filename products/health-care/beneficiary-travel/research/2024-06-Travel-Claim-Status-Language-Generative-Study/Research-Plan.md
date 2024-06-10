@@ -135,54 +135,45 @@ _Secondary criteria (nice-to-haves)_
 1. Have you traveled for a VA or community care medical appointment at least one or more times in the last 12 months?
 * Yes
 * No (Does not meet criteria for this study)
+
 2. In the past 5 years, how many times have you filed for travel reimbursement from the VA?
 * I have never submitted for travel reimbursement from the VA
 * 1 - 5 times in the past 5 years
 * More than 6 times in the past 5 years
+
 3. If you have filed a claim for travel reimbursement, have you ever followed up, amended or contested a claim after you submitted it?
 * I have never submitted a claim for travel reimbursement
 * Yes, I have followed up on / amended / contested a claim for travel reimbursement
 * No, I have followed up on / amended / contested a claim for travel reimbursement
+
 4. Do you use your mobile device to complete simple tasks related to managing your healthcare? (For example, but limited to, messaging your doctor on your mobile device)
-    * Yes (meets criteria for mobile user)
-    * No (does not meet criteria for mobile user)
+* Yes (meets criteria for mobile user)
+* No (does not meet criteria for mobile user)
+
 5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
-    1. - Yes (Go to Screener question X)
-    2. - No (Does not meet criteria for cognitive impairment - Go to Screener question X)
+* Yes (Go to Screener question 6)
+* No (Does not meet criteria for cognitive impairment - Go to Screener question 6)
 
-    6.  Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone? (We ask this because we want to make sure that our application works for people who rely on these types of technologies.)
+6. Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone? (We ask this because we want to make sure that our application works for people who rely on these types of technologies.)
+* Yes (Go to Screener question 7) 
+* No (Does not meet criteria for screen reader user - Go to Screener question 10)
 
-
-         - Yes (Go to Screener question x) \
- - No (Does not meet criteria for screen reader user - Go to Screener question x)
-
-
-    7. Do you normally need to resize font or use a magnification tool to see your screen when you are using the internet?
-
-
-     - Yes (Go to Screener question x)
-
-
-    - No (Does not meet criteria for screen magnification/font resizing)
-
-
-    8.  (Only if yes to Q4) Screener Q6: Please list the name of the screen reader technology you intend to use during the session. \
- \
+7.  (Only if yes to Q6) Please list the name of the screen reader technology you intend to use during the session. 
 - Open text field. Required.
 
+8. (Only if yes to Q6) We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader. 
+* Beginner 
+* Intermediate 
+* Advanced 
+* Expert
 
-    9. (Only if yes to Qx) We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader. \
- - Beginner \
- - Intermediate \
- - Advanced \
- - Expert
+9. (Only if yes to Q6) Are you willing to use this assistive technology during the session if needed? 
+* Yes (Meets criteria for AT user) 
+* No (Does not meet criteria for AT user - both screen reader user OR screen magnification user)
 
-
-    10. Are you willing to use this assistive technology during the session? \
-	 - Yes (Meets criteria for AT user) \
-	 - No (Does not meet criteria for AT user - both screen reader user OR screen        magnification user)
-
-
+10. Are you willing and able to show up for a 60 minute interview over Zoom on a laptop or desktop device with a secure internet connection?
+* Yes (Meets criteria) 
+* No (Does not meet criteria)  
 
 ## **Timeline**
 
