@@ -24,7 +24,11 @@
             - VES team is proposing to validate the sponsor in some way. Premal will provide some research on why we are choosing not to validate.
             - Premal will continue to keep us updated on any other questions or info that are shared on this intitative. 
 
-- 
+### Decisions and action items
+- Jamie to update the OHI Health Insurance screens based on the Lois' recomendations and pass these next changes to engineering. Use the simpler text on the first health insurance screen and workshop another way to ask that question. Keep the commetns box at the end of the uploads and the health insurance types at as the 2nd question in the health insurance flow.
+- Jamie to update the OHI stakeholder questions. 
+- Jamie add Premal and Lois to the Stakeholder calls. 
+
 ## June 3, 2024
 ### Notes
 - Attendees: Lois Lewis, Premal Shah, Rachael Penfil, Jamie Fiore, Syd Hoeper, Steven Straily, Brian Wilke, Devi Hill, Mary Wang, Bo Altes
