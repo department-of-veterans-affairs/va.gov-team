@@ -68,8 +68,13 @@ For this initiative, we will implement in multiple phases, with MVP being the fi
 
 ### EPICS: 
 - [[SUPER EPIC] Events v3](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17871)
-- 
-- 
+  - [[EPIC] [Events v3 - MVP] Create an Events API & Data Model #17911](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17911)
+  - [[EPIC] [Events v3 - MVP] FE/UX, and Unit Test Updates #18277](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18277)
+  - [[Events v3 - Fast-follow] Enhancements or alterations to Events v3 that will come directly after MVP #18282](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18282)
+  - [[EPIC] [Events v3 - Future State] Events filters #9435](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9435)
+  - [[EPIC] [Events v3 - Future State] Publish Events to multiple Facilities + Outreach Events #15562](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15562)
+  - [[EPIC] [Events v3 - Future State] UX/FE/BE Events Future State Work #18279](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/18279)
+ 
 ### Artifacts
 - List of already existing [Events tickets in Sharepoint/Excel](https://dvagov.sharepoint.com/:x:/r/sites/SitewidePublicWebsites/_layouts/15/Doc.aspx?sourcedoc=%7B1d81bc4d-d972-4e1b-aa55-1523d419e9fd%7D&action=edit&wdenableroaming=1&wdlcid=en-US&wdorigin=ItemsView&wdhostclicktime=1717177303908&wdredirectionreason=Force_SingleStepBoot&wdinitialsession=4fbb0378-03c7-ac19-5f26-30f8c7b84877&wdrldsc=2&wdrldc=1&wdrldr=ContinueInExcel)
 - [Previous work](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9617) was done by Public Websites in 2022 to design Drupal CMS editorial flows
