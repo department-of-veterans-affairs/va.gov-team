@@ -187,13 +187,17 @@ The VFS Debt Team is currently working with VHA and VBA to implement payment his
 
 # Actionable Feedback:
 
--   Copay-balances page described as broken: verify with front end team
+-   [x] Copay-balances page described as broken: verify with front end team
 
 `the  [www.va.gov/manage-va-debt/summary/copay-balances](http://www.va.gov/manage-va-debt/summary/copay-balances)  page has been broken for months now. Surely you can find a high schooler to fix it!!`
 
--   Phone numbers listed don't work: verify/investigate this issue
+As of 6/5/24 this issue/bug has been address and resolved by the front-end team. See ticket [#85064](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/85064)
+
+-   [ ] Phone numbers listed don't work: verify/investigate this issue
 
 `None of the phone numbers listed work`
+
+Ticket [#85566](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/gh/department-of-veterans-affairs/va.gov-team/85566) has been created for work to verify the accuracy of the phone numbers on the debt portal and eFSR pages. 
 
 # Visualizations (in progress):
 
