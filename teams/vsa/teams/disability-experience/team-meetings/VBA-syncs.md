@@ -7,8 +7,20 @@ Goal of the meeting series: addressing policy related or other open questions fo
 ### Notes
 - PTSD and MST contention classification. From past VEO research and chats with the CC team, we heard that Veterans may be thinking of MST as a condition, rather than an event that results in PTSD. We're hoping to get more insight on this in our upcoming 0781 study. Is there a reason behind the languaged used (PTSD, the "type" of which can be "personal involving MST"), and could we explore changing the language to align with Veterans' expecations? Does the condition claimed need to align with the medical diagnosis / DSM standards? (For context, two types of PTSD were included in the conditions list because there are two classifications for PTSD. We also know it's important for RVSRs to know if MST was involved for claim processing.)
 - <img width="682" alt="Screenshot 2024-06-04 at 8 15 41 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/130166646/ec853fe3-14bb-4212-a18e-ebf0e017b457"> <img width="514" alt="Screenshot 2024-06-04 at 8 14 36 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/130166646/c8bac860-4c43-4aa3-b481-775c1906cd36">
+- involving/not involving MST - specifically trained individuals to work MST claims, important for business process 
+Comes down to how the stressors are verified and levels 
+Combat stressors require less stringent verification than personal traumatic event 
+These 4 categories are set 
+It’s not important for the veteran to claim combat related or non combat related
+That’s a distinction made by RVSR, we don’t require the claimant t understand the difference, we don’t need to have them choose that upfront
+We don’t want this in the dropdown
+Contentions should be allowed in as much the veterans voice as we can, we will distinguish later in the process if needed 
+We don’t wnat them to specify upfront 
 
 - How common is it for a Veteran to submit both a 0781 and a 0781a? We're deciding how to approach the failure emails for these forms in the interim before the new combined version is launched. 
+- David doesn’t know, new form is launching june 21 
+“I don’t know how much work you want to put in to an interim” 
+Kevin - it’s fairly rare to see this happen 
 
 
 
