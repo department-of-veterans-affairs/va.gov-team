@@ -7,7 +7,7 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Standalone PDF Review|5 days|VBA and RBPS Stakeholders| June 4, 2024 |
-|Phase 1A: Review instance QA |1 days|Teammembers| June 12, 2024 |
+|Phase 1A: Review instance QA |1 day|Teammembers| June 12, 2024 |
 |Phase 2: Canary production testing |3 hours|10 claims| June 2024 |
 |Phase 2A: 100% of users| indefinite | 100% users| June 2024 |
 
@@ -40,23 +40,19 @@ The form updates will be broken into two phases to expidite improvements to the 
    - Fix high-priority accessibility issues
    - Improve form flow patterns
 
-[Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?sender=u934f98f179a86c76e6ee9592)
+[Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846)
 
-### The release plan will need to consider the following use cases:
+### The phase 2 release plan will need to consider the following use cases:
 1. Applications In-Progress
    - Before full release:
-      - Unathenticated Users: Users will complete the old version (v1) of the form.
-      - Authenticated Users: If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%).
+      - If the user maintains a single active session, they will complete the old version of the form. If they leave a session and start a new one, they may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%).
    - After 100% release:
-      - Authenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info. Their v1 data will appear in the v2 form.
-      - Unauthenticated Users: If users are in an active session, they will complete the v1 version of the form. If they leave the active session and return, they will be taken back to the intro page of the form and see an info alert noting that updates have been made. They will start over with the new version of the form -- none of their v1 data will appear in v2 of the form.
+      - If users are in an active session, they will complete the v1 version of the form. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info. Their v1 data will appear in the v2 form.
 2. Applications Not Started
    - Before full release:
-      - Unauthenticated Users: Users will complete the old version (v1) of the form.
-      - Authenticated Users: Users may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%)
+      - Users may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%)
    - After 100% release
-      - Authenticated Users: Users will complete v2.
-      - Unauthenticated Users: Users will complete v2.
+      - Users will complete v2.
 
 | User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
 |---|---|---|---|---|---|
@@ -69,10 +65,10 @@ The form updates will be broken into two phases to expidite improvements to the 
 | No-Auth Users (Pre-100% Release) | N/A | No | v1 Form | No | No |
 | No-Auth Users (Post-100% Release)| N/A | No | v2 Form | Yes | No |
 
-### This release will include the following components:
-1. Form field updates on some pages (add new fields, remove old fields)
-2. Form component updates on the pages already receiving form field updates
-3. Accessibility updates on the pages already receiving form field updates
+### This phase 2 release will include the following components:
+1. Form field updates on some pages
+2. Form component updates (v1 to v3)
+3. High-priority accessibility updates (level 0-2)
 4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
 5. Toggle for inforamtion page to show old vs new form instructions. (Confirm this is needed.)
 6. Updated confirmation email sent to users confirming their claim submission through VA.gov
