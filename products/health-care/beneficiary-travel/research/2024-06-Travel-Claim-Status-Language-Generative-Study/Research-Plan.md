@@ -214,23 +214,104 @@ Tuesday, July 9, 2024 to Friday, July 19, 2024
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 5
 
-**Availability (open 5 slots a day)**
+**Availability (open max 5 slots a day)**
 
-Tuesday, July 9
+**Tuesday, July 9** (4 slots)
 
-Wednesday, July 10
+11am EST - 12pm EST
+    
+12:30pm EST - 1:30pm EST
+    
+3pm - 4pm EST
+    
+4:30pm - 5:30pm EST 
 
-Thursday, July 11
 
-Friday, July 12
+**Wednesday, July 10** (5 slots)
 
-Monday, July 15
+10:30am - 11:30am EST
 
-Tuesday, July 16
+12pm EST - 1pm EST
 
-Wednesday, July 17
+1:30pm EST - 2:30pm EST 
 
-Thursday, July 18
+3:30pm EST - 4:30pm EST
+
+5pm EST - 6pm EST
+
+
+**Thursday, July 11** (5 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+3:30pm EST - 4:30pm EST
+
+5pm EST - 6pm EST
+
+
+**Friday, July 12** (4 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+3:30pm EST - 4:30pm EST
+
+
+**Monday, July 15** (5 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+3:30pm EST - 4:30pm EST
+
+5pm EST - 6pm EST
+
+
+**Tuesday, July 16** (5 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+3:30pm EST - 4:30pm EST
+
+5pm EST - 6pm EST
+
+
+**Wednesday, July 17** (4 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+4:30pm EST - 5:30pm EST
+
+
+**Thursday, July 18** (5 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+3:30pm EST - 4:30pm EST
+
+5pm EST - 6pm EST
 
 Friday, July 19
 
