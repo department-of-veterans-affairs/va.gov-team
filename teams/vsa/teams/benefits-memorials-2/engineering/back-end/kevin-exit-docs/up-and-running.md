@@ -12,7 +12,7 @@ Get Notifications for @ MentionsHuddle
 - Github vsa-debt-resolution team
 	- Get Kevin to add you to [this team](https://github.com/orgs/department-of-veterans-affairs/teams/vsa-debt-resolution/)
 - Datadog 
-	- **DM to submit via DOTS** (Who is DM?)
+	- **Delivery Manager (Heather Rienks) to submit via DOTS** 
 - Sentry
 	- TODO
 - Sidekiq Admin UI
@@ -23,5 +23,5 @@ Get Notifications for @ MentionsHuddle
 - VA Notify
 	- Reach out on the [va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) channel and request  to be "added to the self service portal under the dmc service"
 - Sharepoint
-	- TODO
+	-  **Delivery Manager (Heather Rienks) to submit request for access to VHA Sharepoint to Andrea Hugo, Richard Crist**
 - P
