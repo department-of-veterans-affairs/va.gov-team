@@ -313,7 +313,16 @@ Tuesday, July 9, 2024 to Friday, July 19, 2024
 
 5pm EST - 6pm EST
 
-Friday, July 19
+
+**Friday, July 19** (4 slots)
+
+10:30am - 11:30am EST
+
+12pm EST - 1pm EST
+
+1:30pm EST - 2:30pm EST 
+
+3:30pm EST - 4:30pm EST
 
 
 ## **Team Roles**
