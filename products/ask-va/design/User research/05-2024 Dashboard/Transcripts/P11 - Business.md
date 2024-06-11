@@ -31,13 +31,13 @@ Okay, cool. Well, let's start by like learning a little bit more about you and y
 Are you a school certifying official? A work study supervisor, tell me a little bit about your your role.
 
 00:00:29.000 --> 00:00:40.000
-So my name is Terry Payne. I work at Northern Virginia Community College. I have been at this college for It's 8 years now.
+So my name is [P11]. I work at [school]. I have been at this college for It's 8 years now.
 
 00:00:40.000 --> 00:00:49.000
 But I have been a SEO for 10 plus years. My primary responsibility is school certifying official, but I'm also the program lead of veterans benefits.
 
 00:00:49.000 --> 00:00:57.000
-So that also means I am also a work steady. Supervisor and I'm also the one who submits the Brook steady timesheets.
+So that also means I am also a work steady. Supervisor and I'm also the one who submits the work study timesheets.
 
 00:00:57.000 --> 00:01:08.000
 I'm also the manager of all VA school certified officials at our university. We have one main branch and we have 6 extension campuses.
