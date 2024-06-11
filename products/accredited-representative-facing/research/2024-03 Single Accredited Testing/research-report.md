@@ -4,12 +4,12 @@
 
 Date: 05/2024
 
+[Presentation](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/User%20Testing_NACVSO_%20Presentation.pdf?csf=1&web=1&e=oCl4zH) | [Recording](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/20240611-Shareout_Recording.mp4?csf=1&web=1&e=f1gRxK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 - Renata Keck, renata.keck@agile6.com (research preparation, session moderation and notetaking, data analysis and report)
 - Rebecca Blakiston, rebecca.blakiston@adhocteam.us (research preparation, session moderation and notetaking, and data analysis)
 - Kristen Faiferlick, kristen.faiferlick@adhocteam.us (prototype creation, session moderation and notetaking, and ARP mocks)
 - Courtney Stubbert, courtney.stubbert@adhocteam.us (session observation, ARP mocks)
-
-[Findings report](https://dvagov.sharepoint.com/:b:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/032024%20VSOR%20User%20Testing/032024_usertesting_report.pdf?csf=1&web=1&e=im1vC5), deck, and recording of share out
 
 Jump to:
 - [Research Goals](#research-goals)

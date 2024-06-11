@@ -15,6 +15,9 @@
    - [PDF Validation](https://dsva.slack.com/archives/C068Y3ZFKNJ/p1718057908811949?thread_ts=1717690517.038599&cid=C068Y3ZFKNJ)
 
 ## Notes
+- Action items
+   - Set up meeting with OCTO engineers to review recommendations and actions taken (Bo)
+   - Check in with Adrien for clarification on PDF validation (Bo)
 
 #### Decisions
 * 

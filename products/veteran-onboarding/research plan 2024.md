@@ -1,4 +1,4 @@
-# Research Plan for IIR, Veteran Onboarding, May-June 2024   
+# Research Plan for IIR, Veteran Onboarding, Summer 2024   
 
 ## Background   
 - What problem is your product trying to solve?   
