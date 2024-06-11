@@ -7,6 +7,7 @@ Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support p
 * Create an intake process for feature requests, updates, bug fixes, data requests, etc.
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
 * Ability to view all requests holistically.
+* Create metrics to measure support
 
 Create solutions to manage & fulfill requests from other va.gov Product Teams, including:
 * Intake form
@@ -59,11 +60,28 @@ While the slackbot is the outward-facing manifestation of our support process, i
     - Contains links to most of the above documentation
 
 **Ticket Tracking**
-  dfdfdfd
+
+All of the tickets created by the slackbot (or from github) are tagged so that we can view those tickets in ZenHub, and act upon them in a timely manner. An Epic will be created for reporting purposes.
+- [Support Tickets in Zenhub](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/board?epics=Z2lkOi8vcmFwdG9yL0VwaWMvMTEzNjc3NQ&labels=identity-slackbot)
+- [Identity Slackbot Requests Epic](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/80440)
+
+
 
 **Initial Metrics**
-Tickets
-Satisfaction Survey
+There are two types of things we are initially measuring.
+
+- Tickets
+  - New Tickets Submitted Monthly
+  - Current Open Tickets
+  - Total Tickets by Status
+  - Tickets by Team requesting
+- Support Satisfaction Survey
+  - Based upon the [Identity Support Feedback Survey](https://dj540s05.optimalworkshop.com/questions/0d31ff0dc545c064f822b28f7ccc1724)
+
+We will be able to view all of these in a dashboard set up in Domo
+
+- [Domo Dashboard](https://va-gov.domo.com/page/680596002?userId=904436429)
+- [How to use the survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/user-guide_support-satisfaction-survey.md)
 
 
 ## Out of Scope (MVP): 
@@ -81,8 +99,7 @@ Satisfaction Survey
 | :------------- |:------------- | :----- |
 |Va.gov product team member| Want to ask a data pull| [Slackbot form will standardize data pull request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77443)  |
 |Va.gov product team member | Want to ask for PR review  | [Slackbot form will standardize PR review request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77415) | 
-|Va.gov product team member  | Having issues with Mock Auth   | [Slackbot form will standardize Mock Auth issue request]
-(https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77444) |
+|Va.gov product team member  | Having issues with Mock Auth   | [Slackbot form will standardize Mock Auth issue request(https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77444) |
 |Identity team member | Which request should we focus on?  | [Create a Triage/Prioritization process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77491) |
 |Identity team member | No standardized language to communicate with users  | [Standardized language for each part of the process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77495) |
 |Identity team member | I don't have a top-level view of the requests | [Slackbot will create tickets that will live in a tracker](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/74677)
@@ -100,9 +117,10 @@ Satisfaction Survey
   - Data Request
   - Other
 
-
-
 We obviously won't worry about Sign-In Service, as that has it's own flow, but "Other" will be useful in determining what choices we want to add next.
+
+* We create other pathways to support, including documentation and non-slack forms.
+* We create labels for the tickets to properly track them in ZenHub
 
   
 ## Technical Considerations:
@@ -120,9 +138,9 @@ We obviously won't worry about Sign-In Service, as that has it's own flow, but "
 
 
 ## Measuring Success:
-Measuring the success of the Request & Support process was originally part of the focus of an entire project: O4KR2 - Establish and publish monthly metrics around response times for VA.gov product teams. But it got folded into this.
+Measuring the success of the Request & Support process was originally part of the focus of an entire project: O4KR2 - Establish and publish monthly metrics around response times for VA.gov product teams. Which also fed into O4KR3: Establish a 70% CSR rating. However, it got folded into this
 
-That said, some initial thoughts on what that project might entail.
+Here are the intitial things we are measuring
 | KPI           | Notes         | 
 | ------------- |:-------------| 
 | Number of requests | On a monthly basis, we track how many requests were fulfilled via the Request & Support | 
@@ -139,8 +157,10 @@ That said, some initial thoughts on what that project might entail.
 * Survey built
 * Process for specific requests captured
 * Slackbot released
+* UAT
+* Comms
   
 
 
 ## Future Scope:
-* 
+* [Request & Support Process Post-MVP (Draft)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Post-MVP%20Product%20Brief.md)
