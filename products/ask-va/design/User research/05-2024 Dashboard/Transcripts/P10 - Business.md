@@ -1,7 +1,7 @@
 # P10 Transcript
 
 About this session:
-- They joined from their laptop.
+- They joined from their computer.
 
 ## Transcript
 
