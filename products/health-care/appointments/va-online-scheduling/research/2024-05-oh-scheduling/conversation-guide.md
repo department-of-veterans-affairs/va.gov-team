@@ -97,7 +97,9 @@ On the PID page: You need an appointment for 6/11 date show me how you would sch
 Choose a date and time page: What do you think this page is? How is it differnt from the last page? You want to schedle for the 7/22 at 12. 
 If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
 
+(Have them finish making the appointment)
 
+Confirmation screen: Is this enough information for you to go off of to get to your appointment?
 
 
 
