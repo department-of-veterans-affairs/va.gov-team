@@ -78,6 +78,10 @@ Payment history improvements support the following:
 *Payment History*
 - The feature will be integrated with the debt portal and it will solve an existing major issue with the debt portal that is resulting in high frustration and anger. 
 - If we use both CDW and Lighthouse data, alignment with these 2 data sources
+
+*Data Discovery*
+- _Letter codes_ are unrelated to the transaction/Hines codes. They are literally the [codes for the various debt letters](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/discovery/letter-samples/eFolder-Supported%20Letter%20Types.md) that get sent to a veteran. They are entirely separate objects and not related to transaction data.
+- We will need to do the work of categorizing and grouping the transaction/Hines codes similarly to how the diary codes are currently done. A transaction code is a more broad term, and each set of transaction codes has a specific Hines code, and together, you get something unique and specific. Since they are so granular, we think the best path forward is to figure out the general groupings and create more broad, generic, veteran-facing, humanly readable descriptions. DMC is now working on a more cleaned-up version of what they sent over recently, and once we get that, the UX team will try to attempt to create some kind of spreadsheet similar to the Diary Codes with groupings and base-level descriptions.
  
 *PDF*
 - We recommend delivering a printable PDF as in the current experience. 
@@ -115,7 +119,7 @@ Site performance impacts (see Google Lighthouse, WebPageTest, #-daily-lighthouse
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85533)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
