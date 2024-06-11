@@ -75,10 +75,9 @@
         - 🟩 [[FE] OH travel - Update conent on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85600)
         - 🟩 [[FE] OH travel expandable alert for appointment select page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85597)
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: Discovery - Multiple Selection of Appts**
-        - 🟥 [[Research] Create Research Study Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80281)
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - 🟩 Brian to create tickets for "new" MVP
+        - Christina to schedule a hand-off to engineering & Product
+        - Brian to create tickets for "new" MVP
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
