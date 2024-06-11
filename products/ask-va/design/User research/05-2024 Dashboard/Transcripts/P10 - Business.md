@@ -1,0 +1,14 @@
+# P10 Transcript
+
+About this session:
+- They joined from their laptop.
+
+## Transcript
+
+Jump to:
+- [Warm up](#warm-up)
+- [Dashboard](#dashboard)
+- [Question details](#question-details)
+- [Cool down](#cool-down)
+
+### Warm up
