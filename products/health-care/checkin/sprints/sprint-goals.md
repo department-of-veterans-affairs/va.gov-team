@@ -135,12 +135,11 @@ ________________________________________________________________________________
           - Removed from sprint because need to wait for UX wireframes
         - ✔️ 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
-        - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
+        - ✔️ 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
         - ✔️ 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
         - ✔️ 🟩 [Update eCheck-in Application for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - ~**NOTE: We need to schedule staging review**~
         - ✔️ **NOTE: Once we are done with the new landing page minus the upcoming appointments, we need to schedule a demo for Kay/Kristen/Stephen to see if they want us to release it**
              - ✔️ **SUB-NOTE: Prior to OCTO review, meet as CIE team to demo and review if release has added value to Veterans, knowing that interdependent features were removed, e.g., upcoming appointments**
                   - Met with Kristen and then met with CIE team; design is making a quick change, then FE will make a few tickets to implement those changes to mitigate concerns around, 1) losing unintended functionality due to incremental release approach 
