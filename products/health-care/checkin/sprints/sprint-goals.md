@@ -87,7 +87,7 @@
         - 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
         - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
         - 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
-        - 🟩 [SPIKE: Can we use the new DS simplified footer component? ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)
+        - 🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)
         - 🟩 [[FE] - Removed old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
 </details>
 
