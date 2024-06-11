@@ -18,30 +18,30 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 * Dynamic elements that reveal content (tooltips/alerts) must be keyboard accessible; allow screen readers to read dynamic content
 
 ### Vision
-- [ ] Adhere to appropriate color combinations (maintain acceptable contrast)
-- [ ] Accommodate browser zoom function to 400% with no scroll or reflow
-- [ ] Ensure all elements are ‘colorblind visible’
-- [ ] When displaying charts and diagrams, include visible or hidden tabular data
-- [ ] Avoid CSS background images if image is meaningful (vs. decorative) or presented as content
-- [ ] Avoid using color as the sole conveyance of information (e.g. red for error)
-- [ ] Generally, text should be presented no smaller than 13px on-screen (guideline)
+- [x] Adhere to appropriate color combinations (maintain acceptable contrast)
+- [x] Accommodate browser zoom function to 400% with no scroll or reflow
+- [x] Ensure all elements are ‘colorblind visible’
+- [x] When displaying charts and diagrams, include visible or hidden tabular data
+- [x] Avoid CSS background images if image is meaningful (vs. decorative) or presented as content
+- [x] Avoid using color as the sole conveyance of information (e.g. red for error)
+- [x] Generally, text should be presented no smaller than 13px on-screen (guideline)
 
 ### Screen Readers
-- [ ] Use HTML 5 semantic markup
-- [ ] Use native HTML elements where possible (e.g. buttons and form elements)
-- [ ] Use appropriate ALT tags for images
-- [ ] Ensure FOR attributes exist for form inputs
-- [ ] Accommodate UI state changes (e.g. sorted table)
-- [ ] Use properly formed HTML tables for tabular data
-- [ ] Ensure dynamic elements have proper ARIA tagging
-- [ ] Ensure elements read on focus
+- [x] Use HTML 5 semantic markup
+- [x] Use native HTML elements where possible (e.g. buttons and form elements)
+- [x] Use appropriate ALT tags for images
+- [x] Ensure FOR attributes exist for form inputs
+- [x] Accommodate UI state changes (e.g. sorted table)
+- [x] Use properly formed HTML tables for tabular data
+- [x] Ensure dynamic elements have proper ARIA tagging
+- [x] Ensure elements read on focus
 
 ### Motor/Keyboard
-- [ ] Ensure all functional elements are keyboard accessible (minimum: tab/enter)
-- [ ] Implement tab-trapping for modals and other imperative elements
-- [ ] Include content skips for areas with large lightly-accessed elements (e.g. navigation)
-- [ ] Ensure consistent, logical tab flow across screen; avoid trapped tabbing (ex. modals and other imperative content)
-- [ ] Consider ‘target size’ of mouse-clickable elements
+- [x] Ensure all functional elements are keyboard accessible (minimum: tab/enter)
+- [x] Implement tab-trapping for modals and other imperative elements
+- [x] Include content skips for areas with large lightly-accessed elements (e.g. navigation)
+- [x] Ensure consistent, logical tab flow across screen; avoid trapped tabbing (ex. modals and other imperative content)
+- [x] Consider ‘target size’ of mouse-clickable elements
 
 ### 508 Review Process
 * Self-evaluation
