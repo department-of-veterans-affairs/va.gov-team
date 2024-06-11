@@ -4,7 +4,7 @@
 
 We presented at the CRM team's Change Control Board meeting on June 11, 2024. The Change Control board is made up of business lines who are stakeholders for Ask VA (AVA).
 
-We presented fields that we can remove to enhance the submitter experience, which included:
+We presented two fields that we can remove to enhance the submitter experience:
 - Reason you're contacting us
 - Gender
 
