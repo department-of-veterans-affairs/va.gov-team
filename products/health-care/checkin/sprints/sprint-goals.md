@@ -68,6 +68,7 @@
         - We will need to go through staging review with Appts team before we release
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
+        - Here are the updated wireframes: https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3181-3191&t=DFFtXsWzfBNMQy17-1
         - 🟩 [[FE] OH travel add card and content to appointment select ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85599)
         - 🟩 [[FE] OH travel - Update conent on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85600)
         - 🟩 [[FE] OH travel expandable alert for appointment select page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85597)
