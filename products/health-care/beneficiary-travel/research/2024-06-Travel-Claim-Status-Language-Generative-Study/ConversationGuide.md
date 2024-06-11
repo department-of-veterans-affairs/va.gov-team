@@ -55,11 +55,11 @@ Before we start, I have a few things that I want to go over with you:
 
 * This entire session should take about 45 - 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. We may also end sooner than that, and if we have covered everything I want to cover I'd love to give your time back to you.
 * Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-* We like to record to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
 * We will be spending most or all of our time together conducting some thought exercises in a platform called Mural.  I will share my screen and ask you a series of questions as we go through these exercises.
 * In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+* We like to record to confirm that we’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
 
-Knowing this, are you comfortable if I record my screen and audio as we talk today? Are you comfortable with it if we share anonymized video clips with our VA colleagues for research purposes?
+Knowing this, **are you comfortable if I record my screen and audio as we talk today?** Are you comfortable with it if we share anonymized video clips with our VA colleagues for research purposes?
 
 
 
@@ -78,7 +78,7 @@ _Start recording._
 * Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
 
-## **Context setting and questions (max 5 min) **
+## **Context setting and questions - max 5 min**
 
 Like I said, our time today is about how you manage or monitor your claims for travel reimbursement from the VA.  Specifically, I want to talk about how you think about a claim after you have submitted it for reimbursement.
 
@@ -99,6 +99,7 @@ Q2: When you hear the term “claim status”, what do you think of?
 
 Ok great! Now I am going to share my screen and we are going to dive into the exercises I mentioned earlier. 
 
+[Link to Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717691947437/6c7026cc7e4a616a131c355dbfaecd2a05eb152f?sender=ucbacbd1daef36939e8aa2288)
 
 ## **Consent to use video clips**
 
