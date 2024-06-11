@@ -25,10 +25,11 @@ We'll use this data to:
 - The use of the "sort by" drop down will decrease because Veterans will select one of the facilities in list with the defaulted "recent locations."
 
 ## Methodology	
-We will track: 
-- The "Sort by Recent locations" feature usage in Data dog for one month after the feature is released.
-- The "Sort by Recent locations" feature Medallia feedback from the two months before and after the feature is released.
+In Data Dog, we will track: 
+- The "Sort by Recent locations" feature usage in Data dog for one month after the feature is released. Specifically, if users are clicking to change the default from "Sort by Recent locations" to something else. And if they are, what are they changing it to?
 - The amount of time on page before and after implementing the change. 
+In Medallia, we will track:
+- Feedback from the two months before and after the feature is released to see if any comments surface around the changes.
 
 ## Timeline
 The "Sort by Recent locations" feature was released to prod on [Date]. We'll track usage for one month after that.
