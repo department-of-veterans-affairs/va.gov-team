@@ -4,8 +4,11 @@
 ## Agenda
 - Updates on responses to OCTO feedback in this document: [Overall Finding of IVC code by VA office of CTO Engineering](https://dvagov-my.sharepoint.com/:w:/r/personal/premal_shah_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B22A7CC02-9D93-47A8-800C-9ECBC90FA513%7D&file=Overall%20Finding%20of%20IVC%20code%20by%20VA%20office%20of%20CTO%20Engineering.docx&action=default&mobileredirect=true)
    - Report back to OCTO team
-- What's left for launch
+- What's left for launch (10-10d)
    - "post go-live" label added in Zenhub to indicate things that are NOT part of launch
+   - Confirmation page and email still need content/ux work
+   - Error handling on submit
+   - Product is putting together release plan and targets for upcoming sprints
 - QA topics
    - [PDF Validation](https://dsva.slack.com/archives/C068Y3ZFKNJ/p1718057908811949?thread_ts=1717690517.038599&cid=C068Y3ZFKNJ)
 
