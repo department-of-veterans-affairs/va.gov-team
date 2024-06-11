@@ -28,4 +28,4 @@ The Identity Postman collection cannot perfectly imitate a web browser - in part
 Interacting with dev & staging SiS through Postman is largely the same as the process on localhost; you will still need to authenticate through an `/authorize` request with a `code_challenge` that you have the corresponding `code_verifier` to, then copy the `code` passed to the frontend `/callback` route into Postman to receive your tokens. In addition, the following changes will need to be made to the preceding workflow:
 
 1. The `vets_api_env` variable must be set to `https://{dev|staging}-api.va.gov` - note the necessary `https` scheme.
-2. In order to prevent the vets-website frontend from calling the `/token` endpoint immediately and rendering the copied `code` useless you must prevent the request from sending in your browser's devtools: block `{dev|staging}-api.va.gov/v0/sign_in_token`
+2. In order to prevent the vets-website frontend from calling the `/token` endpoint immediately and rendering the copied `code` useless you must prevent the request from sending in your browser's devtools: block `{dev|staging}-api.va.gov/v0/sign_in/token`
