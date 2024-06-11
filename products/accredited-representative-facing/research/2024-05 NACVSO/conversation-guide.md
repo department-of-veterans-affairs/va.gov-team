@@ -1,11 +1,10 @@
-# Conversation Guide for ARF Team, Accredited Representative Portal, NACVSO Intercept Testing, 05/2024<a id="conversation-guide-for-arf-team-accredited-representative-portal-nacvso-intercept-testing-052024"></a>
+# Conversation Guide for ARF Team, Accredited Representative Portal, NACVSO Intercept Testing, 05/2024
 
-## Team Logistics<a id="team-logistics"></a>
+## Team Logistics
 
 [See detailed schedule](https://docs.google.com/document/d/1aNsZalLMW3QBwPbXq_g40ytuUSFRspMliNXj7VkQJZQ/edit)
 
-
-### Exhibit hall setup<a id="exhibit-hall-setup"></a>
+### Exhibit hall setup
 
 - Tablecloth (Lesley)
 - **Impression and preference testing**
@@ -24,13 +23,13 @@
     - Tape instruction sheet to board (Rebecca bringing)
 - **Candy jar** (Lesley/Kristen)
 
-### Introductions<a id="introductions"></a>
+### Introductions
 
 _When approaching participants, before engaging in any of the intercept prompts, make sure you introduce yourself and the team. There are intercept-specific introductions and instructions for ending participant engagement below\._
 
 Hello, my name is \[NAME], I am part of the Accredited Representative Facing team at the Department of Veterans Affairs. We’re working on developing tools for VSOs to improve their work with Veterans and efficiencies with the VA. Our Accredited Representative Portal is a secure, user-friendly platform designed for VSOs like yourself to streamline Power of Attorney requests and claims processing and reduce the time to accessing a Veteran’s information in VBMS. 
 
-## Intercepts<a id="intercepts"></a>
+## Intercepts
 
 **Jump to…**
 - [Open-Ended Interview Questions](#open-ended-interview-questions)
@@ -43,13 +42,13 @@ Hello, my name is \[NAME], I am part of the Accredited Representative Facing tea
 
 ***
 
-## Open-Ended Interview Questions<a id="open-ended-interview-questions"></a>
+## Open-Ended Interview Questions
 
 Location: Anywhere at conference
 
 Setup: Bring a notepad or phone to take notes on the conversation
 
-### Introduction<a id="introduction"></a>
+### Introduction
 
 I have some questions about your current POA process. It should only take a few minutes of your time and would help my team understand how to support VSO representatives like yourself better. Would you be open to chatting for a few minutes? 
 
@@ -59,7 +58,7 @@ Is it OK if I just jot down some notes for my team while we talk? I want to make
 
 _\[Wait for consent]_
 
-### Questions<a id="questions"></a>
+### Questions
 
 _Note: Question prompts are meant to be open-ended and not prescribed. You can choose to start with any/all questions in the list, and probe deeper into any topics that come up._ 
 
@@ -101,23 +100,23 @@ _Note: Question prompts are meant to be open-ended and not prescribed. You can c
 2. If a Veteran is in person, how would you like to fill out the 21-22 if there were a digital option, and the Veteran had to sign in to complete?
 3. What % of Veterans/claimants do you anticipate would request POA online (i.e. digital submission) vs. working directly with you to complete the 21-22 form?
 
-### Ending engagement <a id="ending-engagement"></a>
+### Ending engagement
 
 Thank you for talking with me today! Your feedback is really helpful to improve representative tools and improve efficiencies with supporting Veterans. My team is located at \[place in exhibit hall] with some other activities if you’re interested in providing more input on the future of representative tools. Here is my card if you’d like to stay in touch for feedback opportunities after the conference. 
 
-### Post-engagement 
+### Post-engagement
 
 Open [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSdBLM-qJTaA-SmAvf4H_KRn-Y13O60-yYWCfI8wAzlrNLwO7A/viewform), input notes from interaction.
 
 ***
 
-## Talk Back Boards<a id="talk-back-boards"></a>
+## Talk Back Boards
 
 Location: At the table in the exhibit hall
 
 Setup: At the start of each day, post a different topic to the board each day for broad rep feedback. Provide sticky notes and sharpies for participants to respond, and have stickers for people to up-vote other’s answers. This can be done unmoderated, but prompts are included for each day to engage with the participants.
 
-### Prompts<a id="prompts"></a>
+### Prompts
 
 | **Day** | **Written prompt** | **Optional discussion prompts** |
 | --- | --- | --- |
@@ -126,13 +125,13 @@ Setup: At the start of each day, post a different topic to the board each day fo
 | 3 | What digital tools do you use to support Veterans? | <ul><li>How do these tools make you feel / how do you feel about these tools? _Encourage them to use “Feelings” stickers._</li><li>What’s your favorite tool?</li><li>What’s your least favorite tool?</li></ul> |
 | 4 | If you could wave a magic wand, what digital tools would VA create for you? | <ul><li>Can you think of one feature that would be a game changer?</li></ul> |
 
-### Ending engagement <a id="ending-engagement-1"></a>
+### Ending engagement
 
 Take a photo of the talkback board at the end of the day, or when the board becomes too full of stickies for more input. Collect/keep stickies and add to the [Google Form](https://forms.gle/FnZdNxu5PXm43jpV7) or the [talkback notes spreadsheet](https://docs.google.com/spreadsheets/d/1kAYy5GkcH4_j3hESreY3u-ak2dq7kTKdFcsYmLj1u3s/edit) at the end of each day. 
 
 ***
 
-## Concept & Preference Testing<a id="concept--preference-testing"></a>
+## Concept & Preference Testing
 
 Location: At the table in the exhibit hall
 
@@ -143,11 +142,11 @@ Setup: Paper mocks of the testing material will be shown to the participants. Se
 - Day 3: [Standard decline message](https://www.figma.com/file/Cj48OstdxhxbnMoEb4pQmv/NACVSO-printed-assets?type=design\&node-id=55%3A16442\&mode=design\&t=fk3RfmAiaQLQ1FTw-1)
 - Day 4: Navigation, header & footer ([homepage](https://www.figma.com/file/Cj48OstdxhxbnMoEb4pQmv/NACVSO-printed-assets?type=design\&node-id=55%3A16442\&mode=design\&t=fk3RfmAiaQLQ1FTw-1) + [dropdowns](https://www.figma.com/file/Cj48OstdxhxbnMoEb4pQmv/NACVSO-printed-assets?type=design\&node-id=55%3A16442\&mode=design\&t=fk3RfmAiaQLQ1FTw-1))
 
-### Day 1: Homepage<a id="day-1-homepage"></a>
+### Day 1: Homepage
 
-#### Introduction<a id="introduction-1"></a>
+#### Introduction
 
-Hi! We’re designing a new portal for VSOs. Do you have a few minutes to give us your feedback on  some options we’re considering for a homepage? 
+Hi! We’re designing a new portal for VSOs. Do you have a few minutes to give us your feedback on some options we’re considering for a homepage? 
 
 \[_\[Wait for consent]_
 
@@ -155,7 +154,7 @@ Is it OK if I just jot down some notes for my team while we talk? I want to make
 
 _\[Wait for consent]_
 
-#### Prompts<a id="prompts-1"></a>
+#### Prompts
 
 1. Take a look at these different options for a homepage and give us your impressions. Feel free to write your feedback on sticky notes (_or we write for them_). 
 2. Let us know which you like most and why. Use a sticker to vote for your favorite (_or we place the sticker for them_).
@@ -165,17 +164,17 @@ _\[Wait for consent]_
    3. Who do you think this website is for and what can that person do on it?
    4. Anything else you’d like to tell us?
 
-#### Ending engagement 
+#### Ending engagement
 Thank you for talking with me today! Your feedback is really helpful to improve representative tools and improve efficiencies with supporting Veterans. If you come back another day we’ll have other activities to provide feedback. Here is my card if you’d like to stay in touch for feedback opportunities after the conference. 
 
 #### Post-engagement
 Open [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSdBLM-qJTaA-SmAvf4H_KRn-Y13O60-yYWCfI8wAzlrNLwO7A/viewform), input notes from interaction.
 
-### Day 2:  Search/filter<a id="day-2-searchfilter"></a>
+### Day 2: Search/filter
 
-#### Introduction<a id="introduction-2"></a>
+#### Introduction
 
-Hi! We’re designing a new portal for VSOs that will allow you to accept a power of attorney request directly from a Veteran, submitted through VA.gov, and then get instant access to VBMS. Do you have a few minutes to give us your feedback on  some options we’re considering for viewing and navigating those requests?
+Hi! We’re designing a new portal for VSOs that will allow you to accept a power of attorney request directly from a Veteran, submitted through VA.gov, and then get instant access to VBMS. Do you have a few minutes to give us your feedback on some options we’re considering for viewing and navigating those requests?
 
 _\[Wait for consent]_
 
@@ -183,7 +182,7 @@ Is it OK if I just jot down some notes for my team while we talk? I want to make
 
 _\[Wait for consent]_
 
-#### Prompts<a id="prompts-2"></a>
+#### Prompts
 
 _\[Show only the 3 blank search options: A2, E1, E2]_
 
@@ -197,15 +196,15 @@ _\[Show only the 3 blank search options: A2, E1, E2]_
    2. How would you expect to search for POA requests?
    3. How would you imagine this changing your POA process?
 
-#### Ending engagement 
+#### Ending engagement
 Thank you for talking with me today! Your feedback is really helpful to improve representative tools and improve efficiencies with supporting Veterans. If you come back another day we’ll have other activities to provide feedback. Here is my card if you’d like to stay in touch for feedback opportunities after the conference. 
 
 #### Post-engagement
 Open [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSdBLM-qJTaA-SmAvf4H_KRn-Y13O60-yYWCfI8wAzlrNLwO7A/viewform), input notes from interaction.
 
-### Day 3: Decline message<a id="day-3-decline-message"></a>
+### Day 3: Decline message
 
-#### Introduction<a id="introduction-3"></a>
+#### Introduction
 
 Hi! We’re designing a new portal for VSOs that will allow you to accept or decline a power of attorney request directly from a Veteran. Do you have a few minutes to give us your feedback on some options we’re considering for declining a request?
 
@@ -215,7 +214,7 @@ Is it OK if I just jot down some notes for my team while we talk? I want to make
 
 _\[Wait for consent]_
 
-#### Prompts<a id="prompts-3"></a>
+#### Prompts
 
 1. Imagine that you are looking at this PoA request. (Show request with limitations on health records–maybe Gordon Diaz.) Would you accept or decline?
    1. Let’s say you decline. How would you do that?
@@ -229,17 +228,17 @@ _\[Wait for consent]_
    1. Do you or your organization decline POA requests? If so, how do you communicate with the Veteran about the reasons why?
    2. Would either of these options reduce the amount of work you or others in your office need to do?
 
-#### Ending engagement 
+#### Ending engagement
 Thank you for talking with me today! Your feedback is really helpful to improve representative tools and improve efficiencies with supporting Veterans. If you come back another day we’ll have other activities to provide feedback. Here is my card if you’d like to stay in touch for feedback opportunities after the conference. 
 
 #### Post-engagement
 Open [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSdBLM-qJTaA-SmAvf4H_KRn-Y13O60-yYWCfI8wAzlrNLwO7A/viewform), input notes from interaction.
 
-### Day 4:  Navigation<a id="day-4-navigation"></a>
+### Day 4: Navigation
 
 Re-use one of the [homepage print outs](https://www.figma.com/file/Cj48OstdxhxbnMoEb4pQmv/NACVSO-printed-assets?type=design\&node-id=55%3A16442\&mode=design\&t=fk3RfmAiaQLQ1FTw-1) (you choose which one!) and print out [these dropdowns](https://www.figma.com/file/Cj48OstdxhxbnMoEb4pQmv/NACVSO-printed-assets?type=design\&node-id=55%3A16442\&mode=design\&t=fk3RfmAiaQLQ1FTw-1) of the authenticated header and the “About” and “Accreditation” nav dropdowns. (“Power of Attorney” does not have a dropdown.) You can hold up or tape to the Homepage print out.
 
-#### Introduction<a id="introduction-4"></a>
+#### Introduction
 
 Hi! We’re designing a new portal for VSOs. Do you have a few minutes to give us your feedback on navigating the portal?
 
@@ -249,7 +248,7 @@ Is it OK if I just jot down some notes for my team while we talk? I want to make
 
 _\[Wait for consent]_
 
-#### Prompts<a id="prompts-4"></a>
+#### Prompts
 
 _\[Without showing the navigation dropdowns]_
 
@@ -261,7 +260,7 @@ _\[Without showing the navigation dropdowns]_
 
 Now we’ll show you what happens when you click on these menu items. 
 
-_\[Hold up paper cut outs with the dropdowns to reveal the pages nested  under each one.]_
+_\[Hold up paper cut outs with the dropdowns to reveal the pages nested under each one.]_
 
 - Tell me about the options you see here. 
 - Is anything missing?
@@ -269,7 +268,7 @@ _\[Hold up paper cut outs with the dropdowns to reveal the pages nested  under 
 - Is there anything in the header that you’d expect to find elsewhere instead?
 - Is there anything in the footer that you’d expect to find elsewhere instead?
 
-### Ending engagement <a id="ending-engagement-2"></a>
+### Ending engagement
 
 Thank you for talking with me today! Your feedback is really helpful to improve representative tools and improve efficiencies with supporting Veterans. If you come back another day we’ll have other activities to provide feedback. Here is my card if you’d like to stay in touch for feedback opportunities after the conference. 
 
@@ -279,7 +278,7 @@ Open [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSdBLM-qJTaA-Sm
 
 ***
 
-## Mobile ARP Feedback<a id="mobile-arp-feedback"></a>
+## Mobile ARP Feedback
 
 Location: Anywhere at the conference
 
@@ -304,7 +303,7 @@ Are you able to scan a QR code or would you like to look at the design on my pho
 
 _\[Wait for option]_
 
-### Prompts<a id="prompts-5"></a>
+### Prompts
 
 1. Do you (or does anyone in your office) ever use a mobile phone or tablet to fill out forms with Veterans?
    1. Is there any reason you can think of that having a phone or tablet-ready tool to support your work with Veterans would be used by your organization?
@@ -346,7 +345,7 @@ Open [Google Forms link](https://docs.google.com/forms/d/e/1FAIpQLSdBLM-qJTaA-Sm
 
 ***
 
-## Claims Clinic Observation<a id="claims-clinic-observation"></a>
+## Claims Clinic Observation
 
 Location: At the claims clinic
 
@@ -357,20 +356,20 @@ _Instructions for claims clinic observers_:
 - Assume the role of a “trainee” rather than a researcher
 - **Do not** capture any notes that record PII/PHI
 
-### Start of observation<a id="start-of-observation"></a>
+### Start of observation
 
 The researcher should record the following:
 - Date/time
 - The home VSOrg of the rep being shadowed
 - Their claims clinic gear (E.g. Do they have a computer? PIV card and reader? Mobile phone or tablet? Paper forms?)
 
-### Claimant initiation<a id="claimant-initiation"></a>
+### Claimant initiation
 
 The researcher should record the following:
 - How does the representative introduce themselves to the Veteran/claimant? What title/org information do they provide?
 - What is their “pitch” - how do they describe representation to the Veteran/claimant?
 
-### POA/Claims process<a id="poaclaims-process"></a>
+### POA/Claims process
 
 The researcher should record the following:
 - How does the representative explain the 21-22? 
@@ -399,7 +398,7 @@ Design asset: [Find a Representative](https://www.va.gov/get-help-from-accredite
 
 _Note: priority should be given to collecting feedback for ARP and gaps in cross-accredited user mental models. If an opportunity arises where a representative wants to continue giving feedback or has referenced Veterans finding their information online, shift to FAR intercept._
 
-### Introduction<a id="introduction-6"></a>
+### Introduction
 
 There’s a new tool on VA.gov that helps Veterans and non-Veteran claimants locate VSO representatives near them. Would you like to take a look at the tool and provide some feedback?
 
@@ -409,7 +408,7 @@ Is it OK if I just jot down some notes for my team while we talk? I want to make
 
 _\[Wait for consent]_
 
-### Questions<a id="questions-1"></a>
+### Questions
 
 1. Feel free to read down the page; does anything stand out to you?
 2. What would you change about the page?
