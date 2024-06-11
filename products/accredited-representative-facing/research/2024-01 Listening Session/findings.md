@@ -8,11 +8,9 @@ Date: 02/02/2024
 
 **Jump to:**
 
-[Responses to Demographic and Behavioral Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#responses-to-demographic-and-behavioral-questions)
-
-[Summary of Open-Ended Responses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#summary-of-open-ended-responses)
-
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#appendix)
+- [Responses to Demographic and Behavioral Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#responses-to-demographic-and-behavioral-questions)
+- [Summary of Open-Ended Responses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#summary-of-open-ended-responses)
+- [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/01-23-24-listening-session.md#appendix)
 
 
 ## Summary of Engagement
@@ -30,9 +28,7 @@ The ARF design team was invited to lead the session, facilitating feedback from 
 The session’s hour-long agenda included:
 
 - Kara introducing the speakers and provided an overview of our project (15 minutes)
-
 - Rebecca facilitating questions and answers using Poll Everywhere (35 minutes)
-
 - Renata sharing the team’s next steps and inviting participants to sign up for further feedback opportunities (10 minutes)
 
 
@@ -43,33 +39,19 @@ Note that the Poll Everywhere tool was limited to 25 participant responses.
 ### Where are you located?
 
 - Colorado
-
 - Connecticut 
-
 - Indiana
-
 - Maryland
-
 - Michigan
-
 - Minnesota
-
 - Nevada
-
 - New Jersey
-
 - North Carolina
-
 - North Dakota
-
 - Ohio 
-
 - Rhode Island
-
 - Texas
-
 - Virginia
-
 - Washington, DC
 
 
@@ -84,7 +66,6 @@ Note that the Poll Everywhere tool was limited to 25 participant responses.
 Other:
 
 - Kim Shalloo NACVSO (National Association of County Veterans Service Officers) Executive Director
-
 - Diaine Boyd Rauber, Executive Director, National Organization of Veterans’ Advocates (NOVA), representing accredited attorneys and claims agents
 
 
@@ -120,7 +101,6 @@ Other:
 Chat: 
 
 - Never
-
 - We use Tyler TVB every day.
 
 
@@ -134,52 +114,38 @@ The numbers in parentheses at the end of each item reflect the number of people 
 ### What would make the power of attorney process easier?
 
 1. Immediate access to VBMS, including the Veteran’s eFolder and files within it (13)
-
 2. An ability to check information prior to accepting POA, such as if any claims, Higher-Level Reviews, or appeals are pending (3)
-
 3. Ability for the Veteran to see and request/select a specific person from the Veteran Service Organization (2)
 
 ### Discussion
 
 - **There are access issues.** The two blocks on the back of the 21-22 \[20: Limitation of Consent; 21: Authorization to change claimant’s address] give you access to records. If the boxes aren’t checked, you don’t get access to the eFolder in VBMS. Can require a rep to go to a field office to prove the VSO should have access and get eFolder access initiated.
-
 - **POA can get deactivated over time**. When the VA comes out with a newer version of the form, the older versions are obsolete and they’re required to submit a new one. Therefore, a VSO can have clients for many years then lose PoA because the 21-22 was filled out (and PoA established) a long time ago. This comes up because there can be long gaps until the Veteran needs assistance again after initially establishing PoA.
 
 
 ### What this means for us
 
 - Our MVP includes the ability for VSOs to get immediate access to VBMS files upon accepting PoA, so this validates that our focus will have a big impact for VSOs.
-
 - Investigate how we might allow representatives to see information about a Veteran prior to accepting PoA, such as pending claims or appeals and if they already have representation. Some of this information is in BIRLS (Beneficiary Identification and Records Locator (Sub)System) and some is already in SEP. 
-
 - Investigate if/how a Veteran can request/select a specific person from a VSO. This relates to functionality Accredited Representative Management (ARM) project team is building as of 1/30/24: 
-
   - Veterans will see individual officers in the search feature and their names and emails (when available) will be populated in fields 16A and 17 respectively on the 21-22 form. 
-
   - This follows on to a comment from Martin Caraway about edge cases requiring limited organizational access to a Veteran’s files.
-
 - Investigate how to reduce the need for Veterans to resubmit the 21-22 form and/or how to notify Veterans, VSOrgs, and/or VSOfficers when they might lose PoA due to form updates, encouraging them to submit a new form to avoid a gap in access. ([VA Notify](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md) is a resource).
 
 
 ### What would help you better assist Veterans in filing claims?
 
 1. Ability to upload and access documents directly and instantly in VBMS (9)
-
 2. Better training for VA employees/raters; fewer errors (7)
-
 3. Ability to label, describe, and re-label evidence and have accurate descriptions of evidence in VBMS (7)
-
 4. Access to and responses from raters (5)
 
 
 ### Discussion
 
 - **Access to raters varies.** In one regional office, the participants said they have access pretty much to the whole VRO in terms of raters and VSRs, within reason. If they send an email, they get a reply, but if they go beyond the VRO they get a lot of “no” or “you need to use the email box” responses. 
-
 - **Timely responses are important.** Participant said they don’t have a week to wait for a response while it goes through channels. It can average 3-5 days to get a response, and by that point, they’re on to the next Veteran’s claim and it may be irrelevant.
-
 - **Poor labeling leads to inefficiencies.** VFW explained when they update evidence through SEP, their ability to label it is limited. When they upload documents through third party systems or direct submit, they have no way of stating “this is what this evidence is” and consequently the VSR will label the evidence as they see fit, and it’s not always labeled correctly. Others agreed and suggested representatives be allowed to label and re-label/correct labels and descriptions when needed.
-
 - **There are common errors from VSRs.** Not following adjudication procedures (ex: outdated forms), not requesting a Nexus letter when needed, incorrect or missing information for exam requests, and overdevelopment for claims when the information is already in VBMS. 
 
 
@@ -191,25 +157,20 @@ The numbers in parentheses at the end of each item reflect the number of people 
 ### What would make it easier for you to track and monitor the status of claims?
 
 1. More detailed notes from raters (6)
-
 2. Notification, alert, or email to the individual representative (listed on the 21-22) once something is done with claim / status changes (4)
-
 3. Having a point of contact once the claim is in the national work queue (2)
 
 
 ### Discussion
 
 - **Value and type of notifications desired vary.** One participant wanted a notification when anything is done to a claim: it gets assigned for rating or RFD, etc. They don’t want to have to go check each case or search through all caseloads. Another participant said if they got emails on all claims, this would get overwhelming. Caseload could be a huge factor; representatives who see 32 Veterans per week don’t need 96 pings each week on the status of their claims. One suggestion was to have an opt-in option: “I would like notifications.” 
-
 - **They are concerned over irrelevant notifications and “notification noise.”** Potentially there are millions of claims in a VSOrg, so participants expressed the desire to filter or only see what's relevant to them based on their OGC number. One participant suggested if they are the one submitting the claim, it could be tagged or assigned to them. In VBMS, there’s data validation when you submit a POA; the OGC numbers (including the 3-digit POA code for the organization and 5-digit Registration/Accreditation Number for the individual) and/or email address on the 21-22 could allow the VA to track the individual officer tied to a claim. If a representative didn’t file a claim, they don’t want an update on it. One participant said, “I am looking at 90 emails right now, please do not send me notifications (repeated 3 times).”
-
 - **They want claims to be associated with individual representatives.** VBMS works well for tracking claims under “My Claims;” you can find a Veteran and add them to your personal claims queue. Not all representatives on the call were aware of or use this functionality in VBMS.
 
 
 ### What this means for us
 
 - We need to be very intentional in how we design notifications to meet the various preferences of different representatives. We may want representatives to have the ability to customize their notification settings. 
-
 - Once working on claims submissions, we should investigate if we have the ability to tie claims to individual representatives as well as raters and their contact information. Raters’ notes are likely outside our scope. 
 
 
@@ -230,13 +191,9 @@ The numbers in parentheses at the end of each item reflect the number of people 
 ## If you were building the perfect tools for accredited representatives, what would you include?
 
 1. A similar but upgraded SEP, with updated forms (11)
-
 2. Ability to submit dependency claims (10)
-
 3. Ability to submit education claims (7)
-
 4. A better way to handle BVA (Board of Veterans Appeals) cases (get rid of Case Flow) (7)
-
 5. An accurate, real-time claims tracking system that the Veteran can access with details (5)
 
 
@@ -254,11 +211,8 @@ The numbers in parentheses at the end of each item reflect the number of people 
 ### What this means for us
 
 - We should build on what SEP does well: fast access to VBMS and fast submission of claims. 
-
 - Develop a content strategy to keep the tool’s content - and especially forms - up-to-date. New form versions likely need to be updated by our team (any manual process) and Lighthouse (for digital submissions).
-
 - Develop a strong change management plan for sunsetting SEP and transitioning SEP users to the new system.
-
 - Ensure our tool works well with any other tools not being sunsetted, and that the scope of what our tool does vs. other tools is clear. Ideally, there would be one tool to do it all, or at least a limit on the number of tools representatives are using.
 
 
@@ -267,9 +221,7 @@ The numbers in parentheses at the end of each item reflect the number of people 
 ## Appendix
 
 - [Slide deck with presentation and polling results](https://docs.google.com/presentation/d/1qytwUkiUPbZ_7XCTci8J4j-kUJwhSelqmAP6pqORbyo/edit)
-
 - [Slide deck of just polling results](https://docs.google.com/presentation/d/1i7FpoDmXTkgFP2dGjtHkKetiAcURbr7ZvjIWlUIeoCk/edit)
-
 - [Spreadsheet of raw and summarized polling results](https://docs.google.com/spreadsheets/d/1Kbh7EMZjQYi-UUN-c6QC8FEHpzfBYd1ty_7d-5a1-is/edit#gid=669491601)
 
 
