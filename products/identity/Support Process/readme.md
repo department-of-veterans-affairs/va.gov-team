@@ -8,13 +8,9 @@ Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support p
 * Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
 * Ability to view all requests holistically.
 
-Create solutions to manage & fulfill requests from other va.gov Product Teams, possibly including:
+Create solutions to manage & fulfill requests from other va.gov Product Teams, including:
 * Intake form
 * Summation of the work we need to do
-
-Potential add-ons (but not primary goal)
-* Estimate of the time it will take (post initial in-take)
-* Prioritization of the request vs. other requests (should be out of scope, dependent of PRODUCT prioritization)
 
 NOTE: As we started doing research, we realized that it would be best to do a MVP (Minimum Viable Product) with a small number of requests in order to test and learn from it. Ideally, how Identity supports other va.gov teams will evolve over time.
 
@@ -37,22 +33,43 @@ The Identity team has products that other teams require our assistance with to d
 - A slackbot to take requests
 - A request fulfillment process
 - Request tracking
+- ID Team Documentation
 
 ## What's In Scope (MVP): 
+
+**Slackbot Support**
+
 For this first iteration, the focus will be on developing the processes as needed to support other teams' requests. For MVP, we've focused on four types of requests
 - PR Review
 - Data pulls
 - Test User Authentication Issues
 
+NOTE: because we piggybacked off of the slackbot developed for Sign-in-Service, it's also a choice in the Slackbot.
 
-These were chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
+These were originally chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
+
+**Holistic Support**
+While the slackbot is the outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint, and created many different avenues of support, including.
+
+- Github support forms
+- Setting up Office Hours
+- Documentation
+  - Who we are
+  - Authentication Issues
+  - About Sign-in Service
+
+**Ticket Tracking**
+  dfdfdfd
+**Initial Metrics**
+Tickets
+Satisfaction Survey
+
 
 ## Out of Scope (MVP): 
 *  Request types that aren't the three listed above.
-*  Deflection & self service, outside of links to documentation.
 *  Communication from Github to the ID Bot
    * Notifying the thread automatically when, say, someone picked up the ticket
-*   Creating metrics to start tracking how we are doing
+
      
 
 ## Use Cases:
@@ -78,9 +95,7 @@ These were chosen because these are requests that our team unambiguously fulfill
   - Data Request
   - Other
 
-* We create the ability to track requests in Zenhub, based upon labels created by the slackbot
-* We put a branding canvas in the #vsp-identity channel 
-* We offer office hours and pairing services
+
 
 We obviously won't worry about Sign-In Service, as that has it's own flow, but "Other" will be useful in determining what choices we want to add next.
 
@@ -100,24 +115,18 @@ We obviously won't worry about Sign-In Service, as that has it's own flow, but "
 
 
 ## Measuring Success:
-Measuring the success of the Request & Support process project will be part of the focus of an entire project: O4KR2 - Establish and publish monthly metrics around response times for VA.gov product teams.
+Measuring the success of the Request & Support process was originally part of the focus of an entire project: O4KR2 - Establish and publish monthly metrics around response times for VA.gov product teams. But it got folded into this.
 
 That said, some initial thoughts on what that project might entail.
 | KPI           | Notes         | 
 | ------------- |:-------------| 
 | Number of requests | On a monthly basis, we track how many requests were fulfilled via the Request & Support | 
 | Percentage of requests | On a monthly basis, we track the percentage of requests that were fulfilled via the Request & Support tracker |
-| Customer Satisfaction | Create a customer satisfaction survey
+| Customer Satisfaction | Customer Satisfication
 
 
 
-## Baseline KPI Values:
-| KPI           | Notes         | 
-| ------------- |:-------------:| 
-|  |               |
-
-
-## Milestones:
+# Milestones:
 * UX Research Completed
 * Process flowchart completed
 * Communication language developed
