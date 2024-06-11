@@ -73,6 +73,7 @@
         - 🟩 [[FE] OH travel expandable alert for appointment select page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85597)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟥 [[DESIGN] Complete all documentation and hold handoff meeting for landing page pivot ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85723)
         - Christina to schedule a hand-off to engineering & Product
         - Brian to create tickets for "new" MVP
     - **Sub Goal: CIE Analytics**
