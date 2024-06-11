@@ -43,6 +43,7 @@ NOTE: because we piggybacked off of the slackbot developed for Sign-in-Service, 
 These were originally chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
 
 **Holistic Support**
+
 While the slackbot is the outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint and created many different avenues of support, including:
 
 - Github support forms for people who don't have Slack.
