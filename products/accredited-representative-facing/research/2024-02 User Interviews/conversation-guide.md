@@ -12,7 +12,7 @@
 
 ### Starting the session
 
-**At least 30min before the session start time**
+#### At least 30min before the session start time
 
 - Log into VA CAG
 - Log into ARF moderator Zoom account **in desktop only**. 
@@ -23,25 +23,28 @@
     - Update the header for an empty session with DATE, TIME.
     - Leave Mural open and zoomed into your empty design activity.
 
-**15 minutes before the session start time**
+#### 15 minutes before the session start time
 
 - Open Slack but Mute your Slack notifications.
-- 15 minutes before the session, post to  [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW):  ARF accredited representative feedback P# starting in ~15 minutes. Details in thread...
-
+- 15 minutes before the session, post to  [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW):  ARP single accredited VSO Rep user testing P# starting in ~15 minutes. Details in thread...
 
 - In the thread, post:
     - Information from the top of the note taking document. Tag the moderator, notetaker, and observers. Post the Zoom link.
     - Instructions:
 
-        How to participate this session:
+> How to participate this session:
+> 
+> Notetakers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20notetaking.md) before you join. Please open this [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711575270185/83b03fe96dcafe9f42b206e0dc3efbfd2457c1f2?sender=u8cf3f08a008c2b61ad621433) to take notes during the session. At the end of the session, please confirm your notes are complete and share the link with the facilitator.
+> 
+> Observers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20observing.md) before you join.
+> 
+> Once (if) the participant agrees to have you join, the facilitator will let you in from the Zoom waiting room.
+> 
+> Use this thread and don't use the Zoom chat. Thanks!
+> 
+> All: Jot down thoughts in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711575270185/83b03fe96dcafe9f42b206e0dc3efbfd2457c1f2?sender=u8cf3f08a008c2b61ad621433) after the session (login with your [va.gov](http://va.gov/) email)
 
-1. Notetakers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Guidelines/Guide%20to%20notetaking.md) before you join. Make a copy of this [notetaking template](https://docs.google.com/document/d/12HpWVV_RPsPzZxqk3qFYCO_HiD4r-Dh5txTv0-uBHqU/edit?usp=drive_link) and once complete, either add it directly to the [Sharepoint folder](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Research/022024%20User%20Interviews/Notes?csf=1&web=1&e=eX0nAE) or add it to [this Google Drive](https://drive.google.com/drive/folders/1r6a_bBUYgSGyw-sZh6uC91iiRoQE6WCH?usp=drive_link) folder and share the link with the facilitator.
-2. Observers: review [these guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Guidelines/Guide%20to%20observing.md) before you join.
-1. Once (if) the participant agrees to have you join, the facilitator will let you in from the Zoom waiting room.
-1. Use this thread and don't use the Zoom chat. Thanks!
-2. All: Jot down thoughts in [this Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706548305852/cc0c080b86ef97bf8c6f252b676dbef807ce9013?sender=ucd326fb05b27d09e40350092) after the session (login with your [va.gov](http://va.gov/) email)
-
-**At least 5-10min before the session start time**
+#### At least 5-10min before the session start time
 
 - From VA CAG, open the Zoom browser app, start the session.
     - Rename the ARF moderator in the session to “moderator” if not already done.
@@ -102,24 +105,24 @@ _Top tasks and workflows: current state_
 
 Thinking about the typical Veteran you support, the next questions will be focusing on what engagement looks like, from seeking representation to benefits received.
 
-1. Walk me through the process of obtaining Power of Attorney for a Veteran or family member, starting from when you first connect with them. What does the process typically look like for you?
+5. Walk me through the process of obtaining Power of Attorney for a Veteran or family member, starting from when you first connect with them. What does the process typically look like for you?
     1. Going back to the POA, how long does the PoA request and acceptance process take?
     2. What tools do you specifically use to prepare and submit a PoA request? Paper forms? Fax? Online submit?
-        * Where are you managing claimants once the PoA has been submitted?
+        - Where are you managing claimants once the PoA has been submitted?
     3. How are you receiving notifications about incoming PoA requests?
     4. After the POA is in place, what typically follows? What are the first tasks you’re doing with a Veteran?
     5. How long, on average, do Veterans wait to hear from a representative after contacting you/your organization?
-        * How are Veterans contacting you?
+        - How are Veterans contacting you?
     6. In your opinion, what are the Veterans’ expectations of you as their representative? 
-        * How do these expectations match the reality of how you work together?
+        - How do these expectations match the reality of how you work together?
     7. What are your top 3 frustrations or challenges with providing effective and efficient support to Veterans?
 
 Thank you for sharing your experience with Power of Attorney and supporting Veterans. The next set of questions are going to focus on how your organization uses tools to manage representation.
 
 _Org-level permissions_
 
-2. Are you able to select your own Power of Attorney requests, or are they assigned to you?
-3. Who in your organization approves and assigns incoming 21-22 requests from Veterans or claimants?
+6. Are you able to select your own Power of Attorney requests, or are they assigned to you?
+7. Who in your organization approves and assigns incoming 21-22 requests from Veterans or claimants?
     1. [If _they_ do] What information do you need about the claimant before you can make?
     2. [Ask to all] What is this experience like for you? Any challenges?
     3. On the 21-22, Field 16 there are boxes to indicate the VSOrg the Veteran wants to appoint, but it also asks for the representative’s name. Have you ever encountered a Veteran who wanted to appoint a specific VSOfficer at [ORG]?
@@ -129,27 +132,27 @@ _Org-level permissions_
         2. Is the denial communicated to the Veteran or family member?
         3. How often are requests denied?
         4. Is this preventable? If so, how?
-4. If you were to design a new experience for representatives to manage requests in order to support Veterans’ claims, who in your organization should be able to handle accepting incoming 21-22 requests?
+8. If you were to design a new experience for representatives to manage requests in order to support Veterans’ claims, who in your organization should be able to handle accepting incoming 21-22 requests?
     6. [If unclear] Would this experience be the same or different from your current system?
-5. [If an accredited rep at a VSO or firm] Does your organization have different user permissions for using [SEP/the tool]?
+9. [If an accredited rep at a VSO or firm] Does your organization have different user permissions for using [SEP/the tool]?
     7. Who is allowed to accept/decline a 21-22 within your organization?
     8. What other levels of user permissions does your organization have for [tool]?
     9. If you were to imagine a brand new tool for managing representation requests, what would you change about the current user permissions that would make your organization more successful?
-6. Before we move onto our next exercise, do you have any questions or anything else you’d like to share about your work as an accredited representative?
+10. Before we move onto our next exercise, do you have any questions or anything else you’d like to share about your work as an accredited representative?
 
 
-## **Second Task: Participatory Design Session - 20 minutes**
+## Second Task: Participatory Design Session - 20 minutes
 
 Thank you for sharing your experiences being an accredited representative with me. I’d like to shift gears to an interactive portion of our session, where we’ll brainstorm ideas around what would help you and other accredited representatives better support Veterans. 
 
-I am going to share my screen to show you some very **early** designs in progress. Nothing here is decided on, it’s meant to be a jumping off point for us to imagine what_ could be_.
+I am going to share my screen to show you some very **early** designs in progress. Nothing here is decided on, it’s meant to be a jumping off point for us to imagine what _could be_.
 
 
-### **Screenshare Prompt & Tech Support**
+### Screenshare Prompt & Tech Support
 
-* [Link to Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706127153075/2a5b791fb4bcd9667d98daaa9586211ea2eab234?sender=u503219bf4e47eab9c75d3838)
+- [Link to Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1706127153075/2a5b791fb4bcd9667d98daaa9586211ea2eab234?sender=u503219bf4e47eab9c75d3838)
 
-_Share screen** from Desktop**, open onto Mural zoomed in on the participant’s session. Keep white paper over each prototype. _
+_Share screen **from Desktop**, open onto Mural zoomed in on the participant’s session. Keep white paper over each prototype._
 
 Can you see my screen?
 
