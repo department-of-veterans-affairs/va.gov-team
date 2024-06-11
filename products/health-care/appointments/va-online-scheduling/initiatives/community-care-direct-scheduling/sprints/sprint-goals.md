@@ -52,6 +52,7 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
+         - 🟨 [Incorporate feedback to convo guide](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85686)
          - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
          - 🟨 Submit research materials to Shane
          - 🟨 [Schedule and conduct pilot session for evaluative & Figma prototype research](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85471)
@@ -70,6 +71,9 @@ ________________________________________________________________________________
          - TBD 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [[FE] Build out zero results page when no providers are found using filters](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85466)
+         - 🟦 [Provider choose a date and time page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83542)
+         - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
+         - 🟦 [[FE] Filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611)
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
          - 🟪 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
          - 🟥 Lo-fi blueprint for Cancelations 
@@ -122,9 +126,9 @@ ________________________________________________________________________________
      - **Sub Goal: [Feature] Get connected with WellHive**
          - ✔️ ❗ 🟦 [Test WellHive API connection](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84022)
      - **Sub Goal: [Feature] Get CC app within vets-website set up**
-         - 🟦 [Provider choose a date and time page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83542)
-         - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
-         - 🟦 [[FE] Filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611)
+         - :roller_skate: 🟦 [Provider choose a date and time page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83542)
+         - :roller_skate: 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
+         - :roller_skate: 🟦 [[FE] Filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611)
      - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
          - ⛔ :roller_skate: 🟪 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
      - **Sub Goal: [Feature] Get authorized referrals from CDW**
