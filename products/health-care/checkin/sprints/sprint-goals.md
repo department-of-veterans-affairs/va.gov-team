@@ -100,7 +100,7 @@ ________________________________________________________________________________
         - ✔️ 🟥 [Update OH Travel Service Blueprints for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83734)
         - ~🟩 [SPIKE: Update OH Travel Application for Single and Multiple Station Scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83604)~
           - Removed from sprint because need to wait for UX wireframes
-        - 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
+        - ✔️ 🟩 [[FE] - Re-factor OH travel app to be not grouped by facility](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84508)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
         - 🟥 [Update eCheck-in Wireframes for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83730)
         - ✔️ 🟥 [Update eCheck-in Service Blueprints for Multiple Stations Scenario](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83729)
