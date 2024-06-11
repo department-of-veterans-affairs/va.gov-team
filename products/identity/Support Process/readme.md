@@ -5,8 +5,8 @@
 Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
 
 * Create an intake process for feature requests, updates, bug fixes, data requests, etc.
-* Allow folks to self-service (access pre-existing materials/answers/FAQ's as much as possible)
-* Ability to view all requests holistically.
+* Allow folks to self-service and learn about the team (access pre-existing materials/answers/FAQ's as much as possible)
+* Ability to view all requests together.
 * Create metrics to measure support
 
 Create solutions to manage & fulfill requests from other va.gov Product Teams, including:
@@ -32,9 +32,9 @@ The Identity team has products that other teams require our assistance with to d
 
 ## What's In Scope (MVP): 
 
-**Slackbot Support**
+### Slackbot Support
 
-For this first iteration, the focus will be on developing the processes as needed to support other teams' requests. For MVP, we've focused on four types of requests
+For this first iteration, the focus will be on developing the processes as needed to support other teams' requests. For MVP, we've focused on these types of requests
 - PR Review
 - Data pulls
 - Test User Authentication Issues
@@ -43,7 +43,7 @@ NOTE: because we piggybacked off of the slackbot developed for Sign-in-Service, 
 
 These were originally chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
 
-**Holistic Support**
+### Holistic Support
 
 While the slackbot is the outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint and created many different avenues of support, including:
 
@@ -59,7 +59,7 @@ While the slackbot is the outward-facing manifestation of our support process, i
   - [Canvas in #vsp-identity channel](https://dsva.slack.com/canvas/CSFV4QTKN)
     - Contains links to most of the above documentation
 
-**Ticket Tracking**
+### Ticket Tracking
 
 All of the tickets created by the slackbot (or from github) are tagged so that we can view those tickets in ZenHub, and act upon them in a timely manner. An Epic will be created for reporting purposes.
 - [Support Tickets in Zenhub](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/board?epics=Z2lkOi8vcmFwdG9yL0VwaWMvMTEzNjc3NQ&labels=identity-slackbot)
@@ -67,7 +67,7 @@ All of the tickets created by the slackbot (or from github) are tagged so that w
 
 
 
-**Initial Metrics**
+### Initial Metrics
 
 There are two types of things we are initially measuring.
 
@@ -98,12 +98,16 @@ We will be able to view all of the metrics together in a dashboard set up in Dom
 ## Use Cases:
 | User          | Problem       | Solution to their Problem |
 | :------------- |:------------- | :----- |
-|Va.gov product team member | Want to ask a data pull| Slackbot form will standardize data pull request   |
-|Va.gov product team member | Want to ask for PR review  | Slackbot form will standardize PR review request | 
-|Va.gov product team member  | Having issues with Mock Auth   | Slackbot form will standardize Mock Auth issue request
-|Va.gov product team member  | Not sure if I need to engage the Identity Team | Create page to explain who we are and what we do |
-|Va.gov product team member  | Want to make a request from the identity team but I don't have Slack access | Github forms to take requests |
-|Va.gov product team member  | Want to have a conversation with an Identity Team lead | Office hours scheduler |
+|Va.gov product team member | I want to ask a data pull| Slackbot form will standardize data pull request   |
+|Va.gov product team member | I want to ask for PR review  | Slackbot form will standardize PR review request | 
+|Va.gov product team member  | I'm having issues with Mock Auth   | Slackbot form will standardize Mock Auth issue request
+|Va.gov product team member  | I'm not sure if I need to engage the Identity Team | Create page to explain who we are and what we do |
+|Va.gov product team member  | I want to make a request from the identity team but I don't have Slack access | Github forms to take requests |
+|Va.gov product team member  | I want to have a conversation with an Identity Team lead | Office hours scheduler |
+|Va.gov product team member  | I want to give feedback on my experience with the Identity Team | Customer Satisfaction Survey |
+|Identity Team Member  | I want to see all of the support requests | Tagged tickets in Github |
+|Identity Team Member  | I want to see statistics on our requests | Ticket dashboard in Domo |
+|Identity Team Member  | I want to customer satisfication levels | CSR dasboard in Domo |
 
 
 
