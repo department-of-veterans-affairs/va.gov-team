@@ -8,6 +8,8 @@ We presented two fields that we can remove to enhance the submitter experience:
 - Reason you're contacting us
 - Gender
 
+The Change Control Board reviews the slides and votes anonymously in their own time.
+
 ## Outcomes
 
-
+The Change Control Board voted ____.
