@@ -28,12 +28,6 @@ The Identity team has products that other teams require our assistance with to d
 - [Communications plan for slackbot release ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/slackbot%20release%20comms%20plan.md)
 - [Using the Support Process Satisfaction Survey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/user-guide_support-satisfaction-survey.md)
 
-## Potential deliverables:
-- Research findings
-- A slackbot to take requests
-- A request fulfillment process
-- Request tracking
-- ID Team Documentation
 
 ## What's In Scope (MVP): 
 
@@ -49,17 +43,23 @@ NOTE: because we piggybacked off of the slackbot developed for Sign-in-Service, 
 These were originally chosen because these are requests that our team unambiguously fulfills, and we believe that if we run these cases through the full request and support process, we can then expand it to understand other kinds of requests.
 
 **Holistic Support**
-While the slackbot is the outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint, and created many different avenues of support, including.
+While the slackbot is the outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint and created many different avenues of support, including:
 
-- Github support forms
-- Setting up Office Hours
+- Github support forms for people who don't have Slack.
+  - [Product Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/product-issue-template-example.md)
+  - [Engineering Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/engineer-issue-template-example.md)
+- [Office Hours for questions or pairing.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md)
 - Documentation
-  - Who we are
-  - Authentication Issues
-  - About Sign-in Service
+  - [Who we are and what we do and don't support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md)
+  - [Authentication Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md)
+  - [About Sign-in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service)
+  - [How to use the Slackbot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md)
+  - [Canvas in #vsp-identity channel](https://dsva.slack.com/canvas/CSFV4QTKN)
+    - Contains links to most of the above documentation
 
 **Ticket Tracking**
   dfdfdfd
+
 **Initial Metrics**
 Tickets
 Satisfaction Survey
@@ -68,7 +68,10 @@ Satisfaction Survey
 ## Out of Scope (MVP): 
 *  Request types that aren't the three listed above.
 *  Communication from Github to the ID Bot
-   * Notifying the thread automatically when, say, someone picked up the ticket
+   * Notifying the thread automatically when someone picked up the ticket
+* Findings from the UAT research that weren't quick wins.
+     
+     
 
      
 
@@ -77,7 +80,8 @@ Satisfaction Survey
 | :------------- |:------------- | :----- |
 |Va.gov product team member| Want to ask a data pull| [Slackbot form will standardize data pull request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77443)  |
 |Va.gov product team member | Want to ask for PR review  | [Slackbot form will standardize PR review request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77415) | 
-|Va.gov product team member  | Having issues with Mock Auth   | [Slackbot form will standardize Mock Auth issue request](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77444) |
+|Va.gov product team member  | Having issues with Mock Auth   | [Slackbot form will standardize Mock Auth issue request]
+(https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77444) |
 |Identity team member | Which request should we focus on?  | [Create a Triage/Prioritization process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77491) |
 |Identity team member | No standardized language to communicate with users  | [Standardized language for each part of the process](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/77495) |
 |Identity team member | I don't have a top-level view of the requests | [Slackbot will create tickets that will live in a tracker](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/issues/gh/department-of-veterans-affairs/va.gov-team/74677)
