@@ -1,4 +1,4 @@
-# Conversation Guide for Unified Scheduling Usability Study
+# Conversation Guide for unified scheduling and scheduling improvements usability study
 
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
@@ -81,12 +81,23 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## 1: Type of Care - Food and nutrition 
-I need a different type of care>Nutrition and food>Grove City, OH>PID
-Prompt: You need to schedule an appointmen, how would you do that?
+Path they will take: Start scheduling> Alert for urgent care> I need a different appointment>Nutrition and food> (sort by home address) Grove City, OH>PID 6/11> 7/22> Reason for appointment> confirm contact>review details> Confirmation page, not go to review appointemnts
+
+Prompt: You need to schedule an appointment, how would you do that?
+
+On the first timer immediate care alert page: What is this page all about? What would you do here?
+
 On the Schedule an appointment page: What do you think you can do on this page? Would scheduling with a clinc or provider you have seen in the past be helpful for you?  
 You need a food and nutrition appointment. How would you schedule that?
+
 On the Choose a location page: Do you see how these locations are sorted? What do you think that means? Is sorting by recent location something you would want or would you change how it is sorted to something else? Go ahead and change it to sort by home address and find grove city, OH andcontinue.
-On the PID page: You need an appointment for ___ date show me how you would schedule that.
+
+On the PID page: You need an appointment for 6/11 date show me how you would schedule that.
+
+Choose a date and time page: What do you think this page is? How is it differnt from the last page? You want to schedle for the 7/22 at 12. 
+If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
+
+
 
 
 
