@@ -12,8 +12,8 @@ We aim to give Veterans more clarity on the status and outcome of their claim su
 # 4. Delivery
 Using plain, Veteran-focused language to describe the five delivery phases helps maintain focus on Veteran needs and simplifies stakeholder communications. Each phase includes Design, Testing, Implementation, and Research, which are prioritized using a balance of usability, feasibility, viability, and Veteran value. Phase one is prioritized because it addresses one of the most painful parts of the Veteran experience, where much is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team.
 
-| Phase | Name                                                         | Forecasted Date |
-|-------|--------------------------------------------------------------|-----------------|
+| Phase | Feature Name | Forecasted Date |
+|-------|--------------------------------------------------------------|--------------------------------|
 | 1     | [Veterans lack timely & truthful information about their claim](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | August ‘24|
 | 2     | Veterans need a record of their claim and a way to track it  | August ‘24|
 | 3     | Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through | September ‘24|
