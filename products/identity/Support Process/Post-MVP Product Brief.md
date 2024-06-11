@@ -1,6 +1,6 @@
-# Request & Support Process Post-MVP
+# Request & Support Process Post-MVP (DRAFT)
 
-## Overview: 
+## Overview (From the initial Request & Support Product Brief): 
 
 Top Goals:  One of our 2024 OKRs is develop an Identity Team Request & Support process for va.gov, which will help us help other teams far more efficiently than currently.
 
