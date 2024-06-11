@@ -3,6 +3,39 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>SPRINT 10 - 6/26/2024-7/9/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 10 - 6/26/2024-7/9/2024
+
+#### SPRINT GOALS
+- **GOAL: Support Production**
+- **GOAL: Support Congressional Mandate**
+- **GOAL: Increase PCI Usability**
+- **GOAL: Address Tech Debt**
+  
+#### PLANNED RELEASES
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - **Sub Goal: Production Support**
+        - ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)        
+    - **Sub Goal: Move to New AWS Instance**
+        - TBD
+- **GOAL: Support Congressional Mandate**
+    - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
+        - Staging review & finalize content
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - 🟩 Brian to create tickets for "new" MVP
+    - **Sub Goal: CIE Analytics**
+        - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
+        - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
+- **GOAL: Address Tech Debt**    
+    - TBD
+</details>
+
+<details>
 <summary>SPRINT 9 - 6/12/2024-6/25/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 9 - 6/12/2024-6/25/2024
