@@ -28,6 +28,7 @@ We'll use this data to:
 We will track: 
 - The "Sort by Recent locations" feature usage in Data dog for one month after the feature is released.
 - The "Sort by Recent locations" feature Medallia feedback from the two months before and after the feature is released.
+- The amount of time on page before and after implementing the change. 
 
 ## Timeline
 The "Sort by Recent locations" feature was released to prod on [Date]. We'll track usage for one month after that.
