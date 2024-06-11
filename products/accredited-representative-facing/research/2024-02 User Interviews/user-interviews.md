@@ -16,27 +16,17 @@ Kristen Faiferlick, <kristen.faiferlick@adhocteam.us> (session moderation and no
 
 **Jump to:**
 
-[Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#research-goals)
-
-[Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#research-questions)
-
-[Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#methodology)
-
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#key-findings)
-
-[Details of Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#details-of-findings)
-
-[Tasks and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#tasks-and-conclusions)
-
-[Additional Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#additional-insights)
-
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#recommendations)
-
-[Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#next-steps)
-
-[Further Research Needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#further-research-needed)
-
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#appendix)
+- [Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#research-goals)
+- [Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#research-questions)
+- [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#methodology)
+- [Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#key-findings)
+- [Details of Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#details-of-findings)
+- [Tasks and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#tasks-and-conclusions)
+- [Additional Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#additional-insights)
+- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#recommendations)
+- [Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#next-steps)
+- [Further Research Needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#further-research-needed)
+- [Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/research/02-2024-user-interviews.md#appendix)
 
 
 ## Research Goals
