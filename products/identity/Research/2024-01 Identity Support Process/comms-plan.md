@@ -46,7 +46,7 @@ The Identity team manages [user authentication](https://depo-platform-documentat
 - Read our [authentication troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) to resolve common errors.
 - Learn more about our [Sign-in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) and how to get started.
 - To get help from our team, [submit a request to our support Slackbot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/Identity-Slackbot-documentation.md) by typing /identity-support.
-- Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Documents/office-hours.md) to discuss any questions.
+- Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
 **Our team**
 
