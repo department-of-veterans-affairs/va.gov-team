@@ -106,7 +106,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
 **Estimated Duration**: Sprint 36 (7/17 - 7/30/24)*    
 **Actual Delivery Date**:          
-**Environment**: MVP Ship - Production     
+**Environment**: Release 1.0 - Production  
 **Building Blocks:**    
  - [ ] Staging review.
      - [X] Product guide updated.
@@ -116,10 +116,18 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] Contact center review.
  - [ ] Rollback plan in place.
  - [ ] Submit & generatePDF release will update Veterans to using the 2022 PDF with Toxic Exposure questions.
+ - [ ] Post-launch toggle cleanup
 
+#### Milestone: A Veteran filing with a 2019 In Progress Form claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
+**Estimated Duration**: Sprint 37 (7/31 - 8/13/24)*    
+**Actual Delivery Date**:          
+**Environment**: Release 1.1 - Production    
+**Building Blocks:**    
+- [ ] Veterans with the form526 2019 In Progress Form will be selected for the 2022 form 526 and Toxic Exposure questions
+- [ ] OMB component update
+- [ ] Toxic Exposure post-release research planning
+- [ ] Post-launch toggle cleanup
 
-## Next: In Progress Form (IPF) Post-MVP
-TBD - coming soon
  
 
 
