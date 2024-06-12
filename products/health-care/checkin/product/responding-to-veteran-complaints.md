@@ -1,7 +1,7 @@
 # Responding to Application Issues
 
 ## Process for Veterans to Report an Application Issue
-- Veterans contacts the VA help desk when they have an issue with the eCheck-in, Pre-Check-in, or stand-alone Travel applications
+- Veteran contacts the VA help desk when they have an issue with the eCheck-in, Pre-Check-in, or stand-alone Travel applications
 - Help desk uses the appropriate application's Knoweldge Article to determine how to escalate incident tickets
     - [Patient Check-in Knowledge Article](https://yourit.va.gov/va?sys_kb_id=4967ba681b1a59d04f6f5316624bcbbb&id=kb_article_view&sysparm_rank=3&sysparm_tsqueryId=2dbb7b091baad190005287b8624bcbcd)
     - [Pre-Check-in Knowledge Article](https://yourit.va.gov/kb_view.do?sys_kb_id=8c9bd58f1bcbc1d09641a867624bcba9&sysparm_rank=1&sysparm_tsqueryId=d4bae8c11b5b05541c29a867624bcbff)
