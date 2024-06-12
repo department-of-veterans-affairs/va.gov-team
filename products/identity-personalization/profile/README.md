@@ -70,6 +70,9 @@ Veteran data is a mess at the VA. It’s kept in hundreds of databases, and any 
 
 The VA.gov profile aims to solve for this by providing a centralized place that consolidates and displays the information the VA knows about a Veteran/person. It also provides paths to update information as needed, whether that is from the profile itself or outside of VA.gov (eg. in instances where someone needs to change an official government record).
 
+## Vision
+To provide Veterans with a central and streamlined experience when accessing their personal data and benefits and provide pathways to update and connect with other experiences
+
 ## User outcomes
 
 ### Desired user outcomes
