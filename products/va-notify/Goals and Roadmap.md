@@ -15,7 +15,6 @@ Restore Service.
 
 ### Metrics
 Please note, this is for the calendar year 2024.
-**Work in Progress**
 
 #### DORA
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/99204969/ab6f5714-9876-46ba-a2e5-ccc95896c5dd)
