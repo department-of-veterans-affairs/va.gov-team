@@ -20,10 +20,10 @@ Home page template | | High/Med | Kristin (first pass) | Review current [documen
 Sign-in Widget |  | | Kristin | [CAIA Ticket #78520](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78520) | 
 Benefit sub-hub template | | | Kristin | |
 On this page | [On this page component in VADS] | Med/Low | Kristin | Needs guidance added for usage, utilize USWDS to start | 
-Header | | Med/Med | | Componetize header, incorporate Federal header requirements | 
-Footer | | Med/Med | | Componetize footer, incorporate Federal footer requirements | 
-Primary navigation | Not documented in VADS | Low/Med | | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating along with secondary nav for redesign | 
-Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | Low/Med || Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal | 
+Header | | Med/Med | Jenny | Componetize header, incorporate Federal header requirements | 
+Footer | | Med/Med | Jenny | Componetize footer, incorporate Federal footer requirements | 
+Primary navigation | Not documented in VADS | Low/Med | Jenny | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating along with secondary nav for redesign | 
+Secondary navigation | [Side nav in VADS](https://design.va.gov/components/sidenav) | Low/Med | Jenny | Could document placement guidance of existing experience <br> OCTO Sitewide Crew currently evaluating unauth secondary nav along with primary nav for redesign, Health crew building temporary secondary nav approach for MHV portal | 
 Search best bets | [Search best bets guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) | Low/Med |Jenny | Review current guidance and identify what should be documented as a standard, what is process, and what is best practice. Identify where each aspect should live and create drafts properly formatted.  Review with OCTO leads for approval. Publish | 
 Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low/High | | Discovery of current usage, any V3 plans, USWDS guidance.  | 
 IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Low/Low | | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish | 
