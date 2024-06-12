@@ -35,7 +35,7 @@ This one-time process often takes about 10 minutes. You'll need to provide certa
 ### Verify alert for LOA1/IAL1 My HealtheVet accounts
 
 #### Create a verified Login.gov or ID.me account to [CTA] 
-We need you to use a verified Login.gov or ID.me account to access your personal information through this tool. A verified account helps us keep your information safe and prevent fraud and identity theft.
+We need you to use a verified Login.gov or ID.me account to [access your personal information through this tool **or** to fill out this form]. A verified account helps us keep your information safe and prevent fraud and identity theft.
 
 **If you want to use ID.me, follow these steps:**
 1.	Sign in again with your new **ID.me** account. When you signed in with your **My HealtheVet** basic account, we created an **ID.me** account for you. You can sign in with the email address you provided during this process. You may need to reset your **ID.me** password before you can sign in with your new account.
