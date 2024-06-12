@@ -1,6 +1,14 @@
 # Sign-in and verification alerts
+**Notes:** 
+- Forms should use [to fill out this form] as the [CTA]. Don't vary the CTA for forms.
+- Tools should use a brief plain language phrase as the [CTA]. For example, [to refill prescriptions] or [to check your claim status]. Work with Sitewide CAIA team to decide on a CTA for your tool.
+- If your form or tool has /my-health in its URL:
+     - It may require a registration step on MHV national portal. Currently, only the secure messaging, medical records, and medications tools require MHV registration.
+     - It may need to live behind a /my-health route guard with a centralized sign-in flow.
+     - Work with the identity and cartography teams to set up the correct sign-in flow. 
+- If a form is only accessible after signing in (meaning there is no unauthenticated state of the form intro page), the sign-in alert must appear on the static unauthenticated page that serves as the entry point into the form. Currently, this only applies to 2 forms in the /my-health section: 1010EZR and order form for CPAP and hearing aid supplies.
 
-## Sign-in flow for all tools outside of /my-health
+## Sign-in flow for all forms and tools that don't require MHV registration
 
 ### Sign-in alert
 
@@ -41,8 +49,4 @@ We need you to use a verified Login.gov or ID.me account to access your personal
 
 [text link] [Learn about creating an account](https://www.va.gov/resources/creating-an-account-for-vagov/)
 
-
-
-## Sign-in flows for tools inside /my-health
-
-## Sign-in flow for all forms outside of /my-health
+## Sign-in flows for tools that require MHV registration
