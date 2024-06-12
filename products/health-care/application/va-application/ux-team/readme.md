@@ -30,8 +30,7 @@ Used for research synthesis, shared userflow and other collaboration needs.
 
 
 ### Content 
-- Used in Sketch source of truth pages
-- [Found in GitHub text only format](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ-application-copy.md)
+- [Content process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/content-process.md)
 
 
 
