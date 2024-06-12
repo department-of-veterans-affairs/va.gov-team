@@ -9,18 +9,20 @@ This document is a background of resources and processes for user experience des
 
 ----
 
-## Design 
-
- Tools used:
-
-
+## UX Tools Used
 
 
 ### Figma 
+Used for 
 
 
+- [Link to Health Enorllment Project Room](https://www.figma.com/files/team/1278375444205744118/project/175597680/Healthcare-Benefits-Applications?fuid=1070808939264105970)
 
+- Files separated by Product, Shared Content and Archive
 
+**Organization**
+- The pages listed at the top under the _Source of Truth_ section header should always match what is in production
+- Under the _Work + Tickets_ header, include a short name and the ticket number when naming the page.
 
 ### Mural 
 
