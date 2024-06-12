@@ -16,9 +16,13 @@ This document is a background of resources and processes for user experience des
 ## What we do
 
 To provide an easy and convenient path for Veterans to apply for VA health care benefits and make updates (to insurance, income) on the 10-10EZ and 10-10EZR Product Forms.
+- 10-10EZ Health care benefits application
+- 10-10EZR Health care updates
 
 To provide an easy and conventient path for Caregivers and for Veterans/Represetnatives to apply for benefits of the Program of Comprehensive Assistance for Family Caregivers.
+- 10-10CG Program of Comprehensive Assistance for Family Caregivers application
 
+  
 ---
 
 ## How we work 
