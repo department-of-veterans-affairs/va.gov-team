@@ -82,6 +82,7 @@
         - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
+        - 🟥 [Update all eCheck-in, Pre-Check-in, and Travel VA Notify Messages to Remove the Trailing Period ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85756)
         - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
         - 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
         - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
