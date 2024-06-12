@@ -4,6 +4,8 @@
 
 ### 2024
 
+#### [Travel Claim Status Language Generative Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study)
+
 #### [Reimbursement status look and feel study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-04-Reimbursement-Status-Look-and-Feel-Study)
 #### [Claim status visability IA study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/research/2024-01-Status%20Visibility%20IA%20Study)
 
