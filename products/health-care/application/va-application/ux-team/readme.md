@@ -5,17 +5,28 @@ Starting the documentation from UX Retro #2 - [Mural board](https://app.mural.co
 ---
 
 
-This document is a background of resources and processes for user experience design and research practices on the 1010 health enrollment team
+This document is a background of resources and processes for user experience design and research practices on the 1010 health enrollment team.
+
+- What we do
+- Where we work/tools used
+- Processes and best practices
+- Who we are
 
 ----
+
+## What we do
+
+To provide an easy and convenient path for Veterans to apply for VA health care benefits and make updates (to insurance, income, etc) on the 10-10EZ and 10-10EZR Product Forms.
+
+To provide an easy and conventient path for Veterans and/or Representatives and Caregivers to apply for benefits of the Apply for the Program of Comprehensive Assistance for Family Caregivers
+
+---
 
 ## UX Tools Used
 
 
 ### Figma 
-Used for 
-
-
+Where screen designs and prototypes can be created.   
 - [Link to Health Enorllment Project Room](https://www.figma.com/files/team/1278375444205744118/project/175597680/Healthcare-Benefits-Applications?fuid=1070808939264105970)
 
 - Files separated by Product, Shared Content and Archive
@@ -25,12 +36,9 @@ Used for
 - Under the _Work + Tickets_ header, include a short name and the ticket number when naming the page.
 
 ### Mural 
-
-Used for research synthesis, shared userflow and other collaboration needs. 
+Used for research synthesis, source of truth and work-in-progess user flows and other collaboration needs. 
 
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
-
-
 
 
 ### Content 
@@ -47,9 +55,29 @@ Used for research synthesis, shared userflow and other collaboration needs.
 
 ---
 
-
 ### How we work (TBD)
 [draft]
 - Internal design syncs - Mondays at 12pm ET / 9am PT
 - [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design/design-weekly-sync-agenda.md)
 - Content shared health office hours and specific 1010 bi-weekly
+
+
+
+
+---
+
+
+
+## Who we are
+
+### EZ/CG Group:
+- 
+
+### EZR Group: 
+- 
+
+### OCTO Design Lead:
+- 
+
+
+
