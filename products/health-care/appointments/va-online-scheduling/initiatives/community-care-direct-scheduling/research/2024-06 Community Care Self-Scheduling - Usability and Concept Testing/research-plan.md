@@ -58,21 +58,23 @@ This study will give us insight into
 ### Hypotheses
 #### Referrals
 - What terms do Veterans use to describe the process of getting approved to schedule a community care appointment and then scheduling that appointment? Is referral the correct term to use for this process? 
-  - HYPOTHESIS: We hypothesize that Veterans use the term “referrals” when referring to community care requested and approved by VA.
+  - HYPOTHESIS: We hypothesize that the majority of Veterans will use the term “referrals” when referring to community care requested and approved by VA.
 - **New referrals**
   - Where do Veterans expect to find their new referrals to schedule a related appointment?
     - HYPOTHESIS: We hypothesize that Veterans expect to receive notifications about referrals and find their new/active referrals on the Appointment list.
   - What information are Veterans generally looking for in new referrals?
     - HYPOTHESIS: We hypothesize Veterans will be looking for general referral information around type of care and number of visits approved, as well as information on the provider and location preferences they previously indicated.
   - How do the concepts presented address or not address Veterans’ expectations around referrals?
-    - HYPOTHESIS: We expect that the concept presented (new referrals housed within Pending appointments) will not necessarily align with Veterans’ overall expectations around referrals.
+    - HYPOTHESIS: We expect the concept presented (using the task card to surface actionable referrals on the appointment list, while including all referrals within the Pending appointments) will align with Veterans’ expectations of new/actionable referrals. 
 - **Past referrals**
   - Where do Veterans expect to find information about past referrals?
-    - HYPOTHESIS: We are not sure where Veterans expect to find information about past referrals, though we hypothesize they might expect them somewhere in either Appointments or medical records on MHV.
+    - HYPOTHESIS: We hypothesize Veterans expect to find information on past referrals somewhere in Pending appointments or within medical records on MHV.
   - What information are Veterans generally looking for in past referrals?
-    - HYPOTHESIS: We hypothesize Veterans will be looking for general information around type of care, number of visits approved, and referring VA facility - possibly to obtain another referral of the same kind.
+    - HYPOTHESIS: We hypothesize Veterans will be looking for general information around type of care, number of visits approved, and referring VA facility.
   - What, if anything, would Veterans use past referrals for?
-    - HYPOTHESIS: We know Veterans need to be able to access referrals as part of their records, but are unsure of how they would use them.
+    - HYPOTHESIS: We hypothesize Veterans need to be able to access referrals as part of their records, and will want to use past referrals to obtain another referral of the same kind.
+  - How do the concepts presented address or not address Veterans’ expectations around referrals?
+    - HYPOTHESIS: We expect that the concept presented (referrals housed within Pending appointments) will not necessarily align with Veterans’ overall expectations around referrals.
 
 #### Scheduling Flow
 - How easy or difficult is it for Veterans to start the scheduling process via a text (or email) notification and Appointments list task card prompt?
@@ -80,13 +82,13 @@ This study will give us insight into
 - How easy or difficult is it for Veterans to schedule their community care appointments using the new CC scheduling flow?
     - HYPOTHESIS: We expect Veterans to be able to easily find a provider and schedule an appointment.
   - **Referral page:** Do Veterans understand the information included on the Referral page and what it means for their scheduling options?
-    - HYPOTHESIS: We expect Veterans to understand the information included on their referral page but may not know what this information means for scheduling options until arriving on the provider list. 
+    - HYPOTHESIS: We expect that Veterans will understand their referral information but will not know what it means for scheduling options until arriving on the provider list. 
   - **Sort and filter:** How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
-    - HYPOTHESIS: We hypothesize that Veterans will find it easy to use the sort/filter options, though they may not always notice the filter possibility without prompting.
+    - HYPOTHESIS: We hypothesize that Veterans will find it easy to use the sort/filter options but will not always notice the filter possibility without prompting.
   - **Review page:** Do Veterans understand the Review page information as it relates to their scheduling choices, and how to edit those choices?
-    - HYPOTHESIS: We hypothesize that Veterans will understand the information on the Review page and know how to edit their choices.
+    - HYPOTHESIS: We hypothesize that Veterans will understand the information on the Review page and will know how to edit their choices.
 - Do Veterans expect to find information in this tool for providers that DO NOT offer online scheduling (in order to schedule by phone)?
-  - HYPOTHESIS:We hypothesize that, even if they cannot select a date and time for the provider, Veterans expect to find information on all eligible providers they can choose from, regardless of if they need to schedule via phone.  
+  - HYPOTHESIS: We hypothesize that Veterans expect to find information on all eligible providers they can choose from, regardless of if they need to schedule via phone.  
 - What, if any, scheduling needs or preferences do Veterans have that are not currently addressed in the CC scheduling flow?
     - HYPOTHESIS: We anticipate that Veterans will expect more filtering options and additional provider information.
 
