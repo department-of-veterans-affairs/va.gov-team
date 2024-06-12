@@ -500,16 +500,19 @@ Tuesday, Wednesday
 -   12pm PT
     
 
-Monday, Thursday, Friday
+Monday, Thursday
 
 -   10am PT
     
--   1pm PT:
+-   1pm PT
     
+Friday
 
+- 1pm PT
   
 
 2 max per day
+
 
   
 
