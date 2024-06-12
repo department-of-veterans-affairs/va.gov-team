@@ -45,7 +45,7 @@ These were originally chosen because these are requests that our team unambiguou
 
 ### Holistic Support
 
-While the slackbot is the outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint and created many different avenues of support, including:
+While the slackbot is the splashiest outward-facing manifestation of our support process, it's not the only manifestation, as the team looked at the concept of support from a more holistic standpoint and created many different avenues of support, including:
 
 - Github support forms for people who don't have Slack.
   - [Product Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/product-issue-template-example.md)
