@@ -26,7 +26,7 @@ For example:
 - We encourage you to review your dependent information on VA.gov once each year. This can help you avoid debt from benefit overpayments and find out if you're eligible for increased payments. Review your dependents online now.
 
 ## Closing
-Some emails may need a closing that's specific to the person or program sending the email. If there's no need for a more specific closing, use the general closing "Thank you" on its own line with no punctuation. Don't add attribution to "VA.gov" or "the VA team."
+Some emails may need a closing that's specific to the person or program sending the email. If there's no need for a more specific closing, use the general closing "Thank you" on its own line with no punctuation. We don't need to add attribution to "VA.gov" or "the VA team."
 
 **Note:** Don't say "Thank you for your service" in the closing or anywhere in the email.
 
@@ -39,14 +39,14 @@ Follow general VA.gov guidance for link text. Always include a destination like 
 
 Follow this guidance for formatting links in emails:
 - Hyperlink the link text
-- Add the full URL after the hyperlink with the text "Or copy and paste this link into your browser: [URL]"
+- Add the full URL in parentheses after the link text
 - Include "https://www." so that the URL will work correctly if a recipient is on the VA network (a Veteran who is also a VA employee).
 
 This way, a Veteran can choose to copy and paste the URL into their browser for extra security, or they can select the hyperlink for ease of use.
 
 For example:
 [Pay your copay bill on VA.gov](https://www.va.gov/health-care/pay-copay-bill/)
-Or copy and paste this link into your browser: https://www.va.gov/health-care/pay-copay-bill/
+(https://www.va.gov/health-care/pay-copay-bill/)
 
 ## Headers
 VA Notify does not support header levels below H2. 
