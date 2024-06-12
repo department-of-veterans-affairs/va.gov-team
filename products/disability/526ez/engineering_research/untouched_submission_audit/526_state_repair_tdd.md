@@ -55,6 +55,9 @@ Short answer is rapid itteration, uncertainty around what data was important, an
 
 Additionally, there was an attempt to use the state machine to keep track of how a submission was remediated, ie. `processed_in_batch_remediation`, `in_remediation`, `ignorable_duplicate` Per VA stakeholders we **do want to know which remediation path a submission went down**, at least to the extent possible. There are a number of ways that submissions can be remediated, and it's also possible, likely even that some will have more than one remediation. 
 
+##### Complex Remediation Lifecycles
+[TODO - explain how we can  end up with multiple remediations]
+
 ##### Evidentiary Chain of Custody (aka Version Control)
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
