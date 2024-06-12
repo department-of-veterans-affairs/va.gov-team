@@ -11,7 +11,7 @@ Period - 06/19/2024 - 07/02/2024
     - Implement Claim Certification behind FF
 
 - **Submission Experience**
-    - Prepare "Vet has clear expectations of claim status" prototype for pilot session
+    - Prepare "Vet has clear expectations of claim status" prototype for pilot session, and research materials for study
 
 ## Sprint 33
 Period - 06/05/2024 - 06/18/2024
