@@ -1,6 +1,6 @@
-# **Travel Pay team, Beneficiary Travel, June 2024**
+# **Travel Claim Status Language Generative Study**
 
-
+Travel Pay team, Beneficiary Travel, June 2024
 ## **Background**
 
 The goal of the Beneficiary Travel Pay team is to empower users to do more with their travel reimbursement claims on VA.gov. Building on extant research done by the Check-in experience team, this study seeks to create a set of recommendations as to what Travel Claim statuses - currently used and ones the findings of this study will propose be added - should be used in Veteran-facing experiences. This study does not seek to inform any recommendations of changes to Travel Claim statuses used in Staff facing experiences, only in Veteran (and Caregiver) experiences.
