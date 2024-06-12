@@ -10,7 +10,7 @@
 - Help desk assists the Veteran in order to resolve the issue
 - Help desk creates a SNOW Incident ticket and captures information from the Veteran if the issue cannot be resolved by the help desk
 - Help desk assigns the SNOW Incident ticket to our SNOW assignment group 'eCheckInVetFacingApps'
-- Check-in Team responds to SNOW incidents that are assigned to our assignment group 'eCheckInVetFacingApps' per the [PCI API Tier 3 Production Support Team On-Call Monitoring Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md)
+- On-call Production Support engineer responds to SNOW incidents that are assigned to our assignment group 'eCheckInVetFacingApps' per the [PCI API Tier 3 Production Support Team On-Call Monitoring Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md)
     - [All SNOW Tickets](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%26sysparm_first_row%3D1%26sysparm_view%3Dcatalog)
     - [Active Non Resolved SNOW tickets](https://yourit.va.gov/now/nav/ui/classic/params/target/task_list.do%3Fsysparm_view%3Dcatalog%26sysparm_first_row%3D1%26sysparm_query%3Dassignment_group%253D9c50fbc51b4f8d5065965318624bcbbf%255Eactive%253Dtrue%255Estate!%253D6%26sysparm_clear_stack%3Dtrue)
     - [CIE SNOW Dashboard](https://yourit.va.gov/now/nav/ui/classic/params/target/%24pa_dashboard.do%3Fsysparm_dashboard%3D8a988d141b707990e4f6cbf7624bcb7f)
