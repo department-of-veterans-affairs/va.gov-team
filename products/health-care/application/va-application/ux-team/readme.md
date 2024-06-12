@@ -1,6 +1,5 @@
 # 10-10 Health Enrollment UX Team - Ways of Working
 
-Starting the documentation from UX Retro #2 - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709744287345/b4e1721b91ff249571787e3e267a42ba9c4de18d?sender=uadf1ed7fe7c76f0914967329)
 
 ---
 
@@ -8,8 +7,9 @@ Starting the documentation from UX Retro #2 - [Mural board](https://app.mural.co
 This document is a background of resources and processes for user experience design and research practices on the 1010 health enrollment team.
 
 - What we do
-- How we work (processes, tools used, 
+- How we work (processes, tools used)
 - Who we are
+- Helpful links
 
 ----
 
@@ -68,14 +68,16 @@ Used for research synthesis, source of truth and work-in-progess user flows and 
 
 [draft]
 - Internal design syncs - Mondays at 12pm ET / 9am PT
-- [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/design-weekly-sync-agenda.md)
+  - [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/design-weekly-sync-agenda.md)
 - Content shared health office hours and specific 1010 bi-weekly
 
 
 - [Content process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-review.md)
 
 
-#### Templates
+
+
+### Templates
 
 - [Research Mural Template](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696943969535/ebeb7ce2f9bb547e6652d68ee6dd2e8b8f3fb55e?sender=uadf1ed7fe7c76f0914967329) - used for research synthesis and planning
 
@@ -90,14 +92,17 @@ Used for research synthesis, source of truth and work-in-progess user flows and 
 
 ## Who we are
 
-### EZ/CG Group:
-- 
+#### EZ/CG Group:
+- Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / GH "jessicastump" - UX Design/Research
+- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research 
 
-### EZR Group: 
-- 
+#### EZR Group: 
+- Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
+- Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 
-### OCTO Design Lead:
-- 
+#### OCTO Design Lead:
+Lois Lewis | lois.lewis2@va.gov - UX Lead, Healthcare Apply Experience
+
 
 ---
 
@@ -106,4 +111,5 @@ Used for research synthesis, source of truth and work-in-progess user flows and 
 - [Platform Design Site](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va)
 - [USWDS Design System](https://designsystem.digital.gov/)
 - [Research Repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
+- [Enjoy HQ](https://app.enjoyhq.com/projects/Pd9aMMgoW/plan)
 
