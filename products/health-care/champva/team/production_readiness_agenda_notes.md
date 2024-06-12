@@ -19,13 +19,6 @@
    - Set up meeting with OCTO engineers to review recommendations and actions taken (Bo)
    - Check in with Adrien for clarification on PDF validation (Bo)
 
-#### Decisions
-* 
-* 
-
-#### Action Items
-* 
-*
 
 # 2024-05-28
 ## Agenda
