@@ -219,6 +219,9 @@ Before writing your recruitment criteria, be sure to review the following resour
     
 -   [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
     
+*We would like to request a kick off call with Perigean the week of 6/17*
+
+*We would like Perigean to help take notes during the interviews*
 
 ### Recruitment approach
 
