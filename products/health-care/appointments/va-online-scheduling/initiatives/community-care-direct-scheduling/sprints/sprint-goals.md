@@ -31,14 +31,12 @@ ________________________________________________________________________________
 ## SPRINT 9 - 6/12/2024 - 6/25/2024 - CURRENT SPRINT
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Pull in patient preferences for user**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-    - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-    - **Sub Goal: [Feature] Pull in patient preferences for user**
-
 
 
 #### PLANNED RELEASES 
@@ -46,23 +44,24 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Pull in patient preferences for user**
+         - ❗ 🟦 [[BE] [SPIKE] 4 hours - Discuss or find out how to access to patient preferences (preferred provider)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84026)
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [Incorporate feedback to convo guide](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85686)
          - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
          - 🟨 Submit research materials to Shane
          - 🟨 Schedule A11y walkthrough of CodePen prototype (e.g., Brian, Jeana, Jami, etc.)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-         - 🟥 🟦 Discuss UX around availability via WellHive
-              - [Comment in IA Feedback ticket from Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85523#issuecomment-2158477844)
-              - [Comment in Figma](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4?node-id=2130-7431#829820263)
+         - ❗ 🟥 [[Design] Make adjustments to MVP and Prototype based on filter conversation with WellHive](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85750)
+         - ✔️ 🟥 🟦 Discuss UX around availability via WellHive
+              - ✔️ [Comment in IA Feedback ticket from Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85523#issuecomment-2158477844)
+              - ✔️ [Comment in Figma](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4?node-id=2130-7431#829820263)
          - 🟥 Address Midpoint Review feedback
               - 🟥 [Midpoint - **Content** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85519)
               - 🟥 [Midpoint Review - **IA Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85523)
               - 🟥 [Midpoint Review - **Design Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85515)
               - 🟥 Submit experimental design ticket for filtering
          - 🟥 [Review feedback and make updates to business process flow (Mural(s))](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85555) 
-    - **Sub Goal: [Feature] Get connected with WellHive**
-         - TBD 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [Provider choose a date and time page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83542)
          - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
@@ -71,8 +70,6 @@ ________________________________________________________________________________
          - 🟪 [Determine "cancelation" of cc direct scheduled appt feature](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84023)
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
          - Check in with Kay ([Slack thread](https://dsva.slack.com/archives/C06SQ48B205/p1715634052731809?thread_ts=1713973982.697579&cid=C06SQ48B205)) about access to referrals via CDW      
-    - **Sub Goal: [Feature] Pull in patient preferences for user**
-         - 🟦 [[BE] [SPIKE] 4 hours - Discuss or find out how to access to patient preferences (preferred provider)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84026) 
 
 
 </details>
