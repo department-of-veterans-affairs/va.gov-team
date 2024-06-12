@@ -19,6 +19,7 @@
 | You can apply for disability, pension, education, and home loan benefits. | You can apply for disability, pension, education and home loan benefits.  |
 
 - [ ] Text uses active voice.
+- [ ] Text reflects singular context and nuance throughout the text.
 
 | Like this | Not like this |
 |---|---|
