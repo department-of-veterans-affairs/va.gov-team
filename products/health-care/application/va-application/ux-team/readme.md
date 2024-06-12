@@ -1,9 +1,11 @@
+# 10-10 Health Enrollment UX Team - Ways of Working
+
 Starting the documentation from UX Retro #2 - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709744287345/b4e1721b91ff249571787e3e267a42ba9c4de18d?sender=uadf1ed7fe7c76f0914967329)
 
 ---
 
 
-A background of resources and notes for user experience design and research practices.
+This document is a background of resources and processes for user experience design and research practices on the 1010 health enrollment team
 
 ----
 
@@ -25,7 +27,7 @@ A background of resources and notes for user experience design and research prac
 Used for research synthesis, shared userflow and other collaboration needs. 
 
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
-- Wireflow source of truth
+
 
 
 
