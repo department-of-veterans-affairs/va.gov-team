@@ -48,5 +48,6 @@ In Sprint 11, the team provided support for multiple features and initiatives, o
 * 🟣 Testing/Admin/Operational Support
   * [#84612 VetsAPI: Requesting Judy Morrison's appointments in staging returns 500](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84612)
   * [#84517 CES-546 VPG: address constraints on SRVDD](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84517)
+  * 🧗‍♀️[#85760 CES-584 CES: Upgrade to MF v2.1](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/85760) 
 ## ✈️ Planned Releases
 None
