@@ -63,38 +63,29 @@ _If the participant is using screen magnification:_
 
 ---
 ## Referral questions - 10 minutes
-- We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about getting authorization for a specialist appointment or community care.
+- We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about receiving authorization from VA to receive care from another VA provider for specialty care or a community care provider.
 
 - First off, have you received care from a community care provider before? (You don’t need to talk about what it was for.)
   - _If yes:_ Could you talk me through how you got that appointment scheduled?
 
-  - _If no:_ No, problem. Have you ever received care from a VA specialist that you needed authorization for?
-    - _If yes:_ How did you get that appointment set up?
+  - _If no:_ No, problem. Have you ever received care from a VA provider that you needed VA's authorization for?
+    - _If yes:_ How did you schedule that appointment?
 
-  - _If no to all:_ If you needed to see a community care provider, how would you get approval for that appointment? _(moderater note: ask about specialty care if not sure about CC)_
+  - _If no to all:_ If you wanted to receive care from a community care provider in the future, could you tell me how you would go about requesting to receive care from them?
 
-- What would you call the thing you get from your provider that allows you to schedule this type of appointment? OR How would you refer to the process of getting this type of appointment set up?
+- What documentation would you expect to receive from your VA provider to receive care by another provider?
 
-- Ok, and if these _____ _(whatever the participant calls referrals)_ were kept in a digital format somewhere for you,
-  - Where would you expect to find new ones you could schedule an appointment for?
-    - And what information would you expect to be included?
+- And, what information would you expect to be included in those documents?
 
-  - Where would you expect to find older ones?
-    - And what information would you expect to be included?
+- Where would you expect to be able to find those documents from VA if they required you to self-schedule an appointment?
 
-
-- Ok, thanks. And if you could complete the scheduling process yourself online for a community care appointment, how would you expect to do that?
-  - _If needed:_
-    - What would you expect that process to be like?
-    - Where would you go to do that?
-
-
+- Where would you expect to find those documents from past requests?
    
 -------
 
 ## Task #1 - Usability Testing - 20 minutes
 
-- Ok, thank you! So now I'll have you try a prototype for scheduling a community care appointment you previously requested. 
+- Ok, thank you! So now I'll have you try a prototype for scheduling an appointment online with a community care providers - based on a community care request you recently made. 
 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
 
@@ -145,7 +136,7 @@ _**Participant starts at Text message:**_
 
 - Is there anything that's confusing about this information?
 
-- How does this compare to what you’d expect to be in a text like this?
+- How does this compare to what you’d expect to be in a text message like this?
 
 - Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here.
 
@@ -162,7 +153,7 @@ _**Participant is at Appointment list:**_
 
 - Ok, I’ll have you stop here. Where were you expecting to end up?
 
-- Now let’s take a look at what’s on this page. Can you briefly review the page and tell me about it?
+- Now let’s review what’s on this page. Can you briefly review the page and tell me about it?
 
   - _Things to watch for: Do they mention the referral task card/notification?_
 
@@ -189,9 +180,10 @@ _**Participant is on referral page:**_
 
 - Ok, and before you do anything here, I have a few more questions: 
 
-- What are the top factors you consider when choosing a provider for something like physical therapy?
+- What are the most important factors to you when choosing a provider, let's say to find a new primary care provider for routine care? 
+  - (Provide examples if needed, but try not to (possibly leading): for example, their reputation, their distance to your home)
 
-- And what about if you're choosing a provider for something like a major surgery?
+- And, what about if you're choosing a provider for specialty care? For example, you’re searching for an orthopedic specialist that can do total knee replacements. What would be the most important factors?
 
 - Ok, thank you. Go ahead and continue with what you'd do next.
 
@@ -270,7 +262,6 @@ _**Participant is on choose time and date page:**_
 - Is there anything confusing about this page and the information included here?
   
 - Is there anything missing you’d expect to find on this page?
- - _Things to watch for:_ Is there any provider information that is not included?
 
 - Walk me through how you would continue from here. _(Stop participant to ask about any usability hurdles)_
 
@@ -280,11 +271,11 @@ _**Participant is on review/confirm choices page:**_
 
 - Is there anything confusing about this page?
 
-- What would you do if you wanted to change some of your answers here?
+- What would you do if you wanted to change some of your selections here?
 
-- And what would you expect to happen after selecting edit?
+- And what would you expect to happen after selecting the edit link?
 
-- Ok, go ahead and continue.
+- Ok, go ahead and continue to the next step.
 
 ---
 _**Participant is on success/detail page:**_
@@ -293,7 +284,7 @@ _**Participant is on success/detail page:**_
 
 - How is this similar to or different from what you expected?
 
-- Thank you. And lastly, how would you expect to be able to cancel or reschedule this appointment?
+- Thank you. And lastly, how would you expect to be able to cancel or reschedule this appointment if you needed to?
 
 ----
 
@@ -306,13 +297,13 @@ _**Participant is on success/detail page:**_
 
 _**Participant is on appointment list page (no task card):**_
 
-- Earlier we talked about where you would expect to find referrals. I’d like to get your feedback on an early concept for where those referrals might be.  
+- Earlier we talked about where you would expect to find your referrals. I’d like to get your feedback on an early concept for where those referrals might be located.  
 
-- You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. From here, where would you go to get to those new referrals?
+- You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. From here, where would you go to review any new referrals?
 
-- And where would you go to review old referrals?
+- And where would you go to review your older referrals?
 
-- Ok, thank you. Now, I’ll have you navigate to your Pending appointments list. 
+- Ok, thank you. Now, I’ll have you navigate to your Pending appointments. 
 
 ---
 
@@ -320,21 +311,21 @@ _**Participant is on Pending page:**_
 
 - Talk to me about this page and what’s included here.
 
-- How is this similar to or different from what you expected?
+- How is this similar to or different from what you expected to find?
   
-- Do you have any other comments or questions about this? Please don't hesitate to give us your feedback; this is a very early concept that might not be used.
+- Do you have any other comments or questions about the information on this? Please don't hesitate to give us your feedback; this is a very early concept that may or may not be used.
 
 -------
 
 ## Post-Task Interview - 1-2 minutes
-- Ok, thank you! That concludes that activity and is everything we need to go through today. Do you have any other questions for me, or comments about what we’ve gone through today?
+- Ok, thank you! That concludes that activity and is everything we need to go through today. Do you have any other questions for me or comments about what we’ve reviewed today?
 
 - Lastly, I'd like to confirm: **Are you still okay if we use any video or audio clips from this session?"**
 
 - Do you have any questions for me or anything else you’d like to share?
 
 ## Thank you and Closing - 1 minute
-- Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+- Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this feature and make sure it really works for Veterans.
 
 - Thanks! And lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans who might be interested in participating in future research studies as well.
 
@@ -351,4 +342,5 @@ We recommend you plan a graceful exit strategy that you will feel comfortable us
 - **Blame technology:** "I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time."
 
 - **Backup Moderator:** This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
+
 
