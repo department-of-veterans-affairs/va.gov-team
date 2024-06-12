@@ -53,6 +53,7 @@ sequenceDiagram
 - This only does the happy path
   - If there are errors during claim creation, we can retry later (a service down, etc) or send the message to the user with next steps (text message saying go to the portal)
 - Requires a ton of error handling and observability so we don't lose claims
+- We can use the async libary (Hangfire) for bunch of this. 
 - In the Claims Ingest Async endpoint, I know there was a GUID that we could use to track the claim submission. The idea here is could we use the claim number instead of a new GUID
 - We could use this in tandem with other endpoints that getting created, such as `get contact` or `get appointments`
 - We would use the service VA Notify to send results. VA Notify is a RESTful API that was build this use case.
