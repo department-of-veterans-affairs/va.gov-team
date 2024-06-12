@@ -204,9 +204,9 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
--   [Link to conversation guide](url goes here)
+-   [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/usability-study-6-2024/conversation-guide.md))
     
--   [Link to prototype](url goes here)
+-   [Link to prototype IN PROGRESS](url goes here)
     
 
 ## Recruitment
