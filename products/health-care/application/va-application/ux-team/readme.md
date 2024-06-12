@@ -8,8 +8,7 @@ Starting the documentation from UX Retro #2 - [Mural board](https://app.mural.co
 This document is a background of resources and processes for user experience design and research practices on the 1010 health enrollment team.
 
 - What we do
-- Where we work/tools used
-- Processes and best practices
+- How we work (processes, tools used, 
 - Who we are
 
 ----
