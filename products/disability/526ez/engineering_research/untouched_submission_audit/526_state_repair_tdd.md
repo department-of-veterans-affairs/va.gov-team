@@ -40,9 +40,36 @@ Other states were created for the purpose of remediation, and have no real value
 
 Finally, perhaps worst of all, we have states that create a duplicate source of truth with other, better, more reliable datapoints. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the datapoint we use to set the state, there is no other meaninful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aformentioned remdeation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
 
-#### Why is it so bad?
+#### Why is 526 State it in such a bad way?
 
-The short answer is rapid itteration, uncertainty around what data was important, and too many cooks in the kitchen
+Short answer is rapid itteration, uncertainty around what data was important, and too many cooks in the kitchen. Unfortunately, due to the speed at which this evolved documentation is limited, but these are the most relevant paths for for context
+
+- [Original document describing the work of "Auditing" our database for untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/post_remediation_audit_for_untouched_submissions.md)
+- [The document describing the failures of the current system and outlining the need to fix it](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md)
+- [A description of how tags were initially applied](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)
+
+Additionally, there was an attempt to use the state machine to keep track of how a submission was remediated, ie. `processed_in_batch_remediation`, `in_remediation`, `ignorable_duplicate` Per VA stakeholders we **do want to know which remediation path a submission went down**, at least to the extent possible. There are a number of ways that submissions can be remediated, and it's also possible, likely even that some will have more than one remediation. 
+
+#### Evidentiary Chain of Custody
+
+I'm borrowing a familiar term here to describe another sub-problem we are facing. To restate our high level goal here, we need a "source of truth" for what has been remediated and when. 
+
+Tagging things is only half the battle. We need a record of how, when, why, and by whom a submission was marked as "done", otherwise we run the risk of having false positives in subsequent audits. The current system is messy, involving passing lists, going back to reference CSVs, slack messages, unrecorded conversations, humans typing things out, copy pasting, programatically filtering, and so on. Initially the audit was designed to deal with this by once and for all creating a system of marking things as "done" or "not done", relative to our contract with the Veteran. However, due to the problems outlined in our ["closing the black hole" doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md), we cannot say with certainty that we've done this.
+
+In the future, we will likely find more submissions that need remediating. If someone opens a list of "remediated by batch" ids and puts the id on there, we need a record of that. If a submission previously marked remediated is kicked back to us for more work, and it needs to be removed and re-remediated a different way, we need a record of that.  Otherwise, we are setting ourselves up for a situation where a veteran or Congress comes to us with specific questions about a (or many) lost submission(s), and we won't be able to tell them what happened.
+
+For a solution to be considered complete, it must account for this problem. 
+
+### Acceptance Criteria
+Our new solution must
+- refine our existing states to the bare minimum
+  - Makes this more readable for layment and future developers
+  - Makes this less failure prone
+- remove redundant sources of truth
+  - remove any state prior to backup path
+- Support complex remediation lifecycles
+  - If a submission is remediated and sent back, we need to be able to continue to track it's progress without reverting it to a meaningless state. There are two reasonble ways of doing this
+    - Keep 526 State where it is, simplified in the `aasm_state` value.  Additional context will need to be tracked in some sort of version control (so github).  I imagine this would be lists of submissions checked in and updated with signed PRs so we have a "chain of custody". 
 
 
 
