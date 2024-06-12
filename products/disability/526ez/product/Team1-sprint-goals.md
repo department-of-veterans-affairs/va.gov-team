@@ -1,4 +1,18 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+## Sprint 34
+Period - 06/19/2024 - 07/02/2024
+### Sprint goals
+
+- **Toxic Exposure**
+    - 2022 form rollout launch prep for staging review, submit migration implementation
+
+- **Paper Form Sync**
+    - Design Kickoff: Sect. IV Col. 4 "Date disabilities began or worsened" to digital
+    - Implement Claim Certification behind FF
+
+- **Submission Experience**
+    - Prepare "Vet has clear expectations of claim status" prototype for pilot session
+
 ## Sprint 33
 Period - 06/05/2024 - 06/18/2024
 ### Sprint goals
