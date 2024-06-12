@@ -125,13 +125,13 @@ In this project plan, we deliver iteratively while eliminating dependencies on t
 1. Veterans lack timely and truthful information about their claim
 
 
-## B. May 2024 Replanning
+## C. May 2024 Replanning
 In early 2024, we took the approach of improving Veterans' submission experience across a broad range of Veteran touchpoints, such as pages, static content, email, and copy. Some of the changes we believed would improve the submission experience touched other apps, such as My VA, Claims Status Tool, and the mobile app. However, these apps are out of our control, and attempts to enact change in these Veteran touchpoints would create dependencies on external teams, widen the problem area, and complicate solutioning. This would lead to a slower delivery timeline that left Veterans with a suboptimal experience.
 
 To more quickly meet the needs of the Veterans we serve and increase opportunities for learning, we decided to deliver in an iterative manner, focusing on small and simple interventions in areas of VA.gov that we control. To reduce dependencies and unknowns on external teams and systems, we'll design solutions based on the current state of VA.gov as opposed to unknown future states. Where possible, we'll work with external teams to propose changes that we believe will improve the Veteran's submission experience but won't rely on those teams to solve problems for us. To consider the Veteran's entire user journey and the technology systems that comprise their user experience, we separated the work into five smaller phases, each with separate delivery milestones that we will deliver iteratively. This planning resulted in pausing some in-progress design work to be continued at a later phase (see Appendix A).
 
 
-## C. Links
+## D. Links
 [526ez Shadowing Veteran Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
 
 [Submission Experience Maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469)
