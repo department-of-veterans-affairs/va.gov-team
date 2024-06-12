@@ -1,19 +1,32 @@
 # 526 State Repair Technical Design Document
 
 ## Pupose
-[In this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) we lay out why we need this work done. This document breaks down the work into ticketable segments.
+[In a previous document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) we have laid out why we need to do the work described herin. The goal of this document is to break down the work into actionable segments.
+
+## Key terms and synonyms
+- **failure**: refers to a failure to process an instance the Form526Submission model
+- **done**: also refered to as "fulfilling our contract" and "success type states". This is when we have moved a 526 Submission successfully through our system from the Veteran to the rlevant next step.
+- **remediation**: any process out side of the "happy path" or "backup path" form submission flow for 526.  Typically this involves a developer and Stake holder working closely to identify and package failures in a processable format.
 
 ## Summary
-At the top level, we (stake holders and engineers) need to know, at a glance, what submissions in our database require remediation. By surfacing this data we unblock remediation efforts, admin dashboards for tracking failures, and the construction of reusable developer / programatic tools for working with failures.
+At the top level, we (stake holders and engineers) need to know, at a glance, what submissions in our database require remediation. By surfacing this data we will unblock future remediation efforts and the creation of admin dashboards and insight tools. Simply put we need to know when a submission 'fails'
 
-To accomplish this goal, our first step is knowing what submissions have failed.  Unfortunately, 'failure' is a nebulous concept that can be arrived at any number of unpredictable ways. Therefor, the best way to find what has failed is to use an *exclusive methodology* and instead identify and eliminate everything that is explicitly successful, and consider everything else a failure-like state. This is currently a long, complex process (see our [Audit Funnel for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)). The work described herin is designed to streamline, codify, and automate this process.
+### Exclusive Methodology for identifying 526 Failures
+Unfortunately, 'failure' is a nebulous state at which a submission can arrived in any number of ways. Therefore, the best way to identify what has failed is to use an *exclusive methodology* and instead identify and eliminate everything from a set (all submissions) that is explicitly successful. Then, we can simply consider everything else a failure-like state. *exclusive methodology* is necesary to prevent missed edge cases, in which a bug or logical change creates a new path to failure. 
 
-The final, stakeholder facing value of doing this work is
-- Unblocking the creation of Admin facing Datadog tools that allow insight into what has failed, when failures are happening, and related alerting
-- A sustainable, reusable developer workflow for debugging and remediating failures (de-bus-valuing me).
+Determining success state for the process of exclusion is currently a long, complex process that only one person currently knows how to execute ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)). Our goal in this TDD isto streamline, codify, and automate a process to replace this cumbersome work.
 
-### An important note on what this is and isn't
-A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. There is no state-machine dashboard or admin login. **The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.** That will come later; this work is required to unblock that work but it is different. This is important to keep in mind because the states being added have been designed to allow for programatic opperation on the data, not to be user facing bit's of information. Stakeholder input should be limited to the desired end result, rather than implementation details. The state machine is not the place to track things like how a submission was remediated. That information will not be lost, but it is being removed from this part of the application.
+### The final, stakeholder facing value
+This work will
+- Unblock the creation of Admin facing Datadog tools that allow insight into what has failed, when failures are happening, and related alerting.
+- Create a sustainable, reusable developer workflow for debugging and remediating failures (de-bus-valuing me).
+
+### An important note on what a State Machine is and isn't
+A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. There is no state-machine dashboard or admin login. **The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.** That will come later; this work is required to unblock that work, but it is different. 
+
+---
+
+# TODO
 
 To acheive our stated goal of 'repairing 526 state' we need to do the following, ideally in the order described below.
 
