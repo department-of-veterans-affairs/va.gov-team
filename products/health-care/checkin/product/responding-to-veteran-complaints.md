@@ -23,7 +23,7 @@ From time-to-time we are alerted internally to application issues that may or ma
 - VA Employee (or on-call Production Support engineer) reports a system down issue in [Slack channel 'check-in-production-support'](https://dsva.slack.com/archives/C02UP02HHGX)  
 - CIE On-call Production Support engineer sees the issue and investigates per the [PCI API Tier 3 Production Support Team On-Call Monitoring Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md)
 - CIE On-call Production Support engineer communicates status and resolution in the Slack thread
-- Product Manager sends emails per [How to Send Patient Check-in System Down Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/system-down-notifications.md) 
+- CIE Product Manager sends emails per [How to Send Patient Check-in System Down Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/system-down-notifications.md) 
 
 ### Non-System Down Issues
 - VA Employee reports a non-system down issue in any related Slack channel, typically one of these
