@@ -13,4 +13,7 @@ This is a working doc to capture requirements for scheduling into Oracle Health 
 
 **Non-technical**
 
+- OH facility staff can decide whether to enable direct scheduling through VAOS for nutrition and food appointments
+- OH facility staff can decide whether to enable requests through VAOS for nutrition and food appointments
+
 - A OH user can schedule nutrition and food appointments at any facility where they have an established relationship.
