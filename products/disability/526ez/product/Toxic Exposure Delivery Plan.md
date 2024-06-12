@@ -71,7 +71,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, adding 15B and 15E are populated.
 
 #### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E; herbicide & hazards pages data is populated in 15 C, D, E.
-**Estimated Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 33 (6/5 - 6/18/24)*     
+**Estimated Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 35 (7/3 - 7/16/24)*     
 **Actual Delivery Date**:      
 **Environment**: Staging    
 **Building Blocks:**   
@@ -80,11 +80,12 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Transform service on the first of each hazard in 15C and put these behind the Toxic Exposure feature flag.
  - [X] Transform service on the first of each hazard in 15D and put these  behind the Toxic Exposure feature flag.
  - [X] Handle multiple exposure locations 15C.
- - [ ] Handle multiple exposure locations 15D.
+ - [X] Handle multiple exposure locations 15D.
  - [X] Discovery on async document status upload for form 526 after claim is established.
- - [ ] Consolidate Submit and Toxic Exposure feature flags.     
+ - [X] Consolidate Submit and Toxic Exposure feature flags.     
  - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
- - [ ] Team 2: handling of two forms
+ - [ ] Handling of 2 forms - new feature flag for IPF claims
+ - [ ] UI/UX updates for IPF claims
  
  
 
@@ -96,21 +97,20 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 - [ ] Schedule weekly Lighthouse touchpoints through release.
 - [ ] Migrate Lighthouse synchronous /submit endpoint & release.*
      - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
-     - [ ] Submit dashboard    
-     - [ ] Submit Canary Launch        
+     - [X] Submit dashboard           
 - [ ] Revisit submit transformation & make any needed changes
 - [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
 - [ ] Schedule staging review
 
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
-**Estimated Duration**: Sprint 35 (7/3 - 7/16/24)*    
+**Estimated Duration**: Sprint 36 (7/17 - 7/30/24)*    
 **Actual Delivery Date**:          
 **Environment**: MVP Ship - Production     
 **Building Blocks:**    
  - [ ] Staging review.
-     - [ ] Product guide updated.
-     - [ ] TestRail updated
+     - [X] Product guide updated.
+     - [X] TestRail updated
  - [ ] Bug Bash.
  - [ ] Security review.
  - [ ] Contact center review.
