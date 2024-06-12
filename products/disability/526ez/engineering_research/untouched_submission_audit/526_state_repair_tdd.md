@@ -65,7 +65,7 @@ I'm putting aside backup path polling for a moment, as that will be addressed by
 
 This "list" is comprised of a patchwork of data assembled from shared documents, revisted emails, slack messages, unrecorded conversations, and more.  What's worse, the Master List is **litteraly only conceptual**. If you asked for it today, several people would have to coordinate efforts to assemble it over the course of days. What's even worse still is that this list benefits from none of the aforementioned protections awarded to our happy path submission data. Changes to this list receive no oversight or review and are highly manual. If a submission were missed, put in the wrong place, or simply mistyped, then that small mistake becomes a real world veteran who's claim will potentially not be processed. Given this fact, we can accept nothing less than 100% accuracy in recording what has been remediated. Even one incorrectly categorized submission is too many. 
 
-Our system is error prone, and our results must be error free, a clear contradition. We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy. I will make 2 suggestions for how to fix this in a subsequent section.
+Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy. I will make 2 suggestions for how to fix this in a subsequent section.
 
 ### Acceptance Criteria
 Our new solution must do two things
