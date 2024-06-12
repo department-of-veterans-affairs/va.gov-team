@@ -61,7 +61,7 @@ This study will give us insight into
   - HYPOTHESIS: We hypothesize that Veterans use the term “referrals” when referring to community care requested and approved by VA.
 - **New referrals**
   - Where do Veterans expect to find their new referrals to schedule a related appointment?
-    - HYPOTHESIS: We hypothesize that Veterans expect to receive notifications about referrals and find their new/active referrals on the Appointment list, though we are not sure about the exact location.
+    - HYPOTHESIS: We hypothesize that Veterans expect to receive notifications about referrals and find their new/active referrals on the Appointment list.
   - What information are Veterans generally looking for in new referrals?
     - HYPOTHESIS: We hypothesize Veterans will be looking for general referral information around type of care and number of visits approved, as well as information on the provider and location preferences they previously indicated.
   - How do the concepts presented address or not address Veterans’ expectations around referrals?
