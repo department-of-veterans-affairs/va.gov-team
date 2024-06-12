@@ -5,12 +5,11 @@ Appointments is authenticated and has some access requirements that Veterans mus
 
 ## User stories
 
-- As a Veteran I want to access tools that let me schedule and manage my VA appointments.
+- As a Veteran I want to be able to access tools that let me schedule and manage my VA appointments.
 
 ## Requirements
 
 ### Functional
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 - A user may only log into VAOS if all the following are true:  
   -  User is registered for care at a VA Medical Center (VAMC).
   -  User has a Premium MyHealtheVet, Id.me, Login.gov,  or DS Logon Level 2 login credential.     
@@ -22,6 +21,28 @@ Appointments is authenticated and has some access requirements that Veterans mus
    - the endpoint returns a response with a field called `vaProfile`.
    - The `vaProfile` field contains a field called `facilities`.  
    - If the field is empty, then the code will determine if the user is ineligible to use VAOS because they have not been registered at a VA facility. 
+
+## Specifications
+
+[User flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=1-3099&t=4HP199gnu7lXJB8V-4) 
+
+
+
+## Metrics
+<!--Goals for this feature, and how we track them through analytics-->
+
+None
+
+**Events tracked**
+<!-- Descriptions of events tracked on this page to meet those goals -->
+
+- Event 1
+- Event 2
+
+[All events VAOS tracks](Link TBD)
+
+
+## Technical design
 
 <details>
   <summary>Sample response - /v0/user vaProfile field</summary>
@@ -57,89 +78,37 @@ Appointments is authenticated and has some access requirements that Veterans mus
   ```
 </details>
 
-## Specifications
+Notes from Spike [51718](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/51718)
 
-[User flow](Add link) 
+Q: What api call and fields are being looked at by VAOS to determine if a veteran is "enrolled" and "registered"?
 
-[Page template](Add link)
-
-[Page content](Add link)
-
-## Metrics
-<!--Goals for this feature, and how we track them through analytics-->
-
-- Goal 1
-- Goal 2
-
-**Events tracked**
-<!-- Descriptions of events tracked on this page to meet those goals -->
-
-- Event 1
-- Event 2
-
-[All events VAOS tracks](Link TBD)
-
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### [Alert description]
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-[Description of what causes this alert to display]
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
-
-## Technical design
-<!-- Endpoints and sample responses -->
-
-**Staging URL:** [Add staging URL]
-
-**Staging base URL:** https://staging-api.va.gov/
-
-**Prod base URL:** https://api.va.gov/
-
-**Endpoints**
-`replace-with-endpoint-1`
-
-`replace-with-endpoint-2`
-
-To see the current api responses:
-- Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
-- Search for `https://api.va.gov/vaos/v2/apidocs`
-
-<details>
-  <summary>Sample response</summary>
-
-```json
-`"vaProfile": { "status": "OK", "birthDate": "20010531", "familyName": "Morgan", "gender": "M", "givenNames": [ "Cecil", "Matthew" ], "isCernerPatient": false, "facilities": [ { "facilityId": "983", "isCerner": false }, { "facilityId": "984", "isCerner": false } ], "vaPatient": true, "mhvAccountState": "OK" },` 
-```
-
-</details>
-
-## Development testing
-<!-- Unit tests, API tests -->
-
-### [Call name] call
-
-[How to use the VCR test framework](https://www.rubydoc.info/gems/vcr/VCR)
-  
-<details>
-  <summary><b>VCR cassette</b></summary>
+A: VAOS FE makes a call to `/v0/user`. That endpoint returns a response with a field named: `vaProfile`. This `vaProfile` field contains a field called `facilities`
+Here's a sample response
 
 ```
-[Add VCR cassette]
-
+"vaProfile": 
+  { "status": "OK", 
+    "birthDate": "20010531",
+    "familyName": "Morgan",
+    "gender": "M",
+    "givenNames": [ "Cecil", "Matthew" ],
+    "isCernerPatient": false,
+    "facilities": [ { "facilityId": "983", "isCerner": false }, { "facilityId": "984", "isCerner": false } ],
+    "vaPatient": true,
+    "mhvAccountState": "OK"
+},
 ```
-</details>
 
-<details>
-  <summary><b>Example test for "[Call name]" that corresponds to the above VCR cassette.</b></summary>
+Our logic checks if the facilities field is empty. If it is, we determine the user/veteran is ineligible to use VAOS because they have no registered VA Medical center.
 
-```
-[Add example test]
-```
-</details>
+Q: Are "enrolled" and "registered" two distinct checks or are they the same thing?
+
+A: It appears they are the same thing. We do not make any other checks apart from the above listed check.
+I logged into staging with my account, copied the response gotten from the `/v0/user` endpoint and mocked it locally. I was getting the same error message in the image above but after adding a mock facility into the facilities field, I no longer got the error message and I was able to get into VAOS.
+
+The facilities data is gotten from MPI.
+
+Q: Is the `vaPatient` field used for anything? I'm wondering if it is possible for a Veteran to not be registered at any facility but still have the `vaPatient` field be true? 
+
+
+A: I toggled the value from `true` - `false` and it did not affect anything. I still got the error message when `vaPatient` was set to `true` and the `facilities` field was empty. When `vaPatient` was set to `false` and the `facilities` field contained a facility, error message did not display so it would appear the value of that field does not affect anything we're checking.
