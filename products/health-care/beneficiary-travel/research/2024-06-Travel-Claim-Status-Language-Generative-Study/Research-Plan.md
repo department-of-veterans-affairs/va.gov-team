@@ -146,7 +146,7 @@ _Secondary criteria (nice-to-haves)_
 * Yes, I have followed up on / amended / contested a claim for travel reimbursement
 * No, I have followed up on / amended / contested a claim for travel reimbursement
 
-4. Do you use your mobile device to complete simple tasks related to managing your healthcare? (For example, but limited to, messaging your doctor on your mobile device)
+4. Do you use your mobile device to complete simple tasks related to managing your healthcare? (For example, but not limited to, messaging your doctor on your mobile device)
 * Yes (meets criteria for mobile user)
 * No (does not meet criteria for mobile user)
 
