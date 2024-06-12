@@ -99,7 +99,7 @@ _Primary criteria (must-haves)_
 
 * All have VA health care as a benefit
 * All must have traveled for a medical appointment at least once in the past year
-* Minimum 3 completed sessions must be blind AT users, beginner or advanced
+* Minimum 3 completed sessions must be visual screenreader users, beginner or advanced
 * 11 must be over 55 years of age
 * 11 must be under 54 years of age
 * 11 must have a cognitive impairment, 11 do not have a cognitive impairment
