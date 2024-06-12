@@ -63,7 +63,7 @@ The desired outcome of this study is a generative, first version set of recommen
 
 ## **Methodology**
 
-Interview over Zoom with Veteran participants. Schedule 22 participants, aiming for 15 completes.
+Interview over Zoom with Veteran participants. This interview will include 2 exercises - including an open card sort - conducted in Mural, link provided below. Schedule 22 participants, aiming for 15 completes.
 
 
 ### **Location**
