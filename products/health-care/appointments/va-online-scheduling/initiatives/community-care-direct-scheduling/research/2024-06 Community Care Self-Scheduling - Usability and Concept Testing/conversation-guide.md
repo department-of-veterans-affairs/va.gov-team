@@ -210,17 +210,6 @@ _**Participant is on filter page:**_
 - Tell me about this page.
   - _If needed:_ Is there anything confusing about this page and the information included here?
 
-[AVAILABILITY FILTER]
-
-- _If calendar selection was not mentioned:_ Let's review the first filter option. What's your understanding of that?
-  - _If needed:_ What can you do there?
-  
-- Can you demonstrate how you would use that first filter option? _(Date picker)_
-
-- Is there anything about this that's not what you expected?
-
-- Go ahead and select any date.
-
 [SHOW ONLY ONLINE SCHEDULING FILTER]
 
 - _If online scheduling option was not mentioned:_ And what about the second kind of filter there, what does that mean to you?
