@@ -10,11 +10,11 @@ Rachael Penfil (rachael.penfil@adhocteam.us), Steven Straily (steven.straily@agi
 
 Jump to:
 
-* Hypotheses and Conclusions
-* Key findings
-* Recommendations
-* Further research needed
-* Who we talked to
+* [Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/1010d-research-report.md#hypotheses-and-conclusions)
+* [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/1010d-research-report.md#key-findings)
+* [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/1010d-research-report.md#recommendations)
+* [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/1010d-research-report.md#further-research-needed)
+* [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/1010d-research-report.md#who-we-talked-to)
 
 ## **Research Goals**
 
