@@ -68,14 +68,17 @@ Used for research synthesis, source of truth and work-in-progess user flows and 
 
 [draft]
 - Internal design syncs - Mondays at 12pm ET / 9am PT
-- [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/design/design-weekly-sync-agenda.md)
+- [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/design-weekly-sync-agenda.md)
 - Content shared health office hours and specific 1010 bi-weekly
 
 
-- [Content process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/content-process.md)
+- [Content process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-review.md)
 
 
 #### Templates
+
+- [Research Mural Template](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696943969535/ebeb7ce2f9bb547e6652d68ee6dd2e8b8f3fb55e?sender=uadf1ed7fe7c76f0914967329) - used for research synthesis and planning
+
 
 
 ---
