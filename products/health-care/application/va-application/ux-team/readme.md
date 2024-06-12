@@ -26,7 +26,8 @@ To provide an easy and conventient path for Caregivers and for Veterans/Represet
 
 ### Processes
 
-
+- Content review process
+- Source of truth design/content files
 
 
 ### Tools used
@@ -67,12 +68,11 @@ Used for research synthesis, source of truth and work-in-progess user flows and 
 ### Meeting Cadence
 
 [draft]
-- Internal design syncs - Mondays at 12pm ET / 9am PT
+- Internal design syncs - Mondays at 2:30pm ET / 11:30am PT
   - [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/design-weekly-sync-agenda.md)
-- Content shared health office hours and specific 1010 bi-weekly
+  
 
-
-- [Content process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-review.md)
+- [Content Weekly Sync](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-review.md)
 
 
 
@@ -107,6 +107,15 @@ Lois Lewis | lois.lewis2@va.gov - UX Lead, Healthcare Apply Experience
 ---
 
 ## Helpful links to bookmark 
+
+**Team Specific Links**
+- [Research landscape Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697039977149/b8a5ea90748703093cdcb405b84463e515cfea2a?sender=uadf1ed7fe7c76f0914967329)
+- Research files for EZ and EZR
+- Research files for CG
+
+
+
+**Platform / OCTO Links**
 - [VA.gov Design System](https://design.va.gov/)
 - [Platform Design Site](https://depo-platform-documentation.scrollhelp.site/research-design/design-at-va)
 - [USWDS Design System](https://designsystem.digital.gov/)
