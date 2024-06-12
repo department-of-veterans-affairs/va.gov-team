@@ -13,7 +13,7 @@
 ### Sign-in alert
 
 #### Sign in with a verified account to [CTA]
-You’ll need to sign in with a verified account through one of our account providers. Identity verification helps us protect you by making sure the person creating your account is you—and not someone pretending to be you.  
+You’ll need to sign in with a verified account through one of our account providers. Identity verification helps us protect your information and prevent fraud and identity theft.
 
 **Don't yet have a verified account?** Create a Login.gov or ID.me account now. Then come back here and sign in. We’ll help you verify. 
 
