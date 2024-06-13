@@ -9,11 +9,10 @@ A very small percentage of Veteran appointments with VA Medical Centers are sche
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+By creating a unified scheduling portal that enhances usability and accessibility for Veterans, the research aims to improve their satisfaction with the digital experience of scheduling appointments.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+Starting up, taking care of myself and aging.
 
 ## Research Goals	
 What are you trying to learn from this research? 
