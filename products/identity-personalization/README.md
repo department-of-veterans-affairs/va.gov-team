@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: April 8, 2024 -- updating team members**
+**Last updated: June 13, 2024 -- updating team members**
 
 ## Where to find us 
 
@@ -17,8 +17,8 @@
 |Anastasia (AJ) Jakabcin |Product Manager -- My VA & onsite notifications portfolio| ana@adhocteam.us |
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
 |Alex Parker| Delivery manager | alexandria.parker@agile6.com |
-|Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|  | Full Stack Engineer |  |
+| | Designer |  |
+| Ashish (Asiisii) Malla | Full Stack Engineer | ashish.malla@agile6.com |
 |Matt Marino|	Designer | matt.marino@adhocteam.us  |
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 | | FE Engineer | |
