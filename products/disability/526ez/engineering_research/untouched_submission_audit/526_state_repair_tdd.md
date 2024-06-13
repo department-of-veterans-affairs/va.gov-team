@@ -55,10 +55,17 @@ Short answer is rapid itteration, uncertainty around what data was important, an
 
 Additionally, there was an attempt to use the state machine to keep track of how a submission was remediated, ie. `processed_in_batch_remediation`, `in_remediation`, `ignorable_duplicate` Per VA stakeholders we **do want to know which remediation path a submission went down**, at least to the extent possible. There are a number of ways that submissions can be remediated, and it's also possible, likely even that some will have more than one remediation. 
 
-##### Complex Remediation Lifecycles
-[TODO - explain how we can  end up with multiple remediations]
 
-##### Evidentiary Chain of Custody (aka Version Control)
+##### **Complex Remediation Lifecycle**
+
+Remediation is an imperfect process. Once a submission has been identified as needing remediation (i.e. it is in a failure state) it is common to send it for remediation more than once. There are a few reaons for this, primarily that remediation is a mostly manual, human process involving long communication chains, expiring documents, and follow up requests. 
+
+This complicates our ability to define the state of a submission once it is sent for remediation. Once sent, it is "in remediation", which is a success-type state. If there is a follow up request, then we (vets api team) are culpable for it reaching it's next step, therefor we have not fulfilled our contract with the veteran, therefor we have reverted to a failure type state. If we are using a binary (pass / fail) state system, we have a contradiction.
+
+For this reason, we must consider the remediation lifecycle / process to be potentially "complex", that is, a submission can have many remediations, and they are all worth tracking. We don't want to delete information about when a submission was sent for remediation the first time, but we do need to have a way to account for follow up work. Our solution must account for this complexity to the extent possible.
+
+
+##### **Evidentiary Chain of Custody (aka Version Control)**
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
 
@@ -68,10 +75,10 @@ I'm putting aside backup path polling for a moment, as that will be addressed by
 
 This "list" is comprised of a patchwork of data assembled from shared documents, revisted emails, slack messages, unrecorded conversations, and more.  What's worse, the Master List is **litteraly only conceptual**. If you asked for it today, several people would have to coordinate efforts to assemble it over the course of days. What's even worse still is that this list benefits from none of the aforementioned protections awarded to our happy path submission data. Changes to this list receive no oversight or review and are highly manual. If a submission were missed, put in the wrong place, or simply mistyped, then that small mistake becomes a real world veteran who's claim will potentially not be processed. Given this fact, we can accept nothing less than 100% accuracy in recording what has been remediated. Even one incorrectly categorized submission is too many. 
 
-Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy. I will make 2 suggestions for how to fix this in a subsequent section.
+Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy.
 
 ### Acceptance Criteria
-Our new solution must do two things
+Our new solution must do these things
 1. remove redundant sources of truth
 2. Support complex remediation lifecycles
 3. Support "Evidentary Chain of Custody"
