@@ -1,17 +1,26 @@
 
-# [WIP - DRAFT] Content Process
+# Process - Content Collab
 
-- EXPERIMENT WIP - CG update steps listed below 
+Last updated June 6, 2024
+
+This process document outlines what tickets to open, how to setup the Figma design files and notes, and how to use content components.
+
+
+----
 
 
 
+## Figma file setup
 
-## Figma file setup:
+When an initiative needs to go through content collaboration process, the design file needs to be structured in a way to allow the content specialist to make edits directly in Figma. To prevent issues with changing variants of the native components, create a set of content components just for this initative/ticket. 
+
+
 1. Create the “Content Source of Truth” Section in Figma for the native form content symbols
 2. Create a component for each page/question needing content collaboration
 3. Annotate and add notes and background to the content components as needed, using the content notes status component or notes annotation
 5. Create a Section in Figma for each part of the form involved in the work
 6. For **each** screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
+
 
 <img width="681" alt="Content-FigmaSetup" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/09d6c92e-e9f0-4087-bc8a-65bd75673e00">
 
@@ -33,6 +42,7 @@ Component> Content Status
 - When ready for Development - GREEN
 - When pending - in process/SME questions/etc- YELLOW
 - General notes: BLUE
+
 
 ### Additional Notes Component
 Use the Notes component in VADS Web Annotation Kit 
