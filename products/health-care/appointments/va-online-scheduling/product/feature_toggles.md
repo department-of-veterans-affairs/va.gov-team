@@ -5,7 +5,6 @@
 :exclamation: Toggles name that have strikethrough text means the flag is deleted
 | Toggle | Description | Ticket to Add | Related Epic | Ticket to Remove | Comments |
 | ------ | ----------- | ------------- | ------------ | ---------------- | -------- |
-| ____________________________________________________________ | ____________________________________________________________ | _______________ | _______________ | _______________ | _________________________________________________________________ |
 | va_online_scheduling | Allows veterans to view their VA and Community Care appointments |  |  | n/a | Toggle that manages the whole application. Should remain "enabled for everyone" at all times. |
 | va_online_scheduling_booking_exclusion | Allows the exclusion of sites from appointment scheduling | n/a | n/a | n/a | assists in the cutover of sites to Oracle Health (Cerner) |
 | va_online_scheduling_cancellation_exclusion | Allows the cancellation exclusion of appointments | n/a | n/a | n/a | assists in the cutover of sites to Oracle Health (Cerner) |
