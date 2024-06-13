@@ -35,22 +35,22 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Desired date range or test duration: 1 week
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: feature toggle
+- date range or test duration: 3/18-29/24
+- number of users: 13
+- recruitment: Perigean
+- testing: moderated
+- test users access: staging 
 
 #### Results
 
-- Number of users: [FILL_IN]
+- Number of users: 11
 - Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
   - [FILL_IN] : list
   - [FILL_IN] : of
   - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
+- Was any downstream service affected by the change?: no
 - Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
