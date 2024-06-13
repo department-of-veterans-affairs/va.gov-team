@@ -138,3 +138,4 @@ To more quickly meet the needs of the Veterans we serve and increase opportuniti
 
 [DBEX Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?sender=ubd79255de28cd574d7575469)
 
+[Google Doc (will update w/ Github location): Submission Research Plan for "Veteran has clear expectations of claim status"]([url](https://docs.google.com/document/d/1GLBJqNpNMyOfcidtigNqWd8F2c6adueraY-ybj7Q5E8/edit)) 
