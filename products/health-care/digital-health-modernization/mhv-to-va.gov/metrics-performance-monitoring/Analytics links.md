@@ -14,4 +14,7 @@
 - https://lookerstudio.google.com/u/0/reporting/e28cd59a-b2e5-4f29-8ae4-a4eea6d23f9c/page/p_7hxeqg1k9c
 
 **How users find SM on VA.gov - GA report**
-- https://analytics.google.com/analytics/web/?authuser=1#/analysis/p419143770/edit/VAnfsbSCSvaJALpKt0dILw 
+- https://analytics.google.com/analytics/web/?authuser=1#/analysis/p419143770/edit/VAnfsbSCSvaJALpKt0dILw
+
+**Number of users who click on the "Try me" link for SM on MHV classic** 
+- https://analytics.google.com/analytics/web/?authuser=1#/p395452039/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3Dsecure%26_r.explorerCard..startRow%3D0%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20240501%26_u.date01%3D20240531&r=5966818166&ruid=736BEBEC-0702-4D51-8C2B-0334A7C6317A&collectionId=5947849358
