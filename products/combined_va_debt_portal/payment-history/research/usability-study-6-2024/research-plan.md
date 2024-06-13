@@ -442,7 +442,7 @@ We ask this question because we want to make sure the feedback we get from these
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-Tuesday, June 25 - Tuesday, July 2nd 2024
+Wednesdsay, June 26 - Wednesday, July 3rd 2024
 
 ### Prepare
 
@@ -457,7 +457,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 
--   Planned dates of research: Tuesday, Jun 25, 2024 - Wedneday, Jul 3, 2024
+-   Planned dates of research: Wednesday, Jun 26, 2024 - Wednesday, Jul 3, 2024
     
 
 ### Length of sessions
@@ -475,7 +475,7 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Tuesday, Jun 25, 2024 - Wednesday, Jul 3, 2024
+Wednesday, Jun 26, 2024 - Wednesday, Jul 3, 2024
 
 Tuesday, Wednesday
 
