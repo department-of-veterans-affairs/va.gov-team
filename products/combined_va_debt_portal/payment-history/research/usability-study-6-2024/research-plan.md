@@ -307,7 +307,7 @@ Note: The following demographic criteria is our goal, but we understand that his
     
 -   At least 6 of 12 people must identify as other than male
     
--   At least 3 of 12 people are without a degree or professional certificate
+-   At least 4 of 12 people are without a degree or professional certificate
     
 -   At least 4 of 12 people are under 35
     
