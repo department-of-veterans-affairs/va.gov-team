@@ -10,7 +10,7 @@ This document is a background of resources and processes for ux team working on 
 
 ----
 
-## [What we do](#whatwedo)
+## What we do
 
 To provide an easy and convenient path for Veterans to apply for VA health care benefits and make updates (to insurance, income) on the 10-10EZ and 10-10EZR Product Forms.
 - 10-10EZ Health care benefits application
