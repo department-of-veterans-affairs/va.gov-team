@@ -17,20 +17,8 @@
    - Social security numbers - PII_SSN
    - Phone numbers - PII_PHONE
    - Other identifying info - PII_OTHER
-6. Perform calculations for the following
-   - Number of 'Yes' answers to 'Were you able to do your task today?'
-   - Number of 'No' answers to 'Were you able to do your task today?'
-   - Number of '1' answers to 'What is your overall satisfaction with this site?'
-   - Number of '2' answers to 'What is your overall satisfaction with this site?'
-   - Number of '3' answers to 'What is your overall satisfaction with this site?'
-   - Number of '4' answers to 'What is your overall satisfaction with this site?'
-   - Number of '5' answers to 'What is your overall satisfaction with this site?'
-   - Average value for 'What is your overall satisfaction with this site?'
-7. Copy the scrubbed file(s) to [this folder](https://dvagov-my.sharepoint.com/personal/benjamin_brasso_va_gov/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fbenjamin%5Fbrasso%5Fva%5Fgov%2FDocuments%2FWeekly%20Reports%2FMedallia%20Non%2DPHI%20Files)
-8. Copy the above calculated values to [this spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/benjamin_brasso_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B9CCE7ABB-8ADB-4F3F-B4E7-839E0CE487B0%7D&file=CIE%20Medallia%20Analysis.xlsx&action=default&mobileredirect=true) on the appropriate tab (one for PCI, one for CI, one for Travel (not yet available)
-9.  Update the graph ranges to include the row you just added
-10. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
-11. Copy the GitHub contents and graphs to a slack thread in the [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
+6. Create a GitHub document similar to [this one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/2024/2024-05-16-Medallia.md)
+7. Paste a link to the document in [check-in-experience Slack channel](https://dsva.slack.com/archives/C022AC2STBM) and call out these folks:  Kay Lawyer, Kristen McConnell, Stephen Barrs and the CIE team
 
 ## How to Submit a Request Ticket
 
