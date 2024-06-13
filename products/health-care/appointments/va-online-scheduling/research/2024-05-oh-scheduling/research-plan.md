@@ -1,7 +1,8 @@
 # Research Plan for Appointments Oracle Health integration and scheduling improvements
 
 ## Background
-VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments. 
+VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.  Unified scheduling portal for both Vista and Oracle Health Facilities.The single interface streamlines the appointment booking process. Users can easily find and book appointments without switching between platforms.
+
 ### User Problem Statement
 A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
 
