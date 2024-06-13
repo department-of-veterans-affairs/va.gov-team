@@ -37,6 +37,9 @@ Upon investigation of a random set of submissions that were still in the `delive
 - When returning a "pass" type status for a submission, the submission is successfuly and reliably transitioned into a state of `finalized_as_successful`
 - When returning a "fail" type status for a submission, the submission is successfuly and reliably transitioned into a state of `rejected_by_backup`
 
+#### Implementation Design
+This will depend on what we identify as the problems with our polling job.
+
 ### 2. Rebuild State from the ground up
 
 #### The Problem(s)
@@ -79,26 +82,17 @@ This "list" is comprised of a patchwork of data assembled from shared documents,
 
 Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy.
 
-**TL;DR: Our solution must codify instances of remediation context**
+**TL;DR: Our solution must codify instances of remediation context and history**
 
 ### Acceptance Criteria
 
 Our new solution must do these things
-1. be simple
-2. remove redundant sources of truth
-3. Support complex remediation lifecycles
-4. Support "Evidentary Chain of Custody"
+1. [Be simple](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#bloated-confusing-state-machine)
+2. [Remove redundant sources of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#redundant-sources-of-truth)
+3. [Support complex remediation lifecycles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#complex-remediation-lifecycle)
+4. [Codify remediation context and history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#evidentiary-chain-of-custody-aka-version-control)
 
-- remove redundant sources of truth
-  - remove any state prior to backup path success or failure. These are implied by the presence of `submitted_claim_id` or `backup_submitted_claim_id`. If a submission has neither of these it is automatically considered to be in a failure like state.
-  - Note to exclude submissions still in progress from the above consideration.
-- Support complex remediation lifecycles
-  - If a submission is remediated and sent back, we need to be able to continue to track it's progress without reverting it to a meaningless state. There are two reasonble ways of doing this
-    - Keep 526 State where it is, simplified in the `aasm_state` value.  Additional context will need to be tracked in some sort of version control (so github).  I imagine this would be lists of submissions checked in and updated with signed PRs so we have a "chain of custody". 
-
-
-
-
+### Implementation Design
 
 
 failed happy path
@@ -112,9 +106,4 @@ was remediated
 
 ## Risks
 
-## WIP
-
-- define dependancies (e.g. LH)
-- define risks
-- discuss scalability
-- discuss unknowns
+## Scaling
