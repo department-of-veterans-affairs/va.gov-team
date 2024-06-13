@@ -7,10 +7,42 @@ VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and 
 
 ### OCTO Priorities 
 
-By creating a unified scheduling portal that enhances usability and accessibility for Veterans, the research aims to improve their satisfaction with the digital experience of scheduling appointments.
+This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
-### Veteran Journey
-Starting up, taking care of myself and aging.
+- Veterans and their families can find a single, authoritative source of information
+- Logged-in users have a personalized experience, with relevant and time-saving features
+
+Increase 📈
+
+-   Veteran satisfaction with VA.gov: by providing an after visit summary, a print functionality on the appointment list page, and ease of navigation with updated breadcrums.
+
+Decrease 📉
+
+-   Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it.
+
+### Veteran journey
+
+Veterans may interact with VAOS at different stages across the [veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
+
+Starting up
+
+-   MTM: Attending to health needs
+
+Taking care of myself
+
+-   MTM: Recognizing and addressing mental health needs
+-   MTM: Managing health issues
+
+Putting down roots
+
+-   Maintaining my emotional health
+-   Engaging VA to access benefits and services
+
+Retiring
+
+-   MTM: Taking care of my health
+-   MTM: Managing my declining health
+
 
 ## Research Goals	
 What are you trying to learn from this research? 
@@ -39,35 +71,16 @@ For this usability study, we will be using the **moderated usability testing** m
 ### Location
 Zoom
 ### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-For moderated interviews:
-- [Link to conversation guide](url goes here) 
-
-For moderated usability tests: 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-If recruiting outside of Perigean’s participant database:
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment	
 
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-### Recruitment approach
-We will use Perigean to recruit participants. Our intended audience for this research includes Veterans who utilize Oracle Health VA facilities and have experience using the scheduling portal. 
+Perigean will:
+- recruit 16 total participants for this study.
+- schedule a brief kickoff call to run through the recruitment criteria before recruiting.
 
 ### Recruitment Criteria
 
@@ -78,12 +91,10 @@ We will use Perigean to recruit participants. Our intended audience for this res
 
 #### Primary Criteria (Must-Haves)
 Participants must meet the following criteria to effectively participate in the study:
-1. **Veterans who have scheduled an appointment at an Oracle Health Facility .**
+1. ** 2-3 Veterans have Used the My VA Health Portal in the past 12 months.**
 
 **Screener Questions:**
-1. Have you used the My VA Health Portal to review your Health appointments? (Yes/No)
-   - **Qualifying Response:** Yes
-2. Do you have upcoming appointments at any of the following facilities? (Yes/No)
+1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No)
 
 Mann-Grandstaff VA Medical Center in Spokane, Washington
 Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
@@ -91,12 +102,20 @@ VA Central Ohio Healthcare System in Columbus, Ohio
 Roseburg VA Health Care System in Roseburg, Oregon
 VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
 
+2. If yes, to Q. 1: Have you used the My VA Health Portal to review your Health appointments? (Yes/No)
+   - **Qualifying Response:** Yes
+   
+
    - **Qualifying Response:** Yes
 
 #### Secondary Criteria (Nice-to-Haves)
-Participants who meet the primary criteria and also fit one or more of the following secondary criteria will strengthen our study results:
-1. **Veterans with cognitive disabilities.**
-2. **Veterans from underserved communities.**
+**Secondary criteria:**
+
+- At least 4 participants who attend sessions on a mobile device.
+- At least 4 participants with a cognitive disabilty
+- At least 1 LGBTQ+ Veteran
+- At least 1 Native Veteran
+- At least 1 who lives in a rural area
 
 **Screener Questions:**
 1. Do you identify as having a cognitive disability? (Yes/No)
