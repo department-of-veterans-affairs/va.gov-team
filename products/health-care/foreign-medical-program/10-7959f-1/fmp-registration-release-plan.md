@@ -31,8 +31,6 @@ Before enabling your feature toggle in production, you'll need to:
 - React widget will need to be turned 'off'
 - Coordinate with CAIA to revert static page/entry points to previous version
 
-[FILL_IN]: create your rollback plan
-
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
