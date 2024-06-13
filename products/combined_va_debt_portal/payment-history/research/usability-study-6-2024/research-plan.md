@@ -328,134 +328,115 @@ Note: The following demographic criteria is our goal, but we understand that his
 ### Screener
 
   
+### 1. VA debt
 
-1. VA debt
+**Please select what applies to you (Check all that apply)
+For this question, VA overpayment debt is defined as VA disability compensation debt, VA education debt, or VA pension benefits overpayment debt**
+- [ ] I currently have an **unpaid** VA overpayment debt (partially unpaid or fully unpaid). 
+- [ ] I had a VA overpayment debt and it has been fully repaid. 
+- [ ] This VA overpayment debt notice appeared in the last 2 years.
+- [ ] This VA overpayment debt notice appeared over 2 years ago.
+- [ ] I have never had VA overpayment debt. **(does not qualify)**
 
-  
+**Quotas (info for Perigean)**
 
-Please select what applies to you (Check all that apply)
+- Please prioritize participants that check "This VA overpayment debt notice appeared in the last 2 years."
 
-  
 
-I currently have an unpaid VA overpayment debt (disability compensation, education or pension benefits overpayments)
+### 2. Amount of debt
 
-I have had a VA overpayment debt in the last 2 years (disability compensation, education or pension benefits overpayments)
+**Please select the amount of the debt for the highest VA debt you have had**
 
-I have not had a VA overpayment debt in the last 2 years (does not qualify)
+- [ ] The debt I had or currently have is in the range of $1 - $99
 
-  
+- [ ] The debt I had or currently have is in the range of $100 - $500
 
-2. Amount of debt
+- [ ] The debt I had or currently have is in the range of $501 - $1,000
 
-  
+- [ ] The debt I had or currently have is over $1,000
 
-Please select the amount of the debt for the highest VA debt you have had in the last 3 years
+**Quotas (info for Perigean)**
 
-The debt I had or currently have is in the range of $1 - $99
+- Please recruit a mix of the above
 
-The debt I had or currently have is in the range of $100 - $500
+### 3. VA debt resolution attitudinal 
 
-The debt I had or currently have is in the range of $501 - $1,000
+**Please select the option that you most agree with for the VA overpayment debt that you are in the process of resolving or have already resolved:** 
 
-The debt I had or currently have is over $1,000
+- [ ] 1 - I have not been active in resolving this VA debt at all
 
-  
-  
+- [ ] 2 - I have been a little bit active in resolving this VA debt
 
-3. VA debt resolution attitudinal * | Level of familiarity with process | Subjective feelings about resolving debt | Level of proactiveness (levels of self efficacy)
+- [ ] 3 - I have been somewhat active in resolving this VA debt
 
-  
-  
+- [ ] 4 - I have been active in resolving this VA debt
 
-1 - I have not been active in resolving this debt at all
+- [ ] 5 - I have been very active in resolving this VA debt
 
-2 - I have been a little bit active in resolving this debt
+### 4. Experiences of financial hardship
 
-3 - I have been somewhat active in resolving this debt
+**Please select the statement(s) that apply to you: (Check all that apply)**
 
-4 - I have been active in resolving this debt
+- [ ] I am currently experiencing financial hardship.
 
-5 - I have been very active in resolving this debt
+- [ ] I have experienced financial hardship in the past.
 
-  
-  
+- [ ] I have never experienced financial hardship. (does not qualify)
 
-4. Experiences of financial hardship
+### 5. LGBTQ+
 
-  
+**Do you identify as a member of the LGBTQ+ community ?
+We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.**
 
-Please select the statement(s) that apply to you:  (Check all that apply)
+- [ ] Yes
 
-I am currently experiencing financial hardship.
+- [ ] No
 
-I have experienced financial hardship in the past.
+- [ ] Decline to answer
 
-I have never experienced financial hardship. (does not qualify)
+### 6. Cognitive consideration
+**Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury. We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.**
 
-  
-  
+- [ ] Yes
 
-5. LGBTQ+
+- [ ] No
 
-Do you identify as a member of the LGBTQ+ community ?
+- [ ] Decline to answer
 
-We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
 
-  
+### 7. Household income
 
--   Yes
-    
--   No
-    
--   Decline to answer
-    
-   
-    
+**What is your annual household income level? 
+We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.**
 
-6. Cognitive consideration
+- [ ] $0 - $25K
 
-Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
+- [ ] $25K - 49.9K
 
-  
+- [ ] $50K - 74.9K
 
--   Yes
-    
--   No
-    
--   Decline to answer
-    
-    
+- [ ] $75K - 99.9K
 
-7. What is your annual household income level?
+- [ ] $100K - 149.9K
 
-$0 - $25K
+- [ ] $150K - $199.9K
 
-$25K - 49.9K
+- [ ] Over $200K
 
-$50K - 74.9K
+- [ ] Decline to answer
 
-$75K - 99.9K
+### 8. Attitudinal question 
 
-$100K - 149.9K
+**Please indicate how much you agree or disagree with the following statement:**
 
-$150K - $199.9K
+**"I trust VA to fulfill our country’s commitment to Veterans.”**
 
-Over $200K
+- [ ] Strongly agree 
+- [ ] Agree
+- [ ] Neutral 
+- [ ] Disagree 
+- [ ] Strongly disagree
 
- 
-
-8. Attitudinal question - trust
-
-Please indicate how much you agree or disagree with the following statement:
-
-"I trust VA to fulfill our country’s commitment to Veterans.”
-
-● Strongly agree
-●  Agree
-     ● Neutral
-    ● Disagree
-     ● Strongly disagree
-    
 
 ## Timeline
 
