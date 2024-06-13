@@ -8,11 +8,43 @@ Last updated June 6, 2024
 
 This process document outlines what tickets to open, how to setup the Figma design files and notes, and how to use content components.
 
+---- 
 
 
+## Tickets  
+
+### CAIA side to initiate work
+Open a content ticket if this is part of the Collab Cycle or not
+
+- [Sitewide Content, Accessibility, and IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2Ccoforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)
+- NEW - Created end of April, Content
+
+### 1010 Health Enrollment Team
+Open a ticket on the 1010 project team board with the appropriate labels to account for the UX content work collab.
+
+----
 
 
-## Figma file setup
+## [WIP] Process + Timeline 
+
+
+### Process (v2, revised 5.9.24): 
+
+1. Designer setup Figma page with all components and notes to start content collab 
+2. Designer/PM open CAIA ticket 
+3. Designer walk through the request and the screens in Figma at a weekly Friday content sync meeting 
+4. Content can adjust in content source of truth section Figma screens directly or post temporary questions in Figma comments
+5. Capture any future state comments or content in the content status component note variant
+6. Can change color of note or content components to call out SME questions and answers (chat as team on future direction)
+7. When in Pending used details section to add reasoning why
+8. Change to ready to development as pages are approved
+9. Tag engineer in FE ticket once designs/content are approved
+
+
+---- 
+
+
+## Designer Figma file setup
 
 When an initiative needs to go through content collaboration process, the design file needs to be structured in a way to allow the content specialist to make edits directly in Figma. To prevent issues with changing variants of the main native components, create a set of content components just for this initative/ticket. 
 
@@ -28,7 +60,7 @@ When an initiative needs to go through content collaboration process, the design
 
 
 
-## Content Status Component
+### Content Status Component
 This component was created by the 1010 team and lives in the library file **10-10 EZ & EZR Form Content**
 
 Native component source: 
@@ -48,32 +80,16 @@ Component> Content Status
 - General notes: BLUE
 
 
-### Additional Notes Component
+**Additional Notes Component**
 Use the Notes component in VADS Web Annotation Kit 
 - To label each screen / page name of the flow for review
 - Callout any other changing elements like URLs/fields added or removed/specific changes
 
 
 
-## Process experiment (v2, revised 5.9.24): 
-
-1. Designer setup Figma page with all components and notes to start content collab 
-2. Designer/PM open CAIA ticket 
-3. Designer walk through the request and the screens in Figma at a weekly Friday content sync meeting 
-4. Content can adjust in content source of truth section Figma screens directly or post temporary questions in Figma comments
-5. Capture any future state comments or content in the content status component note variant
-6. Can change color of note or content components to call out SME questions and answers (chat as team on future direction)
-7. When in Pending used details section to add reasoning why
-8. Change to ready to development as pages are approved
-9. Tag engineer in FE ticket once designs/content are approved
 
 
 ----
 
-### Content Tickets
-Open a content ticket if this is part of the Collab Cycle or not
-
-- [Sitewide Content, Accessibility, and IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2Ccoforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)
-- NEW - Created end of April, Content
 
 
