@@ -226,9 +226,20 @@ On the next page, you will see a debt portal with information about the debt.
     
  - [ ]     They don’t know (fail)
 
+- How do you feel about the amount of information on financial data points that you see here? (too much, too little)
+
+- Are there any other financial data points you would like to see?
+
+  
+- Are there financial data points listed here that you feel are unnecesary? 
+
 -   Could you please point out where on the page you can take important actions? (if needed, clarify: pay your VA debt, request financial help, and dispute the debt)
     
+- If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
 
+- What are your thoughts on these fields?  (file number, payee number, person entitled, deduction number) Are any of them unclear? [comprehension]
+
+  
     **Success criteria:**
     
  - [ ]     Can point out the sidebar with the CTAs (pass)
