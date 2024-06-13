@@ -82,7 +82,10 @@ This "list" is comprised of a patchwork of data assembled from shared documents,
 
 Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy.
 
-**TL;DR: Our solution must codify instances of remediation context and history**
+**TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle**
+
+##### The Retry Window
+[todo - describe why it's futile to try and pin down state while something is still retrying]
 
 ### Acceptance Criteria
 
@@ -90,10 +93,36 @@ Our new solution must do these things
 1. [Be simple](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#bloated-confusing-state-machine)
 2. [Remove redundant sources of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#redundant-sources-of-truth)
 3. [Support complex remediation lifecycles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#complex-remediation-lifecycle)
-4. [Codify remediation context and history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#evidentiary-chain-of-custody-aka-version-control)
+4. [Codify changes to the history of a submissions remediation lifecycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#evidentiary-chain-of-custody-aka-version-control)
 
 ### Implementation Design
 
+Using a state machine to track remediation breaks down when we consider the compleixty of the remediation lifecycle and our need to codify context. Remember that our 526 state is really only required to track everything after the happy path fails. Defining the state of post-happy-path submissions is actually two sub problems
+- record successful backup path submission
+- record instances of remediation
+
+The first is a boolean that is handled by the fixing of our polling. The second in a one-to-many relationship. Our first pass at a 'state machine' was opaque and insufficuent precisely because we were trying to track two very different types of data with one value. In this spirit I propose we
+1. remove the `Form526Submission`'s `aasm_state` value (and related state machine code) altogether and replace it with a simple boolean field, `accepted_by_backup_path`. This is as simple and non-redundant as it gets.
+2. create the model `SubmissionRemediation`
+
+#### 1. accepted_by_backup_path boolean for backup submissions
+
+When you break down the state machine, this is actually the only thing we need to track. Everything up to this point, including complete failures, can either be account for with the presence or absense of the `.*submitted_claim_id` values, or is not something we actually care about tracking. Here's a breakdown;
+- `delivered_to_primary` is implied by the presence of a `submitted_claim_id`
+- `failed_primary_delivery` is implied by the absense of a `submitted_claim_id`. This was initially intended as a transitional state for submissions that were on their way to the backup path, however there is no real reason to track it *if* we only consider submissions outside of the retry window
+- rejected_by_primary
+- delivered_to_backup
+- failed_backup_delivery
+- rejected_by_backup
+- in_remediation
+- finalized_as_successful
+- unprocessable
+- processed_in_batch_remediation
+- ignorable_duplicate
+
+#### 2. SubmissionRemediation model for remediations
+
+We could call this `Form526Submissions::Remediation` but we also remediate other submission types. If we keep it non-specific, we may be able to reuse this model as a polymorphic solution for other form remediations in the future.
 
 failed happy path
 was sent to backup path <- needs polling
