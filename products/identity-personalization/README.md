@@ -18,11 +18,10 @@
 |Travis Cahill|Product Manager -- Profile portfolio|travis.cahill@agile6.com|
 |Alex Parker| Delivery manager | alexandria.parker@agile6.com |
 |Liz Lantz | Designer | liz.lantz@adhocteam.us |
-|Pam Drouin| Designer | pamela.drouin@a1msolutions.com |
+|  | Full Stack Engineer |  |
 |Matt Marino|	Designer | matt.marino@adhocteam.us  |
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
-|Adam Whitlock | FE Engineer |adam.whitlock@adhocteam.us|
-|Daniel Miller| Full Stack Engineer|daniel.miller@agile6.com|
+| | FE Engineer | |
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
 
 ## Our products
