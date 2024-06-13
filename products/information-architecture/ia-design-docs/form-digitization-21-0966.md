@@ -44,10 +44,10 @@ The form will live under the new parent page for supporting forms. Sitemap has a
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities.*
 
 1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
-  - Placement description: 5th option down
+  - Placement description: ~~5th option down~~ 1st option on the page
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966
-  - Notes:
+  - Notes: As of 1/24/24, forms will be ordered based on submission data for online application / PDF occurrences for newer forms added. As such, this form will be moving up as the first option as it's the most commonly used.
 
 2. **[Your intent to file a VA claim](https://www.va.gov/resources/your-intent-to-file-a-va-claim/)** - Add
   - Placement description: Under "How do I notify VA of my intent to file?" section

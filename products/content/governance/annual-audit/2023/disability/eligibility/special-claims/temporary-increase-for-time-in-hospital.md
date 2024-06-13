@@ -21,14 +21,14 @@
 - Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 9.3
+- After edits: 7.9
 
 ## SME review
 
 ### Tracking details
 
-- **SME** Name goes here
+- **SME** Robert M. Eakman
 - **Date response received:**
 
 ### No callouts for the SME 
@@ -36,7 +36,11 @@
 ### Responses
 
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
-  - **Response:** 
+  - **Response:**
+    - Blue panel should read: "Am I eligible for a temporary 100% rating from VA? You may be eligible for a temporary 100% rating  if you meet one of the requirements listed here."
+      - Remove note at the bottom.
+    - Under "What kind of disability benefits can I get?" it should read: "You may be able to get a temporary increase in compensation for the time you spent in the hospital."
+    - How do I file - please add fax as an option
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
   - **Response:** 
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**

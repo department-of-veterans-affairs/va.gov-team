@@ -19,42 +19,43 @@
 
 #### What is the purpose of this document? 📄
 
-This document is designed to serve as a guide for how the Sitewide Content, Accessibility, and Information Architecture (**CAIA**) Team conducts and organizes kickoff meetings with VFS teams, and also serves as a source of information for teams, regarding what to expect, during the kickoff process. Ultimately, the purpose of this document is to make the kickoff process with CAIA clear and easy for VFS teams to navigate.
+This document is designed to serve as a guide for how the Sitewide Content, Accessibility, and Information Architecture (**CAIA**) Team conducts and organizes kickoff meetings with VFS teams, and serve as a source of information for teams regarding what to expect during the kickoff process. Ultimately, the purpose of this document is to make the kickoff process with CAIA clear and easy for VFS teams to navigate.
 
 #### Why does my team need a kickoff meeting? 📆
 
-After submitting [an intake request form with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) it is often a really good idea for our team to meet with yours - to get a better understanding as to how we can "kickoff" our work together and collaborate, most effectively. 
-- It also gives us an opportunity to ask, and answer questions - or clarify details.
-    - Sometimes, this information is a little hard to discern from an intake form, alone.
-- **New products or product phase:** A kickoff meeting is particularly useful if you and your team are working on a new product or phase that's going to benefit from a partnership with CAIA - for example, a new form, or a new tool. In which case, a kickoff is a great idea.
-- **Small updates:** If, though, you just need to request a small update to a page, URL, or content check, that's probably not going to require a kickoff meeting; however, it may still make sense to meet, if the requirements are large and complex enough.
+After submitting [an intake request form with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) it is often helpful for our team to meet with yours to get a better understanding as to how we can "kickoff" our work together and collaborate most effectively. 
+- It also gives us an opportunity to ask and answer questions or clarify details.
+    - Sometimes this information is a little hard to discern from an intake form alone.
+- **New products or product phase:** A kickoff meeting is particularly useful if you and your team are working on a new product or phase - for example, a new form or a new tool.
+- **Projects involving content, IA and accessibility support:** For work that involves multiple disciplines, a kickoff is the best way to align and plan work.
+- **Small updates:** Small changes may still require a kickoff, depending on factors such as team maturity or OCTO priorities.
 
 ### Timeframe ⏲️
 
 #### How can I schedule a kickoff meeting with CAIA?
 
-After you have submitted your [CAIA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) ...
+After you submit your [CAIA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2C+coforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-content-intake-form.md&title=%3CType+of+Request%3E+from+%3CTeam%3E) ...
 - [ ] Reach out to us in our [DSVA Slack chanel](https://dsva.slack.com/archives/C01K37HRUAH), and we can set something up. 
-- [ ] CAIA will create the initial meeting; however, we will leave it open for you to include whomever you need, from your team.
+- [ ] CAIA will create the initial meeting invite, but we will leave it up to you to include the appropriate members of your team.
 
 _Please also note that due to the volume of teams we work with, please allow at least a week for us to get prepped for the meeting._
 
 #### When are the CAIA kickoff meetings?
 
-- The CAIA Team has time set aside each week, for teams to schedule a kickoff meeting with CAIA:
+- The CAIA Team has time set aside each week:
     - Kickoff meetings will be held on Wednesdays between 12:00 and 1:00 PM ET.
     - There are two, 30-minute-slots available each week.
-- Once a kickoff meeting has been scheduled CAIA will share it on the [CAIA Shared Calender](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago)
+- Once a kickoff meeting has been scheduled, CAIA will share it on the [CAIA Shared Calender](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago)
 
 ### Kickoff Prep 📝
 
 #### What do I need to do to prepare for our kickoff with CAIA?
 
-Reading through this document is a great start, particularly the section that explains what it is that CAIA actually does. 
+Reading through this document is a great start, particularly the section that explains what CAIA does. 
 
 **Afterwards, the following checklist is useful:**
 - [ ] Have I invited everyone on my team who needs to be on the kickoff?
-- [ ] Do I have links to all my product/project artifacts such as Mural/Sketch files etc. in the intake ticket, prior to kickoff?
+- [ ] Do I have links to all my product/project artifacts (such as Mural or Figma files) in the intake ticket prior to kickoff?
 
 #### When can I expect feedback from CAIA?
 
@@ -70,14 +71,13 @@ _Tell us about your product's timeline. And we'll work with you to meet timeline
 - [ ] If you have worked with us before, or you are not launching a new product that is going through the collaboration cycle, then use this ["General Collab Request"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=coforma-terry%2Cstrelichl&labels=sitewide+CAIA&projects=&template=caia-general-collab-request.md&title=%5BCAIA+General+Support%5D%3A%3CTeam+name%3E%3CSupport+Needed%3E) ticket instead.
 - [ ] Let us know in our [DSVA Slack Channel](https://dsva.slack.com/archives/C01K37HRUAH) that you have submitted an intake request ticket.
 - [ ] Someone on the CAIA team will respond in that Slack channel and see if we need to spin up a kickoff meeting.
-- [ ] Check the [CAIA Shared Calendar](https://calendar.google.com/calendar/embed?src=c_ddb0b99f3fdacd4cbbee5c9352654daa0a32b7d1f1b56d67bef0773e8eb6191a%40group.calendar.google.com&ctz=America%2FChicago) to find a time that works for you.
 - [ ] Attend the kickoff with CAIA!
 
 ### Next Steps 🦶
 
 #### What are the outcomes of the kickoff with CAIA?
 
-During your kickoff meeting, we'll get to know more about your team, and what it is you would like to partner with us on. At the end of the meeting, we'll, hopefully, be able to determine what the next steps will be for your team, and from the CAIA team. Depending on the scope of your project, we may need to schedule a follow-up meeting. 
+During your kickoff meeting, we'll get to know more about your team and what we need to partner on. Together, we'll identify what the next steps will be for your team and from CAIA. Depending on the scope of your project, we may need to schedule a follow-up meeting. 
 
 The meeting will be recording and we'll link to it in the ticket as well as document what the next steps are.
 
@@ -205,6 +205,10 @@ What follows is a menu of the services we offer. No worries if you don't know wh
 - PDF Audit
 - Health check audit
 - Spot checks, general guidance
+
+
+### CAIA A11y Menu of Offerings
+[Accessibility Offerings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/CAIA/accessibility)
 
 ### CAIA A11y service detail
 

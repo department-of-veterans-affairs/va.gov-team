@@ -1,0 +1,5 @@
+http://localhost:2015 {
+	reverse_proxy /users/v2/* localhost:30869
+	reverse_proxy /vpg/* localhost:8080
+	reverse_proxy /vaos/* localhost:4505
+}

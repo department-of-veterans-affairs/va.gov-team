@@ -7,10 +7,16 @@
 ## Owner: 
  * PM of the teams that are making Production changes
 
+## Help Desk Process for the Mobile App: 
+* Veteran calls the main contact center, see "Contact VA" on Home page - 800-698-2411
+* Help Desk customer service team will use the VAHB Mobile App Product Guide to do initial triage of the issue
+   * Most issuse are related to backend services
+   * If its unknown or specific to the Mobile App, then Help Desk will contact Mobile POs and or reach out through Slack  
+
 ## Other Info:
  * Ad Hoc edits the document but edits it in Google Doc as we do not have the software to edit a Microsoft Word document - so conversion will be needed
  * Assess what needs to be done for the call center
-     * Call CEnter Guide
+     * Call Center Guide
      * Meeting with them / demo
  * Content used to handle this but it transitioned to PM ownership with Program Leadership approval early 2023
  * Needs to be done before the release so the Call Center gets the update before the Veterans do

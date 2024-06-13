@@ -5,10 +5,10 @@
 ## Table of Contents
 
 ## POCs
-This is a collaboration between the [VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team) and the [My HealtheVet on VA.gov Cartography team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization#landing-pagehome-team).
+This page is owned by the [My HealtheVet on VA.gov Cartography team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization#landing-pagehome-team) with guidance from [VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md#team) and
 
-- **Github labels**: `authenticated-experience`, `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`, `personal-health-care-contacts`
-- **Slack channel:** #accountexp-authexp
+- **Github labels**: `emergency-contact`, `next-of-kin`, `my-health-CTO-HEALTH-TEAM OCTO`, `my-health-INTEGRATION`, `personal-health-care-contacts`
+- **Slack channel:** #mhv-on-vagov-cartography-team #accountexp-authexp
 
 ## Overview
 
@@ -95,12 +95,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - _How are Veterans and others using this product going to know it exists?_
      - In the first iteration, the current design is that there will be a prominent link in the VA profile that allows a user to view this information
      - In the second iteration, the Veteran will be linked for the online appointment scheduling process
+     - [Launch plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/release-plan/release-plan-mvp-mar-2024.md) for read-only iteration
 - _What marketing, outreach, or communications are necessary for this product to be successful?_
      - None planned as of right now, but this may change based on user interaction metrics with the product
 
 ## Launch Dates
 
-- Link to Release Plan (with launch dates)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/release-plan/release-plan-mvp-mar-2024.md) (with launch dates)
 
 What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?
 tbd

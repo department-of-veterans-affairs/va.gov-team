@@ -1,8 +1,8 @@
 ---
-name: VAOS UX Ticket / Task Template
-about: For filing standard VAOS UX requirements.
+name: VAOS UX Task Template
+about: For Appointments FE team UX work
 title: ''
-labels: ux, appointments-product-design
+labels: appointments-fe-ux
 assignees: ''
 
 ---
@@ -21,6 +21,7 @@ assignees: ''
 
 ---
 ## How to configure this issue
-- [ ] **Attached to an Epic** (what body of work is this a part of?)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
-- [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
+- [ ] Add title and task description
+- [ ] Attach to an Epic
+- [ ] Add labels based on work type: design, discovery, documentation, strategy
+- [ ] Delete this section

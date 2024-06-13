@@ -7,9 +7,9 @@ body:
     attributes:
       value: |
         :warning: **_Prerequisites_**
-        1. Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)
-        1. The target individual MUST be able to provide proof that their E-QIP questionaire has either been transmitted or been adjudicated with a favorable decision. You'll be required to submit proof below. If you have not started your E-QIP process, do NOT submit this ticket. Ask your Vendor Onboarding Representative to confirm (listed below in a dropdown).  
-        
+        1. Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed as a team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)
+        1. The target individual MUST be able to provide proof that their E-QIP questionaire has either been transmitted or been adjudicated with a favorable decision. You'll be required to submit proof below. If you have not started your E-QIP process, do NOT submit this ticket. Ask your Vendor Onboarding Representative to confirm (listed below in a dropdown).
+
         :wave: **_Instructions_**
         1. Change the **Title** to include target individual
         1. Add the label used by the target individual's team (eg: `BAH-526`)
@@ -92,10 +92,10 @@ body:
         - Other - please specify in 'Additional Notes'
   - type: checkboxes
     attributes:
-      label: Please confirm if you are on the VFS Team Roster or Platform Team Roster
+      label: Please confirm if you are listed as a team member in Atlas or are listed in Platform Team Roster
       description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
-        - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+        - label: "[Team Member in Atlas](https://www.va.gov/atlas/product_directory/team_members)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
   - type: checkboxes
     attributes:
@@ -107,7 +107,7 @@ body:
   - type: checkboxes
     attributes:
       label: ArgoCD terminal access requested for the following environments
-      description: Only choose the environments you NEED. 
+      description: Only choose the environments you NEED.
       options:
         - label: dev
         - label: staging
@@ -129,5 +129,5 @@ body:
       label: Additional resources for Support Engineer
       description: Don't fill this part out, please
       options:
-      - label: "For users on a VFS team but not in the VFS Team Roster, they must start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
+      - label: "For users on a VFS team but not listed as a team member in Atlas, they must start the [Platform orientation process](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html)"
       - label: "Instructions for handling requests [here](https://vfs.atlassian.net/wiki/spaces/PTST/pages/2183037084/Backend+Support+Responsibilities#Handle-vets-api-ArgoCD-terminal-access) - Support Only"

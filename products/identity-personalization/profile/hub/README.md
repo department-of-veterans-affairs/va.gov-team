@@ -1,6 +1,6 @@
 # Feature Outline: Profile Hub
 
-**Last Updated: December 18, 2023** launch date
+**Last Updated: Feb 12, 2024** adding new GA4 report link
 
 ### Communications
 
@@ -61,9 +61,9 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Analytics
 
-(TBD what to do with analytics based on outcome of usability research)
-- We need new tracking for GA on the profile menu
-- Reduce Search Terms for Profile Items w/in the Profile
+- Launch metrics can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/hub/mvp#measuring-success)
+- Click data can be found at the bottom left of [this dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231119&_u.date01=20231128) < only working if we haven't migrated to GA4
+- [GA4 click data report ](https://analytics.google.com/analytics/web/?authuser=0#/analysis/a50123418w177519031p176188361/edit/_K1zzMjpQ2qxlfcC--aNiw)
 
 ## Projects
 
@@ -73,8 +73,8 @@ The profile hub serves as a landing page for the VA.gov Profile. It allows users
 
 ## Design
 
-- [Desktop](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd/p/EFCD1C39-A0C1-4A07-8510-1C0A7713FA1A/canvas)
-- [Mobile/user flow](https://www.sketch.com/s/b41a687f-8ab8-4be1-b189-692e5818cffd)
+- [Desktop](https://figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0-281&mode=design&t=UFySmtP5yDOLLP6a-0)
+- [Mobile/user flow](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0-1&mode=design&t=UFySmtP5yDOLLP6a-0)
 - Link to any documentation (needs to be created)
 
 ## Frontend

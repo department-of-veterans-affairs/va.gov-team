@@ -1,4 +1,4 @@
-# Biweekly Process for Analyzing VSignals Feedback
+# How to Request and Process VSignals Feedback
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 

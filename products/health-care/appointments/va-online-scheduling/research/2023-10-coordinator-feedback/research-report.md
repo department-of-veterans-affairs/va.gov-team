@@ -38,7 +38,7 @@ One Coordinator reported that they asked a Veteran to schedule online, but it wa
 
 MHVCs and Veterans are confused by the long list of facilities they can choose from when scheduling. They are worried that there are facilities in the list that the Veteran couldn't actually schedule into. They mentioned that they have seen locations that the Veteran doesn't recall ever going to. They had asked what would happen if Veterans schedule at a location that isn't their current main location. They were concerned the request would be ignored. Two agreed that streamlining the facility list would be the biggest improvement.
 
-### Choosing a particular provider
+### The process of choosing or changing a provider
 
 MHVCs get questions about how to transfer providers. Veterans primarily want to change providers if they're changing locations. Veterans have to go to patient advocates to do that. MHVCs hand off the Veteran to the patient advocate at that point. There has to be a good reason for a Veteran to change, because provider's schedules must be balanced.
 

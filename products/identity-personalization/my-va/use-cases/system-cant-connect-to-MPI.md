@@ -4,8 +4,8 @@ For users who sign in and the main user call fails, they will see an error for t
 
 ## UX
 - If this error occurs, the entire page will fail to load and the user will see a full page error that says "We're sorry. Something went wrong on our end. Please refresh this page or try again later."
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B161F007-530B-4927-AD5B-DDF75B54F637)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/AB8722B5-7D20-4E84-AA75-D4BCA9448D37)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A128&mode=design&t=qbn63trCAjh7M4BK-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A782&mode=design&t=qbn63trCAjh7M4BK-1)
 
 ## How to reproduce
 - In order to reproduce this error, log into VA.gov or staging.va.gov with any user.

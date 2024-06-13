@@ -4,15 +4,15 @@
 
 **Method**: GET
 
-**Path**: /optionset?{name}&[message_id]
+**Path**: /optionset?{name}
 
 **Parameters**:
+
 | Name | Type | Description |
 |---|---|---|
 |name|string|the key of the  optionset to retrieve|
-|message_id|string|an optional guid for correlating events for troubleshooting|
 
-**Allowed Values:**
+**Allowed `name` Values:**
 
 1. iris_inquiryabout
 2. iris_inquirysource
@@ -23,19 +23,18 @@
 7. iris_branchofservice
 8. iris_country
 9. iris_dependentrelationship
-10. iris_getintouch
+10. iris_responsetype
 11. iris_province
 
 **Headers**:
-
-**optional:** these headers will only be included for users that are logged in
 
 | Name | Type | Description |
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|The logged in user's ICN|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
 
-## Response ~[NEEDS JOE Updates]~
+## Response
 
 <table>
 <tr>
@@ -66,7 +65,8 @@
             },
             {
                 "id": 4,
-                "name": "Other"
+                "name": "Other",
+                "rank": 999
             }
         ] 
     }
@@ -77,12 +77,8 @@
 </tr>
 </table>
 
-## Notes [NEEDS CRM REVIEW]
+## Notes
 
-* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a parameter in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
-
-## Action Items
-
-- [x] JOE: Include the "iris_" prefix for names, but not automatically
-- [ ] JOE: Verify that this matches what JD sent in Teams!!
-- [ ] JOE: Add `message_id` to all responses?
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+ 

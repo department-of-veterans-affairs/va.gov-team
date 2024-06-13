@@ -51,14 +51,18 @@ Update from October 1, 2020:
 Update from September 22, 2023:
 * Updated the chart to reflect current naming schema. [See full changelog](https://github.com/department-of-veterans-affairs/va.gov-team/pull/66167)
 
+Update from February 2024:
+* Updated the chart to reflect decisions made in [va.gov-cms/15752](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15752)
+
 **For every example below, "at" is followed by the official location name. Official location names come from legislation, so we may not be able to change things that don't follow VA.gov style.** Example: Veterans' (should not have an apostrophe). 
 
-Facility type  |  Shared location?  |  Official name | Name pattern | URL 
- -- | -- | -- | -- | -- 
-_Source:_ Sandy's Database |   | _Source:_ Sandy's Database |   | _Source:_
-Regional office | Standalone | [Winston-Salem VA Regional Benefit Office](https://www.va.gov/find-locations/facility/vba_318) | [Region name] [Facility type]
-Regional office | VHA or non-VA | [Anchorage VA Regional Benefit Office at Anchorage VA Medical Center](https://www.va.gov/find-locations/facility/vba_463) | [Region name] [Facility type] at [shared location name]
-Satellite office | VHA or non-VA | [VA Regional Benefit Satellite Office at New Bedford VA Clinic](https://www.va.gov/find-locations/facility/vba_304n) | [Facility type] at [shared location name]
+Facility type  |  Shared location?  |  Official name | Name pattern | H1 & Breadcrumb | Associated text | URL 
+ -- | -- | -- | -- | -- | -- | --
+_Source:_ Sandy's Database | _Source:_ Sandy's Database | _Source:_ Sandy's Database |  | _Source:_ Drupal  | _Source:_ Drupal | _Source:_ Drupal
+Regional office | Standalone | [Winston-Salem VA Regional Benefit Office](https://www.va.gov/find-locations/facility/vba_318) | [Region name] [Facility type] | Winston-Salem VA Regional Benefit Office | | va.gov/winston-salem-va-regional-benefit-office
+Regional office | VHA or non-VA | [Anchorage VA Regional Benefit Office at Anchorage VA Medical Center](https://www.va.gov/find-locations/facility/vba_463) | [Region name] [Facility type] at [shared location name] | Anchorage VA Regional Benefit Office | Located at Anchorage VA Medical Center | va.gov/anchorage-va-regional-benefit-office
+Satellite office | Standalone | [VA Regional Benefit Satellite Office at Sacramento](https://www.va.gov/find-locations/facility/vba_343e) | [Region name] [Facility type] | Sacremento VA Regional Benefit Satellite Office | | va.gov/sacremento-va-regional-benefit-satellite-office
+Satellite office | VHA or non-VA | [VA Regional Benefit Satellite Office at New Bedford VA Clinic](https://www.va.gov/find-locations/facility/vba_304n) | [Region name] [Facility type] at [shared location name] | New Bedford VA Regional Benefit Satellite Office | Located at at New Bedford VA Clinic | va.gov/new-bedford-va-regional-benefit-satellite-office
 VR&E office | Standalone | [Harrisburg Veteran Readiness and Employment Office](https://www.va.gov/find-locations/facility/vba_310g) | [Region name] [Facility type]
 VR&E office | VHA or non-VA | [Veteran Readiness and Employment Office at Peoria Vet Center](https://www.va.gov/find-locations/facility/vba_328c) | [Facility type] at [shared location name]
 Integrated Disability Evaluation System (IDES) Site | VHA or non-VA | [Integrated Disability Evaluation System (IDES) Site at Fort Drum](https://www.va.gov/find-locations/facility/vba_307f) | [Facility type] at [shared location name]

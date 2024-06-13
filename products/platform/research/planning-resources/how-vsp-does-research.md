@@ -1,6 +1,6 @@
 # How VSP Does Research
 
- 
+
 
 
 
@@ -13,7 +13,7 @@
     *   [5. Read out results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#5-read-out-results)
 *   [Tools we use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/how-vsp-does-research.md#tools-we-use)
 
-We should be conducting user research as part of the product development process on VSP to help guide our product decisions. This means discovery research as well as usability testing or other methods to make sure the things we’re making are working for those that will be using it. 
+We should be conducting user research as part of the product development process on VSP to help guide our product decisions. This means discovery research as well as usability testing or other methods to make sure the things we’re making are working for those that will be using it.
 
 
 ## Who are the users of the Platform?
@@ -68,7 +68,7 @@ Put all project-related research in this folder, including:
 
 Create a research epic to track the work in Zenhub. Tag Andrea Chappelear, Naomi Marcussen on the epic for awareness.
 
- 
+
 
 
 #### Write a research plan
@@ -87,14 +87,14 @@ If you have a designer on your team, they should fill out this plan.
 
 Copy the [VSP Research Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/research/planning-resources/vsp-research-plan-template.md) into a new markdown file in your research folder and answer all the questions. If you need help making any decisions, reach out to Naomi.
 
- 
+
 
 
 #### Choosing a method
 
 Defining your research goals (as you write your research plan) will help you select a method (or a combination of them). In order to answer your research questions, you’ll need to get information somehow, but how? And what kind of information?
 
- 
+
 
 
 #### Are you looking to...
@@ -110,7 +110,7 @@ Defining your research goals (as you write your research plan) will help you sel
 
 [Discover research methods](https://vfs.atlassian.net/wiki/spaces/~227693187/pages/997326849/VSP+Research+Methods) to help you answer your questions.
 
- 
+
 
 
 #### Write a conversation guide
@@ -142,7 +142,7 @@ Once you’ve drafted your research plan and conversation guide, work with Naomi
 
 For moderated interviews or usability tests, you’ll want to recruit 6 - 8 people. For other methods like tree tests you’ll want as many as you can get.
 
- 
+
 
 
 #### Identify participants
@@ -160,9 +160,9 @@ Create a spreadsheet of potential participants, and include the following inform
 *   Accepted? (Yes/no)
 *   Date scheduled
 
-If your users are VFS team members, you can refer to the[ VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=0) to find up-to-date list of VFS teams. If your users are Veterans, please reach out to Lauren Alexanderson to review your research plan, conversation guide and help recruit Veterans.
+If your users are VFS team members, you can refer to the [team list in Atlas](https://www.va.gov/atlas/product_directory/team_members) to find up-to-date list of VFS teams. If your users are Veterans, please reach out to Lauren Alexanderson to review your research plan, conversation guide and help recruit Veterans.
 
- 
+
 
 
 #### Draft your recruiting message
@@ -171,7 +171,7 @@ If you are recruiting VFS team members yourself, you’ve already decided who yo
 
 _Hey [First name]! I’m working with the [Team name] team on VSP to better understand [research subject]. We’re hoping to set up [X]-minute meetings with folks to [hear what that process is like/evaluate X tool/document], what works well, what doesn’t, etc. — is this something you’ve had experience with and if so, would you be willing to chat about it with us?_
 
- 
+
 
 
 #### Decide communication channels
@@ -188,7 +188,7 @@ _Hey [First name]! I’m working with the [Team name] team on VSP to better unde
 *   Ask PMs of VFS teams to ask their team members to participate
 *   Ask DEPO to send your recruiting message on your behalf
 
- 
+
 
 
 #### Schedule sessions
@@ -204,7 +204,7 @@ _Hey [First name]! I’m working with the [Team name] team on VSP to better unde
     *   Think about what people on VSP this research might impact, or might be useful for, and invite them to observe
 *   Invite Naomi and the Service Design team as optional for awareness
 
- 
+
 
 
 ### 3. Conduct sessions
@@ -230,7 +230,7 @@ _Hey [First name]! I’m working with the [Team name] team on VSP to better unde
     *   What went well?
     *   What changes do you want to make before sessions with participants begin?
 
- 
+
 
 
 #### Run the research sessions
@@ -250,7 +250,7 @@ Unmoderated, asynchronous sessions
 
 
 
-*   Provide instructions and relevant links to your participants 
+*   Provide instructions and relevant links to your participants
 *   Make yourself available if participants have questions
 *   Send out reminders to participants to give their input (use a variety of communication channels)
 *   Specify a date that the study will close
@@ -258,7 +258,7 @@ Unmoderated, asynchronous sessions
     Research doesn’t end when the last session is over.
 
 
- 
+
 
 
 ### 4. Synthesize data
@@ -270,7 +270,7 @@ Unmoderated, asynchronous sessions
 
 The Service Design team is here to help with this part. They can help facilitate workshops to help you synthesize all your findings and connect the dots. Drop a note in the #service-design channel to schedule a synthesis session.
 
- 
+
 
 
 #### Synthesis process
@@ -284,7 +284,7 @@ Make sense of what you learned! Involve the whole team that was part of the rese
 3. Organize more
 4. Articulate insights and prioritize next steps
 
- 
+
 
 
 #### Data Dump
@@ -298,7 +298,7 @@ Transfer all session notes into one place that everyone can access
 *   Add any additional notes, observations, and takeaways
 *   Use a different colored sticky note for each participant
 
- 
+
 
 
 #### Organize
@@ -312,7 +312,7 @@ Group similar quotes, observations, and ideas so that we can start to see what t
 *   It’s okay if there are outliers—we don’t need to group everything
 *   We’ll get as far as we can in an hour
 
- 
+
 
 
 #### Organize more
@@ -322,21 +322,21 @@ Within each labeled group, identify tactics vs strategy
 
 
 *   Label or separate post-its within each group as a tactical item vs. a strategic item
-*   Tactical items are: 
+*   Tactical items are:
     *   A behavior or description of behavior directly observed or heard from the participants. Examples:
         *   “The participant could not find the word she was asked to find”
         *   “No, it says I can’t log in”
-*   Strategic items are: 
+*   Strategic items are:
     *   Observations and interpretations from the team. Examples:
         *   “The participant seemed confused”
         *   “His voice sounded frustrated”
-    *   “Ideal states” expressed by the user. Examples: 
-        *   “It would be cool if…” 
+    *   “Ideal states” expressed by the user. Examples:
+        *   “It would be cool if…”
         *   “I wish I could…”
         *   “What would be really helpful is…”
         *   “On this other site, the way they do it is…”
 
- 
+
 
 Articulate insights and prioritize next steps
 
@@ -355,7 +355,7 @@ Include *all* insights, not just pain points!
 *   Incorporate high priority items into roadmaps/initiatives/sprint objectives
     *   If anything would be better suited to another team, meet with PM to get it on their roadmap
 
- 
+
 
 
 #### Resources
@@ -386,7 +386,7 @@ Create a deck, host a workshop, or facilitate a conversation that covers:
 *   Prioritization framework/methodology
 *   Next steps
 
- 
+
 
 Sample readouts
 
@@ -396,7 +396,7 @@ Sample readouts
 *   [EXAMPLE: VFS usability test readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/redesign/research/CT-RedesignReadout-ExecSum-20201130.pdf)
 *   EXAMPLE: VSP Collaboration Cycle Custom Tracks
 
- 
+
 
 
 ## Tools we use
@@ -407,5 +407,3 @@ Sample readouts
 *   Optimal Workshop: This is a research tool you can use to conduct card sorts, tree tests, or unmoderated prototype tests. You can also use the Reframer tool within Optimal Workshop to synthesize research.
 *   Google Spreadsheet: Use this[ note taking template](https://docs.google.com/spreadsheets/d/1QHJ6b7Y5tTu0G3GcONRMfAb_rmRligNeFqIGHOqUo4Y/edit#gid=123966766) for usability test sessions and synthesis.
 *   Mural: This is a great group brainstorming tool. Can be used to conduct remote post-it synthesis, etc.
-
-

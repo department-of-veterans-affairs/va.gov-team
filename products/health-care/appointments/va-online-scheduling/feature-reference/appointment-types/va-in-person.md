@@ -25,6 +25,7 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 | Status: Past                                               |           |          | ✅    |          |
 | Status: Canceled                                           |           |          |      | ✅        |
 | Type of Care                                               | ✅         | ✅        | ✅    | ✅        |
+| Provider Name                                              | 1          | 1         | 1      | 1         | 
 | Facility Name                                              | ✅         | ✅        | ✅    | ✅        |
 | Facility Address                                           | ✅         | ✅        | ✅    | ✅        |
 | Directions Link                                            | ✅         | ✅        | ✅    | ✅        |
@@ -37,7 +38,7 @@ See [user stories for booked appointments](./all-appointment-types.md#booked-app
 
 
 **Notes:**
-1. Requirement not yet met - print action doesn't show in this state
+1. Requirement not yet met 
 
 ## Specifications
 

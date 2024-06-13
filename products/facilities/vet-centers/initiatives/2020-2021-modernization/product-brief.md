@@ -47,14 +47,8 @@ _Why should this project be a priority?_
 - Outreach coordinators at each Vet Center are tasked with creating awareness/promotion about the services in their community and digital presence will help with this, especially during this time of limited face-to-face. 
 
 **Business drivers**
-- Jessica Schiefer (VHA Vet Center Communications Officer) and selected team of representative Outreach Specialists 
-  - Bryan Doe (Springfield, MA)
-  - Elizabeth Jackson (Orlando, FL)
-  - Ken Milam (Escanaba, MI)
-  - Austin Wilmarth (Colorado Springs)
-  - Troy Stormoen (Reno, NV)
-- Aptive (vendor: asssting with data collection and organization from the technical side)
-
+- Jessica Schiefer (VHA Vet Center Communications Officer) and selected team of representative Outreach Specialists
+  
 ### Project Scope and Scale
 _What's in and what's out?_
 
@@ -117,18 +111,18 @@ Five additional locations were chosen with the intent of filling any gaps in rep
   - University Access Point  
   - Active mobile vet center
   
- | Date | Location | Outreach specialist | Criteria fulfilled | 
- | ---------- | ---------- |  ---------- | ---------- |
- | Original 5 | Orlando, FL | Elizabeth.jackson3@va.gov | Geographic distribution, no CAPS during COVID, close to VAMC, near military installations, another Vet Center close by |
- | Original 5 | Springfield, MA | Bryan.doe@va.gov |  Geographic distribution, no CAPs |
-  | Original 5 | Escanaba, MI | Kenneth.milam@va.gov|  Geographic distribution, 6 CAPS (3 permanently manned), 58 miles from VAMC, 16,000+ sq mile catchment area
- | Original 5, replaced Federal Way Vet Center  | Reno, NV | Troy.stormoen@va.gov | Geographic distribution, Contract for fee, close to VAMC |
-  | Original 5 | Colorado Springs, CO | Austin.wilmarth@va.gov | Geographic distribution, 3 active CAPS, 64 miles from VAMC, close to 4 military installations plus USAFA, 15,000+ square mile catchment area |
- | Added Jan 2021 | Rochester, NY | Shawn.Crandall1@va.gov |  |
- | Added Jan 2021 | Nashville, TN | Witt.Cook@va.gov |  Outstation seeking approval to become a Vet Center |
- | Added Jan 2021 | Cincinnati, OH | Erika.Reynolds@va.gov|   |
- | Added Jan 2021 | Great Falls, MT | Richard.Ferry@va.gov |  |
- | Added Jan 2021 | (Sacramento) Replaced by Concord, CA on 5/4/21 | Joseph.Moglia@va.gov | Proximity to another Vet Center. Conford replaced Sacramento due to Joe moving to Concord location  |
+ | Date | Location | Criteria fulfilled | 
+ | ---------- | ---------- |  ---------- |
+ | Original 5 | Orlando, FL |  Geographic distribution, no CAPS during COVID, close to VAMC, near military installations, another Vet Center close by |
+ | Original 5 | Springfield, MA |   Geographic distribution, no CAPs |
+  | Original 5 | Escanaba, MI |   Geographic distribution, 6 CAPS (3 permanently manned), 58 miles from VAMC, 16,000+ sq mile catchment area
+ | Original 5, replaced Federal Way Vet Center  | Reno, NV | Geographic distribution, Contract for fee, close to VAMC |
+  | Original 5 | Colorado Springs, CO |  Geographic distribution, 3 active CAPS, 64 miles from VAMC, close to 4 military installations plus USAFA, 15,000+ square mile catchment area |
+ | Added Jan 2021 | Rochester, NY |  |
+ | Added Jan 2021 | Nashville, TN |  Outstation seeking approval to become a Vet Center |
+ | Added Jan 2021 | Cincinnati, OH |    |
+ | Added Jan 2021 | Great Falls, MT |   |
+ | Added Jan 2021 | (Sacramento) Replaced by Concord, CA on 5/4/21 | Proximity to another Vet Center. Conford replaced Sacramento due to editor moving to Concord location  |
 
 ### Not in scope
 
@@ -216,3 +210,4 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Findings from Research Findings: Vet Center - non-client, Veteran, December 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/vet-centers/initiatives/2020-2021-modernization/discovery/veteran-usability-tests/research-findings.md)
 
+[Vet Center Analytics folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/analytics)

@@ -1,9 +1,23 @@
-# GA events in personalization applications
 
-- 221 references to `recordEvent` in 46 files
-	- 88 of these references are in the tests folder, and so they will not need to be migrated, but any changed events will need to have tests updated where needed
-- This number is approximate, because there are some abstracted functions that don't use the recordEvent function directly
+# GA events in authenticated experience team owned code
+
+- [Summary](#summary)
+- [API Call Events](#api-call-events)
+- [Other Events](#other-events)
+- [My VA Events](#my-va-events)
+- [Profile Events](#profile-events)
+- [View Dependents Events](#view-dependents-events)
+- [Platform shared code events](#platform-level-code-that-authenticated-experience-owns)
+- [Conclusion/Takeaways](#takeaways)
+
+## Summary
+- 257 references to `recordEvent` across the applications and platform code
+	- 88 of these references are in the `tests` folder, and so they will not need to be migrated per say, but any changed events will need to have tests updated where needed to have their event payloads match
+- This number is approximate, because there are some abstracted functions that don't use the `recordEvent` function directly
 	- Example: `src/applications/personalization/dashboard/helpers.jsx` includes a `recordDashboardClick` helper function that does this kind of abstraction
+- *IMPORTANT*: there are is additional code within `src/platform/user/profile` of vets website that we also own. This is where 36 of the references to `recordEvent` calls are located, and they are [documented at the end of this document here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/engineering-docs/GA_Events_Inventory.md#platform-level-code-that-authenticated-experience-owns)
+- Also note this is not exhaustive and I may have missed some calls as this is based on a best guess of where all this code is called, and really picking through things one file at a time may need to be done to fully cover any instances that are unique
+  - One example of where this _might_ happen is if the `recordEvent` is imported as a different name, because well its a 'default export' from it's file so it can actually be imported as any name unfortunately. This is one reason that I personally try to avoid using default exports, and instead try to stick to named exports so that imports are explicitly referenced as such names.  
 
 ## API Call events:
 
@@ -18,7 +32,10 @@
 | src/applications/personalization/profile/actions/personalInformation.js    | 7     |                                                                        |
 | src/applications/personalization/profile/ducks/communicationPreferences.js | 6     |                                                                        |
 | src/applications/personalization/profile/util/direct-deposit.js            | 1     |                                                                        |
-|                                                                            |       |                                                                        |
+| --- --- --- --- ---                                                        |       |                                                                        |
+| src/platform/user/profile/actions/index.js                                 | 1     |                                                                        |
+| src/platform/user/profile/vap-svc/containers/AddressValidationModal.jsx    | 1     |                                                                        |
+| src/platform/user/profile/vap-svc/containers/AddressValidationView.jsx     | 1      |                                                                        |
 
 ## Other Events
 
@@ -27,7 +44,7 @@ src/applications/personalization/components/IdentityNotVerified.jsx
 
 ---
 
-## Dashboard Events
+## My VA Events
 
 src/applications/personalization/dashboard/components/benefit-application-drafts/ApplyForBenefits.jsx
 ```
@@ -507,4 +524,257 @@ recordEvent({
 	event: 'cta-primary-button-click',
 });
 ```
+
+---
+
+## Platform level code that authenticated experience owns
+
+There is code within `src/platform/user/profile` of vets website that we also own. This includes 36 references to `recordEvent` calls
+
+src/platform/user/profile/actions/hca.js
+
+```
+        recordEvent({
+          event: `${DISABILITY_PREFIX}-combined-load-failed`,
+          'error-key': `${errorCode} internal error`,
+        });
+
+        recordEvent({
+          event: `${DISABILITY_PREFIX}-combined-load-failed`,
+          'error-key': `${errorCode} no combined rating found`,
+        });
+
+		recordEvent({ event: `${DISABILITY_PREFIX}-combined-load-success` });
+
+		DISIBILITY_PREFIX is a constant with the value 'disability-ratings' so events are constructed with that prefix
+		these are basically api call events so should probably be moved to the standard api-call event format
+```
+
+---
+
+src/platform/user/profile/vap-svc/actions/transactions.js
+*these appear to be the main events that track when a user updates a part of their profile to track success and failures*
+
+```
+        recordEvent({
+          event: 'profile-saved',
+          'profile-action': 'save-success',
+          'profile-section': analyticsSectionName,
+        });
+
+          recordEvent({
+            event: 'profile-edit-failure',
+            'profile-action': 'save-failure',
+            'profile-section': analyticsSectionName,
+            'error-key': `${errorCode}_${errorKey}-${analyticsSectionName}-save-failure`,
+          });
+          
+          recordEvent({
+            'error-key': undefined,
+          });
+
+      if (!fieldName.toLowerCase().includes('address')) {
+        recordEvent({
+          event:
+            method === 'DELETE' ? 'profile-deleted' : 'profile-transaction',
+          'profile-section': analyticsSectionName,
+        });
+      }
+
+      recordEvent({
+        event: 'profile-edit-failure',
+        'profile-action': 'save-failure',
+        'profile-section': profileSection,
+        'error-key': `tx-creation-error-${profileSection}-${code}-${title}-${detail}`,
+      });
+
+      recordEvent({
+        'error-key': undefined,
+      });
+
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'update-button',
+      'profile-section': analyticsSectionName,
+      'profile-addressValidationAlertShown': showModal ? 'yes' : 'no',
+      'profile-addressSuggestionProvided':
+        showModal && confirmedSuggestions.length ? 'yes' : 'no',
+    });
+
+	recordEvent({
+      event: 'profile-transaction',
+      'profile-section': analyticsSectionName,
+      'profile-addressSuggestionUsed': 'no',
+    });
+    
+    recordEvent({
+      event: 'profile-edit-failure',
+      'profile-action': 'address-suggestion-failure',
+      'profile-section': analyticsSectionName,
+      'error-key': `${errorCode}_${errorStatus}-address-suggestion-failure`,
+    });
+
+	recordEvent({
+      'error-key': undefined,
+    })
+```
+
+---
+src/platform/user/profile/vap-svc/components/base/VAPServiceEditModalActionButtons.jsx
+
+```
+  cancelDeleteAction = () => {
+    this.setState({ deleteInitiated: false });
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'cancel-delete-button',
+      'profile-section': this.props.analyticsSectionName,
+    });
+  };
+
+confirmDeleteAction = e => {
+    e.preventDefault();
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'confirm-delete-button',
+      'profile-section': this.props.analyticsSectionName,
+    });
+    this.props.onDelete();
+  };
+
+  handleDeleteInitiated = () => {
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'delete-button',
+      'profile-section': this.props.analyticsSectionName,
+    });
+    this.setState({ deleteInitiated: true });
+  };
+```
+
+---
+
+src/platform/user/profile/vap-svc/components/ProfileInformationFieldController.jsx
+
+```
+  cancelDeleteAction = () => {
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'cancel-delete-button',
+      'profile-section': this.props.analyticsSectionName,
+    });
+    this.closeModal();
+  };
+
+  confirmDeleteAction = e => {
+    e.preventDefault();
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'confirm-delete-button',
+      'profile-section': this.props.analyticsSectionName,
+    });
+    this.onDelete();
+  };
+
+  // event names are 'cancel-button' or 'edit-link'
+  captureEvent = actionName => {
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': actionName,
+      'profile-section': this.props.analyticsSectionName,
+    });
+  };
+  
+
+  handleDeleteInitiated = () => {
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'delete-button',
+      'profile-section': this.props.analyticsSectionName,
+    });
+    this.openRemoveModal();
+  };
+
+```
+
+---
+
+src/platform/user/profile/vap-svc/containers/AddressValidationModal.jsx
+
+```
+// these events are the same as the AddressValidationView listed in the next section, and I think the 'modal' component is no longer used, or should be removed if we indeed decide its deprecated (will required further investigation)
+
+      recordEvent({
+        event: 'profile-transaction',
+        'profile-section': analyticsSectionName,
+        'profile-addressSuggestionUsed': suggestedAddressSelected
+          ? 'yes'
+          : 'no',
+      });
+
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'edit-link',
+      'profile-section': analyticsSectionName,
+    });
+```
+
+---
+
+src/platform/user/profile/vap-svc/containers/AddressValidationView.jsx
+
+```
+recordEvent({
+        event: 'profile-transaction',
+        'profile-section': analyticsSectionName,
+        'profile-addressSuggestionUsed': suggestedAddressSelected
+          ? 'yes'
+          : 'no',
+      });
+
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': 'edit-link',
+      'profile-section': analyticsSectionName,
+    });
+```
+
+---
+
+src/platform/user/profile/vap-svc/containers/VAPServiceProfileField.jsx
+
+```
+    recordEvent({
+      event: 'profile-navigation',
+      'profile-action': actionName,
+      'profile-section': this.props.analyticsSectionName,
+    });
+```
+## Takeaways
+
+My VA product has only these two events:
+- `dashboard-navigation`
+- `nav-linkslist`
+  
+Profile has these events:
+- Some events that could be migrated to the standard api-call event:
+	- `profile-get-connected-apps-started` and similar prefixed -retrieved and -failed
+	- `profile-disconnect-connected-app-started`  -successful and -failed
+
+- `go-to-app-directory` could be a standard navigation/va-link based event?
+- `profile-navigation` one of the main events for things like external navigation
+- `int-checkbox-group-option-click` as long at this keeps a similar structure, then it _should not_ need to migrated I hope
+- `int-radio-buitton-option-click` - will be removed soon
+- `profile_modal` - we could probably removed this, as it was a way to have a custom event for a specific modal that has been fully rolled out (address update modal) or maybe we can replace it with some custom attributes better suited for GA4?
+- `profile-edit-failure` - indicated that a profile editing transaction failed (maybe this should be an api-call event)
+
+View Dependents App
+- not really our app but has `disability-view-dependents-load-failed` , `disability-view-dependents-load-success` and `cta-primary-button-click` events that will need to be patched
+
+Platform based code events
+- `profile-navigation`
+- `profile-transaction`
+- `profile-saved`
+- `profile-edit-failure`
+- these are a bit messier because they have lots of conditional bits that get added to the events to track where the event is occuring and what was happening during that event (cancel button clicked, address validation confirmed, deleted a field, etc) not sure the best way to move these to something more standard
 

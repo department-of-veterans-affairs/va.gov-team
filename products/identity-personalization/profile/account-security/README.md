@@ -1,6 +1,6 @@
 # Account Security Product Outline
 
-**Last updated:** December 29, 2023 (adding Figam links)
+**Last updated:** February 15, 2024 (removing sketch links)
      
 ## Table of Contents
 
@@ -65,9 +65,8 @@ See [profile product outline](https://github.com/department-of-veterans-affairs/
 Depending on what service someone has used to sign in, we dynamically change the link we show under the "Sign-in email address" section. We point them to whatever service they are currently signed in with (eg. so if they sign in with ID.me, the link takes them to ID.me).
 
 ## Design and UX
-- [Account Security Sketch files](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc), will be deprecated in early 2024
-- [Account Security Figma files](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0%3A265&mode=design&t=uEzcsmZxq4WLK76B-1), onboarding early 2024
+- [Design files](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0%3A265&mode=design&t=uEzcsmZxq4WLK76B-1)
 - [Account Security Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases)
 
 ### Flow diagrams
-- User flow diagram can be found on [the mobile page of our Sketch file](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/p/C518EEE8-2115-4CE4-B50A-5DD7E8410A18/canvas), and [Figma file](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0%3A265&mode=design&t=uEzcsmZxq4WLK76B-1)https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0%3A265&mode=design&t=uEzcsmZxq4WLK76B-1
+- User flow diagram can be found on [the mobile page of our design file](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0%3A265&mode=design&t=uEzcsmZxq4WLK76B-1)

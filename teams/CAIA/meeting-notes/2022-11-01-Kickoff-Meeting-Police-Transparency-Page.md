@@ -54,7 +54,7 @@
 - **Content source of truth**: Police activity vendor Axon
 - **Research plan:**
 - **Any epics/issues that may be helpful**:
-  - [Initiative brief on Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/police/readme.md#initiative-brief-va-police-transparency-wip)
+  - [Initiative brief on Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products//facilities/medical-centers/initiatives/2023-police-transparency/readme.md#initiative-brief-va-police-transparency-wip)
   - [Sitewide Facilities epic](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14327)
 
 

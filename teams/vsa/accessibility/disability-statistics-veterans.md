@@ -190,7 +190,7 @@ At a time when the rate of suicide among veterans and service members remains al
 
 ## Veterans and hearing loss
 
-- As of the close of fiscal year 2014, more than 933,000 Veterans were receiving disability compensation for hearing loss, and nearly 1.3 million received compensation for tinnitus. 
+- As of fiscal year 2020, more than 1.3 million Veterans were receiving disability compensation for hearing loss, and more than 2.3 million received compensation for tinnitus.
 - In addition, many Veterans score normally on hearing tests but have difficulty understanding speech. This condition, called auditory processing disorder, is often associated with blast exposure.
 - Tinnitus is the number-one disability among Veterans and affects at least 1 in 10 American adults.
 - [Source](https://www.research.va.gov/topics/hearing.cfm)

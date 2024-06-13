@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: User does not have VA health care
 
-**Last updated:** November 16, 2023
+**Last updated:** January 5, 2024 _(removal of reference to MyHealtheVet link on My VA, added Figma links)_
 
 For LOA3 users who sign in but do not have VA health care, they will see text stating that they do not have any health care information to show as well as a link to apply for VA health care.
 
@@ -9,10 +9,9 @@ For LOA3 users who sign in but do not have VA health care, they will see text st
 - Any logged in LOA3 user can see the Health care section on My VA.
 - When a LOA3 user does not have VA health care, they will see text in the Health care section that says “You do not have any health care information to show.”
 - Below this text, the user will see a link to [“Apply for VA health care”](https://www.va.gov/health-care/apply/application/introduction).
-- Below the "Apply for VA health care" link, the user will see a link to ["Visit My HealtheVet on VA.gov"](http://va.gov/my-health)
 - No other secondary links show in the Health care section in this scenario.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A350&mode=design&t=8ja2eQhXuACIWdMO-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A763&mode=design&t=8ja2eQhXuACIWdMO-1)
 
 ## How to reproduce
 - Find a staging user who does not have VA health care in the [health care staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#health-care-section).
@@ -20,5 +19,4 @@ For LOA3 users who sign in but do not have VA health care, they will see text st
 - Once logged in, you will be redirected to My VA.
 - Verify that you see text stating the user does not have any health care information to show in the Health care section.
 - Verify that you see a link to “Apply for VA health care” below that text.
-- Verify that you see a link to "Visit My HealtheVet on VA.gov" below that link.
 - Verify that you do not see anything else in the Health care section.

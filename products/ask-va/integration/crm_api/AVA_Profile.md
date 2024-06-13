@@ -14,6 +14,7 @@ None
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
 |secid|string|User security identifier|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
 
 ## Response
 
@@ -96,6 +97,46 @@ None
 </table>
 
 ## Notes
+
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+
+## AVA Dataverse Field Mapping
+
+This table reflects the data as stored in AVA/CRM. This data will be mapped to the response documented above.
+
+|**Prefilled field**|**CRM Contact Record Schema Name**|
+|---|---|
+|First Name|Submitter.FirstName|
+|Middle Name|Submitter.MiddleName|
+|Last Name|Submitter.LastName|
+|Suffix|Submitter.iris_Suffix|
+|Personal Email|Submitter.EMailAddress1|
+|Gender|Submitter.iris_SubmitterProvidedGender|
+|Submitter DoB|Submitter.BirthDate|
+|SSN|Submitter.GovernmentId|
+|Address|Submitter.Address1_Line1|
+|Apartment/Suite/Other|Submitter.iris_SubmitterProvidedStreet2|
+|City|Submitter.Address1_City|
+|State|Submitter.iris_State|
+|Zip|Submitter.Address 1_PostalCode|
+|Country|Submitter.iris_SubmitterProvidedCountry|
+|Province|Submitter.iris_SubmitterProvince|
+|Personal Phone|Submitter.Address 1_Telephone3|
+|Preferred Name|Submitter.iris_PreferredName|
+|Pronouns|Submitter.iris_PronounsIUse|
+|Branch of Service|Submitter.iris_SubmitterProvidedBranchofService|
+|Service Start Date|Submitter.iris_SubmitterProvidedVeteranServiceStartDate|
+|Service End Date|Submitter.iris_SubmitterProvidedVeteranServiceEndDate|
+|Service Number|Submitter.iris_SubmitterProvidedServiceNumber|
+|Claim Number|Submitter.iris_SubmitterProvidedClaimNumber|
+|School Facility Code|Submitter.iris_SchoolFacilityCode|
+|State of School|Submitter.iris_schoolstate|
+|Business phone|Submitter.Telephone1|
+|Business email|Submitter.EMailAddress2|
+|DoD ID/EDIPI Number|Submitter.veo_EDIPI|
+
+## Tasks / Comments
 
 * JD: ensure we're receiving optionset ids and returning. if not, specify how it deviates. for example: passing state as 2-char code, ...
 

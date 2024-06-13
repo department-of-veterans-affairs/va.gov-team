@@ -45,12 +45,10 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 #### Team Actions:
 - No Action needed, this alert is letting us know that the error rate is back to normal
 
----
 
-# Monitors & Alerts not yet in place
 
-## Monitor: 1010EZ submission job has failed retries
-### Triggered: 1010EZ submission job has failed with no retries left
+## Monitor: 1010EZR submission job has failed retries
+### Triggered: 1010EZR submission job has failed with no retries left
 #### Alert Reason
 - At least one application submission has been retried 24 times, has failed and will not be retried again.
 #### Team Actions
@@ -64,6 +62,10 @@ All alerts are set up to populate the **#health-tools-1010-apm** slack channel.
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
 - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
 - If the failures originate outside the form, the team will work with other VA.gov teams to triage, if needed.
+
+---
+
+# Monitors & Alerts not yet in place
 
 ## Monitor: 1010EZR submission alert for failed mailer
 ### Triggered: 1010EZR submission alert for failed mailer

@@ -1,6 +1,6 @@
 # Product Outline: Authenticated Menu
 
-**Last Updated: December 27, 2023** added new project initiative
+**Last Updated: February 13, 2024** updated design link
 
 ### Table of Contents
 
@@ -67,11 +67,11 @@ VA.gov has historically prioritized the unauthenticated experience in its naviga
 
 |Project/Inititive|Epic|Launch date|
 |---|---|---|
-|Add Claims Status Tool & Disability Rating |[Authenticated Menu Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452)| |
+|Add Claims Status Tool & Disability Rating )[outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-claims-and-disability-rating) |[Authenticated Menu Expansion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452))| |
 |Add Letters and Dependents links ([project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/authenticated-menu/add-dependents-letter))|[EPIC \| Profile \| Authenticated Menu Modification#62186](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62186)| Launched October 4, 2023|
 
 ## Design
 
-- [Sketch](https://www.sketch.com/s/113f0ee6-e77d-4b1b-bf02-af27580931fe/p/F06226AA-DBC6-482C-A474-E9585FDF7178/canvas) 
+- [Figma](https://www.figma.com/file/Gubm02mbd7AqhrJBSMt81Z/Authenticated-Experience---Authenticated-Menu?type=design&node-id=0%3A40&mode=design&t=VrO9z311xEBeRWhe-1) 
 
 ## Frontend

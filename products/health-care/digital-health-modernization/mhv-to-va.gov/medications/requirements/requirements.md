@@ -10,7 +10,8 @@
 | 7/20/23        | Kay Lawyer       |Updated to match design and logic      
 | 11/28/23        | Coulton Bunney     |Added NDC |
 | 12/29/23        | Coulton Bunney     |Updated to reflect actual Phase 0 requirements and added post-phase 0 improvements previously discussed|
-
+| 1/8/24        | Coulton Bunney     |Updated with more information about list view sort options|
+|1/11/24|Coutlon Bunney|Updated content document link|
 
 ## Table of Contents  
 
@@ -20,6 +21,8 @@
 ## Overview 
 
 This document lays out the requirements for Medications on VA.gov. It is broken out by the phases. We expect additional functionality to be iteratively added to the tool over time during the phased rollout. 
+
+* [Initial discovery report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/Discovery/Finding%20%26%20recommendations/Full%20report.md)
 
 ## Phase 0  
 
@@ -44,20 +47,23 @@ This document lays out the requirements for Medications on VA.gov. It is broken 
 12. Use of pagination to show all past medications- not separate space to show meds. 
 </details>
 
-### Requirements
-
-<details>
-<summary>List view of all medications</summary>
-</br>
+### List view
 
 This page provides the user with a list of their medications on file at the VA.
+
+<details>
+<summary>Requirements</summary>
 
 #### IA
 URL: `.../my-health/medications`  
 Breadcrumbs: No
 
-#### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+#### Content 
+
+> [!WARNING]  
+> Update content document link once moved to central folder
+
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=PZ0qKy&nav=eyJoIjoiODg5ODk3MDI4In0).
 
 * H1 for this page should be Medications
 * For each medication in list, include the following information
@@ -76,9 +82,16 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
   * PDF should include detailed information about each medication and the most recent fill information 
 * Ability to print the currently in view list of medications
 * Ability to sort list
-  * By last filled or documented date
-  * Alphabetically by status
-  * Alphabetically by name
+   * Last filled first
+      * Primary sort: Last filled date, newest to oldest (for Non-VA meds, we use Date entered since there won't be a last filled date)
+      * Secondary sort: Alphabetical by name (A to Z)
+   * Alphabetical by status
+      * Primary sort: Status, sorted A to Z
+      * Secondary sort: Alphabetical by name, sorted A to Z
+      * Tertiary sort: Last filled date, newest to oldest
+   * Alphabetical by name
+      * Primary sort: Name, sorted A to Z
+      * Secondary sort: Last filled date, sorted newest to oldest
 * For each medication, a user should be able to click on the first line of the card (name, strength, and form) to view detailed information about that medication
 * For each prescription with status active in the list with no original fill
   * Ability to fill this prescription by pressing a single button
@@ -94,18 +107,19 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
   * Provide link to information about how to renew a medication
 </details> 
 
-<details>
-<summary>Details view for each medication</summary>
-</br>
+### Details view
 
 This page provides the user with details for a single medication on file with the VA.
+
+<details>
+<summary>Requirements</summary>
 
 #### IA
 URL: `.../my-health/medications\prescription_id`  
 Breadcrumbs: Yes, `Medications > <Med name, strength, form>`
 
 #### Content 
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=yzjKrV&nav=eyJoIjoiMjEzMDc5OTAwNiJ9).
 
 * H1 for this page should be the name, strength, and form of the medication
 * VA prescriptions should include the following details
@@ -161,18 +175,19 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
   * Provide link to information about how to renew a medication
 </details>
 
-<details>
-<summary>About medications information page</summary>
-</br>
+### About medications
 
 This page provides the user with information about the medications tool as well as how to renew a med.
+
+<details>
+<summary>Requirements</summary>
 
 #### IA
 URL: `.../my-health/medications/about-medications`  
 Breadcrumbs: Yes, `Medications > About medications`
 
 #### Content
-Shipped product should reflect [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5).
+Shipped product should reflect [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=iycmaX&nav=eyJoIjoiMTkwODMzNDExNyJ9).
 
 * H1 for this page should be About medications
 * There should be four main sections
@@ -184,7 +199,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
       * This section includes content about the tool, such as what medications are included
    * More ways to manage your medications
       * This section includes information about how to renew a medication or update your information
-* For full content, review [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
+* For full content, review [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=iycmaX&nav=eyJoIjoiMTkwODMzNDExNyJ9)
 
 #### Functionality 
 * Ability to quickly navigate to medications list
@@ -192,8 +207,10 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 </details> 
 
 ### Assets
-* [Phase 0 content document](https://dvagov-my.sharepoint.com/:w:/r/personal/laura_willwerth_va_gov/Documents/MHV%20medications%20(shared%20folder)/Medications_working%20content%20document.docx?d=waac96f3da7604bb294d785bdf2381597&csf=1&web=1&e=W3q0N5)
-* [Sketch designs](https://www.figma.com/file/ErrBlPKh9aDxVRu9Ua6OlJ/RX-IMPORT-from-Sketch-FOR-REFERENCE?type=design&t=V4EbDpyXVox5ZrJg-6)
+* [Phase 0 content document](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Medications/Content%20documents/Medications_working%20content%20document.docx?d=wfad4256ed90144b2a26cb534f30c8c3a&csf=1&web=1&e=Y27dDH)
+* [Figma designs](https://www.figma.com/file/UGHasFKuKENvKz8AgSmxtI/Medications?type=design&node-id=1-7&mode=design&t=ywArxhr9nceeUWbZ-0)
+* [Usability testing report, round 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1/Rx_Findings_Readout.pdf)
+* [Usability testing report, round 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT/rx-round2-findings.pdf)
 
 ### Key design decisions
 <details>
@@ -209,6 +226,7 @@ Shipped product should reflect [Phase 0 content document](https://dvagov-my.shar
 |Cards in the list view will include status and a brief plain langauge explainer of that status where needed.| Including statues on the cards allows for sorting alphabetically by status and in the future can be used for easier understanding of filters. However, research showed that statuses were difficult for users to define and so we also included a plain language description to make sure users took the right actions in response. Statuses cannot be easily updated due to PBM Directive 1164.|
 |The about medications page will stay around post-phase 0. It will be housed as a child of medications IA-wise.|It includes important information about what is and is not included in the medications tool, which is information that is required to be included within the tool to comply with VA directive 1164.|
 |Users must call the automated pharmacy renewal phone number or send a SM to renew an Rx.|Building a push-button renewal functionality would take a lot of work and time, and is not a must have. Relying on phone or SM is at parity with the current tool.|
+|All medications, historical, documented, and active will be provided to users in a single list. |  |
 
 </details>
 

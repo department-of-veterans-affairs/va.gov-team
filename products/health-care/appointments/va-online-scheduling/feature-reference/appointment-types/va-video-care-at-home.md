@@ -21,11 +21,6 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 - Display a link to join the appointment:
   - The video visit link must display as active for 30 minutes prior to the appointment and for 4 hours after.
   - Video Visit appointments (`kind = telehealth`) without telehealth links must display additional instructions to the veteran regarding the missing links
-    
-- Video visit instructions from Virtual Care Manager (VCM) instructions must be suppressed if the instructions are any of the following:
-  - `Message sent in MyHealtheVet`
-  - `Resources Mailed to Patient`
-  - `Signup for My HealtheVet  Message`
 
 - User can review data and complete actions noted in the following table:
 
@@ -35,15 +30,17 @@ A scheduled telehealth appointment that the Veteran attends through VA Video Car
 | Status: Past                                               |          | ✅    |          |
 | Status: Canceled                                           |          |      | ✅        |
 | Type of Care                                               | ✅        | ✅    | ✅        |
+| Provider Name                                              | 1          |  1    |  1       |
 | Modality                                                   | ✅        | ✅    | ✅        |
 | Joining Instructions                                       | ✅        |      |          |
 | Link to Join                                               | ✅        |      |          |
-| Provider Name                                              | ✅        | ✅    | ✅        |
-| Prepare for video visit instructions                       | ✅        |      |          |
+| [Instructions](../../../appointments-reference/data-reference/data-definitions.md#instructions-how-to-join): [prepare for video visit](../../../appointments-reference/data-reference/data-definitions.md#video-visit-preparation---video-at-home) | ✅        |      |          |
 | Call to Reschedule Alert                                   | ✅        |      |          |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅        |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅        | ✅    | ✅        |
 
+Notes:
+1: 02/23/2024 - Requirement not yet met
 
 ### Technical notes
 

@@ -17,6 +17,8 @@ None
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
 |ICN|string|Logged in user's ICN|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
+
 
 ## Response
 
@@ -54,5 +56,10 @@ None
 </table>
 
 ## Notes
+
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+ 
+## Tasks / Comments
 
 * ~CC: This endpoint is necessary to retrieve any known issues on the portal that impact submitters or if we have planned maintenance an SA in CRM is able to create messages that display on the portal~

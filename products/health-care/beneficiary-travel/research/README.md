@@ -18,3 +18,13 @@
 #### [Patient Check In Research Plan for Travel Reimburesement MVP Remore Usability Test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/veteran-facing/travel-reimbursement-mvp-remote-test)
 #### [BTSSS Path Analysis - April 2022](./2022-04-btsss-path-analysis)
 
+
+### 2021
+
+#### [Check-in Remote Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/remote-discovery/research-findings.md)
+
+### Past IA Studies
+#### [Had travel pay in some of the tasks](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2023-06-health-wayfinding-study)
+
+### Other Resources
+#### [VetLink documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/discovery/VetLink)

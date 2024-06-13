@@ -1,5 +1,5 @@
 # Outstanding Debts Frontend Documentation
-Last updated: December 8, 2023 - updated url for "Manage your VA debt"
+**Last updated: February 15, 2024 - updated with Figma links**
 
 ### Background
 This is FE documentation for v2 of "payment info" on My VA in which the original single section My VA, "Benefit payments and debts" was separated out into two sections - one for Outstanding Debts and a second for Benefit Payments. This document specifically covers the Outstanding Debts section on My VA.
@@ -9,8 +9,8 @@ We show this section for every LOA3 user.
 
 ## UX Specs
 ### Debts card
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B3352077-2620-4C5B-9208-2B57CD6CFAC5)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/639F4902-A32D-4454-87E5-4BD2E50E578E)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A135&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A664&mode=design&t=CREOF8xG3jKa75nz-1)
 
 **Show card**
 
@@ -44,8 +44,8 @@ The link style on the card is the [active link style](https://design.va.gov/stor
 
 ### Copays card
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/EEFBF469-F7B6-4087-9EB4-FE6DE1EE2A12)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/DAB1B489-950A-4378-B784-0E4980F44A1E)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A76&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A637&mode=design&t=CREOF8xG3jKa75nz-1)
 
 **Show**
 
@@ -87,8 +87,8 @@ The link style on the card is the [active link style](https://design.va.gov/stor
 
 ### If a user has no overpayment debts or copay bills
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/05DF131D-F900-4770-A3D3-D3F4FAA23FD3)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A2F44369-D9B0-41F6-99FE-F41269378DA9)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A63&mode=design&t=CREOF8xG3jKa75nz-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A627&mode=design&t=CREOF8xG3jKa75nz-1)
 
 **Show**
 
@@ -135,7 +135,7 @@ You have no overpayment debts or copay bills.
 
 >We're sorry. We can't access some of your financial information right now.  We're working to fix this problem. Please check back later.
 - Display “Learn about VA debt” in the link list if the debt API fails or the user doesn't have debt.
-- If the debt API fails but the user has a copay bill to show, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/84364730-D309-402E-B75D-5F52D74726BF)
-- If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. In this case, the "Learn about VA debt" link does not appear. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C965BE9E-29BE-4111-B57B-653FE87B3E73)
-- If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. In this case, the secondary link should appear on the lefthand side on desktop, below the error. [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6FA54B37-C5D9-4DFF-B0F0-8C7FA9A28B77)
+- If the debt API fails but the user has a copay bill to show, show an error and show a card for copays. In this case, the secondary link should appear on the righthand side on desktop. [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A164&mode=design&t=CREOF8xG3jKa75nz-1)
+- If the copay API fails but the user has an outstanding debt to show, show an error and show a card for debts. In this case, the "Learn about VA debt" link does not appear. [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A178&mode=design&t=CREOF8xG3jKa75nz-1)
+- If both APIs fail or one fails and the user does not have any other info to show, show one error message and the Learn about VA debt link. In this case, the secondary link should appear on the lefthand side on desktop, below the error. [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A224&mode=design&t=CREOF8xG3jKa75nz-1)
 

@@ -27,7 +27,8 @@ Systems used by Application Processing teams
 
 
 ### Testing
-- xx/xx/22 Placeholder Text.
+- 4/4/2024 - Do not use test address data if you want to update a user's mailing address via the EZR. VA profile actually tests the validity of addresses, so a valid address should be used.
+     - Confirmed by Joshua Drumm when he used a Tampa Bay area Pizza Hut's address. 
 
 ### Business Processes
 - 9/7/2023 - Confirmation received from Joshua Faulkner

@@ -2,14 +2,14 @@
 # Initiative 5: Aging Content New Framework for Auto-Archiving Content
 
 ## Elevator Statement
-Create a framework to allow for auto-archving of content based on the notification time frames assigned to a content-type
+Create a way for any content type that's in a published state, and that has an expiration date, to be permanently auto-archived.
 
 ## Overview
-Content in general, and for the purpose of this Initiative, content types of Full-width Banners, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block in VA.gov become stale and aren’t monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. 
+Content becomes stale and isn't monitored or updated on a regular cadence, allowing many of them to still display after a campaign or event has passed. For our over-arching initiative, we want the ability to auto-archive Full width alerts aka Full-width banners, Home Page Benefit Promo Blocks, and the Home Page News Spotlight Blocks on the content's expiration date (EOD).
 
-A new notification [framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md) has been created for the content types mentioned above, wherein specific notification timeframes may be assigned to specific content types.
+As the first part of the over-arching initiative, a new notification [framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/initiatives/2024-specify-timeframes/Initiative-1-mvp-aging-content-new-framework.md) has been created for the any content types, wherein specific notification timeframes may be assigned per content type, and emails are sent to editors/authors reminding them to edit and extend display of, or archive their content.
 
-To provide timely information to Veterans and other users of VA.gov, and ensure stale content archived if no action is taken by the editor/author, we need to implement the ability for the content to be auto-archived at the end of the last day of a particular content's assigned timeframe.
+As the final piece of the Aging Content implementation, and to ensure VA.gov provides timely information to Veterans and other users of the site, we want content to be permanently auto-archived on a content's expiration date, if no action has been taken by the editor/author.
 
 ## Problem Statement
 How might we ensure a better site-user experience by ensuring alignment to our VA.gov style guide. Although editors are encouraged to appropriately use Full-width Banners, the Home Page Benefit Promo Block, and the Home Page News Spotlight Block, they don't always update or archive the content as needed, which results in stale content for Veterans, their caregivers and other users of VA.gov. This erodes confidence in the information and value we provide Veterans and others.
@@ -33,22 +33,16 @@ Veterans, their caregivers and other users of VA.gov will see relevant, up-to-da
 Veterans, their caregivers and other users of VA.gov continue to see outdated, irrelevant information which degrades their confidence in VA.gov as a reliable source for information, forms, etc. and causes frustration.
 
 ## Desired Business Outcomes
-If Editors don't take action to either extend or archive their content, then when the End Date/Time is reached, the content will be auto-archived. Note that notifications to Editors is part of the [MVP Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/2024-specify-timeframes/Initiative-2-aging-content-type-banner-notifications.md)
+If Editors don't take action to either extend display of, or archive their content, then when a content's expiration date (EOD) is reached, the content will be permanently auto-archived. Note that notifications to Editors is part of the [MVP Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/governance/aging-content-notifications/2024-specify-timeframes/Initiative-2-aging-content-type-banner-notifications.md)
 
 ## Undesired Business Outcomes
 Editors ignore the notification emails, and content they meant to extend is auto-archived and needs to be manually recreated (auto-archiving is permanent).
 
 ## Measuring Success
-100% of full-width banners, the home page news spotlight block, and the home page benefit promo block which aren't edited to then be extended by an editor are auto-archived, thus ensuring no stale or outdated content is presented to Veterans.
+100% of full-width banners, the home page news spotlight block, and the home page benefit promo block which aren't edited to then be extended by an editor and are still 'published' at the end of the content's expiration date are auto-archived, thus ensuring no stale or outdated content is presented to Veterans.
 
 ### Key Performance Indicators (KPIs)
 * KPIs TBD. This isn't something we can measure using Google Analytics, and may need to be a periodic manual review of content.
-* 
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
 Baseline Values consist of a list of current Full-width banners, as well as the Home Page Benefit Promo block and Home Page News Spotlight block.
@@ -62,28 +56,28 @@ For this particular implementation, there isn’t a way to obtain metrics from G
 
 ## Assumptions
 
-- Full-width banners are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published. They should only display for seven (7) days and be auto-archived on Day 7, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
-- Home Page Benefit Promo blokcs are to be used for promotional information for Veterans. They should only display for seven (30) days and be auto-archived on Day 30, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
-- - Home Page News Spotlight blokcs are to be used for news and information relevant to Veterans. They should only display for seven (30) days and be auto-archived on Day 30, if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
+- Full-width banners are to be used for emergencies or actions a veteran needs to take, generally during the timeframe the banner is published. They should only display for seven (7) days and be auto-archived at the end of Day 7 (the expiration date), if the editor hasn't edited with the intent to 'reset' the 7-day timeframe.
+- Home Page Benefit Promo blocks are to be used for promotional information for Veterans. They should only display for thirty (30) days and be auto-archived at the end of Day 30, if the editor hasn't edited with the intent to 'reset' the 30-day timeframe.
+- - Home Page News Spotlight blokcs are to be used for news and information relevant to Veterans. They should only display for thirty (30) days and be auto-archived at the end of Day 30, if the editor hasn't edited with the intent to 'reset' the 30-day timeframe.
 
 ## In Scope for this Initiative:
-Goal: Create a framework for auto-archiving, either a new on, or by adding on to the new notification framework. The framework should be extendable to other content types, if desired in the future. 
+Goal: Create a framework or method to auto-archive any content. The implementation should be extendable to any content type, if desired in the future, and will be based on a content's expiration date (EOD).
  
-- As mentioned above, the framework should be easily extendable to handle other content types besides the examples listed below, which will be implemented after the framework is completed.
-  - Full-width banner: content type will be assigned a 7-day timeframe, with notifications sent to the editors three (3) days before Day 7, and the morning of Day 7
-  - Home Page Promo Block:  content type is assigned a 21-day timeframe with notifications sent to the editors three (3) days before Day 21, and the morning of Day 21. (Note that 21 days is just being used as an example. (Note that this content block will actually be configured to 30 days; the 21 days mentioned above was just to illustrate that different timeframes may be assigned in the future.)
-  - Home Page News Block: content type is assigned a 30-day timeframe with notifications sent to the editors three (3) days before Day 30, and the morning of Day 30.
-- Note that actually configuring the various content types will be handled in future initiatives. This is purely to build the framework.
- 
+  - Full-width banner: content type has a a 7-day timeframe, and if the content editor hasn't manually archived the content, then at 11:59:59PM (23:59:59) on the expiration date (Day 7 in this scenario) the content will be auto-archived.
+    - Note that the if the editor, within the 7 days, edits the content in order to 'reset' the timeline, basically restarting the 7 days,then the auto-archive will look at the 'new' expiration date.
+  - Home Page Promo Block:  content type has a a 30-day timeframe, and if the content editor hasn't manually archived the content, then at 11:59:59PM (23:59:59) on on the expiration dats (Day 30 in this scenario) the content will be auto-archived.
+    - Note that the if the editor, within the 30 days, edits the content in order to 'reset' the timeline, basically restarting the 30 days, then the auto-archive will look at the 'new' expiration date.
+  - Home Page News Block: content type has a a 30-day timeframe, and if the content editor hasn't manually archived the content, then at 11:59:59PM (23:59:59) on the expiration dates (Day 30 in this scenario) the content will be auto-archived.
+    - Note that the if the editor, within the 30 days, edits the content in order to 'reset' the timeline, basically restarting the 30 days, then the auto-archive will look at the 'new' expiration date.
+-  
 ### How we are approaching the solution
-- By either altering the existing framework, or creating a new framework.
+- TBD
 
 #### High-level Requirements
 
-
 | Short Description | Requirement | Additional Information |
 |-------------------|------------------|-------------------|
-| Content is auto-archived based on the timeframe assigned to it | **AS A** PO/PM, **I WANT** to know that content will be auto-archived on the last day of the timeframe assigned to it, **SO THAT** Veterans, their caregivers and other VA.gov users see only current, relevant information | |
+| Content is auto-archived based on a content's expiration date | **AS A** PO/PM, **I WANT** to know that content will be auto-archived oexpiration date assigned to a particular content type, **SO THAT** Veterans, their families, caregivers, and survivors see only current, relevant information | |
 
 --- 
 
@@ -104,6 +98,7 @@ Goal: Create a framework for auto-archiving, either a new on, or by adding on to
 ### Current Status
 | Date | Status | Author |
 |-------------------|------------------|-------------------|
+| 03-15-2024 | Edited Initiative | Fran Cross |
 | 12/28/2023 | Created Initiative | Fran Cross |
 | |  |
 

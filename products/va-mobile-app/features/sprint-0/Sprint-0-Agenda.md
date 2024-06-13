@@ -117,7 +117,7 @@ The Sprint 0 meeting is a time to do the following:
 ## 8/3/23
 
 * [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)
-* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta)
+* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%20Track%20referring%20URLs.md) (Greta)
 
 ## 7/20/23
 

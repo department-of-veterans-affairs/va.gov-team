@@ -3,9 +3,9 @@
 
 ## Meeting Purpose:
 
-  * Highlight the quarterly plan and review progress
-  * Review changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
-  * Review insights from ongoing discovery or delivery work in the for the current / future sprints
+  * Review status of current work
+  * Discuss changes in risks, dependencies, assumptions, resources, staffing or priority for the current / future sprints
+  * Review insights from ongoing discovery or delivery work for the current / future sprints
   * Triage unplanned work
   * POs reconfirm project priorities
   * [Mobile SoS Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/3)
@@ -14,6 +14,16 @@
 
 ## Agenda
 
+## 5/15/24
+* **New Meeting Format**
+  * Confirm most important info to cover from POs perspective
+  * Review Epic status from [Kanban board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)?
+
+
+
+
+
+__________________________________________________________________________
 ## 12/12/23
 
 * **Q4 Projects in Progress**

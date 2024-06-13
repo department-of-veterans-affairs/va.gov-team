@@ -1,5 +1,5 @@
 # Facility Locator Product Outline
->last updated September 2023
+>last updated Jan 2024
 
 # Table of Contents
 - [Product overview](#product-overview)
@@ -25,11 +25,13 @@ The Facility Locator is the newer version of VA's Legacy directory and was previ
 - V2 launched: November 11th, 2016
 - V3: June 2017: addition of wait time data and Vet Centers
 - Community Care work: MVP milestone 10/23/2018
+- 2023: Added PPMS Core Provider training data to vets-api (but not yet exposed to FE)
 
 ## Product approach 
 With regard to new features and functionality, we use a data-driven approach to prioritize
 - opportunities to display facility data which is accurate, meaningful, and relevant to Veteran decision-making
 - search experiences that are mobile-first, accessibility-first and consistent with Veteran mental models
+
 Since 2019, our mission has been to consolidate the many, many disparate finders and locator tools into one facility search tool. We will sunset the "Can't find what you are looking for?" escape hatch below the map once all searches can be performed by the Facility Locator.
 
 ## Value propositions

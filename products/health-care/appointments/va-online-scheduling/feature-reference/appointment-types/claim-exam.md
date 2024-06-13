@@ -27,6 +27,7 @@ See [user stories for all appointment types](./all-appointment-types#user-storie
 | Status: Canceled                                           |           |      | ✅        |
 | Appointment Instructions                                   | ✅         |      |          |
 | Type of Care                                               | ✅         | ✅    | ✅        |
+| Provider Name                                              | 1          |  1    |  1       |
 | Facility Name                                              | ✅         | ✅    | ✅        |
 | Facility Address                                           | ✅         | ✅    | ✅        |
 | Directions Link                                            | ✅         | ✅    | ✅        |
@@ -35,6 +36,9 @@ See [user stories for all appointment types](./all-appointment-types#user-storie
 | Call to Reschedule Alert                                   | ✅         | ✅    | ✅        |
 | [Add to Calendar Action](../tools/tool-add-to-calendar.md) | ✅         |      |          |
 | [Print Action](../tools/tool-print.md)                     | ✅         | ✅    | ✅        |
+
+Notes:
+1: 02/23/2024 - Requirement not yet met
 
 ## Technical note
 

@@ -28,11 +28,11 @@ Community care providers and pharmacies (usually non-VA facilities)	| Email the 
 ---	|	---
 VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
 VHA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
-Vet Centers | N/A - services are standardized and not dynamic/database-driven
-Vet Center Outstations | N/A - services are standardized and not dynamic/database-driven
-Vet Centers Community Access Point  | N/A - No Services
-NCA Cemeteries | N/A - No Services
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
+Vet Centers | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office or the relevant editor
+Vet Center Outstations | N/A - Services are associated with the main Vet Center, not with the Outstation
+Vet Centers Community Access Point  | N/A - Services are associated with the main Vet Center, not with the Outstation
+NCA Cemeteries | N/A - No services are associated
+VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
  
  ## Facility Status

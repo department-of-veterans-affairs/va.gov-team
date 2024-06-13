@@ -1,8 +1,6 @@
-# Project outline: Add claims and disability rating to the authenticated menu
+# Project outline: Add ~claims and~ disability rating to the authenticated menu
 
-`First Draft`
-
-**Last Updated: January 2, 2024: Samara updated KPI section**
+**Last Updated: February 13: Travis updated to remove claims**
 
 ### Communications
 
@@ -36,7 +34,11 @@ Sitewide Public Websites
 
 We had substantial success by adding [letters and dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/authenticated-menu/add-dependents-letter/README.md) to the Authenticated Menu in 2023. 
 
-We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Claims_** and **_Disability Rating_** information. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
+We're hoping to build on that success by expanding the tools linked from the Authenticated Menu by adding a link to **_Disability Rating_**. Additionally, the Sitewide Public Websites team is currently working on a redesigned header/footer for which the Authenticated Experience team can help by running usability testing for the new design that incorporate the additional tools in the Auth Menu. 
+
+> [!NOTE]  
+> We originally considered including both claims and disability rating and later narrowed this to just disability rating; [see this slack thread where this was discussed](https://dsva.slack.com/archives/C909ZG2BB/p1704921178281609) 
+
 
 ## Problem Statement
 
@@ -52,7 +54,7 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 ### Undesired User Outcomes
 
-- Users still look for Claims and Disability Rating information in the profile.
+- User search patterns show veterans still unable to located Disability Rating information
 
 ## Business Outcomes
 
@@ -60,7 +62,7 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 *Why would your business want this to exist? With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-- Adding links to Claims and Disability Rating information in the authenticated menu is a significantly lighterweight solution than fully integrating these sections into the profile, and even easier than simply linking to these pages from the profile.
+- Adding link Disability Rating information in the authenticated menu is a significantly lighterweight solution than fully integrating this into the profile, and even easier than simply linking to these pages from the profile.
 - Our first experiment in this menu helped prove out that we can/should more holistically leverage the authenticated menu to support the authenticated experience, we're hoping to see a continued trend here that the authenticated menu can be a helpful tool for the logged in experience 
 
 ### Undesired Business Outcomes
@@ -108,19 +110,23 @@ We're hoping to build on that success by expanding the tools linked from the Aut
 
 (This is just a starting list. Feel free to add whatever is relevant here.)
 
-- [EPIC | Profile | Authenticated Menu Expansion #72452](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452)
+- [EPIC | Profile | Authenticated Menu Expansion #72452](https://github.com/department-of-veterans-affairs/va.gov-team/issues/72452
+- [Research can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/discovery-research/authenticated-menu-usability)
 
 
 
 ## Key dates
 
 - December 2023: Initial discussions; project kickoff
+- January - February 2024: Research
+- February `decision pending what we do next`
 
 
 ## Design
 
-- Current Auth Menu
+- [Auth Menu Figma](https://www.figma.com/file/Gubm02mbd7AqhrJBSMt81Z/Authenticated-Experience---Authenticated-Menu?type=design&node-id=1-280&mode=design&t=Wm4Jn5dsr4jFLRzq-0)
 - [Public Websites Redesign](https://www.sketch.com/s/4558672b-741f-4d59-84f0-796020d3ef57/p/35AABFD6-32D4-4484-A092-69366F2D69EA/canvas)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/discovery-research/authenticated-menu-usability/summary.md#recommendations)
    
 ### Before
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b3c9247e-2707-49a8-a3c2-73a3fcaa52ba)

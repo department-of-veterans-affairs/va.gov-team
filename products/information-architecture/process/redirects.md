@@ -17,11 +17,11 @@ Redirects must be formally requested so they can be vetted for accuracy and appr
 
 **Implement a redirect any time you make a change to a page on VA.gov that will result in a change to it’s URL**
 - Examples of these changes are: 
-- Retiring or eliminating a page 
-- Merging or dividing pages resulting in new URLs 
-- Modifying the context of a page resulting in a need for different keywords and therefore a change to the H1 and URL 
-- Moving a page in the site under a new parent page  
-- Making any of the above changes to a parent page will likely result in similar changes for all its child pages 
+   - Retiring or eliminating a page 
+   - Merging or dividing pages resulting in new URLs 
+   - Modifying the context of a page resulting in a need for different keywords and therefore a change to the H1 and URL 
+   - Moving a page in the site under a new parent page  
+   - Making any of the above changes to a parent page will likely result in similar changes for all its child pages 
 
 **Redirect pages to a new page with equivalent content**
 - When selecting the destination of a redirect, choose a landing page that contains similar content in meaning and level of detail.  If a page is not available for the same topic or level of detail, look for a slightly broader page that may help answer their question.  Only default to sending them to the home page of the site as a last resort, when no other similar content page is available.  
@@ -34,6 +34,9 @@ Redirects must be formally requested so they can be vetted for accuracy and appr
 
 **Update links across the site**
 - All links within VA.gov should be updated (when possible) to reflect the new destination, or be removed (in the case of retiring content).  This ensures that all referring links are accurate and sending visitors directly to the correct page and not relying on a redirect. 
+
+**Do not redirect documents**
+- We are not able to redirect documents, such as PDFs and Excel spreadsheets.
 
 ## Redirects at VA
 

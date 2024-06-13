@@ -1,5 +1,439 @@
 ## PO Sync
 
+March 21, 2024
+
+* Service Pilot 1 Planning
+    * Dev decisions - updates
+    * Waiting to hear back from Little Rock - may be end of April (think our LR contact is out of office through the end of the month)
+    * Pilot 2 in Prod if possible - use that as a timeline to set up second pilot (have already met with Fayetteville and they’re on board)
+* ID.me
+    * asked about being included in TAP
+    * https://www.tapevents.mil/Assets/ResourceContent/TAP/VA-Benefits-Participant-Guide.pdf
+    * can ask Kyle (cc Tom and Samara) to inquire about research efforts 
+    * kiosks? https://dsva.slack.com/archives/C05TC25SA4W/p1708452347185889
+* Future Glance: Campaign priorities
+    * USiP Notice
+    * Segmented emails
+    * Access VA site coordination
+        * next steps?
+    * Interstitial page
+    * Call Center Train the Trainer curriculum
+        * reach out to National Call Center 
+    * TAP possibilities
+
+
+March 14, 2024
+
+* Pilot planning Update
+    * Little Rock, Arkansas, 1st/2nd week of April
+    * Are there any administrative tasks we need to complete with VA?
+        * has COR tentatively approved travel?
+        * include Marva, let her know our estimated dates and get packet of info over to COR
+* Behavior Change Campaign updates/news?
+* Team can work in SSiT channel
+    * can also create a dedicated IPP channel (Samara creating) 
+
+
+
+March 7, 2024
+
+* Welcome Samara
+* Research strategy for communication campaign
+    * Next steps:
+        * Inform Sitewide team we will be conducting this research
+        * Get input on any other research goals
+        * Reach out to VSignal team
+* IPP Pilot
+    * Setting up meeting with Little Rock, AR
+
+
+Feb 23, 2024
+
+* Adjust naming conventions for restricted
+    * Verified Login.gov account for VA.gov
+    * VA.gov only Login,gov verified account
+* Data-deep dive
+    * Login.gov accounts used across agencies
+    * VEO VSignals; https://news.va.gov/108073/vsignals-survey-specially-adapted-housing/
+    * Understanding current survey tools used to collect Veteran feedback. Use this information to identify feedback mechanisms for large scale data collection. Ultimate goal is to evaluate impact of communication campaign and learn ways to motivate users who have not yet created a modern credential.
+* Call out how PII is stored and wiped
+* Set up follow up call with Dev to clarify PII bundle
+* Technical walk through
+    * Pull that into orientation material
+
+
+Feb 15, 2024
+
+* IPP Pilot Timeline
+    * any other IPP Pilot materials needed?
+* Identity Roadmap? What is helpful, here?
+    * include IPP
+* ID.me changes - next steps
+    * verbiage/support materials
+* Data deep-dive
+
+
+Feb 8, 2024
+
+* Agenda for meeting with Core on Fri:
+    * Rahul/Lauren draft agenda
+    * use topology/network diagram
+    * develop our own identity assurance (still at IAL2 level, but internal process distinct from CSPs)
+        * Kantaracan audit process
+* ID.me KBV removal timeline (week of Feb 26)
+    * is messaging needed?
+    * support?
+    * what might we expect with other pathways? more phone calls to ID.me? Are they prepared to scale? What are other forms of ID accepted?
+* ID.me IPP roll-out timeline
+    * success metrics for a pilot
+    * how many Veterans (10%?) to allow for pilot?
+    * how long run pilot? until a certain % is met?
+    * how advertise post-pilot?
+
+https://dsva.slack.com/files/U04M9MH4LBW/F06HYG0ERGT/id.me___sterling_in-person_verification_guide.pdf
+
+Action Items
+
+* Rahul/Lauren agenda for tomorrow
+* Lauren draft success metrics for ID.me "pilot"
+* Tom ask ID.me for data on IRS rollout (success rates, demographic info, support - from UPS, ID.me, IRS)
+* Tom ask ID.me for demo recording
+* Lauren draft metrics around removing KBV option 
+* Tom/Lauren ask ID.me for data on KBV
+* Lauren draft support questions for KBV, send to Tom
+
+
+Feb 1, 2024
+
+* PII bundle storage and Login.gov ‘restricted’ account
+    * CSP is determining level of authentication
+    * If you sign in with Login.gov, it’s taking what the CSP said about level of authentication
+    * some might even be hardcoded (if ID.me and LOA2 then do this... for example)
+    * VA.gov has a lot of debt in this area
+* Now looking like 3 paths, potentially
+    * experience baked-in, like USPS (deep integration)
+        * login may feel like this is too big
+    * We send them the PII bundle with the UUID, we verified them, they accept it
+    * Mobile driver’s license standard (ISO standard) added to a mobile wallet - that would be a credential
+        * login has on their roadmap to implement these MDLs
+        * if we issued a digital ID, they would accept
+* Value of pilot is an IAL2-compliant process being established at VA, how would it scale, etc?
+    * agree
+* Next Steps:
+    * Tom to send intro note to Joe N. to hold conversation to explore options for pilot
+
+
+Jan 19, 2024
+
+* VHRC debrief
+* review Pilot One-Pager
+
+
+Jan 11, 2024
+
+
+* recap action items from Wednesday with Danielle:
+    * 1) @Lauren Morris  ping Danielle about the USiP content review
+    * 2) @Lauren Morris  send list of comms tasks we have to SSiT for alignment
+    * 3) @Carl Dickerson ping Danielle about reaching out to Tim H. with VEO to validate what’s in their distro list
+    * 4) @Lauren Morris  start pulling lists of recipients based on access to VA services (including mobile) in last 2 years
+* ‘Coming Soon’ email
+    * recipients self-identified from research sessions and meetings
+    * Call Center group in particular (Carnetta, specifically) wanted to see a preview
+* Debrief ID.me meeting and next steps
+
+
+
+Jan 4, 2024
+
+* Review clarification on Roles and Responsibilities
+* SSiT Sharepoint site - a place to store team docs and other resources (such as Call Center recording)
+    * Tom will check in about this - agree, let’s set one up
+* USiP review status and option to toggle viewers
+    * Tom has been talking with Oddball team to prepare for changing to sign in
+    * suggest closing old PR and starting new
+    * can draft PR, hold it for Danielle’s review, work with Oddball team to merge it to codebase and flag to keep in staging (or keep behind flipper)
+    * Tom will ping Danielle and give Oddball another head’s up that this is happening
+* VEO email to Veterans
+    * where are these email addresses coming from?
+    * we will draft content and send to Danielle/Tom
+* DIRA template for IPP process
+* ATO for IPP Pilot
+* Login.gov IPP meeting cadence
+
+
+
+
+Dec 21, 2023
+
+* IPP - Deferred Identity Proofing Process for Pilot
+* Feedback on comms timeline submitted to SSiT in Slack
+
+
+
+Dec 14, 2023
+
+* Prepping Comms materials to send to Danielle for review
+* Internal briefing (Patrick referred to)
+* ID.me In-person proofing 
+
+
+
+
+Nov 17, 2023
+
+* Off-site Updates:
+    * Worked on memo
+    * Removal of DSL; memo needed
+    * 12/1/2024 remains key date
+    * Prepare gantt chart to be shared asap no need to delay
+    * Charles would like to move forward without memo
+    * Danielle to be positioned in control of communication
+    * Informal stakeholder kick off: LGA, Danielle Thierry, Tom Black [Lauren Alexanderson TBD]
+        * Async thread with Danielle, share out gantt chart to preview
+        * Week of 12/11/23 for informal stakeholder kickoff
+* Review updated Strategic Roadmap
+    * Extended through 12/24
+    * Updated MO Mural for public viewing
+* Align on risks of communication campaign delay
+    * Agree on steps needed to launch next campaign
+* IPP Stakeholder Map
+* SME Interview Candidates:
+    * Susan Haidary 
+        * Introduce IPP [slide deck], goal: learn from coordinators in structured way to inform experiences and service to ensure feasibility and amplifying ease of adaptability 
+        * Separate call for credential migration
+        * Will provide recommendations for other SME interviews, gather data on demographics of communities served
+        * Can set up calls with coordinators
+        * Share out with Susan, the why; include references to executive order 
+    * Sara Temlitz (MHV Program Coordinator)
+    * Health Apps MHV Coordinator Monthly call-focus group
+        * Check in to see if we should build off of their focus group or set up an unique IPP specific call
+    * Shannon Ford; Benefits building a relationship with VSOs
+    * VAMC stakeholder candidate suggestions
+* Office of Connected Care; Dr. Neel Evans, Dr. Josephs
+    * Digital services for health
+
+
+
+
+Nov 9, 2023
+
+* OCTO offsite in Philly next week (Nov 13th)
+    * Will be online, but sporadically
+* Tom OOO week of Nov 27th
+    * 11/30 PO sync cancelled 
+* Tom in DC week of Dec 4th
+    * Meeting ID.me in person 12/5
+    * Meeting Login.gov 12/6 and 7
+        * 12/7 morning, partner advisory meeting (Fed only). 
+        * 12/5 or 12/6 opportunity for LGA to meet in person; Tom will provide more info on agenda and optimal meeting goals [memo on deprecation]. LGA will follow up with Dawn first, then reach out to Tom early week of 11/13
+    * December travel for Login.gov Adoption team?
+* Week of 12/25/23
+    * TBD 12/28/23, anticipate slow down →possibly pause
+* Tom OOO week of Jan 22nd
+    * 1/25/23 PO sync cancelled 
+* DSL and MHV sunset, tentative Dec 1, 2024
+    * CIO / DCIO memo in the works to make official
+    * Already pre-communicating to various leadership in OIT and VHA
+    * Formally stating modern credential migration and legacy migration deprecation, 12/1/2024, users cannot login to legacy sign in service. Includes outcomes, measures, and responsible parties. Will be signed at level of Charles (VHA, VBA, etc). Inclusive of IPP; serves as charter for OCTO Identity
+        * Sequence: Memo signed, then kick off. Flexibility to do kick off then memo sign follows [need to mention memo regardless]
+* Review OCTO Leads Draft Kickoff Presentation
+* Roadmap revisions with new dates
+* Reconfirm stakeholder map; IPP specific or inclusive of comm campaign→ IPP
+    * Regional offices, Benefits
+* SME Interviews for Proofing Agents
+    * Here to learn; Health Apps MHV Coordinator group
+    * Put together list of 3-5 candidates for SME interviews
+* Get introduction to virtual health centers
+
+
+
+
+Nov 2, 2023
+
+* Strategy Roadmap Next Steps
+    * meeting with Tom, Patrick, Chris, Charles, Danielle, Lauren for direct view of what’s going on
+    * sunset legacy credentials by eoy 2024
+    * Next steps: 
+        * official documentation/memo (Tom)
+        * socialize date within OCTO leadership team
+        * Add context around roadmap (put a short deck together - Identity team, who we are, vision, objectives, what the roadmap means/shows)
+* Updating Messaging about Login.gov Adoption to + ID.me Adoption (“Modern Credential Adoption” was suggested)
+* Lois Lewis (USDS) covering for Robyn Singleton
+
+
+Oct 27, 2023
+
+* Anticipated OOO November 2023-January 2024
+* Share link with Tom of Mural for him to give input; may schedule a follow up meeting for final review. Goal to share out in OCTO retreat 11/14
+* Prep leadership memo of FY 24 in next PO Sync
+* Tom meeting with Chris, Lauren, Danielle, and Charles on 11/1/23
+* Porta and Rahul finding time with Tom to discuss IPP charter and tech write up
+
+
+Oct 19, 2023
+
+* Connect with Shane Strassberg regarding research strategy
+    * Login.gov UX Ops Meeting
+* Reconfirm skipping November call center and help desk rep monthly call
+* Roadmap swimlane category refinement
+
+
+Oct 12, 2023
+
+* IPP Charter questions
+    * Draft fraud EO references Login.gov and VA collab on in person proofing; still in approval process
+    * Not necessarily a need for inter-agency agreement but instead have a project charter to talk through fundamental components, establish shared goals, define roles, distinguish which partner/agency owns what, NIST compliance navigation, define architect solutions that are mutually beneficial to avoid zero sum gain
+    * End goal is to offer template for replicability across other federal agencies and position it as a shared service
+    * Chart elements:
+        * Shared goals/outcomes
+            * Eg/IAL2 compliance
+        * Definition of success
+        * Stakeholder roles and interactions
+        * Role of meetings
+    * Possible timeline
+        * Next PO sync (10/19)-initial template
+        * 10/24 - discuss charter with Login.gov
+* Review revised Strategic Roadmap
+    * Next steps
+* ID.me chat
+    * Strategy around ID.me adoption
+* Site Audit
+    * Opportunity to begin with Sitewide
+    * Can start this work, call out what needs to change
+* Follow up needed forjoint fraud research
+    * Tom will follow up
+
+
+Oct 5, 2023
+
+* Review updates to Strategic Roadmap
+    * DS Logon sunset dates
+* Strategy:
+    * Develop strategic roadmap of what we’re proposing
+    * Get concurrence with OCTO leaders
+    * Communication outward to broader CTO team/others at VA
+    * (need to get alignment prior to holding further meetings, including Call Center, etc)
+    * can start to add full DSL sunset (have that info)
+        * align with interagency agreement expiration (May ’24) (Defense Manpower Data Center - DMDC, group that managers DSLogon)
+            * 8 months if May ’24 is the DSL sunset 
+                * Impact would be 2 months per phase
+                * Consideration of Veteran segment that are delayed and unable to meet May ’24 deadline
+                * Need to get VA LT input on what is acceptable minimum conversion rate to remove login button; risk acceptance
+                * Need to determine who "inherits" deferred identity proofing or possibly not feasible
+        * latest decision date is January
+* Question: Who approves which identification documents we can use for in-person proofing? NIST, VA.gov, who else?
+    * Connected with Edward Horne on Friday, 9/29
+    * Considerations for accepting VHIC:
+        * Not all VHICs are consistent (versions prior to 2014)
+        * Exclusion of homeless or older populations who may only have VHIC
+        * Potential burden on proofing agent and available APIs to distinguish if VHIC is compliant enough given variation of VHIC identification documents
+    * Plan to follow up
+    * Notes:
+        * Priority should be state issued drivers license
+        * Clarify how VHIC ensures assurance
+        * Demonstrate that our process achieves IAL2
+            * Then Login.gov will accept it
+            * Unclear who signs off but most likely to involve Identity Governance Council — this is a back up plan
+            * Map to NIST v3 or where it’s going in v4
+                * Creates an opp to trigger directive to specify this
+            * Ask Edward what is current process to get VHIC versus history of process changes
+* Login.gov has a UX Ops team
+    * Nick Ng, product designer at Login.gov
+    * Danielle Lee, content strategist, IIRC
+    * Conducting research on Login.gov authentication (see here)
+    * Reach out through Carrie or Sierra via DSVA Identity channel to learn more about research plan and possible alignment
+* Question: For IPP, when should customer User Acceptance Testing occur? 
+    * As of now, we are tentatively envisioning UAT and QA first with VA customers, such as you, Tom, then usability testing with Veterans and proofing agents
+    * Who from VA can participate in UAT? 
+    * What’s a good cadence for UAT?
+
+Action Items:
+
+* Schedule time early next week with Tom for a co-working session to get strategy roadmap to a place of done
+* Ask Edward what is current process to get VHIC versus history of process changes
+* Reach out to Sierra, SP (will tag Tom). Possibly bi-weekly login meeting to discuss
+
+Sep 28, 2023
+
+* Strategy Roadmap co-creation
+    * review draft, refine together
+* Finalize next steps for circulating
+* Updates:
+    * For IPP - On the technical side one of the things we need is a data flow diagram so we're focusing on that this sprint and have a meeting set with login.gov dev for Oct 6 to review with them.
+    * VHIC stakeholder meeting bumped to 9/30
+        * Scheduled a meeting with Keith Ross, Edward Horne and Kimberly Bostic, VHA HEC VHIC working group
+        * Determine VHIC criteria to implement in IPP
+* Shutdown update
+    * No expectations of funding impact CEDAR teams; TBD on impact to Fed employees
+
+
+
+
+Sep 21, 2023
+
+* Strategy Roadmap Next Steps
+    * Once we complete a draft and review it internally, who will circulate it and among which teams? Lauren (Health), Danielle (Sitewide), 
+    * Will we establish a formal sign-off process with the relevant stakeholders? How long should we give for that? Anticipating PM/PO to drive in tandem
+    * Whose sign-off will we need to move forward with the campaign?
+        * Tom
+        * Unified Comms
+        * Anyone else? Chris?
+    * Review objectives, OKRs, and metrics
+        * Original strategy roadmap
+* Blog Post Feedback
+    * Who owns responding to comments? Is that a priority?
+        * Note that the blogs are posted on news.va.gov (OCTO is not owner)
+* ID.me Data
+    * Currently, we’re unable to determine the difference between users who have ID.me accounts only and those who are only using ID.me MFA as part of DSL and MHV (data is showing that a single credential record in MPI is being used for ID.me direct and ID.me as MFA). Is there someone who can help with these data points? We’ll also need a POC to make sure they are kept abreast of impending changes related to login.gov adoption. Do you know names we should start with?
+* VHA-MHV-VA.gov Communication Working Group
+    * Is LGA content still in circulation to be reviewed or on hold until more clarity is provided via strategy roadmap?
+* Updates:
+    * VHIC stakeholder meeting on 9/25
+        * Scheduling a meeting with Keith Ross, Edward Horne and Kimberly Bostic, VHA HEC VHIC working group
+        * Determine VHIC criteria to implement in IPP
+
+
+Meeting Notes
+
+* Login.gov and VA missing joint charter and goals→developing that now 
+    * Login.gov capacity relative to team size needs to be considered in order to appropriately set expectations
+    * Login.gov requesting space/time for catch up post IRL
+    * Working on identifying site visit location 
+    * Still keep moving forward, be prepare to be flexible for Login.gov
+* Initial group to review strategy roadmap:
+    * Lauren, Health
+    * Danielle, Sitewide 
+* All comms and sign in page builds are paused until strategy established (Inclusive of flipper)
+* Tom will lead and organize feedback for strategy roadmap
+* Tom has ID.me account contact
+    * Possible need for strategy and role discussion
+    * Current exploration of ATO requirement for MHV login options, may impact how VA can push for more adoption
+* When it’s time to connect with VHRC (Virtual Health Resource Center), Tom will initiate with Lauren (Health)
+
+
+
+Action Items
+
+* Summarize feedback previously put together in ~5 sentence to send to NIST to improve experience for Veterans logging into VA systems for senate briefing @porta (he/him) - COMPLETE
+* Share out objectives, OKRs and metrics with Tom @Sophia Philip → DELAYED
+* Follow up with VHA-MHV-VA.gov unified comms group if blog comments should receive responses. If so, from whom? @Sophia Philip 
+
+
+
+
+Sept 14, 2023
+
+* Identity Straetgic Roadmap
+    * Current update
+    * IPP
+    * Where the proofing app should live
+        * IAM/AccessVA
+        * VSO facing tools
+    * Initial end-end sanity test (canary)
+    * Feedback tool access (Medallia)
+* Sync with account experience
+
 
 
 Date: Sep 5, 2023

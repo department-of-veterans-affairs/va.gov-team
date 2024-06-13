@@ -101,7 +101,18 @@ Veteran submissions for VA support. Includes several benefits including:
 - Life Insurance
 - Pension
 
-### 2. [Decision Reviews](https://www.va.gov/resources/decision-reviews-faqs)
+### 2. [Fully Developed Claims program](https://www.va.gov/disability/how-to-file-claim/evidence-needed/fully-developed-claims/)
+
+Guidelines on how to submit a Fully Developed Claim are provided on VA.gov, which provides Veterans guideance on how to receive a faster decision on their benefits.
+
+To submit a Fully Developed Claim Veterans must complete the following:
+
+- Submit their completed Application for Disability Compensation and Related Compensation Benefits (VA Form 21-526EZ), and
+- Submit all the evidence (supporting documents) they have along with their claim, and
+- Certify that there’s no more evidence VA might need to decide their claim, and
+- Go to any VA medical exams that VA schedules, if VA decides these exams are needed to make a decision on their claim.
+
+### 3. [Decision Reviews](https://www.va.gov/resources/decision-reviews-faqs)
 
 For most VA benefits Veterans have 1 year from the date of their decision letter to request a decision review. The decision letter will provide a deadline. There are 3 decision review options available:
 
@@ -109,15 +120,15 @@ For most VA benefits Veterans have 1 year from the date of their decision letter
 2. Higher-Level Review
 3. Board Appeal
 
-### 3. [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim/#how-do-i-file-a-supplemental-c)
+### 4. [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim/#how-do-i-file-a-supplemental-c)
 
 If a Veteran has new and relevant evidence it is recommended they file a supplemental claim (VA Form 20-0995). Examples of evidence include a new medical report or Statement of Support of Claim from a peer.
 
-### 4. [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/#how-do-i-request-a-higher-leve)
+### 5. [Higher-Level Review](https://www.va.gov/decision-reviews/higher-level-review/#how-do-i-request-a-higher-leve)
 
 If a Veteran believes there’s an error in their case, and don’t have new evidence it is recommended they file a higher-level review (VA Form 20-0996).
 
-### 5. [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/)
+### 6. [Board Appeal](https://www.va.gov/decision-reviews/board-appeal/)
 
 If a Veteran wants a Veterans Law Judge to review their case. The Veteran can request:
 1. A direct review, if they don’t want to submit evidence or have a hearing
@@ -126,6 +137,6 @@ If a Veteran wants a Veterans Law Judge to review their case. The Veteran can re
 
 To request a board appeal Veterans submit a Notice of Disagreement (VA Form VA10182).
 
-### 6. [Legacy VA Appeals Process](https://www.va.gov/decision-reviews/legacy-appeals/)
+### 7. [Legacy VA Appeals Process](https://www.va.gov/decision-reviews/legacy-appeals/)
 
 Replaced by Decision reviews in February 2019. Still in effect for decisions dated before February 19, 2019.

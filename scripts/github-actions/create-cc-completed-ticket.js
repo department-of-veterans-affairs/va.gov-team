@@ -18,8 +18,10 @@ const TICKET_STRINGS = {
   teamName: '### VFS team name',
   productName: '### Product name',
   featureName: '### Feature name',
-  labelText: '### GitHub label for product'
+  labelText: '### GitHub label for'
 }
+
+const DELAY = 60 * 1000;
 
 const axiosInstanceZH = axios.create({
   baseURL: 'https://api.zenhub.com/public/graphql',
@@ -105,14 +107,6 @@ async function getGHIssue(number) {
   return data; 
 }
 
-// add milestone to a GH ticket
-async function addMilestone(number, milestone) {
-  const URL = `issues/${number}`
-  await axiosInstanceGH.patch(URL, {
-    milestone
-  });
-}
-
 // close the completed ticket
 async function closeIssue(number) {
   const URL = `issues/${number}`;
@@ -147,31 +141,6 @@ async function getVaGovTeamRepoId() {
   const repos = data.data.viewer.searchWorkspaces.nodes[0].repositoriesConnection.nodes;
   const [{ id }] = repos.filter(repo => repo.name === 'va.gov-team');
   return id;
-}
-
-// create an issue via ZenHub
-async function createIssue(title, repoId) {
-  const query = `mutation createIssue {
-    createIssue(input: {
-        title: "${title}",
-        repositoryId: "${repoId}",
-        labels: ["governance-team"],
-        assignees: ["shiragoodman"],
-        body: "This ticket is for Platform tracking purposes only. There is no VFS action needed."
-    }) {
-        issue {
-            id
-            title
-            number
-        }
-    }
-  }`
-
-  const {data} = await axiosInstanceZH.post('', {
-    query,
-  });
-  const { id, number } = data.data.createIssue.issue;
-  return { id, number }
 }
 
 // check if today's date is within the bounds of a sprint
@@ -244,20 +213,12 @@ async function addIssueToCurrentSprint(id) {
 }
 
 // get the id of an epic based upon title of a ZenHub issue
-async function getEpicId(epicTitle, returnLabelId) {
+async function getEpicId(epicTitle) {
   const query = `query epicsFromWorkspace($workspaceId: ID!, $epicTitle: String!) {
     workspace(id: $workspaceId) {
       epics (first: 1, query: $epicTitle) {
         nodes {
           id
-          issue {
-            labels {
-              nodes {
-                id
-                name
-              }
-            }
-          }
         }
       }
     }
@@ -271,15 +232,9 @@ async function getEpicId(epicTitle, returnLabelId) {
     }
   });
   
-  const [{ id: epicId, issue }] = data.data.workspace.epics.nodes;
-  let labelId = null;
+  const [{ id }] = data.data.workspace.epics.nodes;
 
-  // get the id of the label added to the CC Request ticket so that it can be added to the completed ticket
-  if (returnLabelId) {
-    const [{ id }] = issue.labels.nodes.filter(label => label.name === EVENT_LABEL);
-    labelId = id;
-  }
-  return { epicId, labelId };
+  return id;
 }
 
 // add an issue to an array of epics
@@ -290,15 +245,20 @@ async function addIssueToEpic(issueId, epicArray) {
     }
   }`;
   
-  await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        issueIds: [issueId],
-        epicIds: epicArray
+
+  try {
+    await axiosInstanceZH.post('', {
+      query,
+      variables: {
+        input: {
+          issueIds: [issueId],
+          epicIds: epicArray
+        }
       }
-    }
-  });
+    });
+  } catch {
+    console.log('error in addIssueToEpic');
+  }
 }
 
 // set point estimate of completed ticket based on touchpoint
@@ -319,59 +279,86 @@ async function setEstimate(issueId) {
     }
   }`;
 
-  await axiosInstanceZH.post('', {
-    query,
-    variables: {
-      input: {
-        issueId,
-        value
+  try {
+    await axiosInstanceZH.post('', {
+      query,
+      variables: {
+        input: {
+          issueId,
+          value
+        }
       }
-    }
-  });
+    });
+  } catch {
+    console.log('error in setEstimate');
+  }
 }
 
-async function addLabelToIssue(issueId, labelId) {
-  const query = `mutation AddLabelsToIssues($input: AddLabelsToIssuesInput!) {
-    addLabelsToIssues(input: $input) {
-      clientMutationId
-    }
-  }`;
+// create completed ticket
+async function createCompletedTicket(title, milestone) {
+  const URL = 'issues';
+  const { data: { number } } = await axiosInstanceGH.post(URL, {
+    owner,
+    repo,
+    title,
+    milestone,
+    labels: [EVENT_LABEL, 'governance-team']
+  });
+  return number;
+}
+
+async function getCompletedTicketZHId(issueNumber) {
+
+  const repositoryId = await getVaGovTeamRepoId();
+
+  await sleep(DELAY);
   
-  await axiosInstanceZH.post('', {
+  const query = `query IssueByInfo($repositoryId: ID!, $issueNumber: Int!) {
+    issueByInfo(repositoryId: $repositoryId, issueNumber: $issueNumber) {
+      id
+    }
+  }`
+
+  const { data: { data: { issueByInfo: { id } } } } = await axiosInstanceZH.post('', {
     query,
     variables: {
-      input: {
-        issueIds: [issueId],
-        labelIds: [labelId]
-      }
+      repositoryId,
+      issueNumber
     }
   });
+  return id;
+}
+
+function sleep(delay) {
+  return new Promise((resolve) => setTimeout(resolve, delay));
 }
 
 async function main() {
-  try {
+  try {    
     // generate title for created ticket
-    const { title, body, milestone } = await getGHIssue(ISSUE_NUMBER);
+    const { body, milestone } = await getGHIssue(ISSUE_NUMBER);
     const newTitle = getTitleInfo(body);
 
     // create completed ticket
-    const repoId = await getVaGovTeamRepoId();
-    const { id: newTicketId, number: newTicketNumber } = await createIssue(newTitle, repoId);
-  
-    // add milestone to new ticket
-    await addMilestone(newTicketNumber, milestone.number);
+    const newTicketNumber = await createCompletedTicket(newTitle, milestone.number);
 
-    //get ids of epics
-    const { epicId, labelId } = await getEpicId(title, true);
-    const { epicId: ccEpicId } = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME, false);
-  
-    //update completed ticket
-    await addLabelToIssue(newTicketId, labelId);
-    await addIssueToEpic(newTicketId, [epicId, ccEpicId]);
-    await setEstimate(newTicketId);
+    // get ZH id for completed ticket
+    const newTicketId = await getCompletedTicketZHId(newTicketNumber);
+
+    // get ids of epics
+    const ccEpicId = await getEpicId(CUSTOMER_SUPPORT_EPIC_NAME);
+    await sleep(DELAY);
+    await addIssueToEpic(newTicketId, [ccEpicId]);
+
+    // add completed ticket to sprint
+    await sleep(DELAY);
     await addIssueToCurrentSprint(newTicketId);
 
-    //close the completed ticket
+    // set estimate of completed ticket
+    await sleep(DELAY);
+    await setEstimate(newTicketId);
+
+    // close completed ticket
     await closeIssue(newTicketNumber);
   } catch (error) {
     console.log(error);

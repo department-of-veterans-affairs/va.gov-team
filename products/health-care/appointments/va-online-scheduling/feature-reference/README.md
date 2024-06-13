@@ -5,6 +5,13 @@
 
 Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
+[How to update the feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-update-feature-reference.md)
+
+## Backend documentation
+
+[Backend logic](./backend-logic.md)  
+[VistA appointments, facilities, and clinics](./vista-appointments-facilities-clinics.md)
+
 ## Access the Appointments Tool
 
 | Feature | Usage | 
@@ -28,7 +35,7 @@ Booked appointments through VA or CC facilities.
 
 | Feature | Description |
 |---|---|
-| [Data definitions](data-definitions.md) | Explanations of the data VAOS displays in appointment types |
+| [Data definitions](../../appointments-reference/data-reference/data-definitions.mddata-definitions.md) | Explanations of the data VAOS displays in appointment types |
 | [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
 | [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care |
@@ -59,33 +66,54 @@ Tools Veterans can use to manage their appointments and requests.
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.
 
-| Flow | Page |
+### Start of scheduling flows
+
+These pages are the starting point for all the other scheduling flows. Users are redirected from these pages to the other flows depending on their choices and eligibility.
+
+| Step # | Page |
 |---|---|
-| All flows | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
-| All flows | [Choose a type of sleep care](./schedule-flow/all--choose-a-type-of-sleep-care.md) |
-| All flows | [Choose a type of eye care](./schedule-flow/all--choose-a-type-of-eye-care.md) |
-| All flows | [Choose VA or CC facility](./schedule-flow/all--choose-va-or-cc-facility.md) |
-| All flows | [Choose a type of audiology care](./schedule-flow/all--choose-a-type-of-audiology-care.md) |
-| VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
-| VA direct-schedule | [Cerner location redirect](./schedule-flow/va-direct--cerner-location-redirect.md) |
-| VA direct-schedule | [Choose a clinic](./schedule-flow/va-direct--choose-a-clinic.md) |
-| VA direct-schedule | [Preferred date](./schedule-flow/va-direct--preferred-date.md)
-| VA direct-schedule | [Choose a date](./schedule-flow/va-direct--choose-a-date.md) |
-| VA direct-schedule | [Reason for appointment](./schedule-flow/va-direct--reason-for-appointment.md) |
-| VA direct-schedule | [Confirm contact information](./schedule-flow/va-direct--contact-information.md) |
-| VA direct-schedule | [Review and submit](./schedule-flow/va-direct--review-and-submit.md) |
-| VA request | [Preferred date](./schedule-flow/va-request--preferred-date.md) |
-| VA request | [Reason for appointment](./schedule-flow/va-request--reason-for-appointment.md) |
-| VA request | [Preferred modality](./schedule-flow/va-request--preferred-modality.md) |
-| VA request | [Confirm contact information](./schedule-flow/va-request--contact-information.md) |
-| VA request | [Review and submit](./schedule-flow/va-request--review-and-submit.md) |
-| CC request | [Preferred date](./schedule-flow/cc-request--preferred-date.md) |
-| CC request | [Nearest city](./schedule-flow/cc-request--nearest-city.md) |
-| CC request | [Request a provider](./schedule-flow/cc-request--request-a-provider.md) |
-| CC request | [Choose a language](./schedule-flow/cc-request--choose-a-language.md) |
-| CC request | [Reason for appointment](./schedule-flow/cc-request--reason-for-appointment.md) |
-| CC request | [Confirm contact information](./schedule-flow/cc-request--contact-information.md) |
-| CC request | [Review and submit](./schedule-flow/cc-request--review-and-submit.md) |
+| 1 | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
+| 1a | [Choose a type of sleep care](./schedule-flow/all--choose-a-type-of-sleep-care.md) |
+| 1b | [Choose a type of eye care](./schedule-flow/all--choose-a-type-of-eye-care.md) |
+| 1c | [Choose a type of audiology care](./schedule-flow/all--choose-a-type-of-audiology-care.md) |
+| 2 | [Choose VA or CC facility](./schedule-flow/all--choose-va-or-cc-facility.md) |
+
+### Direct schedule VA appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
+| 1a | [Cerner location redirect](./schedule-flow/va-direct--cerner-location-redirect.md) |
+| 2 | [Choose a clinic](./schedule-flow/va-direct--choose-a-clinic.md) |
+| 3 | [Preferred date](./schedule-flow/va-direct--preferred-date.md)
+| 4 | [Choose a date](./schedule-flow/va-direct--choose-a-date.md) |
+| 5 | [Reason for appointment](./schedule-flow/va-direct--reason-for-appointment.md) |
+| 6 | [Confirm contact information](./schedule-flow/va-direct--contact-information.md) |
+| 7 | [Review and submit](./schedule-flow/va-direct--review-and-submit.md) |
+
+### Request VA appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Preferred date](./schedule-flow/va-request--preferred-date.md) |
+| 2 | [Reason for appointment](./schedule-flow/va-request--reason-for-appointment.md) |
+| 3 | [Preferred modality](./schedule-flow/va-request--preferred-modality.md) |
+| 4 | [Confirm contact information](./schedule-flow/va-request--contact-information.md) |
+| 5 | [Review and submit](./schedule-flow/va-request--review-and-submit.md) |
+
+### Request CC appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Preferred date](./schedule-flow/cc-request--preferred-date.md) |
+| 2 | [Nearest city](./schedule-flow/cc-request--nearest-city.md) |
+| 3 | [Request a provider](./schedule-flow/cc-request--request-a-provider.md) |
+| 4 | [Choose a language](./schedule-flow/cc-request--choose-a-language.md) |
+| 5| [Reason for appointment](./schedule-flow/cc-request--reason-for-appointment.md) |
+| 6 | [Confirm contact information](./schedule-flow/cc-request--contact-information.md) |
+| 7 | [Review and submit](./schedule-flow/cc-request--review-and-submit.md) |
 
 
+### Direct-Schedule COVID-19 vaccine appointments
 
+Not documented

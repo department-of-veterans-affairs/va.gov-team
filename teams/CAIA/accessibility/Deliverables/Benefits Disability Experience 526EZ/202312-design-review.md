@@ -1,5 +1,5 @@
 # [Design Review a11y findings]: Benefits Disability Experience 526EZ
-- [Prototype link](https://www.sketch.com/s/c353146f-eceb-4626-9918-7603c693417f/p/8E84DF49-0B6F-47DE-BF51-45BBBAD94FAB/canvas) 
+- [Design screens link](https://www.figma.com/file/dBKlB23Hs2oa53euXcXmmK/526-toxic-exposure?type=design&node-id=0-5123&mode=design) 
 - [#benefits-disability-design](https://dsva.slack.com/archives/C053UDWMH7U/p1698182576413519)  
 
 ## Product team

@@ -1,7 +1,5 @@
 # Tools we use
 
-`[WIP]`
-
 This document details the tools we use, why, and how we use them. The goal is for this to be helpful to new CAIA accessibility specialists, but also for folks on delivery teams hoping to do their own accessibility testing during design and development.
 
 During an accessibility audit, accessibility specialists use multiple tools in their testing. While each tool provides insights into specific areas, no one tool will be able to identify all accessibility barriers. This is why it’s important to perform automated and manual testing combined with user research.  

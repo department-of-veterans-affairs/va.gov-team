@@ -1,4 +1,7 @@
 # Mobile App Promotion Banner Initiative Brief
+
+Epic: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13482
+
 #### Overview
 
 Currently there is limited marketing of the VA.gov mobile app from within the benefit hubs. Using patterns created by Apple and others e.g. [Smart App Banners](https://developer.apple.com/documentation/webkit/promoting_apps_with_smart_app_banners) we can increase the adoption and overall use of the VA.gov mobile app by placing the banners on the appropriate tool landing pages that map to features/functions available in the mobile app.

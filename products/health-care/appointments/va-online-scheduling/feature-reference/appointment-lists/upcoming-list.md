@@ -54,7 +54,7 @@ Appointment Date and Time
 
 Type of care
 - If Type of Care is not available for VA appointments, display "VA appointment"
-  - See technical notes: [Type of care](../data-definitions.md#type-of-care)
+  - See technical notes: [Type of care](../../../appointments-reference/data-reference/data-definitions.md#type-of-care)
 - The type of care for [Community care appointments](../appointment-types/community-care.md) must display "Community care appointment with `[Provider Name]` provider".
 
 **Modality indicators**

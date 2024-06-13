@@ -8,7 +8,7 @@
 
 ### VAMC modernized pages
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
-- [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/front-end-product-brief.md)
+- [Front end product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/initiatives/2020-vamc-upgrade/front-end-product-brief.md)
 
 ### Vet Centers
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers)

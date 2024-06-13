@@ -14,7 +14,7 @@ The CMS team will be implementing client-side error messaging to display to edit
 CMS Editors, who _upload a new image_ to either the Media Library or within a Content node will be shown errors if the alt text they add for their image:
 * Is Over 150 characters long
 * Contains a file extension (.png, .jpg, .jpeg, or .gif)
-*Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”.
+* Uses phrases like “image of”, “photo of”, “graphic of”, “picture of”.
 
 These errors will be shown immediately upon focusing out of the alt text field, meaning that the editor will receive the feedback that something within their alt text must be corrected prior to trying to save the image.
 
@@ -29,7 +29,7 @@ These errors will be shown even if the editor's original intention was not to ed
 * VFS-Facilities
 * Public websites
 ### Editors
-* VHA-MC
+* VA-MC
 * Vet Centers
 * VBA
 
@@ -48,49 +48,34 @@ These errors will be shown even if the editor's original intention was not to ed
 * Team of Team (ToT)
    * Type: slide for ToT
   * Assignee: Marcia and Berni
-  * Date: January 02, 2024
+  * Date: January 09, 2024
 ### External Communication of new feature
-* VHA-DM Office Hours
-   * Type: demo
+* VA-DM Office Hours
+   * Type: async
   * Assignee: Marcia or Berni
-  * TBD - Confirm omit demo with Erika
 ### Documentation
-* KB article (if applicable): https://prod.cms.va.gov/help/cms-basics/alternative-text
+* KB article(s): 
+  * [How to add or edit alternative text](https://prod.cms.va.gov/help/cms-basics/alternative-text)
+   * [Alternative Text For Images](https://prod.cms.va.gov/help/cms-basics/alternative-text-for-images)
 
-## Engineer tasks ?
+## Engineer tasks
+- [ ] Prepare branch for merge
 ## Blockers
-* Blocker 1
-  * Impact: 
-* Block 2
-  * Impact: 
+* None
 ## Pre-launch
-* Testing:
-    * Teams:
-    * Start date: 
-    * End date: 
-* Code merge freeze
-  * Teams:
-  * Start date:
-  * End date: 
-* PR Reviews
-  * Product team reviewers:
-  * Start date: 
-  * End date: 
+* Testing: Completed December 2023
+
+* Code merge freeze: Not needed
+
+* PR Reviews: Completed December 2023
 
 ## Day of Launch
-* Task 1 
-  * Start time: 9:00am ET
-  * End time: 
-  * Duration: 
-* Task 2
-  * Start time: 
-  * End time: 
-  * Duration: 
+- [ ] Merge PR into main
+  
 ## Post-launch
 - [ ] CMS Engineers monitor Datadog
 - [ ] CMS Help Desk monitor issues post launch and escalate any critical bugs to team
 ### CMS Help Desk
 Editors should report issues by [creating a ticket via JIRA](https://va-gov.atlassian.net/servicedesk/customer/portal/3) that will go directly to CMS Help Desk
-
 
 

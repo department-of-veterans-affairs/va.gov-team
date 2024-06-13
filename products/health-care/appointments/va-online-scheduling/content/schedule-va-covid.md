@@ -4,9 +4,7 @@
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -44,9 +42,7 @@ Find out how to get your vaccine at a VA walk-in clinic
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/doses-received`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/confirm-doses-received`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/doses-received`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -87,9 +83,7 @@ Please select an answer
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/contact-facility`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/contact-facility`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/contact-facility`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -132,9 +126,7 @@ TTY: 711
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/location`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/choose-facility`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/location`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -207,9 +199,7 @@ TTY: 711
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/contact-facility`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/contact-facility`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/contact-facility`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -255,9 +245,7 @@ Find VA facilities near you that offer COVID-19 vaccines
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/clinic`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/choose-clinic`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/clinic`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -312,9 +300,7 @@ Please select a clinic for your appointment
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/date-time`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/select-date`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/date-time`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -359,9 +345,7 @@ Please choose your preferred date and time for your appointment
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/second-dose`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/second-dose-info`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/second-dose`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -405,9 +389,7 @@ Plan to return after {21 days after calendar date selection}
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/contact-information`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/contact-info`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/contact-information`
 
 Page title: `[Page Header] | Veterans Affairs`
 
@@ -474,9 +456,7 @@ Please enter a valid email address
 
 **NAVIGATION**
 
-New URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/review`
-
-Current URL: `https://va.gov/health-care/schedule-view-va-appointments/appointments/new-covid-19-vaccine-appointment/review`
+URL: `https://va.gov/my-health/appointments/schedule/covid-vaccine/review`
 
 Page title: `[Page Header] | Veterans Affairs`
 

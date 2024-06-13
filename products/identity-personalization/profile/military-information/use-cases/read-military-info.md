@@ -1,5 +1,5 @@
 # Military information: user wants to access their military information
-**Last updated: February 8, 2023 -- added users that have military info**
+**Last updated:** April 22, 2024 (updated test users)
 
 For LOA3 users who sign in, go to the profile, and click into the military information section, they can view their service history if they have a Department of Defense (DoD) ID.
 
@@ -15,29 +15,27 @@ This page isn’t editable.
 	* The month, day, and year they completed service with that branch.  
 		* There are some instances where the end date will be blank.
 * The page has an [additional info component](https://design.va.gov/components/additional-info) with information in case the military service information doesn’t look right.
-*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/g0YO03a) 
-*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/DPDA8Wk) 
+* The page displays a Proof of Veteran status card ([product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-status))
+*  [Desktop mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-122&mode=design&t=ISGgZpVUB35oOzXb-11) 
+*  [Mobile mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-2&mode=design&t=ISGgZpVUB35oOzXb-11) 
 
-### User does not have DoD ID
+### User does not have DoD ID or does not have a service history
 * If DEERS does not return a DoD ID the user will see an alert on the page telling them we don't have their military information.
-* The additional info component is not displayed.
-* Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
-*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yQObmR) 
-*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/zxvZ4Le) 
+* If the user does not have a service history, the service history array will be empty. The user will see an alert on the page telling them we can't access their military information. 
+  - _**Note:** A user can have a DoD ID but no military service._
 
-### User does not have a service history
-* If the user does not have a service history, the service history array will be empty. The user will see an alert on the page telling them we can't access their military information. _**Note:** A user can have a DoD ID but no military service._
-* The additional info component is not displayed.
+* The additional info component is not displayed for either scenario.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
-*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/8yQObmR) 
-*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/52vgV88) 
+*  [Desktop mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-167&mode=design&t=ISGgZpVUB35oOzXb-11) 
+*  [Mobile mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-42&mode=design&t=ISGgZpVUB35oOzXb-11) 
+
 
 ### User is not a Veteran
 * If the user is confirmed to be a non-Veteran, they will see an informational alert on the page telling them they don't have any military information.
 * The additional info component is not displayed.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the design system
-*  [Desktop mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/VrJq5jr) 
-*  [Mobile mockup](https://www.sketch.com/s/fc96664a-1c62-40ed-9fcd-90218c54e775/a/zxvZ4Le) 
+*  [Desktop mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-158&mode=design&t=ISGgZpVUB35oOzXb-11) 
+*  [Mobile mockup](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0-57&mode=design&t=ISGgZpVUB35oOzXb-11) 
 
 View this [Slack thread](https://dsva.slack.com/archives/C909ZG2BB/p1670342254856829) for more information on the difference between these alerts. 
 
@@ -47,7 +45,7 @@ N/A
 ## How to reproduce
 ### User has DoD ID
 1. Go staging.va.gov/profile/military-information
-2. Log in with users 41, 54, or 80 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
+2. Log in with user 80 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 
 ### User does not have DoD ID
 1. Go staging.va.gov/profile/military-information

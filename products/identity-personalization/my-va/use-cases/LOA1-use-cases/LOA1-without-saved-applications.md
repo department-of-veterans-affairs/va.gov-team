@@ -1,5 +1,5 @@
 # My VA LOA1 Use Case: User has no saved application(s)
-**Last updated: October 25, 2023**
+**Last updated: February 15, 2024**
 
 For users who sign in and have not yet verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. They will also see sections for "Claims and appeals", "Health care", and "Education and training" that have introductory links for more info about each. When a LOA1 user does not have any saved application(s) in their account, they will see text stating this in the "Benefit application drafts" section at the bottom of My VA.
 
@@ -11,8 +11,8 @@ For users who sign in and have not yet verified their identity, they will see a 
   - a section for "Education and training" with a link to [Learn how to apply for VA education benefits](https://va.gov/education/how-to-apply/)
   - A section for "Benefit application drafts" where any saved in progress forms will appear as cards.
 - When a user has no benefit application drafts saved in progress, they will see text in the "Benefit application drafts" section that says "You have no benefit application drafts to show."
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/529RArL)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/zxLrdol)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=e03hBvHWqrqNPQJj-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=e03hBvHWqrqNPQJj-1)
 
 ## How to reproduce
 1. Log into staging with any LOA1 user. 

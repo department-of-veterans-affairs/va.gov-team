@@ -13,11 +13,11 @@ Lighthouse -->> vets-api: contestable issues
 vets-api -->> vets-website: contestable issues
 
 vets-website ->> vets-api: get active intent-to-file (ITF)
-vets-api ->> EVSS: get all ITF
-EVSS -->> vets-api: return all ITF
+vets-api ->> Lighthouse: get all ITF
+Lighthouse -->> vets-api: return all ITF
 vets-api -->> vets-website: return all ITF
 vets-website ->> vets-api: create new ITF (as needed)
-vets-api ->> EVSS: create new ITF
+vets-api ->> Lighthouse: create new ITF
 
 vets-website ->> vets-api: update contact info
 vets-api -->> vets-website: contact info update status

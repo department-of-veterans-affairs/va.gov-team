@@ -1,5 +1,5 @@
 # **Benefits: Debt Resolution Team Charter** 
-Last Updated: October 25, 2023
+Last Updated: January 5, 2024
 
 ### **Table of Contents:**
 
@@ -38,14 +38,14 @@ Last Updated: October 25, 2023
 
 ## Team Details
 
-### Team Slack Channel:** `#benefits-debt-resolution`
+### Team Slack Channel:** `#debt-resolution`
 
 |**Debt Team Roster**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Denise Coveyduc                          |
 |Sr. Product Manager    |Tom Davis                    |
 |Delivery Manager       |Heather Rienks                     |
-|Lead Back End Engineer  |Open position                         |
+|Lead Back End Engineer  |Austin Smith                         |
 |Back End Engineer      |Kevin Suarez                                |
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
@@ -95,8 +95,7 @@ Last Updated: October 25, 2023
 
 ## Contract Meetings
 | **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
-|-------------|--------|-------------|---------|----------|
-| *Benefits Debt Resolution: Weekly Check-In Meeting* | Weekly      | Heather Rienks, Denise Coveyduc, Athena Perez, Jennifer O'Day, Tom Davis   |Facilitate open lines of communication between core participants from the VA and A6 project team.    | Heather Rienks   | 
+|-------------|--------|-------------|---------|----------| 
 | *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Denise Coveyduc, Heather Rienks, Athena Perez    |TBD    |TBD   |
 
 

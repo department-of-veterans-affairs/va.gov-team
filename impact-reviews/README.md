@@ -7,7 +7,7 @@ If your team has launched a new product, feature or enhancement in recent months
 ## How can I participate?
 Impact Reviews take place the first Thursday of each month at noon ET via zoom. If you’re interested in attending, please reach out in the **#impact-review** slack channel in the DSVA workspace to be added to the invite, or to discuss getting on the schedule to present. 
 
-As a presenter, time commitment is minimal - about 15 minutes or so filling out a pre-formatted deck for a ~12 minute presentation. 
+As a presenter, time commitment is minimal - about 15 - 30 minutes or so filling out a pre-formatted deck for a ~12 minute presentation. 
 
 As an attendee, simply attend the presentation and engage in discussion. 
 
@@ -19,15 +19,12 @@ If you're interested in presenting reach out to Anastasia Jakabcin via DM in the
 _Presentations occur at noon ET_
 |    Team      | Presenter | Initiative | Launch Date | Impact Review Date|
 |----|----|----|----|----|
-| Benefits Team 1 - Squad 2 (Decision Reviews & CST) | Sade Ragsdale | Supplemental Claims - A means of appealling a disability claims decision by requesting VA review new and relevant evidence| April 28, 2023 | December 7, 2023 |
-| Debt Resolution | Tom Davis| FSR/Streamlined Waiver | August 30, 2023| January 11, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | January 11, 2024 |
-| Authenticated Experience - Profile | Travis Cahill | Multi-feature: editing as a subtask and default send<br /> - editing as a subtask: allows users to edit in place instead of having to leave notification preferences to add/edit personal info, e.g. phone number<br /> - default send: foundational element to support email as a channel in order to support MHV notification preferences, and notification preferences from other partners that may require email | October 25, 2023 | February 1, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | February 1, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | March 7, 2024 |
-| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | April 4, 2024 |
+| Modernized Check-in | Lori Pusey, Ben Brasso | Submit Travel Reimbursement Claim via Check in for Health Appointments | MVP 12/5/2023 | April 4, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | April 4, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | May 2, 2024 |
 | _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | May 2, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | June 6, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | June 6, 2024 |
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4 holiday)|
+| _Enter team name_ | _Enter presenter(s) name_| _Enter initiative_ | _Enter launch date_ | July 11, 2024 (adjusted from July 4 holiday)|
 

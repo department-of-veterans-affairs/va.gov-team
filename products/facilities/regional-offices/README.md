@@ -55,62 +55,52 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - VBA's facilities are unique because they provide VA benefits help for all three administrations (i.e., they will help you apply for health care and get burial benefits)
 
 ### **Business partners:**
-- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement (lewis.boone@va.gov)
-- Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead (tanekwa.bournes@va.gov) 
-- Kenyonna Power, VBA Strategic Engagement (kenyonna.power@va.gov)
-- Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
-- Brigette Murray, VBA Office of Field Operations (Brigette.Murray@va.gov)
+- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement
+- Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead
+- Kenyonna Power, VBA Strategic Engagement 
+- Derek Hommema, VBA Office of Field Operations
+- Brigette Murray, VBA Office of Field Operations
 
 ### **VBA Stakeholders:**
-- Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
-- Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
+- Laura O'Shea, Office of Policy Overview at VBA 
+- Jamie Statton, Office of Policy Overview at VBA 
 
-### **Pilot MVP editors:**
-as of 11/6/2023 from Tanekwa to Michelle
+### **Pilot MVP locations**
+| Regional office | Facility Locator detail page | Teamsite page |
+|---|---|---|
+| Albuquerque VA Regional Benefit Office | [Albuquerque detail page](https://www.va.gov/find-locations/facility/vba_340) | [Albuquerque Teamsite](https://www.benefits.va.gov/albuquerque/)
+| Anchorage VA Regional Benefit Office at Anchorage VA Medical Center |  [Anchorage detail page](https://www.va.gov/find-locations/facility/vba_463) | [Anchorage Teamsite](https://www.benefits.va.gov/anchorage/) 
+| Boston VA Regional Benefit Office| [Boston detail page](https://www.va.gov/find-locations/facility/vba_301) | [Boston Teamsite](https://www.benefits.va.gov/boston/)
+| Honolulu VA Regional Benefit Office at Spark M. Matsunaga Department of Veterans Affairs Medical Center|  [Honolulu detail page](https://www.va.gov/find-locations/facility/vba_459)| [Honolulu Teamsite](https://www.benefits.va.gov/honolulu/)
+| Houston VA Regional Benefit Office| [Houston detail page](https://www.va.gov/find-locations/facility/vba_362_) | [Houston Teamsite](https://www.benefits.va.gov/houston)
+| National Capital Region VA Regional Benefit Office| [National Capital detail page](https://www.va.gov/find-locations/facility/vba_372) | [National Capital Teamsite](https://www.benefits.va.gov/ROWASHINGTON/)
+| Portland VA Regional Benefit Office (added 2/2024 due to editor coverage with Anchorage | [Portland detail page](https://www.va.gov/find-locations/facility/vba_348) | [Albuquerque Teamsite](https://www.benefits.va.gov/portland/)
+| San Juan VA Regional Benefit Office| [San Juan detail page](https://www.va.gov/find-locations/facility/vba_355) | [San Juan Teamsite](https://www.benefits.va.gov/sanjuan)
 
-#### Albuquerque
-- Michael.Nelson9@va.gov
-- Cesar.Romero1@va.gov
-- Scott.Lajiness@va.gov
-
-#### Honolulu
-- Aiko.Shibuya@va.gov
-- Eileen.Asing@va.gov
-- Melynn.McWilliams@va.gov
-
-#### Houston
-- Daniel.Irizarry@va.gov
-- Thomas.Gibson@va.gov
-
-#### National Capital Region
-- Garcia.Williams@va.gov
 
 ### **Points of Contact from VBA RO pilot locations**
 [VBA Pilot Sites Selection.xlsx](https://dvagov.sharepoint.com/:f:/s/VBAVA.govmodernization/ElGAcEivodBFn5vZuP69aFUBpanKqq02M4JLkimn5zMfiQ?e=TJh0ir) [VA SharePoint]
 
 [08/21/23 list on Teams](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/_layouts/15/Doc.aspx?sourcedoc=%7B75BA1C30-612E-47BF-8FDA-A9683892163F%7D&file=VBA%20MVP%20contacts%20August%202023.xlsx&action=default&mobileredirect=true)
-| Houston          | 1/2       | Name                        | Email                   |
-| ---------------- | ---------- | -------------------------- | ----------------------- |
-| Anchorage        | Primary    | Kathleen “Kathie” Warren   | kathleen.warren1@va.gov |
-| Anchorage        | Secondary  | vacant           |  |
-| Albuquerque      | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
-| Albuquerque      | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
-| Honolulu         | Primary    | Melynn McWilliams               | Melynn.McWilliams@va.gov      |
-| Honolulu         | Secondary  | Jametria McElroy           | Jametria.mcelroy@va.gov |
-| Houston          | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
-| Houston          | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
-| Houston          | Additional | Steven Sunseri             | steven.sunseri@va.gov   |
-| National Capital | Primary    | vacant              |   |
-| National Capital | Secondary  | Joshua Carson              | Joshua.Carson@va.gov    |
-| San Juan         | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
-| San Juan         | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
 
-
-8/16/23: Additional invitees to Facilities/VBA RO recurring sync, list to be confirmed with stakeholders re: who are current primary / secondary:
-- jamie.verity@va.gov, San Diego, Training Manager
-- nykeisha.moore@va.gov, National Capital, VR&E Asst. Officer
-- ramon.lopez2@va.gov, Portland, Management Analyst
-- tykisha.tull@va.gov, National Capital, VSC Coach
+[Training attendees](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/Shared%20Documents/Facilities%20Product%20Sync/VBA/VBA%20Training%20attendees.xlsx?d=w446b52951a9542aba5dae6917ee1f40e&csf=1&web=1&e=EE65U5)
+| Houston           | 1/2       | Name                        | Email                   |
+| ----------------  | ---------- | -------------------------- | ----------------------- |
+| Anchorage/Portland| Primary    | Heather Densmore           | heather.densmore@va.gov |
+| Anchorage/Portland| Secondary  | Clarissa Savage            | clarissa.savage@va.gov  |
+| Albuquerque       | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
+| Albuquerque       | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
+| Albuquerque       | Secondary  | Cesar Romero               | cesar.romero1@va.gov    |
+| Boston            | Primary    | Brian Keber                | brian.keber@va.gov      |
+| Honolulu          | Primary    | Melynn McWilliams          | Melynn.McWilliams@va.gov|
+| Honolulu          | Secondary  | Eileen Asing               | eileen.asing@va.gov     |
+| Honolulu          | Additional | Aiko Shibuya               | aiko.shibuya@va.gov     |
+| Houston           | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
+| Houston           | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
+| National Capital  | Primary    | Garcia Williams            | garcia.williams@va.gov  |
+| National Capital  | Secondary  | Jessica Barker             | jessica.barker3@va.gov  |
+| San Juan          | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
+| San Juan          | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
 
 
 ## Approach

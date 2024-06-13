@@ -37,6 +37,13 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
 ### Upcoming Changes
  - As of Sprint 86 (12/6) the individual mobile teams (API, Design System, Health/Benefits, Global, and QA/Release) will manage their own backlog and prioritization of relevant bug tickets 
 
+### Management based on severity of tickets 
+- Sev - 1 - drop everything work now
+- Sev - 2 - picked up current or next sprint
+    - If its part of a new launch it must be resolved / closed before feature is launch
+    - If part of an existing feature worked next sprint
+- Sev-3 - worked whenever teams prioritize work
+
 
 ### Roles and Responsibilities
 | Role | responsibilities | 

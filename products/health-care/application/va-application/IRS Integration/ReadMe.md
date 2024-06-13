@@ -5,6 +5,7 @@
 
 **Related/Associated product(s)**
 - Product | [Link to 10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- [IRS Guidelines for Protecting Federal Tax Information (FTI) In Integrated Eligibility Systems (IES)](https://www.irs.gov/privacy-disclosure/protecting-federal-tax-information-fti-in-integrated-eligibility-systems-ies)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 

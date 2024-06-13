@@ -87,17 +87,23 @@ All participants must have an active MyHealtheVet account.
  -At least 1 who lives in a rural area
 
 ### Screener Questions:
-1.	Have you had a VA facility healthcare appointment between the dates of TDB and TBD?
-    - If yes, then move to question 2.
-    - If no, **then do not** recruit.
- 
-2.	Does your VA facility healthcare provider offer you a printed After-visit summary upon leaving your healthcare appointment. 
-    - If yes, then move to question 3.
-    - If no, **then do not** recruit.
 
-3.	Do you have a My HealtheVet account?
+1.	Are you willing to share information of your VA.gov after-visit summary from a recent VA facility health care appointment with a VA researcher?
+    - If yes, then move to question 2.
+    - If no, then **do not** recruit.
+
+2.	Have you had a VA facility healthcare appointment between the dates of TDB and TBD?
+    - If yes, then move to question 3.
+    - If no, then **do not** recruit.
+ 
+3.	Does your VA facility healthcare provider offer you a printed After-visit summary upon leaving your healthcare appointment. 
+    - If yes, then move to question 4.
+    - If no, then **do not** recruit.
+
+4.	Do you have a My HealtheVet account?
     - If yes, then move then recruit.
-    - If no, **then do not** recruit.
+    - If no, then **do not** recruit.
+
      
 
 

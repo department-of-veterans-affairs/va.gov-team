@@ -15,8 +15,12 @@
 | [Eligibility for VA health care](https://www.va.gov/health-care/eligibility-esp/) | Spanish | |
 | [How to apply for VA health care](https://www.va.gov/health-care/how-to-apply-esp/) | Spanish | |
 | [After you apply for health care benefits](https://www.va.gov/health-care/after-you-apply-esp/) | Spanish | |
+| [Language assistance](https://www.va.gov/asistencia-y-recursos-en-espanol/) | Spanish | |
+| [Language assistance](https://www.va.gov/tagalog-wika-mapagkukunan-at-tulong/) | Tagalog | |
 | [The Program of Comprehensive Assistance for Family Caregivers](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/) | Spanish | 9/7/23 |
 | [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim-esp/) | Spanish | 10/20/23 |
 | [Report harassment or sexual assault at VA](https://www.va.gov/report-harassment-esp/) | Spanish | 10/20/23 | 
 | [Accessibility at VA](https://www.va.gov/accessibility-at-va-esp) | Spanish | 11/15/23 | 
 | [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation-esp/) | Spanish | 11/16/23 | 
+| [GI Bill and other education benefit eligibility](https://www.va.gov/education/eligibility-esp/) | Spanish | 2/14/24 |
+| [VA Survivors Pension](https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |

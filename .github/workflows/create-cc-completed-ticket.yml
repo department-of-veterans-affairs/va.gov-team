@@ -10,7 +10,6 @@ jobs:
     name: Create Completed Ticket
     runs-on: ubuntu-latest
     if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') &&
-        contains(github.event.issue.labels.*.name, 'Epic') &&
         (github.event.label.name == 'cc-kickoff' || 
         github.event.label.name == 'design-intent' || 
         github.event.label.name == 'midpoint-review' || 

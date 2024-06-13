@@ -4,19 +4,44 @@ The Facility locator uses data from a variety of data sources. Please, for the l
 
 
 ## Data / API integration details
-* [Access to Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/access-to-care)
-* [Lighthouse Facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/lighthouse-facilities-api/lighthouse-integration.md)
-* [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/mapbox/mapbox-implementation.md)
-* [PPMS (Provider Profile Management System)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/ppms-implementation.md)
-* [VBA ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/vba/)
-* [VHA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/vha) - possibly archive-able file
+The table below should become a display of modern integration data for the Facility Locator, as a topline summary. 
+
+| **Source** | **Contains** | **Owner** | **API endpoint** | **Notes** |
+| --- | --- |--- | --- | --- |
+| [Access to Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/access-to-care) | Wait times, satisfaction scores, services provided (except dental) | Project Manager: Theresa Baamonde (Theresa.Baamonde@microsoft.com) (still?) | wait times - https://www.accesstocare.va.gov/atcapis/v1.1/patientwaittimes <br/>
+[Healthcare services offered at VHA facilities](https://www.accesstopwt.va.gov/Shep/getRawData?location=*) | TODO: still true? -> Pulled daily through a Sidekiq job, temporarily placed in Redis, and then stitched into base_facilities table in Postgres. |
+| [Lighthouse Facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/lighthouse-facilities-api/lighthouse-integration.md) | All facility contact data (NCA, VBA, RCS, VHA); a subsection of Sandy's DB VBA data; V0/V1: Services data | Lighthouse Facilities API team (#api-facilities in DSVA slack) | Lighthouse API documentation: https://developer.va.gov/explore/api/va-facilities | |
+| [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/mapbox/mapbox-implementation.md) | Provides map functionality by coordinates | | | |
+| [PPMS (Provider Profile Management System) & Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/ppms-community-care/ppms-implementation.md) | Provider info | PPMS team |  | |
+| [VBA ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/engineering/data-and-api-integrations/vba/) | | | | |
+| Website URL CSV| Website URLs | Lighthouse maintains spreadsheet | Pulled daily from Lighthouse spreadsheet into vets-api. Merged daily by Sidekiq with base_facilities data in Postgres after the GIS/ArcGIS jobs run | |
+| State Cemetery XL | Info on state cemeteries not managed by VA | External team maintains XML, updating it every 3 mos (https://www.cem.va.gov/cems/cems.xml) | | Pulled daily from an XML file that is checked into vets-api. Sidekiq transforms and inserts the data into base_facilities in Postgres. |
 
 
-## Data sources
+
+**Facility Websites**
+The Lighthouse Facilities API team maintains a CSV that articulates for each VHA/NCA/VBA Facility API ID, what is the official website for that facility. When new facilities publish new web pages, the Facilities team must submit change requests to the Lighthouse team, to update this CSV source of truth: 
+
+https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/website_data/websites.csv
+
+
+### PPMS and Lighthouse Mashups
+- "Mash-up" searches for all urgent care locations (Community care/PPMS + VA) are performed on the front end.
+- "Mash-up" searches for all emergency care locations (Community care/PPMS + VA) are performed on the front end
+
+
+### Legacy locators
+A variety of existing VA tools provide locators for different types of facilities. A summary of those is available in [Legacy Locators](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/legacy-locators.md)
+
+
+## TODO: verify & cleanup
+Jan 2024: the notes below, including the teable, may all be out of date. Need to update as necessary for modern truth.
+Mar 2024: The table is most certainly out of date. We no longer use ArcGIS for anything within faciliaty locator or even in Lighthouse and have removed any mention of it from the products as of March 2024.
+
+### 2019 table
 Last updated: November 2019
 
-**TODO: Update for modern world**
-This table appears to be legacy discovery information. It should become a display of modern integration data for what is included in the Facility Locator, and how it's integrated, as a topline summary. 
+This table appears to be legacy discovery information, from before Facility Locator integrated with the Lighthouse Facilities API, and before CMS-generated facility pages were created. At that time, most facility pages were Facility Locator Detail pages (e.g. https://www.va.gov/find-locations/facility/vha_691GD), where the API ID for a facility generated the page. These pages included Access to Care data (wait times, satisfaction scores). On modernized facility pages, the Facility Locator now (2023) points to the modernized page and Access to Care data is no longer relevant to the Locator, but is instead integrated on the Facility CMS page. 
 
 | **Source** | **Contains** | **Owner** | **API endpoint** | **Notes** |
 | --- | --- |--- | --- | --- |
@@ -30,13 +55,9 @@ wait times - https://www.accesstocare.va.gov/atcapis/v1.1/patientwaittimes <br/>
 [Healthcare services offered at VHA facilities](https://www.accesstopwt.va.gov/Shep/getRawData?location=*)
 [Access to Care satisfaction](https://www.accesstopwt.va.gov/Shep/getRawData?location=*) |
 | Dental Services | Dental services | | https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/facilities/dental_service_data | Built from information in the old ArcGIS endpoint about which facilities offered Dental. In the future, this will be integrated into the CMS |
-| Website URL CSV| Website URLs | Lighthouse maintains spreasheet | Pulled daily from Lighthouse spreadsheet into vets-api. Merged daily by Sidekiq with base_facilities data in Postgres after the GIS/ArcGIS jobs run | |
+| Website URL CSV| Website URLs | Lighthouse maintains spreadsheet | Pulled daily from Lighthouse spreadsheet into vets-api. Merged daily by Sidekiq with base_facilities data in Postgres after the GIS/ArcGIS jobs run | |
 | State Cemetery XL | Info on state cemeteries not managed by VA | External team maintains XML, updating it every 3 mos (https://www.cem.va.gov/cems/cems.xml) | | Pulled daily from an XML file that is checked into vets-api. Sidekiq transforms and inserts the data into base_facilities in Postgres. |
 | PPMS | Provider info | | | Web service | 
-
-
-**Facility Websites**
-- https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/website_data/websites.csv
 
 
 | **Source** | **URL** | **Access** |
@@ -50,27 +71,17 @@ wait times - https://www.accesstocare.va.gov/atcapis/v1.1/patientwaittimes <br/>
 | Access to Care - Wait times | https://www.accesstocare.va.gov/ | Public |
 | State cemeteries | https://www.cem.va.gov/cems/cems.xml | Public |
 | PPMS | https://np.dws.ppms.va.gov/v1.0/$metadata | VA Network Access | 
-| Community Care | | |
 
 Older doc: https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/facility-locator/facilities-datasources.md
 
 
 ### RANDOM NOTES
-2023-12-28: TODO: These notes may all be out of date and can be deleted. Need to verify
 
 * VHA Facility data is assembled from several different sources, and they all end up in the vets-api PostgreSQL database.
 * VHA Facility data is uploaded to the database through a daily Sidekiq job. (See the Moving VHA data sources document).
 * PPMS/Community Care data is queried through the PPMS Client – Provider Locator API
 * Cemetery, Dental, Mental Health, and Facility website data are pulled in from xml or csv files directly (`/lib/facilities/`). 
 * VC/VBA/NCA/VHA facility data is pulled in using the `MetadataClient` in the `/lib/facilities` folder.
-
-- [VHA/NCA/VBA Website URLs csv](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/website_data/websites.csv) (manually updated as necessary – we are the data owner for these)
-
-
-### Legacy locators
-A variety of existing VA tools provide locators for different types of facilities. A summary of those is available in [Legacy Locators](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/legacy-locators.md)
-
-
 
 
 ## API data
@@ -84,7 +95,6 @@ Last update: March 2022
 [Config.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/config.js)
 
 
-[NOTE TODO: 2023-12-28: Is Choice Act now PPMS?]
 - Facility Locator API provides data to the Facility Locator application
 - The Facility Locater API itself is stateless, and provides a clean, RESTful interface to one or more GIS systems that are the source of truth for VA facility data. VA stakeholders use these GIS systems as the data management tool to keep facility data up-to-date.
 - There are two classes of facility relevant to this tool: VA facilities, and Non-VA "Choice Act" facilities. Information for the two classes of facility are provided by different data sources (both ArcGIS-based) with differing feature schemas.

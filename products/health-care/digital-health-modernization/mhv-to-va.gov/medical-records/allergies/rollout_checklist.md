@@ -72,10 +72,10 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - [X] Go/no go team has been established & go-no-go meeting scheduled. (Please work with Lauren's EA and OCC's exec team to schedule to ensure that all folks can make it). 
 	- [ ] Go no go agenda prepared ([see example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/Secure%20Messaging%20Go-No-Go%20Updated%20Live%2071723.docx) )
 - [X] Trusted users have been identified
-- [ ] Go/No Go meeting conducted - scheduled for 10/23/2023
-	- [ ] Outcomes of go-no-go documented 
-- [ ] Communication has gone out to trusted users
-- [ ] Communication goes out to other key audiences
+- [X] Go/No Go meeting conducted - scheduled for 10/23/2023
+	- [X] Outcomes of go-no-go documented 
+- [X] Communication has gone out to trusted users
+- [X] Communication goes out to other key audiences
 
 ## While the app is in phase 0: Trusted Users
 - Application exists in a published, authenticated state, but can only be found if users know URL.
@@ -92,7 +92,7 @@ Integrations needed are delinated on [Phase Mural](https://app.mural.co/t/depart
 - Ongoing work to prepare for Phase 2 integrations 
   
 ## To move from Phase 0 to Phase 1: "Try Me"
-- [ ] Verify Phase 0 targets reached
+- [X] Verify Phase 0 targets reached
 - [ ] Verify that the historical vs. observed field provides value to Veterans via targeted research.
 - [ ] Verify Needed feature improvements have been made
 	- What is "needed" is agreed upon jointly by OCC Product Owner and OCC owners, with support from OCC leadership

@@ -1,5 +1,5 @@
 # My VA Health Care Frontend Documentation
-Last updated: December 1, 2023 - updated Cerner handling
+Last updated: April 29, 2024 - updated icons
 
 ## When to show the ‘Health care’ section
 We show this section for every LOA3 user.
@@ -7,8 +7,8 @@ We show this section for every LOA3 user.
 ## UX Specs
 
 ### If a user does not have VA health care
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6ADDE2C-0D24-484F-A829-CEA239BD56E6)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/2E99F689-11DF-4216-A2AE-6DA7F21A09CC)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A331&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A763&mode=design&t=2I2vzoW03gTPk52L-1)
 
 #### **Content**
 
@@ -25,8 +25,8 @@ You have no health care information to show.
 ---
 
 ### Next appointment card
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=2I2vzoW03gTPk52L-1)
 
 **Show card**
 
@@ -65,8 +65,8 @@ Location
 
 ### If a user has VA health care but does not have any upcoming appointments scheduled
 
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ECC10511-998E-4BD9-9D9F-B87E0ADC477B)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E6D7BBA0-BD00-42E1-A445-5C81FBEE0307)
+- Dekstop link - *Broken in Sketch - need to replace*
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=2I2vzoW03gTPk52L-1)
 
 **Show**
 
@@ -84,12 +84,10 @@ You have no upcoming appointments to show.
 
 ### If a user receives VA health care at a Cerner facility
 
-### If a user receives VA health care at a Cerner facility
-
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
-- [Desktop - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/Ryd9gKQ)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
-- [Mobile - expanded](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/L4PYeML)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A4176&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Desktop - expanded](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=93%3A15630&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A918&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile - expanded](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=85%3A8697&mode=design&t=2I2vzoW03gTPk52L-1)
 
 **Show**
 
@@ -139,9 +137,9 @@ For **any other facility, go to My HealtheVet.**
 
 ### Apply for VA health care link
 
-![Screen Shot 2022-11-17 at 11 07 54 AM](https://user-images.githubusercontent.com/97965610/202497628-f2f6b3d4-81f3-401e-a5e6-f0f6030bdbd3.png)
+<img width="480" alt="Get your VA medical records" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/b667a246-6cfc-4547-8fa4-7bd1a09f3919">
 
-Use font awesome icon `file-medical` for icon
+Use VA-icon `note_add` (named "medical records" in Figma) for icon
 
 **Show**
 - For users who do not have health care through VA.
@@ -158,18 +156,22 @@ Use font awesome icon `file-medical` for icon
 ### Go to your inbox link
 
 With unread messages:
-<img width="955" alt="Screenshot 2023-08-23 at 2 13 25 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/692bd74b-c9c6-4e8e-9a27-1ab2401a3c2b">
-[Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/ZOP0Rqa)
 
-[Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Y42Dz)
+<img width="543" alt="Go to Inbox - message" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/8a94c123-cd1f-4b1c-9cf0-a48b32f77434">
+
+[Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A305&mode=design&t=2I2vzoW03gTPk52L-1)
+
+[Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A842&mode=design&t=2I2vzoW03gTPk52L-1)
 
 Without unread messages:
-<img width="948" alt="Screenshot 2023-08-23 at 2 30 03 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/97965610/07d7cc07-f26a-418e-81fe-8b5fe0d4d119">
-[Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/25LlG1l)
 
-[Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/WK72gqw)
+<img width="545" alt="Go to Inbox - no messages" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/0dc4eb40-37d7-47c6-b7ed-e3cb465939b4">
 
-Use font awesome icon `comments` for icon
+[Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=2I2vzoW03gTPk52L-1)
+
+[Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=2I2vzoW03gTPk52L-1)
+
+Use VA-icon `forum` (named "messages" in Figma) for icon
 
 **Show link**
 - For users who have VA health care.
@@ -184,7 +186,7 @@ Use font awesome icon `comments` for icon
 
 **Accessibility specs** 
 
-[Accessibility annotation](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/y9ylJ8y)
+[Accessibility annotation](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A483&mode=design&t=2I2vzoW03gTPk52L-1)
 
 - There should be an aria label associated with the inbox link **when there are unread messages**. If there are no unread messages, there does not need to be an additional aria label.
   - When a user has unread messages and therefore the dot shows, the aria label should say "Unread messages." and then read the title of the link after that: "Go to your inbox."
@@ -201,9 +203,9 @@ Use font awesome icon `comments` for icon
 
 ### Schedule and manage your appointments link
 
-<img width="474" alt="Screenshot 2023-03-14 at 1 42 37 PM" src="https://user-images.githubusercontent.com/97965610/225092377-f59681f3-bcf2-402d-a76c-7aece775f547.png">
+<img width="480" alt="Schedule and manage" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/c1ca87c8-2e6f-4441-8e51-fd398d5d6899">
 
-Use font awesome icon `calendar` for icon
+Use VA-icon `event_available` (named "appointments" in Figma) for icon
 
 **Show**
 - For users who have VA health care but do not have any upcoming appointments.
@@ -220,9 +222,9 @@ Use font awesome icon `calendar` for icon
 
 ### Refill and track your prescriptions link
 
-![Screen Shot 2022-09-30 at 1 50 57 PM](https://user-images.githubusercontent.com/97965610/193331635-504abfdc-91c3-45eb-abe1-ecec34b2ad6d.png)
+<img width="480" alt="Refill and track" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/f2e2993f-c5d7-4752-bb00-2cad0b9e8b2f">
 
-Use font awesome icon `prescription-bottle` for icon
+Use VA-icon 'medication` ("prescriptions" in Figma) for icon
 
 **Show**
 - For users who have VA health care.
@@ -239,9 +241,9 @@ Use font awesome icon `prescription-bottle` for icon
 
 ### Request travel reimbursement link
 
-![Screen Shot 2022-09-30 at 1 51 04 PM](https://user-images.githubusercontent.com/97965610/193332543-3f753ce1-5451-46c5-a1e9-5ff14031a8b2.png)
+<img width="480" alt="Request travel reimbursement" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/0168263a-dae1-4b5a-8ba3-d750f2dbe695">
 
-Use font awesome icon `suitcase` for icon
+Use VA-icon `work` ("travel reimbursement" in Figma) for icon
 
 **Show**
 - For users who have VA health care.
@@ -258,9 +260,9 @@ Use font awesome icon `suitcase` for icon
 
 ### Get your VA medical records and lab and test results link
 
-![Screen Shot 2022-09-30 at 1 51 12 PM](https://user-images.githubusercontent.com/97965610/193333627-9a383f84-4fa7-4b98-8786-4bfb81520483.png)
+<img width="480" alt="Get your VA medical records" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/151555388/30321063-eaa5-4083-bddf-cd5615d32961">
 
-Use font awesome icon `file-medical` for icon
+Use VA-icon `note_add` ("medical records" in Figma) for icon
 
 **Show**
 - For users who have VA health care.
@@ -296,8 +298,8 @@ Use font awesome icon `file-medical` for icon
 - When this error shows, do not show any other secondary links in the section since we cannot tell if the user has VA health care.
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D44E3932-6985-48FF-AEDA-BC2D85065B04)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D61859AD-13DE-473E-8914-990CED053569)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A279&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A809&mode=design&t=2I2vzoW03gTPk52L-1)
 
 
 ### Error State 2: The health care appointments API call fails (can't tell if user has appointments scheduled but can tell they have VA health care)
@@ -320,8 +322,8 @@ Use font awesome icon `file-medical` for icon
   - [Get your VA medical records and lab and test results](https://eauth.va.gov/mhv-portal-web/web/myhealthevet/download-my-data)
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/36FD1008-AA20-4E81-BCAF-FFBAE0F4070F)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/R1Yjlkj)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A266&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A798&mode=design&t=2I2vzoW03gTPk52L-1)
 
 
 ### Error State 3: The messaging API call fails
@@ -331,5 +333,5 @@ Use font awesome icon `file-medical` for icon
 - Follow all other specs for when this secondary link shows.
 
 #### Mock-ups
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E1F1890F-BA4D-4726-909B-0055361FDF65)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=2I2vzoW03gTPk52L-1)
+- [Mobile](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=2I2vzoW03gTPk52L-1)

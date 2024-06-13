@@ -37,15 +37,9 @@ Definitions from Google:
 
 ## **Secondary Metrics**
 
-**Use of 'Go back to previous version of secure messaging' link, or My HealtheVet link or VA link in header**
+**Use of 'Go back to previous version of secure messaging' link**
 
 - Datadog: Top Actions, Heatmaps, Funnel analysis
-- Google Analytics: Click events
-
-**Use of 'Try me' link on myhealth.va.gov**
-
-- Google Analytics MHV: Click events
-- Google Analytics VA: User Acquisition, Traffic Acquisition, first\_open or first\_visit event
 
 **Sentiment analysis of qualitative feedback data**
 
@@ -71,7 +65,6 @@ Definitions from Google:
 **Conversion Events**
 
 - Datadog: Top Actions, Click events
-- Google Analytics VA: Conversions
 
   - _Is a Veteran able to send a message?_
 
@@ -97,22 +90,24 @@ _Data will be updated in the [phase1-data](https://github.com/department-of-vete
 
 | **Metric** | **Collection Cadence** | **Collection Format** | **Reporting Cadence** | **Reporting Format** | **Audience** |
 | --- | --- | --- | --- | --- | --- |
-| Bounce Rate | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
-| Engagement Rate | Weekly |[Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
-| Use of 'Go back to previous version of secure messaging' link | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) |  End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
-| Use of 'Try me' link on myhealth.va.gov | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/)  | End of each sprint | Presentation given by Bryan on End of Sprint Demo call, Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Bounce Rate | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | Monthly | Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Engagement Rate | Weekly |[Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450)| Monthly | Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
+| Use of 'Go back to previous version of secure messaging' link | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) |  Monthly |  Post in #mhv-secure-messaging Slack channel | MHV Stakeholders |
 | Sentiment analysis of qualitative feedback data | Daily | Excel Spreadsheet | As patterns develop | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
-| Dropoff/Page Exits | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
-| Conversion Events | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450), [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | End of each sprint | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+| Dropoff/Page Exits | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | Monthly | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+| Conversion Events | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) |Monthly | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+| Session Count, Duration, Page Views | Weekly | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) |Monthly | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
+|Messages Sent By Platform | Monthly | VistA Database via Oracle SQL Developer | Monthly | Post in #secure-messaging-ux Slack channel | By Light UCD team, Janie, Coulton, Lois, Robyn |
 
  ## **Data Collection Tools**
-| **Tool** | **Data Type** | **Access** | **Status** | 
-| --- | --- | --- | --- | 
+| **Tool** | **Data Type** | **Access** | **Status** |
+| --- | --- | --- |  --- |  
 | Datadog | Web traffic / User behavior | [Datadog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-0854b01ebd7d86bc121739b4f50b7450) | Running |
 | Domo | Dashboard to aggregate various sources | N/A | Analytics team cannot have ready in time, Medallia and Salesforce will only be current to end of previous month |
 | Google Analytics | Web traffic / User behavior | [Google Analytics Dashboard](https://analytics.google.com/analytics/web/#/dashboard/lGdc4RYGRhGcRVWgGjx8oQ/a50123418w177519031p176188361/) | GA4 expected to be set up by end of calendar year |
-| Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov | Running |
+| Medallia | Veteran feedback from Intercept and Feedback surveys, My411 data, Tier II and Tier III data | Daily emails sent to jane.carnock@va.gov, anne.costello@va.gov, Lichelle.Bain@va.gov, Melissa.Ashton@va.gov | Running |
 | MHV feedback email | Trusted user feedback | Lichelle Bain processes, Anne Kennedy has access | Running |
+| Oracle SQL Developer | Messasges sent by platform | Anne Kennedy | Running |
 
 ### **Collection and Analysis Reporting Plan**
 ![Link Text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/analytics/images/sm-phase1-reporting-plan.png)

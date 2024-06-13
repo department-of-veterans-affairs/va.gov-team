@@ -51,7 +51,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Product - Cartography Team: Patrick Bateman
 - Product - Secure Messaging: Janie Tankard Carnock
 - Product - Medical Records, Cerner Integration: Marci McGuire
-- Design: Coulton Bunney
+- Design: Kaitlin Fink
 - Design: Ryan Thurlwell
 - Design: Robyn Singleton
 - Design: Jenny Wang, Digital Corps Fellow
@@ -64,16 +64,16 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Team Coach: Mike Collier
 - Delivery Coach: Stephen Smythe
 - Design Lead: Florence McCafferty
-- Designer: Keith Cheung
+- Researcher/Designer: Kat Brinkley
 - Full Stack Engineer: Richard Davis
 
 **Contractors (Ad Hoc)** 
 - Design: Jonathan Nelson
 - Engineering: Daniel Cloud
 - Engineering: Jim Zaccardo
-- Accessibility: Angela Fowler
+- Accessibility: Vacant
 - Information Architect: Sara Sterkenberg
-- QA (shared with Health Enrollment): Fletcher Bonds
+- QA (shared with Health Enrollment): Allan To
 
 
 
@@ -81,8 +81,8 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 ### Account Experience Crew (authenticated experience)
 Crew chief: Chante Lantos-Swett
--	My VA (Samara Strauss)
--	Profile (Samara Strauss)
+-	My VA (Chante Llantos Sweet)
+-	Profile (Chante Llantos Sweet)
 -	VA Notify (Shane Elliott, Beverly Nelson)
 -	VEText (Shane Elliott, Beverly Nelson)
 -	VSP Identity (John Rahaghi)

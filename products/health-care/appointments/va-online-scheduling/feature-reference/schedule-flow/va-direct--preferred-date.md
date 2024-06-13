@@ -20,7 +20,7 @@ Veterans are asked to choose a preferred date for when they'd like to receive ca
 - `CONTINUE` directs the user to the [direct schedule Choose a Date page](./va-direct--choose-a-date.md)
 
 ### Non-functional
-- The date selected on this page must be stored in the VistA PID/CID (Preferred Indicated Date/Clinically Indicated date field.    
+- The date selected on this page must be stored in the VistA PID/CID (Preferred Indicated Date/Clinically Indicated) date field.    
 
 ## Specifications
 

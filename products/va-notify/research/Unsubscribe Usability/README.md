@@ -1,0 +1,3 @@
+## VA Notify Unsubscribe (Opt Out) Usability Research (December, 2021)
+
+This is a research on how best to provide Veterans with the option to opt out our Email and SMS notifications. You can see the findings in [VA Notify Opt Out Research.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/research/2023-10-Email-Content-Research/Email%20Content%20Research%20Findings.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/research/Unsubscribe%20Usability/Unsubscribe%20Experience%20Research%20Plan.md)https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/research/Unsubscribe%20Usability/Unsubscribe%20Experience%20Research%20Plan.md).

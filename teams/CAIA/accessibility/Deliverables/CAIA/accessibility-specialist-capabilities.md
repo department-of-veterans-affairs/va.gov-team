@@ -48,7 +48,7 @@ All of this work is [informed by WCAG's suggestions](https://www.w3.org/WAI/plan
 - Works with teams to develop and conduct accessibility research
 - Capable of providing technical support to participants using assistive tech during a research session
 - Overall accessibility and usability SME
-- Reach, works with 1 - 4 teams at a time, can aggregate accessibility=specific research findings and report them through an accessibility escalation pathway
+- Reach, works with 1 - 4 teams at a time, can aggregate accessibility-specific research findings and report them through an accessibility escalation pathway
 - Current example, Liz Lantz
 
 ### Accessibility Engineer
@@ -62,7 +62,7 @@ All of this work is [informed by WCAG's suggestions](https://www.w3.org/WAI/plan
 
 ### Accessibility Tester
 
-- Aligns with either Engineer or QA Specialist
+- Aligns with either Engineer, QA Engineer or QA Specialist
 - Familiar with both automated and manual testing -- expert in at least one
 - Helps teams draft test plans before and during development
 - Capable of running test plans, helping to ensure accessible outcomes
