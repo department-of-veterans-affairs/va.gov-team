@@ -16,7 +16,7 @@ This file serves as a high level meeting log and demo inventory for the VA Healt
 
 ***
 
-## June 4, 2024: [Sprint 98 (pdf)](demo/slides/mobile-demo-sprint-98.pdf)
+## June 4, 2024: [Sprint 98 (pdf)](slides/mobile-demo-sprint-98.pdf)
 
 | Team | Topic |
 |---|---|
