@@ -19,7 +19,7 @@ Endpoints the 526ez uses that need to be migrated:
 
 
 Out of Scope: 
-- Validate - is not used today so migration is not required
+- Validate - is not used today so migration is not required (update June 2024 - Team 2 is migrating this endpoint for testing purposes)
 - Common API - removed from scope because Veteran Verification API is available as alternate
 
 Delivery deadline: Original sunset date for EVSS August 2023 - new date TBD
