@@ -55,7 +55,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
+- Desired date range: 7/31-8/28/24
 - How will you make the product available in production while limiting the number of users who can find/access it: feature toggle
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - [FILL_IN] : list
