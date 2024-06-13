@@ -15,6 +15,9 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 
 #### [Zenhub board](https://app.zenhub.com/workspaces/accredited-representation-management-team-64d0dc51d3e8f4788ac6ef96/board)
 
+## Engineering
+All tables created to support ARM products must encrypt fields that contain PII.
+
 ## Team Members
 
 - DSVA Product Owner: Jennifer Bertsch, Jennifer.Bertsch@va.gov
