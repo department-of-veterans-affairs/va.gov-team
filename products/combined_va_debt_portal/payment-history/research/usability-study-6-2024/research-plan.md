@@ -301,21 +301,21 @@ Note: The following demographic criteria is our goal, but we understand that his
 
 -   At least 2 of 12 people who use a screen reader
     
--   At least 8 of 16 people must identify as Black, Hispanic/Latina/Latinx, Asian, or Native American
+-   At least 6 of 12 people must identify as Black, Hispanic/Latina/Latinx, Asian, or Native American
     
--   At least 8 of 16 people must identify as having a cognitive consideration
+-   At least 6 of 12 people must identify as having a cognitive consideration
     
--   At least 7 of 16 people must identify as other than male
+-   At least 6 of 12 people must identify as other than male
     
--   At least 4 of 16 people are without a degree or professional certificate
+-   At least 3 of 12 people are without a degree or professional certificate
     
--   At least 5 of 16 people are under 35
+-   At least 4 of 12 people are under 35
     
--   At least 5 of 16 people are over 55
+-   At least 4 of 12 people are over 55
     
--   At least 4 of 16 people who identify as gay, lesbian, bisexual, or transgender
+-   At least 4 of 12 people who identify as gay, lesbian, bisexual, or transgender
     
--   At least 4 of 16 non-native English speakers
+-   At least 3 of 12 non-native English speakers
     
 
 ### Secondary criteria (nice-to-haves) What criteria would strengthen your results?
@@ -476,7 +476,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 
--   Planned dates of research: Tuesday, Jun 25, 2024 - Tuesday, Jul 2, 2024
+-   Planned dates of research: Tuesday, Jun 25, 2024 - Wedneday, Jul 3, 2024
     
 
 ### Length of sessions
@@ -494,7 +494,7 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Tuesday, Jun 25, 2024 - Tuesday, Jul 2, 2024
+Tuesday, Jun 25, 2024 - Wednesday, Jul 3, 2024
 
 Tuesday, Wednesday
 
