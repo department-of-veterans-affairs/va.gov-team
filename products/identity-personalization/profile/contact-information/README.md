@@ -31,7 +31,7 @@ The contact information section of the VA.gov profile (https://www.va.gov/profil
 The backend for this is powered by VA Profile (formerly Vet360), which is integrated with a handful of systems at the VA. This means that when a user updates their information in the VA.gov profile, it updates it multiple places at the VA so that veterans don't have many disparate addresses on file. Our integration with VA Profile launched in summer 2018.
 
 ### What to know about this feature
-* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile/direct-deposit) .
+* Contact information currently lives within [the VA.gov profile](http://staging.va.gov/profile) .
 * This feature allows users to complete the following core tasks:
 	- **Add and edit** their mailing address
 	- **Add, edit, and delete** 
