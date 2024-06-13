@@ -1,6 +1,6 @@
 # Contact Information Product Outline
 
-**Last Updated: January 23, 2024**
+**Last Updated: June 13, 2024** frontend documentation link
      
 ## Table of Contents
 
@@ -75,6 +75,9 @@ As a user, I want to be able to:
 
 ## Backend
 [Backend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/backend_documentation.md)
+
+## Frontend
+[Frontend Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/contact_information/frontend_documentation.md)
 
 ### Services
 - Contact information comes from [VA Profile](https://depo-platform-documentation.scrollhelp.site/getting-started/va-profile).
