@@ -3,21 +3,23 @@
 
 Last updated June 6, 2024
 
+----
+
+
 This process document outlines what tickets to open, how to setup the Figma design files and notes, and how to use content components.
 
 
-----
 
 
 
 ## Figma file setup
 
-When an initiative needs to go through content collaboration process, the design file needs to be structured in a way to allow the content specialist to make edits directly in Figma. To prevent issues with changing variants of the native components, create a set of content components just for this initative/ticket. 
+When an initiative needs to go through content collaboration process, the design file needs to be structured in a way to allow the content specialist to make edits directly in Figma. To prevent issues with changing variants of the main native components, create a set of content components just for this initative/ticket. 
 
 
-1. Create the “Content Source of Truth” Section in Figma for the native form content symbols
-2. Create a component for each page/question needing content collaboration
-3. Annotate and add notes and background to the content components as needed, using the content notes status component or notes annotation
+1. Create the “Content Source of Truth” Section in Figma for the main content symbols
+2. Create the frame and turn into a component each page/question needing content collaboration
+3. Annotate and add notes and background to the components
 5. Create a Section in Figma for each part of the form involved in the work
 6. For **each** screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
 
@@ -27,6 +29,8 @@ When an initiative needs to go through content collaboration process, the design
 
 
 ## Content Status Component
+This component was created by the 1010 team and lives in the library file **10-10 EZ & EZR Form Content**
+
 Native component source: 
 Figma File: 10-10 EZ & EZR FormContent  
 Page: MISC > 
