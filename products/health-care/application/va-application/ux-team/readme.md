@@ -51,6 +51,7 @@ Where screen designs and prototypes can be created.
 Used for research synthesis, source of truth and work-in-progess user flows and other collaboration needs. 
 
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
+- In the 1010 Health Enrollment Mural Room, there are folders organized by product and one for team use.
 
 
 #### Github 
