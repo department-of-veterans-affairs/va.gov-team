@@ -23,7 +23,7 @@
 |Allison Lu | FE Engineer| allison@cityfriends.tech |
 | | FE Engineer | |
 |Tom Harrison| BE Engineer | tom.harrison@adhocteam.us|
-|Daniel Miller | BE Engineer | daniel.miller@agile6.com|
+|Daniel Miller | Full Stack Engineer | daniel.miller@agile6.com|
 
 ## Our products
 
