@@ -18,7 +18,7 @@ Jump to:
 
 ## **Research Goals**
 
-This study provided insight into the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program and unauthenticated digital flow  for the CHAMPVA application form (Form 10-10d). With this form, certain dependents and caretakers of disabled Veterans who don’t qualify for TRICARE can apply for CHAMPVA benefits. If awarded the benefits, CHAMPVA will cover the cost of some of the beneficiary’s healthcare services and supplies. While veterans may be familiar with the paper form and with FMP as a whole, the digital form was newly created during this effort.
+This study provided insight into the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program and unauthenticated digital flow  for the CHAMPVA application form (Form 10-10d). With this form, certain dependents and caretakers of disabled Veterans who don’t qualify for TRICARE can apply for CHAMPVA benefits. If awarded the benefits, CHAMPVA will cover the cost of some of the beneficiary’s healthcare services and supplies. While veterans may be familiar with the paper form and with CHAMPVA as a whole, the digital form was newly created during this effort.
 
 The moments that matter within the Veteran journey are:
 
@@ -63,7 +63,7 @@ We conducted a mixed-method study with 13 participants (26 attempted recruits, 1
 6. Half the participants wanted to check their eligibility before starting the form.
 7. The address selector created for this form worked well, but participants wanted to see it earlier in the form.
 8. Most participants had reasonable expectations around application processing time and communication but expressed a desire for improvement.
-9. Participants started pursuing CHAMPVA benefits when they or their dependents had a lapse in insurance. They often learned about CHAMPVA  by being close to the VA or through word of mouth.
+9. Participants started pursuing CHAMPVA benefits when they or their dependents had a lapse in insurance. They often learned about CHAMPVA by being close to the VA or through word of mouth.
 10. The review and sign page generally worked well, though some users were overwhelmed by the amount of information (especially in the “Applicants” section).
 11. Participants were frustrated when they had to enter the same information on the form more than once, such as providing images of Medicare cards and then re-entering the information that appeared on the card.
 12. The list-and-loop pattern had confusing interactions and mixed alignment with the participant’s expectations.
@@ -125,7 +125,7 @@ Some participants also expected to be able to start the form while on the eligib
 
 ### **Finding 7**: The address selector created for this form worked well, but participants wanted to see it earlier in the form. 
 
-Participants appreciated that they could use our newly-created drop-down address selector to populate an address entered for the first applicant and subsequent applicants on the form. However, they also wanted the ability to re-use the Sponsor’s address for the first applicant. Multiple participants mentioned they had the same address as their Sponsor, as well as other applicants they would include on the form.
+Participants appreciated that they could use the newly-created drop-down address selector to populate an address entered for the first applicant and subsequent applicants on the form. However, they also wanted the ability to re-use the Sponsor’s address for the first applicant. Multiple participants mentioned they had the same address as their Sponsor, as well as other applicants they would include on the form.
 
 > **P3:** "Many times [the address] would be the same, if you were a family."
 
@@ -178,7 +178,7 @@ Participants expressed annoyance when they had to provide information in multipl
 
 ### **Finding 12**: The list-and-loop pattern had confusing interactions and mixed alignment with the participant’s expectations.
 
-The participant’s preconceptions of the list-and-loop pattern’s behavior seemed to be mixed when compared to how the pattern actually worked. Some participants mentioned they would expect or prefer everything to be on a single page or to be capable of inputting information for multiple applicants at once. Participants often completely overlooked the “Add applicant” button for the list-and-loop when it first appeared in the flow. The participants also expected feedback from the form after they added the second applicant, a confirm button that collapses the fields, and an alert or some other feedback to let them know their input was successful. The current pattern of clicking the continue button after inputting the second applicant’s information did not seem to align with the participant’s mental models.
+The participant’s preconceptions of the [old (replaced June 20204) list-and-loop pattern’s](https://web.archive.org/web/20231004171510/https://design.va.gov/patterns/ask-users-for/multiple-responses) behavior seemed to be mixed when compared to how the pattern actually worked. Some participants mentioned they would expect or prefer everything to be on a single page or to be capable of inputting information for multiple applicants at once. Participants often completely overlooked the “Add applicant” button for the list-and-loop when it first appeared in the flow. The participants also expected feedback from the form after they added the second applicant, a confirm button that collapses the fields, and an alert or some other feedback to let them know their input was successful. The current pattern of clicking the continue button after inputting the second applicant’s information did not seem to align with the participant’s mental models.
 
 > **P1:** “It would be more helpful if both applicants were on the same screen.”
 
