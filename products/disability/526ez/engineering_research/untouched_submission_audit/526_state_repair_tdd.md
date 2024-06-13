@@ -11,6 +11,11 @@
 - **State machine**: A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. There is no state-machine dashboard or admin login. *The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.* That will come later; this work is required to unblock that work, but they are different.
 - **Exclusive methodology**: Unfortunately, 'failure' is a nebulous state at which a submission can arrive in any number of ways. Therefore, the best way to identify what has failed is to use an *exclusive methodology* to identify and eliminate everything from a set (all submissions) that is explicitly *successful*. Then, we can simply consider everything else a failure-like state. An *exclusive methodology* is necesary to prevent missed edge cases, in which a bug, logic change, or unforseen circumstance creates a new path to failure. Determining success state for the purpose of exclusion is currently a long and complex process that not enough people know how to execute from end to end. ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)). 
 
+## Resources
+- [Original document describing the work of "Auditing" our database for untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/post_remediation_audit_for_untouched_submissions.md)
+- [The document describing the failures of the current system and outlining the need to fix it](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md)
+- [A description of how tags were initially applied](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)
+  
 ## Summary
 At the top level, we (stake holders and engineers) need to know, at a glance, what submissions in our database require remediation. By surfacing this data we will unblock future remediation efforts and the creation of admin dashboards and insight tools. Simply put we need to see when a submission fails, and the process of looking should be easy.
 
@@ -21,7 +26,6 @@ This work will
 - Create a sustainable, reusable developer workflow for debugging and remediating failures (de-bus-valuing me).
 
 ## TODO
-
 ### 1. Repair our Backup Submission Polling Job
 #### Problem Statement
 We have or have had many submissions that seem stuck in a state of `delivered_to_backup`. This may be due to a problem with the 526 Benefits Intake Status job, [defined here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_status_polling_job.rb).  `delivered_to_backup` is a transitory state, implying that a submission was successfully delivered to the Benefits Intake API. However, the purpose of this job is to do a daily query against the Benefits Intake Polling API with every submission in a state of `delivered_to_backup` with the goal of transitioning them into a pass / fail state based on the results of that poll.  The Benefits Intake API assigns these their own internal status of `vbms` or `success` if the submission passed their internal validations, or a status of `error` or `expired` (TODO: double check that `expired` is the correct name for this status) if the submission fails their internal processing. 
@@ -33,39 +37,37 @@ Upon investigation of a random set of submissions that were still in the `delive
 - When returning a "pass" type status for a submission, the submission is successfuly and reliably transitioned into a state of `finalized_as_successful`
 - When returning a "fail" type status for a submission, the submission is successfuly and reliably transitioned into a state of `rejected_by_backup`
 
-### 2. Simplify or Replace our State
+### 2. Rebuild State from the ground up
 
-#### The Problem
-Currently, we have the following states
-`:delivered_to_primary, :failed_primary_delivery, :rejected_by_primary, :delivered_to_backup, :failed_backup_delivery, :rejected_by_backup, :in_remediation, :finalized_as_successful, :unprocessable, :processed_in_batch_remediation, :ignorable_duplicate`
+#### The Problem(s)
 
-Many of these are confusing, such as `failed_backup_delivery`, which indicates a failed HTTP request, vs `rejected_by_backup` which indicates a "fail" type status assignment via Benefits Intake polling.
+##### Bloated, Confusing State Machine
 
-Other states were created for the purpose of remediation, and have no real value to the application processing logic outside of saving datapoints about what was remediated when, such as `processed_in_batch_remediation`.  In practice this means the same thing as `finalized_as_successful` or `in_remediation`, which is that for these submissions we have "fullfilled our contract" with the veteran, ie. moved the submission from our web api to the appropriate next step ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#what-is-an-untouched-submission).)
+Currently, we have the following states, `:delivered_to_primary, :failed_primary_delivery, :rejected_by_primary, :delivered_to_backup, :failed_backup_delivery, :rejected_by_backup, :in_remediation, :finalized_as_successful, :unprocessable, :processed_in_batch_remediation, :ignorable_duplicate`. Many of these names are confusing, such as `failed_backup_delivery`, which indicates a failed HTTP request, vs `rejected_by_backup` which indicates a "fail" type status assignment via Benefits Intake polling.
 
-Finally, perhaps worst of all, we have states that create a duplicate source of truth with other, better, more reliable datapoints. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the datapoint we use to set the state, there is no other meaninful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aformentioned remdeation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
+Other states were created for the purpose of remediation, and have no real value to the application processing logic outside of saving datapoints about what was remediated when, such as `processed_in_batch_remediation`.  In practice this means the same thing as `finalized_as_successful` or `in_remediation`, which is that for these submissions we have "fullfilled our contract" with the veteran, ie. moved the submission from our web api to the appropriate next step ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#what-is-an-untouched-submission).) These mean more or less the same thing, but with an ultimately unsuccessful nod to context tracking. 
 
-##### Why is 526 State it in such a bad way?
+**TL;DR: Our solution must re-define state as simply and clearly as possible, eliminating bloat and providing a sustainable technical implementation upon which to build stakeholder facing tools.**
 
-Short answer is rapid itteration, uncertainty around what data was important, and too many cooks in the kitchen. Unfortunately, due to the speed at which this evolved documentation is limited, but these are the most relevant paths for for context
+##### Redundant Sources of Truth
 
-- [Original document describing the work of "Auditing" our database for untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/post_remediation_audit_for_untouched_submissions.md)
-- [The document describing the failures of the current system and outlining the need to fix it](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md)
-- [A description of how tags were initially applied](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)
+We have states that create a duplicate source of truth with other, better, more reliable datapoints. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the datapoint we use to set the state, as there is no other meaninful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically in a state of `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aformentioned remdeation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
 
-Additionally, there was an attempt to use the state machine to keep track of how a submission was remediated, ie. `processed_in_batch_remediation`, `in_remediation`, `ignorable_duplicate` Per VA stakeholders we **do want to know which remediation path a submission went down**, at least to the extent possible. There are a number of ways that submissions can be remediated, and it's also possible, likely even that some will have more than one remediation. 
+**TL;DR: Our solution must eliminate redundant sources of truth.**
 
-
-##### **Complex Remediation Lifecycle**
+##### Complex Remediation Lifecycle
 
 Remediation is an imperfect process. Once a submission has been identified as needing remediation (i.e. it is in a failure state) it is common to send it for remediation more than once. There are a few reaons for this, primarily that remediation is a mostly manual, human process involving long communication chains, expiring documents, and follow up requests. 
 
-This complicates our ability to define the state of a submission once it is sent for remediation. Once sent, it is "in remediation", which is a success-type state. If there is a follow up request, then we (vets api team) are culpable for it reaching it's next step, therefor we have not fulfilled our contract with the veteran, therefor we have reverted to a failure type state. If we are using a binary (pass / fail) state system, we have a contradiction.
+This complicates our ability to define the state of a submission once it's remediation lifecycle has begun. By definition "in remediation" is a success-type state, however if there is futher work required later on, it would also be true to say that we have not fulfilled our contract with the veteran, and therefore the submission is also in a failure-type state. If we use a binary (pass / fail) system, we end up with a contradiction that can only be resolved by accepting bad data, or loosing good data.
 
-For this reason, we must consider the remediation lifecycle / process to be potentially "complex", that is, a submission can have many remediations, and they are all worth tracking. We don't want to delete information about when a submission was sent for remediation the first time, but we do need to have a way to account for follow up work. Our solution must account for this complexity to the extent possible.
+For this reason, we must consider the remediation lifecycle / process to be potentially "complex", that is, a submission can have many remediations, or a remediation can have many stages, and they are all worth tracking. We don't want to delete information about when a submission was sent for remediation the first time, but we do need to have a way to account for follow up work. This puts us in a situation where it's become more dificult to say with certainy that a submission is ever truely succesfull, and so the best option left to us is to define "success, so far...", thus allowing us to eliminate a submission from monitoring, while allowing for the possiblity of future work. Our solution must account for this.
 
+In a perfect world, there are be ways to define "true success." This could be global tracking ID and an API to tell us an adjudicator has closed the submission, or the time to rebuild our application to be a true pass-through system that never owns vet data. For now, vets-api is the first link in a long chain of data holders, and is therefor the best place to revisit should something get broken or go missing down the line.
 
-##### **Evidentiary Chain of Custody (aka Version Control)**
+**TL;DR: Our solution must support ongoing remediation**
+
+##### Evidentiary Chain of Custody (aka Version Control)
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
 
@@ -77,11 +79,15 @@ This "list" is comprised of a patchwork of data assembled from shared documents,
 
 Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy.
 
+**TL;DR: Our solution must codify instances of remediation context**
+
 ### Acceptance Criteria
+
 Our new solution must do these things
-1. remove redundant sources of truth
-2. Support complex remediation lifecycles
-3. Support "Evidentary Chain of Custody"
+1. be simple
+2. remove redundant sources of truth
+3. Support complex remediation lifecycles
+4. Support "Evidentary Chain of Custody"
 
 - remove redundant sources of truth
   - remove any state prior to backup path success or failure. These are implied by the presence of `submitted_claim_id` or `backup_submitted_claim_id`. If a submission has neither of these it is automatically considered to be in a failure like state.
