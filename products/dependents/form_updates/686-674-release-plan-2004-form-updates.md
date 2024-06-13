@@ -12,7 +12,7 @@
 |Phase 2A: 100% of users| indefinite | 100% users| June 2024 |
 
 
-## Release Plan Overview Phase 2: update design patterns to v3
+## Release Plan Overview Phase 2: Redesign form and update design patterns to v3
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
