@@ -2,7 +2,8 @@
 
 ## Background
 Currently, we are working to increase transparency for the  [disability claims process](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713276576012/25e677b1d846aff3bea16fc9175e473d5e509888?sender=u606d6bea4af40ec4fe659363)  by providing a description for each process step so hopefully veterans can  anticipate what will happen next in the claims process or to educate veterans on ideal times to submit evidence etc.
-The current understanding is that by default, the same UI is used for all claim types. Essentially, updating it for disability compensation claims (our current work) will update it for all. We would like to gain a better understanding of the pension process so that we can optimize the UI to work for this product.
+
+Our new understanding is that we can specify which claims will use the new claims process UI (accordion UI) and provide bespoke content based on the claim type. Our goal is to learn more about the pension claims process so that we can determine the most effective way to represent the claim using the new UI.
 
 ## Summary
 The claims process for Pension claims currently follows the 8-step process we are outlining in the  [claim phase experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Product%20Outline.md)  effort. However, it’s important to note that Step 5, the rating step, will need to be described differently for pension claims.
