@@ -1,6 +1,6 @@
 
 <!-- markdownlint-disable MD024 -->
-# FMP Registration Release Plan Template
+# FMP Registration Release Plan
 
 ---
 
