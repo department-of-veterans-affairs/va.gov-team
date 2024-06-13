@@ -31,11 +31,9 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
+- PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will work with the team to get the FE engineer to disable the toggle and identify the issue.
+- React widget will need to be turned 'off'
+- Coordinate with CAIA to revert static page/entry points to previous version
 
 [FILL_IN]: create your rollback plan
 
