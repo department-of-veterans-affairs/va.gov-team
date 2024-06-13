@@ -62,7 +62,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - [FILL_IN] : of
   - [FILL_IN] : KPIs
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- Who is monitoring the dashboard(s)?: Product Managers, PO
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
