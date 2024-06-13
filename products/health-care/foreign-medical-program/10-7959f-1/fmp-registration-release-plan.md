@@ -48,7 +48,7 @@ Before enabling your feature toggle in production, you'll need to:
   - [FILL_IN]: Tickets of bugs/changes
 - Was any downstream service affected by the change?: no
 - Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
