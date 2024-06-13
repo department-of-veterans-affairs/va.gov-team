@@ -1,5 +1,4 @@
 # Research Plan for Appointments Oracle Health integration and scheduling improvements
-*Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
 VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments. 
