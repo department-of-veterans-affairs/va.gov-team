@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan: 2024 21-686c and 21-674 Online Form Updates
 
-## Release Plan Overview Phase 1: Add/remove fields, update pdfs
+## Release Plan Overview Phase 1: Add/remove fields and update pdfs
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
