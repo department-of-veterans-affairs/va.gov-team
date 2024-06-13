@@ -1,13 +1,12 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Appointments Oracle Health integration and scheduling improvements
 *Questions about how to set up your research study? Reach out in the #research-ops Slack channel.* 
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments. 
+### User Problem Statement
+A very small percentage of Veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and a heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for Veterans.
 
-[Link to product brief](url goes here).
+[VAOS Product Outline](vaos-product-outline.md)
 
 ### OCTO Priorities 
 
