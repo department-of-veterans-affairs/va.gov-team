@@ -1,8 +1,8 @@
 # VA Mobile team sprint demo meeting analytics
 
-## June 18, 2024
+## June 18, 2024: Sprint 99
 
-[View sprint 99 demo slides](#)
+[View sprint 99 demo slides (pdf)](#)
 
 | Team | Topic |
 |---|---|
