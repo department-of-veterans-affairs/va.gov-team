@@ -42,9 +42,9 @@ Internal dependency: endpoint migration prioritization against other priority fe
 |Endpoint|Lighthouse Update               | DBEX Update|Notes|
 |--------|--------------------------------|------------|-----|
 |Intent to file |In production|100% in production| Endpoint remains stable. |
-|Submit | Work in progress - ETA LH staging early June 2024, production release late June 2024|Release Planning| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response. Logic updates likely needed and revisit to the transformation service. |
+|Submit | Work in progress - LH staging 6/6/24, production release late June 2024|In development| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response. Logic updates likely needed and revisit to the transformation service. |
 |Benefits claims service| In production|100% in production| Rolled back April 2024 for Employee Experience release. |
-|Generate PDF|In production|Not started| Team 2 |
+|Generate PDF|In production|In development| Team 2 |
 |Rated Disabilities| Bug fix re-release to LH staging and production 5/20/24|On hold, ready to resume release||
 |PPIU (Direct Deposit) |In production|100% in production| Endpoint remains stable. |
 |PCIU (Prefill) |Original notes were to migrate to VA Profile, not to LH. However, there are some 526-specific calls that VA Profile does not support so migration still needed. |Development complete, release paused.| Address error rate too high to proceed with confidence, on hold.|
