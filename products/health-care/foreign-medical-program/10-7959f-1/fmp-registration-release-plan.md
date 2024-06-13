@@ -37,19 +37,17 @@ Before enabling your feature toggle in production, you'll need to:
 - number of users: 13
 - recruitment: Perigean
 - testing: moderated
-- test users access: staging 
+- test users access: figma prototype 
 
 #### Results
 
 - Number of users: 11
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
+- Number of bugs identified / fixed: none
 - Was any downstream service affected by the change?: no
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
-- If yes, what: [FILL_IN] with ticket numbers
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes
+- If yes, what:
+   - Ticket [#84088](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/84088)
+   - Ticket [#83884](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/83884)
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
