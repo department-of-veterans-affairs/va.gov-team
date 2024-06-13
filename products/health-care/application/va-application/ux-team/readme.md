@@ -36,14 +36,13 @@ To provide an easy and conventient path for Caregivers and for Veterans/Represet
 
 ### Tools used
 
-
 #### Figma 
 Where screen designs and prototypes can be created.   
 - [Link to Health Enorllment Project Room](https://www.figma.com/files/team/1278375444205744118/project/175597680/Healthcare-Benefits-Applications?fuid=1070808939264105970)
 
 - Files separated by Product, Shared Content and Archive
 
-**File Organization + Naming**
+File Organization + Naming
 - The pages listed at the top under the _Source of Truth_ section header should always match what is in production
 - Under the _Work + Tickets_ header, include a short name and the ticket number when naming the page.
 - There are additional naming conventions noted in the [Figma file notes page](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3347-33475&t=gfTdB6dw3usNzHme-0)
@@ -63,13 +62,13 @@ Each product folder has sub-folders for:
 
 #### Github 
 
-**Folders**
+Folders
 - For each new initiative/epic, the Project Manager will create a folder in the product github product folder ([EZ/EZR](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application) and [CG](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers))
 - Designers will add a **ux folder and a readme.md** file for each initiative that has a UX impact and follow guidelines in documentation process
 - Keep relevant links to artifacts and tickets organized on this readme file
 
 
-**Tickets**
+Tickets
 - Add a link to all the relevant UX tickets from the UX readme.md file
 - In the Figma file, create a documentation/notes annotation and add links to relevant tickets there as well
 
@@ -77,17 +76,17 @@ Each product folder has sub-folders for:
 
 ### Meeting Cadence
 
-**Weekly Design Sync**
+Weekly Design Sync
 
 - Mondays at 2:30pm ET / 11:30am PT
 - [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/design-weekly-sync-agenda.md)
 
 
-**Designer Pomodoro Sessions (Mondays and Wednesdays)**
+Designer Pomodoro Sessions (Mondays and Wednesdays)
 
   
 
-**Content Sync with CAIA** 
+Content Sync with CAIA
 - Weekly on Fridays at 2pm ET / 11am PT
 
 
