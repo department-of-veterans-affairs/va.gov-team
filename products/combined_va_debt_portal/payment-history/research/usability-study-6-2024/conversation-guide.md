@@ -39,9 +39,9 @@ Do you have any questions for me? Just want to ensure the next 60 minutes are st
 
 We like to start off with a lighthearted question to get to know you better.
 
-[Add a question]
+What's your favorite thing to do in the Summer? 
 
-Thank you for sharing! Those are great interests to have (personalize response).
+Thank you for sharing! (personalize response).
 
 ## [VA debt experience baseline] (5 minutes)
 
@@ -122,8 +122,6 @@ On the next page, you will see a debt portal with information about the debt.
 
  - [ ] They don’t notice (fail)
 
-    
-    Time on task: ( fill in )
 
 -   What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
 
