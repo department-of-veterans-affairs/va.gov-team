@@ -30,6 +30,8 @@ OH facility [leadership] can configure the online scheduling options available t
     - Note: registering at one OH facility automatically registers them at all other OH facilities.
   - They have an established relationship with a provider.
     - Note: need to define/understand what established relationship means.
+    - Note: will nutrition and food require an established relationship?
+       - If not, will we allow them to schedule with any provider?
   - The facility has enabled direct scheduling for nutrition and food.
 
 When choosing a location, a Veteran will be directed to [request an appointment](#requests) if:
