@@ -85,8 +85,11 @@ Requesting an appointment at OH follows the current VistA request flow business 
 
 ## Open questions
 
-- At what level should enabling direct scheduling/requests? Assuming this will be up to individual facilities like VistA is today, but it could be a higher level decision for OH.
-- Does a user need an established relationship to schedule/request appointments at a particular location?
+- At what level do facilities/staff enable direct scheduling/requests? Is this up to individual facilities like VistA is today, or a higher level OH/Cerner decision?
+- Does a user need an established relationship to schedule/request nutrition and food appointments at a particular location?
    - What does "established relationship" mean on a technical level?
-   - Should users not be given the option to schedule at locations where they don't have established relationships?
+   - Should users not be given the option to schedule at locations/for toc where they don't have established relationships?
+   - If the Veteran doesn't have an established relationship with a provider, does that mean the Veteran would be a new patient when scheduling with them?
+   - Outside of established relationships, what makes a new appointment?
 - At OH facilities, who determines whether or not to enable online scheduling/requests?
+
