@@ -44,7 +44,7 @@ This will depend on what we identify as the problems with our polling job.
 
 #### The Problem(s)
 
-##### Bloated, Confusing State Machine
+##### -- Bloated, Confusing State Machine --
 
 Currently, we have the following states, `:delivered_to_primary, :failed_primary_delivery, :rejected_by_primary, :delivered_to_backup, :failed_backup_delivery, :rejected_by_backup, :in_remediation, :finalized_as_successful, :unprocessable, :processed_in_batch_remediation, :ignorable_duplicate`. Many of these names are confusing, such as `failed_backup_delivery`, which indicates a failed HTTP request, vs `rejected_by_backup` which indicates a "fail" type status assignment via Benefits Intake polling.
 
@@ -52,13 +52,13 @@ Other states were created for the purpose of remediation, and have no real value
 
 **TL;DR: Our solution must re-define state as simply and clearly as possible, eliminating bloat and providing a sustainable technical implementation upon which to build stakeholder facing tools.**
 
-##### Redundant Sources of Truth
+##### -- Redundant Sources of Truth --
 
 We have states that create a duplicate source of truth with other, better, more reliable datapoints. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the datapoint we use to set the state, as there is no other meaninful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically in a state of `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aformentioned remdeation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
 
 **TL;DR: Our solution must eliminate redundant sources of truth.**
 
-##### Complex Remediation Lifecycle
+##### -- Complex Remediation Lifecycle --
 
 Remediation is an imperfect process. Once a submission has been identified as needing remediation (i.e. it is in a failure state) it is common to send it for remediation more than once. There are a few reaons for this, primarily that remediation is a mostly manual, human process involving long communication chains, expiring documents, and follow up requests. 
 
@@ -70,7 +70,7 @@ In a perfect world, there are be ways to define "true success." This could be gl
 
 **TL;DR: Our solution must support ongoing remediation**
 
-##### Evidentiary Chain of Custody (aka Version Control)
+##### -- Evidentiary Chain of Custody (aka Version Control) --
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
 
