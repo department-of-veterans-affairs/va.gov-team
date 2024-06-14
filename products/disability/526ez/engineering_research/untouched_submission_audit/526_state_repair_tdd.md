@@ -71,7 +71,7 @@ In a perfect world, there are be ways to define "true success." This could be gl
 
 **TL;DR: Our solution must support ongoing remediation**
 
-##### -- Evidentiary Chain of Custody (aka Version Control) --
+##### -- Evidentiary Chain of Custody --
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
 
