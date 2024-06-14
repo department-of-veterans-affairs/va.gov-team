@@ -11,8 +11,7 @@
 - N/A
 
 ## IA artifacts
-- [ ] [IA Review Document (NEED)]()
-- [ ] [IA Intake Form (NEED)]()
+- [x] [IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79982)
 
 ## QA artifacts
 - [x] [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/5554)
