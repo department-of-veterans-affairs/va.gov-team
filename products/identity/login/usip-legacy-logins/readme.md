@@ -61,14 +61,18 @@ With MHV credentials due to become inactive on January 31, 2025 and DSlogon cred
 
 
 ## Measuring success
-
+* Call center calls 
 
 
 ## Solution approach
-
+* Comms to let Veterans know what is happening.
+* UX changes to de-emphasize sunsetting credentials.
+* Timeline which accelerates nudging Veterans to move away from MHV and DSLogon as their sunset dates approach.
 
 ### Key dates
 
+* January 31, 2025 - MHV credentials sunset.
+* September 30, 2025 - DSLogin credentials sunset.
 
 
 ## Backend
