@@ -150,7 +150,7 @@ Most participants expected it would take 4-8 weeks to process their CHAMPVA appl
 
 Most participants learned about the CHAMPVA program through a close relationship with the VA or communication with other Veterans or their family members. A small number of people learned about it from TAP (Transition Assistance Program) or the disability benefits packet that they received after reaching a 100% P&T (permanent and total) disability rating. The majority of participants explained their motivation for applying was to provide health insurance to family members after separation or between the time when they stopped working and became eligible for Medicare. In conversation, many participants mentioned that they would not expect to have learned about CHAMPVA outside of their unique circumstances and feel there should be more outreach from the program to potential beneficiaries.
 
-On a related note, CHAMPVA is not health insurance but is instead a cost-sharing healthcare benefits plan. However, many beneficiaries view it as health insurance.
+On a related note, CHAMPVA is not health insurance but is instead a cost-sharing healthcare benefits plan. However, many beneficiaries view it as health insurance. This demonstrates a disconnect between CHAMPVA's actual services and beneficiaries' understanding of those services.
 
 > **P20:** "I found about CHAMPVA through the VA system -- somebody at the Boston VA."
 
