@@ -5,7 +5,7 @@ Now that we have created our [Service Level Objectives](https://github.com/depar
 
 This is part of the book of work that maps to _O1-KR2: VA.gov authentication SLOs are developed._
 
-I like to think of it as the final part of the trilogy that started with the SLO proect, and left us on a cliffhanger at the conclusion of the SLA project!
+Think of it as the final part of the trilogy that started with the SLO proect, and left us on a cliffhanger at the conclusion of the SLA project!
 
 
 ## Problem Statement: 
