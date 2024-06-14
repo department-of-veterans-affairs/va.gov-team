@@ -6,6 +6,7 @@
 ## Key terms and and concepts
 - **submission**: Refers to an instance of the class `Form526Submission` and the veteran submitted claim it represents, used for brevity.
 - **failure**: Refers to a failure to process a submission. Also refered to as "not-done" and "failure like state."
+- **in process**: Referes to an instance of `Form526Submission` that is not yet ready to be defined as a success or failure. More on this below. [TODO - link]()
 - **success**: Referes to successful, complete, nothing-left-to-do processing of a submission. The submission has passed successfully through our system from the Veteran to the relevant next step. Also refered to as "fulfilling our contract", "done", and "success type states". 
 - **remediation**: Any process out side of the "happy path" or "backup path" form submission flow for 526 that is used to move a submission into a success state.  Typically this involves a developer and stake holder working closely to identify and package failures in a processable format, then passing that package off to relevant parties.
 - **State machine**: A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. There is no state-machine dashboard or admin login. *The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.* That will come later; this work is required to unblock that work, but they are different.
@@ -84,16 +85,34 @@ Our system is error prone, and our results must be error free, a clear contradic
 
 **TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle**
 
-##### The Retry Window
-[todo - describe why it's futile to try and pin down state while something is still retrying]
+##### -- Filtering out in-process submissions --
+
+At a high level, an 'in process' submission is one that our application is still attempting to process it via the the primary and backup paths. During this time, there are a lot of murkey substates that we are ignoring; for our purpouses they are unimportant. For instance, the presence of an associated `InProgressForm` could indicate a submission is still in progress, or it could mean it's being run on a worker but not yet at the stage of the process where that `InProgressForm` record is removed. Fixing this complexity is out of scope, and ultimately it's not relevant to our goal which is to *find submissions that need remediation*.
+
+At a high level, 'in process submissions' are either
+- still being run on a retyring, async sidekiq worker (happy or backup path)
+- has been sent to the backup path but has not yet received a finalized state from our polling mechanism
+
+I will propose multiple ways to capture this state in the implementation section.
+
+**TL;DR: Our solution must define 'in process' submissions for exclussion**
+
+##### Reliance on failure state assignment
+In our first version of the state machine, we relied heavily on failure state assignment. For instance, if a submission worker exhausted it's retries, we expected it assign a failure type state using sidekiq's built in `sidekiq_retries_exhausted` functionality. This worked most of the time, but ultimatey, given our stated goal of ensuring we *never miss a single submission* to which end we are using **exclusive methodology**, we have to assume that this code can break or fail to execute, thus failing to assign a failure type state. If this were to happen and we only relied on failure type states, then we would miss that submission. This methodology fails to meet the standard set forward by our stated goals, and in practice, ended up being squirly and is part of the reason our current state machine cannot be trusted.
+
+Failure state assignment is still a good idea, and we should do it. When it works (which is most of the time) it gives us context on what failed, when, why, etc.  However, we cannot exclusively rely on it. We need to use an exclusive methodology, in which anything that is not explicitly successful (or in progress) is considered a failure. 
+
+**TL;DR - Our solution must provide redundancy accouting for submission failure outside of failure-state assignment.**
 
 ### Acceptance Criteria
 
-Our new solution must do these things
-1. [Be simple](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#bloated-confusing-state-machine)
-2. [Remove redundant sources of truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#redundant-sources-of-truth)
-3. [Support complex remediation lifecycles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#complex-remediation-lifecycle)
-4. [Codify changes to the history of a submissions remediation lifecycle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#evidentiary-chain-of-custody-aka-version-control)
+To recap the above, our new solution must do these things
+1. Be simple
+2. Remove redundant sources of truth
+3. Support complex remediation lifecycles
+4. Codify changes to the history of a submissions remediation lifecycle
+5. Define 'in process' submissions for the purpose of exclusion
+6. Not rely on failure-state assignment
 
 ### Implementation Design
 
