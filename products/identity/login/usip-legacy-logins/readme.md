@@ -48,16 +48,16 @@ With MHV credentials due to become inactive on January 31, 2025 and DSlogon cred
 
 ### Undesired User Outcomes
 
-* Chaos and disorder at both the MHV and DSLogon deadlines; call center swamped with outraged Vets who suddenly can't sign-in; Congressional investigation into the situation.
+* Veterans do not switch over to either ID.me or Login.gov and cannot not access their benefits as usual.
 
 ## Business outcomes
 
 ### Desired Business Outcomes
-
+* A smooth transition from four CSP to two CSP.
 
 
 ### Undesired Business Outcomes
-
+* Chaos and disorder at both the MHV and DSLogon deadlines; call center swamped with outraged Vets who suddenly can't sign-in; Congressional investigation into the situation.
 
 
 ## Measuring success
