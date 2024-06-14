@@ -103,16 +103,12 @@ Component> Content Status
 - General notes: BLUE
 - SME Questions: PURPLE
 
+
 **Additional Notes Component**
 Use the Notes component in VADS Web Annotation Kit 
 - To label each screen / page name of the flow for review
 - Callout any other changing elements like URLs/fields added or removed/specific changes
 
-
-
-
-
-----
 
 
 
