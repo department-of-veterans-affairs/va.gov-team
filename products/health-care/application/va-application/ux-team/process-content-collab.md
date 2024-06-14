@@ -59,9 +59,9 @@ When an initiative needs to go through content collaboration process, the design
 1. Create the “Content Source of Truth” Section in Figma for the main content symbols
 2. Create the frame and turn into a component each page/question needing content collaboration
 3. Annotate and add notes and background to the components in the Source of Truth section area
-5. Create a Section in Figma for each part of the form involved in the work or the overall flow
-6. For **each** screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
-7. 
+4. Create a Section in Figma for each part of the form involved in the work or the overall flow
+5. For **each** screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
+
 <img width="681" alt="Content-FigmaSetup" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/09d6c92e-e9f0-4087-bc8a-65bd75673e00">
 
 ### Designer content collab
