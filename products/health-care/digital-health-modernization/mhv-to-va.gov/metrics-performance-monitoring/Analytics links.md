@@ -21,3 +21,5 @@
 
 **MHV CSAT Dashboard**
 - https://va-gov.domo.com/page/601491420
+- Filter by time range and my-health
+- Secure messages and appointments CSAT are available 
