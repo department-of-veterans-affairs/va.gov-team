@@ -6,7 +6,10 @@ Team Roles and Responsibilities:
 - Tom - Floater and RC Testing  (Design System, API said QA is not needed during sprint planning - later DS wanted to pull QA back in)
 - Rachael - Health and Benefits
 - Therese - Global
+
 Team agreed rotation change is needed - plan is to do that in Q4 with Q3 being a quarter of focusing on documentation and preparing for the transition
+
+OKRs discussed Q4 2023 and Q1 2024 needed to be rethought and refocused on by the VA. New metrics identified. 
 
 ## Q1 2024
 Team Roles and Responsibilities: 
