@@ -541,7 +541,39 @@ TBA
 ### When, or under what conditions, would you recommend revisiting this design decision?
 We will review this decision upon app store release and additional testing of this language in both the Google Play Store (where we can A/B test language about the app in the app store).
 
+# Decision: Scale now with legacy credentials and existing login stack
+Today, the mobile app's login process is not performant or user-centered. While VA's overall identity strategy will eventually improve this, we will not wait to scale up traffic to the app until these VA makes these improvements. 
 
+We had two main concerns: scaling the app with a bad login experience, and driving users to the app with legacy credentials that we'd stop supporting, forcing them to migrate credentials. We hoped that the early stage of mobile's product maturity gave us an opportunity to push VA's identity strategy forward and improve our users' experiences. However, for the reasons 
+
+VA's identity strategy includes removing MHV and DS Logon as credential types in favor of id.me and Login.gov, which are more modern and secure. VA also plans to replace the existing underlying technology with a AWS Cognito. Our main concern was scaling the app with
+
+## What did you decide on?
+We will execute our scaling up strategy this year [2021], centered around Veterans Day.
+
+## Document the people who agreed to the design decision (and their roles on the project)
+- Leanna Miller (product owner)
+- Travis Newby (engineering lead - gov)
+- Patrick Vinograd (backend engineer)
+- Patrick Saxton (engineering lead - vendor)
+- Ambike Roos (product lead - vendor)
+- Alastair Dawson (backend engineer)
+- *we need signoff from Charles and CJ, need to alert identity team to this shift*
+
+## What was the deciding factor for your decision?
+- Desire and overall strategic value to scaling earlier 
+- Risk involved in removing support for 2/3 of our user base's credentials - they may never come back 
+- Too many dependencies on other teams means too much uncertainty in the timeline for marketing, PR, stakeholder management, etc 
+- Too much complexity in migrating credentials; we need much more robust user research, change management, design time to be able to do this in a human centered way 
+- Advanced to Premuim migration: MHV is currently engaged in a large change mangement strategy to move advanced users (4 million users) to premuim MHV accounts. We did not intercede to push those users to ID.me. If we stop supporting MHV credentials soon, those users will have gone through the pain of upgrading to premium, and then they will need to migrate again. We decided that would not be compassionate or user-centered. 
+
+
+## What other options did you consider?
+- *Wait for login.gov to go live in IAM;* we decided that was unnecessary and unlikely to improve user experience. We will go live with Login.gov when VA.gov launches login.gov (likely October 2021). 
+- *Replace initial login page with one that VA.gov controls to improve user experience;* while this might be desireable, it is still a hypothesis at this point and again, unlikely to make significant improvements to user experience with current credentials and stack. We won't be offering upgrade paths or nudging to new credentials. When that does happen, this page becomes critical.  
+
+## When, or under what conditions, would you recommend revisiting this design decision?
+This is a toothpaste out of the tube situation. Cannot revisit. 
 
 
 ------------------------------
