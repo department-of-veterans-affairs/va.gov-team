@@ -1,6 +1,6 @@
 # Project outline: Save in Progress (SiP) Configuration Enhancement
 
-**Last updated: April 25, 2024 - first published**
+**Last updated: June 14, 2024 - refined problem and solution to better explain our approach**
 
 ### Communications
 
