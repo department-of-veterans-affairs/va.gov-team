@@ -7,10 +7,12 @@ servers:
 paths:
   /v0/events:
     post:
-      description: Receives VA system published data change events that may interest a veteran.
-      The system then places events on a stream where one or more consumers filter and process them.
-      Should an event pass a consumer's rules it will trigger an action or notification.
-      Notifications may include mobile push notifications, text messages, emails, or in-browser messages.
+      description: 
+        Receives VA system published data change events that may interest a veteran. 
+        The system then places events on a stream where one or more consumers filter 
+        and process them. Should an event pass a consumer's rules it will trigger an 
+        action or notification. Notifications may include mobile push notifications, 
+        text messages, emails, or in-browser messages.
       security:
         - Bearer: [ ]
       requestBody:
@@ -41,26 +43,38 @@ paths:
                   user:
                     icn: 1008709396V637156
       responses:
-        201:
-          description: Created
+        202:
+          description: Accepted. The event has been written to the stream but may not be immediately available for retrieval.
           content:
             application/json:
               schema:
                 $ref: "#/components/schemas/EventResponse"
-        401:
-          description: Authentication is possible but has failed or not yet been provided.
-          content:
-            application/json:
-              schema:
-                $ref: "#/components/schemas/Errors"
         400:
           description: Bad Request. One or more validation errors have occurred.
           content:
             application/json:
               schema:
                 $ref: "#/components/schemas/Errors"
+        401:
+          description: Unauthorized. Token is missing or is invalid.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Errors"
+        403:
+          description: Forbidden. Token is valid, but does not have proper authorization.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Errors"
+        429:
+          description: Too many requests. Rate limit exceeded.
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Errors"
         500:
-          description: An internal API error occured.
+          description: Internal server error. An unexpected API error occured.
           content:
             application/json:
               schema:
@@ -68,6 +82,14 @@ paths:
 
 
 components:
+  securitySchemes:
+    Bearer:            
+      type: oauth2
+      name: Authorization
+      in: header
+      description: Pass the token in the 'Authorization' Header in the format 'Bearer {token}'. e.g. 'Bearer abcdefg1234567'.
+      authorizationUrl: https://api.va.gov/oauth2/event-stream/v0/authorization
+      tokenUrl: https://api.va.gov/oauth2/event-stream/v0/token
   schemas:
     EventRequest:
       required:
@@ -78,8 +100,9 @@ components:
       properties:
         eventType:
           type: string
-          description: A constant name for a repeatable event from the source system. Naming convention follows 'contants' in C style languages; 
-          uppercase with underscores for spaces.
+          description: 
+            A constant name for a repeatable event from the source system. 
+            Naming convention follows 'constants' in C style languages; uppercase with underscores for spaces.
           example: NEW_MESSAGE
         payload:
           type: object
@@ -93,8 +116,9 @@ components:
           example: MHV_SECURE_MESSAGING
         user:
           type: object
-          description: A JSON object of user traits that will be used by consumers to identify users or retrieve additional user data.
-          Currently only MPI's ICN is supported.
+          description: 
+            A JSON object of user traits that will be used by consumers to identify users or retrieve additional user data.
+            Currently only MPI's ICN is supported.
           properties:
             icn:
               type: string
