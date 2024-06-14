@@ -20,3 +20,6 @@ Over the past month, I have focused on identifying opportunities to enhance the 
     
     [Updated VAMC Knowledge Base Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/Updated%20VAMC%20Knowledge%20Base%20Example.md)
 
+5. **Figma Affinity Mapping**: This artifact shows the trends in the Help Desk Data reviews.
+    
+    [Figma Affinity Mapping](https://www.figma.com/design/OjptXN3dzYqJHDQb8zV2eb/CMS%2FVAMC-Research?node-id=1-1322&t=4GIfn6KyzgzFegtM-1)
