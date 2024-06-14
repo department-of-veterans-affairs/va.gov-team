@@ -32,7 +32,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
-#### Planning
+#### Completed
 
 - date range or test duration: 3/18-29/24
 - number of users: 13
