@@ -11,7 +11,7 @@ This document is intended to provide guidance and a reference list of commands f
 ## Running CES dependencies
 
 ### Caddy
-Because vets-api is configured to use one eCaddy provides a reverse proxy for `vetsapi-patient-gateway` and `vaos-service`
+Because vets-api is configured to use one endpoint for all VAMF services, Caddy provides a reverse proxy for `vetsapi-patient-gateway`, `vaos-service`, and `mobile-facility-service`
 * > brew install caddy
 
 Download the [Caddyfile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-oracle-health-integration/engineering/Caddyfile) and update the ports to match your local CES stack.
@@ -29,7 +29,7 @@ Note that if you are running CES via Caddy, the `va_mobile: url` value must be o
 ### Logging in
 With both VetsAPI and VetsGov website running locally, open http://localhost:3001/sign-in/mocked-auth in a browser to begin the login process.
 * Choose a provider (ex. id.me)
-* Select from one of the available Profiles (ex. vets.gov.user+1@gmail.com) and click 'Continue signing in'
+* Select from one of the available Profiles (ex. vets.gov.user+1@gmail.com) and click 'Continue signing in'.
 
 ### Capture the Appointment request
 * Open a tool to capture the network requests from the page (in Chrome, select Inspect>Network)
