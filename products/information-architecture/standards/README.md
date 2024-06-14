@@ -15,8 +15,9 @@ Benefit hub template | [Template: Benefit hub page on VADS] <br> [Template: Bene
 User flows | [User Flow Guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/user-flow-guidance.md) | Med/High | Kristin/Jenny | [CAIA Ticket #82573](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82573) and [WIP documentation](https://docs.google.com/document/d/1vNVjn0J6oMGy4fZ7peGrI4yPI5p9_TjP1vx73n1xqdk/edit#heading=h.80c5ydk3huxr)| Pending Jenny editing after Mikki comments
 General Title tags | Title tags on VADS | | Kristin | [CAIA Ticket #84040](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84040) and [WIP documentation](https://docs.google.com/document/d/1EA9iEw1mCE8P7-JxEwX5r7yFnz1xxyG-dCviPoh_oSA/edit)| Currently slated for Matt to implement.
 Breadcrumb Guidance | [H1s on VADS] | | Kristin | [CAIA Ticket #73451](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73451) and [WIP Documentation](https://docs.google.com/document/d/1XKUSwFIaqVYq_ZuXAoZ33sWjDWgTFWdZVMYJescmZGA/edit#heading=h.54uuq7rgf2t1)| Kristin and Sara synced, waiting for Sara additional review
-IA governance | [Content placement criteria for unauth experience] | High/Large | Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience | 
+Page titles for forms | https://design.va.gov/content-style-guide/page-titles-and-section-titles | | Kristin | Need to add specific instructions about forms (like the title vs the form number and how the form number needs to be used | 
 Home page template | | High/Med | Kristin (first pass) | Review current [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page/initiatives/2022-home-page-redesign-initiative) and [rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/initiatives/2022-home-page-redesign-initiative/homepage-content-rubric.md) and draft formal guidance for VADS | Starting draft on 6/14 (Kristin's standards day)
+IA governance | [Content placement criteria for unauth experience] | High/Large | Mikki | OCTO currently working on placement criteria that encompasses auth experience and additional areas of modernized experience | 
 Sign-in Widget |  | | Kristin | [CAIA Ticket #78520](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78520) | 
 Benefit sub-hub template | | | Kristin | |
 On this page | [On this page component in VADS] | Med/Low | Kristin | Needs guidance added for usage, utilize USWDS to start | 
@@ -28,6 +29,7 @@ Search best bets | [Search best bets guidance on GH](https://github.com/departme
 Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low/High | | Discovery of current usage, any V3 plans, USWDS guidance.  | 
 IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Low/Low | | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish | 
 IA and a11y | | Kristin |  | 
+
  
 
  
