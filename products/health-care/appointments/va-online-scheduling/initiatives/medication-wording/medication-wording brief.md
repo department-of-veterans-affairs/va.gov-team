@@ -92,22 +92,29 @@ This initiative help further OCTO-DE's mission and goals by improving the qualit
 
 ---
 
-## Solution Narrative
+## Implementation 
 
-### Current Status
-- Pilot solution: Implementing a hard coded version immediately upon content approval. 
+See spike [#83322](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/83322)
 
-### Potential solution  
-  -  Utilize an existing pattern to hard code the text and subsequently fetch updates via API.[more here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointments-reference/data-reference/data-definitions.md#instructions-prepare-for-telehealth-visit)
+### Pilot solution
+
+We will hard-code the content version upon approval. 
    
-#### Future solution
-  - Leverage Drupal's content-as-config feature:
-  	- Reuse existing design system components to maintain consistency.	
-  - Implement content using a Design System component:
-  	- Integrate content into the design system as a reusable component that teams can incorporate. 
-   	- Depend on specific components in the design system, such as the OMB info component, to be used with Drupal as the backend for content management.
-    
-   
+### Potential future solution
+
+Leverage Drupal's content-as-config feature to reuse existing design system components to maintain consistency.	
+  - Integrate content into the design system as a reusable component that teams can incorporate. 
+  - Depend on specific components in the design system, such as the OMB info component, to be used with Drupal as the backend for content management.
+
+We could explore using this content as a proof of concept for this implementation in the future. The value is having a way to keep content consistent across all appointment spaces. But work has to be done on the platform side before this is feasible.
+
+### Not doing 
+
+Utilize an existing pattern to fetch the text via API. We're not following this route because generally it's best practice to let the frontend handle content, wording, and UX-related material that's generated for the user. We want the api to only be concerned with facilitating the sending and receiving of data from our data sources, and transforming that data as appropriate. The wording of text content doesn't fall into that category so we don't want to delegate that responsibility to the api.
+
+If the particular messages and wording are going to be tied to specific attributes in the data we receive, then that would be relatively easy to have the api return. I generally like to not assume that's the case though, since lots of frontends can implement these kinds of UX changes that don't have anything to do with the data returned.
+
+
 ## Screenshots
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/154380850/37f8382b-a758-4c07-bed7-c484e9942c7f)
