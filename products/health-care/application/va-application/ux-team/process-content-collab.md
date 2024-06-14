@@ -52,8 +52,6 @@ Open a ticket on the 1010 project team board with the appropriate labels to acco
 
 
 ### Designer - Figma file setup
-
-### Designer setup 
 When an initiative needs to go through content collaboration process, the design file needs to be structured in a way to allow the content specialist to make edits directly in Figma. To prevent issues with changing variants of the main native components, create a set of content components just for this initative/ticket. 
 
 1. Create the “Content Source of Truth” Section in Figma for the main content symbols
