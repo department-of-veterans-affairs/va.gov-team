@@ -15,15 +15,7 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
         {
             "resource": {
                 "resourceType": "Patient",
-                "id": "45967513",
-                "meta": {
-                    "versionId": "447",
-                    "lastUpdated": "2023-05-03T19:37:47.000Z"
-                },
-                "text": {
-                    "status": "extensions",
-                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><b>Patient</b></p><p><b>Name</b>: JONES, TRAVIS D</p><p><b>Status</b>: Active</p><p><b>DOB</b>: Dec 29, 1962</p><p><b>Birth Sex</b>: Male</p><p><b>Administrative Gender</b>: Male</p><p><b>Marital Status</b>: Married</p></div>"
-                },
+                "id": "27",
                 "extension": [
                     {
                         "valueCode": "M",
@@ -157,11 +149,11 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                             "text": "Veteran ID"
                         },
                         "system": "urn:oid:2.16.840.1.113883.4.349",
-                        "value": "1200044481V013741",
+                        "value": "1012845638V677813",
                         "_value": {
                             "extension": [
                                 {
-                                    "valueString": "1200044481V013741",
+                                    "valueString": "1012845638V677813",
                                     "url": "http://hl7.org/fhir/StructureDefinition/rendered-value"
                                 }
                             ]
@@ -174,7 +166,7 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                 "active": true,
                 "name": [
                     {
-                        "id": "CI-45967513-0",
+                        "id": "CI-27-0",
                         "use": "official",
                         "text": "JONES, TRAVIS D",
                         "family": "JONES",
@@ -184,20 +176,6 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                         ],
                         "period": {
                             "start": "2022-12-01T17:38:58.000Z"
-                        }
-                    },
-                    {
-                        "id": "CI-2956604188-0",
-                        "use": "old",
-                        "text": "JONES, TRAVIS D",
-                        "family": "JONES",
-                        "given": [
-                            "TRAVIS",
-                            "D"
-                        ],
-                        "period": {
-                            "start": "2022-12-01T17:38:58.000Z",
-                            "end": "2022-12-01T21:21:01.000Z"
                         }
                     }
                 ],
@@ -221,7 +199,7 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                     {
                         "id": "CI-EM-367580229-0",
                         "system": "email",
-                        "value": "MARIO.NUNEZ@IRONBOW.COM",
+                        "value": "vets.gov.user+81@gmail.com",
                         "use": "home",
                         "rank": 1,
                         "period": {
@@ -427,21 +405,11 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                     }
                 ]
             }
-            
         },
         {
-            
-            "fullUrl": "https://fhir-ehr.ehr.gov/r4/CM-VA-TID/Appointment/52189980",
             "resource": {
                 "resourceType": "Appointment",
-                "meta": {
-                    "versionId": "1",
-                    "lastUpdated": "2023-01-04T18:08:23Z"
-                },
-                "text": {
-                    "status": "generated",
-                    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><b>Appointment</b></p><p><b>Status</b>: Booked</p><p><b>Service Type</b>: TMP TH Video Home</p><p><b>Start</b>: Jan  4, 2023  1:00 P.M. CST</p><p><b>End</b>: Jan  4, 2023  1:30 P.M. CST</p><p><b>Participants</b>:</p><dl><dd><b>Location</b>: 687 PC Honor</dd><dd><b>Patient</b>: JONES, TRAVIS D</dd></dl></div>"
-                },
+                "id": null,
                 "extension": [
                     {
                         "valueBoolean": false,
@@ -452,16 +420,18 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                         "url": "https://fhir-ehr.cerner.com/r4/StructureDefinition/is-reschedulable"
                     }
                 ],
-                "status": "proposed",
+                "status": "booked",
                 "serviceType": [
                     {
                         "coding": [
                             {
-                                "system": "http://veteran.apps.va.gov/terminologies/fhir/CodeSystem/vats-service-type",
-                                "code": "primaryCare",
+                                "system": "https://fhir.cerner.com/d45741b3-8335-463d-ab16-8c5f0bcf78ed/codeSet/14249",
+                                "code": "381456583",
+                                "display": "PC Established Patient",
                                 "userSelected": true
                             }
-                        ]
+                        ],
+                        "text": "PC Established Patient"
                     }
                 ],
                 "reasonCode": [
@@ -469,9 +439,9 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                         "text": "Primary Care"
                     }
                 ],
-                "description": "TMP TH Video Home",
-                "start": "2024-12-01T06:00:00Z",
-                "end": "2024-12-01T06:59:00Z",
+                "description": "PC Established Patient",
+                "start": "2025-03-01T20:00:00Z",
+                "end": "2024-03-01T20:59:00Z",
                 "minutesDuration": 30,
                 "participant": [
                     {
@@ -497,7 +467,83 @@ POST http://localhost:{cerner_mock_port}/cerner-mock/v1/r4/CM-VA-TID/$load
                             }
                         ],
                         "actor": {
-                            "reference": "Patient/45967513",
+                            "reference": "Patient/27",
+                            "display": "JONES, TRAVIS D"
+                        },
+                        "required": "required",
+                        "status": "tentative"
+                    }
+                ],
+                "requestedPeriod": [
+                    {
+                        "start": "2024-01-14T06:00:00Z",
+                        "end": "2025-06-14T05:59:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Appointment",
+                "id": null,
+                "extension": [
+                    {
+                        "valueBoolean": true,
+                        "url": "https://fhir-ehr.cerner.com/r4/StructureDefinition/is-cancelable"
+                    },
+                    {
+                        "valueBoolean": false,
+                        "url": "https://fhir-ehr.cerner.com/r4/StructureDefinition/is-reschedulable"
+                    }
+                ],
+                "status": "booked",
+                "serviceType": [
+                    {
+                        "coding": [
+                            {
+                                "system": "https://fhir.cerner.com/d45741b3-8335-463d-ab16-8c5f0bcf78ed/codeSet/14249",
+                                "code": "381456583",
+                                "display": "PC Established Patient",
+                                "userSelected": true
+                            }
+                        ],
+                        "text": "PC Established Patient"
+                    }
+                ],
+                "reasonCode": [
+                    {
+                        "text": "Primary Care"
+                    }
+                ],
+                "description": "PC Established Patient",
+                "start": "2025-03-02T20:00:00Z",
+                "end": "2024-03-02T20:59:00Z",
+                "minutesDuration": 30,
+                "participant": [
+                    {
+                        "actor": {
+                            "reference": "Location/353980393",
+                            "display": "653"
+                        },
+                        "required": "required",
+                        "status": "accepted"
+                    },
+                    {
+                        "type": [
+                            {
+                                "coding": [
+                                    {
+                                        "system": "https://fhir.cerner.com/CM-VA-TID/codeSet/14250",
+                                        "code": "4572",
+                                        "display": "Patient",
+                                        "userSelected": true
+                                    }
+                                ],
+                                "text": "Patient"
+                            }
+                        ],
+                        "actor": {
+                            "reference": "Patient/27",
                             "display": "JONES, TRAVIS D"
                         },
                         "required": "required",
