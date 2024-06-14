@@ -34,7 +34,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Completed
 
-- date range or test duration: 3/18-29/24
+- date range: 3/18-29/24
 - number of users: 13
 - recruitment: Perigean
 - testing: moderated
@@ -61,6 +61,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
   - number of form submissions online
   - number of clicks through form
+  - follow form submission through to PEGA with confirmation/notifications
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
 - Who is monitoring the dashboard(s)?: Product Managers, PO
 
