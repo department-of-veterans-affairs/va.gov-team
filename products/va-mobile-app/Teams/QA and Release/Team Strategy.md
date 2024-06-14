@@ -1,6 +1,13 @@
 ## [Team's Mission, Vision, North Star, Goals and Values ](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1702388149076/70093f291994d0db5bd76e4891c0bb69074729a9?wid=0-1705082854247&sender=u7ec1ac1ea3bde48882e36908)
 
 
+## Q2 2024
+Team Roles and Responsibilities: 
+- Tom - Floater and RC Testing  (Design System, API said QA is not needed during sprint planning - later DS wanted to pull QA back in)
+- Rachael - Health and Benefits
+- Therese - Global
+Team agreed rotation change is needed - plan is to do that in Q4 with Q3 being a quarter of focusing on documentation and preparing for the transition
+
 ## Q1 2024
 Team Roles and Responsibilities: 
 - Tom - Floater, Design System, API, Release tester 
