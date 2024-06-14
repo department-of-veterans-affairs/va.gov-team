@@ -2,7 +2,8 @@
 
 as of June 14, 2024
 
-[insert screenshot here]
+![Screenshot 2024-06-14 at 10 05 40 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/8542413/a6fe291e-d74d-478f-84b3-125b0b0b5c0d)
+
 
 ## Components of the Appointments card
 ### Monday, July 15, 2024
