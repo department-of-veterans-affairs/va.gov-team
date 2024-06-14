@@ -1,8 +1,11 @@
 # OH Scheduling Requirements (WIP)
 
-This is a working doc to capture requirements for scheduling into Oracle Health appointments. The scope of this is the MVP release.  
+This is a working doc to capture requirements for scheduling into Oracle Health appointments. 
 
-**No requirements listed here are final unless otherwise noted.**
+**This is a work in-progress document. No requirements listed here are final unless otherwise noted.**
+
+The scope of this is the MVP release. See the "out of scope" section for non MVP. 
+
 
 ## User stories
 
