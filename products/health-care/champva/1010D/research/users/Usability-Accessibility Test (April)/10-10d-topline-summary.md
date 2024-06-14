@@ -58,7 +58,7 @@
 ### Finding #9: Participants started pursuing CHAMPVA benefits when they or their dependents had a lapse in insurance. They often learned about CHAMPVA  by being close to the VA or through word of mouth.
 
 * Most participants learned about the CHAMPVA program through a close relationship with the VA or communication with other Veterans or their family members. The majority of participants explained their motivation for applying was to provide health insurance to family members after separation or between the time when they stopped working and became eligible for Medicare.
-* On a related note, CHAMPVA is not health insurance but is instead a cost-sharing healthcare benefits plan. However, many beneficiaries view it as health insurance.
+* On a related note, CHAMPVA is not health insurance but is instead a cost-sharing healthcare benefits plan. However, many beneficiaries view it as health insurance. This demonstrates a disconnect between CHAMPVA's actual services and beneficiaries' understanding of those services.
 
 > **P10:** "I wanted to be sure I had insurance."
 
