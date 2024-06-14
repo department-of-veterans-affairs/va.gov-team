@@ -1,12 +1,12 @@
 
 # Process - Content Collab
 
-Last updated June 6, 2024
+Last updated June 14, 2024
 
 ----
 
 
-This process document outlines what tickets to open in github, how to setup the Figma design files and notes components.
+This process document outlines what tickets to open in github, how to setup the Figma design files, notes and status Figma components used as well as CAIA collab process and tasks. 
 
 ---- 
 
@@ -25,7 +25,6 @@ Open a ticket on the 1010 project team board with the appropriate labels to acco
 
 ## [WIP] Process + Timeline 
 
-
 - Open tickets - CAIA ticket and 1010 ticket
 - Review at weekly 1010 Team + Content Sync on Fridays for a "kick-off" or if needed due to scheduling, setup a separate meeting to go over the request
 - Set dates for the phases
@@ -37,11 +36,11 @@ Open a ticket on the 1010 project team board with the appropriate labels to acco
 
 
 
-### Process (v2 used on CG updates, revised 5.9.24): 
+### Process (v3 used on CG updates, revised 6.7.24): 
 
 1. Designer setup Figma page with all components and notes to start content collab 
-2. Designer/PM open CAIA ticket 
-3. Designer walk through the request and the screens in Figma at a weekly Friday content sync meeting 
+2. Designer/PM open CAIA ticket and ticket for 1010 team board
+3. Designer walk through the request and the screens in Figma at a weekly Friday content sync meeting (or separate meeting if needed)
 4. Content can adjust in content source of truth section Figma screens directly or post temporary questions in Figma comments
 5. Capture any future state comments or content in the content status component note variant
 6. Can change color of note or content components to call out SME questions and answers (chat as team on future direction)
