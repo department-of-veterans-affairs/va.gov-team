@@ -70,6 +70,7 @@ When an initiative needs to go through content collaboration process, the design
 4. For each screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
 5. Flag with component and comment when engineers begin development for CAIA awareness
 
+<img width="750" alt="Content Figma Setup Option" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/3740adde-1d4d-4d24-83bc-8b29e9fd7b79">
 
 
 ### Designer content collab
