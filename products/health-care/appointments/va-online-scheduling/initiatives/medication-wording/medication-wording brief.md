@@ -102,9 +102,10 @@ We will hard-code the content version upon approval.
    
 ### Potential future solution
 
-Leverage Drupal's content-as-config feature to reuse existing design system components to maintain consistency.	
+Leverage Drupal to store content that is fetched by a design system component to maintain consistency.
   - Integrate content into the design system as a reusable component that teams can incorporate. 
   - Depend on specific components in the design system, such as the OMB info component, to be used with Drupal as the backend for content management.
+  - Ideally Drupal could store this content using something like [config pages](https://www.drupal.org/project/config_pages) to reduce the risk of a node getting deleted or moved.
 
 We could explore using this content as a proof of concept for this implementation in the future. The value is having a way to keep content consistent across all appointment spaces. But work has to be done on the platform side before this is feasible.
 
