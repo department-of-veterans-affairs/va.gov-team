@@ -58,9 +58,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Desired date range: 7/31-8/21/24 (tentative)
 - How will you make the product available in production while limiting the number of users who can find/access it: feature toggle
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
   - number of form submissions online
-  - number of clicks through form/abandonment rate
+  - number of clicks through form
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
 - Who is monitoring the dashboard(s)?: Product Managers, PO
 
