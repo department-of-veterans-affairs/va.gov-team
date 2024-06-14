@@ -4,12 +4,14 @@ This is a working doc to capture requirements for scheduling into Oracle Health 
 
 **This is a work in-progress document. No requirements listed here are final unless otherwise noted.**
 
-The scope of this is the MVP release. See the "out of scope" section for non MVP. 
+The scope of this is the MVP release. See the [out of scope](#out-of-scope) section for non MVP. 
+
+See also our [open questions](#open-questions).
 
 
 ## User stories
 
-- As a user registered at an Oracle Health facility, I want to be able to schedule appointments online.
+- As a user registered at an Oracle Health facility, I want to be able to schedule health appointments online.
 
 
 ## Requirements (WIP)
@@ -101,4 +103,12 @@ Q. Can a user schedule into times reserved for new patients?
  - A. Yes.
   
 Q. Who determines whether or not to enable online scheduling/requests for given types of care at OH facilities? Does that happen at the facility level, or higher?
+
+## Out of scope
+
+We won't be surfacing provider availability in a way that lets Veterans compare providers to find the best time:
+- For nutrition and food, we're just showing providers where the Veteran with whom a Veteran has had a relationship in the past 12 months.
+- We don't have a situation where a Veteran can choose from any provider, whether or not they have a provider. Once that comes up, we can revisit this. 
+
+
 
