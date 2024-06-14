@@ -6,7 +6,7 @@ Last updated June 6, 2024
 ----
 
 
-This process document outlines what tickets to open, how to setup the Figma design files and notes, and how to use content components.
+This process document outlines what tickets to open in github, how to setup the Figma design files and notes components.
 
 ---- 
 
@@ -14,21 +14,30 @@ This process document outlines what tickets to open, how to setup the Figma desi
 ## Tickets  
 
 ### CAIA side to initiate work
-Open a content ticket if this is part of the Collab Cycle or not
-
+Open a content ticket if this is part of the Collab Cycle or not:
 - [Sitewide Content, Accessibility, and IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2Ccoforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)
 - NEW - Created end of April, Content
 
 ### 1010 Health Enrollment Team
-Open a ticket on the 1010 project team board with the appropriate labels to account for the UX content work collab.
+Open a ticket on the 1010 project team board with the appropriate labels to account for the UX content work collab effort.
 
-----
 
 
 ## [WIP] Process + Timeline 
 
 
-### Process (v2, revised 5.9.24): 
+- Open tickets - CAIA ticket and 1010 ticket
+- Review at weekly 1010 Team + Content Sync on Fridays for a "kick-off" or if needed due to scheduling, setup a separate meeting to go over the request
+- Set dates for the phases
+  1. initial content review + SME questions,
+  2. SME answers + content impact,
+  3. SME accuracy check,
+  4. post-SME changes,
+  5. complete + QA
+
+
+
+### Process (v2 used on CG updates, revised 5.9.24): 
 
 1. Designer setup Figma page with all components and notes to start content collab 
 2. Designer/PM open CAIA ticket 
@@ -41,23 +50,30 @@ Open a ticket on the 1010 project team board with the appropriate labels to acco
 9. Tag engineer in FE ticket once designs/content are approved
 
 
----- 
 
 
-## Designer Figma file setup
+### Designer - Figma file setup
 
+### Designer setup 
 When an initiative needs to go through content collaboration process, the design file needs to be structured in a way to allow the content specialist to make edits directly in Figma. To prevent issues with changing variants of the main native components, create a set of content components just for this initative/ticket. 
-
 
 1. Create the “Content Source of Truth” Section in Figma for the main content symbols
 2. Create the frame and turn into a component each page/question needing content collaboration
-3. Annotate and add notes and background to the components
-5. Create a Section in Figma for each part of the form involved in the work
+3. Annotate and add notes and background to the components in the Source of Truth section area
+5. Create a Section in Figma for each part of the form involved in the work or the overall flow
 6. For **each** screen/frame that needs to be reviewed place content status component(s) setting to "Ready for content review"
-
-
+7. 
 <img width="681" alt="Content-FigmaSetup" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/98367393/09d6c92e-e9f0-4087-bc8a-65bd75673e00">
 
+### Designer content collab
+1. During the content review, the designer will pull out notes comments that need to be kept for design decisions and document that per the team standards and keep up on that documentation
+
+### CAIA content colab
+
+1. Where there are "red - ready to review" status components, on the section labeled Content Source of Truth.
+2. Make edits directly in the main components
+3. Use comments in Figma to ask an clarifying questions
+4. If other changes are found and needed outside of the requested pages to review, call out in comments
 
 
 ### Content Status Component
@@ -78,7 +94,7 @@ Component> Content Status
 - When ready for Development - GREEN
 - When pending - in process/SME questions/etc- YELLOW
 - General notes: BLUE
-
+- SME Questions: PURPLE
 
 **Additional Notes Component**
 Use the Notes component in VADS Web Annotation Kit 
