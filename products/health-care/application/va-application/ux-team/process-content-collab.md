@@ -6,7 +6,7 @@ Last updated June 14, 2024
 ----
 
 
-This process document outlines what tickets to open in github, how to setup the Figma design files, notes and status Figma components used as well as CAIA collab process and tasks. 
+This page has helpful info on what tickets to open in github, how to setup the Figma design files, notes and status Figma components used as well as CAIA collab process and tasks. 
 
 ---- 
 
