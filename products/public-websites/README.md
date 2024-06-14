@@ -745,6 +745,7 @@ Beneficiary travel has its own product team now that should be coordinated with 
 **Governance / Content:**
 
 * [Documentation re: ownership of the health care tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/healthcare-widget-support/readme.md)
+* **CERNER TEST USERS**: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-cerner.md
 * Epic tracking the plan to transition ownership of the CTA React widget from Public Websites to Health Tools teams: department-of-veterans-affairs/va.gov-cms#16547
 * Content is provided by Sitewide Content team
 * Oracle Health cutover information is publicized in DSVA slack: #vagov-oracle-launch-coordination
