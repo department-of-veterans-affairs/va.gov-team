@@ -1,5 +1,7 @@
 # Call Center Documentation
 
+## Ticket Template: Call Center Document Update
+
 ## Purpose:
  * Call Center Guide needs to stay updated with any production Veteran facing changes that are made in the Mobile app
  * Mobile will need to make relevant updates to the guide for their changes and follow the Call CEnter process to get it updated 
