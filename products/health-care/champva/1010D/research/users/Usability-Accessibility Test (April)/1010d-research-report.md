@@ -152,6 +152,7 @@ Most participants expected it would take 4-8 weeks to process their CHAMPVA appl
 > **Pilot:** “That is very disconcerting to me, not having any expectation [on when I’ll hear back.]”
 
 > **P3:** "I wouldn't be surprised if it took them 6 months to get back to me."
+
 > **P21:** “I guess this is just a waiting game.”
 
 > **P10:** “[I expect that] eventually, I would get a letter saying they denied it, and then they would tell me they need some more stuff.”
@@ -168,6 +169,8 @@ On a related note, CHAMPVA is not health insurance but is instead a cost-sharing
 
 > **P10:** "I wanted to be sure I had insurance."
 
+> **P5:** “I heard about it from somebody at the Houston VA.”
+
 ### **Finding 10**: The review and sign page generally worked well, though some users were overwhelmed by the amount of information (especially in the “Applicants” section). 
 
 Participants appreciated the opportunity to review their information and edit it on the same page.<sub> </sub>Some participants said they’d expand the accordions and review the information they’d put in carefully before submitting. However, others said they were so meticulous when initially entering the information that they wouldn’t feel the need to check again on the summary page.
@@ -177,6 +180,8 @@ There is a bug on the page where uploaded documents don’t appear in the correc
 > **P3:** "I like that you can click it, go edit, and add in the stuff you were missing.”
 
 > **P11:** “That's a lot to look at on one page.”
+
+> **P5:** “Your standard review of everything. Making sure everything’s correct.” The review page seemed to align with participant’s expectations
 
 ### **Finding 11**: Participants were frustrated when they had to enter the same information on the form more than once, such as providing images of Medicare cards and then re-entering the information that appeared on the card.
 
@@ -261,6 +266,8 @@ Most participants stated that if another applicant on their form were a minor ch
 
 > **P12:** “If it's a minor I wouldn't think it would go to them, but if they were over 18 it would.”
 
+> **P26:** Veteran participant - “I already did mine [contact info]. So yeah, I would probably have done my wife's right.”
+
 ### **Additional Insight 4**: Participants expressed a higher degree of confidence in the security of the online application (especially if signed in) than in the mailed application.
 
 Participants felt that filling out an online form was more secure than sending information through the mail, especially if they were signed in. However, they still expressed worry about the safety of their information, especially Social Security numbers and other PII. Some participants stated that they wouldn’t upload optional documents because they wanted to minimize the amount of information about them “floating around” due to privacy concerns. Some also said they wouldn’t enter email addresses or phone numbers if they didn’t need to due to their worry about spam and scam calls.
@@ -279,13 +286,19 @@ Most participants said they’d enter the Veteran’s Social Security number ins
 
 > **P11:** "I have no clue what a VA File Number would be."
 
-> **P26:** "To me it means Social, but technically, I think it's different." 
+> **P26:** "To me it means Social, but technically, I think it's different."
+
+> **P5:** “Honestly have no idea. I thought it was a different way for them to not say it's our social security number. Regarding the VA file number”
 
 ### **Additional Insight 6**: Using their browser’s native auto-fill functionality was important to some participants.
 
 5 participants explicitly tried to use their browser’s native auto-fill tool because it made filling out the application easier and quicker for them. However, the staging environment we tested in did not accept browser autofill or caused error messages.
 
 > **P13:** “I like the auto-fill option because it does make it a little easier."
+
+> **P11:** “Yeah, I guess that was kind of annoying. Because I'm using auto-fill and it wouldn't automatically link to the abbreviation or take that.” discussing limitations of auto-fill on the form.
+
+> **P26:** “It's pretty much that [makes filling things out more convenient]. I double-check, though.” when asked if why they use auto-fill.
 
 ## **Recommendations**
 
@@ -378,6 +391,7 @@ Most participants said they’d enter the Veteran’s Social Security number ins
 ### Recommendation for Additional Insight 3
 
 * Explain how contact information will be used so users can enter the best information for their specific circumstances.
+* Consider leaving the phone number and email address fields as they are currently as an option. Users seem capable of making choices for themselves reasonably in a way that meets business needs.
 
 ### Recommendations for Additional Insight 4
 
