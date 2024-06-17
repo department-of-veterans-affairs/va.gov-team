@@ -53,9 +53,7 @@ At a high level, there are 3 distinct things we should be doing that we are not.
 - Correctly record this data in a way that guarantees data integrity, i.e. in our Database.
 - add an API on top of this data that allows us to easily view subsets of submissions.
 
-Here is a breakdown of how our application is currently failing to meet these objectives
-
-
+What follows in this section is a breakdown of how our application is currently failing to meet these objectives.
 
 ##### -- We have a bloated, confusing state machine --
 
@@ -63,17 +61,13 @@ Currently, we have the following states, `:delivered_to_primary, :failed_primary
 
 Other states were created for the purpose of remediation, and have no real value to the application processing logic outside of saving datapoints about what was remediated when, such as `processed_in_batch_remediation`.  In practice this means the same thing as `finalized_as_successful` or `in_remediation`, which is that for these submissions we have "fullfilled our contract" with the veteran, ie. moved the submission from our web api to the appropriate next step ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#what-is-an-untouched-submission).) These mean more or less the same thing, but with an ultimately unsuccessful nod to context tracking. 
 
-**TL;DR: Our solution must re-define state as simply and clearly as possible, eliminating bloat and providing a sustainable technical implementation upon which to build stakeholder facing tools.**
-
-
+TL;DR: Our solution must re-define state as simply and clearly as possible, eliminating bloat and providing a sustainable technical implementation upon which to build stakeholder facing tools.
 
 ##### -- We have redundant sources of truth --
 
 We have states that create a duplicate source of truth with other, better, more reliable datapoints. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the datapoint we use to set the state, as there is no other meaninful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically in a state of `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aformentioned remdeation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
 
-**TL;DR: Our solution must eliminate redundant sources of truth.**
-
-
+TL;DR: Our solution must eliminate redundant sources of truth.
 
 ##### -- We are not accounting for the 'Complex Remediation Lifecycle' --
 
@@ -85,9 +79,7 @@ For this reason, we must consider the remediation lifecycle / process to be pote
 
 In a perfect world, there are be ways to define "true success." This could be global tracking ID and an API to tell us an adjudicator has closed the submission, or the time to rebuild our application to be a true pass-through system that never owns vet data. For now, vets-api is the first link in a long chain of data holders, and is therefor the best place to revisit should something get broken or go missing down the line.
 
-**TL;DR: Our solution must support ongoing remediation**
-
-
+TL;DR: Our solution must support ongoing remediation
 
 ##### -- There is no 'Evidentiary Chain of Custody' for remediation --
 
@@ -101,9 +93,7 @@ This "list" is comprised of a patchwork of data assembled from shared documents,
 
 Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy.
 
-**TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle**
-
-
+TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle
 
 ##### -- We use problematic reliance on failure state assignment --
 
@@ -111,7 +101,7 @@ In our first version of the state machine, we relied heavily on failure state as
 
 Failure state assignment is still a good idea, and we should do it. When it works (which is most of the time) it gives us context on what failed, when, why, etc.  However, we cannot exclusively rely on it. We need to use an exclusive methodology, in which anything that is not explicitly successful (or in progress) is considered a failure. 
 
-**TL;DR - Our solution must provide redundancy accouting for submission failure outside of failure-state assignment.**
+TL;DR - Our solution must provide redundancy accouting for submission failure outside of failure-state assignment.
 
 ### Acceptance Criteria
 
@@ -123,7 +113,7 @@ To recap our [stated, high-level goals](https://github.com/department-of-veteran
 
 and our implementation must also:
 
-1. Be simple
+1. Be simple and easy to grok
 2. Remove redundant sources of truth
 3. Support complex remediation lifecycles
 4. Codify changes to the history of a submissions remediation lifecycle
@@ -198,21 +188,37 @@ When all is said and done, the `failure_type` scope is what we've been after all
 As a sanity check, let's see how all of this data would be captured by our new paradigm
 
 - `delivered_to_primary` is implied by the presence of a `submitted_claim_id`. Even if a submission also somehow has a `backup_submitted_claim_id` and remediations, we still know it was technically delivered to primary.  This is a success type submission.
-- `failed_primary_delivery` is implied by the absense of a `submitted_claim_id`. This was originally a transitional state, however there is no need to have an explicit state here; the submission will either soon receive a `backup_submitted_claim_id`, or will never receive either, putting it into a timebox-based failure state.
-- rejected_by_primary
-- delivered_to_backup
-- failed_backup_delivery
-- rejected_by_backup
-- in_remediation
-- finalized_as_successful
-- unprocessable
-- processed_in_batch_remediation
-- ignorable_duplicate
+- `failed_primary_delivery` is implied by the absense of a `submitted_claim_id`. This was originally a transitional state, however there is no need to have an explicit state here; the submission will either soon receive a `backup_submitted_claim_id`, or will never receive either, putting it into a timebox age limit based failure state.
+- `rejected_by_primary` A meaningless state, since the primary path was a synchronous acceptance. this is also implied by the absence of a `submitted_claim_id`.
+- `delivered_to_backup` implied by the presence of `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `nil`. This grouping is also subject to the timebox aged limit.
+- `failed_backup_delivery` implied by the absense of both `submitted_claim_id` and `backup_submitted_claim_id` and the timebox age limit
+- `rejected_by_backup` implied by presence of a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `:rejected`
+- `in_remediation` implied by the presence of a `submission_remediation`, except now we also have context and `success` state on the remediation.
+- `finalized_as_successful` this was a catch-all to say we were done with it. This has been replaced by the concept of success type submissions.
+- `unprocessable` Intented as a generic failure state, this was never used. There are now other, better ways to determine failure-state.
+- `processed_in_batch_remediation` This was a remdiation-specific state, which (after our final backfill) will be implied by presence of a `submission_remediation` with applicable `context`, e.g. "Processed as part of 2024 code yellow remediation batch"
+- `ignorable_duplicate` Another remediation-specific state, which we will preserve for posterity with the presence of a `submission_remediation` record with a value of `ignored_as_duplicate: true`. 
 
-##### e. run a final audit and backfil
+#### 2. Run a final audit and backfil our new state
 
-## Dependancies
+Now that we have our ways of tracking state, and ways to expose it for testing, we can run a final audit and backfil with actual quality checks.  This will be much faster and easier than our last audit, because we already have all the peices in place to do it. This will mean taking all of the submissions that have been sent for remediation and backfilling them with their correct `submission_remediation` record context. Known quantities are
 
-## Risks
+- the list we got from VBMS (Alex's team) with every submission ID that was submitted during the early batching days
+- the list of follow up submissions that we identified in the audit and submitted (or will soon re-submit) for subsequent remediation
+  - a subset of these will be given the `ignored_as_duplicate: true` tag using the audit funnel logic.
+ 
+#### 3. Review / Remediate any remaning failure type submissions
 
-## Scaling
+At this point we will have the ability to very easily pull a list of submissions that are 'failure type'. This may be 0, it may be 1000. If it's more than a few, then it's likely we need to revisit our backfil lists and make sure it wasn't simply missed. Once we have fully backfilled every single remediation instance with it's appropriate state, we will have a simple, foolproof way of identifying submissions in need of remediation
+
+## Conclusion
+To summarize, we are going to do the following
+1. Fix our backup submission polling
+2. Rebuild or Form526Submission state
+   a. add a `SubmissionRemediation` model
+   b. add a `backup_submitted_claim_state` enum
+   c. add an API (model level methods) for working with this new data
+   d. remove our old state machine
+4. audit and backfil our state
+
+These steps will ensure we have a simple, maintainable, scaleable, risk free, and foolproof concept of Form526Submission state.
