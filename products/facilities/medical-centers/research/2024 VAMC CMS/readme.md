@@ -20,6 +20,10 @@ Over the past month, I have focused on identifying opportunities to enhance the 
     
     [Updated VAMC Knowledge Base Example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/2024%20VAMC%20CMS/Updated%20VAMC%20Knowledge%20Base%20Example.md)
 
-5. **Figma Affinity Mapping**: This artifact shows the trends in the Help Desk Data reviews.
+5. **Figma Affinity Mapping**: This artifact shows the trends in the Help Desk Data reviews. 
     
     [Figma Affinity Mapping](https://www.figma.com/design/OjptXN3dzYqJHDQb8zV2eb/CMS%2FVAMC-Research?node-id=1-1322&t=4GIfn6KyzgzFegtM-1)
+
+6. **Cleaned up help desk data**: This artifact shows contains Help Desk Data reviews along with their basic summaries. It can only be accessed through VA sharepoint.
+    
+    [Cleaned up help desk data](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam/Shared%20Documents/UX%20Research/2024%20VAMC%20Editor/VAMC_Tickets_Analysis_6.11.2024.xlsx?d=w8e9a4030a9914645bfb771670885b2fc&csf=1&web=1&e=BV3r6l)
