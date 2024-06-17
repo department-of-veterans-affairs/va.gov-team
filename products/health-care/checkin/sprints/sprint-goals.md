@@ -44,8 +44,7 @@
         - 🟥 [Display Provider for Stand-along Travel Appointment Info ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86050)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
-        - Where is the final wireframe link?
-        - **WE NEED TICKETS**
+        - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)        
         - Schedule Staging Review for New Landing Page minus the Upcoming Appointments section
     - **Sub Goal: 2024 Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
