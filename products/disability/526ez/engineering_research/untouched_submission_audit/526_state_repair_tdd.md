@@ -45,16 +45,18 @@ This will depend on what we identify as the problems with our polling job.
 
 ### 2. Rebuild State from the ground up
 
-#### Problem Statements
+#### Problem Statement
 
 At a high level, there are 3 distinct things we should be doing that we are not. We need to:
-- correctly identifing submissions that can be ignored (successful or in-process) to facilitate our [exclusive methodolgy](
-- correctly record this data about what can be ignored in a way that guarantees data integrity, i.e. in our Database.
-- add an API on top of this data that allows us to easily view subsets of submissions based on this data, most likely model scopes.
+- correctly identifing submissions that can be ignored (successful or in-process) to facilitate our [exclusive methodolgy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology).
+- Correctly record this data in a way that guarantees data integrity, i.e. in our Database.
+- add an API on top of this data that allows us to easily view subsets of submissions.
 
-Here is a break down of sub-problems we need to address, but currently are not.
+Here is a breakdown of how our application is currently failing to meet these objectives
 
-##### -- We have a bloated, confusing State Machine --
+
+
+##### -- We have a bloated, confusing state machine --
 
 Currently, we have the following states, `:delivered_to_primary, :failed_primary_delivery, :rejected_by_primary, :delivered_to_backup, :failed_backup_delivery, :rejected_by_backup, :in_remediation, :finalized_as_successful, :unprocessable, :processed_in_batch_remediation, :ignorable_duplicate`. Many of these names are confusing, such as `failed_backup_delivery`, which indicates a failed HTTP request, vs `rejected_by_backup` which indicates a "fail" type status assignment via Benefits Intake polling.
 
@@ -62,13 +64,17 @@ Other states were created for the purpose of remediation, and have no real value
 
 **TL;DR: Our solution must re-define state as simply and clearly as possible, eliminating bloat and providing a sustainable technical implementation upon which to build stakeholder facing tools.**
 
-##### -- Redundant Sources of Truth --
+
+
+##### -- We have redundant sources of truth --
 
 We have states that create a duplicate source of truth with other, better, more reliable datapoints. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the datapoint we use to set the state, as there is no other meaninful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically in a state of `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aformentioned remdeation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
 
 **TL;DR: Our solution must eliminate redundant sources of truth.**
 
-##### -- The Complex Remediation Lifecycle --
+
+
+##### -- We are not accounting for the 'Complex Remediation Lifecycle' --
 
 Remediation is an imperfect process. Once a submission has been identified as needing remediation (i.e. it is in a failure state) it is common to send it for remediation more than once. There are a few reaons for this, primarily that remediation is a mostly manual, human process involving long communication chains, expiring documents, and follow up requests. 
 
@@ -80,7 +86,9 @@ In a perfect world, there are be ways to define "true success." This could be gl
 
 **TL;DR: Our solution must support ongoing remediation**
 
-##### -- No Evidentiary Chain of Custody --
+
+
+##### -- There is no 'Evidentiary Chain of Custody' for remediation --
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
 
@@ -94,7 +102,10 @@ Our system is error prone, and our results must be error free, a clear contradic
 
 **TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle**
 
-##### -- Reliance on failure state assignment --
+
+
+##### -- We use problematic reliance on failure state assignment --
+
 In our first version of the state machine, we relied heavily on failure state assignment. For instance, if a submission worker exhausted it's retries, we expected it assign a failure type state using sidekiq's built in `sidekiq_retries_exhausted` functionality. This worked most of the time, but ultimatey, given our stated goal of ensuring we *never miss a single submission* to which end we are using **exclusive methodology**, we have to assume that this code can break or fail to execute, thus failing to assign a failure type state. If this were to happen and we only relied on failure type states, then we would miss that submission. This methodology fails to meet the standard set forward by our stated goals, and in practice, ended up being squirly and is part of the reason our current state machine cannot be trusted.
 
 Failure state assignment is still a good idea, and we should do it. When it works (which is most of the time) it gives us context on what failed, when, why, etc.  However, we cannot exclusively rely on it. We need to use an exclusive methodology, in which anything that is not explicitly successful (or in progress) is considered a failure. 
@@ -103,15 +114,25 @@ Failure state assignment is still a good idea, and we should do it. When it work
 
 ### Acceptance Criteria
 
-To recap the above, our new solution must do these things
+To recap our stated, high-level goals, Our solution must do these three things:
+
+- **Create data:** Allow identification of submissions that can be ignored (successful or in-process) to facilitate exclusive methodology.
+- **Record data:** This data should live in our database, not external documents.
+- **Expose data:** We need codified ways of interacting with this data and view submissions by state.
+
+and our implementation must:
+
 1. Be simple
 2. Remove redundant sources of truth
 3. Support complex remediation lifecycles
 4. Codify changes to the history of a submissions remediation lifecycle
-5. Define 'in process' submissions for the purpose of exclusion
-6. Not rely on failure-state assignment
+5. Not rely on failure-state assignment
+
 
 ### Implementation Design
+
+revising our 3 high level goals
+
 
 Using a state machine to track remediation breaks down when we consider the compleixty of the remediation lifecycle and our need to codify context. Remember that our 526 state is really only required to track everything after the happy path fails. Defining the state of post-happy-path submissions is actually two sub problems
 - record successful backup path submission
