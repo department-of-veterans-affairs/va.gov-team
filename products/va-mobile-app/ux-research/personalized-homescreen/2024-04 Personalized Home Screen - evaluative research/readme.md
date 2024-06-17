@@ -1,4 +1,4 @@
-# Personalized Home Screen - Evaluative Research
+# Personalized Home Screen - Evaluative Research - MVP
 
 Interviews conducted June 2024
 
