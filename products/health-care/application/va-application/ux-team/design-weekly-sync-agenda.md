@@ -1,5 +1,17 @@
 # Design Weekly Sync Agenda
 
+## 2024-06-17
+Attendees: Angela, Jessica, Hieu, and Lois
+
+
+- Talked through upload docs on the EZR. Lois called out representative team research on the optional upload field and how that can present usability issues or Veteran not being aware it is even optional.
+- Lois expressed opinion of the new v3 upload component not having visual hierarchy on the page. Has brought this up to design system team. They are also going to use that on the IVC forms so curious to why it is not ready yet.
+- Decided that content updates for July is feasible but the overall experience for the representatives who have completed the other VA 21.. forms could use some UX improvements post-July. Think about holistically, and prioritize with other UX enhancements like list and loop pattern.
+- Mentioned CAIA and meeting with Danielle tomorrow over TERA question alignment. Angela will take good notes since Lois can’t attend, Jessica will be out :)
+- Lois showed the experience map in Mural she is working on for Toxic Exposure question alignment. She is coordinating with Danielle Thierry about the source of truth for all of this - also mentioned the outdated TERA Mural we have in our 1010 room. 
+
+
+
 ## 2024-06-03
 Attendees: Angela, Jessica, Hieu, Katelyn, Lois, and Matt K.
 
