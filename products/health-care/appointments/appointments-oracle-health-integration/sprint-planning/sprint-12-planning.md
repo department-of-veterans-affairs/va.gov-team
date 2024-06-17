@@ -38,7 +38,6 @@ In Sprint 11, the team provided support for multiple features and initiatives, o
    * 🐞🧗‍♀️[#85130 CS-569 VPG: error handling requests without statuses input value](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/85130)
    * 🚧[#83585 Update VetsAPI appointment_controller logging to reference VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/83585)
    * [#54357 CES-565: Identify and add supporting user data for VPG](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84357)
-   * [#84516 CES-564 VPG: replace VAOS proxy calls with dedicated client](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84516)
 *  🟦 Support Oracle Health slot search
    * [#84622 CES-398 CES: Support reading cerner slots](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84622)
 * 🔴 Appointment Cancellation
