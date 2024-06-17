@@ -6,14 +6,27 @@
 - Next meeting facilitator: Syd
 - Agenda topics [per Slack thread](https://dsva.slack.com/archives/C068Q9DQACX/p1718630778474219):
     - [Process flows](https://dsva.slack.com/archives/C05UDS77ZPH/p1718138441946389) Mary posted a bit ago and [processes](https://dsva.slack.com/archives/C05UDS77ZPH/p1716583521410209) posted by Premal - does the resolution of these meet our needs?
-        - Example of [[workflow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/lighthouseapiplatform7991/1631736307705/31e23e9b9754a0ffceecdc2f037dc86976553b08?sender=ud64d6310f5d321d8542a2119) Lois shared
+        - Example of [workflow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/lighthouseapiplatform7991/1631736307705/31e23e9b9754a0ffceecdc2f037dc86976553b08?sender=ud64d6310f5d321d8542a2119) Lois shared
+        - We don't have anything for claims, so we can start there. We don't want to duplicate work.
+        - Start with an as-is, and work towards a to-be (PEGA/VES)?
+        - Verify what we have and update it.
+        - From a non-research perspective (Mary and Bo) is this enough? We'll verify but maybe that's it.
     - Rescheduling research sync? It's at the same time as a stakeholder interview.
-        - 
+        - Will reschedule, Lois to send availability. 
     - Alternate signer from HE side
-        - 
-
+        - Caregiver
+        - In some cases POA.
+        - Form is currently live, w/o third party signer. But they changed the paper form to include 3rd party questions, and now they need to update digital form.
+        - Last feedback they got from stakeholders - they have to fill out 3rd party signer forms before the other form. Order of operations TBD.
+        - May have to prompt up front to download and fill out 3rd party signer form before doing the other form.
+        - What we're doing right now is provide basic, generic info - "if you're one of these people, you need a POA on file." We may update it but that's our team's solution for now.
+        - POA is a problem bigger than CHAMPVA
 ### Decisions and action items
-- 
+- For process flows, check out what we already have and update it. **Prioritize claims.** Focus on what we have and filling in gaps rather than creating net new. 
+- Service blueprint could be useful; put the user journey at the top.
+- Mary/Bo to ask for claims flows from stakeholders
+- Lois to send availability for rescheduled research sync.
+- Keep going with our current solution for POA as Premal and Lois escalate.
 
 ## June 10, 2024
 ### Notes
