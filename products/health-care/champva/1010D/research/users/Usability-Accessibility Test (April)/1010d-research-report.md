@@ -81,11 +81,23 @@ These usability issues were compiled into a document of 28 [preliminary form imp
 
 Participants were initially confused about the page header on the OHI upload screen because it was shared with the previous screen, which contained the “Do you have other health insurance?” question. The OHI upload screen appeared regardless of what the participant answered regarding their other health insurance. Some participants who answered that they did not have other health insurance (OHI) were confused about why they were still being asked to provide information about it on the next page and form 10-7959c. Most participants were able to follow the instructions on the page once oriented and downloaded the PDF; many wanted to make sure it was typable so they could fill it out on their device and upload it. 8 of 13 participants were confused and/or frustrated by the interaction and process surrounding the 10-7959c PDF. At least two participants mentioned they would stop filling out the form and contact a VSO or the VA call center due to being overwhelmed by the amount of additional information required on the PDF. In addition, most participants expected them to have this information as part of the application process or to be accessible through other VA systems.
 
+> **P3:** "Didn't we already upload this?" referring to the 10-7959c PDF.
+
+> **P2:** “My experience and the experience of others - hey we just need to verify your OHI - they have the application - they don't need it, they've got it. I have a feeling that CHAMPVA can know I have OHI - I expect that they would sit on my application until I called to check on the status.”
+
+> **P26:** “This extra form seems like it should be for Tricare, like if you have Blue Cross, Blue Shield, or something.”
+
 ### **Finding 3**: The file upload summary page created for this form was well-received, but participants demonstrated some confusion about the difference between “optional” and “required” documents. 
 
 Participants demonstrated some confusion when it came to different documentation being labeled optional versus required.
 
 Despite the confusion, the file upload summary page was generally well received. The confirmation checkbox that informed the participants that they would need to mail the remaining required documents for their application to be considered complete served its purpose of slowing them down and motivating them to consider the implications of mailing information. Most participants mentioned that they would go back and upload anything they had skipped previously.
+
+> **P9:** "And that's where I have a problem with a lot of VA things: they're not clear what they're expecting when there are two options." - “I would still need to send the required documents in order for them to process the application. Which is what I would have expected.” - "And it says I can send it later, but I'd probably upload it now"
+
+> **Pilot:** “What are these optional documents being used for? It feels weird that they're optional…. It felt required because it was in there with everything else.”
+
+> **P3:** "I like that," "That makes it helpful," "That's pretty cool" on the file upload summary page
 
 ### **Finding 4**: Participants want proof/confirmation of their application submission.
 
