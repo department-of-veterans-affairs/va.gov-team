@@ -12,7 +12,7 @@ Think of it as the thrilling conclusion of the trilogy that started with the SLO
 We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov teams, we need to implement and communicate a formalized Incident Response process which includes the following:
 * Incident Management System
 * Outage Communication strategy for Veterans and other VA.gov teams.
-* System recovery process.
+* System recovery plan.
 * Internal reporting on incidents.
 
 ## Relevant Documents:
@@ -38,7 +38,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * [Outage Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Outage%20Communication.md)
   * Internal
   * External (when applicable)
-* [System Recovery Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
+* [System Recovery Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/System%20Recovery%20Process.md)
 * [Internal Reporting on Incidents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Internal%20Reporting.md)
 
 ### For these areas of responsibility:
@@ -60,6 +60,8 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 ## High-Level Use Cases:
 * As a VA.gov team member, I would like the Identity team to create a process for incident response, so that I may know what to expect when there are service outages.
 * As a Va.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot currently login.
+* As a VA.gov team member, I would like the Identity Team to notify me if there is a sign-in issue, so that I make take the proper actions at my end.
+* As a VA.gov team member, I would like the Identity Team to create a System Recovery Process so that I know what their plans for recovery are.
 
 
 ## Assumptions:
