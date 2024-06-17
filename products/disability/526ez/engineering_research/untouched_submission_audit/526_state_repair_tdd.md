@@ -3,6 +3,12 @@
 ## Purpose
 [In a previous document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) we have laid out why we need to do the work described herein. The goal of this document is to break down the work into actionable segments.
 
+## TL;DR
+we need to...
+1. [Fix our 526 backup submission polling]()
+2. Rebuild our 526 state
+3. Backfil our data
+
 ## Key terms and concepts
 - **submission**: Refers to an instance of the class `Form526Submission` and the veteran submitted claim it represents, used for brevity.
 - **failure**: Refers to a failure to process a submission. Also referred to as "not-done", "failure like state."
@@ -21,7 +27,7 @@
 At the top level, we (stake holders and engineers) need to know, at a glance, what submissions in our database require remediation. By surfacing this data we will unblock future remediation efforts and the creation of admin dashboards and insight tools.
 
 ### Note on Exclusive Methodology
-Though our goal is to find submissions that have failed, failure is an inherently unpredictable process and therefore impossible to codify with 100% accuracy. *Success* and *In-process* states, on the other hand are clearly defined by rigorous criteria. Therefore, the best way to identify what has failed, or can be said to be in a *failure-like state* is to use an **exclusive methodology** where in we start by identifying that which can be excluded (success and in-process submissions), leaving behind everything else, which we will consider a failure. This ensures that when unpredictable events occur, we err on the side of caution by considering potential unknowns as failure-type. [more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)]
+Though our goal is to find submissions that have failed, failure is an inherently unpredictable process and therefore impossible to codify with 100% accuracy. *Success* and *In-process* states, on the other hand are clearly defined by rigorous criteria. Therefore, the best way to identify what has failed, or can be said to be in a *failure-like state* is to use an **exclusive methodology** where in we start by identifying that which can be excluded (success and in-process submissions), leaving behind everything else, which we will consider a failure. This ensures that when unpredictable events occur, we err on the side of caution by considering potential unknowns as failure-type. [more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)
 
 ### The final, stakeholder facing value of this work...
 
@@ -49,11 +55,11 @@ This will depend on what we identify as the problems with our polling job.
 #### Problem Statement
 
 At a high level, there are 3 distinct things we should be doing that we are not. We need to:
-- correctly identifying submissions that can be ignored (successful or in-process) to facilitate our [exclusive methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology).
-- Correctly record this data in a way that guarantees data integrity, i.e. in our Database.
-- add an API on top of this data that allows us to easily view subsets of submissions.
+- Correctly identify submissions that can be ignored (successful or in-process) to facilitate our [exclusive methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology).
+- Record this data in a way that guarantees data integrity, i.e. in our Database.
+- Add an API on top of this data that allows us to easily view subsets of submissions based on state.
 
-What follows in this section is a breakdown of how our application is currently failing to meet these objectives.
+What follows in this section is a breakdown of how our application is currently failing to meet these objectives. This is an indepth defense of my proposed solution, so if you are just here for the fix, skip ahead to the [acceptance criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#acceptance-criteria-1)
 
 ##### -- We have a bloated, confusing state machine --
 
@@ -61,11 +67,15 @@ Currently, we have the following states, `:delivered_to_primary, :failed_primary
 
 Other states were created for the purpose of remediation, and have no real value to the application processing logic outside of saving data points about what was remediated when, such as `processed_in_batch_remediation`.  In practice this means the same thing as `finalized_as_successful` or `in_remediation`, which is that for these submissions we have "fulfilled our contract" with the veteran, i.e. moved the submission from our web API to the appropriate next step ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#what-is-an-untouched-submission).) These mean more or less the same thing, but with an ultimately unsuccessful nod to context tracking. 
 
+What's potentially even more confusing is that, although these are success-type states, it's possible we still may need to do follow up work for remediation. More on this below in the section about [complex remediation lifecycles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#---we-are-not-accounting-for-the-complex-remediation-lifecycle---)
+
 TL;DR: Our solution must re-define state as simply and clearly as possible, eliminating bloat and providing a sustainable technical implementation upon which to build stakeholder facing tools.
 
 ##### -- We have redundant sources of truth --
 
-We have states that create a duplicate source of truth with other, better, more reliable data points. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the data point we use to set the state, as there is no other meaningful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically in a state of `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aforementioned remediation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`)
+We have states that create a duplicate source of truth with other, better, more reliable data points. For example, `delivered_to_primary` is another way of saying that the submission should have a `submitted_claim_id`. This is the data point we use to set the state, as there is no other meaningful way to define it. This becomes confusing in the case where a submission has a `submitted_claim_id` and so is technically in a state of `delivered_to_primary`, but for one reason or another ended up on one of our "remediated submission lists" ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md#determining-state).) This creates a situation where we have a submission that rightly belongs to two states, `delivered_to_primary` and / or one of the aforementioned remediation type states (`processed_in_batch_remediation`, `ignorable_duplicate`, `in_remediation`, `finalized_as_successful`).
+
+This has lead to confusion when other teams or stakeholders investigate submissions and assume that 526 state should be trusted.
 
 TL;DR: Our solution must eliminate redundant sources of truth.
 
@@ -95,7 +105,7 @@ Our system is error prone, and our results must be error free, a clear contradic
 
 TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle
 
-##### -- We use problematic reliance on failure state assignment --
+##### -- We rely on failure state assignment --
 
 In our first version of the state machine, we relied heavily on failure state assignment. For instance, if a submission worker exhausted it's retries, we expected it assign a failure type state using sidekiq's built in `sidekiq_retries_exhausted` functionality. This worked most of the time, but ultimately, given our stated goal of ensuring we *never miss a single submission* to which end we are using **exclusive methodology**, we have to assume that this code can break or fail to execute, thus failing to assign a failure type state. If this were to happen and we only relied on failure type states, then we would miss that submission. This methodology fails to meet the standard set forward by our stated goals, and in practice, ended up being squirely and is part of the reason our current state machine cannot be trusted.
 
@@ -116,7 +126,7 @@ Our implementation must also:
 1. Be simple and easy to grok
 2. Remove redundant sources of truth
 3. Support complex remediation lifecycles
-4. Codify changes to the history of a submissions remediation lifecycle
+4. Codify changes to the history of a submission's remediation lifecycle
 5. Not rely on failure-state assignment
 
 
@@ -130,45 +140,46 @@ Part of the reason we are still auditing our data is because we didn't take time
 
 ##### a. Create a SubmissionRemediation model
 
-This allows us to do a few things. First, track every remediation effort with flexible context data with a text field where we can add data about the remediation effort, e.g. "remediated as part of the 2024 Code Yellow". Second, to track multiple remediations for a single submission. We should know every time a submission was sent for remediation. This will preserve valuable context about why a submission was remediated, how many times it was remediated, and give us bread crumbs in case of failed remediation. Third, a free standing model for remediation allows us to give instances their own tag or state, thus marking previous remediations as unsuccessful if / when a downstream team comes back to us with follow up requests. 
-
-This is the critical piece that allows us to **Record data**
+This allows us to do a few things. First, track every remediation effort with flexible context data in a text field where we can add data about the remediation effort, e.g. "remediated as part of the 2024 Code Yellow". Second, we will be able to track multiple remediations for a single submission. We should know about every time a submission was sent for remediation. This will preserve valuable context about why a submission was remediated, how many times it was remediated, and give us bread crumbs in case of failed efforts down the line. Third, a free standing model for remediation allows us to give instances their own tags or state, which will be useful in the case of follow up requests that require reverting a submission to failure state, or marking a submission as a duplicate. By creating this model we will support complex remediation lifecycle and codify changes to a remediation lifecycle. Serves our goal of **Recording Data**.
 
 **Model Structure**
-- `form526_submission_id` - foreign key to facilitate submission `has_many` remediations / remediation `belongs_to` submission association
-- `lifecycle` - Array to record instances of context. These will be required for `create` and `update` actions. 
-- `success` - boolean with a default of `true`
+- `form526_submission_id` - Foreign key to facilitate submission `has_many` remediations / remediation `belongs_to` submission association
+- `lifecycle` - Array to record bits of context. These will be required for `create` and `update` actions. 
+- `success` - Boolean with a default of `true`
 - `created_at` - critical for accessing the most recent remediation
 - `updated_at` - why not
 - `ignored_as_duplicate` - boolean with default of `false`.
-  - Model Validation prevents `ignored_as_duplicate: ture` and `success: false` from being present on the same record. This would be a paradox, as an ignorable duplicate is fundamentally a submission where we have determined there is no further remedial action required.
+
+**Model Validations**
+- `create` and `update` actions require a string providing context on the change
+- if `ignored_as_duplicate: true` then `success: true` must also be the case. Otherwise we would have be a paradox, as an ignorable duplicate is fundamentally a submission where we have determined there is no further remedial action required.
+- `form526_submission_id` must be present. 
 
 **Model Methods**
 - `mark_as_unsuccessful`
   - transition the record to `success: false` and log the change to Datadog.
-  - requires a `context` argument to be added to the `lifecycle` value
+  - also requires a `context` argument to be added to the `lifecycle` value
   - timestamps the incoming `context` string before saving
 - `ignored_as_duplicate?`
   
 NOTE: We could call this `Form526Submissions::Remediation` but we also remediate other submission types. If we keep it non-specific, we may be able to reuse this model as a polymorphic solution for other form remediations in the future.
 
-
 #### b. Add `backup_submitted_claim_status` enum to the `Form526Submission` model
 
-This enum will have 3 allowed values, `:accepted`, `:rejected` and `nil`.
+This enum will have 3 allowed values, `:accepted`, `:rejected` and `nil`. Also serves our goal of simplifying state, removing redundant sources of truth, not relying on failure state assignment, and **recording data**.
 
 - `nil` is the default state.
-  - A submission with a `submitted_claim_id` will remain `nil` forever
+  - A submission with a `submitted_claim_id` will remain `nil` forever.
   - A submission with a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `nil` is assumed to still be processing, unless otherwise identified as a failure by the analyzing agent (e.g. a scope on the model that looks for stuff that's been pending *too long*).
 - A submission with a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `:accepted` is success type.
 - A submission with a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `:rejected` is failure type.
 - *Anything else is a failure-type state.* Remember we are using the *exclusive methodology*, therefore if a submission ever gets in a weird state where it has some mismatch of the above data points, we default to assuming it needs investigation. Remediation may or may not be necessary, but that will be determined by investigation.
 
-Note that we are *not* adding a `processing` state. While tempting, this would violate our need for elimination of duplicate sources of truth. 
+NOTE: we are *not* adding a `processing` state. While tempting, this would violate our need for elimination of duplicate sources of truth. 
 
 ##### c. Add methods and scopes to the `Form526Submission` model to leverage the data in the `SubmissionRemediation` model.
 
-By adding scopes and helper methods to `Form526Submission` we allow for simple, robust interaction with the new underlying data provided by the `SubmissionRemediation` model and the `accepted_by_backup_path` enum.
+By adding scopes and helper methods to `Form526Submission` we allow for simple, robust interaction with the new underlying data provided by the `SubmissionRemediation` model and the `accepted_by_backup_path` enum.  This serves our goal of making our state simple and **exposing data**.
 
 - `remediated?` (instance method) that checks if a submission's most recent `submission_remediation` exists and has a value of `success: true`. Note that this doesn't imply success or failure state on it's own. The purpose of this method is to help demystify this logic for future developers and stakeholders.
 - `success_type?` (instance method) returns a boolean based on the following criteria
@@ -176,16 +187,19 @@ By adding scopes and helper methods to `Form526Submission` we allow for simple, 
   - has a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `accepted`
   - has a *most recent* `submission_remediation` record with a value of `success: true`
 - `in_process?` (instance method) returns a boolean based on the following criteria
-  - true if a submission does not have a `submitted_claim_id` or a `backup_submitted_claim_id` and is within the time boxed pending state.
-- `failure_type?` (instance method) negates the above `success_type?` and `in_process?` method.
-- `success_type` (scope) queries all submission records that would meet the same criteria defined in the `success_type?` method. 
-- `failure_type` (scope) anything that is not captured by the above `success_type` scope.
+  - `true` if a submission does not have a `submitted_claim_id` or a `backup_submitted_claim_id` and is within the time boxed pending state. (e.g. it's a day old)
+  - `false` if a submission does not have a `submitted_claim_id` or a `backup_submitted_claim_id` and the time boxed pending state has expired (e.g. it's a week old)
+- `failure_type?` (instance method) true if the above `success_type?` and `in_process?` are both `false`
+- `duplicate?` (instance method) checks for the most recent `submission_remediation` value for `ignored_as_duplicate`
+- `success_type` (scope) queries all submission records that would meet the same criteria defined in the `success_type?` method.
+- `in_process` (scope) queries all submissions that meet the same criteria defined in the `in_process?` method.
+- `failure_type` (scope) anything that is not captured by the above `success_type` or `in_process` scope.
 
-When all is said and done, the `failure_type` scope is what we've been after all this time. With this tool in place, everything we've done in the past year to identify and track failures will be reduced to the following query `Form526Submission.failure_type`. That's it, that's every other audit forever, plus monitoring and reporting!  These methods allow us to **Expose Data** for logging and programmatic operation (this is still not admin facing exposure!!).
+When all is said and done, the `failure_type` scope is what we've been after since day one. With this tool in place, everything we've done in the past year to identify and track failures will be reduced to the following rails command; `Form526Submission.failure_type`. 
 
 ##### d. Remove the `aasm_state` value and legacy state machine code.
 
-As a sanity check, let's see how all of this data would be captured by our new paradigm
+As a sanity check, let's see how all of this data would be captured by our new paradigm;
 
 - `delivered_to_primary` is implied by the presence of a `submitted_claim_id`. Even if a submission also somehow has a `backup_submitted_claim_id` and remediations, we still know it was technically delivered to primary.  This is a success type submission.
 - `failed_primary_delivery` is implied by the absence of a `submitted_claim_id`. This was originally a transitional state, however there is no need to have an explicit state here; the submission will either soon receive a `backup_submitted_claim_id`, or will never receive either, putting it into a time boxed pending state based failure state.
@@ -197,19 +211,28 @@ As a sanity check, let's see how all of this data would be captured by our new p
 - `finalized_as_successful` this was a catch-all to say we were done with it. This has been replaced by the concept of success type submissions.
 - `unprocessable` Intended as a generic failure state, this was never used. There are now other, better ways to determine failure-state.
 - `processed_in_batch_remediation` This was a remediation-specific state, which (after our final backfill) will be implied by presence of a `submission_remediation` with applicable `context`, e.g. "Processed as part of 2024 code yellow remediation batch"
-- `ignorable_duplicate` Another remediation-specific state, which we will preserve for posterity with the presence of a `submission_remediation` record with a value of `ignored_as_duplicate: true`. 
+- `ignorable_duplicate` Another remediation-specific state, which we will preserve for posterity with the presence of a `submission_remediation` record with a value of `ignored_as_duplicate: true`.
 
-#### 2. Run a final audit and backfill our new state
+The old state machine is now redundant, and has been problematic, so we just need to remove it. This serves our goal of making state simple and removing duplicate sources of truth.
 
-Now that we have our ways of tracking state, and ways to expose it for testing, we can run a final audit and backfill with actual quality checks.  This will be much faster and easier than our last audit, because we already have all the pieces in place to do it. This will mean taking all of the submissions that have been sent for remediation and backfilling them with their correct `submission_remediation` record context. Known quantities are
+### 3. Backfill our new state
 
+At this point we will have robust systems in place to track our backup path and remediation submission states! We will need to ingest some data to cover the last year of remediation.
+
+#### a. Run a final audit and backfill our new state
+
+Now that we have our ways of tracking state, and ways to expose it for testing, we can run a final audit and backfill with actual quality checks.  This will be much faster and easier than our last audit, because we already have all the pieces in place to do it. This will mean taking all of the submissions that have been sent for remediation and backfilling them with their correct `submission_remediation` record context. This step will **create data**. 
+
+Two sources we will use for this data are
 - the list we got from VBMS (Alex's team) with every submission ID that was submitted during the early batching days
 - the list of follow up submissions that we identified in the audit and submitted (or will soon re-submit) for subsequent remediation
   - a subset of these will be given the `ignored_as_duplicate: true` tag using the audit funnel logic.
  
-#### 3. Review / Remediate any remaining failure type submissions
+NOTE: probably a good idea to poke around and see if there is anything else stakeholders or team members may remember as a source of truth we should review here. Note that it's ok if we forget things, because we will have the ability to easily rinse and repeat in the next stage.
+ 
+### b. Review / Remediate any remaining failure type submissions
 
-At this point we will have the ability to very easily pull a list of submissions that are 'failure type'. This may be 0, it may be 1000. If it's more than a few, then it's likely we need to revisit our backfill lists and make sure it wasn't simply missed. Once we have fully backfilled every single remediation instance with it's appropriate state, we will have a simple, foolproof way of identifying submissions in need of remediation
+At this point we will have the ability to very easily pull a list of submissions that are 'failure type'. This may be 0, it may be 1000. If it's more than a few, then it's likely we need to revisit our backfill lists and make sure it wasn't simply missed. Once we have fully backfilled every single remediation instance with it's appropriate state, anything left will (probably) require remediation. At this point we will have a simple, foolproof way of identifying submissions in need of remediation!
 
 ## Conclusion
 To summarize, we are going to do the following
@@ -221,6 +244,6 @@ To summarize, we are going to do the following
   C. Add an API (model level methods) for working with this new data
   D. Remove our old state machine
 
-4. Audit and backfill our state
+3. Audit and backfill our state
 
 These steps will ensure we have a simple, maintainable, scaleable, risk free, and foolproof concept of Form526Submission state.
