@@ -28,14 +28,14 @@
         - ❗ 🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
         - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
-        - We need tickets for this work
+        - **WE NEED TICKETS**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
-        - We need tickets for this work
+        - **WE NEED TICKETS**
         - 🟥 [Display Provider for Stand-along Travel Appointment Info ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86050)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - **WE NEED TICKETS**
         - Schedule Staging Review for New Landing Page minus the Upcoming Appointments section
-        - We need tickets for "new" MVP
     - **Sub Goal: 2024 Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
