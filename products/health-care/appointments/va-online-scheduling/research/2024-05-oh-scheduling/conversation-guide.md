@@ -105,44 +105,43 @@ Confirmation screen: Is this enough information for you to go off of to get to y
 
 #### Things to watch for:
 
-- _Can participant find where to request an eye care appointment?_
+
 - _Can participant understand the information on the details page?_
 
-## 2: Type of Care - MOVE! (Direct Schedule)
-You need to schedule a MOVE! program appointment with any provider. How would you do that from here?
+## 2: Type of Care - Physical Therapy
+Path they will take: Start scheduling> Physical Therapy> PID 6/16>7/26 2 pm>chest pain>I do no need care now> (finish scheduling)
+
+Prompt: You need to schedule a Physical Therapy appointment how would you do that?
+On the urgent care message page: Is this helpful considering you are having chest pains? Would you expect anything else?
 
 **Follow up:**
-- What are your thoughts on this page?
-- What steps would you take to schedule the appointment?
+- What are your thoughts on how this works?
 
-#### Things to watch for:
-
-- _Can participant easily find and schedule a MOVE! appointment?_
-- _Does participant understand the scheduling process?_
-
-## 3: Type of Care - Primary Care (Specific Provider)
-You need to schedule a primary care appointment with a specific provider. How would you do that from here?
-
-**Follow up:**
-- What are your thoughts on this page?
-- How would you choose the specific provider?
-
-#### Things to watch for:
-
-- _Can participant find and select a specific provider?_
-- _Does participant understand how to schedule with the chosen provider?_
-
-## 4: Type of Care - Audiology (How to Become Established)
-You need to schedule an audiology appointment but don't have an established provider. How would you find information on how to become established?
-
-**Follow up:**
-- What are your thoughts on this page?
-- How would you find and follow the steps to become established?
 
 #### Things to watch for:
 
 - _Can participant find the information on becoming established?_
 - _Does participant understand the steps to take?_
+
+## 3: Type of Care - I need immediate care 
+Prompt: You have a high fever and have been sick for a couple of days, you want to get in to see your doctor asap because you don't seem to be getting better. What would you do? 
+Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? (they should find the "I need immediate care" in the list.)
+Follow up: Is it clear that this tool is not for urgent medical needs? Is having "I need immediate care" on this list helpful in your situation? 
+
+## 4: Type of Care - MOVE! (Direct Schedule)
+Prompt: You need to schedule a MOVE! program appointment with your doctor Sarah Bennett Ph. D . How would you do that from here?
+
+Path they will take: Start scheduling> TOC>MOVE!>Chalmers> Choose a provider>PID 6/23>7/27 (finish scheduling
+
+
+
+#### Things to watch for:
+
+- _What comments and thoughts does the participant have about the "choose a provider" page?_
+- _Does participant understand the scheduling process?_
+
+
+
 
 ## Post-Task Interview
 
