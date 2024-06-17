@@ -74,8 +74,7 @@ With MHV credentials due to become inactive on January 31, 2025 and DSlogon cred
 
 ### Key dates
 
-* January 31, 2025 - MHV credentials sunset.
-* September 30, 2025 - DSLogin credentials sunset.
+
 
 
 ## Backend
