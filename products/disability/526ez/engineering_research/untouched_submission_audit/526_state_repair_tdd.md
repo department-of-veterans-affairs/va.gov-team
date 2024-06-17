@@ -1,7 +1,7 @@
 # 526 State Repair Technical Design Document
 
 ## Purpose
-[In a previous document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) we have laid out why we need to do the work described herein. The goal of this document is to break down the work into actionable segments.
+[In a previous document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) we have laid out why we need to do the work described herein. The goal of this document is to break down the work into actionable segments, and provides aditional context on what we are currently not doing, but should be.
 
 ## TL;DR
 we need to...
