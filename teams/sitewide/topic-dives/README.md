@@ -20,6 +20,11 @@ Please add any potential future topics you would like covered below:
 ### - NGrok
 - @dsasser
 
+### 6/17/24 - Flippers & Feature Toggles
+  - Jill Adams
+  - Describes the very high level use case / context for both Drupal feature toggles, and Flippers used in the VA.gov Frontend (driven by vets-api & vets-website)
+  - [Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/videos/feature-toggles-flippers.mp4) - MP4 you'll need to download
+
 ### 3/5/24 - ECA module / use for Aging content notifications 
    - Daniel Sasser
    - Primarily Drupal: Use of ECA module, how we are configuring it on Public Websites for use to send aging content notifications for Full Width Banners. This was a team-internal primer / demo before the feature shipped. Future topic dive may go into greater detail.
