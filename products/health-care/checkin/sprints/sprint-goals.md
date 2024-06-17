@@ -31,6 +31,7 @@
         - We need tickets for this work
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
         - We need tickets for this work
+        - 🟥 [Display Provider for Stand-along Travel Appointment Info ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86050)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - Schedule Staging Review for New Landing Page minus the Upcoming Appointments section
