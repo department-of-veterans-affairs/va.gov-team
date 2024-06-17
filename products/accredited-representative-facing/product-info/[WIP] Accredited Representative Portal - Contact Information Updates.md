@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-Currently when a request from an attorney, claims agent, accredited representative, or a certifying official submits a request to update contact information in the OGC database, these request enter a manual workflow that requires an OGC staff member to review and route this request in order for the update to the database to take place.
+As the OGC database has grown over the years, Currently when a request from an attorney, claims agent, accredited representative, or a certifying official submits a request to update contact information in the OGC database, these request enter a manual workflow that requires an OGC staff member to review and route this request in order for the update to the database to take place.
 Additionally, it can take up to an additonal 72 hours to be reflected in the OGC database. This process is time consuming for both the submitting party and for OGC staff, as over _______ number of these requests are submited per (day/year)
 
 How might we simplify the process for a claims agent, attorney, VSO representative, or certifying official to request that their contact information be updated in OGC?
@@ -133,11 +133,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  
 </details>
 
-
-#### Stakeholders
+#### Post-MVP 
 
 <details>
- 
-_What offices/departments are critical to make this initiative successful?_
- 
-</details>
