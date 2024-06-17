@@ -1,6 +1,6 @@
 # MHV-on-VA.gov -- Authorization -- user access rules
 
-As each of the VA.gov Health Tools were deveoped by independent teams, the authorization rules for each have been implemented in a slightly different way. This technical document was created in order to understand the current authorization rules each Health Tool uses to gate access into its pages and API data.
+As each of the VA.gov Health Tools were developed by independent teams, the authorization rules for each have been implemented in a slightly different way. This technical document was created in order to understand the current authorization rules each Health Tool uses to gate access into its pages and API data.
 
 
 ## Table of Contents
@@ -547,8 +547,7 @@ vets-api calls MDOT backend service with `user.icn` in headers. ICN is only avai
 
 ### Other Health Tools
 
-- Payments - link to external system
-- BTSSS - link to external system
+- Payments - links to external system
 - After-visit summary (AVS): `<Avs />` calls `getAvs()`, `AvsController` verifies user has a valid user session, calls backend service with Station # and Appointment IEN
 - 10-10EZR (VES): `<App />` and `<IntroductionPage />` check if the user is signed in and account is LOA3, dispatches `fetchEnrollmentStatus()`. `<SaveInProgressInfo />` checks if user has a valid enrollment status (enrolled/pending), has a preferred facility.
 
