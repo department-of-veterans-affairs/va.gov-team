@@ -5,9 +5,9 @@
 
 ## TL;DR
 we need to...
-1. [Fix our 526 backup submission polling]()
-2. Rebuild our 526 state
-3. Backfil our data
+1. [Fix our 526 backup submission polling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#1-repair-our-backup-submission-polling-job)
+2. [Rebuild our 526 state](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#2-rebuild-state-from-the-ground-up)
+3. [Backfil our data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#3-backfill-our-new-state)
 
 ## Key terms and concepts
 - **submission**: Refers to an instance of the class `Form526Submission` and the veteran submitted claim it represents, used for brevity.
