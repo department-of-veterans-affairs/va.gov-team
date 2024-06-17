@@ -26,22 +26,11 @@
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗ 🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
         - ❗ 🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
-        - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
-    - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
-        - Questions:
-            - Do we have a final wireframe for this?
-            - Is there any more UX work that needs to be done?
-            - Is there anyone that needs to review and/or approve ththe wireframe and/or content?
-            - Is this the same wireframe as for OH Travel or is this a separate wireframe?
-        - **WE NEED TICKETS**
+        - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)   
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
-        - Questions:
-            - Do we have a final wireframe for this?
-            - Is there any more UX work that needs to be done?
-            - Is there anyone that needs to review and/or approve ththe wireframe and/or content?
-            - Is this the same wireframe as for eCheck-in or is this a separate wireframe?
-        - **WE NEED TICKETS**
         - 🟥 [Display Provider for Stand-along Travel Appointment Info ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86050)
+        - UX will schedule hand-off with team when wireframes are finalized and annotated with changes
+        - 🟩 [[FE] Add Provider to Stand-alone Travel Appointment Info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86104)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)        
