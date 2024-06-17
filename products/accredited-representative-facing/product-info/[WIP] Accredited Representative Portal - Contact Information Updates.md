@@ -8,6 +8,7 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
+
 Currently when a request from an attorney, claims agent, accredited representative, or a certifying official submits a request to update contact information in the OGC database, these request enter a manual workflow that requires an OGC staff member to review and route this request in order for the update to the database to take place.
 Additionally, it can take up to an additonal 72 hours to be reflected in the OGC database. This process is time consuming for both the submitting party and for OGC staff, as over _______ number of these requests are submited per (day/year)
 
