@@ -19,6 +19,17 @@
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Discussion Topics**
   * Anything we need to discuss from last week?
+  * Staggering release for Homescreen and Appts releases
+    * Appointments first (7/16)?
+    * then Homescreen (7/30)?
+      * Ameet to follow-up with Rachel about demoing the new Home Screen
+  * Decision making for Health and Benefits problem spaces
+    * Health POs will make decisions except in cases when:
+      * immediate mobile issue, highlighting to Health POs
+      * mobile expertise is required
+    * Analytics needed for decision making may need further discussion and access for other POs
+  * Rachel OOO first week of July and only semi-available the 3rd week of July
+  * Onboarding Initiative (Push Notification Opt-in flow) - Ameet to schedule follow-up meeting
 
 ## 5/29/24
 * **Epics Review**
