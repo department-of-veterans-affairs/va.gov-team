@@ -4,7 +4,7 @@
 - Attendees: Lois Lewis, Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
 - Facilitator: Rachael
 - Next meeting facilitator: Syd
-- Agenda topics:
+- Agenda topics [per Slack thread](https://dsva.slack.com/archives/C068Q9DQACX/p1718630778474219):
     - [Process flows](https://dsva.slack.com/archives/C05UDS77ZPH/p1718138441946389) Mary posted a bit ago and [processes](https://dsva.slack.com/archives/C05UDS77ZPH/p1716583521410209) posted by Premal - does the resolution of these meet our needs?
     - Rescheduling research sync? It's at the same time as a stakeholder interview.
 
