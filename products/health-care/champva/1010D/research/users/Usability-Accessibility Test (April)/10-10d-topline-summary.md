@@ -1,4 +1,4 @@
-# **[2024-04 CHAMPVA 10-10d Usability/Interviews Topline Summary] Topline Summary**
+# **2024-04 CHAMPVA 10-10d Usability/Interviews Topline Summary**
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/Usability-Accessibility%20Test%20(April)/Research%20Plan.md)
 
