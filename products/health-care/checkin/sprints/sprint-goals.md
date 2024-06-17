@@ -12,6 +12,7 @@
 - **GOAL: Support Congressional Mandate**
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase PCI Usability**
+- **GOAL: Address Tech Debt**
 
 #### PLANNED RELEASES
 - NONE
@@ -31,7 +32,6 @@
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
         - UX schedule hand-off with team when wireframes and content are finalized and approved
         - 🟩 [[FE] Add Provider to Stand-alone Travel Appointment Info](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86104)
-             - Need to add link to final wireframe to the above ticket
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)        
@@ -64,7 +64,7 @@
     - **Sub Goal: Production Support**
         - ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
         - ❗🟥 [[UX] Create new text message to inform veteran about claim submission and some issues processing the claim ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84767)
-        - ❗🟦 [[BE] Modify travel_claims/client to add claim_status api call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84754)
+        - ✔️ ❗🟦 [[BE] Modify travel_claims/client to add claim_status api call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84754)
         - ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
         - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
         - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
@@ -99,6 +99,7 @@
         - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)
         - 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
         - ~🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)~
+            - Needs more discussion
         - 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
         - 🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)
         - 🟩 [[FE] - Remove old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
