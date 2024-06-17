@@ -91,7 +91,7 @@
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟥 [[DESIGN] Complete all documentation and hold handoff meeting for landing page pivot ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85723)
         - Christina to schedule a hand-off to engineering & Product
-        - Brian to create tickets for "new" MVP
+        - John/Brian to create tickets for "new" MVP
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
