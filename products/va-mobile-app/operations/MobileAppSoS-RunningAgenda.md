@@ -18,7 +18,7 @@
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Discussion Topics**
-  * 
+  * Anything we need to discuss from last week?
 
 ## 5/29/24
 * **Epics Review**
