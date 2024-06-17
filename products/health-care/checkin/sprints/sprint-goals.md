@@ -28,12 +28,23 @@
         - ❗ 🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
         - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
     - **Sub Goal: Update eCheck-in Travel for Multiple Facility Scenario**
+        - Questions:
+            - Do we have a final wireframe for this?
+            - Is there any more UX work that needs to be done?
+            - Is there anyone that needs to review and/or approve ththe wireframe and/or content?
+            - Is this the same wireframe as for OH Travel or is this a separate wireframe?
         - **WE NEED TICKETS**
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
+        - Questions:
+            - Do we have a final wireframe for this?
+            - Is there any more UX work that needs to be done?
+            - Is there anyone that needs to review and/or approve ththe wireframe and/or content?
+            - Is this the same wireframe as for eCheck-in or is this a separate wireframe?
         - **WE NEED TICKETS**
         - 🟥 [Display Provider for Stand-along Travel Appointment Info ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86050)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
+        - Where is the final wireframe link?
         - **WE NEED TICKETS**
         - Schedule Staging Review for New Landing Page minus the Upcoming Appointments section
     - **Sub Goal: 2024 Q2 Translations**
@@ -74,7 +85,8 @@
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ✔️ ❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
-        - ❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
+        - ~❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)~
+            - Won't be ready until staging review is done
         - We will need to go through staging review with Appts team before we release
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
