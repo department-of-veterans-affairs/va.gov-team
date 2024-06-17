@@ -58,11 +58,11 @@
         - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
     - **Sub Goal: Move to New AWS Instance**
         - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
-        - 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
+        - ✔️ 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
-        - ❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)
+        - ✔️ ❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - We will need to go through staging review with Appts team before we release
@@ -79,7 +79,7 @@
         - Brian to create tickets for "new" MVP
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
-        - 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
+        - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
         - 🟥 [Update all eCheck-in, Pre-Check-in, and Travel VA Notify Messages to Remove the Trailing Period ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85756)
