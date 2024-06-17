@@ -59,7 +59,7 @@ With MHV credentials due to become inactive on January 31, 2025 and DSlogon cred
 ### Undesired Business Outcomes
 * Chaos and disorder at both the MHV and DSLogon deadlines
 * Call center swamped with outraged Vets who suddenly can't sign-in
-* Congressional investigation into the situation.
+
 
 
 ## Measuring success
