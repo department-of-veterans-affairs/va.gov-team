@@ -1,7 +1,19 @@
 # Running Design and Research Agenda
 ## June 10, 2024
 ### Notes
-- Attendees: Lois Lewis, Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Devi Hill, Mary Wang, Bo Altes
+- Attendees: Lois Lewis, Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
+- Facilitator: Rachael
+- Next meeting facilitator: Syd
+- Agenda topics:
+    - [Process flows](https://dsva.slack.com/archives/C05UDS77ZPH/p1718138441946389) Mary posted a bit ago and [processes](https://dsva.slack.com/archives/C05UDS77ZPH/p1716583521410209) posted by Premal - does the resolution of these meet our needs?
+    - Rescheduling research sync? It's at the same time as a stakeholder interview.
+
+### Decisions and action items
+- 
+
+## June 10, 2024
+### Notes
+- Attendees: Lois Lewis, Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Devi Hill, Rachael Penfil, Mary Wang, Bo Altes
 - Facilitator: Jamie
 - Next meeting facilitator: Syd
 - Agenda topics
