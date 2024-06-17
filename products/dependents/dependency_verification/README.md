@@ -68,7 +68,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - [Annual Reminder Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/annual-email/Feature-Brief-Annual-Verification-Email.md)
    - Launched: Target February 2024, rework in progress to expand the solution to provide [an option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md) to submit a "no" response and auto-generate an 0538 form via VA.gov
 - [Dependent Verification Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)
-   - Launched: Target July 2024 
+   - Launched: Target 2024/2025 
 
 --- 
 ### Key Decisions
