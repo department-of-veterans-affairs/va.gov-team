@@ -61,7 +61,8 @@ With MHV credentials due to become inactive on January 31, 2025 and DSlogon cred
 
 
 ## Measuring success
-* Call center calls 
+* Call center calls only spike by XX
+* VSignals customer satisfaction surrounding login improves by XX
 
 
 ## Solution approach
