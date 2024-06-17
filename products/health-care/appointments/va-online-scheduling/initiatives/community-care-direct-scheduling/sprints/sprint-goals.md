@@ -49,6 +49,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Conduct research study with Veterans**
          - 🟨 [Incorporate feedback to convo guide](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85686)
          - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
+         - 🟦 No continuation of work on the CodePen data and time selection calendar 
          - 🟨 Submit research materials to Shane
          - 🟨 Schedule A11y walkthrough of CodePen prototype (e.g., Brian, Jeana, Jami, etc.)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
@@ -60,6 +61,7 @@ ________________________________________________________________________________
               - 🟥 [Midpoint - **Content** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85519)
               - 🟥 [Midpoint Review - **IA Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85523)
               - 🟥 [Midpoint Review - **Design Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85515)
+              - 🟥 [Midpoint Review - Accessibility Feedback - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85828)
               - 🟥 Submit experimental design ticket for filtering
          - 🟥 [Review feedback and make updates to business process flow (Mural(s))](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85555) 
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
