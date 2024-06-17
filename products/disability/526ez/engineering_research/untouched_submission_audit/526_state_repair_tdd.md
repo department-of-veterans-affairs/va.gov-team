@@ -1,37 +1,39 @@
 # 526 State Repair Technical Design Document
 
-## Pupose
+## Purpose
 [In a previous document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md) we have laid out why we need to do the work described herin. The goal of this document is to break down the work into actionable segments.
 
 ## Key terms and and concepts
 - **submission**: Refers to an instance of the class `Form526Submission` and the veteran submitted claim it represents, used for brevity.
-- **failure**: Refers to a failure to process a submission. Also refered to as "not-done" and "failure like state."
-- **in process**: Referes to an instance of `Form526Submission` that is not yet ready to be defined as a success or failure. More on this below. [TODO - link]()
-- **success**: Referes to successful, complete, nothing-left-to-do processing of a submission. The submission has passed successfully through our system from the Veteran to the relevant next step. Also refered to as "fulfilling our contract", "done", and "success type states". 
-- **remediation**: Any process out side of the "happy path" or "backup path" form submission flow for 526 that is used to move a submission into a success state.  Typically this involves a developer and stake holder working closely to identify and package failures in a processable format, then passing that package off to relevant parties.
-- **State machine**: A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. There is no state-machine dashboard or admin login. *The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.* That will come later; this work is required to unblock that work, but they are different.
-- **Exclusive methodology**: Unfortunately, 'failure' is a nebulous state at which a submission can arrive in any number of ways. Therefore, the best way to identify what has failed is to use an *exclusive methodology* to identify and eliminate everything from a set (all submissions) that is explicitly *successful*. Then, we can simply consider everything else a failure-like state. An *exclusive methodology* is necesary to prevent missed edge cases, in which a bug, logic change, or unforseen circumstance creates a new path to failure. Determining success state for the purpose of exclusion is currently a long and complex process that not enough people know how to execute from end to end. ([more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)). 
+- **failure**: Refers to a failure to process a submission. Also refered to as "not-done", "failure like state."
+- **"In process" / "In progress"**: "In process" Referes to an instance of `Form526Submission` that is not yet ready to be defined as a success or failure. "In progress" refers to a submission that a Veteran is still working on, and is a sub-set of "in process". I'm intentionally using similiar language because they are, for our purposes, functionally the same in how we handle them. We don't want to get into the details of these sub-states, just know that anything "in process" can be excluded when we attempt to identify failures.
+- **success**: Referes to submission for which there is currently no futher or planned work required from us, the vets-api team, in order to fullfil our contract with the submitting veteran. The submission has passed successfully through our system to the relevant next step. Also refered to as "done" and "success type state". 
+- **remediation**: Any process outside of the "happy path" or "backup path" form submission flow for 526 that is used to move a submission into a success state.  Typically this involves a developer and stake holder working closely to identify failed submissions and package them into a processable format, then passing that package off to relevant parties.
+- **state machine**: A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. *The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.* 
 
 ## Resources
-- [Original document describing the work of "Auditing" our database for untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/post_remediation_audit_for_untouched_submissions.md)
+- [Original document describing the work of "Auditing" our database for untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/post_remediation_audit_for_untouched_submissions.md).
 - [The document describing the failures of the current system and outlining the need to fix it](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/closing_the_blackhole.md)
-- [A description of how tags were initially applied](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)
+- [A description of how tags were initially applied in the first pass of our state machine](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)
   
 ## Summary
-At the top level, we (stake holders and engineers) need to know, at a glance, what submissions in our database require remediation. By surfacing this data we will unblock future remediation efforts and the creation of admin dashboards and insight tools. Simply put we need to see when a submission fails, and the process of looking should be easy.
+At the top level, we (stake holders and engineers) need to know, at a glance, what submissions in our database require remediation. By surfacing this data we will unblock future remediation efforts and the creation of admin dashboards and insight tools.
 
-### The final, stakeholder facing value
-This work will
+### Note on Exclusive Methodology
+Though our goal is to find submissions that have failed, failure is an inheriently unpredictable process and therefore impossible to codify with 100% accuracy. *Success* and *In-process* states, on the other hand are clearly defined by rigorus criteria. Therefore, the best way to identify what has failed, or can be said to be in a *failure-like state* is to use an **exclusive methodology** where in we start by identifying that which can be excluded (success and in-process submissions), leaving behind everything else, which we will consider a failure. This ensures that when unpredictable events occur, we err on the side of caution by considering potential unknowns as failure-type. [more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/funnel_logic.md)]
 
-- Unblock the creation of Admin facing Datadog tools that allow insight into what has failed, when failures are happening, and related alerting.
-- Create a sustainable, reusable developer workflow for debugging and remediating failures (de-bus-valuing me).
+### The final, stakeholder facing value of this work...
+
+- Unblocks the creation of Admin facing Datadog tools that allow insight into what has failed, when failures are happening, and related alerting.
+- Creates a sustainable, reusable developer workflow for debugging and remediating failures (de-bus-valuing me).
+- Future proofs our 526 submission infrastructure against "black holes", like the one that kicked off our remediation work and subsequent audit(s).
 
 ## TODO
 ### 1. Repair our Backup Submission Polling Job
 #### Problem Statement
 We have or have had many submissions that seem stuck in a state of `delivered_to_backup`. This may be due to a problem with the 526 Benefits Intake Status job, [defined here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/form526_status_polling_job.rb).  `delivered_to_backup` is a transitory state, implying that a submission was successfully delivered to the Benefits Intake API. However, the purpose of this job is to do a daily query against the Benefits Intake Polling API with every submission in a state of `delivered_to_backup` with the goal of transitioning them into a pass / fail state based on the results of that poll.  The Benefits Intake API assigns these their own internal status of `vbms` or `success` if the submission passed their internal validations, or a status of `error` or `expired` (TODO: double check that `expired` is the correct name for this status) if the submission fails their internal processing. 
 
-Upon investigation of a random set of submissions that were still in the `delivered_to_backup` state, the majority *should* have been transitioned on based on their Benefits Intake status. This implies that the job is doing something wrong.
+Upon investigation of a random set of submissions that were still in the `delivered_to_backup` state, the majority *should* have been transitioned based on their Benefits Intake status. This implies that the job is doing something wrong.
 
 #### Acceptance Criteria
 - When running, the `Form526StatusPollingJob` polls *all* applicable submissions, i.e. those in the state of `delivered_to_backup`
@@ -43,9 +45,16 @@ This will depend on what we identify as the problems with our polling job.
 
 ### 2. Rebuild State from the ground up
 
-#### The Problem(s)
+#### Problem Statements
 
-##### -- Bloated, Confusing State Machine --
+At a high level, there are 3 distinct things we should be doing that we are not. We need to:
+- correctly identifing submissions that can be ignored (successful or in-process) to facilitate our [exclusive methodolgy](
+- correctly record this data about what can be ignored in a way that guarantees data integrity, i.e. in our Database.
+- add an API on top of this data that allows us to easily view subsets of submissions based on this data, most likely model scopes.
+
+Here is a break down of sub-problems we need to address, but currently are not.
+
+##### -- We have a bloated, confusing State Machine --
 
 Currently, we have the following states, `:delivered_to_primary, :failed_primary_delivery, :rejected_by_primary, :delivered_to_backup, :failed_backup_delivery, :rejected_by_backup, :in_remediation, :finalized_as_successful, :unprocessable, :processed_in_batch_remediation, :ignorable_duplicate`. Many of these names are confusing, such as `failed_backup_delivery`, which indicates a failed HTTP request, vs `rejected_by_backup` which indicates a "fail" type status assignment via Benefits Intake polling.
 
@@ -59,7 +68,7 @@ We have states that create a duplicate source of truth with other, better, more 
 
 **TL;DR: Our solution must eliminate redundant sources of truth.**
 
-##### -- Complex Remediation Lifecycle --
+##### -- The Complex Remediation Lifecycle --
 
 Remediation is an imperfect process. Once a submission has been identified as needing remediation (i.e. it is in a failure state) it is common to send it for remediation more than once. There are a few reaons for this, primarily that remediation is a mostly manual, human process involving long communication chains, expiring documents, and follow up requests. 
 
@@ -71,7 +80,7 @@ In a perfect world, there are be ways to define "true success." This could be gl
 
 **TL;DR: Our solution must support ongoing remediation**
 
-##### -- Evidentiary Chain of Custody --
+##### -- No Evidentiary Chain of Custody --
 
 I'm borrowing a familiar legal term here to underscore the importance of a sub-problem that we are facing. To restate our high level goal, we need a "source of truth" for which submissions have been successfuly handled, and which have not. Tagging give us the programatic representations of these states, but does little to address how submissions enter a success state, or why.
 
@@ -84,18 +93,6 @@ This "list" is comprised of a patchwork of data assembled from shared documents,
 Our system is error prone, and our results must be error free, a clear contradiction . We must fix this, and no solution to 526 remediation can be considered complete without addressing this discrepancy.
 
 **TL;DR: Our solution must codify changes to the history of a submissions remediation lifecycle**
-
-##### -- Filtering out in-process submissions --
-
-At a high level, an 'in process' submission is one that our application is still attempting to process it via the the primary and backup paths. During this time, there are a lot of murkey substates that we are ignoring; for our purpouses they are unimportant. For instance, the presence of an associated `InProgressForm` could indicate a submission is still in progress, or it could mean it's being run on a worker but not yet at the stage of the process where that `InProgressForm` record is removed. Fixing this complexity is out of scope, and ultimately it's not relevant to our goal which is to *find submissions that need remediation*.
-
-At a high level, 'in process submissions' are either
-- still being run on a retyring, async sidekiq worker (happy or backup path)
-- has been sent to the backup path but has not yet received a finalized state from our polling mechanism
-
-I will propose multiple ways to capture this state in the implementation section.
-
-**TL;DR: Our solution must define 'in process' submissions for exclussion**
 
 ##### -- Reliance on failure state assignment --
 In our first version of the state machine, we relied heavily on failure state assignment. For instance, if a submission worker exhausted it's retries, we expected it assign a failure type state using sidekiq's built in `sidekiq_retries_exhausted` functionality. This worked most of the time, but ultimatey, given our stated goal of ensuring we *never miss a single submission* to which end we are using **exclusive methodology**, we have to assume that this code can break or fail to execute, thus failing to assign a failure type state. If this were to happen and we only relied on failure type states, then we would miss that submission. This methodology fails to meet the standard set forward by our stated goals, and in practice, ended up being squirly and is part of the reason our current state machine cannot be trusted.
