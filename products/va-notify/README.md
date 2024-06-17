@@ -18,8 +18,8 @@ Email us at **VA Notify**(oitoctovanotify@va.gov)
 
 # Point of Contacts
 **Product**
-- Chris Johnston, Jeff Barnes, and Christy Tong are currently supporting Enterprise Notifications Platform - VA Notify, please note Beverly Nelson's last day was 4/19/2024
-- Ksenia Belikova, Product Manager - VA Notify
+- Dave Conlon, VA PO - VA Notify, Platform and Strike Teams
+- Ksenia Belikova, Product Manager - Notifications Platform
 - Samantha Jennings, Product Manager - Forms Strike Team
 
 **Engineering**
