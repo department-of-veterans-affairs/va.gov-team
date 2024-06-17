@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated June 3, 2024`
+`Last updated June 17, 2024`
 
 
 > [!TIP]
@@ -20,7 +20,7 @@
    * [VA.gov's approach to accessibility](#vagovs-approach-to-accessibility)
    * [Your role](#your-role)
    * [Join the Accessibility Community of Practice (CoP)](#join-the-accessibility-community-of-practice-cop)
-   * [Contacts](#contacts)
+   * [Primary contacts](#contacts)
    * [Improve your skills](#improve-your-skills)
 
 <!-- TOC end -->
@@ -123,7 +123,7 @@ By doing this, we hope to create products that do more than conform to WCAG 2.2 
 > - You should also watch our [Accessibility Orientation video](https://depo-platform-documentation.scrollhelp.site/getting-started/calendly-orientation-sessions#OrientationSessions-AccessibilityOrientation).
 
 
-## Your Accessibility Role
+## Your role
 At VA.gov, accessibility responsibilities are split between product and support teams. Your role will differ depending on what team you're on.
 
 ### Embedded on a product team
@@ -181,8 +181,8 @@ Join us!
 
 Meeting Name | About | Frequency | Joining
 ------------------|------------------|--------------|--------------|
-**VA A11y Specialist Weekly Sync** | All a11y specialists meet for community support and to discuss group topics | Thursdays at 12:30 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
-**VA A11y Specialist Office Hours** |`Optional` a11y specialist only calls for us to support one another | Fridays at 11:00 a.m. ET. | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
+**VA A11y Specialist Weekly Sync** | All a11y specialists meet for community support and to discuss group topics | Thursdays at 1:00 ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y weekly sync Zoom call](https://adhocteam-us.zoom.us/j/89015804002?pwd=WCtWaUt4eWtETThVQ3VSTzFmendtQT09). 
+**VA A11y Specialist Office Hours** |`Optional` a11y specialist only calls for us to support one another | Fridays at 11:00 a.m. ET | You'll receive a calendar invite on Slack. If you don't receive it, use this link to join our [a11y office hours Zoom call](https://adhocteam-us.zoom.us/j/85623586331?pwd=SEFhUUFzckMyN2RXSXA0STFseVZIdz09).  
 **VA.gov 508 Monthly** |Opportunity to chat with folks from VA 508 Office, Veterans from Blinded Veterans Association and National Association of Blinded Veterans | 3rd Wednesday at 4:00 ET | [Request to join by reaching out to Martha, OCTO's accessibility lead](https://dsva.slack.com/archives/D04NHP2FGEP) 
 **CAIA Office Hours** |The CAIA team holds office hours every Tuesday at 4:00 ET. If you're on a product team and want any content, information architecture, or accessibility feedback, chat with CAIA!| Tuesdays at 4 p.m. ET | [Sign up for a time slot](https://dsva.slack.com/docs/T03FECE8V/F06JTSH7CHZ) on CAIA's Canvas. 
 
@@ -236,7 +236,7 @@ Calling all CAIA a11ys! Use `@sitewide-caia-accessibility` in Slack to ping all 
 </details>
 
 
-## Primary Contacts
+## Primary contacts
 If you want to learn more about how accessibility works at VA.gov, reach out to:
 - [Martha Wilkes](https://dsva.slack.com/archives/D04NHP2FGEP)  OCTO - Accessibility Strategist/Designer [VA]
 - [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - CAIA - 508 Accessibility Specialist [Oddball]
