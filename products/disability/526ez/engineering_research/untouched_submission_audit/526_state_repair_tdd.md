@@ -42,6 +42,8 @@ We have or have had many submissions that seem stuck in a state of `delivered_to
 
 Upon investigation of a random set of submissions that were still in the `delivered_to_backup` state, the majority *should* have been transitioned based on their Benefits Intake status. This implies that the job is doing something wrong.
 
+NOTE: in the next phase, we will be gutting the state machine and `delivered_to_backup` will be replaced with `backup_submitted_claim_status`. That doesn't change the need here; our concept of success-type state is built upon backup path polling. The change from our old state machine to our new claim status is superficial.
+
 #### Acceptance Criteria
 - When running, the `Form526StatusPollingJob` polls *all* applicable submissions, i.e. those in the state of `delivered_to_backup`
 - When returning a "pass" type status for a submission, the submission is successfully and reliably transitioned into a state of `finalized_as_successful`
