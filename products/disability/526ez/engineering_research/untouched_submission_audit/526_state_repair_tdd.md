@@ -9,7 +9,8 @@
 - **"In process" / "In progress"**: "In process" Referes to an instance of `Form526Submission` that is not yet ready to be defined as a success or failure. "In progress" refers to a submission that a Veteran is still working on, and is a sub-set of "in process". I'm intentionally using similiar language because they are, for our purposes, functionally the same in how we handle them. We don't want to get into the details of these sub-states, just know that anything "in process" can be excluded when we attempt to identify failures.
 - **success**: Referes to submission for which there is currently no futher or planned work required from us, the vets-api team, in order to fullfil our contract with the submitting veteran. The submission has passed successfully through our system to the relevant next step. Also refered to as "done" and "success type state". 
 - **remediation**: Any process outside of the "happy path" or "backup path" form submission flow for 526 that is used to move a submission into a success state.  Typically this involves a developer and stake holder working closely to identify failed submissions and package them into a processable format, then passing that package off to relevant parties.
-- **state machine**: A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. *The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.* 
+- **state machine**: A "state machine" is a codified way of describing changes in data based on system events. It's a programmatic concept, not a user facing tool. *The Stakeholder facing layer will be Datadog tools that show failed submissions per unit time.*
+- **timeboxed age limit**: A grace-period in which a submission that is neither explicitly success nor failure type may be considered 'in process'. When this expires, if a submission has not become success type, it defaults to failure type. 
 
 ## Resources
 - [Original document describing the work of "Auditing" our database for untouched submissions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/post_remediation_audit_for_untouched_submissions.md).
@@ -114,13 +115,13 @@ Failure state assignment is still a good idea, and we should do it. When it work
 
 ### Acceptance Criteria
 
-To recap our stated, high-level goals, Our solution must do these three things:
+To recap our [stated, high-level goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#problem-statement-1), Our solution must do these three things:
 
-- **Create data:** Allow identification of submissions that can be ignored (successful or in-process) to facilitate exclusive methodology.
+- **Create data:** Identify submissions that can be ignored (successful or in-process) to facilitate exclusive methodology.
 - **Record data:** This data should live in our database, not external documents.
 - **Expose data:** We need codified ways of interacting with this data and view submissions by state.
 
-and our implementation must:
+and our implementation must also:
 
 1. Be simple
 2. Remove redundant sources of truth
@@ -131,22 +132,73 @@ and our implementation must:
 
 ### Implementation Design
 
-revising our 3 high level goals
+We can ticket and complete the following tasks, in this order
+
+#### 1. Facilitate Recording of Data
+Part of the reason we are still auditing our data is because we didn't take time to set up a sustainable process for recording it the first time around. Our first step is to facilitate the recording of success-type and in-process type submission states. To this end, our tasks are
 
 
-Using a state machine to track remediation breaks down when we consider the compleixty of the remediation lifecycle and our need to codify context. Remember that our 526 state is really only required to track everything after the happy path fails. Defining the state of post-happy-path submissions is actually two sub problems
-- record successful backup path submission
-- record instances of remediation
+##### a. Create a SubmissionRemediation model
 
-The first is a boolean that is handled by the fixing of our polling. The second in a one-to-many relationship. Our first pass at a 'state machine' was opaque and insufficuent precisely because we were trying to track two very different types of data with one value. In this spirit I propose we
-1. remove the `Form526Submission`'s `aasm_state` value (and related state machine code) altogether and replace it with a simple boolean field, `accepted_by_backup_path`. This is as simple and non-redundant as it gets.
-2. create the model `SubmissionRemediation`
+This allows us to do a fe things. First, track every remediation effort with flexible context data with a text field where we can add data about the remediation effort, e.g. "remediated as part of the 2024 Code Yellow". Second, to track multiple remediations for a single submission. We should know every time a submission was sent for remediation. This will preserve valuble context about why a submission was remediated, how many times it was remediated, and give us bread crumbs incase of failed remediation. Third, a free standing model for remediation allows us to give instances their own tag or state, thus marking previous remediations as unsuccessful if / when a downstream team comes back to us with follow up requests. 
 
-#### 1. accepted_by_backup_path boolean for backup submissions
+This is the critical peice that allows us to **Record data**
 
-When you break down the state machine, this is actually the only thing we need to track. Everything up to this point, including complete failures, can either be account for with the presence or absense of the `.*submitted_claim_id` values, or is not something we actually care about tracking. Here's a breakdown;
-- `delivered_to_primary` is implied by the presence of a `submitted_claim_id`
-- `failed_primary_delivery` is implied by the absense of a `submitted_claim_id`. This was initially intended as a transitional state for submissions that were on their way to the backup path, however there is no real reason to track it *if* we only consider submissions outside of the retry window
+**Model Structure**
+- `form526_submission_id` - foreign key to facilitate submission `has_many` remediations / remediation `belongs_to` submission association
+- `lifecycle` - Array to record instances of context. These will be required for `create` and `update` actions. 
+- `success` - boolean with a default of `true`
+- `created_at` - criticle for accessing the most recent remediation
+- `updated_at` - why not
+- `ignored_as_duplicate` - boolean with default of `false`.
+  - Model Validation prevents `ignored_as_duplicate: ture` and `success: false` from being present on the same record. This would be a paradox, as an ignorale duplicate is fundementally a submission where we have determined there is no further remediatory action required.
+
+**Model Methods**
+- `mark_as_unsuccessful`
+  - transition the record to `success: false` and log the change to Datadog.
+  - requires a `context` argument to be added to the `lifecycle` value
+  - timestamps the incommning `context` string before saving
+- `ignored_as_duplicate?`
+  
+NOTE: We could call this `Form526Submissions::Remediation` but we also remediate other submission types. If we keep it non-specific, we may be able to reuse this model as a polymorphic solution for other form remediations in the future.
+
+
+#### b. Add `backup_submitted_claim_status` enum to the `Form526Submission` model
+
+This enum will have 3 allowed values, `:accepted`, `:rejected` and `nil`.
+
+- `nil` is the default state.
+  - A submission with a `submitted_claim_id` will remain `nil` forever
+  - A submission with a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `nil` is assumed to still be processing, unless otherwise identified as a failure by the analyzing agent (e.g. a scope on the model that looks for stuff that's been pending *too long*).
+- A submission with a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `:accepted` is success type.
+- A submission with a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `:rejected` is failure type.
+- *Anything else is a failure-type state.* Remember we are using the *exclusive methodology*, therefore if a submission ever gets in a weird state where it has some mismatch of the above data points, we default to assuming it needs investigation. Remediation may or may not be necessary, but that will be determined by investigation.
+
+Note that we are *not* adding a `processing` state. While tempting, this would violate our need for elimination of duplicate sources of truth. 
+
+##### c. Add methods and scopes to the `Form526Submission` model to leverage the data in the `SubmissionRemediation` model.
+
+By adding scopes and helper methods to `Form526Submission` we allow for simple, robust interaction with the new underlying data provided by the `SubmissionRemediation` model and the `accepted_by_backup_path` enum.
+
+- `remediated?` (instance method) that checks if a submission's most recent `submission_remediation` exists and has a value of `success: true`. Note that this doesn't imply success or failure state on it's own. The purpose of this method is to help demistify this logic for future developers and stakeholders.
+- `success_type?` (instance method) returns a boolean based on the following criteria
+  - has a `submitted_claim_id` and a `backup_submitted_claim_status` of `nil`
+  - has a `backup_submitted_claim_id` and a `backup_submitted_claim_status` of `accepted`
+  - has a *most recent* `submission_remediation` record with a value of `success: true`
+- `in_process?` (instance method) returns a boolean based on the following criteria
+  - true if a submission does not have a `submitted_claim_id` or a `backup_submitted_claim_id` and is within the timebox age limit.
+- `failure_type?` (instance method) negates the above `success_type?` and `in_process?` method.
+- `success_type` (scope) queries all submission records that would meet the same criteria defined in the `success_type?` method. 
+- `failure_type` (scope) anything that is not captured by the above `success_type` scope.
+
+When all is said and done, the `failure_type` scope is what we've been after all this time. With this tool in place, everything we've done in the past year to identify and track failures will be reduced to the following query `Form526Submission.failure_type`. That's it, that's every other audit forever, plus monitoring and reporting!  These methods allow us to **Expose Data** for logging and programatic opperation (this is still not admin facing exposure!!).
+
+##### d. Remove the `aasm_state` value and legacy state machine code.
+
+As a sanity check, let's see how all of this data would be captured by our new paradigm
+
+- `delivered_to_primary` is implied by the presence of a `submitted_claim_id`. Even if a submission also somehow has a `backup_submitted_claim_id` and remediations, we still know it was technically delivered to primary.  This is a success type submission.
+- `failed_primary_delivery` is implied by the absense of a `submitted_claim_id`. This was originally a transitional state, however there is no need to have an explicit state here; the submission will either soon receive a `backup_submitted_claim_id`, or will never receive either, putting it into a timebox-based failure state.
 - rejected_by_primary
 - delivered_to_backup
 - failed_backup_delivery
@@ -157,16 +209,7 @@ When you break down the state machine, this is actually the only thing we need t
 - processed_in_batch_remediation
 - ignorable_duplicate
 
-#### 2. SubmissionRemediation model for remediations
-
-We could call this `Form526Submissions::Remediation` but we also remediate other submission types. If we keep it non-specific, we may be able to reuse this model as a polymorphic solution for other form remediations in the future.
-
-failed happy path
-was sent to backup path <- needs polling
-was approved by backup path <- based on polling
-was rejected by backup path <- based on polling
-was remediated
-
+##### e. run a final audit and backfil
 
 ## Dependancies
 
