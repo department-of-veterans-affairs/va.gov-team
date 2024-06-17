@@ -89,7 +89,7 @@ If the authenticated user is not identity-verified, the platform-provided `<Iden
 
 ![not verified message](./assets/my-health--landing-page--not-verified.png)
 
-If the authenticated user is not a registered VA Patient (e.g. - the user has no associated treatment facilities), the `<UnregisteredAlert />` component is displayed.
+If the authenticated user is not a registered VA Patient (e.g. - the user has no associated facilities), the `<UnregisteredAlert />` component is displayed.
 
 ![not registered message](./assets/my-health--landing-page--not-registered.png)
 
