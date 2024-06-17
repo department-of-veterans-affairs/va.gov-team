@@ -6,7 +6,11 @@
 - Next meeting facilitator: Syd
 - Agenda topics [per Slack thread](https://dsva.slack.com/archives/C068Q9DQACX/p1718630778474219):
     - [Process flows](https://dsva.slack.com/archives/C05UDS77ZPH/p1718138441946389) Mary posted a bit ago and [processes](https://dsva.slack.com/archives/C05UDS77ZPH/p1716583521410209) posted by Premal - does the resolution of these meet our needs?
+        - Example of [[workflow diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/lighthouseapiplatform7991/1631736307705/31e23e9b9754a0ffceecdc2f037dc86976553b08?sender=ud64d6310f5d321d8542a2119) Lois shared
     - Rescheduling research sync? It's at the same time as a stakeholder interview.
+        - 
+    - Alternate signer from HE side
+        - 
 
 ### Decisions and action items
 - 
