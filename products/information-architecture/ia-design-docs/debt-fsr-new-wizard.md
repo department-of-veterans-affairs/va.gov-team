@@ -1,10 +1,11 @@
-# IA Design for new FSR Wizard using 'Complete a subtask' component
+# IA Design for FSR benefit debt management options
 **STATUS: In review**
 
-**Team:** #debt-resolution
-OCTO-DE product owner: @denisecoveyduc
-Product manager: @Tom-Davis
-Designer: @josephrlee, @mgleo, @charlottecesana
+**Team:** 
+- #debt-resolution
+- OCTO-DE product owner: @denisecoveyduc
+- Product manager: @Tom-Davis
+- Designer: @josephrlee, @mgleo, @charlottecesana
 
 **IA Request:** [71331](https://github.com/orgs/department-of-veterans-affairs/projects/929/views/26?pane=issue&itemId=46704947)
 
@@ -24,9 +25,9 @@ Up-to-date diagram can be found on [mural](https://app.mural.co/t/departmentofve
 
 ## <a name="url"></a>URLs
 
-URL: va.gov/manage-va-debt/benefit-overpayment-help
-Breadcrumb: Va.gov home > Manage your VA debt > [H1 TBD by content]
-Note: the breadcrumb is automatically generated in Drupal based on the page placement.
+- URL: va.gov/manage-va-debt/benefit-overpayment-help
+- Breadcrumb: Va.gov home > Manage your VA debt > [H1 TBD by content]
+- Note: the breadcrumb is automatically generated in Drupal based on the page placement.
 
 
 
