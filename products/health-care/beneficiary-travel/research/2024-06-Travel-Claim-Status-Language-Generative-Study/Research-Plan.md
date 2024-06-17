@@ -320,7 +320,7 @@ Tuesday, July 9, 2024 to Friday, July 19, 2024
 * Moderator: Cara Frissell, cara.frissell@adhocteam.us, GitHub: @carafrissell1
 * Research guide writing and task development (usually but not always same as moderator): Cara Frissell
 * Participant recruiting & screening:
-* Project point of contact: Cara Frissell, cara.frissell@adhocteam.us, GitHub: @carafrissell1. If unable to reach, reach out to Micah Taylor.
+* Project point of contact: Cara Frissell, cara.frissell@adhocteam.us, GitHub: @carafrissell1. Also please include Micah Taylor, micah.taylor@adhocteam.us in all communication.
 * Participant(s) for pilot test:
 * Accessibility specialist (for sessions where support for assistive technology may be needed): not needed
 * Note-takers: Micah Taylor
