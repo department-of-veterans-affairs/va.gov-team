@@ -12,6 +12,10 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 6/17/2024
+- Updated eCheck-in and Pre-Check-in to remove underscores from the url shortener; this avoids an edge-case scenario where a Veteran may get an invalid link error 
+    - [Ticket 85564](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
+
 ## 5/30/2024
 - Update eCheck-in to allow Veterans to only submit one travel reimbursement claim per day (Logic to calculate travel claim reimbursements for Veterans when they have appointments at multiple facilities on the same day is complicated. It was decided that we should refer the Veteran to the BTSSS portal to file claims when this scenario (edge case) arises.)
     - [Ticket 83664](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83664)
