@@ -17,7 +17,9 @@
 
 ### Finding #2: Interactions with the Other Health Insurance form (OHI, Form 10-7959c) PDF and its associated screen in the form flow were consistent points of frustration and confusion.
 
-* 8 of 13 participants were confused and/or frustrated by the interaction and process surrounding the 10-7959c PDF. Participants were initially confused about the page header on the OHI upload screen because it was shared with the previous screen, which contained the “Do you have other health insurance?” question. Some participants who answered that they did not have other health insurance (OHI) were confused about why they were still being asked to provide information about it on the next page and form 10-7959c. 
+* 8 of 13 participants were confused and/or frustrated by the interaction and process surrounding the 10-7959c PDF. Participants were initially confused about the page header on the OHI upload screen because it was shared with the previous screen, which contained the “Do you have other health insurance?” question. Some participants who answered that they did not have other health insurance (OHI) were confused about why they were still being asked to provide information about it on the next page and form 10-7959c.
+
+> **P2:** “My experience and the experience of others - hey we just need to verify your OHI - they have the application - they don't need it, they've got it. I have a feeling that CHAMPVA can know I have OHI - I expect that they would sit on my application until I called to check on the status.”
 
 ### Finding #3: The file upload summary page created for this form was well-received, but participants demonstrated some confusion about the difference between “optional” and “required” documents. 
 
