@@ -5,7 +5,7 @@ The VA.gov Identity team maintains a [Postman Collection](https://github.com/dep
 ## VA Identity Collection Variables
 
 The variable values needed to connect to a SiS instance are managed within the `Variables` subtab in the `VA Identity` collection management:
-![VA Identity Postman Variables view](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/6c6e570d-1dbf-459f-a616-e83c01d60f76)
+![VA Identity Postman Variables view](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/af6bbe34-aba9-448c-bbe1-2f1de549f7ad)
 
 ## Localhost authentication
 
@@ -29,3 +29,16 @@ Interacting with dev & staging SiS through Postman is largely the same as the pr
 
 1. The `vets_api_env` variable must be set to `https://{dev|staging}-api.va.gov` - note the necessary `https` scheme.
 2. In order to prevent the vets-website frontend from calling the `/token` endpoint immediately and rendering the copied `code` useless you must prevent the request from sending in your browser's devtools: block `{dev|staging}-api.va.gov/v0/sign_in/token`
+
+## Mocked Authentication
+
+The Identity Postman collection can also interact with Sign in Service [mocked authentication](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Mocked%20Authentication) service. The routes necessary for this are found under the `Sign In Service >> Mock Auth` directory. Unlike standard authentication which requires the web browser to perform a real login with the chosen credential service provider, mocked authentication can be performed entirely within Postman on localhost, development, and staging `vets-api` environments.
+
+1. Call the `authorize state` route to generate the appropriate state. This call uses the `acr` and `csp_type` collection variables - set them for the CSP and ACR/LoA of the test user you wish to authenticate with. The returned state value is parsed from a 200 response and saved in the `mock_auth_state` collection variable.
+2. Call the `credential_list` route with the same `csp_type` to receive a list of the mocked credentials currently available on the requested `vets-api` instance. After selecting a mock credential copy the `encoded_credential` value for that user and save it in the `mock_encoded_credential` collection parameter.
+    * `encoded_credential` in the response
+   ![encoded_credential](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/487cd01d-8dcb-481c-b628-7e38b7ecaf59)
+    * saving the `mock_encoded_credential` collection variable
+   ![encoded_credential_variable](https://github.com/department-of-veterans-affairs/va.gov-team/assets/20125855/9ff05dcd-42a3-41c0-88ab-f234f5821ee7)
+3. Call the `mock authorize` endpoint with your updated `state` & `credential_info` values. If successful you will receive a similar response to the SiS `/callback` response with a `code` included. This `code` parameter will automatically be saved to the VA Identity `auth_code` collection variable.
+4. You can now call the standard SiS PKCE Auth `/token` route, passing the saved `auth_code` collection variable. If successful you will receive a 200 response and have the returned tokens set to your VA Identity collection for use against authenticated routes.
