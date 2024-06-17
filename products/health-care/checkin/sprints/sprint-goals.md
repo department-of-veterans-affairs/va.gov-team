@@ -35,12 +35,7 @@
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - Schedule Staging Review for New Landing Page minus the Upcoming Appointments section
-        - 🟩 [[FE] Perform Accessibility Testing & Create Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)
-        - 🟥 [[UX] Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
-        - 🟪 [[PRODUCT] Run Test Cases for Functional Testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
-        - 🟪 [Update Product Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
-        - 🟥 [Update Design Artifacts for Release](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
-        - 🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
+        - We need tickets for "new" MVP
     - **Sub Goal: 2024 Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
