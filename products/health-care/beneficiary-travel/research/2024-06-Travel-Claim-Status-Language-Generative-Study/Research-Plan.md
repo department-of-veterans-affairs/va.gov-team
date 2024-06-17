@@ -156,24 +156,14 @@ _Secondary criteria (nice-to-haves)_
 
 6. Do you need to use screen reader technology to use the internet such as VoiceOver on an iPhone? (We ask this because we want to make sure that our application works for people who rely on these types of technologies.)
 * Yes (Go to Screener question 7) 
-* No (Does not meet criteria for screen reader user - Go to Screener question 10)
+* No (Does not meet criteria for screen reader user)
 
-7.  (Only if yes to Q6) Please list the name of the screen reader technology you intend to use during the session. 
-- Open text field. Required.
-
-8. (Only if yes to Q6) We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader. 
+7. (Only if yes to Q6) We want to make sure our prototype works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader. 
 * Beginner 
 * Intermediate 
 * Advanced 
 * Expert
 
-9. (Only if yes to Q6) Are you willing to use this assistive technology during the session if needed? 
-* Yes (Meets criteria for AT user) 
-* No (Does not meet criteria for AT user - both screen reader user OR screen magnification user)
-
-10. Are you willing and able to show up for a 60 minute interview over Zoom on a laptop or desktop device with a secure internet connection?
-* Yes (Meets criteria) 
-* No (Does not meet criteria)  
 
 ## **Timeline**
 
