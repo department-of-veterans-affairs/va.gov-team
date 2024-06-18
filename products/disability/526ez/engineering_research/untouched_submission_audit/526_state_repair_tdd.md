@@ -199,7 +199,7 @@ By adding scopes and helper methods to `Form526Submission` we allow for simple, 
 
 When all is said and done, the `failure_type` scope is what we've been after since day one. With this tool in place, everything we've done in the past year to identify and track failures will be reduced to the following rails command; `Form526Submission.failure_type`. 
 
-##### d. Remove the `aasm_state` value and legacy state machine code.
+#### 2. Remove the `aasm_state` value and legacy state machine code.
 
 As a sanity check, let's see how all of this data would be captured by our new paradigm;
 
