@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 6/18/24
+*   Catching up after on-site
+
 ## 6/4/24
 *   On-site next week
 
