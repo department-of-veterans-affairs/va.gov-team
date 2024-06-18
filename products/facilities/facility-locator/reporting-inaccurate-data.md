@@ -7,7 +7,7 @@ Jump to:
 * [Addresses, phone numbers, hours, map thumbnails &#8595; ]([#addresses-phone-numbers-hours-map-thumbnails)
 * [Services &#8595; ](#services)
 * [Facility status &#8595; ](#facility-status)
-* Facility & CMS Team workflows
+* [Facility & CMS Team workflows](#facilities--cms-team-workflows)
 
 ## Addresses, phone numbers, hours, map thumbnails
 
