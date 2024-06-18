@@ -9,7 +9,6 @@
     - [Product Releases](#product-releases)
     - [Metrics and Veteran Feedback](#metrics-and-veteran-feedback)
     - [Production Designs](#production-designs)
-    - [Content](#content)
     - [Research](#research)    
     - [Testing](#testing)
     - [Production Support](#production-support)
@@ -95,10 +94,6 @@
 - [Working | Pre-check-in](https://www.figma.com/file/mVg6S9xgiQpWbAOAvptQOZ/Pre-check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=wncuIj1Ko8hFd9sf-1)
 - [Working | Unified check-in](https://www.figma.com/file/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-Check-in?type=design&mode=design&t=87McIUiwLhq3yP2R-1)
 - [Working | Telehealth content matrix](https://www.figma.com/file/th4V0mCvPbKYLCDgaZjovw/Telehealth-%7C-Check-in?type=design&node-id=7%3A484&mode=design&t=jLY1RZvjDDbrO4zA-1)
-
-#### Content
-- [Text & Error Messages: Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/design/text-and-error-messages.md)
-- [SMS character count calculator (160 characters with spaces is ideal)](https://twiliodeved.github.io/message-segment-calculator/)
 
 #### Research
 - [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research#all-check-in-research-studies)
