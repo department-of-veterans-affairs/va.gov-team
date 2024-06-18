@@ -166,7 +166,7 @@ This allows us to do a few things. First, track every remediation effort with fl
   
 NOTE: We could call this `Form526Submissions::Remediation` but we also remediate other submission types. If we keep it non-specific, we may be able to reuse this model as a polymorphic solution for other form remediations in the future.
 
-#### b. Add `backup_submitted_claim_status` enum to the `Form526Submission` model
+##### b. Add `backup_submitted_claim_status` enum to the `Form526Submission` model
 
 This enum will have 3 allowed values, `:accepted`, `:rejected` and `nil`. Also serves our goal of simplifying state, removing redundant sources of truth, not relying on failure state assignment, and **recording data**.
 
@@ -217,11 +217,11 @@ As a sanity check, let's see how all of this data would be captured by our new p
 
 The old state machine is now redundant, and has been problematic, so we just need to remove it. This serves our goal of making state simple and removing duplicate sources of truth.
 
-### 3. Backfill our new state
+#### 3. Backfill our new state
 
 At this point we will have robust systems in place to track our backup path and remediation submission states! We will need to ingest some data to cover the last year of remediation.
 
-#### a. Run a final audit and backfill our new state
+##### a. Run a final audit and backfill our new state
 
 Now that we have our ways of tracking state, and ways to expose it for testing, we can run a final audit and backfill with actual quality checks.  This will be much faster and easier than our last audit, because we already have all the pieces in place to do it. This will mean taking all of the submissions that have been sent for remediation and backfilling them with their correct `submission_remediation` record context. This step will **create data**. 
 
@@ -232,7 +232,7 @@ Two sources we will use for this data are
  
 NOTE: probably a good idea to poke around and see if there is anything else stakeholders or team members may remember as a source of truth we should review here. Note that it's ok if we forget things, because we will have the ability to easily rinse and repeat in the next stage.
  
-### b. Review / Remediate any remaining failure type submissions
+##### b. Review / Remediate any remaining failure type submissions
 
 At this point we will have the ability to very easily pull a list of submissions that are 'failure type'. This may be 0, it may be 1000. If it's more than a few, then it's likely we need to revisit our backfill lists and make sure it wasn't simply missed. Once we have fully backfilled every single remediation instance with it's appropriate state, anything left will (probably) require remediation. At this point we will have a simple, foolproof way of identifying submissions in need of remediation!
 
