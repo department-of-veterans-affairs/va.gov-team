@@ -51,7 +51,7 @@ ________________________________________________________________________________
          - 🟥 🟨 [Add content into Figma prototype for usability testing](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84211)
          - 🟦 No continuation of work on the CodePen data and time selection calendar 
          - 🟨 Submit research materials to Shane
-         - 🟨 Schedule A11y walkthrough of CodePen prototype (e.g., Brian, Jeana, Jami, etc.)
+         - ✔️ 🟨 Submit CAIA ticket for A11y prototype review and supporting sessions
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
          - ❗ 🟥 [[Design] Make adjustments to MVP and Prototype based on filter conversation with WellHive](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85750)
          - ✔️ 🟥 🟦 Discuss UX around availability via WellHive
