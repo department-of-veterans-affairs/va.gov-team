@@ -26,7 +26,7 @@ Community care providers and pharmacies (usually non-VA facilities)	| Email the 
  
  Facility type	|	Process
 ---	|	---
-VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
+VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of innacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
 VHA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
 Vet Centers | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office or the relevant editor
 Vet Center Outstations | N/A - Services are associated with the main Vet Center, not with the Outstation
@@ -57,6 +57,11 @@ Community care providers and pharmacies (usually non-VA facilities)	| N/A
 
 ### Facilities team
 If Facilities team learns about any incorrect VHA Facility data, contact VHA DM for follow up with the relevant Editor.
+
+Facility type	| Service |	Notes & Process
+---	|	--- | ---
+VHA Medical Centers| Urgent care (UC) / Emergency care (ED) | [LH Slack explainer thread](https://dsva.slack.com/archives/C02BTJTDFTN/p1718720223648529). UC/ED services can come either from Drupal or from Access to Care (ATC). Unlike other services, they are **not** auto-removed from a facility if the billing code has not been used in the last 30 days. We must ask LH to manually reach out to ATC to update the data.
+
 
 ### Helpdesk (CMS Team)
 If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, flag with Editors to follow the runbook above.
