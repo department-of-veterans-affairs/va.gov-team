@@ -71,7 +71,7 @@
         - ✔️ 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
-        - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - ~❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)~
         - ✔️ ❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)
         - ~❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)~
             - Sounds like we need to wait for the approval from IVC
@@ -95,8 +95,7 @@
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
         - ✔️ 🟥 [Update all eCheck-in, Pre-Check-in, and Travel VA Notify Messages to Remove the Trailing Period ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85756)
-        - ~🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)~
-            - Delaying because we got word that the DS minimal header is going through some changes
+        - 🟥 [[DESIGN] Update minimal header component in Figma](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84369)            
         - ✔️ 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
         - ~🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)~
             - Needs more discussion
