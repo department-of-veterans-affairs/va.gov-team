@@ -121,7 +121,7 @@ To recap our [stated, high-level goals](https://github.com/department-of-veteran
 
 - **Create data:** Identify submissions that can be ignored (successful or in-process) to facilitate exclusive methodology.
 - **Record data:** This data should live in our database, not external documents.
-- **Expose data:** We need codified ways of interacting with this data and view submissions by state.
+- **Expose data:** We need codified ways of interacting with this data and viewing submissions by state.
 
 Our implementation must also:
 
