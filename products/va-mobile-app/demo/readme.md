@@ -4,10 +4,9 @@ This file serves as a high level meeting log and demo inventory for the VA Healt
 
 ***
 
-## June 18, 2024: Sprint 99
+## June 18, 2024: Sprint 99 [VA Mobile Sprint Demo - Sprint 99.pdf](https://github.com/user-attachments/files/15892230/VA.Mobile.Sprint.Demo.-.Sprint.99.pdf)
 
-| Team | Topic | [VA Mobile Sprint Demo - Sprint 99.pdf](https://github.com/user-attachments/files/15892230/VA.Mobile.Sprint.Demo.-.Sprint.99.pdf)
-
+| Team | Topic | 
 |---|---|
 | Flagship: Global | Custom Messages for Availability Framework |
 | Flagship: Health & Benefits | Appointments updates  |
