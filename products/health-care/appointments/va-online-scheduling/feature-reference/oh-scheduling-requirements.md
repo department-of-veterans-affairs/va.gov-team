@@ -47,8 +47,11 @@ When choosing a location, a Veteran will be directed to call to schedule if:
 **A Veteran may choose a provider for their appointment.**
 The Veteran is given the option to select:
 - Providers with whom they have had a recent encounter (within the last 36 months) for `Nutrition and Food`.
-- Any provider.
+<!-- - Any provider.
   - This option allows them to choose dates and times for all providers they have had a recent encounter with for `Nutrition and Food`.
+
+This is scenario is not likely to occur.  This option was designed to account for when there are time slots with no provider data which may not be a scenario in reality since there will always be a resource with the Provider as the primary resource (Room as secondary) -Melissa
+ -->
 - None of the options
     - If they choose this option:
       - AND requests are enabled, they are directed to [request an appointment](#requests).
@@ -100,6 +103,10 @@ Q. Can a user schedule into times reserved for new patients?
  - A. Yes. This doesn't make them a new user, they just can steal those time slots.
   
 Q. Who determines whether or not to enable online scheduling/requests for given types of care at OH facilities? Does that happen at the facility level, or higher?
+
+Q. Which types of care or "services" could allow for the patient to schedule with a provider they have never seens before? 
+- A. Whole health, for example the Tai Chi instructor might have been an instructor you have never had. <!-- This was an example Tia gave, I am not sure it is relevant since we do not have a type of care called whole health. -Melissa
+ -->
 
 ## Out of scope
 
