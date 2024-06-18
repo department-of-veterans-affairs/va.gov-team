@@ -36,8 +36,6 @@
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)        
         - Schedule Staging Review for New Landing Page minus the Upcoming Appointments section
-    - **Sub Goal: 2024 Q2 Translations**
-        - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
