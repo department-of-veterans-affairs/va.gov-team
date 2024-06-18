@@ -28,6 +28,8 @@
 - Conduct scrum stand-ups, refinements, sprint reviews, & sprint planning meetings for their team
 - Conduct technical research as necessary (i.e. SPIKE tickets) to support decision making
 - For each initiative,
+  - Attend the hand-off from UX (no implementation work will be completed until this hand-off takes place)
+  - Create implementation tickets as necessary
   - Participate in collab cycle meetings as invited by UX
   - Implement the initiative for the product(s) on which their engineers work
   - Work with UX to validate every ticket
@@ -48,6 +50,7 @@
   - Send system down notifications
 - For each initiative,
   - Create a feature/initiative brief for the affected product(s)
+  - Create a user story (Epic) with links to final UX artifacts
   - Participate in collab cycle meetings as invited by UX
   - Communicate initiative implementation status during the bi-weekly priorities meeting
   - Validate feature/initiative/tickets
