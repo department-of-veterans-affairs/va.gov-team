@@ -1,4 +1,5 @@
-# Conversation Guide - Summer 2024   
+# Conversation Guide, Veteran Onboarding
+Summer 2024
 
 ---
 ## Moderator logistics   
@@ -25,8 +26,7 @@
 
 ### Intro - 5 minutes   
 
-**Moderator:** Thanks for joining us today! My name is Liza and some colleagues who will be taking notes. But before we get to them...   
-Today we're going to talk about your first experience logging into your account on VA.gov. Before we start, I have a few things that I want to go over with you:
+**Moderator:** Thanks for joining us today! My name is Liza and I will be joined by some colleagues who will be taking notes. But before we get to them...Today we're going to talk about your first experience logging into your account on VA.gov. Before we start, I have a few things that I want to go over with you:
 * This entire session should take about an hour. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 * In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 * Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
@@ -36,11 +36,12 @@ Today we're going to talk about your first experience logging into your account 
     * _Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)_
     * _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth_   
 
-**Moderator:** You'll be interacting with a prototype today. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. If there’s anything that doesn’t work, please let us know what you’d expect it to do. And since it's a demo, none of your actions will affect your VA information or benefits.   
+**Moderator:** You'll be interacting with a prototype today. This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. If there’s anything that doesn’t work, please let us know what you’d expect it to do. And since it's a demo, none of your actions will affect your VA information or benefits. 
+
 Likewise, as a researcher, I cannot provide any advice or guidance around your benefits or experience with VA.   
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-    * Knowing that, are you comfortable if I record my screen and audio as we talk today?
-    * Once I hit record, I will ask again, so that we have the recording of the confirmation.
+Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.  
+* Knowing that, are you comfortable if I record my screen and audio as we talk today?
+* Once I hit record, I will ask again, so that we have the recording of the confirmation.
   
 _Start recording._
 
@@ -54,11 +55,11 @@ _Start recording._
 2. How long did you serve?   
 1. When did you separate or retire or are you in the process of separation?   
 2. Have you already created an account on VA.gov?   
-    1. Have you used Login.gov or ID.me or another system like DS Logon to verify your identity?   
+    a. Have you used Login.gov or ID.me or another system like DS Logon to verify your identity?   
 3. If you can recall, what were your first impressions interacting with VA.gov?   
 
 ---
-### Section 1 [Additional Background] - 10 minutes*
+### Section 1 [Additional Background] - 10 minutes
 
 **Moderator:** Now I'm going to ask a few more questions specifically about your transition out of the military.   
 1. Can you tell me a little more about your separation or retirement process?   
@@ -77,11 +78,11 @@ _Start recording._
 ---  
 ### Section 2: [My VA: LOA1 Message] - 10 minutes
 #### Review
-**Moderator:** Now I’d like you to take a moment to review this page.It is a prototype, so in case something doesn’t work like it might on a real site, just go ahead and share with us how you think it should work.   
+**Moderator:** Now I’d like you to take a moment to review this page. It is a prototype, so in case something doesn’t work like it might on a real site, just go ahead and share with us how you think it should work.   
 
 Please take as long as you’d like to read and explore. If you’re comfortable, I’d love to hear you “think out loud” as you go and share any thoughts. Remember, there are no wrong answers and I will not be offended by anything you share.   
 
-**Probing questions:**   
+**Questions:**   
 1. Does this page look familiar to you?   
 2. What, if anything, about this page stands out to you?   
 3. What were you hoping to find here?
@@ -92,116 +93,91 @@ Please take as long as you’d like to read and explore. If you’re comfortable
 #### Task
 **Moderator:** Now that you’ve taken a look at the page, what would you do from here?   
 
-_If the user would like to verify, tell them to go ahead and do so, then move on to probing questions. If the user clicks on the other links, ask them “Where would you expect that link to go?”_   
+_If the user would like to verify, tell them to go ahead and do so, then move on to Section 3 questions. If the user clicks on the other links, ask them “Where would you expect that link to go?”_   
 
 ---
-### Section 3: [LOA3 Message] - 10 minutes**
+### Section 3: [LOA3 Message] - 10 minutes
 #### Review   
 _If the user did not attempt to verify:_    
 **Moderator:** Now we’re going to pretend that you’ve gone through the identity verification process that was called out by the green box. Go ahead and click on the “Verify your identity” link.   
 
 _If the user has already ‘verified’ as part of the previous section, move on to probing questions._   
 
-**Probing questions:**   
+**Questions:**   
 1. What, if anything, about this page stands out to you now?   
 2. Is there anything different that you notice about this page?   
 3. Do you have any thoughts on the content and instructions on this page?   
 4. Is there anything here you don’t see that you would find valuable?   
 
-**Task**
+#### Task
+**Moderator:** Now that you’ve taken a look at the page, what would you do from here?   
 
-Now that you’ve taken a look at the page, what would you do from here?
+_If the user would like to add their contact info, tell them to go ahead and do so, then move on to Section 4. If the user clicks on “Get your Veteran status card,” ask them, “Where would you expect that link to go?”_    
 
-_If the user would like to add their contact info, tell them to go ahead and do so, then move on to probing questions. If the user clicks on “Get your Veteran status card,” ask them, “Where would you expect that link to go?”_
-
-<h3>**Section 4: [[Profile Completion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/profile-completion/discovery-research/conversation-guide.md)] - 15-20 minutes**</h3>
-
-
-**Review - Entry Point**
-
-_If the user has not yet moved to add their contact info, prompt them to click the “Add your contact information link.”_
-
-Instructions: Now imagine this was your profile on the website, what would you do from here?
-
-
+---
+### Section 4: [[Profile Completion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/profile-completion/discovery-research/conversation-guide.md)] - 15-20 minutes   
+#### Review - Entry Point   
+_If the user has not yet moved to add their contact info, prompt them to click the “Add your contact information link.”_   
+**Moderator:** Now imagine this was your profile on the website, what would you do from here?   
 
 * _If participant says they’d click on the alert, tell them to go ahead_
 * _If participant says anything else, ask why that thing, and then guide them to click on the alert_
 
-**Task - Evaluate steps 0-2 of the Profile Completion Flow**
-
-Instructions: Go ahead and take a look at this page, and tell me what you make of it. Don’t click on anything yet, but I’m curious to know what you’d do from here.
+#### Task - Evaluate steps 0-2 of the Profile Completion Flow
+**Moderator:** Go ahead and take a look at this page, and tell me what you make of it. Don’t click on anything yet, but I’m curious to know what you’d do from here.   
 
 **Questions**
+1. Based on what you see here, are you required to provide this information?   
+2. What would you expect to happen if you clicked on “remind me later”?   
+3. When should “later” be?   
+4. How would you expect to be reminded?   
 
+**Moderator:** Thanks for that. Now you can click on things as you normally would, and please remember to think out loud as much as possible so I can understand how this works for you.   
 
+_If needed, instruct participant to click on action link._   
+_When participant is on step one:_ **Moderator:** Since this is a prototype, these fields won't actually allow information to be entered. You can just click on the field to populate text before moving on.   
 
-1. Based on what you see here, are you required to provide this information?
-2. What would you expect to happen if you clicked on “remind me later”?
-    1. When should “later” be?
-    2. How would you expect to be reminded?
-
-Instructions: Thanks for that. Now you can click on things as you normally would, and please remember to think out loud as much as possible so I can understand how this works for you. _If needed, instruct participant to click on action link._
-
-_When participant is on step one:_ Since this is a prototype, none of these fields will save any of your information. You can enter anything you’d like, it doesn’t have to be your actual contact information.
-
-
-
-* _Allow participant to go through the flow. As needed, ask:_
-1. What do you expect will happen if you choose the “skip this” checkbox?
-2. How do you know how much effort you’re going to have to put into this? (Trying to evaluate if they notice and understand Step X of X heading)
-
-<h4>**Things to note**</h4>
-
-
-
-
+ _Allow participant to go through the flow. As needed, ask:_   
+1. What do you expect will happen if you choose the “skip this” checkbox?   
+2. How do you know how much effort you’re going to have to put into this? (Trying to evaluate if they notice and understand Step X of X heading)  
+ 
+ **Things to note**
 * What did the participant expect from “skip this?
 * What did the participant expect from “remind me later”?
 * Was anything unclear or confusing?
 
-**Task - Evaluate dismissing workflow and remind me later**
-
+#### Task - Evaluate dismissing workflow and remind me later   
 _Pause participant on step 3._
 
-Instructions: I’m going to pause you here for just a moment to ask a few questions.
-
-**Questions**:
-
-
-
+ **Moderator:** I’m going to pause you here for just a moment to ask a few questions.   
+ 
+**Questions**:   
 1. If you changed your mind and wanted to get out of this workflow, would the email and phone number be saved to your profile?
 2. If you changed your mind and wanted to get out of this workflow, would the email and phone number be saved to your profile?
 3. What do you expect will happen if you choose “remind me later” instead of finishing?
 
-**Things to note**
-
-
-
-* What did the participant expect from “skip this?
-* What did the participant expect from “remind me later”?
+**Things to note**   
+* What did the participant expect from “skip this?   
+* What did the participant expect from “remind me later”?   
 * Did they understand that any information previously entered would be saved to their profile if they exited?
 
-<h3>**Post-Task Interview - 5 minutes**</h3>
+---
+### Post-Task Interview - 5 minutes
+**Moderator:** Thank you so much for the feedback so far! We're getting close to the end so I have just a few more questions for you about the overall experience today.   
 
-
-
-
-1. If you had a magic wand and could fix anything about the onboarding process for Veterans, what would you do?
-2. Is there anything we didn’t cover today that you’d like to share with me?
+**Questions**:   
+1. If you had a magic wand and could fix anything about the onboarding process for Veterans, what would you do?   
+2. Is there anything we didn’t cover today that you’d like to share with me?   
 3. Any questions for me about what we covered today?
 
-<h3>**Thank-You and Closing - 2 minutes**</h3>
-
-
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+---
+### Thank-You and Closing - 2 minutes
+**Moderator:** We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.   
+Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
 
-<h3>**Emergency Exit**</h3>
-
-
+--- 
+### Emergency Exit   
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.]
 
