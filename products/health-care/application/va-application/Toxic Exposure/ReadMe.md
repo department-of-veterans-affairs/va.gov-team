@@ -1,8 +1,9 @@
 This folder will house documents related to adding Toxic Exposure questions/options to the EZ and EZR forms.
 
-Figma links
-|Purpose|Form|Figma link|
-|Production TERA screens (Military service section)|10-10EZ|[Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7191)|
+### Figma Links
+| Purpose | Form | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------| 
+|Production TERA screens (Military service section)| 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7191) |
 
 Initial note from Jessica Soza regarding the TERA and MOCK draft documents in the archive folder:
 >Attached are the drafts for the 10-10EZ and the 10-10EZR, and a mock-up for reference of the 10-10EZ. The mock-up will be used to help the forms team understand how we want the new TERA questions to look on both forms.
