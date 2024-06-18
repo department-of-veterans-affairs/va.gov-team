@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 #### SPRINT TICKETS
 - **GOAL: (OIG/Congressional request) Add Medication Wording for Appointments (OIG/Congressional request)**
-    - **Sub Goal: [Feature] Medication Wording for Pre-Check-in **
+    - **Sub Goal: [Feature] Medication Wording for Pre-Check-in**
          - ❗🟥 [Design] Pull Wireframes into Our Figma Files
     - **Sub Goal: [Feature] Stakeholder review & collab cycle** Feature to be created
          - 🟨 [Review] Address feedback from the Design review (example)
