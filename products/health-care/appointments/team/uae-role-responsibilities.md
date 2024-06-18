@@ -12,7 +12,7 @@
   - Research & define any business rules
   - Collaborate with development team engineers to determine implementation impediments and/or risks/concerns
   - Create user workflows & system blueprints
-  - Create UI wireframes, including all necessary annotations to communicate functionality
+  - Create UI wireframes, including all necessary annotations or specifications to communicate functionality
   - Create a Platform collab cycle ticket and manage each phase
   - Get final approval for the initiative from Platform teams, OCTO, & any others
   - Schedule a handoff with the appropriate development team(s) to communicate
