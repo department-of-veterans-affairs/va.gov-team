@@ -39,6 +39,7 @@
   - Communicate sprint goals to the team
   - Facilitate stand-ups, refinements, sprint reviews, and sprint plannings
   - Manage/maintain team backlog
+  - Notify stakeholders of any downtime or issues that are affecting production
 - For their product(s)
   - Create & maintain metrics dashboards
   - Create & maintain product guides
@@ -49,8 +50,7 @@
   - Create a feature/initiative brief for the affected product(s)
   - Participate in collab cycle meetings as invited by UX
   - Communicate initiative implementation status during the bi-weekly priorities meeting
-  - Create TestRail test cases
-  - Conduct TestRail test runs
+  - Validate feature/initiative/tickets
   - Create release notes and communicate releases
     
 ### Delivery Managers
