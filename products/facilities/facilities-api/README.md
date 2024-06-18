@@ -65,6 +65,7 @@ In the event that Lighthouse Facilities API releases a new version or is depreca
   - Facility detail page contents for non-modernized facilities (currently: Cemeteries, Benefits offices), e.g. https://www.va.gov/find-locations/facility/nca_907
   - Urgent care > Service type filter options. These options are combined with PPMS data from outside LH API & presented as a single list.
   - Emergency care > Service type filter options. These options are combined with PPMS data from outside LH API & presented as a single list.
+- CTA widget on healthcare apps pages (Medical records, Appointments, Prescription refill, Secure messaging, Lab/test results): uses Facility API user and calls facility-api in order to return Cerner facility data for logged in users 
 
 ### Products/features integrated directly with LH Facilities API data (_not_ via facilities-api):
 
