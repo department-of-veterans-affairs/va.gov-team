@@ -9,7 +9,7 @@ labels:
     "needs-refinement",
     "needs-estimate",
   ]
-assignees: "saderagsdale"
+assignees: ""
 ---
 
 ## Value Statement
