@@ -11,11 +11,11 @@ Current versions:
 1. Facility Locator
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
 3. CTA widget code on Health apps pages:
-  * Medical records
-  * Lab results
-  * Prescriptions
-  * Secure messaging
-  * Appointments 
+    * Medical records
+    * Lab results
+    * Prescriptions
+    * Secure messaging
+    * Appointments 
 
 ## Data sources
 - Lighthouse Facilities API (/va endpoint) -- Lighthouse centralizes data from a variety of other upstream sources, including: 
