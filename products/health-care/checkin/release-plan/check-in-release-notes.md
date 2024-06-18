@@ -12,8 +12,8 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
-## 6/17/2024
-- Updated eCheck-in and Pre-Check-in to remove underscores from the url shortener; this avoids an edge-case scenario where a Veteran may get an invalid link error 
+## 6/18/2024
+- Updated eCheck-in and Pre-Check-in to remove underscores from the url shortener; this avoids an edge-case scenario where a Veteran may get an invalid link error on certain devices
     - [Ticket 85564](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
 
 ## 5/30/2024
