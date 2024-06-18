@@ -23,8 +23,8 @@ ________________________________________________________________________________
 
 ## SPRINT 9 - 6/12/2024 - 6/25/2024 - CURRENT SPRINT
 #### SPRINT GOALS
-- **GOAL: Add Medication Wording for Appointments (OIG/Congressional request) to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.**
-    - **Sub Goal: [Feature] [Feature] Medication Wording for Pre-Check-in **
+- **GOAL: Add Medication Wording for Appointments (OIG/Congressional request)** to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.**
+    - **Sub Goal: [Feature] [Feature] Medication Wording for Pre-Check-in**
     - **Sub Goal: [Feature] [Feature] Stakeholder review & collab cycle**
     - **Sub Goal: [Feature] 3**
     - **Sub Goal: [Feature] 4**
