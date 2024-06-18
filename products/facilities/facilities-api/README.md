@@ -10,6 +10,12 @@ Current versions:
 ## Customers
 1. Facility Locator
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
+3. CTA widget code on Health apps pages:
+  * Medical records
+  * Lab results
+  * Prescriptions
+  * Secure messaging
+  * Appointments 
 
 ## Data sources
 - Lighthouse Facilities API (/va endpoint) -- Lighthouse centralizes data from a variety of other upstream sources, including: 
@@ -57,6 +63,7 @@ In the event that Lighthouse Facilities API releases a new version or is depreca
 
 ### Products/features using facilities-api calls with LH Facilities API data
 
+- VAOS vets-api uses the VADOTGOV_FacilityLocator API consumer's API key to access Lighthouse
 - Facility pages (VAMC, Vet Center, VBA Regional Offices):
   - Other locations list 
   - Mini map - LH request returns the lat/long used to generate the maps
