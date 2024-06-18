@@ -6,13 +6,14 @@ This file serves as a high level meeting log and demo inventory for the VA Healt
 
 ## June 18, 2024: Sprint 99
 
-| Team | Topic |
+| Team | Topic | [VA Mobile Sprint Demo - Sprint 99.pdf](https://github.com/user-attachments/files/15892230/VA.Mobile.Sprint.Demo.-.Sprint.99.pdf)
+
 |---|---|
-| Flagship: Global | TBD |
-| Flagship: Health & Benefits | TBD  |
-| Platform: API | TBD |
-| Platform: QA & Release | TBD |
-| Platform: Design System | TBD |
+| Flagship: Global | Custom Messages for Availability Framework |
+| Flagship: Health & Benefits | Appointments updates  |
+| Platform: API | Claims API Updates, Custom Messages for Availability Framework |
+| Platform: QA & Release | ReactQuery Testing and Dark Mode bug on VA.gov |
+| Platform: Design System | Icon Library Component |
 
 ***
 
