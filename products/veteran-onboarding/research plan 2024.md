@@ -54,19 +54,19 @@ Based on the previous research, we hypothesize that we’ll confirm that:
 
 
 ## Methodology	
-We will do remote testing on a Figma prototype to test the concept of our proposed page and the profile completion flow. This initial study may be only focused on a Figma prototype to test the onboarding and contact information flow concepts.
+We will do remote testing on a Figma prototype to test the concept of our proposed page and the profile completion flow. This initial study may be only focused on a Figma prototype to test the onboarding and contact information flow concepts, before we conduct a secondary study for accessibility in staging.
 
 ### Location
 We will do remote testing using Zoom.   
 
-### Research materials - TBD
+### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 For moderated usability tests: 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/conversation%20guide.md)
+- [Link to prototype](https://www.figma.com/proto/CertVj7cu66kFv9TnseR30/Veteran-Onboarding?page-id=300%3A11104&node-id=300-11287&viewport=553%2C142%2C0.13&t=K7BD3b37FTWP1gKA-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=300%3A11287&show-proto-sidebar=1)
 	
 ## Recruitment	
 
@@ -130,23 +130,23 @@ TBD
 ## Timeline - Proposed
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.   
 
-1. Design intent - Scheduled for 5/14
-2. Accessibility consult: Initiate request 5/14
-3. Conversation guide and additional research materials: To be completed by 5/24
-4. Mid-fi prototype: To be completed by 5/24
-5. Development on MVP: To be potentially start on 5/28 and completed by 6/7
-6. Research submitted and added to repo board: 5/27
-7. Estimated research approval: 5/30
-8. Kickoff Call with Perigean: 6/5
-9. Estimated midpoint: On or before 6/12
-10. Recruitment: Starting the week of 6/10
-11. Pilot session: 6/14
-12. Usability testing: Week of 6/17 onward as needed
+1. Design intent: Complete 5/14
+2. Accessibility consult: Complete 6/11
+3. Conversation guide and additional research materials: Ready for review 6/18
+4. Mid-fi prototype: Ready for review 6/18
+5. Development on MVP: TBD
+6. Research submitted and added to repo board: Estimated June 27
+7. Estimated research approval: Estimated July 5
+8. Kickoff Call with Perigean: TBD
+9. Estimated midpoint: TBD
+10. Recruitment: TBD
+11. Pilot session: TBD
+12. Usability testing: TBD
 
 A [calendar of the proposed timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715094488820/4bf4fbc61074803b5a44b79973852b1c68106d44?sender=u82254af9423cfa236f383306) can be found in Mural
 
 
-### Prepare - TBD
+### Prepare - Not Yet Finalized
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
@@ -156,21 +156,21 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Research sessions - Not Yet Finalized
 * Planned dates of research: Currently we're estimating that our research will take place the week of June 17th.   
 * Proposed dates:
-	- 6/17, 6/18, 6/19, 6/20 (national holiday), 6/21
+	- 7/22, 7/23, 7/24, 7/25, 7/26
 	- We can add on dates the following week to assist with available times
 
 ### Length of sessions
-* Session length: 45 minutes
+* Session length: 1 hour
 * Buffer time between sessions: 30 minutes   
 * Maximum Sessions per day: 3   
 
 ### Availability - Not Yet Finalized
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*  
-* June 17: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
-* June 18: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
-* June 19: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
-* June 20: Blocked off for holiday
-* June 21: Starting time - 8 a.m. EST, ending time 7 p.m. EST
+* July 22: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
+* July 23: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
+* July 24: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
+* July 25: Blocked off for holiday
+* July 26: Starting time - 8 a.m. EST, ending time 7 p.m. EST
 
 If additional times are required for participants, we have some flexibility to extend. 
 
@@ -182,10 +182,11 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Participant recruiting & screening:	Perigean
 - Project point of contact:	Liza McRuer
 - Participant(s) for pilot test: TBD
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	TBD
+- Accessibility specialist (for sessions where support for assistive technology may be needed):	Not this study, but we will conduct a secondary study
 - Note-takers:	Team signup Sheet (Link TBD)
-- Observers:	Sign-up via Slack Canvasa (Link TBD)
+- Observers:	Sign-up via Slack Canvas (Link TBD)
 
 ------
-Update Log:   
+Update Log: 
+Liza McRuer, 6/18/2024, added research materials, updated timeframe
 * Liza McRuer, 6/10/2024, adjusted goals and added in secondary research of testing a profile completion flow
