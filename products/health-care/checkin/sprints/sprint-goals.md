@@ -76,6 +76,7 @@
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ✔️ ❗🟩 [[FE] Create Feature Flag ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85116)
         - ~❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)~
+            - Sounds like we need to wait for the approval from IVC
         - ~❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)~
             - Won't be ready until staging review is done
         - We will need to go through staging review with Appts team before we release
