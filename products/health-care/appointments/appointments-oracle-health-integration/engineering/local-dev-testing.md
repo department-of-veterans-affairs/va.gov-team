@@ -50,6 +50,7 @@ The user's JWT is mocked locally, and in order to successfully test a cancellati
 With both VetsAPI and VetsGov website running locally, open http://localhost:3001/sign-in/mocked-auth in a browser to begin the login process.
 * Choose id.me as the provider
 * Select the `vets.gov.user+81@gmail.com` profile and click 'Continue signing in'.
+* View scheduled appointments on the [appointments page](http://localhost:3001/my-health/appointments/)
 
 ## Capturing vets-api requests
 ### Logging in
