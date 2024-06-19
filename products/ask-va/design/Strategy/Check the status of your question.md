@@ -8,6 +8,7 @@ Jump to:
 - [Background](#background)
 - [Possible benefits](#possible-benefits)
 - [Possible issues](#possible-issues)
+- [Questions](#questions)
 
 ## Background
 
@@ -38,5 +39,9 @@ We hypothesized a risk: If the question is in progress and we add a sign-in link
 - Can we provide wording on the call-to-action link to help reduce confusion?
 - Could the call-to-action link only display if the status was set to ``Solved``?
 
-Could there be a scenario where a user, who wasn't the submitter (e.g. a family member), looked up the reference number, clicked the link, signed in with their account, and then alerted the "question could not be found"—since the question was not submitted under their account?
+## Questions
+1. Does having no link (just like unautheticated submissions) create any frustration for submitters by not providing a quick link to their question?
+![no-link-option](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135402634/35856b8f-f325-46c4-8d6c-0ce174807e2c)
+2. Could there be a scenario where a user, who wasn't the submitter (e.g. a family member), looked up the reference number, clicked the link, signed in with their account, and then alerted the "question could not be found"—since the question was not submitted under their account?
+3. Can we get data if users currently use the "Check the status of your question" in the current Ask VA?
 
