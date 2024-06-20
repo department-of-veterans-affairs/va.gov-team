@@ -346,13 +346,13 @@ A post-mortem should be performed when a critical outage occurs within any appli
 * LoROTA
 * AVS
 
-When an outage occurs, a post-mortem report should be started. This document will be populated by both the Incident Commander and the Product Manager, who may ask for additional inputs and contributions from the support team. The post-mortem report should contain a brief summary of the incident, a timeline of events, notes on what went well and what could be improved, and action items agreed upon by the team.
+When an outage occurs, a post-mortem report should be started. Use this [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/vetext-pci-incident-response/postmortems/template.md) and create a new file titled `yyyy-mm-dd-title-of-the-postmortem.md`. This document will be populated by both the Incident Commander and the Product Manager, who may ask for additional inputs and contributions from the support team. The post-mortem report should contain a brief summary of the incident, a timeline of events, notes on what went well and what could be improved, and action items agreed upon by the team.
 
 Once the post-mortem report has been filled out, a post-mortem session should be scheduled by a member of the team, most commonly the Delivery Manager, Product Manager, or Incident Commander. Meeting attendees should include the Tier 3 Production support team, at least one representative from whichever service encountered the issue, and the client. It’s ideal to schedule this meeting for soon after the outage for the sake of relevancy.
 
 Post-mortem sessions should be concise and walk through items outlined in the post-mortem document. Team members should discuss each section of the document and add on as needed.
 
-Once the meeting is complete, post-mortem documentation should be added to the team SharePoint and shared out through the VA Slack.
+Once the meeting is complete, post-mortem documentation should be shared out through the VA Slack.
 
 
 ## ServiceNow (SNOW) <a name="servicenow"></a>
