@@ -17,8 +17,12 @@
   - If you're unsure of ticket content and completeness, either have the team review it async via Slack or in biweekly backlog refinement  
 - Tickets should be pointed prior to being self-assigned
   - Refer to the team's [guidelines on how to point tickets](https://docs.google.com/presentation/d/1v32urMBT9IU7BBZHuLJN3Tap4dTTxSlbxQ38dFWtpYg/edit#slide=id.g2652fddd673_0_311)
-- Check off task items in the ticket as you complete them so all team members are aware of progress
 - Optional but helpful tip: Put initials next to tasks indicating who will complete them if there are multiple assignees to one ticket
+
+### Working On and Completing a Ticket
+- Check off task items in the ticket as you complete them so all team members are aware of progress
+- Leave comments on tickets to convey decisions made and/or artifacts created that are relevant to the ticket
+- Refer to the team's guidelines for [definition of done](https://docs.google.com/presentation/d/1v32urMBT9IU7BBZHuLJN3Tap4dTTxSlbxQ38dFWtpYg/edit#slide=id.g2330c998e95_0_5) before closing a ticket
 
 
 ## Team / PM / PO decisions
