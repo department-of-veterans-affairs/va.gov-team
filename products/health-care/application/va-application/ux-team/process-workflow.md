@@ -10,11 +10,13 @@
   - Resource links: Anything the assignee might need to reference in order to complete the ticket
   - Tasks: A checklist of action items that must be completed before closing the ticket
   - Acceptance criteria: The definition of done for the ticket. This criteria must be met before closing the ticket.
-
-### Ticket Best Practices
 - Refer to the team's [definition of ready](https://docs.google.com/presentation/d/1v32urMBT9IU7BBZHuLJN3Tap4dTTxSlbxQ38dFWtpYg/edit#slide=id.g2b7676c8a1f_0_0) before starting work on a ticket
+
+### Ticket Refinement and Pointing
 - Tickets should be refined prior to being pointed
+  - If you're unsure of ticket content and completeness, either have the team review it async via Slack or in biweekly backlog refinement  
 - Tickets should be pointed prior to being self-assigned
+  - Refer to the team's [guidelines on how to point tickets](https://docs.google.com/presentation/d/1v32urMBT9IU7BBZHuLJN3Tap4dTTxSlbxQ38dFWtpYg/edit#slide=id.g2652fddd673_0_311)
 - Check off task items in the ticket as you complete them so all team members are aware of progress
 - Optional but helpful tip: Put initials next to tasks indicating who will complete them if there are multiple assignees to one ticket
 
