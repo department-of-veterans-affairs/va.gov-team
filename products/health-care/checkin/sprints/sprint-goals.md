@@ -110,7 +110,6 @@
         - Are there any other FE tickets?
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
-        - 🟩 [Re-Add Vista Appointments to New Landing Pages for Pre-Check-in and Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86410)
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
