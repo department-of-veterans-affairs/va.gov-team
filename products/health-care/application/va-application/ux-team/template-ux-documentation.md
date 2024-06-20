@@ -103,13 +103,26 @@ Additional context and resources around the sections of the template above.
 ----
 
 
-## Optional documentation resources per project
+## Optional documentation resources 
 
 
 
 ### Documenting if Figma
+- [Example]() found in CG file used for 2024 paper form alignment updates
+
+- Documentation can also happen directly in Figma a few different ways:
+  - Section just for design decisions
+  - Notes component via the VADS Annotations Library
+  - Accessibility annotions via the VADS Annotations Library
+  - Content status notes and background via the 1010 shared content library component
+
 
 ### Content status component in Figma
+- See more in [content collab process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-collab.md#content-status-component)
+
+- Use to document content and/or SME decisions and conversations
+
+
 
 
 
