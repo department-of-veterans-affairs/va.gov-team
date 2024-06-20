@@ -42,8 +42,6 @@ We have or have had many submissions that seem stuck in a state of `delivered_to
 
 Upon investigation of a random set of submissions that were still in the `delivered_to_backup` state, the majority *should* have been transitioned based on their Benefits Intake status. This implies that the job is doing something wrong.
 
-NOTE: in the next phase, we will be gutting the state machine and `delivered_to_backup` will be replaced with `backup_submitted_claim_status`. That doesn't change the need here; our concept of success-type state is built upon backup path polling. The change from our old state machine to our new claim status is superficial.
-
 #### Acceptance Criteria
 - When running, the `Form526StatusPollingJob` polls *all* applicable submissions, i.e. those in the state of `delivered_to_backup`
 - When returning a "pass" type status for a submission, the submission is successfully and reliably transitioned into a state of `finalized_as_successful`
@@ -140,7 +138,7 @@ We can ticket and complete the following tasks, in this order
 Part of the reason we are still auditing our data is because we didn't take time to set up a sustainable process for recording it the first time around. Our first step is to facilitate the recording of success-type and in-process type submission states. To this end, our tasks are
 
 
-##### a. Create a SubmissionRemediation model
+##### a. Create a Form526SubmissionRemediation model
 
 This allows us to do a few things. First, track every remediation effort with flexible context data in a text field where we can add data about the remediation effort, e.g. "remediated as part of the 2024 Code Yellow". Second, we will be able to track multiple remediations for a single submission. We should know about every time a submission was sent for remediation. This will preserve valuable context about why a submission was remediated, how many times it was remediated, and give us bread crumbs in case of failed efforts down the line. Third, a free standing model for remediation allows us to give instances their own tags or state, which will be useful in the case of follow up requests that require reverting a submission to failure state, or marking a submission as a duplicate. By creating this model we will support complex remediation lifecycle and codify changes to a remediation lifecycle. Serves our goal of **Recording Data**.
 
@@ -163,8 +161,6 @@ This allows us to do a few things. First, track every remediation effort with fl
   - also requires a `context` argument to be added to the `lifecycle` value
   - timestamps the incoming `context` string before saving
 - `ignored_as_duplicate?`
-  
-NOTE: We could call this `Form526Submissions::Remediation` but we also remediate other submission types. If we keep it non-specific, we may be able to reuse this model as a polymorphic solution for other form remediations in the future.
 
 ##### b. Add `backup_submitted_claim_status` enum to the `Form526Submission` model
 
