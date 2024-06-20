@@ -3,6 +3,38 @@
 🟦 BE 🟩 FE 🟨 DO 🟥 UX 🟪 PM ✔️ Done ❗ Priority ⛔ Blocked 🚧 Rolling Over
 
 <details>
+<summary>SPRINT 12 - 7/24/2024-8/6/2024 FUTURE TENTATIVE</summary>
+
+## SPRINT 12 - 7/24/2024-8/6/2024
+
+#### SPRINT GOALS
+- **GOAL: Support Production**
+- **GOAL: Support Congressional Mandate**
+- **GOAL: Make submission of a travel reimbursement claim easier**
+- **GOAL: Increase PCI Usability**
+- **GOAL: Address Tech Debt**
+
+#### PLANNED RELEASES
+- NONE
+
+#### SPRINT TICKETS
+- **GOAL: Support Production**
+    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82355)
+- **GOAL: Increase PCI Usability**
+    - **Sub Goal: New Landing Page WITH Upcoming Appointments**
+        - **TBD - UX & FE tickets to add upcoming appointments**
+        - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
+        - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
+    - **Sub Goal: CIE Analytics**
+        - 🟦 [[Analytics] Enable travel claim by station widget to show past 1 year of metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82313)
+        - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
+        - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
+- **GOAL: Address Tech Debt**
+    - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+    - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
+</details>
+
+<details>
 <summary>SPRINT 11 - 7/10/2024-7/23/2024 FUTURE TENTATIVE</summary>
 
 ## SPRINT 11 - 7/10/2024-7/23/2024
@@ -35,13 +67,14 @@
     - **Sub Goal: New Landing Page WITH Upcoming Appointments**
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
+    - **Sub Goal: Update Translations**
+        - 🟪 [[Product] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
-        - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
-        - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
-        - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
-        - 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
+        - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
+        - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+    - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
 </details>
 
 <details>
