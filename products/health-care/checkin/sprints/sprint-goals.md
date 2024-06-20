@@ -15,7 +15,8 @@
 - **GOAL: Address Tech Debt**
 
 #### PLANNED RELEASES
-- NONE
+- **Medication Wording for Appointments**
+- **New Landing Page WITH OUT Upcoming Appointments**
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
