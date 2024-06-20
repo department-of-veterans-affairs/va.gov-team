@@ -30,9 +30,9 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
-    - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
+  
 </details>
+
 
 <details>
 <summary>SPRINT 11 - 7/10/2024-7/23/2024 FUTURE TENTATIVE</summary>
