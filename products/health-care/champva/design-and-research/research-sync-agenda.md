@@ -1,9 +1,26 @@
 # Running Design and Research Agenda
 
 ## June 20, 2024
-Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Premal Shah, Bo Altes
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes
 
 ### Agenda topics
+- Discuss process flows/service blueprints
+  - Steven presented the [skeleton](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718652759079/9b8e9bf6a84513373bc234644531bf694d9a4f84?sender=u50b7e26ebf5d18d7d4312080) he worked on in Mural. Would keep them all in one document, rather than one deliverable per Mural.
+  - Lois: it might be more than what we need. If things fit better in separate Murals, make sure there is a sticky or something telling you the other document exists. Especially if we don't want to duplicate work. Worried about too much clutter.
+    - Not sure that linking between these is standard, so may want to look at other examples.
+    - [Map of maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691694705068/f167df3bf00da9473559b70daef763ae41c2aeaa?sender=ud64d6310f5d321d8542a2119)
+      - Disability compensation blueprint is probably more than we want to do
+    - Honing in on the service blueprint and workflow diagram
+    - Don't know if we need info cards
+- Talk through any unclear feedback for FMP readout decks
+  - Monday deck: clean it up, add some visuals, and reduce size of "front matter". Change the titles of the findings to a sentence summarizing the finding.
+  - Stakeholder deck: clean it up, show images/interface when can. Format quotes.
+    - Slide 8 has a really long headline and lots of quotes, but instead say in words what the quotes are supporting. Heading too long. Maybe just one quote and format it so it reads like a quote, summarize them instead. Soften language, perhaps. Second quote is telling a story, which is what we want.
+    - Make sure findings aren't duplicated, and tell the story associated with slide 12 and 9 associated with not interacting with FMP/using providers that will deal with it for them.
+  
+### Decisions and action iteams
+- Incorporate feedback to two readout decks
+- Start with process workflow, and then Steven's service blueprint for claims
 
 ## June 13, 2024
 This meeting has been canceled.
