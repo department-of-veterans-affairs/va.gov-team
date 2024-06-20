@@ -25,11 +25,9 @@
         - Hold Staging Review - TBD by Appts Team
         - ❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
-- **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Stand-alone Travel Application for OH Sites**
-        - Tickets TBD
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
+        - Conduct Staging Review
         - 🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
@@ -58,7 +56,7 @@
 - **GOAL: Address Tech Debt**
 
 #### PLANNED RELEASES
-- NONE
+- **Integrate with claim_status endpoint for handling BTSSS API timeout**
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -71,10 +69,11 @@
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
         - ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
-        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)  
+        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
+        - Release (Let Lori know when)
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
-        - 🟥 **UX schedule hand-off with team when wireframes and content are finalized and approved**
-        - 🟩 **FE Create tickets to finish this work**
+        - 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
+        - Are there any other FE tickets?
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - 🟩 [Re-Add Vista Appointments to New Landing Pages for Pre-Check-in and Check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86410)
@@ -82,14 +81,12 @@
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
-        - **Schedule Staging Review for New Landing Page minus the Upcoming Appointments section**
+        - **Schedule Staging Review for New Landing Page WITH OUT the Upcoming Appointments section**
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
         - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
         - 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
-- **GOAL: Address Tech Debt**
-    - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
 </details>
 
 ## SPRINT 9 - 6/12/2024-6/25/2024
@@ -134,8 +131,8 @@
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - ✔️ 🟥 [[DESIGN] Complete all documentation and hold handoff meeting for landing page pivot ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85723)
-        - Christina to schedule a hand-off to engineering & Product
-        - John/Brian to create tickets for "new" MVP
+        - ✔️ Christina to schedule a hand-off to engineering & Product
+        - ✔️ John/Brian to create tickets for "new" MVP; FYI Lori created [FE ticket ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86410)
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
