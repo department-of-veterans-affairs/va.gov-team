@@ -22,7 +22,7 @@
     - **NOTE: goal is to not have changes/churn to the wireframes/functionality after the handoff as much as possible**
   - Attend appropriate development team stand-ups & refinements as necessary to answer questions and stay in the loop on initiative implementation
   - Validate each implementation ticket (i.e. may not be possible for BE tickets)
-  - Conduct initiative testing to verify initiative is completene and correct
+  - Conduct initiative testing to verify initiative is complete and correct
 
 ### Development Teams
 - Create & manage tickets for their team members
