@@ -12,7 +12,7 @@ Jump to:
 
 ## Background
 
-Currently, the "``Check the status of your question`` "component has not been tested, and no data has been supplied to show if people are using the feature. Currently, a search result for either a question that has been submitted by an authenticated or non-authenticated user displays the same: Status and description (only the ``Closed`` status does not show any description). 
+Currently, the "``Check the status of your question``"component has not been tested, and no data has been supplied to show if people are using the feature. Currently, a search result for either a question that has been submitted by an authenticated or non-authenticated user displays the same: Status and description (only the ``Closed`` status does not show any description). 
 
 ![Search results](https://github.com/department-of-veterans-affairs/va.gov-team/assets/135402634/aec8ff43-7670-4416-83c4-9420c1bf08b8)
 
@@ -26,7 +26,7 @@ There is currently no link to a question submitted by an authenticated user. So,
 We hypothesized that adding a link to sign in, for users who authenticated when they submitted their original inquiry, could help. However, there are questions around this design:
 
 - Would it be helpful for them to move from the search result to the actual details of their question—even if the VA hasn't responded? 
-- Would having a link near the search be more helpful than having to scroll back to the "Sing in or create an account" or  "Sign in" buttons?
+- Would having a link near the search be more helpful than having to scroll back to the "Sign in or create an account" or  "Sign in" buttons?
 - Does the description below the status help a submitter know a response does not have an answer. The description for the ``Solved`` status is the only one giving that information and next steps (reply or ask a new question).
 
 
