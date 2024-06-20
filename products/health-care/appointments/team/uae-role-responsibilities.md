@@ -19,6 +19,7 @@
     - Reason for the initiative (i.e. problem(s) to solve, Veteran impact)
     - Final design artifacts (workflow, blueprints, wireframes, business logic)
     - Target timeline(s)
+    - **NOTE: goal is to not have changes/churn to the wireframes/functionality after the handoff as much as possible**
   - Attend appropriate development team stand-ups & refinements as necessary to answer questions and stay in the loop on initiative implementation
   - Validate each implementation ticket (i.e. may not be possible for BE tickets)
   - Conduct TestRail test runs
