@@ -17,6 +17,8 @@ Restore Service.
 Please note, this is for the calendar year 2024.
 
 #### DORA
+[What is DORA?](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
+
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/99204969/ab6f5714-9876-46ba-a2e5-ccc95896c5dd)
 
 Notify
