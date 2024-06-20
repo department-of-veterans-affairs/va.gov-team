@@ -13,7 +13,7 @@ This process document outlines the steps needed to update the source of truth ux
 
 1. Open a ticket to account for the UX work to update the source of truth files.
 2. FIGMA: 
-    - Move the updated content/designs into the [shared content library file if for the EZ or EZR](https://www.figma.com/design/sxGu2QhRKtsUQqZLbSjWJO/10-10-EZ-%26-EZR-FormContent?node-id=0-1&t=bxW99i9FlFxMxC7R-0) or the component template page of CG file.
+    - Move the updated content/designs into the shared content library file if for the EZ or EZR or the component template page of CG file.
     - In the product Figma file, make sure all the components are synced on the screens and no outdated variants of the components show.
     - If there are new pages added to the form, add these all new pages to the source of truth section of the main product file.
 3. MURAL:
