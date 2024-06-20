@@ -108,7 +108,7 @@
 
 #### Production Support
 - [Responding to Veteran Complaints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/responding-to-veteran-complaints.md)
-- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/checkin-devops/blob/master/docs/PCI%20API%20Tier%203%20Team%20Playbook.md)
+- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/cross-team-initiatives/vetext-pci-incident-response/incident-response-playbook.md)
 - [Production Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
 - [How to Send SNOW Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/snow-reports.md)
 - [How to Send Patient Check-in System Down Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/system-down-notifications.md)
