@@ -1,8 +1,11 @@
 # Unified Appointment Experience - Role Responsibilities
  
 ### OCTO
-- Add new initiatives to the UAE priorities board during the bi-weekly UAE priorities meeting
-- Prioritize initiatives and conveys target dates during the bi-weekly UAE priorities meeting
+- Attend the bi-weekly UAE Priorities meeting
+  - Add new initiatives to the UAE priorities board during the bi-weekly UAE priorities meeting
+  - Prioritize initiatives and conveys target dates during the bi-weekly UAE priorities meeting
+- Communicate target dates or mandates to DMs/PMs/UX
+- Give approval for iniative releases
 
 ### UX Team
 - Create & manage tickets for their team members
