@@ -106,8 +106,8 @@
         - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
         - Release (Let Lori know when)
     - **Sub Goal: Stand-alone Travel Application for OH Sites**
+        - 🟩 [Update Content as Approved by CAIA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86481)
         - 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
-        - Are there any other FE tickets?
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
