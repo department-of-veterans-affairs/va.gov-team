@@ -4,8 +4,7 @@
 ## Product Description
 **Product Overview:** [My VA product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va#product-outline-my-va)
 
-**Project**
-- [Save in Progress configuration enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement)
+**Project:** [Save in Progress configuration enhancement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement)
 
 ## Routes to code
 [Benefit Application Drafts Enhancements - #60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509)
