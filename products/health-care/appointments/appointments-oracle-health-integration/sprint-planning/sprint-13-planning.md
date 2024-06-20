@@ -22,13 +22,13 @@ Sprint 13: 6/18/24-7/1/24
 ## 📋 Previous Sprint Summary:
 In Sprint 12, the team provided support for multiple features and initiatives, outlined as follows:
 * #### Backend support for Oracle Health appointment cancellation to create backend architecture that will enable veterans to be able to cancel appointments within Oracle Health:
-  * In VetsAPI we removed a redundant feature flag. Now the Appointment Read requests are updated to route to VetsAPI Patient Gateway if va_online_scheduling_use_vpg is enabled. We also updated VetsAPI Patient Gateway (VPG) to replace calls to deprecated serviceType field. VPG now works so all Appointments that are returned by VPG populate Appointment.serviceTypes. We also enhance VPGby making it more performant by reworking the Appointment search method to execute in parallelfor  both VAOS and Cerner in sequence. 
+  * In VetsAPI we removed a redundant feature flag. Now the Appointment Read requests are updated to route to VetsAPI Patient Gateway if va_online_scheduling_use_vpg is enabled. We also updated VetsAPI Patient Gateway (VPG) to replace calls to deprecated serviceType field. VPG now works so all Appointments that are returned by VPG populate the Appointment.serviceTypes property. We also enhanced VPG to make it more performant by reworking the Appointment search method to execute in parallel for both VAOS and Cerner. 
 * #### Backend support for Oracle Health slot search to enable direct scheduling 
    *  In Clinical Encounter Service (CES) we added the ability for CES to not only allows the direct reading by ID of slots that exist in Vista, but now also allows direct reading in Oracle Health. 
 * #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities: 
   * In VetsAPI we updated appointment_controller logging to reference VetsAPI patient Gateway (VPG) rather than VAOS. To improve latency we updated CES to use Mobile MVI Service cache-control headers to retrieve cached patient identifiers. We also updated Cerner-mock to identify and add supporting user data for VPG to ensure more accurate testing. We resolved a bug in VPG for error handling requests without statuses input value as well as migrated to the latest version of Mobile Framework. 
  * #### Testing/Admin/Operational Support
-   * We updated VetsAPI for testing cancellations and addressed SRVDD constrainted identified by the VAMFAT approval board. 
+   * We updated VetsAPI for testing cancellations and addressed SRVDD constraints identified by the VAMFAT approval board. 
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
