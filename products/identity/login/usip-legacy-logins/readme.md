@@ -27,7 +27,7 @@ This work involves the following teams:
 - Design system team
 
 ## Overview
-With MHV credentials due to become inactive on January 31, 2025 and DSlogon credentials due to become inactive on September 30th, 2025. it is incumbent that we use the USiP to make the transition for Veterans who use those credentials as simply as possible.  Strategies for this include:
+With the looming sunsetting of MHV and DSLogon it is incumbent that we use the USiP to make the transition for Veterans who use those credentials as simply as possible.  Strategies for this include:
 
 - De-emphazising the legacy credentials on the USiP
 - Messaging to Veterans who use those credentials that they will need to transition to either Login.gov and/or ID.me prior to
