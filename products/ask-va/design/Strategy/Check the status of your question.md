@@ -45,3 +45,18 @@ We hypothesized a risk: If the question is in progress and we add a sign-in link
 2. Could there be a scenario where a user, who wasn't the submitter (e.g. a family member), looked up the reference number, clicked the link, signed in with their account, and then alerted the "question could not be found"—since the question was not submitted under their account?
 3. Can we get data if users currently use the "Check the status of your question" in the current Ask VA?
 
+## Next Steps (June 20, 2024)
+
+Thoughts and directions from: Becky Phung @beckyphung on June 20, 2024
+
+[Ticket: Decide whether to remove sign in link for—Check the status of your question #1084](https://github.com/department-of-veterans-affairs/ask-va/issues/1084)
+
+> This is what’s still confusing to me though:
+
+> - Why would a user who has an account look up their reference number in the tool rather than just signing in at the top?
+> - Because it’s just there with a clear call to action? To avoid the hassle of signing-in and as a quick checkpoint?
+> It feels like this feature is primarily intended for unauthenticated users. They can only get information about their question by email notification, or this lookup tool.
+
+> Another way to tackle this would be adding content that explains under “Check the status of your question” that explains – if you’re authenticated, you should just sign in to see all your information because this lookup tool is really limited and primarily for folks who didn’t submit a question under an account.
+
+> To me, there are still too many open questions to confidently say we should add this link to a feature we don’t completely understand. And because it doesn’t seem like it would take much effort to remove this, then let’s go ahead and remove the sign in link. Could you add these notes to the GitHub documentation too?
