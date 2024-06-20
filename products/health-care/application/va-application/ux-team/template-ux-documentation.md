@@ -2,7 +2,7 @@
 
 ---
 
-Goal: create a "template" but more of a menu to select and remove from per project. The "template" portion to copy over is setup at the bottom of this document.
+This includes a template section and a background and resources section to use around UX documentation on initiatives. 
 
 ----
 
@@ -20,7 +20,7 @@ Goal: create a "template" but more of a menu to select and remove from per proje
 - Key findings + next steps
 
 ## Background summary
-
+Description around problem statement during project. Add link to solution description once that exists. 
 - [Initiative brief](url)
 
 
@@ -29,8 +29,8 @@ Goal: create a "template" but more of a menu to select and remove from per proje
 
 ## Recent artifacts + deliverables
 - [Figma link](url) - iteration or status version
-- [Mural board](url) - iteration
-- [Presentations](url) - In what meeting/date/whom
+- [Mural board](url) - purpose of the mural/contributors
+- [Presentations](url) - In what meeting/date and to whom
 
 
 ## Timeline + UX decisions
@@ -49,6 +49,7 @@ Goal: create a "template" but more of a menu to select and remove from per proje
 
 
 ## Key findings + next steps
+- link to ticket, mural board or other resources
 
 
 [! end template]
