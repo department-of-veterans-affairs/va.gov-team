@@ -66,16 +66,13 @@ Additional context and resources around the sections of the template above.
 
 
 
-## Key documentation elements
+### Key documentation elements
 - Background summary
 - Current state
 - Recent artifacts + deliverables
 - Timeline + UX decisions
 - Tickets
 - Key findings + next steps
-
-
-----
 
 
 
@@ -107,6 +104,11 @@ Additional context and resources around the sections of the template above.
 
 
 ## Optional documentation resources per project
+
+
+
+
+
 
 
 ----
