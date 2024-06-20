@@ -6,7 +6,7 @@ This includes a template section and a background and resources section to use a
 
 ----
 
-## TEMPLATE TO COPY
+## GITHUB TEMPLATE TO COPY
 
 # [Project name and Form/Product]
 - Last updated [DATE]
@@ -108,6 +108,9 @@ Additional context and resources around the sections of the template above.
 
 
 ### Documenting if Figma
+
+### Content status component in Figma
+
 
 
 
