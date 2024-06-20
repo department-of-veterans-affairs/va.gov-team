@@ -1,6 +1,6 @@
 # [WIP] Process - Source of Truth
 
-WIP updated June 14, 2024
+WIP updated June 20, 2024
 
 ----
 
@@ -13,14 +13,14 @@ This process document outlines the steps needed to update the source of truth ux
 
 1. Open a ticket to account for the UX work to update the source of truth files.
 2. FIGMA: 
-  - Move the updated content/designs into the shared content library file if for the EZ or EZR or the component template page of CG file.
-  - In the product Figma file, make sure all the components are synced on the screens and no outdated variants of the components show.
-  - If there are new pages added to the form, add these all new pages to the source of truth section of the main product file.
+    - Move the updated content/designs into the shared content library file if for the EZ or EZR or the component template page of CG file.
+    - In the product Figma file, make sure all the components are synced on the screens and no outdated variants of the components show.
+    - If there are new pages added to the form, add these all new pages to the source of truth section of the main product file.
 3. MURAL:
-  - User flows (adjust the product source of truth file)
-  - If any alerts are new/updated, add the image and text to the Mural alert
+    - User flows (adjust the product source of truth file)
+    - If any alerts are new/updated, add the image and text to the Mural alert
 4. GITHUB
-- Update the content source of truth and any ux doucmentation in the initiative folders as needed. 
+    - Update the content source of truth and any ux doucmentation in the initiative folders as needed. 
 
 ----
 
@@ -78,7 +78,12 @@ Note:  Figma file pages are separated by sections within the form.
   - Review
   - Confirmation page
 
+- **[Mural User Flows]()**
+- [Mural Error Audit]()
 
+**Github**
+- [Github content doc]()
+- [Github folder]()
 
 ### Form 10-10CG Caregivers Program application
 - **[Figma file](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-1&t=104bLnGOpjrdMbOF-0)**
@@ -90,5 +95,10 @@ Note:  Figma file pages are separated by sections within the form.
   - Review
   - Confirmation page
 
+- **[Mural User Flows]()**
+- [Mural Error Audit]()
 
+**Github**
+- [Github content doc]()
+- [Github folder]()
 
