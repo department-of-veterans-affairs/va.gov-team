@@ -135,7 +135,7 @@ _Why would your business want this to exist?_
 |Project|Epic|Status|
 |----|----|---|
 |My VA explorations| [#50758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/50758), [#31611](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31611) | Research & design exploration|
-|[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement.md) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
+|[SiP configuration enhancements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/my-va-small-initiatives/save-in-progress-configuration-enhancement) | [#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
 |[Forms status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/benefit-application-drafts-forms-submission-status#project-outline-benefit-application-drafts--forms-submission-status-wip) (in partnership with Veteran Facing Forms) |[#60509](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60509) | In development |
 |Notifications: badge indicator| [#63788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63788)| In development |
 
