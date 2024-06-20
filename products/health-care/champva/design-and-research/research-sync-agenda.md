@@ -20,7 +20,7 @@ Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes
   
 ### Decisions and action iteams
 - Incorporate feedback to two readout decks
-- Start with process workflow, and then Steven's service blueprint for claims
+- Start with process workflow, and then Steven's service blueprint for FMP claims
 
 ## June 13, 2024
 This meeting has been canceled.
