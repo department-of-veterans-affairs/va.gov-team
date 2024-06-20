@@ -13,6 +13,8 @@
 
 ### Ticket Best Practices
 - Refer to the team's [definition of ready](https://docs.google.com/presentation/d/1v32urMBT9IU7BBZHuLJN3Tap4dTTxSlbxQ38dFWtpYg/edit#slide=id.g2b7676c8a1f_0_0) before starting work on a ticket
+- Tickets should be refined prior to being pointed
+- Tickets should be pointed prior to being self-assigned
 - Check off task items in the ticket as you complete them so all team members are aware of progress
 - Optional but helpful tip: Put initials next to tasks indicating who will complete them if there are multiple assignees to one ticket
 
