@@ -162,6 +162,8 @@ This allows us to do a few things. First, track every remediation effort with fl
   - timestamps the incoming `context` string before saving
 - `ignored_as_duplicate?`
 
+**NOTE:** These will never be created by application code. They will be created manually by a developer, most likely via a script at the time of remediation.  Having our application automatically create these when it thinks it's found a failure state breakes the [exclusive methodolgy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/engineering_research/untouched_submission_audit/526_state_repair_tdd.md#note-on-exclusive-methodology) by expecting our application to identify failure states.
+
 ##### b. Add `backup_submitted_claim_status` enum to the `Form526Submission` model
 
 This enum will have 3 allowed values, `:accepted`, `:rejected` and `nil`. Also serves our goal of simplifying state, removing redundant sources of truth, not relying on failure state assignment, and **recording data**.
