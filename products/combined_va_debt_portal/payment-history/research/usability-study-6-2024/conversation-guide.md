@@ -183,27 +183,51 @@ Prototype Link:
 
 - How do you feel about the amount of payment history information shared with you here? Is any of it unclear? Is anything missing?
 
-- If you wanted to request financial help for this debt, what would you do?
-  
-    **Success criteria:**
- - [ ]    Clicks "Pay your balance, request financial help or dispute this overpayment" (pass)
-        
- - [ ]     Anywhere else (fail)
 
-## Resolve this Balance page (10 minutes)
+
+## Debt Letter page (5 minutes)
+
+>  **Research Questions addressed in this section:**
+>  -   Can participants point out/indicate where on the page the CTAs/important actions are? 
+>  -   What is the findability of different elements like on these pages?
+
+ - Are you familiar with Debt Letters?
+
+- How would you find out when a Debt Letter was sent to you?
+
+**Success criteria:**
+ - [ ]    Clicks Debt Letters link (pass)
+        
+ - [ ]     Anywhere else (fail) 
+
+
+
+- Can you navigate back to the Details page of this debt?
+
+
+
+## Resolve this Balance page (5 minutes)
 
 >  **Research Questions addressed in this section:**
 >  -   Can participants point out/indicate where on the page the CTAs/important actions are? 
 >  -   What is the findability of different elements like on these pages?
 >  -   Can participants find what they are looking for or what they deem to be important on this page?
+
+- If you wanted to request financial help for this debt, what would you do?
   
+    **Success criteria:**
+ - [ ]    Clicks "Pay your balance, request financial help or dispute this overpayment" (pass)
+        
+ - [ ]     Anywhere else (fail)  
    **Success criteria:**
 - [ ]    Sees Request financial help section  (pass)
 
 
 - If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
 
-    
+Let's say you wanted to see when acquired this debt. How would you navigate back to the details page?
+
+
 
 ## Post Task Questions (5 minutes)
 
