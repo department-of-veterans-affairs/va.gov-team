@@ -104,8 +104,8 @@ The study will be conducted online via Zoom.
 
 ### Research materials
 - Prototype (CC Self-Scheduling Usability Testing)
-  - Figma
-  - CodePen
+  - [Figma](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=1538-33305&t=e4As4X4c3x2xkSet-1)
+  - [CodePen (to be viewed in mobile screen size)](https://codepen.io/team/va-cie/live/WNBQNxb)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/research/2024-06%20Community%20Care%20Self-Scheduling%20-%20Usability%20and%20Concept%20Testing/conversation-guide.md)
 
 --------
@@ -221,7 +221,12 @@ Screener Q7: Are there any additional accommodations we can provide to assist yo
 Planned dates of research: TBD (Approx: June 10-14)
 
 ### Kickoff with Perigean
-TBD
+
+- Availability
+  - Tuesday, June 25, 1-1:30pm EST (Christina Gednalske christina.gednalske@adhocteam.us, Ben Brasso ben.brasso@agile6.com, Ciera Maddox ciera.maddox@adhocteam.us)
+  - Wednesday June 26, 2-3pm EST (Ben, Ciera)
+  - Thursday, June 27, 2-2:30pm EST, or 3:30-4pm EST (Ben, Ciera)
+
 
 ### Pilot session
 
@@ -294,6 +299,9 @@ Availability for sessions:
 - Notetakers:
   - Perigean
 
+
+- Observers:
+  - We will share session links with observers via an observer sign-up sheet
 
 --------
 
