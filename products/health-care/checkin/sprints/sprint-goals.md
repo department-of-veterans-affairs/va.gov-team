@@ -145,7 +145,7 @@
         - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
         - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
     - **Sub Goal: Move to New AWS Instance**
-        - 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
+        - ✔️ 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
         - ✔️ 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
@@ -159,16 +159,16 @@
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
         - Here are the [updated wireframes](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3181-3191&t=DFFtXsWzfBNMQy17-1)
-        - 🟩 [[FE] OH travel add card and content to appointment select ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85599)
-        - 🟩 [[FE] OH travel - Update conent on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85600)
-        - 🟩 [[FE] OH travel expandable alert for appointment select page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85597)
+        - ✔️ 🟩 [[FE] OH travel add card and content to appointment select ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85599)
+        - ✔️ 🟩 [[FE] OH travel - Update conent on review page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85600)
+        - ✔️ 🟩 [[FE] OH travel expandable alert for appointment select page ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85597)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Upcoming Appointments**
         - ✔️ 🟥 [[DESIGN] Complete all documentation and hold handoff meeting for landing page pivot ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85723)
         - ✔️ Christina to schedule a hand-off to engineering & Product
         - ✔️ John/Brian to create tickets for "new" MVP; FYI Lori created [FE ticket ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86410)
     - **Sub Goal: CIE Analytics**
-        - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
+        - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80232)
         - ✔️ 🟪 [Request & Process Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80234)
 - **GOAL: Address Tech Debt**    
     - **Sub Goal: CIE Tech & Design Debt & Bugs**
