@@ -212,7 +212,7 @@ Education direct deposit updates went up dramatically from the two hours prior t
 
 This is a rough timeline of how this might work assuming there are no roadblocks and everything goes according to plan. Given Ch33 changes are in flux and CorpDB has had issues migrating as things change we'll update to document when actual changes are taking place. 
 
-
+<details> <summary> Initial Timeline from February 2024 </summary>summary>
 |Week| Anticipated Tasks | Actual/Changes |
 |----|-------|---|
 |Week 1 (Feb 19 -23)| Planning; Discovery||
@@ -229,23 +229,15 @@ This is a rough timeline of how this might work assuming there are no roadblocks
 |Week 12 (May 6 - 10)|BGS CI launch May 11th|~BIS to launch additional C&P inidicator in May~|
 |Week 13 (May 13 - 17)|UAT; VA.gov goes to production|~testing needed again for the C&P indicator~|
 
+</details>
 
-WIP
-|Week| Anticipated Tasks | Actual/Changes |
-|----|-------|---|
-|Week 1 (Feb 19 -23)| Planning; Discovery||
-|Week 2 (Feb 26 - Mar 1)|BGS kicks off work; Collab kickoff; VA.gov design begins||
-|Week 3 (Mar 4-8)| BGS work complete; VA.gov design complete||
-|Week 4 (Mar 11 - 15| Lighthouse work begins; VA.gov frontend build begins||
-|Week 5 (Mar 18 - 22)| Lighthouse work complete; VA.gov frontend build complete EXCEPT for connecting frontend to backend|BGS code complete|
+### Revised Timeline June 2024
+
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/6c48be6a-a1c8-4e93-9172-541178912948)
 
 
 
-
-|Week 6 (Mar 25 - 29)| VA.gov backend build ||
-|Week 1 (July 14-15)|BIS to launch additional C&P inidicators|
-|Week 2 (Apr 8 - 12)|VA.gov QA; UAT prep|
-|Week 13 (May 13 - 17)|UAT; VA.gov goes to production|~testing needed again for the C&P indicator~|
 
 ### Proposed collab cycle touchpoints
 
