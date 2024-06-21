@@ -1,13 +1,23 @@
 # Facilities API
 Last updated: May 10, 2024
 
-## Code
+There are 2 versions of a Facilities API that are powered by vets-api. Both are owned by the Sitewide Facilities team: 
+1. `facilities_api/v#/va` - referred to as **Modern Facilities API** below
+2. `v#/facilities/va` - referred to as **Legacy Facilities API client** below
+
+
+## Modern Facilities API
+Is built as a vets-api module, and powers the Facility Locator, the CTA widget on some Healthcare pages, and the 1010 health app(?).
+
+### Code
 https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api
 Current versions: 
 * V1 = maps to Lighthouse V0. LH V0 slated for deprecation June 14, 2024.
 * V2 = maps to Lighthouse V1. Shipped May 10, 2024
 
-## Customers
+Uses the `VADOTGOV_FacilityLocator` API consumer's API key to access Lighthouse
+
+### Customers
 1. Facility Locator
 2. 1010 Health apps team - PM: Heather Justice (May 2024)
 3. CTA widget code on Health apps pages:
@@ -17,7 +27,7 @@ Current versions:
     * Secure messaging
     * Appointments 
 
-## Data sources
+### Data sources
 - Lighthouse Facilities API (/va endpoint) -- Lighthouse centralizes data from a variety of other upstream sources, including: 
   - [**VHA**] VAST: source of truth for VHA facility locations, hours, status (open vs. closed), including VA Medical Centers, VA Clinics, and all types of Vet Centers. 
   - [**VBA**] Sandy's DB: source of truth for VBA facility locations, hours, status (open vs. closed). Sandy's DB is manually maintained by Michelle Middaugh. Long-term: Sandy's DB will be deprecated when VBA facility information is fully migrated to Drupal, modernized facilities are launched, and Drupal becomes source of truth.
@@ -26,10 +36,10 @@ Current versions:
     - cems.xml which has State, Local, and Tribal Cemeteries
 - PPMS / Community Care (/ccp endpoint)
 
-### Inaccurate Data
+#### Inaccurate Data
 Facility Locator documentation includes additional info on the [Process for reporting inaccurate data in Facility Locator ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md).
 
-### vets-API Facilities API v1
+#### vets-API Facilities API v1
 ```mermaid
 flowchart LR
     O(VAST) -->|Most VA facility names, addresses etc.| V
@@ -43,7 +53,7 @@ flowchart LR
 
 ```
 
-### vets-API Facilities API v2
+#### vets-API Facilities API v2
 ```mermaid
 flowchart LR
     O(VAST) -->|Most facility names, addresses etc.| W
@@ -58,12 +68,11 @@ flowchart LR
     Y[vets-api Facility API v2]
 ```
 
-## Lighthouse Facilities API product dependencies / scope
+### Lighthouse Facilities API product dependencies / scope
 In the event that Lighthouse Facilities API releases a new version or is deprecating an old endpoint, the following interactions need to be kept in mind and tested / updated accordingly:
 
-### Products/features using facilities-api calls with LH Facilities API data
+#### Products/features using facilities-api calls with LH Facilities API data
 
-- VAOS vets-api uses the VADOTGOV_FacilityLocator API consumer's API key to access Lighthouse
 - Facility pages (VAMC, Vet Center, VBA Regional Offices):
   - Other locations list 
   - Mini map - LH request returns the lat/long used to generate the maps
@@ -74,7 +83,7 @@ In the event that Lighthouse Facilities API releases a new version or is depreca
   - Emergency care > Service type filter options. These options are combined with PPMS data from outside LH API & presented as a single list.
 - CTA widget on healthcare apps pages (Medical records, Appointments, Prescription refill, Secure messaging, Lab/test results): uses Facility API user and calls facility-api in order to return Cerner facility data for logged in users 
 
-### Products/features integrated directly with LH Facilities API data (_not_ via facilities-api):
+#### Products/features integrated directly with LH Facilities API data (_not_ via facilities-api):
 
 - Facility pages data (VAMC, Vet Center, VBA Regional Office): e.g. name, location info, geocoding (pull)
 - Facilities CMS migration (cms-overlay). Drupal does **not** route through the vets-api facilities-api. However: in cases where Drupal is the source of truth and provides data to Lighthouse, the facilities-api then also receives/ contains that info via the Lighthouse Facilities API.Includes:
@@ -89,14 +98,31 @@ In the event that Lighthouse Facilities API releases a new version or is depreca
 
 More information on Drupal content models that interact with the Lighthouse Facilities API is available within Drupal's content model documentation: https://prod.cms.va.gov/admin/structure/cm_document?title=&documented_entity_op=contains&for=&stakeholder=All&pulled=All&pushed=1112&notes=
 
-### Products/features NOT YET dependent on LH Facilities API data but roadmapped
+#### Products/features NOT YET dependent on LH Facilities API data but roadmapped
 
 - Facility Locator UI
   - Contents of the Service Type filter for any Facliity type - [#15541](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/15541)
 
-### Products/features NOT dependent on LH Facilities API data 
+#### Products/features NOT dependent on LH Facilities API data 
 
 - Facility Locator UI
   - Contents of the Facility Type filter
 - PPMS Community care, Community pharmacy, and provider training data, including Service type typeahead
+
+## Legacy Facilities API Client
+Is built as an API client, and enables any other code in vets-api to invoke the Lighthouse facilities API.
+
+### Code
+https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/lighthouse/facilities
+Current versions: 
+* V0 = maps to Lighthouse V0. LH V0 deprecated June 14, 2024.
+* V1 = maps to Lighthouse V1. Shipped April 10, 2024
+
+Uses the `VADOTGOV_FacilityLocator` API consumer's API key to access Lighthouse
+
+### Customers
+* VA Mobile app
+
+### Data sources
+- Lighthouse Facilities API
 
