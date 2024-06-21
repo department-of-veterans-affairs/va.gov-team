@@ -36,6 +36,16 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 | Paper form updates | 10-10CG | [78493](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/78493) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=376-15166) |
 | List-and-loop exploration | 10-10CG | [83290](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/83290) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=1251-29793) |
 | Content SME Review | 10-10CG | [83393](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/83393) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=1214-25163) |
+| Facility selection | 10-10CG | [19433](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/19433) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-5034) |
+| Upload file | 10-10CG | [49495](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/49495) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-11514) |
+| Caregiver information | 10-10CG | None | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-11595) |
+| Document Upload + Progressive Flows | 10-10CG | None | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-16246) |
+| 2023 Label Improvements | 10-10CG | None | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-13641) |
+| Backend diagram | 10-10CG | None | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-16295) |
+| Intro page | 10-10CG | [50609](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/50609) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-11313) |
+| Primary Caregiver (1 required) Benefits | 10-10CG | None | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-11992) |
+| R3 Legal rep signature before review | 10-10CG | None | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-14783) |
+| Submission Confirmation | 10-10CG | [42322](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/50609) | [Figma designs](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-11408) |
 
 </details>
 
