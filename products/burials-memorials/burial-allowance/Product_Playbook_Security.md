@@ -37,8 +37,15 @@ brief explanation of errors/metrics (or link to them here)
 - Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
 
 ### Flipper Features and Rollback
-- Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-- At what point, if applicable, should your code be rolled back, to what state? (optional)
+
+#### Feature Flags
+- There are currently 3 feature flags: va_burial_v2, burial_form_v2, and burial_form_enabled. As of the time of writing, the first 2 feature flags are due to be removed after cleanup of burials v1.
+
+#### Rollback
+- Revert cleanup PRs to reinstate burials and burials-v2 applications in vets-website, content-build and vets-json-schema
+- Revert api changes to support 2 form ids: 21P-530 and 21P-530V2
+- Remove redirects to /burials-memorials/veterans-burial-allowance/apply-for-burial-benefits and ensure burials form is directed to /burials-and-memorials/application/530
+- Optional, but recommended: Migrate in progress forms with form id 21P-530V2 to 21P-530, so users don't lose progress.
 
 ## Security
 descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
