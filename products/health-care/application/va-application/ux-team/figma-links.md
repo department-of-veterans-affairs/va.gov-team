@@ -29,6 +29,8 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 
 ## Archive
 
+<details> 
+  
 <summary>10-10EZ Links</summary>
 
 | Link description | Form | Ticket number | Figma Link |
@@ -42,3 +44,5 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 | Priority group wireframes | 10-10EZ | [60643](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/60643) | [Figma designs](https://www.figma.com/design/NyfaJz57FJNftF7fFxLvAP/10-10EZ-Archive?node-id=1-47112) |
 | Review disclosure | 10-10EZ | [56847](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/56847) | [Figma designs](https://www.figma.com/design/NyfaJz57FJNftF7fFxLvAP/10-10EZ-Archive?node-id=1-52024) |
 | Intro screener question | 10-10EZ | [62534](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/62534) | [Figma designs](https://www.figma.com/design/NyfaJz57FJNftF7fFxLvAP/10-10EZ-Archive?node-id=1-54498) |
+
+</details>
