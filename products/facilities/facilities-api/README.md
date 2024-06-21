@@ -5,6 +5,17 @@ There are 2 versions of a Facilities API that are powered by vets-api. Both are 
 1. `facilities_api/v#/va` - referred to as **Modern Facilities API** below
 2. `v#/facilities/va` - referred to as **Legacy Facilities API client** below
 
+## Table of contents
+[Modern Facilities API](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#modern-facilities-api)
+* [Code](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#code)
+* [Customers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#customers)
+* [Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#data-sources)
+* [Lighthouse Facilities API product dependencies / scope](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#lighthouse-facilities-api-product-dependencies--scope)
+
+[Legacy Facilities API client](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#legacy-facilities-api-client)
+* [Code](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#code-1)
+* [Customers](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#customers-1)
+* [Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#data-sources-1)
 
 ## Modern Facilities API
 Is built as a vets-api module, and powers the Facility Locator, the CTA widget on some Healthcare pages, and the 1010 health app(?).
