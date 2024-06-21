@@ -37,3 +37,28 @@
    
    (2.7) Additional jobs (but not related to documents)
 
+## Project work related to "uploads"
+- Team 1 - 526 Submission migration to Lighthouse (form submission endpoint)
+
+- Team 2 - Polling information (getting a status on the uploads after sent to LH to confirm if they make it to the eFolder) (this is before we migrate to LH) - maybe includes alerts/monitoring 
+	- Veteran evidence documents
+	- PTSD 0781
+	- PTSD 0781a
+	- BDD instructions 
+
+- Team 2 - Document upload migration to Lighthouse (document upload endpoint)
+	- Veteran evidence documents
+	- PTSD 0781
+	- PTSD 0781a
+	- BDD instructions 
+
+- Team 2 - Silent Veteran evidence document fails going to EVSS (short term solution) 
+	- Email notifying the Veteran (i.e., options for other ways to get the evidence documents to VA)
+	- Provides a list of all the Veteran upload evidence documents
+
+- Team 2  - Veteran email notification when 
+	- 0781 fails to upload to EVSS (future LH)
+	- 0781a  fails to upload to EVSS (future LH) 
+	- Send Veteran mailer if 4142 fails to upload to central mail
+
+- New - Previous silent Veteran evidence document upload failures
