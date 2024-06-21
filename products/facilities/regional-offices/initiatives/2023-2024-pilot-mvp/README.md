@@ -153,9 +153,14 @@ Left nav
 - Conducted generative [research with Public Contact Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/vba_public_contact_research.pdf)
 - MVP scope established and [shared with VBA stakeholders](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12047#issuecomment-1451850564)
 
-### Phase 2 - Pilot MVP Design & Development
+### Phase 2 - MVP Design & Development
 - [VBA Regional Offices: Design & Develop MVP #10514](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10514)
 - March 2023 - ongoing as of July 2023
 - VA.gov front end design & development governed by Platform Collab Cycle
 - Drupal CMS content model & editorial interface governed by CMS Collab Cycle
 - VA Service Taxonomy additions governed by CAIA and Taxonomy council
+
+### Phase 3 - Fast Follow & National Roll-out
+Tracked in separate initiative directory
+- [VBA Regional Offices: Fast Follow #14477](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14477)
+- Will begin after phase 2
