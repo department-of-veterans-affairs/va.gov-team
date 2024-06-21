@@ -90,3 +90,13 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 | Intro screener question | 10-10EZ | [62534](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/62534) | [Figma designs](https://www.figma.com/design/NyfaJz57FJNftF7fFxLvAP/10-10EZ-Archive?node-id=1-54498) |
 
 </details>
+
+<details> 
+  
+<summary>10-10EZR Link</summary>
+
+| Link description | Form | Ticket number | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------|-----------------| 
+| 1010EZR Archive | 10-10EZR | None | [Figma designs](https://www.figma.com/design/qDznQyhF41iq4vcWlsdufd/10-10EZR-%5BARCHIVE%5D?node-id=0-1&t=TC9Lv8q2PUg6ZCvo-1) |
+
+</details>
