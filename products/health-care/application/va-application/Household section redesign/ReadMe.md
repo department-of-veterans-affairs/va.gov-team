@@ -4,7 +4,7 @@
 ### Figma Link
 | Purpose | Form | Figma Link |
 |-----------------------------------------------------------|-----------------|-----------------| 
-| Household information section (refects production)| 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7393) |
+| Household information section (reflects production)| 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7393) |
 
 
 ## Outcome Summary
