@@ -573,7 +573,24 @@
 ### Determine the Category
 
 ```js
-function determineCategory(description) {
+function categorizeTasks(transactionCodes) {
+  return transactionCodes.map(code => {
+    const categoryInfo = determineCategory(code.descriptions);
+    return { ...code, ...categoryInfo };
+  });
+}
+
+function determineCategory(descriptions) {
+  const mainCategory = getMainCategory(descriptions[0]);
+  const subCategories = descriptions.map(getSubCategory);
+  
+  return {
+    mainCategory,
+    subCategories
+  };
+}
+
+function getMainCategory(description) {
   if (description.startsWith("Increase To AR") || description.startsWith("Increase To New AR")) {
     return "Increase";
   } else if (description.startsWith("AR Decrease")) {
@@ -587,11 +604,14 @@ function determineCategory(description) {
   }
 }
 
-function categorizeTasks(transactionCodes) {
-  return transactionCodes.map(code => {
-    const category = determineCategory(code.descriptions[0]);
-    return { ...code, category };
-  });
+function getSubCategory(description) {
+  if (description.includes("Proceeds Applied")) return "Proceeds";
+  if (description.includes("End of Term")) return "End of Term";
+  if (description.includes("Waiver Granted")) return "Waiver";
+  if (description.includes("Returned Check")) return "Returned Check";
+  if (description.includes("Refund Payment")) return "Refund";
+  // ...
+  return "Other";
 }
 ```
 
