@@ -570,3 +570,28 @@
 | PAY | AR Decrease - Cash Payment To DMC |
 
 
+### Determine the Category
+
+```js
+function determineCategory(description) {
+  if (description.startsWith("Increase To AR") || description.startsWith("Increase To New AR")) {
+    return "Increase";
+  } else if (description.startsWith("AR Decrease")) {
+    return "Decrease";
+  } else if (description.includes("Write Off")) {
+    return "Write Off";
+  } else if (description.includes("Reversal") || description.includes("TOP Reversal")) {
+    return "Reversal";
+  } else {
+    return "Other";
+  }
+}
+
+function categorizeTasks(transactionCodes) {
+  return transactionCodes.map(code => {
+    const category = determineCategory(code.descriptions[0]);
+    return { ...code, category };
+  });
+}
+```
+
