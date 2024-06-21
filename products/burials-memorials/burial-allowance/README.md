@@ -14,12 +14,13 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 
 ---
 ## Incident Response
+  - [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/Product_Playbook_Security.md)
   - Points of contact for your system and dependent VA back-ends
      - Front End: Sean Midgley
      - Backend: 
   - DataDog Dashboard | [Burial Benefits 530 errors](https://vagov.ddog-gov.com/monitors/184389?view=spans)
   - DataDog Dashboard | [Benefits - Form 530 Burial Claims](https://vagov.ddog-gov.com/dashboard/q5u-4h7-bfh/benefits---form-530-burial-claims?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716406091146&to_ts=1718998091146&live=true)
-    * [ ] Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Product_Playbook_Security.md)
+
 ---
 ## Desired User Outcomes
 
