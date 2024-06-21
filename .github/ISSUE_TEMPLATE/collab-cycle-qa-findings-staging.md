@@ -49,6 +49,9 @@ assignees: ''
 - [ ] Standard has been met
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
+#### Endpoint Monitoring
+- [ ] Standard has been met
+- [ ] Standard has not been met
 ---
 
 ### Next Steps for the VFS team
