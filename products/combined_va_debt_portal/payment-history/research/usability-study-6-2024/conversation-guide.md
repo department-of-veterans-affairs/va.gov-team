@@ -201,7 +201,6 @@ Prototype Link:
  - [ ]     Anywhere else (fail) 
 
 
-
 - Can you navigate back to the Details page of this debt?
 
 
@@ -215,17 +214,14 @@ Prototype Link:
 
 - If you wanted to request financial help for this debt, what would you do?
   
-    **Success criteria:**
- - [ ]    Clicks "Pay your balance, request financial help or dispute this overpayment" (pass)
+**Success criteria:**
+ - [ ]    Clicks "Pay your balance, request financial help or dispute this overpayment", Sees Request financial help section on Resolve this balance page (pass)
         
- - [ ]     Anywhere else (fail)  
-   **Success criteria:**
-- [ ]    Sees Request financial help section  (pass)
+ - [ ]     Clicks anywhere else, does not see Request this balance page (fail)  
 
 
 - If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
 
-Let's say you wanted to see when acquired this debt. How would you navigate back to the details page?
 
 
 
