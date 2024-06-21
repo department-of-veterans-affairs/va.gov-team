@@ -10,14 +10,16 @@
 
 ## API Endpoint names 
 - _Form submission endpoint_ - is just for 526 data upload to Lighthouse 
-- _Document upload endpoint_ - is for all the remaining uploads related to 526 (Veteran Evidence, 0781 and 0781a, and 4142, BDD) to EVSS or Lighthouse 
+- _Document upload endpoint_ - is for all the remaining uploads related to 526
+                               (Veteran Evidence, 0781 and 0781a, and 4142, BDD) to EVSS or Lighthouse 
 
 ### How it works
 (1) Form 526 is the data entered on the website to EVSS- main submission form
 	
    (1.1) The "upload" here is just the data
  
-    (1.2) After the data is received, EVSS _(future LH)_ will create the PDF that goes to the eFolder (eFolder is the last place where the "documents" are stored for the adjucators)
+    (1.2) After the data is received, EVSS _(future LH)_ will create the PDF that goes to the eFolder 
+          (eFolder is the last place where the "documents" are stored for the adjucators)
 
 (2) Ancillary jobs are kicked-off after the 526 submission
   
