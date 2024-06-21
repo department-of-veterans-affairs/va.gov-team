@@ -13,16 +13,25 @@
 - _Document upload endpoint_ - is for all the remaining uploads related to 526 (Veteran Evidence, 0781 and 0781a, and 4142, BDD) to EVSS or Lighthouse 
 
 ### How it works
-1. Form 526 is the data entered on the website to EVSS- main submission form
-	1.1 The "upload" here is just the data
-	1.2 After the data is received, EVSS _(future LH)_ will create the PDF that goes to the eFolder (eFolder is the last place where the "documents" are stored for the adjucators)
+(1) Form 526 is the data entered on the website to EVSS- main submission form
+	
+   (1.1) The "upload" here is just the data
+ 
+    (1.2) After the data is received, EVSS _(future LH)_ will create the PDF that goes to the eFolder (eFolder is the last place where the "documents" are stored for the adjucators)
 
-2. Ancillary jobs are kicked-off after the 526 submission 
-	2.2 Check for any Veteran uploaded evidence documents
-		2.2.1 If any, these are sent to EVSS - includes the submission ID for Form 526e 
-	2.3 PTSD 0781 form - a new auto generated PDF is created and submitted with the Submission ID for Form 526e to EVSS 
-	2.4 PTSD 0781a form - a new auto generated PDF is created and submitted with the Submission ID for Form 526e to EVSS  
-	2.5 Form 4142 - a new auto generated PDF is created and submitted with the Submission ID for Form 526 to central mail  
-	2.6 BDD instructions - this is for internal (adjudicator) fact sheet to EVSS (cover sheet per 526) 
-	2.7 Additional jobs (but not related to documents)
+(2) Ancillary jobs are kicked-off after the 526 submission
+  
+   (2.2) Check for any Veteran uploaded evidence documents
+   	
+     (2.2.1) If any, these are sent to EVSS - includes the submission ID for Form 526e
+   
+   (2.3) PTSD 0781 form - a new auto generated PDF is created and submitted with the Submission ID for Form 526e to EVSS
+   
+   (2.4) PTSD 0781a form - a new auto generated PDF is created and submitted with the Submission ID for Form 526e to EVSS
+   
+   (2.5) Form 4142 - a new auto generated PDF is created and submitted with the Submission ID for Form 526 to central mail
+   
+   (2.6) BDD instructions - this is for internal (adjudicator) fact sheet to EVSS (cover sheet per 526)
+   
+   (2.7) Additional jobs (but not related to documents)
 
