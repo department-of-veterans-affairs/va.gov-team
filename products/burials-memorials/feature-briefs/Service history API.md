@@ -1,9 +1,10 @@
 
-# Service history API for Burial (21P-530EZ), Ch 36 PCPG (27-8832), and COE (26-1880)
+# Prefill military history for Burial (21P-530EZ), Ch 36 PCPG (27-8832), and COE (26-1880)
 
 ## Background
 
-The burial 530EZ form requires users to upload a copy of their DD214 Veteran Service Record document. Matt Dingee mentioned that there is an API that can import DD214 information directly into forms. The Chapter 33 Post 9/11 GI Bill form has successfully leveraged this API to pull in history into their form and then prompt the Veteran to review/confirm it. This functionality does require that the Veteran logs into their VA.gov account, so we'll need to consider how to handle the specific use cases associated with the burial form.
+The burial 530EZ form requires users to upload a copy of their DD214 Veteran Service Record document. Matt Dingee mentioned that an API can import DD214 information directly into forms. The Chapter 33 Post 9/11 GI Bill form ([VA form 22-1990](https://www.va.gov/education/apply-for-education-benefits/application/1990/introduction/)) and the VA health care
+ form ([VA Form 10-10EZ](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)) have successfully leveraged connection to an API to pull in history into their form and then prompt the Veteran to review/confirm it. This functionality does require that the Veteran logs into their VA.gov account, so we'll need to consider how to handle the specific use cases associated with the burial form.
 
 Other impacted forms: Ch 36 PCPG (27-8832), and COE (26-1880) 
 
