@@ -159,8 +159,8 @@ _**Recruit 8 total participants for a total of at least 5 completed sessions**_
 - All participants must be able to attend sessions on a mobile device
 - All participants must have used Appointments on va.gov before to manage their appointments
 - All participants must use assistive technology
-  - 5 screen reader users
-  - 3 screen magnification users
+  - 6 screen reader users
+  - 2 screen magnification users
 - All participants must be willing to use assistive technology during the session
 
 #### Secondary criteria (nice to haves)
