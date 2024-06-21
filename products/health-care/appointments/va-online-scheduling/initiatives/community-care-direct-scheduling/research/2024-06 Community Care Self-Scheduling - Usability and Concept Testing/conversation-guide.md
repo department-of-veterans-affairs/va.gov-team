@@ -217,6 +217,8 @@ _**Participant is on filter page:**_
 - _If not yet mentioned:_ If the provider you were looking for did NOT have online scheduling, would you still expect to find information on that provider here? 
     - _If yes:_ What information would you expect?
     - _If not:_ Could you tell me more about that?
+ 
+- And if the provider you wanted to schedule with didn't offer online scheduling, would that change your provider decision?
 
 [GENERAL]
 
@@ -286,7 +288,7 @@ _**Participant is on appointment list page (no task card):**_
 
 - Earlier we talked about where you would expect to find your referrals. I’d like to get your feedback on an early concept for where those referrals might be located.  
 
-- You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. From here, where would you go to review any new referrals?
+- You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. At this point, let's say you remembered that you also requested another referral, in addition to the one you just scheduled for. From here, where would you go to find that referral?
 
 - And where would you go to review your older referrals?
 
