@@ -5,9 +5,8 @@
 
 To assess the feasibility and potential impact of implementing screen sharing capabilities in veteran support services by gathering insights from veterans. 
 
-Where is your product situated on VA.gov? (ex: auth vs. unauth)
-What is Veterans’ familiarity with this tool? This is a new product 
-[Link to product brief](url goes here).
+Where is your product situated?
+[survey](https://dj540s05.optimalworkshop.com/questions/nrkfwu5m).
 
 ## OCTO Priorities
 Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.
@@ -106,33 +105,6 @@ Participants should be aware of and have opinions on privacy and data security c
 
 ## Screener Questions
 
-Veteran Status:
-
-Have you served in the U.S. military?
-
-- Yes (qualifies)
-- No
-
- Branch of Service:
-
-Which branch of the military did you serve in?
-- Army
-- Navy
-- Air Force
-- Marine Corps
-- Coast Guard
-- Space Force
-- Other (please specify)
-
-Service Duration:
-
-How many years did you serve in the military?
-
-- Less than 1 year
-- 1-4 years
-- 5-10 years
-- More than 10 years
-
 Current VA Services Interaction:
 
 Are you currently receiving any benefits or services from the Department of Veterans Affairs (VA)?
@@ -202,11 +174,11 @@ Week 5: Close survey and start data analysis.
 ## Prepare
 
 Pilot participant email:starlow@thesocompany.com
-Date and time of pilot session: 5/4/2024
+Date and time of pilot session: 7/1/2024
 
 Research sessions
 
-Planned dates of research: June 5-June 15
+Planned dates of research: July 5-July 15
 Length of sessions: 10 mins
 Session length: up to 10 mins 
 Maximum Sessions per day: Unlimited 
