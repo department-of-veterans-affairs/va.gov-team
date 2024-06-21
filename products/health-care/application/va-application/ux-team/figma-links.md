@@ -3,6 +3,7 @@
 Purpose: A place to put all links by product to design pages/files/prototypes by ticket - including items in Archive.
 
 <summary>10-10EZ Links</summary>
+
 | Link description | Form | Ticket number | Figma Link |
 |-----------------------------------------------------------|-----------------|-----------------|-----------------| 
 | Toxic Exposure content updates | 10-10EZ | [81910](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/81910) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7191) |
@@ -25,6 +26,7 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 ## Archive
 
 <summary>10-10EZ Links</summary>
+
 | Link description | Form | Ticket number | Figma Link |
 |-----------------------------------------------------------|-----------------|-----------------|-----------------| 
 | 1010EZ: Print/Save | 10-10EZ | [61748](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/61748) | [Figma designs](https://www.figma.com/design/NyfaJz57FJNftF7fFxLvAP/10-10EZ-Archive?node-id=1-11) |
