@@ -4,7 +4,7 @@
 ## Upload names
 - _526 Submission_ - refers to the 526e primary data only
 - _BDD Instructions_ - refers to the cover sheet that accompanies the 526 submission to EVSS or Lighthouse
-- _PTSD Ancillary _- refers to the 0781 and 0781a data for PTSD claims
+- _PTSD Ancillary_ - refers to the 0781 and 0781a data for PTSD claims
 - _4142 supplemental_ - refers to the form data for authorization to disclose medical information
 - _Veteran evidence documents_ - refers to the files Veterans upload for evidence for their disability claim 
 
