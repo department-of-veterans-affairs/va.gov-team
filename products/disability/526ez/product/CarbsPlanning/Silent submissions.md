@@ -25,6 +25,8 @@ The batches are tested in ProdTest before they are run in Prod. The last ProdTes
 
     These two files are associated with the same set of submission IDs, so use either as your “starting list”
 
+Failures from the VETSNET List - Earl's list - are failures at the Veteran level, so all failures associated with that Veteran need to be removed from this remediation list.
+
 2. **Remove the submission IDs associated with the claims/Veterans that failed the VETSNET test**
 * [In the folder](https://dvagov.sharepoint.com/:u:/r/sites/CodeYellow/Shared%20Documents/CY%203/CY3%20Secure%20Folder/Technical%20Files/VAGOV%20to%20CORPDB/Cy1-526-Batch5-June2024/CPIEP330%20EP330%20Claim%20Statistics%20Report%20(vaausappcrp412-p).zip?csf=1&web=1&e=gndGpC) CPIEP330 EP330 Claim Statistics Report (vaausappcrp412-p) the file `CPIEP330
 
