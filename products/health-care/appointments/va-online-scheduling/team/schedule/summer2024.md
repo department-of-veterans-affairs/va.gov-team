@@ -8,7 +8,7 @@ Peter Russo | | 8-10 |
 Ciera Maddox | |  | 8-23
 Melissa Lefevre | 21, 28 | 12, 19, 31 | 1, 23, 26
 Simi Adebowale |  |  | 
-Corey Ferris | N/A | 5, 8-12, 15-19 | TBD
+Corey Ferris |  | 5, 8-12, 15-19 | 
 Ryan Shaw | 17 |  |  
 John Luo | 10, 28 | 22 | 19
 Tony Williams |  | 5 | 
