@@ -61,64 +61,45 @@ Let’s go to the next part of the interview where we are going to share a digit
     
 I am going to drop a link in the Zoom chat. When you receive the link, please open the page.
 
-Send direct link for Debt Letter which will link to debt portal
+Send direct link to Debt Portal prototype
 
-Desktop Prototype Link:
+Prototype Link:
 
-[ ]
 
-Mobile Prototype Link:
-
-[ ]
 
 [[Mobile sessions screen share directions]](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
 
 [Sharing screen instructions as needed]
 
-## Debt Letter
-
-Imagine you receive this letter in your inbox. 
-[Gather feedback on letter]
 
 ## Current Overpayments Overview (10 minutes)
 
 
- 
 
 >  **Research Questions addressed in this section:**
 > 
->  *-   Do participants notice and understand the icon callouts on the debt overview page (exclamation point, checkmark)?*
->             *- What elements on the page draw their attention?*
->             *-   What doesn’t stand out/ is less noticeable they might be missing?*
+>  *-  Do participants notice and understand the icon callouts on the debt overview page (exclamation point, checkmark)?*
+> *- What elements on the page draw their attention?*
+> *-  What doesn’t stand out/ is less noticeable they might be missing?*
 
-  
-**Mental Models Question**
 
-On the next page, you will see a debt portal with information about the debt. 
--   Before I ask you to move to the next page, if you had a VA debt like mentioned in this letter, what are the top 3 things you would be on the lookout for in this debt portal? What would you hope to see? 
-    
-    Feel free to go to the next page. 
     
 **Overpayments Overview Experience**
 
 -   What are your initial impressions?
-    
--   How does this line up with what you were expecting to see?
-    
+        
 -   What draws your attention the most on this page?
     
 -   Which debt listed here looks like it’s outstanding?
-    
-    **Success criteria:**
-    
 
+    
+  **Success criteria:**
+    
  - [ ] Chapter 35 education debt (pass)
 
-    
 
  - [ ] They notice the only with further prompting (partial pass)
 
-    
 
  - [ ] They don’t notice (fail)
 
@@ -135,25 +116,33 @@ On the next page, you will see a debt portal with information about the debt.
 
 -   Any information missing that you’d like to see?
     
--   What would you do next?
+
+-   Let's say you received an email notifying you that the Chapter 35 education debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
+
+    **Success criteria:**
+    
+  - [ ]    "Check Details" link on Ch 35 card (pass)
+    
+  - [ ]    "Resolve this balance" link on Ch 35 card (partial pass)
+    
+   - [ ]   Any other link (fail)
     
 
-## Treasury Path (10 minutes)
+
+## Overpayment Detail page (10 minutes)
 
 >  **Research Questions addressed in this section:**
->  -   Do Veterans understand the callouts that indicate the debt has progressed with more serious consequences (treasury, debt collections)?
->  -   Without prompting or leading, do Veterans notice that the debt has been sent to collections or treasury?
-    
+>  -   Can participants define and/or understand the different transaction fields (current amount, original amount, total paid, date of last payment, next payment due, total late fees/interests)?
+>  -   Can participants point out/indicate where on the page the CTAs/important actions are? 
+>  -   What is the findability of different elements like on these pages?
+>  -   Can participants find what they are looking for or what they deem to be important on this page?
+  
 
-**Task: What they first notice**
-
--   What draws your attention the most on this page?
-    
 -   What stands out to you on this page?
 
     **Success criteria:**
     
-  - [ ]    They notice the callout that the debt has been sent to the treasury (pass)
+  - [ ]    They notice the callout that the amount is due soon (pass)
     
  - [ ]     They notice the callout only with further prompting (partial pass)
     
@@ -161,49 +150,6 @@ On the next page, you will see a debt portal with information about the debt.
     
     Time on task: ( fill in )
 
--   Any information missing that you’d like to see?
-    
--   What would you do next if you were to receive this notice?
-    
-
-## Benefit Offset Path (10 minutes)
-
-**Task: What they first notice**
-
--   What draws your attention the most on this page?
-    
--   What stands out to you on this page?
-    
-    **Success criteria:**
-    
- - [ ]     They notice the callout that there is an education benefits offset (pass)
-    
- - [ ]     They notice the callout only with further prompting (partial pass)
-    
- - [ ]     They don’t notice (fail)
-    
-    Time on task:
-
--   Any information missing that you’d like to see?
-    
--   What would you do next if you were to receive this notice?
-    
-
-## Simple Full Path (10 minutes)
-
->  **Research Questions addressed in this section:**
->  -   Can participants define and/or understand the different transaction fields (current amount, original amount, total paid, date of last payment, next payment due, total late fees/interests)?
->  -   Can participants point out/indicate where on the page the CTAs/important actions are? (pay, request help, dispute the debt)
->  -   What is the findability of different elements like on these pages?
->  -   Can participants find what they are looking for or what they deem to be important on this page?
-    
-
-  
-
--   What draws your attention the most on this page?
-    
--   What stands out to you on this page?
-    
 -   Based on what you see here, what does the information on this page tell you about your debt?
     
 -   When is the next payment due?
@@ -215,6 +161,7 @@ On the next page, you will see a debt portal with information about the debt.
  - [ ]     Says the date number initially, but corrects with further prompting (partial pass)
     
  - [ ]     They don’t know (fail)
+
 
 -   How much does this Veteran currently owe based on what you see here?
     
@@ -231,24 +178,31 @@ On the next page, you will see a debt portal with information about the debt.
 - Are there any other financial data points you would like to see?
 
   
-- Are there financial data points listed here that you feel are unnecesary? 
+- Are there financial data points listed here that you feel are unnecesary?
+  
 
--   Could you please point out where on the page you can take important actions? (if needed, clarify: pay your VA debt, request financial help, and dispute the debt)
-    
-- If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
+- How do you feel about the amount of payment history information shared with you here? Is any of it unclear? Is anything missing?
 
-- What are your thoughts on these fields?  (file number, payee number, person entitled, deduction number) Are any of them unclear? [comprehension]
-
+- If you wanted to request financial help for this debt, what would you do?
   
     **Success criteria:**
-    
- - [ ]     Can point out the sidebar with the CTAs (pass)
-    
- - [ ]     Say the wrong thing initially, but correct with further prompting (partial pass)
-    
- - [ ]     They don’t know (fail)
+ - [ ]    Clicks "Pay your balance, request financial help or dispute this overpayment" (pass)
+        
+ - [ ]     Anywhere else (fail)
 
--   How do you feel about the amount of payment history information shared with you here? Is any of it unclear? Is anything missing?
+## Resolve this Balance page (10 minutes)
+
+>  **Research Questions addressed in this section:**
+>  -   Can participants point out/indicate where on the page the CTAs/important actions are? 
+>  -   What is the findability of different elements like on these pages?
+>  -   Can participants find what they are looking for or what they deem to be important on this page?
+  
+   **Success criteria:**
+- [ ]    Sees Request financial help section  (pass)
+
+
+- If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
+
     
 
 ## Post Task Questions (5 minutes)
