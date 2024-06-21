@@ -2,6 +2,8 @@
 
 Purpose: A place to put all links by product to design pages/files/prototypes by ticket - including items in Archive.
 
+<details>
+
 <summary>10-10EZ Links</summary>
 
 | Link description | Form | Ticket number | Figma Link |
@@ -22,6 +24,8 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 | SIGI - unauthenticated | 10-10EZ | [46904](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/46904) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-68371) |
 | SIP - Dependents review page | 10-10EZ | [70217](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/70217) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-13663) |
 | Short form flow | 10-10EZ | [27679](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/27679) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-67659) |
+
+</details>
 
 ## Archive
 
