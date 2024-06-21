@@ -12,10 +12,10 @@
 ## Launched Form Notifications 
 |Form Number  |Form Name |User State |Email Used |Launch Date | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 20-10207 | Request priority processing for an existing claim | Authenticated | ICN (Profile) | TBD |
-| 21-0966 | Submit an intent to file | Authenticated | ICN (Profile) | TBD |
 | 20-10206 | Freedom of Information Act (FOIA) or Privacy Act (PA) Request | Authenticated | Form | TBD |
 | 26-4555 | Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant | Authenticated | Form | TBD |
+| 20-10207 | Request priority processing for an existing claim | Authenticated | ICN (Profile) | June 2024 |
+| 21-0966 | Submit an intent to file | Authenticated | ICN (Profile) | May 2024 |
 | 40-0247 | Request a Presidential Memorial Certificate | Unauthenticated | Form | March 2024 | 
 | 21-0845 | Authorize VA to release your information to a third party source | Authenticated and Unauthenticated | Form | November 2023 | 
 | 21-0972 | Sign VA claim forms as an alternate signer | Authenticated and Unauthenticated | Form | October 2023 | 
