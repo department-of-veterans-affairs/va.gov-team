@@ -65,44 +65,6 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - Laura O'Shea, Office of Policy Overview at VBA 
 - Jamie Statton, Office of Policy Overview at VBA 
 
-### **Pilot MVP locations**
-| Regional office | Facility Locator detail page | Teamsite page |
-|---|---|---|
-| Albuquerque VA Regional Benefit Office | [Albuquerque detail page](https://www.va.gov/find-locations/facility/vba_340) | [Albuquerque Teamsite](https://www.benefits.va.gov/albuquerque/)
-| Anchorage VA Regional Benefit Office at Anchorage VA Medical Center |  [Anchorage detail page](https://www.va.gov/find-locations/facility/vba_463) | [Anchorage Teamsite](https://www.benefits.va.gov/anchorage/) 
-| Boston VA Regional Benefit Office| [Boston detail page](https://www.va.gov/find-locations/facility/vba_301) | [Boston Teamsite](https://www.benefits.va.gov/boston/)
-| Honolulu VA Regional Benefit Office at Spark M. Matsunaga Department of Veterans Affairs Medical Center|  [Honolulu detail page](https://www.va.gov/find-locations/facility/vba_459)| [Honolulu Teamsite](https://www.benefits.va.gov/honolulu/)
-| Houston VA Regional Benefit Office| [Houston detail page](https://www.va.gov/find-locations/facility/vba_362_) | [Houston Teamsite](https://www.benefits.va.gov/houston)
-| National Capital Region VA Regional Benefit Office| [National Capital detail page](https://www.va.gov/find-locations/facility/vba_372) | [National Capital Teamsite](https://www.benefits.va.gov/ROWASHINGTON/)
-| Portland VA Regional Benefit Office (added 2/2024 due to editor coverage with Anchorage | [Portland detail page](https://www.va.gov/find-locations/facility/vba_348) | [Albuquerque Teamsite](https://www.benefits.va.gov/portland/)
-| San Juan VA Regional Benefit Office| [San Juan detail page](https://www.va.gov/find-locations/facility/vba_355) | [San Juan Teamsite](https://www.benefits.va.gov/sanjuan)
-
-
-### **Points of Contact from VBA RO pilot locations**
-[VBA Pilot Sites Selection.xlsx](https://dvagov.sharepoint.com/:f:/s/VBAVA.govmodernization/ElGAcEivodBFn5vZuP69aFUBpanKqq02M4JLkimn5zMfiQ?e=TJh0ir) [VA SharePoint]
-
-[08/21/23 list on Teams](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/_layouts/15/Doc.aspx?sourcedoc=%7B75BA1C30-612E-47BF-8FDA-A9683892163F%7D&file=VBA%20MVP%20contacts%20August%202023.xlsx&action=default&mobileredirect=true)
-
-[Training attendees](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/Shared%20Documents/Facilities%20Product%20Sync/VBA/VBA%20Training%20attendees.xlsx?d=w446b52951a9542aba5dae6917ee1f40e&csf=1&web=1&e=EE65U5)
-| Houston           | 1/2       | Name                        | Email                   |
-| ----------------  | ---------- | -------------------------- | ----------------------- |
-| Anchorage/Portland| Primary    | Heather Densmore           | heather.densmore@va.gov |
-| Anchorage/Portland| Secondary  | Clarissa Savage            | clarissa.savage@va.gov  |
-| Albuquerque       | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
-| Albuquerque       | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
-| Albuquerque       | Secondary  | Cesar Romero               | cesar.romero1@va.gov    |
-| Boston            | Primary    | Brian Keber                | brian.keber@va.gov      |
-| Honolulu          | Primary    | Melynn McWilliams          | Melynn.McWilliams@va.gov|
-| Honolulu          | Secondary  | Eileen Asing               | eileen.asing@va.gov     |
-| Honolulu          | Additional | Aiko Shibuya               | aiko.shibuya@va.gov     |
-| Houston           | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
-| Houston           | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
-| National Capital  | Primary    | Garcia Williams            | garcia.williams@va.gov  |
-| National Capital  | Secondary  | Jessica Barker             | jessica.barker3@va.gov  |
-| San Juan          | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
-| San Juan          | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
-
-
 ## Approach
 - Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
 - Research, design, and write new content/create content guidelines for field editors for location-specific content, for example "prepare for your visit" section and others
@@ -129,30 +91,6 @@ We need to reach parity with our new Regional Office/benefits products so we can
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
 - VBA's Veteran Readiness and Employment sites are both stand-alone but also often times located at VAMCs or Vet Centers(VocRehab is built into the VHA health services taxonomy for this reason)
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
- 
-## MVP Scope
-MVP scope is detailed in [Initiative - Design & Build VBA Regional Office MVP #10514](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10514).
-[SE: Initiative - VBA Regional Office modernization #13029](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13029) includes post-MVP issues.
-
-## Timeline
-### Phase 1 - Discovery & MVP Definition
-- [VBA Regional Offices: Discovery & MVP definition #9659](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9659)
-- July 2022 - February 2023
-- Selected [7 MVP sites](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9961#issuecomment-1242802953)
-- Conducted generative [research with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-readout.pdf)
-- Conducted generative [research with Public Contact Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/vba_public_contact_research.pdf)
-- MVP scope established and [shared with VBA stakeholders](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12047#issuecomment-1451850564)
-
-### Phase 2 - MVP Design & Development
-- [VBA Regional Offices: Design & Develop MVP #10514](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10514)
-- March 2023 - ongoing as of July 2023
-- VA.gov front end design & development governed by Platform Collab Cycle
-- Drupal CMS content model & editorial interface governed by CMS Collab Cycle
-- VA Service Taxonomy additions governed by CAIA and Taxonomy council
-
-### Phase 3 - Fast Follow & National Roll-out
-- [VBA Regional Offices: Fast Follow #14477](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14477)
-- Will begin after phase 2
 
 
 ## VBA Facility types
@@ -167,4 +105,9 @@ The data call in August 2021 defined these as the different types of VBA Facilit
 | IDES Site | This facility works together with the Department of Defense (DoD) to make disability evaluation seamless with VA if a servicemember is found to be medically unfit for duty. IDES will provide a Veteran a proposed VA disability rating before they leave the service. |
 | Pre‐Discharge Site  | This facility is a joint VA and DOD location to file a claim for disability compensation up to 180 days prior to separation or retirement from active duty or full time National Guard or Reserve duty (Titles 10 and 32).  |
 | Seamless Transition Integrated Care Clinic (STICC)  | This facility is a transition clinic located in VHA facilities, there are VHA and VBA Rehab counselors as well as VBA Compensation and Benefits (Comp & Pen) personnel that assist transitioning servicemembers with benefit-related information. |
+
+
+# Initiatives
+* [Pilot MVP launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2023-2024-pilot-mvp#points-of-contact-from-vba-ro-pilot-locations)
+* [National Editor onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2024-national-mvp)
 
