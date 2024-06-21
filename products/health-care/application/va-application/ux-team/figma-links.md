@@ -49,6 +49,26 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 
 </details>
 
+<details>
+
+<summary>10-10EZR Links</summary>
+
+| Link description | Form | Ticket number | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------|-----------------| 
+| Supporting documents for TERA | 10-10EZR | [78600](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/78600) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=3049-63221) |
+| Contact info EZR v2 | 10-10EZR | [82161](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/82161) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=2861-110463) |
+| Toxic exposure (TERA) additions | 10-10EZR | [74303](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/74303) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1244-2395) |
+| Read-only Financial Info | 10-10EZR | Needs ticket | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1507-2395) |
+| Secondary nav | 10-10EZR | [84959](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/84959) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=3717-17021) |
+| Choose your adventure flow | 10-10EZR | [77911](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/77911) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1839-2395) |
+| Confirmation flow | 10-10EZR | [68381](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/68381) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1494-71557) |
+| Emergency contact/Next of kin | 10-10EZR | [68375](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/68375) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=0-11540) |
+| EZR audit | 10-10EZR | [75154](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/75154) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1442-19526) |
+| Military info in EZR | 10-10EZR | [75441](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/75441) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1272-99708) |
+| Notify dependent | 10-10EZR | [71386](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/71386) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=363-19165) |
+| Preferred facility | 10-10EZR | [72849](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/72849) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=679-3884) |
+| EZR v2 | 10-10EZR | None | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1091-32802) |
+
 ## Archive
 
 <details> 
