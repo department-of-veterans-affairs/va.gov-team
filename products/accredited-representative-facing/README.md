@@ -2,11 +2,13 @@ _The nature of the content in this folder should conform to these [repository or
 
 # Accredited Representative Facing (ARF)
 
-The Accredited Representative Facing (ARF) team is a part of the Accredited Reps Crew within the OCTO Benefits Portfolio at the Department of Veterans Affairs.
+## About ARF
+
+The Accredited Representative Facing (ARF) team, part of the Accredited Reps Crew within the Office of the Chief Technology Officer (OCTO) Benefits Portfolio at the Department of Veterans Affairs, supports Accredited Representatives in their work with Veterans.
 
 ## Mission
 
-We will create an accessible, modern, secure online system that Accredited Reps are comfortable using that will increase the use of digital forms and make a faster and smoother experience, improving Veterans' VA experience.
+Our mission is to create an accessible, modern, and secure online system for Accredited Representatives. We aim to streamline the use of digital forms, providing a faster and smoother experience for both representatives and the Veterans they serve, ultimately improving the overall VA experience.
 
 ## Product Resources
 
