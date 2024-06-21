@@ -69,6 +69,8 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 | Preferred facility | 10-10EZR | [72849](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/72849) | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=679-3884) |
 | EZR v2 | 10-10EZR | None | [Figma designs](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=1091-32802) |
 
+</details>
+
 ## Archive
 
 <details> 
