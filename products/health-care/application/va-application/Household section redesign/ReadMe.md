@@ -1,6 +1,12 @@
 # Initiative Brief - 10-10EZ Household section optimization
 - [Household section optimization epic #41403](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41403)
 
+### Figma Link
+| Purpose | Form | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------| 
+| Household information section (refects production)| 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7393) |
+
+
 ## Outcome Summary
 
 The 10-10EZ is easier for applicants to understand and complete without having to exit the application.
