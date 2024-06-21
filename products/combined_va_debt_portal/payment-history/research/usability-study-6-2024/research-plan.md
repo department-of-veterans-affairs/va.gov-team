@@ -7,14 +7,6 @@
 
 ## Background
 
-Briefly describe the background of your product. Consider:
-
--   What problem is your product trying to solve?
-    
--   Where is your product situated on VA.gov? (ex: auth vs. unauth)
-    
--   What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
-    
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/initiative-brief.md) 
 
@@ -96,13 +88,24 @@ What are you trying to learn from this research?
 
 Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
-1.  How understandable are the overpayment summary page and detail page? How is the comprehension of the different financial elements on these pages?
+1.  How understandable is the:
+- Overpayment summary page
+- Overpayment detail page
+- Resolution page
+- Debt letter page?
     
-2.  What is the findability of different elements like on these pages?
+  
+2. Are participants able to locate how to:
+- Pay their bill (locate the file information that allows them to pay)
+- Request financial help
+- Dispute their debt
+- 
+3. Do participants understand:
+- When their bill is due?
+- How much is currently due?
+  
+
     
-3.  What is missing in this experience, if anything?
-    
-4.  Do Veterans understand the callouts that indicate the debt has progressed with more serious consequences (treasury, debt collections)?
     
 
 ### Outcome
@@ -122,15 +125,23 @@ Consider bucketing research questions under research goals.
     
 -   How understandable are the overpayment summary page and detail page? How is the comprehension of the different financial elements on these pages?
     
-	-	Do participants notice and understand the icon callouts on the debt overview page (exclamation point, checkmark)?
+- Do participants notice and understand the icon callouts on the debt overview page (exclamation point, checkmark)?
     
-	- What elements on the page draw their attention?
+- What elements on the page draw their attention?
     
-	- What doesn’t stand out/ is less noticeable they might be missing?
+- What doesn’t stand out/ is less noticeable they might be missing?
     
-	- Can participants define and/or understand the different transaction fields (current amount, original amount, total paid, date of last payment, next payment due, total late fees/interests)?
+- Can participants define and/or understand the different transaction fields
+	- current amount
+ 	- original amount
+  	- total paid
+  	- date of last payment
+  	- next payment due
+  	- total late fees/interests?
     
-	- Can participants point out/indicate where on the page the CTAs/important actions are? (pay, request help, dispute the debt)
+- Can participants point out/indicate where on the page the CTAs/important actions are?
+	- "Resolve"
+	- "Pay your balance, request help or dispute this overpayment"
     
 
 -   What is the findability of different elements like on these pages?
@@ -141,27 +152,24 @@ Consider bucketing research questions under research goals.
 
 -   What is missing in this experience, if anything?
     
--   Do Veterans understand the callouts that indicate the debt has progressed with more serious consequences (treasury, debt collections)?
-    
-	- Without prompting or leading, do Veterans notice that the debt has been sent to collections or treasury?
-    
+        
 
 ### Hypothesis
 
 What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
 
-**Hypothesis 1: Debt Status Noticeability**
+**Hypothesis 1: One-thing-per page**
 
--   The yellow call-out box on the debt detail page informing the Veteran of the status of their debt will draw the Veteran’s eye and stand out.
+-   Participants may find the lower amount of content on each page makes information easier to comprehend
+-   Participants may find the amount of clicks to pay their debt to be overwhelming
     
-
 **Hypothesis 2: Payment History Comprehension**
 
 -   The financial elements on the detail page (current amount, original amount, total paid, date of last payment, next payment due, total late fees/interests) will be easy to understand and provide the right amount of information for the Veteran to understand what they need to know.
     
-**Hypothesis 3: Sent to Treasury Notice**
+**Hypothesis 3: Ability to understand what is due, when it is due, and how to resolve**
 
--   Participants might want to be informed about the debt being sent to the treasury sooner on the portal.
+-   Participants will be able to understand the amount that is due, when it is due, and how to resolve the debt (pay, request help, dispute)
     
 
 ## Methodology
@@ -171,20 +179,6 @@ Describe the method you’re planning. You should be able to explain why this me
 Examples of common research methods include:
 
 -   Usability testing - appropriate for evaluative research
-    
-Additional resources:
-
--   Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project.
-    
--   Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support.
-    
--   If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-    
--   If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)
-    
--   If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-    
--   In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
     
 
 ### Location
@@ -219,7 +213,7 @@ Before writing your recruitment criteria, be sure to review the following resour
     
 -   [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
     
-*We would like to request a kick off call with Perigean the week of 6/17*
+*We would like to request a kick off call with Perigean the week of 6/24*
 
 *We would like Perigean to help take notes during the interviews*
 
@@ -280,18 +274,12 @@ Primary criteria (must-haves) What demographics, experience, and scenarios do yo
 -   75% of participants must have experienced financial hardship now or in the past
     
 
-  
-
--   While the FSR asks for financial information, we won't be asking our participants to provide exact financial information. However, we want to simulate a real experience as much as we can to ensure the experience is intuitive for Veterans.  
-      
     
 -   Please confirm participants are comfortable talking about their personal finances.
     
-
   
 
--   At least 1-2 assistive technology users (user with low vision, or user of hearing aide, user who uses voice over)
-    
+-   At least 2 screen reader users 
 
   
 
@@ -475,7 +463,7 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Wednesday, Jun 26, 2024 - Wednesday, Jul 3, 2024
+Wednesday, Jun , 2024 - Wednesday, Jul , 2024
 
 Tuesday, Wednesday
 
