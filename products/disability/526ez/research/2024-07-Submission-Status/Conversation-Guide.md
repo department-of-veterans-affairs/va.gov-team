@@ -127,34 +127,32 @@ For our purposes, imagine that you have already reviewed your information. Pleas
 
 Take a moment to review this page before we discuss it. Do your best to think aloud as you go.
 
-**What do you think is the purpose of this page?**  
+What do you think is the purpose of this page?
 
  - Does this page match your expectations for what would happen next?
     
-**Based on this information, can you tell me what you think is happening to the claim you just submitted?**
+Based on this information, can you tell me what you think is happening to the claim you just submitted?
  -  What does “date initiated” or “in progress” mean to you?
        
        - Did any information stand out to you as especially clear and useful?
        
        - Did any information stand out as confusing?
 
-**Is there anywhere else on VA.gov that you would expect to find information about your submissions status?**
+Is there anywhere else on VA.gov that you would expect to find information about your submissions status?
 
 - What do you think will happen next with your claim submission?
        
   - How soon would you expect to receive an email from VA?
 
  
-**Is there anything else you would like to do on this page? [Probe on claim record]**
+[Direct toward claim record] Is there anything else you would like to do on this page? 
  - If you had to save this page, how would you do it?
- - What information would you expect to see if you pressed the print
-   button?
+ - What information would you expect to see if you pressed that button [print record].
       
-  -   Is there any information you would want included in a claim record that is missing from this page? 
-          
-     -  If you could download a full copy of your submission later on VA.gov would you want to do so? 
+  -   Is there any information you would want to save for your personal records that is missing from this page?
+  -   If a full pdf of your claim was available for download on VA.gov, what would you do? 
 
-**What are you most likely to do next, now that you’ve reviewed this page?**
+What are you most likely to do next, now that you’ve reviewed this page?
 
 Thanks so much! Later I’m going to refer to this page as the “confirmation page.” There’s no pressure to keep it in your mind– just know we’ll referring back to it.
 
