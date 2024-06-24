@@ -153,7 +153,6 @@
             - Sounds like we need to wait for the approval from IVC
         - ~❗🟪 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)~
             - Won't be ready until staging review is done
-        - We will need to go through staging review with Appts team before we release
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
         - Here are the [updated wireframes](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=3181-3191&t=DFFtXsWzfBNMQy17-1)
@@ -179,7 +178,7 @@
         - ~🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)~
             - Removed from sprint, needs to be done at the Platform level
         - ✔️ 🟩 [[FE] - Remove old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
-        - 🟩 [[FE] don't convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+        - ✔️ 🟩 [[FE] don't convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
             - Added towards the end of the sprint
 
 ______________________________________________________________________________________________________________________________________________________
