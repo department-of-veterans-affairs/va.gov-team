@@ -118,6 +118,7 @@ For our purposes, imagine that you have already reviewed your information. Pleas
 1.What do you think is happening on this screen?
     
 2.How long would you expect to spend on this screen?
+
     -   What would you do if it took longer?
       
 3. What do you expect will happen next?
@@ -128,21 +129,30 @@ For our purposes, imagine that you have already reviewed your information. Pleas
 Take a moment to review this page before we discuss it. Do your best to think aloud as you go.
 
 **1. What do you think is the purpose of this page?**  
+
     - Does this page match your expectations for what would happen next?
     
 **2. Based on this information, can you tell me what you think is happening to the claim you just submitted?**
+
     - What does “date initiated” or “in progress” mean to you?
+    
     - Did any information stand out to you as especially clear and useful?
+    
     - Did any information stand out as confusing?
 
 **3. [CST/MyVA] Is there anywhere else on VA.gov that you would expect to find information about your submissions status?**
+
     -  What do you think will happen next with your claim submission?
+    
         - How soon would you expect to receive an email from VA?
  
 **4. [Claim record] Is there anything else you would like to do on this page?**
     -   If you had to save this page, how would you do it?
+    
     -   What information would you expect to see if you pressed the print button?
+    
         -   Is there any information you would want included in a claim record that is missing from this page? 
+        
         -   If you could download a full copy of your submission if it were available later on VA.gov? 
 
 **5.What are you most likely to do next, now that you’ve reviewed this page?**
@@ -155,9 +165,7 @@ Thanks so much! Later I’m going to refer to this page as the “confirmation p
 Now, imagine ten minutes later you check your email and this message is waiting for you in your inbox.
 
 1. What do you think is the purpose of this email?
-    
 2. Has the status of your submission changed? How do you know?
-    
 3. What are you most likely to do or expect next, now that you’ve received this email?
     -  Are there any actions left for you to take?
      
