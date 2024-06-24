@@ -84,13 +84,7 @@ ________________________________________________________________________________
 
 
     - **Sub Goal: [Feature] 3**
-         - ❗ 🟥 
-         - ✔️ 🟥 🟦 
-              - ~[Comment in IA Feedback ticket from Midpoint Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85523#issuecomment-2158477844)~
-              - ~[Comment in Figma](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4?node-id=2130-7431#829820263)~
-         - 🟥 Address Midpoint Review feedback
-              - 🟥 [Midpoint - **Content** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85519)
-         - 🟥 [Review feedback and make updates to business process flow (Mural(s))](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85555) 
+      
     - **Sub Goal: [Feature] 4**
          - 🟦 [
 
