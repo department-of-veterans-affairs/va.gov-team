@@ -26,7 +26,7 @@
     * HRC POC:  Brenda Torres-Hill (brenda.torres-hill@va.gov) 
 
 ## Process: 
-* Download the [In Use Mobile Product Guide from Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs/In%20use%20version0)
+* Download the [Live VA Call Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA%20Call%20Center%20Process/Live%20VA%20Call%20Center%20Guide)
    * Given its a Word Doc and Ad Hoc does not have access to editting Word documents, you will need to go to [Google Drive](https://drive.google.com/drive/u/0/folders/1CSjxUSTORK8MH7NqffA_1aeaMd4xHqZy) to get an editable version
    * Open up existing and create a Copy with updating the version number accordingly if old was 7.2 then new is 7.3
 * Modify it accordingly and update the change management
@@ -36,7 +36,6 @@
 * Once the Product Guide is completely updated see [Veteran Support/ Contact Center document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md) for direction on how to proceed
    * You will need to convert it to Word when sending it to the call center
    * Will need to make changes in Google Drive
-       * Newest version goes in [In Used GuideFolder ](https://drive.google.com/drive/u/0/folders/1CSjxUSTORK8MH7NqffA_1aeaMd4xHqZy)
-       * Old Version goes into [Old product guides Folder](https://drive.google.com/drive/u/0/folders/1R0AYhrt7D-VRvPe4KIPAYPooBxHyVPjD)
+       * Newest Word Doc version replaces the version in [Live VA Call Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA%20Call%20Center%20Process/Live%20VA%20Call%20Center%20Guide)
+       * Old Version goes into [Archived VA Call Center Guides](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA%20Call%20Center%20Process/Archived%20VA%20Call%20Center%20Guides)
    * Example [32766 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/32766)
-* Remove the old version in [In Use Mobile Product Guide from Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases/Call%20Center%20Docs/In%20use%20version0) and replace it with the new one Word doc version
