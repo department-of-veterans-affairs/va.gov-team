@@ -120,6 +120,7 @@
         - 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - **Sub Goal: Tech Debt**
         - 🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)
+        - 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
         - 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
 </details>
 
@@ -176,6 +177,7 @@
         - ✔️ 🟩 [[BUG] [CHIP] Pre-Check-in Link is Invalid (Missing Underscore) ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85564)
         - ~🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)~
             - Needs more discussion
+            - converted to [[FE] don't convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
         - ✔️ 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
         - ~🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)~
             - Removed from sprint, needs to be done at the Platform level
