@@ -31,7 +31,7 @@
    
    (2.4) PTSD 0781a form - a new auto generated PDF is created and submitted with the Submission ID for Form 526e to EVSS
    
-   (2.5) Form 4142 - a new auto generated PDF is created and submitted with the Submission ID for Form 526 to central mail
+   (2.5) Form 4142 - a new auto generated PDF is created and submitted with the Submission ID for Form 526 to Lighthouse Benefits Intake 
    
    (2.6) BDD instructions - this is for internal (adjudicator) fact sheet to EVSS (cover sheet per 526)
    
@@ -58,7 +58,7 @@
 
 - Team 2  - Veteran email notification when https://github.com/department-of-veterans-affairs/va.gov-team/issues/85467
 	- 0781 fails to upload to EVSS (future LH)
-	- 0781a  fails to upload to EVSS (future LH) 
+	- 0781a fails to upload to EVSS (future LH) 
 	- Send Veteran mailer if 4142 fails to upload to central mail
 
 - Team ? - Historical Veteran evidence document upload silent failures - New! [86714](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86714)
