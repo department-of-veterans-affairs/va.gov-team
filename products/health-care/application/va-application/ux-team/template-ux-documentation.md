@@ -1,4 +1,4 @@
-# [WIP] Template - UX Documentation
+# [Draft] Template - UX Documentation
 - Last updated June 24, 2024
 
 ---
