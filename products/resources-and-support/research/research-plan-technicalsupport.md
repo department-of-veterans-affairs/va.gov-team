@@ -107,11 +107,6 @@ Participants should be aware of and have opinions on privacy and data security c
 
 Current VA Services Interaction:
 
-Are you currently receiving any benefits or services from the Department of Veterans Affairs (VA)?
-
-- Yes (qualifies)
-- No
-
 Have you used any veteran support services in the past 12 months?
 
 - Yes (qualifies)
