@@ -1,6 +1,7 @@
 ## Purpose: 
 Establishing expectation and process for when QA and Release team members are out for planned and unplanned amounts of time. 
 
+Created Feb 2024
 Last updated Feb 2024
 
 ## How it works: 
