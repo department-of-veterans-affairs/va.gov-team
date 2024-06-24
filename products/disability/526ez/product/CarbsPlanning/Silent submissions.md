@@ -142,3 +142,10 @@ To your questions regarding "what's left on CY1" (and I expect we won't get to t
 1. [“Keep track of the manually-delivered submission IDs and add them to this spreadsheet.](https://dsva.slack.com/archives/C04KW0B46N5/p1718976357586589?thread_ts=1718974334.591659&cid=C04KW0B46N5)”
     1. is this something i'm being asked to do?
     2. Nod to chain of custody problem
+  
+<h3>Meetings </h3>
+
+- 6/21/24
+(https://coformaco.zoom.us/rec/share/cBFUzTQ-jXIRrbogdxbjy4zQsTyZX9SWu4HaOPpDQXYceXf7NqellDiYtPFL2-X6.8F-meKwNKm90CdF8
+
+Passcode: XGcM^3oV)
