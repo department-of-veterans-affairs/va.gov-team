@@ -1,5 +1,5 @@
 # IIR GI Bill Statement of Benefits Work   
-April - May 2024
+April - June 2024
 
 ---
 
@@ -17,7 +17,7 @@ Mockups: [Figma](https://www.figma.com/file/fY52BhHs0EI9ODWrqKZnZV/GI-Bill-State
 * **Next steps:** Additional work could be done to further investigate the error breakdown. Several of the errors have been rolled up in a singular reason, due to the system being unable to differenatiate. There is some indication that will be better in the future as backend systems are updated.
 
 ## Content Updates / Restructuring
-Status: Design/Recommendations Complete; IIR FE working on implementing changes   
+Status: IIR FE has completed and launched the changes recommended by design in June 2024   
 Mockups: Figma “[Additional Tickets](https://www.figma.com/file/fY52BhHs0EI9ODWrqKZnZV/GI-Bill-Statement-of-Benefits?type=design&node-id=82%3A1294&mode=design&t=K9LfE3IQAM24IuF8-1)”
 
 **Summary:**
@@ -26,11 +26,14 @@ Mockups: Figma “[Additional Tickets](https://www.figma.com/file/fY52BhHs0EI9OD
         * CAIA reviewed the content and did not determine that there was an immediate need to rewrite the page; however, they did note that the restructuring proposed would better serve users, i.e. clear headers would provide a better accessibility experience and the “Need Help” component could be updated to the version that is currently in use
         * The link to “How can I see my Post-9/11 GI Bill benefit payments?” should be updated and we have provided the correct link in the mockups, as well as updated the link content.
         * Headings have been corrected in the mockups
+        * **As of June 2024, the updated page is live**
   2) TTY Link for deaf and hard of hearing users - [Ticket 79972](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79972)
         * Added to the mockups
         * This is a small adjustment that just needs to be added to the “Need Help” component.
-* **Next steps:** These are minor content and restructuring changes that could be implemented in the interim to a full content audit. IIR FE is taking a look at implementing the changes and updating the page with V3 components.
-Additionally, CAIA noted that the Enrollment History may also supposed to be showing something other than a summary card component (i.e. a list of enrollment history); however, the staging users we were able to use to show the benefits page vs the error only had the summary box. There's a potential for an issue there, but we don't have the visibility.
+        * **As of June 2024, the updated page is live**
+* **Next steps:** IIR Front End has implemented the changes to the GIBS page.
+
+Additionally, CAIA and our FE noted that the Enrollment History should potentially to be showing something other than a summary card component (such as, a list of the users' enrollment history); however, the staging users we had available to view the benefits page only showed the summary box. There's a potential for an issue there, but we don't have the visibility to determine the proper visual for enrollment history. **This will require further investigation to correct.**
 
 ## Information Architecture / URLS
 Status: CAIA working on audit; IIR implementing changes to breadcrumb content and urls    
@@ -46,11 +49,12 @@ Additional Information: “[Staging Screenshots](https://www.figma.com/file/fY52
     * URL: [https://staging.va.gov/education/gi-bill/post-9-11/ch-33-benefit/](https://staging.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
         * H1: Check Post-9/11 GI Bill Statement of Benefits
     * In May 2024, the URLS were corrected by another team. The link "va.gov/education/gi-bill/post-9-11/ch-33-benefit/” was updated to “va.gov/education/check-post-9-11-gi-bill-benefits/." The breadcrumb link redirect the began triggering a broken link error within the cms helpdesk workflow. After it was brought to our attention, IIR agreed to investigate and is in the process of determining how to correct so that we can address the breadcrumb errors in conjunction with the page restructuring. 
-* **Next Steps:** IIR looking into pathways to fix the breadcrumbs. Per our FE/BE engineers, the breadcrumbs do not live within the content of the page, so they are looking to gain access. The fixes are straightforward, just updating urls and content, but we need to find the origin.
+* **Next Steps:** IIR looking into pathways to fix the breadcrumbs. Per our FE/BE engineers, the breadcrumbs do not live within the content of the page, so they are looking to gain access. The fixes are straightforward, just updating urls and content, but we need to find the origin. **As of 6/24/24, the [ticket](https://app.zenhub.com/workspaces/va-iir-6508c0bd79e64e0fb5855caf/issues/gh/department-of-veterans-affairs/va-iir/702) is still open.**
 
 ---
 
-Updated:    
-Liza McRuer, IIR, May 21, 2024 - Updated with additional work the team was able to complete prior to handoff
-Liza McRuer, IIR, April 25, 2024 - Added information about the Enrollment History summary box as a potential error; updated status on error messaging   
-Liza McRuer, IIR, April 17, 2024 - Creation of file
+Updated:      
+Liza McRuer, IIR, June 24, 2024 - Updated with additional details on the work the team completed   
+Liza McRuer, IIR, May 21, 2024 - Updated with additional work the team was able to complete prior to handoff   
+Liza McRuer, IIR, April 25, 2024 - Added information about the Enrollment History summary box as a potential error; updated status on error messaging      
+Liza McRuer, IIR, April 17, 2024 - Creation of file   
