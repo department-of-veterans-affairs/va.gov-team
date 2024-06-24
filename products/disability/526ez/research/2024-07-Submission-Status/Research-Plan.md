@@ -1,4 +1,4 @@
-# Research Plan for Disability Benefits Experience Team- Submission Status Evaluative Research, July 2024
+# Research Plan for Disability Benefits Experience Team- Submission Status, July 2024
 
 
 ## Background
