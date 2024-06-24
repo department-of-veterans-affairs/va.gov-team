@@ -1,5 +1,5 @@
 # SPRINT GOALS
-🟦 ENG 🟨 RE 🟥 DE 🟪 PM 🟩 Analytics ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
+ 🟨 RE [Review] 🟥 DE 🟪 PM 🟩 Analytics ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
 
 <details>
 <summary>FUTURE SPRINT - 6/26/2024 - 7/9/2024 </summary>
