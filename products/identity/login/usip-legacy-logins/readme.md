@@ -27,11 +27,11 @@ This work involves the following teams:
 - Design system team
 
 ## Overview
-With the looming sunsetting of MHV and DSLogon it is incumbent that we use the USiP to make the transition for Veterans who use those credentials as simply as possible.  Strategies for this include:
+With the looming sunsetting of MHV and DSLogon it is incumbent that we use the Universal Sign-in Page to make the transition for Veterans who use those credentials as simply as possible.  Strategies for this include:
 
-- De-emphazising the legacy credentials on the USiP
-- Messaging to Veterans who use those credentials that they will need to transition to either Login.gov and/or ID.me prior to
-- Explaining the processes for signing up for ID.me or Login.gov
+- De-emphazising the legacy credentials on the Universal Sign-in Page.
+- Messaging to Veterans who use those credentials that they will need to transition to either Login.gov and/or ID.me prior to the sunsetting of the credential(s) they currently use.
+- Explaining the processes for signing up for ID.me or Login.gov.
 
 
 ## User problem statements
@@ -57,8 +57,8 @@ With the looming sunsetting of MHV and DSLogon it is incumbent that we use the U
 
 
 ### Undesired Business Outcomes
-* Chaos and disorder at both the MHV and DSLogon deadlines
-* Call center swamped with outraged Vets who suddenly can't sign-in
+* Chaos and disorder at both the MHV and DSLogon deadlines.
+* Call center swamped with outraged Vets who suddenly can't sign-in.
 
 
 
