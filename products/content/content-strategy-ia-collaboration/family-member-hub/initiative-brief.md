@@ -96,10 +96,10 @@ www.va.gov/health-care/family-caregiver-benefits/ | 15.58%
 www.va.gov/pension/survivors-pension/ | 12.98%
 www.va.gov/education/survivor-dependent-benefits/ | 11.50%
 
-**3. Increased feedback score for able to complete task**
 
+**2. Increased feedback score for able to complete task**
 
-**4. Increased overall average CSAT scores for family member hub and family-specific pages**
+**3. Increased overall average CSAT scores for family member hub and family-specific pages**
 - _past data from 8/17/22-8/16/23_
 
 Old page | CSAT | Trust | Able to complete task | 
