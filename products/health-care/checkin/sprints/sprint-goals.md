@@ -142,7 +142,7 @@
         - ✔️ ❗🟦 [[BE] Modify travel_claims/client to add claim_status api call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84754)
         - ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
         - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
-        - ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
+        - ✔️ ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
     - **Sub Goal: Move to New AWS Instance**
         - ✔️ 🟨 [[DevOps] Dev implementation for CHIP IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/79798)
         - ✔️ 🟨 [[DevOps] Discovery on dev implementation for lorota IaC Terraform rewrite](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83792)
@@ -179,7 +179,7 @@
         - ✔️ 🟩 [[BUG] [FE] Add 16px bottom padding to all additional info components in Check-in and Pre-check-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76467)
         - ~🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)~
             - Removed from sprint, needs to be done at the Platform level
-        - 🟩 [[FE] - Remove old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
+        - ✔️ 🟩 [[FE] - Remove old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
 
 ______________________________________________________________________________________________________________________________________________________
 
