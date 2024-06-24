@@ -4,7 +4,7 @@
 - Attendees: Lois Lewis, Jamie Fiore, Syd Hoeper, Steven Straily, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
 - Facilitator: Syd
 - Next meeting facilitator: Syd
-- Agenda topics [per Slack thread](https://dsva.slack.com/archives/C068Q9DQACX/p1718630778474219](https://dsva.slack.com/archives/C068Q9DQACX/p1718986997244209):
+- Agenda topics [per Slack thread](https://dsva.slack.com/archives/C068Q9DQACX/p1718986997244209):
     - Order of operations: CHAMPVA readout vs. process flows
     - OHI discussion last Thursday + comments box
     - Share discussion around "Use same address" for FMP forms
