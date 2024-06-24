@@ -72,15 +72,15 @@ For this usability study, we will be using the **moderated usability testing** m
 Zoom
 ### Research materials
 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to conversation guide](products/health-care/appointments/va-online-scheduling/research/2024-05-oh-scheduling/conversation-guide.md)
+- [Link to Mobile prototype]([url goes here](https://www.figma.com/proto/1dSk9a4KDxqxKzgRDmXyPu/Prototype%3A-Scheduling-improvements--%7C-Appointments-FE?page-id=2693%3A16151&node-id=4161-44706&viewport=2031%2C-513%2C0.35&t=CdmFwVzYJRqvSu7a-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4161%3A44706))
 
 
 ## Recruitment	
 
 Perigean will:
-- recruit 16 total participants for this study.
-- schedule a brief kickoff call to run through the recruitment criteria before recruiting.
+- Recruit 16 total participants for this study.
+- Schedule a brief kickoff call to run through the recruitment criteria before recruiting.
 
 ### Recruitment Criteria
 
