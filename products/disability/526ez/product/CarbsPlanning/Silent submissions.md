@@ -146,6 +146,4 @@ To your questions regarding "what's left on CY1" (and I expect we won't get to t
 <h3>Meetings </h3>
 
 - 6/21/24
-(https://coformaco.zoom.us/rec/share/cBFUzTQ-jXIRrbogdxbjy4zQsTyZX9SWu4HaOPpDQXYceXf7NqellDiYtPFL2-X6.8F-meKwNKm90CdF8
-
-Passcode: XGcM^3oV)
+(https://coformaco.zoom.us/rec/share/cBFUzTQ-jXIRrbogdxbjy4zQsTyZX9SWu4HaOPpDQXYceXf7NqellDiYtPFL2-X6.8F-meKwNKm90CdF8 (Passcode: XGcM^3oV)
