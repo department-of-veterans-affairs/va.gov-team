@@ -47,7 +47,7 @@
 - **GOAL: Address Tech Debt**
 
 #### PLANNED RELEASES
-- **Medication Wording for Appointments**
+- **Medication Wording for Appointments** ?????
 - **New Landing Page WITH OUT Upcoming Appointments**
 
 #### SPRINT TICKETS
@@ -56,6 +56,8 @@
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
         - Hold Staging Review - TBD by Appts Team
+        - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
+        - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Increase PCI Usability**
@@ -83,7 +85,6 @@
 
 #### SPRINT GOALS
 - **GOAL: Support Production**
-- **GOAL: Support Congressional Mandate**
 - **GOAL: Make submission of a travel reimbursement claim easier**
 - **GOAL: Increase PCI Usability**
 - **GOAL: Address Tech Debt**
@@ -94,10 +95,6 @@
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
-- **GOAL: Support Congressional Mandate**
-    - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
-        - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
-        - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
