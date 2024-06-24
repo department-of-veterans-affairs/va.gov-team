@@ -2,7 +2,7 @@
 "Upload" is used a lot when referring to the work for the disability claims. This is partly because the API endpoints include "upload" in the naming. To reduce confusion we gave more specific names to the uploads and what they are related to. 
 
 ## Upload names
-- _526 Submission_ - refers to the 526e primary data only
+- _526 Submission_ - refers to the 526 primary data only
 - _BDD Instructions_ - refers to the cover sheet that accompanies the 526 submission to EVSS or Lighthouse
 - _PTSD Ancillary_ - refers to the 0781 and 0781a data for PTSD claims
 - _4142 supplemental_ - refers to the form data for authorization to disclose medical information
