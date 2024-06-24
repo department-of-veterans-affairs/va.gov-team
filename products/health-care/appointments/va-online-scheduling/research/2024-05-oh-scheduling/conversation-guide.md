@@ -121,10 +121,10 @@ Prompt: Now you would like to go back to see a list of your appointments how wou
 
 
 #### Things to watch for:
-First timer Immediate care alert interactions and thoughts
-Recent locations thoughts and reactions
-Choose a provider 
-PID page thoughts 
+- First time using the tool, they will get a "do you need immediate care" alert. What are thier interactions with the alert, any thoughts?
+- Sorting their facilities by Recent locations, what are their thoughts and reactions?
+- Choose a provider page thoughts and comments 
+- Patient Indicated Date page improvements thoughts?
 
 - _Can participant understand the information on the details page?_
 
