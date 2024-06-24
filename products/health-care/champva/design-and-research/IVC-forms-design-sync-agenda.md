@@ -6,11 +6,36 @@
 - Next meeting facilitator: Syd
 - Agenda topics [per Slack thread](https://dsva.slack.com/archives/C068Q9DQACX/p1718986997244209):
     - Order of operations: CHAMPVA readout vs. process flows
+        - slotted to work on the process flows this sprint (ends next wednesday)
+        - Lois says let's get the process flow done, and then maybe we can hold off on the service blueprint and switch to the readout instead for the next sprint
+        - Lois is unsure of Premal's urgency for the readout
+        - So: focus on FMP Claims process flow, next sprint reassess whether to work on service blueprint or read out
     - OHI discussion last Thursday + comments box
+        - Lois is concerned that there's an unnecessary box that's not needed
+        - Stakeholders expressed that people do submit additional comments and documents with their applications
+        - By digitizing the form, we're removing peoples ability to add what they want "into the envelope"
+        - Lois doesn't want clutter or a user to say "what kind of comment would I have?"
+        - Lois says that it's not a hill she'll die on, so if we want to add it it's okay as long as it's simple and people only see it if they answer yes to the screener question
+        - There's currently an additional comments box for the OHIs, so we can match the pattern and copy it into the Medicare section
+        - Comments will be optional
     - Share discussion around "Use same address" for FMP forms
+        - Thought is to get rid of the "use same address" radio button and instaed just she the home address screen again with the (as proposed by Brian)
+        - Lois is inclined to go to design office hours to see how others do it
+        - Lois is hesitant to go with Brian's suggestion because "the researched showed that people wanted [to cut down on entering their address(es)]"
+        - Lois wants:
+              1. See how other people are handling this situation
+              2. Go to design office hours and see what they think
+    - Design Discussion Documentation
+        - Syd made a combined version of all designers' ideas and Lois likes it -- Syd will tweak and touch base with other 10-10 team to get their feedback
+        - Future Considerations section should live in Figma for designers and eventually be transferred to Mural for wider visibility
 
 ### Decisions and action items
 - [ph]
+- For now, continue to work on the process flows for the remaining sprint. Next sprint assess as a group whether to do the service blueprint or the stakeholder readout (Rachael and Steven)
+- We will be adding the optional additional comments/uploads to the Medicare section of the OHI form that matches the pattern in the health insurance section (Jamie/Syd and Mary)
+- For the FMP address situation: sign up for design office hours to discuss with them, and see how other people are handling the situation (Brian)
+- Tweak design decision format and show it to 10-10 team to get feedback (Syd)
+- Next Monday we should talk about what's upcoming so Lois can consider getting coverage for
 
 ## June 17, 2024
 ### Notes
