@@ -2,7 +2,7 @@ name: Public Website Intake Form
 description: To file request with Public Websites
 title: "PW intake: <Type of Request> from <Team>"
 labels: 
-  - "Public Websites"
+  - "Public Websites", sitewide
   - "Needs refining"
 assignees: 
   - jilladams
