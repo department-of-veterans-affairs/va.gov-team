@@ -137,7 +137,7 @@
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - **Sub Goal: Production Support**
-        - ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
+        - ✔️ ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
         - ✔️ ❗🟥 [[UX] Create new text message to inform veteran about claim submission and some issues processing the claim ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84767)
         - ✔️ ❗🟦 [[BE] Modify travel_claims/client to add claim_status api call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84754)
         - ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
@@ -180,6 +180,8 @@
         - ~🟩 [Use the new DS simplified footer component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71127)~
             - Removed from sprint, needs to be done at the Platform level
         - ✔️ 🟩 [[FE] - Remove old feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84396)
+        - 🟩 [[FE] don't convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
+            - Added towards the end of the sprint
 
 ______________________________________________________________________________________________________________________________________________________
 
