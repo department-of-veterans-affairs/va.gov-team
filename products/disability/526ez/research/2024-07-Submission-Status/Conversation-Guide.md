@@ -152,7 +152,7 @@ Take a moment to review this page before we discuss it. Do your best to think al
       
   -   Is there any information you would want included in a claim record that is missing from this page? 
           
-     -   If you could download a full copy of your submission later on VA.gov would you want to do so? 
+     -  If you could download a full copy of your submission later on VA.gov would you want to do so? 
 
 **What are you most likely to do next, now that you’ve reviewed this page?**
 
