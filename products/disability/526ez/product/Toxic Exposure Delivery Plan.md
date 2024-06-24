@@ -7,9 +7,9 @@
 ## Scope
 - Release 1.0 only to Veterans who begin a new 526 form
   - This includes the primary (happy) path and backup submission path.
-  - Delivery deadline for DBEX: end of June 2024
+  - Delivery for DBEX: end of July 2024
 - Release 1.1 to Veterans who have an In Progress Form (IPF)
-  - Delivery deadline: TBD
+  - Delivery deadline: August 2024
 
 ## Relevant Links
 - [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
@@ -40,7 +40,7 @@
 - Internal dependency: completion of /generatePDF endpoint migration in backup submissions (team 2) 
 
 
-## Planned Delivery Timeline MVP Release April 2024 - July 2024
+## Planned Delivery Timeline MVP Release April 2024 - August 2024
 This delivery plan is segmented into pieces of functionality that are available to view in staging as a cohesive end to end user experience. Based on the way the data is structured, it has been broken out to segment the different questions of column 4 of the 526ez as key milestones.  
 
 Sprints noted with an asterisk (*) will have flexible delivery completion, depending on the availability of the Lighthouse /submit endpoint. The official production release to users cannot occur without the /submit endpoint available in the production environment.
@@ -90,7 +90,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
-**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 34 (6/19-7/2/24)*      
+**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 35 (7/3-7/16/24)*      
 **Actual Delivery Date**:            
 **Environment**: Production          
 **Building Blocks:**      
