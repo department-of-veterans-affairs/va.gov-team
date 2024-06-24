@@ -61,4 +61,4 @@
 	- 0781a  fails to upload to EVSS (future LH) 
 	- Send Veteran mailer if 4142 fails to upload to central mail
 
-- Team ? - Historical silent Veteran evidence document upload failures - New
+- Team ? - Historical silent Veteran evidence document upload failures - New! [86714](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86714)
