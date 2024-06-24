@@ -27,9 +27,9 @@ This work involves the following teams:
 - Design system team
 
 ## Overview
-With the looming sunsetting of MHV and DSLogon it is incumbent that we use the Universal Sign-in Page to make the transition for Veterans who use those credentials as simply as possible.  Strategies for this include:
+With the looming sunsetting of MHV and DSLogon it is incumbent that we use the Unified Sign-in Page to make the transition for Veterans who use those credentials as simply as possible.  Strategies for this include:
 
-- De-emphazising the legacy credentials on the Universal Sign-in Page.
+- De-emphazising the legacy credentials on the Unified Sign-in Page.
 - Messaging to Veterans who use those credentials that they will need to transition to either Login.gov and/or ID.me prior to the sunsetting of the credential(s) they currently use.
 - Explaining the processes for signing up for ID.me or Login.gov.
 
