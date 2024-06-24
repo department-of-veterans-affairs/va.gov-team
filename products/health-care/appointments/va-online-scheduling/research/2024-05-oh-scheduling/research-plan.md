@@ -85,7 +85,7 @@ Research Questions:
 We'll use these when developing the research plan. Our main goal is to test the OH integration. 
 
 
-## As a Veteran, I can easily schedule at locations I've recently attended.
+### As a Veteran, I can easily schedule at locations I've recently attended.
 
 ### Scenario to test
 
@@ -96,7 +96,7 @@ A Veteran chooses from a list of their recent locations when scheduling an appoi
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
 – The Veterans will appreciate and find value in the default "Sort by Recent locations"
 
-## As scheduling staff, I know what date a Veteran preferred to schedule their appointment
+### As scheduling staff, I know what date a Veteran preferred to schedule their appointment
 
 ### Scenario to test
 
@@ -106,7 +106,7 @@ A Veteran chooses their preferred date from an improved date picker.
 
 Veterans will be able to select a preferred date faster and more easily than in the current flow.
 
-## As a Veteran, I can quickly schedule from previous appointments
+### As a Veteran, I can quickly schedule from previous appointments
 
 ### Scenario to test
 
@@ -118,7 +118,7 @@ When scheduling, a Veteran is offered the option skip directly to choosing a tim
 - Veterans will have a distinct preference to scheduling using the past provider or clinic flow compared to the "type of care" route.
 - Scheduling appointments similar to those they've had in the past will help Veterans schedule more quickly. 
 
-## As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance. 
+### As a Veteran, I need helpful reminders that the scheduling tool is not for emergencies in appropriate places in the process so that it is not an annoyance. 
 
 ### Scenarios to test
 
@@ -134,7 +134,7 @@ A Veteran encounters the urgent medical need warning:
 - Veterans will find these warnings helpful
 - Veterans will find that the alert is timely and appropriate
 
-## As a Veteran, I want to be alerted when appointments events happen so I know exactly what I need to do next
+### As a Veteran, I want to be alerted when appointments events happen so I know exactly what I need to do next
 
 ### Scenario to test
 
