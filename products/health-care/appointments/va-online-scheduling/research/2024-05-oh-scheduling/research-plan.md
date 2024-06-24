@@ -63,7 +63,9 @@ Retiring
 
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+The outcome of this research will provide us with an understanding of how the proposed concepts affect Veterans' experience and efficiency in scheduling. Specifically, the research will provide insights into whether the new features—such as scheduling from recent appointments, sorting by recent locations, the improved date picker, and helpful alerts and reminders—make the process faster, easier, and more valuable for Veterans.
+
+By gathering research data on user preferences, ease of use, and perceived value of the new features, we can make informed decisions about which elements to refine, retain, or remove. 
 
 ### Research questions
 Consider bucketing research questions under research goals. For each question, think about:
