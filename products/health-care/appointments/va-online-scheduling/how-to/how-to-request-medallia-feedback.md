@@ -78,8 +78,8 @@ All in one file, on one tab
 | Week 21 May 19-May 25 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428) | Done |
 | Week 22 May 26-Jun 01 | Peter Russo | [84428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84428)  | Done |
 | Week 23 Jun 02-Jun 08 | Peter Russo | [85551](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85551) | Done |
-| Week 24 Jun 09-Jun 15 | Peter Russo | [86042](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86042) | In Progress |
-| Week 25 Jun 16-Jun 22 | Peter Russo | []() |  |
+| Week 24 Jun 09-Jun 15 | Peter Russo | [86793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86793) | In Progress |
+| Week 25 Jun 16-Jun 22 | Peter Russo | [86793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86793) |  |
 
 ### Older requests
 
