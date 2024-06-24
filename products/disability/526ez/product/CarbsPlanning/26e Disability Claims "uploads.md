@@ -46,19 +46,19 @@
 	- PTSD 0781a
 	- BDD instructions 
 
-- Team 2 - Document upload migration to Lighthouse (document upload endpoint)
+- Team 2 - Document upload migration to Lighthouse (document upload endpoint) https://github.com/department-of-veterans-affairs/va.gov-team/issues/83837
 	- Veteran evidence documents
 	- PTSD 0781
 	- PTSD 0781a
 	- BDD instructions 
 
-- Team 2 - Silent Veteran evidence document fails going to EVSS (short term solution) 
+- Team 2 - Silent Veteran evidence document fails going to EVSS (short term solution) https://github.com/department-of-veterans-affairs/va.gov-team/issues/81612
 	- Email notifying the Veteran (i.e., options for other ways to get the evidence documents to VA)
 	- Provides a list of all the Veteran upload evidence documents
 
-- Team 2  - Veteran email notification when 
+- Team 2  - Veteran email notification when https://github.com/department-of-veterans-affairs/va.gov-team/issues/85467
 	- 0781 fails to upload to EVSS (future LH)
 	- 0781a  fails to upload to EVSS (future LH) 
 	- Send Veteran mailer if 4142 fails to upload to central mail
 
-- New - Previous silent Veteran evidence document upload failures
+- New - Historical silent Veteran evidence document upload failures
