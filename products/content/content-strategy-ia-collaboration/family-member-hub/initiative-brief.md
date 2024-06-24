@@ -56,20 +56,50 @@ Family and caregiver benefit content, applications, and tasks are distributed ac
 
 ### Key Performance Indicators (KPIs)
 
-**1. Equivalent or increased traffic to the new family hub pages compared to current pages**
-- _past data from 8/17/22-8/16/23_
+**1. Equivalent or improved performance to the new family hub pages compared to current pages**
 
-Old page | Avg views/month 
---- | --- 
+_8/17/22-8/16/23_
+
+**Old page | Avg views/month **
+--- | --- | ---
 Family member hub | 240,770 
-Health care > Family health benefits | 73,144
+Health care > Family health benefits | 73,144 
 Disability > Dependent Indemnity Comp | 104,816 
-Education > Survivor dependent benefits | 96,709 
+Education > Survivor dependent benefits | 96,709
 Pension > Survivors Pension | 92,167 
 
 
-**2. Increased feedback score for able to complete task**
-**3. Increased overall average CSAT scores for family member hub and family-specific pages**
+_7/1/23-9/30/23_
+
+Page| Avg page views | Avg time on page | Avg entrance rate | Avg bounce rate | Avg exit rate
+--- | --- | --- | --- | --- | --- 
+Family member hub | 272,870 | 1:22 | 22.29% | 0.77% | 19.40%
+Health care > Family benefits  | 70,808 | 2:28 | 25.17% | 0.69% | 30.74%
+Health care > Family > CHAMPVA | 93,884 | 3:14 | 53.11% | 0.53% |43.56%
+Disability > DIC  | 104,729  | 2:12 | 27.39% | 0.67% | 28.10%  
+Disability > Survivor DIC rates | 101,220 | 2:51 | 29.67% | 1.02% | 38.28%
+Disability > Parent DIC rates | 7,479 | 1:55 | 15.25% | 1.5% | 24.77%
+Education > Survivor benefits | 151,971 | 1:44 | 43.24% | 0.48% | 28.21%
+Education > Survivor > DEA | 111,493 | 1:45 | 25.51% |  0.66% | 25.50% 
+Education > Benefit rates > Chapter 35 rates | 123,978 | 2:16 | 29.20% | 0.94% | 38.65% 
+Pension > Survivors Pension  | 95,041  | 2:35 | 27.47% | 0.79% | 34.04%
+Pension > Survivors > Rates | 33,620 | 4:38 | 28.26% | 0.85% | 47.05%  
+Housing > Surviving spouse pgm | 11,147 | 2:34 | 32.23% | 0.80% | 41.18%
+
+
+
+**Original hub top next pages** (of the 80% that visited another VA.gov page)
+
+Page | %
+--- | ---
+www.va.gov/health-care/family-caregiver-benefits/ | 15.58%
+www.va.gov/pension/survivors-pension/ | 12.98%
+www.va.gov/education/survivor-dependent-benefits/ | 11.50%
+
+**3. Increased feedback score for able to complete task**
+
+
+**4. Increased overall average CSAT scores for family member hub and family-specific pages**
 - _past data from 8/17/22-8/16/23_
 
 Old page | CSAT | Trust | Able to complete task | 
