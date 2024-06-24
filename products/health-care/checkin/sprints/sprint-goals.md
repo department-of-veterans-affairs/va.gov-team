@@ -120,6 +120,7 @@
         - 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - **Sub Goal: Tech Debt**
         - 🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)
+        - 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
 </details>
 
 ## SPRINT 9 - 6/12/2024-6/25/2024
