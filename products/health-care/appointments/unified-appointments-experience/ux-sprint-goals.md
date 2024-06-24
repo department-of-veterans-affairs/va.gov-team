@@ -43,7 +43,10 @@ ________________________________________________________________________________
          - ~❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)~
     - **Sub Goal: [Feature] Stakeholder review & collab cycle** Feature to be created
          - 🟨 [Review] Address feedback from the Design review (example)
-         - 🟥 🟨 
+         - 🟨 [Design Intent - IA Feedback - Appointments Team, Appointments, Medication Review#86003](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/86003)
+         - 🟨 [Design Intent - Design Feedback - Appointments Team, Appointments, Medication Review#85963](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/85963)
+         - 🟨 [Design Intent - Accessibility Feedback - Appointments Team, Appointments, Medication Review#85969](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/85969)
+
     - **Sub Goal: [Feature] 3**
          - ❗ 🟥 
          - ✔️ 🟥 🟦 
