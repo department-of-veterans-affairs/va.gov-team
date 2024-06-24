@@ -1,3 +1,4 @@
+
 # Conversation Guide: “526 Submission Status Evaluative Research” for Disability Experience Team, July 2024
 
 ## Moderator logistics
@@ -115,47 +116,45 @@ For our purposes, imagine that you have already reviewed your information. Pleas
 
 **[Animated loading indicator]**
 
-1.What do you think is happening on this screen?
-    
-2.How long would you expect to spend on this screen?
-
-    -   What would you do if it took longer?
+ - What do you think is happening on this screen?
+ - How long would you expect to spend on this screen?
+	 - What would you do if it took longer?
       
-3. What do you expect will happen next?
+- What do you expect will happen next?
       
 
 **[Confirmation page]**
 
 Take a moment to review this page before we discuss it. Do your best to think aloud as you go.
 
-**1. What do you think is the purpose of this page?**  
+**What do you think is the purpose of this page?**  
 
-    - Does this page match your expectations for what would happen next?
+ - Does this page match your expectations for what would happen next?
     
-**2. Based on this information, can you tell me what you think is happening to the claim you just submitted?**
+**Based on this information, can you tell me what you think is happening to the claim you just submitted?**
+ -  What does “date initiated” or “in progress” mean to you?
+       
+       - Did any information stand out to you as especially clear and useful?
+       
+       - Did any information stand out as confusing?
 
-    - What does “date initiated” or “in progress” mean to you?
-    
-    - Did any information stand out to you as especially clear and useful?
-    
-    - Did any information stand out as confusing?
+**Is there anywhere else on VA.gov that you would expect to find information about your submissions status?**
 
-**3. [CST/MyVA] Is there anywhere else on VA.gov that you would expect to find information about your submissions status?**
+- What do you think will happen next with your claim submission?
+       
+  - How soon would you expect to receive an email from VA?
 
-    -  What do you think will happen next with your claim submission?
-    
-        - How soon would you expect to receive an email from VA?
  
-**4. [Claim record] Is there anything else you would like to do on this page?**
-    -   If you had to save this page, how would you do it?
-    
-    -   What information would you expect to see if you pressed the print button?
-    
-        -   Is there any information you would want included in a claim record that is missing from this page? 
-        
-        -   If you could download a full copy of your submission if it were available later on VA.gov? 
+**Is there anything else you would like to do on this page? [Probe on claim record]**
+ - If you had to save this page, how would you do it?
+ - What information would you expect to see if you pressed the print
+   button?
+      
+  -   Is there any information you would want included in a claim record that is missing from this page? 
+          
+     -   If you could download a full copy of your submission later on VA.gov would you want to do so? 
 
-**5.What are you most likely to do next, now that you’ve reviewed this page?**
+**What are you most likely to do next, now that you’ve reviewed this page?**
 
 Thanks so much! Later I’m going to refer to this page as the “confirmation page.” There’s no pressure to keep it in your mind– just know we’ll referring back to it.
 
@@ -164,25 +163,25 @@ Thanks so much! Later I’m going to refer to this page as the “confirmation p
 
 Now, imagine ten minutes later you check your email and this message is waiting for you in your inbox.
 
-1. What do you think is the purpose of this email?
-2. Has the status of your submission changed? How do you know?
-3. What are you most likely to do or expect next, now that you’ve received this email?
-    -  Are there any actions left for you to take?
+ - What do you think is the purpose of this email?
+ - Has the status of your submission changed? How do you know?
+ - What are you most likely to do or expect next, now that you’ve received this email?
+ -  Are there any actions left for you to take?
      
 
 **[Claim received email]**
 
 Now, imagine three days have passed. You check your email and find the following message in your inbox.
 
-1. What do you think is the purpose of this email?
+ - What do you think is the purpose of this email?
     
-2. Has the status of your submission changed? How do you know?
+ - Has the status of your submission changed? How do you know?
     
-3. What do you think would happen if you clicked on the link to the Claim Status Tool?
-    -   Would you expect to see your claim there?  
-    -   How would you respond if it wasn’t there?
-    
-4. What are you most likely to do next, now that you’ve received this email?
+ - What do you think would happen if you clicked on the link to the Claim Status Tool?
+	 - Would you expect to see your claim in the Claim Status Tool?   
+	 - How would you respond if it wasn’t there?
+
+- What are you most likely to do next, now that you’ve received this email?
     -   Are there any actions left for you to take? 
 
 ### Reflection
@@ -207,41 +206,28 @@ Thanks for your feedback. For this scenario, let’s again imagine that you subm
 Take a moment to review the email you received last week, then I’ll ask you a couple of questions.
 
 -   Based on the information you’ve received, what do you think is the status of your submission?
+	-   [If delay is mentioned] How would you feel if you didn’t receive the email when you expected it?
+    -   What are you most likely to do next?
     
-
--   [If delay is mentioned] How would you feel if you didn’t receive the email when you expected it?
-    
-
--   What are you most likely to do next?
-    
-
--   Is there anywhere else on VA.gov that you would expect to find information about your submissions status?
-    
--   [If chooses action] How would you approach getting a status update?
+-   Is there anywhere else on VA.gov that you would expect to find information about your submissions status? 
+	-   [If chooses action] How would you approach getting a status update?
     
 
   
 
-[Claim received email]
+**[Claim received email]**
 
 Later that day, you check your email and find the following message in your inbox.
 
 -   What do you think is the purpose of this email?
-    
-
 -   What do you think is the status of your submission?
-    
-
 -   What are you most likely to do or expect next, now that you’ve received this email?
-    
-
 -   Are there any actions left for you to take?
     
 
 ### Reflection
 
 -   On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
-    
 -   On a scale of 1 to 5, how confident are you that your claim is ready for review?
     
 
@@ -254,37 +240,28 @@ Thanks for your feedback with the last scenario. Now, we are going to start the 
 
 Two days ago, you submitted your claim on VA.gov and received a confirmation email, which you are currently looking at in your inbox. **You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.**
 
-[Evidence failure email]
+**[Evidence failure email]**
 Take a moment to review this page before we discuss it. Do your best to think aloud as you go.
 
 -   What do you think is the purpose of this email?
     
--   Based on this information, what do you think is happening to the claim you submitted?
-    
--   What are you most likely to do next?
-    
+-   Based on this information, what do you think is happening to the claim you submitted?    
+	-   What are you most likely to do next?   
 
 -   Walk me through how you would approach completing this task.
+	   -   Do you have all the information you need to complete this task?
+    -   Are there any barriers that would make it difficult to complete the task?
     
--   Do you have all the information you need to complete this task?
-    
--   Are there any barriers that would make it difficult to complete the task?
-    
-
 -   Is there anywhere else on VA.gov that you would expect to find information about your submissions status?
     
--   What do you think will happen next with your claim submission?
-    
-
--   When do you expect to hear an update from VA next?
-    
--   What will you do if you receive no update from VA?
+  -   What do you think will happen next with your claim submission?
+	    -   When do you expect to hear an update from VA next?
+		-   What will you do if you receive no update from VA?
     
 
 ### Reflection on scenario
 
 -   On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
-    
 -  On a scale of 1 to 5, how confident are you that your claim is fully submitted?
     
 
@@ -293,11 +270,8 @@ Take a moment to review this page before we discuss it. Do your best to think al
 ## Wrap-up Questions
 
 -   If a Veteran friend asked you about the experience submitting a claim on VA.gov, what would you tell them, based on today’s session?
+	-   Was there anything hard or confusing that you would want to warn them about?
     
-
--   Was there anything hard or confusing that you would want to warn them about?
-    
-
 -   If you had a magic wand, what is one thing you would do to improve the our submission process?
     
 -   We'd like to learn about ways that VA.gov grows or loses trust of Veterans. Could you tell us about a time when VA earned or lost some of your trust specifically through our website or app?
