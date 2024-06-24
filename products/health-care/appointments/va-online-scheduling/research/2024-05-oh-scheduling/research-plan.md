@@ -44,10 +44,23 @@ Retiring
 -   MTM: Managing my declining health
 
 
-## Research Goals	
-What are you trying to learn from this research? 
+## Research Goals
+	
+1. Evaluate the efficiency and ease of scheduling with the improvements, specifically:
+- Does scheduling from previous appointments make the scheduling process faster and easier for Veterans?
+- Does the feature "Sort by Recent locations" make it eaasier for Veterans? 
+- Does the new patient indicated date page make the scheduling process easier for Veterans?
 
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+2. Do the improvements to the scheduling flow bring Value to the Veteran based on their individual needs and preferences?
+- Does scheduling from previous appointments or the "Sort by Recent locations" add value for Veterans?
+- Can Veterans find, understand, and find value in notifications related to their appointments?
+
+3. Assess user preferences and needs while scheduling
+- Understand Veterans' preferences regarding choosing providers and how these preferences vary between types of care. 
+- Gather feedback on the usability and appropriateness of various alerts letting the Veteran know the scheduling tool is not meant for immediate care. 
+
+
+
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
