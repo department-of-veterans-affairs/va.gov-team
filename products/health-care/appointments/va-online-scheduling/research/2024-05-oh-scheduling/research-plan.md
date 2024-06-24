@@ -68,11 +68,17 @@ The outcome of this research will provide us with an understanding of how the pr
 By gathering research data on user preferences, ease of use, and perceived value of the new features, we can make informed decisions about which elements to refine, retain, or remove. 
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
-
+Research Questions:
+- Does scheduling from previous appointments make the scheduling process faster and easier for Veterans?
+- Does the "Sort by Recent locations" feature make scheduling easier for Veterans?
+- Does the new patient-indicated date page streamline the scheduling process for Veterans?
+- Do the improvements to the scheduling flow bring value to the Veteran?
+- Does scheduling from previous appointments or the "Sort by Recent locations" add value for Veterans?
+- Can Veterans find, understand, and find value in notifications related to their appointments?
+- What are Veterans' preferences regarding choosing providers, and how do these preferences vary between primary and specialty care, as well as between established and new care?
+- Do Veterans find the warnings about urgent medical needs necessary, helpful, and timely?
+- Is it clear to Veterans that the tool is not for urgent medical needs?
+- Is having the "I need immediate care" option helpful?
 
 ## Hypotheses and Tasks to test
 
