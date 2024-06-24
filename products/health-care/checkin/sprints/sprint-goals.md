@@ -73,7 +73,6 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[FE] convert time to UTC for travel claims ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
     - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
 </details>
 
