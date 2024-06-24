@@ -10,22 +10,8 @@ ________________________________________________________________________________
 #### SPRINT GOALS
 - **GOAL: Update medical wording**
     - **Sub Goal: [Feature] 1**
+    - **Sub Goal: [Feature] Medication Wording for Pre-Check-in**
     - **Sub Goal: [Feature] 2**
-    - **Sub Goal: [Feature] 3**
-    - **Sub Goal: [Feature] 4**
-    - **Sub Goal: [Feature] 5**
-
-#### PLANNED RELEASES: N/A
-      
-</details>
-
-______________________________________________________________________________________________________________________________________________________
-
-## SPRINT 9 - 6/12/2024 - 6/25/2024 - CURRENT SPRINT
-#### SPRINT GOALS
-- **GOAL: Add Medication Wording for Appointments (OIG/Congressional request)** to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.**
-    - **Sub Goal: [Feature] [Feature] Medication Wording for Pre-Check-in**
-    - **Sub Goal: [Feature] [Feature] Stakeholder review & collab cycle**
     - **Sub Goal: [Feature] 3**
     - **Sub Goal: [Feature] 4**
     - **Sub Goal: [Feature] 5**
@@ -35,7 +21,26 @@ ________________________________________________________________________________
 #### SPRINT TICKETS
 - **GOAL: (OIG/Congressional request) Add Medication Wording for Appointments (OIG/Congressional request)**
     - **Sub Goal: [Feature] Medication Wording for Pre-Check-in**
-         - ❗🟥 [Design] Pull Wireframes into Our Figma Files
+         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)     
+</details>
+
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 9 - 6/12/2024 - 6/25/2024 - CURRENT SPRINT
+#### SPRINT GOALS
+- **GOAL: Add Medication Wording for Appointments (OIG/Congressional request)** to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.**
+    - **Sub Goal: [Feature] Medication Wording for Pre-Check-in**
+    - **Sub Goal: [Feature] Stakeholder review & collab cycle**
+    - **Sub Goal: [Feature] 3**
+    - **Sub Goal: [Feature] 4**
+    - **Sub Goal: [Feature] 5**
+
+#### PLANNED RELEASES: N/A
+
+#### SPRINT TICKETS
+- **GOAL: (OIG/Congressional request) Add Medication Wording for Appointments (OIG/Congressional request)**
+    - **Sub Goal: [Feature] Medication Wording for Pre-Check-in**
+         - ~❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)~
     - **Sub Goal: [Feature] Stakeholder review & collab cycle** Feature to be created
          - 🟨 [Review] Address feedback from the Design review (example)
          - 🟥 🟨 
