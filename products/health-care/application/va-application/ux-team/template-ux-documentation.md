@@ -1,4 +1,5 @@
-# Template - UX Documentation
+# [WIP] Template - UX Documentation
+- Last updated June 24, 2024
 
 ---
 
@@ -7,6 +8,8 @@ This includes a template section and a background and resources section to use a
 ----
 
 ## GITHUB TEMPLATE TO COPY
+- Paste the below outline into the github initiative folder within a readme.md file in a ux folder.
+
 
 # [Project name and Form/Product]
 - Last updated [DATE]
@@ -23,7 +26,6 @@ This includes a template section and a background and resources section to use a
 Description around problem statement during project. Add link to solution description once that exists. 
 - [Initiative brief](url)
 
-
 ## Current state
 - [Status] as of [Date]
 
@@ -32,9 +34,9 @@ Description around problem statement during project. Add link to solution descri
 - [Mural board](url) - purpose of the mural/contributors
 - [Presentations](url) - In what meeting/date and to whom
 
-
 ## Timeline + UX decisions
 - [decision template](url)
+
 
 **UX Decision Table Template*
 | Date | Name of Decision | Links + High-level descirption     |
@@ -55,7 +57,6 @@ Description around problem statement during project. Add link to solution descri
 [! end template]
 
 ---- 
-
 
 
 ## How-to reference
@@ -105,8 +106,6 @@ Additional context and resources around the sections of the template above.
 
 ## Optional documentation resources 
 
-
-
 ### Documenting if Figma
 - [Example]() found in CG file used for 2024 paper form alignment updates
 
@@ -123,6 +122,9 @@ Additional context and resources around the sections of the template above.
 - Use to document content and/or SME decisions and conversations
 
 
+### Notes Annotation Component
+
+### Accessibility Annotations
 
 
 
