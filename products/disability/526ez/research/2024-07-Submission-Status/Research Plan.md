@@ -123,7 +123,7 @@ For moderated interviews:
 
 -   Conversation guide (ADD LINK)
     
--   Prototype (ADD LINK)
+-   Prototype (Mike Eng to add once finalized)
     
 
 ## Recruitment
@@ -204,7 +204,7 @@ Recruit a mix of race, gender, education, race, and military branch
       
     
 
- **We are hoping to talk with Veterans like you who have had a mix of experiences filing for benefits from VA. How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?**    [Recruit a mix]
+ **5) We are hoping to talk with Veterans like you who have had a mix of experiences filing for benefits from VA. How much do you trust Veterans Affairs to fulfill our country’s commitment to Veterans?**    [Recruit a mix]
  -  High level of distrust
     
  -  Moderate level of distrust
@@ -228,9 +228,9 @@ When will the thing you are testing be finalized? Ideally, it's ready a week bef
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
 
--   Pilot participant email: Internal team TBD
+-   Pilot participant email: Anneliese LaTempa, anneliese.latempa@agile6.com
     
--   Date and time of pilot session: TBD
+-   Date and time of pilot session: Week of July 1
     
 
 ### Research sessions
@@ -272,7 +272,7 @@ Please list the people who will be serving in each role. Include the primary pho
     
 -   Project point of contact: Evelyn Hilbrich Davis
     
--   Participant(s) for pilot test: Internal TBD
+-   Participant(s) for pilot test: Anneliese LaTempa
     
 -   Accessibility specialist (for sessions where support for assistive technology may be needed):
     
@@ -281,7 +281,7 @@ Please list the people who will be serving in each role. Include the primary pho
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     
 
--   TBD via sign-up
+-   TBD via online sign-up
 
 
 
