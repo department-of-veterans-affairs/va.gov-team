@@ -38,3 +38,7 @@
 - Can we have specific document upload pages based on the Veteran's cohort, which can be determined by TERA responses?
 
 ## Decisions made
+
+| Date | Decision Maker(s) | Description of Decision | Rationale |
+|------|-------------------|-------------------------|-----------|
+| 6/20/2024 | Angela Agosto, Danielle Thierry, Aliyah Blackmore | We'll use the list of locations and dates that HEC gave us for now even though it's different than what's listed on VA.gov for disability. | Danielle Thierry told us the legislation wasn't written the same for disability vs healthcare. The criteria for disability comp is higher than for healthcare. But she will verify this with OGC and find out if VA is wanting to align TERA criteria in the future. |
