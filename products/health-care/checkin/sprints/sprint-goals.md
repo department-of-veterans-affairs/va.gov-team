@@ -115,11 +115,13 @@
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
         - **Schedule Staging Review for New Landing Page WITH OUT the Upcoming Appointments section**
     - **Sub Goal: CIE Analytics**
-        - 🟩 [SPIKE: We Need New StatsD Metrics for Travel ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)
+        - 🟩 [[BE] We Need New StatsD Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
         - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
         - 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
+    - **Sub Goal: Tech Debt**
+        - 🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)
 </details>
 
 ## SPRINT 9 - 6/12/2024-6/25/2024
