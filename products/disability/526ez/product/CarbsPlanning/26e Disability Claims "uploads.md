@@ -1,4 +1,4 @@
-# 526e Disability Claims "uploads"
+# 526 Disability Claims "uploads"
 "Upload" is used a lot when referring to the work for the disability claims. This is partly because the API endpoints include "upload" in the naming. To reduce confusion we gave more specific names to the uploads and what they are related to. 
 
 ## Upload names
