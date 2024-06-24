@@ -40,7 +40,7 @@
 ## Project work related to "uploads"
 - Team 1 - 526 Submission migration to Lighthouse (form submission endpoint)
 
-- Team 2 - Polling information (getting a status on the uploads after sent to LH to confirm if they make it to the eFolder) (this is before we migrate to LH) - maybe includes alerts/monitoring 
+- Team 2 - Polling information (getting a status on the uploads after sent to LH to confirm if they make it to the eFolder) (this is before we migrate to LH) - maybe includes alerts/monitoring #[75804](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75804)
 	- Veteran evidence documents
 	- PTSD 0781
 	- PTSD 0781a
