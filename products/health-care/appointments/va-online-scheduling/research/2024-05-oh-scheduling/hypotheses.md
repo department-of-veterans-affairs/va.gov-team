@@ -3,14 +3,6 @@
 We'll use these when developing the research plan. Our main goal is to test the OH integration. 
 
 
-### Scenario to test
-
-A Veteran schedules an appointment without selecting a provider or a clinic.
-
-### Hypothesis
-
-Veterans will not expect to choose a clinic or provider when choosing a time slot.
-
 ## As a Veteran, I can easily schedule at locations I've recently attended.
 
 ### Scenario to test
@@ -48,9 +40,11 @@ When scheduling, a Veteran is offered the option skip directly to choosing a tim
 
 ### Scenarios to test
 
-A Veteran encounters the urgent need warning: 
+A Veteran encounters the urgent medical need warning: 
+- When they use the sheduling tool for the first time
 - When the reason for appointment includes sever or alarming signs and symptoms
-- When they select TOC" I need immediate care" 
+- When they select " I need immediate care" as the type of care they need
+
 
 ### Hypotheses
 
@@ -75,7 +69,6 @@ A Veteran encounters the urgent need warning:
 - Veterans will understand how to review their notifications
 - Veterans will find their notifications helpful
 
-## Maybe testing
 
 ### As a Veteran, I can choose my provider when scheduling at an OH facility
 
@@ -86,18 +79,6 @@ Veterans will want to choose a specific provider for most types of care.
 - Do their needs change between established care and new care?
 
 Veterans will want to choose a provider by whoever has the soonest availability.
-
-#### Scenarios to test
-
-1. A Veteran wants to schedule an appointment for primary care with their established provider.
-
-2. A Veteran wants to schedule an appointment for specialty care (like audiology) and doesn't have an established provider.
-- Is the information provided helpful? What would be more useful?
-- (Might be answered in the cc study) What sorting/filtering options would be helpful?
-
-3. A Veteran scheduling an appointment for specialty care (like weight management) at an OH facility selects the "any provider" option.
-
-4. A Veteran scheduling an appointment for specialty care (like eye care) at an OH facility selects "I need a different provider"
 
 
 
