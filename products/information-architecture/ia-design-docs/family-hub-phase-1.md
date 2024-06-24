@@ -48,7 +48,7 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 - Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **4) Education and careers subhub - NEW**
-- URL: va.gov/family-and-caregiver-benefits/education-careers/
+- URL: va.gov/family-and-caregiver-benefits/education-and-careers/
 - Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **5) Life Insurance subhub - NEW**
@@ -60,7 +60,7 @@ We will also include the pages for Program of Comprehensive Assistance for Famil
 - Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **7) Burials / memorials subhub - NEW**
-- URL: va.gov/family-and-caregiver-benefits/burials-memorials/
+- URL: va.gov/family-and-caregiver-benefits/burials-and-memorials/
 - Breadcrumb: VA.gov home > Family and caregiver benefits > H1
 
 **8) PCAFC static page - CHANGE**
