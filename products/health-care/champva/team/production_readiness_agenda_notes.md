@@ -2,6 +2,7 @@
 
 # 2024-06-11
 ## Agenda
+- [Security readiness review - intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78216)
 - Monitoring: [See example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Existing%20Monitors%20and%20Alerts.md) and [additional info](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitoring-performance)
 - [Load testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/load-tests)
 - SOP for submit errors
