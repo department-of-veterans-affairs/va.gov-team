@@ -137,41 +137,50 @@ Prompt: You have been doing physical therapy once a every few weeks and you need
 **PID**
 Prompt: You would like an appointment for June 16. 
 It looks like June 16 isn't available- The next date that will work for you is July 26 at 2:00pm. 
-GO ahead and select that date and time
+Go ahead and select that date and time
 
 **Reason for appointment**
-Promt: GGo ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+Promt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
 
 **Do you need care now?** 
 Promt: What do you think of this page? Why do you think you are seeing this? What are your thoughts?
 
-**Follow up:**
-- What are your thoughts on how this works?
+**Finish making the appointment**
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+
+**Confirmation screen:**
+Prompt: Now you would like to go back to see a list of your appointments how would you do that?
 
 
 #### Things to watch for:
 Do they use the express lane or do they go to the I need a differnt type of care?
-Do you need care now?": Thoguhts
+Do you need care now?": Thoughts
 
-- _Can participant find the information on becoming established?_
-- _Does participant understand the steps to take?_
 
 ## 3: Type of Care - I need immediate care 
 Prompt: You have a high fever and have been sick for a couple of days, you want to get in to see your doctor asap because you don't seem to be getting better. What would you do? 
+**Schedule an appointment** 
 Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? (they should find the "I need immediate care" in the list.)
-Follow up: Is it clear that this tool is not for urgent medical needs? Is having "I need immediate care" on this list helpful in your situation? 
 
-## 4: Type of Care - MOVE! (Direct Schedule)
-Prompt: You need to schedule a MOVE! program appointment with your doctor Sarah Bennett Ph. D . How would you do that from here?
+**Go back to the appointment list** 
+Promt: now you want to go back to your list of appointments, how would you do that?
 
-Path they will take: Start scheduling> TOC>MOVE!>Chalmers> Choose a provider>PID 6/23>7/27 (finish scheduling
+#### Things to watch for: 
+Is it clear that this tool is not for urgent medical needs? Is having "I need immediate care" on this list helpful in your situation? 
+Testing the back button: Which back button do they use? 
+
+## 4: New Notification
+
+Path they will take: They arrive on this page after the “I need immediate care” flow.
+
+Prompt: Now that you are back on the appointment list screen, do you notice anything different?
+
+
 
 
 
 #### Things to watch for:
 
-- _What comments and thoughts does the participant have about the "choose a provider" page?_
-- _Does participant understand the scheduling process?_
 
 
 
