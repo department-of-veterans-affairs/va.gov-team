@@ -2,6 +2,12 @@
 
 # 2024-06-11
 ## Agenda
+- Monitoring: [See example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Existing%20Monitors%20and%20Alerts.md) and [additional info](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitoring-performance)
+- [Load testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/load-tests)
+## Notes
+
+# 2024-06-11
+## Agenda
 #### Attendees: Bo, Michael, Devi, Bryan, Don, Mary, Rachel
 
 - Updates on responses to OCTO feedback in this document: [Overall Finding of IVC code by VA office of CTO Engineering](https://dvagov-my.sharepoint.com/:w:/r/personal/premal_shah_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B22A7CC02-9D93-47A8-800C-9ECBC90FA513%7D&file=Overall%20Finding%20of%20IVC%20code%20by%20VA%20office%20of%20CTO%20Engineering.docx&action=default&mobileredirect=true)
