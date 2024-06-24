@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - **GOAL: Add Medication Wording for Appointments (OIG/Congressional request)** to remind Veterans to be ready to talk about any medication, supplement, vitamins, etc that they have been prescribed or are taking from any provider, VA clinic, or local store.**
     - **Sub Goal: [Feature] Medication Wording for Pre-Check-in**
     - **Sub Goal: [Feature] Stakeholder review & collab cycle**
-    - **Sub Goal: [Feature] 3**
+    - **Sub Goal: [Feature] Wireframes for Medication Wording**
     - **Sub Goal: [Feature] 4**
     - **Sub Goal: [Feature] 5**
 
@@ -46,6 +46,14 @@ ________________________________________________________________________________
          - 🟨 [Design Intent - IA Feedback - Appointments Team, Appointments, Medication Review#86003](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/86003)
          - 🟨 [Design Intent - Design Feedback - Appointments Team, Appointments, Medication Review#85963](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/85963)
          - 🟨 [Design Intent - Accessibility Feedback - Appointments Team, Appointments, Medication Review#85969](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/85969)
+         - 🟨 [Complete stakeholder review of medication language#85061](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/85061)
+         - bbb
+         - bbbb
+    - **Sub Goal: [Feature] Wireframes for Medication Wording**
+         - 🟥 [Review prep instructions with VCM#84540](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/84540)
+         - 🟥 [Create instructions wireframes for Appts FE#84541](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/84541)
+         - 🟥 [Create Instructions mockups for Pre-check-in#84542](https://app.zenhub.com/workspaces/uae-ux-6675df294ae18614c58f84d1/issues/gh/department-of-veterans-affairs/va.gov-team/84542)
+            
 
     - **Sub Goal: [Feature] 3**
          - ❗ 🟥 
