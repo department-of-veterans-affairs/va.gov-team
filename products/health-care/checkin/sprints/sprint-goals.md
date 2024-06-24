@@ -140,7 +140,7 @@
         - ✔️ ❗🟦🟩 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82357)
         - ✔️ ❗🟥 [[UX] Create new text message to inform veteran about claim submission and some issues processing the claim ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84767)
         - ✔️ ❗🟦 [[BE] Modify travel_claims/client to add claim_status api call ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84754)
-        - ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
+        - ✔️ ❗🟦 [[BE] Implement claim_status method in travel_claims/service ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84755)      
         - ❗🟦 [[BE] Check for success & failure status from claim status api ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84764)
         - ✔️ ❗🟩 [Move CIE incident repsponse playbook to vagov team docs ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84471)
     - **Sub Goal: Move to New AWS Instance**
