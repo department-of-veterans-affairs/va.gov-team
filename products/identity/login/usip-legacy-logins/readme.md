@@ -1,4 +1,4 @@
-# Project outline: USiP - Legacy Logins 
+# Project outline: Unified Sign-in Page - Legacy Logins 
 
 **Last updated: June 14, 2024**
 
