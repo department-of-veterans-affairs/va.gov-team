@@ -14,7 +14,7 @@ Using plain, Veteran-focused language to describe the five delivery phases helps
 
 | Phase | Feature Name | Forecasted Date |
 |-------|--------------------------------------------------------------|--------------------------------|
-| 1     | [Veterans lack timely & truthful information about their claim](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | August ‘24|
+| 1     | [Veterans lack timely & truthful information about their claim after submission](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | August ‘24|
 | 2     | Veterans need a record of their claim and a way to track it  | August ‘24|
 | 3     | Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through | September ‘24|
 | 4     | Veterans experience a burden after they attempt to submit a disability claim | Q4|
@@ -38,7 +38,7 @@ This initiative focuses on all paths for the submission and post submission expe
 # 5. Success
 We’ll know we’re sucessfull when the following are true.
 
-* Veteran has clear expectations of claim status
+* Veteran has clear expectations of submission status
 * Veterans have the claim information they need to get help and a copy of their claim
 * Fewer duplicate submissions, greater Veteran confidence
 * Veterans can find the status of their submission on VA.gov (MyVA and CST)
@@ -138,4 +138,4 @@ To more quickly meet the needs of the Veterans we serve and increase opportuniti
 
 [DBEX Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?sender=ubd79255de28cd574d7575469)
 
-Submission Research Plan for "Veteran has clear expectations of claim status" [Will update location once published on Github]:https://docs.google.com/document/d/1GLBJqNpNMyOfcidtigNqWd8F2c6adueraY-ybj7Q5E8/edit 
+Submission Research Plan for "Veteran has clear expectations of submission status" [Will update location once published on Github]:https://docs.google.com/document/d/1GLBJqNpNMyOfcidtigNqWd8F2c6adueraY-ybj7Q5E8/edit 
