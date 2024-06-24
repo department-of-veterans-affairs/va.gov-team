@@ -81,44 +81,77 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## 1: Type of Care - Food and nutrition 
-Path they will take: Start scheduling> Alert for urgent care> I need a different appointment>Nutrition and food> (sort by home address) Grove City, OH>PID 6/11> 7/22> Reason for appointment> confirm contact>review details> Confirmation page, not go to review appointemnts
+Path they will take: Start scheduling> Alert for urgent care> I need a different appointment>Nutrition and food> Choose a location> Grove City, OH>Sarah Bennett>PID 6/11> 7/22> Reason for appointment> confirm contact>review details> Confirmation page> review appointments
+
+**Begin prototype**
+
+**INSERT QUESTION ABOUT NOTIFICATIONS INITIAL THOUGHTS**
 
 Prompt: You need to schedule an appointment, how would you do that?
 
-On the first timer immediate care alert page: What is this page all about? What would you do here?
+**First time scheduling immediate care alert** 
+Prompt: What is this page all about? What would you do here? 
+Go ahead and do that.
 
-On the Schedule an appointment page: What do you think you can do on this page? Would scheduling with a clinc or provider you have seen in the past be helpful for you?  
-You need a food and nutrition appointment. How would you schedule that?
+**Schedule an appointment** 
+Prompt: What do you think you can do on this page? Would scheduling with a clinc or provider you have seen in the past be helpful for you?  
 
-On the Choose a location page: Do you see how these locations are sorted? What do you think that means? Is sorting by recent location something you would want or would you change how it is sorted to something else? Go ahead and change it to sort by home address and find grove city, OH andcontinue.
+Prompt: You need a food and nutrition appointment. How would you schedule that? 
+Go ahead and do that.
 
-On the PID page: You need an appointment for 6/11 date show me how you would schedule that.
+ **Choose a location page** 
+Prompt: Do you see how these locations are sorted? What does "recent locations" mean to you? Is sorting by recent location something you would want or would you select a different way for the list to be sorted? (Let them click arounf but they need to ultimately select grove city, OH and continue)
 
-Choose a date and time page: What do you think this page is? How is it differnt from the last page? You want to schedle for the 7/22 at 12. 
+**Choose a Provider page** 
+Prompt: Sarah is who you normally see for Nutrition and food she is a registerd dietitan. **any other questions about the choose a provider screen?**
+
+**PID page** 
+Prompt: What is this page? What do you expect it to do? You would like an appointment for 6/11 date show me how you would schedule that.
+
+**Choose a date and time** 
+Prompt:  What do you think this page is? How is it differnt from the last page? 
+You want to schedle for the 7/22 at 12. 
 If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
 
-(Have them finish making the appointment)
+**Finish making the appointment**
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
 
-Confirmation screen: Is this enough information for you to go off of to get to your appointment?
-
+**Confirmation screen:**
+Prompt: Now you would like to go back to see a list of your appointments how would you do that?
 
 
 #### Things to watch for:
-
+First timer Immediate care alert interactions and thoughts
+Recent locations thoughts and reactions
+Choose a provider 
+PID page thoughts 
 
 - _Can participant understand the information on the details page?_
 
 ## 2: Type of Care - Physical Therapy
-Path they will take: Start scheduling> Physical Therapy> PID 6/16>7/26 2 pm>chest pain>I do no need care now> (finish scheduling)
+Path they will take: Start scheduling> Physical Therapy> PID 6/16>7/26 2 pm>chest pain>I do not need care now> (finish scheduling)
 
-Prompt: You need to schedule a Physical Therapy appointment how would you do that?
-On the urgent care message page: Is this helpful considering you are having chest pains? Would you expect anything else?
+**Schedule an appointment** 
+Prompt: You have been doing physical therapy once a every few weeks and you need to schedule your next Physical Therapy appointment how would you do that?
+
+**PID**
+Prompt: You would like an appointment for June 16. 
+It looks like June 16 isn't available- The next date that will work for you is July 26 at 2:00pm. 
+GO ahead and select that date and time
+
+**Reason for appointment**
+Promt: GGo ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+
+**Do you need care now?** 
+Promt: What do you think of this page? Why do you think you are seeing this? What are your thoughts?
 
 **Follow up:**
 - What are your thoughts on how this works?
 
 
 #### Things to watch for:
+Do they use the express lane or do they go to the I need a differnt type of care?
+Do you need care now?": Thoguhts
 
 - _Can participant find the information on becoming established?_
 - _Does participant understand the steps to take?_
