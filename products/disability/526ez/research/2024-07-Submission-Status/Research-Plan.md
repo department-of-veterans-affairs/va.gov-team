@@ -270,13 +270,13 @@ Please list the people who will be serving in each role. Include the primary pho
     
 -   Participant recruiting & screening: Perigean
     
--   Project point of contact: Evelyn Hilbrich Davis
+-   Project point of contact: Evelyn Hilbrich Davis; evelyn@cityfriends.tech
     
--   Participant(s) for pilot test: Anneliese LaTempa
+-   Participant(s) for pilot test: Anneliese LaTempa; anneliese.latempa@agile6.com
     
 -   Accessibility specialist (for sessions where support for assistive technology may be needed):
     
--   Note-takers: Mike Eng, Kate Allbee
+-   Note-takers: Mike Eng; mike.eng@agile6.com, Kate Allbee; kate@verdance.co
     
 -   Observers: List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work. Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side
     
