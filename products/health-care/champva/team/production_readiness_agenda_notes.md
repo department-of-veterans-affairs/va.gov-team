@@ -7,6 +7,7 @@
       - Schedule now, wait for Premal, do it async?
    - Check in with Adrien for clarification on PDF validation (Bo)
       - How is this validation impacted by multiple PDFs (e.g. >3 10-10d applicants)
+- Reminder - [Sprint & Release Planning](https://docs.google.com/spreadsheets/d/1miQJuXb_AkQ0GNkU8B-Wqexl_p-dgjrb_3NeO6swH0g/edit?gid=1379257114#gid=1379257114)
 - [Security readiness review - intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78216)
 - Monitoring: [See example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Existing%20Monitors%20and%20Alerts.md) and [additional info](https://depo-platform-documentation.scrollhelp.site/developer-docs/monitoring-performance)
 - [Load testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/load-tests)
