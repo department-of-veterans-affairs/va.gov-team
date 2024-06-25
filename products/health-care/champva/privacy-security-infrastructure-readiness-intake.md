@@ -75,7 +75,7 @@ Please provide the following documentation as attachments.
     * Which implementation of security approaches were considered along with the approach that was chosen and why?
       - **INSERT HERE**
     * If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
-      - **There are No new backend libraries.**
+      - **There are no new backend libraries.**
 * [ ] Incident Response Plan **TURN THIS INTO URL**, including Points of Contact for your system and dependent VA back-ends.
     * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
       - **INSERT HERE**
