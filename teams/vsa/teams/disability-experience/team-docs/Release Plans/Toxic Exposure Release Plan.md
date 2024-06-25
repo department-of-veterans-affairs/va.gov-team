@@ -109,15 +109,25 @@ we need to check if the frontend can use this as well, or if we need to also add
  - Maintain or reduce uses of backup and failsafe path
    - [526 Claim Submission Dasboard - DataDog](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true)
   
+#### Benchmark data for 1.0 and 1.1 releases
+  
 ## Proposed Release Plan for 1.0 (Veterans without existing IPF)
 ### Prerequisites:
 Approvals for launch:
+- [ ] Development for release 1.0 and 1.1 are complete, and ability to distinguish between Veteran states to be selected for exposure to the 2022 526ez form using feature flag disability_526_toxic_exposure
 - [ ] OCTO PO - Emily Theis
 - [ ] Approval for PDFs - **need team name
 - [ ] DBEX Teams approve validation rake task results
 - [ ] Monitoring configured by DBEX teams
 - [ ] vets-api Deployed, Toggled Off
 - [ ] vets-website Deployed
+- [ ] Benchmark data for Veteran claim selection and monitoring during the release
+
+### Release assumptions before kickoff:
+-  DBEX team 1 will handle enabling/disabling the feature flag for the release.
+-  DBEX teams 1 and 2 will both be available to troubleshoot any errors that arise. 
+-  If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
+-  Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
 
 #### Day 0:
  - 11am EDT <individual> Toggles Feature ON for all Users
@@ -154,9 +164,27 @@ Steps TBD
 
 # Appendix
 
+## Relevant Links
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
+- [Design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure.md)
+- Meeting recording of technical approach and [diagrams in Slack](https://dsva.slack.com/archives/C04KW0B46N5/p1715293181014539?thread_ts=1715293137.064459&cid=C04KW0B46N5):
+  - https://us06web.zoom.us/rec/share/4yzenPINHF8djrgx6x2XjepUbrC0QHgo3J6PPu9miRpeCp1HnJHqS9THVmFZmeYz.5j45fksUTFgqtqME
+    Passcode: p=va8uL0
+- Meeting recordings between teams 1 and 2 for handling the feature flag:
+  - https://coformaco.zoom.us/rec/share/NXjIziBXAebZD2adg4QWApak5QJafqu3t26I2-9edjT7CqNajGJ5kNv1DN_qRdJG.tYRlVFcgHcoVMvKH
+    Passcode: &=h7HiKH
+  - https://coformaco.zoom.us/rec/share/ug_3WYVuIdRWWdoLGuqTS78KmoQgkc461TbGCFGiwzagx69pzj8-yWVpqfBJW1c8.2OpcBzNGjnkT5VIr
+    Passcode: S3!v9guG         
+- Meeting recording with Ligthhouse to discuss progress of synchronous submit endpoint:       
+  - https://us06web.zoom.us/rec/share/1R3KWDbfwI9MG9Ghgm1bXwbv63uyd61SYjItE8YDaCN_cv6OeQIeHb0v1fWTN8aw.4c20SnZ2xyuqD8Yi       
+    Passcode: d%Y&6hfh
+- Meeting recording with Teams 1 & 2 to discuss delivery plan:
+  - https://us06web.zoom.us/rec/share/SMoqdUKyXnKpzKqU7FPr0lUrjclqAFkO3N4or8sfdX9V49KqcZ2bgYvsp64yk-Jt.U_e1OwIUDgTtd0JA
+    Passcode: $3CazkrD
+         
 ## Post-Release To Do List
 1. add TE pages to Google analytics in Domo - [submitted GH issue to analytics team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86588)
-2. look at the count of sucessfull claim submissions
+2. look at the count of successful claim submissions
 3. Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal. Additionally, examine identified anomalous activity for any endpoint rollouts.
 
 ## Delivery Milestones
