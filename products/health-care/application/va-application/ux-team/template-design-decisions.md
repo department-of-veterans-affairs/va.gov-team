@@ -5,16 +5,18 @@
 
 
 
-**UX Decision Table Template*
+### UX Decision Table Template
 | Date | Name of Decision | Links + High-level descirption     |
 |------|-------------------------|-----------|
 |      |                         |           |
 
 
 
-**UX Decision Details Template*
+### UX Decision Details Template
+
 
 <summary>Title of decision</summary>
+
 <details>
 
 ### Background
