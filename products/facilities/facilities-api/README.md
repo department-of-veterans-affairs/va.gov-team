@@ -106,6 +106,7 @@ In the event that Lighthouse Facilities API releases a new version or is depreca
   - Core Fields
     - Mental Health phone numbers (push)
     - Facility URL (not yet used)
+ - Flagged facilities migration script, [Delete portion](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-facility.md#delete)
 
 More information on Drupal content models that interact with the Lighthouse Facilities API is available within Drupal's content model documentation: https://prod.cms.va.gov/admin/structure/cm_document?title=&documented_entity_op=contains&for=&stakeholder=All&pulled=All&pushed=1112&notes=
 
