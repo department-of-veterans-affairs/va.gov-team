@@ -64,7 +64,8 @@ ________________________________________________________________________________
          - 🟨 [Populate observer sign up sheet with roster from Perigean](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86935)
          - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Design & Tech Debt**
-         - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob 
+         - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
+         - 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible 
 
 
 
