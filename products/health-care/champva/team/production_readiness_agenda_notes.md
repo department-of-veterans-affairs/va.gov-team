@@ -20,6 +20,11 @@
    - Error reporting
    - Product will draft
 ## Notes
+- Action items
+   - Set up meeting with OCTO engineers to review recommendations and actions taken (Bo)
+   - Create ticket for Don to investigate load testing (Bo)
+   - Refine ticket for PDF validation (Bo)
+   - Diagram/document s3 backup that Premal is looking into (Bo)
 
 # 2024-06-11
 ## Agenda
