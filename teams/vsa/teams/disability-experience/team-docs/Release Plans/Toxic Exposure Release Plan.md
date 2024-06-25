@@ -68,7 +68,7 @@ There are two use cases that we are considering for this release. For each, we p
 - Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans do not have an IPF, and may or may not have a previous Intent To File (ITF).
 
 ### 2. Veterans With an In Progress Form
-- Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans do have an IPF and an ITF.
+- Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans do have an IPF and an ITF. We will need to know during the In Progress Form release 1.1 which version of the 526 a Veteran has in progress. If a Veteran was part of release 1.0, they could have a 2022 form in progress. If they were not part of release 1.0, they could have a 2019 form in progress and need to be exposed to the 2022 form.
 
 ## Timelines and Key Components
 See Appendix below for full milestone breakdown.
@@ -77,9 +77,9 @@ See Appendix below for full milestone breakdown.
 |---|---|---|---|---|
 |1 |Gulf War exposures|May 21, 2024|Complete | On Track|
 |2 |Herbicide & Hazards|July 3 2024*|In Progress | Delay by 5103 FDC update 5/16/24 and addressing bugs in submit endpoint functionality |
-|3 |Launch Preparation| July 3 2024*|Planned  | Original date of 6/18 shifted by 1 sprint due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review |
+|3 |Launch Preparation| July 3 2024*|In Progress  | Original date of 6/18 shifted by 1 sprint due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review |
 |4 |Migrate /getPDF functionality to LH| TBD*   | In Progress  |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow.|
-|5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24|
+|5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release|
 |6 |New TE Applications - release 1.0|July 27 2024*| Not Started| Dependent on submit migration completion| 
 |7 |Veterans with an IPF - release 1.1|Targeting 14+ days after new applications|Not Started| |
 
@@ -107,9 +107,14 @@ we need to check if the frontend can use this as well, or if we need to also add
    - [526 Submit Endpoint Dashboard - DataDog](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822569&to_ts=1716910822569&live=false&tile_focus=6719002960639492)
  - Maintain % of submissions that use normal path
  - Maintain or reduce uses of backup and failsafe path
-   - [526 Claim Submission Dasboard - DataDog](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true)
+   - [526 Claim Submission Dasboard - DataDog](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true)        
   
 #### Benchmark data for 1.0 and 1.1 releases
+- Benchmark % of users to start the release:       
+  - 1.0    
+  - 1.1    
+- Acceptable threshold of primary submission failures      
+- 
   
 ## Proposed Release Plan for 1.0 (Veterans without existing IPF)
 ### Prerequisites:
@@ -126,7 +131,7 @@ Approvals for launch:
 ### Release assumptions before kickoff:
 -  DBEX team 1 will handle enabling/disabling the feature flag for the release.
 -  DBEX teams 1 and 2 will both be available to troubleshoot any errors that arise. 
--  If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
+   -  If a claim fails both the primary and backup submission processes, the teams will research root cause, repair claim in production, and re-trigger primary submission. The teams will do whatever it takes to prevent a Veteran from needing to recomplete their claim.
 -  Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
 
 #### Day 0:
