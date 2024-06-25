@@ -34,21 +34,32 @@ ________________________________________________________________________________
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
-    - **Sub Goal: [Feature] Conduct research study with Veterans**
-    - **Sub Goal: [Feature] Create KPIs**
+    - **Sub Goal: [Feature] Pull in patient preferences for user**
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-    - **Sub Goal: [Feature] Get connected with WellHive**
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
-    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
 
 
 
 #### PLANNED RELEASES 
 - NONE
 
-      
+#### SPRINT TICKETS
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Pull in patient preferences for user**
+         - ❗ 🟦 [[BE] [SPIKE] 4 hours - Discuss or find out how to access to patient preferences (preferred provider)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84026)
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+         - 🟥 [Midpoint Review - **Accessibility Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85828)
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+         - 🟦 [Provider choose a date and time page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83542)
+         - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
+         - 🟦 [[FE] Filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611) 
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+         - Waiting on Stephen and Kristen McConnell to let us know what the VA leads from this team need. 
+
+
+
 </details>
 
 ______________________________________________________________________________________________________________________________________________________
