@@ -65,7 +65,7 @@ Need to work with VCC to determine how to update their existing emails and (othe
 ### My VA Health (Oracle Health)
 TBD, but likely to have a similar design and content to Appointments Web. Need to talk to that team to share the VA.gov content and evaluate next steps.
 
-### Pre-After-Visit Summary
+### Pre-Visit Summary
 TBD
 
 
