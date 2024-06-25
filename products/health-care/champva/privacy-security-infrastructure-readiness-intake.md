@@ -17,30 +17,46 @@
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
 
 * Please describe what problem this product or feature solves.
+  - **INSERT HERE**
 * Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
+   - **INSERT HERE**
     * The code base is compromised at source- or run-time.
+      - **INSERT HERE**
         * How does the code base get disabled in the product?
+          - **INSERT HERE**
         * How would you detect a compromise?
+          - **INSERT HERE**
         * What process and privilege does the code base execute under?
             * If so, is that process isolated?
+              - **INSERT HERE**
             * If so, what additional credentials are available to that process?
+              - **INSERT HERE**
         * The code base is infiltrated or ex-filtrated.
+          - **INSERT HERE**
     * Links to dashboards that help identify and debug application issues
+      - **INSERT HERE**
 * Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 * Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
+  - **INSERT HERE**
 * Is there any new logging data being captured?  If so, what data is being captured, how, and where is it stored?
+  - **INSERT HERE**
 * Is [Personal Health Information/PHI](https://www.hhs.gov/hipaa/index.html), [Personal Identifiable Information/PII](https://www.dol.gov/general/ppii), or any other [Personal Information/PI](https://www.oag.ca.gov/privacy/ccpa) being captured? If so, please answer the following questions:
     * Is the PHI strongly encrypted?
+      - **INSERT HERE**
     * Is the PII encrypted?
+      - **INSERT HERE**
     * Can the sensitive information be scrubbed?
-* Are there any new, modified, or existing Cookies being used?
+      - **INSERT HERE**
+* Are there any new, modified, or existing Cookies being used? **No**
     * If so, are there any new Cookies?
         * If so, why can’t the existing Cookies be used?
     * If so, are there any modified Cookies?
         * If so, how are the Cookies modified?
     * If so, are there any existing Cookies?
 * Is this feature authenticated or unauthenticated?
+  - **Authenticated utilize Platform's SiS feature**
 * Are there any other specific subjects that you want to highlight or focus additional attention on?
+  - **INSERT HERE**
 
 ## Artifacts
 
