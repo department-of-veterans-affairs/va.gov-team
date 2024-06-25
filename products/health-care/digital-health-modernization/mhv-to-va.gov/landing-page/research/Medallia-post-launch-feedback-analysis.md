@@ -5,17 +5,12 @@ Medallia feedback on My HealtheVet is collected via two distinct surveys:
 * A11 "Intercept" survey - launches a modal window inviting users to take the survey; it intercepts 5% of sessions where the user visits 3 or more pages.
 * VFS "Feedback button" survey - used to collect user feedback for specific Veteran Facing Services; it is accessed by a floating feedback button on the right-hand side of specific URLs. Access to this survey is persistent and is more likely to be sought by Veterans who are experiencing a pain point online.
 
-Sitewide Medallia information (more global than healthcare-only responses) can be found on this [Domo dashboard](https://va-gov.domo.com/page/825663825). 
-
-Note: This document is intended to analyze user feedback (Medallia) and track trends post secondary navigation launch/integration on 6/17/25. We seek to better understand how Veterans are responding to the portal and identify areas that are successful or need improvement. 
+This document is intended to analyze user feedback (Medallia) and track trends post secondary navigation launch/integration on 6/17/25. We seek to better understand how Veterans are responding to the portal and identify areas that are successful or need improvement. 
 
 The Cartographer Team will request landing page responses (/my-health/) as tool teams will also be pulling responses daily. 
 
-- Medallia qualitative feedback is to be analyzed daily
-- 
-
-
-Satisfaction / Experience ratings – 5-point scale, 4 & 5 are “satisfied” / good for both surveys
+- Medallia qualitative feedback is to be analyzed daily and will be stored (get sharepoint link) 
+- C-SAT will be calculated biweekly 
 
 ## Details: A11 Intercept survey
 
