@@ -30,9 +30,9 @@
 
 <details>
   
-<summary>Team/PM/PO decisions</summary>
+<summary>Team/PM/PO Decisions</summary>
 
-### Team/PM decisions
+### Team/PM Decisions
 
 - It is up to the designer to seek out discussion time with the internal team as needed to keep projects moving along. This is why our work is able to be so autonomous - you're trusted to manage subtasks like this.
 - Use Slack for small, straightforward questions or to decide whether a meeting is needed.
@@ -43,7 +43,7 @@
 - Don't hesitate to schedule asynchronous meetings with appropriate team members to discuss and make decisions. This is often necessary at some point in the project timeline.
   - It's recommended to do this early on with engineers as you're ideating so they can flag any technical considerations or blockers.
  
-### PO decisions
+### PO Decisions
 - Our VA product owner (Patrick Bateman) manages several VA.gov teams. He doesn't need to (and doesn't have the time to) be aware of every detail of our projects but should be aware of the general direction and project timeline.
 - Use the 10-10 team<>Product Lead bi-weekly touchbase meeting to update Patrick on any major developments for in-flight projects.
 - Slack can also be used to communicate with Patrick for smaller questions that don't require a meeting. He may be slow to respond due to his schedule. If he'll be out for any significant amount of time, the DM puts this on the team calendar.
@@ -53,7 +53,19 @@
 
 </details>
 
-## Collab and/or CAIA review 
+<summary>Collab and/or CAIA review </summary>
+
+### Collaboration Cycle
+- Since the nature of our work is typically making updates to existing forms or creating new products/features that have a government mandated deadline, we often don't use the collaboration cycle.
+- If we were working on a new major feature or form that didn't have a tight deadline and incorporated components and integrations that we net new to the team, this would be an appropriate use case for the collab cycle.
+- For more info on the collaboration cycle, how to kick off and how to navigate all the steps, see [Platform documentation](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/).
+
+### CAIA Review
+- We must have a content SME from CAIA review our work any time that content is changing.
+- The typical cycle for a health enrollment project involves CAIA review instead of the full collaboration cycle.
+- See our [content collaboration process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-collab.md) for more info on what to do to set up for CAIA review, how to submit a ticket, and how to collaborate with content SMEs.
+
+
 ## Stakeholder / SME accuracy checks
 ## Development review
 ## QA with content/design/research
