@@ -56,7 +56,17 @@ ________________________________________________________________________________
          - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
          - 🟦 [[FE] Filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611) 
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
-         - Waiting on Stephen and Kristen McConnell to let us know what the VA leads from this team need. 
+         - Waiting on Stephen and Kristen McConnell to let us know what the VA leads from this team need.
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+         - ❗ 🟨 [Add quantitative response tracker to Mural](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86931)
+         - 🟨 [Conduct pilot research session](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86936)
+         - 🟨 [Update convo guide & prototypes based on pilot](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86937)
+         - 🟨 [Populate observer sign up sheet with roster from Perigean](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86935)
+         - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
+    - **Sub Goal: [Feature] Design & Tech Debt**
+         - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob 
+
+
 
 
 
