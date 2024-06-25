@@ -51,6 +51,7 @@
   - The PMs post notes from this meeting in Github [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Meetings/PO_PM%20meeting%20notes).
 - If you need to schedule any asynchronous time with Patrick, let the DM (Emily) know so she can schedule it.
 
+</details>
 
 ## Collab and/or CAIA review 
 ## Stakeholder / SME accuracy checks
