@@ -25,7 +25,7 @@ Veterans will be able to complete the paper form equivalent of Section IV; quest
 - 15b: "Did you serve in any of the following gulf war hazard locations?"
 - 15c: "Did you serve in any of the following Herbicide locations?"
 - 15d: "Have you been exposed to any of the following?" and;
-- 15e: "If you were exposed multuiple times, please provide all additional dates and locations of potential exposure."
+- 15e: "If you were exposed multiple times, please provide all additional dates and locations of potential exposure."
 
 ## Success Criteria
 
@@ -71,22 +71,20 @@ There are two use cases that we are considering for this release. For each, we p
 - Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans do have an IPF and an ITF.
 
 ## Timelines and Key Components
-
-[DBEX Toxic Exposure Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Delivery%20Plan.md) for reference
+See Appendix below for full milestone breakdown.
 
 | Phase | Milestone | Target Dates | Status | Notes |
 |---|---|---|---|---|
-|1 |Gulf War exposures|May 21, 2024|In Progress | On Track|
-|2 |Herbicide & Hazards|June 18 2024|In Progress | Delay by 5103 FDC update 5/16/24 |
-|3 |Launch Preparation|June 18 2024*|Planned |   | Staging review intended to start on 6/18/24, assuming UI updates complete|
-|4 |Migrate /getPDF functionality to LH|   |   |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Continuing to monitor|
-|5 |Migrate submit functionality to LH|June 2024|   |Pending LH implementation (est. staging early June)|
-|6 |New TE Applications|July 27 2024*| | Dependent on complete submit migration completion| 
-|7 |Veterans with an IPF|TBD||
+|1 |Gulf War exposures|May 21, 2024|Complete | On Track|
+|2 |Herbicide & Hazards|July 3 2024*|In Progress | Delay by 5103 FDC update 5/16/24 and addressing bugs in submit endpoint functionality |
+|3 |Launch Preparation| July 3 2024*|Planned  | Original date of 6/18 shifted by 1 sprint due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review |
+|4 |Migrate /getPDF functionality to LH| TBD*   | In Progress  |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow.|
+|5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24|
+|6 |New TE Applications - release 1.0|July 27 2024*| Not Started| Dependent on submit migration completion| 
+|7 |Veterans with an IPF - release 1.1|Targeting 14+ days after new applications|Not Started| |
 
 *Dates may vary
 # Release Process
-
 ## Feature Flags
 
 | Phase | Description | Flipper Status - Percentage | Visible Form | Notes |
@@ -97,27 +95,7 @@ we need to check if the frontend can use this as well, or if we need to also add
 |6 | New TE Applications |On | 2022 | Per ToT 5/16: This will be combined with Submit; ToT: 5/23 this will be based on the presence of an IPF |
 |7 | Veterans with an IPF |Off | 2022 |
 
-## Rollouts 
 
-#### GetPDF (GeneratePDF):
-- [ ] LH Implementation
-- [ ] Internal Testing and Review
-- [ ] Pre-release Testing
-- [ ] Canary
-
-#### Submit: 
-- [ ] LH Implementation
-- [x] Planning [Submit Endpoint Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)
-- [ ] Internal Testing and Review
-- [ ] Pre-release Testing
-- [ ] Canary
-- [ ] Staged Rollout
- - Rollbacks:
-
-#### Post-Release:
-1. add TE pages to Google analytics in Domo (can we do this sooner?)
-2. look at the count of sucessfull claim submissions
-3. Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal. Additionally, examine identified anomalous activity for any endpoint rollouts.
 
 #### Monitor Success Criteria:
  - Bring the online 526 form into compliance by being up to date with the 2022 paper form
@@ -125,25 +103,21 @@ we need to check if the frontend can use this as well, or if we need to also add
  - Reduce the amount of time to determine if the applicant is elegible for presumptive service connection based on toxic exposure
  - Mantain or reduce abandonment rates
  - Sucessfully migrate 526 submission infrastructure off EVSS
-   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822849&to_ts=1716910822849&live=false&tile_focus=4766684880115406
-   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822569&to_ts=1716910822569&live=false&tile_focus=6719002960639492
  - Reduce or maintain existing submission errors
-   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822859&to_ts=1716910822859&live=false&tile_focus=6127103963619920
-   - https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822569&to_ts=1716910822569&live=false&tile_focus=6719002960639492
+   - [526 Submit Endpoint Dashboard - DataDog](https://vagov.ddog-gov.com/dashboard/mqg-msb-htb/benefits---dbex---evss-to-lh-submit?fromUser=false&refresh_mode=paused&view=spans&from_ts=1714318822569&to_ts=1716910822569&live=false&tile_focus=6719002960639492)
  - Maintain % of submissions that use normal path
-   - https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true
  - Maintain or reduce uses of backup and failsafe path
-   - https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true
+   - [526 Claim Submission Dasboard - DataDog](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true)
   
 ## Proposed Release Plan for 1.0 (Veterans without existing IPF)
 ### Prerequisites:
- - Approval from VA (Emily)
- - Approved PDFs from ??? Team (Emily knows which team)
- - Validation Rake task results approved by team
- - Monitoring configured
-
- - vets-api Deployed, Toggled Off
- - vets-website Deployed
+Approvals for launch:
+- [ ] OCTO PO - Emily Theis
+- [ ] Approval for PDFs - **need team name
+- [ ] DBEX Teams approve validation rake task results
+- [ ] Monitoring configured by DBEX teams
+- [ ] vets-api Deployed, Toggled Off
+- [ ] vets-website Deployed
 
 #### Day 0:
  - 11am EDT <individual> Toggles Feature ON for all Users
@@ -169,10 +143,109 @@ we need to check if the frontend can use this as well, or if we need to also add
 #### Day 14: 
 - <individual> Toggle on at 100%
 
-## Remediation Steps:
+### Remediation Steps:
  - If a claim fails Primary submission, passes Backup submission, no further effort required
  - If a claim fails both Primary and Backup submission processes, team researches root cause, <individual> repairs claim in production and re-triggers primary submission
 
-## Version 1.1 Requirements & Release Plan TBD
+## Proposed Release Plan for 1.0
+
+Steps TBD
+
+
+# Appendix
+
+## Post-Release To Do List
+1. add TE pages to Google analytics in Domo - [submitted GH issue to analytics team](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86588)
+2. look at the count of sucessfull claim submissions
+3. Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal. Additionally, examine identified anomalous activity for any endpoint rollouts.
+
+## Delivery Milestones
+### Planned Delivery Timeline MVP Release April 2024 - August 2024
+This delivery plan is segmented into pieces of functionality that are available to view in staging as a cohesive end to end user experience. Based on the way the data is structured, it has been broken out to segment the different questions of column 4 of the 526ez as key milestones.  
+
+Sprints noted with an asterisk (*) will have flexible delivery completion, depending on the availability of the Lighthouse /submit endpoint. The official production release to users cannot occur without the /submit endpoint available in the production environment.
+
+
+#### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked.
+**Estimated Duration**: Sprint 28 (3/27 - 4/9/24) - Sprint 30 (4/24 - 5/7/24)   
+**Actual Delivery Date**: Sprint 30 (4/24 - 5/7/24)     
+**Environment**: Staging    
+**Building Blocks:**    
+ - [X] JSON Schema refactored
+ - [X] Data transformation to save the Toxic Exposure data, capture the Toxic Exposure flag from the conditions array, and transform the Toxic Exposure data into the Lighthouse structure for the disabilities array.
+ - [X] End to end test from 526ez to VBMS with the 2022 PDF, with column 2 filled and 15A checked.
+
+
+#### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E.
+**Estimated Duration**: Sprint 29 (4/10 - 4/23/24) - Sprint 31 (5/8 - 5/21/24)        
+**Actual Delivery Date**: Sprint 31 (5/8 - 5/21/24)       
+**Environment**: Staging    
+**Building Blocks:**     
+ - [X] Create the summary page for Gulf War 1990 questions.
+ - [X] Add “none of these locations” to the Gulf War 1990 questions. 
+ - [X] Implement checkbox and loop for Gulf War and 9/11 summary pages.
+ - [X] Add “I’m not sure” to the Gulf War 1990 pages.
+ - [X] Heading content and URL changes.
+ - [X] Transform service on the first of each location in 15B and put these behind the Toxic Exposure feature flag.
+ - [X] Handle multiple exposure durations 15B.
+ - [X] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, adding 15B and 15E are populated.
+
+#### Milestone: A Veteran can link their conditions to Toxic Exposure, and receive a 2022 PDF with column 2 and checkbox for 15A is checked; Gulf War 1990 and 9/11 pages data is populated in 15B and 15E; herbicide & hazards pages data is populated in 15 C, D, E.
+**Estimated Duration**: Sprint 31 (5/8 - 5/21/24) - Sprint 35 (7/3 - 7/16/24)*     
+**Actual Delivery Date**:      
+**Environment**: Staging    
+**Building Blocks:**   
+ - [X] Create herbicide pages.
+ - [X] Create hazard pages.
+ - [X] Transform service on the first of each hazard in 15C and put these behind the Toxic Exposure feature flag.
+ - [X] Transform service on the first of each hazard in 15D and put these  behind the Toxic Exposure feature flag.
+ - [X] Handle multiple exposure locations 15C.
+ - [X] Handle multiple exposure locations 15D.
+ - [X] Discovery on async document status upload for form 526 after claim is established.
+ - [X] Consolidate Submit and Toxic Exposure feature flags.     
+ - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
+ - [ ] Handling of 2 forms - new feature flag for IPF claims
+ - [ ] UI/UX updates for IPF claims
+ 
+ 
+
+#### Milestone: Migrate /submit endpoint and /generatePDF endpoint
+**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 35 (7/3-7/16/24)*      
+**Actual Delivery Date**:            
+**Environment**: Production          
+**Building Blocks:**      
+- [X] Schedule weekly Lighthouse touchpoints through release.
+- [X] Migrate Lighthouse synchronous /submit endpoint & release.*
+     - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
+     - [X] Submit dashboard           
+- [ ] Revisit submit transformation & make any needed changes
+- [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
+- [ ] Schedule staging review
+
+
+#### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
+**Estimated Duration**: Sprint 36 (7/17 - 7/30/24)*    
+**Actual Delivery Date**:          
+**Environment**: Release 1.0 - Production  
+**Building Blocks:**    
+ - [ ] Staging review.
+     - [X] Product guide updated.
+     - [X] TestRail updated
+ - [ ] Bug Bash.
+ - [ ] Security review.
+ - [ ] Contact center review.
+ - [ ] Rollback plan in place.
+ - [ ] Submit & generatePDF release will update Veterans to using the 2022 PDF with Toxic Exposure questions.
+ - [ ] Post-launch toggle cleanup
+
+#### Milestone: A Veteran filing with a 2019 In Progress Form claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
+**Estimated Duration**: Sprint 37 (7/31 - 8/13/24)*    
+**Actual Delivery Date**:          
+**Environment**: Release 1.1 - Production    
+**Building Blocks:**    
+- [ ] Veterans with the form526 2019 In Progress Form will be selected for the 2022 form 526 and Toxic Exposure questions
+- [ ] OMB component update
+- [ ] Toxic Exposure post-release research planning
+- [ ] Post-launch toggle cleanup
 
  
