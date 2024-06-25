@@ -28,7 +28,30 @@
 
 </details>
 
-## Team / PM / PO decisions
+<details>
+  
+<summary>Team/PM/PO decisions</summary>
+
+### Team/PM decisions
+
+- It is up to the designer to seek out discussion time with the internal team as needed to keep projects moving along. This is why our work is able to be so autonomous - you're trusted to manage subtasks like this.
+- Use Slack for small, straightforward questions or to decide whether a meeting is needed.
+- The team has recurring meetings that may be used for smaller discussion points if not much time is needed:
+  - Parking lot after stand-up
+  - Backlog grooming and sprint planning typically don't run for the full allotted time and can allow for small discussions
+  - Can use some time in team retro if your question or topic is still nebulous as far as next steps or how to accomplish
+- Don't hesitate to schedule asynchronous meetings with appropriate team members to discuss and make decisions. This is often necessary at some point in the project timeline.
+  - It's recommended to do this early on with engineers as you're ideating so they can flag any technical considerations or blockers.
+ 
+### PO decisions
+- Our VA product owner (Patrick Bateman) manages several VA.gov teams. He doesn't need to (and doesn't have the time to) be aware of every detail of our projects but should be aware of the general direction and project timeline.
+- Use the 10-10 team<>Product Lead bi-weekly touchbase meeting to update Patrick on any major developments for in-flight projects.
+- Slack can also be used to communicate with Patrick for smaller questions that don't require a meeting. He may be slow to respond due to his schedule. If he'll be out for any significant amount of time, the DM puts this on the team calendar.
+- There is a weekly PO/PM touchbase meeting that can be used for PO questions if needed. Let your PM know if you'd like them to bring something up to Patrick in that meeting.
+  - The PMs post notes from this meeting in Github [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Meetings/PO_PM%20meeting%20notes).
+- If you need to schedule any asynchronous time with Patrick, let the DM (Emily) know so she can schedule it.
+
+
 ## Collab and/or CAIA review 
 ## Stakeholder / SME accuracy checks
 ## Development review
