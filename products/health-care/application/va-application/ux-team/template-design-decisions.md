@@ -35,9 +35,17 @@
 - Name/departments/meeting notes
 
 #### Timeline
-**Date**
-- Whathappened
+Order with most recent first, oldest last
+
+When it happend (title of list)
+- What happened
 - Who was invlovled
 - Why the decision was made
+
+When it happend (title of list)
+- What happened
+- Who was invlovled
+- Why the decision was made
+  
   
 </details>
