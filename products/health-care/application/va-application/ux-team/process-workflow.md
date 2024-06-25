@@ -1,7 +1,8 @@
 # Design Decisions and Workflow
-
+<summary>
 ## Ticket Process
 
+<details>
 ### Ticket Creation
 - Ticket creation is not exclusive to PMs - Anyone on the team can create a ticket!
 - A ticket should include:
@@ -24,6 +25,8 @@
 - Leave comments on tickets to convey decisions made and/or artifacts created that are relevant to the ticket
 - Refer to the team's guidelines for [definition of done](https://docs.google.com/presentation/d/1v32urMBT9IU7BBZHuLJN3Tap4dTTxSlbxQ38dFWtpYg/edit#slide=id.g2330c998e95_0_5) before closing a ticket
 
+</details>
+</summary>
 
 ## Team / PM / PO decisions
 ## Collab and/or CAIA review 
