@@ -16,7 +16,7 @@ To allow product teams to feature dynamic content as needed for user acceptance 
 
 ## How the sitewide content, accessibility, and IA team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
 
-The Product team should tell CAIA about plans for an incremental launch as early as possible. Typically, CAIA asks for one month to work with the Product team to create and test a react widget. The CAIA team also suggests meeting for an incremental launch "kickoff" meeting to discuss the process outlined here.
+The Product team should tell CAIA about plans for an incremental launch as early as possible. Typically, CAIA asks for about one month to work with the Product team to create and test a react widget ahead of a launch. The CAIA team also suggests meeting for an incremental launch "kickoff" meeting to discuss the process outlined here.
 
 |Owner | Task|
 --|--
