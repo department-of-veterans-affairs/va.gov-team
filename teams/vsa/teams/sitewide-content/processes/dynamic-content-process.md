@@ -16,10 +16,12 @@ To allow product teams to feature dynamic content as needed for user acceptance 
 
 ## How the sitewide content, accessibility, and IA team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
 
+The Product team should tell CAIA about plans for an incremental launch as early as possible. Typically, CAIA asks for one month to work with the Product team to create and test a react widget. The CAIA team also suggests meeting for an incremental launch "kickoff" meeting to discuss the process outlined here.
+
 |Owner | Task|
 --|--
 | Product team | Open [Sitewide Content, Accessibility, and IA Intake Form issue ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) to describe the project, and notify team in #sitewide-content-ia with issue link. **Include any timing requirements/goals**, based on full launch to 100% of users. |
-| Sitewide CAIA team & Product team | The product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-steps) and discuss what content is shown when the feature toggle is on and what content is shown when the feature toggle is off. |
+| Sitewide CAIA team & Product team | The product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-steps). They discuss what content is shown when the feature toggle is on and what content is shown when the feature toggle is off. |
 | Sitewide CAIA team | Provide final copy via the issue. If different content should appear in the widget when the feature toggle is off, Sitewide CAIA notes this. |
 | Product team | Create a React widget in vets-website for the dynamic content. |
 | Product team | Create a feature toggle (Flipper) in vets-api (to use in vets-websites) to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide) |
