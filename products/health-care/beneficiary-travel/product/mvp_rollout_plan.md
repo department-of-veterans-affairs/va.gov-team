@@ -51,7 +51,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: Jul 1 - Jul 15
+- Desired date range or test duration: Jul 15 - Jul 30
 - Desired number of users: TBD
 - How you'll recruit the right production test users: Through a network of Ad Hoc, BAH, and VA Veterans
 - How you'll conduct the testing: UAT
@@ -72,7 +72,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: July 26 
+- Desired date range: July 31 
 - How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
