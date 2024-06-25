@@ -33,7 +33,7 @@ Mockups: Figma “[Additional Tickets](https://www.figma.com/file/fY52BhHs0EI9OD
         * **As of June 2024, the updated page is live**
 * **Next steps:** IIR Front End has implemented the changes to the GIBS page.
 
-Additionally, CAIA and our FE noted that the Enrollment History should potentially to be showing something other than a summary card component (such as, a list of the users' enrollment history); however, the staging users we had available to view the benefits page only showed the summary box. There's a potential for an issue there, but we don't have the visibility to determine the proper visual for enrollment history. **This will require further investigation to correct.**
+Additionally, CAIA and our FE noted that the Enrollment History should potentially to be showing something other than a summary card component (when the history is populated, it shows an accordion of the users' "change history" and total of on-campus hours); however, the staging users we had available to view the benefits page only showed the summary box. There's a potential for improvement to ensure users understand what change history is, as well as updating the messaging in the summary box, but we don't have the visibility to determine the proper treatment for enrollment history. We included a screenshot and some of the considerations in our Figma file under [Enrollment History-WIP](https://www.figma.com/design/fY52BhHs0EI9ODWrqKZnZV/GI-Bill-Statement-of-Benefits?node-id=368-1484&t=ksos2T9ij1wlfcwW-1).  **This will require further investigation to correct.**
 
 ## Information Architecture / URLS
 Status: CAIA working on audit; IIR implementing changes to breadcrumb content and urls    
@@ -53,7 +53,8 @@ Additional Information: “[Staging Screenshots](https://www.figma.com/file/fY52
 
 ---
 
-Updated:      
+Updated:    
+Liza McRuer, IIR, June 25, 2024 - Updated with details and links around enrollment history    
 Liza McRuer, IIR, June 24, 2024 - Updated with additional details on the work the team completed   
 Liza McRuer, IIR, May 21, 2024 - Updated with additional work the team was able to complete prior to handoff   
 Liza McRuer, IIR, April 25, 2024 - Added information about the Enrollment History summary box as a potential error; updated status on error messaging      
