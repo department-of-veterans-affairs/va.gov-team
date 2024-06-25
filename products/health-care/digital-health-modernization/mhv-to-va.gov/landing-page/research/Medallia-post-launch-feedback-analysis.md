@@ -12,7 +12,18 @@ Medallia feedback on My HealtheVet is collected via two distinct surveys:
 * VFS "Feedback button" survey - used to collect user feedback for specific Veteran Facing Services; it is accessed by a floating feedback button on the right-hand side of specific URLs. Access to this survey is persistent and is more likely to be sought by Veterans who are experiencing a pain point online.
 
 ## Medallia qualitative feedback details
+The Cartographer Team will request landing page responses (/my-health/) and analyze daily. 
 
+### Data we're collecting
+- Date/time feedback recieved
+- Able to complete task
+- Key c-sat score name: "VA.gov experience"
+- Key c-sat score name: "What is your overall satisfaction with this site?"
+- Qualitative responses (What that rating? and What task were you trying to do today?
+- Related to integration
+- Browser
+- Browser version
+- Device 
 
 ## A11 Intercept survey details
 
