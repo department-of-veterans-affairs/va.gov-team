@@ -39,6 +39,9 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
+    - **Sub Goal: [Feature] Design & Tech Debt**
+    - **Sub Goal: [Feature] Get connected with WellHive**
+
 
 
 
@@ -65,7 +68,10 @@ ________________________________________________________________________________
          - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Design & Tech Debt**
          - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
-         - 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible 
+         - 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible
+    - **Sub Goal: [Feature] Get connected with WellHive**
+         - 🟦 [Validate access to time slots API endpoint from WellHive](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86958)
+
 
 
 
