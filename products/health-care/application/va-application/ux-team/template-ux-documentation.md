@@ -59,11 +59,13 @@ Description around problem statement during project. Add link to solution descri
 ---- 
 
 
-## How-to reference
-Additional context and resources around the sections of the template above. 
+# How-to use the template reference
 
-- For every initiative / project, PM will create a folder to house relevant documentation. Create a "UX" folder and readme.md file
-- Add the key documention elements to the readme file
+- Additional context and resources around the sections of the template above. 
+- For every initiative / project, PM will create a folder to house relevant documentation. Create a "UX" folder and readme.md file inside of that folder
+- Copy the template into the readme.md file
+- Add details and maintain through-out project
+- Can use UX folder to house additional artifacts as needed (exports of screens, Mural boards, experience maps, etc)
 
 
 
@@ -91,7 +93,6 @@ Additional context and resources around the sections of the template above.
 ### Timeline + UX decisions
 - Follow [UX decisions template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/template-design-decisions.md)
 
-  
 ### Tickets
 - Link to any relevant UX github tickets opened on this work listing the most recent first
 
@@ -107,9 +108,9 @@ Additional context and resources around the sections of the template above.
 ## Optional documentation resources 
 
 ### Documenting if Figma
-- [Example]() found in CG file used for 2024 paper form alignment updates
+- [Example](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=1069-27287&t=jbBzAcnDteZG6tgf-4) found in CG file used for 2024 paper form alignment updates
 
-- Documentation can also happen directly in Figma a few different ways:
+**Documentation can also happen directly in Figma a few different ways:**
   - Section just for design decisions
   - Notes component via the VADS Annotations Library
   - Accessibility annotions via the VADS Annotations Library
@@ -118,15 +119,23 @@ Additional context and resources around the sections of the template above.
 
 ### Content status component in Figma
 - See more in [content collab process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-collab.md#content-status-component)
-
+- Use to call out changes, questions or considerations
 - Use to document content and/or SME decisions and conversations
 
 
 ### Notes Annotation Component
+The 1010 team also uses the notes component found in the _VADS Accessibility Annotations Library_ to 
+- Identify each page/view in flow
+- Title: common name (same as content component)
+- Additional details: conditionals + helpful info
+- Code: URL of the page
+
+
 
 ### Accessibility Annotations
 
-
+- [Accessibility annotations for VA.gov applications](https://design.va.gov/about/accessibility/accessibility-annotations)
+- [Figma library](https://www.figma.com/design/CZcnWfQOwtLqPm4WA5paYG/VADS-Web-Annotation-Kit?node-id=415-1135&t=uimVWJ4IGcV0sU75-0)
 
 
 ----
