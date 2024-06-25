@@ -6,11 +6,11 @@
     * As a requester: complete any follow-up action items and provide all requested information in this issue.
 * Do _**NOT**_ close this issue, Security Reviews may only be closed by a member of the Platform Security Team. The Platform Security Team will update the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) upon closure.
 
-## Stakeholders from the **requesting team**
-- Lead engineer: **name**
-- Product manager: **name**
-- OCTO-DE product lead: **name**
-- Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns: **names**
+## Stakeholders from the **IVC ChampVa Forms**
+- Lead engineer(s): **Bryan Alexander(Ad Hoc) and Don Shin (Agile6)**
+- Product manager(s): **Bo Altes (Agile6) and Mary Wang (Ad Hoc)**
+- OCTO-DE product lead: **Premal Shah**
+- Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns: **Bryan Alexander(Ad Hoc) and Don Shin (Agile6)**
 
 ## Questions to be Answered
 
