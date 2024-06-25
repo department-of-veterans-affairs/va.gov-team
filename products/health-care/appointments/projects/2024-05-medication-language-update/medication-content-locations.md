@@ -65,6 +65,10 @@ Need to work with VCC to determine how to update their existing emails and (othe
 ### My VA Health (Oracle Health)
 TBD, but likely to have a similar design and content to Appointments Web. Need to talk to that team to share the VA.gov content and evaluate next steps.
 
+### Pre-After-Visit Summary
+TBD
+
+
 ## Will NOT display the language
 
 ### Check-in Experience
@@ -73,3 +77,5 @@ TBD, but likely to have a similar design and content to Appointments Web. Need t
 
 ### Text reminders
 - Text message reminders allow a Veteran to confirm that they will be attending their appointment. Once a Veteran confirms, they have the option to complete the pre-check-in experience. Since pre-check-in will have this wording, we won't add it to the appointment reminders text messages. Text messages also have a very short character limit and cost extra for additional messages. Next steps: talk to VeText to evaluate if there are some edge case scenarios to add this langauge to.
+
+
