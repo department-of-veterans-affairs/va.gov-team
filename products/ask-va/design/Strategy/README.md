@@ -12,7 +12,7 @@ This folder contains documentation related our design strategy.
 |[Initial research roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Initial%20research%20roadmap.md)|Describes our initial research questions.|
 |[Moving to VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Moving%20to%20VA%20Profile.md)|Describes how the move to VA Profile will impact submitters|
 |[Similarities and differences between categories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Similarities%20and%20differences%20between%20categories.md)|Describes patterns in the design of the Ask VA form|
-|[Check the status of your question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Check%20the%20status%20of%20your%20question.md)|Hypotheses about the call-to-action link when a submitter searches the status of their question.|
+|[Check the status of your question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Strategy/Check%20the%20status%20of%20your%20question.md)|Hypotheses about the call-to-action link when a submitter searches status.|
 
 ## Questions?
 
