@@ -74,7 +74,6 @@ flowchart LR
     U(PPMS) -->|Non-VA facility and service data| Y
     T(Drupal) -->|Health services - most others| W
     T -.->|Benefit services| W
-    Q(???) -->|Health services - Mental health| W 
     W[Lighthouse Facility API v1] -->|VA facility and service data| Y
     Y[vets-api Facility API v2]
 ```
