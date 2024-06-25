@@ -14,6 +14,13 @@
 
 ## Agenda
 
+## 6/26/24
+* **Epics Review**
+  * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+* **Discussion Topics**
+  * Summer capacity
+
+
 ## 6/17/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
