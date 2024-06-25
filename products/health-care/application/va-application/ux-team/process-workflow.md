@@ -1,8 +1,10 @@
 # Design Decisions and Workflow
+
 <summary>
+  <details>
+    
 ## Ticket Process
 
-<details>
 ### Ticket Creation
 - Ticket creation is not exclusive to PMs - Anyone on the team can create a ticket!
 - A ticket should include:
