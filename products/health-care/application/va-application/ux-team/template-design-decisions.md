@@ -14,19 +14,20 @@
 
 ### UX Decision Details Template
 
+<details>
 
-<Title of decision>
+<summary>UX Decision Title</summary>
 
+  
 ### Background
 
-### Current state/decision
+### Current state/outcome
 
 ### Reasoning
 
 ### Decision makers involved
 
 ### Timeline
-
 
   
 </details>
