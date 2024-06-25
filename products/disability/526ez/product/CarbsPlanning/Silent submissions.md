@@ -1,5 +1,5 @@
 [Slack Message ](https://dsva.slack.com/archives/C04KW0B46N5/p1718974334591659)
-<h1> Code Yellow Silent Submissions  <h1>
+<h1> Code Yellow Post Remediation clean-up <h1>
 
 <h2>The problem we are trying to solve </h2>
 
