@@ -68,7 +68,7 @@ There are two use cases that we are considering for this release. For each, we p
 - Veterans who begin a new 526 form will be directed to complete the 2022 version of the 526 form, including the new Toxic Exposure section. These Veterans do not have an IPF, and may or may not have a previous Intent To File (ITF).
 
 ### 2. Veterans With an In Progress Form
-- Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans do have an IPF and an ITF. We will need to know during the In Progress Form release 1.1 which version of the 526 a Veteran has in progress. If a Veteran was part of release 1.0, they could have a 2022 form in progress. If they were not part of release 1.0, they could have a 2019 form in progress and need to be exposed to the 2022 form.
+- Veterans who have a 526 form in progress will be directed to resume their application without disruption from new features. Unlike New Applications, these Veterans do have an IPF and an ITF. 
 
 ## Timelines and Key Components
 See Appendix below for full milestone breakdown.
@@ -114,7 +114,6 @@ we need to check if the frontend can use this as well, or if we need to also add
   - 1.0    
   - 1.1    
 - Acceptable threshold of primary submission failures      
-- 
   
 ## Proposed Release Plan for 1.0 (Veterans without existing IPF)
 ### Prerequisites:
