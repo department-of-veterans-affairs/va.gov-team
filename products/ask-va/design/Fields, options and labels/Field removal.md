@@ -1,7 +1,7 @@
 # Field removal
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: April 4, 2024
+Last updated by @beckyphung: June 25, 2024
 
 ## List of fields to remove
 - [Reason you’re contacting us](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Field%20removal.md#reason-youre-contacting-us)
@@ -28,7 +28,7 @@ We recommend removing this field because:
 - We heard this field may be important to certain stakeholders, particularly those who were involved in getting `Town Hall` added. However, Kathleen Reavy confirmed with Debi Bevins (Office of the Secretary) that they no longer need the `Town Hall` option.
 
 ### Next step
-- We will recommend to the Ask VA Change Control Board that this field is removed from the form.
+- The CCB voted to remove this field. See the results [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/6-2024%20Change%20Control%20Board%20outcomes.md).
 
 ## Gender
 This field is currently optional and allows a free-text response. The form asks for gender from submitters and sometimes dependents.
@@ -42,7 +42,7 @@ We recommend removing this field because:
 View our complete recommendation, which includes findings from January 2024 usability testing, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Gender.md).
 
 ### Next step
-- We will recommend to the Ask VA Change Control Board that this field is removed from the form.
+- The CCB voted to remove this field. See the results [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/6-2024%20Change%20Control%20Board%20outcomes.md).
 
 ## VA employee
 This field is currently optional, but it has a default prefilled "No" response. It isn't asked for "About Me, the Veteran." It also allows a "Yes" answer. If an inquiry is flagged as a sensitive record because they answered "Yes" to the employee question, then the agent sees a modal that asks them to acknowledge that they're opening sensitive information.
