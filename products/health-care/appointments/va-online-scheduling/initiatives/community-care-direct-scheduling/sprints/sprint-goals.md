@@ -26,11 +26,9 @@ ________________________________________________________________________________
       
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 6/26/2024 - 7/9/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 10 - 6/26/2024 - 7/9/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 10 - 6/26/2024 - 7/9/2024 - CURRENT SPRINT
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
@@ -81,7 +79,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 9 - 6/12/2024 - 6/25/2024 - CURRENT SPRINT
+## SPRINT 9 - 6/12/2024 - 6/25/2024 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Pull in patient preferences for user**
