@@ -42,7 +42,7 @@ The following product or feature descriptions may be answered with a reference l
 * Is there any new logging data being captured?  If so, what data is being captured, how, and where is it stored?
   - **Error messages are logged to the rails logs and DataDog. PII is not sent to any logging.**
 * Is [Personal Health Information/PHI](https://www.hhs.gov/hipaa/index.html), [Personal Identifiable Information/PII](https://www.dol.gov/general/ppii), or any other [Personal Information/PI](https://www.oag.ca.gov/privacy/ccpa) being captured? If so, please answer the following questions:
-  - **We are storing the Veteran's First name, Last name, and Email in IvcForms table.**
+  - **We are storing the Veteran's First name, Last name, and Email in IvcChampvaForms table.**
     * Is the PHI strongly encrypted?
       - **N/A**
     * Is the PII encrypted?
@@ -84,15 +84,27 @@ Please provide the following documentation as attachments.
 * [ ] Data Flow Diagram:
     This diagram must illustrate the following specifics.
     * What data is collected or used, and where, including information such as credentials used by this system?
-      - **INSERT HERE**
+      - **We created a new table called IvcChampvaForms, below is the Factory to show you the data we store and its structure. Credentials for SiS are stored in their own table unrelated to anything we've added.**
+        ```
+        factory :ivc_champva_form do
+          email { Faker::Internet.email }
+          first_name { Faker::Name.first_name }
+          last_name { Faker::Name.last_name }
+          form_number { '10-10D' }
+          file_name { Faker::File.file_name }
+          form_uuid { SecureRandom.uuid }
+          s3_status { '[200]' }
+          pega_status { %w[pending processing completed].sample }
+          case_id { 'ABC-1234' }
+        end
     * Where is the data is stored and how, including information such as any encryption used?
-      - **INSERT HERE**
+      - **See above. No encryption at this time.**
     * How is the data transferred, including information such as any encryption used?
-      - **INSERT HERE**
+      - **Data from vets-website to vets-api is transferred with HTTPS. Data from PEGA system to the vets-api is also transferred with HTTPS with BearerToken through SiS.**
     * Who accesses the data and in what capacity (read or read-write)?
-      - **INSERT HERE**
+      - **Form submissions can only be accessed by external systems. IvcChampvaForms table can be accessed by developers with production console access.**
     * What is the audit trail of data access and manipulation?
-      - **INSERT HERE**
+      - **As we understand, there is no audit trail for access to the IvcChampvaForms table**
 * [ ] API Endpoint Documentation: **TURN THIS INTO URL**
     This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
    - **New endpoints**
