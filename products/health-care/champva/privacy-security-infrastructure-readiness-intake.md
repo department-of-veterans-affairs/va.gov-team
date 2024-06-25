@@ -6,57 +6,66 @@
     * As a requester: complete any follow-up action items and provide all requested information in this issue.
 * Do _**NOT**_ close this issue, Security Reviews may only be closed by a member of the Platform Security Team. The Platform Security Team will update the [Platform Collaboration Point Tracker](https://docs.google.com/spreadsheets/d/1OgPyEvUlNF6EnaYMFAXJkV6FKOvZnlPnbOQ2fAJ7W7A/edit#gid=1116695886) upon closure.
 
-## Stakeholders from the **IVC ChampVa Forms**
-- Lead engineer(s): **Bryan Alexander(Ad Hoc) and Don Shin (Agile6)**
-- Product manager(s): **Bo Altes (Agile6) and Mary Wang (Ad Hoc)**
+## Stakeholders from the **IVC ChampVA Forms**
+- Lead engineer(s): **Bryan Alexander(Ad Hoc) and Don Shin(Agile6)**
+- Product manager(s): **Bo Altes(Agile6) and Mary Wang(Ad Hoc)**
 - OCTO-DE product lead: **Premal Shah**
-- Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns: **Bryan Alexander(Ad Hoc) and Don Shin (Agile6)**
+- Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns: **Bryan Alexander(Ad Hoc) and Don Shin(Agile6)**
 
 ## Questions to be Answered
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
 
 * Please describe what problem this product or feature solves.
-  - **INSERT HERE**
+  - **This product is similar to SimpleForms but for OHI and FMP IVC ChampVA Forms. It's giving Veterans/Applicants the ability to complete their forms online instead of hand-written/mail.**
 * Please describe a plan to monitor this code base after deployment, including the following scenarios (_NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!_).
-   - **INSERT HERE**
     * The code base is compromised at source- or run-time.
-      - **INSERT HERE**
         * How does the code base get disabled in the product?
-          - **INSERT HERE**
+          - **Front-end will have Flipper set up to hide the forms from the website. The back-end doesn't need one at the moment as we are just responding to the front-end**
         * How would you detect a compromise?
-          - **INSERT HERE**
+          - **We will be monitoring via our [IVC ChampVA DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms) will be our primary way of monitoring this product.**
         * What process and privilege does the code base execute under?
             * If so, is that process isolated?
-              - **INSERT HERE**
+              - **We don’t know what this is**
             * If so, what additional credentials are available to that process?
-              - **INSERT HERE**
         * The code base is infiltrated or ex-filtrated.
           - **INSERT HERE**
     * Links to dashboards that help identify and debug application issues
-      - **INSERT HERE**
+      - **[IVC ChampVA DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms)**
 * Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 * Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
-  - **INSERT HERE**
+  - **New back-end endpoints:**
+    - **The endpoints should not be able to be abused by unauthorized parties, only identity verified users can access the form and they only have access to their data. PEGA also will be utilizing SiS (Sign-In Service) to access the last endpoint**
+      - POST `/ivc_champva/v1/forms`
+      - POST `/ivc_champva/v1/forms/submit_supporting_documents`
+      - POST `/ivc_champva/v1/forms/status_updates`
+
 * Is there any new logging data being captured?  If so, what data is being captured, how, and where is it stored?
-  - **INSERT HERE**
+  - **Error messages are logged to the rails logs and DataDog. PII is not sent to any logging.**
 * Is [Personal Health Information/PHI](https://www.hhs.gov/hipaa/index.html), [Personal Identifiable Information/PII](https://www.dol.gov/general/ppii), or any other [Personal Information/PI](https://www.oag.ca.gov/privacy/ccpa) being captured? If so, please answer the following questions:
+  - **We are storing the Veteran's First name, Last name, and Email in IvcForms table.**
     * Is the PHI strongly encrypted?
-      - **INSERT HERE**
+      - **N/A**
     * Is the PII encrypted?
-      - **INSERT HERE**
+      - **No**
     * Can the sensitive information be scrubbed?
-      - **INSERT HERE**
-* Are there any new, modified, or existing Cookies being used? **No**
+      - **We can scrub the data in the table after the Veteran is notified of a completed application cycle**
+* Are there any new, modified, or existing Cookies being used?
+  - **The existing logged in user cookie is used, only identity verified users are allowed to access the form.**
     * If so, are there any new Cookies?
+      - **No**
         * If so, why can’t the existing Cookies be used?
+          - **N/A**
     * If so, are there any modified Cookies?
+      - **No**
         * If so, how are the Cookies modified?
+          - **N/A**
     * If so, are there any existing Cookies?
+      - **Yes**
 * Is this feature authenticated or unauthenticated?
-  - **Authenticated utilize Platform's SiS feature**
+  - **Authenticated normally for uploads and Platform's SiS feature for incoming requests from PEGA**
 * Are there any other specific subjects that you want to highlight or focus additional attention on?
-  - **INSERT HERE**
+  - **Don't think so**
 
 ## Artifacts
 
