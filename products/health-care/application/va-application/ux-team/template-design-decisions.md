@@ -15,9 +15,7 @@
 ### UX Decision Details Template
 
 
-<summary>Title of decision</summary>
-
-<details>
+<Title of decision>
 
 ### Background
 
