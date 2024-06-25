@@ -19,15 +19,25 @@
 <summary>UX Decision Title</summary>
 
   
-### Background
+#### Background
+- links to tickets and/or Figma pages
+- Images if needed to capture versions in time
 
-### Current state/outcome
+#### Current state/outcome
+- Is this live with what iteration/release
+- Plans to iterate in the future
+- Things to look out for in research
 
-### Reasoning
+#### Reasoning
+- What is the rationale behind the decision
 
-### Decision makers involved
+#### Decision makers involved
+- Name/departments/meeting notes
 
-### Timeline
-
+#### Timeline
+**Date**
+- Whathappened
+- Who was invlovled
+- Why the decision was made
   
 </details>
