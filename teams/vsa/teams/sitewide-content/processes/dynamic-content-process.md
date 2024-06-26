@@ -43,6 +43,7 @@ Process steps
 
 * Identify the audience
 * Identify the purpose of the react widget content
+* Identify plan for addressing entry links on other static pages (point to react widget page? or update after the tool is at 100%?)
 * Confirm content source of truth (SharePoint owned by CAIA)
 * Confirm copy edit process (this is project-specific)
 * Confirm start and end date for the incremental launch
