@@ -69,20 +69,21 @@ The following product or feature descriptions may be answered with a reference l
 ## Artifacts
 
 Please provide the following documentation as attachments.
-* [ ] Architecture Diagram: **TURN THIS INTO URL**
-    This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
-    This diagram must also illustrate the following specifics.
+* [ ] [**Architecture Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/architecture_diagram.md)
+    - **The PEGA system is outside the scope of the review**
+    - This diagram must also illustrate the following specifics.
     * Which implementation of security approaches were considered along with the approach that was chosen and why?
-      - **INSERT HERE**
+      - **We are using SiS(Sign-inService) as our authenticator between us and PEGA. It was chosen because it already existed with max security in mind and required minimal setup.**
     * If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
       - **There are no new backend libraries.**
 * [ ] Incident Response Plan **TURN THIS INTO URL**, including Points of Contact for your system and dependent VA back-ends.
     * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
       - **INSERT HERE**
-* [ ] Sequence Diagram **TURN THIS INTO URL**:
-    This diagram must include any authentication steps if this is an authenticated experience.
+* [ ] [**Sequence Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/sequence_diagram.md)
+    - This diagram must include any authentication steps if this is an authenticated experience.
 * [ ] Data Flow Diagram:
     This diagram must illustrate the following specifics.
+   - **The Data flow is the same as the [**Architecture Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/architecture_diagram.md)**
     * What data is collected or used, and where, including information such as credentials used by this system?
       - **We created a new table called IvcChampvaForms, below is the Factory to show you the data we store and its structure. Credentials for SiS are stored in their own table unrelated to anything we've added.**
         ```
@@ -105,8 +106,8 @@ Please provide the following documentation as attachments.
       - **Form submissions can only be accessed by external systems. IvcChampvaForms table can be accessed by developers with production console access.**
     * What is the audit trail of data access and manipulation?
       - **As we understand, there is no audit trail for access to the IvcChampvaForms table**
-* [ ] API Endpoint Documentation: **TURN THIS INTO URL**
-    This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
+* [x] [**API Endpoint Documentation**](https://staging-api.va.gov/v1/apidocs)
+    - This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
    - **New endpoints**
      - **POST `/ivc_champva/v1/forms`**
       - **POST `/ivc_champva/v1/forms/submit_supporting_documents`**
