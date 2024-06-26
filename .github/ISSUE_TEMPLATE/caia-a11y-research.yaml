@@ -2,7 +2,7 @@ name: "Assistive Technology Research Support Ticket (CAIA)"
 description: "Request support for research with disabled Veterans using screen readers, as their primary source of assistive technology and/or observation from an a11y perspective."
 title: "[CAIA A11y Research]: Team name, product name"
 labels: ["508/Accessibility, sitewide CAIA, sitewide accessibility, CAIA-a11y-research"]
-assignees: [coforma-terry]
+assignees: sara-amanda,NaomiPMC
 body:
 - type: markdown
   attributes:
