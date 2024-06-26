@@ -81,7 +81,7 @@ Please provide the following documentation as attachments.
       - **BO OR MARY INSERT HERE**
 * [x] [**Sequence Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/sequence_diagram.md)
     - This diagram must include any authentication steps if this is an authenticated experience.
-* [ ] Data Flow Diagram:
+* [x] Data Flow Diagram:
     This diagram must illustrate the following specifics.
    - **The Data flow is the same as the [**Architecture Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/architecture_diagram.md)**
     * What data is collected or used, and where, including information such as credentials used by this system?
