@@ -73,12 +73,13 @@ From Ryan in Figma:
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Connect with Sitewide Content to update language referencing WAVE. Since there will be green sign-in modals, ensure that it is clear which benefit is the one for a Veteran.
 
-### Secondary entry point
-1. **[About VA Form 22-8979](https://staging.va.gov/find-forms/about-form-va-form-22-8979/)** - Add
-  - Placement description: Below "Downloadable PDF"
-  - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/
-  - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. Team confirmed that this form applies to Post-9/11 as well.
+~~2. **[About VA Form 22-8979](https://staging.va.gov/find-forms/about-form-va-form-22-8979/)** - Add~~
+  ~~- Placement description: Below "Downloadable PDF"~~
+  ~~- Link label: TBD by Sitewide Content~~
+  ~~- Link destination: www.va.gov/education/verify-school-enrollment/~~
+  ~~- Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. Team confirmed that this form applies to Post-9/11 as well~~
+
+**Form 22-8979 is only available for folks who are enrolled in CH35 (Survivors’ and Dependents’ Educational Assistance (DEA) program) so we are removing this as an entry point**
 
 ### Crosslinks
 *List of additional crosslinking opportunities across VA.gov. This requires stakeholder approval and collaboration with Sitewide Content so this list will be iterative as we get feedback.*
@@ -118,6 +119,7 @@ Update existing best bet for [static page](https://www.va.gov/education/verify-s
 
 **[Which static page has the widget, ie the main entry point?]**
 
+This will be a staged rollout
 
 <hr>
 <hr>
