@@ -53,7 +53,9 @@
 
 </details>
 
-<summary>Collab and/or CAIA review </summary>
+<details>
+
+<summary>Collab and/or CAIA review</summary>
 
 ### Collaboration Cycle
 - Since the nature of our work is typically making updates to existing forms or creating new products/features that have a government mandated deadline, we often don't use the collaboration cycle.
@@ -65,6 +67,7 @@
 - The typical cycle for a health enrollment project involves CAIA review instead of the full collaboration cycle.
 - See our [content collaboration process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/process-content-collab.md) for more info on what to do to set up for CAIA review, how to submit a ticket, and how to collaborate with content SMEs.
 
+</details>
 
 ## Stakeholder / SME accuracy checks
 ## Development review
