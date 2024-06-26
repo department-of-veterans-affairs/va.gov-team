@@ -19,6 +19,7 @@
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Discussion Topics**
   * Summer capacity
+  * Q3 Planning  
 
 
 ## 6/17/24
