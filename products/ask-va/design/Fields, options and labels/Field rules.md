@@ -5,31 +5,30 @@ Last updated by @tygindraux: June 26, 2024
 This document is for our design team to communicate field rules.
 
 **Jump to:**
-- [Pronouns](#pronouns)
-- [Preferred name](#preferred-name)
-- [Social security number or service number](#social-security-number-or-service-number)
-- [Date of birth](#date-of-birth)
-- [Branch of service](#branch-of-service)
-- [DoD/EDIPI number](#dodedipi-number)
-- [Location and postal code](#location-and-postal-code)
-- [School fields](#school-fields)
-- [Medical facility](#medical-facility)
-- [Contact options](#when-contact-options-are-enableddisabled)
+  - [Pronouns](#pronouns)
+  - [Preferred name](#preferred-name)
+  - [Social security number or service number](#social-security-number-or-service-number)
+  - [Date of birth](#date-of-birth)
+  - [Branch of service](#branch-of-service)
+  - [Location and postal code](#location-and-postal-code)
+  - [School fields](#school-fields)
+  - [Medical facility](#medical-facility)
+  - [Contact options](#when-contact-options-are-enableddisabled)
+  - [Gender](#gender)
+  - [DoD/EDIPI number](#dodedipi-number)
+  - [Reason you contacted us](#reason-you-contacted-us)
+
+In general, when we refer to the submitter, this can be a Veteran, a family member, or another third party.
 
 ## Pronouns
 |If|Then|Unless|
 |:--|:--|:--|
 |All categories|Optional field for `Pronouns` of the submitter||
 
-- Submitter can be the Veteran, a family member, or another third party.
-- Review this [documentation about our decision to collect submitter Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Pronouns.md).
-
 ## Preferred name
 |If|Then|Unless|
 |:--|:--|:--|
 |All categories|Optional field for submitter's `Preferred name`||
-
-- Submitter can be the Veteran, a family member, or another third party.
 
 ## Social security number or Service number
 |If|Then|Unless|
@@ -61,9 +60,6 @@ This document is for our design team to communicate field rules.
 
 - While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
-## DoD/EDIPI number
-- This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
-
 ## Location and postal code
 - Review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
 
@@ -85,3 +81,12 @@ This document is for our design team to communicate field rules.
 
 ## When contact options are enabled/disabled
 - Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
+
+## Gender
+- In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+
+## DoD/EDIPI number
+- We agreed with business lines that this field will be removed from Ask VA because agents can look this up in MPI using first and last name, and DOB or SSN, all of which will be required.
+
+## Reason you contacted us
+- In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
