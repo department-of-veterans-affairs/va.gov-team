@@ -2,8 +2,8 @@
 A list of tasks to keep track of and complete before we hand the form and dashboard off to the CRM team.
 
 ## Tasks
-- [ ] All CRM APIs are integrated with our BE.
-- [ ] AVA Profile and VA Profile used to gather user data.
+- [ ] All CRM APIs are integrated with our BE
+- [ ] AVA Profile and VA Profile used to gather user data
     - [ ] Form prefill
 - [ ] All form flows in place (ready for 120+ testing paths)
 - [ ] Form updated:
@@ -12,7 +12,7 @@ A list of tasks to keep track of and complete before we hand the form and dashbo
 - [ ] Dashboard updated:
     - [ ] Post research
     - [ ] Post usability testing
-- [ ] Fomr announcements
+- [ ] Form announcements
 - [ ] Feature flags in place
 - [ ] Form ready in staging
 - [ ] Dashboard ready in staging
