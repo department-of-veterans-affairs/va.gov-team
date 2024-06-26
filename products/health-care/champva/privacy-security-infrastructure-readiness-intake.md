@@ -50,7 +50,7 @@ The following product or feature descriptions may be answered with a reference l
     * Can the sensitive information be scrubbed?
       - **We can scrub the data in the table after the Veteran is notified of a completed application cycle**
 * Are there any new, modified, or existing Cookies being used?
-  - **The existing logged in user cookie is used, only identity verified users are allowed to access the form.**
+  - **The existing logged-in user cookie is used, only identity-verified users are allowed to access the form.**
     * If so, are there any new Cookies?
       - **No**
         * If so, why can’t the existing Cookies be used?
@@ -76,9 +76,9 @@ Please provide the following documentation as attachments.
       - **We are using SiS(Sign-inService) as our authenticator between us and PEGA. It was chosen because it already existed with max security in mind and required minimal setup.**
     * If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
       - **There are no new backend libraries.**
-* [ ] Incident Response Plan **TURN THIS INTO URL**, including Points of Contact for your system and dependent VA back-ends.
+* [ ] Incident Response Plan **BO OR MARY TURN THIS INTO URL**, including Points of Contact for your system and dependent VA back-ends.
     * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
-      - **INSERT HERE**
+      - **BO OR MARY INSERT HERE**
 * [x] [**Sequence Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/sequence_diagram.md)
     - This diagram must include any authentication steps if this is an authenticated experience.
 * [ ] Data Flow Diagram:
@@ -113,12 +113,12 @@ Please provide the following documentation as attachments.
       - **POST `/ivc_champva/v1/forms/submit_supporting_documents`**
       - **POST `/ivc_champva/v1/forms/status_updates`**
 * Product Specifics:
-    * [ ] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    * [ ] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+    * [ ] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) **BO OR MARY CHANGE URL** with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+    * [ ] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) **BO OR MARY CHANGE URL**
     - Ensure Product Outline contains **Incident Response** info, including:
         - Points of contact for your system and dependent VA back-ends
         - Links to dashboards that help identify and debug application issues
-    * [ ] Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Product_Playbook_Security.md)
+    * [ ] Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Product_Playbook_Security.md) **BO OR MARY CHANGE URL**
 
 ## Additional information
 
