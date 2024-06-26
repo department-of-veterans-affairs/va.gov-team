@@ -69,7 +69,40 @@
 
 </details>
 
-## Stakeholder / SME accuracy checks
+<details>
+
+<summary>Stakeholder/SME Accuracy Checks</summary>
+
+In our project lifecycles, a lot of questions come up that only our subject matter experts (SMEs) can answer for us. We have recurring meetings set up with our stakeholders for our 3 forms and we have alternative ways to get in touch with them outside of those meetings.
+
+### Recurring SME/Stakeholder Meetings
+
+- We have biweekly calls with HEC (health enrollment center) stakeholders who help with the 10-10EZ and EZR forms.
+  - We use these calls to ask questions we needs answers to to unblock our work, especially if our questions are easier to discuss in a meeting than in an email and/or the questions are likely easy to answer on the spot.
+  - We prepare an agenda prior to this meeting via Slack.
+  - It's perfectly fine to share your screen and have open conversation about in-flight designs in these meetings if time allows.
+  - We often utilize these meetings to conduct planned workshops with our stakeholders (usually using Mural). **Note:** Don't expect stakeholders to be able to write directly in Mural as they often aren't able to get access. Arrange for someone to take notes in Mural.
+- We typically have a biweekly call with our CG (caregiver) stakeholders where we cover questions on in-flight work and upcoming initiatives.
+  - We use these the same way as the HEC calls, but the frequency of the calls tends to correlate to whether we're actively working on the 10-10CG form or not. We typically increase these calls to weekly when we're working on the form, and sometimes may skip it for months if there's no active work on the form.
+ 
+### Communicating via Email with SMEs
+
+- When you need an answer to something quick to unblock work, email communication may be the best way to go.
+- This is also the best option if you need SMEs to provide extensive feedback or look further into things which may not be possible to answer on the spot in a call.
+- Use your best judgement when making asks via email. Remember that our SMEs aren't looking at the online forms every day like we are. They need context in order to digest our questions which may be screenshots or additional explanation. 
+
+### SME Communication Best Practices
+
+- Our SMEs are normal people just like us who all want the best outcomes for Veterans. However, we always try to approach conversations with them in meetings and via email as professionally and buttoned up as possible.
+- Put yourself in the stakeholders' shoes and think about what context they will need in order to understand your questions and/or digest your designs.
+- **Preparation is key.** Before stakeholder meetings, have any artifacts you need to share pulled up and any questions you plan to ask written down somewhere with space for you to take notes on responses.
+  - Make sure you've done your due diligence of looking for answers and information that we already have on hand before asking questions of our stakeholders. 
+  - If conducting a stakeholder workshop, workshop materials should be polished and reviewed by the team, our OCTO design lead, and our VA product owner.
+  - Lean on your fellow designers, your PM, and our OCTO design lead to provide input on the workshop structure in your planning phase.
+  - You may want to do a practice session of a workshop with the team before the meeting.
+
+</details>
+
 ## Development review
 ## QA with content/design/research
 
