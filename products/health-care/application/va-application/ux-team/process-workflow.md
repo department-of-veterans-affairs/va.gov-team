@@ -72,7 +72,7 @@
 <details>
 
 <summary>Stakeholder/SME Accuracy Checks</summary>
-
+<br>
 In our project lifecycles, a lot of questions come up that only our subject matter experts (SMEs) can answer for us. We have recurring meetings set up with our stakeholders for our 3 forms and we have alternative ways to get in touch with them outside of those meetings.
 
 ### Recurring SME/Stakeholder Meetings
