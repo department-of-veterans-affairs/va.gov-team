@@ -1,11 +1,10 @@
 # Field rules
 
-Last updated by @tygindraux: May 31, 2024
+Last updated by @tygindraux: June 26, 2024
 
-This document is for our design team to communicate field rules. The primary audience is engineering and product folks on our team.
+This document is for our design team to communicate field rules.
 
 **Jump to:**
-- [Gender](#gender)
 - [Pronouns](#pronouns)
 - [Preferred name](#preferred-name)
 - [Social security number or service number](#social-security-number-or-service-number)
@@ -16,14 +15,6 @@ This document is for our design team to communicate field rules. The primary aud
 - [School fields](#school-fields)
 - [Medical facility](#medical-facility)
 - [Contact options](#when-contact-options-are-enableddisabled)
-- [Reason you're contacting us](#reason-youre-contacting-us)
-
-## `Gender`
-|If|Then|Unless|
-|:--|:--|:--|
-|All categories|Require Veteran's `Gender identity`||
-
-- We're exploring whether to remove this field.
 
 ## `Pronouns`
 |If|Then|Unless|
@@ -94,6 +85,3 @@ This document is for our design team to communicate field rules. The primary aud
 
 ## When contact options are enabled/disabled
 - Review [Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Contact%20options%20by%20business%20line.md) for details.
-
-## Reason you're contacting us
-- This field is required. We're currently exploring whether we can remove this.
