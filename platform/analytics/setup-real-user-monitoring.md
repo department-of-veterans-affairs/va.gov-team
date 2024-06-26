@@ -89,9 +89,15 @@ VA.gov contains a lot of PII/PHI, so we need to hide it during session replays. 
 - Class name to hide or mask content
   > class="dd-privacy-allow" | "dd-privacy-mask-user-input" | "dd-privacy-mask" | "dd-privacy-hidden"
 
+⚠️
+
+It is *strongly* recommended to use the `defaultPrivacyLevel: mask` setting, and opt individual elements into being displayed with `data-dd-privacy="allow"`. This is more reliable than attempting to ensure that all elements that should be masked are. (And relying on it happening when new data elements are added)
+
+⚠️
+
 ### Default privacy level
 
-In our apps, we've been setting this option to `'mask-user-input'`. It doesn't hide all content on the page, like the `'mask'` setting does, it masks the content within form elements; three asterisks are display no matter how much content is inside a text input.
+In our apps, we've been setting this option to `'mask-user-input'`. It doesn't hide all content on the page, like the `'mask'` setting does, it masks the content within form elements; three asterisks are displayed, no matter how much content is inside a text input.
 
 ### Masking or hiding content
 
