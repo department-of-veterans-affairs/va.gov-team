@@ -16,7 +16,7 @@ This document is for our design team to communicate field rules.
 - [Medical facility](#medical-facility)
 - [Contact options](#when-contact-options-are-enableddisabled)
 
-## `Pronouns`
+## Pronouns
 |If|Then|Unless|
 |:--|:--|:--|
 |All categories|Optional field for `Pronouns` of the submitter||
@@ -24,14 +24,14 @@ This document is for our design team to communicate field rules.
 - Submitter can be the Veteran, a family member, or another third party.
 - Review this [documentation about our decision to collect submitter Pronouns](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Pronouns.md).
 
-## `Preferred name`
+## Preferred name
 |If|Then|Unless|
 |:--|:--|:--|
 |All categories|Optional field for submitter's `Preferred name`||
 
 - Submitter can be the Veteran, a family member, or another third party.
 
-## `Social security number` or `Service number`
+## Social security number or Service number
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Education benefits and work study` and topic ≠ `VR&E`|Require Veteran's `Social Security Number or Service Number`|Relationship to the Veteran = Business relationship|
@@ -44,7 +44,7 @@ This document is for our design team to communicate field rules.
 - We need to collect SSN (or Service Number) because some business lines need SSN to look up a person's record in other systems that use SSN as an identifier.
 - Agents can also use SSN to look up a person's record in MPI, however, they could use DOB for this instead of SSN.
 
-## `Date of birth`
+## Date of birth
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Education benefits and work study` and topic ≠ `VR&E`|Require Veteran's `Date of Birth`|Relationship to the Veteran = Business relationship|
@@ -54,18 +54,18 @@ This document is for our design team to communicate field rules.
 |All other categories|Require Veteran's `Date of Birth`|Who is your question about? = `It's a general question`|
 |All other categories; if question is about the family member|Require family member's `Date of Birth`|Who is your question about? = `It's a general question`|
 
-## `Branch of service`
+## Branch of service
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Veteran ID Card (VIC)` `Disability compensation` `Survivor benefits` `Burials and memorials` `Center for Women Veterans` `Benefits issues outside the U.S.`|Require Veteran's `Branch of Service`|`What's your question about` = `It's a general question`|
 
 - While this data is in MPI, agents are not able to look this up using their MPI search tool in the CRM.
 
-## `DoD/EDIPI number`
+## DoD/EDIPI number
 - This field will be removed from the form because agents can look this up in MPI using first and last name, and DOB or SSN – all of which will be required.
 
 ## Location and postal code
-- Review this [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
+- Review [Location of residence and postal code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md) documentation for details.
 
 ## School fields
 |If|Then|Unless|
@@ -74,7 +74,7 @@ This document is for our design team to communicate field rules.
 |Category = `Education benefits and work study` and relationship to the Veteran = Business (eg. SCO)|Require `State of school` or `School facility`||
 |All other categories|Don't include school fields||
 
-## `Medical facility`
+## Medical facility
 |If|Then|Unless|
 |:--|:--|:--|
 |Category = `Health care` and topic = `Prosthetics` `Audiology and hearing aids` `Getting care at a local VA medical center`|Require `Medical facility`||
