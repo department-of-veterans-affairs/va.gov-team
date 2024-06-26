@@ -18,7 +18,7 @@
      - The digital 0781 is an ancillary form embedded within the 526EZ form. The form requires the Veteran to be signed in and authenticated. We are not currently working on a stand-alone digital version of the form. 
 
 
-[Link to product brief]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md)).
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Update%20PTSD%200781%20to%20be%20aligned%20with%20new%20form%20version.md)
 
 ### OCTO Priorities 
 
@@ -108,7 +108,7 @@ Moderated interviews will be conducted remotely over Zoom. The discussion guide 
 - Prototype link TBD (Figma designs in progress)
 
 	
-## Recruitment	
+## Recruitment approach
 
 Our intended audience for this research is Veterans who have previously filed for related conditions (ie. PTSD, and other mental health conditions). This audience will be able to provide us with an informal comparison of the old and new flows and validate challenges based on their first-hand experience.   
 
@@ -116,16 +116,6 @@ Because of the sensitive nature of this study, we are taking a trauma-informed a
 
 We will be using Perigian to help us recruit participants for this study. 
 
-
-### Recruitment approach
-Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them? 
-
-Pro tip:
-- For remote moderated studies with Veterans and caregivers, we recommend using Perigean to recruit participants. 
-- Perigean cannot recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, unmoderated studies, however, these studies require strict recruitment requirements. (Additional guidance forthcoming; reach out to #research-ops in the interim.)
-
-Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Refer to the resources above to learn more. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
 Primary criteria (must-haves): Our target audience for this research is Veterans who: 
@@ -149,7 +139,7 @@ Screener Questions
     - Other mental health conditions related to a traumatic event, such as depression or anxiety.
     - None of the above
 
-[Must check at least one of the first three. Recruit at least 2 of each]
+      [Must check at least one of the first three. Recruit at least 2 of each]
 
 3. What type of event(s) contributed to your condition? 
     - Combat
@@ -157,19 +147,18 @@ Screener Questions
     - Military sexual trauma (MST)
     - Other, such as a natural disaster
     - None of the above or not sure
-[Must check at least one of the first four. Recruit a mix; ensure at least one of each]
+
+      [Must check at least one of the first four. Recruit a mix; ensure at least one of each]
 
 4. How recently did you file your claim?
     - Within the last year
     - Over a year ago
-[Within the last year is ideal; secondary criteria so if it’s difficult to reach our goal, can recruit a mix]
+
+      [Within the last year is ideal; secondary criteria so if it’s difficult to reach our goal, can recruit a mix]
 
 We’re asking Veterans to share their experience with us so that we can improve the process of filing claims related to traumatic events. However, we know it can be difficult to talk about these topics. We’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. Are you comfortable sharing your experience with us? 
 - [Yes/no: Must be yes]
 
-
-## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
 
 ### Prepare
 - Pilot participant email: Rachael Dietkus (TBC)
@@ -183,11 +172,9 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 - Buffer time between sessions: 1 hour
 - Maximum Sessions per day: 2 per day 
 
-
 ### Availability
 Monday - Friday 9am-12p ET and 1pm to 6pm ET
 
-	
 ## Team Roles	
 - Moderator: Nichole Nicholas & Julie Pedtke
 - Research guide writing and task development (usually but not always same as moderator): Nichole Nicholas & Julie Pedtke
