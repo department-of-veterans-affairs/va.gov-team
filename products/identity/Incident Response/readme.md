@@ -9,7 +9,7 @@ Think of it as the thrilling conclusion of the trilogy that started with the SLO
 
 
 ## Problem Statement: 
-We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov teams, we need to implement and communicate a formalized Incident Response process which includes the following:
+We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents that are related to our Service Level Agreements. In order to better serve Veterans and other VA.gov teams, we need to implement and communicate a formalized Incident Response process which includes the following:
 * Incident Management process
 * Outage Communication strategies for Veterans and other VA.gov teams.
 * System recovery plan.
