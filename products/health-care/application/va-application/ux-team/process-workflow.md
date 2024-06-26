@@ -81,10 +81,22 @@ In our project lifecycles, a lot of questions come up that only our subject matt
   - We use these calls to ask questions we needs answers to to unblock our work, especially if our questions are easier to discuss in a meeting than in an email and/or the questions are likely easy to answer on the spot.
   - We prepare an agenda prior to this meeting via Slack.
   - It's perfectly fine to share your screen and have open conversation about in-flight designs in these meetings if time allows.
-  - We often utilize these meetings to conduct planned workshops with our stakeholders (usually using Mural). **Note:** Don't expect stakeholders to be able to write directly in Mural as they often aren't able to get access. Arrange for someone to take notes in Mural.
+  - We often utilize these meetings to conduct planned workshops with our stakeholders (see next section for more info). **Note:** Don't expect stakeholders to be able to write directly in Mural as they often aren't able to get access. Arrange for someone to take notes in Mural.
 - We typically have a biweekly call with our CG (caregiver) stakeholders where we cover questions on in-flight work and upcoming initiatives.
   - We use these the same way as the HEC calls, but the frequency of the calls tends to correlate to whether we're actively working on the 10-10CG form or not. We typically increase these calls to weekly when we're working on the form, and sometimes may skip it for months if there's no active work on the form.
  
+### SME Workshops
+
+We often utilize our biweekly HEC stakeholder call and/or our recurring CG stakeholder call to conduct planned workshops with SMEs. These can also be scheduled asynchronously outside of our recurring meetings if necessary. Here are some tips for planning and facilitating SME workshops:
+
+- Plan for workshop sessions to take less than an hour. You can hold a multi-part workshop if you need more time than that.
+- We often use [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1670613238628) for workshops but it's up to you what materials are needed to facilitate the conversation and get the information you're seeking.
+- Workshop materials should be polished and reviewed by the team, our OCTO design lead, and our VA product owner.
+  - Lean on your fellow designers, your PM, and our OCTO design lead to provide input on the workshop structure in your planning phase.
+  - You may want to do a practice session of a workshop with the team before the meeting.
+- Don't expect stakeholders to be able to write directly in Mural as they often aren't able to get access. Arrange for someone to take notes in Mural.
+- Tell the stakeholders in the meeting what you'll do to follow up and make sure you follow through on that promise.
+
 ### Communicating via Email with SMEs
 
 - When you need an answer to something quick to unblock work, email communication may be the best way to go.
@@ -97,9 +109,6 @@ In our project lifecycles, a lot of questions come up that only our subject matt
 - Put yourself in the stakeholders' shoes and think about what context they will need in order to understand your questions and/or digest your designs.
 - **Preparation is key.** Before stakeholder meetings, have any artifacts you need to share pulled up and any questions you plan to ask written down somewhere with space for you to take notes on responses.
   - Make sure you've done your due diligence of looking for answers and information that we already have on hand before asking questions of our stakeholders. 
-  - If conducting a stakeholder workshop, workshop materials should be polished and reviewed by the team, our OCTO design lead, and our VA product owner.
-  - Lean on your fellow designers, your PM, and our OCTO design lead to provide input on the workshop structure in your planning phase.
-  - You may want to do a practice session of a workshop with the team before the meeting.
 
 </details>
 
