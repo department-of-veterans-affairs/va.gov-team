@@ -1,3 +1,3 @@
-This is an EXAMPLE, update this for IVC
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/8458e5d0-ab7b-4883-b03f-a3d1a588ffbb)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/Ad%20Hoc%20Architecture%20Diagram.jpeg)
