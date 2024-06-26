@@ -13,38 +13,23 @@ Jump to:
 
 ### Warm up
 
-00:00:00.000 --> 00:00:01.000
-So knowing all of that, are you comfortable if I record my screen and audio? Awesome. Okay, I'm gonna start the recording and then.
+Tyler: I'm gonna start the recording and then I'm just gonna confirm one more time. Just to confirm, are you comfortable if I record my screen and audio today?
 
-00:00:01.000 --> 00:00:07.000
-I'm just gonna confirm one more time. Just to confirm, are you comfortable if I record my screen and audio today?
+> P10: I am.
 
-00:00:07.000 --> 00:00:09.000
-I am.
+Tyler: Awesome. Do you have any questions for me?
 
-00:00:09.000 --> 00:00:12.000
-Awesome. Do you have any questions for me?
+> P10: No.
 
-00:00:12.000 --> 00:00:14.000
-No.
+Tyler: Are those birds on your side?
 
-00:00:14.000 --> 00:00:16.000
-Are those birds on your side?
+> P10: Yes, do you need me to shoo them away? Can you hear them?
 
-00:00:16.000 --> 00:00:19.000
-Yes, do you need me to sue them away?
+Tyler: No, no, I was just curious. Yeah, are they outside of your house or you have birds inside?
 
-00:00:19.000 --> 00:00:20.000
-Can you hear them?
+> P10: No, I have a parakeet sitting about 2 feet away from me.
 
-00:00:20.000 --> 00:00:23.000
-No, no, I was just curious. Yeah, are they outside of your house or you have birds inside?
-
-00:00:23.000 --> 00:00:25.000
-No, I have a parakeet sitting about 2 feet away from me.
-
-00:00:25.000 --> 00:00:33.000
-Oh. Wow. Oh cool!
+> P10: Oh. Wow. Oh cool!
 
 00:00:33.000 --> 00:00:34.000
 Wow, so pretty.
