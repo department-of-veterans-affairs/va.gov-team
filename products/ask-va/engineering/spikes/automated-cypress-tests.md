@@ -112,7 +112,7 @@ beforeEach(() => {
 
 ### Review Instances (CI/CD Pipeline)
 
-When our code is run n the review instance, only one repo is. being tested at a time. These tests live in the `vets-website` repo. So, our CI/CD testing needs to mock the `vets-api` responses with a mocking server, or by specifying. the `?mockData=true` flag on our API endpoint URIs.
+When our code is run in the review instance, only one repo is being tested at a time. These tests live in the `vets-website` repo. So, our CI/CD testing needs to mock the `vets-api` responses with a mocking server, or by specifying. the `?mockData=true` flag on our API endpoint URIs.
 
 ## Future Development
 
