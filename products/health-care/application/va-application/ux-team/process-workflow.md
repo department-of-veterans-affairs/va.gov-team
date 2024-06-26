@@ -1,4 +1,4 @@
-# Design Decisions and Workflow
+# Process Workflow and Design Decisions
 
 <details>
   
