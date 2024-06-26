@@ -3,9 +3,31 @@
 
 <h2>The problem we are trying to solve </h2>
 
+There are batch input files that the team provides to the VBMS ProdTest support:
+ - Contention file
+ - S3 Signed links
+ - 526 PDFs and Veteran evidence upload PDFs
+ - Metadata file
 
+These files must match exactly in order for them to processed correctly. 
 
-<h3>Primary </h3>
+Upon receiving the files the following issues were found:
+ - 20 submission IDs showed with errors
+ - The contention file contained 41 claims that were rejected (most were due to bad file number)
+ - The PDF file contained 290 submission IDs that were rejected (most were due to bad file number)
+
+Before generating new batch input files
+1. For the Contention file - remove submission ids that failed (use the "CPIEP330" file it contains the claims that failed and the reasons)
+2. PDF files - remove submission ids that failed (use the "rdtst-526-upload-results-20240605" file that contains the reason for the rejections)
+3. Add corrected submission ids (~30) into the files for the next batch process (use "FINAL BATCH ERROR CHECK 20240614.xls" for the list of corrected submission ids)
+4. Add the two corrected submission ids that were previously fixed into the files for the next batch process (906899 and 906997)
+
+Finally
+Create new batch input files and a report of which submissions ids could not be corrected that will need manual processing. 
+Store the files in the Sharepoint folder so they can be easily accessed. 
+
+  
+<h3>Primary Goal </h3>
 
 
 The primary goal of the next week of CY1 work is to unblock the final automated batch establishment process for failed 526s. [Here is a diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718047888385/0d6db2a672acb78197dc4718286bde5a874ff2d0?sender=u9189a8b68ad6598602620927) of the batch process, which involves [VA.gov](http://va.gov/) generating “batch input files” for both an claim (EP) creation process (completed by Earl from VETSNET) and document upload/PDF upload process. One EP is created in this process per Veteran, and all associated documents and submission IDs are included under that EP
