@@ -103,7 +103,7 @@
         - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
         - Release (Let Lori know when)
     - **Sub Goal: Move to New AWS Instance**
-      - 🟨 [[DevOps] Recreate LoROTA DynamoDB with TTL rule matching current.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84123)
+      - ✔️ 🟨 [[DevOps] Recreate LoROTA DynamoDB with TTL rule matching current.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84123)
       - 🟨 [[DevOps] Remove LoROTA Cleanup Lambda and schedule.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86812)
       - 🟨 [[DevOps] Propose transferring octo-vista-api into Check-In Experience's control.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86814)
       - 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
