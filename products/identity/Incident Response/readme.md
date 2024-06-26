@@ -58,10 +58,11 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * Planned Outage Communications
 
 ## High-Level Use Cases:
-* As a VA.gov team member, I would like the Identity team to create a process for incident response, so that I may know what to expect when there are service outages.
-* As a Va.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot currently login.
-* As a VA.gov team member, I would like the Identity Team to notify me if there is a sign-in issue, so that I make take the proper actions at my end.
-* As a VA.gov team member, I would like the Identity Team to create a System Recovery Plan so that I know what their plans for recovery are.
+* As a VA.gov team member, I would like the Identity team to create a process for incident response & management, so that I may know what to expect when there are service outages.
+* As a VA.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot currently login.
+* As a VA.gov team member, I would like the Identity Team to notify me if there is a sign-in issue, so that I make take the proper actions at my end to help facilitate a solution.
+* As a VA.gov team member, I would like the Identity Team to create a System Recovery Plan so that I understand their steps for system recovery.
+* As a VA.gov team member, I would like the Identity Team to create a process for reporting on Incidents to other internal teams, so I might understand root causes of incidents, resolutions of incidents and how to prevent future incidents.
 
 
 ## Assumptions:
