@@ -10,7 +10,7 @@
 - Lead engineer(s): **Bryan Alexander(Ad Hoc) and Don Shin(Agile6)**
 - Product manager(s): **Bo Altes(Agile6) and Mary Wang(Ad Hoc)**
 - OCTO-DE product lead: **Premal Shah**
-- Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns: **Bryan Alexander(Ad Hoc) and Don Shin(Agile6)**
+- Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns: **Michael Clement(Ad Hoc) and Rachel Eiting(CoPilot)**
 
 ## Questions to be Answered
 
