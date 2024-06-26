@@ -78,7 +78,7 @@ In addition to running the test suites in a live browser that you can interact w
 
 ### Local (Against Local)
 
-This sill eventually be an environment variable, but to change the platform against which the tests are run, edit the test file to change the value in the following line with your system of choice.
+This will eventually be an environment variable, but to change the platform against which the tests are run, edit the test file to change the value in the following line with your system of choice.
 
 ```javascript
 beforeEach(() => {
