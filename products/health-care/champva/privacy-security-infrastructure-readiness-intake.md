@@ -79,7 +79,7 @@ Please provide the following documentation as attachments.
 * [ ] Incident Response Plan **TURN THIS INTO URL**, including Points of Contact for your system and dependent VA back-ends.
     * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
       - **INSERT HERE**
-* [ ] [**Sequence Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/sequence_diagram.md)
+* [x] [**Sequence Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/sequence_diagram.md)
     - This diagram must include any authentication steps if this is an authenticated experience.
 * [ ] Data Flow Diagram:
     This diagram must illustrate the following specifics.
