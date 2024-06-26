@@ -69,7 +69,7 @@ The following product or feature descriptions may be answered with a reference l
 ## Artifacts
 
 Please provide the following documentation as attachments.
-* [ ] [**Architecture Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/architecture_diagram.md)
+* [x] [**Architecture Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/architecture_diagram.md)
     - **The PEGA system is outside the scope of the review**
     - This diagram must also illustrate the following specifics.
     * Which implementation of security approaches were considered along with the approach that was chosen and why?
