@@ -50,7 +50,7 @@ Now, you have a finalized list of submission IDs that need to have input files g
 1. **Generate batch input files** (contention file + s3 signed links + metadata): Put the date in the title of the files, such as “526CY -batchinput-contentions-6.24.24 Reminder to not open these files in excel to manipulate them, or to ensure if you do, that leading 0s are not lost from File Numbers.
 2. **Replace the original identity data** from the newly-generated batch input files with the corrected identities from CorpDB in the “FINAL BATCH ERROR CHECK 20240614.xlsx” file
 
-    NOTE (again) This is the step we haven’t done before and I think is the most likely to cause confusion or churn. IF there are problems with this process,  speak to David Reis. One option would be to keep all of these submission IDs in the manual process, since CorpDB was only able to correct 30.
+**NOTE** (again) This is the step we haven’t done before and I think is the most likely to cause confusion or churn. IF there are problems with this process,  speak to David Reis. One option would be to keep all of these submission IDs in the manual process, since CorpDB was only able to correct 30.
 
 3. **Store the files **- When finalized, a sharepoint folder or encrypted email with the input files should be shared with Earl White, Dan Smith, Reshma Kotti, David Reis, Alex Mikuliak
 
