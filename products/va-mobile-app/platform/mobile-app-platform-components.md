@@ -13,6 +13,7 @@ These are things that _must_ be owned by the core mobile team.  Note that these 
 - management of the mobile API module in the [vets-api](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/mobile) repo
 - build and CI pipelines
 - internal build distribution (e.g. TestFlight)
+- demo mode app infrastructure
 - app and mobile API quality assurance
 - bug and crash triage
 - app release management
@@ -43,6 +44,8 @@ These are things that _could_ be owned by other teams in the future but will pro
 - UI test automation
 - final code review
 - overall mobile analytics
+- app store reviews management
+- FeedbackHub (app store review and Reddit scraper)
 - login flow
 - home screen
 - profile view
@@ -71,3 +74,4 @@ These are things that can be owned by experience teams, but will default to the 
 - feature area bug fixes
 - feature content
 - backend integration with upstream services
+- demo mode for experience
