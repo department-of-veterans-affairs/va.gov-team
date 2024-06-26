@@ -66,30 +66,36 @@ From Ryan in Figma:
 ## <a name="nav"></a>Entry points <br>
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
-
+### Primary entry point - this is the main entry point where folks can access the tool
 1. **[Verify your school enrollment](https://www.va.gov/education/verify-school-enrollment/)** - Add
   - Placement description: In section titled "For Montgomery GI Bill benefits "
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Connect with Sitewide Content to update language referencing WAVE. Since there will be green sign-in modals, ensure that it is clear which benefit is the one for a Veteran.
 
-2. **[Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)** - Modify
+### Secondary entry point
+1. **[About VA Form 22-8979](https://staging.va.gov/find-forms/about-form-va-form-22-8979/)** - Add
+  - Placement description: Below "Downloadable PDF"
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/education/verify-school-enrollment/
+  - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. Team confirmed that this form applies to Post-9/11 as well.
+
+### Crosslinks
+*List of additional crosslinking opportunities across VA.gov. This requires stakeholder approval and collaboration with Sitewide Content so this list will be iterative as we get feedback.*
+
+1. **[Montgomery GI Bill Active Duty (MGIB-AD)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)** - Modify
   - Placement description: Under section titled "How do I get these benefits?" step 3
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Replace link destination to the new VYE tool.
 
-3. **[Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)** - Modify
+2. **[Montgomery GI Bill Selected Reserve (MGIB-SR)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)** - Modify
   - Placement description: Under section titled "Ask your school or training program to certify your enrollment" step 4
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/education/verify-school-enrollment/mgib-enrollments/
   - Notes: Replace link destination to the new VYE tool.
 
-4. **[About VA Form 22-8979](https://staging.va.gov/find-forms/about-form-va-form-22-8979/)** - Add
-  - Placement description: Below "Downloadable PDF"
-  - Link label: TBD by Sitewide Content
-  - Link destination: www.va.gov/education/verify-school-enrollment/
-  - Notes: As mentioned in Figma, we are proposing that there is an entry point to the static page instead of just to MGIB in case it applies to Post-9/11 VYE, then folks are directed to the static page where they can choose which VYE tool applies to them. Team confirmed that this form applies to Post-9/11 as well.
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
