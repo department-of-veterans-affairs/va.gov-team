@@ -21,15 +21,18 @@ Please note, this is for the calendar year 2024.
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/99204969/ab6f5714-9876-46ba-a2e5-ccc95896c5dd)
 
-Notify
+**Notify**
 | Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | Medium               | Medium                | High                | High                    |
-| Q2      |                      |                       |                     |                         |
+| Q2      | High                 | High                  | Elite               | Elite                   |
 | Q3      |                      |                       |                     |                         |
 | Q4      |                      |                       |                     |                         |
 
-Strike
+Notes:
+- Toward the end of Q2, Notify moved to on demand deployments due to our Continuous Delivery pipeline automation. Because we were not able to be on demand the entire quarter, we've rated ourselves as high instead of elite for Deployment Frequency. We had no deployment failures, though if we did we are confident we could quickly rollback and restore - hence our elite rating.
+
+**Strike**
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | High                 | High                  | Elite               | Elite                   |
