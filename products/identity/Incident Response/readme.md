@@ -10,8 +10,8 @@ Think of it as the thrilling conclusion of the trilogy that started with the SLO
 
 ## Problem Statement: 
 We currently do not have an end-to-end methodology for defining, tracking, communicating and resolving incidents. In order to better serve Veterans and other VA.gov teams, we need to implement and communicate a formalized Incident Response process which includes the following:
-* Incident Management System
-* Outage Communication strategy for Veterans and other VA.gov teams.
+* Incident Management process
+* Outage Communication strategies for Veterans and other VA.gov teams.
 * System recovery plan.
 * Internal reporting on incidents.
 
@@ -34,7 +34,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 
 ## What's In Scope: 
 ### These deliverables:
-* [Incident Management System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Management%20System.md)
+* [Incident Management Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Incident%20Management%20System.md)
 * [Outage Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Incident%20Response/Outage%20Communication.md)
   * Internal
   * External (when applicable)
@@ -61,7 +61,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 * As a VA.gov team member, I would like the Identity team to create a process for incident response, so that I may know what to expect when there are service outages.
 * As a Va.gov user, I would like to see notifications which tell me there is a current issue with logging into VA.gov, so I understand why I cannot currently login.
 * As a VA.gov team member, I would like the Identity Team to notify me if there is a sign-in issue, so that I make take the proper actions at my end.
-* As a VA.gov team member, I would like the Identity Team to create a System Recovery Process so that I know what their plans for recovery are.
+* As a VA.gov team member, I would like the Identity Team to create a System Recovery Plan so that I know what their plans for recovery are.
 
 
 ## Assumptions:
@@ -79,7 +79,7 @@ We currently do not have an end-to-end methodology for defining, tracking, commu
 ## Solution Approach: 
 In order to track each Deliverable by each Area of Responsibility, we've created this table:
 
-| Deliverable →   Area  ↓   | Incident Management System      | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
+| Deliverable →   Area  ↓   | Incident Management Process     | Outage Comms (Internal) | Outage Comms (External) | System Recovery | Internal Reporting | 
 | :------------- |:------------- | :----- | :----- |  :----- |  :----- |
 | **USiP** | | | | | |
 | **SSOe** | | | | | |
