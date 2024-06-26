@@ -1,4 +1,19 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
+
+### Sprint 35
+07/03 - 07/16
+* **Toxic Exposure**
+  * Implement In Progress Form feature flag and UI alerts for In Progress forms, fix validation errors and perform end to end testing for release 1.0
+* **Paper Form Sync**
+  * Design Kickoff: Sect. IV Col. 4 "Date disabilities began or worsened" to digital*
+  * Implement Claim Certification behind FF*
+* **Submission Experience**
+  * Run user research study for "Vet has clear expectations of claim status"
+  * Design Discovery: “Veterans need a record of their claim and a way to track it”
+
+
+
+
 ## Sprint 34
 Period - 06/19/2024 - 07/02/2024
 ### Sprint goals
