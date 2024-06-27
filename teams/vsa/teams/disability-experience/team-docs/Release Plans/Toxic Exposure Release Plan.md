@@ -81,7 +81,7 @@ See Appendix below for full milestone breakdown.
 |4 |Migrate /getPDF functionality to LH| TBD*   | In Progress  |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow.|
 |5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release|
 |6 |New TE Applications - release 1.0|July 27 2024*| Not Started| Dependent on submit migration completion| 
-|7 |Veterans with an IPF - release 1.1|Targeting 14+ days after new applications|Not Started| |
+|7 |Veterans with an IPF - release 1.1|Targeting 14+ days after new applications. ~ mid August|Not Started| |
 
 *Dates may vary
 # Release Process
@@ -241,10 +241,9 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] Handling of 2 forms - new feature flag for IPF claims
  - [ ] UI/UX updates for IPF claims
  
- 
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
-**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 35 (7/3-7/16/24)*      
+**Estimated Duration**: Sprint 33 (6/5 - 6/18/24) - Sprint 36 (7/17 - 7/30/24)*      
 **Actual Delivery Date**:            
 **Environment**: Production          
 **Building Blocks:**      
@@ -254,11 +253,9 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
      - [X] Submit dashboard           
 - [ ] Revisit submit transformation & make any needed changes
 - [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
-- [ ] Schedule staging review
-
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
-**Estimated Duration**: Sprint 36 (7/17 - 7/30/24)*    
+**Estimated Duration**: Sprint 37 (7/31/24 - 8/13/24)*    
 **Actual Delivery Date**:          
 **Environment**: Release 1.0 - Production  
 **Building Blocks:**    
@@ -270,10 +267,11 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] Contact center review.
  - [ ] Rollback plan in place.
  - [ ] Submit & generatePDF release will update Veterans to using the 2022 PDF with Toxic Exposure questions.
+ - [ ] Schedule staging review
  - [ ] Post-launch toggle cleanup
-
+  
 #### Milestone: A Veteran filing with a 2019 In Progress Form claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
-**Estimated Duration**: Sprint 37 (7/31 - 8/13/24)*    
+**Estimated Duration**: Sprint 38 (8/14/24 - 8/27/24)*    
 **Actual Delivery Date**:          
 **Environment**: Release 1.1 - Production    
 **Building Blocks:**    
