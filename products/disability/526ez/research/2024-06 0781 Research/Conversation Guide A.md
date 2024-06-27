@@ -1,6 +1,6 @@
 # Conversation Guide- Version A: 0781 in Step 2 
 
-[Notetaking template w/ screenshots](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717589684902/e468c0febd9a85d119f62719a957343aff7cc247?sender=udbd39c1bbebb4ec4d7d08829)
+[Notetaking template w/ screenshots](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719255501253/3ad7bf603b80ec22ffd1a4ae91183b9f6bd8c0df?wid=0-1719347916476)
 
 [Prototype link TBD (Figma designs in progress)](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4310-29351&t=5IOXAyGkXhdBY3x9-1)
 
@@ -63,7 +63,7 @@ To give you a heads up… part of the form asks about your condition, the trauma
   - As we go through, you can use your own personal experience to tell us how you would fill out the form. 
   - Or, if you’re not comfortable sharing your personal experience, you can silently imagine how you might answer questions, and speak generally about how someone might respond.
 
-**(Staging) Conditions**
+### **(Staging) Conditions**
 
 I’ll now start sharing my screen so that you can view the prototype we’d like your feedback on. For this task, we are going to pretend that you have already logged into VA.gov, completed some basic questions including your contact information and military service, and are now on Step 2 of the 526 form. As we are looking at this prototype I want you to think out loud about how you would complete this section and what you think this section is about.
 
@@ -90,7 +90,7 @@ Now I need to adjust my screen share, bear with me for a moment…
 [Stop sharing, pull up the prototype for next pages]
 
 
-## (Prototype) 0781 Intro
+### (Prototype) 0781 Intro
 **[Screen 1 - Provide a statement]**
 
 These next few pages we’re going to take our time, let you read the content, and ask a few questions.
@@ -105,7 +105,7 @@ These next few pages we’re going to take our time, let you read the content, a
 - From your perspective, how useful is the content presented on this page?
 - How prepared do you feel for what’s coming next?
 
-## Event Details
+### Event Details
 
 **[Screen 1 - no pause]**
 
@@ -146,14 +146,14 @@ _Things to watch for:_
 **We realize that you just answered some hard questions, so it might be a good time to take a break! I’m going to suggest we take a couple minutes to stretch or grab a glass of water. How does that sound?**
 
 
-## Behavior
+### Behavior
 
 So these next few pages we’re going to move through pretty quickly. As a reminder, we’ll show the page, and briefly describe what is on the page. If you have questions, we can pause and discuss, but otherwise, we’ll move on to the next page, and spend more time in the areas where we have particular questions for you.
 
 [Moderator can check things quickly and enter an example description]
 
 
-## Treatment
+### Treatment
 
 _[Slow down, ask what they would enter on each page, but no additional questions]_
 For the next few pages, I’ll give you time to read through the page, and I’ll ask you to think aloud and share how you would respond to the questions, and what information you would enter.
@@ -163,12 +163,14 @@ For the next few pages, I’ll give you time to read through the page, and I’l
 _Things to watch for:_
 - Do they understand this is just for mental health conditions? Do they enter any info regarding other non-mental health conditions?
 
-## Supporting Documents
+### Supporting Documents
 
 **[Screen 1 Intro]**
+
 **[Screen 2 Checkboxes]**
 - Which options would you check?
 - Thanks for that feedback. In the interest of time, I’m going to walk us through one example where we just check one option.
+
 **[Screen 3 Upload in list-and-loop]**
 
 _Things to watch for:_
@@ -176,11 +178,11 @@ _Things to watch for:_
 
 **[Screen 4 Summary]**
 
-## Consent (skip if passed 0:40)
+### Consent (skip if passed 0:40)
 
 **[Screen 1 Consent]**
 
-## Transition (start by 0:40)
+### Transition (start by 0:40)
 
 **[Screen 1 Additional info]**
 
@@ -189,7 +191,7 @@ _Things to watch for:_
 _Things to watch for:_
 - Transition, do they know when they’re “done,” and what to expect when they hit continue?
 
-## POW - Condition Summary
+### POW - Condition Summary
 
 **[Screen 1 - POW]**
 
@@ -200,7 +202,7 @@ _Things to watch for:_
 If no comments, prompt with questions:
 - Let’s pause here for a minute. Imagine that you had to save your progress and step away. How would you describe what we’ve covered so far, and what might be coming next?
 
-## Step 3 Evidence
+### Step 3 Evidence
 
 For the next few pages, I’ll give you time to read through the page, and I’ll ask you to think aloud and share how you would respond to the questions, and what information you would enter.
 
@@ -235,7 +237,9 @@ We’re going to wrap up at this step in the process. Thanks for walking through
 ## Thank-You and Closing -5 minutes 
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
 Thank you so much again, and enjoy the rest of your day!
 
 
