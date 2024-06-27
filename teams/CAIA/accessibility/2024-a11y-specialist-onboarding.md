@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated June 17, 2024`
+`Last updated June 27, 2024`
 
 
 > [!TIP]
@@ -139,7 +139,7 @@ In all cases, you have a pivotal role to play in the accessibility of your team'
 **Learn more about what different product teams do:**
 - The [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory) lists all products VFS teams work on and includes information about each product, its product owner, and what Crew it belongs to.
 - There's a weekly "Team of Teams" meeting, where all product teams share brief updates. You can join the [#team-of-teams-slide-collection](https://dsva.slack.com/archives/C031S5G29LP) Slack channel to review teams' updates.
-- This [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712621865931/3fea15c7e9e02e067a628b1384dac54f4006bbdb?sender=u1c2b512a71f68e7b5a5c0324) shows how VFS teams are organized. It's a bit out of date, but should give you a good place to start! 
+- This [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712621865931/3fea15c7e9e02e067a628b1384dac54f4006bbdb?sender=u1c2b512a71f68e7b5a5c0324) shows how VFS teams are organized. This is, for the most part, an updated list of VA Teams. You can also reference the Team of Teams "Team List Slide", for a up-to-date list of teams. These should give you a good place to start!
 
 </details>
 
@@ -207,6 +207,7 @@ The following channels are a must-join for accessibility specialists at VA.gov.
 - [#a11y-specialists](https://dsva.slack.com/archives/C0335Q88X0S) (private channel for a11y specialists) ⭐♿
 - [#accessibility-ops](https://dsva.slack.com/archives/C023ZKDJJK1) (public channel for accessibility champs and other a11y fans)
 - [#accessibility-help](https://dsva.slack.com/archives/C8E985R32) (general requests for a11y help, join post accessibility training)
+- [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH) (the public CAIA channel)
 
 These channels aren't required, but we recommend you join them. They'll give you visibility into different disciplines at VA.gov, along with the platform itself:
 - [#platform-design-system](https://dsva.slack.com/archives/C01DBGX4P45) (VA.gov's design system is at [design.va.gov](https://design.va.gov/)) 
@@ -217,9 +218,11 @@ These channels aren't required, but we recommend you join them. They'll give you
 - [#general](https://dsva.slack.com/archives/C03FECE9K) (everyone on all the OCTO teams)
 - [#design](https://dsva.slack.com/archives/C0NGDDXME) (all the designers who work on all the OCTO teams)
 - [#inclusive-research](https://dsva.slack.com/archives/C033ZS9E7EW) (informal group of folks interested in inclusive research)
+- [#mhv-accessibility](https://dsva.slack.com/archives/C05QG2H510T) (channel about accessibility for MyHealtheVet)
 - [#random](https://dsva.slack.com/archives/C03FECE9P) 
 - [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) (design researchers and folks who support them)
 - [#trauma-practice](https://dsva.slack.com/archives/C04F9JLSATE) (informal group of folks interested in trauma informed/responsive design, meetings are available)
+- [#caia-team-internal](https://dsva.slack.com/archives/C03MP8MEPCN) (private channel for CAIA members)
 
 And if you're embedded on a product team, you might want to follow channels from other teams in your Crew. For example, if you're on a Benefits team, you might want to follow other Benefits teams' channels! This will give you insight into what those teams are up to, and open up more possibilities for cross-team collaboration.
 
