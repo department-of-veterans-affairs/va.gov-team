@@ -110,20 +110,20 @@ we need to check if the frontend can use this as well, or if we need to also add
    - [526 Claim Submission Dasboard - DataDog](https://vagov.ddog-gov.com/dashboard/ygg-v6d-nza/benefits---form-526-disability-compensation?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716306296076&to_ts=1716911096076&live=true)        
   
 #### Benchmark data for 1.0 and 1.1 releases
-- Benchmark % of users to start the release:
+- Benchmark of user submissions to start the release:
   - 1 month traffic volume based on `submit_form_526` job activity (more accurate error volume):
     - 71810 total volume
     - 381 `40*` errors 
     - 7932 `50*` errors
     - 1384 unknowns
-    - Submission threshold for errors: 8.63
-    - Submission threshold for errors with unknowns: 7.40
- - 1 month traffic volume based on submit controller activity (more accurate traffic volume): 
+    - Submission threshold for errors: 8.63 submissions
+    - Submission threshold for errors with unknowns: 7.40 submissions
+  - 1 month traffic volume based on submit controller activity (more accurate traffic volume): 
     - 72708
     - 251 `40*` errors 
     - 177 `50*` errors
-    - Submission threshold for errors: 169.88
- - Composite: 8.74
+    - Submission threshold for errors: 169.88 submissions
+  - Composite: **8.74 submissions**
 - Acceptable threshold of primary submission failures: **5 failures/44 submissions**
 
   
