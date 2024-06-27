@@ -31,7 +31,7 @@ The following product or feature descriptions may be answered with a reference l
         * The code base is infiltrated or ex-filtrated.
     * Links to dashboards that help identify and debug application issues
       - **[IVC ChampVA DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms)**
-* Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) **BO OR MARY CHANGE URL** with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+* Provide your [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-release-plan.md)  with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 * Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
   - **New back-end endpoints:**
     - **The endpoints should not be able to be abused by unauthorized parties, only identity verified users can access the form and they only have access to their data. PEGA also will be utilizing SiS (Sign-In Service) to access the last endpoint**
