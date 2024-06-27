@@ -10,6 +10,9 @@
 - [OH Travel GA4 Metrics]() - TBD
 - [PCI Datadog Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true)
 - [PCI SLO Metrics](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1716916742233&to_ts=1719508742233&live=true)
+- [DOMO Medallia Metrics](https://va-gov.domo.com/page/825663825)
+  - Must select the Patient Check-in filter and scroll down below the "Feedback Survey" title to see customer satisfaction score for PCI
+   ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/a243401a-ede6-41f8-b3e4-c89cd9350e83)
 
 ## DataDog Dashboards
 - Public (with url)
