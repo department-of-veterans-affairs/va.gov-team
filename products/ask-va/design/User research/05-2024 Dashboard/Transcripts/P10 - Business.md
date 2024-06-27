@@ -720,9 +720,4 @@ Tyler: I, found everything really helpful. I'm excited to kind of read back thro
 
 Tyler: Awesome. Well, thanks so much, [P10]. I hope you have a great weekend.
 
-00:55:11.000 --> 00:55:12.000
-See ya.
-
-00:55:12.000 --> 00:55:15.000
-And
-
+> P10: See ya!
