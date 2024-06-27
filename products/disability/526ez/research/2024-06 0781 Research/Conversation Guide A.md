@@ -47,7 +47,7 @@ Today we're going to talk about a VA Form that will be used by Veterans claiming
 
 Before we look at the prototype, let’s start with a few warm-up questions.
 - It looks like you completed a disability claim [online / with a paper form] - is that correct?
-  - [If not covered] What conditions did you claim? [If they miss something that was on the screener] I see you claimed [condition]. Is this correct?
+  - [If not covered] What conditions did you claim?_ [If they miss something that was on the screener]_ I see you claimed _[condition]_. Is this correct?
   - What type of support or resources did you use to complete your claim — or what support do you wish you had?
 
 **[Optional, use your judgment]** Pause and Check-In: Just wanted to check in to see how you're feeling before we move on to the prototype. Do you feel ready to move to the next section? 
@@ -75,7 +75,7 @@ So this will be a section of the form where we move through quickly.
 
 **[Screen 2 - Condition list]**
 
-[If they’re sharing their personal experience] Based on your experience claiming [match to their screener], what would you type in this field? 
+_[If they’re sharing their personal experience]_ Based on your experience claiming [match to their screener], what would you type in this field? 
 
 Great, thanks for that. I’m also going to ask you to imagine that you’re claiming one other condition that may not be related to your traumatic event. Let’s say hearing loss. So I’ll enter that as well so we can see how the process works.
 
@@ -114,8 +114,8 @@ These next few pages we’re going to take our time, let you read the content, a
 - Do you understand what these different categories mean?
 
 **[Screen 3 - Y/N no pause]**
-- If they select No, ask why, then select Yes so that we can see how that looks on the next pages
-
+- _If they select No, ask why, then select Yes so that we can see how that looks on the next pages_
+  
 **[Screen 4 - Details]**
 - I’ll give you a moment to review this page and think out loud about how you might answer these questions.
 
@@ -125,12 +125,12 @@ _Pause to hear from them before asking following questions_
 - Were the examples provided helpful in understanding the level of detail required?
 
 _Things to watch for:_
-- Does the Veteran understand the event categories and event types?
+_- Does the Veteran understand the event categories and event types?
 - Are Veterans able to easily report singular, multiple, and ongoing events?
 - Are the new examples provided in the form helpful in orienting Veterans to the level of detail required, and lightening the burden of filling out this section?
 - Overwhelm, too much information on one page?
 - Transition, do they know when they’re “done” entering an event, and what to expect when they hit continue?
-- Reactions to example/hint text
+- Reactions to example/hint text_
 
 **[Screen 5 - Official Report]**
 
@@ -150,9 +150,9 @@ _Things to watch for:_
 
 So these next few pages we’re going to move through pretty quickly. As a reminder, we’ll show the page, and briefly describe what is on the page. If you have questions, we can pause and discuss, but otherwise, we’ll move on to the next page, and spend more time in the areas where we have particular questions for you.
 
-[Moderator can check things quickly and enter an example description]
+_[Moderator can check things quickly and enter an example description]
 
-
+_
 ### Treatment
 
 _[Slow down, ask what they would enter on each page, but no additional questions]_
@@ -161,7 +161,7 @@ For the next few pages, I’ll give you time to read through the page, and I’l
 - What would you enter here?
 
 _Things to watch for:_
-- Do they understand this is just for mental health conditions? Do they enter any info regarding other non-mental health conditions?
+_- Do they understand this is just for mental health conditions? Do they enter any info regarding other non-mental health conditions?_
 
 ### Supporting Documents
 
@@ -174,7 +174,7 @@ _Things to watch for:_
 **[Screen 3 Upload in list-and-loop]**
 
 _Things to watch for:_
-- Do they read the header and understand that they’re uploading one type of doc at a time? Or do they try to upload everything at once?
+_- Do they read the header and understand that they’re uploading one type of doc at a time? Or do they try to upload everything at once?_
 
 **[Screen 4 Summary]**
 
@@ -189,7 +189,7 @@ _Things to watch for:_
 **[Screen 2 Completed - listen for reactions before prompting]**
 
 _Things to watch for:_
-- Transition, do they know when they’re “done,” and what to expect when they hit continue?
+_- Transition, do they know when they’re “done,” and what to expect when they hit continue?_
 
 ### POW - Condition Summary
 
@@ -199,7 +199,7 @@ _Things to watch for:_
 
 **[Screen 3 - Conditions Summary]**
 
-If no comments, prompt with questions:
+_If no comments, prompt with questions:_
 - Let’s pause here for a minute. Imagine that you had to save your progress and step away. How would you describe what we’ve covered so far, and what might be coming next?
 
 ### Step 3 Evidence
@@ -207,8 +207,8 @@ If no comments, prompt with questions:
 For the next few pages, I’ll give you time to read through the page, and I’ll ask you to think aloud and share how you would respond to the questions, and what information you would enter.
 
 _Things to watch for:_
-- Do the new alerts about info they already entered make sense?
-- Do they find it confusing to have two different sections for uploading documents within the form?
+_- Do the new alerts about info they already entered make sense?
+- Do they find it confusing to have two different sections for uploading documents within the form?_
 
 ## Post-Task Questions - 15 min (start by 1:00)
 
