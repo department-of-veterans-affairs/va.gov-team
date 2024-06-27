@@ -29,166 +29,57 @@ Tyler: No, no, I was just curious. Yeah, are they outside of your house or you h
 
 > P10: No, I have a parakeet sitting about 2 feet away from me.
 
-> P10: Oh. Wow. Oh cool!
+Tyler: Oh. Wow. Oh cool! Wow, so pretty.
 
-00:00:33.000 --> 00:00:34.000
-Wow, so pretty.
+> P10: There's 1 of them. Good morning. And there's And there's 4 more.
 
-00:00:34.000 --> 00:00:36.000
-There's 1 of them. Good morning. And there's And there's 4 more.
+> P10: You can go upstairs.
 
-00:00:36.000 --> 00:00:37.000
-You can go upstairs.
+> P10: Well, if they get to be too loud, you just say so and I'll shoot them to another room.
 
-00:00:37.000 --> 00:00:41.000
-Awesome.
+Tyler: Awesome. Okay. So, [P10], I think you're a school certifying official, right?
 
-00:00:41.000 --> 00:00:45.000
-Well, if they get to be too loud, you just say so and I'll shoot them to another room.
+> P10: I am.
 
-00:00:45.000 --> 00:00:51.000
-Okay. So, Lori, I think you're a school certifying official, right?
+Tyler: So do you want to tell me a little bit about like your role and kind of what's involved, what you do day to day?
 
-00:00:51.000 --> 00:00:52.000
-I am.
+> P10: We only have an hour though. Lol.
 
-00:00:52.000 --> 00:01:01.000
-So do you want to tell me a little bit about like your role and kind of what's involved, what you do day to day?
+> P10: Yeah, so I am the main point of contact at the school for students who are using any type of VA education benefits. So I've been [involved] with  chapter 33. I work with current serving members. [My state] has a large national guard population. So that's a large part of my caseload. I also work with students using chapter 31 VR&E benefits. And I'm also a work study supervisor.
 
-00:01:01.000 --> 00:01:02.000
-Yeah.
+> P10: They are the front face of our Veterans Center on campus. So, I've been with [school] for just over 8 years, almost 20 years [in this type of role].
 
-00:01:02.000 --> 00:01:09.000
-We only have an hour though. Yeah, so I am the main point of contact at the school for students who are using any type of VA education benefits.
+Tyler: Okay, awesome. So, very cool. You have like a kind of range of experience and in this case like school certifying official hat and then work  study supervisor. I think that'll be really helpful. And you also help with the RNE. I think all those things will be helpful.
 
-00:01:09.000 --> 00:01:13.000
-So I've been in shows to chapter 33. I work with current serving members. Minnesota has a large national guards population.
+> P10: Yeah, so my formal role is actually I'm an academic advisor. So I'm like the person for these students. We're not, we're trying to do it all in one office for benefits, advising, graduation planning. I know just enough about FAFSA and financial pieces to be dangerous. So rather than having them stop around for answers. I'm kind of just their person.
 
-00:01:13.000 --> 00:01:16.000
-Okay.
+Tyler: Awesome. And then tell me a little bit about how you use Ask VA or AVA or however you call it. In your role.
 
-00:01:16.000 --> 00:01:20.000
-So that's a large part of my caseload. Minnesota has a large national guards population, so that's a large part of my caseload.
+> P10: Sure. I try not to use [Ask VA] because I try to do everything that VA has instructed us. With regard to policy, process, reporting enrollment information. So it's really kind of my last go-to, when it comes to at least the education benefits piece.
 
-00:01:20.000 --> 00:01:23.000
-Also work with students using chapter 31, so that's a large part of my caseload.
+> P10: I just recently had to use it because stuff didn't make sense. So the term had ended. I had reported some reductions in credits for non-punitive grades. I reported some academic suspensions, but then VA had actually turned around and you gave us more money. So when things don't make sense when normal business processes are just like... But, it's our main ticket system to contact VA to express a concern specific to a student, aka, a file that we're working on, and get help that way.
 
-00:01:23.000 --> 00:01:28.000
-Also, work with students using chapter 31, also work with students using chapter 31 VR and E benefits and I'm also a work study supervisor, 31, VR and E benefits.
+> P10: For VA work study, it's like this, it is the sole way that we're communicating information to VA. So it is providing scanned attachments, so PDFs of documents that students are doing. So that process is really still heavily paper based from the application, the contracts, the the time sheets, everything is scanned. And submitted as a ticket to VA through Ask VA. And then we're getting responses back that way.
 
-00:01:28.000 --> 00:01:35.000
-And I'm also a work study supervisor, 31, VR and E benefits. And I'm also a work study supervisor too.
+> P10: So those are really the 2 main buckets for which I have to use [Ask VA].
 
-00:01:35.000 --> 00:01:39.000
-They, are the front face of our Veterans Center on campus. So, I've been with Normandy for just over 8 years, but I Almost 20 years.
+Tyler: Okay, that's really helpful. So like on the one hand, like not work study stuff, you're trying almost as little as possible to use it unless it's like some outstanding case, something's not making sense or it's like complex.
 
-00:01:39.000 --> 00:01:50.000
-Okay, awesome. So very cool. You have like a kind of range of experience and in this case like school certifying official hat and then network study supervisor.
+> P10: Correct.
 
-00:01:50.000 --> 00:01:59.000
-I think that'll be really and then also you said. You help with the RNE. I think all those things will be.
+Tyler: And then for work study, it's obviously like a lot of paperwork uploading and things like that.
 
-00:01:59.000 --> 00:02:00.000
-Okay.
+> P10: Yes.
 
-00:02:00.000 --> 00:02:02.000
-Yeah, so my formal role is actually I'm an academic advisor. So I'm like the person for these students.
+Tyler: Awesome. That's, that's super helpful. Is that how you would get in touch with the VA in general then? Like if you need to, do you ever call them?
 
-00:02:02.000 --> 00:02:03.000
-Okay.
+> P10: Yeah, so yeah, to be fair, the SCO hotline would be my other option for contacting the VA with, you know, business specific things that don't make sense. I need a piece of information that a student didn't provide or didn't know. But for the ones that I dealt with recently, a really complex situations that I feel like I would rather have a paper trail for it. That's the way to type it out and and get that information and get it in writing and have something tangible to put back in the students file.
 
-00:02:03.000 --> 00:02:08.000
-We're not, we're trying to do it all in one office for benefits, advising, graduation planning.
+> P10: Easy stuff that I would go to the phone first rather than, I skipped calling the VA on these complex like wrong payment type things and I went right to AVA for this.
 
-00:02:08.000 --> 00:02:14.000
-I know just enough about FAFSA and financial pieces to be dangerous. So rather than having them stop around for answers.
+Tyler: Okay, yeah, that's really interesting. And then when you're talking about like that wanting it to be like trackable and like make sure that you have it like documented so that you can put it in the students case file so are you like printing out what you're putting in there, how does that work?
 
-00:02:14.000 --> 00:02:16.000
-I'm kind of just their person. Yep.
-
-00:02:16.000 --> 00:02:23.000
-Awesome. And then tell me a little bit about how you use Ask VA or AVA or however you call it.
-
-00:02:23.000 --> 00:02:24.000
-In your role.
-
-00:02:24.000 --> 00:02:33.000
-Sure. I try not to use it because I try to do everything that VA has instructed us.
-
-00:02:33.000 --> 00:02:37.000
-With regard to policy, process, reporting enrollment information. So it's really kind of my last go-to, when it comes to at least the education benefits piece.
-
-00:02:37.000 --> 00:02:55.000
-I just recently Had to use it because stuff didn't make sense. So the term had ended. I had reported some reductions in credits for non-punitive grades.
-
-00:02:55.000 --> 00:03:00.000
-I reported some academic suspensions, but then VA had actually turned around and you gave us more money.
-
-00:03:00.000 --> 00:03:08.000
-So when things don't make sense when normal business processes are just like
-
-00:03:08.000 --> 00:03:19.000
-But, it's our main ticket system to contact VA to express a concern specific to a student, AKA, a file that we're working on, and get help that way.
-
-00:03:19.000 --> 00:03:21.000
-For VA work study, it's like this, it is the sole way that we're communicating information to VA.
-
-00:03:21.000 --> 00:03:37.000
-So it is providing scanned attachments, so PDFs of documents that students are doing. So that process is really still heavily paper based from the application, the contracts, the the time sheets, everything is scanned.
-
-00:03:37.000 --> 00:03:51.000
-And submitted as a ticket to VA through ABA through SBA. And then we're getting responses back that way.
-
-00:03:51.000 --> 00:03:56.000
-So those are really the 2 main buckets for which I have to use that system.
-
-00:03:56.000 --> 00:04:09.000
-Okay, that's really helpful. So like on the one hand, like not work study stuff, you're trying almost as little as possible to use it unless it's like some outstanding case, something's not making sense or it's like complex.
-
-00:04:09.000 --> 00:04:10.000
-Correct.
-
-00:04:10.000 --> 00:04:16.000
-And then for work study, it's obviously like a lot of paperwork uploading and things like that.
-
-00:04:16.000 --> 00:04:17.000
-Yes.
-
-00:04:17.000 --> 00:04:22.000
-Awesome. That's, that's super helpful. Is that how you would get in touch with the VA in general then?
-
-00:04:22.000 --> 00:04:26.000
-Like if you need to, do you ever call them?
-
-00:04:26.000 --> 00:04:32.000
-Yeah, so yeah, to be fair, the SEO hotline would be my other option for contacting the VA with, you know, business specific things that don't make sense.
-
-00:04:32.000 --> 00:04:47.000
-I need a piece of information that a student didn't provide or didn't know. But for the ones that I dealt with recently, a really complex situations that I feel like.
-
-00:04:47.000 --> 00:05:01.000
-I would rather have a paper trail for it. That's the way to type it out and and get that information and get it in writing and have something tangible to put back in the students file.
-
-00:05:01.000 --> 00:05:09.000
-Easy stuff that I would go to the phone first.st rather than I didn't like I skipped calling the VA on these complex.
-
-00:05:09.000 --> 00:05:25.000
-Like wrong payment type things and I went right to AVA for this yes
-
-00:05:25.000 --> 00:05:26.000
-Yes.
-
-00:05:26.000 --> 00:05:33.000
-Okay, yeah, that's really interesting. And then when you're talking about like that wanting it to be like trackable and like make sure that you have it like documented so that you can put it in the students case file so are you like printing out what you're putting in there, how does that work?
-
-00:05:33.000 --> 00:05:39.000
-But, printing to paper? No, digitally printing. Yes, so we have everything is digital document management system.
-
-00:05:39.000 --> 00:05:50.000
-So I can I can pull something up in AVA digitally printed directly to a student's office.
-
-00:05:50.000 --> 00:05:55.000
-Record at the school.
+> P10: Printing to paper? No. Digitally printing. Yes, so we have everything is digital document management system. So I can pull something up in Ask VA digitally printed directly to a student's office record at the school.
 
 00:05:55.000 --> 00:05:56.000
 Yeah.
