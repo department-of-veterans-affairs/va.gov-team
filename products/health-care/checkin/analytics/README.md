@@ -1,6 +1,15 @@
 # Analytics
 
 [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
+ - This needs to be updated based on the outcome of the meeting with Stephen & Jeff/Leah
+
+## Metrics Dashboards for Reporting Purposes
+- [PCI GA4 Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
+- [PCI GA4 Pre-Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
+- [PCI GA4 Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
+- [OH Travel GA4 Metrics]() - TBD
+- [PCI Datadog Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true)
+- [PCI SLO Metrics](https://app.ddog-gov.com/sb/afc0766e-74a2-11ec-a15a-da7ad0900007-f07231c7d8d7f3accba69b77ccf16410?refresh_mode=sliding&from_ts=1716916742233&to_ts=1719508742233&live=true)
 
 ## DataDog Dashboards
 - Public (with url)
@@ -23,20 +32,6 @@
 - [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
     - Need to filter on these templates
      ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/9ba56a3d-a978-4f45-a63f-c355aa647556)
-
-## GA 4
-- [Metric Reporting for Stakeholders](https://docs.google.com/spreadsheets/d/1dj3CpR-wLljqydLhwO4GEgvmzLBOUSHIqxM1LIYmHTc/edit#gid=934915008)
-- [PCI Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
-     - NOTE: In Progress, GA4 not fully migrated
-- [PCI Funnels](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8tsu4m2kR5eLtCmD9xzRcA)
-     - NOTE: In Progress, GA4 not fully migrated- 
-
-## Google Analytics
-- Requires Google Analytics account. [Request access to Google Analytics](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/new-users-to-google-analytics#NewUserstoGoogleAnalytics-HowtogetaccesstoGoogleAnalytics). <br/> <br/>
-     - [Bene Travel Claims from eCheck-in Report](https://analytics.google.com/analytics/web/#/dashboard/-LnfQTl3ShO8HbLIPQ7ZEQ/a50123418w177519031p176188361/_u.dateOption=last7days/)
-     - [Pre-Check-In (PCI)](https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.dateOption=last7days/)
-     - [eCheck-in (PCI)](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.dateOption=last7days/)
-     - [BT Claims from text "travel" at OH Sites](https://analytics.google.com/analytics/web/#/dashboard/yqkbRXcgQXKYTYs6ReQscg/a50123418w177519031p176188361/)
 
 ## VSignals Feedback
 - [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
