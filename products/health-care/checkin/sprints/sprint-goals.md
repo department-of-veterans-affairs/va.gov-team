@@ -124,6 +124,7 @@
     - **Sub Goal: Tech Debt**
         - 🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)
         - 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
+        - ✔️ 🟩 [[FE] BUG - date is missing from already field error.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/87064)
         - 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
 
 ## SPRINT 9 - 6/12/2024-6/25/2024
