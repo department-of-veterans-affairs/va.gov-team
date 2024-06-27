@@ -192,15 +192,13 @@ Goal: Learn whether intent to file messaging is more effective after starting an
 
 ## Open Questions for the Benefits Portfolio
 
-Learn about claims
-
+**Learn about claims**
 I want to understand what claims I might be eligible for, so that I can maximize my benefits.
 
 - How might we describe the benefits that the intent to file process provides consistently across [](http://va.gov/)VA channels (webpages, email, VA Notify, letters) so that Veterans are confident in the next steps for their claims?
 - How might we provide a predictable digital experience with intent to file, regardless of the claim type, so that Veterans can have a seamless claims journey without the burden of relearning a process?
 
-Follow a claim
-
+**Follow a claim**
 I want to know the status of my submitted claim, so that I can have reassurance of when I might receive payments.
 
 - How might we support tracking of non-claim submissions like ITF so that Veterans can identify action items with more certainty and speed, without needing to request additional information from VA?
