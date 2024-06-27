@@ -101,9 +101,9 @@ Moderated interviews will be conducted remotely over Zoom. The discussion guide 
 
 
 ### Research materials
-- [Conversation guide A]()
+- [Conversation guide A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Conversation%20Guide%20A.md)
 - [Notetaking template w/ screenshots A](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719255501253/3ad7bf603b80ec22ffd1a4ae91183b9f6bd8c0df?wid=257-1719347916476)
-- [Conversation guide B]()
+- [Conversation guide B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2024-06%200781%20Research/Conversation%20Guide%20B.md)
 - [Notetaking template w/ screenshots B](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719255501253/3ad7bf603b80ec22ffd1a4ae91183b9f6bd8c0df?wid=0-1719338278717)
 - [Prototype link](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=3851-16350&t=5IOXAyGkXhdBY3x9-1) TBD (Figma designs in progress)
 
