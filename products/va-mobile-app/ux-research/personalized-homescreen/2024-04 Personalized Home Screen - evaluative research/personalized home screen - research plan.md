@@ -28,6 +28,7 @@ Since Veterans can download the VA Health and Benefits mobile app any time after
 We have not previously conducted concept or usability research focusing on the VA mobile app’s home screen.
 - [Desk research & discovery exploring personalization broadly](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/discovery/readme.md#personalization-2023) was conducted several times from 2021-2023. 
 - [VA mobile app user retention discovery research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/July%202023/Mobile%20App%20Retention/Research%20Findings.md#detailed-findings) (the study that uncovered the problem the personalized home screen is attempting to solve) was conducted in 2023.
+- [VA mobile app - Post-Launch Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022) (the study includes exploring the value of the app to Veterans) was conducted in August 2022.
 
 ## Research Goals	
 Fulfills issue [#2160 ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/2160)
