@@ -134,7 +134,7 @@ Approvals for launch:
 -  Once a Veteran is selected for the 2022 526ez form they cannot be de-selected.
 
 #### Day 0:
- - 11am EDT <individual> Toggles Feature ON for all Users
+ - 11am EDT <individual> Toggles Feature ON for all Users*
  - Noon EDT <individual> Toggle Feature OFF for all Users
 
 #### Day 0-A:
