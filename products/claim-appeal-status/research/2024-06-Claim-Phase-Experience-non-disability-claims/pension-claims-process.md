@@ -1,4 +1,4 @@
-# Delivery team Pension claims process experience
+# Delivery team workshop for Pension claims process experience
 
 ## Background
 Currently, we are working to increase transparency for the  [disability claims process](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713276576012/25e677b1d846aff3bea16fc9175e473d5e509888?sender=u606d6bea4af40ec4fe659363)  by providing a description for each process step so hopefully veterans can  anticipate what will happen next in the claims process or to educate veterans on ideal times to submit evidence etc.
