@@ -71,7 +71,7 @@ The findings below were derived from the page audits referenced above and will i
         - Decision letter: “payment start date” or “effective date”
         - Compensation and Pension Manual: “effective date of entitlement”
 
-3. Intent to file dates **are not available** on [VA.gov](http://va.gov/) after submission.
+3. Intent to file dates are not available on [VA.gov](http://va.gov/) after submission.
     - If a Veteran submits an intent to file through the standalone form, their confirmation page enables the user to print the page for future records. The introduction page states, “We’ll let you know what your potential effective date is after we process your intent to file,” but does not indicate how the Veteran will be notified or when.
     - If a Veteran submits an intent to file through any channel, they will receive a letter confirming that they now have an active ITF and detailing the date. However, if a Veteran submits an intent to file online (either through automatic submission or in a separate form), we do not inform them on VA.gov if or when they will receive one.
     - Neither ITF submission dates, nor expiration dates, are available in the Claims Status Tool or in My VA. “*Where can I find my intent to file?*” is a common ITF question among Veterans on Reddit, who have directed each other to eBenefits, which has historically listed active and inactive intents to files. Veterans on social media have noted difficulty with recalling their intent to file date, in order to ensure that they file their claim on time to receive their "back pay”, as well as difficulty with even recalling whether they submitted an intent to file at all.
@@ -114,7 +114,7 @@ While there are opportunities to explore and refine the ideal intent to file UX 
     
     How might we set expectations around intent to file earlier, so that Veterans are not hindered or blocked from continuing their application?
     
-- **Next step:** Collaborate with Michael Tri and CAIA to clarify intent to file benefits on the introduction page
+    - **Next step:** Collaborate with Michael Tri and CAIA to clarify intent to file benefits on the introduction page
 1. **The ITF status page**
     
     How might we clarify how ITF expiry impacts Veterans’ benefits?
