@@ -118,11 +118,16 @@ _Link to DOMO dashboards TBD_
 
 ### 1-Month Results (5/20-6/20)
 
-1. **Errors**:
-3. **Contact Center calls (MyVA411)**: 
-4. **Feedback survey submmissions (Medallia)**:
+**Statuses from [Datadog](https://vagov.ddog-gov.com/logs?query=%40payload.controller%3A%22RepresentationManagement%3A%3AV0%3A%3APowerOfAttorneyController%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1716302570635&to_ts=1716316970635&live=true)**:
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/2790b0fc-b55b-43ac-b3e0-4814bee84b49)
+
+**Contact Center calls (MyVA411)**: None
+
+**Feedback survey submmissions (Medallia)**:  
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** 
+We will associate the `422` status with the "No representative" state to better inform that subest of users.  We will also update the phone number in the error state to a number users can call to inquire about representation -- 1-800-827-1000, which is more helpful than the MyVA411 number.
 
 
 ## Post-Launch Questions
