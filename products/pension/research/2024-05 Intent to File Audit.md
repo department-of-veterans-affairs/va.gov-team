@@ -114,17 +114,17 @@ While there are opportunities to explore and refine the ideal intent to file UX 
     
     How might we set expectations around intent to file earlier, so that Veterans are not hindered or blocked from continuing their application?
     
-    - **Next step:** Collaborate with Michael Tri and CAIA to clarify intent to file benefits on the introduction page
+    - **Next step:** Collaborate with CAIA to clarify intent to file benefits on the introduction page
 1. **The ITF status page**
     
     How might we clarify how ITF expiry impacts Veterans’ benefits?
     
-    - **Next step:** Re-engage with Julie Pedtke (526) and Katherine Fung (CAIA) to redefine messaging goals on the ITF status page
+    - **Next step:** Re-engage with 526 and CAIA to redefine messaging goals on the ITF status page
 2. **Step 5: Financial information → Care Expenses, Medical Expenses**
     
     How might we ensure Veterans' claims utilize ITF dates where appropriate in their application?
     
-    - **Next step: Identify inconsistencies between the paper and online Pension form, where an intent to file date should be utilized, and opportunities for further guidance in-form.**
+    - **Next step:** Identify inconsistencies between the paper and online Pension form, where an intent to file date should be utilized, and opportunities for further guidance in-form.
 
 Because these iterations will not directly validate or invalidate our hypotheses on veterans' understanding or experience with intent to file, we have identified research goals and initial questions for future activities below.
 
