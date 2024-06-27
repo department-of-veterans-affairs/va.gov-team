@@ -190,8 +190,10 @@ Prototype Link:
 >  **Research Questions addressed in this section:**
 >  -   Can participants point out/indicate where on the page the CTAs/important actions are? 
 >  -   What is the findability of different elements like on these pages?
+>  -   How do participants use the debt letters? 
 
  - Are you familiar with Debt Letters?
+ - For what purposes have Debt Letters come in handy for you in the past? [if they have] How could you see yourself using these Debt Letters? [if they haven't] 
 
 - How would you find out when a Debt Letter was sent to you?
 
