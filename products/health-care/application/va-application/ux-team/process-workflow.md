@@ -114,11 +114,28 @@ We often utilize our biweekly HEC stakeholder call and/or our recurring CG stake
 
 </details>
 
-## Development review
-## QA with content/design/research
+<details>
+<summary>Development Review</summary>
 
+- Development typically begins once content collaboration is completed.
+- To prevent a lot of last-minute changes and requests from CAIA, we implement a content freeze date and aim to get all mandatory content updates into Figma by then.
+  - We determine content and code freezes as a team during release planning and ensure those dates are agreed upon, understood, and communicated to relevant parties.
+  - If there are content suggestions from CAIA after that date that aren't mandatory based on the product brief, we document those suggestions in Figma in a "future" section within the page created for the specific ticket.
+  - We aim to revisit those suggestions after launch or on the next iteration of changes for the form depending on their urgency.
+- The designer should look through the review instance once ready from devs and surface any discrepancies. Then they should verify any changes needed have been made. 
 
+</details>
 
+<details>
+  
+<summary>QA with content/design/research</summary>
+
+- Our QA engineer is embedded on the team but also serves other healthcare-related teams.
+- They will create test cases for QA based on Figma designs.
+- Durihng QA, they will create tickets for developers to fix any discrepancies found during QA.
+- The QA engineer may have questions for the designer which can typically be resolved on Slack.
+
+</details>
 -----
 
 ### UX Decision Table Template A
