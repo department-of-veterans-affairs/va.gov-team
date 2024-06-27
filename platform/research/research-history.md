@@ -1,7 +1,7 @@
 ----
 
 # This documentation has moved! 
-### [The latest version of this page](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1) is found in the research repo!
+### [The latest version of this page](https://github.com/orgs/department-of-veterans-affairs/projects/880) is found in the research repo!
 
 ### Can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
 
