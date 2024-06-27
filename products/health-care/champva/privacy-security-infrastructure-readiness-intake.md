@@ -113,8 +113,8 @@ Please provide the following documentation as attachments.
       - **POST `/ivc_champva/v1/forms/submit_supporting_documents`**
       - **POST `/ivc_champva/v1/forms/status_updates`**
 * Product Specifics:
-    * [ ] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) **BO OR MARY CHANGE URL** with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    * [ ] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) **BO OR MARY CHANGE URL**
+    * [ ] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-release-plan.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+    * [ ] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md) 
     - Ensure Product Outline contains **Incident Response** info, including:
         - Points of contact for your system and dependent VA back-ends
         - Links to dashboards that help identify and debug application issues
