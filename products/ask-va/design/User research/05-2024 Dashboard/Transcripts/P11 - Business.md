@@ -658,9 +658,4 @@ Tyler: And thanks for spending the hour with us and I can't wait to read through
 
 > P11: Thank you guys. You have a nice day.
 
-00:59:14.000 --> 00:59:15.000
-Okay.
-
-00:59:15.000 --> 00:59:19.000
-Bye
-
+Tyler: Okay. Bye!
