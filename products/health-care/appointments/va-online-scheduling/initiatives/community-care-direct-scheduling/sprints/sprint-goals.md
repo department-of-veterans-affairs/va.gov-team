@@ -51,7 +51,7 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Pull in patient preferences for user**
          - ❗ 🟦 [[BE] [SPIKE] 4 hours - Discuss or find out how to access to patient preferences (preferred provider)](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/84026)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
-         - 🟥 [Midpoint Review - **Accessibility Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85828)
+         - ✔️ 🟥 [Midpoint Review - **Accessibility Feedback** - Unified Appointment Experience, Appointments, Community Care Direct Scheduling](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/85828)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
          - 🟦 [Add alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/83872)
          - 🟦 [[FE] Filtering](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/82611) 
@@ -65,7 +65,7 @@ ________________________________________________________________________________
          - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Design & Tech Debt**
          - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
-         - 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible
+         - ✔️ 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible
     - **Sub Goal: [Feature] Get connected with WellHive**
          - 🟦 [Validate access to time slots API endpoint from WellHive](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86958)
 
