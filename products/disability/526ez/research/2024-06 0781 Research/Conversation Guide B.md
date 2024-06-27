@@ -2,46 +2,9 @@
 
 Note: Headers and text in italics are for our moderator’s reference and not part of the script we will read with Veterans
 
-[Notetaking template w/ screenshots](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717589684902/e468c0febd9a85d119f62719a957343aff7cc247?sender=udbd39c1bbebb4ec4d7d08829)
+[Notetaking template w/ screenshots](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719255501253/3ad7bf603b80ec22ffd1a4ae91183b9f6bd8c0df?wid=0-1719326742807)
 
-[Prototype link TBD (Figma designs in progress)](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=2079-1122&t=iSUySIe8BV2aaqY3-0)
-
-
-## Moderator logistics
-### 2-3 days before the session
-
-- Review VA Platform's Research Checklist
-- Review VA Trauma Practice Guidelines (0781 team copy)
-- Complete any project-specific setup tasks for this study (List them below)
-  - Assign and confirm notetaker(s)
-    - This should include a member of your team but could include others. Ask your notetaker(s) to review guidance on taking notes. If you can’t find someone to take notes, Perigean is available to assist. Learn how to prepare for Perigean to take notes.
-  - Prepare for note-taking
-    - Create a “session notes” folder within your research study Github folder and store each session as a .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes.
-  - Invite observers
-     - Invite your team and stakeholders to sessions. Limit your observers to 3-4 per session so participants aren’t overwhelmed. You should empower participants by allowing them to decide if they are comfortable having observers. Ask observers to review information about observer guidelines and attendance etiquette.
-   - Prepare as moderator
-     - Be familiar with the conversation guide, study implement(s), and prototype(s). Review tips on moderating, guidelines for recording sessions, and guidance on participant and researcher safety and exit strategies.
-    - Confirm participant knows what technology they need for the session
-      - If we have access to participant communications or reconfirm with Perigean that the participant has been informed
-- Confirm Zoom is recording to the cloud.
-- Assign a timekeeper from observers.
-
-
-
-### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
-
-### Starting the session
-
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+[Prototype link TBD (Figma designs in progress)](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=3881-92145&t=5IOXAyGkXhdBY3x9-1)
 
 
 ## Intro - 5 minutes
@@ -82,7 +45,7 @@ Today we're going to talk about a VA Form that will be used by Veterans claiming
 Before we look at the prototype, let’s start with a few warm-up questions.
 
 - It looks like you completed a disability claim [online / with a paper form] - is that correct?
-  - [If not covered] What conditions did you claim? [If they miss something that was on the screener] I see you claimed [condition]. Is this correct?
+  - [If not covered] What conditions did you claim? _[If they miss something that was on the screener]_ I see you claimed _[condition]_. Is this correct?
   - What type of support or resources did you use to complete your claim — or what support do you wish you had?
 
 **[Optional, use your judgment]** Pause and Check-In: Just wanted to check in to see how you're feeling before we move on to the prototype. Do you feel ready to move to the next section? 
@@ -99,7 +62,7 @@ To give you a heads up… part of the form asks about your condition, the trauma
 - Or, if you’re not comfortable sharing your personal experience, you can silently imagine how you might answer questions, and speak generally about how someone might respond.
 
 
-## (Staging) Conditions
+### (Staging) Conditions
 
 I’ll now start sharing my screen so that you can view the prototype we’d like your feedback on. For this task, we are going to pretend that you have already logged into VA.gov, completed some basic questions including your contact information and military service, and are now on Step 2 of the 526 form. As we are looking at this prototype I want you to think out loud about how you would complete this section and what you think this section is about.
 
@@ -124,15 +87,15 @@ Now I need to adjust my screen share, bear with me for a moment…
 [Stop sharing, pull up the prototype for next pages]
 
 
-## Toxic Exposure
+### Toxic Exposure
 **[Screen 1 ]** Answer no to the toxic exposure section to skip all screens
 
 
-## POW 
+### POW 
 **[Screen 1 - POW - answer NO]**
 
 
-## (Prototype) 0781 Intro
+### (Prototype) 0781 Intro
 
 **[Screen 1 - Provide a statement]**
 
@@ -142,17 +105,17 @@ These next few pages we’re going to take our time, let you read the content, a
 - Anything you'd expect to see that you're not seeing? What's missing?
 - Did the content on this page logically follow the previous one?
 
-_Select Yes to move forward
+_Select Yes to move forward_
 
 **[Screen 2 - “We’ll help you… in Step 4”]**
 
 
-## Summary
+### Summary
 
 **[Screen 1 - Summary of conditions]**
 - Let’s pause here for a minute. Imagine that you had to save your progress and step away. How would you describe what we’ve covered so far, and what might be coming next?
 
-## Step 3 Evidence
+### Step 3 Evidence
 
 - For the next few pages, I’ll give you time to read through the page, and I’ll ask you to think aloud and share how you would respond to the questions, and what information you would enter.
 
@@ -165,7 +128,8 @@ _Select Yes to move forward
 _If they select No, ask why, then select Yes so that we can see how that looks on the next pages_
 
 _Things to watch for:_
-- Does the Veteran understand the blue alert, and which evidence they should provide in this section vs later?
+
+- _Does the Veteran understand the blue alert, and which evidence they should provide in this section vs later?_
 
 **[Screen 3 - VA Facility - no pause]**
   
@@ -173,7 +137,7 @@ _Things to watch for:_
 
 **[Screen 5 - Summary - no pause]**
 
-## Additional Forms
+### Additional Forms
 
 **[Screen 1 -  Additional forms to complete]**
 - Help me understand what you're seeing on this page. What do you think this page is for?
@@ -185,7 +149,7 @@ _Click Start this form to continue_
 - From your perspective, how useful is the content presented on this page?
 - Anything you'd expect to see that you're not seeing? What's missing?
 
-## Event Details
+### Event Details
 
 **[Screen 1 - no pause]**
 
@@ -194,8 +158,8 @@ _Click Start this form to continue_
 - Do you understand what these different categories mean?
 
 **[Screen 3 - Y/N no pause]**
-- If they select No, ask why, then select Yes so that we can see how that looks on the next pages
-
+- _If they select No, ask why, then select Yes so that we can see how that looks on the next pages_
+  
 **[Screen 4 - Details]**
 - I’ll give you a moment to review this page and think out loud about how you might answer these questions.
 
@@ -204,12 +168,12 @@ _Pause to hear from them before asking following questions_
 - Were the examples provided helpful in understanding the level of detail required?
 
 _Things to watch for:_
-- Does the Veteran understand the event categories and event types?
-- Are Veterans able to easily report singular, multiple, and ongoing events?
-- Are the new examples provided in the form helpful in orienting Veterans to the level of detail required, and lightening the burden of filling out this section?
-- Overwhelm, too much information on one page?
-- Transition, do they know when they’re “done” entering an event, and what to expect when they hit continue?
-- Reactions to example/hint text
+- _Does the Veteran understand the event categories and event types?_
+- _Are Veterans able to easily report singular, multiple, and ongoing events?_
+- _Are the new examples provided in the form helpful in orienting Veterans to the level of detail required, and lightening the burden of filling out this section?_
+- _Overwhelm, too much information on one page?_
+- _Transition, do they know when they’re “done” entering an event, and what to expect when they hit continue?_
+- _Reactions to example/hint text_
 
 **[Screen 5 - Official Report]**
 
@@ -221,14 +185,14 @@ _Things to watch for:_
 **[Offer a break] ** 
 **We realize that you just answered some hard questions, so it might be a good time to take a break! I’m going to suggest we take a couple minutes to stretch or grab a glass of water. How does that sound?**
 
-## Behavior change
+### Behavior change
 
 So these next few pages we’re going to move through pretty quickly. As a reminder, we’ll show the page, and briefly describe what is on the page. If you have questions, we can pause and discuss, but otherwise, we’ll move on to the next page, and spend more time in the areas where we have particular questions for you.
 
 _[Moderator can check things quickly and enter an example description]_
 
 
-## Treatment
+### Treatment
 _[Slow down, ask what they would enter on each page, but no additional questions]_
 
 For the next few pages, I’ll give you time to read through the page, and I’ll ask you to think aloud and share how you would respond to the questions, and what information you would enter.
@@ -236,9 +200,9 @@ For the next few pages, I’ll give you time to read through the page, and I’l
 _If never received treatment, skip following screens in this section_
 
 _Things to watch for:_
-- Do they understand this is just for mental health conditions? Do they enter any info regarding other non-mental health conditions?
-
-## Supporting Documents
+- _Do they understand this is just for mental health conditions? Do they enter any info regarding other non-mental health conditions?_
+  
+### Supporting Documents
 
 **[Screen 1 - Intro]**
 
@@ -249,34 +213,37 @@ _Things to watch for:_
 **[Screen 3 - Upload in list-and-loop]**
 
 _Things to watch for:_
--Do they read the header and understand that they’re uploading one type of doc at a time? Or do they try to upload everything at once?
+
+- _Do they read the header and understand that they’re uploading one type of doc at a time? Or do they try to upload everything at once?_
 
 **[Screen 4 -  Summary]**
 
-## Consent (skip if passed 0:40)
+### Consent (skip if passed 0:40)
 
 **[Screen 1 Consent]**
 
-## Transition (start by 0:40)
+### Transition (start by 0:40)
+
 **[Screen 1 -  Additional info]**
 
 **[Screen 2 -  Finish statement - listen for reactions before prompting]**
 
 _Things to watch for:_
-- Transition, do they know when they’re “done,” and what to expect when they hit continue?
 
+- _Transition, do they know when they’re “done,” and what to expect when they hit continue?_
+  
 **[Screen 3 - Completed - listen for reactions before prompting]**
 
 _Things to watch for:_
-- If they selected “Get records from my doctor,” do they see that a new form has appeared in their queue? (4142)
-- Let’s pause here for a minute. Imagine that you had to save your progress and step away. How would you describe what we’ve covered so far, and what might be coming next?
-- [If they don’t notice 4142] I’d like to draw your attention to this section of the screen, what do you think this is telling you?
-
+- _If they selected “Get records from my doctor,” do they see that a new form has appeared in their queue? (4142)_
+- _Let’s pause here for a minute. Imagine that you had to save your progress and step away. How would you describe what we’ve covered so far, and what might be coming next?_
+- _[If they don’t notice 4142] I’d like to draw your attention to this section of the screen, what do you think this is telling you?_
+  
 ## Post-Task Questions - 15 min (start by 1:00)
 
 We’re going to wrap up at this step in the process. Thanks for walking through those pages with us! We just have a few final reflection questions.
 
-**Support Messaging **
+**Support Messaging**
 - How did you feel about the information that appears in these blue boxes on each page?
 - Where in the form did you want support? What type of support would you be looking for at that moment?
 
@@ -297,7 +264,9 @@ We’re going to wrap up at this step in the process. Thanks for walking through
 ## Thank-You and Closing - 5 minutes 
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
 Thank you so much again, and enjoy the rest of your day!
 
 ##
@@ -307,6 +276,7 @@ Thank you so much again, and enjoy the rest of your day!
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Take some time to practice so it feels more comfortable.]
 
 **Exit Strategies**
+
 If we need to exit for any reason on our side consider the following exit strategies.  Please do not share personal information as it may create additional stress for all. 
 
 - Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
