@@ -125,6 +125,7 @@ we need to check if the frontend can use this as well, or if we need to also add
     - Submission threshold for errors: 169.88 submissions
   - Composite: **8.74 submissions**
 - Acceptable threshold of primary submission failures: **5 failures/44 submissions**
+- Time on average to reach threshold volume: **26.5 minutes**
 
   
 ## Proposed Release Plan for 1.0 (Veterans without existing IPF)
@@ -148,6 +149,9 @@ Approvals for launch:
 #### Day 0:
  - 11am EDT <individual> Toggles Feature ON for all Users*
  - Noon EDT <individual> Toggle Feature OFF for all Users
+ - Try to meet threshold volume: **44 submissions**
+ - Average time to meet threshold volume: **26.5 minutes**
+ - Determine if composite error volume deviates significantly from **5 `400` and/or `500` errors** once threshold is met
 
 #### Day 0-A:
  - Monitor submissions over next ? days. 
