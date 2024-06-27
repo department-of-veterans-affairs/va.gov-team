@@ -81,326 +81,147 @@ Tyler: Okay, yeah, that's really interesting. And then when you're talking about
 
 > P10: Printing to paper? No. Digitally printing. Yes, so we have everything is digital document management system. So I can pull something up in Ask VA digitally printed directly to a student's office record at the school.
 
-00:05:55.000 --> 00:05:56.000
-Yeah.
+Tyler: Yeah. How do you do that? Like, can you describe to me exactly how you're putting it in that file?
 
-00:05:56.000 --> 00:06:00.000
-How do you do that? Like, can you describe it to me in like, plain English or whatever, exactly how you're like.
+> P10: Yeah, this is where AVA isn't great because like if I have a multi-layer conversation going on a case, there's not a good way to open it all so I would actually have to cut and paste like, here's what I originally sent. Here's what the 1st response was. I would actually pull that out piece by piece, put it in the Word document. And then we have an image, what's called our image now printer, spatially screen scraping and then putting it directly into the student's file.
 
-00:06:00.000 --> 00:06:01.000
-Putting it in that file.
+Tyler: Got it. Okay, that's super helpful. So what you ideally want is to be able to see like that conversation. Maybe, like, in what order would that be?
 
-00:06:01.000 --> 00:06:20.000
-Yeah, for this is this is This is where. Ava isn't great because like if I have a multi-layer conversation going on on a case There's not a good way to open it all so I would actually have to cut and paste like Here's what I originally sent.
+> P10: Ideally. Original response and then the chain under it. I mean in this day and age we're so used to emails being the oldest is at the bottom and then it builds up. That would be okay too. But I would rather it be and feel more like an email where I'm seeing the entire conversation and one thing rather than clicking through piece by piece.
 
-00:06:20.000 --> 00:06:28.000
-Here's what the 1st response was. Here's my response. I would actually pull that out piece by piece, put it in the Word document.
+Tyler: For sure, that makes sense. Yeah, I mean that whole added step of like pulling everything into a Word document and all of that.
 
-00:06:28.000 --> 00:06:36.000
-And then we have an image, what's called our image now printer, spatially screen scraping and then putting it directly into the student's file.
+> P10: It's clunky.
 
-00:06:36.000 --> 00:06:44.000
-Got it. Okay, that's super helpful. So what you ideally want is to be able to see like that conversation.
+Tyler: Seems like, yeah, for sure. How many, like how often are you submitting inquiries? Maybe like setting aside work study for a moment.
 
-00:06:44.000 --> 00:06:57.000
-Maybe like in what order would that be?
+> P10: I think I even had it open earlier. Should I look? You wanna, or do you want me to guess? Oh, maybe it closed on me.
 
-00:06:57.000 --> 00:06:58.000
-Yeah.
+Tyler: Yeah, if you have it open, if not, no worries.
 
-00:06:58.000 --> 00:07:04.000
-Ideally. Original response and then the chain under it. I mean in this day and age we're so used to emails being the oldest is at the bottom and then it builds up.
+> P10: I still have it, it's kicked me out. Well, this is where I even felt funny because when xx had asked for volunteers, I'm like, I don't use it that much. So maybe I'm not the right person, but.
 
-00:07:04.000 --> 00:07:14.000
-That would be okay too. But I would rather it be and feel more like an email where I'm seeing the entire conversation and one thing rather than clicking through piece by piece.
+Tyler: That's okay.
 
-00:07:14.000 --> 00:07:21.000
-For sure, that makes sense. Yeah, I mean that whole added step of like pulling everything into a Word document and all of that.
+> P10: No, it kicked me out.
 
-00:07:21.000 --> 00:07:22.000
-It's clunky.
+Tyler: Okay, so you're not using it that much for like general questions and stuff, but then for work study, like do you have work study students at the moment that you would be submitting like kind of on a regular basis?
 
-00:07:22.000 --> 00:07:23.000
-Seems like, yeah, for sure. How many, like how often are you submitting inquiries?
+> P10: I don't have any in the summer, but you know, thinking about spring semester. So, there's a chunks that has to happen before the semester starts. So applications. Brand new contract for contract extensions. Time sheets can be submitted every 2 weeks.
 
-00:07:23.000 --> 00:07:35.000
-Maybe like setting aside work study for a moment.
+> P10: That's what VA asks us to do. And then, so that's kind of constant throughout the semester. And then kind of we'll start the process again prior to fall semester. I'll be hiring again. I'll have one returning. I'll be hiring at least 2 more. So sending applications, getting contracts back. Kind of cyclical. For a bigger school it would be more volume but I keep it pretty simple here.
 
-00:07:35.000 --> 00:07:36.000
-Sure, yeah, you're welcome to.
+Tyler: Yeah, that makes sense. That still sounds like a fair amount of like experience with going in, uploading your files and all that sort of stuff.
 
-00:07:36.000 --> 00:07:37.000
-I think I even had it open earlier. Should I look? You wanna, or do you wanna guess?
+Tyler: Are you usually doing this all on your computer, would you ever use, Ask VA on your phone?
 
-00:07:37.000 --> 00:07:38.000
-Oh, maybe it closed on me.
+> P10: I don't think so.
 
-00:07:38.000 --> 00:07:42.000
-Yeah.
+Tyler: Okay. Okay, that makes sense. And I just wanna clarify as well, are you also a Veteran yourself?
 
-00:07:42.000 --> 00:07:43.000
-Yeah, if you have it open, if not, no worries.
+> P10: I am not.
 
-00:07:43.000 --> 00:07:49.000
-I still have a It's in kick me out. Well, this is where I even felt funny because when Mar had asked for volunteers.
+Tyler: Okay, cool. Well, we're gonna talk a little bit more about all that kind of background, but I think we should get set up with this prototype.
 
-00:07:49.000 --> 00:07:53.000
-I'm like, I don't use it that much. So maybe I'm not the right person, but.
+Tyler: So I'm gonna send you a link in this, chat on zoom. And I'll send it just now.
 
-00:07:53.000 --> 00:07:54.000
-That's okay.
+Tyler: And then once you have that on your end, if you can just open that up and let me know once it's loaded.
 
-00:07:54.000 --> 00:07:56.000
-No, it kicked me out.
+> P10: Oh, sorry. So many windows open. It's thinking.
 
-00:07:56.000 --> 00:08:09.000
-Okay, so you're not using it that much for like general questions and stuff, but then for work study, like do you have work study students at the moment that you would be submitting like kind of on a regular basis?
+Tyler: Okay. Yeah, it might take a minute to load.
 
-00:08:09.000 --> 00:08:10.000
-Okay.
+> P10: Okay, it looks like itself. Oh, it's pretty. It looks like the other sites.
 
-00:08:10.000 --> 00:08:20.000
-I don't have any in the summer, but you know, thinking about spring semester. So, There's a chunks that has to happen before the semester starts.
+Tyler: Awesome. So now we can see that it looks kind of familiar. Why don't we, we're gonna have you share your screen on zoom if that's okay.
 
-00:08:20.000 --> 00:08:27.000
-So applications. Brand new contract for contract extensions. Time sheets can be submitted every 2 weeks.
+> P10: Yep.
 
-00:08:27.000 --> 00:08:34.000
-That's what VA asks us to do. And then, so that's kind of constant throughout the semester.
+Tyler: Have you done that recently? Okay. I'll give you a minute to do that. Perfect.
 
-00:08:34.000 --> 00:08:41.000
-And then kind of we'll start the process again prior to fall semester. I'll be hiring again.
+Tyler: It looks like I can see your screen now. So it says Ask VA. And the 1st thing you noticed was you said it looks like the other sites.
 
-00:08:41.000 --> 00:08:47.000
-I'll have one returning. I'll be hiring at least 2 more. So sending applications, getting contracts back.
+### Dashboard
 
-00:08:47.000 --> 00:08:53.000
-Kind of cyclical. For a bigger school it would be more volume but I keep it pretty simple here.
+> P10: Yeah, like this heading. I'm familiar with it.
 
-00:08:53.000 --> 00:09:02.000
-Yeah, that makes sense. That still sounds like a fair amount of like experience with going in, uploading your files and all that sort of stuff.
+Tyler: And you're talking about other VA sites that you've used before?
 
-00:09:02.000 --> 00:09:09.000
-Usually doing this all on your computer, would you ever use, ASCII on your phone?
+> P10: Yeah.
 
-00:09:09.000 --> 00:09:10.000
-I don't think so.
+Tyler: Okay, awesome.
 
-00:09:10.000 --> 00:09:18.000
-Okay. Okay, that makes sense. And I just wanna clarify as well, are you also a veteran yourself?
+Tyler: So for this session, we're gonna pretend like you're signed into your account. So it says up at the top it says Jordan, we're gonna pretend like that says [P10].
 
-00:09:18.000 --> 00:09:19.000
-I am not.
+> P10: I'm Jordan. For the day. Yep.
 
-00:09:19.000 --> 00:09:26.000
-Okay, cool. Well, we're gonna talk a little bit more about all that kind of like background, but I think we should get set up with this prototype.
+Tyler: Yeah, yeah, or your Jordan. And these are, like you've just signed in to Ask VA.
 
-00:09:26.000 --> 00:09:37.000
-So I'm gonna send you a link in this, chat on zoom. And I'll send it just now.
+Tyler: So this is, you know, post sign in. And this is where you land. So we're not going to click on anything yet but you're totally welcome to scroll around and I'd love for you to just start by telling me what you're noticing.
 
-00:09:37.000 --> 00:09:48.000
-And then once you have that on your end, if you can just open that up and let me know once it's loaded.
+> P10: Well, like I said, the 1st thing is it's mirroring the look and feel of other places that I would navigate on VA. So I know it's legit.
 
-00:09:48.000 --> 00:09:56.000
-Oh, sorry.
+> P10: I like this. The newest to oldest.
 
-00:09:56.000 --> 00:10:04.000
-So many windows open.
+> P10: For myself, when I log in it 1st goes to personal and I'm looking at 2 things that I accidentally submitted as personal.
 
-00:10:04.000 --> 00:10:05.000
-It's thinking.
+> P10: Is this grayed out or is it actually functional? Like I could switch to personal?
 
-00:10:05.000 --> 00:10:30.000
-Okay. Yeah, it might take a minute to load.
+Tyler: You can, yeah, you can click on that.
+ 
+> P10: I'm clicking on personal. Okay, so it's pretty easy to switch. Business.
 
-00:10:30.000 --> 00:10:35.000
-Okay, it looks like itself. Oh, it's pretty. It looks like the other sites.
+> P10: I mean, this looks more up to date, modern. I'm getting more used to things being shown at what do we call these cards?
 
-00:10:35.000 --> 00:10:42.000
-Awesome. So now we can see that it looks kind of familiar. Why don't we, we're gonna have you share your screen on zoom if that's okay.
+Tyler: Yeah.
 
-00:10:42.000 --> 00:10:43.000
-Yep.
+> P10: Cards as opposed to like just a long list of of things.
 
-00:10:43.000 --> 00:10:47.000
-Have you done that recently? Okay. I'll give you a minute to do that. Perfect.
+Tyler: Is that because, like when you say you're getting more used to it because you've seen it on VA websites or just like in this moment you're getting used to it?
 
-00:10:47.000 --> 00:10:59.000
-It looks like I can see your screen now. So it says Ask VA. And the 1st thing you noticed was you said it looks like the other sites.
+> P10: No, I think in general the software tools that I'm using, even like our, the overhaul of our college website is and like our the advising tool that we're using is no longer showing things in long lists. It's the card concept is becoming just more commonplace and I'm getting used to it and maybe even expecting things to show that way.
 
-00:10:59.000 --> 00:11:00.000
-Yeah, like this heading. I'm familiar with it.
+Tyler: Okay.
 
-00:11:00.000 --> 00:11:04.000
-So this and you're talking about other BA sites that you've used before. Okay, awesome.
+> P10: I like that I can see when it was submitted, who it was about.
 
-00:11:04.000 --> 00:11:10.000
-So for this session, we're gonna pretend like you're signed into your account. So it says up at the top it says Jordan, we're gonna pretend like that says Laurie.
+> P10: I have Ask VA up on the other screen too, so I'm kind of doing a comparison of what I'm seeing.
 
-00:11:10.000 --> 00:11:12.000
-I'm Jordan. For the day. Yep.
+Tyler: Awesome.
 
-00:11:12.000 --> 00:11:18.000
-Yeah, yeah, or your Jordan. And these are, like you've just signed in to SBA.
+> P10: But yeah, the card. I'm on my computer all day long so this is not like overwhelming to me like it's intuitive I would know what to do and how to navigate this.
 
-00:11:18.000 --> 00:11:30.000
-So this is, you know, post sign in. And this is where you land. So we're not going to click on anything yet but you're totally welcome to scroll around and I'd love for you to just start by telling me what you're noticing.
+Tyler: Yeah. Okay, awesome. Yeah, that was really helpful just hearing you like narrate things you're seeing.
 
-00:11:30.000 --> 00:11:36.000
-Well, like I said, the 1st thing is it's mirroring the look and feel of other places that I would navigate on VA.
+Tyler: So you notice like newest to oldest. We talked about the tabs and how, you know, usually you're seeing your personal tab 1st here, you're seeing your business tab first.
 
-00:11:36.000 --> 00:11:42.000
-So like I know it's legit.
+Tyler: And then let's look a little more closely at one of these cards. So if you could just like go through the card and tell me like what these different pieces of information are.
 
-00:11:42.000 --> 00:11:46.000
-I think. I like this.
+> P10: Yeah, so I would.
 
-00:11:46.000 --> 00:11:48.000
-The newest oldest.
+> P10: I would venture a guess that the [label] the top where says education and work study would have been things that I would have had to like select when I was submitting it, kind of like I do now there's like drop-down categorical like main subject overall subject. I suspect it's pre populated obviously.
 
-00:11:48.000 --> 00:12:03.000
-The newest to oldest. For myself, when I log in to see existing Okay, it 1st goes to personal and I'm looking at 2 things that I accidentally submitted as personal.
+> P10: This is probably like a subject line that Jordan would have typed. Yeah, and this looks like it was just submitted. It's still I would assume open being a smart new and no one has taken action on it.
 
-00:12:03.000 --> 00:12:06.000
-Is this great out or is it actually functional? Like I could switch to personal.
+> P10: And I would suspect that if I check details, I can see. Other items that I would have typed in there or the attachments that I set with it.
 
-00:12:06.000 --> 00:12:09.000
-You can, yeah, you can click on that.
+> P10: Did I get right?
 
-00:12:09.000 --> 00:12:16.000
-I'm clicking on personal. Okay, so it's pretty easy to switch.
+Tyler: Okay. Yeah, I mean, there's no, again, we're not testing you. I think that makes a lot of sense.
 
-00:12:16.000 --> 00:12:27.000
-Business. I mean, this looks more up to date, modern. I'm getting more used to things being shown at what do we call these cards?
+Tyler: Let's talk, so we talked about that 1st label, education benefits and you're remembering like when you usually submit, you have to choose like a category and that's probably what that is.
 
-00:12:27.000 --> 00:12:28.000
-Yeah.
+Tyler: That makes sense. And then the date you said this is auto populated, which also makes sense. What date do you think that would be like that big old date? What is that referring to?
 
-00:12:28.000 --> 00:12:33.000
-Cards as opposed to like just a long list of of things.
+> P10: [Date at the top is] when it was submitted. But a little bit of a question mark. Sure, yes, a little bit of a question mark because then there's multiple dates shown elsewhere.
 
-00:12:33.000 --> 00:12:46.000
-Is that because, like when you say you're getting more used to it because you've seen it on VA websites or just like in this moment you're getting used to it.
+Tyler: Okay, yeah, that makes sense. And then this next part you, this is like time card attached, Calum Scott. You were like, maybe this is the subject of like what I submitted. Which makes sense.
 
-00:12:46.000 --> 00:12:47.000
-Hmm.
+> P10: Yes.
 
-00:12:47.000 --> 00:12:59.000
-No, I think in general the software tools that I'm using, even like our, the overhaul of our college website is and like our The advising tool that we're using is no longer showing things in long lists.
+Tyler: When you submit time cards or any kind of like work study, things. How do you use those fields? Like you've got the subject, you've got the question, like how do you personally fill them out? Would it look similar to this or would it be a little bit different? Like do you use the student's name?
 
-00:12:59.000 --> 00:13:00.000
-Okay.
-
-00:13:00.000 --> 00:13:08.000
-It's the card concept is becoming just more commonplace and I'm getting used to it and maybe even expecting things to show that way.
-
-00:13:08.000 --> 00:13:09.000
-Okay.
-
-00:13:09.000 --> 00:13:18.000
-I like that I can see. Like when it was submitted, who it was about.
-
-00:13:18.000 --> 00:13:21.000
-I have SQA up on the others screen too, so I'm kind of doing a comparison of what I'm seeing.
-
-00:13:21.000 --> 00:13:24.000
-Awesome.
-
-00:13:24.000 --> 00:13:37.000
-But yeah, the car. It's in like for me. I'm on my computer all day long so this is not like overwhelming to me like it's intuitive I would know what to do and how to navigate this like right.
-
-00:13:37.000 --> 00:13:38.000
-Yep.
-
-00:13:38.000 --> 00:13:44.000
-Yeah. Okay, awesome. Yeah, that was really helpful just hearing you like narrate things you're seeing.
-
-00:13:44.000 --> 00:13:54.000
-So you notice like newest to oldest. We talked about the tabs and how, you know, usually you're seeing your personal tab 1st here, you're seeing your business tab first.st
-
-00:13:54.000 --> 00:14:08.000
-And then let's look a little more closely at one of these cards. So. What's, if you could just like go through the card and tell me like what these different pieces of information are.
-
-00:14:08.000 --> 00:14:13.000
-Yeah, so I would.
-
-00:14:13.000 --> 00:14:32.000
-I would venture a guess that the what's Hi, ated at the top where says educational work study would have been things that I would have had to like select when I was submitting it kind of like I do now there's like drop-down categorical like main subject overall subject.
-
-00:14:32.000 --> 00:14:41.000
-I suspect. It's pre populated obviously. This is probably like a subject line that Jordan.
-
-00:14:41.000 --> 00:14:52.000
-I Jordan would have typed. Yeah, and this looks like it was just submitted. It's still I would assume open being a smart new and no one has taken action on it.
-
-00:14:52.000 --> 00:15:02.000
-And I would suspect that if I check details, I can see. Other items that I would have typed in there or the attachments that I set with it.
-
-00:15:02.000 --> 00:15:03.000
-Did I get right?
-
-00:15:03.000 --> 00:15:14.000
-Okay. Yeah, I mean, there's no, again, we're not testing you.
-
-00:15:14.000 --> 00:15:15.000
-Yep.
-
-00:15:15.000 --> 00:15:16.000
-I think that makes a lot of sense. Let's talk, so we talked about that 1st label, education benefits and you're remembering like when you usually submit, you have to choose like a category and that's probably what that is.
-
-00:15:16.000 --> 00:15:29.000
-That makes sense. And then the date you said this is auto populated, which also makes sense. What date do you think that would be like that big old date?
-
-00:15:29.000 --> 00:15:30.000
-Okay.
-
-00:15:30.000 --> 00:15:33.000
-What is that referring to?
-
-00:15:33.000 --> 00:15:35.000
-When it was submitted.
-
-00:15:35.000 --> 00:15:43.000
-But a little bit of a question mark.
-
-00:15:43.000 --> 00:15:48.000
-Sure, yes, a little bit of a question mark because then there's multiple dates shown elsewhere.
-
-00:15:48.000 --> 00:15:55.000
-Okay, yeah, that makes sense. And then this next part you, this is like time card attached, Calum Scott.
-
-00:15:55.000 --> 00:15:56.000
-Yep.
-
-00:15:56.000 --> 00:16:02.000
-You were like, maybe this is the subject of like what I. Submitted. Which makes sense.
-
-00:16:02.000 --> 00:16:03.000
-Yes.
-
-00:16:03.000 --> 00:16:13.000
-When you submit time cards or any kind of like work study, things. How do you use those fields?
-
-00:16:13.000 --> 00:16:18.000
-Like you've got the subject, you've got the question, like how do you personally fill them out?
-
-00:16:18.000 --> 00:16:20.000
-Would it look similar to this or would it be a little bit different? Like do you use the student's name?
-
-00:16:20.000 --> 00:16:29.000
-Okay. Yes, for my own tracking purposes, I would put. At least their last name, in part of the subject.
-
-00:16:29.000 --> 00:16:30.000
-Huh.
-
-00:16:30.000 --> 00:16:35.000
-I mean, for submitting a time sheet, it's pretty quick, cause it's just like last name.
-
-00:16:35.000 --> 00:16:36.000
-I might include or the word like timesheet or time card. I might put like the month and date on there just for my own purposes.
-
-00:16:36.000 --> 00:16:53.000
-So I know when I'm submitting it. For non work study things. I mean, I'm typing out a paragraph or 2 like full sentences.
+> P10: Yes, for my own tracking purposes, I would put at least their last name, in part of the subject. I mean, for submitting a time sheet, it's pretty quick, cause it's just like last name. I might include or the word like timesheet or time card. I might put like the month and date on there just for my own purposes. So I know when I'm submitting it. For non work study things. I mean, I'm typing out a paragraph or 2 like full sentences.
 
 00:16:53.000 --> 00:16:57.000
 So that's.
