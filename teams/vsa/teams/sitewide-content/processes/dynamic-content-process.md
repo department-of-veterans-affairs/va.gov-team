@@ -21,7 +21,7 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 |Owner | Task|
 --|--
 | Product team | Open [Sitewide Content, Accessibility, and IA Intake Form issue ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) to describe the project, and notify team in #sitewide-content-ia with issue link. **Include any timing requirements/goals**, based on full launch to 100% of users. |
-| Sitewide CAIA team & Product team | The product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-steps). The teams discuss what content to show readers when the feature toggle is on and what content to show readers when the feature toggle is off. |
+| Sitewide CAIA team & Product team | The product team works with the Sitewide CAIA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-process-steps). The teams discuss what content to show readers when the feature toggle is on and what content to show readers when the feature toggle is off. |
 | Sitewide CAIA team | Provide final copy via the issue. If different content should appear in the widget when the feature toggle is off, Sitewide CAIA notes this. |
 | Product team | Create a React widget in vets-website for the dynamic content. |
 | Product team | Create a feature toggle (Flipper) in vets-api (to use in vets-websites) to control the display of content. </br>**Note:** The product team is responsible for creating **and** monitoring the feature toggle.<br> [Read documentation on feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide) |
@@ -37,9 +37,7 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 | Sitewide CAIA team | Publish page. Sitewide CAIA team and Product team validate that CTA action link on live, updated page continues to point to correct place. |
 | Product team | Deprecate the flipper / remove related code. |
 
-## Content design steps
-
-Process steps 
+## Content design process steps
 
 * Identify the audience
 * Identify the purpose of the react widget content
