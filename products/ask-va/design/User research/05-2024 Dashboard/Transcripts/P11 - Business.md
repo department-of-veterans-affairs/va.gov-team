@@ -9,6 +9,7 @@ Jump to:
 - [Warm up](#warm-up)
 - [Dashboard](#dashboard)
 - [Question details](#question-details)
+- [Form](#form)
 - [Cool down](#cool-down)
 
 ### Warm up
@@ -383,742 +384,279 @@ Tyler: Right, okay. So a couple things here. One is you very quickly scroll down
 
 > P11: Yeah, because right now you have to click the response number and then click the reply. It's just a lot clicking. So at least with this is right here. Open up where you'd be able to see it.
 
-> P11: It may be easier to put the conversation above the center reply. That way it's right there. And then if you need to send a reply, you can. Yeah, especially because it says it's been closed.
+> P11: It may be easier to put the conversation above the center reply. That way it's right there. And then if you need to send a reply, you can. Yeah, especially because it says it's been closed. So like that needs to be above the reply body.
 
-00:36:15.000 --> 00:36:16.000
-So like that needs to be above the reply body.
+Tyler: Yeah. Right. Yeah, I can totally see that and then you also yeah you clued into like the text which you said looked pretty familiar kind of like what you're used to getting from them but you're noticing like it says the incident been closed so I probably can't reply so It's a little bit confusing when it says send a reply.
 
-00:36:16.000 --> 00:36:36.000
-Yeah. Right. Yeah, I can totally see that and then you also yeah you clued into like the text which you said looked pretty familiar kind of like what you're used to getting from them but you're noticing like it says the incident been closed so I probably can't reply so It's a little bit confusing when it says send a reply.
+Tyler: Yeah. And so usually when you need to, if you need to follow up on something like the VA closes it and you're like, wait, no. Do you just submit a new inquiry?
 
-00:36:36.000 --> 00:36:43.000
-Yeah. And so usually when you need to, if you need to follow up on something like the VI closes it and you're like, wait, no.
+> P11: Yeah, we have to submit a new inquiry. That's why I used to do the reference number. I was like, please refer back to this. Reference number for them to look at the old email.
 
-00:36:43.000 --> 00:36:45.000
-Do you just submit a new inquiry?
+> P11: But yeah, they'll close it completely. You'll have to submit a new inquiry. Asking for a response or asking for the reason why it was closed or if they can research it a little further. Because you have different information than they have.
 
-00:36:45.000 --> 00:36:49.000
-Yeah, we have to submit a new inquiry. That's why I used to do the reference number.
+Tyler: Okay, yeah. I think that makes sense. It sounds a little bit complicated.
 
-00:36:49.000 --> 00:36:52.000
-I was like, please refer back to this. Reference number for them to look at the old email.
+> P11: Yeah, so that's especially where that reference number we will like, please refer back to the reference number. We will say please refer back to the reference number of this ticket. Yeah.
 
-00:36:52.000 --> 00:36:55.000
-Hmm.
+Tyler: Yeah. Okay. Okay, well that, that's really helpful. I think you've kind of answered most of my questions for this in terms of like the dashboard.
 
-00:36:55.000 --> 00:37:08.000
-But yeah, they'll close it completely. You'll have to submit a new inquiry. Acting for a response or asking for the reason why it was closed or if they can research it a little further.
+Tyler: Anything else you want to share with me about this part of the process or not the submitting part but kind of what happens after that.
 
-00:37:08.000 --> 00:37:13.000
-Because you have different information than they have so
+> P11: Yeah, this kind of response with all this information. It's a lot, but like if you're an immediate danger, I get they have to put that. Is our commitment so like this whole thing is a lot to read sometimes it'll be nice if it's bold underneath where the inquiry is and then they can put like Ask VA and then put their little spiel.
 
-00:37:13.000 --> 00:37:18.000
-Okay, yeah. I think that makes sense. It sounds a little bit. Complicated.
+> P11: But yeah, this is the typical response.
 
-00:37:18.000 --> 00:37:27.000
-Yeah, so that's why that. Yeah, so that's especially where that breakfast number we will like, please refer back to the reference number.
+Tyler: Yeah, that makes sense. And we've gotten really similar feedback even from Veterans about it being like, okay, I know this is information you're supposed to tell me every time, but I want it to be more clear like where that starts and ends. 
 
-00:37:27.000 --> 00:37:30.000
-We will I please refer back to the reference number of this ticket. Yeah.
+Tyler: 1 more question on this page for me that I just thought about is you you were talking about how like for some work study things you'll have to like I'm gonna say print but it's like digitally saving the PDF to your folder and for pretty much all the SCO inquiries you'd want to print that out put it in the folder how would you print this page?
 
-00:37:30.000 --> 00:37:37.000
-Yeah. Okay. Okay, well that, that's really helpful. I think you've kind of answered most of my questions for this in terms of like the dashboard.
+> P11: That's a good question. Since I'm more technology based, I know how to do a print screen and be able to do it for the older SCOs. Yeah, we have to tell them how to copy it and paste it to a Microsoft Word. So then they're able to print it as a PDF.
 
-00:37:37.000 --> 00:37:48.000
-Anything else you want to share with me about this part of the process or not the submitting part but kind of what happens after that.
+> P11: So it just depends on the person's doing it as far as being more technology based. It'd be great if there's a print button.
 
-00:37:48.000 --> 00:37:54.000
-Not usually this is
+> P11: Or at least somewhere where you can. Send it to yourself because right now you don't even get this in the email. You have to log back into Ask VA. To get the, to get the response. They like your, your incident has been closed or it's been solved. Please log in to see the response. So then you have the law back in to activate to get the response.
 
-00:37:54.000 --> 00:37:59.000
-Yeah, this kind of response with all this information.
+> P11: And so. For me in order for me to keep this, yeah, I had to do a print screen and then print from our PDF.
 
-00:37:59.000 --> 00:38:05.000
-It's a lot, but like if you're an immediate danger, I get they have to put that.
+> P11: And some SCOs who are not technically friendly. Yeah, we had to show them how to copy it and put it on Microsoft Word and print it that way.
 
-00:38:05.000 --> 00:38:19.000
-Is our commitment so like this whole thing is a lot to read sometimes it'll be nice if it's gold underneath where the inquiry is and then they can put like XVA and then put their little spill.
+Tyler: Okay, that makes sense. And I can see how that would be useful then to have it seem pretty obvious how to print.
 
-00:38:19.000 --> 00:38:20.000
-Do you know where in that?
+### Form
 
-00:38:20.000 --> 00:38:22.000
-Hmm.
+Tyler: We have about 15 min and I kinda wanna shift gears. This is a little bit like unplanned, but, since we have the time, I'm thinking about getting your feedback on the actual form. So the actual like submission. So if If you want, you can keep sharing your screen and then, I'm just gonna pull up. The the form prototype if that's okay with you.
 
-00:38:22.000 --> 00:38:26.000
-But yeah, this is the typical response.
+> P11: Okay.
 
-00:38:26.000 --> 00:38:39.000
-Yeah, that makes sense. And we've gotten really similar feedback even from veterans about it being like, okay, I know this is information you're supposed to tell me every time, but I want it to be more clear like where that.
+Tyler: Okay. It's just gonna take me a couple of moments to find.
 
-00:38:39.000 --> 00:38:40.000
-Okay.
+Tyler: Alright, so I'm gonna send this in the chat and then you can. Pull this up on your screen. You can close the other one if you like or whatever you want to do.
 
-00:38:40.000 --> 00:38:56.000
-Starts and ends. 1 1 more question on this page for me that I just thought about is you you were talking about how like for some work study things you'll you'll have to like I'm gonna say print but it's like digitally saving the PDF to your folder and for pretty much all the SEO inquiries you'd want to print that out put it in the
+Tyler: Alright, so same thing where we're imagining or signed in. We're just gonna start by clicking ask a new question. We already kind of talked about that link and we're going to pretend like you're submitting an inquiry now.
 
-00:38:56.000 --> 00:39:00.000
-folder how would you print this page.
+Tyler: And as we do this, just talk me through things you're noticing. Or you're thinking about as we start to submit this inquiry.
 
-00:39:00.000 --> 00:39:12.000
-That's a good question. Since I'm more technology based, I know how to do a pitch screen and be able to do it for the older SEOs.
+> P11: Number one. Trying to figure out where Ask VA is on the VA website. That is very, so there's a way we can get that clearer where they can contact us or trying to get to this is it's very complicated on the VA website.
 
-00:39:12.000 --> 00:39:20.000
-Yeah, we have to tell them how to copy it and paste it to a Microsoft Word. So then they're able to print it as a PDF.
+Tyler: Yeah, and you said contact us. Do you think that would be like a logical place for this to be?
 
-00:39:20.000 --> 00:39:28.000
-So it just depends on the person's doing it as far as being more technology based. It'd be great if there's a print button.
+> P11: Yeah, contact us or something or somewhere up here where you know, where you can click it. Because we tell students, oh, do Ask VA and they're like, where is it on the website? We'll be like, oh, hold on.
 
-00:39:28.000 --> 00:39:37.000
-Yeah. Or at least somewhere where you can. Send it to yourself because right now you don't even get this in the email.
+> P11: So as far as an SCO for business purposes. This part, we wouldn't need to know [this personal information]. But for personal for family members, yes. And then if you need to update your personal information, yeah, that right there would be great for them to update it.
 
-00:39:37.000 --> 00:39:46.000
-You have to log back into XVA. To get the, to get the response. They like your, your incident has been closed or it's been solved.
+> P11: So this is what I mean by the category. It'll be education benefits.
 
-00:39:46.000 --> 00:39:52.000
-Please log in to see the response. So then you have the law back in to activate to get the response.
+Tyler: For your role and you always using education benefits?
 
-00:39:52.000 --> 00:39:53.000
-Right.
+> P11: For my roles as SCO, yes. 
 
-00:39:53.000 --> 00:39:58.000
-And so. For me in order for me to keep this, yeah, I had to do a print screen and then print from our PDF.
+Tyler: And then when you're helping family members, it might be a bunch of different. Okay.
 
-00:39:58.000 --> 00:39:59.000
-Okay.
+> P11: Right. And then underneath the category here, so this is where it can get a little confusing. Because you see how these chapters are here, but for some reason, so where's the benefits for survivors and dependence? There's nothing showing 35 beside it. You see how this has chapter 31 chapter 16, this one doesn't have 35 decide.  Oh, this can get a little complicated for students because they don't know exactly what it's called.
 
-00:39:59.000 --> 00:40:07.000
-Of some SEOs who are not technically friendly. Yeah, we had to show them how to copy it and put it on Microsoft Word and print it that way.
+Tyler: Okay, and y'all are using the chapters then? To define that?
 
-00:40:07.000 --> 00:40:15.000
-Okay, that makes sense. And I can see how that would be useful then to have it seem pretty obvious how to print.
+> P11: No. Okay.
 
-00:40:15.000 --> 00:40:28.000
-We have about 15 min and I kinda wanna shift gears. This is a little bit like unplanned, but, since we have the time, I'm thinking about getting your feedback on the actual form.
+Tyler: Okay.
 
-00:40:28.000 --> 00:40:37.000
-So the actual like submission. So if If you want, you can keep sharing your screen and then, I'm just gonna pull up.
+> P11: I usually do school certified officials. This one, I'm connected to the VA through my work.
 
-00:40:37.000 --> 00:40:40.000
-The the form prototype if that's okay with you.
+> P11: And then again, SCO. So if I was a work study, I would click the work study site.
 
-00:40:40.000 --> 00:40:42.000
-This one.
+Tyler: Okay. Okay, so depending on the type of submission you change your role.
 
-00:40:42.000 --> 00:41:02.000
-Okay. Just gonna take me a couple of minutes to find.
+Tyler: Okay, and now this is where it's gonna get a little funny with the prototype. So you might try and click on something and I'll have to guide you to what the prototype wants you to click, but tell me what we're seeing here.
 
-00:41:02.000 --> 00:41:07.000
-Alright, so I'm gonna send this in the chat and then you can. Pull this up on your screen.
+> P11: Okay, so now it's asking for the school facility in your profile. So each school has their own facility code. With their name is associated with their name. So it's actually, you, you want to use the school facility in your profile.
 
-00:41:07.000 --> 00:41:24.000
-You can close the other one if you like or whatever you want to do.
+> P11: Huh.
 
-00:41:24.000 --> 00:41:32.000
-Alright, so Same thing where we're imagining or signed in. We're just gonna start by clicking ask a new question.
+> P11: So might as well be correct output yes. But it never gave me an option to choose a different one. So this is new.
 
-00:41:32.000 --> 00:41:37.000
-We already kind of talked about that link and we're going to pretend like you're submitting an inquiry now.
+> P11: For that facility code, do you use the facility? Like if it said, let's say we didn't know what your school facility was, we forgot or something and you had to re put it in would you use this facility code or would you like type in the name of the school?
 
-00:41:37.000 --> 00:41:38.000
-Okay.
+> P11: We would use the facility code. Okay, the facility is what associated with the school as far as the main is main branch.
 
-00:41:38.000 --> 00:41:51.000
-And as we do this, just talk me through things you're noticing. Or you're thinking about as we start to submit this inquiry.
+> P11: It's the same thing what we call the SCO hotline in order for them to verify us the access for our facility code in name of the school. So we were getting the facility code.
 
-00:41:51.000 --> 00:41:52.000
-Hmm.
+Tyler: Okay. Okay, that makes sense. So here, and I can't remember. I remember you said you had like satellite campuses, but do you have one school? Would it be like one facility? Okay.
 
-00:41:52.000 --> 00:42:05.000
-Number one. Trying to figure out where XP is on the VA website. That is very so there's a way we can get that clearer where they can contact us or trying to get to this is it's very complicated on the VA website.
+> P11: Yeah, we have we have one. Exactly. We have one main branch. And then we have 6 extension branches. So we would use the main one.
 
-00:42:05.000 --> 00:42:10.000
-Yeah, and you said contact us. Do you think that would be like a logical place for this to be?
+Tyler: Okay. Okay, gotcha. So for this, it would probably be like your school facility is the one in your profile because you always have the same one and you would just click yes.
 
-00:42:10.000 --> 00:42:17.000
-Yeah, contact us or something or somewhere up here where you know, where you can click it.
+> P11: Yeah. Yeah.
 
-00:42:17.000 --> 00:42:23.000
-Because we tell students, oh, do XBA and they're like, where is it on the website?
+Tyler: Okay, so let's pretend like you have 2 schools and you're like, okay, this is my one school, but I actually am submitting for a different school.
 
-00:42:23.000 --> 00:42:24.000
-Right.
+> P11: Then I would choose no, I would choose a different option. Yeah, we do have some schools that have 2 main branches that the SCO, charge up all of it.
 
-00:42:24.000 --> 00:42:33.000
-We'll be like, oh, hold on. So we have to do it ourselves. So as far as an SEO for business purposes.
+> P11: So yes, they will probably choose the different one. So when this question comes up, it actually need to actually list the facility code because it right now just says the school.
 
-00:42:33.000 --> 00:42:40.000
-This part, we wouldn't need to know. But for personal for family members, yes.
+Tyler: Yeah, that makes sense.
 
-00:42:40.000 --> 00:42:48.000
-And then if you need to update your personal information, yeah, that, that, that right there would be great for them to update it.
+> P11: So if we actually had the facility code beside the school so you know you're choosing the right one. That would be great.
 
-00:42:48.000 --> 00:42:57.000
-So this is what I mean by the category. It'll be education benefits.
+Tyler: Yeah. I could see that. So rather than like having you answer this question. It would just show you like the options to your options to choose from.
 
-00:42:57.000 --> 00:43:01.000
-For your role and you always using education benefits?
+> P11: Right, as I said, yeah, you can choose you can do that or like where it just says school here just put the facility code beside it but they know they're choosing the right one or if they're going to choose that one or if they need to choose a different one.
 
-00:43:01.000 --> 00:43:03.000
-For my roles at SEO, yes. Thanks.
+Tyler: Yeah, okay. So for this for the prototype, we're gonna click on no and we'll pretend like you need to add a different school. And then what are we seeing here?
 
-00:43:03.000 --> 00:43:07.000
-And then when you're helping family members, it might be a bunch of different. Okay.
+> P11: Is this? Is this a facility code?
 
-00:43:07.000 --> 00:43:17.000
-Right. And then underneath the category here, so this is where it can get a little confusing.
+Tyler: Is that feeling unclear?
 
-00:43:17.000 --> 00:43:20.000
-Yeah.
+> P11: Yeah, because it's asking for your school state or facility. Those that the school itself or is that the code?
 
-00:43:20.000 --> 00:43:21.000
-Yeah.
+Tyler: The reason I'm not answering is because I I'm trying to understand what's confusing and I can see how this is not clear but describe that to me.
 
-00:43:21.000 --> 00:43:24.000
-Because you see how these chapters are here, but for some reason, so where's his benefit for survivors and dependence?
+> P11: Okay, so it was actually for the school state. We have schools, SCOs that have different, represent schools in different states. Or it says school facilities. So school facility, are they talking about the code that VA signed to the school or are they talking about the name?
 
-00:43:24.000 --> 00:43:27.000
-Yeah.
+> P11: Of the school facility. So that's this is just the work facility. Yes, the facility code is the code that VA assigns to each school.
 
-00:43:27.000 --> 00:43:33.000
-Okay. Yeah.
+> P11: And then if you just put school facilities. I'm thinking the name, not the code. So that's why I was just wondering which one it was.
 
-00:43:33.000 --> 00:43:34.000
-Okay.
+Tyler: Yeah, so that feels like it needs to be more descriptive. Yeah, I could see that.
 
-00:43:34.000 --> 00:43:38.000
-There's nothing showing 35 beside it. You see how this has chapter 31 chapter 16 7 this one doesn't have 35 decided Oh, this can get a little complicated for students because they don't know exactly what it's called.
+> P11: Right.
 
-00:43:38.000 --> 00:43:41.000
-Okay, and y'all are using the chapters then? To define that? No. Okay.
+> P11: And why is it asking like state or facility? That's what I'm wondering because it doesn't just say what's your facility code.
 
-00:43:41.000 --> 00:43:46.000
-No, we are not. I usually do school certified officials.
+Tyler: Okay, yeah, I can see why that's confusing so
 
-00:43:46.000 --> 00:43:48.000
-Right. Okay.
+> P11: Oh, so even with the school state, as I said, we have SCOs who have schools for instance, they have schools everywhere. So yeah, that one could be a little confusing.
 
-00:43:48.000 --> 00:43:54.000
-And then.
+Tyler: Yeah, for sure. I can see that. Let's click on school facility and then we can kinda see if that answers or questions or makes us more confused. And so we won't be able to type here, but just talk me through this.
 
-00:43:54.000 --> 00:43:57.000
-This one, I'm connected to the V. Through my work.
+> P11: Yeah, so they're asking for the name. For the school facility is the name. It would make sense.
 
-00:43:57.000 --> 00:44:02.000
-Okay, cool.
+> P11: If I was them, so much easier if they would put school facility code.
 
-00:44:02.000 --> 00:44:11.000
-And then again, SEO. So if I was a workst, I would click the Work City site.
+> P11: It's the SCOs up here asking questions? They know their school facility code.
 
-00:44:11.000 --> 00:44:12.000
-Right.
+Tyler: Okay, yeah. Especially since you're like, you said you're like the president of the school certifying official association. So you you feel like most or all school certifying officials are going to know their facility code?
 
-00:44:12.000 --> 00:44:16.000
-Okay. Okay, so depending on the type of submission you change your role. Okay, and now this is where it's gonna get a little funny with the prototype.
+> P11: Yeah, because you can't even use the [system] until you get assigned a facility code. So wouldn't know their facility code.
 
-00:44:16.000 --> 00:44:20.000
-So you might try and click on something and I'll have to guide you to what the prototype wants you to click, but tell me what we're seeing here.
+> P11: Even if they search by the school, let's say my school is up here, in [school].
 
-00:44:20.000 --> 00:44:28.000
-Okay, so now exactly for the school facility in your profile. So each school has their own facility code.
+> P11: But again, all 6 campuses are is listed. So then there's we have to make sure we do our main one. But if you just ask for the facility code and then have that facility code, just pull up the school name.
 
-00:44:28.000 --> 00:44:38.000
-With their name is associated with their name. So it's actually, you, you want to use the school facility in your profile.
+> P11: It's be a lot easier.
 
-00:44:38.000 --> 00:44:39.000
-Huh.
+Tyler: Okay, so it's a lot easier to like get the specific correct facility if you're using the code. Yeah, I can see that. Okay.
 
-00:44:39.000 --> 00:44:43.000
-So might as well be correct output yes. But it never gave me an option to choose a different one.
+> P11: Yeah, yeah. As a even in programming. I'll be a lot easier because then they could just pull it up directly 5 digits or whatever else but for programming it's a lot easier.
 
-00:44:43.000 --> 00:44:44.000
-So this is new.
+Tyler: Yeah, I can see that. Okay. Well, let's if you click on the where your mouse is right now, we'll kind of pretend like we type something in and search. And then you'll get to see what would happen. So there's no school facility codes listed here, which is obviously not meeting your expectation.
 
-00:44:44.000 --> 00:45:00.000
-For that facility code, do you use the facility? Like if it said, let's say we didn't know what your school facility was, we forgot or something and you had to re put it in would you use this facility code or would you like type in the name of the school?
+> P11: Right.
 
-00:45:00.000 --> 00:45:01.000
-Okay.
+Tyler: So if this was like, it's the way this worked was like search for your school facility code and you typed in the code and then you saw a list of codes here would you be able to to kind of like read through those and figure out the right one.
 
-00:45:01.000 --> 00:45:07.000
-We would use the facility code. Okay, the facility is what associated with the school as far as the main is main branch.
+> P11: Yeah, I mean it could be like even if they put names city postcode, that's fine or if they put facility code and then facility code will pull up that one particular college then that would be easier.
 
-00:45:07.000 --> 00:45:13.000
-It's the same thing what we call the SEO hotline in order for them to verify us the access for our facility code in name of the school.
+> P11: Like, you see, school and facility code. That right there would be, that would be easier.
 
-00:45:13.000 --> 00:45:14.000
-So we were getting the facility code.
+Tyler: Yeah. Yeah. Okay, I can see that. So I think this, I think the prototype wants to choose the 1st option in the list. So let's choose that and then we'll click continue.
 
-00:45:14.000 --> 00:45:27.000
-Okay. Okay, that makes sense. So Here, and I can't remember. I remember you said you had like satellite campuses, but do you have one school?
+Tyler: And just one more thing before we move on from the facility thing. Do you think you're like expecting like I wanna search by the facility code, but then it would be helpful to see like the facility name and code listed or just the code?
 
-00:45:27.000 --> 00:45:28.000
-Would it be like one facility? Okay.
+> P11: You can do the facility. I think the facility name and the code just to make sure because some codes are so close together.
 
-00:45:28.000 --> 00:45:33.000
-Yeah, we have we have one. Exactly. We have one main branch. And then we have 6 extension branches.
+Tyler: Okay. Right. Yeah.
 
-00:45:33.000 --> 00:45:34.000
-So we would use the main one.
+> P11: If you put in the wrong number. It will bring up another school. So yeah, to have the name and the schools together.
 
-00:45:34.000 --> 00:45:44.000
-Okay. Okay, gotcha. So for this, it would probably be like your school facility is the one in your profile because you always have the same one and you would just click yes.
+Tyler: Okay, just like double confirmation that makes sense. I was thinking they probably could look quite similar. Okay, so now we're on this page. Tell me what we're seeing on this page.
 
-00:45:44.000 --> 00:45:45.000
-Yeah. Yeah.
+> P11: So this is just information about your account. So is this your contact number, your name? Yeah, just information verify your account.
 
-00:45:45.000 --> 00:45:54.000
-Okay, so let's pretend like you have 2 schools and you're like, okay, this is my one school, but I actually am submitting for a different school.
+Tyler: Okay. Do you have to fill out the whole page?
 
-00:45:54.000 --> 00:45:55.000
-So you would. Okay.
+> P11: No. Like this is new. The pronouns, preferred name. That's new. Usually it just asks for the phone or our email address.
 
-00:45:55.000 --> 00:46:04.000
-Then I would choose no, I would choose a different option. Yeah, we do have some schools that have 2 main branches that the SEO, charge up all of it.
+Tyler:  So when you are using Ask VA, you're signing in through, is it ID.me that you're using? Okay, so when you use your ID.me, that's your personal email, right?
 
-00:46:04.000 --> 00:46:05.000
-Okay.
+> P11: It depends. I did my work email when I signed up for. I, But I do know some, yes, do you have the personal, especially once our veterans themselves. Yeah, it went through the personal one. So they, sometimes they're able to change it. Sometimes they just kept it as a personal one.
 
-00:46:05.000 --> 00:46:10.000
-So yes, they will probably choose the different one. So when this question comes up, it actually regraded to actually list.
+Tyler: Okay. And so in that case, like right here, it would show up with their personal email address.
 
-00:46:10.000 --> 00:46:14.000
-The facility code because it right now just says the school.
+Tyler: Do you think that they're changing it every time? So it gets sent to their business one.
 
-00:46:14.000 --> 00:46:15.000
-Yeah, that makes sense.
+> P11: Probably so.
 
-00:46:15.000 --> 00:46:21.000
-So if we actually had the facility code beside the school so you know you're choosing the right one.
+Tyler: Yeah, okay. Okay, let's continue. I see we've got like 3 min left.
 
-00:46:21.000 --> 00:46:22.000
-That would be. Great.
+> P11: Okay.
 
-00:46:22.000 --> 00:46:26.000
-Yeah. I could see that. So rather than like having you. Answer this question.
+Tyler: Oh, it should hopefully lets you continue. Let's try and click one more time. No, there we go.
 
-00:46:26.000 --> 00:46:38.000
-It would just show you like the options to your options to choose from.
+Tyler: Does this look familiar? Okay.
 
-00:46:38.000 --> 00:46:39.000
-Okay, gotcha.
+> P11: Yes, so actually the reason why you contact them. I wanna say something nice, that's new. I have a suggestion that's new. Yeah, a lot of I usually look for I have a question.
 
-00:46:39.000 --> 00:46:44.000
-Right, as I said, yeah, you can choose you can do that or like where it just says school here just put the facility code beside it but they know they're choosing the right one or if they're going to choose that one or if they need to choose a different one.
+Tyler: Okay, do you put I had a question even if it's like a work study submission?
 
-00:46:44.000 --> 00:46:55.000
-Yeah, okay. So for this for the prototype, we're gonna click on no and we'll pretend like you need to add a different school.
+> P11: Yes, usually, yeah, usually for the work that. They are wanting to come up this is just be a submission. So for the work study, I will probably put other. And then do the submission, but for like the inquiry, stuff like that, I usually put ask a question.
 
-00:46:55.000 --> 00:47:01.000
-And then what are we seeing here?
+> P11: But yeah, yeah, this is new.
 
-00:47:01.000 --> 00:47:06.000
-Is this? Is this a facility code?
+Tyler: Okay, gotcha. You're not the 1st person to laugh at some of these options today.
 
-00:47:06.000 --> 00:47:15.000
-Is that feeling unclear?
+Tyler: Oh, let's click on other. I think that's what we need to click on in this one and then we can click continue.
 
-00:47:15.000 --> 00:47:16.000
-Yeah, right.
+> P11: So yeah, this is I was talking about the subject, the question. And then select files, like, files used to not be on the same page, so it's good that they're all on the same page now. This used to be on a different page. So it should make it a lot easier now for veterans. To make sure they submit the right documentation.
 
-00:47:16.000 --> 00:47:19.000
-Yeah, because it's asking for your school state or facility. Those that the school itself or is that the code?
+Tyler: Yeah, I can see that for sure. Okay, we'll like we'll pretend like you put in a question here and you can click continue. And then where are we now?
 
-00:47:19.000 --> 00:47:27.000
-The reason I'm not answering is because I I'm trying to understand what's confusing and I can and I can see how this is not clear but describe that to me.
+> P11: Now this is the summary of everything. I used to not show all this. And then, yeah. This is a lot better than what it used to, it used to not even show that it's usually for the summary.
 
-00:47:27.000 --> 00:47:39.000
-Okay, so. So, so it was actually for the school state. So. We have schools, SEOs that have different.
+> P11: It'll show you the question, but it won't show your attachments, but now a little show that you attached it to it.
 
-00:47:39.000 --> 00:47:55.000
-Represent schools in different states. Or it says school facilities. So school facility, are they talking about the code that BA signed to the school or are they talking about the name?
+Tyler: Okay, cool. Okay. Do you usually read this kind of thing or you just kind of submit? Cause you You feel like you checked.
 
-00:47:55.000 --> 00:47:56.000
-Yeah.
+> P11: I usually, well sometimes no, I usually read my question to make sure I'm making sense. But sometimes you're typing stuff as, so I usually read the question to make sure I'm, making sense.
 
-00:47:56.000 --> 00:48:01.000
-Of the school facility. So that's this is just the work facility. Yes, the facility code is the code that VA assigns to each school.
+> P11: I, this part of it, I use the review. Then make sure that attachments are attached.
 
-00:48:01.000 --> 00:48:06.000
-Yeah.
+Tyler: Alright. And I see we're at the hour. I don't wanna take any more of your time then I asked for but. That was really helpful to watch you go through that. It seemed like there was some pretty clear confusion points around the facility.
 
-00:48:06.000 --> 00:48:07.000
-Yeah.
+### Cool down
 
-00:48:07.000 --> 00:48:09.000
-And then if you just put school facilities. I'm thinking the name, not the code. So that's why I was just wondering which one it was.
+Tyler: Is there anything else that you notice that might be kind of a hurdle for someone like yourself?
 
-00:48:09.000 --> 00:48:12.000
-Yeah, so that feels like it needs to be more descriptive. Yeah, I could see that.
+> P11: It can be time consuming, as I said, as far as the contact information, stuff like that, I understand why they needed for Veterans, but for the business side. That might be a little time confusing and verifying.
 
-00:48:12.000 --> 00:48:15.000
-Right.
+> P11: And just the structure of the facilities and stuff like that.
 
-00:48:15.000 --> 00:48:19.000
-And why is it asking like state or facility?
+Tyler: Yeah. Okay.
 
-00:48:19.000 --> 00:48:24.000
-That's what I'm wondering because she doesn't accident. Just says what's your facility code.
+Tyler: You're welcome to stop sharing your screen whenever you like. There should be a button up at the top. Awesome. That was really helpful.
 
-00:48:24.000 --> 00:48:28.000
-Okay, yeah, I can see why that's confusing so
+Tyler: We, we were really here to get your feedback on some of the stuff we're working on in the dashboard, but it was an extra bonus to watch you go through that form. We definitely wanna make sure we're not like disrupting your workflow as their changes made to this.
 
-00:48:28.000 --> 00:48:35.000
-Oh, so even with the school state, as I said, we have SEOs who have. Schools for instance St.
+Tyler: So. It's really helpful to get your feedback.
 
-00:48:35.000 --> 00:48:42.000
-Leo they have schools everywhere. So yeah, that one could be a little confusing.
+> P11: Yeah, I think it'll be great especially for because right now for the feedback once the VA gets a response to send you an email. But to actually see it on the dashboard too. I don't know that's in practice and stuff like that.
 
-00:48:42.000 --> 00:48:54.000
-Yeah, for sure. I can see that. What's click on school facility and then we can kinda see if that answers or questions or makes us more confused.
+> P11: It could be very helpful. As far as seeing it on the dashboard to see what their progress is with it, because yeah, usually most time I will submit something and they forget about it and jogging the email.
 
-00:48:54.000 --> 00:48:55.000
-And so we won't be able to type here, but just talk me through this.
+> P11: Like, oh shoot. But, that it looks pretty good. But as I said, yeah, trying to get to Ask VA.
 
-00:48:55.000 --> 00:49:00.000
-Yeah, so They're asking for the name. For the school facility is the name. It would make sense.
+> P11: If there's somewhere where that can be clearer, just try and just go because you know the VA. I'm just trying to just go because you know the VA. That guy has so many links.
 
-00:49:00.000 --> 00:49:06.000
-Okay.
+> P11: So if it can be somewhere where it's quick and find where they can just go, find contact us and click it. It'll be great for family members also for SCOs instead of us searching for trying to figure out what, where to go to actually go.
 
-00:49:06.000 --> 00:49:12.000
-If I was them, so much easier if they would put, you know, school. School facility code.
+Tyler: Yeah, for sure. I could definitely see that. And it was helpful to hear like kind of where you might expect for it to be.
 
-00:49:12.000 --> 00:49:13.000
-Yeah.
+Tyler: Well, thank you so much for your time, [P11]. If you have any other like follow-up questions or comments, you have my email so you feel free to reach out.
 
-00:49:13.000 --> 00:49:17.000
-Is the SEOs up here asking questions? They know their school facility code.
+Tyler: And thanks for spending the hour with us and I can't wait to read through everything you shared. And see how we can fix things.
 
-00:49:17.000 --> 00:49:23.000
-Okay, yeah. Especially since you're like, you said you're like the president of.
-
-00:49:23.000 --> 00:49:26.000
-Yeah.
-
-00:49:26.000 --> 00:49:27.000
-Yeah.
-
-00:49:27.000 --> 00:49:33.000
-This full certifying official association. So you you feel like most or all school certifying officials are going to know their facility code.
-
-00:49:33.000 --> 00:49:37.000
-Yeah, because you can't even use the GPS until you get assigned a facility code. So wouldn't know their facility code.
-
-00:49:37.000 --> 00:49:40.000
-Okay. Okay.
-
-00:49:40.000 --> 00:49:51.000
-Even if they search by the school, let's say my school is up here, in Northern Virginia, colleges.
-
-00:49:51.000 --> 00:49:52.000
-Okay.
-
-00:49:52.000 --> 00:49:56.000
-But again, all 6 campuses are is listed. So then there's we have to make sure we do our main one.
-
-00:49:56.000 --> 00:50:03.000
-But if you just act for the facility code and then have that facility code, just pull up the school name.
-
-00:50:03.000 --> 00:50:04.000
-Okay.
-
-00:50:04.000 --> 00:50:07.000
-What's a program in it? I'll be a lack, that'll be a lot easier.
-
-00:50:07.000 --> 00:50:13.000
-Okay, so it's a lot easier to like get the specific correct facility if you're using the code.
-
-00:50:13.000 --> 00:50:17.000
-Yeah, I can see that. Okay.
-
-00:50:17.000 --> 00:50:18.000
-Okay.
-
-00:50:18.000 --> 00:50:23.000
-Yeah, yeah. As a even in programming. I'll be a lot easier because then they could just pull it up directly 5 weeks or whatever else but for programming it's a lot easier.
-
-00:50:23.000 --> 00:50:31.000
-Yeah, I can see that. Okay. Well, let's if you click on the where your mouse is right now, we'll kind of pretend like we type something in and search.
-
-00:50:31.000 --> 00:50:38.000
-And then you'll get to see what would happen. So there's no school facility codes listed here, which is obviously not meeting your expectation.
-
-00:50:38.000 --> 00:50:40.000
-Right.
-
-00:50:40.000 --> 00:50:53.000
-So if this was like, it's the way this worked was like search for your school facility code and you typed in the code and then you saw a list of codes here would you be able to to kind of like read through those and figure out the right one.
-
-00:50:53.000 --> 00:51:06.000
-Yeah, I mean it could be like Even if they put names city postcard that's fine or if they put facility code and then facility code will pull up that one particular college then that would be easier.
-
-00:51:06.000 --> 00:51:13.000
-Like, You see, or facility code. That right there would be, that would be easier.
-
-00:51:13.000 --> 00:51:24.000
-Yeah. Yeah. Okay, I can see that. So I think this, I think the prototype wants to choose the 1st option in the list.
-
-00:51:24.000 --> 00:51:30.000
-So let's choose that and then we'll click continue.
-
-00:51:30.000 --> 00:51:48.000
-And just one more thing before we move on from that. The facility thing. Do you think you're like expecting like I wanna search by the facility code, but then it would be helpful to see like the facility name and code listed or just the code.
-
-00:51:48.000 --> 00:51:51.000
-You can do the facility. I think the facility name and the code just to make sure because some codes are so close together.
-
-00:51:51.000 --> 00:51:52.000
-Okay. Right. Yeah.
-
-00:51:52.000 --> 00:52:04.000
-If you put in the wrong number. It will break up another school. So yeah, to have the name and the schools together.
-
-00:52:04.000 --> 00:52:05.000
-Right.
-
-00:52:05.000 --> 00:52:10.000
-Okay, just like double confirmation that makes sense. I was thinking they probably could look quite similar. Okay, so now we're on this page.
-
-00:52:10.000 --> 00:52:13.000
-Tell me what we're seeing on this page.
-
-00:52:13.000 --> 00:52:24.000
-So this is just information about your account. So is this your contact number, your name? Yeah, just information verify your account.
-
-00:52:24.000 --> 00:52:29.000
-Okay. Do you have to fill out the whole page?
-
-00:52:29.000 --> 00:52:30.000
-No. Like this is new. The pronouns prefer name. That's new.
-
-00:52:30.000 --> 00:52:39.000
-Okay.
-
-00:52:39.000 --> 00:52:40.000
-Okay.
-
-00:52:40.000 --> 00:52:42.000
-Usually just acts for the phone of our email address. On. Aiding a Mac for the phone number.
-
-00:52:42.000 --> 00:52:44.000
-She only asked for the email address, but yeah. So.
-
-00:52:44.000 --> 00:52:56.000
-So when you are using Ask VA, you're signing in through, is it ID dot me that you're using?
-
-00:52:56.000 --> 00:53:02.000
-Okay, so when you use your ID. Dot me, that's your personal email, right?
-
-00:53:02.000 --> 00:53:03.000
-Okay. Gotcha. Okay.
-
-00:53:03.000 --> 00:53:11.000
-It depends. I did my work email when I signed up for. I, But I do know some, yes, do you have the personal, especially once our veterans themselves?
-
-00:53:11.000 --> 00:53:17.000
-Yeah, it went through the personal one. So they, sometimes they're able to change it.
-
-00:53:17.000 --> 00:53:18.000
-Sometimes they just kept it as a personal one.
-
-00:53:18.000 --> 00:53:23.000
-Okay. And so in that case, like right here, it would show up with their personal email address.
-
-00:53:23.000 --> 00:53:24.000
-Right.
-
-00:53:24.000 --> 00:53:28.000
-So Do you think that they're changing it every time? So it gets sent to their business one.
-
-00:53:28.000 --> 00:53:29.000
-Probably so.
-
-00:53:29.000 --> 00:53:39.000
-Yeah, okay. Okay, let's continue. I see we've got like 3 min left.
-
-00:53:39.000 --> 00:53:40.000
-Okay.
-
-00:53:40.000 --> 00:53:45.000
-Oh, it should hopefully lets you continue.
-
-00:53:45.000 --> 00:53:50.000
-Let's try and click one more time. No, there we go.
-
-00:53:50.000 --> 00:53:53.000
-Okay.
-
-00:53:53.000 --> 00:53:54.000
-Is this look familiar? Okay.
-
-00:53:54.000 --> 00:54:00.000
-Yes, so actually the reason why you contact them.
-
-00:54:00.000 --> 00:54:06.000
-I wanna say something nice, that's new. I have a suggestion that's new.
-
-00:54:06.000 --> 00:54:12.000
-Yeah, a lot of I usually look for I have a question.
-
-00:54:12.000 --> 00:54:19.000
-Okay, do you put I had a question even if it's like a work study submission
-
-00:54:19.000 --> 00:54:20.000
-Like D. Okay.
-
-00:54:20.000 --> 00:54:33.000
-Yes, usually, yeah, usually for the work that he. They are wanting to come up this is just be a submission.
-
-00:54:33.000 --> 00:54:34.000
-Okay.
-
-00:54:34.000 --> 00:54:41.000
-So for the work city, I will probably put other. And then do the submission, but for like the enquiry, stuff like that, I usually put after question.
-
-00:54:41.000 --> 00:54:42.000
-But yeah, yeah, this is new.
-
-00:54:42.000 --> 00:54:48.000
-Okay, gotcha. You're not the 1st person to laugh at some of these options today.
-
-00:54:48.000 --> 00:54:51.000
-Okay.
-
-00:54:51.000 --> 00:55:05.000
-Oh, let's click on other. I think that's what we need to click on in this one and then we can click continue.
-
-00:55:05.000 --> 00:55:11.000
-So yeah, this is I was talking about the subject, the question.
-
-00:55:11.000 --> 00:55:18.000
-And then select files, like, files used to not be on the same page, so it's good that they're all on the same page now.
-
-00:55:18.000 --> 00:55:19.000
-Okay, that makes sense. Yeah.
-
-00:55:19.000 --> 00:55:21.000
-This used to be on a different page. So it should make it a lot easier now for veterans.
-
-00:55:21.000 --> 00:55:28.000
-To make sure they submit the right documentation.
-
-00:55:28.000 --> 00:55:38.000
-Yeah, I can see that for sure. Okay, we'll like we'll pretend like you put in a question here and you can click continue.
-
-00:55:38.000 --> 00:55:41.000
-And then where are we now?
-
-00:55:41.000 --> 00:55:49.000
-Now this is the summary of everything. I used to not show all this.
-
-00:55:49.000 --> 00:55:55.000
-And then, yeah. This is a lot better than what it used to, it used to not even show that it's usually for the summary.
-
-00:55:55.000 --> 00:56:01.000
-It'll show you the question, but it won't show your attachments, but now a little show that you attached it to it.
-
-00:56:01.000 --> 00:56:02.000
-So yeah.
-
-00:56:02.000 --> 00:56:13.000
-Okay, cool. Okay. Do you usually read this kind of thing or you just kind of submit? Cause you You feel like you checked.
-
-00:56:13.000 --> 00:56:14.000
-Okay.
-
-00:56:14.000 --> 00:56:21.000
-I usually, well sometimes no, I usually read my question to make sure I'm making sense. But sometimes you're typing stuff as, so I usually read the question to make sure I'm, making sense.
-
-00:56:21.000 --> 00:56:22.000
-Okay. Alright.
-
-00:56:22.000 --> 00:56:26.000
-I, this part of it, I use the review. Then make sure that attachments are attached.
-
-00:56:26.000 --> 00:56:30.000
-Alright, I see we're at the hour. I don't wanna take any more of your time.
-
-00:56:30.000 --> 00:56:45.000
-Then I asked for but. That was really helpful to watch you go through that. It seemed like there was some pretty clear confusion points around the facility.
-
-00:56:45.000 --> 00:56:51.000
-Is there anything else that you notice that might be kind of a hurdle for someone like yourself?
-
-00:56:51.000 --> 00:56:56.000
-Just. So I've made me time consuming. As I said, as far as the contact.
-
-00:56:56.000 --> 00:57:05.000
-Information, stuff like that, I understand why they needed for petitions, but for the business side.
-
-00:57:05.000 --> 00:57:14.000
-That might be a little time confusing and verifying. But no, just the, yeah, just the structure of the facilities and stuff like that.
-
-00:57:14.000 --> 00:57:22.000
-Yeah. Okay. You're welcome to stop sharing your screen whenever you like. They should be.
-
-00:57:22.000 --> 00:57:23.000
-Okay.
-
-00:57:23.000 --> 00:57:28.000
-A button up at the top. Awesome. That was really helpful. We, we were really here to get your feedback on some of the stuff we're working on in the dashboard, but it was an extra bonus.
-
-00:57:28.000 --> 00:57:44.000
-To kind of watch you go through that form. We definitely wanna make sure we're not like disrupting your workflow as their changes made to this.
-
-00:57:44.000 --> 00:57:47.000
-So. It's like really helpful to get your feedback.
-
-00:57:47.000 --> 00:57:55.000
-Yeah, I think it'll be great especially for because right now for the feedback once the VA gets a response to send you an email.
-
-00:57:55.000 --> 00:58:01.000
-But to actually see it on the dashboard too. I don't know that's in practice and stuff like that.
-
-00:58:01.000 --> 00:58:02.000
-Yeah.
-
-00:58:02.000 --> 00:58:11.000
-It could be very helpful. As far as seeing it on the dashboard to see what their progress is with it, because yeah, usually most time I will submit something and they forget about it and jogging the email.
-
-00:58:11.000 --> 00:58:17.000
-Hmm.
-
-00:58:17.000 --> 00:58:18.000
-Alright.
-
-00:58:18.000 --> 00:58:24.000
-Like, oh shoot. But, that it looks pretty good. But as I said, yeah, trying to get to the XPA.
-
-00:58:24.000 --> 00:58:25.000
-For sure.
-
-00:58:25.000 --> 00:58:26.000
-If there's somewhere where that can be clearer, just try and just go because you know the VA.
-
-00:58:26.000 --> 00:58:30.000
-I'm just trying to just go because you know the VA. That guy has so many links.
-
-00:58:30.000 --> 00:58:36.000
-So if it can be somewhere where it's quick and fine where they can just go fine go contact us and click it.
-
-00:58:36.000 --> 00:58:46.000
-It'll be great for family members also for SEOs instead of us searching for trying to figure out what, where to go to actually go to actually yeah.
-
-00:58:46.000 --> 00:58:52.000
-Yeah, for sure. I could definitely see that. And it was helpful to hear like kind of where you might expect for it to be.
-
-00:58:52.000 --> 00:59:02.000
-Well, thank you so much for your time, Terry. If you have any other like follow-up questions or comments, you have my email so you feel free to reach out.
-
-00:59:02.000 --> 00:59:03.000
-And thanks for spending the hour with us and I can't wait to read through everything you shared.
-
-00:59:03.000 --> 00:59:11.000
-And see how we can fix things.
-
-00:59:11.000 --> 00:59:14.000
-Thank you guys. You have a nice day.
+> P11: Thank you guys. You have a nice day.
 
 00:59:14.000 --> 00:59:15.000
 Okay.
