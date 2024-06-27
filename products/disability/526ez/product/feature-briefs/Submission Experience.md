@@ -14,9 +14,9 @@ Using plain, Veteran-focused language to describe the five delivery phases helps
 
 | Phase | Feature Name | Forecasted Date |
 |-------|--------------------------------------------------------------|--------------------------------|
-| 1     | [Veterans lack timely & truthful information about their claim after submission](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | August ‘24|
-| 2     | [Veterans need a record of their claim and a way to track it](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772)  | August ‘24|
-| 3     | [Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | September ‘24|
+| 1     | [Veterans lack timely & truthful information about their claim after submission](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | September ‘24|
+| 2     | [Veterans need a record of their claim and a way to track it](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772)  | September ‘24|
+| 3     | [Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | October ‘24|
 | 4     | [Veterans can find claim status on MyVA and CST before the claim is received](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) | Q4 |
 | 5     | [Veterans experience a burden after they attempt to submit a disability claim](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/83500) | Q4 |
 | 6     | When Veterans resubmit the failed component of their claim they don’t know if the VA has all their claim material | Q1 '25 |
