@@ -363,80 +363,27 @@ Tyler: Okay. Yeah. So let's look at one of these inquiries a little bit more clo
 
 ### Check details
 
-00:33:36.000 --> 00:34:00.000
-And then let's go ahead and look at their reply.
+Tyler: And then let's go ahead and look at their reply.
 
-00:34:00.000 --> 00:34:03.000
-Yeah, that's sound about the apply they use you listen out.
+> P11: Yeah, that's sounds about the reply they use. Yeah, uploaded. It worked and completed. Yeah. So as long as it has worked and completed. This is good to go. Usually if it gets denied, it will say a reason why it got denied.
 
-00:34:03.000 --> 00:34:05.000
-Okay, yeah.
+> P11: Usually we can't reply to it. So having a reply button is good. As usually we we can't reply.
 
-00:34:05.000 --> 00:34:14.000
-Yeah, husband uploaded to the South. It worked and completed. Yeah. So as long as it has worked and completed.
+> P11: But yeah, so this looks like it's good to go if it's getting denied. So yeah, if it got denied for any reason, I'm gonna reply, but it would be good because they would be able to correct it. The only problem with that is because right now it says it has been closed. Please create a new inquiry for future.
 
-00:34:14.000 --> 00:34:27.000
-This is good to go. Usually if it gets denied, it will say a reason why it got denied.
+> P11: So let's say it got denied so that it will be closed. So by the time it be closed, we can't reply back to this. We'll have to submit a whole new one. To see why the original one was denied.
 
-00:34:27.000 --> 00:34:28.000
-Okay.
+Tyler: Right, okay. So a couple things here. One is you very quickly scroll down to the conversation to find their reply.
 
-00:34:28.000 --> 00:34:31.000
-Usually we can't reply to it. So having a reply buddy is good. As usually we we can't reply.
+> P11: Yeah, and the only reason and I know how to do that because I've seen this before. Most of the time trying to find a reply right now. Yeah, that can be a little cumbersome because you have to click like 3 links to find what the reply was.
 
-00:34:31.000 --> 00:34:37.000
-But yeah, so this looks like it's good to go if it's getting denied.
+> P11: But I do like the layout where you can find it very quickly now instead of clicking the links.
 
-00:34:37.000 --> 00:34:42.000
-So yeah, if it got denied for any reason, I'm gonna reply, but it would be good because they would be able to correct it.
+> P11: So it's nice that it's like, it's open. You don't have to click a bunch of things.
 
-00:34:42.000 --> 00:34:50.000
-The only problem with that is because right now it says it has been closed. Please create a new.
+> P11: Yeah, because right now you have to click the response number and then click the reply. It's just a lot clicking. So at least with this is right here. Open up where you'd be able to see it.
 
-00:34:50.000 --> 00:34:57.000
-I don't think it's worth incident, but please create a new inquiry for future.
-
-00:34:57.000 --> 00:35:05.000
-So let's say it got denied so that it will be closed. So by the time it be closed, we can't reply back to this.
-
-00:35:05.000 --> 00:35:06.000
-Hmm. Right.
-
-00:35:06.000 --> 00:35:11.000
-Acts and why it was tonight. We'll have to submit a whole new one. To see why the original one was denied.
-
-00:35:11.000 --> 00:35:21.000
-Right, okay. So a couple things here. One is you very quickly scroll down to the conversation to find their reply.
-
-00:35:21.000 --> 00:35:26.000
-Yeah, and the owners and I know how to do that because I've seen this before. Most of the time trying to find a reply right now.
-
-00:35:26.000 --> 00:35:34.000
-Yeah, that can be a little cumbersome because you have to click like 3 3 links to find what the reply was.
-
-00:35:34.000 --> 00:35:35.000
-Hmm.
-
-00:35:35.000 --> 00:35:41.000
-But I do like the layout where you can. Find it very quickly now instead of clicking the links
-
-00:35:41.000 --> 00:35:46.000
-Hmm. Okay. So it's nice that it's like, it's open. You don't have to click a bunch of things.
-
-00:35:46.000 --> 00:35:54.000
-Yeah, because right now you have to click the response number and then click the reply. It's just a lot clicking.
-
-00:35:54.000 --> 00:35:55.000
-Yeah.
-
-00:35:55.000 --> 00:35:59.000
-So at least with this is right here. Open up where you'd be able to see it.
-
-00:35:59.000 --> 00:36:07.000
-It may be easier to put the conversation above the center reply. That way it's right there.
-
-00:36:07.000 --> 00:36:15.000
-And then if you need to send a reply, you can. Yeah, especially because it says it's been closed.
+> P11: It may be easier to put the conversation above the center reply. That way it's right there. And then if you need to send a reply, you can. Yeah, especially because it says it's been closed.
 
 00:36:15.000 --> 00:36:16.000
 So like that needs to be above the reply body.
