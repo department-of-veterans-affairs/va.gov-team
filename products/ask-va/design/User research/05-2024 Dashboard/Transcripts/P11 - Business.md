@@ -13,1060 +13,355 @@ Jump to:
 
 ### Warm up
 
-Alright, so I just wanna confirm, are you comfortable if I record my screen and audio today?
+Tyler: Alright, so I just wanna confirm, are you comfortable if I record my screen and audio today?
 
-00:00:07.000 --> 00:00:08.000
-Yes.
+> P11: Yes.
 
-00:00:08.000 --> 00:00:13.000
-Awesome. [P11], do you have any questions for me at this point?
+Tyler: Awesome. [P11], do you have any questions for me at this point?
 
-00:00:13.000 --> 00:00:15.000
-Not at this point.
+> P11: Not at this point.
 
-00:00:15.000 --> 00:00:20.000
-Okay, cool. Well, let's start by like learning a little bit more about you and your role.
+Tyler: Okay, cool. Well, let's start by like learning a little bit more about you and your role.
 
-00:00:20.000 --> 00:00:29.000
-Are you a school certifying official? A work study supervisor, tell me a little bit about your your role.
+Tyler: Are you a school certifying official, a work study supervisor? Tell me a little bit about your your role.
 
-00:00:29.000 --> 00:00:40.000
-So my name is [P11]. I work at [school]. I have been at this college for It's 8 years now.
+> P11: So my name is [P11]. I work at [school]. I have been at this college for It's 8 years now.
 
-00:00:40.000 --> 00:00:49.000
-But I have been a SEO for 10 plus years. My primary responsibility is school certifying official, but I'm also the program lead of veterans benefits.
+> P11: But I have been a SCO for 10 plus years. My primary responsibility is school certifying official, but I'm also the program lead of veterans benefits. So that also means I am also a work study upervisor and I'm also the one who submits the work study timesheets.
 
-00:00:49.000 --> 00:00:57.000
-So that also means I am also a work steady. Supervisor and I'm also the one who submits the work study timesheets.
+> P11: I'm also the manager of all VA school certified officials at our university. We have one main branch and we have 6 extension campuses. And then with that we have 4 school certified officials.
 
-00:00:57.000 --> 00:01:08.000
-I'm also the manager of all VA school certified officials at our university. We have one main branch and we have 6 extension campuses.
+> P11: Yes. Yeah, it's fun.
 
-00:01:08.000 --> 00:01:14.000
-And then with that we have 4 school certified officials.
+Tyler: Okay, wow, okay. Sounds like you have a lot to manage. Well, that's great experience because I'd love to learn a little bit more about like how you're using SBA as a school certifying official but also maybe sounds like you might be helping other people like learn how to use things like that if you have other school certifying officials you're working with.
 
-00:01:14.000 --> 00:01:15.000
-Yes. Yeah, it's fun.
+Tyler: Tell me a little bit about how you use Ask VA either as a school certifying official or for work study, paperwork and things.
 
-00:01:15.000 --> 00:01:35.000
-Okay, wow, okay. Sounds like you have a lot to manage. Well, that's great experience because I'd love to learn a little bit more about like how you're using SBA as a school certifying official but also maybe sounds like you might be helping other people like learn how to use things like that if you have other school certifying officials you're working with.
+> P11: So for as a work study site official, we use Ask VA to submit the time sheets and the approval of applications.
 
-00:01:35.000 --> 00:01:43.000
-Tell me a little bit about how you use Ask VA either as a school certifying official or for work study, paperwork and things.
+> P11: When 1st started doing the work study supervisor, It was during COVID. So everything has changed now as far as submitting documentation, but. Using Ask VA for the work study, it became simple once you figured out the process of submitting the time sheets.
 
-00:01:43.000 --> 00:01:59.000
-So for as a work study site official, we use XBH to submit the time sheets and the approval of applications.
+> P11: But it was a little complete at 1st trying to figure out the process. Submitting the time sheet.
 
-00:01:59.000 --> 00:02:00.000
-Hmm.
+> P11: As the school certified, for sure we use it sometimes to ask questions. Or as soon as that may came back like if we received our overpayment. Or if the sooner received a debt letter. I've also access to, use it for like mitigated circumstance.
 
-00:02:00.000 --> 00:02:03.000
-When I 1st started doing the work study supervisor, It was during COVID. So everything has changed now as far as submitting documentation, but.
+> P11: I have a student who passed away. I'm trying to figure out how is that gonna process the alternative back to VA. So I used it for that purpose. I also have family members who have used it who have been on disability for disability claims. So they have used it in order to see if their claim has been processed or if they needed to submit additional documentation.
 
-00:02:03.000 --> 00:02:12.000
-Using XVA for the work city, it became simple once you figured out the process of submitting the time sheets.
+> P11: We do have some Veterans that come in. Asking about the same thing. About using how to, they're able to submit their D. 2 14. Or if they needed to submit additional documentation for their disability claim, we have used it for that purposes too as far as the school.
 
-00:02:12.000 --> 00:02:18.000
-But it was a little complete at 1st trying to figure out the process. Submitting the time sheet.
+Tyler: Okay.
 
-00:02:18.000 --> 00:02:27.000
-As the school certified, for sure we use it sometimes to ask questions. Or as soon as that may came back like if we received our overpayment.
+> P11: We have shown the student how to use it. We don't use it for the student. We have shown this unit how to use it for that particular purpose.
 
-00:02:27.000 --> 00:02:35.000
-Or if the sooner received a debt letter. I've also access to, use it for like mitigated circumstance.
+Tyler: Okay. That's like such a range. And in there, you said something about family members also potentially using it for, their own disability claims. Is that family members that are Veterans, I'm guessing? Okay.
 
-00:02:35.000 --> 00:02:41.000
-I have a student who passed away. I'm trying to figure out how is that gonna process the alternative back to VA.
+> P11: Yes. I have a sister who is a 100% disabled Veteran. I have a cousins and then Of course, you have people who like, oh, she works with the VA. She can help you out. So I have, they're not family members, they're associates, but yeah, we have show them. I have shown them how to use that too.
 
-00:02:41.000 --> 00:02:52.000
-So I used it for that purpose. I also have family members who have used it who have been on disability for disability claims.
+Tyler: Okay. Okay, awesome. And then in those cases, do you tend to like just show folks how to use it themselves so they submit like an inquiry on their own behalf or will you sometimes submit on behalf of the family member for for example.
 
-00:02:52.000 --> 00:02:58.000
-So they have used it in order to see if their claim has been processed or if they needed to submit additional documentation.
+> P11: No, no, never send it on behalf. We will show. I will show them how to do it. So basically they'll sit down, they'll log into the system, I'll show them how to access it. And then show them when they act particularly well, what question should I ask or what topic should I do?
 
-00:02:58.000 --> 00:03:02.000
-We do have some veterans that come in. Accent about the same thing. About using how to, they're able to submit their D.
+> P11: And they gear them towards the right topic. And then of course, they'll be like, I submitted it and I'm like, okay, you submitted it without the documentation. So we need to go back and do another one. With the. So. That's what I will do.
 
-00:03:02.000 --> 00:03:18.000
-2 14. Or if they needed to submit additional documentation for their disability claim, we have used it for that purposes too as far as the school.
+> P11: We wouldn't submit it on their behalf. Basically we are just showing them how to do it and making sure they submitted the correct documentation.
 
-00:03:18.000 --> 00:03:19.000
-Okay.
+Tyler: Okay, gotcha. Well, I'm really excited to talk to you because it'll be really interesting to hear like your perspective in this business capacity, but you also have this perspective of helping folks to submit like personal inquiries.
 
-00:03:19.000 --> 00:03:22.000
-We have shown the student how to use it. We don't use it for the student. We have shown this unit how to use it for that particular purpose.
+Tyler: And I'd love to like hear about some of the hurdles you, notice that they face, when you're helping them out.
 
-00:03:22.000 --> 00:03:33.000
-Okay. That's like such a range. And in there, you said something about family members also potentially using it for, their own disability claims.
+Tyler: Very cool. And so is that how you're usually getting in touch with the VA? Is it through Ask VA or is there another way that you might contact the VA?
 
-00:03:33.000 --> 00:03:35.000
-Is that family members that are veterans, I'm guessing? Okay.
+> P11: No, for the VA, I usually call the SCO hotline. For the, for business purposes, I usually call. But usually with that is because you can get a quicker response. If it's a more complicated question. Then we make do the Ask VA if it's a more complicated question or if it goes in more details.
 
-00:03:35.000 --> 00:03:48.000
-Yes. I have a sister who is a 100% disabled veteran. I have a cousins and then Of course, you have people who like, oh, she works with the VA.
+> P11: A particular situation, then we'll do Ask VA. But for me, my primary contact is to call the student hotline.
 
-00:03:48.000 --> 00:03:54.000
-She can help you out. So I have, they're not family members, they're associates, but yeah, we have show them.
+Tyler: So you're using that student hotline because you feel like you can get faster answers unless it's like a more complex question.
 
-00:03:54.000 --> 00:03:55.000
-I have shown them how to use that too.
+> P11: Okay. Yeah, if it's a simple question, then the hotline. But if they complicated question that requires more research or more depth. Well, we used to do with Ask VA.
 
-00:03:55.000 --> 00:04:04.000
-Okay. Okay, awesome. And then in those cases, do you tend to like Just show folks how to use it themselves so they submit.
+Tyler: Okay, that makes sense. And obviously there's. You know, you have these like SEO examples that are more like potentially like questions for the VA and then you have work study, which is more like, uploading documents and things like that. Is that is that a fair assessment?
 
-00:04:04.000 --> 00:04:11.000
-Like an inquiry on their own behalf or will you sometimes submit on behalf of the family member for for example.
+> P11: Yes, usually for that then Ask VA or SCO questions. As a work study supervisor, I usually don't have any questions. If I have any concerns, as far as, yeah, I would do Ask VA if I have any concerns as far as how many hours a student may still have. Or if the students trying to do extended their time period, then yeah, I usually do Ask VA for those particular questions.
 
-00:04:11.000 --> 00:04:12.000
-Okay.
+> P11: Yeah, I hardly ever call for work study.
 
-00:04:12.000 --> 00:04:15.000
-No, no, never send it on behalf. We will show. I will show them how to do it.
+Tyler: Okay. Okay, gotcha. And then when you're calling the SCO hotline, for like more so SCO questions, you said like it tends to be simpler questions. Can you give me an example of like what a simpler question might be?
 
-00:04:15.000 --> 00:04:21.000
-So basically they'll sit down, they'll log into the system, I'll show them how to access it.
+> P11: So if we had a student who let's just say I just usually call the max and what's tuition fee sent to our school for a particular student. Or if we'll call and see if a soon, if the soon says I have a debt, so we'll call them and be like, do you know, particularly from what time period this debt is? And they'd be able to tell us the time period and the reason why the student had to debt. So just like simpler questions like that.
 
-00:04:21.000 --> 00:04:26.000
-And then show them when they act particularly well, what question should I ask or what topic should I do?
+> P11: For the more complex questions like you mentioned a student passing away, that's probably a more complex situation or one that doesn't happen as often.
 
-00:04:26.000 --> 00:04:27.000
-Hmm.
+Tyler: Are there other kinds of like complex things that come to mind that you've dealt with?
 
-00:04:27.000 --> 00:04:38.000
-And they gear them towards the right topic. And then of course, they black, okay, I submitted it and I'm like, okay, you submitted it without the documentation.
+> P11: So we had, we received a tuition for a student twice. We received payment twice and we didn't receive didn't know why we kept receiving this payment so that was a more complex that required them to do more research into it.
 
-00:04:38.000 --> 00:04:39.000
-Hmm.
+> P11: Also if a student, we had a issue when we were reporting graduation. And for some reason the student was coming back with a debt.
 
-00:04:39.000 --> 00:04:40.000
-So we need to go back and do another one. With the. So. That's what I will do.
+> P11: So anything that requires more research than the person is able to do over the phone. We do Ask VA.
 
-00:04:40.000 --> 00:04:49.000
-We wouldn't submit it on their behalf. Basically we are just showing them how to do it and making sure they submitted the correct documentation.
+Tyler: Okay. Yeah. Is there ever a scenario where you call on the phone and tell them like the question and then they say, can you actually submit this through Ask VA? Will they ever do that?
 
-00:04:49.000 --> 00:05:03.000
-Okay, gotcha. Well, I'm really excited to talk to you because it'll be really interesting to hear like your perspective in this business capacity, but you also have this perspective of helping folks to submit like personal inquiries.
+> P11: Yeah, so sometimes the process should be like, okay, I'll put a note in account, but you may want to contact XVA for them to do more for the research or they're not able to answer my particular question. It may not be about a certain student, it may be a scenario that came up like the student who passed away unexpectedly.
 
-00:05:03.000 --> 00:05:09.000
-And I'd love to like hear about some of the hurdles you, notice that they face, when you're helping them out.
+Tyler: Okay, gotcha. And when you're using Ask VA, I guess you can think about this through like your own work, but also maybe if you're helping a family member, is it always on your computer or would you ever use it on your phone or would they ever use it on their phones?
 
-00:05:09.000 --> 00:05:10.000
-Very cool. And so is that how you're usually getting in touch with the VA?
+> P11: It's always on the computer. If they try to use it on the phone, sometimes I notice with family members, I know for, of course with SCOs, we're used to doing. But I know, family sometimes they can get a little confusing because they can't find the particular link. Or they're not able to see all the information in one screen. So yeah, Ask VA is not really friendly on the phone for, I would say, older or particularly Veterans who are trying to get a quick answer.
 
-00:05:10.000 --> 00:05:18.000
-Is it through SBA or is there another way that you might contact the VA?
+Tyler: Yeah, that makes sense. So it's not very easy to use on the phone and hard to see all the information.
 
-00:05:18.000 --> 00:05:22.000
-No, for the VA, I usually call the student. For the, for business purposes, I usually call the
+> P11: Right.
 
-00:05:22.000 --> 00:05:29.000
-Okay.
+Tyler: Do you think if it was easy to use on the phone it would be something that like you would use in a business capacity or your family members might prefer or or maybe not.
 
-00:05:29.000 --> 00:05:30.000
-Okay.
+> P11: Not in a business capacity. Because of security reasons of course I wouldn't use in the business capacity but for family members yeah especially for the ones coming out now that just needs to upload a documentation and they can They have a, they can take a picture of it with their phone and they can just upload it there.
 
-00:05:30.000 --> 00:05:34.000
-But usually with that is because you can get a quicker response. If it's a more complicated question.
+> P11: So yeah. It would be used a lot for especially the younger generation coming out for family members, but as far as the business capacity, that we wouldn't be able to do it for security reasons.
 
-00:05:34.000 --> 00:05:40.000
-Then we make do the act to VA if it's a more complicated question or if it goes in more details.
+Tyler: Yeah, that makes sense. How many inquiries do you feel like you're submitting per month, and that might be like SCO and work study. Yeah, however you wanna think about it.
 
-00:05:40.000 --> 00:05:48.000
-A particular situation, then we'll do XVA. But for me, my primary contact.
+> P11: So work study because we usually have about 2 to 3 work studies every semester. So I would say for work setting about 10 to 12 depending on their hours for that week. As far as SCO maybe once or twice a month.
 
-00:05:48.000 --> 00:05:56.000
-Okay, I think you cut out for a second, but. I heard most of that. So that's, sounds helpful.
+> P11: It just depends on the scenario. It just depends on the scenario. Sometimes it's just quicker to pick up the phone.
 
-00:05:56.000 --> 00:06:06.000
-So there you're using that student hotline because you feel like you can get faster answers unless it's like a more complex question.
+Tyler: Okay. Yeah. That makes sense.
 
-00:06:06.000 --> 00:06:07.000
-Okay.
+Tyler: Awesome. Well, I still have a bunch more questions for you, but I think we're going to talk through them as we look at the prototype and get your feedback.
 
-00:06:07.000 --> 00:06:11.000
-Okay. Yeah, if it's a simple question, then the hotline. But if they complicated question that requires more research or more depth.
+Tyler: So, I'm going to send you a link in the chat on zoom. And then if you can just open this up on your computer, So I just sent the link and let me know once that's loaded on your side.
 
-00:06:11.000 --> 00:06:13.000
-Well, we used to do with XV.
+> P11: Okay, it's loaded.
 
-00:06:13.000 --> 00:06:28.000
-Okay, that makes sense. And obviously there's. You know, you have these like SEO examples that are more like potentially like questions for the VA and then you have work study, which is more like.
+Tyler: Okay, awesome. And then, and you shared your screen on Zoom recently?
 
-00:06:28.000 --> 00:06:32.000
-Uploading documents and things like that. Is that is that a fair assessment?
+Tyler: Oh, perfect. Awesome. So now I can see what you're seeing. It looks like it says ask the A.
 
-00:06:32.000 --> 00:06:41.000
-Yes, usually for that then XXVI or SEO questions. As a website supervisor, I usually don't have any questions.
+Tyler: We're gonna pretend like this is your account. So you've just signed in. And now you're into your Ask VA dashboard.
 
-00:06:41.000 --> 00:06:48.000
-If I have any concerns. As far as the.
+### Dashboard
 
-00:06:48.000 --> 00:06:54.000
-Yeah, I would do XVA if I have any concerns as far as how many hours a student may still have.
+Tyler: And so we're not gonna click on anything yet, but you're welcome to start scrolling around and I'd love for you to tell me what you're starting to notice.
 
-00:06:54.000 --> 00:07:01.000
-Or if the students trying to do extended their time period, then yeah, I usually do XV 8 for those particular questions.
+> P11: Okay, so I can see now for the business that the way that it's a lot bigger. I think most of the time some SCOs because the majority of them are Veterans. A lot of times when they're doing this, they may get confused with the personal and the business because they have them themselves are Veterans. But if they know they're doing it particularly for their job, they used to go for the business part.
 
-00:07:01.000 --> 00:07:02.000
-Yeah, I hardly ever call that, for work study.
+> P11: I know for family members though. I particularly my cousin. He was like, I don't see where I asked for a new question. I was like, if you look up at the top, it's the very 1st thing. They tend to see to skip this part. Oh, and they're always like, I don't know where to go for new one. I just see the one I submitted last time.
 
-00:07:02.000 --> 00:07:13.000
-Okay. Okay, gotcha. And then when you're calling the SEO hotline, for like more so SEO questions, you said like it tends to be simpler questions.
+> P11: So yeah, he has it's the opportunity to skip the 1st part if they don't see it right away.
 
-00:07:13.000 --> 00:07:18.000
-Can you give me an example of like what a simpler question might be?
+Tyler: Yeah, I can see that.
 
-00:07:18.000 --> 00:07:26.000
-So if we had a student who Let's just say I just usually call the max and what's tuition fee sent to our school for a particular student.
+> P11: So I don't know if that can be bigger or bolder or something.
 
-00:07:26.000 --> 00:07:27.000
-Okay.
+Tyler: Yeah, I can totally see that.
 
-00:07:27.000 --> 00:07:37.000
-Or if we'll call and see if a soon, if the soon says I have a debt, so we'll call them and be like, do you know, particularly from what time period this Dead is?
+Tyler: So you mentioned how, these kind of, there's a business tab and there's a personal tab. And how that can be confusing for people who are in a business capacity but they're also veterans. Are all of your questions under the business, tab?
 
-00:07:37.000 --> 00:07:40.000
-And they'd be able to tell us the time period and the reason why the student had to debt.
+> P11: For me, yes, because I'm not a veteran. So I would, I still have the personal tab. It will still show up, but it wouldn't be. Nothing underneath that. They'll just be mainly business.
 
-00:07:40.000 --> 00:07:42.000
-So just like simpler questions like that. Oh no, go ahead.
+> P11: So that's 1 thing when I noticed when I was doing Ask VA when they was like, well, what type of question are you answering? I have to make sure it's always in the business section.
 
-00:07:42.000 --> 00:07:55.000
-Okay, and then Go ahead. And I was just gonna say for the more complex questions like you mentioned a student passing away, that's probably a more complex situation or one that doesn't happen as often.
+> P11: But yeah, but I just know that sometimes. Especially that some majority of the SCOs are veterans themselves. So they always be like for Ask VA, do you like, yeah, I may do personal, and then I don't need business. And I mean, I can get what they mean by that. But yeah.
 
-00:07:55.000 --> 00:07:56.000
-Okay.
+Tyler: Yeah. Yeah, for sure. I can see how that's confusing. Having like both things in one place. And we've got these cards in here. I think you said like they're a little bit bigger.
 
-00:07:56.000 --> 00:08:01.000
-Are there other kinds of like complex things that come to mind that you've dealt with?
+Tyler: Let's look more specifically at one of these and I'd love for you to just go through the information in one of these cards and describe to me what it is.
 
-00:08:01.000 --> 00:08:16.000
-So we had, we received a tuition for a student twice. We received payment twice and we didn't receive didn't know why we kept receiving this payment so that was a more complex that required them to do more research into it.
+> P11: All these have to do with work studies. Okay, so yeah, all the cars have to do with work studies. These are just the time cards.
 
-00:08:16.000 --> 00:08:25.000
-Also if a student, we had a issue when we were reporting graduation. And for some reason the student was coming back with a debt.
+> P11: So I mean, I can go through the time cards. So basic.
 
-00:08:25.000 --> 00:08:26.000
-Hmm.
+Tyler: You won't, yeah, you won't be able to click on everything, but that's okay.
 
-00:08:26.000 --> 00:08:32.000
-So anything that requires more research than the person is able to do over the phone. Right. We do the X.
+> P11: Oh, sorry.
 
-00:08:32.000 --> 00:08:33.000
-Yeah.
+Tyler: That's okay. All good. Okay, so you notice these are all work studies. How did you how could you tell that was the case?
 
-00:08:33.000 --> 00:08:41.000
-Okay. Yeah. Is there ever a scenario where you call on the phone and tell them like the question and then they say, can you actually submit this through Ask VA?
+> P11: Just by the description of it, it's where the timecartes has timecards, application, signed contract. All that has to do with work study.
 
-00:08:41.000 --> 00:08:43.000
-Will they ever do that?
+Tyler: Okay, does that look similar to how you would put in your time cards? Would you do something similar like with the student name?
 
-00:08:43.000 --> 00:08:48.000
-Yeah, so sometimes the process should be like, okay, I'll put a note in account, but you may want to contact XVA for them to do more for the research or they're not able to.
+> P11: Usually I wouldn't put in the full name and may put in the last name. We used to put in the last 4, but they disencouraged that.
 
-00:08:48.000 --> 00:09:02.000
-Answer my particular question. It may not be about a certain student, it may be a scenario that came up like the student who passed away unexpectedly.
+> P11: But I usually didn't do the phone, the full name. I would usually like the person that's your last name.
 
-00:09:02.000 --> 00:09:06.000
-They were reversed at Chico and XVN.
+Tyler: And would you, would you put any other description in that question area?
 
-00:09:06.000 --> 00:09:21.000
-Okay, gotcha. And when you're using SVA, I guess you can think about this through like your own work, but also maybe if you're helping a family member, is it always on your computer or would you ever use it on your phone or would they ever use it on their phones?
+> P11: No, cause usually it says what it is. It's a signed contract. It's the application.
 
-00:09:21.000 --> 00:09:31.000
-It's always on the computer. If they try to use it on the phone, sometimes I notice with family members, I know for of course with ICOs we're used to doing.
+> P11: Yeah. So yeah, since it says specifically what it is, I wouldn't put anything else.
 
-00:09:31.000 --> 00:09:32.000
-Hmm.
+Tyler: Okay, cool. So we're seeing that these are work study. submissions and then let's look at this card on May 14th So what does May 14th refer to?
 
-00:09:32.000 --> 00:09:42.000
-But I know, family sometimes they can get a little confusing because they can't find the particular link.
+> P11: May 14th is usually the date we submit it.
 
-00:09:42.000 --> 00:09:43.000
-Okay.
+Tyler: Okay, gotcha. So it's the date you submitted and then right above May 14th it says education benefits and work study and what's that?
 
-00:09:43.000 --> 00:09:50.000
-Or they're not able to see all the information in one screen. So yeah, XP is not really friendly on the phone for, I would say, older or particular veterans who are trying to get a quick answer.
+> P11: [Education benefits and work study] is the topic you have to choose in order for you to make sure it goes to the right place.
 
-00:09:50.000 --> 00:09:55.000
-Yeah, that makes sense. So it's not very easy to use. On the phone and hard to see all the information.
+> P11: So that's usually, that's usually the topic. That's the topic you use is education benefits work.
 
-00:09:55.000 --> 00:09:56.000
-Right.
+Tyler: Okay, got it. So when you're in Ask VA, you can choose like 1st you choose a category, right? That's like more general and then you go into and choose a topic. I see you nodding.
 
-00:09:56.000 --> 00:10:05.000
-Do you think if it was easy to use on the phone it would be something that like you would use in a business capacity or your family members might prefer or or maybe not.
+Tyler: So your category, is it usually always the same category?
 
-00:10:05.000 --> 00:10:31.000
-Not in a business capacity. Because of security reasons of course I wouldn't use in the business capacity but for family members yeah especially for the ones coming out now that just needs to upload a documentation and they can They have a, they can take a picture of it with their phone and they can just upload it there.
+> P11: Usually the category would be, okay, the category I believe is education or benefits. And then of course it actually, you know, how you referring to the student and then underneath it, it would be work study. So once you put work study. Then of course it will actually for your information.
 
-00:10:31.000 --> 00:10:32.000
-Yeah.
+> P11: For the business purposes, it will be education, I believe it's education benefits are underneath education and then underneath that it will be like. Education benefits, I believe that's the category.
 
-00:10:32.000 --> 00:10:35.000
-So yeah. It would be used a lot for. Especially the younger generation coming out. For family members, but as far as the business capacity, that we wouldn't be able to do it for security reasons.
+Tyler: Okay, yeah, yeah. And if, if your SCO, so you're not like you have your SCO hat on, you're not doing a work study submission. Do you do you know which topic you would use in that case if it's not work study? Can you remember?
 
-00:10:35.000 --> 00:10:46.000
-Yeah, that makes sense. How many inquiries do you feel like you're submitting per month and that might be like SEO and work study?
+> P11: Is usually underneath where it says benefits and then it would be like education benefits. And then of course, it will act you a series of questions. Like the relationship to. I am an SCO or a relationship to the veteran who's submitting. Oh, actually, a whole bunch of questions like that. And then your your facility code and then you'll put in your information. Or you'll put in the question.
 
-00:10:46.000 --> 00:10:50.000
-And? SEO and work city.
+Tyler: Okay. Gotcha. Okay. And we're looking at like 4 questions, which, you know, considering how many work study. Time cards and things like that you're submitting you probably have quite a few questions in your dashboard.
 
-00:10:50.000 --> 00:10:52.000
-Yeah, however you wanna think about it.
+Tyler: How would you be able to tell like which if you're looking for a specific question how would you be able to tell which one it was like How do you Find it.
 
-00:10:52.000 --> 00:11:06.000
-So work steady because we usually have about 2 to 3 work studies. Every semester. So I would say for work setting about 10.
+> P11: It would probably be underneath the topic. I will probably have to research the name. So I'll probably filter it out by the name itself. So let's say I'm looking for a time card for a particular student to see how I've got submitted. Then yeah, what has to filter out the name itself and the date that I submitted it. That's it.
 
-00:11:06.000 --> 00:11:20.000
-To 12 depending on their hours for that week. As far as SEOs. Maybe. Once or twice a month.
+> P11: Everything is the easiest way to do it. Either filtering sometimes does not work. You just have to do a search. And just search by the date that she submitted it.
 
-00:11:20.000 --> 00:11:21.000
-Okay.
+Tyler: Okay, so it's date you submitted. And then when you're saying the name, is that the student name?
 
-00:11:21.000 --> 00:11:24.000
-It just depends on the scenario. It just depends on the scenario. Sometimes it's just quicker to pick up the phone.
+> P11: Yeah, the student name that's in the topic. Yeah, cause sometimes when you look for the results for the Ask VA, it just gives you, it doesn't even show you the topic on the dashboard. It just shows you the claim number. So that's where the date comes in effect of the day that I actually submitted it to the VA.
 
-00:11:24.000 --> 00:11:29.000
-Okay. Yeah. That makes sense.
+Tyler: Okay, gotcha. Do you keep that somewhere? Like how do you know, the date and the name and stuff like that?
 
-00:11:29.000 --> 00:11:33.000
-Awesome. Well, I still have a bunch more questions for you, but I think we're going to talk through them as we look at the prototype and get your feedback.
+> P11: Usually. Particularly for work studies, I keep it in a folder, for especially for their time cards. I keep it in the folder for my own documentation. It can get a little confusing because sometimes wouldn't for the SCO part of it, we try to keep it in a folder, but sometimes we're just keeping in our email so then we have to search our email.
 
-00:11:33.000 --> 00:12:03.000
-So, I'm going to send you a link in the chat on zoom. And then if you can just open this up on your computer, So I just sent the link and let me know once that's loaded on your side.
+> P11: But specifically for work studies. Yeah, each work study has their own individual folder. So I keep their stuff in the folder.
 
-00:12:13.000 --> 00:12:15.000
-Okay, excellent.
+Tyler: Okay, and when you're talking about a folder, are you printing stuff out and putting in a physical folder? Or you've got a folder on your computer.
 
-00:12:15.000 --> 00:12:25.000
-Okay, awesome. And then, and you shared your screen on Zoom recently?
+> P11: I have a folder on my computer through my own Onedrive, but I do know some SCOs are printing out that information and keeping it in a particular formula.
 
-00:12:25.000 --> 00:12:33.000
-Oh, perfect. Awesome. So now I can see what you're seeing. It looks like it says ask the A.
+Tyler: Okay. And let's talk a little bit more about that. So. When you kind of like from the beginning of the process, you're going to submit this inquiry. Maybe it's an SCO one, maybe it's a work study thing. What would you put in that digital folder? Like would you print? You know, would you like save something? How would, how does all that work?
 
-00:12:33.000 --> 00:12:41.000
-We're gonna pretend like this is your account. So you've just signed in. And now you're into your Ask VA dashboard.
+> P11: I just take a folder, I would save, the work description. The application, the sign contract. And the time for it. And then also if they come back for the following semester, it will be a new folder for the fall semester with the same information.
 
-00:12:41.000 --> 00:12:42.000
-Okay.
+Tyler: Okay, gotcha.
 
-00:12:42.000 --> 00:12:56.000
-And so We're not gonna click on anything yet, but you're welcome to start scrolling around and I'd love for you to tell me what you're starting to notice.
+> P11: The main reason I was doing that is between compliance surveys. Sometimes they do ask for the work setting information for the compliance surveys. And then sometimes I haven't, our school hasn't experienced a risk based survey, but we do know from other schools that they may ask for that information. So we just keep it for documentation.
 
-00:12:56.000 --> 00:13:13.000
-Okay, so I can see now for the business that the way that it's a lot bigger. I think most of the time some SEOs because the majority of them are veterans.
+Tyler: Okay, gotcha. And, I might have missed this because my brains a little bit like full of information now, but you're obviously putting in like the time card and things like that that you would need to give the VA like the attachments but are you ever like needing to print out like the VA's response to you? For example, like what you submitted to the VA in AVA itself.
 
-00:13:13.000 --> 00:13:14.000
-Hmm.
+> P11: As far as work setting, no. Because usually it's as a yes or no. So it depends. Like if we submit a time sheet and then said the student is over the hours. Or the student did not meet the students at the end of the contract will print that out because that means that's the reason why they didn't get paid. So we keep that.
 
-00:13:14.000 --> 00:13:18.000
-A lot of times when they're doing this, they may get confused with the personal and the business because they have them themselves are veterans.
+> P11: But as far as SEOs, yes. I do print out the response because we have to have documentation to show the reason why we're doing what we did or the reason why. This particular issue wasn't resolved so yes we do print that out and we do keep that.
 
-00:13:18.000 --> 00:13:30.000
-But if they know they're doing it particularly for their job, they used to go for the business part.
+> P11: I do know some SCOs are still keeping hard files. They'll put it in their hard files for the student. We have digital files, so we'll put it in the Onedrive file.
 
-00:13:30.000 --> 00:13:37.000
-I know for family members though. I particularly my cousin. He was like, I don't see where I asked for a new question.
+Tyler: Right. Okay, that feels clear. And do you ever need to keep track of the reference number that is associated with that inquiry?
 
-00:13:37.000 --> 00:13:40.000
-I was like, if you scrap the top, it's the very 1st thing. They tend to see to skip this part.
+> P11: It depends on the inquiry. So yes. For instance, like the student who passed away, we're still trying to give VA back the money. So we're still having, we keep that reference number. So when we call the, trying to get the debt letter for that, we're able to refer back to that reference number. So for that particular situation, yes, we'll, we'll keep the reference numbers.
 
-00:13:40.000 --> 00:13:44.000
-Hmm. Hmm.
+> P11: But if it's solved. We'll just turn it out and put it in the folder if it's solved.
 
-00:13:44.000 --> 00:13:49.000
-Oh, and they're always like, I don't know where to go for new one. I just see the one I submitted last time.
+Tyler: Okay. And when you say – sorry for the really specific questions, but when you say like you'll keep the reference number somewhere for that specific case where you're trying to pay back the VA. Where are you keeping that reference number? Is it like a note? Is it like a sticky note on your computer? Is it in the digital folder?
 
-00:13:49.000 --> 00:13:50.000
-Hmm.
+> P11: Yeah. It's usually in the digital folder. So then that way we know for that particular student we can just click the folder. And be able to refer back to that, but that's just our business practices. I do know some other SCOs, they do keep it written down in a post it on their desk. So it just depends on the SCO in the situation.
 
-00:13:50.000 --> 00:13:55.000
-So yeah, he has it's the opportunity to skip the 1st part if they don't see it right away.
+> P11: But yeah, so that's usually how we do it. Is we do keep the reference number, we keep it in that digital folder. With the students so that's easy enough for us to click it when we're referring back to that situation.
 
-00:13:55.000 --> 00:13:56.000
-Yeah, I can see that.
+Tyler: Right, okay. Yeah, it sounds like you have to be super organized. And is it, do you put the reference number like in a Word document and then save that into the folder or how do you keep it?
 
-00:13:56.000 --> 00:13:59.000
-So I don't know if that can be bigger or bolder or something.
+> P11: Usually when it comes back with the email, I just keep the email. Yeah, that's how I do it.
 
-00:13:59.000 --> 00:14:05.000
-Yeah, I can totally see that.
+Tyler: Okay. Yeah. Okay. Okay.
 
-00:14:05.000 --> 00:14:12.000
-So you mentioned how, these kind of, there's a business tab and there's a personal tab.
+> P11: Yeah, I just keep the email. In the reference folder.
 
-00:14:12.000 --> 00:14:19.000
-And how that can be confusing for people who are in a business capacity but they're also veterans.
+Tyler: So you just like download the email as a PDF or something? Okay.
 
-00:14:19.000 --> 00:14:25.000
-Are all of your questions under the business, tab?
+> P11: Yeah, I just print that, yeah, print the email as a PDF and then put it in the folder. Yeah, that's the easiest way for me.
 
-00:14:25.000 --> 00:14:29.000
-For me, yes, because I'm not a veteran. So I would, I still have the personal tab.
+Tyler: Okay, gotcha.
 
-00:14:29.000 --> 00:14:36.000
-It will still show up, but it wouldn't be. Nothing underneath that. They'll just be mainly business.
+> P11: And you know I'm the present of the [state association for school certifying officials], so as I said, I know some, especially for the NCDs. They do not do that. They are oldschool. They are pencil and paper. So I know that they were usually they wouldn't print it out. They usually put it on a post it or something or keep it in a phone or put it on a word. And print out that way you can keep it in our copy folder. So it just depends on the institution and how big or small they are. So. But I know particularly, yeah, for the NCDs in like the flight schools, they wouldn't do all the digital. So they are still on paper.
 
-00:14:36.000 --> 00:14:41.000
-So that's 1 thing when I noticed when I was doing XVA when they was like, well, what type of question are you answering?
+Tyler: Okay, gotcha. And can you fill me in on what NCD means?
 
-00:14:41.000 --> 00:14:48.000
-I have to make sure it's always in the business section. But yeah, but I just know that sometimes.
+> P11: Non-college degree.
 
-00:14:48.000 --> 00:14:56.000
-Especially that some majority of the SEOs are veterans themselves. So they always be like.
+Tyler: Okay, thank you. That, background is really helpful. We're like trying to better understand how you guys are tracking all of these things, especially how Ask VA comes into play.
 
-00:14:56.000 --> 00:15:03.000
-For XVA, do you like, yeah, I may do. Personal, and then I don't need business.
+Tyler: So looking back at the screen now, we got these 4 questions, and they all have some of them have different statuses. Can you share with me what you think those statuses mean?
 
-00:15:03.000 --> 00:15:06.000
-And I mean, I, I can get what they mean by that. But yeah.
+> P11: So the 2 that says new, that means that the the time card has been submitted. The one this is in progress means that the VA has received it and they're processing it.
 
-00:15:06.000 --> 00:15:17.000
-Yeah. Yeah, for sure. I can see how that's confusing. Having like both things in one place.
+> P11: And then the one that says solved means that the VA has received the signed contract and the student is ready to go.
 
-00:15:17.000 --> 00:15:18.000
-And we've got these cards in here. I think you said like they're a little bit bigger.
+Tyler: Okay, so that one's kind of like finished.
 
-00:15:18.000 --> 00:15:34.000
-Let's look more specifically at one of these and I'd love for you to just go through the information in one of these cards and describe to me what it is.
+> P11: Yeah, the solved is the finished one. The new ones means we just submitted it that day. And then in progress means the VA has received it, but it hasn't been completely submitted to them yet or completely.
 
-00:15:34.000 --> 00:15:37.000
-So do you want?
+> P11: Cause you know, I mean, complete it in the VA, portion yet.
 
-00:15:37.000 --> 00:15:39.000
-All these have to do in work studies.
+Tyler: Right, right. That's still happening. Okay, that makes sense. And there's a date that it was last updated. Who would be updating?
 
-00:15:39.000 --> 00:15:41.000
-Okay.
+> P11: That would be, so that's the date the last updated. Usually the once this is new, that last update today is probably us when we submitted it. But with the other one where it says like May 8th May, 12th, that means the VA has completed it. So they're the ones who last updated it.
 
-00:15:41.000 --> 00:15:47.000
-Okay, so yeah, all the cars have to do with work studies. These are just the time cards.
+Tyler: Okay, gotcha. So it could be either you or the VA depending on, yeah.
 
-00:15:47.000 --> 00:15:51.000
-So I mean, I can go through the time cards. So basic.
+> P11: Right. It's just depending on whoever touched it last.
 
-00:15:51.000 --> 00:15:55.000
-You won't, yeah, you won't be able to click on everything, but that's okay.
+Tyler: That makes sense. Okay.
 
-00:15:55.000 --> 00:15:56.000
-Oh, sorry.
+Tyler: Let's for a second think about this use case of your family members using Ask VA. So I know it's a little different because they wouldn't see this business tab. But you can click on that personal tab.
 
-00:15:56.000 --> 00:16:01.000
-We can. That's okay. All good. Okay, so you notice these are all work studies.
+Tyler: We'll kind of just pretend like there's no business tab. You can just see the personal inquiry and this looks more like what someone might submit for themselves.
 
-00:16:01.000 --> 00:16:04.000
-How did you how could you tell that was the case?
+Tyler: Looking at this and kind of putting on putting yourself in your family member shoes. What's your reaction to this?
 
-00:16:04.000 --> 00:16:11.000
-Just by the description of it's where the timecartes has timecartes application signed contract.
+> P11: The question here, they would never see that question. You see how it says I'm trying to get it would usually just be the topic.
 
-00:16:11.000 --> 00:16:12.000
-Oh, that has to do with work study.
+> P11: So they wouldn't usually see this question that goes. So. And the word says solved and then check details. I would probably have to instruct my family member to click the check details. To see how it was solved.
 
-00:16:12.000 --> 00:16:23.000
-Okay, does that look similar to how you would put in your time cards? Would you do something similar like with the student name?
+> P11: Because yeah no one but yeah, so I mean. Yeah, this question here they would they would never see that they would you see the topic and, so, solved.
 
-00:16:23.000 --> 00:16:24.000
-Okay.
+> P11: We would have to instruct them to make sure they click check details to see how the question was solved.
 
-00:16:24.000 --> 00:16:32.000
-Usually I wouldn't put in the full name and may put in the last name. We used to put in the last 4, but they just encouraged that.
+Tyler: Yeah, I could see that.
 
-00:16:32.000 --> 00:16:33.000
-Okay.
+> P11: And it's sometimes in the check details even there the questions really not solved the questions like oh it's been submitted again. Thank you for your response or something like that. So it really it wasn't solved. So yeah, it's just they need to be know that they need to click the check details to see what's going on.
 
-00:16:33.000 --> 00:16:36.000
-But I usually didn't do the phone, the full name. I would usually like the person that's your last name.
+Tyler: Right, I can I can see that.
 
-00:16:36.000 --> 00:16:42.000
-Okay. Okay, gotcha.
+> P11: With the question instead of thinking it was completely solved because usually it's not completely solved. It's something else they have to do.
 
-00:16:42.000 --> 00:16:48.000
-And would you, would you put any other description in that question area?
+Tyler: Yeah, for sure. And when you're saying like they for that question part there, they wouldn't see that they would see their topic instead.
 
-00:16:48.000 --> 00:16:53.000
-No, cause usually it says what it is. It's assigned contract. It's the application.
+> P11: Yeah, it would be the topic. So like, you know, when you when you do Ask VA, you have to put in the topic of the question. And then you write your question, of course, like any other email. That you sent out any other question. So it would just be the topic. Most questions went put all that, the SCO or something like that. I mean, they'll know what it is but it wouldn't be a question form like that. There so that would be in the body of the email. This topic.
 
-00:16:53.000 --> 00:16:54.000
-Okay, yeah.
+Tyler: Okay, got it. So are you talking about like the subject? Is that what you mean by the topic?
 
-00:16:54.000 --> 00:16:58.000
-Yeah. So yeah, since it says specifically what it is, I wouldn't put anything else.
+> P11: Yes, yes, yes, yes.
 
-00:16:58.000 --> 00:17:14.000
-Okay, cool. So we're seeing that these are work study. submissions and then let's look at this card on May 14th So what does May 14th refer to?
+Tyler: Okay. Got it. Okay. Do you think that?
 
-00:17:14.000 --> 00:17:17.000
-May 14th is usually the date we submit it.
+Tyler: I guess like seeing this now where it's like the body of the question Is that more useful to see or is the subject more useful to see?
 
-00:17:17.000 --> 00:17:25.000
-Okay, gotcha. So it's the date you submitted and then right above May, the 14th it says education benefits and work study and what's that?
+> P11: I think this subject because most of the time when people look for in their emails they're looking for their subject.
 
-00:17:25.000 --> 00:17:27.000
-That's the topic you have to choose in order for you to make sure it goes to the right place.
+> P11: Because sometimes the body of the question may be confusing. So I think the subject would be more, easier for veterans to look at. Where is clear and concise.
 
-00:17:27.000 --> 00:17:31.000
-Okay. Okay.
+Tyler: Yeah. I could see that. Okay, let's go back to the business tab.
 
-00:17:31.000 --> 00:17:36.000
-So that's usually, that's usually the topic. That's the topic you use is not education benefits work.
+Tyler: And then anything else you want to comment on this page?
 
-00:17:36.000 --> 00:17:37.000
-So you should just work study.
+> P11: No, I mean, I get the tiles. I think it's just a personal preference for me. I really, I just like stuff like a list. The tiles are cool but I like the list. But that's just a personal preference for me.
 
-00:17:37.000 --> 00:17:43.000
-Okay, got it. So when you're in SBA, You can choose like 1st you choose a category, right?
+Tyler: Yeah, I could see that. And maybe it's like more what you're used to or whatever.
 
-00:17:43.000 --> 00:17:50.000
-That's like more general and then you go into and choose a topic. I see you nodding.
+> P11: Yeah, and to be in date order. So like the May 17th, May 14th, May 18th, like in a list.
 
-00:17:50.000 --> 00:17:51.000
-Right. Right.
+> P11: But again, that's just a personal preference for me.
 
-00:17:51.000 --> 00:17:55.000
-So Your category, is it usually always the same category?
+Tyler: Yeah, that makes sense. Would you expect this to be in date order by the day you submitted or the day it was last updated.
 
-00:17:55.000 --> 00:18:12.000
-Usually the category would be V. Okay, the category I believe is education or benefits. And then of course it actually, you know, how you referring to the student and then.
+> P11: Yeah, submitted.
 
-00:18:12.000 --> 00:18:13.000
-Okay.
+Tyler: Okay. Yeah. So let's look at one of these inquiries a little bit more closely. So this May8th one that solved, you mentioned that it's solved to that probably means the VA has like resolved this and it's finished. So they've they've probably replied to you. So let's click on check. Details.
 
-00:18:13.000 --> 00:18:18.000
-Underneath it, it would be work steady. So once you put work study. Then of course it will actually for your information.
-
-00:18:18.000 --> 00:18:22.000
-For the business purposes, it will be.
-
-00:18:22.000 --> 00:18:32.000
-Education, I believe it's education. Benefits are underneath education and then underneath that it will be like.
-
-00:18:32.000 --> 00:18:35.000
-Education benefits, I believe that's the category.
-
-00:18:35.000 --> 00:18:44.000
-Okay, yeah, yeah. And if, if your SEO, so you're not like you have your SEO hat on, you're not doing a work study.
-
-00:18:44.000 --> 00:18:50.000
-Submission. Do you do you know which topic you would use in that case if it's not work study?
-
-00:18:50.000 --> 00:18:51.000
-Can you remember?
-
-00:18:51.000 --> 00:19:00.000
-Is usually underneath where it says benefits and then it would be like education benefits. And then of course, it will act you a series of questions.
-
-00:19:00.000 --> 00:19:06.000
-Like the relationship to. I am an SEO or a relationship to the veteran who's submitting.
-
-00:19:06.000 --> 00:19:11.000
-Huh.
-
-00:19:11.000 --> 00:19:12.000
-Okay.
-
-00:19:12.000 --> 00:19:16.000
-Oh, actually, a whole bunch of questions like that. And then your your facility code and then you'll put in your information.
-
-00:19:16.000 --> 00:19:17.000
-Or you'll put in the question.
-
-00:19:17.000 --> 00:19:28.000
-Okay. Gotcha. Okay. And we're looking at like 4 questions, which, you know, considering how many work study.
-
-00:19:28.000 --> 00:19:34.000
-Time cards and things like that you're submitting you probably have quite a few questions in your dashboard.
-
-00:19:34.000 --> 00:19:44.000
-How would you be able to tell like which if you're looking for a specific question how would you be able to tell which one it was like How do you?
-
-00:19:44.000 --> 00:19:50.000
-Find it.
-
-00:19:50.000 --> 00:19:51.000
-Okay.
-
-00:19:51.000 --> 00:19:55.000
-It would probably be underneath the topic. I will probably have to research the name. So I'll probably filter it out by the name itself.
-
-00:19:55.000 --> 00:19:59.000
-So let's say I'm looking for a time card for a particular student to see how I've got submitted.
-
-00:19:59.000 --> 00:20:00.000
-Huh.
-
-00:20:00.000 --> 00:20:05.000
-Then yeah, what has to filter out the name itself and the date that I submitted it. That's it.
-
-00:20:05.000 --> 00:20:07.000
-Uhhuh. Yeah.
-
-00:20:07.000 --> 00:20:14.000
-Everything is the easiest way to do it. Either filtering sometimes does not work. You just have to do a search.
-
-00:20:14.000 --> 00:20:15.000
-Okay.
-
-00:20:15.000 --> 00:20:18.000
-And just search by the date that she submitted it.
-
-00:20:18.000 --> 00:20:24.000
-Okay, so it's date you submitted. And then when you're saying the name, is that the student name?
-
-00:20:24.000 --> 00:20:25.000
-Okay. Okay, gotcha.
-
-00:20:25.000 --> 00:20:35.000
-Yeah, the student name that's in the topic. Yeah, cause sometimes when you look for the results for the XVA, it just gives you the Hmm.
-
-00:20:35.000 --> 00:20:40.000
-So it doesn't even show you the topic on the dashboard. It just shows you the claim number.
-
-00:20:40.000 --> 00:20:46.000
-So that's where the date comes in effect of the day that I actually submitted it to the V.
-
-00:20:46.000 --> 00:20:55.000
-Okay, gotcha. Do you like keep that somewhere? Like how do you know, the date and the name and stuff like that?
-
-00:20:55.000 --> 00:20:56.000
-Okay.
-
-00:20:56.000 --> 00:20:59.000
-Usually. Particularly for work studies, I keep it in a voter, for especially for their time cards.
-
-00:20:59.000 --> 00:21:00.000
-Okay.
-
-00:21:00.000 --> 00:21:13.000
-I keep it in the photo for my own documentation. It can get a little confusing because sometimes wouldn't for the SEO part of it We try to keep it in a photo, but sometimes we're just keeping in our email so then we have to search our email.
-
-00:21:13.000 --> 00:21:14.000
-Okay.
-
-00:21:14.000 --> 00:21:20.000
-For it. But specifically for work studies. Yeah, Eastwork City has their own individual folder.
-
-00:21:20.000 --> 00:21:22.000
-So I keep their stuff in the photo.
-
-00:21:22.000 --> 00:21:27.000
-Okay, and when you're talking about a folder, are you printing stuff out and putting in a physical folder?
-
-00:21:27.000 --> 00:21:32.000
-You've got a folder on your computer.
-
-00:21:32.000 --> 00:21:33.000
-Okay.
-
-00:21:33.000 --> 00:21:39.000
-I'm not. I have a folder on my computer through my own Onedrive, but I do know some SEOs are printing out that information and keeping it in a particular formula.
-
-00:21:39.000 --> 00:21:50.000
-Okay. And let's talk a little bit more about that. So. When you kind of like from the beginning of the process, you're going to submit this inquiry.
-
-00:21:50.000 --> 00:21:55.000
-Maybe it's an SEO one, maybe it's a, a work study thing.
-
-00:21:55.000 --> 00:22:00.000
-What would you put in that digital folder? Like would you print? You know, would you like save something?
-
-00:22:00.000 --> 00:22:02.000
-So.
-
-00:22:02.000 --> 00:22:04.000
-Like, how would, how does all that work?
-
-00:22:04.000 --> 00:22:14.000
-And then just a photo I would save, the work description. The application, the sign contract.
-
-00:22:14.000 --> 00:22:15.000
-Okay.
-
-00:22:15.000 --> 00:22:21.000
-And the time for it. And then also if they come back for the following semester, it will be a new photo for the fall semester with the same information.
-
-00:22:21.000 --> 00:22:22.000
-Okay, gotcha.
-
-00:22:22.000 --> 00:22:31.000
-The main reason I was doing that is between compliant surveys. Sometimes they do ask for the work setting information for the compliance surveys.
-
-00:22:31.000 --> 00:22:38.000
-And then sometimes I haven't, our school has an experience or risk based survey, but we do know.
-
-00:22:38.000 --> 00:22:51.000
-From other schools that they may ask for that information. So we just keep it for documentation.
-
-00:22:51.000 --> 00:22:52.000
-Okay.
-
-00:22:52.000 --> 00:22:56.000
-Okay, gotcha. And, I might have missed this because my brains a little bit like full of information now, but Are you ever like you're obviously putting in like the.
-
-00:22:56.000 --> 00:23:16.000
-The time card and things like that that you would need to give the VA like the attachments but are you ever like needing to print out like the VA's response to you for example or like what you submitted to the VA in like AVA itself.
-
-00:23:16.000 --> 00:23:17.000
-Okay.
-
-00:23:17.000 --> 00:23:21.000
-As far as work setting, no. Because usually it's as a yes or no. So it depends.
-
-00:23:21.000 --> 00:23:22.000
-Huh.
-
-00:23:22.000 --> 00:23:33.000
-Like if we submit a time sheet and then said the student is over the hours. Or the student did not meet the students at the end of the contract will print that out because that means that's the reason why they didn't get paid.
-
-00:23:33.000 --> 00:23:34.000
-Okay. Okay.
-
-00:23:34.000 --> 00:23:50.000
-So we keep that as a. But as far as SEOs, yes. I do print out the response because we have to have documentation to show the reason why.
-
-00:23:50.000 --> 00:23:51.000
-Gotcha.
-
-00:23:51.000 --> 00:23:55.000
-We're doing what we did or the reason why. This particular issue wasn't resolved so yes we do print that out and we do keep that as a.
-
-00:23:55.000 --> 00:24:00.000
-I do know some SEOs are still keeping hard files. They'll put it in their hard files for the student.
-
-00:24:00.000 --> 00:24:02.000
-We have digital files, so we'll put it in the Cheshire file.
-
-00:24:02.000 --> 00:24:14.000
-Right. Okay, that feels clear and Do you ever need to keep track of like the reference number that is associated with that inquiry?
-
-00:24:14.000 --> 00:24:25.000
-It depends on the inquiry. So yes. For instance, like the student who passed away, we're still trying to give VA back the money.
-
-00:24:25.000 --> 00:24:26.000
-Okay.
-
-00:24:26.000 --> 00:24:34.000
-So we're still having, we keep that reference number. So when we call the, trying to get the debt letter for that, we're able to refer back to that reference number.
-
-00:24:34.000 --> 00:24:38.000
-So for that particular situation, yes, we'll, we'll keep the reference numbers.
-
-00:24:38.000 --> 00:24:39.000
-Okay.
-
-00:24:39.000 --> 00:24:43.000
-But if it's solved. We'll just turn it out and put it in the photo if it's solved.
-
-00:24:43.000 --> 00:24:49.000
-Okay. And when you say sorry for like the really specific questions, but when you say like you'll keep the reference number somewhere for that specific case where you're trying to pay back the VA.
-
-00:24:49.000 --> 00:24:58.000
-Where are you keeping that reference number? Is it like a note? Is it like a sticky note on your computer?
-
-00:24:58.000 --> 00:25:02.000
-Is it like? In that digital folder.
-
-00:25:02.000 --> 00:25:03.000
-Okay.
-
-00:25:03.000 --> 00:25:07.000
-Yeah. It's usually in the digital folder. So then that way we know for that particular zoom we can just click the folder.
-
-00:25:07.000 --> 00:25:08.000
-Okay.
-
-00:25:08.000 --> 00:25:19.000
-And be able to refer back to that, but that's just our business practices. I do know some other SEOs.
-
-00:25:19.000 --> 00:25:20.000
-Okay.
-
-00:25:20.000 --> 00:25:25.000
-They do keep it written down in a post it on their desk. So it just depends on the SEO in the situation.
-
-00:25:25.000 --> 00:25:26.000
-Yeah.
-
-00:25:26.000 --> 00:25:33.000
-But yeah, so that's usually how we do it. Is we do keep the reference number, we keep it in that digital folder.
-
-00:25:33.000 --> 00:25:42.000
-With the students so that's easy enough for us to click it when we're referring back to that situation.
-
-00:25:42.000 --> 00:25:43.000
-Yeah.
-
-00:25:43.000 --> 00:25:50.000
-Right, okay. Yeah, it sounds like you have to be super organized. And is it, do you put the reference number like in a Word document and then save that into the folder or how do you keep it?
-
-00:25:50.000 --> 00:25:53.000
-Usually when it comes back with the email, I just keep the email. Yeah, that's how I do it.
-
-00:25:53.000 --> 00:25:56.000
-Okay. Yeah. Okay. Okay.
-
-00:25:56.000 --> 00:26:02.000
-Yeah, I just keep the email. In the reference folder.
-
-00:26:02.000 --> 00:26:05.000
-So you just like download the email as a PDF or something? Okay.
-
-00:26:05.000 --> 00:26:09.000
-Yeah, I just print that, yeah, print the email as a PDF and then put it in the folder.
-
-00:26:09.000 --> 00:26:10.000
-Okay, gotcha.
-
-00:26:10.000 --> 00:26:20.000
-Yeah, that's the easiest way for me. And you know if the president of our Virginia Association of School Certified Officials.
-
-00:26:20.000 --> 00:26:30.000
-So. The president of all Virginia school certified officials organization. So as I said, I know some, especially for the NCDs.
-
-00:26:30.000 --> 00:26:39.000
-They do not do that. They are old school. They are pencil and paper. So I know that they were usually they wouldn't print it out.
-
-00:26:39.000 --> 00:26:44.000
-They usually put it on a post it or something or keep it in a phone or put it on a word.
-
-00:26:44.000 --> 00:26:48.000
-And print out that way you can keep it in our copy folder. So it just depends on the institution and.
-
-00:26:48.000 --> 00:26:51.000
-Okay.
-
-00:26:51.000 --> 00:26:59.000
-And how big or small they are. So. But I know particularly, yeah, for the NCDs in like the flight schools, they wouldn't do all the digital.
-
-00:26:59.000 --> 00:27:01.000
-So they are still on paper.
-
-00:27:01.000 --> 00:27:05.000
-Okay, gotcha. And can you fill me in on what?
-
-00:27:05.000 --> 00:27:07.000
-Non- College, degree.
-
-00:27:07.000 --> 00:27:19.000
-Okay, thank you. That, background is really helpful. We're like trying to better understand how you guys are tracking all of these things, especially how Aver comes into play.
-
-00:27:19.000 --> 00:27:26.000
-So looking back at the screen now, we got these 4 questions, and they all have some of them have different statuses.
-
-00:27:26.000 --> 00:27:32.000
-Can you share with me what you think those statuses mean?
-
-00:27:32.000 --> 00:27:47.000
-So the 2 that says new, that means that the the time card has been submitted. The one this is in progress means that the BA has received it and they're processing it.
-
-00:27:47.000 --> 00:27:53.000
-And then the one that says solved means that the B has received the signed contract and the student is ready to go.
-
-00:27:53.000 --> 00:27:56.000
-Okay, so that one's kind of like finished
-
-00:27:56.000 --> 00:28:10.000
-Yeah, the soft phone is finished one. The new ones means we just submitted it that day. And then in progress means the VA has received it, but it hasn't been completely submitted to them yet or completely.
-
-00:28:10.000 --> 00:28:11.000
-I know what you mean.
-
-00:28:11.000 --> 00:28:14.000
-Cause you know, I mean, complete it in the VA, portion yet.
-
-00:28:14.000 --> 00:28:15.000
-Right, right. That's still happening. Okay, that makes sense. And there's a date that it was last updated.
-
-00:28:15.000 --> 00:28:31.000
-Who would be updating like what's Okay.
-
-00:28:31.000 --> 00:28:32.000
-Huh.
-
-00:28:32.000 --> 00:28:34.000
-That would be So that's the date the last updated. Usually the once this is new, that last update today is probably us when we submitted it.
-
-00:28:34.000 --> 00:28:35.000
-Okay.
-
-00:28:35.000 --> 00:28:40.000
-But with the other one where it says like May 8, th May 12, that means the VA has completed it.
-
-00:28:40.000 --> 00:28:43.000
-So they're the ones who last updated it.
-
-00:28:43.000 --> 00:28:48.000
-Okay, gotcha. So it could be either you or the VA depending on, yeah.
-
-00:28:48.000 --> 00:28:51.000
-Right. It's just depending on whoever touched it last.
-
-00:28:51.000 --> 00:28:57.000
-That makes sense. Okay.
-
-00:28:57.000 --> 00:29:11.000
-So let's. Let's for a second think about this use case of your family members using SBA.
-
-00:29:11.000 --> 00:29:12.000
-Hmm.
-
-00:29:12.000 --> 00:29:15.000
-So I know it's a little different because they wouldn't see this business tab. But you can click on that personal tab.
-
-00:29:15.000 --> 00:29:23.000
-We'll kind of just pretend like there's no business tab. You can just see the personal inquiry and this looks more like what someone might submit for themselves.
-
-00:29:23.000 --> 00:29:35.000
-Looking at this and kind of putting on putting yourself in your family member shoes. What's your reaction to this?
-
-00:29:35.000 --> 00:29:37.000
-To seeing this.
-
-00:29:37.000 --> 00:29:47.000
-So. The question here, they would never see that question. You see how it says I'm trying to get it would usually just be the topic.
-
-00:29:47.000 --> 00:29:57.000
-So they wouldn't usually see this question that goes. So. And the word says solved and then check details.
-
-00:29:57.000 --> 00:30:01.000
-I would probably have to instruct my family member to click the check details. To see how it was solved.
-
-00:30:01.000 --> 00:30:10.000
-Yeah.
-
-00:30:10.000 --> 00:30:11.000
-Yeah.
-
-00:30:11.000 --> 00:30:17.000
-Because yeah no one but yeah, so I mean. Yeah, this question here they would they would never see that they would you see the topic and, so, solved.
-
-00:30:17.000 --> 00:30:20.000
-Yeah.
-
-00:30:20.000 --> 00:30:26.000
-We will have instructing to make sure they check, click, check details to see how the question was solved.
-
-00:30:26.000 --> 00:30:27.000
-Yeah, I could see that.
-
-00:30:27.000 --> 00:30:35.000
-And it's sometimes in the check details even there the questions really not solved the questions like oh it's been submitted again.
-
-00:30:35.000 --> 00:30:36.000
-Hmm.
-
-00:30:36.000 --> 00:30:41.000
-Thank you for your response or something like that. So it really.
-
-00:30:41.000 --> 00:30:50.000
-Wasn't solved. So yeah, it's just they need to be know that they need to click the check details to see what's going on.
-
-00:30:50.000 --> 00:30:51.000
-Right, I can I can see that.
-
-00:30:51.000 --> 00:30:57.000
-With the question instead of thinking it was completely solved because usually it's not completely solved. It's something else they have to do.
-
-00:30:57.000 --> 00:31:06.000
-Yeah, for sure. And when you're saying like they for that question part there, they wouldn't see that they would see their topic instead.
-
-00:31:06.000 --> 00:31:07.000
-Are you?
-
-00:31:07.000 --> 00:31:14.000
-Yeah, it would be the topic. So like, you know, when you when you do XVA, you have to put in the topic of the question.
-
-00:31:14.000 --> 00:31:19.000
-And then you write your question, of course, like any other email. That you sent out any other question.
-
-00:31:19.000 --> 00:31:30.000
-So it would just be the topic. Most questions went put all that. The COE for a V or something like that.
-
-00:31:30.000 --> 00:31:35.000
-I mean, they'll know what it is but it wouldn't be a question form like that.
-
-00:31:35.000 --> 00:31:38.000
-There so that would be in the body of the email. This topic.
-
-00:31:38.000 --> 00:31:45.000
-Okay, got it. So are you talking about like the subject? Is that what you mean by the topic?
-
-00:31:45.000 --> 00:31:46.000
-Yes, yes, yes, yes.
-
-00:31:46.000 --> 00:31:51.000
-Okay. Got it. Okay. Do you think that?
-
-00:31:51.000 --> 00:32:02.000
-I guess like seeing this now where it's like the body of the question Is that more useful to see or is the subject more useful to see?
-
-00:32:02.000 --> 00:32:07.000
-I think this subject because most of the time when people look for in their spies they're looking for their subject.
-
-00:32:07.000 --> 00:32:12.000
-Okay.
-
-00:32:12.000 --> 00:32:13.000
-Right.
-
-00:32:13.000 --> 00:32:18.000
-Because sometimes the body of the question may be confusing. So I think the subject would be more, easier for veterans to look at.
-
-00:32:18.000 --> 00:32:19.000
-Okay.
-
-00:32:19.000 --> 00:32:22.000
-Where is clear and concise? Yeah.
-
-00:32:22.000 --> 00:32:30.000
-Yeah. I could see that. Okay, let's go back to the business. Tab.
-
-00:32:30.000 --> 00:32:35.000
-And then anything else you want to comment on this page?
-
-00:32:35.000 --> 00:32:39.000
-Now, I mean, I get the tiles.
-
-00:32:39.000 --> 00:32:42.000
-Yeah, okay.
-
-00:32:42.000 --> 00:32:49.000
-I think it's just a personal purpose for me. I really. I just like stuff like a list.
-
-00:32:49.000 --> 00:32:50.000
-Okay.
-
-00:32:50.000 --> 00:32:54.000
-The togger cool, but I like the list. But that's just a personal purpose for me.
-
-00:32:54.000 --> 00:32:55.000
-Yeah.
-
-00:32:55.000 --> 00:32:58.000
-Yeah, I could see that. And maybe it's like more what you're used to or whatever.
-
-00:32:58.000 --> 00:33:04.000
-Yeah, and be in date order. So like the May 17, th May 17, th May 14, th May 18, th like in a list.
-
-00:33:04.000 --> 00:33:05.000
-Okay.
-
-00:33:05.000 --> 00:33:08.000
-But again, that's just a personal preference for me.
-
-00:33:08.000 --> 00:33:17.000
-Yeah, that makes sense. Would you expect this to be in date order by the day you submitted or the day it was last updated.
-
-00:33:17.000 --> 00:33:18.000
-Yeah, submitted.
-
-00:33:18.000 --> 00:33:32.000
-Okay. Yeah. So let's look at one of these inquiries a little bit more closely. So this May 8th one that solved, you mentioned that it's solved to that probably means the VA has like resolved this and it's finished.
-
-00:33:32.000 --> 00:33:36.000
-So they've they've probably replied to you. So let's click on check. Details.
+### Check details
 
 00:33:36.000 --> 00:34:00.000
 And then let's go ahead and look at their reply.
