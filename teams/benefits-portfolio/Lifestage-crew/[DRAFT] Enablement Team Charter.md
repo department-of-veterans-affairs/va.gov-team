@@ -16,11 +16,14 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 - Non-disability
 - Dependents management
 
+### Benefits Portfolio Strategy:
+- 
 ---
 
 ## Who we are
 
-### Team Members:
+
+### OCTO Team Members:
 - OCTO Product Lead: Ryan Powers (ryan.powers3@va.gov)
 - OCTO HCD Design/Research Lead: Dené Gabaldón (dene.gabaldon@va.gov)
 - OCTO Engineering Lead: Sanja Bajovic (sanja.bajovic2@va.gov)
@@ -29,23 +32,25 @@ Welcome to the OCTO Lifestage Enablement Team Charter! We wrote this as a way to
 ## How we work
 ### Very important things to keep in mind
 - Be thoughtful, generous, respectful. 
-- Every single person on this team is here for the right reasons so be careful not to loose site of that.
+- Every single person on this team is here for the right reasons and we aim to promote collaborative and supportive culture.
 - No mansplaining. No cutting other people off.
 - Assume past decisions by OCTO teams were made thoughtfully and with difficult tradeoffs in mind. Everything is harder than you think it should be so we're often forced to go with the least shitty solution. However, new people often bring a wonderful new perspective so don't hesitate to ask questions -- just approach from a neutral and inquisitive place. Alex Talyor's rule of thumb = if you find yourself thinking "why don't we just...", it's probably time to adjust your attitude. And remember, one day you'll be the old timer on the team that some new person is wondering why _you_ did some weird thing!
 
 
 
-### Working with OCTO contract product delivery teams
-- We focus on outcomes not outputs, and avoid being prescriptive wherever possible.
+### Enablement Team working with contract product delivery teams
+- We (enablement team) focus on outcomes not outputs, and we avoid being prescriptive wherever possible.
 - We respect teams as self-managing teams that have their own internal processes and cultural norms.
 - We guide high level strategy and support decision-making that takes into consideration the greater VA ecosystem. Especially VA.gov.
-- We support the relationship with VBA with a focus on using requirements as guideposts, but recognize that it's our responsibility to modernize NOT digitize.
+- We support the relationship with VBA with a focus on using requirements as guideposts, but recognize that it's our responsibility to infuse HCD and modern development practices into the end-to-end service design.
+- Ensure what we design and develop iterative solutions that work towards the long-term goals _(TBD)_ of the product and organization.
 - We recognize that the VA is HUGE and we're here to help navigate it.
 
-### What we expect from contract delivery teams
-We hope you feel ownership of your work and products. We expect of ourselves and also of our teams to do our homework and be proactive about asking questions.
+### What the Enablement Team expects from contract delivery teams
+We expect you to feel ownership of your work, your products, and deliver high quality work.
 
-**Vision, strategy** 
+
+**Vision, strategy** _(TBD)_
 
 * Determine the product direction and goals in collaboration with the enablement team. 
 
@@ -53,7 +58,7 @@ We hope you feel ownership of your work and products. We expect of ourselves and
 
 * This looks like 
 
-  * Collaborate regularly with stakeholders (enablement team) and team members to define roadmap priorities 
+  * Collaborate regularly with Enablement team and team members to define roadmap priorities 
 
   * Define and document OKRs with the team 
 
@@ -61,17 +66,11 @@ We hope you feel ownership of your work and products. We expect of ourselves and
  
   * Keep VBA informed of strategy and ensure that their needs are reflected on the roadmap. 
 
-**Prioritization** 
+**Prioritization** _(TBD)_
+* Prioritization should be based on the Benefits Portfolio prioritization framework and data.
+* Contract delivery team owns product delivery prioritization process.
+* Enablement team provides timely guidance on priorities, goals, and desired outcomes.
 
-* Set and provide timely guidance on priorities, goals, objectives, and desired outcomes 
-
-* Prioritize what contract team(s) will work on 
-
-* This looks like 
-
-  * Engage in strategic discussions and agile ceremonies to provide perspective and decisions on strategy, roadmap, scope, desired outcomes 
-
-  * Participate in team workshops as requested
 
 **Managing up, stakeholders (enablement team and at times, VBA)** 
 
