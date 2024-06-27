@@ -138,6 +138,7 @@
   - [checkin-devops](https://github.com/department-of-veterans-affairs/checkin-devops/)
   - [cie-staging-scheduler](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/)
   - [cie-datadog-log-forwarder](https://github.com/department-of-veterans-affairs/cie-datadog-log-forwarder/)
+  - [octo-vista-api](https://github.com/department-of-veterans-affairs/octo-vista-api/)
 - [Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/architecture-diagrams)
 - [System Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering)
 - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/engineering/qa)
