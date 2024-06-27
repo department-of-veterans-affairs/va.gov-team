@@ -122,7 +122,7 @@ _Link to DOMO dashboards TBD_
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/2790b0fc-b55b-43ac-b3e0-4814bee84b49)
 
-**Contact Center calls (MyVA411)**: None
+**Contact Center calls (MyVA411)**: 
 
 **Feedback survey submmissions (Medallia)**:  
 
