@@ -1,4 +1,4 @@
-# VA Health and Benefits team organizational chart as of 05/27/23
+# VA Health and Benefits Mobile App Core Team
 
 <img width="1169" alt="VA Health and Benefits Team Org Chart" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/1401704/e2cedb8d-bed9-44ff-930f-335a252dfbf1">
 
@@ -6,7 +6,7 @@
 
 | Mobile Team | Team Category| PM | Team | Focus | Team Ticket Label | Ceremonies | Slack Channel 
 | ------------| ----| ----| -----| -----| -------------| -----------|--------| 
-| Health and Benefits | Flagship | Alayna Abel (fully onboarded 1/22/24) | Chris (FE), Dylan (FE), Lauren (UX) | Maintaining all Health and Benefit Features within VAHB App and coordinating with VA on new features | Health | Standup: Tues/Wed 12pm; Grooming 12:30 Thursdays | va-mobile-health-benefits|
+| Health and Benefits | Flagship | Alayna Abel | Chris (FE), Dylan (FE), Lauren (UX) | Maintaining all Health and Benefit Features within VAHB App and coordinating with VA on new features | Health | Standup: Tues/Wed 12pm; Grooming 12:30 Thursdays | va-mobile-health-benefits|
 | Global | Flagship | Ameet Sarkar | Holly (UX), Jon (FE), Theo (FE), Chika (FE), Flagship Shared Services: Megan (Research), Misty (Content), Brea (UX - Accessibility), Greta (Data) | Features that affect the entire app or all users | global | global   Standup: Mon - Thurs 1:30; Grooming: 1pm Wednesdays; Retros: 130 every other Thursday | va-mobile-global|  
 | Design System  | Shared Services |Kelly Lein | Narin (FE), Tim R (FE), Jessica (UX) | Define and standardize visual elements to be used by teams engaging in the VAHB App  | design-system  | Standup: Mon - Thurs 4pm |  va-mobile-app-design-system |
 | API  |Shared Services | Stacy Blackwood | Jayson (BE), Kris (BE) , Andrew (BE), Jason C (BE)| Team focuses on back-end engineering needs for other Mobile teams including integration, updating existing APIs due to upstream changes, etc  | | | va-mobile-api-engineering
