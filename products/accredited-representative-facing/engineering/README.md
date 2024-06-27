@@ -25,7 +25,7 @@ Learn about our engineering working style and agreements: [ARF Engineering Agree
 
 ## Onboarding Documentation
 
-For new team members, please refer to the onboarding documentation to get started with our engineering processes, tools, and best practices. You can find the onboarding guide here: [Onboarding Documentation](docs/onboarding.md)
+For new team members, please refer to the onboarding documentation to get started with our engineering processes, tools, and best practices. You can find the onboarding guide here: [Onboarding Documentation](docs/arf-engineer-onboarding.md)
 
 ## Repositories
 
