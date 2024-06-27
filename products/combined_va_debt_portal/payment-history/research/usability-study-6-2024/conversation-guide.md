@@ -127,7 +127,7 @@ Prototype Link:
     
    - [ ]   Any other link (fail)
     
-
+- What are your thoughts on 
 
 ## Overpayment Detail page (10 minutes)
 
@@ -222,6 +222,9 @@ Prototype Link:
 
 - If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
 
+- Now that you have seen the debt details page, and this resolve your balance page: what are your thoughts on the information on these pages having separate pages (their own sections)?
+
+- What are your thoughts on the wording of 'resolve your balance'? Do you feel that this title describes this page well? If not, how would you word it differently? 
 
 
 
