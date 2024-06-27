@@ -16,7 +16,7 @@ Our mission is to create an accessible, modern, and secure online system for Acc
 
 ### Minimum Viable Product (MVP)
 
-Explore the specifics of the ARF MVP and its impact: [ARF Team MVP](/products/accredited-representative-facing/product-info/arf-minimum-viable-product.md).
+Explore the specifics of the ARF MVP and its impact: [ARF Team MVP](/products/accredited-representative-facing/product-info/minimum-viable-product.md).
 
 ### Roadmap
 
