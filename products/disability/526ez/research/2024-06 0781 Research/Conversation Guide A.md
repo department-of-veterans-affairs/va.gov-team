@@ -2,44 +2,7 @@
 
 [Notetaking template w/ screenshots](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717589684902/e468c0febd9a85d119f62719a957343aff7cc247?sender=udbd39c1bbebb4ec4d7d08829)
 
-[Prototype link TBD (Figma designs in progress)](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=2079-1122&t=iSUySIe8BV2aaqY3-0)
-
-## Moderator logistics
-### 2-3 days before the session
-
-- Review VA Platform's Research Checklist
-- Review VA Trauma Practice Guidelines (0781 team copy)
-- Complete any project-specific setup tasks for this study (List them below)
-  - Assign and confirm notetaker(s)
-    - This should include a member of your team but could include others. Ask your notetaker(s) to review guidance on taking notes. If you can’t find someone to take notes, Perigean is available to assist. Learn how to prepare for Perigean to take notes.
-  - Prepare for note-taking
-    - Create a “session notes” folder within your research study Github folder and store each session as a .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes.
-  - Invite observers
-     - Invite your team and stakeholders to sessions. Limit your observers to 3-4 per session so participants aren’t overwhelmed. You should empower participants by allowing them to decide if they are comfortable having observers. Ask observers to review information about observer guidelines and attendance etiquette.
-   - Prepare as moderator
-     - Be familiar with the conversation guide, study implement(s), and prototype(s). Review tips on moderating, guidelines for recording sessions, and guidance on participant and researcher safety and exit strategies.
-    - Confirm participant knows what technology they need for the session
-      - If we have access to participant communications or reconfirm with Perigean that the participant has been informed
-- Confirm Zoom is recording to the cloud.
-- Assign a timekeeper from observers.
-
-
-
-### Day of the session
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
-Slack for real-time feedback from observers.
-- Mute your Slack notifications.
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
-
-
-### Starting the session
-
-- In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
-
+[Prototype link TBD (Figma designs in progress)](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4310-29351&t=5IOXAyGkXhdBY3x9-1)
 
 
 ## Intro - 5 minutes
