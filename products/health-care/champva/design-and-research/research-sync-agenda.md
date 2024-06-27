@@ -1,5 +1,20 @@
 # Running Design and Research Agenda
 
+## June 27, 2024
+Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes, Devi Hill
+
+### Agenda topics
+- Review feedback on revised FMP decks
+  - Keep Monday meeting title the way it is
+  - Remove finding numbers
+  - Update date for stakeholder readout July 3
+  - Remove third bullet from slide 9 in stakeholder deck, make it a talking point
+  - Add a screenshot for inline edit
+  - Flip order of form usability improvement findings
+
+### Decisions and action items 
+- Address Lois' comments on the decks
+
 ## June 20, 2024
 Attendees: Rachael Penfil, Steven Straily, Lois Lewis, Mary Wang, Bo Altes
 
