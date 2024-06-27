@@ -42,7 +42,7 @@ The findings below were derived from the page audits referenced above and will i
 1. Entrypoints to pages that explain intent to file, including the intent to file online form, are buried within [VA.gov](http://va.gov/) navigation.
 2. The benefits of intent to file are obfuscated by inconsistent descriptions of the process.
 3. Intent to file dates aren’t referenced on [VA.gov](http://va.gov/) after submission.
-4. *The lifecycle of an intent to file is not disambiguated from an application lifecycle.*
+4. The lifecycle of an intent to file is not disambiguated from an application lifecycle.
 
 ## Key Findings – Detailed
 
