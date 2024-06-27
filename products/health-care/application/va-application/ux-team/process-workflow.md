@@ -132,7 +132,7 @@ We often utilize our biweekly HEC stakeholder call and/or our recurring CG stake
 
 - Our QA engineer is embedded on the team but also serves other healthcare-related teams.
 - They will create test cases for QA based on Figma designs.
-- Durihng QA, they will create tickets for developers to fix any discrepancies found during QA.
+- During QA, they will create tickets for developers to fix any discrepancies found.
 - The QA engineer may have questions for the designer which can typically be resolved on Slack.
 
 </details>
