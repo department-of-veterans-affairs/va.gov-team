@@ -19,6 +19,9 @@
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
 * **Discussion Topics**
   * Summer capacity
+  * GitHub Sprints tab
+     * Asking that all teams use this for Q3 planning 
+  * Q3 Planning 
 
 
 ## 6/17/24
