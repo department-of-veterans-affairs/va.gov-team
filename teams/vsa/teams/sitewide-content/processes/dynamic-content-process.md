@@ -41,8 +41,8 @@ The Product team should tell Sitewide CAIA about plans for an incremental launch
 
 * Identify the audience
 * Identify the purpose of the react widget content
-* Identify plan for addressing entry links on other static pages (point to react widget page? or update after the tool is at 100%?)
-* Confirm content source of truth (SharePoint owned by CAIA)
+* Identify plan for addressing entry links on other static pages (for example, the teams may decide to update entry points to point to the react widget page. Or they may leave entry points as is until after the tool is at 100%)
+* Confirm content source of truth (generally, this is a SharePoint document owned by CAIA)
 * Confirm copy edit process (this is project-specific)
 * Confirm start and end date for the incremental launch
 * Confirm date the engineer will deliver the react widget ID code to CAIA
