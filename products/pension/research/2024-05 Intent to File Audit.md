@@ -25,8 +25,6 @@ In order to ensure that Pension’s solutions for intent to file (ITF) fulfill V
 
 This included filling in gaps from the work completed since December 2023: the Veteran Facing Forms team releasing the ITF standalone form, their respective CAIA reviews, and the latest error messaging from 526.
 
-[https://lh7-us.googleusercontent.com/docsz/AD_4nXdf-Eg9C6lSZ0Mmga5NlCllzNYxBo4tV6jqsyqH15OnKCslwsC4jewOJ76mkfDOiAGVA4daXERNgzOfHJjYBDlJu7IopFMqbGkAbZjLv-sWggBb8JslINo5VmggMNi_WXavAnzlWrTzKAFeKtZU66_mRX51?key=98qmflxlym9K307fCRe4_w](https://lh7-us.googleusercontent.com/docsz/AD_4nXdf-Eg9C6lSZ0Mmga5NlCllzNYxBo4tV6jqsyqH15OnKCslwsC4jewOJ76mkfDOiAGVA4daXERNgzOfHJjYBDlJu7IopFMqbGkAbZjLv-sWggBb8JslINo5VmggMNi_WXavAnzlWrTzKAFeKtZU66_mRX51?key=98qmflxlym9K307fCRe4_w)
-
 [See mural for reference.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713384778236/cb7811f7fc7d62be8ebfcf962519f055c9df98e6?sender=ue38619e047bf99f80f232455)
 
 ### Related artifacts
@@ -58,6 +56,7 @@ The findings below were derived from the page audits referenced above and will i
         - Reading the disclaimer below “Start the Disability Compensation application”:
             - ”By clicking the button to start the disability application, you’ll declare your intent to file. This will reserve a potential effective date for when you could start getting benefits. You have 1 year from the day you submit your intent to file to complete your application.”
         - Or after clicking “Start the Disability Compensation application” and encountering the page that displays the state of their ITF.
+
 2. The benefits of intent to file are obfuscated by inconsistent descriptions of the process.
     - The intent to file process is described as both optional and required. An infographic from [benefits.va.gov](http://benefits.va.gov/) is entitled, Optional “Intent to File” process. Meanwhile, a [VA news article](https://news.va.gov/32368/successfully-file-va-compensation-claim/) states “The Intent to File is required…”
     - The About page for 0966 and an FAQ for disability claims suggests intent to file is only relevant for Veterans who want more time to gather evidence.
@@ -71,10 +70,12 @@ The findings below were derived from the page audits referenced above and will i
         - Active ITF notification letter: “intent to file date”
         - Decision letter: “payment start date” or “effective date”
         - Compensation and Pension Manual: “effective date of entitlement”
+
 3. Intent to file dates **are not available** on [VA.gov](http://va.gov/) after submission.
     - If a Veteran submits an intent to file through the standalone form, their confirmation page enables the user to print the page for future records. The introduction page states, “We’ll let you know what your potential effective date is after we process your intent to file,” but does not indicate how the Veteran will be notified or when.
     - If a Veteran submits an intent to file through any channel, they will receive a letter confirming that they now have an active ITF and detailing the date. However, if a Veteran submits an intent to file online (either through automatic submission or in a separate form), we do not inform them on VA.gov if or when they will receive one.
     - Neither ITF submission dates, nor expiration dates, are available in the Claims Status Tool or in My VA. “*Where can I find my intent to file?*” is a common ITF question among Veterans on Reddit, who have directed each other to eBenefits, which has historically listed active and inactive intents to files. Veterans on social media have noted difficulty with recalling their intent to file date, in order to ensure that they file their claim on time to receive their "back pay”, as well as difficulty with even recalling whether they submitted an intent to file at all.
+  
 4. The lifecycle of an intent to file is not disambiguated from an application lifecycle.
     - While all pages about ITF mention the possibility of retroactive payments, some omit how an intent to file works, specifically its timeline – that it sets a potential effective date for one year, and if the Veteran does not complete and file their claim within that year, their potential effective date expires.
     - Application expiry dates can be found on the introduction pages for claims and on My VA, under “Benefit application drafts”. Intent to file expiry dates are only detailed in the ITF check messaging when a Veteran has:
@@ -162,7 +163,7 @@ Goal: Validate Veterans’ comprehension of intent to file’s benefits
 
 Goal: Understand Veterans’ expectations after an ITF is created
 
-- **Where do Veterans expect ITF information to live after notifying VA?**
+- Where do Veterans expect ITF information to live after notifying VA?
 - What information would they look for, and why?
     - How might they troubleshoot if that information is not available?
 
@@ -193,12 +194,14 @@ Goal: Learn whether intent to file messaging is more effective after starting an
 ## Open Questions for the Benefits Portfolio
 
 **Learn about claims**
+
 I want to understand what claims I might be eligible for, so that I can maximize my benefits.
 
 - How might we describe the benefits that the intent to file process provides consistently across [](http://va.gov/)VA channels (webpages, email, VA Notify, letters) so that Veterans are confident in the next steps for their claims?
 - How might we provide a predictable digital experience with intent to file, regardless of the claim type, so that Veterans can have a seamless claims journey without the burden of relearning a process?
 
 **Follow a claim**
+
 I want to know the status of my submitted claim, so that I can have reassurance of when I might receive payments.
 
 - How might we support tracking of non-claim submissions like ITF so that Veterans can identify action items with more certainty and speed, without needing to request additional information from VA?
