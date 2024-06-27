@@ -53,8 +53,10 @@ _Hypothesis 4:_ The old experience will produce higher rates of distrust in VA d
 ## Method
 
 ### Unmoderated study: First-click testing with post-test questions
-This unmoderated study will consist of 
-
+This unmoderated study will consist of participants completing two tasks with different images of care group names. We will use Optimal Workshop's First-click Testing functionality to: 
+- observe how often participants accurately identify a desired care group
+- compare time to complete task across options
+- assess participants' satisfaction and experience with the different care group options
 
 ### Location
 Data collection will be remote and conducted using Optimal Workshop's Chalkmark: First-click testing tool. 
@@ -64,11 +66,13 @@ Data collection will be remote and conducted using Optimal Workshop's Chalkmark:
 
 [Post-test questions](link)
 
+[Charkmark test](link)
+
 
 ## Recruitment
 
 ### Recruitment approach
-We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information (whether the Veteran has used MyHealtheVet before; whether the Veteran uses VA healthcare) in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
+We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
 
 ## Recruitment criteria
 The first seven cohorts will consist of 9 Veterans and the eight will contain 5 Veterans, for a total sample of 68 Veterans. Recruitment will be ongoing until all cohorts are filled. 
