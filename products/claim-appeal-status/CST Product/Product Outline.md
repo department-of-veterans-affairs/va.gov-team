@@ -63,6 +63,7 @@ While VA.gov has helped bring a level of transparency to the claims process by p
 - [CST: Claims API Migration to Lighthouse Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Claims%20API%20Migration%20to%20Lighthouse%20Initiative.md)
 - [CST: Claim Understanding/Contextualization Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Claims%20Process%20Understanding%20Initiative.md)
 - [CST: Claim Notifications Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Event-Driven%20Notifications%20Initiative.md)
+- [CST: 5103 Evidence Waiver Enhancement Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%205103%20Waiver%20Experience%20Initiative.md)
 
 ## Value Propositions
 ### User Value
