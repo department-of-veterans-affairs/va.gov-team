@@ -81,7 +81,7 @@ See Appendix below for full milestone breakdown.
 |4 |Migrate /getPDF functionality to LH| TBD*   | In Progress  |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow.|
 |5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release|
 |6 |New TE Applications - release 1.0|August 1 2024*| Not Started| Dependent on submit migration completion| 
-|7 |Veterans with an IPF - release 1.1|Targeting 14+ days after new applications. ~ mid August|Not Started| |
+|7 |Veterans with an IPF - release 1.1|Targeting 14-21 days after new applications. ~ mid August|Not Started| |
 
 *Dates may vary
 # Release Process
