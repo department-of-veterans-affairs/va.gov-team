@@ -114,11 +114,13 @@ Please provide the following documentation as attachments.
       - **POST `/ivc_champva/v1/forms/status_updates`**
 * Product Specifics:
     * [ ] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-release-plan.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    * [ ] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md) 
+    * [x] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md) 
     - Ensure Product Outline contains **Incident Response** info, including:
         - Points of contact for your system and dependent VA back-ends
+           - Refer to [Form 10-10d Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-playbook.md)
         - Links to dashboards that help identify and debug application issues
-    * [ ] Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/Product_Playbook_Security.md) **BO OR MARY CHANGE URL**
+           - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms)
+    * [x] Is there a playbook included in your product outline, for investigating and handling likely failure modes? [10-10d Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/398ded548cc99a4095c112bdd092e58e32b86fcf/products/health-care/champva/1010D/10-10d-playbook.md)
 
 ## Additional information
 
