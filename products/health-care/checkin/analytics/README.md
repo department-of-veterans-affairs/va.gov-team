@@ -31,11 +31,6 @@
      - [Check In (Travel Claims) for Stakeholders](https://vagov.ddog-gov.com/dashboard/eax-4m7-3de/check-in-travel-claims-stakeholder?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1682971494000&to_ts=1714593894000&live=true)
      - [Check In (vets-api)](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1683563580000&to_ts=1715185980000&live=true)
        
-## DOMO
-- [VA.gov VA Notify KPIs for BTSSS SMS Messages Sent to Veterans](https://va-gov.domo.com/page/2040841289?userId=938213710)
-    - Need to filter on these templates
-     ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/86678742/9ba56a3d-a978-4f45-a63f-c355aa647556)
-
 ## VSignals Feedback
 - [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
 
