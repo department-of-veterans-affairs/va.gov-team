@@ -1,4 +1,5 @@
 # Ticket Templates used by VA Health and Benefits Mobile App
+ * [List of ticket templates available](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new/choose)
 
 ## [Department-of-veratan-affairs VA Mobile Board](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board)
  - Click + Create
