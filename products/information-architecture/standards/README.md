@@ -29,7 +29,7 @@ Secondary navigation | [Side nav in VADS](https://design.va.gov/components/siden
 Search best bets | [Search best bets guidance on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/search-best-bets.md) | Low/Med |Jenny | Review current guidance and identify what should be documented as a standard, what is process, and what is best practice. Identify where each aspect should live and create drafts properly formatted.  Review with OCTO leads for approval. Publish | 
 Pagination | [Pagination component](https://design.va.gov/components/pagination) | Low/High | | Discovery of current usage, any V3 plans, USWDS guidance.  | 
 IA and SEO | [SEO best practices on GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/standards/seo-best-practices.md) <br> [SEO best practices on VADS] | Low/Low | | Review and determine what is standard to be documented and what is general guidance, determine where each aspect should be documented, format for location appropriately.  Review with OCTO leads for approval. Publish | 
-IA and a11y | | Kristin |  | 
+IA and a11y | |  |  | 
 
  
 
