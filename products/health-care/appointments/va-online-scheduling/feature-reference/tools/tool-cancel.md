@@ -28,12 +28,12 @@ A user cannot cancel:
   - For all of those types the user must be instructed to contact the facility to cancel the appointments.
 
 VA phone appointments are cancelable UNLESS they meet the following criteria<sup>1</sup>:
-    - After the merge, there is more than 1 VistA appointment that was merged together
-    - The appointment has a prohibited status for cancelation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
-    - The appointment was already cancelled (a Canceled status)
-    - The appointment was checked-in (so a Checked-in status)
-    - It's a cerner appointment
-    - It's an HSRM request that has already had a cancellation request submitted
+  - After the merge, there is more than 1 VistA appointment that was merged together
+  - The appointment has a prohibited status for cancelation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
+  - The appointment was already cancelled (a Canceled status)
+  - The appointment was checked-in (so a Checked-in status)
+  - It's a cerner appointment
+  - It's an HSRM request that has already had a cancellation request submitted
 
 1. There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
 2. There is no specific logic that made phone appointments not-cancellable. VA phone appointments will always show the cancel button because `vaos-service` is always returning cancelable as true. It is possible that users then click on the "cancel" button and are sometimes not able to cancel due to not passing the checks listed above. Currently there's no way for us to tell if an appointment is cancelable or not until the user clicks the cancel button and we make a req to `vaos-service`. We're working with `vaos-service` on this to improve user experience.
