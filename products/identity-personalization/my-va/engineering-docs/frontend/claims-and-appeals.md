@@ -98,6 +98,11 @@ This **hard-coded** copy is handled in [line 80 in the Appeal component](https:/
   )}`;
 ```
 
+### Status
+The status content here depends on status type (`appeal.attributes.status.type`).
+
+See `getStatusContents` function in [/dashboard/utils/getStatusContents.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/getStatusContents.jsx#L32) for extensive list.
+
 ### Description
 Description is received from API response (`appeal.attributes.description`)
 
