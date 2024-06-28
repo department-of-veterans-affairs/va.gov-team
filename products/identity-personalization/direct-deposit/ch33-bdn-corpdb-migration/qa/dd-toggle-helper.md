@@ -1,7 +1,7 @@
 
 
 
-|toggle name|during downtime | UI |	calls y/n (should be) |	during uat |	calls y/n (should be) | UI | 
+|toggle name|during downtime | calls y/n (should be) | UI |	during uat |	calls y/n (should be) | UI | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |profile_show_direct_deposit_single_form_alert|off|y||off|y||
 |profile_show_direct_deposit_single_form_edu_downtime|on|no edu calls||on|no edu calls||
