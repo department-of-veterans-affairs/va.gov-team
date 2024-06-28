@@ -9,6 +9,7 @@ NOTE:
 
 ## Routes to code
 links here
+
 issue tickets 
 - None, not yet in production
 
@@ -34,6 +35,7 @@ issue tickets
 
 ### Errors and Metrics
 link to errors and logs your product produces
+- DSVA Slack monitoring: [#ivc-forms-datadog](https://dsva.slack.com/archives/C06RQR7V9CM)
 brief explanation of errors/metrics (or link to them here)
 
 ### Issue investigation steps
