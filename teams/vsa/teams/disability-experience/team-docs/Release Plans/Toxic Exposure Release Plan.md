@@ -80,7 +80,7 @@ See Appendix below for full milestone breakdown.
 |3 |Launch Preparation| July 3 2024*|In Progress  | Original date of 6/18 shifted by 1 sprint due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review |
 |4 |Migrate /getPDF functionality to LH| TBD*   | In Progress  |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow.|
 |5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release|
-|6 |New TE Applications - release 1.0|July 27 2024*| Not Started| Dependent on submit migration completion| 
+|6 |New TE Applications - release 1.0|August 1 2024*| Not Started| Dependent on submit migration completion| 
 |7 |Veterans with an IPF - release 1.1|Targeting 14+ days after new applications. ~ mid August|Not Started| |
 
 *Dates may vary
@@ -154,23 +154,26 @@ Approvals for launch:
  - Determine if composite error volume deviates significantly from **5 `400` and/or `500` errors** once threshold is met
 
 #### Day 0-A:
- - Monitor submissions over next ? days. 
+ - Monitor submissions over next 21 days. 
    - Daily task: <individual> executes production script to generate PDF for any claim submitted using TE flow
    - <individual> Send PDF bundle to ??? Team (in S3?) 
    - <individuals> Manually remediate any claim that was not accepted by Claims or Benefits Intake API
    - <team> Fix defects
 
 #### Day 1: 
-- <individual> Toggle on for 25% of Users
+- <individual> Toggle on for 10% of Users
 #### Days 1-6: 
 - Repeat monitoring tasks for 20 claims daily
 
 #### Day 7: 
-- <individual> Toggle on for 50% of Users
+- <individual> Toggle on for 25% of Users
 #### Day 7-13: 
 - Repeat monitoring tasks for 20 claims daily
 
 #### Day 14: 
+- <individual> Toggle on at 50%
+
+#### Day 21: 
 - <individual> Toggle on at 100%
 
 ### Remediation Steps:
@@ -179,7 +182,21 @@ Approvals for launch:
 
 ## Proposed Release Plan for 1.1
 
-Steps TBD
+#### Day 1: 
+- <individual> Toggle on for 10% of Users
+#### Days 1-6: 
+- Repeat monitoring tasks for 20 claims daily
+
+#### Day 7: 
+- <individual> Toggle on for 25% of Users
+#### Day 7-13: 
+- Repeat monitoring tasks for 20 claims daily
+
+#### Day 14: 
+- <individual> Toggle on at 50%
+- 
+#### Day 21: 
+- <individual> Toggle on at 100%
 
 
 # Appendix
