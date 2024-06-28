@@ -76,7 +76,7 @@ Please provide the following documentation as attachments.
       - **We are using SiS(Sign-inService) as our authenticator between us and PEGA. It was chosen because it already existed with max security in mind and required minimal setup.**
     * If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
       - **There are no new backend libraries.**
-* [x] Incident Response Plan **BO OR MARY TURN THIS INTO URL**, including Points of Contact for your system and dependent VA back-ends.
+* [x] Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
     * If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
       - Refer to [Form 10-10d Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-playbook.md)
 * [x] [**Sequence Diagram**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/engineering/sequence_diagram.md)
