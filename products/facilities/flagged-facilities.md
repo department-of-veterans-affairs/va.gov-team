@@ -34,7 +34,7 @@ Flags are determined via Drupal CMS config files, e.g.
 The "⏳ Awaiting ..." flags are applied while working the Flagged Facilities in the [Flagged Content view](https://prod.cms.va.gov/admin/content/facilities/flagged). They are secondary and should never be the only flags on a facility.
 * "⏳ Awaiting Editor" should be applied by Help Desk while awaiting approval, confirmation that a new homepage draft is ready for review, or holding off until a specific date when the facility's status can be changed.
 * "⏳ Awaiting Redirect" should be applied by a CMS Engineer, as a step in the URL Redirect workflow in the [URL Change runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Facilities%2C+Drupal+engineering%2C+Flagged+Facilities%2C+Redirect+request%2C+URL+Change%2C+User+support&projects=&template=runbook-facility-url-change.md&title=URL+Change+for%3A+%3Cinsert+facility+name%3E).
-* "⏳ Awaiting CSV" should be applied by a CMS Engineer, as a step in the Canonical URL change workflow in the [URL Change runbook](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Facilities%2C+Drupal+engineering%2C+Flagged+Facilities%2C+Redirect+request%2C+URL+Change%2C+User+support&projects=&template=runbook-facility-url-change.md&title=URL+Change+for%3A+%3Cinsert+facility+name%3E).
+* "⏳ Awaiting CSV" should be applied by Help Desk or a CMS Engineer, as described in multiple workflows.
 
 ## Runbooks 
 When a Facility is flagged, the facility type and the nature of the flag will determine the runbook that should be used to mitigate the flag. 
