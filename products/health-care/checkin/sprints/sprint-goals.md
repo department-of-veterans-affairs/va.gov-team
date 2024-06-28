@@ -111,7 +111,6 @@
       - 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
       - 🟩 [[FE] Update "How we calculate mileage" Content as Approved by CAIA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86481)
-
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
@@ -122,14 +121,15 @@
     - **Sub Goal: CIE Analytics**
         - 🟩 [[BE] We Need New StatsD Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
-        - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
-        - 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
-        - 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
+        - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
+        - ✔️ 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
+        - ✔️ 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - **Sub Goal: Tech Debt**
         - 🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)
         - 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
         - ✔️ 🟩 [[FE] BUG - date is missing from already field error.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/87064)
         - 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
+
 ## SPRINT 9 - 6/12/2024-6/25/2024
 
 #### SPRINT GOALS
