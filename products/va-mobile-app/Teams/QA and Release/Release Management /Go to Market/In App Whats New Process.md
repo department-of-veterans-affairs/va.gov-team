@@ -1,4 +1,5 @@
 # In-App Whats New Process 
+[In-App Whats New Content Ticket Template](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=&labels=front-end%2C+content%2C+qa%2C&projects=&template=In-App+Whats+New+Implementation.md&title=In-App+Whats+New+Content+-+Feature+Name+-+Release)
 
 ## Overview: 
 Proactively make Veterans aware of new features and changes in the VA Health and Benefits app through a What’s New UI. Currently Veterans are not showcased what changes were made in the app after a new version or feature is released. This will make Veterans aware faster and believe it will drive adoption and engagement within the app.
