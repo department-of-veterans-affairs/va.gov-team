@@ -44,9 +44,14 @@ Your document should be brief and high-level.  One to two pages is appropriate f
     + Identify key areas to monitor
 - Infrastructure and network changes
     + List any changes or additions
+- Test plan
+    + Describe automated testing
+    + Describe required test data and test user accounts
+    + Note any manual tests or user acceptance tests
 - Rollout plan
     + List scope of any feature flags
     + Identify other teams to coordinate with
+    + Describe rollback plan
 
 
 ## How to schedule the Architecture Intent meeting
