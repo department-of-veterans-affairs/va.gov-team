@@ -3,6 +3,7 @@
  - VA lists on their website the VA Health and Benefits App with images and feature descriptions
  - https://mobile.va.gov/app/va-health-and-benefits
  - Mobile to send VA to update this site as needed
+ - [Update App Store Ticket template](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=&labels=app+store&projects=&template=Update+App+Store.md&title=Update+App+Store)
 
 ## Change Management
 | Date Request | Date Implemented | Change Request  |
