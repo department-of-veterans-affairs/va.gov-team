@@ -36,7 +36,7 @@ Notes:
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | High                 | High                  | Elite               | Elite                   |
-| Q2      |                      |                       |                     |                         |
+| Q2      | Elite                | High                  | Elite               | Elite                        |
 | Q3      |                      |                       |                     |                         |
 | Q4      |                      |                       |                     |                         |
 
