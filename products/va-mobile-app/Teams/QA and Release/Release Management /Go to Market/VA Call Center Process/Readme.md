@@ -1,7 +1,9 @@
 # Call Center Documentation
 
 ## Ticket Template: Call Center Document Update
+ * [Call Center Document Update Ticket Template](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=&labels=call+center&projects=&template=Call+Center+Update.md&title=VAHB+Call+Center+Guide+Update)
 
+   
 ## Purpose:
  * Call Center Guide needs to stay updated with any production Veteran facing changes that are made in the Mobile app
  * Mobile will need to make relevant updates to the guide for their changes and follow the Call CEnter process to get it updated 
