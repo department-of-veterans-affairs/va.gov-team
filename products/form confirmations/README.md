@@ -32,7 +32,6 @@
 | 21P-527EZ  | Application for Veterans Pension  |Authenticated and Unauthenticated | Form | January 2023  |
 | 40-10007  | Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery  | Authenticated and Unauthenticated | Form | December 2022 |
 | 21-674  | Request for Approval of School Attendance  | Authenticated | ICN (Profile) | December 2022  |
-| 10-10EZ  | Instructions and Enrollment Application for Health Benefits  | Authenticated | ICN (Profile) | October 2022  |
 | 28-8832  | Education/Vocational Counseling Application (Chapter 36)  | Authenticated and Unauthenticated | If profile email is not present, then form email is used | October 2022  |
 | 28-1900  | Application for Veteran Readiness and Employment for Claimants with Service-Connected Disabilities (Chapter 31)  | Authenticated | ICN (Profile) | July 2022  |
 | 21P-530  | Application for Burial Benefits  | Authenticated and Unauthenticated | Form | July 2022  |
