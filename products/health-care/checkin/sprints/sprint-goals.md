@@ -107,8 +107,8 @@
       - ✔️ 🟨 [[DevOps] Propose transferring octo-vista-api into Check-In Experience's control.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86814)
       - ✔️ 🟨 [[DevOps] Review image scanning results for ECR images in vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87088)
       - ✔️ 🟨 [[DevOps] Nate Douglas needs access to CHYSHY VistA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81378)
+      - ✔️ 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
       - 🟨 [[DevOps] Remove LoROTA Cleanup Lambda and schedule.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86812)
-      - 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
       - 🟩 [[FE] Update "How we calculate mileage" Content as Approved by CAIA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86481)
 - **GOAL: Increase PCI Usability**
