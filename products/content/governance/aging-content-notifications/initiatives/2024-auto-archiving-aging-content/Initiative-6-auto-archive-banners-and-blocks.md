@@ -1,6 +1,9 @@
 
 # Initiative 6: Aging Content Auto-Archive Certain Banners & Blocks
 
+## Cancelled - Not Implemented per Dave Conlon
+### Won't bring the expected value to editors or tangentially to veterans, so this has been cancelled.
+
 ## Elevator Statement
 Configure Auto-archiving of Full-width Banners aka Full width alerts, the Home Page News Spotlight Block, and the Home Page Benefit Promo Block based on the expiration dates assigned to the particular content-type.
 
