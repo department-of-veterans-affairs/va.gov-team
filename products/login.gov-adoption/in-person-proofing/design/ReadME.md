@@ -9,7 +9,7 @@ This directory contains design artifacts related to in-person proofing for login
 
 | Design Artifact | Description | Date |
 | -------         | -------     | ---- | 
-| Future State Flows | IPP User Flows and Dev Walkthrough Ideation space for the design team to think beyond what has been built, and understand different pathways or alternate flows for the future state of IPP | May 2024 |
+| [Future State Flows](https://www.figma.com/design/OKnM2rn0Oyw5UhCUQ41VTi/Future-State-Flows?node-id=9-1628&t=6uPhQ9EpsjGzPW4H-1) | IPP User Flows and Dev Walkthrough Ideation space for the design team to think beyond what has been built, and understand different pathways or alternate flows for the future state of IPP | May 2024 |
 | [IPP Pilot Proofing Agent Prototype](https://www.figma.com/design/eo0J5jEdIEM0mguwDJKhYP/IPP-Pilot-Proofing-Agent-Prototype?node-id=0-1&t=qR9AZmmhmzYIZmaF-1)| Prototype of proofing agent flow used in Pilot 1 | May 2024 |
 | [IPP Pilot Veteran Intake Prototype](https://www.figma.com/design/E7t32QztOAriRxwSUtgNs0/IPP-Pilot-Intake-Prototype?m=auto&t=GLaQindnZjEEza5v-6) | Prototype of Veteran intake flow used in Pilot 1 | May 2024 | 
 | [IPP Service Blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715862145471/8196848a7fe21666df5cfa70a3f0bec34e6a65c5?sender=u1b0df595924572baa8a94764) | Service blueprint of happy path and pilot flow | March 2024 | 
