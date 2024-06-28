@@ -4,6 +4,8 @@
 
 *Claims endpoint is `/v0/benefits_claims`
 
+<img width="489" alt="claims-and-appeals-01" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/8542413/13c9a98c-8e12-46f1-a908-23563258cf90">
+
 ### Claim type
 
 Claim types come from API response (`claimType`), which can be one of the following (but not limited to):
@@ -57,6 +59,8 @@ We sent you a decision letter
 ## Appeal
 
 *Appeals endpoint is `/v0/appeals`
+
+<img width="496" alt="claims-and-appeals-02" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/8542413/e0eec437-6939-4d6d-923a-473605f66fc7">
 
 
 ### Appeal title
