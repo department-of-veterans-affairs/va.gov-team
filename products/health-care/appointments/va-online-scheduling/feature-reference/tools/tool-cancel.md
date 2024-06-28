@@ -1,32 +1,42 @@
 # Cancel appointment
 
 ## Overview
-Veterans can cancel appointments through VAOS.
+Veterans can cancel their appointments and requests through VAOS.
 
 ## User stories
 
 - As a user I want to cancel my appointments online.
+- As a user I want to cancel my appointment requests online.
+- As a user I want to know when the facility cancels my appointment.
 
 ## Requirements
 
 **Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
-- The user must be instructed to contact the facility to cancel an appointment if the appointment is any of the following: 
-  - Community Care appointment
-  - COVID appointment 
-  - Compensation and Pension exam appointment
-  - Video Visit appointment<sup>1</sup>
+A user can cancel VA in-person appointments.
 
-1. 01/25/24 There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
-2. 10/13/23 VA phone appointments will/should always show the cancel button because `vaos-service` is always returning cancelable as true. It is possible that users then click on the "cancel" button and are sometimes not able to cancel due to other requirements. Currently there's no way for us to tell if an appointment is cancelable or not until the user clicks the cancel button and we make a req to `vaos-service`. We're working with `vaos-service` on this to improve user experience.
-   -  6/7/24 There is no specific logic that made phone appointments not-cancellable so they would be cancellable as long as they don't hit any of the other checks. Some of those other checks are:
-       - If after the merge, there is more than 1 VistA appointment that was merged together
-       - If the appointment has a prohibited status for cancellation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
-       - If the appointment was already cancelled (a Cancelled status)
-       - If the appointment was checked-in (so a Checked-in status)
-       - If it's a cerner appointment
-       - If it's an HSRM request that has already had a cancellation request submitted
+A user can cancel:
+- VA requests
+- Community care requests
+
+A user cannot cancel: 
+  - Community Care appointments
+  - COVID appointments
+  - Compensation and Pension exam appointments
+  - Telehealth (VA Video Care) appointments<sup>1</sup>
+  - For all of those types the user must be instructed to contact the facility to cancel the appointments.
+
+VA phone appointments are cancelable UNLESS they meet the following criteria<sup>1</sup>:
+    - After the merge, there is more than 1 VistA appointment that was merged together
+    - The appointment has a prohibited status for cancelation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
+    - The appointment was already cancelled (a Canceled status)
+    - The appointment was checked-in (so a Checked-in status)
+    - It's a cerner appointment
+    - It's an HSRM request that has already had a cancellation request submitted
+
+1. There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
+2. There is no specific logic that made phone appointments not-cancellable. VA phone appointments will always show the cancel button because `vaos-service` is always returning cancelable as true. It is possible that users then click on the "cancel" button and are sometimes not able to cancel due to not passing the checks listed above. Currently there's no way for us to tell if an appointment is cancelable or not until the user clicks the cancel button and we make a req to `vaos-service`. We're working with `vaos-service` on this to improve user experience.
  
 ### Status Message
 - The canceled appointment displays a status indicating who canceled it.
