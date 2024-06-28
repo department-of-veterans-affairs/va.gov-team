@@ -31,7 +31,7 @@ What task were you trying to do today? | VFS Questionnaire/ Feedback Survey | Wh
 
 To view the complete surveys, please visit this page on the [Platform documentation site](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data). 
 
-## Combining Medallia data from multiple URLs into central [Excel file](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B8c161ac9-bb42-401d-9b5d-913941f1eca9%7D&action=editnew&wdsle=0) for combined analysis
+## Combining Medallia data from multiple URLs into central MHV on VA.gov Medallia Feedback excel file for combined analysis
 
 As more products become accessible to Veterans on VA.gov and as usage increases, it will become more likely that feedback submitted via either intercept survey or feedback button survey in a given URL will relate to other patient portal tools or problems. We need to centralize Medallia feedback into one space to enable multiple product teams to review feedback that relates to their problem space, regardless of which URL feedback is provided on. 
 
