@@ -1,4 +1,4 @@
-# Events v3 Intiative Briefing
+# Events v3 Initiative Briefing
 
 ## Brief Description
 How might we enhance a Veteran's experience when they're searching for and viewing events, allowing them to easily find events pertinent to their needs with plenty of lead-time to attend either online or in-person.
