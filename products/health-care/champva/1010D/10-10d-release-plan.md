@@ -101,22 +101,23 @@ Even though your feature has been tested and ready, production is still a differ
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+User testing completed
+- Date range or test duration: 4/10/24 - 5/10/24
+- Dumber of users: [FILL_IN]
+- How you'll recruit the right production test users: Perigean
+- How you'll conduct the testing: User interviews
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: tested in staging
 
 #### Results
 
 - Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
+- Number of bugs identified / fixed: 0/0
   - [FILL_IN] : list
   - [FILL_IN] : of
   - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Was any downstream service affected by the change?: no
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
