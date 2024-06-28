@@ -32,7 +32,7 @@ Access our ongoing documentation and collaborative resources on Google Docs: [AR
 
 Below are some documents worth calling out specifically:
 
-* [ARP Team Jargon](/products/accredited-representative-facing/product-info/arf-team-jargon.md).
+* [ARP Team Jargon](/products/accredited-representative-facing/product-info/team-jargon.md).
 
 ## The Team
 
