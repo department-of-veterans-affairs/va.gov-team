@@ -1,6 +1,9 @@
 
 # Initiative 5: Aging Content New Framework for Auto-Archiving Content
 
+## Cancelled - Not Implemented per Dave Conlon
+### Won't bring the expected value to editors or tangentially to veterans, so this has been cancelled.
+
 ## Elevator Statement
 Create a way for any content type that's in a published state, and that has an expiration date, to be permanently auto-archived.
 
