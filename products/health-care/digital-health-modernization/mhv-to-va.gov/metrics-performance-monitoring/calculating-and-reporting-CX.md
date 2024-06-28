@@ -29,6 +29,7 @@ Were you able to do your task today? | VFS Questionnaire/ Feedback Survey | Were
 What is your overall satisfaction with this site? | VFS Questionnaire/ Feedback Survey | What is your overall satisfaction with this site?
 What task were you trying to do today? | VFS Questionnaire/ Feedback Survey | What task were you trying to do today?
 
+To view the complete surveys, please visit this page on the [Platform documentation site](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data). 
 
 ## Reporting quantitative CX data
 
