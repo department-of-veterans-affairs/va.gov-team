@@ -80,7 +80,7 @@ Veterans and family members of Veterans must currently download and fill out the
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - 7/31/24
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -89,9 +89,9 @@ Veterans and family members of Veterans must currently download and fill out the
 - Collaboration Cycle
   - [x] CAIA kickoff: 11/29/23
   - [x] Design Intent: 1/9/24
-  - [ ] Research:
+  - [x] Research: 4/10/24
   - [x] Midpoint: 2/15
-  - [ ] Analytics:
+  - [x] Analytics: [requested on 6/20/24](https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/86492)
   - [ ] Staging:
   - [ ] Security:
 ---
