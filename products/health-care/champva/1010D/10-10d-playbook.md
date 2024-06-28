@@ -8,7 +8,7 @@ NOTE:
 [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md)
 
 ## Routes to code
-links here
+
 
 issue tickets 
 - None, not yet in production
@@ -23,13 +23,18 @@ issue tickets
 
 ### Outage Contacts:
 - DSVA Slack channel: [#ivc-forms](https://dsva.slack.com/archives/C05UDS77ZPH)
-- Premal Shah, premal.shah@va.gov
-- Bo Altes, robert.altes@va.gov bo.altes@agile6.com
-- Mary Wang, mary.wang3@va.gov mary.wang@adhocteam.us
-- Bryan Alexander, bryan.alexander@va.gov bryan.alexander@adhocteam.us
-- Don Shin, don.shin@va.gov don.shin@agile6.com
-- Michael Clement, michael.clement1@va.gov michael.clement@adhocteam.us
-- Devi Hill, devi.hill@va.gov devi.hill@agile6.com
+
+
+| Name            |         | VA email                | Employer email               |
+|-----------------|---------|-------------------------|------------------------------|
+| Premal Shah     | DSVA PO | premal.shah@va.gov      |                              |
+| Bo Altes        | PM      | robert.altes@va.gov     | bo.altes@agile6.com          |
+| Mary Wang       | PM      | mary.wang3@va.gov       | mary.wang@adhocteam.us       |
+| Bryan Alexander | Eng     | bryan.alexander@va.gov  | bryan.alexander@adhocteam.us |
+| Don Shin        | Eng     | don.shin@va.gov         | don.shin@agile6.com          |
+| Michael Clement | Eng     | michael.clement1@va.gov | michael.clement@adhocteam.us |
+| Devi Hill       | DM      | devi.hill@va.gov        | devi.hill@agile6.com         |
+
 
 ## Troubleshooting
 
