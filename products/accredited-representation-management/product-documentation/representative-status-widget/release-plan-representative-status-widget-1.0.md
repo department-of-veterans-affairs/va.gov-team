@@ -123,6 +123,9 @@ _Link to DOMO dashboards TBD_
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/142453186/2790b0fc-b55b-43ac-b3e0-4814bee84b49)
 
 **Contact Center calls (MyVA411)**: 
+- Two inquiries were related to the Representative Status Widget
+   - One user received our error message and hypothesized that their representation status couldn't be shown because they got married and have a new last name, but their profile on VA.gov was still showing their maiden name.
+   - One user was a previous VSO represenative that changed to become a claims agent and was no longer accredited as a VSO representative.  They had submitted submitted paperwork to OGC, but no update since.  They provided their contact information hoping someone would follow up to help them no longer be listed as an accredited VSO representative.   _This feedback is more related to Find a Representative, than the Representative Status Widget_
 
 **Feedback survey submmissions (Medallia)**:  
 
