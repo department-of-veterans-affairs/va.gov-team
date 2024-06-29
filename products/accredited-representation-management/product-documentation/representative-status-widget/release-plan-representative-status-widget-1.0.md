@@ -131,6 +131,7 @@ Two inquiries were related to the Representative Status Widget
 **Feedback survey submmissions (Medallia)**:  
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?** 
+
 We will associate the `422` status with the "No representative" state to better inform that subest of users.  We will also update the phone number in the error state to a number users can call to inquire about representation -- 1-800-827-1000, which is more helpful than the MyVA411 number.
 
 
