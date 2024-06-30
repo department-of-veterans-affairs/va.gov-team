@@ -18,7 +18,7 @@
 ## Intro - 5 minutes
 - Thanks for joining us today!
   
-- My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... Today we're going to talk about receiving a referral for community care and self-scheduling an appointment. 
+- My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... today, we're going to talk about receiving a referral for a community care provider and self-scheduling an appointment. 
 
 - Before we start, I have a few things that I want to go over with you:
 
