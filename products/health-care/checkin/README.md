@@ -165,7 +165,7 @@
 - [Justin Wowk (Program Manager)](https://dsva.slack.com/team/U01DWSX9Y2D)
 - [Ariel Hicks (Communication, Content)](https://dsva.slack.com/team/U04M7H63XTN)
 
-## Resources Developed outside the CIE Team
+## Resources developed outside the CIE Team
 
 For questions, reach out to [VHAIVCPatientEngagementTeam@va.gov](mailto:VHAIVCPatientEngagementTeam@va.gov)
 
