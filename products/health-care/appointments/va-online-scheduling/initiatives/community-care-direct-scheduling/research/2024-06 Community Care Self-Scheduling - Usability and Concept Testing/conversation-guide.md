@@ -74,7 +74,7 @@
   - _If no:_ No, problem. Have you ever received care from a VA provider that you needed VA's authorization for?
     - _If yes:_ How did you schedule that appointment?
 
-  - _If no to all:_ If you wanted to receive care from a community care provider in the future, could you tell me how you would go about requesting to receive care from them?
+  - _If no to all:_ So, if you wanted to receive care from a community care provider in the future, could you tell me how you would go about requesting to receive care from them?
 
 - What documentation would you expect to receive from your VA provider to receive care by another provider?
 
