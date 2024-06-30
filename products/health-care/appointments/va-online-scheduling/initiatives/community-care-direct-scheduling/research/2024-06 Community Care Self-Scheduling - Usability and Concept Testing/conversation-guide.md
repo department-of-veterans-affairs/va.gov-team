@@ -316,25 +316,29 @@ _**Participant is on Pending page:**_
 
 - How is this similar to or different from what you expected to find?
   
-- Do you have any other comments or questions about the information on this? Please don't hesitate to give us your feedback; this is a very early concept that may or may not be used.
+- Do you have any other comments or questions about the information presented on this page? Please don't hesitate to give us your feedback; this is a very early concept that may or may not be used.
 
 -------
 
 ## Post-Task Interview - 1-2 minutes
-- Ok, thank you! That concludes that activity and is everything we need to go through today. Do you have any other questions for me or comments about what we’ve reviewed today?
+- Ok, thank you! That concludes that activity and is everything we need to go through today.
+  
+- Do you have any other questions for me or additional comments about what we’ve reviewed today together?
 
-- Lastly, I'd like to confirm: **Are you still okay if we use any video or audio clips from this session?"**
+- _If the participant agreed to record this session:_ 
+   - Lastly, I'd like to confirm once again: **Are you still okay if we use any video or audio clips from this session?"** We won’t share any information that identifies you, and we’ll remove your face and name from any videos if we do share them. 
 
-- Do you have any questions for me or anything else you’d like to share?
-
+      - _If yes:_ Thank you.
+     
 ## Thank you and Closing - 1 minute
-- Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this feature and make sure it really works for Veterans.
+- Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this tool and make sure it really works for Veterans.
 
-- Thanks! And lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans who might be interested in participating in future research studies as well.
+- Thanks, and lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans who might be interested in participating in future research studies like this as well.
 
 - Thank you so much again, and enjoy the rest of your day!
 
 ----
+
 ## Exit strategies
 
 ### Sample exit strategies
