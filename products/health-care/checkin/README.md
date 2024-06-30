@@ -88,7 +88,7 @@
 - [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-medalia-feedback.md)
 - [How to Generate an Analytics Report for VA Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
   
-#### Production Designs
+#### Production Designs (Figma)
 - [Production | Pre-check-in and check-in](https://www.figma.com/file/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-Check-in?type=design&node-id=2%3A1305&mode=design&t=0lRYfw3kcVScWClF-1)
 - [Working | Check-in](https://www.figma.com/file/pnR05o7NPJDS0KFUSQ0eE3/Check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=xPKUeH49IJf3iY0Y-1)
 - [Working | Pre-check-in](https://www.figma.com/file/mVg6S9xgiQpWbAOAvptQOZ/Pre-check-in-%7C-Check-in?type=design&node-id=0%3A1&mode=design&t=wncuIj1Ko8hFd9sf-1)
