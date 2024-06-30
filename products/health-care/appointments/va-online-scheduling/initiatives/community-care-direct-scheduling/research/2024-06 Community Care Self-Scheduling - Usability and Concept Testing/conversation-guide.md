@@ -78,7 +78,7 @@
 
 - What documentation would you expect to receive from your VA provider to receive care by another provider?
 
-- And, what information would you expect to be included in those documents?
+- And, what information would you expect to be included in that document (or documents)?
 
 - Where would you expect to be able to find those documents from VA if they required you to self-schedule an appointment?
 
