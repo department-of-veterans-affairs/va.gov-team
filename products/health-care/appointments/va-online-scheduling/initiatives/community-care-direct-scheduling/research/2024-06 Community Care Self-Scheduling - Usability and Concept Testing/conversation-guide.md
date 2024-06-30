@@ -176,7 +176,7 @@ _**Participant is at Appointment list:**_
     - What did you expect to be on this page?
     - Is anything here confusing?
 
-- Without doing anything yet, tell me a little about what you’d do next based on the message you received.
+- Without doing anything yet, tell me a little about what you’d do next based on the text message you received.
 
 - _If task card was not mentioned:_ 
   - Did you notice anything about a referral? 
