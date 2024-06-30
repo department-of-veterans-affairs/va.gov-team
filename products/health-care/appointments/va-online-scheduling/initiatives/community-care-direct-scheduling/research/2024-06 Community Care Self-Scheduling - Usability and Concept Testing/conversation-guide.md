@@ -215,14 +215,15 @@ _**Participant is on provider page:**_
 
 - Go ahead and walk me through how you'd do that.
   
-  - _If needed:_
-     - **Did you notice the "Filter and sort" link? Okay, now go ahead and select that link.**
+- **Did you notice the "Filter and sort" link? Okay, now go ahead and select that link.**
+  
 ---
 
 _**Participant is on filter page:**_ 
 
 - Tell me about this page.
-  - _If needed:_ Is there anything confusing about this page and the information included here?
+
+- Is there anything confusing about this page and the information included here?
 
 [SHOW ONLY ONLINE SCHEDULING FILTER]
 
