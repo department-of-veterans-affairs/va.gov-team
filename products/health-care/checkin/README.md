@@ -17,9 +17,10 @@
     - [Translations](#translations)
     - [Service Now Knowledge Articles for Support](#service-now-knowledge-articles-for-support)
 - [Engineering](#engineering)
-- [Contacts](#contacts)
+- [SME Contacts](#sme-contacts)
     - [CAIA Key Contacts Supporting Check In](#caia-key-contacts-supporting-check-in)
     - [OCTO Health Tools Shared Support SMEs](#octo-health-tools-shared-support-smes)
+    - [VEText SMEs](#vetext-smes)
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
