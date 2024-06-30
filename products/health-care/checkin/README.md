@@ -29,8 +29,8 @@
     - Stephen Barrs (Eng)
 - Product Manager - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
 - Delivery Manager & Scrum Master - [Anita Halici](https://dsva.slack.com/archives/D055G32ES79)
-- UX Researcher - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
-- UX Designer
+- UX Researchers & Designers
+  - [Ben Brasso](https://dsva.slack.com/team/U0360TY9E9H)
   - [Zach Park](https://dsva.slack.com/team/U02FQ4X5J8M)
   - [Christina Gednalske](https://dsva.slack.com/team/U02KVPC82VA)
 - Full Stack Engineers
