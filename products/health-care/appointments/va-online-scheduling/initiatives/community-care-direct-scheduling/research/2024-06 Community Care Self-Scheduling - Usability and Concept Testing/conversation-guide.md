@@ -296,17 +296,18 @@ _**Participant is on success/detail page:**_
 
 - Thank you! I just have one more thing for you to review.
   
-- Now I’ll have you go back to your list of appointments by selecting ____. _(guide them back if needed)_
-
+- Now I’ll have you go back to your list of appointments by selecting the "Review your appointments" link towards the top of the page. _(guide them back if needed)_
 
 _**Participant is on appointment list page (no task card):**_
-- Earlier we talked about where you would expect to find your referrals. I’d like to get your feedback on an early concept for where those referrals might be located.  
+- Great. So, earlier, I asked you an open-ended question about where you would expect to find a list of your referrals. So, now, I’d like to get your feedback on an early concept for where those referrals might be located in this tool. 
 
-- You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. At this point, let's say you remembered that you also requested another referral, in addition to the one you just scheduled for. From here, where would you go to find that referral?
+- Earlier, you mentioned that _______. **_(RECAP where the participant expected to find referrals from their earlier responses.)_**.
 
-- And where would you go to review your older referrals?
+- At this point, let's say you remembered you had another referral waiting to be self-scheduled. From this page, without selecting anything yet, where would you go to find that referral?
 
-- Ok, thank you. Now, I’ll have you navigate to your Pending appointments. 
+- And again, without selecting anything yet, where would you go on this page to review your older referrals from appointments you already completed? 
+
+- Ok, thank you. Now, I’ll have you navigate to your "Pending" appointments. 
 
 ---
 
