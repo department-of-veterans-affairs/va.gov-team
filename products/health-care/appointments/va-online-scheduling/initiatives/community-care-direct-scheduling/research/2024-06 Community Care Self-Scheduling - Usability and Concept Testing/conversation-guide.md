@@ -88,15 +88,17 @@
 
 ## Task #1 - Usability Testing - 20 minutes
 
-- Ok, thank you! So now I'll have you try a prototype for scheduling an appointment online with a community care providers - based on a community care request you recently made. 
+- Ok, thank you!
+  
+- So now I'll have you try a prototype for scheduling an appointment online with a community care provider; based on a request you recently made. 
 
-- In the prototype, some things you’ll be able to select, while other things you won’t. None of your information is included, and this won’t affect your account or benefits in any way.
+- In the prototype, some things you’ll be able to select, while other things you won’t. None of your actual information is included, and this won’t affect your account or VA benefits in any way.
 
 - Do you have any questions about that before we get started?
 
-- Ok, I’m sending you the prototype link in the [chat/email]. 
+- Ok, I’m sending you the prototype link now. 
 
-_Send [Prototype link](LINK)_
+   - _Send [Prototype link](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=294-3585&t=LCu6HynSx7l1uQBW-1)._
 
 - You can go ahead and select that link. And let me know when you have that open. 
 
@@ -109,11 +111,14 @@ _Send [Prototype link](LINK)_
 ```
 
 
-- Ok, now I’d like to be able to see your screen so I can see how you’re using the prototype. Are you comfortable sharing your screen with me today?
-   - _If no:_ No problem. In that case, would you be able to describe to me what you are doing as you go through the prototype?
-     - _(If still no, for non-screen reader users): Moderator can choose to share their own screen._ I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound? _Skip to start of email._ 
+- Ok, now I’d like to be able to see your screen so I can see how you’re using the prototype. **Are you comfortable sharing your screen with me today?**
+   - _If no:_ No problem. In that case, would you be able to describe aloud to me what you are doing as you go through the prototype?
+     - _If still no, for non-screen reader users, moderator can choose to share their own screen._
+        - No problem. I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound?
+          
+        - _Skip to [prototype](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=294-3585&t=LCu6HynSx7l1uQBW-1)._ 
 
-- _If yes:_ Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
+   - _If yes:_ Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
 
 
 ```
