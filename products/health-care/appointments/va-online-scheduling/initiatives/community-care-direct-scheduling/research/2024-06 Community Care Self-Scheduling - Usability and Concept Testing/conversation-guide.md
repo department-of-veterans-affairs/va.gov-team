@@ -166,7 +166,7 @@ _**Participant is at mock sign in page:**_
 
 _**Participant is at Appointment list:**_
 
-- Ok, I’ll have you stop here. Where were you expecting to end up?
+- Ok, I’ll have you stop here. Could you tell me if this is where you were you expecting to end up after selecting the link in the text message?
 
 - Now let’s review what’s on this page. Can you briefly review the page and tell me about it?
 
