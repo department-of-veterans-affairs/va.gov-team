@@ -144,9 +144,9 @@ _**Participant starts at Text message:**_
 
 - Is there anything that's confusing about this information?
 
-- How does this compare to what you’d expect to be in a text message like this?
+- How does the information in this text message compare to what you’d expect to find in a text message like this?
 
-- Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here.
+- Ok, thank you. Now, thinking out loud as you go along, please walk me through what you would do from here and go ahead and do that. 
 
 ---
 
