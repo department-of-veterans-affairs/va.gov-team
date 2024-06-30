@@ -1,6 +1,7 @@
 # MODERNIZED CHECK-IN TEAM HOME PAGE
 
-## Quick Links
+**Quick Links**
+
 - [Team Members](#team-members)
 - [Terminology](#terminology)
 - [Product](#product)
