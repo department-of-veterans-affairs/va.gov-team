@@ -155,7 +155,7 @@
 - [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - A11y
 
 #### OCTO Health Tools Shared Support SMEs
-- [Dan Bivens](https://dsva.slack.com/team/U06J1AMSMC5) - A11y
+- [Riley Orr](https://dsva.slack.com/team/U079QRM8WGN) - A11y
 - [Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) - IA
 
 ## Resources Developed outside the CIE Team
