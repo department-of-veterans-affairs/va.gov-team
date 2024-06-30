@@ -80,9 +80,9 @@
 
 - And, what information would you expect to be included in that document (or documents)?
 
-- Where would you expect to be able to find those documents from VA if they required you to self-schedule an appointment?
+- Where would you expect to be able to find a record of that document, especially if it required you to self-schedule an appointment as a next step?
 
-- Where would you expect to find those documents from past requests?
+- Where would you expect to find those types of documents from past requests to receive care by another provider?
    
 -------
 
