@@ -65,7 +65,7 @@
 - Great. Thank you.
 
 ---
-## Referral questions - 10 minutes
+## Semi-structured interview - Referrals - 10 minutes
 - We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about receiving authorization from VA to receive care from another VA provider for specialty care or a community care provider.
 
 - First off, have you received care from a community care provider before? (You don’t need to talk about what it was for.)
