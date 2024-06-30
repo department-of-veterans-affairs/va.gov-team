@@ -140,7 +140,7 @@ _**Participant starts at Text message:**_
 
 - Now, imagine you just received this text message from VA. 
 
-- Go ahead and review it.
+- Go ahead and review it, but don't select anything yet. 
 
 - Is there anything that's confusing about this information?
 
