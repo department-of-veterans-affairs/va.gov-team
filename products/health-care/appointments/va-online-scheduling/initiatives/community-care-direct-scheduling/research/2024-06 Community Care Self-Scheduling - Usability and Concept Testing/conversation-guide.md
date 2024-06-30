@@ -69,7 +69,7 @@
 - We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about receiving authorization from VA to receive care from another VA provider for specialty care or a community care provider.
 
 - First off, have you received care from a community care provider before? (You don’t need to talk about what it was for.)
-  - _If yes:_ Could you talk me through how you got that appointment scheduled?
+  - _If yes:_ Could you talk me through how you got that (or typically get that) appointment scheduled?
 
   - _If no:_ No, problem. Have you ever received care from a VA provider that you needed VA's authorization for?
     - _If yes:_ How did you schedule that appointment?
