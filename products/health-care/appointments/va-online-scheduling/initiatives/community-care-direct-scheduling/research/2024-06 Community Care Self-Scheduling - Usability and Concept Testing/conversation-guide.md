@@ -152,8 +152,15 @@ _**Participant starts at Text message:**_
 
 _**Participant is at mock sign in page:**_
 
-- At this point you would sign in to va.gov, but go ahead and choose any option, since this is just a prototype representing sign in.
+- At this point you would sign in to VA.gov, but go ahead and choose ID.me, since this is just a prototype representing a sign in.
+  
+- And, go ahead and begin to add your email address and it will auto-populate some information.
+  
+- Great. Now, go ahead and select "Sign in" to continue.
+  
+- And, once more, go ahead and begin to enter the 6-digit code that was, if we're imagining, texted to you.
 
+- Perfect. And, go ahead and select "Continue." 
 
 ---
 
