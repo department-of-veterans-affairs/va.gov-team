@@ -45,10 +45,12 @@
 - Before we go to the prototype, let’s start with a few warm-up questions:
 
 - Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
+  
+   - And, approximately, when was the last time you used the Appointments tool?  
 
-- What device are you using to join this session today?
+- And, what device are you using to join this session today?
 
-- I will be sharing a web page link with you during this session. How would you prefer to receive the url? For example, I could send it through the Zoom (messages) chat or email it to you.
+- So, I will be sharing a web page link with you during this session. How would you prefer to receive the url? For example, I could send it through the Zoom (messages) chat or email it to you.
 
 _If the participant is using a screen reader:_
   - Are you using a screen reader or other assistive technology today? If so, what type? (For example, VoiceOver.)
