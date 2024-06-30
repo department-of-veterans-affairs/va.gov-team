@@ -252,11 +252,11 @@ _**Participant is on 2nd provider page:**_
   
 - What's your understanding of the provider list now that you selected those filter choices?
   - _If needed:_ How has the page changed?
-  - _If needed:_ How do you know that those choices were applied?
+  - _If needed:_ How do you know that those choices were selected?
 
-- And how does this match up to what you expected to find on this page?
+- And how does this match up to what you expected to find after submitting those options? 
 
-- Ok, thank you. Let's pretend that the first provider matches what you're looking for. Go ahead and choose that provider.
+- Ok, thank you. Let's pretend that the first provider under "All providers" matches what you're looking for. Go ahead and choose that provider.
 
 
 ---
@@ -266,28 +266,29 @@ _**Participant is on choose time and date page:**_
   
 - Is there anything missing you’d expect to find on this page?
 
-- Walk me through how you would continue from here. _(Stop participant to ask about any usability hurdles)_
+- Now, slowly walk me through how you would continue from here and go ahead and take those next steps. _(Stop participant to ask about any usability hurdles)_
 
 ---
 
 _**Participant is on review/confirm choices page:**_
-
 - Is there anything confusing about this page?
 
-- What would you do if you wanted to change some of your selections here?
+- Without selecting anything, what would you do if you wanted to change some of your appointment details?
 
 - And what would you expect to happen after selecting the edit link?
 
-- Ok, go ahead and continue to the next step.
+- Great. Now go ahead and continue to the next step.
 
 ---
-_**Participant is on success/detail page:**_
 
+_**Participant is on success/detail page:**_
 - Talk to me about this page and the information included here. 
 
-- How is this similar to or different from what you expected?
+- How is this similar to or different from what you expected to find after you just confirmed the appointment?
 
 - Thank you. And lastly, how would you expect to be able to cancel or reschedule this appointment if you needed to?
+  
+- Do you think you would have to call the community care provider to cancel the appointment? 
 
 ----
 
@@ -299,7 +300,6 @@ _**Participant is on success/detail page:**_
 
 
 _**Participant is on appointment list page (no task card):**_
-
 - Earlier we talked about where you would expect to find your referrals. I’d like to get your feedback on an early concept for where those referrals might be located.  
 
 - You mentioned _______. **_(RECAP where the participant expected to find referrals from earlier questions)_**. At this point, let's say you remembered that you also requested another referral, in addition to the one you just scheduled for. From here, where would you go to find that referral?
@@ -311,7 +311,6 @@ _**Participant is on appointment list page (no task card):**_
 ---
 
 _**Participant is on Pending page:**_
-
 - Talk to me about this page and what’s included here.
 
 - How is this similar to or different from what you expected to find?
