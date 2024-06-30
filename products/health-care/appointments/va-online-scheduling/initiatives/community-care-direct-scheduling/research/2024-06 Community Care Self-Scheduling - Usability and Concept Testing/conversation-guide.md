@@ -179,8 +179,8 @@ _**Participant is at Appointment list:**_
 - Without doing anything yet, tell me a little about what you’d do next based on the text message you received.
 
 - _If task card was not mentioned:_ 
-  - Did you notice anything about a referral? 
-  - Did you notice the box at the top of the page? What does that mean to you?
+  - Did you notice anything about a scheduling an appointment? 
+  - Did you notice the box at the top of the page? And, what does that seem to mean to you?
 
 - Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message you received.
 
