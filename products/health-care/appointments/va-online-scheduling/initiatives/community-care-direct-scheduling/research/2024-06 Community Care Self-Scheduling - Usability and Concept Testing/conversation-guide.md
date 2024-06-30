@@ -3,8 +3,8 @@
 ## Moderator logistics
 ### 2-3 days before the session
 - Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Checklist.1958773011.html#ResearchChecklist-5.Conductsessions). 
-- Complete any project-specific setup tasks for this study (List them below)
-   - [ ] Double check [Figma prototype](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=1538-33305&t=LCu6HynSx7l1uQBW-1&starting-point-node-id=1538%3A33305)
+- Complete any project-specific setup tasks for this study: 
+  - Double check [Figma prototype](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=1538-33305&t=LCu6HynSx7l1uQBW-1&starting-point-node-id=1538%3A33305)
 ### Day of the session
 - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
