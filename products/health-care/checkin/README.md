@@ -23,7 +23,7 @@
 - [Resources Developed outside the CIE Team](#resources-developed-outside-the-cie-team)
 
 ## Team Members
-- OCTO Pod
+- OCTO health pod
     - Kay Lawyer (PO)
     - Kristen McConnell (UX)
     - Stephen Barrs (Eng)
