@@ -11,9 +11,8 @@
 - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-- Check your [screen sharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro*
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
+- Check your "screen sharing setup" and share permissions for participants.
 
 ---
 ## Intro - 5 minutes
