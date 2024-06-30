@@ -8,7 +8,7 @@
     - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
     - [Product Releases](#product-releases)
     - [Metrics and Veteran Feedback](#metrics-and-veteran-feedback)
-    - [Production Designs](#production-designs)
+    - [Production Designs](#production-designs-figma)
     - [Research](#research)    
     - [Testing](#testing)
     - [Production Support](#production-support)
@@ -166,6 +166,9 @@
 - [Ariel Hicks (Communication, Content)](https://dsva.slack.com/team/U04M7H63XTN)
 
 ## Resources Developed outside the CIE Team
+
+For questions, reach out to [VHAIVCPatientEngagementTeam@va.gov](mailto:VHAIVCPatientEngagementTeam@va.gov)
+
 - [PCI - Enterprise Implementation Team](https://teams.microsoft.com/l/team/19%3awwjxmJilnNQkrSuL1_UDJccHQcMIPF2OnFC73KpNN9s1%40thread.tacv2/conversations?groupId=7b702e1f-7c29-419b-8215-35b0346ca2b5&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf)
 -	[PCI Dashboard](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2Fvhapcirollout%2FSitePages%2FDashboard.aspx&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653446221%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fivCnQ1MdP5xTjJEEweW6tiwqAjgYQsp0Co51VvyNwQ%3D&reserved=0)
 -	[Clinic Profile Overview Potential Errors Dashboard](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbigov.us%2Fgroups%2Fme%2Fapps%2F741625e9-a049-4f8e-a424-d13c7a723da7%2Freports%2F1e199d02-3cc6-4d5c-8caa-9a5a41bb4214%2FReportSectiond556eaa893a5006c1840&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653446221%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=csLtdBgcCIWljNYzZxoN16REWs28Y1Sqk3kFrlNBdqc%3D&reserved=0)
@@ -178,5 +181,4 @@
 -	[VISN/Site Point of Contact List](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2Fvhaet%2FSitePages%2FPET_PCI_POC.aspx&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653602585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0Gbp4e3%2Few2dxEY9Ao2CBVVJrvgTrDcI6YunSas9r%2B8%3D&reserved=0)
 -	[Enterprise Guest Wi-Fi Program](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2FVAWiFi-EnterpriseGuestWiFiIOP%2FSitePages%2FHome.aspx&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653602585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=UV8RbgMDfgJkEW2gb4dkvkjZ6Ifuy2dSPOx9JO0WFBA%3D&reserved=0)
 -	[NextGen Wi-Fi Program](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdvagov.sharepoint.com%2Fsites%2FOITSDM%2FNIM%2FWireless%3FOR%3DTeams-HL%26CT%3D1630410475405&data=05%7C01%7C%7C4b23436bf4384f3504cb08dbf5beecca%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638373972653602585%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=C%2B%2FNjh%2Fuamq9Gkp8PsMtSOmqNLhmsAAR4zElsgoxCrk%3D&reserved=0)
-- For questions, reach out to [VHAIVCPatientEngagementTeam@va.gov](mailto:VHAIVCPatientEngagementTeam@va.gov)
 - [VSE for Clinical Staff User Guide](https://github.com/department-of-veterans-affairs/va.gov-team/files/12824914/vsecs_user_guide.pdf)
