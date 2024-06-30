@@ -211,15 +211,12 @@ _**Participant is on provider page:**_
   
 - And without doing anything, I'm curious -- from here, how would you continue through finding a provider if I wasn't guiding you?
 
-- Ok thanks, and what would you do if you wanted to search for providers with specific criteria or availability?
+- Ok thanks. And, what would you do if you wanted to search for a specific group or category of providers?
 
-- Go ahead and walk me through that.
+- Go ahead and walk me through how you'd do that.
   
   - _If needed:_
-    - Did you notice any way to choose information about the provider?
-    - Did you notice the link that says filter? Go ahead and click on that.
-   
-
+     - **Did you notice the "Filter and sort" link? Okay, now go ahead and select that link.**
 ---
 
 _**Participant is on filter page:**_ 
