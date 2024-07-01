@@ -104,7 +104,7 @@ _If no observers or observers._
 
 - Ok, thank you!
   
-- So now I'll have you try a prototype for scheduling an appointment online with a community care provider; based on a request you recently made. 
+- So now I'll have you try a prototype for scheduling an appointment online with a community care provider; based on a request you recently made for receiving physical therapy. 
 
 - In the prototype, some things you’ll be able to select, while other things you won’t. None of your actual information is included, and this won’t affect your account or VA benefits in any way.
 
