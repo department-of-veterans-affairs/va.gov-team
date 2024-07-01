@@ -18,7 +18,15 @@
 ## Intro - 5 minutes
 - Thanks for joining us today!
   
-- My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... today, we're going to talk about receiving a referral for a community care provider and self-scheduling an appointment. 
+- My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session.
+
+_If observers._ 
+
+- I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+
+_If no observers or observers._ 
+
+Today, we're going to talk about receiving a referral for a community care provider and self-scheduling an appointment. 
 
 - Before we start, I have a few things that I want to go over with you:
 
@@ -34,7 +42,7 @@ _If observers._
      - _Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov._ 
      - _Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth._
 
-_If no observers._
+_If no observers or observers._ 
 
 - **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be interactive, and some will not. And none of your actions will affect your VA information or benefits.
 - **We like to record these sessions to confirm that we’ve captured your opinions accurately and may share video clips with our colleagues at VA to show actual user feedback.** We won’t share any information that identifies you, and we’ll remove your face and name from any videos if we do share them. **Are you comfortable if I record my screen and audio as we talk today?**
