@@ -8,9 +8,11 @@ NOTE:
 [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md)
 
 ## Routes to code
-
-
-issue tickets 
+```
+post '/forms', to: 'uploads#submit'
+post '/forms/submit_supporting_documents', to: 'uploads#submit_supporting_documents'
+post '/forms/status_updates', to: 'pega#update_status'
+```
 - None, not yet in production
 
 ## Contacts
@@ -41,6 +43,7 @@ issue tickets
 ### Errors and Metrics
 link to errors and logs your product produces
 - DSVA Slack monitoring: [#ivc-forms-datadog](https://dsva.slack.com/archives/C06RQR7V9CM)
+- [IVC ChampVA Forms DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?view=spans)
 brief explanation of errors/metrics (or link to them here)
 
 ### Issue investigation steps
