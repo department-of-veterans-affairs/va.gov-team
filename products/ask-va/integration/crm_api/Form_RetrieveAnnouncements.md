@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /announcements
+**Path**: /ask_va_api/v0/announcements
 
 **Parameters**:
 None
