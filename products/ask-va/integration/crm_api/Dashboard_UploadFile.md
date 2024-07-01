@@ -4,7 +4,7 @@
 
 **Method**: PUT
 
-**Path**: /attachment/new?:inquiryNumber:
+**Path**: /ask_va_api/v0/attachment/new?:inquiryNumber:
 
 **Parameters**:
 | Name | Type | Description |
