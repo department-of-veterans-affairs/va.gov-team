@@ -115,7 +115,7 @@
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
-        - **Schedule Staging Review for New Landing Page WITH OUT the Upcoming Appointments section**
+        - ✔️ **Schedule Staging Review for New Landing Page WITH OUT the Upcoming Appointments section**
             - Staging Review has been scheduled for July 11 1:30-2
     - **Sub Goal: CIE Analytics**
         - 🟩 [[BE] We Need New StatsD Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)
