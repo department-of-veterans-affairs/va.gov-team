@@ -60,10 +60,6 @@
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
-- **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Stand-alone Travel Application for OH Sites**
-        - 🟩 [Update Content as Approved by CAIA ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86481)
-        - 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - Conduct Staging Review
@@ -71,6 +67,7 @@
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
         - 🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
     - **Sub Goal: New Landing Page WITH Upcoming Appointments**
+        - Is there any FE integration work that remains?
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
     - **Sub Goal: Update Translations**
@@ -96,21 +93,22 @@
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
-- **GOAL: Make submission of a travel reimbursement claim easier**
-    - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
-        - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
-        - ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
-        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
-        - Release (Let Lori know when)
     - **Sub Goal: Move to New AWS Instance**
       - ✔️ 🟨 [[DevOps] Recreate LoROTA DynamoDB with TTL rule matching current.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84123)
       - ✔️ 🟨 [[DevOps] Propose transferring octo-vista-api into Check-In Experience's control.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86814)
       - ✔️ 🟨 [[DevOps] Review image scanning results for ECR images in vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87088)
       - ✔️ 🟨 [[DevOps] Nate Douglas needs access to CHYSHY VistA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81378)
       - ✔️ 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
-      - 🟨 [[DevOps] Remove LoROTA Cleanup Lambda and schedule.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86812)
+      - 🟨 [[DevOps] Remove LoROTA Cleanup Lambda and schedule.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86812)****
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
+        - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+        - ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
+        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
+        - Release (Let Lori know when)
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
       - 🟩 [[FE] Update "How we calculate mileage" Content as Approved by CAIA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86481)
+      - 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
