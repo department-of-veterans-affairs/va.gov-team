@@ -26,33 +26,7 @@ You'll need to create a feature toggle (or two) or feature branch for any modera
 - We will interview Veterans and staff to gather feedback and decide if adjustments are necessary before doing a staged rollout to all facilities. 
 - Rollback plan consists of turning off the feature flag.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-
-#### Planning
-
-- Desired date range or test duration: 1 day TBD
-- Desired number of users: 1
-- How you'll recruit the right production test users: Use Robert Tow's account
-- How you'll conduct the testing: Zoom call with Robert Tow and the following  
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: turn on feature flag for a single facility and perform testing after hours
-
-#### Results
-
-- Number of users: 1
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
-
-### Phase II: Staged Rollout (also known as unmoderated production testing)
-
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-#### Rollout Planning
+### Rollout Plan
 
 - Desired date range: July 2024
 - Because this is just a design change, we plan to release to everyone
