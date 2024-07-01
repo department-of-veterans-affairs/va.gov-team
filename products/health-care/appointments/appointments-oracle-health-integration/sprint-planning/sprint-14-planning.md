@@ -29,7 +29,7 @@ In Sprint 13, the team provided support for multiple features and initiatives, o
 * #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities: 
   *CHECK THIS 
    * [#86172 CES-539 VPG: Add failure payloads for VAOS and Cerner read requests](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/86172)
-   * [#86263 CES-609 CES: Separate Rules by EHR](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/86263)
+   
  * #### Testing/Admin/Operational Support
    * CHECK THESE
    *  🚧[#85760 CES-584 CES: Upgrade to MF v2.1](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/85760)
@@ -39,6 +39,7 @@ In Sprint 13, the team provided support for multiple features and initiatives, o
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
+  * 🚧 [#86263 CES-609 CES: Separate Rules by EHR](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/86263)
 * 🔵 Direct Scheduling
 * 🔴 Appointment Cancellation
 * 🟣 Testing/Admin/Operational Support
