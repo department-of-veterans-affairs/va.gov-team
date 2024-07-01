@@ -145,9 +145,9 @@ These will be set by individual product teams that consume BCM.
 
 <details>
  
- - OCTO-DE Lead: Dave Conlon (PO for Public Webites and CMS teams)
+ - OCTO-DE Lead: Michelle Middaugh (PO for Public Webites and CMS teams)
  - PM: Wes Rowe
- - Engineering: Christia Troyer
+ - Engineering: Daniel Sasser
  - Research/Design: Dave Pickett (content design)
  
 </details>

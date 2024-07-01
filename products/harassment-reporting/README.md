@@ -61,7 +61,7 @@ Historical
 - [VA OIG Web Page and Link to Report Wrongdoing](https://www.va.gov/oig/)
 
 ## Contacts
-- Product Owners: Dave Conlon (OCTO-DE) and Martha Wilkes (OCTO-DE)
+- Product Owners: Michelle Middaugh (OCTO-DE) and Martha Wilkes (OCTO-DE)
 - Content Lead: Danielle Thierry
 - Design lead: Matt Dingee (OCTO-DE)
 - Product Manager: Michelle Middaugh (Ad Hoc) 

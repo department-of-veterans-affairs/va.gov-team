@@ -118,11 +118,10 @@ As of 8/1/23:
 ### Sitewide Public Websites Team Members
 |Name|Role|
 |----|----|
-|Dave Conlon	| Find a VA Form Product Owner|
+|Michelle Middaugh	| Find a VA Form Product Owner|
 |Fran Cross   |Product Manager, Agile 6|
 |Jill Adams |Delivery Manager, Agile 6|
 |Daniel Sasser    |Backend engineer, Agile 6|
-|Steve Wirt	| Facilities Team, Forms/Drupal subject matter expert, Civic Actions|
 
 ## VA Forms Contacts
 Within VA, all administrations have an internal process to review & approve forms being published. When approved, forms publishing rolls up through the list of **VA forms stakeholder working group contacts** below, per admin / program. Final forms are mastered in the Forms DB, which is managed by OIT. The VA.gov Drupal CMS migrates form data nightly from the Forms DB. Any corrections must be made upstream in the Forms DB.
