@@ -48,25 +48,23 @@
 
 #### PLANNED RELEASES
 - **Medication Wording for Appointments** ?????
-- **New Landing Page WITH OUT Upcoming Appointments**
+
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
 - **GOAL: Support Congressional Mandate**
     - **Sub Goal: Medication Wording for Appointments - Pre-Check-in**
-        - Hold Staging Review - TBD by Appts Team
+        - Put this behind a feature flag
         - ❗🟥 [[Design] Pull Wireframes into Our Figma Files ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82909)
         - ❗🟩 [Add Medication Review Content to Pre-Check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82910)
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
-        - Conduct Staging Review
+    - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments** 
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
-        - 🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
-    - **Sub Goal: New Landing Page WITH Upcoming Appointments**
+    - **Sub Goal: Upcoming VAOS Appointments**
         - Is there any FE integration work that remains?
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
@@ -89,6 +87,7 @@
 
 #### PLANNED RELEASES
 - **Integrate with claim_status endpoint for handling BTSSS API timeout**
+- New Landing page
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
@@ -115,8 +114,7 @@
         - 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
         - 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
         - 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
-        - ✔️ **Schedule Staging Review for New Landing Page WITH OUT the Upcoming Appointments section**
-            - Staging Review has been scheduled for July 11 1:30-2
+        - 🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
     - **Sub Goal: CIE Analytics**
         - 🟩 [[BE] We Need New StatsD Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
