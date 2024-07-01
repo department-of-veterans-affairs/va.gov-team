@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**:  /inquiry/{id}/replies
+**Path**:  /ask_va_api/v0/inquiry/{id}/replies
 
 **Parameters**:
 | Name | Type | Description |
