@@ -22,7 +22,7 @@ Before generating new batch input files
 3. Add corrected submission ids (~30) into the files for the next batch process (use "FINAL BATCH ERROR CHECK 20240614.xls" for the list of corrected submission ids)
 4. Add the two corrected submission ids that were previously fixed into the files for the next batch process (906899 and 906997)
 
-Finally
+Lastly
 Create new batch input files and a report of which submissions ids could not be corrected that will need manual processing. 
 Store the files in the Sharepoint folder so they can be easily accessed. 
 
