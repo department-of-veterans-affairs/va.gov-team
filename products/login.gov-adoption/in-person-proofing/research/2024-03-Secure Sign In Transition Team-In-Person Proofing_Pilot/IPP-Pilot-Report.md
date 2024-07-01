@@ -565,9 +565,9 @@ Several Veterans formed expectations of IPP as a complete service based on how t
 
     “Gotta be short [15 minutes] and have a benefit.” (P1)
 
-In addition to desiring IPP in a highly trafficked and visible location, Veterans reported that they expected IPP to be available in the enrollment center (P1i), at the pharmacy (P2i), or the ID office (P4). Participant 1i expressed that they would like to find out about IPP “through a triage of nurses and caregivers” in addition to digital and paper signage. Participant 2 from the intercept interviews was open to the idea of having a Proofing Agent in dense waiting areas so that they could approach people who may have time to spare: “Some people may...wait two hours to take a medicine...I can be knocking out admin stuff which is a good[sic].”
+In addition to desiring IPP in a highly trafficked and visible location, Veterans reported that they expected IPP to be available in the enrollment center ((P3, P1i, P3i, P7i), at the pharmacy (P2i), or the ID office (P4). Participant 1i expressed that they would like to find out about IPP “through a triage of nurses and caregivers,” in addition to digital and paper signage. Participant 2i shared that a Proofing Agent could be available and mobile in dense waiting areas so that they could approach people who may have time to spare: “Some people may...wait two hours to take a medicine...I can be knocking out admin stuff which is good.”
 
-IPP has the potential to be integrated with services at VA medical centers and facilities which could ensure that more Veterans become aware and active on VA.gov. Several interview candidates and participants from intercept interviews reported that they did not use VA.gov which indicates that IPP could become a part of a larger movement around VA.gov adoption.
+IPP has the potential to be integrated with services at VA medical centers and facilities which could ensure that more Veterans become aware and active on VA.gov. Several interview candidates and participants (P4, P4i, P5i, P9i, P11i)  from intercept interviews reported that they donot use VA.gov, which indicates that IPP could become a part of a larger movement around VA.gov adoption.
 
 **6. IPP is not for everyone, but providing it as an option ensures inclusio**n
 
