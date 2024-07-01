@@ -1,44 +1,14 @@
-# Initiative Brief: Submission Experience
-
 # 1. Purpose
-The purpose of this document is to describe and build alignment for what problems we aim to solve, why we’vre solving them, and how we plan to improve the Veteran submission experience. It is a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the progress.
+The purpose of this document is to describe and build alignment for what problems we aim to solve, why we’re solving them, and how we plan to improve the Veteran submission experience. It’s a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the initiative’s progress.
 
 # 2. Problem or Opportunity
 Through recent Veteran shadowing research and discovery In Q1 2024, we discovered that many Veterans do not have a positive experience when submitting a claim for disability compensation. After a Veteran clicks “submit” on a disability benefits application on va.gov they experience errors, confusion, a lack of clarity, missing information, and cognitive load that overburdens the Veteran during a time where they are asked to recall traumatic events.
 
 # 3. Proposed Solution
-We aim to give Veterans more clarity on the status and outcome of their claim submissions, with a means of tracking their claim status that is timely and intuitive. At the time of submission, the Veteran will receive a confirmation or acknowledgement that the claim was accepted, leading to increased trust and a reduced possibility of Veterans creating duplicate claims. In scenarios where a system failure causes the Veteran's claim not to be submitted, we'll inform the Veteran in plain language about what to expect and will make efforts to reduce the burden of resubmission or eliminate it altogether. Veterans will receive on-screen messaging indicating the outcome of their claim submission and where to go for more details, so that they feel more confident and trusting of the VA. After a submission, the Veteran will receive an email confirmation with details on their claim and plain language instructions on how to track it. Veterans will also receive an outline or copy of the information submitted in their claim, which they can keep for their records. In general, we'll improve the fidelity and understandability of communication so that Veterans feel confident knowing the status of their claims.
+We aim to give Veterans more clarity on the status and outcome of their claim submissions. We’ll provide timely & truthful information about their claim after submission and give the Veteran a record of their claim and a way to track it. In concert with being able to view claim status on MyVA and Claim Status Tool, we expect this will help to reduce duplicate submissions. In scenarios where a system failure causes the Veteran's claim not to be submitted, we'll inform the Veteran in plain language about what to expect and will make efforts to reduce the burden of resubmission or eliminate it altogether. 
 
-# 4. Delivery
-Using plain, Veteran-focused language to describe the five delivery phases helps maintain focus on Veteran needs and simplifies stakeholder communications. Each phase includes Design, Testing, Implementation, and Research, which are prioritized using a balance of usability, feasibility, viability, and Veteran value. Phase one is prioritized because it addresses one of the most painful parts of the Veteran experience, where much is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team.
-
-| Phase | Feature Name | Forecasted Date |
-|-------|--------------------------------------------------------------|--------------------------------|
-| 1     | [Veterans lack timely & truthful information about their claim after submission](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | September ‘24|
-| 2     | [Veterans need a record of their claim and a way to track it](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772)  | September ‘24|
-| 3     | [Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | October ‘24|
-| 4     | [Veterans can find claim status on MyVA and CST before the claim is received](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) | Q4 |
-| 5     | [Veterans experience a burden after they attempt to submit a disability claim](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/83500) | Q4 |
-| 6     | When Veterans resubmit the failed component of their claim they don’t know if the VA has all their claim material | Q1 '25 |
-
-## 4.1 In Scope
-This initiative focuses on all paths for the submission and post submission experience. 
-- Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
-- Post-submission notifications, including confirmation email and message on confirmation page, SMS, web and mobile app notifications, paper mail, etc.
-- Outline of information and list of documents submitted (note [concern about filenames potentially containing PII](https://dsva.slack.com/archives/C04KW0B46N5/p1712088148463829?thread_ts=1711557666.821949&cid=C04KW0B46N5)) 
-- Reevaluating how the 526 introduces the Claim Status Tool and connects Veterans to it
-- Reducing duplicates (rethink when we clear the in-progress form)
-  
-## 4.2 Out of Scope
-- Notification of core 526 submission failures and file upload failures
-- Any of the touchpoints in the lifecycle of the claim beyond when the claim is established in VBMS and all initial documents are successfully uploaded
-- PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
-- Given that the Claim Status Tool is not managed by our team, any improvements across products will need to happen in collaboration
-- Note that Team 2 is doing work on addressing small and important issues in the non-happy submission paths, and we will need coordinate with them on future-facing work.
-
-# 5. Success
+# 4. Success
 We’ll know we’re sucessfull when the following are true.
-
 * Veteran has clear expectations of submission status
 * Veterans have the claim information they need to get help and a copy of their claim
 * Fewer duplicate submissions, greater Veteran confidence
@@ -46,7 +16,33 @@ We’ll know we’re sucessfull when the following are true.
 * Automatic resubmissions happen same day, as needed
 * Veteran won’t have to recomplete forms from scratch
 
-# 6. Risks & Challenges
+# 5. Delivery
+Each delivery phase consists of one Feature and is represented in Zenhub by one Epic. Each phase includes Research, Design, Testing, and Implementation. Features are prioritized using a balance of usability, feasibility, viability, and Veteran value. Details for each feature are listed below in section 6.
+| Phase | Feature                                                      | Epic                                                         | Forecasted Date |
+|-------|--------------------------------------------------------------|--------------------------------------------------------------|-----------------|
+| 1     | Veterans lack timely & truthful information about their claim after submission | [Epic Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | September ‘24   |
+| 2     | Veterans need a record of their claim and a way to track it  | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772) | September ‘24   |
+| 3     | Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | October ‘24     |
+| 4     | Veterans can find claim status on MyVA and CST before the claim is received | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) | Q4              |
+| 5     | Veterans experience a burden after they attempt to submit a disability claim | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/83500) | Q4              |
+| 6     | When Veterans resubmit the failed component of their claim they don’t know if the VA has all their claim material |                                                              | Q1 '25          |
+
+## 5.1 In Scope
+This initiative focuses on all paths for the submission and post submission experience. 
+- Evaluation of user-facing features such as the loading screen during submission and content on the confirmation page
+- Post-submission notifications, including confirmation email and message on confirmation page, SMS, web and mobile app notifications, paper mail, etc.
+- Outline of information and list of documents submitted (note [concern about filenames potentially containing PII](https://dsva.slack.com/archives/C04KW0B46N5/p1712088148463829?thread_ts=1711557666.821949&cid=C04KW0B46N5)) 
+- Reevaluating how the 526 introduces the Claim Status Tool and connects Veterans to it
+- Reducing duplicates (rethink when we clear the in-progress form)
+  
+## 5.2 Out of Scope
+- Notification of core 526 submission failures and file upload failures
+- Any of the touchpoints in the lifecycle of the claim beyond when the claim is established in VBMS and all initial documents are successfully uploaded
+- PDF of complete claim generated as submission-- this may be later state of the outline/copy of claim information submitted
+- Given that the Claim Status Tool is not managed by our team, any improvements across products will need to happen in collaboration
+- Note that Team 2 is doing work on addressing small and important issues in the non-happy submission paths, and we will need coordinate with them on future-facing work.
+
+## 5.3 Risks and Challenges
 1. This work is dependent on the /submit endpoint migration from legacy EVSS services to Lighthouse and must be completed first
 2. Some unknowns with email confirmations
    1. Content guidance and landscape of existing email confirmations on VA.gov
@@ -59,36 +55,30 @@ We’ll know we’re sucessfull when the following are true.
 6. Will need careful collaboration with back-up path and document failures to identify all use cases for full submission flow to make sure there are no missing or inaccurate notifications
 7. Access to quantitative data, used to supplement our qualitiatie research can be challenging to get, and in some cases not available.
 
-# 7. Features
-
-## 7.1 Veterans lack timely & truthful information about their claim after submission
+# 6. Features
+Brief descriptions of each feature are listed below, along with success criteria, scope, and known risks and challenges. As we learn about upcoming features, detail will be added and changed as needed to reflect the latest known information. Feature epics listed in section 5 are the best place to get detailed information about individual user stories for each feature.
+## 6.1 Veterans lack timely & truthful information about their claim after submission
 Once a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans.
 
-We're driven by the goal of providing Veterans timely & truthful information about their claim after submission. We'll do this throughout the post-submission journey at the touchpoints that make the most sense for the Veteran. We'll leverage our research to inform user interface, copy, and communication changes to display and deliver information to the Veteran.
+This work is prioritized because it addresses one of the most painful parts of the Veteran experience, where much about the problem is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team. When space or brevity is appreciated, we refer to this feature as "Timely and Truthful Submission".
 
-We'll improve the first touchpoints after submission, particularly when the Veteran is waiting for their claim to be prepared for submission by setting clear expectations and improving the language we use to communicate status. We'll contact the Veteran more quickly via email with a confirmation of their claim submission, tracking information, and instructions on how to track their claim. We'll also provide the Veteran a completed copy of their claim, a list of their evidence documents, and leverage MyVA when possible to display current claim status. The scope of this work is focused on the happy path and backup path (ending in success without the need for an emergency failsafe) of disability claim submission. The goal is to get all Veterans, regardless of submission scenarios, to this experience.
+## 6.1 Success
+1. Ensure expectations of the claim submission timeline are set truthfully for the Veteran
+2. Ensure that Veterans feel confident the VA is trying to submit their claim
+3. Ensure the language we use is straightforward so that Veterans feel understanding submission status is trivial
+4. Ensure an email confirmation is received in a timely manner and contains information the Veteran deems useful 
 
-When space or brevity is appreciated, we refer to this Feature/Epic as "Timely and Truthful Submission".
-
-### 7.1.2 Success
-As Themes [Ensure result for stakeholder]
-1. Ensure the current status of a claim is always available to Veterans
-2. The steps and timeline for claim submission are set truthfully for the Veteran
-3. Ensure that Veterans have accessible ways to access their claim status
-4. Make getting a claim record easy for Veterans
-5. Ensure that tracking a claim is simple and easy for Veterans
-6. Ensure the language we use is straighforward and understandable so that understanding claim status is trivial
-
-### 7.1.3 Out of Scope
+## 6.2 Out of Scope
 - Changes to MyVA
 - Changes to CST
 - Changes with how 526 and ancillary forms are processed after a sucessfull submission
 
-### 7.1.4 Risks & Challenges
-- MyVA is managed by another team, and we have no ability to change the way this works today
-- CST is managed by another team, and we have no ability to change the way this works today
+## 6.3 Risks & Challenges
+- We don't have detailed knowledge of when a claim becomes available in CST and MyVA. Instead of timing any communication with the actual point at which a claim shows up in those tools, we are keeping with the current (in production) approach to messaging that it may take a certain number of days for claims to show up there.
+  - This is a known limitation that will be eliminated in the future epic Veterans can find claim status on MyVA and CST before the claim is received
 
-# 8. FAQ
+
+# 7. FAQ
 ### Where can I follow along with this work?
 The [Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179) Epic in Zenhub is used to track this work.
 ### When does the submission experience “end”?
@@ -119,7 +109,6 @@ In this project plan, we are designing to a future point when the Veteran Facing
    4. We send a link to the Claim Status Tool in a confirmation email before the claim is available there, creating a temporary dead end
   
 ### Design work - not yet complete
-
 See [Figma: Submission Experience](https://www.figma.com/design/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=0-411&t=uzTuyZlBGx8mcw3q-1)
 
 We have been through two cycles of diverging and converging on design work so far. Currently we have alternatives along two variables: 
@@ -147,25 +136,18 @@ What we mean by key terms used to describe certain steps or statuses in the subm
 2. "date initiated" is the date the Veteran clicked "submit"
 
 ## Eliminating dependencies on other products
-
 ### Plan
-
 In this project plan, we deliver iteratively while eliminating dependencies on the Veteran Facing Forms team's [Show status of form submissions to users on My VA and confirmation page initiative](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/issues/1170) and design to the current (in production) states of other products like My VA, Claim Status Tool, and the moblie app. This focuses more narrowly on the [problem statement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/Submission%20Experience.md#problem-or-opportunity) of:
 
 1. Veterans lack timely and truthful information about their claim
-
 
 ## C. May 2024 Replanning
 In early 2024, we took the approach of improving Veterans' submission experience across a broad range of Veteran touchpoints, such as pages, static content, email, and copy. Some of the changes we believed would improve the submission experience touched other apps, such as My VA, Claims Status Tool, and the mobile app. However, these apps are out of our control, and attempts to enact change in these Veteran touchpoints would create dependencies on external teams, widen the problem area, and complicate solutioning. This would lead to a slower delivery timeline that left Veterans with a suboptimal experience.
 
 To more quickly meet the needs of the Veterans we serve and increase opportunities for learning, we decided to deliver in an iterative manner, focusing on small and simple interventions in areas of VA.gov that we control. To reduce dependencies and unknowns on external teams and systems, we'll design solutions based on the current state of VA.gov as opposed to unknown future states. Where possible, we'll work with external teams to propose changes that we believe will improve the Veteran's submission experience but won't rely on those teams to solve problems for us. To consider the Veteran's entire user journey and the technology systems that comprise their user experience, we separated the work into five smaller phases, each with separate delivery milestones that we will deliver iteratively. This planning resulted in pausing some in-progress design work to be continued at a later phase.
 
-
 ## D. Links
 [526ez Shadowing Veteran Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
-
 [Submission Experience Maps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469)
-
 [DBEX Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717458460532/5a74ece0ca694a9e6c85b3a1130a8c7b8dabf123?sender=ubd79255de28cd574d7575469)
-
-Submission Research Plan for "Veteran has clear expectations of submission status" [Will update location once published on Github]:https://docs.google.com/document/d/1GLBJqNpNMyOfcidtigNqWd8F2c6adueraY-ybj7Q5E8/edit 
+[Submission Research Plan](https://docs.google.com/document/d/1GLBJqNpNMyOfcidtigNqWd8F2c6adueraY-ybj7Q5E8/edit) for "Veteran has clear expectations of submission status"
