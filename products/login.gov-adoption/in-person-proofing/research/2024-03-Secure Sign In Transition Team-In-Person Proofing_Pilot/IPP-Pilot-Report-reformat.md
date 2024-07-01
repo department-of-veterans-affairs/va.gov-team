@@ -1,6 +1,6 @@
 # Secure Sign In Transition Team-In Person Proofing Pilot
 
-[Sophia Philip](mailto:sophia@themostudio.com) & [Gus Schissler](mailto:gus@themostudio.com)
+[Sophia Philip](https://dsva.slack.com/team/U05HPDPB91S) & [Gus Schissler](https://dsva.slack.com/team/U061Z6S2X46)
 
 Jump to:
 
@@ -19,7 +19,13 @@ Jump to:
   * [Observation Study](#appendix-2-observational-study)
   * [Shadowing Sessions](#appendix-3-shadowing-sessions)
 
-## Overview
+
+
+In Person Proofing (IPP) is a service that provides an in person method for validating a login.gov account. A Veteran must have a validated account in order to access their benefits on VA.gov (as well as services at other federal and state agencies).
+
+The Secure Sign in Transition team has built a prototype service and application that allows for Veterans to verify their Login.gov account in person at a VA Medical center as an addition to the verification services that currently exist virtually on Login.gov and in person at United States Post Offices.
+
+This service uses a Veteran-facing application (called "Intake) and a VA Staff member application (called "Proofing") to guide both participants through the steps needed to verify a Veteran's Login.gov account in a way that satisfies [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/) for Identity Assurance Level 2
 
 ## Research Goals
 
@@ -133,6 +139,7 @@ One participant (P5) felt that the requirements for identity verification and th
 >“Yeah. Yeah. Why? And that should we treat veterans this way? Why do we have to torture them…what's the rationale for having to enter the information and verify it every single time?” (P5)
 
 ## Insights
+
 Our research has generated the following insights:
 
 1. [In-Person Identity Proofing is simple and straightforward](#1-in-person-identity-proofing-is-simple-and-straightforward)
@@ -324,8 +331,8 @@ Participants presented fake data in Step 4 to be input into the prototype applic
 
 Participants presented their real identification to the VA staff to look up their Internal Control Number on a VA application using a VA computer. This step tested the database recommendation for VA staff to use in order to look up Veterans’ personal information to verify them against the MPI.
 
-[Link to Intake Prototype](dev.lighthouse.va.gov/intake)
-[Link to Proofing Prototype](dev.lighthouse.va.gov/proofing)
+[Link to Intake Prototype](https://dev.lighthouse.va.gov/intake)
+[Link to Proofing Prototype](https://dev.lighthouse.va.gov/proofing)
 **Note:** must be on VA network to access prototype
 
 ### Moderated pilot sessions
