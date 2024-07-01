@@ -176,11 +176,14 @@ _**Participant is at Appointment list:**_
     - What did you expect to be on this page?
     - Is anything here confusing?
 
-- Without doing anything yet, tell me a little about what you’d do next based on the text message you received.
+- Without doing anything yet, tell me a little about what you’d do next on this page based on the text message you received.
 
 - _If task card was not mentioned:_ 
   - Did you notice anything about a scheduling an appointment? 
   - Did you notice the box at the top of the page? And, what does that seem to mean to you?
+
+- _If expiration date was not mentioned:_
+  - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing it?  
 
 - Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message you received.
 
