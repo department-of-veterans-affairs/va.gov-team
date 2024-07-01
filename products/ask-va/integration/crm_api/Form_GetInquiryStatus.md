@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /inquirystatus?:inquiryNumber:
+**Path**: /ask_va_api/v0/inquirystatus?:inquiryNumber:
 
 **Parameters**:
 | Name | Type | Description |
