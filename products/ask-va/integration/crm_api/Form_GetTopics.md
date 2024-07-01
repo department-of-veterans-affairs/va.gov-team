@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /topics?{id}
+**Path**: /ask_va_api/v0/topics?{id}
 
 **Parameters**:
 | Name | Type | Description |
