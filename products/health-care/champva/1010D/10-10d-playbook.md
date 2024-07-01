@@ -44,7 +44,7 @@ post '/forms/status_updates', to: 'pega#update_status'
 link to errors and logs your product produces
 - DSVA Slack monitoring: [#ivc-forms-datadog](https://dsva.slack.com/archives/C06RQR7V9CM)
 - [IVC ChampVA Forms DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?view=spans)
-brief explanation of errors/metrics (or link to them here)
+- brief explanation of errors/metrics (or link to them here)
 
 ### Issue investigation steps
 - Describe common issues that may arise and explain the basic troubleshooting steps or code to modify if these issues arise.
