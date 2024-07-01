@@ -1,5 +1,52 @@
 # Design Weekly Sync Agenda
 
+
+## 2024-07-01
+Attendees: Angela, Jessica, Hieu, Lois and Katelyn
+
+- Walked through the documentation folder on GitHub and the Mural = what is there so far, any feedback. Noted this is a living doc and anyone should feel free to add to it/corrections as needed. 
+- Lois noted she really seeing some other documentation too, mentioned this is an evolution of an existing Mural and what was started in an onboarding presentation
+- First “test” with new UX team member who will be joining
+- A quick walkthrough of the EZ insurance step updates: the facilities and the insurance questions since Lois will be out the next couple of weeks.
+- Mentioned not much update since we walked through this at the last ux sync on the facilities side, getting the insurance discovery ready for an internal team working meeting/chat scheduled for next week
+- Showed Lois the 1010 roadmap mural and the tables at the bottom showing quarterly goals and future ideas
+
+
+## 2024-06-24
+Attendees: Angela, Jessica, Hieu, and Lois
+
+**CG Updates:**
+- Went over CG form updates and the background of the stakeholder issue with the other VA forms
+- Talked through the concerns of this content being confusing and missing clarification.
+- Next steps:
+  - 1. desk research, Lois mentioned the VSO presentation during the Monday design sync today, look into what other teams know already
+  - 2. Analytics: before / after July release what is the drop-off rate of the sign as a representative section, also time on pages within this step
+  - 3. User research - more exploratory than usability. Focus on research questions first. Want to test hypothesis around mention of other VA 21 forms and the primary/secondary caregiver clarification. Note: Primary/secondary clarification was a nice to have CG content review feedback item from the stakeholders.
+
+**EZ Facilities:**
+- Shared Figma page with process/discovery so far
+- Luis - will open a ticket to account for the data work
+- Link to existing ticket - Jessica mentioned this got tabled for the past week but want to circle back
+
+**EZR:**
+- Reminder to coordinate the static page timing with form updates when it applies
+- What worked well with doc upload process:
+- CAIA  - call out things as being “launch blocking” and keep reminding of this throughout process, note what to pick up after mvp
+
+**Secondary Nav:**
+- Hieu talked through background, shared Figma links
+- Mentioned that there was not a way to show MyHealtheVet selected in secondary nav so appointments is active in the mocks
+- Will show on introduction page and confirmation page
+- Looked at MHV Figma files to find latest version
+- Talked through breadcrumb and secondary nav placement on what pages of the form.
+
+**Design decisions:**
+- Lois mentioned the IVC team has a template they have evolved
+- Lois asked about SSN masking and changing that; for authenticated flows on the EZ we mentioned the SSN is not-editable.
+
+
+
+
 ## 2024-06-17
 Attendees: Angela, Jessica, Hieu, and Lois
 
