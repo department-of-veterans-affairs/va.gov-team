@@ -4,7 +4,7 @@
 
 **Method**: PUT
 
-**Path**: /inquiries/:id:/reply/new
+**Path**: /ask_va_api/v0/inquiries/:id:/reply/new
 
 **Parameters**:
 | Name | Type | Description |
