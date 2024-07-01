@@ -54,56 +54,22 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: January-December 2024
-- How will you make the product available in production while limiting the number of users who can find/access it: feature flag will be enabled for certain facilities or clinics.
+- Desired date range: July 2024
+- Because this is just a design change, we plan to release to everyone
+  - Originally we planned to include upcoming VAOS appointments, but we are speparating that into it's own release
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-    - Number of users who have completed Pre-Check-in: [FILL_IN]
-    - Number of users who have completed eCheck-in: [FILL_IN]
-    - Change in number of users who have completed Pre-Check-in: [FILL_IN]
-    - Change in number of users who have completed eCheck-in: [FILL_IN]
+    - Number of users who have completed Pre-Check-in is relatively unchanged from the previous month
+    - Number of users who have completed eCheck-in is relatively unchanged from the previous month    
 - Links to the dashboard(s) showing "success criteria" metrics: 
-  - [Power BI: Pre-Check-in Dashboard](https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/3dd5c5a9-2f91-4330-b04c-0182e7f8129e/ReportSection0d9e69581e79924c6fbb)
-  - [Power BI: eCheck-in Dashboard](https://app.powerbigov.us/groups/me/apps/741625e9-a049-4f8e-a424-d13c7a723da7/reports/3dd5c5a9-2f91-4330-b04c-0182e7f8129e/ReportSection)
-  - [Google Analytics: Pre-Check-in Dashboard](https://analytics.google.com/analytics/web/#/dashboard/DgeEvA4JTruKLAW444xXOg/a50123418w177519031p176188361/_u.dateOption=last7days&_u.hasComparison=true/)  
-  - [Google Analytics: eCheck-in Dashboard](https://analytics.google.com/analytics/web/#/dashboard/1iHzB1FJTq6wHfngzN0LQg/a50123418w177519031p176188361/_u.dateOption=last7days&_u.hasComparison=true/)
-- Who is monitoring the dashboard(s)?: Ben Brasso
+  - For page views, button clicks, & collapses/expands of collapsible components
+      - [PCI GA4 Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
+      - [PCI GA4 Pre-Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
+      - [PCI GA4 Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
+  - For audience count, completion count, verification rate, conversion rate, and error rate (based on API call successes/failures)
+      - [PCI Datadog Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true)
+- Who is monitoring the dashboard(s)?: Ben Brasso & Lori Pusey
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
-
-### Stage A: Pilot
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-#### Planning
-
-- Length of time: 4 weeks 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% at specific facility(ies) TBD
-
-#### Results
-
-- Number of unique users: unlimited
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage B: Phased roll-out to additional facilities 
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: 4 weeks
-- Percentage of Users (and roughly how many users do you expect this to be): 100% at additional facility(ies) TBD
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
 
 ## Post Launch metrics
 
