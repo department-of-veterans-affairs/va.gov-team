@@ -6,10 +6,14 @@
 ## Engineering
   - Nathan Burgess
     - Document Upload Failure Notifications
-    - [LH Doc Upload Migration] Spike
-  - Sam Stuckey  - Post Remediation clean-up
-  - Scott Regenthal  - Post Remediation clean-up
-  - Thomas Blackwell  - Implement Document Upload Polling Solution
+    - LH Doc Upload Migration Spike
+  - Sam Stuckey
+    - Post Remediation clean-up
+  - Scott Regenthal
+    - Post Remediation clean-up
+    - Document Upload Polling Solution
+  - Thomas Blackwell
+    - Implement Document Upload Polling Solution
 
 Next sprint: 
 
