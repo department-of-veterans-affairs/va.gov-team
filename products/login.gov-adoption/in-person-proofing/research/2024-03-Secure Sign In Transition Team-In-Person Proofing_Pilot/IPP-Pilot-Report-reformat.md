@@ -1,6 +1,6 @@
 # Secure Sign In Transition Team-In Person Proofing Pilot
 
-[Sophia Philip](https://dsva.slack.com/team/U05HPDPB91S) & [Gus Schissler](https://dsva.slack.com/team/U061Z6S2X46)
+[Sophia Philip](https://dsva.slack.com/team/U05HPDPB91S), [Sofia Kirkman](https://dsva.slack.com/team/U04SGC1K93K) & [Gus Schissler](https://dsva.slack.com/team/U061Z6S2X46)
 
 Jump to:
 
