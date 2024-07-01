@@ -19,7 +19,7 @@ Jump to:
   * [Observation Study](#appendix-2-observational-study)
   * [Shadowing Sessions](#appendix-3-shadowing-sessions)
 
-
+## Context
 
 In Person Proofing (IPP) is a service that provides an in person method for validating a login.gov account. A Veteran must have a validated account in order to access their benefits on VA.gov (as well as services at other federal and state agencies).
 
