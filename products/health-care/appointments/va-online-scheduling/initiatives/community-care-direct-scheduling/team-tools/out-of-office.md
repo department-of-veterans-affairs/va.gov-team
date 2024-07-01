@@ -1,6 +1,6 @@
 # Adding out office of office event to shared Google calendar
 
-Note: [How to subscribe to the UAE UX Calendar (using Google Calendar)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/team#how-to-subscribe-using-google-calendar)
+_Note: [How to subscribe to the UAE UX Calendar (using Google Calendar)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/team#how-to-subscribe-using-google-calendar)_
 
 If you're going to be out of office for the entire day, follow these steps to make the team aware: 
 
