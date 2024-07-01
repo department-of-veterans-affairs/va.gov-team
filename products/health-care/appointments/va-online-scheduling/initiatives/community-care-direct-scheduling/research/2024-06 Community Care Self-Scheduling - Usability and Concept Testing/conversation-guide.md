@@ -59,8 +59,6 @@ _If no observers or observers._
 - Before we go to the prototype, let’s start with a few warm-up questions:
 
 - Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
-  
-   - And, approximately, when was the last time you used the Appointments tool?  
 
 - And, what device are you using to join this session today?
 
@@ -94,19 +92,17 @@ _If no observers or observers._
 
 - And, what information would you expect to be included in that document (or documents)?
 
-- Where would you expect to be able to find a record of that document, especially if it required you to self-schedule an appointment as a next step?
+- Where would you expect to be able to find a record of that document on VA.gov, especially if it required you to self-schedule an appointment as a next step?
 
-- Where would you expect to find those types of documents from past requests to receive care by another provider?
-   
+- And, what about finding those documents for appointments that you've already had. Where would you expect to find those documents on VA.gov?
+
 -------
 
 ## Task #1 - Usability Testing - 20 minutes
 
 - Ok, thank you!
   
-- So now I'll have you try a prototype for scheduling an appointment online with a community care provider; based on a request you recently made for receiving physical therapy. 
-
-- In the prototype, some things you’ll be able to select, while other things you won’t. None of your actual information is included, and this won’t affect your account or VA benefits in any way.
+- So now I'll have you try a prototype for scheduling an appointment online with a community care provider, imagining that you recently requested to self-schedule physical therapy during a recent appointment.  
 
 - Do you have any questions about that before we get started?
 
