@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /ask_va_api/v0/attachment?:id:
+**Path**: /ask_va_api/v0/download_attachment?:id:
 
 **Parameters**:
 | Name | Type | Description |
