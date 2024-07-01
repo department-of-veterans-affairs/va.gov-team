@@ -1,6 +1,71 @@
+## Meeting Notes for CRM Sync on 06/25/2024
+
+Short Sync
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* No agenda items to review. Opened up to floor. Nothing new to note for this round since we had just met a few days prior.
+
+### Action Items:
+
+- No new action items
+
+
+
+## Meeting Notes for CRM Sync on 06/20/2024
+
+E2E; Docs; Release Tasks
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Monday/Wednesday standup meetings have been suspended
+* Mentioned the removal of:
+	* Gender identity
+	* Reason you're contacting us
+	* For search by Inquiry Number, no longer needs the Level of Authentication
+		* Search by number will behave the same for auth'd and unauth'd users
+		* The field has already been implemented by CRM, but it won't be used
+* Workflow simplification process? 400+ to 120+ flows?
+	* The larger number represents all permutations (about me/someone else/the vet/...)
+	* The smaller number represents the combinations of Category/Topic/Subtopic
+* Testing Integration, Collaboration, and Dependencies
+	* CRM's pre-release activities (near the end of the timeline) are dependent on having VA.gov's Form and Dashboard complete.
+	* CRM's API testing isn't blocked. Needs VA.gov's Test Plan to know what's being tested.
+	* VA.gov is in the process of creating the Test Plan now.
+	* Plan needs to be communicated to the field; Submitters alerted that there will be a new release.
+	* Testing and remediation dates on CRM roadmap aren't hard and fast, can revisit the calendar.
+		* Form-toStaging is when the last research study is complete and the devs have wrapped up their updates from that work, then we can start form testing.
+		* Some CRM/VA.gov testing can happen concurrently. Length of E2E testing dictates.
+	* Comms plan
+		* Contact Center Support Guide (a key deliverable for collaboration cycle touch points for release) -- Late November for review.
+		* Docs in advance of portal release so agents can guide submitters -- need to have Dashboard complete so we can get screenshots.
+		* Date for E2E testing is 10/21 through 1/20?
+	* Release Notes
+		* OIT doc deliverable
+		* Formal user-friendly docs (how their experience will differ)
+		* APIs will be in PROD before official release, unreferenced except for VA.gov UI.
+	* Natalie will be out, but Tim Robinson is covering AVA in her absence. In her OOO message, you'll find others who are supporting her projects.
+ 
+### Action Items:
+
+- [ ] Natalie to provide visuals for timeline to communicate status at any time to leadership
+- [X] Becky to provide links to Release Notes example 
+
+
+
 ## Meeting Notes for CRM Sync on 06/11/2024
 
-
+Testing Flows; Division of Labor; Announcements; UntrustedFlag
 
 ### Attendees:
 
@@ -11,7 +76,7 @@
 
 1. Reviewed Handoff Checklist
 2. Reviewed steps to test flows
-3. Division oof testing work
+3. Division of testing work
    * All E2E, CRM to help UAT participants only
    * Generally, E2E testing is VA.gov, and API testing is CRM
 4. Pull detail steps for (unauth'd) search by inquiry number into a separate section to call it out
