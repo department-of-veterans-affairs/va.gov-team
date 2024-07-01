@@ -468,6 +468,7 @@ In our pilot research plan, we outlined several insights for our intercept inter
 
 The pilot research plan for intercept interviews aimed to collect data related to account creation and online verification. The hypotheses are listed below. Our interviews provided evidence related to three of these hypotheses.
 
+||||
 | --- | ----- | ------- |
 |Participant role|Hypothesis|Outcome|
 |Veterans & Caregivers|Participants will report neutral or positive feedback that they would use the in-person identity proofing service.|Mostly False|
