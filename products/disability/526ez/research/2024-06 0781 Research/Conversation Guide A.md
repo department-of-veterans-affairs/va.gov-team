@@ -11,7 +11,8 @@ Thanks for joining us today! My name is [NAME] and [NOTETAKER NAME] is taking no
 
 Today we're going to talk about a VA Form that will be used by Veterans claiming PTSD and related mental health conditions that are connected to a traumatic in-service event, including military sexual assault. We’ll be showing you some in-progress designs for this form, which we like to call a prototype. And we’ll ask you questions along the way.
 
-- We’re asking you to share your experience with us so that we can improve the process. However, we know it can be difficult to talk about these topics. We’ll ask you questions including a brief description of the traumatic events you experienced. 
+- We’ll ask you questions about your experience filling out a VA form, which could involve sharing some limited details about your own mental health or traumatic experiences. You can decide how much detail you’re comfortable sharing.
+
 - Do you still feel up for this today? We always have the option to reschedule.
 
 [If yes] Great! Before we start, I have a few things that I want to go over with you:
