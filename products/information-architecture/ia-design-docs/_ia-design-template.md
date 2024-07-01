@@ -44,13 +44,19 @@
 *A list of new internal entry points, as well as changes to any existing entry points. This list focuses on the primary entry points and does not include all possible crosslinking opportunities. Consider whether a Search Best Bet might be useful if this product enhances a Top Task for veterans.*
 
 
-1. **[Page URL or component name]** - [Add/Modify/Remove]
+1. **[Primary Entry Point]** - [Add/Modify/Remove]
   - Placement description: 
   - Link label: 
   - Link destination: 
   - Notes: 
 
-2. **[Page URL or component name]** - [Add/Modify/Remove]
+2. **[Secondary entry points]** - [Add/Modify/Remove]
+  - Placement description: 
+  - Link label:
+  - Link destination: 
+  - Notes:
+
+3. **[Crosslinks]** - [Add/Modify/Remove]
   - Placement description: 
   - Link label:
   - Link destination: 
