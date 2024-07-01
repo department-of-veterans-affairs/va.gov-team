@@ -79,7 +79,7 @@ See Appendix below for full milestone breakdown.
 |2 |Herbicide & Hazards|July 3 2024*|In Progress | Delay by 5103 FDC update 5/16/24 and addressing bugs in submit endpoint functionality |
 |3 |Launch Preparation| July 3 2024*|In Progress  | Original date of 6/18 shifted by 1 sprint due to FDC update and identitified need to complete 1.1 UI / UX changes prior to staging review |
 |4 |Migrate /getPDF functionality to LH| TBD*   | In Progress  |Pending fixes from LH, workaround implemented ([reference thread](https://dsva.slack.com/archives/C02CQP3RFFX/p1714679140110029?thread_ts=1714674824.962009&cid=C02CQP3RFFX)). Team 2 owning this migration, delayed for Code Yellow.|
-|5 |Migrate submit functionality to LH|June 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release|
+|5 |Migrate submit functionality to LH|July 2024| In Progress  |Lighthouse Submit available in LH staging environment 6/6/24, pending LH production release|
 |6 |New TE Applications - release 1.0|August 1 2024*| Not Started| Dependent on submit migration completion| 
 |7 |Veterans with an IPF - release 1.1|Targeting 14-21 days after new applications. ~ mid August|Not Started| |
 
@@ -130,7 +130,7 @@ we need to check if the frontend can use this as well, or if we need to also add
   
 ## Proposed Release Plan for 1.0 (Veterans without existing IPF)
 ### Prerequisites:
-Approvals for launch:
+Approvals & to do's for launch:
 - [ ] Development for release 1.0 and 1.1 are complete, and ability to distinguish between Veteran states to be selected for exposure to the 2022 526ez form using feature flag disability_526_toxic_exposure
 - [ ] OCTO PO - Emily Theis
 - [ ] Approval for PDFs - **need team name
@@ -138,7 +138,8 @@ Approvals for launch:
 - [ ] Monitoring configured by DBEX teams
 - [ ] vets-api Deployed, Toggled Off
 - [ ] vets-website Deployed
-- [ ] Benchmark data for Veteran claim selection and monitoring during the release
+- [ ] Benchmark data for Veteran claim selection and monitoring during the release      
+- [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)     
 
 ### Release assumptions before kickoff:
 -  DBEX team 1 will handle enabling/disabling the feature flag for the release.
@@ -271,7 +272,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Discovery on async document status upload for form 526 after claim is established.
  - [X] Consolidate Submit and Toxic Exposure feature flags.     
  - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
- - [ ] Handling of 2 forms - new feature flag for IPF claims
+ - [X] Handling of 2 forms - new feature flag for IPF claims
  - [ ] UI/UX updates for IPF claims
  
 
@@ -284,7 +285,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 - [X] Migrate Lighthouse synchronous /submit endpoint & release.*
      - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
      - [X] Submit dashboard           
-- [ ] Revisit submit transformation & make any needed changes
+- [X] Revisit submit transformation & make any needed changes
 - [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
 
 #### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
