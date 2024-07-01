@@ -1,23 +1,19 @@
 <!-- markdownlint-disable MD024 -->
-# Release Plan - Unified Check-in Priority 1 - New Landing Page & Associated Content Changes
+# Release Plan - New Landing Page with Today's VISTA Appointments
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
+You'll need to create a feature toggle (or two) or feature branch for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
-List the features toggles here.
-
-| Toggle name | Description |
-| ----------- | ----------- |
-| check_in_experience_unified_landing_page | Feature is being developed in a feature branch but feature flag will be used at rollout; we have built a utility into the application to be able to toggle a feature on for specific facilitiies |
+**We created a feature branch**
 
 ## Step 2: Validation
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
+- [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [X] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [X] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [X] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [X] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
