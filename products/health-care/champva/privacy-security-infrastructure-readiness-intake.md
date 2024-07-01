@@ -108,12 +108,14 @@ Please provide the following documentation as attachments.
       - **As we understand, there is no audit trail for access to the IvcChampvaForms table**
 * [x] [**API Endpoint Documentation**](https://staging-api.va.gov/v1/apidocs)
     - This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
+   - [**Swagger UI**](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/)
+     - **Search `https://dev-api.va.gov/v1/apidocs` and look for ivc_champva_form**
    - **New endpoints**
      - **POST `/ivc_champva/v1/forms`**
       - **POST `/ivc_champva/v1/forms/submit_supporting_documents`**
       - **POST `/ivc_champva/v1/forms/status_updates`**
 * Product Specifics:
-    * [ ] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-release-plan.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+    * [x] A link to the [**Release Plan**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-release-plan.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
     * [x] A link to the [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md) 
     - Ensure Product Outline contains **Incident Response** info, including:
         - Points of contact for your system and dependent VA back-ends
