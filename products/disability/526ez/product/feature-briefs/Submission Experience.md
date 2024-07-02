@@ -81,6 +81,8 @@ This work is prioritized because it addresses one of the most painful parts of t
 # 7. FAQ
 ### Where can I follow along with this work?
 The [Submission Experience](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/78179) Epic in Zenhub is used to track this work.
+
+The [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711478063212/5b744d81f239e5ae30aaf28ff98414a9dc3c7e72?sender=ubd79255de28cd574d7575469) is used to map out the initiative's features and user stories.
 ### When does the submission experience “end”?
 When the claim is established in VBMS and all initial doc uploads succeed or the submission process ultimately fails (clarified [in Slack](https://dsva.slack.com/archives/C053UDWMH7U/p1712083884346289?thread_ts=1711719139.052369&cid=C053UDWMH7U)).
 ### What is the detailed delivery plan?
