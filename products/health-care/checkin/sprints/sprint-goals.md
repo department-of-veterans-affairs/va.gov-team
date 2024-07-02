@@ -77,6 +77,7 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
+    - 🟥 [[UX][Design] SPIKE: Stale reload details ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87509)
     - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
     - 🟩 [SPIKE: Can we Update Mocks for Scenario ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87414)
 </details>
