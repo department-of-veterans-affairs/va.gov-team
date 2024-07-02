@@ -5,7 +5,7 @@
 * **Toxic Exposure**
   * Implement In Progress Form feature flag and UI alerts for In Progress forms, fix validation errors and perform end to end testing for release 1.0
 * **Paper Form Sync**
-  * Design Kickoff: Sect. IV Col. 4 "Date disabilities began or worsened" to digital*
+  * Design Kickoff: Sect. IV Col. 4 "Date disabilities began or worsened" to digital
   * Implement Claim Certification behind FF*
 * **Submission Experience**
   * Run user research study for "Vet has clear expectations of claim status"
