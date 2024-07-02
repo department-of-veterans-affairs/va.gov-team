@@ -91,12 +91,12 @@ Recent locations:
 - Does the "Sort by Recent locations" add value?
 
 Notifications:
-- Will Veterans notice the notification bell when it becomes active?
-- Will Veterans find it easy to navigate to their notifications?
-- For each type of notification, is the content clear or confusing? 
+- Do Veterans notice the notification bell when it becomes active?
+- Are Veterans able to easily navigate to their notifications?
+- For each type of notification, is the content clear or confusing?
 - For each type of notification, is the CTA clear or confusing?
     - What do they expect the next step to be after clicking the CTA?
-    - Do they distinguish between tasks that need attention vs. activity?
+    - Do they distinguish between tasks that need their attention vs. their activity?
 
 
 ## Hypotheses and Tasks to Test
