@@ -73,7 +73,7 @@ This work is prioritized because it addresses one of the most painful parts of t
 - Changes to CST
 - Changes with how 526 and ancillary forms are processed after a sucessfull submission
 
-## 6.3 Risks & Challenges
+## 6.3 Risks and Challenges
 - We don't have detailed knowledge of when a claim becomes available in CST and MyVA. Instead of timing any communication with the actual point at which a claim shows up in those tools, we are keeping with the current (in production) approach to messaging that it may take a certain number of days for claims to show up there.
   - This is a known limitation that will be eliminated in the future epic Veterans can find claim status on MyVA and CST before the claim is received
 
