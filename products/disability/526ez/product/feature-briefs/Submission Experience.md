@@ -20,7 +20,7 @@ We’ll know we’re sucessfull when the following are true.
 Each delivery phase consists of one Feature and is represented in Zenhub by one Epic. Each phase includes Research, Design, Testing, and Implementation. Features are prioritized using a balance of usability, feasibility, viability, and Veteran value. Details for each feature are listed below in section 6.
 | Phase | Feature                                                      | Epic                                                         | Forecasted Date |
 |-------|--------------------------------------------------------------|--------------------------------------------------------------|-----------------|
-| 1     | Veterans lack timely & truthful information about their claim after submission | [Epic Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | September ‘24   |
+| 1     | Timely and Truthful Submission | [Epic Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | September ‘24   |
 | 2     | Veterans need a record of their claim and a way to track it  | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772) | September ‘24   |
 | 3     | Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | October ‘24     |
 | 4     | Veterans can find claim status on MyVA and CST before the claim is received | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) | Q4              |
@@ -57,7 +57,7 @@ This initiative focuses on all paths for the submission and post submission expe
 
 # 6. Features
 Brief descriptions of each feature are listed below, along with success criteria, scope, and known risks and challenges. As we learn about upcoming features, detail will be added and changed as needed to reflect the latest known information. Feature epics listed in section 5 are the best place to get detailed information about individual user stories for each feature.
-## 6.1 Veterans lack timely & truthful information about their claim after submission
+## 6.1 Timely and Truthful Submission
 Once a Veteran hits “submit,” the messaging they receive does not reflect the true status of a claim, setting false expectations for Veterans on the timeline for their claims processing. Similarly, after leaving the confirmation page, Veterans have nowhere on VA.gov to follow up on a submission until it appears in Claim Status Tool. This creates a communication gap— up to multiple days for some Veterans.
 
 This work is prioritized because it addresses one of the most painful parts of the Veteran experience, where much about the problem is known and the implementation is less complex. Moreover, this phase spans the entire user journey, leading to a high-value, low-effort implementation that creates forward momentum for the team. When space or brevity is appreciated, we refer to this feature as "Timely and Truthful Submission".
