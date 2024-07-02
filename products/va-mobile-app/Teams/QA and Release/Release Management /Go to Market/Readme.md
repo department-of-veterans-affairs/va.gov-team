@@ -1,7 +1,0 @@
-
-Go to Market includes: 
-- [Call Center Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA%20Call%20Center%20Process)
-- Rollout and rollback plans (feature flag, way gates, app release plan, etc) 
-- [Google and Android App Store Updates - images, app description, whats new content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/App%20Store%20Updates.md)
-- [VA.Gov Marketing Page for the VAHB App (images, app description) ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA.Gov%20App%20Store%20Page)
-- [In App What's New Content ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/In%20App%20Whats%20New%20Process.md)

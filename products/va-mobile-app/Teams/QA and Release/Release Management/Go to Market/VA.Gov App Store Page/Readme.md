@@ -13,11 +13,11 @@
 
 ## How to update 
 - Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
-- Currently used [Va.Gov App Store iPhone Images ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Images%20In%20Use)
-- Currently used [Va.gov App Description Word Doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Current%20App%20Description)
+- Currently used [Va.Gov App Store iPhone Images ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Images%20In%20Use)
+- Currently used [Va.gov App Description Word Doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Current%20App%20Description)
 - Content to update App description (see Github)
    - Pull from existing Features section and replace; Help section is separate and maitained by this site
-- Update the [Alt Text File}(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Images%20In%20Use/Alt%20Text%20Image.md) so that each image has an alt text description for accessibility purposes 
+- Update the [Alt Text File}(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Images%20In%20Use/Alt%20Text%20Image.md) so that each image has an alt text description for accessibility purposes 
 - Once Github is update with the changes needed then send an email to to:
     - Donna Rodriguez treva.lutes@va.gov
     - Treva Lutes donna.rodriguez@va.gov
