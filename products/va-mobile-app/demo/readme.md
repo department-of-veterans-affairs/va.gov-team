@@ -7,7 +7,6 @@ This file serves as a high level meeting log and demo inventory for the VA Healt
 ## July 2, 2024: Sprint 100 [VA Mobile Sprint Demo - Sprint 100.pdf](https://github.com/user-attachments/files/16073627/VA.Mobile.Sprint.Demo.-.Sprint.100.pdf)
 
 | Team | Topic | 
-
 |---|---|
 | Flagship: Global | Homescreen testing and Veteran Status analytics |
 | Flagship: Health & Benefits | Claims updates designs  |
