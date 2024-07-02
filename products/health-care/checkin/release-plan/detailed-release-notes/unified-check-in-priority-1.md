@@ -17,6 +17,7 @@ In an effort to reduce confusion in Veterans between Pre-Check-in and eCheck-in,
 ## Wireframes
 - [Pivot](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=1440-31346&t=ibceEn0g7iIb6Z0R-0)
 - [Priority 1](https://www.figma.com/design/7Ib7RxiIC4QB53FDBO2a8c/Unified-check-in-%7C-PCI?node-id=937-28573&t=ibceEn0g7iIb6Z0R-0)
+- [Download PNGs for use in training materials](https://github.com/user-attachments/files/16071323/Screenshots.zip)
 
 ## Changes to Pre-Check-in
 
