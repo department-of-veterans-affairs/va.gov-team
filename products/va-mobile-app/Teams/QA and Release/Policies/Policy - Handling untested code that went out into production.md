@@ -3,20 +3,20 @@ This policy covers what happens in the unlikely event that code is pushed out in
 
 
 ## Process: 
-1.) Someone identified code was released that was not tested or approved by QA 
+1.) Someone identifies code was released that was not tested or approved by QA 
 
 2.) Notifies Release Manager 
 
-3.) Release Manager writes up a Sev-1 or Sev-2 bug depending on the cirumstance 
+3.) Release Manager works with QA to write up a ticket 
 
-4.) Release Manager communicates out to Ad Hoc Mobile Leads and impacted Flagship Team 
+4.) Release Manager communicates out to Ad Hoc Mobile Leads and impacted Flagship Team PM
 
-5.) Flagship Team required to review and validate untested code
-     - Flagship Team's QA will stop working on Flagship's Team new development and focus only on untested production code
+5.) Responsible Flagship Team will be required to review and validate untested production code
+     - Flagship Team's QA will stop working on Flagship's Team current projects and focus only on untested production code
      
 6.) Flagship Team QA completes testing
-     - If findings then additional bug tickets are opened accordingly 
-     - If no findings, then close out the ticket 
+     - If findings then additional bug tickets are opened accordingly, which will follow the standard bug process 
+     - If no findings, then close out the ticket with remarks
      
 7.) Issue resolved, Flagship QA to go back to Testing Flagship Team's new development code 
 
