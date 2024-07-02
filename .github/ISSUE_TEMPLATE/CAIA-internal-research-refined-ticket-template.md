@@ -121,7 +121,7 @@ CAIA A11ys will review the coverage needed, and self-assign, based on a11y avail
 
 ```[tasklist]
 ### VFS TEAM Tasks
-- [ ] Tag @coforma-terry in Slack [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH)
+- [ ] Tag @Naomi Eke in Slack [#sitewide-content-accessibility-ia](https://dsva.slack.com/archives/C01K37HRUAH)
 - [ ] Schedule intial meeting with @coforma-terry and @sara-amanda
 - [ ] Schedule a pilot session with CAIA a11ys
 - [ ] (OPTIONAL) Receive feedback on Conversation Guide for Screen Readers (if requested)
