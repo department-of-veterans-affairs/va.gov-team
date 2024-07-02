@@ -165,7 +165,7 @@ Certain pain points were identified during the service.
 
 ### 2. IPP is so quick and easy, it’s not worth doing as a standalone service
 
-Two participants in the moderated pilot sessions (P1 and P4) and two participants in the intercept interviews (P2i) expressed positive views toward in-person identity proofing, but did find it valuable enough to travel to their local VA solely to use the service.
+Two participants in the moderated pilot sessions (P1 and P4) and two participants in the intercept interviews (P2i) expressed positive views toward in-person identity proofing, but did not find it valuable enough to travel to their local VA solely to use the service.
 
 P1 commented that the service was “so short” that it’s “not worth my time”. P2i from intercept interviews said “I wouldn’t want to get locked out of this system and come all the way here just to get back in”.
 
