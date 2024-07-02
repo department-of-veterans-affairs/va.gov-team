@@ -1,9 +1,10 @@
 # Research Plan for Appointments Oracle Health integration and scheduling improvements
 
 ## Background
-The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to schedule and manage their appointments. Unified scheduling portal for both Vista and Oracle Health Facilities. The single interface streamlines the appointment booking process. Users can easily find and book appointments without switching between platforms.
+The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to schedule and manage their appointments. Currently, facilities that use Oracle Health require Veterans to sign in to a seperate portal. The initiative that this research pertains to is creating a unified scheduling portal for both Vista and Oracle Health Facilities so that Vetaerans can easily find and book appointments without switching between platforms.
 
-<!-- @melissa-lefevre, could you clarify the backround statement above? I'm not sure what it's saying. -->
+<!-- @melissa-lefevre, could you clarify the backround statement above? I'm not sure what it's saying.
+@peter, give that a read. -->
 
 [Appointments Tool Product Outline](vaos-product-outline.md)
 
@@ -11,18 +12,22 @@ The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to sc
 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
-- Veterans and their families can find a single, authoritative source of information.
-- Logged-in users have a personalized experience, with relevant and time-saving features.
+**Goals:**
+Veterans can manage their health services online
+Logged-in users have a personalized experience, with relevant and time-saving features
 
 Increase 📈
 
--  Veteran satisfaction with VA.gov: by providing an after visit summary, a print functionality on the appointment list page, and ease of navigation with updated breadcrumbs.
+- Veteran satisfaction with the appointment scheduling process. This contributes to the goal of increasing CSAT for VA web products.
+- Usage of the appointments tool
+
 
 Decrease 📉
 
--   Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it.
+- Time to successful schedue appointments
 
-<!-- @melissa-lefevre could you update the goals under Increase and Decrease? These look like they were pulled from other studies. Also check that you have the right goals in there. -->
+<!-- @melissa-lefevre could you update the goals under Increase and Decrease? These look like they were pulled from other studies. Also check that you have the right goals in there. 
+@peter, I think I just copied those over from another research plan and didn't go back and change them. See if those make more sense. -->
 
 ### Veteran journey
 
@@ -49,19 +54,15 @@ Retiring
 
 
 ## Research Goals
-	
-1. Evaluate the efficiency and ease of scheduling with the improvements, specifically:
-- Does scheduling from previous appointments make the scheduling process faster and easier for Veterans?
-- Does the feature "Sort by Recent locations" make it eaasier for Veterans? 
-- Does the new patient indicated date page make the scheduling process easier for Veterans?
+- Evaluate a scheduling flow for booking an appointment at an Oracle Health facility. This will include selecting a provider during scheduling.
 
-2. Do the improvements to the scheduling flow bring Value to the Veteran based on their individual needs and preferences?
-- Does scheduling from previous appointments or the "Sort by Recent locations" add value for Veterans?
-- Can Veterans find, understand, and find value in notifications related to their appointments?
+- Test concepts for improving the scheduling flow, including:
+  - Providing an option to quickly schedule from previous appointments
+  - Showing locations where the Veteran has scheduled recently first in the "choose a location" list
+  - Better timing for displaying a message that the tool is not intended for urgent care
 
-3. Assess user preferences and needs while scheduling
-- Understand Veterans' preferences regarding choosing providers and how these preferences vary between types of care. 
-- Gather feedback on the usability and appropriateness of various alerts letting the Veteran know the scheduling tool is not meant for immediate care. 
+- Test a concept for sharing important messages and tasks with Veterans	
+
 
 <!-- @melissa-lefevre, it's confusing to have questions mixed with goals. Also, you have a separate section for questions. I'd keep them separate, I think, then reiterate which goal each set of questions addresses in the "questions" section if you need to. 
 
@@ -74,15 +75,19 @@ Also, I think the goals should be more specific, and clearly defined between OH 
   - Showing locations where the Veteran has scheduled recently first in the "choose a location" list
   - Better timing for displaying a message that the tool is not intended for urgent care
 
-- Test a concept for sharing important messages and tasks with Veterans
+- Test a concept for sharing important messages and tasks with Veterans	
 
 -->
 
 ### Outcome
 
-This research will provide us with an understanding of how the proposed concepts affect Veterans' experience and efficiency in scheduling. Specifically, the research will provide insights into whether the new features — such as scheduling from recent appointments, sorting by recent locations, the improved date picker, and helpful alerts and reminders — make the process faster, easier, and more valuable for Veterans.
+This research will provide insights into whether the new features — such as scheduling from recent appointments, sorting by recent locations, the improved date picker, and helpful alerts and reminders — make the process faster, easier, and more valuable for Veterans.
 
-By gathering research data on user preferences, ease of use, and perceived value of the new features, we can make informed decisions about which elements to refine, retain, or remove. 
+After this research is complete, we will:
+
+- Improve the spec for OH scheduling based on feedback
+- Choose which scheduling improvements are most valuable for the dev team to implement
+- Provide teams working on appt notifications helpful about the location of the clarity of the notification workflow
 
 <!-- @melissa-lefevre this is too broad. I'd pull out anything that could be applied to any study. Try something like:
 
