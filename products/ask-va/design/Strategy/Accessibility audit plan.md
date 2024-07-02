@@ -1,5 +1,7 @@
 # Accessibility audit plan
 
+Last updated: July 2, 2024
+
 This is copied from [CAIA's accessibility maintenance audit plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=epic%2C+accessibility%2C+a11y-testing%2C+sitewide+CAIA%2C+sitewide+accessibility&projects=&template=a11y-audit.yaml&title=%5BMaintenance+A11y+Audit%5D%3A+). 
 
 ## Testing plan
