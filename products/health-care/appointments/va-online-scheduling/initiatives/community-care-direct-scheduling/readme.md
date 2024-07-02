@@ -13,8 +13,9 @@ Text - H.R.2617 - 117th Congress (2021-2022): Consolidated Appropriations Act, 2
 
 ### CC scheduling current state
 
-- [Review Community Care Appointments service blueprint (Mural)](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=761-6444&t=Jf1WJ4OgStd1sByq-4)
+- [Review Community Care Appointments service blueprint (Mural) - CX Catalog Team](https://www.figma.com/file/sCPsUDfgchOx8Dg0l3Uspb/Service-Blueprints?type=whiteboard&node-id=761-6444&t=Jf1WJ4OgStd1sByq-4)
 - [Download Community Care Self-Scheduling Flow Map (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/15395579/Attachment.D.-.Community.Care.Veteran.Self-Scheduling.Flow.Map.pdf)
+- [(VAOS) Application and HealthShare Referral Management (HSRM)] Standard Operating Procedure [December 16, 2022]](https://github.com/user-attachments/files/16069320/CC.VAOS_HSRM_SOP_2022121622_v_Final.pdf)
 
 ### CC direct scheduling end state
 
