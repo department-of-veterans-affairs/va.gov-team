@@ -1,10 +1,8 @@
 # Research Plan for Appointments Oracle Health integration and scheduling improvements
 
 ## Background
-The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to schedule and manage their appointments. Currently, facilities that use Oracle Health require Veterans to sign in to a seperate portal. The initiative that this research pertains to is creating a unified scheduling portal for both Vista and Oracle Health Facilities so that Vetaerans can easily find and book appointments without switching between platforms.
+The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to schedule and manage their appointments. Currently, facilities that use Oracle Health require Veterans to sign in to a seperate portal. The initiative that this research pertains to is creating a unified scheduling tool for both Vista and Oracle Health Facilities so that Veterans can easily book appointments without switching between platforms.
 
-<!-- @melissa-lefevre, could you clarify the backround statement above? I'm not sure what it's saying.
-@peter, give that a read. -->
 
 [Appointments Tool Product Outline](vaos-product-outline.md)
 
@@ -18,16 +16,13 @@ Logged-in users have a personalized experience, with relevant and time-saving fe
 
 Increase 📈
 
-- Veteran satisfaction with the appointment scheduling process. This contributes to the goal of increasing CSAT for VA web products.
+- Veteran satisfaction with the appointment scheduling process.
 - Usage of the appointments tool
 
 
 Decrease 📉
 
-- Time to successful schedue appointments
-
-<!-- @melissa-lefevre could you update the goals under Increase and Decrease? These look like they were pulled from other studies. Also check that you have the right goals in there. 
-@peter, I think I just copied those over from another research plan and didn't go back and change them. See if those make more sense. -->
+- The time it takes to successful schedue appointments
 
 ### Veteran journey
 
@@ -54,19 +49,6 @@ Retiring
 
 
 ## Research Goals
-- Evaluate a scheduling flow for booking an appointment at an Oracle Health facility. This will include selecting a provider during scheduling.
-
-- Test concepts for improving the scheduling flow, including:
-  - Providing an option to quickly schedule from previous appointments
-  - Showing locations where the Veteran has scheduled recently first in the "choose a location" list
-  - Better timing for displaying a message that the tool is not intended for urgent care
-
-- Test a concept for sharing important messages and tasks with Veterans	
-
-
-<!-- @melissa-lefevre, it's confusing to have questions mixed with goals. Also, you have a separate section for questions. I'd keep them separate, I think, then reiterate which goal each set of questions addresses in the "questions" section if you need to. 
-
-Also, I think the goals should be more specific, and clearly defined between OH and scheduling improvements. For example
 
 - Evaluate a scheduling flow for booking an appointment at an Oracle Health facility. This will include selecting a provider during scheduling.
 
@@ -77,45 +59,57 @@ Also, I think the goals should be more specific, and clearly defined between OH 
 
 - Test a concept for sharing important messages and tasks with Veterans	
 
--->
+
 
 ### Outcome
 
-This research will provide insights into whether the new features — such as scheduling from recent appointments, sorting by recent locations, the improved date picker, and helpful alerts and reminders — make the process faster, easier, and more valuable for Veterans.
+This research will provide insights into whether the new features — such as scheduling from recent appointments, sorting by recent locations, and helpful alerts and reminders — make the process faster, easier, and more valuable for Veterans.
 
 After this research is complete, we will:
 
-- Improve the spec for OH scheduling based on feedback
+- Improve the user experience for Oracle Health scheduling based on feedback
 - Choose which scheduling improvements are most valuable for the dev team to implement
-- Provide teams working on appt notifications helpful about the location of the clarity of the notification workflow
+- Provide teams working on appt notifications with the results of the study that show how Veterans responded to the notification workflow.
 
-<!-- @melissa-lefevre this is too broad. I'd pull out anything that could be applied to any study. Try something like:
-
-After this research is complete, we will:
-
-- Improve the spec for OH scheduling based on feedback
-- Choose which scheduling improvements are most valuable for the dev team to implement
-- Provide teams working on appt notifications helpful about the location of the clarity of the notification workflow
-
--->
 
 ### Research questions
 
 Research Questions:
-- Does scheduling from previous appointments make the scheduling process faster and easier for Veterans?
-- Does the "Sort by Recent locations" feature make scheduling easier for Veterans?
-- Does the new patient-indicated date page streamline the scheduling process for Veterans?
-- Do the improvements to the scheduling flow bring value to the Veteran?
-- Does scheduling from previous appointments or the "Sort by Recent locations" add value for Veterans?
-- Can Veterans find, understand, and find value in notifications related to their appointments?
+Oracle Health scheduling:
 - What are Veterans' preferences regarding choosing providers, and how do these preferences vary between primary and specialty care, as well as between established and new care?
+
+Immediate care alerts:
 - Do Veterans find the warnings about urgent medical needs necessary, helpful, and timely?
 - Is it clear to Veterans that the tool is not for urgent medical needs?
 - Is having the "I need immediate care" option helpful?
 
+Quickly schedule based on previous appointments:
+- Does scheduling from previous appointments make the scheduling process faster and easier for Veterans?
+- Does scheduling from previous appointments add value for Veterans?
+
+Recent locations:
+- Does the "Sort by Recent locations" feature make scheduling easier for Veterans?
+- Does the "Sort by Recent locations" add value?
+
+Notifications:
+- Can Veterans find, understand, and find value in notifications related to their appointments?
+
+
+
+
 ## Hypotheses and Tasks to Test
 
 We will use these when developing the research plan. Our main goal is to test the OH integration.
+
+---
+### As a Veteran, I can choose my provider when scheduling at an OH facility
+
+**Hypotheses:**
+
+- Veterans will want to choose a specific provider for most types of care.
+  - Do their needs change between primary care and specialty care?
+  - Do their needs change between established care and new care?
+- Veterans will want to choose a provider based on who has the soonest availability.
 
 ---
 
@@ -129,18 +123,6 @@ We will use these when developing the research plan. Our main goal is to test th
 
 - Choosing from locations where they've recently scheduled an appointment will make it faster and easier to schedule.
 - Veterans will appreciate and find value in the default "Sort by Recent Locations."
-
----
-
-### As Scheduling Staff, I know what date a Veteran preferred to schedule their appointment
-
-**Scenario to Test:**
-
-- A Veteran chooses their preferred date from an improved date picker.
-
-**Hypothesis:**
-
-- Veterans will be able to select a preferred date faster and more easily than in the current flow.
 
 ---
 
@@ -193,14 +175,6 @@ We will use these when developing the research plan. Our main goal is to test th
 
 ---
 
-### As a Veteran, I can choose my provider when scheduling at an OH facility
-
-**Hypotheses:**
-
-- Veterans will want to choose a specific provider for most types of care.
-  - Do their needs change between primary care and specialty care?
-  - Do their needs change between established care and new care?
-- Veterans will want to choose a provider based on who has the soonest availability.
 
 ## Methodology	
 
@@ -226,7 +200,8 @@ Perigean will:
 
 #### Total Number and Type of Participants
 - **Total Participants:** 10 (Minimum)
-- 50% Mobile 50% Desktop
+- 50% Mobile 
+- 50% Desktop
 - **Type of Participants:** Veterans
 
 #### Primary Criteria (Must-Haves)
@@ -236,22 +211,18 @@ Participants must meet the following criteria to effectively participate in the 
 **Screener Questions:**
 1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No)
 
-Mann-Grandstaff VA Medical Center in Spokane, Washington
-Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
-VA Central Ohio Healthcare System in Columbus, Ohio
-Roseburg VA Health Care System in Roseburg, Oregon
-VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
+- Mann-Grandstaff VA Medical Center in Spokane, Washington
+- Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
+- VA Central Ohio Healthcare System in Columbus, Ohio
+- Roseburg VA Health Care System in Roseburg, Oregon
+- VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
 
 2. If yes, to Q. 1: Have you used the My VA Health Portal to review your Health appointments? (Yes/No)
    - **Qualifying Response:** Yes
    
-
-   - **Qualifying Response:** Yes
-
 #### Secondary Criteria (Nice-to-Haves)
 **Secondary criteria:**
 
-- At least 4 participants who attend sessions on a mobile device.
 - At least 4 participants with a cognitive disabilty
 - At least 1 LGBTQ+ Veteran
 - At least 1 Native Veteran
@@ -283,9 +254,9 @@ A pilot session is required. Please indicate the date and name of a mock partici
 * Planned dates of research:
 
 ### Length of sessions
-* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) 
-* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)
+* Session length: 60 minutes
+* Buffer time between sessions: 30 minutes 
+* Maximum Sessions per day: 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
@@ -294,12 +265,12 @@ Please request enough dates and at ***least double the amount of time slots for 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 	
-- Moderator:	
-- Research guide writing and task development (usually but not always same as moderator):	
-- Participant recruiting & screening:	
-- Project point of contact:	
+- Moderator: Melissa Lefevre
+- Research guide writing and task development (usually but not always same as moderator):	Melissa Lefevre
+- Participant recruiting & screening:	Perigean
+- Project point of contact: Melissa Lefevre	
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers:	
-- Observers:	
+- Note-takers:	Peter Russo
+- Observers:	Leah De La Costa, Jeff Roof
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
