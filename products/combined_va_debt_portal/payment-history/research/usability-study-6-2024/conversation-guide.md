@@ -230,7 +230,7 @@ Prototype Link:
 
 - What are your thoughts on the wording of 'resolve your balance'? Do you feel that this title describes this page well? If not, how would you word it differently? 
 
-- I'd like to bring your attention to the language that is being used in this portal. Notice where we use the word "debt" and the word "overpayment". Do you have any reactions to this language? Is there a term you prefer? 
+- I'd like to bring your attention to the language that is being used in this portal. Notice where we use the word "debt" and the word "overpayment". Do you have any reactions to this language? Is there a term you prefer? Why?
 
 
 
