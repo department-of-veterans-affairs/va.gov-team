@@ -1,9 +1,9 @@
 # Analytics
 
-[Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
-[VSignals Feedback](#vsignals-feedback)
-[Medallia Feedback](#medallia-feedback)
-[DataDog Dashboards](#datadog-dashboards)
+- [Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
+- [VSignals Feedback](#vsignals-feedback)
+- [Medallia Feedback](#medallia-feedback)
+- [DataDog Dashboards](#datadog-dashboards)
 
 ## Metrics Dashboards for Reporting Purposes
 - For page views, button clicks, & collapses/expands of collapsible components
