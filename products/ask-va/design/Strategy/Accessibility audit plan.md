@@ -9,7 +9,7 @@ This is copied from [CAIA's accessibility maintenance audit plan](https://github
 - [ ] Run WAVE on every page if time allows. WAVE is more visual than axe or axe-coconut, but offers some excellent ways to identify nested headings and HTML5 landmark tags.
 
 ### Manual
-- [ ] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
+- [x] Color contrast checks (recommend using whocanuse.com for beyond compliance reports)
 - [ ] Color blindness checks
 - [ ] Zoom layouts to 400% and inspect them for readability. If layouts break at 400%, start reducing them until they become stable, and log the zoom ratio when things started breaking.
 - [ ] Keyboard navigation
