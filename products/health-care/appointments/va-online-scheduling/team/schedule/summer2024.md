@@ -3,7 +3,7 @@
 Team Member | June | July | August
 --- | --- | --- | ---
 Jeff Roof | 21 |  | 
-Leah De La Costa | 7 | 22 | 7-9, 26, 29-30
+Leah De La Costa | 7 | 1, 22 | 7-9, 26, 29-30
 Peter Russo | | 8-10 | 
 Ciera Maddox | |  | 8-23
 Melissa Lefevre | 21, 28 | 12, 19, 31 | 1, 23, 26
