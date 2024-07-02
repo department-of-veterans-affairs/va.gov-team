@@ -41,6 +41,14 @@
 </details>
 
 <details>
+<summary>Upcominng Apointment Details Page - At ATLAS location </summary>
+</details>
+
+<details>
+<summary>Upcominng Canceled Appointment Details Page - AT ATLAS location </summary>
+</details>
+
+<details>
 <summary>Pending Appointment Details Page - At VA location </summary>
 </details>
 
@@ -74,4 +82,8 @@
 
 <details>
 <summary>Past Apointment Details Page - GFE </summary>
+</details>
+
+<details>
+<summary>Past Apointment Details Page - At ATLAS location </summary>
 </details>
