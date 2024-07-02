@@ -19,8 +19,9 @@ The Cartographer Team will request landing page responses (/my-health/) and anal
 - Able to complete task
 - Key c-sat score name: "VA.gov experience"
 - Key c-sat score name: "What is your overall satisfaction with this site?"
-- Qualitative responses (What that rating? and What task were you trying to do today?
-- Related to integration
+- Qualitative responses (Why that rating?/What task were you trying to do today?
+- Topic
+- Postive or negative feedback
 - Browser
 - Browser version
 - Device 
