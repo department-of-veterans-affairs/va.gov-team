@@ -1,4 +1,4 @@
-## Post 9/11 Enrollment Status Outline - Test
+## Post 9/11 Enrollment Status Outline
 
 - GitHub Label: GI Bill status
 
