@@ -2,30 +2,30 @@
 The purpose of this document is to describe and build alignment for what problems we aim to solve, why we’re solving them, and how we plan to improve the Veteran submission experience. It’s a living document which serves as the source of truth and a communication tool for keeping stakeholders informed about the initiative’s progress.
 
 # 2. Problem or Opportunity
-Through recent Veteran shadowing research and discovery In Q1 2024, we discovered that many Veterans do not have a positive experience when submitting a claim for disability compensation. After a Veteran clicks “submit” on a disability benefits application on va.gov they experience errors, confusion, a lack of clarity, missing information, and cognitive load that overburdens the Veteran during a time where they are asked to recall traumatic events.
+Through recent Veteran shadowing research and discovery In Q1 2024, we discovered that many Veterans do not have a positive experience when submitting a claim for disability compensation. After a Veteran clicks “submit” on a disability benefits application on va.gov they experience errors, confusion, a lack of clarity, missing information, and cognitive load that overburdens the Veteran during a time when they are asked to recall traumatic events.
 
 # 3. Proposed Solution
-We aim to give Veterans more clarity on the status and outcome of their claim submissions. We’ll provide timely & truthful information about their claim after submission and give the Veteran a record of their claim and a way to track it. In concert with being able to view claim status on MyVA and Claim Status Tool, we expect this will help to reduce duplicate submissions. In scenarios where a system failure causes the Veteran's claim not to be submitted, we'll inform the Veteran in plain language about what to expect and will make efforts to reduce the burden of resubmission or eliminate it altogether. 
+We aim to give Veterans more clarity on the status and outcome of their claim submissions. We’ll provide timely & truthful information about their claim after submission and give the Veteran a record of their claim and a way to track it. In addition to being able to view claim status on MyVA and Claim Status Tool, we expect this will reduce duplicate submissions. In scenarios where a system failure causes the Veteran's claim not to be submitted, we'll inform the Veteran in plain language about what to expect and will make efforts to reduce the burden of resubmission or eliminate it altogether.
 
 # 4. Success
 We’ll know we’re sucessfull when the following are true.
 * Veteran has clear expectations of submission status
 * Veterans have the claim information they need to get help and a copy of their claim
-* Fewer duplicate submissions, greater Veteran confidence
+* Greater Veteran confidence in the submission process, leading to fewer duplicate submissions
 * Veterans can find the status of their submission on VA.gov (MyVA and CST)
 * Automatic resubmissions happen same day, as needed
-* Veteran won’t have to recomplete forms from scratch
+* Veterans won’t have to recomplete forms from scratch during failure scenarios
 
 # 5. Delivery
 Each delivery phase consists of one Feature and is represented in Zenhub by one Epic. Each phase includes Research, Design, Testing, and Implementation. Features are prioritized using a balance of usability, feasibility, viability, and Veteran value. Details for each feature are listed below in section 6.
 | Phase | Feature                                                      | Epic                                                         | Forecasted Date |
 |-------|--------------------------------------------------------------|--------------------------------------------------------------|-----------------|
 | 1     | Timely and Truthful Submission | [Epic Link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/82076) | September ‘24   |
-| 2     | Veterans need a record of their claim and a way to track it  | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772) | September ‘24   |
-| 3     | Veterans sometimes submit duplicate claims because Veterans aren’t sure if the claim went through | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | October ‘24     |
-| 4     | Veterans can find claim status on MyVA and CST before the claim is received | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) | Q4              |
-| 5     | Veterans experience a burden after they attempt to submit a disability claim | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/83500) | Q4              |
-| 6     | When Veterans resubmit the failed component of their claim they don’t know if the VA has all their claim material |                                                              | Q1 '25          |
+| 2     | Claim Record and Tracking  | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86772) | September ‘24   |
+| 3     | Reduce Duplicate Submissions | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86774) | October ‘24     |
+| 4     | Claim Status on VA.gov | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/86884) | Q4              |
+| 5     | Reduce Resubmission Burden | [Epic link](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/83500) | Q4              |
+| 6     | Reciept of Claim Material |                                                              | Q1 '25          |
 
 ## 5.1 In Scope
 This initiative focuses on all paths for the submission and post submission experience. 
