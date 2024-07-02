@@ -13,5 +13,5 @@ Ryan Shaw | 17 |  |
 John Luo | 10, 28 | 22 | 19
 Tony Williams |  | 5 | 
 Jennie McGibney |  | 5 | 
-Brenda Cudone |  |  |  
+Brenda Cudone |  | 5 |  19-23
 
