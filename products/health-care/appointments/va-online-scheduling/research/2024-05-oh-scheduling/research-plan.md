@@ -93,9 +93,10 @@ Recent locations:
 Notifications:
 - Will Veterans notice the notification bell when it becomes active?
 - Will Veterans find it easy to navigate to their notifications?
-- For each type of notification, is the content confusing? 
-- For each type of notification, is the CTA confusing?
+- For each type of notification, is the content clear or confusing? 
+- For each type of notification, is the CTA clear or confusing?
     - What do they expect the next step to be after clicking the CTA?
+    - Do they distinguish between tasks that need attention vs. activity?
 
 
 ## Hypotheses and Tasks to Test
