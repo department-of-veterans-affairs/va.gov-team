@@ -74,7 +74,6 @@ After this research is complete, we will:
 
 ### Research questions
 
-Research Questions:
 Oracle Health scheduling:
 - What are Veterans' preferences regarding choosing providers, and how do these preferences vary between primary and specialty care, as well as between established and new care?
 
@@ -92,9 +91,11 @@ Recent locations:
 - Does the "Sort by Recent locations" add value?
 
 Notifications:
-- Can Veterans find, understand, and find value in notifications related to their appointments?
-
-
+- Will Veterans notice the notification bell when it becomes active?
+- Will Veterans find it easy to navigate to their notifications?
+- For each type of notification, is the content confusing? 
+- For each type of notification, is the CTA confusing?
+    - What do they expect the next step to be after clicking the CTA?
 
 
 ## Hypotheses and Tasks to Test
