@@ -401,14 +401,14 @@ The following visualization shows the responses from the survey the VA staff mem
 
 ### Participant Demographics for moderated sessions
 
-* [Equality Checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot/Research%20Findings/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot_%20VA%20Recruitment%20Checker%20for%20Equality.xlsx)
+* [Equality Checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03_Pilot/Research%20Findings/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot_%20VA%20Recruitment%20Checker%20for%20Equality.xlsx)
 * 2/5 participants in the moderated sessions did not have a verified Login.gov account
 * 3/5  participants in the moderated session had a verified Login.gov account
 
 ### Participant Demographics for intercept interviews
 
-* [Equality Checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot/Research%20Findings/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot_Intercept%20Interviews_%20VA%20Recruitment%20Checker%20for%20Equality.xlsx)
-* [Raw demographic data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot/Research%20Findings/Intercept%20Interview%20Demographics%20(Responses).xlsx)
+* [Equality Checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03_Pilot/Research%20Findings/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot_Intercept%20Interviews_%20VA%20Recruitment%20Checker%20for%20Equality.xlsx)
+* [Raw demographic data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03_Pilot/Research%20Findings/Intercept%20Interview%20Demographics%20(Responses).xlsx)
 * 8/10 participants were 55+ years old
 * 5/10 participants identified as Black
 * 4/10 participants identified as Caucasian
@@ -526,7 +526,7 @@ During the four day study, researchers positioned themselves throughout the VA m
 
 **Note:** Due to observational studies excluding direct interaction with individuals and falling to the interpretation of the researcher, there is selection bias risk as well as possible misinterpretation of the demographics or interactions in the space. Demographics were collected from all intercept interviews and moderated sessions to reduce the risk and ensure participants could self identify. Future research is encouraged at this site to reduce the influence of this bias and to gather more accurate data on the demographics of visitor traffic. 
 
-[Link to Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot/Research%20Findings/Observational%20Study%20(Responses).xlsx)
+[Link to Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/in-person-proofing/research/2024-03_Pilot/Research%20Findings/Observational%20Study%20(Responses).xlsx)
 
 Observational studies were conducted five times at different times of the day in the following spaces: cafeteria, pharmacy, enrollment center, and the telehealth room where the MHV Coordinator usually meets with Veterans and caregivers.
 

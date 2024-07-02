@@ -9,7 +9,7 @@ Virtual Health Resource Center Arrival Logistics
 
 The Secure Sign In Transition team will be conducting an in-person pilot for an in-person identity proofing application. While the team is onsite, researchers will conduct intercept interviews through the Virtual Health Resource Center when they are not conducting pilot sessions.
 
-[IPP Pilot Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2024-03-Secure%20Sign%20In%20Transition%20Team-In-Person%20Proofing_Pilot/IPP%20Pilot%20Research%20Plan.md)
+[IPP Pilot Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/research/2024-03_Pilot/IPP%20Pilot%20Research%20Plan.md)
 
 Upon arrival at the Virtual Health Resource Center, speak with staff on how Veteran intercepts will be conducted. Specifically, seek responses to the following:
 

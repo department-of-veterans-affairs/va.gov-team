@@ -4,7 +4,7 @@
 VAHB Release Team needs to manually create a New Release in Zenhub so that tickets can be tagged with the release. Without a release tickets will not be tagged and will require a lot of manual effort and time to review tickets and tag them appropriately. 
 
 ## Other info 
-- [VAHB Release Calendar](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/VAHB%20Release%20Calendar.md)
+- [VAHB Release Calendar](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/VAHB%20Release%20Calendar.md)
 - Not sure if this process can be automated but recommend reviewing
 - [VAHB Release Report](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/reports/release?release=Z2lkOi8vcmFwdG9yL1JlbGVhc2UvMTAyNzQw)
   
@@ -28,7 +28,7 @@ VAHB Release Team needs to manually create a New Release in Zenhub so that ticke
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/f58f90a5-1139-42b5-96c2-cb82fcbddb4c)
 
 
-5.) Paste the release title and update the release number and dates to the release you are creating  (you can use [VAHB Release Calendar](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management%20/VAHB%20Release%20Calendar.md) to get the information)
+5.) Paste the release title and update the release number and dates to the release you are creating  (you can use [VAHB Release Calendar](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/VAHB%20Release%20Calendar.md) to get the information)
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/1b0ce73e-4e39-4643-9d70-240c9e544881)
 
