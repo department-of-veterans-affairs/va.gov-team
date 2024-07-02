@@ -40,6 +40,7 @@ July 2, 2024
   - Long pause during onboarding leads to temporary weird state on home during first login - [8811](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8811)
   - Should update some link announcements to 'external link' for screen readers - [8671](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8671)
 - **Testing limitations:**
+  - _Nothing specific to this feature implementation to add_
 - **Other testing notes:**
   - UAT completed by other roles (see [UAT documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/uat)). Product (in consultation with Engineering, QA and UX) decided that no changes needed to be made to MVP, coming out of UAT.
    - Work on the [React Query migration (zenhub epic link)](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6729) occuring in develop (before, during & after home screen personalization work) impacted the implementation and testing of this feature
