@@ -5,6 +5,9 @@ Agenda:
 *   Review open action items
 *   Discuss progress and risks 
 
+## 7/2/24
+*   Typography token updates
+
 ## 6/18/24
 *   Catching up after on-site
 
