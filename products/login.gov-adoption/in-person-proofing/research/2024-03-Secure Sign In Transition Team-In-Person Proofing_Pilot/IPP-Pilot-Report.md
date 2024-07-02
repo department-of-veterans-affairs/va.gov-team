@@ -462,7 +462,7 @@ Researchers positioned in the waiting room for lab work at the Baltimore VA Medi
 2. How might we learn from Veterans and/or caregivers their receptivity to in-person identity verification  as they are in the midst of accessing VA services?
 3. How might we identify pain points or improvements that are needed by getting feedback while a Veteran and/or caregiver are in a VA facility?
 
-### Intercept Interviews Hypothesis and Conclusions
+#### Intercept Interviews Hypothesis and Conclusions
 
 In our pilot research plan, we outlined several insights for our intercept interviews in anticipation of many Veterans and caretakers sharing experiences around account creation and online verification. We found that many interviewees created accounts many years ago, failed verification and never tried to use online services again, or they have only engaged with a limited number of VA services in person or over the phone. Below are our original set of hypotheses for Veterans and caregivers. From the limited amount of information we were able to collect in our interviews, we were able to find evidence that related to three of these hypotheses.
 
@@ -481,7 +481,7 @@ The pilot research plan for intercept interviews aimed to collect data related t
 
 We found that many interviewees created accounts many years ago, failed verification and never tried to use online services again, or they have only engaged with a limited number of VA services in person or over the phone.
 
-#### 1. Veterans will report neutral or positive feedback that they would use the in-person identity proofing service
+##### 1. Veterans will report neutral or positive feedback that they would use the in-person identity proofing service
 
 **Mostly False**
 
@@ -497,7 +497,7 @@ We also accounted for Veterans who would not verify at all. P11i shared a previo
 
 >“I started to use the site to order CPAP supplies and hearing aid supplies, but I found it too intrusive. It was asking for one of my social security number, driver's license, and it was too intrusive. So I said, forget that crap…it wasn't useful to me and I could make a phone call and, and not, that wasn't as intrusive…I got the same results. So basically, VA.gov pissed me off and it was a waste of time.” (P11i)
 
-#### 2. Veterans will report neutral or positive feedback that other Veterans would use the in-person identity proofing service. 
+##### 2. Veterans will report neutral or positive feedback that other Veterans would use the in-person identity proofing service. 
 
 **Somewhat True**
 
@@ -508,7 +508,7 @@ Most Veterans only reported on their own experiences, but two (P2i and P10i) sta
 
 >“I think this has got to be difficult for a lot of the guys and, and there needs to be probably more information that if they need to get this and do this…I may not be around, but hopefully it will help the next guy.” (P10i)
 
-#### 3. Caregivers will be able to identify ways to support Veterans throughout the in-person identity proofing service to help them successfully verify. 
+##### 3. Caregivers will be able to identify ways to support Veterans throughout the in-person identity proofing service to help them successfully verify. 
 
 **Somewhat False**
 
