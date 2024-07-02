@@ -127,7 +127,8 @@ Prototype Link:
     
    - [ ]   Any other link (fail)
     
-- What are your thoughts on 
+- If you pay off a debt completely, would you like to see it here for your reference, or would you like to not see it here at all?
+
 
 ## Overpayment Detail page (10 minutes)
 
