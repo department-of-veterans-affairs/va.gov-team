@@ -1,7 +1,9 @@
 # Analytics
 
-[How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
- - This needs to be updated based on the outcome of the meeting with Stephen & Jeff/Leah
+[Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
+[VSignals Feedback](#vsignals-feedback)
+[Medallia Feedback](#medallia-feedback)
+[DataDog Dashboards](#datadog-dashboards)
 
 ## Metrics Dashboards for Reporting Purposes
 - For page views, button clicks, & collapses/expands of collapsible components
@@ -17,6 +19,14 @@
   - [DOMO Medallia Metrics](https://va-gov.domo.com/page/825663825)
     - Can select the Patient Check-in filter and scroll down below the "Feedback Survey" title to get the overall PCI customer satisfaction score
     - Can select each application path individually to get individual customer satisfaction scores
+- [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
+    - This needs to be updated based on the outcome of the meeting with Stephen & Jeff/Leah
+
+## VSignals Feedback
+- [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
+
+## Medallia Feedback
+- [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-medalia-feedback.md)
 
 ## DataDog Dashboards
 - Public (with url)
@@ -35,8 +45,3 @@
      - [Check In (Travel Claims) for Stakeholders](https://vagov.ddog-gov.com/dashboard/eax-4m7-3de/check-in-travel-claims-stakeholder?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1682971494000&to_ts=1714593894000&live=true)
      - [Check In (vets-api)](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?fromUser=true&refresh_mode=sliding&view=spans&from_ts=1683563580000&to_ts=1715185980000&live=true)
        
-## VSignals Feedback
-- [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
-
-## Medallia Feedback
-- [How to Request and Process Medallia Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/research/Medalia/how-to-request-medalia-feedback.md)
