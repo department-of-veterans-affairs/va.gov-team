@@ -165,10 +165,13 @@ We will use these when developing the research plan. Our main goal is to test th
 
 - A Veteran receives a new notification.
 - A Veteran reviews their list of notifications, including:
-  - They have received a new referral for community care.
-  - Staff has canceled their appointment.
-  - Others TBD.
-
+  - An after-visit summary is available.
+  - They can file a travel claim for their appointment.
+  - They filed a travel claim for a previous appointment.
+  - The appointment they requested was scheduled.
+  - Staff canceled their appointment.
+  - A referral is ready to be scheduled.
+ 
 **Hypotheses:**
 
 - Veterans will be able to find their notifications without prompting.
