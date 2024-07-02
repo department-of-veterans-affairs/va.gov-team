@@ -13,6 +13,10 @@ function FindProxyForURL(url, host) {
     return PROXY;
   }
 
+  if (shExpMatch(host,"*.ppms.va.gov")) {
+    return PROXY;
+  }
+
   // Everything else directly!
   return "DIRECT";
 }
