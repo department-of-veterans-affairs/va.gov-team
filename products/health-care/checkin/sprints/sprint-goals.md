@@ -111,7 +111,7 @@
         - Release (Let Lori know when)
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
       - 🟩 [[FE] Update "How we calculate mileage" Content as Approved by CAIA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86481)
-      - 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
+      - ✔️ 🟪 [[PRODUCT] Run Test Cases for Functional & Regression Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86427)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
