@@ -21,11 +21,11 @@ Jump to:
 
 ## Context
 
-In Person Proofing (IPP) is a service that provides an in person method for validating a login.gov account. A Veteran must have a validated account in order to access their benefits on VA.gov (as well as services at other federal and state agencies).
+In-Person Proofing (IPP) is a service that provides an in-person method for validating someone's identity. A Veteran must have a validated account in order to access their benefits on VA.gov, as well as services at other federal and state agencies.
 
-The Secure Sign in Transition team has built a prototype service and application that allows for Veterans to verify their Login.gov account in person at a VA Medical center as an addition to the verification services that currently exist virtually on Login.gov and in person at United States Post Offices.
+The Secure Sign-in Transition team has built a prototype service and application that allows Veterans to verify their identity for Login.gov at VA Medical Centers. This service uses a Veteran-facing application, called "Intake, and a VA Staff member application, called "Proofing", to guide both participants through the steps needed to verify a Veteran's Login.gov account in a way that satisfies [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/) for Identity Assurance Level 2.
 
-This service uses a Veteran-facing application (called "Intake) and a VA Staff member application (called "Proofing") to guide both participants through the steps needed to verify a Veteran's Login.gov account in a way that satisfies [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/) for Identity Assurance Level 2
+Recently, the sign-in transition team conducted usability testing for this prototype at the Baltimore VAMC. This report outlines findings from this study.
 
 ## Research Goals
 
