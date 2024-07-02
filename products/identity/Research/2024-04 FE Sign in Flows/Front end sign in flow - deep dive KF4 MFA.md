@@ -13,7 +13,7 @@ Recent identity research has shown that the MFA methods most veterans choose are
 
 Beyond being a hassle or causing minor frustrations, MFA has the potential to be a blocker. In VA recent research, an earlier concern was fear of misplacing the MFA device<sup>5</sup>. A recent MHV coordinator survey showed that the three most common problems they hear about and help veterans with are login, navigation, and MFA. Of note here is that MFA along with the more generic “login” make up the authentication process, meaning two of the top three issues MHV coordinators see are with veterans authenticating. To put it in numbers, 20 of the coordinators surveyed saw over 20 veterans with authentication issues in the prior month, or something more than 400 veterans. Worse, the coordinators reported that the impact of these issues is often that the veteran is unable to use/access VA.gov<sup>6</sup>. 
 
-Looking specifically at screen reader users, a VA qualitative study found that signing in was the biggest navigation challenge and of the sign in issues MFA was the biggest challenge for this group<sup>7</sup>. This was a study about appointments, however authentication issues were so prevalent that it became a major finding of this study. Several of the screen reader participants took much of the study session trying to sign in and some weren’t able to get signed at all. Several Medallia survey respondents point to not having access to their cell phone or to cell service during the work day, especially in DOD and high security environments<sup>6</sup>. Some folk just don’t have their cell phone with them at all times<sup>8</sup>. 
+Looking specifically at screen reader users, a VA qualitative study found that signing in was the biggest navigation challenge and of the sign in issues MFA was the biggest challenge for this group<sup>7</sup>. This was a study about appointments, however authentication issues were so prevalent that it became a major finding of this study. Several of the screen reader participants took much of the study session trying to sign in and some weren’t able to get signed in at all. Several Medallia survey respondents point to not having access to their cell phone or to cell service during the work day, especially in DOD and high security environments<sup>6</sup>. Some folks just don’t have their cell phone with them at all times<sup>8</sup>. 
 
 > "I work for DoD and find it difficult to log into my account after i verified with my CAC card. How am i suppose to receive a text or call by phone when no phones are aloowed in the building." - Medallia intercept survey, Mar 2024
 
@@ -26,12 +26,12 @@ This all highlights the potential for MFA to block some folks from gaining acces
 MFA and usability can work against each other. Some folks feel that requiring MFA every sign in is excessive. It causes negative feelings and decreases satisfaction with authentication even with folks who understand its purpose<sup>3, 9</sup>. It increases the time for veterans to sign in, and especially so for those who are older, or with certain disabilities, sometimes creating an undue burden on the very folks who sign in to VA.gov most often.
 
 #### **Recommendation 4A.1**
-Alternative MFA methods like a security key may alleviate pain points in some circumstances, understanding that most veterans are most comfortable with a phone call, SMS, or email (which is a method our CSPs don't offer). Backup codes or.
+Alternative MFA methods like backup codes or a security key may alleviate pain points in some circumstances, understanding that most veterans are most comfortable with a phone call, SMS, or email (which is a method our CSPs don't offer).
 #### **Recommendation 4A.2**
-No forcing veterans to do the MFA step for every authentication, like once a week or once a month, when signing in from the same device and IP, could help alleviate the negative feelings from those who find its an annoyance and reduce a hurdle for those who are blocked from signing in due to MFA.
+Not forcing veterans to do the MFA step for every authentication, like once a week or once a month, when signing in from the same device and IP, could help alleviate the negative feelings from those who find it an annoyance and reduce a hurdle for those who are blocked from signing in due to MFA.
 
 ### Section B
-_Note: this deep dive skips section B, because it combines sections A and B from [the main findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20discovery%20research.md)_
+_Note: this deep dive skips section B, because it combines sections A and B from [the main findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows/Front%20end%20sign%20in%20flow%20-%20discovery%20research.md)._
 
 ### Section C
 Some folks complain about getting two MFA codes<sup>3, 4</sup>. Identity team engineers say this is likely due to the ID.me wrapper for the legacy CSPs that forces MFA through ID.me. In addition, when folks initiate MFA separately with DSLogon that would give them a second MFA step to go through.
@@ -39,7 +39,7 @@ Some folks complain about getting two MFA codes<sup>3, 4</sup>. Identity team en
 Some options could be to deprecate and decommission use of DSLogon for VA, or have DSLogon force everyone to MFA and remove the ID.me wrapper. Other workarounds should be explored if these ultimately aren't available options.
  
 ### Section D 
-On VA.gov (note: we didn’t look into the mobile app experience as part of this work) you must press a button for either Login.gov or ID.me, to send the MFA code. The button is at the bottom of the page, and for some screen sizes and at some screen zoom levels it requires a scroll down to see (ie “below the fold”). Folks who realize this, might have a slightly worse experience signing in after waiting a few moments for the MFA code only to realize they missed a step. While we can’t say for certain, it could be the cause of some folks complaining they never received an SMS MFA code<sup>4, 11</sup>.
+On VA.gov (note: we didn’t look into the mobile app experience as part of this work) you must press a button for either Login.gov or ID.me, to send the MFA code. The button is at the bottom of the page, and for some screen sizes and at some screen zoom levels it requires a scroll down to see (ie “below the fold”). Folks who don't realize this, might have a slightly worse experience signing in after waiting a few moments for the MFA code only to realize they missed a step. While we can’t say for certain, it could be the cause of some folks complaining they never received an SMS MFA code<sup>4, 11</sup>.
 
 > "Once I was able to finally get my password entered, the app never texted my phone” - Mobile app review from April 2023
 
@@ -60,7 +60,7 @@ Some health and financial institutions, especially on their app experiences, aut
    - The overall themes of these responses were issues with authentication (including MFA), issues with verification (including ID images), frustrations with complexity (mostly too many CSP options), technical issues (like error messages or complaints of sign in looping).
 4. Mobile App Team - app store reviews, 2023
 5. [2022-10 Login.gov Adoption Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/login.gov-adoption/discovery/research/2022-10-Login.gov-Adoption-Discovery-Research/login.gov%20adoption%20discovery%20research%20findings.md)
-   - finding 5 “perceived ease of use and complex views on security inform Veterans’
+   - finding 5 “Ingrained responsibility for government-issued property undermines the perception that a security key from the VA would an easy and low-stress MFA option.”
 6. MHV coordinator's survey July 2023
 7. [2023-03 Appointment list redesign screenreader research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2023-02-appt-list-usability-screenreader/research-findings.md)
    - finding 5 “Logging in was the biggest navigation challenge for participants”
