@@ -78,7 +78,7 @@ These are the main features we're testing:
 
 ### Finding 1: People use last updated date and status to find items that have a reply or should have a reply soon.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
+_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
 
 Tracking dates is important because people expect delays from VA and, for business submitters, need to ensure compliance.
 
@@ -96,7 +96,7 @@ People primarily focus on 'last updated' date and status to determine if a quest
 
 ### Finding 2: Question and category provide keywords that help people skim and identify particular items.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
+_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
 
 People would prefer to search for items using category labels or keywords.
 
@@ -114,7 +114,7 @@ This is particularly useful when someone is trying to recall a past question. Fo
 
 ### Finding 3: Education business submitters organize their inquiries by student name.
 
-_Labels: `PRDT: AVA`_
+_Labels: `PRDT: AVA`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
 
 Education business users use student names to match Ask VA questions to their paper or digital case folder.
 
@@ -130,7 +130,7 @@ Some business submitters use the reference number to distinguish between and rec
 
 ### Finding 4: It can be confusing deciphering between new and in progress, but reopened and solved are well understood.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
+_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Card`_
 
 Veterans use the claims process to understand Ask VA statuses. This mental model is reference often and helps people know what to expect.
 
@@ -150,7 +150,7 @@ But, 'New' is hard to distinguish from 'In progress.' In some cases, people thin
 
 ### Finding 5: There's an expectation that inquiries marked as solved by VA will not actually feel solved for Veterans.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
+_Labels: `PRDT: AVA`, `AUD: Veterans`, `DSC: Card`_
 
 People understand that 'Solved' means there's a reply from VA.
 
@@ -170,7 +170,7 @@ If responses are not specific and personal, people prefer to use instant, automa
 
 ### Finding 6: It's more intuitive to read and save a conversation that's in chronological order.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
+_Labels: `PRDT: AVA`, `AUD: Veterans`, `AUD: School Certifying Officials (SCO)`, `DSC: Accordions`_
 
 The order of the question details page surprised and frustrated people, who expect to read the VA's reply before they choose whether to reply back.
 
