@@ -86,13 +86,13 @@ However, multiple similar dates can be confusing.
 
 People primarily focus on 'last updated' date and status to determine if a question has been answered or when to expect a reply. 
 
->
+> "Last updated would let me know if you've done anything on it, like, I use the claims portion of the VA website, and that lets me know if they've worked on it."
 
->
+> "I put a date and a time that I submitted it and then they know, I did it, this when I did it. This is the date I did it. If anybody asks, you know."
 
->
+> "We're trying to check the status [to know] how much longer it's gonna be before they work on it [...] and [they're] doing it in a timely manner."
 
->
+> "[Date at the top is] when it was submitted. But a little bit of a question mark [...] because then there's multiple dates shown elsewhere..."
 
 ### Finding 2: Question and category provide keywords that help people skim and identify particular items.
 
@@ -104,29 +104,29 @@ Also, skimming questions written verbatim helps in identifying items.
 
 This is particularly useful when someone is trying to recall a past question. For example, to re-read the response from VA or to check whether they've already asked before they submit a new question.
 
->
+> "If I know what I'm looking for a response [to], I might not remember the date I sent the request. But, I'll know what I asked the question about. So it's easier to find an answer that I'm looking for."
 
->
+> "If I have many questions [...] for some reason there's no filter up in the top to filter for the category. I would be annoyed there's no filter [for category] [...] Last updated, I don't think I would use that to find it."
 
->
+> "There [could] be a way to sort just the healthcare stuff, and I could look through that and see, okay, I was asking about disability here. I was asking about renal failure here. Because you could read your question."
 
->
+> "Let's see, [the question says] time card attached so that [must] be a work study submission."
 
 ### Finding 3: Education business submitters organize their inquiries by student name.
 
-_Labels: `AUD: Veterans`, `PRDT: AVA`_
+_Labels: `PRDT: AVA`_
 
 Education business users use student names to match Ask VA questions to their paper or digital case folder.
 
 Some business submitters use the reference number to distinguish between and recall items. Most people, however, don't use the reference number much. It may only become useful if they need to call VA to follow up.
 
->
+> "For submitting a time sheet [...] last name. I might include the word  timesheet or time card. I might put the month and date on there for my own purposes. So I know when I'm submitting it."
 
->
+> "It feels like pointing out the obvious, but yes, I would need to know who I was asking about [to match a question to a case folder]."
 
->
+> "I feel like [the reference number is] just a tracking mechanism. I don't [use the reference number]."
 
->
+> "We'll do a screenshot of that 'A number' and then we put it with that file so we know what the number is in association to what file we're submitting. Whether I've the SCO hat on or work study."
 
 ### Finding 4: It can be confusing deciphering between new and in progress, but reopened and solved are well understood.
 
@@ -140,13 +140,13 @@ But, 'New' is hard to distinguish from 'In progress.' In some cases, people thin
 
 'Reopened' is well understood and it gives people peace of mind knowing their question can be opened again.
 
->
+> "So you probably have like 5 or 6 of those [statuses]. So, new, solved, under review, or something like that. Ways for a person to kind of know, where's that in the queue."
 
->
+> "In progress, they've read it, and they're working on a response."
 
->
+> "I don't know if 'New' means, if that's a new question that I created, or if that means I've got a new reply from back from the VA."
 
->
+> "I'm just curious about 'New' versus 'In Progress'. So if it's a new request that I send in, it should be 'In Progress', or it should be 'Solved.' I don't know why there's a 'New' status."
 
 ### Finding 5: There's an expectation that inquiries marked as solved by VA will not actually feel solved for Veterans.
 
@@ -160,13 +160,13 @@ Fittingly, VA's reply was often misunderstood, 'too long' or 'obviously copy and
 
 If responses are not specific and personal, people prefer to use instant, automated tools. This includes business submitters, who turn to Ask VA for more complex questions, expecting more specific answers.
 
->
+> "I'm assuming the 'Solved' [means] your issue was resolved, or whatever question you had was answered."
 
->
+> "[It's typical] VA, like, no, you don't qualify for that, and that's the end of it. They say it's solved and, well, I still have my issue. What else? What other things are available? What other resources are available to me?"
 
->
+> "It's telling you what alphabet suit group is responding. That this is for family members of service members. Veterans kind of blah blah blah. Okay. So in other words, no, you don't get nothing."
 
->
+> "The status that says 'Solved.' Does that mean that they've provided me an answer to the question I asked or that whatever I'm mailing to them has been solved?"
 
 ### Finding 6: It's more intuitive to read and save a conversation that's in chronological order.
 
@@ -180,13 +180,13 @@ Also, business submitters need to print the conversation for their files. They c
 
 Many people aren't sure how to print without a print button.
 
->
+> "You could have either the email format where [I'd] see the answer 1st or  [my] entire question with the details [...] could be [over] to the side [so] I can see them both at the same [time]."
 
->
+> "Oh, I had to scroll down to the bottom. Hmm, wait, what? So there's a section where I could actually reply again to it [in] the middle before I get down to see what the VA sent."
 
->
+> "I print out the response because we have to have documentation to show the reason why we're doing what we did or the reason why."
 
->
+> "I'm assuming I could click it and let's see... I'd probably snip it if I couldn't [print] because I don't see it. I don't know that I see an easy... a way to print it. Does that... unless I hit expand all I don't know if that helps or not? So, I probably have to go in and snip it and make it snippet and put it into a Word document."
 
 ## Additional insights
 
@@ -215,7 +215,14 @@ Many people aren't sure how to print without a print button.
 
 ## Next steps
 
-- 
+- Update hierarchy of information on dashboard cards – [#ticket]()
+- Add category sort menu to dashboard – [#ticket]()
+- Discuss changes to statuses with CRM team – [#ticket]()
+- Coordinate with CRM team to share feedback on VA responses – [#ticket]()
+- Update hierarchy of information on details page – [#ticket]()
+- Add print button to details page – [#ticket]()
+- Update content on reply confirmation page – [#ticket]()
+- Add turnaround time to subtitle on homepages – [#ticket]()
 
 ## Further research needed
 
@@ -324,4 +331,4 @@ We have completed the [VA Recruitment Checker for marginalized Veteran groups](h
 
 We only had 1 no show so we exceeded our target of 6 participants. We aimed to fill gaps in our previous studies. So, we specifically called out Asian or Hispanic demographics when we recruited, because we haven't been able to recruit participants from these demographics in our last two studies. Still, we did not recruit any Asian participants. Also, this study did not recruit for other than honorable, immigrant origin, expat or AT users.
 
-![VA-recruitment-checker](image)
+![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/07-2024-Research-equality-checker.png)
