@@ -20,5 +20,5 @@ We do not enforce access restrictions for attachments. Any authenticated user ca
   * Could be vulnerable to leaking PII/PHI.
   * "Simple" solution is to ensure the current ICN (user ID) is authorized to access the document (by its GUID).
 
-> **ACTION:** Get with Key/Shelby/Carl to gauge severity, priority, and level of effort. Is a fix needed, or does MSFT handle it automagically?
+> **ACTION:** Get with Key/Shelby/Carl to gauge severity, priority, and level of effort. Is a fix needed?
 
