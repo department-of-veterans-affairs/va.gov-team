@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>Upcoming Apointment Details Page - Video at homne </summary>
+<summary>Upcoming Apointment Details Page - Video at home </summary>
 </details>
 
 <details>
@@ -77,13 +77,13 @@
 </details>
 
 <details>
-<summary>Past Apointment Details Page - Video at homne </summary>
+<summary>Past Appointment Details Page - Video at home </summary>
 </details>
 
 <details>
-<summary>Past Apointment Details Page - GFE </summary>
+<summary>Past Appointment Details Page - GFE </summary>
 </details>
 
 <details>
-<summary>Past Apointment Details Page - At ATLAS location </summary>
+<summary>Past Appointment Details Page - At ATLAS location </summary>
 </details>
