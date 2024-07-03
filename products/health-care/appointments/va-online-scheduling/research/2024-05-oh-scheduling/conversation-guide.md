@@ -125,8 +125,7 @@ Prompt: Now you would like to go back to see a list of your appointments how wou
 - Sorting their facilities by Recent locations, what are their thoughts and reactions?
 - Choose a provider page thoughts and comments 
 - Patient Indicated Date page improvements thoughts?
-
-- _Can participant understand the information on the details page?_
+- Can participant understand the information on the details page? Do they mentions anything about the Building numner or Clinic name?
 
 ## 2: Type of Care - Physical Therapy
 Path they will take: Start scheduling> Physical Therapy> PID 6/16>7/26 2 pm>chest pain>I do not need care now> (finish scheduling)
