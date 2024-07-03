@@ -119,10 +119,10 @@ _Primary criteria (must-haves)_
 * Minimum 2 must identify as Nonbinary or gender fluid
 * Minimum 6 live in rural areas
 * Minimum 10 must live in urban areas
-* Minimum 7 have no degree
-* Minimum 7 have a terminal HS degree
+* Minimum 6 have no degree
+* Minimum 5 have a terminal HS degree
 * Minimum 3 have a terminal AS degree
-* Minimum 7 have a terminal BS degree
+* Minimum 5 have a terminal BS degree
 * Minimum 3 have a terminal MS degree
 
 _Secondary criteria (nice-to-haves)_
