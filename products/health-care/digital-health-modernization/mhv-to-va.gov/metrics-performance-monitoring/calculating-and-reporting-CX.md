@@ -40,7 +40,8 @@ As more products become accessible to Veterans on VA.gov and as usage increases,
 Step 1: Request exports of Medallia feedback on a regular cadence. Follow instructions on the [Qualitative Data Request form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+ianMcCullough-ob&labels=VSP-contact-center%2Ccc-data-request&template=qualitative-data-request.yml&title=Qualitative+Data+Request).
 
 Step 2: Every 1-2 weeks, to to the [MHV on VA.gov Medallia Feedback](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B8c161ac9-bb42-401d-9b5d-913941f1eca9%7D&action=editnew&wdsle=0) Excel file. Copy and paste data into the Excel file. 
-- Data will need to be adjusted to adhere to the additional columns. Should be self explanatory but contact Robyn Singleton if you run into trouble. 
+- Data will need to be adjusted to adhere to the additional columns. Should be self explanatory but contact Robyn Singleton if you run into trouble.
+- Please remove PII/PHI. 
 
 Step 3: Use the existing tags or create additional tags in columns G and N to categorize qualitative feedback contributed to either the intercept survey or the feedback button survey. 
 
