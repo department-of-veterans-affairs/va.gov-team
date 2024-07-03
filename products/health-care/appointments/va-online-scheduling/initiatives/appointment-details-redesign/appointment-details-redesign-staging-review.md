@@ -34,15 +34,19 @@
 </details>
 
 <details>
+<summary>Upcoming Appointment Details Page - Video (30 minutes prior to the appointment) </summary>
+</details>
+
+<details>
 <summary>Upcoming Canceled Appointment Details Page - Video at home </summary>
 </details>
 
 <details>
-<summary>Upcoming Apointment Details Page - GFE </summary>
+<summary>Upcoming Apointment Details Page - Claims </summary>
 </details>
 
 <details>
-<summary>Upcoming Canceled Appointment Details Page - GFE </summary>
+<summary>Upcoming Canceled Appointment Details Page - Claims </summary>
 </details>
 
 <details>
@@ -91,4 +95,16 @@
 
 <details>
 <summary>Past Appointment Details Page - At ATLAS location </summary>
+</details>
+
+<details>
+<summary> Appointment Details Page - Type of care is not available </summary>
+</details>
+
+<details>
+<summary> Appointment Details Page - Facility location is not available </summary>
+</details>
+
+<details>
+<summary> Appointment Details Page - Provider information is not available </summary>
 </details>
