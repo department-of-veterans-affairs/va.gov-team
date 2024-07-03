@@ -124,7 +124,7 @@ _Labels: `AUD: Veterans`, `PRDT: AVA`, `DSC: Progress bars`_
 
 Excluding a progress indicator ensures people won't be frustrated or distracted by it.
 
-However, without it, people are unsure of when they're finished submitting their question. Particularly, when the order of questions doesn't feel intuitive.
+However, without it, people are unsure of when they're finished submitting their question. Particularly, if the number of questions feels surprising.
 
 Those who were initially deterred by the progress indicator found it motivating as they progressed in the form. The orange seemed to help it stand out. And it became less noticeable as people went along.
 
