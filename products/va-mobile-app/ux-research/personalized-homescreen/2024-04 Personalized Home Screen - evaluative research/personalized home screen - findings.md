@@ -85,8 +85,6 @@ Fulfills issue [#2160](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc7
 
 #### Secondary:
 
-
-
 * Pilot conducting remote, evaluative research using a live, pre-release build of the app on participants’ mobile devices (including with screenreader users), and improve the instructions and process for that in preparation for future usability studies.
 
 **Outside the scope of this study:** We will not be evaluating the personalized home screen’s impact on task completion (that will be handled using analytics), the impact on the value of the app to users over time, the usability of features that are surfaced on the home screen, or the personalized home screen’s impact on Veteran satisfaction with the amount (time & tasks) they are completing in the VA mobile app.
@@ -96,15 +94,6 @@ Fulfills issue [#2160](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc7
 
 This research will help us understand if/how the personalized app home screen design impacts the project’s [qualitative product success metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/product/Personalized_homescreen-Product-Brief-2023.md#metrics) as well as identify opportunities to improve the usability and design of the personalized home screen in future iterations.
 
-
-#### Success measures:
-
-
-
-1. Veteran comprehension of what the app can do
-    1. in general and
-    2. for them in their current circumstances.
-2. Veterans’ perceived current and future value of the app.
 
 ### Research Questions
 
@@ -145,33 +134,37 @@ Because of the potential variability of the modules within the Activity section,
 
 
 1. Upon seeing the personalized VA mobile app home screen, participants will demonstrate that they understand what the VA mobile app can do (help users keep up with and manage interactions across VA).
+
     **True.** Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what the mobile app can do. When asked, they described the app using similar terms that participants have used to describe it in previous studies: ”All of the stuff that is important... in one place," "Streamlined & simple," and "Quick & convenient access.” One participant described the app as “an assistant” that would give her “highlights of what's coming up”.
 
 2. Participants will be able to imagine and describe how the app will help them with the tasks they currently use in the app and in their life.
-**True.** When prompted, all participants were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
+
+    **True.** When prompted, all participants were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
 
 3. Participants will understand that the personalized home screen modules contain high-level data from their in-flight tasks, and may describe it as being helpful in keeping up with their tasks.
-**True.** All participants recognized that the Activity modules on the home screen displayed their personalized information. All participants seemed to understand that the description text on each module described something that was “in-flight,” however, not all participants described the presence of the Activity module _itself_ as indicating that something was an “in-flight task”:
+
+    **True.** All participants recognized that the Activity modules on the home screen displayed their personalized information. All participants seemed to understand that the description text on each module described something that was “in-flight,” however, not all participants described the presence of the Activity module _itself_ as indicating that something was an “in-flight task”:
    *  8/13 participants described those modules as “active/pending items” that would provide a "shortcut" to the feature (and/or described the category screen entry point as "the long way”), and expected them to disappear if not active. 
    *  5/13 participants described the modules in the activity section as “Most used items/top stuff,” and expected them to be persistent on the home screen (with changes to the description text to indicate if they were not active).
 
    Regardless of mental model, participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful to help them keep up with their tasks. Some participants had suggestions about what the module description text could say instead of/in addition to the information displayed for Appointments and Claims, but felt the description text for Prescriptions and Secure Messages was useful as-is. 
 
 4. Participants will choose to use the personalized home screen modules as a way to quickly answer questions/access in-flight tasks.
-**True:** Nearly all participants expected and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). However, in the case of one task (prescriptions), most participants’ expectations of the module destination based on the description text was different from what they experienced using the build.
+
+    **True:** Nearly all participants expected and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). However, in the case of one task (prescriptions), most participants’ expectations of the module destination based on the description text was different from what they experienced using the build.
 
 5. Screenreader users and non-screenreader users will experience the same level of usability, and use of assistive technology will not cause a difference in participant perceptions of app capabilities or value.
-**Not enough information.** No participants used a screenreader for the session, so we were not able to determine whether there is difference in perceptions of app capabilities or value between participants who are and are not screenreader users.
+
+    **Not enough information.** No participants used a screenreader for the session, so we were not able to determine whether there is difference in perceptions of app capabilities or value between participants who are and are not screenreader users.
+
 6. Participants may experience some lag when the personalized home screen is loading data, but any lag will not affect their perception of the app’s capabilities or value. We believe that some users may choose an alternate way for accessing tasks if the lag is perceived to be too great.
-**Partially true:** Half of participants experienced load times of over 8 seconds when loading the home screen modules, sometimes even when returning to the homescreen additional times from locations deeper within the app. All participants were connected using 3-4 bars of wifi. Of the participants who experienced the long load time, half of them commented on the long load time, but eventually still said that they felt the app would be useful to them in their life.
+
+    **Partially true:** Half of participants experienced load times of over 8 seconds when loading the home screen modules, sometimes even when returning to the homescreen additional times from locations deeper within the app. All participants were connected using 3-4 bars of wifi. Of the participants who experienced the long load time, half of them commented on the long load time, but eventually still said that they felt the app would be useful to them in their life.
 
     All participants who experienced long load times waited for the screen to finish loading instead of choosing an alternate way for accessing tasks (however, this may be because of task instructions asking the user to return to the home screen and may not be a reflection of what will occur organically).
 
 
 ## Key Findings
-
-
-
 1. Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what they could use the app to do and were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to help them.
 
 2. All participants recognized that the Activity modules on the home screen displayed their personalized information and seemed to understand that the description text on each module indicated that something that was “in-flight,” however, not all participants described the presence of the Activity module itself as indicating that something was an “in-flight task.”
