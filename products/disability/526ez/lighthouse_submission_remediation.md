@@ -4,9 +4,14 @@ This document is to detail the steps to remediate lighthouse submissions where t
 
 To determine which submissions failed in this way, a sidekiq job called PollForm526Pdf was created to query a certain set of LH submissions to check for their corresponding PDFs. If a submission's PDF was NOT found, then the corresponding Form526JobStatus record for the submission will have the `status` of 'pdf_not_found'.
 
-One script (development pending) will run this sidekiq job for a subset of recent LH submissions, and after at least 48 hours it will mark any job with the 'pdf_not_found' status. After that 48 hours, a different script (development pending) will simply query the Form526JobStatus table for that status (with the same date/time parameters).
+## Scripts
 
-Once we have a list of submissions from this script, we can employ the steps below
+The following scripts can be used to initiate the polling job, and report on their results:
+
+- [initiate_polling_job](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/batch_remediation/lighthouse_submission/initiate_polling_job.rb) will run the PollForm526Pdf sidekiq job for a subset of recent LH submissions (between the specified `start_end` and `end_date`). Any job that runs for more than 48 hours will be marked with the 'pdf_not_found' status. 
+- [find_pdf_failures](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/batch_remediation/lighthouse_submission/find_pdf_failures.rb) will query the Form526JobStatus table for the 'pdf_not_found' status (again, between the specified `start_end` and `end_date` parameters) and output a list of the submission ids in question.
+
+Once we have a list of submissions from this script, we can employ the steps below:
 
 ## Steps
 
