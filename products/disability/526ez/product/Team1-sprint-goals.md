@@ -5,10 +5,10 @@ Period - 07/03/2024 - 07/16/2024
 * **Toxic Exposure**
   * Fix validation errors and perform end to end testing for release 1.0, automate polling job for 526 PDF
 * **Paper Form Sync**
-  * Begin implementation Claim Certification behind FF
+  * Begin implementation Claim Certification behind FF - stretch goal
 * **Submission Experience**
   * Run user research study for Timely and Truthful Submission
-  * Design Discovery: Claim Record and Tracking (“Veterans need a record of their claim and a way to track it”)
+  * Design Discovery: Claim Record and Tracking (“Veterans need a record of their claim and a way to track it”) - stretch goal
 
 
 ## Sprint 34
