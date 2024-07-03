@@ -183,8 +183,8 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 
 
-* Pilot participant email:
-* Date and time of pilot session:
+* Pilot participant email: Keith Adkins 
+* Date and time of pilot session: 7/2/24 2:30pm CST COMPLETE
 
 
 ### **Research sessions**
