@@ -68,9 +68,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Solution Approach
 
 - *What are you going to build now, and why have you decided to start there?*
+- Discover, analyze, and evaluate SOB for functionality.
+- Reolve login, calculation, and data issues.
+- Dsicover, analyze, and evaluate SOB data and system integrations.
+- We're starting here because OIT contracted us to do this work 
 - *Why this solution / approach over other solutions / approaches?*
+- This approach is best because it will allow us to restore functionality to Statement of Benefits for users and make the website 508 compliant. 
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- Right now we're focusing on restoring funcitonality and effectiveness to SOB. We've opted out of other, asthetic changes to the website and extra features to get a working version out to users as soon as possible. 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- We will make changes based on user testing and CAIA feedback until SOB relaunches. 
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
@@ -81,12 +88,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
+- Statement of Benefits is a well known tool. Users will recieve communications through the VA about its updates. GovCIO EDM team will work with other VA communications teams throughout the process to ensure users have all necessary information regarding SOB changes. 
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- We do not have a release plan yet. GovCIO EDM team will begin writing a Release Plan late 2024 or early 2025. 
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - March 2025
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -105,6 +114,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Screenshots
 
 ### Before
+Statement of Benefits is under maintence until July 9, 2024 at a minimum so we do not have any before photos aside from the login page. 
+![Picture1](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/02fcf6cc-f180-4c59-87b1-fd9fe1af27ad)
+![Picture2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/143453442/35694b6b-1efe-48f3-a399-f86a146d6cf1)
 
 
 ### After
@@ -120,11 +132,10 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Slack channel: edm-team
 - Product POCs: Cassidy Beach (Cassidy.Beach@VA.gov), Theresa Simeone (Theresa.Simeone@VA.gov) 
 - Stakeholders:
-  | Sector | Stakeholder Name   | Stakeholder Contact      |
-  | OIT    | Darla van Nieukerk | Darla.vanNieukerk@VA.gov |
-  | Statement of Benefits | Tammy Turley | Tammy.Hurley1@VA.gov |
-  | WEAMS Public | Robert Holbrook | Robert.Holbrook@VA.gov |
-  | Yellow Ribbon Tool | Brian Grubb | Brian.Grubb@VA.gov | 
+  OIT: Darla van Nieukerk (Darla.vanNieukerk@VA.gov)
+  Statement of Benefits: Tammy Turley (Tammy.Hurley1@VA.gov)
+  WEAMS Public: Robert Holbrook (Robert.Holbrook@VA.gov)
+  Yellow Ribbon Tool: Brian Grubb (Brian.Grubb@VA.gov) 
 
 </details>
 
