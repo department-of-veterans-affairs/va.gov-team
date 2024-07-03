@@ -1,20 +1,6 @@
-### Suggested Placement of Guidance
+# VADS Guidance
 
-**In VADS**
-
-Redirect guidance will live in a new page under URLs in the Components tab. 
-
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXd7gMM4ELSYTEPJESeclduAEcoN6nwHAm58CGCwZBvdk1vmJzqsGVZqbRsdjNBHokBlNP_3rY7LEaD2owdQMEguYDRDunLlpQfoibhf__pOW9h1wn4xDIgzGhj-oB5AmxjjrdoUga8tr69OBoSE1uH4iLM?key=XZVDVOl81jLcswzkUTa7Jw)
-
-### VADS Guidance
-
-#### H1: Redirects
-
-Description: This page contains links to documents that will help you better understand how redirects work at the VA. 
-
-##### H2: Redirects on VA.gov
-
-###### H3: What is a redirect?
+## H1: Redirects
 
 A URL redirect forwards both visitors and search engines to a different URL than the one requested. Teams should implement a redirect or request a redirect whenever they change a URL or remove a page. 
 
@@ -25,9 +11,11 @@ A URL redirect forwards both visitors and search engines to a different URL than
 
 Teams must formally request a redirect before implementation so they can be vetted for accuracy and appropriateness, and implemented with full validation across environments. That request also kicks off work to update all internal links and identifies existing redirects that may need to be updated.
 
-###### H3: When do I need a redirect?
+### H2: Usage
 
-If you're making a change that impacts a URL on VA.gov, you must request a redirect.
+#### H3: When to use a redirect
+
+If you're making a change that impacts the availability of a page at a specific URL on VA.gov, you must redirect the old URL to a new URL to ensure visitors do not receive a 404 (page not found) error.
 
 Examples of these changes are:
 
@@ -41,44 +29,30 @@ Examples of these changes are:
 
 -   Making any of the above changes to a parent page will result in similar changes for all its child pages
 
-##### H2:  Redirect standards and guidance
+#### H2:  Redirect standards and guidance
 
-###### H3: Implement redirects at the time the URL changes 
+- **Implement redirects at the time the URL changes.** Plan to implement the redirect to coincide when the URL of the original page changes so visitors do not encounter a page not found (404) error. The redirect should be implemented no later than 24 hours from when the new URL goes live.
 
-Plan to implement the redirect to coincide when the URL of the original page changes so visitors do not encounter a page not found (404) error. The redirect should be implemented no later than 24 hours from when the new URL goes live.
+- **Redirect to a page that closely matches the context of the original.** Identify the primary focus of the original page and choose a redirect destination page that contains similar content, purpose, and level of detail as the original. The destination page should help the Veteran achieve their original goal, or provide information for an alternative solution. In some cases, we may need to add content to the destination page. Avoid redirecting pages to the VA.gov home page. The visitor is trying to find specific information, and redirecting them to the home page can be confusing, unhelpful, and interpreted as an error. 
 
-###### H3: Redirect to a closely matching page
+- **Avoid redirect chains.** A redirect chain happens when a visitor or search engine attempts to access a page and more than 1 consecutive redirects are required to get to a final destination: page A redirects to page B which redirects to page C. Before redirecting a page, determine if other pages are redirecting to it. If so, those redirects need to be updated as well. 
 
-Identify the primary focus of the original page and choose a redirect destination page that contains similar content, purpose, and level of detail as the original. The destination page should help the Veteran achieve their original goal, or provide information for an alternative solution. In some cases, we may need to add content to the destination page. 
+- **Do not create redirect loops.** A redirect loop happens when a page is redirected to another page which is redirected back to the original page. This can also involve a redirect chain that results in a loop. Always verify the planned landing page to make sure that it is actually live and available.
 
-Avoid redirecting pages to the VA.gov home page. The visitor is trying to find specific information, and redirecting them to the home page can be confusing, unhelpful, and interpreted as an error. 
+- **Identify and properly handle all child pages of the redirected page.** When redirecting a page, determine how to handle any child pages that exist. If child pages should remain available, they will likely need to be re-parented and have their own URLs changed.  Child pages can then be all redirected to the same destination as the parent, or each child page can be individually redirected to different destinations.
 
-###### H3: Avoid redirect chains
+- **Account for casing variations in the original URL.** Older VA.gov pages are often available at any casing variation of their URL (excluding the top-level domain). When redirecting these pages, implement the redirect so all casing variations are also redirected properly. 
 
-A redirect chain happens when a visitor or search engine attempts to access a page and more than 1 consecutive redirects are required to get to a final destination: page A redirects to page B which redirects to page C. Before redirecting a page, determine if other pages are redirecting to it. If so, those redirects need to be updated as well. 
+- **Update referring links within VA.gov.** All links within VA.gov should be updated (when possible) to reflect the new destination, or be removed/archived (in the case of retiring content). This ensures that all referring links are accurate, and sending visitors directly to the correct page (not relying on a redirect alone).
 
-###### H3: Do not create redirect loops
+- **Always link to the canonical URL of a multi-page tool, flow, or form.** Refer to guidance for the [Link component](https://design.va.gov/components/link/) for more information.
 
-A redirect loop happens when a page is redirected to another page which is redirected back to the original page. This can also involve a redirect chain that results in a loop. Always verify the planned landing page to make sure that it is actually live and available.
 
-###### H3: Identify and properly handle all child pages
+### H2: Redirect requests and implementation process
 
-When redirecting a page, determine if all of its child pages should also be redirected. If child pages should remain, they will likely need to be re-parented and have their own URLs changed.  You can redirect everything under a page to the same destination as the parent, or redirect each child page individually to different destinations.
+If you need to implement a redirect, a request must first be submitted to VA.gov Information Architecture.  This request will ensure the redirect is valid and accurate, and will kick-off processes to ensure all internal links are appropriately updated. 
 
-###### H3: Account for casing variations
+[Submit a Redirect or URL change issue on GitHub > ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose)
 
-TeamSite pages reside on a server that is not case sensitive, allowing any casing variation of a URL to render the page.  When redirecting these pages, implement the redirect to capture all casing variations. 
-
-###### H3: Update referring links within VA.gov 
-
-All links within VA.gov should be updated (when possible) to reflect the new destination, or be removed/archived (in the case of retiring content). This ensures that all referring links are accurate, and sending visitors directly to the correct page (not relying on a redirect alone).
-
-###### H3: Always link to the canonical URL of a multi-page tool, flow, or form
-
-See the guidance on [Links google doc](https://docs.google.com/document/d/1bxlBpjH1B6Dez4SFnZOXZ-5XIyVbYaRtaZsaTPLABqU/edit) for more information.
-
-Note: If your document is updated frequently, do not include a date in the document name.
-
-##### H2:  How do redirects get implemented?
-
-See [redirect implementation guidance google doc](https://docs.google.com/document/d/1wRcgJn7p4Cuz4cFr-WF3JlvttK5CAbenZkJM4EqBLIs/edit#heading=h.qtbdntqklrnb) on the VA Platform Site for more information. 
+More information on implementing redirects is available on the [VA Platform documentation site](https://depo-platform-documentation.scrollhelp.site/developer-docs/).
+(Need links to documentation pages)
