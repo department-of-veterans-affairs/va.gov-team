@@ -207,17 +207,17 @@ Limiting the testing device type to iOS (iPhones and iPads) made for a more seam
 
 1. What do participants **believe that the VA mobile app _can do—in general—_** based on the contents of the personalized home screen?
 When asked to describe what the VA mobile app does for Veterans—based on first impressions of the contents of the new personalized home screen—participants described the app as:
-  * **All of the stuff that is important... in one place (6 participants):**
-    >  "...a hub of important information that you need on a regular basis." P1
-    >  "This is a one stop shop!" P16
-  * **Streamlined & simple access (4 participants):**
-    >  "[The app] gives a more streamlined ability for the Veteran to check anything—you know, whether they need to print something out real quick, or review something, or check the status or cancel it." P4
-  * **Quick & convenient access (3 participants):**
-    >  "Quick access, it can give insight into what's happening." P2
-  * **An assistant (1 participant):**
-    >  "Like a personal assistant, it's like giving you highlights of what's coming up. which is very helpful. and you don't have to navigate so much..." P10
+    * **All of the stuff that is important... in one place (6 participants):**
+      >  "...a hub of important information that you need on a regular basis." P1
+      >  "This is a one stop shop!" P16
+    * **Streamlined & simple access (4 participants):**
+      >  "[The app] gives a more streamlined ability for the Veteran to check anything—you know, whether they need to print something out real quick, or review something, or check the status or cancel it." P4
+    * **Quick & convenient access (3 participants):**
+      >  "Quick access, it can give insight into what's happening." P2
+    * **An assistant (1 participant):**
+      >  "Like a personal assistant, it's like giving you highlights of what's coming up. which is very helpful. and you don't have to navigate so much..." P10
 
-    The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
+      The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
 
 2. Do participants **find value in the VA mobile app** based on the contents of the personalized home screen? What do participants **believe that the VA mobile app _can do for them in their current circumstances_ based on the contents of the personalized home screen?** 
 
