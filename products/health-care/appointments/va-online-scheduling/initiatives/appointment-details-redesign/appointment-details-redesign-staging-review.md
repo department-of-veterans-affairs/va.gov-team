@@ -1,51 +1,51 @@
 ### Staging [Review Ticket #]()
 
 <details>
-<summary>Upcominng Appointment Details Page - At VA location </summary>
+<summary>Upcoming Appointment Details Page - At VA location </summary>
 </details>
 
 <details>
-<summary>Upcominng Canceled Appointment Details Page - At VA location </summary>
+<summary>Upcoming Canceled Appointment Details Page - At VA location </summary>
 </details>
 
 <details>
-<summary>Upcominng Community Care Appointment Details Page </summary>
+<summary>Upcoming Community Care Appointment Details Page </summary>
 </details>
 
 <details>
-<summary>Upcominng Canceled Community Care Appointment Details Page </summary>
+<summary>Upcoming Canceled Community Care Appointment Details Page </summary>
 </details>
 
 <details>
-<summary>Upcominng Appointment Details Page - Phone appointment </summary>
+<summary>Upcoming Appointment Details Page - Phone appointment </summary>
 </details>
 
 <details>
-<summary>Upcominng Canceled Appointment Details Page - Phone appointment </summary>
+<summary>Upcoming Canceled Appointment Details Page - Phone appointment </summary>
 </details>
 
 <details>
-<summary>Upcominng Apointment Details Page - Video at homne </summary>
+<summary>Upcoming Apointment Details Page - Video at homne </summary>
 </details>
 
 <details>
-<summary>Upcominng Canceled Appointment Details Page - Video at home </summary>
+<summary>Upcoming Canceled Appointment Details Page - Video at home </summary>
 </details>
 
 <details>
-<summary>Upcominng Apointment Details Page - GFE </summary>
+<summary>Upcoming Apointment Details Page - GFE </summary>
 </details>
 
 <details>
-<summary>Upcominng Canceled Appointment Details Page - GFE </summary>
+<summary>Upcoming Canceled Appointment Details Page - GFE </summary>
 </details>
 
 <details>
-<summary>Upcominng Apointment Details Page - At ATLAS location </summary>
+<summary>Upcoming Appointment Details Page - At ATLAS location </summary>
 </details>
 
 <details>
-<summary>Upcominng Canceled Appointment Details Page - AT ATLAS location </summary>
+<summary>Upcoming Canceled Appointment Details Page - AT ATLAS location </summary>
 </details>
 
 <details>
