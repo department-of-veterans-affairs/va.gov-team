@@ -353,7 +353,7 @@ Only 1 participant experienced seeing this module and said it was "just the righ
 
      **Value of module & data:**  
 
-  7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
+     7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
 
    * 5 participants found it useful to see disability rating and monthly compensation on the home screen
      > "If I fill out paperwork, I need the proof of Veteran status or my rating and how much my compensation is." P1
@@ -362,12 +362,12 @@ Only 1 participant experienced seeing this module and said it was "just the righ
 
 4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to begin some tasks** using the mobile app home screen?   
 
-**Yes.** Nearly all participants expected to tap and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). In the case of one task (prescriptions), most participants’ expectations of the module destination was different from what they experienced when using the app. 
+     **Yes.** Nearly all participants expected to tap and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). In the case of one task (prescriptions), most participants’ expectations of the module destination was different from what they experienced when using the app. 
  
-  **Activity section usability:** 
+     **Activity section usability:** 
   12/13 participants expected to and then successfully used the home screen as the entry point for beginning their claims and health tasks. One participant initially used the category screen entry point for their first task but then used the home screen for the subsequent task. 
 
-  A deeper dive on the usability of each task:
+     A deeper dive on the usability of each task:
   * **Secure message** (1 participant):
 Task prompt: Find out if you have received a message from your doctor.
     * Only 1 participant had an active secure message, but they expected to tap the home screen entry point & see their messages list (and successfully used this method to begin the task).
@@ -396,10 +396,10 @@ Task prompt: Find out if you have received a message from your doctor.
     *   1 participant reached the claims list via the category screen. After being asked to consider the homescreen entry point later, they were pleasantly surprised and used Activity section modules for subsequent tasks: "It got me there a lot faster." P1
     *   Several participants also noticed the benefits tab and identified it as another way to reach claims, describing it as "the long way" (P2).
 
-  **About you section usability:**
+     **About you section usability:**
 
-  * All 8 participants who saw the Proof of Veteran Status link understood that they would tap it to show proof they were a Veteran.
-  * 2/13 participants expected to tap on the disability rating and monthly payment amount to view more details.
+     * All 8 participants who saw the Proof of Veteran Status link understood that they would tap it to show proof they were a Veteran.
+     * 2/13 participants expected to tap on the disability rating and monthly payment amount to view more details.
 
 
 5. **Is there a difference between screenreader users and non-screenreader users** in terms of perception of app capabilities, perception of value, and the usability of the personalized home screen?
