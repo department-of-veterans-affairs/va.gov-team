@@ -138,7 +138,7 @@ Approvals & to do's for launch:
 - [ ] Monitoring configured by DBEX teams
 - [ ] vets-api Deployed, Toggled Off
 - [ ] vets-website Deployed
-- [ ] Benchmark data for Veteran claim selection and monitoring during the release      
+- [X] Benchmark data for Veteran claim selection and monitoring during the release      
 - [X] [Troubleshooting SOP documented](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md)     
 
 ### Release assumptions before kickoff:
@@ -271,9 +271,9 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [X] Handle multiple exposure locations 15D.
  - [X] Discovery on async document status upload for form 526 after claim is established.
  - [X] Consolidate Submit and Toxic Exposure feature flags.     
- - [ ] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
+ - [X] End to end test from 526ez to VBMS with the 2022 PDF, regression testing column 2 filled and 15A checked, 15B and 15E are populated, adding 15C and 15D are populated.
  - [X] Handling of 2 forms - new feature flag for IPF claims
- - [ ] UI/UX updates for IPF claims
+ - [X] UI/UX updates for IPF claims
  
 
 #### Milestone: Migrate /submit endpoint and /generatePDF endpoint
