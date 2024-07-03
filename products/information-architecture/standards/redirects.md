@@ -29,7 +29,7 @@ Examples of these changes are:
 
 -   Making any of the above changes to a parent page will result in similar changes for all its child pages
 
-#### H2:  Redirect standards and guidance
+#### H#:  Redirect standards and guidance
 
 - **Implement redirects at the time the URL changes.** Plan to implement the redirect to coincide when the URL of the original page changes so visitors do not encounter a page not found (404) error. The redirect should be implemented no later than 24 hours from when the new URL goes live.
 
