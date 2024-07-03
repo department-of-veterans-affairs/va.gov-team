@@ -118,12 +118,12 @@ We conducted moderated, remote, think-aloud user interviews with usability testi
 * 7 participants also reported being users of MyVA
 * While our research plan called for recruiting both non-screenreader users as well as users who were screenreader experts, no participants who attended sessions used a screenreader.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/Home%20ALL%20AUTH%20LT%20-%20happy.png" height="800" alt="VA mobile app - personalized home screen, light mode"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/Home%20ALL%20AUTH%20DK%20-%20happy.png" height="800" alt="VA mobile app - personalized home screen, dark mode">
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Home-light.png" height="800" alt="VA mobile app - personalized home screen, light mode"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Home-dark.png" height="800" alt="VA mobile app - personalized home screen, dark mode">
 
 
 
 
-Screenshots from [the Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
+      Screenshots from [the Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
 
 Because of the potential variability of the modules within the Activity section, we planned questions for all possible modules and then selected a Health task for the participant to complete based on what was present on the home screen in order to limit the length of the session.
 
@@ -204,7 +204,7 @@ Limiting the testing device type to iOS (iPhones and iPads) made for a more seam
 
 ### (Research questions, answered)
 
-1. What do participants **believe that the VA mobile app _can do—in general—_** based on the contents of the personalized home screen?
+1. What do participants **believe that the VA mobile app _can do —in general—_** based on the contents of the personalized home screen?
 When asked to describe what the VA mobile app does for Veterans—based on first impressions of the contents of the new personalized home screen—participants described the app as:
     * **All of the stuff that is important... in one place (6 participants):**
       >  "...a hub of important information that you need on a regular basis." P1
@@ -253,6 +253,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
     The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
 
     **Activity section:**   
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity.png" width="300" alt="VA mobile app - personalized home screen, Activity section"> 
 
       **Mental model:**  
     All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
@@ -281,8 +282,11 @@ When asked to describe what the VA mobile app does for Veterans—based on first
 
     Participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful. Some had suggestions about what it could say instead of/in addition to the information displayed in the description text. Below are the responses, divided by feature module:
 
-   *  **Claims:**
-Responses were mixed on the helpfulness of the description text "[#] active":
+   *  **Claims:**  
+
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Claims.png" width="300" alt="VA mobile app - personalized home screen, Claims module">  
+
+      Responses were mixed on the helpfulness of the description text "[#] active":
       * 5/10 participants thought it was helpful
         > "If there's a change from 3 to 2 active then it would catch my eye" P10
 
@@ -301,7 +305,11 @@ Responses were mixed on the helpfulness of the description text "[#] active":
         > "Active is fine—I don't expect more information than that." (P12)
       * 1 participant did not find it helpful: 
         > "I don't want to say that it [1 active] doesn't help me, but it doesn't help me." P2
-   * **Prescriptions**: 
+
+   * **Prescriptions**:
+    
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
+
      * 5 participants said they wouldn't change anything about the information displayed
      * 3 participants felt it would be useful to see more information: 
        * 1 mentioned tracking information for prescriptions in transit
@@ -309,6 +317,9 @@ Responses were mixed on the helpfulness of the description text "[#] active":
          > "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
 
    * **Appointments**:
+     
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Appointments.png" width="300" alt="VA mobile app - personalized home screen, Appointments module">  
+
 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
      * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
        >  "If I don't check weekly, I won't know when the next one is coming up." P2 
@@ -317,10 +328,15 @@ Responses were mixed on the helpfulness of the description text "[#] active":
      * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
 
    *  **Secure message**:
+     
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Messages.png" width="300" alt="VA mobile app - personalized home screen, Messages module">  
+
 Only 1 participant experienced seeing this module and said it was "just the right amount" of information. 
 
 
-    **About you section: Branch of service and Veteran status module**   
+   **About you section: Branch of service and Veteran status module**   
+
+   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-PVS.png" width="300" alt="VA mobile app - personalized home screen, Branch of Service and Proof of Veteran Status module">  
 
     All participants should’ve had a Proof of Veteran status link displayed on the home screen, but 5/13 unexpectedly did not.
 
@@ -331,7 +347,7 @@ Only 1 participant experienced seeing this module and said it was "just the righ
     The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
 
 
-    **Value of module & data:**  
+   **Value of module & data:**  
 
     6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
 
@@ -344,13 +360,14 @@ Only 1 participant experienced seeing this module and said it was "just the righ
    * 2 participants felt that the proof of Veteran status card contained too much personal information
      > “Disability rating and DoB don't need to be there. I don't want them to know I'm 100% connected.” P12
 
-    **About you section: Disability rating and monthly compensation**
+     **About you section: Disability rating and monthly compensation** 
 
+   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-VAHBMA-HSP-Aboutyou-Rating-Compensation.png" width="300" alt="VA mobile app - personalized home screen, Disability rating and monthly compensation module">  
 
     13/13 participants had Disability rating and monthly compensation modules on their home screen.
 
 
-     **Value of module & data:**  
+   **Value of module & data:**  
 
      7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
 
@@ -363,7 +380,7 @@ Only 1 participant experienced seeing this module and said it was "just the righ
 
      **Yes.** Nearly all participants expected to tap and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). In the case of one task (prescriptions), most participants’ expectations of the module destination was different from what they experienced when using the app. 
  
-     **Activity section usability:** 
+     **Activity section - usability:** 
   12/13 participants expected to and then successfully used the home screen as the entry point for beginning their claims and health tasks. One participant initially used the category screen entry point for their first task but then used the home screen for the subsequent task. 
 
      A deeper dive on the usability of each task:
