@@ -16,12 +16,14 @@ A user can view their appointments (upcoming, pending, canceled or past), book a
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - 
+  - We would need to support the sites that have the Oracle Health system. The VA.gov Appointments tool does online shceduling for Vista system and HSRM for Community Care requests. This addition would be benefecial for Veterans who are registered at a Oracle Health site and would have the ability to use the new MHV on VA.gov application.  
+  
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - 
+  - Trying to unify the online scheduling for a Veteran. Some Veterans use the legacy MHV portal to manage their appointments at Vista sites and others may use legacy My VA Health tool for their Oracle Health appointments. The proposed changes will give the user to schedule an appointment at either site (Vista/Oracle Health) as long as they meet the eligibility requirements. 
+    
 * How does this initiative help further OCTO-DE's mission and goals?
   - Meet user expectations of available online transactions
-
+  - Support Oracle Health system
 
  <details>
   <summary><b>User Feedback Quotes</b></summary>
@@ -35,14 +37,18 @@ A user can view their appointments (upcoming, pending, canceled or past), book a
 </details>
 
 ## Desired Outcomes
-- 
+- A Veteran can schedule and manage their Oracle Health Appointments in the Appointments tool on VA.gov 
 
 ## Undesired Outcomes
--
+- A Veteran cannot use the Appointments tool on VA.gov
+
 
 ## Key Decisions
-- 
-- 
+- MVP for submit a request for an appointment:
+     -  
+- MVP for direct schedule for an appointment:
+     - 
+- Community Care request is not supported at this time for Oracle Health site. 
 
 ---
 ## Measuring Success
@@ -78,17 +84,16 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 </details>
  
 
- 
-
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - The experience may vary based on the data we have for the appointment type
-  - If user is unable to find any value in VAOS, they may lose trust in the application and are less likely to return
+  - The user may need to use multiple tools to manage their appointments
+ 
 - **Usability Risks** (can people figure out how to use it):
-  - We will have to balance between showing the right amount of information in the appointment list 
+  - We will have one Appointments tool on VA.gov for a better user experience for the Veteran
+    
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Must work with our engineers to see what available data we can use to enhance the appointment details 
+  - Must work with our engineers to see how to integrate a new service (VPG) into the current application
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: VA stakeholder testing, marketing, compliance requirements 
