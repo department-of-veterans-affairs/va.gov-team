@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Appointments tool on VA.gov will need to support online scheduling for Oracle Health. The goal is to sunset the current portal () and have users login to MHV on VA.gov to schedule and manage their appointments.
+The Appointments tool on VA.gov will need to support online scheduling for Oracle Health. The goal is to sunset the current My VA Health portal and have users use the MHV on VA.gov tool to schedule and manage their appointments.
  
 ---
 
@@ -110,22 +110,10 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-1. Launch of the updated appointment list view will be marketed as an enhancement and will be part of a re-launch campaign for VAOS.
-* Re-launch and new appointment list will be marketed through veteran focused electronic newsletters, especially those related to health care.
-* Specific newsletters need to be identified and timelines for publication coordinated with launch plans
+1. 
 
 2. VAOS team investigating the use of an online, one time notice that would appear to veterans when navigating to VAOS landing page
-* Notice would be a small indicator that something is new on the site.
-* Clicking on the notice would provide more details about the change to the appointment list view.
-* The online notification would lose focus after a veteran has clicked on it.  This includes subsequent sessions.
-* Online notification would only be visible for a configurable date range.
-* VAOS team to investigate feasibility of such a feature with the platform support team.
 
-3. VA and CC scheduling personnel will need to be informed of the appointment view update and provided a demonstration.
-
-4. VAOS product guide will need to be updated to include new screen shots of the updated appointment list view
-
-5. Call Center will need to be informed of change to appointment list view
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
@@ -169,8 +157,8 @@ Current State:
  
 - DEPO Lead: [Katherine Lawyer]()
 - PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
-- Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2)
-- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Melissa Leferve]((
+- Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2), [Ryan Shaw](), 
+- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Melissa Leferve]() 
  
 </details>
 
