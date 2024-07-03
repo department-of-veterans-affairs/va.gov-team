@@ -54,16 +54,16 @@ These are the main features we're testing:
 
 |Hypothesis|Conclusion|Explanation|
 |:--|:--|:--|
-|People will generally understand the content within the cards without labels, like, 'Date submitted.'|Definitely True||
-|People may confuse the date submitted (H3, primary date) with the date last updated (secondary date) especially with date sorting.|Somewhat True||
-|Certain statuses and icons will be difficult to understand without more description.|Likely False||
-|It will be hard to identify which questions have a reply from VA.|Definitely False||
-|People will expect to be able to search in their dashboard using keywords in the question or category.|Definitely True||
-|People may only use the sorting feature when they have many cards.|Definitely True||
-|It will be straightforward to find the link to check details, but some people will think they can click on the entire card or that it will open additional details on the same page.|Likely False||
-|On the details page, people will scroll past details to look for a reply from VA.|Definitely True||
-|The sequence of the page will feel unintuitive, with people scrolling around to read VA's reply, their question and their reply to VA.|Definitely True||
-|People who can't respond to VA will call or submit a new question if they have a follow up question or issue.|Likely True||
+|People will generally understand the content within the cards without labels, like, 'Date submitted.'|Definitely True|People understood each item without further description.|
+|People may confuse the date submitted (H3, primary date) with the date last updated (secondary date) especially with date sorting.|Somewhat True|Dates were sometimes confused, particularly if they were similar across cards or if people were comparing date sent and date submitted.|
+|Certain statuses and icons will be difficult to understand without more description.|Likely False|People generally understood statuses without further description and there was little mention of icons.|
+|It will be hard to identify which questions have a reply from VA.|Definitely False|People assumed 'Solved' questions have a reply from VA.|
+|People will expect to be able to search in their dashboard using keywords in the question or category.|Definitely True|People mentioned searching using keywords and relied on skimming the categories and questions when looking for particular content.|
+|People may only use the sorting feature when they have many cards.|Definitely True|Although people only had 3-4 cards in their dashboard, they could imagine using the sorting feature if they had many more inquiries to look through.|
+|It will be straightforward to find the link to check details, but some people will think they can click on the entire card or that it will open additional details on the same page.|Likely False|It was straightforward to find the link but people were not confused that the link opens a new page.|
+|On the details page, people will scroll past details to look for a reply from VA.|Definitely True|Everyone scrolled past the details looking for the reply, or, they didn't scroll and were confused where the reply was.|
+|The sequence of the page will feel unintuitive, with people scrolling around to read VA's reply, their question and their reply to VA.|Definitely True|People scrolled back and forth between top of the page (question) and bottom of the page (reply from VA).|
+|People who can't respond to VA will call or submit a new question if they have a follow up question or issue.|Likely True|It's likely that people will call (and that's when they mention they may use their reference number) but this was touched on lightly during research.|
 
 ## Key findings
 
@@ -215,14 +215,14 @@ Many people aren't sure how to print without a print button.
 
 ## Next steps
 
-- Update hierarchy of information on dashboard cards – [#ticket]()
-- Add category sort menu to dashboard – [#ticket]()
-- Discuss changes to statuses with CRM team – [#ticket]()
-- Coordinate with CRM team to share feedback on VA responses – [#ticket]()
-- Update hierarchy of information on details page – [#ticket]()
-- Add print button to details page – [#ticket]()
-- Update content on reply confirmation page – [#ticket]()
-- Add turnaround time to subtitle on homepages – [#ticket]()
+- [ ] Update hierarchy of information on dashboard cards – [#ticket]()
+- [ ] Add category sort menu to dashboard – [#ticket]()
+- [ ] Discuss changes to statuses with CRM team – [#ticket]()
+- [ ] Coordinate with CRM team to share feedback on VA responses – [#1120](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1120)
+- [ ] Update hierarchy of information on details page – [#ticket]()
+- [x] Add print button to details page – [#1115](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1115)
+- [ ] Update content on reply confirmation page – [#ticket]()
+- [ ] Add turnaround time to subtitle on homepages – [#ticket]()
 
 ## Further research needed
 
@@ -250,7 +250,7 @@ We are planning additional research on the dashboard with assistive technology u
 
 ## Secondary research
 
-All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/research).
+All of our research can be found [in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research).
 
 ## Who we talked to 
 
