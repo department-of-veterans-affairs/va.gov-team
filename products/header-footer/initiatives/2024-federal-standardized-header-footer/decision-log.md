@@ -1,5 +1,8 @@
 # Decision log - Federal standardized header and footer 
 
+## 5/28/24 - Project stop
+Project was discontinued by stakeholders. Will not ship.
+
 ## 3/20/24 - Design System / Public Websites agreements for build / launch
 https://dsva.slack.com/archives/C01DBGX4P45/p1710948996488339?thread_ts=1709913842.908739&cid=C01DBGX4P45
 * Design System Team will pick up the work to flatten the auth header.
