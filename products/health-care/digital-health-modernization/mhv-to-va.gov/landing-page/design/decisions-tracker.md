@@ -16,7 +16,7 @@ Based on feedback from OCC members, we decided to decrease visual salience of ex
 
 [Implementation ticket for National Portal link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84572)
 
-### Create additional Records landing page
+### Address need to use old version of records product at start of integration
 The integration was planned to go live and the new VA.gov records product was not ready yet. That would mean that we'd need to point all users to the previous records product on the national portal and commmunicate clearly where users were being directed and why. This had two design implications:
 
 1. How would handle we the records option within the secondary nav: To avoid sending users from the secondary nav to the national portal site, we decided to create a temporary records landing page. When users clicked the records option within the secondary nav, they would land on that temporary page and read an explanation of the context including: the new version is not ready yet and the old version is still available with all its old functionality.
