@@ -107,4 +107,5 @@
 | 105 |[Veterans Affairs Servicing Purchase (VASP) program FAQs](https://www.va.gov/resources/veterans-affairs-servicing-purchase-vasp-program-faqs) | Housing assistance           | 4/12/24              |       | 
 | 106 |[VA accredited representative FAQs](https://www.va.gov/resources/va-accredited-representative-faqs/) | Decision reviews           | 4/19/24              |       | 
 | 107 |[Regional processing office addresses for GI Bill applications](https://www.va.gov/resources/regional-processing-office-addresses-for-gi-bill-applications) | Education           | 5/16/24              |       | 
-| 108 |[Mental health copay exemptions](https://www.va.gov/resources/menta-health-copay-exemptions) | Health care           | 5/29/24              |       | 
+| 108 |[Mental health copay exemptions](https://www.va.gov/resources/mental-health-copay-exemptions) | Health care           | 5/29/24              |       | 
+| 109 |[Approved fields of study for the STEM Scholarship](https://www.va.gov/resources/approved-fields-of-study-for-the-stem-scholarship/) | Education           | 7/3/24              |       | 
