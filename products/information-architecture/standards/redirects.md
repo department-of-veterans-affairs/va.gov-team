@@ -1,4 +1,4 @@
-# VADS Guidance
+# Redirect Guidance
 
 ## H1: Redirects
 
