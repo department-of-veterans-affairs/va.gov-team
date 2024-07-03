@@ -73,9 +73,7 @@ After this research is complete, we will:
 
 Oracle Health scheduling:
 - What are Veterans' preferences regarding choosing providers?
-- How do these preferences vary between: 
-    - Primary and specialty care?
-- Established vs. new care?
+- What are their expectations around requesting an appointment with a different provider?
 
 Immediate care alerts:
 - Do Veterans find the warnings about urgent medical needs necessary, helpful, and timely?
