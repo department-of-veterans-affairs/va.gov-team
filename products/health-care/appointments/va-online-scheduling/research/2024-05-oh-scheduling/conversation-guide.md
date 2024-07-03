@@ -17,9 +17,9 @@ Note to observers in thread:
 
 ## Intro - 5 minutes
 
-Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ______.
+Thanks so much for joining today. My name is ____________, very nice to meet you. I'm here with my notetaker ____________.
 
-Today I'm going to ask you to help test out the unified scheduling portal on VA.gov. Your feedback will help our team understand how to improve the site for Veterans in the future.
+Today I'm going to ask you to help test out scheduling on VA.gov. Your feedback will help us understand how to improve the site for Veterans in the future.
 
 I also have a few people on the team who are interested in listening in to our session as observers. They're in the Zoom waiting room. It's completely fine if you choose to have the session without observers, so let me know what you'd prefer. Do you feel comfortable with having observers listen in on the session?
 
@@ -29,9 +29,9 @@ Okay, I've let the observers in. Could the observers come on camera for a second
 
 Before we begin, I want to give you some background on how today's session will go. Please stop me if you have any questions:
 
-- You will be testing out the unified scheduling portal on VA.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is inaccurate.
+- You will be testing out scheduling on VA.gov using a prototype. None of your actions will affect your actual VA information or benefits. Because this is a prototype, there will be some information that is inaccurate.
 - I will have you share your screen and ask you to complete various tasks and give feedback as you go.
-- Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the scheduling portal, not you.
+- Please know that there are no right or wrong answers, and I won’t be offended by any opinions you express. We're testing the scheduling tool, not you.
 - There is no expectation to provide any personal information. Please feel free to share your thoughts and experiences at the level that’s comfortable for you.
 - My priority is making sure you feel comfortable during this session, so if for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
 - This entire session will take no more than 60 minutes. I'll keep an eye on the time and try to keep us moving along so that we don’t go over.
@@ -52,7 +52,7 @@ Just to confirm on the record, do I have your permission to record the session t
 
 Thank you!
 
-As I said, today you will be interacting with a prototype of the unified scheduling portal. In order to do that, I’ll need you to share your screen.
+As I said, today you will be interacting with a prototype the scheduling tool on VA.gov. In order to do that, I’ll need you to share your screen.
 
 I’ll walk you through the process of sharing your screen, then I'll send you a link to the prototype.
 
@@ -81,92 +81,176 @@ Thanks!
 What we're going to do is run through a series of tasks in an imaginary scenario. As you're going through these tasks, it's most helpful if you say what's on your mind. Your thoughts and feelings will help us make this better for all Veterans.
 
 ## 1: Type of Care - Food and nutrition 
-Path they will take: Start scheduling> Alert for urgent care> I need a different appointment>Nutrition and food> Choose a location> Grove City, OH>Sarah Bennett>PID 6/11> 7/22> Reason for appointment> confirm contact>review details> Confirmation page> review appointments
+
+Path they will take: 
+1. Start scheduling > 
+1. Alert for urgent care > 
+1. I need a different appointment > 
+1. Nutrition and food > 
+1. Choose a location > 
+1. Grove City, OH > 
+1. Sarah Bennett > 
+1. PID 6/11 > 
+1. 7/22 > 
+1. Reason for appointment > 
+1. confirm contact > 
+1. Review details > 
+1. Confirmation page > 
+1. Review appointments
 
 **Begin prototype**
 
-**INSERT QUESTION ABOUT NOTIFICATIONS INITIAL THOUGHTS**
+Prompt: Tell me about this page.
 
-Prompt: You need to schedule an appointment, how would you do that?
+Prompt: How would you schedule an appointment from here?
 
 **First time scheduling immediate care alert** 
-Prompt: What is this page all about? What would you do here? 
-Go ahead and do that.
+
+Prompt: Tell me about this page. 
+
+Question: What do you expect the "Don't show this again" option would do?
+
+Question: How do you feel about this page?
+
+Prompt: Continue scheduling your appointment.
 
 **Schedule an appointment** 
-Prompt: What do you think you can do on this page? Would scheduling with a clinc or provider you have seen in the past be helpful for you?  
+
+Prompt: Tell me about this page.
+
+Question: Which of your providers or clinics would you expect to see here if you were actually scheduling this appointment?
 
 Prompt: You need a food and nutrition appointment. How would you schedule that? 
-Go ahead and do that.
 
  **Choose a location page** 
-Prompt: Do you see how these locations are sorted? What does "recent locations" mean to you? Is sorting by recent location something you would want or would you select a different way for the list to be sorted? (Let them click arounf but they need to ultimately select grove city, OH and continue)
+
+Prompt: Tell me about this page.
+
+Question: How are these locations sorted? 
+
+Question: What does "recent locations" mean to you? 
+
+Prompt: Select Grove City, OH
 
 **Choose a Provider page** 
-Prompt: Sarah is who you normally see for Nutrition and food she is a registerd dietitan. **any other questions about the choose a provider screen?**
+
+Prompt: Tell me about this page.
+
+Question: Is there any other information that would be helpful here?
+
+Question: How do you feel about this page?
+
+Prompt: Sarah is who you normally see for Nutrition and food she is a registered dietitian. 
 
 **PID page** 
-Prompt: What is this page? What do you expect it to do? You would like an appointment for 6/11 date show me how you would schedule that.
+
+Prompt: Tell me about this page.
+
+Prompt: You would like an appointment for 6/11 date. Show me how you would schedule that.
 
 **Choose a date and time** 
-Prompt:  What do you think this page is? How is it differnt from the last page? 
-You want to schedle for the 7/22 at 12. 
-If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
+
+Prompt: Tell me about this page.
+
+Question: How is this different from the last page? 
+
+Question: If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
+
+Prompt: You want to schedule for the 7/22 at 12. 
 
 **Finish making the appointment**
+
 Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
 
 **Confirmation screen:**
-Prompt: Now you would like to go back to see a list of your appointments how would you do that?
 
+Prompt: Now you would like to go back to see a list of your appointments. How would you do that?
 
+<<<<<<< HEAD
+### Scenario 1 Questions:
+=======
 #### Things to watch for:
 - First time using the tool, they will get a "do you need immediate care" alert. What are thier interactions with the alert, any thoughts?
 - Sorting their facilities by Recent locations, what are their thoughts and reactions?
 - Choose a provider page thoughts and comments 
 - Patient Indicated Date page improvements thoughts?
 - Can participant understand the information on the details page? Do they mentions anything about the Building numner or Clinic name?
+>>>>>>> 00301c45e1e36ffa4f794d5d229823863674722b
 
+<<<<<<< HEAD
+Question: Of everything you just saw, what was the most helpful?
+
+Question: What was the most confusing?
+
+=======
+>>>>>>> 00301c45e1e36ffa4f794d5d229823863674722b
 ## 2: Type of Care - Physical Therapy
-Path they will take: Start scheduling> Physical Therapy> PID 6/16>7/26 2 pm>chest pain>I do not need care now> (finish scheduling)
+Path they will take: 
+1. Start scheduling 
+1. Physical Therapy
+1. PID 6/16
+1. 7/26 2 pm
+1. Chest pain
+1. I do not need care now
+1. Finish scheduling
 
 **Schedule an appointment** 
-Prompt: You have been doing physical therapy once a every few weeks and you need to schedule your next Physical Therapy appointment how would you do that?
+
+Prompt: You have been doing physical therapy once a every few weeks and you need to schedule your next Physical Therapy appointment. Show me how you would do that.
+
+
+(NOTE: Do they prefer an express option, or the alternate?)
 
 **PID**
-Prompt: You would like an appointment for June 16. 
-It looks like June 16 isn't available- The next date that will work for you is July 26 at 2:00pm. 
-Go ahead and select that date and time
+
+Prompt: You would like an appointment for June 16.
+
+Prompt: It looks like June 16 isn't available - The next date that will work for you is July 26 at 2:00pm. Go ahead and select that date and time
 
 **Reason for appointment**
-Promt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. I'll pause you if I have questions.
 
 **Do you need care now?** 
-Promt: What do you think of this page? Why do you think you are seeing this? What are your thoughts?
+
+Prompt: Tell me about this page.
+
+Question: Why do you think this warning is showing here?
+
+Question: How do you feel about this page?
 
 **Finish making the appointment**
-Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+
+Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still, think out loud as you go. 
 
 **Confirmation screen:**
-Prompt: Now you would like to go back to see a list of your appointments how would you do that?
 
+Prompt: Now, say you want to go back to see a list of your appointments how would you do that?
 
-#### Things to watch for:
-Do they use the express lane or do they go to the I need a differnt type of care?
-Do you need care now?": Thoughts
+#### Scenario 2 questions
 
+Question: Of everything you just saw, what was the most helpful?
+
+Question: What was the most confusing?
 
 ## 3: Type of Care - I need immediate care 
+
 Prompt: You have a high fever and have been sick for a couple of days, you want to get in to see your doctor asap because you don't seem to be getting better. What would you do? 
+
 **Schedule an appointment** 
-Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? (they should find the "I need immediate care" in the list.)
+
+Prompt: Now, looking through the scheduling tool is there anything that might be helpful in guiding you to getting care asap? 
+
+(They should find the "I need immediate care" in the list.)
 
 **Go back to the appointment list** 
-Promt: now you want to go back to your list of appointments, how would you do that?
 
-#### Things to watch for: 
-Is it clear that this tool is not for urgent medical needs? Is having "I need immediate care" on this list helpful in your situation? 
-Testing the back button: Which back button do they use? 
+Prompt: now you want to go back to your list of appointments, how would you do that?
+
+### Scenario 3 questions
+
+Question: How clear was it that this tool is not for urgent medical needs? Anything we could do better?
+
 
 ## 4: New Notification
 
@@ -176,9 +260,12 @@ Prompt: Now that you are back on the appointment list screen, do you notice anyt
 
 
 
+### Scenario 4 Questions
 
+Question: Of everything you just saw, what was the most helpful?
 
-#### Things to watch for:
+Question: What was the most confusing?
+
 
 
 
