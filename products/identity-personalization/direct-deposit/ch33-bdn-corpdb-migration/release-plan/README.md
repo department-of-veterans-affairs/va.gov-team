@@ -38,7 +38,7 @@ We will need to use BOTH of these toggles to control the release.
 |Planning Item/Question|Response|
 |---|---|
 |UAT Go/No-go Convo|[Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80802)|
-|Desired Date Range or Test Duration|Start 4/29, see [research plan for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/research-plan.md)|
+|Desired Date Range or Test Duration| [research plan for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2024-04-direct-deposit-ch33-UAT/research-plan.md)|
 |Desired Number of Users||
 |How you'll recruit the right production test users|We will recruit users via Perigean|
 |How you'll conduct the testing|We will conduct UAT over Zoom to ensure the different features work correctly|
