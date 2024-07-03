@@ -217,11 +217,11 @@ When asked to describe what the VA mobile app does for Veterans—based on first
   * **An assistant (1 participant):**
     >  "Like a personal assistant, it's like giving you highlights of what's coming up. which is very helpful. and you don't have to navigate so much..." P10
 
-  The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
+    The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
 
 2. Do participants **find value in the VA mobile app** based on the contents of the personalized home screen? What do participants **believe that the VA mobile app _can do for them in their current circumstances_ based on the contents of the personalized home screen?** 
 
-All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
+    All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
 
     When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task. 7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
  
