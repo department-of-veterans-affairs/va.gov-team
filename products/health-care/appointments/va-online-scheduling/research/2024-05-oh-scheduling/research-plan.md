@@ -59,8 +59,6 @@ Retiring
 
 - Test a concept for sharing important messages and tasks with Veterans	
 
-
-
 ### Outcome
 
 This research will provide insights into whether the new features — such as scheduling from recent appointments, sorting by recent locations, and helpful alerts and reminders — make the process faster, easier, and more valuable for Veterans.
@@ -71,11 +69,13 @@ After this research is complete, we will:
 - Choose which scheduling improvements are most valuable for the dev team to implement
 - Provide teams working on appt notifications with the results of the study that show how Veterans responded to the notification workflow.
 
-
 ### Research questions
 
 Oracle Health scheduling:
-- What are Veterans' preferences regarding choosing providers, and how do these preferences vary between primary and specialty care, as well as between established and new care?
+- What are Veterans' preferences regarding choosing providers?
+- How do these preferences vary between: 
+    - Primary and specialty care?
+- Established vs. new care?
 
 Immediate care alerts:
 - Do Veterans find the warnings about urgent medical needs necessary, helpful, and timely?
