@@ -4,7 +4,7 @@ Content migration efforts are primarily led by the content team members.  Howeve
 
 [Content team migration process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/content-strategy-ia-collaboration/continued-content-migration-strategy/benefits.va.gov/migration-process.md)
 
-### IA responsibilities
+### IA steps
 - Participate in kick-off meeting to understand scope of work, timing, and stakeholder relationships
   - Inform stakeholder of IA's role in process:  Establish URLs and entry points for any new benefit hub pages, mapping and validating redirects, and providing recommendations for TeamSite modifications post migration
 - Review and understand the audit and content placement decisions
