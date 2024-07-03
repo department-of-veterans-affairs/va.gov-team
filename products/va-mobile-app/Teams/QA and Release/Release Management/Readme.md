@@ -25,6 +25,9 @@ There are two ways we can update our app:
     * The ticket is assigned to PM release lead, PO stakeholder, Design lead, & Engineering Lead to complete all tasks
 * One week prior to the release sign off is due and the app is sent to the app store for review
 * On release day, the app is submitted to the app store(s) with latest app version
+
+**Other relevant information** 
+
 * Mobile backend can release as needed those releases are not included in this one
 * Release Report will not show all the tickets that go into production
     * Tickets that had code go into an XL branch or tied to a feature flagged will be tagged at the epic level
