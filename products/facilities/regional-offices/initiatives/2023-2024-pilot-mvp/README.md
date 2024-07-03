@@ -164,3 +164,17 @@ Left nav
 Tracked in separate initiative directory
 - [VBA Regional Offices: Fast Follow #14477](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14477)
 - Will begin after phase 2
+
+## Testing
+We created a set of scripts to populate content, based on Drupal build for the end of Pilot: https://github.com/department-of-veterans-affairs/va.gov-cms/tree/main/scripts/content/vacms-17969
+(These will only be useful until the VBA content model changes.)
+
+### To use them to populate a Drupal instance with content: 
+Go to Tugboat, you can use the VBA Staging review one if it hasn't been torn down / errored out: https://tugboat.vfs.va.gov/6658992b17e38363d35596a2
+
+If it needs rebuild or you need to start a new tugboat, you can use the script to re-generate content:
+* Tugboat instance page > Services section > php, far right column: Click Terminal link
+paste in drush scr scripts/content/vacms-17969/VACMS-17969-vba-test-data-processor.php (This should take less than a minute.)
+* In the browser, go to https://cms-`[tugboat-id]`.demo.cms.va.gov/admin/content/
+* Confirm that content has just been created or updated of the following types: 1) Service region, 2) VBA Facility, 3) VBA Facility Health Service
+https://cms-[tugboat-id]`.demo.cms.va.gov/admin/content/deploy to Release content
