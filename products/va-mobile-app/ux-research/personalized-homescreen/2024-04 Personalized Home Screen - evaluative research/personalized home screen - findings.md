@@ -121,7 +121,7 @@ We conducted moderated, remote, think-aloud user interviews with usability testi
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Home-light.png" height="800" alt="VA mobile app - personalized home screen, light mode"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Home-dark.png" height="800" alt="VA mobile app - personalized home screen, dark mode">
 
 
-      Screenshots from [the Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
+  Screenshots from [the Figma file](https://www.figma.com/proto/q4oTyzyLfYrZVz4CACzVLA/Personalization-Visual-Design---Working---VA-Mobile?page-id=2176%3A1167&node-id=2306-7638&viewport=667%2C674%2C0.49&t=R7YetqFFK8lWiwRp-1&scaling=min-zoom&starting-point-node-id=2306%3A7638&show-proto-sidebar=1)
 
 Because of the potential variability of the modules within the Activity section, we planned questions for all possible modules and then selected a Health task for the participant to complete based on what was present on the home screen in order to limit the length of the session.
 
