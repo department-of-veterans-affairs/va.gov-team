@@ -41,9 +41,9 @@
 |Lindsey Slaughter| VBA Comms|
 
 ## Overview 
-Chapter 33 (Ch33) refers to the [part of the Post-9/11 GI Bill that helps Veterans pay for school or job training] (https://www.va.gov/education/about-gi-bill-benefits/post-9-11/). The Department of Veterans Affairs (VA) determines a person’s eligibility for VA Education Benefits based on the military records they have on file for a service member, veteran, or a transferee. 
+Chapter 33 (Ch33) refers to the [part of the Post-9/11 GI Bill that helps Veterans pay for school or job training](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/). The Department of Veterans Affairs (VA) determines a person’s eligibility for VA Education Benefits based on the military records they have on file for a service member, veteran, or a transferee. 
 
-VA.gov provides guidance on [eligibility] (https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) and [rates] (https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/).
+VA.gov provides guidance on [eligibility](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/) and [rates](https://www.va.gov/education/benefit-rates/post-9-11-gi-bill-rates/).
 
 These education benefits are paid to veterans using a system called BDN. BDN is a legacy system that is gradually being retired and various benefits are migrating to newer payment/management systems. VBA is starting with the largest EDU portfolio, Ch33 and migrating payment processing from BDN to CorpDB where payments will run through eMPWR. In this new system, there can only be ONE set of payment instructions. As an example, Comp&Pen (C&P) benefits have already been migrated to CorpDB.
 
