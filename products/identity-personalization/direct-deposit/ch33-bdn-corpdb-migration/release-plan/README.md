@@ -74,10 +74,10 @@ PM and PO will monitor DataDog analytics. If the team notices a spike in errors,
 ### Planning 
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
-| Launch to 10% | 5/1/2024 9AM |  |
-| Launch to 25% | 5/1/2024 2PM |  |
-| Launch to 50% | 5/2/2024 |  |
-| Launch to 100% | 5/3/2024 |  |
+| Launch to 10% | ~7/17/2024 9AM |  |
+| Launch to 25% |  12PM |  |
+| Launch to 50% |  2PM |  |
+| Launch to 100% |  4PM |  |
 
 ### 1-week results at 100%
 ||Results|
