@@ -280,7 +280,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
  
    **Value of module & description data:** 
 
-Participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful. Some had suggestions about what it could say instead of/in addition to the information displayed in the description text. Below are the responses, divided by feature module:
+    Participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful. Some had suggestions about what it could say instead of/in addition to the information displayed in the description text. Below are the responses, divided by feature module:
 
    *  **Claims:**
 Responses were mixed on the helpfulness of the description text "[#] active":
@@ -317,13 +317,13 @@ Responses were mixed on the helpfulness of the description text "[#] active":
        >   "I think a month is too much, but two weeks would be better." P16
      * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
 
-    * **Secure message**:
+   *  **Secure message**:
 Only 1 participant experienced seeing this module and said it was "just the right amount" of information. 
 
 
-   **About you section: Branch of service and Veteran status module**   
+    **About you section: Branch of service and Veteran status module**   
 
-All participants should’ve had a Proof of Veteran status link displayed on the home screen, but 5/13 unexpectedly did not.
+    All participants should’ve had a Proof of Veteran status link displayed on the home screen, but 5/13 unexpectedly did not.
 
    * 8 participants who had a disability rating and monthly compensation amount had the expected module with their branch of service and proof of Veteran status link.
    * 4 participants who had a disability rating and monthly compensation amount had a module with their branch of service that did not include the proof of Veteran status link (this combination should not be possible given that a veteran with a disability rating who is receiving a monthly disability payment should also be allowed a proof of veteran status)
@@ -332,9 +332,9 @@ All participants should’ve had a Proof of Veteran status link displayed on the
     The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
 
 
-   **Value of module & data:**  
+    **Value of module & data:**  
 
-6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
+    6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
 
     * 4 participants said Proof of Veteran status was useful
       > "I could see my husband (100%) using this feature a lot; vs carrying around a copy in your wallet or in your car. VA ID card, drivers license all don't have the % on them." P4
