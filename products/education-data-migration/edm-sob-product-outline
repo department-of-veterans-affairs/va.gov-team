@@ -6,9 +6,15 @@
 
 ## Overview
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+The Statement of Benefits (SOB) Tool is designed to provide detailed benefit utilization and entitlement information to Veterans awarded Post-9/11 GI Bill education benefits, as well as to surviving spouses or dependents utilizing transferred benefits from qualifying Veterans and active-duty service members meeting specific service criteria.
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
+As a Veteran, I want to determine my education benefit eligibility. 
+As a content resource, I want to:
+•	Ensure that SOB is enhanced to provide 24/7 access to veterans. 
+As a data producer, I want to resolve login, calculation, and data issues.
+
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
@@ -100,6 +106,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Before
 
+
 ### After
 
 ---
@@ -108,11 +115,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Education Data Migration 
+- GitHub Label: Education Data Migration
+- Slack channel: edm-team
+- Product POCs: Cassidy Beach (Cassidy.Beach@VA.gov), Theresa Simeone (Theresa.Simeone@VA.gov) 
+- Stakeholders:
+  | Sector | Stakeholder Name   | Stakeholder Contact      |
+  | OIT    | Darla van Nieukerk | Darla.vanNieukerk@VA.gov |
+  | Statement of Benefits | Tammy Turley | Tammy.Hurley1@VA.gov |
+  | WEAMS Public | Robert Holbrook | Robert.Holbrook@VA.gov |
+  | Yellow Ribbon Tool | Brian Grubb | Brian.Grubb@VA.gov | 
 
 </details>
 
