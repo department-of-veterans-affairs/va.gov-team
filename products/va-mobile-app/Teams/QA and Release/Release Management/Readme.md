@@ -25,6 +25,10 @@ There are two ways we can update our app:
     * The ticket is assigned to PM release lead, PO stakeholder, Design lead, & Engineering Lead to complete all tasks
 * One week prior to the release sign off is due and the app is sent to the app store for review
 * On release day, the app is submitted to the app store(s) with latest app version
+* Mobile backend can release as needed those releases are not included in this one
+* Release Report will not show all the tickets that go into production
+    * Tickets that had code go into an XL branch or tied to a feature flagged will be tagged at the epic level
+    * Stakeholders will need to review the Release Report and Epics tagged to see the full scope as to what was released  
 
 See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit?usp=sharing">here</a> 
 
@@ -96,6 +100,8 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 	
 <li>Ensure all tickets are tagged appropriately (epic, labels, release date, etc) 
 
+<li>Tickets tied to XL branch or feature flags, when this work is being released then Engineering will need to tag the release to the Epic and notify Release Manager
+
 <li>All committed issues have been coded and marked as closed in ZenHub by the end of the sprint 
 
 <li>All reviews have been completed
@@ -160,10 +166,6 @@ See full release calendar <a href="https://docs.google.com/spreadsheets/d/14jYcB
 
 <li> Document approriate change management and decisions made if applicable
 </li>  
-</ul>
- 
-<li>Document findings in TestRail
-</li> 
 </ul>
 </li> 
 </ul>
