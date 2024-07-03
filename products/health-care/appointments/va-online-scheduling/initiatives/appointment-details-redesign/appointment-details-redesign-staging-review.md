@@ -2,6 +2,11 @@
 
 <details>
 <summary>Upcoming Appointment Details Page - At VA location </summary>
+
+![VAappt](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/5c2a745e-7a9e-4e23-bbae-8e4165f6b48e)
+
+
+  
 </details>
 
 <details>
