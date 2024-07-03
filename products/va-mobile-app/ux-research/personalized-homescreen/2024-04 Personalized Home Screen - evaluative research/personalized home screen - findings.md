@@ -118,9 +118,8 @@ We conducted moderated, remote, think-aloud user interviews with usability testi
 * 7 participants also reported being users of MyVA
 * While our research plan called for recruiting both non-screenreader users as well as users who were screenreader experts, no participants who attended sessions used a screenreader.
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/Home%20ALL%20AUTH%20LT%20-%20happy.png" height="800" alt="VA mobile app - personalized home screen, light mode"> <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/Home%20ALL%20AUTH%20DK%20-%20happy.png" height="800" alt="VA mobile app - personalized home screen, dark mode">
 
-
-app image, app image, app image
 
 
 
