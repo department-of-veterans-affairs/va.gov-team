@@ -1,6 +1,6 @@
 # Ch33 Direct Deposit Migration to CorpDB
 
-**Updated: 4/16/2024**  `Draft`
+**Updated: 7/3/2024**  
 
 ## Table of Contents
 
@@ -75,9 +75,9 @@ PM and PO will monitor DataDog analytics. If the team notices a spike in errors,
 |Launch % |Desired Date | _Actual Date_ | 
 |-------|-----------|-----------|
 | Launch to 10% | ~7/17/2024 9AM |  |
-| Launch to 25% |  12PM |  |
-| Launch to 50% |  2PM |  |
-| Launch to 100% |  4PM |  |
+| Launch to 25% |  11AM |  |
+| Launch to 50% |  1PM |  |
+| Launch to 100% |  3PM |  |
 
 ### 1-week results at 100%
 ||Results|
