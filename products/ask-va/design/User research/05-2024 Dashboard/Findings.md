@@ -215,14 +215,14 @@ Many people aren't sure how to print without a print button.
 
 ## Next steps
 
-- [ ] Update hierarchy of information on dashboard cards – [#ticket]()
-- [ ] Add category sort menu to dashboard – [#ticket]()
-- [ ] Discuss changes to statuses with CRM team – [#ticket]()
+- [ ] Update hierarchy of information on dashboard cards – [#1185](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1185)
+- [ ] Add category sort menu to dashboard – [#1186](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1186)
+- [ ] Discuss changes to statuses with CRM team – [#1187](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1187)
 - [ ] Coordinate with CRM team to share feedback on VA responses – [#1120](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1120)
-- [ ] Update hierarchy of information on details page – [#ticket]()
+- [ ] Update hierarchy of information on details page – [#1188](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1188)
 - [x] Add print button to details page – [#1115](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1115)
-- [ ] Update content on reply confirmation page – [#ticket]()
-- [ ] Add turnaround time to subtitle on homepages – [#ticket]()
+- [ ] Update content on reply confirmation page – [#1189](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1189)
+- [ ] Add turnaround time to subtitle on homepages – [#1190](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1190)
 
 ## Further research needed
 
