@@ -228,7 +228,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
    **Example tasks are listed from most to least mentioned:**
 
    1. (7) Entry point/way to check the status of a claim 
-   >  " I see active and I know there's no change [on my claim]." P12 
+     >  " I see active and I know there's no change [on my claim]." P12 
    2. (6) Reminder/entry point when they need to figure out which prescriptions to refill or which drugs they're taking when speaking with a provider* 
       >  “Yeah, like the prescription refill. I feel that would be very helpful, because … like sometimes we have this bottle that has like hundreds of little pills and it, and it feels like I'm good for pills. But now, if you have to take 5, 3 times a day, you know… there's a lot of medication that you know. We can't have gaps in between taking them. We cannot have missed doses or things like that like you mess you up pretty bad.  So this is helpful security.” P10
 
@@ -251,12 +251,12 @@ When asked to describe what the VA mobile app does for Veterans—based on first
 
 3. Do participants **understand** **what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
 
-The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
+    The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
 
-**Activity section:**   
+    **Activity section:**   
 
-  **Mental model:**  
-  All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
+      **Mental model:**  
+    All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
 
    When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
 
