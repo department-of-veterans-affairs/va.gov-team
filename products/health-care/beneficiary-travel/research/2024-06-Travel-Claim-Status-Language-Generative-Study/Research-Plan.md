@@ -183,7 +183,7 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 
 
-* Pilot participant email: Keith Adkins 
+* Pilot participant email: Keith Adkins (Veteran who works for Ad Hoc LLC)
 * Date and time of pilot session: 7/2/24 2:30pm CST COMPLETE
 
 
