@@ -78,8 +78,7 @@ Interview over Zoom with Veteran participants. This interview will include 2 exe
 
 
 * [Link to intro conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2024-06-Travel-Claim-Status-Language-Generative-Study/ConversationGuide.md)
-* [Link to exercises in Mural]([https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717691947437/6c7026cc7e4a616a131c355dbfaecd2a05eb152f?sender=ucbacbd1daef36939e8aa2288](https://app.mural.co/t/departmentofveteransaffairs9999/r/1698083071599?folderUuid=19c8bdc9-91ca-4c5b-993d-235377ac4d63))
-
+* [Link to exercises in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1698083071599?folderUuid=19c8bdc9-91ca-4c5b-993d-235377ac4d63)
 
 ## **Recruitment**
 
