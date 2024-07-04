@@ -1,4 +1,6 @@
-# CC Direct Scheduling Initiative Team
+# CC Digital Scheduling Initiative Team
+
+[Back to initiative home page](products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling)
 
 ## OCTO 
 
