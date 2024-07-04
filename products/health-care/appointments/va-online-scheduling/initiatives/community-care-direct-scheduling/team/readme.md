@@ -2,31 +2,32 @@
 
 ## OCTO 
 
-- Kay Lawyer
-- Kristen McConnell
-- Stephen Barrs
+- Kay Lawyer (PO)
+- Kristen McConnell (UX)
+- Stephen Barrs (Engineering)
 
-## UAE Contractors 
+## UAE CC Digital Scheduling Initiative Team
 
 ### Appointments on VA.gov
 
-- Jeff Roof
-- Ben Brasso
-- Christina Gednalske
-- Anita Halici
-- Peter Russo
-- Ciera Maddox
-- Lauren Ernest
-- Lee Delarm
-- Simi Adebowale
+- Jeff Roof (Product)
+- Ben Brasso (UX)
+- Christina Gednalske (UX)
+- Anita Halici (Delivery) 
+- Peter Russo (UX)
+- Ciera Maddox (UX)
+- Lee Delarm (Engineer)
+- Simi Adebowale (Engineer)
 
-### VEText
+### Collaborators 
+
+#### VEText
 
 - Justin Wowk
 - Shane Elliott
 - Ariel Hicks
 
-### CAIA & SMEs
+#### CAIA & SMEs
 
 - Laura Willwerth
 - Sara Sterkenburg 
