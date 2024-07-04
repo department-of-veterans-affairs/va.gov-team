@@ -178,11 +178,13 @@ _**Participant is at Appointment list:**_
 
 - Now let’s review what’s on this page. Can you briefly review the page and tell me about it?
 
-  - _Things to watch for: Do they mention the referral task card/notification?_
+  - _Things to watch for:_
+    - _Do they mention the referral task card/notification?_
+    - _Do they mention the expiration date of the referral?_
 
   - _If needed:_
     - What did you expect to be on this page?
-    - Is anything here confusing?
+    - Is anything information on this page confusing?
 
 - Without doing anything yet, tell me a little about what you’d do next on this page based on the text message you received.
 
@@ -191,7 +193,8 @@ _**Participant is at Appointment list:**_
   - Did you notice the box at the top of the page? And, what does that seem to mean to you?
 
 - _If expiration date was not mentioned:_
-  - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing it?  
+  - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing it?
+  - Was there anything confusing about that information?
 
 - Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message you received.
 
@@ -235,6 +238,8 @@ _**Participant is on filter page:**_
 - Tell me about this page.
 
 - Is there anything confusing about this page and the information included here?
+  
+- Is this information what you expected to find?
 
 [ONLINE SCHEDULING FILTER]
 
@@ -335,6 +340,10 @@ _**Participant is on Pending page:**_
 - Ok, thank you! That concludes that activity and is everything we need to go through today.
   
 - Do you have any other questions for me or additional comments about what we’ve reviewed today together?
+  
+- Ok, and just curious, would you expect VA to contact you if you haven't self-scheduled your first appointment leading up the referral expiration date?
+  
+- And, when and how would you expect for VA to contact you? (_If needed: For example, on VA.gov, by phone, by letter?_) 
 
 - _If the participant agreed to record this session:_ 
    - Lastly, I'd like to confirm once again: **Are you still okay if we use any video or audio clips from this session?"** We won’t share any information that identifies you, and we’ll remove your face and name from any videos if we do share them. 
