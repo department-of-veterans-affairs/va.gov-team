@@ -48,9 +48,12 @@ This study will give us insight into
 
 #### Scheduling Flow
 - How easy or difficult is it for Veterans to start the scheduling process via a text (or email) notification and Appointments list task card prompt?
+  **Referral expiration:** Do Veterans find the expiration date on the referral task card helpful? 
 - How easy or difficult is it for Veterans to schedule their community care appointments using the new CC scheduling flow?
   - **Referral page:** Do Veterans understand the information included on the Referral page and what it means for their scheduling options?
-  - **Sort and filter:** How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
+  - **Sort and filter:**
+    - How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
+    - Do Veterans find the sort and filter options helpful when searching for a physical therapist (e.g., provider)?
   - **Review page:** Do Veterans understand the Review page information as it relates to their scheduling choices, and how to edit those choices?
 - Do Veterans expect to find information in this tool for providers that DO NOT offer online scheduling (in order to schedule by phone)?
 - What, if any, scheduling needs or preferences do Veterans have that are not currently addressed in the CC scheduling flow?
@@ -79,12 +82,17 @@ This study will give us insight into
 #### Scheduling Flow
 - How easy or difficult is it for Veterans to start the scheduling process via a text (or email) notification and Appointments list task card prompt?
     - HYPOTHESIS: Veterans will find it easy to start the scheduling process via text or email notification, as the steps follow a similar process as other VA reminders and prompts.
+  - **Referral expiration:** Do Veterans find the expiration date on the referral task card helpful? 
+    - HYPOTHESIS: Veterans will find the expiration date helpful, but might be confused by the duration it's good until. 
 - How easy or difficult is it for Veterans to schedule their community care appointments using the new CC scheduling flow?
     - HYPOTHESIS: Veterans will easily find a provider and schedule an appointment.
   - **Referral page:** Do Veterans understand the information included on the Referral page and what it means for their scheduling options?
     - HYPOTHESIS: Veterans will understand their referral information but will not know what it means for scheduling options until arriving on the provider list. 
-  - **Sort and filter:** How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
-    - HYPOTHESIS: Veterans will easily use the sort/filter options to find a provider. 
+  - **Sort and filter:**
+    - How easy or difficult is it for Veterans to tailor their provider list via the filter/sort options?
+      - HYPOTHESIS: Veterans will easily use the sort/filter options to find a provider.
+    - Do Veterans find the sort and filter options helpful when searching for a physical therapist (e.g., provider)?
+      - HYPOTHESIS: Veterans will find the filters extremely helpful when searching for a provider. 
   - **Review page:** Do Veterans understand the Review page information as it relates to their scheduling choices, and how to edit those choices?
     - HYPOTHESIS: Veterans will understand the information on the Review page and will know how to edit their choices.
 - Do Veterans expect to find information in this tool for providers that DO NOT offer online scheduling (in order to schedule by phone)?
