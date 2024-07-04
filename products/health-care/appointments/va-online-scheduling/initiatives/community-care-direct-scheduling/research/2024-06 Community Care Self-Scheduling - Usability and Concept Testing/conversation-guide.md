@@ -350,7 +350,7 @@ _**Participant is on Pending page:**_
       - _If yes:_ Thank you.
      
 ## Thank you and Closing - 1 minute
-- Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this tool and make sure it really works for Veterans.
+- Great. Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on this tool and make sure it really works for Veterans.
 
 - Thanks, and lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans who might be interested in participating in future research studies like this as well.
 
