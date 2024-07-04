@@ -130,9 +130,19 @@ Question: How are these locations sorted?
 
 Question: What does "recent locations" mean to you? 
 
+Question: Would there be anything confusing about having your facilities sorted this way? 
+
+Question: Is there any other information you want to see here?
+
+Prompt: Now sort the list by home address
+
+Question: What are your thoughts comparing how this is sorted compared to the recent locations?
+
 Prompt: Select Grove City, OH
 
 **Choose a Provider page** 
+
+Prompt: Sarah is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily in the past on occasion. 
 
 Prompt: Tell me about this page.
 
@@ -140,7 +150,7 @@ Question: Is there any other information that would be helpful here?
 
 Question: How do you feel about this page?
 
-Prompt: Sarah is who you normally see for Nutrition and food she is a registered dietitian. 
+Question: If you wanted to schedule with someone else, what do you think that would do?
 
 **PID page** 
 
@@ -161,8 +171,17 @@ Prompt: You want to schedule for the 7/22 at 12.
 **Finish making the appointment**
 
 Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+**Review screen:**
+
+Question: Is there anything you would like to see here? 
+
+Question:  Is there anything you are confused about?
 
 **Confirmation screen:**
+
+Question: Is there anything you would like to see here? 
+
+Question:  Is there anything you are confused about?
 
 Prompt: Now you would like to go back to see a list of your appointments. How would you do that?
 
@@ -225,6 +244,8 @@ Prompt: Go ahead and finish making the appointment. For the sake of the prototyp
 
 **Confirmation screen:**
 
+Question: What did you think about scheduling from a past appointment?
+
 Prompt: Now, say you want to go back to see a list of your appointments how would you do that?
 
 #### Scenario 2 questions
@@ -245,7 +266,8 @@ Prompt: Now, looking through the scheduling tool is there anything that might be
 
 **Go back to the appointment list** 
 
-Prompt: now you want to go back to your list of appointments, how would you do that?
+Prompt: Now you want to go back to your list of appointments, how would you do that?
+Prompt: Take a look at the top of your screen, can you tell me what you see up there?
 
 ### Scenario 3 questions
 
