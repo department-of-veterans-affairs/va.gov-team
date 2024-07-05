@@ -307,8 +307,8 @@ Participants thought it was helpful to have access to features from the home scr
 
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
 
-     * 5 participants said they wouldn't change anything about the information displayed
-     * 3 participants felt it would be useful to see more information: 
+      * 5 participants said they wouldn't change anything about the information displayed
+      * 3 participants felt it would be useful to see more information: 
        * 1 mentioned tracking information for prescriptions in transit
        * 2 thought reminders that a prescription was about to run out would be useful: 
          >   "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
@@ -317,12 +317,12 @@ Participants thought it was helpful to have access to features from the home scr
 
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Appointments.png" width="300" alt="VA mobile app - personalized home screen, Appointments module">  
 
-     * 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
+      * 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
        * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
          >  "If I don't check weekly, I won't know when the next one is coming up." P2 
        * 1 participant disagreed: 
          >   "I think a month is too much, but two weeks would be better." P16
-       * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
+      * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
 
 *  **Secure message:**  
 
