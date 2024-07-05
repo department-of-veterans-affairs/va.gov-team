@@ -1,4 +1,4 @@
-# VA Mobile team - Sprint accomplishments
+# [Archive] VA Mobile team - Sprint accomplishments
 
 Sprint planning and goals are tracked in [here](https://docs.google.com/presentation/d/1MhoKC0TvIDm2EduL2rjlkwIfSZo9XrbUTnNi5CNYdPY/edit#slide=id.gf176c31818_0_0)
 

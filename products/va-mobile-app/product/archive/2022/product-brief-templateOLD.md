@@ -1,4 +1,4 @@
-# 2022 Product Brief Template
+# [Archive] 2022 Product Brief Template
 
 *This brief is to offer a toolset and format for* 
 - Collecting the information we’d want to have before handing off to implementation team*

@@ -1,28 +1,28 @@
-# Building a VA Flagship Mobile App - Significant Decisions
+# [Archive] Building a VA Flagship Mobile App - Significant Decisions
 
 **Summary:**
 
-- [Decision 1: The VA should build a flagship mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-1-the-va-should-build-a-flagship-mobile-app)
+- [Decision 1: The VA should build a flagship mobile app](./significant%20decisions.md#decision-1-the-va-should-build-a-flagship-mobile-app)
 
-- [Decision 2: A VA mobile app be built using React Native](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-2-a-va-mobile-app-be-built-using-react-native)
+- [Decision 2: A VA mobile app be built using React Native](./significant%20decisions.md#decision-2-a-va-mobile-app-be-built-using-react-native)
 
-- [Decision 3: Initial Feature Set for MVP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-3-initial-feature-set-for-mvp)
+- [Decision 3: Initial Feature Set for MVP](./significant%20decisions.md#decision-3-initial-feature-set-for-mvp)
 
-- [Decision 4: Use SSOe OAuth for authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-4-use-ssoe-oauth-for-authentication)
+- [Decision 4: Use SSOe OAuth for authentication](./significant%20decisions.md#decision-4-use-ssoe-oauth-for-authentication)
 
-- [Decision 5: Build Mobile API inside of vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-5-build-mobile-api-inside-of-vets-api)
+- [Decision 5: Build Mobile API inside of vets-api](./significant%20decisions.md#decision-5-build-mobile-api-inside-of-vets-api)
 
-- [Decision 6: Mobile OS Support: which mobile operating systems will the app run on?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-6-mobile-os-support-which-mobile-operating-systems-will-the-app-run-on)
+- [Decision 6: Mobile OS Support: which mobile operating systems will the app run on?](./significant%20decisions.md#decision-6-mobile-os-support-which-mobile-operating-systems-will-the-app-run-on)
 
-- [Decision 7: Device Testing Matrix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-7-device-testing-matrix)
+- [Decision 7: Device Testing Matrix](./significant%20decisions.md#decision-7-device-testing-matrix)
 
-- [Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed to use the app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-8-only-users-with-logon-credentials-at-level-of-assurace-loa-3-will-be-allowed-to-use-the-app)
+- [Decision 8: Only Users with logon credentials at Level of Assurace (LOA) 3 will be allowed to use the app](./significant%20decisions.md#decision-8-only-users-with-logon-credentials-at-level-of-assurace-loa-3-will-be-allowed-to-use-the-app)
 
-- [Decision 9: Include Secure Messaging for App Store Launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-9-include-secure-messaging-for-app-store-launch)
+- [Decision 9: Include Secure Messaging for App Store Launch](./significant%20decisions.md#decision-9-include-secure-messaging-for-app-store-launch)
 
-- [Decision 10: App Store release to be in May/June](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-10-app-store-release-to-be-in-mayjune)
+- [Decision 10: App Store release to be in May/June](./significant%20decisions.md#decision-10-app-store-release-to-be-in-mayjune)
 
-- [Decision 11: Do we need to conduct load testing?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/significant%20decisions.md#decision-11-do-we-need-to-conduct-load-testing)
+- [Decision 11: Do we need to conduct load testing?](./significant%20decisions.md#decision-11-do-we-need-to-conduct-load-testing)
 
 ## Background
 
@@ -232,7 +232,7 @@ The initial feature set will focus on:
 - Facility Locator
 - Veteran Crisis Line
 - Appointments
-- Secure Messaging- see MVP feature set [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/secure-messaging/SM%20Mobile%20MVP%20Feature%20Recommendations.pdf)
+- Secure Messaging- see MVP feature set [here](./secure-messaging/SM%20Mobile%20MVP%20Feature%20Recommendations.pdf)
 ### Document the people who agreed to the design decision
 
 -   Charles Worthington
