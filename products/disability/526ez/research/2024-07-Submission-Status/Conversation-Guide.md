@@ -1,5 +1,5 @@
 
-# Conversation Guide for for Disability Beneftis Experience Team 1, “526 Submission Status Evaluative Research," July 2024
+# Conversation Guide: “526 Submission Status Evaluative Research” for Disability Experience Team, July 2024
 
 ## Moderator logistics
 
@@ -30,38 +30,23 @@
 -   When the participant is ready, begin the session with the following intro*
     
 
-## Overview
-
--   Warm-up questions
-    
--   Task 1: Happy path scenario
-    
--   Task 2: Backup path scenario
-    
--   Task 3: Evidence failure scenario
-    
--   Wrap-up questions
-    
-
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Evelyn and [NOTETAKER] is taking notes.
+Thanks for joining us today! My name is Evelyn and [NOTETAKER] is taking notes. I work at VA.gov to help improve access to benefits and services for Veterans like you. This work is meaningful to me because I believe that those who have served have a right to these services.
 
-My colleagues and I work on VA.gov - making improvements to the site so that Veterans can submit claims and get benefits as quickly as possible. By talking to Veterans like you, we hope to better understand how we can help Veterans submit a strong claim.
+Before we start, I’d like to give you an overview of what to expect from our time together.
 
-Today, we're going to be looking at the experience of submitting and tracking an online disability claim. You’ll be interacting with a prototype, which is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it’s a demo, none of your actions will affect your VA information or benefits.
+This entire session should take about 60 minutes. We will focus on the experience of submitting a disability claim on VA.gov. The session will begin with some context-setting questions. Then, we’ll look at three submission possibilities and conclude with reflection questions. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-What I don’t want to do is add to any frustration you may have had with getting benefits. We may look at things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation. However, I do want to hear about your frustrations with the website in case they are with things that we can improve on in the future.
+My goal today is to learn how easy or difficult it is for you to use a digital experience we have created in order for us to improve it. ​​In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you express.
 
-Before we start, I have a few things that I want to go over with you:
+We may look at things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation. However, I do want to hear about your frustrations with the website in case they are with things that we can improve on in the future.
 
-This entire session should take about 60 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+That was a lot of information. Are you comfortable proceeding with the agenda I’ve proposed for today’s session?
 
-In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won’t be offended by any opinions you express.
+Feel free to ask any questions you may have throughout the session. If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
 
-Feel free to ask any questions you may have at any point, but just know ahead of time that I may not be able to answer them until the end of the session.
-
-If for any reason and at any time you want to stop the session, please let me know. You'll be compensated no matter how much of the session we complete.
+  
 
 Perigean did ask for your consent to allow some other folks to listen in, but I want to be sure before we get going. Are you okay with a couple of additional people listening in during this session?
 
@@ -69,15 +54,16 @@ Perigean did ask for your consent to allow some other folks to listen in, but I 
     
 -   If yes: Admit observers.
     
--   Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
+-   Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
     
--   Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-      
+
+  
 
 Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
 
 -   If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
     
+
 Start recording.
 
 -   I have started recording. I’d like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
@@ -89,103 +75,147 @@ Start recording.
 
 Before we look at the website, let’s talk a bit about your experience filing for benefits w/ the VA.
 
-When did you last complete and  submit a claim on VA.gov using the online form?
- - Do you have any claims that are still open?
+-   When did you last file a claim on VA.gov?
     
-Do you keep a record of the claims you’ve filed in the past? If so, how?   
- - Is there somewhere you go online that you trust has the most up-to-date information about your claim?
-    
-Have you ever had to resubmit a claim or any other information on VA.gov? What was that process like for you?
 
+	-   Do you have any claims that are still open?
+    
+
+  
+
+-   Do you keep a record of the claims you’ve filed in the past? If so, how?
+    
+
+	-   Is there somewhere you go online that you trust has the most up-to-date information about your claim?
+    
+
+  
+
+-   If a Veteran friend asked you to explain the submission process based on what you’ve experienced in the past, what would you tell them?
+    
+
+	-   Do you remember how you got information about your submission status in the days after filing?
+	-   Have you ever had to resubmit a claim or any other information on VA.gov? What was that process like for you?
+    
+
+  
 
 ## Technology screenshare set-up - 5 minutes
 
+Thanks for sharing your experience with me. We’re going to shift gears and move into looking at the submission designs.
+
+You’ll be interacting with a prototype, which is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it’s a demo, none of your actions will affect your VA information or benefits.
+
+I am going to drop a link to the prototype in the Zoom chat. When you receive the link, please open the page.
+
+[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1)
+
+Next, I’d like you to share your screen for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot!
+
+[Troubleshooting guide for mobile [https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions]
+
+General troubleshooting: [https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) ]
+
+  
 
 ## First Task: [Happy Path scenario] - 15 minutes
 
-  
-[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1)
-
-For our first scenario today, you will be submitting a disability claim for tinnitus. Imagine you’ve made it all the way to the end of the application on VA.gov. As a note, this imaginary event is going to take place over a number of days, so be prepared for a couple of jumps in time!
-  
+For our first scenario today, you will be submitting a disability claim for tinnitus as a Veteran named Hector. Imagine you’ve made it all the way to the end of the application on VA.gov. As a note, this imaginary event is going to take place over a number of days, so be prepared for a couple of jumps in time!
 
 **[Review and submit page]**
 
 For our purposes, imagine that you have already reviewed your information. Please go ahead and submit the application when you are ready.
+
+**[Animated loading indicator – 10 second animation then freezes]**
+
+-   What do you think is happening to your submission right now?
+    
+	-   What do you expect will happen next?
+    
+
   
-
-**[Animated loading indicator]**
-
- - What do you think is happening on this screen?
- - How long would you expect to spend on this screen?
-	 - What would you do if it took longer?
-      
-- What do you expect will happen next?
-      
 
 **[Confirmation page]**
 
 Take a moment to review this page before we discuss it. Do your best to think aloud as you go.
 
-What do you think is the purpose of this page?
-
- - Does this page match your expectations for what would happen next?
+-   Based on this page, what do you think is happening to the claim you just submitted?
     
-Based on this information, can you tell me what you think is happening to the claim you just submitted?
- -  What does “date initiated” or “in progress” mean to you?
-       
-       - Did any information stand out to you as especially clear and useful?
-       
-       - Did any information stand out as confusing?
 
-Is there anywhere else on VA.gov that you would expect to find information about your submissions status?
-
-- What do you think will happen next with your claim submission?
-       
-  - How soon would you expect to receive an email from VA?
-
- 
-[Direct toward claim record] Is there anything else you would like to do on this page? 
- - If you had to save this page, how would you do it?
- - What information would you expect to see if you pressed that button [print record].
-      
-  -   Is there any information you would want to save for your personal records that is missing from this page?
-  -   If a full pdf of your claim was available for download on VA.gov, what would you do? 
-
-What are you most likely to do next, now that you’ve reviewed this page?
-
-Thanks so much! Later I’m going to refer to this page as the “confirmation page.” There’s no pressure to keep it in your mind– just know we’ll referring back to it.
+	-   What do you suppose “date initiated” means?
+	-   What do you expect will happen next?
+    
 
   
-**[Claim initiated email]**
+
+-   Inside the blue box is something called a claim ID. What do you suppose a claim ID might be?
+    
+
+	-   Would you expect to use the number for something? If so, how would you use it?
+    
+
+  
+
+-   Would you want to save this page? If so, why?
+    
+
+	-   Is there any claim information that is missing from this page that you would like to save?    
+	-   Would you be interested in downloading a full copy of your claim from VA.gov at a later date?
+-   Did any information on this page stand out to you as especially helpful or confusing?
+    
+
+  
+
+-   Are there any actions left for you to take?
+    
+
+  
+
+Thanks so much! Later I’m going to refer to this page as the “confirmation page.” There’s no pressure to keep it in your mind– just know we’ll refer back to it.
+
+  
+
+**[ Claim initiated email]**
 
 Now, imagine ten minutes later you check your email and this message is waiting for you in your inbox.
 
- - What do you think is the purpose of this email?
- - Has the status of your submission changed? How do you know?
- - What are you most likely to do or expect next, now that you’ve received this email?
- -  Are there any actions left for you to take?
-     
+-   What do you think is the purpose of this email?
+    
+	-   What do you suppose will happen next?
+    
 
-**[Claim received email]**
+-   Are there any actions left for you to take?
+    
+
+  
+**
+[Claim received email]**
 
 Now, imagine three days have passed. You check your email and find the following message in your inbox.
 
- - What do you think is the purpose of this email?
+-   What do you think is the purpose of this email?
+    -   What do you suppose is happening with your submission?
+    -   What do you think will happen next?
     
- - Has the status of your submission changed? How do you know?
-    
- - What do you think would happen if you clicked on the link to the Claim Status Tool?
-	 - Would you expect to see your claim in the Claim Status Tool?   
-	 - How would you respond if it wasn’t there?
 
-- What are you most likely to do next, now that you’ve received this email?
-    -   Are there any actions left for you to take? 
+  
+
+-   Would you want to check the status of your claim? If so, how would you do it?
+    -   What information would you expect to find if you were to check?
+    -   [After clicking on link] How does the information on this page compare to what you have already learned about your submission?
+    -   Is there anywhere else online that you would expect to find up-to-date information about your claim?
+    
+
+  
+
+-   Are there any actions left for you to take on your claim submission?
+    
 
 ### Reflection
 
--  On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?   
--  On a scale of 1 to 5, how confident are you that your claim is ready for review?
+On a scale of 1 to 5, how clear to you was the status of your submission throughout the scenario?
+    
+On a scale of 1 to 5, how confident are you that your claim was submitted and ready for initial review?
     
 
   
@@ -194,87 +224,114 @@ Now, imagine three days have passed. You check your email and find the following
 
 ## Second Task: [Backup Path scenario] - 10 minutes
 
+  
 
 [Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5626%3A129875&show-proto-sidebar=1)
 
   
 
-Thanks for your feedback. For this scenario, let’s again imagine that you submitted a new disability claim for tinnitus one week ago. As you can currently see on the screen, you have one email confirmation in your inbox from 7 days ago [show first email on prototype but without claim ID]
+Thanks for your feedback. For this scenario, let’s again imagine that you submitted a new disability claim for tinnitus one week ago. As you can currently see on the screen, you have one email confirmation in your inbox from 7 days ago.
+
+  
 
 Take a moment to review the email you received last week, then I’ll ask you a couple of questions.
 
--   Based on the information you’ve received, what do you think is the status of your submission?
-	-   [If delay is mentioned] How would you feel if you didn’t receive the email when you expected it?
-    -   What are you most likely to do next?
+-   What do you think is happening with your submission right now?
     
--   Is there anywhere else on VA.gov that you would expect to find information about your submissions status? 
-	-   [If chooses action] How would you approach getting a status update?
+	-   [If delay is mentioned] How would you feel if you didn’t receive the email when you expected it?
+    
+
+  
+
+-   Are there any actions left for you to take?
     
 
   
 
 **[Claim received email]**
 
-Later that day, you check your email and find the following message in your inbox.
+Later today, you check your email and find the following message in your inbox.
 
--   What do you think is the purpose of this email?
--   What do you think is the status of your submission?
--   What are you most likely to do or expect next, now that you’ve received this email?
--   Are there any actions left for you to take?
+-   According to this email, what’s the status of your submission?
+    
+
+	-   What do you expect will happen next to your submission?
+    
+
+  -   Are there any actions left for you to take on your claim submission?
     
 
 ### Reflection
 
--   On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
--   On a scale of 1 to 5, how confident are you that your claim is ready for review?
+ On a scale of 1 to 5, how clear to you was the status of your submission throughout the scenario?
+    
+ On a scale of 1 to 5, how confident are you that your claim was submitted and ready for initial review?
     
 
 ----------
 
 ## Third Task: [Evidence Failure scenario] - 10 minutes
+
 [Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5966%3A58868&show-proto-sidebar=1)
 
 Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim for tinnitus.
 
-Two days ago, you submitted your claim on VA.gov and received a confirmation email, which you are currently looking at in your inbox. **You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.**
+Two days ago, you submitted your claim on VA.gov and received a confirmation email, which you are currently looking at in your inbox. You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.
 
 **[Evidence failure email]**
+
 Take a moment to review this page before we discuss it. Do your best to think aloud as you go.
 
 -   What do you think is the purpose of this email?
+	-   What do you suppose is happening with your submission?
     
--   Based on this information, what do you think is happening to the claim you submitted?    
-	-   What are you most likely to do next?   
-
--   Walk me through how you would approach completing this task.
-	   -   Do you have all the information you need to complete this task?
-    -   Are there any barriers that would make it difficult to complete the task?
+-   What are you most likely to do next?
+    -   Do you have all the information you need to complete this task? 
+	-   Are there any barriers that would make it difficult to complete the task?
+	-   Is there anywhere on VA.gov that you would expect to find information about your submissions status?
+  
+-   What do you think will happen next with your claim submission?
+    -   Would you expect to hear from VA?
+    -   What will you do if you don't receive an update from VA?
     
--   Is there anywhere else on VA.gov that you would expect to find information about your submissions status?
-    
-  -   What do you think will happen next with your claim submission?
-	    -   When do you expect to hear an update from VA next?
-		-   What will you do if you receive no update from VA?
+-   Are there any actions left for you to take?
     
 
 ### Reflection on scenario
 
--   On a scale of 1 to 5, how easy was it to understand and track your claim’s submission status?
--  On a scale of 1 to 5, how confident are you that your claim is fully submitted?
+- On a scale of 1 to 5, how clear to you was the status of your submission throughout the scenario?
+    
+-  On a scale of 1 to 5, how confident are you that your claim was submitted and ready for initial review?
     
 
 ----------
 
 ## Wrap-up Questions
 
--   If a Veteran friend asked you about the experience submitting a claim on VA.gov, what would you tell them, based on today’s session?
-	-   Was there anything hard or confusing that you would want to warn them about?
+-   If a Veteran friend asked you to explain the submission process based on what you experienced today, what would you tell them?
     
--   If you had a magic wand, what is one thing you would do to improve the our submission process?
+
+  
+
+-   If you had a magic wand, what is one thing you’d make better about the submission process?
     
--   We'd like to learn about ways that VA.gov grows or loses trust of Veterans. Could you tell us about a time when VA earned or lost some of your trust specifically through our website or app?
+
+  
+
+-   We looked at several messages today. Beyond email, is there any other way you would prefer to receive these messages? (Text, app, etc)
     
--   Any questions for me?
+
+  
+
+-   [ Ask if appropriate and time allows] We'd like to learn about ways that VA.gov grows or loses trust of Veterans. Could you tell us about a time when VA earned or lost some of your trust specifically through our website or app?
+    
+
+	-   Did the submission process we looked at today earn or lose your trust?
+    
+
+  
+
+-   Any questions from me?
     
 
   
@@ -290,7 +347,7 @@ Take a moment to review this page before we discuss it. Do your best to think al
 -   If yes: Is there any part of our discussion you would NOT want shared in a video clip?
     
 
-## Thank-You and Closing 
+## Thank-You and Closing - X minutes
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -301,3 +358,5 @@ Thank you so much again, and enjoy the rest of your day!
 ## Emergency Exit
 
 [In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so it's easy to find during a session. Take some time to practice so it feels more comfortable.]
+
+  
