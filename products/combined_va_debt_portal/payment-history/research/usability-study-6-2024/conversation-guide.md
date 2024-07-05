@@ -95,7 +95,7 @@ Prototype Link:
     
   **Success criteria:**
     
- - [ ] Chapter 33 education debt (pass)
+ - [ ] Chapter 33 education housing debt (pass)
 
 
  - [ ] They notice the only with further prompting (partial pass)
@@ -117,7 +117,7 @@ Prototype Link:
 -   Any information missing that you’d like to see?
     
 
--   Let's say you received an email notifying you that the Chapter 33 education debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
+-   Let's say you received an email notifying you that the Chapter 33 education housing debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
 
     **Success criteria:**
     
