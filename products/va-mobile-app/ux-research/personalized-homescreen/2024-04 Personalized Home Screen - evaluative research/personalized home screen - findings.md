@@ -252,7 +252,7 @@ The home screen contains two primary sections, the Activity section (containing 
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity.png" width="300" alt="VA mobile app - personalized home screen, Activity section"> 
 
- **Activity section - Mental model:**  
+##### Activity section - Mental model:
 * All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
 
 * When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
@@ -275,7 +275,7 @@ The home screen contains two primary sections, the Activity section (containing 
 
     *_Participants who mentioned these existing features did not have them displayed as active modules on home during the session._
  
-**Activity section - Value of module & description data:** 
+##### Activity section - Value of module & description data:
 
 Participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful. Some had suggestions about what it could say instead of/in addition to the information displayed in the description text. Below are the responses, divided by feature module:
 
@@ -331,7 +331,7 @@ Participants thought it was helpful to have access to features from the home scr
       Only 1 participant experienced seeing this module and said it was "just the right amount" of information. 
 
 
-**About you section: Branch of service and Veteran status module**   
+##### About you section: Branch of service and Veteran status module:
 
    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-PVS.png" width="300" alt="VA mobile app - personalized home screen, Branch of Service and Proof of Veteran Status module">  
 
@@ -344,7 +344,7 @@ Participants thought it was helpful to have access to features from the home scr
   The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
 
 
-**About you section: Value of module & data:**  
+##### Branch of service and Veteran status module: Value of module & data:  
 
   6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
 
@@ -357,14 +357,14 @@ Participants thought it was helpful to have access to features from the home scr
   * 2 participants felt that the proof of Veteran status card contained too much personal information
      > “Disability rating and DoB don't need to be there. I don't want them to know I'm 100% connected.” P12
 
-**About you section: Disability rating and monthly compensation** 
+##### About you section: Disability rating and monthly compensation: 
 
    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-Rating-Compensation.png" width="300" alt="VA mobile app - personalized home screen, Disability rating and monthly compensation module">  
 
   13/13 participants had Disability rating and monthly compensation modules on their home screen.
 
 
-**About you section: Value of module & data:**  
+##### Disability rating and monthly compensation: Value of module & data:  
 
   7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
 
