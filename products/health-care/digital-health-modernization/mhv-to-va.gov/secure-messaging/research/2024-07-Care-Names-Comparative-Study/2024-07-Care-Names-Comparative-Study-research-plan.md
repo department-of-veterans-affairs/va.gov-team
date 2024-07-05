@@ -109,8 +109,11 @@ Please exclude mobile users. Please exclude all assistive technology users as we
 Cohorts should vary by VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. 
 
 - Cohort 1: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+  
 - Cohort 2: Georgia, Alabama, or South Carolina
+  
 - Cohort 3: South Dakota, Iowa, or Minnesota
+  
 - Cohort 4: New York
 - Cohort 5: Florida
 - Cohort 6: Oregon, Washington, Alaska or Idaho
