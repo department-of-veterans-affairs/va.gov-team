@@ -304,7 +304,7 @@ Participants thought it was helpful to have access to features from the home scr
         > "I don't want to say that it [1 active] doesn't help me, but it doesn't help me." P2
 
 * **Prescriptions**:
-    
+
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
 
       * 5 participants said they wouldn't change anything about the information displayed
