@@ -15,19 +15,26 @@ Teams must formally request a redirect before implementation so they can be vett
 
 #### H3: When to use a redirect
 
-If you're making a change that impacts the availability of a page at a specific URL on VA.gov, you must redirect the old URL to a new URL to ensure visitors do not receive a 404 (page not found) error.
+If you're making a change that impacts the availability of a page at a specific URL on VA.gov, you should redirect the old URL to an alternative URL that has at least some equivalent content, to avoid rendering a 404 (page not found) error.
 
 Examples of these changes are:
 
--   Taking a page down permanently or temporarily
+-   Taking a page down 
 
--   Merging or dividing pages
+-   Making changes that result in merging 1 or more pages
 
--   Modifying the context of a page that results in a need to change keywords used in  the H1 and URL
+-   Modifying the context of a page that results in a need to change keywords used in the H1 and URL
 
 -   Moving a page to a new home in the Information Architecture of the site
 
 -   Making any of the above changes to a parent page will result in similar changes for all its child pages
+
+#### H3: When not to use a redirect
+
+- If the change is temporary, use a temporary redirect instead of a permanent redirect.  Redirects default to a permanent 301 code, which tells search engines that the page is permanently gone and to remove it from their index and transfer all search value to the new URL. A temporary redirect is useful for situations where the URL will likely be brought back, such as downtime due to program pauses or maintenance, or the URL may be repurposed in the future, such as an annual campaign.
+- To claim incorrect URLs that are being accessed for a page.  Site visitors can sometimes enter incorrect URLs to try and access a page. We cannot claim every possibly URL variation of every page. Instead, we should work to determine if there is a source to an invalid URL being used, such as a miscommunication or incorrect link.
+- For pages that do not live under the va.gov domain.  If the URL of a page does not contain "va.gov", we do not own the page and therefore cannot redirect it. For example, we cannot redirect a page that lives at "www.example.gov/va" or "va.example.gov", but we could redirect a page at "example.va.gov" or "www.va.gov/example".
+- If a page is permanently removed and there's not a different page that has equivalent content - such as the ending of a program or service - it is ok to serve up a 404 (page not found) error.  
 
 #### H#:  Redirect standards and guidance
 
