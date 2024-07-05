@@ -16,10 +16,10 @@ A user can view their appointments (upcoming, pending, canceled or past), book a
 
 ## Problem
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - We would need to support the sites that have the Oracle Health system. The VA.gov Appointments tool does online shceduling for Vista system and HSRM for Community Care requests. This addition would be benefecial for Veterans who are registered at a Oracle Health site and would have the ability to use the new MHV on VA.gov application.  
+  - We would need to support the sites that have the Oracle Health system. The VA.gov Appointments tool supports online shceduling for Vista system and HSRM for Community Care requests. This addition would be benefecial for Veterans who are registered at a Oracle Health site and would have the ability to use the new MHV on VA.gov Appointments application.  
   
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - Trying to unify the online scheduling for a Veteran. Some Veterans use the legacy MHV portal to manage their appointments at Vista sites and others may use legacy My VA Health tool for their Oracle Health appointments. The proposed changes will give the user to schedule an appointment at either site (Vista/Oracle Health) as long as they meet the eligibility requirements. 
+  - Trying to unify the online scheduling experience for a Veteran. Some Veterans use the classic MHV portal to manage their appointments at Vista sites and others may use legacy My VA Health tool for their Oracle Health appointments. The proposed changes will give the user to schedule an appointment at either site (Vista/Oracle Health) as long as they meet the eligibility requirements. 
     
 * How does this initiative help further OCTO-DE's mission and goals?
   - Meet user expectations of available online transactions
@@ -41,7 +41,6 @@ A user can view their appointments (upcoming, pending, canceled or past), book a
 
 ## Undesired Outcomes
 - A Veteran cannot use the Appointments tool on VA.gov
-
 
 ## Key Decisions
 
@@ -127,9 +126,7 @@ We won't be surfacing provider availability in a way that lets Veterans compare 
 - Success will be measured by the increased number of veterans using VAOS instead of MHV
 - Will look at these specific measurements:
   - Number of unique users of VAOS
-  - Number of pageviews of appointment list page
-  - No increase in average response time of appointment list page
-  - Decrease in the number of errors when fetching appointment data (desired)
+  - Number of appointment at an Oracle Health site
 
 ### Key Performance Indicators (KPIs)
 
@@ -170,11 +167,11 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
   - Examples: VA stakeholder testing, marketing, compliance requirements 
 
 ### Prioritization
-1. 
+1. Medication Instructions - Appointment Details 
+2. Community Care Direct Scheduling 
 
 ### Solution Summary
-- Date and time change only
-
+- A user can schedule and/or submit a request for an appointment at an Oracle site. 
 
 --- 
 
@@ -186,21 +183,19 @@ Increase satisfaction rating | Baseline | Target | Link to data source (e.g. GA,
 
 ### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-1. 
-
-2. VAOS team investigating the use of an online, one time notice that would appear to veterans when navigating to VAOS landing page
+- Discuss the release plan and coordinate the release tasks with OCTO, business stakeholders and EHRM team
 
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+> December 2024
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - December 2024
 - *Actual Launch Date* 
-  - tbd
+  - TBD
 
 ---
    
@@ -233,10 +228,10 @@ Current State: [User Flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/U
 
 <details>
  
-- DEPO Lead: [Katherine Lawyer]()
+- DEPO Lead: [Katherine Lawyer](https://dsva.slack.com/team/U7T6EKTK9), [Kristen McConnell](https://dsva.slack.com/team/U0158T9DJCA)
 - PM: [Leah De La Costa](https://dsva.slack.com/team/U02F00JPL79) and [Jeff Roof](https://dsva.slack.com/archives/D02UD9VS3JP)
-- Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2), [Ryan Shaw](), 
-- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Melissa Leferve]() 
+- Engineering: [Simi Adebowale](https://dsva.slack.com/archives/D037VNB23T2), [Ryan Shaw](https://dsva.slack.com/team/U03BLQPF9KK), 
+- Research/Design:[Peter Russo](https://dsva.slack.com/team/U01C2UUHXH9) and [Melissa Leferve](https://dsva.slack.com/team/U01Q4GJNHHT) 
  
 </details>
 
@@ -246,8 +241,8 @@ Current State: [User Flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/U
 
 <details>
   
-- Office/Department:
-- Contact(s): Kay Lawyer (OCC)
+- Office/Department: 
+- Contact(s): 
  
 </details>
 
