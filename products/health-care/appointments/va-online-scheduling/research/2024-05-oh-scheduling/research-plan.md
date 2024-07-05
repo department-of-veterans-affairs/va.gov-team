@@ -72,21 +72,23 @@ After this research is complete, we will:
 ### Research questions
 
 Oracle Health scheduling:
-- What are Veterans' preferences regarding choosing providers?
+- What information do Veterans' want when deciding between providers?
+- Is it clear that these are providers they've seen before?
 - What are their expectations around requesting an appointment with a different provider?
 
 Immediate care alerts:
-- Do Veterans find the warnings about urgent medical needs necessary, helpful, and timely?
 - Is it clear to Veterans that the tool is not for urgent medical needs?
+- Do Veterans find the warnings about urgent medical needs necessary, helpful, and timely, or frustrating and unnecessary?
 - Is having the "I need immediate care" option helpful?
 
 Quickly schedule based on previous appointments:
 - Does scheduling from previous appointments make the scheduling process faster and easier for Veterans?
-- Does scheduling from previous appointments add value for Veterans?
+- Does scheduling from previous appointments add other value for Veterans?
 
 Recent locations:
-- Does the "Sort by Recent locations" feature make scheduling easier for Veterans?
-- Does the "Sort by Recent locations" add value?
+- Is it clear that the list is sorted by locations they've visited recently?
+- Does the "Sort by recent locations" feature make scheduling easier for Veterans?
+- Does the "Sort by recent locations" add value?
 
 Notifications:
 - Do Veterans notice the notification bell when it becomes active?

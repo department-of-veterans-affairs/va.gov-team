@@ -171,38 +171,28 @@ Prompt: You want to schedule for the 7/22 at 12.
 **Finish making the appointment**
 
 Prompt: Go ahead and finish making the appointment. For the sake of the prototype, the fields are pre-filled out for you. Still think out loud as you go. 
+
 **Review screen:**
 
-Question: Is there anything you would like to see here? 
+Question: Is there anything else you would like to see here? 
 
-Question:  Is there anything you are confused about?
+Question:  Is anything confusing here?
 
 **Confirmation screen:**
 
-Question: Is there anything you would like to see here? 
+Question: Is there anything else you would like to see here? 
 
-Question:  Is there anything you are confused about?
+Question:  Is anything confusing here?
 
 Prompt: Now you would like to go back to see a list of your appointments. How would you do that?
 
-<<<<<<< HEAD
-### Scenario 1 Questions:
-=======
 #### Things to watch for:
-- First time using the tool, they will get a "do you need immediate care" alert. What are thier interactions with the alert, any thoughts?
+- First time using the tool, they will get a "do you need immediate care" alert. What are their interactions with the alert, any thoughts?
 - Sorting their facilities by Recent locations, what are their thoughts and reactions?
 - Choose a provider page thoughts and comments 
 - Patient Indicated Date page improvements thoughts?
 - Can participant understand the information on the details page? Do they mentions anything about the Building numner or Clinic name?
->>>>>>> 00301c45e1e36ffa4f794d5d229823863674722b
 
-<<<<<<< HEAD
-Question: Of everything you just saw, what was the most helpful?
-
-Question: What was the most confusing?
-
-=======
->>>>>>> 00301c45e1e36ffa4f794d5d229823863674722b
 ## 2: Type of Care - Physical Therapy
 Path they will take: 
 1. Start scheduling 
@@ -215,8 +205,7 @@ Path they will take:
 
 **Schedule an appointment** 
 
-Prompt: You have been doing physical therapy once a every few weeks and you need to schedule your next Physical Therapy appointment. Show me how you would do that.
-
+Prompt: You have been doing physical therapy once a every few weeks and you need to schedule your next Physical Therapy appointment. Show me how you would do that
 
 (NOTE: Do they prefer an express option, or the alternate?)
 
@@ -278,19 +267,24 @@ Question: How clear was it that this tool is not for urgent medical needs? Anyth
 
 Path they will take: They arrive on this page after the “I need immediate care” flow.
 
-Prompt: Now that you are back on the appointment list screen, do you notice anything different?
+Prompt: Now that you are back on the appointment list screen, do you notice anything different here?
 
+Prompt: (If they don't notice the bell) Tell me about the options at the very top of the screen.
+- When they talk about the bell, ask them what they think it's for, and prompt them to click it if needed.
 
+**Notifications page**
+
+Prompt: Tell me about this page.
+
+Prompt: Tell me about each of the notifications on this page.
+
+Prompt: (If needed) I'm interested to hear what you think they're for, and where the link on each one might take you.
 
 ### Scenario 4 Questions
 
 Question: Of everything you just saw, what was the most helpful?
 
 Question: What was the most confusing?
-
-
-
-
 
 
 ## Post-Task Interview
