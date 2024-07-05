@@ -393,13 +393,13 @@ Task prompt: Find out if you have received a message from your doctor.
   Task prompt: Check whether you have any prescriptions that need to be refilled.
       * All of the 8 participants who had prescriptions as their task expected to tap the home screen entry point & see their prescriptions (and successfully used this method to begin the task).
       * 5/8 participants expected the prescriptions list to show ONLY the refillable prescriptions, not all of them (the module linked to the full active prescriptions list): 
-        > "the active prescriptions... that ended up being misleading. like at first I would have said, 'Oh, that's great! I can see how many prescriptions I have going.' But once I clicked on it, then I was confused and didn't understand what it was even referring to for active prescriptions." P4
+     > "the active prescriptions... that ended up being misleading. like at first I would have said, 'Oh, that's great! I can see how many prescriptions I have going.' But once I clicked on it, then I was confused and didn't understand what it was even referring to for active prescriptions." P4
 
-        > "Home said 11, but then I just see all of them so I don't know which ones I should refill." P5
+     > "Home said 11, but then I just see all of them so I don't know which ones I should refill." P5
 
-        > "UGHHHHH. This is the issue right? I've got discontinued prescriptions here which are no longer active. I was expecting to see the ones that are ready for refill not ALL the prescriptions" P12
+     > "UGHHHHH. This is the issue right? I've got discontinued prescriptions here which are no longer active. I was expecting to see the ones that are ready for refill not ALL the prescriptions" P12
 
-        > "Is it 9 that I need to refill or does this include the as-needed ones that I may not need to refill?" P1
+     > "Is it 9 that I need to refill or does this include the as-needed ones that I may not need to refill?" P1
       * 1 participant who used the homescreen entry point to begin the task then successfully refilled their prescriptions! (actually completing the task was not part of the scope of this study)
 
 * **Claims** (10 participants):
