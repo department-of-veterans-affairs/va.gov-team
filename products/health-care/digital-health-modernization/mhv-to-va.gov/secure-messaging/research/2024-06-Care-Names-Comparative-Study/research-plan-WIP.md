@@ -96,11 +96,11 @@ Cohort 9: Location (n=9)
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
 
 ## Recruitment criteria
-This study will consist of 9 cohorts of 9 Veterans per cohort. Recruitment will be ongoing until all cohorts are filled. 
+This study will consist of 9 cohorts of 9 Veterans per cohort; total sample size = 81. Recruitment will be ongoing until all cohorts are filled. 
 
 Please exclude mobile users. Please exclude all assistive technology users as we cannot accommodate them in this study. 
 
-Participants in each cohort should be from a different VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. Please draw from addresses on file to identify Veterans - no need to confirm in screening question. 
+Cohorts should vary by VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. 
 
 - Cohort 1: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
 - Cohort 2: Georgia, Alabama, or South Carolina
@@ -307,7 +307,12 @@ Team Availability | Time Slots (ET)
 NA
 
 ### KO with Perigean
-Not sure would need KO per se, but would definitely like to confirm I've communicated my recruitment needs effectively. 
+Week of July 8th. Availability for any of the following time slots: 
+- July 8th: 1 pm - 5 pm ET
+- July 9th: 10 am - 12 pm ET; 2-3 pm ET
+- July 10th: 12-12:30 pm ET; 1-2 pm ET
+- July 11th: 3:30 pm - 5 pm ET
+- July 12th: 1 pm ET - 2:30pm ET; 3:30 ET - 5 pm ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
