@@ -200,7 +200,7 @@ For moderated usability tests:
 
 -   [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/usability-study-6-2024/conversation-guide.md))
     
--   [Link to prototype IN PROGRESS](url goes here)
+-   [Link to prototype]([url goes here](https://codepen.io/team/Debt-Team/live/rNgqxLY))
     
 
 ## Recruitment
