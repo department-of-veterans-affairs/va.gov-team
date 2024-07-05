@@ -235,7 +235,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |    o       | 
+|***ASSISTIVE TECH***                                         |    0       | 
 |*Various*                                                    |            |
 |Font resizing/larger                                         |            |
 |Screen reader                                                |            |
