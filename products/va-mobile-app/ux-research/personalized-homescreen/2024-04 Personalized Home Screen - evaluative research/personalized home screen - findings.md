@@ -136,7 +136,7 @@ Because of the potential variability of the modules within the Activity section,
 
 2. Participants will be able to imagine and describe how the app will help them with the tasks they currently use in the app and in their life.
 
-    **True.** When prompted, all participants were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
+    **True.** When prompted, all participants were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task.
 
 3. Participants will understand that the personalized home screen modules contain high-level data from their in-flight tasks, and may describe it as being helpful in keeping up with their tasks.
 
@@ -162,11 +162,11 @@ Because of the potential variability of the modules within the Activity section,
 
 
 ## Key Findings
-1. Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what they could use the app to do and were able to describe a specific situation in their life where they imagined they could use the VA mobile app home screen to help them.
+1. Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what they could use the app to do and were able to describe a  situation in their life where they imagined they could use the VA mobile app home screen to help them.
 
 2. All participants recognized that the Activity modules on the home screen displayed their personalized information and seemed to understand that the description text on each module indicated that something that was “in-flight,” however, not all participants described the presence of the Activity module itself as indicating that something was an “in-flight task.”
 
-3. Participants thought it was helpful to have access to features from the home screen and successfully used them as the entry point for beginning tasks. Participants said the data in the Activity modules was mostly helpful, but some participants had some suggestions on how to make the description text for Claims, Prescriptions, and Appointments more useful.
+3. Participants successfully used the homescreen as the starting point for tasks and found it helpful to have direct access to the features. Participants said the data in the Activity modules was mostly helpful, but some participants had some suggestions on how to make the description text for Claims, Prescriptions, and Appointments more useful.
 
 4. All participants were expected to have a Proof of Veteran status link on the homescreen, but 5/13 did not. Analytics quickly put in place during the research facilitation weeks confirmed that this issue is occurring approximately 21% of the time, and an engineering investigation discovered that the “module but no link” state is due to an issue with the available backend data. 
 
