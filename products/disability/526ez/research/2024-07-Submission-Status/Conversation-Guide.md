@@ -188,8 +188,7 @@ Now, imagine ten minutes later you check your email and this message is waiting 
     
 
   
-**
-[Claim received email]**
+**[Claim received email]**
 
 Now, imagine three days have passed. You check your email and find the following message in your inbox.
 
