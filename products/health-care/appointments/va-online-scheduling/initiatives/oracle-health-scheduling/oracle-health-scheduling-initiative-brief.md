@@ -212,6 +212,7 @@ Current State: [User Flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/U
 
 ### After
 [Prototype](https://www.figma.com/proto/EHR9zBpGnAgc7bHqeIGEoT/OH-Direct-Schedule-MVP-%7C-Appointments-FE?page-id=2980%3A18211&node-id=5018-14001&viewport=141%2C520%2C0.09&t=A1g7AfrJ53fwRQq0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5018%3A14001)
+
 [User Flow](https://www.figma.com/design/EHR9zBpGnAgc7bHqeIGEoT/OH-Direct-Schedule-MVP-%7C-Appointments-FE?node-id=2980-18211&t=q0HBrXDBPUC5m8Mn-1)
 
 ---
