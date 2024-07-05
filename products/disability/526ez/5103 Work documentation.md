@@ -3,6 +3,7 @@
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82160)
 [Collab Cycle Milestone Tickets
 ](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1295)
+
 [Figma File
 ](https://www.figma.com/design/igOOQi5BOTgQQJYA9X2G3M/5103-equivalent-language?node-id=5648-4028&t=QtR7M1gOAuXcQiFj-1)
 
