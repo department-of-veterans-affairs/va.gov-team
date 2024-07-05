@@ -1,4 +1,4 @@
-# Research Plan for Secure Messaging team, June 2024
+# Research Plan for Secure Messaging team, July 2024
 
 ## Background
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) is being moved to VA.gov. MHV provides Veterans with the ability to securely message and access previous messages with their healthcare teams. 
@@ -62,11 +62,30 @@ This unmoderated study will consist of participants completing two tasks with di
 Data collection will be remote and conducted using Optimal Workshop's Chalkmark: First-click testing tool. 
 
 ### Research materials
-[Images to be tested](link)
+Images to be tested
+
+**Current state of triage group options in secure messaging experience**
+![BaltimoreDC Current State](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/40bb1a99-a6aa-4dfc-a49a-c9a6ee91062f)
+
+**Alternative version 1: Provider name**
+![BaltimoreDC Provider Name first](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/804f7562-1041-4e91-8e59-e21c4740e431)
+
+**Alternative version 2: Location**
+![BaltimoreDC Location first](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/c4e3eafe-f772-4715-821a-c9492f7a7bd5)
+
 
 [Post-test questions](link)
 
-[Charkmark test](link)
+**Chalkmark tests**
+Cohort 1: Current state (n=9)
+Cohort 2: Current state (n=9)
+Cohort 3: Current state (n=9)
+Cohort 4: Provider name (n=9)
+Cohort 5: Provider name (n=9)
+Cohort 6: Provider name (n=9)
+Cohort 7: Location (n=9)
+Cohort 8: Location (n=9)
+Cohort 9: Location (n=9)
 
 
 ## Recruitment
@@ -77,16 +96,30 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 ## Recruitment criteria
 The first seven cohorts will consist of 9 Veterans and the eight will contain 5 Veterans, for a total sample of 68 Veterans. Recruitment will be ongoing until all cohorts are filled. 
 
+Please exclude mobile users. 
+
+Participants in each cohort should be from a different VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. Please draw from addresses on file to identify Veterans - no need to confirm in screening question. 
+
+- Cohort 1: Massachussetts, New Hampshire, Rhode Island, Maine, or Vermont
+- Cohort 2: Georgia, Alabama, or South Carolina
+- Cohort 3: South Dakota, Iowa, or Minnesota
+- Cohort 4: New York
+- Cohort 5: Florida
+- Cohort 6: Oregon, Washington, Alaska or Idaho
+- Cohort 7: Pennsylvania or Delaware
+- Cohort 8: Kentucky or Tennessee
+- Cohort 9: Colorado, Wyoming, Oklahoma or Utah
+
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
-|       68      |         NA       |    68  |     0       |    0     |        0      | 
+|       81      |         NA       |    81  |     0       |    0     |        0      | 
 
 ### Criteria Table
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 |                |Moderated   |Cohort 1|Cohort 2|Cohort 3|Cohort 4|Cohort 5|Cohort 6|Cohort 7|Cohort 8|Cohort 9|Cohort 10|
 |----------------|:----------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |***SEX***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |            |   9    |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |   9    |   9     |    9    |    9    |    9    |    9    |    9    |    9    |    9    |    9     |
 |Male            |            |        |        |        |        |        |        |        |        |        |         |
 |Female          |           |        |        |        |        |        |        |        |        |        |         |
 |***LGBTQ+***    |            |        |        |        |        |        |        |        |        |        |         |
@@ -102,7 +135,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Two-Spirit      |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***RACE***      |            |        |        |        |        |        |        |        |        |        |         |               
-|*Various*       | 24         |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Black           |            |        |        |        |        |        |        |        |        |        |         |               
 |White           |            |        |        |        |        |        |        |        |        |        |         |                 
 |Latinx          |            |        |        |        |        |        |        |        |        |        |         |                            
@@ -111,12 +144,12 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pacific Islander|            |        |        |        |        |        |        |        |        |        |         |                 
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |       
 |***AGE***       |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    14      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |18-24 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |25-34 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |35-44 yo        |            |        |        |        |        |        |        |        |        |        |         |
 |45-54 yo        |            |        |        |        |        |        |        |        |        |        |         |
-|55+ yo          |     10     |        |        |        |        |        |        |        |        |        |         |
+|55+ yo          |            |        |        |        |        |        |        |        |        |        |         |
 |      ---       |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***BENEFITS***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
@@ -125,7 +158,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Education       |            |        |        |        |        |        |        |        |        |        |         |    
 |Employment      |            |        |        |        |        |        |        |        |        |        |         |
 |Finances        |            |        |        |        |        |        |        |        |        |        |         |
-|Healthcare      |    15      |        |        |        |        |        |        |        |        |        |         |
+|Healthcare      |            |        |        |        |        |        |        |        |        |        |         |
 |Housing         |            |        |        |        |        |        |        |        |        |        |         |
 |Life Insurance  |            |        |        |        |        |        |        |        |        |        |         |
 |Memorialization |            |        |        |        |        |        |        |        |        |        |         |
@@ -143,7 +176,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Pub Hlth Corps  |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***EDUCATION*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |    24      |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Elementary      |            |        |        |        |        |        |        |        |        |        |         |
 |Intermediate    |            |        |        |        |        |        |        |        |        |        |         |
 |GED             |            |        |        |        |        |        |        |        |        |        |         |
@@ -156,22 +189,22 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Doctoral        |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***RESIDENCE*** |            |        |        |        |        |        |        |        |        |        |         |
-|*Various*       |      18    |        |        |        |        |        |        |        |        |        |         |
+|*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |Urban           |            |        |        |        |        |        |        |        |        |        |         |
-|Rural           |      6     |        |        |        |        |        |        |        |        |        |         |
+|Rural           |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***HARDWARE***  |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
-|Desktop         |     12     |        |        |        |        |        |        |        |        |        |         |
+|Desktop         |            |        |        |        |        |        |        |        |        |        |         |
 |Laptop          |            |        |        |        |        |        |        |        |        |        |         |
-|Smartphone      |     12     |        |        |        |        |        |        |        |        |        |         |
+|Smartphone      |            |        |        |        |        |        |        |        |        |        |         |
 |Tablet          |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |     ---    |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***WEBSITE***   |            |        |        |        |        |        |        |        |        |        |         |
 |*Various*       |            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(has acct)|            |        |        |        |        |        |        |        |        |        |         |
 |VA.gov(no acct) |            |        |        |        |        |        |        |        |        |        |         |
-|MyHealtheVet    |     16     |        |        |        |        |        |        |        |        |        |         |
+|MyHealtheVet    |            |        |        |        |        |        |        |        |        |        |         |
 |Ebenefits       |            |        |        |        |        |        |        |        |        |        |         |
 |       ---      |      ---   |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |   ---  |    ---  |
 |***LOGIN***     |            |        |        |        |        |        |        |        |        |        |         |
@@ -200,7 +233,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 |                                                             |Participants| 
 |-------------------------------------------------------------|:----------:|
-|***ASSISTIVE TECH***                                         |    6       | 
+|***ASSISTIVE TECH***                                         |    o       | 
 |*Various*                                                    |            |
 |Font resizing/larger                                         |            |
 |Screen reader                                                |            |
@@ -231,7 +264,7 @@ What demographics, experience, and scenarios do you need participants to meet to
 |Typing with phone or tablet and showing it to others         |            |
 |Caregiver                                                    |            |
 |                           ---                               |     ---    |
-|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     8      |
+|***COGNITIVE IMPAIRMENT and/or FUNCTIONAL DISABILITIES***    |     0      |
 |*Various*                                                    |            |
 |Traumatic Brain Injury (TBI)                                 |            |
 |Post-Traumatic Stress Disorder (PTSD)                        |            |
@@ -249,12 +282,20 @@ What demographics, experience, and scenarios do you need participants to meet to
 
 ### Screener for all participants
 
+1. Do you have a My HealtheVet (MHV) account?
 
+- Yes
+- No _(exclude)_
+
+2. Have you used Secure Messaging on My HealtheVet (MHV) within the last 12 months?
+
+- Yes 
+- No 
 
 ## Timeline
 
 ### Data collection completed by: 
-We would like all data to be collected by end of June, 2024. However, recruitment should be ongoing until the desired sample size of 136 is complete and all cohorts have been filled. 
+We would like all data to be collected by August 9, 2024. However, recruitment should be ongoing until the desired sample size of 81 is complete and all cohorts have been filled. 
 
 
 ### Availability
@@ -263,6 +304,8 @@ Team Availability | Time Slots (ET)
 ------------------|--------------
 NA
 
+### KO with Perigean
+Not sure would need KO per se, but would definitely like to confirm I've communicated my recruitment needs effectively. 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
@@ -273,5 +316,4 @@ Please list the people who will be serving in each role.
 - Observers: NA
 
 ## Approvals
-- Reviewed and approved by Janie Tankard-Carnock (PO) on 
 - Reviewed and approved by Shane Strassberg on 
