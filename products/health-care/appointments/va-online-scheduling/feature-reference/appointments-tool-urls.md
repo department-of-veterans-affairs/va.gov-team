@@ -3,8 +3,10 @@
 ## Static landing page
 https://va.gov/health-care/schedule-view-va-appointments/
 
-## Lists
+## Appts home
 https://va.gov/my-health/appointments/  
+
+## Lists
 https://va.gov/my-health/appointments/pending  
 https://va.gov/my-health/appointments/past  
 
