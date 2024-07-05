@@ -4,34 +4,32 @@
 # Conversation Guide for Debt Resolution Team, Debt Portal Payment History, June 2024
 
 ## Prep/Getting to know you (10 minutes)
-
 Welcome! Thank you so much for your time today. How are you today?
-
 My name is Charlotte and I work at VA.gov to help improve access to benefits and services for Veterans like you. This work is meaningful to me because I believe that those who have served have a right to these services. [meaning]
 
-You’ll notice there are a few people on the call already. They’re my colleagues and they’re here to listen and to learn. Is that ok with you? [permission] 
+You’ll notice there are a few people on the call already. They’re my colleagues and they’re here to listen and to learn. Is that ok with you? [permission]
 
 My goal today is to learn how easy or difficult it is for you to use a digital experience we have created in order for us to improve it. ​​In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 
-Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. Your comfort and wellbeing are very important to us. Sensitive topics might come up, and if at any point you want to take a break, please let me know. If you want or need to stop the interview at any point, just let me know. [comfort and consent]
+Next, I want to explain my role better. I am a consultant for the VA and my role is to talk to Veterans like you to understand the challenges you face in the space of VA debt. I am gathering information to help improve the experience of managing or resolving your debt. The limits of my role are that I am not the final decision maker on the experience nor am I a financial expert, but I can surface issues and challenges that come up in research to the VA.
 
-During today's interview, we may discuss experiences that have caused serious frustration. I do want to know about those experiences in case there are processes we can improve in the future, but they are not experiences I can help with directly. I don’t have any access and can’t impact your benefits in any way, and wanted to provide that transparency up front.
-
+Your comfort and wellbeing are very important to us. Sensitive topics might come up, and if at any point you want to take a break, please let me know. If you want or need to stop the interview at any point, just let me know. [comfort and consent]
 
 Your identity will be kept confidential, and any information we take away from the interview will be stored securely. [confidentiality]
 
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
+Are you comfortable if I record my screen and audio as we talk today? 
 
--   Knowing that, are you comfortable if I record my screen and audio as we talk today?
-    
+We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
 
-Optional: Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences? One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your on screen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+Optional: 
 
--   Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?
-    
--   If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
-    
-Do you have any questions for me? Just want to ensure the next 60 minutes are still good for you today? 
+Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences? One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your on screen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+
+Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?
+If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
+
+Do you have any questions for me? Just want to ensure the next 60 minutes are still good for you today?
+
 
 **START INTERVIEW**
 
