@@ -76,9 +76,15 @@ Images to be tested
 ![BaltimoreDC Location first](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/c4e3eafe-f772-4715-821a-c9492f7a7bd5)
 
 
-[Pre- and post-task questions](link)
+[Pre- and post-task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-06-Care-Names-Comparative-Study/2024-07-Care-Names-Comparative-Study-pre-and-post-task-questions.md)
 
 **Chalkmark tests**
+- Will add links to cohorts once preview version is approved by research ops. 
+- Preview link for current state
+- Preview link for location
+- Preview link for provider name
+
+
 Cohort 1: Current state (n=9)
 Cohort 2: Current state (n=9)
 Cohort 3: Current state (n=9)
