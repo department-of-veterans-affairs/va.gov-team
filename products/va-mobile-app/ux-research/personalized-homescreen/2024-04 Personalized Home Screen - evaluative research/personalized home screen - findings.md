@@ -346,31 +346,31 @@ Participants thought it was helpful to have access to features from the home scr
 
 **About you section: Value of module & data:**  
 
-    6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
+  6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
 
-    * 4 participants said Proof of Veteran status was useful
+  * 4 participants said Proof of Veteran status was useful
       > "I could see my husband (100%) using this feature a lot; vs carrying around a copy in your wallet or in your car. VA ID card, drivers license all don't have the % on them." P4
-   * 2 participants said Proof of Veteran status was not useful
+  * 2 participants said Proof of Veteran status was not useful
       > "They usually just accept that I'm a Veteran or I pull out a physical card." P8
 
      > "I would never do that. So you know, if somebody says—there's a gun to your head, you know—'Get your phone out.' I'm like, I'm still gonna get my wallet out." P3 (Accessed via Profile)
-   * 2 participants felt that the proof of Veteran status card contained too much personal information
+  * 2 participants felt that the proof of Veteran status card contained too much personal information
      > “Disability rating and DoB don't need to be there. I don't want them to know I'm 100% connected.” P12
 
 **About you section: Disability rating and monthly compensation** 
 
-     <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-Rating-Compensation.png" width="300" alt="VA mobile app - personalized home screen, Disability rating and monthly compensation module">  
+   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-Rating-Compensation.png" width="300" alt="VA mobile app - personalized home screen, Disability rating and monthly compensation module">  
 
-      13/13 participants had Disability rating and monthly compensation modules on their home screen.
+  13/13 participants had Disability rating and monthly compensation modules on their home screen.
 
 
 **About you section: Value of module & data:**  
 
-7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
+  7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
 
-   * 5 participants found it useful to see disability rating and monthly compensation on the home screen
+  * 5 participants found it useful to see disability rating and monthly compensation on the home screen
      > "If I fill out paperwork, I need the proof of Veteran status or my rating and how much my compensation is." P1
-   * 1 participant said that the presence of disability rating on the home screen problematic as well as not useful
+  * 1 participant said that the presence of disability rating on the home screen problematic as well as not useful
      > "...I don't want them to know I'm 100% connected." P12
 
 #### 4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to begin some tasks** using the mobile app home screen?   
