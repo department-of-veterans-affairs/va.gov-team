@@ -42,18 +42,20 @@ This research will inform the updated care team selection flow in the secure mes
 
 
 ### Hypotheses
-_Hypothesis 1:_ A higher proportion of Veterans will select the incorrect care team in the old experience than the new experience. 
+_Hypothesis 1:_ A higher proportion of Veterans will select the incorrect care team in the old experience than either of the new experiences. 
 
-_Hypothesis 2:_ The average time to complete tasks will be lower on the new experience. 
+_Hypothesis 2:_ The average time to complete tasks will be lower on either of the new experiences. 
 
-_Hypothesis 3:_ A higher proportion of Veterans will find the new experience to be more intuitive and satisfying than the old experience. 
+_Hypothesis 3:_ A higher proportion of Veterans will find either of the new experiences to be more intuitive and satisfying than the old experience. 
 
-_Hypothesis 4:_ The old experience will produce higher rates of distrust in VA digital services than the new experience. 
+_Hypothesis 4:_ The old experience will produce higher rates of distrust in VA digital services than either of the new experiences. 
+
+_Hypothesis 5:_ The "location first" new experience option will produce lower times to complete task, higher accuracy rates, higher satisfaction scores, and more positive feedback. 
 
 ## Method
 
 ### Unmoderated study: First-click testing with post-test questions
-This unmoderated study will consist of participants completing two tasks with different images of care group names. We will use Optimal Workshop's First-click Testing functionality to: 
+This unmoderated study will consist of participants completing three tasks with different images of care group names. We will use Optimal Workshop's First-click Testing functionality to: 
 - observe how often participants accurately identify a desired care group
 - compare time to complete task across options
 - assess participants' satisfaction and experience with the different care group options
@@ -74,7 +76,7 @@ Images to be tested
 ![BaltimoreDC Location first](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/c4e3eafe-f772-4715-821a-c9492f7a7bd5)
 
 
-[Post-test questions](link)
+[Pre- and post-task questions](link)
 
 **Chalkmark tests**
 Cohort 1: Current state (n=9)
@@ -94,9 +96,9 @@ Cohort 9: Location (n=9)
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
 
 ## Recruitment criteria
-The first seven cohorts will consist of 9 Veterans and the eight will contain 5 Veterans, for a total sample of 68 Veterans. Recruitment will be ongoing until all cohorts are filled. 
+This study will consist of 9 cohorts of 9 Veterans per cohort. Recruitment will be ongoing until all cohorts are filled. 
 
-Please exclude mobile users. 
+Please exclude mobile users. Please exclude all assistive technology users as we cannot accommodate them in this study. 
 
 Participants in each cohort should be from a different VISN, which include different states. No need to include a participant from each state; a cohort should consist of 9 Veterans from any of the states listed next to each cohort. Please draw from addresses on file to identify Veterans - no need to confirm in screening question. 
 
