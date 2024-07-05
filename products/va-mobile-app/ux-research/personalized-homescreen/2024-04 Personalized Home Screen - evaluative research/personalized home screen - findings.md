@@ -173,9 +173,7 @@ Because of the potential variability of the modules within the Activity section,
 5. About half of participants experienced load times over 8 seconds on the homescreen during the session, but we did not observe evidence that this impacted participants’ perception of the app’s capabilities or value.
 
 
-**Secondary Findings: Research ops**
-
-
+### Secondary Findings: Research ops
 
 * We were successful in conducting research sessions using a pre-release production build of the VA mobile app (aka a production build that is not yet in the iOS app store) installed on participants’ mobile devices that they logged into using their production credentials.  
 * The portion of the conversation guide dedicated to [app install & login](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#app-install--log-in) worked well, and we feel it will be helpful to use it as-is to test pre-production builds in the future. 
@@ -203,65 +201,66 @@ Limiting the testing device type to iOS (iPhones and iPads) made for a more seam
 
 ### (Research questions, answered)
 
-1. What do participants **believe that the VA mobile app _can do —in general—_** based on the contents of the personalized home screen?
-When asked to describe what the VA mobile app does for Veterans—based on first impressions of the contents of the new personalized home screen—participants described the app as:
-    * **All of the stuff that is important... in one place (6 participants):**
-      >  "...a hub of important information that you need on a regular basis." P1
-      >  "This is a one stop shop!" P16
-    * **Streamlined & simple access (4 participants):**
-      >  "[The app] gives a more streamlined ability for the Veteran to check anything—you know, whether they need to print something out real quick, or review something, or check the status or cancel it." P4
-    * **Quick & convenient access (3 participants):**
-      >  "Quick access, it can give insight into what's happening." P2
-    * **An assistant (1 participant):**
-      >  "Like a personal assistant, it's like giving you highlights of what's coming up. which is very helpful. and you don't have to navigate so much..." P10
+#### 1. What do participants **believe that the VA mobile app _can do —in general—_** based on the contents of the personalized home screen?
 
-      The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
+When asked to describe what the VA mobile app does for Veterans—based on first impressions of the contents of the new personalized home screen—participants described the app as:  
+* **All of the stuff that is important... in one place (6 participants):**
+   >  "...a hub of important information that you need on a regular basis." P1
+   >  "This is a one stop shop!" P16
+* **Streamlined & simple access (4 participants):**
+   >  "[The app] gives a more streamlined ability for the Veteran to check anything—you know, whether they need to print something out real quick, or review something, or check the status or cancel it." P4
+* **Quick & convenient access (3 participants):**
+   >  "Quick access, it can give insight into what's happening." P2
+* **An assistant (1 participant):**
+   >  "Like a personal assistant, it's like giving you highlights of what's coming up. which is very helpful. and you don't have to navigate so much..." P10
 
-2. Do participants **find value in the VA mobile app** based on the contents of the personalized home screen? What do participants **believe that the VA mobile app _can do for them in their current circumstances_ based on the contents of the personalized home screen?** 
+The first 3 descriptions are consistent with those mentioned by Veterans during Post-Launch Discovery Research conducted in August 2022 (_[Key finding #2 “Veterans value the mobile app because of its convenience, perceived timeliness and simplicity”](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/post-launch-discovery/july-2022/final%20report.md)_), indicating that perceptions of what the app can do have probably remained consistent as opposed to changing as a result of the personalized home screen updates. 
 
-    All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
+#### 2. Do participants **find value in the VA mobile app** based on the contents of the personalized home screen? What do participants **believe that the VA mobile app _can do for them in their current circumstances_ based on the contents of the personalized home screen?**   
 
-    When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task. 7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
+All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
+
+When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task. 7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
  
-   **Example tasks are listed from most to least mentioned:**
+**Example tasks are listed from most to least mentioned:**
 
-   1. (7) Entry point/way to check the status of a claim 
+1. (7) Entry point/way to check the status of a claim 
      >  " I see active and I know there's no change [on my claim]." P12 
-   2. (6) Reminder/entry point when they need to figure out which prescriptions to refill or which drugs they're taking when speaking with a provider* 
+2. (6) Reminder/entry point when they need to figure out which prescriptions to refill or which drugs they're taking when speaking with a provider* 
       >  “Yeah, like the prescription refill. I feel that would be very helpful, because … like sometimes we have this bottle that has like hundreds of little pills and it, and it feels like I'm good for pills. But now, if you have to take 5, 3 times a day, you know… there's a lot of medication that you know. We can't have gaps in between taking them. We cannot have missed doses or things like that like you mess you up pretty bad.  So this is helpful security.” P10
 
       >  “In my medicine cabinet, I can see pills getting low (when filling week-box). This would be very useful and relatively quicker this way to figure out what prescriptions to refill” P9
-   3. (5) Reminder/entry point for reviewing the details of an upcoming appointment* 
+3. (5) Reminder/entry point for reviewing the details of an upcoming appointment* 
       >  "I could have sworn I have an appointment this week, do I?" P4
 
       >  “I always try to put all my appointments as soon as I schedule them on my calendar.... because I have all the alerts going and everything. But if let's say that I know that I talked to someone, and I was driving, and I didn't get to put it in my calendar. I will probably come here, and I need to check in the appointments and make sure I have it more in my calendar. I will come here and do that, and it's simple enough. It even tells me I have one in the next 7 days, so I gotta make sure I have it in my book.” P10
-   4. (2) Using app instead of a computer to access information
+4. (2) Using app instead of a computer to access information
       >  "If I got an email from the VA [on my phone] saying that I had something that I needed to do, whether it's, you know, pay for an appointment or to submit it more information for my claim or anything like that... then I'm just going to, you know, swipe out of my app on my email and go right into this to be able to address anything that I need to address rather than having to go sit down on my laptop and pull everything up on there….” P7
 
-   5. (2) Access to benefit letters
+5. (2) Access to benefit letters
       >  “Way faster, even from my phone. Having airprint with my printer at home. BOOM - open the app, click on that, click on that, print it and be done. If it comes up on the phone - screenshot it, and attach it real quick in an email” P4
-   6. (2) Check for unread messages from a healthcare provider*
+6. (2) Check for unread messages from a healthcare provider*
       >  “It's similar to my healthy vet in a sense that I go to my healthy vet to look at my appointments, and do secure messaging.” P11
-   7. (1) Access to disability rating to quickly fill out forms*
+7. (1) Access to disability rating to quickly fill out forms*
       >  “Because I need to see my disability rating and monthly payment quickly to fill out forms” P5
-   8. (1) Providing proof of Veteran status*
+8. (1) Providing proof of Veteran status*
       >  “Somebody wants to see proof that you are a veteran; or things that require specific percentages of disability - "right there, bright as day" P4
 
-3. Do participants **understand** **what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
+#### 3. Do participants **understand** **what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
 
-    The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
+The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
 
-    **Activity section:**   
+**Activity section:**   
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity.png" width="300" alt="VA mobile app - personalized home screen, Activity section"> 
 
-      **Activity section - Mental model:**  
-    All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
+ **Activity section - Mental model:**  
+ All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
 
-   When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
+ When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
 
-   * 8/13 participants described the Activity section as containing “Active/pending” items (and expected a conditional appearance—the module would disappear if there was not an active item)
-     * 5 of the participants who described the Activity sections as active/pending items also described the modules as a "shortcut" and/or the category screen entry point as "the long way."
-   * 5/13 participants described the Activity section as containing “Most used items/top stuff” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
+* 8/13 participants described the Activity section as containing “Active/pending” items (and expected a conditional appearance—the module would disappear if there was not an active item)
+   * 5 of the participants who described the Activity sections as active/pending items also described the modules as a "shortcut" and/or the category screen entry point as "the long way."
+* 5/13 participants described the Activity section as containing “Most used items/top stuff” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
 
    When asked what (if any) other items they thought would be helpful to include in the Activity area, participants also expected to see:
    * (5) Appointments*
@@ -277,11 +276,11 @@ When asked to describe what the VA mobile app does for Veterans—based on first
 
     *_Participants who mentioned these existing features did not have them displayed as active modules on home during the session._
  
-   **Activity section - Value of module & description data:** 
+**Activity section - Value of module & description data:** 
 
-    Participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful. Some had suggestions about what it could say instead of/in addition to the information displayed in the description text. Below are the responses, divided by feature module:
+Participants thought it was helpful to have access to features from the home screen, and most participants said the data in the Activity modules was useful. Some had suggestions about what it could say instead of/in addition to the information displayed in the description text. Below are the responses, divided by feature module:
 
-   *  **Claims:**  
+*  **Claims:**  
 
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Claims.png" width="300" alt="VA mobile app - personalized home screen, Claims module">  
 
@@ -305,7 +304,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
       * 1 participant did not find it helpful: 
         > "I don't want to say that it [1 active] doesn't help me, but it doesn't help me." P2
 
-   * **Prescriptions**:
+* **Prescriptions**:
     
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
 
@@ -315,7 +314,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
        * 2 thought reminders that a prescription was about to run out would be useful: 
          > "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
 
-   * **Appointments**:
+* **Appointments**:
      
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Appointments.png" width="300" alt="VA mobile app - personalized home screen, Appointments module">  
 
@@ -326,14 +325,14 @@ When asked to describe what the VA mobile app does for Veterans—based on first
        >   "I think a month is too much, but two weeks would be better." P16
      * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
 
-   *  **Secure message**:
+*  **Secure message**:
      
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Messages.png" width="300" alt="VA mobile app - personalized home screen, Messages module">  
 
       Only 1 participant experienced seeing this module and said it was "just the right amount" of information. 
 
 
-   **About you section: Branch of service and Veteran status module**   
+**About you section: Branch of service and Veteran status module**   
 
    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-PVS.png" width="300" alt="VA mobile app - personalized home screen, Branch of Service and Proof of Veteran Status module">  
 
@@ -346,7 +345,7 @@ When asked to describe what the VA mobile app does for Veterans—based on first
       The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
 
 
-   **About you section: Value of module & data:**  
+**About you section: Value of module & data:**  
 
     6 of the 8 participants that saw Proof of Veteran status commented on its usefulness:
 
@@ -359,39 +358,39 @@ When asked to describe what the VA mobile app does for Veterans—based on first
    * 2 participants felt that the proof of Veteran status card contained too much personal information
      > “Disability rating and DoB don't need to be there. I don't want them to know I'm 100% connected.” P12
 
-   **About you section: Disability rating and monthly compensation** 
+**About you section: Disability rating and monthly compensation** 
 
      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-Rating-Compensation.png" width="300" alt="VA mobile app - personalized home screen, Disability rating and monthly compensation module">  
 
       13/13 participants had Disability rating and monthly compensation modules on their home screen.
 
 
-   **About you section: Value of module & data:**  
+**About you section: Value of module & data:**  
 
-     7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
+7 of the 13 participants provided feedback on the disability rating and monthly compensation components:
 
    * 5 participants found it useful to see disability rating and monthly compensation on the home screen
      > "If I fill out paperwork, I need the proof of Veteran status or my rating and how much my compensation is." P1
    * 1 participant said that the presence of disability rating on the home screen problematic as well as not useful
      > "...I don't want them to know I'm 100% connected." P12
 
-4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to begin some tasks** using the mobile app home screen?   
+#### 4. Do participants choose to use the home screen as a task starting point, and will they **successfully be able to begin some tasks** using the mobile app home screen?   
 
-     **Yes.** Nearly all participants expected to tap and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). In the case of one task (prescriptions), most participants’ expectations of the module destination was different from what they experienced when using the app. 
+**Yes.** Nearly all participants expected to tap and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). In the case of one task (prescriptions), most participants’ expectations of the module destination was different from what they experienced when using the app. 
  
-     **Activity section - Usability:** 
+**Activity section - Usability:** 
   12/13 participants expected to and then successfully used the home screen as the entry point for beginning their claims and health tasks. One participant initially used the category screen entry point for their first task but then used the home screen for the subsequent task. 
 
-     A deeper dive on the usability of each task:
-    * **Secure message** (1 participant):
+A deeper dive on the usability of each task:
+* **Secure message** (1 participant):
 Task prompt: Find out if you have received a message from your doctor.
       * Only 1 participant had an active secure message, but they expected to tap the home screen entry point & see their messages list (and successfully used this method to begin the task).
 
-    * **Appointments** (3 participants):
+* **Appointments** (3 participants):
   Task prompt: Double check the time of your upcoming doctor's appointment.
       * All of the 3 participants who had Appts as their task expected to tap the homescreen entry point & see their appts list (and successfully used this method to begin the task).
 
-    * **Prescriptions** (8 participants):
+* **Prescriptions** (8 participants):
   Task prompt: Check whether you have any prescriptions that need to be refilled.
       * All of the 8 participants who had prescriptions as their task expected to tap the home screen entry point & see their prescriptions (and successfully used this method to begin the task).
       * 5/8 participants expected the prescriptions list to show ONLY the refillable prescriptions, not all of them (the module linked to the full active prescriptions list): 
@@ -404,26 +403,26 @@ Task prompt: Find out if you have received a message from your doctor.
         > "Is it 9 that I need to refill or does this include the as-needed ones that I may not need to refill?" P1
       * 1 participant who used the homescreen entry point to begin the task then successfully refilled their prescriptions! (actually completing the task was not part of the scope of this study)
 
-    * **Claims** (10 participants):
+* **Claims** (10 participants):
   Task prompt: Check the status of your open disability claim/appeal
       *   Claims was the first task involving the Activity section for all participants.
       *   9/10 participants who had Claims on their home screen initially expected to tap the home screen entry point & see their claims (and successfully used this method to begin the task). 
       *   1 participant reached the claims list via the category screen. After being asked to consider the homescreen entry point later, they were pleasantly surprised and used Activity section modules for subsequent tasks: "It got me there a lot faster." P1
       *   Several participants also noticed the benefits tab and identified it as another way to reach claims, describing it as "the long way" (P2).
 
-     **About you section - Usability:**
+**About you section - Usability:**
 
-     * All 8 participants who saw the Proof of Veteran Status link understood that they would tap it to show proof they were a Veteran.
-     * 2/13 participants expected to tap on the disability rating and monthly payment amount to view more details.
+* All 8 participants who saw the Proof of Veteran Status link understood that they would tap it to show proof they were a Veteran.
+* 2/13 participants expected to tap on the disability rating and monthly payment amount to view more details.
 
 
-5. **Is there a difference between screenreader users and non-screenreader users** in terms of perception of app capabilities, perception of value, and the usability of the personalized home screen?
+#### 5. **Is there a difference between screenreader users and non-screenreader users** in terms of perception of app capabilities, perception of value, and the usability of the personalized home screen?
 
-    **Not able to determine.** No participants used a screenreader for the session (despite recruiting and screening for expert screenreader users).
+**Not able to determine.** No participants used a screenreader for the session (despite recruiting and screening for expert screenreader users).
 
-6. **Do participants experience performance issues/lag** when loading the personalized home screen? If so, do performance issues impact participants’ perception of the app’s capabilities or value?
+#### 6. **Do participants experience performance issues/lag** when loading the personalized home screen? If so, do performance issues impact participants’ perception of the app’s capabilities or value?
 
-    **Yes and no:** About half of participants experienced load times over 8 seconds (the longest being over 1 minute) on the homescreen during the session, but we did not observe evidence that this impacted participants’ perception of the app’s capabilities or value.
+**Yes and no:** About half of participants experienced load times over 8 seconds (the longest being over 1 minute) on the homescreen during the session, but we did not observe evidence that this impacted participants’ perception of the app’s capabilities or value.
 
    * **7/13 participants experienced a load time of more than 8 seconds** on the homescreen during the session. Longer load times occurred both during the initial load of the home screen as well as when participants returned to the homescreen after being elsewhere in the app.
    * **4/7 of the participants who experienced a longer load time commented on it.** 3/4 of those participants that commented still said that they felt the app would be useful to them in their life.
