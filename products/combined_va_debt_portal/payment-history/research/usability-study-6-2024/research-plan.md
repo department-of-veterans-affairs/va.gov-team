@@ -463,7 +463,7 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Wednesday, Jun , 2024 - Wednesday, Jul , 2024
+Tuesday, July 16 , 2024 - Tuesday, July 23 , 2024
 
 Tuesday, Wednesday
 
