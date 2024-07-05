@@ -21,14 +21,33 @@ The following scripts can be used to manually initiate the polling job, and repo
 
 NOTE ABOUT THE 48+ HOUR LIMIT: according to the behavior observed during local testing, the 48+ hour limit is not triggered _exactly_ 48+ hours after the job is initiated. Rather, the limit is checked at the _next retry attempt_ of the exponential backoff. This effectively means that the job will not be updated until [TODO: put number determined from stage testing] hours after the submission.
 
-Once we have a list of submissions via the `find_pdf_failures` script, we can employ the steps below:
+Once we have a list of submissions via the `find_pdf_failures` script, we can either employ the Manual Remediation Steps below on a case-by-case basis or run the Automatic Remediation script (development pending):
 
-## Steps
+## Manual Remediation Steps
 
 1. Grab a submission from the list
-2. Go to [Argo Production](https://argocd.vfs.va.gov/applications/vets-api-prod) and open a terminal on any pod (see [this section](https://argocd.vfs.va.gov/applications/vets-api-prod?) of TE SOP)
+2. Go to [Argo Production](https://argocd.vfs.va.gov/applications/vets-api-prod) and open a terminal on any pod (see [this section]([https://argocd.vfs.va.gov/applications/vets-api-prod?](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md#1-how-to-check-a-form526submission-record)) of TE SOP)
 3. Open a rails console
    `bundle exec rails c -s`
-4. Fetch the submission
-   `submission = Form526Submission.find(<submission id>)`
-5. 
+4. Run the script below to generate the PDF
+   ```
+   submission = Form526Submission.find(1263)
+   user_account = UserAccount.find_by(id: submission.user_account_id) ||
+                         Account.lookup_by_user_uuid(submission.user_uuid)
+   icn = user_account.icn
+   transform_service = EVSS::DisabilityCompensationForm::Form526ToLighthouseTransform.new
+   body = transform_service.transform(submission.form['form526'])
+   service = BenefitsClaims::Service.new(icn)
+   raw_response = service.submit526(body, nil, nil, { generate_pdf: 'true'})
+   ```
+10. Write PDF to temp directory
+   ```
+   content = raw_response.body
+   fname = "/#{Common::FileHelpers.random_file_path}.pdf"
+   File.binwrite(fname, content)
+   ```
+11. Upload PDF
+   ```
+   
+   ```
+12. 
