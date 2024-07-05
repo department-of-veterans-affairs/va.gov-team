@@ -95,7 +95,7 @@ Prototype Link:
     
   **Success criteria:**
     
- - [ ] Chapter 35 education debt (pass)
+ - [ ] Chapter 33 education debt (pass)
 
 
  - [ ] They notice the only with further prompting (partial pass)
@@ -117,13 +117,13 @@ Prototype Link:
 -   Any information missing that you’d like to see?
     
 
--   Let's say you received an email notifying you that the Chapter 35 education debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
+-   Let's say you received an email notifying you that the Chapter 33 education debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
 
     **Success criteria:**
     
-  - [ ]    "Check Details" link on Ch 35 card (pass)
+  - [ ]    "Check Details" link on Ch 33 card (pass)
     
-  - [ ]    "Resolve this balance" link on Ch 35 card (partial pass)
+  - [ ]    "Resolve this balance" link on Ch 33 card (partial pass)
     
    - [ ]   Any other link (fail)
     
@@ -201,6 +201,8 @@ Prototype Link:
 
 **Success criteria:**
  - [ ]    Clicks Debt Letters link (pass)
+
+ - [ ]    Clicks Debt Letters link after further prompting (partial pass)
         
  - [ ]     Anywhere else (fail) 
 
@@ -220,6 +222,8 @@ Prototype Link:
   
 **Success criteria:**
  - [ ]    Clicks "Pay your balance, request financial help or dispute this overpayment", Sees Request financial help section on Resolve this balance page (pass)
+ - [ ]    
+ - [ ]    Sees financial help section after further prompting (partial pass)
         
  - [ ]     Clicks anywhere else, does not see Request this balance page (fail)  
 
