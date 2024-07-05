@@ -82,22 +82,22 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 
 ## 1: Type of Care - Food and nutrition 
 
-Path they will take: 
-1. Start scheduling > 
-1. Alert for urgent care > 
-1. I need a different appointment > 
-1. Nutrition and food > 
-1. Choose a location > 
-1. Grove City, OH > 
-1. Sarah Bennett > 
-1. PID 6/11 > 
-1. 7/22 > 
-1. Reason for appointment > 
-1. confirm contact > 
-1. Review details > 
-1. Confirmation page > 
-1. Review appointments
+**Path they will take: **
 
+1. Start scheduling
+2. Alert for urgent care
+3. I need a different appointment
+4. Nutrition and food
+5. Choose a location
+6. Grove City, OH
+7. Sarah Bennett
+8. PID 8/11
+9. 8/22 12pm
+10. Reason for appointment
+11. Confirm contact
+12. Review details
+13. Confirmation page
+14. Review appointments
 **Begin prototype**
 
 Prompt: Tell me about this page.
@@ -194,14 +194,16 @@ Prompt: Now you would like to go back to see a list of your appointments. How wo
 - Can participant understand the information on the details page? Do they mentions anything about the Building numner or Clinic name?
 
 ## 2: Type of Care - Physical Therapy
-Path they will take: 
-1. Start scheduling 
-1. Physical Therapy
-1. PID 6/16
-1. 7/26 2 pm
-1. Chest pain
-1. I do not need care now
-1. Finish scheduling
+
+**Path they will take:**
+
+1. Start scheduling
+2. Physical Therapy
+3. PID 8/16
+4. 8/26 2 pm
+5. Reason for appointment (Chest pain)
+6. I do not need care now
+7. Finish scheduling flow
 
 **Schedule an appointment** 
 
