@@ -307,22 +307,22 @@ Participants thought it was helpful to have access to features from the home scr
 
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
 
-      * 5 participants said they wouldn't change anything about the information displayed
-      * 3 participants felt it would be useful to see more information: 
-       * 1 mentioned tracking information for prescriptions in transit
-       * 2 thought reminders that a prescription was about to run out would be useful: 
-         >   "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
+  * 5 participants said they wouldn't change anything about the information displayed
+  * 3 participants felt it would be useful to see more information: 
+        * 1 mentioned tracking information for prescriptions in transit
+        * 2 thought reminders that a prescription was about to run out would be useful: 
+          >   "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
 
 * **Appointments:**  
 
   <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Appointments.png" width="300" alt="VA mobile app - personalized home screen, Appointments module">  
 
-      * 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
-       * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
-         >  "If I don't check weekly, I won't know when the next one is coming up." P2 
-       * 1 participant disagreed: 
-         >   "I think a month is too much, but two weeks would be better." P16
-      * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
+  * 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
+        * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
+          >  "If I don't check weekly, I won't know when the next one is coming up." P2 
+        * 1 participant disagreed: 
+          >   "I think a month is too much, but two weeks would be better." P16
+  * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
 
 *  **Secure message:**  
 
@@ -335,13 +335,13 @@ Participants thought it was helpful to have access to features from the home scr
 
    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-PVS.png" width="300" alt="VA mobile app - personalized home screen, Branch of Service and Proof of Veteran Status module">  
 
-      All participants should’ve had a Proof of Veteran status link displayed on the home screen, but 5/13 unexpectedly did not.
+  All participants should’ve had a Proof of Veteran status link displayed on the home screen, but 5/13 unexpectedly did not.
 
-      * 8 participants who had a disability rating and monthly compensation amount had the expected module with their branch of service and proof of Veteran status link.
-      * 4 participants who had a disability rating and monthly compensation amount had a module with their branch of service that did not include the proof of Veteran status link (this combination should not be possible given that a veteran with a disability rating who is receiving a monthly disability payment should also be allowed a proof of veteran status)
-      * 1 participant who had a disability rating and monthly compensation amount did not have a module that showed branch of service or proof of Veteran status (this also should not be possible)
+  * 8 participants who had a disability rating and monthly compensation amount had the expected module with their branch of service and proof of Veteran status link.
+  * 4 participants who had a disability rating and monthly compensation amount had a module with their branch of service that did not include the proof of Veteran status link (this combination should not be possible given that a veteran with a disability rating who is receiving a monthly disability payment should also be allowed a proof of veteran status)
+  * 1 participant who had a disability rating and monthly compensation amount did not have a module that showed branch of service or proof of Veteran status (this also should not be possible)
 
-      The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
+  The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
 
 
 **About you section: Value of module & data:**  
