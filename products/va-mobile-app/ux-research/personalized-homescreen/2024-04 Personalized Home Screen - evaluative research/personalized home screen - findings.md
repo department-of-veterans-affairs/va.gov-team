@@ -377,7 +377,7 @@ Participants thought it was helpful to have access to features from the home scr
 
 **Yes.** Nearly all participants expected to tap and then used the home screen modules successfully to begin their tasks (and arrived where they predicted they would be). In the case of one task (prescriptions), most participants’ expectations of the module destination was different from what they experienced when using the app. 
  
-**Activity section - Usability:** 
+**Activity section - Usability:**  
   12/13 participants expected to and then successfully used the home screen as the entry point for beginning their claims and health tasks. One participant initially used the category screen entry point for their first task but then used the home screen for the subsequent task. 
 
 A deeper dive on the usability of each task:
