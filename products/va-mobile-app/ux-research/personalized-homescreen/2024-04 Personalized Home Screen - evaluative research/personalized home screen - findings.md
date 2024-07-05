@@ -162,15 +162,16 @@ Because of the potential variability of the modules within the Activity section,
 
 
 ## Key Findings
-1. Based on first impressions of the contents of the new personalized home screen—participants who were current users as well as non-users of the app demonstrated that they understood what they could use the app to do and were able to describe a  situation in their life where they imagined they could use the VA mobile app home screen to help them.
+1. Participants demonstrated that they understood what the mobile can do and were able to describe a situation in their life where they imagined they could use the VA mobile app home screen to help.
 
 2. All participants recognized that the Activity modules on the home screen displayed their personalized information and seemed to understand that the description text on each module indicated that something that was “in-flight,” however, not all participants described the presence of the Activity module itself as indicating that something was an “in-flight task.”
 
-3. Participants successfully used the homescreen as the starting point for tasks and found it helpful to have direct access to the features. Participants said the data in the Activity modules was mostly helpful, but some participants had some suggestions on how to make the description text for Claims, Prescriptions, and Appointments more useful.
+3. Participants successfully used the homescreen as the starting point for tasks and most found the module description text and the direct access to features useful.
 
-4. All participants were expected to have a Proof of Veteran status link on the homescreen, but 5/13 did not. Analytics quickly put in place during the research facilitation weeks confirmed that this issue is occurring approximately 21% of the time, and an engineering investigation discovered that the “module but no link” state is due to an issue with the available backend data. 
+4. All participants were expected to have a Proof of Veteran status link on the homescreen, but 5/13 did not. 
 
-5. About half of participants experienced load times over 8 seconds (the longest being over 1 minute) on the homescreen during the session, but we did not observe evidence that this impacted participants’ perception of the app’s capabilities or value.
+5. About half of participants experienced load times over 8 seconds on the homescreen during the session, but we did not observe evidence that this impacted participants’ perception of the app’s capabilities or value.
+
 
 **Secondary Findings: Research ops**
 
