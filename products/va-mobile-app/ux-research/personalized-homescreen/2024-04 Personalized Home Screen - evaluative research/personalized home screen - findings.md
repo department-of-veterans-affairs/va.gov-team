@@ -250,17 +250,16 @@ When asked to imagine how they might use the homescreen of the app to help them 
 
 The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
 
-**Activity section:**   
-      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity.png" width="300" alt="VA mobile app - personalized home screen, Activity section"> 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity.png" width="300" alt="VA mobile app - personalized home screen, Activity section"> 
 
  **Activity section - Mental model:**  
- All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
+* All participants recognized that the Activity modules on the home screen displayed their personalized information, and that tapping the module would take them to the  corresponding feature.
 
- When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
+* When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
 
-* 8/13 participants described the Activity section as containing “Active/pending” items (and expected a conditional appearance—the module would disappear if there was not an active item)
-   * 5 of the participants who described the Activity sections as active/pending items also described the modules as a "shortcut" and/or the category screen entry point as "the long way."
-* 5/13 participants described the Activity section as containing “Most used items/top stuff” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
+  * 8/13 participants described the Activity section as containing “Active/pending” items (and expected a conditional appearance—the module would disappear if there was not an active item)
+     * 5 of the participants who described the Activity sections as active/pending items also described the modules as a "shortcut" and/or the category screen entry point as "the long way."
+  * 5/13 participants described the Activity section as containing “Most used items/top stuff” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
 
    When asked what (if any) other items they thought would be helpful to include in the Activity area, participants also expected to see:
    * (5) Appointments*
@@ -306,24 +305,24 @@ Participants thought it was helpful to have access to features from the home scr
 
 * **Prescriptions**:
     
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
+      <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Prescriptions.png" width="300" alt="VA mobile app - personalized home screen, Prescriptions module">  
 
-     * 5 participants said they wouldn't change anything about the information displayed
-     * 3 participants felt it would be useful to see more information: 
-       * 1 mentioned tracking information for prescriptions in transit
-       * 2 thought reminders that a prescription was about to run out would be useful: 
+      * 5 participants said they wouldn't change anything about the information displayed
+      * 3 participants felt it would be useful to see more information: 
+        * 1 mentioned tracking information for prescriptions in transit
+        * 2 thought reminders that a prescription was about to run out would be useful: 
          > "Instead of '9 ready to refill', maybe... wish there was a way or a reminder.. a "due soon" kind of thing... I wish it would make it clear which ones I would run out of soon." P1
 
 * **Appointments**:
      
       <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Activity-Appointments.png" width="300" alt="VA mobile app - personalized home screen, Appointments module">  
 
-      7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
-     * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
-       >  "If I don't check weekly, I won't know when the next one is coming up." P2 
-     * 1 participant disagreed: 
-       >   "I think a month is too much, but two weeks would be better." P16
-     * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
+     * 7/8 participants who saw the Appointments module said that the "next 7 days” time period was too short, but not all participants agreed on the best length of time:
+       * 5 participants specifically suggested that it would be more useful for planning purposes to see the next 30 days of appointments:
+         >  "If I don't check weekly, I won't know when the next one is coming up." P2 
+       * 1 participant disagreed: 
+         >   "I think a month is too much, but two weeks would be better." P16
+       * 1 other participant who had an upcoming appointment about 2 weeks out expected to see an appointments module but did not have one. P8
 
 *  **Secure message**:
      
