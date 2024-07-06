@@ -2,6 +2,56 @@
 🟦 ENG 🟨 RE 🟥 DE 🟪 PM 🟩 Analytics ✔️ Done ❗ Priority ⛔ Blocked :roller_skate: Rolling over
 
 <details>
+<summary>FUTURE SPRINT - 8/7/2024 - 8/20/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 13 - 8/7/2024 - 8/20/2024  ------- FUTURE FUTURE / TENTATIVE ------
+
+#### SPRINT GOALS
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+    - **Sub Goal: [Feature] Create KPIs**
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - **Sub Goal: [Feature] Get connected with WellHive**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
+
+
+
+#### PLANNED RELEASES 
+- NONE
+
+      
+</details>
+
+<details>
+<summary>FUTURE SPRINT - 7/24/2024 - 8/6/2024 </summary>
+______________________________________________________________________________________________________________________________________________________
+
+## SPRINT 12 - 7/24/2024 - 8/6/2024  ------- FUTURE FUTURE / TENTATIVE ------
+
+#### SPRINT GOALS
+- **GOAL: Introduce community care direct scheduling in Appointments**
+    - **Sub Goal: [Feature] Conduct research study with Veterans**
+    - **Sub Goal: [Feature] Create KPIs**
+    - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
+    - **Sub Goal: [Feature] Get connected with WellHive**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Cancel cc appts that have been scheduled**
+    - **Sub Goal: [Feature] Get authorized referrals from CDW**
+    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
+
+
+
+#### PLANNED RELEASES 
+- NONE
+
+      
+</details>
+
+<details>
 <summary>FUTURE SPRINT - 7/10/2024 - 7/23/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
