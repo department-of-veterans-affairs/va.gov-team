@@ -90,7 +90,7 @@ ________________________________________________________________________________
        - 🟪 Schedule meeting with Stephen Barrs and Shane Elliott after July 15 to discuss getting CC Consults using vista-api-x
        - 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
     - **Sub Goal: [Feature] Get CC app within vets-website set up**
-       - 🟦 [Pending appts page with unscheduled referral and expired referral](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87178)
+       - 🟦 [Pending appts page with unscheduled referral and expired referral](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87738)
     - **Sub Goal: [Feature] Tech & Design Debt**
        - 🟦 [Set up feature flag to use VA feature flipper](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87737)
     - **Sub Goal: [Feature] Create first draft of hi-fi wireframes and content for scheduling flow**
