@@ -3,7 +3,7 @@
 ### Notes
 - Attendees: Jamie Fiore, Syd Hoeper, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
 - Agenda topics:
-    - 7/8/24 CoP Meeting/presentation:
+    - 7/8/24 CoP Meeting & Presentation:
         - Rescheduled. The readout will be next week. There was someone new scheduling and they didn’t know about the presentation. 
      - Review of Design priorities:
         - Rachael and Mary have been working together on priorities.
@@ -11,10 +11,7 @@
         - Purple items indicate pending stakeholder review
         - ChampVA Service Blueprint claims can't be done yet, so they have been moved to the later column
         - OHI has one item left, but the team needs to focus on 1010D first as the main priority
-        - Email messaging status: All waiting on stakeholder review
-	            - FMP registration
-                    - CHAMPVA registration
-	            - OHI email review messaging
+        - Email messaging status: All waiting on stakeholder review - FMP registration, CHAMPVA registration and OHI email review messaging.
      - 1010D: Comments are in Figma, but what needs to happen next with 1010D?
         - Look at staging and making sure it matches Figma
         - Updating Figma is for recording keeping
@@ -22,7 +19,7 @@
         - Mary created a placeholder ticket for 1010D staging (Ticket 87065)
         - Syd is going to create a 1010 UAT ticket and tag Bo 
         - Rachael added stickies to the Roadmap Mural board as a reminder to make 1010D & F1 match Staging.
-     - How to communicate with stakeholders(Questions):
+     - How to communicate with stakeholders (Questions):
 	     - Product should be the filter
 	     - How do designers bring this up with product? What is the best process?
   	     - New process defined: When designers have stakeholder questions ready, they should post them in the ivc-forms Slack channel and tag Premal, Lois, Bo, Mary, and Devi and provide a date/time they need the response by. If a discussion is needed, we can set up a quick call to review the questions. 
