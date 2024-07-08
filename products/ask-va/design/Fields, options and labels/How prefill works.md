@@ -5,6 +5,7 @@ Last updated by @tygindraux: July 8, 2024
 **Jump to:**
   - [Initial prefill pattern](#initial-prefill-pattern)
   - [Additional prefill within the form](#additional-prefill-within-the-form)
+  - [Unauthenticated experience](#unauthenticated-experience)
 
 ## Initial prefill pattern
 
@@ -39,3 +40,7 @@ The submitter will be responsible for filling in the missing information, their 
 ## Additional prefill within the form
 
 There's additional prefill that happens within the form.
+
+## Unauthenticated experience
+
+If a submitter is not authenticated, their information won't be prefilled.
