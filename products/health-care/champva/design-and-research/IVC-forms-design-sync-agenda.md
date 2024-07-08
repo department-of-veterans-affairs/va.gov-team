@@ -3,36 +3,35 @@
 ### Notes
 - Attendees: Jamie Fiore, Syd Hoeper, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
 - Agenda topics:
-    -7/8/24 CoP Meeting/presentation:
-        -Rescheduled. The readout will be next week. There was someone new scheduling and they didn’t know about the presentation. 
-     -Review of Design priorities:
-        -Rachael and Mary have been working together on priorities.
-        -The Roadmap Mural is up to date in the Design Now/Next/Later priorities section.
-        -Purple items indicate pending stakeholder review
-        -ChampVA Service Blueprint claims can't be done yet, so they have been moved to the later column
-        -OHI has one item left, but the team needs to focus on 1010D first as the main priority
-        -Email messaging status: All waiting on stakeholder review
-	            -FMP registration
-                -CHAMPVA registration
-	            -OHI email review messaging
-     -1010D: Comments are in Figma, but what needs to happen next with 1010D?
-        -Look at staging and making sure it matches Figma
-        -Updating Figma is for recording keeping
-        -Changes that have already been made are in tickets that Bo created (Epic) https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/83904
-        -Mary created a placeholder ticket for 1010D staging https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/87065
-        -Syd is going to create a 1010 UAT ticket and tag Bo 
-        -Rachael added stickies to the Mural board as a reminder to make 1010D & F1 match Staging
-     -How to communicate with stakeholders(Questions):
-	     -Product should be the filter
-	     -How do designers bring this up with product? What is the best process?
-  	     -New process defined: When designers have stakeholder questions ready, they should post them in the ivc-forms Slack channel and tag Premal, Lois, Bo, Mary, and Devi and provide a date/time they need the response 
-          by. If a discussion is needed, we can set up a quick call to review the questions. 
-     -Confirmation email questions:
-	     -The team needs to review Premal’s feedback. As an example we need to confirm phone numbers.
-	     -Bo will chat with Premal when he is back about the feedback
-  	     -Backend questions, please ask the team (not stakeholders)
-     -Service Blueprint for FMP:
-         -Brian W. is going to start on it and Rachael will jump in when she can to work with Brian. 
+    - 7/8/24 CoP Meeting/presentation:
+        - Rescheduled. The readout will be next week. There was someone new scheduling and they didn’t know about the presentation. 
+     - Review of Design priorities:
+        - Rachael and Mary have been working together on priorities.
+        - The Roadmap Mural is up to date in the Design Now/Next/Later priorities section.
+        - Purple items indicate pending stakeholder review
+        - ChampVA Service Blueprint claims can't be done yet, so they have been moved to the later column
+        - OHI has one item left, but the team needs to focus on 1010D first as the main priority
+        - Email messaging status: All waiting on stakeholder review
+	            - FMP registration
+                - CHAMPVA registration
+	            - OHI email review messaging
+     - 1010D: Comments are in Figma, but what needs to happen next with 1010D?
+        - Look at staging and making sure it matches Figma
+        - Updating Figma is for recording keeping
+        - Changes that have already been made are in tickets that Bo created (Epic) https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/83904
+        - Mary created a placeholder ticket for 1010D staging https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/87065
+        - Syd is going to create a 1010 UAT ticket and tag Bo 
+        - Rachael added stickies to the Mural board as a reminder to make 1010D & F1 match Staging
+     - How to communicate with stakeholders(Questions):
+	     - Product should be the filter
+	     - How do designers bring this up with product? What is the best process?
+  	     - New process defined: When designers have stakeholder questions ready, they should post them in the ivc-forms Slack channel and tag Premal, Lois, Bo, Mary, and Devi and provide a date/time they need the response by. If a discussion is needed, we can set up a quick call to review the questions. 
+     - Confirmation email questions:
+	     - The team needs to review Premal’s feedback. As an example we need to confirm phone numbers.
+	     - Bo will chat with Premal when he is back about the feedback
+  	     - Backend questions, please ask the team (not stakeholders)
+     - Service Blueprint for FMP:
+         - Brian W. is going to start on it and Rachael will jump in when she can to work with Brian. 
 ### Decisions and action items
 - Moving forward, when the team has questions for stakeholders they will write them up and post them in the ivc-forms Slack channel. They will tag Premal, Lois, Mary, Bo, and Devi and share when they need the information by. If a meeting is needed, we can set up a quick meeting to review the questions.  
  
