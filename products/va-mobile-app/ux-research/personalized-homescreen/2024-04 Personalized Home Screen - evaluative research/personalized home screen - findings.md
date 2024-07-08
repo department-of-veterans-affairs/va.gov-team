@@ -1,5 +1,5 @@
 
-# DRAFT VA Mobile App - Personalized Home Screen Evaluative Research - Findings
+# VA Mobile App - Personalized Home Screen Evaluative Research - Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), VA Mobile App
 
@@ -7,7 +7,9 @@ Date: 07/03/2024
 
 Holly Collier ([holly.collier@adhocteam.us](mailto:holly.collier@adhocteam.us)), VA Mobile UX Team
 
-Research readout deck:  PDF
+**Research readout:**  
+* [Internal team deck](https://docs.google.com/presentation/d/1ZPKnTM2UslfUm71EBhangvb3aAMtx_74riC9qns8OQc/edit#slide=id.g1531a8d3ce4_2_202) | PDF
+* Monday design meeting deck 
 
 **Jump to:**  
 [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20findings.md#hypotheses-and-conclusions)  
