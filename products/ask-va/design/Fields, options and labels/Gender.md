@@ -6,6 +6,7 @@ Last updated by @tygindraux: April 4, 2024
 
 ## Jump to:
 - [Decision – June 2024](#decision-june-2024)
+- [Discussion – May 2024](#discussion-may-2024)
 - [Update – March 2024](#update-march-2024)
 - [Proposal to remove Gender – February 2024](#proposal-to-remove-gender-february-2024)
 - [Proposal to remove Gender – Fall 2024](#proposal-to-remove-gender-fall-2024)
@@ -13,6 +14,10 @@ Last updated by @tygindraux: April 4, 2024
 ## Decision – June 2024
 
 In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+
+## Discussion – May 2024
+
+In May 2024, we discussed this field with relevant stakeholders. Review [meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/5-2024%20Gender%20discussion%20with%20multiple%20stakeholders.md).
 
 ## Update – March 2024
 
