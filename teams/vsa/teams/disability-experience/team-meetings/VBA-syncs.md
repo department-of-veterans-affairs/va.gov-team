@@ -1,6 +1,13 @@
 # Ongoing DBEX/VBA Bi-weekly Sync Agenda & Notes
 Goal of the meeting series: addressing policy related or other open questions for ongoing work.
 
+## 7/09/24 Biweekly VBA-DBEX Check-in
+### Notes
+1. (Q12) Is there a distinction between "medical reports" in this list vs. records from VA or non-VA health care providers? We're trying to see if we can remove this checkbox if it is redundant with medical records. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4536-52527&t=t3GiM6ziyALYrIEO-1))
+2. (Q10) Behavioral changes section is optional for combat-only. Could it still be beneficial? We're trying to figure out if we should add conditional logic that skips this section, or still present it regardless. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4438-57597&t=t3GiM6ziyALYrIEO-1))
+3.0781 Research timeline update
+4. (If time) Walkthrough of 0781 prototypes
+
 ## 6/11/24 Biweekly VBA-DBEX Check-in
 ### In attendance
 
