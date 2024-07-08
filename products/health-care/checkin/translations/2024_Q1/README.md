@@ -17,6 +17,7 @@
 ### Tagalog (sent on 5/13/2024)
 [Q1 2024 - English and Tagalog Screenshots 2024-05-13.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/files/15300174/Q1.2024.-.English.and.Tagalog.Screenshots.2024-05-13.pdf)
 
-
 ## Final QA from the State Department on TBD
+[Q1 2024 - English and Tagalog Screenshots 2024-07-08.pdf](https://github.com/user-attachments/files/16132431/Q1.2024.-.English.and.Tagalog.Screenshots.2024-07-08.pdf)
+[LS-2024-0122945-LQA Notes-FIL_v1__Q1 2024 - English_2024-03-27_15-14-51.docx](https://github.com/user-attachments/files/16132434/LS-2024-0122945-LQA.Notes-FIL_v1__Q1.2024.-.English_2024-03-27_15-14-51.docx)
 
