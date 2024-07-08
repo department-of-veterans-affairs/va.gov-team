@@ -194,7 +194,7 @@ _**Participant is at Appointment list:**_
 
 - _If expiration date was not mentioned:_
   - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing it?
-  - Was there anything confusing about that information?
+  - And, if knowing    
 
 - Ok, still thinking out loud as you go along, go ahead and go through the process you'd follow to schedule the appointment mentioned in the text message you received.
 
