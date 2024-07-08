@@ -111,3 +111,5 @@ The data call in August 2021 defined these as the different types of VBA Facilit
 * [Pilot MVP launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2023-2024-pilot-mvp#points-of-contact-from-vba-ro-pilot-locations)
 * [National Editor onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2024-national-mvp)
 
+# Incident response
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-pages/technical-documentation.md#incident-response
