@@ -3,7 +3,7 @@
 This document is intended to analyze user feedback (Medallia) and track trends post secondary navigation launch/integration on 6/17/24. We seek to better understand how Veterans are responding to the portal and identify areas that are successful or need improvement. 
 
 The Cartographer Team will request landing page responses (/my-health/) as tool teams will also be pulling responses daily. 
-- Medallia qualitative feedback is to be analyzed daily and will be stored in [Excel (must be on the network)](https://dvagov.sharepoint.com/:x:/s/oitmhvonvagovcartographyteam/EVY2_fiGl7dMpbL1nhDRDjQBbvhwxRsKc611SDKas9oa7A?e=G5mtdl) 
+- Medallia qualitative feedback is to be analyzed daily and will be stored in [Sharepoint Excel](https://dvagov.sharepoint.com/:x:/s/oitmhvonvagovcartographyteam/EVY2_fiGl7dMpbL1nhDRDjQBbvhwxRsKc611SDKas9oa7A?e=G5mtdl) 
 - C-SAT will be calculated biweekly 
 
 Medallia feedback on My HealtheVet is collected via two distinct surveys: 
