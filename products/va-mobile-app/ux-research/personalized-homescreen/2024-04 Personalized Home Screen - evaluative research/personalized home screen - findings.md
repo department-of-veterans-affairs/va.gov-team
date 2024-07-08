@@ -195,7 +195,7 @@ Limiting the testing device type to iOS (iPhones and iPads) made for a more seam
     * Confirmed an additional time that they were on Zoom on mobile, were ok with installing stuff, and had their credentials ready to go
     * Using a link we provided in Zoom, installed Testflight and the pre-release version of the VA mobile app. 
     * Logged into the pre-release version of the mobile app using their real credentials 
-    * At the end of the session, uninstalled Testflight & the pre-production build at the end of the session
+    * At the end of the session, uninstalled Testflight & the pre-production build
 
 
 ## Detailed findings
