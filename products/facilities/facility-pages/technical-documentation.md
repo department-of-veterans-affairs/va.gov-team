@@ -59,3 +59,22 @@ More info on Facilities API consumer(s): https://dsva.slack.com/archives/C02BTJT
 ### Production vs. Sandbox data
 Lighthouse Facilities API data is synced to Lighthouse Sandbox daily, _except_ data from `cms-overlay`. Or: data pushed to Lighthouse by the CMS. 
 For `cms-overlay` data to be present in Sandbox, it must be manually synced by the Lighthouse team.
+
+
+
+## Incident response  
+
+### Points of contact for system and dependent VA backends
+   - Lighthouse 
+     - #api-facilities in DSVA Slack
+     - Dawn Pruitt, VA PO
+     - Adam Stilton, Engineering lead (adam.stilton@libertyits.com)
+   - Platform team / vets-api: #vfs-platform-support in DSVA slack  
+ 
+
+### Monitoring
+Links to dashboards that help identify and debug application issues
+Datadog dashboard: https://vagov.ddog-gov.com/dashboard/3vy-h6h-4ek/sitewide-facilities?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1720456851314&to_ts=1720460451314&live=true
+
+## Technical diagrams 
+![Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-
