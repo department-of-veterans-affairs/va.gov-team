@@ -13,7 +13,7 @@ Last updated by @tygindraux: April 4, 2024
 
 ## Decision – June 2024
 
-In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+In June 2024, the Change Control Board voted in favor our removing this field from Ask VA. Review [detailed outcomes]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/6-2024%20Change%20Control%20Board%20outcomes.md)).
 
 ## Discussions – May 2024
 
