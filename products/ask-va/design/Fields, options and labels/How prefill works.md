@@ -39,7 +39,19 @@ The submitter will be responsible for filling in the missing information, their 
 
 ## Additional prefill within the form
 
-There's additional prefill that happens within the form.
+There's additional prefill that happens within the form when it's available. This includes prefilling:
+
+|Page|Prefill source|
+|:--|:--|
+|`Your contact information`|VA Profile|
+|`Your mailing address`|VA Profile|
+|`Your location of residence`|VA Profile|
+|`Your postal code`|VA Profile|
+|`School information`|AVA Profile|
+
+In these cases, we **don't** use the `Initial prefill pattern`. The respective pages appear with information pre-filled. 
+
+![Prefill-pattern-example-3]()
 
 ## Unauthenticated experience
 
