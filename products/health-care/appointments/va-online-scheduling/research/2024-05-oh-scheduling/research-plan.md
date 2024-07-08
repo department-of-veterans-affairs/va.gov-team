@@ -1,7 +1,7 @@
 # Research Plan for Appointments Oracle Health integration and scheduling improvements
 
 ## Background
-The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to schedule and manage their appointments. Currently, facilities that use Oracle Health require Veterans to sign in to a seperate portal. The initiative that this research pertains to is creating a unified scheduling tool for both Vista and Oracle Health Facilities so that Veterans can easily book appointments without switching between platforms.
+The Appointments tool on VA.gov allows Veterans who are logged into VA.gov to schedule and manage their appointments. Currently, facilities that use Oracle Health require Veterans to sign in to a separate portal. The initiative that this research pertains to is creating a unified scheduling tool for both Vista and Oracle Health facilities, so Veterans can easily book appointments without switching between platforms.
 
 
 [Appointments Tool Product Outline](vaos-product-outline.md)
