@@ -12,6 +12,7 @@ Technical documentation is broken up, then, into 3 sections:
     * Front-end
 2. Data sources / API integrations
 3. Supporting the Facility Locator
+    * [URL handling]()
     * [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#incident-response)
     * [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#technical-diagrams)
 
@@ -104,6 +105,17 @@ Each subfolder contains an implementation .md file with details specific to that
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations#api-data
 
 # Supporting the Facility Locator
+
+## Facility URL handling
+In the Facility locator, search results will return Facilities or providers. Facility titles will be linked in search results. Where those facility titles link to is dependent on the state of the Facility modernization / publishing. 
+
+In short: 
+* If a facility has a modernized, published Drupal page: The linked title will point to the modernized page.
+* If a facility does NOT have a modernized, published Drupal page: the linked title will point to a Facility Locator detail page.
+
+Lighthouse owns a file called the "websites CSV." That file is considered the definitive truth for where any given Facility's content lives, as single source of truth. However: in some cases, a non-modernized site will list the previous TeamSite page as its live page. In these cases, facility locator has code in vets-website that will, instead of pointing out to the TeamSite page listed in websites CSV, will send users to a Facility Locator detail page for that facility's content. 
+
+Meaning: the Facility Locator will never point out to TeamSites. Always only either a modernized, or a facility locator detail, page.
 
 ## Incident response  
 Last updated: 12/28/2023
