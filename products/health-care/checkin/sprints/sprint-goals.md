@@ -77,7 +77,7 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
-    - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
+    - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
 </details>
 
 ## SPRINT 10 - 6/26/2024-7/9/2024
