@@ -90,7 +90,6 @@
 
 #### PLANNED RELEASES
 - **Integrate with claim_status endpoint for handling BTSSS API timeout**
-- New Landing page
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
