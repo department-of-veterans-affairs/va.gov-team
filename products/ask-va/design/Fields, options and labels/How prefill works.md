@@ -17,7 +17,7 @@ On this page, we'll reflect the submitter's:
 - `DOB`
 - `SSN`
 
-These identifiers will be pulled from VA Profile and a submitter is not able to edit them directly in the form or even from their profile.
+These identifiers will be pulled from VA Profile. The submitter is not able to edit them directly in the form or even from their profile.
 
 ### If any information is missing from their profile
 
