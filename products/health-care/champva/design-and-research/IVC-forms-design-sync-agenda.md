@@ -7,21 +7,21 @@
         - Rescheduled. The readout will be next week. There was someone new scheduling and they didn’t know about the presentation. 
      - Review of Design priorities:
         - Rachael and Mary have been working together on priorities.
-        - The Roadmap Mural is up to date in the Design Now/Next/Later priorities section.
+        - The Roadmap Mural has been updated in the Design Now/Next/Later priorities section.
         - Purple items indicate pending stakeholder review
         - ChampVA Service Blueprint claims can't be done yet, so they have been moved to the later column
         - OHI has one item left, but the team needs to focus on 1010D first as the main priority
         - Email messaging status: All waiting on stakeholder review
 	            - FMP registration
-                - CHAMPVA registration
+                    - CHAMPVA registration
 	            - OHI email review messaging
      - 1010D: Comments are in Figma, but what needs to happen next with 1010D?
         - Look at staging and making sure it matches Figma
         - Updating Figma is for recording keeping
-        - Changes that have already been made are in tickets that Bo created (Epic) https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/83904
-        - Mary created a placeholder ticket for 1010D staging https://app.zenhub.com/workspaces/ivc-forms-652da2d3f0ae4c0016bfb109/issues/gh/department-of-veterans-affairs/va.gov-team/87065
+        - Changes that have already been made are in tickets that Bo created (Epic 83904)
+        - Mary created a placeholder ticket for 1010D staging (Ticket 87065)
         - Syd is going to create a 1010 UAT ticket and tag Bo 
-        - Rachael added stickies to the Mural board as a reminder to make 1010D & F1 match Staging
+        - Rachael added stickies to the Roadmap Mural board as a reminder to make 1010D & F1 match Staging.
      - How to communicate with stakeholders(Questions):
 	     - Product should be the filter
 	     - How do designers bring this up with product? What is the best process?
@@ -29,7 +29,7 @@
      - Confirmation email questions:
 	     - The team needs to review Premal’s feedback. As an example we need to confirm phone numbers.
 	     - Bo will chat with Premal when he is back about the feedback
-  	     - Backend questions, please ask the team (not stakeholders)
+  	     - Backend questions, please ask the team first (not stakeholders)
      - Service Blueprint for FMP:
          - Brian W. is going to start on it and Rachael will jump in when she can to work with Brian. 
 ### Decisions and action items
