@@ -48,7 +48,7 @@ There's additional prefill that happens within the form when it's available. Thi
 |`Your mailing address`|VA Profile|
 |`Your location of residence`|VA Profile|
 |`Your postal code`|VA Profile|
-|`School information`|AVA Profile|
+|`School information`|AVA Profile for business submitters|
 
 In these cases, we **don't** use the `Initial prefill pattern`. The respective pages appear with information pre-filled. 
 
