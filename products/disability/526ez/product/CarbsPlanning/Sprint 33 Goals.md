@@ -27,5 +27,6 @@
   - Wrap up the post-remediate clean-up
   - Continue to work on the 526 state
   - Complete the production readiness tasks for the 526 Document Upload Failure Notifications
+  - Identify and outline the remaining work needed on the LH Doc Upload migration
   - 0781 research prep outlines and ready to go
   - 0781 protype ready for the research sessions
