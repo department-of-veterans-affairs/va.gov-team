@@ -77,6 +77,7 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
+    - 🟩 [4 Modifications to Tagalog Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87810)
     - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
 </details>
 
