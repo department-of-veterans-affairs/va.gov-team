@@ -156,9 +156,9 @@ Because of the potential variability of the modules within the Activity section,
 
 6. Participants may experience some lag when the personalized home screen is loading data, but any lag will not affect their perception of the app’s capabilities or value. We believe that some users may choose an alternate way for accessing tasks if the lag is perceived to be too great.
 
-    **Partially true:** Half of participants experienced load times of over 8 seconds when loading the home screen modules, sometimes even when returning to the homescreen additional times from locations deeper within the app. All participants were connected using 3-4 bars of wifi. Of the participants who experienced the long load time, half of them commented on the long load time, but eventually still said that they felt the app would be useful to them in their life.
+    **Yes, and no:** Half of participants experienced load times of over 8 seconds when loading the home screen modules, sometimes even when returning to the homescreen additional times from locations deeper within the app. All participants were connected using 3-4 bars of wifi. Of the participants who experienced the long load time, half of them commented on the long load time, but eventually still said that they felt the app would be useful to them in their life.
 
-    All participants who experienced long load times waited for the screen to finish loading instead of choosing an alternate way for accessing tasks (however, this may be because of task instructions asking the user to return to the home screen and may not be a reflection of what will occur organically).
+    No participants who experienced long load times chose an alternate way for accessing tasks——they waited for the screen to finish loading (however, this may be because of task instructions asking the user to return to the home screen and may not be a reflection of what will occur organically).
 
 
 ## Key Findings
@@ -623,12 +623,15 @@ Task prompt: Find out if you have received a message from your doctor.
     * Consider exploring ways to increase the usefulness of the module’s description text.
 * **Proof of Veteran status:**
     * Consider exploring how to ensure that users who are eligible have access to Proof of Veteran status see it on their homescreens.
-* Conduct a future evaluative study of the personalized home screen with screenreader users.
+* **Follow up research:  **
+    * Conduct a future evaluative study of the personalized home screen with screen reader users.
+    * Consider conducting a follow up study with former users of the app to determine if the personalized home screen 
+has made an impact on their perception of value.
+    * Monitor engagement metrics over time to assess impact of personalized home screen
+
 
 
 ### Next steps 
-
-
 
 * VA mobile app Global team to work with VA mobile app Health & benefits team to determine what changes (if any) to make to Activity modules
 * In addition to the feedback participants gave on the home screen entry points for the prescriptions, claims, and appointments features, participants also gave feedback on screens and elements within those features—those findings will be synthesized separately at a later date.
