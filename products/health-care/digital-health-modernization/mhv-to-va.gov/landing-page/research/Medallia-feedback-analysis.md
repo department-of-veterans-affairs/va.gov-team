@@ -112,6 +112,7 @@ Spanning both surveys
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
     <th scope="col">3/6/24-3/28/24</th>
+    <th scope="col">3/29/24-5/13/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
@@ -122,6 +123,7 @@ Spanning both surveys
     <td>12</td>
     <td>20</td>
     <td>10</td>
+    <td>44</td>
   </tr>
   <tr>
     <th scope="row">Overall CSAT</th>
@@ -132,6 +134,7 @@ Spanning both surveys
     <td>50%</td>
     <td>50%</td>
     <td>40%</td>
+    <td>68%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -141,6 +144,7 @@ Spanning both surveys
     <td>8 users</td>
     <td>5 users</td>
     <td>5 users</td>
+    <td>6 users</td> 
     <td>6 users</td> 
   </tr>
   <tr>
@@ -152,6 +156,7 @@ Spanning both surveys
     <td>3 users</td>
     <td>3 users</td>
     <td>0 users</td>
+    <td>4 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
@@ -162,6 +167,7 @@ Spanning both surveys
     <td>1 user</td>
     <td>2 users</td>
     <td>0 users</td>
+    <td>4 users</td>
   </tr>
   <tr>
     <th scope="row">Score 4 (of 5)</th>
@@ -172,6 +178,7 @@ Spanning both surveys
     <td>3 users</td>
     <td>2 users</td>
     <td>2 users</td>
+    <td>7 users</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
@@ -182,6 +189,7 @@ Spanning both surveys
     <td>3 users</td>
     <td>8 users</td>
     <td>2 users</td>
+    <td>23 users</td>
   </tr>
 </table>
 
