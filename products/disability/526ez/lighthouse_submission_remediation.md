@@ -49,6 +49,30 @@ Once we have a list of submissions via the `find_pdf_failures` script, we can ei
 11. Upload PDF
    ```
    claim_id = submission.submitted_claim_id
-   ???
+  require './lib/lighthouse/benefits_documents/service'
+  # docs_service requires a user with a participant_id :-(
+    user = OpenStruct.new({
+                            participant_id: submission.auth_headers['va_eauth_pnid'],
+                            icn:
+                          })
+  docs_service = BenefitsDocuments::Service.new(user)
+  mime_type = MimeMagic.by_path(fpath).type
+  tempfile = Tempfile.new(fpath)
+  tempfile.binmode
+  tempfile.write(content)
+  tempfile.rewind
+  action_file = ActionDispatch::Http::UploadedFile.new(
+    tempfile: tempfile,
+    type: mime_type,
+    filename: "#{fname}.pdf"
+  )
+  params = {
+    file: action_file,
+    file_params: {
+      claim_id: claim_id,
+      document_type: 'L122'
+    }
+  }
+  docs_service.send(:submit_document, params[:file], params[:file_params], nil)
    ```
 12. 
