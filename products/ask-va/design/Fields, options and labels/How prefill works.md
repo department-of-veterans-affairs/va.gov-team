@@ -43,6 +43,7 @@ There's additional prefill that happens within the form when it's available. Thi
 
 |Page|Prefill source|
 |:--|:--|
+|`Branch of service`|VA Profile|
 |`Your contact information`|VA Profile or AVA Profile for business submitters|
 |`Your mailing address`|VA Profile|
 |`Your location of residence`|VA Profile|
