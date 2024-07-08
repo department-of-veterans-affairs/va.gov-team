@@ -99,16 +99,15 @@ _Any additional research needed prior to or after implementation_
     - Timing: any
 
 
-## Roll-out approach <a id="roll-out"></a>
+## Roll-out approach <a id="roll-out"></a> (updated 7.8.24)
 
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
 
-**Phase 1. Top-level hub and landing pages - Launch 06/13/24**
+**Phase 1. Top-level hub and landing pages - Launched 06/25/24**
 - Updates to main family member hub page
-- Launch of all sub-hub pages (6)
-- Move PCAFC content page and application into new placement (no left nav needed yet)
-- Move CHAMPVA content into hub, launch CHAMPVA form in new home (no left nav needed yet)
-- Create new R&S pages as needed to support phase
+- Launch 5 sub-hub pages (holding"Housing" for now)
+- Move PCAFC content page and application into new placement (content page moved; waiting for product team to update application url)
+- Move CHAMPVA content into hub
 - Retire pages where appropriate
 - Best bets, entry points, link updates, and redirects
 
@@ -116,13 +115,13 @@ Notes:
 - The PCAFC form URL does not need to be updated in order to "hook it up" in this new structure, the breadcrumb will need to be updated however
 - The CHAMPVA content can be moved in either this phase or the next, but needs to be done when the CHAMPVA form is launched
   
-**Phase 2. Health care - Launch 07/05/24**
+**Phase 2. Health care - Launch 08/02/24**
 - Create new health content pages (3)
 - Create new R&S pages as needed to support phase
 - Retire pages where appropriate
 - Best bets, entry points, link updates, and redirects 
 
-**Phase 3. Education- Launch 07/26/24**
+**Phase 3. Education- Launch 08/02/24**
 - Move education content from the Veteran hub (5)
 - Create new education pages (4)
 - Move education forms (1990e, and 5490) from the Veteran hub (2)
@@ -140,6 +139,7 @@ Notes:
 - Best bets, entry points, link updates, and redirects 
 
 **Phase 5 Pension- Launch 08/16/24**
+- Launch Housing subhub page
 - Move pension content from the Veteran hub (2)
 - Create new R&S pages as needed to support phase
 - Retire pages where appropriate
