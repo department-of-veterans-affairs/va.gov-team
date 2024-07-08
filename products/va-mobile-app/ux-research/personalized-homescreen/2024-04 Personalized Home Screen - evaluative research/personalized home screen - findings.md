@@ -623,7 +623,7 @@ Task prompt: Find out if you have received a message from your doctor.
     * Consider exploring ways to increase the usefulness of the module’s description text.
 * **Proof of Veteran status:**
     * Consider exploring how to ensure that users who are eligible have access to Proof of Veteran status see it on their homescreens.
-* **Follow up research:  **
+* **Follow up research:**
     * Conduct a future evaluative study of the personalized home screen with screen reader users.
     * Consider conducting a follow up study with former users of the app to determine if the personalized home screen 
 has made an impact on their perception of value.
