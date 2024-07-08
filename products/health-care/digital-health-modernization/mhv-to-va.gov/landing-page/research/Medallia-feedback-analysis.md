@@ -22,7 +22,7 @@ Spanning both surveys
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
     <th scope="col">3/6/24-3/28/24</th>
-    
+    <th scope="col">3/29/24-5/13/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
@@ -33,6 +33,7 @@ Spanning both surveys
     <td>14</td>
     <td>31</td>
     <td>21</td>
+    <td>67</td>
   </tr>
   <tr>
     <th scope="row">A11 Intercept Survey</th>
@@ -43,6 +44,7 @@ Spanning both surveys
     <td>12 responses</td>
     <td>20 responses</td>
     <td>10 responses</td>
+    <td>44 responses</td>
   </tr>
   <tr>
     <th scope="row">VFS Feedback Button Survey</th>
@@ -53,6 +55,7 @@ Spanning both surveys
     <td>2 responses</td>
     <td>11 responses</td>
     <td>11 responses</td>
+    <td>23 responses</td>
   </tr>
   <tr>
     <th scope="row">Desktop users</th>
@@ -63,6 +66,7 @@ Spanning both surveys
     <td>14</td>
     <td>27</td>
     <td>16</td>
+    <td>55</td>
   </tr>
   <tr>
     <th scope="row">Mobile users</th>
@@ -73,6 +77,8 @@ Spanning both surveys
     <td>0</td>
     <td>4</td>
     <td>5</td>
+    <td>10</td>
+    
   </tr>
   <tr>
     <th scope="row">Tablet users</th>
@@ -83,6 +89,7 @@ Spanning both surveys
     <td>0</td>
     <td>0</td>
     <td>0</td>
+    <td>2</td>
   </tr>
 </table>
 
