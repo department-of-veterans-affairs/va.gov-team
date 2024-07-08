@@ -4,6 +4,7 @@ Last updated by @tygindraux: July 8, 2024
 
 **Jump to:**
   - [Initial prefill pattern](#initial-prefill-pattern)
+    - [If any information is missing from their profile](#if-any-information-is-missing-from-their-profile)
   - [Additional prefill within the form](#additional-prefill-within-the-form)
 
 ## Initial prefill pattern
@@ -40,4 +41,5 @@ The submitter will be responsible for filling in the missing information, their 
 
 ## Additional prefill within the form
 
-Text
+There's additional prefill that happens within the form.
+
