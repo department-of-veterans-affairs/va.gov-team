@@ -108,7 +108,8 @@ _If no observers or observers._
 
 - Ok, I’m sending you the prototype link now. 
 
-   - _Send [Prototype link](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=294-3585&t=LCu6HynSx7l1uQBW-1)._
+   - _Send [Figma prototype link](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=294-3585&t=LCu6HynSx7l1uQBW-1)._
+   - (for AT users) _Send [CodePen prototype link](https://codepen.io/team/va-cie/live/WNBQNxb)._
 
 - You can go ahead and select that link. And let me know when you have that open. 
 
