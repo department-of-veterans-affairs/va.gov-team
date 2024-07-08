@@ -71,7 +71,7 @@
         - 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
         - 🟩 [Pre-Check-in: Update New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87422)
         - 🟩 [[FE] Remove unactionable statuses from appointment list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87394)
-        - 🟩 [FE] Update Task Card
+        - 🟩 [[FE] Update Task Card ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87756)
     - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
