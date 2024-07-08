@@ -12,17 +12,20 @@
   - Scott Regenthal
     - Post Remediation clean-up
     - Document Upload Polling Solution
-  - Thomas Blackwell
-    - Implement Document Upload Polling Solution
-
-Next sprint: 
 
 ## Research and Design
-  - Nichole Nicholas -
-  - Jina Ryu - 
-  - Julie Pedtke - 
+  - Nichole Nicholas
+    - 0781 Research prep
+    - 0781 Research Synthesis
+  - Jina Ryu
+    - 0781 concept proto-type
+    - 0781 VBA consent page
+    - 0781 Paper form mapping
 
-Next sprint:
 
 ## Summary
-  - 
+  - Wrap up the post-remediate clean-up
+  - Continue to work on the 526 state
+  - Complete the production readiness tasks for the 526 Document Upload Failure Notifications
+  - 0781 research prep outlines and ready to go
+  - 0781 protype ready for the research sessions
