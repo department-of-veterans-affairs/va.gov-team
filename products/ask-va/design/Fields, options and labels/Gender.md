@@ -2,21 +2,29 @@
 
 Last updated by @tygindraux: April 4, 2024
 
-**March 2024 Update**: After [this research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md), we will recommend removing gender.
+---
+
+## Jump to:
+- [Decision – June 2024](#decision-june-2024)
+- [Update – March 2024](#update-march-2024)
+- [Proposal to remove Gender – February 2024](#proposal-to-remove-gender-february-2024)
+- [Proposal to remove Gender – Fall 2024](#proposal-to-remove-gender-fall-2024)
+
+## Decision – June 2024
+
+In June 2024, the Change Control Board voted in favor our removing this field from Ask VA.
+
+## Update – March 2024
+
+After [this research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md), we will recommend removing gender.
 
 The AVA CRM already gets data from the Master Person Index (MPI) when there's a match with Veteran data. MPI is the authoritative identity service within VA for establishing, maintaining, and synchronizing identities for VA persons. When an analyst generates a report using the Advanced Find tool in CRM, it contains gender data from MPI.
 
 Gender for Veteran dependents are also not in MPI. However, in early March, we confirmed that we only need to know the Veteran's gender to meet the Center for Women Veterans's needs. So we don't need gender data for dependents.
 
-The Ask VA Change Control Board will vote on this decision in May.
+The Ask VA Change Control Board will vote on this decision in June.
 
----
-
-## Jump to:
-- [Updated proposal to remove Gender](#updated-proposal-to-remove-gender)
-- [Original proposal to remove Gender](#original-proposal-to-remove-gender)
-
-## Updated proposal to remove Gender
+## Proposal to remove Gender – February 2024
 
 ### Insights from January 2024 usability testing
 After conducting usability testing in January 2024, we discovered new insights from Veterans. 
@@ -60,31 +68,7 @@ We also considered other factors [in this Mural board](https://app.mural.co/t/de
 ### Next steps
 The Ask VA Change Control Board will vote whether to remove gender or continue collecting this data. We will present this recommendation to the CCB.
 
-## Original proposal to remove Gender
-We recommend not collecting Gender when we migrate Ask VA to VA.gov.
-
-### VA.gov Design System
-The VA.gov Design System provides clear guidance to only ask for gender identity if it benefits the user experience:
-
-> "Don’t ask if it does not benefit the user experience. You should only ask users about gender when absolutely necessary."
-
-> "We don't use [gender] at all. Especially if someone has pronouns. Most of our responses are auto-generated. We don't pull reports about this or anything like that. We don't use it." - Ask VA agent from VBA
-
-### Mandate by law?
-The Center for Women Veterans (CWV) did share a Federal law with their understanding of why we must collect Gender information from submitters. However, after reviewing the law, we find that it only mandates collection of gender information when gender information is available in the dataset:
-
-> "...disaggregate such data by gender, race, and ethnicity, when the data lends itself to such disaggregation."
-
-When Ask VA migrates to VA.gov, we will continue to ask for preferred Pronouns. Pronouns more accurately describe how to address the submitter and/or refer to the person who an inquiry is about.
-
-### We do not need to collect gender identity, because:
-
-- It does not benefit the user experience - We will still collect preferred Pronouns, which let agents know how to address the submitter and/or refer to the person who the inquiry is about.
-- It is not mandated by law - Disaggregation by gender is only necessary if the data is collected in the first place.
-
-Therefore, we recommend that this field is removed.
-
-## Previous proposal to remove Gender
+## Proposal to remove Gender – Fall 2024
 
 We recommend not collecting `Gender` when we migrate Ask VA to VA.gov.
 
@@ -94,7 +78,7 @@ The [VA.gov Design System](https://design.va.gov/patterns/ask-users-for/gender) 
 
 > "**We don't use [gender] at all.** Especially if someone has pronouns. Most of our responses are auto-generated. We don't pull reports about this or anything like that. We don't use it." - Ask VA agent from VBA
 
-### Mandate by law?
+### Mandated by law?
 The Center for Women Veterans (CWV) did share a [Federal law](https://www.govinfo.gov/app/details/PLAW-116publ315) with their understanding of why we must collect `Gender` information from submitters. However, after reviewing the law, we find that it only mandates collection of gender information when gender information is available in the dataset:
 > "...disaggregate such data by gender, race, and ethnicity, **when the data lends itself to such disaggregation."**
 
