@@ -28,7 +28,7 @@
 
 **1) H1 of page - New**
 - URL: https://www.va.gov/burials-memorials/memorial-items/plaques-urns/
-- Breadcrumb: VA.gov Home > Burials and memorials > H1 of page
+- Breadcrumb: VA.gov Home > Burials and memorials > Memorial items > H1 of page
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -48,6 +48,7 @@ _Any additional locations that the page should be navigable from.  This is often
   - Placement description: 2nd option down, below `/headstones-markers-medallions/` page
   - Link label: TBD by Sitewide Content
   - Link destination: https://www.va.gov/burials-memorials/memorial-items/plaques-urns/
+  - Notes: I'm sure this is already on y'alls radar, but just noting here that we need to update the content on this page so that plaques and urns is removed from the description for `/headstones-markers-medallions/` page.
 
 ![Honor a Veteran or Reservist with memorial items](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/dc7a8f74-4056-47d0-a71a-6b2baac93203)
 
@@ -55,6 +56,7 @@ _Any additional locations that the page should be navigable from.  This is often
   - Placement description: 2nd option down, below `/headstones-markers-medallions/` page
   - Link label: TBD by Sitewide Content
   - Link destination: https://www.va.gov/burials-memorials/memorial-items/plaques-urns/
+  - Notes: Similar to the above, I'm sure y'all are aware of this, but we need to update the link label for `/headstones-markers-medallions/` page so that plaques and urns is removed from the link label.
 
 ![Burials hub left nav](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122128479/f59cb4a3-1366-4f00-858a-d4c7ad6ebb20)
 
