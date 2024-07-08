@@ -213,6 +213,7 @@ Other:
     <th scope="col">2/1/24-2/12/24</th>
     <th scope="col">2/13/24-3/5/24</th>
     <th scope="col">3/6/24-3/28/24</th>
+    <th scope="col">3/29/24-5/13/24</th>
   </tr>
   <tr>
     <th scope="row">Total responses</th>
@@ -223,6 +224,7 @@ Other:
     <td>1</td>
     <td>11</td>
     <td>11</td>
+    <td>23</td>
     
   </tr>
   <tr>
@@ -234,6 +236,7 @@ Other:
     <td>0%</td>
     <td>10%</td>
     <td>18%</td>
+    <td>8%</td>
   </tr>
   <tr>
     <th scope="row">Score 1 (of 5)</th>
@@ -244,6 +247,7 @@ Other:
     <td>1 user</td>
     <td>8 users</td>
     <td>3 users</td>
+    <td>14 users</td>
   </tr>
   <tr>
     <th scope="row">Score 2 (of 5)</th>
@@ -254,6 +258,7 @@ Other:
     <td>none</td>
     <td>1 user</td>
     <td>3 users</td>
+    <td>5 users</td>
   </tr>
   <tr>
     <th scope="row">Score 3 (of 5)</th>
@@ -263,6 +268,7 @@ Other:
     <td>2 users</td>
     <td>none</td>
     <td>1 user</td>
+    <td>2 users</td>
     <td>2 users</td>
   </tr>
   <tr>
@@ -274,6 +280,7 @@ Other:
     <td>none</td>
     <td>none</td>
     <td>2 users</td>
+    <td>0 users</td>
   </tr>
     <tr>
     <th scope="row">Score 5 (of 5)</th>
@@ -284,6 +291,7 @@ Other:
     <td>none</td>
     <td>1 user</td>
     <td>none</td>
+    <td>2 user</td>
   </tr>
   <tr>
     <th scope="row">Could user complete their task?</th>
