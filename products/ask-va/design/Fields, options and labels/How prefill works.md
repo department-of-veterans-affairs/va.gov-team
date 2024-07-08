@@ -51,7 +51,7 @@ There's additional prefill that happens within the form when it's available. Thi
 
 In these cases, we **don't** use the `Initial prefill pattern`. The respective pages appear with information pre-filled. 
 
-![Prefill-pattern-example-3]()
+![Prefill-pattern-example-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/07-2024-Prefill-pattern-example-3.png)
 
 ## Unauthenticated experience
 
