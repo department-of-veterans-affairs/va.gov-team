@@ -2,7 +2,13 @@
 
 # 2024-07-09
 ## Agenda
-- 
+- Extensions that aren't .PDF are missing from file_names in the IvcChampvaForm data table.
+   - Might not be an issue with what Cindy said in her email but worth noting.
+- I [Bryan] placed an elaborate 10-10D submission with PNG, JPEG and PDF supporting docs
+   - Cindy is likely still looking into this as I write this.
+   - We need to make sure that they get these documents and know how they are grouped. Right now they all have their own form_UUID, I wonder if we need to group them but we'll know when Cindy gets back to us.
+- Form Status Email Verbiage
+  - Is anyone working on this yet? The emails are still generic with Lorem ipsum.
 
 ## Notes
 - Action items
