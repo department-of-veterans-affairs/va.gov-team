@@ -18,7 +18,7 @@ On this page, we'll reflect the submitter's:
 - `DOB`
 - `SSN`
 
-These identifiers will be pulled from VA Profile. The submitter is not able to edit them directly in the form or even from their profile.
+These identifiers are pulled from VA Profile. The submitter is not able to edit them directly in the form or even from their profile.
 
 ![Prefill-pattern-example-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Images/07-2024-Prefill-pattern-example-1.png)
 
