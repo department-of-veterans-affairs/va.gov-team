@@ -70,7 +70,7 @@ The Ask VA Change Control Board will vote whether to remove gender or continue c
 
 ## Proposal to remove Gender – Fall 2024
 
-We recommend not collecting `Gender` when we migrate Ask VA to VA.gov.
+We recommend not collecting `Gender` when we migrate Ask VA to VA.gov. 
 
 ### VA.gov Design System
 The [VA.gov Design System](https://design.va.gov/patterns/ask-users-for/gender) provides clear guidance to only ask for gender identity if it benefits the user experience: 
@@ -88,4 +88,6 @@ When Ask VA migrates to VA.gov, we will continue to ask for preferred `Pronouns`
 - **It does not benefit the user experience** - We will still collect preferred `Pronouns`, which let agents know how to address the submitter and/or refer to the person who the inquiry is about.
 - **It is not mandated by law** - Disaggregation by gender is only necessary if the data is collected in the first place.
 
-Therefore, we recommend that this field is removed.
+### Next steps
+
+Discuss with stakeholders and do usability testing.
