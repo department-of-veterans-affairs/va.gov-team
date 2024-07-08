@@ -31,7 +31,7 @@ Once we have a list of submissions via the `find_pdf_failures` script, we can ei
    `bundle exec rails c -s`
 4. Run the script below to generate the PDF
    ```
-   submission = Form526Submission.find(1263)
+   submission = Form526Submission.find([SUBMISSION ID from #1])
    user_account = UserAccount.find_by(id: submission.user_account_id) ||
                          Account.lookup_by_user_uuid(submission.user_uuid)
    icn = user_account.icn
@@ -48,6 +48,7 @@ Once we have a list of submissions via the `find_pdf_failures` script, we can ei
    ```
 11. Upload PDF
    ```
-   
+   claim_id = submission.submitted_claim_id
+   ???
    ```
 12. 
