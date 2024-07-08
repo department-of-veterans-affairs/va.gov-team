@@ -236,9 +236,7 @@ Take a moment to review the confirmation page!
 	-   What do you expect to happen next?
  	-   Assume you received an email version of the confirmation page, just like before. 
 
-Great. Now we're going to travel forward in time. Imagine one week has passed since you submitted your claim and you've still only received the email version of the confirmation page.
-
-Take a moment to review the confirmation screen then I’ll ask you a couple of questions.
+Great. Now we're going to travel forward in time. Imagine 7 days have passed since you submitted your claim and you haven't received a new email from VA.
 
 -   What do you think is happening with your submission right now?
     
