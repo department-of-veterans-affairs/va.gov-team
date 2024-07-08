@@ -61,25 +61,23 @@
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments** 
+    - **Sub Goal: New Landing Page with Today's VISTA Appointments**
+        - 🟩 [[FE] - Add e2e test for completing check-in then going back to appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87721)
+        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
+        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
+    - **Sub Goal: Upcoming VAOS Appointments** 
+        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
+        - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
         - 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
         - 🟩 [Pre-Check-in: Update New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87422)
         - 🟩 [[FE] Remove unactionable statuses from appointment list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87394)
-        - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
-        - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
-    - **Sub Goal: Upcoming VAOS Appointments**
-        - Is there any FE integration work that remains?
-        - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
-        - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
-    - **Sub Goal: Update Translations**
+    - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84429)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
-    - 🟥 [[UX][Design] SPIKE: Stale reload details ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87509)
     - 🟩 [[CHIP] - reduce lorota fields during initiatePreCheckIn ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60840)
-    - 🟩 [SPIKE: Can we Update Mocks for Scenario ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87414)
 </details>
 
 ## SPRINT 10 - 6/26/2024-7/9/2024
