@@ -104,12 +104,16 @@ _Any additional research needed prior to or after implementation_
 Benefits hub pages/forms/tools will be roll-out hub by hub in the following rough approach:
 
 **Phase 1. Top-level hub and landing pages - Launched 06/25/24**
-- Updates to main family member hub page
-- Launch 5 sub-hub pages (holding"Housing" for now)
-- Move PCAFC content page and application into new placement (content page moved; waiting for product team to update application url)
-- Move CHAMPVA content into hub
-- Retire pages where appropriate
-- Best bets, entry points, link updates, and redirects
+- [x] Updates to main family member hub page
+- [x] Launch 5 sub-hub pages (holding"Housing" for now)
+- [x] Move PCAFC content page
+- [ ] Move PCAFC application into new placement (waiting for product team to update application url)
+- [x] Move CHAMPVA content into hub
+- [x] Retire pages where appropriate
+- [ ] Best bets
+- [ ] Left nav
+- [ ] Crosslinking link updates
+- [x] Redirects
 
 Notes:
 - The PCAFC form URL does not need to be updated in order to "hook it up" in this new structure, the breadcrumb will need to be updated however
