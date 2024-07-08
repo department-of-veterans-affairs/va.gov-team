@@ -21,7 +21,7 @@ These identifiers will be pulled from VA Profile. The submitter is not able to e
 
 ### If any information is missing from their profile
 
-If we're missing any of these identifiers (`First name`, `Last name`, `DOB`, `SSN`), we will **skip** the initial prefill pattern.
+However, if their VA Profile is missing any of these identifiers (`First name`, `Last name`, `DOB`, `SSN`), we will **skip** the initial prefill pattern.
 
 Instead, the submitter will go directly to the category page, and so on. They will see the `Tell us about yourself` page within the form,  
 
