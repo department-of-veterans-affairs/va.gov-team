@@ -14,6 +14,7 @@
 - **GOAL: Increase PCI Usability**
 - **GOAL: Address Tech Debt**
 
+
 #### PLANNED RELEASES
 - NONE
 
@@ -39,6 +40,7 @@
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
+
   
 </details>
 
@@ -103,6 +105,7 @@
       - ✔️ 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
       - ✔️ 🟨 [[DevOps] Create Terraform module for Vista API ECR resources in octo-vista-api.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86861)
       - 🟨 [[DevOps] Remove LoROTA Cleanup Lambda and schedule.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86812)
+      - 🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
@@ -130,6 +133,7 @@
         - 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
         - ✔️ 🟩 [[FE] BUG - date is missing from already field error.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/87064)
         - 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
+
 
 ## SPRINT 9 - 6/12/2024-6/25/2024
 
