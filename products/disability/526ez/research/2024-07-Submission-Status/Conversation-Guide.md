@@ -228,28 +228,28 @@ On a scale of 1 to 5, how confident are you that your claim was submitted and re
 [Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5626%3A129875)
 
   
+Thanks for your feedback. For this scenario, let’s again imagine again that you are about to submit a new disability claim as Hector, but this time for asthma. Go ahead and submit the application, just like before. 
 
-Thanks for your feedback. For this scenario, let’s again imagine that you submitted a new disability claim for tinnitus one week ago. As you can currently see on the screen, you have one email confirmation in your inbox from 7 days ago.
+Take a moment to review the confirmation page!
 
-  
+-   What do you think is happening with your submission right now?
+	-   What do you expect to happen next?
+ 	-   Assume you received an email version of the confirmation page, just like before. 
 
-Take a moment to review the email you received last week, then I’ll ask you a couple of questions.
+Great. Now we're going to travel forward in time. Imagine one week has passed since you submitted your claim and you've still only received the email version of the confirmation page.
+
+Take a moment to review the confirmation screen then I’ll ask you a couple of questions.
 
 -   What do you think is happening with your submission right now?
     
-	-   [If delay is mentioned] How would you feel if you didn’t receive the email when you expected it?
+	-   [If delay is mentioned] How does that make you feel?
     
-
-  
-
 -   Are there any actions left for you to take?
+
     
-
-  
-
 **[Claim received email]**
 
-Later today, you check your email and find the following message in your inbox.
+Ten minutes later, you check your email and find the following message in your inbox.
 
 -   According to this email, what’s the status of your submission?
     
@@ -273,9 +273,8 @@ Later today, you check your email and find the following message in your inbox.
 
 [Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5966%3A58868)
 
-Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim for tinnitus.
-
-Two days ago, you submitted your claim on VA.gov and received a confirmation email, which you are currently looking at in your inbox. You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.
+Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim.
+You received a confirmation email, which you are currently looking at in your inbox. You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.
 
 **[Evidence failure email]**
 
