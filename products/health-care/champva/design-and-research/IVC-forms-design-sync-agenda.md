@@ -34,7 +34,7 @@
      -Service Blueprint for FMP:
          -Brian W. is going to start on it and Rachael will jump in when she can to work with Brian. 
 ### Decisions and action items
--Moving forward, when the team has questions for stakeholders they will write them up and post them in the ivc-forms Slack channel. They will tag Premal, Lois, Mary, Bo, and Devi and share when they need the information by. If a meeting is needed, we can set up a quick meeting to review the questions.  
+- Moving forward, when the team has questions for stakeholders they will write them up and post them in the ivc-forms Slack channel. They will tag Premal, Lois, Mary, Bo, and Devi and share when they need the information by. If a meeting is needed, we can set up a quick meeting to review the questions.  
  
 ## June 24, 2024
 ### Notes
