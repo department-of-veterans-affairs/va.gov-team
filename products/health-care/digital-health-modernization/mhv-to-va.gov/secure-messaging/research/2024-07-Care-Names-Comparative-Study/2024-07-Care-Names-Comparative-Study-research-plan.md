@@ -66,33 +66,49 @@ Data collection will be remote and conducted using Optimal Workshop's Chalkmark:
 ### Research materials
 Images to be tested
 
+
 **Current state of triage group options in secure messaging experience**
-![BaltimoreDC Current State](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/40bb1a99-a6aa-4dfc-a49a-c9a6ee91062f)
+
+<img width="375" alt="Classic_+spacing" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/e418e3ec-7cb7-4aa7-b874-f86e7bd9c89c">
+
 
 **Alternative version 1: Provider name**
-![BaltimoreDC Provider Name first](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/804f7562-1041-4e91-8e59-e21c4740e431)
+
+<img width="519" alt="Provider_+spacing" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/f8326151-110b-447c-a4b2-3e6756489ed9">
+
 
 **Alternative version 2: Location**
-![BaltimoreDC Location first](https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/c4e3eafe-f772-4715-821a-c9492f7a7bd5)
+
+<img width="519" alt="Provider_+spacing" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/100814257/fc0f4eff-6a9e-4d3e-97eb-cbb6357f7351">
 
 
-[Pre- and post-task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-06-Care-Names-Comparative-Study/2024-07-Care-Names-Comparative-Study-pre-and-post-task-questions.md)
+
+[Pre- and post-task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-07-Care-Names-Comparative-Study/2024-07-Care-Names-Comparative-Study-pre-and-post-task-questions.md)
 
 **Chalkmark tests**
 - Will add links to cohorts once preview version is approved by research ops. 
-- Preview link for current state
+- [Preview link for current state](https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b/completed)
 - Preview link for location
 - Preview link for provider name
 
+Practice cohort: Current state (n=9)
 
 Cohort 1: Current state (n=9)
+
 Cohort 2: Current state (n=9)
+
 Cohort 3: Current state (n=9)
+
 Cohort 4: Provider name (n=9)
+
 Cohort 5: Provider name (n=9)
+
 Cohort 6: Provider name (n=9)
+
 Cohort 7: Location (n=9)
+
 Cohort 8: Location (n=9)
+
 Cohort 9: Location (n=9)
 
 
@@ -102,7 +118,9 @@ Cohort 9: Location (n=9)
 We will partner with Perigean to recruit Veterans. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. We will keep track of participant demographic information (identified gender, age, ethnicity, cognitive abilities) and other relevant information in an encrypted Excel sheet saved on the VA network Sharepoint drive. 
 
 ## Recruitment criteria
-This study will consist of 9 cohorts of 9 Veterans per cohort; total sample size = 81. Recruitment will be ongoing until all cohorts are filled. 
+Request a practice cohort to confirm accuracy of data collection. Practice cohort of n=9; collect data from 5 participant, review data to observe anomalies, perhaps adjust test, and then re-test with additional 4 participants. 
+
+Data for final analysis in this study will consist of 9 cohorts of 9 Veterans per cohort; total sample size = 81. Recruitment will be ongoing until all cohorts are filled. 
 
 Please exclude mobile users. Please exclude all assistive technology users as we cannot accommodate them in this study. 
 
@@ -115,11 +133,17 @@ Cohorts should vary by VISN, which include different states. No need to include 
 - Cohort 3: South Dakota, Iowa, or Minnesota
   
 - Cohort 4: New York
+
 - Cohort 5: Florida
+
 - Cohort 6: Oregon, Washington, Alaska or Idaho
+
 - Cohort 7: Pennsylvania or Delaware
+
 - Cohort 8: Kentucky or Tennessee
+
 - Cohort 9: Colorado, Wyoming, Oklahoma or Utah
+  
 
 |Total requested|Completed sessions|Veterans|Family Member|Caregivers|Service Members|
 |:-------------:|:----------------:|:------:|:-----------:|:--------:|:-------------:|
@@ -317,11 +341,9 @@ NA
 
 ### KO with Perigean
 Week of July 8th. Availability for any of the following time slots: 
-- July 8th: 1 pm - 5 pm ET
 - July 9th: 10 am - 12 pm ET; 2-3 pm ET
 - July 10th: 12-12:30 pm ET; 1-2 pm ET
 - July 11th: 3:30 pm - 5 pm ET
-- July 12th: 1 pm ET - 2:30pm ET; 3:30 ET - 5 pm ET
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
