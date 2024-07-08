@@ -7,7 +7,6 @@ Last updated by @tygindraux: July 8, 2024
 ## Jump to:
 - [Decision – June 2024](#decision-june-2024)
 - [Discussions – May 2024](#discussion-may-2024)
-- [Update – March 2024](#update-march-2024)
 - [Proposal to remove Gender – February 2024](#proposal-to-remove-gender-february-2024)
 - [Proposal to remove Gender – Fall 2024](#proposal-to-remove-gender-fall-2024)
 
@@ -21,16 +20,6 @@ In May 2024, we discussed this field with relevant stakeholders:
 - [Meeting notes – May 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/5-2024%20Gender%20discussion%20with%20multiple%20stakeholders.md)
 - [Meeting notes – May 6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/5-2024%20Follow-up%20gender%20discussion.md)
 - [Meeting notes – May 20](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Business%20line%20engagement/5-2024%20Second%20follow-up%20gender%20discussion.md)
-
-## Update – March 2024
-
-After [this research study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Findings.md), we will recommend removing gender.
-
-The AVA CRM already gets data from the Master Person Index (MPI) when there's a match with Veteran data. MPI is the authoritative identity service within VA for establishing, maintaining, and synchronizing identities for VA persons. When an analyst generates a report using the Advanced Find tool in CRM, it contains gender data from MPI.
-
-Gender for Veteran dependents are also not in MPI. However, in early March, we confirmed that we only need to know the Veteran's gender to meet the Center for Women Veterans's needs. So we don't need gender data for dependents.
-
-The Ask VA Change Control Board will vote on this decision in June.
 
 ## Proposal to remove Gender – February 2024
 
