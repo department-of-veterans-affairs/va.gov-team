@@ -87,7 +87,7 @@ Images to be tested
 
 **Chalkmark tests**
 - Will add links to cohorts once preview version is approved by research ops. 
-- [Preview link for current state](https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b/completed)
+- [Practice cohort link]([https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b/completed](https://dj540s05.optimalworkshop.com/chalkmark/6d8e546da575a19a1514efe53c75d41b))
 - Preview link for location
 - Preview link for provider name
 
