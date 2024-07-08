@@ -8,7 +8,7 @@ Last updated by @tygindraux: July 8, 2024
 
 ## Initial prefill pattern
 
-After an authenticated submitter clicks `Ask a new question`, the next page is `Personal information`. This uses [a VA.gov Design System initial prefill pattern](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file) which is used to communicate information that is on file.
+After an authenticated submitter clicks `Ask a new question`, the next page is `Personal information`. This uses [a VA.gov Design System initial prefill pattern](https://design.va.gov/patterns/help-users-to/know-how-their-information-is-updated#communicate-information-that-is-on-file) which is used to communicate information that is on file. It lets a submitter skip reviewing this information later on in the form.
 
 On this page, we'll reflect the submitter's:
 
