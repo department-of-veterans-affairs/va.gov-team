@@ -225,7 +225,7 @@ On a scale of 1 to 5, how confident are you that your claim was submitted and re
 
   
 
-[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5626%3A129875&show-proto-sidebar=1)
+[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5626%3A129875)
 
   
 
@@ -271,7 +271,7 @@ Later today, you check your email and find the following message in your inbox.
 
 ## Third Task: [Evidence Failure scenario] - 10 minutes
 
-[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5966%3A58868&show-proto-sidebar=1)
+[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5966%3A58868)
 
 Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim for tinnitus.
 
