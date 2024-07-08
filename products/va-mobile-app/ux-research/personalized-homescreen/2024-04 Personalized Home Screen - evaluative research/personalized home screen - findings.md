@@ -190,7 +190,7 @@ Limiting the testing device type to iOS (iPhones and iPads) made for a more seam
     * Join the session using Zoom on their mobile device (on their own) _*Most important_
     * Were ok with installing Testflight & the app build
     * Could log in with VA credentials
-* Users did the following things during the session with guidance from the moderator:
+* Participants did the following things during the session with guidance from the moderator:
     * Shared their mobile screen in Zoom
     * Confirmed an additional time that they were on Zoom on mobile, were ok with installing stuff, and had their credentials ready to go
     * Using a link we provided in Zoom, installed Testflight and the pre-release version of the VA mobile app. 
