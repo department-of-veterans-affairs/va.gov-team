@@ -30,8 +30,7 @@ Recent Medallia pulled and reviewed in preparation for Events 3.0 initiative. Me
    - > This site is 99% useless to me. Remote resources are meaningless. A lot of us need in person activities and the job postings don't matter for veterans with a lot of disabilities. Remote access materials or zoom courses/support exacerbate our problems.
 3. Provide clearer information about event eligibility and capacity to manage user expectations. Are there opportunities for overflow or waitlist? recordings? otherwise? 
    - > Sign up for writing workshop i just read about. I just opened the VA newdletter I just received. Read about the workshop, clicked on link to register and......its already filled up. Is this old news getting sent out?
-4. Conduct an audit of all links and registration processes to identify and fix technical issues. **Though this may be more a note for the editors and ongoing issue
-5. Enhance the registration experience. These are currently done via third-party event host software linked from a listed event.
+4. Enhance the registration experience. These are currently done via third-party event host software linked from a listed event.
    - If registration continues to be completed at an external site, how might we add help text in editor flow to provide a better Veteran experience?
    - > Attempted to register for event and got message that I wasn't eligible even though I'm a veteran.
    - > I registered for the hiring event, but then nothing... No contacts, no invites, no access to the participant companies.  No links to anything!
