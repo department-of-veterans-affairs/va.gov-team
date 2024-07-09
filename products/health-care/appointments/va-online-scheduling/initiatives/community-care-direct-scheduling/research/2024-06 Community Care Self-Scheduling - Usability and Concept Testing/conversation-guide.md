@@ -132,8 +132,6 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
      - _If still no, for non-screen reader users, moderator can choose to share their own screen._
         - No problem. I'd like to try something else. I'll share my screen and control the prototype, but you can tell me what you would do next and I'll do that. How does that sound?
           
-        - _Skip to [prototype](https://www.figma.com/proto/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=294-3585&t=LCu6HynSx7l1uQBW-1)._ 
-
    - _If yes:_ Great. Now, if there’s any apps, web pages or notifications on your device that you’d like to close or turn off before I’m able to see your screen, I’ll give you a moment to do that now.
 
 
