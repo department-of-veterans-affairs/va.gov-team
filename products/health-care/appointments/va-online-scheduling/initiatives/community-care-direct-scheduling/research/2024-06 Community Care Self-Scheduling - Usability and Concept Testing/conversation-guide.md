@@ -243,7 +243,7 @@ _**Participant is on filter page:**_
 
 [ONLINE SCHEDULING FILTER]
 
-- _If online scheduling option was not mentioned:_ And what about the third filter on the screen? what does that mean to you?
+- _If online scheduling option was not mentioned:_ And what about the third filter on the screen? What does that mean to you?
  
 - _If not yet mentioned:_ And, if the provider you knew you wanted to schedule with did NOT have online scheduling, would you still expect to find information on that provider in this tool? 
     - _If yes:_ What information would you expect to find for that provider?
