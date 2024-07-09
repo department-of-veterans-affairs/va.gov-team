@@ -103,9 +103,9 @@ The initial phase will be rolled out to welcome Veterans who have not created a 
 ### Current Status
 
 ### Key Decisions
-- [Transitioning Research 2/26/24]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md))
-- [Onboarding to VA.gov Product Outline 3/11/24]([url](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onboarding))
-- [Comparative Analysis ]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md))
+- [Transitioning Research 2/26/24](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/research-review.md)
+- [Onboarding to VA.gov Product Outline 3/11/24](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onboarding)
+- [Comparative Analysis ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onboarding/discovery-research/comparative-analysis.md)
 ---
    
 ## Screenshots
