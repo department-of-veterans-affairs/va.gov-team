@@ -1,4 +1,4 @@
-This is based off (this MHV document)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/mhv-api-tunnel-setup.md]
+This is based off [this MHV document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/mhv-api-tunnel-setup.md)
 
 This describes setting up AWS credentials and local aws-cli setup to allow your local machine to open a port that connects to PPMS via the dev forward proxy
 
