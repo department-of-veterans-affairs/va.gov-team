@@ -88,7 +88,6 @@
     - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
     - **Sub Goal: Move to New AWS Instance**
       - ✔️ 🟨 [[DevOps] Recreate LoROTA DynamoDB with TTL rule matching current.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84123)
-      - ✔️ 🟨 [[DevOps] Propose transferring octo-vista-api into Check-In Experience's control.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86814)
       - ✔️ 🟨 [[DevOps] Review image scanning results for ECR images in vaec-cms.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87088)
       - ✔️ 🟨 [[DevOps] Nate Douglas needs access to CHYSHY VistA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81378)
       - ✔️ 🟨 [[DevOps] Migrate octo-vista-api to use OIDC provider on vaec-cie.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84180)
