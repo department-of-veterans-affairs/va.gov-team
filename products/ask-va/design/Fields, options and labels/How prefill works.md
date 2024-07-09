@@ -41,14 +41,22 @@ The submitter will be responsible for filling in the missing information, their 
 
 There's additional prefill that happens within the form when it's available. This includes prefilling:
 
-|Page|Prefill source|
-|:--|:--|
-|`Branch of service`|Claims API|
-|`Your contact information`|Identity credential or AVA Profile for business submitters|
-|`Your mailing address`|Identity credential|
-|`Your location of residence`|Identity credential|
-|`Your postal code`|Identity credential|
-|`School information`|AVA Profile for business submitters|
+|Page|Field|Prefill source|
+|:--|:--|:--|
+|Branch of service|`Branch of service`|Claims API|
+|Your contact information|`Phone number`|Identity credential or AVA Profile for business submitters|
+|Your contact information|`Email address`|Identity credential or AVA Profile for business submitters|
+|Your mailing address|`Country`|Identity credential|
+|Your mailing address|`Street address`|Identity credential|
+|Your mailing address|`Apartment or unit number`|Identity credential|
+|Your mailing address|`Street address 2`|Identity credential|
+|Your mailing address|`Street address 3`|Identity credential|
+|Your mailing address|`City`|Identity credential|
+|Your mailing address|`State`|Identity credential|
+|Your mailing address|`Postal code`|Identity credential|
+|Your location of residence|`State/Province/Region`|Identity credential|
+|Your postal code|`Postal code`|Identity credential|
+|School information|`School facility`|AVA Profile for business submitters|
 
 In these cases, we **don't** use the `Initial prefill pattern`. The respective pages appear with information pre-filled. 
 
