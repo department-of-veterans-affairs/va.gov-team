@@ -56,17 +56,18 @@ ________________________________________________________________________________
          
 </details>
 
-<details>
-<summary>FUTURE SPRINT - 7/10/2024 - 7/23/2024 </summary>
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 11 - 7/10/2024 - 7/23/2024  ------- FUTURE FUTURE / TENTATIVE ------
+## SPRINT 11 - 7/10/2024 - 7/23/2024 - CURRENT SPRINT
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
     - **Sub Goal: [Feature] Conduct research study with Veterans**
     - **Sub Goal: [Feature] Get CC Consults**
-    - **Sub Goal: [Feature] Integrate mocks with FE pages** 
+    - **Sub Goal: [Feature] Integrate mocks with FE pages**
+    - **Sub Goal: [Feature] Get CC app within vets-website set up**
+    - **Sub Goal: [Feature] Design & Tech Debt**
+
 
 
 #### PLANNED RELEASES 
@@ -100,7 +101,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________
 
-## SPRINT 10 - 6/26/2024 - 7/9/2024 - CURRENT SPRINT
+## SPRINT 10 - 6/26/2024 - 7/9/2024 
 
 #### SPRINT GOALS
 - **GOAL: Introduce community care direct scheduling in Appointments**
