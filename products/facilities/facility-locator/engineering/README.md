@@ -1,73 +1,45 @@
 # Facility Locator Engineering README 
-
-The Facility Locator is a vets-website front-end product in VA.gov, that sits on a vets-api backend. The Locator uses Mapbox via API key for mapping functionality.
-
-The vets-api implementation is integrated with the Lighthouse Facilities API, and a growing list of other data sources.
-
-To run the Facility Locator locally, you can run the front-end only, or you will need to run vets-api locally to modify the API itself. 
-
-Technical documentation is broken up, then, into 3 sections: 
-1. Working with the Facility Locator
-   * Vets-api / backend
-    * Front-end
-2. Data sources / API integrations
-3. Supporting the Facility Locator
+TOC:
+* [High level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#)
+* [Facilities-api integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#)
+* [Working with the Facility Locator](#working-with-the-facility-locator)
+* Supporting the Facility Locator
     * [URL handling]()
     * [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#incident-response)
-    * [Facility Locator technical diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#technical-diagrams)
+
+## **High level:**
+The Facility Locator is a React application built in vets-website: [applications/facility-locator](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/facility-locator)
+
+The Facility Locator retrieves data from a few upstream data-sources using the `facilities-api` in vets-api: 
+* [modules/facilities_api](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/facilities_api) in vets-api
+* [Facilities-api documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api) <br/>
+
+The Locator also uses Mapbox via API key for mapping functionality.
 
 
+## Facilities-API integration 
+All Facility Locator data is delivered via facilities-api.
+
+* [**facilities-api data sources**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api#data-sources) describes all the data sources available to facilities-api
+* [**facilities-api Lighthouse API integration**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md#lighthouse-integration) includes information on Lighthouse API endpoint mapping, API consumers / keys, rate limits, and the process to [request a rate limit increase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/README.md#request-api-limit-increase)
 
 
-# 1. Working with the Facility Locator
+### OLD INFO that needs to be verified
+Previously, we talked about facilities-api and facility locator interchangeably. Now facilities-api is considered its own product. Some of the old docs are likely out of date, but some information may be valuable. Docs we need to sort out: 
+
+* Data sources & API integrations: [/engineering/data-and-api-integrations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations)` contains information about each data integration in the Facility Locator, from ~2022. Is any of this accurate / true in the modern facilities-api? If so: move it to https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api. Each subfolder contains an implementation .md file with details specific to that integration. 
+
+* API Endpoint descriptions: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations#api-data
 
 
-## Vets-api / backend: Configuring your environment
+# Working with the Facility Locator
 
-* [Sandbox](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/fwdproxy-vagov-sandbox.yml)
-* [Production](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/fwdproxy-vagov-prod.yml)
+* Frontend: To run the Facility Locator locally, you can run the front-end only in vets-website. 
+* Backend: To modify the backend, you must run facilities-api from vets-api locally. Follow facilities-api docs: [Working with the facilities-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#working-with-the-facilities-api)
 
-
-## Vets-api / Lighthouse Key & rate limits
-* Vets-api: VA  Code: [vets-api/modules/facilities_api](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/facilities_api)
-* Lighthouse Facilities API Documentation: https://developer.va.gov/explore/api/va-facilities - Documentation for API that indexes data sourced from VA.gov, Lighthouse
-
-### **API user/key:**
-Facility Locator uses an API key that belongs to the **`VADOTGOV_FacilityLocator` consumer**. This key is used when routing through vets-api to get Lighthouse data. 
-
-**As of 12/2023**: The `VADOTGOV_FacilityLocator` consumer has a single API key & rate limit.
-
-**This API key is shared** 
-Right now this API key only accesses the Facilities API. But within Lighthouse, the rate limit for API Keys is shared across all accessed APIs. If this key were used to access multiple APIs, traffic spikes will affect the rate limit for all other APIs using the same key. 
-[Background on shared API keys (Slack)](https://dsva.slack.com/archives/CUB5X5MGF/p1695666665300929), originally related to the Forms product.
-
-### **Rate limits**
-Rate limits are applied _**per consumer**_ to _**all APIs**_ accessed by that consumer.
-As of 12/23, the API rate limit is **2,000 requests/min.** (The 2,000 requests/min. rate limit applies to the collective traffic across all APIs accessed by the consumer/key.)
-
-If/when we request rate limit changes, that rate limit will be set for all APIs accessed by the `VADOTGOV_FacilityLocator` API consumer, even if products are using different API keys. 
-
-More info on [rate limit changes (Github)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md#request-api-limit-increase).
-
-### Error messages
-When API hits a rate limit... TODO: Verify what happens in FL and document here
-
-### Request API limit increase
-If 429 errors occur in Datadog or Sentry, this indicates that traffic is high and we are being throttled by an API rate limit / requests are being rejected. We can request API limit increases for specific endpoints, and the Lighthouse Facilities team can help expedite approvals. Rate limit changes will affect all users of the API key, across used APIs. 
-
-To request a rate limit increase:
-1. Ping #cms-lighthouse in DSVA slack, and explain the issue / what you're seeing to the Lighthouse Facilities API team.
-2. LH can provide specifics on what endpoint will need to be increased for limit, and what the current limit is. They can also help suggest the new limit. If you already know this info, skip to 3.
-3. Visit https://developer.va.gov/support/contact-us. Fill out the form with endpoint, limit, and limit increase information/
-4. Share with #cms-lighthouse that request is made. Lighthouse team can then help expedite approval.
-
-Typically, we may want to reduce the limit again after traffic spikes end. If that's true, create a ticket to track requesting the lower limit. 
-
-### Platform Developer docs
-- [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) - Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
-- [Vets-website feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide)
 
 ### Interactions with dependent VA backends
+TODO: what is this? Is this useful? IF so, add narrative. If not, remove.
 
 **Query examples**
 ```
@@ -86,27 +58,10 @@ https://np.dws.ppms.va.gov/v1.0/ProviderLocator?acceptingnewpatients=0&address=4
 https://np.dws.ppms.va.gov/v1.0/ProviderLocator?address=40.415217,-74.057114&maxResults=11&radius=200&specialtycode1=213E00000X
 ```
 
-### Troubleshooting 
 
+## Supporting the Facility Locator
 
-## FE: Configuring your environment 
-
-
-### Troubleshooting
-
-
-
-# Data sources & API integrations
-`[/engineering/data-and-api-integrations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations)` contains information about each data integration in the Facility Locator. 
-
-Each subfolder contains an implementation .md file with details specific to that integration. 
-
-## API Endpoint descriptions 
-https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering/data-and-api-integrations#api-data
-
-# Supporting the Facility Locator
-
-## Facility URL handling
+### Facility URL handling
 In the Facility locator, search results will return Facilities or providers. Facility titles will be linked in search results. Where those facility titles link to is dependent on the state of the Facility modernization / publishing. 
 
 In short: 
@@ -117,10 +72,10 @@ Lighthouse owns a file called the "websites CSV." That file is considered the de
 
 Meaning: the Facility Locator will never point out to TeamSites. Always only either a modernized, or a facility locator detail, page.
 
-## Incident response  
+### Incident response  
 Last updated: 12/28/2023
 
-### Points of contact for system and dependent VA backends
+#### Points of contact for system and dependent VA backends
    - Lighthouse 
      - #api-facilities in DSVA Slack
      - Dawn Pruitt, VA PO
@@ -135,10 +90,5 @@ Last updated: 12/28/2023
 Links to dashboards that help identify and debug application issues
 
 [monitoring.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/monitoring.md)
-
-
-## Technical diagrams 
-![Architecture diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/facilities%20technical%20diagram%2001.12.22.PNG)
-
 
 
