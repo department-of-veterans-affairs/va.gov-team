@@ -39,7 +39,7 @@ The submitter will be responsible for filling in the missing information, their 
 
 ## Additional prefill within the form
 
-There's additional prefill that happens within the form when it's available. This includes prefilling:
+There's additional prefill that happens within the form when it's available. This are the additional fields that we prefill:
 
 |Page|Field|Prefill source|
 |:--|:--|:--|
