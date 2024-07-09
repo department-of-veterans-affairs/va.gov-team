@@ -34,17 +34,18 @@ Incidents should be classified based on severity levels and potential impact. Th
 
 **- Low:** Incidents with minimal impact on operations and information security.
 
-**Example**: An error has presented itself for 1 - 2 hours that has led to a handful of submission failures or blocked users from hitting submit on an application
-Medium: Incidents with moderate impact requiring immediate attention.
+*Example*: An error has presented itself for 1 - 2 hours that has led to a handful of submission failures or blocked users from hitting submit on an application
 
-**Example:** An error has presented itself for 3 - 4 hours that has led to multiple submission failures or an outage has occurred that blocks users from submitting an application for a brief period of time, a Maintenance Window should be considered for this situation
+**Medium:** Incidents with moderate impact requiring immediate attention.
+
+*Example:* An error has presented itself for 3 - 4 hours that has led to multiple submission failures or an outage has occurred that blocks users from submitting an application for a brief period of time, a Maintenance Window should be considered for this situation
 
 **High:** Incidents with significant impact on operations, functionality, and/or forms.
 
-**Example:** An error has presented itself for 5 - 6 hours that has led to a staggering amount of submission failures (error rate above 15%) or an outage has occurred that blocks users from submitting an application for an extended period of time, a Maintenance Window should be implemented in this situation
+*Example:* An error has presented itself for 5 - 6 hours that has led to a staggering amount of submission failures (error rate above 15%) or an outage has occurred that blocks users from submitting an application for an extended period of time, a Maintenance Window should be implemented in this situation
 Critical: Incidents causing severe disruption, compromising sensitive information, or posing a significant risk to Veterans and their information.
 
-**Example:** An error has presented itself that has led to all submissions failing or an outage has occurred that blocks all users from submitting an application for any period of time, a Maintenance Window will be implemented in this situation
+*Example:* An error has presented itself that has led to all submissions failing or an outage has occurred that blocks all users from submitting an application for any period of time, a Maintenance Window will be implemented in this situation
 
 
 **Incident Response Procedures**  
