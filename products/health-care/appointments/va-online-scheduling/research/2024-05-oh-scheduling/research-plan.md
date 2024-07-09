@@ -200,6 +200,11 @@ Zoom
 Perigean will:
 - Recruit 16 total participants for this study.
 - Schedule a brief kickoff call to run through the recruitment criteria before recruiting.
+Availability for kickoff call: 
+- **Wednesday, July 10:** 2:00 PM - 5:00 PM EST
+- **Thursday, July 11:** 9:00 AM - 5:00 PM EST
+- **Friday, July 12:** 9:00 AM - 5:00 PM EST
+- **Monday, July 15:** 9:00 AM - 5:00 PM EST
 
 ### Recruitment Criteria
 
