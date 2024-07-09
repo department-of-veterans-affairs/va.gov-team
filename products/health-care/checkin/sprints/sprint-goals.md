@@ -22,7 +22,7 @@
         - ❗🟩🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: Upcoming VAOS Appointments**
-        - UX & FE Tickets for how to incorporate VAOS appts?
+        - 🟩 [[FE] Display Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
         - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
         - Schedule Staging Review
@@ -33,10 +33,8 @@
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
-
   
 </details>
-
 
 <details>
 <summary>SPRINT 11 - 7/10/2024-7/23/2024 FUTURE TENTATIVE</summary>
@@ -60,6 +58,7 @@
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
     - **Sub Goal: Upcoming VAOS Appointments** 
+        - 🟥 [[UX] Create Final Wireframes for incorporating Upcoming VAOS Appointments into Pre-Check-in & eCheck-in ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87871)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
         - 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
