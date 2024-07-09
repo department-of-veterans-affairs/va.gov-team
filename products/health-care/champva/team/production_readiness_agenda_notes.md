@@ -20,6 +20,7 @@
    - Working session to see what capabilities we have here?
 - Load Testing for S3 bucket
 - Documentation for reading and creating monitors in Datadog
+- Double check numbers in the Datadog dashboard. Audit the form.s
 
 ## Notes
 - Action items
