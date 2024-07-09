@@ -44,10 +44,10 @@ There's additional prefill that happens within the form when it's available. Thi
 |Page|Prefill source|
 |:--|:--|
 |`Branch of service`|Claims API|
-|`Your contact information`|VA Profile or AVA Profile for business submitters|
-|`Your mailing address`|VA Profile|
-|`Your location of residence`|VA Profile|
-|`Your postal code`|VA Profile|
+|`Your contact information`|Identity credential or AVA Profile for business submitters|
+|`Your mailing address`|Identity credential|
+|`Your location of residence`|Identity credential|
+|`Your postal code`|Identity credential|
 |`School information`|AVA Profile for business submitters|
 
 In these cases, we **don't** use the `Initial prefill pattern`. The respective pages appear with information pre-filled. 
