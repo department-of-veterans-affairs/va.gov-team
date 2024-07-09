@@ -3,10 +3,24 @@ Goal of the meeting series: addressing policy related or other open questions fo
 
 ## 7/09/24 Biweekly VBA-DBEX Check-in
 ### Notes
-1. (Q12) Is there a distinction between "medical reports" in this list vs. records from VA or non-VA health care providers? We're trying to see if we can remove this checkbox if it is redundant with medical records. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4536-52527&t=t3GiM6ziyALYrIEO-1))
-2. (Q10) Behavioral changes section is optional for combat-only. Could it still be beneficial? We're trying to figure out if we should add conditional logic that skips this section, or still present it regardless. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4438-57597&t=t3GiM6ziyALYrIEO-1))
+1. (Q12) Is there a distinction between "medical reports" in this list vs. records from VA or non-VA health care providers? We're trying to see if we can remove this checkbox if it is redundant with medical records. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4536-52527&t=t3GiM6ziyALYrIEO-1)) 
+- ex. medical report from ambulence, we'd still need 4142 to get that record
+- would not remove it (context thing, indication, reminder to veteran to submit it esp if they didn't complete 4142). leave it even if a little redundant
+- especially if they fill out 4142 after, we can indicate later in the 4142 "you indicated you'd provide medical reports.."
+- military physicians would already be in STR 
+- is civilian physician a private healthcare provider? -> yes
+2. (Q10) Behavioral changes section is optional for combat-only. Could it still be beneficial? We're trying to figure out if we should add conditional logic that skips this section, or still present it regardless. [(wireframe)]([url](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=4438-57597&t=t3GiM6ziyALYrIEO-1)) 
+- if we can prove combat, we don't need any of these other markers. "i hate hiding parts of the form, but i also see this is a long list.. is there an in between option? giving content instruction"
+- RVSRs don't want people telling them if it's combat or not. David agrees with sentiment that we don't want to assume it's as obvious as we think 
+- Would rather see list than skip it, with caveat that "you indicated combat only, you may skip this section"
+- Once a veteran identifies combat and we have other evidence to support that (DD214,medals); these questions are bonus but most decision makers won't see this as providing value 
 3.0781 Research timeline update
 4. (If time) Walkthrough of 0781 prototypes
+- Does adding another treatment record create separate 4142? Because on paper form, there's only one 4142 per provider
+- What are we doing right now? Look into what happens if someone fills out multiple providers 
+- 4142a has space for several different providers and facilities 
+- David's clear front runner is option B (additional forms page), adds simplicity and anytime we give veterans more context what form they're filling out, it's better. Emily also likes this option 
+- Add conditional - you either need to complete form or delete it to continue 
 
 ## 6/11/24 Biweekly VBA-DBEX Check-in
 ### In attendance
