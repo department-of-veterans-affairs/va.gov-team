@@ -182,7 +182,7 @@ We will provide 28 time slots, with the aim to book 14 sessions.
 	
 ## Team roles
 
-* Moderators: Tyler Gindraux (tyler@bluetiger.digital)
+* Moderators: Tyler Gindraux (tyler@bluetiger.digital), Thomas Michaud (thomas.michaud@oddball.io)
 * Research guide writing and task development: Tyler Gindraux
 * Participant recruiting & screening: Perigean
 * Project point of contact: Tyler Gindraux
