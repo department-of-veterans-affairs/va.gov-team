@@ -16,14 +16,23 @@
 
 <details>
 <summary>Upcoming Community Care Appointment Details Page </summary>
+
+  
 </details>
 
 <details>
 <summary>Upcoming Canceled Community Care Appointment Details Page </summary>
+
+![cancelbookCC](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/4692fca0-486f-4f43-8f5f-234ac7a2a4f8)
+
+
 </details>
 
 <details>
 <summary>Upcoming Appointment Details Page - Phone appointment </summary>
+
+![phonebook](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/197ef4af-645d-40d2-8132-7212b0467702)
+
 </details>
 
 <details>
@@ -44,6 +53,10 @@
 
 <details>
 <summary>Upcoming Canceled Appointment Details Page - Video at home </summary>
+
+![cancelvideo](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/2244a8dc-edaf-4e3f-b33f-ef5fe0a5a7c7)
+
+
 </details>
 
 <details>
@@ -64,18 +77,30 @@
 
 <details>
 <summary>Pending Appointment Details Page - At VA location </summary>
+
+![VArequest](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/53741e1e-1c97-491e-97c7-79c322914aed)
+
 </details>
 
 <details>
 <summary>Pending Canceled Appointment Details Page - At VA location </summary>
+
+![cancelVArequest](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/1cb5e6cc-18e5-4a3d-ae20-25b9e5e1aa13)
+
 </details>
 
 <details>
 <summary>Pending Community Care Appointment Details Page </summary>
+
+![CCrequest](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/63f74709-6f74-4c76-bd13-a284e4b9101a)
+  
 </details>
 
 <details>
 <summary>Pending Canceled Community Care Appointment Details Page </summary>
+
+![cancelCCrequest](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/bb460876-8bad-40b2-9d25-3838f9d96658)
+
 </details>
 
 <details>
