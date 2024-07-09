@@ -42,7 +42,7 @@ July 2, 2024
 - **Testing limitations:**
   - _Nothing specific to this feature implementation to add_
 - **Other testing notes:**
-  - UAT completed by other roles (see [UAT documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/features/design-personalization/uat)). Product (in consultation with Engineering, QA and UX) decided that no changes needed to be made to MVP, coming out of UAT.
+  - UAT & other user research completed by other roles. Product (in consultation with Engineering, QA and UX) decided that no changes needed to be made to MVP, coming out of that research.
    - Work on the [React Query migration (zenhub epic link)](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6729) occuring in develop (before, during & after home screen personalization work) impacted the implementation and testing of this feature
 
 
