@@ -5,14 +5,14 @@ Ask VA VA.gov Team
 Last updated by @tygindraux: July 9, 2024
 
 **Jump ahead to:**
-- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#background)
-- [Research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#research-goals)
-- [Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#methodology)
-- [Recruitment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#recruitment)
-- [Timeline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#timeline)
-- [Research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#research-sessions)
-- [Team roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#team-roles)
-- [Approved by](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/research/Submit%20an%20inquiry/Round%201/Research%20plan.md#approved-by)
+- [Background](#background)
+- [Research goals](#research-goals)
+- [Methodology](#methodology)
+- [Recruitment](#recruitment)
+- [Timeline](#timeline)
+- [Research sessions](#research-sessions)
+- [Team roles](#team-roles)
+- [Approved by](#approved-by)
 
 ## Background
 
