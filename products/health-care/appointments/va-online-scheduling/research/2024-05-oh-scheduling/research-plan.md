@@ -270,7 +270,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 ### Availability
 Here is a clear list of availability:
 
-### Monday, July 15 to Thursday, July 18
+### Tuesday, July 16 to Thursday, July 18
 - 11:00 AM to 5:00 PM EST
 
 ### Monday, July 22 to Wednesday, July 24
@@ -293,3 +293,5 @@ Please list the people who will be serving in each role. **Include the primary p
 - Note-takers:	Peter Russo
 - Observers:	Leah De La Costa, Jeff Roof
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work.** Spread observers across sessions so that there are no more than 5-6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side 
+Email addresses for attendees: 
+Brenda Cudone <brenda.cudone@adhocteam.us>, Ciera Maddox <ciera.maddox@adhocteam.us>, Jeff Roof <jeff.roof@adhocteam.us>, Leah De La Costa <leah.delacosta@adhocteam.us>, Melissa Lefevre <melissa.lefevre@adhocteam.us>, Peter Russo <peter.russo@adhocteam.us>
