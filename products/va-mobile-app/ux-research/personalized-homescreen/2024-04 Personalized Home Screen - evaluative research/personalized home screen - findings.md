@@ -184,18 +184,16 @@ Because of the potential variability of the modules within the Activity section,
 **High level overview of testing using a production build:**
 Limiting the testing device type to iOS (iPhones and iPads) made for a more seamless/easy installation of the pre-release build because of the simplicity of the Testflight link (the link opens a webpage with links to download both of those, while installing a build on Android requires a more involved set of steps, and can be more variable due to differences in OS settings between device manufacturers). We also planned for extra setup time during the session for technical difficulties.
 
-
-
-* To test with a pre-release production build, we confirmed in advance that they: 
-    * Join the session using Zoom on their mobile device (on their own) _*Most important_
-    * Were ok with installing Testflight & the app build
+* To test with a pre-release production build, we confirmed and gathered consent in advance that participants: 
+    * Would join the session using Zoom on their mobile device (on their own) _*Most important_
+    * Were ok with downloading and installing Testflight & the app build
     * Could log in with VA credentials
-* Participants did the following things during the session with guidance from the moderator:
-    * Shared their mobile screen in Zoom
+* Participants did the following things during the session with help from the moderator:
     * Confirmed an additional time that they were on Zoom on mobile, were ok with installing stuff, and had their credentials ready to go
+    * Shared their mobile device's screen in Zoom
     * Using a link we provided in Zoom, installed Testflight and the pre-release version of the VA mobile app. 
     * Logged into the pre-release version of the mobile app using their real credentials 
-    * At the end of the session, uninstalled Testflight & the pre-production build
+    * At the end of the session, uninstalled Testflight & the pre-production build (and reinstalled the App store version, if applicable)
 
 
 ## Detailed findings
