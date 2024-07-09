@@ -19,6 +19,8 @@ Implementing a Customer Effort Score (CES) will enhance the Flagship mobile team
 * Obtain feedback from Veterans on the ease or difficulty of specific areas or features.
 * Utilize Veterans' feedback to drive product improvements that enhance the overall user-friendliness of the app.
 
+### Additional Context
+
 **What is the Customer Effort Score**
 Customer Effort Score is a concise survey, strategically placed at the end of a key task and optimized for mobile. The survey asks users to respond to a 5-point scale question that measures the effort required to use the mobile app to complete the task. In the context of CES, the wording in the question focuses on the effort to complete the task as opposed to the satisfaction of the user’s experience.
 
