@@ -81,7 +81,7 @@ _If NO observers present OR if observers are present._
 ---
 ## Semi-structured interview - Referrals - 5-7 minutes
 
-_Note for moderator: If Veteran has difficulty answering some of these questions, consider not asking all of the questions._
+_Note for moderator: If Veteran has difficulty answering some of these questions, consider not asking all of the them and moving to the next section._
 
 - We have a few different activities we’ll complete during this session. To start, I’ll ask you a few questions about receiving authorization from VA to receive care from another VA provider for specialty care or a community care provider.
 
