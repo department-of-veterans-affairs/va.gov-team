@@ -52,7 +52,7 @@ The Identity team has products that other teams require our assistance with to d
 * Slackbot message automation.
    * When a request is assigned.
    * When a request is closed.
-* Slackbot posts the kind of issue and any text from the "Additional details" field as a response to the slack thread collected.
+* Slackbot posts the kind of issue and any text from the "Additional details" field as a response to the slack thread collected, unless it's a data pull ticket.  (Can we do this?)
 * Slackbot posts conversation in Slack thread into Github ticket
 * Identity Team branding updates
 * Identity Team documentation updates.
