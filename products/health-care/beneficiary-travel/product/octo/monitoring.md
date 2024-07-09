@@ -33,6 +33,7 @@ so that we take timely actions to migtigate the problem and restore service
 - Alerts should include a message with details to what is going on
 - Ideally, the team can set up differnt thresholds of alerting (warning, errors, recovering, etc)
 - Monitoring and alerting should follow the [USE](https://www.brendangregg.com/USEmethod/use-linux.html) and [RED](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/) paradigms
+- This should include what details we can gather from the APIs downstream dependencies 
 
 
 ## Obersability
