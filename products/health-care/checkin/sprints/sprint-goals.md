@@ -109,9 +109,9 @@
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page WITH OUT Upcoming Appointments**
         - Added at the end of the sprint
-            - 🟩 [BUG: For check-in, we talked about pivoting the H2 to "Today's appointments at this facility". ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87413)
-            - 🟩 [Bug: When selecting "Details" BEFORE completing pre-check-in, there should not be the content directly below the heading about "bring insurance." ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87410)
-            - 🟩 [Bug: "Review your information" eyebrow component should be on the demographic question pages in pre-check-in above the h1. Figma link. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
+            - ✔️ 🟩 [BUG: For check-in, we talked about pivoting the H2 to "Today's appointments at this facility". ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87413)
+            - ✔️ 🟩 [Bug: When selecting "Details" BEFORE completing pre-check-in, there should not be the content directly below the heading about "bring insurance." ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87410)
+            - ✔️ 🟩 [Bug: "Review your information" eyebrow component should be on the demographic question pages in pre-check-in above the h1. Figma link. ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
         - ✔️ 🟩 [[FE] Landing page feature flag work for showing vista appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86078)
         - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
         - ✔️ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
