@@ -1,6 +1,18 @@
 # Content decision log - Push notifications
 
+
+## V2a decisions
+After getting feedback from a stakeholder, we updated the secondary button for both the Face ID and Push context screens from "Skip" to "Skip for now". All other decisions remain the same.
+
+[V2a GH ticket 9012](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/9012)
+
+| Screen name            | Screenshot with updated button copy            | Explanation        | Decision made by | Date                 |
+| :-------------      | :-------------      | :-------------              |:-------------         |:-------------|
+|Face ID screen | ![Screenshot 2024-07-09 at 11 41 48 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102106810/5210978e-eb1c-425c-8595-59a2bc2e2017) | Even though we hint in the body copy of the screen that the Veteran will be able to change their decision to not enable this feature, we thought it'd be best to use the secondary button to communicate that as well. | Misty Milliron-Grant | 7/9/2024 |
+|Push context screen | ![Screenshot 2024-07-09 at 11 42 12 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/102106810/b040ab7d-065d-495b-b9dd-63366c7a41e3)| Same as above | Misty Milliron-Grant | 7/9/2024 |
+
 ## V2 decisions
+
 We took our V1 of push notifications consent and opt-in experience and made edits to account for potential additions to notifications. Not all screens had changes from V1 to V2.
 
 [V2 content GH ticket 8420](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/8420)
