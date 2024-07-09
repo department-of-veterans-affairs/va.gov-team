@@ -105,22 +105,35 @@
 
 <details>
 <summary>Past Appointment Details Page - At VA location </summary>
+
+![pastVA](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/5c9383a6-a618-4ab2-9e11-f94cdb67a2cf)
+
 </details>
 
 <details>
 <summary>Past Community Care Appointment Details Page </summary>
+
+![pastCC](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/79180f5c-a236-496b-bbe7-2509a400a2e8)
+
 </details>
 
 <details>
 <summary>Past Appointment Details Page - Phone appointment </summary>
+
+![pastPhone](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/bf67314d-7f3c-4ef3-b23a-ccff6b5793b2)
+
 </details>
 
 <details>
 <summary>Past Appointment Details Page - Video at home </summary>
+
+![pastVideo](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/0a74f4ca-d9ef-4e8e-afd8-6a340dd04ae7)
+
 </details>
 
 <details>
-<summary>Past Appointment Details Page - GFE </summary>
+<summary>Past Appointment Details Page - Claims </summary>
+
 </details>
 
 <details>
