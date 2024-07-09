@@ -135,7 +135,7 @@ ________________________________________________________________________________
          - ✔️ 🟨 [Conduct pilot research session](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86936)
          - ✔️ 🟨 [Update convo guide & prototypes based on pilot](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86937)
          - ✔️ 🟨 [Populate observer sign up sheet with roster from Perigean](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86935)
-         - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
+         - :roller_skate: 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Design & Tech Debt**
          - ✔️ 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible
     - **Sub Goal: [Feature] Get connected with WellHive**
