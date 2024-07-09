@@ -9,6 +9,15 @@
    - We need to make sure that they get these documents and know how they are grouped. Right now they all have their own form_UUID, I wonder if we need to group them but we'll know when Cindy gets back to us.
 - Form Status Email Verbiage
   - Is anyone working on this yet? The emails are still generic with Lorem ipsum.
+- Form resubmission
+   - Now that we have a bunch of forms without a PEGA response waiting in staging, can we get them through the process to see how that works?
+   - If we need something to be able to do this, what do we need?
+- Cypress tests
+   - What's the best way to see what test cases are already in place?
+   - What's the best way to add new ones?
+   - Maybe we can write up a guide for this?
+- TestRail
+   - Working session to see what capabilities we have here? 
 
 ## Notes
 - Action items
