@@ -10,15 +10,13 @@ Health care
 
 ### Sept. 12, 2024 at 2:30 p.m. E.T
 
-**Your question**
-<br>
-<br> I'm 70% disabled, do my dependents get health care as well? Thanks.
+#### Your question
+I'm 70% disabled, do my dependents get health care as well? Thanks.
 
 ### Sept. 14, 2024 at 9:00 a.m. E.T
 
-**Response from VA**
-<br>
-<br> Hello, 
+#### Response from VA
+Hello, 
 <br>
 <br> You have reached CHAMPVA. Our program is exclusively for family members of service members/Veterans who are determined permanent and total, service-connected disabled, or whose raiting show they are being paid at 100% due to unemployability, or who died service connected, who are not otherwise eligible for Tricare. We do not provide care/coverage for Veterans.
 <br> 
@@ -28,8 +26,7 @@ Health care
 <br> 
 <br> For further questions you may call CHAMPVA at 1-800-733-8387.
 
-**Attachments**
-<br>
-<br> Attachment 01 name.pdf (30 KB)
+##### Attachments
+Attachment 01 name.pdf (30 KB)
 <br> 
 <br> Attachment 02 name.pdf (30 KB)
