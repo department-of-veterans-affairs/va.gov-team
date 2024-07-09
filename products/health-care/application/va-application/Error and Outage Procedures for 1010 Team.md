@@ -1,63 +1,124 @@
-# Version one of the general error & outage procedures for EZ & EZR
-- Last updated: 3/25/2024
----
+**Title: VA Health Enrollment Incident Response Standard Operating Procedure (SOP)
 
-## Incident Commander for all errors and outage triage is The Delivery Manager
-- The tasks / responsibilities of an incident commander most closely align with that of a delivery manager so she is best suited to tackle the role.
-     - How does an incident commanders handle critical incidents:
-          - Identify the objectives of the incident response.
-          - Next, devise a command plan to address the problem. Can be more of a collaborative effort
-          - Monitor the situation and make adjustments as needed.
+Purpose**
+The purpose of this Standard Operating Procedure (SOP) is to provide guidelines for effectively responding to and managing errors and outages within the VA Health Enrollment (HE) Team’s products. These products include the 10-10EZ,  10-10EZR and 10-10CG, but could include other products in the future. This SOP aims to ensure a swift, organized, and coordinated response to incidents to minimize the impact to Veterans.
 
-## Acknowledge & communicate that there is an error or outage present
-- Should be handled by the Data Analyst & PM team first as they typically have eyes on this. However Devs should be receiving notifications that an error or outage is present (when an alert captures it) and can start preparing to address it. Commuinications are delivered through the health-tools-1010-apm channel on DSVA Slack.
-- In the event that the Data Analyst is out, PMs are capable of doing all of the DD & sentry related tasks associated with this procedure exercise.
 
-## Informing Product Owners that there is a problem
-- If the error or outage persists for longer than 1 hour / leads to multiple failures of form submissions / or a spike in error rate that exceeds 10%; then the POs are informed there is an issue. PMs can inform the stakeholders that there is an issue. Stakeholders to reach out to will depend on the nature of the problem and where the issue is stemming from. The forms are dependent on different external services per se but the top of the list of folks that need to be informed are:
-     - Patrick Bateman
-     - Kristen McConnell
+**Definitions & Roles
+Definitions**
 
-## Maintenance Window
--  Product Owners can make the call to put up the maintenance windows if we determine that the error / outage is severe enough to warrant that action /  we cannot determine the issue within the first 2-3 hours. Maintenance window’s length of time will be assessed on an hourly basis of whether we can isolate the problem and push a hotfix out to prod within that hour.
+- Incident - any event, error, or outage that disrupts normal operations, threatens information security, or compromises the integrity, confidentiality, or availability of the following forms that Veterans use: 10-10EZ,  10-10EZR or 10-10CG
+- Severity Level - categories used to classify the severity and impact of incidents, ranging from low to critical
+- Roles and Responsibilities–Roles can be plural
+- First Responder - the first person to notice the error/outage. This could be anyone on the team
+- Investigator - the team member who will conduct an initial assessment to determine the severity, impact, and scope of the incident
+- Fixer - the team member who will be implementing the appropriate ‘fix’ and/or coordinating with stakeholders to ensure the issue is addressed if the event is outside of the team’s control
+- The First Responder, Investigator, and Fixer may be the same person, but not likely for critical issues, as more staff will be on deck for these more severe situations
+Use Platform Support to support!
+- Incident Commander - Responsible for coordinating incident response efforts within and outside of the team, and ensuring proper procedures are followed
 
-## Review the errors (if any) and VA.gov monitors to determine if the root cause is on the form or sitewide
-- Data analyst is the first one on the scene here; Check logs to determine a root cause if possible (DD, Sentry, etc.). But as the investigation furthers past the dev op tools in place, Dev team will be pulled in shortly there after these sources have been exhausted. Maybe bring in UX folks to ask if there were content changes made in the recent days that could have impacted anything on site.
-     - List of links to Data Dog dashboards to review the frontend:
-          - [Overall 10-10EZ performance and VA.gov monitors](https://vagov.ddog-gov.com/dashboard/8yz-qzc-bng/1010ez-vagov-performance?fromUser=false&refresh_mode=sliding&from_ts=1710775897553&to_ts=1710779497553&live=true)
-          - [Overall 10-10EZR performance monitors](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1710606729330&to_ts=1710779529330&live=true)
+This is like the “Quarterback” role, It may not be in the weeds, but will know enough of what is going on to facilitate communication within the team, and between team and stakeholders.
 
-## Mini Check Ins through out the first 4-6 hours of response
-- If root cause is not determined by the analyst within the two hours of the issue arising, then we would start the process of bringing in the broader team for swarming on the situation.
-- Analyst can set up a call during the investigation with Dev / Analyst / PMs
-- Devs (when possible) to communicate a root cause when identified with the broader team. Or update the team that a cause is still unidentified within the first three hours of the triage process. PMs can forward the updates as they come in.
+Usually, but not always, Delivery Manager or Product Manager
+- Subject Matter Experts (SMEs): Individuals with expertise in relevant areas who provide technical assistance and guidance during incident response
 
-## Inform Product Stakeholders (HEC)
-- If the error / outage persists for longer than 4 hours / leads to multiple failures of form submissions / or a spike in error rate that exceeds 10%; then HEC is informed that there is a full stop blockage preventing veterans from accessing benefits. PMs can inform the stakeholders that there is an issue, or communicate that the scope of the issue extends outside of the code base we have access to with color commentary given by Devs when needed. communicating with HEC should always be done by an OCTO person. & we should use the HEC distribution list instead of individual emails. in the event that a OCTO person cannot be reached, a PMs should be a viable backup for OCTO/PO. In the event PO is not available, the team could reach out to Crew Lead (Currently Lauren Alexanderson) if OCTO representation is needed.
-     - Stakeholders:
-          - Lauren Alexanderson - Health Tools Crew Lead
-          - Kara Eakin - HEC
-          - Shana Watson - HEC
-          - Ambroja Watson - HEC
-          - Simone Gully - HEC
-          - Jessica Soza - HEC
-          - Bryan Burgan - HEC (slowly taking over for Jessica Soza)
-          - Josh Faulkner - Enrollment System main POC
 
-## Talk to Platform
-- If needed, we can communicate with the platform team of necessary changes or reverts in the code base or that there needs to be other engineers from their side present to triage the problem. To begin engagement with this team, open a ticket on the VFS platform support channel on DSVA Slack (#vfs-platform-support).
-     - Typical Platform folks:
-          - Adrian Rollett
-          - Brenden Matos
-          - Patrick Vinograd
-          - Rachel Cassity
-          - Ryan McNeil
 
-## In the event of an error or outage in the afternoon of pacific time (i.e. east coast evening time) there will be a modifided procedure 
-- The PM that is still online will acknowledge & communicate that there is an error or outage present and inform Product Owners that there is a problem.
-- The issue at hand may have to wait to be fully triaged until the next morning because right now, all of our 1010 Devs & Data analyst staff are ET or CT, they would not be online to address the issue in the momment.
-- The following morning the Devs / Analyst will be brought up to speed on the situation and can resume the regular chain of commnication and triage for the issue. 
+**Incident Classification**
 
-## Start postmortem and document timeline as you go
-- Postmortems are mainly for outage based issues that the team will face and learn from. During the process of building a postmortem, everyone is contributing to the timeline document, specifically as they continue to do their part in the overall procedure (Team, HEC, PO, etc...). The start of the document is something PMs can manage, but the wrap up / takeaway side is by Devs & Analyst.
-     - [Postmortem document folder with template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems)
+Incidents should be classified based on severity levels and potential impact. The following severity levels are used:
+
+**- Low:** Incidents with minimal impact on operations and information security.
+
+**Example**: An error has presented itself for 1 - 2 hours that has led to a handful of submission failures or blocked users from hitting submit on an application
+Medium: Incidents with moderate impact requiring immediate attention.
+
+**Example:** An error has presented itself for 3 - 4 hours that has led to multiple submission failures or an outage has occurred that blocks users from submitting an application for a brief period of time, a Maintenance Window should be considered for this situation
+
+**High:** Incidents with significant impact on operations, functionality, and/or forms.
+
+**Example:** An error has presented itself for 5 - 6 hours that has led to a staggering amount of submission failures (error rate above 15%) or an outage has occurred that blocks users from submitting an application for an extended period of time, a Maintenance Window should be implemented in this situation
+Critical: Incidents causing severe disruption, compromising sensitive information, or posing a significant risk to Veterans and their information.
+
+**Example:** An error has presented itself that has led to all submissions failing or an outage has occurred that blocks all users from submitting an application for any period of time, a Maintenance Window will be implemented in this situation
+
+
+**Incident Response Procedures**  
+
+**4.1 Detection and Reporting**
+
+The VA HE should be vigilant in detecting and reporting any errors or outages through the established monitors and dashboards.
+
+Upon detection, the First Responder tags and notifies the team and Product Owner in the #health-tools-1010-apm slack channel that there is an error or outage present
+
+If needed, the Incident Commander will notify stakeholders of incidents of Medium or higher severity.
+
+Have a meeting, assign/volunteer for roles
+All hop on a call, when the application is down stop everything (War Room Call)
+- Identify a team member for each role, ensuring all roles are accounted for before closing the call
+- Identify next steps/action items 
+- Determine a check in time (as needed)
+
+For Medium or higher incidents, First Responder will create a Post-Mortem template and start to fill out the detailed timeline of when the issue was discovered and steps taken.
+
+
+**4.2 Assessment and Triage**
+
+Upon notification, the First Responder shares any initial data or findings with the team and if further investigation is needed, an Investigator is appointed.
+
+The Investigator will conduct an assessment to determine the severity, impact, and scope of the incident. Based on the assessment, the incident will be triaged, documented in the Post-Mortem if the incident is Medium or higher, and Fixer.
+
+It is at this stage that the team and product owner would consider putting up a maintenance window if the issue is severe enough to warrant downtime.
+
+It is at this stage that the team and product owner would consider submitting an out of bound deployment (OOB) if it is determined that it needs to be removed from production or immediately modified/cannot wait until the next daily deploy. Example: If something went into production that was not fully tested and/or could negatively impact Veterans and their experience
+
+If after assessment it is determined that the incident is not a result of changes by the VA HE team, but is a result of another change or update from platform/other team, a platform ticket is to be submitted as soon as possible outlining the issue and resulting errors. This ticket should include a summary of the issue and our hypothesis that X led to the errors we experienced and why. The goal of this is to notify the platform team and confirm that is the root cause of the issue.
+
+If/Once this is confirmed, request that they participate in the post mortem exercise with the team
+
+**4.3 Resolution and Recovery**
+
+Recovery efforts will be coordinated with stakeholders and SMEs to minimize downtime and restore normal operations as quickly as possible
+
+The Fixer will implement any necessary changes to remediate the issue, continually update the team, and update the Post-Mortem as needed
+
+**4.4 Documentation and Reporting**
+
+Once the incident is contained, a detailed investigation will be conducted to identify the root cause of the incident, extent of impact, and any vulnerabilities exploited that can be remedied at a later date
+
+A comprehensive Post-Mortem that includes a timeline of events: response, activities, and outcomes, will be submitted to relevant stakeholders for Medium or higher events
+
+
+**Review and Continuous Improvement**
+
+This SOP will be periodically reviewed and updated to reflect changes in technology, regulations, or organizational requirements
+Lessons learned from past incidents will be analyzed to identify areas for improvement and enhance incident response capabilities
+
+
+**Distribution**
+
+This SOP will be distributed to all employees and stakeholders involved in incident response within the VA HE team
+It will also be made available through GitHub for reference
+
+
+
+**Revision History**
+Any updates or revisions to this SOP will be documented in the revision history section, including the date of revision and a brief description of changes made
+
+
+Date
+Updates
+Made By
+4/8/2024
+Created
+Emily Brown
+6/6/2024
+Added bullet under section 4.2 to outline process and procedure for when errors are caused by changes outside of the VA HE team
+Emily Brown
+7/3/2024
+Update roles and “to dos” as part of team discussion and response to 6/3-4 EZR outage and 6/10 Attach Docs early release
+Alex Seelig
+
+
+
+
