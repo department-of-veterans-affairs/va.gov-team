@@ -21,6 +21,7 @@
 
 ## Notes
 - Action items
+   - Ticket to look into extensions for non-PDF files
 
 # 2024-06-11
 ## Agenda
