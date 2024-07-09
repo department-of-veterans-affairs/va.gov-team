@@ -198,6 +198,7 @@ _**Participant is at Appointment list:**_
 
 - _If expiration date was not mentioned:_
   - Did you notice the expiration date for scheduling an appointment? And, what was your reaction when reviewing it?
+    
   - _If needed:_
     - Knowing that expiration date, how does that affect how you’re thinking about this scheduling process? (For example, does it change how you’re thinking about it at all?)
     - And if we weren’t doing this together now and this was a real appointment with a community care provider that you were going to schedule on your own, when would you schedule this appointment?
