@@ -30,6 +30,8 @@
    - Check in with PEGA team about their load testing
    - Backlog items for duplicating monitoring into prod
       - Update slack alerts so that prod alerts rather than staging
+   - Check with Premal on ATO
+   - Meeting to review eng recommendations
 
 # 2024-06-11
 ## Agenda
