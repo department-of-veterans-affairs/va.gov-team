@@ -28,7 +28,7 @@ _If observers are present._
 
 _If NO observers present OR if observers are present._ 
 
-Today, we're going to talk about receiving a referral for a community care provider and self-scheduling an appointment. 
+Today, we're going to talk about receiving approval to self-schedule an appointment with a a community care provider. 
 
 - Before we start, I have a few things that I want to go over with you:
 
