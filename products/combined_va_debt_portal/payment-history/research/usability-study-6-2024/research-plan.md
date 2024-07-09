@@ -369,7 +369,7 @@ For this question, VA overpayment debt is defined as VA disability compensation 
 
 - [ ] I have experienced financial hardship in the past.
 
-- [ ] I have never experienced financial hardship. (does not qualify)
+- [ ] I have never experienced financial hardship. 
 
 ### 5. LGBTQ+
 
