@@ -99,7 +99,7 @@
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
-        - ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
+        - ✔️ ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
         - ~❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)~
             - Not able to do until after we go to production
         - Release (Let Lori know when)
