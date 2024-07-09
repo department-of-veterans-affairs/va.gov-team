@@ -44,8 +44,8 @@ There's additional prefill that happens within the form when it's available. The
 |Page|Field|Prefill source|
 |:--|:--|:--|
 |Branch of service|`Branch of service`|VA Profile|
-|Your contact information|`Phone number`|Identity credential or AVA Profile for business submitters|
-|Your contact information|`Email address`|Identity credential or AVA Profile for business submitters|
+|Your contact information|`Phone number`|VA Profile or AVA Profile for business submitters|
+|Your contact information|`Email address`|VA Profile or AVA Profile for business submitters|
 |Your mailing address|`Country`|VA Profile|
 |Your mailing address|`Street address`|VA Profile|
 |Your mailing address|`Apartment or unit number`|VA Profile|
