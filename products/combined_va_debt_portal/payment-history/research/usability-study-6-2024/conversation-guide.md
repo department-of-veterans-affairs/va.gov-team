@@ -88,23 +88,32 @@ Prototype Link:
         
 -   What draws your attention the most on this page?
     
--   Which debt listed here looks like it’s outstanding?
+-   Which debt or debts listed here look like they have an outstanding (active) balance?
 
     
   **Success criteria:**
     
+ - [ ] Chapter 33 education housing debt, Disability Compensation and Pension debt, Chapter 33 education books, supplies, and other debt (pass)
+
+
+ - [ ] They mention 1 or 2 of the 3 (partial pass)
+
+
+ - [ ] They give a wrong answer (fail)
+
+
+- Which debts can you make a payment on?
+
+ **Success criteria:**
+    
  - [ ] Chapter 33 education housing debt (pass)
 
+ - [ ] They give a wrong answer (fail)
+  
 
- - [ ] They notice the only with further prompting (partial pass)
+-    What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
 
-
- - [ ] They don’t notice (fail)
-
-
--   What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
-
-    **Success criteria:**
+  **Success criteria:**
     
   - [ ]    Status of the debt (pass)
     
@@ -119,7 +128,7 @@ Prototype Link:
 
     **Success criteria:**
     
-  - [ ]    "Check Details" link on Ch 33 card (pass)
+  - [ ]    "Review Details" link on Ch 33 card (pass)
     
   - [ ]    "Resolve this balance" link on Ch 33 card (partial pass)
     
