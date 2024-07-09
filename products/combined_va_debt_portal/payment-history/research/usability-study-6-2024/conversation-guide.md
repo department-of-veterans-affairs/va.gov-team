@@ -111,7 +111,7 @@ Prototype Link:
  - [ ] They give a wrong answer (fail)
   
 
-- What does "current balance" mean to you?
+- What does "current balance" mean to you? How do you feel about this wording? Is there a different word or words you would use? 
 
 - What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
 
