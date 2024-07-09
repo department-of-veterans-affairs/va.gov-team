@@ -43,7 +43,7 @@ There's additional prefill that happens within the form when it's available. The
 
 |Page|Field|Prefill source|
 |:--|:--|:--|
-|Branch of service|`Branch of service`|Claims API|
+|Branch of service|`Branch of service`|VA Profile|
 |Your contact information|`Phone number`|Identity credential or AVA Profile for business submitters|
 |Your contact information|`Email address`|Identity credential or AVA Profile for business submitters|
 |Your mailing address|`Country`|VA Profile|
