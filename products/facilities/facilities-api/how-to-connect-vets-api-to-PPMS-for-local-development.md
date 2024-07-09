@@ -13,7 +13,7 @@ This describes setting up AWS credentials and local aws-cli setup to allow your 
     * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
     * The person making the IAM assignment really only cares about `dsva-vfs-developers` being the group you need to get added to.
 2. Developers need access to the [devops repository](https://github.com/department-of-veterans-affairs/devops/) to access some utility scripts for establishing the SSM tunnel.
-3. vets-api must be using a native or hybrid setup, since docker-compose won't be able to connect to local port forwarding.
+3. vets-api must be using a native or hybrid setup (i.e. start ruby with foreman), since docker-compose won't be able to connect to local port forwarding.
 
 ## Setup steps
 ### SSM Tunnel
