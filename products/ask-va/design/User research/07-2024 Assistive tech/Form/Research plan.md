@@ -158,7 +158,7 @@ UPDATE
 
 - Length of sessions: 1.5 hours
 - Buffer between sessions: 1 hour
-- Maximum sessions per day: 3 sessions
+- Maximum sessions per day: 2 sessions
 
 ### Availability
 
