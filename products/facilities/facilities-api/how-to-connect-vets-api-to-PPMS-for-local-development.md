@@ -5,14 +5,15 @@ This describes setting up AWS credentials and local aws-cli setup to allow your 
 ## What we're doing
 * Establishing a secure tunnel from a developer laptop to the lower environment of an upstream API provider (PPMS -- cannot connect except on VA network). 
 * The tunnel is established using AWS Secure Systems Manager (SSM), and connects from the developer's machine to the VA.gov forward proxy. The forward proxy is an HAProxy instance that proxies connections on a local port to a configured upstream service. 
-* Once the tunnel is established, then vets-api can be configured to use the local end of the tunnel (e.g. something like `https://localhost:5303` (note the port is below 6000) as the upstream API endpoint, allowing for full stack local development with easy access to MHV APIs. 
+* Once the tunnel is established, then vets-api can be configured to use the local end of the tunnel (e.g. something like `https://localhost:5303` (note the port is below 6000) as the upstream API endpoint, allowing for full stack local development with easy access to MHV APIs.
 
 ## Prerequisites
 1. Developers will need AWS access, which can be requested by filing an [AWS Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=AWS+access+for+%5Bindividual%5D) ticket in va.gov-team. 
     * Developers should request "SSM Access to lower environment instances". The specific IAM policy needed is "SSMApplicationLowerEnvironmentAccess", which can be granted via membership in the "dsva-vfs-developers" group.
     * To access the AWS console or use the SSM command line you'll need AWS credentials including mandatory 2FA.
     * The person making the IAM assignment really only cares about `dsva-vfs-developers` being the group you need to get added to.
-2. Developers need access to the [devops repository](https://github.com/department-of-veterans-affairs/devops/) to access some utility scripts for establishing the SSM tunnel. 
+2. Developers need access to the [devops repository](https://github.com/department-of-veterans-affairs/devops/) to access some utility scripts for establishing the SSM tunnel.
+3. vets-api must be using a native or hybrid setup, since docker-compose won't be able to connect to local port forwarding.
 
 ## Setup steps
 ### SSM Tunnel
