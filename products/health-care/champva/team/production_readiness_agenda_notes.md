@@ -17,7 +17,9 @@
    - What's the best way to add new ones?
    - Maybe we can write up a guide for this?
 - TestRail
-   - Working session to see what capabilities we have here? 
+   - Working session to see what capabilities we have here?
+- Load Testing for S3 bucket
+- Documentation for reading and creating monitors in Datadog
 
 ## Notes
 - Action items
