@@ -37,6 +37,11 @@ Previously, we talked about facilities-api and facility locator interchangeably.
 * Frontend: To run the Facility Locator locally, you can run the front-end only in vets-website. 
 * Backend: To modify the backend, you must run facilities-api from vets-api locally. Follow facilities-api docs: [Working with the facilities-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facilities-api#working-with-the-facilities-api)
 
+**Platform Developer docs**
+- [Platform Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/) - Platform documentation about infrastructure, integrations, testing, monitoring, and releasing as well as engineering processes, best practices, and standards.
+- [Vets-website feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide)
+
+
 
 ### Interactions with dependent VA backends
 TODO: what is this? Is this useful? IF so, add narrative. If not, remove.
