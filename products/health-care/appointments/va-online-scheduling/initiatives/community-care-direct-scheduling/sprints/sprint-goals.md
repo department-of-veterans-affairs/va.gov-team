@@ -79,6 +79,7 @@ ________________________________________________________________________________
        - ❗ 🟨 [Conduct research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87733)
        - ❗ 🟨 [Fill out quantitative question tracker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87734)
        - ❗ 🟨 [Update convo guide and CodePen prototype based on part 1 completion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87735)
+       - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Get CC Consults**
        - ✔️ 🟪 Schedule meeting with Stephen Barrs and Shane Elliott after July 15 to discuss getting CC Consults using vista-api-x
        - ❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
