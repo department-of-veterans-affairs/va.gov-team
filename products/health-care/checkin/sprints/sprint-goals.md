@@ -7,14 +7,6 @@
 
 ## SPRINT 12 - 7/24/2024-8/6/2024
 
-#### SPRINT GOALS
-- **GOAL: Support Production**
-- **GOAL: Support Congressional Mandate**
-- **GOAL: Make submission of a travel reimbursement claim easier**
-- **GOAL: Increase PCI Usability**
-- **GOAL: Address Tech Debt**
-
-
 #### PLANNED RELEASES
 - NONE
 
@@ -29,17 +21,18 @@
         - ❗🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84474)
         - ❗🟩🟪 [Release to Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84475)
 - **GOAL: Increase PCI Usability**
-    - **Sub Goal: New Landing Page WITH Upcoming Appointments**
-        - **TBD - UX & FE tickets to add upcoming appointments**
+    - **Sub Goal: Upcoming VAOS Appointments**
+        - UX & FE Tickets for how to incorporate VAOS appts?
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
         - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
+        - Schedule Staging Review
     - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
-        - 🟦 [[Analytics] Enable travel claim by station widget to show past 1 year of metrics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82313)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
+    - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
 
   
 </details>
@@ -50,19 +43,17 @@
 
 ## SPRINT 11 - 7/10/2024-7/23/2024
 
-#### SPRINT GOALS
-- **GOAL: Support Production**
-- **GOAL: Support Congressional Mandate**
-- **GOAL: Make submission of a travel reimbursement claim easier**
-- **GOAL: Increase PCI Usability**
-- **GOAL: Address Tech Debt**
-
 #### PLANNED RELEASES
 - NONE
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
     - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
+    - **Sub Goal: Move to New AWS Instance**
+      - 🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
+- **GOAL: Make submission of a travel reimbursement claim easier**
+    - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
+        - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
         - 🟩 [[FE] - Add e2e test for completing check-in then going back to appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87721)
@@ -80,7 +71,6 @@
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
     - 🟩 [4 Modifications to Tagalog Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87810)
-    - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
 </details>
 
 ## SPRINT 10 - 6/26/2024-7/9/2024
@@ -96,7 +86,7 @@
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
+    - ✔️ ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82365)
     - **Sub Goal: Move to New AWS Instance**
       - ✔️ 🟨 [[DevOps] Recreate LoROTA DynamoDB with TTL rule matching current.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84123)
       - ✔️ 🟨 [[DevOps] Propose transferring octo-vista-api into Check-In Experience's control.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86814)
@@ -121,16 +111,19 @@
         - ✔️ 🟩 [[FE] Perform Accessibility Testing & Create Artifact ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61740)  
         - ✔️ 🟥 [[UX] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64014)
         - ✔️ 🟪 [[PRODUCT] Run Test Cases for Functional Testing ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61741)
-        - 🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)
+        - ~🟩🟪 [Release to Production ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61431)~
+            - We are pausing to talk to Platform about Staging Review
     - **Sub Goal: CIE Analytics**
         - ~🟦🟩 [[BE] We Need New StatsD Metrics for Travel](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86494)~
+            - No longer needed
         - ✔️ 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83490)
         - ✔️ 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80235)
         - ✔️ 🟪 [Generate & Send Quarterly Metrics Report - APR to JUN 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80226)
         - ✔️ 🟪 [Migrate echeckin GA Custom Dashboard to GA4 Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77163)
     - **Sub Goal: Tech Debt**
-        - 🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)
-        - 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
+        - ~🟩 [[FE] SPIKE - Check BTSSS claim status in CHIP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86507)~
+            - Removed from sprint, not a priority
+        - ✔️ 🟩 [[FE] SPIKE - don't refresh old sessions](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86797)
         - ✔️ 🟩 [[FE] BUG - date is missing from already field error.](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/87064)
         - ✔️ 🟥 [Task Card Updates ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86785)
 
