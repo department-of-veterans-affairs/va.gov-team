@@ -331,7 +331,7 @@ _**Participant is on appointment list page (no task card):**_
 
 - At this point, let's say you remembered you had another referral waiting to be self-scheduled. From this page, without selecting anything yet, where would you go to find that referral?
 
-- And again, without selecting anything yet, where would you go on this page to review your older referrals from appointments you already completed? 
+- And again, without selecting anything yet, where would you go on this page to review your older referrals? For example, a referral from an appointment you already saw the provider for? 
 
 - Ok, thank you. Now, I’ll have you navigate to your "Pending" appointments. 
 
