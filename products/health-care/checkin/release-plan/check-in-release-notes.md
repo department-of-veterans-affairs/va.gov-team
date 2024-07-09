@@ -12,6 +12,14 @@ When a Veteran arrives for their appointment, they can check-in through a text m
 
 ## Releases
 
+## 7/9/2024
+- Fixed a bug in Pre-Check-in to include the eyebrow component above the H1
+    - [Ticket 87412](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87412)
+- Fixed a bug to remove the insurance information when selecting details before completing Pre-Check-in
+    - [Ticket 87410](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87410)
+- Updated eCheck-in H2 to read "Totay's appointments at this facility" for clarity
+    - [Ticket 87413](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87413)
+
 ## 6/24/2024
 - Updated submission of a travel reimbursement claim to BTSSS API to send the appointment date exactly as we get it from vista-api/vetext instead of converting to UTC.
     - [Ticket 85389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85389)
