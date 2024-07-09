@@ -5,8 +5,9 @@
 The purpose of this Standard Operating Procedure (SOP) is to provide guidelines for effectively responding to and managing errors and outages within the VA Health Enrollment (HE) Team’s products. These products include the 10-10EZ,  10-10EZR and 10-10CG, but could include other products in the future. This SOP aims to ensure a swift, organized, and coordinated response to incidents to minimize the impact to Veterans.
 
 
-**Definitions & Roles
-Definitions**
+**Definitions & Roles**
+
+**Definitions**
 
 - **Incident** - any event, error, or outage that disrupts normal operations, threatens information security, or compromises the integrity, confidentiality, or availability of the following forms that Veterans use: 10-10EZ,  10-10EZR or 10-10CG
 - **Severity Level** - categories used to classify the severity and impact of incidents, ranging from low to critical
