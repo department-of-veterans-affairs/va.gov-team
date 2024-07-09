@@ -4,13 +4,14 @@
 <summary>Upcoming Appointment Details Page - At VA location </summary>
 
 ![VAappt](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/5c2a745e-7a9e-4e23-bbae-8e4165f6b48e)
-
-
   
 </details>
 
 <details>
 <summary>Upcoming Canceled Appointment Details Page - At VA location </summary>
+  
+![canceledVA](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/ac183e61-fc87-4c7d-bd00-bb664e1ca2d8)
+
 </details>
 
 <details>
@@ -31,6 +32,10 @@
 
 <details>
 <summary>Upcoming Apointment Details Page - Video at home </summary>
+
+![videoappt](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/e55c7844-e35b-4b25-89b9-346cd8b730f1)
+
+  
 </details>
 
 <details>
