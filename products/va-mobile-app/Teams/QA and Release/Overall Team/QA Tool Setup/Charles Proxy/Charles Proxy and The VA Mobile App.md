@@ -12,12 +12,12 @@ You will be unable to download the app from the playstore while proxied.
 If you visit a site and get a connection error you may need to disable the devices manual proxy settings.
 
 ## Steps:
- 1.) Download from: https://www.charlesproxy.com/download/
+###  1.) Download from: https://www.charlesproxy.com/download/
 
 * Once you have installed and launched Charles, you will see a lot of traffic being recorded. This is traffic coming from your computer.
 
 
-2.) Go to “Proxy” and unselect “macOS Proxy” and this traffic will cease to be recorded.
+### 2.) Go to “Proxy” and unselect “macOS Proxy” and this traffic will cease to be recorded.
 
 <img width="101" alt="CP 1 " src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/1382c227-fa32-4181-875a-034d4e7e7e1d">
 
@@ -29,7 +29,7 @@ If you visit a site and get a connection error you may need to disable the devic
 
 You may want to stop recording and clear the data that was captured from your computer, to have a clean slate for the rest of the setup process. But hey, your call, I’m not going to tell you how to live.
 
-3.) Go To “Proxy” > “SSL Proxying Settings”
+### 3.) Go To “Proxy” > “SSL Proxying Settings”
 When the “SSL Proxying Settings” window has opened, tap “Add” under the “Include” list.
 You will see an “Edit Location” window appear.
 You can add “staging-api.va.gov” as Host and “443” for the Port.
@@ -39,7 +39,7 @@ Or if you want to see EVERYTHING add “*” for both.
 
 
 
-4.) Go to “Help” > “Local IP Address”
+### 4.) Go to “Help” > “Local IP Address”
 Leave this window open.
 If you are Hardwired or on a VPN you will see multiple entries on this page, en0 is the one we will be utilizing.
 
@@ -48,7 +48,7 @@ If you are Hardwired or on a VPN you will see multiple entries on this page, en0
 Now we need to set your device to connect to Charles and install an SSL Certificate (easier than it sounds).
 
 
-5.)  Make sure your device is on the same WiFi Network as the computer running Charles.
+### 5.)  Make sure your device is on the same WiFi Network as the computer running Charles.
 Go to your network settings:
 	Android:
 If you have a Settings “Gear” icon next to your wifi network, select that
@@ -77,12 +77,12 @@ iOS:
 <img width="151" alt="CP 6" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/5251ca28-bd15-4eef-98fa-9cf951bcd004">
 
 
-6.) Download the Cert!
+### 6.) Download the Cert!
 On your device open a browser and go to Https//chls.pro/ssl
 This should start downloading an SSL cert. Allow the download if prompted. 
 
 
-7.) Install the Cert!
+### 7.) Install the Cert!
 Android:
 Open the cert that was downloaded, You may be prompted to enter a PIN or passcode depending on your device’s security setup.
 You will see an option to name the Cert. Name it as you see fit and save it
@@ -107,7 +107,7 @@ Go to “Settings” > “General” > “About”
 Scroll to “Certificate Trust Settings”
 Enable full trust for Root Certificates for Charles Proxy CA
 
-8.) See if it works!
+### 8.) See if it works!
 Make sure the red “Recording button” is enabled in Charles
 Open and attempt to log in using the VA App on your device.
 Observe the traffic in Charles
