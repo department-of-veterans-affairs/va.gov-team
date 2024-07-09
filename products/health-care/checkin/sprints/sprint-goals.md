@@ -100,7 +100,8 @@
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
         - ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
-        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
+        - ~❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)~
+            - Not able to do until after we go to production
         - Release (Let Lori know when)
     - **Sub Goal: Stand-alone Travel Application for OH Sites (Update for Single & Multiple Facility Scenarios)**
       - ✔️ 🟩 [[FE] Update "How we calculate mileage" Content as Approved by CAIA](https://app.zenhub.com/workspaces/check-in-experience-61fc23a2cb8a14001132e102/issues/gh/department-of-veterans-affairs/va.gov-team/86481)
