@@ -255,7 +255,7 @@ _**Participant is on filter page:**_
 - _If not yet mentioned:_ And, if the provider you knew you wanted to schedule with did NOT have online scheduling, would you still expect to find information on that provider in this tool? 
     - _If yes:_ What information would you expect to find for that provider?
 
-       - _If needed: Their contact information? Phone number?_ 
+       - _If needed:_ Their contact information? Phone number? 
 
     - _If no:_ Could you tell me more about that? Why not? 
  
