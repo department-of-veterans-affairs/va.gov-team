@@ -213,7 +213,7 @@ _**Participant is on referral page:**_
 - Ok, and before you do anything here, I have a few more questions: 
 
    - What are the most important factors to you when choosing a provider? Let's say, to find a new primary care provider for routine care? 
-      - (Provide examples if needed, but try not to be leading: for example, their reputation, their distance to your home, etc.)
+      - _(Provide examples if needed, but try not to be leading: for example, their reputation, their distance to your home, etc.)_
 
    - And, what about if you're choosing a provider for specialty care? For example, you’re searching for an orthopedic specialist that can do a total knee replacement. What would be the most important factors when choosing a provider?
 
