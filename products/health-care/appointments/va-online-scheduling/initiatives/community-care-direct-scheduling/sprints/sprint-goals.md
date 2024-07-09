@@ -79,7 +79,7 @@ ________________________________________________________________________________
        - ❗ 🟨 [Fill out quantitative question tracker](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87734)
        - ❗ 🟨 [Update convo guide and CodePen prototype based on part 1 completion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87735)
     - **Sub Goal: [Feature] Get CC Consults**
-       - 🟪 Schedule meeting with Stephen Barrs and Shane Elliott after July 15 to discuss getting CC Consults using vista-api-x
+       - ✔️ 🟪 Schedule meeting with Stephen Barrs and Shane Elliott after July 15 to discuss getting CC Consults using vista-api-x
        - ❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
        - 🟪 Get Jeff and Ben spun up on local in order to validate FE tickets
@@ -92,6 +92,8 @@ ________________________________________________________________________________
        - 🟦 [Pending appts page with unscheduled referral and expired referral](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87738)
     - **Sub Goal: [Feature] Design & Tech Debt**
        - 🟥 [Add annotations into Figma MVP where we're calling the different API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87901)
+       - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
+
 
       
 </details>
@@ -128,17 +130,15 @@ ________________________________________________________________________________
     - **Sub Goal: [Feature] Get authorized referrals from CDW**
          - ✔️ Waiting on Stephen and Kristen McConnell to let us know what the VA leads from this team need.
     - **Sub Goal: [Feature] Conduct research study with Veterans**
-         - ❗ 🟨 [Add quantitative response tracker to Mural](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86931)
+         - ✔️ ❗ 🟨 [Add quantitative response tracker to Mural](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86931)
          - ✔️ 🟨 [Conduct pilot research session](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86936)
          - ✔️ 🟨 [Update convo guide & prototypes based on pilot](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86937)
          - ✔️ 🟨 [Populate observer sign up sheet with roster from Perigean](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86935)
          - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Design & Tech Debt**
-         - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
          - ✔️ 🟥 🟪 Get on VEText (Justin Wowk) radar to understand if concept is feasible
     - **Sub Goal: [Feature] Get connected with WellHive**
          - ✔️ 🟦 [Validate access to time slots API endpoint from WellHive](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/86958)
-
 
 
 
