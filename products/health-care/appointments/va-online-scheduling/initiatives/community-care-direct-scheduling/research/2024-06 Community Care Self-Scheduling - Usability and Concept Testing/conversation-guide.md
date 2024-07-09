@@ -22,11 +22,11 @@
   
 - My name is [NAME] and [NOTETAKER NAME] is here taking notes during our session.
 
-_If observers._ 
+_If observers are present._ 
 
 - I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-_If no observers or observers._ 
+_If NO observers present OR if observers are present._ 
 
 Today, we're going to talk about receiving a referral for a community care provider and self-scheduling an appointment. 
 
