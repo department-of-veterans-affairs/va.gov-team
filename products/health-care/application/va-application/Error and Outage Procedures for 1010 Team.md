@@ -1,6 +1,7 @@
-**Title: VA Health Enrollment Incident Response Standard Operating Procedure (SOP)
+**Title: VA Health Enrollment Incident Response Standard Operating Procedure (SOP)**
 
-Purpose**
+**Purpose**
+
 The purpose of this Standard Operating Procedure (SOP) is to provide guidelines for effectively responding to and managing errors and outages within the VA Health Enrollment (HE) Team’s products. These products include the 10-10EZ,  10-10EZR and 10-10CG, but could include other products in the future. This SOP aims to ensure a swift, organized, and coordinated response to incidents to minimize the impact to Veterans.
 
 
