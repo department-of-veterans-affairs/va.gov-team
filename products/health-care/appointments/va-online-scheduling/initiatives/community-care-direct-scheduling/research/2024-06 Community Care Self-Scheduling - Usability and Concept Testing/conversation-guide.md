@@ -269,7 +269,7 @@ _**Participant is on filter page:**_
 
 - Ok, and without doing anything yet, could you describe what filters you might select on this page?
   
-- Ok, for the purposes of this session, you can go ahead and select [Practice], then the first option, and [Only show providers with online scheduling]. Then, submit those choices. 
+- Ok, for the purposes of this session, you can go ahead and select [Any practice], then the first option in the drop down, and select [Only show providers with online scheduling]. Then, submit those choices. 
 
 ---
 
