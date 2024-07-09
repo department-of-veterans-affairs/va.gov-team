@@ -371,18 +371,7 @@ For this question, VA overpayment debt is defined as VA disability compensation 
 
 - [ ] I have never experienced financial hardship. 
 
-### 5. LGBTQ+
-
-**Do you identify as a member of the LGBTQ+ community ?
-We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.**
-
-- [ ] Yes
-
-- [ ] No
-
-- [ ] Decline to answer
-
-### 6. Cognitive consideration
+### 5. Cognitive consideration
 **Has a medical professional ever diagnosed you with a cognitive disorder? Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury. We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.**
 
 - [ ] Yes
@@ -392,7 +381,7 @@ We ask this question because we want to make sure the feedback we get from these
 - [ ] Decline to answer
 
 
-### 7. Household income
+### 6. Household income
 
 **What is your annual household income level? 
 We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.**
@@ -413,7 +402,7 @@ We ask this question because we want to make sure the feedback we get from these
 
 - [ ] Decline to answer
 
-### 8. Attitudinal question 
+### 7. Attitudinal question 
 
 **Please indicate how much you agree or disagree with the following statement:**
 
