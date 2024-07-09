@@ -211,7 +211,7 @@ Perigean will:
 
 #### Primary Criteria (Must-Haves)
 Participants must meet the following criteria to effectively participate in the study:
-1. ** 2-3 Veterans have used the My VA Health Portal in the past 12 months.**
+1. **2-3 Veterans have used the My VA Health Portal in the past 12 months.**
 
 **Screener Questions:**
 1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No) 
