@@ -111,7 +111,9 @@ Prototype Link:
  - [ ] They give a wrong answer (fail)
   
 
--    What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
+- What does "current balance" mean to you?
+
+- What do the small icons on the left of the text in the boxes tell you? (exclamation point, checkmark)
 
   **Success criteria:**
     
