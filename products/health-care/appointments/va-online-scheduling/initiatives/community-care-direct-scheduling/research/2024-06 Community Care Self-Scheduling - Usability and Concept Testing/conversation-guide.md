@@ -231,7 +231,7 @@ _**Participant is on provider page:**_
   
 - And without doing anything, I'm curious -- from here, how would you continue through finding a provider if I wasn't guiding you?
 
-- Ok thanks. And, what would you do if you wanted to search for a specific group or category of providers?
+- Ok thanks. And, what would you do if you wanted to search for a provider that fits requirements or preferences you have?
 
 - Go ahead and walk me through how you'd do that.
   
