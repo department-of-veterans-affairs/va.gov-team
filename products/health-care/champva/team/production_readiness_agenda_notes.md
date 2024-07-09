@@ -28,6 +28,8 @@
    - Confirm that a form and its supporting docs use the same UUID (Don already looking into this)
    - Ticket to monitor how many users are giving email
    - Check in with PEGA team about their load testing
+   - Backlog items for duplicating monitoring into prod
+      - Update slack alerts so that prod alerts rather than staging
 
 # 2024-06-11
 ## Agenda
