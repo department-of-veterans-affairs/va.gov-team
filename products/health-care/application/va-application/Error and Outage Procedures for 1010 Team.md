@@ -7,20 +7,24 @@ The purpose of this Standard Operating Procedure (SOP) is to provide guidelines 
 **Definitions & Roles
 Definitions**
 
-- Incident - any event, error, or outage that disrupts normal operations, threatens information security, or compromises the integrity, confidentiality, or availability of the following forms that Veterans use: 10-10EZ,  10-10EZR or 10-10CG
-- Severity Level - categories used to classify the severity and impact of incidents, ranging from low to critical
-- Roles and Responsibilities–Roles can be plural
-- First Responder - the first person to notice the error/outage. This could be anyone on the team
-- Investigator - the team member who will conduct an initial assessment to determine the severity, impact, and scope of the incident
-- Fixer - the team member who will be implementing the appropriate ‘fix’ and/or coordinating with stakeholders to ensure the issue is addressed if the event is outside of the team’s control
-- The First Responder, Investigator, and Fixer may be the same person, but not likely for critical issues, as more staff will be on deck for these more severe situations
+- **Incident** - any event, error, or outage that disrupts normal operations, threatens information security, or compromises the integrity, confidentiality, or availability of the following forms that Veterans use: 10-10EZ,  10-10EZR or 10-10CG
+- **Severity Level** - categories used to classify the severity and impact of incidents, ranging from low to critical
+- **Roles and Responsibilities** – Roles can be plural
+- **First Responder** - the first person to notice the error/outage. This could be anyone on the team
+- **Investigator** - the team member who will conduct an initial assessment to determine the severity, impact, and scope of the incident
+- **Fixer** - the team member who will be implementing the appropriate ‘fix’ and/or coordinating with stakeholders to ensure the issue is addressed if the event is outside of the team’s control
+
+*The First Responder, Investigator, and Fixer may be the same person, but not likely for critical issues, as more staff will be on deck for these more severe situations
 Use Platform Support to support!
-- Incident Commander - Responsible for coordinating incident response efforts within and outside of the team, and ensuring proper procedures are followed
 
-This is like the “Quarterback” role, It may not be in the weeds, but will know enough of what is going on to facilitate communication within the team, and between team and stakeholders.
+- **Incident Commander** - Responsible for coordinating incident response efforts within and outside of the team, and ensuring proper procedures are followed
 
-Usually, but not always, Delivery Manager or Product Manager
-- Subject Matter Experts (SMEs): Individuals with expertise in relevant areas who provide technical assistance and guidance during incident response
+*This is like the “Quarterback” role, It may not be in the weeds, but will know enough of what is going on to facilitate communication within the team, and between team and stakeholders.
+
+*Usually, but not always, Delivery Manager or Product Manager
+
+- **Subject Matter Experts (SMEs)** - Individuals with expertise in relevant areas who provide technical assistance and guidance during incident response
+
 
 
 
