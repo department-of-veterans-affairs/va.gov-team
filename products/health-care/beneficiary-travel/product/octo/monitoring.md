@@ -3,6 +3,12 @@
 This will define some baseline abstract Monitoring solution requirements (Datadog, Dynatrace, etc) for downstream APIs from VA.gov. The chosen solution should work with the technologies the API is built on and be hosted on a FedRamp authorized service. 
 
 
+The biggest  question we are answering is 
+
+```
+How can we, as a team, know that how well our API is currently functioning
+```
+
 ## Alerting & Monitoring
 
 **PRIMARY USE CASE** 
@@ -40,7 +46,8 @@ So that we can observe what is going on
 
 ### Detailed guidance
 
-- We should able to create Dashboards for different audeinces displaying the current activity in the system 
+- We should able to create multiple Dashboards for different audeinces displaying the current activity in the system 
+- Different audeinces can be stakeholders, support engineers, product managers, support staff members.
 - Dashboards should be able to display near-realtime data
 - Some datapoints that we could want to be displayed
     - Metrics that are used in alerting (RED and USE)
