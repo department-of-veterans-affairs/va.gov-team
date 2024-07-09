@@ -61,6 +61,9 @@
 
 <details>
 <summary>Upcoming Apointment Details Page - Claims </summary>
+
+![bookClaims](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/2e2977b0-171d-4b44-952d-203c5568e257)
+
 </details>
 
 <details>
