@@ -142,11 +142,13 @@ Prompt: Select Grove City, OH
 
 **Choose a Provider page** 
 
-Prompt: Sarah is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily in the past on occasion. 
+Question: Why do you think these two providers are displayed here? 
+
+Explaination to follow up with: Sarah is who you normally see for Nutrition and food she is a registered dietitian however, you have seen Emily in the past on occasion. 
 
 Prompt: Tell me about this page.
 
-Question: Is there any other information that would be helpful here?
+Question: What would you want to add, change, or remove on this page?
 
 Question: How do you feel about this page?
 
