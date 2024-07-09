@@ -1,0 +1,12 @@
+# Mobile Quality - Q2 2023
+
+## Always improving
+ * Testing before develop: As of early May, we’re testing all new front-end code before it merges to develop. This reduces: 1) the risk of releasing a bug (we can catch & fix issues before they’re in the branch where our releases pull from) and 2) documentation overhead when we find issues (writing up bugs as comments, instead of new tickets).
+ * End-to-end UI automation running: This quarter, we had our first release where some manual testing was replaced by automated testing (military history) 🎉 We will expand this in Q3 to help with workload - for example, this sprint we had automation tickets for personal info, prescriptions, past appointments, letters, and contact info.
+ * But wait, there’s more: We combined the QA Zenhub board into the shared team board (providing better at-a-glance ticket status & progress for tickets in QA), ironed out a bug scrub & prioritization process with Product (explicit roles & responsibilities for how new issues are vetted and added to the backlog), and have been slowly updating the QA portion of the public documentation site (providing accountability and clarity for how we work).
+## We found bugs
+ * Extensive changes: The WCAG 2.2 support epic touched the display of every screen in the app this quarter - we were already compliant for many of the WCAG 2.2 changes, but needed to adjust line and paragraph spacing (no easy task) to ensure readability for all users. Rachael found 90 issues during testing, all of which were fixed before release!
+ * Big catch: Therese found that the EVSS to Lighthouse migration for claims decision request was not updating the suspense date for web or mobile, which means claims veterans indicated were ready for review would not be evaluated until their original due date for submitting new evidence had passed. We communicated this issue to the web team about an hour before they were slated to go live with their migration efforts, preventing them from releasing a change that would have delayed veteran claim review!
+## Better know a QA Engineer
+ * Tom is an artist, and has been commissioned for pieces this summer that also incorporate his passion for cars. He’s hard at work creating the cover for a limited edition book for the 4C Team Italia, commemorating 10 years of the Alfa Romeo 4C, and will be tentatively traveling to Italy for a couple weeks to create a mural celebrating Lamborghini's 60th Anniversary in its hometown of Sant'Agata, Bolognese.
+
