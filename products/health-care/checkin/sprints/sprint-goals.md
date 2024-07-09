@@ -56,6 +56,7 @@
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
         - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
+       - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
         - 🟩 [[FE] - Add e2e test for completing check-in then going back to appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87721)
