@@ -134,6 +134,9 @@
 <details>
 <summary>Past Appointment Details Page - Claims </summary>
 
+![staging va gov_my-health_appointments_past_fd76708a3a445644fb6a1d9d604f6346c70d42ba517d25cf1b7c3e5f112e317e(iPhone 12 Pro)](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/013c52a5-f476-4941-b671-f47a38e63940)
+
+
 </details>
 
 <details>
