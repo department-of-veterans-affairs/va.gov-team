@@ -214,7 +214,7 @@ Participants must meet the following criteria to effectively participate in the 
 1. ** 2-3 Veterans have used the My VA Health Portal in the past 12 months.**
 
 **Screener Questions:**
-1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No)
+1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No) 
 
 - Mann-Grandstaff VA Medical Center in Spokane, Washington
 - Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
@@ -223,7 +223,7 @@ Participants must meet the following criteria to effectively participate in the 
 - VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
 
 2. If yes, to Q. 1: Have you used the My VA Health Portal to review your Health appointments? (Yes/No)
-   - **Qualifying Response:** Yes
+   - **Qualifying Response:** Yes (looking for 2-3 participants)
    
 #### Secondary Criteria (Nice-to-Haves)
 **Secondary criteria:**
@@ -234,9 +234,7 @@ Participants must meet the following criteria to effectively participate in the 
 - At least 1 who lives in a rural area
 
 **Screener Questions:**
-1. Do you identify as having a cognitive disability? (Yes/No)
-   - **Qualifying Response:** Yes (looking for 2 participants)
-2. Do you identify as being part of an underserved community (e.g., LGBTQ+, rural area, minority group)? (Yes/No)
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.)
    - **Qualifying Response:** Yes (looking for 2 participants)
 
 By targeting these criteria, we ensure that our participant pool is both relevant to the study objectives and inclusive of diverse user experiences.
