@@ -66,8 +66,7 @@ Ensure the correct feature flipper(s) are enabled.
 |9h | Validation on account length is running for an account that is too long, but it does not advise the user of the exact problem, it prompts them to load in an account number ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/b479c2aa-a698-4998-8683-8d08846559d5)|  PC  | Windows  | Chrome  | Travis | [PR 29174](https://github.com/department-of-veterans-affairs/vets-website/pull/29174)  |Completed  |
 |9f | Trailing spaces cause the inline validation error to trigger, probably should ignore the space ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/160d855c-20bc-4c40-bf64-6e1e5c101e9a) |  PC  | Windows  | Chrome  | Travis | TBD |  |
 |9f/9g | better handling for letters? the inline error should say something more specific ![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/129431463/5e9e06be-8764-4e14-92cd-34569f337f40) |  PC  | Windows  | Chrome  | Travis | TBD |  |
-10 | User 152 is seeing "disability and pension isn't available right now" even with flag turned on | ![Screenshot 2024-07-10 at 3 49 26 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/152208067/f2f96e4b-489c-4e93-941d-4108d3ffa926) | Mac OS | Chrome | Alex | TBD
-11 | User 148 is seeing "disability and pension isn't available right now" even with flag turned on | | Mac OS | Chrome | Alex | TBD
+
 
 
 
