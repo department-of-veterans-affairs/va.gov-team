@@ -58,7 +58,7 @@ There's additional prefill that happens within the form when it's available. The
 |Your postal code|`Postal code`|VA Profile|
 |School information|`School facility`|AVA Profile for business submitters|
 
-Note: Additional information about how we source from [VA Profile]([url](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-profile)).
+Note: Additional information about how we source from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-profile).
 
 In these cases, we **don't** use the `Initial prefill pattern`. The respective pages appear with information pre-filled. 
 
