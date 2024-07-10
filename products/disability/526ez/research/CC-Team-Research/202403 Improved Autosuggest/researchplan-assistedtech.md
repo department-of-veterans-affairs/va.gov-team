@@ -225,7 +225,7 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
    1. No
 
-   2. Yes (Please select all that apply): 
+   2. Yes (Please select all that apply): [recruit 4, with a mix of tools]
 
       1. ZoomText
 
@@ -259,7 +259,7 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 5. Can you join the Zoom session from your mobile or desktop device using the tools you need to see your screen? 
 
-   - Yes
+   - Yes [recruit 4]
 
    - No
 
@@ -271,13 +271,13 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 1. Do you use a screen reader to access digital content on your devices every time you use the internet? 
 
-   - Yes
+   - Yes [recruit 4]
 
    - No
 
    - I prefer not to answer
 
-2. If you answered Yes to the previous question, which screen reader(s) do you use? (Select all that apply) 
+2. If you answered Yes to the previous question, which screen reader(s) do you use? (Select all that apply) [recruit 4, a mix of tools] 
 
    - JAWS
 
@@ -293,11 +293,11 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader: 
 
-   - Beginner
+   - Beginner [recruit 2] 
 
    - Intermediate
 
-   - Advanced
+   - Advanced [recruit 2] 
 
    - I don't use screen readers
 
@@ -315,7 +315,7 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 5. Are you willing and able to participate in a usability test using your screen reader via a video conferencing platform (e.g., Zoom)?
 
-   - Yes
+   - Yes [recruit 4]
 
    - No
 
