@@ -172,16 +172,14 @@ We'd like to recruit people who use a mix of different screen magnification soft
     - No
     - Does not apply
 
-## Timeline
+## Timeline – TO BE CONFIRMED
 
 |Date|Milestone|
 |:--|:--|
-|July 22, 2024|Conversation guide ready|
-|July 22, 2024|Prototype ready for piloting|
 |July 23, 2024|Research Review|
 |August 1, 2024|Pilot sessions with CAIA|
-|August 7 - 14, 2024|Research sessions|
-|August 15 - 23, 2024|Synthesis|
+|August 7 - 16, 2024|Research sessions|
+|August 19 - 23, 2024|Synthesis|
 |August 26, 2024|Share findings|
 
 ### Pilot sessions
@@ -190,11 +188,11 @@ We will have two pilot sessions with CAIA. Here is our [CAIA research support ti
 
 **Pilot 1: Desktop**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Date and time of pilot session: TBD on August 1, 2024
 
 **Pilot 2: Mobile**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD around August 1, 2024
+- Date and time of pilot session: TBD on August 1, 2024
 
 ## Research sessions
 
@@ -202,25 +200,25 @@ We will have two pilot sessions with CAIA. Here is our [CAIA research support ti
 - Buffer between sessions: 1 hour
 - Maximum sessions per day: 2 sessions
 
-### Availability
+### Availability - TO BE DETERMINED
 
-UPDATE
-
-We will provide 28 time slots, with the aim to book 14 sessions.
-
-**We’d also like to request that Perigean calls each participant to remind them about the session, in addition to emailing them. Please include the session time in each participant's respective time zone (from their address).**
+We will provide 24 time slots, with the aim to book 12 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Wednesday, Jan 24|12pm-1pm, 2-3pm, 4-5pm|
-|Thursday, Jan 25|12pm-1pm, 2-3pm, 4-5pm|
-|Friday, Jan 26|12pm-1pm, 2-3pm|
-|Monday, Jan 29|12pm-1pm, 2-3pm, 4-5pm|
-|Tuesday, Jan 30|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Wednesday, Jan 31|12pm-1pm, 2-3pm, 4-5pm|
-|Thursday, Feb 1|11am-12pm, 1-2pm, 3-4pm, 5-6pm|
-|Friday, Feb 2|12pm-1pm, 2-3pm, 4-5pm|
-|Monday, Feb 5|12pm-1pm, 2-3pm, 4-5pm|
+|Wednesday, Aug 7|TBD|
+|Thursday, Aug 8|TBD|
+|Friday, Aug 9|TBD|
+|Monday, Aug 12|TBD|
+|Tuesday, Aug 13|TBD|
+|Wednesday, Aug 14|TBD|
+
+We will also provide overflow time slots on August 15 and 16. These should only be booked if we don't reach our targets.
+
+|Date|Timeslots (EST)|
+|:--|:--|
+|Thursday, Aug 15|TBD|
+|Friday, Aug 16|TBD|
 	
 ## Team roles
 
