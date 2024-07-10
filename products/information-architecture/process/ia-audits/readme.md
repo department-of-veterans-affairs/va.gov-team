@@ -11,7 +11,7 @@ Focus area | Last audit | Audit File
 Health care hub | | | 
 Disability hub | | | 
 Education and training hub | | | 
-Careers and employment hub | | | [Careers and Employment Hub Audit]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Careers%20Hub%20Audit.xlsx
+Careers and employment hub | | | [Careers and Employment Hub Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Careers%20Hub%20Audit.xlsx)
 Pension hub| Aug 2023 | [Pension Hub Audit 2023](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/products/information-architecture/process/ia-audits/Pension%20Hub%20Audit-%202023.xlsx) | 
 Housing assistance hub| | | 
 Life insurance hub| Aug 2023 | [Life Insurance Hub Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/Life%20Insurance%20Hub%20Audit-%202023.xlsx)
