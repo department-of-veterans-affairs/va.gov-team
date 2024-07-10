@@ -1,4 +1,4 @@
-Improved autosuggest component usability testing
+Conditions page assistive technology usability testing (Previously called the Improved autosuggest component usability testing) 
 
 Draft Research Plan (updated Jul 8, 2024)
 
