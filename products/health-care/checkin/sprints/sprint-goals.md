@@ -36,9 +36,6 @@
   
 </details>
 
-<details>
-<summary>SPRINT 11 - 7/10/2024-7/23/2024 FUTURE TENTATIVE</summary>
-
 ## SPRINT 11 - 7/10/2024-7/23/2024
 
 #### PLANNED RELEASES
@@ -46,17 +43,17 @@
 
 #### SPRINT TICKETS
 - **GOAL: Support Production**
-    - ❗ 🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
+    - ❗🟦🟩🟨 [Support Applications in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82356)
     - **Sub Goal: Move to New AWS Instance**
-      - 🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
-      - 🟨 [[DevOps] Build an inventory of all AWS resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86930)
-      - 🟨 [[DevOps] Proof-of-concept NodeJS system test.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86889)
-      - 🟨 [[DevOps] Discovery on Vista API ECS resources](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86873)
-      - 🟨 [[DevOps] Create Vista API ECS Terraform module](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86519)
+      - ❗🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
+      - ❗🟨 [[DevOps] Build an inventory of all AWS resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86930)
+      - ❗🟨 [[DevOps] Proof-of-concept NodeJS system test.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86889)
+      - ❗🟨 [[DevOps] Discovery on Vista API ECS resources](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86873)
+      - ❗🟨 [[DevOps] Create Vista API ECS Terraform module](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86519)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
-        - ❗ 🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
        - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+       - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
         - 🟩 [[FE] - Add e2e test for completing check-in then going back to appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87721)
@@ -76,7 +73,6 @@
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84430)
 - **GOAL: Address Tech Debt**
     - 🟩 [4 Modifications to Tagalog Content ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87810)
-</details>
 
 ## SPRINT 10 - 6/26/2024-7/9/2024
 
@@ -104,7 +100,7 @@
       - 🚧 🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
-        - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
+        - 🚧 ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
         - ✔️ ❗🟦 [[BE] Update travel claim submission worker to enqueue claim status job on BTSSS timeout](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84765)
         - ~❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)~
             - Not able to do until after we go to production
