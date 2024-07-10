@@ -253,15 +253,18 @@ _**Participant is on filter page:**_
 [ONLINE SCHEDULING FILTER]
 
 - _If online scheduling option was not mentioned:_ And what about the third filter on the screen? What does that mean to you?
- 
-- _If not yet mentioned:_ And, if the provider you knew you wanted to schedule with did NOT have online scheduling, would you still expect to find information on that provider in this tool? 
-    - _If yes:_ What information would you expect to find for that provider?
 
-       - _If needed:_ Their contact information? Phone number? 
+   - Would you expect this tool to include providers that don't offer online scheduling?
 
-    - _If no:_ Could you tell me more about that? Why not? 
+      - _If no:_ Could you tell me more about that? Why not? 
+
+   - And, if they were included in this tool, how would you expect to be able to schedule an appointment with them? 
+
+      - _If needed:_ Their contact information? Phone number? 
+
+   - _If not yet mentioned:_ And, if your preferred provider did NOT offer online scheduling, would you still expect to find them listed in this tool? 
  
-- And if the provider you preferred to schedule with didn't offer online scheduling at this time, would that change your decision on who to schedule with?
+   - And if the provider you preferred to schedule with didn't offer online scheduling, would that change your decision on who to schedule the appointment with?
 
 [GENERAL]
 
