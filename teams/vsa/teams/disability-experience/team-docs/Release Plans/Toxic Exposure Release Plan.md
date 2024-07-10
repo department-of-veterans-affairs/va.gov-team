@@ -288,7 +288,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 - [X] Revisit submit transformation & make any needed changes
 - [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
 
-#### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
+#### Milestone: A Veteran filing a new claim can complete section 4 of the 526ez paper form online, and VBMS receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
 **Estimated Duration**: Sprint 37 (7/31/24 - 8/13/24)*    
 **Actual Delivery Date**:          
 **Environment**: Release 1.0 - Production  
@@ -303,7 +303,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
  - [ ] Submit & generatePDF release will update Veterans to using the 2022 PDF with Toxic Exposure questions.
  - [ ] Fix any launch-blocking issues
   
-#### Milestone: A Veteran filing with a 2019 In Progress Form claim can complete section 4 of the 526ez paper form online, and receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
+#### Milestone: A Veteran filing with a 2019 In Progress Form claim can complete section 4 of the 526ez paper form online, and VBMS receives a copy of the 2022 PDF upon claim submission with column 2 and questions 15A-15E populated appropriately.
 **Estimated Duration**: Sprint 38 (8/14/24 - 8/27/24)*    
 **Actual Delivery Date**:          
 **Environment**: Release 1.1 - Production    
