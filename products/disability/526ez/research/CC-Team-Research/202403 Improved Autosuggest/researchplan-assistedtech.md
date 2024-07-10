@@ -374,7 +374,7 @@ August 1st: 7:30 AM - 2:00 PM PST 
 
 - Project point of contact: Eva Heintzelman and Sudeepti Bhatnagar
 
-- Participant(s) for pilot test: 
+- Participant(s) for pilot test: Jamie Klenetsky Fay 
 
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Jamie Klenetsky Fay 
 
