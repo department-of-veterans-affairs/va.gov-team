@@ -47,6 +47,7 @@ This research will help us document and prioritize any bugs or usability issues 
 * Are Veterans still oriented and able to use the form when magnified?
 * Is it clear that information is pre-filled? Is it clear how to update pre-filled information?
 * Can Veterans understand their progress through the form without visual cues?
+* Should the progress bar heading be the first element in focus within the form?
 * Are there any inconsistencies during the journey that present confusion?
 * Do Veterans who use screen readers or magnification feel they can ask a question without the support of another person?
 * Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
