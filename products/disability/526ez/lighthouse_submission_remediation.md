@@ -19,11 +19,13 @@ The following scripts can be used to manually initiate the polling job, and repo
    - generates a list of the submission IDs for which no PDFs were found in `/tmp/PollForm526Pdf-report-[TIMESTAMP].txt`. BE SURE TO COPY/PASTE ITS CONTENTS LOCALLY ASAP, since these pods are ephemeral
    - remember to run this report at least 48+ hours after running `initiate_polling_job` above
 
-NOTE ABOUT THE 48+ HOUR LIMIT: according to the behavior observed during local testing, the 48+ hour limit is not triggered _exactly_ 48+ hours after the job is initiated. Rather, the limit is checked at the _next retry attempt_ of the exponential backoff. This effectively means that the job will not be updated until [TODO: put number determined from stage testing] hours after the submission.
+NOTE ABOUT THE 48+ HOUR LIMIT: according to the behavior observed during staging testing, the 48+ hour limit is not triggered _exactly_ 48+ hours after the job is initiated. Rather, the limit is checked at the _next retry attempt_ of the exponential backoff. This effectively means that the job will not be updated until **50 hours after the submission**.
 
-Once we have a list of submissions via the `find_pdf_failures` script, we can either employ the Manual Remediation Steps below on a case-by-case basis or run the Automatic Remediation script (development pending):
+Once we have a list of submissions via the `find_pdf_failures` script, these can be used by existing remediation scripts employed by DBEX-CARBS and/or used as reference when contacting Lighthouse about the failures. Additionally, there is a story ([#85624](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/85624)) in the works (as of 2004-07-10) to further automate the PollForm526Pdf job into the ancillary document upload flow of the primary submission path.
 
-## Manual Remediation Steps
+## Manual Remediation Steps (IN PROGRESS)
+
+A stretch goal in creating this remediation plan was to create an additional script that would read the output file of the `find_pdf_failures` script, and attempt to regenerate the PDF and upload it to VBMS. Due to some technical challenges in uploading documents, this script was not created. The steps below were developed to incorporate into this script, up to and including the final upload step (which tested semi-successfully). So- buyer beware. The below is informational only, and should not necessarily be used to attempt a remediation
 
 1. Grab a submission from the list
 2. Go to [Argo Production](https://argocd.vfs.va.gov/applications/vets-api-prod) and open a terminal on any pod (see [this section]([https://argocd.vfs.va.gov/applications/vets-api-prod?](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/scripts/526/TREX/DEBUG/SOP-Toxic-Exposure-Lighthouse-Form526-Submission-Troubleshooting.md#1-how-to-check-a-form526submission-record)) of TE SOP)
@@ -40,39 +42,38 @@ Once we have a list of submissions via the `find_pdf_failures` script, we can ei
    service = BenefitsClaims::Service.new(icn)
    raw_response = service.submit526(body, nil, nil, { generate_pdf: 'true'})
    ```
-10. Write PDF to temp directory
+5. Write PDF to temp directory
    ```
    content = raw_response.body
    fname = "/#{Common::FileHelpers.random_file_path}.pdf"
    File.binwrite(fname, content)
    ```
-11. Upload PDF
+5. Upload PDF
    ```
    claim_id = submission.submitted_claim_id
-  require './lib/lighthouse/benefits_documents/service'
-  # docs_service requires a user with a participant_id :-(
-    user = OpenStruct.new({
+   require './lib/lighthouse/benefits_documents/service'
+   # docs_service requires a user with a participant_id :-(
+   user = OpenStruct.new({
                             participant_id: submission.auth_headers['va_eauth_pnid'],
                             icn:
                           })
-  docs_service = BenefitsDocuments::Service.new(user)
-  mime_type = MimeMagic.by_path(fpath).type
-  tempfile = Tempfile.new(fpath)
-  tempfile.binmode
-  tempfile.write(content)
-  tempfile.rewind
-  action_file = ActionDispatch::Http::UploadedFile.new(
+   docs_service = BenefitsDocuments::Service.new(user)
+   mime_type = MimeMagic.by_path(fpath).type
+   tempfile = Tempfile.new(fpath)
+   tempfile.binmode
+   tempfile.write(content)
+   tempfile.rewind
+   action_file = ActionDispatch::Http::UploadedFile.new(
     tempfile: tempfile,
     type: mime_type,
     filename: "#{fname}.pdf"
-  )
-  params = {
+   )
+   params = {
     file: action_file,
     file_params: {
       claim_id: claim_id,
       document_type: 'L122'
     }
-  }
-  docs_service.send(:submit_document, params[:file], params[:file_params], nil)
+   }
+   docs_service.send(:submit_document, params[:file], params[:file_params], nil)
    ```
-12. 
