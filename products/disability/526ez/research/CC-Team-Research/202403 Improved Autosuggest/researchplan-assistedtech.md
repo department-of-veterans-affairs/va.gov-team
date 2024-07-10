@@ -271,17 +271,8 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
    - Other (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader: 
 
-   - Beginner
-
-   - Intermediate
-
-   - Advanced
-
-   - I don't use screen readers
-
-4. How frequently do you use a screen reader?
+3. How frequently do you use a screen reader?
 
    - Daily \[recruit 4]
 
@@ -292,7 +283,16 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
    - Rarely
 
    - Never
+     
+4. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader: 
 
+   - Beginner
+
+   - Intermediate
+
+   - Advanced
+
+   - I don't use screen readers
 5. Are you willing and able to participate in a usability test using your screen reader via a video conferencing platform (e.g., Zoom)?
 
    - Yes
