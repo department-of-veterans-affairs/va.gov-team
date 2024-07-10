@@ -30,13 +30,13 @@
 - UX Team will hold a face-to-face discussion prior to the feature's wireframes finalization
    - Invitees
        - Involved UX team members
-       - All CIE FE & BE engineers
+       - All CIE FE & BE engineers 
        - CIE PM & DM
-    - The intent of this discussion is to allow the engineers & PM to raise any concerns about the UI or functionality before it is finalized
+    - The intent of this discussion is to allow the engineers & PM to raise any concerns about the UI or functionality before it is finalized     
 - UX Team will hold a face-to-face technical hand-off when the feature is ready to be implemented
    - Invitees
         - Involved UX team members
-        - All CIE FE & BE engineers
+        - All CIE FE & BE engineers (engineers that will work on it are required, others are optional)
         - CIE PM & DM
     - The intent of this discussion is to walk the team through the feature and answer any questions the engineers may have about functionality prior to implementing
     - Figma files will be locked down and made availabile in the "Waiting for release" section
