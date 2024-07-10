@@ -93,7 +93,7 @@ Please take as long as you’d like to read and explore. If you’re comfortable
 #### Task
 **Moderator:** Now that you’ve taken a look at the page, what would you do from here?   
 
-_If the user would like to verify, tell them to go ahead and do so, then move on to Section 3 questions. If the user clicks on the other links, ask them “Where would you expect that link to go?”_   
+_If the participant would like to verify, tell them to go ahead and do so and encourage them to continue through the simulated "verification" screens, then move on to Section 3 questions. If the participant clicks on the other links, ask them “Where would you expect that link to go?”_   
 
 ---
 ### Section 3: [LOA3 Message] - 10 minutes
@@ -101,7 +101,9 @@ _If the user would like to verify, tell them to go ahead and do so, then move on
 _If the user did not attempt to verify:_    
 **Moderator:** Now we’re going to pretend that you’ve gone through the identity verification process that was called out by the green box. Go ahead and click on the “Verify your identity” link.   
 
-_If the user has already ‘verified’ as part of the previous section, move on to probing questions._   
+_Encourage participant to continue through the simulated "verification" screens_
+
+_If the participant has already ‘verified’ as part of the previous section, move on to probing questions._   
 
 **Questions:**   
 1. What, if anything, about this page stands out to you now?   
@@ -112,12 +114,12 @@ _If the user has already ‘verified’ as part of the previous section, move on
 #### Task
 **Moderator:** Now that you’ve taken a look at the page, what would you do from here?   
 
-_If the user would like to add their contact info, tell them to go ahead and do so, then move on to Section 4. If the user clicks on “Get your Veteran status card,” ask them, “Where would you expect that link to go?”_    
+_If the participant would like to add their contact info, tell them to go ahead and do so, then move on to Section 4. If the participant clicks on “Get your Veteran status card,” ask them, “Where would you expect that link to go?”_    
 
 ---
 ### Section 4: [[Profile Completion](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/profile-completion/discovery-research/conversation-guide.md)] - 15-20 minutes   
 #### Review - Entry Point   
-_If the user has not yet moved to add their contact info, prompt them to click the “Add your contact information link.”_   
+_If the participant has not yet moved to add their contact info, prompt them to click the “Add your contact information link.”_   
 **Moderator:** Now imagine this was your profile on the website, what would you do from here?   
 
 * _If participant says they’d click on the alert, tell them to go ahead_
