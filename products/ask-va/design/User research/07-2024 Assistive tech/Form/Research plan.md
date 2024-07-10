@@ -112,7 +112,7 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |Exactly 10|Are Veterans|Primary|
 |Exactly 10|Are willing to join from a desktop or mobile device using a screen reader|Primary|
 |Exactly 5|Are beginner screen reader users|Primary|
-|Exactly 5|Are experience screen reader users|Primary|
+|Exactly 5|Are experienced screen reader users|Primary|
 |At least 5|Are over 55 years old|Secondary|
 |At least 5|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
@@ -133,30 +133,46 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 ### Screener questions
 
-UPDATE
+1. Have you contacted the VA online or over the phone in the past year?
+    - Yes
+    - No
+2. Have you signed into VA.gov in the past year?
+    - Yes
+    - No
+3. Have you ever used [ask.va.gov](https://ask.va.gov/)?
+    - Yes
+    - No
 
-1. Do you have any dependents or other family members who use VA services?
-   - Yes
-   - No
-2. Have you contacted the VA online or over the phone in the past year?
-   - Yes
-   - No
-3. Have you signed in to VA.gov in the past year?
-   - Yes
-   - No
-4. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or iPhone? Any kind of smartphone will work as long as it connects to the internet.
-   - Yes
-   - No
-5. Are you able to join the Zoom session from a desktop or laptop computer? Any kind of desktop or laptop will work as long as it connects to the internet.
-   - Yes
-   - No
-6. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
-   - Yes
-   - No
+#### Screen readers
+
+1. Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+    - Yes
+    - No
+    - I prefer not to answer
+2. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+    - Beginner
+    - Intermediate
+    - Advanced
+    - Does not apply
+3. Are you able and willing to join the Zoom session from your mobile or desktop device using this assistive technology?
+    - Yes
+    - No
+    - Does not apply
+4. Please list the name of the screen reader technology you will use during the session.
+    - Open text box
+
+#### Screen magnification
+
+1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
+    - Yes
+    - No
+    - I prefer not to answer
+2. Are you able and willing to join the Zoom session from your mobile or desktop device using the tools you need to see your screen?
+    - Yes
+    - No
+    - Does not apply
 
 ## Timeline
-
-UPDATE
 
 |Date|Milestone|
 |:--|:--|
