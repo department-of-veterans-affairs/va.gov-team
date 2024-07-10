@@ -1,3 +1,44 @@
+## Meeting Notes for CRM Sync on 07/09/2024
+
+E2E Testing and More
+
+### Attendees:
+
+* **AVA FE Team:** ...
+* **AVA CRM Team:** ...
+
+### Key Takeaways:
+
+* Category, Topic, and Subtopic now include a `display_name` field that can be used for the scenarios where CRM and VA.gov are out-of-sync. When `display_name` is null, `name` will be used instead.
+* Roles and responsibilities for end-to-end (E2E) testing are as follows:
+  * Testing for AVA VA.gov's web-facing, public UI will be owned by the AVA VA.gov team, guided by their test plan.
+  * Testing for CRM's web-facing, public UI will be owned by the CRM team, guided by their test plan.
+  * Testing steps that reference CRM's agent UI to verify queue routing will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+  * Testing steps that reference CRM's agent UI to reply to an inquiry will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+  * Testing steps that reference CRM's agent UI to reroute an inquiry will be owned by the AVA VA.gov team, with support from the CRM team as needed.
+  * Testing of the CRM APIs/contracts will be performed by the CRM team.
+  * Testing of the AVA VA.gov APIs/facade/middleware will be performed by the AVA VA.gov team.
+* Other testing notes follow:
+  * No new users will be created for testing fringe cases. Rather, we'll use mocked data for the calls to user profile to simulate edge-case users. Creating new users is a bit of a lift and should be avoided if not critically needed.
+  * In testing of inquiry routing, we hope to automate some checks by using a new field on the inquiry details payload that indicates the current agent queue.
+  * Becky and Joe should have access to the agent UI. We need to add Terri and CeeCee for sure, and may be wise to add/verify access for the AVA VA.gov dev team. Design already has access.
+  * Agent UI access needs a login every 7 days to keep the account active. Adding a new user is a roughly 7-day process. No special roles are needed for using the agent UI.
+  * The 120-ish flows refer to the permutations of Category/Topic/Subtopic selections. (This is multiplied by 4 if you include the "about ___" variants.
+  * OPEN QUESTION: Does location-based routing need to be accounted for in our tests? If so, ensure those scenarios are accounted for in the test plan.
+* The Branch of Service is ultimately pulled from Claims API / DEERS, via VA Profile API / Login user object. Chris will review our current list with VBA.
+* Adding an optional, new "Policy Number" field to Life Insurance flow was discussed. Would be useful for the agents working that queue, but it's a showstopper. Was decided to add to the AVA VA.gov backlog for post-release implementation. AVA VA.gov to document the intake-to-deploy process.
+* We need a new meeting to discuss staggered rollout, switching to the new UI, updating site-wide links, handling stale user bookmarks, and our rollback plan.
+
+### Action Items:
+
+- [ ] JOE: Send Branches of Service list to Chris for validation with VBA.
+- [ ] JOE: Schedule a new meeting to review rollout plan with CRM, including things like rollback and staggered release.
+- [ ] JOE: Create a new issue to track documenting our process for post-release changes and defects, from intake to deploy. Share with CRM.
+- [ ] JOE: Create a new issue to implement the "Policy Number" field for Life Insurance flow, post-release.
+- [ ] JOE/CeeCee: Discuss testing timeline, touchpoint, and their place in the roadmap for both teams in a future CRM Sync.
+
+
+
 ## Meeting Notes for CRM Sync on 06/25/2024
 
 Short Sync
