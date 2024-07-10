@@ -1,4 +1,5 @@
 # VBA SME Workshop for Dependency claims process experience
+
 # Background
 Currently, we are working to increase transparency for the  [disability claims process](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713276576012/25e677b1d846aff3bea16fc9175e473d5e509888?sender=u606d6bea4af40ec4fe659363)  by providing a description for each process step so hopefully veterans can  anticipate what will happen next in the claims process or to educate veterans on ideal times to submit evidence etc.
 
@@ -8,7 +9,6 @@ Our new understanding is that we can specify which claims will use the new claim
 Dependency claims don’t align with either the 5-step or 8-step claim process, with the 5-step process being more relatable. These claims can be decided in a single day once they leave the national work queue, as most evidence is submitted during steps 1 and 2. Much of the claim is handled by either RBPS or a single VA staff, with few intermediate steps.
 
 ## High Level overview
-
 The challenge with these claims is the lack of specific steps and decision documents. Instead, an award is generated to close the claim without any developments, meaning no letters are sent to veterans. Claims typically move from pending to closed within one processing day, but it can take months before they are worked on.
 
 For dependency claims, there are no intermediate steps. When intermediate steps exist, tracked items with a 30-day suspension period are used. After this period, a decision can usually be made the same day. Claims processed through RBPS (Rules Based Processing System) automation closes the same day, similar to manual processing by a human.
@@ -30,25 +30,35 @@ Steps 1-2 occur simultaneously because the same rep that received the claim cont
 If the VA needs more information, they generate a development letter, establish tracked items, and wait 30 days for a response. Once the evidence is submitted, the decision process continues.
 
 ### Step 4 - Evidence Review  (Doesn’t occur)
+
 **Note:** This happens in step 2. 
 
 ### Step 5 - Rating (Doesn’t always occur)
+
 It is challenging to distinguish step 6 in dependency claims. In rating claims, once the rating is completed, the status changes to “rating decision complete,” which activates step 6. There are no steps for dependency claims beyond rating pending authorization closed, and step 5 will never occur. 
 
 ### Step 6 - Preparing decision letter
-Would likely involve reward generation, where a VSR enters the decision in the award system, including dependency decisions like adding a spouse or children. 
+
+Is the reward generation, where a VSR (from the post-termination team) enters the decision in the award system, including dependency decisions like adding a spouse as the date of marriage  or children based on birth date. 
 
 In step 6, claims never enter a post-decisional status. 
 
+
 ### Step 7 - Final review
-Would be award authorization, where another VSR verifies and authorizes the claim. Once authorized, the claim…
+
+This step involves award authorization, where another VSR (from the post-termination team) reviews the decision to ensure it's correct, examines the letters for accuracy, and authorizes the claim. Once authorized, the claim is closed immediately.
 
 ### Step 8 - Claim decided
+
 Decision sent to Veteran.
 
 ## What are common Veteran pain points with this process? (ie. for disability claims, Veterans unintentionally resubmit evidence after their claim has move out of gathering evidence, causing the process to regress. )
+
 * **Claims appear stagnant, then get decided in 1 day** - The VBA and Veterans share similar frustrations. For example, if a veteran is aware of the rating process, they might find it disconcerting that dependency claims can remain open for six months with no updates. The call center might say the claim is waiting to be assigned to a human, and then suddenly, the claim is decided in a single day, which can be quite jarring.
 * **Inconsistent marriage dates for marriages that ended in divorce years ago** - If a Veteran is trying to file a claim for a second spouse. For instance, if a veteran has been receiving a disability claim for 20 years, got divorced 12 years ago, and removed the first spouse, and now remarries and submits a new claim, they might mistakenly provide inconsistent marriage dates. This inconsistency will prompt the VA to request additional evidence, such as the divorce decree.
+* **Neglecting to notify VA of divorce** - If a Veteran divorces a spouse first and doesn’t notify VA, they can end up owing VA. For instance, if a Veteran divorce wife 10 years ago and could potentially owe the VA thousands of dollars. There’s a lot of work that goes around depending on verification’ it’s  absolutely insane.
+
+> “It’s harder to put my spouse on my award and keep her on the award, than it is to be rated 100% service connected”
 
 ## What are the reasons for RBPS to switch to a manual process?
 Some reasons why RBPS switches to manual process are as follows: 
@@ -71,9 +81,12 @@ Typically, the person making the decision on the claim is the same person doing 
 We can probably track it. It’s challenging because a claim can sit for months and then be decided in a single day. It’s not like a rating claim; it’s much more simplified because it can literally be handled by one person.
 
 ## Who is the VA subject matter expert serving as the point of contact for your team?
-* [Brandi Traylor](mailto:brandi.traylor@va.gov) , Senior Automation Strategist
-* [David Reis](mailto:david.reis@va.gov) , Senior Automation Strategist
-* Kayce White, Program Analyst
+
+| **Names** |  **Job title**  |
+|----------| -------------|
+| [Brandi Traylor](mailto:brandi.traylor@va.gov) |  Senior Automation Strategist|
+| [David Reis](mailto:david.reis@va.gov) |  Senior Automation Strategist|
+|Kayce White| Program Analyst|
 
 ## Is there anywhere in the VA ecosystem where this claims process is described?
 I’m not sure… maybe not, because we don’t typically focus on things like dependency claims.
@@ -97,4 +110,18 @@ To learn more about a “helpless child,” you can talk to David Reis.
 
 It’s the same for all dependent types except for a helpless child. A helpless child’s claim goes through the rating process because it requires medical evidence and a formal rated decision. They are not EP130 (like disability claims) but are classified as  [EP020](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000011474/Appendix-B-End-Product-EP-Codes#020) .
 
-**Note**:  On the PDF, the language used is "child permanently disabled".
+**Note**:  On the PDF, the language used is "child permanently incapable of self-support,.
+
+Github ticket: Epic [[Github]](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84260) | [Discovery ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84292)
+
+| **Names** |  **Notes**  |
+|----------| -------------|
+| [Session record](https://dvagov.sharepoint.com/:v:/s/vaabdvro/Ea_oLVftrthIvl2JOZnUY-QBQgJ3yGLR9Gqr5DtuUTDe6A?e=MOA75U) |  Recording of the workshop|
+| [Note-taking board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718906654073/9f6298e5f0b2a25a06a714c05b129918e2cbc92f?wid=0-1719253015404&outline=open) |  Mural board used for notes during the recording|
+| [team research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/24c2588860e8f32b2415addf0a81be8a2687f09e/products/dependents) |  Team folder containing research docs |
+| [About DIC for spouse](https://www.va.gov/disability/dependency-indemnity-compensation/) | About VA DIC for spouses, dependents, and parents   |
+| [Filing an Online Dependency Claim [PDF] ](https://www.benefits.va.gov/COMPENSATION/docs/bas-dependency-faq-final-508.pdf) | Contain FAQs for understanding  |
+| [Adding a dependent online through ebenefits](https://www.benefits.va.gov/COMPENSATION/docs/dependency-infographic-final-508.pdf) | Infographic|
+| [View or change dependent](https://www.va.gov/view-change-dependents/) | VA.gov 686/674 form flow |
+| [normal backup emergency flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1697740873991/4be42fcadc013be6b3d65bd620522ee68e8e0faf?sender=u606d6bea4af40ec4fe659363) | Diagram flow |
+| [Dependent verification research [Mural]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699898419840/856f7b7f447423fc5139c790d817769993825240?sender=u606d6bea4af40ec4fe659363) | Research notes from study |
