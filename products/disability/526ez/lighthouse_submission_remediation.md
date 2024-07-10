@@ -1,4 +1,4 @@
-# Lighthouse Submission Remediation Plan
+# Lighthouse Post-Submission Missing PDF Remediation Plan
 
 This document is to detail the steps to remediate lighthouse submissions where the claim was established, but the PDF was not populated in the eFolder in VBMS. 
 
