@@ -352,9 +352,11 @@ _**Participant is on Pending page:**_
 - Ok, thank you! That concludes that activity and is everything we need to go through today.
   
 - Do you have any other questions for me or additional comments about what we’ve reviewed today together?
-  
-- Ok, and just curious, would you expect VA to contact you if you haven't self-scheduled your first appointment leading up the referral's expiration date?
-   - And, when and how would you expect for VA to contact you? (_If needed: For example, one week before the expiration date, one week after the referral was approved? For example, on VA.gov, by phone, by letter?_) 
+
+_Note for moderator: If time is getting close, skip this question._
+
+   - Ok, and just curious, would you expect VA to contact you if you haven't self-scheduled your first appointment leading up the referral's expiration date?
+      - And, when and how would you expect for VA to contact you? (_If needed: For example, one week before the expiration date, one week after the referral was approved? For example, on VA.gov, by phone, by letter?_) 
 
 - _If the participant agreed to record this session:_ 
    - Lastly, I'd like to confirm once again: **Are you still okay if we use any video or audio clips from this session?"** We won’t share any information that identifies you, and we’ll remove your face and name from any videos if we do share them. 
