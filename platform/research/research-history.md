@@ -164,7 +164,7 @@ Note: this document does not include research history for Appeals projects, whic
 *Caregivers, Research Lead: Dené Gabaldón*
 
 - Number of participants: 1 pilot, 8 participants (6 Veterans, 3 POAs)
-- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10EZ/Research%20April-May%202021/End%20user%20discovery%20research)
+- [Link to the research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/april-may-2021/end-user-discovery)
 - List of keywords: Veterans, POA, health care, application
 
 ### April 2021
