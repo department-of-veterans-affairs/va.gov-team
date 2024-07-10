@@ -176,26 +176,25 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 |Date|Milestone|
 |:--|:--|
-|July 28, 2023|Design Intent|
-|December 1, 2023|Midpoint Review|
-|January 9, 2024|Prototype(s) ready|
-|January 10, 2024|Research Review|
-|January 18, 2024|Pilot sessions (2)|
-|Jan 24 - Feb 5, 2024|Research sessions|
-|Feb 6 - 19, 2024|Synthesis|
-|Feb 20 - Mar 4, 2024|Share findings|
+|July 22, 2024|Conversation guide ready|
+|July 22, 2024|Prototype ready in staging|
+|July 23, 2024|Research Review|
+|August 1, 2024|Pilot sessions with CAIA|
+|August 7 - 14, 2024|Research sessions|
+|August 15 - 23, 2024|Synthesis|
+|August 26, 2024|Share findings|
 
 ### Pilot sessions
 
-UPDATE
+We will have two pilot sessions with CAIA. Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
 
-**Pilot 1**
-- Pilot participant email: Jeff Wallace (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: 12-1:30pm EST
+**Pilot 1: Desktop**
+- Pilot participant: TBD (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: TBD around August 1, 2024
 
-**Pilot 2**
-- Pilot participant email: Will York (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: 2-3:30pm EST
+**Pilot 2: Mobile**
+- Pilot participant: TBD (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: TBD around August 1, 2024
 
 ## Research sessions
 
