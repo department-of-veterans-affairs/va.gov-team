@@ -34,7 +34,7 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 The key goal of this study is to:
 
-* Identify any barriers that could prevent Veterans who use screen readers and magnification from asking a question through Ask VA
+* Identify any barriers that could prevent Veterans who use screen readers or magnification from asking a question through Ask VA
 
 ### Outcome
 
