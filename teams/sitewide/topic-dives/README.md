@@ -21,7 +21,8 @@ Please add any potential future topics you would like covered below:
 - @dsasser
 
 ### 7/10/24 - Find a Form
-[Video recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/videos/forms-overview.mp4) - MP4 you'll need to download
+https://us06web.zoom.us/rec/share/nhSoIaTcjXapnmI6VbM0i7tSLUMJTPWD7WlN2r1hauB1U5k3_Fb1_CxW7swzg47N.-kGMFqgUx35QgVaj?startTime=1720642043000
+Passcode: uc63t+P8
 
 Soup to nuts, how Find a Form works, including: 
 * Nature of upstream data housed in Forms DB 
