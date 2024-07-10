@@ -204,7 +204,7 @@ Prototype Link:
 
  - Are you familiar with Debt Letters? You may have received them in the mail or seen them on the portal in the past. 
  - We've heard that some Veterans use these Debt Letters for different purposes. Have there been situations where you have used them and if so for what? (Provide examples if they aren't sure - example: to apply for a mortgage)
- - Are you aware that the Debt Letters are not accessible on the portal at this time? How do you feel about that? 
+ - Would you like to have these letters available for download on the debt portal? Why or why not?
 
 - How would you find out when a Debt Letter was sent to you?
 
