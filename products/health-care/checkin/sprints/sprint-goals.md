@@ -36,6 +36,9 @@
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
         - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
         - 🟥 [Create Final Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
+        - 🟥 [[UX] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88050)
+        - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)
+        - 🟪 [[PRODUCT] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88051)
 - **GOAL: Address Tech Debt**
     - 🟩 [[FE] - Redirect on stale session after completion ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87499)
   
