@@ -21,7 +21,7 @@ Please excuse any typos.  Trying to clean this up on my last day was NOT the bes
   
 **Forms on VA.gov**
 - [List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/in-progress-reminders.md) of forms  on VA.gov the team has completed.  Other teams have and are creating form confirmations that are not included in this list.
-- Once a form has been digitized, the  Digitize Form team passes the baton to the Notify Strike team to trigger an email confirmation after form submission.  Handoff [doc](https://docs.google.com/document/d/1w6p_wvQdWL5llf6LCjv1cbPjn_eZySupmVIGdiMzT-o/edit)
+- Once a form has been digitized, the  Digitize Form team passes the baton to the Notify Strike team to trigger an email confirmation after form submission.  Handoff [doc](https://github.com/department-of-veterans-affairs/vanotify-team/blob/master/Strike/Forms_Notify%20Form%20Handoff.pdf)
 - In-progress [reminders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/form%20confirmations/in-progress-reminders.md).  We should analyze the effectiveness of these reminders before creating more
 - In addition to the forms listed above, the team is working on the 1990 MEB form with the Education team.  Some work needs to be completed by the MEB team before we  proceed.  This work is currently slated for August 2024.
 
