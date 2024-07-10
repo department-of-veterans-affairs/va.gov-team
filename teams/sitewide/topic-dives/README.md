@@ -30,7 +30,9 @@ Soup to nuts, how Find a Form works, including:
   * Ownership of the business processes within each administration to create / manage forms and PDFs
   * Forms contacts
   * [VA Forms Contacts docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
-* Migration of Forms data to Drupal ([Migration docs](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-forms.md))  
+* Migration of Forms data to Drupal
+  * [Migration docs](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-forms.md))
+  * [Migration in Drupal](https://prod.cms.va.gov/admin/structure/migrate/manage/forms/migrations/va_node_form) 
 * How we manage VA Form nodes in Drupal
   * Flagging mechanisms
   * Metadata changes we watch for and why
