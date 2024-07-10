@@ -432,8 +432,8 @@ Task prompt: Find out if you have received a message from your doctor.
 
         > “It's still loading my information. So I don't know about me.” P15
      * 2/7 participants commented when moderator asked what participant was thinking during an extended loading:
-        > "That’s how typical government works, you know… let's spend, you know, close to a billion dollars on this. And let's make sure that it doesn't work. That's what's going through my mind, you know.” P3
-        > “But I don't know if it would be hard—if this is a testing thing, or my wi-fi, it's sucky.” P10
+        > "That’s how typical government works, you know… let's spend, you know, close to a billion dollars on this. And let's make sure that it doesn't work. That's what's going through my mind, you know.” P3  
+        > “But I don't know if it would be hard—if this is a testing thing, or my wi-fi, it's sucky.” P10  
      * 2/7 participants did not comment explicitly on the load time
 
 <table>
