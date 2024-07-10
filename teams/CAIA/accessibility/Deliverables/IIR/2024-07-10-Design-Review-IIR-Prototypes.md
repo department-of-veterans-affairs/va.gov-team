@@ -21,8 +21,6 @@
 - Product name: Veteran New Account Flow within Authenticated Experience, Welcome Pathway (Onboarding)
 - Product manager: Kat Kufalk
 - UX: Liza McRuer
-- Dedicated content writer on your team (if you have one): No dedicated content writer
-- Dedicated a11y specialist on your team (if you have one): No dedicated a11y specialist
 
 ## Design Review Coverage 
 
@@ -32,7 +30,10 @@ CAIA will review the two prototypes for accessibility issues and make recommenda
 - [ ] [Desktop Prototype](https://www.figma.com/proto/CertVj7cu66kFv9TnseR30/Veteran-Onboarding?page-id=300%3A11104&node-id=397-7338&viewport=710%2C-1108%2C0.29&t=fWV6H8hUlDmichZX-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=397%3A7338&show-proto-sidebar=1)
 
  > [!TIP]
-> [Here are the tools we use in our reviews.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2e5a0a08bd51ae3258de4c9f37754f907e938586/teams/CAIA/accessibility/tools-we-use.md#tools-we-use)
+> - Here are the [tools CAIA uses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2e5a0a08bd51ae3258de4c9f37754f907e938586/teams/CAIA/accessibility/tools-we-use.md#tools-we-use) during our reviews.
+> - We also review designs to make sure they are following the [Design System's guidance with respect to components and patterns.](https://design.va.gov)
+> - We recommend teams use the [VA Experience Standards](https://design.va.gov/about/experience-standards/) as a framework, when building products. 
+ 
 
 ## Mobile Prototype
  
