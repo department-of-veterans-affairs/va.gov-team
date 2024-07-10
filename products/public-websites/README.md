@@ -238,50 +238,26 @@ Events may be single or recurring, and are either:
 
 ## Find a form / VA Forms
 
+[Topic Dive overview of the Forms product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/README.md#71024---find-a-form), end to end
+
+Forms product & engineering documentation: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form
+
 **What is:**
 
 Forms are a critical part of the Veteran experience for applying for benefits & services. A Forms database is managed outside the context of Public Websites team or the Drupal CMS, and is the source of truth for Form data and PDFs. We import data from the Forms DB, and store data about each form as a node.
 
 Forms are then findable from the “[Find a form](https://www.va.gov/find-forms/)” interface – a search / listing of VA Forms results.
 
-We own:
-* the Find a Form interface
-* the Form page interface
-* the data migration that pulls in the Forms DB csv export into the CMS
-* Lighthouse then pulls our CMS data into LH, so we own supporting them if they have trouble
-* the vets-api code that's used to tap Lighthouse (for the data they got from the CMS)
-
-We do not own:
-* The form PDFs themselves. They're hosted on the Forms DB servers.
-* The metadata about forms. That's pulled from the Forms DB
-
-### Forms DB import
-
-The import uses Row ID as the unique identifier to map importing content to Drupal nodes. Some fields in Drupal may be customized from within Drupal after import, visible on each node within “Forms DB data” expander.
-* [VA Forms Content Flow Topic Dive](https://www.youtube.com/watch?v=CuPI8DB7aR0) - describes the import process in more detail
-* [VA Forms - Flagged content dashboard](https://prod.cms.va.gov/admin/content/flagged?type=va_form&workbench_access_section__section=All) - CMS dashboard of imported/updated Forms content, intended to be used for Editors to update / modify after import as necessary. Not recently used.
-
-The Forms DB system has some recurring flaws: 
-* After migration, forms in CMS may receive incorrect metadata (e.g. row ID is not reliable tie to form metadata, unknown cause)
-* Veterans may report that PDF links from a Form node page are broken. PDFs are hosted on a server outside our purview, owned by the Forms DB team.
-* An existing form may be duplicated with a new row ID, as a result of Forms DB deleting / recreating, rather than editing, a Form.
-
 **Example content:**
 * Find a Form: [https://www.va.gov/find-forms/](https://www.va.gov/find-forms/) 
 * Example Form URL: [https://va.gov/find-forms/about-form-10-0388-4](https://va.gov/find-forms/about-form-10-0388-4)   
-* CMS: [https://staging.cms.va.gov/node/6150/edit](https://staging.cms.va.gov/node/6150/edit) 
-  * “Forms DB Data” on a Form node indicates what data has been imported, vs. what can be edited in Drupal
-  * Drupal Admins may update data within “Forms DB Data” on a node, but updates will be overwritten by next migration.
-
-**Governance / Editor guidance:**
-* Primary editors:  Forms managers update Form data outside the context of the CMS, in the “Forms database”. That content is migrated into Drupal and can be finessed in the CMS.
+* CMS VA Form node: [https://staging.cms.va.gov/node/6150/edit](https://staging.cms.va.gov/node/6150/edit)
 
 **More info:**
 * [Forms Product outline & historical docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form)
 * [Triage runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/README.md#troubleshooting) for errors / defects
 * [Engineering information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/engineering) including data diagrams, architecture information
 
-***Q3 2022 project:** to understand more about the Forms DB infrastructure, in an effort to help stabilize / reduce risk of downstream issues: [https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9724) 
 * [VA Forms Library Overview ](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview)(Platform docs) - IS NOT RELATED. This pertains, instead, to making usable online forms within VA.gov 
 
 ## Announcement Framework
