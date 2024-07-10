@@ -380,7 +380,7 @@ August 1st: 7:30 AM - 2:00 PM PST 
 
 - Note-takers: Eva Heintzelman, Sudeepti Bhatnagar, Yurena Garcia-Hevia, Lesley Ropp
 
-- Observers: Jennifer Bertsch, Tyler Spangler, Luke Short, Lesley Ropp
+- Observers: Jennifer Bertsch, Tyler Spangler, Lesley Ropp
 
 ****
 
