@@ -54,7 +54,7 @@ This research will help us document and prioritize any bugs or usability issues 
 
 ### Hypotheses
 
-1. Veterans will find headers, labels and links are descriptive and clear.
+1. Veterans will think headers, labels and links are descriptive and clear.
 2. Veterans will be able to interact with all elements using only their keyboards.
 3. Veterans will be oriented and still able to use the form when magnified.
 4. Veterans using a screen reader or magnification will understand that information has been pre-filled from 'their' account and know how to update it.
