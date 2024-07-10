@@ -53,12 +53,16 @@ Background:
 - Approved asking for home address first (Design Office hours 5/21/24)
 
 **Statement of truth - Plain language**
+- DECISION: Update post live 7/10 - Dirction to have 1:1 match in the statement of truth disclosure language
+
+
 - It's okay for you all to leave in the previous plain language adjustments in the statement of truth sections that are in the version of the form that's in production. When you all have SMEs/stakeholders review, just have them confirm that's okay.
+- Included in PDF review #83393 with no changes comment from stakeholders
+- Post go-live reqeust from stakeholders/SMEs to make it match 1:1
 
 
 
 #### Future Notes
-
 
 **Multiple Responses List-and-loop Pattern**
 
@@ -106,4 +110,5 @@ Content standards are to avoid gendered language whenever possible. We discussed
 - [[UX] 10-10CG June Form Updates - Stakeholder Content Check Docs #83393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83393)
 - [[UX]10-10CG Caregiver application post-SME feedback content/design file adjustments #84352](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84352)
 - [[UX, FE] 10-10CG - Improvements: Exploration on adding List & Loop pattern on Secondary Caregiver section #83290](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83290)
-- 
+- [UX] 10-10 CG Desk and user research opportunity planning [#87460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87460)
+
