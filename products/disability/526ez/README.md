@@ -54,8 +54,8 @@
  [ZenHub Workspace](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/board)
  GitHub team label: DBEX-TREX
 - Product manager: Jared Pace
-- Design and Research: Mike Eng, Kate Allbee, Evelyn Davis
-- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, MJ Wojcik
+- Design and Research: Mike Eng, Evelyn Davis
+- Engineering: Aurora Hampton, Seth Darr, Christine Cereca, Mark Chae, Tommassina Miller
 - Delivery: Anneliese LaTempa
 
  Team 2:
@@ -63,6 +63,6 @@
  GitHub team label: DBEX-CARBS
 - Product manager: Lisa Capaccioli
 - Design and Research: Julie Pedtke, Nichole Nicholas
-- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal, Dewayne VanHoozer
+- Engineering: Thomas Blackwell, Nathan Burgess, Sam Stuckey, Scott Regenthal
 - Delivery: Sarah Ortiz Shields
 
