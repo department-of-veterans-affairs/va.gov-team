@@ -1,4 +1,4 @@
-# Redirect Guidance
+# Redirect Standards
 
 ## H1: Redirects
 
