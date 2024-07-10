@@ -80,10 +80,10 @@ We will work with Perigean to recruit Veterans for this research.
 
 We request that Perigean:
 - shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
-- emails each participant after they've been recruited
+- emails each participant after they've been recruited (copy content provided)
 - calls each participant to remind them about the session, one day in advance.
 
-#### Email after recruitment, prior to the session
+#### Email to send each participant after recruitment, prior to their session
 
 ```
 Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
