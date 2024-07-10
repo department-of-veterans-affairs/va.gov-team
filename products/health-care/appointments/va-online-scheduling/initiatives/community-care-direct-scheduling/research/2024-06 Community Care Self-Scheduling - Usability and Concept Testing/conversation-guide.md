@@ -152,6 +152,8 @@ _Note for moderator: If Veteran has difficulty answering some of these questions
 
 _**Participant starts at Text message:**_
 
+_Note for moderator: Get through this section quickly to save time._
+
 - Now, imagine you just received this text message from VA. 
 
 - Go ahead and review it, but don't select anything yet. 
