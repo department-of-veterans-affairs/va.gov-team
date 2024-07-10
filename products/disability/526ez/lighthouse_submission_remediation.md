@@ -21,7 +21,7 @@ The following scripts can be used to manually initiate the polling job, and repo
 
 NOTE ABOUT THE 48+ HOUR LIMIT: according to the behavior observed during staging testing, the 48+ hour limit is not triggered _exactly_ 48+ hours after the job is initiated. Rather, the limit is checked at the _next retry attempt_ of the exponential backoff. This effectively means that the job will not be updated until **50 hours after the submission**.
 
-Once we have a list of submissions via the `find_pdf_failures` script, these can be used by existing remediation scripts employed by DBEX-CARBS and/or used as reference when contacting Lighthouse about the failures. Additionally, there is a story ([#85624](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/85624)) in the works (as of 2004-07-10) to further automate the PollForm526Pdf job into the ancillary document upload flow of the primary submission path.
+Once we have a list of submissions via the `find_pdf_failures` script, these can be used by existing remediation scripts employed by DBEX-CARBS and/or used as reference when contacting Lighthouse about the failures. Additionally, there is a story ([#85624](https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/85624)) in the works (as of 2024-07-10) to further automate the PollForm526Pdf job into the ancillary document upload flow of the primary submission path.
 
 ## Manual Remediation Steps (IN PROGRESS)
 
