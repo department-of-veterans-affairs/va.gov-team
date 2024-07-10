@@ -89,11 +89,15 @@ We request that Perigean:
 Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
 
 How would you prefer to receive a link to the prototype during the session? By email, text or through Zoom?
+
+We’ll have an accessibility specialist on the call with us. Are there any other accommodations that would be helpful during your session?
+
+We look forward to meeting with you soon.
 ```
 
 ### Recruitment criteria
 
-We will recruit 14 Veterans for a total of 8-10 completed sessions.
+We will recruit XXX Veterans for a total of 8-10 completed sessions.
 
 For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/456).
 
