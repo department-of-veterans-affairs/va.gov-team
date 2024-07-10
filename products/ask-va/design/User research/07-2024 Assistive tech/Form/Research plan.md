@@ -177,7 +177,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |Date|Milestone|
 |:--|:--|
 |July 22, 2024|Conversation guide ready|
-|July 22, 2024|Prototype ready in staging|
+|July 22, 2024|Prototype ready for piloting|
 |July 23, 2024|Research Review|
 |August 1, 2024|Pilot sessions with CAIA|
 |August 7 - 14, 2024|Research sessions|
