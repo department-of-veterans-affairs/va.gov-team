@@ -20,6 +20,33 @@ Please add any potential future topics you would like covered below:
 ### - NGrok
 - @dsasser
 
+### 7/10/24 - Find a Form
+[Video recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/videos/forms-overview.mp4) - MP4 you'll need to download
+
+Soup to nuts, how Find a Form works, including: 
+* Nature of upstream data housed in Forms DB 
+  * Ownership of Forms DB
+  * Ownership of the business processes within each administration to create / manage forms and PDFs
+  * Forms contacts
+  * [VA Forms Contacts docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
+* Migration of Forms data to Drupal ([Migration docs](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-forms.md))  
+* How we manage VA Form nodes in Drupal
+  * Flagging mechanisms
+  * Metadata changes we watch for and why
+  * Publishing VA Form nodes: CAIA's job and how that works
+  * [VA Forms admin queues/views](https://prod.cms.va.gov/admin/content/va-forms)
+* Lighthouse Forms API & how we use it / how they use the CMS
+  * [Lighthouse contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#lighthouse-api-team)
+  * [LH / Forms data flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md#end-to-end-flow-to-lh-forms-api)
+* Form download flow: from form Search page vs. from Forms detail page ([Mural artifact of technical flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1660150431569/27c80eaeeaedfd88c80322ae177b68c503345ba9?sender=u0b235d03cbd64f7f93673243))
+* Troubleshooting
+  * Typical problems
+  * Interaction with Forms managers for data fixes
+  * [Troubleshooting docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md)
+* Monitoring
+  * [Public Websites datadog dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard)
+  * [Forms APM monitors in Datadog](https://vagov.ddog-gov.com/apm/services/find-a-form/operations/rack.request/resources)
+
 ### 6/17/24 - Flippers & Feature Toggles
   - Jill Adams
   - Describes the very high level use case / context for both Drupal feature toggles, and Flippers used in the VA.gov Frontend (driven by vets-api & vets-website)
