@@ -132,45 +132,47 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 1. Design intent: Complete 5/14
 2. Accessibility consult: Complete 6/11
-3. Conversation guide and additional research materials: Ready for review 6/18
-4. Mid-fi prototype: Ready for review 6/18
-5. Development on MVP: TBD
-6. Research submitted and added to repo board: Estimated June 27
-7. Estimated research approval: Estimated July 5
-8. Kickoff Call with Perigean: TBD
-9. Estimated midpoint: TBD
-10. Recruitment: TBD
-11. Pilot session: TBD
-12. Usability testing: TBD
+3. Conversation guide and additional research materials: Reviewed by Design Lead 6/18
+4. Mid-fi prototype: Complete 6/18
+5. Development on MVP: In progress as of July 2024
+6. Research submitted and added to repo board: Estimated to submit post-Midpoint (week of July 22)
+7. Estimated research approval: Estimated July 26
+8. Kickoff Call with Perigean: Estimated July 22/25
+9. Estimated midpoint: July 22 - Scheduled
+10. Recruitment: July 24-31
+11. Pilot session: Estimated July 26
+12. Usability testing: August 1-8 (weekdays)
 
-A [calendar of the proposed timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715094488820/4bf4fbc61074803b5a44b79973852b1c68106d44?sender=u82254af9423cfa236f383306) can be found in Mural
+A [calendar of the proposed timeline](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1715094488820/4bf4fbc61074803b5a44b79973852b1c68106d44?sender=u82254af9423cfa236f383306) can be also found in Mural
 
 
-### Prepare - Not Yet Finalized
+### Prepare - TBD
 When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
 
 A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
+* Pilot participant email: TBD (we have a backup, someone I've used before, but if we're able to have Perigean help with a pilot, that would work, too)
+* Date and time of pilot session: Estimated July 26
 
-### Research sessions - Not Yet Finalized
-* Planned dates of research: Currently we're estimating that our research will take place the week of June 17th.   
+### Research sessions - Estimated
+* Planned dates of research: Currently we're estimating that our research will take place the first and second week of August.   
 * Proposed dates:
-	- 7/22, 7/23, 7/24, 7/25, 7/26
-	- We can add on dates the following week to assist with available times
+	- 7/30, 8/1, 8/2, 8/5, 8/6, 8/7, 8/8, 8/9
 
 ### Length of sessions
 * Session length: 1 hour
 * Buffer time between sessions: 30 minutes   
 * Maximum Sessions per day: 3   
 
-### Availability - Not Yet Finalized
+### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.*  
-* July 22: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
-* July 23: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
-* July 24: Starting time - 8 a.m. EST, ending time 7 p.m. EST   
-* July 25: Blocked off for holiday
-* July 26: Starting time - 8 a.m. EST, ending time 7 p.m. EST
+* July 30: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 1: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 2: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 5: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 6: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 7: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 8: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
+* August 9: Starting time - 8 a.m. EST, ending time 6 p.m. EST   
 
 If additional times are required for participants, we have some flexibility to extend. 
 
@@ -183,10 +185,10 @@ Please request enough dates and at ***least double the amount of time slots for 
 - Project point of contact:	Liza McRuer
 - Participant(s) for pilot test: TBD
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	Not this study, but we will conduct a secondary study
-- Note-takers:	Team signup Sheet (Link TBD)
-- Observers:	Sign-up via Slack Canvas (Link TBD)
+- Note-takers and Observers: [Canvas in Public Channel](https://dsva.slack.com/docs/T03FECE8V/F073KRQ3FV5)
 
 ------
 Update Log: 
-Liza McRuer, 6/18/2024, added research materials, updated timeframe
+* Liza McRuer, 7/10/2024, updated dates   
+* Liza McRuer, 6/18/2024, added research materials, updated timeframe
 * Liza McRuer, 6/10/2024, adjusted goals and added in secondary research of testing a profile completion flow
