@@ -28,9 +28,7 @@ At the highest level, the core disability experience team is here to own, from t
 | Anneliese LaTempa | Delivery Manager | anneliese.latempa@agile6.com | alatempa24 | 1 |
 | Christine Cereca | Engineer | christine@cityfriends.tech | christinec-fftc | 1 |
 | Mark Chae | Engineer | markchae@navapbc.com | mchae-nava | 1 |
-| Kate Allbee | UX Designer and Research | kate@verdance.co | kate-allbee | 1 |
 | Evelyn Davis | UX Research | evelyn@cityfriends.tech | evelynhilbrichdavis | 1 |
-| MJ Wojcik | Engineer | mjwojcik@navapbc.com | michael-wojcik | 1 |
 | Sarah Shields | Delivery Manager | sarah.shields@coforma.io | sortizsh | 2 |
 | Scott Regenthal | Engineer | scott.regenthal@oddball.io | freeheeling | 2 |
 | Sam Stuckey | Engineer | sam.stuckey@oddball.io | SamStuckey | 2 |
@@ -38,7 +36,6 @@ At the highest level, the core disability experience team is here to own, from t
 | Thomas Blackwell | Engineer | thomas.blackwell@coforma.io | tblackwe | 2 |
 | Julie Pedtke | Research and Design | julie.pedtke@coforma.io | juliepedtke | 2 |
 | Nichole Nicholas | Research and Design | nichole.nicholas@coforma.io | nnicholas7 | 2 |
-| Dewayne VanHoozer | Engineer | dewayne.vanhoozer@oddball.io | SloopKoning | 2 |
 | Lisa Capaccioli| Product Manager | lisa.capaccioli@coforma.io | lisacapaccioli | 2 |
 
 
