@@ -120,7 +120,7 @@ Github ticket: _[Epic [Github]](https://github.com/department-of-veterans-affair
 
 | **Names** |  **Notes**  |
 |----------| -------------|
-| [Session record](https://dvagov.sharepoint.com/:v:/s/ReadyforDecisionInventoryCommunicationsIPT/EX8CnKfM7_FNk5itAql7Y7UB6WYHqME5SzmFkQO8kpIETw) |  Recording of the workshop|
+| [Session record](https://dvagov.sharepoint.com/:v:/s/vaabdvro/ER0bmb6lssdGr6ZMhNimzB4BhVd8stfibdDYHFVztgHxEA?e=2yUbsR) |  Recording of the workshop|
 | [Note-taking board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718906654073/9f6298e5f0b2a25a06a714c05b129918e2cbc92f?sender=u606d6bea4af40ec4fe659363) |  Mural board used for notes during the recording|
 | [Pension team research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/24c2588860e8f32b2415addf0a81be8a2687f09e/products/pension/research/2024%2002%20Pension%20Usability%20Evaluation) |  Team folder containing research docs |
 | [Pension 527EZ Online form: Logic Flow Diagram (MVP)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703103128492/30dc0956f99482beffb457eb2ae884430cc2d3f4?sender=1e4fc969-f9b0-43ca-b561-893204936b9d) | Flow diagram for the pension online form   |
