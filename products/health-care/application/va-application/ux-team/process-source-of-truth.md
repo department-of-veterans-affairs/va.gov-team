@@ -39,7 +39,7 @@ Tasks:
 4. Add any new pages (if needed) to the Figma source of truth pages.
 5. Update the Mural product user flow (if applies).
 6. Update the Mural error audit board (if applies).
-7. Update the github content source of truth file.
+7. Update the github content source of truth file (For EZ and EZR).
 
 Acceptence criteria:
 - All source of truth documents listed are updated with the recently launched changes. 
@@ -99,10 +99,10 @@ Note:  Figma file pages are separated by sections within the form.
   - Review
   - Confirmation page
 
-- **[Mural User Flows]()**
+- **[Mural User Flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687288632872/0728ba8a597b439671741c573fbba777ad0dac16?sender=uadf1ed7fe7c76f0914967329)**
 - [Mural Error Audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683656893560/fccf821394d1cf693ad1c036e912e11a18ff88bd?sender=uadf1ed7fe7c76f0914967329)
 
 **Github**
-- [Github content doc]()
+- [Github content doc]- Never existed as of July 2024
 - [Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)
 
