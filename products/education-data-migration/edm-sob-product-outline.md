@@ -144,9 +144,9 @@ Statement of Benefits is under maintence until July 9, 2024 at a minimum so we d
 <details>
  
  - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - PM: Cassidy Beach (Cassidy.Beach@VA.gov)
+ - Engineering: Vanson Samuel (Vanson.Samuel@VA.gov)
+ - Research/Design: Sneha Kulkarni (Sneha.Kulkarni@VA.gov) 
  
 </details>
 
@@ -156,6 +156,7 @@ Statement of Benefits is under maintence until July 9, 2024 at a minimum so we d
 <details>
  
 _What offices/departments are critical to make this initiative successful?_
+Office of Information and Technology 
  
 </details>
 
