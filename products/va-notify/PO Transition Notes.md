@@ -10,7 +10,6 @@ Please excuse any typos.  Trying to clean this up on my last day was NOT the bes
 - [Goals - 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/Goals%20and%20Roadmap.md)
 - [Business Intake board](https://app.zenhub.com/workspaces/vanotify-business-intake-board-606cc5c49392c900162c3971/board)
 - [Domo Dashboard](https://va-gov.domo.com/page/2040841289)
-- [On-call support](https://docs.google.com/spreadsheets/d/1xWzSqRzYpQmQzQGeTud2HCOICHK_EiQc0lGvnHznsZI/edit?usp=sharing)
 - [Find a Privacy Officer](https://dvagov.sharepoint.com/sites/OITPrivacyHub/SitePages/Privacy-Officer-Locator-Resources.aspx)
 - [Notification Preference Metrics](https://app.powerbigov.us/groups/me/apps/15c73e0e-e434-43b7-8efa-3b46dcd859a2/reports/c857d952-e8af-457a-82bc-95b62340e8cf/ReportSection) Hosted by VA Profile, so you may need to request access.
   
