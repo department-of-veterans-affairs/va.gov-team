@@ -32,59 +32,64 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 ## Research goals
 
-The key goals of this study are to:
+The key goal of this study is to:
 
-* TBD
-* TBD
+* Identify any barriers that could prevent Veterans who use screen readers and magnification from asking a question through Ask VA
 
 ### Outcome
 
-TBD
+This research will help us document and prioritize any bugs or usability issues before we launch on VA.gov.
 
 ### Research questions
 
-TBD
-* TBD
-* TBD
-* TBD
-
-TBD
-* TBD
-* TBD
-* TBD
+* Is there information missing in any header, label or link?
+* Can Veterans interact with all elements using only their keyboards?
+* Are Veterans still oriented and able to use the form when magnified?
+* Is it clear that information is pre-filled? Is it clear how to update pre-filled information?
+* Can Veterans understand their progress through the form without visual cues?
+* Are there any inconsistencies during the journey that present confusion?
+* Do Veterans who use screen readers or magnification feel they can ask a question without the support of another person?
+* Does Ask VA need to change or evolve to offer an equitable experience? If so, how?
 
 ### Hypotheses
 
-1. TBD
-2. TBD
-3. TBD
+1. Veterans will find headers, labels and links are descriptive and clear.
+2. Veterans will be able to interact with all elements using only their keyboards.
+3. Veterans will be oriented and still able to use the form when magnified.
+4. Veterans using a screen reader or magnification will understand that information has been pre-filled from 'their' account and know how to update it.
+5. Veterans will understand their progress in the form with or without visual cues.
+6. Sign in will be a barrier for some Veterans using a screen reader or magnification.
 
 ## Methodology
 
-This will be a moderated usability study conducted remotely over Zoom. We will test in Staging using test user accounts.
+We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts.
 
-We will test the following steps:
-* Unauthenticated start page
-* Sign in
-* Dashboard: Ask a new question
-* Form
-* Confirmation page
+After each user, we will reset test user account passwords following [this guidance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960).
 
 ### Research materials
 
 * [Conversation guide](add link)
 * [Staging link](add link)
-* [Test user accounts: Sensitive repo](add link)
+* [How to reset test user account passwords](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960)
 	
 ## Recruitment	
-
-UPDATE
 
 ### Recruitment approach
 
 We will work with Perigean to recruit Veterans for this research.
 
-**We request that Perigean shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants.**
+We request that Perigean:
+- shares a link or screenshot of the recruitment survey for this study, so we can review it before it goes out to participants
+- emails each participant after they've been recruited
+- calls each participant to remind them about the session, one day in advance.
+
+#### Email after recruitment, prior to the session
+
+```
+Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
+
+How would you prefer to receive a link to the prototype during the session? By email, text or through Zoom?
+```
 
 ### Recruitment criteria
 
