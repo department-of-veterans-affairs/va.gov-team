@@ -64,8 +64,9 @@ So that we can observe what is going on
 
 ## Data Retention
 
-- Data should be retained for at least 30 days, ideally 90 days
-    - Long enough to debug and investigate bug reports 
+- Data should be retained for at long as it takes to ensure the upstream custody of information is established
+    - Long enough to debug and investigate bug reports
+    - Long enough to survive any busniess logic rules (such as a claim life cycle)
 - No PHI or PII should be logged
     - If(when) PHI/PII is logged, we should be able to have a process to sanitize or scrub the offending data
 
