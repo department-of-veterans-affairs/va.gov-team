@@ -1,7 +1,8 @@
 > [!CAUTION]
 > This is a work in progress.
 
-# [Design Review] a11y findings - IIR Team: Veteran New Account Flow within Authenticated Experience, Welcome Pathway 
+# [Design Review] a11y findings - IIR Team
+- **Product Name:** Veteran New Account Flow within Authenticated Experience, Welcome Pathway 
 - **Prototypes:**
     - Prototypes include pretend auth and annotations by the IIR team.
     - [Mobile Prototype](https://www.figma.com/proto/CertVj7cu66kFv9TnseR30/Veteran-Onboarding?page-id=300%3A11104&node-id=300-11287&viewport=431%2C371%2C0.33&t=4reO0ZP2vtzpXG6v-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=300%3A11287&show-proto-sidebar=1)
@@ -9,7 +10,8 @@
 - **Team Slack Channel:** [iir-product-teams-public](https://dsva.slack.com/archives/C05RJS5DANT) 
 - **CAIA Intake Ticket:** [#83402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83402)
 - **CAIA a11y Design Review Ticket:** `PENDING CREATION`
-- **Date of Audit:** `PENDING START`
+- **Date of Review:** `PENDING START`
+- **Status of Review:** `PENDING START`
 
 ## CAIA A11Y Auditor(s)
 - `TBD`- Mobile
