@@ -42,7 +42,7 @@ This research will help us document and prioritize any bugs or usability issues 
 
 ### Research questions
 
-* Is there information missing in any header, label or link?
+* Are any headers, labels or links lacking description or clarity?
 * Can Veterans interact with all elements using only their keyboards?
 * Are Veterans still oriented and able to use the form when magnified?
 * Is it clear that information is pre-filled? Is it clear how to update pre-filled information?
@@ -97,21 +97,39 @@ We look forward to meeting with you soon.
 
 ### Recruitment criteria
 
-We will recruit XXX Veterans for a total of 8-10 completed sessions.
+We will recruit 12 Veterans for a **minimum** of 4 sessions with screen reader users and 2 sessions with screen magnification users.
 
-For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/456).
+For more details about our criteria, refer to our [Recruitment ticket](add link).
 
-|# of participants|Criteria|
-|:--|:--|
-|Exactly 14|Are Veterans|
-|Exactly 14|Have contacted VA online or over the phone in the past year|
-|At least 7|Have a cognitive disability or consideration|
-|At least 7|Have signed into VA.gov in the past year|
-|Exactly 7|Are willing to join from a mobile device|
-|Exactly 7|Are willing to join from a desktop device|
-|At least 5|Are over 55 years old|
-|At least 5|Identify as Black, Hispanic or Native|
-|At least 2|Identify as a gender other than male|
+#### Cohort 1: Screen reader users
+
+We will recruit 8 Veterans who use screen readers to complete a **minimum** of 4 sessions.
+
+We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u).
+
+|# of participants|Criteria|Level|
+|:--|:--|:--|
+|Exactly 8|Are Veterans|Primary|
+|Exactly 8|Are willing to join from a desktop or mobile device using a screen reader|Primary|
+|Exactly 4|Are beginner screen reader users|Primary|
+|Exactly 4|Are experience screen reader users|Primary|
+|At least 5|Are over 55 years old|Secondary|
+|At least 5|Identify as Black, Asian, Hispanic or Native|Secondary|
+|At least 2|Identify as a gender other than male|Secondary|
+
+#### Cohort 1: Screen magnification users
+
+We will recruit 4 Veterans who use screen readers to complete a **minimum** of 2 sessions.
+
+We'd like to recruit people who use a mix of different screen magnification software, such as, [ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u).
+
+|# of participants|Criteria|Level|
+|:--|:--|:--|
+|Exactly 4|Are Veterans|Primary|
+|Exactly 4|Are willing to join from a desktop or mobile device using screen magnification software|Primary|
+|At least 2|Are over 55 years old|Secondary|
+|At least 2|Identify as Black, Asian, Hispanic or Native|Secondary|
+|At least 1|Identify as a gender other than male|Secondary|
 
 ### Screener questions
 
