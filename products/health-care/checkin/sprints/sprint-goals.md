@@ -56,6 +56,7 @@
        - ❗🟦 [[BE] Monitor dashboard for more than one claim_status from BTSSS API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/85391)
 - **GOAL: Increase PCI Usability**
     - **Sub Goal: New Landing Page with Today's VISTA Appointments**
+        - ❗ **DETERMINE HOW WE CAN USE THE REVIEW ENVIRONMENT TO DO A STAGING REVIEW**
         - 🟩 [[FE] - Add e2e test for completing check-in then going back to appointments ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87721)
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
