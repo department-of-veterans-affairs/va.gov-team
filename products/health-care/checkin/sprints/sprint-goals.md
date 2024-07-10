@@ -60,10 +60,11 @@
         - 🟥 [Update Product Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61434)
         - 🟥 [Update Design Artifacts for Release ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61433)
     - **Sub Goal: Upcoming VAOS Appointments** 
+        - ❗ 🟥 [Create final designs for error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87938)
+            -** THIS SHOULD BE DONE FIRST**
         - 🟥 [[UX] Create Final Wireframes for incorporating Upcoming VAOS Appointments into Pre-Check-in & eCheck-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87871)
         - 🟦 [[BE] Implement Service class for Facilities API ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/71789)
         - 🟦 [[BE] Implement Controller ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68698)
-        - 🟥 [Create final designs for error pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87938)
         - 🟩 [Check-in: Implement New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87416)
         - 🟩 [Pre-Check-in: Update New Landing Page Errors ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87422)
         - 🟩 [[FE] Remove unactionable statuses from appointment list ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87394)
