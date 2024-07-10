@@ -97,38 +97,38 @@ We look forward to meeting with you soon.
 
 ### Recruitment criteria
 
-We will recruit 12 Veterans for a **minimum** of 4 sessions with screen reader users and 2 sessions with screen magnification users.
+We will recruit 16 Veterans for a **minimum** of 5 sessions with screen reader users and 3 sessions with screen magnification users.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
 #### Cohort 1: Screen reader users
 
-We will recruit 8 Veterans who use screen readers to complete a **minimum** of 4 sessions.
+We will recruit 10 Veterans who use screen readers to complete a **minimum** of 5 sessions.
 
 We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u).
 
 |# of participants|Criteria|Level|
 |:--|:--|:--|
-|Exactly 8|Are Veterans|Primary|
-|Exactly 8|Are willing to join from a desktop or mobile device using a screen reader|Primary|
-|Exactly 4|Are beginner screen reader users|Primary|
-|Exactly 4|Are experience screen reader users|Primary|
+|Exactly 10|Are Veterans|Primary|
+|Exactly 10|Are willing to join from a desktop or mobile device using a screen reader|Primary|
+|Exactly 5|Are beginner screen reader users|Primary|
+|Exactly 5|Are experience screen reader users|Primary|
 |At least 5|Are over 55 years old|Secondary|
 |At least 5|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
 
 #### Cohort 1: Screen magnification users
 
-We will recruit 4 Veterans who use screen readers to complete a **minimum** of 2 sessions.
+We will recruit 6 Veterans who use screen magnification to complete a **minimum** of 3 sessions.
 
 We'd like to recruit people who use a mix of different screen magnification software, such as, [ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u).
 
 |# of participants|Criteria|Level|
 |:--|:--|:--|
-|Exactly 4|Are Veterans|Primary|
-|Exactly 4|Are willing to join from a desktop or mobile device using screen magnification software|Primary|
-|At least 2|Are over 55 years old|Secondary|
-|At least 2|Identify as Black, Asian, Hispanic or Native|Secondary|
+|Exactly 6|Are Veterans|Primary|
+|Exactly 6|Are willing to join from a desktop or mobile device using screen magnification software|Primary|
+|At least 3|Are over 55 years old|Secondary|
+|At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 1|Identify as a gender other than male|Secondary|
 
 ### Screener questions
