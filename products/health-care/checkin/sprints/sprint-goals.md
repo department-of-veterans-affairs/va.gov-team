@@ -26,8 +26,10 @@
         - Test E2E with VeText
         - Talk to Kristen about releasing?
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
+        - 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
         - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
         - 🟥 [Create Final Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
+        - Schedule Design Intent (are we piggy-backing off Travel Team's Collab Cycle ticket?)
         - 🟥 [[UX] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88050)
         - 🟩🟦 [[BE][FE] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88049)
         - 🟪 [[PRODUCT] Appointments Online Scheduling Onboarding ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88051)
