@@ -40,7 +40,6 @@ In Sprint 13, the team provided support for multiple features and initiatives, o
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
 * 🟠 GOAL: Build vetsapi-patient-gateway to extend VAOS with Oracle Health write-back capabilities
-  * [#87492 CES-372 CES: Reenable and support rule for Vista Appointment Type validation](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87492)
   * [#87491 CES-627 CES: Replace SAS vista appointment types with VFA vista appointment types](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87491)
   * [#87314 CES-621: VPG: Update dependency deployment artifacts to latest available versions](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87314)
   * [#87332 CES-485: VPG: migrate scheduling config calls from MFS to clinic-scheduling-config-service](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87332)
