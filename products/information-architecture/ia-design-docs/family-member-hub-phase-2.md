@@ -24,27 +24,27 @@
 
 
 **1) [Mental Health] - [New]**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/mental-health
+- URL: va.gov/family-and-caregiver-benefits/health-and-disability/mental-healthTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
 **2) [Dental Insurance] - [New]**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/dental-insurance
+- URL: va.gov/family-and-caregiver-benefits/health-and-disability/dental-insuranceTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
 **3) [Camp Lejeune] - [New]**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/camp-lejeune
+- URL: va.gov/family-and-caregiver-benefits/health-and-disability/camp-lejeuneTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
 **4) [Spina bifida] - [New]**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orange
+- URL: va.gov/family-and-caregiver-benefits/health-and-disability/spina-bifida-agent-orangeTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
 **5) [Children of women vietnam veterans] - [New]**
-- URL: va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veterans
+- URL: va.gov/family-and-caregiver-benefits/health-and-disability/children-of-women-vietnam-veteransTBD
 - Breadcrumb: VA.gov home > Family and caregiver benefits > Health and disability benefits for family and caregivers > [H1]
 - Notes: URL is TBD finalizing H1
 
@@ -133,19 +133,41 @@ _Not required. Links on other pages that point to this tool/thing/form._
   - Placement description: This page will need a crosslink to the 2 new family member birth defects pages (spina bifida and children of women vietnam vets)
   - Link label: TBD by content
   - Link destinations: 2 new family member birth defects pages (spina bifida and children of women vietnam vets) (URLs tbd)
-  - Notes: 
+  - Notes:
+
+5. **[[veteran health hub left nav](https://www.va.gov/health-care/family-caregiver-benefits/)]** - [Modify]
+  - Placement description: Update the node in the left nav to go to the new family health hub page. Remove the link to champva from the veteran health hub.
+  - Link label: TBD by content
+  - Link destination: https://www.va.gov/family-and-caregiver-benefits/health-and-disability/
+  - Notes:
+
+![Screenshot 2024-07-11 at 9 41 18 AM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/97e649c7-53a7-4733-9618-571373fe2659)
+
  
 
 ## <a name="redirects"></a>Redirects <br>
 
-Current URL | Redirect to | Notes
---- | --- | ---
- |  | 
+| Current URL                                                                          | Redirect to                                                             | Status                             |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp   | R+S: File a champva claim (URL TBD)                                     | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina-claim.asp | R+S: File a spina bifida claim (URL TBD)                                | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/meds-by-mail.asp   | R+S: Meds by mail (URL TBD)                                             | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/CHAMPVA-faq.asp     | R+S: Getting care through champva (URL TBD)                             | Waiting for content to finalize H1 |
+| https://www.va.gov/disability/eligibility/special-claims/birth-defects/          | Spina Bifida page (URL TBD)                                             | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/CLFMP.asp                   | Camp Lejeune page (URL TBD)                                             | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/cwvv/index.asp              | Children of women vietnam veterans page (URL TBD)                       | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/index.asp       | Spina Bifida page (URL TBD)                                             | Waiting for content to finalize H1 |
+| https://www.va.gov/COMMUNITYCARE/programs/dependents/pharmacy/index.asp          | R+S: Meds by mail (URL TBD)                                             | Waiting for content to finalize H1 |
+| https://www.va.gov/health-care/family-caregiver-benefits/                        | https://www.va.gov/family-and-caregiver-benefits/health-and-disability/ | Waiting for content to finalize H1 |
  
 
 ## <a name="bestbets"></a>Best Bets<br>
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. These suggestions are selected for specific terms and are intended to help veterans and their beneficiaries find relevant results quickly. We want to make sure that best bets are not linking to the deprecated page.*
 
+**1) R+S: Tricare - New**
+- add the new best bet with the new URL after publishing
+
+**2) R+S: File a champva claim  - New**
+- add the new best bet with the new URL after publishing
 
 
 
