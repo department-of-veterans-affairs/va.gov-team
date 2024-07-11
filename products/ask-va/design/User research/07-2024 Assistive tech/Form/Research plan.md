@@ -70,7 +70,7 @@ After each user, we will reset test user account passwords following [this guida
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Conversation%20guide.md)
-* [Staging link](add link)
+* [Staging link](https://staging.va.gov/contact-us/ask-va-too/introduction)
 * [How to reset test user account passwords](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960)
 	
 ## Recruitment	
@@ -248,19 +248,21 @@ We'd like to recruit people who use a mix of different screen magnification soft
 5. Please list the name of the screen magnification tool you will use during the session.
     - Open text box
 
-## Timeline – TO BE CONFIRMED, IGNORE
+## Timeline
 
 |Date|Milestone|
 |:--|:--|
 |July 30, 2024|Research Review|
-|July 31 - Aug 1, 2024|Pilot sessions with CAIA|
+|July 31 - Aug 1, 2024|Pilot sessions or reviews with CAIA|
 |August 13 - 20, 2024|Research sessions|
 |August 22 - 29, 2024|Synthesis|
 |August 30, 2024|Share findings|
 
 ### Pilot sessions
 
-We will have two pilot sessions with CAIA. Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
+We will have 3 pilot sessions and/or asynchronous reviews with CAIA.
+
+Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
 
 **Pilot 1: Desktop with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
@@ -276,30 +278,30 @@ We will have two pilot sessions with CAIA. Here is our [CAIA research support ti
 
 ## Research sessions
 
-- Length of sessions:
+- **Length of sessions varies:**
    - 1.5 hours: Screen reader or alternative navigation tool
-   - 1 hour: Screen magnification 
-- Buffer between sessions: 1 hour
+   - 1 hour: Screen magnification
+- Buffer between sessions: 30 minutes
 - Maximum sessions per day: 2 sessions
 
-### Availability - TO BE DETERMINED
+### Availability
 
-We will provide 24 time slots, with the aim to book 12 sessions.
+We will provide 24 time slots, with the aim to book 12 sessions. We have provided 1.5 hour sessions, but for screen magnification users, please only book 1 hour.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Tuesday, Aug 13|TBD|
-|Wednesday, Aug 14|TBD|
-|Thursday, Aug 15|TBD|
-|Friday, Aug 16|TBD|
-|Monday, Aug 19|TBD|
-|Tuesday, Aug 20|TBD|
+|Tuesday, Aug 13|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Wednesday, Aug 14|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Thursday, Aug 15|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Friday, Aug 16|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Monday, Aug 19|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
+|Tuesday, Aug 20|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 
 We will also provide one day for overflow. This should only be booked if we don't reach our targets.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Wednesday, Aug 21|TBD|
+|Wednesday, Aug 21|9-10:30am, 11-12:30pm, 1-2:30pm, 3-4:30pm|
 	
 ## Team roles
 
