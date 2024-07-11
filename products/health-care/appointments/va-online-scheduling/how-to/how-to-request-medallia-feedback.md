@@ -50,7 +50,7 @@ No
 
 ### Medallia Feedback Requests - Q3 2024
 
-[Q2 2024 Analysis Spreadsheet]()
+[Q3 2024 Analysis Spreadsheet]()
 
 | Week  | From       | To         | Submitted By | Ticket Link  | Status |
 |-------|------------|------------|--------------|--------------|--------|
