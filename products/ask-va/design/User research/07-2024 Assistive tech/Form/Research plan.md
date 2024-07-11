@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 10, 2024
+Last updated by @tygindraux: July 11, 2024
 
 **Jump ahead to:**
 - [Background](#background)
@@ -34,7 +34,7 @@ Ask VA can support Veterans, their family members, and other submitters at many 
 
 The key goal of this study is to:
 
-* Identify any barriers that could prevent Veterans who use screen readers or magnification from asking a question through Ask VA
+* Identify any barriers that could prevent Veterans who use assistive technology from asking a question through Ask VA
 
 ### Outcome
 
@@ -86,53 +86,71 @@ We request that Perigean:
 
 #### Email to send each participant after recruitment, prior to their session
 
-```
-Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
-
-How would you prefer to receive a link to the prototype during the session? By email, text or through Zoom?
-
-On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
-
-We look forward to meeting with you soon.
-```
+> Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
+>
+> How would you prefer to receive a link to the prototype during the session? By email, text or through Zoom?
+>
+> On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
+>
+> We look forward to meeting with you soon.
 
 ### Recruitment criteria
 
-We will recruit 12 Veterans for a **minimum** of 4 sessions with screen reader users and 2 sessions with screen magnification users.
+We will recruit 12 Veterans for:
+- **minimum** of 3 sessions with screen reader users
+- **minimum** of 2 sessions with alternative navigation users
+- **minimum** of 1 session with a screen magnification user.
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
 #### Cohort 1: Screen reader users
 
-We will recruit 8 Veterans who use screen readers to complete a **minimum** of 5 sessions.
+We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions.
 
-We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u).
+We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
 
 |# of participants|Criteria|Level|
 |:--|:--|:--|
-|Exactly 8|Are Veterans|Primary|
-|Exactly 8|Are willing to join from a desktop or mobile device using a screen reader|Primary|
-|Exactly 4|Are beginner screen reader users|Primary|
-|Exactly 4|Are experienced screen reader users|Primary|
-|At least 4|Are over 55 years old|Secondary|
-|At least 4|Identify as Black, Asian, Hispanic or Native|Secondary|
+|Exactly 6|Are Veterans|Primary|
+|Exactly 6|Are willing to join from a desktop or mobile device using a screen reader|Primary|
+|Exactly 3|Are beginner screen reader users|Primary|
+|Exactly 3|Are experienced screen reader users|Primary|
+|At least 3|Are over 55 years old|Secondary|
+|At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
 
-#### Cohort 1: Screen magnification users
+#### Cohort 2: Alternative navigation
 
-We will recruit 4 Veterans who use screen magnification to complete a **minimum** of 2 sessions.
+We will recruit 4 Veterans who use alternative navigation to complete a **minimum** of 2 sessions.
 
-We'd like to recruit people who use a mix of different screen magnification software, such as, [ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u).
+We'd like to recruit people who use a mix of [switch systems, Dragon, Voice Control (Apple), One-handed keyboards, a head mouse, or a sip and puff device](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Alternativenavigation).
 
 |# of participants|Criteria|Level|
 |:--|:--|:--|
 |Exactly 4|Are Veterans|Primary|
-|Exactly 4|Are willing to join from a desktop or mobile device using screen magnification software|Primary|
+|Exactly 4|Are willing to join from a desktop or mobile device using a screen reader|Primary|
 |At least 2|Are over 55 years old|Secondary|
 |At least 2|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 1|Identify as a gender other than male|Secondary|
 
+#### Cohort 3: Screen magnification users
+
+We will recruit 2 Veterans who use screen magnification to complete a **minimum** of 1 session.
+
+We'd like to recruit people who use a mix of different screen magnification software, such as, [ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenmagnification).
+
+|# of participants|Criteria|Level|
+|:--|:--|:--|
+|Exactly 2|Are Veterans|Primary|
+|Exactly 2|Are willing to join from a desktop or mobile device using screen magnification software|Primary|
+|Exactly 2|'Always' use screen magnification on VA.gov|Primary|
+|At least 1|Are over 55 years old|Secondary|
+|At least 1|Identify as Black, Asian, Hispanic or Native|Secondary|
+|At least 1|Identify as a gender other than male|Secondary|
+
 ### Screener questions
+
+#### Experience with VA
 
 1. Have you contacted the VA online or over the phone in the past year?
     - Yes
@@ -146,20 +164,60 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 #### Screen readers
 
-1. Do you need to use screen reader technology to use the internet, such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
+1. Do you need to use a screen reader everytime you access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
     - Yes
     - No
-    - I prefer not to answer
-2. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+2. If you answered yes, which screen reader do you use? Please select all that apply.
+    - JAWS
+    - NVDA
+    - VoiceOver (iOS/macOS)
+    - TalkBack (Android)
+    - Narrator (Windows)
+    - Other (Please specify): ________________
+    - This question doesn't apply to me
+3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader.
     - Beginner
     - Intermediate
     - Advanced
-    - Does not apply
-3. Are you able and willing to join the Zoom session from your mobile or desktop device using this assistive technology?
+    - This question doesn't apply to me
+4. How frequently do you use a screen reader?
+    - Daily
+    - Several times a week
+    - Occasionally
+    - Rarely
+    - Never
+5. Can you join the Zoom session from your mobile or desktop device using your screen reader?
     - Yes
     - No
-    - Does not apply
-4. Please list the name of the screen reader technology you will use during the session.
+    - This question doesn't apply to me
+6. Please list the name of the screen reader you will use during the session.
+    - Open text box
+
+#### Alternative navigation
+
+1. Do you need to use alternative navigation tools everytime you access websites or applications? For example, switch systems, Dragon, Voice Control or a sip and puff device.
+    - Yes
+    - No 
+2. If you answered yes, which alternative navigation tool do you use? Please select all that apply.
+    - Switch systems
+    - Dragon
+    - Voice Control (iOS/macOS)
+    - One-handed keyboard
+    - Head mouse
+    - Sip and puff device
+    - Other (Please specify): ________________
+    - This question doesn't apply to me
+3. How frequently do you use an alternative navigation tool?
+    - Daily
+    - Several times a week
+    - Occasionally
+    - Rarely
+    - Never
+4. Can you join the Zoom session from your mobile or desktop device using your alternative navigation tool?
+    - Yes
+    - No
+    - This question doesn't apply to me
+5. Please list the name of the alternative navigation tool you will use during the session.
     - Open text box
 
 #### Screen magnification
@@ -167,37 +225,58 @@ We'd like to recruit people who use a mix of different screen magnification soft
 1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile or desktop device?
     - Yes
     - No
-    - I prefer not to answer
-2. Are you able and willing to join the Zoom session from your mobile or desktop device using the tools you need to see your screen?
-    - Yes
-    - No
-    - Does not apply
+2. If you answered yes, which screen magnification tool do you use? Please select all that apply.
+   - ZoomText
+   - ZoomText Fusion
+   - Windows Magnifier
+   - macOS Zoom
+   - iOS/iPadOS Zoom
+   - Android Magnification
+   - Other (Please specify): ________________
+   - This question doesn't apply to me
+3. If you answered yes, how frequently do you use screen magnification on VA.gov?
+   - Always
+   - Often
+   - Sometimes
+   - Rarely
+4. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
+   - Yes
+   - No
+   - This question doesn't apply to me
+5. Please list the name of the screen magnification tool you will use during the session.
+    - Open text box
 
-## Timeline – TO BE CONFIRMED
+## Timeline – TO BE CONFIRMED, IGNORE
 
 |Date|Milestone|
 |:--|:--|
-|July 23, 2024|Research Review|
-|August 1, 2024|Pilot sessions with CAIA|
-|August 7 - 16, 2024|Research sessions|
-|August 19 - 23, 2024|Synthesis|
-|August 26, 2024|Share findings|
+|July 30, 2024|Research Review|
+|July 31 - Aug 1, 2024|Pilot sessions with CAIA|
+|August 13 - 20, 2024|Research sessions|
+|August 22 - 29, 2024|Synthesis|
+|August 30, 2024|Share findings|
 
 ### Pilot sessions
 
 We will have two pilot sessions with CAIA. Here is our [CAIA research support ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87480).
 
-**Pilot 1: Desktop**
+**Pilot 1: Desktop with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD on August 1, 2024
+- Date and time of pilot session: TBD around August 1, 2024
 
-**Pilot 2: Mobile**
+**Pilot 2: Mobile with screen reader**
 - Pilot participant: TBD (Tyler will add to pilot sessions herself)
-- Date and time of pilot session: TBD on August 1, 2024
+- Date and time of pilot session: TBD around August 1, 2024
+
+**Pilot 3: Desktop with alternative navigation**
+- Pilot participant: TBD (Tyler will add to pilot sessions herself)
+- Date and time of pilot session: TBD around August 1, 2024
 
 ## Research sessions
 
-- Length of sessions: 1.5 hours
+- Length of sessions:
+   - 1.5 hours: Screen reader or alternative navigation tool
+   - 1 hour: Screen magnification 
 - Buffer between sessions: 1 hour
 - Maximum sessions per day: 2 sessions
 
@@ -207,19 +286,18 @@ We will provide 24 time slots, with the aim to book 12 sessions.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Wednesday, Aug 7|TBD|
-|Thursday, Aug 8|TBD|
-|Friday, Aug 9|TBD|
-|Monday, Aug 12|TBD|
 |Tuesday, Aug 13|TBD|
 |Wednesday, Aug 14|TBD|
+|Thursday, Aug 15|TBD|
+|Friday, Aug 16|TBD|
+|Monday, Aug 19|TBD|
+|Tuesday, Aug 20|TBD|
 
-We will also provide overflow time slots on August 15 and 16. These should only be booked if we don't reach our targets.
+We will also provide one day for overflow. This should only be booked if we don't reach our targets.
 
 |Date|Timeslots (EST)|
 |:--|:--|
-|Thursday, Aug 15|TBD|
-|Friday, Aug 16|TBD|
+|Wednesday, Aug 21|TBD|
 	
 ## Team roles
 
