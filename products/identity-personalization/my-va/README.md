@@ -23,8 +23,8 @@
 - [Analytics](#analytics)
 - [Platform Documentation](#Platform-Documentation)
 - [Design](#Design)
-- [Frontend](#Front-End)
-- [Backend](#Back-End)
+- [Frontend](#FrontEnd)
+- [Backend](#BackEnd)
 - [Security](#Security)
 - [How to Access and Test](#How-to-Access-and-Test)
 
@@ -218,7 +218,7 @@ _Why would your business want this to exist?_
  
  </details>
 
-## Front End
+## Frontend
 - [General: Frontend - Getting started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend-getting-started.md)
 - Latest FE documentation:
    - [White card use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/my-va-small-initiatives/my-va-white-card-component/white-card-component-FE-documentation.md)
@@ -230,7 +230,7 @@ _Why would your business want this to exist?_
    - [Education & Training](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/education-and-training-FE-documentation.md)
    - [Benefit Application Drafts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/applications-FE-documentation.md#my-va-benefit-application-drafts-frontend-documentation) 
 
-## Back End
+## Backend
 
 - [My VA Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/my-va/backend_documentation.md#my-va-backend-documentation)
 - [Platform Documentation on backend systems](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations)
