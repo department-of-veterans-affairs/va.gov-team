@@ -14,7 +14,6 @@ The Vet Centers 2.0 Initiative aims to enhance the digital presence and function
 ## Epic-Level Requirements
 | Name | User Story | Epic Link|
 |------|------------|----------|
-| Distinct Design         | As a visitor to a Vet Center page, I would like the page to have a distinct look so that I do not mistake it for a health center page    | [17893](https://app.zenhub.com/workspaces/sitewide-facilities-639f5253e4b702a32376339e/issues/gh/department-of-veterans-affairs/va.gov-cms/17893)|
-| Satellite Location Pages |  |  |
-| Link Visibility | | |
-| Reusable Q&A | | |
+| Distinct Design         | As a visitor to a Vet Center page, I would like the page to have a distinct look so that I do not mistake it for a health center page    | [17893](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17893)|
+| Vet Center Outstation Pages | As a veteran I want to see detailed location information about an outstation so that I can decide if it offers relevant services |[17693](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17693)|
+| Intake Form Link | As a visitor to a vet center page I want a way to request more information or express my interest in an offering from the site so that I don't have to pick up a phone. |[17541](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17541)|
