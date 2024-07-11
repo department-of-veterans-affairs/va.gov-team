@@ -17,7 +17,37 @@
 ## 7/10/24
 * **Epics Review**
   * [Kanban Board](https://github.com/orgs/department-of-veterans-affairs/projects/823/views/13)
+  * Health & Benefits update
+     * Removed Covid-19 links 
+     * Appointments work going out this relese
+         * Call Center and App store where not updated - believe to be minimal change 
+            * Alayna to discuss with the HB team changes
+        * Rachel said moving forward Call Center and App Store needs to be updated (if applicable), if not features should not be released   
+           * Alayna recommended to work with Ameet as he will / has worked on these items for Homescreen Personalization
+           * PO discussion on how to handle this with external teams - Don mentioned it would be the centralized Mobile team which is this team right now 
+    * No other updates from PM 
 * **Discussion Topics**
+ * Lauren - Marketing Materials   
+     * Rachael - Mobile Ad Hoc not responsible for Marketing Materials (images, videos, etc)
+     * Michelle is the key contact for VA Marketing which Mobile has worked with in the past with data / reporting 
+ * Rachel - H&B meeting with Health Team Web
+     *  What is the level of engagement / collaboration & visibility into how Mobile work
+        *   Alayna - more used for subject matter expertise discussions where Mobile can ask questions and review what Mobile is proceeding to do
+         *  H&B team has given presentation on the changes Mobile would like to do and why 
+ * Ameet - How would the Mobile POs and other relevant POs want to see Holly's presentation on HSP
+     * Confirmed this is different level of detail than the write up that is already available in Githuhb
+     * Holly will be presenting next Monday at the VA Design Meeting
+        * Ryan confirmed this is the big design meeting with contractors that VA has
+     * Team agreed to demo this on 7/30 - which is when the app will be released
+        * Targeting 30 minutes instead of the whole thing so others can demo too 
+ * Rachel - PMs should prepare to engage with VA POs on new Mobile request and roadmap items in the coming weeks
+     * Rachel told PMs not to have direct messaging or Slack threads discussions
+         * Require them to create tickets with all the details 
+         * POs agreed we need to push the responsibility back on the VA POs and not take it on ourselves  
+     * Matt mentioned to Rachel that Adam was working on a form of sorts - would be great to get that done sooner vs later this week 
+        * Adam is working on an existing [Feature Request](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?assignees=timwright12%2CHallm13&labels=feature-request&projects=&template=feature-request.yml&title=Feature+Request%3A+%5Bname+of+feature%5D) form and planning to update it to have submittors fill out more information given its currently very vague and general 
+        * Adam to follow-up when changes are made by EOW 
+
 
 
 ## 6/26/24
