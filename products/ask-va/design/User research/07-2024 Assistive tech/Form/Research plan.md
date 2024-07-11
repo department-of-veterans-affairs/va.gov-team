@@ -120,7 +120,7 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
 
-#### Cohort 2: Alternative navigation
+#### Cohort 2: Alternative navigation users
 
 We will recruit 4 Veterans who use alternative navigation to complete a **minimum** of 2 sessions.
 
