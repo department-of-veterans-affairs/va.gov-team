@@ -98,9 +98,9 @@ Bugs will be identified by Product or Teammates when identified. Bugs will be la
 
 | Category | Description | Resolution Process |
 |--------------|-------------|--------------------|
-| **Severity 1** | This is a top tier. Bugs must be corrected prior to Assistive Tech Study (AT) **Example:** Unable to populate VA Health Facility Location, Incorrect Progress Bar. |Jumps backlog, potentially interrupt a developer |
-| **Severity 2** | This will impact AT, but lesser priority | Give a heads up before picking up another ticket|
-| **Severity 3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
+| **Severity&nbsp;1** | This is a top tier. Bugs must be corrected prior to Assistive Tech Study (AT) **Example:** Unable to populate VA Health Facility Location, Incorrect Progress Bar. |Jumps backlog, potentially interrupt a developer |
+| **Severity&nbsp;2** | This will impact AT, but lesser priority | Give a heads up before picking up another ticket|
+| **Severity&nbsp;3** | Not blocking AT, but will be needed to be resolved prior to release **Example:** names not allowing apostrophe or hyphen | Will be ordered in backlog accordingly
 
 
 ### Process for Bug Creation: 
