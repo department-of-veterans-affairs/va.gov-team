@@ -3,8 +3,10 @@
 # Overview
 The IVC ChampVA Forms Dashboard provides a comprehensive overview of the status and performance of form submissions within the IVC ChampVA system. This dashboard is part of our monitoring and reporting tool to ensure the reliability and efficiency of form processing. Below is a detailed explanation of each section of the dashboard and what it represents.
 
-Dashboard Sections
-Missing Pega Status
+# Dashboard Sections
+
+
+# Missing Pega Status
 
 Description: This section highlights the number of forms that are missing a status update from the third-party system, Pega.
 Key Metric: The large orange box shows the total count of forms currently missing a status update. As of the latest data, this number is 89.
