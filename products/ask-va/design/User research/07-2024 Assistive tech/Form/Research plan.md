@@ -69,7 +69,7 @@ After each user, we will reset test user account passwords following [this guida
 
 ### Research materials
 
-* [Conversation guide](add link)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Conversation%20guide.md)
 * [Staging link](add link)
 * [How to reset test user account passwords](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960)
 	
