@@ -141,7 +141,7 @@ _**Required.** Describe the desired outcome if this were functioning as expected
 _**Optional.** For QA to populate. Leave blank if QA is not applicable on this ticket._
 <!-- EXAMPLE: ... -->
 ## Additional Info & Resources
-_**Required.** Include additional information, such as screenshots, log snippets, links to applicable code files, and/or links to relevant documentation.
+_**Required.** Include additional information, such as screenshots, log snippets, links to applicable code files, and/or links to relevant documentation._
 <!-- EXAMPLE: ... -->
 
 ### 8. Pre-Launch Checklist
