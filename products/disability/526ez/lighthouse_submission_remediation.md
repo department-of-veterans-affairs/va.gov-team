@@ -77,3 +77,12 @@ A stretch goal in creating this remediation plan was to create an additional scr
    }
    docs_service.send(:submit_document, params[:file], params[:file_params], nil)
    ```
+   This final bit was an attempt to use the WorkerService to upload instead
+   ```
+   client = BenefitsDocuments::WorkerService.new
+   document_data = docs_service.send(:build_lh_doc, params[:file], params[:file_params])
+   document_data.file_name="#{fname}.pdf"
+   document_hash=document_data.to_serializable_hash
+   document = LighthouseDocument.new document_hash
+   client.upload_document(action_file.read, document)
+   ```
