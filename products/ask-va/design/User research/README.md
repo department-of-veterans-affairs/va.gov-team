@@ -12,7 +12,8 @@ This folder contains our user research documentation.
 |[Submit an inquiry](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/01-2024%20Submit%20an%20inquiry)|Usability testing|January-February 2024|[#453](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/453)|
 |[Progress bar](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/04-2024%20Progress%20bar)|Usability testing|April 2024|[#529](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/529)|
 |[Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/05-2024%20Dashboard)|Usability testing|May-June 2024|[#540](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/540)|
-|[Assistive tech](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech)|Usability testing|July-Sept 2024|[Form – #602](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/602)|
+|[Assistive tech – Form](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech)|Usability testing|July-August 2024|[#602](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/602)|
+|[Assistive tech – Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech)|Usability testing|August-September 2024||
 
 ## Questions?
 
