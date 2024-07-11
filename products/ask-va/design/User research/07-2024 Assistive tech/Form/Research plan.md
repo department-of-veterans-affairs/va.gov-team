@@ -106,7 +106,7 @@ For more details about our criteria, refer to our [Recruitment ticket](https://g
 
 #### Cohort 1: Screen reader users
 
-We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions.
+We will recruit 6 Veterans who use screen readers to complete a **minimum** of 3 sessions. They should be daily users of screen readers. 3 should be beginners and 3 should be experienced.
 
 We'd like to recruit people who use a mix of different screen readers, such as, [NVDA, JAWS, VoiceOver (Apple) and Talkback (Android)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenreaders).
 
@@ -123,7 +123,7 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 
 #### Cohort 2: Alternative navigation users
 
-We will recruit 4 Veterans who use alternative navigation to complete a **minimum** of 2 sessions.
+We will recruit 4 Veterans who use alternative navigation to complete a **minimum** of 2 sessions. They should be daily users of alternative navigation tools.
 
 We'd like to recruit people who use a mix of [switch systems, Dragon, Voice Control (Apple), One-handed keyboards, a head mouse, or a sip and puff device](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Alternativenavigation).
 
@@ -138,7 +138,7 @@ We'd like to recruit people who use a mix of [switch systems, Dragon, Voice Cont
 
 #### Cohort 3: Screen magnification users
 
-We will recruit 2 Veterans who use screen magnification to complete a **minimum** of 1 session.
+We will recruit 2 Veterans who use screen magnification to complete a **minimum** of 1 session. They should state that they always use screen magnification on VA.gov.
 
 We'd like to recruit people who use a mix of different screen magnification software, such as, [ZoomText, ZoomText Fusion, Magnifier (Windows) and Zoom (Apple)](https://depo-platform-documentation.scrollhelp.site/research-design/testing-your-prototype-with-assistive-technology-u#Testingyourprototypewithassistivetechnologyusers-Screenmagnification).
 
