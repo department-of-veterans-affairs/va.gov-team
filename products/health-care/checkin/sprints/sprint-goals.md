@@ -44,6 +44,7 @@
     - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
+        - 🟥 [Add the A11 (5 item question) intercept survey to confirm pages on pre-check-in and check-in](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88146)
         - 🟪 [[Research] Analyze VSignals Data](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76039)
         - 🟪 [Request Medallia Data for CIE Applications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86433)
 - **GOAL: Address Tech Debt**
