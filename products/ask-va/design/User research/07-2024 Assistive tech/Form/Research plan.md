@@ -102,7 +102,7 @@ We will recruit 12 Veterans for:
 - **minimum** of 2 sessions with alternative navigation users
 - **minimum** of 1 session with a screen magnification user
 
-For more details about our criteria, refer to our [Recruitment ticket](add link).
+For more details about our criteria, refer to our [Recruitment ticket](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/603).
 
 #### Cohort 1: Screen reader users
 
