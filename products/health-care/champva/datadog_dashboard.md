@@ -4,13 +4,28 @@
 The IVC ChampVA Forms Dashboard provides a comprehensive overview of the status and performance of form submissions within the IVC ChampVA system. This dashboard is part of our monitoring and reporting tool to ensure the reliability and efficiency of form processing. Below is a detailed explanation of each section of the dashboard and what it represents.
 
 # Dashboard Sections
+ ![image](images/main.png)
 
-
-# Missing Pega Status
+## Missing Pega Status
 
 Description: This section highlights the number of forms that are missing a status update from the third-party system, Pega.
 Key Metric: The large orange box shows the total count of forms currently missing a status update. As of the latest data, this number is 89.
-All Upload Submissions
+
+The "Missing Pega Status" section relies on a background job that checks for forms without a status update from Pega.
+
+### Explanation
+
+#### Module and Class: Defines the MissingFormStatusJob class within the IvcChampva module.
+#### Sidekiq Integration: Utilizes Sidekiq to run background jobs.
+#### Perform Method:
+1. Check Settings: Ensures the job is enabled before proceeding.
+2. Fetch Forms: Retrieves forms that lack a status update from Pega.
+3. Send Metrics to DataDog: Reports the count and details of these forms to DataDog.
+4. Error Handling: Logs any errors encountered during execution.
+   
+This job is crucial for keeping track of form processing status and ensuring that issues are promptly identified and addressed.
+
+## All Upload Submissions
 
 Description: This graph displays the number of form submissions over time.
 Key Metric: The bar graph helps identify trends and peaks in submission activity, indicating busy periods.
