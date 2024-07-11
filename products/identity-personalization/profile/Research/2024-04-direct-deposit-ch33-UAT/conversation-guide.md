@@ -1,4 +1,4 @@
-# Conversation Guide: Direct deposit payment instruction consolidation UAT, April 2024
+# Conversation Guide: Direct deposit payment instruction consolidation UAT, July 2024
 
 ### Project-specific setup
 
@@ -6,7 +6,7 @@
 
 ## Introduction - 1 minute
 
-Thanks for joining me today! My name is Pam. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily.
+Thanks for joining me today! My name is Matt. I am a researcher and designer who works on improving the VA.gov website so Veterans can get what they need quickly and easily.
 
 The team I work with has made some updates to the backend system that helps run the direct deposit portion of each person’s account profile. I’m meeting with people like yourself to help me test these updates to make sure they are working as expected in the user interface. 
 
