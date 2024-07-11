@@ -1,4 +1,4 @@
-# [Health Enrollment Team, 10-10EZ Registration Reasons Tree Test, November 2023] Research Findings 
+# 10-10EZ Registration Reasons Tree Test - Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ, Health Enrollment**
 
