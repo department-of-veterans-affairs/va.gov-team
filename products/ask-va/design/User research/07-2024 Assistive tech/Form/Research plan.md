@@ -113,6 +113,7 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |:--|:--|:--|
 |Exactly 6|Are Veterans|Primary|
 |Exactly 6|Are willing to join from a desktop or mobile device using a screen reader|Primary|
+|Exactly 6|Daily use of screen readers to access websites or applications|Primary|
 |Exactly 3|Are beginner screen reader users|Primary|
 |Exactly 3|Are experienced screen reader users|Primary|
 |At least 3|Are over 55 years old|Secondary|
@@ -128,7 +129,8 @@ We'd like to recruit people who use a mix of [switch systems, Dragon, Voice Cont
 |# of participants|Criteria|Level|
 |:--|:--|:--|
 |Exactly 4|Are Veterans|Primary|
-|Exactly 4|Are willing to join from a desktop or mobile device using a screen reader|Primary|
+|Exactly 4|Are willing to join from a desktop or mobile device using an alternative navigation tool|Primary|
+|Exactly 4|Daily use of alternative navigation tools to access websites or applications|Primary|
 |At least 2|Are over 55 years old|Secondary|
 |At least 2|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 1|Identify as a gender other than male|Secondary|
@@ -143,7 +145,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |:--|:--|:--|
 |Exactly 2|Are Veterans|Primary|
 |Exactly 2|Are willing to join from a desktop or mobile device using screen magnification software|Primary|
-|Exactly 2|'Always' use screen magnification on VA.gov|Primary|
+|Exactly 2|Always use screen magnification on VA.gov|Primary|
 |At least 1|Are over 55 years old|Secondary|
 |At least 1|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 1|Identify as a gender other than male|Secondary|
