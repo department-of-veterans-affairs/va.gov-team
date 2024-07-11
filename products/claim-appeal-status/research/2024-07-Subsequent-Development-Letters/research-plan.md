@@ -1,25 +1,26 @@
-# Research Plan: Subsequent Development Letters
+# (WIP) Research Plan: Development Letters
 
 ## Background
-Briefly describe the background of your product. Consider:
-- What problem is your product trying to solve?
-- Where is your product situated on VA.gov? (ex: auth vs. unauth)
-- What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+Veterans can currently access certain types of letters digitally on the Claim Letters page. But there are a number of "development letters" and other correspondence letters that the VA sends to Veterans that they currently cannot access from that page. 
 
-[Link to product brief](url goes here).
+As we introduce these letters to the Claim Letters page, we need to better understand the current experience for Veterans of receiving these letters. What are some pain points in that process that we might be able to help with by adding these letters to CST? 
+
+Development letters will also include tracked items, which show up as alerts in CST for Veterans to take action on. Many times this involves an evidence request, but not always. With the 5103 redesign we have established a baseline for a new UI flow to improve this experience. With this research we want to test the efficacy of that design, and also see how this design might scale to all tracked items associated with development letters.
+
 
 ### OCTO Priorities 
 
-Which [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md) does this research support? Work with your VA lead and product manager as needed.
+This supports the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md):
+- Objective 1: Our digital experiences are the best way to access VA health care and benefits.
 
 ### Veteran Journey
-Where does your product fit into the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)?
-Are there moments that matter? 
+This work supports a Veteran whenever they are filing a disability compensation claim, which could occur across a wide swath of the Veteran journey, ranging all the way from "Getting out" to "Aging."
 
 ## Research Goals	
-What are you trying to learn from this research? 
-
-*Pro tip: Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.* 
+1. Understand more about Veterans' experience with development letters today, including pain points and things that seem to be working.
+2. Evaluate the efficacy of the new 5103 Notice design. Is it clear what Veterans are being asked to do? Is it clear how it relates to the 5103 Notice letter?
+3. Asses how well our "content model" for 1P alerts works across a variety of different request types associated with development letters.
+ 
 
 ### Outcome
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
