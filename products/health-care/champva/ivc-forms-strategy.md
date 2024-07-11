@@ -1,3 +1,5 @@
+This doc is very stale. Take everything with a large grain of salt.
+
 # IVC Forms Strategy
 ## What is this document?
 This document is intended as a distillation of our Performance Work Statement (PWS) so that we have guiding principles for decision making. This doc isn’t meant to contradict the PWS in any way, and if it does, the PWS is the source of truth. Much of what follows comes directly from the PWS.
