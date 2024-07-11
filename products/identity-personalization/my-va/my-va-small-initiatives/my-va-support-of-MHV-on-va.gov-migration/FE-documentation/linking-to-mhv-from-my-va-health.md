@@ -2,8 +2,6 @@
 
 **Last updated:** December 1, 2023 (first published)
 
-_Insert brief explanation of this update to the health care section of My VA._
-
 For full documentation on the Health Care section of My VA, see [My VA: Health Care Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases). 
 
 ## When to show the ‘Health care’ section
