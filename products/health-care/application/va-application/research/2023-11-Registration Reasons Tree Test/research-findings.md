@@ -1,8 +1,6 @@
-
-
 # [Health Enrollment Team, 10-10EZ Registration Reasons Tree Test, November 2023] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ, Health Enrollment**
 
 Date: December 2023
 
@@ -12,7 +10,7 @@ Date: December 2023
    - Jessica Stump (jessica.stump@adhocteam.us)
    - Katelyn Caillouet (katelyn.caillouet@agile6.com)
 
-_Once you've presented your research readout to your team, if you have a deck, insert a link to it here_ [Research readout - DRAFT, move link to PDF on github once complete]([link here](https://docs.google.com/presentation/d/12bAdo_7uoi1ab7n2tnmaed01RFbMMuYtZub-IdAGvtU/edit?usp=sharing))
+[Research readout](https://docs.google.com/presentation/d/12bAdo_7uoi1ab7n2tnmaed01RFbMMuYtZub-IdAGvtU/edit?usp=sharing))
 
 
 **Jump to:**
