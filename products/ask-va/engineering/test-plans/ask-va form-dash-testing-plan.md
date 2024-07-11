@@ -105,6 +105,9 @@ Bugs will be identified by Product or Teammates when identified. Bugs will be la
 
 ### Process for Bug Creation: 
 
+![image](https://github.com/user-attachments/assets/95d60188-5bf2-456b-bb08-36481438c4d9)
+
+
 When identifying a bug take the following steps: 
 - 1. Include steps to recreate the defect
 - 2. Include screenshots
