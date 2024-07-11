@@ -119,16 +119,16 @@ We hypothesize that Veterans using assistive technologies will successfully navi
 
 - Participants will be asked to complete tasks related to entering their medical conditions on the conditions page. We also have mock scenarios as a backup in cases where the Veteran does not have conditions in mind or is uncomfortable using their actual conditions. We will have all participants also do the mock scenarios
 
-- We will screen for Veterans who have filed for disability in the past or who plan to file for disability in the future. 
+- We will screen for Veterans who have filed for disability in the past 
 
-- We will use the live page for testing. Users will need to be logged into their accounts.
+- We will use the live page for testing. Users will log into test user accounts on staging 
 
 - Sessions will be conducted remotely using Zoom. 
 
 
 ## Research Materials
 
-- Conversation Guide - <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/202403%20Improved%20Autosuggest/conversationguide.md> 
+- Conversation Guide - <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/202403%20Improved%20Autosuggest/conversationguide-assistivetech.md> 
 
 
 # Recruitment
@@ -158,11 +158,7 @@ Overall
 
 Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
-- 4 Participants who use screen readers
-
-  - 2 Beginner screen reader users
-
-  - 2 Experienced screen reader users
+- 4 Participants who use screen readers and are experienced with their devices
 
 - Mix of NVDA, JAWS, VoiceOver (Apple), Talkback (Android)
 
@@ -264,13 +260,13 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
    - Other (Please specify): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader: 
+3. Please rate your experience level using a screen reader: 
 
-   - Beginner \[Recruit 2] 
+   - Beginner \[Remove] 
 
    - Intermediate
 
-   - Advanced \[Recruit 2] 
+   - Advanced \[Recruit 4] 
 
    - I don't use screen readers
 
