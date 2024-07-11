@@ -1,0 +1,113 @@
+**Like PCI**
+
+
+> Quick and easy questions.<br>
+
+
+> Simple and straightforward to use<br>
+
+
+> Pre-appointment check in went smoothly, however I was unable to update addresses and other information without going to another web site. There should be a smoother way to do the updates concurrently, with subsequent official review, confirmation and updating in the official files.<br>
+
+
+
+
+**Staff not using PCI even though Veterans are**
+
+
+> Although I was able to check in in advance I still had to go to the clerk so they could tell the lab I was there<br>
+
+
+
+
+**Trouble navigating larger facilities**
+
+
+> Find the address for the facility. Very hard to find address have to go three layers deep after opening page to find address<br>
+
+
+
+
+**Staff not contacting Veterans when appointments are canceled**
+
+
+> They did not remind me about my meds..they all ready canx 1 of the appt. I could of had it done then??? A MONTH AGO.<br>
+
+
+
+
+**Concerns with check in at kiosks**
+
+
+
+
+**Facilities still using QR Codes Long wait times at check in or no staff at check in counter**
+
+
+
+
+**Conflicting instructions to Veterans in appointment reminders**
+
+
+> How many times do I have to verify an appointment? I get 2 text messages, mailers, and a phone call. Even after I check in, I’m not sure if I’m checked in because I have to do it 3 more times.<br>
+
+
+> One text reminder regarding upcoming appointments is all that is required.  I don’t need multiple reminders for the same appointment-thank you!<br>
+
+
+
+
+**Trouble updating contact info**
+
+
+> I have tried several times to update my contact information, phone numbers, emergency contact info. Etc. In fact I did this again in person during my last appointment check in. Yet again, wrong information is still showing up... How can we fix this? Thank you in advance.<br>
+
+
+> You asked me if the information is correct and I say no and you say OK thank you and move on without letting me change anything. My caregivers information is incorrect. I would like to change that but you’re not making it easy to do so.<br>
+
+
+> I did the pre-check in things.  But I need to update phone numbers that showed on the pre-check in screens.  Long ago I updated the phone numbers in my "Profile", but they do not carry over into this part of the system.  This "disconnect" is something your IT people should look at and correct.  Thanks!<br>
+
+
+> Should be able to update phone numbers and such, here, on line, rather than having to work with staff members.<br>
+
+
+> emergency contact addy is STILL wrong tried to get current info. Failed<br>
+
+
+> Pre-appointment check in went smoothly, however I was unable to update addresses and other information without going to another web site. There should be a smoother way to do the updates concurrently, with subsequent official review, confirmation and updating in the official files.<br>
+
+
+> Allow editing on the next of k8n information please!<br>
+
+
+> I was not able to make corrections in the requested pre-admission form<br>
+
+
+
+
+**Issues verifying identity**
+
+
+> With all the scams going on, and with many vets having to get help to do this on the phone,  and that you already have this information in your system, and will have to give this same information again when I get there, this seems a useless step and just another way for scammers and hackers to get birth dates and names.<br>
+
+
+> I almost gave up on doing this check in because the first page was difficult to fill in. After I put in my name and tried to put in my social security number my name would disappear.<br>
+
+
+> This site did not allow me to complete the information required.  (Name/ DOB)<br>
+
+
+> First time checking in and says sorry my name and birth date are not found, neither with my last name now or my maiden name.<br>
+
+
+> Pre check in ; never  able to get past name and date of birth. Hit continue and  it goes directly to  do you need help. Consistently!<br>
+
+
+
+
+**Pre-Check-in or Check-in link issues**
+
+
+
+
