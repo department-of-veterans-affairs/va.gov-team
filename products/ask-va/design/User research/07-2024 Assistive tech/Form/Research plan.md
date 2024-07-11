@@ -312,7 +312,7 @@ We will also provide one day for overflow. This should only be booked if we don'
 * Notetakers: Tyler will add notetakers to the invites herself.
 * Observers: Tyler will add observers to the invites herself.
 
-Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 1 notetaker and up to 2 observers.
+Sessions will be limited to no more than 5 people, including 1 participant, 1 moderator, 1 accessibility specialist, 1 notetaker and 1 observer.
 
 ## Approved by:
 
