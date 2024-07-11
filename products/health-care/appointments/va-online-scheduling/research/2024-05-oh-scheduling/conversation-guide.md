@@ -98,9 +98,12 @@ What we're going to do is run through a series of tasks in an imaginary scenario
 12. Review details
 13. Confirmation page
 14. Review appointments
+
 **Begin prototype**
 
-Prompt: Tell me about this page.
+Prompt: Tell me about this page (Appointment list page).
+
+Prompt: Tell me about what is at the top of the page
 
 Prompt: How would you schedule an appointment from here?
 
