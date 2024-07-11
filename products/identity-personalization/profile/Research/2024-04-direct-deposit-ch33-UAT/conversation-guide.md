@@ -30,7 +30,7 @@ Do you have any questions for me before we begin?
 	 Is that correct? 
 2. I also have in my notes that you use `Login.gov` or `ID.me` to log into VA.gov, is that correct? 
     - If participant has neither a `Login.gov` nor an `ID.me` account, end the session.
-3. We're going to be looking at the direct deposit section of the website together and I'll need you to re-enter your direct deposit info to confirm everything is working as expected . Do you have your bank information handy? _If not, give them some time to get it together_.
+3. We're going to be looking at the direct deposit section of the website together and I'll need you to re-enter your direct deposit info to confirm everything is working as expected . Do you have your bank information that you use for direct deposits handy? _If not, give them some time to get it together_.
 4.  **Additional context for education/comp&pen participants**: Because you have both kinds of benefit payments, I mentioned that our team made backend changes and we want to confirm these changes in the user interface. Just to give a little more context about that, there used to be two places to put in direct deposit payment information, but benefit payments must be the same for both after 4/20.
 ## Context – 1 minute
 
