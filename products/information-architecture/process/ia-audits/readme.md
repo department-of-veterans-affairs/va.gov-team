@@ -16,6 +16,6 @@ Pension hub| Aug 2023 | [Pension Hub Audit 2023](https://github.com/department-o
 Housing assistance hub| | | 
 Life insurance hub| Aug 2023 | [Life Insurance Hub Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/Life%20Insurance%20Hub%20Audit-%202023.xlsx)
 Burials and memorials hub|Aug 2023| [Burial Hub Audit 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Burials%20Hub%20Audit%20-%202023.xlsx) |
-Records hub | | | 
+Records hub | | [Records Hub 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/process/ia-audits/2023/Records%20Hub%20Audit.xlsx) | 
 Decision reviews hub| | | 
 Root level | | | 
