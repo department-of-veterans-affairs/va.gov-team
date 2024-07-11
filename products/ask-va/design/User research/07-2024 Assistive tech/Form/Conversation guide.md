@@ -140,10 +140,32 @@ Great. Next, I'd like you to share your screen on Zoom.
 
 - Have you shared your screen on Zoom before?
   - `IF YES` Great. Can you please share your screen?
-  - `IF NO` I’ll walk you through how to do that…
+  - `IF NO` I’ll walk you through how to do that... [iPhone](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)... [Android](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)...
 
 > Screen sharing starts.
 
 Thanks! Now I’m able to see your screen with the test website.
 
 ## Home page (10 minutes)
+
+So, now we're going to observe as you navigate this website. 
+
+ADD SCENARIO
+
+We want to understand what's going through your mind, so it's helpful if you talk aloud. We'll also be doing our best to understand how your assistive technology is supporting you, as you use the website.
+
+I'll stay quiet as you navigate around, but it would be helpful if you pause before you click a button or a link, so we have some time to reflect on each page.
+
+So on this first page, after you've had a chance to go through it, I'll be interested to know what you think this page is about and what your next step would be.
+
+> Screen: Home page
+
+<details>
+  <summary>Key things to notice</summary>
+
+- Did they scroll and/or tab through the entire homepage?
+- Where did they pause, if at all?
+- Did they easily understand what this page is for?
+- Was their next step clear?
+
+</details>
