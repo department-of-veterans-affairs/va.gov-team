@@ -44,6 +44,7 @@ This research will help us document and prioritize any bugs or usability issues 
 
 * Are any headers, labels or links lacking description or clarity?
 * Can Veterans interact with all elements using only their keyboards?
+* Are click targets, hover states and labels of controls always available and clear?
 * Are Veterans still oriented and able to use the form when magnified?
 * Is it clear that information is pre-filled? Is it clear how to update pre-filled information?
 * Can Veterans understand their progress through the form without visual cues?
@@ -55,11 +56,11 @@ This research will help us document and prioritize any bugs or usability issues 
 ### Hypotheses
 
 1. Veterans will think headers, labels and links are descriptive and clear.
-2. Veterans will be able to interact with all elements using only their keyboards.
-3. Veterans will be oriented and still able to use the form when magnified.
-4. Veteranss will understand that information has been pre-filled from 'their' account and know how to update it.
-5. Veterans will understand their progress in the form with or without visual cues.
-6. Sign in will be a barrier for some Veterans using a screen reader or magnification.
+2. Veterans will be able to interact with all elements using only their keyboards or other devices.
+4. Veterans will be oriented and still able to use the form when magnified.
+5. Veteranss will understand that information has been pre-filled from 'their' account and know how to update it.
+6. Veterans will understand their progress in the form with or without visual cues.
+7. Sign in will be a barrier for some Veterans using a screen reader or magnification.
 
 ## Methodology
 
