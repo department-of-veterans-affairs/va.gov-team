@@ -78,10 +78,10 @@ Past Appointment Details: VA/Community Care Booked Appointments
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
 ### Summary Defect Report
-- [ ] [Appointment List Redesign - Defect Report]()
+- [X] [Appointment List Redesign - Defect Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-details-redesign/appontment-details-redesign-defects.md)
 
 ### Traceability Report 
-- [ ] [VAOS](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
+- [X] [Appointments](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
 ### E2E tests 
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
