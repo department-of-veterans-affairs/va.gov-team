@@ -32,18 +32,13 @@ Delivery deadline: Original sunset date for EVSS August 2023 - new date TBD
 
 ## Risks / Impediments
 External dependency: Lightouse endpoint availability in Lighthouse staging & production environments
-Internal dependency: endpoint migration prioritization against other priority features
-- /submit and /generatePDF migration needed for the [release of the 2022 526ez PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/Toxic%20Exposure%20Release%20Plan.md)
-  - Status May 2024:
-    - /submit target to Lighthouse staging June 2024, production date TBD
-    - /generatePDF production date TBD
 
 ## Delivery Status of 526ez Endpoints
 |Endpoint|Lighthouse Update               | DBEX Update|Notes|
 |--------|--------------------------------|------------|-----|
 |Intent to file |In production|100% in production| Endpoint remains stable. |
-|Submit | Work in progress - LH staging 6/6/24, production release late June 2024|In development| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response. Logic updates likely needed and revisit to the transformation service. |
-|Benefits claims service| In production|100% in production| Rolled back April 2024 for Employee Experience release. |
+|Submit | In production, resolving bugs. |In development| Endpoint is needed to complete release of the 2022 version of the 526ez. Previous version not synchronous, new endpoint version will provide a synchronous response except for 526 PDF upload. |
+|Benefits claims service| In production|100% in production| Rolled back April 2024 for Employee Experience release; resumed May 2024. |
 |Generate PDF|In production|In development| Team 2 |
 |Rated Disabilities| Bug fix re-release to LH staging and production 5/20/24|On hold, ready to resume release||
 |PPIU (Direct Deposit) |In production|100% in production| Endpoint remains stable. |
