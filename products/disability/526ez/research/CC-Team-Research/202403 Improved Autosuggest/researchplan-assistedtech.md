@@ -1,4 +1,4 @@
-Conditions page assistive technology usability testing (Previously called the Improved autosuggest component usability testing) 
+Conditions page AT user usability testing
 
 Draft Research Plan (updated Jul 8, 2024)
 
@@ -48,16 +48,12 @@ We will evaluate the 526EZ form’s Conditions page for Veterans using assistive
 
 3. Satisfaction: Assess overall confidence and satisfaction with the page 
 
-****
-
 _How will this research advance your product to the next phase in the design process? What will you do with your learnings?_
 
 The research findings will guide further improvements to the conditions page, ensuring it meets the needs of Veterans applying for disability benefits. The insights will also help prioritize future enhancements to the page. 
 
 
 ## Research questions
-
-****
 
 **Goal 1: Evaluate the usability of the revised autosuggest component** 
 
@@ -81,8 +77,6 @@ The research findings will guide further improvements to the conditions page, en
 
 - Can participants easily differentiate between editing an existing condition and adding a new one?
 
-****
-
 **Goal 2: Evaluate the effectiveness of the explanatory content** 
 
 - Do participants understand the content and terminology used in the instructions?
@@ -90,8 +84,6 @@ The research findings will guide further improvements to the conditions page, en
 - How much of the content do participants read? How do instructions impact how they use the page (if at all)? 
 
 - Are participants comfortable/confident with entering a condition that is not on the list? 
-
-****
 
 **Goal 3: Assess overall confidence and satisfaction with the page** 
 
@@ -102,8 +94,6 @@ The research findings will guide further improvements to the conditions page, en
 - How confident are participants in the accuracy and completeness of their submitted information?
 
 - What specific improvements would participants suggest to enhance usability and understanding for assistive technology users?
-
-****
 
 
 ## Hypothesis
@@ -117,8 +107,6 @@ _What do you intend to learn and measure from this study? Think through these pr
 - _Write a generalized statement that combines what you know + what you think will happen during the study._
 
 - _Remember to constrain the hypothesis to the goals of your study!_
-
-****
 
 We hypothesize that Veterans using assistive technologies will successfully navigate and submit conditions on the 526EZ Conditions page. However, we anticipate that Veterans will encounter usability challenges with the autosuggest feature and may prefer free-text entry for certain types of conditions. We expect that the page's instructions will be generally understandable and that users will be able to enter their conditions without having to read the full instructions.
 
@@ -160,9 +148,7 @@ We would like to request a kickoff call with Perigean. Requested date/time: _Fri
 
 Overall
 
-- At least 4 participants are receiving disability compensation from the VA 
-
-  - At least 2, but no more than 4, have never submitted a disability claim but intend to
+- All participants are receiving disability compensation from the VA 
 
  Cohort 1: Low vision - magnification users
 
@@ -201,8 +187,6 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
   - Attempt at least 3 with no degree 
 
-****
-
 
 ### Screener questions
 
@@ -210,22 +194,17 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 1. Have you ever filed a claim for disability compensation with the VA in the past?
 
-- Yes (Recruit 4)
+- Yes \[Recruit for all] 
 
-- No\
-  \[If no] Are you interested in filing for disability benefits in the near future?
-
-  - Yes ( Recruit 4)
-
-  - No
+- No \[Remove] 
 
 **Cohort 1: Low vision - magnification users**
 
 1. Do you use a screen magnifier or magnification software when using your mobile or desktop device?
 
-   1. No
+   1. No \[Remove]
 
-   2. Yes (Please select all that apply): [recruit 4, with a mix of tools]
+   2. Yes (Please select all that apply): \[Recruit 4, a mix] 
 
       1. ZoomText
 
@@ -243,9 +222,7 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
       8. I prefer not to answer
 
-****
-
-2. If you answered Yes, how frequently do you use screen magnification?
+2) If you answered Yes, how frequently do you use screen magnification?
 
    1. Always \[recruit 4] 
 
@@ -255,29 +232,25 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
    4. Rarely
 
-****
-
 5. Can you join the Zoom session from your mobile or desktop device using the tools you need to see your screen? 
 
-   - Yes [recruit 4]
+   - Yes
 
-   - No
+   - No \[remove] 
 
    - Does not apply
-
-****
 
 **Screener Questions: Cohorts 2: Screen reader users**
 
 1. Do you use a screen reader to access digital content on your devices every time you use the internet? 
 
-   - Yes [recruit 4]
+   - Yes
 
-   - No
+   - No \[remove] 
 
    - I prefer not to answer
 
-2. If you answered Yes to the previous question, which screen reader(s) do you use? (Select all that apply) [recruit 4, a mix of tools] 
+2. If you answered Yes to the previous question, which screen reader(s) do you use? \[Recruit 4, a mix] (Select all that apply) 
 
    - JAWS
 
@@ -293,11 +266,11 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 3. We want to make sure our website works for people with various levels of experience with screen readers. Please rate your experience level using a screen reader: 
 
-   - Beginner [recruit 2] 
+   - Beginner \[Recruit 2] 
 
    - Intermediate
 
-   - Advanced [recruit 2] 
+   - Advanced \[Recruit 2] 
 
    - I don't use screen readers
 
@@ -315,13 +288,11 @@ Cohort 2: Screen reader users who use devices EVERY TIME they use the internet
 
 5. Are you willing and able to participate in a usability test using your screen reader via a video conferencing platform (e.g., Zoom)?
 
-   - Yes [recruit 4]
+   - Yes
 
-   - No
+   - No \[Remove]
 
    - Not applicable
-
-****
 
 \[Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.]
 
@@ -362,8 +333,6 @@ July 31st: 7:30 AM - 10:00 AM PST, 11AM - 2:00PM PST 
 
 August 1st: 7:30 AM - 2:00 PM PST 
 
-****
-
  Team Roles
 
 - Moderator: Eva Heintzelman or Sudeepti Bhatnagar 
@@ -374,15 +343,13 @@ August 1st: 7:30 AM - 2:00 PM PST 
 
 - Project point of contact: Eva Heintzelman and Sudeepti Bhatnagar
 
-- Participant(s) for pilot test: Jamie Klenetsky Fay 
+- Participant(s) for pilot test: 
 
 - Accessibility specialist (for sessions where support for assistive technology may be needed): Jamie Klenetsky Fay 
 
 - Note-takers: Eva Heintzelman, Sudeepti Bhatnagar, Yurena Garcia-Hevia, Lesley Ropp
 
-- Observers: Jennifer Bertsch, Tyler Spangler, Lesley Ropp
-
-****
+- Observers: Jennifer Bertsch, Tyler Spangler, Luke Short, Lesley Ropp
 
 Contact Information of the people serving in the roles above
 
