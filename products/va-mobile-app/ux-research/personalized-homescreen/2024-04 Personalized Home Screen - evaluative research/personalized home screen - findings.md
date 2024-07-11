@@ -335,13 +335,14 @@ Participants thought it was helpful to have access to features from the home scr
 
    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-04%20Personalized%20Home%20Screen%20-%20evaluative%20research/images/VAHBMA-HSP-Aboutyou-PVS.png" width="300" alt="VA mobile app - personalized home screen, Branch of Service and Proof of Veteran Status module">  
 
-  All participants should’ve had a Proof of Veteran status link displayed on the home screen, but 5/13 unexpectedly did not.
+  All participants were expected to have a Proof of Veteran status link displayed on the home screen, but 5/13 did not.
 
   * 8 participants who had a disability rating and monthly compensation amount had the expected module with their branch of service and proof of Veteran status link.
-  * 4 participants who had a disability rating and monthly compensation amount had a module with their branch of service that did not include the proof of Veteran status link (this combination should not be possible given that a veteran with a disability rating who is receiving a monthly disability payment should also be allowed a proof of veteran status)
-  * 1 participant who had a disability rating and monthly compensation amount did not have a module that showed branch of service or proof of Veteran status (this also should not be possible)
+  * 3 participants who had a disability rating and monthly compensation amount had a module with their branch of service that did not include the proof of Veteran status link* _(this combination should not be possible given that a veteran with a disability rating who is receiving a monthly disability payment should also be allowed a proof of veteran status)_
+  * 1 participant who had a disability rating and monthly compensation amount did not have a module that showed branch of service or proof of Veteran status _(this also should not be possible)_
+  * 1 participant had a module that showed branch of service but no proof of Veteran status, disability rating or monthly compensation amount
 
-  The team discovered through analytics put in place during session that this issue is occurring approximately 21% of the time, and an engineering investigation that the “module but no link” state is due to an issue with the available backend data. Yhe “no module” state was caused by a backend failure during the session.
+*_Analytics quickly put in place during the research facilitation weeks confirmed that this issue is occurring approximately 21% of the time, and an engineering investigation determined that the "module but no link" issue is a problem with likely-incorrect data coming from the API. The “no module” state was caused by a backend failure during the session._
 
 
 ##### Branch of service and Veteran status module: Value of module & data:  
