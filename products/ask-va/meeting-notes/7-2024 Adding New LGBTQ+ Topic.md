@@ -5,7 +5,7 @@
 
 ## Key takeaways 
 - We will touch base after the new Ask VA front-end launch on VA.gov in Jan 2025.
-- People can contact Veteran Care Coordinators (VCCs) through email right now.
+- People can contact the LGBTQ+ Health Program through email right now. The email is VHALGBTQ+Health@va.gov.
 - 9 staff members currently manage responses through a single email inbox. Approximately a few a week. Volume does change based on launches, policy changes, and other activities.
 - A new LGBTQ+ topic most likely fits best under the **Health care** category.
  
