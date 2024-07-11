@@ -47,27 +47,23 @@ Epic = https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14225
 Requires vets-api console access. File a ticket to request, e.g. https://github.com/department-of-veterans-affairs/va.gov-team/issues/59791
 
 ### Local dev work 
-May 2024:
-* Local terminal on SOCKS cannot connect to the PPMS API.
-* GFE may work, we don't know yet. 
-* Otherwise, local development isn't possible. Instead: you must build logging into the dev version of vets-api, and view the dev logs from ArgoCD to see results. (Meaning: you must ship your logging changes to vets-api production, behind an env conditional for dev, and then review those changes on dev.
-* Using Postman on CAG / VA virtual machine, the results can be saved to JSON, and then sent to local machine and loaded as a file, to view the results.
-
-We have started a conversation with Platform team about how to remove the SOCKS blocker: https://dsva.slack.com/archives/CBU0KDSB1/p1716326819744799
+[PPMS: How to connect vets-api to PPMS for local development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facilities-api/how-to-connect-vets-api-to-PPMS-for-local-development.md)
 
 
 ## PPMS Endpoints
 The PPMS endpoints are available only on the VA network or through CAG. They are as follows:
 
 ### DEV
-- https://dws-dev-ppms.devtest.vaec.va.gov/swagger/ui/index
-- Swagger
+DEVELOPMENT APIM Root URL: dws-dev.pmt.vaec.va.gov
+Swagger: https://dws-dev-ppms.devtest.vaec.va.gov/swagger/ui/index (the Dev root URL changed in 6/2024 to the URL above. This Swagger URL has probably changed -- I haven't been able to verify) 
 
 ### NPROD
-https://nprod-apim.developer.ppms.va.gov/
+PREPROD APIM Root URL: https://api.preprod.pmt.vaec.va.gov/dws/v1.0/ 
 -  Microsoft Azure API Management - developer portal (va.gov), subscription key required
 
 ### PROD EAST
+PRODUCTION APIM Root URL: **CHANGING 8/4/2024**
+
 https://api-east.apim.developer.ppms.va.gov/
 -  Microsoft Azure API Management - developer portal (va.gov), subscription key required
 
