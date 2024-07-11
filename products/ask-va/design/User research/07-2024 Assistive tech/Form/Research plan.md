@@ -99,7 +99,7 @@ We request that Perigean:
 We will recruit 12 Veterans for:
 - **minimum** of 3 sessions with screen reader users
 - **minimum** of 2 sessions with alternative navigation users
-- **minimum** of 1 session with a screen magnification user.
+- **minimum** of 1 session with a screen magnification user
 
 For more details about our criteria, refer to our [Recruitment ticket](add link).
 
