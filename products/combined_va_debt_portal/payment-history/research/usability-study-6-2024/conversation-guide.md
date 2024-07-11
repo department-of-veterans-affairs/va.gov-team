@@ -61,7 +61,7 @@ I am going to drop a link in the Zoom chat. When you receive the link, please op
 
 Send direct link to Debt Portal prototype
 
-Prototype Link:
+Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 
 
 
