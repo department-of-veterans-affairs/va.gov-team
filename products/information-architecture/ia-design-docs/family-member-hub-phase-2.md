@@ -147,6 +147,8 @@ _Not required. Links on other pages that point to this tool/thing/form._
 
 ## <a name="redirects"></a>Redirects <br>
 
+Redirect ticket [#88112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88112)
+
 | Current URL                                                                          | Redirect to                                                             | Status                             |
 |----------------------------------------------------------------------------------|-------------------------------------------------------------------------|------------------------------------|
 | https://www.va.gov/COMMUNITYCARE/programs/dependents/champva/champva-claim.asp   | R+S: File a champva claim (URL TBD)                                     | Waiting for content to finalize H1 |
