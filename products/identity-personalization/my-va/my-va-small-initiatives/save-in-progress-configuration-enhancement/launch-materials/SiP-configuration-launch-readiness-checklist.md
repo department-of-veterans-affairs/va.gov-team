@@ -1,4 +1,4 @@
-# Save in Progress Configuration Enhancement: Launch Go / No Go | mm/dd/yyyy
+# Save in Progress Configuration Enhancement: Launch Go / No Go | 07/11/2024
 
 ### Decision: 
 
