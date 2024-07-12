@@ -18,8 +18,8 @@ Feature will be turned on for all users in production and managed via feature fl
 
 ## Go Live!
 
-### Planning:
-Feature turned on for all users in production via feature flag on mm/dd/yyyy.
+### Execution:
+Feature turned on for all users in production via feature flag on 07/12/2024.
 
 
  
