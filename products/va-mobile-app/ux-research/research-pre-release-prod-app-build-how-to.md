@@ -2,7 +2,7 @@
 Last updated July 2024
  
 Deciding whether to conduct remote user research using a pre-release production build of the VA mobile app (using a participant's real credentials) should be determined on a case-by-case basis considering the goals of the research. Testing in this manner allows participants to experience the app as it interacts with live production APIs, leading to greater data variability and more realistic reactions to content compared to using fake data. 
-Conducting the research involves several steps during both the research [planning phase](https://hackmd.io/cqrm94jKSbSwhg2XGdH2oQ#Research-study-planning) and the actual [research sessions](https://hackmd.io/cqrm94jKSbSwhg2XGdH2oQ#During-the-research-session).
+Conducting the research involves several steps during both the research [planning phase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-pre-release-prod-app-build-how-to.md#research-study-planning) and the actual [research sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/research-pre-release-prod-app-build-how-to.md#during-the-research-session).
 
 _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngroup.com/articles/users-real-data/)_  
 
@@ -15,7 +15,7 @@ _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngr
 
 * Account for about 15 minutes of app installation and setup during the research session, and additional time in case of technical difficulties.
 * For a more seamless/easy installation (where it is also not necessary to collect any App store ID’s in advance), consider limiting the testing device type to iOS (iPhones and iPads).
-*    *  On iOS, the Testflight link opens a webpage with links (and instructions) to download both Testflight and the app’s test build so the participant can easily switch apps to return to the screen:   
+    *  On iOS, the Testflight link opens a webpage with links (and instructions) to download both Testflight and the app’s test build so the participant can easily switch apps to return to the screen:   
 [image]  
 Given the current app distribution setup, installing a build from a link on Android (using Firebase) requires a more involved set of steps, and can be more variable due to differences in operating system Settings between device manufacturers. 
 * Plan to [guide the participant through installation at the start of the session](https://docs.google.com/document/d/1QI_SqEC1nJNHFD9VbsbjlRubvxCo0vKL2n8lDTAbHsM/edit#heading=h.bb0zvoiv64ag), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
