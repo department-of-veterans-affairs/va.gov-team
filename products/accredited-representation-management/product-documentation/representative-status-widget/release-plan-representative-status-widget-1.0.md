@@ -30,7 +30,7 @@
 1. Stage A: 10% of users on 5/13 (Monday)
 2. Stage B: 50% of users on 5/15 (Wednesday)
 3. Stage C: 100% of users on 5/20 (Monday)
-4. Stage D: Add the Representative Status Widget to the [Accredited Rep landing page](https://www.va.gov/get-help-from-accredited-representative/)
+   1. Add the Representative Status Widget to the [Accredited Rep landing page](https://www.va.gov/get-help-from-accredited-representative/)
 
 *** 
 
