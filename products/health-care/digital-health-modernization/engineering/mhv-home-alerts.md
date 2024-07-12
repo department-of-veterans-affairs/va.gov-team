@@ -4,10 +4,10 @@
 
 Implemented | Conditions | View
 --- | --- | ---
-✅ | Not identity-verified (< LOA3) | ![](images/mhv-not-verified.png)
-✅ | No VA patient facility registration | ![](images/mhv-not-registered-patient.png)
-❌ | MHV basic credentials < LOA3 | ![](images/mhv-mhv-basic-credentials-not-loa3.png)
-❌ | ID.me/Login.gov credentials < LOA3 | ![](images/mhv-idme-logingov-credentials-not-loa3.png)
+✅ | Not identity-verified (< LOA3) | ![](./assets/mhv-not-verified.png)
+✅ | No VA patient facility registration | ![](./assets/mhv-not-registered-patient.png)
+❌ | MHV basic credentials < LOA3 | ![](./assets/mhv-mhv-basic-credentials-not-loa3.png)
+❌ | ID.me/Login.gov credentials < LOA3 | ![](./assets/mhv-idme-logingov-credentials-not-loa3.png)
 
 Since the two proposed alerts cover the "not identity-verified" case, do we still need this alert?
 
