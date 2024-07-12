@@ -1,9 +1,9 @@
 # (WIP) Research Plan: Development Letters
 
 ## Background
-Veterans can currently access certain types of letters digitally on the Claim Letters page. But there are a number of "development letters" and other correspondence letters that the VA sends to Veterans that they currently cannot access from that page. 
+Veterans can currently access certain types of letters digitally on the Claim Letters page. But there are a number of "development letters" and other correspondence letters that the VA sends to Veterans that we want to also include on the page for easy access.
 
-As we introduce these letters to the Claim Letters page, we need to better understand the current experience for Veterans of receiving these letters. What are some pain points in that process that we might be able to help with by adding these letters to CST? 
+As we introduce these letters to the Claim Letters page, we need to better understand the current experience for Veterans of receiving development. What are some pain points in that process that we might be able to help with by adding these letters to CST? 
 
 Development letters will also include tracked items, which show up as alerts in CST for Veterans to take action on. Many times this involves an evidence request, but not always. With the 5103 redesign we have established a baseline for a new UI flow to improve this experience. With this research we want to test the efficacy of that design, and also see how this design might scale to all tracked items associated with development letters.
 
