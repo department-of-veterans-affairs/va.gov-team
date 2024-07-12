@@ -68,7 +68,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 1. Stage A: 10% of users on 3/11 (Monday)
 2. Stage B: 100% of users on 3/13 (Wednesday) + launch best bets for an initial boost to visibility
 3. Stage C: Implement redirects on 3/18 (Monday) for an added boost to visibility
-4. Stage D: Begin entry point work on 3/20 (Wednesday) so pages point directly to the [Accredited Rep landing page]((https://www.va.gov/get-help-from-accredited-representative/)
+4. Stage D: Begin entry point work on 3/20 (Wednesday) so pages point directly to the [Accredited Rep landing page](=(https://www.va.gov/get-help-from-accredited-representative/)
 
 *** 
 
