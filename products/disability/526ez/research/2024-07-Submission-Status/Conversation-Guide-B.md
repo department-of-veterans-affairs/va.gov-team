@@ -109,7 +109,7 @@ You’ll be interacting with a prototype, which is a demo tool that may not func
 
 I am going to drop a link to the prototype in the Zoom chat. When you receive the link, please open the page.
 
-[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1)
+[Prototype link]([https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1&show-proto-sidebar=1&starting-point-node-id=5626%3A130341))
 
 Next, I’d like you to share your screen for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot!
 
@@ -221,7 +221,7 @@ On a scale of 1 to 5, how confident are you that your claim was submitted and re
   
 ## Second Task: [Evidence Failure scenario] - 10 minutes
 
-[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5966%3A58868)
+[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5966-58868&t=pNM9YNKaPaTs2lbo-1&show-proto-sidebar=1&starting-point-node-id=5966%3A58868)
 
 Thanks for your feedback with the last scenario. Now, we are going to start the submission process over from the very beginning. Just like before, you submitted a new disability claim.
 You received a confirmation email, which you are currently looking at in your inbox. You haven’t received anything since, but a new message just arrived in your inbox, let’s take a look.
@@ -256,7 +256,7 @@ Take a moment to review this page before we discuss it. Do your best to think al
 
   
 
-[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129729&viewport=-2031%2C-2647%2C0.16&t=pNM9YNKaPaTs2lbo-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5626%3A129875)
+[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-129875&t=pNM9YNKaPaTs2lbo-1&show-proto-sidebar=1&starting-point-node-id=5626%3A129875)
 
   
 Thanks for your feedback. For this scenario, let’s again imagine again that you are about to submit a new disability claim as Hector, but this time for asthma. Go ahead and submit the application, just like before. 
