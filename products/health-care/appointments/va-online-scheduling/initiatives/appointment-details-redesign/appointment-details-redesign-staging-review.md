@@ -143,6 +143,8 @@
 
 <details>
 <summary>Past Appointment Details Page - At ATLAS location </summary>
+
+![pastATLAS](assets/pastATLAS.png)
 </details>
 
 <details>
