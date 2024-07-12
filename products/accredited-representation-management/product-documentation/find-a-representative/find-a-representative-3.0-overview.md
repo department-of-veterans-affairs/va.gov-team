@@ -21,6 +21,7 @@ The following overview demonstrates the changes we'll be implementing for versio
       1. Search area 
          1. Default to 50 miles
          2. Drop down for user to slect additional options (5, 10, 25, 50, 100, 200 miles + show all)
+   4. Advanced filters 🆕
       2. Name of representative
       3. Veteran Service Organization (drop down with all options) 🆕
       4. Checkbox to only search for VSOs accepting digital submission 🆕
