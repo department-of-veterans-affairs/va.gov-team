@@ -50,7 +50,7 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Home Address| Street Address | Y | Y | Same as above | Same as above
 |Home Address| Street Address Line 2 | N | Y | Same as above | Same as above
 |Home Address| Street Address Line 3 | N | Y | Same as above | Same as above
-|Home Address| City | Y | Same as above | Y | Same as above
+|Home Address| City | Y |  Y | Same as above | Same as above|
 |Home Address| State/Province/Region | Y | Y | Same as above | Same as above
 |Home Address| Postal Code | Y | Y | Same as above | Same as above
 
@@ -132,10 +132,10 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 
 | Form Subsection | Form Question| Required? | Prefillable?| Why we ask | Resource link/name|
 |---------------------|---------------------|---------------|---------------|-----------------|---------------|
-|Household-Spouse| First name|Y| N |TBD** | **TBD**|
-|Household-Spouse| Middle name|N| N |TBD** | **TBD**|
-|Household-Spouse| Last name|Y| N |TBD** | **TBD**|
-|Household-Spouse| suffix|N| N |TBD** | **TBD**|
+|Household-Spouse| First name|Y| N |**TBD** | **TBD**|
+|Household-Spouse| Middle name|N| N |**TBD** | **TBD**|
+|Household-Spouse| Last name|Y| N |**TBD** | **TBD**|
+|Household-Spouse| suffix|N| N |**TBD** | **TBD**|
 |Household-Spouse| Date of birth|Y| N | **TBD** | **TBD**|
 |Household-Spouse| Date of marriage|Y| N | **TBD** | **TBD**|
 |Household-Spouse|Did you live with your spouse for all or part of 2023?|Y| N | Determine whether the Spouse is a dependent in the previous year, which can have an impact on income thresholds and copays | **TBD**|
