@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: January 10, 2024** removed references to the MHV newsletter as that is no longer migrating to the notification settings page
+**Last Updated: 7/12/2024** removed references to the MHV newsletter as that is no longer migrating to the notification settings page
 
 ## Table of Contents
 - [POCs](#pocs)
