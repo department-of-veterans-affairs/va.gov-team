@@ -17,14 +17,14 @@ The following overview demonstrates the changes we'll be implementing for versio
         2. Location 
             1. Single consolidated field that accepts address 1, city, state, zip code
             2. `Use my location` feature to populate this location field
-   3. Optional fields
+   3. Optional field
       1. Search area 
          1. Default to 50 miles
          2. Drop down for user to slect additional options (5, 10, 25, 50, 100, 200 miles + show all)
    4. Advanced filters 🆕
-      2. Name of representative
-      3. Veteran Service Organization (drop down with all options) 🆕
-      4. Checkbox to only search for VSOs accepting digital submission 🆕
+      1. Name of representative
+      2. Veteran Service Organization (drop down with all options) 🆕
+      3. Checkbox to only search for VSOs accepting digital submission 🆕
 2. Display search results
    1. Filter results by
       1. Distance (Closest to farthest)
