@@ -32,8 +32,8 @@
 ```
 .*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).* 
   NOTE: these have to be done separately because of the appended GUID
-    .*health-care/appointment-check-in/appointment-details
-    .*health-care/appointment-check-in/complete
+    .*health-care/appointment-check-in/appointment-details.*
+    .*health-care/appointment-check-in/complete.*
   NOTE: For exandables
     .*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).*
 ```
