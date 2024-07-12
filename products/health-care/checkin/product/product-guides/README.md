@@ -10,12 +10,11 @@ Last uploaded: July 12, 2024
 
 ## Pre-Check-In
 
-Last uploaded: January 05, 2024
+Last uploaded: July 12, 2024
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/13843024/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
+- [PRE-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16199964/PRE-CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/13843027/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
-
+- [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16199963/PRE-CHECK-IN_PRODUCT_GUIDE.docx)
 
 ## Online Travel Reimbursement for Oracle Health (formerly Cerner) Facilities 
 
