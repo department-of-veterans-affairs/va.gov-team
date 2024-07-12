@@ -1,6 +1,7 @@
 # Analytics
 
 - [Metrics Dashboards for Reporting Purposes](#metrics-dashboards-for-reporting-purposes)
+- [GA4 Explore Reports' Regular Expressions for Pages](#ga4-explore-reports-regular-expressions-for-pages)
 - [VSignals Feedback](#vsignals-feedback)
 - [Medallia Feedback](#medallia-feedback)
 - [DataDog Dashboards](#datadog-dashboards)
@@ -14,7 +15,7 @@
   - [PCI GA4 Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/v08dnfMeRpi0OZRusDBV9w)
   - [PCI GA4 Pre-Check-in Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/fBTnZD1-T3SQ5HtcKHsT_A)
   - [PCI GA4 Travel Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/tPiLrf3xTV6yL_RPS8eFEA)
-  - [OH Travel GA4 Metrics]() - TBD
+  - [OH Travel GA4 Metrics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/iAXzqTMmQUCANjIKJbm3pA) - DRAFT
 - For audience count, completion count, verification rate, conversion rate, and error rate (based on API call successes/failures)
   - [PCI Datadog Metrics](https://vagov.ddog-gov.com/dashboard/be6-5ki-272?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716916715976&to_ts=1719508715976&live=true)
 - For overall PCI downtime (used to calculate uptime) & individual application latencies
@@ -25,6 +26,37 @@
     - Can select each application path individually to get individual customer satisfaction scores
 - [How to Generate an Analytics Report for Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/analytics/how-to-generate-analytics-report-for-stakeholders.md)
     - This needs to be updated based on the outcome of the meeting with Stephen & Jeff/Leah
+
+## GA4 Explore Reports Regular Expressions for Pages
+#### CHECK-IN
+```
+.*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details).* 
+  NOTE: these have to be done separately because of the appended GUID
+    .*health-care/appointment-check-in/appointment-details
+    .*health-care/appointment-check-in/complete
+  NOTE: For exandables
+    .*health-care/appointment-check-in/(verify|arrived|contact-information|emergency-contact|next-of-kin|details|appointment-details|complete).*
+```
+#### PRE-CHECK-IN
+```
+.*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin).*
+  NOTE: these have to be done separately because of the appended GUID
+     .*health-care/appointment-pre-check-in/complete.*
+  NOTE: For exandables
+    .*health-care/appointment-pre-check-in/(verify|introduction|contact-information|emergency-contact|next-of-kin|complete).*
+```
+#### TRAVEL IN CHECK-IN
+```
+.*health-care/appointment-check-in/(travel-review|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-agreement).*
+```
+#### OH TRAVEL
+```
+.*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement).*
+    NOTE: these have to be done separately because of the appended GUID
+      .*my-health/appointment-travel-claim/complete.*
+    NOTE: For exandables
+      .*my-health/appointment-travel-claim/(verify|travel-pay|travel-mileage|travel-vehicle|travel-address|travel-review|travel-agreement|complete).*
+```
 
 ## VSignals Feedback
 - [How to Request and Process VSignals Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin/research/VSignals)
