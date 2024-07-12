@@ -4,12 +4,12 @@
 <summary>Upcoming Appointment Details Page - At VA location </summary>
 
 ![VAappt](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/5c2a745e-7a9e-4e23-bbae-8e4165f6b48e)
-  
+
 </details>
 
 <details>
 <summary>Upcoming Canceled Appointment Details Page - At VA location </summary>
-  
+
 ![canceledVA](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/ac183e61-fc87-4c7d-bd00-bb664e1ca2d8)
 
 </details>
@@ -17,14 +17,13 @@
 <details>
 <summary>Upcoming Community Care Appointment Details Page </summary>
 
-  
+![bookCC](assets/bookedCC.png)
 </details>
 
 <details>
 <summary>Upcoming Canceled Community Care Appointment Details Page </summary>
 
 ![cancelbookCC](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/4692fca0-486f-4f43-8f5f-234ac7a2a4f8)
-
 
 </details>
 
@@ -40,11 +39,10 @@
 </details>
 
 <details>
-<summary>Upcoming Apointment Details Page - Video at home </summary>
+<summary>Upcoming Appointment Details Page - Video at home </summary>
 
 ![videoappt](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/e55c7844-e35b-4b25-89b9-346cd8b730f1)
 
-  
 </details>
 
 <details>
@@ -56,11 +54,10 @@
 
 ![cancelvideo](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/2244a8dc-edaf-4e3f-b33f-ef5fe0a5a7c7)
 
-
 </details>
 
 <details>
-<summary>Upcoming Apointment Details Page - Claims </summary>
+<summary>Upcoming Appointment Details Page - Claims </summary>
 
 ![bookClaims](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/2e2977b0-171d-4b44-952d-203c5568e257)
 
@@ -72,6 +69,9 @@
 
 <details>
 <summary>Upcoming Appointment Details Page - At ATLAS location </summary>
+
+![bookedATLAS](assets/bookedATLAS.png)
+
 </details>
 
 <details>
@@ -96,7 +96,7 @@
 <summary>Pending Community Care Appointment Details Page </summary>
 
 ![CCrequest](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/63f74709-6f74-4c76-bd13-a284e4b9101a)
-  
+
 </details>
 
 <details>
@@ -138,7 +138,6 @@
 <summary>Past Appointment Details Page - Claims </summary>
 
 ![staging va gov_my-health_appointments_past_fd76708a3a445644fb6a1d9d604f6346c70d42ba517d25cf1b7c3e5f112e317e(iPhone 12 Pro)](https://github.com/department-of-veterans-affairs/va.gov-team/assets/90797205/013c52a5-f476-4941-b671-f47a38e63940)
-
 
 </details>
 
