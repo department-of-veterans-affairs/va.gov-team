@@ -16,7 +16,7 @@
 
 <details>
 <summary>Upcoming Community Care Appointment Details Page </summary>
-![bookeCC](https://github.com/user-attachments/assets/c04d1158-92ba-475e-9e7e-a85f363a4472)
+![image](https://github.com/user-attachments/assets/26ed5202-e36b-4a49-b45e-20f751810459)
 
   
 </details>
