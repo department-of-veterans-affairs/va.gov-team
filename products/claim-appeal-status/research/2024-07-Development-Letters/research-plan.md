@@ -19,53 +19,45 @@ This work supports a Veteran whenever they are filing a disability compensation 
 ## Research Goals	
 1. Understand more about Veterans' experience with development letters today, including pain points and things that seem to be working.
 2. Evaluate the efficacy of the new 5103 Notice design. Is it clear what Veterans are being asked to do? Is it clear how it relates to the 5103 Notice letter?
-3. Asses how well our "content model" for 1P alerts works across a variety of different request types associated with development letters.
+3. Asses how well our "content model" for alerts works across a variety of different request types associated with development letters.
  
 
 ### Outcome
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+WIth this research plan, we can identify pain points in the current development letters Veteran experience that we might be able to help resolve with CST user experience improvements. We will also identify any issues with the new 5103 design and create a more user-tested model for how we should communicate information and action items for Veterans related to development letters in CST.
 
 ### Research questions
-Consider bucketing research questions under research goals. For each question, think about:
-- What will I do with what I learn from this question?
-- Does this question serve the goals of my study?
-- Do not write out all questions you plan to ask participants -- that should go in the [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) 
+
+Part 1: Understanding development letters experience
+- Do you remember receiving letters from the VA while you were waiting for your claim?
+- What was the contents of the letters you received?
+- Was there anything particularly frustrating about your experience with these letters?
+- What would have made the experience better?
+- Did these letters help the process in any way?
+
+Part 2: Review 5103 design
+- Looking at this design, what do you think you need to do here?
+- Where would you go to find your letter?
+- What action, if any, would you take?
+- Is there anything confusing about this?
+
+Part 3: Review other benefit letter types
+- Looking at this design, what do you think you need to do here?
+- Where would you go to find your letter?
+- What action, if any, would you take?
+- Is there anything confusing about this?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
-- What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study. 
-- Remember to constrain the hypothesis to the goals of your study!
+
+- Veterans will have some confusing or frustrating experiences with development letters while their claim was being processed.
+- There are opportunities to improve the experience of receiving development letters by including them in CST.
+- The new 5103 design makes it clear to Veterans what the 5103 Notice letter is for and what is being asked of them.
+- The "content model" works to make various types of development letters and their notifications clear and actionable in CST.
 
 ## Methodology	
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design. 
-
-Examples of common research methods include: 
-- Semi-structured interviews - appropriate for generative research
-- Contextual inquiry - appropriate for generative research
-- Card sorts - appropriate for generative and evaluative research; depending on the study design 
-- Tree tests - appropriate for evaluative research
-- Usability testing - appropriate for evaluative research
-- User acceptance testing (UAT) - required before product release
-
-Additional resources:
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+Semi-structured interview
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-If remote, include your preferred video conferencing software. Choice of: Zoom, GoTo Meeting; WebEx.
-
-If in person, include:
-- Location
-- Point of contact
-- Equipment used for research
+Remote on Zoom
 
 ### Research materials
 *Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
