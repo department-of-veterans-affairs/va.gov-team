@@ -85,6 +85,9 @@ While we’re in read-only mode, can you confirm the following payment informati
 
 _After confirming bank info with participant:_ Next, we’re going to double-check this same information on the back-end of this page. I’d like to direct your attention to a little tool we’ve temporarily added to this page for the purposes of this testing session.
 
+**
+Use flipper feature profile_use_experimental**
+
 `describe what the dev tool widget looks like and what the participant needs to do to make the contents visible.`
 ![image](https://github.com/user-attachments/assets/e3ca7bd7-605a-4d1a-a2af-0afe69bba309)
 
