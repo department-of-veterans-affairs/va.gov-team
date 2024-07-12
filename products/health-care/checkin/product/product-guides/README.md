@@ -2,12 +2,11 @@
 
 ## Check-in (or eCheck-in)
 
-Last uploaded: March 7, 2024
+Last uploaded: July 12, 2024
 
-- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/14530752/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
+- [E-CHECK-IN_PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/16199282/PATIENT.CHECK-IN_PRODUCT_GUIDE.pdf)
 
-- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/department-of-veterans-affairs/va.gov-team/files/14530754/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
-  
+- [E-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16199283/PATIENT.CHECK-IN_PRODUCT_GUIDE.docx)
 
 ## Pre-Check-In
 
