@@ -16,7 +16,6 @@
 
 <details>
 <summary>Upcoming Community Care Appointment Details Page </summary>
-![image](https://github.com/user-attachments/assets/26ed5202-e36b-4a49-b45e-20f751810459)
 
   
 </details>
