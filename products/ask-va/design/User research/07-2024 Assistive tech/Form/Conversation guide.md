@@ -233,39 +233,39 @@ As you navigate, you can share things with me that are frustrating or not workin
 
 > Screen: Category
 
-Note: They can choose `Health care`.
+- Note: They can choose `Health care`.
 
 > Screen: Topic
 
-Note: They can choose `Getting care at a local VA medical center`.
+- Note: They can choose `Getting care at a local VA medical center`.
 
 > Screen: Who is your question about?
 
-Note: They can choose `Myself`.
+- Note: They can choose `Myself`.
 
 > Screen: What is your relationship to the Veteran?
 
-Note: They can choose `I'm the Veteran`.
+- Note: They can choose `I'm the Veteran`.
 
 > Screen: Your VA health facility
 
-Note: They can choose their actual VA health facility or any facility.
+- Note: They can choose their actual VA health facility or any facility.
 
 > Screen: Your contact information
 
-Note: They can choose to be contacted by email or phone, but not mail.
+- Note: They can choose to be contacted by email or phone, but not mail.
 
 > Screen: Your postal code
 
-Note: They can input their actual post code or any post code.
+- Note: They can input their actual post code or any post code.
 
 > Screen: Your question
 
-Note: They can input any question or text.
+- Note: They can input any question or text.
 
 > Screen: Review and submit
 
-Note: They should practice editing one field, for example, phone number.
+- Note: They should practice editing one field, for example, phone number.
 
 > Screen: Confirmation page
 
