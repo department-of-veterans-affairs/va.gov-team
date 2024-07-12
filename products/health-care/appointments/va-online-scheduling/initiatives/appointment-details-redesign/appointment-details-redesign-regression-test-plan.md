@@ -66,16 +66,17 @@
 ### Test Users 
 - [X] [VAOS test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vaos.md)
 
-### Summary Defect Report
-- [ ] TBD 
-
 ### Traceability Report 
-- [ ] [Appointments]()
+- [X] [Appointments](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
 ### E2E tests 
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
-- [ ] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
+- [X] [VA appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVA.util.jsx)
+- [X] [Telehealth appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVideo.jsx)
+- [X] [Community Care appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsCC.jsx)
 
 ### Code coverage
 - [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
-- [ ] [Product's code link](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/appointment-list/components/AppointmentsPageV2)
+- [X] [VA appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVA.util.jsx)
+- [X] [Telehealth appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVideo.jsx)
+- [X] [Community Care appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsCC.jsx)
