@@ -302,6 +302,7 @@ async function createCompletedTicket(title, milestone) {
     repo,
     title,
     milestone,
+    body: 'This ticket is for Platform tracking purposes only. There is no VFS action needed.',
     labels: [EVENT_LABEL, 'governance-team']
   });
   return number;
