@@ -1,7 +1,7 @@
 
 
 
-# Research Plan for Debt Resolution Team, Debt Portal payment history, June - July 2024
+# Research Plan for Debt Resolution Team, VBA Debt Portal payment history, June - July 2024
 ## Evaluative usability study (60 minutes)
 
 
