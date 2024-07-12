@@ -120,5 +120,7 @@ We won't be surfacing provider availability in a way that lets Veterans compare 
 - For nutrition and food, we're just showing providers where the Veteran with whom a Veteran has had an encounter in the past 36 months.
 - We don't have a situation where a Veteran can choose from any provider, whether or not they have a provider. Once that comes up, we can revisit this. 
 
+We will not be including Building, Floor, or room number. Context: Fetching Encounters along with appointments increases request times.
+Not all Encounters include building and floor information in the display string, likely due to missing details in the Location resource.
 
 
