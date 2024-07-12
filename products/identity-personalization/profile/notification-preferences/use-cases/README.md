@@ -4,7 +4,7 @@
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the only thing they can access in profile is the Account Security section.
 
 ## Users
-- see user list in the sensitive repo
+- [see user list in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/default-send/qa-default-send.md)
 
 ## Common use cases
 ### User logs in with LOA1 account
