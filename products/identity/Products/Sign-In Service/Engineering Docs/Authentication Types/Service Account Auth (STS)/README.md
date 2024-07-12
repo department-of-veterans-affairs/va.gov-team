@@ -11,11 +11,11 @@ The Service Account Auth (STS) mechanism provides secure server-to-server access
 2. [Configuration](configuration/service_account.md)
    <br>Provides step-by-step instructions on configuring your environment, including setting up private and public keys and defining the necessary scopes.
 
-3. [Endpoints](#endpoints)
+3. [Endpoints](endpoints/token.md)
    <br>Describes the endpoints available for requesting tokens and accessing protected routes.
 
-4. [Flow Diagrams](#flow-diagrams)
+4. [Flow Diagrams](flow%20diagrams/service_account/access_token_request.png)
    <br>Contains visual representations of the authentication flow.
 
-5. [Postman](#postman)
+5. [Postman](postman/postman.md)
    <br>Instructions on setting up and using the `VA.gov Identity - Service Account Auth (STS)` Postman Collection to test the authentication flow.
