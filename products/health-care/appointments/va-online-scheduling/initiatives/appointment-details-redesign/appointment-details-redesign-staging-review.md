@@ -36,6 +36,8 @@
 
 <details>
 <summary>Upcoming Canceled Appointment Details Page - Phone appointment </summary>
+
+![cancelledPhone](assets/cancelledPhone.png)
 </details>
 
 <details>
@@ -65,17 +67,21 @@
 
 <details>
 <summary>Upcoming Canceled Appointment Details Page - Claims </summary>
+
+![Cancelled Claim Exam](assets/cancelledClaimExam.png)
 </details>
 
 <details>
 <summary>Upcoming Appointment Details Page - At ATLAS location </summary>
 
-![bookedATLAS](assets/bookedATLAS.png)
+![Booked ATLAS](assets/bookedATLAS.png)
 
 </details>
 
 <details>
 <summary>Upcoming Canceled Appointment Details Page - AT ATLAS location </summary>
+
+![Cancelled ATLAS](assets/cancelledATLAS.png)
 </details>
 
 <details>
