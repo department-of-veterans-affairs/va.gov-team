@@ -141,7 +141,7 @@ We are looking for 8 (4 Screen Magnifier + 4 Screen Reader) Veterans to particip
 
 Participants for this study: 8 Veterans. 
 
-We would like to request a kickoff call with Perigean. Requested date/time: Monday July 15th for 30 minutes between 9:30AM - 12:45PM EST, or 3:00-5:00PM EST  
+We would like to request a kickoff call with Perigean. Requested date/time: Monday July 15th for 30 minutes between 9:30AM - 12:45PM EST, or 3:00-5:00PM EST  or Tuesday July 16th 9:30 AM - 12:45 EST, or 3:00PM - 5:00PM EST 
 
 
 ### Primary criteria (must-haves)
