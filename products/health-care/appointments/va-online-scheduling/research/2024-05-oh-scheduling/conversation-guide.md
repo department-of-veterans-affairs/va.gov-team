@@ -111,6 +111,10 @@ Prompt: How would you schedule an appointment from here?
 
 Prompt: Tell me about this page. 
 
+Question: Can you go through what you think would happen if you click each of these buttons or links? Just describe what you think, they are not connected to anything. 
+
+Question: Is there anything here you see that you don't think is useful?
+
 Question: What do you expect the "Don't show this again" option would do?
 
 Question: How do you feel about this page?
@@ -161,7 +165,7 @@ Question: If you wanted to schedule with someone else, what do you think that wo
 
 Prompt: Tell me about this page.
 
-Prompt: You would like an appointment for 6/11 date. Show me how you would schedule that.
+Prompt: You would like an appointment for 8/11 date. Show me how you would schedule that.
 
 **Choose a date and time** 
 
@@ -171,7 +175,7 @@ Question: How is this different from the last page?
 
 Question: If you wanted to find a date in December, can you explain what would you do? (do they want to go back to PID or toggle through the months?)
 
-Prompt: You want to schedule for the 7/22 at 12. 
+Prompt: You want to schedule for the 8/22 at 12. 
 
 **Finish making the appointment**
 
@@ -218,9 +222,9 @@ Prompt: You have been doing physical therapy once a every few weeks and you need
 
 **PID**
 
-Prompt: You would like an appointment for June 16.
+Prompt: You would like an appointment for August 16.
 
-Prompt: It looks like June 16 isn't available - The next date that will work for you is July 26 at 2:00pm. Go ahead and select that date and time
+Prompt: It looks like Aug 16 isn't available - The next date that will work for you is August 26 at 2:00pm. Go ahead and select that date and time
 
 **Reason for appointment**
 
@@ -286,12 +290,6 @@ Prompt: Tell me about this page.
 Prompt: Tell me about each of the notifications on this page.
 
 Prompt: (If needed) I'm interested to hear what you think they're for, and where the link on each one might take you.
-
-### Scenario 4 Questions
-
-Question: Of everything you just saw, what was the most helpful?
-
-Question: What was the most confusing?
 
 
 ## Post-Task Interview
