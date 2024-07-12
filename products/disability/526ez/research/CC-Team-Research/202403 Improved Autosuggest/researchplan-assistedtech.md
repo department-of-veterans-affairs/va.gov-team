@@ -141,7 +141,7 @@ We are looking for 8 (4 Screen Magnifier + 4 Screen Reader) Veterans to particip
 
 Participants for this study: 8 Veterans. 
 
-We would like to request a kickoff call with Perigean. Requested date/time: _Friday July 12th, Monday July 15th or Tuesday July 16th_
+We would like to request a kickoff call with Perigean. Requested date/time: Monday July 15th for 30 minutes between 9:30AM - 12:45PM EST, or 3:00-5:00PM EST  
 
 
 ### Primary criteria (must-haves)
@@ -308,7 +308,7 @@ Pilot session information
 
 We are planning to conduct research the weeks of July 22nd and July 29th 
 
-Length of Sessions: 45 minutes for screen magnification (cohort 1) and 90 minutes for screen reader (cohort 2) 
+Length of Sessions: 45 minutes for screen magnification (cohort 1) and 90 minutes for screen reader (cohort 2). Recruitment is done for two cohorts, but sessions can be scheduled anytime within the times listed below and can mix between cohorts. 
 
 - Buffer time between sessions: 30 minutes 
 
