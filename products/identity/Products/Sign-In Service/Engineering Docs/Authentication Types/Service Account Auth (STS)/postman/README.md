@@ -10,12 +10,12 @@ The collection is available for download here: [VA.gov Identity - Service Accoun
 
 1. **Private Key**: Ensure you have the private key available for signing the JWT.
 2. **Service Account Config**: Ensure you have a service account config on the environment you are making the request to.
-    1. Make sure you have the necessary info from your config to correctly create the JWT
-      - [ ] `iss` -> `ServiceAccountConfig.access_token_audience`
-      - [ ] `aud` -> The route you are making the request to (the token route) `https://staging-api.va.gov/v0/sign_in/token`
-      - [ ] `service_account_id` -> `ServiceAccountConfig.service_account_id`
-      - [ ] `sub` -> email of the user or some other identifier
-      - [ ] `scopes` -> `ServiceAccountConfig.scopes`
+    1. You will need these attributes to create your JWT assertion
+        - `iss` -> `ServiceAccountConfig.access_token_audience`
+        - `aud` -> The route you are making the request to (the token route) `https://staging-api.va.gov/v0/sign_in/token`
+        - `service_account_id` -> `ServiceAccountConfig.service_account_id`
+        - `sub` -> email of the user or some other identifier
+        - `scopes` -> `ServiceAccountConfig.scopes`
 
 ## Step-by-Step Instructions
 
