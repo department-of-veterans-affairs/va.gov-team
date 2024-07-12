@@ -105,11 +105,11 @@ Before we look at the website, let’s talk a bit about your experience filing f
 
 Thanks for sharing your experience with me. We’re going to shift gears and move into looking at the submission designs.
 
-You’ll be interacting with a prototype, which is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it’s a demo, none of your actions will affect your VA information or benefits.
+You’ll be interacting with a , which is a demo tool that may not function exactly the way you expect. Some areas of the  will be clickable, and some will not. Since it’s a demo, none of your actions will affect your VA information or benefits.
 
-I am going to drop a link to the prototype in the Zoom chat. When you receive the link, please open the page.
+I am going to drop a link to the  in the Zoom chat. When you receive the link, please open the page.
 
-[Prototype link]([https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1&show-proto-sidebar=1&starting-point-node-id=5626%3A130341))
+[Prototype link](https://www.figma.com/proto/qyTtKDOTHZPGU59PAfqVhq/Submission-Experience?node-id=5626-130341&t=pNM9YNKaPaTs2lbo-1&show-proto-sidebar=1&starting-point-node-id=5626%3A130341)
 
 Next, I’d like you to share your screen for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot!
 
