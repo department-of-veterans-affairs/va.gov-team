@@ -37,6 +37,10 @@ As of September 2023, the VA Benefits taxonomy is launched to production in the 
 
 ### Evaluation criteria 
 
+### Artifacts
+- [Recorded presentation](https://us06web.zoom.us/rec/share/4u4dw63AwUGcUQe8IkTF9qRC5TYr7xa1CsAQ3bh-u4Hgn2xF7SsApAUy55NAHt_8.Brndd38-G5o4DGwe?startTime=1720726012000) (by Dave Pickett) about the Taxonomy and how this piece of work fits into it
+  - Passcode: Kf#56B?j
+
 ## Project Plan for MVP In scope
 
 ### 👉🏼 Benefit Name / VA Benefit API ID
