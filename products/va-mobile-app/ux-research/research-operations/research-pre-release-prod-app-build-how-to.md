@@ -15,8 +15,10 @@ _[NNG: Conducting Usability Testing with Real Users' Real Data](https://www.nngr
 
 * Account for about 15 minutes of app installation and setup during the research session, and additional time in case of technical difficulties.
 * For a more seamless/easy installation (where it is also not necessary to collect any App store ID’s in advance), consider limiting the testing device type to iOS (iPhones and iPads).
-    *  On iOS, the Testflight link opens a webpage with links (and instructions) to download both Testflight and the app’s test build so the participant can easily switch apps to return to the screen:   
-[image]  
+    *  On iOS, the Testflight link opens a webpage with links (and instructions) to download both Testflight and the app’s test build so the participant can easily switch apps to return to the screen:  
+      
+       <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-beta-link.PNG" width="300" alt="Testflight beta link">  
+
 Given the current app distribution setup, installing a build from a link on Android (using Firebase) requires a more involved set of steps, and can be more variable due to differences in operating system Settings between device manufacturers. 
 * Plan to [guide the participant through installation at the start of the session](https://docs.google.com/document/d/1QI_SqEC1nJNHFD9VbsbjlRubvxCo0vKL2n8lDTAbHsM/edit#heading=h.bb0zvoiv64ag), after the introduction/consent but before any warm-up questions. Doing it in this order ensures that participants will still answer some planned questions, even if technical issues prevent them from getting the app installed and logged in. It also prevents the moderator from making up questions on the spot.
 * Have the recruiter confirm and get consent in advance—preferably right before the sessions—that participants:
@@ -45,13 +47,11 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
 ###  Example script for conversation guide
 
 
-#### App Install & log in
+#### App Install & login
 
 *Once a participant has joined the meeting using Zoom on their mobile device and is sharing their screen, follow these steps to install the VA mobile app.*
 
 **Installation**
-
-
 
 * First thing we want to do—if you're an app user—is to remove the current version from your phone. _(help them do that)_
 * Like I mentioned earlier, now I'm going to send you a special, future version of the VA mobile app in the Zoom chat... Please go ahead and tap on the link to open it on your phone. [link to iOS App build](https://testflight.apple.com/join/65PnVx09)
@@ -59,10 +59,15 @@ Example [App setup & screenshare](https://github.com/department-of-veterans-affa
         * Scroll to the first button that says “View in App Store”
         * Tap to Install Testflight
             * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
-        * Now we’re going to navigate back to that screen we were looking at in the browser. Go ahead and do that. Ok, here we are.
+        * Now we’re going to navigate back to that screen we were looking at in the browser. Go ahead and do that. Ok, here we are.  
+
+         <img src="/products/va-mobile-app/ux-research/research-operations/images/Zoom-testflight-link.PNG" width="200" alt="Zoom chat TestFlight  link">   <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-appstore-1.PNG" width="200" alt="TestFlight in app store">
+
 * Scroll down the screen til you get to a button that says ‘Start Testing’ to tap to download and install the VA health & benefits mobile app. I will help you uninstall the app at the end of the conversation.
     * Tap Don’t Allow, then tap Continue.
-    * Now go ahead and tap Install.
+    * Now go ahead and tap Install.  
+
+      <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-beta-link.PNG" width="200" alt="TestFlight beta link">   <img src="/products/va-mobile-app/ux-research/research-operations/images/testflight-appstore-2.PNG" width="200" alt="TestFlight in app store">  
     * _If they can’t download the app successfully, try again but then [skip to Warm-Up questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/ux-research/personalized-homescreen/2024-02%20Personalized%20Home%20Screen%20-%20evaluative%20research/personalized%20home%20screen%20-%20conversation%20guide.md#section-2-warm-up-questions-5-minutes)._
 * Ok, tap Open to open the app.
     * Tap the Next button, then tap Start Testing.
