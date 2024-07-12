@@ -23,7 +23,7 @@ This work supports a Veteran whenever they are filing a disability compensation 
  
 
 ### Outcome
-WIth this research plan, we can identify pain points in the current development letters Veteran experience that we might be able to help resolve with CST user experience improvements. We will also identify any issues with the new 5103 design and create a more user-tested model for how we should communicate information and action items for Veterans related to development letters in CST.
+We identify pain points in the current development letters Veteran experience that we might help resolve with CST user experience improvements. We will also identify any issues with the new 5103 design and solidify a user-validated model for how we should communicate information and action items related to development letters in CST.
 
 ### Research questions
 
