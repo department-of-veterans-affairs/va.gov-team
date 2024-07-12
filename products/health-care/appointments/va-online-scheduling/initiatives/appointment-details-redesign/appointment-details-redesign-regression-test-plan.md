@@ -70,13 +70,13 @@
 - [X] [Appointments](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/unit-test-coverage-report/)
 
 ### E2E tests 
-- [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
+- [X] [File path:](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
 - [X] [VA appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVA.util.jsx)
 - [X] [Telehealth appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVideo.jsx)
 - [X] [Community Care appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsCC.jsx)
 
 ### Code coverage
-- [ ] File path: `vets-website/src/applications/vaos/appointment-list/components/AppointmentsPageV2`
+- [X] [File path:](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/vaos/tests/e2e/workflows/appointment-list-workflow)
 - [X] [VA appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVA.util.jsx)
 - [X] [Telehealth appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsVideo.jsx)
 - [X] [Community Care appointment details](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/vaos/appointment-list/components/ConfirmedAppointmentDetailsPage/DetailsCC.jsx)
