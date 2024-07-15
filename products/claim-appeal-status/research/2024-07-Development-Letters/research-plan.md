@@ -1,11 +1,11 @@
 # (WIP) Research Plan: Development Letters
 
 ## Background
-Veterans can currently access certain types of letters digitally on the Claim Letters page. But there are a number of "development letters" and other correspondence letters that the VA sends to Veterans that we want to also include on the page for easy access.
+Veterans can currently access decision letters and 5103 Notice letters from the Claim Letters page. There are a number of "development letters" and other correspondence letters that the VA sends to Veterans that we want to also make available on this page for easy access.
 
-As we introduce these letters to the Claim Letters page, we need to better understand the current experience for Veterans of receiving development. What are some pain points in that process that we might be able to help with by adding these letters to CST? 
+As we introduce these letters to the Claim Letters page, we need to better understand the current experience of Veterans who receive development letters. What are some pain points in the current process that we might be able to help resolve by adding these letters to CST? 
 
-Development letters will also include tracked items, which show up as alerts in CST for Veterans to take action on. Many times this involves an evidence request, but not always. With the 5103 redesign we have established a baseline for a new UI flow to improve this experience. With this research we want to test the efficacy of that design, and also see how this design might scale to all tracked items associated with development letters.
+Development letters will also include tracked items, which show up as alerts in CST for Veterans to take action on. Many times these involve evidence requests, but not always. With the 5103 redesign we have established a new UI flow to improve the experience of seeing a 1P alert for a tracked item with a new letter in the Claim Letters page. In this research we want to test the efficacy of that design, and see how this design might scale to other tracked items associated with development letters.
 
 
 ### OCTO Priorities 
@@ -23,7 +23,7 @@ This work supports a Veteran whenever they are filing a disability compensation 
  
 
 ### Outcome
-We identify pain points in the current development letters Veteran experience that we might help resolve with CST user experience improvements. We will also identify any issues with the new 5103 design and solidify a user-validated model for how we should communicate information and action items related to development letters in CST.
+Identify pain points in the current development letters experience that we might help resolve with CST user experience improvements. Identify any issues with the new 5103 design and solidify a user-validated model for how we should communicate information and action items related to development letters in CST.
 
 ### Research questions
 
@@ -32,7 +32,7 @@ We identify pain points in the current development letters Veteran experience th
 - What was the contents of the letters you received?
 - Was there anything particularly frustrating about your experience with these letters?
 - What would have made the experience better?
-- Did these letters help the process in any way?
+- Did these letters make things easier in any way?
 
 **Part 2: Review 5103 design**
 - Looking at this design, what do you think you need to do here?
@@ -48,7 +48,7 @@ We identify pain points in the current development letters Veteran experience th
 
 ### Hypothesis
 
-- Veterans will have some confusing or frustrating experiences with development letters while their claim was being processed.
+- Veterans will have had some confusing or frustrating experiences with development letters while their claim was being processed.
 - There are opportunities to improve the experience of receiving development letters by including them in CST.
 - The new 5103 design makes it clear to Veterans what the 5103 Notice letter is for and what is being asked of them.
 - The "content model" works to make various types of development letters and their notifications clear and actionable in CST.
@@ -89,10 +89,10 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 We would like to recruit 20 Veterans for this study.
 
 **Primary criteria (must-haves)**
-Veterans must have a claim that is currently being processed, or have had a claim that was processed in the past 5 years.
+Veterans must have filed a disability compensation claim with the VA in the past 2 years.
 
 **Screener question**
-> Have you filed a disability compensation claim with the VA in the last 5 years?
+> Have you filed a disability compensation claim with the VA in the last 2 years?
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
