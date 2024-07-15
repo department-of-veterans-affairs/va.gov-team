@@ -108,7 +108,7 @@
 | The order of [Tab] stops made sense and was appropriate for completing tasks | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
 
 
-| In-person, Canceled: General accessibility| Test | Test result | Issue | 
+|  In-person, Canceled: General accessibility| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
 | All text of 20px or smaller has a 4.5:1 contrast ratio to its background (or better) | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
 | All text of 20px or larger has a 3:1 contrast ratio to its background (or better)| [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
@@ -127,7 +127,7 @@
 | The order of [Tab] stops made sense and was appropriate for completing tasks | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
 
 
-| Phone, upcoming: General accessibility| Test | Test result | Issue | 
+|  Phone, upcoming: General accessibility| Test | Test result | Issue | 
 | ------- | ---------- | ----- | ----- |
 | All text of 20px or smaller has a 4.5:1 contrast ratio to its background (or better) | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
 | All text of 20px or larger has a 3:1 contrast ratio to its background (or better)| [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| Passed	| N/A|
@@ -180,3 +180,21 @@
 | Each link, button, form input, checkbox, radio button, select menu, and custom element responds to expected keys | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| TBD	| N/A|
 | All elements under focus have a visible focus indicator | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| TBD	| N/A|
 | The order of [Tab] stops made sense and was appropriate for completing tasks | [Run through foundational accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=briandeconinck&labels=a11y-testing&template=a11y-testing.yaml&title=Accessibility+Testing+for+%5BTeam+Name%2C+Product+Name%2C+Feature+Name%5D)	| TBD	| N/A|
+
+
+Here's the simplified template:
+
+### Upcoming Appointments
+- [ ] **Phone**
+- [ ]  **In Person**
+- [ ]  **Video**
+
+### Pending Appointments
+- [ ]  **Phone**
+- [ ]  **In Person**
+- [ ]  **Video**
+
+### Canceled Appointments
+- [ ]  **Phone**
+- [ ]  **In Person**
+- [ ]  **Video**
