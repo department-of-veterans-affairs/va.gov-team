@@ -1,9 +1,14 @@
 # Running Design and Research Agenda
 ## July 15, 2024
-### Notes
 - Attendees: Premal Shah, Jamie Fiore, Syd Hoeper, Steven Straily, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
 - Facilitator: Steven
 - Next meeting facilitator: TBD
+- Agenda Topics
+  - Priority for CHAMPVA stakeholder readout
+  - New cadence for CHAMPVA registration meeting
+  - Premal to reach out for information/feedback on IVC team presentation
+  - Pre-fill changes for FMP Reg and Claim walkthrough
+### Notes
 - Priority for CHAMPVA stakeholder readout
   - The earliest we can do the read-out is 2 1/2 weeks from now.
   - Target Sprint 23 for doing the readout.
