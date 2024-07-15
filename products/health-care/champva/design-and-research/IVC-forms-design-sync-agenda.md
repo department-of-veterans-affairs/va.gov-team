@@ -10,7 +10,7 @@
   - Live presentation to be given on what the team has done so far and the impact of our work.
 - Pre-fill changes for FMP Reg and Claim walkthrough
   - Premal: Be aware of the LOA restrictions.
-  - Premal: Make sure the different forms are aligned and be aware that we don't want things to cause delays currently.
+  - Premal: Make sure the different forms are aligned and inform me if they are going to be possible delays in going to production.
 - Confirmation emails and page
   - Bo: Plug in a number on the page for if you haven't seen an email in X number of days.
   - Bo: We may want to line up VA notify and Figma at some point.
