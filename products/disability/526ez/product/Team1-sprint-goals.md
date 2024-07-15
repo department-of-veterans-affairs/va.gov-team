@@ -1,6 +1,6 @@
 # Sprint goals for Benefits Disability Experience Team1 (DBEX-TREX)
 
-## Sprint 35
+## Sprint 1
 Period - 07/03/2024 - 07/16/2024
 * **Toxic Exposure**
   * Fix validation errors and perform end to end testing for release 1.0, automate polling job for 526 PDF
