@@ -88,7 +88,7 @@ We request that Perigean:
 
 > Thank you for participating in our upcoming study. Before we meet we’d like you to answer a few questions please.
 >
-> How would you prefer to receive a link to the prototype during the session? By email, text or through Zoom?
+> How would you prefer to receive a link to the prototype during the session? By email, through Zoom chat or dictated aloud?
 >
 > On the call, we’ll have an accessibility specialist with us. Are there any other accommodations that would be helpful during your session?
 >
