@@ -1,7 +1,10 @@
-# Design decisions tracker
+# Design decisions tracker (most recent to least)
 Started June 26, 2024
 
-## Past decisions 
+### Landing page content for no-access alerts
+
+
+## Past decisions
 Decisions made before June 26, 2024 (starting with most recent)
 
 ### Update text size
