@@ -135,7 +135,7 @@ Okay, great. We're going to do that now. So, if you have any windows open that y
   - `IF YES` Please share your screen when you're ready.
   - `IF NO` I’ll help guide you through how to share your screen...
 
-> [Open link to screen reader instructions to assist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
+> [If needed, refer to screen reader instructions to assist](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur#Screenreaderinstructionsandtroubleshootingduringresearch-Settingupthescreenshare).
 
 > Screen sharing starts.
 
