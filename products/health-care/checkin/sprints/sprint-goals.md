@@ -109,8 +109,8 @@
       - ✔️ ❗🟨 [[DevOps] Complete ATO Control Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87382)
       - ❗🟨 [[DevOps] Build an inventory of all AWS resources in vaec-cms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86930)
       - ❗🟨 [[DevOps] Proof-of-concept NodeJS system test.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86889)
-      - ❗🟨 [[DevOps] Discovery on Vista API ECS resources](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86873)
-      - ❗🟨 [[DevOps] Create Vista API ECS Terraform module](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86519)
+      - ✔️ ❗🟨 [[DevOps] Discovery on Vista API ECS resources](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86873)
+      - ✔️ ❗🟨 [[DevOps] Create Vista API ECS Terraform module](https://github.com/department-of-veterans-affairs/va.gov-team/issues/86519)
 - **GOAL: Make submission of a travel reimbursement claim easier**
     - **Sub Goal: Integrate with claim_status endpoint for handling BTSSS API timeout**
        - ❗🟦 [[BE] Create new worker for travel claim status check to call claim_status api](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84763)
