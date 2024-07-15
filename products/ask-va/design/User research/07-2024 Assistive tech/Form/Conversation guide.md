@@ -2,7 +2,7 @@
 
 Ask VA VA.gov Team
 
-Last updated by @tygindraux: July 12, 2024
+Last updated by @tygindraux: July 15, 2024
 
 ## Moderator logistics
 
@@ -11,7 +11,8 @@ Last updated by @tygindraux: July 12, 2024
 - [ ] Review guidelines for moderating
 - [ ] Review research goals
 - [ ] Review prototype
-- [ ] Review participant list for name and screen responses
+- [ ] Review participant list for name and screener responses
+- [ ] Review [screen reader instructions and troubleshooting during research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur)
 
 ### 10 minutes before the session
 
