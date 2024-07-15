@@ -1,16 +1,19 @@
 ---
 name: Orientation feedback ticket
 about: Template for Platform team to provide feedback to Governance re: Platform Orientation
-title: ''
+title: Platform Orientation feedback ticket from XX team
 labels: governance-team
 assignees: ''
 
 ---
 
+This ticket is for reporting to Governance the state of all materials referenced in the Platform Orientation process. If you have any questions or concerns, please contact Governance team on Slack using the @platform-governance-team-members group on the #platform-team channel. Thank you. 
+
+- [ ] Update title of ticket with your teams name
+
 ## ALL Platform Teams
-
-Platform Team name:
-
+- [ ] Review the [New VFS Team Member template](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/.github/ISSUE_TEMPLATE/orientation-feedback.md)
+- [ ] Review the [New VFS Team template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=platform-orientation%2C+new-vfs-team%2C+platform-tech-team-support&projects=&template=new-vfs-team.md&title=New+VFS+Team+%5BInsert+team+name+here%5D)
 - [ ] Verify all links/references are accurate
    - [ ] If a broken link or wrong reference is identified, please include details below:
 - [ ] Verify there are no gaps in what new team and team members need to know about Platform
