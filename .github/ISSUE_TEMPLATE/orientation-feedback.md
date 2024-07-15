@@ -1,5 +1,5 @@
 ---
-name: Orientation feedback ticket
+name: Platform Orientation feedback template
 about: Template for Platform team to provide feedback to Governance re: Platform Orientation
 title: Platform Orientation feedback ticket from XX team
 labels: governance-team
