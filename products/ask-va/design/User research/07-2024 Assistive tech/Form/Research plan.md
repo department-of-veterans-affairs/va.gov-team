@@ -64,15 +64,14 @@ This research will help us document and prioritize any bugs or usability issues 
 
 ## Methodology
 
-We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts.
-
-After each user, we will reset test user account passwords following [this guidance](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960).
+We will run a moderated usability study remotely on Zoom. We will test in staging using test user accounts. 
 
 ### Research materials
 
 * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Conversation%20guide.md)
 * [Staging link](https://staging.va.gov/contact-us/ask-va-too/introduction)
-* [How to reset test user account passwords](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76960)
+* [How to create a new test user account](https://app.zenhub.com/workspaces/ask-va-647a476551689d06655cc815/issues/gh/department-of-veterans-affairs/ask-va/1218)
+* [List of test user accounts created for this study](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md)
 	
 ## Recruitment	
 
