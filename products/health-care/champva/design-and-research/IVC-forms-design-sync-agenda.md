@@ -8,6 +8,7 @@
   - New cadence for CHAMPVA registration meeting
   - Premal to reach out for information/feedback on IVC team presentation
   - Pre-fill changes for FMP Reg and Claim walkthrough
+  - Confirmation emails and page
 ### Notes
 - Priority for CHAMPVA stakeholder readout
   - The earliest we can do the read-out is 2 1/2 weeks from now.
