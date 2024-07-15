@@ -254,7 +254,7 @@ When asked to imagine how they might use the homescreen of the app to help them 
       7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
    
 
-#### 3. Do participants **understand** **what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
+#### 3. Do participants **understand what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
 
 The home screen contains two primary sections, the Activity section (containing feature modules) and About you (containing the user’s branch of service, proof of Veteran status, disability rating and monthly payment. Findings are reported by section.  
 
@@ -265,11 +265,13 @@ The home screen contains two primary sections, the Activity section (containing 
 
 * When asked to describe what the list of Activity modules "are," participants described the the section in two different ways, and had corresponding expectations about how they expected the Activity modules to behave in situations when there was no data to display: 
 
-  * 8/13 participants described the Activity section as containing “Active/pending” items (and expected a conditional appearance—the module would disappear if there was not an active item)
+  * 8/13 participants described the Activity section as containing “**Active/pending**” items (and expected a conditional appearance—the module would disappear if there was not an active item)
      * 5 of the participants who described the Activity sections as active/pending items also described the modules as a "shortcut" and/or the category screen entry point as "the long way."
-  * 5/13 participants described the Activity section as containing “Most used items/top stuff” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
+  * 5/13 participants described the Activity section as containing “**Most used items/top stuff**” (and expected a fixed appearance—the module would show a number when active and a "0" or a blank space when there was no data to display).
 
-   When asked what (if any) other items they thought would be helpful to include in the Activity area, participants also expected to see:
+  Participants who reported being users of MyVA (5/7) and the VA mobile app (6/8) more frequently described the Activity section as "things that are active/pending" than as "most used/top stuff."
+
+*  When asked what (if any) other items they thought would be helpful to include in the Activity area, participants also expected to see:
    * (5) Appointments*
    * (3) Messages from their provider*
    * (2) Payments (due)
