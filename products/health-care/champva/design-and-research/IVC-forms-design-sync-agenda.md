@@ -1,4 +1,19 @@
 # Running Design and Research Agenda
+## July 15, 2024
+### Notes
+-Priority for CHAMPVA stakeholder readout
+  -The earliest we can do the read-out is 2 1/2 weeks from now.
+  -Target Sprint 23 for doing the readout.
+-New cadence for CHAMPVA registration meeting
+  -10:30 EST on every other Tuesday, not including this week.
+-Premal to reach out for information/feedback on IVC team presentation
+  -Live presentation to be given on what the team has done so far and the impact of our work.
+-Pre-fill changes for FMP Reg and Claim walkthrough
+  -Premal: Be aware of the LOA restrictions.
+  -Premal: Make sure the different forms are aligned and be aware that we don't want things to cause delays currently.
+-Confirmation emails and page
+  -Bo: Plug in a number on the page for if you haven't seen an email in X number of days.
+  -Bo: We may want to line up VA notify and Figma at some point.
 ## July 8, 2024
 ### Notes
 - Attendees: Jamie Fiore, Syd Hoeper, Devi Hill, Mary Wang, Bo Altes, Brian Wilke, Rachael Penfil
