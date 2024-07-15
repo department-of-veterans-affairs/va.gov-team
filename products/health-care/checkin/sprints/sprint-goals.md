@@ -79,6 +79,7 @@
             - 🟥 Release Product Guide
             - 🟪 Create Release notes & notify stakeholders
     - **Sub Goal: Upcoming VAOS Appointments**
+        - 🟥 [Update Userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
         - 🟩 [[FE] Display Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
         - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
