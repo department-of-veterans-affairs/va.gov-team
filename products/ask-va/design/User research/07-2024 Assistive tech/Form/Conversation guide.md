@@ -153,7 +153,7 @@ Next, I'm going to share a link to the test website.
 
 Okay, I just sent you the link.
 
-I'm going to give you a couple minutes to open your `email, text or Zoom chat`. When you're ready, you can open the link.
+I'm going to give you a couple minutes to open your `email or Zoom chat`. When you're ready, you can open the link.
 
 > Staging link open.
 
