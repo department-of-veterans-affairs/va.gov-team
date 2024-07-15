@@ -146,12 +146,12 @@ Thanks! Now I’m able to see your screen.
 Next, I'm going to share a link to the test website.
 
 - [Do we know how they prefer to receive the link?]
-  - `IF YES` I'm going to `email, text, send in the chat, or dictate` the link now.
-  - `IF NO` Would you prefer that I email you the link, text, or send it in the chat on Zoom? Or, I can dictate it.
+  - `IF YES` I'm going to `email, send in the Zoom chat, or dictate` the link now.
+  - `IF NO` Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
 
-> Send link to staging, username and password.
+> Send link to staging.
 
-Okay, I just sent you the link. I also shared a username and password for this session.
+Okay, I just sent you the link.
 
 I'm going to give you a couple minutes to open your `email, text or Zoom chat`. When you're ready, you can open the link.
 
@@ -203,9 +203,14 @@ For today, we're going to sign in...
  
 We're going to use a test account today.
 
-I `emailed, texted` (or `will send in the Zoom chat, dictate`) you a user name and password for this session. I'll give you a moment to access that.
+When you're ready, start by navigating to ID.me.
 
-When you're ready, please navigate to ID.me and input the test user name and password.
+Now, I can dictate the test username and password to you, or I can email it to you. What do you prefer?
+
+> Dictate or email.
+
+Username: tyler+02@bluetiger.digital
+Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
 
 > Signs in to test user account.
 
