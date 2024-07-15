@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **WIP**: Last udpated: July 15, 2024 (see commit comments for details)
+
 # How we audit for accessibility
 
 If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [A11Y Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how CAIA's (Content, Accessibility and Information Architecture) team of accessibility specialists audits experiences for accessibility. 
