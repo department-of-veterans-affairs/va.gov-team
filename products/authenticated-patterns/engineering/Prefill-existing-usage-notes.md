@@ -6,9 +6,11 @@ Some applications will have their own alert that was created, and some applicati
 ### 'core' components that are set up on the platform level around the pre-fill alert
 
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/save-in-progress/PrefillMessage.jsx
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
 
 platform/save-in-progress
+
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/save-in-progress/MilitaryPrefillMessage.jsx
 We’ve prefilled some of your military service details from your account. If you need to correct anything, you can edit the form fields below.
 
@@ -16,31 +18,38 @@ We’ve prefilled some of your military service details from your account. If yo
 
 Ask-VA
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ask-va/components/PrefillAlertAndTitle.jsx
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. Any updates you make here to your contact information will only apply to this form.
 
 Burials-ez
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/burials-ez/components/PrefillMessage.jsx
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
 
 Burials-v2
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/burials-v2/components/PrefillMessage.jsx
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
 
 Edu-benefits
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/edu-benefits/10203/content/PrefillMessage.jsx
+
 We've prefilled this application with information from your account. If you need to correct anything, you can edit the form fields.
 
 Ivc-champva / 10-7959f-1
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-7959f-1/helpers/prefilledAddress.jsx
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
 
 pre-need-integration
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/pre-need-integration/utils/helpers.js
+
 We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below. 
 _They have a slightly different section of content for an applicant sponsor_ - We’ve prefilled your details since you indicated you’re the applicant’s sponsor. If you need to correct anything, you can edit the fields below.
 
 representative-appoint
 https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/representative-appoint/components/PrefillAlert.jsx
+
 This is the personal information we have on file for you.
 
 ### Usages of the 'PrefillMessage' or 'MilitaryPrefillMessage'
