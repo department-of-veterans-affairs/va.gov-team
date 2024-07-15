@@ -80,10 +80,10 @@
             - 🟪 Create Release notes & notify stakeholders
     - **Sub Goal: Upcoming VAOS Appointments**
         - 🟥 [Update Userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88302)
+        - 🟥 Schedule Design Intent
         - 🟦 [[BE] Appointments Controller: merge clinics ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81883)
         - 🟩 [[FE] Display Upcoming Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87872)
-        - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)
-        - 🟪 Schedule Staging Review
+        - 🟩🟦 [[FE][BE] Prod validation for Appointments Service Integration ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68803)        
     - **Sub Goal: Q2 Translations**
         - 🟪 [[Product] Submit Translations to the State Department](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84568)
     - **Sub Goal: CIE Analytics**
