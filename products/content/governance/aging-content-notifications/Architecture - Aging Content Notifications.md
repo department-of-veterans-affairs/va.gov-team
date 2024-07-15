@@ -57,23 +57,23 @@ It might be helpful to walk through how the system works when sending Full Width
 
 - **Queueing phase:** Drupal cron runs, and the built in ECA-Cron **Event** is triggered. Each configured ECA event which is scheduled is executed. Assuming the _FWB: Expired_ ECA model is scheduled, the first action, _Views: Query Expired FWB Result_, is executed (there are no **Conditions** to first check). This is a built-in ECA **Action** that executes a View and returns a result into a token–in this case named ‘results’. The Views action calls its successor, the Trigger Custom Event: Queue Notification, Action, which takes the results from the View and passes each individual result to an **Event**: _Content Aware Event: Queue Email_. This **Event** triggers an **Action** for each result, _Queue Notification_, which is a custom **Action** we created. This Action takes a configured payload, and creates a new AdvancedQueue Job of a specified type, and queues it to a specified AdvancedQueue queue for later processing. We have created a custom Job Type plugin that handles sending mail for the Aging Content framework which will be discussed in the sending phase. This the end of the queueing phase.
 
-- Sending phase: On a subsequent cron run, AdvancedQueue runs and processes all queued jobs. If present, our custom Job Type, va_gov_aging_content_notification, assembles information necessary to create a new Message Template from the provided payload and sends the message using Message Notify.
+- **Sending phase:** On a subsequent cron run, AdvancedQueue runs and processes all queued jobs. If present, our custom Job Type, [va_gov_aging_content_notification](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/docroot/modules/custom/va_gov_notifications/src/JobTypeMessageNotifyBase.php), assembles information necessary to create a new Message Template from the provided payload and sends the message using Message Notify.
 
 #### Event
 
-Using a built-in Event plugin from ECA, anytime Drupal cron runs (currently every 15 minutes), ECA is queried for any Events that are scheduled to run. The Event contains a field to define the schedule using a cron expression, eg: 5 4 * * *
+Using a built-in Event plugin from ECA, anytime Drupal cron runs (currently every 15 minutes), ECA is queried for any Events that are scheduled to run. The Event contains a field to define the schedule using a cron expression, eg: **5 4 * * ***
 
 If the event is scheduled, all the ‘successors’ get executed in order.
 
 #### Condition
-Conditions are not a requirement for ECA models. The first implementations of this framework, for expiring and warning of Full Width Alerts, will not use a condition. However, we have planned for the future, and should we need one, a Views condition has been developed and can be utilized by any future ECA model.
+Conditions are not a requirement for ECA models. The first implementations of this framework, for expiring and warning of Full Width Alerts, will not use a condition. However, we have planned for the future, and should we need one, a [Views condition has been developed](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/docroot/modules/custom/va_gov_eca/src/Plugin/ECA/Condition/ViewsResultCondition.php) and can be utilized by any future ECA model.
 
 #### Action
-A custom Action, “Create an AdvancedQueue Job and optionally enqueue it”, is a custom Drupal Action we created which will take the results of a View and add each result to a configured AdvancedQueue queue. The action has a configuration form which accepts any payload, making it useful as a generic Drupal Action, rather than specific to the Aging Content Notifications framework. The payload entered as yaml, and is consumed later during mail templating and sending.
+A custom Action, [“Create an AdvancedQueue Job and optionally enqueue it”](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/docroot/modules/custom/va_gov_eca/src/Plugin/Action/CreateAdvancedQueueJob.php), is a custom Drupal Action we created which will take the results of a View and add each result to a configured AdvancedQueue queue. The action has a configuration form which accepts any payload, making it useful as a generic Drupal Action, rather than specific to the Aging Content Notifications framework. The payload entered as yaml, and is consumed later during mail templating and sending.
 
 ### Processor
 
-Processing mail for Aging Content Notifications delivery will be handled by the Drupal Advanced Queue (contrib) module. When Drupal cron fires, a new AdvancedQueue Job Type will process all Scheduled Notifications which have been queued up. The Job Type processing takes the payload and assembles a Message using a Message Template. The message is sent using Message Notify.
+Processing mail for Aging Content Notifications delivery will be handled by the Drupal [Advanced Queue](https://www.drupal.org/project/advancedqueue) (contrib) module. When Drupal cron fires, a new [AdvancedQueue Job Type](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/docroot/modules/custom/va_gov_notifications/src/Plugin/AdvancedQueue/JobType/AgingContentNotification.php) will process all Scheduled Notifications which have been queued up. The Job Type processing takes the payload and assembles a Message using a Message Template. The message is sent using Message Notify.
 
 #### Payload
 The payload for an Aging Content Notification message is entered in yaml format, and should contain several key value assignments in order to function properly. Tokens are supported.
@@ -85,7 +85,7 @@ The payload for an Aging Content Notification message is entered in yaml format,
 - restrict_delivery_to: blacklisted user ids
 - Allow_delivery_only_to: whitelisted user ids
 
-Below is an example of a payload for an expired FWB node, as configured here.
+Below is an example of a payload for an expired FWB node, as configured [here](https://prod.cms.va.gov/admin/config/workflow/eca/aging_content_expired_fwb/action/create_advancedqueue_job/edit).
 
 template_values:
     uid: "[node:author:uid]"
@@ -98,7 +98,7 @@ values:
     field_target_node_title: "[node:title]"
 
 ### Delivery Service
-The Drupal Message stack will handle the templating, and message notifications themselves.
+The Drupal [Message](https://www.drupal.org/project/message) stack will handle the templating, and message notifications themselves.
 
 ## Security
 Role based access controls for administrative tasks. We will define new Drupal permissions and roles as needed to maintain secure access to the tools provided by the framework.
@@ -107,7 +107,7 @@ Role based access controls for administrative tasks. We will define new Drupal p
 ### Glossary
 - ECA - Event, Condition, Action. A Drupal module which orchestrates the scheduling of messages.
 
-- Message -The Drupal Message and related contributed modules.
+- Message -The Drupal [Message](https://www.drupal.org/project/message) and related contributed modules.
 
 - Views - A Drupal Core module which is a query builder.
 
