@@ -93,7 +93,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
     
   **Success criteria:**
     
- - [ ] Chapter 33 education housing debt, Disability Compensation and Pension debt, Chapter 33 education books, supplies, and other debt (pass)
+ - [ ] Post-9/11 GI Bill debt for housing, Disability compensation and pension debt, Post-9/11 GI Bill debt for tuition (pass)
 
 
  - [ ] They mention 1 or 2 of the 3 (partial pass)
@@ -106,7 +106,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 
  **Success criteria:**
     
- - [ ] Chapter 33 education housing debt (pass)
+ - [ ] Post-9/11 GI Bill debt for housing (pass)
 
  - [ ] They give a wrong answer (fail)
   
@@ -126,13 +126,13 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 -   Any information missing that you’d like to see?
     
 
--   Let's say you received an email notifying you that the Chapter 33 education housing debt was due and the link took you to this page. What link would you click on to find out more information about this debt?
+-   Let's say you received an email notifying you that the Post-9/11 GI Bill debt for housing was due and the link took you to this page. What link would you click on to find out more information about this debt?
 
     **Success criteria:**
     
-  - [ ]    "Review Details" link on Ch 33 card (pass)
+  - [ ]    "Review Details" link on Post-9/11 GI Bill debt for housing card (pass)
     
-  - [ ]    "Resolve this balance" link on Ch 33 card (partial pass)
+  - [ ]    "Resolve this balance" link Post-9/11 GI Bill debt for housing card (partial pass)
     
    - [ ]   Any other link (fail)
     
