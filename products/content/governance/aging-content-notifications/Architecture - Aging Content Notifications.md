@@ -87,15 +87,15 @@ The payload for an Aging Content Notification message is entered in yaml format,
 
 Below is an example of a payload for an expired FWB node, as configured [here](https://prod.cms.va.gov/admin/config/workflow/eca/aging_content_expired_fwb/action/create_advancedqueue_job/edit).
 
-template_values:
-    uid: "[node:author:uid]"
-    template: aging_content_expired_fwb
-restrict_delivery_to:
-values:
-    field_expired_date: "[node:expiration_date:date:html_date]"
-    field_target_entity:
-         target_id: "[node:nid]"
-    field_target_node_title: "[node:title]"
+template_values:<br>
+&nbsp; &nbsp; &nbsp; &nbsp;uid: "[node:author:uid]"<br>
+&nbsp; &nbsp; &nbsp; &nbsp;template: aging_content_expired_fwb<br>
+restrict_delivery_to:<br>
+values:<br>
+&nbsp; &nbsp; &nbsp; &nbsp; field_expired_date: "[node:expiration_date:date:html_date]"<br>
+&nbsp; &nbsp; &nbsp; &nbsp; field_target_entity:<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; target_id: "[node:nid]"<br>
+&nbsp; &nbsp; &nbsp; &nbsp; field_target_node_title: "[node:title]"<br>
 
 ### Delivery Service
 The Drupal [Message](https://www.drupal.org/project/message) stack will handle the templating, and message notifications themselves.
