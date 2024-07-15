@@ -149,13 +149,9 @@ Next, I'm going to share a link to the test website.
   - `IF YES` I'm going to `email, send in the Zoom chat, or dictate` the link now.
   - `IF NO` Would you prefer that I email you the link, send it in the Zoom chat or dictate it to you?
 
-> Send link to staging.
+> Dictate or send link.
 
-Okay, I just sent you the link.
-
-I'm going to give you a couple minutes to open your `email or Zoom chat`. When you're ready, you can open the link.
-
-> Staging link open.
+> Opens staging link.
 
 ## Home page (10 minutes)
 
@@ -205,9 +201,9 @@ We're going to use a test account today.
 
 When you're ready, start by navigating to ID.me.
 
-Now, I can dictate the test username and password to you, or I can email it to you. What do you prefer?
+Now, I can dictate the test username and password to you, send it in the Zoom chat or email you. What do you prefer?
 
-> Dictate or email.
+> Dictate or send link.
 
 Username: tyler+02@bluetiger.digital
 
