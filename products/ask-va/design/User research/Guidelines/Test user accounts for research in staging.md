@@ -4,8 +4,8 @@ When we do user research in staging, participants need to sign in using test use
 
 |#| Profile name | Username | Password | LOA | MFA | 
 |:---:|:---|:---|:---|:---:|:---:|
-| 1 | | XX | Veteran1 | 1 | ✅ | 
-| 2 | | XX | Veteran1 | 1 | ✅ | 
-| 3 | | XX | Veteran1 | 3 | ✅ | 
-| 4 | | XX | Veteran1 | 3 | ✅ | 
-| 5 | XX XX | XX | Veteran1 | 3 |✅| 
+| 1 | | tyler+01@bluetiger.digital | Veteran1 | 3 | ✅ | 
+| 2 | | XX | Veteran1 | x | ✅ | 
+| 3 | | XX | Veteran1 | x | ✅ | 
+| 4 | | XX | Veteran1 | x | ✅ | 
+| 5 | XX XX | XX | Veteran1 | x |✅| 
