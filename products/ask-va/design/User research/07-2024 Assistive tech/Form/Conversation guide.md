@@ -8,8 +8,8 @@ Last updated by @tygindraux: July 15, 2024
 
 ### Before all sessions
 
-- [ ] Review guidelines for moderating
-- [ ] Review research goals
+- [ ] Review [guidelines for moderating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/Guidelines/Guide%20to%20moderating.md)
+- [ ] Review [research goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/07-2024%20Assistive%20tech/Form/Research%20plan.md)
 - [ ] Review prototype
 - [ ] Review participant list for name and screener responses
 - [ ] Review [screen reader instructions and troubleshooting during research guidance](https://depo-platform-documentation.scrollhelp.site/research-design/screen-reader-instructions-and-troubleshooting-dur)
@@ -18,8 +18,7 @@ Last updated by @tygindraux: July 15, 2024
 
 - [ ] Start a thread in #feedback-backchannel
 - [ ] Sign into Perigean’s Zoom and start the meeting
-- [ ] IMPORTANT: Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
-- [ ] Check Zoom settings and make sure participants have permission to share
+- [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`
 - [ ] Open conversation guide
 - [ ] Open staging (be ready to screenshare if needed)
 - [ ] Open email or text (if any participant's ask for you to email or text testing links)
@@ -79,7 +78,10 @@ Let's go around and say hello, starting with `ACCESSIBILITY SPECIALIST'S NAME`, 
 
 There are a few other things I want to mention before we start:
 
-- **This session could take up to an hour and a half `IF SCREEN MAG: UP TO 1 HOUR`.** I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
+- **This session could take up to...**
+   - `Screen reader or alt navigation`: an hour and a half
+   - `Screen magnification`: an hour
+   - I’ll make sure we finish on time, so I may occasionally move us along during the session, so we can cover everything.
 - **We’re here to learn your honest opinions.** Negative feedback is helpful too, because it helps us learn how we can improve.
 - **I also want to make it clear that we’re not testing your ability.** So, for example, if I ask if you understand something, it’s because I want to make sure the description is clear.
 - **I’m going to share a prototype with you today.** This is like a test version of VA.gov. I'm going to have you sign in to a test account. This means, that we'll be using pretend information today. So the prototype won't have any of your actual data, like your name or Social security number.
