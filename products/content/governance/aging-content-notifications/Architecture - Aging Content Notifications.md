@@ -47,15 +47,15 @@ Expirable Content Types can be configured in the Drupal Admin UI under [Structur
 
 **Example:** For the first use case, we configured the Full Width Banner content type to **expire** 7 days after it was created or last updated and to **warn** users 3 days before the expiration date.
 
-
+![image](https://github.com/user-attachments/assets/a9ce5425-8c5a-4cd0-8362-453ec52c04bb)
 
 ### Orchestration via ECA
-The orchestration of processing events is handled by the Drupal ECA module (Event Condition Action). The ECA module provides a framework for performing any Action (such as queue email) based on any Condition, triggered by an originating Event (such as cron). ECA has been extended with custom plugins to accommodate our mail queueing and delivery needs.
+The orchestration of processing events is handled by the Drupal [ECA](https://www.drupal.org/project/eca) module (Event Condition Action). The ECA module provides a framework for performing any Action (such as queue email) based on any Condition, triggered by an originating Event (such as cron). ECA has been extended with custom plugins to accommodate our mail queueing and delivery needs.
 
 #### Process Summary
 It might be helpful to walk through how the system works when sending Full Width Banner notifications:
 
-- Queueing phase: Drupal cron runs, and the built in ECA-Cron Event is triggered. Each configured ECA event which is scheduled is executed. Assuming the FWB: Expired ECA model is scheduled, the first action, Views: Query Expired FWB Result, is executed (there are no Conditions to first check). This is a built-in ECA Action that executes a View and returns a result into a token–in this case named ‘results’. The Views action calls its successor, the Trigger Custom Event: Queue Notification, Action, which takes the results from the View and passes each individual result to an Event: Content Aware Event: Queue Email. This Event triggers an Action for each result, Queue Notification, which is a custom Action we created. This Action takes a configured payload, and creates a new AdvancedQueue Job of a specified type, and queues it to a specified AdvancedQueue queue for later processing. We have created a custom Job Type plugin that handles sending mail for the Aging Content framework which will be discussed in the sending phase. This the end of the queueing phase.
+- **Queueing phase:** Drupal cron runs, and the built in ECA-Cron **Event** is triggered. Each configured ECA event which is scheduled is executed. Assuming the _FWB: Expired_ ECA model is scheduled, the first action, _Views: Query Expired FWB Result_, is executed (there are no **Conditions** to first check). This is a built-in ECA **Action** that executes a View and returns a result into a token–in this case named ‘results’. The Views action calls its successor, the Trigger Custom Event: Queue Notification, Action, which takes the results from the View and passes each individual result to an **Event**: _Content Aware Event: Queue Email_. This **Event** triggers an **Action** for each result, _Queue Notification_, which is a custom **Action** we created. This Action takes a configured payload, and creates a new AdvancedQueue Job of a specified type, and queues it to a specified AdvancedQueue queue for later processing. We have created a custom Job Type plugin that handles sending mail for the Aging Content framework which will be discussed in the sending phase. This the end of the queueing phase.
 
 - Sending phase: On a subsequent cron run, AdvancedQueue runs and processes all queued jobs. If present, our custom Job Type, va_gov_aging_content_notification, assembles information necessary to create a new Message Template from the provided payload and sends the message using Message Notify.
 
