@@ -239,7 +239,7 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 
 - If you were trying to pay off your debt, where would you find the relevant information to pay off your debt? (file number, payee number, person entitled, deduction number)
 
-- Now that you have seen the debt details page, and this resolve your balance page: what are your thoughts on the information on these pages having separate pages (their own sections)?
+- After reviewing the debt details page and the resolve your balance page, what are your thoughts on having these types of information on separate pages?
 
 - What are your thoughts on the wording of 'resolve your balance'? Do you feel that this title describes this page well? If not, how would you word it differently? 
 
@@ -259,11 +259,10 @@ Prototype Link: (https://codepen.io/team/Debt-Team/live/rNgqxLY)
 -   What was the easiest part about the portal, if anything?
     
 
-In the next few questions, I'm going to ask you to rate different aspects of the portal you reviewed today.
+- We want to know your thoughts on how clear the portal is. When you answer this question, think about how easily you would be able to understand the information in the portal, and -make a payment or ask for help. 
 
--   The first is clarity, and how clear the information was on the portal. On a scale from 1 to 5 with 1 being not clear at all, and 5 being very clear, how clear was the portal?
-    
--   The first is understability, and how understandable the information was on the portal. On a scale from 1 to 5 with 1 being not understandable at all, and 5 being very understandable, how understandable was the portal?
+- On a scale from 1 to 5 with 1 being not clear at all, and 5 being very clear, how clear was the portal?
+- Why did you rate it a (rating)?
     
 
 If they have seen the debt portal in the last 2 years:
