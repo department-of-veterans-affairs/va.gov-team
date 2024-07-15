@@ -220,7 +220,12 @@ The first 3 descriptions are consistent with those mentioned by Veterans during 
 
 All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
 
-When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to give them access to a specific task, be reminded of an outstanding task, or use the information on the home screen itself to accomplish a task. 7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
+When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to:
+* give them access to a specific task (12 particpants)
+* be _reminded_ (but not _notified_)* of an outstanding task (4 participants)
+* use the information on the home screen itself to accomplish a task (3 participants)
+
+*_All of the participants who described using the home screen to remind them of an outstanding task also described being initially notified by VA about that task using email, SMS, or push, and using the home screen as a backup._
  
 **Example tasks are listed from most to least mentioned:**
 
@@ -244,7 +249,10 @@ When asked to imagine how they might use the homescreen of the app to help them 
 7. (1) Access to disability rating to quickly fill out forms*
       >  “Because I need to see my disability rating and monthly payment quickly to fill out forms” P5
 8. (1) Providing proof of Veteran status*
-      >  “Somebody wants to see proof that you are a veteran; or things that require specific percentages of disability - "right there, bright as day" P4
+      >  “Somebody wants to see proof that you are a veteran; or things that require specific percentages of disability - "right there, bright as day" P4  
+
+      7/8 of the examples are currently possible in the home screen MVP, 1 example (access to benefit letters) is not.  Some participants also suggested tasks that are included in the home screen MVP scope but were not present on their home screen during the session. 
+   
 
 #### 3. Do participants **understand** **what the modules on the home screen are (mental model)** and **find value in the high-level data** being displayed within the modules? 
 
@@ -607,7 +615,7 @@ Task prompt: Find out if you have received a message from your doctor.
     * All participants found their way back to the home screen after tapping through to view screens associated with a task.
     * When navigating to category screens from home after having already visited a feature within that category, several participants were surprised the navigation stack held their place when they returned to a category. 
 * **Task notifications:**
-    * About half of participants described receiving (and using) various forms of communications from VA to keep up with their tasks: email (4), SMS (3), and push notifications (1).
+    * 5/13 participants described receiving (and using) various forms of communications from VA to keep up with their tasks: email (4), SMS (3), and push notifications (2).
 * **Dark mode:** The majority of participants we spoke with had their phone set to dark mode.
 
 
