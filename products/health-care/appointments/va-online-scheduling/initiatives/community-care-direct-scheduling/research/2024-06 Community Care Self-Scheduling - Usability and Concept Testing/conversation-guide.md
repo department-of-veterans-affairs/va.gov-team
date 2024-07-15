@@ -62,7 +62,7 @@ _If NO observers present OR if observers are present in Zoom waiting room._
 
 - Have you used the Appointments tool on VA.gov to schedule and manage your health appointments before?
 
-- And, what device are you using to join this session today?
+- And, what device are you using to join this session today? (E.g., iPhone or Android device.)
 
 - So, I will be sharing a web page link with you during this session. How would you prefer to receive the link? For example, I could send it through the Zoom (messages) chat or email it to you.
 
