@@ -1,7 +1,15 @@
 # How we audit for accessibility
 
-If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, you might wonder how CAIA's (Content, Accessibility and Information Architecture) team of accessibility specialists audits experiences for accessibility. We'll go into that plus what you need to do to start an audit, and what comes out an audit in the end.
+If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [A11Y Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how CAIA's (Content, Accessibility and Information Architecture) team of accessibility specialists audits experiences for accessibility. 
 
+**We'll go into that plus:**
+- What's an audit?
+- When does an audit happen?
+- What are the outcomes of an audit?
+- How long does an audit take?
+- What is tested during an audit? 
+- How to get started with an audit?
+   
 ## What's an audit?
 
 An accessibility audit can be a prototype review or a design and code review of a live, coded interface against current [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) and other identified best practices, which can include:
@@ -48,6 +56,8 @@ In general, accessibility specialists focus on five areas of testing for accessi
 4. Zoom testing
 5. Screen reader testing
 
+<details><summary>Toggle to view the five areas for accessibility testing in detail, along with linked resources</summary>
+  
 ### Automated testing
 
 - Run [axe checks](https://www.deque.com/axe/) on every page or unique state (required)
@@ -82,6 +92,8 @@ We generally rely on [WebAIM's recommended pairings](https://webaim.org/techniqu
 - It involves subjective judgment and can take a lot of time.
 - [Common screen reader issues](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues#screen-readers)
 
+</details>
+
 ## How do we start one and what's the process?
 
 The best way to engage with CAIA is early! The earlier in a project that we can get involved, the better. If you have work coming down the line that you would like input on, let us know. 
@@ -89,4 +101,5 @@ The best way to engage with CAIA is early! The earlier in a project that we can 
 - You can also reach out to CAIA through our #sitewide-content-accessibility-ia Slack channel
 - [We recommend starting with a CAIA Intake Ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2CNaomiPMC&labels=sitewide+CAIA&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E) From there we’ll connect your team with one or more practice area specialists, who can provide the input that your team is requesting.
 
-Documentation Source: The baseline information used in this documentation was [taken from the previously sunset VA Shared Support Team's version of "How We Audit."](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md) 
+## About this Documentation 
+**Primary Source:** The framework of information used in this documentation was [taken from the previously-sunset VA Shared Support Team's version of "How We Audit" version Sept. 21, 2022.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md) 
