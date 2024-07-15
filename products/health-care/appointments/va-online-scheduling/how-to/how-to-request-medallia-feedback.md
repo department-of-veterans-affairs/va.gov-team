@@ -54,19 +54,19 @@ No
 
 | Week  | From       | To         | Submitted By | Ticket Link  | Status |
 |-------|------------|------------|--------------|--------------|--------|
-|   27  | 06/30/2024 | 07/06/2024 | Peter Russo  | [88131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88131) | In progress  |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
-|       |       |        | Peter Russo  | []()         |        |
+|   27  | 06-30-2024 | 07-06-2024 | Peter Russo  | [88131](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88131) | Done  |
+|   28  | 07-07-2024 | 07-13-2024 | Peter Russo  | [88402](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88402)         |        |
+|   29  |  |  | Peter Russo  | []()         |        |
+|   30  |  |  | Peter Russo  | []()         |        |
+|   31  |       |        | Peter Russo  | []()         |        |
+|   32  |       |        | Peter Russo  | []()         |        |
+|   33  |       |        | Peter Russo  | []()         |        |
+|   34  |       |        | Peter Russo  | []()         |        |
+|   35  |       |        | Peter Russo  | []()         |        |
+|   36  |       |        | Peter Russo  | []()         |        |
+|   37  |       |        | Peter Russo  | []()         |        |
+|   38  |       |        | Peter Russo  | []()         |        |
+|   39  |       |        | Peter Russo  | []()         |        |
 
 
 
