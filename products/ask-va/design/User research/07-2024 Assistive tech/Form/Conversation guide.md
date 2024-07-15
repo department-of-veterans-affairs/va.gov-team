@@ -210,6 +210,7 @@ Now, I can dictate the test username and password to you, or I can email it to y
 > Dictate or email.
 
 Username: tyler+02@bluetiger.digital
+
 Password: [Documented in sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/ask-va/test-user-accounts.md).
 
 > Signs in to test user account.
