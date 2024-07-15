@@ -40,6 +40,9 @@
 - How to reach them: email
 - Training required for prod account activation? no, but have Michelle send kick-off email with attachments
 
+**Veterans Benefits Administration**
+- Regional Office Pilot MVP will consist of editors from 7 selected offices. Their names come directly from VBA central, so no ad hoc requests should be coming in. If they do, please alert Michelle to discuss with VBA central.
+
 **Benefits hubs**
 - Person to contact for verification: Randi Hecht and Danielle Thierry
 - How to reach them: Post in VA-sitewide-content Slack channel with @Randi Hecht and @Danielle Thierry for appropriate follow-up.

@@ -1,12 +1,12 @@
 # Nametag specs
 
-**Last updated: 7/23/2023**
+**Last updated: 11/13/2023**
 
 ## Projects/Initiatives 
 
 |Project/Initiative Name|Description|Status|
 |---|---|:-:|
-|[EVSS>Lighthouse API Migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md)|As part of the EVSS to Lighthouse migration, the Disability Rating API is migrating and we need to update our process to use the new API.|In Progres 7/2023|
+|[EVSS>Lighthouse API Migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/nametag/evssMigrationToLH/README.md)|As part of the EVSS to Lighthouse migration, the Disability Rating API is migrating and we need to update our process to use the new API.|Completed 10/2023|
 
 ## KPI/Metrics 
 Google Analytics [dashboard here](https://analytics.google.com/analytics/web/#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)  is tracking Lighthouse API calls versus EVSS calls. 

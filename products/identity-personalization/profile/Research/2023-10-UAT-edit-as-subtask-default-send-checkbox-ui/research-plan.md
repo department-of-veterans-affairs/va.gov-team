@@ -46,12 +46,12 @@ While sharing their screen in remote (Zoom) interviews, participants will comple
 Remote via Zoom
 
 ### Research materials
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-09-UAT-edit-as-subtask-default-send-checkbox-ui/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2023-10-UAT-edit-as-subtask-default-send-checkbox-ui/conversation-guide.md)
 
 ## Recruitment
-Perigean will perform recruiting for 7 participants for a total of 5 completed sessions.
+Perigean will perform recruiting for 7 participants for a total of 5 completed sessions. ~
 
-Before recruitment begins, a recruiting meeting to touchbase is needed. 
+Before recruitment begins, a recruiting meeting to touchbase is needed~. 
 
 ### Recruitment criteria
 We will aim for at least **5 completed sessions** and recruit 7 participants to reach that goal.
@@ -74,29 +74,23 @@ We will aim for at least **5 completed sessions** and recruit 7 participants to 
 ### Additional screener questions
 
 **Verification level screener question**
-
 We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identify-verified account on VA.gov?**
 You can check on this by logging into VA.gov and going to VA.gov/profile. If you see a prompt to verify your identity when you get to your profile page, your identity is **not** yet verified.
-
 Response options: yes or no.
 - Answering "yes" qualifies the participant
 - Answering "no" disqualifies the participant
 
 **Login method screener question**
-
 Do you have a working login and password for any of the following VA.gov login methods? (Select 1-4 options). **You will need your login credentials for the research session, so please make sure your credentials work before answering this question.**
-
 Response options (checkbox): DS Logon, MyHealtheVet, Login.gov, ID.me, None of the above
 - If participant answers **only** DS Logon or MyHealtheVet, they are disqualified.
 - If participant's answer includes either (or both) Login.gov or ID.me, they are qualified.
 - If participant answers None of the above, they are disqualified.
 
 **What email address(es) do you use to login to VA.gov?**
-
 This is a fill in the blank question, no character limit, and is not qualifying or disqualifying.
 
 **Device screener question**
-
 We’d like to make sure the website works well on a variety of devices. Please check the devices you have available to you that you could use to join the interview. **The device will need to have Zoom downloaded and a working microphone.**
 
 Response options: Desktop/laptop, tablet, smartphone
@@ -104,41 +98,42 @@ Response options: Desktop/laptop, tablet, smartphone
 **Note:** This should be used to satisfy the device criteria under “Some participants”
 
 **Previous experience managing notification settings screener question**
-
 Have you ever used VA.gov to opt in or out of text notifications from VA?  Examples include notifications for appointment reminders, prescription shipments, and Board of Veterans’ Appeals hearing reminders.
  
 Response options (radio button):  Yes, No, I’m not sure
 
 **Note:** Answer should be No to satisfy criteria for never having managed notification settings on VA.gov
-
 ## Timeline 
 **This timeline is dependent on staging review timing**
-
 ### Prepare
 When will the thing you are testing be finalized? September 12
 
+**We would like to request a kick off meeting with Perigean to be sure we’re aligned on recruitment criteria.**  Availability for a kickoff is as follows:
+- 10/10, anytime between 10:30am-4pm EST
+- 10/11 between 11am-12pm, or 3pm-4:30pm
+
 Date and name of a mock participant for a pilot session:
-- Pilot participant name: TBD
-- Pilot participant email: TBD
-- Date and time of pilot session: 9/21, time TBD
+- Pilot participant name: Rocio De Santiago
+- Pilot participant email: [rocio@coforma.io](mailto:rocio@coforma.io)
+- Date and time of pilot session: 10/11/23, 10:30am EST
 
 ### Research sessions
 What dates do you plan to do research? 
-- September 25-27
+- October 18-20
 
 ### Length of sessions
 Sessions will be 30 minutes with 30 minutes in between sessions. Please schedule no more than 5 sessions per day.
 
 ### Availability
 
-| Date | Times (Eastern) |
-|------|-----------------|
-| 9/25 | 8am-4pm         |
-| 9/26 | 11:30am-5pm     |
-| 9/27 | 8am-4pm         |
+| Date  | Times (Eastern) |
+|-------|-----------------|
+| 10/18 | 10am-3:30pm     |
+| 10/19 | 7:30am-4:45pm   |
+| 10/20 | 10am-3pm        |
 
 ## Team Roles	
-- Moderator: Pam Drouin, pamela.drouin@a1msolutions.com, Liz Lantz <liz.lantz@adhocteam.us>
+- Moderator: Liz Lantz <liz.lantz@adhocteam.us>
 - Research guide writing and task development (usually but not always same as moderator): Liz Lantz
 - Participant recruiting & screening: Perigean
 - Note-taker: Team

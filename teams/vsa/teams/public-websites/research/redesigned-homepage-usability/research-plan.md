@@ -1,5 +1,5 @@
 # OUTDATED Research Plan: Moderated usability of the redesigned VA.gov home page
-# [GO HERE INSTEAD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/research/redesign-usability/research-plan.md)
+# [GO HERE INSTEAD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/research/redesign-usability/research-plan.md)
 
 ## Background
 The current VA.gov website was launched in 2018 but hadn't been the subject of much user research until [Baseline Wayfinding Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/research/202104-baseline-wayfinding#baseline-wayfinding-research-on-vagov-april-2021) was conducted in June 2021. Findings from this research has been incorporated into the new design. 

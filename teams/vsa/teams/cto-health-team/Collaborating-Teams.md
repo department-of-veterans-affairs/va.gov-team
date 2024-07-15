@@ -22,28 +22,26 @@
 # VA.gov teams (teams that might be working on MHV stuff, but also on lots of other stuff)
 - VA.gov Platform team
   - Shira Goodman
-- Identity team (I think)
+- Identity team 
   - John Rahaghi
 - Design System team
   - Matt Dingee
 - Governance team
   - Accessibility reviews
-    - Brian Decounik (sp?)
+    - Brian Decounik 
 - Analytics team
 - Authenticated experience team (the My VA team)
-  - Contractor: Anastasia Jakabcin (AJ)
+  - My VA PM: Anastasia  (AJ) Jakabcin (Ad Hoc)
+  - VA Profile PM: Travis Cahill (A6)
   - OCTO: Samara Strauss
-    - Chante Lantos-Swett (while Samara is out)
-  - Work with them whenever talking with the VA Profile team
-    - Travis Cahill
 - Sitewide / Public website team (basically “unauthenticated team”)
-  - Dave Conlon
+  - Dave Conlon (OCTO)
 - IA Team
-  - Mikki Northuis
-- Content Team
-  - Danielle Thierry
+  - Mikki Northuis (OCTO)
+- Content and IA Team
+  - Danielle Thierry (OCTO)
 - Accessibility Team
-  - Martha Wilkes
+  - Martha Wilkes (OCTO)
 - _Dozens of other product development teams that we don’t expect to interact with_
 
 # OCTO teams that aren’t VA.gov

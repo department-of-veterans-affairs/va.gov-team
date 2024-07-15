@@ -1,7 +1,7 @@
 # Initiative Brief: Editing as a Sub-Task 
 ### Initial Launch with Mobile Phone Number Add/Update 
 
-**Last updated: August 31, 2023 -- updated location and added important artifacts**
+**Last updated: January 5, 2024 --** Updated metrics
 
 #### Overview
 
@@ -23,7 +23,7 @@
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 
-During the [useability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
+During the [usability study to add email as a channel](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023), we noticed that users were struggling with the current update flow for updating email or mobile phone when attempting to view the notification settings. We will re-engineer the workflow for updating a user's contact information from the notifications setting page in order to reduce confusion for users.
 
 **Related/Associated product(s)**
 
@@ -72,24 +72,28 @@ Increased complexity for end users resulting in confusion, however, we're hopefu
 ---
 ## Measuring Success
 
+[Metrics workbook](https://docs.google.com/spreadsheets/d/1ts0vX2Nzu3UQp1q1nNz20ZKS_iPUkXmDRi-nPSQrT_s/edit?usp=sharing)
+
 ### Objective #1: Streamline flow to add contact information from the Notifcations preferences page.
 
 **KPI: See a decrease in ranking for referrals to Contact information from Notification preferences.**
 
 - [Contact information entrance page report](https://analytics.google.com/analytics/web/?authuser=0#/report/content-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fprofile~2Fcontact-information~2F&_r.tabId=navigationsummary/)
 
-|KPI/metric|Baseline: 1 month pre-launch [add dates]|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|-------------------|
-|Ranking of Notification preferences as an entrance page to Contact information||||
+|KPI/metric|Baseline: 1 month pre-launch 9/26/-10/25/2023| 25% 10/25-10/30/2023 | 50% 10/31-11/6/2023 | 100% 11/7-11/13/2023 | 1 month post-launch to 100% 11/7-12/5/2023| 2 months post-launch to 100% 11/7/2023-1/2/2024|
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|
+|Ranking of Notification preferences as an entrance page to Contact information|[Ranked 2nd (6,503 Clicks ) 12.78% entered Contact Information from Notification Settings](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20230926&_u.date01=20231024&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500)| [Still ranked 2nd 967 at 10.31%](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20231025&_u.date01=20231030&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500/) |[Ranked 3rd 961 clicks at 8.29%](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20231031&_u.date01=20231106&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500/)|[Ranked 8th 443 clicks at 3.69% of traffic](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20231107&_u.date01=20231113&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500/) |[Ranked 8th 1,845 clicks at 3.51% of traffic](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20231107&_u.date01=20231205&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500/)|[Ranked 8th 3,566 clicks](https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p176188361/_u.date00=20231107&_u.date01=20240102&_.advseg=&_.useg=&_.sectionId=&explorer-table.secSegmentId=analytics.previousPagePath&explorer-table.plotKeys=%5B%5D&explorer-table.advFilter=%5B%5B0,%22analytics.previousPagePath%22,%22PT%22,%22www.va.gov~2Fprofile~2Fnotifications%22,0%5D%5D&explorer-table.rowCount=500/), 3.7% of traffic to the page| 
 
 **KPI: Establish baseline metrics for number of saves of the add a mobile number form.**
 
 - [see save / failure metrics on the top right ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20230806&_u.date01=20230814/)
 
-|KPI/metric|1 month post-launch to 100% [add dates]| 2 months post-launch to 100% [add dates]|
-|----------|-------------|---------------|
-|Number of saves of the add a mobile number form (success)|||
-|Number of saves of the add a mobile number form (failures)|||
+No pre-launch stats as this didn't exist prior. 
+|KPI/metric| 25% 10/25-10/30/2023| 50% 10/31-11/6/2023 | 100% 11/7-11/13/2023 | 1 month post-launch to 100% 11/7-12/5/2023| 2 months post-launch to 100% 11/7/2023-1/2/2024|
+|----------|:-:|:-:|:-:|:-:|:-:|
+|Number of saves of the add a mobile number form (success)|177|465|958|3838|7200|
+|Number of saves of the add a mobile number form (failures)|1|7|4|30|71|
+|Save success as a %| 99.44% |98.52%|99.58%|99.22%|99.01%|
 
 ---
 

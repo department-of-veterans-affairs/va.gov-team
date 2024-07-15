@@ -30,10 +30,6 @@
 
 ## Specialists
 
-**Josh Kim**, A11y Lead on Benefits
-- josh.kim@adhocteam.us, [LinkedIn](https://www.linkedin.com/in/joshkimux/)
-- Can answer questions on qualitative research, disability justice, and trauma-informed design
-
 **Liz Lantz**, UX designer and researcher on the Authenticated Experience team
 - liz.lantz@adhocteam.us
 
@@ -67,6 +63,7 @@
 
  **Kate Murphy**, Accessibility Specialist on CAIA
  - kate@coforma.io
+
   
 ## VA Sponsor
 **Martha Wilkes**, OCTO Accessibility Strategist
@@ -74,4 +71,4 @@
 - Here to learn from you experts and support your excellent work, let me know if I can help you with anything! No request is too small.
 
 ## Founders and Alumni
-This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here ♥️ 
+This was built off a curriculum designed by Jen Strickland and Trevor Pierce, who deserve full credit in establishing the groundwork here. Josh Kim joined the alumni team as well ♥️ 

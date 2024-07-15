@@ -1,5 +1,5 @@
 # **Benefits: Debt Resolution Team Charter** 
-Last Updated: January 27,2023
+Last Updated: January 5, 2024
 
 ### **Table of Contents:**
 
@@ -38,14 +38,14 @@ Last Updated: January 27,2023
 
 ## Team Details
 
-### Team Slack Channel:** `#benefits-debt-resolution`
+### Team Slack Channel:** `#debt-resolution`
 
 |**Debt Team Roster**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Denise Coveyduc                          |
 |Sr. Product Manager    |Tom Davis                    |
 |Delivery Manager       |Heather Rienks                     |
-|Lead Back End Engineer  |Scott James                         |
+|Lead Back End Engineer  |Austin Smith                         |
 |Back End Engineer      |Kevin Suarez                                |
 |Lead Front End Engineer |Andrew Rodiek                       |
 |Sr. Front End Engineer |Brandyn Sullins                     |
@@ -66,38 +66,37 @@ Last Updated: January 27,2023
 |**Agile Ceremonies**         |**When**         |**Duration**                   | **Where**        |**Agenda/Focus** |**Facilitator**  | 
 |-----------------------|------------------------------|------|------------------|-----------------|----------------|
 |*Stand-Up*               |*M,W,F* @ 12:30pm ET/9:30am PT |30 mins         | *M,W,F*: Zoom T,Th: Slack| *3 Question Format*: What I did yesterday? What will I do today? Any Blockers and/or Dependancies?|Heather Rienks  | 
-|*Sprint Planning*        |1st Wednesday of every sprint  @ 1:15pm ET/10:15am PT|45 mins | Zoom meeting|Outline team and member focus, goals for upcoming sprint.|Denise Coveyduc  | 
+|*Sprint Planning*        |Last Tuesday of every sprint  @ 1:00pm ET/10:00am PT|45 mins | Zoom meeting|Outline team and member focus, goals for upcoming sprint.|Tom Davis  | 
 |*Sprint Retrospective*                  |Last Tuesday of every sprint @ 3pm ET/12pm PT | 60 mins|Zoom meeting| Review accomplishments, ways to improve from prior sprint. Questions to Go Over: What went well? Areas for improvement? What to start doing?|Heather Rienks    | 
-|*Backlog Refinement* | Bi-Weekly 2nd Thursday of every sprint, @ 1:15pm ET/10:15am PT|45 mins |Zoom meeting|Assess and update workload for remainder of sprint|Heather Rienks    | 
+|*Backlog Refinement* | Bi-Weekly 2nd Wednesday of every sprint, @ 1:30pm ET/10:30am PT|45 mins |Zoom meeting|Assess and update workload for remainder of sprint|Heather Rienks    | 
 
 </br>
 
 
 ##  Planning Meetings
-| **Meeting**                  | **Cadence**         | **Attendees/Groups**                 |**Agenda/Focus**       | **Facilitator**  | 
+| **Meeting**                  | **Cadence**         | **Attendees/Groups**                 |**Agenda/Focus**       | **Facilitator(s)**  | 
 |--------------------------|-----------------|----------------------------------|-------------------|-------------------|
 | *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Heather, A6? |Discuss product roadmap and OKR status |Denise Coveyduc  | 
 | *Quarterly Team Planning*       | Quarterly: once every 3 months    | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
-| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Denise Coveyduc  | 
-| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Denise Coveyduc  | 
-| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Denise Coveyduc  | 
-| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks| 
+| *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Heather Rienks, Tom Davis  | 
+| *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Heather Rienks, Tom Davis  | 
+| *Design/Research Touchpoint*   | Weekly          | PM, DM, Design, Research     |Align on current Design + Research Priorities, Challenges, & Blockers         |Heather Rienks, Tom Davis  | 
+| *PM + DM Sync*   | Twice Weekly          | PM, DM   |Align on Priorities & Team Needs |Heather Rienks, Tom Davis| 
 
 
 
 ##  Stakeholder Meetings
 | **Meeting** | **Cadence**      | **Attendees/Groups**   |**Agenda/Focus**    |**Facilitator**  | 
 |-------------|--------|-------------|---------|----------|
-| *Veterans Online Debt Access (VODA) Project Overview* | Monthly      | VA Leadership    |Provide update to leadership monitoring progress and reviewing path forward for VA Debt Portal    |Jill Anderson (DMC)  |   
-| *Debt Team Sprint Demo* | Bi-Weekly (Encompasses previous sprint accomplishments)     | Matt Self, Debt Team  |Summarize current work & achievements    |Heather Rienks  | 
+| *Veterans Online Debt Access (VODA) Project Overview* | Monthly      | VA Leadership    |Provide update to leadership monitoring progress and reviewing path forward for VA Debt Portal    |Denise Coveyduc  |   
+| *Debt Team Sprint Demo* | Bi-Weekly (Encompasses previous sprint accomplishments)     | Denise Coveyduc, Debt Team  |Summarize current work & achievements    |Heather Rienks  | 
 
 
 
 ## Contract Meetings
 | **Meeting** | **Cadence**      |**Attendees**  |**Agenda/Focus**    |**Facilitator**    | 
-|-------------|--------|-------------|---------|----------|
-| *Benefits Debt Resolution: Weekly Check-In Meeting* | Weekly      | Matt Self, Heather Rienks, Denise Coveyduc, Athena Perez, Jennifer O'Day, Tom Davis   |Facilitate open lines of communication between core participants from the VA and A6 project team.    |Heather Rienks   | 
-| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Matt Self, Denise Coveyduc, Heather Rienks, Athena Perez    |TBD    |TBD   |
+|-------------|--------|-------------|---------|----------| 
+| *Contract Status Meeting* | Monthly      | Jennifer O’Day (COR), Denise Coveyduc, Heather Rienks, Athena Perez    |TBD    |TBD   |
 
 
 </br>
@@ -234,8 +233,8 @@ _In an effort to standardize  team estimates the below can act as a reference gu
 </br>
 
 ## VA + Other Stakeholder Relationships
-- Matt Self | matthew.self2@va.gov -- Digital Services Product Owner
-- Jill Anderson | jill.anderson3@va.gov -- Debt Management Center (DMC) Stakeholder
+- Denise Coveyduc | Denise.Coveyduc@va.gov -- Digital Services Product Owner
+- TBD | TBD -- Debt Management Center (DMC) Stakeholder
 
 
 </br>

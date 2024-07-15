@@ -69,11 +69,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Assumptions
 - 
 
-
-### Initiatives
-
-- New Mobile Header | [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/header/new-mobile-header/Initiative%20Briefing.md](#)
-- Federal Standardized Header and Footer
 --- 
 
 ## Launch Strategy
@@ -88,7 +83,27 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Narrative
 
-### Current Status
+
+
+---
+
+### Artifacts
+
+#### Research
+- [Federal Standardized Header/Footer Usability Testing -- Research Findings from Phases 1 & 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/research-findings-phases1%262.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/research-plan.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/conversation-guide.md)
+- [Interview Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/session-notes)
+- [Responsive Prototype](https://cdpn.io/pen/debug/gOEPoyo/43fa8051200887cb97f5b154ed54c8a3)
+- [Synthesis Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2024-federal-standardized-header-footer/research/phase2-AT/analysis/Header_footer%20phase%202%20usab%20notes%20%26%20data%20analysis.xlsx)
+- [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705968636854/21a2da5c771047b31063a128a500e133522ffcf9?sender=uff8fa85716c1796ccf022668)
+
+-
+#### Initiatives
+- [2021 New Mobile Header](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/Initiative%20Briefing.md)
+- [2024 Federal Standardized Header and Footer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/header-footer/initiatives/2024-federal-standardized-header-footer) - discontinued, did not ship
+
+---
 
 ### Key Decisions
 
@@ -109,13 +124,15 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Stakeholders:
 
 
-#### Team Members
+#### Product Ownership
 
- - OCTO Lead: Dave Conlon
- - PM: Wes Rowe
- - Engineering: Ryan Koch
- - Design: Ryan Thurlwell
- - Research: TBD
+The VA Design System Team will take ownership of the Header (including meganav) & Footer in July 2024, upon completion of Sitewide work to segregate the injected header code ([Slack](https://dsva.slack.com/archives/C03LFSPGV16/p1719954937244809?thread_ts=1719849942.025859&cid=C03LFSPGV16))
+
+The Sitewide team owns the design of the header while the Design System Team owns the code of the header going forward. Thus the Design System Team is currently building out the web-components and will be working with other teams to support web-components in TeamSites.
+
+ - OCTO Design System Team lead: Matt Dingee
+ - OCTO Sitewide Lead: Michelle Middaugh
+ - VA Design lead: Amanda Klausmeier
 
  
 

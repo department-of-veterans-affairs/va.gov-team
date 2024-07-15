@@ -1,41 +1,26 @@
 # https://www.va.gov/disability/how-to-file-claim/additional-forms/
 
-## URL
-- [ ] URL follows VA.gov URL standards
-- [ ] URL correctly represents the placement of the page in the IA of the site
-- [ ] URL includes primary keyword and aligns with the H1
-
-## Breadcrumb
-
-- [ ] The page displays a breadcrumb
-- [ ] The breadcrumb represents the same hierarchy as the URL
-- [ ] The breadcrumb segments match the H1 of the pages in the navigation path exactly **Note:** Breadcrumb and H1 don't match exactly - issue added to backlog notes          
-- [ ] **If the page is translated,** the translated segments of the breadcrumb have appropriate tags **Note:** Not applicable right now, but will be soon
-
-## Secondary navigation (where applicable)
-
-- [ ] The page is displayed as an option within the secondary nav
-- [ ] The placement of the option in the secondary nav represents the same hierarchy as the URL
-- [ ] **If the page is translated,** the translated segments of the navigation have appropriate tags **Note:** Not applicable right now, but will be soon
-
-## On this page component
-
-- [ ] The page has an "on this page" component if appropriate **Not needed - more like a landing page**
-
 ## Content on page
 
-- [ ] The intro paragraph has no more than 2 to 4 sentences and is within 200 to 400 characters with spaces
-- [ ] Header levels are hierarchical
-- [ ] The page has no broken links
-- [ ] Text links have purpose and target (only need target if the link takes the user off VA.gov--subsites don't need target)
-- [ ] The content is free of ability-focused language (view, walk, see, hear)
-- [ ] Relevant terms from page are in content brief and any relevant backlog work is noted
-- [ ] Remove "Who's covered?" section (if needed)
-- [ ] Remove "What kind of disability benefits can I get?" section (if needed)
+### OCTO checks, edits, tasks
+
+- The intro paragraph has no more than 2 to 4 sentences, is within 200 to 400 characters with spaces, and follows our pattern and style for intros (short sentences, paragraph ends with a CTA, etc.). Rewrote this.
+- Pulled all the content out of the chart. Created new H2s.
+- Moved to related links the content that was related to having a disability but was a different benefit from disability compensation.
+- Added clothing allowance as an H2 section.
+- Relevant terms from page are in content brief.
+- Backlog ticket for further review created if needed.
+
+### Copy editor checks, edits, tasks
+- Header levels are hierarchical
+- The page has no broken links
+- Text links have purpose and target
+- The content is free of ability-focused language (view, walk, see, hear)
+- Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 6.7
+- After edits: 8.8
 
 - [ ] Backlog ticket for further review created if needed
 
@@ -43,14 +28,17 @@
 
 ### Tracking details
 
-- **SME** Name goes here
-- **Date response received:** 
+- **SME** Matt Eakman
+- **Date response received:** 12/6/23
+
+### Questions for SME 
+- We don't currently have clothing allowance on this page on the live site, and we think it may have been an oversight. We've added it to this reworked page. We'd like to verify that it makes sense to include it here. 
 
 ### Responses
 
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** yes. 
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
-  - **Response:** 
+  - **Response:** no. 
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
-  - **Response:** 
+  - **Response:** no.

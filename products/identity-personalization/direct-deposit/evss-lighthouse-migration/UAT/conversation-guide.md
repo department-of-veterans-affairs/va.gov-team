@@ -1,4 +1,4 @@
-# Conversation Guide: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, March 2023
+# Conversation Guide: Direct deposit for compensation & pension EVSS > Lighthouse migration UAT, July 2023
 
 ### Project-specific setup
 - Check participant information to see what types of login(s) credentials they may have (Login.gov, ID.me, DS Logon, MyHealtheVet).

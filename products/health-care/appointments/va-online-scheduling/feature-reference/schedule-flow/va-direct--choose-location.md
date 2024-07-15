@@ -10,35 +10,47 @@ Veterans are asked to choose where they'd like to receive the type of care they 
 
 ## Requirements
 
-### Functional
+**Functional**
 <!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
 
 **Display the user's registered facilities**
-- Show facilities if:
+- Display all facilities where:
     - They are associated with a VistA site where the user is registered
-    - The site has marked the facility as accepting either requests or direct appointments for the chosen type of care
+    - The location has request and/or direct scheduling enabled in CCM  for the selected type of care
+    - The facility classification is one of the following:
+      - Multispecialty CBOC  
+      - Other Outpatient Services  
+      - Primary Care CBOC or VA Medical Center (VAMC)
+      - Health Care Center (HCC).  
 - If a user only has one facility that supports online scheduling for the chosen type of care, this page will show that facility without radio buttons.
 
-**Allow user to sort facilities**
-- If multiple facilites are shown and the user has a residential address in VA Profile
-  - Show facilities sorted by distance from that address.
-  - Users can choose to sort the facilities by how close they are to their current (browser) location instead of residential address.
-  - Show the distance to the facility in miles.
-    - Calculate the distance as a straight line between the Veteran's residential address or location and the facility address.
-    - Facilities that are within 100 miles of the residential address or current location and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options. 
-- If the user does not have a residential address, show the facilities in alphabetical order.
-
+**Display and sort multiple facilities**
+- If multiple facilites are shown and the user has a residential address in VA Profile:
+    - By default, show facilities sorted by distance from the user's address.
+    - The user has the option to sort by their current (browser) location.
+        - Calculate the distance as a straight line between the Veteran's residential address or location and the facility address.
+    - The user has the option to sort the list alphabetically
+    - If the user doesn't have a residential address:
+       - The option to sort by distance does not display in the list
+       - The list is sorted alphabetically by default
+       - An option to update residential address is available 
+    - Show the distance to the facility in miles.
+    - Display a set number of facilities at time.
+    - A link must display to show any other locations if more locations are available.
+    - Facilities that are within 100 miles of the residential address or current location and do not support any online scheduling can be revealed by clicking on the "Why isn't my facility shown?" link below the facilities options.  
+  
 **Redirect user to Cerner**
 - If the user is registered at a Cerner site, facilities in that site are always shown on this page and include a link to the Cerner portal below the radio button
 - If a user choose a Cerner facility and clicks Continue, they're sent to the schedule Cerner page
 
+
 **Notify user if they are ineligible to schedule or request**
 - After a user chooses a facility and clicks continue, VAOS checks if they're eligible to make a request or to direct schedule online. 
     - VAOS tries to put users in the direct schedule path first, and falls back to the request path if direct scheduling is not available
-    - If the user is not eligible for either path, they're shown a modal explaining why
+    - If the user is not eligible for either path, they're shown a message explaining why.
 - **For the direct scheduling path**, there are four potential checks:
-    1. Does the facility support direct scheduling (set in VATS)?
-    2. Does the veteran have a recent enough visit (set in VATS)?
+    1. Does the facility support direct scheduling?
+    2. Does the veteran have a recent enough visit? (See note below)
         - This can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
     3. Are there available VistA clinics for this facility and type of care?
@@ -47,16 +59,82 @@ Veterans are asked to choose where they'd like to receive the type of care they 
         - This is a front end check, done to reduce the confusion around what clinic a user should choose.
         - This will effectively override check 2, if that check is set to allow all users through in VATS.
 - **For the request path**, there are three potential checks:
-    1. Does the facility support requests (set in VATS)?
+    1. Does the facility support requests?
     2. Does the veteran have a recent enough visit?
         - This is controlled in VATS, and can be set to 12 or 24 months, or disabled
         - This check does not apply for primary care
     3. Is the user over the request limit for this type of care at this facility?
         - This is controlled in VATS and can be set to 1 or 2
 - If a user can direct schedule, they're sent to the clinic choice page
-- If a user can only make a request, they're sent to the request calendar page
+- If a user can only make a request, they're sent to the request calendar page 
 
-## User interface design
+See also [VA facility page data sources](../backend-logic.md#va-facility-page-data-sources)
+
+#### Notes
+
+**Why can Veterans only self-schedule into clinics that they've been seen at within the last 24 months?**
+- Many facility + care type combinations have an overwhelming numbr of clinic options. Furthermore, many of these clinics are confusing to Veterans, because they're not consistently named in a way that's useful to Veterans or even written in plain english.
+- Certain clinics have specific uses that aren't obvious to Veterans (for example, for new patients only), so opening up all available clinics for self-scheduling for everyone results in many canceled or rescheduled appointments.
+
+### Non-functional
+
+-  On Choose a VA location page, the application will display facilities that are direct schedule enabled. 
+-  User selects the facility (Cheyenne VAMC), then click `CONTINUE` button to get eligibility and clinics endpoints. 
+
+<details>  
+<summary>Sample Response: Showing two clinics returned for primary care at Cheyenne VAMC.</summary> 
+
+The display names are Green Team Clinic1 and CHY PC VAR2. 
+   **Getting the PACT names does not surface until the clinic endpoint which is several clicks after selecting type of care followed by facility location then checking for direct schedule and eligibility**.
+
+```
+https://staging-api.va.gov/vaos/v2/locations/983/clinics?clinical_service=primaryCare
+
+[
+    {
+        "id": "308",
+        "type": "clinics",
+        "attributes": {
+            "vistaSite": 983,
+            "id": "308",
+            "serviceName": "Green Team Clinic1",
+            "physicalLocation": null,
+            "phoneNumber": null,
+            "stationId": "983",
+            "stationName": "CHYSHR-Cheyenne VA Medical Center",
+            "primaryStopCode": 323,
+            "primaryStopCodeName": "PRIMARY CARE/MEDICINE",
+            "secondaryStopCode": null,
+            "secondaryStopCodeName": "*Missing*",
+            "patientDirectScheduling": null,
+            "patientDisplay": null,
+            "char4": null
+        }
+    },
+    {
+        "id": "848",
+        "type": "clinics",
+        "attributes": {
+            "vistaSite": 983,
+            "id": "848",
+            "serviceName": "CHY PC VAR2",
+            "physicalLocation": null,
+            "phoneNumber": null,
+            "stationId": "983",
+            "stationName": "CHYSHR-Cheyenne VA Medical Center",
+            "primaryStopCode": 323,
+            "primaryStopCodeName": "PRIMARY CARE/MEDICINE",
+            "secondaryStopCode": null,
+            "secondaryStopCodeName": "*Missing*",
+            "patientDirectScheduling": null,
+            "patientDisplay": null,
+            "char4": null
+        }
+    }
+]
+</details>
+
+## Specifications
 
 [User flow](Add link) 
 

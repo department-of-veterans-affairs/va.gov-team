@@ -27,7 +27,7 @@ Where does your product fit into the ?
 ### Outcome
 The purpose of this research is both evaluative and generative. We want to evaluate the concept of an auto-suggest field for naming a condition and our first iteration on the conditions list. We will use what we learn to make improvements to the conditions list prior to release. 
 
-More broadly, we want to understand how Veterans think and talk about what medical conditions to claim.This understanding will inform future, more wide-ranging design ideas for improving the Veteran experience naming a contention.
+More broadly, we want to understand how Veterans think and talk about what medical conditions to claim. This understanding will inform future, more wide-ranging design ideas for improving the Veteran experience naming a contention.
 
 ### Research questions
 Goal 1: Learn how Veterans think and talk about what medical conditions to claim.
@@ -80,7 +80,7 @@ Session will be conducted remotely during zoom.
 
 ### Research materials
 * [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2023-10%20Conditions%20List/conversation-guide.md)
-* [DRAFT Prototype](https://codepen.io/Tyler-Spangler-the-reactor/pen/vYvzyBQ)
+* [Prototype](https://codepen.io/ccteam/live/poqxVpB)
 	
 ## Recruitment	
 
@@ -97,7 +97,7 @@ Participants for this study: 8 Veterans. We would like to request a kickoff call
 **Primary criteria (must-haves)**
 All participants have used VA.gov (in any capacity, whether to file some kind of claim or to access information). 
 * Experience with disability benefits
-  * 4 Veterans (50%) who have never filed for disability, but who intend to within a year. 
+  * 4 Veterans (50%) who have never filed for disability, but who intend to within a year **on va.gov**. 
   * 4 Veterans (50%) who have filed for disability benefits before on va.gov.
 * Time of service 
   * At least 2 Veterans (target 4 Veterans) who served in 1990 or before.

@@ -4,6 +4,11 @@
 
 Allow Veterans to self-disclose their preferred gender identity.
 
+### Figma Link
+| Purpose | Form | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------| 
+| Working file for SIGI | 10-10EZ | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-68371) |
+
 **Related/Associated product(s)**
 - Product | [10-10EZ  product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 

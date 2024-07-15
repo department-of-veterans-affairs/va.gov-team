@@ -43,38 +43,47 @@ The following changes, as compared to historical levels, will serve as key perfo
 ### Initiative Rollout
 We will be implementing this initiative using the following Prioritys:
 
-#### 45-minute reminder & associated Pre-Check-in content (Scheduled for ~Q2 2024)
-- Send out 45-minute Check-in Text Reminder with Check-in Link
-- Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran when it's time to check-in
+#### 45-minute reminder & associated Pre-Check-in content (IN PROGRESS)
+- Status - done but not released
+- Artifacts:
+	- [Detailed release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/45-minute-check-in-text.md)
+  	- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/0D0F05D2-2122-4599-9378-E03EEE32DB88/canvas)
+- Description
+	- Send out 45-minute Check-in Text Reminder with Check-in Link
+	- Add messaging to Pre-Check-in completion page that a text will be sent to the Veteran when it's time to check-in
 
 #### Priority 1: New landing page & accompanying content changes (IN PROGRESS)
-- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61390) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas)
-- Pre-Check-in
-    - Text Message: new content
-    - Login Page: new H1 & body content 
-    - Landing Page: new Landing page format
-        - Show pre-check-in task in new card component and "What to do next" heading
-        - If demos don't need review, change WF to show landing page w/ dismissible alert, that corresponds to the appt for the link clicked (different alert for grouped appts)
-        - Display all upcoming appointments
-        - Details link for each appt
-        - Don't show statuses within appt list
-        - No going back to upcoming appts list page after pre check in complete
-    - Completion Page: 
-        - New H1 content (different for grouped appts)
-        - First accordion not visible if answered Yes to all demo questions. Accordions should not have any work to be done. 
-- Day-of Check-in
-    - Text Message: new content
-    - Login Page: new H1 & body content
-    - Landing Page: New Landing page format
-        - Show check in task in new card component and "What to do next" heading 
-        - If demos don't need review and there's no travel questions shown, show check-in task in new card component and "What to do next" heading. When Veterans selects "check in now" in the card component, take them to this [confirmation page](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/a/pY4ZOjQ#Version). 
-        - Two card components can be show in the "What to do next" heading if Veteran is within two windows. The 1st card should be specific to the text that was clicked. 
-        - Display all upcoming appointments
-        - Details link for each appt
-        - DO show statuses (but only certain ones) on appt list. Statuses have changed design pattern. 
-        - Do not show next task if task was completed and user is navigating from the Completion page back to the appointment list page
-    - Completion Page: 
-        - Add link back to Landing page
+- Status - in progress
+- Artifacts:
+	- [Detailed release notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/detailed-release-notes/unified-check-in-priority-1.md)
+  	- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63466) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/868762F3-8E8F-4E23-B0DA-34C1783F0A03/canvas)	
+- Details
+	- Pre-Check-in
+	    - Text Message: new content
+	    - Login Page: new H1 & body content 
+	    - Landing Page: new Landing page format
+	        - Show pre-check-in task in new card component and "What to do next" heading
+	        - If demos don't need review, change WF to show landing page w/ dismissible alert, that corresponds to the appt for the link clicked (different alert for grouped appts)
+	        - Display all upcoming appointments
+	        - Details link for each appt
+	        - Don't show statuses within appt list
+	        - No going back to upcoming appts list page after pre check in complete
+	    - Completion Page: 
+	        - New H1 content (different for grouped appts)
+	        - First accordion not visible if answered Yes to all demo questions. Accordions should not have any work to be done. 
+	- Day-of Check-in
+	    - Text Message: new content
+	    - Login Page: new H1 & body content
+	    - Landing Page: New Landing page format
+	        - Show check in task in new card component and "What to do next" heading 
+	        - If demos don't need review and there's no travel questions shown, show check-in task in new card component and "What to do next" heading. When Veterans selects "check in now" in the card component, take them to this [confirmation page](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/a/pY4ZOjQ#Version). 
+	        - Two card components can be show in the "What to do next" heading if Veteran is within two windows. The 1st card should be specific to the text that was clicked. 
+	        - Display all upcoming appointments
+	        - Details link for each appt
+	        - DO show statuses (but only certain ones) on appt list. Statuses have changed design pattern. 
+	        - Do not show next task if task was completed and user is navigating from the Completion page back to the appointment list page
+	    - Completion Page: 
+	        - Add link back to Landing page
 
 #### Priority 2: Minor updates to Details page (TENTATIVE)
 - Add ability to see pre-check-in detail appt page w/ "review your information now" call to action
@@ -113,9 +122,17 @@ We will be implementing this initiative using the following Prioritys:
 	- Design tweaks to statuses
        	- Adding the confirm action for pre-check-in
 
-#### Priority 8: Updates to Need help section (TENTATIVE)
-- Changes to Need Help
-- Change alert on travel pages to additional info component
+#### Priority 8: Updates to Need help section (IN PROGRESS)
+- Status - released to production 
+- Artifacts
+	- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62515) & [Wireframes](https://www.sketch.com/s/0e890de3-2530-4ee0-986e-cf0314334aec/p/6ECDF941-DF3B-4C1E-983D-1BA221ACF65C/canvas)
+	- Release Notes
+ 		- [10/12/2023 Release Note](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md#10122023)
+   		- [10/11/2023 Release Note](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md#10112023)
+		- [9/27/2023 Release Note](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/release-plan/check-in-release-notes.md#9272023)
+- Description
+	- Changes to Need Help
+	- Change alert on travel pages to additional info component
 
 #### Priority 9: Access regardless if link expired or have no appointments (TENTATIVE)
 - Allow Veterans to access Pre-Check-in & Check-in regardless if the link has expired or they have no appointments for today (can we re-generate the LoROTA entry for some limited time period? does this affect the ATO?)

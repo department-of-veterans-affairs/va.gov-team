@@ -25,7 +25,7 @@ CAIA’s  job is to make sure VFS teams are ready for those incremental steps of
 - **We will spin off our tasks/tickets within that intake ticket:**
     - [ ] Content
     - [ ] IA
-    - [ ] Accessibility
+    - [x] Accessibility
 
 ## Meeting Action Items 🎬
 - [x] **Flag as high priority item in GitHub Intake Ticket** (Terry)

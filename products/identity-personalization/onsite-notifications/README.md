@@ -1,6 +1,8 @@
 # Product outline: Personalized notifications & alerts on VA.gov (onsite notifications)
 
-**Last updated: August 3, 2023 -- broadening outline to be less VANotify-centric**
+**Last updated: October 31, 2023 -- updated note and projects section**
+
+NOTE: On October 3, 2023, the Notifications section on My VA (onsite notifications MVP) was removed from production. The feature was hidden behind a feature flag (and will eventually be removed from code) after the team and stakeholders determined this feature was not the right solution for elevating personalized updates at this time.
 
 ### Communications
 
@@ -93,8 +95,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 |Project| Status|
 |-------|------------|
 | Notification center MVP | On hold |
-|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | Pre-launch |
-|[Scaling onsite notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|In development|
+|[Scaling onsite notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications#initiative-outline-scaling-onsite-notifications)|On hold|
 
 ### Completed projects & enhancements
 
@@ -104,6 +105,7 @@ VA.gov is in the process of implementing a comprehensive communication strategy 
 
 |Project or enhancement|Launch/Completion date|
 |----|----|
+|[Update design system component build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/update-design-system-component/README.md) | Removed from production |
 |[Notification center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2023-scaling-onsite-notifications/notification-center-discovery)| Discovery work complete Spring 2023|
 |[Onsite notifications MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/mvp)| Launch completed October 24, 2022|
 

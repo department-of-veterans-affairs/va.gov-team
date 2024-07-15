@@ -226,23 +226,9 @@ The Higher-Level Review (HLR) v2 update made it very similar to the Notice of Di
 
 ## What are some things we'd make better if we had more time?
 
-### Move the HLR folder
+### Replace wizard with subtask
 
-The Higher-Level Review form was released while contained within the `disability-benefits` folder, before realizing that it should have been added to the `appeals` folder. It should live in the `appeals` folder with the Notice of Disagreement form and supplmental claims form (once it is created).
-
-### Area of disagreement grouped checkboxes
-
-Because the [checkbox group pattern is being used](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/available-features-and-usage-guidelines#checkbox-group), showing validation errors needs to be set on the outer wrapper. Then connecting the description, checkbox group and extra freeform input requires some custom CSS to show the red border ([workaround code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/disability-benefits/996/utils/ui.js#L32-L41)).
-
-<details><summary>Page showing HTML</summary>
-
-![area of disagreement page showing 3 distinct blocks that all need a red border](area-of-disagreement-checkboxes.png)
-</details>
-
-<p>
-
-**Improvement**: This current implementation isn't ideal, and may be improved by using the [custom page method](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/forms/bypassing-schemaform) to completely customize this page and use the [`va-checkbox-group` web component](https://design.va.gov/storybook/?path=/docs/components-va-checkbox-group--default).
-</p>
+The wizard on the `/start` page is deprecated
 
 ### Contact loop testing
 

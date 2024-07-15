@@ -82,7 +82,7 @@ Subsequent Personalization iterations will _**not**_ be limited to the home scre
 
 ### Metrics
 
-Measures of success are defined by an outcome with associated direct & proxy measurements. Additional details on how measures of success were determined are located [here](https://docs.google.com/document/d/1xa5d114xMp6Ls1x2KR904LUoAQ7tDGKZBiijE8MJRKc/edit)
+Measures of success are defined by an outcome with associated direct & proxy measurements. Additional details on how measures of success were determined are located in the [Data Project Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/design-personalization/data/data_project_plan.md)
 
 
 
@@ -131,7 +131,7 @@ Measures of success are defined by an outcome with associated direct & proxy mea
 #### Risks: 
 
 * We’re not sure that users will find value or greater convenience in surfacing personalized information outside the existing features.
-* We’re not sure which pieces of personalized information will be most valuable for users to see on the home screen.
+* We’re not sure which pieces of personalized information (or what level of detail) will be most valuable for users to see on the home screen.
 * Displaying personalized information from too many APIs in one place might cause app performance to suffer.
 * The home screen becomes overgrown & a dumping ground over time without proper guidelines and governance.
 

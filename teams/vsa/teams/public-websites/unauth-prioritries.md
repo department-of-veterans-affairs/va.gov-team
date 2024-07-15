@@ -5,7 +5,7 @@
 **Unauth Product Teams**
 
 - [2021 Roadmap (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1606233302345/7ce4ecc84a8d04a12dd3de0ef33600ea86611aad?sender=johnhashimoto4253): Living roadmap with key initiatives and activities
-- [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-we-work/README.md): Key commonalities and helpful guidance about how we work, with links to Team Charters, Folders and a description of role/responsibilities for Product leads.
+- [How We Work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/how-we-work/README.md): Key commonalities and helpful guidance about how we work, with links to Team Charters, Folders and a description of role/responsibilities for Product leads.
 - [Veteran Facing Tools (VFT) Zenhub Sprint Board](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?repos=133843125,31788863): Filterable ZenHub board outlining sprint plans across unauth teams.
 
 ## Public Websites 
@@ -49,18 +49,18 @@
           - COVID Questions: Leave through end of year, then check with Danielle (will likely remain up into 2022)
     - Home Page 
       - **Home Page Alert Banner to make process/functionality more "systematic" (e.g. enable this via CMS)**
-        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md)
+        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md)
         - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26991)
           - [OCTO-DE Project Board Card](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/425)
           - [New Rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/Banner-Alert%20Rubric.md) 
           - [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/content/banners/banner-alerts.md)
           - [Content Governance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/banners)
       - **Home Page Evolution** 
-        - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/top-tasks-links/product-brief.md)
+        - [X] [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/top-tasks-links/product-brief.md)
         - User Research planned to test adding link to search at bottom of Top Tasks boxes
         - Next Steps: Provided an overview of this to members of the Sitewide Crew on 8/3; the new PO/Crew Chief will need to help drive this forward.
       - **New Mobile header (Research initiative)**
-        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page/new-mobile-header/product-outline.md)
+        - [X] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/header-footer/initiatives/2021-new-mobile-header/product-outline.md)
         - [ ] Analytics baseline request -- e.g.. what is overall % usage of search on Mobile; what is % usage of search in header on Mobile. 
         - [ ] Research Plan - in-production test will require big tech lift for Mobile header; easier to do interactive prototype/usability test.
     - Outreach & Events Calendar - to harden multi-tenant users; to enable filtering of events
@@ -71,7 +71,7 @@
       - Reducing hierarchy/links in left-nav for Hub pages (as Content moves pages into R&S)
       - Back button or other design element to return to Tier 1 from R&S
       - Larger item - CMS: COPE Single Q-and-A
-      - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md)
+      - [Initiative Brief WIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-hubs/initiatives/benefit-hub-optimization-initiative-brief.md)
 
   - **Maintain**
     - Resources & Support (with enhanced Video template in backlog)
@@ -129,8 +129,8 @@
 ### 2021 Priorities
   - New
     - Find a Form eSign-eApplication POC
-      - [X] [Draft - Discovery Sprint Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/e-application/Pilot_Pitch.md)
-      - [Folder with Product Brief(s)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/e-application)
+      - [X] [Draft - Discovery Sprint Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-08-e-application/Pilot_Pitch.md)
+      - [Folder with Product Brief(s)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form/initiatives/2021-08-e-application)
       - [Product Epic (WIP)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/27461)
   - Iterate
     - Find a Form

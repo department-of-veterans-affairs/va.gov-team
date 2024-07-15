@@ -101,7 +101,7 @@ At the time of writing, the data flow is as follows -
 3. A separate Vets-API [controller](https://github.com/department-of-veterans-affairs/vets-api/blob/c66c3dee44f9bfa022f41c5a63c5cb5c34009b39/app/controllers/v0/forms_controller.rb) exposes the Lighthouse Forms API to requests from va.gov. This is done because requests to the Lighthouse Forms API requires a secret key, which cannot be exposed to the browser.
 4. Finally, the forms data is surfaced by the [Vets-API forms route](https://api.va.gov/v0/forms) for the Find Forms tool to leverage.
 
-This [diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/mvp/technical/forms-data-flow-Q3-2020.pdf) helps illustrate the data flow.
+This [diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/technical/forms-data-flow-Q3-2020.pdf) helps illustrate the data flow.
 
 ### Resources search
 The Resources search refers to a search tool dedicated to the Resources [section](https://www.va.gov/resources/) of the website. It is used to perform a search across the Resources library of articles.

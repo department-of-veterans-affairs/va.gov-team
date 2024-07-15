@@ -1,14 +1,14 @@
 # Profile: LOA1 user attempts to access any section of profile
 
-Last updated September 23, 2022
+Last updated February 14, 2024
 
 A user is considered "LOA1" when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov and go to the profile can't see any page in profile other than Account Security. 
 
 ## UX
 - When an LOA1 user navigates to profile, they'll only see the Account Security page; no other pages in profile are available from the profile navigation menu.
 - If they click a URL that leads directly to any specific page under `/profile/` they're redirected to `/profile/account-security`.
-- [Desktop mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/DPDQDwq)
-- [Mobile mock-up](https://www.sketch.com/s/ebd4596f-0707-46cb-941e-247a808725cc/a/zx0boLr)
+- [Desktop mock-up](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-313&mode=design&t=EjU8iLKh728VGBef-11)
+- [Mobile mock-up](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-147&mode=design&t=EjU8iLKh728VGBef-11)
 
 ## How to reproduce
 1. Log into staging with any LOA1 user. 

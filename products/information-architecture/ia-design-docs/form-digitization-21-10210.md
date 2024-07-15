@@ -37,11 +37,16 @@ The form will live under the new parent page for supporting forms.
 ## <a name="nav"></a>Entry points <br>
 
 1. **[Supporting forms page](https://www.va.gov/supporting-forms-for-claims/)** - Add
+  - Placement description: 2nd option down
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210
+  - Notes:
+
+2. **[About VA Form 21-10210](https://www.va.gov/find-forms/about-form-21-10210/)** - Add
   - Placement description: 
   - Link label: TBD by Sitewide Content
   - Link destination: www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210
-  - Notes: Since the supporting forms page is currently in progress, we have left the placement description blank in the meantime.
- 
+  - Notes:
 
 ## <a name="redirects"></a>Redirects <br>
 

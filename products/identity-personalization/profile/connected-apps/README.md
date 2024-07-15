@@ -1,6 +1,6 @@
 # Connected Apps Product Outline
 
-**Last updated: August 1, 2023**
+**Last updated:** May 10, 2024 - added an additional slack channel
      
 ## Table of Contents
 
@@ -15,7 +15,7 @@
 
 
 ## POCs
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps)
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); there are two private channels for connected apps, one that includes Lighthouse [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps), and a 'legacy' channel that does not include Lighthouse contacts [#connected_apps](https://dsva.slack.com/archives/C0136FJV5R9)
 - [The frontend for this feature is currently managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 - The backend for this feature is maintained by the Lighthouse team, with POs being Dave Mazik and Carey Otto. They can be reached in Slack via [#vaapi-connected-apps](https://dsva.slack.com/channels/vaapi-connected-apps).
 
@@ -53,8 +53,8 @@ See [profile product outline](https://github.com/department-of-veterans-affairs/
 ## Frontend
 
 ## Design and UX
-- [Sketch files](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e)
+- [Figma files onboarding early 2024](https://www.figma.com/file/eMR2XSTGnWQgF2YEphWK8O/Profile---Connected-Apps?type=design&node-id=0-1&mode=design&t=WTDFhunwQn2SA1Ec-0)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases)
 
 ### Flow diagrams
-- The [mobile page of the Sketch file](https://www.sketch.com/s/479aa6d6-a7a7-4d82-acf1-c06a6699655e/p/0E8B5CFE-DD9A-46CE-9369-6ED367B57063/canvas) includes the user flow.
+- The [mobile page of the design file](ttps://www.figma.com/file/eMR2XSTGnWQgF2YEphWK8O/Profile---Connected-Apps?type=design&node-id=0-1&mode=design&t=WTDFhunwQn2SA1Ec-0) includes the user flow.

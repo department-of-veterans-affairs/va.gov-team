@@ -1,3 +1,10 @@
+
+
+## Locative / search rules used in Facility Locator
+LAST UPDATED: November 2019
+
+**TODO: 2023-12-18: Update for modern age or deprecate**
+
 Location NOT detected, not entered:
 
 - Zoom - All US, No Points

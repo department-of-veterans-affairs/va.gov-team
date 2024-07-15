@@ -4,9 +4,10 @@ title: "PW intake: <Type of Request> from <Team>"
 labels: 
   - "Public Websites"
   - "Needs refining"
+  - sitewide
 assignees: 
   - jilladams
-  - wesrowe
+  - FranECross
   
 body:
   - type: markdown
@@ -17,7 +18,7 @@ body:
           - **Injected header**: Please submit [Injected Header issue template](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=jilladams&labels=Injected+header%2C+Needs+refining%2C+%E2%AD%90%EF%B8%8F+Public+Websites%2C+VA.gov+frontend&template=injected-header.md&title=Injected+header%2Ffooter%3A+%3Cdomain%28s%29%3E)
           - **REACT sign-in widgets or feature flags** (flipper)
             - **Note:** App team engineers are responsible for flipper implementation related to their products. PW engineers can consult as needed. [Read feature toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) for more info.
-          - Other engineering support from the Public Websites Team  
+          - **If you have content requests**, please fill out the content [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/sitewide-content-intake-form.md)
 
           ### Prioritization
           Our team works in 2-week sprints, and new tickets will be refined before being assigned in future sprints. If your request is time-critical, please be clear about user testing / launch schedules in your description. Urgent sprint injections will require approval from PW PO, Dave Conlon.
@@ -31,6 +32,7 @@ body:
         - label: Content audit
         - label: Implementation of REACT sign-in widgets
         - label: Support for UAT testing or phased roll out of app/tool landing page
+        - label: Implementation of Translation widgets
         - label: Something else
   - type: textarea
     id: customer-request
@@ -47,12 +49,6 @@ body:
     validations:
       required: true
   - type: input
-    id: customer-name
-    attributes:
-      label: Your team name
-    validations:
-      required: true
-  - type: input
     id: customer-slack
     attributes:
       label: Your product/team Slack channel
@@ -60,44 +56,24 @@ body:
   - type: input
     id: customer-PO
     attributes:
-      label: Your DEPO product owner
+      label: Your OCTODE product owner
       description: Github handle, name
     validations:
       required: true
-  - type: input
-    id: customer-pm
+  - type: markdown
     attributes:
-      label: Your Product Manager
-      description: Github handle, name
-  - type: input
-    id: customer-designer
-    attributes:
-      label: Your designer(s)
-      description: Github handle(s), name(s)
-  - type: input
-    id: customer-fe
-    attributes:
-      label: Your Front-end engineer(s)
-      description: Github handle(s), name(s)
-  - type: input
-    id: customer-stakeholders
-    attributes:
-      label: Other launch decision makers
-      description: Will additional stakeholders make launch decisions for this effort? Please list github handle(s) or email address(es).
-  - type: textarea
-    id: fe-supporting-info
-    attributes:
-      label: Collateral for Front-end support
-      description: If front-end eng support is needed, provide a link to your spec, and the unique Flipper ID. 
-  - type: textarea
-    id: additional-information
-    attributes:
-      label: Additional Information
-      description: Please include any additional information or context that may be relevant to your request, such as existing IA requests, product briefs/outlines, wireframes, prototypes, user research synthesis  
+      value: |
+        ----
+          ## Additional Stakeholders? 
+         Please share info for anyone else involved in review, decision making, or launch for this project, e.g. Product manager, designer(s), front-end engineer(s), etc.
+
+          ## Collateral for Front-end support
+          If front-end eng support is needed, provide a link to your spec, and the unique Flipper ID. 
+          
   - type: checkboxes
     id: terms
     attributes:
-      label: Notify Sitewide Public Websites of this issue, and tag @Wes Rowe & @jilladams. 
+      label: Notify Sitewide Public Websites of this issue, and tag @Fran Cross & @jilladams. 
       options:
         - label: I acknowledge that I must notify `#sitewide-public-websites` in Slack after submitting this issue.
           required: true
@@ -113,4 +89,4 @@ body:
         - [ ] Create epic/tickets as needed for the Public Websites team to implement
 
         #### Definition of Done
-        * Request ticket is closed and implementation tickets created as needed - **If you have content requests, please fill out the content [intake request form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/sitewide-content-intake-form.md)**
+        * Request ticket is closed and implementation tickets created as needed

@@ -1,15 +1,15 @@
 name: Qualitative Data Request
-description: Please use this form to request qualitative (textual) data for tier 2/3 support as well as Medallia User Surveys
+description: Please use this form to request qualitative (textual) data for tier II/tier III support as well as Medallia User Surveys
 title: "Qualitative Data Request"
 labels: [ "VSP-contact-center", "cc-data-request" ]
 assignees:
-  - Kimberley2019, ATMiddleton, newworld2616, aubreyarcangel
+    - Kimberley2023-CSM, ATMiddleton, newworld2616, aubreyarcangel
 body:
   - type: markdown
     attributes:
       value: |
           ## What this form is for
-          The Contact Center Team is responsible for tier 2/3 support as well as Medallia User Surveys (among other things) along with associated and data and reporting. Please use this form to request qualitative (textual) data for either. While we have quantitative data for these services within DOMO, we are only able to share the qualitative data on the network due to PII/PHI concerns.
+          The Veteran Support Team is responsible for Tier II/Tier III support as well as Medallia User Surveys (among other things) along with associated and data and reporting. Please use this form to request qualitative (textual) data for either. While we have quantitative data for these services within DOMO, we are only able to share the qualitative data on the network due to PII/PHI concerns. (The shared data may contain PII/PHI information, we are only able to share the qualitative data on the VA network.) Please be sure to use VA.gov email ONLY. 
           
           *Please allow 5 business days for delivery.*
   - type: dropdown
@@ -20,6 +20,16 @@ body:
       options:
         - Support
         - User Surveys
+    validations:
+      required: true
+  - type: dropdown
+    id: data-source-type
+    attributes:
+      label: Data Source Type
+      description: For MyVA 411 data, select \"MyVA.411.\" For Medallia data, select \"Medallia.\"
+      options:
+        - MyVA.411 
+        - Medallia
     validations:
       required: true
   - type: input
@@ -48,7 +58,7 @@ body:
     id: product-description
     attributes:
       label: Product Description
-      description: Please provide a high level description (one or two sentences) of your product(s).
+      description: Please provide a high-level description (one or two sentences) of your product(s).
       placeholder: 
     validations:
       required: true
@@ -62,26 +72,46 @@ body:
     id: product-urls
     attributes:
       label: Survey URL(s), key term(s), case category or type
-      description: Please provide the root directory(ies) for your product(s). If you want ONLY the URL listed, please specifiy. Otherwise, any URLs that live under the path provided will be exported as well. If providing specific terms to search for, please include those terms as well as common alternate spellings.
-      placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider"
+      description: Please provide the root directory(ies) for your product(s). If you want ONLY the URL listed, please specify. Otherwise, any URLs that live under the path provided will be exported as well. If providing specific terms to search for, please include those terms as well as common alternate spellings.
+      placeholder: "URLs: ONLY va.gov/find-locations, everything under and including va.gov/health-care  Terms: facility, facilities, community care provider  (The shared data may contain PII/PHI information, we are only able to share the qualitative data on the VA network, VA.gov email ONLY.)" 
+    validations:
+      required: true
+  - type: dropdown
+    id: Sub-URLs
+    attributes:  
+      label: Sub URLs
+      description: Include Sub URLs
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: dropdown
     id: data-delivery
     attributes:
       label: File Delivery Format
-      description: Please specifify how you would like your data to be delievered.
+      description: Please specify how you would like your data delivered.
       options:
         - All in one file, on one tab
         - One file, different tab for each term/URL
         - One file for each term/URL
     validations:
       required: true
+  - type: dropdown
+    id: Word-Cloud
+    attributes:  
+      label: Word Cloud
+      description: Please specify if you would like a Word Cloud included with your results.
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
   - type: input
     id: va-email
     attributes:
       label: VA Email Address(es)
-      description: Please provide the VA email address(es) you wish to have the data shared with. Data cannot be shared with a non-VA email address.
+      description: Please provide the VA.gov email address(es) you wish to have the data delivered. Data cannot be shared to a non VA.gov email address.
       placeholder: johndoe@va.gov
     validations:
       required: true
@@ -95,4 +125,5 @@ body:
           Please leave this field as is when submitting.
     validations:
       required: false
+
         

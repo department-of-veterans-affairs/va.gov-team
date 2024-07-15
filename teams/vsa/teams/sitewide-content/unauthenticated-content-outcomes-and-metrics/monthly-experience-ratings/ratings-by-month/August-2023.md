@@ -1,8 +1,8 @@
 # Unauthenticated page experience ratings: August 2023
 
 ## Related overall scores
-- **Total customer satisfaction score:** (49.9% change from last period)
-- **Average resources and support good/bad experience score:** 
+- **Total customer satisfaction score:** 49.9 (0%change from last period)
+- **Average resources and support good/bad experience score:** 73% "good" experience rating overall (10,299 out of 14,107 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -27,9 +27,14 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - 
+  - 42% (42 of 99) R&S pages have a 75% or higher "good" score
+  - 29% (29 of 99) R&S pages have a 51% - 74% "good" score
+  - 28% (28 of 99) R&S pages have a 50% or lower "good" score
+    
 - **Breakdown of resources and support scores by 10s:**
- 
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/c46912b7-7b6d-4f7c-b414-f224215e3acb)
+
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/9388eb37-b7e9-4f53-927a-1b0585eaece0)
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses

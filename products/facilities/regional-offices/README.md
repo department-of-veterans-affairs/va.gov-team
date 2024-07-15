@@ -55,46 +55,15 @@ This is the new VA.gov facility product for VA's Facilities that offer Benefits 
 - VBA's facilities are unique because they provide VA benefits help for all three administrations (i.e., they will help you apply for health care and get burial benefits)
 
 ### **Business partners:**
-- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement (lewis.boone@va.gov)
-- Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead (tanekwa.bournes@va.gov) 
-- Kenyonna Power, VBA Strategic Engagement (kenyonna.power@va.gov)
-- Derek Hommema, VBA Office of Field Operations (Derek.Hommema@va.gov)
-- Brigette Murray, VBA Office of Field Operations (Brigette.Murray@va.gov)
-
-
-
+- Lew Boone, Interim Chief (9/1/2023), Digital Media and Design, VBA Strategic Engagement
+- Tanekwa Bournes, VBA Strategic Engagement & VBA facilities lead
+- Kenyonna Power, VBA Strategic Engagement 
+- Derek Hommema, VBA Office of Field Operations
+- Brigette Murray, VBA Office of Field Operations
 
 ### **VBA Stakeholders:**
-- Laura O'Shea, Office of Policy Overview at VBA (laura.oshea@va.gov)
-- Jamie Statton, Office of Policy Overview at VBA (jamie.statton@va.gov)
-
-### **Points of Contact from VBA RO pilot locations**
-[VBA Pilot Sites Selection.xlsx](https://dvagov.sharepoint.com/:f:/s/VBAVA.govmodernization/ElGAcEivodBFn5vZuP69aFUBpanKqq02M4JLkimn5zMfiQ?e=TJh0ir) [VA SharePoint]
-
-[08/21/23 list on Teams](https://dvagov.sharepoint.com/:x:/r/sites/SitewideFacilitiesTeam-FacilitiesProductSync/_layouts/15/Doc.aspx?sourcedoc=%7B75BA1C30-612E-47BF-8FDA-A9683892163F%7D&file=VBA%20MVP%20contacts%20August%202023.xlsx&action=default&mobileredirect=true)
-| Houston          | 1/2       | Name                        | Email                   |
-| ---------------- | ---------- | -------------------------- | ----------------------- |
-| Anchorage        | Primary    | Kathleen “Kathie” Warren   | kathleen.warren1@va.gov |
-| Anchorage        | Secondary  | vacant           |  |
-| Albuquerque      | Primary    | Michael Nelson             | Michael.Nelson9@va.gov  |
-| Albuquerque      | Secondary  | Scott Lajiness             | Scott.Lajiness@va.gov   |
-| Honolulu         | Primary    | Melynn McWilliams               | Melynn.McWilliams@va.gov      |
-| Honolulu         | Secondary  | Jametria McElroy           | Jametria.mcelroy@va.gov |
-| Houston          | Primary    | Daniel Irizarry            | Daniel.Irizarry@va.gov  |
-| Houston          | Secondary  | Thomas “David” Gibson      | Thomas.Gibson@va.gov    |
-| Houston          | Additional | Steven Sunseri             | steven.sunseri@va.gov   |
-| National Capital | Primary    | vacant              |   |
-| National Capital | Secondary  | Joshua Carson              | Joshua.Carson@va.gov    |
-| San Juan         | Primary    | Sharon Delgado             | sharon.delgado@va.gov   |
-| San Juan         | Secondary  | Adrian Pons                | ADRIAN.PONS@va.gov      |
-
-
-8/16/23: Additional invitees to Facilities/VBA RO recurring sync, list to be confirmed with stakeholders re: who are current primary / secondary:
-- jamie.verity@va.gov, San Diego, Training Manager
-- nykeisha.moore@va.gov, National Capital, VR&E Asst. Officer
-- ramon.lopez2@va.gov, Portland, Management Analyst
-- tykisha.tull@va.gov, National Capital, VSC Coach
-
+- Laura O'Shea, Office of Policy Overview at VBA 
+- Jamie Statton, Office of Policy Overview at VBA 
 
 ## Approach
 - Research, design, and define the facilities hierarchical structure as it relates to Veteran needs and understanding
@@ -122,30 +91,6 @@ We need to reach parity with our new Regional Office/benefits products so we can
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
 - VBA's Veteran Readiness and Employment sites are both stand-alone but also often times located at VAMCs or Vet Centers(VocRehab is built into the VHA health services taxonomy for this reason)
   - We need to figure out the user flows into VocRehab facilies and services, since users will be able to get to them from a VAMC site, RO sites, and Facility Locator
- 
-## MVP Scope
-MVP scope is detailed in [Initiative - Design & Build VBA Regional Office MVP #10514](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10514).
-[SE: Initiative - VBA Regional Office modernization #13029](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13029) includes post-MVP issues.
-
-## Timeline
-### Phase 1 - Discovery & MVP Definition
-- [VBA Regional Offices: Discovery & MVP definition #9659](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9659)
-- July 2022 - February 2023
-- Selected [7 MVP sites](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9961#issuecomment-1242802953)
-- Conducted generative [research with Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-8-veteran-facing/research-readout.pdf)
-- Conducted generative [research with Public Contact Staff](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/2022-9-public-contact/vba_public_contact_research.pdf)
-- MVP scope established and [shared with VBA stakeholders](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12047#issuecomment-1451850564)
-
-### Phase 2 - MVP Design & Development
-- [VBA Regional Offices: Design & Develop MVP #10514](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/10514)
-- March 2023 - ongoing as of July 2023
-- VA.gov front end design & development governed by Platform Collab Cycle
-- Drupal CMS content model & editorial interface governed by CMS Collab Cycle
-- VA Service Taxonomy additions governed by CAIA and Taxonomy council
-
-### Phase 3 - Fast Follow & National Roll-out
-- [VBA Regional Offices: Fast Follow #14477](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/14477)
-- Will begin after phase 2
 
 
 ## VBA Facility types
@@ -161,3 +106,10 @@ The data call in August 2021 defined these as the different types of VBA Facilit
 | Pre‐Discharge Site  | This facility is a joint VA and DOD location to file a claim for disability compensation up to 180 days prior to separation or retirement from active duty or full time National Guard or Reserve duty (Titles 10 and 32).  |
 | Seamless Transition Integrated Care Clinic (STICC)  | This facility is a transition clinic located in VHA facilities, there are VHA and VBA Rehab counselors as well as VBA Compensation and Benefits (Comp & Pen) personnel that assist transitioning servicemembers with benefit-related information. |
 
+
+# Initiatives
+* [Pilot MVP launch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2023-2024-pilot-mvp#points-of-contact-from-vba-ro-pilot-locations)
+* [National Editor onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/regional-offices/initiatives/2024-national-mvp)
+
+# Incident response
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-pages/technical-documentation.md#incident-response

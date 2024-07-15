@@ -255,12 +255,13 @@ Some participants expressed that having personalized assistance through the bene
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+[DRAFT]
+- Explore possible form flows around “registration and enrollment paths” for discussion and testing with Veterans and non-Veterans. 
+- Help guide the Veteran through the health care benefits choice with plain language questions around their eligibility status and personal situation.
+- More focused future research around how Priority Groups impact a Veteran’s awareness and understanding of PGs impact on the health care application and their personal benefits available and maintenance they have to take.
+- Future testing of hypotheses flow(s) with updated and simplified questions to determine if that helps reduce confusion and get Veterans/non-Veterans into the benefit status that is the most applicable to them. 
+- Future discovery on if health care enrollment can be done fully or partially automatic when disability claims are filed (it is often one process in Veteran’s point of view).
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
 
 
 

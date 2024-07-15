@@ -73,14 +73,19 @@ Anyone on the team can [create a ticket](how-to-create-vaos-tickets.md). All are
   - Requires peer, VSP, or other VFS team code review
   - No work in progress limit for pipeline
   - Devs to manage when and how long ticket is in code review
+  - Acceptance criteria checklist from issue should be copied to PR (when available).
+  - Code reviewer is responsible for verifying acceptance criteria has been met by checking off the checklist. 
 - Validate
   - Ready for QA, Product, Design, or VSP review
   - For a ticket to go into the "Validate" pipeline, it must:
     - Be code complete
-    - Have all acceptance criteria completed
+    - Have all acceptance criteria completed in PR ticket.
     - Have all definition of done items completed
     - Result in new or changed product functionality (for code changes), or have documentation/artifacts provided (for other tasks/requests)
     - Be available in Staging, if functional or visual change
+
+**NOTE:** It is the responsiblity of the validator to check off the acceptance criteria checklist in issue ticket as part of the verification/validation. 
+
 - Closed
   - If through Validate pipeline, then validation is complete with no further work on ticket
   - If not through Validate pipeline, then when complete and ready for Production
@@ -94,6 +99,16 @@ We're going to experiment with t-shirt size estimates. Effectively this is just 
 - 5 = large
 - 7 = x-large
 
+## UX Team
+
+### Weekly Planning
+
+- Weekly on Mondays
+- Review high priority tickets
+- Round-robin review and update team member tickets
+- Review any parking lot items
+
+[How to create and update UX tickets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-create-vaos-tickets.md#appointments-ux-team-board)
 
 ## Communication
 

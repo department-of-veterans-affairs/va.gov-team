@@ -47,6 +47,11 @@ The form will live under the new parent page for supporting forms, which is now 
   - Link destination: www.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845
   - Notes:
 
+2. **[About VA Form 21-0845](https://www.va.gov/find-forms/about-form-21-0845/)** - Add
+  - Placement description:
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845
+  - Notes:
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*

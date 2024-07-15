@@ -1,13 +1,13 @@
 # Process for reporting inaccurate data in Facility Locator
 
-The process for reporting inaccurate location information depends on the type of facility and information. This information is accurate as of Lighthouse Facilities API v0.
+The process for reporting inaccurate location information depends on the type of facility and information. This information is accurate as of Lighthouse Facilities API v1.
 
 Jump to:
 
 * [Addresses, phone numbers, hours, map thumbnails &#8595; ]([#addresses-phone-numbers-hours-map-thumbnails)
 * [Services &#8595; ](#services)
 * [Facility status &#8595; ](#facility-status)
-* Facility & CMS Team workflows
+* [Facility & CMS Team workflows](#facilities--cms-team-workflows)
 
 ## Addresses, phone numbers, hours, map thumbnails
 
@@ -18,7 +18,7 @@ VHA Clinics | Email the name of the facility and the missing or inaccurate detai
 Vet Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Center Outstations | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
 Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
-NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 
@@ -26,13 +26,13 @@ Community care providers and pharmacies (usually non-VA facilities)	| Email the 
  
  Facility type	|	Process
 ---	|	---
-VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
+VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of innacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
 VHA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
-Vet Centers | N/A - services are standardized and not dynamic/database-driven
-Vet Center Outstations | N/A - services are standardized and not dynamic/database-driven
-Vet Centers Community Access Point  | N/A - No Services
-NCA Cemeteries | N/A - No Services
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
+Vet Centers | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office or the relevant editor
+Vet Center Outstations | N/A - Services are associated with the main Vet Center, not with the Outstation
+Vet Centers Community Access Point  | N/A - Services are associated with the main Vet Center, not with the Outstation
+NCA Cemeteries | N/A - No services are associated
+VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
  
  ## Facility Status
@@ -56,7 +56,12 @@ Community care providers and pharmacies (usually non-VA facilities)	| N/A
 ## Facilities & CMS Team workflows
 
 ### Facilities team
-If Facilities team learns about any incorrect Facility data, contact VHA DM for follow up with the relevant Editor.
+If Facilities team learns about any incorrect VHA Facility data, contact VHA DM for follow up with the relevant Editor.
+
+Facility type	| Service |	Notes & Process
+---	|	--- | ---
+VHA Medical Centers| Urgent care (UC) / Emergency care (ED) | [LH Slack explainer thread](https://dsva.slack.com/archives/C02BTJTDFTN/p1718720223648529). UC/ED services can come either from Drupal or from Access to Care (ATC). Unlike other services, they are **not** auto-removed from a facility if the billing code has not been used in the last 30 days. We must ask LH to manually reach out to ATC to update the data.
+
 
 ### Helpdesk (CMS Team)
 If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, flag with Editors to follow the runbook above.

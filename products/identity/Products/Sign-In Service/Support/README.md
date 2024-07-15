@@ -1,0 +1,1 @@
+Please see [this](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) document for **office hours**, **pairing sessions**, and **on-call support**.

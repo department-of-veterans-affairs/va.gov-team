@@ -1,3 +1,5 @@
+# OBSOLETE DOCUMENT
+
 # Public Websites Product Transition Doc
 
 <br>
@@ -24,16 +26,16 @@ Brief plain-language description of the problem space where your team and its pr
 ### Appeal Modernization Process
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/AMA%20Follow%20Up)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/AMA%20Follow%20Up/AMA%20Follow%20Up%20Product%20Outline.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/AMA-follow-up)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/AMA-follow-up/AMA%20Follow%20Up%20Product%20Outline.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
 ### Benefit Hub
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/Benefit%20Hub)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/Benefit%20Hub/Benefit%20Hub%20Optimization%20Initiative%20Brief.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-hubs)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-hubs/Benefit%20Hub%20Optimization%20Initiative%20Brief.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
@@ -48,15 +50,15 @@ Brief plain-language description of this product
 ### Home Page Banner 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page-banner)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/home-page-banner/product-outline.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page-banner)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page-banner/product-outline.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
 ### Home Page 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/home-page)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/home-page)
 - Product outline - N/A
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
@@ -64,24 +66,24 @@ Brief plain-language description of this product
 ### How to apply Wizards 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-to-apply-wizards)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/how-to-apply-wizards/README.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/how-to-apply-wizards)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/how-to-apply-wizards/README.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
 ### How we work 
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/how-we-work#readme) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/how-we-work)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites/how-we-work#readme) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
 ### Search UI Consistency
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/search-ui-consistency)
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/search-ui-consistency/product-outline.md) 
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/on-site-search/initiatives/search-ui-consistency)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-ui-consistency/product-outline.md) 
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
 
@@ -128,7 +130,7 @@ Brief plain-language description of this product
 ### Emergency and Promotional Banners
 Brief plain-language description of this product
 
-- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/emergency-banner)
+- [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/full-width-alert)
 - Product outline -N/A
 - Analytics dashboard (Domo or Google Analytics) - N/A
 - Staging users and usecases - N/A
@@ -137,7 +139,7 @@ Brief plain-language description of this product
 Brief plain-language description of this product’s history and next steps
 
 - Now [Events](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/28918)
--     [Redirects] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/content-team-processes/URL-redirect-process)
+-     [Redirects] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/69833737d9fe22b8990bb987e7c50de13205c5d5/products/public-websites/archives/content-team-processes/URL-redirect-process)
 - Next [Columbus/Roseburg Cerner Launch](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/39062)
 - Later [Cerner Single source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsa/teams/public-websites/cerner.md)
 - [Top Tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-plan.md)

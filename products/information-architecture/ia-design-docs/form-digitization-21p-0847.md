@@ -50,6 +50,12 @@ The form will live under the new parent page for supporting forms. Sitemap has a
   - Link destination: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
   - Notes: 
 
+2. **[About VA Form 21P-0847](https://www.va.gov/find-forms/about-form-21p-0847/)** - Add
+  - Placement description: 
+  - Link label: TBD by Sitewide Content
+  - Link destination: www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847
+  - Notes: 
+
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=mnorthuis&labels=content-ia-team%2C+ia&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  

@@ -37,17 +37,16 @@ Health Products
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
 - Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
-- David "DK" Kennedy | david.kennedy7@va.gov / david.kennedy@adhocteam.us / GH "davidakennedy" - UX Design/Research
+- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
 - Katelyn Caillouet | katelyn.caillouet@va.gov / katelyn.caillouet@agile6.com / GH "katelyncai" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
 - Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
-- Adrian de la Cruz | adrian.delacruzvelasco@va.gov / adrian.delacruz@agile6.com / GH "adrian-delacruz-a6" - Full Stack/Backend focus Engineer
-- Chapley Watson | chapley.watson@va.gov / chapley.watson@agile6.com / GH "jadon1979" - Full Stack Engineer
-- Lihan Li | han.li@va.gov / lihan@adhocteam.us / GH "lihanli" - Backend Engineer
+- Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
-- Fletcher Bonds | VA EMAIL TBD / fletcher.bonds@adhocteam.us / GH "fbonds" - Sr Engineer/QA
+- Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH TBD - Full Stack Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
+- Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah" - QA Engineer
 
 ---
 
@@ -211,6 +210,9 @@ GitHub is the single source of truth. All work is documented for tracking and ca
 - Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
+- Shana Watson | shana.watson@va.gov
+- Simone Gully | simone.gully@va.gov
+- Amanda Scully | amanda.scully@va.gov
 
 **Enrollment System (ES)**
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)

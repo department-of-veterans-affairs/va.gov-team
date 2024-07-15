@@ -2,7 +2,7 @@
 # Release Plan - Direct Deposit Comp & Pen Migration from EVSS to Lighthouse
  [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration#readme)
 
-**Last updated: 08/08/2023**
+**Last updated: 10/19/2023** Updated metrics
 
 ## Table of contents
 
@@ -150,11 +150,11 @@ re working with LH and BGS to determine where the issues continue to stem from u
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
+|Number of unique users:| 18,594 |
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Was any downstream service affected by the change?:| No |
+|Types of errors logged:| |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| N/A |
 
 ---
 ### Stage D: 50% of users
@@ -163,11 +163,11 @@ re working with LH and BGS to determine where the issues continue to stem from u
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
+|Number of unique users:| 32,431 |
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Was any downstream service affected by the change?:| No |
+|Types of errors logged:| |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| N/A |
 
 ### Stage E: 100% of users
 
@@ -175,29 +175,20 @@ re working with LH and BGS to determine where the issues continue to stem from u
 
 |Question|Response|
 |---|---|
-|Number of unique users:| [FILL_IN]
+|Number of unique users:| [60,513 ](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/_u.date00=20231010&_u.date01=20231017/)|
 |Metrics at this stage (per your "success criteria"):| [See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)|
-|Was any downstream service affected by the change?:| pick one: yes/no/N/A |
-|Types of errors logged:| [FILL_IN]|
-|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| [FILL_IN]|
+|Was any downstream service affected by the change?:| No |
+|Types of errors logged:| |
+|What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?| N/A |
 
 
 ## Post Launch metrics
 
-Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. We recommend one-week and one-month check-ins, but this is only minimal.
-
-### 1-week results
-
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
+Continue to check in on the KPIs of your feature at periodic intervals to ensure everything is working as expected. 
 
 ### 1-month results
+
+[See Measuring Success in our project outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/evss-lighthouse-migration/README.md#measuring-success)
 
 - Number of unique users: [FILL_IN]
 - Post-launch KPI 1 actual: [FILL_IN]

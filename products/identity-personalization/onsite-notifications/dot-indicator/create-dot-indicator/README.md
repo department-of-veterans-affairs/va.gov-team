@@ -1,4 +1,4 @@
-# Project outline: Create dot indicator
+# Project outline: Create dot indicator on unread health care messages
 
 **Last Updated: September 28, 2023  -- updated communications links**
 
@@ -132,11 +132,130 @@ So we can see some of the other health-related tools saw a big bump, but nothing
 
 ## Design
 
-- Add link to Sketch files
-   
 ### Before
+![Screenshot 2023-10-30 at 2 39 12 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/aa9443aa-a92f-4793-bdd1-816f1d4d6ac9)
+
 
 ### After
+![Screenshot 2023-10-30 at 2 38 51 PM](https://github.com/department-of-veterans-affairs/va.gov-team/assets/45603961/cf395ee7-db9c-442b-a119-0da40ed33881)
+
+
 
 ## Frontend
+### Determining unread messages
 
+#### API endpoints
+- Old: retrieving `unread_count` from `/v0/messaging/health/folders/0`
+- New (as of 10/27/2023): retrieving all folder data from `/my_health/v1/messaging/folders`
+
+#### Logic
+The `fetchUnreadMessagesCount` function dispatches actions to udpate the Redux store. 
+
+It also calls the `countUnreadMessages` function (more information below).
+
+**/dashboard/actions/messaging.js**, [lines 23–42](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/messaging.js#L23-L42)
+
+```
+const baseUrl = `${environment.API_URL}/my_health/v1/messaging`;
+
+export const fetchUnreadMessagesCount = () => async dispatch => {
+  dispatch({
+    type: LOADING_UNREAD_MESSAGES_COUNT,
+  });
+
+  try {
+    const folders = await getFolderList();
+
+    const response = countUnreadMessages(folders);
+    dispatch({
+      type: FETCH_UNREAD_MESSAGES_COUNT_SUCCESS,
+      unreadMessagesCount: response,
+    });
+  } catch (error) {
+    const errors = error.errors ?? [error];
+    dispatch({ type: FETCH_UNREAD_MESSAGES_COUNT_ERROR, errors });
+  }
+};
+```
+
+The `countUnreadMessages` function iterates through all folders fetched from the v1 endpoint and returns total number of unread messages from all folders. 
+
+**/dashboard/utils/helpers/js**, [lines 47–59](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/utils/helpers.js#L47-L59)
+
+```
+export const countUnreadMessages = folders => {
+  if (Array.isArray(folders?.data)) {
+    return folders.data.reduce((accumulator, currentFolder) => {
+      return accumulator + currentFolder.attributes?.unreadCount;
+    }, 0);
+  }
+
+  if (folders?.data?.attributes?.unreadCount > 0) {
+    return folders.data.attributes.unreadCount;
+  }
+
+  return 0;
+};
+```
+
+### Implementation
+
+The only instance of the dot indicator on My VA (as of 11/20/2023) appears in the Health care section, next to the Go to your inbox secondary link. 
+
+We utilize the IconCTALink component (which has analytics already), with two new props:
+- `dotIndicator` 
+- and `ariaLabel`
+
+**/dashboard/components/health-care/HealthCareCTA.jsx,** [lines 65–82](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/health-care/HealthCareCTA.jsx#L65-L82)
+
+```
+<IconCTALink
+  text="Go to your inbox"
+  icon="comments"
+  dotIndicator={unreadMessagesCount > 0}
+  ariaLabel={
+    unreadMessagesCount > 0 &&
+    'You have unread messages. Go to your inbox.'
+  }
+  href={mhvUrl(authenticatedWithSSOe, 'secure-messaging')}
+  testId="view-your-messages-link-from-cta"
+  onClick={() =>
+    recordEvent({
+      event: 'nav-linkslist',
+      'links-list-header': 'View your messages',
+      'links-list-section-header': 'Health care',
+    })
+  }
+/>
+```
+
+The dot indicator currently lives behind `my_va_notification_dot_indicator` feature toggle for the time being. 
+
+The exact specs for the dot are in the [Health care FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#go-to-your-inbox-link).
+
+**/dashboard/components/IconCTALink.jsx**, [lines 58–74](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/components/IconCTALink.jsx#L58C2-L74C11)
+
+```
+{dotIndicator && (
+  <Toggler
+    toggleName={Toggler.TOGGLE_NAMES.myVaNotificationDotIndicator}
+  >
+    <Toggler.Enabled>
+      <span
+        data-testid="icon-cta-link-dot-indicator"
+        className="fa-stack fa-sm vads-u-height--full vads-u-margin-left--1"
+      >
+        <i
+          aria-hidden="true"
+          className="fas fa-xs fa-stack-1x vads-u-height--full fa-circle vads-u-color--secondary-dark"
+        />
+      </span>
+    </Toggler.Enabled>
+  </Toggler>
+)}
+```
+
+### Relevant files
+- [My VA fetchUnreadMessagesCount function](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/dashboard/actions/messaging.js#L21-L39) (GitHub)
+- [Health care FE documentation - Go to your inbox link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/2022-audit/documentation/health-care-FE-documentation.md#go-to-your-inbox-link) (GitHub)
+- [/my_health/ open API documentation](https://dev-api.va.gov/my_health/apidocs) (dev-api.va.gov)

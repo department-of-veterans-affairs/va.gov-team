@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 ## Tasks
-- [ ] Create design options (team chooses fidelity of the design options based on situation)
-- [ ] Get feedback from appropriate stakeholder(s)
-- [ ] Choose the target design solution
+- [ ] Create design options (team chooses fidelity based on situation)
+- [ ] Get feedback from appropriate stakeholder(s). E.g., content or a11y SMEs, platform design, UX team, check in team, VA OCTO PO's, check in PO, Angela Fowler (a11y) or Sara Sterkenburg (IA).
 - [ ] Incorporate feedback into solution(s) 
-- [ ] Check to see if tickets exist to implement the design and are accurate (or create them if necessary)
+- [ ] Determine optimal option after peer reviews.  
+- [ ] Check to see if tickets exist to implement the final design decision and are accurate (or create them, if necessary)
 
 ## Acceptance Criteria
 - [ ] Design solution has been chosen
-- [ ] Design solution idea has been vetted and is ready to be implemented (i.e. ready to create the wireframes)
-- [ ] Follow-up tickets have been created
+- [ ] Design solution idea has been vetted and approved by appropriate stakeholders 
+- [ ] Follow up tickets have been created for content and design implementation 

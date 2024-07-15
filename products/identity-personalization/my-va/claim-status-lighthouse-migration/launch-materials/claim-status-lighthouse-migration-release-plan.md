@@ -45,9 +45,4 @@ Not applicable - team conducted internal testing.
 [1 week stats](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/claim-status-lighthouse-migration#objective-1-improve-claim-status-retrieval-rates-by-migrating-to-lighthouse)
 
 **1-month results (at 100%):**
-- **Number of unique users:**
-- **Any issues with VA handling/processing?**
-- **Types of errors logged:**
-- **Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges?**
-- **If yes, what?** 
-
+[1 month stats](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/claim-status-lighthouse-migration/README.md#measuring-success)

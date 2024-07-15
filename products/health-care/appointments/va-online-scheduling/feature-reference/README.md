@@ -5,13 +5,20 @@
 
 Product, business, and technical documentation of [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling) features.
 
-<!-- 
-See also:
-- [Business rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/vaos_business_rules.md#vaos-product-and-business-rules)
-- [User flows](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?node-id=267-19369&t=jIup4zOCLhBYNOvO-4)
-- [Copy docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/content)
-- [Page templates](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?node-id=0-2&t=vycMTsKnfBPu5MKo-4)
--->
+[How to update the feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-update-feature-reference.md)
+
+## Backend documentation
+
+[Backend logic](./backend-logic.md)  
+[VistA appointments, facilities, and clinics](./vista-appointments-facilities-clinics.md)
+
+## Access the Appointments Tool
+
+| Feature | Usage | 
+|---|---|
+| [Login and access](./login-and-access.md) | Authentication and access rules. |
+| [Appointments portal](./appointments-home.md) | Starting page to schedule or manage appointments |
+
 
 ## Manage appointments
 
@@ -19,72 +26,94 @@ See also:
 
 | Feature | Usage | 
 |---|---|
-| [Appointments home](./appointment-lists/appointments-home.md) | Starting page to schedule or manage appointments |
 | [Upcoming appointments](./appointment-lists/upcoming-list.md) | View all future and in progress appointments |
 | [Past appointments](./appointment-lists/past-list.md) | View all appointments from the last two years |  
-| [Pending appointments](./appointment-lists/upcoming-list.md) | View all pending and canceled requests | 
+| [Pending appointments](./appointment-lists/pending-list.md) | View all pending and canceled requests | 
 
 ### Appointment details views
 Booked appointments through VA or CC facilities.
 
-| Feature | Description | Supported |
-|---|---|---|
-| [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility | Yes |
+| Feature | Description |
+|---|---|
+| [Data definitions](../../appointments-reference/data-reference/data-definitions.mddata-definitions.md) | Explanations of the data VAOS displays in appointment types |
+| [VA In-person](./appointment-types/va-in-person.md)  | Scheduled, in person appointments at a VA facility |
 | [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | Scheduled, in person appointments at a VA facility for a COVID-19 vaccine | Yes |
-| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care | Yes |
-| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility | Yes | 
-| VA Video Care on GFE |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
-| VA Video Care at an ATLAS location |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  | Yes |
-| VA Phone |  Scheduled telehealth appointments that a Veteran joins over the phone. | Yes |
-| Community Care |  Scheduled appointment that a Veteran joins at a community care provider | Yes | 
-| Compensation and Pension appointment | Scheduled appointment for a Compensation and Pension exam | Yes |
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) | Scheduled telehealth appointments over VA Video Care |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins at a VA facility |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) |  Scheduled telehealth appointments over VA Video Care that a Veteran joins over a GFE provided by a VA facility | Yes |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) |  Scheduled telehealth appointments that a Veteran joins at an ATLAS facility  |
+| [VA Phone](./appointment-types/va-phone.md) |  Scheduled telehealth appointments that a Veteran joins over the phone. |
+| [Community care](./appointment-types/community-care.md) |  Scheduled appointment that a Veteran joins at a community care provider |
+| [Claim exam appointment](./appointment-types/claim-exam.md) | Scheduled appointment for a claim exam |
 
 ### Request details views
 Appointments that Veterans have requested but VA has not booked.
 
-| Feature | Description | Supported |
-|---|---|---|
-| VA Appointment Request  | Request for a VA appointment | |
-| Community Care Appointment request | Request for a community care appointment | |
+| Feature | Description |
+|---|---|
+| [VA appointment request](./appointment-types/va-request.md)  | Request for a VA appointment |
+| [Community care appointment request](./appointment-types/community-care-request.md) | Request for a community care appointment |
 
 ### Appointment management tools
 Tools Veterans can use to manage their appointments and requests.
 
 | Feature | Description | 
 |---|---|
-| Cancel appointment/request | | 
-| Add to calendar | | 
-| Print | | 
+| [Cancel appointment/request](./tools/tool-cancel.md) | Veterans can cancel some appointments online. | 
+| [Add to calendar](./tools/tool-add-to-calendar.md) | Veterans can download a file that will let them add an appointment to their calendar | 
+| [Print](./tools/tool-print.md) | Veterans can print details for appointments | 
 
 ## Schedule appointments
 Tools for Veterans to schedule or request appointments.
 
-| Flow | Page |
+### Start of scheduling flows
+
+These pages are the starting point for all the other scheduling flows. Users are redirected from these pages to the other flows depending on their choices and eligibility.
+
+| Step # | Page |
 |---|---|
-| All flows | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
-| All flows | [Choose a type of sleep care](./schedule-flow/choose-a-type-of-sleep-care.md) |
-| All flows | [Choose a type of eye care](./schedule-flow/choose-a-type-of-eye-care.md) |
-| All flows | [Choose VA or CC facility](./schedule-flow/choose-VA-or-CC-facility.md) |
-| All flows | [Choose a type of audiology care](./schedule-flow/choose-a-type-of-audiology-care.md) |
-| VA direct-schedule | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
-| VA direct-schedule | [Cerner location redirect](./schedule-flow/Cerner-location-redirect.md) |
-| VA direct-schedule | [Choose a clinic](./va-online-scheduling/feature-reference/schedule-flow/choose-a-VA-clinic.md) |
-| VA direct-schedule | Choose a preferred date |
-| VA direct-schedule | Reason for appointment |
-| VA direct-schedule | Confirm contact information |
-| VA direct-schedule | Review and submit |
-| VA request | Choose a day and time |
-| VA request | Reason for appointment |
-| VA request | Method of attendance |
-| VA request | Confirm contact information |
-| VA request | Review and submit |
-| CC request | Choose a day and time |
-| CC request | Closest city |
-| CC request | Choose a provider |
-| CC request | Choose a preferred language |
-| CC request | Reason for appointment |
-| CC request | Confirm contact information |
-| CC request | Review and submit |
+| 1 | [Choose a type of care](./schedule-flow/all--type-of-care.md) |
+| 1a | [Choose a type of sleep care](./schedule-flow/all--choose-a-type-of-sleep-care.md) |
+| 1b | [Choose a type of eye care](./schedule-flow/all--choose-a-type-of-eye-care.md) |
+| 1c | [Choose a type of audiology care](./schedule-flow/all--choose-a-type-of-audiology-care.md) |
+| 2 | [Choose VA or CC facility](./schedule-flow/all--choose-va-or-cc-facility.md) |
+
+### Direct schedule VA appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Choose a location](./schedule-flow/va-direct--choose-location.md) | 
+| 1a | [Cerner location redirect](./schedule-flow/va-direct--cerner-location-redirect.md) |
+| 2 | [Choose a clinic](./schedule-flow/va-direct--choose-a-clinic.md) |
+| 3 | [Preferred date](./schedule-flow/va-direct--preferred-date.md)
+| 4 | [Choose a date](./schedule-flow/va-direct--choose-a-date.md) |
+| 5 | [Reason for appointment](./schedule-flow/va-direct--reason-for-appointment.md) |
+| 6 | [Confirm contact information](./schedule-flow/va-direct--contact-information.md) |
+| 7 | [Review and submit](./schedule-flow/va-direct--review-and-submit.md) |
+
+### Request VA appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Preferred date](./schedule-flow/va-request--preferred-date.md) |
+| 2 | [Reason for appointment](./schedule-flow/va-request--reason-for-appointment.md) |
+| 3 | [Preferred modality](./schedule-flow/va-request--preferred-modality.md) |
+| 4 | [Confirm contact information](./schedule-flow/va-request--contact-information.md) |
+| 5 | [Review and submit](./schedule-flow/va-request--review-and-submit.md) |
+
+### Request CC appointments
+
+| Step # | Page |
+|---|---|
+| 1 | [Preferred date](./schedule-flow/cc-request--preferred-date.md) |
+| 2 | [Nearest city](./schedule-flow/cc-request--nearest-city.md) |
+| 3 | [Request a provider](./schedule-flow/cc-request--request-a-provider.md) |
+| 4 | [Choose a language](./schedule-flow/cc-request--choose-a-language.md) |
+| 5| [Reason for appointment](./schedule-flow/cc-request--reason-for-appointment.md) |
+| 6 | [Confirm contact information](./schedule-flow/cc-request--contact-information.md) |
+| 7 | [Review and submit](./schedule-flow/cc-request--review-and-submit.md) |
 
 
+### Direct-Schedule COVID-19 vaccine appointments
 
+Not documented

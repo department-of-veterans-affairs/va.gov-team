@@ -107,7 +107,7 @@ Optimizing these flows would be create a more consistent and predictable experie
 #### Confirmation page
 At the end of a form flow, we could direct people to My VA when it makes sense ([concept](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684266228888/70e80eb031b0215679917698dc3abfcd74c76e03?wid=0-1684267557640)). 
 
-[We called out this opportunity as an initial step toward surfacing personalized information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization-enhancements/surfacing-personalized-content.md), but decided to hold off on that work due to the heavy dependency on other teams to execute, and lack of product support while Samara is out.
+We called out this opportunity as an initial step toward surfacing personalized information, but decided to hold off on that work due to the heavy dependency on other teams to execute, and lack of product support while Samara is out.
 
 ##### Consideration
 For any of this work, we’d need to collaborate with product teams and have them prioritize this in their backlog.

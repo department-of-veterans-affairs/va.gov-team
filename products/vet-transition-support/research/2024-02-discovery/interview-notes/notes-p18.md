@@ -1,0 +1,26 @@
+Questions for Veterans
+
+Background
+- Could you tell us about your background and military service? *I enlisted in 2003, I started as a cook on a submarine and then went to the enlisted aid route for executive chef, and my last four was as a Commander at Fort Lee. 
+The Navy felt like a right fit for me. I fell in love with cooking and wanted to combine the two things and then I went to Mepps and cooked on a submarine. I think we miss the mark on something that someone is interested in and ties with the military service. 
+On August 21st of 2023, I retired officially. 
+-Skill Bridge? *It really is. It sparked popularity a few years ago. My retirement was just over 20 years. I was able to transition into higher education fairly easily. 
+- What has been your experience with using VA benefits? *Because of the way things played out, I was part of the Wounded Warriors project, and I was able to do my claim while I was still on active duty and it was a very easy process. I know that is not the case for everyone. I was fortunate. I had been in a for a while and knew the ins and out. I was already enrolled in a Master’s program and I was familiar with the education process. I think that TAPS session wasn’t going to be helpful for what you needed. They mainly focused on the ins and outs of the disability process and had a few people from the DOL. They didn’t do a good job of what you were eligible for and what you could transfer or not. I think instead of a TAPS program, I think there should be incremental workshops during your 5-year mark or 3-year mark instead of towards the last year of your service. 
+It was early 2023 (took TAPS class). I was fortunate since I was Command Senior, I knew when the classes were happening. Unfortunately, I think that big DOD is treating it like a check in the box, because the focus is on you going not what you get out of it. 
+  - What VA benefits have you used and why?
+
+Transition Experience    
+- What was the hardest part of your transition? *One of the things that was most concerning was understanding how insurance would work, especially for my wife. That was hard to understand. Even going through the TAPS class, that was very convoluted. Part of the confusion was when do you actually transition from Tricare to VA. I still don’t know how that works, that whole process is mercury. 
+-Any support for family members? * It was minimal, everything was focused on the service member. The better option would be a one-on-one counseling session with a transition coordinator where you can ask specific questions.  
+- Is there support that you wish you had when you separated from the military? 
+    - If so, what type of support? * One of the things we have talked about, especially in D.C., is what we have the hardest time doing here is coordinating efforts from organizations, something that would be a one-stop shop for all those things.  That same concept like the blackboard or something like the VA portal where we can log into it and we know it’s secure. 
+
+Learning about VA Benefits
+- Where did you learn about VA benefits? 
+- How was your experience with learning about benefits?
+- What would encourage you to learn more about other VA benefits (that you may not be using)? * I used VRNE, GI Bill, tuition assistance when I was in, disability. I can’t think of other benefits I need.  We don’t have kids. 
+-How would like to see the Benefits? * I think you almost need both, I would go with the filtered search first, but there is no filter available that is going to hit every possibility and I would like to see a list to see what is available and check them off myself. The different scholarships that are available to service members and their spouses to see what is available. You would need a hybrid of both. One benefit doesn’t necessarily close out another. 
+ - If you could wave a magic wand, what you do to make the whole benefits process easier? *To have better or more early impact classes, lessons, and seminars before someone that is in the transition process. The navy only has one senior leadership course. Their transition is going to look different than someone that has only done a single tour. 
+-Community base? * Unfortunately, I don’t have a Navy community that I was a part of that has carried with me during my transition. Most people don’t want to stay in the D.C. area because it’s so expensive here. Luckily for me, where I found a job and career that fill that gap and other Veterans I speak with, say the same thing, that they don’t have that community. A lot of them are not looking at the Big Six, they feel that those organizations have lost touch with their grassroots. I really lucked out on finding the job I have and it’s half a mile from my house. 
+-What do you miss about community? *The thing that I miss, is that in the Navy you have E7-E9, we would do a lot of stuff and partner with Lowes, low-income military-connected families, we would paint their houses, landscaping their homes. Every month I work with one of our transitional housings and I go once a month and I buy them dinner and talk about transition benefits. Stuff like that is what I miss. Gathering of resources and manpower where there is no financial gain from it, just being a good person.
+Time Over.

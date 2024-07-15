@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
-## Problem Statement
-We would like to interview <person's name> regarding .....
-
-## Related Documents
-See list of questions generated here........
-
-## Acceptance Criteria
-- [ ] Identify person to lead the interview
-- [ ] Identify at least one note taker
-- [ ] Perform Interview
-- [ ] Take notes
-- [ ] Post de-identified notes to GitHub
+## Tasks
+- [ ] Perform Interviews
+- [ ] Post daily take-aways in the Check-in channel

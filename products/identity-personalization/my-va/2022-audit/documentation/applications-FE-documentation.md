@@ -1,50 +1,8 @@
 # My VA Benefit Application Drafts Frontend Documentation
-Last updated: July 31, 2023
+Last updated: April 29, 2024 (added note about when forms expire)
 
 ## When to show the ‘Benefit application drafts’ section
 We show this section for every LOA3 user.
-
-## UX Specs
-### What benefits does VA offer? (dropdown)
-*Closed state:*
-
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B58922A6-13FB-4CF1-9DCB-F270B9DD2DC0)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/28297FB0-D585-45CF-84CB-1935A09F74F3)
-
-*Open state:*
-
-- [Desktop](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/C85D4811-EE36-4BC4-A128-91204CA032C0)
-- [Mobile](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/A4773221-DDEB-4512-A53B-75C191ECEF7E)
-
-**Visual specs**
-
-- Use the [additional info component](https://design.va.gov/storybook/?path=/docs/components-va-additional-info--default) in the VA design system.
-
-**Positioning**
-
-- This dropdown appears directly below the "Benefit application drafts" header, above any saved application cards or text stating that the user does not have any applications to show.
-- When the dropdown is expanded, any application draft cards or text stating that the user does not have any application drafts to show is pushed down below the expanded menu as shown in the mockups linked above.
-
-#### **Content**
-*Closed state:*
-
-What benefits does VA offer?
-
-*Open state:*
-
-What benefits does VA offer?
-
-**Explore VA.gov to learn about the benefits we offer.**
-- [Health care](https://va.gov/health-care/)
-- [Education and training](https://va.gov/education/)
-- [Disability compensation](https://va.gov/disability/)
-- [Careers and employment](https://va.gov/careers-employment/)
-- [Pension](https://va.gov/pension/)
-- [Housing assistance](https://va.gov/housing-assistance/)
-- [Burials and memorials](https://va.gov/burials-memorials/)
-- [Life insurance](https://va.gov/life-insurance/)
-- [Service member benefits](https://va.gov/service-member-benefits/)
-- [Family member benefits](https://va.gov/family-member-benefits/)
 
 ---
 
@@ -77,6 +35,7 @@ Last opened on: Date
 
 Continue your application (linked to saved application)
 
+
 #### **Content specs**
 
 - The data for the benefit application draft card is gathered from the same API call as the main user call.
@@ -87,6 +46,7 @@ Continue your application (linked to saved application)
 
 - As outlined on the [Platform website](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage), changes are required in the User Profile code for in-progress forms to be displayed on My VA.
 - A form must have Save in Progress (SiP) enabled, must have a form ID added to the VA_FORM_IDS object in the [/platform/forms/constants file](https://github.com/department-of-veterans-affairs/vets-website/blob/bbd17c20a03e01ef22e5247a37d073ee10c47992/src/platform/forms/constants.js#L1), and add form information in the [personalization dashboard helpers file](https://github.com/department-of-veterans-affairs/vets-website/blob/e812cfb6b7bad2822498e7c88d60bd78b3796179/src/applications/personalization/dashboard/helpers.jsx#L1) to specified objects as outlined in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage).
+- Applications expire after 60 days of inactivity. The draft is no longer available. Veteran must restart the application/form.
 
 ---
 
@@ -112,7 +72,7 @@ You have no benefit application drafts to show.
 
 **Positioning**
 
-This text appears below the "What benefits does VA offer?" dropdown, on the lefthand side of the page on desktop.
+This text appears directly below the "Benefit application drafts" header on the lefthand side of the page on desktop.
 
 ---
 

@@ -1,5 +1,7 @@
 # IA Design for Burial Allowance Deactivation
-**STATUS: In Progress**
+**STATUS: Completed**
+
+3/12/24 - this form was not deactivated and so updates to the MVP launch will be tracked in another IA spec so as to leave this one as a record for future reference
 
 **Team:** Benefits and claims: Non-Disability Benefits
 

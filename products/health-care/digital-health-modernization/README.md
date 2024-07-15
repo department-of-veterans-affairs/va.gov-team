@@ -4,26 +4,26 @@
 
 ## Landing Page/Home Team
 ### Current as of 6/21/2023
-- Patrick Bateman - Product Owner
 - Lauren Alexanderson - Sponsor
-- Coulton Bunney - OCTO Design Lead
+- Kaitlin Fink - Patient Portal Design Lead
 - Ryan Thurlwell - OCTO Design Lead
-- Patrick Bateman - OCTO Digital Service Expert
+- Patrick Bateman - OCTO Product Lead
+- Robyn Singleton - OCTO Research Lead 
 - Danielle Thierry - OCTO Content & Translation Lead
 - Mikki Northius - OCTO Lead Information Architect
 - Mark Dewey - OCTO Engineer
 - Stephen Barrs - OCTO Engineer
 - Sara Smith - 508 Accessibility Specialist [Oddball]
 - Lynne Johnson - Delivery Manager
-- Tom Anderson - Product Manager
-- Cara Frissell - Research Lead
+- Wesley Rowe - Product Manager
 - Florence McCafferty - Design Lead
 - Jonathan Nelson - Designer
-- Keith Cheung - Designer
+- Kat Brinkley - Researcher/Designer
 - Carlos Felix - Technical Architect
-- Eric Voshall - Full stack Developer
+- Daniel Cloud - Full stack Developer
 - Richard Davis - Full stack Developer
-- Angela Fowler - Accessibilty Specialist
+- Jim Zaccardo - Full stack Developer
+- Vacant - Accessibilty Specialist
 - Sara Sterkenburg - Information Architect
 
 ## Projects

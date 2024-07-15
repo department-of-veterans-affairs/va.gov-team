@@ -4,12 +4,78 @@ Please log key decisions related to the below practice areas, including date, wh
 
 # Medical records design decisions
 
+## Feb 27, 2024
+### State of product
+* Phase 0
+* Domains included: Allergies, Vaccines, [NEW] Care summaries and notes
+
+### General product design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+|Veterans will *not* have the ability to enter new data into their medical record as they are able to in MHV today.| OCC is working on new ways for Veterans to enter data (web + mobile). Where/how this data will be viewed is TBD. If they are able to print/download historically entered data in that view is still TBD.|
+| MHV on va.gov will continue to have the "Blue Button" concept, which will combine all historcial information, including prior self-entered data. |This will not include newly entered data via OCC web + mobile pathways.|
+| MHV on va.gov will point to the OCC web + mobile self-entry paths that are being built. |This will not include newly entered data via OCC web + mobile pathways that are being built.|
+
+Decisions made on OCC/OCTO Leadership meeting with Dr. Josephs, Theresa Hancock, Shawn Hardenbrook (OCC), Lauren Alexanderson, Marci Mcguire and Kaitlin Fink.
+
+## Feb 24, 2024
+
+### State of product
+* Phase 0
+* Domains included: Allergies, Vaccines, [NEW] Care summaries and notes
+
+### General product design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The product left navigation and landing page ordering will be in order of frequency of use. |  The order of domains was determined by frequency of use from data and research.  We will monitor this during Phase 0 roll out and adjust as necessary. |
+| Domains within medical records have updated names from MHV today and we will need to consider this when rolling out to larger groups of veterans. |  Content is being updated on va.gov to make it plain language and more accessible. With these changes we will need to educate veterans around the new naming structure and any shortcuts they are used to in MHV today.|
+
+### Care summaries and notes specific design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| Care summaries and notes will include progress notes, consultation notes and admission and discharge summaries.| These are all included in MHV today.  If there are other notes we should include here in the future we will consider and add as necessary. 
+
+## Nov 22, 2023
+
+### State of product
+* Phase 0
+* Domains included: Allergies, [NEW] Vaccines
+* Final designs for Phase 0, Vaccines launch
+
+### General product design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The product will have a left navigation bar |  The introduction of a second domain necessitates secondary navigation  |
+| A user can download either a PDF or a Text file |  Due to avaialble eng time, donwloading a text file was completed earlier than expected. A11y advised that text files are more easily used by folks who read Braille.  |
+
+### Vaccines specific design decisions
+| Decision | Reasoning |
+|-----------------------------------------------------------------------------------------------|-----------------| 
+| The field for reactions will not be displayed as part of the vaccine data in production.                                  | After significant research and review of data, it was determined that CPRS 32b, which removed the reaction field from vaccines, was released Sep 29, 2022 and all sites (except those on Cerner) should have installed it by Dec 16, 2022.  This change made recording reactions as part of the vaccines record obsolete, and as a result, Dr. Josephs recommended that we not display it.  
+| The domain name was will be Vaccines, not Immunizations| This was approved by SMEs. Vaccines is more recongizable and plain language than immunizations. |
+| The list view page for vaccines will be at the URL …/my-health/medical-records/vaccines/ |   |
+| A details page for vaccines will be at the URL …/my-health/medical-records/vaccines/vaccine_ID |     |
+| The vaccines list view will incldue a link to allergies. | Based on SME input, reactions and allergies to vaccines are typically documented in the allergies list.|
+| A user can print from the list view. When they do, they receive a print out of all of their vaccines |     |
+| A user can print from the details view. When they do, they receive a print out of the details for just that vaccine |     |
+| A user can download from the list view. When they do, they receive either a PDF or text file that includes a list of all of their vaccines |   |
+| A user can download from the details view. When they do, they receive either a PDF or text file that includes just the details of that vaccine |      |
+| A user will be presented information on the consequences of downloading on a public computer | |
+| The list view will present each vaccine in a card format. That card will include both the vaccine logged and the date it was received as entered into the EHR by a provider. | A user may get the same vaccine yearly, and therefore we need a second identifier to differenitate. Given a user cannot receive the same vaccine on the same day, date received fits the bill. |
+| The H1 of the details view will be the vaccine name. Directly underneath the H1 will be date received information | | 
+| In the details view for a vaccine, a user will be shown vaccine name, date received, location received, and provider notes | |
+| The field reaction for vaccines will not be shown at launch. | This was based on feedback from SMEs. There are still many qustions about how the field is used in the field. We want to track down these reasons to properly explain this field to users. This must be resolved before moving MR to Phase 1 |
+| The following data can be shown to users once verified by KBS and if they are available. They do not need to be included at launch into phase 0: Vaccine series information, Manufacturer, Site (such as left arm), Vaccine status (such as completed) and Lot number. | These are important pieces of data for patients, but ahve not been shown in MHV in the past. Therefore, we must first verify their accuracy with KBS.|
+| The following field should not be shown to users: CPT code, who administered the code | After discussion, the SMEs determined they were not needed for patient view and may cause confusion. A user would still be able to get this information by asking their provider directly or submitting a full records request.|
+
+
+
 ## Oct 4, 2023
 
 ### State of product
 * Phase 0
 * Domains included: Allergies
-* Final designs for Phase 0, Allergy launch
+* [Final designs for Phase 0, Allergy launch](https://www.sketch.com/s/a7c188da-3716-494d-a11b-8b570ce78e8a)
 
 ### General product design decisions
 | Decision | Reasoning |
@@ -20,22 +86,24 @@ Please log key decisions related to the below practice areas, including date, wh
 | The landing page will be at the URL …/my-health/medical-records/ | | 
 | The landing page will list all available domains, give a short descriptive blurb about each, and provide a link to the list view for each |   |
 | Any printed or downloaded page will include two patient identifiers - name and date of birth |    |
+| For Phase 0, we will only make downloads available as PDF. Downloading a TXT version will be a fast follow once all domains are in Phase 0. | Given the web version is fully 508 compliant, it will be the view that we recommend for all users to primarily access, including those who would need a TXT download rather than a PDF download  |
 
 
 ### Allergies specific design decisions
 | Decision | Reasoning |
 |-----------------------------------------------------------------------------------------------|-----------------| 
+| The Allergies domain name was updated to Allergies and reactions. | This was a recommendation based on SME feedback. Allergies and reactions captures the full breadth of the data entered into this section of information. Reactions refers to information such as an adverse drug reaction. |
 | The list view page for allergies will be at the URL …/my-health/medical-records/allergies/ |   |
-| A details page for allergies will be at the URL …/my-health/medical-records/allergies/<allergy ID>/ |     |
+| A details page for allergies will be at the URL …/my-health/medical-records/allergies/allergy_ID/ |     |
 | A user can print from the list view. When they do, they receive a print out of all of their allergies |     |
 | A user can print from the details view. When they do, they receive a print out of the details for just that allergy |     |
 | A user can download from the list view. When they do, they receive a PDF that includes a list of all of their allergies |   |
 | A user can download from the details view. When they do, they receive a PDF that includes just the details of that allergy |      |
 | A user will be presented information on the consequences of downloading a PDF on a public computer | |
-| The list view will present each allergy in a card format |      |
-| Each card in the list view contains allergy name and date entered by provider into the record | |
+| The list view will present each allergy in a card format. That card will include both the allergy logged and the date it was entered into the EHR by a provider. | Allergies may not be deduplicated across VistA sites. In order to make sure each card in the list view is unique and therefore accessible, we must include a second identifier. We chose date entered as that second identifier.    |
 | The H1 of the details view will be the allergy name. Directly underneath the H1 will be date entered information | | 
 | In the details view for an allergy, a user will be shown Allergy name, date entered, location entered, reaction, allergy type, whether it was observed or is historical, and any comments entered by the provider | |
+| The field formerly called reaction was updated to be called Signs and symptoms. | This was based on feedback from SMEs. Signs and symptoms is the terminology for this field used in the After Visit Summary. It also differentiates this field from the title of this entire section - Allergies and reactions |
 
 
 

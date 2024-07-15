@@ -1,7 +1,7 @@
 name: "Collaboration Cycle Request"
 description: "Begin engaging with the Collaboration Cycle."
 title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
-labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
+labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request", "sitewide CAIA"]
 assignees: []
 body:
   - type: markdown
@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html).)
+        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff).)
   - type: markdown
     attributes:
       value: |
@@ -52,10 +52,17 @@ body:
     validations:
       required: true
   - type: input
+    id: team-label
+    attributes:
+      label: GitHub label for team
+      description: Enter a label from the va.gov-team repo. Your team label must be different than your product label.
+    validations:
+      required: true
+  - type: input
     id: product-label
     attributes:
       label: GitHub label for product
-      description: Enter a label from the va.gov-team repo.
+      description: Enter a label from the va.gov-team repo. Your product label must be different than your team label.
     validations:
       required: true
   - type: input
@@ -83,7 +90,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Getting-started.1760493650.html) page on Platform Website for detailed information and examples regarding these questions (below).
+        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
     id: visible-changes
     attributes:
@@ -156,10 +163,18 @@ body:
     attributes:
       value: "## Next steps"
   - type: checkboxes
+    id: add-labels
+    attributes:
+      label: Add the GitHub labels for your team, product, and feature to this ticket.
+      description: This helps Platform and OCTO track your progress through the Collab Cycle and helps improve overall reporting for all products on VA.gov.
+      options:
+        - label: I acknowledge that I must add the GitHub labels for my team, product, and feature to this ticket. 
+          required: true
+  - type: checkboxes
     id: notify-slack
     attributes:
       label: Notify the Collaboration Cycle team of this ticket in your team's public Slack channel.
-      description: After creating this ticket, post the keyword "collab-cycle-kickoff" in your Slack channel and follow Slackbot's instructions.
+      description: After creating this ticket, use the "/Collab Cycle Kickoff" slash-command in your Slack channel and follow Slackbot's instructions.
       options:
-        - label: I acknowledge that I must notify the Governance team by completing the collab cycle kicckoff workflow in my team's Slack channel after submitting this issue. This can be completed by typing "/collab cycle" and selecting the appropriate workflow. 
+        - label: I acknowledge that I must notify the Governance team by completing the Collab Cycle Kickoff workflow in my team's Slack channel after submitting this issue. This can be completed by typing "/collab cycle" and selecting the kickoff workflow. 
           required: true

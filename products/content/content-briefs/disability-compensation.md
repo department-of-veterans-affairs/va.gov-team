@@ -17,6 +17,12 @@ Created by the sitewide content and IA team for teams working on products relate
 
 ## Overview
 
+Speaking plainly, compassionately, and consistently across VA.gov helps us build trust with Veterans, service members, and their family members. As we move toward preparing for translation, consistency becomes even more important.
+
+This brief will help your team create content for your product that aligns with the VA.gov voice and content standards and that uses consistent language about VA appointments. It will also help us all track content decisions so we can all stay aligned across channels. This is a living document.
+
+[Read our top 10 plain language standards in the VA.gov content style guide for more](https://design.va.gov/content-style-guide/plain-language/)
+
 ## Related terminology
 
 - **File a claim:** Always use the phrase "file a claim" rather than "apply" when referring to disability compensation.
@@ -31,6 +37,7 @@ Created by the sitewide content and IA team for teams working on products relate
 **When describing conditions that VA connects to a Veteran's service in general,** use "condition" (and "service-connected condition" or "presumptive condition" as appropriate in context).</br>
  **When describing rated disabilities,** use "service-connected disability" on first mention on a page and "disability" on subsequent mentions.
 
+- **Discharge papers (DD214 or other separation documents)**
 - **Illness, injury, condition:** If describing only illnesses or injuries alone, use just "illness" or "injury." If describing illnesses or injuries, use "illness or injury (also called "condition")" and then "condition" for subsequent mentions. 
 
 - **VA disability rating:** We say "VA disability rating" on first mention, then drop the "VA" for subsequent mentions. We don't need to say "service-connected disability rating" by default.
@@ -54,6 +61,11 @@ Created by the sitewide content and IA team for teams working on products relate
 - **180-90 days left on active duty:** We start with the higher number (180) because this is a countdown to the discharge date. SMEs don't want us to show it as 90-180 days.
 
 ## Content considerations specific to disability compensation
+
+- Clothing allowance, automobile allowance, and the automobile adaptive equipment grant all have separate forms to fill out. You first need to have filed a claim for disability compensation and established that you have a service-connected condition. Then you can file the other applications specific to these benefits. You can't get these added benefits just by filing a claim for disability comp.
+
+- If you’re eligible for Individual Unemployability or added compensation under Title 38 U.S.C. 1151, the amount of your monthly compensation payment will change, but your disability rating will stay the same.
+
 
 ## Organic SEO and VA.gov search
 

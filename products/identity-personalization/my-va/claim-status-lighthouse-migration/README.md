@@ -1,6 +1,6 @@
 # Project outline: My VA Claim status EVSS > Lighthouse migration
 
-**Last updated: September 14, 2023 - key dates and note added to metrics section**
+**Last updated: November 17, 2023 - updated 2 month stats**
 
 ### Communications
 
@@ -84,8 +84,8 @@ Stats based on the [My VA Domo dashboard](https://va-gov.domo.com/page/116785193
 
 |KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @10% (8/8/23 - 8/14/23)| 1 week @25% (8/15/23 - 8/21/23)|1 week @50% (8/22/23 - 8/27/23) |1 week @100% (8/29/23 -9/4/23)|1 month @100% (9/5/23 - 10/4/23)| 2nd month @100% (10/5/23 - 11/4/23) | 
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|91%|99%|97%|98%|99%|||
-|% of failed retrievals|9%|1%|3%|2%|1%|||
+|% of successful retrievals|91%|99%|97%|98%|99%|99%|99%|
+|% of failed retrievals|9%|1%|3%|2%|1%|1%|1%|
 
 Note: 
 - On Sept 12, 2023 the migration to Lighthouse needed to be rolled back so that the CST on My VA was again calling EVSS. The benefits team found an issue in the CST that they need to resolve before we can again point to Lighthouse.

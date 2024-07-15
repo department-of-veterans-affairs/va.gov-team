@@ -1,6 +1,6 @@
 
 
-## Availability Framework (Remote Configuration) - MVP  (IN PROGRESSS- NOT FINALIZED)
+## Availability Framework (Remote Configuration) - MVP  
 
 
 ## Availability Framework EPIC:

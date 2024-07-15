@@ -1,10 +1,10 @@
-# Appeal PDF Download Initiative Brief
+# Downloadable Copy of Submission Initiative Brief
 
 ---
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to download a PDF copy of a submitted appeal, so veterans can store it in their personal records.
+* Today, when Veterans file an appeal on va.gov, there is no way for them to maintain a record of their submission. To increase Veteran trust of the reliability of our products, we want to provide the ability to retain a copy of a submitted appeal, so Veterans can store it in their personal records.
 
 **Related/Associated product(s)**
 - Request a Board Appeal VA Form 10182 | [Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement) 
@@ -19,9 +19,10 @@
 - As a Veteran, I want the ability to download a copy of my submitted appeal, so that I know my appeal was successfully submitted.
 - As a Veteran, I want to know exactly what date and time I submitted my appeal, so that I can keep it in my personal records.
 - As a Veteran, I want to know which issues I added to a claim, so I can keep track of what I've filed.
+- As a Veteran using Assistive Technology, I want an accessible way to review and save a copy of my submitted appeal.
 
 ## Undesired User Outcomes
-- As a Veteran, I do not want to be mislead when downloading a copy of my claim, such that I believe it was successfully submitted when it was not.
+- As a Veteran, I do not want to be misled when downloading a copy of my claim, such that I believe it was successfully submitted when it was not.
 - As a Veteran, I do not want to mistake the copy of my claim for a paper version that I need to mail, which could cause longer development time due to duplicate filing.
   
 ## Desired Business Outcomes
@@ -68,8 +69,23 @@
 > *What have you explicitly decided to **not** include and why?*
 > *How does this solution address your Assumptions & Risks?
 
-- Scope of this build is to make edits for the submission confirmation page for all three decision review forms (Supplemental Claims, Notice of Disagreement/Board Appeal, Higher-Level Review), starting with Board Appeal and link to an already created endpoint that lets users download a print version of the confirmation page and a copy of their completed form.
-- Lighthouse has created an endpoint that adds a watermark to the completed PDF package.
+The following are feature recommendations based on the [accessibility resarch](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement/Research/012024-accessible-submission-download) we've conducted.
+
+1. Updates to the Board Appeal confirmation page
+   1. Update success alert to provide more immediate
+   2. Add a summary section that allows the user to download a PDF copy of the board appeal
+   3. Include a "review" content section that contains all of the answers submitted within the form
+   4. Update the "What to expect next" content to include more information about process timeline and method of contact
+2. Creating an accessible downloadable copy of completed submission
+   1. Creating a PDF boilerplate to generate an accessible PDF
+   2. Creating a .txt file of the confirmation page, which includes a copy of all submitted responses
+3. Updating the Board Appeal confirmation email
+   1. Include more direct language about appeal processing and link to Claim Status Tool
+   2. Include a link to an authenticated page that houses the PDF of the completed submission and/or .txt file
+4. Authenticated page
+   1. Authenticated page that houses direct download of the PDF of the completed submission and/or .txt file
+
+- Does not include use of Lighthouse PDF endpoint, since the generated PDF is inaccessible.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
@@ -95,53 +111,44 @@
 
 ---
    
-## Screenshots
+## Screenshots (updated post-usability testing)
 
 ### Confirmation page
 
 #### Before
-<details><summary>Notice of Disagreement Current Confirmation</summary>
+<details><summary>Board Appeal Current Confirmation Page</summary>
   
-![staging va gov_decision-reviews_board-appeal_request-board-appeal-form-10182_resume](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
+![Current ](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5eed0b84-4b45-4f15-a817-5a48cd576a20)
 
 </details>
 
-<details><summary>Supplemental Claims Current Confirmation</summary>
-  
-![staging va gov_decision-reviews_supplemental-claims-form-20-0995_confirmation](https://github-production-user-asset-6210df.s3.amazonaws.com/111457818/270357118-11fb1e33-3897-41f2-8b25-a6717ac4b32e.png)
-
-</details>
-
-<details><summary>Higher-Level Review Current Confirmation</summary>
-  
-![staging va gov_decision-reviews_higher-level-review_request-higher-level-review-form-20-0996_confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/5c1eeeda-5c46-4ecb-8498-d9fc5d34639b)
-
-</details>
 
 #### After
-<details><summary>Notice of Disagreement New Confirmation</summary>
-  
-![PDF Download](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/3deb0f69-b70a-409e-8260-9817160e0577)
+<details><summary>Board Appeal New Confirmation Page</summary>
+
+![Claim Download V3 2](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/66977745-b7c7-46c4-991f-b9958e4765d6)
 
 </details>
+
 
 ### Email
 
 #### Before
 
-<details><summary>Notice of Disagreement Current Confirmation Email</summary>
+<details><summary>Board Appeal Current Confirmation Email</summary>
   
-![Current Notice of Disagreement Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/98904102-ff4c-4d25-850f-b8170451db92)
+![Current Board Appeal Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/98904102-ff4c-4d25-850f-b8170451db92)
 
 </details>
 
 #### After
 
-<details><summary>Notice of Disagreement New Confirmation Email</summary>
+<details><summary>Board Appeal New Confirmation Email</summary>
   
-![New Notice of Disagreement Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/75d2960c-120a-4192-84bd-52824ed92dfe)
+![New Board Appeal Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/assets/111457818/4e95d82a-5799-4ca1-ad79-498b6e2d4018)
 
 </details>
+
 
 ---
 
@@ -152,9 +159,9 @@
 <details>
 
 - Team Name: Benefits Decision Review
-- GitHub Label(s): benefits-team-1, squad-2
+- GitHub Label(s): benefits-team-1, Decision-Reviews-Team
 - Slack channel: [benefits-decision-review](https://dsva.slack.com/archives/C5AGLBNRK)
-- Product POCs: Premal Shah, Sade Ragsdale
+- Product POCs: Zach Goldfine, Sade Ragsdale
 
 </details>
 
@@ -164,8 +171,8 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: Board of Veteran Appeals
+- Contact(s): John Gosnall
  
 </details>
 

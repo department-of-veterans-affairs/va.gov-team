@@ -4,7 +4,7 @@
 
 **Method**: GET
 
-**Path**: /lookup/facilities/school/:facilityId:
+**Path**: /ask_va_api/v0/schools?{facilityId}
 
 **Parameters**:
 | Name | Type | Description |
@@ -19,6 +19,7 @@
 |---|---|---|
 |Authorization|JWT?|Token for access to the CRM API|
 |secid|string|User security identifier|
+|message_id|string|an optional guid for correlating events to aid troubleshooting|
 
 ## Response
 
@@ -36,13 +37,13 @@
         "code": 200, 
         "message": "OK", 
         "data": {
-          "facility": "Facility A",
-          "address1": "123 Fake Street",
-          "address2": "",
-          "city": "Somewhere"
-          "state": "Somestate"
-          "zip": "12345"
-          "phone": "1234567890"
+            "id": "a6c3af1b-ec8c-ee11-8178-001dd804e106",
+            "city": "Somewhere"
+            "state": "Somestate",
+            "name": "10000013 - US Department of Justice Bureau",
+            "code": "10000013",
+            "institutionName": "US Department of Justice Bureau",
+            "regionalOffice": "307 - Buffalo"
         }
     }
 }
@@ -68,6 +69,11 @@
 </table>
 
 ## Notes
+
+* The response will include a `message_id` to help track specific transactions. This is __**included in all responses**__ from all endpoints, and is accepted as a header value in requests. If an id is specified in the request, it will be returned in the response. If no id is specified, it will be generated automatically and passed back in the response.
+* The `Authorization` and `ICN` header values will only be included for users that are logged in.
+ 
+## Tasks / Comments
 
 * CC: There are at least 50k of these.  We do not currently update the list from the SoR, but an Agent could add/update one at any time.
 * SoR (System of Record) is [WEAMS](https://www.va.gov/education/gi-bill-comparison-tool/)

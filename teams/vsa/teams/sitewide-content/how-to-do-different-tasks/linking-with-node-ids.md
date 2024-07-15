@@ -5,14 +5,16 @@ When you want to link to another page within Drupal, use a Node ID instead of th
 Follow these steps to link to a page using a Node ID.
 
 ## If the link is in a rich text field
-1. Highlight the text to be linked.
+1. Highlight the text you want to link.
 2. Select the link button.
-3. Start typing the H1 of the page to be linked. A list will pop up showing all pages with those words in the H1. 
-4. Select the page you want to link to.
+3. If you're linking to a published page, start typing the H1 of the page. A list will pop up showing all pages with those words in the H1. Select the page you want.
+   If you're linking to an unpublished page, the search won't work. Find the node ID of the unpublished page in Drupal. Type /node/[nodeID] in the link field.
 5. Select **Save**. 
 
 ## If the link is in its own component 
-Start typing the H1 of the page to be linked where you need to add the url. A list will pop up showing all pages with words in the H1. 
+If you're linking to a published page, start typing the H1 of the page where you need to add the URL. A list will pop up showing all pages with those words in the H1. Select the page you want.
+
+If you're linking to an unpublished page, the search won't work. Find the node ID of the unpublished page in Drupal. Type /node/[nodeID] in the link field.
 
 ## How to add jump links with Node IDs
 

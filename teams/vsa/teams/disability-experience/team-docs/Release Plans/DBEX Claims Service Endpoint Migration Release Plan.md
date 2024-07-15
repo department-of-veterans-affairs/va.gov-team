@@ -25,41 +25,51 @@ The lack of a viable end-to-end testing environment introduces several risks, no
 Lighthouse has been made aware of these risks. Our focus for this test plan will be to raise our baseline confidence as much as we can with thorough testing and mock data in the preparation phase, followed by close monitoring and prompt incident responses during the rollout phase.
 
 ## Overview Checklist
+- Notes
 - [x] Phase I: Internal Testing and Review
     - [x] Internal Testing and Review
     - [x] Pre-release Testing
     - [x] Review Cases
     - [x] Canary
 - [ ] Phase II: Staged Rollout 
-    - [x] Stage A: 0.5%
+    - [x] Stage A: 1%
     - [x] Stage B: 5%
     - [x] Stage C: 10%
     - [x] Stage D: 25%
-    - [x] Stage E: 50%
+    - [ ] Stage E: 50%
     - [ ] Stage F: Go live!
 - [ ] Post-launch questions
 
+## Notes
+- We can differentiate traffic to EVSS/LH through Factory-level logs, in case controller activity is not usable 
+- `app/models/concerns/form526_claim_fast_tracking_concern.rb` > flag is in `open_claims`
+    - Makes a call to `BenefitsClaims::Service` `get_claims`
+    - Claims controller exists: `modules/claims_api/app/controllers/claims_api/v2/veterans/claims_controller.rb`
+    - Supposedly EVSS as well? `app/controllers/v0/evss_claims_controller.rb`
+- Since other teams have completed migrations to LH for this API, sill expedite the early ramp-up of this rollout. Planning on 3 days for 1% and 5%, and then progerssing to 25% 
+
+<br>
 
 ## Phase I: Internal Testing and Review
 
 ### Pre-release Testing
-- [x] Complete pre-launch tasks: N/A
-- [x] Request production credentials from Lighthouse via their production access form
-- [x] Complete manual testing with production credentials in Argo
-- [x] Push credentials to K8 manifest and devops repositories
-- [x] Create and execute a Testrail test plan
-    - Link: https://dsvavsp.testrail.io/index.php?/cases/view/43193
-- [x] Complete Review
+- [ ] Complete pre-launch tasks: N/A
+- [ ] Request production credentials from Lighthouse via their production access form
+- [ ] Complete manual testing with production credentials in Argo
+- [ ] Push credentials to K8 manifest and devops repositories
+- [ ] Create and execute a Testrail test plan
+    - Link:
+- [ ] Complete Review
 
 ### Review Cases
-- [x] Does the existing DataDog monitoring have sufficient coverage?
-- [x] Has manual testing been completed in Argo with prod credentials?
-- [x] Have a successful TestRail test plan been executed?
-- [x] Confirm devops repository has references to correct environment variable paths
-- [x] Confirm K8 manifest repository has references to correct environment variable paths
-- [x] Do we have a point of contact on LH to coordinate with?
-- [x] Has the team reviewed and timeboxed the release intervals?
-- [x] Have PO(s) been made aware and approved of the plan? 
+- [ ] Does the existing DataDog monitoring have sufficient coverage?
+- [ ] Has manual testing been completed in Argo with prod credentials?
+- [ ] Have a successful TestRail test plan been executed?
+- [ ] Confirm devops repository has references to correct environment variable paths
+- [ ] Confirm K8 manifest repository has references to correct environment variable paths
+- [ ] Do we have a point of contact on LH to coordinate with?
+- [ ] Has the team reviewed and timeboxed the release intervals?
+- [ ] Have PO(s) been made aware and approved of the plan? 
 
 ### Canary
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63007
@@ -67,31 +77,17 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
     - Traffic is redirected to LH through the v0 (EVSS) controller
     - The expected behavior is that LH traffic should be **proportionate** to v0 traffic
     - v0 will act as a control as we progress through the rollout phases
-- [x] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
+- [ ] Identify internal users from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md)
 - List identified user emails/Slack handles:
     - Robin Garrison, @Robin Garrison
-        - EVSS: Aug 17, 2023 9:47AM CT, Has existing ITF, Wichita KS
-        - LH: Aug 17, 2023 10:07AM CT
-        - 2nd Test EVSS: Aug 17, 2023 @ 3:09PM CT, Has existing ITF
-        - 2nd Test LH: N/A
-        - 3rd Test EVSS: N/A
-        - 3rd Test LH: 8/22/2023 @ 9:57AM CT (VERIFIED)
     - Mike Richard @Mike Richard
-        - EVSS: Encountered issue, can't proceed
-        - LH: Encountered same issue, 8/22/23 @ 1:33 PM CT, No existing Intent to File, Austin Texas (VERIFIED)
-            - Noting that a successful POST was called, despite a 404 for GET
-            - Post was verified in VBMS by Lighthouse
     - Rocio De Santiago @Rocio De Santiago - Coforma
-        - EVSS: N/A
-        - LH: Aug 22, 12:34PM CST, Has existing ITF, St Louis, MO (VERIFIED)
-        - Feedback: The prod was wrong, it's supposed to be `va.gov/disability/file-disability-claim-form-21-526ez/start`
-        - Feedback: The app ID only showed up after answering more questions and it showed up at the bottom instead of under the header
-- [x] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
+- [ ] Schedule a meeting or asynchronous time for controlled testing, note the scheduled date and time(s) below (to verify activity in DataDog)
     - If opting for a meeting:
         - [ ] Note the date, start, and end time:
     - If opting for asynchronous time:
-        - [x] Note individual scheduled dates and times next to each identified user
-        - [x] Note testing steps:
+        - [ ] Note individual scheduled dates and times next to each identified user
+        - [ ] Note testing steps:
             1. Login to your va.gov account in prod
             2. Navigate to `va.gov/disability/file-disability-claim-form-21-526ez/start`
             3. Answer the questions as follows:
@@ -111,26 +107,16 @@ Lighthouse has been made aware of these risks. Our focus for this test plan will
             8. Once the previous step is completed, let us know. We will then toggle the feature flag for your account to then use the Lighthouse API provider
             9. Close your browser and repeat steps 2-4
             10. On the first `/veteran-information` screen, please note the current time and date
-        - [x] Record testing steps in TestRail
-        - [x] Share testing steps with each user
-- [x] Ensure that at least a portion of users can run through testing steps before setting Flipper active
-- [x] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
-- [x] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
-- [x] Ensure qualitatively that the feature works as intended for users
-- [x] Ensure that the user activity is noticed and captured in the DataDog dashboard
-- [x] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
+        - [ ] Record testing steps in TestRail
+        - [ ] Share testing steps with each user
+- [ ] Ensure that at least a portion of users can run through testing steps before setting Flipper active
+- [ ] Ensure at least one user covers the "legacy" case (EVSS generated ITF, LH checked)
+- [ ] Set Flipper active for identified internal production users ([Flipper Dashboard](https://api.va.gov/flipper/features))
+- [ ] Ensure qualitatively that the feature works as intended for users
+- [ ] Ensure that the user activity is noticed and captured in the DataDog dashboard
+- [ ] Coordinate with Lighthouse point of contact to ensure activity is captured on their end
 - Monitor Sentry and DataDog logs for any anomalies, record below, link to any tickets created to address
     - Note any anomalies here:
-        - 8/17: Discrepancy between LH monitoring (no activity) and our Dashboard. Additionally, activity picked up on our dashboard did not match the expected use case
-            - Our activity picked up submit calls for `form_0966`, while related to ITF, is not necessary to monitor
-            - Determined that v1 controller is not helpful to monitor, dashboard updated
-        - 8/17: Veteran encounters "We need more information for your application" issue
-            - Communicated that this is being investigated, long-term fix in progress
-            - Informed Veteran to use the helpdesk number listed in the issue message as a short-term fix
-        - 8/18: Confirmed via second test that ITF calls are still going to EVSS, despite feature flag
-            - Confirmed flag works when set for all users in staging, however still cannot set for a single user in staging
-            - Posted an inquiry in #vfs-evss-service-migration on how other teams set this up
-            - Issue caused by a missing `current_user` in our Flipper flag call. Fix PR merged 08/21
 
 <br>
 
@@ -174,30 +160,32 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage A: Monitoring phase 
 #### Planning  
-- Date Started: 8/23
-- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov--team/62957
-- Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 0.5%
+- Date Started: 1/4/2024
+- ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/71254
+- Length of time: 3 days
+- Percentage of Users (and roughly how many users do you expect this to be): 1%
 #### Results:  
 - Anomalies
-    - 8/24: Traffic increased to 1% due to needing more cases to observe
-    - 8/24: Noted discrepancy between LH 404s and POSTs called
-        - Normal behavior, the GET went to EVSS while the POST was called through LH
-    - 8/25: Noted 404s on the LH side that were not duplicated on the v0 side
-        - Confirmed that the 404 was captured on both sides, but simply did not show up in the v0/EVSS graph, investigating why this might have happened
 - Rollbacks:
+    -       Rollback reason: Window of no traffic recorded, slightly higher overall error rate than expected based on EVSS side
+            Date: 1/5/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
 
 <br>
 
 
 ### Stage B: Moderate ramp up
 #### Planning  
-- Date Started: 8/30
+- Date Started: 1/12/24
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/63660
 - Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 5% 
 #### Results:  
 - Anomalies:
+    - Noting a drop in activity on 1/14, checking if there was maintenance or an outage
+    It appears that activity wasn't entirely blocked as a few requests made it through
 - Rollbacks:
 
 <br>
@@ -205,9 +193,9 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage C: Another moderate ramp up
 #### Planning
-- Date Started: 9/5
+- Date Started: Skipped
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64555
-- Length of time: 3 days
+- Length of time:
 - Percentage of Users (and roughly how many users do you expect this to be): 10% 
 #### Results  
 - Anomalies:
@@ -218,15 +206,12 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage D: Final moderate ramp up
 #### Planning  
-- Date Started: 9/8
+- Date Started: 1/16/24
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64556
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 25% 
 #### Results  
 - Anomalies:
-    - 9/11: Small jump in 500 errors, and small number of 401s noted Saturday evening (9/9). These affected both systems
-        - Confirmed this was due to an outage: https://dsva.slack.com/archives/C04KW0B46N5/p1694455040993379?thread_ts=1694440762.541849&cid=C04KW0B46N5
-        - LH looking into ways to monitor and address in the future
 - Rollbacks:
 
 <br>
@@ -234,7 +219,7 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 ### Stage E: High traffic
 #### Planning
-- Date Started: 9/18
+- Date Started: 1/25
 - ZH Tracking: https://app.zenhub.com/workspaces/disability-experience-63dbdb0a401c4400119d3a44/issues/gh/department-of-veterans-affairs/va.gov-team/64589
 - Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50% 
@@ -246,25 +231,32 @@ Links to dashboard(s) showing "success criteria" metrics: [Benefits DBex EVSS-to
 
 
 ### Stage F: Go Live!
-- Date Started: 
+- Date Started: 1/29
 - Percentage of Users (and roughly how many users do you expect this to be): 100% 
 #### Results  
-- New Sentry Errors: 
-- Unsuccessful test cases: 
-- Unsuccessful fixture tests: 
-- Call center complaints: 
-- New 504 Errors: 
-- New 499 Errors: 
-- Highest Latency:
+- Anomalies
 - Rollbacks:
+    -       Rollback reason: Sudden drop in activity on both sides of the migration over the weekend. No increase in error activity
+            Date: 1/5/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [x] Has the issue been resolved?
+                - Data appeared skewed due to the duplicate submission surge, no issues. Due to this rollback, a small amount of EVSS activity will appear on 2/5 until 12:48 pm ET
+
+    -     Rollback reason: EE team request until the end of the week, also addressing some spikes in potential noise
+            Date: 4/2/24
+            Severity/Impact: Low
+            Ticket(s) created to address:
+            - [ ] Has the issue been resolved?
 
 <br>
 
 
 ## Post-launch Questions  
 To be completed once you have gathered your initial set of data, as outlined above.   
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?  
-2. What qualitative feedback have you gathered from users or other stakeholders, if any?  
-3. Which of the assumptions you listed in your product outline were/were not validated?  
-4. How might your product evolve now or in the future based on these results? 
-5. What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+2. Were there any metrics that could be considered useful post-rollout for auomated alerts?
+3. What qualitative feedback have you gathered from users or other stakeholders, if any?  
+4. Which of the assumptions you listed in your product outline were/were not validated?  
+5. How might your product evolve now or in the future based on these results? 
+6. What UX changes (if any) are necessary based on the logs, or feedback on user challenges, or VA challenges?

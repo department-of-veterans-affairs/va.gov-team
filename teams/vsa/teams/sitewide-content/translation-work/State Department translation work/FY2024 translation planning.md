@@ -25,9 +25,9 @@ We will also aim to translate some of our core content patterns and error messag
 - [How to request a VA home loan Certificate of Eligibility (COE)](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe/) (Word count: 1,082)
 
 ### Family member benefits
-- [Camp Lejeune water contamination health issues](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#familymembers): (WOrd count: 1,751)
+- [Camp Lejeune water contamination health issues](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/#familymembers): (Word count: 1,751)
 - [VA mental health services](https://www.va.gov/health-care/health-needs-conditions/mental-health/) (Word count: 2,035)
-- [CHAMPVA benefits]([https://www.va.gov/education/survivor-dependent-benefits/](https://www.va.gov/health-care/family-caregiver-benefits/champva/) (Word count: 1,280)
+- [CHAMPVA benefits](https://www.va.gov/health-care/family-caregiver-benefits/champva/) (Word count: 1,280)
 - [VA Dental Insurance Program (VADIP)](https://www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance/) (Word count: 544)
 
 ### Careers and employment

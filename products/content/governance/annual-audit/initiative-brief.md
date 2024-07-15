@@ -2,7 +2,7 @@
 
 ## Overview
 
-By law, VA must audit all VA.gov content each year. The primary requirement of this audit is to make sure that VA.gov content remains timely, accurate, and available to Veterans and other beneficiaries. The Office of the CTO's VA.gov content, accessibility, and information architecture team also uses this opportunity to audit content against current standards to ensure that all content is easy for all Veterans and beneficiaries to find, understand, and use to do the tasks and make the right decisions they need to to fully access and manage their VA benefits.
+By law, VA must regularly audit all VA.gov content. The primary requirement of this audit is to make sure that VA.gov content remains timely, accurate, and available to Veterans and other beneficiaries. The Office of the CTO's VA.gov content, accessibility, and information architecture team also uses this opportunity to audit content against current standards to ensure that all content is easy for all Veterans and beneficiaries to find, understand, and use to do the tasks and make the right decisions to fully access and manage their VA benefits.
 
 ## Products impacted
 
@@ -20,7 +20,7 @@ By law, VA must audit all VA.gov content each year. The primary requirement of t
 
 This audit has 4 primary outcomes:
 
-- Ensure timeliness and accuracy of core VA.gov benefit and service content
+- Ensure timeliness and accuracy of core VA.gov benefit and service content (this includes identifying text that might need clarification and where there may be a gap--or missing information) 
 - Ensure that core VA.gov benefit and service content meets our current, basic quality standards for content, accessibility, and information architecture
 - Ensure that VA partner offices have the opportunity to identify upcoming changes that may impact core VA.gov benefit and service content in the upcoming year to feed into the broader proactive content planning calendar
 - Provide VA partners with a record of annual audits for compliance purposes
@@ -35,7 +35,7 @@ The VA.gov content, accessibility, information architecture team (CAIA) leads th
 
 The team will alert SMEs in advance of the start of the audit and will work with SMEs throughout the audit process. 
 
-The team will set up a publicy accessibility folder structure for records of all audits and will create tickets for any immediate and future updates that come out of the audit.
+The team will set up a publicy accessibile folder structure for records of all audits and will create tickets for any immediate and future updates that come out of the audit.
 
 [Read full content audit process documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/content-team-processes/annual-audit.md)
 
@@ -43,7 +43,7 @@ The team will set up a publicy accessibility folder structure for records of all
 
 The VA.gov content, accessibility, information architecture (CAIA) team conducts this audit on a rolling basis. This timeline is an estimate and may shift:
 
-- Q2-Q3FY2023: Disability content
+- Q2-Q4FY2023: Disability content
 - Q1FY2024: Health and life insurance content
 - Q2FY2024: Education and careers content
 - Q3FY2024: Pension and housing content

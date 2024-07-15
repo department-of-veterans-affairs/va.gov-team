@@ -1,0 +1,1 @@
+[Final poster and wording to be used by the pilot sites](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2023-10-clinical-reminders/New%20VAU%20Digital%20Flyer(3).pdf)

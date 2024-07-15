@@ -1,5 +1,5 @@
 
-# Research Plan for [Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, September - October 2023]
+# Research Plan for Debt Resolution Team, Streamlined Waiver (eFSR) Accessibility Study, October 2023
 
 ## Background
 
@@ -142,7 +142,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
--   [Link to conversation guide](url goes here)
+-   [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/accessibility_research/conversation-guide.md)
     
 -   Link to staging URL: [https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
     
@@ -259,7 +259,7 @@ At least 20% of people are non-native English speakers
 
 Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
 
-Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
+Tuesday Oct 24, 2023 - Friday, November 3, 2023
 
 ### Prepare
 
@@ -272,7 +272,7 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 
--   Planned dates of research: Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
+-   Planned dates of research: Tuesday Oct 24, 2023 - Friday, November 3, 2023
     
 
 ### Length of sessions
@@ -301,11 +301,11 @@ When would you like sessions scheduled? Please list exact dates and times in EAS
 
 Please request enough dates and at least double the amount of time slots for the number of requested participants. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; 12 time slots for 6 participants). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
-Wednesday Oct 18, 2023 - Friday, Oct 27, 2023
+Tuesday Oct 24, 2023 - Friday, November 3, 2023
 
-9am PT - 2pm PT: Tuesday, Wednesday, Friday
+9am PT - 2pm PT: Tuesday, Wednesday
 
-10am PT - 2pm PT: Monday, Thursday
+10am PT - 2pm PT: Monday, Thursday, Friday
 
 2 max per day
 
@@ -334,30 +334,30 @@ Please list the people who will be serving in each role. Include the primary pho
 
   
 
--   [Charlotte Cesana](mailto:charlotte@cityfriends.tech)
+-   charlotte@cityfriends.tech
     
--   [Megan Gayle](mailto:denise.coveyduc@va.gov)
+-   megan.gayle@govcio.com
     
--   [Joseph Lee](mailto:joseph@cityfriends.tech)
+-   joseph@cityfriends.tech
     
--   [Denise Coveyduc](mailto:denise.coveyduc@va.gov)
+-   denise.coveyduc@va.gov
     
--   [Tom Davis](mailto:thomas.davis@govcio.com)
+-   thomas.davis@govcio.com
     
--   [Heather Rienk](mailto:heather.rienks@agile6.com)
+-   heather.rienks@agile6.com
     
--   [Andrew Rodiek](mailto:andrew.rodiek@govcio.com)
+-   andrew.rodiek@govcio.com
     
--   [Brandyn Sullins](mailto:brandyn.sullins@govcio.com)
+-   brandyn.sullins@govcio.com
     
--   [Aaron Ponce](mailto:aaron.ponce@agile6.com)
+-   aaron.ponce@agile6.com
     
--   [Kevin Suarez](mailto:kevin.suarez@agile6.com)
+-   kevin.suarez@agile6.com
     
--   [Scott James](mailto:scott.james@govcio.com)
+-   scott.james@govcio.com
 
--   [Sarah Koomson](Sarah.Koomson@oddball.io)
+-   sarah.koomson@oddball.io
 
--   [Sara Smith](Sara.Smith@oddball.io)
+-   sara.smith@oddball.io
 
--   [Angela Fowler](angela.fowler@adhocteam.us)
+-   angela.fowler@adhocteam.us

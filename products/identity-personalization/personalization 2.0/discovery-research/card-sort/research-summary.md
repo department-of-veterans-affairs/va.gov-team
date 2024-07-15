@@ -1,5 +1,7 @@
 # Research Summary for Personalization 2.0 Card Sort
 
+Samara Strauss | Summer 2019
+
 # Background
 
 [Card sort research plan]()

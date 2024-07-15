@@ -7,13 +7,13 @@
 
 --- 
 
-Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
+Pages listed below
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
-### Page: Introduction
+### Page: Introduction - UNAUTHENTICATED VIEW, other status component below
 
-#### URL: /health-care/-----/introduction
+#### URL: /my-health/update-benefits-information-form-10-10ezr/introduction
 
 
 [h1] Update your VA health benefits information 
@@ -24,7 +24,7 @@ Pages listed below **10-10EZ PLACEHOLDER, need to update to EZR**
 
 [h2] What to know before you fill out this form
 
-[p] [bold] **You can update this household financial information:**
+[p] You can update this household financial information:
 
 [ul]
 - Your marital status
@@ -61,8 +61,58 @@ Expiration date: **06/30/2024**
 
 [button secondary] Privacy Act statement (_popup_)
 
+------------------------------------------------------------------------------
+For UNAUTHETHICATED: 
 
+[component alert info]
 
+[p] [b] **Sign in to update your information online**  
+- We can fill in some of your information for you to save you time.
+- You can save your work in process. You’ll have 60 days from when you start or make updates to your form to come back and finish it.
+
+[button primary] Sign in to start your form
+
+------------------------------------------------------------------------------
+For AUTHENTICATED, ENROLLED STATUS: 
+
+[component alert info]
+
+[p]
+Note: Since you’re signed in to your account, we can prefill part of your application based on your account details. You can also save your application in progress and come back later to finish filling it out.
+
+[primary action link] Start your health benefits update form
+
+[END component alert info]
+
+------------------------------------------------------------------------------
+For NOT ENROLLED STATUS: 
+
+[component alert info]
+
+[p] [b] **Our records show that you're not enrolled in VA health care**  
+You can only use this form to update your health benefits information if you're enrolled in VA health care. If you want to apply for VA health care, you can apply online now. 
+
+[primary action link] Apply for VA health care
+
+[END component alert info]
+
+------------------------------------------------------------------------------
+
+For SAVED PROGRESS: 
+
+[component alert info]
+
+[p] [b] **Your health benefits updates form has been saved**  
+
+Last saved on: [Date and time stamp]
+
+Your saved application will expire on [Month day, year].
+
+If you are on a public computer, sign out of your account so your information stays secure. 
+
+[primary action link] Continue your form
+
+[END component alert info]
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
@@ -72,7 +122,7 @@ Expiration date: **06/30/2024**
 
 ### Page: Personal Information - Authenticated View
 
-#### URL: /health-care/----/veteran-information/profile-information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -81,7 +131,7 @@ Expiration date: **06/30/2024**
 [end progress bar]
 
 
-[p] Confirm your information before you continue.
+[p] This is the personal information we have on file for you.
 
 [read only block component]
 - [p bold] Name
@@ -116,7 +166,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Mailing address - AUTHENTICATED View
 
-#### URL: /health-care/----/veteran-information/veteran-address
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/mailing-address
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -175,7 +225,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Home address
 
-#### URL: /health-care/- - - - /veteran-information/veteran-home-address
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/home-address
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -225,7 +275,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Phone and email address - AUTHENTICATED View
 
-#### URL: /health-care/----/veteran-information/veteran-phone-email-address
+#### URL: /my-health/update-benefits-information-form-10-10ezr/veteran-information/contact-information
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -239,7 +289,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 **Note:** We’ll always mail you a copy of our decision on your application for your records.
 
-[component text input label] Home phone number(*Required)
+[component text input label] Home phone number
 
 [component text input label] Mobile phone number
 
@@ -264,7 +314,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Marital status - AUTHENTICATED View (Pre-filled path: Previously reported married with spouse information prefilled)
 
-#### URL: /health-care/----/household-information/marital-status
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/marital-status
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -296,7 +346,7 @@ You can also call your VA medical center (find a VA location tool) to get help c
 
 ### Page: Spouse information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/spouse information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/spouse-personal-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -347,7 +397,7 @@ Month Day Year (dropdowns)
 
 ### Page: Spouse information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/spouse-additional-information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/spouse-additional-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -383,7 +433,7 @@ Month Day Year (dropdowns)
 ## Step 2 Veteran household financial information - spouse additional support
 ------------------------------------------------------------------------------
 
-### Page: Spouse financial support - AUTHENTICATED View
+### Page: Spouse financial support - AUTHENTICATED View (CONDITIONAL - No on living with and sharing address with spouse)
 
 #### URL: /health-care/----/household-information/spouse-financial-support
  
@@ -415,12 +465,52 @@ Month Day Year (dropdowns)
 
 
 ------------------------------------------------------------------------------
+## Step 2 Veteran household financial information - spouse's address and phone number
+------------------------------------------------------------------------------
+
+### Page: Spouse address and phone number - AUTHENTICATED View (CONDITIONAL - No on living with and sharing address with spouse)
+
+#### URL: /health-care/----/household-information/spouse-contact-information
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 2 of 4: Household financial information
+[end progress bar]
+
+[H3] Spouse's address and phone number
+
+[component select label] Country(*Required)
+
+[component text input label] Street address(*Required)
+
+[component text input label] Street address line 2
+
+[component text input label] Street address line 3
+
+[component text input label] City(*Required)
+
+[component select label] State(*Required)
+
+[component text input label] Postal code(*Required)
+
+[component text input label] Phone Number
+
+[finish later back-continue component]
+
+[button pair] [<< Back] [Continue >>]
+
+[autosave component]
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+------------------------------------------------------------------------------
 ## Step 2 Veteran household financial information - Review Dependents
 ------------------------------------------------------------------------------
 
 ### Page: Review Dependents - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/dependents
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -463,7 +553,40 @@ An unmarried child (including adopted children or stepchildren)
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 
+------------------------------------------------------------------------------
 
+
+[REMOVE MODAL]
+[h3] Remove this dependent?
+[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
+[button primary] Yes, remove dependent
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this dependent?
+[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+
+
+[END MODAL]
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this dependent?
+
+[p] If you cancel adding this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
 
 
 ------------------------------------------------------------------------------
@@ -472,7 +595,7 @@ An unmarried child (including adopted children or stepchildren)
 
 ### Page: Dependent information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent information
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -536,7 +659,7 @@ Month Day Year (dropdowns)
 
 ### Page: Dependent education expenses - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-education-expenses
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/Dependent-education-expenses
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -573,7 +696,7 @@ Month Day Year (dropdowns)
 
 ### Page: Dependent additional information - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-additional-info
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -617,7 +740,7 @@ Month Day Year (dropdowns)
 
 ### Page: Dependent financial support- AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-financial-support
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -665,7 +788,7 @@ One-time payment financial support
 
 ### Page: Dependent annual income - AUTHENTICATED View
 
-#### URL: /health-care/----/household-information/Dependent-financial-support
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -729,7 +852,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Veteran's annual income - AUTHENTICATED View (No prefill for income or deductible from previous year)
 
-#### URL: /health-care/----/household-information/veteran-annual-income
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/veteran-annual-income
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -793,7 +916,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Spouse's annual income - AUTHENTICATED View 
 
-#### URL: /health-care/----/household-information/Spouse-annual-income
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/spouse-annual-income
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -857,7 +980,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: deductible expenses - AUTHENTICATED View 
 
-#### URL: /health-care/----/household-information/Spouse-annual-income
+#### URL: /my-health/update-benefits-information-form-10-10ezr/household-information/deductible-expenses
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -937,7 +1060,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Medicaid - AUTHENTICATED View (Pre-filled screens)
 
-#### URL: /health-care/----/insurance-information/Medicaid
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/medicaid-eligibility
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -976,7 +1099,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Medicare - AUTHENTICATED View (Pre-filled screens)
 
-#### URL: /health-care/----/insurance-information/Medicare
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-enrollment
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1003,6 +1126,38 @@ Enter your dependent's net annual income from a farm, property, or business from
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 
+------------------------------------------------------------------------------
+
+[REMOVE MODAL]
+[h3] Remove this insurance policy?
+[p] This will remove **[Insurance provider 1]** and all its information from your list of insurance policies.
+[button primary] Yes, remove policy
+[button secondary] No, cancel
+
+[END MODAL]
+
+
+[CANCEL EDITING MODAL]
+[h3] Cancel editing this insurance policy?
+[p] If you cancel editing this insurance policy, we won’t save its information. You’ll return to a screen where you can add or remove dependents. 
+[button primary] Yes, cancel editing
+[button secondary] No, continue editing
+
+[END MODAL]
+
+
+
+[MODAL cancel adding]
+[component modal alert]
+
+[h3] Cancel adding this insurance policy?
+
+[p] If you cancel adding this insurance policy, we won’t save its information. You’ll return to a screen where you can add or remove policies.
+
+[button primary] Yes, cancel adding
+[button secondary] No, continue adding
+
+[END MODAL]
 
 
 
@@ -1013,7 +1168,7 @@ Enter your dependent's net annual income from a farm, property, or business from
 
 ### Page: Medicare Effective Date - AUTHENTICATED View (Pre-filled screens)
 
-#### URL: /health-care/----/insurance-information/medicare-part-a-effective-date
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-effective-date
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1039,17 +1194,45 @@ Enter your dependent's net annual income from a farm, property, or business from
 [autosave component]
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
+------------------------------------------------------------------------------
+## Step 3 Insurance information -  New Insurance
+------------------------------------------------------------------------------
+### Page: Insurance Policies - AUTHENTICATED View (CONDITIONAL, no previous Insurance Info)
 
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/policies
+ 
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
 
+[p] Health insurance includes any coverage that you get through a spouse or significant other. Health insurance also includes Medicare, private insurance, or insurance from your employer.
 
+We ask for this information for billing purposes only. Your health insurance coverage doesn’t affect the VA health care benefits you can get.
+
+Do you have health insurance coverage to add?(*Required)
+
+[component radio select]
+
+[add info content]
+[p] Why giving us your health insurance information may help you: 
+[ul]
+**Giving us your health insurance information helps you for these reasons:**
+- We must bill your private health insurance provider for any care, supplies, or medicines we provide to treat your non-service-connected conditions. If you have a VA copay, we may be able to use the payments from your provider to cover some or all of your copay.
+- Your private insurance provider may apply your VA health care charges toward your annual deductible. Your annual deductible is the amount of money you pay toward your care each year before your insurance starts to pay for care.
+
+[radio select options]
+- Yes
+- No
 
 ------------------------------------------------------------------------------
 ## Step 3 Insurance information - Review Insurance
 ------------------------------------------------------------------------------
 
-### Page: Review Dependents - AUTHENTICATED View
+### Page: Review Insurance - AUTHENTICATED View (CONDITIONAL, Previously entered Insurance Info)
 
-#### URL: /health-care/----/household-information/Review-Insurance
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/policies
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1109,7 +1292,7 @@ Your private insurance provider may apply your VA health care charges toward you
 
 ### Page: Insurance Policy - AUTHENTICATED View (CONDITIONAL - New Policy)
 
-#### URL: /health-care/----/household-information/-------
+#### URL: /my-health/update-benefits-information-form-10-10ezr/insurance-information/policy-information
  
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1163,12 +1346,12 @@ Your private insurance provider may apply your VA health care charges toward you
 
 
 ------------------------------------------------------------------------------
-## Step 6 Review
+## Step 6 Review 
 ------------------------------------------------------------------------------
 
-URL: health-care/---------review-and-submit
-Page: Review
+### Page: Review (Successful)
 
+#### URL: /my-health/update-benefits-information-form-10-10ezr/review-and-submit
 
 [component progress bar]
   [h1] Update your VA health benefits information
@@ -1212,11 +1395,68 @@ You’ve read and accept our privacy policy.
 [p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
 
 ------------------------------------------------------------------------------
+## Step 6 Review 
+------------------------------------------------------------------------------
+
+### Page: Review (Unsuccessful Submission)
+
+#### URL: /my-health/update-benefits-information-form-10-10ezr/review-and-submit
+
+[component progress bar]
+  [h1] Update your VA health benefits information
+  [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
+  [h2] 3 of 4: Insurance information
+[end progress bar]
+
+
+[components accordions aligning with sections completed]
+
+
+[h3] Agreement
+
+[p] By submitting this application, you agree to these statements:
+
+[ul]
+- You’ll pay any VA copays for care or services (including urgent care) that may apply, based on your priority group and other factors.
+- You agree that we can contact you at the address and any email or phone number you gave us in this application.
+- You agree to the assignment of benefits so we can bill your other health insurance or other responsible party for any charges for non-service-connected VA medical care or services that may apply.
+- You’ve read and accept our privacy policy.
+[a = https://staging.va.gov/privacy-policy/]Read our privacy policy[/a]
+
+[additional information component]
+
+[label] Read more about the assignment of benefits
+
+[content]
+
+[p] I understand that pursuant to 38 U.S.C. Section 1729 and 42 U.S.C. 2651, the Department of Veterans Affairs (VA) is authorized to recover or collect from my health plan (HP) or any other legally responsible third party for the reasonable charges of nonservice-connected VA medical care or services furnished or provided to me. I hereby authorize payment directly to VA from any HP under which I am covered (including coverage provided under my spouse’s HP) that is responsible for payment of the charges for my medical care, including benefits otherwise payable to me or my spouse. Furthermore, I hereby assign to the VA any claim I may have against any person or entity who is or may be legally responsible for the payment of the cost of medical services provided to me by the VA. I understand that this assignment shall not limit or prejudice my right to recover for my own benefit any amount in excess of the cost of medical services provided to me by the VA or any other amount to which I may be entitled. I hereby appoint the Attorney General of the United States and the Secretary of Veterans' Affairs and their designees as my Attorneys-in-fact to take all necessary and appropriate actions in order to recover and receive all or part of the amount herein assigned. I hereby authorize the VA to disclose, to my attorney and to any third party or administrative agency who may be responsible for payment of the cost of medical services provided to me, information from my medical records as necessary to verify my claim. Further, I hereby authorize any such third party or administrative agency to disclose to the VA any information regarding my claim.
+
+
+[END additional information component] 
+
+[p] **Note:** According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information. (See 18 U.S.C. 1001)
+
+[checkbox label] I certify the information above is correct and true to the best of my knowledge and belief. (*Required)
+
+[secdonary button] [<< Back] 
+
+[component alert info]
+
+[p] [b] **You can't submit your form right now**  
+We're sorry. Something went wrong in our system. Try again later.
+You can also submit a form to update your health benefits information by mail or by phone. 
+[a link] Learn more about how to update your information by mail or phone.
+[End component alert]
+
+[p] We’ve saved your request. We saved it on December 2, 2022, at 5:25 p.m. ET. Your request ID number is 15428.
+
+
+------------------------------------------------------------------------------
 Confirmation
 ------------------------------------------------------------------------------
 ### Page: Confirmation
 
-#### URL: health-care/- - - --/confirmation
+#### URL: /my-health/update-benefits-information-form-10-10ezr/confirmation
 
 [h1] Update your VA health benefits information
   [subtitle] Health Benefits Update Form (VA Form 10-10EZR)
@@ -1269,678 +1509,5 @@ You can print this confirmation page for your records.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[CONDITIONAL - uses old list-and-loop pattern]
-
-[component text input label]  Name of insurance provider(*Required)
-
-[component text input label] Name of policyholder (the person whose name the policy is in)(*Required)
-
-
-[class="schemaform-block-title schemaform-block-subtitle vads-u-margin-top--6 vads-u-margin-bottom--2 vads-u-color--primary-darkest"  ? ] 
-Provide either your insurance policy number or group code. (*Required)
-
-[additional info component]
-
-[label] I have TRICARE. What’s my policy number?
-
-[content] 
-
-[p] You can use your Department of Defense benefits number (DBN) or your Social Security number as your policy number.
-
-[p] Your DBN is an 11-digit number. You’ll find this number on the back of your military ID card.
-
-[END additional info component]
-
-
-[component text input label] Policy Number
-[hint text] Either this or the group code is required
-
-[schemaform-block-title schemaform-block-subtitle vads-u-margin-bottom--neg2p5 vads-u-color--primary-darkest] Or
-
-[component text input label] Group Code
-[hint text] Either this or the policy number is required
-
-[button secondary] Add another insurance policy
-[END CONDITIONAL CONTENT]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Page: Financial disclosure - NO selected
-#### URL: health-care/apply/application/household-information-v2/share-financial-information-confirm
-
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-[component featured content blue background]
-[h3] Confirm that you don't want to provide your household financial information
-[p] **If you’re not eligible for VA health care based on enhanced eligibility status,** we need your financial information to decide if you’re eligible based on your income. 
-[p] **If you’re eligible based on enhanced eligibility status,** you don’t have to share your financial information for eligibility. But if you don’t share this information, we may not be able to decide if you qualify for no copays, free medications, or travel reimbursement.
-[button pair] [<< Back] [Continue >>]
-
-[END component featured content blue background]
-
-
-
----
-
-**Section: Spouse**
-
----
-
-#### Page: Marital status
-#### URL: health-care/apply/application/household-information-v2/marital-status
-(Note: if chose to not share financial information, this is the only other page presented in the household information section)
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-[component select]
-[label] What is your marital status? (*Required)
-
-[component additional information]
-[label] Why we ask for this information
-[content]
-[p] We want to make sure we understand your household’s financial information to better determine what health care benefits you can get. If you’re married, we also need to understand your spouse’s financial information.
-
-[END additional information component]
-
-[dropdown options]
-- Married
-- Never Married
-- Separated
-- Widowed
-- Divorced
-
-[button pair] [<< Back] [Continue >>]
-
----
-
-
-#### Page: Spouse information
-#### URL: health-care/apply/application/household-information-v2/spouse-personal-information
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Spouse’s information
-
-[p] Fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
-
-[component text input label] Spouse’s first name(*Required)
-
-[component text input label] Spouse’s middle name
-
-[component text input label] Spouse’s last name(*Required)
-
-[component dropdown select] Spouse’s suffix
-[dropdown options]
-- Jr. 
-- Sr. 
-- II 
-- III 
-- IV
-
-[component text input label] Spouse’s Social Security number(*Required)
-
-[component date select] Spouse’s date of birth(*Required)
-[dropdowns for: month, day] [ input for year]
-
-[component date select] Date of marriage
-[dropdowns for: month, day] [ input for year]
-
-[button pair] [<< Back] [Continue >>]
-
-
----
-
-
-#### Page: Spouse additional information
-#### URL: health-care/apply/application/household-information-v2/spouse-additional-information
-
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Spouse’s additional information
-
-[p] Fill this out to the best of your knowledge. The more accurate your responses, the faster we can process your application.
-
-[component additional information] 
-[label] Why we ask for this information
-
-[content] 
-[p] This information helps us determine if your spouse was your dependent in 2022.
-
-[component radio select label] Did you live with your spouse for all or part of 2022?
-[select options]
-- Yes
-- No
-
-[component radio select label] Do you currently have the same address as your spouse? (*Required)
-[select options]
-- Yes
-- No
-
-[button pair] [<< Back] [Continue >>]
-
----
-
-
-#### Page: Spouse financial support (if NO answered on did you live with your spouse)
-#### URL: health-care/apply/application/household-information-v2/spouse-financial-support
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Spouse’s financial support
-
-[component radio select label] Did you provide financial support to your spouse in 2022 even though you didn't live together?
-
-[additional info component]
-[add info label]What we consider financial support for a spouse[end label]
-[add info content]
-[p]We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
-[p bold] Financial support includes payments for these types of payments: 
-[ul]
-- Monthly spousal support 
-- One-time payment financial support
-
-[select options]
-- Yes
-- No
-
-[button pair] [<< Back] [Continue >>]
-
----
-
-
-#### Page: Spouse address and phone number (if answered NO to same address question on additional info page)
-#### URL: health-care/apply/application/household-information-v2/spouse-contact-information
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Spouse’s address and phone number
-
-[component select label] Country(*Required)
-
-[component text input label] Street address(*Required)
-
-[component text input label] Street address line 2
-
-[component text input label] Street address line 3
-
-[component text input label] City(*Required)
-
-[component select label] State(*Required)
-
-[component text input label] Postal code(*Required)
-
-[component text input label] Phone number
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-
-
----
-
-**Section: Dependents**
-
----
-
-#### Page: Add dependents 
-
-#### URL: health-care/apply/application/household-information-v2/dependents
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-
-[component radio select]
-[label] Do you have any dependents to report?(*Required)
-
-[component additional information]
-[label] Who we consider a dependent
-
-[content] 
-[p] **Here’s who we consider to be a dependent:**
-
-[ul]
-- A spouse (we recognize same-sex and common law marriages) 
-- An unmarried child (including adopted children or stepchildren)
-
-[END ul]
-
-[p] **If your dependent is an unmarried child, one of these descriptions must be true:**
-
-[ul]
-- They’re under 18 years old, **or**
-- They’re between the ages of 18 and 23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
-- They're living with a permanent disability that happened before they turned 18
-
-[END ul]
-
- [select options]
-- Yes
-- No
-
-[button pair] [<< Back] [Continue >>]
-
-----
-
-
-#### Page: Dependent’s information (selected YES to dependent question)
-
-#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Dependent’s information
-
-[component text input label] Dependent’s first name(*Required)
-
-[component text input label] Dependent’s middle name
-
-[component text input label] Dependent’s last name(*Required)
-
-[component dropdown select] Dependent’s suffix
-[dropdown options]
-- Jr. 
-- Sr. 
-- II 
-- III 
-- IV
-
-[component dropdown select] What is the dependent’s relationship to you?(*Required)
-[dropdown options]
-- Daughter 
-- Son 
-- Stepson 
-- Stepdaughter 
-- Father
-- Mother 
-- Spouse
-
-[component text input label] Dependent’s Social Security number(*Required)
-
-[component date select] Dependent’s date of birth(*Required)
-[dropdowns for: month, day] [ input for year]
-[component date select] When did they become your dependent? (*Required)
-[dropdowns for: month, day] [ input for year]
-
-[button secondary] Cancel adding dependent
-
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-----
-
-#### Page: Dependent’s education expenses (Age between 18 and 23)
-
-#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] [FirstName LastName]’s education expenses
-
-
-
-[component radio select label] If your dependent is between 18 and 23 years old, were they enrolled as a  full-time or part-time student in 2022? (*Required)
-[select options]
-- Yes
-- No
-
-[component text input label] Enter the total amount of money your dependent paid for college, vocational rehabilitation, or training (like tuition, book, or supplies) (*Required)
-
-
-
-[button secondary] Cancel adding dependent
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-----
-
-#### Page: Dependent’s additional information 
-
-#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] [FirstName LastName]’s additional information
-
-[component radio select label] Is your dependent living with a permanent disability that happened before they turned 18 years old? (*Required)
-[select options]
-- Yes
-- No
-
-[component radio select label] Did your dependent live with you in 2022? (*Required)
-[select options]
-- Yes
-- No
-
-[component radio select label] Did your dependent earn income in 2022? (*Required)
-[select options]
-- Yes
-- No
-
-[button secondary] Cancel adding dependent
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-----
-
-#### Page: Dependent’s support (selected NO to dependent live with you question)
-#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
-
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Financial support for [Dependent’s first last name]
-
-[component radio select label] What we consider financial support for a dependent
-
-[component additional information]
-[label] What we consider financial support for a dependent
-[content] 
-
-[p] We consider any payments, even if they aren’t regular or the same amount, to be financial support. 
-[p bold] Financial support includes payments for these types of expenses: 
-
-[ul]
-- Tuition or medical bills 
-- Monthly child support 
-- One-time payment financial support
-
-[END additional info component]
-
-[select options]
-- Yes
-- No
-
-
-[button secondary] Cancel adding dependent
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-----
-
-#### Page: Dependent’s annual income (selected YES to dependent income question)
-
-#### URL: health-care/apply/application/household-information-v2/dependent-information?index=0
-
-[fieldset legend title] [First Last]’s annual income from 2022
-
-[legend title] Gross income from work
-[p] Gross income is income before taxes and any other deductions are subtracted.
-
-[additional info component]
-[add info label] What we consider gross annual income 
-[add info content]
-[p bold] Gross income includes these types of income from a job:
-[ul]
-- Wages 
-- Bonuses 
-- Tips 
-- Severance pay  
-[end additional info component]
-
-[component label text input] Enter your dependent's gross annual income from 2022 (*Required)
-
-
-[legend title] Net income from a farm, property, or business
-[p] Net income is income after any taxes and other deductions are subtracted.
-[component label text input] Enter your dependent's net annual income from a farm, property, or business from 2022 (*Required)
-
-
-
-[legend title] Other income  
-[p] Other income is additional income that doesn't come from a job.
-[additional info component]
-[add info label] What we consider other annual income 
-[add info content]
-[p bold] Other income includes things like this:
-[ul]
-- Retirement benefits
-- Unemployment
-- VA benefit compensation
-- Money from the sale of a house
-- Interest from investments.  
-
-[component label text input] Enter your dependent's other annual income from 2022 (*Required)
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-----
-
-[button secondary] Cancel adding dependent
-
-
-
-
-[button pair] [<< Back] [Continue >>]
-
-----
-
-#### Page: Review dependents
-
-#### URL: health-care/----/household-information-v2/dependents
-
-
-[component progress bar]
-[h2] Step 4 of 6: Household financial information
-[end progress bar]
-
-[fieldset legend title] Review your dependents
-
-[EXPERIMENTAL component card]
-[p]**Dependent’s first and last name**
-[p] Relationship
-
-[action link] Edit > 
-
-[EXPERIMENTAL action link] x Remove
-
-[END card]
-
-[component radio select]
-[label] Do you have another dependent to report?(*Required)
-
-[component additional information]
-[label] Who we consider a dependent
-
-[content] 
-[p] **Here’s who we consider to be a dependent:**
-
-[ul]
-- A spouse (we recognize same-sex and common law marriages) 
-- An unmarried child (including adopted children or stepchildren)
-
-[END ul]
-
-[p] **If your dependent is an unmarried child, one of these descriptions must be true:**
-
-[ul]
-- They’re under 18 years old, **or**
-- They’re between the ages of 18 and 23 years old and were attending high school, college, or vocational school full-time or part-time enrolled as a full time student in 2022, **or**
-- They're living with a permanent disability that happened before they turned 18
-
-[END ul]
-
-[select options]
-- Yes
-- No
-
-
-[button pair] [<< Back] [Continue >>]
-
-
-
-----
-
-[MODAL cancel adding]
-[component modal alert]
-
-[h3] Cancel adding this dependent?
-
-[p] This will stop adding the dependent. You’ll return to a list of any previously added dependents and this dependent will not be added.
-
-[button primary] Yes, cancel adding
-[button secondary] No, continue adding
-
-[END MODAL]
-
-
-[REMOVE MODAL]
-[h3] Remove this dependent?
-[p] This will remove **[First Name Last Name]** and all their information from your list of dependents.
-[button primary] Yes, remove dependent
-[button secondary] No, cancel
-
-[END MODAL]
-
-
-[CANCEL EDITING MODAL]
-[h3] Cancel editing this dependent?
-[p] If you cancel editing this dependent, we won’t save their information. You’ll return to a screen where you can add or remove dependents. 
-[button primary] Yes, cancel editing
-[button secondary] No, continue editing
-
-[END MODAL]
-
-
-
-
-
-
-
-
---- 
-
-### Page: VA Facility
-
-
-#### URL: health-care/apply/application/insurance-information/va-facility-json
-
-[component progress bar]
-[h2] Step 5 of 6: Insurance information
-[end progress bar]
-
-
-[fieldset legend title] VA facility
-
-[checkbox label] I’m enrolling to get minimum essential coverage under the Affordable Care Act.
-
-[additional information component] 
-
-[label] Learn more about minimum essential coverage.
-
-[content]
-
-[p] To avoid the penalty for not having insurance, you must be enrolled in a health plan that qualifies as minimum essential coverage. Being signed up for VA health care meets the minimum essential coverage requirement under the Affordable Care Act.
-
-[fieldset legend title] Select your preferred VA medical facility
-
-[component select label] State(*Required)
-
-[component select label] Center or clinic(*Required)
-(not populated with select options until State selected)
-
-[p] OR [a = /find-locations] Find locations with the VA Facility Locator [/a]
-
-[p] If you’re looking for medical care outside the continental U.S. or Guam, you’ll need to sign up for our Foreign Medical Program. [a= https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/index.asp?_ga=2.214281623.184418145.1682970171-1968773556.1643652899] Learn more about the Foreign Medical Program.[/a] 
-
-You can also visit [a=https://www.benefits.va.gov/PERSONA/veteran-abroad.asp ] Veterans Living Abroad[/a].
-[component radio select]
-
-[label] Do you want VA to contact you to schedule your first appointment?
-
-[radio select options]
-Yes
-No
-
-
-[button pair] [<< Back] [Continue >>]
 
 

@@ -6,7 +6,8 @@
 | 1.0 | Adam Kasmier | 4/13/23 | Initial Creation  |
 | 1.1 | Adam Kasmier | 5/12/23 | Details on engineering handling of 1 pt bug tickets; Inclusion of non-engineering in the process  |
 | 1.2 | Adam Kasmier | 9/7/23 | Update details on how other teams are included to define solution prior to engineering fixing the bug |
-
+| 1.3 | Adam Kasmier | 10/27/23 | Upcoming Org changes, 3rd Party Bugs, QA process change to move the tickets to Backlog Ready to Work |
+| 1.4 | Adam Kasmier | 11/21/23 | Process changing to where individual teams will manage their backlog of relevant bugs and prioritze the work accordingly vs one person for all over mobile. |
 
 ### Overview:
 
@@ -30,6 +31,18 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
   - A separate bug ticket just for UX will be spun up with "UX Review" in title and tagged with Bug and UX - Example ticket [6490](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6490)
   - Capping initial look for UX at 3 points per convo with UX Discipline Lead
   - [Board with filter to find these ticket ](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/board?labels=bug,ux)
+- Note that Engineering Manager may bypass this process has their discretion - doing so then will be managed by engineering manager not not Bug PM
+
+
+### Upcoming Changes
+ - As of Sprint 86 (12/6) the individual mobile teams (API, Design System, Health/Benefits, Global, and QA/Release) will manage their own backlog and prioritization of relevant bug tickets 
+
+### Management based on severity of tickets 
+- Sev - 1 - drop everything work now
+- Sev - 2 - picked up current or next sprint
+    - If its part of a new launch it must be resolved / closed before feature is launch
+    - If part of an existing feature worked next sprint
+- Sev-3 - worked whenever teams prioritize work
 
 
 ### Roles and Responsibilities
@@ -37,13 +50,14 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
 | -----  | ------- | 
 | Identified a Bug  | Anyone | 
 | Bug Ticket Recreation  | QA | 
-| Bug Ticket Scrub | QA| 
-| Assign Bug Ticket to Epic | QA |
-| Prioritize Bug Tickets in Epic  | Product | 
-| Create spin off tickets to determine desired state | Product |
-| Coordinate with Impacted teams  | Product | 
-| Resolve bug ticket within pointed scope - completed ticket or updated size for real resolution and added artifacts/info to the ticket | Engineering |
-| Retest and confirm bug fix  | QA | 
+| Bug Ticket Scrub Label | QA| 
+| Assign Bug Ticket to Bug Epic | QA |
+| Label Bug Ticket with appropriate Mobile Team Label | QA | 
+| Prioritize Bug Tickets in Epic  | Product of individual team | 
+| Create spin off tickets to determine desired state | Product of individual team |
+| Coordinate with Impacted teams  | Product of individual team | 
+| Resolve bug ticket within pointed scope - completed ticket or updated size for real resolution and added artifacts/info to the ticket | Product of individual team |
+| Retest and confirm bug fix  | Product of individual team | 
 | Follow ticket to closed  | Product | 
 
 
@@ -51,44 +65,49 @@ Intent is to have a single place to track, monitor, and prioritize bug tickets w
 ### Steps 
 Steps
 
-**1.) A bug ticket is created**
+**1.) A bug ticket is created by anyone**
 
 **2.) QA scrubs the bug ticket (adds labels, ensures it includes applicable info (test user, steps to repeat, etc)**
-- If bug ticket needs more information QA may assign the ticket to the ticket creator to get more details before it can progress 
-- Scrubbed, once scrubbed adds estimate of 1 (amount of time engineering will spend on it initially)
+- If bug ticket needs more information QA may assign the ticket to the ticket creator or appropriate Mobile team to get more details before it can progress 
+- Once scrubbed successfuly adds estimate of 1 (amount of time engineering will spend on it initially) and 
+    - Add Scrub label to the ticket
+    - Add appropriate team label to the ticket
+    - Add ticket to the Bug [epic](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367)
+    - Move ticket to Backlog Ready to Work Column if ready
+    - If its blocked by more information, desired state is needed move it to Blocked column 
+- If its a third party bug ticket (bug ticket that has been opened with another team - label will be bug but not tied to the bug epic and managed exclusive by engineering ex [7109](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7109)
 
-**3.) QA adds scrubbed bug tickets to this [epic](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/5367) and moves it to Backlog Ready to Work column**
-- Bug tickets that are associated with an ongoing and in development project will be linked to the project Epic and the Bug Epic 
-
-**4.) Product reviews scrubbed bug tickets to determine prioritization and if there are any blockers / requirements needed**
-- In the case the instance another team is needed to determine the solution a separate ticket will be created for that area for them to do their work
+**3.) Product Managers on the Specialized Mobile Teams will routinely review their bug backlog and handle any blockers / requirements / desired state work**
+- In the case the instance another team is needed to determine the solution a separate ticket will be created for that area for them to do their work and the PM will need to coordinate with appropriate teams for resources / capacity / priority to complete 
    - Example [3051](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/3051)
    - For UX ticket they will have in their name UX Review and also be tagged with Bug and UX labels for finding
    - Once UX Review tickets are done then the original bug ticket is updated with findings and ready for engineering work to be prioritized 
 
-**5.) Product prioritizes bug tickets in this epic so that FE / BE can pull from when there is available capacity**
+**4.) Product Managers on the Specialized Mobile Team prioritizes their own relevant bug tickets within their team as needed**
+- During prioritization PM on Mobile teams will need to coordinate with QA, if QA resources are needed to validate, if QA has capacity to test
+- If PM thinks that the ticket should be done by another team then its that PM's responsilibity to have that convo; PM will not go back to QA to reassess owner
 
-**6.) Bug tickets will have Health or Global team label and the PM on those teams should be reviewing those relevant to them**
-- It will follow existing process of ticket grooming/sizing including QA test planning if deemed applicable 
+**5.) Bug tickets are then worked in the Sprint** 
 
-**7.)Capacity needs may shift each quarter, this will be discussed for each quarterly planning and added to the SoS Sprint board**
-- Product may also determine, when necessary, to add bug tickets and deprioritizing other work (ex bug ticket changes severity levels based on new data/findings; blocker for other work) 
-
-**8.) Bug tickets are then worked in the Sprint** 
-- Engineering works the ticket
-- Typically they are 1 point Bugs unless they were previously reviewed in a past sprint using 1 point of effort 
-
-**9.) If Engineering resolves the ticket within point capacity**
+**6a.) If Engineering resolves the ticket within point capacity**
 - QA test and validates work and confirms issue is no longer a bug 
     - Issues that arise will lead to other bug tickets that may be worked in existing sprint 
 - Ticket is ready to be released
 
-**10.) If ticket is not resolved within estimate, resolution will not happen that sprint** 
+**6b.) If ticket is not resolved within estimate, resolution will not happen that sprint** 
 - Engineering will add artifacts / information to the ticket such as - their findings, solution to resolve, are other teams are needed,  if its resolvable, if not resolvable a work around, and other applicable info for when the ticket is considered in a future sprint 
 - Engineer will update the ticket sizing to reflect their finding and anticipated solution 
 - Engineering will move the ticket to the Backlog Ready to Work for Product to consider for prioritization in the future 
 
-**11.)Product includes this ticket back in their Step 4 and repeat**
+**7.)Product includes this ticket back in their Step 4 and repeat**
+
+### Bug Severity as of 1/22/2023
+<img width="460" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/f33c5a44-3059-46d7-84e6-6e0ee27d8fc0">
+<img width="524" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/2b6a7035-0e82-43fd-b69f-81f636bf3e84">
+
+<img width="588" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/16b27cec-32ec-43d8-abbc-dbc017680dda">
+<img width="577" alt="image" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/116006847/61e7c341-f1d4-4f60-a183-698b8867132c">
+
 
 
 

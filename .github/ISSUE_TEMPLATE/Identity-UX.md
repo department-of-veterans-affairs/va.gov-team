@@ -1,24 +1,30 @@
 ---
-name: Identity UX Template
-about: For writing UX tickets
+name: Identity UX template
+about: For writing identity UX tickets
 title: ''
-labels: Identity, Identity-UX
+labels: Identity,Identity-UX
 assignees: ''
 
 ---
 
-###Description of UX Tasks
+## Description of UX Tasks
 
-#### Acceptance Criteria
+
+## Documentation
+
+
+## Definition of Done
+
+
+## Acceptance Criteria
+- [ ] Documentation has been updated
+- [ ] Add finalized research to Github
 - [ ] Reviewed by UX Team
 - [ ] Reviewed by PMs
-- [ ] Documentation has been updated
-- [ ] Put published research in drive
 
 
-#### Product notes
 
-
+---
 ## How to configure this issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
 - [ ] **Attached to an Epic** (what body of work is this a part of?)

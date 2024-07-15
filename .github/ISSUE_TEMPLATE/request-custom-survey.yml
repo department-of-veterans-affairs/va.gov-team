@@ -3,8 +3,8 @@ description: Use this template to request adding a custom Medallia Survey to you
 title: "Request Custom Survey"
 labels: [ "VSP-contact-center", "cc-survey-request" ]
 assignees:
-  - ATMiddleton
-body:
+  - ATMiddleton 
+body: 
   - type: markdown
     attributes:
       value: |
@@ -25,7 +25,6 @@ body:
     attributes:
       label: Product Name(s)
       description: Please provide the name(s) of your product(s).
-      placeholder: Facilities Locator
     validations:
       required: true
   - type: textarea
@@ -52,16 +51,6 @@ body:
       placeholder: MM-DD-YYYY
     validations:
       required: true
-  - type: dropdown
-    id: pra-approval
-    attributes:
-      label: PRA Approval
-      description: Are the questions and answers you’re choosing for your custom survey from the PRA approved list linked here?
-      options:
-        - 'Yes'
-        - 'No'
-    validations:
-      required: true
   - type: textarea
     id: custom-questions
     attributes:
@@ -75,6 +64,4 @@ body:
       value: |
           ### Follow-up and Timeline
           - We will usually review custom survey requests within a few days of receiving them.
-          - If your questions are from the PRA approved list, we should be able to have your custom survey live within a month, sometimes sooner depending on sprint commitments.
-          - If you wish to use questions which are not already PRA approved, we will reach out to schedule some time to talk about your request, the PRA process, and how we can best support you through the PRA process.
- 
+        

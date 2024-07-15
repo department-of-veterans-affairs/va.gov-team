@@ -1,8 +1,8 @@
 # Unauthenticated page experience ratings: September 2023
 
 ## Related overall scores
-- **Total customer satsifaction score:** 51.2 (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall (XX out of XX total)
+- **Total customer satisfaction score:** 51.2 (0% change from last period)
+- **Average resources and support good/bad experience score:** 77% "good" experience rating overall (6,221 out of 8,131 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -25,8 +25,13 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - 
+  - 35% (35 of 100) R&S pages have a 75% or higher "good" score
+  - 34% (34 of 100) R&S pages have a 51% - 74% "good" score
+  - 31% (31 of 100) R&S pages have a 50% or lower "good" score
+ 
 - **Breakdown of resources and support scores by 10s:**
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/f8bf2045-45dc-455e-9114-5510de7ac61f)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/48728214/fa661ea5-02e3-420a-aeb6-6d86f6392af2)
 
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
@@ -48,7 +53,7 @@ All pages have ratings of 2 or below.
 ### 5 resources and support pages with the highest volume of total responses and >75% "good" rating
 
 1. [The PACT Act and your VA benefits](www.va.gov/resources/the-pact-act-and-your-va-benefits/) (83% good out of 1,806 total responses)
-2. [Managing your VA.gov profile](www.va.gov/resources/managing-your-vagov-profile/) (87$% good out of 1,496 toal responses)
+2. [Managing your VA.gov profile](www.va.gov/resources/managing-your-vagov-profile/) (87% good out of 1,496 toal responses)
 3. [How to check in with your smart phone for some VA appointments](www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (91% good out of 1,122 total responses)
 4. [VEText for VA health care reminders and updates](www.va.gov/resources/vetext-for-va-health-care-reminders-and-updates/) (93% out of 385 total responses)
 5. [Your intent to file a VA claim](www.va.gov/resources/your-intent-to-file-a-va-claim/) (75% good out of 210 total responses)
@@ -61,5 +66,17 @@ All pages have ratings of 2 or below.
 4. [Signing in to VA.gov](www.va.gov/resources/signing-in-to-vagov/) (35% good out of 310 total responses)
 5. [Helpful VA phone numbers](www.va.gov/resources/helpful-va-phone-numbers/) (40% good out of 91 total responses)
 ## Analysis
-[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/g/personal/danielle_thierry_va_gov/EVNTGWcPkfBDvCuo85rJcAABzTG-oAXqaO8INOnKpwzEIg?e=EiKlz7)
-
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20September%202023.xlsx?d=w9c52c2f9b80646f1bc08a34f645c4cff&csf=1&web=1&e=ivHYmj)
+- As a whole, R&S is meeting our goal of 75% or higher "good" ratings, with a 77% "good" average rating.
+- Performance isn't as high when broken down to individual pages:
+  - 20% of pages are scoring at 90% or higher "good"
+  - 35% of pages are meeting our goal of 75% or higher "good," while 47% of pages are scoring 70% or higher
+- 26% of pages are scoring at less than 50% "good," with 4% scoring at less than 10% "good" (though all of those were 4 total responses or fewer)
+- PACT-related content has had lower ratings than previous months but continues to perform exceptionally well, showing >80% "good" ratings.
+- Health care content is generally among the highest-scoring content in both experience ratings (1-5) and "good"/"bad" ratings, with the exception of travel pay reimbursement.
+- Most of the lowest-scoring pages revolve around these 3 themes, all of which have known issues beyond content. We should still pull Medallia data on these pages to identify any potential content pain points.
+  - Checking your claim status online
+  - Travel pay reimbursement
+  - Sign in and identity (including privacy and security)
+- The helpful phone numbers page is one of our lowest-scoring pages by volume of responses. We need to pull Medallia data and review this page to identify any potential content pain points.
+ 

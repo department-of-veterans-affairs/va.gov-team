@@ -1,7 +1,7 @@
 # 09/2023 Secondary Research Findings
 Office of the CTO - Digital Experience (OCTO-DE), Benefits, Accredited Representation Management Team
 
-Date: 09/05/2023
+Date: Revised 10/17/2023
 
 Janelle Finnerty (janelle.finnerty@oddball.io)
 
@@ -66,8 +66,9 @@ Clearly defined user and process needs to inform the digital Accredited Represen
 Secondary research to be completed using existing resources:
 1. [VA GitHub Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/projects/1)
 2. [VA VA GitHub Benefits & Appeals Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research)
-3. [Reddit: Veteran Benefits Sub](https://www.reddit.com/r/VeteransBenefits/)
-4. [VA.gov](https://www.va.gov/)
+3. [VA GitHub eBenefits Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/view-update-POA/research-design)
+4. [Reddit: Veteran Benefits Sub](https://www.reddit.com/r/VeteransBenefits/)
+5. [VA.gov](https://www.va.gov/)
 
 Any questions unable to be answered through Secondary Research are recommended to be answered through Primary Research (interviews or user tests) with Veterans and Representatives for user questions, and SME interviews for VA questions.
 
@@ -92,6 +93,9 @@ Any questions unable to be answered through Secondary Research are recommended t
    - Many Veterans will **begin** the process of submitting a claim with a VSO. In cases of **appeals** some Veterans will be referred, or independently, turn to attorneys or claims agents for the increased complexity. Referrals can come from other representatives or Veteran peers.
         - [2023/01 Decision Review Study RAW Notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693587601789/07dfb56d7d6fa2fae2e225c18bf08e2b61310139?sender=u1d7fe27ad03a782e135e8404)
         - [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
+
+    - NEW Veterans need to complete a 21-22(a) form for representative support, but were uncomfortable completing the form without a representative, or had their representative complete it for them.
+        - [2020/05 Power of Attorney and Payment History Research Findings F1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
 
 3. Veterans **lose trust** in representatives whose actions lead to **claim delays** or **unsatisfactory results**, leading them to explore **alternative** representation or self-help options.
 
@@ -360,15 +364,16 @@ Any questions unable to be answered through Secondary Research are recommended t
     - [2023/01 Decision Review Study RAW Notes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1693587601789/07dfb56d7d6fa2fae2e225c18bf08e2b61310139?sender=u1d7fe27ad03a782e135e8404)
 
 3. Provide **direct and actionable information** on search results so Veterans can select a representative that best suits their needs.
-    - **Include when available**; directions, call link, hours of operation, representatives detail page, and results in relation to the Veterans location.
+    - **NEW Include when available**; representative specialty, gender, directions, call link, hours of operation, representatives detail page, and results in relation to the Veterans location.
         - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
-        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
+        - [2020/05 Power of Attorney and Payment History Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
         - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
         - [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
         - [2019/11 Facility Locator Discovery Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
     - Recommend **reducing the size of the map** on the desktop view to make room for more information as users tended to start with the list then refer to the map. Or simply used an external search engine to find facilities.
         - [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
-        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
         - [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
         - [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
     - Ensure that **information is correct** and **up to date** to maintain trust with Veterans.
@@ -377,20 +382,23 @@ Any questions unable to be answered through Secondary Research are recommended t
     - If 'No Results' occurs, **provide clear, actionable next steps**.
         - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
     - On mobile, make the map/list tab **easily accessible to users at all times** as users tend to miss it.
-        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+        - [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
 
 **Veteran Key Finding 3**
 
 4. Provide a **digital 21-22 form submission** utilizing auto-fill and guided questions with **up to date statuses** to reduce duplicate form submissions and errors.
-    - Provide **clear guidance** on tasks, next steps, and timelines.
+    - **NEW** Provide **clear guidance** on tasks, next steps, timelines, and purpose of the 21-22 form.
+    - **NEW** Only require inputs that are **necessary to the task**, and remove optional inputs, such as insurance, which lack clarity of purpose.
     - Display status updates **in a central location** alongside other common statuses.
     - If no digital form is available, pay close attention to guiding Veterans on **how to submit their form** whether by mail, email, or other means.
     - If using PDFs rather than a digital form, **pre-fill the PDF** using a Veteran's account and inputted information to reduce browser PDF errors such as inputted data not saving.
         - [2023/03 Find Forms Medallia Audit](https://docs.google.com/presentation/d/1FMiSGx-kpOnJqt5FYimHiXzHNtujoFgc1YSdcHRWthU/edit?usp=sharing) S9, S20, S21
         - [2023/01 Profile Notification Settings, Add Email Channel Research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/214)
+        - [2020/05 Power of Attorney and Payment History Research Findings F3, F6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
 
-5. Provide educational information on jargon to allow Veterans' to **confirm their understanding** of information shown.
+5. **NEW** Provide **Plain English content** of legal copy and jargon to remove hesitation of completion and increase understanding of the 21-22 form.
     - [2022/02 VBA Service Label Usability Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
+    - [2020/05 Power of Attorney and Payment History Research Findings F2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
 
 6. **Reduce redundant, or unnecessary information** at the top and bottom of the page to focus attention.
     - [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
@@ -442,6 +450,7 @@ There were several questions that I was unable to answer based on secondary rese
 2. Do Veterans have challenges understanding why they'd want a representative?
 3. Do Veterans understand the differences between the representative options (VSO, attorney, claims agent)?
   1. As well as which one is best for their scenario?
+  2. What would Veterans call VSO representatives?
 4. Does cost have any impact on Veterans representation decisions?
 5. What are the use cases for Veterans coming to VA.gov to search for representation?
 6. Where on VA.gov would Veterans expect to find and manage their representative information?
@@ -479,10 +488,11 @@ There were several questions that I was unable to answer based on secondary rese
   23. [2021/06 HLR Opt-In Legacy Issues](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2021-06-Higher-Level-Review-Opt-In-Legacy-Issues-with-Claims-Assistants/20210608HLROpt-InLegacyIssuesReport-300621-1251-8.pdf)
   24. [2021/06 Research Findings: Facility Locator - Assistive Technology Discovery and Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/screenreader-usability-study/research-findings.md)
   25. [2021/04 Power of Attorney VSO Research Report](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2021-04-Power-of-Attorney-Experience-with-VSOs)
-  26. [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/mobile-experience/research-findings.md)
+  26. [2021/02 Mobile Experience Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/2021-mobile-experience-research/research-findings.md)
   27. [2020/12 Notice of Disagreement (NOD) VSOs Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/blob/master/Benefits%20and%20Appeals%20Research/2020-12-Notice-of-Disagreement-VSOs-Discovery-Research/20201211NODVSOsDiscoveryResearch.pdf)
   28. [2020/09 Notice of Disagreement (NOD) SME Interviews](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-09-Notice-of-Disagreement-SME-Interviews-Research-Report)
   29. [2020/07 Research Findings: Urgent Care Mashup Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-mashup/research-findings.md)
+  30. [2020/05 Power of Attorney and Payment History Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ebenefits/view-update-POA/research-design/Research-finding-power-of-attorney-and-payment-history.md)
   30. [2020/04 VSOs COVID19 and 1010EZ Form Discovery Research](https://github.com/department-of-veterans-affairs/lighthouse-ux/tree/master/Benefits%20and%20Appeals%20Research/2020-04-VSOs-Covid19-and-1010EZ-Form-Discovery-Research-with-VSOs)
   31. [2020/03 Facility Locator Search Expectations Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-march2020/research-findings.md)
   32. [2020/03 My VA Redesign Discovery](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/17)

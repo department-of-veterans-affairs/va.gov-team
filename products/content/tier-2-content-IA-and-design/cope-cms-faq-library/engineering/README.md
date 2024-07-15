@@ -9,7 +9,7 @@ Now when editors want to add an existing reusable Q&A they will see it as one of
 ### Utilizing an existing Entity Reference Revisions field, e.g. as "Main content" block
 1. In the Drupal UI > Structure > Content types, click "Manage fields" for your content type.
 2. Edit the chosen Entity Reference Revisions field.
-3. For Paragraph types, select "Q&A Group" and save.
+3. For Paragraph types, select "Reusable Q&A Group" and save.
 
 ### To create a new field
 
@@ -17,7 +17,7 @@ Now when editors want to add an existing reusable Q&A they will see it as one of
 2. Add a new field, and select field type Paragraph under Reference Revisions and continue.
 3. Select "Paragraph" for "Type of item to reference" and select "Unlimited" for the allowed number of values.
 4. For Paragraph types, select the following to enable:
-- Q&A Group
+- Reusable Q&A Group
 - Rich Text
 - Table
 - Accordion Group

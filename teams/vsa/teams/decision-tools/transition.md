@@ -32,10 +32,10 @@
 
 ## Discharge Upgrade Wizard Info
 - [Product URL](https://www.va.gov/discharge-upgrade-instructions/)
-- [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/readme.md)
+- [MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/readme.md)
 - GitHub Label: dt-discharge-upgrade-wizard
 - [FE Source Code](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/discharge-wizard)
-- [History behind the app, list of questions, documented logic to decision tree of algorithm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/dw-content.md)
+- [History behind the app, list of questions, documented logic to decision tree of algorithm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-upgrade-wizard/dw-content.md)
 - [Link to algorithm](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/discharge-wizard/reducers/discharge-wizard.js#L21)
 - [Mural Flow chart of algorithm](https://app.mural.co/t/vsa8243/m/vsa8243/1627914230072/0dae80453b6c97e152fb844ff597ca4bbeb8cc40?sender=u297259cf33d081170d328565)
 

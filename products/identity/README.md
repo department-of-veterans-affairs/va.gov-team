@@ -1,84 +1,98 @@
-# 
+# **About the OCTO Identity team**
 
-Updated 6/15/22
+## **Who we are**
 
-# Getting Started with Identity
+The OCTO Identity team manages the authentication integration for VA.gov. We work with identity partners to confirm who’s signing in and provide secure access to VA.gov resources. Our team understands how identity and security works across the entire platform.
+
+## **How we can help**
+
+We help teams set up and monitor a secure signed in experience for VA.gov applications and services. Schedule [flexible office hours or engineering pairing sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) with us to collaborate anytime.
+
+# **Get started with identity**
 
 **Table of Contents**
 
-1. [Signing in](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#signing-in)
-2. [Connecting to MPI](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#connecting-to-MPI)
-3. [Understanding LOA](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)
-4. [User paths based on Identity](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#User-paths-based-on-Identity)
+1. [Signing in](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#signing-in-to-vagov) to VA.gov
+2. [Connecting to Veteran records](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#connecting-to-veteran-records)
+3. [Understanding verified identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#understanding-verified-identity)
+4. [Planning and testing identity](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#planning-and-testing-identity)
+5. [Requesting support from the Identity team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#requesting-support-from-the-identity-team)
 
-## Signing in
+## **Signing in to VA.gov**
 
-Users can sign in on [VA.gov](http://va.gov/) using one of four Identity Providers:
+Users can sign in on VA.gov using one of our Credential Service Providers (CSPs):
 
-1. **DS Logon**
-2. **My HealtheVet**
-3. **[ID.me](http://id.me/)**
-4. **Login.gov**
+- Login.gov
+- ID.me
+- My HealtheVet
+- DS Logon
 
-Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov](http://va.gov/) page and should be made available in-page on any product that requires or benefits from adding sign-in. You can see an [in-page CTA example shown on one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/). If the user runs into issues, they can visit the [Login FAQ page here](https://staging.va.gov/sign-in-faq/) or submit a [login help request form here](https://www.accesstocare.va.gov/sign-in-help) which sends submitted information to the [VA.gov](http://va.gov/) Microsoft Dynamics instance.
+Sign-in CTAs for all of our CSPs appear in the upper-right corner of the header for VA.gov pages and products that require a signed in experience. Refer to the [Unified Sign-in Page (USiP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/unified-sign-in-pages) in our design documentation for implementation details. You can see an [example of one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/).
 
-[This overview document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each login.
+- This [document on authorization and authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/reference-documents/auth/authentication-and-authorization.md) explains what happens on the backend during each sign in.
+- The [VA.gov and mobile app signin outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login) provides a full overview of the product.
+- If VA.gov users need help signing in, they can [visit the FAQ page](https://staging.va.gov/resources/signing-in-to-vagov/) or [contact support](https://staging.va.gov/contact-us/).
 
-[The login product outline here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/loginproductoutline.md) provides a fuller overview on login.
+## **Connecting to Veteran records**
 
-## Connecting to MPI
+The [Master Persons Index (MPI) is a VA database](https://dvagov.sharepoint.com/sites/OITEPMOIAM/playbooks/Documents/MPI/VA_MPI_Service_Description.pdf) managed by our VA partners in Identity and Access Management (IAM). For example, MPI connects the user signing in to their VA profile and dashboard. This displays personal information and actions in flight with the VA.
 
-Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Person Index (MPI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/user-login/login-data-flow.md). In order for us to attempt a connection to MPI, the user's account level must be LOA3 ([see more on LOA below](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)).
+For [verified users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#understanding-verified-identity), we’ll get back a [list of attributes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md) from MPI that you can use in your VA.gov application. You can view [reference documentation for authenticated endpoints here](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/user/getUser).
 
-If we are able to successfully connect a user to a record in MPI, we get back a [list of attributes](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa) that can be leveraged throughout [VA.gov](http://va.gov/) to provide access to additional digital services. This allows the user to access products such as the profile and dashboard, which display personal information and actions in flight with the VA, as well as pre-fill information on an application directly from their Veteran Record in MPI.
+If a user logging into VA.gov has not verified their identity, we won’t get these responses. It’s important to plan for both scenarios when [testing your authentication integration](https://docs.google.com/document/d/1-V37NyGx6VTXVQhS3s6rk0oxdS9sgtCsmsmXfL-uQ7Y/edit#heading=h.w6ep776k4okl). Learn more about identity verification and testing identity below.
 
-## Understanding LOA
+## **Understanding verified identity**
 
-**LOA = Level of Assurance**
+Users signing in will have a Level of Assurance (LOA) based on whether they've [verified their identity](https://staging.va.gov/resources/verifying-your-identity-on-vagov/) with their CSP. Each CSP has its own [identity verification system](https://staging.va.gov/resources/verifying-your-identity-on-vagov/). The Identity team documents [policies for whether the user meets VA.gov requirements to access signed in attributes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/470b2ba8c4c6c1b7cf168737755ce2607fc92954/products/identity/Products/Design%20Documents/UserAttribute_Rules.md).
 
-We can only connect a user to a Veteran Record in MPI if we are confident that they are who they say they are. Each identity provider has its own identity verification system used to assure [VA.gov](http://va.gov/) that the user's identity is trustworthy.
+> [!NOTE] 
+> The way the government defines and talks about identity verification changes over time with new guidance. VA.gov currently uses Level of Assurance (LOA) terminology to talk about identity verification. You can find the [latest information from the National Institute of Standards and Technology (NIST) here](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63a.pdf).
 
-A user may sign in with an LOA1 account, and have the option to upgrade their account to LOA3 on [VA.gov](http://va.gov/) through [ID.me](http://id.me/)'s identity verification process, even if they logged in with a DS Logon or MHV account ([more details here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/idme/va.gov-id.me-user-flow-overview-06-05-2019.pdf))
+A user signing in with an LOA1 account can save information that isn’t sensitive. A common use case for LOA1 is an application that only requires saving in-progress forms. Users logging into applications that deal with sensitive information would require LOA3 accounts. Common use cases for LOA3 would be VA.gov applications that deal with financial or health data.
 
-Each identity provider has various account levels, which are mapped to [VA.gov](http://va.gov/)'s concept of LOA as shown below:
+To verify identity, [users can verify directly with ID.me, even if they log in with a DS Logon or MHV account](https://help.id.me/hc/en-us/articles/4416188902039-Veterans-Affairs-and-ID-me). Users can also verify their identity by creating a Login.gov account.
 
-```
-| LOA 1 on VA.gov  | LOA 3 on VA.gov   |
-| ---------------- | ----------------- |
-| MHV Basic        |                   |
-| MHV Advanced     |                   |
-|                  | MHV Premium       |
-| DS Logon Level 1 |                   |
-|                  | DS Logon Level 2  |
-| ID.me LOA1       |                   |
-|                  | ID.me LOA3        |
-| logingov IAL1    |                   |
-|                  | logingov IAL2     |
-```
+Each CSP has different account levels, which are mapped to LOA below.
 
-## User paths based on Identity
+| LOA1 equivalent on VA.gov  | LOA3 equivalent on VA.gov |
+| ------------- | ------------- |
+| • My HealtheVet Basic  | • My HealtheVet Premium   |
+| • My HealtheVet Advanced  | • DS Logon Level 2  |
+| • DS Logon Level 1  | • ID.me LOA3   |
+| • ID.me LOA1 | • login.gov IAL 2 |
+| • login.gov IAL 1  |   |
 
-User paths for any product involving identity and personal information should be determined based on a given product's risk profile.
 
-### Potential Product Risk Profiles
+## **Planning and testing identity**
 
-### High risk - LOA3/IAL2 (ID proofing required)
+Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths.
 
-- **Pro:** able to access all known personal user data for the given user
-- **Con:** least accessible to full userbase
+Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/error-messages/sign-in-error-handling.md). Our team can [help you plan your authentication integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to ensure a secure signed in experience.
 
-### Low risk - LOA1/IAL1 (login required)
+## **Requesting support from the Identity Team**
 
-- **Pro:** able to display some information about user
-- **Con:** can't leverage more sensitive user data records as this user account type is not verified
+### Support resources
 
-### No risk - No login required
+- Read our [authentication troubleshooting documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Troubleshooting_logging/troubleshooting_signin.md) to resolve common errors.
+- Check out [self-service documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md) from our team and our partners.
+- Learn more about our [Sign-in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service) and how to get started.
+- Submit a request to our team directly in Github:
+    - [Engineering issue](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/.github/ISSUE_TEMPLATE/1dentity-engineer-support.yml): for authentication help, PR reviews, SiS setup and support, or technical questions.
+    - [Product issue](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/.github/ISSUE_TEMPLATE/1dentity-product-support.yml): for data requests, SiS information and onboarding, or new projects.
+- Schedule time to [meet with our team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-office-hours.md) to discuss any questions.
 
-- **Pro:** most accessible
-- **Con:** no user data
+### Contact our team
 
-LOA3 users are more trusted, and will often have more information and access to services. UAT is required for any new product or feature leveraging identity to ensure that user is able to connect to the correct MPI record and that the personal information being served up by MPI and displayed by [VA.gov](http://va.gov/) is correct. If the user is not found in MPI, and they should be found or would like to be added to MPI, they need a way to correct this. If the user is connected to the correct MPI account, but the information shown is incorrect, the user needs a way to correct their information.
+- Slack channel: [#vsp-identity](https://dsva.slack.com/archives/CSFV4QTKN)
+- Product managers:
+    - Mike King ([Mike.King@oddball.io](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Mike.King@oddball.io))
+    - Jim Connelly ([jim.connelly@oddball.io](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/jim.connelly@oddball.io)).
+- VA point of contact:
+    - Tom Black ([thomas.black2@va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/thomas.black2@va.gov))
+    - Samara Strauss ([samara.strauss@va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/samara.strauss@va.gov)).
 
-LOA1 users have the most restricted access to digital services, since we can't be confident in the trustworthiness of their identity. As a result, we provide additional, minimal-risk services to the user such as saving in-progress applications, and editing pre-filled form information pulled from the identity provider.
+### Additional resources
+The Identity team will assist VA.gov application teams during the initial client application integration and provide support as detailed [in this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Support%20Process/identity-resources-for-authentication-support.md).
 
-Given the multi-tiered nature of identity on [VA.gov](http://va.gov/), there are error states to consider when planning for happy and unhappy paths. Any product involving identity should review the relevant [identity error handling in more detail here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/error-messages).
+### Feedback 
+Have you worked with the Identity team before? [Share your feedback](https://dj540s05.optimalworkshop.com/questions/52low0ey) 🙏

@@ -1,12 +1,12 @@
 # My VA: Health Care Use Cases
 
-**Last updated:** August 25, 2023
+**Last updated:** January 6, 2024 (removal of MHV link, addition of Figma links)
 
 ## Overview of Health Care:
-- This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS) to give the user dynamic content updates for upcoming appointments and unread messages.
+- This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS, or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
 - This feature also contains links to useful, top-task health care features: prescription refills, travel reimbursement, and VA medical records and test results.
 - For all of these use cases, the user must be LOA3 (identity verified). All LOA3 users will see this section on My VA.
-- [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
+- [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will see an empty state of this section on My VA.
 
 ## Common use cases
 - [User has VA health care and does or does not have upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md)
@@ -26,4 +26,4 @@ There are no flags associated with this feature.
 
 
 ## Flow diagrams
-- [User flow for health care on My VA](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/p/23DF1405-7CBD-4457-B5B1-6D3518D13CEA/canvas)
+- [User flow for health care on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7253&mode=design)

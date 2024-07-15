@@ -91,7 +91,7 @@ Before I give you the link to the prototype, please share your screen so we can 
 
 _Wait for screen sharing to work._
 
-Now, I’m going to put a link to the [prototype](https://codepen.io/Tyler-Spangler-the-reactor/pen/vYvzyBQ) in the Zoom chat. You can click on that link.
+Now, I’m going to put a link to the [prototype](https://codepen.io/ccteam/live/poqxVpB) in the Zoom chat. You can click on that link.
 
 ## Prototype testing - 15 minutes
 

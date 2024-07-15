@@ -6,19 +6,6 @@
 - [Google Doc Version](x) (Access Required)
 - [Microsoft Word Version](x)
 
-
-## About the CAIA Team
-### Platform Governance Team
-The Platform Governance Team assists teams specifically through the Collaboration Style, to the launch of a product, via design intent, midpoint review and staging review. 
-
-**[^^Remove if not part of the Collaboration Cycle]**
-
-### Content Accessibility and Information Architecture (CAIA)
-CAIA’s  job is to make sure VFS teams are ready for those incremental steps of the Collaboration Cycle, through a partnership with CAIA's three different disciplines. CAIA can work async or embed with VFS teams, depending on the project. 
-- **Content Team:** can help with plain language
-- **Information Architecture Team:** can help it make sense
-- **Accessibility Team:** can help to make sure your product is accessible
-
 ## Starting the CAIA Process
 ### Process Initiated
 - [ ] Intake Request - this forms the basis of our partnerships with you and becomes an Epic.

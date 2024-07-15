@@ -1,6 +1,6 @@
 # Product outline: Notification settings
 
-**Last Updated: August 1, 2023**
+**Last Updated: 7/12/2024** removed references to the MHV newsletter as that is no longer migrating to the notification settings page
 
 ## Table of Contents
 - [POCs](#pocs)
@@ -28,7 +28,7 @@ Additionally, we work in partnership with VANotify and VA Profile on this work. 
 
 |Name|Role|Email|
 |----|----|-----|
-|Beverly Nelson| OCTO lead for VANotify| beverly.nelson@va.gov |
+|| OCTO lead for VANotify|  |
 |Melanie Jones | VANotify PM | melanie.jones@oddball.io |
 |Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
 
@@ -52,7 +52,7 @@ The following data will come through VA Profile's API
 - Channels (text/email), groups (e.g. health care)
 - User settings (null, true, false) will come through
 
-**Currently we support the following notifications:**
+#### **Currently we support the following notifications:**
 
 <html>
 <body>
@@ -61,13 +61,16 @@ The following data will come through VA Profile's API
 Notification Group | Item | Description | Notes | Channel | In Production
 -- | -- | -- | -- | :-: | :-:
 Your health care | Appointment reminders |   |   | Text | Yes
+Your health care | Appointment reminders |   |   | Email | No
 Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
+Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Email | No
 Your health care | Medical images and reports |   | MHV Migration Item | Email | No
-Your health care | My HealtheVet Newsletter |   | MHV Migration Item | Email | No
 Your health care | My HealtheVet new secure message available |   | MHV Migration Item | Email | No
 Board of Veterans' Appeals | Appeals hearing reminder |   |   | Text | Yes
 Board of Veterans' Appeals | Appeals status updates |   |   | Text | Yes
 Payments | Disability and Pension Deposit Notification |   | Requires VA Notify Support prior to enablement | Text | No
+Payments | New benefit overpayment debt notification | [Caia naming convention ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83243)   |  | Email | No
+Payments | New health care copay bill | [Caia naming convention ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83243) | | Email | No
 QuickSubmit | QuickSubmit | A notification and preference around a platform called "QuickSubmit" | This should NEVER display in the profile and is behind a gate | Email | No
 
 <!--EndFragment-->
@@ -128,6 +131,6 @@ Additional details can be found [here](https://github.com/department-of-veterans
 - [Feature flag documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
 
 ## Design and UX
-- [Notification settings sketch files](https://www.sketch.com/s/afd69a1f-72d2-430b-9b62-285e9d3f479c)
+- [Notification preferences](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=0%3A1&mode=design&t=y8vih7OCF5PGBczD-1)
 - [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/README.md)
 

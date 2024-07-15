@@ -50,7 +50,7 @@ The comparative analysis included (but was not limited to) app examples that sha
 **Travel**
 * TSA
 * Southwest
-* Delta Airlines
+* Delta Air Lines
 * United
 * American Airlines
 

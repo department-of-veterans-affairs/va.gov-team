@@ -86,10 +86,10 @@ No
 Wanted to print out my appointment list but I see no way to do that. There used to be a small printer icon but that appears to have disappeared. 
 
 (NEG)  
-[I want to] print a list of my appointments.  I don't want to print each appointment individually 
+(I want to) print a list of my appointments.  I don't want to print each appointment individually 
 
 (NEG)  
-[I] need a way to print a list of appointments with details. 
+(I) need a way to print a list of appointments with details. 
 
 **May** 
 

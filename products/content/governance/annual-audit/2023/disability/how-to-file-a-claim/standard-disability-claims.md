@@ -19,8 +19,8 @@
 - Flesch-Kincaid before and after grade level added to this document
 
 ## Grade level score using Flesh-Kincaid with no prep
-- Before edits: 
-- After edits: 
+- Before edits: 8.9
+- After edits: 8.8
 
 - [ ] Backlog ticket for further review created if needed
 
@@ -28,14 +28,18 @@
 
 ### Tracking details
 
-- **SME** Name goes here
+- **SME** Robert (Matt) Eakman
 - **Date response received:** 
 
 ### Responses
 
 - **Is all information on the page still accurate and timely? (If no, please note issues and we’ll work together to address)**
-  - **Response:** 
+  - **Response:**
+  -   Suggested clarifying that we ask for permission to get evidence from private sources and we automatically get sources from all government sources
+  -   Removed "When should I turn in my evidence?" Q&A because it caused confusion. 
 - **Are there any gaps in information that Veterans or other beneficiaries need to know? (If yes, please note and we’ll work together to address)**
-  - **Response:** 
+  - **Response:**
+  - Suggested clarifying that VA won't pay for any postage fees or other fees to get evidence from private sources
 - **Are there any potential or known changes in a law, policy, regulation, or program that you think may result in needing to update this information within the next year? (If yes, please note change, related law/policy/regulation/program change, and estimated timing if possible. We’ll reach out to learn more about how we can best support the change.)**
-  - **Response:** 
+  - **Response:**
+  - No. 

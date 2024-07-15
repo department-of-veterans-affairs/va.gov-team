@@ -23,11 +23,14 @@ Systems used by Application Processing teams
      - Used to obtain documents such as DD-214 and DD-215
 
 ### Development
-- x/xx/23 - Placeholder Text.
+- 5/21/2024 - According to Joshua Faulkner, document attachment data is not exposed to the EE API and therefore cannot be accessed via requests.
 
 
 ### Testing
-- xx/xx/22 Placeholder Text.
+- 4/4/2024 - Do not use test address data if you want to update a user's mailing address via the EZR. VA profile actually tests the validity of addresses, so a valid address should be used.
+     - Confirmed by Joshua Drumm when he used a Tampa Bay area Pizza Hut's address.
+- 6/7/2024 - **REVIEW INSTANCE/STAGING ONLY:** In order to force the rendering of the `FormSaveErrorMessage` component, first open the dev tools in your browser whilst on the review page. Then, find `Application/local` `storage/csrfToken` and change it. Finally, submit the form. Component info: https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/forms/components/review/FormSaveErrorMessage.jsx
+- 6/7/2024 - **REVIEW INSTANCE ONLY:** In order to display the error for when the `LOAD_STATUSES.clientFailure` (can't connect to the server) value is true, fill out a form until you reach the review page. Then, SSH into the review instance (instructions here: https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes#Usingreviewinstancestopreviewchanges-SSH), bash into the container by running `docker exec -it vetsapi_web_1 bash` , `docker ps`, and `docker stop vetsapi_web_1`. You can run `docker ps` again to ensure the container is no longer running. Finally, submit the form.
 
 ### Business Processes
 - 9/7/2023 - Confirmation received from Joshua Faulkner
@@ -41,3 +44,11 @@ Systems used by Application Processing teams
           - Any time the Priority Group (PG) changes or any determination is made regarding Priority Group and/or Copay status, a letter will be sent out notifying the Veteran of the change
  
 ### Miscellaneous
+- 11-6-2023
+     - Update on how ES would handle an EZR submitted within a current year that has already had a means test:
+          - If there are less dependents on the EZR than on the current record
+               - We need to test this to truly understand what will happen
+               - Desired outcome: Any information that would impact the financial assessment/means test would be ignored.  The Veteran should only have one means test per income year (this is calendar year).
+               - Future: We need to consider adding a check on E&E service to see if there is a means test already present in the current income year, and if there is, possibly preventing any info that could impact income from being updated. 
+          - Insurance information can be updated any time, but Josh F is double checking on how multiple policies with adding/removing would work.
+     - There is a caveat that the EZR service hasn't been used in about 8 years, and we may find out more on what actually happens during the end-to-end testing

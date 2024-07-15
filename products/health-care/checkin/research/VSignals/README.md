@@ -1,4 +1,4 @@
-# Biweekly Process for Analyzing VSignals Feedback
+# How to Request and Process VSignals Feedback
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 
@@ -9,12 +9,23 @@
 4. The check-in team member completing the analysis will open the Excel spreadsheet and review each comment. To do this, copy the comments, dates, and type columns from the file provided by Ben and past these below the last reporting period's information in the **Outpatient (New) tab**.
     1. The comment categories and general guidelines for determining if a comments applies are as follows:
         1. **Mobile Check-in - Good and Mobile Check-in - Bad**
-        2. **General Check-in - Good and General Check-in - Bad**
+            1. **ONLY** score if you can determine from the comment that this 
+        3. **General Check-in - Good and General Check-in - Bad**
             1. General check-in feedback includes any comments where the methods used to check-in can’t be determined or any comment generally referring to the “new” check-in process. With the “new” comments, it can’t be determined if they are referring to just the removal of the kiosk, checking in with staff, or using mobile check-in. This section also gathers any feedback about the overall process, such as “Check-in was great.”
+            2. **ONLY** score if the Veteran is referencing the check-in process
+            3. **DON'T** score if the comment is just about staff or non-check-in process complaints
     2. If a comment applies to a category, then mark a 1 across from the comment in the corresponding category column. Leave the column blank if the comment doesn't apply. 
         1. **If a comment does NOT apply to mobile or general check-in specifically, do not mark either column.** This is not always straightforward, but it helps to consider if the comment can standalone in a context other than check-in if the term "check-in" were to be remove. 
             1. **Example - NOT mobile or general check-in related:** _"Check-in person ignored me for nearly 5 minutes. I had to stand their while they finished a conversation. This is the second time this has happened they should have the courtesy to not make us wait just so they can chit chat."_
             2. **Example - General check-in related:** _"Everything was great from check-in to check-out. Staff were all helpful and kind and I was surprised how fast and easy it was. I was in and out in 30 min."_
+    3. **ALSO** score these common theme categories   ***************** NEW **********************
+        1.  Staff not using PCI even though Veterans are
+        2.  Trouble navigating larger facilities, specifically, where to check in and find their provider (e.g., when the check-in station is not close to the clinic) or after completing eCheck-in, there’s limited information on how to find the clinic
+        3.  Staff not contacting Veterans when appointments are canceled
+        4.  Concerns with check in at kiosks
+        5.  Facilities still using QR Codes, which shouldn't be used
+        6.  Long wait times at check in or no staff at check in counter
+        7.  Conflicting instructions to Veterans in appointment reminders
 5. Throughout this process, highlight particularly important, new, or interesting comments the team may want to return to in light yellow. 
 6. Next, calculate the percentage of comments for each category out of the total comments within the 2 week reporting period. (Sample formulas can be viewed in Row 2978.)
     1. After completing the calculations, copy the row with the percentage of comments for each category. Add this row to the existing table in the **Mobile-General Trends Weekly tab**.
@@ -24,10 +35,24 @@
     1. Update the analysis dates.
     2. Update the Mobile Check-in and General Check-in graphs with the latest versions.
     3. Update the list of Notable Comments to include a few important comments you highlighted this reporting period. 
-8. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
+8. Create a GitHub summary that follows the format of the last one
+    - If you want to use the VSignalsCommentCopier spreadsheet macro to auto-generate the flagged comments into markdown, see [How to use the VSignalsCommentCopier macro](#how-to-use-the-vsignalscommentcopier-macro)
+10. Post a link to the GitHub summary in the VSignals GitHub ticket and on the #check-in-experience channel. Tag Shawn Adams in the post.
 
+## How to use the VSignalsCommentCopier macro
+- Download the VSignalsCommentCopier spreadsheet
+- Download the main VSignals spreadsheet to which you added the new data
+- Copy the new data from the main VSignals spreadsheet to the VSignalsCommentCopier spreadsheet
+    - NOTE: if you attempt to copy from the online copy, the cells will get messed us because a lot of comments have line breaks in them
+- Run the macro in the VSignalsCommentCopier spreadsheet that copies comments
+    - Choose a location to save the txt file
+    - Click OK when you get the message that the process is complete
+- Ooen the txt file and copy all of the txt to your new GitHub document
+    - Make sure any PHI/PII is masked with for example PII_NAME or PII_PHONE
 
-## Process followed prior to Feb. 2023
+<details>
+    <summary>OLD PROCESSES</summary>
+    ## Process followed prior to Feb. 2023
 
 1. Ben Brasso will e-mail the VSignals team (Mahdi Blaine at mahdi.blaine@va.gov) on the Monday before a sprint ends to get two weeks worth of VSignals reports.
 2. Before the new sprint starts, Ben Brasso will copy two weeks of comments into our aggregated spreadsheet, which is available on OneDrive.
@@ -83,3 +108,5 @@
 7. Post a link to the GitHub summary on the #check-in-experience channel. Tag Shawn Adams in the post.
 
 *We need to still talk to Research Ops about adding these summaries to the research repo and the process that will involve. They want us to help create a taxonomy for the tags associated with VSignals summaries.*
+
+</details>

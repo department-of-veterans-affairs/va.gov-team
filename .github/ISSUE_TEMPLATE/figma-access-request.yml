@@ -1,0 +1,53 @@
+name: Figma Access Request
+description: Request access to Figma
+title: "Figma access request"
+labels: ['figma-access-request']
+assignees: 
+  - naomimarcussen, andreahewitt-odd, @department-of-veterans-affairs/platform-design
+body:
+  - type: markdown
+    attributes:
+      value: Complete this form to request access to Figma.
+  - type: input
+    id: requestor-name
+    attributes:
+      label: Name
+      description: Please provide the name of the person requesting access
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      description: Please provide the work email for the person requesting access
+      placeholder: jane.doe@company.com
+    validations:
+      required: true
+  - type: input
+    id: requestor-role
+    attributes:
+      label: Role
+      description: Please provide the role of the person requesting access
+      placeholder: FE Engineer
+    validations:
+      required: true
+  - type: input
+    id: team-name
+    attributes:
+      label: Team
+      description: Please provide the name of the team
+      placeholder: Profile Team
+    validations:
+      required: true
+  - type: input
+    id: pm-name
+    attributes:
+      label: Product Manager (PM) name 
+      description: Provide the name of the Product Manager working with the person requesting access
+    validations:
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Use this section to add notes.

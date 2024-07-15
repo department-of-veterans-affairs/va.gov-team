@@ -1,6 +1,6 @@
 # Authenticated experience: Product owner, product manager, and delivery manager responsibilities
 
-**Last updated: March 21, 2023**
+**Last updated: March 14, 2024**
 
 ## Product owner responsibilities
 
@@ -24,13 +24,16 @@
 - Managing respective portfolios, including tickets and backlogs, to which they are assigned
 - Converting high-level sprint plans to detailed sprint plans
 - Creating project and sprint epics, managing them, and closing them out upon completion
+- Running and managing sprint ceremonies, or dividing this responsibility with delivery manager
+- Leading other team meetings as needed
 - Writing tickets, in partnership with the team
 - Validating work for the team once its complete
 - Submiting all work through entirety of [platform collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/), and being able to manage all steps of this process
 - Connecting dots between our work and work across OCTO 
   - This is a shared responsibility between PO & PM. The PM should serve as a critical set of eyes and ears for the team, and should be able to spot and bring up relevant dependencies, blockers, and issues that would affect our work.
-- Collaborating with other VA.gov teams and PMs 
-- Running and managing sprint ceremonies, or dividing this responsibility with delivery manager
+- Collaborating with other VA.gov teams and PMs
+- Liasing with VA stakeholders outside OCTO, as needed
+   - This responsibility is in partnership with the OCTO PO, but the OCTO PO should not have to be a go-between for all interactions between the team and stakeholders outside of OCTO
 - Maintaining team documentation
 
 ## Delivery manager responsibilities

@@ -8,7 +8,7 @@ body:
       value: |
         :warning: **_Prerequisites_**  
 
-        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster), have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed on the [VFS Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665), or be a Federal User/have an affiliation with OCTO
+        Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster), have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed in [Atlas](https://dev.va.gov/atlas), or be a Federal User/have an affiliation with OCTO
         
         :wave: **_Instructions_**
         1. Change the **Title** to include target individual
@@ -41,10 +41,10 @@ body:
       required: true
   - type: checkboxes
     attributes:
-      label: Please confirm if you are on the VFS Team Roster, Platform Team Roster or are a Federal User
+      label: Please confirm if you are on Atlas, Platform Team Roster or are a Federal User
       description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
-        - label: "[VFS Team Roster](https://docs.google.com/spreadsheets/d/11dpCJjhs007uC6CWJI6djy3OAvjB8rHB65m0Yj8HXIw/edit?folder=0ALlyxurHpUilUk9PVA#gid=2042046665)"
+        - label: "[Atlas](https://dev.va.gov/atlas)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
         - label: "Federal User (Bill Chapman will need to confirm)"
   - type: checkboxes

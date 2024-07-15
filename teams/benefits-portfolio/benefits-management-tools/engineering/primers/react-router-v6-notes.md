@@ -16,6 +16,8 @@ import startApp from 'platform/startup/router';
 
 ```jsx
 // Old
+import { Route } from 'react-router';
+
 <Route path="/" component={ClaimsStatusApp}>
   {/* Nested routes here */}
 </Route>
@@ -23,8 +25,11 @@ import startApp from 'platform/startup/router';
 // New
 // <Routes> must be parent element of <Route> elements
 // `element` replaces `component`
+import { Route, Routes } from 'react-router-dom-v5-compat';
+
+// Pay attention to the fact that this is an actual instance of the component, not just the class
 <Routes>
-  <Route path="/" element={ClaimsStatusApp}>
+  <Route path="/" element={<ClaimsStatusApp />}>
     {/* Nested routes here */}
   </Route>
 </Routes>
@@ -89,6 +94,8 @@ const { router } = this.props;
 router.push('your-claims');
 
 // New
+import { useNavigate } from 'react-router-dom-v5-compat';
+
 const navigate = useNavigate();
 
 // NOTE: navigate uses relative routing, see the section on `<Link>`
@@ -150,6 +157,8 @@ export default function ParentComponent({ children }) {
 }
 
 // New
+import { Outlet } from 'react-router-dom-v5-compat';
+
 export default function ParentComponent({ children }) {
   return (
     <Outlet />

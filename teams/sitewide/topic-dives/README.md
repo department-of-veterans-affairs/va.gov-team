@@ -20,9 +20,63 @@ Please add any potential future topics you would like covered below:
 ### - NGrok
 - @dsasser
 
+### 7/10/24 - Find a Form
+https://us06web.zoom.us/rec/share/nhSoIaTcjXapnmI6VbM0i7tSLUMJTPWD7WlN2r1hauB1U5k3_Fb1_CxW7swzg47N.-kGMFqgUx35QgVaj?startTime=1720642043000
+Passcode: uc63t+P8
+
+Soup to nuts, how Find a Form works, including: 
+* Nature of upstream data housed in Forms DB 
+  * Ownership of Forms DB
+  * Ownership of the business processes within each administration to create / manage forms and PDFs
+  * Forms contacts
+  * [VA Forms Contacts docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#va-forms-contacts)
+* Migration of Forms data to Drupal
+  * [Migration docs](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/migrations-forms.md))
+  * [Migration in Drupal](https://prod.cms.va.gov/admin/structure/migrate/manage/forms/migrations/va_node_form) 
+* How we manage VA Form nodes in Drupal
+  * Flagging mechanisms
+  * Metadata changes we watch for and why
+  * Publishing VA Form nodes: CAIA's job and how that works
+  * [VA Forms admin queues/views](https://prod.cms.va.gov/admin/content/va-forms)
+* Lighthouse Forms API & how we use it / how they use the CMS
+  * [Lighthouse contacts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-va-form#lighthouse-api-team)
+  * [LH / Forms data flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/engineering.md#end-to-end-flow-to-lh-forms-api)
+* Form download flow: from form Search page vs. from Forms detail page ([Mural artifact of technical flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/vagov6717/1660150431569/27c80eaeeaedfd88c80322ae177b68c503345ba9?sender=u0b235d03cbd64f7f93673243))
+* Troubleshooting
+  * Typical problems
+  * Interaction with Forms managers for data fixes
+  * [Troubleshooting docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/engineering/troubleshooting.md)
+* Monitoring
+  * [Public Websites datadog dashboard](https://vagov.ddog-gov.com/dashboard/szu-xny-9fu/public-websites-dashboard)
+  * [Forms APM monitors in Datadog](https://vagov.ddog-gov.com/apm/services/find-a-form/operations/rack.request/resources)
+
+### 6/17/24 - Flippers & Feature Toggles
+  - Jill Adams
+  - Describes the very high level use case / context for both Drupal feature toggles, and Flippers used in the VA.gov Frontend (driven by vets-api & vets-website)
+  - [Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/videos/feature-toggles-flippers.mp4) - MP4 you'll need to download
+
+### 3/5/24 - ECA module / use for Aging content notifications 
+   - Daniel Sasser
+   - Primarily Drupal: Use of ECA module, how we are configuring it on Public Websites for use to send aging content notifications for Full Width Banners. This was a team-internal primer / demo before the feature shipped. Future topic dive may go into greater detail.
+   - [Video](https://us06web.zoom.us/rec/share/QW-gQ30pdwsEUMU9z3I9p7LPvLKpHgFp_wcRy-6KibDoTmrx_8Zb8z1VtDu_7alA.YadrT7s73_Mylzc3?startTime=1709666432000)  Passcode: UB!4xG?5
+
+### 10/30/23 - How to make your Content Model Documentation ride with your code.
+   - Steve Wirt
+   - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code.
+   - [Video](https://civicactions.zoom.us/rec/share/Bnw7JnpF-7NWJDXGo4K7KXeY01QStkVDn8f9sLWBm21i4BsNjBuWe5Tv6QRO3jhX.PHNKPgnTQuOjbovg?startTime=1698688832000)  passcode: JQh=8TSR
+   - [Documentation of process](https://prod.cms.va.gov/admin/structure/cm_document/process/127/importing-site-documentation)
+
+### 10/23/23 - VA Service Taxonomy
+- Dave Pickett
+- The [VA Service Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy) is a confusing part of the Facilities product portfolio. It is simultaneuously the simplest of our products (very little dedicated code, mostly powered by out of the box Drupal functionality, content updates are infrequent, no dedicated front end to maintain, etc.) and the most complex (source of truth for fields on lots of other content types, governance spans all our stakeholders, small changes can have large downstream impacts, etc.). Tune in to learn about how the VA Service Taxonomy works and how it is key to the long-term vision of the Facilities team.
+- [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation.pdf)
+- [Short and sweet slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation-short.pdf)
+- [Video](https://civicactions.zoom.us/rec/share/-GLIWsuKf2InesjrbmkXDDVvLR0bUS8eFPlSZ8PQ0AFrafNOqTIhF1ke5sM75qce.Yt_ecWRSRFoDjuHb) Passcode: 3wb@c&dA
+
 ### 10/16/23 - Datadog!
 - Chris Kim & Eli Selkin
 - Datadog is a monitoring tool now available to VFS teams. Recently, Chris & Eli configured monitors and synthetic tests for Public Websites and Facilities use cases, and will share learnings.
+- [Zoom video](https://civicactions.zoom.us/rec/share/LBftc12KS6mU7Iz7I7moKOARVp7MmXjNNCOuA7ra7I41hHlmdVlRHftdEhYHQrwr.g2v3yWg4s9tej94a?startTime=1697479170000) Passcode: 0HK%Kc2K
 
 ### 6/12/23 - Cerner/KISS
 - Ryan Koch
@@ -43,8 +97,8 @@ Please add any potential future topics you would like covered below:
 
 ### 5/15/23 - CMS User Permission Model (Roles, Permissions, Workflows & Sections)
 - Dave Pickett
-- [CMS User Permission Model video](https://drive.google.com/file/d/1kM_WClSL15z3JX1EAHJ5f-QG8f0n_lyL/view)
-- [CMS User Permission Model slides](https://docs.google.com/presentation/d/1Kkjmx7rBprudAHXN8uFuxNp7D0nPD2oSj9-9-Jirxr8)
+- [CMS User Permission Model video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide/topic-dives/CMS%20User%20Permission%20-%20Dave%20P%20-%205.15.2023.mp4)
+- [CMS User Permission Model slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/content-governance/CMS-user-permission-model.pdf)
 
 ### 4/17/2023 - Diagrams in Github / Markdown with Mermaid
 - Steve Wirt
@@ -55,7 +109,7 @@ Please add any potential future topics you would like covered below:
   - [Engineer workflow](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/workflow.md#module-removal--uninstall)
   - [Quarterly planning](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/13286)
 
-### 2/6/23 - Drupal and internalization
+### 2/6/23 - Drupal and internationalization
 - Tim Cosgrove
 - [Drupal and internalization video](https://drive.google.com/file/d/1pdnSGqbVopl92ORVFIxuQE5yKexM4n4Z/view)
 
@@ -98,11 +152,11 @@ Please add any potential future topics you would like covered below:
 
 ### 1/27/2022 - Auto compiling theme assets
 - Tanner Heffner
-- [Auto compling theme assets video](TBD)
+- [Auto compling theme assets video](https://youtu.be/n8YtE7eWPzI)
 
 ### 1/20/2022 - Grafana/Datadog/Sentry
 - Neil Hastings
-- [Grafana/Datadog/Sentry video](TBD)
+- [Grafana/Datadog/Sentry video](https://youtu.be/Co_jieBKsZ0)
 
 ### 1/6/2022 - Preview button, content release and FE page links
 - Steve Wirt
@@ -115,27 +169,27 @@ Please add any potential future topics you would like covered below:
 
 ### 10/5/22 - Sections: technical detail for managing
 - Steve Wirt
-- [Sections: technical detail for managing video](TBD)
+- [Sections: technical detail for managing video](https://youtu.be/dMZm0aeWOp0)
 
 ### 12/21/21 - VA Forms Content Flow
 - Steve Wirt
-- [VA Forms Content Flow video](TBD)
+- [VA Forms Content Flow video](https://youtu.be/CuPI8DB7aR0)
 
 ### 12/16/21 - Facility API Push Pull
 - Steve Wirt
-- [Facility API Push Pull video](TBD)
+- [Facility API Push Pull video](https://youtu.be/3PNbOqQXh9s)
 
 ### 12/14/21 - Flow of CMS release and deploy
 - Eric Oliver
-- [Flow of CMS release and deploy video](TBD)
+- [Flow of CMS release and deploy video](https://youtu.be/274NSfbva8o)
 
 ### 12/9/21 - CMS SiteAlerts (shields/notifications)
 - Steve Wirt
-- [CMS SiteAlerts video](TBD)
+- [CMS SiteAlerts video](https://youtu.be/XBIVcBAl6MY)
 
 ### 12/7/21 - User Perms Service
 - Ethan Teague
-- [User Perms Service video](TBD)
+- [User Perms Service video](https://youtu.be/CFQM2dSKAvI)
 
 ### 12/2/2021 - Centralized Content
 - Steve Wirt
@@ -143,5 +197,5 @@ Please add any potential future topics you would like covered below:
 
 ### 11/30/21 - Broken Links
 - Steve Wirt
-- [Broken Links video](TBD)
+- [Broken Links video](https://youtu.be/JmlCGlQxRtE)
   

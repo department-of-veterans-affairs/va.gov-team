@@ -1,6 +1,6 @@
 # My VA Health Care Use Case: User has VA health care and has received health care services at a Cerner facility
 
-**Last updated:** August 25, 2023
+**Last updated:** January 9, 2024 _(addition of language around Cerner alert, removal of reference to MyHealtheVet link on My VA, added Figma links)_
 
 For LOA3 users who sign in, have VA health care, and have received care at a Cerner facility, we will show an alert in the Health care section of My VA directing them to the new VA health portal and My HealtheVet.
 
@@ -11,8 +11,8 @@ For LOA3 users who sign in, have VA health care, and have received care at a Cer
 	- This alert also provides a link to [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) to access care for any other facilities besides the ones listed in the alert as Cerner facilities.
 	- Uses the [warning alert component](https://design.va.gov/storybook/?path=/docs/components-va-alert--default#warning) from the VA design system.
 - When this alert shows, no other content appears in the Health care section of My VA.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/ADCF0E10-E520-4E53-AA3A-70B27D06AD46)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/B86A600B-1B19-4128-854C-299A3A7AAD07)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A468&mode=design&t=8ja2eQhXuACIWdMO-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A918&mode=design&t=8ja2eQhXuACIWdMO-1)
 
 ## How to reproduce
 - Find a staging user who receives care at a Cerner facility in the [health care staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#health-care-section).

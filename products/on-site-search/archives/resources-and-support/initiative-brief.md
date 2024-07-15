@@ -1,0 +1,1 @@
+# <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2022-01-outside-submissions/initiative-brief.md">Moved to products/resources-and-support/initiatives/2022-01-outside-submissions/initiative-brief.md</a>

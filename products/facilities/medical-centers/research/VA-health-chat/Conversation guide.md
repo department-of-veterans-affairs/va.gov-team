@@ -1,0 +1,1 @@
+Conversation guide is included in the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/research/VA-health-chat/research-plan.md) as a list of tasks for the tree test. 

@@ -25,24 +25,24 @@ As a veteran, I want to my old www.subdomain.va.gov or www.va.gov/something book
 
 ## Redirect Types / Examples
 
-| # | Type of redirect / implementation required | Current Page/URL | Redirect to | Code / owner |
+| Jump link | Type of redirect / implementation required | Current Page/URL | Redirect to | Code / owner |
 |---|---|---|---|---|
-|[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#1-same-domain-redirect-redirect-within-wwwvagov) | Same-domain redirect within VA.gov <br>(Server-side)|www.va.gov/* | www.va.gov/* | devops revproxy [redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/redirects.yml), with IA signoff |
-|[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#2-vetsgov-cross-domain-redirect-page-level-redirect-from-vetsgov-to-wwwvagov) | Vets.gov cross-domain redirect, page level <br>(Server-side)| vets.gov/* | www.va.gov/* | devops revproxy [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/vetsgov-redirects.yml) |
-|[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#2-vetsgov-cross-domain-redirect-page-level-redirect-from-vetsgov-to-wwwvagov) | Full site redirect from subdomain > va.gov <br>(Server-side)| pittsburgh.va.gov | www.va.gov | Managed by WebOps |
-|[4a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/ injected header <br>(Client-side) | benefits.va.gov/* (TeamSite loading proxy-rewrite) | www.va.gov/* | vets-website [crossDomainRedirects.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json) |
-|[4b](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/o injected header <br>(Client-side )| subdomain.va.gov/* (TeamSite not loading proxy-rewrite) | www.va.gov/* | Follow [WebOps KB article](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) steps, TeamSite admins must execute |
-|[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#5-redirects-from-subdomains-subdomainvagov-to-subdomains-subdomainvagov) | Subdomain > Subdomain redirect | subdomain.va.gov/* | subdomain.va.gov/* | TBD nature of the subdomain, details below | 
-|[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#6-other) | Any subdomain redirect that is not a TeamSite loading proxy-rewrite | | | ESECC, details below |
+|[1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#1-same-domain-redirect-redirect-within-wwwvagov) | Same-domain redirect within VA.gov <br>(Server-side)|www.va.gov/* | www.va.gov/* | IA must signoff on the request.<br/> Code is in devops repo:  [redirects.yml](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/vars/redirects.yml). <br/>Any Platform or VFS engineer with repo access may modify.  |
+|[2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#2-vetsgov-cross-domain-redirect-page-level-redirect-from-vetsgov-to-wwwvagov) | Vets.gov cross-domain redirect, page level <br>(Server-side) | vets.gov/* | www.va.gov/* | IA must signoff on the request.<br/> Code is in devops repo:  [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/vars/vetsgov-redirects.yml). <br/>Any Platform or VFS engineer with repo access may modify.<br/>These were more typical during the era when vets.gov content was migrating to become va.gov content. As of 2024, only system error pages (e.g. 404, 502, etc) live in the vets-gov repository and we should no longer see redirects like this. |
+|[3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#2-vetsgov-cross-domain-redirect-page-level-redirect-from-vetsgov-to-wwwvagov) | Full site redirect of a subdomain to va.gov <br>(Server-side)| pittsburgh.va.gov | www.va.gov | WebOps must handle full subdomain redirects. Instructions at the jump link.|
+|[4a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/ injected header <br>(Client-side) | benefits.va.gov/* (TeamSite loading proxy-rewrite) | www.va.gov/* | IA must signoff on the request.<br/> Code is in vets-website repo:  [src/applications/proxy-rewrite/redirects/crossDomainRedirects.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). <br/>Any Platform or VFS engineer with repo access may modify. |
+|[4b](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#4-page-level-cross-domain-redirects-from-subdomains-subdomainvagov-to-wwwvagov) | Page-level cross-domain redirect w/o injected header <br>(Client-side )| subdomain.va.gov/* (TeamSite not loading proxy-rewrite) | www.va.gov/* | TeamSite admins must execute. Follow [WebOps KB article](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) steps. |
+|[5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#5-redirects-from-subdomains-subdomainvagov-to-subdomains-subdomainvagov) | Subdomain > Subdomain redirect | subdomain.va.gov/* | subdomain.va.gov/* | TBD nature of the subdomain, details at the jump link. | 
+|[6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md#6-other) | Any subdomain redirect that is not a TeamSite loading proxy-rewrite | | | ESECC, details  at the jump link |
+|[7]| Page-level cross-domain redirect w/o injected header <br>(Client-side )| www.va.gov/*  | subdomain.va.gov/* (TeamSite not loading proxy-rewrite) | Public Websites Team can handle this through their revproxy deploy (Example [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84196) |
 
 
 
 ---
 
 ## Implementation by type
-TODO: Update
-![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow.png)
-
+![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow_2024-04-08.png)
+Created in [Redirects flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712355321178/b6aa216997ca0ac53a0e70272f0fc63086179b07?sender=u0b235d03cbd64f7f93673243)
 
 
 **Architecture diagram:**
@@ -62,8 +62,8 @@ _When to do this?_
 - When a Drupal CMS page URL is updated. Drupal handles URL changes but does not deploy redirects to the website as of 12/13/19.
 
 _How does this work technically?_
-- Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is redirected according to rules that Devops team maintains in the [devops repo](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/react_routes.yml#L69). 
-  - [revproxy README](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/deployment/config/revproxy-vagov/vars) - follow conventions
+- Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is redirected according to rules that Devops team maintains in the [vsp-platform-revproxy repo](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/vars/react_routes.yml). 
+  - [revproxy README](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/tree/main/template-rendering/revproxy-vagov/vars) - follow conventions
   - `To` should always have a trailing `/` in order to avoid an unnecessary + extra redirect.
   - Consider if redirect is/should be case sensitive or case insensitive. If case sensitive, do not use the `matcher` field or use regex in the `src` field. If case insensitive, use the `matcher: "~*"` and **with** regex in the `src` field, such that the value looks like `^/path/?$`.
 - Devops revproxy code for Server-side redirects is deployed via [Jenkins](http://jenkins.vfs.va.gov/job/deploys/) revproxy jobs. (Jan 2023) Deploy = weekly, Wed 10a ET.
@@ -91,7 +91,7 @@ _When to do this?_
 - When `from` URL domain is vets.gov
 
 _How does this work technically?_
-- Same as #1, within VA.gov, but via modifying [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/vetsgov-redirects.yml)
+- Same as #1, within VA.gov, but via modifying [vetsgov-redirects.yml](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/vars/vetsgov-redirects.yml)
   - There are options for `rewrite` and `retain_path`. If you have questions on what values to use for those options, you can reach out to VSP Devops, Mikki Northuis, and the redirect request's stakeholder(s) for clarity.
 
 _What team is responsible?_
@@ -191,7 +191,7 @@ Then the owners of the subdomain may be able to perform the redirect. This requi
 **If the subdmoain _is_ a TeamSite**
 WebOps will not act on this, as they only handle full-site redirects.
 
-The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
+The administrators of the TeamSite should be able to add the redirect, according to TeamSite owners Sandeep Kotian & Brad Smelley. Follow [WebOps KB article](https://vaww.webops.va.gov/apps/kbx/kbarticle.cfm?get=2018-CST-0416041924) steps. When the request is filed via WebOps, WebOps will send to TeamSite (Sandeep), who will identify the TeamSite admins for that domain. 
 
 If the TeamSite admins are unable to update the site, they may request a client-side redirect, via the same technical process as #4 above, using Client-side redirects file: vets-website proxy-rewrite [crossDomainRedirects.json]](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/proxy-rewrite/redirects/crossDomainRedirects.json). 
 - Example: https://github.com/department-of-veterans-affairs/va.gov-cms/issues/11662. To date (Jan 2023) this approach is theoretically viable but in practice, we have not been able to get it working.
@@ -234,6 +234,7 @@ Some extra contact information: VA TIC Gateway Operations
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
 
 ## Change history
+_7/10/24 - @jilladams updated paths to point to new revproxy repo: https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/tree/main_
 
 _5/4/23 - @jilladams updated table of examples and references to match narrative details lower in page._
 

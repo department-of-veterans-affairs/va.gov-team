@@ -1,0 +1,49 @@
+# Participant 3: eScreening  
+
+- Moderator (M): Were you notified via text or email?
+- Participant 3 (P3): I got a text I believe.
+- Moderator: Shows the text.
+- P3: I got that one.
+- M: How far in advance.
+- P3: I think it was 3 -4 days before my appointment.
+- M: enough time to answer?
+- P3: Oh I had enough time.
+- M: Would you want a different time.
+- P3: No that was good.
+- M: Why is that you preference?
+- P3: You know the appointment is coming up and you are thinking about the appointment. I wouldn’t want it weeks before. It is a good time to have it.
+- M: Impression of the text message.
+- P3: No. On that screen, it is fine.
+- M: Time?
+- P3: It took 5 to 10 minutes.
+- M: Moving onto the prototype. 
+- P3: _Participant had difficulty with the link and was asked to choose the program. Moderator ended up sharing their screen and the participant guided them where to click._ I’d pick Yes, living in stable housing. This makes sense.
+- M: Scale 1-5
+- P3: 1 _(Notetaker note: Anytime that the Veteran gave a number on this scale, I only recorded the answer and not the question.)_
+- M: What do you expect to happen next?
+- P3: Something about my health maybe?
+- M: Does this match what happened at your appointment with your provider knowing that they 
+- P3:_Reviewing the food insecurity questions._ My answer is “never true. I guess that this makes sense. First you worry about the housing, then you worry about the food.”
+- M: Scale 1- 5
+- P:3 1
+- P3: _Moves onto toxic exposure screen._ Nothing was confusing (referring to the intro paragraphs) Yes. I answered Yes to Agent Orange. The only things that I would question is “Registry questions.” I don’t know what that means. Does that mean something related to benefits. If it means how to register, then…I don’t know what it means. I would like more clarification on that section, but everything else is a one. I’d selected Agent Orange. I used to spray that stuff.  I’d mark “No questions at this time.”
+- P3: _Moves onto Embedded Fragments._ Reads intro paragraphs and comments on TEFSC office name: “That is a mouthful.” My answer is “no.” I’d give it a 1 that was explained very nicely. 
+- P3: _Moves onto TBI._ I’d marked No and that is a 1.
+- P3: _Moves onto Tobacco._ That is very easy to understand and I’d put “No not at all.” They commented that all of the questions were very easy to understand.
+- P3: _Reviews the screen after “Finish.”_  I like that last one. That is pretty good. They were referring to “help if you really aren’t sure what you need, but things just don’t feel right.” I think that is a good catch all thing. It is a good final question. I’d expect to get a counselor who you’d talk to for a few minutes find out what is wrong. I’d expect a phone call, then possibly a follow-up meeting. I’d give this page a 1. These seems to cover everything that a Veteran needs.
+- M: Does it match what happened at your appointment?
+- P3: yes.
+- M: If you could change one thing, what would it be?
+- P3: It would be that one question about the registry questions. That is it. I think that it is pretty well done.
+- M: Starts questions about experience at home and not what
+- P3: 1
+- M: Impact on the appointment?
+- P3: No, because there was nothing new? I think that it would have affected the appointment if something had changed, but nothing changed. I’ve had the same provider for awhile now, so they know me. I know that he would have picked up on it if something changed, but it didn’t.
+- M: Review page.
+- P3: No, I hadn’t seen that page.
+- M: Impact answering at home.
+- P3: It is better for me to do it on my own time, so I didn’t have to answer that with the provider. Then, we could discuss my health concerns instead. I’m sure that he would have catch on if I had answered something different. I think that getting it ahead of time gave me more time to think about the answers. It is better having it before.
+- M: # of questions
+- P3: Just right.
+- M: Ideal questions and minutes.
+- P3: 20-30 questions and 10 minutes. I’m a busy person, so anything over that wouldn’t be good.

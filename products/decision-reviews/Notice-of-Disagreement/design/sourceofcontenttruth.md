@@ -1,3 +1,21 @@
+**Jump to:**
+
+[Veteran Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-2)
+
+[Issues for Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-5)
+
+[Board Review Option](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-14)
+
+[Review your Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-18)
+
+[Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#request-a-board-appeal-19)
+
+[PROPOSED Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#proposed-copy-changes)
+
+[Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#current-nod-errors)
+
+[PROPOSED Email](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/decision-reviews/Notice-of-Disagreement/design/sourceofcontenttruth.md#proposed--email)
+
 # Board Appeals (Notice of Disagreement) Content Source of Truth
 
 ***SIGNED OUT***
@@ -199,7 +217,7 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 VA Form 10182 (Notice of Disagreement)
 
-## Step 1 of 4: Veteran details
+## Step 1 of 4: Veteran information
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
@@ -276,14 +294,11 @@ Your application will be saved on every change. Your application ID number is XX
 
 You can submit this online form (VA Form 10182) to appeal a VA decision dated on or after February 19, 2019. The Board must receive your completed form **within 1 year (365 days)** from the date listed on your decision notice, unless one of these situations apply:
 
-#### You have a contested claim
-A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to. If our decision involves a contested claim, the Board must receive your completed form within **60 days** from the date listed on your decision notice. 
+**If our decision involves a contested claim**, the Board must receive your completed form within **60 days** from the date listed on your decision notice. A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to.
 
-#### You have a claim from the old appeals system
-If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system **dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
-
-* Within **60 days** from the date on the SSOC letter, **or**
-* Within **1 year** of the decision date by the agency of original jurisdiction
+**If you have a Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC) from the old appeals system dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+- Within 60 days from the date on the SSOC letter, **or**
+- Within 1 year of the decision date by the agency of original jurisdiction
 
 Please understand that by listing any issues currently pending in the old system, you are specifically opting those issues into the new decision review process if you continue with this submission. We won’t continue to process your appeal in the old system.
 
@@ -296,6 +311,18 @@ Finish this request later
 If you have questions or need help filling out this form,  call our MYVA411 main information line at [800-698-2411](tel:+18006982411) and select 0. We’re here 24/724 hours a day, 7 days a week.
 
 If you have hearing loss, call TTY: [711](tel:711).
+
+**PROPOSED Changes**
+```
+#### You have a contested claim
+A contested claim is when multiple people are claiming the right to a benefit that only one party has a right to. If our decision involves a contested claim, the Board must receive your completed form within **60 days** from the date listed on your decision notice. 
+
+#### You have a claim from the old appeals system
+If you have a **Statement of the Case (SOC)** or a **Supplemental Statement of the Case (SSOC)** from the old appeals system **dated on or after February 19, 2019,** the Board must receive your completed form in one of these time frames, whichever is later:
+
+* Within **60 days** from the date on the SSOC letter, **or**
+* Within **1 year** of the decision date by the agency of original jurisdiction
+```
 
 ---
 
@@ -396,9 +423,15 @@ VA Form 10182 (Notice of Disagreement)
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
-### Sorry, we couldn’t find any eligible issues
+Show this error alert if issues are not loading (backend error):
 
-If you’d like to add an issue for review,  select "Add a new issue" to get started.
+    Header: We can't load your issues right now
+    Body: You can come back later, or if you’d like to add your issue manually, you can select "Add a new issue" to get started.  
+
+Show this error alert if account has no eligible issues:
+
+    Header: Sorry, we couldn’t find any eligible issues
+    Body: If you’d like to add an issue for review, select "Add a new issue" to get started.
 
 [Add a new issue](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182/add-issue?index=0)
 
@@ -681,7 +714,7 @@ If you have hearing loss, call TTY: [711](tel:711).
 
 VA Form 10182 (Notice of Disagreement)
 
-## Step 4 of 4: Review your requestc
+## Step 4 of 4: Review your request
 
 Your application will be saved on every change. Your application ID number is XXXXX.
 
@@ -708,19 +741,23 @@ Postal code
 ### Issues for review
 
 ##### Request an extension [Edit]
-Are you requesting an extension **Yes**
+Are you requesting an extension? **blank/No/Yes**
 
 Reason for extension **Added reason for extension**
 
-##### Denial of VA health care benefits [Edit]
-Are you appealing a denial of VA health care benefits? **Yes**
+##### Appealing denial of VA health care benefits [Edit]
+Are you appealing a denial of VA health care benefits? **blank/no/Yes**
 
 #### Issue for review [Edit]
 
 ##### Issue
+Service connection for Issue is (not) granted with an evualuation of #% effecitive [date].
+
+Current rating: **#%**
+
 Decision date: **XX X, XXXX**
 
-##### Disagreement with issue decision on decision date [Edit]
+##### Disagreement with Issue decision on decision date [Edit]
 The service connection **Selected**
 
 Something else: **A few words**
@@ -759,51 +796,166 @@ VA Form 10182 (Notice of Disagreement)
 
 Success alert:
 
-## You’ve successfully submitted your request
+    Header: We’ve received your Board Appeal request
+    Body: After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
 
-We’ll review your request. We may contact you for more information or other documents.  print this page for your records.
+#### Request a Board Appeal (Form 10182)
+for Veteran Name 
 
-### Request a Board Appeal (Form 10182)
-
-#### Your NAME
-Veteran Name 
-
-#### Date submitted
+#### Date you filed your claim
 
 Month Day, Year
 
-#### Issue(s) submitted
+#### You’ve selected these issues for review
 
 • My Issue
 
 • Another Issue
 
-Button: **Print this for your records**
+Button: **Print this confirmation**
 
 ### After you request a decision review
 
-When we've completed your review, we'll mail you a decision packet that includes details about our decision. [Learn more about what happens after you request a review]().
+When we’ve completed your review, we will physically mail you a decision packet that includes details about our decision. Learn more about what happens after you request a review.
 
 ### What should I do while I wait?
 
-You don't need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
+You don’t need to do anything unless we send you a letter asking for more information. If we schedule any exams for you, be sure not to miss them.
 
-If you requested an appeal and haven't heard back from us yet,  don't request another appeal. Call us at 800-827-1000.
+If you requested an appeal and haven’t heard back from us yet, please don’t request another appeal. Call us at 800-827-1000 (TTY: 711).
 
-Button: [Check the status of your appeal]
+Button: [Check the status of your appeal](#)
 
-**Note:**  allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
+**Note:**  Please allow some time for your appeal to process through our system. It could take 7 to 10 days for it to show up in our claim status tool.
 
 ---
-## Error
+## PROPOSED Copy Changes
 
-### Error alerts
+# Request a Board Appeal
 
-Not enough PII to proceed with form:
+VA Form 10182 (Notice of Disagreement)
 
-    Header: We’re missing some of your personal information
-    Body: You’ll need to provide us with the missing information before you can fill out a Notice of Disagreement request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your Social Security number and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
+Success alert:
 
+    Header: You submitted your Board Appeal request on [date]
+    Body: We're currently processing your request. Intake may take 7 to 10 days. If your request is accurate and complete, your appeal will be in line for review, and your request will show up in your list of claims. 
+
+### Save a PDF copy of your Board Appeal
+
+If you'd like a PDF copy of your completed Board Appeal, you can download it now.
+
+Loading indicator: Generating your PDF. This may take a minute.
+
+Download Link: Download a copy of your Board Appeal (PDF)
+
+### Print this confirmation page
+
+If you'd like to keep a copy of the information on this page, you can print it now. 
+
+Button: **Print this page**
+
+### What to expect next
+
+Your completed form will be submitted to the intake team. If your request is accurate and complete, you’ll be in line for review, and your request will show up in the status tool. Intake may take 7 to 10 days.
+
+Link: [Check your claims and appeals status online](https://www.va.gov/claim-or-appeal-status/)
+
+If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam or hearing for you.
+
+After we’ve completed our review, we’ll mail you a decision packet with the details of our decision.
+
+If you don’t hear back from us about your Board Appeal, don’t file another claim or request another type of decision review. Contact us online or call us instead.
+
+Link: [Learn more about what happens after you request a review](https://www.va.gov/decision-reviews/after-you-request-review/)
+
+
+### How to contact us if you have questions
+
+You can ask us a question online through Ask VA.
+
+[Contact us online through Ask VA.](ask.va.gov)
+
+Or call us at 1-800-827-1000 (TTY:711).
+
+## You submitted the following information for the Board Appeal
+### Personal information
+Name
+
+VA File Number
+
+Date of birth
+
+Are you experiencing homelessness?
+
+Mobile phone number
+
+Email address
+
+Mailing address
+
+### Issues for review
+Are you requesting an extension?
+
+Reason for extension
+
+Are you appealing denial of VA health care benefits?
+
+The issues you’re asking the board to review:
+
+### Board review options
+Select a Board review option:
+
+Uploaded evidence
+
+Action Link: [Go back to VA.gov](https://www.va.gov/)
+
+---
+## CURRENT NOD Errors
+
+### Intro
+Need to verify (Not LOA3) alert:
+
+  	Header: You'll need to verify your identity to access more VA.gov tools and features
+  	Body: We need to make sure you're you - and not someone pretending to be you - before we can give you access to your personal and health-related information. This helps to keep your information safe, and to prevent fraud and identity theft.
+  	*This one time process takes about 5-10 minutes.*
+  	Action link: Verify your identity to start your request
+   
+- downtime
+- save-in-progress offline/logged out
+  > We’re sorry. Something went wrong when saving your request. If you’re on a secure and private computer, you can leave this page open and try saving your request again in a few minutes. If you’re on a public computer, you can continue to fill out your request, but it won’t automatically save as you fill it out.
+- Missing SSN/DoB (not implemented, it is in Supplemental Claim)
+### Veteran details
+No errors
+### Homeless
+No errors
+### Contact info
+- warning showing missing phone, email and mailing address (visible initially)
+- error showing missing phone, email and mailing address (visible after submitting)
+### Edit mobile number
+- Number: "Enter a 10 digit phone number"
+- Number: "This field should be at least 10 character(s)" (when < 10)
+- Number: "We can’t make this update because we currently only support U.S. area codes. Please provide a U.S.-based phone number." (type in all zeros)
+- Extension: "Please enter a valid extension up to 6 digits."
+### Edit email
+- "Please enter your email address, using this format: X@X.com"
+- "Please enter your email address again, using this format: X@X.com"
+### Edit address
+- "Street address is required"
+- "City is required"
+- "State is required"
+- "Zip code is required"
+- "Zip code must be 5 digits"
+- APO/FPO/DPO: "Please select a valid option"
+### Deadlines
+No errors
+### Request extension
+No errors (yes/no is optional; defaults to no)
+### Reason for extension
+- "This field cannot be left blank."
+- (Max. 2300 characters) appears below textarea when at max (not an error)
+### Denial of VHA
+No errors (yes/no is optional; defaults to no)
+### Contestable issues
 Issues are not loading:
 
     Header: We can't load your issues right now
@@ -823,16 +975,58 @@ User tries to add 101 issues:
 
      Header: You've reached the maximum number of allowed selected issues
      Body: You're limited to 100 selected issues for each Notice of Disagreement request. If you'd like to select more than 100,  submit this request. Then create a new request for the remaining issues.
-
-PDF upload errors:
-
-    Header: We couldn't upload your PDF
-    Body: Your PDF is too large to upload. You'll need to create smaller PDFs that have fewer pages. Or you can use a PDF reader to optimize (reduce the size of) your PDF. Then try again.
-
+### Add/Edit an issue
+- Name: "You must add an issue"
+- Name: "You can enter a maximum of 180 characters"
+- Date: "You must enter a decision date"
+- Date: "Please enter a complete date" (entering zeros in day)
+- Date: "You must provide a date that includes a month, day, and year"
+- Date: "Please enter a month between 1 and 12"
+- Date: "Please enter a day between 1 and 31"; "Please enter a day between 1 and 28" for Feb 2022 & "Please enter a day between 1 and 29" for Feb 2020
+- Date: "Please enter a year between 1900 and 2123" (end year equals current year + 100)
+- Date: "You must add a decision date that’s in the past" (date is today or future)
+- Date: "You must add an issue with a decision date that’s less than 100 years old"
+### Disagreement
+- "Choose or enter a reason for disagreement"
+- Something else: "This field should be less than 90 characters", "This field should be less than 68 characters", "This field should be less than 53 characters"; "This field should be less than 34 characters" - depends on what is selected
+### Summary
+No errors
+### Board option
+- "Choose a Board review option to proceed"
+### Hearing type
+- "Choose a conference type"
+### Additional evidence
+No error (yes/no is optional; defaults to no)
+### Upload evidence
+- "You must upload a file"
+- "The file extension doesn’t match the file format. Please choose a different file." - file type renamed to be PDF
+- "Please provide a password to decrypt this file" - password protected PDF
+- "We can’t unlock your PDF. Save your file without a password and try uploading it again." - incorrect password
+### Review & submit
+- "You must accept the privacy policy before continuing." - not red?!
+- Contact info
+  - "Missing phone number"
+  - "Missing email address"
+  - "Missing country"
+  - "Missing street address"
+  - "Missing city"
+  - "Missing state"
+  - "Missing zip code"
+- "Missing Board review option"
+- "Missing hearing option"
 User tries to submit with missing/invalid information:
 
      Header: Some information in your request is missing or not valid.
      Body: Check each section of your request to make sure you’ve filled out all the information that is required.
+
+## PROPOSED Errors
+
+### Error alerts
+
+Not enough PII to proceed with form:
+
+    Header: We’re missing some of your personal information
+    Body: You’ll need to provide us with the missing information before you can fill out a Notice of Disagreement request. Call the Defense Manpower Data Center (DMDC) support office at 800-538-9552 to make sure your first and last name, Social Security number, and date of birth are on file. They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. If you have hearing loss, call TTY: 866-363-2883.
 
 ### In-line errors
 
@@ -845,6 +1039,16 @@ User tries to submit with missing/invalid information:
     missingAddress: You must provide an address
 
     missingPrimary: You must choose a primary phone number
+
+    Phone Number: "You must enter a 10 digit phone number"
+    
+    Phone Number: "This field should be at least 10 character(s)" (when < 10)
+    
+    Phone Number: "We can’t make this update because we currently only support U.S. area codes. Provide a U.S.-based phone number." (type in all zeros)
+    
+    Extension: "Enter a valid extension up to 6 digits."
+ 
+    Email: "Enter your email address, using this format: X@X.com"
 
 ### Reason for extension
 
@@ -887,3 +1091,39 @@ User tries to submit with missing/invalid information:
 ### Review
 
   `You must accept the privacy policy before continuing`
+  
+## PROPOSED / Email
+
+Dear ((first_name)),
+
+We’ve received your request for a Board Appeal (VA 10182).
+
+Your completed form will be submitted to the intake team. If your request is accurate and complete, you’ll be in line for review, and your request will show up in the claims and appeals status tool. Intake may take 7 to 10 days.
+
+[Check your Board Appeal status online](https://www.va.gov/claim-or-appeal-status/) 
+
+**Your Board Appeal details**
+
+**Date Submitted:**
+
+((date_submitted))
+
+**Issues for review:**
+
+((issues))
+
+You will receive a confirmation by mail that includes a copy of your Board Appeal submission. These documents are for your records only. We ask that you don’t send us another copy of your form.
+
+If we need more information, we'll contact you to tell you what other information you'll need to submit. We’ll also tell you if we need to schedule an exam or hearing for you.
+
+If you have questions, you can contact us online through [Ask VA](https://ask.va.gov/)
+Or call us at 1-800-827-1000 (TTY:711).
+
+Thank you for your service, 
+
+VA.gov
+
+You're receiving this email because you submitted a Board Appeal request with VA. Don't reply to this email.
+
+
+

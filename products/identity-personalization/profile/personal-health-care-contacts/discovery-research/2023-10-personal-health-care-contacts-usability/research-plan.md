@@ -1,4 +1,4 @@
-# Research Plan for Cartography and Authenticated Experience Profile teams: Personal health care contacts usability, October 2023
+# Research Plan for Cartography and Authenticated Experience Profile teams: Personal health care contacts usability, November 2023
 
 ## Background
 
@@ -76,7 +76,9 @@ _Hypthesis 3:_ Participants will want to be able to edit or add EC and NOK infor
 
 ## Method
 
-We will conduct remote usability and interview sessions with Zoom. The interviews will consist of a combination of tasks and direct questions. We will conduct a study on production behind a feature flag assuming API access. If APIs can’t be hooked up successfully, we will conduct a study on the staging environment. 
+We will conduct remote usability and interview sessions with Zoom. The interviews will consist of a combination of tasks and direct questions. 
+
+We will conduct the study in the staging environment, with a test user created specifically for the purpose of this study.
 
 ### Location
 Data collection will be remote and conducted using Zoom. 
@@ -95,19 +97,19 @@ We’d like to recruit 12 participants for a total of 8 completed sessions:
 
 We would like to request a kick-off meeting with Perigean to go over the recruitment criteria and screener questions.
 **Availability for potential kickoff meeting times with Perigean, depending on their availability. Anticipate KO meeting lasting 30 minutes**
-- Wednesday, October 11: 10 - 12pm, 3 - 4:30pm EST 
-- Thursday, October 12:  10 - 12pm, 1 - 2pm, 3 - 4pm EST 
+- Monday, November 6: 10 - 12pm, 3 - 4:30pm EST 
+- Tuesday, November 7:  10 - 12pm, 1 - 3pm EST
 
 ### Recruitment criteria
 
 All participants:
 
-- Must be veterans
+- Must be veterans or caregivers 
 - Must have a computer or mobile phone and be willing to complete their sessions on this device
 - Must be willing to share a web browser window on the Zoom call
 - Must have a working microphone
 - Must have Zoom downloaded to their computer or mobile phone prior to the session and know how to share their screen
-- Must have signed into VA.gov or MHV, for any reason and need to know their login information 
+- Must have signed into VA.gov or My HealtheVet, for any reason and need to know their login information 
 
 Some participants:
 
@@ -118,53 +120,58 @@ Some participants:
 - 6 people who identify as a race other than White/Caucasian
 - 6 people who identify as a gender other than male
 - 8 people who currently receive health care through VA
-- 4 people who have not received health care through VA in the last 10 years, but do have a disability rating
-
+- 4 people who don't currently receive health care through VA, but have other VA benefits.
+  
 ### Screener questions
 
-1. We’d like you to review parts of the VA website that require you to log in to an identity-verified account. **Do you have an identity-verified account on VA.gov?** You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you log in, your identity is **not** yet verified. 
-> _Response options: yes or no (Answering `yes` would qualify the participant.)_
-
-
-2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that VA.gov works for people who experience these things.
 > _Response option: text box (we need a minimum of 4 people with cognitive considerations, so after this requirement is met, any response is acceptable)_
 
-3. Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 3a.)_
+2. Are you able to join the session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for smart phone users. If yes, proceed to 2a.)_
 
-3a. Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
-> _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 3b)_
+2a. Have you downloaded the Zoom app to your smartphone, know how to screen share, and have a working microphone on your phone?
+> _Response options: yes or no (Answering `yes` would qualify the participant. If no, proceed to 2b)_
 
-3b. You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
+2b. You’ll need to download Zoom, use a working microphone and be ready to screenshare to participate in this session. Please let us know if you need help doing these things prior to your scheduled start time.
 
 
-4. What device will you use to join the session?
+3. What device will you use to join the session?
 > _Response option: text box_
 
-5. Do you need to use screen reader technology to use the internet, such as JAWS on a computer?
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for screen reader users. If yes, proceed to 5a)_
+4. Do you need to use screen reader technology to use the internet, such as JAWS on a computer?
+> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for screen reader users. If yes, proceed to 4a)_
 
-5a. Are you able to join the Zoom session using this assistive technology?
-> _Response options: yes or no (Recruit 4 "yes", go onto Screener question 5b. If no, disqualify as screenreader participant; can be recruited based on other criteria)_
+4a. Are you able to join the Zoom session using this assistive technology?
+> _Response options: yes or no (Recruit 4 "yes", go onto Screener question 4b. If no, disqualify as screenreader participant; can be recruited based on other criteria)_
 
-5b. Please list the name of the assistive technology or software you will use during the session.
+4b. Please list the name of the assistive technology or software you will use during the session.
 > _Response option: text box_
    
-6. Have you received health care at a VA health facility within the last 10 years?
-> _Response options: yes or no (Answering `yes` would qualify the participant to satisfy criteria for 8 health care users. If yes, skip question 7. If no, proceed to question 7)_
+5. Which benefits or services do you currently receive through VA?
+> Response options should be a checklist with the options below.
+> - Health care benefits
+> - Education services, such as GI Bill benefits or VR&E benefits
+> - Disability or pension benefits, such as disability compensation
+> - Housing benefits, such as adaptive housing or home loans
+> - Life insurance
+> - Memorial benefits
+> - Other
+> - I'm not sure
+> - I don't receive any benefits or services through VA
 
-7. Do you have a disability rating?
- >_(Answering `yes` would qualify the participant to satisfy criteria for 4 participants who do not have health care, but have a disability rating. If no, disqualify)_
+> Answering **only** "I do not know" or "I don't receive any benefits or services through VA" disqualifies participants.
+> Please recruit 8 who include "health care benefits" in their response, and 4 that select any combination of options that **does not** include "health care benefits".
 
 ## Timeline
 
 ### Prepare
-- Pilot: Week of October 16th 
+- Pilot: Week of October 6  
 - Pilot participant email: TBD
 - Date and time of pilot session: TBD
 
 ### Research sessions
-Planned dates of research: October 19 - 26th 
+Planned dates of research: November 14 - 21st
 
 ### Length of sessions
 * Session length: 1 hour
@@ -174,19 +181,19 @@ Planned dates of research: October 19 - 26th
 
 | Date       | Times (Eastern) |
 | ---------- | --------------- |
-| 10/19/2023 | 9am - 4pm; 5:30pm - 7pm |	
-| 10/20/2023 | 9am - 5pm |
-| 10/23/2023 | 9am - 5pm; 5:30pm - 7pm |
-| 10/24/2023 | 9am - 5pm | 
-| 10/25/2023 | 9am - 5pm; 5:30pm - 7pm |
-| 10/26/2023 | 9am - 5pm | 
+| 11/14/2023 | 9am - 4pm; 5:30pm - 7pm |	
+| 11/15/2023 | 9am - 5pm |
+| 11/16/2023 | 9am - 5pm; 5:30pm - 7pm |
+| 11/20/2023 | 9am - 5pm | 
+| 11/21/2023 | 9am - 5pm; 5:30pm - 7pm |
+| 11/22/2023 | 9am - 5pm | 
 	
 ## Team Roles	
 Please list the people who will be serving in each role. 	
 - Moderator: Jonathan Nelson (jonathanj.nelson@adhocteam.us)
 - Research guide writing and task development: Jonathan Nelson
 - Participant recruiting & screening: Perigean
-- Project point of contact: Jonathan Nelson (jonathanj.nelson@adhocteam.us)
+- Project point of contact: Jonathan Nelson (jonathan.nelson@adhocteam.us)
 - Participants for pilot test: TBD
 - Note-takers: Shared amongst team members
 - Observers: 
@@ -199,7 +206,8 @@ Please list the people who will be serving in each role.
 all others to sign up via sign up list. 
 
 ## Approvals
-- Reviewed and approved by Samara Strauss, Patrick Bateman on 
+- Reviewed and approved by Samara Strauss on 10/6/23
+- Reviewed and approved by Patrick Bateman on 10/10/23
 - Reviewed and approved by Shane Strassberg on 
 
 

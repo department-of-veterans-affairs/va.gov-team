@@ -11,7 +11,7 @@ Everyone across these 4 areas has a clear understanding of their roles and respo
 
 - Maintains overall product roadmap (Marci McGuire specifically)
 - Conducts product-specific usability research
-- Uses agile development to design, build, and launch web and mobile products
+- Uses agile development to design, build, and launch web and mobile products (partners with content/accessbility/information architecture team for these disciplines)
 - Partners with VA partners, Veterans, and subject matter experts to ensure the product meets the intended goals
 - Monitors the performance of the product once launched and prioritizes continuous improvements and fixes
 - Creates, updates, and distributes product guides
@@ -22,6 +22,8 @@ Everyone across these 4 areas has a clear understanding of their roles and respo
 #### Contributes as needed to these tasks
 - Leads or participates in presentations and speaking engagements as needed
 - Keeps roadmap up to date for each product
+
+**Note:** The VA.gov content/accessibility/information architecture (CAIA) team is part of the VA.gov design practice and is separate from the unified MHV on VA.gov/Sign-in communications group. CAIA works directly with designers and product teams on the UX product content and manages the unauthenticated content on VA.gov. 
 
 ### Change management
 

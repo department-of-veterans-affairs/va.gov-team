@@ -45,6 +45,12 @@ Veterans find it difficult to submit a travel reimbursement claim and often wait
 ### Key Performance Indicators (KPIs)
 - Favorable VSignals feedback from Veterans who use eCheck-in and choose to file a travel reimbursement claim
 
+#### Post-Launch Utilization
+
+[Download Chart](https://github.com/department-of-veterans-affairs/va.gov-team/files/14512054/Check-ins.and.BT.claims.submitted.pdf)
+<br/><br/>
+<img width="961" alt="Screenshot 2024-03-06 at 10 25 07 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/101129355/f784b39d-5041-4e46-bc80-7f7043366da1">
+
 ## Launch Planning
 
 ### Collaboration Cycle

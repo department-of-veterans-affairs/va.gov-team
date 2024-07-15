@@ -1,6 +1,10 @@
 # Initiative Brief - 527EZ Pension Form Reactivation
 ## Overview
-* The digital pension 527EZ form is several versions behind the paper form, and it is missing fields that are now required to process pension claims. Currently, any user who submits a digital 527 claim receives a development letter asking them to resubmit their claim using the paper form.
+* The digital pension 527EZ form was recently found to be several versions behind the paper form. The online form was is missing fields that are now required to process pension claims. Any user who submitted a digital 527 claim received a development letter asking them to resubmit their claim using the paper form.
+
+* Due to this, the digital pension benefits form was officially deactivated from VA.gov on Wednesday, November 8, 2023. At the moment, any visitor who goes to VA.gov for Pension benefits information will see copy informing them that the online form is temporarily deactivated, and it explains other options to submit an appication for Pension benefits in the meantime (mail, QuickSubmit, or in-person).
+
+* The Pension Benefits team is working to redesign and build a minimum viable product version of the online Pension form that will make the digital form processable for the business and contribute to an improved user experience for veterans.
 ---
 
 ## Outcome Summary
@@ -95,14 +99,14 @@
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-- Form redesign: August-September 2023
-- Form development: September-November 2023
-- Form launch: November 2023
+- Form redesign: August 2023 - January 2024
+- Form development: August 2023 - January 2024
+- Form launch: January 2024
 
-* [Link to Release Plan for this Initiative - TBD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Relaunch plan](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1704481084114/b171b0540054b2844cb7977dd7dd2dfb7aab9c48?sender=u9d01ee38af217e4877e75660)
 
 #### Initiative Launch Dates
-- *Target Launch Date*: November 2023
+- *Target Launch Date*: January 25, 2024
 - *Actual Launch Date* : TBD
 
 ---
@@ -114,15 +118,15 @@
 - [Current form flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683826730324/61b509f935adaa2acf2f7769a5ba911726a7b237?sender=u0e8ac1d6d7681bb7e1b80558)
 
 ### After
-- [Future flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691512530884/67e3bc6677c8d17cf6fc8848319a6e40ebced1af?wid=0-1691790334288&sender=u0e8ac1d6d7681bb7e1b80558)
+- [Future flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1703103128492/30dc0956f99482beffb457eb2ae884430cc2d3f4?sender=u9d01ee38af217e4877e75660)
 ---
 
 #### Communications
 *Where will you discuss this initiative?*
-- Team Name: Benefits Non-Disability
-- GitHub Label(s): Ubmrella, pension
-- Slack channel: benefits-ce-non_disability_exp
-- Product POCs:Laura Steele
+- Team Name: Pension Benefits (initially started by the Benefits Non-Disability team)
+- GitHub Label(s): pension
+- Slack channel: #benefits-pension
+- Product POCs: Vicky Bellissimo
 
 #### Stakeholders
 *What offices/departments are critical to make this initiative successful?*
@@ -130,7 +134,9 @@
 |Office/Department|Contact|Role|
 |-----------------|-------|----|
 |OCTO|Emily Theis|PO|
-|VBA|Terrence Minyard|Project Manager for electronic submissions|
+|OCTO|Julie Strothman|Design Lead
+|OCTO|Steve Albers|Engineering Lead
+|VBA|Dylan Dubbs| |
 |VBA|Eric Henne|Lead on paper form updates|
 
 ---

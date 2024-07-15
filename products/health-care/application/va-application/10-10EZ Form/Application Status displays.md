@@ -1,6 +1,12 @@
 # Application Statuses
 
-[Sketch File with all status messages](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/rbZdRwx)
+- [Figma link with alert and FAQ intro screens](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3640-24662&t=XutnDlDDlkHJp5Cc-4)
+- [Mural with all form alerts](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3640-24662&t=XutnDlDDlkHJp5Cc-4)
+
+[OLD Sketch File with all status messages](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6/a/rbZdRwx)
+
+
+---- 
 
 ![image](https://user-images.githubusercontent.com/92328831/214611391-bb15e3b8-807d-48a9-bd5a-d4e6ab315dae.png)
 

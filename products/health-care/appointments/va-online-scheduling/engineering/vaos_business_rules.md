@@ -1,6 +1,14 @@
 # VAOS product and business rules
 
+We have migrated this documentation to the [feature reference](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference). 
+
+This file can be deleted after 02/01/24
+
+<!--
+
 This attempts to be a high-level summary of the various product and business rules that VAOS follows, primarily from a front end or user perspective. It's not meant to be a detailed spec, but hopefully contains all the important rules that VAOS follows.
+
+
 
 ## Application level
 
@@ -154,7 +162,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests, they're sent to the community care preferences page
     - For VA requests, they're sent to the reason for visit page
 
-### Community care closest city page
+### Nearest city page
 
 - If a user is registered at multiple VistA sites that support community care, they must choose the appropriate parent facility to route the request to
 
@@ -190,7 +198,7 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
     - For community care requests or the direct path, they're sent to the contact info page
     - For VA requests, they're sent to the visit type page
 
-### Visit type page (request path)
+### Preferred modality (request path)
 
 - Users must choose the type of visit they'd like to have
     - Office visit
@@ -222,3 +230,4 @@ https://wiki.mobilehealth.va.gov/pages/viewpage.action?pageId=175000908
 - The appointment confirmation page is shown after a successful directly scheduled appointment
 - It is meant to look like the appointment detail page
 
+-->

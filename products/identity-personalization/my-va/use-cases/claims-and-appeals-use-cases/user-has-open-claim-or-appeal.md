@@ -1,6 +1,6 @@
 # My VA Claims and Appeals Use Case: User has an open claim or appeal
 
-**Last updated:** August 1, 2023
+**Last updated:** September 16, 2024 - added Figma links
 
 For LOA3 users who sign in and have an open claim or appeal, we will show a card for their most recently updated claim or appeal with the current status in the Claims and Appeals section on My VA.
 
@@ -11,8 +11,8 @@ For LOA3 users who sign in and have an open claim or appeal, we will show a card
 - This card is always displayed on the lefthand side of the page on desktop and at the top of the list directly under the Claims and appeals header on mobile.
 - Uses the [card component](https://design.va.gov/components/card) from the VA design system.
 - They will also see links to “Learn how to file a claim” which links to [a page about how to file a disability claim](https://www.va.gov/disability/how-to-file-claim/), as well as "Manage all claims and appeals" which links to the [claims tool](https://www.va.gov/claim-or-appeal-status/) where they can view a list of all past claims.
-- [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/6DE35B58-BF5A-45A8-9122-33C99486954A)
-- [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/E2F919C4-1E23-432E-82EC-11B4DC1424FA)
+- [Desktop mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A318&mode=design&t=WghpiwwCzYuhYyHN-1)
+- [Mobile mockup](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A853&mode=design&t=WghpiwwCzYuhYyHN-1)
 
 ## How to reproduce
 - Find a staging user who has an open claim or appeal in the [claims and appeals staging user test cases](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-myvaaudit.md#claims-and-appeals-section).

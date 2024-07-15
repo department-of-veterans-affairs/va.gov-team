@@ -1,6 +1,6 @@
 # Project outline: Migrate direct deposit for comp & pen from EVSS > Lighthouse
 
-**Last Updated: October 3, 2023 -- updating launch info**
+**Last Updated: December 11, 2023 -- updating metrics**
 
 ### Communications
 
@@ -89,12 +89,12 @@ As a person that receives payments from VA, I want to be able to easily view and
 - [Launch monitoring from Adam's EVSS > Lighthouse dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/DRqBrmiyTD6l8L75rei0fw/a50123418w177519031p176188361/)
 - **Success rate** = Failed [retrievals/saves]/Successful [retrievals/saves]
 
-|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)| 2nd week @10% (8/22/23 - 8/28/23)| Re-Launch to 10% (9/12/23 - 9/18/23) | Stayed @ 10% (9/19/23 - 9/26/23) | 1 week @25% ( DATES ) |1 week @50% ( DATES )|1 week @100% ( DATES )| 1 month @100% ( DATES ) | 2nd month @100% of users ( DATES )|
+|KPI|Rate (%) 1 month pre-launch (7/8/2023-8/7/2023)|1 week @5% (8/8/23 - 8/14/23)| 1 week @10% (8/15/23 - 8/21/23)| 2nd week @10% (8/22/23 - 8/28/23)| Re-Launch to 10% (9/12/23 - 9/18/23) | Stayed @ 10% (9/19/23 - 9/26/23) | 1 week @25% ( 9/26-10/10/2023 ) |1 week @50% ( 10/3-10/10/2023 )|1 week @100% ( 10/10-10/17/2023 )| 1 month @100% ( 10/10-11/10/2023 ) | 2nd month @100% of users ( 10/10-12/10/2023 )|
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|% of successful retrievals|90%|96%|94%|92%|94.71%|95%||||
-|% of failed retrievals|10%|4%|6%|7%|5.29%|5%||||
-|% of successful saves|84%|91%|85%|78%|90.45%|94.95%||||
-|% of save failures|16%|9%|15%|22%|9.55%|5.05%||||
+|% of successful retrievals|90%|96%|94%|92%|94.71%|95%|96.65%|96.8%|94.61%|95.77%|94.77%|
+|% of failed retrievals|10%|4%|6%|7%|5.29%|5%|3.35%|3.18%|5.39%|4.23%|5.23%|
+|% of successful saves|84%|91%|85%|78%|90.45%|94.95%|93.11%|94.22%|93.05%|93.54%|93.68%|
+|% of save failures|16%|9%|15%|22%|9.55%|5.05%|6.89%|5.78%|6.95%|6.46%|6.32%|
 
 
 ## Key deliverables
@@ -125,7 +125,8 @@ As a person that receives payments from VA, I want to be able to easily view and
 - September 6, 2023: Lighthouse production increase in Gateway timeout changed from 10s to 20s, resulting in a drop in timeout errors
 - September 12, 2023: Launch increased to 10% of users
 - September 26, 2023: Launch increased to 25% of users
-- October 3, 2023: Launche increased to 50% of users
+- October 3, 2023: Launch increased to 50% of users
+- October 10, 2023: Launch increased to 100% of users
 
 ### Launch issues
 

@@ -1,0 +1,39 @@
+name: Create Completed Ticket for Colaboration Cycle Touchpoint
+
+on:
+  issues:
+    types:
+      - labeled
+
+jobs:
+  ticket-creation:
+    name: Create Completed Ticket
+    runs-on: ubuntu-latest
+    if: ${{ contains(github.event.issue.labels.*.name, 'CC-Request') &&
+        (github.event.label.name == 'cc-kickoff' || 
+        github.event.label.name == 'design-intent' || 
+        github.event.label.name == 'midpoint-review' || 
+        github.event.label.name == 'staging-review')}}
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: |
+          npm i axios@1.6.1 axios-retry@3.8.1
+
+      - name: Run  script
+        env:
+          ZENHUB_API_KEY: ${{ secrets.ZENHUB_API_KEY }}
+          GOV_TEAM_BOARD_ID: ${{ secrets.GOV_TEAM_BOARD_ID }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          EVENT_LABEL: ${{ github.event.label.name }}
+
+        run: node ./scripts/github-actions/create-cc-completed-ticket.js

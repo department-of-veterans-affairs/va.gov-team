@@ -11,3 +11,4 @@ There are seven products currently living in the profile. These links go to the 
 - [Notification settings use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases#readme)
 - [Account security use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases#readme)
 - [Connected apps use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases#readme)
+- [Next of Kin / Emergency Contact use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/next-of-kin-emergency-contact/use-cases#readme)

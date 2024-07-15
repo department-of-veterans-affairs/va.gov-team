@@ -1,5 +1,5 @@
 # My VA Benefit Payments Use Case: Payments API Error
-**Last updated: July 17, 2023**
+**Last updated: June 4, 2024 - replaced links**
 
 If a LOA3 user signs in and there is an error with the payments API, we will show an error in the Benefit payments section on My VA.
 
@@ -9,8 +9,8 @@ If a LOA3 user signs in and there is an error with the payments API, we will sho
 * If this error occurs, we display an error that states "**We can't access your payment history.** We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later."
 * When this error occurs, the user will also see links to "Manage your direct deposit information" which links to the [direct deposit page](https://www.va.gov/profile/direct-deposit) of their profile and a link to "Review your payment history" which links to the [payment history tool](https://www.va.gov/va-payment-history/payments) directly below the error.
 * Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
-* [Desktop mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/268A4DAB-EB9D-49B5-AA3F-FEDBDB797E4A)
-* [Mobile mockup](https://www.sketch.com/s/9b0e6efc-423a-4354-9db3-ab2083d566c9/a/uuid/D56012A2-DBE1-49DD-A5D5-95D01ABB4DFA)
+* [Desktop mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-207&t=c2OqcG9WOavV8QTN-1)
+* [Mobile mockup](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-751&t=c2OqcG9WOavV8QTN-1)
 
 ## How to reproduce
 * In order to reproduce this error, log into VA.gov or staging.va.gov with any user.

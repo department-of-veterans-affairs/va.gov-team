@@ -33,41 +33,22 @@
 
 ### Intro - 5 minutes
 
--   Welcome! Thank you so much for your time today.  
+-   Welcome! Thank you so much for your time today.  My name is Charlotte - it's great to meet you! 
     How are you today?
     
--   My name is Charlotte and I work at VA.gov to help improve access to benefits and services for Veterans like you. [purpose]
+-   I want to share a little bit about me: I work at VA.gov to help improve access to benefits and services for Veterans like you. [purpose]
     
 -   This work is meaningful to me because I believe that those who have served have a right to these services. [meaning]
     
 -   My goal today is to learn how easy or difficult it is to use the form we have created using a screen reader. I don't use screen reader technology myself, but my colleague, Angela, uses a screen reader and is on the call to provide assistance if you need it
     
--   Please be honest with your feedback. [topic]
-    
--   You’ll notice there are a few people on the call already. They’re my colleagues and they’re here to listen and to learn. Is that ok with you? [permission] [Everyone say hello and their name]
-    
--   Your comfort and wellbeing are very important to us. Sensitive topics might come up, and if at any point you want to take a break, please let me know. If you want or need to stop the interview at any point, just let me know. You will be compensated for your time regardless.
-    
--   If you don't feel comfortable answering any questions, please let me know and we can move on. [comfort  and  consent]
-    
--   Finally, your identity will be kept confidential, and any information we take away from the interview will be stored securely. [confidentiality]
-    
--   Do you have any questions for me? [opportunity  to  ask  questions]
-    
--   Just want to ensure the next 90 minutes are still good for you today? [time  expectations]
-    
+-   We ask that you please be honest with your feedback. [topic]
 
-I’d love to ask a question to get to know you before we start the interview.
+    #### Observer consent
 
-Rapport building
-
--   What do you like to do with your free time? OR Where was the best place you visited while in service? OR Did you got to any international bases? Where were you stationed during your service?
-    
-
-#### Observer consent
-
--   Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple of additional observers during this session?
-    
+-   You’ll notice there are a few people on the call already. They’re my colleagues and they’re here to take notes and to assist with technical difficulties that come up during the interview.
+-   I also have a few additional observers in the waiting room who would like to listen today.
+-   Are you okay with a couple of additional observers during this session?
 
 -    If no:
     
@@ -78,7 +59,14 @@ Rapport building
 -    If yes:
     
 
--    ➡️ admit observers and ask them to briefly introduce themselves
+-    ➡️ admit observers and ask them to briefly introduce themselves [permission] 
+    
+-   Your comfort and wellbeing are very important to us. Sensitive topics might come up, and if at any point you want to take a break, please let me know. If you want or need to stop the interview at any point, just let me know. You will be compensated for your time regardless.
+    
+-   If you don't feel comfortable answering any questions, please let me know and we can move on. [comfort  and  consent]
+    
+-   Your identity will be kept confidential, and any information we take away from the interview will be stored securely. [confidentiality]
+    
     
 
 #### Recording consent
@@ -94,6 +82,19 @@ Rapport building
 -    ➡️ *Start recording
     
 -   I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+
+
+-   Do you have any questions for me? [opportunity  to  ask  questions]
+    
+-   Just want to ensure the next 90 minutes are still good for you today? [time  expectations]
+  
+
+_I’d love to ask a question to get to know you before we start the interview.
+
+**Rapport building
+**
+-   What do you like to do with your free time? OR Where was the best place you visited while in service? OR Did you got to any international bases? Where were you stationed during your service?
+    
 
 ### Warm-up Questions - 3-5 minutes
 
@@ -125,10 +126,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 -   Were there any specific barriers?
     
-- #### Optional Question - If they have experience with VA copay debt
+- #### Optional Question - If they have experience with VA copay or overpayment debt
 Today I will be taking you through a form to help with VA debt. First, I’d like to briefly hear about your experiences with VA debt.
 
-What has been your most recent experience with VA copay debt? [establish baseline]
+What has been your most recent experience with VA copay or overpayment debt? [establish baseline]
 #### Task Overview
 
 -  Imagine that you have a VA copay debt. Imagine you've been experiencing financial hardship and are having difficulty repaying the copay. Through some research, you find out that you can fill out the VA Financial Status Report Form to request help with this debt.

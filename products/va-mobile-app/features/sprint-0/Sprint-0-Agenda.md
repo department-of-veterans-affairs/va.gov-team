@@ -10,14 +10,10 @@ The Sprint 0 meeting is a time to do the following:
 * Review product briefs that we can pull from in a future quarter
 * Allow time with POs to ask questions or seek feedback on Sprint 0s in progress
 
-[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md) \
+[View Sprint 0 template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/sprint-0/product-brief-template.md)
 
 
 ## Future Sprint 0s (not yet ready)
-
-
-
-* After visit summary for appointments (Meko)
 * Sprint 0 - discovery research: what benefits am I eligible for? - (Liz)
 * App store review strategy (Matt)
 * Program level analytics - (Greta)
@@ -35,22 +31,56 @@ The Sprint 0 meeting is a time to do the following:
 * [External Links - Minimize and Refine](https://app.zenhub.com/workspaces/va-mobile-product-view-610035bc5395bb000e62e529/issues/gh/department-of-veterans-affairs/va-mobile-app/4077)
 * Personalized Notifications
     * Showing changes of statuses, etc.
-
+* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+* [App health/confidence dashboard using detox automation artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/app-health-confidence-dashboard/Sprint0.md) (Tom)
 
 ## Ready to Present
 
-* [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
-* [Getting Out/Transitioning User State](https://docs.google.com/document/d/1ECCgJNJ1edh8wjJ-sD9y2G86ds_Vd6i_a1bYlRJKLoA/edit) (Holly)
+* [After visit summary for appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/appointments/Project%20-%20After%20Visit%20Summary/Sprint0.md) (TBD)
+* [Screenshot Restriction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Screenshot%20Restriction/Sprint%200.md) (Adam)
+    * prevent users from taking screenshots of sensitive info (personal info, banking info, health data)
+    * what are industry standards?
+    * where would we want to implement it in our app
+    * alternatives to screenshots - Print, generate PDF
+    * can it be turned off in OS settings?
 
 
 | Immediate Action | Next Quarter Bucket | Icebox |
 | ----------- | ----------- | ----------- |
-| <br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
+| Spike of QA Analytics<br> |  [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md) <br><br> [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) <br><br> [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md) <br><br> [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese) | [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)<br><br> [Sprint 0: Pre-Needs Burial Claim - Adam](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/PreNeed%20Burial%20Claim/PreNeedBurialClaim.md) |
 
 
 
 
 ## Working session notes
+
+## 12/14/23
+* [In-app review updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/In-App%20Review%20Updates/InAppReviewUpdates.md) (Therese)
+   * POs would like this to be considered for Q1 2024
+   * Project expected to be part of the Global teams initiatives for consideration\
+   * Epic created [7169](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/7169)
+* Had a quick discussion on Screenshot Prevention
+   * POs asked when we talk about this to have another topic to discuss ask it will likely not take the whole time based on our initial discussions
+* Mentioned to POs that the Sprint 0 meeting / process likely to change with the new team structure
+* When discussing After Visit Summary, Rachel would like a heads up as she plans to invite others to attend 
+
+## 11/30/23
+* [OS version support updates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Version_Support/Version_Support.md) (Therese)
+   * turns out we do have officially supported OS versions, but they haven't been updated since launch
+      * We do NOT have an experience in the app to block or warn users
+   * we should take into account OS version usage and any other tech considerations when deciding which versions to support
+   * We should reassess supported versions on a reegular cadence
+   * We could use waygates/availability framework to enforce this
+   * May need to handle access to medical records separately from supported OS versions since medical records need to be accessible longer. 
+
+## 11/2/23
+* [QA for analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/QA%20for%20analytics/Sprint%200%3A%20QA%20for%20analytics.md)  (Greta/Therese)
+
+## 10/19/23
+* [Demo Mode Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Demo%20Mode%20Access/demoModeAccess.md) (Kelly)
+    * Recording:https://github.com/department-of-veterans-affairs/va.gov-team/assets/50680147/c5a65b75-68ae-4cec-b24a-fffcd0e0a8ba
+
+
 
 ## 10/5/23
 * [Sprint 0: Reddit Scraper - Jason C & Liz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/reddit-scraper/sprint-0.md)
@@ -87,7 +117,7 @@ The Sprint 0 meeting is a time to do the following:
 ## 8/3/23
 
 * [Sprint 0: Content management system (CMS)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/CMS/CMS%20sprint%200.md) (Misty)
-* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%3A%20Track%20referring%20URLs.md) (Greta)
+* [Sprint 0: Tracking referring URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Track%20referring%20URLs/Sprint%200%20Track%20referring%20URLs.md) (Greta)
 
 ## 7/20/23
 
