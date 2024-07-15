@@ -89,10 +89,12 @@ Which inclusive research strategies are you leveraging for this study? OCTO reco
 We would like to recruit 20 Veterans for this study.
 
 **Primary criteria (must-haves)**
-Veterans must have filed a disability compensation claim with the VA in the past 2 years.
+- Veterans must have filed a (standard, non-FDC) disability compensation claim with the VA in the past 2 years
+- [Open question: Do we want to filter for Veterans who say they remember receiving a VA letter?]
 
 **Screener question**
 > Have you filed a disability compensation claim with the VA in the last 2 years?
+> Was your disability compensation claim a Fully Developed Claim (FDC)? **Screen out participants who respond Yes to this question**
 
 What demographics, experience, and scenarios do you need participants to meet to effectively run your study? 
 
