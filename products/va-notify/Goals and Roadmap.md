@@ -36,7 +36,7 @@ Notes:
 |Quarter | Deployment Frequency Rating | Lead Time for Changes Rating | Change Failure Rate Rating | Time to Restore Service Rating |
 |---------|----------------------|-----------------------|---------------------|-------------------------|
 | Q1      | High                 | High                  | Elite               | Elite                   |
-| Q2      | Elite                | High                  | Elite               | Elite                        |
+| Q2      | Elite                | High                  | Elite               | Elite                   |
 | Q3      |                      |                       |                     |                         |
 | Q4      |                      |                       |                     |                         |
 
@@ -48,7 +48,7 @@ Very Satisfied (5) Satisfied (4) Neutral (3) Unsatisfied (2) Very Unsatisfied (1
 | Quarter | Average Score |
 |---------|---------------|
 | Q1      | 4.36          |
-| Q2      |               |
+| Q2      | 4.39          |
 | Q3      |               |
 | Q4      |               |
 
