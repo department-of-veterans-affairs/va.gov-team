@@ -221,7 +221,7 @@ The first 3 descriptions are consistent with those mentioned by Veterans during 
 All participants said that they thought the personalized home screen would be helpful to them in their life, and were able to give at least one example of a thing in their life that it would help them do. 
 
 When asked to imagine how they might use the homescreen of the app to help them with something in their life, participants described using the home screen as the entry point to:
-* give them access to a specific task (12 particpants)
+* give them access to a specific task (12 participants)
 * be _reminded_ (but not _notified_)* of an outstanding task (4 participants)
 * use the information on the home screen itself to accomplish a task (3 participants)
 
