@@ -63,6 +63,7 @@
         - Schedule Infrasturcture, Security Readiness Review
     - **Sub Goal: Travel Claim Submission from Past Appts - Web**
         - Goal is to wireframe the effort needed and coordinate with the Travel team
+        - 🟪 Create product documents
         - 🟥 [Update userflow ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88086)
         - 🟥 [Update Design ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88037)
         - 🟥 [Create Final Desktop Wireframes ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/88041)
