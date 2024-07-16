@@ -1,4 +1,4 @@
-# CAIA Kickoff Process
+# CAIA Kickoff Process for product teams
 `Current WIP Version: V1.0`
 
 ## In this document 📃
