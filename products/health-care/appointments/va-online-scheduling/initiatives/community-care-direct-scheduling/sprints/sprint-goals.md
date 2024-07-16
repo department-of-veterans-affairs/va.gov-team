@@ -47,12 +47,15 @@ ________________________________________________________________________________
 
 #### PLANNED RELEASES 
 - NONE
+  
 #### SPRINT TICKETS
 - **GOAL: Introduce community care direct scheduling in Appointments** 
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
        - 🟦 [Confirm page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87728)
        - 🟦 [Success (appointment details) page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87730)
        - 🟦 [Alert scenarios on provider list page](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87732)
+    - **Sub Goal: [Feature] Get CC Consults**
+       - ❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
          
 </details>
 
@@ -82,7 +85,7 @@ ________________________________________________________________________________
        - 🟨 🟥 [[CodePen] Make adjustments based on CAIA feedback](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/zh/338)
     - **Sub Goal: [Feature] Get CC Consults**
        - ✔️ 🟪 Schedule meeting with Stephen Barrs and Shane Elliott after July 15 to discuss getting CC Consults using vista-api-x
-       - ❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)
+       - ⛔ ~❗ 🟦 [Document architecture or sequence diagrams in repo based on conversation with VEText](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87736)~
     - **Sub Goal: [Feature] Integrate mocks with FE pages**
        - 🟪 Get Jeff and Ben spun up on local in order to validate FE tickets
        - ⛔ ~🟦 [Upcoming appts page with referral task card](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/87723)~
