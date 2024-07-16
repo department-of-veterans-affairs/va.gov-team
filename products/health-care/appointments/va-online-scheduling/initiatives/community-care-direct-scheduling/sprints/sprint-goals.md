@@ -97,7 +97,7 @@ ________________________________________________________________________________
        - 🟦 [Pending appts page with unscheduled referral and expired referral](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87738)
        - 🟥 [Move annotations in MVP page to specs page in Figma](https://app.zenhub.com/workspaces/appointments-cc-direct-scheduling-660abc13699bfa00195d685a/issues/gh/department-of-veterans-affairs/va.gov-team/88026)
     - **Sub Goal: [Feature] Design & Tech Debt**
-       - 🟥 [Add annotations into Figma MVP where we're calling the different API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87901)
+       - ✔️ 🟥 [Add annotations into Figma MVP where we're calling the different API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87901)
        - 🟥 🟪 Review and update (or provide feedback on) schedule from Rob
 
 
