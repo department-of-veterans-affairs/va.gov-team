@@ -6,6 +6,8 @@ This documentation provides instructions for configuring and using a Postman col
 
 The collection is available for download here: [VA.gov Identity - Service Account Auth (STS)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/f1c9526e8c04de099832441cd1778bba8a66e213/teams/vsp/teams/Identity/Product%20Documentation/Sign%20In%20Service/postman_collections/Service_Account_Auth.postman_collection.json)
 
+Many of the concepts, necessary attributes, responses, etc. in this Postman guide are explained in more detail in the overall [STS auth guide](../auth_flows/service_account.md).
+
 ## Prerequisites
 
 1. **Private Key**: Ensure you have the private key available for signing the JWT.
