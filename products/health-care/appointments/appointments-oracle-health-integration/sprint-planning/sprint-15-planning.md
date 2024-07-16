@@ -25,18 +25,10 @@ Sprint 14: 7/16/24 - 7/29/24
 ## 📋 Previous Sprint Summary:
 In Sprint 14, the team provided support for multiple features and initiatives, outlined as follows:  
 * #### Backend support for Oracle Health routing appointment requests to VetsAPI Patient Gateway for appointment requests
-  * check this 
-  * [#87483 CES-610: VPG: Return last seen date for each patient relationship](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87483) 
-
-
+  * Vets API Patient Gateway was update to return the last seen date for each patient relationship. This will assist with facility ranking relationships.
 * #### Backend support to build VetsAPI Patient Gateway to extend VAOS with Oracle Health write-back capabilities: 
-   *  * check these
-   * [#87491 CES-627 CES: Replace SAS vista appointment types with VFA vista appointment types](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87491)
-  * [#87314 CES-621: VPG: Update dependency deployment artifacts to latest available versions](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87314)
-  * [#87332 CES-485: VPG: migrate scheduling config calls from MFS to clinic-scheduling-config-service](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87332)
-  * [#84516 CES-564: VPG: Replace VAOS proxy calls with dedicated client](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/84516)
-  * [#87372 CES-611: VPG: Update to pull Location data from Identifier](https://app.zenhub.com/workspaces/appointments-oracle-health-integration-65a6e99ea522640e4d09393b/issues/gh/department-of-veterans-affairs/va.gov-team/87372)
-
+   * Clincial Encounter Service was updated to replace SAS appointment type functionality. CES can now retrieve valid vista appointment types from Vista Fhir Adapater rather than the SAS client.
+   * Vets API Patient Gateway had several updates in sprint 14 to extend VAOS with Oracle Health write-back capabilities. VPG was updated to ensure that all dependencies loaded during the VPG build are using the latest version and that each service is updated to the latest version. VPG migrated scheduling config calls from Mobile Facility Service to use Clinic Scheduling Config Service instead. Additionally VPG replaced VAOS proxy calls with dedicated client calls. This allows for VPG to have great flexibility and control over validating VAOS operations. To enable downstream consumers to filter based on location, VPG was updated to pull location data from identifier.
    
 ## 🏆 Sprint Goals and Stories
 🚧 rolled from previous sprint;🐞bug; 🚫 blocked;🧗‍♀️ pulled in after sprint started 
