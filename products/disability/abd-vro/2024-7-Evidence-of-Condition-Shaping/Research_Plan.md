@@ -141,17 +141,17 @@ Secondary criteria:
 
     - I have just started thinking about it
 
-    - I have talked to friends, family, or other Veterans about it.  **(Include)**
+    - I have talked to friends, family, or other Veterans about it.  **(Recruit)**
 
-    - I have looked online for information. **(Include)**
+    - I have looked online for information. **(Recruit)**
 
-    - I have talked with a Veteran Service Organization or attorney about it. **(Include)**
+    - I have talked with a Veteran Service Organization or attorney about it. **(Recruit)**
 
-    - I have started collecting documents to support my claim. **(Include)**
+    - I have started collecting documents to support my claim. **(Recruit)**
 
-    - I have submitted an Intent to File. **(Include)**
+    - I have submitted an Intent to File. **(Recruit)**
 
-    - I started a claim application on VA.gov, but I have not finished filing the claim. **(Include)**
+    - I started a claim application on VA.gov, but I have not finished filing the claim. **(Recruit)**
 
     - N/A - I am not planning to file a claim in the next three months.
 
@@ -172,7 +172,7 @@ Secondary criteria:
 
 ### Prepare
 
-Conversation guide and concepts will be ready Monday, June 15.
+Conversation guide and concepts will be ready Wednesday, July 17.
 
 Pilot session information 
 
@@ -180,7 +180,7 @@ Pilot session information 
 
 - Pilot participant email: TBD
 
-- Date and time of pilot session: TBD
+- Date and time of pilot session: Monday, July 22, Time TBD.
 
 
 ### Planned dates of research
@@ -205,23 +205,23 @@ Wednesday, July 24
 
 Thursday, July 25
 
--
+- 11:00am - 2:30pm ET
+- 3:30pm - 8pm ET (??? only Kim available)
 
-Friday, July 26
+Monday, July 29 (Don't schedule more than 2 sessions this day)
 
--
-
-Monday, July 29
-
--
+- 1:00pm - 2:00pm ET
+- 1:30pm - 8:00pm ET
 
 Tuesday, July 30
 
--
+- 11:00am - 2:30pm ET
+- 4:00pm - 8:00pm ET
 
 Wednesday, July 31
 
--
+- 11:00am - 4:00pm ET
+- 5:00pm - 8:00pm ET
 
 
 ### Team Roles
@@ -234,7 +234,7 @@ Below is the list of the people serving in each role and their contact informati
 
 - Participant recruiting & screening: Perigean
 
-- Project point of contact: Kim Ladin
+- Project point of contact: _____________________
 
 - Participant(s) for pilot test: TBD
 
