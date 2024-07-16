@@ -13,11 +13,14 @@ Before we start, I have a few things that I want to go over with you:
   - If yes: Admit observers.
 - Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
 Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-- *Are you comfortable if I record my screen and audio as we talk today?* We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
 Knowing that, are you comfortable if I record my screen and audio as we talk today?
   - If yes: Once I start recording, I’ll ask again for your confirmation.
 
-## Warm-up
+## Warm-up (2-5 min)
+- Could you talk about your previous experiences using VA.gov?
+- Have you worked with a representative or a group before to navigate VA services?
+- 
 
 ## Veteran Understanding
 
@@ -30,5 +33,5 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## Emergency Exit
 Well, we have covered all of the questions I had for you today. Thank you so much for your time and feedback! 
-[In case the session was activating for the Veteran and they need further immediate support afterwards, instruct them to dial 988 and press 1]
+*In case the session was activating for the Veteran and they need further immediate support afterwards, instruct them to dial 988 and press 1*
 
