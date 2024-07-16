@@ -63,7 +63,7 @@ In general, accessibility specialists focus on five areas of testing for accessi
   
 ### Automated testing
 
-- Run [axe checks](https://www.deque.com/axe/) on every page or unique state (required)
+- Run [axe checks](https://www.deque.com/axe/) on every page or unique state with the [free axe browser plug-in](https://www.deque.com/axe/browser-extensions/). (required)
 - [Run WAVE](https://wave.webaim.org/) on every page if time allows. WAVE is more visual than axe, but offers some excellent ways to identify nested headings and HTML5 landmark tags.
 - Some accessibility specialists may use other browser add-ons to test for different things, such as [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi?hl=en), [ARC](https://www.tpgi.com/arc-platform/arc-toolkit/) and others.
 - Some accessibility specialists may also run the HTML through a HTML validator as this sometimes can cause issues for assistive technology.
