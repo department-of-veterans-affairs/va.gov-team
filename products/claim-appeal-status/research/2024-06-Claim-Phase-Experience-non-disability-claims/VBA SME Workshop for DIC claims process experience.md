@@ -1,12 +1,14 @@
-# VBA SME Workshop for Dependency claims process experience
+# VBA SME Workshop for DIC claims process experience
 
 ## Background
 
 Currently, we are working to increase transparency for the  [disability claims process](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1713276576012/25e677b1d846aff3bea16fc9175e473d5e509888?sender=u606d6bea4af40ec4fe659363)  by providing a description for each process step so hopefully veterans can  anticipate what will happen next in the claims process or to educate veterans on ideal times to submit evidence etc.
+
 Our new understanding is that we can specify which claims will use the new claims process UI (accordion UI) and provide bespoke content based on the claim type. Our goal is to learn more about the [product] claims process so that we can determine the most effective way to represent the claim using the new UI.
 
 ## Summary
-The DIC claims process generally follows the same 8-step process as pension claims. These claims typically move faster through the steps, with the average processing time for DIC being significantly lower than for pension. We evaluate steps 1-8 for each benefit simultaneously. If a benefit doesn’t apply during a step, we stop considering it and continue with the others. The number of additional rules we need to consider beyond that point is relatively small. Therefore, we don’t need to gather further information as often, as it is easy to establish a direct connection if the information is on the death certificate and service record. If we are unable to connect the service-related condition to the cause of death, we continue the evaluation for pension.
+
+The Dependency and Indemnity Compensation (DIC) claims process generally follows the same 8-step process as pension claims. These claims typically move faster through the steps, with the average processing time for DIC being significantly lower than for pension. We evaluate steps 1-8 for each benefit simultaneously. If a benefit doesn’t apply during a step, we stop considering it and continue with the others. The number of additional rules we need to consider beyond that point is relatively small. Therefore, we don’t need to gather further information as often, as it is easy to establish a direct connection if the information is on the death certificate and service record. If we are unable to connect the service-related condition to the cause of death, we continue the evaluation for pension.
 
 ## Open questions with answers
 
